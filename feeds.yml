@@ -55,8 +55,10 @@ feeds:
 settings:
   # フィードに残す期間(日)。これより古い記事は落とす
   retention_days: 14
-  # 各出力フィードの最大件数
+  # 各出力RSSフィードの最大件数
   max_items: 100
+  # feed.json に載せる最大件数(タイムラインUIのデータ源。日付順・保持期間内をまとめて出す)
+  json_max_items: 400
   # 1回のGemini呼び出しでスコアリングする記事数
   score_batch_size: 20
   # 使用するGeminiモデル (gemini-2.5-flash は新規ユーザーには提供終了。
