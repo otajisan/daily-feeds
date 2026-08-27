@@ -293,11 +293,11 @@ check("エラー時もフィードへのリンクは残る", await evaluate('doc
 await shot("page-error");
 
 // --- レビュー指摘の回帰テスト
-await send("Page.addScriptToEvaluateOnNewDocument", { source: "" });   // 直前のfetch差し替えを打ち消せないので新規targetで検証
+// addScriptToEvaluateOnNewDocument で入れた fetch 差し替えは取り消せないので、新しいタブに移る
 const t2 = await (await fetch(`${CDP}/json/new?${encodeURIComponent(PAGE)}`, { method: "PUT" })).json();
 const ws2 = new WebSocket(t2.webSocketDebuggerUrl);
 await new Promise((res, rej) => { ws2.onopen = res; ws2.onerror = rej; });
-const old2 = ws; ws = ws2;
+ws = ws2;
 ws2.onmessage = (m) => {
   const msg = JSON.parse(m.data);
   if (msg.id && pending.has(msg.id)) {
