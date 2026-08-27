@@ -86,6 +86,7 @@ a { color: var(--accent); }
 
 /* ---------- header ---------- */
 .masthead { padding: 28px 0 16px; }
+.masthead-top { display: flex; align-items: flex-start; justify-content: space-between; gap: 16px; flex-wrap: wrap; }
 .masthead h1 { margin: 0; font-size: 1.6rem; letter-spacing: -.01em; }
 .tagline { margin: 4px 0 0; color: var(--muted); font-size: .875rem; }
 .status { margin: 12px 0 0; color: var(--faint); font-size: .8125rem; }
@@ -239,8 +240,17 @@ footer ul { list-style: none; display: flex; flex-wrap: wrap; gap: 14px; padding
 <div class="wrap">
 
 <header class="masthead">
-  <h1>daily-feeds</h1>
-  <p class="tagline">日本語Tech記事とAI/LLMニュースを、Geminiの注目度スコア付きで集約したタイムライン</p>
+  <div class="masthead-top">
+    <div>
+      <h1>daily-feeds</h1>
+      <p class="tagline">日本語Tech記事とAI/LLMニュースを、Geminiの注目度スコア付きで集約したタイムライン</p>
+    </div>
+    <div class="seg" role="group" aria-label="テーマ">
+      <button type="button" class="btn" data-theme-btn="auto" aria-pressed="true">自動</button>
+      <button type="button" class="btn" data-theme-btn="light" aria-pressed="false">ライト</button>
+      <button type="button" class="btn" data-theme-btn="dark" aria-pressed="false">ダーク</button>
+    </div>
+  </div>
   <p class="status" id="status">読み込み中…</p>
 </header>
 
@@ -260,11 +270,6 @@ footer ul { list-style: none; display: flex; flex-wrap: wrap; gap: 14px; padding
     </label>
     <button type="button" class="btn" id="unread" aria-pressed="false">未読のみ</button>
     <button type="button" class="btn" id="clear-read">既読を消去</button>
-    <div class="seg" role="group" aria-label="テーマ" style="margin-left:auto">
-      <button type="button" class="btn" data-theme-btn="auto" aria-pressed="true">自動</button>
-      <button type="button" class="btn" data-theme-btn="light" aria-pressed="false">ライト</button>
-      <button type="button" class="btn" data-theme-btn="dark" aria-pressed="false">ダーク</button>
-    </div>
   </div>
   <div class="row">
     <div class="chips" id="sources" role="group" aria-label="ソースで絞り込み"></div>
@@ -295,6 +300,7 @@ footer ul { list-style: none; display: flex; flex-wrap: wrap; gap: 14px; padding
   var FEED_URL = "./feed.json";
   var PREFS_KEY = "daily-feeds:prefs:v1";
   var READ_KEY = "daily-feeds:read:v1";
+  var READ_TTL_DAYS = 45;   // 保持期間(14日)より十分長く取る
 
   var el = {
     status: document.getElementById("status"),
@@ -411,8 +417,11 @@ footer ul { list-style: none; display: flex; flex-wrap: wrap; gap: 14px; padding
       if (q && it.haystack.indexOf(q) === -1) return false;
       return true;
     });
+    // 生成側の並びに依存せず、常に明示的に並べ替える
     if (prefs.sort === "score") {
       list.sort(function (a, b) { return b.score - a.score || (a.published < b.published ? 1 : -1); });
+    } else {
+      list.sort(function (a, b) { return a.published < b.published ? 1 : (a.published > b.published ? -1 : 0); });
     }
     return list;
   }
@@ -571,6 +580,12 @@ footer ul { list-style: none; display: flex; flex-wrap: wrap; gap: 14px; padding
     var counts = {};
     items.forEach(function (it) { counts[it.source] = (counts[it.source] || 0) + 1; });
     var names = Object.keys(counts).sort(function (a, b) { return counts[b] - counts[a]; });
+    // 消えた/改名されたソースが保存されたままだと、チップが出ないのに絞り込みだけ効いてしまう
+    var known = prefs.sources.filter(function (n) { return counts[n] !== undefined; });
+    if (known.length !== prefs.sources.length) {
+      prefs.sources = known;
+      savePrefs();
+    }
     var frag = document.createDocumentFragment();
     names.forEach(function (name) {
       var chip = node("button", "chip");
@@ -604,7 +619,10 @@ footer ul { list-style: none; display: flex; flex-wrap: wrap; gap: 14px; padding
       frag.appendChild(o);
     });
     el.category.replaceChildren(frag);
-    if (cats.indexOf(prefs.category) === -1) prefs.category = "";
+    if (prefs.category && cats.indexOf(prefs.category) === -1) {
+      prefs.category = "";
+      savePrefs();
+    }
     el.category.value = prefs.category;
   }
 
@@ -648,6 +666,9 @@ footer ul { list-style: none; display: flex; flex-wrap: wrap; gap: 14px; padding
       saveStore(READ_KEY, read);
       render();
     });
+  }
+
+  function wireTheme() {
     document.querySelectorAll("[data-theme-btn]").forEach(function (b) {
       b.addEventListener("click", function () {
         prefs.theme = b.dataset.themeBtn;
@@ -691,16 +712,22 @@ footer ul { list-style: none; display: flex; flex-wrap: wrap; gap: 14px; padding
         source: it.source ? String(it.source) : "unknown",
         category: it.category ? String(it.category) : "",
         score: isFinite(score) ? score : 50,
-        published: String(it.published || date.toISOString()),
+        published: date.toISOString(),   // 不正な published を後段に持ち回さない
         date: date,
         haystack: [title, summary, it.source].join(" ").toLowerCase()
       };
     }).filter(Boolean);
   }
 
+  // フィード取得が一時的に失敗した記事の既読が消えないよう、
+  // 「今回のfeed.jsonに無い」ではなく「保存から十分経った」を掃除の基準にする
   function pruneRead() {
+    var horizon = Date.now() - READ_TTL_DAYS * 86400000;
     var alive = {};
-    items.forEach(function (it) { if (read[it.id]) alive[it.id] = read[it.id]; });
+    Object.keys(read).forEach(function (id) {
+      var at = Number(read[id]);
+      if (isFinite(at) && at >= horizon) alive[id] = read[id];
+    });
     if (Object.keys(alive).length !== Object.keys(read).length) {
       read = alive;
       saveStore(READ_KEY, read);
@@ -717,6 +744,7 @@ footer ul { list-style: none; display: flex; flex-wrap: wrap; gap: 14px; padding
       if (!Array.isArray(prefs.sources)) prefs.sources = [];
     }
     applyTheme();
+    wireTheme();
     read = loadStore(READ_KEY, {});
 
     fetch(FEED_URL, { cache: "no-cache" })
@@ -725,31 +753,40 @@ footer ul { list-style: none; display: flex; flex-wrap: wrap; gap: 14px; padding
         return res.json();
       })
       .then(function (data) {
-        items = normalize(Array.isArray(data.items) ? data.items : []);
-        generatedAt = data.generated_at || null;
-        if (!items.length) {
-          el.status.textContent = "記事がありません";
-          showNotice("feed.json に記事が入っていません。集約ワークフローの実行を待ってください。");
-          return;
+        try {
+          renderFeed(data);
+        } catch (err) {
+          el.status.textContent = "表示中にエラーが発生しました";
+          showNotice("記事の描画に失敗しました（" + err.message + "）。生フィードは下のリンクから開けます。", true);
         }
-        pruneRead();
-        el.controls.hidden = false;
-        buildSourceChips();
-        buildCategorySelect();
-        restoreControls();
-        wireControls();
-        render();
-        syncControlsHeight();
-        var resizeTimer = null;
-        window.addEventListener("resize", function () {
-          clearTimeout(resizeTimer);
-          resizeTimer = setTimeout(syncControlsHeight, 150);
-        });
       })
       .catch(function (err) {
         el.status.textContent = "読み込みに失敗しました";
         showNotice("feed.json を読み込めませんでした（" + err.message + "）。生フィードは下のリンクから開けます。", true);
       });
+  }
+
+  function renderFeed(data) {
+    items = normalize(Array.isArray(data.items) ? data.items : []);
+    generatedAt = data.generated_at || null;
+    if (!items.length) {
+      el.status.textContent = "記事がありません";
+      showNotice("feed.json に記事が入っていません。集約ワークフローの実行を待ってください。");
+      return;
+    }
+    pruneRead();
+    el.controls.hidden = false;
+    buildSourceChips();
+    buildCategorySelect();
+    restoreControls();
+    wireControls();
+    render();
+    syncControlsHeight();
+    var resizeTimer = null;
+    window.addEventListener("resize", function () {
+      clearTimeout(resizeTimer);
+      resizeTimer = setTimeout(syncControlsHeight, 150);
+    });
   }
 
   boot();
