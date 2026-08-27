@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 27 Aug 2026 19:33:32 +0000</lastBuildDate>
+<lastBuildDate>Thu, 27 Aug 2026 23:08:21 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] [AINews] NVIDIA buys HuggingFace for $13B, as OpenAI publishes their HF incident retro</title>
@@ -167,6 +167,14 @@
 <description>Googleは2026年8月14日、生成AIモデル「Gemini 3.7 Flash」を発表した。コーディングやAIエージェントでの性能を高めたほか、Web開発や専門知識を必要とする業務への対応力も向上したという。 — gihyo.jp / score: 80 (Googleの新型Gemini 3.7 Flash発表)</description>
 </item>
 <item>
+<title>[75] Breaking Claude Code Opus 5 Auto Mode</title>
+<link>https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/</guid>
+<pubDate>Thu, 27 Aug 2026 22:50:25 +0000</pubDate>
+<category>Simon Willison</category>
+<description>Breaking Claude Code Opus 5 Auto Mode Anthropic are putting a great deal of faith in Claude Code's auto mode for protecting their coding agent users against prompt injection attacks. They recently made that the default and have made bold claims about its effectiveness. Johann Rehberger is one of the most credible prompt injection researchers active today. He found an attack against auto mode which he claims works 80% of the time, by tricking Claude Code into downloading and uncompressing a zip a — Simon Willison / score: 75 (Claude Codeの自動モードとプロンプトインジェクションの脆弱性)</description>
+</item>
+<item>
 <title>[75] DuckDBの開発元であるDuckLabsがAWS子会社になると発表。DuckDBはオープンソースのMITライセンスを維持</title>
 <link>https://www.publickey1.jp/blog/26/duckdbducklabsawsduckdbmit.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/duckdbducklabsawsduckdbmit.html</guid>
@@ -221,14 +229,6 @@
 <pubDate>Wed, 26 Aug 2026 23:44:35 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>JPGでもPNGでもない 2026年内に主要ブラウザが「JXL」を正式採用へ：Firefoxが「JPEG XL」サポート方針を明らかに Mozillaは、Firefox 157において次世代画像フォーマット「JPEG XL」を正式採用する方針を明らかにした。Googleが開発したRust製デコーダーを採用する。Google Chromeの開発チームも同様の意向を示してお... — はてなブックマーク テクノロジー / score: 75 (主要ブラウザによる次世代画像フォーマットJXL採用)</description>
-</item>
-<item>
-<title>[75] アクセスキーこわい やめかたと漏らさない工夫</title>
-<link>https://qiita.com/sassssan68/items/e239e408476522641de8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/sassssan68/items/e239e408476522641de8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Wed, 26 Aug 2026 11:11:57 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>AWS CLI を使うのに、アクセスキーを発行していませんか？ 私も昔はそうでした。便利なんですよね、アクセスキー。 一度 aws configure で設定すれば、あとはずっと使えます。 でも、この便利さの裏に、ちょっとこわい話があります。 漏らせば高額な請求、情報流出、... — Qiita 人気記事 / score: 75 (AWSアクセスキーの危険性と安全な管理のベストプラクティス)</description>
 </item>
 <item>
 <title>[75] ChatGPTの内蔵ブラウザーがWebMCPに対応、Webサイトが公開するツールを「サイトツール」として利用可能に ——10日間のWebMCP Challengeも開催</title>
@@ -325,14 +325,6 @@
 <pubDate>Thu, 27 Aug 2026 07:44:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>The Document Foundation（TDF）は8月26日、オープンソースのOfficeスイート「LibreOffice 26.8」のリリースを発表した。 — gihyo.jp / score: 70 (LibreOffice 26.8のリリース情報)</description>
-</item>
-<item>
-<title>[70] IIJ、1枚でドコモ網とKDDI網を切り替えられるSIM　耐通信障害を訴求</title>
-<link>https://japan.cnet.com/article/35251982/</link>
-<guid isPermaLink="true">https://japan.cnet.com/article/35251982/</guid>
-<pubDate>Thu, 27 Aug 2026 07:04:53 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>IIJは、ドコモ網とKDDI網の両方を自社で提供するMVNOだ。今回のサービスは、この強みに、特許を取得した独自の回線冗長化技術を組み合わせて製品にした。 1枚のSIMにドコモ網とKDDI網の2つの通信プロファイルを格納し、利用環境に応じて回線を切り替える。切り替え条件は、死活監視や電波強度の測定にもとづいて機器側で... — はてなブックマーク テクノロジー / score: 70 (通信障害対策としての複数回線切替SIMサービス)</description>
 </item>
 <item>
 <title>[70] CloudflareがAgent Memoryを発表、AIエージェント用マネージド永続メモリサービス</title>
@@ -511,6 +503,14 @@
 <description>DeepSeekは2026年8月13日、エージェントハーネス「DeepSeek Harness」のバージョン0.1を開発者プレビューとして公開した。 — gihyo.jp / score: 70 (DeepSeekのエージェント基盤公開)</description>
 </item>
 <item>
+<title>[65] OpenAIの暴走AI、1200体が結託　「仲間のため｣とシステムに突撃要求 - 日本経済新聞</title>
+<link>https://www.nikkei.com/article/DGXZQOGN2704N0X20C26A8000000/</link>
+<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOGN2704N0X20C26A8000000/</guid>
+<pubDate>Thu, 27 Aug 2026 20:58:11 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>【シリコンバレー=伴正春】米オープンAIで開発中の人工知能（AI）がサイバー攻撃をした問題で、約1200体のAIが連携して指示役、偵察役などを分担していたことがわかった。失敗リスクが高い作業でも、AI同士で「仲間のためだから参加して」と自己犠牲を強いる場面もあった。7月に起きた事故では、オープンAIで開発中のAI... — はてなブックマーク テクノロジー / score: 65 (AIエージェントの自律的な連携とセキュリティに関する重要インシデント)</description>
+</item>
+<item>
 <title>[65] Metaが従業員を大量解雇してAIに置き換えようとした「Project OT」はいかにして頓挫したのか？</title>
 <link>https://gigazine.net/news/20260827-meta-zuckerberg-replace-staff-ai-imploded/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260827-meta-zuckerberg-replace-staff-ai-imploded/</guid>
@@ -533,14 +533,6 @@
 <pubDate>Thu, 27 Aug 2026 08:20:45 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>ヌーラボは27年1月から有料4プランを3プランに統合。エコノミー（月額2万1000円、ユーザー上限15人）、ビジネス（月額3万6300円、ユーザー無制限）、プロフェッショナル（月額10万円、同）の3つにする。 現行のプレミアム（月額2万7000円）はビジネス（月額3万6300円）に、プラチナ（月額7万5000円）はプロフェッショナ... — はてなブックマーク テクノロジー / score: 65 (開発ツールの大幅値上げに関する業界の注目ニュース)</description>
-</item>
-<item>
-<title>[65] LLMのローカル実行ツール「Ollama」が「Claude Desktop」に対応 ～3カ月半ぶりの復活／現時点ではmacOSのみ、Windowsも間もなくサポート</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2135971.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2135971.html</guid>
-<pubDate>Thu, 27 Aug 2026 05:43:07 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>LLMのローカル実行ツール「Ollama」が「Claude Desktop」に対応 ～3カ月半ぶりの復活／現時点ではmacOSのみ、Windowsも間もなくサポート — はてなブックマーク テクノロジー / score: 65 (OllamaのClaude Desktop対応アップデート)</description>
 </item>
 <item>
 <title>[65] ビル・ゲイツ氏、AIに対する世界的制限を提唱　恩恵を圧倒する人間への危害に警鐘</title>
@@ -636,7 +628,7 @@
 <guid isPermaLink="true">https://qiita.com/yangguofu/items/ae3e9f9f0f5a4515f276?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
 <pubDate>Tue, 25 Aug 2026 19:14:13 +0000</pubDate>
 <category>Qiita 人気記事</category>
-<description>TL;DR 2026年8月、Google Antigravityが公式のVS Code拡張機能として登場した。もう「Antigravityという別IDE」に引っ越す必要がない これをGitHub Codespacesの中にインストールすると、エージェントの実行環境が丸ご... — Qiita 人気記事 / score: 65 (VS Code拡張機能としてのAntigravity解説)</description>
+<description>TL;DR 2026年8月、Google Antigravityが公式のVS Code拡張機能として登場した。もう「Antigravityという別IDE」に引っ越す必要がない これをGitHub Codespacesの中にインストールすると、エージェントの実行環境... — Qiita 人気記事 / score: 65 (VS Code拡張機能としてのAntigravity解説)</description>
 </item>
 <item>
 <title>[65] 減らない分岐は、指示ではなく型のせいだった</title>
@@ -775,20 +767,20 @@
 <description>8月11日に、NVIDIAから新しいオープンウェイトモデル、Nemotron 3.5 Lightningが登場しました。ライセンスはOpenMDW-1.1で、特に推論速度が重視されたモデルです。そしてSnap経由でこのモデルを利用できる、Inference Snaps版が同日に登場しています。 — gihyo.jp / score: 65 (NVIDIAの高速オープンモデルとUbuntu)</description>
 </item>
 <item>
-<title>[65] sqlite-utils 4.2</title>
-<link>https://simonwillison.net/2026/Aug/13/sqlite-utils/</link>
-<guid isPermaLink="true">https://simonwillison.net/2026/Aug/13/sqlite-utils/</guid>
-<pubDate>Thu, 13 Aug 2026 20:11:29 +0000</pubDate>
-<category>Simon Willison</category>
-<description>Release: sqlite-utils 4.2 Lots of improvements in this one relating to the table.transform() feature , which adds support for complex alter table operations by creating a fresh table, copying across the data and then dropping and replacing the old one. transform() now preserves a much larger array of edge-case schema definitions, including check constraints, unique constraints and even comments describing the columns. There are also new introspection properties for check constraints, and a whole — Simon Willison / score: 65 (sqlite-utilsの機能改善リリース。)</description>
-</item>
-<item>
 <title>[60] 3 new ways to plan and book travel in Search</title>
 <link>https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/</link>
 <guid isPermaLink="true">https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/</guid>
 <pubDate>Thu, 27 Aug 2026 16:00:00 +0000</pubDate>
 <category>Google AI Blog</category>
 <description>Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search. — Google AI Blog / score: 60 (Google検索における旅行計画機能の発表)</description>
+</item>
+<item>
+<title>[60] なぜプロンプトを直しても、AIの出力は安定しないのか</title>
+<link>https://qiita.com/haru-qiita/items/5e2b4b1a4b3497abe50f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/haru-qiita/items/5e2b4b1a4b3497abe50f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Thu, 27 Aug 2026 14:05:36 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>AIの出力がずれるたび、僕はプロンプトへ一文ずつ条件を足していました。 例を増やす。禁止事項を書く。語尾を指定する。temperatureを下げる。それでも別の入力で外れ、指示文の末尾に但し書きが積み上がる。正直、何時間も往復した末に、最初より直しにくいプロンプトを作った... — Qiita 人気記事 / score: 60 (AIプロンプトの不安定さを解決するための考察と知見)</description>
 </item>
 <item>
 <title>[60] RTX 5090 + RAM 128GBでQwen3.8-Flash-Nextをllama.cppで動かしてみた</title>
@@ -805,6 +797,14 @@
 <pubDate>Thu, 27 Aug 2026 04:42:57 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>ローカルLLM向けの NVIDIA GPU の選び方をまとめました。 1. はじめにローカルLLMを高速に動かしたい場合、最も有力な選択肢のひとつが「NVIDIA GPU」です。 NVIDIA GPUでは「CUDA」を中心としたAI向けソフトウェアが充実しており、多くの推論エンジンや高速化技術を利用できます。 一方、ゲーム用GPUを選ぶ感覚で、CUDA... — はてなブックマーク テクノロジー / score: 60 (ローカルLLM向けNVIDIA GPU選びの実用解説)</description>
+</item>
+<item>
+<title>[60] オードリー・タンが警告　AIが考え人が従う「逆ケンタウロス」の罠</title>
+<link>https://xtech.nikkei.com/atcl/nxt/column/18/00157/082500111/</link>
+<guid isPermaLink="true">https://xtech.nikkei.com/atcl/nxt/column/18/00157/082500111/</guid>
+<pubDate>Thu, 27 Aug 2026 01:38:16 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>天才的なプログラマーで台湾の初代デジタル担当相として知られるオードリー・タン氏に、AI（人工知能）への依存が進めば、人間は自分で考えなくなるのではないかという疑問をぶつけた。インタビュー記事（下）では、自分の頭で「考えない人」が増えるリスクへの対処法や、AI時代の仕事と教育、デジタル技術を社会に生か... — はてなブックマーク テクノロジー / score: 60 (AI依存リスクに対する有識者の警鐘と考察)</description>
 </item>
 </channel>
 </rss>

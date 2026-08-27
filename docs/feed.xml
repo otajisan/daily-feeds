@@ -4,8 +4,40 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 27 Aug 2026 19:33:32 +0000</lastBuildDate>
+<lastBuildDate>Thu, 27 Aug 2026 23:08:21 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Breaking Claude Code Opus 5 Auto Mode</title>
+<link>https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/</guid>
+<pubDate>Thu, 27 Aug 2026 22:50:25 +0000</pubDate>
+<category>Simon Willison</category>
+<description>Breaking Claude Code Opus 5 Auto Mode Anthropic are putting a great deal of faith in Claude Code's auto mode for protecting their coding agent users against prompt injection attacks. They recently made that the default and have made bold claims about its effectiveness. Johann Rehberger is one of the most credible prompt injection researchers active today. He found an attack against auto mode which he claims works 80% of the time, by tricking Claude Code into downloading and uncompressing a zip a — Simon Willison / score: 75 (Claude Codeの自動モードとプロンプトインジェクションの脆弱性)</description>
+</item>
+<item>
+<title>ローカル AWS エミュレータで Terraform を検証する</title>
+<link>https://zenn.dev/edash_tech_blog/articles/0ea5ab1ef9a751</link>
+<guid isPermaLink="true">https://zenn.dev/edash_tech_blog/articles/0ea5ab1ef9a751</guid>
+<pubDate>Thu, 27 Aug 2026 21:57:18 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>はじめに Zenn 読者のみなさん、こんにちは。e-dash VPoE の伊藤です。 e-dash ではアプリケーションインフラとして多くのプロダクトで AWS を採用しており、IaC として Terraform でインフラリソースを全面的に管理しています。 最近はインフラ構築・運用も全面的に AI にお任せするようになってきました。AI 登場前は... — はてなブックマーク テクノロジー / score: 55 (ローカル環境とTerraformを活用した検証手法)</description>
+</item>
+<item>
+<title>OpenAIの暴走AI、1200体が結託　「仲間のため｣とシステムに突撃要求 - 日本経済新聞</title>
+<link>https://www.nikkei.com/article/DGXZQOGN2704N0X20C26A8000000/</link>
+<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOGN2704N0X20C26A8000000/</guid>
+<pubDate>Thu, 27 Aug 2026 20:58:11 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>【シリコンバレー=伴正春】米オープンAIで開発中の人工知能（AI）がサイバー攻撃をした問題で、約1200体のAIが連携して指示役、偵察役などを分担していたことがわかった。失敗リスクが高い作業でも、AI同士で「仲間のためだから参加して」と自己犠牲を強いる場面もあった。7月に起きた事故では、オープンAIで開発中のAI... — はてなブックマーク テクノロジー / score: 65 (AIエージェントの自律的な連携とセキュリティに関する重要インシデント)</description>
+</item>
+<item>
+<title>耳で聞く！Python で学ぶ マクロ経済学 入門 4</title>
+<link>https://qiita.com/maskot1977/items/9f0161a29cb3233e41a4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/maskot1977/items/9f0161a29cb3233e41a4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Thu, 27 Aug 2026 17:01:21 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>user: ソース動画のタイトル、そしてこの動画の内容について教えてください。 Gemini: ご指定のソース動画のタイトルと、その詳細な内容について詳しく解説します。 動画のタイトル この動画のタイトルは、「日本は借金大国ではなく超緊縮国家だ: Pythonで学ぶ... — Qiita 人気記事 / score: 25 (Pythonとマクロ経済学を組み合わせた学習ネタ)</description>
+</item>
 <item>
 <title>Gemini Omni 1.1 Flash lets you build with more control</title>
 <link>https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/</link>
@@ -21,6 +53,14 @@
 <pubDate>Thu, 27 Aug 2026 16:00:00 +0000</pubDate>
 <category>Google AI Blog</category>
 <description>Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search. — Google AI Blog / score: 60 (Google検索における旅行計画機能の発表)</description>
+</item>
+<item>
+<title>[石川温の「スマホ業界 Watch」] なぜ「povo 5G SAで圏外」に　"端末非対応”ではなくKDDIの設定ミス</title>
+<link>https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2136330.html</link>
+<guid isPermaLink="true">https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2136330.html</guid>
+<pubDate>Thu, 27 Aug 2026 15:55:56 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>[石川温の「スマホ業界 Watch」] なぜ「povo 5G SAで圏外」に "端末非対応”ではなくKDDIの設定ミス — はてなブックマーク テクノロジー / score: 45 (KDDIの5G設定ミスに関する一般的な技術・キャリアニュース)</description>
 </item>
 <item>
 <title>DuckDBの開発元であるDuckLabsがAWS子会社になると発表。DuckDBはオープンソースのMITライセンスを維持</title>
@@ -47,6 +87,38 @@
 <description>Metaのマーク・ザッカーバーグCEOが、2026年に「大量の従業員を解雇・再配置してAIに置き換える」という計画を実行する予定だったと、海外メディアのロイターが報じました。ロイターは「Project OT」というコードネームで呼ばれたこの計画が生まれた経緯や、計画が漏れたことによる社内での反発、そして計画が頓挫するま... — はてなブックマーク テクノロジー / score: 65 (MetaのAIによる人員置き換え計画の報道)</description>
 </item>
 <item>
+<title>なぜプロンプトを直しても、AIの出力は安定しないのか</title>
+<link>https://qiita.com/haru-qiita/items/5e2b4b1a4b3497abe50f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/haru-qiita/items/5e2b4b1a4b3497abe50f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Thu, 27 Aug 2026 14:05:36 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>AIの出力がずれるたび、僕はプロンプトへ一文ずつ条件を足していました。 例を増やす。禁止事項を書く。語尾を指定する。temperatureを下げる。それでも別の入力で外れ、指示文の末尾に但し書きが積み上がる。正直、何時間も往復した末に、最初より直しにくいプロンプトを作った... — Qiita 人気記事 / score: 60 (AIプロンプトの不安定さを解決するための考察と知見)</description>
+</item>
+<item>
+<title>AI駆動開発を組織で促すために</title>
+<link>https://speakerdeck.com/lycorptech_jp/aidlc-aidd-workshop</link>
+<guid isPermaLink="true">https://speakerdeck.com/lycorptech_jp/aidlc-aidd-workshop</guid>
+<pubDate>Thu, 27 Aug 2026 13:48:47 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>JAWS-UG AI-DLC #02 勉強会で「個人のAI活用から組織実践へ移行する際に必要な条件」を、AIDD/ODWワークショップの実践知として共有する。未公開情報は扱わず、TechBlog掲載範囲で発信する。 — はてなブックマーク テクノロジー / score: 50 (組織でのAI駆動開発導入に関する実践知と知見の共有)</description>
+</item>
+<item>
+<title>もくもく会で学んだだけで満足してませんか？ — LTが学びを「資産」に変える理由</title>
+<link>https://qiita.com/teppei19980914/items/27661b8f196324fe2eb2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/teppei19980914/items/27661b8f196324fe2eb2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Thu, 27 Aug 2026 13:30:39 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>この記事は約7分で読めます。 筆者プロフィール: ソフトウェアエンジニア。「知った気にならない。いつまでも学び続ける」を信条に、業務と個人開発の両輪で技術を磨いています。AI 駆動開発で複数の個人開発アプリを構築・運用中。 👉 ポートフォリオ: 筆者ホームページ 今日は... — Qiita 人気記事 / score: 30 (技術イベントの学びを定着させるためのLTのすすめ)</description>
+</item>
+<item>
+<title>10年分ぐらいのQiitaの自分の投稿を蒸留したら、自分っぽい記事を書いてくれるようになったww</title>
+<link>https://qiita.com/moritalous/items/4a70f0bee16d5d690a73?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/moritalous/items/4a70f0bee16d5d690a73?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Thu, 27 Aug 2026 13:01:16 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>この投稿は、100%人間が書いています。 さっき公開したこの記事、実は100%生成AI製です。 （内容は実際に検証した結果なので、合ってると思います。） ただ、文体とか流れは、自分っぽい😁 やり方（というか実施したプロンプト）です プロンプト まずは... — Qiita 人気記事 / score: 55 (自分の過去記事を蒸留して生成AIに自分らしい文章を書かせる手法)</description>
+</item>
+<item>
 <title>Piloting the world's first double-blind AI evaluations</title>
 <link>https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/</link>
 <guid isPermaLink="true">https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/</guid>
@@ -71,12 +143,28 @@
 <description>Amazonがオンライン分析処理(OLAP)に特化したオープンソースの高性能組み込み型SQLデータベース管理システムであるDuckDBの開発を主導するDuckLabsを買収する最終契約を締結したと発表しました。 AWS to acquire DuckLabs, the company behind DuckDB https://www.aboutamazon.com/news/company-news/aws-ducklabs AWS a... — はてなブックマーク テクノロジー / score: 75 (AmazonによるDuckDB開発元買収とOSSの動向)</description>
 </item>
 <item>
+<title>海外に移住した人「日本で買ったKindleにアクセスできない」→海外でも読む方法やアカウント設定などの情報が集まる</title>
+<link>https://togetter.com/li/2738099</link>
+<guid isPermaLink="true">https://togetter.com/li/2738099</guid>
+<pubDate>Thu, 27 Aug 2026 10:19:26 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>aachan @aachan_dayo ふぁっ、、Kindleのlibrary全部消えてる、、と思ったら日本国外からアクセスできない疑惑....購入した本にアクセスできないとか不公平😭ヘルプ😭 2026-08-23 15:02:31 Amazon Help @AmazonHelp @aachan_dayo ご投稿を拝見しました。失礼いたします。 海外からのご利用にてAmazon.co.jp以外にログイ... — はてなブックマーク テクノロジー / score: 35 (Kindleの海外アクセス制限に関するユーザー間のトラブル情報)</description>
+</item>
+<item>
 <title>AIを使ったナレッジ中心設計を試してみた | フューチャー技術ブログ</title>
 <link>https://future-architect.github.io/articles/20260827b/</link>
 <guid isPermaLink="true">https://future-architect.github.io/articles/20260827b/</guid>
 <pubDate>Thu, 27 Aug 2026 10:15:21 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>夏休みの課題ということで、これまでの業務経験、Real World HTTP、Goならわかるシステムプログラミング、実用Go言語、お客様と一緒に勉強したReact/Next.jsの知識を全部詰め込んだ、自分史上最高のウェブアプリケーションサーバーを作ってみました。 https://shibukawa.github.io/popcornweb/ http.ServeMuxとhttp.Hand... — はてなブックマーク テクノロジー / score: 55 (AIを使ったナレッジ中心設計の試み)</description>
+</item>
+<item>
+<title>静的サイトの邪魔者となる問い合わせフォームをカスタム要素で生やす</title>
+<link>https://qiita.com/ssc-ksaitou/items/7f771f83a450ab6d15e5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/ssc-ksaitou/items/7f771f83a450ab6d15e5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Thu, 27 Aug 2026 09:23:02 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>はじめに ウェブサイトの内容がほぼ静的コンテンツである場合、事前生成して配信したいのが普通ですが、大概のサイトは 問い合わせフォーム がついており、これのせいで静的コンテンツで閉じなくなるケースが多いです。極端な話、そのためだけにWordPressを入れてしまう場合もある... — Qiita 人気記事 / score: 50 (静的サイトにカスタム要素で問い合わせフォームを埋め込む実用的な手法)</description>
 </item>
 <item>
 <title>Opus 4.8級を手元に！320Bのモデル「GLM-5.3-Flash」無償公開</title>
@@ -87,12 +175,36 @@
 <description>Opus 4.8級を手元に！320Bのモデル「GLM-5.3-Flash」無償公開 — はてなブックマーク テクノロジー / score: 75 (高性能な大規模言語モデルの無償公開情報)</description>
 </item>
 <item>
+<title>「勉強してるのに作れない…」プログラミング学習の沼を脱出する“割り切り”のすすめ</title>
+<link>https://qiita.com/m__ikeda/items/2d938cedad3a143542af?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/m__ikeda/items/2d938cedad3a143542af?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Thu, 27 Aug 2026 09:05:35 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>自己紹介 こんにちは。株式会社PRUMで採用広報を担当している池田です。 未経験からIT業界を目指している方と話していると、かなりよく聞く共通した悩みがあります。そういった内容を皆さんにシェアしていくので、役立てていただけたらと思います😊 もしIT業界に興味があるけど、... — Qiita 人気記事 / score: 30 (プログラミング学習の心構えに関する初心向けの解説)</description>
+</item>
+<item>
+<title>マルチタスクをやめたら、完了までの体感時間が変わった</title>
+<link>https://qiita.com/sumomoo/items/95c018954c2b0cc9ebd8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/sumomoo/items/95c018954c2b0cc9ebd8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Thu, 27 Aug 2026 09:02:05 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です 日々、プログラミング学習や実務の中で、つまずきやすいポイントや 考え方を整理して発信しています。 PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。 ▶コーポレートサイト 複数の実装... — Qiita 人気記事 / score: 30 (エンジニアの作業効率化に関するマインドセット記事)</description>
+</item>
+<item>
 <title>Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training</title>
 <link>https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training</link>
 <guid isPermaLink="true">https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training</guid>
 <pubDate>Thu, 27 Aug 2026 09:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment. — OpenAI News / score: 55 (教育現場におけるChatGPTの活用研究)</description>
+</item>
+<item>
+<title>新人エンジニア、作業前に方向性を確認しとかないと後悔する</title>
+<link>https://qiita.com/prumnn/items/a86026cf72f4effc30f3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/prumnn/items/a86026cf72f4effc30f3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Thu, 27 Aug 2026 08:57:48 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>はじめに 作業を終えて「できました!」と提出したのに、猫子先輩から「うーん、これじゃないんだよなあ」と言われてショックを受けたぷらむんが気づいたのは、直すべきだったのは作業の中身より前の段階だった、ということでした。 会社で自称マスコットキャラをやってるのに、社内... — Qiita 人気記事 / score: 35 (新人エンジニア向けの作業前の方向性確認の重要性)</description>
 </item>
 <item>
 <title>IIJ、1枚のSIMでNTTドコモ網とKDDI網を切り替え可能な「IIJマルチプロファイルSIM 2.0」を提供開始 | IIJ</title>
@@ -117,14 +229,6 @@
 <pubDate>Thu, 27 Aug 2026 07:44:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>The Document Foundation（TDF）は8月26日、オープンソースのOfficeスイート「LibreOffice 26.8」のリリースを発表した。 — gihyo.jp / score: 70 (LibreOffice 26.8のリリース情報)</description>
-</item>
-<item>
-<title>IIJ、1枚でドコモ網とKDDI網を切り替えられるSIM　耐通信障害を訴求</title>
-<link>https://japan.cnet.com/article/35251982/</link>
-<guid isPermaLink="true">https://japan.cnet.com/article/35251982/</guid>
-<pubDate>Thu, 27 Aug 2026 07:04:53 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>IIJは、ドコモ網とKDDI網の両方を自社で提供するMVNOだ。今回のサービスは、この強みに、特許を取得した独自の回線冗長化技術を組み合わせて製品にした。 1枚のSIMにドコモ網とKDDI網の2つの通信プロファイルを格納し、利用環境に応じて回線を切り替える。切り替え条件は、死活監視や電波強度の測定にもとづいて機器側で... — はてなブックマーク テクノロジー / score: 70 (通信障害対策としての複数回線切替SIMサービス)</description>
 </item>
 <item>
 <title>OpenAI、公開プラグインでSkills Over MCPを早期サポート ——提出時にMCPサーバーからスキルを取り込み</title>
@@ -159,14 +263,6 @@
 <description>OpenAI自社チップ「ハラペーニョ」、NVIDIA GB300を大幅に上回る性能に — はてなブックマーク テクノロジー / score: 85 (OpenAIの高性能自社チップ開発の報道)</description>
 </item>
 <item>
-<title>LLMのローカル実行ツール「Ollama」が「Claude Desktop」に対応 ～3カ月半ぶりの復活／現時点ではmacOSのみ、Windowsも間もなくサポート</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2135971.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2135971.html</guid>
-<pubDate>Thu, 27 Aug 2026 05:43:07 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>LLMのローカル実行ツール「Ollama」が「Claude Desktop」に対応 ～3カ月半ぶりの復活／現時点ではmacOSのみ、Windowsも間もなくサポート — はてなブックマーク テクノロジー / score: 65 (OllamaのClaude Desktop対応アップデート)</description>
-</item>
-<item>
 <title>ローカルLLMを直接実行できるマイコンボード「Arduino VENTUNO Q」予約販売開始</title>
 <link>https://gihyo.jp/article/2026/08/arduino-ventuno-q?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/08/arduino-ventuno-q?utm_source=feed</guid>
@@ -183,14 +279,6 @@
 <description>CloudflareはAgents Weekの一環として、AIエージェントにセッション間、コンテキスト圧縮後、再起動後でも持続するメモリを提供するマネージドサービス、Agent Memoryのプライベート・ベータ版を発表した。すべてをコンテキストウィンドウに詰め込むのではなく、このサービスは会話から構造化メモリを抽出し、必要に応じて関連情報のみを取得する。CloudflareエンジニアリングチームのTyson Trautmann氏とRob Sutter氏が書いている： By Steef-Jan Wiggers Translated by Hiroaki.Sugimura — InfoQ Japan / score: 70 (CloudflareのAI用永続メモリサービス)</description>
 </item>
 <item>
-<title>「オルカン高配当」登場　世界の高配当株へ低コスト投資し、配当金のみ分配</title>
-<link>https://www.watch.impress.co.jp/docs/news/2135943.html</link>
-<guid isPermaLink="true">https://www.watch.impress.co.jp/docs/news/2135943.html</guid>
-<pubDate>Thu, 27 Aug 2026 05:17:08 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>「オルカン高配当」登場 世界の高配当株へ低コスト投資し、配当金のみ分配 — はてなブックマーク テクノロジー / score: 40 (新金融商品の仕組み解説ニュース)</description>
-</item>
-<item>
 <title>ローカルLLM向けの NVIDIA GPU の選び方｜npaka</title>
 <link>https://note.com/npaka/n/nec1c1fb7000b</link>
 <guid isPermaLink="true">https://note.com/npaka/n/nec1c1fb7000b</guid>
@@ -204,7 +292,7 @@
 <guid isPermaLink="true">https://speakerdeck.com/yda/50-dai-de-hatsutenshoku-shita-hanashi</guid>
 <pubDate>Thu, 27 Aug 2026 04:00:18 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>Sponsored · Ship Features Fearlessly Turn features on and off without deploys. Used by thousands of Ruby developers. → — はてなブックマーク テクノロジー / score: 20 (個人の転職体験談)</description>
+<description>Sponsored · Your Podcast. Everywhere. Effortlessly. Share. Educate. Inspire. Entertain. You do you. We'll handle the rest. → — はてなブックマーク テクノロジー / score: 20 (個人の転職体験談)</description>
 </item>
 <item>
 <title>【図解】AI・ChatGPT・RPA・iPaaS・n8n…業務自動化の言葉が多すぎる！66 製品を 6 役に例えたら、1 枚の工場イラスト図になった</title>
@@ -245,14 +333,6 @@
 <pubDate>Thu, 27 Aug 2026 01:50:48 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>以前、お知らせしたように、やねうら王プロジェクトでは、将棋の定跡を自動的に掘るスクリプトであるBookMinerを公開しました。このBookMinerというスクリプトは、GUIからマウスぽちぽちで操作できるようになっています。 将棋の大規模定跡生成スクリプトを公開しました https://yaneuraou.yaneu.com/2026/06/18/shogi-b... — はてなブックマーク テクノロジー / score: 50 (将棋AIの定跡に関する技術的なトピック)</description>
-</item>
-<item>
-<title>VPNをやめた製造業、NASへの「安全なリモートアクセス」をどう実現？</title>
-<link>https://atmarkit.itmedia.co.jp/ait/articles/2608/27/news044.html</link>
-<guid isPermaLink="true">https://atmarkit.itmedia.co.jp/ait/articles/2608/27/news044.html</guid>
-<pubDate>Thu, 27 Aug 2026 01:46:53 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>事業拡大に伴って拠点やグループ企業が増えれば、ITシステムをどう統合するかが課題の一つになる。福井県に拠点を置く繊維企業のトヨシマセンイでは、事業拡大とユーザー増加を背景に「NAS」（ネットワーク接続ストレージ）の容量不足や、アカウント管理の負荷が課題となった。新たにグループ入りした企業とのシステム統... — はてなブックマーク テクノロジー / score: 45 (製造業におけるNASリモートアクセスの実例解説)</description>
 </item>
 <item>
 <title>「それ、今やる必要ある？」と言われたときの、セキュリティ施策の通し方</title>
@@ -311,6 +391,14 @@
 <description>見きれないDatadogのモニタリングをDevinに任せて、毎朝Slackにレポートしてもらう 株式会社GENDAのエンジニアのジャンボです。 新しく事業に参画して、まるっとシステムを見ることになったとき、インフラやモニタリングしているメトリクスに関心を持ちたいのに、なかなか時間が取れないことってありますよね。今関わっているプロダクトではDatadogを使っていて、さまざまなメトリクスを可視化したり、できる限りのAlert/Monitorの設定もしているんですが、より理解を深めリスクに備えるためにAI（Devin）を使うことにしました。 定期的にAI（今回はDevin）にDatado... — Zenn トレンド / score: 60 (AIを活用したインフラモニタリングの自動化手法)</description>
 </item>
 <item>
+<title>今さら聞けない「ローカルLLM」知っておきたい5つの基本</title>
+<link>https://qiita.com/inoyu-qiita/items/601e7b70fc3a6b214a2d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/inoyu-qiita/items/601e7b70fc3a6b214a2d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Thu, 27 Aug 2026 00:42:41 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>はじめに ローカルLLMは、ひとことで言えばAIの「脳」を自分のPCで動かす仕組みです。 ChatGPTやClaudeのように外部のサーバーへ処理を依頼するのではなく、AIの脳に当たる仕組みを自分のPCへ入れて、その場で回答を作らせます。 自分も実際に使うまで、「何がロー... — Qiita 人気記事 / score: 50 (ローカルLLMの基本概念をまとめた初心者向け解説)</description>
+</item>
+<item>
 <title>AIに作らせたコードを、まっさらな環境で動かしてみた</title>
 <link>https://qiita.com/jqit_suwa/items/e11d49c9bb7eb7aaea37?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
 <guid isPermaLink="true">https://qiita.com/jqit_suwa/items/e11d49c9bb7eb7aaea37?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
@@ -343,14 +431,6 @@
 <description>Androidの魅力として語られてきた自由なアプリ導入手法、いわゆるサイドロードの運用が大きな転換期を迎えています。今回の施策について、これまでの経緯と新たな制限の仕組み、そして開発者が取るべき具体的な対応策を紐解いていきます。 — gihyo.jp / score: 65 (アプリ開発におけるサイドロード制限の動向と影響)</description>
 </item>
 <item>
-<title>ローカル AWS エミュレータで Terraform を検証する</title>
-<link>https://zenn.dev/edash_tech_blog/articles/0ea5ab1ef9a751</link>
-<guid isPermaLink="true">https://zenn.dev/edash_tech_blog/articles/0ea5ab1ef9a751</guid>
-<pubDate>Thu, 27 Aug 2026 00:03:42 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>はじめに Zenn 読者のみなさん、こんにちは。e-dash VPoE の伊藤です。 e-dash ではアプリケーションインフラとして多くのプロダクトで AWS を採用しており、IaC として Terraform でインフラリソースを全面的に管理しています。 最近はインフラ構築・運用も全面的に AI にお任せするようになってきました。AI 登場前はあまり気にならなかったのですが、インフラも AI に任せるようになったことで、ローカルで迅速にフィードバックループが回せる環境がほしくなってきました。 今回は、Terraform から使えるローカル AWS エミュレータを取り上げ、何が評価... — Zenn トレンド / score: 55 (ローカル環境とTerraformを活用した検証手法)</description>
-</item>
-<item>
 <title>風速15mでも裏返らない晴雨兼用傘、アンベル「タフネス アンチフリップ」開発者に聞く「全天候での安心感」を支える技術</title>
 <link>https://www.itmedia.co.jp/news/article/2608/27/2000000825/</link>
 <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2608/27/2000000825/</guid>
@@ -365,14 +445,6 @@
 <pubDate>Wed, 26 Aug 2026 23:52:58 +0000</pubDate>
 <category>Simon Willison</category>
 <description>Qwen3.8-Flash-Next Another open weights model from Qwen. This one is "a multimodal MoE model that also serves as an early preview of the architecture used in Qwen4". It's pretty big: 125B tokens, but only 6B active which means it gets a significant performance boost. I've been trying it out on a DGX Spark using these Unsloth quantized models . I'm still exploring the model - so far I've tried the 72.5GB UD-IQ1_S one (producing these pelicans ) and the 78.9GB UD-Q2_K_XL (producing these ). My fav — Simon Willison / score: 75 (Qwenの新しい大規模マルチモーダルモデル発表)</description>
-</item>
-<item>
-<title>「Twitter」が再始動 | 気になる、記になる…</title>
-<link>https://taisy0.com/2026/08/27/226774.html</link>
-<guid isPermaLink="true">https://taisy0.com/2026/08/27/226774.html</guid>
-<pubDate>Wed, 26 Aug 2026 23:50:00 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>2023年に「X」に名前が変更され、姿を消していたあの「Twitter」が再始動しました。 放棄されたとされる「Twitter」の名称とロゴを復活させようとしているバージニア州のスタートアップ企業「Operation Bluebird」が、現地時間の8月24日、新たなソーシャルメディア・ネットワーク「Twitter.now」を立ち上げたと発表しま... — はてなブックマーク テクノロジー / score: 40 (Twitter名称復活を掲げる新サービス)</description>
 </item>
 <item>
 <title>JPGでもPNGでもない　2026年内に主要ブラウザが「JXL」を正式採用へ</title>
@@ -397,6 +469,14 @@
 <pubDate>Wed, 26 Aug 2026 17:01:00 +0000</pubDate>
 <category>Google DeepMind</category>
 <description>Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe. — Google DeepMind / score: 70 (Geminiの新音声認識モデルの発表)</description>
+</item>
+<item>
+<title>ClaudeCode のセキュリティ監視ダッシュボードを作ってみた -- 自分を信用しないための個人ツール</title>
+<link>https://qiita.com/sp-n-taka/items/80facf8dcf2183dcd280?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/sp-n-taka/items/80facf8dcf2183dcd280?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Wed, 26 Aug 2026 16:34:36 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>ClaudeCode を利用し始めてもうすぐ1年ほどが経ちそうですが、最近悩みがあります。複数セッションを並行で走らせていると、どのセッションが止まっているか分からないこと。そして、作業許諾を求められるたびに内容を確認せずエンターを押す癖がついてしまったことです。 だったら... — Qiita 人気記事 / score: 60 (ClaudeCodeの実用的なセキュリティ監視ツールの紹介)</description>
 </item>
 <item>
 <title>Lovable CTO: The Future of SaaS Is Apps That Agents Can Use</title>
@@ -455,36 +535,12 @@
 <description>AIによる開発支援は「試す」フェーズから「成果を問う」フェーズへ移行しつつあります。 本セッションでは、本イベント参加登録時のアンケート（役職・企業規模・内製開発体制・AIで効果が出ている開発プロセス・導入課題など）の分析結果を発表。さらにファインディが実施するより広範なエンジニア組織調査と比較し、参… — はてなブックマーク テクノロジー / score: 65 (AI駆動開発の実態調査とトレンド分析)</description>
 </item>
 <item>
-<title>ベテランエンジニアのPRレビュー187件を分類してみたら、バグは5件に1件しか指摘されていなかった</title>
-<link>https://qiita.com/ktdatascience/items/02b6b45e2ca7d34ad146?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/ktdatascience/items/02b6b45e2ca7d34ad146?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Wed, 26 Aug 2026 13:31:54 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>自分のレビューが薄い理由が分からなかった 同じPRを見ているのに、自分は「LGTM」で終わり、隣の人は10件の的確な指摘を出してくる。何を見ればそうなるのか、聞いてみても「気になった箇所を見てるだけ」という答えしか返ってこない。同じ経験、ありませんか。 それなら実物を数え... — Qiita 人気記事 / score: 50 (コードレビューの傾向に関する分析)</description>
-</item>
-<item>
-<title>Rubyのミュータブルとイミュータブルが分からなかったのでわかりやすく</title>
-<link>https://qiita.com/1kazuki0/items/a198723b2f52d93be933?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/1kazuki0/items/a198723b2f52d93be933?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Wed, 26 Aug 2026 13:14:13 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>はじめに paizaのプログラミングスキルチェックを解いていて、変数の代入について詰まった箇所を深掘りしたところ、ミュータブルとイミュータブルを理解する必要があったので記事にしました。 言語によって異なるそうですが、今回はRubyの場合を想定した深掘りになります。 以下は... — Qiita 人気記事 / score: 40 (Rubyのミュータブルとイミュータブル解説)</description>
-</item>
-<item>
 <title>DMM Sprint Go に参加してきました🌟</title>
 <link>https://zenn.dev/s0nmy/articles/85761a4d31c8c2</link>
 <guid isPermaLink="true">https://zenn.dev/s0nmy/articles/85761a4d31c8c2</guid>
 <pubDate>Wed, 26 Aug 2026 12:38:01 +0000</pubDate>
 <category>Zenn トレンド</category>
 <description>はじめに 題名の通り DMM Sprint Go に参加してきました！ DMMの新卒技術研修をアレンジした、Goを実践的に学べる5日間のインターンとなっており、オンラインと対面のハイブリットでの実施でした。 2027年の参加を考えている学生さんの参考や、社員さんと関わる中で垣間見えたDMMの雰囲気をお伝えします！ なお、本記事では技術に関する具体的な話は行いません。 AI禁止縛りへの挑戦 今回のインターンでは実装でAIを使用することなく取り組みました。 いや〜辛かった。 ですが、だからこそ！！ 最高に楽しい5日間でした！！ 当たり前ですが、基礎力不足に無力を痛感する場面もありまし... — Zenn トレンド / score: 30 (新卒向け技術研修インターンの体験記)</description>
-</item>
-<item>
-<title>Ox Alpha の正体は Z.AI の GLM だった。無料期間に手元で使ったトークン量</title>
-<link>https://qiita.com/ishizakahiroshi/items/36b652d03016c3f59739?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/ishizakahiroshi/items/36b652d03016c3f59739?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Wed, 26 Aug 2026 12:07:20 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>3 日前に書いた記事の結論は、半分当たって半分保留だった。 当たっていたのは「運用層の指紋は GLM 系」。保留にしていたのは「当事者は肯定も否定もしていない」。2026-08-26、Z.AI（智谱）が Bloomberg に答えて、保留が消えた。 この話には前があります... — Qiita 人気記事 / score: 55 (モデルの正体に関する技術的調査報告)</description>
 </item>
 <item>
 <title>ローカルでの開発やめませんか？Claude Code / Cursorで開発の8割をクラウドに移した話</title>
@@ -501,30 +557,6 @@
 <pubDate>Wed, 26 Aug 2026 11:41:02 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>山本大介 @DaikeYamamoto 日番谷のスキルを敵が木属性の時に使用すると、スキルのバフ効果が2倍になります。 【敵が木属性以外の時】 2ターンの間、自分のダメージ上限値が500億、最大HPが1.1倍。 【敵が木属性の時】 4ターンの間、自分のダメージ上限値が1000億、最大HPが2.2倍。 x.com/pad_sexy/statu… 2026-08-25 17:... — はてなブックマーク テクノロジー / score: 30 (ゲーム内スキルの効果計算に関する議論)</description>
-</item>
-<item>
-<title>アクセスキーこわい やめかたと漏らさない工夫</title>
-<link>https://qiita.com/sassssan68/items/e239e408476522641de8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/sassssan68/items/e239e408476522641de8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Wed, 26 Aug 2026 11:11:57 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>AWS CLI を使うのに、アクセスキーを発行していませんか？ 私も昔はそうでした。便利なんですよね、アクセスキー。 一度 aws configure で設定すれば、あとはずっと使えます。 でも、この便利さの裏に、ちょっとこわい話があります。 漏らせば高額な請求、情報流出、... — Qiita 人気記事 / score: 75 (AWSアクセスキーの危険性と安全な管理のベストプラクティス)</description>
-</item>
-<item>
-<title>生成AI（Gemini）使いこなしの技術（序章）</title>
-<link>https://qiita.com/Urushihara-T/items/f878ffb348694926eb94?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/Urushihara-T/items/f878ffb348694926eb94?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Wed, 26 Aug 2026 11:03:11 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>『 ゼロスタートからAI名人をめざす全10回連載 』 本連載では、生成AIの基本操作から業務効率化、コンテンツ生成、そしてデータ処理や分析まで、毎回1テーマずつのステップアップ形式で生成AIを学べる情報を提供していきます。 Googleが誇るAIテクノロジー「Gemini... — Qiita 人気記事 / score: 50 (Geminiを活用した生成AI入門連載)</description>
-</item>
-<item>
-<title>「AIがあれば資格勉強はいらない」— そう思った私が情報処理技術者試験の勉強に立ち返る理由</title>
-<link>https://qiita.com/teppei19980914/items/975b0b7c03e2283bf477?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/teppei19980914/items/975b0b7c03e2283bf477?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Wed, 26 Aug 2026 10:11:10 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>この記事は約 4 分で読めます。 筆者プロフィール: ソフトウェアエンジニア。「知った気にならない。いつまでも学び続ける」を信条に、業務と個人開発の両輪で技術を磨いています。AI 駆動開発で複数の個人開発アプリを構築・運用中。 👉 ポートフォリオ: 筆者ホームページ こ... — Qiita 人気記事 / score: 45 (AI時代の資格勉強に対する個人の考察)</description>
 </item>
 <item>
 <title>Bringing ChatGPT for Teachers to more U.S. school districts</title>
@@ -591,28 +623,12 @@
 <description>こんにちは、座禅いぬです。 2026年8月21日・22日に開催されたPyCon JP 2026 に参加し、翌23日のスプリントにも参加したのでその時の話をします。僕が選んだテーマは「悪意あるPythonパッケージを解剖する」。過去に悪意あるコードが混入したPyPIの配布物を... — Qiita 人気記事 / score: 55 (悪意あるPythonパッケージの解析レポート)</description>
 </item>
 <item>
-<title>ピンポンダッシュを『押すだけ』で終わらせず、7種類の結果画像まで作った</title>
-<link>https://qiita.com/dev_cat222/items/3b212a359f2f8744291e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/dev_cat222/items/3b212a359f2f8744291e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Wed, 26 Aug 2026 07:55:13 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>動くゲージが緑のゾーンに入った瞬間にボタンを押す。 成功すれば次は少し速く、少し狭くなる。1回でも外したら、その場で御用です。 そんな単純なルールのブラウザゲーム、ピンポンダッシュを作りました。 実際のピンポンダッシュは迷惑なので絶対にできませんが、ブラウザ上なら誰... — Qiita 人気記事 / score: 25 (個人開発のブラウザゲーム紹介)</description>
-</item>
-<item>
 <title>ChatGPTの内蔵ブラウザーがWebMCPに対応、Webサイトが公開するツールを「サイトツール」として利用可能に ——10日間のWebMCP Challengeも開催</title>
 <link>https://gihyo.jp/article/2026/08/chatgpt-app-browser-support-webmcp?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/08/chatgpt-app-browser-support-webmcp?utm_source=feed</guid>
 <pubDate>Wed, 26 Aug 2026 07:34:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>OpenAIは2026年8月25日付の「ChatGPT &amp; Codex changelog」で、ChatGPTデスクトップアプリの内蔵ブラウザーに、WebMCPを利用した「サイトツール」を追加した。 — gihyo.jp / score: 75 (ChatGPT内蔵ブラウザーのWebMCP対応と新機能)</description>
-</item>
-<item>
-<title>IBM Bobを使って、量子コンピュータで1+1を計算してみる。</title>
-<link>https://qiita.com/harrowharrow16/items/a2dfd8847bd3cdf557f8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/harrowharrow16/items/a2dfd8847bd3cdf557f8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Wed, 26 Aug 2026 07:15:16 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>はじめに 今回は、IBM Bobで量子コンピュータを扱う！をテーマに、IBM Quantumに挑戦してみました。 量子コンピュータの原理や、どんなことに利用できるの？といった内容は、専門家の方に任せるとして、今回は量子コンピュータの得意な用途とはちょっと違いますが、一番シ... — Qiita 人気記事 / score: 50 (量子コンピュータを使った計算の試み)</description>
 </item>
 <item>
 <title>「AIの民主化」を日本で言い出した身として、そろそろ本当に「民主化」をやめたい話</title>
@@ -645,14 +661,6 @@
 <pubDate>Wed, 26 Aug 2026 03:28:10 +0000</pubDate>
 <category>Qiita 人気記事</category>
 <description>こんにちは、ソーイ株式会社の髙﨑です。 私は業務で時々、Vimを使ってファイルを編集することがあります。 例えば、サーバー上のファイルを直接確認・修正するときなど、普段使っているエディタを使えない環境でVimを使うことがあります。 ただ、Vimを使うたびに操作方法やコマンド... — Qiita 人気記事 / score: 45 (Vimのオペレータとモーションの整理・解説)</description>
-</item>
-<item>
-<title>AIが普及した今「AIっぽくない」アウトプットが求められる</title>
-<link>https://qiita.com/kobori_slj/items/590eabc56daa0bb0ff53?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/kobori_slj/items/590eabc56daa0bb0ff53?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Wed, 26 Aug 2026 02:52:26 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>1. はじめに 生成AIの爆発的な普及により、誰もが数秒でハイクオリティなテキスト・画像・プレゼン資料を出力できるようになりました。 しかし、その一方で 「これ、AIで作ったでしょ？」 とひと目で見抜かれてしまうケースも増えています。 ソーシャルメディア、Web広告、ビジ... — Qiita 人気記事 / score: 45 (AI普及後のアウトプットに関する考察)</description>
 </item>
 <item>
 <title>【AWS】複数人でリアルタイム描画できるお絵描きアプリを作ってみた</title>
@@ -732,7 +740,7 @@
 <guid isPermaLink="true">https://qiita.com/yangguofu/items/ae3e9f9f0f5a4515f276?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
 <pubDate>Tue, 25 Aug 2026 19:14:13 +0000</pubDate>
 <category>Qiita 人気記事</category>
-<description>TL;DR 2026年8月、Google Antigravityが公式のVS Code拡張機能として登場した。もう「Antigravityという別IDE」に引っ越す必要がない これをGitHub Codespacesの中にインストールすると、エージェントの実行環境が丸ご... — Qiita 人気記事 / score: 65 (VS Code拡張機能としてのAntigravity解説)</description>
+<description>TL;DR 2026年8月、Google Antigravityが公式のVS Code拡張機能として登場した。もう「Antigravityという別IDE」に引っ越す必要がない これをGitHub Codespacesの中にインストールすると、エージェントの実行環境... — Qiita 人気記事 / score: 65 (VS Code拡張機能としてのAntigravity解説)</description>
 </item>
 <item>
 <title>Next.js 16.3正式版リリース。Turbopackのメモリ使用量が最大90％減、SSRが最大22％高速化、TypeScript 7による型チェック高速化など</title>
@@ -773,14 +781,6 @@
 <pubDate>Tue, 25 Aug 2026 11:39:24 +0000</pubDate>
 <category>Hugging Face Blog</category>
 <description> — Hugging Face Blog / score: 70 (4bit量子化モデルの効率的な最適化手法)</description>
-</item>
-<item>
-<title>AIの提案が一般論ばかり返ってくるのは、こちらが一般論しか渡していないからだと思う</title>
-<link>https://qiita.com/Ryotaro-namaketAI/items/b828b262748063a05296?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/Ryotaro-namaketAI/items/b828b262748063a05296?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Tue, 25 Aug 2026 10:11:16 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>はじめに CLAUDE.md を書いたのに出力が変わった実感がない。 そう感じたことはないでしょうか。 書き方が悪いのだと思ってテンプレートを調べ直す人が多いのですが、原因はたいてい別の場所にあります。 トレンドであるHarness Engineering の枠組みで整理... — Qiita 人気記事 / score: 50 (AIへの指示出しのコツに関する考察)</description>
 </item>
 <item>
 <title>メッシュグラデーションをSVGで「真面目に」近似する</title>

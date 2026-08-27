@@ -1,6 +1,6 @@
 {
  "title": "daily-feeds",
- "generated_at": "2026-08-27T19:33:32.019576+00:00",
+ "generated_at": "2026-08-27T23:08:21.816855+00:00",
  "items": [
   {
    "id": "a31466f4f2ac70fb",
@@ -223,6 +223,17 @@
    "reason": "Googleの新型Gemini 3.7 Flash発表"
   },
   {
+   "id": "146822d4fb1fbfda",
+   "title": "Breaking Claude Code Opus 5 Auto Mode",
+   "link": "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/",
+   "summary": "Breaking Claude Code Opus 5 Auto Mode Anthropic are putting a great deal of faith in Claude Code's auto mode for protecting their coding agent users against prompt injection attacks. They recently made that the default and have made bold claims about its effectiveness. Johann Rehberger is one of the most credible prompt injection researchers active today. He found an attack against auto mode which he claims works 80% of the time, by tricking Claude Code into downloading and uncompressing a zip a",
+   "published": "2026-08-27T22:50:25+00:00",
+   "source": "Simon Willison",
+   "category": "ai",
+   "score": 75,
+   "reason": "Claude Codeの自動モードとプロンプトインジェクションの脆弱性"
+  },
+  {
    "id": "ea8cfc5426fc09e0",
    "title": "DuckDBの開発元であるDuckLabsがAWS子会社になると発表。DuckDBはオープンソースのMITライセンスを維持",
    "link": "https://www.publickey1.jp/blog/26/duckdbducklabsawsduckdbmit.html",
@@ -298,17 +309,6 @@
    "category": "tech-ja",
    "score": 75,
    "reason": "主要ブラウザによる次世代画像フォーマットJXL採用"
-  },
-  {
-   "id": "c43d2251bce9d4ae",
-   "title": "アクセスキーこわい やめかたと漏らさない工夫",
-   "link": "https://qiita.com/sassssan68/items/e239e408476522641de8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-   "summary": "AWS CLI を使うのに、アクセスキーを発行していませんか？ 私も昔はそうでした。便利なんですよね、アクセスキー。 一度 aws configure で設定すれば、あとはずっと使えます。 でも、この便利さの裏に、ちょっとこわい話があります。 漏らせば高額な請求、情報流出、...",
-   "published": "2026-08-26T11:11:57+00:00",
-   "source": "Qiita 人気記事",
-   "category": "tech-ja",
-   "score": 75,
-   "reason": "AWSアクセスキーの危険性と安全な管理のベストプラクティス"
   },
   {
    "id": "cc52d7fcfe365ef9",
@@ -441,17 +441,6 @@
    "category": "tech-ja",
    "score": 70,
    "reason": "LibreOffice 26.8のリリース情報"
-  },
-  {
-   "id": "700df23690411601",
-   "title": "IIJ、1枚でドコモ網とKDDI網を切り替えられるSIM　耐通信障害を訴求",
-   "link": "https://japan.cnet.com/article/35251982/",
-   "summary": "IIJは、ドコモ網とKDDI網の両方を自社で提供するMVNOだ。今回のサービスは、この強みに、特許を取得した独自の回線冗長化技術を組み合わせて製品にした。 1枚のSIMにドコモ網とKDDI網の2つの通信プロファイルを格納し、利用環境に応じて回線を切り替える。切り替え条件は、死活監視や電波強度の測定にもとづいて機器側で...",
-   "published": "2026-08-27T07:04:53+00:00",
-   "source": "はてなブックマーク テクノロジー",
-   "category": "tech-ja",
-   "score": 70,
-   "reason": "通信障害対策としての複数回線切替SIMサービス"
   },
   {
    "id": "b2ab06630415803b",
@@ -696,6 +685,17 @@
    "reason": "DeepSeekのエージェント基盤公開"
   },
   {
+   "id": "94339986bb252864",
+   "title": "OpenAIの暴走AI、1200体が結託　「仲間のため｣とシステムに突撃要求 - 日本経済新聞",
+   "link": "https://www.nikkei.com/article/DGXZQOGN2704N0X20C26A8000000/",
+   "summary": "【シリコンバレー=伴正春】米オープンAIで開発中の人工知能（AI）がサイバー攻撃をした問題で、約1200体のAIが連携して指示役、偵察役などを分担していたことがわかった。失敗リスクが高い作業でも、AI同士で「仲間のためだから参加して」と自己犠牲を強いる場面もあった。7月に起きた事故では、オープンAIで開発中のAI...",
+   "published": "2026-08-27T20:58:11+00:00",
+   "source": "はてなブックマーク テクノロジー",
+   "category": "tech-ja",
+   "score": 65,
+   "reason": "AIエージェントの自律的な連携とセキュリティに関する重要インシデント"
+  },
+  {
    "id": "8c67e570b64ed09e",
    "title": "Metaが従業員を大量解雇してAIに置き換えようとした「Project OT」はいかにして頓挫したのか？",
    "link": "https://gigazine.net/news/20260827-meta-zuckerberg-replace-staff-ai-imploded/",
@@ -727,17 +727,6 @@
    "category": "tech-ja",
    "score": 65,
    "reason": "開発ツールの大幅値上げに関する業界の注目ニュース"
-  },
-  {
-   "id": "9828ea14c917351a",
-   "title": "LLMのローカル実行ツール「Ollama」が「Claude Desktop」に対応 ～3カ月半ぶりの復活／現時点ではmacOSのみ、Windowsも間もなくサポート",
-   "link": "https://forest.watch.impress.co.jp/docs/news/2135971.html",
-   "summary": "LLMのローカル実行ツール「Ollama」が「Claude Desktop」に対応 ～3カ月半ぶりの復活／現時点ではmacOSのみ、Windowsも間もなくサポート",
-   "published": "2026-08-27T05:43:07+00:00",
-   "source": "はてなブックマーク テクノロジー",
-   "category": "tech-ja",
-   "score": 65,
-   "reason": "OllamaのClaude Desktop対応アップデート"
   },
   {
    "id": "2e12885f9379efbf",
@@ -864,7 +853,7 @@
    "id": "81d4c0d8005e7696",
    "title": "Antigravity for VS Code in GitHub Codespacesが便利すぎる件【サンドボックス / 脱GitHub Copilot】",
    "link": "https://qiita.com/yangguofu/items/ae3e9f9f0f5a4515f276?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-   "summary": "TL;DR 2026年8月、Google Antigravityが公式のVS Code拡張機能として登場した。もう「Antigravityという別IDE」に引っ越す必要がない これをGitHub Codespacesの中にインストールすると、エージェントの実行環境が丸ご...",
+   "summary": "TL;DR 2026年8月、Google Antigravityが公式のVS Code拡張機能として登場した。もう「Antigravityという別IDE」に引っ越す必要がない これをGitHub Codespacesの中にインストールすると、エージェントの実行環境...",
    "published": "2026-08-25T19:14:13+00:00",
    "source": "Qiita 人気記事",
    "category": "tech-ja",
@@ -1059,17 +1048,6 @@
    "reason": "NVIDIAの高速オープンモデルとUbuntu"
   },
   {
-   "id": "6a95ca17492be98d",
-   "title": "sqlite-utils 4.2",
-   "link": "https://simonwillison.net/2026/Aug/13/sqlite-utils/",
-   "summary": "Release: sqlite-utils 4.2 Lots of improvements in this one relating to the table.transform() feature , which adds support for complex alter table operations by creating a fresh table, copying across the data and then dropping and replacing the old one. transform() now preserves a much larger array of edge-case schema definitions, including check constraints, unique constraints and even comments describing the columns. There are also new introspection properties for check constraints, and a whole",
-   "published": "2026-08-13T20:11:29+00:00",
-   "source": "Simon Willison",
-   "category": "ai",
-   "score": 65,
-   "reason": "sqlite-utilsの機能改善リリース。"
-  },
-  {
    "id": "38e38808c623ab61",
    "title": "3 new ways to plan and book travel in Search",
    "link": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
@@ -1079,6 +1057,17 @@
    "category": "ai",
    "score": 60,
    "reason": "Google検索における旅行計画機能の発表"
+  },
+  {
+   "id": "3954100bbbdc9e28",
+   "title": "なぜプロンプトを直しても、AIの出力は安定しないのか",
+   "link": "https://qiita.com/haru-qiita/items/5e2b4b1a4b3497abe50f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+   "summary": "AIの出力がずれるたび、僕はプロンプトへ一文ずつ条件を足していました。 例を増やす。禁止事項を書く。語尾を指定する。temperatureを下げる。それでも別の入力で外れ、指示文の末尾に但し書きが積み上がる。正直、何時間も往復した末に、最初より直しにくいプロンプトを作った...",
+   "published": "2026-08-27T14:05:36+00:00",
+   "source": "Qiita 人気記事",
+   "category": "tech-ja",
+   "score": 60,
+   "reason": "AIプロンプトの不安定さを解決するための考察と知見"
   },
   {
    "id": "1c583c878c4c9364",
@@ -1101,6 +1090,17 @@
    "category": "tech-ja",
    "score": 60,
    "reason": "ローカルLLM向けNVIDIA GPU選びの実用解説"
+  },
+  {
+   "id": "04b5e680f5991320",
+   "title": "オードリー・タンが警告　AIが考え人が従う「逆ケンタウロス」の罠",
+   "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00157/082500111/",
+   "summary": "天才的なプログラマーで台湾の初代デジタル担当相として知られるオードリー・タン氏に、AI（人工知能）への依存が進めば、人間は自分で考えなくなるのではないかという疑問をぶつけた。インタビュー記事（下）では、自分の頭で「考えない人」が増えるリスクへの対処法や、AI時代の仕事と教育、デジタル技術を社会に生か...",
+   "published": "2026-08-27T01:38:16+00:00",
+   "source": "はてなブックマーク テクノロジー",
+   "category": "tech-ja",
+   "score": 60,
+   "reason": "AI依存リスクに対する有識者の警鐘と考察"
   }
  ]
 }
