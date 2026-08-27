@@ -73,6 +73,19 @@ set -a; . ./.env; set +a
 .venv/bin/python scripts/aggregate.py --no-gemini        # スコアリングせず全件50で動作確認
 ```
 
+## テスト
+
+タイムラインUIの操作テスト（52ケース）をヘッドレスChromeで実行する。追加パッケージは不要で、
+Node の組み込み `WebSocket` / `fetch` から Chrome DevTools Protocol を直接叩いている。
+
+```bash
+tests/browser/run.sh                              # docs/ を配信してChromeを起動し検証まで実行
+SCREENSHOT_DIR=/tmp/shots tests/browser/run.sh    # スクリーンショットも保存する
+```
+
+Chromeのパスは自動検出する（macOSの `/Applications` 配下、または `google-chrome` / `chromium`）。
+見つからない場合は `CHROME` 環境変数で指定する。ポートは `PORT` / `CDP_PORT` で変更できる。
+
 ## 注意事項
 
 - `gemini-2.5-flash` は新規ユーザーには提供終了(404)。現在は `gemini-3.5-flash-lite` を使用している。
