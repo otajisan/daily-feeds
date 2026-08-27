@@ -105,6 +105,8 @@ def load_config() -> dict:
     s = cfg["settings"]
     s.setdefault("retention_days", 14)
     s.setdefault("max_items", 100)
+    # feed.json はタイムラインUIのデータ源なので、XMLより多く載せる
+    s.setdefault("json_max_items", 400)
     s.setdefault("score_batch_size", 20)
     s.setdefault("gemini_model", "gemini-3.5-flash-lite")
     s.setdefault("gemini_thinking_level", None)
@@ -483,7 +485,9 @@ def build_json(items: list[dict], cfg: dict, path: Path) -> None:
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "items": items,
     }
-    path.write_text(json.dumps(payload, ensure_ascii=False, indent=1), encoding="utf-8")
+    # 2時間ごとにコミットされるため、機械が読むJSONは詰めて書き出す
+    dumped = json.dumps(payload, ensure_ascii=False, separators=(",", ":"))
+    path.write_text(dumped, encoding="utf-8")
     print(f"[info] wrote {path.relative_to(ROOT)} ({len(items)} items)")
 
 
@@ -533,8 +537,11 @@ def main() -> None:
             merged.append(it)
     print(f"[info] {len(merged)} items within retention ({s['retention_days']}d)")
 
-    by_date = sorted(merged, key=lambda x: x["published"], reverse=True)[: s["max_items"]]
+    newest_first = sorted(merged, key=lambda x: x["published"], reverse=True)
+    by_date = newest_first[: s["max_items"]]
     by_score = sorted(merged, key=lambda x: (x["score"], x["published"]), reverse=True)[: s["max_items"]]
+    # タイムラインで新着が欠けないよう、JSONは保持期間内をまとめて日付順で出す
+    for_json = newest_first[: s["json_max_items"]]
 
     if args.dry_run:
         print("[info] dry-run: nothing written. top items:")
@@ -545,7 +552,7 @@ def main() -> None:
     DOCS_DIR.mkdir(parents=True, exist_ok=True)
     build_rss(by_date, cfg, DOCS_DIR / "feed.xml", "", show_score=False)
     build_rss(by_score, cfg, DOCS_DIR / "feed-ranked.xml", " (Ranked)", show_score=True)
-    build_json(by_score, cfg, DOCS_DIR / "feed.json")
+    build_json(for_json, cfg, DOCS_DIR / "feed.json")
 
     prune_state(state, cutoff)
     save_state(state)

@@ -7,12 +7,25 @@ GitHub Pages上に集約フィードとして公開するリポジトリ。
 
 | ファイル | 内容 |
 |---|---|
-| `docs/feed.xml` | 更新日時順のRSS 2.0フィード |
-| `docs/feed-ranked.xml` | スコア順のRSS 2.0フィード(タイトルに `[score]` 付き) |
-| `docs/feed.json` | アプリ消費用JSON(`score` / `reason` フィールド付き、スコア順) |
+| `docs/index.html` | 集約結果を読むタイムラインUI（フィルタ・検索・既読管理つき） |
+| `docs/feed.xml` | 更新日時順のRSS 2.0フィード（最大 `max_items` 件） |
+| `docs/feed-ranked.xml` | スコア順のRSS 2.0フィード（タイトルに `[score]` 付き、最大 `max_items` 件） |
+| `docs/feed.json` | タイムラインUIのデータ源。**日付順・保持期間内をまとめて**出す（最大 `json_max_items` 件） |
 
-公開URL: <https://otajisan.github.io/daily-feeds/feed.xml> など。
-GitHub Pagesは `Access-Control-Allow-Origin: *` を返すため、別リポジトリのフロントエンドから直接 `fetch` できる。
+公開URL: <https://otajisan.github.io/daily-feeds/> （タイムライン）、<https://otajisan.github.io/daily-feeds/feed.xml> など。
+GitHub Pagesは `Access-Control-Allow-Origin: *` を返すため、別のフロントエンドから直接 `fetch` することもできる。
+
+## タイムラインUI
+
+`docs/index.html` は依存パッケージもビルド工程も持たない単一HTMLで、同一オリジンの `feed.json` を読んで描画する。
+
+- 日付ごとにグルーピングしたタイムライン。スコアはバッジで色分け表示
+- 絞り込み: キーワード検索 / ソース / カテゴリ / 最低スコア / 日付順⇔スコア順
+- 既読管理: 記事を開くと既読になり減光表示。「未読のみ」で絞り込める。状態は `localStorage` にブラウザごとに保存される。記事がフィードから一時的に消えても既読は保たれ、45日経過したidだけ掃除される
+- ダークモード（OS設定に追従、手動切替も可）
+- `feed.json` の読み込みに失敗した場合はエラー表示と生フィードへのリンクを出す
+
+RSS/Atom由来の文字列はすべて `textContent` で挿入し、リンクは `http(s)` のみ許可している。
 
 ## セットアップ
 
@@ -26,7 +39,8 @@ GitHub Pagesは `Access-Control-Allow-Origin: *` を返すため、別リポジ�
 
 ## 仕組み
 
-- `feeds.yml` — 購読フィード一覧と設定(保持日数、最大件数、モデル名など)
+- `feeds.yml` — 購読フィード一覧と設定(保持日数、最大件数、モデル名など)。
+  `max_items` はRSS2種、`json_max_items` は `feed.json` の上限
 - `scripts/aggregate.py` — 取得 → 重複排除 → 新着のみGeminiでスコアリング → フィード生成
 - `data/state.json` — スコア済み記事のキャッシュ。既出記事は再スコアリングしない(APIコスト削減)。
   30日より古いエントリは自動で削除される

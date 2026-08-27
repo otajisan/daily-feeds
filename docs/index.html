@@ -4,17 +4,815 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>daily-feeds</title>
+<meta name="description" content="Tech記事とAI/LLMニュースをGeminiの注目度スコア付きで集約したタイムライン">
+<meta name="color-scheme" content="light dark">
+<link rel="icon" href="data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20viewBox%3D%270%200%2032%2032%27%3E%3Crect%20width%3D%2732%27%20height%3D%2732%27%20rx%3D%277%27%20fill%3D%27%231d4ed8%27%2F%3E%3Crect%20x%3D%277%27%20y%3D%279%27%20width%3D%2718%27%20height%3D%273%27%20rx%3D%271.5%27%20fill%3D%27%23fff%27%2F%3E%3Crect%20x%3D%277%27%20y%3D%2715%27%20width%3D%2713%27%20height%3D%273%27%20rx%3D%271.5%27%20fill%3D%27%23fff%27%20opacity%3D%27.8%27%2F%3E%3Crect%20x%3D%277%27%20y%3D%2721%27%20width%3D%279%27%20height%3D%273%27%20rx%3D%271.5%27%20fill%3D%27%23fff%27%20opacity%3D%27.6%27%2F%3E%3C%2Fsvg%3E">
 <link rel="alternate" type="application/rss+xml" title="Latest" href="feed.xml">
 <link rel="alternate" type="application/rss+xml" title="Ranked" href="feed-ranked.xml">
-<style>body{font-family:system-ui,sans-serif;max-width:40rem;margin:3rem auto;padding:0 1rem;line-height:1.7}</style>
+<style>
+:root {
+  --bg: #f6f7f9;
+  --surface: #ffffff;
+  --surface-2: #f0f2f5;
+  --text: #151a21;
+  --muted: #5d6773;
+  --faint: #8b95a1;
+  --border: #e2e6eb;
+  --accent: #1d4ed8;
+  --accent-soft: #e8eeff;
+  --shadow: 0 1px 2px rgba(16, 24, 40, .06), 0 1px 3px rgba(16, 24, 40, .05);
+  --rail: #dfe4ea;
+  --s90-fg: #a4231a; --s90-bg: #fdeceb;
+  --s80-fg: #b04a08; --s80-bg: #fdf0e4;
+  --s70-fg: #15489f; --s70-bg: #e9f0fe;
+  --s60-fg: #3f4c5a; --s60-bg: #eef1f4;
+  --slow-fg: #6c7683; --slow-bg: #f1f3f5;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0e1116;
+    --surface: #161b22;
+    --surface-2: #1c2229;
+    --text: #e5e9ef;
+    --muted: #9aa4b1;
+    --faint: #77828f;
+    --border: #262d36;
+    --accent: #7aa5ff;
+    --accent-soft: #1a2740;
+    --shadow: none;
+    --rail: #2a323c;
+    --s90-fg: #ff9d94; --s90-bg: #3a1d1a;
+    --s80-fg: #ffb977; --s80-bg: #382714;
+    --s70-fg: #9dc0ff; --s70-bg: #16233a;
+    --s60-fg: #aab5c2; --s60-bg: #212832;
+    --slow-fg: #8b95a1; --slow-bg: #1d232b;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0e1116;
+  --surface: #161b22;
+  --surface-2: #1c2229;
+  --text: #e5e9ef;
+  --muted: #9aa4b1;
+  --faint: #77828f;
+  --border: #262d36;
+  --accent: #7aa5ff;
+  --accent-soft: #1a2740;
+  --shadow: none;
+  --rail: #2a323c;
+  --s90-fg: #ff9d94; --s90-bg: #3a1d1a;
+  --s80-fg: #ffb977; --s80-bg: #382714;
+  --s70-fg: #9dc0ff; --s70-bg: #16233a;
+  --s60-fg: #aab5c2; --s60-bg: #212832;
+  --slow-fg: #8b95a1; --slow-bg: #1d232b;
+  color-scheme: dark;
+}
+
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: system-ui, -apple-system, "Segoe UI", "Hiragino Sans", "Noto Sans JP", Meiryo, sans-serif;
+  font-size: 15px;
+  line-height: 1.7;
+}
+a { color: var(--accent); }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 4px; }
+
+.wrap { max-width: 860px; margin: 0 auto; padding: 0 16px 64px; }
+
+/* ---------- header ---------- */
+.masthead { padding: 28px 0 16px; }
+.masthead-top { display: flex; align-items: flex-start; justify-content: space-between; gap: 16px; flex-wrap: wrap; }
+.masthead h1 { margin: 0; font-size: 1.6rem; letter-spacing: -.01em; }
+.tagline { margin: 4px 0 0; color: var(--muted); font-size: .875rem; }
+.status { margin: 12px 0 0; color: var(--faint); font-size: .8125rem; }
+.status strong { color: var(--muted); font-weight: 600; }
+
+/* ---------- controls ---------- */
+.controls {
+  position: sticky; top: 0; z-index: 20;
+  background: color-mix(in srgb, var(--bg) 88%, transparent);
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--border);
+  padding: 10px 0;
+  margin-bottom: 8px;
+}
+.row { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.row + .row { margin-top: 8px; }
+.search {
+  flex: 1 1 220px; min-width: 0;
+  padding: 8px 12px;
+  font: inherit; font-size: .9375rem;
+  color: var(--text); background: var(--surface);
+  border: 1px solid var(--border); border-radius: 8px;
+}
+.search::placeholder { color: var(--faint); }
+select, .btn {
+  font: inherit; font-size: .8125rem;
+  color: var(--text); background: var(--surface);
+  border: 1px solid var(--border); border-radius: 8px;
+  padding: 7px 10px; cursor: pointer;
+}
+.btn:hover, select:hover { border-color: var(--faint); }
+.btn[aria-pressed="true"] { background: var(--accent-soft); border-color: var(--accent); color: var(--accent); font-weight: 600; }
+.seg { display: inline-flex; border: 1px solid var(--border); border-radius: 8px; overflow: hidden; background: var(--surface); }
+.seg .btn { border: 0; border-radius: 0; padding: 7px 11px; }
+.seg .btn + .btn { border-left: 1px solid var(--border); }
+.slider { display: inline-flex; align-items: center; gap: 8px; font-size: .8125rem; color: var(--muted); }
+.slider input { width: 116px; accent-color: var(--accent); }
+.slider output { min-width: 2.2em; font-variant-numeric: tabular-nums; color: var(--text); font-weight: 600; }
+.label { font-size: .8125rem; color: var(--muted); }
+
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip {
+  font: inherit; font-size: .78125rem; line-height: 1.4;
+  padding: 4px 10px; border-radius: 999px; cursor: pointer;
+  background: var(--surface); color: var(--muted);
+  border: 1px solid var(--border);
+}
+.chip:hover { border-color: var(--faint); }
+.chip[aria-pressed="true"] { background: var(--accent-soft); border-color: var(--accent); color: var(--accent); font-weight: 600; }
+.chip .n { color: var(--faint); font-variant-numeric: tabular-nums; }
+.chip[aria-pressed="true"] .n { color: inherit; opacity: .75; }
+
+/* ---------- timeline ---------- */
+.timeline { list-style: none; margin: 0; padding: 0; }
+.day { margin: 0; }
+.day-head {
+  position: sticky; top: var(--controls-h, 108px); z-index: 10;
+  display: flex; align-items: baseline; gap: 8px;
+  padding: 14px 0 8px;
+  background: linear-gradient(var(--bg) 72%, transparent);
+  font-size: .875rem; font-weight: 700; color: var(--muted);
+}
+.day-head .rel { font-weight: 500; color: var(--faint); font-size: .8125rem; }
+.day-head .n { margin-left: auto; font-weight: 500; color: var(--faint); font-size: .75rem; }
+
+.day-items { list-style: none; margin: 0; padding: 0 0 0 20px; border-left: 2px solid var(--rail); }
+.item { position: relative; padding: 0 0 12px; }
+.item::before {
+  content: ""; position: absolute; left: -27px; top: 18px;
+  width: 9px; height: 9px; border-radius: 50%;
+  background: var(--rail); border: 2px solid var(--bg);
+}
+.item.is-hot::before { background: var(--s90-fg); }
+
+.card {
+  background: var(--surface); border: 1px solid var(--border); border-radius: 10px;
+  padding: 12px 14px; box-shadow: var(--shadow);
+}
+.card-head { display: flex; gap: 10px; align-items: flex-start; }
+/* スコアバッジ幅(.8125rem × 2.6em) + card-head の gap。em のままだと各行の font-size で長さが変わる */
+.card { --indent: calc(2.1125rem + 10px); }
+.score {
+  flex: none; min-width: 2.6em; text-align: center;
+  font-size: .8125rem; font-weight: 700; font-variant-numeric: tabular-nums;
+  padding: 2px 6px; border-radius: 6px;
+  color: var(--s60-fg); background: var(--s60-bg);
+}
+.score.s90 { color: var(--s90-fg); background: var(--s90-bg); }
+.score.s80 { color: var(--s80-fg); background: var(--s80-bg); }
+.score.s70 { color: var(--s70-fg); background: var(--s70-bg); }
+.score.s60 { color: var(--s60-fg); background: var(--s60-bg); }
+.score.slow { color: var(--slow-fg); background: var(--slow-bg); }
+.title { font-size: 1rem; font-weight: 600; line-height: 1.5; text-decoration: none; }
+.title:hover { text-decoration: underline; }
+.meta {
+  display: flex; flex-wrap: wrap; align-items: center; gap: 6px;
+  margin: 6px 0 0 var(--indent);
+  font-size: .75rem; color: var(--faint);
+}
+.meta .src { color: var(--muted); font-weight: 600; }
+.meta .cat { padding: 1px 6px; border-radius: 4px; background: var(--surface-2); }
+.meta .sep { opacity: .5; }
+.mark {
+  margin-left: auto; font: inherit; font-size: .75rem;
+  color: var(--faint); background: none; border: 0; padding: 2px 4px; cursor: pointer;
+  border-radius: 4px;
+}
+.mark:hover { color: var(--accent); background: var(--surface-2); }
+.summary, .reason { margin: 6px 0 0 var(--indent); }
+.summary {
+  font-size: .875rem; color: var(--muted);
+  display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;
+}
+.reason { font-size: .75rem; color: var(--faint); }
+.reason::before { content: "AIスコア理由: "; opacity: .8; }
+
+.item.is-read .card { background: var(--surface-2); box-shadow: none; }
+.item.is-read .title { color: var(--muted); font-weight: 500; }
+.item.is-read .summary, .item.is-read .reason { display: none; }
+.item.is-read::before { opacity: .45; }
+
+/* ---------- states ---------- */
+.notice { padding: 32px 4px; color: var(--muted); text-align: center; }
+.notice code { background: var(--surface-2); padding: 1px 5px; border-radius: 4px; font-size: .875em; }
+.notice .btn { margin-top: 12px; }
+.sr { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0; }
+
+footer { margin-top: 40px; padding-top: 16px; border-top: 1px solid var(--border); font-size: .8125rem; color: var(--faint); }
+footer ul { list-style: none; display: flex; flex-wrap: wrap; gap: 14px; padding: 0; margin: 0 0 8px; }
+
+@media (max-width: 640px) {
+  body { font-size: 14px; }
+  .masthead { padding: 16px 0 8px; }
+  .masthead h1 { font-size: 1.35rem; }
+  .tagline { font-size: .8125rem; }
+  .status { margin-top: 8px; }
+  /* 画面の大半をコントロールが占めてしまうため、モバイルでは固定しない */
+  .controls { position: static; backdrop-filter: none; }
+  .chips { flex-wrap: nowrap; overflow-x: auto; padding-bottom: 4px; scrollbar-width: thin; }
+  .chip { flex: none; }
+  .day-head { top: 0; }
+  .day-items { padding-left: 14px; }
+  .item::before { left: -21px; }
+  .meta, .summary, .reason { margin-left: 0; }
+}
+@media (prefers-reduced-motion: no-preference) {
+  .item { animation: fade .18s ease-out both; }
+  @keyframes fade { from { opacity: 0; transform: translateY(3px); } to { opacity: 1; transform: none; } }
+}
+</style>
 </head>
 <body>
-<h1>daily-feeds</h1>
-<p>集約フィード:</p>
-<ul>
-<li><a href="feed.xml">feed.xml</a> — 更新日時順</li>
-<li><a href="feed-ranked.xml">feed-ranked.xml</a> — スコア順</li>
-<li><a href="feed.json">feed.json</a> — アプリ用JSON</li>
-</ul>
+<div class="wrap">
+
+<header class="masthead">
+  <div class="masthead-top">
+    <div>
+      <h1>daily-feeds</h1>
+      <p class="tagline">日本語Tech記事とAI/LLMニュースを、Geminiの注目度スコア付きで集約したタイムライン</p>
+    </div>
+    <div class="seg" role="group" aria-label="テーマ">
+      <button type="button" class="btn" data-theme-btn="auto" aria-pressed="true">自動</button>
+      <button type="button" class="btn" data-theme-btn="light" aria-pressed="false">ライト</button>
+      <button type="button" class="btn" data-theme-btn="dark" aria-pressed="false">ダーク</button>
+    </div>
+  </div>
+  <p class="status" id="status">読み込み中…</p>
+</header>
+
+<div class="controls" hidden id="controls">
+  <div class="row">
+    <input type="search" class="search" id="q" placeholder="タイトル・要約・ソースを検索" aria-label="キーワード検索">
+    <select id="category" aria-label="カテゴリで絞り込み"></select>
+    <div class="seg" role="group" aria-label="並び順">
+      <button type="button" class="btn" id="sort-date" aria-pressed="true">日付順</button>
+      <button type="button" class="btn" id="sort-score" aria-pressed="false">スコア順</button>
+    </div>
+  </div>
+  <div class="row">
+    <label class="slider">最低スコア
+      <input type="range" id="min-score" min="0" max="90" step="10" value="0" aria-label="最低スコア">
+      <output id="min-score-out">0</output>
+    </label>
+    <button type="button" class="btn" id="unread" aria-pressed="false">未読のみ</button>
+    <button type="button" class="btn" id="clear-read">既読を消去</button>
+  </div>
+  <div class="row">
+    <div class="chips" id="sources" role="group" aria-label="ソースで絞り込み"></div>
+  </div>
+</div>
+
+<p class="sr" id="live" role="status" aria-live="polite"></p>
+<main>
+  <ol class="timeline" id="timeline"></ol>
+  <div class="notice" id="notice" hidden></div>
+</main>
+
+<footer>
+  <ul>
+    <li><a href="feed.xml">feed.xml</a> — 更新日時順</li>
+    <li><a href="feed-ranked.xml">feed-ranked.xml</a> — スコア順</li>
+    <li><a href="feed.json">feed.json</a> — このページのデータ源</li>
+    <li><a href="https://github.com/otajisan/daily-feeds">GitHub</a></li>
+  </ul>
+  <p>2時間ごとに自動更新。スコアは技術者コミュニティ全体にとっての一般的な重要度をGeminiが0〜100で判定したもの。</p>
+</footer>
+
+</div>
+<script>
+(function () {
+  "use strict";
+
+  var FEED_URL = "./feed.json";
+  var PREFS_KEY = "daily-feeds:prefs:v1";
+  var READ_KEY = "daily-feeds:read:v1";
+  var THEMES = ["auto", "light", "dark"];
+  var READ_TTL_DAYS = 45;   // 保持期間(14日)より十分長く取る
+
+  var el = {
+    status: document.getElementById("status"),
+    controls: document.getElementById("controls"),
+    q: document.getElementById("q"),
+    category: document.getElementById("category"),
+    sortDate: document.getElementById("sort-date"),
+    sortScore: document.getElementById("sort-score"),
+    minScore: document.getElementById("min-score"),
+    minScoreOut: document.getElementById("min-score-out"),
+    unread: document.getElementById("unread"),
+    clearRead: document.getElementById("clear-read"),
+    sources: document.getElementById("sources"),
+    timeline: document.getElementById("timeline"),
+    notice: document.getElementById("notice"),
+    live: document.getElementById("live")
+  };
+
+  var prefs = {
+    q: "", category: "", sources: [], minScore: 0,
+    sort: "date", unreadOnly: false, theme: "auto"
+  };
+  var read = {};
+  var items = [];
+  var generatedAt = null;
+
+  // ---------------------------------------------------------------- storage
+  // プライベートウィンドウやサイトデータ拒否では例外になるので、常に握りつぶす
+
+  function loadStore(key, fallback) {
+    try {
+      var raw = window.localStorage.getItem(key);
+      if (!raw) return fallback;
+      var parsed = JSON.parse(raw);
+      return parsed && typeof parsed === "object" ? parsed : fallback;
+    } catch (e) { return fallback; }
+  }
+
+  function saveStore(key, value) {
+    try { window.localStorage.setItem(key, JSON.stringify(value)); } catch (e) { /* 保存できなくても表示は続ける */ }
+  }
+
+  // ---------------------------------------------------------------- helpers
+
+  function safeUrl(url) {
+    try {
+      var u = new URL(url, location.href);
+      return (u.protocol === "http:" || u.protocol === "https:") ? u.href : null;
+    } catch (e) { return null; }
+  }
+
+  function scoreClass(score) {
+    if (score >= 90) return "s90";
+    if (score >= 80) return "s80";
+    if (score >= 70) return "s70";
+    if (score >= 60) return "s60";
+    return "slow";
+  }
+
+  var rtf = typeof Intl !== "undefined" && Intl.RelativeTimeFormat
+    ? new Intl.RelativeTimeFormat("ja", { numeric: "auto" }) : null;
+
+  function relative(date, now) {
+    var sec = Math.round((date - now) / 1000);
+    var abs = Math.abs(sec);
+    if (!rtf) return "";
+    if (abs < 60) return rtf.format(Math.round(sec), "second");
+    if (abs < 3600) return rtf.format(Math.round(sec / 60), "minute");
+    if (abs < 86400) return rtf.format(Math.round(sec / 3600), "hour");
+    if (abs < 86400 * 30) return rtf.format(Math.round(sec / 86400), "day");
+    return rtf.format(Math.round(sec / (86400 * 30)), "month");
+  }
+
+  var dayKeyFmt = new Intl.DateTimeFormat("sv-SE", { year: "numeric", month: "2-digit", day: "2-digit" });
+  var dayHeadFmt = new Intl.DateTimeFormat("ja-JP", { month: "long", day: "numeric", weekday: "short" });
+  var stampFmt = new Intl.DateTimeFormat("ja-JP", { month: "long", day: "numeric", hour: "2-digit", minute: "2-digit" });
+
+  function dayLabel(key, todayKey) {
+    if (key === todayKey) return "今日";
+    var d = new Date(key + "T00:00:00");
+    var today = new Date(todayKey + "T00:00:00");
+    var diff = Math.round((today - d) / 86400000);
+    if (diff === 1) return "昨日";
+    if (diff < 7) return diff + "日前";
+    return "";
+  }
+
+  // はてブ等ではdescriptionがタイトルの言い直しになっていることが多く、出しても1行無駄になる
+  function redundantSummary(summary, title) {
+    var a = summary.replace(/\s+/g, "");
+    var b = title.replace(/\s+/g, "");
+    if (!a || a === b) return true;
+    if (a.indexOf(b) === 0 && a.length - b.length < 24) return true;
+    if (b.indexOf(a) === 0) return true;
+    return false;
+  }
+
+  function node(tag, className, text) {
+    var n = document.createElement(tag);
+    if (className) n.className = className;
+    if (text != null) n.textContent = text;   // フィード由来の文字列は必ず textContent で入れる
+    return n;
+  }
+
+  // ---------------------------------------------------------------- filtering
+
+  function visibleItems() {
+    var q = prefs.q.trim().toLowerCase();
+    var list = items.filter(function (it) {
+      if (it.score < prefs.minScore) return false;
+      if (prefs.category && it.category !== prefs.category) return false;
+      if (prefs.sources.length && prefs.sources.indexOf(it.source) === -1) return false;
+      if (prefs.unreadOnly && read[it.id]) return false;
+      if (q && it.haystack.indexOf(q) === -1) return false;
+      return true;
+    });
+    // 生成側の並びに依存せず、常に明示的に並べ替える
+    if (prefs.sort === "score") {
+      list.sort(function (a, b) {
+        return b.score - a.score || (a.published < b.published ? 1 : (a.published > b.published ? -1 : 0));
+      });
+    } else {
+      list.sort(function (a, b) { return a.published < b.published ? 1 : (a.published > b.published ? -1 : 0); });
+    }
+    return list;
+  }
+
+  // ---------------------------------------------------------------- rendering
+
+  function buildCard(it, now) {
+    var li = node("li", "item");
+    li.dataset.id = it.id;
+    if (it.score >= 90) li.classList.add("is-hot");
+    if (read[it.id]) li.classList.add("is-read");
+
+    var card = node("article", "card");
+    var head = node("div", "card-head");
+    head.appendChild(node("span", "score " + scoreClass(it.score), String(it.score)));
+
+    var a = node("a", "title", it.title);
+    a.href = it.url;
+    a.target = "_blank";
+    a.rel = "noopener noreferrer";
+    a.addEventListener("click", function () { setRead(it.id, true); });
+    a.addEventListener("auxclick", function (ev) { if (ev.button === 1) setRead(it.id, true); });
+    head.appendChild(a);
+    card.appendChild(head);
+
+    var meta = node("div", "meta");
+    meta.appendChild(node("span", "src", it.source));
+    if (it.category) meta.appendChild(node("span", "cat", it.category));
+    var time = node("time", null, relative(it.date, now));
+    time.dateTime = it.published;
+    time.title = it.date.toLocaleString("ja-JP");
+    meta.appendChild(time);
+
+    var mark = node("button", "mark", read[it.id] ? "未読に戻す" : "既読にする");
+    mark.type = "button";
+    mark.addEventListener("click", function () { setRead(it.id, !read[it.id]); });
+    meta.appendChild(mark);
+    card.appendChild(meta);
+
+    if (it.summary) card.appendChild(node("p", "summary", it.summary));
+    if (it.reason) card.appendChild(node("p", "reason", it.reason));
+
+    li.appendChild(card);
+    return li;
+  }
+
+  function render() {
+    var list = visibleItems();
+    var now = new Date();
+    var todayKey = dayKeyFmt.format(now);
+    var frag = document.createDocumentFragment();
+    var currentKey = null;
+    var currentList = null;
+    var currentCount = null;
+    // 日付グルーピングは連続した同日をまとめる実装なので、日付順のときだけ成立する
+    var grouped = prefs.sort === "date";
+
+    list.forEach(function (it) {
+      var key = grouped ? dayKeyFmt.format(it.date) : "all";
+      if (key !== currentKey) {
+        currentKey = key;
+        var section = node("li", "day");
+        currentCount = null;
+        if (grouped) {
+          var head = node("h2", "day-head");
+          head.appendChild(node("span", null, dayHeadFmt.format(it.date)));
+          var rel = dayLabel(key, todayKey);
+          if (rel) head.appendChild(node("span", "rel", rel));
+          currentCount = node("span", "n", "");
+          head.appendChild(currentCount);
+          section.appendChild(head);
+        }
+        currentList = node("ol", "day-items");
+        section.appendChild(currentList);
+        frag.appendChild(section);
+      }
+      currentList.appendChild(buildCard(it, now));
+      if (currentCount) currentCount.textContent = currentList.children.length + "件";
+    });
+
+    el.timeline.replaceChildren(frag);
+
+    if (!list.length) {
+      showNotice("条件に一致する記事がありません。フィルタを緩めてください。");
+    } else {
+      el.notice.hidden = true;
+    }
+
+    var unread = list.filter(function (it) { return !read[it.id]; }).length;
+    el.live.textContent = list.length + "件表示中、うち未読" + unread + "件";
+    updateStatus(list.length, unread);
+  }
+
+  function updateStatus(shown, unread) {
+    if (!items.length) return;
+    var parts = [];
+    if (generatedAt) {
+      var g = new Date(generatedAt);
+      if (!isNaN(g)) parts.push("最終更新 " + stampFmt.format(g) + "（" + relative(g, new Date()) + "）");
+    }
+    parts.push("全" + items.length + "件中 " + shown + "件を表示 / 未読 " + unread + "件");
+    el.status.textContent = parts.join(" ・ ");
+  }
+
+  function showNotice(message, withRetry) {
+    el.notice.replaceChildren();
+    el.notice.appendChild(node("p", null, message));
+    if (withRetry) {
+      var btn = node("button", "btn", "再読み込み");
+      btn.type = "button";
+      btn.addEventListener("click", function () { location.reload(); });
+      el.notice.appendChild(btn);
+    }
+    el.notice.hidden = false;
+  }
+
+  // ---------------------------------------------------------------- read state
+
+  function refreshCounts() {
+    var nodes = el.timeline.querySelectorAll(".item");
+    var unread = 0;
+    nodes.forEach(function (n) { if (!read[n.dataset.id]) unread++; });
+    updateStatus(nodes.length, unread);
+  }
+
+  // 「未読のみ」表示中でも再描画はしない。ここで作り直すとクリック中のリンクが
+  // DOMから外れて遷移が不安定になり、スクロール位置も飛ぶ。消えるのは次の再描画時
+  function setRead(id, value) {
+    if (value) read[id] = Date.now();
+    else delete read[id];
+    saveStore(READ_KEY, read);
+    var li = el.timeline.querySelector('[data-id="' + CSS.escape(id) + '"]');
+    if (!li) {
+      render();
+      return;
+    }
+    li.classList.toggle("is-read", !!value);
+    var mark = li.querySelector(".mark");
+    if (mark) mark.textContent = value ? "未読に戻す" : "既読にする";
+    refreshCounts();
+  }
+
+  // ---------------------------------------------------------------- controls
+
+  // 検索語は保存しない(次回訪問時に理由の分からない絞り込みが残るため)。他の設定は保存する
+  function savePrefs() {
+    var persisted = {};
+    Object.keys(prefs).forEach(function (k) { if (k !== "q") persisted[k] = prefs[k]; });
+    saveStore(PREFS_KEY, persisted);
+  }
+
+  function applyTheme() {
+    if (prefs.theme === "auto") document.documentElement.removeAttribute("data-theme");
+    else document.documentElement.setAttribute("data-theme", prefs.theme);
+    document.querySelectorAll("[data-theme-btn]").forEach(function (b) {
+      b.setAttribute("aria-pressed", String(b.dataset.themeBtn === prefs.theme));
+    });
+  }
+
+  function applySort() {
+    el.sortDate.setAttribute("aria-pressed", String(prefs.sort === "date"));
+    el.sortScore.setAttribute("aria-pressed", String(prefs.sort === "score"));
+  }
+
+  function buildSourceChips() {
+    var counts = {};
+    items.forEach(function (it) { counts[it.source] = (counts[it.source] || 0) + 1; });
+    var names = Object.keys(counts).sort(function (a, b) { return counts[b] - counts[a]; });
+    // 消えた/改名されたソースが保存されたままだと、チップが出ないのに絞り込みだけ効いてしまう
+    var known = prefs.sources.filter(function (n) { return counts[n] !== undefined; });
+    if (known.length !== prefs.sources.length) {
+      prefs.sources = known;
+      savePrefs();
+    }
+    var frag = document.createDocumentFragment();
+    names.forEach(function (name) {
+      var chip = node("button", "chip");
+      chip.type = "button";
+      chip.appendChild(node("span", null, name));
+      chip.appendChild(node("span", "n", " " + counts[name]));
+      chip.setAttribute("aria-pressed", String(prefs.sources.indexOf(name) !== -1));
+      chip.addEventListener("click", function () {
+        var i = prefs.sources.indexOf(name);
+        if (i === -1) prefs.sources.push(name); else prefs.sources.splice(i, 1);
+        chip.setAttribute("aria-pressed", String(i === -1));
+        savePrefs();
+        render();
+      });
+      frag.appendChild(chip);
+    });
+    el.sources.replaceChildren(frag);
+  }
+
+  function buildCategorySelect() {
+    var cats = [];
+    items.forEach(function (it) { if (it.category && cats.indexOf(it.category) === -1) cats.push(it.category); });
+    cats.sort();
+    var frag = document.createDocumentFragment();
+    var all = node("option", null, "すべてのカテゴリ");
+    all.value = "";
+    frag.appendChild(all);
+    cats.forEach(function (c) {
+      var o = node("option", null, c);
+      o.value = c;
+      frag.appendChild(o);
+    });
+    el.category.replaceChildren(frag);
+    if (prefs.category && cats.indexOf(prefs.category) === -1) {
+      prefs.category = "";
+      savePrefs();
+    }
+    el.category.value = prefs.category;
+  }
+
+  function wireControls() {
+    var timer = null;
+    el.q.addEventListener("input", function () {
+      clearTimeout(timer);
+      timer = setTimeout(function () {
+        prefs.q = el.q.value;
+        savePrefs();
+        render();
+      }, 120);
+    });
+    el.category.addEventListener("change", function () {
+      prefs.category = el.category.value;
+      savePrefs();
+      render();
+    });
+    el.minScore.addEventListener("input", function () {
+      prefs.minScore = Number(el.minScore.value);
+      el.minScoreOut.textContent = String(prefs.minScore);
+      savePrefs();
+      render();
+    });
+    [["date", el.sortDate], ["score", el.sortScore]].forEach(function (pair) {
+      pair[1].addEventListener("click", function () {
+        prefs.sort = pair[0];
+        applySort();
+        savePrefs();
+        render();
+      });
+    });
+    el.unread.addEventListener("click", function () {
+      prefs.unreadOnly = !prefs.unreadOnly;
+      el.unread.setAttribute("aria-pressed", String(prefs.unreadOnly));
+      savePrefs();
+      render();
+    });
+    el.clearRead.addEventListener("click", function () {
+      read = {};
+      saveStore(READ_KEY, read);
+      render();
+    });
+  }
+
+  function wireTheme() {
+    document.querySelectorAll("[data-theme-btn]").forEach(function (b) {
+      b.addEventListener("click", function () {
+        prefs.theme = b.dataset.themeBtn;
+        applyTheme();
+        savePrefs();
+      });
+    });
+  }
+
+  function syncControlsHeight() {
+    var h = el.controls.hidden ? 0 : el.controls.getBoundingClientRect().height;
+    document.documentElement.style.setProperty("--controls-h", Math.round(h) + "px");
+  }
+
+  function restoreControls() {
+    el.q.value = prefs.q;
+    el.minScore.value = String(prefs.minScore);
+    el.minScoreOut.textContent = String(prefs.minScore);
+    el.unread.setAttribute("aria-pressed", String(prefs.unreadOnly));
+    applySort();
+    applyTheme();
+  }
+
+  // ---------------------------------------------------------------- boot
+
+  function normalize(raw) {
+    return raw.map(function (it) {
+      var url = safeUrl(it && it.link);
+      if (!url || !it.title) return null;
+      var date = new Date(it.published);
+      if (isNaN(date)) return null;   // 日時が壊れた記事を「今日」扱いで先頭に上げない
+      var score = Number(it.score);
+      var title = String(it.title);
+      var summary = it.summary ? String(it.summary) : "";
+      var source = it.source ? String(it.source) : "unknown";
+      return {
+        id: String(it.id || url),
+        title: title,
+        url: url,
+        summary: redundantSummary(summary, title) ? "" : summary,
+        reason: it.reason ? String(it.reason) : "",
+        source: source,
+        category: it.category ? String(it.category) : "",
+        score: isFinite(score) ? score : 50,
+        published: date.toISOString(),   // 不正な published を後段に持ち回さない
+        date: date,
+        haystack: [title, summary, source].join(" ").toLowerCase()
+      };
+    }).filter(Boolean);
+  }
+
+  // フィード取得が一時的に失敗した記事の既読が消えないよう、
+  // 「今回のfeed.jsonに無い」ではなく「保存から十分経った」を掃除の基準にする
+  function pruneRead() {
+    var horizon = Date.now() - READ_TTL_DAYS * 86400000;
+    var alive = {};
+    Object.keys(read).forEach(function (id) {
+      var at = Number(read[id]);
+      if (isFinite(at) && at >= horizon) alive[id] = read[id];
+    });
+    if (Object.keys(alive).length !== Object.keys(read).length) {
+      read = alive;
+      saveStore(READ_KEY, read);
+    }
+  }
+
+  function boot() {
+    var stored = loadStore(PREFS_KEY, null);
+    if (stored) {
+      Object.keys(prefs).forEach(function (k) {
+        if (k === "q") return;
+        if (stored[k] !== undefined && typeof stored[k] === typeof prefs[k]) prefs[k] = stored[k];
+      });
+      if (!Array.isArray(prefs.sources)) prefs.sources = [];
+      // 型が合っていても値が範囲外だと、UIの表示と実際の絞り込みが食い違ってしまう
+      var min = Math.round(prefs.minScore / 10) * 10;
+      prefs.minScore = Math.min(90, Math.max(0, isFinite(min) ? min : 0));
+      if (THEMES.indexOf(prefs.theme) === -1) prefs.theme = "auto";
+      if (prefs.sort !== "score") prefs.sort = "date";
+    }
+    applyTheme();
+    wireTheme();
+    read = loadStore(READ_KEY, {});
+
+    fetch(FEED_URL, { cache: "no-cache" })
+      .then(function (res) {
+        if (!res.ok) throw new Error("HTTP " + res.status);
+        return res.json();
+      })
+      .then(function (data) {
+        try {
+          renderFeed(data);
+        } catch (err) {
+          el.status.textContent = "表示中にエラーが発生しました";
+          showNotice("記事の描画に失敗しました（" + err.message + "）。生フィードは下のリンクから開けます。", true);
+        }
+      })
+      .catch(function (err) {
+        el.status.textContent = "読み込みに失敗しました";
+        showNotice("feed.json を読み込めませんでした（" + err.message + "）。生フィードは下のリンクから開けます。", true);
+      });
+  }
+
+  function renderFeed(data) {
+    items = normalize(Array.isArray(data.items) ? data.items : []);
+    generatedAt = data.generated_at || null;
+    if (!items.length) {
+      el.status.textContent = "記事がありません";
+      showNotice("feed.json に記事が入っていません。集約ワークフローの実行を待ってください。");
+      return;
+    }
+    pruneRead();
+    el.controls.hidden = false;
+    buildSourceChips();
+    buildCategorySelect();
+    restoreControls();
+    wireControls();
+    render();
+    syncControlsHeight();
+    var resizeTimer = null;
+    window.addEventListener("resize", function () {
+      clearTimeout(resizeTimer);
+      resizeTimer = setTimeout(syncControlsHeight, 150);
+    });
+  }
+
+  boot();
+})();
+</script>
 </body>
 </html>
