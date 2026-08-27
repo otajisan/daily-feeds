@@ -4,8 +4,24 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 27 Aug 2026 15:03:38 +0000</lastBuildDate>
+<lastBuildDate>Thu, 27 Aug 2026 15:30:56 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>[95] [AINews] NVIDIA buys HuggingFace for $13B, as OpenAI publishes their HF incident retro</title>
+<link>https://www.latent.space/p/ainews-nvidia-buys-huggingface-for</link>
+<guid isPermaLink="true">https://www.latent.space/p/ainews-nvidia-buys-huggingface-for</guid>
+<pubDate>Thu, 27 Aug 2026 01:50:54 +0000</pubDate>
+<category>Latent Space</category>
+<description>TheInformation had the scoop , and now they have the confirmation — Nvidia is buying HuggingFace for $13B, roughly 80x their $150M ARR , having doubled its customer base in 2026 . This is almost double Nvidia’s initial $7B offer in Jan 2026. What can we say? We love it when the good guys win. But in the backdrop of GLM-5.3-Flash (aka Ox Alpha) impressing everyone (except GDM vaguepoasters ) and Qwen also shipping an impressive Flash model on chinese chips, perhaps the post Hot Chips conversation — Latent Space / score: 95 (NVIDIAによるHuggingFace買収の重大ニュース。)</description>
+</item>
+<item>
+<title>[90] [AINews] Hot Chips: OpenAI’s Jalapeño, Cerebras CS-5, Groq 3 LPX, Apple M6</title>
+<link>https://www.latent.space/p/ainews-hot-chips-openais-jalapeno</link>
+<guid isPermaLink="true">https://www.latent.space/p/ainews-hot-chips-openais-jalapeno</guid>
+<pubDate>Thu, 27 Aug 2026 01:31:22 +0000</pubDate>
+<category>Latent Space</category>
+<description>By far the biggest announcement at the 37th Hot Chips conference was OpenAI’s stunning progress on their own chip, less than a year after the Broadcom announcement … and that it isn’t an ASIC; but a full on Blackwell-beating alternative. The key metric now is shifting to performance per watt, and Jalapeno delivers: The full Hot Chips presentation is not yet out but various takes are below. For a fuller breakdown, watch along with the rest of OpenAI: AI News for 8/24/2026-8/25/2026. We checked 12 — Latent Space / score: 90 (Hot ChipsでのAIハードウェアの主要発表。)</description>
+</item>
 <item>
 <title>[85] OpenAI自社チップ「ハラペーニョ」、NVIDIA GB300を大幅に上回る性能に</title>
 <link>https://pc.watch.impress.co.jp/docs/news/2136080.html</link>
@@ -45,6 +61,14 @@
 <pubDate>Fri, 21 Aug 2026 04:49:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Bunチームは2026年8月20日、JavaScript／TypeScript向けランタイム兼ツールキット「Bun」のバージョン1.4をリリースした。 — gihyo.jp / score: 85 (初のRust実装版となったBun 1.4のメジャーリリース)</description>
+</item>
+<item>
+<title>[85] Mojo🔥 is now open source</title>
+<link>https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/</guid>
+<pubDate>Tue, 18 Aug 2026 21:39:20 +0000</pubDate>
+<category>Simon Willison</category>
+<description>Mojo🔥 is now open source The Mojo programming language has been promising an open source release since May 2023 . Last week they shipped their 1.0 and today they have followed through on that original promise, releasing the compiler and toolchain under an Apache 2 license. When Mojo first launched the stated goal was to produce a superset of Python, so existing Python code could be used to bootstrap their own ecosystem. That plan changed around August 2025 : Mojo may or may not evolve into a ful — Simon Willison / score: 85 (Mojoプログラミング言語のオープンソース化。)</description>
 </item>
 <item>
 <title>[85] Pacing model development in an era of cyber-critical capabilities</title>
@@ -127,6 +151,14 @@
 <description>AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now. — OpenAI News / score: 80 (AI時代のセキュリティと脅威対策の議論)</description>
 </item>
 <item>
+<title>[80] Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things</title>
+<link>https://simonwillison.net/2026/Aug/16/qwen-38-27b/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Aug/16/qwen-38-27b/</guid>
+<pubDate>Sun, 16 Aug 2026 22:00:39 +0000</pubDate>
+<category>Simon Willison</category>
+<description>Friday's big release was Qwen 3.8 27B , an Apache 2 licensed 27B parameter vision-capable LLM from Alibaba's Qwen research lab. I've been looking forward to this one: 27B is an excellent size for running a model on a reasonably specced laptop, and its predecessor Qwen 3.6 27B was impressive. Qwen's self-reported benchmarks for this model are eye-opening. They show a boost from both Qwen 3.6 27B and the closed-weight Qwen 3.7-Plus, which was one of Qwen's strongest models of any size as recently  — Simon Willison / score: 80 (Qwen 3.8 27Bのリリースと性能レビュー。)</description>
+</item>
+<item>
 <title>[80] [AINews] Gemini 3.7 Flash brings GDM back to the forefront</title>
 <link>https://www.latent.space/p/ainews-gemini-37-flash-brings-gdm</link>
 <guid isPermaLink="true">https://www.latent.space/p/ainews-gemini-37-flash-brings-gdm</guid>
@@ -146,7 +178,7 @@
 <title>[75] DuckDBの開発元であるDuckLabsがAWS子会社になると発表。DuckDBはオープンソースのMITライセンスを維持</title>
 <link>https://www.publickey1.jp/blog/26/duckdbducklabsawsduckdbmit.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/duckdbducklabsawsduckdbmit.html</guid>
-<pubDate>Thu, 27 Aug 2026 14:57:15 +0000</pubDate>
+<pubDate>Thu, 27 Aug 2026 15:30:45 +0000</pubDate>
 <category>Publickey</category>
 <description>DuckDBの開発元であるDuckLabsは、来月（2026年9月）初旬にAWSの子会社となる予定であることを発表しました（DuckLabsの発表。AWSの発表） Today, @ducklabs_com is joining @awscl... — Publickey / score: 75 (DuckDBのAWS買収は大きな業界ニュース)</description>
 </item>
@@ -255,6 +287,14 @@
 <description>Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K. — OpenAI News / score: 75 (AIを活用した大規模なコード移行の実例)</description>
 </item>
 <item>
+<title>[75] Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index</title>
+<link>https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/</guid>
+<pubDate>Mon, 17 Aug 2026 23:58:14 +0000</pubDate>
+<category>Simon Willison</category>
+<description>Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index That's the same score as GPT-5.6 Luna (max), and just one point behind GLM-5.2 (max) and DeepSeek V4 Pro 0813 (max) - that GLM is 753B and that DeepSeek is 1.7T parameters , and Luna is size unknown but presumably a whole lot bigger than 27B. Qwen 3.8 27B is a truly astonishing model . Via Hacker News Tags: ai , generative-ai , llms , qwen , ai-in-china , artificial-analysis — Simon Willison / score: 75 (Qwen 3.8 27Bの性能評価スコア。)</description>
+</item>
+<item>
 <title>[75] Z.ai、AIモデル「GLM-5.3」を発表 ——コーディングと脆弱性解析を強化、重みは2週間後に公開予定</title>
 <link>https://gihyo.jp/article/2026/08/glm-5.3?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/08/glm-5.3?utm_source=feed</guid>
@@ -311,6 +351,14 @@
 <description>Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe. — Google DeepMind / score: 70 (Geminiの新音声認識モデルの発表)</description>
 </item>
 <item>
+<title>[70] Lovable CTO: The Future of SaaS Is Apps That Agents Can Use</title>
+<link>https://www.latent.space/p/lovable-future-of-saas</link>
+<guid isPermaLink="true">https://www.latent.space/p/lovable-future-of-saas</guid>
+<pubDate>Wed, 26 Aug 2026 16:16:25 +0000</pubDate>
+<category>Latent Space</category>
+<description>Lovable is branching out from AI-powered web app creation and into MCP-powered ‘capabilities’. We talk to CTO Fabian Hedin. — Latent Space / score: 70 (MCPとAIエージェントによるSaaSの未来。)</description>
+</item>
+<item>
 <title>[70] MCPの新ロードマップ公開、今後はAIエージェント対応、HTTP通信への統一、アイデンティティ、よりよいデベロッパー体験などに注力</title>
 <link>https://www.publickey1.jp/blog/26/mcpaihttp.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/mcpaihttp.html</guid>
@@ -341,6 +389,14 @@
 <pubDate>Tue, 25 Aug 2026 06:59:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Deno開発チームは2026年8月23日、ネイティブのiOS/Androidアプリを開発できるバイブコーディングプラットフォーム「Dactyl」を発表した。 — gihyo.jp / score: 70 (DenoチームによるSwiftUI対応アプリ構築プラットフォーム発表)</description>
+</item>
+<item>
+<title>[70] [AINews] Andrew Ng gets into AI Engineering</title>
+<link>https://www.latent.space/p/ainews-andrew-ng-gets-into-ai-engineering</link>
+<guid isPermaLink="true">https://www.latent.space/p/ainews-andrew-ng-gets-into-ai-engineering</guid>
+<pubDate>Tue, 25 Aug 2026 02:50:57 +0000</pubDate>
+<category>Latent Space</category>
+<description>We’ve lost count of how many adoption milestones have been passed since the original Rise of the AI Engineer post, but surely Andrew Ng, cofounder of Google Brain and Coursera among many other things, relaunching DeepLearning.ai with a focus on AI Engineering is a big one : This was done via “ an analysis of over 10,000 job postings; carrying out dozens of structured interviews with AI experts, hiring managers, and recruiters; gathering data through surveys; and synthesizing other online data ”  — Latent Space / score: 70 (Andrew NgのAIエンジニアリング参入の動向。)</description>
 </item>
 <item>
 <title>[70] シングルバイナリなOLAP DBの次期版「DuckDB 2.0」プレビュー。クライアント／サーバ機能が安定版に、スキーマレスのVARIANT型、トリガー、非同期I/Oなど新機能</title>
@@ -535,6 +591,14 @@
 <description>Androidの魅力として語られてきた自由なアプリ導入手法、いわゆるサイドロードの運用が大きな転換期を迎えています。今回の施策について、これまでの経緯と新たな制限の仕組み、そして開発者が取るべき具体的な対応策を紐解いていきます。 — gihyo.jp / score: 65 (アプリ開発におけるサイドロード制限の動向と影響)</description>
 </item>
 <item>
+<title>[65] 🔬“We have foundation models for language, not for physics” — Anima Anandkumar, Bren Professor of Computing</title>
+<link>https://www.latent.space/p/anima</link>
+<guid isPermaLink="true">https://www.latent.space/p/anima</guid>
+<pubDate>Wed, 26 Aug 2026 15:15:39 +0000</pubDate>
+<category>Latent Space</category>
+<description>Anima Anandkumar has spent two decades in AI, from classical math to deep learning and back. Now she's using it to model the physical world, from weather to fusion reactors. — Latent Space / score: 65 (物理学のためのAI基盤モデルに関するインタビュー。)</description>
+</item>
+<item>
 <title>[65] AI駆動開発はどこまで来たのか？ ファインディの最新実態調査で読み解く現在地 Devin Con Tokyo</title>
 <link>https://speakerdeck.com/akiratom/ai-kudou-kaihatsu-ha-doko-made-kita-no-ka-no-saishin-jittai-chousa-de-yomitoku-genzaichi-devin-con-tokyo</link>
 <guid isPermaLink="true">https://speakerdeck.com/akiratom/ai-kudou-kaihatsu-ha-doko-made-kita-no-ka-no-saishin-jittai-chousa-de-yomitoku-genzaichi-devin-con-tokyo</guid>
@@ -623,6 +687,14 @@
 <description>2026年8月22日時点のFreeToken 0.1.2を、RTX 5090 32GBとRAM 128GBのPCで試しました。 FreeTokenは、Mixture-of-Experts（MoE）モデルのexpertをホストRAMへ置き、必要なexpertだけをGPUへキャッシュしながら推論するサービングエンジンです。狙いはvLLMやllama.cppを単純に高速化することではなく、VRAMに収まらない巨大なMoEをコンシューマ向けGPUで実用速度で動かすことにあります。 実際に試すと、この立ち位置がかなり明確に出ました。23.5GBのOrnith 1.5ではllama.cppとvLLM... — Zenn トレンド / score: 65 (RTX 5090とMoEモデルのローカル推論検証)</description>
 </item>
 <item>
+<title>[65] [AINews] 10% worse, 100x cheaper, 10000x faster: Why Simulation is taking over</title>
+<link>https://www.latent.space/p/ainews-10-worse-100x-cheaper-10000x</link>
+<guid isPermaLink="true">https://www.latent.space/p/ainews-10-worse-100x-cheaper-10000x</guid>
+<pubDate>Sat, 22 Aug 2026 07:36:00 +0000</pubDate>
+<category>Latent Space</category>
+<description>By AI standards today is a pretty quiet Friday, so it’s time to take a step back and reflect on what is really going on. If you read our 2025 reading list , and followed our coverage of Z.ai GLM , understood the Poolside pivot , been following our AI for Science themes , and tuned in to today’s Simile pod , you not only are one of the biggest readers of Latent Space, you will probably also arrive at this mental model: Every year since 2022, one more component of the pipeline that produces machin — Latent Space / score: 65 (AI開発におけるシミュレーション活用の解説記事)</description>
+</item>
+<item>
 <title>[65] The Evolution of the Agent Harness</title>
 <link>https://www.latent.space/p/attention-interface</link>
 <guid isPermaLink="true">https://www.latent.space/p/attention-interface</guid>
@@ -663,6 +735,14 @@
 <description>Vercel Labsは2026年8月18日、単一のネイティブバイナリとして動作するコンパクトなコーディングエージェントハーネス兼CLI「fx」をApache 2.0ライセンスのもと、GitHub上でオープンソースとして公開した。 — gihyo.jp / score: 65 (Vercel LabsによるZig製コーディングエージェント公開)</description>
 </item>
 <item>
+<title>[65] smolmachines / smolvm as a sandbox for untrusted Python &amp; JavaScript</title>
+<link>https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/</guid>
+<pubDate>Wed, 19 Aug 2026 23:16:00 +0000</pubDate>
+<category>Simon Willison</category>
+<description>Research: smolmachines / smolvm as a sandbox for untrusted Python &amp; JavaScript I tasked Claude Fable 5 running in Claude Code for web with the following research task: Put https://smolmachines.com through its paces as a fast secure sandbox. Explore what it would take to use this to run untrusted Python and JavaScript code in a way that is limited in what RAM and CPU time it can take up (protection against "while true") with no network access and filesystem access only to designated files Goal is — Simon Willison / score: 65 (未信頼コードのサンドボックス技術に関する研究。)</description>
+</item>
+<item>
 <title>[65] Docker社、コンテナ向けの高性能な新ハイパーバイザ「Docker VMM」パブリックベータ公開</title>
 <link>https://www.publickey1.jp/blog/26/dockerdocker_vmm.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/dockerdocker_vmm.html</guid>
@@ -695,6 +775,14 @@
 <description>8月11日に、NVIDIAから新しいオープンウェイトモデル、Nemotron 3.5 Lightningが登場しました。ライセンスはOpenMDW-1.1で、特に推論速度が重視されたモデルです。そしてSnap経由でこのモデルを利用できる、Inference Snaps版が同日に登場しています。 — gihyo.jp / score: 65 (NVIDIAの高速オープンモデルとUbuntu)</description>
 </item>
 <item>
+<title>[65] sqlite-utils 4.2</title>
+<link>https://simonwillison.net/2026/Aug/13/sqlite-utils/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Aug/13/sqlite-utils/</guid>
+<pubDate>Thu, 13 Aug 2026 20:11:29 +0000</pubDate>
+<category>Simon Willison</category>
+<description>Release: sqlite-utils 4.2 Lots of improvements in this one relating to the table.transform() feature , which adds support for complex alter table operations by creating a fresh table, copying across the data and then dropping and replacing the old one. transform() now preserves a much larger array of edge-case schema definitions, including check constraints, unique constraints and even comments describing the columns. There are also new introspection properties for check constraints, and a whole — Simon Willison / score: 65 (sqlite-utilsの機能改善リリース。)</description>
+</item>
+<item>
 <title>[60] RTX 5090 + RAM 128GBでQwen3.8-Flash-Nextをllama.cppで動かしてみた</title>
 <link>https://zenn.dev/holy_fox/articles/04887ff8177b87</link>
 <guid isPermaLink="true">https://zenn.dev/holy_fox/articles/04887ff8177b87</guid>
@@ -717,94 +805,6 @@
 <pubDate>Thu, 27 Aug 2026 01:38:16 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>天才的なプログラマーで台湾の初代デジタル担当相として知られるオードリー・タン氏に、AI（人工知能）への依存が進めば、人間は自分で考えなくなるのではないかという疑問をぶつけた。インタビュー記事（下）では、自分の頭で「考えない人」が増えるリスクへの対処法や、AI時代の仕事と教育、デジタル技術を社会に生か... — はてなブックマーク テクノロジー / score: 60 (AI依存リスクに対する有識者の警鐘と考察)</description>
-</item>
-<item>
-<title>[60] インフラのモニタリングをAIと伴走する</title>
-<link>https://zenn.dev/genda_jp/articles/f3c141688591a5</link>
-<guid isPermaLink="true">https://zenn.dev/genda_jp/articles/f3c141688591a5</guid>
-<pubDate>Thu, 27 Aug 2026 01:01:53 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>見きれないDatadogのモニタリングをDevinに任せて、毎朝Slackにレポートしてもらう 株式会社GENDAのエンジニアのジャンボです。 新しく事業に参画して、まるっとシステムを見ることになったとき、インフラやモニタリングしているメトリクスに関心を持ちたいのに、なかなか時間が取れないことってありますよね。今関わっているプロダクトではDatadogを使っていて、さまざまなメトリクスを可視化したり、できる限りのAlert/Monitorの設定もしているんですが、より理解を深めリスクに備えるためにAI（Devin）を使うことにしました。 定期的にAI（今回はDevin）にDatado... — Zenn トレンド / score: 60 (AIを活用したインフラモニタリングの自動化手法)</description>
-</item>
-<item>
-<title>[60] Claude Codeの規律をhookに降ろしたら、Haikuでも壊れなくなった</title>
-<link>https://zenn.dev/yui/articles/97597aa13b9802</link>
-<guid isPermaLink="true">https://zenn.dev/yui/articles/97597aa13b9802</guid>
-<pubDate>Wed, 26 Aug 2026 10:43:21 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>前にFable 5の「働き方」をドキュメント化してOpus/Sonnetに引き継がせる話を書きました。 Fable 5とOpus/Sonnetの品質差の大半は知能ではなく規律・順序・検証の差なので、それをスキル(working method + チーム別playbook)として明文化し、サブエージェントチーム全体に配る、というものです。これはかなりうまく機能... — はてなブックマーク テクノロジー / score: 60 (Claude Codeの運用プラクティスとノウハウ共有)</description>
-</item>
-<item>
-<title>[60] 分散DBってなんだっけ、レプリケーション・シャーディング・分散SQLの解像度をあげたい人のメモ</title>
-<link>https://qiita.com/mo__mo/items/c2206fac86176f3f83de?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/mo__mo/items/c2206fac86176f3f83de?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Wed, 26 Aug 2026 01:25:38 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>「データベースを複数台用意して、処理を分散させれば、たくさんの作業ができて、障害にも強くなるんじゃないか」 分散DBは、データや処理を複数のサーバー、あるいは複数の拠点に配置しながら、多くの仕組みでは、その複雑さをできるだけ隠し、利用者やアプリケーションからはひとつのデータ... — Qiita 人気記事 / score: 60 (分散データベースの基礎概念の整理)</description>
-</item>
-<item>
-<title>[60] Granite 4.2 LLMs: How They're Built</title>
-<link>https://huggingface.co/blog/ibm-granite/granite-4-2</link>
-<guid isPermaLink="true">https://huggingface.co/blog/ibm-granite/granite-4-2</guid>
-<pubDate>Tue, 25 Aug 2026 15:14:14 +0000</pubDate>
-<category>Hugging Face Blog</category>
-<description> — Hugging Face Blog / score: 60 (Granite 4.2 LLMの構築手法解説)</description>
-</item>
-<item>
-<title>[60] マイクロサービス間の認可伝搬をどう解くか？独自実装と IETF Transaction Tokens を見比べてみた</title>
-<link>https://zenn.dev/layerx/articles/e01465a15e79c2</link>
-<guid isPermaLink="true">https://zenn.dev/layerx/articles/e01465a15e79c2</guid>
-<pubDate>Tue, 25 Aug 2026 05:00:05 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>こんにちは。アカウント基盤開発部でエンジニアをしている tkmt (たくまつ) です。 今回は、IETF で標準化が進んでいる Transaction Tokens について調査してまとめてみました。というのも、この Transaction Tokens が解こうとしている課題が、バクラクが抱えていた課題とほとんど同じだったためです。 実はバクラクでは、同じ課題を解くための仕組みを自作しています。バクラクで実装された仕組みは、ドラフトで検討されている内容とどこが同じで、どこが違うのか読み比べてみたく調査しました。 解きたかった課題 バクラクには、プロダクトを跨いで認可を行いたいケース... — Zenn トレンド / score: 60 (マイクロサービス間の認可伝搬と標準化技術の比較)</description>
-</item>
-<item>
-<title>[60] 敵対的検証をLLMコードレビューで試すと何が起きるのか</title>
-<link>https://zenn.dev/knowledgesense/articles/0cb441713c9fee</link>
-<guid isPermaLink="true">https://zenn.dev/knowledgesense/articles/0cb441713c9fee</guid>
-<pubDate>Tue, 25 Aug 2026 01:13:08 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>導入 こんにちは、株式会社ナレッジセンスの須藤英寿です。 AIでコードのレビューをする際に敵対的検証をすることで性能が上がるとされています。そこにさらに、その検証を監視する役を付けることでレビューの精度を上げる手法「Adversarial Review」について紹介します。 https://arxiv.org/pdf/2608.18167 サマリー 最近、敵対的検証という言葉を耳にすることが増えました。AnthropicもClaude Codeのワークフローの一つとして紹介しており、エージェントの出力を、別のエージェントに基準を与えて敵対的に検証させる方法を紹介しています。(エ... — Zenn トレンド / score: 60 (LLMコードレビューにおける敵対的検証の試み)</description>
-</item>
-<item>
-<title>[60] AIは回せば回すほど凄いのか ―「常時稼働」という設計の敗北</title>
-<link>https://zenn.dev/eggletric/articles/4ea81df765fb66</link>
-<guid isPermaLink="true">https://zenn.dev/eggletric/articles/4ea81df765fb66</guid>
-<pubDate>Mon, 24 Aug 2026 22:20:05 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>SNSに溢れる「AI常時ぶん回し」への違和感 近年、SNSでこういう投稿をよく見かけます。 「AIエージェントを24時間動かして開発を完全自動化しました」 「寝ている間もAIがコードを書き続けています」 「AI社員を常時稼働させて、プロダクトを量産中です」 一見すると、とても先進的で凄そうに見えます。 実際、こうした投稿は伸びやすく、「これからはこういう時代だ」という空気も感じます。 ただ、現役の開発者としてAIを日常的に使っている立場から、どうしても引っかかることがあります。 本当に、そんなに回す必要があるのでしょうか? 後述しますが、コストの面でも設計の面でも、「常時稼働」は... — Zenn トレンド / score: 60 (AI常時稼働開発に対する実務的な問題提起)</description>
-</item>
-<item>
-<title>[60] Ctrl+C でプログラムが止まる仕組みを調べた</title>
-<link>https://zenn.dev/wakame_atsushi/articles/05a74885eb963d</link>
-<guid isPermaLink="true">https://zenn.dev/wakame_atsushi/articles/05a74885eb963d</guid>
-<pubDate>Sun, 23 Aug 2026 12:34:45 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>はじめに 以前 Go の並列処理を学ぶ中で、graceful shutdown を扱いました。Ctrl+C についても軽く学びました。 ただ、Ctrl+C を押したときに何が起きているかは軽くしか学べておらず、自分の中で引っかかっていました。 今回調べたのは、Ctrl+C を押してプログラムが実際に止まるまでです。（見ていくのは Linux です） 全体の流れ Ctrl+C を押してからプログラムが終了するまでの簡単な流れは以下の通りです。 プログラムが何もしていないときに、カーネルが勝手に終了させる経路を追っていきます。 cat や sleep が Ctrl+C で終了するの... — Zenn トレンド / score: 60 (LinuxにおけるCtrl+Cの仕組みの技術解説)</description>
-</item>
-<item>
-<title>[60] More than just code review</title>
-<link>https://simonwillison.net/2026/Aug/22/more-than-just-code-review/</link>
-<guid isPermaLink="true">https://simonwillison.net/2026/Aug/22/more-than-just-code-review/</guid>
-<pubDate>Sat, 22 Aug 2026 15:56:54 +0000</pubDate>
-<category>Simon Willison</category>
-<description>The key skill required to make productive use of coding agents is being able to confidently instruct them on how to make changes and then confidently verify that those changes have been applied in the correct way. Sometimes this involves reviewing every line of code they have written, but there are other ways to achieve that goal. Eyeballing every line of code has never been the most effective way to validate a change to a piece of software. Tags: code-review , coding-agents , generative-ai , ag — Simon Willison / score: 60 (コーディングエージェントを使いこなすスキル)</description>
-</item>
-<item>
-<title>[60] Simulation: the new Scaling Law — Joon Sung Park, Simile AI</title>
-<link>https://www.latent.space/p/simile</link>
-<guid isPermaLink="true">https://www.latent.space/p/simile</guid>
-<pubDate>Fri, 21 Aug 2026 23:37:38 +0000</pubDate>
-<category>Latent Space</category>
-<description>Simile’s CEO about his journey from the viral Generative Agents to creating 8 Billion Digital Twins of every living human... and why it’s gone from fun exploration to very serious business. — Latent Space / score: 60 (デジタルツインとシミュレーションの最新動向)</description>
-</item>
-<item>
-<title>[60] From Atari to EVE Online: Building on 15 Years of AI Research in Games</title>
-<link>https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/</link>
-<guid isPermaLink="true">https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/</guid>
-<pubDate>Fri, 21 Aug 2026 11:59:48 +0000</pubDate>
-<category>Google DeepMind</category>
-<description>Google DeepMind partners with game studios to prototype breakthrough AI gameplay. — Google DeepMind / score: 60 (ゲームAI研究の15年の歩みと成果)</description>
 </item>
 </channel>
 </rss>

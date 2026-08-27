@@ -1,7 +1,29 @@
 {
  "title": "daily-feeds",
- "generated_at": "2026-08-27T15:03:38.433729+00:00",
+ "generated_at": "2026-08-27T15:30:56.902576+00:00",
  "items": [
+  {
+   "id": "a31466f4f2ac70fb",
+   "title": "[AINews] NVIDIA buys HuggingFace for $13B, as OpenAI publishes their HF incident retro",
+   "link": "https://www.latent.space/p/ainews-nvidia-buys-huggingface-for",
+   "summary": "TheInformation had the scoop , and now they have the confirmation — Nvidia is buying HuggingFace for $13B, roughly 80x their $150M ARR , having doubled its customer base in 2026 . This is almost double Nvidia’s initial $7B offer in Jan 2026. What can we say? We love it when the good guys win. But in the backdrop of GLM-5.3-Flash (aka Ox Alpha) impressing everyone (except GDM vaguepoasters ) and Qwen also shipping an impressive Flash model on chinese chips, perhaps the post Hot Chips conversation",
+   "published": "2026-08-27T01:50:54+00:00",
+   "source": "Latent Space",
+   "category": "ai",
+   "score": 95,
+   "reason": "NVIDIAによるHuggingFace買収の重大ニュース。"
+  },
+  {
+   "id": "1ea8eebd3701c752",
+   "title": "[AINews] Hot Chips: OpenAI’s Jalapeño, Cerebras CS-5, Groq 3 LPX, Apple M6",
+   "link": "https://www.latent.space/p/ainews-hot-chips-openais-jalapeno",
+   "summary": "By far the biggest announcement at the 37th Hot Chips conference was OpenAI’s stunning progress on their own chip, less than a year after the Broadcom announcement … and that it isn’t an ASIC; but a full on Blackwell-beating alternative. The key metric now is shifting to performance per watt, and Jalapeno delivers: The full Hot Chips presentation is not yet out but various takes are below. For a fuller breakdown, watch along with the rest of OpenAI: AI News for 8/24/2026-8/25/2026. We checked 12",
+   "published": "2026-08-27T01:31:22+00:00",
+   "source": "Latent Space",
+   "category": "ai",
+   "score": 90,
+   "reason": "Hot ChipsでのAIハードウェアの主要発表。"
+  },
   {
    "id": "6d1d20de4aa9c5f6",
    "title": "OpenAI自社チップ「ハラペーニョ」、NVIDIA GB300を大幅に上回る性能に",
@@ -56,6 +78,17 @@
    "category": "tech-ja",
    "score": 85,
    "reason": "初のRust実装版となったBun 1.4のメジャーリリース"
+  },
+  {
+   "id": "57a3117940c906b9",
+   "title": "Mojo🔥 is now open source",
+   "link": "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/",
+   "summary": "Mojo🔥 is now open source The Mojo programming language has been promising an open source release since May 2023 . Last week they shipped their 1.0 and today they have followed through on that original promise, releasing the compiler and toolchain under an Apache 2 license. When Mojo first launched the stated goal was to produce a superset of Python, so existing Python code could be used to bootstrap their own ecosystem. That plan changed around August 2025 : Mojo may or may not evolve into a ful",
+   "published": "2026-08-18T21:39:20+00:00",
+   "source": "Simon Willison",
+   "category": "ai",
+   "score": 85,
+   "reason": "Mojoプログラミング言語のオープンソース化。"
   },
   {
    "id": "68c52c81310f1d0e",
@@ -168,6 +201,17 @@
    "reason": "AI時代のセキュリティと脅威対策の議論"
   },
   {
+   "id": "81603460e9838e67",
+   "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things",
+   "link": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+   "summary": "Friday's big release was Qwen 3.8 27B , an Apache 2 licensed 27B parameter vision-capable LLM from Alibaba's Qwen research lab. I've been looking forward to this one: 27B is an excellent size for running a model on a reasonably specced laptop, and its predecessor Qwen 3.6 27B was impressive. Qwen's self-reported benchmarks for this model are eye-opening. They show a boost from both Qwen 3.6 27B and the closed-weight Qwen 3.7-Plus, which was one of Qwen's strongest models of any size as recently ",
+   "published": "2026-08-16T22:00:39+00:00",
+   "source": "Simon Willison",
+   "category": "ai",
+   "score": 80,
+   "reason": "Qwen 3.8 27Bのリリースと性能レビュー。"
+  },
+  {
    "id": "086ace1c21ab97dd",
    "title": "[AINews] Gemini 3.7 Flash brings GDM back to the forefront",
    "link": "https://www.latent.space/p/ainews-gemini-37-flash-brings-gdm",
@@ -194,7 +238,7 @@
    "title": "DuckDBの開発元であるDuckLabsがAWS子会社になると発表。DuckDBはオープンソースのMITライセンスを維持",
    "link": "https://www.publickey1.jp/blog/26/duckdbducklabsawsduckdbmit.html",
    "summary": "DuckDBの開発元であるDuckLabsは、来月（2026年9月）初旬にAWSの子会社となる予定であることを発表しました（DuckLabsの発表。AWSの発表） Today, @ducklabs_com is joining @awscl...",
-   "published": "2026-08-27T14:57:15.907984+00:00",
+   "published": "2026-08-27T15:30:45.280467+00:00",
    "source": "Publickey",
    "category": "tech-ja",
    "score": 75,
@@ -344,6 +388,17 @@
    "reason": "AIを活用した大規模なコード移行の実例"
   },
   {
+   "id": "6aa6db5f712edc5a",
+   "title": "Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index",
+   "link": "https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/",
+   "summary": "Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index That's the same score as GPT-5.6 Luna (max), and just one point behind GLM-5.2 (max) and DeepSeek V4 Pro 0813 (max) - that GLM is 753B and that DeepSeek is 1.7T parameters , and Luna is size unknown but presumably a whole lot bigger than 27B. Qwen 3.8 27B is a truly astonishing model . Via Hacker News Tags: ai , generative-ai , llms , qwen , ai-in-china , artificial-analysis",
+   "published": "2026-08-17T23:58:14+00:00",
+   "source": "Simon Willison",
+   "category": "ai",
+   "score": 75,
+   "reason": "Qwen 3.8 27Bの性能評価スコア。"
+  },
+  {
    "id": "4c704eed329c7e60",
    "title": "Z.ai、AIモデル「GLM-5.3」を発表 ——コーディングと脆弱性解析を強化、重みは2週間後に公開予定",
    "link": "https://gihyo.jp/article/2026/08/glm-5.3?utm_source=feed",
@@ -421,6 +476,17 @@
    "reason": "Geminiの新音声認識モデルの発表"
   },
   {
+   "id": "3e8479c3da30035f",
+   "title": "Lovable CTO: The Future of SaaS Is Apps That Agents Can Use",
+   "link": "https://www.latent.space/p/lovable-future-of-saas",
+   "summary": "Lovable is branching out from AI-powered web app creation and into MCP-powered ‘capabilities’. We talk to CTO Fabian Hedin.",
+   "published": "2026-08-26T16:16:25+00:00",
+   "source": "Latent Space",
+   "category": "ai",
+   "score": 70,
+   "reason": "MCPとAIエージェントによるSaaSの未来。"
+  },
+  {
    "id": "974835e60359c05b",
    "title": "MCPの新ロードマップ公開、今後はAIエージェント対応、HTTP通信への統一、アイデンティティ、よりよいデベロッパー体験などに注力",
    "link": "https://www.publickey1.jp/blog/26/mcpaihttp.html",
@@ -463,6 +529,17 @@
    "category": "tech-ja",
    "score": 70,
    "reason": "DenoチームによるSwiftUI対応アプリ構築プラットフォーム発表"
+  },
+  {
+   "id": "ae2819cc8ddcd143",
+   "title": "[AINews] Andrew Ng gets into AI Engineering",
+   "link": "https://www.latent.space/p/ainews-andrew-ng-gets-into-ai-engineering",
+   "summary": "We’ve lost count of how many adoption milestones have been passed since the original Rise of the AI Engineer post, but surely Andrew Ng, cofounder of Google Brain and Coursera among many other things, relaunching DeepLearning.ai with a focus on AI Engineering is a big one : This was done via “ an analysis of over 10,000 job postings; carrying out dozens of structured interviews with AI experts, hiring managers, and recruiters; gathering data through surveys; and synthesizing other online data ” ",
+   "published": "2026-08-25T02:50:57+00:00",
+   "source": "Latent Space",
+   "category": "ai",
+   "score": 70,
+   "reason": "Andrew NgのAIエンジニアリング参入の動向。"
   },
   {
    "id": "e6e790379969e677",
@@ -729,6 +806,17 @@
    "reason": "アプリ開発におけるサイドロード制限の動向と影響"
   },
   {
+   "id": "48713ac2d414dbdd",
+   "title": "🔬“We have foundation models for language, not for physics” — Anima Anandkumar, Bren Professor of Computing",
+   "link": "https://www.latent.space/p/anima",
+   "summary": "Anima Anandkumar has spent two decades in AI, from classical math to deep learning and back. Now she's using it to model the physical world, from weather to fusion reactors.",
+   "published": "2026-08-26T15:15:39+00:00",
+   "source": "Latent Space",
+   "category": "ai",
+   "score": 65,
+   "reason": "物理学のためのAI基盤モデルに関するインタビュー。"
+  },
+  {
    "id": "31574f7c1ba403fa",
    "title": "AI駆動開発はどこまで来たのか？ ファインディの最新実態調査で読み解く現在地 Devin Con Tokyo",
    "link": "https://speakerdeck.com/akiratom/ai-kudou-kaihatsu-ha-doko-made-kita-no-ka-no-saishin-jittai-chousa-de-yomitoku-genzaichi-devin-con-tokyo",
@@ -850,6 +938,17 @@
    "reason": "RTX 5090とMoEモデルのローカル推論検証"
   },
   {
+   "id": "9e98c378bde5943a",
+   "title": "[AINews] 10% worse, 100x cheaper, 10000x faster: Why Simulation is taking over",
+   "link": "https://www.latent.space/p/ainews-10-worse-100x-cheaper-10000x",
+   "summary": "By AI standards today is a pretty quiet Friday, so it’s time to take a step back and reflect on what is really going on. If you read our 2025 reading list , and followed our coverage of Z.ai GLM , understood the Poolside pivot , been following our AI for Science themes , and tuned in to today’s Simile pod , you not only are one of the biggest readers of Latent Space, you will probably also arrive at this mental model: Every year since 2022, one more component of the pipeline that produces machin",
+   "published": "2026-08-22T07:36:00+00:00",
+   "source": "Latent Space",
+   "category": "ai",
+   "score": 65,
+   "reason": "AI開発におけるシミュレーション活用の解説記事"
+  },
+  {
    "id": "80c0bfdc859cf183",
    "title": "The Evolution of the Agent Harness",
    "link": "https://www.latent.space/p/attention-interface",
@@ -905,6 +1004,17 @@
    "reason": "Vercel LabsによるZig製コーディングエージェント公開"
   },
   {
+   "id": "a76a88cb6bb59a73",
+   "title": "smolmachines / smolvm as a sandbox for untrusted Python & JavaScript",
+   "link": "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/",
+   "summary": "Research: smolmachines / smolvm as a sandbox for untrusted Python & JavaScript I tasked Claude Fable 5 running in Claude Code for web with the following research task: Put https://smolmachines.com through its paces as a fast secure sandbox. Explore what it would take to use this to run untrusted Python and JavaScript code in a way that is limited in what RAM and CPU time it can take up (protection against \"while true\") with no network access and filesystem access only to designated files Goal is",
+   "published": "2026-08-19T23:16:00+00:00",
+   "source": "Simon Willison",
+   "category": "ai",
+   "score": 65,
+   "reason": "未信頼コードのサンドボックス技術に関する研究。"
+  },
+  {
    "id": "9191f82c6d6bb227",
    "title": "Docker社、コンテナ向けの高性能な新ハイパーバイザ「Docker VMM」パブリックベータ公開",
    "link": "https://www.publickey1.jp/blog/26/dockerdocker_vmm.html",
@@ -949,6 +1059,17 @@
    "reason": "NVIDIAの高速オープンモデルとUbuntu"
   },
   {
+   "id": "6a95ca17492be98d",
+   "title": "sqlite-utils 4.2",
+   "link": "https://simonwillison.net/2026/Aug/13/sqlite-utils/",
+   "summary": "Release: sqlite-utils 4.2 Lots of improvements in this one relating to the table.transform() feature , which adds support for complex alter table operations by creating a fresh table, copying across the data and then dropping and replacing the old one. transform() now preserves a much larger array of edge-case schema definitions, including check constraints, unique constraints and even comments describing the columns. There are also new introspection properties for check constraints, and a whole",
+   "published": "2026-08-13T20:11:29+00:00",
+   "source": "Simon Willison",
+   "category": "ai",
+   "score": 65,
+   "reason": "sqlite-utilsの機能改善リリース。"
+  },
+  {
    "id": "1c583c878c4c9364",
    "title": "RTX 5090 + RAM 128GBでQwen3.8-Flash-Nextをllama.cppで動かしてみた",
    "link": "https://zenn.dev/holy_fox/articles/04887ff8177b87",
@@ -980,127 +1101,6 @@
    "category": "tech-ja",
    "score": 60,
    "reason": "AI依存リスクに対する有識者の警鐘と考察"
-  },
-  {
-   "id": "a7b6847c11783869",
-   "title": "インフラのモニタリングをAIと伴走する",
-   "link": "https://zenn.dev/genda_jp/articles/f3c141688591a5",
-   "summary": "見きれないDatadogのモニタリングをDevinに任せて、毎朝Slackにレポートしてもらう 株式会社GENDAのエンジニアのジャンボです。 新しく事業に参画して、まるっとシステムを見ることになったとき、インフラやモニタリングしているメトリクスに関心を持ちたいのに、なかなか時間が取れないことってありますよね。今関わっているプロダクトではDatadogを使っていて、さまざまなメトリクスを可視化したり、できる限りのAlert/Monitorの設定もしているんですが、より理解を深めリスクに備えるためにAI（Devin）を使うことにしました。 定期的にAI（今回はDevin）にDatado...",
-   "published": "2026-08-27T01:01:53+00:00",
-   "source": "Zenn トレンド",
-   "category": "tech-ja",
-   "score": 60,
-   "reason": "AIを活用したインフラモニタリングの自動化手法"
-  },
-  {
-   "id": "5bf59afe365f846c",
-   "title": "Claude Codeの規律をhookに降ろしたら、Haikuでも壊れなくなった",
-   "link": "https://zenn.dev/yui/articles/97597aa13b9802",
-   "summary": "前にFable 5の「働き方」をドキュメント化してOpus/Sonnetに引き継がせる話を書きました。 Fable 5とOpus/Sonnetの品質差の大半は知能ではなく規律・順序・検証の差なので、それをスキル(working method + チーム別playbook)として明文化し、サブエージェントチーム全体に配る、というものです。これはかなりうまく機能...",
-   "published": "2026-08-26T10:43:21+00:00",
-   "source": "はてなブックマーク テクノロジー",
-   "category": "tech-ja",
-   "score": 60,
-   "reason": "Claude Codeの運用プラクティスとノウハウ共有"
-  },
-  {
-   "id": "3eb619301fcabf7d",
-   "title": "分散DBってなんだっけ、レプリケーション・シャーディング・分散SQLの解像度をあげたい人のメモ",
-   "link": "https://qiita.com/mo__mo/items/c2206fac86176f3f83de?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-   "summary": "「データベースを複数台用意して、処理を分散させれば、たくさんの作業ができて、障害にも強くなるんじゃないか」 分散DBは、データや処理を複数のサーバー、あるいは複数の拠点に配置しながら、多くの仕組みでは、その複雑さをできるだけ隠し、利用者やアプリケーションからはひとつのデータ...",
-   "published": "2026-08-26T01:25:38+00:00",
-   "source": "Qiita 人気記事",
-   "category": "tech-ja",
-   "score": 60,
-   "reason": "分散データベースの基礎概念の整理"
-  },
-  {
-   "id": "74043a2c13e42e05",
-   "title": "Granite 4.2 LLMs: How They're Built",
-   "link": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-   "summary": "",
-   "published": "2026-08-25T15:14:14+00:00",
-   "source": "Hugging Face Blog",
-   "category": "ai",
-   "score": 60,
-   "reason": "Granite 4.2 LLMの構築手法解説"
-  },
-  {
-   "id": "14f42f15abe4bbac",
-   "title": "マイクロサービス間の認可伝搬をどう解くか？独自実装と IETF Transaction Tokens を見比べてみた",
-   "link": "https://zenn.dev/layerx/articles/e01465a15e79c2",
-   "summary": "こんにちは。アカウント基盤開発部でエンジニアをしている tkmt (たくまつ) です。 今回は、IETF で標準化が進んでいる Transaction Tokens について調査してまとめてみました。というのも、この Transaction Tokens が解こうとしている課題が、バクラクが抱えていた課題とほとんど同じだったためです。 実はバクラクでは、同じ課題を解くための仕組みを自作しています。バクラクで実装された仕組みは、ドラフトで検討されている内容とどこが同じで、どこが違うのか読み比べてみたく調査しました。 解きたかった課題 バクラクには、プロダクトを跨いで認可を行いたいケース...",
-   "published": "2026-08-25T05:00:05+00:00",
-   "source": "Zenn トレンド",
-   "category": "tech-ja",
-   "score": 60,
-   "reason": "マイクロサービス間の認可伝搬と標準化技術の比較"
-  },
-  {
-   "id": "93b522dd4ec13979",
-   "title": "敵対的検証をLLMコードレビューで試すと何が起きるのか",
-   "link": "https://zenn.dev/knowledgesense/articles/0cb441713c9fee",
-   "summary": "導入 こんにちは、株式会社ナレッジセンスの須藤英寿です。 AIでコードのレビューをする際に敵対的検証をすることで性能が上がるとされています。そこにさらに、その検証を監視する役を付けることでレビューの精度を上げる手法「Adversarial Review」について紹介します。 https://arxiv.org/pdf/2608.18167 サマリー 最近、敵対的検証という言葉を耳にすることが増えました。AnthropicもClaude Codeのワークフローの一つとして紹介しており、エージェントの出力を、別のエージェントに基準を与えて敵対的に検証させる方法を紹介しています。(エ...",
-   "published": "2026-08-25T01:13:08+00:00",
-   "source": "Zenn トレンド",
-   "category": "tech-ja",
-   "score": 60,
-   "reason": "LLMコードレビューにおける敵対的検証の試み"
-  },
-  {
-   "id": "1e37da256ad0a8a2",
-   "title": "AIは回せば回すほど凄いのか ―「常時稼働」という設計の敗北",
-   "link": "https://zenn.dev/eggletric/articles/4ea81df765fb66",
-   "summary": "SNSに溢れる「AI常時ぶん回し」への違和感 近年、SNSでこういう投稿をよく見かけます。 「AIエージェントを24時間動かして開発を完全自動化しました」 「寝ている間もAIがコードを書き続けています」 「AI社員を常時稼働させて、プロダクトを量産中です」 一見すると、とても先進的で凄そうに見えます。 実際、こうした投稿は伸びやすく、「これからはこういう時代だ」という空気も感じます。 ただ、現役の開発者としてAIを日常的に使っている立場から、どうしても引っかかることがあります。 本当に、そんなに回す必要があるのでしょうか? 後述しますが、コストの面でも設計の面でも、「常時稼働」は...",
-   "published": "2026-08-24T22:20:05+00:00",
-   "source": "Zenn トレンド",
-   "category": "tech-ja",
-   "score": 60,
-   "reason": "AI常時稼働開発に対する実務的な問題提起"
-  },
-  {
-   "id": "39b6eddb23183375",
-   "title": "Ctrl+C でプログラムが止まる仕組みを調べた",
-   "link": "https://zenn.dev/wakame_atsushi/articles/05a74885eb963d",
-   "summary": "はじめに 以前 Go の並列処理を学ぶ中で、graceful shutdown を扱いました。Ctrl+C についても軽く学びました。 ただ、Ctrl+C を押したときに何が起きているかは軽くしか学べておらず、自分の中で引っかかっていました。 今回調べたのは、Ctrl+C を押してプログラムが実際に止まるまでです。（見ていくのは Linux です） 全体の流れ Ctrl+C を押してからプログラムが終了するまでの簡単な流れは以下の通りです。 プログラムが何もしていないときに、カーネルが勝手に終了させる経路を追っていきます。 cat や sleep が Ctrl+C で終了するの...",
-   "published": "2026-08-23T12:34:45+00:00",
-   "source": "Zenn トレンド",
-   "category": "tech-ja",
-   "score": 60,
-   "reason": "LinuxにおけるCtrl+Cの仕組みの技術解説"
-  },
-  {
-   "id": "6cda44a27fa95dfd",
-   "title": "More than just code review",
-   "link": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/",
-   "summary": "The key skill required to make productive use of coding agents is being able to confidently instruct them on how to make changes and then confidently verify that those changes have been applied in the correct way. Sometimes this involves reviewing every line of code they have written, but there are other ways to achieve that goal. Eyeballing every line of code has never been the most effective way to validate a change to a piece of software. Tags: code-review , coding-agents , generative-ai , ag",
-   "published": "2026-08-22T15:56:54+00:00",
-   "source": "Simon Willison",
-   "category": "ai",
-   "score": 60,
-   "reason": "コーディングエージェントを使いこなすスキル"
-  },
-  {
-   "id": "7fc8fd49db2026d3",
-   "title": "Simulation: the new Scaling Law — Joon Sung Park, Simile AI",
-   "link": "https://www.latent.space/p/simile",
-   "summary": "Simile’s CEO about his journey from the viral Generative Agents to creating 8 Billion Digital Twins of every living human... and why it’s gone from fun exploration to very serious business.",
-   "published": "2026-08-21T23:37:38+00:00",
-   "source": "Latent Space",
-   "category": "ai",
-   "score": 60,
-   "reason": "デジタルツインとシミュレーションの最新動向"
-  },
-  {
-   "id": "e42b7af4138c252f",
-   "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-   "link": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
-   "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
-   "published": "2026-08-21T11:59:48+00:00",
-   "source": "Google DeepMind",
-   "category": "ai",
-   "score": 60,
-   "reason": "ゲームAI研究の15年の歩みと成果"
   }
  ]
 }
