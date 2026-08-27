@@ -1,0 +1,72 @@
+# 購読対象のRSS/Atomフィード一覧
+# name: 表示名 / url: フィードURL / category: 任意の分類タグ
+feeds:
+  # --- 日本語Tech系 ---
+  - name: Publickey
+    url: https://www.publickey1.jp/atom.xml
+    category: tech-ja
+
+  - name: はてなブックマーク テクノロジー
+    url: https://b.hatena.ne.jp/hotentry/it.rss
+    category: tech-ja
+
+  - name: Zenn トレンド
+    url: https://zenn.dev/feed
+    category: tech-ja
+
+  - name: Qiita 人気記事
+    url: https://qiita.com/popular-items/feed
+    category: tech-ja
+
+  - name: gihyo.jp
+    url: https://gihyo.jp/feed/atom
+    category: tech-ja
+
+  - name: InfoQ Japan
+    url: https://feed.infoq.com/jp/
+    category: tech-ja
+
+  # --- AI / LLM ---
+  - name: OpenAI News
+    url: https://openai.com/news/rss.xml
+    category: ai
+
+  - name: Google AI Blog
+    url: https://blog.google/technology/ai/rss/
+    category: ai
+
+  - name: Google DeepMind
+    url: https://deepmind.google/blog/rss.xml
+    category: ai
+
+  - name: Hugging Face Blog
+    url: https://huggingface.co/blog/feed.xml
+    category: ai
+
+  - name: Simon Willison
+    url: https://simonwillison.net/atom/everything/
+    category: ai
+
+  - name: Latent Space
+    url: https://www.latent.space/feed
+    category: ai
+
+# --- 設定 ---
+settings:
+  # フィードに残す期間(日)。これより古い記事は落とす
+  retention_days: 14
+  # 各出力フィードの最大件数
+  max_items: 100
+  # 1回のGemini呼び出しでスコアリングする記事数
+  score_batch_size: 20
+  # 使用するGeminiモデル (gemini-2.5-flash は新規ユーザーには提供終了。
+  # 精度優先なら gemini-3.6-flash も可だが、実測で1バッチ数十秒かかり503も出る)
+  gemini_model: gemini-3.5-flash-lite
+  # thinkingの深さ。Gemini 3.x は "low" / "high" を受け付ける(未指定ならモデル既定)
+  # gemini_thinking_level: low
+  # 集約フィードのメタ情報
+  site_url: https://otajisan.github.io/daily-feeds
+  feed_title: daily-feeds
+  feed_description: 日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)
+  # フィード取得時のUser-Agent
+  user_agent: daily-feeds/1.0 (+https://otajisan.github.io/daily-feeds)

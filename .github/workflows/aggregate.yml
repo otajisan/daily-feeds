@@ -1,0 +1,67 @@
+name: Aggregate feeds
+
+on:
+  schedule:
+    - cron: "0 */2 * * *" # 2時間ごと (UTC)
+  workflow_dispatch: {} # 手動実行
+  push:
+    paths:
+      - feeds.yml
+      - scripts/**
+    branches:
+      - main
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: aggregate
+  cancel-in-progress: false
+
+jobs:
+  aggregate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Aggregate & score
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scripts/aggregate.py
+
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs data
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "chore: update aggregated feeds"
+            git push
+          fi
+
+      # 失敗に気づけるよう、開いているトラッキングIssueに追記する(無ければ作る)
+      - name: Report failure
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          title="Aggregate feeds workflow is failing"
+          number=$(gh issue list --state open --search "\"$title\" in:title" --json number --jq '.[0].number // empty')
+          body="Aggregation run failed: $RUN_URL"
+          if [ -n "$number" ]; then
+            gh issue comment "$number" --body "$body"
+          else
+            gh issue create --title "$title" --body "$body"
+          fi
