@@ -40,7 +40,48 @@ FETCH_BACKOFF_SEC = 3.0
 SCORE_RETRIES = 3
 SCORE_BACKOFF_SEC = 5.0
 SCORE_BATCH_PAUSE_SEC = 2.0
-RETRYABLE_STATUS = {429, 500, 502, 503, 504}
+RETRYABLE_STATUS = {408, 425, 429, 500, 502, 503, 504}
+RETRYABLE_EXCEPTIONS = {
+    "RemoteProtocolError",
+    "ConnectError",
+    "ConnectTimeout",
+    "ReadTimeout",
+    "ReadError",
+    "WriteError",
+    "WriteTimeout",
+    "PoolTimeout",
+    "ProtocolError",
+    "IncompleteRead",
+    "NetworkError",
+    "SSLError",
+}
+# 入力が同じ限り結果が変わらない終了理由。リトライしても無駄なので即フォールバックする
+TERMINAL_FINISH_REASONS = (
+    "SAFETY",
+    "PROHIBITED_CONTENT",
+    "RECITATION",
+    "BLOCKLIST",
+    "SPII",
+    "MAX_TOKENS",
+    "MALFORMED_FUNCTION_CALL",
+    "OTHER",
+    "BLOCKED",
+    "NO_CANDIDATES",
+)
+RETRYABLE_ERROR_HINTS = (
+    "429",
+    "500",
+    "502",
+    "503",
+    "504",
+    "RESOURCE_EXHAUSTED",
+    "UNAVAILABLE",
+    "INTERNAL",
+    "DEADLINE_EXCEEDED",
+    "Server disconnected",
+    "Connection reset",
+    "timed out",
+)
 
 # 追跡用クエリパラメータ(重複排除のキーからは落とす。表示用リンクは元のまま)
 TRACKING_PARAMS = {"fbclid", "gclid", "mc_cid", "mc_eid", "ref", "ref_src", "spm", "yclid"}
@@ -233,15 +274,25 @@ RESPONSE_SCHEMA = {
 }
 
 
+class TransientScoringError(RuntimeError):
+    """空レスポンスなど、リトライで回復しうるスコアリング失敗。"""
+
+
 def is_retryable(e: Exception) -> bool:
+    """一時的な失敗かどうか。HTTPステータスだけでなくコネクション断も拾う。"""
     code = getattr(e, "code", None)
     if isinstance(code, int):
-        return code in RETRYABLE_STATUS
-    text = str(e)
-    return any(
-        t in text
-        for t in ("429", "500", "502", "503", "504", "RESOURCE_EXHAUSTED", "UNAVAILABLE", "INTERNAL")
-    )
+        if code in RETRYABLE_STATUS:
+            return True
+        if 400 <= code < 500:  # 投げ直しても直らないリクエスト側のエラー
+            return False
+    if isinstance(e, (TransientScoringError, json.JSONDecodeError, ConnectionError, TimeoutError)):
+        return True
+    # httpx等のコネクション系例外はライブラリ固有の型なので名前で判定する
+    # (例: "Server disconnected without sending a response." = RemoteProtocolError)
+    if type(e).__name__ in RETRYABLE_EXCEPTIONS:
+        return True
+    return any(t in str(e) for t in RETRYABLE_ERROR_HINTS)
 
 
 def parse_score_response(text: str, batch: list[dict]) -> dict[str, dict]:
@@ -263,10 +314,14 @@ def parse_score_response(text: str, batch: list[dict]) -> dict[str, dict]:
 
 
 def finish_reason(resp) -> str:
+    """終了理由を返す。候補が無い場合はプロンプト段階でブロックされたとみなす。"""
+    block = getattr(getattr(resp, "prompt_feedback", None), "block_reason", None)
+    if block:
+        return f"BLOCKED({block})"
     try:
         return str(resp.candidates[0].finish_reason)
     except Exception:  # noqa: BLE001
-        return "unknown"
+        return "NO_CANDIDATES"
 
 
 def gemini_score_batch(client, cfg: dict, batch: list[dict]) -> dict[str, dict]:
@@ -295,7 +350,10 @@ def gemini_score_batch(client, cfg: dict, batch: list[dict]) -> dict[str, dict]:
                 model=s["gemini_model"], contents=prompt, config=config
             )
             if not resp.text:
-                raise ValueError(f"empty response (finish_reason={finish_reason(resp)})")
+                reason = finish_reason(resp)
+                if any(t in reason.upper() for t in TERMINAL_FINISH_REASONS):
+                    raise ValueError(f"blocked response (finish_reason={reason})")
+                raise TransientScoringError(f"empty response (finish_reason={reason})")
             return parse_score_response(resp.text, batch)
         except Exception as e:  # noqa: BLE001
             last_exc = e
