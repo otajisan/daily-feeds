@@ -48,10 +48,15 @@ RETRYABLE_EXCEPTIONS = {
     "ReadTimeout",
     "ReadError",
     "WriteError",
+    "WriteTimeout",
     "PoolTimeout",
     "ProtocolError",
     "IncompleteRead",
+    "NetworkError",
+    "SSLError",
 }
+# 入力が同じ限り結果が変わらない終了理由。リトライしても無駄なので即フォールバックする
+TERMINAL_FINISH_REASONS = ("SAFETY", "PROHIBITED_CONTENT", "RECITATION", "BLOCKLIST", "SPII")
 RETRYABLE_ERROR_HINTS = (
     "429",
     "500",
@@ -266,7 +271,11 @@ def is_retryable(e: Exception) -> bool:
     """一時的な失敗かどうか。HTTPステータスだけでなくコネクション断も拾う。"""
     code = getattr(e, "code", None)
     if isinstance(code, int):
-        return code in RETRYABLE_STATUS
+        if code in RETRYABLE_STATUS:
+            return True
+        # 4xxは基本的に投げ直しても直らないが、408/425は一時的なので下の判定に回す
+        if 400 <= code < 500 and code not in (408, 425):
+            return False
     if isinstance(e, (TransientScoringError, json.JSONDecodeError, ConnectionError, TimeoutError)):
         return True
     # httpx等のコネクション系例外はライブラリ固有の型なので名前で判定する
@@ -327,9 +336,10 @@ def gemini_score_batch(client, cfg: dict, batch: list[dict]) -> dict[str, dict]:
                 model=s["gemini_model"], contents=prompt, config=config
             )
             if not resp.text:
-                raise TransientScoringError(
-                    f"empty response (finish_reason={finish_reason(resp)})"
-                )
+                reason = finish_reason(resp)
+                if any(t in reason.upper() for t in TERMINAL_FINISH_REASONS):
+                    raise ValueError(f"blocked response (finish_reason={reason})")
+                raise TransientScoringError(f"empty response (finish_reason={reason})")
             return parse_score_response(resp.text, batch)
         except Exception as e:  # noqa: BLE001
             last_exc = e
