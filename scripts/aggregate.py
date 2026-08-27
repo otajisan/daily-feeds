@@ -40,7 +40,7 @@ FETCH_BACKOFF_SEC = 3.0
 SCORE_RETRIES = 3
 SCORE_BACKOFF_SEC = 5.0
 SCORE_BATCH_PAUSE_SEC = 2.0
-RETRYABLE_STATUS = {429, 500, 502, 503, 504}
+RETRYABLE_STATUS = {408, 425, 429, 500, 502, 503, 504}
 RETRYABLE_EXCEPTIONS = {
     "RemoteProtocolError",
     "ConnectError",
@@ -56,7 +56,18 @@ RETRYABLE_EXCEPTIONS = {
     "SSLError",
 }
 # 入力が同じ限り結果が変わらない終了理由。リトライしても無駄なので即フォールバックする
-TERMINAL_FINISH_REASONS = ("SAFETY", "PROHIBITED_CONTENT", "RECITATION", "BLOCKLIST", "SPII")
+TERMINAL_FINISH_REASONS = (
+    "SAFETY",
+    "PROHIBITED_CONTENT",
+    "RECITATION",
+    "BLOCKLIST",
+    "SPII",
+    "MAX_TOKENS",
+    "MALFORMED_FUNCTION_CALL",
+    "OTHER",
+    "BLOCKED",
+    "NO_CANDIDATES",
+)
 RETRYABLE_ERROR_HINTS = (
     "429",
     "500",
@@ -273,8 +284,7 @@ def is_retryable(e: Exception) -> bool:
     if isinstance(code, int):
         if code in RETRYABLE_STATUS:
             return True
-        # 4xxは基本的に投げ直しても直らないが、408/425は一時的なので下の判定に回す
-        if 400 <= code < 500 and code not in (408, 425):
+        if 400 <= code < 500:  # 投げ直しても直らないリクエスト側のエラー
             return False
     if isinstance(e, (TransientScoringError, json.JSONDecodeError, ConnectionError, TimeoutError)):
         return True
@@ -304,10 +314,14 @@ def parse_score_response(text: str, batch: list[dict]) -> dict[str, dict]:
 
 
 def finish_reason(resp) -> str:
+    """終了理由を返す。候補が無い場合はプロンプト段階でブロックされたとみなす。"""
+    block = getattr(getattr(resp, "prompt_feedback", None), "block_reason", None)
+    if block:
+        return f"BLOCKED({block})"
     try:
         return str(resp.candidates[0].finish_reason)
     except Exception:  # noqa: BLE001
-        return "unknown"
+        return "NO_CANDIDATES"
 
 
 def gemini_score_batch(client, cfg: dict, batch: list[dict]) -> dict[str, dict]:
