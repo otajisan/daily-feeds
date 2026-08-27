@@ -167,6 +167,8 @@ select, .btn {
   padding: 12px 14px; box-shadow: var(--shadow);
 }
 .card-head { display: flex; gap: 10px; align-items: flex-start; }
+/* スコアバッジ幅(.8125rem × 2.6em) + card-head の gap。em のままだと各行の font-size で長さが変わる */
+.card { --indent: calc(2.1125rem + 10px); }
 .score {
   flex: none; min-width: 2.6em; text-align: center;
   font-size: .8125rem; font-weight: 700; font-variant-numeric: tabular-nums;
@@ -182,7 +184,7 @@ select, .btn {
 .title:hover { text-decoration: underline; }
 .meta {
   display: flex; flex-wrap: wrap; align-items: center; gap: 6px;
-  margin: 6px 0 0 calc(2.6em + 10px);
+  margin: 6px 0 0 var(--indent);
   font-size: .75rem; color: var(--faint);
 }
 .meta .src { color: var(--muted); font-weight: 600; }
@@ -194,7 +196,7 @@ select, .btn {
   border-radius: 4px;
 }
 .mark:hover { color: var(--accent); background: var(--surface-2); }
-.summary, .reason { margin: 6px 0 0 calc(2.6em + 10px); }
+.summary, .reason { margin: 6px 0 0 var(--indent); }
 .summary {
   font-size: .875rem; color: var(--muted);
   display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;
@@ -301,6 +303,7 @@ footer ul { list-style: none; display: flex; flex-wrap: wrap; gap: 14px; padding
   var FEED_URL = "./feed.json";
   var PREFS_KEY = "daily-feeds:prefs:v1";
   var READ_KEY = "daily-feeds:read:v1";
+  var THEMES = ["auto", "light", "dark"];
   var READ_TTL_DAYS = 45;   // 保持期間(14日)より十分長く取る
 
   var el = {
@@ -543,22 +546,28 @@ footer ul { list-style: none; display: flex; flex-wrap: wrap; gap: 14px; padding
 
   // ---------------------------------------------------------------- read state
 
+  function refreshCounts() {
+    var nodes = el.timeline.querySelectorAll(".item");
+    var unread = 0;
+    nodes.forEach(function (n) { if (!read[n.dataset.id]) unread++; });
+    updateStatus(nodes.length, unread);
+  }
+
+  // 「未読のみ」表示中でも再描画はしない。ここで作り直すとクリック中のリンクが
+  // DOMから外れて遷移が不安定になり、スクロール位置も飛ぶ。消えるのは次の再描画時
   function setRead(id, value) {
     if (value) read[id] = Date.now();
     else delete read[id];
     saveStore(READ_KEY, read);
     var li = el.timeline.querySelector('[data-id="' + CSS.escape(id) + '"]');
-    if (li && !prefs.unreadOnly) {
-      li.classList.toggle("is-read", !!value);
-      var mark = li.querySelector(".mark");
-      if (mark) mark.textContent = value ? "未読に戻す" : "既読にする";
-      var shown = el.timeline.querySelectorAll(".item").length;
-      var unread = 0;
-      el.timeline.querySelectorAll(".item").forEach(function (n) { if (!read[n.dataset.id]) unread++; });
-      updateStatus(shown, unread);
-    } else {
+    if (!li) {
       render();
+      return;
     }
+    li.classList.toggle("is-read", !!value);
+    var mark = li.querySelector(".mark");
+    if (mark) mark.textContent = value ? "未読に戻す" : "既読にする";
+    refreshCounts();
   }
 
   // ---------------------------------------------------------------- controls
@@ -706,22 +715,23 @@ footer ul { list-style: none; display: flex; flex-wrap: wrap; gap: 14px; padding
       var url = safeUrl(it && it.link);
       if (!url || !it.title) return null;
       var date = new Date(it.published);
-      if (isNaN(date)) date = new Date();
+      if (isNaN(date)) return null;   // 日時が壊れた記事を「今日」扱いで先頭に上げない
       var score = Number(it.score);
       var title = String(it.title);
       var summary = it.summary ? String(it.summary) : "";
+      var source = it.source ? String(it.source) : "unknown";
       return {
         id: String(it.id || url),
         title: title,
         url: url,
         summary: redundantSummary(summary, title) ? "" : summary,
         reason: it.reason ? String(it.reason) : "",
-        source: it.source ? String(it.source) : "unknown",
+        source: source,
         category: it.category ? String(it.category) : "",
         score: isFinite(score) ? score : 50,
         published: date.toISOString(),   // 不正な published を後段に持ち回さない
         date: date,
-        haystack: [title, summary, it.source].join(" ").toLowerCase()
+        haystack: [title, summary, source].join(" ").toLowerCase()
       };
     }).filter(Boolean);
   }
@@ -749,6 +759,11 @@ footer ul { list-style: none; display: flex; flex-wrap: wrap; gap: 14px; padding
         if (stored[k] !== undefined && typeof stored[k] === typeof prefs[k]) prefs[k] = stored[k];
       });
       if (!Array.isArray(prefs.sources)) prefs.sources = [];
+      // 型が合っていても値が範囲外だと、UIの表示と実際の絞り込みが食い違ってしまう
+      var min = Math.round(prefs.minScore / 10) * 10;
+      prefs.minScore = Math.min(90, Math.max(0, isFinite(min) ? min : 0));
+      if (THEMES.indexOf(prefs.theme) === -1) prefs.theme = "auto";
+      if (prefs.sort !== "score") prefs.sort = "date";
     }
     applyTheme();
     wireTheme();
