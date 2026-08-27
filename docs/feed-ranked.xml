@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 27 Aug 2026 23:08:21 +0000</lastBuildDate>
+<lastBuildDate>Thu, 27 Aug 2026 23:34:34 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] [AINews] NVIDIA buys HuggingFace for $13B, as OpenAI publishes their HF incident retro</title>
@@ -21,14 +21,6 @@
 <pubDate>Thu, 27 Aug 2026 01:31:22 +0000</pubDate>
 <category>Latent Space</category>
 <description>By far the biggest announcement at the 37th Hot Chips conference was OpenAI’s stunning progress on their own chip, less than a year after the Broadcom announcement … and that it isn’t an ASIC; but a full on Blackwell-beating alternative. The key metric now is shifting to performance per watt, and Jalapeno delivers: The full Hot Chips presentation is not yet out but various takes are below. For a fuller breakdown, watch along with the rest of OpenAI: AI News for 8/24/2026-8/25/2026. We checked 12 — Latent Space / score: 90 (Hot ChipsでのAIハードウェアの主要発表。)</description>
-</item>
-<item>
-<title>[85] OpenAI自社チップ「ハラペーニョ」、NVIDIA GB300を大幅に上回る性能に</title>
-<link>https://pc.watch.impress.co.jp/docs/news/2136080.html</link>
-<guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2136080.html</guid>
-<pubDate>Thu, 27 Aug 2026 06:03:31 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>OpenAI自社チップ「ハラペーニョ」、NVIDIA GB300を大幅に上回る性能に — はてなブックマーク テクノロジー / score: 85 (OpenAIの高性能自社チップ開発の報道)</description>
 </item>
 <item>
 <title>[85] The Hugging Face incident and the road ahead</title>
@@ -567,6 +559,14 @@
 <description>2026年11月27日（金）～29日（日）に東京ビッグサイトで開催されるPerlを中心とした技術カンファレンス「YAPC::Tokyo 2026」のスペシャルゲストとして、Perlの生みの親として知られるLarry Wall氏が参加することが発表された。 — gihyo.jp / score: 65 (YAPC::Tokyo 2026の開催情報)</description>
 </item>
 <item>
+<title>[65] GitHub EnterpriseにおけるCopilotの統制：AI ControlsとManaged Settings</title>
+<link>https://zenn.dev/microsoft/articles/copilot-enterprise-managed-settings0827</link>
+<guid isPermaLink="true">https://zenn.dev/microsoft/articles/copilot-enterprise-managed-settings0827</guid>
+<pubDate>Thu, 27 Aug 2026 00:59:14 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>GitHub EnterpriseではGitHub Copilotの利用を統制するための機能として、AI ControlsとEnterprise managed settingsが提供されています。 最近AI ControlsのUIが結構変わったのと、Copilotを統制する方法としてEnterprise managed settingsが提供されたことによってGitHub Adminの方々からよくこれらについてご質問いただくことが多いので、こちらの記事で整理しておこうと思います。 AI ControlsとEnterprise managed settingsの違い Enterpris... — Zenn トレンド / score: 65 (GitHub EnterpriseのAI統制機能解説)</description>
+</item>
+<item>
 <title>[65] AIに作らせたコードを、まっさらな環境で動かしてみた</title>
 <link>https://qiita.com/jqit_suwa/items/e11d49c9bb7eb7aaea37?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
 <guid isPermaLink="true">https://qiita.com/jqit_suwa/items/e11d49c9bb7eb7aaea37?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
@@ -669,14 +669,6 @@
 <pubDate>Sun, 23 Aug 2026 15:52:28 +0000</pubDate>
 <category>Publickey</category>
 <description>Salesforce傘下のSlack社は、同社のチャットサービス「Slack」の新機能として、開発チームの一員としてAIエージェントがチャットに加わり、それまでの開発チームの議論を把握してコーディングを行う「Slack Code」の提供開始... — Publickey / score: 65 (SlackのAIエージェントによる開発支援機能)</description>
-</item>
-<item>
-<title>[65] RTX 5090でFreeTokenを試してみた。35Bでは不要、120B級MoEでは話が変わる</title>
-<link>https://zenn.dev/holy_fox/articles/53b82eed45f956</link>
-<guid isPermaLink="true">https://zenn.dev/holy_fox/articles/53b82eed45f956</guid>
-<pubDate>Sat, 22 Aug 2026 07:44:27 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>2026年8月22日時点のFreeToken 0.1.2を、RTX 5090 32GBとRAM 128GBのPCで試しました。 FreeTokenは、Mixture-of-Experts（MoE）モデルのexpertをホストRAMへ置き、必要なexpertだけをGPUへキャッシュしながら推論するサービングエンジンです。狙いはvLLMやllama.cppを単純に高速化することではなく、VRAMに収まらない巨大なMoEをコンシューマ向けGPUで実用速度で動かすことにあります。 実際に試すと、この立ち位置がかなり明確に出ました。23.5GBのOrnith 1.5ではllama.cppとvLLM... — Zenn トレンド / score: 65 (RTX 5090とMoEモデルのローカル推論検証)</description>
 </item>
 <item>
 <title>[65] [AINews] 10% worse, 100x cheaper, 10000x faster: Why Simulation is taking over</title>
@@ -805,6 +797,14 @@
 <pubDate>Thu, 27 Aug 2026 01:38:16 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>天才的なプログラマーで台湾の初代デジタル担当相として知られるオードリー・タン氏に、AI（人工知能）への依存が進めば、人間は自分で考えなくなるのではないかという疑問をぶつけた。インタビュー記事（下）では、自分の頭で「考えない人」が増えるリスクへの対処法や、AI時代の仕事と教育、デジタル技術を社会に生か... — はてなブックマーク テクノロジー / score: 60 (AI依存リスクに対する有識者の警鐘と考察)</description>
+</item>
+<item>
+<title>[60] インフラのモニタリングをAIと伴走する</title>
+<link>https://zenn.dev/genda_jp/articles/f3c141688591a5</link>
+<guid isPermaLink="true">https://zenn.dev/genda_jp/articles/f3c141688591a5</guid>
+<pubDate>Thu, 27 Aug 2026 01:01:53 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>見きれないDatadogのモニタリングをDevinに任せて、毎朝Slackにレポートしてもらう 株式会社GENDAのエンジニアのジャンボです。 新しく事業に参画して、まるっとシステムを見ることになったとき、インフラやモニタリングしているメトリクスに関心を持ちたいのに、なかなか時間が取れないことってありますよね。今関わっているプロダクトではDatadogを使っていて、さまざまなメトリクスを可視化したり、できる限りのAlert/Monitorの設定もしているんですが、より理解を深めリスクに備えるためにAI（Devin）を使うことにしました。 定期的にAI（今回はDevin）にDatado... — Zenn トレンド / score: 60 (AIを活用したインフラモニタリングの自動化手法)</description>
 </item>
 </channel>
 </rss>

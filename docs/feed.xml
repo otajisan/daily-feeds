@@ -4,7 +4,7 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 27 Aug 2026 23:08:21 +0000</lastBuildDate>
+<lastBuildDate>Thu, 27 Aug 2026 23:34:34 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Breaking Claude Code Opus 5 Auto Mode</title>
@@ -13,6 +13,14 @@
 <pubDate>Thu, 27 Aug 2026 22:50:25 +0000</pubDate>
 <category>Simon Willison</category>
 <description>Breaking Claude Code Opus 5 Auto Mode Anthropic are putting a great deal of faith in Claude Code's auto mode for protecting their coding agent users against prompt injection attacks. They recently made that the default and have made bold claims about its effectiveness. Johann Rehberger is one of the most credible prompt injection researchers active today. He found an attack against auto mode which he claims works 80% of the time, by tricking Claude Code into downloading and uncompressing a zip a — Simon Willison / score: 75 (Claude Codeの自動モードとプロンプトインジェクションの脆弱性)</description>
+</item>
+<item>
+<title>開発をシフトレフトせよ――形式手法でAIと事前に合意する開発のすすめかた</title>
+<link>https://zenn.dev/nrs/articles/93424504f49ce6</link>
+<guid isPermaLink="true">https://zenn.dev/nrs/articles/93424504f49ce6</guid>
+<pubDate>Thu, 27 Aug 2026 22:18:40 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>AI への指示書は自然言語で書きます。 書いた本人には明確に見えますし、AI も分かったという顔をして実装を始めます。 その結果、できあがったものが思っていたものではないことがあります。 なぜなら、自然言語は解釈が揺れるからです。 私が開発している OSS の TAKT では、この揺れを実行前の対話で潰しています。 ... — はてなブックマーク テクノロジー / score: 50 (形式手法を用いたAI開発の新しいアプローチ解説)</description>
 </item>
 <item>
 <title>ローカル AWS エミュレータで Terraform を検証する</title>
@@ -255,14 +263,6 @@
 <description>シー・エフ・デー販売は8月27日、台湾Sparkle製となるThunderbolt 5外付け型GPUボックス「TCX-280DF/RTX 3060-12GB」の取り扱いを発表、8月28日に発売する。予想実売価格は18万800円前後（税込み）。 本体サイズ170（幅）×149（奥行き）×59（高さ）mm（横置き時）のコンパクト筐体を採用したThunderbolt 5接続対応の外付... — はてなブックマーク テクノロジー / score: 50 (Thunderbolt 5対応の外付けGPUボックス発売)</description>
 </item>
 <item>
-<title>OpenAI自社チップ「ハラペーニョ」、NVIDIA GB300を大幅に上回る性能に</title>
-<link>https://pc.watch.impress.co.jp/docs/news/2136080.html</link>
-<guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2136080.html</guid>
-<pubDate>Thu, 27 Aug 2026 06:03:31 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>OpenAI自社チップ「ハラペーニョ」、NVIDIA GB300を大幅に上回る性能に — はてなブックマーク テクノロジー / score: 85 (OpenAIの高性能自社チップ開発の報道)</description>
-</item>
-<item>
 <title>ローカルLLMを直接実行できるマイコンボード「Arduino VENTUNO Q」予約販売開始</title>
 <link>https://gihyo.jp/article/2026/08/arduino-ventuno-q?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/08/arduino-ventuno-q?utm_source=feed</guid>
@@ -383,12 +383,36 @@
 <description>2026年11月27日（金）～29日（日）に東京ビッグサイトで開催されるPerlを中心とした技術カンファレンス「YAPC::Tokyo 2026」のスペシャルゲストとして、Perlの生みの親として知られるLarry Wall氏が参加することが発表された。 — gihyo.jp / score: 65 (YAPC::Tokyo 2026の開催情報)</description>
 </item>
 <item>
+<title>Vitest と reg-actions で手軽に VRT を導入する</title>
+<link>https://zenn.dev/my_vision/articles/6f9b30cec157f3</link>
+<guid isPermaLink="true">https://zenn.dev/my_vision/articles/6f9b30cec157f3</guid>
+<pubDate>Thu, 27 Aug 2026 01:14:27 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>はじめに 複数のアプリを含むモノレポリポジトリの共有 UI コンポーネントに対して、Vitest 4.0 と reg-actions を組み合わせて VRT（Visual Regression Testing）を導入しました。 この記事では、その技術選定に至った経緯と、実際の設計を紹介します。 既存プロダクトの技術構成 VRT の設計に関わる範囲では、次の構成です。 Next.js 16 / React 19 Tailwind CSS 4 Apollo Client 3（GraphQL） Vitest 4（単体テストで導入済み） 詳細はこちらの記事をご覧ください。 https... — Zenn トレンド / score: 45 (VitestとVRT導入の具体的な実践知見)</description>
+</item>
+<item>
 <title>インフラのモニタリングをAIと伴走する</title>
 <link>https://zenn.dev/genda_jp/articles/f3c141688591a5</link>
 <guid isPermaLink="true">https://zenn.dev/genda_jp/articles/f3c141688591a5</guid>
 <pubDate>Thu, 27 Aug 2026 01:01:53 +0000</pubDate>
 <category>Zenn トレンド</category>
 <description>見きれないDatadogのモニタリングをDevinに任せて、毎朝Slackにレポートしてもらう 株式会社GENDAのエンジニアのジャンボです。 新しく事業に参画して、まるっとシステムを見ることになったとき、インフラやモニタリングしているメトリクスに関心を持ちたいのに、なかなか時間が取れないことってありますよね。今関わっているプロダクトではDatadogを使っていて、さまざまなメトリクスを可視化したり、できる限りのAlert/Monitorの設定もしているんですが、より理解を深めリスクに備えるためにAI（Devin）を使うことにしました。 定期的にAI（今回はDevin）にDatado... — Zenn トレンド / score: 60 (AIを活用したインフラモニタリングの自動化手法)</description>
+</item>
+<item>
+<title>Claude Code の承認待ちを見逃さないために、光る Clawd を机に置いた</title>
+<link>https://zenn.dev/lincwell_inc/articles/79092d88245748</link>
+<guid isPermaLink="true">https://zenn.dev/lincwell_inc/articles/79092d88245748</guid>
+<pubDate>Thu, 27 Aug 2026 01:00:01 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>! 本記事で紹介するのは業務外で作った個人プロジェクトです。Anthropic 非公式の ファンプロジェクトであり、Anthropic とは無関係です。 15 分間、Claude Code は私を待っていた Claude Code にタスクを投げて別の作業に移り、戻ってきたら権限確認ダイアログで止まったまま 15 分経っていた——これを何度もやりました。ターミナルのベルもデスクトップ通知も、自分には定着しませんでした。 通知は「見に行くもの」で、気づけないときは結局気づけない。 そこで、状態そのものを机の上に置くことにしました。 M5Atom Lite(... — Zenn トレンド / score: 40 (Claude Code運用のユニークな個人開発事例)</description>
+</item>
+<item>
+<title>GitHub EnterpriseにおけるCopilotの統制：AI ControlsとManaged Settings</title>
+<link>https://zenn.dev/microsoft/articles/copilot-enterprise-managed-settings0827</link>
+<guid isPermaLink="true">https://zenn.dev/microsoft/articles/copilot-enterprise-managed-settings0827</guid>
+<pubDate>Thu, 27 Aug 2026 00:59:14 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>GitHub EnterpriseではGitHub Copilotの利用を統制するための機能として、AI ControlsとEnterprise managed settingsが提供されています。 最近AI ControlsのUIが結構変わったのと、Copilotを統制する方法としてEnterprise managed settingsが提供されたことによってGitHub Adminの方々からよくこれらについてご質問いただくことが多いので、こちらの記事で整理しておこうと思います。 AI ControlsとEnterprise managed settingsの違い Enterpris... — Zenn トレンド / score: 65 (GitHub EnterpriseのAI統制機能解説)</description>
 </item>
 <item>
 <title>今さら聞けない「ローカルLLM」知っておきたい5つの基本</title>
@@ -517,14 +541,6 @@
 <pubDate>Wed, 26 Aug 2026 15:04:25 +0000</pubDate>
 <category>Qiita 人気記事</category>
 <description>user: 「システム設計視点の行動経済学」、第21回を始めましょう。今回は、政府だけでなく、それを批判する人たちもまた、「財源幻想」に支配されていることについて深掘りしたいと思います。 その前に、まず前回の復習として、 システム設計視点の行動経済学 全20回 総復習 ... — Qiita 人気記事 / score: 35 (システム設計視点を取り入れた行動経済学のエッセイ)</description>
-</item>
-<item>
-<title>日本語配列の磁気式キーボードを基板からフルスクラッチしてみた</title>
-<link>https://zenn.dev/aniki_maker/articles/33d1dc45604537</link>
-<guid isPermaLink="true">https://zenn.dev/aniki_maker/articles/33d1dc45604537</guid>
-<pubDate>Wed, 26 Aug 2026 14:35:58 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>! 本記事は、随時加筆修正を行う可能性がありますので、ご容赦ください。 1. はじめに はじめまして、Anikiと申します。 今回、磁気キーボードを基板からフルスクラッチで作ってみましたので、そのご報告を兼ねて制作記録をまとめてみました。磁気キーボードを自作したいなどという狂った方はぜひご参考にしていただければと存じます。 名前は JP60HE で、現在V0.9のプロトタイプ段階となります。 2. JP60HE 写真は上からトップ面・ボトム(部品実装)面です。 ai03氏作のGH60互換・日本語配列60%キーボードPCBである「JP60」をベースに、メカニカルスイッチではな... — Zenn トレンド / score: 50 (磁気式キーボードを自作したユニークな工作記事)</description>
 </item>
 <item>
 <title>AI駆動開発はどこまで来たのか？ ファインディの最新実態調査で読み解く現在地 Devin Con Tokyo</title>
@@ -663,6 +679,14 @@
 <description>こんにちは、ソーイ株式会社の髙﨑です。 私は業務で時々、Vimを使ってファイルを編集することがあります。 例えば、サーバー上のファイルを直接確認・修正するときなど、普段使っているエディタを使えない環境でVimを使うことがあります。 ただ、Vimを使うたびに操作方法やコマンド... — Qiita 人気記事 / score: 45 (Vimのオペレータとモーションの整理・解説)</description>
 </item>
 <item>
+<title>AI10並列で開発したら事故りかけた。貸せ、worktreeはこうやる</title>
+<link>https://zenn.dev/ceres_tech_blog/articles/8cb3ce7bc4c937</link>
+<guid isPermaLink="true">https://zenn.dev/ceres_tech_blog/articles/8cb3ce7bc4c937</guid>
+<pubDate>Wed, 26 Aug 2026 02:44:11 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>はじめに git worktree、AI開発において流行ってますよね。 でもこんなことないですか？ 「え、worktreeでAIセッション分けてるのに、テスト回すとポート衝突するんですけど…」 「気づいたら画面とAPIで別ブランチのコードが動いてたんですけど…」 わかる。私も事故りました。 貸せ。worktreeはこうやるんだ！！！ まず前提の話 git worktreeってなぁに？ git worktreeは、同じリポジトリから作業ディレクトリだけを複数生やせるgitの標準機能です。ブランチごとに別フォルダができるので、AIセッションを1本ずつそこに閉じ込められます。 cl... — Zenn トレンド / score: 55 (AI並行開発におけるgit worktreeの知見)</description>
+</item>
+<item>
 <title>【AWS】複数人でリアルタイム描画できるお絵描きアプリを作ってみた</title>
 <link>https://qiita.com/KyosukeTakahagi/items/936906d276fbba11ba02?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
 <guid isPermaLink="true">https://qiita.com/KyosukeTakahagi/items/936906d276fbba11ba02?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
@@ -781,30 +805,6 @@
 <pubDate>Tue, 25 Aug 2026 11:39:24 +0000</pubDate>
 <category>Hugging Face Blog</category>
 <description> — Hugging Face Blog / score: 70 (4bit量子化モデルの効率的な最適化手法)</description>
-</item>
-<item>
-<title>メッシュグラデーションをSVGで「真面目に」近似する</title>
-<link>https://zenn.dev/yayo1/articles/ffd14050214f52</link>
-<guid isPermaLink="true">https://zenn.dev/yayo1/articles/ffd14050214f52</guid>
-<pubDate>Tue, 25 Aug 2026 09:11:34 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>これはGoogle Summer of Code 2026にて、Graphiteのコントリビューターとして取り組んだうちの一部、メッシュグラデーションの実装実験より得た知見をまとめた記事です。インタラクティブデモを用意しているので、以下のリンクからどうぞ。 https://yayo1.com/demo/mesh-gradient-in-svg-1.1/ ! Safariでは想定した通りに動かない可能性があるので、できればChromium系ブラウザから見てください。実装の最中にfeDisplacementMapにCoreImage移植が原因と思われるリグレッションが発生し、新しいSafar... — Zenn トレンド / score: 55 (SVGを用いたメッシュグラデーション実装の技術解説)</description>
-</item>
-<item>
-<title>プロも毎日ググっている。エラーで固まらないための「検索力」の話</title>
-<link>https://qiita.com/m__ikeda/items/5da484e533d0d574045d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/m__ikeda/items/5da484e533d0d574045d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Tue, 25 Aug 2026 08:08:11 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>自己紹介 こんにちは。株式会社PRUMで採用広報を担当している池田です。 未経験からIT業界を目指している方と話していると、かなりよく聞く共通した悩みがあります。そういった内容を皆さんにシェアしていくので、役立てていただけたらと思います😊 もしIT業界に興味があるけど、... — Qiita 人気記事 / score: 40 (プログラミングにおける検索力の解説)</description>
-</item>
-<item>
-<title>文系上司が知りたいのは「仕組み」ではなく、「どう影響するか」のことが多い</title>
-<link>https://qiita.com/sumomoo/items/4912f4efa2e2a5cd49d5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/sumomoo/items/4912f4efa2e2a5cd49d5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Tue, 25 Aug 2026 08:06:49 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です 日々、プログラミング学習や実務の中で、つまずきやすいポイントや 考え方を整理して発信しています。 PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。 ▶コーポレートサイト 技術的に... — Qiita 人気記事 / score: 30 (非エンジニア上司とのコミュニケーションのコツ)</description>
 </item>
 </channel>
 </rss>
