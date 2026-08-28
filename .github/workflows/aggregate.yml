@@ -7,7 +7,7 @@ on:
   push:
     paths:
       - feeds.yml
-      - scripts/**
+      - src/**
     branches:
       - main
 
@@ -38,7 +38,7 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         # uv run も明示しないと再解決して uv.lock を書き換えることがある
-        run: uv run --locked --no-dev python scripts/aggregate.py
+        run: uv run --locked --no-dev daily-feeds
 
       - name: Commit & push
         run: |

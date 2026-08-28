@@ -41,10 +41,12 @@ RSS/Atom由来の文字列はすべて `textContent` で挿入し、リンクは
 
 - `feeds.yml` — 購読フィード一覧と設定(保持日数、最大件数、モデル名など)。
   `max_items` はRSS2種、`json_max_items` は `feed.json` の上限
-- `scripts/aggregate.py` — 取得 → 重複排除 → 新着のみGeminiでスコアリング → フィード生成
+- `src/daily_feeds/` — 集約本体。`config`(設定読み込み) / `state`(スコアキャッシュ) /
+  `fetching`(取得と正規化) / `scoring`(Gemini) / `output`(feed生成) / `cli`(実行) に分かれている。
+  流れは 取得 → 重複排除 → 新着のみGeminiでスコアリング → フィード生成
 - `data/state.json` — スコア済み記事のキャッシュ。既出記事は再スコアリングしない(APIコスト削減)。
   30日より古いエントリは自動で削除される
-- `.github/workflows/aggregate.yml` — 2時間ごと + 手動 + `feeds.yml`/`scripts/`変更時に実行し、
+- `.github/workflows/aggregate.yml` — 2時間ごと + 手動 + `feeds.yml`/`src/`変更時に実行し、
   生成物を `docs/` にコミットしてPagesへ反映。失敗時はトラッキングIssueに追記する
 
 ### 堅牢性まわりの挙動
@@ -69,10 +71,13 @@ uv sync                    # 依存をインストール (Python 3.12 も uv が
 echo 'GEMINI_API_KEY=...' > .env
 set -a; . ./.env; set +a
 
-uv run python scripts/aggregate.py                # 通常実行
-uv run python scripts/aggregate.py --dry-run      # ファイルを書かずに結果だけ確認
-uv run python scripts/aggregate.py --no-gemini    # スコアリングせず全件50で動作確認
+uv run daily-feeds                # 通常実行
+uv run daily-feeds --dry-run      # ファイルを書かずに結果だけ確認
+uv run daily-feeds --no-gemini    # スコアリングせず全件50で動作確認
 ```
+
+入出力のパスは既定でカレントディレクトリからの相対 (`feeds.yml` / `data/state.json` / `docs/`) なので、
+リポジトリのルートで実行する。別の場所を使うなら `--config` / `--state` / `--docs-dir` で差し替える。
 
 依存を追加するときは `uv add <パッケージ>`、開発用なら `uv add --dev <パッケージ>`。
 `uv.lock` は必ずコミットする（CI は `uv sync --locked` でロックの鮮度ごと検証する）。
