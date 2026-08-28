@@ -30,13 +30,15 @@ jobs:
         with:
           enable-cache: true
 
-      # Python のバージョンは .python-version、依存は uv.lock に固定されている
-      - run: uv sync --frozen
+      # --locked はロックが pyproject.toml と一致していることまで検証する
+      # (--frozen は再ロックしないだけで、古いロックでも黙って通る)
+      - run: uv sync --locked --no-dev
 
       - name: Aggregate & score
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: uv run python scripts/aggregate.py
+        # uv run も明示しないと再解決して uv.lock を書き換えることがある
+        run: uv run --locked --no-dev python scripts/aggregate.py
 
       - name: Commit & push
         run: |
