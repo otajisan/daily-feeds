@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Sample Atom</title>
+  <link href="https://example.org/"/>
+  <updated>2026-01-15T09:00:00Z</updated>
+  <entry>
+    <title>Atomの記事</title>
+    <link href="https://example.org/entries/a"/>
+    <updated>2026-01-15T09:00:00Z</updated>
+    <summary>薄い要約</summary>
+    <content type="html">&lt;p&gt;本文はこちらにあり、summaryより十分に長い内容が入っている。フォールバックされることを確認するために80文字以上の分量を用意する。&lt;/p&gt;</content>
+  </entry>
+</feed>
