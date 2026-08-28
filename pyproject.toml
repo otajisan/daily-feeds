@@ -1,0 +1,25 @@
+[project]
+name = "daily-feeds"
+version = "0.1.0"
+description = "日本語Tech記事とAI/LLMニュースを集約し、Geminiで注目度をスコアリングして公開する"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "feedparser>=6.0",
+    "google-genai>=1.0",
+    "PyYAML>=6.0",
+]
+
+[dependency-groups]
+dev = [
+    "mypy>=1.11",
+    "pytest>=8.0",
+    "pytest-cov>=5.0",
+    "ruff>=0.6",
+    "types-PyYAML>=6.0",
+]
+
+[tool.uv]
+# 現状は scripts/aggregate.py を直接動かすアプリケーションで、配布物を作らない。
+# src レイアウトへ移す際 (#4) に package = true とエントリポイントを入れる。
+package = false

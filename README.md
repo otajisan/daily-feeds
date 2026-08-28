@@ -60,18 +60,22 @@ RSS/Atom由来の文字列はすべて `textContent` で挿入し、リンクは
 
 ## ローカル実行
 
+依存管理は [uv](https://docs.astral.sh/uv/)。Python のバージョンは `.python-version`、依存は `uv.lock` に固定されている。
+
 ```bash
-python3 -m venv .venv
-.venv/bin/pip install -r requirements.txt
+uv sync                    # 依存をインストール (Python 3.12 も uv が用意する)
 
 # APIキーは .env に置く (gitignore済み)
 echo 'GEMINI_API_KEY=...' > .env
 set -a; . ./.env; set +a
 
-.venv/bin/python scripts/aggregate.py                    # 通常実行
-.venv/bin/python scripts/aggregate.py --dry-run          # ファイルを書かずに結果だけ確認
-.venv/bin/python scripts/aggregate.py --no-gemini        # スコアリングせず全件50で動作確認
+uv run python scripts/aggregate.py                # 通常実行
+uv run python scripts/aggregate.py --dry-run      # ファイルを書かずに結果だけ確認
+uv run python scripts/aggregate.py --no-gemini    # スコアリングせず全件50で動作確認
 ```
+
+依存を追加するときは `uv add <パッケージ>`、開発用なら `uv add --dev <パッケージ>`。
+`uv.lock` は必ずコミットする（CI は `uv sync --frozen` でこのロックを使う）。
 
 ## 注意事項
 
