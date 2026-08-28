@@ -4,8 +4,64 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 28 Aug 2026 16:09:09 +0000</lastBuildDate>
+<lastBuildDate>Fri, 28 Aug 2026 21:25:31 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>AWS Transform now in scope for FedRAMP Class C</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/08/aws-transform-fedramp-class-c/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/08/aws-transform-fedramp-class-c/</guid>
+<pubDate>Fri, 28 Aug 2026 19:45:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS Transform is now in scope for FedRAMP Class C (formerly Moderate baseline) in the US East (Ohio) Region. You can now use AWS Transform to build applications and run workloads that are subject to FedRAMP Class C compliance requirements. The Federal Risk and Authorization Management Program (FedRAMP) is a US government-wide program that delivers a standard approach to the security assessment, authorization, and continuous monitoring for cloud products and services. AWS Transform is an agentic  — AWS What's New / score: 50 (AWS TransformのFedRAMP対応拡大)</description>
+</item>
+<item>
+<title>Amazon EC2 P6-B300 instances are now available in additional AWS Regions</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-p6-b300-instances-available-additional-regions</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-p6-b300-instances-available-additional-regions</guid>
+<pubDate>Fri, 28 Aug 2026 17:34:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Starting today, Amazon Elastic Cloud Compute (Amazon EC2) P6-B300 instances are available in Asia Pacific (Hyderabad) and South America (Sao Paulo) Regions. P6-B300 instances provide 8xNVIDIA Blackwell Ultra GPUs with 2.1 TB high bandwidth GPU memory, 6.4 Tbps EFA networking, 300 Gbps dedicated ENA throughput, and 4 TB of system memory. P6-B300 instances deliver 2x networking bandwidth, 1.5x GPU memory size, and 1.5x GPU TFLOPS (at FP4, without sparsity) compared to P6-B200 instances, making the — AWS What's New / score: 55 (EC2 P6-B300インスタンスの提供リージョン拡大)</description>
+</item>
+<item>
+<title>｢iPhone 18 Pro｣シリーズなどの予約受付開始日時は9月12日(土)16時か ｰ 例年より1日遅れになる可能性が浮上</title>
+<link>https://taisy0.com/2026/08/29/226842.html</link>
+<guid isPermaLink="true">https://taisy0.com/2026/08/29/226842.html</guid>
+<pubDate>Fri, 28 Aug 2026 16:38:52 +0000</pubDate>
+<category>気になる、記になる…</category>
+<description>例年、Appleは新型iPhoneの予約受付を発表した週の金曜日から開始していますが、今年の「iPhone 18 Pro」シリーズの予約受付は9月12日（土）に開始される可能性が浮上しました。 Appleは現地時間9月9 […] — 気になる、記になる… / score: 35 (次期iPhoneの予約日に関する噂)</description>
+</item>
+<item>
+<title>Amazon Aurora MySQL 3.13 (compatible with MySQL 8.0.45) is generally available</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-aurora-mysql-313-available/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-aurora-mysql-313-available/</guid>
+<pubDate>Fri, 28 Aug 2026 16:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Starting today, Amazon Aurora MySQL-Compatible Edition 3 (compatible with MySQL 8.0) supports MySQL 8.0.45, which includes community MySQL fixes and Aurora-specific improvements. For detailed information on this release, refer to Aurora MySQL 3 and MySQL 8.0.45 release notes. You can upgrade your databases during scheduled maintenance windows using automatic minor version upgrades. To simplify operations at scale, enable automatic minor version upgrades and use the AWS Organizations Upgrade Roll — AWS What's New / score: 60 (Amazon Aurora MySQL 3.13の一般提供開始)</description>
+</item>
+<item>
+<title>Amazon CloudWatch agent adds support for journald logs</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudwatch-agent-journald/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudwatch-agent-journald/</guid>
+<pubDate>Fri, 28 Aug 2026 16:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS announces support for collecting systemd journal (journald) logs with the Amazon CloudWatch agent. You can now configure the CloudWatch agent to read log entries directly from the systemd journal on Linux instances and send them to Amazon CloudWatch Logs, without first writing those logs to files on disk. Many modern Linux distributions, including Amazon Linux 2023, use systemd journal as the primary logging system and no longer write traditional text log files such as /var/log/messages by d — AWS What's New / score: 55 (CloudWatchエージェントのjournaldログ対応)</description>
+</item>
+<item>
+<title>What’s new with Google Cloud</title>
+<link>https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/</guid>
+<pubDate>Fri, 28 Aug 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block &lt;ListValue: []&gt; Aug 24 - Aug 28 Grok 4.6 is now available in Preview on Gemini Enterprise Agent Platform. xAI's most capable model, built  — Google Cloud Blog / score: 20 (Google Cloudの一般的な更新情報まとめ)</description>
+</item>
+<item>
+<title>OKFやDiátaxisを活用してDevinによるお問い合わせ対応をしている話 - エムスリーテックブログ</title>
+<link>https://www.m3tech.blog/entry/2026/08/27/100000</link>
+<guid isPermaLink="true">https://www.m3tech.blog/entry/2026/08/27/100000</guid>
+<pubDate>Fri, 28 Aug 2026 15:52:55 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>【Unit7ブログリレー4日目】（Unit7のメンバーが持ち回りで記事を書く企画です） エンジニアリンググループ Unit7（リサーチプロダクトチーム）の長谷川です。 AIコーディングが当たり前になって久しいですが、じゃあ実際どう使うのがいいのか、運用のやり方はまだ手探りです。今回はその手探りの1つ、「ビジネスサイド... — はてなブックマーク テクノロジー / score: 45 (Devinを用いたお問い合わせ対応の事例)</description>
+</item>
 <item>
 <title>中国製AIモデル「GLM-5.3」が約束通りオープンモデルとして無償公開される、Claude Fable 5やGPT-5.6 Solに匹敵する高性能モデル</title>
 <link>https://gigazine.net/news/20260829-glm-5-3-open/</link>
@@ -13,6 +69,14 @@
 <pubDate>Fri, 28 Aug 2026 15:10:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>中国のAI企業であるZ.aiがAIモデル「GLM-5.3」を日本時間の2026年8月29日0時にオープンモデルとして公開しました。 続きを読む... — GIGAZINE / score: 85 (高性能な新型オープンAIモデルの公開)</description>
+</item>
+<item>
+<title>「誰が悪い」から「どう直す」へ ― 政策を改善し続ける政治の仕組み : システム設計視点の行動経済学 (22)</title>
+<link>https://qiita.com/maskot1977/items/f3f9343c64efd53d5023?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/maskot1977/items/f3f9343c64efd53d5023?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Fri, 28 Aug 2026 15:05:14 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>user: 「システム設計視点の行動経済学」、第22回を始めましょう。今回は「受け入れてもらいやすい批判方法」を考えたいと思います。その前に、まず前回の復習として、 政府批判も「財源幻想」に支配される ― 批判のOSをリファクタリングする : システム設計視点の行動経済学... — Qiita 人気記事 / score: 25 (システム設計視点の行動経済学コラム)</description>
 </item>
 <item>
 <title>RTX 5080搭載ゲーミングPCが84,000円オフ！ パソコンショップSEVENの1日限定セール</title>
@@ -47,6 +111,14 @@
 <description>9To5Macによると、Appleが米国で「Apple TV」と「Apple One」の料金を値上げしたことが分かりました。 「Apple TV」の月額料金は12.99ドルから14.95ドルへと約2ドル、年額料金は99ド […] — 気になる、記になる… / score: 30 (Appleサービスの米国での値上げ)</description>
 </item>
 <item>
+<title>「もう1年の半分終わった」と思ったら要注意 — ジャネーの法則で知る、時間の残酷な真実</title>
+<link>https://qiita.com/teppei19980914/items/299d0ad74089b713690f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/teppei19980914/items/299d0ad74089b713690f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Fri, 28 Aug 2026 14:00:24 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>この記事は約6分で読めます。 筆者プロフィール: ソフトウェアエンジニア。「知った気にならない。いつまでも学び続ける」を信条に、業務と個人開発の両輪で技術を磨いています。AI 駆動開発で複数の個人開発アプリを構築・運用中。 👉 ポートフォリオ: 筆者ホームページ 今日は... — Qiita 人気記事 / score: 20 (ジャネーの法則に関する雑感)</description>
+</item>
+<item>
 <title>折りたたみどころじゃない。NHKの「布のような」ディスプレイ</title>
 <link>https://www.gizmodo.jp/article/deformable-display-nhk-cki/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/deformable-display-nhk-cki/</guid>
@@ -61,6 +133,14 @@
 <pubDate>Fri, 28 Aug 2026 13:30:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>先日、待望の第2世代が発売開始となった「Bose QuietComfort Headphones」。 最新ガジェット好きとしては新型の進化も見逃せませんが、実は今、あえて注目したい選択肢があります。 それが、前モデルとなって価格がこなれてき… — ギズモード・ジャパン / score: 20 (一般向けガジェットの価格・製品紹介)</description>
+</item>
+<item>
+<title>SpaceXAI Grok 4.6 now available on Amazon Bedrock in AWS GovCloud (US)</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/08/spacexai-grok-4-6-govcloud/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/08/spacexai-grok-4-6-govcloud/</guid>
+<pubDate>Fri, 28 Aug 2026 13:17:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon Bedrock in AWS GovCloud (US) now supports SpaceXAI Grok 4.6, a frontier model built for coding, agentic tasks, and knowledge work. Grok 4.6 is SpaceXAI’s latest flagship model, built for long-running agents and ambitious interactive and visual work. It offers 500k context window and configurable reasoning efforts (low, medium, high, xhigh). The model runs on the bedrock-runtime endpoint with support for the Responses, Chat Completions, and Converse APIs, and customers can access Grok 4.6  — AWS What's New / score: 50 (Amazon BedrockでのGrok 4.6モデル追加)</description>
 </item>
 <item>
 <title>IKEAとXboxのコラボ家具。アナログスティック型のスツール、かわいい！</title>
@@ -87,20 +167,20 @@
 <description>キングジムの「防災テント（BTN100-KH）」がAmazonで割引対象。参考価格12,100円から31％オフの8,382円で販売中。縦横2wayで使える1人用の防災テントで、折りたためばコンパクトに収納できる。非常時に備えて用意しておきたい防災用品が、1万円以下。 — ASCII.jp / score: 15 (防災グッズのECセール情報)</description>
 </item>
 <item>
-<title>8,990円で本当にいいんだな!? 寝室をシアターにするプロジェクターで睡眠に革命を</title>
-<link>https://www.gizmodo.jp/article/amazon-nextrage-projector-nx1/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/amazon-nextrage-projector-nx1/</guid>
-<pubDate>Fri, 28 Aug 2026 13:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>この割引、この値段、本当にいいんだな！メーカーがどんな割引きをしようとも、セールだから気合入ってんな〜、くらいに思っています。それがAmazonのセール。でもさ、このプロジェクター…、元値3万6800円。それが76％OFFで8,990円はさ… — ギズモード・ジャパン / score: 20 (一般向けガジェットのセール情報)</description>
-</item>
-<item>
 <title>AI覇権の巻き返しをねらうPerplexity、クラウド不要のローカルAIを発表</title>
 <link>https://www.gizmodo.jp/article/perplexity-launches-local-ai-model-that-will-run-on-your-gpu-instead-of-the-cloud/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/perplexity-launches-local-ai-model-that-will-run-on-your-gpu-instead-of-the-cloud/</guid>
 <pubDate>Fri, 28 Aug 2026 13:00:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>ローカルAIの始まりになるのか、否か？最近AI業界ではやや存在感が薄れていたPerplexityですが、これまでクラウド上で処理していたAIエージェント「Computer」を自分のPC上で動かせるようにした新バージョン「Portable C… — ギズモード・ジャパン / score: 65 (PerplexityのローカルAI発表という技術動向)</description>
+</item>
+<item>
+<title>8,990円で本当にいいんだな!? 寝室をシアターにするプロジェクターで睡眠に革命を</title>
+<link>https://www.gizmodo.jp/article/amazon-nextrage-projector-nx1/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/amazon-nextrage-projector-nx1/</guid>
+<pubDate>Fri, 28 Aug 2026 13:00:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>この割引、この値段、本当にいいんだな！メーカーがどんな割引きをしようとも、セールだから気合入ってんな〜、くらいに思っています。それがAmazonのセール。でもさ、このプロジェクター…、元値3万6800円。それが76％OFFで8,990円はさ… — ギズモード・ジャパン / score: 20 (一般向けガジェットのセール情報)</description>
 </item>
 <item>
 <title>Testcontainersで実DBを使う並列テスト基盤を設計する - エムスリーテックブログ</title>
@@ -375,6 +455,14 @@
 <description>東京湾に灯る感謝の宴。ベイコートホテルで紡ぐ、初の感謝祭レポート — ASCII.jp / score: 5 (ホテルのイベントレポート記事)</description>
 </item>
 <item>
+<title>GitHub Actionsのセルフホステッド ランナーをLambda MicroVMs上で実行してみた | DevelopersIO</title>
+<link>https://dev.classmethod.jp/articles/github-actions-self-hosted-runner-on-lambda-microvms/</link>
+<guid isPermaLink="true">https://dev.classmethod.jp/articles/github-actions-self-hosted-runner-on-lambda-microvms/</guid>
+<pubDate>Fri, 28 Aug 2026 09:48:21 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Construct Hubで公開されているcdk-github-microvm-runnersを使ってLambda MicroVMs上にGitHub Actionsのセルフホステッドランナーを構築してみました。 高速に起動してスケールアウトも容易なので、セルフホステッドランナーの実行基盤としてはなかなか良い選択肢ではないでしょうか？ GitHub Actionsの処理時間やコス... — はてなブックマーク テクノロジー / score: 50 (Lambda MicroVMsでのGHAランナー構築)</description>
+</item>
+<item>
 <title>Samsung Galaxy S26 FEが出る！50ドル値上げだけどAI機能をがっつり遊べる</title>
 <link>https://www.gizmodo.jp/article/samsung_galaxy_s26_fe_release/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/samsung_galaxy_s26_fe_release/</guid>
@@ -591,14 +679,6 @@
 <description>SamsungのフラッグシップスマホGalasy Sシリーズ。来年頭に発表されるであろうGalaxy S27のプレミア機種「Galaxy S27 Ultra」のレンダリング画像がでてきました。CADレンダリング画像を公開したのは、Andro… — ギズモード・ジャパン / score: 30 (次期スマートフォンのデザインリーク情報)</description>
 </item>
 <item>
-<title>HBMの再設計でAI性能アップへ。NVIDIAが「NVHBM」発表</title>
-<link>https://pc.watch.impress.co.jp/docs/news/2136398.html</link>
-<guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2136398.html</guid>
-<pubDate>Fri, 28 Aug 2026 08:51:56 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>HBMの再設計でAI性能アップへ。NVIDIAが「NVHBM」発表 — はてなブックマーク テクノロジー / score: 75 (NVIDIAによるAI向けハードウェアの重要発表)</description>
-</item>
-<item>
 <title>Anthropic 機器とAI接続規格開発</title>
 <link>https://news.yahoo.co.jp/pickup/6593415?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6593415?source=rss</guid>
@@ -645,6 +725,14 @@
 <pubDate>Fri, 28 Aug 2026 08:05:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>本記事では、マウスコンピューターの売れ筋PCを紹介しています。なお、順位、価格、構成は随時変動しており、最新情報はリンク先にてご確認ください。 — 窓の杜 / score: 15 (PC売れ筋ランキング情報の紹介)</description>
+</item>
+<item>
+<title>Claude Code に制限モードが入った。自作スキル47本が0本になった</title>
+<link>https://qiita.com/jqit_suwa/items/4183a8e97738ba45f435?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/jqit_suwa/items/4183a8e97738ba45f435?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Fri, 28 Aug 2026 08:00:01 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>--restricted が Claude Code 2.1.248 で追加されました（測定に使ったのは 2.1.250）。 公式の説明は「コマンド実行系のツールと WebFetch を外し、ファイル操作を作業ディレクトリに限定する」です。安全に使うためのモードという書き方... — Qiita 人気記事 / score: 60 (Claude Codeの制限モード追加に関する情報)</description>
 </item>
 <item>
 <title>GitHub Copilot、エンタープライズ向けにプラグイン自動更新機能を追加</title>
@@ -717,94 +805,6 @@
 <pubDate>Fri, 28 Aug 2026 07:21:15 +0000</pubDate>
 <category>Qiita 人気記事</category>
 <description>はじめに 会社でしょっちゅう飛び交う「クラウド」という言葉に、分かったふりで相槌を打ち続けていたぷらむんが、思い切ってたぬき先輩に「クラウドって結局何なんですか?」と聞いてみたら、モヤモヤの正体がようやく整理できた話です。 会社で自称マスコットキャラをやってるのに... — Qiita 人気記事 / score: 30 (クラウド技術の初心者向け入門解説)</description>
-</item>
-<item>
-<title>格安レトロ携帯「Nokia 300 Charge」登場、給電もできて約5000円</title>
-<link>https://japan.cnet.com/article/35252038/</link>
-<guid isPermaLink="true">https://japan.cnet.com/article/35252038/</guid>
-<pubDate>Fri, 28 Aug 2026 07:17:00 +0000</pubDate>
-<category>CNET Japan</category>
-<description>HMD Globalがレトロ調の携帯電話「Nokia 300 Charge」を発表した。アースカラーのレゴブロックを思わせる、角張ったデザインが魅力だ。 — CNET Japan / score: 20 (レトロ調の携帯電話端末の紹介)</description>
-</item>
-<item>
-<title>[AINews] OpenAI to reach AGI bar by end-2026</title>
-<link>https://www.latent.space/p/ainews-openai-to-reach-agi-bar-by</link>
-<guid isPermaLink="true">https://www.latent.space/p/ainews-openai-to-reach-agi-bar-by</guid>
-<pubDate>Fri, 28 Aug 2026 07:12:10 +0000</pubDate>
-<category>Latent Space</category>
-<description>Normally we eschew AGI timeline talk on Latent Space, because it is so ill defined and unaccountable, but, well, missing it would probably be the worse sin at this point. We last checked in on OpenAI AGI timelines 9 months ago , and, right on target, Chief Scientist Jakub Pachocki is now saying the unreleased Astra model is the “ Automated AI Research Intern ” he had aimed for by September 2026. Sama goes further in their TIME interview and estimates they’ll declare AGI achieved internally by De — Latent Space / score: 65 (OpenAIのAGI到達予測の話題)</description>
-</item>
-<item>
-<title>Amazon EKS、認証局の自動ローテーション機能を発表</title>
-<link>https://codezine.jp/article/detail/29478</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/29478</guid>
-<pubDate>Fri, 28 Aug 2026 07:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 70 (Amazon EKSの認証局自動ローテーション)</description>
-</item>
-<item>
-<title>Cloudflareが1.1.1.1のDNSキャッシュを数十バイト単位で削り込んで100TBのメモリを節約</title>
-<link>https://gigazine.net/news/20260828-cloudflare-dns-cache-optimization/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260828-cloudflare-dns-cache-optimization/</guid>
-<pubDate>Fri, 28 Aug 2026 07:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>CloudflareがパブリックDNSリゾルバー「1.1.1.1」などで使われているDNSキャッシュのデータ構造を見直し、システム全体で約100TBのメモリを削減したと発表しました。ベンチマークではキャッシュ1件当たりのメモリ使用量が953バイトから420バイトへと56％減少し、メモリを減らしながらキャッシュへの書き込みや読み出しも高速化したとのことです。 続きを読む... — GIGAZINE / score: 80 (Cloudflareによる1.1.1.1のメモリ100TB削減)</description>
-</item>
-<item>
-<title>連載：『Player』盛衰記 第40回｜革命的なツール、iMac G3がやってきた</title>
-<link>https://guitarmagazine.jp/article/2026-0828-player-seisuiki-040/</link>
-<guid isPermaLink="true">https://guitarmagazine.jp/article/2026-0828-player-seisuiki-040/</guid>
-<pubDate>Fri, 28 Aug 2026 07:00:00 +0000</pubDate>
-<category>ギター・マガジンWEB</category>
-<description>2023年に惜しまれつつ休刊した音楽雑誌『Player』。楽器を扱う専門誌として『ギター・マガジン』とは良きライバル関係にあっただけに、その不在はやはり寂しい。音楽業界や楽器業界を盛り上げ、読者に大きな影響を与えたその偉大な55年に敬意を表して、元編集長の田中稔氏にその歴史を綴ってもらう。隔週更新。 — ギター・マガジンWEB / score: 20 (音楽雑誌の歴史とiMac G3導入に関する連載)</description>
-</item>
-<item>
-<title>新型Apple TV 4Kに4つの新機能か〜iPhone17の通信チップも載るか</title>
-<link>https://iphone-mania.jp/apple-tv-604992/</link>
-<guid isPermaLink="true">https://iphone-mania.jp/apple-tv-604992/</guid>
-<pubDate>Fri, 28 Aug 2026 06:51:13 +0000</pubDate>
-<category>iPhone Mania</category>
-<description>Apple TV 4Kが、現地時間9月9日（日本時間9月10日）に予定されるAppleのイベントで刷新されるとの見方が強まっています。海外メディアの報道によると、tvOS27のコードなどから、Siriを使ったAIの機能や […] — iPhone Mania / score: 40 (新型Apple TVの新機能予測)</description>
-</item>
-<item>
-<title>「秀丸」の使い方をAIチャットで解決 ～「Gemini Notebook」ベースのヘルプサイトが公開／「エディタ」「メール」「ファイラーClassic」のほか、関連ツールやマクロにも対応</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2136351.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2136351.html</guid>
-<pubDate>Fri, 28 Aug 2026 06:48:34 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>「秀丸」の使い方をAIチャットで解決 ～「Gemini Notebook」ベースのヘルプサイトが公開／「エディタ」「メール」「ファイラーClassic」のほか、関連ツールやマクロにも対応 — はてなブックマーク テクノロジー / score: 50 (秀丸エディタのAIヘルプサイト公開)</description>
-</item>
-<item>
-<title>Anthropic、AIで物理機器を制御する共通規格「MHS」発表　将来オープンソース化へ</title>
-<link>https://www.itmedia.co.jp/news/article/2608/28/2000000897/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2608/28/2000000897/</guid>
-<pubDate>Fri, 28 Aug 2026 06:42:56 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>米Anthropicは8月27日（現地時間）、AIエージェントが物理的な機器を安全に操作するための共通仕様「Model Hardware Standard」（MHS）のリサーチプレビューを開始したと発表した。まずは科学研究機関と先端製造分野の一部パートナーに提供する。MHSは、Anthropicと米HHMIジャネリア・リサーチ・キャンパスの共同作業か... — はてなブックマーク テクノロジー / score: 70 (AIによる物理制御の新しい共通規格の発表)</description>
-</item>
-<item>
-<title>AIや企業によるカンニングを防ぎつつ最先端モデルをテストする方法をGoogleが考案</title>
-<link>https://gigazine.net/news/20260828-google-ai-evaluations-secure-environments/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260828-google-ai-evaluations-secure-environments/</guid>
-<pubDate>Fri, 28 Aug 2026 06:40:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>世界中の企業や研究機関が新たなAIモデルを発表する中で、AIモデルのテストは「どのモデルを利用するべきか」を判断する重要な手がかりになります。そんなAIモデルのテストにおいて、AIや開発企業によるカンニングを防ぎつつ性能評価するテストの手法を、GoogleのAI研究部門であるGoogle DeepMindが考案しました。 続きを読む... — GIGAZINE / score: 65 (AIモデルの公平な評価手法の考案は重要)</description>
-</item>
-<item>
-<title>ダサいスライド資料を作る大会が開催中　応募フォームもダサい</title>
-<link>https://www.itmedia.co.jp/news/article/2608/28/2000000902/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2608/28/2000000902/</guid>
-<pubDate>Fri, 28 Aug 2026 06:36:26 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>学生向け就職活動支援サービスを手掛けるサポーターズ（東京都渋谷区）が、ダサいスライド資料を募る大会を開催している。同社が10月10日から11日にかけて開催する学生向けテックカンファレンス「技育祭2026【秋】」に伴う企画で、優勝者にはYouTuberの「ラムダ技術部」さんと一緒にイベントに登壇できる権利や、表彰状... — はてなブックマーク テクノロジー / score: 15 (イベントのユニークな企画に関する娯楽的なニュース)</description>
-</item>
-<item>
-<title>GitHub、eBPFを活用してデプロイリスクを排除し、循環障害を防止</title>
-<link>https://www.infoq.com/jp/news/2026/08/github-ebpf-deployment/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-<guid isPermaLink="true">https://www.infoq.com/jp/news/2026/08/github-ebpf-deployment/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-<pubDate>Fri, 28 Aug 2026 06:30:00 +0000</pubDate>
-<category>InfoQ Japan</category>
-<description>クラウドネイティブ領域では、KubernetesやCiliumといったネットワークレイヤーも、GitHubのeBPF活用と同様に、カーネルおよびネットワーク層での実行時ポリシー適用やオブザーバビリティの強化へと進化している。一方、GitLabはパイプラインの分離と依存関係の制御に注力している。成果物の固定（pinning）やオフラインランナーの利用、CI/CD実行時のネットワークアクセス制限といった実践を推奨している。 By Craig Risi Translated by Takashi Kawase — InfoQ Japan / score: 65 (eBPFを用いた先進的なデプロイリスク低減事例)</description>
 </item>
 </channel>
 </rss>
