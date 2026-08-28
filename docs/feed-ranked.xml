@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 28 Aug 2026 06:34:19 +0000</lastBuildDate>
+<lastBuildDate>Fri, 28 Aug 2026 06:48:45 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] [AINews] NVIDIA buys HuggingFace for $13B, as OpenAI publishes their HF incident retro</title>
@@ -61,6 +61,22 @@
 <pubDate>Wed, 26 Aug 2026 05:35:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Googleは8月25日（現地時間、以下同）、デスクトップ向け「Google Chrome」の安定（Stable）チャネルをアップデートした。「Chrome 151」に続くメジャーバージョンアップで、Windows/Mac環境にはv152.0.7977.64/.65が、Linux環境にはv152.0.7977.64が順次展開される。 — 窓の杜 / score: 90 (Chromeのメジャーバージョンと多数の脆弱性)</description>
+</item>
+<item>
+<title>[90] August 2026 Security Release</title>
+<link>https://nextjs.org/blog/august-2026-security-release</link>
+<guid isPermaLink="true">https://nextjs.org/blog/august-2026-security-release</guid>
+<pubDate>Tue, 25 Aug 2026 18:00:00 +0000</pubDate>
+<category>Next.js Blog</category>
+<description>The August 2026 security release for Next.js is now available — Next.js Blog / score: 90 (Next.jsの緊急セキュリティリリース)</description>
+</item>
+<item>
+<title>[90] Update: August Next.js Security Release</title>
+<link>https://nextjs.org/blog/nextjs-security-release-august-2026-update</link>
+<guid isPermaLink="true">https://nextjs.org/blog/nextjs-security-release-august-2026-update</guid>
+<pubDate>Tue, 25 Aug 2026 15:00:00 +0000</pubDate>
+<category>Next.js Blog</category>
+<description>Next.js is moving the August security release forward to August 25, 2026. — Next.js Blog / score: 90 (Next.jsセキュリティリリースの日程前倒し)</description>
 </item>
 <item>
 <title>[90] Oracleがセキュリティ更新を毎月実施へ ～四半期ごとの「CPU」を補完する枠組み【8月25日追記】／新設の「CSPU」で943件のパッチを提供。「Java」「VirtualBox」「MySQL」などが影響</title>
@@ -183,12 +199,36 @@
 <description>Bunチームは2026年8月20日、JavaScript／TypeScript向けランタイム兼ツールキット「Bun」のバージョン1.4をリリースした。 — gihyo.jp / score: 85 (初のRust実装版となったBun 1.4のメジャーリリース)</description>
 </item>
 <item>
+<title>[85] Upcoming Next.js August Security Release</title>
+<link>https://nextjs.org/blog/upcoming-nextjs-security-release-august-2026</link>
+<guid isPermaLink="true">https://nextjs.org/blog/upcoming-nextjs-security-release-august-2026</guid>
+<pubDate>Thu, 20 Aug 2026 18:00:00 +0000</pubDate>
+<category>Next.js Blog</category>
+<description>Next.js is preparing a scheduled August security release for August 26, 2026. — Next.js Blog / score: 85 (Next.jsセキュリティリリースの事前告知)</description>
+</item>
+<item>
+<title>[85] Amazon Corretto August 2026 Critical Security Patch Updates</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-corretto-august-2026-security-updates</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-corretto-august-2026-security-updates</guid>
+<pubDate>Tue, 18 Aug 2026 21:48:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>On Aug 18, 2026, Amazon announced critical security patch update (CSPU) for Amazon Corretto Long-Term Support (LTS) and Feature Release (FR) versions of OpenJDK. Corretto 26.0.2.11.1, 25.0.4.8.1, 21.0.12.9.1, 17.0.20.10.1, 11.0.32.10.1, and 8u504 are now available for download . Amazon Corretto is a no-cost, multi-platform, production-ready distribution of OpenJDK. Visit Corretto home page to download Corretto 26, Corretto 25, Corretto 21, Corretto 17, Corretto 11, or Corretto 8. You can also ge — AWS What's New / score: 85 (Amazon Correttoの重要セキュリティパッチ)</description>
+</item>
+<item>
 <title>[85] Mojo🔥 is now open source</title>
 <link>https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/</link>
 <guid isPermaLink="true">https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/</guid>
 <pubDate>Tue, 18 Aug 2026 21:39:20 +0000</pubDate>
 <category>Simon Willison</category>
 <description>Mojo🔥 is now open source The Mojo programming language has been promising an open source release since May 2023 . Last week they shipped their 1.0 and today they have followed through on that original promise, releasing the compiler and toolchain under an Apache 2 license. When Mojo first launched the stated goal was to produce a superset of Python, so existing Python code could be used to bootstrap their own ecosystem. That plan changed around August 2025 : Mojo may or may not evolve into a ful — Simon Willison / score: 85 (Mojoプログラミング言語のオープンソース化。)</description>
+</item>
+<item>
+<title>[85] Building App-like Experiences with Next.js 16.3</title>
+<link>https://nextjs.org/blog/building-app-like-experiences-with-nextjs-16-3</link>
+<guid isPermaLink="true">https://nextjs.org/blog/building-app-like-experiences-with-nextjs-16-3</guid>
+<pubDate>Tue, 18 Aug 2026 16:00:00 +0000</pubDate>
+<category>Next.js Blog</category>
+<description>Build app-like experiences with Instant Navigations, server-rendered data, optimistic updates, and live client state in Next.js 16.3. — Next.js Blog / score: 85 (Next.js 16.3のメジャー機能リリース)</description>
 </item>
 <item>
 <title>[85] Pacing model development in an era of cyber-critical capabilities</title>
@@ -263,6 +303,14 @@
 <description>Arduinoは2026年8月25日、40TOPSの性能を発揮するNPUを備え、Qwen 3、Gemma 4、Qwen 3 VLMなどのローカルLLMを直接実行できるマイコンボード「Arduino VENTUNO Q」を発表、同社の正規販売店を通じて予約販売を開始した。 — gihyo.jp / score: 80 (ローカルLLM対応マイコンボードの登場)</description>
 </item>
 <item>
+<title>[80] 2026-08-26, Version 24.20.0 'Krypton' (LTS), @aduh95</title>
+<link>https://github.com/nodejs/node/releases/tag/v24.20.0</link>
+<guid isPermaLink="true">https://github.com/nodejs/node/releases/tag/v24.20.0</guid>
+<pubDate>Wed, 26 Aug 2026 14:28:32 +0000</pubDate>
+<category>Node.js リリース</category>
+<description>Notable Changes [ b12bcc9ae1 ] - (SEMVER-MINOR) async_hooks : add using scopes to AsyncLocalStorage (Stephen Belanger) #61674 [ e2eb88b36b ] - (SEMVER-MINOR) buffer : add end parameter (Robert Nagy) #62390 [ 1fefdda18e ] - crypto : update root certificates to NSS 3.125 (Node.js GitHub Bot) #64746 [ 4a158cf1ab ] - doc : add MikeMcC399 as collaborator (Mike McCready) #64656 [ d4cafce076 ] - (SEMVER-MINOR) lib,permission : add permission.drop (Rafael Gonzaga) #62672 [ b3cfb55267 ] - (SEMVER-MINOR)  — Node.js リリース / score: 80 (Node.js LTSの重要な機能追加)</description>
+</item>
+<item>
 <title>[80] Next.js 16.3正式版リリース。Turbopackのメモリ使用量が最大90％減、SSRが最大22％高速化、TypeScript 7による型チェック高速化など</title>
 <link>https://www.publickey1.jp/blog/26/nextjs_163turbopack90ssr22typescript_7.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/nextjs_163turbopack90ssr22typescript_7.html</guid>
@@ -277,6 +325,14 @@
 <pubDate>Mon, 24 Aug 2026 12:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance. — OpenAI News / score: 80 (新型開発モデルのリリースによる性能向上)</description>
+</item>
+<item>
+<title>[80] RISC-V is now officially supported by CPython!</title>
+<link>https://blog.python.org/2026/08/riscv-now-officially-supported/</link>
+<guid isPermaLink="true">https://blog.python.org/2026/08/riscv-now-officially-supported/</guid>
+<pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+<category>Python Insider</category>
+<description>I’m happy to announce that RISC-V platforms are now officially supported by CPython. 🎉 🚀 — Python Insider / score: 80 (CPythonでのRISC-V公式サポート追加)</description>
 </item>
 <item>
 <title>[80] これが“ニューノーマル” ―Linux 7.2リリース、AIレビューによる大量の修正が常態化へ</title>
@@ -431,12 +487,28 @@
 <description>Qwen3.8-Flash-Next Another open weights model from Qwen. This one is "a multimodal MoE model that also serves as an early preview of the architecture used in Qwen4". It's pretty big: 125B tokens, but only 6B active which means it gets a significant performance boost. I've been trying it out on a DGX Spark using these Unsloth quantized models . I'm still exploring the model - so far I've tried the 72.5GB UD-IQ1_S one (producing these pelicans ) and the 78.9GB UD-Q2_K_XL (producing these ). My fav — Simon Willison / score: 75 (Qwenの新しい大規模マルチモーダルモデル発表)</description>
 </item>
 <item>
+<title>[75] 2026-08-26, Version 26.8.1 (Current), @aduh95</title>
+<link>https://github.com/nodejs/node/releases/tag/v26.8.1</link>
+<guid isPermaLink="true">https://github.com/nodejs/node/releases/tag/v26.8.1</guid>
+<pubDate>Wed, 26 Aug 2026 22:10:37 +0000</pubDate>
+<category>Node.js リリース</category>
+<description>Notable Changes Out-of-band release to fix node --version which was reporting an alpha version. Commits [ ebd35a9eec ] - src : revert accidental alpha designation (Antoine du Hamel) #65568 [ 0b0dd87fcc ] - tools : fix tools/nix/list-requisites.sh (Antoine du Hamel) #65560 — Node.js リリース / score: 75 (Node.jsのバージョン表示不具合の緊急修正)</description>
+</item>
+<item>
 <title>[75] AIエージェント「ChatGPT Work」がサインインを要するWebサイトの操作も実行可能に／公共料金のプラン調査・変更などのタスクをこなせる。もちろん、安全性にも配慮</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2135790.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2135790.html</guid>
 <pubDate>Wed, 26 Aug 2026 21:45:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米OpenAIは8月25日（現地時間、以下同）、「ChatGPT」アプリのアップデートを発表した。「ChatGPT Work」は、コーディング以外の知識労働にも対応したエージェント。今回のアップデートでは、サインイン（認証）を必要とするWebサイトでもブラウザータスクを任せられるようになったという。 — 窓の杜 / score: 75 (ChatGPTのWeb操作エージェント機能強化。)</description>
+</item>
+<item>
+<title>[75] Compose Multiplatform 1.12.0 Released</title>
+<link>https://blog.jetbrains.com/kotlin/2026/08/compose-multiplatform-1-12-0/</link>
+<guid isPermaLink="true">https://blog.jetbrains.com/kotlin/2026/08/compose-multiplatform-1-12-0/</guid>
+<pubDate>Wed, 26 Aug 2026 13:28:41 +0000</pubDate>
+<category>Kotlin Blog</category>
+<description>Compose Multiplatform 1.12.0 is out! This version brings new tooling for AI assistants, improvements to web resource management, and finer control over desktop window states. Here are the highlights of this release: For a complete overview of the changes, check out What’s new in Compose Multiplatform 1.12.0 or the release notes on GitHub. Get Started […] — Kotlin Blog / score: 75 (Compose Multiplatform 1.12.0リリース)</description>
 </item>
 <item>
 <title>[75] ChatGPTの内蔵ブラウザーがWebMCPに対応、Webサイトが公開するツールを「サイトツール」として利用可能に ——10日間のWebMCP Challengeも開催</title>
@@ -479,12 +551,44 @@
 <description>OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West. — OpenAI News / score: 75 (AIを用いた隠蔽工作キャンペーンの検出と対応)</description>
 </item>
 <item>
+<title>[75] Announcing Oracle Jipher 10.37: FIPS 140-3 Cryptography for Java</title>
+<link>https://inside.java/2026/08/25/jipher-cryptography-for-java/</link>
+<guid isPermaLink="true">https://inside.java/2026/08/25/jipher-cryptography-for-java/</guid>
+<pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+<category>Inside Java</category>
+<description>Oracle Jipher 10 packages a FIPS 140-3 validated OpenSSL cryptographic module, making cryptographic services available through the standard Java Cryptography Architecture (JCA) framework. — Inside Java / score: 75 (Java向けFIPS 140-3暗号モジュールの発表)</description>
+</item>
+<item>
 <title>[75] Rustに移植された「Bun 1.4」正式リリース。Node.jsとの互換性向上でPlaywrightやvitestが動作、CPUとメモリの使用率が大幅改善、正規表現が高速化など</title>
 <link>https://www.publickey1.jp/blog/26/rustbun_14nodejsplaywrightvitestcpu.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/rustbun_14nodejsplaywrightvitestcpu.html</guid>
 <pubDate>Sun, 23 Aug 2026 15:58:41 +0000</pubDate>
 <category>Publickey</category>
 <description>サーバサイドJavaScriptランタイムのBunの最新版となる「Bun 1.4」正式版のリリースが発表されました。 Bun 1.4は、これまでZig言語で開発されていたものをClaude Codeを使ってRustに書き直した最初のバージョ... — Publickey / score: 75 (BunのRust移植と大幅な性能改善)</description>
+</item>
+<item>
+<title>[75] AWS Glue 6.0 now available with 30% lower price and full Apache Iceberg v3 support</title>
+<link>https://aws.amazon.com/blogs/aws/aws-glue-6-0-now-available-with-30-lower-price-and-full-apache-iceberg-v3-support/</link>
+<guid isPermaLink="true">https://aws.amazon.com/blogs/aws/aws-glue-6-0-now-available-with-30-lower-price-and-full-apache-iceberg-v3-support/</guid>
+<pubDate>Fri, 21 Aug 2026 18:53:26 +0000</pubDate>
+<category>AWS News Blog</category>
+<description>AWS Glue 6.0 is built on a fully modernized runtime, Apache Spark 4.1, Python 3.13, and Scala 2.13, delivering 30% lower pricing than previous AWS Glue versions. — AWS News Blog / score: 75 (AWS Glue 6.0のメジャーリリースと価格改定)</description>
+</item>
+<item>
+<title>[75] AWS Glue 6.0 delivers 30% price reduction and Iceberg v3 support</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/08/aws-glue-6-0-price-reduction-iceberg-v3</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/08/aws-glue-6-0-price-reduction-iceberg-v3</guid>
+<pubDate>Fri, 21 Aug 2026 16:42:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS Glue 6.0 is now generally available, delivering a 30% price reduction and introducing full support for Apache Iceberg v3, newer versions of Apache Hudi and Delta Lake, and new capabilities to improve developer productivity. AWS Glue 6.0 also upgrades runtime to Apache Spark 4.1, Python 3.13, and Scala 2.13. With Apache Iceberg v3, AWS Glue 6.0 adds the VARIANT data type with automatic shredding for faster reads on semi-structured data, deletion vectors for high-performance row-level updates, — AWS What's New / score: 75 (AWS Glue 6.0のリリースと大幅な価格改定)</description>
+</item>
+<item>
+<title>[75] v4.1.1</title>
+<link>https://github.com/spring-projects/spring-boot/releases/tag/v4.1.1</link>
+<guid isPermaLink="true">https://github.com/spring-projects/spring-boot/releases/tag/v4.1.1</guid>
+<pubDate>Fri, 21 Aug 2026 06:47:25 +0000</pubDate>
+<category>Spring Boot リリース</category>
+<description>⚠️ Attention Required Spring Boot's Gradle plugin no longer automatically configures gRPC when the Protobuf plugin is applied. This behavior caused problems for those using Protobuf without gRPC. To opt in to the configuration of gRPC, configure the protobuf extension with the grpc plugin using an empty block. The Spring Boot Gradle plugin will then automatically configure the use of protoc-gen-grpc-java as before. #50822 🐞 Bug Fixes Kafka consumer-specific security protocol is not taken into ac — Spring Boot リリース / score: 75 (Spring Boot 4.1.1のバグ修正と重要な変更)</description>
 </item>
 <item>
 <title>[75] [AINews] Poolside gets $12B reverse-execuhire to NVIDIA; founders stay for $1B, employees go for $6B, Infraco scaling to 7GW neocloud</title>
@@ -655,6 +759,14 @@
 <description>Linux Foundation傘下でMCP（Model Context Protocol）の仕様策定を行っている「Agentic AI Foundation（AAIF）」は、今後のMCPの進化について、その方向性を示す新たなロードマップを... — Publickey / score: 70 (AIエージェント向けMCPのロードマップ策定)</description>
 </item>
 <item>
+<title>[70] 2026-08-26, Version 26.8.0 (Current), @aduh95</title>
+<link>https://github.com/nodejs/node/releases/tag/v26.8.0</link>
+<guid isPermaLink="true">https://github.com/nodejs/node/releases/tag/v26.8.0</guid>
+<pubDate>Wed, 26 Aug 2026 14:28:49 +0000</pubDate>
+<category>Node.js リリース</category>
+<description>Notable Changes [ 74234ee30e ] - (SEMVER-MINOR) benchmark : add --analyze mode to compare.js (James M Snell) #65416 [ 4232997fa2 ] - crypto : update root certificates to NSS 3.126 (Node.js GitHub Bot) #65495 [ f0531f1c87 ] - (SEMVER-MINOR) crypto : enable SIV and GCM-SIV modes in Cipher/Decipher APIs (Filip Skokan) #63411 [ 3f4b80ebb5 ] - diagnostics_channel : mark TracingChannel as stable (Abdelrahman Awad) #64525 [ 753033c110 ] - (SEMVER-MINOR) lib,src : improve histogram implementation (James — Node.js リリース / score: 70 (Node.js Currentの機能追加・更新)</description>
+</item>
+<item>
 <title>[70] EVE Online: The Move to Python 3 Begins!</title>
 <link>https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/</link>
 <guid isPermaLink="true">https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/</guid>
@@ -693,118 +805,6 @@
 <pubDate>Tue, 25 Aug 2026 07:53:12 +0000</pubDate>
 <category>窓の杜</category>
 <description>デジタル庁は8月25日、「マイナポータルアプリ」に「デジタル認証アプリ」の機能を統合した「マイナアプリ」の提供を開始した。App StoreまたはGoogle Playから新たにダウンロードするか、既存のマイナポータルアプリをアップデートすることで利用可能だ。 — 窓の杜 / score: 70 (デジタル庁のマイナアプリ提供開始)</description>
-</item>
-<item>
-<title>[70] AIと対話してネイティブiOS/Androidアプリをリアルタイムに構築、SwiftUI対応コーディングプラットフォーム「Dactyl」発表</title>
-<link>https://gihyo.jp/article/2026/08/dactyl?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/08/dactyl?utm_source=feed</guid>
-<pubDate>Tue, 25 Aug 2026 06:59:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Deno開発チームは2026年8月23日、ネイティブのiOS/Androidアプリを開発できるバイブコーディングプラットフォーム「Dactyl」を発表した。 — gihyo.jp / score: 70 (DenoチームによるSwiftUI対応アプリ構築プラットフォーム発表)</description>
-</item>
-<item>
-<title>[70] [AINews] Andrew Ng gets into AI Engineering</title>
-<link>https://www.latent.space/p/ainews-andrew-ng-gets-into-ai-engineering</link>
-<guid isPermaLink="true">https://www.latent.space/p/ainews-andrew-ng-gets-into-ai-engineering</guid>
-<pubDate>Tue, 25 Aug 2026 02:50:57 +0000</pubDate>
-<category>Latent Space</category>
-<description>We’ve lost count of how many adoption milestones have been passed since the original Rise of the AI Engineer post, but surely Andrew Ng, cofounder of Google Brain and Coursera among many other things, relaunching DeepLearning.ai with a focus on AI Engineering is a big one : This was done via “ an analysis of over 10,000 job postings; carrying out dozens of structured interviews with AI experts, hiring managers, and recruiters; gathering data through surveys; and synthesizing other online data ”  — Latent Space / score: 70 (Andrew NgのAIエンジニアリング参入の動向。)</description>
-</item>
-<item>
-<title>[70] シングルバイナリなOLAP DBの次期版「DuckDB 2.0」プレビュー。クライアント／サーバ機能が安定版に、スキーマレスのVARIANT型、トリガー、非同期I/Oなど新機能</title>
-<link>https://www.publickey1.jp/blog/26/olap_dbduckdb_20variantio.html</link>
-<guid isPermaLink="true">https://www.publickey1.jp/blog/26/olap_dbduckdb_20variantio.html</guid>
-<pubDate>Mon, 24 Aug 2026 15:29:33 +0000</pubDate>
-<category>Publickey</category>
-<description>オープンソースとして開発されているOLAPデータベース「DuckDB」の開発を主導しているDuckDB Foundationは、今年の秋にリリース予定の「DuckDB 2.0」にどのような新機能が搭載予定なのかを紹介したブログ「A Prev... — Publickey / score: 70 (高パフォーマンスDBの次期版プレビュー)</description>
-</item>
-<item>
-<title>[70] Claude Mythos 5がClaude Securityで利用可能に ―エンタープライズユーザー向けに提供開始</title>
-<link>https://gihyo.jp/article/2026/08/mythos-5-to-claude-security?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/08/mythos-5-to-claude-security?utm_source=feed</guid>
-<pubDate>Mon, 24 Aug 2026 05:57:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Anthropicは2026年8月21日、エンタープライズプラン向けに提供しているセキュリティ機能Claude SecurityのスキャンモデルとしてClaude Mythos 5が利用可能となったことを発表した。 — gihyo.jp / score: 70 (Anthropicのセキュリティ機能へのClaude Mythos 5追加)</description>
-</item>
-<item>
-<title>[70] AWS WorkSpacesがAIエージェントによるレガシー・デスクトップアプリケーション操作を可能に、API不要</title>
-<link>https://www.infoq.com/jp/news/2026/08/aws-workspaces-ai-agents/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-<guid isPermaLink="true">https://www.infoq.com/jp/news/2026/08/aws-workspaces-ai-agents/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-<pubDate>Mon, 24 Aug 2026 05:30:00 +0000</pubDate>
-<category>InfoQ Japan</category>
-<description>AWSはAmazon WorkSpacesがAIエージェント向けのマネージド仮想デスクトップとして利用可能になったと発表した。これによりアプリケーションのモダナイゼーションやAPI統合を必要とせず、Computer Visionと入力シミュレーションを通じてレガシー・デスクトップアプリケーションを操作可能になる。 By Steef-Jan Wiggers Translated by Hiroaki.Sugimura — InfoQ Japan / score: 70 (レガシー操作を可能にするAWSの新機能)</description>
-</item>
-<item>
-<title>[70] Quoting Linus Torvalds</title>
-<link>https://simonwillison.net/2026/Aug/22/linus-torvalds/</link>
-<guid isPermaLink="true">https://simonwillison.net/2026/Aug/22/linus-torvalds/</guid>
-<pubDate>Sat, 22 Aug 2026 21:04:26 +0000</pubDate>
-<category>Simon Willison</category>
-<description>And this was a debug session from hell, enormously helped by an AI doing much of the grunt-work. I'd like to call it my tireless helper, but the AI several times stated flat out that this was impossible and unsolvable and that we should just write a report about it. I suspect those things have been trained by people who may not be quite as stubborn as I am. But while the AI was ready to give up several times, it did keep adding debug code and analyzing it faithfully when I pushed. So credit wher — Simon Willison / score: 70 (リーナス・トーバルズによるAIデバッグの言及)</description>
-</item>
-<item>
-<title>[70] Up to 3.2x Faster Inference with LFM2.5-DSpark</title>
-<link>https://huggingface.co/blog/LiquidAI/lfm25-dspark</link>
-<guid isPermaLink="true">https://huggingface.co/blog/LiquidAI/lfm25-dspark</guid>
-<pubDate>Thu, 20 Aug 2026 16:52:57 +0000</pubDate>
-<category>Hugging Face Blog</category>
-<description> — Hugging Face Blog / score: 70 (推論速度が大幅に向上したモデルの発表)</description>
-</item>
-<item>
-<title>[70] A shot-scraper-style JSON API on Bun 1.4's new Bun.WebView</title>
-<link>https://simonwillison.net/2026/Aug/20/bun-webview-json-api/</link>
-<guid isPermaLink="true">https://simonwillison.net/2026/Aug/20/bun-webview-json-api/</guid>
-<pubDate>Thu, 20 Aug 2026 15:37:00 +0000</pubDate>
-<category>Simon Willison</category>
-<description>Research: A shot-scraper-style JSON API on Bun 1.4's new Bun.WebView Today saw the long awaited release of Bun 1.4 , the first stable version since the infamous Rust rewrite a few months ago . Interestingly, the Rust rewrite was downplayed in the release notes, which introduced a bewildering array of new features and claimed 2,900 additional bug fixes: Bun 1.4 adds +1,517 tests from the Node.js test suite - our biggest jump in Node.js compatibility since Bun 1.0. Bun v1.4 also fixes over 2,900 i — Simon Willison / score: 70 (Bun 1.4のWebViewを活用したJSON API開発)</description>
-</item>
-<item>
-<title>[70] Firefox 154がCSSのsibling-count()、sibling-index()、text-boxに対応、主要ブラウザーで利用可能に</title>
-<link>https://gihyo.jp/article/2026/08/firefox-154-support-css-sibling-count-index-and-text-box?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/08/firefox-154-support-css-sibling-count-index-and-text-box?utm_source=feed</guid>
-<pubDate>Thu, 20 Aug 2026 05:36:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Mozillaは2026年8月18日、Firefox 154をリリースした。 — gihyo.jp / score: 70 (新機能が多数追加されたFirefox 154のリリース)</description>
-</item>
-<item>
-<title>[70] Pythonライクな新言語「Mojo」がオープンソースで公開、コンパイラやツールチェーンなど。Windows版の開発も表明</title>
-<link>https://www.publickey1.jp/blog/26/pythonmojowindows.html</link>
-<guid isPermaLink="true">https://www.publickey1.jp/blog/26/pythonmojowindows.html</guid>
-<pubDate>Wed, 19 Aug 2026 15:40:43 +0000</pubDate>
-<category>Publickey</category>
-<description>Pythonライクな新言語「Mojo」の開発元であるModular社は、Mojoをオープンソースとして公開したことを、同社主催のイベント「ModCon 2026」で発表しました。 具体的にはMojoのコンパイラとツールチェーンがGitHub... — Publickey / score: 70 (Mojo言語のオープンソース化とツール公開)</description>
-</item>
-<item>
-<title>[70] [AINews] Memory prices up 500% in 12 months</title>
-<link>https://www.latent.space/p/ainews-memory-prices-up-500-in-12</link>
-<guid isPermaLink="true">https://www.latent.space/p/ainews-memory-prices-up-500-in-12</guid>
-<pubDate>Wed, 19 Aug 2026 08:44:52 +0000</pubDate>
-<category>Latent Space</category>
-<description>Even as Sama follows through on the Great Pacing , and Etched becomes a double unicorn and Cerebras announced CS4 running 10T models at 1000 tok/s , the memory shortage has continued unabated since we did our SemiAnalysis pod in Feb . Per Tom’s Hardware : We’re officially in dire straits. There’s almost no way, if you’re reading this site, that you aren’t aware that memory prices have become entirely divorced from reality. Some are calling it the RAMpocalypse; I prefer “RAMageddon.” That’s right — Latent Space / score: 70 (AIハードウェア市場に影響するメモリ高騰問題)</description>
-</item>
-<item>
-<title>[70] Cloudflare Sandboxesが 一般提供を開始　AIエージェントに持続的で隔離された環境を提供</title>
-<link>https://www.infoq.com/jp/news/2026/08/cloudflare-sandboxes-ga/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-<guid isPermaLink="true">https://www.infoq.com/jp/news/2026/08/cloudflare-sandboxes-ga/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-<pubDate>Wed, 19 Aug 2026 07:30:00 +0000</pubDate>
-<category>InfoQ Japan</category>
-<description>Cloudflare社はAgents Weekの一環として、SandboxesおよびCloudflare Containersの一般提供を発表し、AIエージェントのワークロード向けに持続的で隔離されたLinux環境を提供すると明らかにした。 By Steef-Jan Wiggers Translated by Takashi Kawase — InfoQ Japan / score: 70 (AIエージェント向けCloudflare Sandboxes)</description>
-</item>
-<item>
-<title>[70] Google、AIモデルをコンパイルして暗号データを復号せずに扱えるように変換する「HEIR」発表。完全準同型暗号を利用し、AIでのセキュリティやプライバシー保護など実現へ</title>
-<link>https://www.publickey1.jp/blog/26/googleaiheirai.html</link>
-<guid isPermaLink="true">https://www.publickey1.jp/blog/26/googleaiheirai.html</guid>
-<pubDate>Tue, 18 Aug 2026 15:55:25 +0000</pubDate>
-<category>Publickey</category>
-<description>Googleは、完全準同型暗号を利用したAIモデル用のオープンソースコンパイラ「HEIR」を発表しました。 AIモデルをコンパイルする「HEIR」 HEIRはAIモデル用のコンパイラとツールチェーンであり、これを用いて学習済みAIモデルのP... — Publickey / score: 70 (完全準同型暗号を利用したAIコンパイラ)</description>
-</item>
-<item>
-<title>[70] Cursorから利用できるコードホスティングプラットフォーム「Origin」初期ベータ版の提供開始</title>
-<link>https://gihyo.jp/article/2026/08/cursor-origin-code-hosting?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/08/cursor-origin-code-hosting?utm_source=feed</guid>
-<pubDate>Tue, 18 Aug 2026 01:51:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Anysphereは2026年8月17日、同社のコーディングエージェントCursorと統合されたコードホスティングプラットフォーム「Origin」を発表した。 — gihyo.jp / score: 70 (Cursor統合型ホスティングの登場)</description>
 </item>
 </channel>
 </rss>
