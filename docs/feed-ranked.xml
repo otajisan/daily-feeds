@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 27 Aug 2026 23:34:34 +0000</lastBuildDate>
+<lastBuildDate>Fri, 28 Aug 2026 01:14:35 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] [AINews] NVIDIA buys HuggingFace for $13B, as OpenAI publishes their HF incident retro</title>
@@ -21,6 +21,14 @@
 <pubDate>Thu, 27 Aug 2026 01:31:22 +0000</pubDate>
 <category>Latent Space</category>
 <description>By far the biggest announcement at the 37th Hot Chips conference was OpenAI’s stunning progress on their own chip, less than a year after the Broadcom announcement … and that it isn’t an ASIC; but a full on Blackwell-beating alternative. The key metric now is shifting to performance per watt, and Jalapeno delivers: The full Hot Chips presentation is not yet out but various takes are below. For a fuller breakdown, watch along with the rest of OpenAI: AI News for 8/24/2026-8/25/2026. We checked 12 — Latent Space / score: 90 (Hot ChipsでのAIハードウェアの主要発表。)</description>
+</item>
+<item>
+<title>[85] ITエンジニア必読書『徳丸本』が8年ぶりの改訂へ　「第3版」のポイントを筆者が解説</title>
+<link>https://atmarkit.itmedia.co.jp/ait/articles/2608/28/news018.html</link>
+<guid isPermaLink="true">https://atmarkit.itmedia.co.jp/ait/articles/2608/28/news018.html</guid>
+<pubDate>Thu, 27 Aug 2026 22:53:23 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Webアプリケーションの開発やセキュリティに携わるITエンジニア必携の書と言ってもいい『徳丸本』こと、『体系的に学ぶ 安全なWebアプリケーションの作り方』は、2011年に初版が発行され、2018年には、Web API関連を中心に200ページ近く記述が加わった「第2版」が刊行された。 しかし、Web技術の進化と複雑化に伴い、新... — はてなブックマーク テクノロジー / score: 85 (著名なセキュリティ書籍の改訂解説であり重要)</description>
 </item>
 <item>
 <title>[85] The Hugging Face incident and the road ahead</title>
@@ -199,14 +207,6 @@
 <description>OpenAIのMax Stoiber氏は2026年8月26日、スキルをMCP経由で配信する「Skills Over MCP」に同社が早期対応したとXに投稿した。 — gihyo.jp / score: 75 (OpenAIのMCP関連新機能サポート)</description>
 </item>
 <item>
-<title>[75] コードを書くのもレビューも大好きだったのについに全部AIの仕事になった</title>
-<link>https://zenn.dev/ttlg/articles/4077fffd458d61</link>
-<guid isPermaLink="true">https://zenn.dev/ttlg/articles/4077fffd458d61</guid>
-<pubDate>Thu, 27 Aug 2026 01:24:56 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>昔の私は、コードの差分を1行ずつ見るのが大好きでした。どう書けばもっと速く、もっと短くなるかを考えている時間が、単純に楽しかった。 いまは、全く読んでいません。昨日、私のマシンでは1日に265個のAIエージェントタスクが作られました。記録を数えてみると、タスクの86%は私ではなくAIが作ったものでした。プロン... — はてなブックマーク テクノロジー / score: 75 (AIエージェントによる開発自動化のリアルな体験談)</description>
-</item>
-<item>
 <title>[75] Qwen3.8-Flash-Next</title>
 <link>https://simonwillison.net/2026/Aug/26/qwen38-flash-next/</link>
 <guid isPermaLink="true">https://simonwillison.net/2026/Aug/26/qwen38-flash-next/</guid>
@@ -215,20 +215,20 @@
 <description>Qwen3.8-Flash-Next Another open weights model from Qwen. This one is "a multimodal MoE model that also serves as an early preview of the architecture used in Qwen4". It's pretty big: 125B tokens, but only 6B active which means it gets a significant performance boost. I've been trying it out on a DGX Spark using these Unsloth quantized models . I'm still exploring the model - so far I've tried the 72.5GB UD-IQ1_S one (producing these pelicans ) and the 78.9GB UD-Q2_K_XL (producing these ). My fav — Simon Willison / score: 75 (Qwenの新しい大規模マルチモーダルモデル発表)</description>
 </item>
 <item>
-<title>[75] JPGでもPNGでもない　2026年内に主要ブラウザが「JXL」を正式採用へ</title>
-<link>https://atmarkit.itmedia.co.jp/ait/articles/2608/27/news047.html</link>
-<guid isPermaLink="true">https://atmarkit.itmedia.co.jp/ait/articles/2608/27/news047.html</guid>
-<pubDate>Wed, 26 Aug 2026 23:44:35 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>JPGでもPNGでもない 2026年内に主要ブラウザが「JXL」を正式採用へ：Firefoxが「JPEG XL」サポート方針を明らかに Mozillaは、Firefox 157において次世代画像フォーマット「JPEG XL」を正式採用する方針を明らかにした。Googleが開発したRust製デコーダーを採用する。Google Chromeの開発チームも同様の意向を示してお... — はてなブックマーク テクノロジー / score: 75 (主要ブラウザによる次世代画像フォーマットJXL採用)</description>
-</item>
-<item>
 <title>[75] ChatGPTの内蔵ブラウザーがWebMCPに対応、Webサイトが公開するツールを「サイトツール」として利用可能に ——10日間のWebMCP Challengeも開催</title>
 <link>https://gihyo.jp/article/2026/08/chatgpt-app-browser-support-webmcp?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/08/chatgpt-app-browser-support-webmcp?utm_source=feed</guid>
 <pubDate>Wed, 26 Aug 2026 07:34:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>OpenAIは2026年8月25日付の「ChatGPT &amp; Codex changelog」で、ChatGPTデスクトップアプリの内蔵ブラウザーに、WebMCPを利用した「サイトツール」を追加した。 — gihyo.jp / score: 75 (ChatGPT内蔵ブラウザーのWebMCP対応と新機能)</description>
+</item>
+<item>
+<title>[75] LINEヤフーのAgent iを支えるAIエージェント基盤：「誰でも作れる」と「安全に動かせる」をどう両立したか</title>
+<link>https://techblog.lycorp.co.jp/ja/20260826a</link>
+<guid isPermaLink="true">https://techblog.lycorp.co.jp/ja/20260826a</guid>
+<pubDate>Wed, 26 Aug 2026 03:14:54 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>LINEヤフーでは、ユーザーの目的に応じてさまざまなサービスや機能をつなぐAIエージェントサービス「Agent i」の開発を進めています。 Agent iで多様なニーズに応えるには、現場のアイデアを素早くAIエージェントとして形にできることに加え、作られたエージェントを安全かつ安定的に本番環境で動かせることが必要です。... — はてなブックマーク テクノロジー / score: 75 (大規模AIエージェント基盤の設計・安全性の知見)</description>
 </item>
 <item>
 <title>[75] Disrupting a new covert influence campaign from Russia</title>
@@ -527,20 +527,12 @@
 <description>ヌーラボは27年1月から有料4プランを3プランに統合。エコノミー（月額2万1000円、ユーザー上限15人）、ビジネス（月額3万6300円、ユーザー無制限）、プロフェッショナル（月額10万円、同）の3つにする。 現行のプレミアム（月額2万7000円）はビジネス（月額3万6300円）に、プラチナ（月額7万5000円）はプロフェッショナ... — はてなブックマーク テクノロジー / score: 65 (開発ツールの大幅値上げに関する業界の注目ニュース)</description>
 </item>
 <item>
-<title>[65] ビル・ゲイツ氏、AIに対する世界的制限を提唱　恩恵を圧倒する人間への危害に警鐘</title>
-<link>https://www.cnn.co.jp/tech/35251976.html</link>
-<guid isPermaLink="true">https://www.cnn.co.jp/tech/35251976.html</guid>
-<pubDate>Thu, 27 Aug 2026 02:43:13 +0000</pubDate>
+<title>[65] GitHub - SenteLabsAI/OpenExecutive: AI-powered virtual executive team — a single coherent executive persona backed by 8 specialist Claude agents (FastAPI + Next.js).</title>
+<link>https://github.com/SenteLabsAI/OpenExecutive</link>
+<guid isPermaLink="true">https://github.com/SenteLabsAI/OpenExecutive</guid>
+<pubDate>Thu, 27 Aug 2026 03:53:29 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>ビル・ゲイツ氏。AIがもたらす潜在的なリスクがその恩恵を上回ることがないよう、制限を設ける必要があると述べている/Denis Balibouse/Reuters （CNN） 米マイクロソフト共同創業者のビル・ゲイツ氏は26日、人工知能（AI）に対して大幅な制限を設けることを提唱した。さもなければ、たとえAIの恩恵があったとしても、そ... — はてなブックマーク テクノロジー / score: 65 (ビル・ゲイツによるAI規制の提唱という重要話題)</description>
-</item>
-<item>
-<title>[65] 「それ、今やる必要ある？」と言われたときの、セキュリティ施策の通し方</title>
-<link>https://zenn.dev/gangy/articles/04597efe1b64c5</link>
-<guid isPermaLink="true">https://zenn.dev/gangy/articles/04597efe1b64c5</guid>
-<pubDate>Thu, 27 Aug 2026 01:39:31 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>梅を必ず入れるのがコツです。「予算ゼロでもここまでは下げられる」を示すと、議論が「やるか/やらないか」から「どこまでやるか」に変わります。この時点で提案は半分通っています。 4.「導入費用」→「運用コストと人の時間も出す」 導入費用だけ書いた提案は、通ったあとで揉めます。「入れたのに運用されていない」... — はてなブックマーク テクノロジー / score: 65 (実用的なセキュリティ施策の通し方解説)</description>
+<description>Developed by sentelabs.ai Open Executive provides a single coherent executive voice backed by eight specialist AI agents: Chief Strategy Officer — competitive analysis, M&amp;A, market positioning, OKRs Chief Financial Officer — financial modeling, fundraising, unit economics, cash flow Chief HR/Peop... — はてなブックマーク テクノロジー / score: 65 (オープンソースのAIエージェントチーム実装事例)</description>
 </item>
 <item>
 <title>[65] なぜ、あなたの時系列LightGBMモデルはトレンドに追従しないのか</title>
@@ -751,14 +743,6 @@
 <description>Rails Foundationは2026年8月13日、Ruby on Railsタスクに対するコーディングエージェント比較プロジェクト「Agents on Rails」の最初のベンチマークレポートを発表した。 — gihyo.jp / score: 65 (Rails用AIエージェントのベンチマーク)</description>
 </item>
 <item>
-<title>[65] Nemotron 3.5 Lightning with Inference Snaps、Ubuntu 26.10（stonking）の開発; 壁紙コンテストの開催</title>
-<link>https://gihyo.jp/admin/clip/01/ubuntu-topics/202608/14?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/admin/clip/01/ubuntu-topics/202608/14?utm_source=feed</guid>
-<pubDate>Fri, 14 Aug 2026 00:30:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>8月11日に、NVIDIAから新しいオープンウェイトモデル、Nemotron 3.5 Lightningが登場しました。ライセンスはOpenMDW-1.1で、特に推論速度が重視されたモデルです。そしてSnap経由でこのモデルを利用できる、Inference Snaps版が同日に登場しています。 — gihyo.jp / score: 65 (NVIDIAの高速オープンモデルとUbuntu)</description>
-</item>
-<item>
 <title>[60] 3 new ways to plan and book travel in Search</title>
 <link>https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/</link>
 <guid isPermaLink="true">https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/</guid>
@@ -773,6 +757,14 @@
 <pubDate>Thu, 27 Aug 2026 14:05:36 +0000</pubDate>
 <category>Qiita 人気記事</category>
 <description>AIの出力がずれるたび、僕はプロンプトへ一文ずつ条件を足していました。 例を増やす。禁止事項を書く。語尾を指定する。temperatureを下げる。それでも別の入力で外れ、指示文の末尾に但し書きが積み上がる。正直、何時間も往復した末に、最初より直しにくいプロンプトを作った... — Qiita 人気記事 / score: 60 (AIプロンプトの不安定さを解決するための考察と知見)</description>
+</item>
+<item>
+<title>[60] Nothing、「Nothing OS 5.0」10月リリース　AI機能のMCP対応やウィジェット生成機能など</title>
+<link>https://k-tai.watch.impress.co.jp/docs/news/2136129.html</link>
+<guid isPermaLink="true">https://k-tai.watch.impress.co.jp/docs/news/2136129.html</guid>
+<pubDate>Thu, 27 Aug 2026 13:45:19 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Nothing、「Nothing OS 5.0」10月リリース AI機能のMCP対応やウィジェット生成機能など — はてなブックマーク テクノロジー / score: 60 (OSの新機能やAI対応に関する標準的なガジェット情報)</description>
 </item>
 <item>
 <title>[60] RTX 5090 + RAM 128GBでQwen3.8-Flash-Nextをllama.cppで動かしてみた</title>
@@ -791,20 +783,28 @@
 <description>ローカルLLM向けの NVIDIA GPU の選び方をまとめました。 1. はじめにローカルLLMを高速に動かしたい場合、最も有力な選択肢のひとつが「NVIDIA GPU」です。 NVIDIA GPUでは「CUDA」を中心としたAI向けソフトウェアが充実しており、多くの推論エンジンや高速化技術を利用できます。 一方、ゲーム用GPUを選ぶ感覚で、CUDA... — はてなブックマーク テクノロジー / score: 60 (ローカルLLM向けNVIDIA GPU選びの実用解説)</description>
 </item>
 <item>
-<title>[60] オードリー・タンが警告　AIが考え人が従う「逆ケンタウロス」の罠</title>
-<link>https://xtech.nikkei.com/atcl/nxt/column/18/00157/082500111/</link>
-<guid isPermaLink="true">https://xtech.nikkei.com/atcl/nxt/column/18/00157/082500111/</guid>
-<pubDate>Thu, 27 Aug 2026 01:38:16 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>天才的なプログラマーで台湾の初代デジタル担当相として知られるオードリー・タン氏に、AI（人工知能）への依存が進めば、人間は自分で考えなくなるのではないかという疑問をぶつけた。インタビュー記事（下）では、自分の頭で「考えない人」が増えるリスクへの対処法や、AI時代の仕事と教育、デジタル技術を社会に生か... — はてなブックマーク テクノロジー / score: 60 (AI依存リスクに対する有識者の警鐘と考察)</description>
-</item>
-<item>
 <title>[60] インフラのモニタリングをAIと伴走する</title>
 <link>https://zenn.dev/genda_jp/articles/f3c141688591a5</link>
 <guid isPermaLink="true">https://zenn.dev/genda_jp/articles/f3c141688591a5</guid>
 <pubDate>Thu, 27 Aug 2026 01:01:53 +0000</pubDate>
 <category>Zenn トレンド</category>
 <description>見きれないDatadogのモニタリングをDevinに任せて、毎朝Slackにレポートしてもらう 株式会社GENDAのエンジニアのジャンボです。 新しく事業に参画して、まるっとシステムを見ることになったとき、インフラやモニタリングしているメトリクスに関心を持ちたいのに、なかなか時間が取れないことってありますよね。今関わっているプロダクトではDatadogを使っていて、さまざまなメトリクスを可視化したり、できる限りのAlert/Monitorの設定もしているんですが、より理解を深めリスクに備えるためにAI（Devin）を使うことにしました。 定期的にAI（今回はDevin）にDatado... — Zenn トレンド / score: 60 (AIを活用したインフラモニタリングの自動化手法)</description>
+</item>
+<item>
+<title>[60] ClaudeCode のセキュリティ監視ダッシュボードを作ってみた -- 自分を信用しないための個人ツール</title>
+<link>https://qiita.com/sp-n-taka/items/80facf8dcf2183dcd280?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/sp-n-taka/items/80facf8dcf2183dcd280?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Wed, 26 Aug 2026 16:34:36 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>ClaudeCode を利用し始めてもうすぐ1年ほどが経ちそうですが、最近悩みがあります。複数セッションを並行で走らせていると、どのセッションが止まっているか分からないこと。そして、作業許諾を求められるたびに内容を確認せずエンターを押す癖がついてしまったことです。 だったら... — Qiita 人気記事 / score: 60 (ClaudeCodeの実用的なセキュリティ監視ツールの紹介)</description>
+</item>
+<item>
+<title>[60] 分散DBってなんだっけ、レプリケーション・シャーディング・分散SQLの解像度をあげたい人のメモ</title>
+<link>https://qiita.com/mo__mo/items/c2206fac86176f3f83de?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/mo__mo/items/c2206fac86176f3f83de?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Wed, 26 Aug 2026 01:25:38 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>「データベースを複数台用意して、処理を分散させれば、たくさんの作業ができて、障害にも強くなるんじゃないか」 分散DBは、データや処理を複数のサーバー、あるいは複数の拠点に配置しながら、多くの仕組みでは、その複雑さをできるだけ隠し、利用者やアプリケーションからはひとつのデータ... — Qiita 人気記事 / score: 60 (分散データベースの基礎概念の整理)</description>
 </item>
 </channel>
 </rss>
