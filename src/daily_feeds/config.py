@@ -1,11 +1,14 @@
 """feeds.yml の読み込みと既定値の補完。"""
 
 from pathlib import Path
+from typing import cast
 
 import yaml
 
+from daily_feeds.models import Config
 
-def load_config(path: Path) -> dict:
+
+def load_config(path: Path) -> Config:
     with open(path, encoding="utf-8") as f:
         cfg = yaml.safe_load(f)
     cfg.setdefault("settings", {})
@@ -21,4 +24,6 @@ def load_config(path: Path) -> dict:
     s.setdefault("feed_title", "daily-feeds")
     s.setdefault("feed_description", "Aggregated tech feeds")
     s.setdefault("user_agent", f"daily-feeds/1.0 (+{s['site_url']})")
-    return cfg
+    # ここまでで必須キーはすべて埋まっている。YAML由来の Any をここで Config として確定させる
+    # (setdefault のまま組み立てるのは、利用者が書いた未知のキーを落とさないため)
+    return cast(Config, cfg)

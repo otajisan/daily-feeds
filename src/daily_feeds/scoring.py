@@ -6,8 +6,10 @@ import random
 import sys
 import time
 from datetime import datetime
+from typing import Any
 
 from daily_feeds.http_status import RETRYABLE_STATUS
+from daily_feeds.models import Config, Item, ScoreResult, State
 
 DEFAULT_SCORE = 50
 SCORE_RETRIES = 3
@@ -106,11 +108,11 @@ def is_retryable(e: Exception) -> bool:
     return any(t in str(e) for t in RETRYABLE_ERROR_HINTS)
 
 
-def parse_score_response(text: str, batch: list[dict]) -> dict[str, dict]:
+def parse_score_response(text: str, batch: list[Item]) -> dict[str, ScoreResult]:
     data = json.loads(text)
     if isinstance(data, dict):  # スキーマを無視して包んで返してきた場合の保険
         data = next((v for v in data.values() if isinstance(v, list)), [])
-    results = {}
+    results: dict[str, ScoreResult] = {}
     for row in data:
         if not isinstance(row, dict):
             continue
@@ -124,7 +126,7 @@ def parse_score_response(text: str, batch: list[dict]) -> dict[str, dict]:
     return results
 
 
-def finish_reason(resp) -> str:
+def finish_reason(resp: Any) -> str:
     """終了理由を返す。候補が無い場合はプロンプト段階でブロックされたとみなす。"""
     block = getattr(getattr(resp, "prompt_feedback", None), "block_reason", None)
     if block:
@@ -135,7 +137,7 @@ def finish_reason(resp) -> str:
         return "NO_CANDIDATES"
 
 
-def gemini_score_batch(client, cfg: dict, batch: list[dict]) -> dict[str, dict]:
+def gemini_score_batch(client: Any, cfg: Config, batch: list[Item]) -> dict[str, ScoreResult]:
     """1バッチをGeminiでスコアリングする。429/5xxは指数バックオフでリトライする。"""
     s = cfg["settings"]
     lines = [
@@ -177,7 +179,7 @@ def gemini_score_batch(client, cfg: dict, batch: list[dict]) -> dict[str, dict]:
     raise last_exc if last_exc else RuntimeError("gemini scoring failed")
 
 
-def make_client():
+def make_client() -> Any:
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
         return None
@@ -191,7 +193,7 @@ def make_client():
 
 
 def score_new_items(
-    items: list[dict], state: dict, cfg: dict, cutoff: datetime, use_gemini: bool
+    items: list[Item], state: State, cfg: Config, cutoff: datetime, use_gemini: bool
 ) -> None:
     """stateに無い記事だけGeminiでスコアリングし、state['items']に書き込む。
 

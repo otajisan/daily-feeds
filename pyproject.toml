@@ -49,3 +49,17 @@ exclude_lines = [
     # スクリプトとして直接叩いたときの入口。エントリポイントは [project.scripts] 側
     'if __name__ == "__main__":',
 ]
+
+[tool.mypy]
+python_version = "3.12"
+warn_return_any = true
+no_implicit_optional = true
+warn_unused_ignores = true
+# 型注釈の無い関数を新たに増やさない。feedparser / google-genai の値を受ける引数だけは
+# スタブが無く実際に Any なので、そう明示している
+disallow_untyped_defs = true
+
+[[tool.mypy.overrides]]
+# どちらも型スタブを配布していない
+module = ["feedparser.*", "google.genai.*"]
+ignore_missing_imports = true

@@ -7,6 +7,8 @@ from email.utils import format_datetime
 from pathlib import Path
 from xml.sax.saxutils import escape
 
+from daily_feeds.models import Config, Item
+
 # XML 1.0 に出力できない文字
 INVALID_XML_CHARS = re.compile(
     "[^\\u0009\\u000a\\u000d\\u0020-\\ud7ff\\ue000-\\ufffd\\U00010000-\\U0010ffff]"
@@ -25,7 +27,7 @@ def rfc822(iso: str) -> str:
 
 
 def build_rss(
-    items: list[dict], cfg: dict, path: Path, title_suffix: str, show_score: bool
+    items: list[Item], cfg: Config, path: Path, title_suffix: str, show_score: bool
 ) -> None:
     s = cfg["settings"]
     now = format_datetime(datetime.now(UTC))
@@ -58,7 +60,7 @@ def build_rss(
     print(f"[info] wrote {path.name} ({len(items)} items)")
 
 
-def build_json(items: list[dict], cfg: dict, path: Path) -> None:
+def build_json(items: list[Item], cfg: Config, path: Path) -> None:
     payload = {
         "title": cfg["settings"]["feed_title"],
         "generated_at": datetime.now(UTC).isoformat(),

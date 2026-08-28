@@ -99,6 +99,19 @@ uv run pytest tests/test_scoring.py -k retryable
 `score_new_items` が失敗をキャッシュしないこと、`parse_score_response` のクランプ、
 `xml_text` の制御文字除去）は、**バグを注入すると落ちること**を確認したうえで置いている。
 
+### 型チェック
+
+```bash
+uv run mypy src
+```
+
+モジュール間で受け渡すデータの形は `src/daily_feeds/models.py` に TypedDict で置いている
+（`Settings` / `Config` / `Feed` / `Item` / `ScoreResult` / `StateEntry` / `State`）。
+実体は dict のままなので実行時の振る舞いは変わらず、キー名の打ち間違いだけが静的に落ちる。
+
+`disallow_untyped_defs` を有効にしているので、新しい関数には型注釈が要る。
+feedparser と google-genai は型スタブを配布していないため、その値を受ける引数だけ `Any` にしている。
+
 ### ブラウザテスト
 
 タイムラインUIの操作テストをヘッドレスChromeで実行する。追加パッケージは不要で、
