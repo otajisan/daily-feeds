@@ -13,7 +13,7 @@ GitHub Pages用の feed.xml / feed-ranked.xml / feed.json を生成する。
 
 import argparse
 import sys
-from datetime import datetime, timedelta, timezone
+from datetime import UTC, datetime, timedelta
 from pathlib import Path
 
 from daily_feeds.config import load_config
@@ -31,10 +31,15 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
     p = argparse.ArgumentParser(description="Aggregate and score RSS/Atom feeds.")
     p.add_argument("--dry-run", action="store_true", help="docs/ と data/state.json を書き換えない")
     p.add_argument(
-        "--no-gemini", action="store_true", help="Gemini呼び出しをせず全件フォールバックスコアにする"
+        "--no-gemini",
+        action="store_true",
+        help="Gemini呼び出しをせず全件フォールバックスコアにする",
     )
     p.add_argument(
-        "--config", type=Path, default=DEFAULT_CONFIG_PATH, help="フィード定義YAML (既定: feeds.yml)"
+        "--config",
+        type=Path,
+        default=DEFAULT_CONFIG_PATH,
+        help="フィード定義YAML (既定: feeds.yml)",
     )
     p.add_argument(
         "--state",
@@ -52,7 +57,7 @@ def main(argv: list[str] | None = None) -> None:
     args = parse_args(argv)
     cfg = load_config(args.config)
     s = cfg["settings"]
-    now = datetime.now(timezone.utc)
+    now = datetime.now(UTC)
     cutoff = now - timedelta(days=s["retention_days"])
 
     items, failures = fetch_all(cfg, now)
@@ -85,7 +90,9 @@ def main(argv: list[str] | None = None) -> None:
 
     newest_first = sorted(merged, key=lambda x: x["published"], reverse=True)
     by_date = newest_first[: s["max_items"]]
-    by_score = sorted(merged, key=lambda x: (x["score"], x["published"]), reverse=True)[: s["max_items"]]
+    by_score = sorted(merged, key=lambda x: (x["score"], x["published"]), reverse=True)[
+        : s["max_items"]
+    ]
     # タイムラインで新着が欠けないよう、JSONは保持期間内をまとめて日付順で出す
     for_json = newest_first[: s["json_max_items"]]
 

@@ -2,7 +2,7 @@
 
 import json
 import re
-from datetime import datetime, timezone
+from datetime import UTC, datetime
 from email.utils import format_datetime
 from pathlib import Path
 from xml.sax.saxutils import escape
@@ -21,12 +21,15 @@ def rfc822(iso: str) -> str:
     try:
         return format_datetime(datetime.fromisoformat(iso))
     except ValueError:
-        return format_datetime(datetime.now(timezone.utc))
+        return format_datetime(datetime.now(UTC))
 
 
-def build_rss(items: list[dict], cfg: dict, path: Path, title_suffix: str, show_score: bool) -> None:
+def build_rss(
+    items: list[dict], cfg: dict, path: Path, title_suffix: str, show_score: bool
+) -> None:
     s = cfg["settings"]
-    now = format_datetime(datetime.now(timezone.utc))
+    now = format_datetime(datetime.now(UTC))
+    self_url = xml_text(s["site_url"] + "/" + path.name)
     parts = [
         '<?xml version="1.0" encoding="UTF-8"?>',
         '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">',
@@ -35,7 +38,7 @@ def build_rss(items: list[dict], cfg: dict, path: Path, title_suffix: str, show_
         f"<link>{xml_text(s['site_url'])}</link>",
         f"<description>{xml_text(s['feed_description'])}</description>",
         f"<lastBuildDate>{now}</lastBuildDate>",
-        f'<atom:link href="{xml_text(s["site_url"] + "/" + path.name)}" rel="self" type="application/rss+xml"/>',
+        f'<atom:link href="{self_url}" rel="self" type="application/rss+xml"/>',
     ]
     for it in items:
         title = f"[{it['score']}] {it['title']}" if show_score else it["title"]
@@ -58,7 +61,7 @@ def build_rss(items: list[dict], cfg: dict, path: Path, title_suffix: str, show_
 def build_json(items: list[dict], cfg: dict, path: Path) -> None:
     payload = {
         "title": cfg["settings"]["feed_title"],
-        "generated_at": datetime.now(timezone.utc).isoformat(),
+        "generated_at": datetime.now(UTC).isoformat(),
         "items": items,
     }
     # 2時間ごとにコミットされるため、機械が読むJSONは詰めて書き出す
