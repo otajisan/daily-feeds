@@ -26,7 +26,9 @@ jobs:
     steps:
       - uses: actions/checkout@v7
 
-      - uses: astral-sh/setup-uv@v10
+      # setup-uv は v7 を最後に「v10」のような可動メジャータグを publish しなくなった。
+      # 実在するのはリリースタグだけなので、正確なバージョンで固定する (更新は #10 の Dependabot に任せる)
+      - uses: astral-sh/setup-uv@v10.0.1
         with:
           enable-cache: true
 
