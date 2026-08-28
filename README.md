@@ -143,4 +143,4 @@ Chromeのパスは自動検出する（macOSの `/Applications` 配下、また�
 - 公開リポジトリで60日間コミットが無いとscheduleは自動停止される(このリポジトリは
   定期コミットが入るため実質問題にならない)
 - Gemini APIの無料枠・レートリミットに注意。`score_batch_size` と実行間隔で調整する
-- Hugging Face Blog / Google DeepMind はフィードに本文が無く、タイトルのみでスコアリングされる
+- Hugging Face Blog / Google DeepMind / Yahoo!ニュース IT はフィードに本文が無く、タイトルのみでスコアリングされる

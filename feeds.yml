@@ -26,6 +26,27 @@ feeds:
     url: https://feed.infoq.com/jp/
     category: tech-ja
 
+  - name: CNET Japan
+    url: https://japan.cnet.com/rss/index.rdf
+    category: tech-ja
+
+  - name: CodeZine
+    url: https://codezine.jp/rss/new/20/index.xml
+    category: tech-ja
+
+  - name: GIGAZINE
+    url: https://gigazine.net/news/rss_2.0/
+    category: tech-ja
+
+  - name: 窓の杜
+    url: https://forest.watch.impress.co.jp/data/rss/1.0/wf/feed.rdf
+    category: tech-ja
+
+  # トピックスなので件数は少なく、本文を持たない(タイトルだけでスコアリングされる)
+  - name: Yahoo!ニュース IT
+    url: https://news.yahoo.co.jp/rss/topics/it.xml
+    category: tech-ja
+
   # --- AI / LLM ---
   - name: OpenAI News
     url: https://openai.com/news/rss.xml
@@ -50,6 +71,32 @@ feeds:
   - name: Latent Space
     url: https://www.latent.space/feed
     category: ai
+
+  # --- ガジェット ---
+  - name: 気になる、記になる…
+    url: https://taisy0.com/feed
+    category: gadget
+
+  - name: iPhone Mania
+    url: https://iphone-mania.jp/feed/
+    category: gadget
+
+  - name: ASCII.jp
+    url: https://ascii.jp/rss.xml
+    category: gadget
+
+  - name: ギズモード・ジャパン
+    url: https://www.gizmodo.jp/feed/index.xml
+    category: gadget
+
+  # --- 音楽 ---
+  - name: Computer Music Japan
+    url: https://computermusic.jp/feed/
+    category: music
+
+  - name: ギター・マガジンWEB
+    url: https://guitarmagazine.jp/feed/
+    category: music
 
 # --- 設定 ---
 settings:
