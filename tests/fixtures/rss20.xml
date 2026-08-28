@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Sample RSS</title>
+  <link>https://example.com/</link>
+  <description>RSS 2.0 のサンプル</description>
+  <item>
+    <title>最初の記事</title>
+    <link>https://example.com/posts/1?utm_source=rss</link>
+    <description>&lt;p&gt;HTMLタグを含む要約。&lt;/p&gt;</description>
+    <pubDate>Wed, 14 Jan 2026 12:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>二番目の記事</title>
+    <link>https://example.com/posts/2</link>
+    <description>短い要約</description>
+    <pubDate>Thu, 15 Jan 2026 03:30:00 GMT</pubDate>
+  </item>
+</channel>
+</rss>

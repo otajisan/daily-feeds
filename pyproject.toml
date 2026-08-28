@@ -33,3 +33,19 @@ target-version = "py312"
 [tool.ruff.lint]
 # BLE は既存の `# noqa: BLE001` と整合させるために入れている
 select = ["E", "F", "W", "I", "UP", "B", "SIM", "RUF", "C4", "ARG", "BLE"]
+
+[tool.ruff.lint.per-file-ignores]
+# テストダブルは本物と同じシグネチャを持つ必要があり、pytest の fixture は
+# 引数名で要求する。どちらも「使っていない引数」に見えるが消せない
+"tests/**" = ["ARG"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "--cov=daily_feeds --cov-report=term-missing --cov-fail-under=95"
+
+[tool.coverage.report]
+exclude_lines = [
+    "pragma: no cover",
+    # スクリプトとして直接叩いたときの入口。エントリポイントは [project.scripts] 側
+    'if __name__ == "__main__":',
+]

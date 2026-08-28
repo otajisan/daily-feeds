@@ -84,6 +84,23 @@ uv run daily-feeds --no-gemini    # スコアリングせず全件50で動作確
 
 ## テスト
 
+### ユニットテスト
+
+```bash
+uv run pytest                    # カバレッジ計測込み (閾値95%を下回ると失敗する)
+uv run pytest tests/test_scoring.py -k retryable
+```
+
+`tests/conftest.py` の autouse fixture が**テスト中のネットワークアクセスを遮断**している。
+うっかり実フィードやGeminiを叩くテストを書くと、CIが外部サービスの機嫌で落ちるようになるため。
+フィードは `tests/fixtures/`（RSS 2.0 / Atom / 壊れたXML）を読ませる。
+
+過去に実際バグがあった箇所（`entry_datetime` のUTC解釈、`is_retryable` のコネクション断判定、
+`score_new_items` が失敗をキャッシュしないこと、`parse_score_response` のクランプ、
+`xml_text` の制御文字除去）は、**バグを注入すると落ちること**を確認したうえで置いている。
+
+### ブラウザテスト
+
 タイムラインUIの操作テストをヘッドレスChromeで実行する。追加パッケージは不要で、
 Node の組み込み `WebSocket` / `fetch` から Chrome DevTools Protocol を直接叩いている。
 
