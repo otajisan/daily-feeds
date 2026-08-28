@@ -234,4 +234,7 @@ def score_new_items(
             scored += 1
         if i < len(batches) - 1:
             time.sleep(SCORE_BATCH_PAUSE_SEC)
-    print(f"[info] scored {scored}/{len(todo)} new items in {len(batches)} batches ({failed} fell back)")
+    print(
+        f"[info] scored {scored}/{len(todo)} new items in {len(batches)} batches "
+        f"({failed} fell back)"
+    )

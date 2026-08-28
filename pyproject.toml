@@ -25,3 +25,11 @@ daily-feeds = "daily_feeds.cli:main"
 [build-system]
 requires = ["uv_build>=0.12.7,<0.13.0"]
 build-backend = "uv_build"
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+
+[tool.ruff.lint]
+# BLE は既存の `# noqa: BLE001` と整合させるために入れている
+select = ["E", "F", "W", "I", "UP", "B", "SIM", "RUF", "C4", "ARG", "BLE"]

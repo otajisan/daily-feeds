@@ -7,7 +7,7 @@ import re
 import socket
 import sys
 import time
-from datetime import datetime, timezone
+from datetime import UTC, datetime
 from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 
 import feedparser
@@ -54,7 +54,7 @@ def entry_datetime(entry, now: datetime) -> datetime | None:
     for attr in ("published_parsed", "updated_parsed"):
         t = getattr(entry, attr, None)
         if t:
-            dt = datetime.fromtimestamp(calendar.timegm(t), tz=timezone.utc)
+            dt = datetime.fromtimestamp(calendar.timegm(t), tz=UTC)
             # 未来日付の記事が上位に居座らないようクランプする
             return min(dt, now)
     return None
