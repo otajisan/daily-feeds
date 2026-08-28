@@ -25,6 +25,12 @@ jobs:
     timeout-minutes: 20
     steps:
       - uses: actions/checkout@v7
+        with:
+          # main の ruleset が required status checks を課しているため、GITHUB_TOKEN による
+          # 直 push は GH013 で弾かれる (集約コミットには事前のチェック結果が無い)。
+          # GitHub Actions 統合は user 所有リポジトリでは bypass actor にできない (422) ので、
+          # bypass に入れてある deploy key で push する
+          ssh-key: ${{ secrets.AGGREGATE_DEPLOY_KEY }}
 
       # setup-uv は v7 を最後に「v10」のような可動メジャータグを publish しなくなった。
       # 実在するのはリリースタグだけなので、正確なバージョンで固定する (更新は #10 の Dependabot に任せる)

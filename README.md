@@ -50,6 +50,9 @@ RSS/Atom由来の文字列はすべて `textContent` で挿入し、リンクは
   生成物を `docs/` にコミットしてPagesへ反映。失敗時はトラッキングIssueに追記する
 - `.github/workflows/ci.yml` — PRとmainへのpushで lint / 型チェック / ユニットテスト /
   ブラウザテストの4ジョブを並列に走らせる
+- main には ruleset で上記4チェックを必須にしている。集約コミットは bot の直 push なので
+  そのままでは弾かれる。deploy key (`AGGREGATE_DEPLOY_KEY`) で push し、ruleset の
+  bypass に Deploy keys を入れて通している
 
 ### 堅牢性まわりの挙動
 
