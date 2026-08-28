@@ -53,6 +53,8 @@ RSS/Atom由来の文字列はすべて `textContent` で挿入し、リンクは
 - main には ruleset で上記4チェックを必須にしている。集約コミットは bot の直 push なので
   そのままでは弾かれる。deploy key (`AGGREGATE_DEPLOY_KEY`) で push し、ruleset の
   bypass に Deploy keys を入れて通している
+- `.github/dependabot.yml` — アクションと Python 依存 (uv) の更新を週次でチェックする。
+  minor/patch はまとめて1本のPRにし、major だけ個別に出す
 
 ### 堅牢性まわりの挙動
 

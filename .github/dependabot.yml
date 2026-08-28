@@ -1,0 +1,50 @@
+version: 2
+
+updates:
+  # ワークフローが参照するアクション。actions/checkout@v4 のまま Node 20 非推奨の警告が出るまで
+  # 気づけなかった件 (#10) がここの本命
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+      time: "09:00"
+      timezone: "Asia/Tokyo"
+    labels:
+      - "ci"
+      - "tooling"
+    assignees:
+      - "otajisan"
+    commit-message:
+      prefix: "chore"
+    groups:
+      # minor/patch はまとめて1本にする。major は個別PRのまま残し、破壊的変更を単独でレビューする
+      actions-minor-patch:
+        patterns:
+          - "*"
+        update-types:
+          - "minor"
+          - "patch"
+
+  # uv は Dependabot が正式にサポートしているエコシステムで、pyproject.toml と uv.lock の
+  # 両方を更新してくれる。ロックが一緒に上がるので CI の `uv sync --locked` がそのまま通る
+  - package-ecosystem: "uv"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+      time: "09:00"
+      timezone: "Asia/Tokyo"
+    labels:
+      - "tooling"
+    assignees:
+      - "otajisan"
+    commit-message:
+      prefix: "chore"
+    groups:
+      python-minor-patch:
+        patterns:
+          - "*"
+        update-types:
+          - "minor"
+          - "patch"
