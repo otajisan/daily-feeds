@@ -19,7 +19,9 @@ dev = [
     "types-PyYAML>=6.0",
 ]
 
-[tool.uv]
-# 現状は scripts/aggregate.py を直接動かすアプリケーションで、配布物を作らない。
-# src レイアウトへ移す際 (#4) に package = true とエントリポイントを入れる。
-package = false
+[project.scripts]
+daily-feeds = "daily_feeds.cli:main"
+
+[build-system]
+requires = ["uv_build>=0.12.7,<0.13.0"]
+build-backend = "uv_build"
