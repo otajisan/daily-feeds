@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 28 Aug 2026 21:25:31 +0000</lastBuildDate>
+<lastBuildDate>Fri, 28 Aug 2026 22:21:28 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] [AINews] NVIDIA buys HuggingFace for $13B, as OpenAI publishes their HF incident retro</title>
@@ -69,6 +69,14 @@
 <pubDate>Tue, 25 Aug 2026 15:00:00 +0000</pubDate>
 <category>Next.js Blog</category>
 <description>Next.js is moving the August security release forward to August 25, 2026. — Next.js Blog / score: 90 (Next.jsセキュリティリリースの日程前倒し)</description>
+</item>
+<item>
+<title>[85] Just a rumour of a bug is enough to find a security exploit these days</title>
+<link>https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/</guid>
+<pubDate>Fri, 28 Aug 2026 22:12:02 +0000</pubDate>
+<category>Simon Willison</category>
+<description>Just a rumour of a bug is enough to find a security exploit these days Anil Madhavapeddy is a professor of computer science at Cambridge and a core maintainer of the OCaml compiler. In this somewhat alarming post he reports that security issues in OCaml projects are seeing evidence of attempted exploits within minutes of patches being shared for discussion: This normally takes a few days and a release within a week or two is reasonable. Within about ten minutes (!) this website was fielding prob — Simon Willison / score: 85 (バグの噂からセキュリティ脆弱性が発見される傾向。)</description>
 </item>
 <item>
 <title>[85] 中国製AIモデル「GLM-5.3」が約束通りオープンモデルとして無償公開される、Claude Fable 5やGPT-5.6 Solに匹敵する高性能モデル</title>
@@ -706,9 +714,9 @@
 <title>[70] 購入した電子書籍をGeminiに読ませて質問できる「Expert Intelligence」が登場、10万冊超に対応</title>
 <link>https://gigazine.net/news/20260828-expert-intelligence-gemini/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260828-expert-intelligence-gemini/</guid>
-<pubDate>Fri, 28 Aug 2026 05:50:49 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>文書・音声・動画をAIで分析して内容を整理してまとめてくれるGoogleのツール「Gemini Notebook(旧：NotebookLM)」の新しい取り組みとして、購入済みの書籍を取り込んで質問したり議論したりできる「Expert Intelligence」が発表されました。 Expert Intelligence in Gemini Notebook https://blog.google/innovation-an... — はてなブックマーク テクノロジー / score: 70 (電子書籍をAIに読ませる新機能の登場)</description>
+<pubDate>Fri, 28 Aug 2026 05:15:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>文書・音声・動画をAIで分析して内容を整理してまとめてくれるGoogleのツール「Gemini Notebook(旧：NotebookLM)」の新しい取り組みとして、購入済みの書籍を取り込んで質問したり議論したりできる「Expert Intelligence」が発表されました。 続きを読む... — GIGAZINE / score: 70 (電子書籍をAIに読ませる新機能の登場)</description>
 </item>
 <item>
 <title>[70] ドコモ、eSIMの開始手続きで障害　店頭・オンラインともに影響</title>
@@ -797,14 +805,6 @@
 <pubDate>Wed, 26 Aug 2026 16:16:25 +0000</pubDate>
 <category>Latent Space</category>
 <description>Lovable is branching out from AI-powered web app creation and into MCP-powered ‘capabilities’. We talk to CTO Fabian Hedin. — Latent Space / score: 70 (MCPとAIエージェントによるSaaSの未来。)</description>
-</item>
-<item>
-<title>[70] MCPの新ロードマップ公開、今後はAIエージェント対応、HTTP通信への統一、アイデンティティ、よりよいデベロッパー体験などに注力</title>
-<link>https://www.publickey1.jp/blog/26/mcpaihttp.html</link>
-<guid isPermaLink="true">https://www.publickey1.jp/blog/26/mcpaihttp.html</guid>
-<pubDate>Wed, 26 Aug 2026 15:29:13 +0000</pubDate>
-<category>Publickey</category>
-<description>Linux Foundation傘下でMCP（Model Context Protocol）の仕様策定を行っている「Agentic AI Foundation（AAIF）」は、今後のMCPの進化について、その方向性を示す新たなロードマップを... — Publickey / score: 70 (AIエージェント向けMCPのロードマップ策定)</description>
 </item>
 </channel>
 </rss>

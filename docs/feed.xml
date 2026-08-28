@@ -4,8 +4,16 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 28 Aug 2026 21:25:31 +0000</lastBuildDate>
+<lastBuildDate>Fri, 28 Aug 2026 22:21:28 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Just a rumour of a bug is enough to find a security exploit these days</title>
+<link>https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/</guid>
+<pubDate>Fri, 28 Aug 2026 22:12:02 +0000</pubDate>
+<category>Simon Willison</category>
+<description>Just a rumour of a bug is enough to find a security exploit these days Anil Madhavapeddy is a professor of computer science at Cambridge and a core maintainer of the OCaml compiler. In this somewhat alarming post he reports that security issues in OCaml projects are seeing evidence of attempted exploits within minutes of patches being shared for discussion: This normally takes a few days and a release within a week or two is reasonable. Within about ten minutes (!) this website was fielding prob — Simon Willison / score: 85 (バグの噂からセキュリティ脆弱性が発見される傾向。)</description>
+</item>
 <item>
 <title>AWS Transform now in scope for FedRAMP Class C</title>
 <link>https://aws.amazon.com/about-aws/whats-new/2026/08/aws-transform-fedramp-class-c/</link>
@@ -167,20 +175,20 @@
 <description>キングジムの「防災テント（BTN100-KH）」がAmazonで割引対象。参考価格12,100円から31％オフの8,382円で販売中。縦横2wayで使える1人用の防災テントで、折りたためばコンパクトに収納できる。非常時に備えて用意しておきたい防災用品が、1万円以下。 — ASCII.jp / score: 15 (防災グッズのECセール情報)</description>
 </item>
 <item>
-<title>AI覇権の巻き返しをねらうPerplexity、クラウド不要のローカルAIを発表</title>
-<link>https://www.gizmodo.jp/article/perplexity-launches-local-ai-model-that-will-run-on-your-gpu-instead-of-the-cloud/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/perplexity-launches-local-ai-model-that-will-run-on-your-gpu-instead-of-the-cloud/</guid>
-<pubDate>Fri, 28 Aug 2026 13:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>ローカルAIの始まりになるのか、否か？最近AI業界ではやや存在感が薄れていたPerplexityですが、これまでクラウド上で処理していたAIエージェント「Computer」を自分のPC上で動かせるようにした新バージョン「Portable C… — ギズモード・ジャパン / score: 65 (PerplexityのローカルAI発表という技術動向)</description>
-</item>
-<item>
 <title>8,990円で本当にいいんだな!? 寝室をシアターにするプロジェクターで睡眠に革命を</title>
 <link>https://www.gizmodo.jp/article/amazon-nextrage-projector-nx1/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/amazon-nextrage-projector-nx1/</guid>
 <pubDate>Fri, 28 Aug 2026 13:00:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>この割引、この値段、本当にいいんだな！メーカーがどんな割引きをしようとも、セールだから気合入ってんな〜、くらいに思っています。それがAmazonのセール。でもさ、このプロジェクター…、元値3万6800円。それが76％OFFで8,990円はさ… — ギズモード・ジャパン / score: 20 (一般向けガジェットのセール情報)</description>
+</item>
+<item>
+<title>AI覇権の巻き返しをねらうPerplexity、クラウド不要のローカルAIを発表</title>
+<link>https://www.gizmodo.jp/article/perplexity-launches-local-ai-model-that-will-run-on-your-gpu-instead-of-the-cloud/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/perplexity-launches-local-ai-model-that-will-run-on-your-gpu-instead-of-the-cloud/</guid>
+<pubDate>Fri, 28 Aug 2026 13:00:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>ローカルAIの始まりになるのか、否か？最近AI業界ではやや存在感が薄れていたPerplexityですが、これまでクラウド上で処理していたAIエージェント「Computer」を自分のPC上で動かせるようにした新バージョン「Portable C… — ギズモード・ジャパン / score: 65 (PerplexityのローカルAI発表という技術動向)</description>
 </item>
 <item>
 <title>Testcontainersで実DBを使う並列テスト基盤を設計する - エムスリーテックブログ</title>
@@ -221,6 +229,14 @@
 <pubDate>Fri, 28 Aug 2026 12:30:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>環境省 南アルプス国立公園がInstagramに投稿した動画がすさまじいことになっています。映っているのはおびただしい数のシカ。ハンターや有識者を含む関係者が衝撃を受けたそうです。このシカの大群が確認されたのは、長野県にある双児山・ササ草原… — ギズモード・ジャパン / score: 10 (自然環境に関するニュースで技術者向けではない)</description>
+</item>
+<item>
+<title>Claude Codeで開発以外の業務も爆速化しよう！</title>
+<link>https://speakerdeck.com/minorun365/claude-code-de-kaihatsu-igai-no-gyoumu-mo-ka-shiyou</link>
+<guid isPermaLink="true">https://speakerdeck.com/minorun365/claude-code-de-kaihatsu-igai-no-gyoumu-mo-ka-shiyou</guid>
+<pubDate>Fri, 28 Aug 2026 12:11:02 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Claude Codeで開発以外の業務も爆速化しよう！ ［みのるん式］ビジネスパーソンのためのClaude Code仕事術 https://www.amazon.co.jp/dp/4297159392 — はてなブックマーク テクノロジー / score: 45 (AIツールを活用した業務効率化の解説書紹介。)</description>
 </item>
 <item>
 <title>GoogleがAIボットによる検索結果スクレイピングを防ぐためパススルーURLとして「google.com/goto」の展開を開始</title>
@@ -789,22 +805,6 @@
 <pubDate>Fri, 28 Aug 2026 07:28:35 +0000</pubDate>
 <category>Qiita 人気記事</category>
 <description>はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です 日々、プログラミング学習や実務の中で、つまずきやすいポイントや 考え方を整理して発信しています。 PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。 ▶コーポレートサイト 「AIに全... — Qiita 人気記事 / score: 35 (AI活用に関するエッセイや働き方の考察)</description>
-</item>
-<item>
-<title>面接で「前職への不満」を聞かれたら。無理にきれいな退職理由をつくらなくても大丈夫です</title>
-<link>https://qiita.com/m__ikeda/items/b96813bc8a482b3d0074?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/m__ikeda/items/b96813bc8a482b3d0074?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Fri, 28 Aug 2026 07:25:01 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>自己紹介 こんにちは。株式会社PRUMで採用広報を担当している池田です。 未経験からIT業界を目指している方と話していると、かなりよく聞く共通した悩みがあります。そういった内容を皆さんにシェアしていくので、役立てていただけたらと思います😊 もしIT業界に興味があるけど、... — Qiita 人気記事 / score: 25 (IT業界の面接対策に関するキャリア記事)</description>
-</item>
-<item>
-<title>IT業界で皆知ってる「クラウド」「AWS」、分かったふりやめて先輩に聞いてみた</title>
-<link>https://qiita.com/prumnn/items/d155a4ac10477d1eb41f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/prumnn/items/d155a4ac10477d1eb41f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Fri, 28 Aug 2026 07:21:15 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>はじめに 会社でしょっちゅう飛び交う「クラウド」という言葉に、分かったふりで相槌を打ち続けていたぷらむんが、思い切ってたぬき先輩に「クラウドって結局何なんですか?」と聞いてみたら、モヤモヤの正体がようやく整理できた話です。 会社で自称マスコットキャラをやってるのに... — Qiita 人気記事 / score: 30 (クラウド技術の初心者向け入門解説)</description>
 </item>
 </channel>
 </rss>
