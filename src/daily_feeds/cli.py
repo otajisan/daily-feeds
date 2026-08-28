@@ -18,6 +18,7 @@ from pathlib import Path
 
 from daily_feeds.config import load_config
 from daily_feeds.fetching import fetch_all
+from daily_feeds.models import Item
 from daily_feeds.output import build_json, build_rss
 from daily_feeds.scoring import DEFAULT_SCORE, score_new_items
 from daily_feeds.state import load_state, prune_state, save_state
@@ -68,7 +69,8 @@ def main(argv: list[str] | None = None) -> None:
         print(f"[warn] {len(failures)} feed(s) failed: {', '.join(failures)}", file=sys.stderr)
 
     # 重複排除(同一linkは最初の1件)
-    seen, unique = set(), []
+    seen: set[str] = set()
+    unique: list[Item] = []
     for it in items:
         if it["id"] not in seen:
             seen.add(it["id"])
@@ -79,7 +81,7 @@ def main(argv: list[str] | None = None) -> None:
     score_new_items(unique, state, cfg, cutoff, use_gemini=not args.no_gemini)
 
     # スコアをマージし、保持期間でフィルタ
-    merged = []
+    merged: list[Item] = []
     for it in unique:
         cached = state["items"].get(it["id"], {})
         it["score"] = cached.get("score", DEFAULT_SCORE)

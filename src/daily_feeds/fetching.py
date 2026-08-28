@@ -8,11 +8,13 @@ import socket
 import sys
 import time
 from datetime import UTC, datetime
+from typing import Any, Protocol
 from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 
 import feedparser
 
 from daily_feeds.http_status import RETRYABLE_STATUS
+from daily_feeds.models import Config, Item
 
 FETCH_TIMEOUT_SEC = 20
 FETCH_RETRIES = 2
@@ -25,6 +27,18 @@ TAG_RE = re.compile(r"<[^>]+>")
 WS_RE = re.compile(r"\s+")
 
 socket.setdefaulttimeout(FETCH_TIMEOUT_SEC)
+
+
+class ParsedFeed(Protocol):
+    """feedparser.parse の戻り値のうち、このモジュールが実際に触る部分。
+
+    feedparser は型スタブを配布していないので、使う範囲だけを自分で宣言する。
+    """
+
+    entries: list[Any]
+    bozo: bool
+
+    def get(self, key: str, default: Any = None) -> Any: ...
 
 
 def normalize_url(url: str) -> str:
@@ -46,7 +60,7 @@ def item_id(link: str) -> str:
     return hashlib.sha1(normalize_url(link).encode("utf-8")).hexdigest()[:16]
 
 
-def entry_datetime(entry, now: datetime) -> datetime | None:
+def entry_datetime(entry: Any, now: datetime) -> datetime | None:
     """feedparserの *_parsed はUTCのstruct_timeなので calendar.timegm で変換する。
 
     time.mktime だとローカルタイムゾーンぶんずれる(JSTなら9時間)。
@@ -68,7 +82,7 @@ def strip_html(text: str, limit: int = 500) -> str:
     return text[:limit]
 
 
-def entry_summary(entry) -> str:
+def entry_summary(entry: Any) -> str:
     """summary を優先しつつ、内容が薄い場合は content(Atom本文)にフォールバックする。"""
     summary = strip_html(entry.get("summary", ""))
     if len(summary) >= 80:
@@ -80,13 +94,13 @@ def entry_summary(entry) -> str:
     return summary
 
 
-def fetch_feed(url: str, agent: str) -> tuple[object | None, str]:
+def fetch_feed(url: str, agent: str) -> tuple[ParsedFeed | None, str]:
     """フィードを取得する。取得できなければ (None, 理由)。一時的な失敗はリトライする。"""
     note = ""
     delay = FETCH_BACKOFF_SEC
     for attempt in range(FETCH_RETRIES + 1):
         try:
-            parsed = feedparser.parse(url, agent=agent)
+            parsed: ParsedFeed = feedparser.parse(url, agent=agent)
         except Exception as e:  # noqa: BLE001
             note = f"{type(e).__name__}: {e}"
         else:
@@ -104,8 +118,8 @@ def fetch_feed(url: str, agent: str) -> tuple[object | None, str]:
     return None, note or "no entries"
 
 
-def fetch_all(cfg: dict, now: datetime) -> tuple[list[dict], list[str]]:
-    items: list[dict] = []
+def fetch_all(cfg: Config, now: datetime) -> tuple[list[Item], list[str]]:
+    items: list[Item] = []
     failures: list[str] = []
     agent = cfg["settings"]["user_agent"]
     for feed in cfg.get("feeds", []):
