@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 28 Aug 2026 01:42:23 +0000</lastBuildDate>
+<lastBuildDate>Fri, 28 Aug 2026 02:50:45 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] [AINews] NVIDIA buys HuggingFace for $13B, as OpenAI publishes their HF incident retro</title>
@@ -303,14 +303,6 @@
 <description>Alibaba CloudのQwenチームは2026年8月14日、AIモデル「Qwen3.8-27B」のオープンウェイトを公開した。画像や動画を扱える270億パラメータのマルチモーダルモデルで、Apache License 2.0が適用される。 — gihyo.jp / score: 75 (Alibabaのオープンウェイトモデル公開)</description>
 </item>
 <item>
-<title>[70] 「LibreOffice 26.8」、半年に1回の大規模更新で組版・文字体系・Office互換性を集中改善／生成AI機能は「あえて搭載しない」、初の寄付バナーも</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2135953.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2135953.html</guid>
-<pubDate>Thu, 27 Aug 2026 10:45:50 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>「LibreOffice 26.8」、半年に1回の大規模更新で組版・文字体系・Office互換性を集中改善／生成AI機能は「あえて搭載しない」、初の寄付バナーも — はてなブックマーク テクノロジー / score: 70 (LibreOfficeの大規模アップデート情報)</description>
-</item>
-<item>
 <title>[70] LibreOffice 26.8リリース、AI機能は「あえて搭載しない」</title>
 <link>https://gihyo.jp/article/2026/08/daily-linux-260827?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/08/daily-linux-260827?utm_source=feed</guid>
@@ -517,14 +509,6 @@
 <pubDate>Thu, 27 Aug 2026 12:59:16 +0000</pubDate>
 <category>Google DeepMind</category>
 <description>Piloting the world's first double-blind AI evaluations — Google DeepMind / score: 65 (AI評価手法における新しい試みの報告)</description>
-</item>
-<item>
-<title>[65] 「Backlogの値上げエグすぎ」SNSで悲鳴　ユーザー無制限プラン、月最低1.6万円→3.6万円に</title>
-<link>https://www.itmedia.co.jp/news/article/2608/27/2000000862/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2608/27/2000000862/</guid>
-<pubDate>Thu, 27 Aug 2026 08:20:45 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>ヌーラボは27年1月から有料4プランを3プランに統合。エコノミー（月額2万1000円、ユーザー上限15人）、ビジネス（月額3万6300円、ユーザー無制限）、プロフェッショナル（月額10万円、同）の3つにする。 現行のプレミアム（月額2万7000円）はビジネス（月額3万6300円）に、プラチナ（月額7万5000円）はプロフェッショナ... — はてなブックマーク テクノロジー / score: 65 (開発ツールの大幅値上げに関する業界の注目ニュース)</description>
 </item>
 <item>
 <title>[65] GitHub - SenteLabsAI/OpenExecutive: AI-powered virtual executive team — a single coherent executive persona backed by 8 specialist Claude agents (FastAPI + Next.js).</title>
@@ -805,6 +789,22 @@
 <pubDate>Wed, 26 Aug 2026 01:25:38 +0000</pubDate>
 <category>Qiita 人気記事</category>
 <description>「データベースを複数台用意して、処理を分散させれば、たくさんの作業ができて、障害にも強くなるんじゃないか」 分散DBは、データや処理を複数のサーバー、あるいは複数の拠点に配置しながら、多くの仕組みでは、その複雑さをできるだけ隠し、利用者やアプリケーションからはひとつのデータ... — Qiita 人気記事 / score: 60 (分散データベースの基礎概念の整理)</description>
+</item>
+<item>
+<title>[60] Granite 4.2 LLMs: How They're Built</title>
+<link>https://huggingface.co/blog/ibm-granite/granite-4-2</link>
+<guid isPermaLink="true">https://huggingface.co/blog/ibm-granite/granite-4-2</guid>
+<pubDate>Tue, 25 Aug 2026 15:14:14 +0000</pubDate>
+<category>Hugging Face Blog</category>
+<description> — Hugging Face Blog / score: 60 (Granite 4.2 LLMの構築手法解説)</description>
+</item>
+<item>
+<title>[60] マイクロサービス間の認可伝搬をどう解くか？独自実装と IETF Transaction Tokens を見比べてみた</title>
+<link>https://zenn.dev/layerx/articles/e01465a15e79c2</link>
+<guid isPermaLink="true">https://zenn.dev/layerx/articles/e01465a15e79c2</guid>
+<pubDate>Tue, 25 Aug 2026 05:00:05 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>こんにちは。アカウント基盤開発部でエンジニアをしている tkmt (たくまつ) です。 今回は、IETF で標準化が進んでいる Transaction Tokens について調査してまとめてみました。というのも、この Transaction Tokens が解こうとしている課題が、バクラクが抱えていた課題とほとんど同じだったためです。 実はバクラクでは、同じ課題を解くための仕組みを自作しています。バクラクで実装された仕組みは、ドラフトで検討されている内容とどこが同じで、どこが違うのか読み比べてみたく調査しました。 解きたかった課題 バクラクには、プロダクトを跨いで認可を行いたいケース... — Zenn トレンド / score: 60 (マイクロサービス間の認可伝搬と標準化技術の比較)</description>
 </item>
 </channel>
 </rss>
