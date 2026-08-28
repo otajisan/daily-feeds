@@ -72,6 +72,73 @@ feeds:
     url: https://www.latent.space/feed
     category: ai
 
+  # Anthropic はニュースのRSSを出していないので、プラットフォームのリリースノートを見る
+  - name: Claude リリースノート
+    url: https://platform.claude.com/docs/en/release-notes/feed.xml
+    category: ai
+
+  - name: Gemini (Google Blog)
+    url: https://blog.google/products/gemini/rss/
+    category: ai
+
+  # --- OSS / 言語・フレームワーク (リリースと公式ブログ) ---
+  # GitHub の releases.atom はリリースノート本文がそのまま入る
+  - name: Node.js リリース
+    url: https://github.com/nodejs/node/releases.atom
+    category: oss
+
+  - name: React リリース
+    url: https://github.com/facebook/react/releases.atom
+    category: oss
+
+  # Next.js は releases.atom だと canary が毎日流れるので、公式ブログを見る
+  - name: Next.js Blog
+    url: https://nextjs.org/feed.xml
+    category: oss
+
+  # Kotlin も releases.atom はビルドタグが大量に出るため公式ブログ側
+  - name: Kotlin Blog
+    url: https://blog.jetbrains.com/kotlin/feed/
+    category: oss
+
+  - name: Inside Java
+    url: https://inside.java/feed.xml
+    category: oss
+
+  - name: Spring Blog
+    url: https://spring.io/blog.atom
+    category: oss
+
+  - name: Spring Boot リリース
+    url: https://github.com/spring-projects/spring-boot/releases.atom
+    category: oss
+
+  - name: Python Insider
+    url: https://blog.python.org/feeds/posts/default
+    category: oss
+
+  - name: CPython リリース
+    url: https://github.com/python/cpython/releases.atom
+    category: oss
+
+  # --- クラウド ---
+  # What's New は更新の本流だが件数が多い(実測 約11件/日)
+  - name: AWS What's New
+    url: https://aws.amazon.com/about-aws/whats-new/recent/feed/
+    category: cloud
+
+  - name: AWS News Blog
+    url: https://aws.amazon.com/blogs/aws/feed/
+    category: cloud
+
+  - name: Google Cloud Blog
+    url: https://cloudblog.withgoogle.com/rss/
+    category: cloud
+
+  - name: Google Cloud リリースノート
+    url: https://cloud.google.com/feeds/gcp-release-notes.xml
+    category: cloud
+
   # --- ガジェット ---
   - name: 気になる、記になる…
     url: https://taisy0.com/feed
@@ -105,8 +172,8 @@ settings:
   # 各出力RSSフィードの最大件数
   max_items: 100
   # feed.json に載せる最大件数(タイムラインUIのデータ源。日付順・保持期間内をまとめて出す)。
-  # 購読23本での保持期間内は約500件。400のままだと新しい順に丸められて古い方が落ちる
-  json_max_items: 600
+  # 購読38本での保持期間内は約660件。上限に当たると新しい順に丸められて古い方が落ちる
+  json_max_items: 900
   # 1回のGemini呼び出しでスコアリングする記事数
   score_batch_size: 20
   # 使用するGeminiモデル (gemini-2.5-flash は新規ユーザーには提供終了。
