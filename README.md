@@ -48,6 +48,8 @@ RSS/Atom由来の文字列はすべて `textContent` で挿入し、リンクは
   30日より古いエントリは自動で削除される
 - `.github/workflows/aggregate.yml` — 2時間ごと + 手動 + `feeds.yml`/`src/`変更時に実行し、
   生成物を `docs/` にコミットしてPagesへ反映。失敗時はトラッキングIssueに追記する
+- `.github/workflows/ci.yml` — PRとmainへのpushで lint / 型チェック / ユニットテスト /
+  ブラウザテストの4ジョブを並列に走らせる
 
 ### 堅牢性まわりの挙動
 
@@ -83,6 +85,9 @@ uv run daily-feeds --no-gemini    # スコアリングせず全件50で動作確
 `uv.lock` は必ずコミットする（CI は `uv sync --locked` でロックの鮮度ごと検証する）。
 
 ## テスト
+
+以下はローカルで叩くコマンドをそのままCIでも実行している(`.github/workflows/ci.yml`)。
+PRを出すと4ジョブが並列に走り、mainへのpushでも同じものが走る。
 
 ### ユニットテスト
 

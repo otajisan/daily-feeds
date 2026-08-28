@@ -1,0 +1,82 @@
+name: CI
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+# 同じブランチの古い実行は用済み。PR に追い push したら前の実行は畳む
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+# 検証するだけなので読み取りだけあればいい
+permissions:
+  contents: read
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v7
+
+      # 実在するのはリリースタグだけなので正確なバージョンで固定する (aggregate.yml と同じ理由)
+      - uses: astral-sh/setup-uv@v10.0.1
+        with:
+          enable-cache: true
+
+      # ruff / mypy / pytest は dev グループなので --no-dev にはしない。
+      # --locked はロックが pyproject.toml と一致していることまで検証する
+      - run: uv sync --locked
+
+      - run: uv run --locked ruff check .
+
+      # 整形漏れは lint 違反と分けて出す。ログのどちらが赤いかで直し方が決まる
+      - run: uv run --locked ruff format --check .
+
+  typecheck:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: astral-sh/setup-uv@v10.0.1
+        with:
+          enable-cache: true
+
+      - run: uv sync --locked
+
+      - run: uv run --locked mypy src
+
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: astral-sh/setup-uv@v10.0.1
+        with:
+          enable-cache: true
+
+      - run: uv sync --locked
+
+      # カバレッジの計測と閾値 (95%) は pyproject.toml の addopts 側に入っている
+      - run: uv run --locked pytest
+
+  browser:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v7
+
+      # verify.mjs は Node 組み込みの WebSocket を使う。ランナーのプリインストール版が
+      # いつ何になるかに引きずられないよう、バージョンを明示する
+      - uses: actions/setup-node@v7
+        with:
+          node-version: "24"
+
+      # Chrome は ubuntu-latest にプリインストール済みで、run.sh が PATH から見つける。
+      # 検証対象は docs/ にコミットされている実際の feed.json
+      - run: tests/browser/run.sh
