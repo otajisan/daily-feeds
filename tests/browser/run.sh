@@ -50,14 +50,17 @@ cleanup() {
 }
 trap cleanup EXIT
 
-# 指定URLが応答するまで待つ
+# 指定URLが 2xx を返すまで待つ。404 でも fetch は解決するので res.ok まで見る
 wait_for() {
   node -e '
     const url = process.argv[1];
     const label = process.argv[2];
     (async () => {
       for (let i = 0; i < 80; i++) {
-        try { await fetch(url); process.exit(0); } catch {}
+        try {
+          const res = await fetch(url);
+          if (res.ok) process.exit(0);
+        } catch {}
         await new Promise((r) => setTimeout(r, 250));
       }
       console.error("timeout waiting for " + label + " (" + url + ")");
@@ -65,6 +68,13 @@ wait_for() {
     })();
   ' "$1" "$2"
 }
+
+# 既存の Chrome が CDP ポートを掴んでいると、そちらを操作してしまい
+# 開発者の実プロファイルで localStorage.clear() を撃つことになる
+if node -e 'fetch(process.argv[1]).then(() => process.exit(0), () => process.exit(1))' "${CDP_URL}/json/version" 2>/dev/null; then
+  echo "ポート ${CDP_PORT} で既に何かが待ち受けています。CDP_PORT を変えて実行してください。" >&2
+  exit 1
+fi
 
 echo "静的サーバを起動: ${PAGE_URL} (docs/)"
 python3 -m http.server "$PORT" --bind 127.0.0.1 --directory "$ROOT/docs" >/dev/null 2>&1 &
