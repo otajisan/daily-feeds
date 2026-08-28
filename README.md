@@ -75,7 +75,20 @@ uv run python scripts/aggregate.py --no-gemini    # スコアリングせず全�
 ```
 
 依存を追加するときは `uv add <パッケージ>`、開発用なら `uv add --dev <パッケージ>`。
-`uv.lock` は必ずコミットする（CI は `uv sync --frozen` でこのロックを使う）。
+`uv.lock` は必ずコミットする（CI は `uv sync --locked` でロックの鮮度ごと検証する）。
+
+## テスト
+
+タイムラインUIの操作テストをヘッドレスChromeで実行する。追加パッケージは不要で、
+Node の組み込み `WebSocket` / `fetch` から Chrome DevTools Protocol を直接叩いている。
+
+```bash
+tests/browser/run.sh                              # docs/ を配信してChromeを起動し検証まで実行
+SCREENSHOT_DIR=/tmp/shots tests/browser/run.sh    # スクリーンショットも保存する
+```
+
+Chromeのパスは自動検出する（macOSの `/Applications` 配下、または `google-chrome` / `chromium`）。
+見つからない場合は `CHROME` 環境変数で指定する。ポートは `PORT` / `CDP_PORT` で変更できる。
 
 ## 注意事項
 
