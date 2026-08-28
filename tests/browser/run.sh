@@ -46,7 +46,13 @@ cleanup() {
   # Chromeが終わりきる前に消すとプロファイルが書き戻されて rm が失敗する
   [ -n "$CHROME_PID" ] && wait "$CHROME_PID" 2>/dev/null || true
   [ -n "$SERVER_PID" ] && wait "$SERVER_PID" 2>/dev/null || true
-  rm -rf "$PROFILE"
+  # 親を待っても、子プロセス(zygote等)がまだ profile に書いていることがある。
+  # 数回リトライし、それでも残るなら諦める。一時ディレクトリなので実害は無い一方、
+  # ここで失敗すると trap の終了ステータスがそのままスクリプトの失敗になってしまう
+  for _ in 1 2 3 4 5; do
+    rm -rf "$PROFILE" 2>/dev/null && break
+    sleep 0.3
+  done
 }
 trap cleanup EXIT
 
