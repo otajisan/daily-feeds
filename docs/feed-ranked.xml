@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sat, 29 Aug 2026 14:07:52 +0000</lastBuildDate>
+<lastBuildDate>Sat, 29 Aug 2026 16:09:02 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] [AINews] NVIDIA buys HuggingFace for $13B, as OpenAI publishes their HF incident retro</title>
@@ -101,14 +101,6 @@
 <pubDate>Fri, 28 Aug 2026 22:12:02 +0000</pubDate>
 <category>Simon Willison</category>
 <description>Just a rumour of a bug is enough to find a security exploit these days Anil Madhavapeddy is a professor of computer science at Cambridge and a core maintainer of the OCaml compiler. In this somewhat alarming post he reports that security issues in OCaml projects are seeing evidence of attempted exploits within minutes of patches being shared for discussion: This normally takes a few days and a release within a week or two is reasonable. Within about ten minutes (!) this website was fielding prob — Simon Willison / score: 85 (バグの噂からセキュリティ脆弱性が発見される傾向。)</description>
-</item>
-<item>
-<title>[85] htmx 4.0.0 has been released!</title>
-<link>https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released</link>
-<guid isPermaLink="true">https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released</guid>
-<pubDate>Fri, 28 Aug 2026 16:24:02 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>In addition, the following changes were made: Most error events collapse into htmx:error. HTTP error responses fire htmx:response:error. The htmx:xhr:* events are removed. htmx 4 uses fetch(). The htmx:validation:* events are removed in favor of native browser form validation. The full table is i... — はてなブックマーク テクノロジー / score: 85 (htmxのメジャーアップデートと破壊的変更)</description>
 </item>
 <item>
 <title>[85] 中国製AIモデル「GLM-5.3」が約束通りオープンモデルとして無償公開される、Claude Fable 5やGPT-5.6 Solに匹敵する高性能モデル</title>
@@ -805,6 +797,14 @@
 <pubDate>Wed, 26 Aug 2026 16:16:25 +0000</pubDate>
 <category>Latent Space</category>
 <description>Lovable is branching out from AI-powered web app creation and into MCP-powered ‘capabilities’. We talk to CTO Fabian Hedin. — Latent Space / score: 70 (MCPとAIエージェントによるSaaSの未来。)</description>
+</item>
+<item>
+<title>[70] MCPの新ロードマップ公開、今後はAIエージェント対応、HTTP通信への統一、アイデンティティ、よりよいデベロッパー体験などに注力</title>
+<link>https://www.publickey1.jp/blog/26/mcpaihttp.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/mcpaihttp.html</guid>
+<pubDate>Wed, 26 Aug 2026 15:29:13 +0000</pubDate>
+<category>Publickey</category>
+<description>Linux Foundation傘下でMCP（Model Context Protocol）の仕様策定を行っている「Agentic AI Foundation（AAIF）」は、今後のMCPの進化について、その方向性を示す新たなロードマップを... — Publickey / score: 70 (AIエージェント向けMCPのロードマップ策定)</description>
 </item>
 </channel>
 </rss>
