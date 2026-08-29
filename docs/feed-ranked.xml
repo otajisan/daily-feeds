@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sat, 29 Aug 2026 20:08:44 +0000</lastBuildDate>
+<lastBuildDate>Sat, 29 Aug 2026 22:08:53 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] [AINews] NVIDIA buys HuggingFace for $13B, as OpenAI publishes their HF incident retro</title>
@@ -311,20 +311,20 @@
 <description> — CodeZine / score: 80 (主要ランタイムNode.jsのLTS新機能リリース)</description>
 </item>
 <item>
-<title>[80] ローカルLLMを直接実行できるマイコンボード「Arduino VENTUNO Q」予約販売開始 | gihyo.jp</title>
-<link>https://gihyo.jp/article/2026/08/arduino-ventuno-q</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/08/arduino-ventuno-q</guid>
-<pubDate>Thu, 27 Aug 2026 23:10:23 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Arduinoは2026年8月25日、40TOPSの性能を発揮するNPUを備え、Qwen 3、Gemma 4、Qwen 3 VLMなどのローカルLLMを直接実行できるマイコンボード「Arduino VENTUNO Q」を発表、同社の正規販売店を通じて予約販売を開始した。 Arduino VENTUNO Q https://www.arduino.cc/product-ventuno-q/ The wait is over! Meet Arduino V... — はてなブックマーク テクノロジー / score: 80 (ローカルLLM対応マイコンボードの登場)</description>
-</item>
-<item>
 <title>[80] Gemini Omni 1.1 Flash lets you build with more control</title>
 <link>https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/</link>
 <guid isPermaLink="true">https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/</guid>
 <pubDate>Thu, 27 Aug 2026 16:11:32 +0000</pubDate>
 <category>Google DeepMind</category>
 <description> — Google DeepMind / score: 80 (Geminiの新モデルに関するアップデート)</description>
+</item>
+<item>
+<title>[80] ローカルLLMを直接実行できるマイコンボード「Arduino VENTUNO Q」予約販売開始</title>
+<link>https://gihyo.jp/article/2026/08/arduino-ventuno-q?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/08/arduino-ventuno-q?utm_source=feed</guid>
+<pubDate>Thu, 27 Aug 2026 05:42:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Arduinoは2026年8月25日、40TOPSの性能を発揮するNPUを備え、Qwen 3、Gemma 4、Qwen 3 VLMなどのローカルLLMを直接実行できるマイコンボード「Arduino VENTUNO Q」を発表、同社の正規販売店を通じて予約販売を開始した。 — gihyo.jp / score: 80 (ローカルLLM対応マイコンボードの登場)</description>
 </item>
 <item>
 <title>[80] 2026-08-26, Version 24.20.0 'Krypton' (LTS), @aduh95</title>
@@ -559,14 +559,6 @@
 <description>Compose Multiplatform 1.12.0 is out! This version brings new tooling for AI assistants, improvements to web resource management, and finer control over desktop window states. Here are the highlights of this release: For a complete overview of the changes, check out What’s new in Compose Multiplatform 1.12.0 or the release notes on GitHub. Get Started […] — Kotlin Blog / score: 75 (Compose Multiplatform 1.12.0リリース)</description>
 </item>
 <item>
-<title>[75] アクセスキーこわい やめかたと漏らさない工夫</title>
-<link>https://qiita.com/sassssan68/items/e239e408476522641de8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/sassssan68/items/e239e408476522641de8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Wed, 26 Aug 2026 11:11:57 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>AWS CLI を使うのに、アクセスキーを発行していませんか？ 私も昔はそうでした。便利なんですよね、アクセスキー。 一度 aws configure で設定すれば、あとはずっと使えます。 でも、この便利さの裏に、ちょっとこわい話があります。 漏らせば高額な請求、情報流出、... — Qiita 人気記事 / score: 75 (AWSアクセスキーの危険性と安全な管理のベストプラクティス)</description>
-</item>
-<item>
 <title>[75] ChatGPTの内蔵ブラウザーがWebMCPに対応、Webサイトが公開するツールを「サイトツール」として利用可能に ——10日間のWebMCP Challengeも開催</title>
 <link>https://gihyo.jp/article/2026/08/chatgpt-app-browser-support-webmcp?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/08/chatgpt-app-browser-support-webmcp?utm_source=feed</guid>
@@ -727,14 +719,6 @@
 <description>NTTドコモは8月28日、eSIM対応機種でeSIMの利用開始手続きがしづらい事象が発生していると発表した。発生は同日午前11時23分ごろで、現在も続いている。午後1時15分時点の第2報でも、原因と復旧の見込みはいずれも「確認中」としている。 — CNET Japan / score: 70 (通信キャリアの大規模な通信・手続き障害)</description>
 </item>
 <item>
-<title>[70] Claude Code の Auto mode を解剖する ― 誰が、どんなルールで許可を出しているのか</title>
-<link>https://qiita.com/tatsuya582/items/cf74c9b6fc9c370e67e6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/tatsuya582/items/cf74c9b6fc9c370e67e6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Fri, 28 Aug 2026 01:49:20 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>はじめに Claude Code の Auto mode では、「このコマンドを実行していいか」の判定をユーザーの代わりに別のモデルがやっています。では、そのモデルはどんな指示を受けて判定しているのでしょうか。この記事では、公式ドキュメントと Anthropic のエンジ... — Qiita 人気記事 / score: 70 (Claude Codeの自動化機能の内部構造解説)</description>
-</item>
-<item>
 <title>[70] MacBook Pro 128GB でローカル LLM がついに実用になった ─ Qwen3.8 Flash Next 実測</title>
 <link>https://zenn.dev/jtechjapan_pub/articles/local-llm-qwen-flash-next-eval</link>
 <guid isPermaLink="true">https://zenn.dev/jtechjapan_pub/articles/local-llm-qwen-flash-next-eval</guid>
@@ -805,6 +789,22 @@
 <pubDate>Wed, 26 Aug 2026 15:29:13 +0000</pubDate>
 <category>Publickey</category>
 <description>Linux Foundation傘下でMCP（Model Context Protocol）の仕様策定を行っている「Agentic AI Foundation（AAIF）」は、今後のMCPの進化について、その方向性を示す新たなロードマップを... — Publickey / score: 70 (AIエージェント向けMCPのロードマップ策定)</description>
+</item>
+<item>
+<title>[70] 2026-08-26, Version 26.8.0 (Current), @aduh95</title>
+<link>https://github.com/nodejs/node/releases/tag/v26.8.0</link>
+<guid isPermaLink="true">https://github.com/nodejs/node/releases/tag/v26.8.0</guid>
+<pubDate>Wed, 26 Aug 2026 14:28:49 +0000</pubDate>
+<category>Node.js リリース</category>
+<description>Notable Changes [ 74234ee30e ] - (SEMVER-MINOR) benchmark : add --analyze mode to compare.js (James M Snell) #65416 [ 4232997fa2 ] - crypto : update root certificates to NSS 3.126 (Node.js GitHub Bot) #65495 [ f0531f1c87 ] - (SEMVER-MINOR) crypto : enable SIV and GCM-SIV modes in Cipher/Decipher APIs (Filip Skokan) #63411 [ 3f4b80ebb5 ] - diagnostics_channel : mark TracingChannel as stable (Abdelrahman Awad) #64525 [ 753033c110 ] - (SEMVER-MINOR) lib,src : improve histogram implementation (James — Node.js リリース / score: 70 (Node.js Currentの機能追加・更新)</description>
+</item>
+<item>
+<title>[70] EVE Online: The Move to Python 3 Begins!</title>
+<link>https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/</guid>
+<pubDate>Tue, 25 Aug 2026 22:59:30 +0000</pubDate>
+<category>Simon Willison</category>
+<description>EVE Online: The Move to Python 3 Begins! EVE Online has been one of the most interesting case studies in Python at scale for over twenty years now. They've been running on Stackless Python since their launch in 2003, and their last major upgrade was 16 years ago, to Stackless Python 2.7 in 2010 . Their upgrade to Python 3 will start using the futurize script against 2.4 million lines of code, followed by careful manual review of the ~20,000 places where Python 2 and 3 behavior differ - for examp — Simon Willison / score: 70 (EVE OnlineのPython 3移行事例)</description>
 </item>
 </channel>
 </rss>
