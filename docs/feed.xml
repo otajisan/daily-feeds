@@ -4,7 +4,7 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sat, 29 Aug 2026 16:09:02 +0000</lastBuildDate>
+<lastBuildDate>Sat, 29 Aug 2026 18:10:06 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>最大16万9000円オフ！ パソコンショップSEVENが8月30日限定のBTOセール</title>
@@ -189,6 +189,14 @@
 <pubDate>Sat, 29 Aug 2026 08:00:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>キーホルダーだと思った？スマホから場所を突き止められる忘れ物防止タグ（トラッカー）。どれもが小型化だ！ 薄型化だ！と目立たなくする方向性に進化していますが、そこで別の進化を見せてくれたのがUGREEN。なんとサッカーボール型キーホルダーが、… — ギズモード・ジャパン / score: 15 (一般向けのユニークなガジェット紹介のため)</description>
+</item>
+<item>
+<title>The HUGS Stack — Hypermedia, Unix, Go, SQLite - Housecat</title>
+<link>https://housecat.com/blog/the-hugs-stack-hypermedia-unix-go-sqlite</link>
+<guid isPermaLink="true">https://housecat.com/blog/the-hugs-stack-hypermedia-unix-go-sqlite</guid>
+<pubDate>Sat, 29 Aug 2026 07:49:16 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>When a software need or idea arises, it’s now easier to chat with an agent to spin up a full-blown app than it is to capture notes or make a planning doc for later. Even when it is YOLO or disposable software, it’s nice to build on a simple and well-designed shared foundation instead of always re... — はてなブックマーク テクノロジー / score: 45 (新しい技術スタックの提案に関する興味深い解説)</description>
 </item>
 <item>
 <title>巷で流行りの「VR睡眠」って知ってる？ “V睡”専用のまくらが登場です</title>
@@ -797,14 +805,6 @@
 <pubDate>Fri, 28 Aug 2026 22:00:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8gn instances, powered by the latest-generation AWS Graviton4 processors, are available in the AWS Europe (Paris) region. The C8gn instances provide up to 30% better compute performance than Graviton3-based Amazon EC2 C7gn instances. Amazon EC2 C8gn instances feature the latest 6th generation AWS Nitro Cards, and offer up to 600 Gbps network bandwidth, the highest network bandwidth among network optimized EC2 instances. Take advantage of — AWS What's New / score: 50 (AWS Graviton4インスタンスのリージョン拡大)</description>
-</item>
-<item>
-<title>Amazon Bedrock AgentCore Memory now supports fine-grained access control</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/08/agentcorememory-fine-grained-access-control</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/08/agentcorememory-fine-grained-access-control</guid>
-<pubDate>Fri, 28 Aug 2026 20:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Amazon Bedrock AgentCore Memory now supports fine-grained access control (FGAC), enabling you to enforce per-user and per-tenant memory isolation through AgentCore Gateway without building custom authorization logic. With FGAC, you can front your Memory resource with an AgentCore Gateway configured for OAuth (JWT) authentication and attach Cedar policies that restrict access based on the authenticated caller's identity. You can enforce that each user only accesses their own actor's data, restric — AWS What's New / score: 55 (Amazon Bedrockのアクセス制御機能追加)</description>
 </item>
 </channel>
 </rss>
