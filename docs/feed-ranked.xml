@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sat, 29 Aug 2026 06:13:48 +0000</lastBuildDate>
+<lastBuildDate>Sat, 29 Aug 2026 08:10:58 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] [AINews] NVIDIA buys HuggingFace for $13B, as OpenAI publishes their HF incident retro</title>
@@ -77,6 +77,14 @@
 <pubDate>Sat, 29 Aug 2026 04:00:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 85 (AnthropicによるAIと物理機器連携の新標準公開)</description>
+</item>
+<item>
+<title>[85] GitHub - godaddy/sshenc: Eliminate plaintext keys: Hardware-backed SSH and Git security via Secure Enclave and TPM 2.0</title>
+<link>https://github.com/godaddy/sshenc</link>
+<guid isPermaLink="true">https://github.com/godaddy/sshenc</guid>
+<pubDate>Sat, 29 Aug 2026 03:49:14 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Hardware-backed SSH key management, with first-class git identity and commit signing. sshenc generates SSH keys inside the Secure Enclave (macOS), TPM 2.0 (Windows/Linux), or a software fallback and serves them via a standard SSH agent. Private key material never leaves the hardware — it can't be... — はてなブックマーク テクノロジー / score: 85 (ハードウェアベースのSSH/Gitセキュリティ向上ツール)</description>
 </item>
 <item>
 <title>[85] Just a rumour of a bug is enough to find a security exploit these days</title>
@@ -173,14 +181,6 @@
 <pubDate>Thu, 27 Aug 2026 08:50:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>脆弱性対策情報ポータルサイト「JVN」で8月27日、脆弱性レポート「JVN#18593874」が公開された。Windows版「楽天Koboデスクトップアプリ」のインストーラーに脆弱性（CVE-2026-68955）が存在するという。 — 窓の杜 / score: 85 (楽天Koboアプリのインストーラーに深刻な脆弱性。)</description>
-</item>
-<item>
-<title>[85] 米オープンAIのAI暴走、エージェント同士が予期せぬ通信の末にハッキング＝調査報告書 - BBCニュース</title>
-<link>https://www.bbc.com/japanese/articles/cy7z8zp7m3no</link>
-<guid isPermaLink="true">https://www.bbc.com/japanese/articles/cy7z8zp7m3no</guid>
-<pubDate>Thu, 27 Aug 2026 05:43:41 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>画像説明, 米オープンAIのサム・アルトマン最高経営責任者（CEO）。同社の人工知能（AI）モデルの一部がセキュリティーテスト中に暴走し、スタートアップ企業をハッキング攻撃した問題で厳しい目が向けられている — はてなブックマーク テクノロジー / score: 85 (AIエージェントの暴走とハッキングに関する報告)</description>
 </item>
 <item>
 <title>[85] The Hugging Face incident and the road ahead</title>
@@ -413,6 +413,14 @@
 <pubDate>Sun, 16 Aug 2026 22:00:39 +0000</pubDate>
 <category>Simon Willison</category>
 <description>Friday's big release was Qwen 3.8 27B , an Apache 2 licensed 27B parameter vision-capable LLM from Alibaba's Qwen research lab. I've been looking forward to this one: 27B is an excellent size for running a model on a reasonably specced laptop, and its predecessor Qwen 3.6 27B was impressive. Qwen's self-reported benchmarks for this model are eye-opening. They show a boost from both Qwen 3.6 27B and the closed-weight Qwen 3.7-Plus, which was one of Qwen's strongest models of any size as recently  — Simon Willison / score: 80 (Qwen 3.8 27Bのリリースと性能レビュー。)</description>
+</item>
+<item>
+<title>[75] OpenAIがCursorとの提携・モデル提供の終了を通達、「SpaceXがOpenAIの利用規約に従って技術を使うという確信が持てないため」</title>
+<link>https://gigazine.net/news/20260829-openai-decided-to-end-partnership-with-cursor/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20260829-openai-decided-to-end-partnership-with-cursor/</guid>
+<pubDate>Sat, 29 Aug 2026 06:45:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>OpenAIがAIコーディングツール・Cursorとの提携関係を終了し、モデル提供を2026年11月12日で終えることを明らかにしました。理由はCursorがSpaceXに買収されたことです。 続きを読む... — GIGAZINE / score: 75 (OpenAIとCursorの提携終了という重要ニュース)</description>
 </item>
 <item>
 <title>[75] 偽のApple Pay課金で電話へ誘導する詐欺〜iPhoneでの見分け方と対処法</title>
@@ -695,12 +703,12 @@
 <description>Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index That's the same score as GPT-5.6 Luna (max), and just one point behind GLM-5.2 (max) and DeepSeek V4 Pro 0813 (max) - that GLM is 753B and that DeepSeek is 1.7T parameters , and Luna is size unknown but presumably a whole lot bigger than 27B. Qwen 3.8 27B is a truly astonishing model . Via Hacker News Tags: ai , generative-ai , llms , qwen , ai-in-china , artificial-analysis — Simon Willison / score: 75 (Qwen 3.8 27Bの性能評価スコア。)</description>
 </item>
 <item>
-<title>[75] Z.ai、AIモデル「GLM-5.3」を発表 ——コーディングと脆弱性解析を強化、重みは2週間後に公開予定</title>
-<link>https://gihyo.jp/article/2026/08/glm-5.3?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/08/glm-5.3?utm_source=feed</guid>
-<pubDate>Sat, 15 Aug 2026 06:46:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Z.aiは2026年8月14日、大規模言語モデル「GLM-5.3」を発表した。GLM-5.2と同じ7430億パラメータ規模の基盤モデルを使い、事後学習だけで複雑なコーディングや長時間タスクの性能を高めたという。 — gihyo.jp / score: 75 (コーディング強化AIモデルGLM-5.3の発表)</description>
+<title>[70] メモリー高騰、サーバー不足招く　中小のマイクロソフトOS更新に支障 - 日本経済新聞</title>
+<link>https://www.nikkei.com/article/DGXZQOUC135CR0T10C26A7000000/</link>
+<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUC135CR0T10C26A7000000/</guid>
+<pubDate>Sat, 29 Aug 2026 03:47:50 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>法人向けの汎用サーバーが不足している。納期が延びているほか価格の上昇も止まらず、中堅・中小企業を中心にシステムの開発や更新をすることが難しくなっている。中核部品であるメモリーの価格高騰が主因で、影響は今後一段と広がる恐れがある。「サーバーの納期が通常期の3カ月程度から半年以上に延びている」。国内IT... — はてなブックマーク テクノロジー / score: 70 (メモリ高騰によるサーバー不足とITインフラへの影響)</description>
 </item>
 <item>
 <title>[70] AIに同じミスを繰り返させない「ハーネスエンジニアリング」とは？</title>
@@ -717,14 +725,6 @@
 <pubDate>Fri, 28 Aug 2026 07:00:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 70 (Amazon EKSの認証局自動ローテーション)</description>
-</item>
-<item>
-<title>[70] Anthropic、AIで物理機器を制御する共通規格「MHS」発表　将来オープンソース化へ</title>
-<link>https://www.itmedia.co.jp/news/article/2608/28/2000000897/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2608/28/2000000897/</guid>
-<pubDate>Fri, 28 Aug 2026 06:42:56 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>米Anthropicは8月27日（現地時間）、AIエージェントが物理的な機器を安全に操作するための共通仕様「Model Hardware Standard」（MHS）のリサーチプレビューを開始したと発表した。まずは科学研究機関と先端製造分野の一部パートナーに提供する。MHSは、Anthropicと米HHMIジャネリア・リサーチ・キャンパスの共同作業か... — はてなブックマーク テクノロジー / score: 70 (AIによる物理制御の新しい共通規格の発表)</description>
 </item>
 <item>
 <title>[70] 購入した電子書籍をGeminiに読ませて質問できる「Expert Intelligence」が登場、10万冊超に対応</title>
@@ -757,14 +757,6 @@
 <pubDate>Thu, 27 Aug 2026 20:06:17 +0000</pubDate>
 <category>Zenn トレンド</category>
 <description>株式会社ジェイテックジャパン CTOの高丘 @tomohisaです。 昨年 MacBook Pro を買うときに、ローカルの AI が開発に使えたらいいなと思って、奮発して 128GB のモデルにしました。それから時々、開発にしっかり使えるレベルになっているかを確かめるためにいろいろなモデルを試してきたのですが、サブスクでやっている作業を置き換えられるものには当たりませんでした。35B や 27B のような小さいモデルか、逆に 256GB ないと動かない大きなモデルが多く、80GB から 100GB のあたりで能力の高いものがなかなか見つかりません。そこに Qwen3.8 Flash N... — Zenn トレンド / score: 70 (高スペックMacでのローカルLLM実用検証)</description>
-</item>
-<item>
-<title>[70] Microsoft・Amazon・Googleが中国製高性能モデル「Kimi K3」を自社でサービス展開するべく協議中との報道、開発元のMoonshot AIは30％の収益分配を打診</title>
-<link>https://gigazine.net/news/20260827-kimi-k3-microsoft-amazon-google/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260827-kimi-k3-microsoft-amazon-google/</guid>
-<pubDate>Thu, 27 Aug 2026 07:46:27 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>中国企業のMoonshot AIは高性能AIモデル「Kimi K3」を2026年7月にリリースしました。このKimi K3のホスティングを巡ってMoonshot AIがMicrosoft・Amazon・Googleと協議していることがロイターによって報じられています。 EXCLUSIVE: China's Moonshot in talks with Microsoft, Amazon, Google over K3 revenue sharing,... — はてなブックマーク テクノロジー / score: 70 (中国製AIモデルの海外展開を巡る動向)</description>
 </item>
 <item>
 <title>[70] LibreOffice 26.8リリース、AI機能は「あえて搭載しない」</title>
@@ -805,6 +797,14 @@
 <pubDate>Thu, 27 Aug 2026 00:45:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>The Document Foundation（TDF）は8月26日（中央ヨーロッパ時間）、オープンソースのオフィス統合環境「LibreOffice 26.8」を公開した。2026年2月リリースの「LibreOffice 26.2」に続く半年ごとのメジャーバージョンアップで、 組版の品質 、 世界の文字体系への対応 、ほかのオフィススイートとの 相互運用性 の3点にフォーカスしたリリースになっているという。 — 窓の杜 / score: 70 (LibreOfficeの大規模アップデート情報)</description>
+</item>
+<item>
+<title>[70] Intelligent transcription with Gemini 3.5 Transcribe</title>
+<link>https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/</link>
+<guid isPermaLink="true">https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/</guid>
+<pubDate>Wed, 26 Aug 2026 17:01:00 +0000</pubDate>
+<category>Google DeepMind</category>
+<description>Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe. — Google DeepMind / score: 70 (Geminiの新音声認識モデルの発表)</description>
 </item>
 </channel>
 </rss>
