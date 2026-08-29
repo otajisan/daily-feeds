@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sat, 29 Aug 2026 08:10:58 +0000</lastBuildDate>
+<lastBuildDate>Sat, 29 Aug 2026 10:08:03 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] [AINews] NVIDIA buys HuggingFace for $13B, as OpenAI publishes their HF incident retro</title>
@@ -415,6 +415,14 @@
 <description>Friday's big release was Qwen 3.8 27B , an Apache 2 licensed 27B parameter vision-capable LLM from Alibaba's Qwen research lab. I've been looking forward to this one: 27B is an excellent size for running a model on a reasonably specced laptop, and its predecessor Qwen 3.6 27B was impressive. Qwen's self-reported benchmarks for this model are eye-opening. They show a boost from both Qwen 3.6 27B and the closed-weight Qwen 3.7-Plus, which was one of Qwen's strongest models of any size as recently  — Simon Willison / score: 80 (Qwen 3.8 27Bのリリースと性能レビュー。)</description>
 </item>
 <item>
+<title>[75] Node.js 26.8.1をリリース、バージョン誤表示の不具合を修正</title>
+<link>https://codezine.jp/article/detail/29492</link>
+<guid isPermaLink="true">https://codezine.jp/article/detail/29492</guid>
+<pubDate>Sat, 29 Aug 2026 08:00:00 +0000</pubDate>
+<category>CodeZine</category>
+<description> — CodeZine / score: 75 (Node.jsのマイナーアップデート・不具合修正)</description>
+</item>
+<item>
 <title>[75] OpenAIがCursorとの提携・モデル提供の終了を通達、「SpaceXがOpenAIの利用規約に従って技術を使うという確信が持てないため」</title>
 <link>https://gigazine.net/news/20260829-openai-decided-to-end-partnership-with-cursor/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260829-openai-decided-to-end-partnership-with-cursor/</guid>
@@ -469,14 +477,6 @@
 <pubDate>Fri, 28 Aug 2026 03:20:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>トランプ政権による半導体に対する新たな包括的関税の計画を、ニュースサイト・POLITICOが関係者情報として報じました。テック業界は「アメリカを破滅させる可能性がある」と警告しているとのことです。 続きを読む... — GIGAZINE / score: 75 (半導体新関税の動向とテック業界への影響)</description>
-</item>
-<item>
-<title>[75] AMD製GPUのAI処理能力を向上させる「ROCm 10」がリリースされる＆AI開発用のスキルなどを整備した「ROCm.AI」も登場</title>
-<link>https://gigazine.net/news/20260828-amd-rocm-10/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260828-amd-rocm-10/</guid>
-<pubDate>Fri, 28 Aug 2026 01:57:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>AMDはNVIDIAのCUDAに対抗するGPU計算処理ソフトウェアスタックとしてROCmを展開しています。2026年8月27日には「ROCm 10」がリリースされました。AI駆動型開発プラットフォーム「ROCm.AI」が目玉機能とされているほか、ComfyUIでの画像・動画生成を高速化する最適化も実施されています。 続きを読む... — GIGAZINE / score: 75 (AMDのAI向けROCm 10のリリース)</description>
 </item>
 <item>
 <title>[75] AIエージェント向けのWebと実行基盤は、人間向けと何が違うのか──Cloudflareが示すAgentic Webの4要件</title>
