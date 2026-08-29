@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 28 Aug 2026 22:21:28 +0000</lastBuildDate>
+<lastBuildDate>Sat, 29 Aug 2026 00:21:56 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] [AINews] NVIDIA buys HuggingFace for $13B, as OpenAI publishes their HF incident retro</title>
@@ -77,6 +77,14 @@
 <pubDate>Fri, 28 Aug 2026 22:12:02 +0000</pubDate>
 <category>Simon Willison</category>
 <description>Just a rumour of a bug is enough to find a security exploit these days Anil Madhavapeddy is a professor of computer science at Cambridge and a core maintainer of the OCaml compiler. In this somewhat alarming post he reports that security issues in OCaml projects are seeing evidence of attempted exploits within minutes of patches being shared for discussion: This normally takes a few days and a release within a week or two is reasonable. Within about ten minutes (!) this website was fielding prob — Simon Willison / score: 85 (バグの噂からセキュリティ脆弱性が発見される傾向。)</description>
+</item>
+<item>
+<title>[85] htmx 4.0.0 has been released!</title>
+<link>https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released</link>
+<guid isPermaLink="true">https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released</guid>
+<pubDate>Fri, 28 Aug 2026 16:24:02 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>In addition, the following changes were made: Most error events collapse into htmx:error. HTTP error responses fire htmx:response:error. The htmx:xhr:* events are removed. htmx 4 uses fetch(). The htmx:validation:* events are removed in favor of native browser form validation. The full table is i... — はてなブックマーク テクノロジー / score: 85 (htmxのメジャーアップデートと破壊的変更)</description>
 </item>
 <item>
 <title>[85] 中国製AIモデル「GLM-5.3」が約束通りオープンモデルとして無償公開される、Claude Fable 5やGPT-5.6 Solに匹敵する高性能モデル</title>
@@ -250,9 +258,9 @@
 <title>[80] Cloudflareが1.1.1.1のDNSキャッシュを数十バイト単位で削り込んで100TBのメモリを節約</title>
 <link>https://gigazine.net/news/20260828-cloudflare-dns-cache-optimization/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260828-cloudflare-dns-cache-optimization/</guid>
-<pubDate>Fri, 28 Aug 2026 07:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>CloudflareがパブリックDNSリゾルバー「1.1.1.1」などで使われているDNSキャッシュのデータ構造を見直し、システム全体で約100TBのメモリを削減したと発表しました。ベンチマークではキャッシュ1件当たりのメモリ使用量が953バイトから420バイトへと56％減少し、メモリを減らしながらキャッシュへの書き込みや読み出しも高速化したとのことです。 続きを読む... — GIGAZINE / score: 80 (Cloudflareによる1.1.1.1のメモリ100TB削減)</description>
+<pubDate>Fri, 28 Aug 2026 08:34:09 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>CloudflareがパブリックDNSリゾルバー「1.1.1.1」などで使われているDNSキャッシュのデータ構造を見直し、システム全体で約100TBのメモリを削減したと発表しました。ベンチマークではキャッシュ1件当たりのメモリ使用量が953バイトから420バイトへと56％減少し、メモリを減らしながらキャッシュへの書き込みや読み出しも... — はてなブックマーク テクノロジー / score: 80 (Cloudflareによる1.1.1.1のメモリ100TB削減)</description>
 </item>
 <item>
 <title>[80] OpenAI、AnthropicやAWS、Google、Microsoft、Oracleなど100以上の企業・団体とサイバー防御強化を求める公開書簡を発表</title>
@@ -391,6 +399,14 @@
 <description>Friday's big release was Qwen 3.8 27B , an Apache 2 licensed 27B parameter vision-capable LLM from Alibaba's Qwen research lab. I've been looking forward to this one: 27B is an excellent size for running a model on a reasonably specced laptop, and its predecessor Qwen 3.6 27B was impressive. Qwen's self-reported benchmarks for this model are eye-opening. They show a boost from both Qwen 3.6 27B and the closed-weight Qwen 3.7-Plus, which was one of Qwen's strongest models of any size as recently  — Simon Willison / score: 80 (Qwen 3.8 27Bのリリースと性能レビュー。)</description>
 </item>
 <item>
+<title>[75] OpenAI、独自AI推論チップ「Jalapeño」の初期性能を発表</title>
+<link>https://codezine.jp/article/detail/29490</link>
+<guid isPermaLink="true">https://codezine.jp/article/detail/29490</guid>
+<pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
+<category>CodeZine</category>
+<description> — CodeZine / score: 75 (OpenAIの独自AIチップ開発のニュース)</description>
+</item>
+<item>
 <title>[75] AMD、ROCm 10リリースとAI開発基盤「ROCm.AI」の一般提供を開始</title>
 <link>https://codezine.jp/article/detail/29508</link>
 <guid isPermaLink="true">https://codezine.jp/article/detail/29508</guid>
@@ -477,14 +493,6 @@
 <pubDate>Thu, 27 Aug 2026 15:55:49 +0000</pubDate>
 <category>Publickey</category>
 <description>DuckDBの開発元であるDuckLabsは、来月（2026年9月）初旬にAWSの子会社となる予定であることを発表しました（DuckLabsの発表。AWSの発表） Today, @ducklabs_com is joining @awscl... — Publickey / score: 75 (DuckDBのAWS買収は大きな業界ニュース)</description>
-</item>
-<item>
-<title>[75] Amazonがオープンソースデータベース「DuckDB」の開発元DuckLabsを買収、DuckDBは引き続きオープンソースのまま</title>
-<link>https://gigazine.net/news/20260827-amazon-acquire-ducklabs/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260827-amazon-acquire-ducklabs/</guid>
-<pubDate>Thu, 27 Aug 2026 10:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>Amazonがオンライン分析処理(OLAP)に特化したオープンソースの高性能組み込み型SQLデータベース管理システムであるDuckDBの開発を主導するDuckLabsを買収する最終契約を締結したと発表しました。 続きを読む... — GIGAZINE / score: 75 (AmazonによるDuckDB開発元買収とOSSの動向)</description>
 </item>
 <item>
 <title>[75] AIエージェント連携し暴走 OpenAI</title>
@@ -797,14 +805,6 @@
 <pubDate>Wed, 26 Aug 2026 17:01:00 +0000</pubDate>
 <category>Google DeepMind</category>
 <description>Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe. — Google DeepMind / score: 70 (Geminiの新音声認識モデルの発表)</description>
-</item>
-<item>
-<title>[70] Lovable CTO: The Future of SaaS Is Apps That Agents Can Use</title>
-<link>https://www.latent.space/p/lovable-future-of-saas</link>
-<guid isPermaLink="true">https://www.latent.space/p/lovable-future-of-saas</guid>
-<pubDate>Wed, 26 Aug 2026 16:16:25 +0000</pubDate>
-<category>Latent Space</category>
-<description>Lovable is branching out from AI-powered web app creation and into MCP-powered ‘capabilities’. We talk to CTO Fabian Hedin. — Latent Space / score: 70 (MCPとAIエージェントによるSaaSの未来。)</description>
 </item>
 </channel>
 </rss>
