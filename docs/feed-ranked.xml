@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sun, 30 Aug 2026 08:11:15 +0000</lastBuildDate>
+<lastBuildDate>Sun, 30 Aug 2026 10:08:20 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] [AINews] NVIDIA buys HuggingFace for $13B, as OpenAI publishes their HF incident retro</title>
@@ -69,14 +69,6 @@
 <pubDate>Tue, 25 Aug 2026 15:00:00 +0000</pubDate>
 <category>Next.js Blog</category>
 <description>Next.js is moving the August security release forward to August 25, 2026. — Next.js Blog / score: 90 (Next.jsセキュリティリリースの日程前倒し)</description>
-</item>
-<item>
-<title>[85] OpenAI、Cursorへのモデル提供を終了　理由は「SpaceXによる買収」</title>
-<link>https://www.watch.impress.co.jp/docs/news/2136717.html</link>
-<guid isPermaLink="true">https://www.watch.impress.co.jp/docs/news/2136717.html</guid>
-<pubDate>Sat, 29 Aug 2026 05:39:25 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>OpenAI、Cursorへのモデル提供を終了 理由は「SpaceXによる買収」 — はてなブックマーク テクノロジー / score: 85 (主要AI企業と開発ツールの大きな動きに関するニュース)</description>
 </item>
 <item>
 <title>[85] Anthropic、AIと物理機器連携の新標準「Model Hardware Standard」を公開</title>
@@ -271,28 +263,12 @@
 <description>AIが顕微鏡やロボットアームなどの物理機器を操作するための共通規格「Model Hardware Standard(MHS)」の研究プレビューをAnthropicが発表しました。MHSを使うことで、メーカーや種類が異なる機器をAIが共通の方法で扱いやすくなるとされています。 続きを読む... — GIGAZINE / score: 80 (AIによる物理機器操作の共通規格策定)</description>
 </item>
 <item>
-<title>[80] Googleが動画生成AI「Gemini Omni 1.1 Flash」をリリース、「最大4Kアップスケール」「動画の続きを生成」「低解像度で高速プレビュー」など</title>
-<link>https://gigazine.net/news/20260828-gemini-omni-1-1-flash/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260828-gemini-omni-1-1-flash/</guid>
-<pubDate>Fri, 28 Aug 2026 03:12:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>Googleが動画生成AI「Gemini Omni 1.1 Flash」を現地時間の2026年8月27日にリリースしました。 続きを読む... — GIGAZINE / score: 80 (Googleの新しい動画生成AIモデルのリリース)</description>
-</item>
-<item>
 <title>[80] Windows 11の2026年8月プレビューパッチが公開 ～タスクバー、［スタート］画面、「Windows Search」が刷新／日本語環境向けの改善も多数、「Microsoft IME」入力時のハングアップ軽減など</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2136347.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2136347.html</guid>
 <pubDate>Fri, 28 Aug 2026 01:45:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Microsoftは8月27日（現地時間）、2026年8月のWindows非セキュリティプレビュー更新プログラムをリリースした。現在、以下のOSバージョンで利用可能。 — 窓の杜 / score: 80 (Windows 11のプレビューパッチ公開)</description>
-</item>
-<item>
-<title>[80] Node.js 24.20.0（LTS）リリース、パッケージマップなど多数の新機能追加</title>
-<link>https://codezine.jp/article/detail/29472</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/29472</guid>
-<pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 80 (主要ランタイムNode.jsのLTS新機能リリース)</description>
 </item>
 <item>
 <title>[80] Gemini Omni 1.1 Flash lets you build with more control</title>
@@ -421,6 +397,14 @@
 <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 75 (OpenAIの独自AIチップ開発のニュース)</description>
+</item>
+<item>
+<title>[75] 指示待ちから変化に応じるClaude Codeへ！~環境からAgentへの帰り道を作る~</title>
+<link>https://speakerdeck.com/gotalab555/shijimachi-kara-henka-ni-oujiru-claude-code-he-kankyou-kara-agent-heno-kaerimichi-o-tsukuru</link>
+<guid isPermaLink="true">https://speakerdeck.com/gotalab555/shijimachi-kara-henka-ni-oujiru-claude-code-he-kankyou-kara-agent-heno-kaerimichi-o-tsukuru</guid>
+<pubDate>Fri, 28 Aug 2026 21:20:57 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Claude Codeで複数の作業を並列に動かせるようになると、次に増えるのは「待ち」と「確認」だ。CIが落ちた、レビューが返ってきた、長い処理が終わった、外部サービスが復旧した。これらを人が見つけて、結果をコピーし、次の指示を出している限り、人が作業の中継地点になってしまう。 この発表では、LS… — はてなブックマーク テクノロジー / score: 75 (Claude Codeを活用したエージェント運用と自動化の考察)</description>
 </item>
 <item>
 <title>[75] AMD、ROCm 10リリースとAI開発基盤「ROCm.AI」の一般提供を開始</title>
@@ -655,6 +639,14 @@
 <description>Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index That's the same score as GPT-5.6 Luna (max), and just one point behind GLM-5.2 (max) and DeepSeek V4 Pro 0813 (max) - that GLM is 753B and that DeepSeek is 1.7T parameters , and Luna is size unknown but presumably a whole lot bigger than 27B. Qwen 3.8 27B is a truly astonishing model . Via Hacker News Tags: ai , generative-ai , llms , qwen , ai-in-china , artificial-analysis — Simon Willison / score: 75 (Qwen 3.8 27Bの性能評価スコア。)</description>
 </item>
 <item>
+<title>[70] 【図解】EKSでPodの詰め方を選べるようになった！スコアリング戦略をやさしく解説</title>
+<link>https://qiita.com/daitak/items/980322a0e0630c46868d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/daitak/items/980322a0e0630c46868d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Sat, 29 Aug 2026 02:38:08 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>こんにちは、タカサオです！ 2026年8月12日のアップデートで、Amazon EKS が Kubernetes コントロールプレーンのパラメータ設定に対応しました。 これまで触れなかったスケジューラの挙動を、クラスターの設定として変更できるようになっています。 その... — Qiita 人気記事 / score: 70 (Amazon EKSのスケジューラ挙動変更アップデート解説)</description>
+</item>
+<item>
 <title>[70] 攻撃者視点で読み解く、AWS 上の医療情報システムのクラウドセキュリティ入門（前編） - blog of morioka12</title>
 <link>https://scgajge12.hatenablog.com/entry/aws_healthcare_security_1</link>
 <guid isPermaLink="true">https://scgajge12.hatenablog.com/entry/aws_healthcare_security_1</guid>
@@ -805,6 +797,14 @@
 <pubDate>Tue, 25 Aug 2026 11:39:24 +0000</pubDate>
 <category>Hugging Face Blog</category>
 <description> — Hugging Face Blog / score: 70 (4bit量子化モデルの効率的な最適化手法)</description>
+</item>
+<item>
+<title>[70] デジタル庁、「マイナアプリ」を提供開始／iOS/Androidでマイナンバーカードの情報を使った本人確認が可能</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2135431.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2135431.html</guid>
+<pubDate>Tue, 25 Aug 2026 07:53:12 +0000</pubDate>
+<category>窓の杜</category>
+<description>デジタル庁は8月25日、「マイナポータルアプリ」に「デジタル認証アプリ」の機能を統合した「マイナアプリ」の提供を開始した。App StoreまたはGoogle Playから新たにダウンロードするか、既存のマイナポータルアプリをアップデートすることで利用可能だ。 — 窓の杜 / score: 70 (デジタル庁のマイナアプリ提供開始)</description>
 </item>
 </channel>
 </rss>
