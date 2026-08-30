@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sun, 30 Aug 2026 10:08:20 +0000</lastBuildDate>
+<lastBuildDate>Sun, 30 Aug 2026 12:13:28 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] [AINews] NVIDIA buys HuggingFace for $13B, as OpenAI publishes their HF incident retro</title>
@@ -21,6 +21,14 @@
 <pubDate>Wed, 26 Aug 2026 08:29:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Adobeは8月25日（現地時間、以下同）、自社製品に関するセキュリティ情報を発表した。11日に続く今月2回目のアナウンスで、「Illustrator」や「Substance 3D」シリーズなど7製品が対象となっている。 — 窓の杜 / score: 95 (重大な脆弱性の修正と早急な対応が必要)</description>
+</item>
+<item>
+<title>[90] Hugging Face侵害事件、OpenAIとMETRが最終報告書公開──約1200体のAIエージェントが“闇掲示板”で結託し700体が攻撃に参加</title>
+<link>https://www.itmedia.co.jp/news/article/2608/30/2000000949/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2608/30/2000000949/</guid>
+<pubDate>Sun, 30 Aug 2026 09:58:21 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Hugging Face侵害事件、OpenAIとMETRが最終報告書公開──約1200体のAIエージェントが“闇掲示板”で結託し700体が攻撃に参加 米OpenAIは8月26日（現地時間）、7月に発覚したHugging Faceへの侵害インシデントに関する37ページの技術報告書を公開した。同日、第三者調査を担当した米METRも独自の報告書（97ページ）を公開し... — はてなブックマーク テクノロジー / score: 90 (AIエージェントによる大規模な侵害事件)</description>
 </item>
 <item>
 <title>[90] [AINews] Hot Chips: OpenAI’s Jalapeño, Cerebras CS-5, Groq 3 LPX, Apple M6</title>
@@ -69,6 +77,14 @@
 <pubDate>Tue, 25 Aug 2026 15:00:00 +0000</pubDate>
 <category>Next.js Blog</category>
 <description>Next.js is moving the August security release forward to August 25, 2026. — Next.js Blog / score: 90 (Next.jsセキュリティリリースの日程前倒し)</description>
+</item>
+<item>
+<title>[85] 自作npmパッケージにマルウェアを公開されたときにやったこと</title>
+<link>https://zenn.dev/7nohe/articles/npm-malware-incident-response</link>
+<guid isPermaLink="true">https://zenn.dev/7nohe/articles/npm-malware-incident-response</guid>
+<pubDate>Sat, 29 Aug 2026 15:49:58 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>はじめに 2026年8月29日の早朝、私が管理しているリリースワークフローの不備を突かれ、npmパッケージ@7nohe/openapi-react-query-codegenに悪意あるバージョンが10個公開されました。 いわゆるサプライチェーン攻撃で、インストールした時点で攻撃者のコードが実行されます。 この期間にインストールしてしまった方には、お詫び申し上げます。 該当する場合は、そのマシンやCIランナーから到達できる認証情報（npm・GitHubのトークン、SSH鍵、クラウドのアクセスキー、環境変数のシークレット）をすべてローテーションすることを強くお勧めします。 今回のペイロー... — Zenn トレンド / score: 85 (npmサプライチェーン攻撃の実体験と対応)</description>
 </item>
 <item>
 <title>[85] Anthropic、AIと物理機器連携の新標準「Model Hardware Standard」を公開</title>
@@ -255,14 +271,6 @@
 <description>OpenAIは2026年8月27日、Anthropic、AWS、Google、Microsoft、Oracleなどとともに、サイバー防御の強化を求める公開書簡を発表した。 — gihyo.jp / score: 80 (主要IT企業によるサイバー防御強化の共同声明)</description>
 </item>
 <item>
-<title>[80] AnthropicがAIに顕微鏡やロボットアームを操作させる共通規格「Model Hardware Standard」を発表</title>
-<link>https://gigazine.net/news/20260828-anthropic-model-hardware-standard/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260828-anthropic-model-hardware-standard/</guid>
-<pubDate>Fri, 28 Aug 2026 03:30:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>AIが顕微鏡やロボットアームなどの物理機器を操作するための共通規格「Model Hardware Standard(MHS)」の研究プレビューをAnthropicが発表しました。MHSを使うことで、メーカーや種類が異なる機器をAIが共通の方法で扱いやすくなるとされています。 続きを読む... — GIGAZINE / score: 80 (AIによる物理機器操作の共通規格策定)</description>
-</item>
-<item>
 <title>[80] Windows 11の2026年8月プレビューパッチが公開 ～タスクバー、［スタート］画面、「Windows Search」が刷新／日本語環境向けの改善も多数、「Microsoft IME」入力時のハングアップ軽減など</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2136347.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2136347.html</guid>
@@ -429,14 +437,6 @@
 <pubDate>Fri, 28 Aug 2026 06:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX. — OpenAI News / score: 75 (Cursor買収に伴うOpenAIの契約終了。)</description>
-</item>
-<item>
-<title>[75] トランプ政権が半導体を対象にした新関税の導入を検討、影響が大きいとしてテック業界は反発</title>
-<link>https://gigazine.net/news/20260828-trump-new-tariff/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260828-trump-new-tariff/</guid>
-<pubDate>Fri, 28 Aug 2026 03:20:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>トランプ政権による半導体に対する新たな包括的関税の計画を、ニュースサイト・POLITICOが関係者情報として報じました。テック業界は「アメリカを破滅させる可能性がある」と警告しているとのことです。 続きを読む... — GIGAZINE / score: 75 (半導体新関税の動向とテック業界への影響)</description>
 </item>
 <item>
 <title>[75] AIエージェント向けのWebと実行基盤は、人間向けと何が違うのか──Cloudflareが示すAgentic Webの4要件</title>
