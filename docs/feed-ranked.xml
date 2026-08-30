@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sun, 30 Aug 2026 12:13:28 +0000</lastBuildDate>
+<lastBuildDate>Sun, 30 Aug 2026 14:08:05 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] [AINews] NVIDIA buys HuggingFace for $13B, as OpenAI publishes their HF incident retro</title>
@@ -367,6 +367,14 @@
 <description>Friday's big release was Qwen 3.8 27B , an Apache 2 licensed 27B parameter vision-capable LLM from Alibaba's Qwen research lab. I've been looking forward to this one: 27B is an excellent size for running a model on a reasonably specced laptop, and its predecessor Qwen 3.6 27B was impressive. Qwen's self-reported benchmarks for this model are eye-opening. They show a boost from both Qwen 3.6 27B and the closed-weight Qwen 3.7-Plus, which was one of Qwen's strongest models of any size as recently  — Simon Willison / score: 80 (Qwen 3.8 27Bのリリースと性能レビュー。)</description>
 </item>
 <item>
+<title>[75] Zod の z.compile() でバリデーションを高速化する</title>
+<link>https://azukiazusa.dev/blog/zod-compile-validation/</link>
+<guid isPermaLink="true">https://azukiazusa.dev/blog/zod-compile-validation/</guid>
+<pubDate>Sun, 30 Aug 2026 05:49:22 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Zod 4.5 で、スキーマを実行時に最適化された JavaScript へ変換する z.compile() が追加されました。コンパイル済みスキーマは通常のスキーマと同じ API を保ちながら、複雑なデータの検証を高速化します。この記事では基本的な使い方と仕組みを紹介します。 Web API のリクエストや外部ファイルから受け取ったデータを... — はてなブックマーク テクノロジー / score: 75 (Zodのパフォーマンス改善と新機能解説)</description>
+</item>
+<item>
 <title>[75] APIセキュリティを組織で実現するには~注力する点と設計・実装に入れたい対策~</title>
 <link>https://speakerdeck.com/riiimparm/api-sekyuriti-o-soshiki-de-jitsugen-suru-niha-chuuryoku-suru-ten-to-sekkei-jissou-ni-iretai-taisaku</link>
 <guid isPermaLink="true">https://speakerdeck.com/riiimparm/api-sekyuriti-o-soshiki-de-jitsugen-suru-niha-chuuryoku-suru-ten-to-sekkei-jissou-ni-iretai-taisaku</guid>
@@ -669,14 +677,6 @@
 <pubDate>Fri, 28 Aug 2026 07:00:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 70 (Amazon EKSの認証局自動ローテーション)</description>
-</item>
-<item>
-<title>[70] 購入した電子書籍をGeminiに読ませて質問できる「Expert Intelligence」が登場、10万冊超に対応</title>
-<link>https://gigazine.net/news/20260828-expert-intelligence-gemini/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260828-expert-intelligence-gemini/</guid>
-<pubDate>Fri, 28 Aug 2026 05:15:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>文書・音声・動画をAIで分析して内容を整理してまとめてくれるGoogleのツール「Gemini Notebook(旧：NotebookLM)」の新しい取り組みとして、購入済みの書籍を取り込んで質問したり議論したりできる「Expert Intelligence」が発表されました。 続きを読む... — GIGAZINE / score: 70 (電子書籍をAIに読ませる新機能の登場)</description>
 </item>
 <item>
 <title>[70] ドコモ、eSIMの開始手続きで障害　店頭・オンラインともに影響</title>
