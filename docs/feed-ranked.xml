@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sun, 30 Aug 2026 14:08:05 +0000</lastBuildDate>
+<lastBuildDate>Sun, 30 Aug 2026 16:08:46 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] [AINews] NVIDIA buys HuggingFace for $13B, as OpenAI publishes their HF incident retro</title>
@@ -77,6 +77,14 @@
 <pubDate>Tue, 25 Aug 2026 15:00:00 +0000</pubDate>
 <category>Next.js Blog</category>
 <description>Next.js is moving the August security release forward to August 25, 2026. — Next.js Blog / score: 90 (Next.jsセキュリティリリースの日程前倒し)</description>
+</item>
+<item>
+<title>[85] 【独自】Jアラート「偽の警報可能」　専門家、発信元保証なし（共同通信） - Yahoo!ニュース</title>
+<link>https://news.yahoo.co.jp/articles/2acf2b5de32927d404e1f15328e5c7bb6775dc5c</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/articles/2acf2b5de32927d404e1f15328e5c7bb6775dc5c</guid>
+<pubDate>Sun, 30 Aug 2026 13:53:37 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>弾道ミサイル発射や緊急地震速報などの緊急情報を全国の自治体に送信する全国瞬時警報システム（Jアラート）で、人工衛星を経由して送信されるデータの暗号化や発信元を保証する機能がないことが30日、専門家への取材で分かった。総務省関係者も認めた。専門家は「第三者が成り済まして偽の警報を送信することが可能」と... — はてなブックマーク テクノロジー / score: 85 (Jアラートの偽警報可能性に関するセキュリティ上の懸念)</description>
 </item>
 <item>
 <title>[85] 自作npmパッケージにマルウェアを公開されたときにやったこと</title>
@@ -367,20 +375,20 @@
 <description>Friday's big release was Qwen 3.8 27B , an Apache 2 licensed 27B parameter vision-capable LLM from Alibaba's Qwen research lab. I've been looking forward to this one: 27B is an excellent size for running a model on a reasonably specced laptop, and its predecessor Qwen 3.6 27B was impressive. Qwen's self-reported benchmarks for this model are eye-opening. They show a boost from both Qwen 3.6 27B and the closed-weight Qwen 3.7-Plus, which was one of Qwen's strongest models of any size as recently  — Simon Willison / score: 80 (Qwen 3.8 27Bのリリースと性能レビュー。)</description>
 </item>
 <item>
+<title>[75] JetBrains、Mac上で動作するコーディングエージェント「Junie Local」提供開始。Claude Sonnet 4.5と同等の能力、RTX5909対応も開発中</title>
+<link>https://www.publickey1.jp/blog/26/jetbrainsmacjunie_localclaude_sonnet_45rtx5909.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/jetbrainsmacjunie_localclaude_sonnet_45rtx5909.html</guid>
+<pubDate>Sun, 30 Aug 2026 15:07:47 +0000</pubDate>
+<category>Publickey</category>
+<description>JetBrainsは、ローカルで動作するAIコーディングエージェント「Junie Local」の提供開始を発表しました。 Junie Localはその名称の通り完全にローカルマシン上で動作し、API使用料やモデル使用料などは一切不要。ソフト... — Publickey / score: 75 (ローカル動作するJetBrains製AIエージェント登場)</description>
+</item>
+<item>
 <title>[75] Zod の z.compile() でバリデーションを高速化する</title>
 <link>https://azukiazusa.dev/blog/zod-compile-validation/</link>
 <guid isPermaLink="true">https://azukiazusa.dev/blog/zod-compile-validation/</guid>
 <pubDate>Sun, 30 Aug 2026 05:49:22 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>Zod 4.5 で、スキーマを実行時に最適化された JavaScript へ変換する z.compile() が追加されました。コンパイル済みスキーマは通常のスキーマと同じ API を保ちながら、複雑なデータの検証を高速化します。この記事では基本的な使い方と仕組みを紹介します。 Web API のリクエストや外部ファイルから受け取ったデータを... — はてなブックマーク テクノロジー / score: 75 (Zodのパフォーマンス改善と新機能解説)</description>
-</item>
-<item>
-<title>[75] APIセキュリティを組織で実現するには~注力する点と設計・実装に入れたい対策~</title>
-<link>https://speakerdeck.com/riiimparm/api-sekyuriti-o-soshiki-de-jitsugen-suru-niha-chuuryoku-suru-ten-to-sekkei-jissou-ni-iretai-taisaku</link>
-<guid isPermaLink="true">https://speakerdeck.com/riiimparm/api-sekyuriti-o-soshiki-de-jitsugen-suru-niha-chuuryoku-suru-ten-to-sekkei-jissou-ni-iretai-taisaku</guid>
-<pubDate>Sat, 29 Aug 2026 09:13:12 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Postman API Night Tokyo 2026 Summer登壇資料 https://postman.connpass.com/event/401277/ — はてなブックマーク テクノロジー / score: 75 (組織的なAPIセキュリティ設計の実用的な解説)</description>
 </item>
 <item>
 <title>[75] Node.js 26.8.1をリリース、バージョン誤表示の不具合を修正</title>
@@ -413,14 +421,6 @@
 <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 75 (OpenAIの独自AIチップ開発のニュース)</description>
-</item>
-<item>
-<title>[75] 指示待ちから変化に応じるClaude Codeへ！~環境からAgentへの帰り道を作る~</title>
-<link>https://speakerdeck.com/gotalab555/shijimachi-kara-henka-ni-oujiru-claude-code-he-kankyou-kara-agent-heno-kaerimichi-o-tsukuru</link>
-<guid isPermaLink="true">https://speakerdeck.com/gotalab555/shijimachi-kara-henka-ni-oujiru-claude-code-he-kankyou-kara-agent-heno-kaerimichi-o-tsukuru</guid>
-<pubDate>Fri, 28 Aug 2026 21:20:57 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Claude Codeで複数の作業を並列に動かせるようになると、次に増えるのは「待ち」と「確認」だ。CIが落ちた、レビューが返ってきた、長い処理が終わった、外部サービスが復旧した。これらを人が見つけて、結果をコピーし、次の指示を出している限り、人が作業の中継地点になってしまう。 この発表では、LS… — はてなブックマーク テクノロジー / score: 75 (Claude Codeを活用したエージェント運用と自動化の考察)</description>
 </item>
 <item>
 <title>[75] AMD、ROCm 10リリースとAI開発基盤「ROCm.AI」の一般提供を開始</title>
@@ -615,14 +615,6 @@
 <description>Less than a month ago we had just featured Poolside’s Model Factory with Eiso Kant on the pod (following our Paper Club coverage): It appears that Jensen really, really liked Poolside too, as he went from investor to doing licensing their factory and hiring 109 of their employees: Unless things changed drastically, this accounts for the overwhelming majority of the technical Poolside employees : Eiso Kant [01:52:31]: We are hiring on every possible role in applied research and engineering in the — Latent Space / score: 75 (AI業界における大規模な買収とインフラ投資)</description>
 </item>
 <item>
-<title>[75] AWSがAurora Serverless強化、スケールアップ45%高速化、スループット30%向上</title>
-<link>https://www.infoq.com/jp/news/2026/08/aurora-serverless-v4/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-<guid isPermaLink="true">https://www.infoq.com/jp/news/2026/08/aurora-serverless-v4/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-<pubDate>Wed, 19 Aug 2026 00:30:00 +0000</pubDate>
-<category>InfoQ Japan</category>
-<description>AWSは最近、Amazon Aurora Serverlessを新しいプラットフォームバージョンに更新し、スケーリング挙動と実行時効率を改善した。クラウドプロバイダーによると需要急増時のキャパシティスケールアップが約45％高速化し、リソーススケジューリングの最適化とワークロード認識型スケーリング判断により、データベース性能は最大30％向上している。 By Renato Losio Translated by Hiroaki.Sugimura — InfoQ Japan / score: 75 (AWS Aurora Serverlessの性能強化)</description>
-</item>
-<item>
 <title>[75] AIエージェント時代のGitホスティングサービス「Origin」、Cursorが発表。Cursorとの統合、コマンドラインでの操作、GitHubとの同期など提供</title>
 <link>https://www.publickey1.jp/blog/26/aigitorigincursorcursorgithub.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/aigitorigincursorcursorgithub.html</guid>
@@ -805,6 +797,14 @@
 <pubDate>Tue, 25 Aug 2026 07:53:12 +0000</pubDate>
 <category>窓の杜</category>
 <description>デジタル庁は8月25日、「マイナポータルアプリ」に「デジタル認証アプリ」の機能を統合した「マイナアプリ」の提供を開始した。App StoreまたはGoogle Playから新たにダウンロードするか、既存のマイナポータルアプリをアップデートすることで利用可能だ。 — 窓の杜 / score: 70 (デジタル庁のマイナアプリ提供開始)</description>
+</item>
+<item>
+<title>[70] AIと対話してネイティブiOS/Androidアプリをリアルタイムに構築、SwiftUI対応コーディングプラットフォーム「Dactyl」発表</title>
+<link>https://gihyo.jp/article/2026/08/dactyl?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/08/dactyl?utm_source=feed</guid>
+<pubDate>Tue, 25 Aug 2026 06:59:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Deno開発チームは2026年8月23日、ネイティブのiOS/Androidアプリを開発できるバイブコーディングプラットフォーム「Dactyl」を発表した。 — gihyo.jp / score: 70 (DenoチームによるSwiftUI対応アプリ構築プラットフォーム発表)</description>
 </item>
 </channel>
 </rss>
