@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sun, 30 Aug 2026 00:27:08 +0000</lastBuildDate>
+<lastBuildDate>Sun, 30 Aug 2026 02:13:19 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] [AINews] NVIDIA buys HuggingFace for $13B, as OpenAI publishes their HF incident retro</title>
@@ -85,14 +85,6 @@
 <pubDate>Sat, 29 Aug 2026 04:00:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 85 (AnthropicによるAIと物理機器連携の新標準公開)</description>
-</item>
-<item>
-<title>[85] GitHub - godaddy/sshenc: Eliminate plaintext keys: Hardware-backed SSH and Git security via Secure Enclave and TPM 2.0</title>
-<link>https://github.com/godaddy/sshenc</link>
-<guid isPermaLink="true">https://github.com/godaddy/sshenc</guid>
-<pubDate>Sat, 29 Aug 2026 03:49:14 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Hardware-backed SSH key management, with first-class git identity and commit signing. sshenc generates SSH keys inside the Secure Enclave (macOS), TPM 2.0 (Windows/Linux), or a software fallback and serves them via a standard SSH agent. Private key material never leaves the hardware — it can't be... — はてなブックマーク テクノロジー / score: 85 (ハードウェアベースのSSH/Gitセキュリティ向上ツール)</description>
 </item>
 <item>
 <title>[85] Just a rumour of a bug is enough to find a security exploit these days</title>
@@ -805,6 +797,14 @@
 <pubDate>Tue, 25 Aug 2026 14:34:35 +0000</pubDate>
 <category>iPhone Mania</category>
 <description>Appleは8月25日、M6とM5 Proを搭載したMac miniを発表しました。すでに予約受付を開始しており、9月22日に発売予定です。販売価格はM6モデルが149,800円（税込、以下同じ）から、M5 Proモデル […] — iPhone Mania / score: 70 (新型プロセッサを搭載した小型PCの発表)</description>
+</item>
+<item>
+<title>[70] Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original</title>
+<link>https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing</link>
+<guid isPermaLink="true">https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing</guid>
+<pubDate>Tue, 25 Aug 2026 11:39:24 +0000</pubDate>
+<category>Hugging Face Blog</category>
+<description> — Hugging Face Blog / score: 70 (4bit量子化モデルの効率的な最適化手法)</description>
 </item>
 </channel>
 </rss>
