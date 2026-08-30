@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sun, 30 Aug 2026 16:08:46 +0000</lastBuildDate>
+<lastBuildDate>Sun, 30 Aug 2026 18:11:06 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] [AINews] NVIDIA buys HuggingFace for $13B, as OpenAI publishes their HF incident retro</title>
@@ -423,6 +423,14 @@
 <description> — CodeZine / score: 75 (OpenAIの独自AIチップ開発のニュース)</description>
 </item>
 <item>
+<title>[75] 指示待ちから変化に応じるClaude Codeへ！~環境からAgentへの帰り道を作る~</title>
+<link>https://speakerdeck.com/gotalab555/shijimachi-kara-henka-ni-oujiru-claude-code-he-kankyou-kara-agent-heno-kaerimichi-o-tsukuru</link>
+<guid isPermaLink="true">https://speakerdeck.com/gotalab555/shijimachi-kara-henka-ni-oujiru-claude-code-he-kankyou-kara-agent-heno-kaerimichi-o-tsukuru</guid>
+<pubDate>Fri, 28 Aug 2026 21:20:57 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Claude Codeで複数の作業を並列に動かせるようになると、次に増えるのは「待ち」と「確認」だ。CIが落ちた、レビューが返ってきた、長い処理が終わった、外部サービスが復旧した。これらを人が見つけて、結果をコピーし、次の指示を出している限り、人が作業の中継地点になってしまう。 この発表では、LS… — はてなブックマーク テクノロジー / score: 75 (Claude Codeを活用したエージェント運用と自動化の考察)</description>
+</item>
+<item>
 <title>[75] AMD、ROCm 10リリースとAI開発基盤「ROCm.AI」の一般提供を開始</title>
 <link>https://codezine.jp/article/detail/29508</link>
 <guid isPermaLink="true">https://codezine.jp/article/detail/29508</guid>
@@ -797,14 +805,6 @@
 <pubDate>Tue, 25 Aug 2026 07:53:12 +0000</pubDate>
 <category>窓の杜</category>
 <description>デジタル庁は8月25日、「マイナポータルアプリ」に「デジタル認証アプリ」の機能を統合した「マイナアプリ」の提供を開始した。App StoreまたはGoogle Playから新たにダウンロードするか、既存のマイナポータルアプリをアップデートすることで利用可能だ。 — 窓の杜 / score: 70 (デジタル庁のマイナアプリ提供開始)</description>
-</item>
-<item>
-<title>[70] AIと対話してネイティブiOS/Androidアプリをリアルタイムに構築、SwiftUI対応コーディングプラットフォーム「Dactyl」発表</title>
-<link>https://gihyo.jp/article/2026/08/dactyl?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/08/dactyl?utm_source=feed</guid>
-<pubDate>Tue, 25 Aug 2026 06:59:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Deno開発チームは2026年8月23日、ネイティブのiOS/Androidアプリを開発できるバイブコーディングプラットフォーム「Dactyl」を発表した。 — gihyo.jp / score: 70 (DenoチームによるSwiftUI対応アプリ構築プラットフォーム発表)</description>
 </item>
 </channel>
 </rss>
