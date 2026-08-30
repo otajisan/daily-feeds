@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sun, 30 Aug 2026 20:08:02 +0000</lastBuildDate>
+<lastBuildDate>Sun, 30 Aug 2026 22:08:32 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] [AINews] NVIDIA buys HuggingFace for $13B, as OpenAI publishes their HF incident retro</title>
@@ -199,14 +199,6 @@
 <description>米Microsoftは8月24日（現地時間、以下同）、デスクトップ向け「Microsoft Edge」v151.0.4129.107を安定（Stable）チャネルでリリースした。20日リリースのv151.0.4129.101に続くセキュリティアップデートとなる。 — 窓の杜 / score: 85 (Microsoft Edgeの緊急セキュリティ修正)</description>
 </item>
 <item>
-<title>[85] 外字（EUDC文字）が正しく表示・印刷されない問題、Windows 11/Windows Server 2025で／2025年9月以降の更新プログラムで発生</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2135193.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2135193.html</guid>
-<pubDate>Mon, 24 Aug 2026 21:45:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>日本マイクロソフト（株）は8月24日、「Windows 11 バージョン 24H2/25H2」および「Windows Server 2025」において、外字として登録した「EUDC」（End-User Defined Character）文字が正しく表示・印刷されない問題が発生することを明らかにした。修正を含む更新プログラムはすでに公開されている。 — 窓の杜 / score: 85 (Windowsでの外字表示・印刷の不具合情報)</description>
-</item>
-<item>
 <title>[85] Bun、バージョン1.4をリリース ——初のRust実装版</title>
 <link>https://gihyo.jp/article/2026/08/bun-1.4?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/08/bun-1.4?utm_source=feed</guid>
@@ -261,14 +253,6 @@
 <pubDate>Sat, 29 Aug 2026 05:11:52 +0000</pubDate>
 <category>Latent Space</category>
 <description>A late entrant in the news cycle of an eventful week: Following the closing of Cursor’s acquisition by SpaceX last week , it was time for OpenAI to do what Anthropic did to Windsurf when it was being considered for acquisition by OpenAI: There are many angles to this, but the leading reason given should be taken at face value — OpenAI’s blogpost on this decision cites “our experience with Elon Musk’s companies violating contracts”. This follows on from years of public acrimony between respective — Latent Space / score: 80 (主要AI企業とツールに関する業界の動向ニュース)</description>
-</item>
-<item>
-<title>[80] Cloudflareが1.1.1.1のDNSキャッシュを数十バイト単位で削り込んで100TBのメモリを節約</title>
-<link>https://gigazine.net/news/20260828-cloudflare-dns-cache-optimization/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260828-cloudflare-dns-cache-optimization/</guid>
-<pubDate>Fri, 28 Aug 2026 07:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>CloudflareがパブリックDNSリゾルバー「1.1.1.1」などで使われているDNSキャッシュのデータ構造を見直し、システム全体で約100TBのメモリを削減したと発表しました。ベンチマークではキャッシュ1件当たりのメモリ使用量が953バイトから420バイトへと56％減少し、メモリを減らしながらキャッシュへの書き込みや読み出しも高速化したとのことです。 続きを読む... — GIGAZINE / score: 80 (Cloudflareによる1.1.1.1のメモリ100TB削減)</description>
 </item>
 <item>
 <title>[80] OpenAI、AnthropicやAWS、Google、Microsoft、Oracleなど100以上の企業・団体とサイバー防御強化を求める公開書簡を発表</title>
@@ -365,14 +349,6 @@
 <pubDate>Mon, 17 Aug 2026 05:30:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now. — OpenAI News / score: 80 (AI時代のセキュリティと脅威対策の議論)</description>
-</item>
-<item>
-<title>[80] Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things</title>
-<link>https://simonwillison.net/2026/Aug/16/qwen-38-27b/</link>
-<guid isPermaLink="true">https://simonwillison.net/2026/Aug/16/qwen-38-27b/</guid>
-<pubDate>Sun, 16 Aug 2026 22:00:39 +0000</pubDate>
-<category>Simon Willison</category>
-<description>Friday's big release was Qwen 3.8 27B , an Apache 2 licensed 27B parameter vision-capable LLM from Alibaba's Qwen research lab. I've been looking forward to this one: 27B is an excellent size for running a model on a reasonably specced laptop, and its predecessor Qwen 3.6 27B was impressive. Qwen's self-reported benchmarks for this model are eye-opening. They show a boost from both Qwen 3.6 27B and the closed-weight Qwen 3.7-Plus, which was one of Qwen's strongest models of any size as recently  — Simon Willison / score: 80 (Qwen 3.8 27Bのリリースと性能レビュー。)</description>
 </item>
 <item>
 <title>[75] JetBrains、Mac上で動作するコーディングエージェント「Junie Local」提供開始。Claude Sonnet 4.5と同等の能力、RTX5909対応も開発中</title>
@@ -647,12 +623,12 @@
 <description>Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index That's the same score as GPT-5.6 Luna (max), and just one point behind GLM-5.2 (max) and DeepSeek V4 Pro 0813 (max) - that GLM is 753B and that DeepSeek is 1.7T parameters , and Luna is size unknown but presumably a whole lot bigger than 27B. Qwen 3.8 27B is a truly astonishing model . Via Hacker News Tags: ai , generative-ai , llms , qwen , ai-in-china , artificial-analysis — Simon Willison / score: 75 (Qwen 3.8 27Bの性能評価スコア。)</description>
 </item>
 <item>
-<title>[70] 【図解】EKSでPodの詰め方を選べるようになった！スコアリング戦略をやさしく解説</title>
-<link>https://qiita.com/daitak/items/980322a0e0630c46868d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/daitak/items/980322a0e0630c46868d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Sat, 29 Aug 2026 02:38:08 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>こんにちは、タカサオです！ 2026年8月12日のアップデートで、Amazon EKS が Kubernetes コントロールプレーンのパラメータ設定に対応しました。 これまで触れなかったスケジューラの挙動を、クラスターの設定として変更できるようになっています。 その... — Qiita 人気記事 / score: 70 (Amazon EKSのスケジューラ挙動変更アップデート解説)</description>
+<title>[70] 人間のCFO・COO・人事・法務・マーケティング責任者・広報担当などをAI幹部で置き換える「Open Executive」</title>
+<link>https://gigazine.net/news/20260831-ai-virtual-executive-team/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20260831-ai-virtual-executive-team/</guid>
+<pubDate>Sun, 30 Aug 2026 22:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>AIを活用して仮想経営幹部チームを作り、8種類の専門エージェントが企業経営に関する助言を行うオープンソースのAIシステム「Open Executive」が公開されています。ハーバード大学MBAレベルの知識を持つとうたう上級アドバイザーが、会社の事業内容に合わせてカスタマイズされます。 続きを読む... — GIGAZINE / score: 70 (経営幹部を模倣するオープンソースAIシステムの興味深い話題)</description>
 </item>
 <item>
 <title>[70] 攻撃者視点で読み解く、AWS 上の医療情報システムのクラウドセキュリティ入門（前編） - blog of morioka12</title>
@@ -805,6 +781,30 @@
 <pubDate>Tue, 25 Aug 2026 07:53:12 +0000</pubDate>
 <category>窓の杜</category>
 <description>デジタル庁は8月25日、「マイナポータルアプリ」に「デジタル認証アプリ」の機能を統合した「マイナアプリ」の提供を開始した。App StoreまたはGoogle Playから新たにダウンロードするか、既存のマイナポータルアプリをアップデートすることで利用可能だ。 — 窓の杜 / score: 70 (デジタル庁のマイナアプリ提供開始)</description>
+</item>
+<item>
+<title>[70] AIと対話してネイティブiOS/Androidアプリをリアルタイムに構築、SwiftUI対応コーディングプラットフォーム「Dactyl」発表</title>
+<link>https://gihyo.jp/article/2026/08/dactyl?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/08/dactyl?utm_source=feed</guid>
+<pubDate>Tue, 25 Aug 2026 06:59:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Deno開発チームは2026年8月23日、ネイティブのiOS/Androidアプリを開発できるバイブコーディングプラットフォーム「Dactyl」を発表した。 — gihyo.jp / score: 70 (DenoチームによるSwiftUI対応アプリ構築プラットフォーム発表)</description>
+</item>
+<item>
+<title>[70] [AINews] Andrew Ng gets into AI Engineering</title>
+<link>https://www.latent.space/p/ainews-andrew-ng-gets-into-ai-engineering</link>
+<guid isPermaLink="true">https://www.latent.space/p/ainews-andrew-ng-gets-into-ai-engineering</guid>
+<pubDate>Tue, 25 Aug 2026 02:50:57 +0000</pubDate>
+<category>Latent Space</category>
+<description>We’ve lost count of how many adoption milestones have been passed since the original Rise of the AI Engineer post, but surely Andrew Ng, cofounder of Google Brain and Coursera among many other things, relaunching DeepLearning.ai with a focus on AI Engineering is a big one : This was done via “ an analysis of over 10,000 job postings; carrying out dozens of structured interviews with AI experts, hiring managers, and recruiters; gathering data through surveys; and synthesizing other online data ”  — Latent Space / score: 70 (Andrew NgのAIエンジニアリング参入の動向。)</description>
+</item>
+<item>
+<title>[70] シングルバイナリなOLAP DBの次期版「DuckDB 2.0」プレビュー。クライアント／サーバ機能が安定版に、スキーマレスのVARIANT型、トリガー、非同期I/Oなど新機能</title>
+<link>https://www.publickey1.jp/blog/26/olap_dbduckdb_20variantio.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/olap_dbduckdb_20variantio.html</guid>
+<pubDate>Mon, 24 Aug 2026 15:29:33 +0000</pubDate>
+<category>Publickey</category>
+<description>オープンソースとして開発されているOLAPデータベース「DuckDB」の開発を主導しているDuckDB Foundationは、今年の秋にリリース予定の「DuckDB 2.0」にどのような新機能が搭載予定なのかを紹介したブログ「A Prev... — Publickey / score: 70 (高パフォーマンスDBの次期版プレビュー)</description>
 </item>
 </channel>
 </rss>
