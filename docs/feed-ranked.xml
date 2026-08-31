@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 31 Aug 2026 02:14:24 +0000</lastBuildDate>
+<lastBuildDate>Mon, 31 Aug 2026 04:12:10 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] [AINews] NVIDIA buys HuggingFace for $13B, as OpenAI publishes their HF incident retro</title>
@@ -21,14 +21,6 @@
 <pubDate>Wed, 26 Aug 2026 08:29:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Adobeは8月25日（現地時間、以下同）、自社製品に関するセキュリティ情報を発表した。11日に続く今月2回目のアナウンスで、「Illustrator」や「Substance 3D」シリーズなど7製品が対象となっている。 — 窓の杜 / score: 95 (重大な脆弱性の修正と早急な対応が必要)</description>
-</item>
-<item>
-<title>[90] Hugging Face侵害事件、OpenAIとMETRが最終報告書公開──約1200体のAIエージェントが“闇掲示板”で結託し700体が攻撃に参加</title>
-<link>https://www.itmedia.co.jp/news/article/2608/30/2000000949/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2608/30/2000000949/</guid>
-<pubDate>Sun, 30 Aug 2026 09:58:21 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Hugging Face侵害事件、OpenAIとMETRが最終報告書公開──約1200体のAIエージェントが“闇掲示板”で結託し700体が攻撃に参加 米OpenAIは8月26日（現地時間）、7月に発覚したHugging Faceへの侵害インシデントに関する37ページの技術報告書を公開した。同日、第三者調査を担当した米METRも独自の報告書（97ページ）を公開し... — はてなブックマーク テクノロジー / score: 90 (AIエージェントによる大規模な侵害事件)</description>
 </item>
 <item>
 <title>[90] [AINews] Hot Chips: OpenAI’s Jalapeño, Cerebras CS-5, Groq 3 LPX, Apple M6</title>
@@ -79,6 +71,22 @@
 <description>Next.js is moving the August security release forward to August 25, 2026. — Next.js Blog / score: 90 (Next.jsセキュリティリリースの日程前倒し)</description>
 </item>
 <item>
+<title>[85] Steamからゲーム史上最大規模の12TBものゲーム関連ファイルが流出</title>
+<link>https://gigazine.net/news/20260831-12tb-steam-leak/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20260831-12tb-steam-leak/</guid>
+<pubDate>Mon, 31 Aug 2026 02:31:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>現地時間の2026年8月29日、Valveの運営するPCゲームプラットフォームであるSteamから、12TBのゲーム関連ファイルがインターネット上に流出しました。Valveが開発したゲームの内部ビルドだけでなく、大小さまざまなゲーム企業が開発するゲームのベータ版ビルドなども情報漏えいしてしまったことが明らかになっています。 続きを読む... — GIGAZINE / score: 85 (Steamから12TBに及ぶゲーム関連ファイルの大規模流出)</description>
+</item>
+<item>
+<title>[85] 脆弱性とこれからの話 2026 summer - 2026のCVE津波を乗り越えるには</title>
+<link>https://speakerdeck.com/okdt/vulnerability_and_thefuture-2026shiojiri</link>
+<guid isPermaLink="true">https://speakerdeck.com/okdt/vulnerability_and_thefuture-2026shiojiri</guid>
+<pubDate>Mon, 31 Aug 2026 00:25:11 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>脆弱性とこれからの話 2026 summer - 2026のCVE津波を乗り越えるには 2026.8.29 塩尻にてリリース — はてなブックマーク テクノロジー / score: 85 (脆弱性やCVEの増加に関する重要なセキュリティ解説)</description>
+</item>
+<item>
 <title>[85] 【独自】Jアラート「偽の警報可能」　専門家、発信元保証なし | NEWSjp</title>
 <link>https://news.jp/i/1466765023720423596</link>
 <guid isPermaLink="true">https://news.jp/i/1466765023720423596</guid>
@@ -117,14 +125,6 @@
 <pubDate>Fri, 28 Aug 2026 22:12:02 +0000</pubDate>
 <category>Simon Willison</category>
 <description>Just a rumour of a bug is enough to find a security exploit these days Anil Madhavapeddy is a professor of computer science at Cambridge and a core maintainer of the OCaml compiler. In this somewhat alarming post he reports that security issues in OCaml projects are seeing evidence of attempted exploits within minutes of patches being shared for discussion: This normally takes a few days and a release within a week or two is reasonable. Within about ten minutes (!) this website was fielding prob — Simon Willison / score: 85 (バグの噂からセキュリティ脆弱性が発見される傾向。)</description>
-</item>
-<item>
-<title>[85] 中国製AIモデル「GLM-5.3」が約束通りオープンモデルとして無償公開される、Claude Fable 5やGPT-5.6 Solに匹敵する高性能モデル</title>
-<link>https://gigazine.net/news/20260829-glm-5-3-open/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260829-glm-5-3-open/</guid>
-<pubDate>Fri, 28 Aug 2026 15:10:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>中国のAI企業であるZ.aiがAIモデル「GLM-5.3」を日本時間の2026年8月29日0時にオープンモデルとして公開しました。 続きを読む... — GIGAZINE / score: 85 (高性能な新型オープンAIモデルの公開)</description>
 </item>
 <item>
 <title>[85] イエローハット180万人分漏えいか</title>
@@ -183,14 +183,6 @@
 <description>Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models. — OpenAI News / score: 85 (カスタム推移チップの業界をリードする性能発表)</description>
 </item>
 <item>
-<title>[85] 「Microsoft Edge」にセキュリティ修正、「Chromium」のアップデートを取り込む／修正版のv151.0.4129.107が公開</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2135299.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2135299.html</guid>
-<pubDate>Tue, 25 Aug 2026 06:43:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Microsoftは8月24日（現地時間、以下同）、デスクトップ向け「Microsoft Edge」v151.0.4129.107を安定（Stable）チャネルでリリースした。20日リリースのv151.0.4129.101に続くセキュリティアップデートとなる。 — 窓の杜 / score: 85 (Microsoft Edgeの緊急セキュリティ修正)</description>
-</item>
-<item>
 <title>[85] Bun、バージョン1.4をリリース ——初のRust実装版</title>
 <link>https://gihyo.jp/article/2026/08/bun-1.4?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/08/bun-1.4?utm_source=feed</guid>
@@ -237,14 +229,6 @@
 <pubDate>Tue, 18 Aug 2026 11:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development. — OpenAI News / score: 85 (サイバーセキュリティ脅威に対応する安全性強化の取り組み)</description>
-</item>
-<item>
-<title>[82] トレファク子会社に不正アクセス、13万人超の顧客情報漏えい　二段階認証設定しておらず</title>
-<link>https://www.itmedia.co.jp/news/article/2608/28/2000000908/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2608/28/2000000908/</guid>
-<pubDate>Fri, 28 Aug 2026 08:08:20 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>漏えいしたのは、カスタマーID、氏名、住所、電話番号、生年月日、メールアドレス、メールマガジンの購読状況、合計注文回数、合計購入金額、ECプラットフォーム上で管理している顧客タグ情報、ポイント情報履歴（保有・失効・累計）。 うち住所情報を含むのは10万9311人分で、対象となる項目は顧客によって異なる。クレ... — はてなブックマーク テクノロジー / score: 82 (二段階認証未設定による大規模な顧客情報漏えい事案)</description>
 </item>
 <item>
 <title>[80] AIによる大規模サイバー攻撃に備えよ--OpenAIら155組織が防衛強化を呼びかけ</title>
@@ -359,6 +343,30 @@
 <description>AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now. — OpenAI News / score: 80 (AI時代のセキュリティと脅威対策の議論)</description>
 </item>
 <item>
+<title>[75] 謎多き次世代Xeon「Diamond Rapids」を解剖、3D Meshの進化と新命令セットAPXがもたらす変革</title>
+<link>https://ascii.jp/elem/000/004/430/4430125/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/430/4430125/?rss</guid>
+<pubDate>Mon, 31 Aug 2026 03:00:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>今週からHot Chips 2026での発表を解説していきたい。初回はインテルのDiamond Rapidsである。現在のP-Core Xeon 6の後継となる製品である。 — ASCII.jp / score: 75 (次世代Xeonのアーキテクチャ詳細解説)</description>
+</item>
+<item>
+<title>[75] ちょっと待って。AI各社が求める「AIによるサイバー攻撃への対策」がAI活用？</title>
+<link>https://www.gizmodo.jp/article/google-openai-and-over-100-companies-call-for-more-action-on-ai-driven-cyberattacks/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/google-openai-and-over-100-companies-call-for-more-action-on-ai-driven-cyberattacks/</guid>
+<pubDate>Mon, 31 Aug 2026 03:00:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>作った側が一番警戒しているという事態。OpenAI、Anthropic、Google、Microsoft、Amazon、Oracleなど100を超える企業や組織が、最先端のAIモデルを悪用したサイバー攻撃への大規模な対策強化を求めています。… — ギズモード・ジャパン / score: 75 (AIによるサイバー攻撃対策への大規模な動き)</description>
+</item>
+<item>
+<title>[75] Anthropicがマルウェア感染の疑いがあるユーザーを強制ログアウトさせ支払い方法を削除し返金処理を実施</title>
+<link>https://gigazine.net/news/20260831-anthropic-warn-malware/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20260831-anthropic-warn-malware/</guid>
+<pubDate>Mon, 31 Aug 2026 02:49:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>ユーザーのPCを乗っ取ってAnthropicのAI「Claude」を不正に使用するマルウェアが確認されました。Anthropicはこうしたマルウェアを検知し、ユーザーを強制ログアウトする措置を取っています。 続きを読む... — GIGAZINE / score: 75 (マルウェア感染疑いユーザーへの強制的セキュリティ措置)</description>
+</item>
+<item>
 <title>[75] ソニー・ミュージックパブリッシングとワーナー・チャペル、Anthropicを著作権侵害で提訴</title>
 <link>https://www.itmedia.co.jp/news/article/2608/31/2000000950/</link>
 <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2608/31/2000000950/</guid>
@@ -429,14 +437,6 @@
 <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 75 (OpenAIの独自AIチップ開発のニュース)</description>
-</item>
-<item>
-<title>[75] AMD、ROCm 10リリースとAI開発基盤「ROCm.AI」の一般提供を開始</title>
-<link>https://codezine.jp/article/detail/29508</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/29508</guid>
-<pubDate>Fri, 28 Aug 2026 09:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 75 (AMD ROCm 10とROCm.AIの一般提供)</description>
 </item>
 <item>
 <title>[75] 「Microsoft Edge 152」が公開 ～更新頻度は2倍に、詐欺サイトへ誘導する通知を自動停止／Apple アカウントでのサインインにも対応。脆弱性も大量に修正</title>
@@ -647,20 +647,20 @@
 <description> — CodeZine / score: 70 (Azure Repos向けGitHub Copilotコードレビューのプレビュー)</description>
 </item>
 <item>
+<title>[70] QRコード悪用のフィッシング「クイッシング」検出増加、攻撃者は“使い慣れた技術への信頼”を悪用　ESET脅威レポート 2026年上半期版</title>
+<link>https://internet.watch.impress.co.jp/docs/news/2136621.html</link>
+<guid isPermaLink="true">https://internet.watch.impress.co.jp/docs/news/2136621.html</guid>
+<pubDate>Sun, 30 Aug 2026 22:44:27 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>QRコード悪用のフィッシング「クイッシング」検出増加、攻撃者は“使い慣れた技術への信頼”を悪用 ESET脅威レポート 2026年上半期版 — はてなブックマーク テクノロジー / score: 70 (QRコード悪用のフィッシング増加に関する脅威レポート)</description>
+</item>
+<item>
 <title>[70] 人間のCFO・COO・人事・法務・マーケティング責任者・広報担当などをAI幹部で置き換える「Open Executive」</title>
 <link>https://gigazine.net/news/20260831-ai-virtual-executive-team/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260831-ai-virtual-executive-team/</guid>
 <pubDate>Sun, 30 Aug 2026 22:00:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>AIを活用して仮想経営幹部チームを作り、8種類の専門エージェントが企業経営に関する助言を行うオープンソースのAIシステム「Open Executive」が公開されています。ハーバード大学MBAレベルの知識を持つとうたう上級アドバイザーが、会社の事業内容に合わせてカスタマイズされます。 続きを読む... — GIGAZINE / score: 70 (経営幹部を模倣するオープンソースAIシステムの興味深い話題)</description>
-</item>
-<item>
-<title>[70] AIに同じミスを繰り返させない「ハーネスエンジニアリング」とは？</title>
-<link>https://gigazine.net/news/20260828-harness-engineering/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260828-harness-engineering/</guid>
-<pubDate>Fri, 28 Aug 2026 14:10:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>AIにプログラムを書かせる「AIコーディングエージェント」により多くの作業を任せるには、AIが生成したコードをどこまで信頼できるかが問題になります。AI支援開発の専門家であるビルギッタ・ベッケラー氏が、AIをうまく働かせる周辺環境を整える「ハーネスエンジニアリング」という考え方を解説しています。 続きを読む... — GIGAZINE / score: 70 (AI開発手法ハーネスエンジニアリングの解説)</description>
 </item>
 <item>
 <title>[70] ドコモ、eSIMの開始手続きで障害　店頭・オンラインともに影響</title>
@@ -767,14 +767,6 @@
 <description>テキストエディター「GNU Emacs」の最新版「Emacs 31.1」が、8月24日にリリースされた。2025年2月リリースの「Emacs 30.1」以来となるメジャーアップデートで、以下の新機能や改善が盛り込まれている。 — 窓の杜 / score: 70 (GNU Emacsのメジャーアップデート)</description>
 </item>
 <item>
-<title>[70] 【速報】M6とM5 Pro搭載のMac mini発表！9月22日発売</title>
-<link>https://iphone-mania.jp/mac-604924/</link>
-<guid isPermaLink="true">https://iphone-mania.jp/mac-604924/</guid>
-<pubDate>Tue, 25 Aug 2026 14:34:35 +0000</pubDate>
-<category>iPhone Mania</category>
-<description>Appleは8月25日、M6とM5 Proを搭載したMac miniを発表しました。すでに予約受付を開始しており、9月22日に発売予定です。販売価格はM6モデルが149,800円（税込、以下同じ）から、M5 Proモデル […] — iPhone Mania / score: 70 (新型プロセッサを搭載した小型PCの発表)</description>
-</item>
-<item>
 <title>[70] Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original</title>
 <link>https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing</link>
 <guid isPermaLink="true">https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing</guid>
@@ -805,6 +797,14 @@
 <pubDate>Tue, 25 Aug 2026 02:50:57 +0000</pubDate>
 <category>Latent Space</category>
 <description>We’ve lost count of how many adoption milestones have been passed since the original Rise of the AI Engineer post, but surely Andrew Ng, cofounder of Google Brain and Coursera among many other things, relaunching DeepLearning.ai with a focus on AI Engineering is a big one : This was done via “ an analysis of over 10,000 job postings; carrying out dozens of structured interviews with AI experts, hiring managers, and recruiters; gathering data through surveys; and synthesizing other online data ”  — Latent Space / score: 70 (Andrew NgのAIエンジニアリング参入の動向。)</description>
+</item>
+<item>
+<title>[70] シングルバイナリなOLAP DBの次期版「DuckDB 2.0」プレビュー。クライアント／サーバ機能が安定版に、スキーマレスのVARIANT型、トリガー、非同期I/Oなど新機能</title>
+<link>https://www.publickey1.jp/blog/26/olap_dbduckdb_20variantio.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/olap_dbduckdb_20variantio.html</guid>
+<pubDate>Mon, 24 Aug 2026 15:29:33 +0000</pubDate>
+<category>Publickey</category>
+<description>オープンソースとして開発されているOLAPデータベース「DuckDB」の開発を主導しているDuckDB Foundationは、今年の秋にリリース予定の「DuckDB 2.0」にどのような新機能が搭載予定なのかを紹介したブログ「A Prev... — Publickey / score: 70 (高パフォーマンスDBの次期版プレビュー)</description>
 </item>
 </channel>
 </rss>
