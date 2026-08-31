@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 31 Aug 2026 18:11:44 +0000</lastBuildDate>
+<lastBuildDate>Mon, 31 Aug 2026 20:09:13 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] [AINews] NVIDIA buys HuggingFace for $13B, as OpenAI publishes their HF incident retro</title>
@@ -327,6 +327,14 @@
 <description>TheInformation had the scoop last month, but OpenRouter’s acquisition by Stripe for $7B was seems all but closed this weekend, 90 days after their $1.3B Series B . Their last revenue number out there was $140m annualized, so this represents a “standard” 50x multiple for a top tier AI company. What’s incredible is the profitability : Although much smaller than Cursor, OpenRouter likely has better economics. Its costs to serve its model-routing product were recently about $40 million on an annuali — Latent Space / score: 80 (StripeによるOpenRouterの大型買収)</description>
 </item>
 <item>
+<title>[75] Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 processors are now generally available</title>
+<link>https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/</link>
+<guid isPermaLink="true">https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/</guid>
+<pubDate>Mon, 31 Aug 2026 19:53:34 +0000</pubDate>
+<category>AWS News Blog</category>
+<description>Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 are now generally available, delivering up to 25% better compute performance than R8g, ideal for databases, in-memory caches, and real-time analytics. — AWS News Blog / score: 75 (最新のGraviton5プロセッサ搭載インスタンス)</description>
+</item>
+<item>
 <title>[75] AWS Weekly Roundup: Welcome DuckLabs to the team, Agentic Resource Discovery (ARD), and more (August 31, 2026)</title>
 <link>https://aws.amazon.com/blogs/aws/aws-weekly-roundup-welcome-ducklabs-to-the-team-agentic-resource-discovery-ard-and-more-august-31-2026/</link>
 <guid isPermaLink="true">https://aws.amazon.com/blogs/aws/aws-weekly-roundup-welcome-ducklabs-to-the-team-agentic-resource-discovery-ard-and-more-august-31-2026/</guid>
@@ -615,6 +623,14 @@
 <description>「Gemini Live」が単なる話し相手から仕事を片付ける相棒に ～「Gemini Spark」と連携／「Daily Brief」の読み上げや「Gmail」のハンズフリー整理にも対応 — はてなブックマーク テクノロジー / score: 70 (GoogleのGemini Liveにおけるエージェント機能の強化。)</description>
 </item>
 <item>
+<title>[70] Automated Security Response on AWS adds AI Toolkit for custom remediations</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/08/automated-security-response-adds-AI-toolkit/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/08/automated-security-response-adds-AI-toolkit/</guid>
+<pubDate>Mon, 31 Aug 2026 06:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Today, AWS announced four new capabilities for Automated Security Response on AWS (ASR). Customers can now use an AI-driven Toolkit that generates custom remediations using any AI assistant with built-in safety guardrails. In addition, customers can automatically remediate findings from Amazon Inspector, Amazon GuardDuty, and Amazon Macie. Customers can also centrally configure and scope automated remediations by account, OU, region, and resource tags through an enhanced web console. Lastly, cus — AWS What's New / score: 70 (AIを活用した自動セキュリティ修復機能の追加)</description>
+</item>
+<item>
 <title>[70] Azure Repos向けCopilotコードレビュー、パブリックプレビュー公開</title>
 <link>https://codezine.jp/article/detail/29500</link>
 <guid isPermaLink="true">https://codezine.jp/article/detail/29500</guid>
@@ -789,22 +805,6 @@
 <pubDate>Mon, 24 Aug 2026 15:29:33 +0000</pubDate>
 <category>Publickey</category>
 <description>オープンソースとして開発されているOLAPデータベース「DuckDB」の開発を主導しているDuckDB Foundationは、今年の秋にリリース予定の「DuckDB 2.0」にどのような新機能が搭載予定なのかを紹介したブログ「A Prev... — Publickey / score: 70 (高パフォーマンスDBの次期版プレビュー)</description>
-</item>
-<item>
-<title>[70] Claude Mythos 5がClaude Securityで利用可能に ―エンタープライズユーザー向けに提供開始</title>
-<link>https://gihyo.jp/article/2026/08/mythos-5-to-claude-security?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/08/mythos-5-to-claude-security?utm_source=feed</guid>
-<pubDate>Mon, 24 Aug 2026 05:57:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Anthropicは2026年8月21日、エンタープライズプラン向けに提供しているセキュリティ機能Claude SecurityのスキャンモデルとしてClaude Mythos 5が利用可能となったことを発表した。 — gihyo.jp / score: 70 (Anthropicのセキュリティ機能へのClaude Mythos 5追加)</description>
-</item>
-<item>
-<title>[70] AWS WorkSpacesがAIエージェントによるレガシー・デスクトップアプリケーション操作を可能に、API不要</title>
-<link>https://www.infoq.com/jp/news/2026/08/aws-workspaces-ai-agents/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-<guid isPermaLink="true">https://www.infoq.com/jp/news/2026/08/aws-workspaces-ai-agents/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-<pubDate>Mon, 24 Aug 2026 05:30:00 +0000</pubDate>
-<category>InfoQ Japan</category>
-<description>AWSはAmazon WorkSpacesがAIエージェント向けのマネージド仮想デスクトップとして利用可能になったと発表した。これによりアプリケーションのモダナイゼーションやAPI統合を必要とせず、Computer Visionと入力シミュレーションを通じてレガシー・デスクトップアプリケーションを操作可能になる。 By Steef-Jan Wiggers Translated by Hiroaki.Sugimura — InfoQ Japan / score: 70 (レガシー操作を可能にするAWSの新機能)</description>
 </item>
 </channel>
 </rss>
