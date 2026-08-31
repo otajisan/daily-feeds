@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 31 Aug 2026 12:15:20 +0000</lastBuildDate>
+<lastBuildDate>Mon, 31 Aug 2026 14:11:06 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] [AINews] NVIDIA buys HuggingFace for $13B, as OpenAI publishes their HF incident retro</title>
@@ -117,14 +117,6 @@
 <pubDate>Fri, 28 Aug 2026 22:12:02 +0000</pubDate>
 <category>Simon Willison</category>
 <description>Just a rumour of a bug is enough to find a security exploit these days Anil Madhavapeddy is a professor of computer science at Cambridge and a core maintainer of the OCaml compiler. In this somewhat alarming post he reports that security issues in OCaml projects are seeing evidence of attempted exploits within minutes of patches being shared for discussion: This normally takes a few days and a release within a week or two is reasonable. Within about ten minutes (!) this website was fielding prob — Simon Willison / score: 85 (バグの噂からセキュリティ脆弱性が発見される傾向。)</description>
-</item>
-<item>
-<title>[85] イエローハット180万人分漏えいか</title>
-<link>https://news.yahoo.co.jp/pickup/6593422?source=rss</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6593422?source=rss</guid>
-<pubDate>Fri, 28 Aug 2026 09:08:05 +0000</pubDate>
-<category>Yahoo!ニュース IT</category>
-<description> — Yahoo!ニュース IT / score: 85 (大規模な個人情報流出の可能性)</description>
 </item>
 <item>
 <title>[85] Google、動画生成・編集AI「Gemini Omni 1.1 Flash」を発表、「映像制作の現場で使える水準」／コストを1/3にするドラフト生成機能も搭載、動画制作ツール「Flow」でも提供、</title>
@@ -386,17 +378,9 @@
 <title>[75] Anthropicがマルウェア感染の疑いがあるユーザーを強制ログアウトさせ支払い方法を削除し返金処理を実施</title>
 <link>https://gigazine.net/news/20260831-anthropic-warn-malware/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260831-anthropic-warn-malware/</guid>
-<pubDate>Mon, 31 Aug 2026 03:10:18 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>ユーザーのPCを乗っ取ってAnthropicのAI「Claude」を不正に使用するマルウェアが確認されました。Anthropicはこうしたマルウェアを検知し、ユーザーを強制ログアウトする措置を取っています。 Thank you, Anthropic (really) by u/WorriedAssociate7029 in ClaudeAI Anthropic warns infostealer malware is hijacking C... — はてなブックマーク テクノロジー / score: 75 (マルウェア感染疑いユーザーへの強制的セキュリティ措置)</description>
-</item>
-<item>
-<title>[75] ちょっと待って。AI各社が求める「AIによるサイバー攻撃への対策」がAI活用？</title>
-<link>https://www.gizmodo.jp/article/google-openai-and-over-100-companies-call-for-more-action-on-ai-driven-cyberattacks/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/google-openai-and-over-100-companies-call-for-more-action-on-ai-driven-cyberattacks/</guid>
-<pubDate>Mon, 31 Aug 2026 03:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>作った側が一番警戒しているという事態。OpenAI、Anthropic、Google、Microsoft、Amazon、Oracleなど100を超える企業や組織が、最先端のAIモデルを悪用したサイバー攻撃への大規模な対策強化を求めています。… — ギズモード・ジャパン / score: 75 (AIによるサイバー攻撃対策への大規模な動き)</description>
+<pubDate>Mon, 31 Aug 2026 02:49:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>ユーザーのPCを乗っ取ってAnthropicのAI「Claude」を不正に使用するマルウェアが確認されました。Anthropicはこうしたマルウェアを検知し、ユーザーを強制ログアウトする措置を取っています。 続きを読む... — GIGAZINE / score: 75 (マルウェア感染疑いユーザーへの強制的セキュリティ措置)</description>
 </item>
 <item>
 <title>[75] Windows 11、OneDriveバックアップの「押しつけ」がようやく撤廃へ | ソフトアンテナ</title>
@@ -485,6 +469,14 @@
 <pubDate>Thu, 27 Aug 2026 06:54:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>OpenAIのMax Stoiber氏は2026年8月26日、スキルをMCP経由で配信する「Skills Over MCP」に同社が早期対応したとXに投稿した。 — gihyo.jp / score: 75 (OpenAIのMCP関連新機能サポート)</description>
+</item>
+<item>
+<title>[75] How Warp builds self-improving agents on Claude | Claude by Anthropic</title>
+<link>https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude</link>
+<guid isPermaLink="true">https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude</guid>
+<pubDate>Thu, 27 Aug 2026 03:03:22 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>$73M raised. 800K monthly developers build on Warp. 56% of the Fortune 500 uses Warp. 10M Claude Code sessions run inside Warp to date, 400K+ per week. 40M total Warp Agent conversations. Agents need to handle recurring tasks reliably and effectively. A first-pass prompt that gets 80% of the task... — はてなブックマーク テクノロジー / score: 75 (WarpでのClaude活用とAIエージェント構築事例)</description>
 </item>
 <item>
 <title>[75] Qwen3.8-Flash-Next</title>
@@ -634,9 +626,9 @@
 <title>[70] 「Gemini Live」が単なる話し相手から仕事を片付ける相棒に ～「Gemini Spark」と連携／「Daily Brief」の読み上げや「Gmail」のハンズフリー整理にも対応</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2136814.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2136814.html</guid>
-<pubDate>Mon, 31 Aug 2026 06:43:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Googleは8月26日（現地時間）、「Gemini Live」のアップデートを発表した。「Gemini Live」は、「Gemini」アプリに搭載されている音声対話機能。同社によると、「Gemini」ユーザーの63％が音声で話しかけているというが、この機能にエージェント機能が追加される。会話に応じるだけでなく、作業を声で依頼できるようになるわけだ。 — 窓の杜 / score: 70 (GoogleのGemini Liveにおけるエージェント機能の強化。)</description>
+<pubDate>Mon, 31 Aug 2026 06:56:53 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>「Gemini Live」が単なる話し相手から仕事を片付ける相棒に ～「Gemini Spark」と連携／「Daily Brief」の読み上げや「Gmail」のハンズフリー整理にも対応 — はてなブックマーク テクノロジー / score: 70 (GoogleのGemini Liveにおけるエージェント機能の強化。)</description>
 </item>
 <item>
 <title>[70] Azure Repos向けCopilotコードレビュー、パブリックプレビュー公開</title>
@@ -645,6 +637,14 @@
 <pubDate>Mon, 31 Aug 2026 04:00:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 70 (Azure ReposのCopilotレビュー公開)</description>
+</item>
+<item>
+<title>[70] A milestone in expanding access to AI</title>
+<link>https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads</link>
+<guid isPermaLink="true">https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads</guid>
+<pubDate>Mon, 31 Aug 2026 04:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options. — OpenAI News / score: 70 (OpenAIのビジネス展開と収益規模の発表)</description>
 </item>
 <item>
 <title>[70] TencentがAIモデル「Hy4 preview」を公開、一部テストでGPT-5.6 Solを上回る＆213GBまで軽量化した1bit量子化版も公開される</title>
