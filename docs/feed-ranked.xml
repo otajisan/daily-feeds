@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 31 Aug 2026 14:11:06 +0000</lastBuildDate>
+<lastBuildDate>Mon, 31 Aug 2026 16:10:20 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] [AINews] NVIDIA buys HuggingFace for $13B, as OpenAI publishes their HF incident retro</title>
@@ -239,14 +239,6 @@
 <description>AIによる広範なサイバー攻撃への防御を強化できる「時間は限られている」として、OpenAIら150以上の組織が、企業や政府、その他の機関に対し、サイバーセキュリティー強化へ迅速に行動するよう呼びかけた。 — CNET Japan / score: 80 (AIを活用した大規模サイバー攻撃への防衛強化の呼びかけ)</description>
 </item>
 <item>
-<title>[80] AIエージェントが「トクリュウ」化？　目的達成のために手段を選ばず</title>
-<link>https://atmarkit.itmedia.co.jp/ait/articles/2608/31/news036.html</link>
-<guid isPermaLink="true">https://atmarkit.itmedia.co.jp/ait/articles/2608/31/news036.html</guid>
-<pubDate>Sun, 30 Aug 2026 23:46:48 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>AIエージェントが「トクリュウ」化？ 目的達成のために手段を選ばず：OpenAIが“暴走”の調査結果を公表 OpenAIは評価環境内のAIエージェントが第三者システムに侵入した事案について調査結果を公表した。調査によると、複数のAIエージェントはチームを組み、役割を分担し、目的達成のために手段を選ばずに攻撃を実行した... — はてなブックマーク テクノロジー / score: 80 (AIエージェントの自律的な攻撃リスクに関する調査)</description>
-</item>
-<item>
 <title>[80] [AINews] OpenAI shuts off Cursor</title>
 <link>https://www.latent.space/p/ainews-openai-shuts-off-cursor</link>
 <guid isPermaLink="true">https://www.latent.space/p/ainews-openai-shuts-off-cursor</guid>
@@ -343,6 +335,14 @@
 <description>TheInformation had the scoop last month, but OpenRouter’s acquisition by Stripe for $7B was seems all but closed this weekend, 90 days after their $1.3B Series B . Their last revenue number out there was $140m annualized, so this represents a “standard” 50x multiple for a top tier AI company. What’s incredible is the profitability : Although much smaller than Cursor, OpenRouter likely has better economics. Its costs to serve its model-routing product were recently about $40 million on an annuali — Latent Space / score: 80 (StripeによるOpenRouterの大型買収)</description>
 </item>
 <item>
+<title>[75] AWS Weekly Roundup: Welcome DuckLabs to the team, Agentic Resource Discovery (ARD), and more (August 31, 2026)</title>
+<link>https://aws.amazon.com/blogs/aws/aws-weekly-roundup-welcome-ducklabs-to-the-team-agentic-resource-discovery-ard-and-more-august-31-2026/</link>
+<guid isPermaLink="true">https://aws.amazon.com/blogs/aws/aws-weekly-roundup-welcome-ducklabs-to-the-team-agentic-resource-discovery-ard-and-more-august-31-2026/</guid>
+<pubDate>Mon, 31 Aug 2026 14:45:25 +0000</pubDate>
+<category>AWS News Blog</category>
+<description>The news that interested me the most last week was the DuckLabs acquisition. AWS has signed a definitive agreement to acquire DuckLabs, the Amsterdam-based company behind DuckDB, the popular open source analytical database that runs in-process and executes SQL directly against files like Parquet, CSV, and JSON. DuckDB stays open source under its independent foundation […] — AWS News Blog / score: 75 (DuckDB買収を含むAWSの週次重要アップデート)</description>
+</item>
+<item>
 <title>[75] Uberに見るAIエージェントの運用コストをいかに減らすか？｜深津 貴之 (fladdict)</title>
 <link>https://note.com/fladdict/n/nd62972dd23bb</link>
 <guid isPermaLink="true">https://note.com/fladdict/n/nd62972dd23bb</guid>
@@ -367,28 +367,12 @@
 <description>GitHubは、エージェントネイティブ開発のためのデスクトップ制御センターである「GitHub Copilot」アプリを発表した。これは、AIエージェントがより多くのコーディング作業を処理する一方で、エンジニアが主導権を握り続けることを目的としている。最近のコーディングエージェントの台頭によりデリバリーは高速化したものの、「ワークフローの断片化、コンテキスト切り替えの増加、エージェントが生成したコードのレビューに費やす時間の過多」といった問題も生じていると Mario Rodriguez氏はGitHubブログで述べている。 Copilotアプリは、これらのエージェントを不透明なバックグラウンドプロセスとして実行するのではなく、指示を出したり監視したり、既存のGitHubワークフローに連携させたりできる場として位置づけられている。 By Matt Saunders Translated by Takashi Kawase — InfoQ Japan / score: 75 (GitHub Copilotの新機能とエージェント型開発の方向性。)</description>
 </item>
 <item>
-<title>[75] Fable 5に迫る頭脳が無償。「GLM-5.3」オープンウェイト公開</title>
-<link>https://pc.watch.impress.co.jp/docs/news/2136902.html</link>
-<guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2136902.html</guid>
-<pubDate>Mon, 31 Aug 2026 04:48:44 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Fable 5に迫る頭脳が無償。「GLM-5.3」オープンウェイト公開 — はてなブックマーク テクノロジー / score: 75 (高性能オープンウェイトAIモデルの公開)</description>
-</item>
-<item>
 <title>[75] Anthropicがマルウェア感染の疑いがあるユーザーを強制ログアウトさせ支払い方法を削除し返金処理を実施</title>
 <link>https://gigazine.net/news/20260831-anthropic-warn-malware/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260831-anthropic-warn-malware/</guid>
 <pubDate>Mon, 31 Aug 2026 02:49:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>ユーザーのPCを乗っ取ってAnthropicのAI「Claude」を不正に使用するマルウェアが確認されました。Anthropicはこうしたマルウェアを検知し、ユーザーを強制ログアウトする措置を取っています。 続きを読む... — GIGAZINE / score: 75 (マルウェア感染疑いユーザーへの強制的セキュリティ措置)</description>
-</item>
-<item>
-<title>[75] Windows 11、OneDriveバックアップの「押しつけ」がようやく撤廃へ | ソフトアンテナ</title>
-<link>https://softantenna.com/blog/windows11-onedrive-opt-out-update/</link>
-<guid isPermaLink="true">https://softantenna.com/blog/windows11-onedrive-opt-out-update/</guid>
-<pubDate>Mon, 31 Aug 2026 02:29:35 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Windows 11で長年ユーザーを悩ませてきた「最悪のダークパターン」が、ようやく改善されようとしています。 これまで、Windows 11でたびたび表示されるOneDriveバックアップの使用を促すポップアップ画面には、明確な拒否ボタンが存在せず、「後で通知する」か「続行する」しか選べない仕様でした。 しかし、最新の25H2... — はてなブックマーク テクノロジー / score: 75 (Windows11のOneDrive強制バックアップ撤廃)</description>
 </item>
 <item>
 <title>[75] GitHub Copilotのコードレビュー機能、自動ボットや大型プルリクエストに対応</title>
@@ -607,6 +591,22 @@
 <description>Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index That's the same score as GPT-5.6 Luna (max), and just one point behind GLM-5.2 (max) and DeepSeek V4 Pro 0813 (max) - that GLM is 753B and that DeepSeek is 1.7T parameters , and Luna is size unknown but presumably a whole lot bigger than 27B. Qwen 3.8 27B is a truly astonishing model . Via Hacker News Tags: ai , generative-ai , llms , qwen , ai-in-china , artificial-analysis — Simon Willison / score: 75 (Qwen 3.8 27Bの性能評価スコア。)</description>
 </item>
 <item>
+<title>[70] BigQuery Graph is now GA: the knowledge foundation for the agentic era</title>
+<link>https://cloud.google.com/blog/products/data-analytics/bigquery-graph-connecting-data-and-ai-at-scale/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/data-analytics/bigquery-graph-connecting-data-and-ai-at-scale/</guid>
+<pubDate>Mon, 31 Aug 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Many of the questions that matter in enterprise data aren't just about individual rows — they're about how things connect: how two accounts are linked, what path a payment took, what context grounds an AI agent's answer. That’s what a graph is built to solve. Historically, unlocking these insights meant extracting data into standalone graph databases, creating silos and operational overhead. To remove these barriers, we brought native graph capabilities directly to the data warehouse. Today, we  — Google Cloud Blog / score: 70 (BigQuery Graphの一般提供開始とデータ基盤の進化)</description>
+</item>
+<item>
+<title>[70] Amazon OpenSearch Service adds new Cluster Insights for faster diagnosis of cluster status</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/08/opensearch-cluster-status-insight/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/08/opensearch-cluster-status-insight/</guid>
+<pubDate>Mon, 31 Aug 2026 15:41:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon OpenSearch Service has expanded Cluster Insights with 17 new insights that identify the root causes behind Red and Yellow cluster status and provide actionable recommendations to resolve them. These insights cover resource exhaustion scenarios including JVM out-of-memory, sustained CPU saturation, as well as configuration issues such as zone imbalance, and misconfigured replica counts. Previously, when a cluster entered Red or Yellow status due to unassigned shards, diagnosing the underly — AWS What's New / score: 70 (Amazon OpenSearchのクラスター診断機能強化)</description>
+</item>
+<item>
 <title>[70] 「Outlook」「Teams」の「Copilot」がチャット中心のデザインに刷新へ ～9月に一般提供／「Work IQ」のコントロール、「タスク」ビューなどを追加</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2136816.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2136816.html</guid>
@@ -618,9 +618,9 @@
 <title>[70] OSに年齢確認を義務づける法案でLinuxなどのオープンソースOSが除外される、Windows・macOS・iOS・Androidは引き続き対象に</title>
 <link>https://gigazine.net/news/20260831-os-age-verification-law-amendment/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260831-os-age-verification-law-amendment/</guid>
-<pubDate>Mon, 31 Aug 2026 06:57:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>OS(オペレーティングシステム)を提供する者にユーザーの年齢確認を実施するという法律に、「提供者が固定されないオープンソースのOSも対象になるのか」と批判があったことを受け、カリフォルニア州議会が法律の修正を行いました。これによりLinux等のOSが法律の対象外となりました。 続きを読む... — GIGAZINE / score: 70 (年齢確認法案におけるOSSの扱いに関する重要な法制動向。)</description>
+<pubDate>Mon, 31 Aug 2026 07:41:48 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>OS(オペレーティングシステム)を提供する者にユーザーの年齢確認を実施するという法律に、「提供者が固定されないオープンソースのOSも対象になるのか」と批判があったことを受け、カリフォルニア州議会が法律の修正を行いました。これによりLinux等のOSが法律の対象外となりました。 Bill Text: CA AB1856 | 2025-2026 ... — はてなブックマーク テクノロジー / score: 70 (年齢確認法案におけるOSSの扱いに関する重要な法制動向。)</description>
 </item>
 <item>
 <title>[70] 「Gemini Live」が単なる話し相手から仕事を片付ける相棒に ～「Gemini Spark」と連携／「Daily Brief」の読み上げや「Gmail」のハンズフリー整理にも対応</title>
