@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 31 Aug 2026 04:12:10 +0000</lastBuildDate>
+<lastBuildDate>Mon, 31 Aug 2026 06:20:00 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] [AINews] NVIDIA buys HuggingFace for $13B, as OpenAI publishes their HF incident retro</title>
@@ -87,14 +87,6 @@
 <description>脆弱性とこれからの話 2026 summer - 2026のCVE津波を乗り越えるには 2026.8.29 塩尻にてリリース — はてなブックマーク テクノロジー / score: 85 (脆弱性やCVEの増加に関する重要なセキュリティ解説)</description>
 </item>
 <item>
-<title>[85] 【独自】Jアラート「偽の警報可能」　専門家、発信元保証なし | NEWSjp</title>
-<link>https://news.jp/i/1466765023720423596</link>
-<guid isPermaLink="true">https://news.jp/i/1466765023720423596</guid>
-<pubDate>Sun, 30 Aug 2026 12:43:29 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>弾道ミサイル発射や緊急地震速報などの緊急情報を全国の自治体に送信する全国瞬時警報システム（Jアラート）で、人工衛星を経由して送信されるデータの暗号化や発信元を保証する機能がないことが30日、専門家への取材で分かった。総務省関係者も認めた。専門家は「第三者が成り済まして偽の警報を送信することが可能」と... — はてなブックマーク テクノロジー / score: 85 (Jアラートの脆弱性指摘という重大なセキュリティ問題)</description>
-</item>
-<item>
 <title>[85] 【独自】Jアラート「偽の警報可能」　専門家、発信元保証なし</title>
 <link>https://www.47news.jp/14868281.html</link>
 <guid isPermaLink="true">https://www.47news.jp/14868281.html</guid>
@@ -109,14 +101,6 @@
 <pubDate>Sat, 29 Aug 2026 15:49:58 +0000</pubDate>
 <category>Zenn トレンド</category>
 <description>はじめに 2026年8月29日の早朝、私が管理しているリリースワークフローの不備を突かれ、npmパッケージ@7nohe/openapi-react-query-codegenに悪意あるバージョンが10個公開されました。 いわゆるサプライチェーン攻撃で、インストールした時点で攻撃者のコードが実行されます。 この期間にインストールしてしまった方には、お詫び申し上げます。 該当する場合は、そのマシンやCIランナーから到達できる認証情報（npm・GitHubのトークン、SSH鍵、クラウドのアクセスキー、環境変数のシークレット）をすべてローテーションすることを強くお勧めします。 今回のペイロー... — Zenn トレンド / score: 85 (npmサプライチェーン攻撃の実体験と対応)</description>
-</item>
-<item>
-<title>[85] Anthropic、AIと物理機器連携の新標準「Model Hardware Standard」を公開</title>
-<link>https://codezine.jp/article/detail/29495</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/29495</guid>
-<pubDate>Sat, 29 Aug 2026 04:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 85 (AnthropicによるAIと物理機器連携の新標準公開)</description>
 </item>
 <item>
 <title>[85] Just a rumour of a bug is enough to find a security exploit these days</title>
@@ -231,6 +215,14 @@
 <description>OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development. — OpenAI News / score: 85 (サイバーセキュリティ脅威に対応する安全性強化の取り組み)</description>
 </item>
 <item>
+<title>[80] 「Microsoft Defender」ウイルス対策に“無効”との誤った通知、Microsoftが問題を認める／修正は今後の「Defender」更新で</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2136742.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2136742.html</guid>
+<pubDate>Mon, 31 Aug 2026 05:35:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Microsoftは8月28日（現地時間、以下同）、OS標準のセキュリティ機能「Microsoft Defender」ウイルス対策で新たな問題が発生していることを明らかにした。「Microsoft Defender」ウイルス対策の最新アップデートを適用すると、ウイルス対策が正常に機能しており、設定上もすべて有効と表示されているにもかかわらず、無効になっているという通知が現れることがあるという。通知はWindowsの起動時のほか、その後も断続的に現れる。しかも、通知の設定をオフにしても表示され続ける。 — 窓の杜 / score: 80 (Microsoft Defenderの誤通知不具合)</description>
+</item>
+<item>
 <title>[80] AIによる大規模サイバー攻撃に備えよ--OpenAIら155組織が防衛強化を呼びかけ</title>
 <link>https://japan.cnet.com/article/35252073/</link>
 <guid isPermaLink="true">https://japan.cnet.com/article/35252073/</guid>
@@ -335,12 +327,20 @@
 <description>TheInformation had the scoop last month, but OpenRouter’s acquisition by Stripe for $7B was seems all but closed this weekend, 90 days after their $1.3B Series B . Their last revenue number out there was $140m annualized, so this represents a “standard” 50x multiple for a top tier AI company. What’s incredible is the profitability : Although much smaller than Cursor, OpenRouter likely has better economics. Its costs to serve its model-routing product were recently about $40 million on an annuali — Latent Space / score: 80 (StripeによるOpenRouterの大型買収)</description>
 </item>
 <item>
-<title>[80] The Defender’s Window</title>
-<link>https://openai.com/index/the-defenders-window</link>
-<guid isPermaLink="true">https://openai.com/index/the-defenders-window</guid>
-<pubDate>Mon, 17 Aug 2026 05:30:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now. — OpenAI News / score: 80 (AI時代のセキュリティと脅威対策の議論)</description>
+<title>[75] 600km超離れたデータセンター間でシステム全体を「完全自動復旧」 日立・NTTドコビジらが実証に成功</title>
+<link>https://ascii.jp/elem/000/004/430/4430324/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/430/4430324/?rss</guid>
+<pubDate>Mon, 31 Aug 2026 05:00:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>日立製作所と日立ヴァンタラ、NTTドコモビジネスの3社は、レッドハットと日本オラクルの協力のもと、東京・大阪間に相当する600km超離れたデータセンター間において、災害発生時にアプリケーションを含むシステム全体を“完全自動復旧”させる共同実証に成功したと発表した。 — ASCII.jp / score: 75 (遠隔DC間でのシステム完全自動復旧の実証成功)</description>
+</item>
+<item>
+<title>[75] Anthropicがマルウェア感染の疑いがあるユーザーを強制ログアウトさせ支払い方法を削除し返金処理を実施</title>
+<link>https://gigazine.net/news/20260831-anthropic-warn-malware/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20260831-anthropic-warn-malware/</guid>
+<pubDate>Mon, 31 Aug 2026 03:10:18 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>ユーザーのPCを乗っ取ってAnthropicのAI「Claude」を不正に使用するマルウェアが確認されました。Anthropicはこうしたマルウェアを検知し、ユーザーを強制ログアウトする措置を取っています。 Thank you, Anthropic (really) by u/WorriedAssociate7029 in ClaudeAI Anthropic warns infostealer malware is hijacking C... — はてなブックマーク テクノロジー / score: 75 (マルウェア感染疑いユーザーへの強制的セキュリティ措置)</description>
 </item>
 <item>
 <title>[75] 謎多き次世代Xeon「Diamond Rapids」を解剖、3D Meshの進化と新命令セットAPXがもたらす変革</title>
@@ -359,20 +359,12 @@
 <description>作った側が一番警戒しているという事態。OpenAI、Anthropic、Google、Microsoft、Amazon、Oracleなど100を超える企業や組織が、最先端のAIモデルを悪用したサイバー攻撃への大規模な対策強化を求めています。… — ギズモード・ジャパン / score: 75 (AIによるサイバー攻撃対策への大規模な動き)</description>
 </item>
 <item>
-<title>[75] Anthropicがマルウェア感染の疑いがあるユーザーを強制ログアウトさせ支払い方法を削除し返金処理を実施</title>
-<link>https://gigazine.net/news/20260831-anthropic-warn-malware/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260831-anthropic-warn-malware/</guid>
-<pubDate>Mon, 31 Aug 2026 02:49:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>ユーザーのPCを乗っ取ってAnthropicのAI「Claude」を不正に使用するマルウェアが確認されました。Anthropicはこうしたマルウェアを検知し、ユーザーを強制ログアウトする措置を取っています。 続きを読む... — GIGAZINE / score: 75 (マルウェア感染疑いユーザーへの強制的セキュリティ措置)</description>
-</item>
-<item>
-<title>[75] ソニー・ミュージックパブリッシングとワーナー・チャペル、Anthropicを著作権侵害で提訴</title>
-<link>https://www.itmedia.co.jp/news/article/2608/31/2000000950/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2608/31/2000000950/</guid>
-<pubDate>Mon, 31 Aug 2026 00:32:18 +0000</pubDate>
+<title>[75] 光るPCでゲームが落ちる？8月のWindows 11更新後の強制終了問題が修正</title>
+<link>https://pc.watch.impress.co.jp/docs/news/2136789.html</link>
+<guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2136789.html</guid>
+<pubDate>Mon, 31 Aug 2026 01:54:39 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>米Sony Music Publishing（ソニーグループ傘下の米音楽出版大手。日本の同名企業とは別法人）と米Warner Chappell Musicを中心とする音楽出版社グループは8月28日（現地時間）、米Anthropicと共同創業者のダリオ・アモデイCEO、ベンジャミン・マン氏を著作権侵害で米カリフォルニア州北部地区連邦地裁に提訴した。全48ペ... — はてなブックマーク テクノロジー / score: 75 (生成AIの著作権侵害に関する大手音楽出版社の提訴)</description>
+<description>光るPCでゲームが落ちる？8月のWindows 11更新後の強制終了問題が修正 — はてなブックマーク テクノロジー / score: 75 (Win11更新によるゲーム強制終了の修正)</description>
 </item>
 <item>
 <title>[75] GitHub Copilotのコードレビュー機能、自動ボットや大型プルリクエストに対応</title>
@@ -389,14 +381,6 @@
 <pubDate>Sun, 30 Aug 2026 23:01:09 +0000</pubDate>
 <category>Yahoo!ニュース IT</category>
 <description> — Yahoo!ニュース IT / score: 75 (ソニーグループによるAI企業提訴のニュース)</description>
-</item>
-<item>
-<title>[75] ソニーG傘下の音楽出版などアンソロピック提訴　AIが楽曲を｢無断学習｣ - 日本経済新聞</title>
-<link>https://www.nikkei.com/article/DGXZQOGN302I30Q6A830C2000000/</link>
-<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOGN302I30Q6A830C2000000/</guid>
-<pubDate>Sun, 30 Aug 2026 22:27:03 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>【シリコンバレー=山田航平】ソニーグループ傘下の音楽出版企業など35社は、数万点の歌詞や楽譜を人工知能（AI）に学習させて著作権を侵害したとして、米アンソロピックと最高経営責任者（CEO）のダリオ・アモデイ氏らを提訴した。ソニーGで音楽出版を手掛ける米ソニー・ミュージックパブリッシングなどが28日付で米カリ... — はてなブックマーク テクノロジー / score: 75 (生成AIの無断学習を巡るソニーG等の著作権訴訟)</description>
 </item>
 <item>
 <title>[75] JetBrains、Mac上で動作するコーディングエージェント「Junie Local」提供開始。Claude Sonnet 4.5と同等の能力、RTX5909対応も開発中</title>
@@ -429,14 +413,6 @@
 <pubDate>Sat, 29 Aug 2026 05:36:20 +0000</pubDate>
 <category>iPhone Mania</category>
 <description>iPhoneでWebサイトを閲覧していると、Apple Payで高額な支払いが完了したかのような画面や、Face IDによる認証を装った画面が突然表示される詐欺が報告されました。 実際には、課金も認証も行われておらず、表 […] — iPhone Mania / score: 75 (Apple Payを装った詐欺の手口と対処法の注意喚起)</description>
-</item>
-<item>
-<title>[75] OpenAI、独自AI推論チップ「Jalapeño」の初期性能を発表</title>
-<link>https://codezine.jp/article/detail/29490</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/29490</guid>
-<pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 75 (OpenAIの独自AIチップ開発のニュース)</description>
 </item>
 <item>
 <title>[75] 「Microsoft Edge 152」が公開 ～更新頻度は2倍に、詐欺サイトへ誘導する通知を自動停止／Apple アカウントでのサインインにも対応。脆弱性も大量に修正</title>
@@ -543,14 +519,6 @@
 <description>Appleは、M5 MaxとM5 Ultraを搭載した新型Mac Studioを発表しました。M5 Ultraモデルは、最大36コアのCPU、最大80コアのGPU、最大512GBのユニファイドメモリなどに対応し、現行Ma […] — iPhone Mania / score: 75 (ハイエンド向け新型プロセッサとPC発表)</description>
 </item>
 <item>
-<title>[75] オープンなCPU命令セット「RISC-V」を「CPython」が正式サポート／あくまでベストエフォートの「Tier 3」プラットフォームに</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2135338.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2135338.html</guid>
-<pubDate>Tue, 25 Aug 2026 07:42:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>「Python」のリファレンス実装である「CPython」の正式サポート対象に、CPUの命令セットアーキテクチャー（ISA）「RISC-V」が加わった。Pythonのコア開発チームが8月24日（米国時間、以下同）、公式ブログ「Python Insider」で明らかにした。 — 窓の杜 / score: 75 (CPythonがRISC-Vを正式サポート)</description>
-</item>
-<item>
 <title>[75] Disrupting a new covert influence campaign from Russia</title>
 <link>https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia</link>
 <guid isPermaLink="true">https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia</guid>
@@ -629,6 +597,14 @@
 <pubDate>Mon, 17 Aug 2026 23:58:14 +0000</pubDate>
 <category>Simon Willison</category>
 <description>Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index That's the same score as GPT-5.6 Luna (max), and just one point behind GLM-5.2 (max) and DeepSeek V4 Pro 0813 (max) - that GLM is 753B and that DeepSeek is 1.7T parameters , and Luna is size unknown but presumably a whole lot bigger than 27B. Qwen 3.8 27B is a truly astonishing model . Via Hacker News Tags: ai , generative-ai , llms , qwen , ai-in-china , artificial-analysis — Simon Willison / score: 75 (Qwen 3.8 27Bの性能評価スコア。)</description>
+</item>
+<item>
+<title>[70] Azure Repos向けCopilotコードレビュー、パブリックプレビュー公開</title>
+<link>https://codezine.jp/article/detail/29500</link>
+<guid isPermaLink="true">https://codezine.jp/article/detail/29500</guid>
+<pubDate>Mon, 31 Aug 2026 04:00:00 +0000</pubDate>
+<category>CodeZine</category>
+<description> — CodeZine / score: 70 (Azure ReposのCopilotレビュー公開)</description>
 </item>
 <item>
 <title>[70] TencentがAIモデル「Hy4 preview」を公開、一部テストでGPT-5.6 Solを上回る＆213GBまで軽量化した1bit量子化版も公開される</title>
@@ -775,14 +751,6 @@
 <description> — Hugging Face Blog / score: 70 (4bit量子化モデルの効率的な最適化手法)</description>
 </item>
 <item>
-<title>[70] デジタル庁、「マイナアプリ」を提供開始／iOS/Androidでマイナンバーカードの情報を使った本人確認が可能</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2135431.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2135431.html</guid>
-<pubDate>Tue, 25 Aug 2026 07:53:12 +0000</pubDate>
-<category>窓の杜</category>
-<description>デジタル庁は8月25日、「マイナポータルアプリ」に「デジタル認証アプリ」の機能を統合した「マイナアプリ」の提供を開始した。App StoreまたはGoogle Playから新たにダウンロードするか、既存のマイナポータルアプリをアップデートすることで利用可能だ。 — 窓の杜 / score: 70 (デジタル庁のマイナアプリ提供開始)</description>
-</item>
-<item>
 <title>[70] AIと対話してネイティブiOS/Androidアプリをリアルタイムに構築、SwiftUI対応コーディングプラットフォーム「Dactyl」発表</title>
 <link>https://gihyo.jp/article/2026/08/dactyl?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/08/dactyl?utm_source=feed</guid>
@@ -805,6 +773,38 @@
 <pubDate>Mon, 24 Aug 2026 15:29:33 +0000</pubDate>
 <category>Publickey</category>
 <description>オープンソースとして開発されているOLAPデータベース「DuckDB」の開発を主導しているDuckDB Foundationは、今年の秋にリリース予定の「DuckDB 2.0」にどのような新機能が搭載予定なのかを紹介したブログ「A Prev... — Publickey / score: 70 (高パフォーマンスDBの次期版プレビュー)</description>
+</item>
+<item>
+<title>[70] Claude Mythos 5がClaude Securityで利用可能に ―エンタープライズユーザー向けに提供開始</title>
+<link>https://gihyo.jp/article/2026/08/mythos-5-to-claude-security?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/08/mythos-5-to-claude-security?utm_source=feed</guid>
+<pubDate>Mon, 24 Aug 2026 05:57:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Anthropicは2026年8月21日、エンタープライズプラン向けに提供しているセキュリティ機能Claude SecurityのスキャンモデルとしてClaude Mythos 5が利用可能となったことを発表した。 — gihyo.jp / score: 70 (Anthropicのセキュリティ機能へのClaude Mythos 5追加)</description>
+</item>
+<item>
+<title>[70] AWS WorkSpacesがAIエージェントによるレガシー・デスクトップアプリケーション操作を可能に、API不要</title>
+<link>https://www.infoq.com/jp/news/2026/08/aws-workspaces-ai-agents/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+<guid isPermaLink="true">https://www.infoq.com/jp/news/2026/08/aws-workspaces-ai-agents/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+<pubDate>Mon, 24 Aug 2026 05:30:00 +0000</pubDate>
+<category>InfoQ Japan</category>
+<description>AWSはAmazon WorkSpacesがAIエージェント向けのマネージド仮想デスクトップとして利用可能になったと発表した。これによりアプリケーションのモダナイゼーションやAPI統合を必要とせず、Computer Visionと入力シミュレーションを通じてレガシー・デスクトップアプリケーションを操作可能になる。 By Steef-Jan Wiggers Translated by Hiroaki.Sugimura — InfoQ Japan / score: 70 (レガシー操作を可能にするAWSの新機能)</description>
+</item>
+<item>
+<title>[70] Quoting Linus Torvalds</title>
+<link>https://simonwillison.net/2026/Aug/22/linus-torvalds/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Aug/22/linus-torvalds/</guid>
+<pubDate>Sat, 22 Aug 2026 21:04:26 +0000</pubDate>
+<category>Simon Willison</category>
+<description>And this was a debug session from hell, enormously helped by an AI doing much of the grunt-work. I'd like to call it my tireless helper, but the AI several times stated flat out that this was impossible and unsolvable and that we should just write a report about it. I suspect those things have been trained by people who may not be quite as stubborn as I am. But while the AI was ready to give up several times, it did keep adding debug code and analyzing it faithfully when I pushed. So credit wher — Simon Willison / score: 70 (リーナス・トーバルズによるAIデバッグの言及)</description>
+</item>
+<item>
+<title>[70] v4.2.0-M1</title>
+<link>https://github.com/spring-projects/spring-boot/releases/tag/v4.2.0-M1</link>
+<guid isPermaLink="true">https://github.com/spring-projects/spring-boot/releases/tag/v4.2.0-M1</guid>
+<pubDate>Fri, 21 Aug 2026 06:58:29 +0000</pubDate>
+<category>Spring Boot リリース</category>
+<description>⭐ New Features Refine Forwarded headers configuration for Jetty servers #51148 Disable Micrometer global registry in tests by default #51142 Use GracefulHandler rather than StatisticsHandler to coordinate graceful shutdown of Jetty #51128 Deprecate RestTemplate support #51118 Update properties for forwarded headers to adapt to Reactor Netty changes #51031 Update properties for forwarded headers to adapt to Spring Framework changes #51030 Remove APIs that were deprecated for removal in 4.2 #50955 — Spring Boot リリース / score: 70 (Spring Boot 4.2.0-M1のマイルストーンリリース)</description>
 </item>
 </channel>
 </rss>
