@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 31 Aug 2026 20:09:13 +0000</lastBuildDate>
+<lastBuildDate>Mon, 31 Aug 2026 22:08:55 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] [AINews] NVIDIA buys HuggingFace for $13B, as OpenAI publishes their HF incident retro</title>
@@ -335,6 +335,14 @@
 <description>Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 are now generally available, delivering up to 25% better compute performance than R8g, ideal for databases, in-memory caches, and real-time analytics. — AWS News Blog / score: 75 (最新のGraviton5プロセッサ搭載インスタンス)</description>
 </item>
 <item>
+<title>[75] Amazon EC2 R9g and R9gd memory optimized instances are now available</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r9g-and-r9gd-memory-optimized-instances-are-now-available/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r9g-and-r9gd-memory-optimized-instances-are-now-available/</guid>
+<pubDate>Mon, 31 Aug 2026 18:08:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R9g and R9gd instances, powered by AWS Graviton5 processors, are generally available. AWS Graviton5 processors are the fifth generation of custom-designed CPUs, delivering the best price performance for memory-intensive workloads running on Amazon EC2. R9g instances are ideal for memory-intensive workloads including databases, in-memory caches, real-time big data analytics, Linux-based workloads including containerized and micro-service-b — AWS What's New / score: 75 (AWS Graviton5を搭載したEC2インスタンス提供開始)</description>
+</item>
+<item>
 <title>[75] AWS Weekly Roundup: Welcome DuckLabs to the team, Agentic Resource Discovery (ARD), and more (August 31, 2026)</title>
 <link>https://aws.amazon.com/blogs/aws/aws-weekly-roundup-welcome-ducklabs-to-the-team-agentic-resource-discovery-ard-and-more-august-31-2026/</link>
 <guid isPermaLink="true">https://aws.amazon.com/blogs/aws/aws-weekly-roundup-welcome-ducklabs-to-the-team-agentic-resource-discovery-ard-and-more-august-31-2026/</guid>
@@ -591,6 +599,30 @@
 <description>Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index That's the same score as GPT-5.6 Luna (max), and just one point behind GLM-5.2 (max) and DeepSeek V4 Pro 0813 (max) - that GLM is 753B and that DeepSeek is 1.7T parameters , and Luna is size unknown but presumably a whole lot bigger than 27B. Qwen 3.8 27B is a truly astonishing model . Via Hacker News Tags: ai , generative-ai , llms , qwen , ai-in-china , artificial-analysis — Simon Willison / score: 75 (Qwen 3.8 27Bの性能評価スコア。)</description>
 </item>
 <item>
+<title>[70] Amazon Redshift now supports AWS IAM Identity Center authentication with enhanced VPC routing</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-redshift-supports-idc-evr</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-redshift-supports-idc-evr</guid>
+<pubDate>Mon, 31 Aug 2026 21:02:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon Redshift now supports AWS IAM Identity Center authentication for provisioned clusters and serverless workgroups configured with enhanced VPC routing (EVR). You can access Amazon Redshift with single sign-on with your corporate credentials, and the traffic traverses Amazon Virtual Private Cloud (Amazon VPC) and stays on the AWS network. This is valuable for customers with data residency, regulatory, or network-isolation requirements that mandate no public internet egress for analytics. Wit — AWS What's New / score: 70 (Amazon RedshiftのIAM認証機能強化)</description>
+</item>
+<item>
+<title>[70] AWS Lambda recursive loop detection is now available in all commercial AWS Regions</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/08/lambda-recursion-regions</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/08/lambda-recursion-regions</guid>
+<pubDate>Mon, 31 Aug 2026 17:30:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS Lambda recursive loop detection has expanded support to all commercial AWS Regions. This feature, which is enabled by default, is a guardrail that automatically detects and stops recursive invocations between Lambda functions and other supported services, preventing runaway workloads. When using event sources such as Amazon S3, Amazon SQS, and Amazon SNS to trigger Lambda functions, a misconfiguration or code defect can cause events to be sent back to the same source that triggered the Lambd — AWS What's New / score: 70 (AWS Lambdaの再帰ループ検出機能の全リージョン展開)</description>
+</item>
+<item>
+<title>[70] Amazon Aurora serverless is now available with 30% better performance and smarter scaling in additional AWS Regions</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-aurora-serverless-performance-improvement-additional-regions/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-aurora-serverless-performance-improvement-additional-regions/</guid>
+<pubDate>Mon, 31 Aug 2026 16:46:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon Aurora serverless now delivers up to 30% better performance and enhanced scaling in additional AWS Regions: Asia Pacific (New Zealand), Asia Pacific (Thailand), Africa (Cape Town), Europe (Milan), and Mexico (Central). These improvements are available for both Aurora PostgreSQL and Aurora MySQL. Aurora serverless is the autoscaling database that scales up to support your most demanding workloads and down to zero when you don't need it, so you only pay for what you actually use. The enhanc — AWS What's New / score: 70 (Amazon Aurora serverlessのパフォーマンス向上と展開拡大)</description>
+</item>
+<item>
 <title>[70] Amazon OpenSearch Service adds new Cluster Insights for faster diagnosis of cluster status</title>
 <link>https://aws.amazon.com/about-aws/whats-new/2026/08/opensearch-cluster-status-insight/</link>
 <guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/08/opensearch-cluster-status-insight/</guid>
@@ -773,38 +805,6 @@
 <pubDate>Tue, 25 Aug 2026 22:59:30 +0000</pubDate>
 <category>Simon Willison</category>
 <description>EVE Online: The Move to Python 3 Begins! EVE Online has been one of the most interesting case studies in Python at scale for over twenty years now. They've been running on Stackless Python since their launch in 2003, and their last major upgrade was 16 years ago, to Stackless Python 2.7 in 2010 . Their upgrade to Python 3 will start using the futurize script against 2.4 million lines of code, followed by careful manual review of the ~20,000 places where Python 2 and 3 behavior differ - for examp — Simon Willison / score: 70 (EVE OnlineのPython 3移行事例)</description>
-</item>
-<item>
-<title>[70] Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original</title>
-<link>https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing</link>
-<guid isPermaLink="true">https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing</guid>
-<pubDate>Tue, 25 Aug 2026 11:39:24 +0000</pubDate>
-<category>Hugging Face Blog</category>
-<description> — Hugging Face Blog / score: 70 (4bit量子化モデルの効率的な最適化手法)</description>
-</item>
-<item>
-<title>[70] AIと対話してネイティブiOS/Androidアプリをリアルタイムに構築、SwiftUI対応コーディングプラットフォーム「Dactyl」発表</title>
-<link>https://gihyo.jp/article/2026/08/dactyl?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/08/dactyl?utm_source=feed</guid>
-<pubDate>Tue, 25 Aug 2026 06:59:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Deno開発チームは2026年8月23日、ネイティブのiOS/Androidアプリを開発できるバイブコーディングプラットフォーム「Dactyl」を発表した。 — gihyo.jp / score: 70 (DenoチームによるSwiftUI対応アプリ構築プラットフォーム発表)</description>
-</item>
-<item>
-<title>[70] [AINews] Andrew Ng gets into AI Engineering</title>
-<link>https://www.latent.space/p/ainews-andrew-ng-gets-into-ai-engineering</link>
-<guid isPermaLink="true">https://www.latent.space/p/ainews-andrew-ng-gets-into-ai-engineering</guid>
-<pubDate>Tue, 25 Aug 2026 02:50:57 +0000</pubDate>
-<category>Latent Space</category>
-<description>We’ve lost count of how many adoption milestones have been passed since the original Rise of the AI Engineer post, but surely Andrew Ng, cofounder of Google Brain and Coursera among many other things, relaunching DeepLearning.ai with a focus on AI Engineering is a big one : This was done via “ an analysis of over 10,000 job postings; carrying out dozens of structured interviews with AI experts, hiring managers, and recruiters; gathering data through surveys; and synthesizing other online data ”  — Latent Space / score: 70 (Andrew NgのAIエンジニアリング参入の動向。)</description>
-</item>
-<item>
-<title>[70] シングルバイナリなOLAP DBの次期版「DuckDB 2.0」プレビュー。クライアント／サーバ機能が安定版に、スキーマレスのVARIANT型、トリガー、非同期I/Oなど新機能</title>
-<link>https://www.publickey1.jp/blog/26/olap_dbduckdb_20variantio.html</link>
-<guid isPermaLink="true">https://www.publickey1.jp/blog/26/olap_dbduckdb_20variantio.html</guid>
-<pubDate>Mon, 24 Aug 2026 15:29:33 +0000</pubDate>
-<category>Publickey</category>
-<description>オープンソースとして開発されているOLAPデータベース「DuckDB」の開発を主導しているDuckDB Foundationは、今年の秋にリリース予定の「DuckDB 2.0」にどのような新機能が搭載予定なのかを紹介したブログ「A Prev... — Publickey / score: 70 (高パフォーマンスDBの次期版プレビュー)</description>
 </item>
 </channel>
 </rss>
