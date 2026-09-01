@@ -4,8 +4,24 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Tue, 01 Sep 2026 18:12:13 +0000</lastBuildDate>
+<lastBuildDate>Tue, 01 Sep 2026 20:09:31 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Codex bundles LibreOffice</title>
+<link>https://simonwillison.net/2026/Sep/1/codex-libreoffice/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Sep/1/codex-libreoffice/</guid>
+<pubDate>Tue, 01 Sep 2026 19:03:01 +0000</pubDate>
+<category>Simon Willison</category>
+<description>I was poking around in my ~/.cache/ folder using OmniDiskSweeper when I spotted something interesting. The OpenAI Codex desktop app (since rebranded to just ChatGPT) has 1.7GB of stuff in there in a folder called codex-primary-runtime , including a full Python installation, a full Node.js installation, and native binaries for Poppler , git, and the LibreOffice open source office suite (which forked from OpenOffice.org in 2010): The ~/.cache/codex-runtimes/codex-primary-runtime/plugins/openai-pri — Simon Willison / score: 45 (ChatGPTデスクトップアプリの内部構成に関する観察)</description>
+</item>
+<item>
+<title>Introducing Claude Fable 5.1 and Claude Mythos 5.1</title>
+<link>https://www.anthropic.com/claude-fable-and-mythos-5-1</link>
+<guid isPermaLink="true">https://www.anthropic.com/claude-fable-and-mythos-5-1</guid>
+<pubDate>Tue, 01 Sep 2026 18:03:43 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>We’re introducing Claude Fable 5.1 and Claude Mythos 5.1. They’re the world’s most advanced models for coding and knowledge work—and their research capabilities offer an early glimpse of how AI models will contribute to scientific progress. Claude Fable 5.1 and Claude Mythos 5.1 are the same mode... — はてなブックマーク テクノロジー / score: 85 (Anthropicの最新AIモデルの発表)</description>
+</item>
 <item>
 <title>Introducing agentic video understanding with Gemini</title>
 <link>https://deepmind.google/blog/introducing-agentic-video-in-gemini/</link>
@@ -37,6 +53,14 @@
 <pubDate>Tue, 01 Sep 2026 17:00:00 +0000</pubDate>
 <category>Gemini (Google Blog)</category>
 <description>Text "Agentic video understanding" next to the Gemini logo, all on a dark blue background — Gemini (Google Blog) / score: 65 (Geminiのエージェント的動画理解機能の発表)</description>
+</item>
+<item>
+<title>Amazon Connect Customer dashboards now support compact mode</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/connect-dashboards-compact-mode/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/connect-dashboards-compact-mode/</guid>
+<pubDate>Tue, 01 Sep 2026 17:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon Connect Customer now offers compact mode on the analytics dashboards, increasing data density so supervisors can see more of their operational data without scrolling. Compact mode reduces widget size, font, and minimizes filters to maximize screen space. For example, a supervisor on a 13-inch laptop toggles compact mode, which reduces row height, enabling them to view all team agents on the widget without scrolling and spot non-adherent agents faster. Compact mode on dashboards is availab — AWS What's New / score: 30 (Amazon ConnectのUIアップデートに関する情報)</description>
 </item>
 <item>
 <title>PRs NOT Welcome: How Top AI Open Source Projects Are Managing Thousands of Contributors</title>
@@ -77,6 +101,14 @@
 <pubDate>Tue, 01 Sep 2026 16:00:00 +0000</pubDate>
 <category>ASCII.jp</category>
 <description>サウンドバーの「Sonos Beam Ultra」は10月9日の発売（先行予約は9月25日に開始）で、直販価格は9万9800円。ヘッドホンの「Sonos Ace Ultra」は10月30日発売（先行予約は10月16日に開始）で、直販価格は6万9800円となる。 — ASCII.jp / score: 30 (オーディオ機器の新製品発表と発売情報)</description>
+</item>
+<item>
+<title>Claude Codeでトークンリミットが頻発したので、作業ごとにリミットを設定した - エムスリーテックブログ</title>
+<link>https://www.m3tech.blog/entry/claude-budget-tags</link>
+<guid isPermaLink="true">https://www.m3tech.blog/entry/claude-budget-tags</guid>
+<pubDate>Tue, 01 Sep 2026 15:18:58 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>この記事は、Unit7 リサーチプロダクトチームのブログリレー7日目の記事です。 こんにちは、エムスリーエンジニアリンググループ/Unit7 リサーチプロダクトチームでチームリーダーをやっている遠藤です。 皆さん、トークン使い切ってますか？私は24時間トークンを使い切れる人間でありたいと思っています。 エムスリーエ... — はてなブックマーク テクノロジー / score: 50 (Claude Codeのトークン管理に関する実用的な解説)</description>
 </item>
 <item>
 <title>CIO、6.83mmの薄さに5,000mAhの半固体系セル搭載の新型モバイルバッテリー「SMARTCOBY ULTRA SLIM SS5K」を発表</title>
@@ -141,6 +173,14 @@
 <pubDate>Tue, 01 Sep 2026 14:42:59 +0000</pubDate>
 <category>気になる、記になる…</category>
 <description>JAL Payが、本日よりApple Payでの支払いで最大100％のポイント還元を行う「JAL Pay Apple Payで最大100%ポイントバックキャンペーン」を開始しました。 「JAL Pay Apple Pay […] — 気になる、記になる… / score: 20 (決済サービスのポイント還元キャンペーン情報)</description>
+</item>
+<item>
+<title>Claude Fable 5.1, Anthropic's new frontier model is now available on AWS</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/claude-fable-5-1-aws/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/claude-fable-5-1-aws/</guid>
+<pubDate>Tue, 01 Sep 2026 14:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Claude Fable 5.1 is generally available on AWS and brings Anthropic's most capable frontier model to all customers. Fable 5.1 delivers frontier intelligence for ambitious tasks across coding, scientific research, and enterprise workflows. A clear improvement over Claude Fable 5, Fable 5.1 is a step up in intelligence on the hardest reasoning tasks, providing better judgement on ambiguous work and fewer confident wrong answers. Claude Mythos 5.1, the same underlying model as Claude Fable 5.1 with — AWS What's New / score: 85 (新AIモデルがAWS上で一般提供開始という重要ニュース)</description>
 </item>
 <item>
 <title>Financially Motivated Threat Actor BREEZE COMET Targets Brazil</title>
@@ -503,6 +543,14 @@
 <description>日本中の「映える」マンションを、集めました。一点豪華主義で選ぶマンションギャラリー「ニッポン映える不動産」を9月1日公開 — ASCII.jp / score: 10 (不動産ポータルサイトの公開情報)</description>
 </item>
 <item>
+<title>Google Cloudのセキュリティ強化を爆速で！ - Google Cloud minimum viable secure platformのススメ - Nealle Developer's Blog</title>
+<link>https://nealle-dev.hatenablog.com/entry/2026/09/01/180204</link>
+<guid isPermaLink="true">https://nealle-dev.hatenablog.com/entry/2026/09/01/180204</guid>
+<pubDate>Tue, 01 Sep 2026 09:28:55 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>はじめに みなさん、こんにちは！ ニーリーでSREをしています、宇田川（X: @Ryoheiengineer）です！ 今回は、Google Cloud minimum viable secure platform（GCMVSP）を使って、Google Cloudのセキュリティ強化を約1ヶ月で実施した取り組みについてご紹介します。 「Google Cloudを使い始めたけれど、セキュリティ対策は... — はてなブックマーク テクノロジー / score: 50 (Google Cloudのセキュリティ強化の実践例)</description>
+</item>
+<item>
 <title>店舗集客AIエージェント「KUROKO AI」、AEO分析機能を新たに実装。AI検索における店舗の「推奨状況」を週次で可視化</title>
 <link>https://ascii.jp/elem/000/004/431/4431402/?rss</link>
 <guid isPermaLink="true">https://ascii.jp/elem/000/004/431/4431402/?rss</guid>
@@ -757,54 +805,6 @@
 <pubDate>Tue, 01 Sep 2026 07:12:27 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>AIの急速な発展に伴い、ユーザーからの質問に回答するAIチャットボットや、生成AIによる自動音声サポートを導入する企業が増えています。そんな中、人間がAIとのやり取りを重ねるにつれて、「まるでロボットのように振る舞い始めてしまう可能性がある」と研究者らが指摘しました。 Robotoid humanness: when selfhood be... — はてなブックマーク テクノロジー / score: 40 (AIとのやり取りが人間に与える影響の考察)</description>
-</item>
-<item>
-<title>会話セッションを邪魔せずに Claude Code / Codex / Cursor を外部イベントで動かすCLIの作り方まとめ</title>
-<link>https://zenn.dev/coji/articles/artifactshare-preview-claude-codex-cursor</link>
-<guid isPermaLink="true">https://zenn.dev/coji/articles/artifactshare-preview-claude-codex-cursor</guid>
-<pubDate>Tue, 01 Sep 2026 07:12:05 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>これはなに？ 今年の5月ごろから、Artifact Share というサービスを自分で使うためにソース公開で作り続けています。AIエージェントが作ったHTMLやMarkdownをURLで共有するものです。そのCLIに preview というローカルコマンドを追加しました。ブラウザ上でファイルの要素をクリックして指摘を書くと、Claude Code・Code... — はてなブックマーク テクノロジー / score: 50 (AIを活用したCLIツール拡張の技術解説)</description>
-</item>
-<item>
-<title>グーグル検索の「AIモード」、旅行手配に役立つ3つの新機能を追加</title>
-<link>https://japan.cnet.com/article/35252132/</link>
-<guid isPermaLink="true">https://japan.cnet.com/article/35252132/</guid>
-<pubDate>Tue, 01 Sep 2026 07:10:00 +0000</pubDate>
-<category>CNET Japan</category>
-<description>グーグルは「Google検索」の「AIモード」に、旅行の予約と節約に役立つ3つの新機能を順次導入している。 — CNET Japan / score: 40 (Google検索AIモードの新機能紹介)</description>
-</item>
-<item>
-<title>ADRを管理するadrsが良さげかも | kawarimidoll.com</title>
-<link>https://kawarimidoll.com/posts/202609011/</link>
-<guid isPermaLink="true">https://kawarimidoll.com/posts/202609011/</guid>
-<pubDate>Tue, 01 Sep 2026 07:06:05 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>ADRを管理するadrsが良さげかも | kawarimidoll.com Architecture Decision Records（ADR）を管理するRust製CLIツールadrsの紹介です。 — はてなブックマーク テクノロジー / score: 40 (ADRを管理するRust製CLIツールの紹介)</description>
-</item>
-<item>
-<title>Amazon AuroraがPostgreSQL最新版18.4含む複数バージョンを新たにサポート</title>
-<link>https://codezine.jp/article/detail/29521</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/29521</guid>
-<pubDate>Tue, 01 Sep 2026 07:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 65 (Amazon AuroraのPostgreSQL新版対応)</description>
-</item>
-<item>
-<title>AIを活用したWeb／Web API／モバイルアプリの脆弱性診断プラットフォーム「Ostorlab」が販売開始</title>
-<link>https://codezine.jp/article/detail/29532</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/29532</guid>
-<pubDate>Tue, 01 Sep 2026 07:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 60 (AIを活用した脆弱性診断プラットフォームの販売)</description>
-</item>
-<item>
-<title>雨粒が車のボディを腐食させるメカニズムが明らかに、雨粒から車体に電荷が放出されるのがポイント</title>
-<link>https://gigazine.net/news/20260901-raindrops-tiny-lightning-bolts-corroding-cars/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260901-raindrops-tiny-lightning-bolts-corroding-cars/</guid>
-<pubDate>Tue, 01 Sep 2026 07:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>雨粒が自動車のボディを腐食させるメカニズムが、最新の研究で明らかになりました。これまであまり注目されていなかった、「雨粒の帯電」がボディに損傷を与えていたことが明らかになっています。 続きを読む... — GIGAZINE / score: 25 (雨粒による車の腐食メカニズムの科学ニュース)</description>
 </item>
 </channel>
 </rss>
