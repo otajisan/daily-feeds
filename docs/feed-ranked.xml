@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 31 Aug 2026 22:08:55 +0000</lastBuildDate>
+<lastBuildDate>Tue, 01 Sep 2026 00:29:28 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] [AINews] NVIDIA buys HuggingFace for $13B, as OpenAI publishes their HF incident retro</title>
@@ -319,12 +319,20 @@
 <description>OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy. — OpenAI News / score: 80 (API顧客向けのデータ保持ポリシーとプライバシー強化)</description>
 </item>
 <item>
-<title>[80] [AINews] Stripe buys OpenRouter for $7B</title>
-<link>https://www.latent.space/p/ainews-stripe-buys-openrouter-for</link>
-<guid isPermaLink="true">https://www.latent.space/p/ainews-stripe-buys-openrouter-for</guid>
-<pubDate>Mon, 17 Aug 2026 23:13:41 +0000</pubDate>
-<category>Latent Space</category>
-<description>TheInformation had the scoop last month, but OpenRouter’s acquisition by Stripe for $7B was seems all but closed this weekend, 90 days after their $1.3B Series B . Their last revenue number out there was $140m annualized, so this represents a “standard” 50x multiple for a top tier AI company. What’s incredible is the profitability : Although much smaller than Cursor, OpenRouter likely has better economics. Its costs to serve its model-routing product were recently about $40 million on an annuali — Latent Space / score: 80 (StripeによるOpenRouterの大型買収)</description>
+<title>[75] Amazon ECS、コンテナインスタンスの自動検出と修復機能を提供</title>
+<link>https://codezine.jp/article/detail/29516</link>
+<guid isPermaLink="true">https://codezine.jp/article/detail/29516</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<category>CodeZine</category>
+<description> — CodeZine / score: 75 (Amazon ECSのコンテナインスタンス自動検出・修復機能の追加)</description>
+</item>
+<item>
+<title>[75] Amazon DocumentDB now supports direct major version upgrades to version 8.0</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/08/documentdb-major-version-upgrade-8-0/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/08/documentdb-major-version-upgrade-8-0/</guid>
+<pubDate>Mon, 31 Aug 2026 22:30:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon DocumentDB (with MongoDB compatibility) now supports in-place major version upgrades (MVU) directly from engine versions 3.6 and 4.0 to version 8.0. This upgrade capability removes the need for intermediate version upgrades and allows you to upgrade your version 3.6 or 4.0 clusters while preserving existing data, configurations, and cluster settings. Upgrading to version 8.0 provides access to the latest security patches, performance improvements, and new developer capabilities. Major ver — AWS What's New / score: 75 (DocumentDBのメジャーバージョンアップ対応)</description>
 </item>
 <item>
 <title>[75] Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 processors are now generally available</title>
@@ -349,6 +357,14 @@
 <pubDate>Mon, 31 Aug 2026 14:45:25 +0000</pubDate>
 <category>AWS News Blog</category>
 <description>The news that interested me the most last week was the DuckLabs acquisition. AWS has signed a definitive agreement to acquire DuckLabs, the Amsterdam-based company behind DuckDB, the popular open source analytical database that runs in-process and executes SQL directly against files like Parquet, CSV, and JSON. DuckDB stays open source under its independent foundation […] — AWS News Blog / score: 75 (DuckDB買収を含むAWSの週次重要アップデート)</description>
+</item>
+<item>
+<title>[75] Running a Software Factory Efficiently at Uber Scale</title>
+<link>https://www.uber.com/us/en/blog/efficient-software-factory/</link>
+<guid isPermaLink="true">https://www.uber.com/us/en/blog/efficient-software-factory/</guid>
+<pubDate>Mon, 31 Aug 2026 11:35:24 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>IntroductionAI tools are now embedded in every phase of software development at Uber. More than 70% of pull requests are attributed to local or cloud agents. Engineers have built over 3,600 agent skills across the software development life cycle, and executed more than 30K agent skill executions ... — はてなブックマーク テクノロジー / score: 75 (Uberの大規模環境におけるAIエージェント活用事例の共有)</description>
 </item>
 <item>
 <title>[75] Uberに見るAIエージェントの運用コストをいかに減らすか？｜深津 貴之 (fladdict)</title>
@@ -415,6 +431,14 @@
 <description>iPhoneでWebサイトを閲覧していると、Apple Payで高額な支払いが完了したかのような画面や、Face IDによる認証を装った画面が突然表示される詐欺が報告されました。 実際には、課金も認証も行われておらず、表 […] — iPhone Mania / score: 75 (Apple Payを装った詐欺の手口と対処法の注意喚起)</description>
 </item>
 <item>
+<title>[75] Amazon Kinesis Data Streams announces streaming tables, delivering data to Apache Iceberg tables on Amazon S3 Tables</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/08/kinesis/data-delivery-s3-tables</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/08/kinesis/data-delivery-s3-tables</guid>
+<pubDate>Fri, 28 Aug 2026 23:34:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon Kinesis Data Streams introduces streaming tables, a new fully serverless capability that continuously delivers data from Kinesis streams to Amazon S3 Tables in Apache Iceberg format. Streaming tables eliminate the need to build and operate self-managed Iceberg delivery pipelines, reducing data delivery costs by up to 50%. Intelligent inline compaction eliminates the small file problem and keeps query performance predictable, reducing downstream query costs by up to 30%. Amazon Kinesis Dat — AWS What's New / score: 75 (Kinesis Data StreamsのS3 Tables対応)</description>
+</item>
+<item>
 <title>[75] 「Microsoft Edge 152」が公開 ～更新頻度は2倍に、詐欺サイトへ誘導する通知を自動停止【8月31日追記】／Apple アカウントでのサインインにも対応。脆弱性も大量に修正</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2136508.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2136508.html</guid>
@@ -461,14 +485,6 @@
 <pubDate>Thu, 27 Aug 2026 06:54:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>OpenAIのMax Stoiber氏は2026年8月26日、スキルをMCP経由で配信する「Skills Over MCP」に同社が早期対応したとXに投稿した。 — gihyo.jp / score: 75 (OpenAIのMCP関連新機能サポート)</description>
-</item>
-<item>
-<title>[75] How Warp builds self-improving agents on Claude | Claude by Anthropic</title>
-<link>https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude</link>
-<guid isPermaLink="true">https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude</guid>
-<pubDate>Thu, 27 Aug 2026 03:03:22 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>$73M raised. 800K monthly developers build on Warp. 56% of the Fortune 500 uses Warp. 10M Claude Code sessions run inside Warp to date, 400K+ per week. 40M total Warp Agent conversations. Agents need to handle recurring tasks reliably and effectively. A first-pass prompt that gets 80% of the task... — はてなブックマーク テクノロジー / score: 75 (WarpでのClaude活用とAIエージェント構築事例)</description>
 </item>
 <item>
 <title>[75] Qwen3.8-Flash-Next</title>
@@ -591,12 +607,12 @@
 <description>Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K. — OpenAI News / score: 75 (AIを活用した大規模なコード移行の実例)</description>
 </item>
 <item>
-<title>[75] Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index</title>
-<link>https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/</link>
-<guid isPermaLink="true">https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/</guid>
-<pubDate>Mon, 17 Aug 2026 23:58:14 +0000</pubDate>
-<category>Simon Willison</category>
-<description>Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index That's the same score as GPT-5.6 Luna (max), and just one point behind GLM-5.2 (max) and DeepSeek V4 Pro 0813 (max) - that GLM is 753B and that DeepSeek is 1.7T parameters , and Luna is size unknown but presumably a whole lot bigger than 27B. Qwen 3.8 27B is a truly astonishing model . Via Hacker News Tags: ai , generative-ai , llms , qwen , ai-in-china , artificial-analysis — Simon Willison / score: 75 (Qwen 3.8 27Bの性能評価スコア。)</description>
+<title>[70] BigQuery Graph is now GA: the knowledge foundation for the agentic era</title>
+<link>https://cloud.google.com/blog/products/data-analytics/bigquery-graph-connecting-data-and-ai-at-scale/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/data-analytics/bigquery-graph-connecting-data-and-ai-at-scale/</guid>
+<pubDate>Mon, 31 Aug 2026 23:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Many of the questions that matter in enterprise data aren't just about individual rows — they're about how things connect: how two accounts are linked, what path a payment took, what context grounds an AI agent's answer. That’s what a graph is built to solve. Historically, unlocking these insights meant extracting data into standalone graph databases, creating silos and operational overhead. To remove these barriers, we brought native graph capabilities directly to the data warehouse. Today, we  — Google Cloud Blog / score: 70 (BigQuery Graphの一般提供開始とデータ基盤の進化)</description>
 </item>
 <item>
 <title>[70] Amazon Redshift now supports AWS IAM Identity Center authentication with enhanced VPC routing</title>
@@ -682,9 +698,9 @@
 <title>[70] TencentがAIモデル「Hy4 preview」を公開、一部テストでGPT-5.6 Solを上回る＆213GBまで軽量化した1bit量子化版も公開される</title>
 <link>https://gigazine.net/news/20260831-hy4-preview-tencent/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260831-hy4-preview-tencent/</guid>
-<pubDate>Mon, 31 Aug 2026 01:44:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>中国の大手テクノロジー企業であるTencentがAIモデル「Hy4 preview」を2026年8月28日に公開しました。GPT-5.6 Solなどの最先端モデルに匹敵する性能を備えており、オープンモデルとして無償公開されています。 続きを読む... — GIGAZINE / score: 70 (中国Tencentによる高性能な新型オープンAIモデルの公開)</description>
+<pubDate>Mon, 31 Aug 2026 03:49:48 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>中国の大手テクノロジー企業であるTencentがAIモデル「Hy4 preview」を2026年8月28日に公開しました。GPT-5.6 Solなどの最先端モデルに匹敵する性能を備えており、オープンモデルとして無償公開されています。 Introducing Hy4 preview | Tencent Hy https://hy.tencent.ai/research/hy4-preview 🚀 Hy4 preview is here... — はてなブックマーク テクノロジー / score: 70 (中国Tencentによる高性能な新型オープンAIモデルの公開)</description>
 </item>
 <item>
 <title>[70] LLMが「1+1」を計算するとき、中で何が起きているのか</title>
@@ -695,20 +711,20 @@
 <description>はじめに ChatGPTやClaudeに「1+1は？」と聞くと、当然のように「2」と返ってきます。 このとき、LLMの内部では電卓のような四則演算が行われているのでしょうか。 実は、Anthropic社の研究により、LLMは計算問題を電卓とはまったく違う方法で解いているこ... — Qiita 人気記事 / score: 70 (LLM内部での演算メカニズムに関する研究解説)</description>
 </item>
 <item>
-<title>[70] Microsoft、Azure Repos向けのGitHub Copilotコードレビューをパブリックプレビュー版でリリース</title>
-<link>https://codezine.jp/article/detail/29483</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/29483</guid>
-<pubDate>Sun, 30 Aug 2026 23:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 70 (Azure Repos向けGitHub Copilotコードレビューのプレビュー)</description>
-</item>
-<item>
 <title>[70] 人間のCFO・COO・人事・法務・マーケティング責任者・広報担当などをAI幹部で置き換える「Open Executive」</title>
 <link>https://gigazine.net/news/20260831-ai-virtual-executive-team/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260831-ai-virtual-executive-team/</guid>
 <pubDate>Sun, 30 Aug 2026 22:00:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>AIを活用して仮想経営幹部チームを作り、8種類の専門エージェントが企業経営に関する助言を行うオープンソースのAIシステム「Open Executive」が公開されています。ハーバード大学MBAレベルの知識を持つとうたう上級アドバイザーが、会社の事業内容に合わせてカスタマイズされます。 続きを読む... — GIGAZINE / score: 70 (経営幹部を模倣するオープンソースAIシステムの興味深い話題)</description>
+</item>
+<item>
+<title>[70] Amazon Kinesis Data Streams announces data delivery to general purpose Amazon S3 buckets</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/08/kinesis/data-delivery-general-purpose-s3-buckets</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/08/kinesis/data-delivery-general-purpose-s3-buckets</guid>
+<pubDate>Sat, 29 Aug 2026 06:47:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon Kinesis Data Streams now delivers streaming data directly to general purpose Amazon S3 buckets, providing the easiest way to ingest and deliver streaming data to S3 without building or managing delivery pipelines. S3 general purpose delivery reduces data delivery costs by up to 60% compared to self-managed alternatives. Amazon Kinesis Data Streams is a serverless streaming data service that makes it easy to capture, process, and store data streams at any scale. Customers commonly deliver  — AWS What's New / score: 70 (Kinesis Data StreamsからS3への直接データ配信)</description>
 </item>
 <item>
 <title>[70] ドコモ、eSIMの開始手続きで障害　店頭・オンラインともに影響</title>
@@ -789,22 +805,6 @@
 <pubDate>Wed, 26 Aug 2026 15:29:13 +0000</pubDate>
 <category>Publickey</category>
 <description>Linux Foundation傘下でMCP（Model Context Protocol）の仕様策定を行っている「Agentic AI Foundation（AAIF）」は、今後のMCPの進化について、その方向性を示す新たなロードマップを... — Publickey / score: 70 (AIエージェント向けMCPのロードマップ策定)</description>
-</item>
-<item>
-<title>[70] 2026-08-26, Version 26.8.0 (Current), @aduh95</title>
-<link>https://github.com/nodejs/node/releases/tag/v26.8.0</link>
-<guid isPermaLink="true">https://github.com/nodejs/node/releases/tag/v26.8.0</guid>
-<pubDate>Wed, 26 Aug 2026 14:28:49 +0000</pubDate>
-<category>Node.js リリース</category>
-<description>Notable Changes [ 74234ee30e ] - (SEMVER-MINOR) benchmark : add --analyze mode to compare.js (James M Snell) #65416 [ 4232997fa2 ] - crypto : update root certificates to NSS 3.126 (Node.js GitHub Bot) #65495 [ f0531f1c87 ] - (SEMVER-MINOR) crypto : enable SIV and GCM-SIV modes in Cipher/Decipher APIs (Filip Skokan) #63411 [ 3f4b80ebb5 ] - diagnostics_channel : mark TracingChannel as stable (Abdelrahman Awad) #64525 [ 753033c110 ] - (SEMVER-MINOR) lib,src : improve histogram implementation (James — Node.js リリース / score: 70 (Node.js Currentの機能追加・更新)</description>
-</item>
-<item>
-<title>[70] EVE Online: The Move to Python 3 Begins!</title>
-<link>https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/</link>
-<guid isPermaLink="true">https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/</guid>
-<pubDate>Tue, 25 Aug 2026 22:59:30 +0000</pubDate>
-<category>Simon Willison</category>
-<description>EVE Online: The Move to Python 3 Begins! EVE Online has been one of the most interesting case studies in Python at scale for over twenty years now. They've been running on Stackless Python since their launch in 2003, and their last major upgrade was 16 years ago, to Stackless Python 2.7 in 2010 . Their upgrade to Python 3 will start using the futurize script against 2.4 million lines of code, followed by careful manual review of the ~20,000 places where Python 2 and 3 behavior differ - for examp — Simon Willison / score: 70 (EVE OnlineのPython 3移行事例)</description>
 </item>
 </channel>
 </rss>
