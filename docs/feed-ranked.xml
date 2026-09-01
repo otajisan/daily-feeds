@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Tue, 01 Sep 2026 00:29:28 +0000</lastBuildDate>
+<lastBuildDate>Tue, 01 Sep 2026 02:14:56 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] [AINews] NVIDIA buys HuggingFace for $13B, as OpenAI publishes their HF incident retro</title>
@@ -71,6 +71,14 @@
 <description>Next.js is moving the August security release forward to August 25, 2026. — Next.js Blog / score: 90 (Next.jsセキュリティリリースの日程前倒し)</description>
 </item>
 <item>
+<title>[85] 実在のCVEをかたるフィッシングが筆者に届いた　「詳しい人」ほど危ないのはなぜ？</title>
+<link>https://www.itmedia.co.jp/enterprise/articles/2609/01/news030.html</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/enterprise/articles/2609/01/news030.html</guid>
+<pubDate>Tue, 01 Sep 2026 00:44:38 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>先日、私のメールアドレスに、「レンタルサーバ上で自分が運営するWordPressのプラグインに脆弱（ぜいじゃく）性が残っており、すぐに更新しなければサーバごと乗っ取られる」というメールが届いていました。 問題となっていたのは「TranslatePress」プラグインで、メールが届いた2日前に「CVE-2026-19632」として登録さ... — はてなブックマーク テクノロジー / score: 85 (実際のCVEを悪用したフィッシングの注意喚起)</description>
+</item>
+<item>
 <title>[85] Meta、ビルド高速化とツールチェーン統合強化のために React コンパイラを Rust へ移植</title>
 <link>https://www.infoq.com/jp/news/2026/08/meta-react-compiler-rust/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
 <guid isPermaLink="true">https://www.infoq.com/jp/news/2026/08/meta-react-compiler-rust/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
@@ -85,14 +93,6 @@
 <pubDate>Mon, 31 Aug 2026 06:50:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>大手音楽会社のソニー・ミュージックパブリッシング(SMP)とワーナーチャペルミュージック(WCM)が、AI「Claude」の開発元であるAnthropicを共同で提訴しました。両社はAnthropicがClaudeをトレーニングするにあたり、著作権で保護された作品数万曲を利用したと主張、損害賠償を求めています。 続きを読む... — GIGAZINE / score: 85 (AI開発における著作権侵害をめぐる大手企業による大規模提訴。)</description>
-</item>
-<item>
-<title>[85] 「エラーログをAIに解析させる」だけで感染　社内のAIを乗っ取る攻撃、対策は？</title>
-<link>https://atmarkit.itmedia.co.jp/ait/articles/2608/31/news035.html</link>
-<guid isPermaLink="true">https://atmarkit.itmedia.co.jp/ait/articles/2608/31/news035.html</guid>
-<pubDate>Mon, 31 Aug 2026 03:40:06 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>「エラーログをAIに解析させる」だけで感染 社内のAIを乗っ取る攻撃、対策は？：標的環境に組み込まれたAIエージェントを悪用し、情報窃取 Kasperskyは、企業環境に導入された正規のAIエージェントが攻撃者に悪用される脅威の分析結果を報告した。攻撃者が自前で悪意あるプログラムを作成するのではなく、標的の開発環... — はてなブックマーク テクノロジー / score: 85 (AIログ解析を悪用した新しいセキュリティ脅威)</description>
 </item>
 <item>
 <title>[85] Steamからゲーム史上最大規模の12TBものゲーム関連ファイルが流出</title>
@@ -221,6 +221,14 @@
 <pubDate>Mon, 31 Aug 2026 05:35:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Microsoftは8月28日（現地時間、以下同）、OS標準のセキュリティ機能「Microsoft Defender」ウイルス対策で新たな問題が発生していることを明らかにした。「Microsoft Defender」ウイルス対策の最新アップデートを適用すると、ウイルス対策が正常に機能しており、設定上もすべて有効と表示されているにもかかわらず、無効になっているという通知が現れることがあるという。通知はWindowsの起動時のほか、その後も断続的に現れる。しかも、通知の設定をオフにしても表示され続ける。 — 窓の杜 / score: 80 (Microsoft Defenderの誤通知不具合)</description>
+</item>
+<item>
+<title>[80] AIが自身の安全研究を自動化、6時間で人間超えの手法を開発。Anthropicの「AAR」</title>
+<link>https://pc.watch.impress.co.jp/docs/news/2136931.html</link>
+<guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2136931.html</guid>
+<pubDate>Mon, 31 Aug 2026 05:30:42 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>AIが自身の安全研究を自動化、6時間で人間超えの手法を開発。Anthropicの「AAR」 — はてなブックマーク テクノロジー / score: 80 (AnthropicによるAI安全研究の自動化成果)</description>
 </item>
 <item>
 <title>[80] AIによる大規模サイバー攻撃に備えよ--OpenAIら155組織が防衛強化を呼びかけ</title>
@@ -367,14 +375,6 @@
 <description>IntroductionAI tools are now embedded in every phase of software development at Uber. More than 70% of pull requests are attributed to local or cloud agents. Engineers have built over 3,600 agent skills across the software development life cycle, and executed more than 30K agent skill executions ... — はてなブックマーク テクノロジー / score: 75 (Uberの大規模環境におけるAIエージェント活用事例の共有)</description>
 </item>
 <item>
-<title>[75] Uberに見るAIエージェントの運用コストをいかに減らすか？｜深津 貴之 (fladdict)</title>
-<link>https://note.com/fladdict/n/nd62972dd23bb</link>
-<guid isPermaLink="true">https://note.com/fladdict/n/nd62972dd23bb</guid>
-<pubDate>Mon, 31 Aug 2026 10:14:35 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Uberが、自社のAIエージェント運用のコスト効果について、記事を書いていた。なかなか面白いポイントが多かったのでメモ。 Uberでは、プルリクの70%以上でAIエージェントが使われていて、3,600以上のAgent Skill、1日3万回以上のSkill実行があるらしい。 ここ半年で、エージェントの利用者数は7倍、リクエスト数は9.4倍... — はてなブックマーク テクノロジー / score: 75 (大規模AIエージェントの運用知見)</description>
-</item>
-<item>
 <title>[75] NVIDIA、AWSと提携しエージェント型AI向けに200万基のGPUを追加導入</title>
 <link>https://codezine.jp/article/detail/29502</link>
 <guid isPermaLink="true">https://codezine.jp/article/detail/29502</guid>
@@ -421,6 +421,14 @@
 <pubDate>Sun, 30 Aug 2026 15:07:47 +0000</pubDate>
 <category>Publickey</category>
 <description>JetBrainsは、ローカルで動作するAIコーディングエージェント「Junie Local」の提供開始を発表しました。 Junie Localはその名称の通り完全にローカルマシン上で動作し、API使用料やモデル使用料などは一切不要。ソフト... — Publickey / score: 75 (ローカル動作するJetBrains製AIエージェント登場)</description>
+</item>
+<item>
+<title>[75] OpenAIアルトマンCEO、年末までに「AGIと呼べる」内部システムを持つ見通し　AstraはすでにAI研究インターン級の能力 | Ledge.ai</title>
+<link>https://ledge.ai/articles/openai_altman_agi_astra_2026</link>
+<guid isPermaLink="true">https://ledge.ai/articles/openai_altman_agi_astra_2026</guid>
+<pubDate>Sun, 30 Aug 2026 15:04:59 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>OpenAIアルトマンCEO、年末までに「AGIと呼べる」内部システムを持つ見通し AstraはすでにAI研究インターン級の能力 | Ledge.ai Top &gt; ビジネス &gt; OpenAIアルトマンCEO、年末までに「AGIと呼べる」内部システムを持つ見通し AstraはすでにAI研究インターン級の能力 — はてなブックマーク テクノロジー / score: 75 (OpenAIによるAGI到達見通しのニュース)</description>
 </item>
 <item>
 <title>[75] 偽のApple Pay課金で電話へ誘導する詐欺〜iPhoneでの見分け方と対処法</title>
@@ -658,17 +666,17 @@
 <title>[70] OSに年齢確認を義務づける法案でLinuxなどのオープンソースOSが除外される、Windows・macOS・iOS・Androidは引き続き対象に</title>
 <link>https://gigazine.net/news/20260831-os-age-verification-law-amendment/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260831-os-age-verification-law-amendment/</guid>
-<pubDate>Mon, 31 Aug 2026 07:41:48 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>OS(オペレーティングシステム)を提供する者にユーザーの年齢確認を実施するという法律に、「提供者が固定されないオープンソースのOSも対象になるのか」と批判があったことを受け、カリフォルニア州議会が法律の修正を行いました。これによりLinux等のOSが法律の対象外となりました。 Bill Text: CA AB1856 | 2025-2026 ... — はてなブックマーク テクノロジー / score: 70 (年齢確認法案におけるOSSの扱いに関する重要な法制動向。)</description>
+<pubDate>Mon, 31 Aug 2026 06:57:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>OS(オペレーティングシステム)を提供する者にユーザーの年齢確認を実施するという法律に、「提供者が固定されないオープンソースのOSも対象になるのか」と批判があったことを受け、カリフォルニア州議会が法律の修正を行いました。これによりLinux等のOSが法律の対象外となりました。 続きを読む... — GIGAZINE / score: 70 (年齢確認法案におけるOSSの扱いに関する重要な法制動向。)</description>
 </item>
 <item>
 <title>[70] 「Gemini Live」が単なる話し相手から仕事を片付ける相棒に ～「Gemini Spark」と連携／「Daily Brief」の読み上げや「Gmail」のハンズフリー整理にも対応</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2136814.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2136814.html</guid>
-<pubDate>Mon, 31 Aug 2026 06:56:53 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>「Gemini Live」が単なる話し相手から仕事を片付ける相棒に ～「Gemini Spark」と連携／「Daily Brief」の読み上げや「Gmail」のハンズフリー整理にも対応 — はてなブックマーク テクノロジー / score: 70 (GoogleのGemini Liveにおけるエージェント機能の強化。)</description>
+<pubDate>Mon, 31 Aug 2026 06:43:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Googleは8月26日（現地時間）、「Gemini Live」のアップデートを発表した。「Gemini Live」は、「Gemini」アプリに搭載されている音声対話機能。同社によると、「Gemini」ユーザーの63％が音声で話しかけているというが、この機能にエージェント機能が追加される。会話に応じるだけでなく、作業を声で依頼できるようになるわけだ。 — 窓の杜 / score: 70 (GoogleのGemini Liveにおけるエージェント機能の強化。)</description>
 </item>
 <item>
 <title>[70] Automated Security Response on AWS adds AI Toolkit for custom remediations</title>
@@ -735,14 +743,6 @@
 <description>NTTドコモは8月28日、eSIM対応機種でeSIMの利用開始手続きがしづらい事象が発生していると発表した。発生は同日午前11時23分ごろで、現在も続いている。午後1時15分時点の第2報でも、原因と復旧の見込みはいずれも「確認中」としている。 — CNET Japan / score: 70 (通信キャリアの大規模な通信・手続き障害)</description>
 </item>
 <item>
-<title>[70] MacBook Pro 128GB でローカル LLM がついに実用になった ─ Qwen3.8 Flash Next 実測</title>
-<link>https://zenn.dev/jtechjapan_pub/articles/local-llm-qwen-flash-next-eval</link>
-<guid isPermaLink="true">https://zenn.dev/jtechjapan_pub/articles/local-llm-qwen-flash-next-eval</guid>
-<pubDate>Thu, 27 Aug 2026 20:06:17 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>株式会社ジェイテックジャパン CTOの高丘 @tomohisaです。 昨年 MacBook Pro を買うときに、ローカルの AI が開発に使えたらいいなと思って、奮発して 128GB のモデルにしました。それから時々、開発にしっかり使えるレベルになっているかを確かめるためにいろいろなモデルを試してきたのですが、サブスクでやっている作業を置き換えられるものには当たりませんでした。35B や 27B のような小さいモデルか、逆に 256GB ないと動かない大きなモデルが多く、80GB から 100GB のあたりで能力の高いものがなかなか見つかりません。そこに Qwen3.8 Flash N... — Zenn トレンド / score: 70 (高スペックMacでのローカルLLM実用検証)</description>
-</item>
-<item>
 <title>[70] LibreOffice 26.8リリース、AI機能は「あえて搭載しない」</title>
 <link>https://gihyo.jp/article/2026/08/daily-linux-260827?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/08/daily-linux-260827?utm_source=feed</guid>
@@ -765,14 +765,6 @@
 <pubDate>Thu, 27 Aug 2026 05:30:00 +0000</pubDate>
 <category>InfoQ Japan</category>
 <description>CloudflareはAgents Weekの一環として、AIエージェントにセッション間、コンテキスト圧縮後、再起動後でも持続するメモリを提供するマネージドサービス、Agent Memoryのプライベート・ベータ版を発表した。すべてをコンテキストウィンドウに詰め込むのではなく、このサービスは会話から構造化メモリを抽出し、必要に応じて関連情報のみを取得する。CloudflareエンジニアリングチームのTyson Trautmann氏とRob Sutter氏が書いている： By Steef-Jan Wiggers Translated by Hiroaki.Sugimura — InfoQ Japan / score: 70 (CloudflareのAI用永続メモリサービス)</description>
-</item>
-<item>
-<title>[70] IIJ、1枚でドコモ網とKDDI網を切り替えられるSIM　耐通信障害を訴求</title>
-<link>https://japan.cnet.com/article/35251982/</link>
-<guid isPermaLink="true">https://japan.cnet.com/article/35251982/</guid>
-<pubDate>Thu, 27 Aug 2026 05:02:00 +0000</pubDate>
-<category>CNET Japan</category>
-<description>IIJ、1枚のSIMでドコモ網とKDDI網を切り替える「マルチプロファイルSIM 2.0」 — CNET Japan / score: 70 (通信障害対策としての複数回線切替SIMサービス)</description>
 </item>
 <item>
 <title>[70] 「LibreOffice 26.8」、半年に1回の大規模更新で組版・文字体系・Office互換性を集中改善／生成AI機能は「あえて搭載しない」、初の寄付バナーも</title>
@@ -805,6 +797,14 @@
 <pubDate>Wed, 26 Aug 2026 15:29:13 +0000</pubDate>
 <category>Publickey</category>
 <description>Linux Foundation傘下でMCP（Model Context Protocol）の仕様策定を行っている「Agentic AI Foundation（AAIF）」は、今後のMCPの進化について、その方向性を示す新たなロードマップを... — Publickey / score: 70 (AIエージェント向けMCPのロードマップ策定)</description>
+</item>
+<item>
+<title>[70] 2026-08-26, Version 26.8.0 (Current), @aduh95</title>
+<link>https://github.com/nodejs/node/releases/tag/v26.8.0</link>
+<guid isPermaLink="true">https://github.com/nodejs/node/releases/tag/v26.8.0</guid>
+<pubDate>Wed, 26 Aug 2026 14:28:49 +0000</pubDate>
+<category>Node.js リリース</category>
+<description>Notable Changes [ 74234ee30e ] - (SEMVER-MINOR) benchmark : add --analyze mode to compare.js (James M Snell) #65416 [ 4232997fa2 ] - crypto : update root certificates to NSS 3.126 (Node.js GitHub Bot) #65495 [ f0531f1c87 ] - (SEMVER-MINOR) crypto : enable SIV and GCM-SIV modes in Cipher/Decipher APIs (Filip Skokan) #63411 [ 3f4b80ebb5 ] - diagnostics_channel : mark TracingChannel as stable (Abdelrahman Awad) #64525 [ 753033c110 ] - (SEMVER-MINOR) lib,src : improve histogram implementation (James — Node.js リリース / score: 70 (Node.js Currentの機能追加・更新)</description>
 </item>
 </channel>
 </rss>
