@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Tue, 01 Sep 2026 20:09:31 +0000</lastBuildDate>
+<lastBuildDate>Tue, 01 Sep 2026 22:08:12 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] [AINews] NVIDIA buys HuggingFace for $13B, as OpenAI publishes their HF incident retro</title>
@@ -39,14 +39,6 @@
 <description>脆弱性対策情報ポータルサイト「JVN」は8月26日、「Apache Tomcat」に10件の脆弱性が存在することを明らかにした。9 / v10 / v11系統に影響し、最大深刻度はThe Apache Software Foundationの基準で4段階中2番目に高いImportant。 — 窓の杜 / score: 90 (Apache Tomcatに複数の重要な脆弱性。)</description>
 </item>
 <item>
-<title>[90] 「OpenSSL」に9件のセキュリティ欠陥、v4.0.2/v3.6.4などが一斉公開／QUICサーバーの二重解放やCMS復号でのヒープ破壊など</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2135769.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2135769.html</guid>
-<pubDate>Wed, 26 Aug 2026 09:52:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>SSL/TLSプロトコルを実装したオープンソースライブラリ「OpenSSL」の開発チームは8月25日（日本時間）、「OpenSSL」のセキュリティアップデートを実施した。以下のバージョンが利用可能。 — 窓の杜 / score: 90 (OpenSSLに複数のセキュリティ欠陥と修正版公開。)</description>
-</item>
-<item>
 <title>[90] August 2026 Security Release</title>
 <link>https://nextjs.org/blog/august-2026-security-release</link>
 <guid isPermaLink="true">https://nextjs.org/blog/august-2026-security-release</guid>
@@ -61,6 +53,14 @@
 <pubDate>Tue, 25 Aug 2026 15:00:00 +0000</pubDate>
 <category>Next.js Blog</category>
 <description>Next.js is moving the August security release forward to August 25, 2026. — Next.js Blog / score: 90 (Next.jsセキュリティリリースの日程前倒し)</description>
+</item>
+<item>
+<title>[85] Omarchyで任意のユーザープロセスがルート権限に昇格可能の脆弱性、4.0.1へのアップデートで回避可能</title>
+<link>https://gigazine.net/news/20260902-omarchy-root-creds/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20260902-omarchy-root-creds/</guid>
+<pubDate>Tue, 01 Sep 2026 21:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>LinuxディストリビューションのOmarchyのデフォルトDocker設定に、パスワード漏洩やsudo認証なしにroot権限を奪取される可能性のあるセキュリティ上の脆弱性が発見されました。脆弱性を悪用するとユーザーセッション内のほぼ全てのプロセスがroot権限を取得できるため、ホストファイルシステムの任意の部分にアクセスしてroot権限でコードを実行することが可能になります。この脆弱性はバージョン4.0.1で修正済みなのでOmarchyのユーザーは速やかにバージョン4.0.1以降にアップデートすることが推奨されます。 続きを読む... — GIGAZINE / score: 85 (Omarchyのルート権限昇格に関する脆弱性)</description>
 </item>
 <item>
 <title>[85] Introducing Claude Fable 5.1 and Claude Mythos 5.1</title>
@@ -85,6 +85,14 @@
 <pubDate>Tue, 01 Sep 2026 14:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>Introduction Beginning in 2024 Mandiant investigated a string of compromises affecting Brazilian financial services, retail, and eCommerce organizations. Google Threat Intelligence Group (GTIG) tracks this activity as BREEZE COMET (formerly UNC5669), a financially motivated threat actor specializing in manipulating payment systems and banking software in Brazil to conduct fraudulent transfers. This activity overlaps with operations publicly reported as Plump Spider and SHADOW-AETHER-064 . In thi — Google Cloud Blog / score: 85 (金融機関を狙う脅威アクターの調査とセキュリティ情報)</description>
+</item>
+<item>
+<title>[85] Path to Astra: critical capabilities and frontier safeguards</title>
+<link>https://openai.com/index/path-to-astra</link>
+<guid isPermaLink="true">https://openai.com/index/path-to-astra</guid>
+<pubDate>Tue, 01 Sep 2026 13:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release. — OpenAI News / score: 85 (OpenAI Astraの安全性とサイバーセキュリティ基準)</description>
 </item>
 <item>
 <title>[85] Anthropic、Claudeによる不正アクセス事例を受け安全対策強化を発表</title>
@@ -205,14 +213,6 @@
 <pubDate>Thu, 20 Aug 2026 18:00:00 +0000</pubDate>
 <category>Next.js Blog</category>
 <description>Next.js is preparing a scheduled August security release for August 26, 2026. — Next.js Blog / score: 85 (Next.jsセキュリティリリースの事前告知)</description>
-</item>
-<item>
-<title>[85] Mojo🔥 is now open source</title>
-<link>https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/</link>
-<guid isPermaLink="true">https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/</guid>
-<pubDate>Tue, 18 Aug 2026 21:39:20 +0000</pubDate>
-<category>Simon Willison</category>
-<description>Mojo🔥 is now open source The Mojo programming language has been promising an open source release since May 2023 . Last week they shipped their 1.0 and today they have followed through on that original promise, releasing the compiler and toolchain under an Apache 2 license. When Mojo first launched the stated goal was to produce a superset of Python, so existing Python code could be used to bootstrap their own ecosystem. That plan changed around August 2025 : Mojo may or may not evolve into a ful — Simon Willison / score: 85 (Mojoプログラミング言語のオープンソース化。)</description>
 </item>
 <item>
 <title>[80] Linux 7.3-rc1リリース、次世代ハードウェアのサポートが加速</title>
@@ -349,6 +349,14 @@
 <pubDate>Wed, 19 Aug 2026 19:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy. — OpenAI News / score: 80 (API顧客向けのデータ保持ポリシーとプライバシー強化)</description>
+</item>
+<item>
+<title>[75] 「Claude Fable 5.1」リリース。賢さは最強だけど、それだけじゃもう売れない？</title>
+<link>https://www.gizmodo.jp/article/anthropic_released_claude_fable_5_1/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/anthropic_released_claude_fable_5_1/</guid>
+<pubDate>Tue, 01 Sep 2026 22:05:39 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>Anthropicが新しいAIモデル「Claude Fable 5.1」を発表しました。その内容は「Anthropicでも賢さだけを売りにやっていくのはキツい？」と感じさせるものでした。「コスト低減のアピール」が目立つもちろん、頭脳はトップ… — ギズモード・ジャパン / score: 75 (新AIモデルClaude Fable 5.1のリリース)</description>
 </item>
 <item>
 <title>[75] v3.15.0rc2</title>
@@ -797,14 +805,6 @@
 <pubDate>Wed, 26 Aug 2026 16:16:25 +0000</pubDate>
 <category>Latent Space</category>
 <description>Lovable is branching out from AI-powered web app creation and into MCP-powered ‘capabilities’. We talk to CTO Fabian Hedin. — Latent Space / score: 70 (MCPとAIエージェントによるSaaSの未来。)</description>
-</item>
-<item>
-<title>[70] MCPの新ロードマップ公開、今後はAIエージェント対応、HTTP通信への統一、アイデンティティ、よりよいデベロッパー体験などに注力</title>
-<link>https://www.publickey1.jp/blog/26/mcpaihttp.html</link>
-<guid isPermaLink="true">https://www.publickey1.jp/blog/26/mcpaihttp.html</guid>
-<pubDate>Wed, 26 Aug 2026 15:29:13 +0000</pubDate>
-<category>Publickey</category>
-<description>Linux Foundation傘下でMCP（Model Context Protocol）の仕様策定を行っている「Agentic AI Foundation（AAIF）」は、今後のMCPの進化について、その方向性を示す新たなロードマップを... — Publickey / score: 70 (AIエージェント向けMCPのロードマップ策定)</description>
 </item>
 </channel>
 </rss>
