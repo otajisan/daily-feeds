@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Tue, 01 Sep 2026 06:16:40 +0000</lastBuildDate>
+<lastBuildDate>Tue, 01 Sep 2026 08:15:23 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] [AINews] NVIDIA buys HuggingFace for $13B, as OpenAI publishes their HF incident retro</title>
@@ -74,9 +74,17 @@
 <title>[85] Financially Motivated Threat Actor BREEZE COMET Targets Brazil</title>
 <link>https://cloud.google.com/blog/topics/threat-intelligence/financially-motivated-threat-actor-breeze-comet-targets-brazil/</link>
 <guid isPermaLink="true">https://cloud.google.com/blog/topics/threat-intelligence/financially-motivated-threat-actor-breeze-comet-targets-brazil/</guid>
-<pubDate>Tue, 01 Sep 2026 06:16:06 +0000</pubDate>
+<pubDate>Tue, 01 Sep 2026 08:13:25 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>Introduction Beginning in 2024 Mandiant investigated a string of compromises affecting Brazilian financial services, retail, and eCommerce organizations. Google Threat Intelligence Group (GTIG) tracks this activity as BREEZE COMET (formerly UNC5669), a financially motivated threat actor specializing in manipulating payment systems and banking software in Brazil to conduct fraudulent transfers. This activity overlaps with operations publicly reported as Plump Spider and SHADOW-AETHER-064 . In thi — Google Cloud Blog / score: 85 (金融機関を狙う脅威アクターの調査とセキュリティ情報)</description>
+</item>
+<item>
+<title>[85] マウスコンピューターがリコール中のディスプレー用ACアダプターで火災事故</title>
+<link>https://ascii.jp/elem/000/004/431/4431195/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/431/4431195/?rss</guid>
+<pubDate>Tue, 01 Sep 2026 07:00:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>消費者庁は8月28日、マウスコンピューターがリコール中の液晶モニター用ACアダプターで、8月に火災事故が発生したことを公表した。 — ASCII.jp / score: 85 (リコール対象製品での火災事故発生の重大な注意喚起)</description>
 </item>
 <item>
 <title>[85] 12TBのゲームデータがSteamから流出　開発中止タイトルや試作版も含む10年分</title>
@@ -383,14 +391,6 @@
 <description>Active Directory が今、ランサムウェアなどサイバー攻撃の主要な標的になっています。本コラムでは、Active Directory が狙われる背景や、危機に備えるために必要な対策について解説します。 — ASCII.jp / score: 75 (Active Directoryのセキュリティ対策解説で実用性が高い)</description>
 </item>
 <item>
-<title>[75] Windows 11に不具合　マウスカーソルがでっかくなっちゃった！</title>
-<link>https://ascii.jp/elem/000/004/431/4431002/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/431/4431002/?rss</guid>
-<pubDate>Tue, 01 Sep 2026 03:05:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>マイクロソフトは8月28日、前日（8月27日）以降に展開されたWindows 11のアップデート「KB5120998」をインストールしたデバイスで、マウスのカスタマイズ設定が変更されてしまう不具合が発生していることを公表した。 — ASCII.jp / score: 75 (Windows 11の公式アプデによる不具合情報)</description>
-</item>
-<item>
 <title>[75] 過去のメッセージを別の相手にランダムに再送信？ 「Google メッセージ」のヤバいバグが波紋【やじうまWatch】</title>
 <link>https://internet.watch.impress.co.jp/docs/yajiuma/2137166.html</link>
 <guid isPermaLink="true">https://internet.watch.impress.co.jp/docs/yajiuma/2137166.html</guid>
@@ -445,6 +445,14 @@
 <pubDate>Mon, 31 Aug 2026 14:42:08 +0000</pubDate>
 <category>Zenn トレンド</category>
 <description>はじめに back joinとは、Spannerがsecondary indexで目当ての行を見つけたあと、ベーステーブルへ引き直して残りの列を取得する動作のことです。 実行計画上でindexを使っていても、back joinのコストによって応答時間は改善しないことがあります。 ただしback join自体は、避けるべき動作ではありません。問題になるのは回数とタイミングです。 この記事では、back joinで何が起きるのかとなぜ遅くなるのかを説明します。そのうえで、いつ発生するのか、どう減らすかを見ていきます。 Spannerのindexとベーステーブル Spannerの各テー... — Zenn トレンド / score: 75 (Spannerのback joinの仕組み解説)</description>
+</item>
+<item>
+<title>[75] 【JavaScript】usingがStage4になったので、ようやくリソース解放忘れから解放されるよ</title>
+<link>https://qiita.com/rana_kualu/items/83783c6dd3b4b51fa77f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/rana_kualu/items/83783c6dd3b4b51fa77f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Mon, 31 Aug 2026 11:53:39 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>だめ function hoge(){ const handle = exampleResource(); // なんかのリソース /* なんか長い処理 */ handle.release(); // リソース解放 } hoge(); うっか... — Qiita 人気記事 / score: 75 (JavaScriptのusing宣言(Stage4)の解説)</description>
 </item>
 <item>
 <title>[75] NVIDIA、AWSと提携しエージェント型AI向けに200万基のGPUを追加導入</title>
@@ -583,14 +591,6 @@
 <description>OpenAIは2026年8月25日付の「ChatGPT &amp; Codex changelog」で、ChatGPTデスクトップアプリの内蔵ブラウザーに、WebMCPを利用した「サイトツール」を追加した。 — gihyo.jp / score: 75 (ChatGPT内蔵ブラウザーのWebMCP対応と新機能)</description>
 </item>
 <item>
-<title>[75] 「ChatGPT」の無償プランにも予定済みタスクが開放 ～Plus/Proは「Webhook」に対応／「Gmail」「Slack」「GitHub」などのイベントをトリガー、タスクの共有も可能に</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2135731.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2135731.html</guid>
-<pubDate>Wed, 26 Aug 2026 06:43:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米OpenAIは8月25日（現地時間、以下同）、「ChatGPT」の［スケジュール］機能（予定済みタスク）でいくつかのアップデートを実施したと発表した。 — 窓の杜 / score: 75 (ChatGPTの新機能とWebhook対応)</description>
-</item>
-<item>
 <title>[75] Disrupting a new covert influence campaign from Russia</title>
 <link>https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia</link>
 <guid isPermaLink="true">https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia</guid>
@@ -653,14 +653,6 @@
 <pubDate>Tue, 18 Aug 2026 15:43:29 +0000</pubDate>
 <category>Publickey</category>
 <description>AIコードエディタのCursorなどを提供するAnysphereは、Gitに対応したコードホスティングサービス「Origin」を発表しました。 Origin, our code hosting platform, is now live.I... — Publickey / score: 75 (CursorによるAI時代のGitホスティング)</description>
-</item>
-<item>
-<title>[75] Asana cleared 5 years of engineering work in 2 weeks with Codex</title>
-<link>https://openai.com/index/asana</link>
-<guid isPermaLink="true">https://openai.com/index/asana</guid>
-<pubDate>Tue, 18 Aug 2026 07:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K. — OpenAI News / score: 75 (AIを活用した大規模なコード移行の実例)</description>
 </item>
 <item>
 <title>[70] 日産とホンダ、車載システム共通化へ　ECUやOS・ソフトウェアなど共同開発</title>
@@ -805,6 +797,14 @@
 <pubDate>Thu, 27 Aug 2026 06:25:44 +0000</pubDate>
 <category>窓の杜</category>
 <description>Googleは8月24日（現地時間）、「Google Workspace」の「Gemini」アプリでチャットから直接操作可能（インタラクティブ）なビジュアルコンテンツを使った回答を生成できるようになったと発表した。現在、すでに利用可能となっている。 — 窓の杜 / score: 70 (Google WorkspaceのGemini機能強化。)</description>
+</item>
+<item>
+<title>[70] CloudflareがAgent Memoryを発表、AIエージェント用マネージド永続メモリサービス</title>
+<link>https://www.infoq.com/jp/news/2026/08/cloudflare-agent-memory-beta/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+<guid isPermaLink="true">https://www.infoq.com/jp/news/2026/08/cloudflare-agent-memory-beta/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+<pubDate>Thu, 27 Aug 2026 05:30:00 +0000</pubDate>
+<category>InfoQ Japan</category>
+<description>CloudflareはAgents Weekの一環として、AIエージェントにセッション間、コンテキスト圧縮後、再起動後でも持続するメモリを提供するマネージドサービス、Agent Memoryのプライベート・ベータ版を発表した。すべてをコンテキストウィンドウに詰め込むのではなく、このサービスは会話から構造化メモリを抽出し、必要に応じて関連情報のみを取得する。CloudflareエンジニアリングチームのTyson Trautmann氏とRob Sutter氏が書いている： By Steef-Jan Wiggers Translated by Hiroaki.Sugimura — InfoQ Japan / score: 70 (CloudflareのAI用永続メモリサービス)</description>
 </item>
 </channel>
 </rss>
