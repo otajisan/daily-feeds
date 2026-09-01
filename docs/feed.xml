@@ -4,23 +4,103 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Tue, 01 Sep 2026 12:14:26 +0000</lastBuildDate>
+<lastBuildDate>Tue, 01 Sep 2026 14:10:25 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>AIエージェントがRedshiftを操作してDWH構築や集計分析など可能に、Amazon RedshiftがAgent Toolkit for AWSと統合</title>
+<link>https://www.publickey1.jp/blog/26/airedshiftdwhamazon_redshiftagent_toolkit_for_aws.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/airedshiftdwhamazon_redshiftagent_toolkit_for_aws.html</guid>
+<pubDate>Tue, 01 Sep 2026 14:09:57 +0000</pubDate>
+<category>Publickey</category>
+<description>Amazon Web Services（AWS）は、同社がフルマネージドで提供するデータウェアハウスサービス「Amazon Redshift」が、Agent Toolkit for AWSと統合されたことを明らかにしました。 Agent T... — Publickey / score: 65 (AWS RedshiftとAIエージェントの統合ニュース)</description>
+</item>
+<item>
+<title>VS Code上で開発のセカンドオピニオンを別のAIエージェントから得られる「Rubber Duck」機能が実験的実装</title>
+<link>https://www.publickey1.jp/blog/26/vs_codeairubber_duck.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/vs_codeairubber_duck.html</guid>
+<pubDate>Tue, 01 Sep 2026 14:09:57 +0000</pubDate>
+<category>Publickey</category>
+<description>オープンソースで開発されているコードエディタ「Visual Studio Code」（以下、VS Code）の最新版となる「VS Code 1.135」で、開発に関するセカンドオピニオンをメインのAIエージェントとは別のAIエージェントに依... — Publickey / score: 55 (VS Codeの新機能に関する実験的実装の紹介)</description>
+</item>
 <item>
 <title>Financially Motivated Threat Actor BREEZE COMET Targets Brazil</title>
 <link>https://cloud.google.com/blog/topics/threat-intelligence/financially-motivated-threat-actor-breeze-comet-targets-brazil/</link>
 <guid isPermaLink="true">https://cloud.google.com/blog/topics/threat-intelligence/financially-motivated-threat-actor-breeze-comet-targets-brazil/</guid>
-<pubDate>Tue, 01 Sep 2026 12:13:51 +0000</pubDate>
+<pubDate>Tue, 01 Sep 2026 14:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>Introduction Beginning in 2024 Mandiant investigated a string of compromises affecting Brazilian financial services, retail, and eCommerce organizations. Google Threat Intelligence Group (GTIG) tracks this activity as BREEZE COMET (formerly UNC5669), a financially motivated threat actor specializing in manipulating payment systems and banking software in Brazil to conduct fraudulent transfers. This activity overlaps with operations publicly reported as Plump Spider and SHADOW-AETHER-064 . In thi — Google Cloud Blog / score: 85 (金融機関を狙う脅威アクターの調査とセキュリティ情報)</description>
+</item>
+<item>
+<title>このピンで、マスクがマイクになる。騒音の中で声だけ拾う、村田製作所の技術</title>
+<link>https://www.gizmodo.jp/article/murata_mask-voice-clip_ceatec-fot/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/murata_mask-voice-clip_ceatec-fot/</guid>
+<pubDate>Tue, 01 Sep 2026 14:00:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>2025年10月20日の記事を編集して再掲載しています。ネクタイピンかと思ったわ。CEATEC 2025の村田製作所ブースで、おもしろいものを見つけました。マスクに取り付けるピンマイク「mask voice clip」です。これ、「CEAT… — ギズモード・ジャパン / score: 45 (村田製作所のノイズ対策マスクマイク技術の紹介)</description>
+</item>
+<item>
+<title>メモリ&amp;amp;SSDをケチっていても、MSIの低価格ゲーミングノートPCはかなり強い</title>
+<link>https://www.gizmodo.jp/article/msi-crosshair-16-hx-e14w/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/msi-crosshair-16-hx-e14w/</guid>
+<pubDate>Tue, 01 Sep 2026 13:30:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>MSIから新たに登場した「MSI Crosshair 16 HX E14W」。ゲーミングノートPCでありながら、比較的お手頃な価格帯で売り出されています。ゲーミング性能を担保しながら価格を抑えるというのはかなり難しそうですが、メモリ・ストレ… — ギズモード・ジャパン / score: 30 (MSI製ゲーミングノートPCの製品レビュー)</description>
+</item>
+<item>
+<title>使い込むほど成長するAIエージェント「Hermes Agent」でタスクを自動実行させてみた、PCを放置していても時間になれば勝手に実行</title>
+<link>https://gigazine.net/news/20260901-hermes-agent-cron-automation/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20260901-hermes-agent-cron-automation/</guid>
+<pubDate>Tue, 01 Sep 2026 13:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>前回、AIエージェント「Hermes Agent」で「GIGAZINEから記事を探して内容をまとめる」という作業の手順や、途中で発生したトラブルの解決方法を「スキル」として保存してみたところ、新しいセッションでも作成したスキルが自動的に読み込まれ、同じ作業をスムーズに実行できるようになりました。 続きを読む... — GIGAZINE / score: 55 (自律型AIエージェントHermes Agentの実践紹介)</description>
+</item>
+<item>
+<title>写真編集の味方！ キャリブレーション済の高精細・高発色・高色域4K液晶がタイムセール中</title>
+<link>https://ascii.jp/elem/000/004/431/4431299/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/431/4431299/?rss</guid>
+<pubDate>Tue, 01 Sep 2026 13:00:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>ASUSの外付けディスプレー「ASUS ProArt PA279CV-J 27インチ」がスマイルセール対象。現在、参考価格5万6480円のところ、スマイルセールで5％オフの5万3480円で販売中。キャリブレーション済みで色精度に優れたCalMAN Verified対応モデル。 — ASCII.jp / score: 25 (PC用ディスプレイのセール情報紹介)</description>
+</item>
+<item>
+<title>シャオミ「POCO F9 Ultra」は最上級CPUに背面サブウーファー！ Bose監修のバケモノ級スマホが発売</title>
+<link>https://ascii.jp/elem/000/004/430/4430934/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/430/4430934/?rss</guid>
+<pubDate>Tue, 01 Sep 2026 13:00:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>シャオミ「POCO F9 Ultra」は、国内初となる背面サブウーファー内蔵のBose監修2.1CHスピーカーを備えた最上位スマホです。Snapdragon 8 Elite Gen 5や8050mAh電池を搭載しAnTuTu400万点超を記録。早割12万9800円〜で買える最強のエンタメ機です。 — ASCII.jp / score: 30 (新機種スマートフォン発売に関するガジェット記事)</description>
+</item>
+<item>
+<title>汗のベタつき知らず。体にフィットするのに快適なミレーのインナー</title>
+<link>https://www.gizmodo.jp/article/millet_drynamic-mesh/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/millet_drynamic-mesh/</guid>
+<pubDate>Tue, 01 Sep 2026 13:00:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>ユニクロのエアリズムやヒートテックなど、アパレルの中にはしばしば機能面で注目されブレイクするものが現れます。最近だとミレーの「ドライナミック」は夏の汗対策としてインパクトのあるアイテムだと思うのですが、ひと夏使ってみて、アウトドアに日常にと… — ギズモード・ジャパン / score: 20 (アウトドアブランドの高機能インナー紹介)</description>
+</item>
+<item>
+<title>100万ドルのロボット犬、6,000組の電気ショック手袋。ICEの装備がやばいことに</title>
+<link>https://www.gizmodo.jp/article/ice-wants-a-boston-dynamics-k9-unit/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/ice-wants-a-boston-dynamics-k9-unit/</guid>
+<pubDate>Tue, 01 Sep 2026 12:30:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>ロボット犬や電気ショック手袋まで。アメリカ移民・関税執行局（ICE）はどこへ向かっているんでしょうか。ICEは、トランプ政権2期目に入ってから米国市民を含む数十人を死亡させ、その強硬な取り締まりをめぐって現在も各地で抗議活動が続いています。… — ギズモード・ジャパン / score: 20 (政府機関の装備品に関する社会派のトピック)</description>
+</item>
+<item>
+<title>Google提唱の「SKILL.state」について。プロンプトに型の概念を導入</title>
+<link>https://zenn.dev/knowledgesense/articles/ad123283bdea26</link>
+<guid isPermaLink="true">https://zenn.dev/knowledgesense/articles/ad123283bdea26</guid>
+<pubDate>Tue, 01 Sep 2026 12:07:05 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>本記事では、AIエージェントの性能を高めるための「SKILL.state」という手法について、ざっくり理解します。 株式会社ナレッジセンスは、生成AIやRAGを使ったプロダクトを、エンタープライズ企業向けに開発しているスタートアップです。 この記事は何 この記事は、「SKILL.state」の論文について、日本語で簡単にまとめ... — はてなブックマーク テクノロジー / score: 60 (プロンプトへの型導入手法SKILL.stateの解説)</description>
 </item>
 <item>
 <title>スマホとライトとAIで隠しカメラを発見する技術が開発される</title>
 <link>https://gigazine.net/news/20260901-sweepled-detecting-hidden-cameras/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260901-sweepled-detecting-hidden-cameras/</guid>
-<pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>韓国の研究者が、スマートフォンとLEDライトを用いた隠しカメラ検出技術を開発しました。安価なLEDライトをスマートフォンに取り付けて光の反射でカメラを見つけ出します。 続きを読む... — GIGAZINE / score: 60 (スマホとAIを活用した隠しカメラ検出技術)</description>
+<pubDate>Tue, 01 Sep 2026 12:01:51 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>韓国の研究者が、スマートフォンとLEDライトを用いた隠しカメラ検出技術を開発しました。安価なLEDライトをスマートフォンに取り付けて光の反射でカメラを見つけ出します。 Poster: Detecting Hidden Cameras using LED Illumination Sweeps | Proceedings of the 24th Annual International Conference on Mobile Syste... — はてなブックマーク テクノロジー / score: 60 (スマホとAIを活用した隠しカメラ検出技術)</description>
 </item>
 <item>
 <title>傑作アクションRPGを携帯モードで！ Switch 2版「エルデンリング」が19％オフセール</title>
@@ -127,6 +207,14 @@
 <description>Amazon.co.jpにて、TURTLE BEACHのゲームコントローラー「Rematch Core ホワイト＆グリーン」が販売中だ。参考価格は3880円だが、スマイルセールにより15％オフの3280円で購入できる（8月31日時点）。 — ASCII.jp / score: 15 (一般的なゲーム用コントローラーのセール情報)</description>
 </item>
 <item>
+<title>オープンソース動画編集ソフトのOpenShot Video Editorが史上最大のクリエイティブワークフローアップグレードを実現した「OpenShot 4.0」をリリース</title>
+<link>https://gigazine.net/news/20260901-openshot-4/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20260901-openshot-4/</guid>
+<pubDate>Tue, 01 Sep 2026 10:13:24 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>オープンソースの動画編集ソフトウェアであるOpenShot Video Editorが、これまでで最大規模のクリエイティブワークフローのアップグレードを実現した「OpenShot 4.0」をリリースしました。画面・ウェブカメラ・マイク・システムオーディオをプロジェクトに直接録画できるようになり、カラーホイール・カーブ・ルックアッ... — はてなブックマーク テクノロジー / score: 55 (オープンソース動画編集ソフトのメジャーアプデ)</description>
+</item>
+<item>
 <title>Anthropicが「開発中のAIで外部を攻撃しないための対策」を発表</title>
 <link>https://gigazine.net/news/20260901-anthropic-alignment-security/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260901-anthropic-alignment-security/</guid>
@@ -157,14 +245,6 @@
 <pubDate>Tue, 01 Sep 2026 10:01:14 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>広告枠付きのゴミ箱を背負ったスタッフが通行人からゴミを回収するサービス「BinGo」（ビンゴ）が、SNS上で注目を集めている。9月1日ごろから活動の様子を収めた動画が拡散しており、「普通にありがたい」「良いビジネスアイデア」といった反応が相次いでいる。動画は原宿・竹下通りでの活動を撮影したとみられ、通行人... — はてなブックマーク テクノロジー / score: 25 (学生発の広告サービスに関する一般的な話題)</description>
-</item>
-<item>
-<title>オープンソース動画編集ソフトのOpenShot Video Editorが史上最大のクリエイティブワークフローアップグレードを実現した「OpenShot 4.0」をリリース</title>
-<link>https://gigazine.net/news/20260901-openshot-4/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260901-openshot-4/</guid>
-<pubDate>Tue, 01 Sep 2026 10:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>オープンソースの動画編集ソフトウェアであるOpenShot Video Editorが、これまでで最大規模のクリエイティブワークフローのアップグレードを実現した「OpenShot 4.0」をリリースしました。画面・ウェブカメラ・マイク・システムオーディオをプロジェクトに直接録画できるようになり、カラーホイール・カーブ・ルックアップテーブル(LUT)・動画スコープなどを使って映像の色補正やグレーディングも可能です。ローカルで実行される機械学習モデルで被写体を分離したり、アニメーションによるオーディオビジュアライゼーションを簡単に実現したりすることもできます。 続きを読む... — GIGAZINE / score: 55 (オープンソース動画編集ソフトのメジャーアプデ)</description>
 </item>
 <item>
 <title>10台同時給電でデスクすっきり！ Ankerの70Wクランプ式電源タップがセール中</title>
@@ -229,6 +309,14 @@
 <pubDate>Tue, 01 Sep 2026 09:45:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>ビッグボーイで「麻辣ソースフェア」が2026年9月8日に始まります。唐辛子の辛さと花椒のシビれる風味が特長の「麻辣ソース」にザクザク食感のガーリックチップなどを加えてビッグボーイ流にアレンジしているとのこと。麻辣ソース付きの大俵ハンバーグは150gが税込1309円、200gが税込1485円、250gが税込1705円です。 続きを読む... — GIGAZINE / score: 10 (日常のヘッドラインニュース・グルメ情報)</description>
+</item>
+<item>
+<title>パソコン工房、ゲーミングPCの支払い方法に「残価据置型クレジット」を追加</title>
+<link>https://akiba-pc.watch.impress.co.jp/docs/news/news/2137362.html</link>
+<guid isPermaLink="true">https://akiba-pc.watch.impress.co.jp/docs/news/news/2137362.html</guid>
+<pubDate>Tue, 01 Sep 2026 09:41:58 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>パソコン工房、ゲーミングPCの支払い方法に「残価据置型クレジット」を追加 — はてなブックマーク テクノロジー / score: 15 (PCパーツ販売の支払い方法変更に関する一般ニュース)</description>
 </item>
 <item>
 <title>Anthropic、Claudeによる不正アクセス事例を受け安全対策強化を発表</title>
@@ -423,6 +511,14 @@
 <description>世界で最も人気のあるコンプレッサーのカラフルなサウンドを実現する、Universal Audio「Empirical Labs® EL8 Distressor Compressor」が85%OFFとなっています。 Uni... The post 世界で最も人気のあるコンプレッサーのカラフルなサウンドを実現する、Universal Audio「Empirical Labs® EL8 Distressor Compressor」が85%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 20 (音楽制作プラグインのセール情報でありDTM特化の内容のため)</description>
 </item>
 <item>
+<title>楽天モバイルが楽天IDとの連携を必須に！11月30日までに連携しないと自動解約で音声通話やデータ通信などが利用不可に。電話番号も失効</title>
+<link>https://s-max.jp/archives/1801164.html</link>
+<guid isPermaLink="true">https://s-max.jp/archives/1801164.html</guid>
+<pubDate>Tue, 01 Sep 2026 08:46:20 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>楽天モバイルが楽天IDとの連携を必須に！ 楽天モバイルは31日、同社が提供する携帯電話サービスなどを楽天グループが提供するアカウントサービス「楽天ID」と連携せずに利用している場合に2026年11月30日（月）23：59 […] — はてなブックマーク テクノロジー / score: 75 (楽天モバイルの楽天ID連携必須化と自動解約の重要告知)</description>
+</item>
+<item>
 <title>「ChatGPT」の内蔵ブラウザーに［サイトツール］、拡張機能の対応ブラウザーも拡充／「Microsoft Edge」「Brave」「Opera」「Vivaldi」を新たに追加</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2137312.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2137312.html</guid>
@@ -471,14 +567,6 @@
 <description> — Yahoo!ニュース IT / score: 50 (大規模プラットフォーム事業者への指定)</description>
 </item>
 <item>
-<title>NVIDIA、MediaTekに5,600億円投資で提携拡大</title>
-<link>https://pc.watch.impress.co.jp/docs/news/2137268.html</link>
-<guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2137268.html</guid>
-<pubDate>Tue, 01 Sep 2026 08:19:42 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>NVIDIA、MediaTekに5,600億円投資で提携拡大 — はてなブックマーク テクノロジー / score: 75 (NVIDIAとMediaTekの大型提携ニュース)</description>
-</item>
-<item>
 <title>【Anker Japan】埼玉県と連携したリチウムイオン電池等の店頭回収および広報啓発～リチウムイオン電池等の正しい使い方、捨て方、サーキュラーエコノミーの推進～</title>
 <link>https://ascii.jp/elem/000/004/431/4431407/?rss</link>
 <guid isPermaLink="true">https://ascii.jp/elem/000/004/431/4431407/?rss</guid>
@@ -495,14 +583,6 @@
 <description>「紹介がなくても、信用はつくれる」── LinkedInを活用したBtoB営業支援を提供開始 — ASCII.jp / score: 30 (BtoB営業支援サービスの提供開始)</description>
 </item>
 <item>
-<title>自分のVRMモデルが、デスクトップで話し、働く。AIキャラクター作成サービス「Tatara」正式リリース</title>
-<link>https://ascii.jp/elem/000/004/431/4431371/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/431/4431371/?rss</guid>
-<pubDate>Tue, 01 Sep 2026 08:06:45 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>自分のVRMモデルが、デスクトップで話し、働く。AIキャラクター作成サービス「Tatara」正式リリース — ASCII.jp / score: 60 (VRMとAIモデルを活用したサービスのリリース)</description>
-</item>
-<item>
 <title>濃厚なバニラの風味とほんのりビターなチョコが相性抜群なハーゲンダッツのミニカップ「バニラチョコレートサンデー」を食べてみた</title>
 <link>https://gigazine.net/news/20260901-haagen-dazs-vanilla-chocolate-sundae/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260901-haagen-dazs-vanilla-chocolate-sundae/</guid>
@@ -517,14 +597,6 @@
 <pubDate>Tue, 01 Sep 2026 08:00:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Amazon CloudWatch now lets you configure a warm-up period for metric alarms and log alarms, delaying alarm evaluation for a set time after the alarm is created. This reduces noise from missing data while a new resource or service starts up and begins publishing metrics. For example, a team that provisions a new microservice and its alarms together through a CI/CD pipeline can attach a warm-up period so alarms do not page the on-call engineer while the service is still starting up and has not yet — AWS What's New / score: 65 (クラウド監視サービスの有用な機能追加)</description>
-</item>
-<item>
-<title>富山県滑川市の地方創生に関する包括連携協定締結</title>
-<link>https://ascii.jp/elem/000/004/431/4431409/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/431/4431409/?rss</guid>
-<pubDate>Tue, 01 Sep 2026 08:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>富山県滑川市の地方創生に関する包括連携協定締結 — ASCII.jp / score: 10 (地方自治体との包括連携協定の締結)</description>
 </item>
 <item>
 <title>電源なしで2日間キンキンに冷えてやがる…。ポータブル冷蔵庫はクーラーボックスの上位互換</title>
@@ -733,78 +805,6 @@
 <pubDate>Tue, 01 Sep 2026 05:30:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 80 (GitHub Copilotのポリシーと課金方式変更)</description>
-</item>
-<item>
-<title>「Gemini Notebook」の利用上限が変更、5時間ごとにリセット ～9月2日より展開／処理の重さに応じた新方式へ</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2137172.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2137172.html</guid>
-<pubDate>Tue, 01 Sep 2026 05:28:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Googleは8月28日（現地時間）、AIノートブック「Gemini Notebook」の利用上限（usage limits）を見直すと発表した。 9月2日 より、Web版とモバイル版の一般ユーザー向けアカウントへ順次展開される。 — 窓の杜 / score: 45 (Gemini Notebookの利用上限変更)</description>
-</item>
-<item>
-<title>ソニー、QD-OLEDパネルに進化した4K有機ELテレビ「BRAVIA 8 II」。65型、55型の2モデル</title>
-<link>https://av.watch.impress.co.jp/docs/news/2137067.html</link>
-<guid isPermaLink="true">https://av.watch.impress.co.jp/docs/news/2137067.html</guid>
-<pubDate>Tue, 01 Sep 2026 05:19:47 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>ソニー、QD-OLEDパネルに進化した4K有機ELテレビ「BRAVIA 8 II」。65型、55型の2モデル — はてなブックマーク テクノロジー / score: 30 (コンシューマー向け有機ELテレビの新製品発表)</description>
-</item>
-<item>
-<title>AIは「良い広告コピー」を見抜けるか　電通など3社、11万件超の評価データで検証</title>
-<link>https://japan.cnet.com/article/35252125/</link>
-<guid isPermaLink="true">https://japan.cnet.com/article/35252125/</guid>
-<pubDate>Tue, 01 Sep 2026 05:10:00 +0000</pubDate>
-<category>CNET Japan</category>
-<description>電通、電通デジタル、SB Intuitionsの3社は9月1日、生成AIに日本語の広告コピーの良し悪しを判定させる研究の成果を発表した。電通のコピーライター64人が採点した11万件超の評価データを使って検証したところ、AIを学習・最適化した業種や商材では、人間による評価と一定の正の相関がみられた。一方、対象外の業種や商材では相関が低下し、汎用化には課題が残った。 — CNET Japan / score: 45 (生成AIによる広告コピー評価検証の成果)</description>
-</item>
-<item>
-<title>MIDIコントローラー搭載PCキーボード「Keys」。9つのMIDI CC信号操作用ツマミ搭載 | Gadget Gate</title>
-<link>https://gadget.phileweb.com/post-132068/</link>
-<guid isPermaLink="true">https://gadget.phileweb.com/post-132068/</guid>
-<pubDate>Tue, 01 Sep 2026 05:03:39 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>テクノロジー AV ホットスワップ対応のメカニカルスイッチを採用、バックライトも備えています MIDIコントローラー搭載PCキーボード「Keys」。9つのMIDI CC信号操作用ツマミ搭載 Image:Polyend ポーランドの電子楽器メーカーPolyendが、MIDIコントローラー搭載のキーボード「Keys」を発表した。ここでいうキーボードは、... — はてなブックマーク テクノロジー / score: 35 (MIDIコントロール機能付きキーボードの新製品)</description>
-</item>
-<item>
-<title>自給自足の一歩先へ。消費電力より多く発電できる太陽光発電カーをBMWと学生たちが共同開発</title>
-<link>https://www.gizmodo.jp/article/deep-orange-17/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/deep-orange-17/</guid>
-<pubDate>Tue, 01 Sep 2026 05:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>機能性とデザイン性は別問題？ 近年は電気自動車が身近な存在になっていますが、各国では太陽光発電を搭載したモデルの開発が盛んなようです。ガソリンと違って、日が照っていれば航続距離が伸びますからね。BMWと共同で生まれたサウスカロライナ州のクレ… — ギズモード・ジャパン / score: 55 (太陽光発電搭載EVに関する興味深い技術的試み)</description>
-</item>
-<item>
-<title>Microsoft、XBOXゲームのディスク版をデジタル化する機能に関するFAQを公開 ｰ 対象ゲームをプレイするだけでライセンス付与</title>
-<link>https://taisy0.com/2026/09/01/226927.html</link>
-<guid isPermaLink="true">https://taisy0.com/2026/09/01/226927.html</guid>
-<pubDate>Tue, 01 Sep 2026 04:43:11 +0000</pubDate>
-<category>気になる、記になる…</category>
-<description>Microsoftは昨日より一部のInsiderユーザーに対し、XBOXゲームの物理ディスク版をデジタル化する機能のテストを開始しましたが、それに合わせて、同機能に関するFAQ「XBOX でのディスクからデジタルへのライ […] — 気になる、記になる… / score: 30 (Xboxディスクのデジタル化機能に関するFAQ公開)</description>
-</item>
-<item>
-<title>[AINews] Fal’s H3 Max Live breaks the infinite videogen barrier</title>
-<link>https://www.latent.space/p/ainews-fals-h3-max-live-breaks-the</link>
-<guid isPermaLink="true">https://www.latent.space/p/ainews-fals-h3-max-live-breaks-the</guid>
-<pubDate>Tue, 01 Sep 2026 04:36:54 +0000</pubDate>
-<category>Latent Space</category>
-<description>You can now create decent video faster than you watch it. This is the start of... something. We’re not sure what. — Latent Space / score: 60 (高速な動画生成AIモデルの登場に関する速報)</description>
-</item>
-<item>
-<title>AAIF、MCPのガバナンスとA2Aの現状、AIエージェントにオープン標準が必要な理由を説明 ——9月10・11日に「AGNTCon + MCPCon Japan 2026」を渋谷で開催</title>
-<link>https://gihyo.jp/article/2026/09/aaif-mcp-a2a-briefing?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/09/aaif-mcp-a2a-briefing?utm_source=feed</guid>
-<pubDate>Tue, 01 Sep 2026 04:30:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Linux Foundation傘下のAgentic AI Foundation（AAIF）は2026年8月25日、日本の報道関係者を対象とするオンライン記者説明会を開催した。 — gihyo.jp / score: 60 (Agentic AIやMCPに関する標準化の動向)</description>
-</item>
-<item>
-<title>決済手段の現地化で売上が12％増、StripeがAI企業のグローバル展開データを公開</title>
-<link>https://codezine.jp/article/detail/29529</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/29529</guid>
-<pubDate>Tue, 01 Sep 2026 04:30:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 35 (Stripeの決済・AI活用に関する調査データの紹介)</description>
 </item>
 </channel>
 </rss>
