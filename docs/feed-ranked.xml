@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Tue, 01 Sep 2026 14:10:25 +0000</lastBuildDate>
+<lastBuildDate>Tue, 01 Sep 2026 16:31:25 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] [AINews] NVIDIA buys HuggingFace for $13B, as OpenAI publishes their HF incident retro</title>
@@ -197,14 +197,6 @@
 <pubDate>Tue, 18 Aug 2026 21:39:20 +0000</pubDate>
 <category>Simon Willison</category>
 <description>Mojo🔥 is now open source The Mojo programming language has been promising an open source release since May 2023 . Last week they shipped their 1.0 and today they have followed through on that original promise, releasing the compiler and toolchain under an Apache 2 license. When Mojo first launched the stated goal was to produce a superset of Python, so existing Python code could be used to bootstrap their own ecosystem. That plan changed around August 2025 : Mojo may or may not evolve into a ful — Simon Willison / score: 85 (Mojoプログラミング言語のオープンソース化。)</description>
-</item>
-<item>
-<title>[85] Building App-like Experiences with Next.js 16.3</title>
-<link>https://nextjs.org/blog/building-app-like-experiences-with-nextjs-16-3</link>
-<guid isPermaLink="true">https://nextjs.org/blog/building-app-like-experiences-with-nextjs-16-3</guid>
-<pubDate>Tue, 18 Aug 2026 16:00:00 +0000</pubDate>
-<category>Next.js Blog</category>
-<description>Build app-like experiences with Instant Navigations, server-rendered data, optimistic updates, and live client state in Next.js 16.3. — Next.js Blog / score: 85 (Next.js 16.3のメジャー機能リリース)</description>
 </item>
 <item>
 <title>[80] Linux 7.3-rc1リリース、次世代ハードウェアのサポートが加速</title>
@@ -621,6 +613,14 @@
 <pubDate>Tue, 01 Sep 2026 10:12:51 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>「OpenAIのテスト中モデルがHugging Faceを攻撃してしまった」という問題が話題になる中、Anthropicも「AIモデルのテスト中に外部への攻撃が発生していた」と報告しています。新たに、Anthropicがテスト中のモデルによる誤った攻撃を防ぐための対応内容を発表しました。 Improving our alignment and security practices... — はてなブックマーク テクノロジー / score: 70 (AIモデル開発におけるセキュリティ対策の報告)</description>
+</item>
+<item>
+<title>[70] Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI</title>
+<link>https://huggingface.co/blog/webgpu-kernels</link>
+<guid isPermaLink="true">https://huggingface.co/blog/webgpu-kernels</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<category>Hugging Face Blog</category>
+<description> — Hugging Face Blog / score: 70 (WebGPUを活用したローカルAI向けカーネル公開)</description>
 </item>
 <item>
 <title>[70] BigQuery Graph is now GA: the knowledge foundation for the agentic era</title>
