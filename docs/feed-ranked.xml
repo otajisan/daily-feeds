@@ -4,8 +4,16 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 02 Sep 2026 06:20:50 +0000</lastBuildDate>
+<lastBuildDate>Wed, 02 Sep 2026 08:13:37 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>[95] Google Chrome、最大深刻度”重大”を含む26件の脆弱性を修正　アップデートをチェック</title>
+<link>https://ascii.jp/elem/000/004/431/4431732/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/431/4431732/?rss</guid>
+<pubDate>Wed, 02 Sep 2026 07:10:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>グーグルは9月1日、デスクトップおよびAndroid版「Google Chrome」のアップデートを公開。深刻度「重大」を含む26件の脆弱性を修正した。 — ASCII.jp / score: 95 (Chromeの重大な脆弱性修正のため緊急度高)</description>
+</item>
 <item>
 <title>[95] [AINews] NVIDIA buys HuggingFace for $13B, as OpenAI publishes their HF incident retro</title>
 <link>https://www.latent.space/p/ainews-nvidia-buys-huggingface-for</link>
@@ -47,12 +55,12 @@
 <description>Next.js is moving the August security release forward to August 25, 2026. — Next.js Blog / score: 90 (Next.jsセキュリティリリースの日程前倒し)</description>
 </item>
 <item>
-<title>[85] Anthropic「Fable 5.1」発表　コーディング性能でGPT-5.6 Sol超え　キャッシュ料金は75％値下げ</title>
-<link>https://ascii.jp/elem/000/004/431/4431620/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/431/4431620/?rss</guid>
-<pubDate>Wed, 02 Sep 2026 04:40:00 +0000</pubDate>
+<title>[85] 水道インフラを狙うサイバー攻撃が深刻化　「ネットにつながる設備」をどう守る？</title>
+<link>https://ascii.jp/elem/000/004/431/4431604/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/431/4431604/?rss</guid>
+<pubDate>Wed, 02 Sep 2026 08:00:00 +0000</pubDate>
 <category>ASCII.jp</category>
-<description>Anthropicが9月1日、新たなAIモデル「Claude Fable 5.1」「Claude Mythos 5.1」を発表した。 — ASCII.jp / score: 85 (主要AIベンダーの新型モデル発表と価格改定)</description>
+<description>フォーティネットOTセキュリティプラットフォームを使用して、公益事業者が分散OT環境全体でエクスポージャーを削減し、リモート接続を保護し、アクセス制御を強化し、より高いサイバーレジリエンスを構築する方法をご紹介します。 — ASCII.jp / score: 85 (インフラを狙うサイバー攻撃とOTセキュリティ対策)</description>
 </item>
 <item>
 <title>[85] OpenAIが次期主力AIモデル「Astra」の開発状況を報告</title>
@@ -87,14 +95,6 @@
 <description>Anthropicは2026年9月1日、AIモデル「Claude Fable 5.1」と「Claude Mythos 5.1」を発表した。 — gihyo.jp / score: 85 (Anthropicの新型Claudeモデル発表速報)</description>
 </item>
 <item>
-<title>[85] ついに「Claude Fable 5.1」登場、実質最大45%安く、科学研究スコア2倍超。「Claude Mythos 5.1」も 〜全ユーザーの5時間ごとと週ごとの利用上限もリセット</title>
-<link>https://pc.watch.impress.co.jp/docs/news/2137457.html</link>
-<guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2137457.html</guid>
-<pubDate>Wed, 02 Sep 2026 00:14:31 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>ついに「Claude Fable 5.1」登場、実質最大45%安く、科学研究スコア2倍超。「Claude Mythos 5.1」も 〜全ユーザーの5時間ごとと週ごとの利用上限もリセット — はてなブックマーク テクノロジー / score: 85 (主要AIモデルのメジャーリリースと価格改定)</description>
-</item>
-<item>
 <title>[85] Anthropic、「Claude Fable 5.1」「Mythos 5.1」公開　AI透かしも導入</title>
 <link>https://japan.cnet.com/article/35252149/</link>
 <guid isPermaLink="true">https://japan.cnet.com/article/35252149/</guid>
@@ -117,14 +117,6 @@
 <pubDate>Tue, 01 Sep 2026 21:00:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>LinuxディストリビューションのOmarchyのデフォルトDocker設定に、パスワード漏洩やsudo認証なしにroot権限を奪取される可能性のあるセキュリティ上の脆弱性が発見されました。脆弱性を悪用するとユーザーセッション内のほぼ全てのプロセスがroot権限を取得できるため、ホストファイルシステムの任意の部分にアクセスしてroot権限でコードを実行することが可能になります。この脆弱性はバージョン4.0.1で修正済みなのでOmarchyのユーザーは速やかにバージョン4.0.1以降にアップデートすることが推奨されます。 続きを読む... — GIGAZINE / score: 85 (Omarchyのルート権限昇格に関する脆弱性)</description>
-</item>
-<item>
-<title>[85] Introducing Claude Fable 5.1 and Claude Mythos 5.1 \ Anthropic</title>
-<link>https://www.anthropic.com/claude-fable-and-mythos-5-1</link>
-<guid isPermaLink="true">https://www.anthropic.com/claude-fable-and-mythos-5-1</guid>
-<pubDate>Tue, 01 Sep 2026 18:03:43 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>We’re introducing Claude Fable 5.1 and Claude Mythos 5.1. They’re the world’s most advanced models for coding and knowledge work—and their research capabilities offer an early glimpse of how AI models will contribute to scientific progress. Claude Fable 5.1 and Claude Mythos 5.1 are the same mode... — はてなブックマーク テクノロジー / score: 85 (Anthropicの最新AIモデルの発表)</description>
 </item>
 <item>
 <title>[85] Claude Fable 5.1, Anthropic's new frontier model is now available on AWS</title>
@@ -247,12 +239,12 @@
 <description>Next.js is preparing a scheduled August security release for August 26, 2026. — Next.js Blog / score: 85 (Next.jsセキュリティリリースの事前告知)</description>
 </item>
 <item>
-<title>[80] Google、画像生成AIツール「Google Pics」発表　オブジェクト単位で編集可能、資料作りが激変</title>
-<link>https://ascii.jp/elem/000/004/431/4431618/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/431/4431618/?rss</guid>
-<pubDate>Wed, 02 Sep 2026 04:15:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>Googleは9月1日、新たな画像生成AIツール「Google Pics」を発表した。 — ASCII.jp / score: 80 (Googleによる新しい画像生成AIツールの発表)</description>
+<title>[80] [AINews] Claude Fable/Mythos 5.1: new SOTA model, 75% cache price cut but 70% more output tokens</title>
+<link>https://www.latent.space/p/ainews-claude-fablemythos-51-new</link>
+<guid isPermaLink="true">https://www.latent.space/p/ainews-claude-fablemythos-51-new</guid>
+<pubDate>Wed, 02 Sep 2026 07:46:08 +0000</pubDate>
+<category>Latent Space</category>
+<description>With Astra clearly finally warming up for a full launch (with @sama and @openai writing about it again after a month of self imposed pacing ), there’s a familiar window to take the narrative with the round robin of model launches, with Grok 4.7 and Gemini Flash 3.8 also on the way. But that’s also perhaps not the best way to frame today’s launch… which got well over 12M views updating the sitting world best model yet again: The benchmark table speaks for itself: While per-token pricing is the sa — Latent Space / score: 80 (最新LLMモデルとAPI価格改定の重要な動向)</description>
 </item>
 <item>
 <title>[80] 「Gemini」が動画を理解するコストが激減、Googleが「Agentic Video」を発表／律義に1コマずつ見るのはやめ、大事なところを能動的に判断</title>
@@ -309,14 +301,6 @@
 <pubDate>Mon, 31 Aug 2026 05:35:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Microsoftは8月28日（現地時間、以下同）、OS標準のセキュリティ機能「Microsoft Defender」ウイルス対策で新たな問題が発生していることを明らかにした。「Microsoft Defender」ウイルス対策の最新アップデートを適用すると、ウイルス対策が正常に機能しており、設定上もすべて有効と表示されているにもかかわらず、無効になっているという通知が現れることがあるという。通知はWindowsの起動時のほか、その後も断続的に現れる。しかも、通知の設定をオフにしても表示され続ける。 — 窓の杜 / score: 80 (Microsoft Defenderの誤通知不具合)</description>
-</item>
-<item>
-<title>[80] AIによる大規模サイバー攻撃に備えよ--OpenAIら155組織が防衛強化を呼びかけ</title>
-<link>https://japan.cnet.com/article/35252073/</link>
-<guid isPermaLink="true">https://japan.cnet.com/article/35252073/</guid>
-<pubDate>Mon, 31 Aug 2026 00:34:00 +0000</pubDate>
-<category>CNET Japan</category>
-<description>AIによる広範なサイバー攻撃への防御を強化できる「時間は限られている」として、OpenAIら150以上の組織が、企業や政府、その他の機関に対し、サイバーセキュリティー強化へ迅速に行動するよう呼びかけた。 — CNET Japan / score: 80 (AIを活用した大規模サイバー攻撃への防衛強化の呼びかけ)</description>
 </item>
 <item>
 <title>[80] [AINews] OpenAI shuts off Cursor</title>
@@ -407,12 +391,28 @@
 <description>OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy. — OpenAI News / score: 80 (API顧客向けのデータ保持ポリシーとプライバシー強化)</description>
 </item>
 <item>
-<title>[75] OrcaRouter、モデルリーダーボードで「GPT-5.6 Luna」が総合1位を維持</title>
-<link>https://ascii.jp/elem/000/004/431/4431695/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/431/4431695/?rss</guid>
-<pubDate>Wed, 02 Sep 2026 05:00:00 +0000</pubDate>
+<title>[75] World Labs、“世界”を作り出せる空間知能モデル「Atlas」を発表／カメラを自由に動かし、時間と空間をシミュレート。テキスト・画像・動画・3Dを扱うオムニモデル</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2137662.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2137662.html</guid>
+<pubDate>Wed, 02 Sep 2026 07:37:54 +0000</pubDate>
+<category>窓の杜</category>
+<description>米World Labsは9月1日（現地時間）、空間知能（spatial intelligence）のための新しい世界モデル（world model） 「Atlas」 を発表した。現在、一部のパートナーを対象とした早期アクセスの段階にある。アクセスを希望する場合は、同社ブログよりリクエストが可能。今後は「Marble」をはじめとする同社製品の次期バージョンに組み込まれるという。 — 窓の杜 / score: 75 (空間知能モデルAtlasの発表に関する技術解説)</description>
+</item>
+<item>
+<title>[75] 画像も動画も3D空間も生成可能な世界モデル「Atlas」が登場、「1枚の画像から3D空間を生成」「指示に忠実なカメラワーク」「1440pの動画生成」など多機能なモデル</title>
+<link>https://gigazine.net/news/20260902-world-model-atlas/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20260902-world-model-atlas/</guid>
+<pubDate>Wed, 02 Sep 2026 07:34:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>「世界モデル」とは、現実世界の物理特性や物体の構造などを学習して再現できるAIモデルを指します。新たに、AI企業のWorld Labsが世界モデル「Atlas」を発表しました。 続きを読む... — GIGAZINE / score: 75 (先進的なマルチモーダル世界モデルAtlasの発表)</description>
+</item>
+<item>
+<title>[75] 三井不動産に不正アクセス　最大5万5000件の情報漏えいか</title>
+<link>https://ascii.jp/elem/000/004/431/4431720/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/431/4431720/?rss</guid>
+<pubDate>Wed, 02 Sep 2026 06:50:00 +0000</pubDate>
 <category>ASCII.jp</category>
-<description>OrcaRouter、モデルリーダーボードで「GPT-5.6 Luna」が総合1位を維持 — ASCII.jp / score: 75 (AIモデルの性能比較に関する最新の動向)</description>
+<description>三井不動産は9月1日、同社グループが利用する一部システムが8月28日に不正アクセスを受け、役職員や社外関係者の一部情報（合計最大5万5000件）が外部に漏えいした可能性があることを公表した。 — ASCII.jp / score: 75 (企業への不正アクセスと情報漏えい事案)</description>
 </item>
 <item>
 <title>[75] Meta、リアルタイム音声認識モデル「Muse Voice Transcribe」を発表／最高峰のパフォーマンス、多言語対応で日本語も検証済み</title>
@@ -437,6 +437,14 @@
 <pubDate>Wed, 02 Sep 2026 02:43:59 +0000</pubDate>
 <category>Publickey</category>
 <description>SalesforceとAnthropicが「Claudeforce」を発表しました。 第一弾となる「Salesforce in Claude」では、Claudeの画面からプロンプトを入力するだけで、Salesforceのデータやワークフロー... — Publickey / score: 75 (SalesforceとClaudeの主要な企業向け統合)</description>
+</item>
+<item>
+<title>[75] LLM-jp-4-VL 9Bリリース - LLM-jp</title>
+<link>https://llm-jp.nii.ac.jp/blog/llm-jp-4-vl-9b/</link>
+<guid isPermaLink="true">https://llm-jp.nii.ac.jp/blog/llm-jp-4-vl-9b/</guid>
+<pubDate>Wed, 02 Sep 2026 00:33:08 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>著者: 杉浦一瑳とLLM-jpマルチモーダルWGチーム 概要 このたびLLM-jpは視覚言語モデル LLM-jp-4-VL 9B を公開しました。 LLM-jp-4-VL 9Bは、国産大規模言語モデル llm-jp-4-8b-thinking をマルチモーダル化した約9Bパラメータの視覚言語モデルです。 2026年4月に公開した LLM-jp-4-VL 9B beta は、英語マルチモーダルデ... — はてなブックマーク テクノロジー / score: 75 (国産の新型視覚言語モデルのオープンソース公開)</description>
 </item>
 <item>
 <title>[75] Claude Fable 5.1 made me a really nice animated pelican</title>
@@ -469,14 +477,6 @@
 <pubDate>Tue, 01 Sep 2026 09:12:59 +0000</pubDate>
 <category>Zenn トレンド</category>
 <description>REALITYのバックエンドでは GKE 上で Go のマイクロサービス群が動いています。 2026 年 8 月、そのうちのあるサービスのPodが深夜に複数回 OOMKill されました。メモリが足りなかったのだろうと思って調べ始めたのですが、出てきた答えは違いました。ライブヒープは割り当ての 5% ほどしかなく、それでもコンテナのメモリ使用量は平常時から resource limits 近くで推移していました。原因は個々の設定ミスではなく、GOMEMLIMIT と GOGC=off という、それぞれ根拠のあった 2 つの設定の組み合わせでした。トリガーとなったのは、メモリではなく CP... — Zenn トレンド / score: 75 (Go言語のOOMKilled原因究明の良質な実践知)</description>
-</item>
-<item>
-<title>[75] EUがChatGPTを「超大規模オンライン検索エンジン」に正式指定、OpenAIにリスク評価や独立監査など追加義務</title>
-<link>https://gigazine.net/news/20260901-eu-chatgpt-digital-services-act/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260901-eu-chatgpt-digital-services-act/</guid>
-<pubDate>Tue, 01 Sep 2026 06:10:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>欧州委員会が2026年8月31日、OpenAIのChatGPTをデジタルサービス法(DSA)に基づく「超大規模オンライン検索エンジン(VLOSE)」に正式指定しました。ChatGPTはEUで月間4500万人以上が利用するサービスに適用されるDSAの最も厳しい規制区分に入り、OpenAIにはサービスが社会に与えるリスクの評価や対策など追加の義務が課されることになります。同時にRedditとRobloxも「超大規模オンラインプラットフォーム(VLOP)」に指定されています。 続きを読む... — GIGAZINE / score: 75 (EUがChatGPTをVLOSEに正式指定し規制強化)</description>
 </item>
 <item>
 <title>[75] Python 3.15.0 candidate 2 is here!</title>
@@ -581,14 +581,6 @@
 <pubDate>Thu, 27 Aug 2026 15:55:49 +0000</pubDate>
 <category>Publickey</category>
 <description>DuckDBの開発元であるDuckLabsは、来月（2026年9月）初旬にAWSの子会社となる予定であることを発表しました（DuckLabsの発表。AWSの発表） Today, @ducklabs_com is joining @awscl... — Publickey / score: 75 (DuckDBのAWS買収は大きな業界ニュース)</description>
-</item>
-<item>
-<title>[75] 「Claude Cowork」に内蔵ブラウザー、「Claude in Chrome」も全プランで一般提供／エージェントのWeb操作に2つの選択肢</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2136107.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2136107.html</guid>
-<pubDate>Thu, 27 Aug 2026 07:19:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Anthropicは8月26日（現地時間）、「Claude」デスクトップアプリの「Cowork」にブラウザーを内蔵したと発表した。Webサイトを使う作業を頼むとサイドパネルにブラウザーが開き、コンテンツを表示・操作してくれるようになる。 — 窓の杜 / score: 75 (Claudeデスクトップアプリに内蔵ブラウザー追加。)</description>
 </item>
 <item>
 <title>[75] OpenAI、公開プラグインでSkills Over MCPを早期サポート ——提出時にMCPサーバーからスキルを取り込み</title>
@@ -711,28 +703,20 @@
 <description> — CodeZine / score: 70 (AWS Lambdaの新ランタイムプレビュー提供開始)</description>
 </item>
 <item>
+<title>[70] 性能2倍で値段はそのまま! Claude Fable 5.1は何が変わったのか?</title>
+<link>https://qiita.com/nolanlover0527/items/1c95e374a543ff357c13?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/nolanlover0527/items/1c95e374a543ff357c13?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Wed, 02 Sep 2026 00:26:04 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>Claude Fable 5.1が公開 2026年9月1日、AnthropicがAIモデル「Claude Fable 5.1」と「Claude Mythos 5.1」を発表しました。前のモデルであるFable 5から約3か月というスピード更新です。 Fable 5.1と... — Qiita 人気記事 / score: 70 (新モデルClaude Fable 5.1の変更点レビュー)</description>
+</item>
+<item>
 <title>[70] アップル新CEOにターナス氏が就任--試練山積での船出　折りたたみiPhoneも試金石に</title>
 <link>https://japan.cnet.com/article/35252146/</link>
 <guid isPermaLink="true">https://japan.cnet.com/article/35252146/</guid>
 <pubDate>Wed, 02 Sep 2026 00:05:00 +0000</pubDate>
 <category>CNET Japan</category>
 <description>米Appleで現地時間9月1日、ジョン・ターナス氏がCEOに就任した。ティム・クック氏の後任で、これまではハードウェアエンジニアリング担当上級副社長を務めていた。就任から1週間あまり後の9月10日には、恒例の新型iPhone発表イベントが控えている。 — CNET Japan / score: 70 (大手IT企業のCEO交代という業界の大きな人事ニュース。)</description>
-</item>
-<item>
-<title>[70] Developing Enterprise Frontier Safeguards with our customers</title>
-<link>https://www.anthropic.com/news/enterprise-frontier-safeguards</link>
-<guid isPermaLink="true">https://www.anthropic.com/news/enterprise-frontier-safeguards</guid>
-<pubDate>Tue, 01 Sep 2026 22:12:33 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Today we’re announcing Enterprise Frontier Safeguards (EFS), a solution that combines the privacy of zero data retention (ZDR) with state-of-the-art safeguards for detecting misuse. EFS works by storing data in cloud infrastructure controlled by the customer, not Anthropic. EFS will be rolling ou... — はてなブックマーク テクノロジー / score: 70 (企業のデータプライバシーと安全性を高める新機能)</description>
-</item>
-<item>
-<title>[70] Opus 4.8匹敵、画像対応「DeepSeek-V4-Flash-Vision-Exp」無償公開</title>
-<link>https://pc.watch.impress.co.jp/docs/news/2137448.html</link>
-<guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2137448.html</guid>
-<pubDate>Tue, 01 Sep 2026 20:51:49 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Opus 4.8匹敵、画像対応「DeepSeek-V4-Flash-Vision-Exp」無償公開 — はてなブックマーク テクノロジー / score: 70 (高性能な画像対応AIモデルの無償公開ニュース)</description>
 </item>
 <item>
 <title>[70] Anthropicが「開発中のAIで外部を攻撃しないための対策」を発表</title>
@@ -805,6 +789,22 @@
 <pubDate>Mon, 31 Aug 2026 06:43:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Googleは8月26日（現地時間）、「Gemini Live」のアップデートを発表した。「Gemini Live」は、「Gemini」アプリに搭載されている音声対話機能。同社によると、「Gemini」ユーザーの63％が音声で話しかけているというが、この機能にエージェント機能が追加される。会話に応じるだけでなく、作業を声で依頼できるようになるわけだ。 — 窓の杜 / score: 70 (GoogleのGemini Liveにおけるエージェント機能の強化。)</description>
+</item>
+<item>
+<title>[70] Automated Security Response on AWS adds AI Toolkit for custom remediations</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/08/automated-security-response-adds-AI-toolkit/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/08/automated-security-response-adds-AI-toolkit/</guid>
+<pubDate>Mon, 31 Aug 2026 06:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Today, AWS announced four new capabilities for Automated Security Response on AWS (ASR). Customers can now use an AI-driven Toolkit that generates custom remediations using any AI assistant with built-in safety guardrails. In addition, customers can automatically remediate findings from Amazon Inspector, Amazon GuardDuty, and Amazon Macie. Customers can also centrally configure and scope automated remediations by account, OU, region, and resource tags through an enhanced web console. Lastly, cus — AWS What's New / score: 70 (AIを活用した自動セキュリティ修復機能の追加)</description>
+</item>
+<item>
+<title>[70] A milestone in expanding access to AI</title>
+<link>https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads</link>
+<guid isPermaLink="true">https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads</guid>
+<pubDate>Mon, 31 Aug 2026 04:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options. — OpenAI News / score: 70 (OpenAIのビジネス展開と収益規模の発表)</description>
 </item>
 </channel>
 </rss>
