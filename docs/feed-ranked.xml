@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 02 Sep 2026 16:11:15 +0000</lastBuildDate>
+<lastBuildDate>Wed, 02 Sep 2026 18:13:19 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] [AINews] NVIDIA buys HuggingFace for $13B, as OpenAI publishes their HF incident retro</title>
@@ -45,6 +45,14 @@
 <pubDate>Tue, 25 Aug 2026 15:00:00 +0000</pubDate>
 <category>Next.js Blog</category>
 <description>Next.js is moving the August security release forward to August 25, 2026. — Next.js Blog / score: 90 (Next.jsセキュリティリリースの日程前倒し)</description>
+</item>
+<item>
+<title>[85] Introducing Gemini 3.8 Flash and 3.8 Flash Cyber</title>
+<link>https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/</link>
+<guid isPermaLink="true">https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/</guid>
+<pubDate>Wed, 02 Sep 2026 16:18:31 +0000</pubDate>
+<category>Google DeepMind</category>
+<description> — Google DeepMind / score: 85 (Googleによる新しいGeminiモデルの発表)</description>
 </item>
 <item>
 <title>[85] Introducing Gemini 3.8 Flash and 3.8 Flash Cyber</title>
@@ -399,6 +407,14 @@
 <description>OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy. — OpenAI News / score: 80 (API顧客向けのデータ保持ポリシーとプライバシー強化)</description>
 </item>
 <item>
+<title>[75] Proactive cyber defense for governments and enterprises</title>
+<link>https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/</link>
+<guid isPermaLink="true">https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/</guid>
+<pubDate>Wed, 02 Sep 2026 16:24:24 +0000</pubDate>
+<category>Google DeepMind</category>
+<description> — Google DeepMind / score: 75 (政府や企業向けのプロアクティブなサイバー防衛)</description>
+</item>
+<item>
 <title>[75] AWSとAzureが最大100Gbpsでの相互接続を開始。これでAWSはAzure、Google Cloud、Oracle Cloudとのマルチクラウドをサポート</title>
 <link>https://www.publickey1.jp/blog/26/awsazure100gbpsawsazuregoogle_cloudoracle_cloud.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/awsazure100gbpsawsazuregoogle_cloudoracle_cloud.html</guid>
@@ -671,14 +687,6 @@
 <description>AWS Glue 6.0 is built on a fully modernized runtime, Apache Spark 4.1, Python 3.13, and Scala 2.13, delivering 30% lower pricing than previous AWS Glue versions. — AWS News Blog / score: 75 (AWS Glue 6.0のメジャーリリースと価格改定)</description>
 </item>
 <item>
-<title>[75] AWS Glue 6.0 delivers 30% price reduction and Iceberg v3 support</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/08/aws-glue-6-0-price-reduction-iceberg-v3</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/08/aws-glue-6-0-price-reduction-iceberg-v3</guid>
-<pubDate>Fri, 21 Aug 2026 16:42:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>AWS Glue 6.0 is now generally available, delivering a 30% price reduction and introducing full support for Apache Iceberg v3, newer versions of Apache Hudi and Delta Lake, and new capabilities to improve developer productivity. AWS Glue 6.0 also upgrades runtime to Apache Spark 4.1, Python 3.13, and Scala 2.13. With Apache Iceberg v3, AWS Glue 6.0 adds the VARIANT data type with automatic shredding for faster reads on semi-structured data, deletion vectors for high-performance row-level updates, — AWS What's New / score: 75 (AWS Glue 6.0のリリースと大幅な価格改定)</description>
-</item>
-<item>
 <title>[75] v4.1.1</title>
 <link>https://github.com/spring-projects/spring-boot/releases/tag/v4.1.1</link>
 <guid isPermaLink="true">https://github.com/spring-projects/spring-boot/releases/tag/v4.1.1</guid>
@@ -693,6 +701,14 @@
 <pubDate>Fri, 21 Aug 2026 05:45:21 +0000</pubDate>
 <category>Latent Space</category>
 <description>Less than a month ago we had just featured Poolside’s Model Factory with Eiso Kant on the pod (following our Paper Club coverage): It appears that Jensen really, really liked Poolside too, as he went from investor to doing licensing their factory and hiring 109 of their employees: Unless things changed drastically, this accounts for the overwhelming majority of the technical Poolside employees : Eiso Kant [01:52:31]: We are hiring on every possible role in applied research and engineering in the — Latent Space / score: 75 (AI業界における大規模な買収とインフラ投資)</description>
+</item>
+<item>
+<title>[70] Amazon Quick adds new tool settings and Model Context Protocol (MCP) sync support for connectors</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-adds-tool-settings-mcp-sync/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-adds-tool-settings-mcp-sync/</guid>
+<pubDate>Wed, 02 Sep 2026 16:54:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon Quick connectors let users leverage tools and services such as Outlook, Slack, Salesforce, Jira, and homegrown MCP servers directly into their workflows across chat, agents, apps, flows, and deep research. Today, Amazon Quick introduces new tool settings and MCP sync support that give admins and connector owners more control over how connectors are deployed and kept up to date. Connector owners and admins can now selectively enable or disable individual tools within a connector to ensure  — AWS What's New / score: 70 (MCP同期サポートなどAWSサービスの重要な機能追加)</description>
 </item>
 <item>
 <title>[70] Simplify pipelines with new BigQuery identity columns</title>
@@ -789,22 +805,6 @@
 <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
 <category>Hugging Face Blog</category>
 <description> — Hugging Face Blog / score: 70 (WebGPUを活用したローカルAI向けカーネル公開)</description>
-</item>
-<item>
-<title>[70] BigQuery Graph is now GA: the knowledge foundation for the agentic era</title>
-<link>https://cloud.google.com/blog/products/data-analytics/bigquery-graph-connecting-data-and-ai-at-scale/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/products/data-analytics/bigquery-graph-connecting-data-and-ai-at-scale/</guid>
-<pubDate>Mon, 31 Aug 2026 23:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>Many of the questions that matter in enterprise data aren't just about individual rows — they're about how things connect: how two accounts are linked, what path a payment took, what context grounds an AI agent's answer. That’s what a graph is built to solve. Historically, unlocking these insights meant extracting data into standalone graph databases, creating silos and operational overhead. To remove these barriers, we brought native graph capabilities directly to the data warehouse. Today, we  — Google Cloud Blog / score: 70 (BigQuery Graphの一般提供開始とデータ基盤の進化)</description>
-</item>
-<item>
-<title>[70] Amazon Redshift now supports AWS IAM Identity Center authentication with enhanced VPC routing</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-redshift-supports-idc-evr</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-redshift-supports-idc-evr</guid>
-<pubDate>Mon, 31 Aug 2026 21:02:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Amazon Redshift now supports AWS IAM Identity Center authentication for provisioned clusters and serverless workgroups configured with enhanced VPC routing (EVR). You can access Amazon Redshift with single sign-on with your corporate credentials, and the traffic traverses Amazon Virtual Private Cloud (Amazon VPC) and stays on the AWS network. This is valuable for customers with data residency, regulatory, or network-isolation requirements that mandate no public internet egress for analytics. Wit — AWS What's New / score: 70 (Amazon RedshiftのIAM認証機能強化)</description>
 </item>
 </channel>
 </rss>
