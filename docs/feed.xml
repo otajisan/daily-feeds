@@ -4,7 +4,7 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 02 Sep 2026 18:13:19 +0000</lastBuildDate>
+<lastBuildDate>Wed, 02 Sep 2026 20:09:09 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>AcerがIFA2026で超変形ゲーミングPCや800g切りのモバイルノート、RTX Sparkを発表</title>
@@ -13,6 +13,22 @@
 <pubDate>Wed, 02 Sep 2026 18:00:00 +0000</pubDate>
 <category>ASCII.jp</category>
 <description>AcerはIFA2026に向けて開催したnext@acerグローバル記者会見で、モバイル性能を極限まで追求した超軽量ノートPCや、次世代AI、環境配慮、そしてポータブルゲームに焦点を当てた新製品群を発表しまし — ASCII.jp / score: 35 (IFA2026でのハードウェア新製品発表のニュース)</description>
+</item>
+<item>
+<title>Web Search on Amazon Bedrock is now available in AWS GovCloud (US-West)</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-web-aws-govcloud/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-web-aws-govcloud/</guid>
+<pubDate>Wed, 02 Sep 2026 17:52:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>The Web Search built-in server-side tool on Amazon Bedrock is now available in AWS GovCloud (US-West), helping bring grounded web results to compliance-sensitive government and public-sector workloads. Web Search helps supported OpenAI GPT models ground responses with information from the web. Responses include citations to the sources the model used so users can trace each claim back to its web origin. This can be especially valuable whenever an answer depends on information that changes over t — AWS What's New / score: 30 (GovCloud限定の機能追加のため)</description>
+</item>
+<item>
+<title>Amazon Connect Customer expands automated performance evaluations to Malay</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-customer-automated-evaluations-malay/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-customer-automated-evaluations-malay/</guid>
+<pubDate>Wed, 02 Sep 2026 17:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon Connect Customer now automates evaluations of human and AI agents in Malay using generative AI. Managers define custom evaluation criteria in natural language and receive AI-generated evaluations with justifications in their preferred language. Performance evaluations also supports cross-language evaluation and can complete assessments in English, even when the conversation is in Malay. This enables multilingual contact centers to use a standardized evaluation framework across languages.  — AWS What's New / score: 25 (特定言語の対応追加で影響が限定的)</description>
 </item>
 <item>
 <title>Amazon Quick adds new tool settings and Model Context Protocol (MCP) sync support for connectors</title>
@@ -47,12 +63,28 @@
 <description> — Google DeepMind / score: 85 (Googleによる新しいGeminiモデルの発表)</description>
 </item>
 <item>
+<title>Aurora DSQL の現状 2026 (Rails の場合)</title>
+<link>https://diary.sorah.jp/2026/09/03/dsql-in-action</link>
+<guid isPermaLink="true">https://diary.sorah.jp/2026/09/03/dsql-in-action</guid>
+<pubDate>Wed, 02 Sep 2026 16:00:07 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Also available in: English Aurora DSQL が re:Invent 2024 で披露されてから 1.5 年程度たちました。DynamoDB 程度の手軽さで SQL を喋る RDBMS が利用できる上に、DynamoDB を含む purpose-built databases にありがちな設計の難しさがない、という点でかなり便利なデータベースサービスになっています。ただ、それだ... — はてなブックマーク テクノロジー / score: 65 (Aurora DSQLのRails連携解説で実用的)</description>
+</item>
+<item>
 <title>Amazon Connect Customer announces general availability of agentic CX designer</title>
 <link>https://aws.amazon.com/about-aws/whats-new/2026/09/agentic-cx-designer/</link>
 <guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/agentic-cx-designer/</guid>
 <pubDate>Wed, 02 Sep 2026 16:00:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Amazon Connect Customer announces the general availability of agentic CX designer, a no-code canvas for designing and deploying AI-powered self-service experiences. You can now build and launch voice and digital experiences that bring agentic and deterministic AI together to transform how you serve customers with the control and reliability enterprises demand. Your business teams users can go from designing conversations and integrating with the systems that run your business, to testing, to lau — AWS What's New / score: 65 (AIを活用したカスタマーエクスペリエンスツールの一般提供)</description>
+</item>
+<item>
+<title>Second-generation AWS Outposts racks now in the AWS GovCloud (US) Regions</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/aws-outposts-govcloud-us-regions/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/aws-outposts-govcloud-us-regions/</guid>
+<pubDate>Wed, 02 Sep 2026 16:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Second-generation AWS Outposts racks are now supported in the AWS GovCloud (US-East) and AWS GovCloud (US-West) Regions. Outposts racks extend AWS infrastructure, AWS services, APIs, and tools to virtually any on-premises data center or colocation space for a truly consistent hybrid experience. Organizations from startups to enterprises and the public sector can now order their Outposts racks connected to the new supported regions, optimizing for their latency and data residency needs. Outposts  — AWS What's New / score: 30 (GovCloudのハードウェア対応拡大)</description>
 </item>
 <item>
 <title>Simplify pipelines with new BigQuery identity columns</title>
@@ -205,6 +237,14 @@
 <pubDate>Wed, 02 Sep 2026 13:00:00 +0000</pubDate>
 <category>Gemini (Google Blog)</category>
 <description>Google is kicking off a multi-year partnership with Jimmy Donaldson, better known as MrBeast, across Gemini and Google Health. — Gemini (Google Blog) / score: 45 (GoogleとMrBeastの複数年パートナーシップ)</description>
+</item>
+<item>
+<title>AWS User Experience Customization (UXC) is now available in all commercial AWS Regions</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/08/aws-uxc-aws-regions</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/08/aws-uxc-aws-regions</guid>
+<pubDate>Wed, 02 Sep 2026 13:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS User Experience Customization (UXC) is now available in all commercial AWS Regions. UXC enables account administrators to set a custom account color and control which services and Regions appear in the AWS Management Console. Previously, UXC was available only in US East (N. Virginia), requiring customers who manage these settings programmatically to direct API calls to that single Region. With today's expansion, customers can manage account customizations from any commercial AWS Region usin — AWS What's New / score: 35 (AWS管理機能の商用リージョン展開)</description>
 </item>
 <item>
 <title>実家の親の見守り役を「SwitchBotの開閉センサー」に任せてみた</title>
@@ -591,6 +631,14 @@
 <description>Uravation、業務を実行するAIを構築して引き継ぐ「AI社員構築代行」サービスを提供開始 — ASCII.jp / score: 50 (AIを活用した業務効率化サービス開始に関するニュースのため)</description>
 </item>
 <item>
+<title>5種類のポリフォニックシンセサイザーコレクション、Roland「Analog Polysynth Collection」が60%OFF！</title>
+<link>https://computermusic.jp/2026/09/roland-analog-polysynth-collection/</link>
+<guid isPermaLink="true">https://computermusic.jp/2026/09/roland-analog-polysynth-collection/</guid>
+<pubDate>Wed, 02 Sep 2026 09:01:41 +0000</pubDate>
+<category>Computer Music Japan</category>
+<description>5種類のポリフォニックシンセサイザーコレクション、Roland「Analog Polysynth Collection」が60%OFFとなっています。 Rolandでは、Synth Monthセールを開催中です。人気にシ... The post 5種類のポリフォニックシンセサイザーコレクション、Roland「Analog Polysynth Collection」が60%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 15 (音楽制作ソフトのセール情報のため)</description>
+</item>
+<item>
 <title>AWS Lambda now supports SnapStart for container image functions</title>
 <link>https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-snapstart-container/</link>
 <guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-snapstart-container/</guid>
@@ -631,6 +679,14 @@
 <description>2026年9月3日の23:59まで開催中のAmazonスマイルセール。恒例のギズモード・ジャパンのスタッフがガチで買ったものを公開します。■ 9/2（水）更新■ 9/1（火）更新9/2（水）更新（ギズモード・ジャパン編集部 カイル）（ライタ… — ギズモード・ジャパン / score: 25 (セールでの購入品紹介であり一般的な購買トレンドの範疇のため)</description>
 </item>
 <item>
+<title>細部に至るまで入念にモデリング、オリジナルTRINITYハードウェアの紛れもない深み、透明感、存在感を再現する、KORG「TRINITY」が49%OFF！</title>
+<link>https://computermusic.jp/2026/09/trinity/</link>
+<guid isPermaLink="true">https://computermusic.jp/2026/09/trinity/</guid>
+<pubDate>Wed, 02 Sep 2026 08:46:24 +0000</pubDate>
+<category>Computer Music Japan</category>
+<description>細部に至るまで入念にモデリング、オリジナルTRINITYハードウェアの紛れもない深み、透明感、存在感を再現する、KORG「TRINITY」が49%OFFとなっています。 KORGではSynth Monthセールを開催中で... The post 細部に至るまで入念にモデリング、オリジナルTRINITYハードウェアの紛れもない深み、透明感、存在感を再現する、KORG「TRINITY」が49%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 15 (音楽制作プラグインのセール情報のため)</description>
+</item>
+<item>
 <title>｢iPhone 18 Pro｣のSIMカードスロット部品が流出か</title>
 <link>https://taisy0.com/2026/09/02/226975.html</link>
 <guid isPermaLink="true">https://taisy0.com/2026/09/02/226975.html</guid>
@@ -663,6 +719,14 @@
 <description>2025年10月21日の記事を編集して再掲載しています。車についた鳥のフン掃除してる気がしている方へ。2025年10月初め、アメリカ・バージニア州に拠点を置くAlan’s Factory Outlet社が「鳥のフン報告書」を発表しました。こ… — ギズモード・ジャパン / score: 10 (雑学的な一般向けの話題のため)</description>
 </item>
 <item>
+<title>あらゆるジャンルで成功を収める“Frank Filipetti”シグネチャー・ライブラリ、 TOONTRACK「SDX – STORIES」が20%OFF！</title>
+<link>https://computermusic.jp/2026/09/sdx-stories-2/</link>
+<guid isPermaLink="true">https://computermusic.jp/2026/09/sdx-stories-2/</guid>
+<pubDate>Wed, 02 Sep 2026 08:31:42 +0000</pubDate>
+<category>Computer Music Japan</category>
+<description>4あらゆるジャンルで成功を収める“Frank Filipetti”シグネチャー・ライブラリ、 TOONTRACK「SDX – STORIES」が20%OFFとなっています。 Toontrackでは、毎年9月恒... The post あらゆるジャンルで成功を収める“Frank Filipetti”シグネチャー・ライブラリ、 TOONTRACK「SDX – STORIES」が20%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 15 (音源ライブラリのセール情報のため)</description>
+</item>
+<item>
 <title>Runway、コード不要でデジタル世界を構築するAIモデル「Solaris」発表</title>
 <link>https://japan.cnet.com/article/35252199/</link>
 <guid isPermaLink="true">https://japan.cnet.com/article/35252199/</guid>
@@ -687,12 +751,12 @@
 <description>「価値創造学部」という名称について、Xなどで「他の学部は価値を創造していないということか」「空虚だ」「詐称と思われそう」などと批判的なポストが相次いだ。「価値創造」が創価学会の名称の由来と重なる点を指摘する投稿も目立った。 また「東京大学の学部案内」をうたったジョーク投稿で、「価値創造学部」以外の... — はてなブックマーク テクノロジー / score: 15 (大学の新学部名称を巡る世間の議論)</description>
 </item>
 <item>
-<title>Windows・Linux・macOS対応のネイティブで高速なSpotifyアプリ「Fastpotify」、ローカル再生・ライブラリアクセス・Spotify Connectコントロール機能を備えて軽量</title>
-<link>https://gigazine.net/news/20260902-fastpotify/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260902-fastpotify/</guid>
-<pubDate>Wed, 02 Sep 2026 08:12:28 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Windows・macOS・Linuxに対応した軽量Spotifyクライアントが「Fastpotify」です。ストリーミングでの音楽再生だけでなく、ローカルでの音楽再生や、再生デバイスをシームレスに切り替えることができる公式機能の「Spotify Connect」にも対応しています。 Fastpotify https://fastpotify.rocks/ Fastpotifyはプログラミン... — はてなブックマーク テクノロジー / score: 45 (軽量なオープンソースSpotifyクライアントの紹介)</description>
+<title>5種類のリミッティング・アルゴリズムで曲に最適な音圧を実現する、Waves「L4 Ultramaximizer」が66%OFF！</title>
+<link>https://computermusic.jp/2026/09/l4-ultramaximizer-2/</link>
+<guid isPermaLink="true">https://computermusic.jp/2026/09/l4-ultramaximizer-2/</guid>
+<pubDate>Wed, 02 Sep 2026 08:16:11 +0000</pubDate>
+<category>Computer Music Japan</category>
+<description>5種類のリミッティング・アルゴリズムで曲に最適な音圧を実現する、Waves「L4 Ultramaximizer」が66%OFFとなっています。 Wavesでは、各種セールを開催中です。是非チェックを。 L4 Ultram... The post 5種類のリミッティング・アルゴリズムで曲に最適な音圧を実現する、Waves「L4 Ultramaximizer」が66%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 15 (オーディオプラグインのセール情報のため)</description>
 </item>
 <item>
 <title>「Firefox 155」が正式公開 ～Windowsで「Nintendo Switch Proコントローラー」に対応／ブロックしたトラッカー数をアドレスバーに表示。29件の脆弱性を修正</title>
@@ -711,6 +775,14 @@
 <description>The Tech Outlookによると、Nothingがインド市場で「Phone (4a)」シリーズと「Phone (4b)」の値上げを実施した模様。 9月に入ってからインド市場ではすでに複数のスマートフォンブランドが […] — 気になる、記になる… / score: 20 (海外市場におけるスマートフォン端末の値上げ情報)</description>
 </item>
 <item>
+<title>Oberheim OB-X – 名機の美を纏った現代仕様のクラシック、GForce「OB-X」が50%OFF！</title>
+<link>https://computermusic.jp/2026/09/ob-x/</link>
+<guid isPermaLink="true">https://computermusic.jp/2026/09/ob-x/</guid>
+<pubDate>Wed, 02 Sep 2026 08:01:29 +0000</pubDate>
+<category>Computer Music Japan</category>
+<description>Oberheim OB-X – 名機の美を纏った現代仕様のクラシック、GForce「OB-X」が50%OFFとなっています。 GForceでは、Synth Monthセールを開催中です。合わせてチェックしてみてください。... The post Oberheim OB-X – 名機の美を纏った現代仕様のクラシック、GForce「OB-X」が50%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 15 (音楽制作用プラグインのセール情報で技術者向けではない)</description>
+</item>
+<item>
 <title>パンチ満点なにんにくの香りで食欲がガツガツ刺激されるエースコック「全国謎めん巡り 川崎アホーメン」試食レビュー</title>
 <link>https://gigazine.net/news/20260902-acecook-kawasaki-ahomenn/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260902-acecook-kawasaki-ahomenn/</guid>
@@ -727,84 +799,12 @@
 <description>やめられない、止まらない、でいいのか？地球温暖化に核兵器など、グローバルで取り組むべき問題には、当然、グローバル視点での解決策が求められます。そして、いまやAIもまた、世界的な取り組みが求められるテーマのひとつ。誰もが知るテック界の重鎮ビル… — ギズモード・ジャパン / score: 50 (AI時代の動向に関する著名人の見解)</description>
 </item>
 <item>
-<title>画像も動画も3D空間も生成可能な世界モデル「Atlas」が登場、「1枚の画像から3D空間を生成」「指示に忠実なカメラワーク」「1440pの動画生成」など多機能なモデル</title>
-<link>https://gigazine.net/news/20260902-world-model-atlas/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260902-world-model-atlas/</guid>
-<pubDate>Wed, 02 Sep 2026 07:51:59 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>「世界モデル」とは、現実世界の物理特性や物体の構造などを学習して再現できるAIモデルを指します。新たに、AI企業のWorld Labsが世界モデル「Atlas」を発表しました。 Atlas: A World Model for Spatial Intelligence | World Labs https://www.worldlabs.ai/blog/atlas Introducing Atlas; A Foundation Model for Sp... — はてなブックマーク テクノロジー / score: 75 (先進的なマルチモーダル世界モデルAtlasの発表)</description>
-</item>
-<item>
-<title>GitHub CLIに​-​-​​attachフラグ、コマンドラインからIssueやPull Requestへ画像・動画を添付可能に</title>
-<link>https://gihyo.jp/article/2026/09/github-cli-attach-flag?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/09/github-cli-attach-flag?utm_source=feed</guid>
-<pubDate>Wed, 02 Sep 2026 07:47:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>GitHubは2026年9月1日、GitHub CLIにローカルの画像や動画をアップロードできる--attachフラグを追加したと発表した。 — gihyo.jp / score: 75 (GitHub CLIの新機能追加と実用性)</description>
-</item>
-<item>
-<title>[AINews] Claude Fable/Mythos 5.1: new SOTA model, 75% cache price cut but 70% more output tokens</title>
-<link>https://www.latent.space/p/ainews-claude-fablemythos-51-new</link>
-<guid isPermaLink="true">https://www.latent.space/p/ainews-claude-fablemythos-51-new</guid>
-<pubDate>Wed, 02 Sep 2026 07:46:08 +0000</pubDate>
-<category>Latent Space</category>
-<description>With Astra clearly finally warming up for a full launch (with @sama and @openai writing about it again after a month of self imposed pacing ), there’s a familiar window to take the narrative with the round robin of model launches, with Grok 4.7 and Gemini Flash 3.8 also on the way. But that’s also perhaps not the best way to frame today’s launch… which got well over 12M views updating the sitting world best model yet again: The benchmark table speaks for itself: While per-token pricing is the sa — Latent Space / score: 80 (最新LLMモデルとAPI価格改定の重要な動向)</description>
-</item>
-<item>
-<title>アップル「iPhone 18 Pro」、シルバーを廃止しブラック復活か</title>
-<link>https://japan.cnet.com/article/35252197/</link>
-<guid isPermaLink="true">https://japan.cnet.com/article/35252197/</guid>
-<pubDate>Wed, 02 Sep 2026 07:45:00 +0000</pubDate>
-<category>CNET Japan</category>
-<description>アップルの「iPhone 18 Pro」と「iPhone 18 Pro Max」は、米国時間9月9日のイベントで発表される見通しだ。両機種のカラー展開は3色になりそうだと、新たなうわさが伝えている。 — CNET Japan / score: 30 (次期iPhoneのカラーバリエーションに関する噂)</description>
-</item>
-<item>
-<title>pixiv・note・ガールズちゃんねる・好き嫌いcomが指定されて注目、「情プラ法」って何だ？　今知っておきたい情報プラットフォームにおける「自由」と「責任」</title>
-<link>https://internet.watch.impress.co.jp/docs/index/2137616.html</link>
-<guid isPermaLink="true">https://internet.watch.impress.co.jp/docs/index/2137616.html</guid>
-<pubDate>Wed, 02 Sep 2026 07:39:29 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>pixiv・note・ガールズちゃんねる・好き嫌いcomが指定されて注目、「情プラ法」って何だ？ 今知っておきたい情報プラットフォームにおける「自由」と「責任」 — はてなブックマーク テクノロジー / score: 55 (情報プラットフォーム規制法の注目と解説)</description>
-</item>
-<item>
-<title>World Labs、“世界”を作り出せる空間知能モデル「Atlas」を発表／カメラを自由に動かし、時間と空間をシミュレート。テキスト・画像・動画・3Dを扱うオムニモデル</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2137662.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2137662.html</guid>
-<pubDate>Wed, 02 Sep 2026 07:37:54 +0000</pubDate>
-<category>窓の杜</category>
-<description>米World Labsは9月1日（現地時間）、空間知能（spatial intelligence）のための新しい世界モデル（world model） 「Atlas」 を発表した。現在、一部のパートナーを対象とした早期アクセスの段階にある。アクセスを希望する場合は、同社ブログよりリクエストが可能。今後は「Marble」をはじめとする同社製品の次期バージョンに組み込まれるという。 — 窓の杜 / score: 75 (空間知能モデルAtlasの発表に関する技術解説)</description>
-</item>
-<item>
-<title>着けた瞬間にわかった。ウェアラブルカメラは「眼鏡型」じゃなくて良かったんだ</title>
-<link>https://www.gizmodo.jp/article/ceatec_fairydevices-wcs/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/ceatec_fairydevices-wcs/</guid>
-<pubDate>Wed, 02 Sep 2026 07:35:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>2025年10月21日の記事を編集して再掲載しています。パッと見はネッククーラー。でも、どうやら違いそう。CEATEC 2025の「フェアリーデバイセズ」ブースで出会ったのは、U字型の首掛けデバイスです。軽っ。いや、正確には「重さが気になら… — ギズモード・ジャパン / score: 20 (新デバイスの製品紹介のため)</description>
-</item>
-<item>
-<title>GoogleがCanva・Adobe Express対抗の画像生成・編集ツール「Google Pics」を提供開始、GoogleドキュメントやGoogleスライドとも連携可能</title>
-<link>https://gigazine.net/news/20260902-google-pics/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260902-google-pics/</guid>
-<pubDate>Wed, 02 Sep 2026 07:20:00 +0000</pubDate>
+<title>Windows・Linux・macOS対応のネイティブで高速なSpotifyアプリ「Fastpotify」、ローカル再生・ライブラリアクセス・Spotify Connectコントロール機能を備えて軽量</title>
+<link>https://gigazine.net/news/20260902-fastpotify/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20260902-fastpotify/</guid>
+<pubDate>Wed, 02 Sep 2026 07:56:00 +0000</pubDate>
 <category>GIGAZINE</category>
-<description>Googleが2026年9月1日、Google Workspace向けの画像生成・編集ツール「Google Pics」を順次提供すると発表しました。Google PicsはAIを使って画像を生成したり、画像内の一部分だけを編集したりできるツールで、GoogleドキュメントやGoogleスライドとの連携にも対応します。 続きを読む... — GIGAZINE / score: 60 (Google Workspace向けAI画像ツールの提供開始)</description>
-</item>
-<item>
-<title>無償の定番ネットワーク調査ツール「NetEnum」が第3世代へ ～可視化、通信解析までカバー／「NetEnum6」が正式公開</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2137283.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2137283.html</guid>
-<pubDate>Wed, 02 Sep 2026 07:03:31 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>無償の定番ネットワーク調査ツール「NetEnum」が第3世代へ ～可視化、通信解析までカバー／「NetEnum6」が正式公開 — はてなブックマーク テクノロジー / score: 40 (ネットワーク調査ツールのメジャーバージョンアップ)</description>
-</item>
-<item>
-<title>折りたためるコントローラー「Razer Prio」登場--iPhone/Android対応、1万6980円</title>
-<link>https://japan.cnet.com/article/35252191/</link>
-<guid isPermaLink="true">https://japan.cnet.com/article/35252191/</guid>
-<pubDate>Wed, 02 Sep 2026 07:02:00 +0000</pubDate>
-<category>CNET Japan</category>
-<description>Razerは、折りたたむとポケットサイズになる超小型ゲームコントローラー「Razer Prio」を発表した。iPhoneとAndroidの両方に対応する。 — CNET Japan / score: 20 (携帯用ゲームコントローラーの新製品発売情報)</description>
+<description>Windows・macOS・Linuxに対応した軽量Spotifyクライアントが「Fastpotify」です。ストリーミングでの音楽再生だけでなく、ローカルでの音楽再生や、再生デバイスをシームレスに切り替えることができる公式機能の「Spotify Connect」にも対応しています。 続きを読む... — GIGAZINE / score: 45 (軽量なオープンソースSpotifyクライアントの紹介)</description>
 </item>
 </channel>
 </rss>
