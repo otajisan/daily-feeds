@@ -4,13 +4,37 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 02 Sep 2026 14:11:10 +0000</lastBuildDate>
+<lastBuildDate>Wed, 02 Sep 2026 16:11:15 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Simplify pipelines with new BigQuery identity columns</title>
+<link>https://cloud.google.com/blog/products/data-analytics/bigquery-identity-columns-to-auto-generate-sequential-integers/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/data-analytics/bigquery-identity-columns-to-auto-generate-sequential-integers/</guid>
+<pubDate>Wed, 02 Sep 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>To further empower our customers in their data journey, we are excited to announce the launch of identity columns in BigQuery. This new feature allows users to define columns that automatically generate sequential 64-bit integer values, simplifying the way you manage unique identifiers within your tables. Data engineers are always looking for ways to make data ingestion smoother and more reliable. BigQuery identity columns offer a powerful, built-in mechanism to automatically generate unique num — Google Cloud Blog / score: 70 (BigQueryにおけるアイデンティティカラムの新機能)</description>
+</item>
+<item>
+<title>Getting started with Mantis, our open-source bug finding-and-fixing harness</title>
+<link>https://cloud.google.com/blog/products/identity-security/getting-started-with-the-mantis-harness-to-find-and-fix-bugs/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/identity-security/getting-started-with-the-mantis-harness-to-find-and-fix-bugs/</guid>
+<pubDate>Wed, 02 Sep 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>AI models have clearly proven their ability to discover and exploit vulnerabilities without much, if any, human assistance. To help defenders gain the advantage with AI, we built the Mantis harness to automate the discovery, triage, reproduction, and patching of software vulnerabilities. Available to all as an open-source framework, Mantis is part of Google’s internal approach to find and fix vulnerabilities at machine-speed. It creates a more effective scalable, context-aware repository analysi — Google Cloud Blog / score: 80 (AIを活用したオープンソースの脆弱性発見ツール)</description>
+</item>
+<item>
+<title>AWSをゲームで学べる「AWS Cloud Quest」に新バージョン「AWS Cloud Quest 2.0」登場！ AIによるバーチャル顧客と対話し、要件を聞き出して正しくソリューションに落とし込め</title>
+<link>https://www.publickey1.jp/blog/26/awsaws_cloud_questaws_cloud_quest_20_ai.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/awsaws_cloud_questaws_cloud_quest_20_ai.html</guid>
+<pubDate>Wed, 02 Sep 2026 15:55:28 +0000</pubDate>
+<category>Publickey</category>
+<description>Amazon Web Services（AWS）は、3DオープンワールドでAWSを学べるオンラインゲーム「AWS Cloud Quest」の新バージョン「AWS Cloud Quest 2.0」の提供を開始しました。 AWS Cloud Q... — Publickey / score: 45 (AWSの学習用プラットフォームの新版リリース情報)</description>
+</item>
 <item>
 <title>AWSとAzureが最大100Gbpsでの相互接続を開始。これでAWSはAzure、Google Cloud、Oracle Cloudとのマルチクラウドをサポート</title>
 <link>https://www.publickey1.jp/blog/26/awsazure100gbpsawsazuregoogle_cloudoracle_cloud.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/awsazure100gbpsawsazuregoogle_cloudoracle_cloud.html</guid>
-<pubDate>Wed, 02 Sep 2026 14:09:39 +0000</pubDate>
+<pubDate>Wed, 02 Sep 2026 15:53:23 +0000</pubDate>
 <category>Publickey</category>
 <description>Amzon Web Services（AWS）とマイクロソフトは、両社が協力してAWSとMicrosoft Azureを最大100Gbpsの高速な閉域網で相互接続することを発表しました（AWSの発表、マイクロソフトの発表）。 両社ともにプレ... — Publickey / score: 75 (大手クラウド間の100Gbps相互接続開始)</description>
 </item>
@@ -18,9 +42,81 @@
 <title>ボットの振る舞いを動的に学習して防御を改善し続ける、「Adaptive Intelligence」ボット検出エンジン、Cloudflareが発表</title>
 <link>https://www.publickey1.jp/blog/26/adaptive_intelligencecloudflare.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/adaptive_intelligencecloudflare.html</guid>
-<pubDate>Wed, 02 Sep 2026 14:09:39 +0000</pubDate>
+<pubDate>Wed, 02 Sep 2026 15:48:38 +0000</pubDate>
 <category>Publickey</category>
 <description>Cloudflareは、ボットの侵入手段を同社のネットワーク全体から動的に学習し、防御を継続的に改善し続ける「Adaptive Intelligence」という仕組みを採用した新しいボット検出エンジンを発表しました。 Cloudflare&amp;... — Publickey / score: 65 (Cloudflareの動的ボット検出エンジン発表)</description>
+</item>
+<item>
+<title>Proactive cyber defense for governments and enterprises</title>
+<link>https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/</link>
+<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/</guid>
+<pubDate>Wed, 02 Sep 2026 15:40:00 +0000</pubDate>
+<category>Google AI Blog</category>
+<description>The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools. — Google AI Blog / score: 75 (政府・企業向けのプロアクティブなサイバー防御)</description>
+</item>
+<item>
+<title>iPhone Ultraの2層UTGをGoogleなども採用へ？折り目低減技術が普及</title>
+<link>https://iphone-mania.jp/iphone18-605232/</link>
+<guid isPermaLink="true">https://iphone-mania.jp/iphone18-605232/</guid>
+<pubDate>Wed, 02 Sep 2026 15:15:00 +0000</pubDate>
+<category>iPhone Mania</category>
+<description>折りたたみiPhone（仮称：iPhone Ultra）の特徴の1つとして、メインディスプレイ中央の折り目がかなり目立ちにくくなると予想されています。 その実現に貢献すると噂されているのが、従来はディスプレイ表面側に使用 […] — iPhone Mania / score: 45 (折りたたみデバイス向けディスプレイ技術の噂)</description>
+</item>
+<item>
+<title>Apple新CEOターナス氏、来週の「巨大発表」を予告！折りたたみiPhone登場か</title>
+<link>https://iphone-mania.jp/apple-605239/</link>
+<guid isPermaLink="true">https://iphone-mania.jp/apple-605239/</guid>
+<pubDate>Wed, 02 Sep 2026 15:05:33 +0000</pubDate>
+<category>iPhone Mania</category>
+<description>Appleの新たな最高経営責任者（CEO）として現地時間9月1日にジョン・ターナス氏が就任しました。就任初日に従業員へ送ったメッセージで、ターナス氏は来週の「大規模な製品発表」に言及するとともに、「まだ私たち自身が想像す […] — iPhone Mania / score: 40 (Appleの新CEO就任と製品発表の予告に関する話題)</description>
+</item>
+<item>
+<title>A20 ProはWMCMでA20はPoP継続か〜パッケージ技術に違いあり</title>
+<link>https://iphone-mania.jp/iphone18-605226/</link>
+<guid isPermaLink="true">https://iphone-mania.jp/iphone18-605226/</guid>
+<pubDate>Wed, 02 Sep 2026 15:05:00 +0000</pubDate>
+<category>iPhone Mania</category>
+<description>iPhone18 Proシリーズおよび折りたたみiPhoneに搭載される見込みのA20 Proと、iPhone18やiPhone18eに搭載されると噂のA20について、基板設計図面らしき画像がX（旧Twitter）に投稿 […] — iPhone Mania / score: 45 (次期iPhone向けチップのパッケージ技術の噂)</description>
+</item>
+<item>
+<title>ASUSが世界に向けて初の「RTX Spark」搭載ノートPCを正式発表＝16型は100Whバッテリーで1.7kgを実現!!</title>
+<link>https://ascii.jp/elem/000/004/431/4431831/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/431/4431831/?rss</guid>
+<pubDate>Wed, 02 Sep 2026 15:01:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>ASUSはIFA2026でNVIDIAの次世代チップ「RTX Spark」を搭載したクリエイター向けPC「ProArtシリーズ」を3モデルを発表しました — ASCII.jp / score: 55 (次世代チップを搭載した新型ノートPCの発表)</description>
+</item>
+<item>
+<title>DJIが「Osmo 360 II」を日本で発表＝8K60Pの全天周ムービーが撮影できる新型360度カメラ＝実機レビュー</title>
+<link>https://ascii.jp/elem/000/004/431/4431462/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/431/4431462/?rss</guid>
+<pubDate>Wed, 02 Sep 2026 15:01:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>DJIは全天周の8K映像を60fpsで撮影できる「Osmo 360 II」を発表しました — ASCII.jp / score: 35 (コンシュー向けカメラの新型発表であり技術者全体への影響は低い)</description>
+</item>
+<item>
+<title>Introducing Gemini 3.8 Flash and 3.8 Flash Cyber</title>
+<link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/</link>
+<guid isPermaLink="true">https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/</guid>
+<pubDate>Wed, 02 Sep 2026 15:00:00 +0000</pubDate>
+<category>Gemini (Google Blog)</category>
+<description>Gemini 3.8 Flash and 3.8 Flash Cyber deliver next-generation intelligence for agentic workflows and cybersecurity. — Gemini (Google Blog) / score: 85 (Googleの新しいエージェント・セキュリティ向けAIモデル)</description>
+</item>
+<item>
+<title>RTX 5090搭載PCが13万7000円引き、パソコンショップSEVENで24時間限定セール</title>
+<link>https://ascii.jp/elem/000/004/430/4430999/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/430/4430999/?rss</guid>
+<pubDate>Wed, 02 Sep 2026 15:00:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>パソコンショップSEVENが9月3日限定で、最新ゲーミングPC全10商品を特価販売。RTX 5090搭載モデルをはじめ、最大13万7000円オフ・送料無料となる24時間限定セールの対象製品や価格を紹介します。 — ASCII.jp / score: 25 (特定のショップによるハードウェアのセール情報のため)</description>
+</item>
+<item>
+<title>Claude's new system prompt really doesn't want to reproduce song lyrics</title>
+<link>https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/</guid>
+<pubDate>Wed, 02 Sep 2026 14:16:42 +0000</pubDate>
+<category>Simon Willison</category>
+<description>Anthropic publish the system prompts for their Claude consumer applications ( Claude.ai and the Claude mobile apps - sadly not for Claude Cowork or Claude Code). I love that they do this, and that they share not just the current prompts but historic changes to their prompts as well. They used to keep all of the prompts on a single page, but when I checked today I noticed they had re-arranged those prompts into an index page and then a page per model - here's the page for Haiku 4.5 for example, w — Simon Willison / score: 50 (Claudeのシステムプロンプトの変更に関する分析)</description>
 </item>
 <item>
 <title>前屈みや小走りでも体に密着するショルダーバッグ。小さいけれど抜群の収納力</title>
@@ -71,6 +167,14 @@
 <description>iPhone18 Proシリーズの本体カラーは、ダークチェリー、ライトブルー、ダークグレー、シルバーの4種類ではなく、いずれか1色を除いた3種類になるとの予想が出ています。 ただし、除外されるカラーがシルバーなのかダーク […] — iPhone Mania / score: 25 (iPhone18 Proのカラーバリエーションの噂)</description>
 </item>
 <item>
+<title>ローカルLLMでどこまでコードが書けるか -LLM基礎知識 /　How much code can be written on a local LLM - fundamental knowledge</title>
+<link>https://speakerdeck.com/kishida/how-much-code-can-be-written-on-a-local-llm-fundamental-knowledge</link>
+<guid isPermaLink="true">https://speakerdeck.com/kishida/how-much-code-can-be-written-on-a-local-llm-fundamental-knowledge</guid>
+<pubDate>Wed, 02 Sep 2026 12:53:53 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>2026年9月2日に開催された「コーディングのためのローカルLLM勉強会」での登壇資料です。 https://lycorptech-jp.connpass.com/event/402836/ — はてなブックマーク テクノロジー / score: 55 (ローカルLLMでのコード生成に関する技術解説)</description>
+</item>
+<item>
 <title>【読者アンケート】折りたたみiPhoneの名前は？ 発表イベントは見る？</title>
 <link>https://iphone-mania.jp/iphone18-605224/</link>
 <guid isPermaLink="true">https://iphone-mania.jp/iphone18-605224/</guid>
@@ -85,6 +189,14 @@
 <pubDate>Wed, 02 Sep 2026 12:30:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>AI人材の争奪戦が、ついに企業秘密の奪い合いにまで発展。Apple（アップル）がOpenAIを相手取って起こしている訴訟で、新たな動きがありました。Appleは、元社員のノートパソコンから「衝撃的な証拠」が見つかったと主張しています。どんな… — ギズモード・ジャパン / score: 70 (AppleとOpenAIの人材・企業秘密訴訟の動向)</description>
+</item>
+<item>
+<title>証明できる指摘だけを出す仮説駆動セキュリティアセスメントを Claude Code Skill にした</title>
+<link>https://zenn.dev/toshipon/articles/claude-code-security-assessment-skill</link>
+<guid isPermaLink="true">https://zenn.dev/toshipon/articles/claude-code-security-assessment-skill</guid>
+<pubDate>Wed, 02 Sep 2026 12:24:12 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>はじめに 以前、Security Audit Skill を作った話 を書きました。あれはレイヤーごとの検出パターン集で、「どこを見ればいいか」を教えてくれるスキルです。 しばらく運用して、足りないものに気づきました。「どこを見るか」と「どう結論づけるか」は別の技術 だということです。 パターン検出は eval() があれば「あ... — はてなブックマーク テクノロジー / score: 60 (セキュリティアセスメントの自動化に関する実践知)</description>
 </item>
 <item>
 <title>DJI、新型360度アクションカメラ｢DJI Osmo 360 II｣を国内でも発売</title>
@@ -125,6 +237,14 @@
 <pubDate>Wed, 02 Sep 2026 11:30:00 +0000</pubDate>
 <category>ASCII.jp</category>
 <description>Amazon.co.jpにて、GameSirの有線ゲームコントローラー「GameSir G7 HE」が販売中だ。参考価格は7999円だが、スマイルセールにより15％オフの6799円で購入可能だ（9月2日時点）。 — ASCII.jp / score: 30 (ゲームコントローラーのセール情報)</description>
+</item>
+<item>
+<title>秘密を守れるAI、新興アカンパニーが整理　28年実現めざす - 日本経済新聞</title>
+<link>https://www.nikkei.com/article/DGXZQOUC316YS0R30C26A8000000/</link>
+<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUC316YS0R30C26A8000000/</guid>
+<pubDate>Wed, 02 Sep 2026 11:26:33 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>データ保護技術のAcompany（アカンパニー、名古屋市）は、外部からデータを見られない状態で人工知能（AI）を利用できるようにする技術をまとめたホワイトペーパー（提言書）を公開した。2028年をめどに実現したい考えだ。開発する秘密計算技術を基盤に、生成AIを企業などで安全に使えるようにする。データを秘匿したま... — はてなブックマーク テクノロジー / score: 60 (AIデータの保護技術に関する動向ホワイトペーパー)</description>
 </item>
 <item>
 <title>ダイソン初の歯ブラシ。は、8万円...？</title>
@@ -237,6 +357,14 @@
 <pubDate>Wed, 02 Sep 2026 10:30:00 +0000</pubDate>
 <category>ASCII.jp</category>
 <description>Amazon.co.jpにて、GuliKitのゲームコントローラー「GuliKit ES Pro」が販売中だ。参考価格は5199円だが、スマイルセールにより14％オフの4497円で購入できる（9月2日時点）。 — ASCII.jp / score: 30 (ゲームコントローラーのセール情報)</description>
+</item>
+<item>
+<title>Chainguardに学ぶセキュアなコンテナイメージの作り方</title>
+<link>https://zenn.dev/ymotongpoo/books/chainguard-image-toolchain</link>
+<guid isPermaLink="true">https://zenn.dev/ymotongpoo/books/chainguard-image-toolchain</guid>
+<pubDate>Wed, 02 Sep 2026 10:29:52 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Chainguard社はDockerfileを使わず、melangeとapkoという2つのOSSツールを組み合わせてセキュアなコンテナイメージを作っています。本書はこの2ツールとWolfi OSがどう連携しているかを、概念の説明とハンズオンを交互に積み重ねながら手元で確かめる本です。ソースコードからAPKパッケージを作り、それをコンテナイメー... — はてなブックマーク テクノロジー / score: 65 (セキュアなコンテナイメージ構築の有用な手法解説)</description>
 </item>
 <item>
 <title>FREE-Wi.Fi: 無料Wi-Fiの登録に使える捨てメアド</title>
@@ -407,6 +535,14 @@
 <description>5種類のポリフォニックシンセサイザーコレクション、Roland「Analog Polysynth Collection」が60%OFFとなっています。 Rolandでは、Synth Monthセールを開催中です。人気にシ... The post 5種類のポリフォニックシンセサイザーコレクション、Roland「Analog Polysynth Collection」が60%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 15 (音楽制作ソフトのセール情報のため)</description>
 </item>
 <item>
+<title>AWS Lambda now supports SnapStart for container image functions</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-snapstart-container/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-snapstart-container/</guid>
+<pubDate>Wed, 02 Sep 2026 09:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Starting today, AWS Lambda supports SnapStart for functions packaged as container images , reducing startup times from several seconds to as low as sub-second. Lambda SnapStart is an opt-in capability that makes it easier for you to build highly responsive and scalable applications without provisioning resources or implementing complex performance optimizations. Customers deploy Lambda functions with container images to align with their organization's container-based deployment standards, or to  — AWS What's New / score: 80 (AWS Lambdaのコンテナイメージ用SnapStart対応)</description>
+</item>
+<item>
 <title>HANA・JISOO、「LEE JISOO」としてのソロデビューが決定。自身の誕生日9月8日(火)にデビューシングル「MISMATCH/Movie Star」をリリース</title>
 <link>https://ascii.jp/elem/000/004/431/4431811/?rss</link>
 <guid isPermaLink="true">https://ascii.jp/elem/000/004/431/4431811/?rss</guid>
@@ -429,30 +565,6 @@
 <pubDate>Wed, 02 Sep 2026 09:00:00 +0000</pubDate>
 <category>ASCII.jp</category>
 <description>Amazonで現在セール中の商品の中から、1万円以下で買えるガジェットを5つピックアップしました。スマホの充電からPCの端子不足、データ保存、ゲーム環境、デスクまわりまで、「これ、あると便利なんだよな」と思えるものを集めています。 — ASCII.jp / score: 25 (一般的なECセール・ガジェット紹介)</description>
-</item>
-<item>
-<title>セイブ開発の『ウィズ』がSwitch 2／PS5／XSX|S／PC向け「アーケードアーカイブス2」で9月3日に配信！</title>
-<link>https://ascii.jp/elem/000/004/431/4431768/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/431/4431768/?rss</guid>
-<pubDate>Wed, 02 Sep 2026 09:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>2026年9月2日、ハムスターは、Nintendo Switch 2／PlayStation 5／Xbox Series X|S／PC（Windows ※Xbox Play Anywhere対応）向けに『アーケードアーカイブス2 ウィズ』を9月3日に配信すると発表。価格は1100円となる。 — ASCII.jp / score: 15 (ゲームタイトルの配信情報)</description>
-</item>
-<item>
-<title>「U.F.O.」を12個まとめてストック！ 日清の定番カップ焼そばがスマイルSaleでお買い得</title>
-<link>https://ascii.jp/elem/000/004/431/4431716/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/431/4431716/?rss</guid>
-<pubDate>Wed, 02 Sep 2026 09:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>「日清焼そばU.F.O.」12個セットが、のAmazonスマイルセールで29％オフ。 — ASCII.jp / score: 10 (食品のセール情報)</description>
-</item>
-<item>
-<title>40％オフで『機動戦士ガンダムSEED BATTLE DESTINY REMASTERED』がお買い得！新旧名作をお得にゲットしよう【Steam今週のセール情報】</title>
-<link>https://ascii.jp/elem/000/004/431/4431655/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/431/4431655/?rss</guid>
-<pubDate>Wed, 02 Sep 2026 09:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>ここでは、Steamでお買い得に購入できるゲームタイトルから、5本の注目タイトルをピックアップして紹介していく。本記事をチェックして、お気に入りのタイトルを見つけよう！ — ASCII.jp / score: 15 (Steamゲームのセール情報)</description>
 </item>
 <item>
 <title>ゲーミングチェアの肘掛けって遠くない？ それ、幅広クッションで解決できるよ</title>
@@ -567,14 +679,6 @@
 <description>The Tech Outlookによると、Nothingがインド市場で「Phone (4a)」シリーズと「Phone (4b)」の値上げを実施した模様。 9月に入ってからインド市場ではすでに複数のスマートフォンブランドが […] — 気になる、記になる… / score: 20 (海外市場におけるスマートフォン端末の値上げ情報)</description>
 </item>
 <item>
-<title>OpenAIが次期主力AIモデル「Astra」の開発状況を報告</title>
-<link>https://gigazine.net/news/20260902-path-to-astra/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260902-path-to-astra/</guid>
-<pubDate>Wed, 02 Sep 2026 08:11:27 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>OpenAIは次期主力AIモデルの「Astra」を開発中です。Astraは数学と理論計算機科学における10件の未解決課題について新たな成果を上げるなど、開発段階で既に優れたパフォーマンスを発揮していたのですが、OpenAIは「強力すぎる」としてAstraの開発が安全かつ確実に進むよう追加の管理措置を講じると発表しました。そんな... — はてなブックマーク テクノロジー / score: 85 (OpenAI次期モデルAstraの開発報告)</description>
-</item>
-<item>
 <title>Oberheim OB-X – 名機の美を纏った現代仕様のクラシック、GForce「OB-X」が50%OFF！</title>
 <link>https://computermusic.jp/2026/09/ob-x/</link>
 <guid isPermaLink="true">https://computermusic.jp/2026/09/ob-x/</guid>
@@ -666,9 +770,9 @@
 <title>GoogleがCanva・Adobe Express対抗の画像生成・編集ツール「Google Pics」を提供開始、GoogleドキュメントやGoogleスライドとも連携可能</title>
 <link>https://gigazine.net/news/20260902-google-pics/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260902-google-pics/</guid>
-<pubDate>Wed, 02 Sep 2026 07:20:59 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Googleが2026年9月1日、Google Workspace向けの画像生成・編集ツール「Google Pics」を順次提供すると発表しました。Google PicsはAIを使って画像を生成したり、画像内の一部分だけを編集したりできるツールで、GoogleドキュメントやGoogleスライドとの連携にも対応します。 Google Pics: AI 画像生成および編集ツール |... — はてなブックマーク テクノロジー / score: 60 (Google Workspace向けAI画像ツールの提供開始)</description>
+<pubDate>Wed, 02 Sep 2026 07:20:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>Googleが2026年9月1日、Google Workspace向けの画像生成・編集ツール「Google Pics」を順次提供すると発表しました。Google PicsはAIを使って画像を生成したり、画像内の一部分だけを編集したりできるツールで、GoogleドキュメントやGoogleスライドとの連携にも対応します。 続きを読む... — GIGAZINE / score: 60 (Google Workspace向けAI画像ツールの提供開始)</description>
 </item>
 <item>
 <title>無償の定番ネットワーク調査ツール「NetEnum」が第3世代へ ～可視化、通信解析までカバー／「NetEnum6」が正式公開</title>
@@ -701,110 +805,6 @@
 <pubDate>Wed, 02 Sep 2026 06:45:00 +0000</pubDate>
 <category>CNET Japan</category>
 <description>サムスン電子ジャパンは9月2日、スマートウォッチ「Galaxy Watch」シリーズの一部で、JR東日本の交通系ICカード「Suica」の対応サービスを広げた。ウォッチ上のSuicaに、定期券やSuicaグリーン券、おトクなきっぷを載せられるようになった。対応は8月中旬以降順次実施していたという。 — CNET Japan / score: 30 (スマートウォッチでのSuica対応拡大のニュース)</description>
-</item>
-<item>
-<title>【噂まとめ】折りたたみiPhone（iPhone Fold? iPhone Ultra?）のすべて（9/2 更新）</title>
-<link>https://www.gizmodo.jp/article/fold-iphone-rumor/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/fold-iphone-rumor/</guid>
-<pubDate>Wed, 02 Sep 2026 06:15:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>夢とロマンがぎゅっと詰まった…予感！端末を折りたたんでコンパクトに、広げてタブレットのように使える折りたたみスマートフォン。すでにSamsung（サムスン）やGoogle（グーグル）といった大手ブランドが手掛けていますが、ついにApple（… — ギズモード・ジャパン / score: 30 (折りたたみiPhoneの噂まとめ)</description>
-</item>
-<item>
-<title>HPVワクチン接種が女性だけでなく男性でも頭頸部がんのリスクを減少させる可能性</title>
-<link>https://gigazine.net/news/20260902-hpv-vaccine-lower-risk-cancer/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260902-hpv-vaccine-lower-risk-cancer/</guid>
-<pubDate>Wed, 02 Sep 2026 06:05:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>ヒトパピローマウイルス(HPV)は子宮頸(けい)がんなどの主な要因として知られており、HPVワクチンの接種により女性のがん発症率が大幅に減少することがわかっています。新たな研究では、HPVワクチンの接種が女性だけでなく男性でも口腔(こうこう)や喉を含む頭頸部がんのリスクを低下させる可能性が示されました。 続きを読む... — GIGAZINE / score: 30 (HPVワクチンの健康効果に関する医療ニュース)</description>
-</item>
-<item>
-<title>このデザインは一体何？ 長年のもやもやが解決、Adobeの管理画面で見かけるユーザー名横の謎アイコンの正体</title>
-<link>https://coliss.com/articles/build-websites/operation/work/truth-behind-the-icons-used-in-adobe.html</link>
-<guid isPermaLink="true">https://coliss.com/articles/build-websites/operation/work/truth-behind-the-icons-used-in-adobe.html</guid>
-<pubDate>Wed, 02 Sep 2026 06:01:16 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Adobeを長年使用してきて、もやもやしていたのが、アイコンのデザインです。 円グラフにしてはバランスがおかしいし、右下にはなんか切れ端があるし、これって一体何だろう？ とずっと疑問に思っていました。 このアイコンはAdobeの公式サイトやCreative Cloudにログインすると、右上に表示されるアイコンです。 私はデ... — はてなブックマーク テクノロジー / score: 20 (Adobeのアイコンに関する雑学)</description>
-</item>
-<item>
-<title>僕が一番愛しているAnkerのモバイルバッテリー、36％オフだからもう1個買おうと思う</title>
-<link>https://www.gizmodo.jp/article/anker-power-bank-30w-builtin/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/anker-power-bank-30w-builtin/</guid>
-<pubDate>Wed, 02 Sep 2026 06:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>もう身体の一部。仕事柄、いろいろなモバイルバッテリーを持っていますが、僕が一番使っているのがこちら。「Anker Power Bank (30W, Fusion, Built-In USB-C ケーブル) 」です。今Amazonのセールで3… — ギズモード・ジャパン / score: 15 (一般的なガジェットのセール情報であり技術者向けではない)</description>
-</item>
-<item>
-<title>Google、AI画像作成・編集ツール「Google Pics」の一般提供を順次開始、オブジェクト単位の編集や画像内テキストの翻訳に対応</title>
-<link>https://gihyo.jp/article/2026/09/google-pics?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/09/google-pics?utm_source=feed</guid>
-<pubDate>Wed, 02 Sep 2026 05:58:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Googleは2026年9月1日、AI画像作成・編集ツール「Google Pics」の一般提供を順次開始した。 — gihyo.jp / score: 65 (Googleの新しいAI画像編集ツールの一般提供開始)</description>
-</item>
-<item>
-<title>Quoting Rick Brewster</title>
-<link>https://simonwillison.net/2026/Sep/2/rick-brewster/</link>
-<guid isPermaLink="true">https://simonwillison.net/2026/Sep/2/rick-brewster/</guid>
-<pubDate>Wed, 02 Sep 2026 05:50:57 +0000</pubDate>
-<category>Simon Willison</category>
-<description>Direct2D has always been the biggest hurdle for Paint.NET on WINE, and it's clear that it will never be completed enough for Paint.NET's use. And I can't just "disable" the use of Direct2D. So, instead, Paint.NET now has an internal, from-scratch, clean-room reverse-engineered rewrite of Direct2D that it uses on WINE (triggered by using /wine ). It lives in PaintDotNet.Windows.Direct2D1.Managed.dll . This was written by our good friend Claude , without whom this would NOT have been possible and  — Simon Willison / score: 40 (WINE上のDirect2Dに関する技術的課題)</description>
-</item>
-<item>
-<title>「Google Chrome 152」にセキュリティ更新、『致命的』な2件を含む26件の脆弱性を修正／Windows環境にはv152.0.7977.75/.76が展開中</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2137627.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2137627.html</guid>
-<pubDate>Wed, 02 Sep 2026 05:50:18 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Googleは9月1日（現地時間、以下同）、デスクトップ向け「Google Chrome」の安定（Stable）チャネルをアップデートした。現在、Windows/Mac環境にはv152.0.7977.75/.76、Linux環境にはv152.0.7977.75が展開されている。 — 窓の杜 / score: 90 (Chromeの致命的な脆弱性を含む重大な修正)</description>
-</item>
-<item>
-<title>iPhone Ultraの最新仕様判明！？ MagSafe対応で価格は35万円超か</title>
-<link>https://iphone-mania.jp/iphone18-605201/</link>
-<guid isPermaLink="true">https://iphone-mania.jp/iphone18-605201/</guid>
-<pubDate>Wed, 02 Sep 2026 05:46:49 +0000</pubDate>
-<category>iPhone Mania</category>
-<description>折りたたみiPhone（仮称：iPhone Ultra）はMagSafeに対応しない可能性が高いと、これまでは考えられていました。しかし、Bloombergのマーク・ガーマン記者は最新のインタビューで、iPhone Ul […] — iPhone Mania / score: 30 (折りたたみiPhoneの噂に関する報道)</description>
-</item>
-<item>
-<title>電池切れの不安をニトリが解決。ガジェットポーチ・防災バッグにも入れたい「USB-C式充電池」</title>
-<link>https://www.gizmodo.jp/article/2607-lht-nitori-rechargeable-battery-apn/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2607-lht-nitori-rechargeable-battery-apn/</guid>
-<pubDate>Wed, 02 Sep 2026 05:35:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>ニトリの「【USB充電式】リチウムイオン充電池USB-C」は、電池そのものをUSB-Cで直接充電できる充電池。「電池が切れそう、ピンチ」を支えます。使ってみた感想をお届けします。 — ギズモード・ジャパン / score: 20 (実用的な周辺機器の紹介だが技術的重要度は低い)</description>
-</item>
-<item>
-<title>Google Drive、ブラウザ内で暗号化されたPDFや画像のプレビューが可能に</title>
-<link>https://codezine.jp/article/detail/29538</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/29538</guid>
-<pubDate>Wed, 02 Sep 2026 05:30:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 45 (Google Driveのセキュリティ機能追加)</description>
-</item>
-<item>
-<title>アクションカメラのGoProが約460億円で非公開企業のStarman Opticalに買収される、カメラ事業を継続しながらAIインフラ分野へ進出</title>
-<link>https://gigazine.net/news/20260902-gopro-merge-starman-optical-285-million/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260902-gopro-merge-starman-optical-285-million/</guid>
-<pubDate>Wed, 02 Sep 2026 05:18:50 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>世界的なメモリ不足を起因とするコスト上昇と売上減少で事業継続が困難に陥り、身売りを検討してきたアクションカメラメーカーのGoProが、非公開会社の光学機器メーカーであるStarman Opticalに株式の90％を2億8500万ドル(約460億円)で売却する合併契約を締結したことを発表しました。 GOPRO ENTERS INTO DEFINITIVE AGR... — はてなブックマーク テクノロジー / score: 60 (GoProの買収とAI事業へのシフト)</description>
-</item>
-<item>
-<title>楽天モバイル、楽天ID未連携のユーザーを自動解約　電話番号も失効　11月30日までに対応必要</title>
-<link>https://japan.cnet.com/article/35252187/</link>
-<guid isPermaLink="true">https://japan.cnet.com/article/35252187/</guid>
-<pubDate>Wed, 02 Sep 2026 05:16:00 +0000</pubDate>
-<category>CNET Japan</category>
-<description>楽天モバイルは8月31日、楽天IDとひも付けずに回線を利用できる「ゲスト」での利用を11月30日23時59分で終了すると発表した。対象は「my 楽天モバイル」（Web）に「ゲストでログイン中」と表示される利用者だ。期限までに楽天IDと連携（楽天会員へのアップグレード）しなければ、利用中のサービスの契約はすべて自動的に解約され、使っていた電話番号も失効する。 — CNET Japan / score: 40 (通信キャリアの仕様変更による自動解約の注意喚起)</description>
-</item>
-<item>
-<title>AWSとNVIDIA、AI需要拡大に向けGPU200万基を追加導入へ</title>
-<link>https://codezine.jp/article/detail/29544</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/29544</guid>
-<pubDate>Wed, 02 Sep 2026 05:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 70 (AWSとNVIDIAによる大規模GPU追加導入)</description>
 </item>
 </channel>
 </rss>

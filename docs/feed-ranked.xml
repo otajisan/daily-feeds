@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 02 Sep 2026 14:11:10 +0000</lastBuildDate>
+<lastBuildDate>Wed, 02 Sep 2026 16:11:15 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] [AINews] NVIDIA buys HuggingFace for $13B, as OpenAI publishes their HF incident retro</title>
@@ -47,6 +47,14 @@
 <description>Next.js is moving the August security release forward to August 25, 2026. — Next.js Blog / score: 90 (Next.jsセキュリティリリースの日程前倒し)</description>
 </item>
 <item>
+<title>[85] Introducing Gemini 3.8 Flash and 3.8 Flash Cyber</title>
+<link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/</link>
+<guid isPermaLink="true">https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/</guid>
+<pubDate>Wed, 02 Sep 2026 15:00:00 +0000</pubDate>
+<category>Gemini (Google Blog)</category>
+<description>Gemini 3.8 Flash and 3.8 Flash Cyber deliver next-generation intelligence for agentic workflows and cybersecurity. — Gemini (Google Blog) / score: 85 (Googleの新しいエージェント・セキュリティ向けAIモデル)</description>
+</item>
+<item>
 <title>[85] AIにNASAのコードを読ませたら、宇宙探査機を操れる穴が見つかった</title>
 <link>https://www.gizmodo.jp/article/41f190c9-d169-4b6c-bb13-829ccc646a3f/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/41f190c9-d169-4b6c-bb13-829ccc646a3f/</guid>
@@ -58,9 +66,9 @@
 <title>[85] OpenAIが次期主力AIモデル「Astra」の開発状況を報告</title>
 <link>https://gigazine.net/news/20260902-path-to-astra/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260902-path-to-astra/</guid>
-<pubDate>Wed, 02 Sep 2026 08:11:27 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>OpenAIは次期主力AIモデルの「Astra」を開発中です。Astraは数学と理論計算機科学における10件の未解決課題について新たな成果を上げるなど、開発段階で既に優れたパフォーマンスを発揮していたのですが、OpenAIは「強力すぎる」としてAstraの開発が安全かつ確実に進むよう追加の管理措置を講じると発表しました。そんな... — はてなブックマーク テクノロジー / score: 85 (OpenAI次期モデルAstraの開発報告)</description>
+<pubDate>Wed, 02 Sep 2026 04:39:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>OpenAIは次期主力AIモデルの「Astra」を開発中です。Astraは数学と理論計算機科学における10件の未解決課題について新たな成果を上げるなど、開発段階で既に優れたパフォーマンスを発揮していたのですが、OpenAIは「強力すぎる」としてAstraの開発が安全かつ確実に進むよう追加の管理措置を講じると発表しました。そんなAstraの最新の開発状況を、OpenAIが報告しています。 続きを読む... — GIGAZINE / score: 85 (OpenAI次期モデルAstraの開発報告)</description>
 </item>
 <item>
 <title>[85] DeepSeekが画像認識に対応した「DeepSeek-V4-Flash-Vision-Exp」をオープンモデルとして公開、画像認識を含むタスクでClaude Opus 4.8と同等の性能</title>
@@ -223,6 +231,22 @@
 <description>Next.js is preparing a scheduled August security release for August 26, 2026. — Next.js Blog / score: 85 (Next.jsセキュリティリリースの事前告知)</description>
 </item>
 <item>
+<title>[80] Getting started with Mantis, our open-source bug finding-and-fixing harness</title>
+<link>https://cloud.google.com/blog/products/identity-security/getting-started-with-the-mantis-harness-to-find-and-fix-bugs/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/identity-security/getting-started-with-the-mantis-harness-to-find-and-fix-bugs/</guid>
+<pubDate>Wed, 02 Sep 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>AI models have clearly proven their ability to discover and exploit vulnerabilities without much, if any, human assistance. To help defenders gain the advantage with AI, we built the Mantis harness to automate the discovery, triage, reproduction, and patching of software vulnerabilities. Available to all as an open-source framework, Mantis is part of Google’s internal approach to find and fix vulnerabilities at machine-speed. It creates a more effective scalable, context-aware repository analysi — Google Cloud Blog / score: 80 (AIを活用したオープンソースの脆弱性発見ツール)</description>
+</item>
+<item>
+<title>[80] AWS Lambda now supports SnapStart for container image functions</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-snapstart-container/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-snapstart-container/</guid>
+<pubDate>Wed, 02 Sep 2026 09:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Starting today, AWS Lambda supports SnapStart for functions packaged as container images , reducing startup times from several seconds to as low as sub-second. Lambda SnapStart is an opt-in capability that makes it easier for you to build highly responsive and scalable applications without provisioning resources or implementing complex performance optimizations. Customers deploy Lambda functions with container images to align with their organization's container-based deployment standards, or to  — AWS What's New / score: 80 (AWS Lambdaのコンテナイメージ用SnapStart対応)</description>
+</item>
+<item>
 <title>[80] 「Firefox 155」が正式公開 ～Windowsで「Nintendo Switch Proコントローラー」に対応／ブロックしたトラッカー数をアドレスバーに表示。29件の脆弱性を修正</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2137467.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2137467.html</guid>
@@ -378,9 +402,17 @@
 <title>[75] AWSとAzureが最大100Gbpsでの相互接続を開始。これでAWSはAzure、Google Cloud、Oracle Cloudとのマルチクラウドをサポート</title>
 <link>https://www.publickey1.jp/blog/26/awsazure100gbpsawsazuregoogle_cloudoracle_cloud.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/awsazure100gbpsawsazuregoogle_cloudoracle_cloud.html</guid>
-<pubDate>Wed, 02 Sep 2026 14:09:39 +0000</pubDate>
+<pubDate>Wed, 02 Sep 2026 15:53:23 +0000</pubDate>
 <category>Publickey</category>
 <description>Amzon Web Services（AWS）とマイクロソフトは、両社が協力してAWSとMicrosoft Azureを最大100Gbpsの高速な閉域網で相互接続することを発表しました（AWSの発表、マイクロソフトの発表）。 両社ともにプレ... — Publickey / score: 75 (大手クラウド間の100Gbps相互接続開始)</description>
+</item>
+<item>
+<title>[75] Proactive cyber defense for governments and enterprises</title>
+<link>https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/</link>
+<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/</guid>
+<pubDate>Wed, 02 Sep 2026 15:40:00 +0000</pubDate>
+<category>Google AI Blog</category>
+<description>The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools. — Google AI Blog / score: 75 (政府・企業向けのプロアクティブなサイバー防御)</description>
 </item>
 <item>
 <title>[75] Metaがリアルタイム文字起こしAI「Muse Voice Transcribe」をリリース</title>
@@ -445,6 +477,14 @@
 <pubDate>Tue, 01 Sep 2026 23:57:28 +0000</pubDate>
 <category>Simon Willison</category>
 <description>Today is Claude Fable (and Mythos) 5.1 day . Anthropic say that Fable 5.1 "sets a new standard for coding, knowledge work, and long-running problem-solving tasks". Their announcement spends a notable amount of time on scientific research, boasting of a 52.6% score on the brand new Terminal-Bench-Science 0.1 benchmark (first announced on August 27th ), up from 24.7% for Fable 5, 29.0% for Opus 5 and 22.4% for GPT-5.6 Sol. Other benchmarks show slightly improved scores, but none as impressive as t — Simon Willison / score: 75 (AI主要モデルのメジャーアップデートと新機能発表)</description>
+</item>
+<item>
+<title>[75] Claude Fable 5.1, Anthropic's new frontier model is now available on AWS GovCloud (US)</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/claude-fable-5-1-aws-govcloud/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/claude-fable-5-1-aws-govcloud/</guid>
+<pubDate>Tue, 01 Sep 2026 14:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Claude Fable 5.1 is generally available on Amazon Bedrock in AWS GovCloud (US) and brings Anthropic's most capable frontier model to regulated industry customers. Fable 5.1 delivers frontier intelligence for ambitious tasks across coding, scientific research, and enterprise workflows. Claude Fable 5.1 is built for long-running, high-stakes work that runs for hours and spans many applications. It can own more of a software project on its own, handling features across an entire codebase, code revi — AWS What's New / score: 75 (BedrockにおけるAnthropicのフロンティアモデル提供)</description>
 </item>
 <item>
 <title>[75] v3.15.0rc2</title>
@@ -655,6 +695,14 @@
 <description>Less than a month ago we had just featured Poolside’s Model Factory with Eiso Kant on the pod (following our Paper Club coverage): It appears that Jensen really, really liked Poolside too, as he went from investor to doing licensing their factory and hiring 109 of their employees: Unless things changed drastically, this accounts for the overwhelming majority of the technical Poolside employees : Eiso Kant [01:52:31]: We are hiring on every possible role in applied research and engineering in the — Latent Space / score: 75 (AI業界における大規模な買収とインフラ投資)</description>
 </item>
 <item>
+<title>[70] Simplify pipelines with new BigQuery identity columns</title>
+<link>https://cloud.google.com/blog/products/data-analytics/bigquery-identity-columns-to-auto-generate-sequential-integers/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/data-analytics/bigquery-identity-columns-to-auto-generate-sequential-integers/</guid>
+<pubDate>Wed, 02 Sep 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>To further empower our customers in their data journey, we are excited to announce the launch of identity columns in BigQuery. This new feature allows users to define columns that automatically generate sequential 64-bit integer values, simplifying the way you manage unique identifiers within your tables. Data engineers are always looking for ways to make data ingestion smoother and more reliable. BigQuery identity columns offer a powerful, built-in mechanism to automatically generate unique num — Google Cloud Blog / score: 70 (BigQueryにおけるアイデンティティカラムの新機能)</description>
+</item>
+<item>
 <title>[70] Apple元社員、企業秘密を持ち出し証拠隠滅まで？OpenAI訴訟が泥沼化の様相</title>
 <link>https://www.gizmodo.jp/article/apple-claims-former-employee-stole-trade-secrets-for-openai-then-tried-to-destroy-the-evidence/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/apple-claims-former-employee-stole-trade-secrets-for-openai-then-tried-to-destroy-the-evidence/</guid>
@@ -685,6 +733,14 @@
 <pubDate>Wed, 02 Sep 2026 05:00:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 70 (AWSとNVIDIAによる大規模GPU追加導入)</description>
+</item>
+<item>
+<title>[70] Atlas: A World Model for Spatial Intelligence</title>
+<link>https://www.worldlabs.ai/blog/atlas</link>
+<guid isPermaLink="true">https://www.worldlabs.ai/blog/atlas</guid>
+<pubDate>Wed, 02 Sep 2026 03:43:07 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>September 1, 2026Introducing Atlas, our new omni world model for spatial intelligence. World models generate, reconstruct, and simulate any possible world. They understand how worlds appear, behave, and evolve so that we can render imagined worlds for creative users, simulate the real world in hi... — はてなブックマーク テクノロジー / score: 70 (空間知能のための新しいワールドモデルの発表)</description>
 </item>
 <item>
 <title>[70] 「Firefox 155」正式版リリース、ブロックしたトラッカー数をアドレスバーに表示＆AI機能「Smart Window」の提供範囲を拡大</title>
@@ -749,62 +805,6 @@
 <pubDate>Mon, 31 Aug 2026 21:02:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Amazon Redshift now supports AWS IAM Identity Center authentication for provisioned clusters and serverless workgroups configured with enhanced VPC routing (EVR). You can access Amazon Redshift with single sign-on with your corporate credentials, and the traffic traverses Amazon Virtual Private Cloud (Amazon VPC) and stays on the AWS network. This is valuable for customers with data residency, regulatory, or network-isolation requirements that mandate no public internet egress for analytics. Wit — AWS What's New / score: 70 (Amazon RedshiftのIAM認証機能強化)</description>
-</item>
-<item>
-<title>[70] AWS Lambda recursive loop detection is now available in all commercial AWS Regions</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/08/lambda-recursion-regions</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/08/lambda-recursion-regions</guid>
-<pubDate>Mon, 31 Aug 2026 17:30:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>AWS Lambda recursive loop detection has expanded support to all commercial AWS Regions. This feature, which is enabled by default, is a guardrail that automatically detects and stops recursive invocations between Lambda functions and other supported services, preventing runaway workloads. When using event sources such as Amazon S3, Amazon SQS, and Amazon SNS to trigger Lambda functions, a misconfiguration or code defect can cause events to be sent back to the same source that triggered the Lambd — AWS What's New / score: 70 (AWS Lambdaの再帰ループ検出機能の全リージョン展開)</description>
-</item>
-<item>
-<title>[70] Amazon Aurora serverless is now available with 30% better performance and smarter scaling in additional AWS Regions</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-aurora-serverless-performance-improvement-additional-regions/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-aurora-serverless-performance-improvement-additional-regions/</guid>
-<pubDate>Mon, 31 Aug 2026 16:46:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Amazon Aurora serverless now delivers up to 30% better performance and enhanced scaling in additional AWS Regions: Asia Pacific (New Zealand), Asia Pacific (Thailand), Africa (Cape Town), Europe (Milan), and Mexico (Central). These improvements are available for both Aurora PostgreSQL and Aurora MySQL. Aurora serverless is the autoscaling database that scales up to support your most demanding workloads and down to zero when you don't need it, so you only pay for what you actually use. The enhanc — AWS What's New / score: 70 (Amazon Aurora serverlessのパフォーマンス向上と展開拡大)</description>
-</item>
-<item>
-<title>[70] Amazon OpenSearch Service adds new Cluster Insights for faster diagnosis of cluster status</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/08/opensearch-cluster-status-insight/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/08/opensearch-cluster-status-insight/</guid>
-<pubDate>Mon, 31 Aug 2026 15:41:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Amazon OpenSearch Service has expanded Cluster Insights with 17 new insights that identify the root causes behind Red and Yellow cluster status and provide actionable recommendations to resolve them. These insights cover resource exhaustion scenarios including JVM out-of-memory, sustained CPU saturation, as well as configuration issues such as zone imbalance, and misconfigured replica counts. Previously, when a cluster entered Red or Yellow status due to unassigned shards, diagnosing the underly — AWS What's New / score: 70 (Amazon OpenSearchのクラスター診断機能強化)</description>
-</item>
-<item>
-<title>[70] 「Outlook」「Teams」の「Copilot」がチャット中心のデザインに刷新へ ～9月に一般提供／「Work IQ」のコントロール、「タスク」ビューなどを追加</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2136816.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2136816.html</guid>
-<pubDate>Mon, 31 Aug 2026 07:53:55 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Microsoftは8月21日（現地時間）、「Microsoft Outlook」と「Microsoft Teams」の「Copilot」を刷新すると発表した（MC1458470、MC1458472）。2026年9月に一般提供される見込み。 — 窓の杜 / score: 70 (Microsoft 365におけるCopilotのメジャーアップデート。)</description>
-</item>
-<item>
-<title>[70] 「Gemini Live」が単なる話し相手から仕事を片付ける相棒に ～「Gemini Spark」と連携／「Daily Brief」の読み上げや「Gmail」のハンズフリー整理にも対応</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2136814.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2136814.html</guid>
-<pubDate>Mon, 31 Aug 2026 06:43:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Googleは8月26日（現地時間）、「Gemini Live」のアップデートを発表した。「Gemini Live」は、「Gemini」アプリに搭載されている音声対話機能。同社によると、「Gemini」ユーザーの63％が音声で話しかけているというが、この機能にエージェント機能が追加される。会話に応じるだけでなく、作業を声で依頼できるようになるわけだ。 — 窓の杜 / score: 70 (GoogleのGemini Liveにおけるエージェント機能の強化。)</description>
-</item>
-<item>
-<title>[70] Automated Security Response on AWS adds AI Toolkit for custom remediations</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/08/automated-security-response-adds-AI-toolkit/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/08/automated-security-response-adds-AI-toolkit/</guid>
-<pubDate>Mon, 31 Aug 2026 06:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Today, AWS announced four new capabilities for Automated Security Response on AWS (ASR). Customers can now use an AI-driven Toolkit that generates custom remediations using any AI assistant with built-in safety guardrails. In addition, customers can automatically remediate findings from Amazon Inspector, Amazon GuardDuty, and Amazon Macie. Customers can also centrally configure and scope automated remediations by account, OU, region, and resource tags through an enhanced web console. Lastly, cus — AWS What's New / score: 70 (AIを活用した自動セキュリティ修復機能の追加)</description>
-</item>
-<item>
-<title>[70] A milestone in expanding access to AI</title>
-<link>https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads</link>
-<guid isPermaLink="true">https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads</guid>
-<pubDate>Mon, 31 Aug 2026 04:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options. — OpenAI News / score: 70 (OpenAIのビジネス展開と収益規模の発表)</description>
 </item>
 </channel>
 </rss>
