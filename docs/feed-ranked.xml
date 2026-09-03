@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 03 Sep 2026 08:13:28 +0000</lastBuildDate>
+<lastBuildDate>Thu, 03 Sep 2026 10:10:33 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] [AINews] NVIDIA buys HuggingFace for $13B, as OpenAI publishes their HF incident retro</title>
@@ -53,14 +53,6 @@
 <pubDate>Thu, 03 Sep 2026 08:00:00 +0000</pubDate>
 <category>ASCII.jp</category>
 <description>フォーティネットのCISO Carl Windsorが、自動アップデートや製品の堅牢化から透明性の向上まで、CISAのSecure by Design Pledgeに関する進捗を共有します。 — ASCII.jp / score: 85 (セキュリティと自動更新の業界動向)</description>
-</item>
-<item>
-<title>[85] NVIDIA、四半期売上962億ドル（約15兆円）　データセンター事業が9割以上占める</title>
-<link>https://ascii.jp/elem/000/004/432/4432155/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/432/4432155/?rss</guid>
-<pubDate>Thu, 03 Sep 2026 07:30:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>半導体大手エヌビディアは8月26日、（2027年会計年度）第2四半期の売上高が前年同期比106%増の962億ドル（約15兆円）に達したことを公表した。 — ASCII.jp / score: 85 (NVIDIAの巨大な売上高と市場動向)</description>
 </item>
 <item>
 <title>[85] Googleが脆弱性の発見・再現・修正を自動化するオープンソースフレームワーク「Mantis」の詳細を公開、巨大リポジトリでもトークンのオーバーヘッドを85％超削減</title>
@@ -207,14 +199,6 @@
 <description>ユーザーインターフェース構築のためのMetaのオープンソースライブラリであるReactは、React CompilerのRust移植版をメインリポジトリへ統合した。この取り組みは、ビルド時間の短縮と、RustベースのJavaScriptツールチェーンとの連携強化を目的としている。 By Daniel Curtis Translated by Naoko Koshimura — InfoQ Japan / score: 85 (ReactコンパイラのRust移植によるビルド高速化)</description>
 </item>
 <item>
-<title>[85] 自作npmパッケージにマルウェアを公開されたときにやったこと</title>
-<link>https://zenn.dev/7nohe/articles/npm-malware-incident-response</link>
-<guid isPermaLink="true">https://zenn.dev/7nohe/articles/npm-malware-incident-response</guid>
-<pubDate>Sat, 29 Aug 2026 15:49:58 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>はじめに 2026年8月29日の早朝、私が管理しているリリースワークフローの不備を突かれ、npmパッケージ@7nohe/openapi-react-query-codegenに悪意あるバージョンが10個公開されました。 いわゆるサプライチェーン攻撃で、インストールした時点で攻撃者のコードが実行されます。 この期間にインストールしてしまった方には、お詫び申し上げます。 該当する場合は、そのマシンやCIランナーから到達できる認証情報（npm・GitHubのトークン、SSH鍵、クラウドのアクセスキー、環境変数のシークレット）をすべてローテーションすることを強くお勧めします。 今回のペイロー... — Zenn トレンド / score: 85 (npmサプライチェーン攻撃の実体験と対応)</description>
-</item>
-<item>
 <title>[85] Just a rumour of a bug is enough to find a security exploit these days</title>
 <link>https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/</link>
 <guid isPermaLink="true">https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/</guid>
@@ -314,9 +298,9 @@
 <title>[80] 「Gemini」が動画を理解するコストが激減、Googleが「Agentic Video」を発表／律義に1コマずつ見るのはやめ、大事なところを能動的に判断</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2137481.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2137481.html</guid>
-<pubDate>Wed, 02 Sep 2026 05:26:31 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>「Gemini」が動画を理解するコストが激減、Googleが「Agentic Video」を発表／律義に1コマずつ見るのはやめ、大事なところを能動的に判断 — はてなブックマーク テクノロジー / score: 80 (Geminiのエージェント的動画理解機能の解説)</description>
+<pubDate>Wed, 02 Sep 2026 04:05:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Googleは9月1日（現地時間）、「Gemini」の新機能「Agentic Video」（エージェント的な動画理解）を発表した。「3.7 Flash」、「3.6 Flash」、「3.5 Flash-Lite」の3モデルで、同日より利用できる。 — 窓の杜 / score: 80 (Geminiのエージェント的動画理解機能の解説)</description>
 </item>
 <item>
 <title>[80] 「Firefox 155」が正式公開 ～Windowsで「Nintendo Switch Proコントローラー」に対応／ブロックしたトラッカー数をアドレスバーに表示。29件の脆弱性を修正</title>
@@ -365,14 +349,6 @@
 <pubDate>Fri, 28 Aug 2026 04:14:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>OpenAIは2026年8月27日、Anthropic、AWS、Google、Microsoft、Oracleなどとともに、サイバー防御の強化を求める公開書簡を発表した。 — gihyo.jp / score: 80 (主要IT企業によるサイバー防御強化の共同声明)</description>
-</item>
-<item>
-<title>[80] Windows 11の2026年8月プレビューパッチが公開 ～タスクバー、［スタート］画面、「Windows Search」が刷新／日本語環境向けの改善も多数、「Microsoft IME」入力時のハングアップ軽減など</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2136347.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2136347.html</guid>
-<pubDate>Fri, 28 Aug 2026 01:45:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Microsoftは8月27日（現地時間）、2026年8月のWindows非セキュリティプレビュー更新プログラムをリリースした。現在、以下のOSバージョンで利用可能。 — 窓の杜 / score: 80 (Windows 11のプレビューパッチ公開)</description>
 </item>
 <item>
 <title>[80] Gemini Omni 1.1 Flash lets you build with more control</title>
@@ -805,6 +781,30 @@
 <pubDate>Fri, 21 Aug 2026 05:45:21 +0000</pubDate>
 <category>Latent Space</category>
 <description>Less than a month ago we had just featured Poolside’s Model Factory with Eiso Kant on the pod (following our Paper Club coverage): It appears that Jensen really, really liked Poolside too, as he went from investor to doing licensing their factory and hiring 109 of their employees: Unless things changed drastically, this accounts for the overwhelming majority of the technical Poolside employees : Eiso Kant [01:52:31]: We are hiring on every possible role in applied research and engineering in the — Latent Space / score: 75 (AI業界における大規模な買収とインフラ投資)</description>
+</item>
+<item>
+<title>[70] Anthropic、商取引向けAIエージェントの設計図「Claude Commerce Agents」をオープンソースで公開</title>
+<link>https://gihyo.jp/article/2026/09/claude-commerce-agents?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/09/claude-commerce-agents?utm_source=feed</guid>
+<pubDate>Thu, 03 Sep 2026 05:42:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Anthropicは2026年9月2日、オンラインでの商品・サービスの購入と販売を支援するAIエージェントの開発用ブループリント「Claude Commerce Agents」を公開した。 — gihyo.jp / score: 70 (Anthropicの商取引AIエージェント設計図公開)</description>
+</item>
+<item>
+<title>[70] MicrosoftがWindowsのメモリ整合性機能を多くのPCに拡大する予定、一部のゲームのパフォーマンスを低下させる可能性</title>
+<link>https://gigazine.net/news/20260903-expanding-memory-integrity-protection/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20260903-expanding-memory-integrity-protection/</guid>
+<pubDate>Thu, 03 Sep 2026 03:19:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>2026年10月のアップデートで、Microsoftが提供するセキュリティ機能「メモリ整合性機能」が今までより多くのデバイスに提供されます。疑わしい処理を仮想環境で検証するという機能ですが、これにより一部のゲームでパフォーマンスが低下する可能性があります。 続きを読む... — GIGAZINE / score: 70 (Windowsのメモリ整合性機能拡大による影響)</description>
+</item>
+<item>
+<title>[70] NECとAnthropic、フロンティアAI活用でサイバーセキュリティ強化の協業を拡大</title>
+<link>https://codezine.jp/article/detail/29557</link>
+<guid isPermaLink="true">https://codezine.jp/article/detail/29557</guid>
+<pubDate>Thu, 03 Sep 2026 02:45:00 +0000</pubDate>
+<category>CodeZine</category>
+<description> — CodeZine / score: 70 (NECとAnthropicのサイバーセキュリティ協業)</description>
 </item>
 </channel>
 </rss>
