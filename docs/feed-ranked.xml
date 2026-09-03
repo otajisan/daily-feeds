@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 03 Sep 2026 06:16:20 +0000</lastBuildDate>
+<lastBuildDate>Thu, 03 Sep 2026 08:13:28 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] [AINews] NVIDIA buys HuggingFace for $13B, as OpenAI publishes their HF incident retro</title>
@@ -45,6 +45,22 @@
 <pubDate>Tue, 25 Aug 2026 15:00:00 +0000</pubDate>
 <category>Next.js Blog</category>
 <description>Next.js is moving the August security release forward to August 25, 2026. — Next.js Blog / score: 90 (Next.jsセキュリティリリースの日程前倒し)</description>
+</item>
+<item>
+<title>[85] 180万台以上を自動アップデート　フォーティネットが進める「セキュア・バイ・デザイン」の現在</title>
+<link>https://ascii.jp/elem/000/004/431/4431623/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/431/4431623/?rss</guid>
+<pubDate>Thu, 03 Sep 2026 08:00:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>フォーティネットのCISO Carl Windsorが、自動アップデートや製品の堅牢化から透明性の向上まで、CISAのSecure by Design Pledgeに関する進捗を共有します。 — ASCII.jp / score: 85 (セキュリティと自動更新の業界動向)</description>
+</item>
+<item>
+<title>[85] NVIDIA、四半期売上962億ドル（約15兆円）　データセンター事業が9割以上占める</title>
+<link>https://ascii.jp/elem/000/004/432/4432155/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/432/4432155/?rss</guid>
+<pubDate>Thu, 03 Sep 2026 07:30:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>半導体大手エヌビディアは8月26日、（2027年会計年度）第2四半期の売上高が前年同期比106%増の962億ドル（約15兆円）に達したことを公表した。 — ASCII.jp / score: 85 (NVIDIAの巨大な売上高と市場動向)</description>
 </item>
 <item>
 <title>[85] Googleが脆弱性の発見・再現・修正を自動化するオープンソースフレームワーク「Mantis」の詳細を公開、巨大リポジトリでもトークンのオーバーヘッドを85％超削減</title>
@@ -119,12 +135,12 @@
 <description> — Google DeepMind / score: 85 (Googleによる新しいGeminiモデルの発表)</description>
 </item>
 <item>
-<title>[85] OpenAIが次期主力AIモデル「Astra」の開発状況を報告</title>
-<link>https://gigazine.net/news/20260902-path-to-astra/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260902-path-to-astra/</guid>
-<pubDate>Wed, 02 Sep 2026 04:39:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>OpenAIは次期主力AIモデルの「Astra」を開発中です。Astraは数学と理論計算機科学における10件の未解決課題について新たな成果を上げるなど、開発段階で既に優れたパフォーマンスを発揮していたのですが、OpenAIは「強力すぎる」としてAstraの開発が安全かつ確実に進むよう追加の管理措置を講じると発表しました。そんなAstraの最新の開発状況を、OpenAIが報告しています。 続きを読む... — GIGAZINE / score: 85 (OpenAI次期モデルAstraの開発報告)</description>
+<title>[85] パスワードも2FAも盗まない――攻撃者が狙った「Claudeのログイン済みセッション」の正体</title>
+<link>https://atmarkit.itmedia.co.jp/ait/articles/2609/02/news038.html</link>
+<guid isPermaLink="true">https://atmarkit.itmedia.co.jp/ait/articles/2609/02/news038.html</guid>
+<pubDate>Wed, 02 Sep 2026 03:18:37 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>パスワードを変更し、2段階認証も有効にしている。それでも、攻撃者にAIが“不正利用”されるかもしれない。 Anthropicが開発した生成AIサービス「Claude」で、情報窃取マルウェア（インフォスティーラー）が盗んだ「ログイン済みセッション」を悪用し、ユーザーの利用量を不正に消費する事案が確認された。問題は、パスワ... — はてなブックマーク テクノロジー / score: 85 (セッションハイジャックに関する重要なセキュリティ注意喚起)</description>
 </item>
 <item>
 <title>[85] Anthropic、Claude Fable 5.1とMythos 5.1を発表</title>
@@ -407,12 +423,28 @@
 <description>I’m happy to announce that RISC-V platforms are now officially supported by CPython. 🎉 🚀 — Python Insider / score: 80 (CPythonでのRISC-V公式サポート追加)</description>
 </item>
 <item>
-<title>[80] これが“ニューノーマル” ―Linux 7.2リリース、AIレビューによる大量の修正が常態化へ</title>
-<link>https://gihyo.jp/article/2026/08/daily-linux-260820?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/08/daily-linux-260820?utm_source=feed</guid>
-<pubDate>Thu, 20 Aug 2026 06:48:00 +0000</pubDate>
+<title>[75] Qwen3.8-Maxのアップグレード版「Qwen3.8-Max-0902」登場、コーディング、エージェントタスク、マルチモーダル性能が大幅に向上</title>
+<link>https://gihyo.jp/article/2026/09/qwen3.8-max-0902?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/09/qwen3.8-max-0902?utm_source=feed</guid>
+<pubDate>Thu, 03 Sep 2026 07:00:00 +0000</pubDate>
 <category>gihyo.jp</category>
-<description>Linus Torvaldsは8月16日、「Linux 7.2」の公開をアナウンスした。 — gihyo.jp / score: 80 (AIレビューが常態化したLinux 7.2のリリース)</description>
+<description>Alibaba Qwenは2026年9月2日、AIモデルQwen3.8-Maxのアップグレード版スナップショット「Qwen3.8-Max-0902」をリリースした。 — gihyo.jp / score: 75 (主要AIモデルQwenのアップグレード版リリース)</description>
+</item>
+<item>
+<title>[75] Claudeの“見えない透かし”適用開始　Fable 5.1とMythos 5.1が出力する文やコード、画像に付与　日本も対象</title>
+<link>https://www.itmedia.co.jp/news/article/2609/03/2000001110/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2609/03/2000001110/</guid>
+<pubDate>Thu, 03 Sep 2026 06:27:54 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>米Anthropicが、AIアシスタント「Claude」が生成した文章や画像に、AI生成物と示す“透かし”を入れる運用を始めた。9月1日（現地時間）に発表した最新モデル「Claude Fable 5.1」と「Claude Mythos 5.1」が対応し、提供開始の時点から出力に透かしが入っている。文章には目に見えない透かしが入り、画像などのファイルに... — はてなブックマーク テクノロジー / score: 75 (AI生成物の透かし機能の導入に関する重要ニュース)</description>
+</item>
+<item>
+<title>[75] もうユーザーの作業を妨げない ～「Claude」のPC操作、バックグラウンドで動作可能に／「Pro」「Max」向けにベータ提供、バックグラウンド動作は今のところMacのみ</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2137843.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2137843.html</guid>
+<pubDate>Thu, 03 Sep 2026 06:15:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Anthropicは9月2日（現地時間）、「Claude」のアップデートを発表した。［コンピューター使用］機能をバックグラウンドで動作させられるようになったという。ユーザーの作業を妨げることがないので、「Claude」にPCを操作させながら、自分は他の作業を継続できる。 — 窓の杜 / score: 75 (AIツールの実用的な機能追加)</description>
 </item>
 <item>
 <title>[75] 著作権を巡るOpenAIとニューヨーク・タイムズの訴訟について司法省が「AIトレーニングはフェアユース」と主張する書面を提出</title>
@@ -437,6 +469,14 @@
 <pubDate>Thu, 03 Sep 2026 03:08:00 +0000</pubDate>
 <category>CNET Japan</category>
 <description>ロンドンで初の一般向けロボタクシーサービスが始まった。Uberと自動運転技術企業Wayveの提携により、ロンドンの人々は9月3日からUberアプリで自動運転車を呼べるようになった。 — CNET Japan / score: 75 (ロンドン初の自動運転タクシーサービス開始)</description>
+</item>
+<item>
+<title>[75] ボットネットが標的とする多様なCPUアーキテクチャに関する分析</title>
+<link>https://qiita.com/melkruri/items/a877865ec35f1d095a2d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/melkruri/items/a877865ec35f1d095a2d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Thu, 03 Sep 2026 02:17:28 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>はじめに 三菱電機の大塚です。 三菱電機 情報技術総合研究所では、製品開発時のセキュリティ対策にフィードバックする目的で、複数種類のハニーポットを設置・運用しています。 今回はIoT家電を標的としたサイバー攻撃を観測するハニーポット「IoT家電ハニーポット」で観測したなか... — Qiita 人気記事 / score: 75 (IoT家電を狙うボットネットのCPU分析レポート)</description>
 </item>
 <item>
 <title>[75] トランプ政権、OpenAIを支持　メディアとの著作権訴訟でAI学習は「フェアユース」</title>
@@ -493,14 +533,6 @@
 <pubDate>Wed, 02 Sep 2026 15:40:00 +0000</pubDate>
 <category>Google AI Blog</category>
 <description>The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools. — Google AI Blog / score: 75 (政府・企業向けのプロアクティブなサイバー防御)</description>
-</item>
-<item>
-<title>[75] 三菱重工とNEC、防衛ドローンで連携　AI指揮統制システムを国産化 - 日本経済新聞</title>
-<link>https://www.nikkei.com/article/DGXZQOUC027FW0S6A900C2000000/</link>
-<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUC027FW0S6A900C2000000/</guid>
-<pubDate>Wed, 02 Sep 2026 10:49:19 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>三菱重工業とNECは2日、防衛分野での戦略的提携に向けた覚書を締結したと発表した。防衛ドローン（無人機）を軸に、人工知能（AI）を活用した指揮統制システムや作戦計画などの領域でも連携する。ウクライナ戦争を機に広がるドローンやAIを使った「新しい戦い方」に対応する。三菱重工が製造する護衛艦や戦闘機などにNEC... — はてなブックマーク テクノロジー / score: 75 (防衛ドローンとAI指揮統制システムの国産化)</description>
 </item>
 <item>
 <title>[75] ECS デプロイパイプラインと構成管理を GitHub Actionsと ecspresso に移行しました</title>
@@ -773,38 +805,6 @@
 <pubDate>Fri, 21 Aug 2026 05:45:21 +0000</pubDate>
 <category>Latent Space</category>
 <description>Less than a month ago we had just featured Poolside’s Model Factory with Eiso Kant on the pod (following our Paper Club coverage): It appears that Jensen really, really liked Poolside too, as he went from investor to doing licensing their factory and hiring 109 of their employees: Unless things changed drastically, this accounts for the overwhelming majority of the technical Poolside employees : Eiso Kant [01:52:31]: We are hiring on every possible role in applied research and engineering in the — Latent Space / score: 75 (AI業界における大規模な買収とインフラ投資)</description>
-</item>
-<item>
-<title>[70] MicrosoftがWindowsのメモリ整合性機能を多くのPCに拡大する予定、一部のゲームのパフォーマンスを低下させる可能性</title>
-<link>https://gigazine.net/news/20260903-expanding-memory-integrity-protection/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260903-expanding-memory-integrity-protection/</guid>
-<pubDate>Thu, 03 Sep 2026 03:19:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>2026年10月のアップデートで、Microsoftが提供するセキュリティ機能「メモリ整合性機能」が今までより多くのデバイスに提供されます。疑わしい処理を仮想環境で検証するという機能ですが、これにより一部のゲームでパフォーマンスが低下する可能性があります。 続きを読む... — GIGAZINE / score: 70 (Windowsのメモリ整合性機能拡大による影響)</description>
-</item>
-<item>
-<title>[70] NECとAnthropic、フロンティアAI活用でサイバーセキュリティ強化の協業を拡大</title>
-<link>https://codezine.jp/article/detail/29557</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/29557</guid>
-<pubDate>Thu, 03 Sep 2026 02:45:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 70 (NECとAnthropicのサイバーセキュリティ協業)</description>
-</item>
-<item>
-<title>[70] プレビューパッチでWindows 11でマウスカーソル設定が失われるのは「英語以外の言語」／Microsoftが認める</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2137821.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2137821.html</guid>
-<pubDate>Thu, 03 Sep 2026 01:40:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>2026年8月のプレビューパッチ「KB5120998」で報告されていたマウスカーソルの個人設定が失われる問題は、英語以外でインストールされた「Windows 11 バージョン 24H2/25H2」で発生する可能性があるとのこと。米Microsoftは9月1日（現地時間）、自社のドキュメントサイトで明らかにした。問題のステータスも「Confirmed」（確認済み）へ更新されている。 — 窓の杜 / score: 70 (Windows 11プレビューパッチの不具合情報)</description>
-</item>
-<item>
-<title>[70] GitHub CopilotでClaude Fable 5.1が利用可能に</title>
-<link>https://codezine.jp/article/detail/29547</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/29547</guid>
-<pubDate>Wed, 02 Sep 2026 23:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 70 (GitHub Copilotでの新モデル対応)</description>
 </item>
 </channel>
 </rss>
