@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 03 Sep 2026 12:14:57 +0000</lastBuildDate>
+<lastBuildDate>Thu, 03 Sep 2026 14:10:03 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] [AINews] NVIDIA buys HuggingFace for $13B, as OpenAI publishes their HF incident retro</title>
@@ -45,6 +45,14 @@
 <pubDate>Tue, 25 Aug 2026 15:00:00 +0000</pubDate>
 <category>Next.js Blog</category>
 <description>Next.js is moving the August security release forward to August 25, 2026. — Next.js Blog / score: 90 (Next.jsセキュリティリリースの日程前倒し)</description>
+</item>
+<item>
+<title>[85] 放置していたWordPressが乗っ取られてWebShellだらけになっていた話</title>
+<link>https://satoweb.net/2026/09/p-18390/</link>
+<guid isPermaLink="true">https://satoweb.net/2026/09/p-18390/</guid>
+<pubDate>Thu, 03 Sep 2026 06:52:56 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>とりあえずWordPressを設置していた某ドメイン 特に重要な記事が入っているわけでもなく、ほぼ放置状態。 時たまSSL生きてるかみているだけだったもの 月が替わったので確認したときにやられていることに気づく。 「Hacked by CoupDeGrace」は、2026年8月中旬頃から日本の複数のWordPressサイトなどで相次いで確認されて... — はてなブックマーク テクノロジー / score: 85 (WordPressの深刻な乗っ取り被害の事例)</description>
 </item>
 <item>
 <title>[85] Googleが脆弱性の発見・再現・修正を自動化するオープンソースフレームワーク「Mantis」の詳細を公開、巨大リポジトリでもトークンのオーバーヘッドを85％超削減</title>
@@ -399,6 +407,14 @@
 <description>Kotlin Toolchain 0.12.0 is out. This release brings some long-awaited features: multiplatform libraries publication, a preview of Wasm application support, Compose Hot Reload from the command line, and more. Read on for the details, and check the release notes for the full list of changes and bug fixes. Additionally, klibs.io now uses the Kotlin Toolchain […] — Kotlin Blog / score: 75 (Kotlinツールチェーンの主要機能追加アップデート)</description>
 </item>
 <item>
+<title>[75] トランプ政権「記事のAI学習は著作権侵害ではない」　OpenAIを支持する意見書、対New York Timesなどとの訴訟で</title>
+<link>https://www.itmedia.co.jp/news/article/2609/03/2000001130/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2609/03/2000001130/</guid>
+<pubDate>Thu, 03 Sep 2026 08:23:13 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>対象には、The New York Timesをはじめとした複数の新聞社・出版社、作家らがOpenAIなどを訴えた訴訟が含まれている。 意見書は、LLMの学習段階での著作物の複製は「変容的な」（元の作品の代替にならない、異なる目的での）利用であり、フェアユース（公正利用）に当たると述べる。 LLMが文章を学習する際は、語彙や構... — はてなブックマーク テクノロジー / score: 75 (生成AI学習と著作権に関する法的な重要動向)</description>
+</item>
+<item>
 <title>[75] Qwen3.8-Maxのアップグレード版「Qwen3.8-Max-0902」登場、コーディング、エージェントタスク、マルチモーダル性能が大幅に向上</title>
 <link>https://gihyo.jp/article/2026/09/qwen3.8-max-0902?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/09/qwen3.8-max-0902?utm_source=feed</guid>
@@ -429,14 +445,6 @@
 <pubDate>Thu, 03 Sep 2026 04:55:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>アメリカの大手日刊紙であるニューヨーク・タイムズがOpenAIとMicrosoftを著作権侵害で訴えた訴訟で、アメリカの司法省が「AIのトレーニングで著作権保護対象の資料を使うのは著作権法違反ではない」と主張し、OpenAIを支持する意見書を提出しました。 続きを読む... — GIGAZINE / score: 75 (AIトレーニングのフェアユースに関する司法省の見解)</description>
-</item>
-<item>
-<title>[75] Macアプリ開発者に「インテル対応終了可能」通知。Appleシリコン未対応には「すぐ移行開始」呼びかけも | テクノエッジ TechnoEdge</title>
-<link>https://www.techno-edge.net/article/2026/09/03/5459.html</link>
-<guid isPermaLink="true">https://www.techno-edge.net/article/2026/09/03/5459.html</guid>
-<pubDate>Thu, 03 Sep 2026 03:09:23 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>アップルは2026年9月2日、Mac App Storeに登録するアプリ開発者に対し、インテルMacへの対応を終了可能になったことを告知しました。 あわせて公開されたサポート資料では、macOS 28以降はインテル向けのアプリが起動できなくなることが明記されており、2020年に始まったAppleシリコンへの移行も大詰めとなりつつありま... — はてなブックマーク テクノロジー / score: 75 (Appleシリコン移行とインテル対応終了の告知)</description>
 </item>
 <item>
 <title>[75] ロンドン初の自動運転タクシーが始動、UberとWayveが共同展開</title>
@@ -509,14 +517,6 @@
 <pubDate>Wed, 02 Sep 2026 09:00:32 +0000</pubDate>
 <category>Zenn トレンド</category>
 <description>マイベスト1人目の専任 SRE の秋吉です。ポメラニアンと暮らしています。 概要 マイベストでは、ステージング環境を含めて100個弱の ECS サービスを運用しています。これまで ECS の構成管理とデプロイは、CodePipeline / CodeBuild / CodeDeploy / 独自シェルスクリプトなどを組み合わせた複雑な仕組みで実現していました。 本記事では、この仕組みを GitHub Actions と ecspresso に移行することで運用負荷をどのように改善したかを紹介します。 ECS のデプロイ基盤が歴史的経緯で複雑化しているチームや、CodePipeline... — Zenn トレンド / score: 75 (ECSの構成管理とデプロイ基盤移行の実践的事例)</description>
-</item>
-<item>
-<title>[75] Metaがリアルタイム文字起こしAI「Muse Voice Transcribe」をリリース</title>
-<link>https://gigazine.net/news/20260902-meta-muse-voice-transcribe/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260902-meta-muse-voice-transcribe/</guid>
-<pubDate>Wed, 02 Sep 2026 08:30:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>Meta Superintelligence Labs(Meta超知能ラボ)が、初のリアルタイム音声認識モデル「Muse Voice Transcribe」を発表しました。Metaのリアルタイム音声モデルにとって大きな節目となるモデルで、リアルタイムストリーミング音声認識や20人以上の話者に対応した対話識別、および発話終了検出を備え、AI評価プラットフォーム・Artificial Analysisのランキングで1位を獲得しています。 続きを読む... — GIGAZINE / score: 75 (Metaによるリアルタイム音声認識AIの発表)</description>
 </item>
 <item>
 <title>[75] GitHub CLIに​-​-​​attachフラグ、コマンドラインからIssueやPull Requestへ画像・動画を添付可能に</title>
