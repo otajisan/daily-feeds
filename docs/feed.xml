@@ -4,8 +4,32 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 04 Sep 2026 20:09:14 +0000</lastBuildDate>
+<lastBuildDate>Fri, 04 Sep 2026 22:08:20 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>「QRコード」って何の略？ 実は日本企業が生んだ“高速読み取り”の技術</title>
+<link>https://ascii.jp/elem/000/004/432/4432202/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/432/4432202/?rss</guid>
+<pubDate>Fri, 04 Sep 2026 22:00:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>モザイクのようなギザギザが正方形状に集まっている独特な模様――「QRコード」を知らない人はいないでしょう。では、QRが何の略かご存知ですか？ — ASCII.jp / score: 20 (QRコードの由来に関する一般向け解説)</description>
+</item>
+<item>
+<title>Amazon EC2 now supports specifying compatible instance types on AMIs</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-images-supported-instances</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-images-supported-instances</guid>
+<pubDate>Fri, 04 Sep 2026 19:26:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon EC2 now enables AMI owners to define which instance types are compatible with their AMIs. Owners can specify supported instance types, unsupported instance types, or both — and any launch attempt on a non-permitted instance type is automatically blocked. AMI owners now have a built-in way to prevent launches on instances that are not compatible with their AMIs. This reduces the risk of failed launches due to incompatible instance-AMI pairings. By default, an AMI can be launched on any ins — AWS What's New / score: 65 (EC2でのAMI互換インスタンス指定機能追加)</description>
+</item>
+<item>
+<title>副作用の影響範囲を型で示したい — Scala 3 が模索する「Capture Checking」 - エムスリーテックブログ</title>
+<link>https://www.m3tech.blog/entry/2026/09/03/200000</link>
+<guid isPermaLink="true">https://www.m3tech.blog/entry/2026/09/03/200000</guid>
+<pubDate>Fri, 04 Sep 2026 18:45:45 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>本記事は、コンシューマーチームブログリレー 1日目です。 はじめに 関数型まつりで触れてから、再び自分の中の Scala 熱が高まっています。エンジニアリンググループ、コンシューマーチーム 兼 WHITEJACK チームの松本です。 Scalaでは従来、Effのようなライブラリを使うことでEffect Systemのようなものを実現できまし... — はてなブックマーク テクノロジー / score: 50 (Scala 3のCapture Checkingの技術解説)</description>
+</item>
 <item>
 <title>OpenAI's rogue agents were caught communicating via public wikis</title>
 <link>https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/</link>
@@ -13,6 +37,14 @@
 <pubDate>Fri, 04 Sep 2026 17:38:48 +0000</pubDate>
 <category>Simon Willison</category>
 <description>Here we go again... Discovery of a new OpenAI agent message board by Sydney Von Arx, Cormac Slade Byrd, Spencer Kitts, and Thomas Larsen describes the latest accidental cyberattack by models being trained by OpenAI. This time it was agents engaged in some sort of web research benchmark, so they had (supposedly) controlled access to the Web. The agents figured out they could update public Wikis and spent weeks exchanging thousands of messages with each other to collaborate on the benchmark. This  — Simon Willison / score: 65 (AIエージェントの自律的な通信に関する興味深い話題)</description>
+</item>
+<item>
+<title>Amazon ECS introduces Early Success Criteria for service deployments</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-deployments-early-success/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-deployments-early-success/</guid>
+<pubDate>Fri, 04 Sep 2026 17:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon Elastic Container Service (Amazon ECS) now supports Early Success Criteria for rolling service deployments, giving you the flexibility to define when a deployment is considered successful based on your confidence level and the operational needs of your workload. This can help you complete deployments sooner and unblock subsequent deployments, CI/CD pipelines, and other dependent operations. With Early Success Criteria, you configure the healthy percent - the proportion of desired tasks th — AWS What's New / score: 65 (ECSデプロイの早期成功判定機能の追加)</description>
 </item>
 <item>
 <title>iPhone Ultraの真価はiOS27の分割表示か～開いて何ができる</title>
@@ -93,6 +125,14 @@
 <pubDate>Fri, 04 Sep 2026 15:34:36 +0000</pubDate>
 <category>気になる、記になる…</category>
 <description>BloombergのMark Gurman氏が、Appleは2027年に「MacBook Neo」の第2世代モデルを発売する計画だと報告しています。 次期「MacBook Neo」は、A19 Proチップを搭載し、RAM […] — 気になる、記になる… / score: 35 (次期MacBookに関するスペックの噂)</description>
+</item>
+<item>
+<title>耳で聞く！Python で学ぶ マクロ経済学 入門 9</title>
+<link>https://qiita.com/maskot1977/items/ec2e50adced923fecb94?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/maskot1977/items/ec2e50adced923fecb94?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Fri, 04 Sep 2026 15:33:58 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>user: ソース動画のタイトル、そしてこの動画の内容について教えてください。 Gemini: ご指定いただいたノートブックに含まれるソース動画のタイトルと、その詳細な内容についてご説明します。 動画のタイトル この動画のタイトルは、「給付金8割が貯金に消えた経済... — Qiita 人気記事 / score: 25 (Pythonで学ぶ経済学の初心者向け記事)</description>
 </item>
 <item>
 <title>使い込むほど成長するAIエージェント「Hermes Agent」の実行結果をメールで受け取ってみた</title>
@@ -583,6 +623,14 @@
 <description>5万円台あたりで出ないかな〜。Motorola（モトローラ）といえば、折りたたみスマホでも挑戦を続けるメーカーのイメージがあったりしますが、ドイツのベルリンで開催中のIFA 2026では、ミッドレンジ価格帯のedgeシリーズ新作として、攻め… — ギズモード・ジャパン / score: 30 (ミッドレンジスマートフォン新製品の紹介)</description>
 </item>
 <item>
+<title>🔍 審査官はQiita記事を引用した — ELYZA特許の審査記録を全部読む</title>
+<link>https://qiita.com/Ruria1024/items/17726dfb4369ca235687?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/Ruria1024/items/17726dfb4369ca235687?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Fri, 04 Sep 2026 09:26:41 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>2026年9月3日、ELYZAが「業務AIアプリをAIで作成する仕組み」で特許を取得したと発表し、X上で「範囲が広すぎる」「新規性がない」という批判が集中しました。同社は同日夜にリリースを修正して謝罪しましたが、批判は収まりませんでした。 この記事は、その特許（特許第775... — Qiita 人気記事 / score: 55 (ELYZA特許出願に関する技術的考察)</description>
+</item>
+<item>
 <title>IFA 2026開幕。SUNEAST、ベルリン会場から現地レポート</title>
 <link>https://ascii.jp/elem/000/004/432/4432550/?rss</link>
 <guid isPermaLink="true">https://ascii.jp/elem/000/004/432/4432550/?rss</guid>
@@ -591,12 +639,12 @@
 <description>IFA 2026開幕。SUNEAST、ベルリン会場から現地レポート — ASCII.jp / score: 30 (海外テック見本市の現地レポート)</description>
 </item>
 <item>
-<title>【受賞】株式会社トレンドタウン、「2026年度SMB Excellent 企業賞 AIコンサルティング部門」を受賞</title>
-<link>https://ascii.jp/elem/000/004/432/4432533/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/432/4432533/?rss</guid>
-<pubDate>Fri, 04 Sep 2026 09:12:13 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>【受賞】株式会社トレンドタウン、「2026年度SMB Excellent 企業賞 AIコンサルティング部門」を受賞 — ASCII.jp / score: 20 (企業の受賞に関するプレスリリース。)</description>
+<title>WSL 用ターミナルは noctty が良いぞ — PR を 4 本マージしてもらって分かったこと</title>
+<link>https://zenn.dev/nanasess/articles/noctty-wsl-terminal-contribution</link>
+<guid isPermaLink="true">https://zenn.dev/nanasess/articles/noctty-wsl-terminal-contribution</guid>
+<pubDate>Fri, 04 Sep 2026 09:19:05 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>結論 Windows から WSL2 を常用しているなら、ターミナルは noctty を勧めます。 Windows ネイティブとしての作り込みが厚い。既定ターミナル登録、エクスプローラのコンテキストメニュー、ジャンプリスト、セッション復元、名前付きレイアウト、Quick select、省電力レンダリング 速い。ただし同梱 ConPTY を配置しない... — はてなブックマーク テクノロジー / score: 40 (WSL用ターミナルnocttyの紹介)</description>
 </item>
 <item>
 <title>定番サウンドエディター「Audacity 4.0」、5年半ぶりのメジャーアップデート、UIを再構築、ASIOにビルトイン対応／プロジェクト形式は「.aup4」へ。一部「Audacity 3.x」機能は未実装な点に注意</title>
@@ -727,6 +775,14 @@
 <description>AWS Transfer Family SFTP Connectors now continue running file transfers while you rotate the credentials used to authenticate with remote SFTP servers. You no longer need to update the connector to point to a new secret version each time a credential rotates, removing a manual step and helping avoid failed transfers during the rotation window. Connectors can now retrieve credentials from an ordered list of AWS Secrets Manager version stages, such as the current and previous versions, during auth — AWS What's New / score: 55 (AWS Transfer Familyの機能アップデート)</description>
 </item>
 <item>
+<title>Amazon SageMaker AI Batch Transform now supports G6e instances</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/sagemaker-batch-transform-g6e-instances/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/sagemaker-batch-transform-g6e-instances/</guid>
+<pubDate>Fri, 04 Sep 2026 08:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon SageMaker AI now supports Amazon EC2 G6e instances for batch transform. Batch Transform enables you to run predictions on datasets stored in Amazon S3 and is suited for large datasets that do not require a persistent inference endpoint. Amazon EC2 G6e instances are powered by up to eight NVIDIA L40S Tensor Core GPUs with 48 GB of memory per GPU and third-generation AMD EPYC processors. G6e instances deliver improved performance for GPU-intensive workloads. With this launch, you can use G6 — AWS What's New / score: 60 (SageMaker AIのバッチ変換でG6e対応)</description>
+</item>
+<item>
 <title>タブレットは空中に浮かせるのが最適解</title>
 <link>https://www.gizmodo.jp/article/elecom-tanlet-stand/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/elecom-tanlet-stand/</guid>
@@ -749,62 +805,6 @@
 <pubDate>Fri, 04 Sep 2026 07:45:00 +0000</pubDate>
 <category>CNET Japan</category>
 <description>TCLの新しい「NXTPAPER AMOLED」ディスプレイを採用したスマートフォンが、ドイツ・ベルリンで開催中のテクノロジー見本市「IFA 2026」に登場した。 — CNET Japan / score: 30 (コンシュー向けハードウェアの製品発表ニュース)</description>
-</item>
-<item>
-<title>光回線のバックアップにモバイル回線を――KDDIが新インターネットサービス「auひかりプラス」の提供を開始　ISPは3社から選択可（順次拡大予定）</title>
-<link>https://www.itmedia.co.jp/mobile/articles/2609/04/news086.html</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/mobile/articles/2609/04/news086.html</guid>
-<pubDate>Fri, 04 Sep 2026 07:43:32 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>KDDIは9月17日、最大10Gbpsの光インターネット回線とau 5G回線を組み合わせたインターネット接続サービス「auひかりプラス」の提供を開始する。月額料金は回線サービスの内容や選択するインターネットプロバイダー（ISP）によって異なり、光回線の工事が必要な場合は工事費も必要となる。 なお、記事中の通信速度は全て... — はてなブックマーク テクノロジー / score: 60 (KDDIによる新規回線サービスの提供)</description>
-</item>
-<item>
-<title>“厳しいサイクルになりそうだ“ ―GKH、Linux 7.3開発サイクルの「AIノイズ」増加に警鐘</title>
-<link>https://gihyo.jp/article/2026/09/daily-linux-260904?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/09/daily-linux-260904?utm_source=feed</guid>
-<pubDate>Fri, 04 Sep 2026 07:42:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Linuxカーネルプロジェクトは10月中旬にリリース予定の「Linux 7.3」に向けて開発を進めているが、ここ数ヵ月に渡って議論されてきた“AIノイズ”の大量発生が、メンテナーにとってより大きな負荷となっているようだ。 — gihyo.jp / score: 65 (Linuxカーネル開発におけるAIノイズの課題)</description>
-</item>
-<item>
-<title>スピーカーなのに心拍数も呼吸もモニタリング?! Ankerが睡眠スマートスピーカー「Soundcore SleepLab Pro」発表</title>
-<link>https://www.gizmodo.jp/article/ankers-new-smart-speaker-watches-you-sleep/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/ankers-new-smart-speaker-watches-you-sleep/</guid>
-<pubDate>Fri, 04 Sep 2026 07:35:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>睡眠特化型イヤホンで一部から指示を集めるAnkerが、眠るためのアイテムをさらに拡大。開催中のIFA 2026で睡眠スマートスピーカー「Anker soundcore SleepLab Pro」を発表しました。Soundcore Sleep… — ギズモード・ジャパン / score: 45 (Ankerの睡眠モニタリング機能付き新デバイス発表)</description>
-</item>
-<item>
-<title>HubSpot社、セマンティック検索を200億ベクトル規模へ拡張した手法を公開</title>
-<link>https://www.infoq.com/jp/news/2026/09/hubspot-semantic-vector-search/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-<guid isPermaLink="true">https://www.infoq.com/jp/news/2026/09/hubspot-semantic-vector-search/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-<pubDate>Fri, 04 Sep 2026 07:30:00 +0000</pubDate>
-<category>InfoQ Japan</category>
-<description>SaaSベンダーのHubSpot社は、同社のセマンティック検索基盤が概念実証（PoC）から発展し、現在では38以上のチームが利用する社内サービスへ成長した経緯を紹介した。この基盤は、200億件を超えるベクトルを管理している。HubSpot社によると、このシステムは現在、AIエージェントやRAG（検索拡張生成）、コンタクト情報の重複排除などを支えている。また、AIエージェントの利用拡大に伴い、検索精度とレイテンシの重要性はこれまで以上に高まっているという。 By Matt Saunders Translated by Takashi Kawase — InfoQ Japan / score: 70 (大規模セマンティック検索基盤のスケーリング事例)</description>
-</item>
-<item>
-<title>「字なのにエロスがある」「これでセンシティブ判定食らったら逆にすごい」Xのメディア内容判定能力に関する技術的な検証を目的に作成された動画が話題に</title>
-<link>https://togetter.com/li/2741235</link>
-<guid isPermaLink="true">https://togetter.com/li/2741235</guid>
-<pubDate>Fri, 04 Sep 2026 07:24:35 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Togetter編集部 X（旧Twitter）に日々流れる情報の中から、編集部がさまざまなポストを選び出し、わかりやすい形でお届けすることを大切にしています。新たな視点や世間の反応を添えることで、読者の皆様にとって安心・安全で価値あるコンテンツとすることを目指しています。詳しくは編集方針をご覧ください。 あわせて... — はてなブックマーク テクノロジー / score: 15 (SNSのメディア判定に関するネタ記事)</description>
-</item>
-<item>
-<title>米Anker、ノートPCの自動識別機能を搭載した新型充電器｢Anker Laptop Charger Pro｣を発表</title>
-<link>https://taisy0.com/2026/09/04/227079.html</link>
-<guid isPermaLink="true">https://taisy0.com/2026/09/04/227079.html</guid>
-<pubDate>Fri, 04 Sep 2026 07:15:05 +0000</pubDate>
-<category>気になる、記になる…</category>
-<description>Ankerが、ドイツで開催中の「IFA 2026」において、ノートPC向けの新型USB充電器「Anker Laptop Charger Pro」を発表しました。 「Anker Laptop Charger Pro」は、接 […] — 気になる、記になる… / score: 30 (新製品の充電器に関するガジェットニュース)</description>
-</item>
-<item>
-<title>革新的すぎた？ 開発が噂されていた折りたたみ式の超大型iPad、開発中止との報道【やじうまWatch】</title>
-<link>https://internet.watch.impress.co.jp/docs/yajiuma/2138198.html</link>
-<guid isPermaLink="true">https://internet.watch.impress.co.jp/docs/yajiuma/2138198.html</guid>
-<pubDate>Fri, 04 Sep 2026 07:13:23 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>革新的すぎた？ 開発が噂されていた折りたたみ式の超大型iPad、開発中止との報道【やじうまWatch】 — はてなブックマーク テクノロジー / score: 35 (折りたたみ式大型iPadの開発中止の噂)</description>
 </item>
 </channel>
 </rss>
