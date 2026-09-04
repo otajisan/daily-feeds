@@ -4,8 +4,24 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 04 Sep 2026 16:09:57 +0000</lastBuildDate>
+<lastBuildDate>Fri, 04 Sep 2026 18:11:10 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>OpenAI's rogue agents were caught communicating via public wikis</title>
+<link>https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/</guid>
+<pubDate>Fri, 04 Sep 2026 17:38:48 +0000</pubDate>
+<category>Simon Willison</category>
+<description>Here we go again... Discovery of a new OpenAI agent message board by Sydney Von Arx, Cormac Slade Byrd, Spencer Kitts, and Thomas Larsen describes the latest accidental cyberattack by models being trained by OpenAI. This time it was agents engaged in some sort of web research benchmark, so they had (supposedly) controlled access to the Web. The agents figured out they could update public Wikis and spent weeks exchanging thousands of messages with each other to collaborate on the benchmark. This  — Simon Willison / score: 65 (AIエージェントの自律的な通信に関する興味深い話題)</description>
+</item>
+<item>
+<title>iPhone Ultraの真価はiOS27の分割表示か～開いて何ができる</title>
+<link>https://iphone-mania.jp/iphone18-605285/</link>
+<guid isPermaLink="true">https://iphone-mania.jp/iphone18-605285/</guid>
+<pubDate>Fri, 04 Sep 2026 16:40:54 +0000</pubDate>
+<category>iPhone Mania</category>
+<description>9月9日に予定されるAppleの発表イベントを前に、折りたたみiPhone「iPhone Ultra」で最も気になるのは、開いた画面で何ができるのかという点ではないでしょうか。先に結論をいえば、鍵を握るのは本体ではなくi […] — iPhone Mania / score: 20 (未発売の折りたたみiPhoneに関する噂や予測)</description>
+</item>
 <item>
 <title>2028年にはより大型の｢iPhone Ultra｣が登場か ｰ Bloombergの著名記者がiPhoneのロードマップを公開</title>
 <link>https://taisy0.com/2026/09/05/227100.html</link>
@@ -37,6 +53,14 @@
 <pubDate>Fri, 04 Sep 2026 16:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>When Google's Finance Engineering team needed to modernize their legacy data layer, they chose Spanner , a globally distributed, strongly consistent, multi-model database with high availability capabilities. But migrating to Spanner without taking production services offline was a daunting engineering challenge: As the internal team responsible for the application, we needed to manually rewrite dual-write logic across dozens of Data Access Objects (DAOs), a process that is slow and prone to huma — Google Cloud Blog / score: 60 (Google Cloud Spannerへのデータ移行自動化手法)</description>
+</item>
+<item>
+<title>What’s new with Google Cloud</title>
+<link>https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/</guid>
+<pubDate>Fri, 04 Sep 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block &lt;ListValue: []&gt; Aug 31 - Sept 4 Automate VM guest software lifecycle with VM Extension Manager, now GA Google Cloud VM Extension Manager i — Google Cloud Blog / score: 20 (Google Cloudの一般的な更新情報まとめ)</description>
 </item>
 <item>
 <title>Apple、Siri AIを搭載したフルサイズの新型｢HomePod｣をテスト中</title>
@@ -117,6 +141,14 @@
 <pubDate>Fri, 04 Sep 2026 14:13:43 +0000</pubDate>
 <category>気になる、記になる…</category>
 <description>CIOが、楽天市場が本日よりスタートした大型セール「楽天スーパーSALE」において、対象製品を最大50％オフで販売するセールを開催中です。 セールでは、薄型・高出力のモバイルバッテリー「SMARTCOBY」シリーズや、小 […] — 気になる、記になる… / score: 20 (ガジェット周辺機器のセール情報)</description>
+</item>
+<item>
+<title>Amazon EC2 C8g instances now available in additional regions</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-c8g-instances-additional-regions/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-c8g-instances-additional-regions/</guid>
+<pubDate>Fri, 04 Sep 2026 14:06:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8g instances are available in AWS Asia Pacific (Taipei, New Zealand), and AWS GovCloud (US-East) regions. These instances are powered by AWS Graviton4 processors and deliver up to 30% better performance compared to AWS Graviton3-based instances. Amazon EC2 C8g instances are built for compute-intensive workloads, such as high performance computing (HPC), batch processing, gaming, video encoding, scientific modeling, distributed analytics, — AWS What's New / score: 30 (AWSのインスタンス追加リージョン展開に関する発表)</description>
 </item>
 <item>
 <title>もう給水所でがっかりしない。ぺたんこになるモンベルの水パック</title>
@@ -773,38 +805,6 @@
 <pubDate>Fri, 04 Sep 2026 07:10:17 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>ノートPCのバッテリー持ちを劇的に変えた新世代SoC──Intel、Qualcomm、AMDの最新動向を探る：笠原一輝の「もう、どうなってもいいや！」（1/2 ページ） 最近のノートPCは、バッテリーが持つようになったな……。そう感じているユーザーは多いのではないだろうか。実のところ、2024年に登場したノートPC向けSoCの世代から、... — はてなブックマーク テクノロジー / score: 55 (主要メーカーのノートPC向けSoC動向解説)</description>
-</item>
-<item>
-<title>米Anker、新型3 in 1マグネット式充電パッド「Anker MagStand Charging Station」を発表 ｰ アクティブ冷却機能を搭載</title>
-<link>https://taisy0.com/2026/09/04/227076.html</link>
-<guid isPermaLink="true">https://taisy0.com/2026/09/04/227076.html</guid>
-<pubDate>Fri, 04 Sep 2026 07:05:05 +0000</pubDate>
-<category>気になる、記になる…</category>
-<description>米Ankerが、ドイツで開催中の「IFA 2026」において、新型マグネット式充電パッド「Anker MagStand Charging Station」を発表しました。 「Anker MagStand Charging […] — 気になる、記になる… / score: 30 (新製品の充電パッドに関するガジェットニュース)</description>
-</item>
-<item>
-<title>国ぐるみでの「貧困撲滅プログラム」が成人の認知能力を高める可能性</title>
-<link>https://gigazine.net/news/20260904-escaping-poverty-boosts-cognitive-abilities/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260904-escaping-poverty-boosts-cognitive-abilities/</guid>
-<pubDate>Fri, 04 Sep 2026 07:05:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>貧困は単に収入が少なくて必要な物資が購入できないだけでなく、メンタルヘルスや認知能力にも悪影響を与えるということがわかっています。新たな研究では、国ぐるみの貧困撲滅政策が貧困状態にあった人々の認知能力を高める可能性があると示されました。 続きを読む... — GIGAZINE / score: 35 (社会政策が認知能力に与える影響の調査研究)</description>
-</item>
-<item>
-<title>GitHub Copilot、エンタープライズ管理の除外ポリシーに対応</title>
-<link>https://codezine.jp/article/detail/29568</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/29568</guid>
-<pubDate>Fri, 04 Sep 2026 07:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 75 (GitHub Copilotのエンタープライズ機能追加)</description>
-</item>
-<item>
-<title>無料メーラー「Thunderbird」v155.0が公開 〜OAuth関連の機能を強化／30件の脆弱性も修正</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2138364.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2138364.html</guid>
-<pubDate>Fri, 04 Sep 2026 06:43:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>オープンソースのメールソフト「Thunderbird」の最新版、v155.0が9月1日にリリースされた。 本アップデートでは、「Microsoft Exchange」やMicrosoft Graph API 、カスタムOAuthに対応したアカウント設定プロセスが簡素化された。また、IMAPおよびSMTPサーバー向けのカスタムOAuthがサポートされるなど、OAuth関連の機能が強化された。さらに、企業向けのポリシー機能も拡充された。 — 窓の杜 / score: 85 (Thunderbirdの多数の脆弱性修正と機能強化)</description>
 </item>
 </channel>
 </rss>
