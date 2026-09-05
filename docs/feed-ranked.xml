@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sat, 05 Sep 2026 12:12:02 +0000</lastBuildDate>
+<lastBuildDate>Sat, 05 Sep 2026 14:08:09 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「V8」にゼロデイ脆弱性、「Google Chrome」に今週2回目のセキュリティアップデート／すでに悪用を確認。Windows環境にはv152.0.7977.82/.83が展開中</title>
@@ -631,14 +631,6 @@
 <description>The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools. — Google AI Blog / score: 75 (政府・企業向けのプロアクティブなサイバー防御)</description>
 </item>
 <item>
-<title>[75] ECS デプロイパイプラインと構成管理を GitHub Actionsと ecspresso に移行しました</title>
-<link>https://zenn.dev/mybest_dev/articles/2cd71bc64ad380</link>
-<guid isPermaLink="true">https://zenn.dev/mybest_dev/articles/2cd71bc64ad380</guid>
-<pubDate>Wed, 02 Sep 2026 09:00:32 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>マイベスト1人目の専任 SRE の秋吉です。ポメラニアンと暮らしています。 概要 マイベストでは、ステージング環境を含めて100個弱の ECS サービスを運用しています。これまで ECS の構成管理とデプロイは、CodePipeline / CodeBuild / CodeDeploy / 独自シェルスクリプトなどを組み合わせた複雑な仕組みで実現していました。 本記事では、この仕組みを GitHub Actions と ecspresso に移行することで運用負荷をどのように改善したかを紹介します。 ECS のデプロイ基盤が歴史的経緯で複雑化しているチームや、CodePipeline... — Zenn トレンド / score: 75 (ECSの構成管理とデプロイ基盤移行の実践的事例)</description>
-</item>
-<item>
 <title>[75] GitHub CLIに​-​-​​attachフラグ、コマンドラインからIssueやPull Requestへ画像・動画を添付可能に</title>
 <link>https://gihyo.jp/article/2026/09/github-cli-attach-flag?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/09/github-cli-attach-flag?utm_source=feed</guid>
@@ -805,6 +797,14 @@
 <pubDate>Wed, 26 Aug 2026 22:10:37 +0000</pubDate>
 <category>Node.js リリース</category>
 <description>Notable Changes Out-of-band release to fix node --version which was reporting an alpha version. Commits [ ebd35a9eec ] - src : revert accidental alpha designation (Antoine du Hamel) #65568 [ 0b0dd87fcc ] - tools : fix tools/nix/list-requisites.sh (Antoine du Hamel) #65560 — Node.js リリース / score: 75 (Node.jsのバージョン表示不具合の緊急修正)</description>
+</item>
+<item>
+<title>[75] Compose Multiplatform 1.12.0 Released</title>
+<link>https://blog.jetbrains.com/kotlin/2026/08/compose-multiplatform-1-12-0/</link>
+<guid isPermaLink="true">https://blog.jetbrains.com/kotlin/2026/08/compose-multiplatform-1-12-0/</guid>
+<pubDate>Wed, 26 Aug 2026 13:28:41 +0000</pubDate>
+<category>Kotlin Blog</category>
+<description>Compose Multiplatform 1.12.0 is out! This version brings new tooling for AI assistants, improvements to web resource management, and finer control over desktop window states. Here are the highlights of this release: For a complete overview of the changes, check out What’s new in Compose Multiplatform 1.12.0 or the release notes on GitHub. Get Started […] — Kotlin Blog / score: 75 (Compose Multiplatform 1.12.0リリース)</description>
 </item>
 </channel>
 </rss>
