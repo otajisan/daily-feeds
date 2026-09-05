@@ -4,16 +4,8 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sat, 05 Sep 2026 04:10:32 +0000</lastBuildDate>
+<lastBuildDate>Sat, 05 Sep 2026 06:14:05 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
-<item>
-<title>[95] NVIDIAがHugging Faceを2兆円超えで買収したことを正式発表</title>
-<link>https://gigazine.net/news/20260904-nvidia-acquire-hugging-face/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260904-nvidia-acquire-hugging-face/</guid>
-<pubDate>Fri, 04 Sep 2026 01:44:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>NVIDIAがHugging Faceを129億3030万ドル(約2兆円)で買収したことを現地時間の2026年9月3日に正式発表しました。 続きを読む... — GIGAZINE / score: 95 (AI業界の巨大買収劇であり大きな影響を持つ)</description>
-</item>
 <item>
 <title>[95] 「V8」にゼロデイ脆弱性、「Google Chrome」に今週2回目のセキュリティアップデート／すでに悪用を確認。Windows環境にはv152.0.7977.82/.83が展開中</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2138160.html</link>
@@ -53,6 +45,14 @@
 <pubDate>Sat, 05 Sep 2026 02:00:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>AGIの定義ってどう言う感じ？OpenAIは最新AIモデル「GPT-6 Astra」のリリースで、いよいよ汎用人工知能（AGI）の時代が始まった、と言いたいっぽいです。GPT-5のリリースから約1年。そして約2カ月前にGPT-5.6へとアッ… — ギズモード・ジャパン / score: 90 (最新AIモデル発表とAGI言及のニュース)</description>
+</item>
+<item>
+<title>[90] Formalizing Fermat's Last Theorem</title>
+<link>https://www.anthropic.com/research/formalizing-fermats-last-theorem</link>
+<guid isPermaLink="true">https://www.anthropic.com/research/formalizing-fermats-last-theorem</guid>
+<pubDate>Fri, 04 Sep 2026 18:57:19 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>We are sharing the first complete computer-checked proof of Fermat’s Last Theorem. Claude worked largely autonomously over 11 days to write the proof in the Lean programming language. Below, we describe how the formalization was done and share some thoughts about what this work could mean for res... — はてなブックマーク テクノロジー / score: 90 (Claudeによる数学の完全証明の画期的成果)</description>
 </item>
 <item>
 <title>[90] [AINews] GPT-6 Astra: OpenAI’s biggest LLM launch of all time</title>
@@ -143,12 +143,12 @@
 <description>Next.js is moving the August security release forward to August 25, 2026. — Next.js Blog / score: 90 (Next.jsセキュリティリリースの日程前倒し)</description>
 </item>
 <item>
-<title>[85] Windows 11のセキュリティ機能「メモリ整合性」、2026年10月から自動で順次有効化／必要な場合は「VBS」もあわせて有効化</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2138162.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2138162.html</guid>
-<pubDate>Fri, 04 Sep 2026 08:40:30 +0000</pubDate>
+<title>[85] AIエージェントの開発・提供におけるセキュリティリスクの論点と対策</title>
+<link>https://speakerdeck.com/flatt_security/security-risks-and-countermeasures-in-the-development-and-provision-of-ai-agents</link>
+<guid isPermaLink="true">https://speakerdeck.com/flatt_security/security-risks-and-countermeasures-in-the-development-and-provision-of-ai-agents</guid>
+<pubDate>Fri, 04 Sep 2026 09:53:41 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>Windows 11のセキュリティ機能「メモリ整合性」、2026年10月から自動で順次有効化／必要な場合は「VBS」もあわせて有効化 — はてなブックマーク テクノロジー / score: 85 (Windows 11のセキュリティ機能自動有効化)</description>
+<description>2026年9月2日（水）開催「Product Security Square」に登壇した梅内のスライド資料です。 https://flatt.connpass.com/event/393895/ — はてなブックマーク テクノロジー / score: 85 (AIエージェントのセキュリティリスク対策)</description>
 </item>
 <item>
 <title>[85] 無料メーラー「Thunderbird」v155.0が公開 〜OAuth関連の機能を強化／30件の脆弱性も修正</title>
@@ -157,6 +157,14 @@
 <pubDate>Fri, 04 Sep 2026 06:43:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>オープンソースのメールソフト「Thunderbird」の最新版、v155.0が9月1日にリリースされた。 本アップデートでは、「Microsoft Exchange」やMicrosoft Graph API 、カスタムOAuthに対応したアカウント設定プロセスが簡素化された。また、IMAPおよびSMTPサーバー向けのカスタムOAuthがサポートされるなど、OAuth関連の機能が強化された。さらに、企業向けのポリシー機能も拡充された。 — 窓の杜 / score: 85 (Thunderbirdの多数の脆弱性修正と機能強化)</description>
+</item>
+<item>
+<title>[85] Windows 11のセキュリティ機能「メモリ整合性」、2026年10月から自動で順次有効化／必要な場合は「VBS」もあわせて有効化</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2138162.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2138162.html</guid>
+<pubDate>Fri, 04 Sep 2026 04:45:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Microsoftは9月1日（現地時間）、「メモリ整合性」の保護対象となるデバイスを2026年10月より拡大すると発表した。毎月提供される品質更新プログラムを通じて段階的に有効化されるため、ユーザーや管理者による追加の設定はほとんど必要ない。 — 窓の杜 / score: 85 (Windows 11のセキュリティ機能自動有効化)</description>
 </item>
 <item>
 <title>[85] OpenAIが最強モデル「GPT-6 Astra」を発表</title>
@@ -797,14 +805,6 @@
 <pubDate>Wed, 26 Aug 2026 13:28:41 +0000</pubDate>
 <category>Kotlin Blog</category>
 <description>Compose Multiplatform 1.12.0 is out! This version brings new tooling for AI assistants, improvements to web resource management, and finer control over desktop window states. Here are the highlights of this release: For a complete overview of the changes, check out What’s new in Compose Multiplatform 1.12.0 or the release notes on GitHub. Get Started […] — Kotlin Blog / score: 75 (Compose Multiplatform 1.12.0リリース)</description>
-</item>
-<item>
-<title>[75] ChatGPTの内蔵ブラウザーがWebMCPに対応、Webサイトが公開するツールを「サイトツール」として利用可能に ——10日間のWebMCP Challengeも開催</title>
-<link>https://gihyo.jp/article/2026/08/chatgpt-app-browser-support-webmcp?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/08/chatgpt-app-browser-support-webmcp?utm_source=feed</guid>
-<pubDate>Wed, 26 Aug 2026 07:34:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>OpenAIは2026年8月25日付の「ChatGPT &amp; Codex changelog」で、ChatGPTデスクトップアプリの内蔵ブラウザーに、WebMCPを利用した「サイトツール」を追加した。 — gihyo.jp / score: 75 (ChatGPT内蔵ブラウザーのWebMCP対応と新機能)</description>
 </item>
 </channel>
 </rss>
