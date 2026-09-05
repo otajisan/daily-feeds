@@ -4,7 +4,7 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sat, 05 Sep 2026 18:09:51 +0000</lastBuildDate>
+<lastBuildDate>Sat, 05 Sep 2026 20:08:29 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Using Blender with coding agents on macOS</title>
@@ -37,6 +37,14 @@
 <pubDate>Sat, 05 Sep 2026 15:00:00 +0000</pubDate>
 <category>ASCII.jp</category>
 <description>パソコンショップSEVENが9月6日限定の24時間セールを開催。ゲーミングPCやデスクトップPCなど対象10商品が最大5万2000円オフに。Ryzen 9・GeForce RTX 5070搭載モデルなど、注目製品とセール価格を紹介します。 — ASCII.jp / score: 25 (PCパーツショップのセール情報)</description>
+</item>
+<item>
+<title>.gitignore everything by default</title>
+<link>https://packagemain.tech/p/gitignore-everything-by-default</link>
+<guid isPermaLink="true">https://packagemain.tech/p/gitignore-everything-by-default</guid>
+<pubDate>Sat, 05 Sep 2026 14:58:37 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>I think we’ve all been there. You’re working on a project, making commits, and then suddenly realize you’ve been committing .DS_Store files, node_modules, IDE configuration files, or other junk (CLAUDE.md for example) that shouldn’t be in your repository. Or even worse - environment variables. Th... — はてなブックマーク テクノロジー / score: 35 (開発におけるよくある設定ミスへの一般的な言及)</description>
 </item>
 <item>
 <title>動画目的で買ったiPhone 17 Pro Max。半年使ってみてどう？</title>
@@ -189,6 +197,14 @@
 <pubDate>Sat, 05 Sep 2026 08:35:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>ボストン大学が主導した研究チームが、アメリカの大学生4万6914人の回答を分析した結果、希死念慮（死にたいと考えること）の高さとの関連性を示す「2つの傾向」を報告しています。それは「1日にオンラインで過ごす時間の長さ」と「オンラインで嫌がら… — ギズモード・ジャパン / score: 15 (オンライン利用と精神的傾向に関する心理学的調査)</description>
+</item>
+<item>
+<title>バックエンド開発Handbookを届けるために ― AI時代の知の高速道路を敷く - Timee Product Team Blog</title>
+<link>https://tech.timee.co.jp/entry/2026/02/24/100702</link>
+<guid isPermaLink="true">https://tech.timee.co.jp/entry/2026/02/24/100702</guid>
+<pubDate>Sat, 05 Sep 2026 08:01:52 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>こんにちは、タイミーでバックエンドのテックリードをしている新谷（@euglena1215）です。 今回は、社内向けに公開したバックエンド開発Handbookと、それをClaude CodeやCursorといったAIエージェント向けスキルとして届けることで、気づいたらHandbookを参照している状態を目指した取り組みについて紹介します。 バック... — はてなブックマーク テクノロジー / score: 45 (AIを活用した社内開発ハンドブックの共有と取り組み)</description>
 </item>
 <item>
 <title>GitHub Actions、REST APIやセキュリティ権限など3つの機能を強化</title>
@@ -695,6 +711,14 @@
 <description>ソニーは新型ワイヤレスヘッドホン「WH-CH730N」と「WH-CH530」を現地時間9月7日に発表する見込みですが、その「WH-CH730N」の実機写真が明らかになりました。 公開したのはThe Walkman Blo […] — 気になる、記になる… / score: 25 (新型ワイヤレスヘッドホンのリーク情報)</description>
 </item>
 <item>
+<title>CとGoの生成コードを読む ― アセンブリから見る言語設計の違い</title>
+<link>https://zenn.dev/saku0512/books/3735de8d0aa09f</link>
+<guid isPermaLink="true">https://zenn.dev/saku0512/books/3735de8d0aa09f</guid>
+<pubDate>Sat, 05 Sep 2026 01:33:15 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>同じ処理をCとGoで実装し、生成されるアセンブリを比較する。ABI、境界チェック、スタック、GC、Escape Analysis、インライン化などを実際の生成コードから追い、CとGoの言語設計・コンパイラ・ランタイムの違いを読み解く。 — Zenn トレンド / score: 65 (CとGoの生成コードとアセンブリ比較による深い技術解説)</description>
+</item>
+<item>
 <title>【楽天スーパーSALE限定】大画面13.4インチAndroid 16タブレットが半額！AROLYM AP13が51,800円→25,900円の超特価、在庫限りの特別キャンペーン開催</title>
 <link>https://ascii.jp/elem/000/004/432/4432577/?rss</link>
 <guid isPermaLink="true">https://ascii.jp/elem/000/004/432/4432577/?rss</guid>
@@ -743,14 +767,6 @@
 <description>I got access to GPT-6 Astra this afternoon, so naturally I used it to generate SVGs of pelicans riding bicycles - at low, medium, high, xhigh and max reasoning levels (Astra doesn't support reasoning=none). Then I rendered those pelicans in a comparison grid with GPT-5.6 Sol, Terra, and Luna, and beyond being fun the result was surprisingly useful. See the grid for full quality images. Here's the transcript that created the GPT-6 Nova pelicans. There are a few interesting things that stand out f — Simon Willison / score: 50 (LLMの画像生成能力に関する技術的検証)</description>
 </item>
 <item>
-<title>日本のデータセンター4倍へ、8年で10兆円投資　AI向けで米中に次ぐ - 日本経済新聞</title>
-<link>https://www.nikkei.com/article/DGXZQOUC03CDT0T00C26A7000000/</link>
-<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUC03CDT0T00C26A7000000/</guid>
-<pubDate>Fri, 04 Sep 2026 23:34:04 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>国内の人工知能（AI）向けデータセンターの規模が2030年代半ばまでに25年末に比べ4倍超に増えることが分かった。自国内でAIのデータや技術を管理する「AI主権」の確立に向け、基盤となるデータセンターの整備が米中に次ぐ規模で進む。国内でデータセンターを運営する主要26社の新設計画を日本経済新聞が調べた。各社に計... — はてなブックマーク テクノロジー / score: 60 (国内データセンターの急増に関する動向)</description>
-</item>
-<item>
 <title>ソニーの新型ヘッドホン｢WH-1000XM4C｣の新たな画像が流出</title>
 <link>https://taisy0.com/2026/09/05/227112.html</link>
 <guid isPermaLink="true">https://taisy0.com/2026/09/05/227112.html</guid>
@@ -789,22 +805,6 @@
 <pubDate>Fri, 04 Sep 2026 23:00:00 +0000</pubDate>
 <category>気になる、記になる…</category>
 <description>DJIが、今秋、東京の表参道に日本初のDJIコンセプトストアをオープンすることを発表しました。 DJIコンセプトストアの詳細な位置や店内がどういったものになるのかなどの詳細は明らかにされていないものの、DJI製品を体験出 […] — 気になる、記になる… / score: 20 (DJIのコンセプトストアオープン情報)</description>
-</item>
-<item>
-<title>来て、見て、触って、感じて！ 話題の分割キーボード「Orca Echo」体験イベントのレポートです</title>
-<link>https://www.gizmodo.jp/article/orca-echo-touchtry-event-0830/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/orca-echo-touchtry-event-0830/</guid>
-<pubDate>Fri, 04 Sep 2026 23:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>世の中に数あるガジェットから、「これだ！」を思うプロダクトをお届けする「GIZMART」（ギズマート）。最近の注目プロダクトは、Keychronとギズモードが共同開発した、画期的な分割キーボード「Keychron Orca echo」。なん… — ギズモード・ジャパン / score: 45 (話題の分割キーボードの体験レポート)</description>
-</item>
-<item>
-<title>｢macOS 26.7 RC｣からApple製ゲームコントローラー2機種の存在が明らかに</title>
-<link>https://taisy0.com/2026/09/05/227107.html</link>
-<guid isPermaLink="true">https://taisy0.com/2026/09/05/227107.html</guid>
-<pubDate>Fri, 04 Sep 2026 22:56:58 +0000</pubDate>
-<category>気になる、記になる…</category>
-<description>MacRumorsによると、「macOS 26.7 RC」からApple製のゲームコントローラー2機種に関する記述が見つかったことが分かりました。 8月中旬に公開された「macOS 26.7 RC」のコード内からはまだ発 […] — 気になる、記になる… / score: 45 (OSのベータ版コードから見つかった新ハードの噂)</description>
 </item>
 </channel>
 </rss>
