@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sun, 06 Sep 2026 12:12:15 +0000</lastBuildDate>
+<lastBuildDate>Sun, 06 Sep 2026 14:08:00 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「V8」にゼロデイ脆弱性、「Google Chrome」に今週2回目のセキュリティアップデート／すでに悪用を確認。Windows環境にはv152.0.7977.82/.83が展開中</title>
@@ -415,14 +415,6 @@
 <description>Notable Changes [ b12bcc9ae1 ] - (SEMVER-MINOR) async_hooks : add using scopes to AsyncLocalStorage (Stephen Belanger) #61674 [ e2eb88b36b ] - (SEMVER-MINOR) buffer : add end parameter (Robert Nagy) #62390 [ 1fefdda18e ] - crypto : update root certificates to NSS 3.125 (Node.js GitHub Bot) #64746 [ 4a158cf1ab ] - doc : add MikeMcC399 as collaborator (Mike McCready) #64656 [ d4cafce076 ] - (SEMVER-MINOR) lib,permission : add permission.drop (Rafael Gonzaga) #62672 [ b3cfb55267 ] - (SEMVER-MINOR)  — Node.js リリース / score: 80 (Node.js LTSの重要な機能追加)</description>
 </item>
 <item>
-<title>[80] Next.js 16.3正式版リリース。Turbopackのメモリ使用量が最大90％減、SSRが最大22％高速化、TypeScript 7による型チェック高速化など</title>
-<link>https://www.publickey1.jp/blog/26/nextjs_163turbopack90ssr22typescript_7.html</link>
-<guid isPermaLink="true">https://www.publickey1.jp/blog/26/nextjs_163turbopack90ssr22typescript_7.html</guid>
-<pubDate>Tue, 25 Aug 2026 17:58:38 +0000</pubDate>
-<category>Publickey</category>
-<description>Vercelは同社が開発するWebアプリケーションフレームワークの最新版となる「Next.js 16.3」をリリースしました。 Next.jsは、ReactをベースとしたオープンソースのWebアプリケーションフレームワークです。ルーティング... — Publickey / score: 80 (主要フレームワークNext.jsのメジャー版)</description>
-</item>
-<item>
 <title>[80] Advancing price-performance for developers with GPT‑5.6 in Kiro</title>
 <link>https://openai.com/index/gpt-5-6-in-kiro</link>
 <guid isPermaLink="true">https://openai.com/index/gpt-5-6-in-kiro</guid>
@@ -802,9 +794,17 @@
 <title>[70] ChatGPT・Claude・Grokがほぼ同時刻にダウン</title>
 <link>https://gigazine.net/news/20260904-openai-anthropic-spacexai-down/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260904-openai-anthropic-spacexai-down/</guid>
-<pubDate>Fri, 04 Sep 2026 10:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>2026年9月3日深夜、大手3社のAIサービスがほぼ同時に停止しました。なぜタイミングが重なったのか、理由は明らかになっていません。 続きを読む... — GIGAZINE / score: 70 (主要AIサービスが一斉に停止した障害情報)</description>
+<pubDate>Fri, 04 Sep 2026 10:05:37 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>2026年9月3日深夜、大手3社のAIサービスがほぼ同時に停止しました。なぜタイミングが重なったのか、理由は明らかになっていません。 ChatGPT, Grok, and Claude all went down at the same time | The Verge https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down Major AI Outa... — はてなブックマーク テクノロジー / score: 70 (主要AIサービスが一斉に停止した障害情報)</description>
+</item>
+<item>
+<title>[70] HubSpot社、セマンティック検索を200億ベクトル規模へ拡張した手法を公開</title>
+<link>https://www.infoq.com/jp/news/2026/09/hubspot-semantic-vector-search/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+<guid isPermaLink="true">https://www.infoq.com/jp/news/2026/09/hubspot-semantic-vector-search/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+<pubDate>Fri, 04 Sep 2026 07:30:00 +0000</pubDate>
+<category>InfoQ Japan</category>
+<description>SaaSベンダーのHubSpot社は、同社のセマンティック検索基盤が概念実証（PoC）から発展し、現在では38以上のチームが利用する社内サービスへ成長した経緯を紹介した。この基盤は、200億件を超えるベクトルを管理している。HubSpot社によると、このシステムは現在、AIエージェントやRAG（検索拡張生成）、コンタクト情報の重複排除などを支えている。また、AIエージェントの利用拡大に伴い、検索精度とレイテンシの重要性はこれまで以上に高まっているという。 By Matt Saunders Translated by Takashi Kawase — InfoQ Japan / score: 70 (大規模セマンティック検索基盤のスケーリング事例)</description>
 </item>
 </channel>
 </rss>
