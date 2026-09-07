@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 07 Sep 2026 04:11:53 +0000</lastBuildDate>
+<lastBuildDate>Mon, 07 Sep 2026 06:20:20 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「V8」にゼロデイ脆弱性、「Google Chrome」に今週2回目のセキュリティアップデート／すでに悪用を確認。Windows環境にはv152.0.7977.82/.83が展開中</title>
@@ -125,6 +125,22 @@
 <pubDate>Tue, 25 Aug 2026 15:00:00 +0000</pubDate>
 <category>Next.js Blog</category>
 <description>Next.js is moving the August security release forward to August 25, 2026. — Next.js Blog / score: 90 (Next.jsセキュリティリリースの日程前倒し)</description>
+</item>
+<item>
+<title>[85] 「AGIは到来した」NVIDIAジェンスン・フアンCEOが断言　一方で異論も</title>
+<link>https://ascii.jp/elem/000/004/432/4432796/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/432/4432796/?rss</guid>
+<pubDate>Mon, 07 Sep 2026 05:45:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>エヌビディアのジェンスン・フアンCEOは9月7日、自身のXアカウントを通じて、OpenAIの「GPT-6 Astra」がAGI（Artificial General Intelligence／汎用人工知能）に到達したと発言。OpenAIのチームに対して、祝辞を贈った。 — ASCII.jp / score: 85 (AGI到達に関するNVIDIA CEOの発言)</description>
+</item>
+<item>
+<title>[85] OpenAI製エージェント約3700体が放置されていた過疎Wikiサイトを「秘密の情報共有掲示板」として利用、約1万8000件の投稿で答えやサンドボックス回避方法を共有</title>
+<link>https://gigazine.net/news/20260907-openai-agents-german-wiki-incident/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20260907-openai-agents-german-wiki-incident/</guid>
+<pubDate>Mon, 07 Sep 2026 04:31:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>OpenAIのAIエージェントが実験環境の外にアクセスし、ドイツ語のWikiサイトを利用して他のエージェントと情報を共有していた事案について、OpenAIが自社のエージェントによるものだったことを認めました。今回の事案を調査したシドニー・フォン・アーク氏らは2026年9月4日、調査結果をまとめたウェブサイト「collusion.wiki」を公開しました。 続きを読む... — GIGAZINE / score: 85 (AIエージェント間の自律的な情報共有事案)</description>
 </item>
 <item>
 <title>[85] 解凍・圧縮ソフト「7-Zip」がv26.03に、「MotW」を引き継がない脆弱性などを修正／Joliet形式のISOイメージと複合ドキュメント書庫のサポートも改善</title>
@@ -311,20 +327,20 @@
 <description>Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models. — OpenAI News / score: 85 (カスタム推移チップの業界をリードする性能発表)</description>
 </item>
 <item>
+<title>[80] GitHub Copilotが複数AIモデルを自動で使い分ける「HydraFusion」を公開、TerminalBench 2.1でClaude Opus 5比コスト67％減・スコア4.9ポイント向上</title>
+<link>https://gigazine.net/news/20260907-github-copilot-hydrafusion/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20260907-github-copilot-hydrafusion/</guid>
+<pubDate>Mon, 07 Sep 2026 06:10:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>GitHubは2026年9月4日、GitHub Copilotでタスクに応じて複数のAIモデルを使い分ける「Project HydraFusion」を研究プレビューとして発表しました。GitHubによる評価では、TerminalBench 2.1でClaude Opus 5と比べて推定コストを67％削減しながら正しく完了できたタスクの割合が4.9ポイント高くなったとのことです。 続きを読む... — GIGAZINE / score: 80 (GitHub Copilotのマルチモデル自動切替)</description>
+</item>
+<item>
 <title>[80] GitHub Copilot、GPT-6 Astraが一般提供開始</title>
 <link>https://codezine.jp/article/detail/29591</link>
 <guid isPermaLink="true">https://codezine.jp/article/detail/29591</guid>
 <pubDate>Mon, 07 Sep 2026 04:00:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 80 (主要な開発者向けAIツールの一般提供開始)</description>
-</item>
-<item>
-<title>[80] Pixel 6aで充電中に火災事故　バッテリー過熱で出火か？</title>
-<link>https://ascii.jp/elem/000/004/432/4432679/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/432/4432679/?rss</guid>
-<pubDate>Mon, 07 Sep 2026 02:50:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>消費者庁は9月4日、グーグルのスマートフォン「Google Pixel 6a」の火災事故が6月に発生し、1名が軽傷を負ったことを公表した。 — ASCII.jp / score: 80 (スマホのバッテリー過熱による火災事故の注意喚起)</description>
 </item>
 <item>
 <title>[80] GitHub Copilot、一部AIモデルのサポートを10月2日に終了</title>
@@ -471,12 +487,36 @@
 <description>GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance. — OpenAI News / score: 80 (新型開発モデルのリリースによる性能向上)</description>
 </item>
 <item>
+<title>[75] Microsoft、“世界でもっとも高速・高精度で安価”とうたう音声認識モデルを発表、「MAI-Transcribe-2」／60言語の平均単語誤り率（WER）で比較対象中トップ、処理速度も向上</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2138699.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2138699.html</guid>
+<pubDate>Mon, 07 Sep 2026 05:45:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Microsoftは9月3日（現地時間）、新しい音声認識AIモデル「MAI-Transcribe-2」を発表した。同社はこれを“世界でもっとも高速・高精度で安価な音声認識モデル”とうたっており、「Gemini 3.5 Transcribe」や「GPT-Transcribe」、「Whisper V3-Large」、「Scribe v2」といった競合モデルを上回るとしている。 — 窓の杜 / score: 75 (マイクロソフトの高精度な新型音声認識モデル)</description>
+</item>
+<item>
+<title>[75] 経済産業省「セキュリティ格付け制度」対応やAIセキュリティの実践、耐量子への移行に役立つ実務の実践知をお届け！セキュリティの年次カンファレンス</title>
+<link>https://ascii.jp/elem/000/004/432/4432780/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/432/4432780/?rss</guid>
+<pubDate>Mon, 07 Sep 2026 04:00:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>経済産業省「セキュリティ格付け制度」対応やAIセキュリティの実践、耐量子への移行に役立つ実務の実践知をお届け！セキュリティの年次カンファレンス — ASCII.jp / score: 75 (セキュリティやAI活用に関する実務的なカンファレンス情報)</description>
+</item>
+<item>
 <title>[75] Microsoftが開発者向けのWindows 11環境「Project Zenith」を発表、環境構築の手間を減らし300億パラメータ超のAIモデルもローカル実行</title>
 <link>https://gigazine.net/news/20260907-microsoft-project-zenith/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260907-microsoft-project-zenith/</guid>
 <pubDate>Mon, 07 Sep 2026 03:45:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>Microsoftが2026年9月4日に、開発者向けに調整したWindows 11環境「Project Zenith」を発表しました。開発ツールや各種設定をあらかじめ整えた対応PCとして展開し、端末をセットアップしてすぐにプログラミングやAI開発を始められるようにする取り組みとなっています。 続きを読む... — GIGAZINE / score: 75 (Microsoftによる開発者向け新Windows環境発表)</description>
+</item>
+<item>
+<title>[75] GPT-6 Astraの「low」はGPT-5.6 Solの「high」より高性能？　公式が推奨</title>
+<link>https://www.itmedia.co.jp/aiplus/article/2609/07/2000001209/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2609/07/2000001209/</guid>
+<pubDate>Mon, 07 Sep 2026 03:01:35 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>「GPT-6 Astra」（以下、Astra）の「low」設定は「GPT-5.6 Sol」（以下、Sol）の「high」設定よりも優れている――米OpenAIのプロダクト責任者ティボー・ソティオ氏（通称Tibo）は9月6日（現地時間、以下同）、Xにこう投稿し、トークン節約のため「Solのhigh設定に満足していたなら、Astraのlowまたはmedium設定に移行する... — はてなブックマーク テクノロジー / score: 75 (主要LLMの新モデル性能比較と公式推奨)</description>
 </item>
 <item>
 <title>[75] 報道機関が著作権侵害でOpenAIとMicrosoftを提訴</title>
@@ -516,7 +556,7 @@
 <guid isPermaLink="true">https://scgajge12.hatenablog.com/entry/closed_network_security</guid>
 <pubDate>Sun, 06 Sep 2026 09:34:08 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>はじめに こんにちは、morioka12 です。 本稿では、医療機関の閉域網 (Closed Network) を攻撃者の視点から読み解き、「閉域網だから安全」という神話がどこで壊れるのかを紹介します。工場や港湾の事例も、同じ壊れ方を映す鏡として扱います。 先に結論です。「閉域網だから安全」という認識は誤りといえます。 閉域網... — はてなブックマーク テクノロジー / score: 75 (閉域網のセキュリティリスクに関する重要な警鐘)</description>
+<description>はじめに こんにちは、morioka12 です。 本稿では、医療機関の閉域網 (Closed Network) を攻撃者の視点から読み解き、「閉域網だから安全」という神話がどこで壊れるのかを紹介します。工場や港湾の事例も、同じ壊れ方をするので合わせて扱います。 先に結論です。「閉域網だから安全」という認識は誤りです。 閉域網が... — はてなブックマーク テクノロジー / score: 75 (閉域網のセキュリティリスクに関する重要な警鐘)</description>
 </item>
 <item>
 <title>[75] Apple、Intel MacアプリのRosettaサポート終了時期を発表</title>
@@ -621,14 +661,6 @@
 <pubDate>Thu, 03 Sep 2026 03:08:00 +0000</pubDate>
 <category>CNET Japan</category>
 <description>ロンドンで初の一般向けロボタクシーサービスが始まった。Uberと自動運転技術企業Wayveの提携により、ロンドンの人々は9月3日からUberアプリで自動運転車を呼べるようになった。 — CNET Japan / score: 75 (ロンドン初の自動運転タクシーサービス開始)</description>
-</item>
-<item>
-<title>[75] トランプ政権、OpenAIを支持　メディアとの著作権訴訟でAI学習は「フェアユース」</title>
-<link>https://japan.cnet.com/article/35252236/</link>
-<guid isPermaLink="true">https://japan.cnet.com/article/35252236/</guid>
-<pubDate>Thu, 03 Sep 2026 02:01:00 +0000</pubDate>
-<category>CNET Japan</category>
-<description>米トランプ政権は、報道機関とOpenAIの間で争われている一連の著作権訴訟に意見を表明し、パブリッシャーのコンテンツを使ったAIモデルの学習はフェアユースに当たるとするOpenAIの主張を支持した。 — CNET Japan / score: 75 (米政府のOpenAI著作権訴訟支持に関する動向)</description>
 </item>
 <item>
 <title>[75] AWS、新たな太平洋海底ケーブル「Sta'O'Nuk」発表。420Tbps、2029年に稼働へ。集中リスク排除のため新たな陸揚げ拠点を採用</title>
@@ -773,38 +805,6 @@
 <pubDate>Sun, 30 Aug 2026 15:07:47 +0000</pubDate>
 <category>Publickey</category>
 <description>JetBrainsは、ローカルで動作するAIコーディングエージェント「Junie Local」の提供開始を発表しました。 Junie Localはその名称の通り完全にローカルマシン上で動作し、API使用料やモデル使用料などは一切不要。ソフト... — Publickey / score: 75 (ローカル動作するJetBrains製AIエージェント登場)</description>
-</item>
-<item>
-<title>[75] Amazon Kinesis Data Streams announces streaming tables, delivering data to Apache Iceberg tables on Amazon S3 Tables</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/08/kinesis/data-delivery-s3-tables</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/08/kinesis/data-delivery-s3-tables</guid>
-<pubDate>Fri, 28 Aug 2026 23:34:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Amazon Kinesis Data Streams introduces streaming tables, a new fully serverless capability that continuously delivers data from Kinesis streams to Amazon S3 Tables in Apache Iceberg format. Streaming tables eliminate the need to build and operate self-managed Iceberg delivery pipelines, reducing data delivery costs by up to 50%. Intelligent inline compaction eliminates the small file problem and keeps query performance predictable, reducing downstream query costs by up to 30%. Amazon Kinesis Dat — AWS What's New / score: 75 (Kinesis Data StreamsのS3 Tables対応)</description>
-</item>
-<item>
-<title>[75] Our decision on Cursor following its acquisition by SpaceX</title>
-<link>https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex</link>
-<guid isPermaLink="true">https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex</guid>
-<pubDate>Fri, 28 Aug 2026 06:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX. — OpenAI News / score: 75 (Cursor買収に伴うOpenAIの契約終了。)</description>
-</item>
-<item>
-<title>[75] Breaking Claude Code Opus 5 Auto Mode</title>
-<link>https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/</link>
-<guid isPermaLink="true">https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/</guid>
-<pubDate>Thu, 27 Aug 2026 22:50:25 +0000</pubDate>
-<category>Simon Willison</category>
-<description>Breaking Claude Code Opus 5 Auto Mode Anthropic are putting a great deal of faith in Claude Code's auto mode for protecting their coding agent users against prompt injection attacks. They recently made that the default and have made bold claims about its effectiveness. Johann Rehberger is one of the most credible prompt injection researchers active today. He found an attack against auto mode which he claims works 80% of the time, by tricking Claude Code into downloading and uncompressing a zip a — Simon Willison / score: 75 (Claude Codeの自動モードとプロンプトインジェクションの脆弱性)</description>
-</item>
-<item>
-<title>[75] DuckDBの開発元であるDuckLabsがAWS子会社になると発表。DuckDBはオープンソースのMITライセンスを維持</title>
-<link>https://www.publickey1.jp/blog/26/duckdbducklabsawsduckdbmit.html</link>
-<guid isPermaLink="true">https://www.publickey1.jp/blog/26/duckdbducklabsawsduckdbmit.html</guid>
-<pubDate>Thu, 27 Aug 2026 15:55:49 +0000</pubDate>
-<category>Publickey</category>
-<description>DuckDBの開発元であるDuckLabsは、来月（2026年9月）初旬にAWSの子会社となる予定であることを発表しました（DuckLabsの発表。AWSの発表） Today, @ducklabs_com is joining @awscl... — Publickey / score: 75 (DuckDBのAWS買収は大きな業界ニュース)</description>
 </item>
 </channel>
 </rss>
