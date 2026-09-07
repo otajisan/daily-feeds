@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sun, 06 Sep 2026 22:07:56 +0000</lastBuildDate>
+<lastBuildDate>Mon, 07 Sep 2026 00:28:02 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「V8」にゼロデイ脆弱性、「Google Chrome」に今週2回目のセキュリティアップデート／すでに悪用を確認。Windows環境にはv152.0.7977.82/.83が展開中</title>
@@ -231,14 +231,6 @@
 <description>Claude Fable 5.1 is generally available on AWS and brings Anthropic's most capable frontier model to all customers. Fable 5.1 delivers frontier intelligence for ambitious tasks across coding, scientific research, and enterprise workflows. A clear improvement over Claude Fable 5, Fable 5.1 is a step up in intelligence on the hardest reasoning tasks, providing better judgement on ambiguous work and fewer confident wrong answers. Claude Mythos 5.1, the same underlying model as Claude Fable 5.1 with — AWS What's New / score: 85 (新AIモデルがAWS上で一般提供開始という重要ニュース)</description>
 </item>
 <item>
-<title>[85] Financially Motivated Threat Actor BREEZE COMET Targets Brazil</title>
-<link>https://cloud.google.com/blog/topics/threat-intelligence/financially-motivated-threat-actor-breeze-comet-targets-brazil/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/topics/threat-intelligence/financially-motivated-threat-actor-breeze-comet-targets-brazil/</guid>
-<pubDate>Tue, 01 Sep 2026 14:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>Introduction Beginning in 2024 Mandiant investigated a string of compromises affecting Brazilian financial services, retail, and eCommerce organizations. Google Threat Intelligence Group (GTIG) tracks this activity as BREEZE COMET (formerly UNC5669), a financially motivated threat actor specializing in manipulating payment systems and banking software in Brazil to conduct fraudulent transfers. This activity overlaps with operations publicly reported as Plump Spider and SHADOW-AETHER-064 . In thi — Google Cloud Blog / score: 85 (金融機関を狙う脅威アクターの調査とセキュリティ情報)</description>
-</item>
-<item>
 <title>[85] Path to Astra: critical capabilities and frontier safeguards</title>
 <link>https://openai.com/index/path-to-astra</link>
 <guid isPermaLink="true">https://openai.com/index/path-to-astra</guid>
@@ -279,6 +271,14 @@
 <description>Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models. — OpenAI News / score: 85 (カスタム推移チップの業界をリードする性能発表)</description>
 </item>
 <item>
+<title>[80] GitHub Copilot、一部AIモデルのサポートを10月2日に終了</title>
+<link>https://codezine.jp/article/detail/29584</link>
+<guid isPermaLink="true">https://codezine.jp/article/detail/29584</guid>
+<pubDate>Sun, 06 Sep 2026 23:00:00 +0000</pubDate>
+<category>CodeZine</category>
+<description> — CodeZine / score: 80 (GitHub Copilotの一部AIモデルサポート終了)</description>
+</item>
+<item>
 <title>[80] ChatGPT、Claude、Grokで同時に障害　復旧済み</title>
 <link>https://japan.cnet.com/article/35252276/</link>
 <guid isPermaLink="true">https://japan.cnet.com/article/35252276/</guid>
@@ -317,14 +317,6 @@
 <pubDate>Thu, 03 Sep 2026 01:45:00 +0000</pubDate>
 <category>CNET Japan</category>
 <description>Googleは9月2日（米国時間）、AIモデル「Gemini 3.8 Flash」を発表した。3週間前の「Gemini 3.7 Flash」に続く新モデルで、Flash系の刷新は6週間で3度目になる。推論とコーディングの性能を引き上げる一方、速度と料金は3.7 Flashから変えていない。ただし料金は年内限りの導入価格で、2027年1月には引き上げる。 — CNET Japan / score: 80 (Googleの新しいAIモデルGemini 3.8 Flash発表)</description>
-</item>
-<item>
-<title>[80] Getting started with Mantis, our open-source bug finding-and-fixing harness</title>
-<link>https://cloud.google.com/blog/products/identity-security/getting-started-with-the-mantis-harness-to-find-and-fix-bugs/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/products/identity-security/getting-started-with-the-mantis-harness-to-find-and-fix-bugs/</guid>
-<pubDate>Wed, 02 Sep 2026 16:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>AI models have clearly proven their ability to discover and exploit vulnerabilities without much, if any, human assistance. To help defenders gain the advantage with AI, we built the Mantis harness to automate the discovery, triage, reproduction, and patching of software vulnerabilities. Available to all as an open-source framework, Mantis is part of Google’s internal approach to find and fix vulnerabilities at machine-speed. It creates a more effective scalable, context-aware repository analysi — Google Cloud Blog / score: 80 (AIを活用したオープンソースの脆弱性発見ツール)</description>
 </item>
 <item>
 <title>[80] AWS Lambda now supports SnapStart for container image functions</title>
@@ -423,20 +415,20 @@
 <description>GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance. — OpenAI News / score: 80 (新型開発モデルのリリースによる性能向上)</description>
 </item>
 <item>
-<title>[80] RISC-V is now officially supported by CPython!</title>
-<link>https://blog.python.org/2026/08/riscv-now-officially-supported/</link>
-<guid isPermaLink="true">https://blog.python.org/2026/08/riscv-now-officially-supported/</guid>
-<pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-<category>Python Insider</category>
-<description>I’m happy to announce that RISC-V platforms are now officially supported by CPython. 🎉 🚀 — Python Insider / score: 80 (CPythonでのRISC-V公式サポート追加)</description>
-</item>
-<item>
-<title>[75] Claude・Cursor・Devin・Manus… AIエージェント14製品、社内システムを触らせて事故らないのはどれ？【中小企業の導入判断ガイド】</title>
+<title>[75] AIエージェント14製品を徹底比較｜暴走せず社内業務を任せられるのは？ Claude・Cursor・Devin・Manus…【中小企業の導入判断ガイド】</title>
 <link>https://qiita.com/songchong/items/94df4fbdeabaaf8f8ef5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
 <guid isPermaLink="true">https://qiita.com/songchong/items/94df4fbdeabaaf8f8ef5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
 <pubDate>Sun, 06 Sep 2026 16:02:59 +0000</pubDate>
 <category>Qiita 人気記事</category>
 <description>「AIに社内システムを触らせて、事故は起きないのか？」 「エンジニア専用？ 一般業務にも使えるのか？」 「操作ミスは戻せるのか？ 費用は青天井にならないか？」 1. 業務視点での結論：AIエージェント 14製品の総合比較マトリクス 「AIエージェントを導入すれば、毎... — Qiita 人気記事 / score: 75 (AIエージェント14製品の業務導入比較ガイド)</description>
+</item>
+<item>
+<title>[75] 攻撃者視点で読み解く、医療機関の「閉域網神話」の壊れ方 - blog of morioka12</title>
+<link>https://scgajge12.hatenablog.com/entry/closed_network_security</link>
+<guid isPermaLink="true">https://scgajge12.hatenablog.com/entry/closed_network_security</guid>
+<pubDate>Sun, 06 Sep 2026 09:34:08 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>はじめに こんにちは、morioka12 です。 本稿では、医療機関の閉域網 (Closed Network) を攻撃者の視点から読み解き、「閉域網だから安全」という神話がどこで壊れるのかを紹介します。工場や港湾の事例も、同じ壊れ方を映す鏡として扱います。 先に結論です。「閉域網だから安全」という認識は誤りといえます。 閉域網... — はてなブックマーク テクノロジー / score: 75 (閉域網のセキュリティリスクに関する重要な警鐘)</description>
 </item>
 <item>
 <title>[75] Apple、Intel MacアプリのRosettaサポート終了時期を発表</title>
@@ -797,6 +789,14 @@
 <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
 <category>Inside Java</category>
 <description>Oracle Jipher 10 packages a FIPS 140-3 validated OpenSSL cryptographic module, making cryptographic services available through the standard Java Cryptography Architecture (JCA) framework. — Inside Java / score: 75 (Java向けFIPS 140-3暗号モジュールの発表)</description>
+</item>
+<item>
+<title>[70] Research acceleration: The view inside OpenAI</title>
+<link>https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/</guid>
+<pubDate>Sun, 06 Sep 2026 23:57:40 +0000</pubDate>
+<category>Simon Willison</category>
+<description>Research acceleration: The view inside OpenAI Apparently today is RSI day at OpenAI, for Recursive Self-Improvement - I think it's their new AGI. Both this piece and the new essay An Alien Mind (by Chief Scientist Jakub Pachocki) talk about it, and this one doesn't even bother to expand the acronym. Included are details on how OpenAI's own research team are using coding agents. Like pretty much everyone else 2026 has been the year that agentic engineering really took off at OpenAI, best illustra — Simon Willison / score: 70 (OpenAI内部のAI研究アクセラレーションの動向)</description>
 </item>
 <item>
 <title>[70] コスト削減のためにAIエージェントの出力を短くすると逆にコストがかさむ事例をGitHubが公開、うまくコスト効率を向上するにはどうすればいいのか</title>
