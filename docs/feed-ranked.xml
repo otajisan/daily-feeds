@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 07 Sep 2026 10:10:03 +0000</lastBuildDate>
+<lastBuildDate>Mon, 07 Sep 2026 12:14:26 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「V8」にゼロデイ脆弱性、「Google Chrome」に今週2回目のセキュリティアップデート／すでに悪用を確認。Windows環境にはv152.0.7977.82/.83が展開中</title>
@@ -135,6 +135,14 @@
 <description>Next.js is moving the August security release forward to August 25, 2026. — Next.js Blog / score: 90 (Next.jsセキュリティリリースの日程前倒し)</description>
 </item>
 <item>
+<title>[85] GPT-6 AstraがAIコーディング性能でトップ級の67点、圧倒的なトークン効率を示すもFable 5.1には届かず</title>
+<link>https://gigazine.net/news/20260907-artificial-analysis-gpt-6-astra/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20260907-artificial-analysis-gpt-6-astra/</guid>
+<pubDate>Mon, 07 Sep 2026 11:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>AIモデルの性能を独自に評価しているArtificial Analysisが、OpenAIの「GPT-6 Astra」のベンチマーク結果を公開しました。コーディングエージェントとしての性能を測る「Artificial Analysis Coding Agent Index」でGPT-6 Astraは67点を記録し、Claude Opus 5やFable 5、Muse Spark 1.3とほぼ同等の水準に達した一方、首位のFable 5.1が記録した70点には届きませんでした。 続きを読む... — GIGAZINE / score: 85 (主要AIモデルのベンチマーク性能比較)</description>
+</item>
+<item>
 <title>[85] 「Firefox 155.0.1」が公開、特定CSSを用いたWebページの応答不能問題などに対処／</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2138603.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2138603.html</guid>
@@ -154,9 +162,9 @@
 <title>[85] OpenAI製エージェント約3700体が放置されていた過疎Wikiサイトを「秘密の情報共有掲示板」として利用、約1万8000件の投稿で答えやサンドボックス回避方法を共有</title>
 <link>https://gigazine.net/news/20260907-openai-agents-german-wiki-incident/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260907-openai-agents-german-wiki-incident/</guid>
-<pubDate>Mon, 07 Sep 2026 04:31:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>OpenAIのAIエージェントが実験環境の外にアクセスし、ドイツ語のWikiサイトを利用して他のエージェントと情報を共有していた事案について、OpenAIが自社のエージェントによるものだったことを認めました。今回の事案を調査したシドニー・フォン・アーク氏らは2026年9月4日、調査結果をまとめたウェブサイト「collusion.wiki」を公開しました。 続きを読む... — GIGAZINE / score: 85 (AIエージェント間の自律的な情報共有事案)</description>
+<pubDate>Mon, 07 Sep 2026 05:15:47 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>OpenAIのAIエージェントが実験環境の外にアクセスし、ドイツ語のWikiサイトを利用して他のエージェントと情報を共有していた事案について、OpenAIが自社のエージェントによるものだったことを認めました。今回の事案を調査したシドニー・フォン・アーク氏らは2026年9月4日、調査結果をまとめたウェブサイト「collusion.w... — はてなブックマーク テクノロジー / score: 85 (AIエージェント間の自律的な情報共有事案)</description>
 </item>
 <item>
 <title>[85] 解凍・圧縮ソフト「7-Zip」がv26.03に、「MotW」を引き継がない脆弱性などを修正／Joliet形式のISOイメージと複合ドキュメント書庫のサポートも改善</title>
@@ -165,14 +173,6 @@
 <pubDate>Mon, 07 Sep 2026 02:10:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>オープンソースの解凍・圧縮ソフト「7-Zip」の最新版v26.03が、9月3日に正式公開された。6月25日のv26.02に続くマイナーアップデートとなる。 — 窓の杜 / score: 85 (7-Zipの脆弱性修正を含むアップデート)</description>
-</item>
-<item>
-<title>[85] 「パッチを全部当てる」時代の終焉　Check PointのCTOが語る、AI時代の脆弱性管理</title>
-<link>https://www.itmedia.co.jp/enterprise/articles/2609/07/news015.html</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/enterprise/articles/2609/07/news015.html</guid>
-<pubDate>Sun, 06 Sep 2026 23:44:08 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Anthropicが2026年に発表した「Claude Mythos」は、サイバーセキュリティ業界の風景を一変させた。AIによる脆弱（ぜいじゃく）性の発見能力が向上したことで、業界全体に「脆弱性が爆発的に急増する」という懸念が広がった。もちろん、Mythosの能力は脆弱性発見にとどまらず、エクスプロイト、攻撃にもまたがるものだ。 ... — はてなブックマーク テクノロジー / score: 85 (AI時代の脆弱性管理とセキュリティへの影響)</description>
 </item>
 <item>
 <title>[85] 無料メーラー「Thunderbird」v155.0が公開 〜OAuth関連の機能を強化／30件の脆弱性も修正</title>
@@ -335,12 +335,20 @@
 <description>Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models. — OpenAI News / score: 85 (カスタム推移チップの業界をリードする性能発表)</description>
 </item>
 <item>
+<title>[80] DeepSeekが内モンゴル自治区にデータセンターを建設してHuawei製AIチップを16万基導入予定との報道、中国製GPUでAIを開発・運用する動きが加速</title>
+<link>https://gigazine.net/news/20260907-deepseek-data-center-inner-mongolia/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20260907-deepseek-data-center-inner-mongolia/</guid>
+<pubDate>Mon, 07 Sep 2026 10:15:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>中国のAI企業であるDeepSeekが内モンゴル自治区でデータセンター建設計画を進めていることがBloombergによって報じられています。データセンターにはHuawei製AIチップ「Ascend 950DT」が最大16万基導入される予定とのことです。 続きを読む... — GIGAZINE / score: 80 (中国製AIチップを活用した大規模DC建設)</description>
+</item>
+<item>
 <title>[80] GitHub Copilotが複数AIモデルを自動で使い分ける「HydraFusion」を公開、TerminalBench 2.1でClaude Opus 5比コスト67％減・スコア4.9ポイント向上</title>
 <link>https://gigazine.net/news/20260907-github-copilot-hydrafusion/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260907-github-copilot-hydrafusion/</guid>
-<pubDate>Mon, 07 Sep 2026 06:10:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>GitHubは2026年9月4日、GitHub Copilotでタスクに応じて複数のAIモデルを使い分ける「Project HydraFusion」を研究プレビューとして発表しました。GitHubによる評価では、TerminalBench 2.1でClaude Opus 5と比べて推定コストを67％削減しながら正しく完了できたタスクの割合が4.9ポイント高くなったとのことです。 続きを読む... — GIGAZINE / score: 80 (GitHub Copilotのマルチモデル自動切替)</description>
+<pubDate>Mon, 07 Sep 2026 07:04:38 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>GitHubは2026年9月4日、GitHub Copilotでタスクに応じて複数のAIモデルを使い分ける「Project HydraFusion」を研究プレビューとして発表しました。GitHubによる評価では、TerminalBench 2.1でClaude Opus 5と比べて推定コストを67％削減しながら正しく完了できたタスクの割合が4.9ポイント高くなったとのことです。 Proj... — はてなブックマーク テクノロジー / score: 80 (GitHub Copilotのマルチモデル自動切替)</description>
 </item>
 <item>
 <title>[80] GitHub Copilot、GPT-6 Astraが一般提供開始</title>
@@ -487,12 +495,20 @@
 <description>Notable Changes [ b12bcc9ae1 ] - (SEMVER-MINOR) async_hooks : add using scopes to AsyncLocalStorage (Stephen Belanger) #61674 [ e2eb88b36b ] - (SEMVER-MINOR) buffer : add end parameter (Robert Nagy) #62390 [ 1fefdda18e ] - crypto : update root certificates to NSS 3.125 (Node.js GitHub Bot) #64746 [ 4a158cf1ab ] - doc : add MikeMcC399 as collaborator (Mike McCready) #64656 [ d4cafce076 ] - (SEMVER-MINOR) lib,permission : add permission.drop (Rafael Gonzaga) #62672 [ b3cfb55267 ] - (SEMVER-MINOR)  — Node.js リリース / score: 80 (Node.js LTSの重要な機能追加)</description>
 </item>
 <item>
-<title>[80] Advancing price-performance for developers with GPT‑5.6 in Kiro</title>
-<link>https://openai.com/index/gpt-5-6-in-kiro</link>
-<guid isPermaLink="true">https://openai.com/index/gpt-5-6-in-kiro</guid>
-<pubDate>Mon, 24 Aug 2026 12:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance. — OpenAI News / score: 80 (新型開発モデルのリリースによる性能向上)</description>
+<title>[75] Appleシリコン搭載Macで動作するLinux「Asahi Linux」がM3チップ搭載Macをサポート</title>
+<link>https://taisy0.com/2026/09/07/227163.html</link>
+<guid isPermaLink="true">https://taisy0.com/2026/09/07/227163.html</guid>
+<pubDate>Mon, 07 Sep 2026 11:39:40 +0000</pubDate>
+<category>気になる、記になる…</category>
+<description>Appleシリコンを搭載したMacで動作するLinuxの開発プロジェクト「Asahi Linux」が、M3搭載Macを正式にサポートしました。 「Asahi Linux」は、Appleシリコンを搭載したMacでLinux […] — 気になる、記になる… / score: 75 (AppleシリコンMac向けLinuxのハードウェアサポート拡大)</description>
+</item>
+<item>
+<title>[75] 「Word」「Outlook」のテキスト予測機能、既定でOFFに ～Microsoftが方針を転換／機能自体は存続</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2138749.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2138749.html</guid>
+<pubDate>Mon, 07 Sep 2026 10:15:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Microsoftは9月1日（現地時間）、「Microsoft Word」と「Microsoft Outlook」のテキスト予測を既定で無効化すると発表した。機能そのものが廃止されるわけではなく、設定画面からいつでも有効化できる。 — 窓の杜 / score: 75 (Office製品のデフォルト機能変更に関する方針)</description>
 </item>
 <item>
 <title>[75] NVIDIAのJensen Huang氏「AGIは到来した」、OpenAIからも「AGI時代に入りつつある」との声</title>
@@ -581,14 +597,6 @@
 <pubDate>Sat, 05 Sep 2026 08:00:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 75 (GitHub ActionsのREST API等の機能強化)</description>
-</item>
-<item>
-<title>[75] 大阪高裁で起きたMicrosoft Teams チーム作成時の大量誤登録についてまとめてみた - piyolog</title>
-<link>https://piyolog.hatenadiary.jp/entry/2026/09/05/103543</link>
-<guid isPermaLink="true">https://piyolog.hatenadiary.jp/entry/2026/09/05/103543</guid>
-<pubDate>Sat, 05 Sep 2026 01:51:53 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>2026年9月4日、大阪高等裁判所は、特定の事件に関するMicrosoft Teamsのチームを作成する際に誤って約6000アカウントを登録し、通知からチームにアクセスした場合にメンバーのユーザー名やメールアドレスが一時的に相互に確認できる状態になっていたと公表し、謝罪しました。ここでは関連する情報をまとめます。 Teamsチ... — はてなブックマーク テクノロジー / score: 75 (Teams大規模誤登録事故の公式公表まとめ)</description>
 </item>
 <item>
 <title>[75] Create your best tracks yet with Lyria 3.5 in Gemini.</title>
@@ -797,14 +805,6 @@
 <pubDate>Fri, 28 Aug 2026 23:34:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Amazon Kinesis Data Streams introduces streaming tables, a new fully serverless capability that continuously delivers data from Kinesis streams to Amazon S3 Tables in Apache Iceberg format. Streaming tables eliminate the need to build and operate self-managed Iceberg delivery pipelines, reducing data delivery costs by up to 50%. Intelligent inline compaction eliminates the small file problem and keeps query performance predictable, reducing downstream query costs by up to 30%. Amazon Kinesis Dat — AWS What's New / score: 75 (Kinesis Data StreamsのS3 Tables対応)</description>
-</item>
-<item>
-<title>[75] Our decision on Cursor following its acquisition by SpaceX</title>
-<link>https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex</link>
-<guid isPermaLink="true">https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex</guid>
-<pubDate>Fri, 28 Aug 2026 06:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX. — OpenAI News / score: 75 (Cursor買収に伴うOpenAIの契約終了。)</description>
 </item>
 </channel>
 </rss>
