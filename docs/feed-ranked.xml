@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 07 Sep 2026 14:09:58 +0000</lastBuildDate>
+<lastBuildDate>Mon, 07 Sep 2026 16:09:39 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「V8」にゼロデイ脆弱性、「Google Chrome」に今週2回目のセキュリティアップデート／すでに悪用を確認。Windows環境にはv152.0.7977.82/.83が展開中</title>
@@ -135,20 +135,20 @@
 <description>Next.js is moving the August security release forward to August 25, 2026. — Next.js Blog / score: 90 (Next.jsセキュリティリリースの日程前倒し)</description>
 </item>
 <item>
+<title>[85] 巨大オンラインゲーム「EVE Online」。ゲームを支える240万行のPython 2.7のコードをPython 3へ移行すると発表</title>
+<link>https://www.publickey1.jp/blog/26/eve_online240python_27python_3.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/eve_online240python_27python_3.html</guid>
+<pubDate>Mon, 07 Sep 2026 16:09:10 +0000</pubDate>
+<category>Publickey</category>
+<description>宇宙を舞台にした世界最大級の大規模オンラインゲーム「EVE Online」が、ゲームを支える240万行のPythonコードをPython 3に移行すると発表しました。 We have officially started our codeb... — Publickey / score: 85 (大規模Python 2.7移行という歴史的偉業)</description>
+</item>
+<item>
 <title>[85] GPT-6 AstraがAIコーディング性能でトップ級の67点、圧倒的なトークン効率を示すもFable 5.1には届かず</title>
 <link>https://gigazine.net/news/20260907-artificial-analysis-gpt-6-astra/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260907-artificial-analysis-gpt-6-astra/</guid>
 <pubDate>Mon, 07 Sep 2026 11:00:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>AIモデルの性能を独自に評価しているArtificial Analysisが、OpenAIの「GPT-6 Astra」のベンチマーク結果を公開しました。コーディングエージェントとしての性能を測る「Artificial Analysis Coding Agent Index」でGPT-6 Astraは67点を記録し、Claude Opus 5やFable 5、Muse Spark 1.3とほぼ同等の水準に達した一方、首位のFable 5.1が記録した70点には届きませんでした。 続きを読む... — GIGAZINE / score: 85 (主要AIモデルのベンチマーク性能比較)</description>
-</item>
-<item>
-<title>[85] M365 Copilotでも「GPT-6 Astra」利用可能に　「Fable 5.1」も可　Work IQと合わせて「より的確な応答」に</title>
-<link>https://www.itmedia.co.jp/aiplus/article/2609/07/2000001217/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2609/07/2000001217/</guid>
-<pubDate>Mon, 07 Sep 2026 08:18:12 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>米Microsoftは9月4日（現地時間、以下同）、米OpenAIの新モデル「GPT-6 Astra」を、「Microsoft 365 Copilot」（以下、M365 Copilot）のエージェント機能「Copilot Cowork」とエージェント構築ツール「Copilot Studio」で同日から提供すると発表した。より大規模なタスクを任せられるようになり、作業を細かく分けて指示... — はてなブックマーク テクノロジー / score: 85 (主要AIモデルのプラットフォーム統合と新機能)</description>
 </item>
 <item>
 <title>[85] 「Firefox 155.0.1」が公開、特定CSSを用いたWebページの応答不能問題などに対処／</title>
@@ -343,6 +343,14 @@
 <description>Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models. — OpenAI News / score: 85 (カスタム推移チップの業界をリードする性能発表)</description>
 </item>
 <item>
+<title>[80] HTMX 4.0正式リリース。内部実装がXHRからfetchに移行しStreaming HTMLが可能に、属性はデフォルトで子要素に継承されないように変更など</title>
+<link>https://www.publickey1.jp/blog/26/htmx_40xhrfetchstreaming_html.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/htmx_40xhrfetchstreaming_html.html</guid>
+<pubDate>Mon, 07 Sep 2026 15:39:27 +0000</pubDate>
+<category>Publickey</category>
+<description>HTMLに属性を追加するだけで、Webページにサーバと連動した動的なアプリケーションの機能を追加できるJavaScriptライブラリ「HTMX」の最新バージョンとなる「HTMX 4.0」正式版のリリースが発表されました。 very happ... — Publickey / score: 80 (HTMX 4.0のメジャーリリースとFetch移行)</description>
+</item>
+<item>
 <title>[80] GPT-6 Astraの3Dモデリング性能を示す作例が続々登場、短い指示でBlenderを巧みに操作して3D作品を作れる</title>
 <link>https://gigazine.net/news/20260907-gpt-6-astra-3d-modeling/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260907-gpt-6-astra-3d-modeling/</guid>
@@ -362,9 +370,9 @@
 <title>[80] GitHub Copilotが複数AIモデルを自動で使い分ける「HydraFusion」を公開、TerminalBench 2.1でClaude Opus 5比コスト67％減・スコア4.9ポイント向上</title>
 <link>https://gigazine.net/news/20260907-github-copilot-hydrafusion/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260907-github-copilot-hydrafusion/</guid>
-<pubDate>Mon, 07 Sep 2026 07:04:38 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>GitHubは2026年9月4日、GitHub Copilotでタスクに応じて複数のAIモデルを使い分ける「Project HydraFusion」を研究プレビューとして発表しました。GitHubによる評価では、TerminalBench 2.1でClaude Opus 5と比べて推定コストを67％削減しながら正しく完了できたタスクの割合が4.9ポイント高くなったとのことです。 Proj... — はてなブックマーク テクノロジー / score: 80 (GitHub Copilotのマルチモデル自動切替)</description>
+<pubDate>Mon, 07 Sep 2026 06:10:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>GitHubは2026年9月4日、GitHub Copilotでタスクに応じて複数のAIモデルを使い分ける「Project HydraFusion」を研究プレビューとして発表しました。GitHubによる評価では、TerminalBench 2.1でClaude Opus 5と比べて推定コストを67％削減しながら正しく完了できたタスクの割合が4.9ポイント高くなったとのことです。 続きを読む... — GIGAZINE / score: 80 (GitHub Copilotのマルチモデル自動切替)</description>
 </item>
 <item>
 <title>[80] GitHub Copilot、GPT-6 Astraが一般提供開始</title>
@@ -373,6 +381,14 @@
 <pubDate>Mon, 07 Sep 2026 04:00:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 80 (主要な開発者向けAIツールの一般提供開始)</description>
+</item>
+<item>
+<title>[80] 警察庁「パスワードだけの認証はもう限界です」パスキー導入検討を呼びかけ | ScanNetSecurity</title>
+<link>https://scan.netsecurity.ne.jp/article/2026/09/07/56139.html</link>
+<guid isPermaLink="true">https://scan.netsecurity.ne.jp/article/2026/09/07/56139.html</guid>
+<pubDate>Mon, 07 Sep 2026 03:49:26 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>警察庁「パスワードだけの認証はもう限界です」パスキー導入検討を呼びかけ | ScanNetSecurity 警察庁は9月1日、サイバー警察局便りR8Vol.12「パスワードだけの認証はもう限界です」を公開した。 — はてなブックマーク テクノロジー / score: 80 (警察庁によるパスキー導入の強い推奨と注意喚起)</description>
 </item>
 <item>
 <title>[80] GitHub Copilot、一部AIモデルのサポートを10月2日に終了</title>
@@ -511,6 +527,14 @@
 <description>Notable Changes [ b12bcc9ae1 ] - (SEMVER-MINOR) async_hooks : add using scopes to AsyncLocalStorage (Stephen Belanger) #61674 [ e2eb88b36b ] - (SEMVER-MINOR) buffer : add end parameter (Robert Nagy) #62390 [ 1fefdda18e ] - crypto : update root certificates to NSS 3.125 (Node.js GitHub Bot) #64746 [ 4a158cf1ab ] - doc : add MikeMcC399 as collaborator (Mike McCready) #64656 [ d4cafce076 ] - (SEMVER-MINOR) lib,permission : add permission.drop (Rafael Gonzaga) #62672 [ b3cfb55267 ] - (SEMVER-MINOR)  — Node.js リリース / score: 80 (Node.js LTSの重要な機能追加)</description>
 </item>
 <item>
+<title>[75] AWS Weekly Roundup: Claude Fable 5.1 on AWS, Amazon Linux 2027 preview, AWS Certified AI Business Strategist, and more (September 7, 2026)</title>
+<link>https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-fable-5-1-on-aws-amazon-linux-2027-preview-aws-certified-ai-business-strategist-and-more-september-7-2026/</link>
+<guid isPermaLink="true">https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-fable-5-1-on-aws-amazon-linux-2027-preview-aws-certified-ai-business-strategist-and-more-september-7-2026/</guid>
+<pubDate>Mon, 07 Sep 2026 14:24:08 +0000</pubDate>
+<category>AWS News Blog</category>
+<description>Last week, Claude Fable 5.1 became available on AWS. According to Anthropic, Claude Fable 5.1 delivers frontier intelligence for ambitious tasks across coding, scientific research, and enterprise workflows. Claude Fable 5.1 is built for long-running, high-stakes work that runs for hours and spans many applications. It can own more of a software project on its […] — AWS News Blog / score: 75 (AWS関連の最新アップデートとプレビュー情報)</description>
+</item>
+<item>
 <title>[75] Appleシリコン搭載Macで動作するLinux「Asahi Linux」がM3チップ搭載Macをサポート</title>
 <link>https://taisy0.com/2026/09/07/227163.html</link>
 <guid isPermaLink="true">https://taisy0.com/2026/09/07/227163.html</guid>
@@ -525,6 +549,14 @@
 <pubDate>Mon, 07 Sep 2026 10:15:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Microsoftは9月1日（現地時間）、「Microsoft Word」と「Microsoft Outlook」のテキスト予測を既定で無効化すると発表した。機能そのものが廃止されるわけではなく、設定画面からいつでも有効化できる。 — 窓の杜 / score: 75 (Office製品のデフォルト機能変更に関する方針)</description>
+</item>
+<item>
+<title>[75] Railsフレームワークを本格的にRactorに対応させるShopifyの取り組み（翻訳）｜TechRacho by BPS株式会社</title>
+<link>https://techracho.bpsinc.jp/hachi8833/2026_09_07/159675</link>
+<guid isPermaLink="true">https://techracho.bpsinc.jp/hachi8833/2026_09_07/159675</guid>
+<pubDate>Mon, 07 Sep 2026 08:39:38 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>概要 CC BY-NC-SA 4.0 International Deedに基づいて翻訳・公開いたします。 英語記事: Bringing Rails into the Ractor-age | Rails at Scale 原文公開日: 2026年08月11日 原著者: Edouard Chin CC BY-NC-SA 4.0 Deed | 表示 - 非営利 - 継承 4.0 国際 | Creative Commons 日本語タイトルは内容に即したものにしました... — はてなブックマーク テクノロジー / score: 75 (RailsのRactor対応に関する技術的取り組み)</description>
 </item>
 <item>
 <title>[75] NVIDIAのJensen Huang氏「AGIは到来した」、OpenAIからも「AGI時代に入りつつある」との声</title>
@@ -549,6 +581,14 @@
 <pubDate>Mon, 07 Sep 2026 05:45:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Microsoftは9月3日（現地時間）、新しい音声認識AIモデル「MAI-Transcribe-2」を発表した。同社はこれを“世界でもっとも高速・高精度で安価な音声認識モデル”とうたっており、「Gemini 3.5 Transcribe」や「GPT-Transcribe」、「Whisper V3-Large」、「Scribe v2」といった競合モデルを上回るとしている。 — 窓の杜 / score: 75 (マイクロソフトの高精度な新型音声認識モデル)</description>
+</item>
+<item>
+<title>[75] GMKtec、192GBメモリで300B級LLMをローカル推論するミニPC「EVO-X5 Pro」</title>
+<link>https://pc.watch.impress.co.jp/docs/news/2138676.html</link>
+<guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2138676.html</guid>
+<pubDate>Mon, 07 Sep 2026 05:42:53 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>GMKtec、192GBメモリで300B級LLMをローカル推論するミニPC「EVO-X5 Pro」 — はてなブックマーク テクノロジー / score: 75 (192GBメモリ搭載の強力なローカルLLM向けミニPC)</description>
 </item>
 <item>
 <title>[75] Microsoftが開発者向けのWindows 11環境「Project Zenith」を発表、環境構築の手間を減らし300億パラメータ超のAIモデルもローカル実行</title>
@@ -581,14 +621,6 @@
 <pubDate>Sun, 06 Sep 2026 16:02:59 +0000</pubDate>
 <category>Qiita 人気記事</category>
 <description>「AIに社内システムを触らせて、事故は起きないのか？」 「エンジニア専用？ 一般業務にも使えるのか？」 「操作ミスは戻せるのか？ 費用は青天井にならないか？」 1. 業務視点での結論：AIエージェント 14製品の総合比較マトリクス 「AIエージェントを導入すれば、毎... — Qiita 人気記事 / score: 75 (AIエージェント14製品の業務導入比較ガイド)</description>
-</item>
-<item>
-<title>[75] 攻撃者視点で読み解く、医療機関の「閉域網神話」の壊れ方 - blog of morioka12</title>
-<link>https://scgajge12.hatenablog.com/entry/closed_network_security</link>
-<guid isPermaLink="true">https://scgajge12.hatenablog.com/entry/closed_network_security</guid>
-<pubDate>Sun, 06 Sep 2026 09:34:08 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>はじめに こんにちは、morioka12 です。 本稿では、医療機関の閉域網 (Closed Network) を攻撃者の視点から読み解き、「閉域網だから安全」という神話がどこで壊れるのかを紹介します。工場や港湾の事例も、同じ壊れ方をするので合わせて扱います。 先に結論です。「閉域網だから安全」という認識は誤りです。 閉域網が... — はてなブックマーク テクノロジー / score: 75 (閉域網のセキュリティリスクに関する重要な警鐘)</description>
 </item>
 <item>
 <title>[75] Apple、Intel MacアプリのRosettaサポート終了時期を発表</title>
@@ -773,38 +805,6 @@
 <pubDate>Mon, 31 Aug 2026 22:30:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Amazon DocumentDB (with MongoDB compatibility) now supports in-place major version upgrades (MVU) directly from engine versions 3.6 and 4.0 to version 8.0. This upgrade capability removes the need for intermediate version upgrades and allows you to upgrade your version 3.6 or 4.0 clusters while preserving existing data, configurations, and cluster settings. Upgrading to version 8.0 provides access to the latest security patches, performance improvements, and new developer capabilities. Major ver — AWS What's New / score: 75 (DocumentDBのメジャーバージョンアップ対応)</description>
-</item>
-<item>
-<title>[75] Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 processors are now generally available</title>
-<link>https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/</link>
-<guid isPermaLink="true">https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/</guid>
-<pubDate>Mon, 31 Aug 2026 19:53:34 +0000</pubDate>
-<category>AWS News Blog</category>
-<description>Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 are now generally available, delivering up to 25% better compute performance than R8g, ideal for databases, in-memory caches, and real-time analytics. — AWS News Blog / score: 75 (最新のGraviton5プロセッサ搭載インスタンス)</description>
-</item>
-<item>
-<title>[75] Amazon EC2 R9g and R9gd memory optimized instances are now available</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r9g-and-r9gd-memory-optimized-instances-are-now-available/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r9g-and-r9gd-memory-optimized-instances-are-now-available/</guid>
-<pubDate>Mon, 31 Aug 2026 18:08:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R9g and R9gd instances, powered by AWS Graviton5 processors, are generally available. AWS Graviton5 processors are the fifth generation of custom-designed CPUs, delivering the best price performance for memory-intensive workloads running on Amazon EC2. R9g instances are ideal for memory-intensive workloads including databases, in-memory caches, real-time big data analytics, Linux-based workloads including containerized and micro-service-b — AWS What's New / score: 75 (AWS Graviton5を搭載したEC2インスタンス提供開始)</description>
-</item>
-<item>
-<title>[75] AWS Weekly Roundup: Welcome DuckLabs to the team, Agentic Resource Discovery (ARD), and more (August 31, 2026)</title>
-<link>https://aws.amazon.com/blogs/aws/aws-weekly-roundup-welcome-ducklabs-to-the-team-agentic-resource-discovery-ard-and-more-august-31-2026/</link>
-<guid isPermaLink="true">https://aws.amazon.com/blogs/aws/aws-weekly-roundup-welcome-ducklabs-to-the-team-agentic-resource-discovery-ard-and-more-august-31-2026/</guid>
-<pubDate>Mon, 31 Aug 2026 14:45:25 +0000</pubDate>
-<category>AWS News Blog</category>
-<description>The news that interested me the most last week was the DuckLabs acquisition. AWS has signed a definitive agreement to acquire DuckLabs, the Amsterdam-based company behind DuckDB, the popular open source analytical database that runs in-process and executes SQL directly against files like Parquet, CSV, and JSON. DuckDB stays open source under its independent foundation […] — AWS News Blog / score: 75 (DuckDB買収を含むAWSの週次重要アップデート)</description>
-</item>
-<item>
-<title>[75] GitHub Copilotデスクトップアプリ、並列エージェント型ワークフローをターゲットに</title>
-<link>https://www.infoq.com/jp/news/2026/08/github-copilot-app/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-<guid isPermaLink="true">https://www.infoq.com/jp/news/2026/08/github-copilot-app/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-<pubDate>Mon, 31 Aug 2026 06:30:00 +0000</pubDate>
-<category>InfoQ Japan</category>
-<description>GitHubは、エージェントネイティブ開発のためのデスクトップ制御センターである「GitHub Copilot」アプリを発表した。これは、AIエージェントがより多くのコーディング作業を処理する一方で、エンジニアが主導権を握り続けることを目的としている。最近のコーディングエージェントの台頭によりデリバリーは高速化したものの、「ワークフローの断片化、コンテキスト切り替えの増加、エージェントが生成したコードのレビューに費やす時間の過多」といった問題も生じていると Mario Rodriguez氏はGitHubブログで述べている。 Copilotアプリは、これらのエージェントを不透明なバックグラウンドプロセスとして実行するのではなく、指示を出したり監視したり、既存のGitHubワークフローに連携させたりできる場として位置づけられている。 By Matt Saunders Translated by Takashi Kawase — InfoQ Japan / score: 75 (GitHub Copilotの新機能とエージェント型開発の方向性。)</description>
 </item>
 </channel>
 </rss>
