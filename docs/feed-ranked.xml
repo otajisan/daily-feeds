@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 07 Sep 2026 20:08:59 +0000</lastBuildDate>
+<lastBuildDate>Mon, 07 Sep 2026 22:08:46 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「V8」にゼロデイ脆弱性、「Google Chrome」に今週2回目のセキュリティアップデート／すでに悪用を確認。Windows環境にはv152.0.7977.82/.83が展開中</title>
@@ -138,9 +138,17 @@
 <title>[85] 巨大オンラインゲーム「EVE Online」。ゲームを支える240万行のPython 2.7のコードをPython 3へ移行すると発表</title>
 <link>https://www.publickey1.jp/blog/26/eve_online240python_27python_3.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/eve_online240python_27python_3.html</guid>
-<pubDate>Mon, 07 Sep 2026 20:08:35 +0000</pubDate>
+<pubDate>Mon, 07 Sep 2026 22:08:21 +0000</pubDate>
 <category>Publickey</category>
 <description>宇宙を舞台にした世界最大級の大規模オンラインゲーム「EVE Online」が、ゲームを支える240万行のPythonコードをPython 3に移行すると発表しました。 We have officially started our codeb... — Publickey / score: 85 (大規模Python 2.7移行という歴史的偉業)</description>
+</item>
+<item>
+<title>[85] 「使えるパスワードを片っ端から探せ」AI悪用が本格化、世界150超の組織が危機感</title>
+<link>https://ascii.jp/limit/group/ida/elem/000/004/432/4432678/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/limit/group/ida/elem/000/004/432/4432678/?rss</guid>
+<pubDate>Mon, 07 Sep 2026 22:00:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>AIを悪用したサイバー攻撃が現実の脅威になっている。約700のAIがHugging Faceへの攻撃に参加した事故も発生。OpenAIなど150超の組織が連携し、サイバー防御強化を呼びかけている。 — ASCII.jp / score: 85 (AI悪用サイバー攻撃の本格化と危機感)</description>
 </item>
 <item>
 <title>[85] GPT-6 AstraがAIコーディング性能でトップ級の67点、圧倒的なトークン効率を示すもFable 5.1には届かず</title>
@@ -519,6 +527,14 @@
 <description>Notable Changes [ b12bcc9ae1 ] - (SEMVER-MINOR) async_hooks : add using scopes to AsyncLocalStorage (Stephen Belanger) #61674 [ e2eb88b36b ] - (SEMVER-MINOR) buffer : add end parameter (Robert Nagy) #62390 [ 1fefdda18e ] - crypto : update root certificates to NSS 3.125 (Node.js GitHub Bot) #64746 [ 4a158cf1ab ] - doc : add MikeMcC399 as collaborator (Mike McCready) #64656 [ d4cafce076 ] - (SEMVER-MINOR) lib,permission : add permission.drop (Rafael Gonzaga) #62672 [ b3cfb55267 ] - (SEMVER-MINOR)  — Node.js リリース / score: 80 (Node.js LTSの重要な機能追加)</description>
 </item>
 <item>
+<title>[75] デジタルインフラ提供元のA/I Collectiveをアメリカ政府がテロリストに指定、どんな影響が出たのか？</title>
+<link>https://gigazine.net/news/20260908-autistici-inventati-case/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20260908-autistici-inventati-case/</guid>
+<pubDate>Mon, 07 Sep 2026 22:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>アメリカ財務省外国資産管理局(OFAC)はイタリアのテクノロジー企業である Autistici/Inventati(A/I Collective)を「特別指定グローバルテロリスト(SDGT)」に指定しました。テロ行為の実行犯だけでなくテロ行為を可能にする技術インフラに対してもテロ対策制裁の対象としたことはA/I Collectiveの猛反発を招くとともに、物質的支援の論理を技術インフラに公然かつ強力に適用する初めての事例として意義と影響が注目されています。 続きを読む... — GIGAZINE / score: 75 (インフラ提供元のテロリスト指定問題)</description>
+</item>
+<item>
 <title>[75] AWS Weekly Roundup: Claude Fable 5.1 on AWS, Amazon Linux 2027 preview, AWS Certified AI Business Strategist, and more (September 7, 2026)</title>
 <link>https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-fable-5-1-on-aws-amazon-linux-2027-preview-aws-certified-ai-business-strategist-and-more-september-7-2026/</link>
 <guid isPermaLink="true">https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-fable-5-1-on-aws-amazon-linux-2027-preview-aws-certified-ai-business-strategist-and-more-september-7-2026/</guid>
@@ -789,22 +805,6 @@
 <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
 <category>Python Insider</category>
 <description>Last chance to test before the big day! — Python Insider / score: 75 (主要プログラミング言語のメジャーリリース候補版)</description>
-</item>
-<item>
-<title>[75] Amazon DocumentDB now supports direct major version upgrades to version 8.0</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/08/documentdb-major-version-upgrade-8-0/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/08/documentdb-major-version-upgrade-8-0/</guid>
-<pubDate>Mon, 31 Aug 2026 22:30:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Amazon DocumentDB (with MongoDB compatibility) now supports in-place major version upgrades (MVU) directly from engine versions 3.6 and 4.0 to version 8.0. This upgrade capability removes the need for intermediate version upgrades and allows you to upgrade your version 3.6 or 4.0 clusters while preserving existing data, configurations, and cluster settings. Upgrading to version 8.0 provides access to the latest security patches, performance improvements, and new developer capabilities. Major ver — AWS What's New / score: 75 (DocumentDBのメジャーバージョンアップ対応)</description>
-</item>
-<item>
-<title>[75] Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 processors are now generally available</title>
-<link>https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/</link>
-<guid isPermaLink="true">https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/</guid>
-<pubDate>Mon, 31 Aug 2026 19:53:34 +0000</pubDate>
-<category>AWS News Blog</category>
-<description>Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 are now generally available, delivering up to 25% better compute performance than R8g, ideal for databases, in-memory caches, and real-time analytics. — AWS News Blog / score: 75 (最新のGraviton5プロセッサ搭載インスタンス)</description>
 </item>
 </channel>
 </rss>
