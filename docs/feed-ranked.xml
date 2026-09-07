@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 07 Sep 2026 12:14:26 +0000</lastBuildDate>
+<lastBuildDate>Mon, 07 Sep 2026 14:09:58 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「V8」にゼロデイ脆弱性、「Google Chrome」に今週2回目のセキュリティアップデート／すでに悪用を確認。Windows環境にはv152.0.7977.82/.83が展開中</title>
@@ -141,6 +141,14 @@
 <pubDate>Mon, 07 Sep 2026 11:00:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>AIモデルの性能を独自に評価しているArtificial Analysisが、OpenAIの「GPT-6 Astra」のベンチマーク結果を公開しました。コーディングエージェントとしての性能を測る「Artificial Analysis Coding Agent Index」でGPT-6 Astraは67点を記録し、Claude Opus 5やFable 5、Muse Spark 1.3とほぼ同等の水準に達した一方、首位のFable 5.1が記録した70点には届きませんでした。 続きを読む... — GIGAZINE / score: 85 (主要AIモデルのベンチマーク性能比較)</description>
+</item>
+<item>
+<title>[85] M365 Copilotでも「GPT-6 Astra」利用可能に　「Fable 5.1」も可　Work IQと合わせて「より的確な応答」に</title>
+<link>https://www.itmedia.co.jp/aiplus/article/2609/07/2000001217/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2609/07/2000001217/</guid>
+<pubDate>Mon, 07 Sep 2026 08:18:12 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>米Microsoftは9月4日（現地時間、以下同）、米OpenAIの新モデル「GPT-6 Astra」を、「Microsoft 365 Copilot」（以下、M365 Copilot）のエージェント機能「Copilot Cowork」とエージェント構築ツール「Copilot Studio」で同日から提供すると発表した。より大規模なタスクを任せられるようになり、作業を細かく分けて指示... — はてなブックマーク テクノロジー / score: 85 (主要AIモデルのプラットフォーム統合と新機能)</description>
 </item>
 <item>
 <title>[85] 「Firefox 155.0.1」が公開、特定CSSを用いたWebページの応答不能問題などに対処／</title>
@@ -333,6 +341,14 @@
 <pubDate>Tue, 25 Aug 2026 07:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models. — OpenAI News / score: 85 (カスタム推移チップの業界をリードする性能発表)</description>
+</item>
+<item>
+<title>[80] GPT-6 Astraの3Dモデリング性能を示す作例が続々登場、短い指示でBlenderを巧みに操作して3D作品を作れる</title>
+<link>https://gigazine.net/news/20260907-gpt-6-astra-3d-modeling/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20260907-gpt-6-astra-3d-modeling/</guid>
+<pubDate>Mon, 07 Sep 2026 13:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>OpenAIの最先端モデル「GPT-6 Astra」が2026年9月3日に登場しました。GPT-6 Astraは3Dモデリングやゲームエンジンの操作に優れていることがアピールされており、インターネット上にはGPT-6 Astraを用いて作成した3D作品の実例が数多く投稿されています。 続きを読む... — GIGAZINE / score: 80 (最先端AIモデルの3Dモデリング性能の解説)</description>
 </item>
 <item>
 <title>[80] DeepSeekが内モンゴル自治区にデータセンターを建設してHuawei製AIチップを16万基導入予定との報道、中国製GPUでAIを開発・運用する動きが加速</title>
@@ -789,22 +805,6 @@
 <pubDate>Mon, 31 Aug 2026 06:30:00 +0000</pubDate>
 <category>InfoQ Japan</category>
 <description>GitHubは、エージェントネイティブ開発のためのデスクトップ制御センターである「GitHub Copilot」アプリを発表した。これは、AIエージェントがより多くのコーディング作業を処理する一方で、エンジニアが主導権を握り続けることを目的としている。最近のコーディングエージェントの台頭によりデリバリーは高速化したものの、「ワークフローの断片化、コンテキスト切り替えの増加、エージェントが生成したコードのレビューに費やす時間の過多」といった問題も生じていると Mario Rodriguez氏はGitHubブログで述べている。 Copilotアプリは、これらのエージェントを不透明なバックグラウンドプロセスとして実行するのではなく、指示を出したり監視したり、既存のGitHubワークフローに連携させたりできる場として位置づけられている。 By Matt Saunders Translated by Takashi Kawase — InfoQ Japan / score: 75 (GitHub Copilotの新機能とエージェント型開発の方向性。)</description>
-</item>
-<item>
-<title>[75] JetBrains、Mac上で動作するコーディングエージェント「Junie Local」提供開始。Claude Sonnet 4.5と同等の能力、RTX5090対応も開発中</title>
-<link>https://www.publickey1.jp/blog/26/jetbrainsmacjunie_localclaude_sonnet_45rtx5909.html</link>
-<guid isPermaLink="true">https://www.publickey1.jp/blog/26/jetbrainsmacjunie_localclaude_sonnet_45rtx5909.html</guid>
-<pubDate>Sun, 30 Aug 2026 15:07:47 +0000</pubDate>
-<category>Publickey</category>
-<description>JetBrainsは、ローカルで動作するAIコーディングエージェント「Junie Local」の提供開始を発表しました。 Junie Localはその名称の通り完全にローカルマシン上で動作し、API使用料やモデル使用料などは一切不要。ソフト... — Publickey / score: 75 (ローカル動作するJetBrains製AIエージェント登場)</description>
-</item>
-<item>
-<title>[75] Amazon Kinesis Data Streams announces streaming tables, delivering data to Apache Iceberg tables on Amazon S3 Tables</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/08/kinesis/data-delivery-s3-tables</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/08/kinesis/data-delivery-s3-tables</guid>
-<pubDate>Fri, 28 Aug 2026 23:34:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Amazon Kinesis Data Streams introduces streaming tables, a new fully serverless capability that continuously delivers data from Kinesis streams to Amazon S3 Tables in Apache Iceberg format. Streaming tables eliminate the need to build and operate self-managed Iceberg delivery pipelines, reducing data delivery costs by up to 50%. Intelligent inline compaction eliminates the small file problem and keeps query performance predictable, reducing downstream query costs by up to 30%. Amazon Kinesis Dat — AWS What's New / score: 75 (Kinesis Data StreamsのS3 Tables対応)</description>
 </item>
 </channel>
 </rss>
