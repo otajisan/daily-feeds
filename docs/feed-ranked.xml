@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Tue, 08 Sep 2026 20:09:16 +0000</lastBuildDate>
+<lastBuildDate>Tue, 08 Sep 2026 22:08:29 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] On the Navier–Stokes Millennium Prize Problem</title>
@@ -303,6 +303,14 @@
 <description>OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment. — OpenAI News / score: 85 (セキュリティインシデントの分析と対策の共有)</description>
 </item>
 <item>
+<title>[80] 2026-09-08, Version 24.21.0 'Krypton' (LTS), @aduh95</title>
+<link>https://github.com/nodejs/node/releases/tag/v24.21.0</link>
+<guid isPermaLink="true">https://github.com/nodejs/node/releases/tag/v24.21.0</guid>
+<pubDate>Tue, 08 Sep 2026 21:51:09 +0000</pubDate>
+<category>Node.js リリース</category>
+<description>Notable Changes [ 71106e1f17 ] - crypto : update root certificates to NSS 3.126 (Node.js GitHub Bot) #65495 [ afca0a912d ] - (SEMVER-MINOR) crypto : support loading private keys through STORE loaders (Filip Skokan) #63949 [ 6274fccbd9 ] - deps : update OpenSSL to 3.5.8 (Node.js GitHub Bot) #65542 [ 53cba013c7 ] - deps : update Undici to 7.29.1 (Node.js GitHub Bot) #65789 [ 0529772798 ] - (SEMVER-MINOR) lib,src : improve histogram implementation (James M Snell) #65024 [ 41c7062b81 ] - (SEMVER-MIN — Node.js リリース / score: 80 (Node.jsのLTSメジャーアップデート)</description>
+</item>
+<item>
 <title>[80] AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome</title>
 <link>https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/</link>
 <guid isPermaLink="true">https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/</guid>
@@ -349,22 +357,6 @@
 <pubDate>Mon, 07 Sep 2026 15:39:27 +0000</pubDate>
 <category>Publickey</category>
 <description>HTMLに属性を追加するだけで、Webページにサーバと連動した動的なアプリケーションの機能を追加できるJavaScriptライブラリ「HTMX」の最新バージョンとなる「HTMX 4.0」正式版のリリースが発表されました。 very happ... — Publickey / score: 80 (HTMX 4.0のメジャーリリースとFetch移行)</description>
-</item>
-<item>
-<title>[80] GPT-6 Astraの3Dモデリング性能を示す作例が続々登場、短い指示でBlenderを巧みに操作して3D作品を作れる</title>
-<link>https://gigazine.net/news/20260907-gpt-6-astra-3d-modeling/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260907-gpt-6-astra-3d-modeling/</guid>
-<pubDate>Mon, 07 Sep 2026 13:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>OpenAIの最先端モデル「GPT-6 Astra」が2026年9月3日に登場しました。GPT-6 Astraは3Dモデリングやゲームエンジンの操作に優れていることがアピールされており、インターネット上にはGPT-6 Astraを用いて作成した3D作品の実例が数多く投稿されています。 続きを読む... — GIGAZINE / score: 80 (最先端AIモデルの3Dモデリング性能の解説)</description>
-</item>
-<item>
-<title>[80] インフォスティーラーとは？ — 認証情報を盗むマルウェアの仕組みと対策</title>
-<link>https://qiita.com/kkkkkou/items/ea4700835d0fc3741ac9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/kkkkkou/items/ea4700835d0fc3741ac9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Mon, 07 Sep 2026 09:48:23 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>はじめに インフォスティーラー（Information Stealer） は、感染した端末から認証情報や個人情報を抜き取り、外部の攻撃者に送信することを目的としたマルウェアの一種です。日本語では「情報窃取型マルウェア」と呼ばれます。 近年、ランサムウェア攻撃の 初期アクセ... — Qiita 人気記事 / score: 80 (認証情報を盗むマルウェアの解説と対策)</description>
 </item>
 <item>
 <title>[80] GitHub Copilot、GPT-6 Astraが一般提供開始</title>
@@ -805,6 +797,14 @@
 <pubDate>Wed, 26 Aug 2026 22:10:37 +0000</pubDate>
 <category>Node.js リリース</category>
 <description>Notable Changes Out-of-band release to fix node --version which was reporting an alpha version. Commits [ ebd35a9eec ] - src : revert accidental alpha designation (Antoine du Hamel) #65568 [ 0b0dd87fcc ] - tools : fix tools/nix/list-requisites.sh (Antoine du Hamel) #65560 — Node.js リリース / score: 75 (Node.jsのバージョン表示不具合の緊急修正)</description>
+</item>
+<item>
+<title>[75] Compose Multiplatform 1.12.0 Released</title>
+<link>https://blog.jetbrains.com/kotlin/2026/08/compose-multiplatform-1-12-0/</link>
+<guid isPermaLink="true">https://blog.jetbrains.com/kotlin/2026/08/compose-multiplatform-1-12-0/</guid>
+<pubDate>Wed, 26 Aug 2026 13:28:41 +0000</pubDate>
+<category>Kotlin Blog</category>
+<description>Compose Multiplatform 1.12.0 is out! This version brings new tooling for AI assistants, improvements to web resource management, and finer control over desktop window states. Here are the highlights of this release: For a complete overview of the changes, check out What’s new in Compose Multiplatform 1.12.0 or the release notes on GitHub. Get Started […] — Kotlin Blog / score: 75 (Compose Multiplatform 1.12.0リリース)</description>
 </item>
 </channel>
 </rss>
