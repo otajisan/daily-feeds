@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 09 Sep 2026 14:09:31 +0000</lastBuildDate>
+<lastBuildDate>Wed, 09 Sep 2026 16:11:32 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Google Chrome 153」が公開 ～230件の脆弱性を修正、悪用が確認されたゼロデイも／リリース間隔短縮、「Chrome 152」から2週間での公開</title>
@@ -157,6 +157,14 @@
 <pubDate>Thu, 27 Aug 2026 01:31:22 +0000</pubDate>
 <category>Latent Space</category>
 <description>By far the biggest announcement at the 37th Hot Chips conference was OpenAI’s stunning progress on their own chip, less than a year after the Broadcom announcement … and that it isn’t an ASIC; but a full on Blackwell-beating alternative. The key metric now is shifting to performance per watt, and Jalapeno delivers: The full Hot Chips presentation is not yet out but various takes are below. For a fuller breakdown, watch along with the rest of OpenAI: AI News for 8/24/2026-8/25/2026. We checked 12 — Latent Space / score: 90 (Hot ChipsでのAIハードウェアの主要発表。)</description>
+</item>
+<item>
+<title>[85] 2026-09-09, Version 26.8.2 (Current), @aduh95</title>
+<link>https://github.com/nodejs/node/releases/tag/v26.8.2</link>
+<guid isPermaLink="true">https://github.com/nodejs/node/releases/tag/v26.8.2</guid>
+<pubDate>Wed, 09 Sep 2026 16:07:48 +0000</pubDate>
+<category>Node.js リリース</category>
+<description>Notable Changes [ 616bd3fa26 ] - doc : deprecate Server.prototype._listen2 in node:net (Antoine du Hamel) #65593 [ ae1801eb55 ] - meta : refine the security vuln posture for experimental features (James M Snell) #65438 [ 09feba74c8 ] - deps : update Undici to 8.10.2 (Node.js GitHub Bot) #65788 [ 7efdbe3eb9 ] - deps : update OpenSSL to 3.5.8 (Node.js GitHub Bot) #65542 Commits [ d8aedd6584 ] - build : skip dockit on riscv64 (Stewart X Addison) #62251 [ 1899c274eb ] - build : activate correct defa — Node.js リリース / score: 85 (Node.jsのCurrent版アップデートと重要変更)</description>
 </item>
 <item>
 <title>[85] FacebookやInstagramに児童の性的虐待コンテンツを含む広告が大量掲載されていたとの報告、実在の子どもの写真をAI加工した広告も</title>
@@ -407,20 +415,20 @@
 <description>OpenAIが「ナビエ・ストークス方程式」に関する難問の解決策を発見したことを2026年9月8日に発表しました。一方で、Anthropicやニューヨーク大学に所属する数学者らの成果を流用した疑いも生じています。 続きを読む... — GIGAZINE / score: 80 (OpenAIの数学難問解決主張と流用疑惑のニュース)</description>
 </item>
 <item>
+<title>[80] 実際に起きた事故から学ぶ、CORS設定ミスで個人情報が漏れる理由と対策 - Qiita</title>
+<link>https://qiita.com/nolanlover0527/items/e6e0b5c18263fbfd656f</link>
+<guid isPermaLink="true">https://qiita.com/nolanlover0527/items/e6e0b5c18263fbfd656f</guid>
+<pubDate>Wed, 09 Sep 2026 03:06:12 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>はじめに CORSのエラーは、開発中に一度は突き当たる壁です。ブラウザのコンソールに赤字で表示されるあのメッセージを消したい一心で、深く考えずにヘッダーを緩めてしまった経験がある方も多いのではなでしょうか。 厄介なのは、実装によっては個人情報や認証情報の漏えいにつながり得る点です。 しかも大手サービスや... — はてなブックマーク テクノロジー / score: 80 (CORS設定ミスによる個人情報漏洩のセキュリティリスク)</description>
+</item>
+<item>
 <title>[80] 「Google Chrome 153」安定版リリース、「カメラ・マイク専用HTML要素」「Iterator.zip()追加」「一部XML解析をRust化」など</title>
 <link>https://gigazine.net/news/20260909-google-chrome-153/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260909-google-chrome-153/</guid>
 <pubDate>Wed, 09 Sep 2026 02:05:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>ウェブブラウザ「Google Chrome」の最新安定版であるバージョン153がリリースされました。カメラとマイクへのアクセスに特化した新しいHTML要素が追加されたほか、複数のイテレータをまとめて処理する「Iterator.zip()」などが利用可能になっています。また、セキュリティ強化のため一部のXML解析処理がRust製パーサーへ置き換えられています。 続きを読む... — GIGAZINE / score: 80 (Chrome安定版の機能追加とRust導入)</description>
-</item>
-<item>
-<title>[80] 実際に起きた事故から学ぶ、CORS設定ミスで個人情報が漏れる理由と対策</title>
-<link>https://qiita.com/nolanlover0527/items/e6e0b5c18263fbfd656f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/nolanlover0527/items/e6e0b5c18263fbfd656f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Wed, 09 Sep 2026 02:01:10 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>はじめに CORSのエラーは、開発中に一度は突き当たる壁です。ブラウザのコンソールに赤字で表示されるあのメッセージを消したい一心で、深く考えずにヘッダーを緩めてしまった経験がある方も多いのではなでしょうか。 厄介なのは、実装によっては個人情報や認証情報の漏えいにつながり得... — Qiita 人気記事 / score: 80 (CORS設定ミスによる個人情報漏洩のセキュリティリスク)</description>
 </item>
 <item>
 <title>[80] GitHub、GitHub Copilotの新機能「Project HydraFusion」のプレビュー版リリース</title>
@@ -583,12 +591,12 @@
 <description>Arduinoは2026年8月25日、40TOPSの性能を発揮するNPUを備え、Qwen 3、Gemma 4、Qwen 3 VLMなどのローカルLLMを直接実行できるマイコンボード「Arduino VENTUNO Q」を発表、同社の正規販売店を通じて予約販売を開始した。 — gihyo.jp / score: 80 (ローカルLLM対応マイコンボードの登場)</description>
 </item>
 <item>
-<title>[80] 2026-08-26, Version 24.20.0 'Krypton' (LTS), @aduh95</title>
-<link>https://github.com/nodejs/node/releases/tag/v24.20.0</link>
-<guid isPermaLink="true">https://github.com/nodejs/node/releases/tag/v24.20.0</guid>
-<pubDate>Wed, 26 Aug 2026 14:28:32 +0000</pubDate>
-<category>Node.js リリース</category>
-<description>Notable Changes [ b12bcc9ae1 ] - (SEMVER-MINOR) async_hooks : add using scopes to AsyncLocalStorage (Stephen Belanger) #61674 [ e2eb88b36b ] - (SEMVER-MINOR) buffer : add end parameter (Robert Nagy) #62390 [ 1fefdda18e ] - crypto : update root certificates to NSS 3.125 (Node.js GitHub Bot) #64746 [ 4a158cf1ab ] - doc : add MikeMcC399 as collaborator (Mike McCready) #64656 [ d4cafce076 ] - (SEMVER-MINOR) lib,permission : add permission.drop (Rafael Gonzaga) #62672 [ b3cfb55267 ] - (SEMVER-MINOR)  — Node.js リリース / score: 80 (Node.js LTSの重要な機能追加)</description>
+<title>[75] Spanner: Removing cumulative mutation limits for DML transactions</title>
+<link>https://cloud.google.com/blog/products/databases/spanner-removes-dml-mutation-limits/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/databases/spanner-removes-dml-mutation-limits/</guid>
+<pubDate>Wed, 09 Sep 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Spanner is Google Cloud’s no-compromise operational database that gives you the horizontal scale and always-on availability of a modern distributed system along with the rich feature set and familiar ecosystem of a relational database. Innovators in industries like banking, retail, media and entertainment, and AI infrastructure rely on Spanner today for their most critical workloads. We’re excited to announce a new, flexible way to handle larger, more complex transactions in Spanner, simplifying — Google Cloud Blog / score: 75 (Google Cloud Spannerの機能制限緩和)</description>
 </item>
 <item>
 <title>[75] Chrome、バージョン153を公開。2週間ごとのリリースに移行 ——EdgeとFirefoxもすでに2週間周期に</title>
@@ -733,14 +741,6 @@
 <pubDate>Tue, 08 Sep 2026 00:51:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>OpenAIは2026年9月8日、ChatGPT Workを日常使うアプリと連携させることでユーザーの文章スタイルを学習し、文章作成内容に反映させる機能を装備したことを発表した。 — gihyo.jp / score: 75 (ChatGPTの文章スタイル学習機能追加)</description>
-</item>
-<item>
-<title>[75] JPGでもPNGでもない　2026年内に主要ブラウザが「JXL」を正式採用へ（＠IT） - Yahoo!ニュース</title>
-<link>https://news.yahoo.co.jp/articles/b29fcd506e9bd470e768096083b8b3012978caf9</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/articles/b29fcd506e9bd470e768096083b8b3012978caf9</guid>
-<pubDate>Mon, 07 Sep 2026 23:43:12 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Mozillaは2026年8月24日（米国時間）、同社が開発するブラウザ「Firefox」において、次世代画像フォーマット「JPEG XL」（JXL）を正式採用する方針を明らかにした。「Google Chrome」の開発チームも同様の意向を示している他、「Safari」には先行して一部機能が実装されている。業界の主要プレイヤーが足並みをそろえ、2... — はてなブックマーク テクノロジー / score: 75 (主要ブラウザによる次世代画像フォーマットJXLの正式採用)</description>
 </item>
 <item>
 <title>[75] AWS Weekly Roundup: Claude Fable 5.1 on AWS, Amazon Linux 2027 preview, AWS Certified AI Business Strategist, and more (September 7, 2026)</title>
