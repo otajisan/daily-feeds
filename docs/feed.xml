@@ -4,15 +4,47 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 10 Sep 2026 18:12:39 +0000</lastBuildDate>
+<lastBuildDate>Thu, 10 Sep 2026 20:08:35 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Introducing the Google Cloud Developer Plugin for AI Coding Agents</title>
 <link>https://cloud.google.com/blog/topics/developers-practitioners/introducing-the-google-cloud-developer-plugin-for-ai-coding-agents/</link>
 <guid isPermaLink="true">https://cloud.google.com/blog/topics/developers-practitioners/introducing-the-google-cloud-developer-plugin-for-ai-coding-agents/</guid>
-<pubDate>Thu, 10 Sep 2026 18:11:00 +0000</pubDate>
+<pubDate>Thu, 10 Sep 2026 19:53:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>Agent skills fit well alongside documentation and remote MCP servers as ways of enabling the success of your AI workflows. They reduce context window usage for certain use cases, and they're straightforward to install. However, you might have noticed that managing individual skills can be unwieldy, or that some skills are most useful when they act alongside other skills or MCP servers toward the same goal. That's where plugins come in to help. Today, we're thrilled to announce a new Google Cloud — Google Cloud Blog / score: 70 (AIコーディングエージェント用プラグイン)</description>
+</item>
+<item>
+<title>AWS Lambda durable functions integrates with Pydantic AI</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/aws-lambda-durable-pydantic-ai/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/aws-lambda-durable-pydantic-ai/</guid>
+<pubDate>Thu, 10 Sep 2026 18:45:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Today, AWS Lambda durable functions announces an integration with Pydantic AI , an open source framework for building AI agents in Python. AWS Lambda durable functions saves your Pydantic AI agent's progress as it runs, so after an interruption like a timeout, your agent resumes from the last completed step instead of starting over. Your agent gains fault tolerance without you having to write the checkpoint and retry logic yourself. With this integration, each model and tool call your agent make — AWS What's New / score: 65 (AWS LambdaとPydantic AIの連携機能)</description>
+</item>
+<item>
+<title>Apple Watch Series 12、Ultra 4が価格据え置きでRAM4GBへ進化！</title>
+<link>https://iphone-mania.jp/iwatch-605641/</link>
+<guid isPermaLink="true">https://iphone-mania.jp/iwatch-605641/</guid>
+<pubDate>Thu, 10 Sep 2026 18:25:08 +0000</pubDate>
+<category>iPhone Mania</category>
+<description>開発者ツール「Xcode 27」の内部記述から新たに登場したApple Watch Series 12とUltra 4には、前世代（Series 11・Ultra 3）の2倍となる4GBのRAMが搭載されていることが判明 […] — iPhone Mania / score: 35 (Apple Watchの次期モデルに関するリーク情報)</description>
+</item>
+<item>
+<title>Amazon MQ now supports RabbitMQ 4.3</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-mq-rabbitmq-43/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-mq-rabbitmq-43/</guid>
+<pubDate>Thu, 10 Sep 2026 18:08:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon MQ now supports RabbitMQ version 4.3 which adds quorum queue feature enhancements such as compaction, increased priority levels, native delayed retries, and graceful consumer timeouts. RabbitMQ 4.3 also includes various bug fixes and performance improvements for memory management. Quorum queues on RabbitMQ 4.3 performs compaction to reduce disk usage for queues and native support for 32 strict priority levels, compared to the relative 2 levels supported in previous RabbitMQ versions. Quor — AWS What's New / score: 55 (Amazon MQのRabbitMQ 4.3サポート)</description>
+</item>
+<item>
+<title>Announcing second-generation single-rack AWS Outposts</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/single-rack-aws-outposts/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/single-rack-aws-outposts/</guid>
+<pubDate>Thu, 10 Sep 2026 17:58:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Today, AWS announces the general availability of second-generation single-rack AWS Outposts, a self-contained 42U rack that integrates compute, storage and networking into a single compact unit purpose-built for workloads requiring low latency, local data processing, and data residency in space and power constrained locations. A single-rack Outposts delivers up to 2,688 vCPU and 100 TB of Amazon Elastic Block Store (Amazon EBS) storage. Moreover, like multi-rack Outposts, single-rack Outposts su — AWS What's New / score: 50 (第2世代AWS Outpostsの一般提供開始)</description>
 </item>
 <item>
 <title>iPhone Duoの画面下カメラはなぜ角にない？リーカーが理由を説明</title>
@@ -21,6 +53,14 @@
 <pubDate>Thu, 10 Sep 2026 17:19:37 +0000</pubDate>
 <category>iPhone Mania</category>
 <description>Appleイベントで発表された折りたたみiPhone「iPhone Duo」ですが、画面下に埋め込まれたカメラが、少し不思議な位置に配置されていることに気づいた人もいるかもしれません。なぜこの位置なのかという疑問について […] — iPhone Mania / score: 20 (未発売の折りたたみiPhoneに関する噂やリーク情報)</description>
+</item>
+<item>
+<title>Amazon OpenSearch Serverless is now available on v0 by Vercel</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-opensearch-serverless-available-V0-vercel/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-opensearch-serverless-available-V0-vercel/</guid>
+<pubDate>Thu, 10 Sep 2026 17:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>You can now build full-stack search and AI applications in minutes using Amazon OpenSearch Serverless on v0 by Vercel, an AI-powered platform that transforms your ideas into production-ready web applications. OpenSearch Serverless eliminates infrastructure management and automatically scales capacity up and down based on demand, so you can focus on building and not managing clusters. With this launch, you can use natural language prompts to build applications powered by OpenSearch Serverless for — AWS What's New / score: 55 (Amazon OpenSearchとv0の統合)</description>
 </item>
 <item>
 <title>Apple Watch Series 12の画面が小さくなった！スペック比較で判明</title>
@@ -55,12 +95,12 @@
 <description>We’re launching the Gemini app for Windows, the new desktop app built to work alongside your favorite tools and daily applications. — Gemini (Google Blog) / score: 65 (Windows用Geminiアプリリリース)</description>
 </item>
 <item>
-<title>What’s new with Google Cloud</title>
-<link>https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/</guid>
+<title>Amazon Redshift RG instances now available in Europe (Zurich) Region</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-redshift-rg-available-zurich</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-redshift-rg-available-zurich</guid>
 <pubDate>Thu, 10 Sep 2026 16:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block &lt;ListValue: []&gt; Sept 7 - Sept 10 Why Your Voice Agent Needs Session Auditing Moving voice agents to production demands robust quality moni — Google Cloud Blog / score: 20 (Google Cloudの一般的な更新情報まとめ)</description>
+<category>AWS What's New</category>
+<description>Amazon Redshift RG instances, powered by AWS Graviton processors, are now available in the AWS Europe (Zurich) Region. RG instances deliver better performance, running data warehouse and data lake workloads up to 2.4x as fast as previous generation RA3 instances, at 30% lower price per vCPU. RG instances include Redshift's custom-built vectorized data lake query engine that processes Apache Iceberg and Parquet data on your cluster nodes, enabling you to run SQL analytics across your data warehou — AWS What's New / score: 40 (Amazon Redshiftのリージョン拡大)</description>
 </item>
 <item>
 <title>What’s new with Google Data Cloud</title>
@@ -69,6 +109,14 @@
 <pubDate>Thu, 10 Sep 2026 16:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>September 7 - September 10 Pub/Sub SMTs can now AI Inference your Gemini Enterprise Agent Platform models! Pub/Sub AI Inference SMTs allow you to apply inference on an incoming stream of events using models hosted in Gemini Enterprise Agent Platform. The model’s prediction is appended to your event, making it available for downstream processing in your data warehouse (like BigQuery) or operational database (like BigTable). This feature, now generally available, can dramatically simplify or enhan — Google Cloud Blog / score: 55 (Google Data Cloudの新機能情報)</description>
+</item>
+<item>
+<title>What’s new with Google Cloud</title>
+<link>https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/</guid>
+<pubDate>Thu, 10 Sep 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block &lt;ListValue: []&gt; Sept 7 - Sept 10 Why Your Voice Agent Needs Session Auditing Moving voice agents to production demands robust quality moni — Google Cloud Blog / score: 20 (Google Cloudの一般的な更新情報まとめ)</description>
 </item>
 <item>
 <title>.NET 11リリース候補版が登場。.NETランタイムが非同期ネイティブ対応、プロセッサ数の上限がなくなる、AOTコンパイラによるネイティブバイナリの高速化など</title>
@@ -197,14 +245,6 @@
 <pubDate>Thu, 10 Sep 2026 12:47:16 +0000</pubDate>
 <category>iPhone Mania</category>
 <description>新型iPhoneの発表後に値下げされてきたiPhone整備済製品ですが、2026年9月10日午後9時25分時点で販売されているiPhone15 ProとiPhone15 Pro Maxの価格は、昨日と変わっていません。 […] — iPhone Mania / score: 25 (整備済製品の価格動向に関するニュース)</description>
-</item>
-<item>
-<title>Uzumibiの紹介: Rubyを書けばCloudflare Workersにそのままデプロイできるってマ！？</title>
-<link>https://udzura.jp/slides/2026/cloudflare-workers-in-fukuoka-2/</link>
-<guid isPermaLink="true">https://udzura.jp/slides/2026/cloudflare-workers-in-fukuoka-2/</guid>
-<pubDate>Thu, 10 Sep 2026 12:41:10 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Previous slideNext slideToggle fullscreenToggle overview viewOpen presenter view Rubyを書けばCloudflare Workersに そのままデプロイできるってマ Uzumibiの紹介, そしてUzumibi2の展望（？） Cloudflare Tech Talk in Fukuoka Uchio Kondo / @udzura 自己紹介 Uchio Kondo @udzura 株式会社SmartHR プロダクトエ... — はてなブックマーク テクノロジー / score: 60 (RubyのCloudflareデプロイ手法)</description>
 </item>
 <item>
 <title>Apple Watch Series 12、健康だけでなく、会話まで記録できちゃう</title>
@@ -383,14 +423,6 @@
 <description>日本郵便、消印の時間帯表示廃止へ — はてなブックマーク テクノロジー / score: 15 (郵便局のサービス変更に関する一般ニュース)</description>
 </item>
 <item>
-<title>CloudWatch Network Monitor now provides NHI for Transit Gateway peering</title>
-<link>https://aws.amazon.com/amazon-cloudwatch-network-monitor-nhi-transit-gateway-peering</link>
-<guid isPermaLink="true">https://aws.amazon.com/amazon-cloudwatch-network-monitor-nhi-transit-gateway-peering</guid>
-<pubDate>Thu, 10 Sep 2026 10:28:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Today, AWS announces that Amazon CloudWatch Network Monitor synthetic monitoring now provides its network health indicator (NHI) for paths that reach a destination across an AWS Transit Gateway inter-Region peering connection. Amazon CloudWatch Network Monitor is a fully managed service that measures packet loss and latency for the hybrid network paths connecting your AWS-hosted applications to your destinations. The NHI helps network operators and application developers rapidly determine whethe — AWS What's New / score: 55 (AWS CloudWatchの新機能)</description>
-</item>
-<item>
 <title>SSL/TLS サーバー証明書の中間 CA 証明書に関するお知らせ ｜お知らせ｜サイバートラスト</title>
 <link>https://www.cybertrust.co.jp/info/2026/0904-tls-announce.html</link>
 <guid isPermaLink="true">https://www.cybertrust.co.jp/info/2026/0904-tls-announce.html</guid>
@@ -405,6 +437,14 @@
 <pubDate>Thu, 10 Sep 2026 10:05:00 +0000</pubDate>
 <category>ASCII.jp</category>
 <description>2026年9月10日、スクウェア・エニックスは、『ロマンシング サガ3 デスティニーユナイテッド』を、Nintendo Switch 2／Nintendo Switch／PlayStation 5／XBOX Series X|S／XBOX ON PC／PC（Steam）で2027年2月16日に発売すると発表（Steam版は2月17日）。 — ASCII.jp / score: 20 (ゲームの発売日決定ニュース)</description>
+</item>
+<item>
+<title>ライブやシネマ・サウンドの象徴的な存在である“Elliot Scheiner”シグネチャー・ライブラリ、Toontrack「SDX – STATE OF THE ART」が20%OFF！</title>
+<link>https://computermusic.jp/2026/09/sdx-state-of-the-art-2/</link>
+<guid isPermaLink="true">https://computermusic.jp/2026/09/sdx-state-of-the-art-2/</guid>
+<pubDate>Thu, 10 Sep 2026 10:01:15 +0000</pubDate>
+<category>Computer Music Japan</category>
+<description>ライブやシネマ・サウンドの象徴的な存在である“Elliot Scheiner”シグネチャー・ライブラリ、Toontrack「SDX – STATE OF THE ART」が20%OFFとなっています。 Too... The post ライブやシネマ・サウンドの象徴的な存在である“Elliot Scheiner”シグネチャー・ライブラリ、Toontrack「SDX – STATE OF THE ART」が20%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 15 (DTM音源のセール情報であり技術者向けではない)</description>
 </item>
 <item>
 <title>メールソフト「Thunderbird」がデスクトップ設定の改善計画を日本のトイレにちなんで「Project Toto」と命名</title>
@@ -479,6 +519,22 @@
 <description>ついに発表された“折りたたみiPhone“のiPhone Duo。 公式サイトのFAQの1つが若干謎な文章として、SNSなどで話題になっています。「iPhone Duoはフリップ型ですか、フォールド型ですか？」「iPhone Duoは折りたたみiPhoneです」 — ASCII.jp / score: 30 (新製品のFAQに関する話題)</description>
 </item>
 <item>
+<title>シネマティックな壮大さだけでなく艶やかで感情的なレガートを表現するチェロ音源の傑作、Cinesamples「Artist Series – Tina Guo Acoustic Cello Legato」が35%OFF！</title>
+<link>https://computermusic.jp/2026/09/cinesamples-artist-series-tina-guo-acoustic-cello-legato/</link>
+<guid isPermaLink="true">https://computermusic.jp/2026/09/cinesamples-artist-series-tina-guo-acoustic-cello-legato/</guid>
+<pubDate>Thu, 10 Sep 2026 09:46:24 +0000</pubDate>
+<category>Computer Music Japan</category>
+<description>シネマティックな壮大さだけでなく艶やかで感情的なレガートを表現するチェロ音源の傑作、Cinesamples「Artist Series – Tina Guo Acoustic Cello Legato」が35... The post シネマティックな壮大さだけでなく艶やかで感情的なレガートを表現するチェロ音源の傑作、Cinesamples「Artist Series – Tina Guo Acoustic Cello Legato」が35%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 20 (チェロ音源のセール情報)</description>
+</item>
+<item>
+<title>テープ・レコードで録音した質感のローファイなピアノ音源に拡張パックがセットになった、Thenatan Audio Plugins「Tape Piano Bundle」が80％OFF！</title>
+<link>https://computermusic.jp/2026/09/tape-piano-expansion/</link>
+<guid isPermaLink="true">https://computermusic.jp/2026/09/tape-piano-expansion/</guid>
+<pubDate>Thu, 10 Sep 2026 09:31:43 +0000</pubDate>
+<category>Computer Music Japan</category>
+<description>テープ・レコードで録音した質感のローファイなピアノ音源に拡張パックがセットになった、Thenatan Audio Plugins「Tape Piano Bundle」が80％OFFとなっています。 Tape Piano ... The post テープ・レコードで録音した質感のローファイなピアノ音源に拡張パックがセットになった、Thenatan Audio Plugins「Tape Piano Bundle」が80％OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 20 (ピアノ音源のセール情報)</description>
+</item>
+<item>
 <title>生成AI時代のパワポ活用術を学ぶ！AIとの役割分担とは？　 10/2（金）・10/9（金）無料セミナー「AI時代のPowerPoint活用術 Vol.9/Vol.10」</title>
 <link>https://ascii.jp/elem/000/004/434/4434050/?rss</link>
 <guid isPermaLink="true">https://ascii.jp/elem/000/004/434/4434050/?rss</guid>
@@ -527,6 +583,14 @@
 <description>折りたたみiPhoneは重くてかさばる、そんな印象のまま、iPhone Duoを候補から外していませんか。公式仕様で確かめると、重さの差はiPhone18 Pro Maxとわずか5グラム、閉じたときの体積も計算上はほぼ同 […] — iPhone Mania / score: 30 (未発売の新型デバイス仕様比較)</description>
 </item>
 <item>
+<title>時代を超越したエレガンスと現代的なひねりを融合させたシンフォニック・ストリングス音源、MeldaProduction「PowerStrings」が87%OFF！</title>
+<link>https://computermusic.jp/2026/09/powerstrings-melda/</link>
+<guid isPermaLink="true">https://computermusic.jp/2026/09/powerstrings-melda/</guid>
+<pubDate>Thu, 10 Sep 2026 09:16:14 +0000</pubDate>
+<category>Computer Music Japan</category>
+<description>時代を超越したエレガンスと現代的なひねりを融合させたシンフォニック・ストリングス音源、MeldaProduction「PowerStrings」が87%OFFとなっています。 MeldaProductionでは、Synt... The post 時代を超越したエレガンスと現代的なひねりを融合させたシンフォニック・ストリングス音源、MeldaProduction「PowerStrings」が87%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 20 (ストリングス音源のセール情報)</description>
+</item>
+<item>
 <title>ORICO、クランプ固定式5-in-1 USB-Cハブを発表--デスク・モニターに工具不要で設置・5Gbps高速転送・SD/TFスロット＆オーディオ搭載・アルミ合金製で省スペース</title>
 <link>https://ascii.jp/elem/000/004/434/4434045/?rss</link>
 <guid isPermaLink="true">https://ascii.jp/elem/000/004/434/4434045/?rss</guid>
@@ -549,6 +613,14 @@
 <pubDate>Thu, 10 Sep 2026 09:03:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>ハンバーガーチェーンのマクドナルドに、明治の人気チョコレート菓子である明治アーモンドチョコレートとコラボした新商品「マックフルーリー® 明治アーモンドチョコレート」が2026年9月16日(水)に登場します。香ばしいきざみアーモンドとチョコソースを使用し、明治アーモンドチョコレートの味わいを再現したマックフルーリーになっているとのことです。 続きを読む... — GIGAZINE / score: 10 (一般的なエンタメ・グルメニュース)</description>
+</item>
+<item>
+<title>Avenger用拡張音源の好きな5種類を選択可能なバンドル、Vengeance Sound「VPS Avenger Expansions-Pick 5 Bundle」が50%OFF！</title>
+<link>https://computermusic.jp/2026/09/vps-avenger-expansions/</link>
+<guid isPermaLink="true">https://computermusic.jp/2026/09/vps-avenger-expansions/</guid>
+<pubDate>Thu, 10 Sep 2026 09:01:03 +0000</pubDate>
+<category>Computer Music Japan</category>
+<description>Avenger用拡張音源の好きな5種類を選択可能なバンドル、Vengeance Sound「VPS Avenger Expansions – ‘Pick 5’ Bundle」が50%O... The post Avenger用拡張音源の好きな5種類を選択可能なバンドル、Vengeance Sound「VPS Avenger Expansions-Pick 5 Bundle」が50%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 20 (シンセサイザー拡張音源のセール情報)</description>
 </item>
 <item>
 <title>Hasselblad現行カメラ・レンズを試せるタッチ＆トライを9月25日（金）に銀一スタジオショップで開催</title>
@@ -671,6 +743,14 @@
 <description>商用も無料のPDF編集ソフト「PDF MARIN」が登場、黒く塗るだけではない本物の墨消しに対応／「Claude Code」と連携するAI機能も開発中 — はてなブックマーク テクノロジー / score: 55 (新着PDF編集ソフトとAI連携機能の紹介)</description>
 </item>
 <item>
+<title>Manleyのフラッグシップ・チューブコンプレッサー、Universal Audio「Manley Vari-Mu」が74%OFF！</title>
+<link>https://computermusic.jp/2026/09/universal-audio-manley-vari-mu/</link>
+<guid isPermaLink="true">https://computermusic.jp/2026/09/universal-audio-manley-vari-mu/</guid>
+<pubDate>Thu, 10 Sep 2026 08:46:45 +0000</pubDate>
+<category>Computer Music Japan</category>
+<description>Manleyのフラッグシップ・チューブコンプレッサー、Universal Audio「Manley Vari-Mu」が74%OFFとなっています。 Universal Audioでは、Back to Schoolセールを... The post Manleyのフラッグシップ・チューブコンプレッサー、Universal Audio「Manley Vari-Mu」が74%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 15 (音楽プラグインのセール情報であり技術者向けではない)</description>
+</item>
+<item>
 <title>スーパーでおなじみ「呼び込み君」に新型　26年越しの“新曲”も配信</title>
 <link>https://www.itmedia.co.jp/news/article/2609/10/2000001376/</link>
 <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2609/10/2000001376/</guid>
@@ -695,6 +775,14 @@
 <description>来てしまった…。iPhone 18 Proいいぞ！ iPhone Duoすげーな！ と大盛り上がりしたApple発表イベント。そんな新顔たちのデビューの裏で、発表なしにひっそりと変わった子たちがいます。既存のiPhoneたち、サイレント値上… — ギズモード・ジャパン / score: 50 (Appleの新製品発表と既存モデルの値上げ)</description>
 </item>
 <item>
+<title>空間や距離感を直感的に調整。次世代のインテリジェントリバーブ、SONIBLE「SMART:REVERB 2」が38%OFF！</title>
+<link>https://computermusic.jp/2026/09/smartreverb-2-2/</link>
+<guid isPermaLink="true">https://computermusic.jp/2026/09/smartreverb-2-2/</guid>
+<pubDate>Thu, 10 Sep 2026 08:31:04 +0000</pubDate>
+<category>Computer Music Japan</category>
+<description>空間や距離感を直感的に調整。次世代のインテリジェントリバーブ、SONIBLE「SMART:REVERB 2」が38%OFFとなっています。 sonibleでは、最大51%OFFセールを開催中です。合わせてチェックしてみて... The post 空間や距離感を直感的に調整。次世代のインテリジェントリバーブ、SONIBLE「SMART:REVERB 2」が38%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 15 (音楽プラグインのセール情報であり技術者向けではない)</description>
+</item>
+<item>
 <title>生成AIを基本から活用、安全対策、著作権、法規制まで解説した入門書が限定無料公開／生成AIが当たり前となった現代の必読書『図解でスッキリ　生成AIのきほんとしくみ』【Book Watch/ニュース】</title>
 <link>https://forest.watch.impress.co.jp/docs/bookwatch/news/2139908.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/bookwatch/news/2139908.html</guid>
@@ -703,108 +791,20 @@
 <description>（株）インプレスは9月10日、同社より8月21日に発売された書籍『図解でスッキリ 生成AIのきほんとしくみ』（定価1,980円）の全文無料公開キャンペーンを開始した。公開期間は9月10日～13日までの4日間。 — 窓の杜 / score: 45 (生成AI入門書の期間限定無料公開)</description>
 </item>
 <item>
+<title>iPhone全機種値上げ、Apple強まる「固定客」頼み　AI台頭で供給網支配に陰り - 日本経済新聞</title>
+<link>https://www.nikkei.com/article/DGXZQOGN04BJT0U6A900C2000000/</link>
+<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOGN04BJT0U6A900C2000000/</guid>
+<pubDate>Thu, 10 Sep 2026 08:26:53 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>【シリコンバレー=伴正春、山田航平】米アップルは9日、日本向けでは36万円台の折り畳み型のiPhoneを発表し、全機種で前モデルより値上げした。半導体メモリーなどのコストが膨らむ中での高価格シフトは、固定客頼みの部分が大きい。供給網（サプライチェーン）支配には陰りが見える。「考え抜かれたデザインと画期的な... — はてなブックマーク テクノロジー / score: 35 (ガジェットと経済に関する一般的なニュース)</description>
+</item>
+<item>
 <title>【エンタメGO】 「超かぐや姫!」Blu-ray特装限定版を開封。特製ボックスにゲーミング電柱の扉が!!</title>
 <link>https://av.watch.impress.co.jp/docs/series/entamego/2139942.html</link>
 <guid isPermaLink="true">https://av.watch.impress.co.jp/docs/series/entamego/2139942.html</guid>
 <pubDate>Thu, 10 Sep 2026 08:24:25 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>【エンタメGO】 「超かぐや姫!」Blu-ray特装限定版を開封。特製ボックスにゲーミング電柱の扉が!! — はてなブックマーク テクノロジー / score: 10 (エンタメ製品の開封レポートであり技術的重要度は低い)</description>
-</item>
-<item>
-<title>AAIF、Agent Routerの参加を発表 ——AIモデルとMCPツールへの接続を仲介するOSS</title>
-<link>https://gihyo.jp/article/2026/09/agent-router?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/09/agent-router?utm_source=feed</guid>
-<pubDate>Thu, 10 Sep 2026 08:19:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Agentic AI Foundation（AAIF）は9月9日、オープンソースのAIゲートウェイ「Agent Router」（旧称：Envoy AI Gateway）の参加を発表した。 — gihyo.jp / score: 75 (AIゲートウェイOSSの発表に関するニュース)</description>
-</item>
-<item>
-<title>iOS27でAirDropが最大80%高速化！アプリ起動や通信切り替えもスムーズに</title>
-<link>https://iphone-mania.jp/ios-605603/</link>
-<guid isPermaLink="true">https://iphone-mania.jp/ios-605603/</guid>
-<pubDate>Thu, 10 Sep 2026 08:13:56 +0000</pubDate>
-<category>iPhone Mania</category>
-<description>Appleは、日本時間9月10日の新製品発表イベントで、iOS27の動作速度に関する改善を紹介しました。AirDropの転送速度が最大80%向上するほか、アプリの起動や写真取り込み、Wi-Fiとモバイル通信の切り替えなど […] — iPhone Mania / score: 50 (OS機能のパフォーマンス改善ニュース)</description>
-</item>
-<item>
-<title>iPhone18 Proは冷却の表面積が3倍〜性能が落ちにくくなる仕組み</title>
-<link>https://iphone-mania.jp/iphone18-605597/</link>
-<guid isPermaLink="true">https://iphone-mania.jp/iphone18-605597/</guid>
-<pubDate>Thu, 10 Sep 2026 08:10:00 +0000</pubDate>
-<category>iPhone Mania</category>
-<description>iPhone18 Proで、熱を逃がす部品の表面積が3倍になりました。Appleが強調しているのは「速くなった」ではなく、「速いままでいられる」ほうです。iPhone17 Proと比べて、最大40%高い性能が長く持続する […] — iPhone Mania / score: 35 (新型iPhoneの冷却性能とハードウェア構造の解説)</description>
-</item>
-<item>
-<title>創業140年、東京ガスの内製開発組織をつくるVPoEの挑戦【デブクロ2026 注目セッション】</title>
-<link>https://codezine.jp/article/detail/29624</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/29624</guid>
-<pubDate>Thu, 10 Sep 2026 08:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 45 (開発組織の事例紹介やインタビュー)</description>
-</item>
-<item>
-<title>ハーゲンダッツのキャラメル尽くしなアソートボックス「キャラメルパーティー(クラシックキャラメル・キャラメル＆ショコラ・キャラメルサンデー)」試食レビュー</title>
-<link>https://gigazine.net/news/20260910-haagen-dazs-caramel-party/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260910-haagen-dazs-caramel-party/</guid>
-<pubDate>Thu, 10 Sep 2026 08:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>ハーゲンダッツから3種のキャラメルアイスが詰め込まれたアソートボックス「キャラメルパーティー(クラシックキャラメル・キャラメル＆ショコラ・キャラメルサンデー)」が2026年9月15日(火)に新登場します。発売に先駆けてキャラメル尽くしのアソートボックスがGIGAZINE編集部に送られてきたので、どのようなフレーバーなのか味わってみました。 続きを読む... — GIGAZINE / score: 10 (アイスの新商品の食レポ記事)</description>
-</item>
-<item>
-<title>AWS Elemental Inference now generates contextual metadata from live video in real time</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/09/elemental-inference-contextual-metadata/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/elemental-inference-contextual-metadata/</guid>
-<pubDate>Thu, 10 Sep 2026 08:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>AWS Elemental Inference now generates contextual metadata from live video streams in real time, using AI to produce scene-level intelligence without custom machine learning infrastructure. The new capability analyzes live video in parallel with encoding to extract Interactive Advertising Bureau (IAB) content taxonomy categories, Global Alliance for Responsible Media (GARM) brand suitability signals, detected objects and actions, and shot and scene-level descriptions. Broadcasters and content pla — AWS What's New / score: 50 (AWSのライブ動画AI解析機能の追加)</description>
-</item>
-<item>
-<title>AWS Elemental MediaTailor now offers Yield Optimization to automatically fill ad breaks with Amazon Ads demand</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/09/mediatailor-yield-optimization/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/mediatailor-yield-optimization/</guid>
-<pubDate>Thu, 10 Sep 2026 08:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>AWS Elemental MediaTailor now offers Yield Optimization, a new capability that automatically monetizes unused ad inventory with Amazon Ads demand during server-side ad insertion (SSAI) for livestreams. Available exclusively to publishers in the Amazon Publisher Services (APS) Streaming TV program, yield optimization turns unfilled ad breaks into monetized impressions at zero cost to enable and with no additional infrastructure required. Because ads are stitched directly into the stream before re — AWS What's New / score: 45 (AWSサービスの機能追加（広告最適化）)</description>
-</item>
-<item>
-<title>AWS Elemental MediaLive adds support for A/B forensic watermarking</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/09/medialive-ab-forensic-watermarking/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/medialive-ab-forensic-watermarking/</guid>
-<pubDate>Thu, 10 Sep 2026 08:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>AWS Elemental MediaLive now supports A/B forensic watermarking, enabling content owners to trace the source of unauthorized redistribution of live video content. A single MediaLive channel produces two synchronized output variants, each carrying a distinct visually transparent watermark that persists through re-encoding and screen capture. Downstream packaging and CDN infrastructure assembles these variants into unique per-session sequences that identify the origin of leaked content. Forensic wa — AWS What's New / score: 45 (AWSサービスの機能追加（メディア配信向け）)</description>
-</item>
-<item>
-<title>AWS Elemental introduces Dynamic Multiview for live video</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/09/aws-elemental-dynamic-multiview-video/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/aws-elemental-dynamic-multiview-video/</guid>
-<pubDate>Thu, 10 Sep 2026 08:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>AWS Elemental MediaPackage now offers Dynamic Multiview, a server-side capability that composes multiple live video sources into viewer-selected tiled layouts on demand. Content providers can deliver multi-angle, multi-game, and personalized viewing experiences as standard HLS (HTTP Live Streaming) and DASH (Dynamic Adaptive Streaming over HTTP) streams playable on most modern consumer devices, televisions, and set top boxes without custom player development. Dynamic Multiview operates entirely  — AWS What's New / score: 45 (AWSサービスの機能追加（マルチビュ機能）)</description>
-</item>
-<item>
-<title>AWS Elemental MediaTailor now supports Low-Latency HLS ad insertion</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/09/aws-elemental-mediatailor-low-latency-hls-ad-insertion</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/aws-elemental-mediatailor-low-latency-hls-ad-insertion</guid>
-<pubDate>Thu, 10 Sep 2026 08:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>AWS Elemental MediaTailor now supports Low-Latency HTTP Live Streaming (LL-HLS) ad insertion using HLS Interstitials. MediaTailor is a channel assembly and personalized ad insertion service for video providers that monetizes live streams, linear channels, and video-on-demand content. With this launch, video providers can insert ads into low-latency live streams while holding the reduced latency their viewers expect. LL-HLS reduces live latency by delivering partial segments and letting players h — AWS What's New / score: 45 (AWSサービスの機能追加（低遅延広告挿入）)</description>
-</item>
-<item>
-<title>「Orca echo」が許せないから、攫ってレビューしてやった</title>
-<link>https://www.gizmodo.jp/article/orca-echo-review/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/orca-echo-review/</guid>
-<pubDate>Thu, 10 Sep 2026 08:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>最近、編集部にいると聞こえてくるんですよ。オルカエコー、オルカエコーって。そう、CoSTORY・ギズマートで絶賛クラファン中の左右分割キーボード、「Keychron Orca echo」のことです。編集部に実機が届いてからというもの、編集部… — ギズモード・ジャパン / score: 40 (ガジェットとしてのキーボードの話題)</description>
-</item>
-<item>
-<title>新型iPhoneで周辺機器は全部必要？買い直しを減らす3つの分け方</title>
-<link>https://iphone-mania.jp/iphone15-605600/</link>
-<guid isPermaLink="true">https://iphone-mania.jp/iphone15-605600/</guid>
-<pubDate>Thu, 10 Sep 2026 07:55:08 +0000</pubDate>
-<category>iPhone Mania</category>
-<description>新型iPhoneを手に入れる際は、本体代だけでなく周辺機器の費用も考えておきたいところです。ケース・画面保護フィルム・充電器・ケーブル…と積み上げると、本体以外の出費も想定外に膨らむことがあります。 iPhone15 P […] — iPhone Mania / score: 15 (一般的なiPhone周辺機器の買い方解説記事)</description>
 </item>
 </channel>
 </rss>
