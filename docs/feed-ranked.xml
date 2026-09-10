@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 10 Sep 2026 06:16:16 +0000</lastBuildDate>
+<lastBuildDate>Thu, 10 Sep 2026 08:12:46 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Google Chrome 153」が公開 ～230件の脆弱性を修正、悪用が確認されたゼロデイも／リリース間隔短縮、「Chrome 152」から2週間での公開</title>
@@ -117,6 +117,14 @@
 <pubDate>Thu, 03 Sep 2026 20:18:41 +0000</pubDate>
 <category>Simon Willison</category>
 <description>GPT‑6 Astra GPT-6 Astra is "rolling out today to a limited set of organizations and over the coming days will become available to all ChatGPT Plus, Pro, Business, and Enterprise users, as well as through the OpenAI API and AWS" - I've not tried it yet myself, so I don't have a great deal to say about it yet. It's going to be API priced at the same rate as Claude Fable 5 and 5.1: $10/million input and $50/million output. This is clearly OpenAI's Fable competitor, and appears to score higher than  — Simon Willison / score: 90 (GPT-6 Astraのロールアウトに関する専門家の速報解説。)</description>
+</item>
+<item>
+<title>[85] NVIDIA、RustによるネイティブGPUプログラミングが可能となる「CUDA Rust」を発表</title>
+<link>https://gihyo.jp/article/2026/09/cuda-rust?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/09/cuda-rust?utm_source=feed</guid>
+<pubDate>Thu, 10 Sep 2026 05:14:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>NVIDIAは2026年9月8日、GPU向け並列計算プラットフォームCUDAにおいてRustによる開発を可能にする「CUDA Rust」を発表した。 — gihyo.jp / score: 85 (NVIDIAによるCUDAのRustネイティブ対応という重要発表)</description>
 </item>
 <item>
 <title>[85] 当社システムへの不正アクセスに関する調査結果および再発防止策について（第三報） | さくらインターネット</title>
@@ -335,14 +343,6 @@
 <description>Anthropicが、自社のAI「Claude」の実験中に発生した不正アクセス事件の報告書を公開しました。Claudeが誤って第三者のシステムに不正アクセスしてしまう事例が合計4件確認されているということです。 続きを読む... — GIGAZINE / score: 80 (AIモデルの不正アクセス問題に関する詳細な原因報告)</description>
 </item>
 <item>
-<title>[80] 「Claude」による不正アクセス、4件目が判明──Anthropic、「アライメントの失敗」と評価を修正</title>
-<link>https://www.itmedia.co.jp/news/article/2609/10/2000001346/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2609/10/2000001346/</guid>
-<pubDate>Thu, 10 Sep 2026 00:13:46 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>米Anthropicは9月9日（現地時間）、AIモデル「Claude」がサイバーセキュリティ評価中に実在する第三者のシステムへ不正にアクセスした4件のインシデントについて、アライメントの観点から分析した報告書を公開した。3件は7月30日に公表済みで、今回新たに1件を明らかにした。同社は7月時点で「アライメントの失敗という... — はてなブックマーク テクノロジー / score: 80 (AIモデルの安全性と不正アクセスの重大なインシデント)</description>
-</item>
-<item>
 <title>[80] Asahi LinuxがM3シリーズSoCを搭載したMacを正式にサポート</title>
 <link>https://gigazine.net/news/20260910-asahi-linux-official-m3/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260910-asahi-linux-official-m3/</guid>
@@ -511,6 +511,14 @@
 <description> — Google DeepMind / score: 80 (Geminiの新モデルに関するアップデート)</description>
 </item>
 <item>
+<title>[75] “AIが人々の命奪いかねない”アンソロピック研究者が退社表明 | NHKニュース</title>
+<link>https://news.web.nhk/newsweb/na/nd-20260910de49482</link>
+<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260910de49482</guid>
+<pubDate>Thu, 10 Sep 2026 05:42:16 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>アメリカのAI新興企業「アンソロピック」の研究者が、自律的に改善を続ける「超知能」の開発に会社が突き進み、人々の命を奪うことになりかねないとして退社を表明しました。ことし7月には、開発中のAIモデルが… — はてなブックマーク テクノロジー / score: 75 (AI安全性に関する研究者の辞職という重大な業界ニュース)</description>
+</item>
+<item>
 <title>[75] SORACOM Air RTC GatewayとAsteriskで音声AIエージェント開発</title>
 <link>https://ascii.jp/elem/000/004/433/4433794/?rss</link>
 <guid isPermaLink="true">https://ascii.jp/elem/000/004/433/4433794/?rss</guid>
@@ -535,14 +543,6 @@
 <description> — CodeZine / score: 75 (AWS Lambdaの機能追加で実用性が高い)</description>
 </item>
 <item>
-<title>[75] 「AIが全人類を死なせる可能性」Anthropicの研究者から警告相次ぐ</title>
-<link>https://ascii.jp/elem/000/004/433/4433754/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/433/4433754/?rss</guid>
-<pubDate>Thu, 10 Sep 2026 03:20:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>Anthropicの研究者だったジェイコブ・コクソン氏が9月8日、同社を辞任したことをXで明らかにした。 — ASCII.jp / score: 75 (AI安全性に関するAnthropic研究者の警告と退職。)</description>
-</item>
-<item>
 <title>[75] 無料で動画・音楽・電子書籍などを自宅でも出先でもストリーミングできる「Jellyfin 12.0」がリリース、ついに書籍と漫画のサポートが改善</title>
 <link>https://gigazine.net/news/20260910-jellyfin-release-12/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260910-jellyfin-release-12/</guid>
@@ -557,14 +557,6 @@
 <pubDate>Wed, 09 Sep 2026 22:02:00 +0000</pubDate>
 <category>CNET Japan</category>
 <description>Appleは日本時間9月10日、イベント「Surprise and shine.」を開催。初の折りたたみ式iPhone「iPhone Duo」をはじめ、「iPhone 18 Pro」「iPhone 18 Pro Max」、ワイヤレスイヤホン「AirPods 5」、スマートウォッチ「Apple Watch Series 12」を発表した。 — CNET Japan / score: 75 (Apple新製品発表の速報まとめ)</description>
-</item>
-<item>
-<title>[75] Anthropic在籍の研究者2人も同調──「AIが人類を滅ぼしかねないと本気で考えている」</title>
-<link>https://www.itmedia.co.jp/news/article/2609/10/2000001342/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2609/10/2000001342/</guid>
-<pubDate>Wed, 09 Sep 2026 21:30:34 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>米Anthropicでアライメント研究チームを率いるエバン・ヒュービンガー氏と、AIを監督する手法（scalable oversight）の研究を率いるサミュエル・マークス氏は9月8日（現地時間）、同社を退社したジェイコブ・コクソン氏の主張に同意する見解をXに投稿した。両氏とも、あくまで個人としての発言であり、所属企業を代表す... — はてなブックマーク テクノロジー / score: 75 (AIの存亡リスクに関する有力研究者の見解)</description>
 </item>
 <item>
 <title>[75] 「iPhone 18 Pro」、日本で4万円値上げ　1ドル167円換算　直近の円高反映せず</title>
@@ -805,6 +797,14 @@
 <pubDate>Tue, 01 Sep 2026 23:57:28 +0000</pubDate>
 <category>Simon Willison</category>
 <description>Today is Claude Fable (and Mythos) 5.1 day . Anthropic say that Fable 5.1 "sets a new standard for coding, knowledge work, and long-running problem-solving tasks". Their announcement spends a notable amount of time on scientific research, boasting of a 52.6% score on the brand new Terminal-Bench-Science 0.1 benchmark (first announced on August 27th ), up from 24.7% for Fable 5, 29.0% for Opus 5 and 22.4% for GPT-5.6 Sol. Other benchmarks show slightly improved scores, but none as impressive as t — Simon Willison / score: 75 (AI主要モデルのメジャーアップデートと新機能発表)</description>
+</item>
+<item>
+<title>[75] Claude Fable 5.1, Anthropic's new frontier model is now available on AWS GovCloud (US)</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/claude-fable-5-1-aws-govcloud/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/claude-fable-5-1-aws-govcloud/</guid>
+<pubDate>Tue, 01 Sep 2026 14:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Claude Fable 5.1 is generally available on Amazon Bedrock in AWS GovCloud (US) and brings Anthropic's most capable frontier model to regulated industry customers. Fable 5.1 delivers frontier intelligence for ambitious tasks across coding, scientific research, and enterprise workflows. Claude Fable 5.1 is built for long-running, high-stakes work that runs for hours and spans many applications. It can own more of a software project on its own, handling features across an entire codebase, code revi — AWS What's New / score: 75 (BedrockにおけるAnthropicのフロンティアモデル提供)</description>
 </item>
 </channel>
 </rss>
