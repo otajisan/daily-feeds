@@ -4,16 +4,8 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 11 Sep 2026 06:15:42 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 08:12:47 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
-<item>
-<title>[95] デジタル庁に不正アクセス、24.6万件の個人情報が流出か</title>
-<link>https://ascii.jp/elem/000/004/434/4434211/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/434/4434211/?rss</guid>
-<pubDate>Fri, 11 Sep 2026 04:55:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>デジタル庁は9月11日、同庁が運用する「ガバメントソリューションサービス（GSS）」が不正アクセスを受け、個人情報（約24.6万件）を含むファイルが外部流出した可能性があることを公表した。 — ASCII.jp / score: 95 (政府機関の重大なセキュリティインシデント)</description>
-</item>
 <item>
 <title>[95] 「GitLab」に緊急パッチ、CVSS満点「10.0」の脆弱性 ～認証なしでサーバーファイルを読まれる／自己管理型の環境は即時のアップデートを</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2140081.html</link>
@@ -63,14 +55,6 @@
 <description>デジタル庁は9月11日、同庁が各府省庁向けに運用する政府共通の業務基盤「ガバメントソリューションサービス」（GSS）が外部から不正アクセスを受け、約24万6000件の個人情報が漏えいした可能性があると発表した。対象は各府省庁などの職員や、業務に携わった公務員・事業者らで、一般の人の個人情報は含まれていないと... — はてなブックマーク テクノロジー / score: 90 (政府機関での大規模な不正アクセスと情報漏えい。)</description>
 </item>
 <item>
-<title>[90] 政府システムに不正アクセス、職員などの個人情報24.6万件が漏えいの可能性--デジタル庁</title>
-<link>https://japan.cnet.com/article/35252539/</link>
-<guid isPermaLink="true">https://japan.cnet.com/article/35252539/</guid>
-<pubDate>Fri, 11 Sep 2026 03:09:57 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>デジタル庁は9月11日、同庁が運用する「ガバメントソリューションサービス」（GSS）が不正アクセスを受け、約24.6万件の個人情報が外部に漏えいした可能性があると発表した。第三者がVPN機器の脆弱性を利用して侵入したという。 対象は、GSSを利用する府省庁などの職員や、その業務に携わった事業者・個人らの情報だ。同... — はてなブックマーク テクノロジー / score: 90 (政府システムにおけるVPN脆弱性を突いた不正アクセスと漏洩)</description>
-</item>
-<item>
 <title>[90] 政府職員らの情報 24万件漏えいか</title>
 <link>https://news.yahoo.co.jp/pickup/6594942?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6594942?source=rss</guid>
@@ -93,6 +77,14 @@
 <pubDate>Fri, 11 Sep 2026 02:32:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>中国企業のDeepSeekがAIモデル「DeepSeek-V4.1-Flash」を2026年9月10日に公開しました。複数のベンチマークテストでClaude Opus 5やGPT-5.6 Solを上回る性能を示しつつ、オープンモデルとして無償公開されています。また、API料金も低く抑えられています。 続きを読む... — GIGAZINE / score: 90 (高性能なオープンAIモデルの新版登場)</description>
+</item>
+<item>
+<title>[90] 政府システムに不正アクセス、職員などの個人情報24.6万件が漏えいの可能性--デジタル庁</title>
+<link>https://japan.cnet.com/article/35252539/</link>
+<guid isPermaLink="true">https://japan.cnet.com/article/35252539/</guid>
+<pubDate>Fri, 11 Sep 2026 02:25:00 +0000</pubDate>
+<category>CNET Japan</category>
+<description>デジタル庁は9月11日、同庁が運用する「ガバメントソリューションサービス」（GSS）が不正アクセスを受け、約24.6万件の個人情報が外部に漏えいした可能性があると発表した。第三者がVPN機器の脆弱性を利用して侵入したという。 — CNET Japan / score: 90 (政府システムにおけるVPN脆弱性を突いた不正アクセスと漏洩)</description>
 </item>
 <item>
 <title>[90] ガバメントソリューションサービスへの不正アクセスによる職員等の個人情報の漏えいの可能性について｜デジタル庁</title>
@@ -173,6 +165,22 @@
 <pubDate>Thu, 03 Sep 2026 20:18:41 +0000</pubDate>
 <category>Simon Willison</category>
 <description>GPT‑6 Astra GPT-6 Astra is "rolling out today to a limited set of organizations and over the coming days will become available to all ChatGPT Plus, Pro, Business, and Enterprise users, as well as through the OpenAI API and AWS" - I've not tried it yet myself, so I don't have a great deal to say about it yet. It's going to be API priced at the same rate as Claude Fable 5 and 5.1: $10/million input and $50/million output. This is clearly OpenAI's Fable competitor, and appears to score higher than  — Simon Willison / score: 90 (GPT-6 Astraのロールアウトに関する専門家の速報解説。)</description>
+</item>
+<item>
+<title>[85] リコール中のアンカー「Soundcore 3」で火災事故　車内で発煙、周辺も焼損</title>
+<link>https://ascii.jp/elem/000/004/434/4434299/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/434/4434299/?rss</guid>
+<pubDate>Fri, 11 Sep 2026 07:35:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>消費者庁は9月11日、福島県で8月に、アンカーの充電式スピーカー「Soundcore 3」が焼損する火災事故が起きたことを公表した。 — ASCII.jp / score: 85 (リコール製品による火災事故の注意喚起)</description>
+</item>
+<item>
+<title>[85] リコール中のティファール電気ケトルで火災事故</title>
+<link>https://ascii.jp/elem/000/004/434/4434281/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/434/4434281/?rss</guid>
+<pubDate>Fri, 11 Sep 2026 07:35:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>消費者庁は9月11日、グループセブジャパンがリコール中の「ティファール電気ケトル」が焼損する火災が、7月に発生したことを公表した。 — ASCII.jp / score: 85 (リコール製品による火災事故の注意喚起)</description>
 </item>
 <item>
 <title>[85] OpenAIが音声会話AI「GPT-Live-1」のAPIをリリース</title>
@@ -423,12 +431,20 @@
 <description>ユーザーインターフェース構築のためのMetaのオープンソースライブラリであるReactは、React CompilerのRust移植版をメインリポジトリへ統合した。この取り組みは、ビルド時間の短縮と、RustベースのJavaScriptツールチェーンとの連携強化を目的としている。 By Daniel Curtis Translated by Naoko Koshimura — InfoQ Japan / score: 85 (ReactコンパイラのRust移植によるビルド高速化)</description>
 </item>
 <item>
+<title>[80] 「Unity」公式の「Claude Code」プラグインが登場 ～29のスキルでゲーム開発を支援／ベストプラクティスを教え込んで誤りとトークン消費を削減、手戻りも減る</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2140240.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2140240.html</guid>
+<pubDate>Fri, 11 Sep 2026 07:26:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Unity Technologiesは9月9日（現地時間）、コーディングエージェント「Claude Code」向けの「Unity」プラグインを公開した。「Unity」のエンジニアリングスキル、「Unity CLI」、そしてエディターをライブ操作するためのMCPサーバーをまとめて導入できる公式プラグインだ。 — 窓の杜 / score: 80 (Unity公式によるClaude Codeプラグインの公開)</description>
+</item>
+<item>
 <title>[80] 中国AI「Kimi」、利用者の入力をClaudeに転送し、Claudeの回答を利用者に表示か--Anthropicが報告</title>
 <link>https://japan.cnet.com/article/35252543/</link>
 <guid isPermaLink="true">https://japan.cnet.com/article/35252543/</guid>
-<pubDate>Fri, 11 Sep 2026 05:15:00 +0000</pubDate>
-<category>CNET Japan</category>
-<description>Anthropicは、AIの悪用事例をまとめた2026年9月版の脅威レポートを公開した。DeepSeekや、「Kimi」を開発するMoonshot AIが、利用者の入力をClaudeに転送し、その回答を利用者に返していたと報告した。 — CNET Japan / score: 80 (Anthropicによる中国AI企業の悪用事例報告。)</description>
+<pubDate>Fri, 11 Sep 2026 05:46:57 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>DeepSeekについては、外部のコーディングツールなどを経由したリクエストの一部を選び、Claude Opusに転送していたと報告した。転送内容には企業の内部文書や、稼働中のデータベースにアクセスするための認証情報も含まれていたという。 同レポートは、Xiaomiの「MiMo」の利用者との会話もClaudeに送られていたと指摘し... — はてなブックマーク テクノロジー / score: 80 (Anthropicによる中国AI企業の悪用事例報告。)</description>
 </item>
 <item>
 <title>[80] Datasette 1.0a39 and 0.65.4 security releases</title>
@@ -575,6 +591,14 @@
 <description>A late entrant in the news cycle of an eventful week: Following the closing of Cursor’s acquisition by SpaceX last week , it was time for OpenAI to do what Anthropic did to Windsurf when it was being considered for acquisition by OpenAI: There are many angles to this, but the leading reason given should be taken at face value — OpenAI’s blogpost on this decision cites “our experience with Elon Musk’s companies violating contracts”. This follows on from years of public acrimony between respective — Latent Space / score: 80 (主要AI企業とツールに関する業界の動向ニュース)</description>
 </item>
 <item>
+<title>[75] OpenAI、月額200ドルのChatGPT Pro新規契約を一時停止　Astra人気爆発で</title>
+<link>https://ascii.jp/elem/000/004/434/4434277/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/434/4434277/?rss</guid>
+<pubDate>Fri, 11 Sep 2026 06:35:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>OpenAIは9月10日、月額200ドルの「ChatGPT Pro 20X」について新規契約と他プランからのアップグレードを一時停止した。 — ASCII.jp / score: 75 (OpenAIのプラン新規契約一時停止)</description>
+</item>
+<item>
 <title>[75] ChatGPT Workに企業データを読み取らせ回答やダッシュボード作成に利用できる「Data agent」が登場</title>
 <link>https://gigazine.net/news/20260911-chatgpt-work-data-agent/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260911-chatgpt-work-data-agent/</guid>
@@ -583,12 +607,12 @@
 <description>OpenAIが提供するChatGPT Workに、企業データを読み取って活用できる「Data agent」が登場しました。 続きを読む... — GIGAZINE / score: 75 (企業データを活用するChatGPTの新機能登場。)</description>
 </item>
 <item>
-<title>[75] Windows Server 2016延長サポート終了に備えてAzureへの移行メリット・移行プロセスを解説</title>
-<link>https://ascii.jp/elem/000/004/430/4430136/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/430/4430136/?rss</guid>
-<pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>2027年1月12日、Windows Server 2016 の延長サポートが終了します。本記事では、Windows Server 2016 の移行について解説します。また、移行先として Azure を活用するメリットについて、他クラウドとの比較を交えながら、わかりやすく紹介します。 — ASCII.jp / score: 75 (OSサポート終了に伴うクラウド移行解説)</description>
+<title>[75] Google、GeminiのWindowsアプリを提供開始</title>
+<link>https://gihyo.jp/article/2026/09/gemini-app-for-windows?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/09/gemini-app-for-windows?utm_source=feed</guid>
+<pubDate>Fri, 11 Sep 2026 05:09:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Googleは9月10日、AIアシスタント「Gemini」のWindows向けアプリの提供開始を発表した。Windows 10とWindows 11に対応している。 — gihyo.jp / score: 75 (Google製GeminiのWindowsアプリ提供開始)</description>
 </item>
 <item>
 <title>[75] OpenAI、GPT-Live-1をAPIで提供開始 ——発話中の割り込みや依頼の変更に対応</title>
@@ -621,14 +645,6 @@
 <pubDate>Thu, 10 Sep 2026 21:11:15 +0000</pubDate>
 <category>Simon Willison</category>
 <description>Native is now the future of mobile at Shopify Shopify are moving from React Native back to separate Swift and Kotlin codebases for their native apps, for the exact reason you would expect: We decided to switch from native to React Native in 2020 for three reasons: Stop building the same features twice Allow developers to work across the stack Spend less time chasing feature parity and more time shipping value [...] Native still means building and maintaining software on two platforms, that cost  — Simon Willison / score: 75 (ShopifyがReact Nativeからネイティブへ移行)</description>
-</item>
-<item>
-<title>[75] Countering misuse of AI: September 2026 / Anthropic</title>
-<link>https://www.anthropic.com/threat-intelligence-report-september-2026</link>
-<guid isPermaLink="true">https://www.anthropic.com/threat-intelligence-report-september-2026</guid>
-<pubDate>Thu, 10 Sep 2026 19:40:09 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Over the past eight months, our Threat Intelligence team identified and disrupted operations in which threat actors tried to use Claude for malicious activity. In this report, we share case studies from those operations and describe how malicious use of Claude has evolved since our previous threa... — はてなブックマーク テクノロジー / score: 75 (AIの悪用対策に関する脅威インテリジェンス報告)</description>
 </item>
 <item>
 <title>[75] DeNA の大規模環境を MySQL 8.4 に移行する時に考えたこと[DeNA インフラ SRE] | BLOG - DeNA Engineering</title>
@@ -789,22 +805,6 @@
 <pubDate>Mon, 07 Sep 2026 05:45:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Microsoftは9月3日（現地時間）、新しい音声認識AIモデル「MAI-Transcribe-2」を発表した。同社はこれを“世界でもっとも高速・高精度で安価な音声認識モデル”とうたっており、「Gemini 3.5 Transcribe」や「GPT-Transcribe」、「Whisper V3-Large」、「Scribe v2」といった競合モデルを上回るとしている。 — 窓の杜 / score: 75 (マイクロソフトの高精度な新型音声認識モデル)</description>
-</item>
-<item>
-<title>[75] Research acceleration: The view inside OpenAI</title>
-<link>https://openai.com/index/research-acceleration-view-inside-openai</link>
-<guid isPermaLink="true">https://openai.com/index/research-acceleration-view-inside-openai</guid>
-<pubDate>Sun, 06 Sep 2026 08:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration. — OpenAI News / score: 75 (OpenAI内部でのAIコーディングエージェント活用状況の報告)</description>
-</item>
-<item>
-<title>[75] Create your best tracks yet with Lyria 3.5 in Gemini.</title>
-<link>https://blog.google/innovation-and-ai/products/gemini-app/better-tracks-lyria-gemini/</link>
-<guid isPermaLink="true">https://blog.google/innovation-and-ai/products/gemini-app/better-tracks-lyria-gemini/</guid>
-<pubDate>Fri, 04 Sep 2026 16:00:00 +0000</pubDate>
-<category>Gemini (Google Blog)</category>
-<description>Lyria 3.5, our best-sounding music generation model, is now available in the Gemini app and the Gemini API. Lyria 3.5 brings more expressive vocals and richer musical ar… — Gemini (Google Blog) / score: 75 (Googleの音楽生成モデルLyria 3.5の発表)</description>
 </item>
 </channel>
 </rss>
