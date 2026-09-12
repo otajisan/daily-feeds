@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sat, 12 Sep 2026 00:23:20 +0000</lastBuildDate>
+<lastBuildDate>Sat, 12 Sep 2026 02:13:10 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「GitLab」に緊急パッチ、CVSS満点「10.0」の脆弱性 ～認証なしでサーバーファイルを読まれる／自己管理型の環境は即時のアップデートを</title>
@@ -146,9 +146,17 @@
 <title>[85] Perplexity trusts GPT-6 Astra with end-to-end systems</title>
 <link>https://openai.com/index/perplexity-improving-accuracy-with-astra</link>
 <guid isPermaLink="true">https://openai.com/index/perplexity-improving-accuracy-with-astra</guid>
-<pubDate>Sat, 12 Sep 2026 00:22:49 +0000</pubDate>
+<pubDate>Sat, 12 Sep 2026 02:12:36 +0000</pubDate>
 <category>OpenAI News</category>
 <description>Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models. — OpenAI News / score: 85 (Perplexityによる最新AIモデルの導入事例)</description>
+</item>
+<item>
+<title>[85] OpenAI agents attacked RubyGems back in May</title>
+<link>https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/</guid>
+<pubDate>Sat, 12 Sep 2026 00:42:25 +0000</pubDate>
+<category>Simon Willison</category>
+<description>OpenAI agents carried out an undisclosed attack on RubyGems is a new bombshell report from Spencer Kitts, Thomas Larsen, and Sydney Von Arx - three of the four authors of the report on the agent attack on disused wikis ( previously ) last week. This time they're noting that it looks very likely that an OpenAI agent swarm was behind an attack against the RubyGems package repository first reported on May 12th by Maciej Mensfeld of the RubyGems security team : We're dealing with a major malicious a — Simon Willison / score: 85 (OpenAIエージェントによるRubyGems攻撃の報告)</description>
 </item>
 <item>
 <title>[85] Rethinking skills and prompts for GPT-6 Astra | OpenAI Developers</title>
@@ -175,20 +183,20 @@
 <description>米カーネギーメロン大学のSoftware Engineering Institute（ソフトウェアエンジニアリング研究所）が運営するCERT（Computer Emergency Response Team） Coordination Centerは9月10日（現地時間）、「AOMEI Backupper」に未修正の脆弱性「CVE-2026-12780」があることを発表した。 — 窓の杜 / score: 85 (バックアップソフトにおける未修正の深刻な脆弱性)</description>
 </item>
 <item>
-<title>[85] Codexと同じハーネスを使ってAIエージェントを作れる「Agents API」が登場</title>
-<link>https://gigazine.net/news/20260911-openai-agents-api/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260911-openai-agents-api/</guid>
-<pubDate>Fri, 11 Sep 2026 03:33:31 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>OpenAIがAIエージェントの構築に役立つ「Agents API」のパブリックベータ版をリリースしました。 Introducing the Agents API | OpenAI https://openai.com/index/introducing-the-agents-api/ Agents API | OpenAI API https://developers.openai.com/api/docs/guides/agents-api/overview Go from idea to a working a... — はてなブックマーク テクノロジー / score: 85 (AIエージェント構築用のAgents APIが登場)</description>
-</item>
-<item>
 <title>[85] OpenAIが音声会話AI「GPT-Live-1」のAPIをリリース</title>
 <link>https://gigazine.net/news/20260911-gpt-live-1/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260911-gpt-live-1/</guid>
 <pubDate>Fri, 11 Sep 2026 03:21:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>OpenAIが音声エージェントの話し方や動作をより細かく制御できる音声モデル「GPT-Live-1」のAPIを発表しました。開発者が用途に合わせて音声エクスペリエンスを制御することができます。 続きを読む... — GIGAZINE / score: 85 (OpenAIによる音声会話AIのAPIリリース)</description>
+</item>
+<item>
+<title>[85] Codexと同じハーネスを使ってAIエージェントを作れる「Agents API」が登場</title>
+<link>https://gigazine.net/news/20260911-openai-agents-api/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20260911-openai-agents-api/</guid>
+<pubDate>Fri, 11 Sep 2026 03:10:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>OpenAIがAIエージェントの構築に役立つ「Agents API」のパブリックベータ版をリリースしました。 続きを読む... — GIGAZINE / score: 85 (AIエージェント構築用のAgents APIが登場)</description>
 </item>
 <item>
 <title>[85] 運転免許証1億5300万件超が闇サイトに流出　不正アクセスで</title>
@@ -221,14 +229,6 @@
 <pubDate>Thu, 10 Sep 2026 15:42:50 +0000</pubDate>
 <category>Publickey</category>
 <description>マイクロソフトは同社の包括的なアプリケーションフレームワークの次期版となる「.NET 11」の最初のリリース候補版となる「.NET 11 Release Candidate 1」を発表しました。 〰️ SAVE THE DATE 〰️.NE... — Publickey / score: 85 (主要フレームワークのリリース候補版で重要度が高い)</description>
-</item>
-<item>
-<title>[85] OpenAIのAIエージェントによるハッキング事件で他にも最低10件のサイトが侵害されていたことが判明</title>
-<link>https://gigazine.net/news/20260910-openai-agent-hacking-incident-another-sites/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260910-openai-agent-hacking-incident-another-sites/</guid>
-<pubDate>Thu, 10 Sep 2026 10:30:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>OpenAIのAIエージェントがAIプラットフォーム・Hugging Faceに不正アクセスを行ったことで明らかになったハッキング事件で、問題のAIエージェントはすでに公表されているものの他にも最低で10件のウェブサイトを侵害していたことがわかりました。 続きを読む... — GIGAZINE / score: 85 (AIエージェントによるセキュリティ侵害事例の報告)</description>
 </item>
 <item>
 <title>[85] NVIDIA、RustによるネイティブGPUプログラミングが可能となる「CUDA Rust」を発表</title>
