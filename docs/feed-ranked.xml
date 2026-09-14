@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 14 Sep 2026 02:15:51 +0000</lastBuildDate>
+<lastBuildDate>Mon, 14 Sep 2026 04:13:10 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「GitLab」に緊急パッチ、CVSS満点「10.0」の脆弱性 ～認証なしでサーバーファイルを読まれる／自己管理型の環境は即時のアップデートを</title>
@@ -117,6 +117,22 @@
 <pubDate>Fri, 04 Sep 2026 01:09:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>OpenAIは2026年9月3日、新モデル「GPT-6 Astra」を発表した。 — gihyo.jp / score: 90 (OpenAIの次世代モデル「GPT-6 Astra」発表)</description>
+</item>
+<item>
+<title>[85] 9月の「Windows Update」に注目、過去最多の脆弱性対応、974件も ～窓の杜アクセスランキング［2026/9/7～2026/9/13]【記事アクセスランキング】</title>
+<link>https://forest.watch.impress.co.jp/docs/serial/accessranking/2140492.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/serial/accessranking/2140492.html</guid>
+<pubDate>Mon, 14 Sep 2026 02:45:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>前週に閲覧数の多かった記事を、上位10位までレポートします。 — 窓の杜 / score: 85 (Windowsアップデートの大量脆弱性対応)</description>
+</item>
+<item>
+<title>[85] なぜ悪性パッケージは届いてしまうのか、パッケージレジストリの対策の歴史から考える - GMO Flatt Security Blog</title>
+<link>https://blog.flatt.tech/entry/package_registry_history</link>
+<guid isPermaLink="true">https://blog.flatt.tech/entry/package_registry_history</guid>
+<pubDate>Mon, 14 Sep 2026 01:37:58 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>はじめに こんにちは。GMO Flatt Security株式会社 セキュリティエンジニアの井手(@st98_)です。 2026年に入ってから、パッケージレジストリを狙ったソフトウェアサプライチェーン攻撃のニュースが多数ありました。3月には axios や LiteLLM、4月には Bitwarden CLI、5月には TanStack、6月には Red Hat の namespace、... — はてなブックマーク テクノロジー / score: 85 (ソフトウェアサプライチェーン攻撃の歴史と対策)</description>
 </item>
 <item>
 <title>[85] Windowsの9月セキュリティパッチでリモートデスクトップが不安定に、Microsoftが認める／RDP接続の失敗やサインインの問題など、Windows Serverにも影響</title>
@@ -367,6 +383,14 @@
 <description>Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release. — OpenAI News / score: 85 (OpenAI Astraの安全性とサイバーセキュリティ基準)</description>
 </item>
 <item>
+<title>[80] 「WSL」「Claude Cowork」に影響、Windows 11の9月パッチに「Hyper-V」がらみの問題／「Plan9」によるWindowsホストのフォルダー共有に不具合。Microsoftが認める</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2140478.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2140478.html</guid>
+<pubDate>Mon, 14 Sep 2026 02:15:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Microsoftは9月11日（現地時間）、2026年9月のセキュリティ更新プログラムを適用したWindows 11環境で、「Hyper-V」ベースのLinux仮想マシンからホストのフォルダーにアクセスできなくなる問題が発生していることを明らかにした。影響を受けるアプリの例として、「Windows Subsystem for Linux」（WSL）や米Anthropicの「Claude Cowork」が挙げられている。 — 窓の杜 / score: 80 (Windowsパッチ起因のWSLやHyper-V不具合)</description>
+</item>
+<item>
 <title>[80] Windows 11の9月セキュリティパッチでUSBオーディオ機器に問題、Microsoftが確認／「USB Audio Class 1.0」準拠デバイスの一部で起動不能・音が出ない</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2140473.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2140473.html</guid>
@@ -381,14 +405,6 @@
 <pubDate>Sun, 13 Sep 2026 22:00:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>eコマースプラットフォームのShopifyは過去数年間にわたり、スマートフォンアプリの開発にモバイルアプリケーションフレームワークのReact Nativeを使用してきました。ところがShopifyが2026年9月10日に公開したブログでは、React Nativeに注力するとしていた方針を撤回し、かつて使用していたSwiftとKotlinに回帰することを表明しています。 続きを読む... — GIGAZINE / score: 80 (Shopifyのネイティブ回帰とAI開発の動向)</description>
-</item>
-<item>
-<title>[80] 7.0.0</title>
-<link>https://brew.sh/2026/09/13/homebrew-7.0.0/</link>
-<guid isPermaLink="true">https://brew.sh/2026/09/13/homebrew-7.0.0/</guid>
-<pubDate>Sun, 13 Sep 2026 11:29:07 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Today, I’m proud to announce Homebrew 7.0.0. The most significant changes since 6.0.0 are faster installations and upgrades, stronger sandboxing, a native macOS app, built-in vulnerability checks and an advisory database, the end of macOS 10.15 support and Intel Macs moving to Tier 3. Contents ⬆️ ... — はてなブックマーク テクノロジー / score: 80 (Homebrew 7.0.0の大規模なメジャーリリース)</description>
 </item>
 <item>
 <title>[80] ｢Windows 11｣、9月の月例パッチで音声が機能不全になる問題が一部で発生中</title>
@@ -503,14 +519,6 @@
 <description>米Microsoftは9月4日（現地時間）、「Project Zenith」を発表した。一定以上の性能を備えた“開発者にふさわしい”（developer-class）PCへ、開発向けの設定とツールをあらかじめ組み込んだ“すぐにコードを書ける”環境を構築した状態で提供しようという取り組みで、まずはAMDの開発者向けPC「Ryzen AI Halo」から提供が開始される。今後数カ月のうちに、OEM各社やシリコンパートナーによる対応機種が続く見込みだ。 — 窓の杜 / score: 80 (MicrosoftのローカルAI開発向けPC構想発表)</description>
 </item>
 <item>
-<title>[80] 「Android Studio Quail 4」が安定版に ～「Gemma 4」ローカル実行、23種の開発“スキル”／ソースコードを外に出さない“オフラインAIコーディング”が可能に</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2138937.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2138937.html</guid>
-<pubDate>Tue, 08 Sep 2026 04:05:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Googleは9月1日（現地時間）、「Android Studio Quail 4」（バージョン2026.1.4）を公開した。Androidアプリを開発するためのオフィシャル開発環境「Android Studio」の最新安定版で、「Quail」系列は今回が最後の安定版リリースとなる。 — 窓の杜 / score: 80 (Android Studio安定版リリースとローカルAI機能)</description>
-</item>
-<item>
 <title>[80] HTMX 4.0正式リリース。内部実装がXHRからfetchに移行しStreaming HTMLが可能に、属性はデフォルトで子要素に継承されないように変更など</title>
 <link>https://www.publickey1.jp/blog/26/htmx_40xhrfetchstreaming_html.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/htmx_40xhrfetchstreaming_html.html</guid>
@@ -573,6 +581,30 @@
 <pubDate>Mon, 31 Aug 2026 07:43:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>OpenClaw開発チームは2026年8月30日、AIアシスタントOpenClawの新バージョンOpenClaw 2.0をリリースした。 — gihyo.jp / score: 80 (AIアシスタントのメジャーリリース)</description>
+</item>
+<item>
+<title>[75] 登山地図アプリ「YAMAP」に脆弱性　情報漏えいや意図しないサイト遷移の可能性</title>
+<link>https://ascii.jp/elem/000/004/434/4434523/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/434/4434523/?rss</guid>
+<pubDate>Mon, 14 Sep 2026 03:25:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>Japan Vulnerability Notes（JVN）は9月14日、Android版「YAMAP／ヤマップ登山地図アプリ」の脆弱製情報を公開した。 — ASCII.jp / score: 75 (登山アプリYAMAPの脆弱性発覚)</description>
+</item>
+<item>
+<title>[75] Anthropicのダリオ・アモデイCEOが「6～12カ月以内にAIがインターネットを乗っ取る可能性あり」「AI開発を減速させるべき」と主張、イーロン・マスクやサム・アルトマンやデミス・ハサビスらも賛同</title>
+<link>https://gigazine.net/news/20260914-ai-pace-slow-down/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20260914-ai-pace-slow-down/</guid>
+<pubDate>Mon, 14 Sep 2026 02:23:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>Anthropicのダリオ・アモデイCEOが「We Must Pace the Frontier(フロンティアを慎重に進めるべき)」と題したブログ記事を公開し、「AIのリスクが高まっており、開発ペースを減速させる必要がある」と主張しました。アモデイCEOの意見にはSpaceXのイーロン・マスクCEO、OpenAIのサム・アルトマンCEO、Google DeepMindのデミス・ハサビス会長らも賛同の意を示しています。 続きを読む... — GIGAZINE / score: 75 (主要AI企業トップによる開発減速の主張)</description>
+</item>
+<item>
+<title>[75] OpenAI「Astra」は何でもできる、だからこそ“プロの指示”が必要になる (1/4)</title>
+<link>https://ascii.jp/elem/000/004/434/4434403/</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/434/4434403/</guid>
+<pubDate>Mon, 14 Sep 2026 01:15:32 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>5日、OpenAIの「GPT-6 Astra」が筆者の環境でも使えるようになりました。前のバージョン「GPT-5.5 Sol」よりも、推論ベンチマークでは12倍に達するほど性能が大きく向上したとの報告もあり、注目が集まりました。果たして、その能力はこれまでのAIの常識を変えるほどの汎用性と高い性能を備えていました。ただし、GPT-6 ... — はてなブックマーク テクノロジー / score: 75 (OpenAIの新モデルに関する注目ニュース)</description>
 </item>
 <item>
 <title>[75] Slack、ワークスペース招待を悪用したフィッシング対策を強化</title>
@@ -773,38 +805,6 @@
 <pubDate>Sun, 06 Sep 2026 08:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration. — OpenAI News / score: 75 (OpenAI内部でのAIコーディングエージェント活用状況の報告)</description>
-</item>
-<item>
-<title>[75] Create your best tracks yet with Lyria 3.5 in Gemini.</title>
-<link>https://blog.google/innovation-and-ai/products/gemini-app/better-tracks-lyria-gemini/</link>
-<guid isPermaLink="true">https://blog.google/innovation-and-ai/products/gemini-app/better-tracks-lyria-gemini/</guid>
-<pubDate>Fri, 04 Sep 2026 16:00:00 +0000</pubDate>
-<category>Gemini (Google Blog)</category>
-<description>Lyria 3.5, our best-sounding music generation model, is now available in the Gemini app and the Gemini API. Lyria 3.5 brings more expressive vocals and richer musical ar… — Gemini (Google Blog) / score: 75 (Googleの音楽生成モデルLyria 3.5の発表)</description>
-</item>
-<item>
-<title>[75] Kotlin Toolchain 0.12: Multiplatform Library Publishing, Wasm Apps, and More</title>
-<link>https://blog.jetbrains.com/kotlin/2026/09/kotlin-toolchain-0-12-multiplatform-library-publishing-wasm-apps-and-more/</link>
-<guid isPermaLink="true">https://blog.jetbrains.com/kotlin/2026/09/kotlin-toolchain-0-12-multiplatform-library-publishing-wasm-apps-and-more/</guid>
-<pubDate>Thu, 03 Sep 2026 10:40:05 +0000</pubDate>
-<category>Kotlin Blog</category>
-<description>Kotlin Toolchain 0.12.0 is out. This release brings some long-awaited features: multiplatform libraries publication, a preview of Wasm application support, Compose Hot Reload from the command line, and more. Read on for the details, and check the release notes for the full list of changes and bug fixes. Additionally, klibs.io now uses the Kotlin Toolchain […] — Kotlin Blog / score: 75 (Kotlinツールチェーンの主要機能追加アップデート)</description>
-</item>
-<item>
-<title>[75] Qwen3.8-Maxのアップグレード版「Qwen3.8-Max-0902」登場、コーディング、エージェントタスク、マルチモーダル性能が大幅に向上</title>
-<link>https://gihyo.jp/article/2026/09/qwen3.8-max-0902?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/09/qwen3.8-max-0902?utm_source=feed</guid>
-<pubDate>Thu, 03 Sep 2026 07:00:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Alibaba Qwenは2026年9月2日、AIモデルQwen3.8-Maxのアップグレード版スナップショット「Qwen3.8-Max-0902」をリリースした。 — gihyo.jp / score: 75 (主要AIモデルQwenのアップグレード版リリース)</description>
-</item>
-<item>
-<title>[75] AWS、新たな太平洋海底ケーブル「Sta'O'Nuk」発表。420Tbps、2029年に稼働へ。集中リスク排除のため新たな陸揚げ拠点を採用</title>
-<link>https://www.publickey1.jp/blog/26/awsstaonuk420tbps2029.html</link>
-<guid isPermaLink="true">https://www.publickey1.jp/blog/26/awsstaonuk420tbps2029.html</guid>
-<pubDate>Thu, 03 Sep 2026 01:59:39 +0000</pubDate>
-<category>Publickey</category>
-<description>Amazon Web Services（AWS）は、日本と米国を結ぶ新たな海底ケーブル「Sta'O'Nuk」を発表しました。2029年に稼働開始予定です。 海底ケーブルは20ペアの光ファイバーで構成され、420Tbpsの帯域を提供します。 ... — Publickey / score: 75 (AWSの新たな大容量海底ケーブル敷設発表)</description>
 </item>
 </channel>
 </rss>
