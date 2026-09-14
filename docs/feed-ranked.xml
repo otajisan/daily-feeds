@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 14 Sep 2026 04:13:10 +0000</lastBuildDate>
+<lastBuildDate>Mon, 14 Sep 2026 06:20:39 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「GitLab」に緊急パッチ、CVSS満点「10.0」の脆弱性 ～認証なしでサーバーファイルを読まれる／自己管理型の環境は即時のアップデートを</title>
@@ -45,6 +45,14 @@
 <pubDate>Thu, 03 Sep 2026 11:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science. — OpenAI News / score: 95 (最先端AIモデルのメジャーリリース)</description>
+</item>
+<item>
+<title>[90] OpenAIのAIエージェントがRubyGemsへの攻撃に関与か、2000件超のパッケージ投稿やAPIキー窃取の試みが判明</title>
+<link>https://gigazine.net/news/20260914-openai-agent-cyber-attack-rubygems/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20260914-openai-agent-cyber-attack-rubygems/</guid>
+<pubDate>Mon, 14 Sep 2026 05:15:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>OpenAIが訓練・評価していたAIエージェントが、プログラミング言語「Ruby」のパッケージ配布サービス「RubyGems.org」への大規模な攻撃に関与していた可能性があることが分かりました。セキュリティ研究者らによると、2026年5月に2000件を超えるパッケージが投稿され、RubyDoc.infoのサーバー上で任意のコードを実行したほか、一部では利用者のAPIキーを取得しようとする処理も確認されたとのことです。 続きを読む... — GIGAZINE / score: 90 (OpenAIのAIエージェントによるRubyGems攻撃関与)</description>
 </item>
 <item>
 <title>[90] Microsoft、ネイティブGoコンパイラを採用した TypeScript 7.0 をリリース。ビルド速度が10倍に向上</title>
@@ -117,6 +125,14 @@
 <pubDate>Fri, 04 Sep 2026 01:09:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>OpenAIは2026年9月3日、新モデル「GPT-6 Astra」を発表した。 — gihyo.jp / score: 90 (OpenAIの次世代モデル「GPT-6 Astra」発表)</description>
+</item>
+<item>
+<title>[85] 「Microsoft Edge 153」が公開 ～「Chromium」で実施された大量の脆弱性修正を反映／タブのフェード表示は廃止</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2140502.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2140502.html</guid>
+<pubDate>Mon, 14 Sep 2026 05:32:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Microsoftは9月10日（現地時間）、デスクトップ向け「Microsoft Edge」v153.0.4234.32を安定（Stable）チャネルでリリースした。「Edge 152」に続く2週間ごとのメジャーアップデートとなる。 — 窓の杜 / score: 85 (Microsoft Edgeのメジャーアップデートと脆弱性修正)</description>
 </item>
 <item>
 <title>[85] 9月の「Windows Update」に注目、過去最多の脆弱性対応、974件も ～窓の杜アクセスランキング［2026/9/7～2026/9/13]【記事アクセスランキング】</title>
@@ -311,14 +327,6 @@
 <description>宇宙を舞台にした世界最大級の大規模オンラインゲーム「EVE Online」が、ゲームを支える240万行のPythonコードをPython 3に移行すると発表しました。 We have officially started our codeb... — Publickey / score: 85 (大規模Python 2.7移行という歴史的偉業)</description>
 </item>
 <item>
-<title>[85] 「C:¥Windows¥Installer」フォルダーは消すな！　理由をマイクロソフトが解説／容量を圧迫していても削除は危険。更新も修復もアンインストールもできなくなる可能性</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2138949.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2138949.html</guid>
-<pubDate>Tue, 08 Sep 2026 05:55:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>システムドライブの空き容量を確認したら「C:¥Windows¥Installer」フォルダーが肥大化していたので削除したい――そんな問い合わせが寄せられることがあるというが、このフォルダーはけっして削除してはいけない。日本マイクロソフト（株）のサポートチームは9月4日、公式ブログ「Microsoft Japan Windows Technology Support Blog」で、「C:¥Windows¥Installer」フォルダーの削除を推奨しない理由を解説する記事を公開した。 — 窓の杜 / score: 85 (Windowsインストーラーフォルダ削除の危険性注意喚起)</description>
-</item>
-<item>
 <title>[85] Linux Foundation、AIを活用した脅威から重要なオープンソースソフトウェアを保護するための「Akrites」を発表</title>
 <link>https://www.infoq.com/jp/news/2026/09/akrites-open-source-ai-threats/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
 <guid isPermaLink="true">https://www.infoq.com/jp/news/2026/09/akrites-open-source-ai-threats/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
@@ -402,9 +410,9 @@
 <title>[80] Shopifyがスマホアプリ開発でReact NativeからSwiftとKotlinに回帰、コーディングAIの性能向上が理由</title>
 <link>https://gigazine.net/news/20260914-shopify-back-to-native-mobile-ai/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260914-shopify-back-to-native-mobile-ai/</guid>
-<pubDate>Sun, 13 Sep 2026 22:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>eコマースプラットフォームのShopifyは過去数年間にわたり、スマートフォンアプリの開発にモバイルアプリケーションフレームワークのReact Nativeを使用してきました。ところがShopifyが2026年9月10日に公開したブログでは、React Nativeに注力するとしていた方針を撤回し、かつて使用していたSwiftとKotlinに回帰することを表明しています。 続きを読む... — GIGAZINE / score: 80 (Shopifyのネイティブ回帰とAI開発の動向)</description>
+<pubDate>Sun, 13 Sep 2026 22:03:04 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>eコマースプラットフォームのShopifyは過去数年間にわたり、スマートフォンアプリの開発にモバイルアプリケーションフレームワークのReact Nativeを使用してきました。ところがShopifyが2026年9月10日に公開したブログでは、React Nativeに注力するとしていた方針を撤回し、かつて使用していたSwiftとKotlinに回帰するこ... — はてなブックマーク テクノロジー / score: 80 (Shopifyのネイティブ回帰とAI開発の動向)</description>
 </item>
 <item>
 <title>[80] ｢Windows 11｣、9月の月例パッチで音声が機能不全になる問題が一部で発生中</title>
@@ -583,6 +591,14 @@
 <description>OpenClaw開発チームは2026年8月30日、AIアシスタントOpenClawの新バージョンOpenClaw 2.0をリリースした。 — gihyo.jp / score: 80 (AIアシスタントのメジャーリリース)</description>
 </item>
 <item>
+<title>[75] Notion、エージェントで利用可能なAIモデルを制御する機能を追加</title>
+<link>https://codezine.jp/article/detail/29668</link>
+<guid isPermaLink="true">https://codezine.jp/article/detail/29668</guid>
+<pubDate>Mon, 14 Sep 2026 05:00:00 +0000</pubDate>
+<category>CodeZine</category>
+<description> — CodeZine / score: 75 (NotionエージェントでのAIモデル制御機能)</description>
+</item>
+<item>
 <title>[75] 登山地図アプリ「YAMAP」に脆弱性　情報漏えいや意図しないサイト遷移の可能性</title>
 <link>https://ascii.jp/elem/000/004/434/4434523/?rss</link>
 <guid isPermaLink="true">https://ascii.jp/elem/000/004/434/4434523/?rss</guid>
@@ -637,14 +653,6 @@
 <pubDate>Sun, 13 Sep 2026 08:00:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 75 (GitHub Enterprise Server 3.22リリース)</description>
-</item>
-<item>
-<title>[75] Claude Code本番運用ガイド — CI/CDに組み込む自律エージェント設計</title>
-<link>https://zenn.dev/hampen2929/books/claude-code-production-guide</link>
-<guid isPermaLink="true">https://zenn.dev/hampen2929/books/claude-code-production-guide</guid>
-<pubDate>Sat, 12 Sep 2026 14:11:07 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Claude Codeを対話で使いこなせるようになった。次は、それを「毎晩黙って働くチームメンバー」にする番です。本書は、ヘッドレス実行（claude -p）をCI/CDに組み込み、検出→修正→検証→コミットの自律ループを無人で回すための設計書です。本番運用で立ちはだかる4つの壁——暴走・品質・コスト・監査——に対して、ガードレ... — はてなブックマーク テクノロジー / score: 75 (CI/CDでの自律AIエージェント運用の実践的解説)</description>
 </item>
 <item>
 <title>[75] クロスプラットフォーム開発が解決するコスト、解決しないコスト</title>
@@ -797,14 +805,6 @@
 <pubDate>Mon, 07 Sep 2026 07:34:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>OpenAIのGreg Brockman氏やMark Chen氏、NVIDIAのJensen Huang氏が、Xへの投稿でAGI（汎用人工知能）の到来や、その時代への移行に言及した。 — gihyo.jp / score: 75 (AGI到来に関する業界トップの発言)</description>
-</item>
-<item>
-<title>[75] Research acceleration: The view inside OpenAI</title>
-<link>https://openai.com/index/research-acceleration-view-inside-openai</link>
-<guid isPermaLink="true">https://openai.com/index/research-acceleration-view-inside-openai</guid>
-<pubDate>Sun, 06 Sep 2026 08:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration. — OpenAI News / score: 75 (OpenAI内部でのAIコーディングエージェント活用状況の報告)</description>
 </item>
 </channel>
 </rss>
