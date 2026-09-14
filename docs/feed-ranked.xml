@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 14 Sep 2026 14:10:42 +0000</lastBuildDate>
+<lastBuildDate>Mon, 14 Sep 2026 16:09:42 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「GitLab」に緊急パッチ、CVSS満点「10.0」の脆弱性 ～認証なしでサーバーファイルを読まれる／自己管理型の環境は即時のアップデートを</title>
@@ -50,9 +50,9 @@
 <title>[90] OpenAIのAIエージェントがRubyGemsへの攻撃に関与か、2000件超のパッケージ投稿やAPIキー窃取の試みが判明</title>
 <link>https://gigazine.net/news/20260914-openai-agent-cyber-attack-rubygems/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260914-openai-agent-cyber-attack-rubygems/</guid>
-<pubDate>Mon, 14 Sep 2026 05:20:56 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>OpenAIが訓練・評価していたAIエージェントが、プログラミング言語「Ruby」のパッケージ配布サービス「RubyGems.org」への大規模な攻撃に関与していた可能性があることが分かりました。セキュリティ研究者らによると、2026年5月に2000件を超えるパッケージが投稿され、RubyDoc.infoのサーバー上で任意のコードを実行した... — はてなブックマーク テクノロジー / score: 90 (OpenAIのAIエージェントによるRubyGems攻撃関与)</description>
+<pubDate>Mon, 14 Sep 2026 05:15:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>OpenAIが訓練・評価していたAIエージェントが、プログラミング言語「Ruby」のパッケージ配布サービス「RubyGems.org」への大規模な攻撃に関与していた可能性があることが分かりました。セキュリティ研究者らによると、2026年5月に2000件を超えるパッケージが投稿され、RubyDoc.infoのサーバー上で任意のコードを実行したほか、一部では利用者のAPIキーを取得しようとする処理も確認されたとのことです。 続きを読む... — GIGAZINE / score: 90 (OpenAIのAIエージェントによるRubyGems攻撃関与)</description>
 </item>
 <item>
 <title>[90] Microsoft、ネイティブGoコンパイラを採用した TypeScript 7.0 をリリース。ビルド速度が10倍に向上</title>
@@ -354,7 +354,7 @@
 <title>[80] OpenAIやAnthropicなどAIベンダごとのAPIの違いを吸収し統合する「Agent Router」、Linux Foundation傘下で業界標準へ</title>
 <link>https://www.publickey1.jp/blog/26/openaianthropicapiagent_routerlinux_foundation.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/openaianthropicapiagent_routerlinux_foundation.html</guid>
-<pubDate>Mon, 14 Sep 2026 14:10:15 +0000</pubDate>
+<pubDate>Mon, 14 Sep 2026 15:51:16 +0000</pubDate>
 <category>Publickey</category>
 <description>MCPやAGENTS.md、Agent2AgentプロトコルなどのAIエージェントに関する関連技術の標準化推進や開発などを行うLinux Foundation傘下のAgentic AI Foundation（AAIF）は、オープンソースとし... — Publickey / score: 80 (AIベンダーのAPI統合OSS登場で業界に影響)</description>
 </item>
@@ -511,14 +511,6 @@
 <description>Launch season continues from yesterday , with Gemini 3.8 Flash as rumored today, but Muse Spark 1.3, promised in Zuck’s big comeback letter last month, definitely deserved the title story win today. Per AAII it is now the #3 model in the world (!?!) Just look at the confidence displayed finally putting up comparable numbers to the frontier models from OpenAI and Anthropic (Opus, not Fable)… and promising that it will be open weights as well(!!!): They have an interesting pricing model where it i — Latent Space / score: 80 (MetaのMuse Spark 1.3性能に関する技術的解説)</description>
 </item>
 <item>
-<title>[80] Getting started with Mantis, our open-source bug finding-and-fixing harness</title>
-<link>https://cloud.google.com/blog/products/identity-security/getting-started-with-the-mantis-harness-to-find-and-fix-bugs/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/products/identity-security/getting-started-with-the-mantis-harness-to-find-and-fix-bugs/</guid>
-<pubDate>Wed, 02 Sep 2026 16:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>AI models have clearly proven their ability to discover and exploit vulnerabilities without much, if any, human assistance. To help defenders gain the advantage with AI, we built the Mantis harness to automate the discovery, triage, reproduction, and patching of software vulnerabilities. Available to all as an open-source framework, Mantis is part of Google’s internal approach to find and fix vulnerabilities at machine-speed. It creates a more effective scalable, context-aware repository analysi — Google Cloud Blog / score: 80 (AIを活用したオープンソースの脆弱性発見ツール)</description>
-</item>
-<item>
 <title>[80] AWS Lambda now supports SnapStart for container image functions</title>
 <link>https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-snapstart-container/</link>
 <guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-snapstart-container/</guid>
@@ -546,7 +538,7 @@
 <title>[75] AnthropicのMCP共同作者が来日、基調講演で語るこれからのMCP注力領域。AGNTCon＋MCPCon Japan 2026</title>
 <link>https://www.publickey1.jp/blog/26/anthropicmcpmcpagntconmcpcon_japan_2026.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/anthropicmcpmcpagntconmcpcon_japan_2026.html</guid>
-<pubDate>Mon, 14 Sep 2026 14:10:15 +0000</pubDate>
+<pubDate>Mon, 14 Sep 2026 15:55:18 +0000</pubDate>
 <category>Publickey</category>
 <description>AIエージェントおよびMCP（Model Context Protocol）を主題としたイベント「AGNTCon＋MCPCon Japan 2026」が9月10日に東京渋谷のイベントホールで開催されました。主催はLinux Foundati... — Publickey / score: 75 (MCPやAIエージェントに関する重要動向の講演)</description>
 </item>
@@ -573,6 +565,14 @@
 <pubDate>Mon, 14 Sep 2026 07:30:00 +0000</pubDate>
 <category>InfoQ Japan</category>
 <description>Amazon Web Services（AWS）は、AWS DevOps Agentの大幅な機能拡張を発表し、コードの変更を評価し、本番環境に展開される前にソフトウェアを自律的にテストする設計がされた新しいリリース管理機能を導入した。 プレビュー版として提供される新機能Release Readiness ReviewとAutonomous Release Testingは、DevOps Agentの適用範囲をデプロイ後の運用からソフトウェアデリバリーパイプラインへと拡大し、エンジニアリングチームがコードのマージ前に本番環境への準備状況を評価し、組織の基準を適用し、変更内容に応じたテストを生成可能にする。 By Craig Risi Translated by Takashi Kawase — InfoQ Japan / score: 75 (AWSのAIを活用したリリース管理機能の拡張)</description>
+</item>
+<item>
+<title>[75] PS2発売から26年、最後の牙城「MechaCon」セキュリティチップのダンプに遂に成功！</title>
+<link>https://sumahodigest.com/?p=70391</link>
+<guid isPermaLink="true">https://sumahodigest.com/?p=70391</guid>
+<pubDate>Mon, 14 Sep 2026 05:15:52 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>2000年の発売から長らく未解明のままであったPlayStation 2（PS2）の強固なセキュリティチップについて、海外の開発者が遂にROMデータの抽出（ダンプ）に成功したと報告し、大きな話題を呼んでいます。 26年間守られ続けた「MechaCon」とは X（旧Twitter）ユーザーのDiscoStarslayer氏は9月13日、「4年の努力の末、PS2の... — はてなブックマーク テクノロジー / score: 75 (PS2のセキュリティチップ解析成功の技術的快挙。)</description>
 </item>
 <item>
 <title>[75] Notion、エージェントで利用可能なAIモデルを制御する機能を追加</title>
