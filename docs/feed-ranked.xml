@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 14 Sep 2026 08:14:27 +0000</lastBuildDate>
+<lastBuildDate>Mon, 14 Sep 2026 10:09:25 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「GitLab」に緊急パッチ、CVSS満点「10.0」の脆弱性 ～認証なしでサーバーファイルを読まれる／自己管理型の環境は即時のアップデートを</title>
@@ -229,14 +229,6 @@
 <pubDate>Fri, 11 Sep 2026 09:15:40 +0000</pubDate>
 <category>窓の杜</category>
 <description>米カーネギーメロン大学のSoftware Engineering Institute（ソフトウェアエンジニアリング研究所）が運営するCERT（Computer Emergency Response Team） Coordination Centerは9月10日（現地時間）、「AOMEI Backupper」に未修正の脆弱性「CVE-2026-12780」があることを発表した。 — 窓の杜 / score: 85 (バックアップソフトにおける未修正の深刻な脆弱性)</description>
-</item>
-<item>
-<title>[85] 運転免許証1億5300万件超が闇サイトに流出　不正アクセスで</title>
-<link>https://japan.cnet.com/article/35252535/</link>
-<guid isPermaLink="true">https://japan.cnet.com/article/35252535/</guid>
-<pubDate>Fri, 11 Sep 2026 02:13:00 +0000</pubDate>
-<category>CNET Japan</category>
-<description>ハッカーたちは被害企業が対策をとるまで1年以上にわたり、運転免許証などの文書を蓄積していたとされる。 — CNET Japan / score: 85 (大規模な個人情報のダークウェブ流出セキュリティ事件)</description>
 </item>
 <item>
 <title>[85] .NET 11リリース候補版が登場。.NETランタイムが非同期ネイティブ対応、プロセッサ数の上限がなくなる、AOTコンパイラによるネイティブバイナリの高速化など</title>
@@ -567,6 +559,22 @@
 <description>Linus Torvaldsは8月30日、次期Linuxカーネル「Linux 7.3」の最初のリリース候補となる「Linux 7.3-rc1」を公開した。 — gihyo.jp / score: 80 (次期LinuxカーネルのRC版リリース)</description>
 </item>
 <item>
+<title>[75] LLMのローカル実行ツール「Ollama」v0.34、「ChatGPT」デスクトップアプリに対応／「ChatGPT」（Codex）アプリでオープンモデルを選択可能。ただし……</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2140699.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2140699.html</guid>
+<pubDate>Mon, 14 Sep 2026 08:56:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>ローカル環境で大規模言語モデル（LLM）を実行できるデスクトップアプリ「Ollama」が9月5日（米国時間、以下同）、v0.34.0へとアップデートされた。 「ChatGPT」デスクトップアプリとの連携を、「Ollama」アプリから設定できるようになった のが目玉で、使い慣れた「ChatGPT」のワークフローはそのままに、オープンなモデルを動かせる。 — 窓の杜 / score: 75 (Ollama v0.34のChatGPT連携機能追加)</description>
+</item>
+<item>
+<title>[75] ウルトラマンぬいぐるみ抽選で不正アクセス　当選者133人が“落選”扱いに</title>
+<link>https://ascii.jp/elem/000/004/434/4434682/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/434/4434682/?rss</guid>
+<pubDate>Mon, 14 Sep 2026 08:15:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>円谷プロダクションとmogilyは9月11日、円谷プロの「ULTRA MART」が利用するmogilyのデジタル整理券システムが不正アクセスを受け、抽選に当選した一部ユーザーのステータスが落選に変更されていたことを公表した。 — ASCII.jp / score: 75 (システムへの不正アクセスとデータ誤変更のセキュリティ事案)</description>
+</item>
+<item>
 <title>[75] AWSがDevOpsエージェントを拡張し、AIを活用したリリース管理機能を追加、本番環境投入前のコード検証を実現</title>
 <link>https://www.infoq.com/jp/news/2026/09/aws-devops-ai-agent/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
 <guid isPermaLink="true">https://www.infoq.com/jp/news/2026/09/aws-devops-ai-agent/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
@@ -797,14 +805,6 @@
 <pubDate>Fri, 04 Sep 2026 16:00:00 +0000</pubDate>
 <category>Gemini (Google Blog)</category>
 <description>Lyria 3.5, our best-sounding music generation model, is now available in the Gemini app and the Gemini API. Lyria 3.5 brings more expressive vocals and richer musical ar… — Gemini (Google Blog) / score: 75 (Googleの音楽生成モデルLyria 3.5の発表)</description>
-</item>
-<item>
-<title>[75] Kotlin Toolchain 0.12: Multiplatform Library Publishing, Wasm Apps, and More</title>
-<link>https://blog.jetbrains.com/kotlin/2026/09/kotlin-toolchain-0-12-multiplatform-library-publishing-wasm-apps-and-more/</link>
-<guid isPermaLink="true">https://blog.jetbrains.com/kotlin/2026/09/kotlin-toolchain-0-12-multiplatform-library-publishing-wasm-apps-and-more/</guid>
-<pubDate>Thu, 03 Sep 2026 10:40:05 +0000</pubDate>
-<category>Kotlin Blog</category>
-<description>Kotlin Toolchain 0.12.0 is out. This release brings some long-awaited features: multiplatform libraries publication, a preview of Wasm application support, Compose Hot Reload from the command line, and more. Read on for the details, and check the release notes for the full list of changes and bug fixes. Additionally, klibs.io now uses the Kotlin Toolchain […] — Kotlin Blog / score: 75 (Kotlinツールチェーンの主要機能追加アップデート)</description>
 </item>
 </channel>
 </rss>
