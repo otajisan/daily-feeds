@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Tue, 15 Sep 2026 20:09:49 +0000</lastBuildDate>
+<lastBuildDate>Tue, 15 Sep 2026 22:08:52 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] Apple、「iOS 27」「iPadOS 27」の一般提供を開始 ～「Siri AI」の日本語対応は年内／126件の脆弱性修正も</title>
@@ -143,6 +143,14 @@
 <description>OpenAIは2026年9月3日、新モデル「GPT-6 Astra」を発表した。 — gihyo.jp / score: 90 (OpenAIの次世代モデル「GPT-6 Astra」発表)</description>
 </item>
 <item>
+<title>[85] Homebrew 7.0.0リリース、パフォーマンス向上・セキュリティ強化の一方でmacOS 10.15のサポート終了・Intel MacがTier 3に移行</title>
+<link>https://gigazine.net/news/20260916-homebrew-v700/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20260916-homebrew-v700/</guid>
+<pubDate>Tue, 15 Sep 2026 22:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>2026年9月13日にパッケージマネージャーのHomebrewがメジャーアップデート「7.0.0」をリリースしました。今回のバージョンアップは数々の重要な変更点を含んでおり、開発者のための環境がより高速かつ安全になる一方でmacOSのサポートポリシーに大きな変更が見られます。 続きを読む... — GIGAZINE / score: 85 (Homebrew 7.0.0のメジャーリリースと仕様変更)</description>
+</item>
+<item>
 <title>[85] Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking</title>
 <link>https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/</link>
 <guid isPermaLink="true">https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/</guid>
@@ -199,14 +207,6 @@
 <description>JDK 27 is now available! Oracle is proud to announce the general availability of JDK 27 for developers, enterprises, and end-users. — Inside Java / score: 85 (JDK 27の一般提供開始に関する公式アナウンス)</description>
 </item>
 <item>
-<title>[85] Apple、｢macOS 27 Golden Gate｣を正式にリリース</title>
-<link>https://taisy0.com/2026/09/15/227621.html</link>
-<guid isPermaLink="true">https://taisy0.com/2026/09/15/227621.html</guid>
-<pubDate>Mon, 14 Sep 2026 18:11:43 +0000</pubDate>
-<category>気になる、記になる…</category>
-<description>本日、Appleが、macOSの最新メジャーアップデートとなる「macOS 27 Golden Gate」を正式にリリースしました。 「macOS 27 Golden Gate」には、さまざまなアプリでのApp […] — 気になる、記になる… / score: 85 (主要OSのメジャーリリース)</description>
-</item>
-<item>
 <title>[85] 「Microsoft Edge 153」が公開 ～「Chromium」で実施された大量の脆弱性修正を反映／タブのフェード表示は廃止</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2140502.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2140502.html</guid>
@@ -245,14 +245,6 @@
 <pubDate>Sun, 13 Sep 2026 15:27:57 +0000</pubDate>
 <category>Publickey</category>
 <description>マイクロソフト社内において、Rust言語がC++/C#/TypeScriptに並ぶTier 1言語になったことが明らかになりました。 マイクロソフトの開発部門でRustツールチームのプリンシパルエンジニア Victor Ciura氏がRus... — Publickey / score: 85 (マイクロソフトがRustをTier 1言語に格上げ)</description>
-</item>
-<item>
-<title>[85] 悪用された製品の弱点、24時間以内に第一報を--EUがメーカーに義務</title>
-<link>https://japan.cnet.com/article/35252566/</link>
-<guid isPermaLink="true">https://japan.cnet.com/article/35252566/</guid>
-<pubDate>Sat, 12 Sep 2026 22:40:00 +0000</pubDate>
-<category>CNET Japan</category>
-<description>欧州連合（EU）では9月11日、製品のセキュリティー上の弱点が実際に悪用された場合などに、メーカーが認知から24時間以内に当局へ第一報を出す義務が始まった。デジタル製品の安全対策を求める「サイバーレジリエンス法（CRA）」に基づく。 — CNET Japan / score: 85 (EUのサイバーレジリエンス法による24時間以内報告義務)</description>
 </item>
 <item>
 <title>[85] OpenAI agents attacked RubyGems back in May</title>
@@ -805,6 +797,14 @@
 <pubDate>Thu, 10 Sep 2026 21:11:15 +0000</pubDate>
 <category>Simon Willison</category>
 <description>Native is now the future of mobile at Shopify Shopify are moving from React Native back to separate Swift and Kotlin codebases for their native apps, for the exact reason you would expect: We decided to switch from native to React Native in 2020 for three reasons: Stop building the same features twice Allow developers to work across the stack Spend less time chasing feature parity and more time shipping value [...] Native still means building and maintaining software on two platforms, that cost  — Simon Willison / score: 75 (ShopifyがReact Nativeからネイティブへ移行)</description>
+</item>
+<item>
+<title>[75] Now everyone can put data to work</title>
+<link>https://openai.com/index/put-data-to-work</link>
+<guid isPermaLink="true">https://openai.com/index/put-data-to-work</guid>
+<pubDate>Thu, 10 Sep 2026 15:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language. — OpenAI News / score: 75 (ChatGPTの新機能データエージェント)</description>
 </item>
 </channel>
 </rss>
