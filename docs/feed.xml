@@ -4,8 +4,16 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Tue, 15 Sep 2026 18:10:28 +0000</lastBuildDate>
+<lastBuildDate>Tue, 15 Sep 2026 20:09:49 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Amazon SageMaker AI now supports instance preference lists for training and processing jobs</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-sagemaker-training-processing-instance-pref-lists/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-sagemaker-training-processing-instance-pref-lists/</guid>
+<pubDate>Tue, 15 Sep 2026 18:30:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Today, Amazon SageMaker AI announces instance preference lists for training and processing jobs, making it easier and faster to find compute capacity for your workloads. Many AI training, fine-tuning, and data processing workloads run comparably well on any of several instance types or sizes. However, before now, you had to name only one instance type at the time of job submission and wait for SageMaker to find that specific instance for your job. For high-demand GPUs during peak periods, where  — AWS What's New / score: 65 (AWSの主要AIサービスの機能アップデート)</description>
+</item>
 <item>
 <title>Introducing new session management tools with native, granular controls</title>
 <link>https://cloud.google.com/blog/products/identity-security/introducing-new-session-management-tools-with-native-granular-controls/</link>
@@ -271,6 +279,14 @@
 <description>2025年12月16日の記事を編集して再掲載しています。過酷な環境下で行うアクティビティにおいても、モバイルバッテリーは欠かせない存在。しかし従来のモデルでは、発火のリスクや低温によるバッテリー容量の低下など、安全性と信頼性の両面で不安が残… — ギズモード・ジャパン / score: 20 (新素材バッテリーを使った製品のレビュー)</description>
 </item>
 <item>
+<title>バイブコーディングで GUI が壊れていく理由とその対策プロンプト</title>
+<link>https://zenn.dev/nrs/articles/9ba91aea587bf5</link>
+<guid isPermaLink="true">https://zenn.dev/nrs/articles/9ba91aea587bf5</guid>
+<pubDate>Tue, 15 Sep 2026 13:00:04 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>TLDL AIに常駐アプリの画面を作らせる際は以下の指示を出します。 この指示をそのまま伝えてみてください。 すべてのコンポーネントを Root の配下に置き、各コンポーネントは MVP パターンの Passive View として描画に関わるパラメータだけを操作し、動作は Chain of Responsibility でイベントをバブリングさせて、ス... — はてなブックマーク テクノロジー / score: 55 (AI開発におけるGUI構築の実用的なプロンプト解説)</description>
+</item>
+<item>
 <title>New insights from Google’s AI &amp; Economy ATLAS</title>
 <link>https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/</link>
 <guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/</guid>
@@ -503,14 +519,6 @@
 <description>【期間限定28%OFF】13.4インチ大画面×Gemini AI搭載！「U13 PRO セット版」が35,900円に。11,000mAhバッテリー＆120Hz高リフレッシュレートで快適なタブレット体験 — ASCII.jp / score: 15 (タブレット端末のPR・セール記事)</description>
 </item>
 <item>
-<title>1億5,000万ステップの勘定系をどう変えるか？ 三菱UFJ、40年物メインフレームのモダナイゼーション</title>
-<link>https://codezine.jp/article/detail/29408</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/29408</guid>
-<pubDate>Tue, 15 Sep 2026 09:21:08 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>三菱UFJ銀行の勘定系システムは、1987年の第3次オンライン以来、約40年にわたって同じアーキテクチャの上で機能追加を重ねてきた。内製システムだけで約1億5,000万ステップという巨大さは、もはや「刷新するか延命するか」の二択では語れない。三菱UFJインフォメーションテクノロジー（MUIT）の鈴木重統氏は、Developers... — はてなブックマーク テクノロジー / score: 65 (40年物メインフレームの巨大モダナイゼーション事例)</description>
-</item>
-<item>
 <title>『ファイアーエムブレム 万紫千紅』の紹介映像が公開！発売前にゲームの特徴をチェックしよう</title>
 <link>https://ascii.jp/elem/000/004/435/4435084/?rss</link>
 <guid isPermaLink="true">https://ascii.jp/elem/000/004/435/4435084/?rss</guid>
@@ -549,6 +557,14 @@
 <pubDate>Tue, 15 Sep 2026 09:03:41 +0000</pubDate>
 <category>ASCII.jp</category>
 <description>「買ったのに、使えない」をなくす。家庭用カラオケサウンドバー「KARA×KARA」設置サービスを本日開始 — ASCII.jp / score: 10 (家電製品の設置サービス開始情報)</description>
+</item>
+<item>
+<title>NVIDIAが映像フレーム補間や生中継翻訳などの放送業界向けAIコレクション「NVIDIA AI for Media」の大幅拡充を発表</title>
+<link>https://gigazine.net/news/20260915-nvidia-ai-for-media/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20260915-nvidia-ai-for-media/</guid>
+<pubDate>Tue, 15 Sep 2026 09:02:39 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>NVIDIAは放送業界向けのAIツールコレクションとして「NVIDIA AI For Media」を展開しています。このNVIDIA AI For Mediaに複数の新規AIツールが加わりました。 NVIDIA Brings Real-Time AI to Broadcast, Sports and Global Streaming at IBC | NVIDIA Blog https://blogs.nvidia.com/blog/ibc-news-2026/ NVIDIA AI For... — はてなブックマーク テクノロジー / score: 55 (NVIDIAの放送業界向けAIツールコレクション拡充)</description>
 </item>
 <item>
 <title>プロeスポーツチーム『ZETA DIVISION』が『NTT東日本』とスポンサー契約を締結</title>
@@ -629,14 +645,6 @@
 <pubDate>Tue, 15 Sep 2026 08:45:14 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>はじめにこんにちは､株式会社HERPのDevPlatformにてなんか色々している河原です｡今年5月に再入社しました｡ AIにより生成されるコードの品質は､人の手で書かれたオーガニックなコードよりも場所によってはもはや優れてさえいます｡一方で､技術的負債……というかTODOやらdeprecatedやらlinterのinline disableやら､カルマ値... — はてなブックマーク テクノロジー / score: 45 (AIコーディングにおける技術的負債についての解説)</description>
-</item>
-<item>
-<title>NVIDIAが映像フレーム補間や生中継翻訳などの放送業界向けAIコレクション「NVIDIA AI for Media」の大幅拡充を発表</title>
-<link>https://gigazine.net/news/20260915-nvidia-ai-for-media/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260915-nvidia-ai-for-media/</guid>
-<pubDate>Tue, 15 Sep 2026 08:39:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>NVIDIAは放送業界向けのAIツールコレクションとして「NVIDIA AI For Media」を展開しています。このNVIDIA AI For Mediaに複数の新規AIツールが加わりました。 続きを読む... — GIGAZINE / score: 55 (NVIDIAの放送業界向けAIツールコレクション拡充)</description>
 </item>
 <item>
 <title>「監視されていないときのAIは、もう評価できない」　OpenAI現役研究者が個人声明</title>
@@ -797,14 +805,6 @@
 <pubDate>Tue, 15 Sep 2026 08:00:11 +0000</pubDate>
 <category>ギター・マガジンWEB</category>
 <description>国産ブティック・ギター・ブランドのビルダーや仕掛け人たちに、音楽的なルーツやギター製作の哲学を聞いた『にっぽんのエレキ人 2026』では、各ブランドのオリジナル・ギター18本をDo As Infinityの大渡亮が徹底試奏！ その試奏部分をWEBでもお届けしよう。今回はEuphorealのLuLu — ギター・マガジンWEB / score: 15 (国産ブティックギターの試奏のため)</description>
-</item>
-<item>
-<title>SAITO GUITARS／622BEYOND Trans Red　大渡亮が国産ブティック・ギターを一挙試奏！</title>
-<link>https://guitarmagazine.jp/gear/2026-09-jpb-saito/</link>
-<guid isPermaLink="true">https://guitarmagazine.jp/gear/2026-09-jpb-saito/</guid>
-<pubDate>Tue, 15 Sep 2026 08:00:10 +0000</pubDate>
-<category>ギター・マガジンWEB</category>
-<description>国産ブティック・ギター・ブランドのビルダーや仕掛け人たちに、音楽的なルーツやギター製作の哲学を聞いた『にっぽんのエレキ人 2026』では、各ブランドのオリジナル・ギター18本をDo As Infinityの大渡亮が徹底試奏！ その試奏部分をWEBでもお届けしよう。今回はSAITO GUITARSの6 — ギター・マガジンWEB / score: 10 (音楽・ギター機材の話題であり技術者向けではない)</description>
 </item>
 </channel>
 </rss>
