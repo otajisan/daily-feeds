@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 16 Sep 2026 10:09:41 +0000</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 12:14:27 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] Apple、「iOS 27」「iPadOS 27」の一般提供を開始 ～「Siri AI」の日本語対応は年内／126件の脆弱性修正も</title>
@@ -47,14 +47,6 @@
 <description>米Oracleは9月15日（現地時間）、「Critical Security Patch Update」（CSPU）を実施した。「Oracle Database Server」「Oracle E-Business Suite」「Oracle Java SE」「Oracle Virtualization」など幅広い製品ファミリーに対し、673件の新規セキュリティパッチが発行されている。 — 窓の杜 / score: 90 (Oracle製品群の多数の脆弱性を修正する定例パッチ)</description>
 </item>
 <item>
-<title>[90] Google Chromeにアップデート　深刻度”重大”含む42件の脆弱性を修正</title>
-<link>https://ascii.jp/elem/000/004/435/4435450/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/435/4435450/?rss</guid>
-<pubDate>Wed, 16 Sep 2026 08:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>グーグルは9月15日、デスクトップおよびAndroid版「Google Chrome」のアップデートを公開。深刻度「重大」を含む42件の脆弱性に対処した。 — ASCII.jp / score: 90 (主要ブラウザの重大な脆弱性を含む多数の修正)</description>
-</item>
-<item>
 <title>[90] 「Google Chrome 153」にセキュリティ更新、『致命的』な3件を含む42件の脆弱性を修正／Windows環境にはv153.0.8010.47/.48が展開中</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2141309.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2141309.html</guid>
@@ -93,6 +85,14 @@
 <pubDate>Mon, 14 Sep 2026 21:45:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Appleは9月14日（現地時間）、「iOS 26.7」および「iPadOS 26.7」をリリースした。82件の脆弱性に対処したセキュリティアップデートとなっている。 — 窓の杜 / score: 90 (Apple製OSの多数の脆弱性修正)</description>
+</item>
+<item>
+<title>[90] AWS SSM Agent の脆弱性(CVE-2026-89049) の被害があったかどうかを CloudTrail で確認する方法</title>
+<link>https://zenn.dev/cscloud_blog/articles/4d6e13b853109e</link>
+<guid isPermaLink="true">https://zenn.dev/cscloud_blog/articles/4d6e13b853109e</guid>
+<pubDate>Mon, 14 Sep 2026 01:30:42 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>どうもサイバーセキュリティクラウドで脅威インテリジェンスをしている西川です。 今日は表題の CVSS v3.1 における CVSS 9.9(Critical) の脆弱性について実際に脆弱性が悪用された場合にどういうログが CloudTrail に出るのかを検証し、皆様の環境で被害が発生していないか確認していただくためにブログを執筆いたしました。ただこのスコアほど影響度は高くないというのが個人的な印象です。それらについてもまとめているので最後までご覧ください。 CVE-2026-89049 とは 2026年9月10日に AWS は AWS Systems Manager Agent（以... — Zenn トレンド / score: 90 (深刻な脆弱性の影響確認方法に関する実用的な解説)</description>
 </item>
 <item>
 <title>[90] Microsoft、ネイティブGoコンパイラを採用した TypeScript 7.0 をリリース。ビルド速度が10倍に向上</title>
@@ -167,14 +167,6 @@
 <description>Mozillaは9月15日（米国時間）、デスクトップ向け「Firefox」の最新版v156.0をリリースチャネルで公開した。「Firefox 155」に続くメジャーバージョンアップだが、内容は比較的小規模なものとなっている。 — 窓の杜 / score: 85 (主要ブラウザのメジャーアプデと多数の脆弱性修正)</description>
 </item>
 <item>
-<title>[85] 「Gyazo」への不正アクセスによる情報漏えいに関するお知らせとお詫び - Gyazo Product Updates</title>
-<link>https://updates.gyazo.com/ja/gyazo-henobu-zheng-akusesuniyoruqing-bao-lou-einiguan-suruozhi-rasetoocha-bi-1g9tcc</link>
-<guid isPermaLink="true">https://updates.gyazo.com/ja/gyazo-henobu-zheng-akusesuniyoruqing-bao-lou-einiguan-suruozhi-rasetoocha-bi-1g9tcc</guid>
-<pubDate>Wed, 16 Sep 2026 06:29:17 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>株式会社Helpfeel（本社：京都府京都市、代表取締役 CEO：洛西一周、以下：当社）が提供する画像共有サービス「Gyazo」において、第三者による不正アクセスが発生し、ユーザー情報およびアップロードされた画像に関するメタデータの一部が外部に漏えいしたことを確認いたしました。 現在、不正アクセスに利用された経路... — はてなブックマーク テクノロジー / score: 85 (Gyazoの不正アクセスによる情報漏えい)</description>
-</item>
-<item>
 <title>[85] Oracle、「Java 27」を発表 ～TLS 1.3のポスト量子暗号対応や「G1」GCの既定化など／4つのプレビューと1つのインキュベーターを含む、9つのJEPが実装</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2141307.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2141307.html</guid>
@@ -215,6 +207,14 @@
 <description>Windowsの定例アップデートで発生していたバグを修正するパッチが配信されました。オーディオデバイスに発生していたバグなどが修正されています。 続きを読む... — GIGAZINE / score: 85 (Windows 11の緊急パッチ配信)</description>
 </item>
 <item>
+<title>[85] Java 27リリース――ヒープ使用効率向上と安全性の重視 | gihyo.jp</title>
+<link>https://gihyo.jp/article/2026/09/java27</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/09/java27</guid>
+<pubDate>Wed, 16 Sep 2026 00:00:26 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>2026年9月15日（米国時間）にJava 27がリリースされました。 Java 27は、2年ごとのLTS（Long Term Support：長期サポート）バージョンのちょうど中間にあたるバージョンです。そのため、新しい機能の導入はあまりありません。 しかし、LTSに向け安定性や安全性の向上など、ユーザから直接目に触れないような部分が強化さ... — はてなブックマーク テクノロジー / score: 85 (主要な言語プラットフォームJava 27のリリース)</description>
+</item>
+<item>
 <title>[85] Gemini Live audio</title>
 <link>https://simonwillison.net/2026/Sep/15/gemini-live/</link>
 <guid isPermaLink="true">https://simonwillison.net/2026/Sep/15/gemini-live/</guid>
@@ -229,14 +229,6 @@
 <pubDate>Tue, 15 Sep 2026 22:37:30 +0000</pubDate>
 <category>Yahoo!ニュース IT</category>
 <description> — Yahoo!ニュース IT / score: 85 (通信キャリアによる大規模な個人情報無断提供問題)</description>
-</item>
-<item>
-<title>[85] Java 27リリース――ヒープ使用効率向上と安全性の重視</title>
-<link>https://gihyo.jp/article/2026/09/java27?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/09/java27?utm_source=feed</guid>
-<pubDate>Tue, 15 Sep 2026 22:00:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>2026年9月15日（米国時間）にJava 27がリリースされました。アップデート内容およびセキュリティ関連の話題などについて紹介します。 — gihyo.jp / score: 85 (主要な言語プラットフォームJava 27のリリース)</description>
 </item>
 <item>
 <title>[85] Homebrew 7.0.0リリース、パフォーマンス向上・セキュリティ強化の一方でmacOS 10.15のサポート終了・Intel MacがTier 3に移行</title>
@@ -495,20 +487,12 @@
 <description>Cloudflareは2026年9月15日、Webサイトの検索インデックスへの登録を維持しながら、コンテンツのAI学習への利用を拒否する設定「Disallow AI Training」を発表した。 — gihyo.jp / score: 80 (検索許可とAI学習拒否を両立する新機能の発表)</description>
 </item>
 <item>
-<title>[80] 基盤事業者が狙われた夏――盗まれたのは「取引先との関係」だった | SECURITY DRIVE</title>
-<link>https://securitydrive.jp/column/0019/</link>
-<guid isPermaLink="true">https://securitydrive.jp/column/0019/</guid>
-<pubDate>Wed, 16 Sep 2026 05:30:08 +0000</pubDate>
+<title>[80] TypeSafe AI、AIモデル「Jev」の早期提供を開始 ——判断結果を構造化データで高速出力、ソフトウェアでの活用を想定 | gihyo.jp</title>
+<link>https://gihyo.jp/article/2026/09/jev-early-access</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/09/jev-early-access</guid>
+<pubDate>Wed, 16 Sep 2026 02:54:43 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>基盤事業者が狙われた夏――盗まれたのは「取引先との関係」だった 2026年の夏、メールやレンタルサーバーなど、私たちの日々のやりとりを預かる基盤事業者への侵害が相次いだ。KDDI、Eストアー、NTTスマートコネクト、さくらインターネット、そして政府共通の業務基盤GSS――同一犯とは考えにくいが、被害には共通の変化が... — はてなブックマーク テクノロジー / score: 80 (インフラ・基盤事業者の相次ぐ侵害事件)</description>
-</item>
-<item>
-<title>[80] TypeSafe AI、AIモデル「Jev」の早期提供を開始 ——判断結果を構造化データで高速出力、ソフトウェアでの活用を想定</title>
-<link>https://gihyo.jp/article/2026/09/jev-early-access?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/09/jev-early-access?utm_source=feed</guid>
-<pubDate>Wed, 16 Sep 2026 02:22:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>TypeSafe AIは9月15日、ソフトウェア内の判断処理に特化したAIモデル「Jev」の早期アクセス提供を発表した。 — gihyo.jp / score: 80 (構造化データ出力に特化した新規AIモデルの提供開始)</description>
+<description>TypeSafe AI⁠⁠、AIモデル「Jev」の早期提供を開始 —⁠—判断結果を構造化データで高速出力⁠⁠、ソフトウェアでの活用を想定 TypeSafe AIは9月15日、ソフトウェア内の判断処理に特化したAIモデル「Jev」の早期アクセス提供を発表した。文章やコードを生成せず、あらかじめ定めた選択肢や評価尺度に沿って判断結果を返す。ウ... — はてなブックマーク テクノロジー / score: 80 (構造化データ出力に特化した新規AIモデルの提供開始)</description>
 </item>
 <item>
 <title>[80] JDK 27 Security Enhancements</title>
@@ -666,9 +650,9 @@
 <title>[75] AIエージェントがインターネットを壊し始めているとの指摘</title>
 <link>https://gigazine.net/news/20260916-ai-agent-ruining-internet/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260916-ai-agent-ruining-internet/</guid>
-<pubDate>Wed, 16 Sep 2026 03:41:01 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>これまでチャットボットの中だけで完結していたAIとのやりとりが、AIが外部のサイトに接続してデータ処理を行ったりレストランの予約を行ったりすることで多方面に影響を及ぼすようになりました。人間の代わりにいろいろな処理を行ってくれる「AIエージェント」の存在について、テクノロジー系メディアの404 Mediaが「イ... — はてなブックマーク テクノロジー / score: 75 (AIエージェントの普及がネット環境に与える影響の考察)</description>
+<pubDate>Wed, 16 Sep 2026 03:38:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>これまでチャットボットの中だけで完結していたAIとのやりとりが、AIが外部のサイトに接続してデータ処理を行ったりレストランの予約を行ったりすることで多方面に影響を及ぼすようになりました。人間の代わりにいろいろな処理を行ってくれる「AIエージェント」の存在について、テクノロジー系メディアの404 Mediaが「インターネットを壊しつつある」と論じています。 続きを読む... — GIGAZINE / score: 75 (AIエージェントの普及がネット環境に与える影響の考察)</description>
 </item>
 <item>
 <title>[75] GitHub Copilot、自動モデル選択に3つのティアを追加</title>
@@ -687,12 +671,12 @@
 <description>VBScript廃止に備えよ！ Windowsライセンス認証の自動化はslmgr.vbsではなくPowerShellで／Microsoftが新モジュール「OSLicense」の利用を呼び掛け — はてなブックマーク テクノロジー / score: 75 (VBScript廃止に伴うWindows管理の移行注意喚起)</description>
 </item>
 <item>
-<title>[75] macOS 27 Golden Gateでは次期macOS 28で起動しなくなるRosetta 2を利用したIntelベースのアプリを再度警告し、システム設定アプリで一覧を表示できるように。</title>
-<link>https://applech2.com/archives/20260916-macos-27-golden-gate-intel-app-warning.html</link>
-<guid isPermaLink="true">https://applech2.com/archives/20260916-macos-27-golden-gate-intel-app-warning.html</guid>
-<pubDate>Tue, 15 Sep 2026 22:33:45 +0000</pubDate>
+<title>[75] 国内すべての企業に迫るセキュリティー試験　合格には「星3個」必要 - 日本経済新聞</title>
+<link>https://www.nikkei.com/article/DGXZQOUC054AB0V00C26A8000000/</link>
+<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUC054AB0V00C26A8000000/</guid>
+<pubDate>Wed, 16 Sep 2026 00:05:33 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>macOS 27 Golden Gateでは次期macOS 28で起動しなくなるRosetta 2を利用したIntelベースのアプリを再度警告し、システム設定アプリで一覧を表示できるようになっています。詳細は以下から。 Appleが日本時間2026年09月15日に正式リリースした「macOS 27 Golden Gate」は、システム要件がApple Silicon Mac以上となりInte... — はてなブックマーク テクノロジー / score: 75 (macOSのメジャーアプデとRosetta 2廃止警告)</description>
+<description>国は2027年3月ごろからすべての企業を対象に、サイバーセキュリティーの状況を可視化する制度を始める。星1個から5個までで認定し、星3個を最低限必要な水準とする。中小企業にはハードルが高く、支援ビジネスも広がってきた。8月18日、ビルマネジメントなどを手掛ける企業の担当者が会議室でパソコンに向かい、顔をしか... — はてなブックマーク テクノロジー / score: 75 (全企業対象のセキュリティ制度で影響が大きい)</description>
 </item>
 <item>
 <title>[75] Agent Substrate brings high-density, scalable, trusted infrastructure to GKE</title>
@@ -709,14 +693,6 @@
 <pubDate>Tue, 15 Sep 2026 14:00:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>AIに文章作成や調査を任せるだけでなく、会社の経営そのものをAIエージェントに任せるためのプラットフォーム「Pion」をAndon Labsが発表しました。PionではAIエージェントが長時間動き続け、メールや電話、ブラウザ、銀行機能などを使いながら事業運営を進めます。 続きを読む... — GIGAZINE / score: 75 (企業経営を自動化するAIエージェントプラットフォーム)</description>
-</item>
-<item>
-<title>[75] Googleが自社製品に使ったオープンソースの開発者名を勝手に削除してライセンス表示もしていなかったことが発覚</title>
-<link>https://gigazine.net/news/20260915-google-removed-open-source-credit-authors/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260915-google-removed-open-source-credit-authors/</guid>
-<pubDate>Tue, 15 Sep 2026 11:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>オープンソースソフトウェアはソースコードを自由に使用・調査・再配布・改変できるソフトウェアであり、現代ではさまざまなソフトウェア製品やツールにオープンソースのコードが含まれています。ところが、Googleがリリースした製品に含まれるオープンソースソフトウェアを開発したスタートアップが、「Googleが勝手にコードからオリジナルの開発者名を削除した」と指摘しました。 続きを読む... — GIGAZINE / score: 75 (オープンソースのクレジット削除問題に関する深刻な指摘)</description>
 </item>
 <item>
 <title>[75] オープンソースのコーディングエージェントClineのデスクトップアプリ「Cline Desktop」が登場</title>
@@ -805,6 +781,30 @@
 <pubDate>Fri, 11 Sep 2026 10:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second. — OpenAI News / score: 75 (10億人規模を支える大規模ストレージ設計)</description>
+</item>
+<item>
+<title>[75] 画像編集ソフト「GIMP 3.2.6」が公開 ～8月に報じた脆弱性など、27件のCVEに対処／Mac版はビルド体制を一新してWindows・Linux版と同時公開に</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2140258.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2140258.html</guid>
+<pubDate>Fri, 11 Sep 2026 08:21:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>「GIMP」開発チームは9月10日（現地時間、以下同）、無償の画像編集・処理ソフト「GIMP」の最新安定版v3.2.6を公開した。ここ数カ月分のパッチや不具合修正、セキュリティアップデートをまとめたものとなっている。 — 窓の杜 / score: 75 (GIMP最新版での多数の脆弱性修正とアップデート)</description>
+</item>
+<item>
+<title>[75] Google、GeminiのWindowsアプリを提供開始</title>
+<link>https://gihyo.jp/article/2026/09/gemini-app-for-windows?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/09/gemini-app-for-windows?utm_source=feed</guid>
+<pubDate>Fri, 11 Sep 2026 05:09:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Googleは9月10日、AIアシスタント「Gemini」のWindows向けアプリの提供開始を発表した。Windows 10とWindows 11に対応している。 — gihyo.jp / score: 75 (Google製GeminiのWindowsアプリ提供開始)</description>
+</item>
+<item>
+<title>[75] OpenAI、GPT-Live-1をAPIで提供開始 ——発話中の割り込みや依頼の変更に対応</title>
+<link>https://gihyo.jp/article/2026/09/gpt-live-1-api?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/09/gpt-live-1-api?utm_source=feed</guid>
+<pubDate>Fri, 11 Sep 2026 02:43:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>OpenAIは9月10日、音声モデル「GPT-Live-1」のAPI提供を開始した。開発者は、発話中もユーザーの声を聞き取り、割り込みや依頼の変更に対応する音声エージェントを構築できる。 — gihyo.jp / score: 75 (OpenAIによるリアルタイム音声モデルAPIの提供開始)</description>
 </item>
 </channel>
 </rss>
