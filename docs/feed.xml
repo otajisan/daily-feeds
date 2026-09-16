@@ -4,23 +4,111 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 16 Sep 2026 14:10:19 +0000</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 16:10:45 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Quoting Mustafa Suleyman</title>
+<link>https://simonwillison.net/2026/Sep/16/mustafa-suleyman/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Sep/16/mustafa-suleyman/</guid>
+<pubDate>Wed, 16 Sep 2026 16:00:54 +0000</pubDate>
+<category>Simon Willison</category>
+<description>We should not treat models as though they have feelings, preferences, rights, or any entitlement to our welfare. Consciousness is the foundation of our ethical, legal, and political systems. To invite another entity to share any flavor of these rights isn’t justified by the evidence and will make the AI containment and alignment challenge even harder. — Mustafa Suleyman , A warning about ‘model welfare’ Tags: ai-ethics , generative-ai , ai , microsoft , llms — Simon Willison / score: 45 (AIの倫理や意識に関する有識者の見解)</description>
+</item>
 <item>
 <title>Devinが仮想環境でmacOSの提供開始。Macの実機不要でDevinがコード生成、テスト、デバッグ、実行、AppStore配信前のベータ公開まで実行</title>
 <link>https://www.publickey1.jp/blog/26/devinmacosmacdevinappstore.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/devinmacosmacdevinappstore.html</guid>
-<pubDate>Wed, 16 Sep 2026 14:09:43 +0000</pubDate>
+<pubDate>Wed, 16 Sep 2026 16:00:51 +0000</pubDate>
 <category>Publickey</category>
 <description>コーディングAIエージェントを提供するDevinが、Devinがホストする仮想環境内でのmacOSの提供を開始しました。 Devinはこれまで仮想環境内でUbuntu LinuxおよびWindowsを提供しており、ここにmacOSが加わりま... — Publickey / score: 65 (DevinによるmacOS対応は開発効率化の進展を示す)</description>
+</item>
+<item>
+<title>Helping older adults use AI in everyday life</title>
+<link>https://openai.com/index/helping-older-adults-use-ai-in-everyday-life</link>
+<guid isPermaLink="true">https://openai.com/index/helping-older-adults-use-ai-in-everyday-life</guid>
+<pubDate>Wed, 16 Sep 2026 16:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely. — OpenAI News / score: 50 (AIの普及活動に関する社会的ニュース)</description>
+</item>
+<item>
+<title>Cloud CISO Perspectives: How Google monitors AI threats and advances AI defenses</title>
+<link>https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-google-monitors-ai-threats-advances-ai-defenses/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-google-monitors-ai-threats-advances-ai-defenses/</guid>
+<pubDate>Wed, 16 Sep 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Welcome to the first Cloud CISO Perspectives for September 2026. Today, Sandra Joyce shares the latest details on Google’s visibility into how attackers are using AI, and how we’re using AI to stop them. As with all Cloud CISO Perspectives, the contents of this newsletter are posted to the Google Cloud blog . If you’re reading this on the website and you’d like to receive the email version, you can subscribe here . aside_block &lt;ListValue: [StructValue([('title', 'Get vital board insights with Go — Google Cloud Blog / score: 75 (AIを活用したセキュリティ脅威対策の解説)</description>
+</item>
+<item>
+<title>For SeaVerse, GKE Agent Sandbox reduces infrastructure costs by 60%</title>
+<link>https://cloud.google.com/blog/products/containers-kubernetes/seaverse-chooses-gke-agent-sandbox/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/containers-kubernetes/seaverse-chooses-gke-agent-sandbox/</guid>
+<pubDate>Wed, 16 Sep 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Editor’s note: Today we hear from SeaVerse , a gaming startup from SeaArt that is building a platform for playable AI experiences , where users can open lightweight games, character chats, and interactive apps, or create their own experiences from a prompt. To support that creative loop, SeaVerse needed infrastructure that could run dynamic, multi-tenant sandbox workloads with strong isolation, low latency, better observability, and more flexible costs. Google Kubernetes Engine (GKE) and GKE Age — Google Cloud Blog / score: 60 (GKEを用いたコスト削減の事例紹介)</description>
+</item>
+<item>
+<title>M4N VM family, now GA: Highest per-core IOPS and throughput for I/O and memory-bound workloads</title>
+<link>https://cloud.google.com/blog/products/compute/compute-engine-m4n-vms/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/compute/compute-engine-m4n-vms/</guid>
+<pubDate>Wed, 16 Sep 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>As enterprise organizations scale mission-critical applications, storage I/O and memory access can become severe operational bottlenecks. Whether its Oracle databases, in-memory databases like SAP HANA, or high-throughput SQL Server clusters, EHR systems, and real-time big data analytics, memory-bound databases often force enterprises to over-provision compute cores (vCPUs) to get the RAM capacity and storage bandwidth they need, driving up costly third-party software licensing fees. Today, we a — Google Cloud Blog / score: 65 (Google Cloudの新しい高性能VMファミリのGA発表)</description>
+</item>
+<item>
+<title>How Orange uses agents to make FinOps everyone's responsibility</title>
+<link>https://cloud.google.com/blog/topics/telecommunications/how-orange-uses-agents-to-make-finops-everyones-responsibility/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/telecommunications/how-orange-uses-agents-to-make-finops-everyones-responsibility/</guid>
+<pubDate>Wed, 16 Sep 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>At Orange , the leading France-based multinational telecom provider, there are days when engineering teams set aside their delivery backlogs and spend the day cleaning up cloud spend together. There's a leaderboard. There are goodies on the line. Experienced practitioners guide the newcomers, so people learn the work while doing it. By the end of the day, sponsors can see the results. Orange calls these FinOps Clean Days. Together with gamified hackathons, they've earned the company's 100-plus p — Google Cloud Blog / score: 55 (AIエージェントを活用したFinOpsの導入事例)</description>
+</item>
+<item>
+<title>ドコモ、iPhone18 ProのAppleCare+取扱いを9月28日開始！発売直後は要注意</title>
+<link>https://iphone-mania.jp/iphone18-606066/</link>
+<guid isPermaLink="true">https://iphone-mania.jp/iphone18-606066/</guid>
+<pubDate>Wed, 16 Sep 2026 15:53:42 +0000</pubDate>
+<category>iPhone Mania</category>
+<description>NTTドコモは、iPhone18 ProとiPhone18 Pro Max向け「AppleCare+」の取り扱いを9月28日（月）に開始します。両モデルの発売は9月18日（金）で、ドコモで加入できるまで10日間の空白があ […] — iPhone Mania / score: 20 (キャリアの保険サービスに関する個別ニュース)</description>
 </item>
 <item>
 <title>Android、パスキーをパスワードマネージャ間で転送可能に。Googleパスワードマネージャ、1Password、Bitwarden、Dashlaneなどが対応</title>
 <link>https://www.publickey1.jp/blog/26/androidgoogle1passwordbitwardendashlane.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/androidgoogle1passwordbitwardendashlane.html</guid>
-<pubDate>Wed, 16 Sep 2026 14:09:43 +0000</pubDate>
+<pubDate>Wed, 16 Sep 2026 15:51:54 +0000</pubDate>
 <category>Publickey</category>
 <description>Googleは、Android上で利用可能なパスワードマネージャの間で、パスキーの転送を可能にしたと発表しました。 これにより、例えばGoogleパスワードマネージャに登録したパスキーを1PasswordやBitwardenなどの他のパスワ... — Publickey / score: 75 (パスキーのマネージャ間転送は利便性と標準化に貢献)</description>
+</item>
+<item>
+<title>iOS27に誕生日を祝う新演出〜相手に電話すると花火が表示</title>
+<link>https://iphone-mania.jp/ios-606064/</link>
+<guid isPermaLink="true">https://iphone-mania.jp/ios-606064/</guid>
+<pubDate>Wed, 16 Sep 2026 15:45:54 +0000</pubDate>
+<category>iPhone Mania</category>
+<description>iOS27の正式版がリリースされたばかりですが、新機能のひとつとして、誕生日の相手に電話をかけようとすると花火があがる演出が追加されていることが判明しました。これは、もともとApple Watchで自分の誕生日に表示され […] — iPhone Mania / score: 25 (コンシューマー向けOSの細かなUI演出の話題)</description>
+</item>
+<item>
+<title>iPhone Duoの2眼カメラで使える機能と使えない機能を確認</title>
+<link>https://iphone-mania.jp/iphone18-606055/</link>
+<guid isPermaLink="true">https://iphone-mania.jp/iphone18-606055/</guid>
+<pubDate>Wed, 16 Sep 2026 15:05:00 +0000</pubDate>
+<category>iPhone Mania</category>
+<description>2026年10月に発売されるApple初の折りたたみiPhone「iPhone Duo」について、搭載されたカメラで利用できる機能と利用できない機能を、Appleが公開している仕様ページで確認し、iPhone18 Pro […] — iPhone Mania / score: 30 (未発売のハードウェア仕様に関する噂や確認)</description>
+</item>
+<item>
+<title>キヤノンが懐かしい直線デザインの小型軽量フルサイズカメラ「EOS R8 Mark II」を発表</title>
+<link>https://ascii.jp/elem/000/004/435/4435442/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/435/4435442/?rss</guid>
+<pubDate>Wed, 16 Sep 2026 15:01:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>キヤノンは新デザインを採用した小型・軽量のフルサイズミラーレスカメラ「EOS R8 Mark II」を発表しました — ASCII.jp / score: 25 (カメラ製品の新モデル発表に関する一般ニュース)</description>
+</item>
+<item>
+<title>RTX 5080・Ryzen 7 9800X3D搭載PCも対象！ 9月17日限定セール</title>
+<link>https://ascii.jp/elem/000/004/434/4434788/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/434/4434788/?rss</guid>
+<pubDate>Wed, 16 Sep 2026 15:00:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>パソコンショップSEVENを運営するセブンアールジャパンが9月17日限定で実施する24時間限定セール。最新ゲーミングPCやデスクトップPCを対象に最大76,000円オフとなり、ZEFT R60IH、ZEFT R64M、ZEFT Z54Yなどの主な対象モデル、価格、購入方法をまとめる。 — ASCII.jp / score: 15 (PCパーツショップのセール情報)</description>
 </item>
 <item>
 <title>AIエージェント「Hermes Agent」新機能「Local Models」でローカルAIモデル「Qwen3.8 27B」を直接動かしてみた、16GBのVRAMでも量子化で高速動作</title>
@@ -213,6 +301,14 @@
 <pubDate>Wed, 16 Sep 2026 10:32:54 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>人型ロボットの開発・製造で知られるAgility Roboticsが、新型の汎用人型ロボット「Digit 5」を発表しました。前モデル・Digit 4が3年かけて積み重ねたフィードバックが反映され、人間の同僚が近くで作業する際の安全性が大幅に向上しています。 Agility Unveils Digit 5 Humanoid Robot Built for Cooperatively Safe W... — はてなブックマーク テクノロジー / score: 65 (新型汎用人型ロボットの発表と安全性向上)</description>
+</item>
+<item>
+<title>20万円台のフルサイズカメラ「EOS R8 Mark II」を見てきた　“直線デザイン”はターゲット層を意識</title>
+<link>https://dc.watch.impress.co.jp/docs/news/2141517.html</link>
+<guid isPermaLink="true">https://dc.watch.impress.co.jp/docs/news/2141517.html</guid>
+<pubDate>Wed, 16 Sep 2026 10:19:42 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>20万円台のフルサイズカメラ「EOS R8 Mark II」を見てきた “直線デザイン”はターゲット層を意識 — はてなブックマーク テクノロジー / score: 25 (ガジェット系のニュースであり技術者コミュニティへの影響は少ない)</description>
 </item>
 <item>
 <title>iPhoneの画像生成AIがアップデートされたので使ってみた、無料で使えるが品質はかなり低め</title>
@@ -559,28 +655,12 @@
 <description>日本時間の2026年9月15日に「iOS 27」や「macOS 27」などのApple製OSが一斉にリリースされました。ウェブブラウザのSafariにはApple IntelligenceのAI機能の一環として「言葉で説明するだけで新しい機能拡張を作成する」という機能が追加され、簡単にSafariに機能を追加したり各種ウェブサイトを自分好みにカスタムでき... — はてなブックマーク テクノロジー / score: 70 (OS新機能によるAI駆動のブラウザ拡張開発機能の紹介)</description>
 </item>
 <item>
-<title>株式会社日本能率協会マネジメントセンター（JMAM）様に「AI検索パートナーズ」を提供開始。AI検索時代を見据え、SEO対策とAI検索対策（AIO/LLMO/GEO）を一体で推進</title>
-<link>https://ascii.jp/elem/000/004/435/4435544/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/435/4435544/?rss</guid>
-<pubDate>Wed, 16 Sep 2026 08:21:58 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>株式会社日本能率協会マネジメントセンター（JMAM）様に「AI検索パートナーズ」を提供開始。AI検索時代を見据え、SEO対策とAI検索対策（AIO/LLMO/GEO）を一体で推進 — ASCII.jp / score: 50 (AI検索対策ツールの提供開始)</description>
-</item>
-<item>
 <title>Flockの監視カメラ映像使用理由を警察官が「LMAO(爆笑)」「IDK(知らない)」などと入力していたことが判明</title>
 <link>https://gigazine.net/news/20260916-police-flock-use/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260916-police-flock-use/</guid>
 <pubDate>Wed, 16 Sep 2026 08:20:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>アメリカ全土に監視カメラネットワークを構築しているFlock Safetyのカメラ映像が警察官に不正な目的で使用されていた問題で、電子フロンティア財団(EFF)が入手した公的記録から、警察官らはデータ利用時の理由として「LMAO(laughing my ass off：お尻が取れるほど笑った)」「IDK(I don't know：知らない/わからない)」「hehe」「asdfg(キーボード2段目をAキーから右へ5文字入力)」など適当な内容を入力していたことが明らかになりました。 続きを読む... — GIGAZINE / score: 55 (監視カメラデータの不適切利用に関するプライバシー問題)</description>
-</item>
-<item>
-<title>『歴史の終わり』PlayStation(R)5／Xbox Series X|S版の発売を決定―2027年第1四半期のリリースを予定</title>
-<link>https://ascii.jp/elem/000/004/435/4435546/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/435/4435546/?rss</guid>
-<pubDate>Wed, 16 Sep 2026 08:07:51 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>『歴史の終わり』PlayStation(R)5／Xbox Series X|S版の発売を決定―2027年第1四半期のリリースを予定 — ASCII.jp / score: 15 (家庭用ゲームソフトの発売決定)</description>
 </item>
 <item>
 <title>どっしり重厚なコーヒーの味わいが楽しめるスタバ11年ぶりの新作ボトル缶コーヒー「COFFEE SIGNATURES BLACK／ESPRESSO&amp;amp;MILK」を飲んでみた</title>
@@ -725,86 +805,6 @@
 <pubDate>Wed, 16 Sep 2026 06:15:18 +0000</pubDate>
 <category>Computer Music Japan</category>
 <description>アナログからデジタルまで時代を象徴するサウンドのキーボードバンドル、Roland「Roland Vintage Keys Essentials Bundle」が66%OFFとなっています。 Rolandでは、Synth ... The post アナログからデジタルまで時代を象徴するサウンドのキーボードバンドル、Roland「Roland Vintage Keys Essentials Bundle」が66%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 15 (音楽制作ソフトのセール情報でありIT技術者向けではない)</description>
-</item>
-<item>
-<title>探索的テストでプロダクトの品質と価値を高める、書籍『Explore It!』出版記念イベントが開催</title>
-<link>https://codezine.jp/article/detail/29708</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/29708</guid>
-<pubDate>Wed, 16 Sep 2026 06:15:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 40 (探索的テストに関する書籍出版記念イベントの紹介)</description>
-</item>
-<item>
-<title>12億円相当の仮想通貨を盗もうとしたハッカーが数秒の差でボットに盗んだ仮想通貨を丸ごと横取りされる</title>
-<link>https://gigazine.net/news/20260916-bot-robbed-hacker-7-8-million-rseth/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260916-bot-robbed-hacker-7-8-million-rseth/</guid>
-<pubDate>Wed, 16 Sep 2026 06:07:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>ハッカーがイーサリアムのセーフウォレットであるSafeを悪用し、2900rsETH(約780万ドル：12億円)相当のデジタル資産を盗み出すという事件が発生しました。しかし、ハッカーはボットに盗んだデジタル資産を丸ごと横取りされています。 続きを読む... — GIGAZINE / score: 60 (ハッキングされた仮想通貨がボットに横取りされた事件)</description>
-</item>
-<item>
-<title>秋の長雨で布団がジメジメ…。そんなときは小さいけどパワフルなこれで</title>
-<link>https://www.gizmodo.jp/article/iris-ohyama-karalie-mini-turbo/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/iris-ohyama-karalie-mini-turbo/</guid>
-<pubDate>Wed, 16 Sep 2026 06:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>ほんとに小さい。なんだか最近雨続きで、なかなかふとんが干せないんですよ。だから、ふとん乾燥機を導入しようと物色していたら、いいもの見つけました。アイリスオーヤマの「カラリエ mini TURBO」です。手のひらサイズなのにパワフル乾燥これ、… — ギズモード・ジャパン / score: 15 (家電製品の一般的な紹介レビューである)</description>
-</item>
-<item>
-<title>「話せるAI」から「動けるAI」へ、フィジカルAIの技術的ボトルネックと10年後の未来を議論する対談イベント</title>
-<link>https://codezine.jp/article/detail/29707</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/29707</guid>
-<pubDate>Wed, 16 Sep 2026 05:45:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 50 (フィジカルAIのボトルネックを議論する対談のレポート)</description>
-</item>
-<item>
-<title>「Google Chrome 153」にセキュリティ更新、『致命的』な3件を含む42件の脆弱性を修正／Windows環境にはv153.0.8010.47/.48が展開中</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2141309.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2141309.html</guid>
-<pubDate>Wed, 16 Sep 2026 05:45:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Googleは9月15日（現地時間、以下同）、デスクトップ向け「Google Chrome」の安定（Stable）チャネルをアップデートした。現在、Windows/Mac環境にはv153.0.8010.47/.48、Linux環境にはv153.0.8010.47が展開されている。 — 窓の杜 / score: 90 (Google Chromeの致命的脆弱性を含む多数の修正)</description>
-</item>
-<item>
-<title>避難経験のある私が、どうしても防災リュックに入れたいもの。「圧縮タイプ」なら省スペースに備えられる</title>
-<link>https://www.gizmodo.jp/article/2609-compressed-disaster-prevention-goods/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2609-compressed-disaster-prevention-goods/</guid>
-<pubDate>Wed, 16 Sep 2026 05:35:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>ROOMIE 2026年8月25日掲載の記事より転載以前、一晩だけですが台風のため避難所にお世話になったことがあります。それまで避難グッズは地震を想定してセットしていたのですが、避難するかもしれないシチュエーションは地震だけではないことをそ… — ギズモード・ジャパン / score: 10 (防災グッズに関するライフスタイル記事である)</description>
-</item>
-<item>
-<title>AWS、CloudFrontの動的画像変換に4つの新機能を追加</title>
-<link>https://codezine.jp/article/detail/29694</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/29694</guid>
-<pubDate>Wed, 16 Sep 2026 05:30:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 50 (AWS CloudFrontの新機能追加)</description>
-</item>
-<item>
-<title>壊れても良いように激安イヤホンを注文したら、ブルートッースステレオイやホンが届いた「渾身の箔押しやめろ」</title>
-<link>https://togetter.com/li/2746210</link>
-<guid isPermaLink="true">https://togetter.com/li/2746210</guid>
-<pubDate>Wed, 16 Sep 2026 05:20:48 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>ひこひぃ🦄⭐️園児Vtuber @hicohixi バズったら宣伝してもいいらしいので…！ Vtuberをしています🙇‍♀️ 作詞作曲DTM歌うのが好きです！ よろしくね🥹✨ ブルートッースステレオイやホンの レビュー動画やろうかな🤔🤔🤔 youtube.com/@hicohixi?si=m… 2026-09-15 14:58:38 ひこひぃ🦄⭐️園児Vtuber @hicohixi マルチクリエイター... — はてなブックマーク テクノロジー / score: 10 (個人の失敗談・雑記)</description>
-</item>
-<item>
-<title>MetaのザッカーバーグCEO、AIの協調減速論に「各社が自ら動けばいい」</title>
-<link>https://www.itmedia.co.jp/news/article/2609/16/2000001540/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2609/16/2000001540/</guid>
-<pubDate>Wed, 16 Sep 2026 05:16:05 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>米Metaのマーク・ザッカーバーグCEOは9月15日（現地時間）、AIの安全性を巡り、各AI開発企業には自らのモデルを安全に訓練できるペースで開発を進める責任と動機があり、それを実行する能力も備えているとする長文をXに投稿した。8月に公開した論考「The Future is for Everyone」に触れた上で、業界全体での協調を求め... — はてなブックマーク テクノロジー / score: 60 (MetaのCEOによるAI開発方針の表明)</description>
-</item>
-<item>
-<title>ドコモiPhone18 Pro実質負担額3.3万円減〜23カ月返却で</title>
-<link>https://iphone-mania.jp/iphone18-606018/</link>
-<guid isPermaLink="true">https://iphone-mania.jp/iphone18-606018/</guid>
-<pubDate>Wed, 16 Sep 2026 05:04:15 +0000</pubDate>
-<category>iPhone Mania</category>
-<description>NTTドコモは9月15日、iPhone18 Pro 256GBモデルについて、残価設定付き24回払いの条件を一部変更しました。対象はMNPを含む新規契約で、「いつでもカエドキプログラム」を利用して23カ月目に端末を返却し […] — iPhone Mania / score: 20 (ドコモのiPhone購入プログラムの条件変更)</description>
 </item>
 </channel>
 </rss>
