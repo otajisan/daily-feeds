@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 16 Sep 2026 16:10:45 +0000</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 18:11:02 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] Apple、「iOS 27」「iPadOS 27」の一般提供を開始 ～「Siri AI」の日本語対応は年内／126件の脆弱性修正も</title>
@@ -487,14 +487,6 @@
 <description>GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework. — OpenAI News / score: 85 (GPT-6 Astraの安全性とサイバーセキュリティ能力の概要。)</description>
 </item>
 <item>
-<title>[85] Introducing Gemini 3.8 Flash and 3.8 Flash Cyber</title>
-<link>https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/</link>
-<guid isPermaLink="true">https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/</guid>
-<pubDate>Wed, 02 Sep 2026 16:18:31 +0000</pubDate>
-<category>Google DeepMind</category>
-<description> — Google DeepMind / score: 85 (Googleによる新しいGeminiモデルの発表)</description>
-</item>
-<item>
 <title>[82] Google、Gemini 3.8 Liveを発表 ——会話を続けながら推論やツール実行が可能</title>
 <link>https://gihyo.jp/article/2026/09/gemini-3.8-live?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/09/gemini-3.8-live?utm_source=feed</guid>
@@ -517,14 +509,6 @@
 <pubDate>Wed, 16 Sep 2026 02:54:43 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>TypeSafe AI⁠⁠、AIモデル「Jev」の早期提供を開始 —⁠—判断結果を構造化データで高速出力⁠⁠、ソフトウェアでの活用を想定 TypeSafe AIは9月15日、ソフトウェア内の判断処理に特化したAIモデル「Jev」の早期アクセス提供を発表した。文章やコードを生成せず、あらかじめ定めた選択肢や評価尺度に沿って判断結果を返す。ウ... — はてなブックマーク テクノロジー / score: 80 (構造化データ出力に特化した新規AIモデルの提供開始)</description>
-</item>
-<item>
-<title>[80] Sakana AIが「誤差逆伝播なし」でAIを訓練する手法を公開 — 1000層のネットワークでもバックプロップと2ポイント差以内</title>
-<link>https://ai.freelance-job.com/article/6aa8792e3e0b24377905cb43</link>
-<guid isPermaLink="true">https://ai.freelance-job.com/article/6aa8792e3e0b24377905cb43</guid>
-<pubDate>Wed, 16 Sep 2026 00:38:36 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>9月14日、MarkTechPostが「Sakana AI Researchers Introduce PC-ALM, a Layer-Local Alternative to Backpropagation That Trains 1000-Layer Networks」と題した記事を公開した。この記事では、Sakana AIが誤差逆伝播（バックプロパゲーション）を使わずに層ごとのローカル更新でニューラルネットを訓練する手法「PC-AL... — はてなブックマーク テクノロジー / score: 80 (逆伝播なしのAI訓練手法という画期的な研究発表)</description>
 </item>
 <item>
 <title>[80] JDK 27 Security Enhancements</title>
@@ -805,6 +789,22 @@
 <pubDate>Sat, 12 Sep 2026 05:56:05 +0000</pubDate>
 <category>Latent Space</category>
 <description>We are late to this but better than never. Have been busy finalizing the second AIE NYC , which is happening in one month. Get your tix before prices go up - we will announce speakers from Bridgewater, Ramp, Coatue, Mastercard, Vanguard, Coinbase, Blackrock, Fidelity, Point72, Capital One, JPMC, Wells Fargo, Bloomberg, A24 (yes the movie studio) Labs, Two Sigma, Apollo Global, and more next week! The way DeepSeek pursues their research agenda is nothing short of fascinating. In between major Dee — Latent Space / score: 75 (AIモデルの新アーキテクチャ発表に関する技術ニュース)</description>
+</item>
+<item>
+<title>[75] AWS DevOps Agent adds support for bidirectional Slack communication</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/aws-devops-agent-bidirectional-slack-communication</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/aws-devops-agent-bidirectional-slack-communication</guid>
+<pubDate>Fri, 11 Sep 2026 15:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS DevOps Agent now enables engineers to manage production operations across AWS, multicloud, and on-premises environments with the complete investigation lifecycle directly within Slack. Previously, on-call engineers and DevOps teams faced fragmented workflows during high-severity incidents, having to context-switch between communication and investigation platforms. This update consolidates both surfaces into a single, unified location where incident response already happens. Engineering teams — AWS What's New / score: 75 (AWS DevOps AgentのSlack連携強化に関する機能追加)</description>
+</item>
+<item>
+<title>[75] Rapidly scaling online storage to serve over 1 billion ChatGPT users</title>
+<link>https://openai.com/index/scaling-storage-one-billion-users-part-one</link>
+<guid isPermaLink="true">https://openai.com/index/scaling-storage-one-billion-users-part-one</guid>
+<pubDate>Fri, 11 Sep 2026 10:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second. — OpenAI News / score: 75 (10億人規模を支える大規模ストレージ設計)</description>
 </item>
 </channel>
 </rss>
