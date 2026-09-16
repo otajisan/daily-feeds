@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 16 Sep 2026 08:13:29 +0000</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 10:09:41 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] Apple、「iOS 27」「iPadOS 27」の一般提供を開始 ～「Siri AI」の日本語対応は年内／126件の脆弱性修正も</title>
@@ -39,20 +39,20 @@
 <description>Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science. — OpenAI News / score: 95 (最先端AIモデルのメジャーリリース)</description>
 </item>
 <item>
+<title>[90] Oracle、月例のセキュリティ更新「CSPU」を実施 ～673件のパッチを提供／「VirtualBox」に19件</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2141375.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2141375.html</guid>
+<pubDate>Wed, 16 Sep 2026 08:54:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Oracleは9月15日（現地時間）、「Critical Security Patch Update」（CSPU）を実施した。「Oracle Database Server」「Oracle E-Business Suite」「Oracle Java SE」「Oracle Virtualization」など幅広い製品ファミリーに対し、673件の新規セキュリティパッチが発行されている。 — 窓の杜 / score: 90 (Oracle製品群の多数の脆弱性を修正する定例パッチ)</description>
+</item>
+<item>
 <title>[90] Google Chromeにアップデート　深刻度”重大”含む42件の脆弱性を修正</title>
 <link>https://ascii.jp/elem/000/004/435/4435450/?rss</link>
 <guid isPermaLink="true">https://ascii.jp/elem/000/004/435/4435450/?rss</guid>
 <pubDate>Wed, 16 Sep 2026 08:00:00 +0000</pubDate>
 <category>ASCII.jp</category>
 <description>グーグルは9月15日、デスクトップおよびAndroid版「Google Chrome」のアップデートを公開。深刻度「重大」を含む42件の脆弱性に対処した。 — ASCII.jp / score: 90 (主要ブラウザの重大な脆弱性を含む多数の修正)</description>
-</item>
-<item>
-<title>[90] Androidに深刻度”重大”の脆弱性が30件超　セキュリティー公開情報（2026年9月分）</title>
-<link>https://ascii.jp/elem/000/004/435/4435407/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/435/4435407/?rss</guid>
-<pubDate>Wed, 16 Sep 2026 07:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>Androidオープンソースプロジェクト（AOSP）は9月8日、Android OSの脆弱性情報を公開した。 — ASCII.jp / score: 90 (Androidの重大な脆弱性情報)</description>
 </item>
 <item>
 <title>[90] 「Google Chrome 153」にセキュリティ更新、『致命的』な3件を含む42件の脆弱性を修正／Windows環境にはv153.0.8010.47/.48が展開中</title>
@@ -141,6 +141,14 @@
 <pubDate>Fri, 04 Sep 2026 01:09:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>OpenAIは2026年9月3日、新モデル「GPT-6 Astra」を発表した。 — gihyo.jp / score: 90 (OpenAIの次世代モデル「GPT-6 Astra」発表)</description>
+</item>
+<item>
+<title>[85] 無料メーラー「Thunderbird」v156.0が公開 ～Yandexへの外部ブラウザーログインが可能に／全75件のセキュリティ修正も</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2141430.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2141430.html</guid>
+<pubDate>Wed, 16 Sep 2026 09:41:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>オープンソースのメールソフト「Thunderbird」の最新版、v156.0が9月15日にリリースされた。本アップデートには、新機能の追加、仕様の変更に加え、多数の不具合修正やセキュリティ機能の向上が含まれている。 — 窓の杜 / score: 85 (メジャーメールソフトの多数のセキュリティ修正を含む更新)</description>
 </item>
 <item>
 <title>[85] 「Gyazo」への不正アクセスによる情報漏えいに関するお知らせとお詫び</title>
@@ -797,14 +805,6 @@
 <pubDate>Fri, 11 Sep 2026 10:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second. — OpenAI News / score: 75 (10億人規模を支える大規模ストレージ設計)</description>
-</item>
-<item>
-<title>[75] 画像編集ソフト「GIMP 3.2.6」が公開 ～8月に報じた脆弱性など、27件のCVEに対処／Mac版はビルド体制を一新してWindows・Linux版と同時公開に</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2140258.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2140258.html</guid>
-<pubDate>Fri, 11 Sep 2026 08:21:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>「GIMP」開発チームは9月10日（現地時間、以下同）、無償の画像編集・処理ソフト「GIMP」の最新安定版v3.2.6を公開した。ここ数カ月分のパッチや不具合修正、セキュリティアップデートをまとめたものとなっている。 — 窓の杜 / score: 75 (GIMP最新版での多数の脆弱性修正とアップデート)</description>
 </item>
 </channel>
 </rss>
