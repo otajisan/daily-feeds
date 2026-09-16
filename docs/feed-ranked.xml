@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 16 Sep 2026 20:10:07 +0000</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 22:08:26 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] Apple、「iOS 27」「iPadOS 27」の一般提供を開始 ～「Siri AI」の日本語対応は年内／126件の脆弱性修正も</title>
@@ -103,14 +103,6 @@
 <description>米Appleは9月14日（現地時間）、「iOS 26.7」および「iPadOS 26.7」をリリースした。82件の脆弱性に対処したセキュリティアップデートとなっている。 — 窓の杜 / score: 90 (Apple製OSの多数の脆弱性修正)</description>
 </item>
 <item>
-<title>[90] AWS SSM Agent の脆弱性(CVE-2026-89049) の被害があったかどうかを CloudTrail で確認する方法</title>
-<link>https://zenn.dev/cscloud_blog/articles/4d6e13b853109e</link>
-<guid isPermaLink="true">https://zenn.dev/cscloud_blog/articles/4d6e13b853109e</guid>
-<pubDate>Mon, 14 Sep 2026 01:30:42 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>どうもサイバーセキュリティクラウドで脅威インテリジェンスをしている西川です。 今日は表題の CVSS v3.1 における CVSS 9.9(Critical) の脆弱性について実際に脆弱性が悪用された場合にどういうログが CloudTrail に出るのかを検証し、皆様の環境で被害が発生していないか確認していただくためにブログを執筆いたしました。ただこのスコアほど影響度は高くないというのが個人的な印象です。それらについてもまとめているので最後までご覧ください。 CVE-2026-89049 とは 2026年9月10日に AWS は AWS Systems Manager Agent（以... — Zenn トレンド / score: 90 (深刻な脆弱性の影響確認方法に関する実用的な解説)</description>
-</item>
-<item>
 <title>[90] Microsoft、ネイティブGoコンパイラを採用した TypeScript 7.0 をリリース。ビルド速度が10倍に向上</title>
 <link>https://www.infoq.com/jp/news/2026/09/typescript-7-released/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
 <guid isPermaLink="true">https://www.infoq.com/jp/news/2026/09/typescript-7-released/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
@@ -159,6 +151,14 @@
 <description>OpenAIは2026年9月3日、新モデル「GPT-6 Astra」を発表した。 — gihyo.jp / score: 90 (OpenAIの次世代モデル「GPT-6 Astra」発表)</description>
 </item>
 <item>
+<title>[85] Claude Fable 5.1が370年前の未解読暗号「Cyphral Distich」を1日足らずで解読</title>
+<link>https://gigazine.net/news/20260917-fable-solves-cyphral-distich/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20260917-fable-solves-cyphral-distich/</guid>
+<pubDate>Wed, 16 Sep 2026 21:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>AIモデル「Claude Fable 5.1」が370年以上未解読とされてきた謎の暗号「Cyphral Distich」をわずか1日足らずで解読したというニュースが飛び込んできました。1899年に「Notes and Queries」誌で未解決問題として提示されて以来、「Cyphral Distich」は多くの暗号研究者たちの挑戦を退けてきた難問でした。AIが具体的にどのようにして暗号を解読したかについて、AI研究者のゲビー・ジャフ氏がブログにて語っています。 続きを読む... — GIGAZINE / score: 85 (Claudeによる古代未解読暗号の解読成功)</description>
+</item>
+<item>
 <title>[85] iOS26.7やmacOS 26.7など旧OS向けのセキュリティ更新が一斉に配信</title>
 <link>https://iphone-mania.jp/ios-606052/</link>
 <guid isPermaLink="true">https://iphone-mania.jp/ios-606052/</guid>
@@ -173,6 +173,14 @@
 <pubDate>Wed, 16 Sep 2026 09:41:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>オープンソースのメールソフト「Thunderbird」の最新版、v156.0が9月15日にリリースされた。本アップデートには、新機能の追加、仕様の変更に加え、多数の不具合修正やセキュリティ機能の向上が含まれている。 — 窓の杜 / score: 85 (メジャーメールソフトの多数のセキュリティ修正を含む更新)</description>
+</item>
+<item>
+<title>[85] 「APIキーは.envに」はもはや通用しない　AIエージェントの“内通者化”をどう防ぐ？</title>
+<link>https://atmarkit.itmedia.co.jp/ait/articles/2609/17/news006.html</link>
+<guid isPermaLink="true">https://atmarkit.itmedia.co.jp/ait/articles/2609/17/news006.html</guid>
+<pubDate>Wed, 16 Sep 2026 07:51:41 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>選択肢も出そろってきています。OSS・セルフホスト系では「Infisical」「HashiCorp Vault」、OAuthトークンの保管に特化した「Nango」などがあり、マネージドベンダー系では「AWS Secrets Manager」「1Password」「Aembit」「WorkOS」「Arcade」といった名前が挙がります。共通する思想はシンプルです。エージェントに鍵... — はてなブックマーク テクノロジー / score: 85 (AIエージェントのセキュリティ脅威と対策手法)</description>
 </item>
 <item>
 <title>[85] 「Gyazo」への不正アクセスによる情報漏えいに関するお知らせとお詫び</title>
@@ -508,7 +516,7 @@
 <guid isPermaLink="true">https://gihyo.jp/article/2026/09/jev-early-access</guid>
 <pubDate>Wed, 16 Sep 2026 02:54:43 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>TypeSafe AI⁠⁠、AIモデル「Jev」の早期提供を開始 —⁠—判断結果を構造化データで高速出力⁠⁠、ソフトウェアでの活用を想定 TypeSafe AIは9月15日、ソフトウェア内の判断処理に特化したAIモデル「Jev」の早期アクセス提供を発表した。文章やコードを生成せず、あらかじめ定めた選択肢や評価尺度に沿って判断結果を返す。ウ... — はてなブックマーク テクノロジー / score: 80 (構造化データ出力に特化した新規AIモデルの提供開始)</description>
+<description>TypeSafe AI⁠⁠、AIモデル「Jev」の早期提供を開始 —⁠—判断結果を構造化データで高速出力⁠⁠、ソフトウェアでの活用を想定 TypeSafe AIは9月15日、ソフトウェア内の判断処理に特化したAIモデル「Jev」の早期アクセス提供を発表した。Jevを使うと、文章やコードではなく、あらかじめ定めた選択肢や評価尺度に沿った判断結果... — はてなブックマーク テクノロジー / score: 80 (構造化データ出力に特化した新規AIモデルの提供開始)</description>
 </item>
 <item>
 <title>[80] JDK 27 Security Enhancements</title>
@@ -525,6 +533,14 @@
 <pubDate>Tue, 15 Sep 2026 15:49:38 +0000</pubDate>
 <category>Publickey</category>
 <description>オラクルは、これまで3カ月ごとに提供してきたJavaのアップデートパッチのサイクルを速め、1カ月ごとにセキュリティパッチを提供することを発表。先月（2026年8月）から実際にセキュリティパッチの提供が開始されていることを明らかにしました。 ... — Publickey / score: 80 (Javaのセキュリティパッチ提供頻度の変更)</description>
+</item>
+<item>
+<title>[80] Java 27新機能まとめ</title>
+<link>https://qiita.com/nowokay/items/3076823082236f8018ff?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/nowokay/items/3076823082236f8018ff?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Tue, 15 Sep 2026 07:19:58 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>Java 27が2026/9/15にリリースされました。 Java 27 / JDK 27: General Availability - jdk-dev - openjdk.org Oracle Releases Java 27 The Arrival of Java 2... — Qiita 人気記事 / score: 80 (Java 27の新機能まとめ)</description>
 </item>
 <item>
 <title>[80] OpenAIやAnthropicなどAIベンダごとのAPIの違いを吸収し統合する「Agent Router」、Linux Foundation傘下で業界標準へ</title>
@@ -655,6 +671,14 @@
 <description>Launch season continues from yesterday , with Gemini 3.8 Flash as rumored today, but Muse Spark 1.3, promised in Zuck’s big comeback letter last month, definitely deserved the title story win today. Per AAII it is now the #3 model in the world (!?!) Just look at the confidence displayed finally putting up comparable numbers to the frontier models from OpenAI and Anthropic (Opus, not Fable)… and promising that it will be open weights as well(!!!): They have an interesting pricing model where it i — Latent Space / score: 80 (MetaのMuse Spark 1.3性能に関する技術的解説)</description>
 </item>
 <item>
+<title>[75] Our framework for reporting model misalignment</title>
+<link>https://openai.com/index/model-misalignment-reporting-framework</link>
+<guid isPermaLink="true">https://openai.com/index/model-misalignment-reporting-framework</guid>
+<pubDate>Wed, 16 Sep 2026 17:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior. — OpenAI News / score: 75 (OpenAIによるモデルの不整合報告フレームワーク)</description>
+</item>
+<item>
 <title>[75] Cloud CISO Perspectives: How Google monitors AI threats and advances AI defenses</title>
 <link>https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-google-monitors-ai-threats-advances-ai-defenses/</link>
 <guid isPermaLink="true">https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-google-monitors-ai-threats-advances-ai-defenses/</guid>
@@ -687,6 +711,14 @@
 <description>これまでチャットボットの中だけで完結していたAIとのやりとりが、AIが外部のサイトに接続してデータ処理を行ったりレストランの予約を行ったりすることで多方面に影響を及ぼすようになりました。人間の代わりにいろいろな処理を行ってくれる「AIエージェント」の存在について、テクノロジー系メディアの404 Mediaが「インターネットを壊しつつある」と論じています。 続きを読む... — GIGAZINE / score: 75 (AIエージェントの普及がネット環境に与える影響の考察)</description>
 </item>
 <item>
+<title>[75] Expo SDK 58 Betaの変更点まとめ</title>
+<link>https://zenn.dev/tellernovel_inc/articles/5b4b947db4f2cd</link>
+<guid isPermaLink="true">https://zenn.dev/tellernovel_inc/articles/5b4b947db4f2cd</guid>
+<pubDate>Wed, 16 Sep 2026 03:28:22 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>こんにちは！テラーノベルでiOS/Android/Webとフロントエンド周りを担当している @kazutoyo です！ Expo SDK 58のベータ版が公開されました。 ベータ期間は3〜4週間の予定で、React Native 0.88の正式リリースを待ってからSDK 58も正式リリースされる流れになっています。 https://expo.dev/changelog/sdk-58-beta 今回はiOS 27への対応やExpo Modules 2.0のベータなど、変更点がかなり多いリリースです。 この記事では、気になった変更点と、アップグレード時に注意しておきたい破壊的変更をまとめます... — Zenn トレンド / score: 75 (Expo SDK 58ベータ版の変更点まとめ)</description>
+</item>
+<item>
 <title>[75] GitHub Copilot、自動モデル選択に3つのティアを追加</title>
 <link>https://codezine.jp/article/detail/29692</link>
 <guid isPermaLink="true">https://codezine.jp/article/detail/29692</guid>
@@ -717,14 +749,6 @@
 <pubDate>Tue, 15 Sep 2026 16:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>Today, we are announcing the availability of Agent Substrate on Google Kubernetes Engine (GKE). Agent Substrate is an open-source, secure-by-default agent execution runtime engineered to run millions of sandboxes with 10x higher density than standard container runtimes . Purpose-built for the era of autonomous agents, Substrate delivers sub-500ms resume operations at over 500 suspend/resume activations per second with native zero-trust kernel and network isolation. Agent Substrate is available a — Google Cloud Blog / score: 75 (GKE向けエージェント実行基盤の発表)</description>
-</item>
-<item>
-<title>[75] 会社を丸ごとAIに経営させるAIエージェント「Pion」が登場、メール・電話・銀行機能まで使って事業を自律運営</title>
-<link>https://gigazine.net/news/20260915-pion/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260915-pion/</guid>
-<pubDate>Tue, 15 Sep 2026 14:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>AIに文章作成や調査を任せるだけでなく、会社の経営そのものをAIエージェントに任せるためのプラットフォーム「Pion」をAndon Labsが発表しました。PionではAIエージェントが長時間動き続け、メールや電話、ブラウザ、銀行機能などを使いながら事業運営を進めます。 続きを読む... — GIGAZINE / score: 75 (企業経営を自動化するAIエージェントプラットフォーム)</description>
 </item>
 <item>
 <title>[75] オープンソースのコーディングエージェントClineのデスクトップアプリ「Cline Desktop」が登場</title>
@@ -781,30 +805,6 @@
 <pubDate>Sun, 13 Sep 2026 15:20:00 +0000</pubDate>
 <category>Publickey</category>
 <description>CSSフレームワーク「Tailwind CSS」の開発元であるTailwind Labsは、ECサイト構築サービスを提供しているShopifyによって買収されると発表しました。 下記はTailwindの作者であるAdam Wathan氏によ... — Publickey / score: 75 (Tailwind CSSがShopifyにより買収された発表)</description>
-</item>
-<item>
-<title>[75] [AINews] DeepSeek v4.1-Flash: 763B-P8B-D16B novel causal Encoder–Decoder architecture with vision marks the Return of the Whale</title>
-<link>https://www.latent.space/p/ainews-deepseek-v41-flash-763b-p8b</link>
-<guid isPermaLink="true">https://www.latent.space/p/ainews-deepseek-v41-flash-763b-p8b</guid>
-<pubDate>Sat, 12 Sep 2026 05:56:05 +0000</pubDate>
-<category>Latent Space</category>
-<description>We are late to this but better than never. Have been busy finalizing the second AIE NYC , which is happening in one month. Get your tix before prices go up - we will announce speakers from Bridgewater, Ramp, Coatue, Mastercard, Vanguard, Coinbase, Blackrock, Fidelity, Point72, Capital One, JPMC, Wells Fargo, Bloomberg, A24 (yes the movie studio) Labs, Two Sigma, Apollo Global, and more next week! The way DeepSeek pursues their research agenda is nothing short of fascinating. In between major Dee — Latent Space / score: 75 (AIモデルの新アーキテクチャ発表に関する技術ニュース)</description>
-</item>
-<item>
-<title>[75] AWS DevOps Agent adds support for bidirectional Slack communication</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/09/aws-devops-agent-bidirectional-slack-communication</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/aws-devops-agent-bidirectional-slack-communication</guid>
-<pubDate>Fri, 11 Sep 2026 15:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>AWS DevOps Agent now enables engineers to manage production operations across AWS, multicloud, and on-premises environments with the complete investigation lifecycle directly within Slack. Previously, on-call engineers and DevOps teams faced fragmented workflows during high-severity incidents, having to context-switch between communication and investigation platforms. This update consolidates both surfaces into a single, unified location where incident response already happens. Engineering teams — AWS What's New / score: 75 (AWS DevOps AgentのSlack連携強化に関する機能追加)</description>
-</item>
-<item>
-<title>[75] Rapidly scaling online storage to serve over 1 billion ChatGPT users</title>
-<link>https://openai.com/index/scaling-storage-one-billion-users-part-one</link>
-<guid isPermaLink="true">https://openai.com/index/scaling-storage-one-billion-users-part-one</guid>
-<pubDate>Fri, 11 Sep 2026 10:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second. — OpenAI News / score: 75 (10億人規模を支える大規模ストレージ設計)</description>
 </item>
 </channel>
 </rss>
