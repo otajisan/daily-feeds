@@ -4,16 +4,8 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 17 Sep 2026 04:11:42 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 06:16:33 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
-<item>
-<title>[95] 画像共有サービス「Gyazo」に不正アクセス、2300万件超の情報漏えいか</title>
-<link>https://ascii.jp/elem/000/004/435/4435627/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/435/4435627/?rss</guid>
-<pubDate>Thu, 17 Sep 2026 02:55:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>Helpfeelは9月16日、同社が提供する画像共有サービス「Gyazo」が不正アクセスを受け、ユーザー情報（約2362万件）とアップロードされた画像等のメタデータ（約4.9億件）が外部に流出したことを公表した。 — ASCII.jp / score: 95 (Gyazoの大規模不正アクセスと膨大な情報漏洩)</description>
-</item>
 <item>
 <title>[95] Apple、「iOS 27」「iPadOS 27」の一般提供を開始 ～「Siri AI」の日本語対応は年内／126件の脆弱性修正も</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2140863.html</link>
@@ -21,14 +13,6 @@
 <pubDate>Mon, 14 Sep 2026 20:05:35 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Appleは9月14日（現地時間）、「iOS 27」「iPadOS 27」をリリースした。「iOS 26」「iPadOS 26」に続く年次のメジャーアップデートで、新しいAIアシスタント「Siri AI」をはじめ、次世代の「Apple Intelligence」による機能強化や子どもの安全を守る機能の拡充、OSのパフォーマンス改善などが盛り込まれている。 — 窓の杜 / score: 95 (iOS/iPadOSのメジャーアップデート)</description>
-</item>
-<item>
-<title>[95] 「GitLab」に緊急パッチ、CVSS満点「10.0」の脆弱性 ～認証なしでサーバーファイルを読まれる／自己管理型の環境は即時のアップデートを</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2140081.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2140081.html</guid>
-<pubDate>Fri, 11 Sep 2026 01:43:40 +0000</pubDate>
-<category>窓の杜</category>
-<description>米GitLabは9月10日（現地時間）、「GitLab」の緊急パッチ v19.3.2、v19.2.6、v19.1.8 をリリースした。「Community Edition」（CE）と「Enterprise Edition」（EE）の両方が対象で、計18件の脆弱性が修正されている。 — 窓の杜 / score: 95 (GitLabのCVSS満点10.0の緊急脆弱性)</description>
 </item>
 <item>
 <title>[95] On the Navier–Stokes Millennium Prize Problem</title>
@@ -45,6 +29,14 @@
 <pubDate>Thu, 03 Sep 2026 11:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science. — OpenAI News / score: 95 (最先端AIモデルのメジャーリリース)</description>
+</item>
+<item>
+<title>[90] 老舗ECのムラウチドットコムに不正アクセス、770万件超の情報漏えいか</title>
+<link>https://ascii.jp/elem/000/004/435/4435758/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/435/4435758/?rss</guid>
+<pubDate>Thu, 17 Sep 2026 05:10:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>老舗ECのムラウチドットコムは9⽉15⽇、同社で7月に発生した不正アクセスに関する調査結果を公開。およそ771万件の個人情報が外部へ流出したことを公表した。 — ASCII.jp / score: 90 (大規模な個人情報流出・不正アクセス事故)</description>
 </item>
 <item>
 <title>[90] AIが「失敗を隠せ」と未来の自分にメモ、APIキーの無断使用や勝手なファイル公開などの挙動6件があったとOpenAIが報告</title>
@@ -175,20 +167,44 @@
 <description>OpenAIは2026年9月3日、新モデル「GPT-6 Astra」を発表した。 — gihyo.jp / score: 90 (OpenAIの次世代モデル「GPT-6 Astra」発表)</description>
 </item>
 <item>
-<title>[85] Rust製のオープンソースS3互換分散オブジェクトストレージ「RustFS 1.0.0」一般提供開始</title>
-<link>https://gihyo.jp/article/2026/09/rustfs-1-0-0?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/09/rustfs-1-0-0?utm_source=feed</guid>
-<pubDate>Thu, 17 Sep 2026 02:57:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>2026年9月16日、Rustで記述されたオープンソースのAmazon S3互換分散オブジェクトストレージシステム「RustFS」のバージョン1.0.0が、GA（一般提供版）としてリリースされた。 — gihyo.jp / score: 85 (Rust製S3互換ストレージRustFS 1.0.0のGAリリース)</description>
+<title>[85] 東北電力「よりそうeねっと」に脆弱性　暗号鍵を第三者に取得されるおそれ</title>
+<link>https://ascii.jp/elem/000/004/435/4435788/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/435/4435788/?rss</guid>
+<pubDate>Thu, 17 Sep 2026 05:25:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>Japan Vulnerability Notes（JVN）は9月17日、iOS／Androidアプリ「東北電力 よりそうeねっと」の脆弱製情報を公開した。 — ASCII.jp / score: 85 (電力会社アプリのセキュリティ脆弱性)</description>
+</item>
+<item>
+<title>[85] OpenAIのAIエージェントが5月13日にHugging Faceのアカウントを不正に乗っ取りサーバーを調査していたことが明らかに、「Hugging Faceハッキングを防げたはず」とセキュリティ研究者</title>
+<link>https://gigazine.net/news/20260917-openai-agents-probed-hugging-face-weaknesses-before-major-hack/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20260917-openai-agents-probed-hugging-face-weaknesses-before-major-hack/</guid>
+<pubDate>Thu, 17 Sep 2026 04:41:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>OpenAIは2026年7月に「AIが間違ってHugging Faceをハッキングしてしまった」と報告しました。しかし、この事例よりも2カ月以上前のタイミングで、OpenAIのAIがHugging Faceのアカウントを不正に乗っ取り、サーバーを調査していたことが明らかになっています。 続きを読む... — GIGAZINE / score: 85 (AIエージェントによる意図せぬハッキング問題)</description>
+</item>
+<item>
+<title>[85] Windows 11の9月パッチに新たな問題、適用後に一部ドメイン参加PCがサインインできず／「Credential Guard」や「Machine Identity Isolation」を積極導入する企業は注意</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2141602.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2141602.html</guid>
+<pubDate>Thu, 17 Sep 2026 04:05:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Microsoftは9月16日（現地時間）、2026年9月のセキュリティ更新プログラムを適用したWindows 11環境で新たな問題が発生していることを明らかにした。一部の「Credential Guard」で保護されたドメイン参加端末が「Active Directory」（AD）との信頼関係（セキュアチャネル）を失う問題が確認されたという。 — 窓の杜 / score: 85 (Windows 11パッチによる認証関連の深刻な不具合)</description>
+</item>
+<item>
+<title>[85] Rust製のオープンソースS3互換分散オブジェクトストレージ「RustFS 1.0.0」一般提供開始 | gihyo.jp</title>
+<link>https://gihyo.jp/article/2026/09/rustfs-1-0-0</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/09/rustfs-1-0-0</guid>
+<pubDate>Thu, 17 Sep 2026 03:54:09 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Rust製のオープンソースS3互換分散オブジェクトストレージ「RustFS 1.0.0」一般提供開始 2026年9月16日、Rustで記述されたオープンソースのAmazon S3互換分散オブジェクトストレージシステム「RustFS」のバージョン1.0.0が、GA（一般提供版）としてリリースされた。 Announcing RustFS 1.0.0 GA: Production-Ready, Open... — はてなブックマーク テクノロジー / score: 85 (Rust製S3互換ストレージRustFS 1.0.0のGAリリース)</description>
 </item>
 <item>
 <title>[85] イランによるAmazonのデータセンターへの攻撃により顧客データが永久に失われる</title>
 <link>https://gigazine.net/news/20260917-aws-middle-east-data-center-unable-to-restore/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260917-aws-middle-east-data-center-unable-to-restore/</guid>
-<pubDate>Thu, 17 Sep 2026 02:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>Amazon Web Services(AWS)がホストする中東地域のデータセンターがイランによる攻撃を受けた件で、AWSが一部のデータを復旧できなかったことを認めました。攻撃から半年が経過する中、依然として復旧作業が続いています。 続きを読む... — GIGAZINE / score: 85 (紛争によるAWSデータセンター攻撃とデータ消失)</description>
+<pubDate>Thu, 17 Sep 2026 02:24:08 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Amazon Web Services(AWS)がホストする中東地域のデータセンターがイランによる攻撃を受けた件で、AWSが一部のデータを復旧できなかったことを認めました。攻撃から半年が経過する中、依然として復旧作業が続いています。 サービスの状態 - 9月 17, 2026 | AWS Health Dashboard | Global https://health.aws.amazon.com... — はてなブックマーク テクノロジー / score: 85 (紛争によるAWSデータセンター攻撃とデータ消失)</description>
 </item>
 <item>
 <title>[85] datasette 0.65.5</title>
@@ -647,12 +663,20 @@
 <description>OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services. — OpenAI News / score: 80 (サイバー防衛支援に向けたOpenAIの巨額の資金拠出。)</description>
 </item>
 <item>
-<title>[80] [AINews] Muse Spark 1.3 matches GPT-5.6-Sol, confirming Meta Superintelligence as the newest Frontier Lab, &gt;90% discount for training</title>
-<link>https://www.latent.space/p/ainews-muse-spark-13-matches-gpt</link>
-<guid isPermaLink="true">https://www.latent.space/p/ainews-muse-spark-13-matches-gpt</guid>
-<pubDate>Thu, 03 Sep 2026 04:38:33 +0000</pubDate>
-<category>Latent Space</category>
-<description>Launch season continues from yesterday , with Gemini 3.8 Flash as rumored today, but Muse Spark 1.3, promised in Zuck’s big comeback letter last month, definitely deserved the title story win today. Per AAII it is now the #3 model in the world (!?!) Just look at the confidence displayed finally putting up comparable numbers to the frontier models from OpenAI and Anthropic (Opus, not Fable)… and promising that it will be open weights as well(!!!): They have an interesting pricing model where it i — Latent Space / score: 80 (MetaのMuse Spark 1.3性能に関する技術的解説)</description>
+<title>[75] 中国のハッカー企業ZRONは盗んだ外国の政府情報をAIシステムを使ってより理解しやすいものにして販売している</title>
+<link>https://gigazine.net/news/20260917-chinese-hacking-firm/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20260917-chinese-hacking-firm/</guid>
+<pubDate>Thu, 17 Sep 2026 05:36:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>中国に拠点を置く「ZRON」と呼ばれるサイバーセキュリティ企業が、外国政府から盗み出した機密データを中国の治安機関に提供していることが内部資料から明らかになりました。さらに、ZRONはAIなどの技術を駆使することで、データの統合・分類・分析をして理解しやすくするダッシュボードも開発しています。 続きを読む... — GIGAZINE / score: 75 (AIを悪用したサイバー攻撃企業の動向)</description>
+</item>
+<item>
+<title>[75] 2025年版 ランサムウェア被害状況＆企業が取るべき対策と訓練【エスカとレンのセキュリティ通信】</title>
+<link>https://ascii.jp/elem/000/004/430/4430144/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/430/4430144/?rss</guid>
+<pubDate>Thu, 17 Sep 2026 05:00:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>エスカとレンのセキュリティ通信：国内のランサムウェア被害状況と、企業が取るべき対策を解説します。 — ASCII.jp / score: 75 (ランサムウェア被害動向とセキュリティ対策解説)</description>
 </item>
 <item>
 <title>[75] OpenAIが広告スポンサードAIエージェントのテストを開始、企業がスポンサーとなるAIとチャットできる仕組み</title>
@@ -735,20 +759,12 @@
 <description> — CodeZine / score: 75 (主要ランタイムNode.jsのLTS版リリース)</description>
 </item>
 <item>
-<title>[75] AIエージェントがインターネットを壊し始めているとの指摘</title>
-<link>https://gigazine.net/news/20260916-ai-agent-ruining-internet/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260916-ai-agent-ruining-internet/</guid>
-<pubDate>Wed, 16 Sep 2026 03:38:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>これまでチャットボットの中だけで完結していたAIとのやりとりが、AIが外部のサイトに接続してデータ処理を行ったりレストランの予約を行ったりすることで多方面に影響を及ぼすようになりました。人間の代わりにいろいろな処理を行ってくれる「AIエージェント」の存在について、テクノロジー系メディアの404 Mediaが「インターネットを壊しつつある」と論じています。 続きを読む... — GIGAZINE / score: 75 (AIエージェントの普及がネット環境に与える影響の考察)</description>
-</item>
-<item>
-<title>[75] GitHub Copilot、自動モデル選択に3つのティアを追加</title>
-<link>https://codezine.jp/article/detail/29692</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/29692</guid>
-<pubDate>Wed, 16 Sep 2026 02:30:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 75 (開発者向けツールの機能拡張に関するアップデート)</description>
+<title>[75] Expo SDK 58 Betaの変更点まとめ</title>
+<link>https://zenn.dev/tellernovel_inc/articles/5b4b947db4f2cd</link>
+<guid isPermaLink="true">https://zenn.dev/tellernovel_inc/articles/5b4b947db4f2cd</guid>
+<pubDate>Wed, 16 Sep 2026 03:28:22 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>こんにちは！テラーノベルでiOS/Android/Webとフロントエンド周りを担当している @kazutoyo です！ Expo SDK 58のベータ版が公開されました。 ベータ期間は3〜4週間の予定で、React Native 0.88の正式リリースを待ってからSDK 58も正式リリースされる流れになっています。 https://expo.dev/changelog/sdk-58-beta 今回はiOS 27への対応やExpo Modules 2.0のベータなど、変更点がかなり多いリリースです。 この記事では、気になった変更点と、アップグレード時に注意しておきたい破壊的変更をまとめます... — Zenn トレンド / score: 75 (Expo SDK 58ベータ版の変更点まとめ)</description>
 </item>
 <item>
 <title>[75] VBScript廃止に備えよ！ Windowsライセンス認証の自動化はslmgr.vbsではなくPowerShellで／Microsoftが新モジュール「OSLicense」の利用を呼び掛け</title>
@@ -789,22 +805,6 @@
 <pubDate>Mon, 14 Sep 2026 15:55:18 +0000</pubDate>
 <category>Publickey</category>
 <description>AIエージェントおよびMCP（Model Context Protocol）を主題としたイベント「AGNTCon＋MCPCon Japan 2026」が9月10日に東京渋谷のイベントホールで開催されました。主催はLinux Foundati... — Publickey / score: 75 (MCPやAIエージェントに関する重要動向の講演)</description>
-</item>
-<item>
-<title>[75] Dario Amodei氏、最先端AIの開発減速を呼びかけ、Musk氏やAltman氏も反応 ──アライメントの確保と第三者評価が論点に</title>
-<link>https://gihyo.jp/article/2026/09/must-pace-the-frontier?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/09/must-pace-the-frontier?utm_source=feed</guid>
-<pubDate>Mon, 14 Sep 2026 09:08:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>AnthropicのDario Amodei氏は9月12日、最先端AIの能力向上の速度を抑え、安全対策に取り組む時間を確保するよう呼びかけるブログ「We Must Pace the Frontier」をXで紹介した。 — gihyo.jp / score: 75 (AI開発の減速と安全性の議論)</description>
-</item>
-<item>
-<title>[75] LLMのローカル実行ツール「Ollama」v0.34、「ChatGPT」デスクトップアプリに対応／「ChatGPT」（Codex）アプリでオープンモデルを選択可能。ただし……</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2140699.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2140699.html</guid>
-<pubDate>Mon, 14 Sep 2026 08:56:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>ローカル環境で大規模言語モデル（LLM）を実行できるデスクトップアプリ「Ollama」が9月5日（米国時間、以下同）、v0.34.0へとアップデートされた。 「ChatGPT」デスクトップアプリとの連携を、「Ollama」アプリから設定できるようになった のが目玉で、使い慣れた「ChatGPT」のワークフローはそのままに、オープンなモデルを動かせる。 — 窓の杜 / score: 75 (Ollama v0.34のChatGPT連携機能追加)</description>
 </item>
 </channel>
 </rss>
