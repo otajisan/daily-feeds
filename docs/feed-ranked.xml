@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 17 Sep 2026 08:13:45 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 10:09:57 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] Apple、「iOS 27」「iPadOS 27」の一般提供を開始 ～「Siri AI」の日本語対応は年内／126件の脆弱性修正も</title>
@@ -207,6 +207,14 @@
 <description>Release: datasette 0.65.5 Security fix for an issue where a trailing newline in a requested table name could bypass table permissions and expose private rows, reported by dpfkdlemtp in GHSA-h547-rmjf-5m2m . Tags: security , datasette — Simon Willison / score: 85 (Datasetteの権限バイパス脆弱性の修正)</description>
 </item>
 <item>
+<title>[85] 「国が一番サイバー防御できていない」…デジタル庁の不正アクセス問題、システムの脆弱性に専門家が苦言：東京新聞デジタル</title>
+<link>https://www.tokyo-np.co.jp/article/515917</link>
+<guid isPermaLink="true">https://www.tokyo-np.co.jp/article/515917</guid>
+<pubDate>Wed, 16 Sep 2026 23:13:02 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>国のデジタル政策を進める「司令塔」のセキュリティーの甘さを露呈する大失態だ。デジタル庁が不正アクセスで、政府職員らの個人情報24万件超を流出させた可能性がある問題。発足から5年、識者は「デジタル庁の存在意義が問われる」と指摘する。（松島京太） — はてなブックマーク テクノロジー / score: 85 (政府機関の重大なセキュリティ脆弱性と情報流出)</description>
+</item>
+<item>
 <title>[85] Claude Fable 5.1が370年前の未解読暗号「Cyphral Distich」を1日足らずで解読</title>
 <link>https://gigazine.net/news/20260917-fable-solves-cyphral-distich/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260917-fable-solves-cyphral-distich/</guid>
@@ -397,14 +405,6 @@
 <pubDate>Fri, 11 Sep 2026 16:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more. — OpenAI News / score: 85 (AIエージェントDevinによる高度な自己テスト)</description>
-</item>
-<item>
-<title>[85] 「AOMEI Backupper」に未修正の脆弱性？ 実証コードも公開済み／6月に脆弱性情報が公開されるも未修正のまま放置されている模様</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2140330.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2140330.html</guid>
-<pubDate>Fri, 11 Sep 2026 09:15:40 +0000</pubDate>
-<category>窓の杜</category>
-<description>米カーネギーメロン大学のSoftware Engineering Institute（ソフトウェアエンジニアリング研究所）が運営するCERT（Computer Emergency Response Team） Coordination Centerは9月10日（現地時間）、「AOMEI Backupper」に未修正の脆弱性「CVE-2026-12780」があることを発表した。 — 窓の杜 / score: 85 (バックアップソフトにおける未修正の深刻な脆弱性)</description>
 </item>
 <item>
 <title>[85] .NET 11リリース候補版が登場。.NETランタイムが非同期ネイティブ対応、プロセッサ数の上限がなくなる、AOTコンパイラによるネイティブバイナリの高速化など</title>
