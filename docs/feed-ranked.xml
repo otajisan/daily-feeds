@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 17 Sep 2026 20:09:46 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 22:08:53 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] Apple、「iOS 27」「iPadOS 27」の一般提供を開始 ～「Siri AI」の日本語対応は年内／126件の脆弱性修正も</title>
@@ -623,6 +623,14 @@
 <description>AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome. — Google DeepMind / score: 80 (全DNA変異を予測する画期的なゲノムマップの発表)</description>
 </item>
 <item>
+<title>[75] CUDA対応のWindowsアプリをAMD製GPU上で実行できる「CUDA for AMD on Windows」</title>
+<link>https://gigazine.net/news/20260918-cuda-for-amd-windows/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20260918-cuda-for-amd-windows/</guid>
+<pubDate>Thu, 17 Sep 2026 21:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>「CUDA for AMD on Windows」は名前の通り、AMD製GPU上でCUDA対応のWindowsアプリケーションを実行することを目的としたプロジェクトです。 続きを読む... — GIGAZINE / score: 75 (AMD製GPUでCUDAアプリを実行するツール)</description>
+</item>
+<item>
 <title>[75] PlanetScale、PostgreSQLのシャーディングを自動化して1億1800万QPSを達成。新DBサービス「Neki」をプレビュー公開</title>
 <link>https://www.publickey1.jp/blog/26/planetscalepostgresql11800qpsdbneki.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/planetscalepostgresql11800qpsdbneki.html</guid>
@@ -677,6 +685,14 @@
 <pubDate>Thu, 17 Sep 2026 03:10:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>スポンサーとなる企業の製品を積極的に宣伝するAI機能「Sponsored Agents」の提供が始まりました。 続きを読む... — GIGAZINE / score: 75 (AIサービスにおける広告機能導入の動き)</description>
+</item>
+<item>
+<title>[75] 24時間動き続けるAIエージェント：途中で「死なない」ようにする設計</title>
+<link>https://qiita.com/Ikegamik_genee/items/a628f20cd7fe262cbeb4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/Ikegamik_genee/items/a628f20cd7fe262cbeb4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Thu, 17 Sep 2026 03:06:19 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>24時間動き続けるAIエージェント：途中で「死なない」ようにする設計 なぜこれが難しいのか AIエージェントをデモとして動かすだけなら簡単です。LLMを呼び、結果を受け取り、画面に出力する。それだけで済みます。しかし、エージェントを何時間も、何日も連続で動かし、ツール呼... — Qiita 人気記事 / score: 75 (長時間稼働するAIエージェントの設計手法)</description>
 </item>
 <item>
 <title>[75] GitHub、Advanced Securityの設定を組織にも適用可能に</title>
@@ -789,22 +805,6 @@
 <pubDate>Mon, 14 Sep 2026 08:56:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>ローカル環境で大規模言語モデル（LLM）を実行できるデスクトップアプリ「Ollama」が9月5日（米国時間、以下同）、v0.34.0へとアップデートされた。 「ChatGPT」デスクトップアプリとの連携を、「Ollama」アプリから設定できるようになった のが目玉で、使い慣れた「ChatGPT」のワークフローはそのままに、オープンなモデルを動かせる。 — 窓の杜 / score: 75 (Ollama v0.34のChatGPT連携機能追加)</description>
-</item>
-<item>
-<title>[75] AWSがDevOpsエージェントを拡張し、AIを活用したリリース管理機能を追加、本番環境投入前のコード検証を実現</title>
-<link>https://www.infoq.com/jp/news/2026/09/aws-devops-ai-agent/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-<guid isPermaLink="true">https://www.infoq.com/jp/news/2026/09/aws-devops-ai-agent/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-<pubDate>Mon, 14 Sep 2026 07:30:00 +0000</pubDate>
-<category>InfoQ Japan</category>
-<description>Amazon Web Services（AWS）は、AWS DevOps Agentの大幅な機能拡張を発表し、コードの変更を評価し、本番環境に展開される前にソフトウェアを自律的にテストする設計がされた新しいリリース管理機能を導入した。 プレビュー版として提供される新機能Release Readiness ReviewとAutonomous Release Testingは、DevOps Agentの適用範囲をデプロイ後の運用からソフトウェアデリバリーパイプラインへと拡大し、エンジニアリングチームがコードのマージ前に本番環境への準備状況を評価し、組織の基準を適用し、変更内容に応じたテストを生成可能にする。 By Craig Risi Translated by Takashi Kawase — InfoQ Japan / score: 75 (AWSのAIを活用したリリース管理機能の拡張)</description>
-</item>
-<item>
-<title>[75] AIのせいでエンジニアの75％を解雇したCSSフレームワークのTailwind、Shopifyによる買収を発表。今後も安定的な開発を維持すると</title>
-<link>https://www.publickey1.jp/blog/26/ai75csstailwindshopify.html</link>
-<guid isPermaLink="true">https://www.publickey1.jp/blog/26/ai75csstailwindshopify.html</guid>
-<pubDate>Sun, 13 Sep 2026 15:20:00 +0000</pubDate>
-<category>Publickey</category>
-<description>CSSフレームワーク「Tailwind CSS」の開発元であるTailwind Labsは、ECサイト構築サービスを提供しているShopifyによって買収されると発表しました。 下記はTailwindの作者であるAdam Wathan氏によ... — Publickey / score: 75 (Tailwind CSSがShopifyにより買収された発表)</description>
 </item>
 </channel>
 </rss>
