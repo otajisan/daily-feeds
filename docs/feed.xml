@@ -4,8 +4,32 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 17 Sep 2026 16:10:39 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 18:11:28 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>AWS Batch now supports bulk job cancellation and termination</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/aws-batch-bulk-cancellation/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/aws-batch-bulk-cancellation/</guid>
+<pubDate>Thu, 17 Sep 2026 17:23:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS Batch now supports bulk job cancellation and termination, enabling you to cancel or terminate up to 50 jobs with a single API call. The new CancelJobs, TerminateJobs, and TerminateServiceJobs APIs reduce the operational complexity of managing large-scale batch workloads, letting you act on groups of jobs at once and receive per-job results in a single response. Additionally, ListJobs now returns isCancelled and isTerminated fields, and ListServiceJobs returns isTerminated, making it easier t — AWS What's New / score: 55 (AWS Batchの新機能追加で実用性が高い)</description>
+</item>
+<item>
+<title>iPhone18 Proの初回予約分が出荷開始！配送状況の確認方法とポイント</title>
+<link>https://iphone-mania.jp/apple-606117/</link>
+<guid isPermaLink="true">https://iphone-mania.jp/apple-606117/</guid>
+<pubDate>Thu, 17 Sep 2026 17:22:12 +0000</pubDate>
+<category>iPhone Mania</category>
+<description>Appleの最新スマートフォン「iPhone18 Pro / iPhone18 Pro Max」の初回予約分において、Apple公式の注文ステータスが「出荷完了」へと更新され始めています。 発売日である9月18日（金）の […] — iPhone Mania / score: 25 (一般向けガジェットの発売・配送に関するニュース)</description>
+</item>
+<item>
+<title>Google named a Leader in the External Threat Intelligence Service Forrester Wave™</title>
+<link>https://cloud.google.com/blog/products/identity-security/google-named-a-leader-in-the-external-threat-intelligence-service-forrester-wave/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/identity-security/google-named-a-leader-in-the-external-threat-intelligence-service-forrester-wave/</guid>
+<pubDate>Thu, 17 Sep 2026 17:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>At Google, we see firsthand how the speed, scale, and sophistication of cyber threats continue to challenge traditional enterprise defenses. Today’s defenders can’t rely on reactive triage or fragmented data feeds; you require high-fidelity intelligence, deep underground visibility, and actionable context to anticipate adversary moves before an attack unfolds. We are proud to announce that Forrester has named Google a Leader in The Forrester Wave™: External Threat Intelligence Service Providers, — Google Cloud Blog / score: 40 (Googleの脅威インテリジェンス評価に関する発表)</description>
+</item>
 <item>
 <title>How a solo founder runs a five-continent tender platform on AlloyDB and MCP</title>
 <link>https://cloud.google.com/blog/products/databases/solo-founder-runs-a-global-tender-platform-on-alloydb-and-mcp/</link>
@@ -13,6 +37,14 @@
 <pubDate>Thu, 17 Sep 2026 16:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>Editor's note: Lucius AI, a tender-intelligence startup covering markets across five continents, runs its entire data platform on AlloyDB for PostgreSQL with a single operator. By migrating semantic search to a ScaNN index and managing database operations through Model Context Protocol (MCP), query latency dropped by 47x while automating day-to-day administrative tasks via MCP. Executive summary Lucius AI runs a global tender platform spanning more than 210,000 tenders across the UK, EU, India,  — Google Cloud Blog / score: 65 (AlloyDBを用いた個人開発の事例)</description>
+</item>
+<item>
+<title>What’s new with Google Data Cloud</title>
+<link>https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/</guid>
+<pubDate>Thu, 17 Sep 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>September 14 - September 17 Managed Service for Apache Kafka supports clusters with public Internet access! With Managed Kafka public clusters , you can now produce and consume messages from clients outside your VPC—including your local machine, for faster, frictionless testing. Public clusters unlock use cases like IoT devices, retail storefronts, and telco network towers. Enable public access on new or existing clusters via the Google Cloud console, gcloud CLI, or REST API. Spin up your first  — Google Cloud Blog / score: 55 (Google Data Cloudの新機能情報)</description>
 </item>
 <item>
 <title>PlanetScale、PostgreSQLのシャーディングを自動化して1億1800万QPSを達成。新DBサービス「Neki」をプレビュー公開</title>
@@ -591,6 +623,14 @@
 <description>ZUIKIのディスプレイ付きコントローラー最新モデル「EVOTOP Axis」を高コスパ解説。手元で簡単設定できFPSに特化した魅力をご紹介。 — ギズモード・ジャパン / score: 25 (ゲーミングコントローラーの製品紹介)</description>
 </item>
 <item>
+<title>SBI、ライブドアを75億円で買収　「ネオメディア」強化</title>
+<link>https://www.watch.impress.co.jp/docs/news/2141895.html</link>
+<guid isPermaLink="true">https://www.watch.impress.co.jp/docs/news/2141895.html</guid>
+<pubDate>Thu, 17 Sep 2026 09:14:10 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>SBI、ライブドアを75億円で買収 「ネオメディア」強化 — はてなブックマーク テクノロジー / score: 35 (企業のM&amp;A情報であり技術的重要度は低い)</description>
+</item>
+<item>
 <title>Google・Google DeepMindの研究者ら、DeepMind Instituteを発足 ――AGI時代の安全性や社会制度を議論</title>
 <link>https://gihyo.jp/article/2026/09/deepmind-institute?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/09/deepmind-institute?utm_source=feed</guid>
@@ -765,46 +805,6 @@
 <pubDate>Thu, 17 Sep 2026 08:00:43 +0000</pubDate>
 <category>Computer Music Japan</category>
 <description>オーディオリペアの新基準、iZotope「RX 12」が最大72%OFFとなるリリース後初のセール開催です。 iZotope「RX 12」は、5つの新機能、2つの再設計、そして精度向上を含む3つの機能改善を実現したオーデ... The post 【日本限定】オーディオリペアの新基準、iZotope「RX 12」が最大72%OFFとなるリリース後初のセール開催！ first appeared on Computer Music Japan . — Computer Music Japan / score: 35 (音声修復ソフトウェアのメジャー製品のセール情報)</description>
-</item>
-<item>
-<title>カップ麺の「ちいかわラーメン」を食べてみた、「知ってる？チャリメラ」「チャル……」のチャルメラ公式カップ麺</title>
-<link>https://gigazine.net/news/20260917-chiikawa-charumera/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260917-chiikawa-charumera/</guid>
-<pubDate>Thu, 17 Sep 2026 08:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>明星食品が「明星 チャルメラ ちいかわラーメン とんこつ味」を2026年9月14日に発売しました。パッケージには冬毛バージョンのハチワレ・うさぎ・ちいかわがプリントされているほか、具材として「ちいかわなると」も入っているとのこと。ドラッグストアで「明星 チャルメラ ちいかわラーメン とんこつ味」と以前から登場していた「明星 チャルメラ ちいかわラーメン しょうゆ味」を見つけたので買ってみました。 続きを読む... — GIGAZINE / score: 10 (カップ麺の話題であり技術関連ではない)</description>
-</item>
-<item>
-<title>趣味が捗りすぎる。編集部員のプライベートPC活用法、覗いてみた</title>
-<link>https://www.gizmodo.jp/article/biccamera-private-pc/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/biccamera-private-pc/</guid>
-<pubDate>Thu, 17 Sep 2026 08:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>「皆さん、プライベートでパソコン持ってますか？」普段仕事でパソコンを使うことはあっても、なかなかプライベートで使う機会ってないですよね。昔は一家に一台が基本でしたが、最近はタブレットもスマホもパソコン並みの性能・動作で利用できるようになりま… — ギズモード・ジャパン / score: 20 (一般的なPCの活用事例で特有の技術情報がない)</description>
-</item>
-<item>
-<title>GNOME 51 "A Coruña"リリース ―よりスムースで実用的なデスクトップへ</title>
-<link>https://gihyo.jp/article/2026/09/daily-linux-260917?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/09/daily-linux-260917?utm_source=feed</guid>
-<pubDate>Thu, 17 Sep 2026 07:46:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>GNOMEプロジェクトは9月16日、「GNOME 51 "A Coruña"」のリリースを発表した。 — gihyo.jp / score: 60 (主要デスクトップ環境GNOMEのメジャーリリース)</description>
-</item>
-<item>
-<title>海賊版IPTVサービスがテロ組織による映像コンテンツを身近なものにしているという指摘</title>
-<link>https://gigazine.net/news/20260917-pirate-iptv-terrorist/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260917-pirate-iptv-terrorist/</guid>
-<pubDate>Thu, 17 Sep 2026 07:45:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>テレビ番組や映画、有料スポーツ中継などの映像コンテンツを違法に配信する「海賊版IPTVサービス」が、著作権や放映権を侵害しているだけではなく、禁止されているテロ組織関連のテレビ局を発信する場になっていると非営利団体のレポートが報告しました。同団体は、安全のためにサイト遮断を政府に要求しています。 続きを読む... — GIGAZINE / score: 40 (海賊版IPTVとテロ組織に関するセキュリティニュース)</description>
-</item>
-<item>
-<title>なんじゃこれ…！「スクイーズみたいなモチモチスティック」に夢中。このコントローラーは新しい。 #TGS2026</title>
-<link>https://www.gizmodo.jp/article/axisray-lab_bash_controller_tgs2026/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/axisray-lab_bash_controller_tgs2026/</guid>
-<pubDate>Thu, 17 Sep 2026 07:45:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>TGS2026で発見した軸のないモチモチ新感覚コントローラーを徹底解説。スクイーズのような触感とセンサーカメラによる快適な操作性をレビューします。 — ギズモード・ジャパン / score: 25 (新感覚のコントローラーの紹介だがニッチな話題)</description>
 </item>
 </channel>
 </rss>
