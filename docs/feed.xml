@@ -4,8 +4,56 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 17 Sep 2026 18:11:28 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 20:09:46 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Making global data easier to explore</title>
+<link>https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/</link>
+<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/</guid>
+<pubDate>Thu, 17 Sep 2026 20:00:00 +0000</pubDate>
+<category>Google AI Blog</category>
+<description>Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search. — Google AI Blog / score: 45 (国連とGoogleによるデータプラットフォーム公開)</description>
+</item>
+<item>
+<title>AWS Elastic Beanstalk introduces Cluster Mode</title>
+<link>https://aws.amazon.com/blogs/aws/aws-elastic-beanstalk-introduces-cluster-mode/</link>
+<guid isPermaLink="true">https://aws.amazon.com/blogs/aws/aws-elastic-beanstalk-introduces-cluster-mode/</guid>
+<pubDate>Thu, 17 Sep 2026 19:20:21 +0000</pubDate>
+<category>AWS News Blog</category>
+<description>Run an application on AWS Elastic Beanstalk Cluster Mode without provisioning or operating the compute underneath it. You provide a container image or source code; Elastic Beanstalk with service-operated compute creates and operates the environment that runs it. — AWS News Blog / score: 55 (AWS Elastic Beanstalkの新機能追加)</description>
+</item>
+<item>
+<title>AWS Transfer Family now supports source IP preservation for SFTP servers behind a Network Load Balancer (NLB)</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/transfer-family-sftp-source-ip-nlb/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/transfer-family-sftp-source-ip-nlb/</guid>
+<pubDate>Thu, 17 Sep 2026 19:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS Transfer Family now preserves the client's source IP address using Proxy Protocol v2 (PPv2) when you place a Network Load Balancer (NLB) in front of your SFTP server that uses a VPC-hosted endpoint. You can now retain visibility of the client's source IP for IP-based auditing, access controls, and compliance when you use your own NLB. Previously, an NLB replaced the client's source IP with its own private IP address, so your Transfer Family logs and events recorded the NLB's address instead  — AWS What's New / score: 50 (AWS Transfer Familyの機能追加)</description>
+</item>
+<item>
+<title>AWS HealthOmics now supports IAM session policies</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/omics-iam-session-policy/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/omics-iam-session-policy/</guid>
+<pubDate>Thu, 17 Sep 2026 18:32:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS HealthOmics now supports IAM session policies, enabling you to restrict permissions for individual runs without creating and managing multiple IAM roles. Until now, there was no way to dynamically scope down permissions for a single run, requiring you to create a separate IAM role for each tenant or run. AWS HealthOmics is a HIPAA-eligible service that helps healthcare and life sciences customers accelerate scientific breakthroughs with fully managed bioinformatics workflows. An IAM session  — AWS What's New / score: 45 (AWS HealthOmicsのIAMセッションポリシー対応)</description>
+</item>
+<item>
+<title>iPhone18 Proは保護ガラス選びに注意〜Face IDが使えない場合も！？</title>
+<link>https://iphone-mania.jp/iphone18-606119/</link>
+<guid isPermaLink="true">https://iphone-mania.jp/iphone18-606119/</guid>
+<pubDate>Thu, 17 Sep 2026 18:30:06 +0000</pubDate>
+<category>iPhone Mania</category>
+<description>iPhone18 Proシリーズでは、Face ID機構の赤外線カメラがディスプレイ左上に画面下埋め込み型で配置され、Dynamic Islandの小型化が実現しています。 ただし、この変更に伴い、アンチグレア処理が強い […] — iPhone Mania / score: 25 (次期iPhoneのハードウェア変更に関する噂)</description>
+</item>
+<item>
+<title>AppleがBeatsブランドからiPhone用ゲームコントローラーを投入か？</title>
+<link>https://iphone-mania.jp/goods-606122/</link>
+<guid isPermaLink="true">https://iphone-mania.jp/goods-606122/</guid>
+<pubDate>Thu, 17 Sep 2026 18:14:49 +0000</pubDate>
+<category>iPhone Mania</category>
+<description>AppleがiPhone向けとして初となる自社開発のゲームコントローラーの製品化を進めているという噂が浮上しました。興味深いことに、本製品は「Apple」ブランドではなく、傘下のアクセサリー・オーディオブランドである「B […] — iPhone Mania / score: 20 (Appleのゲームコントローラーに関する噂)</description>
+</item>
 <item>
 <title>AWS Batch now supports bulk job cancellation and termination</title>
 <link>https://aws.amazon.com/about-aws/whats-new/2026/09/aws-batch-bulk-cancellation/</link>
@@ -29,6 +77,14 @@
 <pubDate>Thu, 17 Sep 2026 17:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>At Google, we see firsthand how the speed, scale, and sophistication of cyber threats continue to challenge traditional enterprise defenses. Today’s defenders can’t rely on reactive triage or fragmented data feeds; you require high-fidelity intelligence, deep underground visibility, and actionable context to anticipate adversary moves before an attack unfolds. We are proud to announce that Forrester has named Google a Leader in The Forrester Wave™: External Threat Intelligence Service Providers, — Google Cloud Blog / score: 40 (Googleの脅威インテリジェンス評価に関する発表)</description>
+</item>
+<item>
+<title>The future of orchestration: Pine59’s journey to Airflow 3 on Google Cloud</title>
+<link>https://cloud.google.com/blog/topics/supply-chain-logistics/the-future-of-orchestration-pine59s-journey-to-airflow-3-on-google-cloud/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/supply-chain-logistics/the-future-of-orchestration-pine59s-journey-to-airflow-3-on-google-cloud/</guid>
+<pubDate>Thu, 17 Sep 2026 17:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Operating large data pipelines requires an orchestration layer that scales smoothly as workloads expand. When your pipelines process millions of complex data points every day to feed predictive models, staying up-to-date with your technology stack is a strategic necessity. Pine59 provides location intelligence data through data pipelines that produce analytical metrics on cadences ranging from hourly to quarterly. One of the company’s most data-intensive metrics, Daily Foot Traffic, computes dat — Google Cloud Blog / score: 45 (Google CloudにおけるAirflow 3の事例)</description>
 </item>
 <item>
 <title>How a solo founder runs a five-continent tender platform on AlloyDB and MCP</title>
@@ -69,6 +125,14 @@
 <pubDate>Thu, 17 Sep 2026 15:05:00 +0000</pubDate>
 <category>iPhone Mania</category>
 <description>折りたたみスマートフォン向け有機EL（OLED）ディスプレイ市場において、Samsung Displayはすでに約3分の2のシェアを獲得しています。 同社はiPhone Duo向け折りたたみOLEDディスプレイを独占供給 […] — iPhone Mania / score: 35 (ディスプレイ市場の供給シェア動向)</description>
+</item>
+<item>
+<title>AIコーディングエージェントにとってハーネスはどれほど重要なのか？</title>
+<link>https://gigazine.net/news/20260917-harnesstax-ai-coding-agents/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20260917-harnesstax-ai-coding-agents/</guid>
+<pubDate>Thu, 17 Sep 2026 15:00:19 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>AIコーディングエージェントは同じAIモデルを使っていても、モデルを動かすハーネスによって費用や性能が変わる可能性があります。カリフォルニア大学バークレー校とAIランキングサイト「Arena」の共同研究チームは、7つのモデルと3つのハーネスを組み合わせた21通りを2種類のベンチマークで比較しました。その結果、タ... — はてなブックマーク テクノロジー / score: 70 (AIコーディングエージェントにおけるハーネスの性能比較)</description>
 </item>
 <item>
 <title>BoseのOpen Ear 2機種が予約開始　Ultra Open Earbuds第2世代とSports Open Earbudsが10月1日発売</title>
@@ -125,14 +189,6 @@
 <pubDate>Thu, 17 Sep 2026 14:03:05 +0000</pubDate>
 <category>気になる、記になる…</category>
 <description>ロイターが、複数の関係者の話として、Appleにメモリを供給する韓国のSK Hynixが、米国国内でのメモリチップの製造に向け協議を行っているようだと報じています。 SK Hynixは、Intelがオハイオ州に建設を計画 […] — 気になる、記になる… / score: 55 (SK HynixによるApple向けメモリの米国国内製造の協議)</description>
-</item>
-<item>
-<title>AIコーディングエージェントにとってハーネスはどれほど重要なのか？</title>
-<link>https://gigazine.net/news/20260917-harnesstax-ai-coding-agents/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260917-harnesstax-ai-coding-agents/</guid>
-<pubDate>Thu, 17 Sep 2026 14:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>AIコーディングエージェントは同じAIモデルを使っていても、モデルを動かすハーネスによって費用や性能が変わる可能性があります。カリフォルニア大学バークレー校とAIランキングサイト「Arena」の共同研究チームは、7つのモデルと3つのハーネスを組み合わせた21通りを2種類のベンチマークで比較しました。その結果、タスクの成功率は大きく変わらない一方、費用には最大5倍の差が生じ、モデル本来の提供元とは異なるハーネスが最適な場合もあることがわかりました。 続きを読む... — GIGAZINE / score: 70 (AIコーディングエージェントにおけるハーネスの性能比較)</description>
 </item>
 <item>
 <title>ユニクロの靴が「ほぼニューバランスの履き心地」になりました</title>
@@ -749,62 +805,6 @@
 <pubDate>Thu, 17 Sep 2026 08:49:29 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>目次 目次 はじめに パスキーとは サインインの仕組み Entra IDでのパスキー対応について パスキーが突破されること：デバイスコードフロー攻撃 デバイスコードフローとは 攻撃のメカニズム デバイスコードフロー攻撃の対策 Entra IDの条件付きアクセスによるブロック 除外設定が必要なケース Microsoft Entra ID Protec... — はてなブックマーク テクノロジー / score: 85 (デバイスコードフロー攻撃とパスキーの脆弱性に関する詳細な解説)</description>
-</item>
-<item>
-<title>このフルアーマーキーボード、お値段、28万9000円です #TGS2026</title>
-<link>https://www.gizmodo.jp/article/hypeshop_nooir-klavier-2-k2_tgs2026/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/hypeshop_nooir-klavier-2-k2_tgs2026/</guid>
-<pubDate>Thu, 17 Sep 2026 08:45:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>東京ゲームショウ2026で発見した約4.85kgの超重量級フルアーマーキーボード「Nooir Klavier II K2」を紹介。価格28万9000円、打鍵感を調律できる工芸品のような圧倒的魅力に迫ります。 — ギズモード・ジャパン / score: 25 (高価格帯のニッチなハードウェア紹介である)</description>
-</item>
-<item>
-<title>OpenAI、モデルのミスアライメントを報告する枠組みを公表 ——6件のレポートも公開</title>
-<link>https://gihyo.jp/article/2026/09/openai-model-misalignment?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/09/openai-model-misalignment?utm_source=feed</guid>
-<pubDate>Thu, 17 Sep 2026 08:43:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>OpenAIは9月16日、AIモデルが開発者や利用者の意図に反する振る舞いをする「ミスアライメント」について、追跡・調査・開示のための枠組みを公表した。 — gihyo.jp / score: 65 (OpenAIによるAI安全性の枠組み公表)</description>
-</item>
-<item>
-<title>「Firefox」がフランス企業のAIモデル「Mistral Small 4」を導入、「Smart Window」で利用可能に／仏MistralとMozillaが提携、ビッグテックに依存しないAIの選択肢</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2141600.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2141600.html</guid>
-<pubDate>Thu, 17 Sep 2026 08:40:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>Mozillaは9月16日（米国時間）、仏Mistral AIとの提携を発表した。Mistralは、2023年にフランスで設立されたAI企業。英語以外の言語への対応を重視したオープンウェイトの大規模言語モデル（LLM）を開発しており、米国大手（OpenAI、Anthropic、Googleなど）に対する欧州の選択肢として注目されている。 — 窓の杜 / score: 65 (Firefoxへの欧州製オープンAIモデル統合)</description>
-</item>
-<item>
-<title>9歳の息子がYouTubeで1800万円超の広告を出稿</title>
-<link>https://gigazine.net/news/20260917-son-spent-money-youtube-campaign/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260917-son-spent-money-youtube-campaign/</guid>
-<pubDate>Thu, 17 Sep 2026 08:15:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>9歳の少年が自身のYouTubeチャンネルを宣伝するため、父親の会社用クレジットカードを使って約3週間で11万8000ドル(約1840万円)もの広告費を使ったと父親が明かしました。父親が少年に20ドル(約3100円)程度の動画広告の出稿方法を教えたところ、少年は自分で次々と広告キャンペーンを作成していたとのことです。 続きを読む... — GIGAZINE / score: 30 (誤操作による高額広告費出稿のトピック)</description>
-</item>
-<item>
-<title>Web開発からゲーム制作、言語選びまで！ プログラミングの入門・超入門書が読み放題に【読み放題！TechLib新着情報】</title>
-<link>https://forest.watch.impress.co.jp/docs/bookwatch/techlibnew/2141576.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/bookwatch/techlibnew/2141576.html</guid>
-<pubDate>Thu, 17 Sep 2026 08:10:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>ITエンジニア向け技術書籍の読み放題サービス「TechLib」（月額3,080円）では、プログラミング言語、サーバー・クラウドサービス、コンテナ開発、情報処理資格、AI・機械学習、ネットワーク・セキュリティなど様々なジャンルの書籍を取り揃え、続々と新しい書籍が追加されている。本コーナーでは、そんな「TechLib」に新規で追加された書籍を紹介する。 — 窓の杜 / score: 30 (技術書籍の読み放題サービス紹介)</description>
-</item>
-<item>
-<title>ローカルLLM利用のクリニックが話題　院長自ら環境を構築　「医療機器より安い」は本当か</title>
-<link>https://www.itmedia.co.jp/aiplus/article/2609/17/2000001587/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2609/17/2000001587/</guid>
-<pubDate>Thu, 17 Sep 2026 08:07:58 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>ローカルLLMを利用しているクリニックが話題だ。Xユーザーのところてん氏が「病院のWebページ見てたら、（ローカル）LLM利用の注意書きが書いてあってびっくり」と投稿。投稿で引用されているクリニックのお知らせには「当院では診療の質向上と業務効率化のため、院内に設置したAIサーバー（ローカルLLM）を利用して診療... — はてなブックマーク テクノロジー / score: 50 (クリニックにおけるローカルLLM利用事例の紹介)</description>
-</item>
-<item>
-<title>【日本限定】オーディオリペアの新基準、iZotope「RX 12」が最大72%OFFとなるリリース後初のセール開催！</title>
-<link>https://computermusic.jp/2026/09/rx12-sale/</link>
-<guid isPermaLink="true">https://computermusic.jp/2026/09/rx12-sale/</guid>
-<pubDate>Thu, 17 Sep 2026 08:00:43 +0000</pubDate>
-<category>Computer Music Japan</category>
-<description>オーディオリペアの新基準、iZotope「RX 12」が最大72%OFFとなるリリース後初のセール開催です。 iZotope「RX 12」は、5つの新機能、2つの再設計、そして精度向上を含む3つの機能改善を実現したオーデ... The post 【日本限定】オーディオリペアの新基準、iZotope「RX 12」が最大72%OFFとなるリリース後初のセール開催！ first appeared on Computer Music Japan . — Computer Music Japan / score: 35 (音声修復ソフトウェアのメジャー製品のセール情報)</description>
 </item>
 </channel>
 </rss>
