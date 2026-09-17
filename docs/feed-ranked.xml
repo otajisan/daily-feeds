@@ -4,8 +4,16 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 16 Sep 2026 22:08:26 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 00:23:46 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>[95] Gyazoに不正アクセス　ユーザー情報約2362万件、画像メタデータ約4.9億件が流出</title>
+<link>https://www.itmedia.co.jp/news/article/2609/16/2000001560/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2609/16/2000001560/</guid>
+<pubDate>Wed, 16 Sep 2026 13:44:47 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>AIを活用したナレッジ共有サービスなどを手掛けるHelpfeelは9月16日、画像共有サービス「Gyazo（ギャゾー）」が不正アクセスを受け、ユーザー情報約2362万件と、アップロードされた画像に関するメタデータ約4億9000万件が外部に流出したと発表した。流出情報から対象の画像にアクセスし、不正に閲覧できる恐れがあるほか... — はてなブックマーク テクノロジー / score: 95 (Gyazoの大規模データ流出と不正アクセスインシデント)</description>
+</item>
 <item>
 <title>[95] Apple、「iOS 27」「iPadOS 27」の一般提供を開始 ～「Siri AI」の日本語対応は年内／126件の脆弱性修正も</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2140863.html</link>
@@ -103,6 +111,14 @@
 <description>米Appleは9月14日（現地時間）、「iOS 26.7」および「iPadOS 26.7」をリリースした。82件の脆弱性に対処したセキュリティアップデートとなっている。 — 窓の杜 / score: 90 (Apple製OSの多数の脆弱性修正)</description>
 </item>
 <item>
+<title>[90] AWS SSM Agent の脆弱性(CVE-2026-89049) の被害があったかどうかを CloudTrail で確認する方法</title>
+<link>https://zenn.dev/cscloud_blog/articles/4d6e13b853109e</link>
+<guid isPermaLink="true">https://zenn.dev/cscloud_blog/articles/4d6e13b853109e</guid>
+<pubDate>Mon, 14 Sep 2026 01:30:42 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>どうもサイバーセキュリティクラウドで脅威インテリジェンスをしている西川です。 今日は表題の CVSS v3.1 における CVSS 9.9(Critical) の脆弱性について実際に脆弱性が悪用された場合にどういうログが CloudTrail に出るのかを検証し、皆様の環境で被害が発生していないか確認していただくためにブログを執筆いたしました。ただこのスコアほど影響度は高くないというのが個人的な印象です。それらについてもまとめているので最後までご覧ください。 CVE-2026-89049 とは 2026年9月10日に AWS は AWS Systems Manager Agent（以... — Zenn トレンド / score: 90 (深刻な脆弱性の影響確認方法に関する実用的な解説)</description>
+</item>
+<item>
 <title>[90] Microsoft、ネイティブGoコンパイラを採用した TypeScript 7.0 をリリース。ビルド速度が10倍に向上</title>
 <link>https://www.infoq.com/jp/news/2026/09/typescript-7-released/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
 <guid isPermaLink="true">https://www.infoq.com/jp/news/2026/09/typescript-7-released/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
@@ -159,6 +175,14 @@
 <description>AIモデル「Claude Fable 5.1」が370年以上未解読とされてきた謎の暗号「Cyphral Distich」をわずか1日足らずで解読したというニュースが飛び込んできました。1899年に「Notes and Queries」誌で未解決問題として提示されて以来、「Cyphral Distich」は多くの暗号研究者たちの挑戦を退けてきた難問でした。AIが具体的にどのようにして暗号を解読したかについて、AI研究者のゲビー・ジャフ氏がブログにて語っています。 続きを読む... — GIGAZINE / score: 85 (Claudeによる古代未解読暗号の解読成功)</description>
 </item>
 <item>
+<title>[85] Salesforceで大規模障害　「夕方以降に落ちるなんて」阿鼻叫喚　PayPayのフォームにも影響</title>
+<link>https://www.itmedia.co.jp/news/article/2609/16/2000001562/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2609/16/2000001562/</guid>
+<pubDate>Wed, 16 Sep 2026 14:04:17 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>米Salesforceが提供するCRMなどの中核サービスで、日本時間9月16日夕方ごろから、大規模な障害がグローバルで発生している。同社のステータスページによると、障害は午後4時50分ごろから、中核サービス「Salesforce Services」の1000以上のインスタンスで発生。3時間経った午後7時50分時点でも続いているが、復旧に向け... — はてなブックマーク テクノロジー / score: 85 (Salesforceの大規模障害とサービス影響)</description>
+</item>
+<item>
 <title>[85] iOS26.7やmacOS 26.7など旧OS向けのセキュリティ更新が一斉に配信</title>
 <link>https://iphone-mania.jp/ios-606052/</link>
 <guid isPermaLink="true">https://iphone-mania.jp/ios-606052/</guid>
@@ -181,14 +205,6 @@
 <pubDate>Wed, 16 Sep 2026 07:51:41 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>選択肢も出そろってきています。OSS・セルフホスト系では「Infisical」「HashiCorp Vault」、OAuthトークンの保管に特化した「Nango」などがあり、マネージドベンダー系では「AWS Secrets Manager」「1Password」「Aembit」「WorkOS」「Arcade」といった名前が挙がります。共通する思想はシンプルです。エージェントに鍵... — はてなブックマーク テクノロジー / score: 85 (AIエージェントのセキュリティ脅威と対策手法)</description>
-</item>
-<item>
-<title>[85] 「Gyazo」への不正アクセスによる情報漏えいに関するお知らせとお詫び</title>
-<link>https://corp.helpfeel.com/news/news-20260916-1</link>
-<guid isPermaLink="true">https://corp.helpfeel.com/news/news-20260916-1</guid>
-<pubDate>Wed, 16 Sep 2026 06:39:20 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>株式会社Helpfeel（本社：京都府京都市、代表取締役 CEO：洛西一周、以下：当社）が提供する画像共有サービス「Gyazo」において、第三者による不正アクセスが発生し、ユーザー情報およびアップロードされた画像に関するメタデータの一部が外部に漏えいしたことを確認いたしました。 現在、不正アクセスに利用された経路... — はてなブックマーク テクノロジー / score: 85 (主要画像サービスのセキュリティインシデント)</description>
 </item>
 <item>
 <title>[85] 「Firefox 156」が正式公開 ～内蔵PDFビューアーの起動が最大45％高速化／73件の脆弱性にも対処</title>
@@ -218,17 +234,9 @@
 <title>[85] ChatGPT共同開発者がLLMとは異なる方法で処理するAIモデル「Jev」を開発、GPT-5.6 Terra級の性能でタスクを安価かつ超高速に実行可能</title>
 <link>https://gigazine.net/news/20260916-system-one-jev/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260916-system-one-jev/</guid>
-<pubDate>Wed, 16 Sep 2026 02:49:52 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>AI企業のTypeSafe AIが大規模言語モデル(LLM)とは異なるアプローチでタスクを解決するAI「System One Models」と、System One Modelsの第1弾モデルである「Jev」を現地時間の2026年9月15日に発表しました。TypeSafe AIはChatGPTの開発に携わったAI研究者であるディオゴ・アルメイダ氏がCEOを務める企業で、LLMとは根本的... — はてなブックマーク テクノロジー / score: 85 (新しいAIアーキテクチャの登場で業界の注目度が高い)</description>
-</item>
-<item>
-<title>[85] Windows 11向けに定例外の緊急パッチ「KB5129195」配信、リモートデスクトップの障害やUSBオーディオ機能の不具合などを修正</title>
-<link>https://gigazine.net/news/20260916-windows-update-kb5129195/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260916-windows-update-kb5129195/</guid>
-<pubDate>Wed, 16 Sep 2026 02:36:00 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Windowsの定例アップデートで発生していたバグを修正するパッチが配信されました。オーディオデバイスに発生していたバグなどが修正されています。 September 14, 2026—KB5129195 (OS Builds 26200.9457 and 26100.9457) Out-of-band | Microsoft Support https://support.microsoft.com/en-us/servicing/os/windows-11/... — はてなブックマーク テクノロジー / score: 85 (Windows 11の緊急パッチ配信)</description>
+<pubDate>Wed, 16 Sep 2026 02:42:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>AI企業のTypeSafe AIが大規模言語モデル(LLM)とは異なるアプローチでタスクを解決するAI「System One Models」と、System One Modelsの第1弾モデルである「Jev」を現地時間の2026年9月15日に発表しました。TypeSafe AIはChatGPTの開発に携わったAI研究者であるディオゴ・アルメイダ氏がCEOを務める企業で、LLMとは根本的に異なる手法を用いることで高速かつ低コストなAIを実現したとアピールされています。 続きを読む... — GIGAZINE / score: 85 (新しいAIアーキテクチャの登場で業界の注目度が高い)</description>
 </item>
 <item>
 <title>[85] Google、音声対話モデル「Gemini 3.8 Live」を発表 ～より知的な会話体験を構築／深く考えながら話す「Extended Thinking」版も</title>
@@ -237,6 +245,14 @@
 <pubDate>Wed, 16 Sep 2026 02:22:07 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Googleは9月15日（現地時間）、新しい音声対話モデル「Gemini 3.8 Live」「Gemini 3.8 Live Extended Thinking」を発表した。「Gemini API」と「Google AI Studio」を通じて開発者などに提供される。 — 窓の杜 / score: 85 (Googleの新しい音声対話AIモデルの発表)</description>
+</item>
+<item>
+<title>[85] Windows 11向けに定例外の緊急パッチ「KB5129195」配信、リモートデスクトップの障害やUSBオーディオ機能の不具合などを修正</title>
+<link>https://gigazine.net/news/20260916-windows-update-kb5129195/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20260916-windows-update-kb5129195/</guid>
+<pubDate>Wed, 16 Sep 2026 02:04:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>Windowsの定例アップデートで発生していたバグを修正するパッチが配信されました。オーディオデバイスに発生していたバグなどが修正されています。 続きを読む... — GIGAZINE / score: 85 (Windows 11の緊急パッチ配信)</description>
 </item>
 <item>
 <title>[85] Java 27 Launch Stream</title>
@@ -269,14 +285,6 @@
 <pubDate>Tue, 15 Sep 2026 22:00:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>2026年9月15日（米国時間）にJava 27がリリースされました。アップデート内容およびセキュリティ関連の話題などについて紹介します。 — gihyo.jp / score: 85 (主要な言語プラットフォームJava 27のリリース)</description>
-</item>
-<item>
-<title>[85] Homebrew 7.0.0リリース、パフォーマンス向上・セキュリティ強化の一方でmacOS 10.15のサポート終了・Intel MacがTier 3に移行</title>
-<link>https://gigazine.net/news/20260916-homebrew-v700/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260916-homebrew-v700/</guid>
-<pubDate>Tue, 15 Sep 2026 22:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>2026年9月13日にパッケージマネージャーのHomebrewがメジャーアップデート「7.0.0」をリリースしました。今回のバージョンアップは数々の重要な変更点を含んでおり、開発者のための環境がより高速かつ安全になる一方でmacOSのサポートポリシーに大きな変更が見られます。 続きを読む... — GIGAZINE / score: 85 (Homebrew 7.0.0のメジャーリリースと仕様変更)</description>
 </item>
 <item>
 <title>[85] Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking</title>
@@ -479,22 +487,6 @@
 <description>Googleは2026年9月2日、同社の低コスト・実用モデルの最新バージョンとなるGemini 3.8 Flash、およびサイバーセキュリティモデルGemini 3.8 Flash Cyberをリリースした。 — gihyo.jp / score: 85 (Googleの新型LLM Gemini 3.8 Flashリリース)</description>
 </item>
 <item>
-<title>[85] Googleがアプリへの品質要件を刷新、メモリ削減義務化の詳細と対策</title>
-<link>https://gihyo.jp/article/2026/09/android-weekly-topics-260903?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/09/android-weekly-topics-260903?utm_source=feed</guid>
-<pubDate>Thu, 03 Sep 2026 00:08:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Googleがアプリに対して新しい品質要件を発表しました。今回追加された基準の中でもとくに開発者に大きな影響を与える要素が、動的メモリ使用量やビットマップ消費量に関する厳しい閾値の設定です。 — gihyo.jp / score: 85 (Googleによるアプリ品質要件の刷新とメモリ制限)</description>
-</item>
-<item>
-<title>[85] Safety overview: GPT-6 Astra</title>
-<link>https://openai.com/index/safety-overview-gpt-6-astra</link>
-<guid isPermaLink="true">https://openai.com/index/safety-overview-gpt-6-astra</guid>
-<pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework. — OpenAI News / score: 85 (GPT-6 Astraの安全性とサイバーセキュリティ能力の概要。)</description>
-</item>
-<item>
 <title>[82] Google、Gemini 3.8 Liveを発表 ——会話を続けながら推論やツール実行が可能</title>
 <link>https://gihyo.jp/article/2026/09/gemini-3.8-live?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/09/gemini-3.8-live?utm_source=feed</guid>
@@ -511,12 +503,12 @@
 <description>Cloudflareは2026年9月15日、Webサイトの検索インデックスへの登録を維持しながら、コンテンツのAI学習への利用を拒否する設定「Disallow AI Training」を発表した。 — gihyo.jp / score: 80 (検索許可とAI学習拒否を両立する新機能の発表)</description>
 </item>
 <item>
-<title>[80] TypeSafe AI、AIモデル「Jev」の早期提供を開始 ——判断結果を構造化データで高速出力、ソフトウェアでの活用を想定 | gihyo.jp</title>
-<link>https://gihyo.jp/article/2026/09/jev-early-access</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/09/jev-early-access</guid>
-<pubDate>Wed, 16 Sep 2026 02:54:43 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>TypeSafe AI⁠⁠、AIモデル「Jev」の早期提供を開始 —⁠—判断結果を構造化データで高速出力⁠⁠、ソフトウェアでの活用を想定 TypeSafe AIは9月15日、ソフトウェア内の判断処理に特化したAIモデル「Jev」の早期アクセス提供を発表した。Jevを使うと、文章やコードではなく、あらかじめ定めた選択肢や評価尺度に沿った判断結果... — はてなブックマーク テクノロジー / score: 80 (構造化データ出力に特化した新規AIモデルの提供開始)</description>
+<title>[80] TypeSafe AI、AIモデル「Jev」の早期提供を開始 ——判断結果を構造化データで高速出力、ソフトウェアでの活用を想定</title>
+<link>https://gihyo.jp/article/2026/09/jev-early-access?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/09/jev-early-access?utm_source=feed</guid>
+<pubDate>Wed, 16 Sep 2026 02:22:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>TypeSafe AIは9月15日、ソフトウェア内の判断処理に特化したAIモデル「Jev」の早期アクセス提供を発表した。 — gihyo.jp / score: 80 (構造化データ出力に特化した新規AIモデルの提供開始)</description>
 </item>
 <item>
 <title>[80] JDK 27 Security Enhancements</title>
@@ -671,6 +663,22 @@
 <description>Launch season continues from yesterday , with Gemini 3.8 Flash as rumored today, but Muse Spark 1.3, promised in Zuck’s big comeback letter last month, definitely deserved the title story win today. Per AAII it is now the #3 model in the world (!?!) Just look at the confidence displayed finally putting up comparable numbers to the frontier models from OpenAI and Anthropic (Opus, not Fable)… and promising that it will be open weights as well(!!!): They have an interesting pricing model where it i — Latent Space / score: 80 (MetaのMuse Spark 1.3性能に関する技術的解説)</description>
 </item>
 <item>
+<title>[75] AWS Lambda、マネージドインスタンスで90分の関数タイムアウトに対応</title>
+<link>https://codezine.jp/article/detail/29716</link>
+<guid isPermaLink="true">https://codezine.jp/article/detail/29716</guid>
+<pubDate>Wed, 16 Sep 2026 23:00:00 +0000</pubDate>
+<category>CodeZine</category>
+<description> — CodeZine / score: 75 (AWS Lambdaの機能拡充とタイムアウト対応)</description>
+</item>
+<item>
+<title>[75] 新機能に加えDPユーザーから寄せられた要望に応える数十におよぶワークフロー改善を実現したDAW、MOTU「Digital Performer 12」リリース！</title>
+<link>https://computermusic.jp/2026/09/dp12/</link>
+<guid isPermaLink="true">https://computermusic.jp/2026/09/dp12/</guid>
+<pubDate>Wed, 16 Sep 2026 22:58:07 +0000</pubDate>
+<category>Computer Music Japan</category>
+<description>新機能に加えDPユーザーから寄せられた要望に応える数十におよぶワークフロー改善を実現したDAW、MOTU「Digital Performer 12」リリースです。 Digital Performer 12 Digital... The post 新機能に加えDPユーザーから寄せられた要望に応える数十におよぶワークフロー改善を実現したDAW、MOTU「Digital Performer 12」リリース！ first appeared on Computer Music Japan . — Computer Music Japan / score: 75 (メジャーDAWソフトの新規リリース)</description>
+</item>
+<item>
 <title>[75] Our framework for reporting model misalignment</title>
 <link>https://openai.com/index/model-misalignment-reporting-framework</link>
 <guid isPermaLink="true">https://openai.com/index/model-misalignment-reporting-framework</guid>
@@ -709,14 +717,6 @@
 <pubDate>Wed, 16 Sep 2026 03:38:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>これまでチャットボットの中だけで完結していたAIとのやりとりが、AIが外部のサイトに接続してデータ処理を行ったりレストランの予約を行ったりすることで多方面に影響を及ぼすようになりました。人間の代わりにいろいろな処理を行ってくれる「AIエージェント」の存在について、テクノロジー系メディアの404 Mediaが「インターネットを壊しつつある」と論じています。 続きを読む... — GIGAZINE / score: 75 (AIエージェントの普及がネット環境に与える影響の考察)</description>
-</item>
-<item>
-<title>[75] Expo SDK 58 Betaの変更点まとめ</title>
-<link>https://zenn.dev/tellernovel_inc/articles/5b4b947db4f2cd</link>
-<guid isPermaLink="true">https://zenn.dev/tellernovel_inc/articles/5b4b947db4f2cd</guid>
-<pubDate>Wed, 16 Sep 2026 03:28:22 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>こんにちは！テラーノベルでiOS/Android/Webとフロントエンド周りを担当している @kazutoyo です！ Expo SDK 58のベータ版が公開されました。 ベータ期間は3〜4週間の予定で、React Native 0.88の正式リリースを待ってからSDK 58も正式リリースされる流れになっています。 https://expo.dev/changelog/sdk-58-beta 今回はiOS 27への対応やExpo Modules 2.0のベータなど、変更点がかなり多いリリースです。 この記事では、気になった変更点と、アップグレード時に注意しておきたい破壊的変更をまとめます... — Zenn トレンド / score: 75 (Expo SDK 58ベータ版の変更点まとめ)</description>
 </item>
 <item>
 <title>[75] GitHub Copilot、自動モデル選択に3つのティアを追加</title>
