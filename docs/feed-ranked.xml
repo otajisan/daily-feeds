@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 17 Sep 2026 12:14:27 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 14:10:58 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] Apple、「iOS 27」「iPadOS 27」の一般提供を開始 ～「Siri AI」の日本語対応は年内／126件の脆弱性修正も</title>
@@ -159,6 +159,14 @@
 <description>OpenAIは2026年9月3日、新モデル「GPT-6 Astra」を発表した。 — gihyo.jp / score: 90 (OpenAIの次世代モデル「GPT-6 Astra」発表)</description>
 </item>
 <item>
+<title>[85] パスキーは破られていないのに突破される——デバイスコードフロー攻撃とEntra IDでの対策 - APC 技術ブログ</title>
+<link>https://techblog.ap-com.co.jp/entry/2026/09/17/103525</link>
+<guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2026/09/17/103525</guid>
+<pubDate>Thu, 17 Sep 2026 08:49:29 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>目次 目次 はじめに パスキーとは サインインの仕組み Entra IDでのパスキー対応について パスキーが突破されること：デバイスコードフロー攻撃 デバイスコードフローとは 攻撃のメカニズム デバイスコードフロー攻撃の対策 Entra IDの条件付きアクセスによるブロック 除外設定が必要なケース Microsoft Entra ID Protec... — はてなブックマーク テクノロジー / score: 85 (デバイスコードフロー攻撃とパスキーの脆弱性に関する詳細な解説)</description>
+</item>
+<item>
 <title>[85] OpenAIのAIエージェントが5月13日にHugging Faceのアカウントを不正に乗っ取りサーバーを調査していたことが明らかに、「Hugging Faceハッキングを防げたはず」とセキュリティ研究者</title>
 <link>https://gigazine.net/news/20260917-openai-agents-probed-hugging-face-weaknesses-before-major-hack/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260917-openai-agents-probed-hugging-face-weaknesses-before-major-hack/</guid>
@@ -199,14 +207,6 @@
 <description>Release: datasette 0.65.5 Security fix for an issue where a trailing newline in a requested table name could bypass table permissions and expose private rows, reported by dpfkdlemtp in GHSA-h547-rmjf-5m2m . Tags: security , datasette — Simon Willison / score: 85 (Datasetteの権限バイパス脆弱性の修正)</description>
 </item>
 <item>
-<title>[85] Claude Fable 5.1が370年前の未解読暗号「Cyphral Distich」を1日足らずで解読</title>
-<link>https://gigazine.net/news/20260917-fable-solves-cyphral-distich/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260917-fable-solves-cyphral-distich/</guid>
-<pubDate>Wed, 16 Sep 2026 21:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>AIモデル「Claude Fable 5.1」が370年以上未解読とされてきた謎の暗号「Cyphral Distich」をわずか1日足らずで解読したというニュースが飛び込んできました。1899年に「Notes and Queries」誌で未解決問題として提示されて以来、「Cyphral Distich」は多くの暗号研究者たちの挑戦を退けてきた難問でした。AIが具体的にどのようにして暗号を解読したかについて、AI研究者のゲビー・ジャフ氏がブログにて語っています。 続きを読む... — GIGAZINE / score: 85 (Claudeによる古代未解読暗号の解読成功)</description>
-</item>
-<item>
 <title>[85] iOS26.7やmacOS 26.7など旧OS向けのセキュリティ更新が一斉に配信</title>
 <link>https://iphone-mania.jp/ios-606052/</link>
 <guid isPermaLink="true">https://iphone-mania.jp/ios-606052/</guid>
@@ -221,14 +221,6 @@
 <pubDate>Wed, 16 Sep 2026 09:41:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>オープンソースのメールソフト「Thunderbird」の最新版、v156.0が9月15日にリリースされた。本アップデートには、新機能の追加、仕様の変更に加え、多数の不具合修正やセキュリティ機能の向上が含まれている。 — 窓の杜 / score: 85 (メジャーメールソフトの多数のセキュリティ修正を含む更新)</description>
-</item>
-<item>
-<title>[85] 「APIキーは.envに」はもはや通用しない　AIエージェントの“内通者化”をどう防ぐ？</title>
-<link>https://atmarkit.itmedia.co.jp/ait/articles/2609/17/news006.html</link>
-<guid isPermaLink="true">https://atmarkit.itmedia.co.jp/ait/articles/2609/17/news006.html</guid>
-<pubDate>Wed, 16 Sep 2026 07:51:41 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>選択肢も出そろってきています。OSS・セルフホスト系では「Infisical」「HashiCorp Vault」、OAuthトークンの保管に特化した「Nango」などがあり、マネージドベンダー系では「AWS Secrets Manager」「1Password」「Aembit」「WorkOS」「Arcade」といった名前が挙がります。共通する思想はシンプルです。エージェントに鍵... — はてなブックマーク テクノロジー / score: 85 (AIエージェントのセキュリティ脅威と対策手法)</description>
 </item>
 <item>
 <title>[85] 「Firefox 156」が正式公開 ～内蔵PDFビューアーの起動が最大45％高速化／73件の脆弱性にも対処</title>
@@ -487,6 +479,14 @@
 <description>Anthropicは2026年9月16日、Claude CoworkとClaudeのチャット機能が統合され、Claudeとして利用可能になることを発表した。 — gihyo.jp / score: 80 (Claudeの新機能統合やツールの拡張発表)</description>
 </item>
 <item>
+<title>[80] 生成AIおよびAIエージェントを安全に活用するための手引書</title>
+<link>https://www.ipa.go.jp/jinzai/ics/core_human_resource/final_project/2026/rcu1hd0000018kkn-att/rcu1hd0000019kwj.pdf</link>
+<guid isPermaLink="true">https://www.ipa.go.jp/jinzai/ics/core_human_resource/final_project/2026/rcu1hd0000018kkn-att/rcu1hd0000019kwj.pdf</guid>
+<pubDate>Wed, 16 Sep 2026 14:34:07 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>生成 AI および AI エージェントを 安全に活用するための手引書 2026 年 7 月 独立行政法人情報処理推進機構 産業サイバーセキュリティセンター 中核人材育成プログラム 9 期生 セキュリティ担当者のための生成 AI セキュリティ プロジェクト - 2 - 改訂履歴 版数 改訂年月日 改訂箇所 改訂内容 第１版 2026 年 7 月 31 ... — はてなブックマーク テクノロジー / score: 80 (IPAによる生成AI・AIエージェントのセキュリティ手引書)</description>
+</item>
+<item>
 <title>[80] Cloudflare、検索を許可しながらAI学習を拒否する「Disallow AI Training」を発表</title>
 <link>https://gihyo.jp/article/2026/09/cloudflare-news-disallow-ai-training-setting?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/09/cloudflare-news-disallow-ai-training-setting?utm_source=feed</guid>
@@ -615,31 +615,31 @@
 <description>AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome. — Google DeepMind / score: 80 (全DNA変異を予測する画期的なゲノムマップの発表)</description>
 </item>
 <item>
-<title>[80] HTMX 4.0正式リリース。内部実装がXHRからfetchに移行しStreaming HTMLが可能に、属性はデフォルトで子要素に継承されないように変更など</title>
-<link>https://www.publickey1.jp/blog/26/htmx_40xhrfetchstreaming_html.html</link>
-<guid isPermaLink="true">https://www.publickey1.jp/blog/26/htmx_40xhrfetchstreaming_html.html</guid>
-<pubDate>Mon, 07 Sep 2026 15:39:27 +0000</pubDate>
+<title>[75] PlanetScale、PostgreSQLのシャーディングを自動化して1億1800万QPSを達成。新DBサービス「Neki」をプレビュー公開</title>
+<link>https://www.publickey1.jp/blog/26/planetscalepostgresql11800qpsdbneki.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/planetscalepostgresql11800qpsdbneki.html</guid>
+<pubDate>Thu, 17 Sep 2026 14:10:26 +0000</pubDate>
 <category>Publickey</category>
-<description>HTMLに属性を追加するだけで、Webページにサーバと連動した動的なアプリケーションの機能を追加できるJavaScriptライブラリ「HTMX」の最新バージョンとなる「HTMX 4.0」正式版のリリースが発表されました。 very happ... — Publickey / score: 80 (HTMX 4.0のメジャーリリースとFetch移行)</description>
+<description>データベースサービスを提供しているPlanetScaleは、PostgreSQLのシャーディングを自動化してスケーラブルなデータベースサービスを提供する「Neki」をプレビュー公開しました。 118,538,803 queries per ... — Publickey / score: 75 (PostgreSQLの自動シャーディング新DBサービスのプレビュー公開)</description>
 </item>
 <item>
-<title>[80] Daybreak for Frontline Defenders: $1B to protect essential services</title>
-<link>https://openai.com/index/daybreak-for-frontline-defenders</link>
-<guid isPermaLink="true">https://openai.com/index/daybreak-for-frontline-defenders</guid>
-<pubDate>Thu, 03 Sep 2026 13:15:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services. — OpenAI News / score: 80 (サイバー防衛支援に向けたOpenAIの巨額の資金拠出。)</description>
+<title>[75] OpenAIのHugging Face攻撃事件などで調査を担当しているAI監査組織「METR」とは何なのか？</title>
+<link>https://gigazine.net/news/20260917-model-evaluation-and-threat-research/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20260917-model-evaluation-and-threat-research/</guid>
+<pubDate>Thu, 17 Sep 2026 13:45:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>OpenAIのテストモデルによるHugging Faceへの攻撃事件では、OpenAIが対応の一環としてAI監査組織「METR(Model Evaluation and Threat Research：モデルの評価と脅威の調査)」に監査を依頼しています。また、AnthropicもAIの安全性強化のためにMETRと提携したことを発表しています。このMETRが一体どんな組織なのかについて、代表を務めるクリス・ペインター氏が自ら解説しています。 続きを読む... — GIGAZINE / score: 75 (AI安全性監査組織METRの解説と動向)</description>
 </item>
 <item>
 <title>[75] ハッカー集団がFlockカメラの暗号化キーを抽出しデータ復号に成功、ナンバープレートや車両だけでなく人物も識別していることが明らかに</title>
 <link>https://gigazine.net/news/20260917-hackers-flocks-camera/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260917-hackers-flocks-camera/</guid>
-<pubDate>Thu, 17 Sep 2026 09:15:00 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>防犯総合ソリューション企業の「Flock Safety(Flock)」がアメリカ全土のおよそ6000の地域に設置している、自動ナンバープレート読み取り機能(ALPR)を備えたカメラから、ハッカーが暗号化キーの抽出とデータの復号に成功したことが明らかにしました。 Hackers Stole Flock’s Camera Software, Revealing How the Company ... — はてなブックマーク テクノロジー / score: 75 (防犯カメラシステムの脆弱性・キー抽出事案)</description>
+<pubDate>Thu, 17 Sep 2026 07:40:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>防犯総合ソリューション企業の「Flock Safety(Flock)」がアメリカ全土のおよそ6000の地域に設置している、自動ナンバープレート読み取り機能(ALPR)を備えたカメラから、ハッカーが暗号化キーの抽出とデータの復号に成功したことが明らかにしました。 続きを読む... — GIGAZINE / score: 75 (防犯カメラシステムの脆弱性・キー抽出事案)</description>
 </item>
 <item>
-<title>[75] ｢iOS 27｣にiPhoneがフリーズするバグ</title>
+<title>[75] ｢iOS 27｣にiPhoneがフリーズおよび動作がおかしくなるバグ</title>
 <link>https://taisy0.com/2026/09/17/227765.html</link>
 <guid isPermaLink="true">https://taisy0.com/2026/09/17/227765.html</guid>
 <pubDate>Thu, 17 Sep 2026 07:30:12 +0000</pubDate>
@@ -735,6 +735,14 @@
 <description> — CodeZine / score: 75 (主要ランタイムNode.jsのLTS版リリース)</description>
 </item>
 <item>
+<title>[75] Expo SDK 58 Betaの変更点まとめ</title>
+<link>https://zenn.dev/tellernovel_inc/articles/5b4b947db4f2cd</link>
+<guid isPermaLink="true">https://zenn.dev/tellernovel_inc/articles/5b4b947db4f2cd</guid>
+<pubDate>Wed, 16 Sep 2026 03:28:22 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>こんにちは！テラーノベルでiOS/Android/Webとフロントエンド周りを担当している @kazutoyo です！ Expo SDK 58のベータ版が公開されました。 ベータ期間は3〜4週間の予定で、React Native 0.88の正式リリースを待ってからSDK 58も正式リリースされる流れになっています。 https://expo.dev/changelog/sdk-58-beta 今回はiOS 27への対応やExpo Modules 2.0のベータなど、変更点がかなり多いリリースです。 この記事では、気になった変更点と、アップグレード時に注意しておきたい破壊的変更をまとめます... — Zenn トレンド / score: 75 (Expo SDK 58ベータ版の変更点まとめ)</description>
+</item>
+<item>
 <title>[75] VBScript廃止に備えよ！ Windowsライセンス認証の自動化はslmgr.vbsではなくPowerShellで／Microsoftが新モジュール「OSLicense」の利用を呼び掛け</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2141127.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2141127.html</guid>
@@ -797,14 +805,6 @@
 <pubDate>Mon, 14 Sep 2026 07:30:00 +0000</pubDate>
 <category>InfoQ Japan</category>
 <description>Amazon Web Services（AWS）は、AWS DevOps Agentの大幅な機能拡張を発表し、コードの変更を評価し、本番環境に展開される前にソフトウェアを自律的にテストする設計がされた新しいリリース管理機能を導入した。 プレビュー版として提供される新機能Release Readiness ReviewとAutonomous Release Testingは、DevOps Agentの適用範囲をデプロイ後の運用からソフトウェアデリバリーパイプラインへと拡大し、エンジニアリングチームがコードのマージ前に本番環境への準備状況を評価し、組織の基準を適用し、変更内容に応じたテストを生成可能にする。 By Craig Risi Translated by Takashi Kawase — InfoQ Japan / score: 75 (AWSのAIを活用したリリース管理機能の拡張)</description>
-</item>
-<item>
-<title>[75] AIのせいでエンジニアの75％を解雇したCSSフレームワークのTailwind、Shopifyによる買収を発表。今後も安定的な開発を維持すると</title>
-<link>https://www.publickey1.jp/blog/26/ai75csstailwindshopify.html</link>
-<guid isPermaLink="true">https://www.publickey1.jp/blog/26/ai75csstailwindshopify.html</guid>
-<pubDate>Sun, 13 Sep 2026 15:20:00 +0000</pubDate>
-<category>Publickey</category>
-<description>CSSフレームワーク「Tailwind CSS」の開発元であるTailwind Labsは、ECサイト構築サービスを提供しているShopifyによって買収されると発表しました。 下記はTailwindの作者であるAdam Wathan氏によ... — Publickey / score: 75 (Tailwind CSSがShopifyにより買収された発表)</description>
 </item>
 </channel>
 </rss>
