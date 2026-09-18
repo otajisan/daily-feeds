@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 18 Sep 2026 14:09:37 +0000</lastBuildDate>
+<lastBuildDate>Fri, 18 Sep 2026 16:09:10 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Google Chrome」に今週2回目のセキュリティ更新、致命的脆弱性2件を含む16件に対処／Windows環境にはv153.0.8010.52/.53が展開中</title>
@@ -61,14 +61,6 @@
 <pubDate>Wed, 16 Sep 2026 05:45:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Googleは9月15日（現地時間、以下同）、デスクトップ向け「Google Chrome」の安定（Stable）チャネルをアップデートした。現在、Windows/Mac環境にはv153.0.8010.47/.48、Linux環境にはv153.0.8010.47が展開されている。 — 窓の杜 / score: 90 (Google Chromeの致命的脆弱性を含む多数の修正)</description>
-</item>
-<item>
-<title>[90] iOS27／iPadOS27のセキュリティ脆弱性の修正点まとめ</title>
-<link>https://iphone-mania.jp/ios-606008/</link>
-<guid isPermaLink="true">https://iphone-mania.jp/ios-606008/</guid>
-<pubDate>Tue, 15 Sep 2026 16:27:22 +0000</pubDate>
-<category>iPhone Mania</category>
-<description>AppleはiOS27およびiPadOS27の正式版をリリースしました。最新OSには新機能だけでなく、多くのセキュリティ上の脆弱性の修正も含まれています。Appleが公開したページをもとに、どのような脆弱性が修正されてい […] — iPhone Mania / score: 90 (OSのセキュリティ脆弱性修正とアップデート情報のため重要)</description>
 </item>
 <item>
 <title>[90] Apple、一斉セキュリティアップデート ～OSや「Safari」、「Xcode」など10製品で／「macOS 27 Golden Gate」では200件を超える修正</title>
@@ -559,6 +551,14 @@
 <description>AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome. — Google DeepMind / score: 80 (全DNA変異を予測する画期的なゲノムマップの発表)</description>
 </item>
 <item>
+<title>[75] The new AgentCore Runtime is now available in Amazon Bedrock AgentCore</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/new-agentcore-runtime-generally-available</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/new-agentcore-runtime-generally-available</guid>
+<pubDate>Fri, 18 Sep 2026 13:25:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Today, AWS announces the availability of the next generation of AgentCore Runtime , the serverless microVM compute within Amazon Bedrock AgentCore. The new Runtime delivers elastic memory management that reclaims unused memory throughout the session so you pay for actual usage rather than the peak, and consistent cold start times regardless of container image size or concurrency. You get the serverless model you already rely on: no pre-provisioning, scale to zero, hardware-enforced session isola — AWS What's New / score: 75 (AWS Bedrockの新機能発表でクラウド開発に影響)</description>
+</item>
+<item>
 <title>[75] 既存の LLM が CPU なら、 Jev はその GPU 版みたいなやつ</title>
 <link>https://zenn.dev/mizchi/articles/jev-is-gpu-for-llms</link>
 <guid isPermaLink="true">https://zenn.dev/mizchi/articles/jev-is-gpu-for-llms</guid>
@@ -783,14 +783,6 @@
 <description>OpenAIは9月10日、音声モデル「GPT-Live-1」のAPI提供を開始した。開発者は、発話中もユーザーの声を聞き取り、割り込みや依頼の変更に対応する音声エージェントを構築できる。 — gihyo.jp / score: 75 (OpenAIによるリアルタイム音声モデルAPIの提供開始)</description>
 </item>
 <item>
-<title>[75] Native is now the future of mobile at Shopify</title>
-<link>https://simonwillison.net/2026/Sep/10/shopify-react-native/</link>
-<guid isPermaLink="true">https://simonwillison.net/2026/Sep/10/shopify-react-native/</guid>
-<pubDate>Thu, 10 Sep 2026 21:11:15 +0000</pubDate>
-<category>Simon Willison</category>
-<description>Native is now the future of mobile at Shopify Shopify are moving from React Native back to separate Swift and Kotlin codebases for their native apps, for the exact reason you would expect: We decided to switch from native to React Native in 2020 for three reasons: Stop building the same features twice Allow developers to work across the stack Spend less time chasing feature parity and more time shipping value [...] Native still means building and maintaining software on two platforms, that cost  — Simon Willison / score: 75 (ShopifyがReact Nativeからネイティブへ移行)</description>
-</item>
-<item>
 <title>[75] Now everyone can put data to work</title>
 <link>https://openai.com/index/put-data-to-work</link>
 <guid isPermaLink="true">https://openai.com/index/put-data-to-work</guid>
@@ -805,6 +797,14 @@
 <pubDate>Thu, 10 Sep 2026 08:19:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Agentic AI Foundation（AAIF）は9月9日、オープンソースのAIゲートウェイ「Agent Router」（旧称：Envoy AI Gateway）の参加を発表した。 — gihyo.jp / score: 75 (AIゲートウェイOSSの発表に関するニュース)</description>
+</item>
+<item>
+<title>[75] Chrome、バージョン153を公開。2週間ごとのリリースに移行 ——EdgeとFirefoxもすでに2週間周期に</title>
+<link>https://gihyo.jp/article/2026/09/chrome-two-week-release-cycle?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/09/chrome-two-week-release-cycle?utm_source=feed</guid>
+<pubDate>Wed, 09 Sep 2026 09:37:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Googleは9月8日、WebブラウザーChrome 153（安定版）を公開し、リリース周期を4週間から2週間へ短縮した。 — gihyo.jp / score: 75 (Chromeのリリース周期短縮の変更)</description>
 </item>
 </channel>
 </rss>
