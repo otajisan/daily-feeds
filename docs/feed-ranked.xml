@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 18 Sep 2026 12:13:27 +0000</lastBuildDate>
+<lastBuildDate>Fri, 18 Sep 2026 14:09:37 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Google Chrome」に今週2回目のセキュリティ更新、致命的脆弱性2件を含む16件に対処／Windows環境にはv153.0.8010.52/.53が展開中</title>
@@ -45,14 +45,6 @@
 <pubDate>Thu, 17 Sep 2026 01:35:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>画像共有サービス「Gyazo」を運営する（株）Helpfeelは9月16日、「Gyazo」で不正アクセスが発生し、ユーザー情報やアップロードされた画像に関するメタデータの一部が外部に流出したことを明らかにした。第三者が「Gyazo」の画像アップロードサーバーに存在した脆弱性を悪用し、同社のシステム上で任意のコマンドを実行した。 — 窓の杜 / score: 90 (Gyazoの脆弱性を突いた大規模不正アクセスと情報流出)</description>
-</item>
-<item>
-<title>[90] Gyazoに不正アクセス 情報漏えい</title>
-<link>https://news.yahoo.co.jp/pickup/6595526?source=rss</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6595526?source=rss</guid>
-<pubDate>Wed, 16 Sep 2026 13:13:23 +0000</pubDate>
-<category>Yahoo!ニュース IT</category>
-<description> — Yahoo!ニュース IT / score: 90 (Gyazoのデータ漏えいに関する報道)</description>
 </item>
 <item>
 <title>[90] Oracle、月例のセキュリティ更新「CSPU」を実施 ～673件のパッチを提供／「VirtualBox」に19件</title>
@@ -165,6 +157,14 @@
 <pubDate>Thu, 17 Sep 2026 22:00:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 85 (クロスプラットフォーム対応が進む「Swift 6.4」正式リリース)</description>
+</item>
+<item>
+<title>[85] OpenAIのAIエージェントが5月13日にHugging Faceのアカウントを不正に乗っ取りサーバーを調査していたことが明らかに、「Hugging Faceハッキングを防げたはず」とセキュリティ研究者</title>
+<link>https://gigazine.net/news/20260917-openai-agents-probed-hugging-face-weaknesses-before-major-hack/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20260917-openai-agents-probed-hugging-face-weaknesses-before-major-hack/</guid>
+<pubDate>Thu, 17 Sep 2026 05:54:51 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>OpenAIは2026年7月に「AIが間違ってHugging Faceをハッキングしてしまった」と報告しました。しかし、この事例よりも2カ月以上前のタイミングで、OpenAIのAIがHugging Faceのアカウントを不正に乗っ取り、サーバーを調査していたことが明らかになっています。 EXCLUSIVE: OpenAI's rogue agents probed Hugging Face for... — はてなブックマーク テクノロジー / score: 85 (AIエージェントによる意図せぬハッキング問題)</description>
 </item>
 <item>
 <title>[85] Windows 11の9月パッチに新たな問題、適用後に一部ドメイン参加PCがサインインできず／「Credential Guard」や「Machine Identity Isolation」を積極導入する企業は注意</title>
@@ -567,6 +567,14 @@
 <description>Jev を一晩叩いたので、その感想を書きます。タイトルは超大雑把な要約です。 実験結果 まず実験ログを置いておきます。 公式のクックブックの条件を変えた追試 https://docs.typesafe.ai/cookbooks/skill_suggestion チェス対戦 5戦やって、Claude 5 Sonnet には全勝 LoL をミニマルにしたような MOBA ゲームをリアルタ... — はてなブックマーク テクノロジー / score: 75 (新型AIモデルJevの実用性検証に関する話題)</description>
 </item>
 <item>
+<title>[75] 「Qwen3.8-Omni-Flash」リリース、Gemini 3.8 Flashに匹敵する音声・映像処理性能を達成</title>
+<link>https://gigazine.net/news/20260918-qwen-3-8-omni-flash/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20260918-qwen-3-8-omni-flash/</guid>
+<pubDate>Fri, 18 Sep 2026 07:37:11 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>中国の大手テクノロジー企業であるアリババが開発するAIモデル・Qwenシリーズに、次世代ネイティブオムニモーダルモデルの「Qwen3.8-Omni-Flash」が追加されました。動画編集・ミュージックビデオ制作・映画制作・オーディオビジュアル要約・リアルタイム会話などのワークフロー全体で優れた成果を実現しています。 Qwen... — はてなブックマーク テクノロジー / score: 75 (アリババの高性能な新AIモデルのリリース)</description>
+</item>
+<item>
 <title>[75] 「LLMじゃないAI」が来た! TypeSafe AI「Jev」はなぜ文字列生成を捨てたのか</title>
 <link>https://qiita.com/shinkai_/items/61994be44d61c76716d3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
 <guid isPermaLink="true">https://qiita.com/shinkai_/items/61994be44d61c76716d3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
@@ -581,14 +589,6 @@
 <pubDate>Fri, 18 Sep 2026 05:21:55 +0000</pubDate>
 <category>Qiita 人気記事</category>
 <description>はじめに Jevが話題ですね。 文章を書かないAIと紹介されていますが、では代わりに何を返すんでしょうか。 この記事は、Jevが何をするものかの解像度を上げるために自分なりに整理したものです。 ざっくりまとめ 公開元と時期 — サンフランシスコのTypeSafe A... — Qiita 人気記事 / score: 75 (話題の判断特化AIモデルJevの解説)</description>
-</item>
-<item>
-<title>[75] 「Qwen3.8-Omni-Flash」リリース、Gemini 3.8 Flashに匹敵する音声・映像処理性能を達成</title>
-<link>https://gigazine.net/news/20260918-qwen-3-8-omni-flash/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260918-qwen-3-8-omni-flash/</guid>
-<pubDate>Fri, 18 Sep 2026 05:20:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>中国の大手テクノロジー企業であるアリババが開発するAIモデル・Qwenシリーズに、次世代ネイティブオムニモーダルモデルの「Qwen3.8-Omni-Flash」が追加されました。動画編集・ミュージックビデオ制作・映画制作・オーディオビジュアル要約・リアルタイム会話などのワークフロー全体で優れた成果を実現しています。 続きを読む... — GIGAZINE / score: 75 (アリババの高性能な新AIモデルのリリース)</description>
 </item>
 <item>
 <title>[75] Jevでハーネスエンジニアリング</title>
@@ -607,20 +607,20 @@
 <description>Huaweiが次世代AIチップ「Ascend 960DT」を2027年第1四半期に投入する計画を発表しました。同社は多数のチップを接続する大規模なAIシステムの開発も進めており、NVIDIAに対抗する方針です。 続きを読む... — GIGAZINE / score: 75 (Huaweiの次世代AIチップ前倒し投入と大規模クラスタ構想)</description>
 </item>
 <item>
+<title>[75] Ubuntu 24.04.5のリリース、Ubuntu 26.10（stonking）の開発; Rust版coreutilsのcp、mv、rmへの移行、CIX P1の正式サポート | gihyo.jp</title>
+<link>https://gihyo.jp/admin/clip/01/ubuntu-topics/202609/18</link>
+<guid isPermaLink="true">https://gihyo.jp/admin/clip/01/ubuntu-topics/202609/18</guid>
+<pubDate>Fri, 18 Sep 2026 00:14:52 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Ubuntu Weekly Topics Ubuntu 24.04.5のリリース⁠⁠、Ubuntu 26.10（stonking）の開発; Rust版coreutilsのcp⁠⁠、mv⁠⁠、rmへの移行⁠⁠、CIX P1の正式サポート Ubuntu 24.04.5のリリース Ubuntu 24.04 LTSの5番目のポイントリリース、24.04.5と、デスクトップ版にのみ「24.04.5.1」がリリースされました。 24.04.5（と24.04.... — はてなブックマーク テクノロジー / score: 75 (Ubuntu 24.04.5リリースとRust版coreutils移行の話題)</description>
+</item>
+<item>
 <title>[75] 全社に OpenCode + LiteLLM を導入してコストを抑えつつ AI 活用を進めている話</title>
 <link>https://zenn.dev/jtcc/articles/7e74fef42580a1</link>
 <guid isPermaLink="true">https://zenn.dev/jtcc/articles/7e74fef42580a1</guid>
 <pubDate>Fri, 18 Sep 2026 00:08:15 +0000</pubDate>
 <category>Zenn トレンド</category>
 <description>こんにちは。日本トレカセンターのプロダクト部で EM をやっている中川です。 日本トレカセンターでは約 200 名の全社員が使う AI の入り口を 1 つにまとめました。社員の手元には AI エージェントのOpenCodeを配り、そのリクエストを自前でホストした LLM ゲートウェイのLiteLLMに通しています。使うモデルは会社側で制御し、予算は月単位で決めて社員ごとに週次の上限をかけました。コストを把握しやすくなり、金額も導入前の 10 分の 1 以下に収まっています。 導入前の課題 導入前の社内では ChatGPT、Claude、Cursor など AI ツールが乱立していまし... — Zenn トレンド / score: 75 (全社へのOpenCodeとLiteLLM導入事例)</description>
-</item>
-<item>
-<title>[75] Ubuntu 24.04.5のリリース、Ubuntu 26.10（stonking）の開発; Rust版coreutilsのcp、mv、rmへの移行、CIX P1の正式サポート</title>
-<link>https://gihyo.jp/admin/clip/01/ubuntu-topics/202609/18?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/admin/clip/01/ubuntu-topics/202609/18?utm_source=feed</guid>
-<pubDate>Thu, 17 Sep 2026 23:57:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Ubuntu 24.04 LTSの5番目のポイントリリース、24.04.5と、デスクトップ版にのみ「24.04.5.1」がリリースされました。 — gihyo.jp / score: 75 (Ubuntu 24.04.5リリースとRust版coreutils移行の話題)</description>
 </item>
 <item>
 <title>[75] 【Jev】文章を返さない判断モデル Jev とは？〜システム運用での活用方法についても想像してみる〜</title>
