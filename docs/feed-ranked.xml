@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 18 Sep 2026 04:10:56 +0000</lastBuildDate>
+<lastBuildDate>Fri, 18 Sep 2026 06:15:42 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] Apple、「iOS 27」「iPadOS 27」の一般提供を開始 ～「Siri AI」の日本語対応は年内／126件の脆弱性修正も</title>
@@ -21,6 +21,14 @@
 <pubDate>Tue, 08 Sep 2026 10:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean. — OpenAI News / score: 95 (AIによるミレニアム問題の解決と形式検証の快挙)</description>
+</item>
+<item>
+<title>[90] AWSの中東のデータが「復旧不能」と正式発表…紛争などで複数リージョンのデータセンターが破壊されるとデータが消失してしまう問題が浮き彫りに→国をまたぐ必要がある？</title>
+<link>https://togetter.com/li/2747070</link>
+<guid isPermaLink="true">https://togetter.com/li/2747070</guid>
+<pubDate>Fri, 18 Sep 2026 03:13:03 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>AWS、中東のデータ「復旧不能」と正式発表。バーレーン全域とUAEの1ゾーンが永久喪失 3月のイランによるドローン攻撃で損傷したAWSのバーレーンリージョン（me-south-1）全域とUAEの1ゾーンについて、AWSがリソース・データの復旧は不可能と正式に認めた。マルチAZ冗長性の設… 2 users 情報の灯台 AWS、中東2リージョン... — はてなブックマーク テクノロジー / score: 90 (AWS中東リージョン破損による重大な障害)</description>
 </item>
 <item>
 <title>[90] Be alert: targeted attacks on prominent Rustaceans</title>
@@ -127,12 +135,12 @@
 <description>Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment. — OpenAI News / score: 90 (次世代AIモデル「GPT-6 Astra」の発表)</description>
 </item>
 <item>
-<title>[90] [AINews] GPT-6 Astra: OpenAI’s biggest LLM launch of all time</title>
-<link>https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest</link>
-<guid isPermaLink="true">https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest</guid>
-<pubDate>Fri, 04 Sep 2026 05:18:11 +0000</pubDate>
-<category>Latent Space</category>
-<description>new SOTA computer use and coding, 2.5x pricier per token, but WAY cheaper per task, less monitorable. overall, a very successful launch of OpenAI’s new frontier model class. — Latent Space / score: 90 (大手LLMのメジャーリリース情報)</description>
+<title>[85] アップルiPhone 18 Pro向けに「iOS 27.0」バグ修正版を公開</title>
+<link>https://ascii.jp/elem/000/004/436/4436288/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/436/4436288/?rss</guid>
+<pubDate>Fri, 18 Sep 2026 05:50:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>アップルは9月18日現在、「iPhone 18 Pro」向けに「iOS 27.0」のバグ修正版を配信している。 — ASCII.jp / score: 85 (OSのアップデートおよびバグ修正)</description>
 </item>
 <item>
 <title>[85] Microsoftで「Rust」が“Tier-1言語”に ～「C++」「C#」「TypeScript」と並ぶ扱いへ／「MSVC」のバックエンドにつなぐ「rustc_codegen_utc」に大きな投資</title>
@@ -157,14 +165,6 @@
 <pubDate>Thu, 17 Sep 2026 22:00:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 85 (クロスプラットフォーム対応が進む「Swift 6.4」正式リリース)</description>
-</item>
-<item>
-<title>[85] OpenAIのAIエージェントが5月13日にHugging Faceのアカウントを不正に乗っ取りサーバーを調査していたことが明らかに、「Hugging Faceハッキングを防げたはず」とセキュリティ研究者</title>
-<link>https://gigazine.net/news/20260917-openai-agents-probed-hugging-face-weaknesses-before-major-hack/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260917-openai-agents-probed-hugging-face-weaknesses-before-major-hack/</guid>
-<pubDate>Thu, 17 Sep 2026 04:41:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>OpenAIは2026年7月に「AIが間違ってHugging Faceをハッキングしてしまった」と報告しました。しかし、この事例よりも2カ月以上前のタイミングで、OpenAIのAIがHugging Faceのアカウントを不正に乗っ取り、サーバーを調査していたことが明らかになっています。 続きを読む... — GIGAZINE / score: 85 (AIエージェントによる意図せぬハッキング問題)</description>
 </item>
 <item>
 <title>[85] Windows 11の9月パッチに新たな問題、適用後に一部ドメイン参加PCがサインインできず／「Credential Guard」や「Machine Identity Isolation」を積極導入する企業は注意</title>
@@ -247,14 +247,6 @@
 <description>Tool: Gemini Live audio Google released Gemini 3.8 Live and 3.8 Live Extended Thinking today - two new speech-to-speech models that are a similar shape to OpenAI's GPT-Live family. I pointed GPT-6 Astra Extra High at the documentation and had it build me this web UI for trying out the new models. You can select a model and voice preset, enter an optional system prompt and then start a voice conversation through your browser, including the ability to interrupt the model while it is talking. The i — Simon Willison / score: 85 (主要AI企業による音声AIモデルの新発表のため)</description>
 </item>
 <item>
-<title>[85] ドコモ 個人情報34万人分無断提供</title>
-<link>https://news.yahoo.co.jp/pickup/6595432?source=rss</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6595432?source=rss</guid>
-<pubDate>Tue, 15 Sep 2026 22:37:30 +0000</pubDate>
-<category>Yahoo!ニュース IT</category>
-<description> — Yahoo!ニュース IT / score: 85 (通信キャリアによる大規模な個人情報無断提供問題)</description>
-</item>
-<item>
 <title>[85] Java 27リリース――ヒープ使用効率向上と安全性の重視</title>
 <link>https://gihyo.jp/article/2026/09/java27?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/09/java27?utm_source=feed</guid>
@@ -309,22 +301,6 @@
 <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
 <category>Inside Java</category>
 <description>JDK 27 is now available! Oracle is proud to announce the general availability of JDK 27 for developers, enterprises, and end-users. — Inside Java / score: 85 (JDK 27の一般提供開始に関する公式アナウンス)</description>
-</item>
-<item>
-<title>[85] 「Microsoft Edge 153」が公開 ～「Chromium」で実施された大量の脆弱性修正を反映／タブのフェード表示は廃止</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2140502.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2140502.html</guid>
-<pubDate>Mon, 14 Sep 2026 05:32:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Microsoftは9月10日（現地時間）、デスクトップ向け「Microsoft Edge」v153.0.4234.32を安定（Stable）チャネルでリリースした。「Edge 152」に続く2週間ごとのメジャーアップデートとなる。 — 窓の杜 / score: 85 (Microsoft Edgeのメジャーアップデートと脆弱性修正)</description>
-</item>
-<item>
-<title>[85] 9月の「Windows Update」に注目、過去最多の脆弱性対応、974件も ～窓の杜アクセスランキング［2026/9/7～2026/9/13]【記事アクセスランキング】</title>
-<link>https://forest.watch.impress.co.jp/docs/serial/accessranking/2140492.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/serial/accessranking/2140492.html</guid>
-<pubDate>Mon, 14 Sep 2026 02:45:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>前週に閲覧数の多かった記事を、上位10位までレポートします。 — 窓の杜 / score: 85 (Windowsアップデートの大量脆弱性対応)</description>
 </item>
 <item>
 <title>[85] Perplexity trusts GPT-6 Astra with end-to-end systems</title>
@@ -431,6 +407,22 @@
 <description>Googleは2026年9月15日、音声対話AIモデル「Gemini 3.8 Live」と「Gemini 3.8 Live Extended Thinking」を発表した。 — gihyo.jp / score: 82 (Googleの音声対話型AIの新モデル発表)</description>
 </item>
 <item>
+<title>[80] ヒトの脳細胞をマウスの脳に移植することに成功</title>
+<link>https://gigazine.net/news/20260918-human-brain-cells-into-mice/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20260918-human-brain-cells-into-mice/</guid>
+<pubDate>Fri, 18 Sep 2026 05:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>スタンフォード大学などの研究チームが、大脳皮質の大部分を欠くマウスにヒトの幹細胞から作った脳組織を移植し、マウスの神経系と広範囲につながることを確認しました。移植した組織は成長して神経線維を脊髄まで伸ばし、一部の記憶課題や、低酸素による損傷後の歩行に変化が見られました。研究成果は2026年9月16日にNatureに掲載され、ヒトの脳の発達や病気を調べる新たな実験モデルとして報告されています。 続きを読む... — GIGAZINE / score: 80 (脳細胞の移植成功に関する画期的な研究)</description>
+</item>
+<item>
+<title>[80] Anthropic社内で約3万体のAIエージェントが同時稼働、AI研究開発の26％をClaudeが主導</title>
+<link>https://gigazine.net/news/20260918-anthropic-measuring-claude/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20260918-anthropic-measuring-claude/</guid>
+<pubDate>Fri, 18 Sep 2026 04:30:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>AIチャットボット「Claude」を開発するAnthropicが、社内におけるAI活用の実態を示す指標を公開しました。2026年8月時点ではAI研究開発業務の26％をClaudeが「主導」しているほか、主要な社内プラットフォームでは約3万体のAIエージェントが同時に稼働しているとのことです。 続きを読む... — GIGAZINE / score: 80 (Anthropicにおける大規模なAI活用事例)</description>
+</item>
+<item>
 <title>[80] 「Microsoft Edge 153」に問題、一部Webアプリの操作中にウィンドウが固まる／回避策は「Edge 152」へのロールバック。Microsoftが調査中</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2141656.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2141656.html</guid>
@@ -485,14 +477,6 @@
 <pubDate>Mon, 14 Sep 2026 15:51:16 +0000</pubDate>
 <category>Publickey</category>
 <description>MCPやAGENTS.md、Agent2AgentプロトコルなどのAIエージェントに関する関連技術の標準化推進や開発などを行うLinux Foundation傘下のAgentic AI Foundation（AAIF）は、オープンソースとし... — Publickey / score: 80 (AIベンダーのAPI統合OSS登場で業界に影響)</description>
-</item>
-<item>
-<title>[80] 「WSL」「Claude Cowork」に影響、Windows 11の9月パッチに「Hyper-V」がらみの問題【9月15日追記】／「Plan9」によるWindowsホストのフォルダー共有に不具合。OOBで修正</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2140478.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2140478.html</guid>
-<pubDate>Mon, 14 Sep 2026 02:15:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Microsoftは9月11日（現地時間）、2026年9月のセキュリティ更新プログラムを適用したWindows 11環境で、「Hyper-V」ベースのLinux仮想マシンからホストのフォルダーにアクセスできなくなる問題が発生していることを明らかにした。影響を受けるアプリの例として、「Windows Subsystem for Linux」（WSL）や米Anthropicの「Claude Cowork」が挙げられている。 — 窓の杜 / score: 80 (Windowsパッチ起因のWSLやHyper-V不具合)</description>
 </item>
 <item>
 <title>[80] Java 27 Technically Within 2 Minutes</title>
@@ -567,12 +551,12 @@
 <description>AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome. — Google DeepMind / score: 80 (全DNA変異を予測する画期的なゲノムマップの発表)</description>
 </item>
 <item>
-<title>[75] サプライチェーンセキュリティ評価制度に向けたPDFセキュリティ強化の重要性：アドビが提案する実践的対策</title>
-<link>https://ascii.jp/elem/000/004/436/4436037/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/436/4436037/?rss</guid>
-<pubDate>Fri, 18 Sep 2026 04:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>経済産業省は2026年度末より「サプライチェーンセキュリティ（SCS）評価制度」を開始します。企業間のサプライチェーン内におけるデジタルデータのやり取りが急増する中、対策が手薄な取引先を「踏み台」にする攻撃を防ぐための共通のセキュリティ評価制度です。 — ASCII.jp / score: 75 (サプライチェーンセキュリティ評価制度の実践的対策)</description>
+<title>[75] 「Qwen3.8-Omni-Flash」リリース、Gemini 3.8 Flashに匹敵する音声・映像処理性能を達成</title>
+<link>https://gigazine.net/news/20260918-qwen-3-8-omni-flash/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20260918-qwen-3-8-omni-flash/</guid>
+<pubDate>Fri, 18 Sep 2026 05:20:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>中国の大手テクノロジー企業であるアリババが開発するAIモデル・Qwenシリーズに、次世代ネイティブオムニモーダルモデルの「Qwen3.8-Omni-Flash」が追加されました。動画編集・ミュージックビデオ制作・映画制作・オーディオビジュアル要約・リアルタイム会話などのワークフロー全体で優れた成果を実現しています。 続きを読む... — GIGAZINE / score: 75 (アリババの高性能な新AIモデルのリリース)</description>
 </item>
 <item>
 <title>[75] Huaweiが次世代AIチップ「Ascend 960DT」を2027年初めに前倒し投入、最大100万個のプロセッサーを連携させる構想も発表</title>
@@ -623,6 +607,14 @@
 <description>OpenAIのテストモデルによるHugging Faceへの攻撃事件では、OpenAIが対応の一環としてAI監査組織「METR(Model Evaluation and Threat Research：モデルの評価と脅威の調査)」に監査を依頼しています。また、AnthropicもAIの安全性強化のためにMETRと提携したことを発表しています。このMETRが一体どんな組織なのかについて、代表を務めるクリス・ペインター氏が自ら解説しています。 続きを読む... — GIGAZINE / score: 75 (AI安全性監査組織METRの解説と動向)</description>
 </item>
 <item>
+<title>[75] Three.jsでの3Dガウシアンスプラッティング入門 - ICS MEDIA</title>
+<link>https://ics.media/entry/260917/</link>
+<guid isPermaLink="true">https://ics.media/entry/260917/</guid>
+<pubDate>Thu, 17 Sep 2026 12:23:03 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>2026年9月8日に公開されたThree.jsのr186で、3D Gaussian Splattingガウシアン・スプラッティング（以下、3DGS）をライブラリの機能で表示できるようになりました。3DGSは写真から立体を再構成する手法で、手元にあるものをスマートフォンで数十秒撮るだけで、ぐるりと見回せる3Dデータが作れます。 この記事では、スマ... — はてなブックマーク テクノロジー / score: 75 (Three.jsのアップデートと3DGSの解説)</description>
+</item>
+<item>
 <title>[75] ハッカー集団がFlockカメラの暗号化キーを抽出しデータ復号に成功、ナンバープレートや車両だけでなく人物も識別していることが明らかに</title>
 <link>https://gigazine.net/news/20260917-hackers-flocks-camera/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260917-hackers-flocks-camera/</guid>
@@ -639,28 +631,12 @@
 <description>先日に正式リリースされた「iOS 27」のバグでiPhoneがフリーズする問題がSNSで話題になっています。 そのバグとはホーム画面で、左上から下にスワイプし、通知センターが全て下りる前に画面右上から下にスワイプしてコン […] — 気になる、記になる… / score: 75 (iOSのフリーズに関する不具合情報)</description>
 </item>
 <item>
-<title>[75] 中国のハッカー企業ZRONは盗んだ外国の政府情報をAIシステムを使ってより理解しやすいものにして販売している</title>
-<link>https://gigazine.net/news/20260917-chinese-hacking-firm/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260917-chinese-hacking-firm/</guid>
-<pubDate>Thu, 17 Sep 2026 05:36:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>中国に拠点を置く「ZRON」と呼ばれるサイバーセキュリティ企業が、外国政府から盗み出した機密データを中国の治安機関に提供していることが内部資料から明らかになりました。さらに、ZRONはAIなどの技術を駆使することで、データの統合・分類・分析をして理解しやすくするダッシュボードも開発しています。 続きを読む... — GIGAZINE / score: 75 (AIを悪用したサイバー攻撃企業の動向)</description>
-</item>
-<item>
 <title>[75] 24時間動き続けるAIエージェント：途中で「死なない」ようにする設計</title>
 <link>https://qiita.com/Ikegamik_genee/items/a628f20cd7fe262cbeb4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
 <guid isPermaLink="true">https://qiita.com/Ikegamik_genee/items/a628f20cd7fe262cbeb4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
 <pubDate>Thu, 17 Sep 2026 03:06:19 +0000</pubDate>
 <category>Qiita 人気記事</category>
 <description>24時間動き続けるAIエージェント：途中で「死なない」ようにする設計 なぜこれが難しいのか AIエージェントをデモとして動かすだけなら簡単です。LLMを呼び、結果を受け取り、画面に出力する。それだけで済みます。しかし、エージェントを何時間も、何日も連続で動かし、ツール呼... — Qiita 人気記事 / score: 75 (長時間稼働するAIエージェントの設計手法)</description>
-</item>
-<item>
-<title>[75] GitHub、Advanced Securityの設定を組織にも適用可能に</title>
-<link>https://codezine.jp/article/detail/29718</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/29718</guid>
-<pubDate>Thu, 17 Sep 2026 02:30:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 75 (GitHub Advanced Securityの組織設定適用機能)</description>
 </item>
 <item>
 <title>[75] Amazon Corretto 27 is now generally available</title>
@@ -805,6 +781,30 @@
 <pubDate>Thu, 10 Sep 2026 21:11:15 +0000</pubDate>
 <category>Simon Willison</category>
 <description>Native is now the future of mobile at Shopify Shopify are moving from React Native back to separate Swift and Kotlin codebases for their native apps, for the exact reason you would expect: We decided to switch from native to React Native in 2020 for three reasons: Stop building the same features twice Allow developers to work across the stack Spend less time chasing feature parity and more time shipping value [...] Native still means building and maintaining software on two platforms, that cost  — Simon Willison / score: 75 (ShopifyがReact Nativeからネイティブへ移行)</description>
+</item>
+<item>
+<title>[75] Now everyone can put data to work</title>
+<link>https://openai.com/index/put-data-to-work</link>
+<guid isPermaLink="true">https://openai.com/index/put-data-to-work</guid>
+<pubDate>Thu, 10 Sep 2026 15:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language. — OpenAI News / score: 75 (ChatGPTの新機能データエージェント)</description>
+</item>
+<item>
+<title>[75] AAIF、Agent Routerの参加を発表 ——AIモデルとMCPツールへの接続を仲介するOSS</title>
+<link>https://gihyo.jp/article/2026/09/agent-router?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/09/agent-router?utm_source=feed</guid>
+<pubDate>Thu, 10 Sep 2026 08:19:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Agentic AI Foundation（AAIF）は9月9日、オープンソースのAIゲートウェイ「Agent Router」（旧称：Envoy AI Gateway）の参加を発表した。 — gihyo.jp / score: 75 (AIゲートウェイOSSの発表に関するニュース)</description>
+</item>
+<item>
+<title>[75] Chrome、バージョン153を公開。2週間ごとのリリースに移行 ——EdgeとFirefoxもすでに2週間周期に</title>
+<link>https://gihyo.jp/article/2026/09/chrome-two-week-release-cycle?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/09/chrome-two-week-release-cycle?utm_source=feed</guid>
+<pubDate>Wed, 09 Sep 2026 09:37:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Googleは9月8日、WebブラウザーChrome 153（安定版）を公開し、リリース周期を4週間から2週間へ短縮した。 — gihyo.jp / score: 75 (Chromeのリリース周期短縮の変更)</description>
 </item>
 </channel>
 </rss>
