@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 17 Sep 2026 22:08:53 +0000</lastBuildDate>
+<lastBuildDate>Fri, 18 Sep 2026 00:24:17 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] Apple、「iOS 27」「iPadOS 27」の一般提供を開始 ～「Siri AI」の日本語対応は年内／126件の脆弱性修正も</title>
@@ -23,12 +23,20 @@
 <description>We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean. — OpenAI News / score: 95 (AIによるミレニアム問題の解決と形式検証の快挙)</description>
 </item>
 <item>
-<title>[90] ドローン攻撃を受けたAWS中東データセンター、半年の復旧作業の末に「一部データは回復不能」</title>
-<link>https://www.itmedia.co.jp/news/article/2609/17/2000001590/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2609/17/2000001590/</guid>
-<pubDate>Thu, 17 Sep 2026 09:19:49 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>米Amazon Web Services（AWS）は9月15日（太平洋夏時間）、3月にイランのドローン攻撃を受けた中東のデータセンターについて、バーレーンリージョンとアラブ首長国連邦（UAE）リージョンの一部に保存されていたデータやリソースへのアクセスを復旧できないと発表した。両リージョンでは物理的な被害が発生し、AWSが約半... — はてなブックマーク テクノロジー / score: 90 (クラウドインフラが物理攻撃で損壊しデータ消失した重大事故)</description>
+<title>[90] Be alert: targeted attacks on prominent Rustaceans</title>
+<link>https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/</guid>
+<pubDate>Thu, 17 Sep 2026 23:59:19 +0000</pubDate>
+<category>Simon Willison</category>
+<description>Be alert: targeted attacks on prominent Rustaceans Important warning from Adam Harvey and the crates security team: We believe that there is an ongoing campaign targeting rust-lang members and owners of popular crates that is attempting to compromise devices and accounts in order to use them to publish malware. A video call is set up for something positive — maybe for a job, maybe for a project, maybe for a contract opportunity — and then that's used as a vector to either get the target to insta — Simon Willison / score: 90 (Rust言語関係者を狙った標的型攻撃の重要警告)</description>
+</item>
+<item>
+<title>[90] Javaの最新バージョン「Java 27」、正式リリース</title>
+<link>https://codezine.jp/article/detail/29737</link>
+<guid isPermaLink="true">https://codezine.jp/article/detail/29737</guid>
+<pubDate>Thu, 17 Sep 2026 22:00:00 +0000</pubDate>
+<category>CodeZine</category>
+<description> — CodeZine / score: 90 (Java最新メジャーバージョン「Java 27」の正式リリース)</description>
 </item>
 <item>
 <title>[90] AIが「失敗を隠せ」と未来の自分にメモ、APIキーの無断使用や勝手なファイル公開などの挙動6件があったとOpenAIが報告</title>
@@ -157,6 +165,22 @@
 <pubDate>Fri, 04 Sep 2026 01:09:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>OpenAIは2026年9月3日、新モデル「GPT-6 Astra」を発表した。 — gihyo.jp / score: 90 (OpenAIの次世代モデル「GPT-6 Astra」発表)</description>
+</item>
+<item>
+<title>[85] NVIDIA、Rust言語でGPUカーネルを記述する「CUDA Rust」発表</title>
+<link>https://codezine.jp/article/detail/29732</link>
+<guid isPermaLink="true">https://codezine.jp/article/detail/29732</guid>
+<pubDate>Thu, 17 Sep 2026 23:00:00 +0000</pubDate>
+<category>CodeZine</category>
+<description> — CodeZine / score: 85 (NVIDIAによるRustでのGPUカーネル記述「CUDA Rust」発表)</description>
+</item>
+<item>
+<title>[85] 「Swift」の最新版「Swift 6.4」正式リリース、Linux、macOS、Windowsのすべてのプラットフォームでビルド方法が統一</title>
+<link>https://codezine.jp/article/detail/29738</link>
+<guid isPermaLink="true">https://codezine.jp/article/detail/29738</guid>
+<pubDate>Thu, 17 Sep 2026 22:00:00 +0000</pubDate>
+<category>CodeZine</category>
+<description> — CodeZine / score: 85 (クロスプラットフォーム対応が進む「Swift 6.4」正式リリース)</description>
 </item>
 <item>
 <title>[85] 日本標準時の供給サービスにおける異常の発生について｜2026年｜NICT-情報通信研究機構</title>
@@ -407,14 +431,6 @@
 <description>NVIDIAは2026年9月8日、GPU向け並列計算プラットフォームCUDAにおいてRustによる開発を可能にする「CUDA Rust」を発表した。 — gihyo.jp / score: 85 (NVIDIAによるCUDAのRustネイティブ対応という重要発表)</description>
 </item>
 <item>
-<title>[85] Quoting Calif Research</title>
-<link>https://simonwillison.net/2026/Sep/10/calif-research/</link>
-<guid isPermaLink="true">https://simonwillison.net/2026/Sep/10/calif-research/</guid>
-<pubDate>Thu, 10 Sep 2026 00:56:41 +0000</pubDate>
-<category>Simon Willison</category>
-<description>Today, we're releasing a demo of WeWorm, the first zero-click worm to spread through WeChat calls across iOS and Android. [...] The victim does not need to answer the call, or interact with their phone at all. Even if they do answer, they hear nothing, and the exploit still succeeds. [...] Working with AI, our team found the bug and wrote the first remote code execution (RCE) exploit in about two days. Building the worm took one more week. A worm at this scale used to be the kind of thing that t — Simon Willison / score: 85 (WeChat経由のゼロクリックワームに関するセキュリティ懸念)</description>
-</item>
-<item>
 <title>[85] Introducing the Agents API</title>
 <link>https://openai.com/index/introducing-the-agents-api</link>
 <guid isPermaLink="true">https://openai.com/index/introducing-the-agents-api</guid>
@@ -487,14 +503,6 @@
 <description>Anthropicは2026年9月16日、Claude CoworkとClaudeのチャット機能が統合され、Claudeとして利用可能になることを発表した。 — gihyo.jp / score: 80 (Claudeの新機能統合やツールの拡張発表)</description>
 </item>
 <item>
-<title>[80] 生成AIおよびAIエージェントを安全に活用するための手引書</title>
-<link>https://www.ipa.go.jp/jinzai/ics/core_human_resource/final_project/2026/rcu1hd0000018kkn-att/rcu1hd0000019kwj.pdf</link>
-<guid isPermaLink="true">https://www.ipa.go.jp/jinzai/ics/core_human_resource/final_project/2026/rcu1hd0000018kkn-att/rcu1hd0000019kwj.pdf</guid>
-<pubDate>Wed, 16 Sep 2026 14:34:07 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>生成 AI および AI エージェントを 安全に活用するための手引書 2026 年 7 月 独立行政法人情報処理推進機構 産業サイバーセキュリティセンター 中核人材育成プログラム 9 期生 セキュリティ担当者のための生成 AI セキュリティ プロジェクト - 2 - 改訂履歴 版数 改訂年月日 改訂箇所 改訂内容 第１版 2026 年 7 月 31 ... — はてなブックマーク テクノロジー / score: 80 (IPAによる生成AI・AIエージェントのセキュリティ手引書)</description>
-</item>
-<item>
 <title>[80] Cloudflare、検索を許可しながらAI学習を拒否する「Disallow AI Training」を発表</title>
 <link>https://gihyo.jp/article/2026/09/cloudflare-news-disallow-ai-training-setting?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/09/cloudflare-news-disallow-ai-training-setting?utm_source=feed</guid>
@@ -541,14 +549,6 @@
 <pubDate>Mon, 14 Sep 2026 02:15:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Microsoftは9月11日（現地時間）、2026年9月のセキュリティ更新プログラムを適用したWindows 11環境で、「Hyper-V」ベースのLinux仮想マシンからホストのフォルダーにアクセスできなくなる問題が発生していることを明らかにした。影響を受けるアプリの例として、「Windows Subsystem for Linux」（WSL）や米Anthropicの「Claude Cowork」が挙げられている。 — 窓の杜 / score: 80 (Windowsパッチ起因のWSLやHyper-V不具合)</description>
-</item>
-<item>
-<title>[80] Windows 11の9月セキュリティパッチでUSBオーディオ機器に問題、Microsoftが確認【9月15日追記】／「USB Audio Class 1.0」準拠デバイスの一部で起動不能・音が出ない</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2140473.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2140473.html</guid>
-<pubDate>Mon, 14 Sep 2026 00:05:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Microsoftは9月11日（現地時間）、2026年9月のセキュリティ更新プログラムを適用したWindows 11環境で、一部のUSBオーディオデバイスが起動しない、あるいは音が出なくなる問題が発生していることを明らかにした。 — 窓の杜 / score: 80 (Windows 11の月例パッチによるUSBオーディオ障害)</description>
 </item>
 <item>
 <title>[80] Java 27 Technically Within 2 Minutes</title>
@@ -623,6 +623,14 @@
 <description>AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome. — Google DeepMind / score: 80 (全DNA変異を予測する画期的なゲノムマップの発表)</description>
 </item>
 <item>
+<title>[75] AWS、フルスタックアプリの基本コードからインフラ構成まで一気通貫する「Nx Plugin for AWS 1.0」発表</title>
+<link>https://codezine.jp/article/detail/29733</link>
+<guid isPermaLink="true">https://codezine.jp/article/detail/29733</guid>
+<pubDate>Thu, 17 Sep 2026 23:00:00 +0000</pubDate>
+<category>CodeZine</category>
+<description> — CodeZine / score: 75 (AWSのフルスタックアプリ向けNx Plugin 1.0の発表)</description>
+</item>
+<item>
 <title>[75] CUDA対応のWindowsアプリをAMD製GPU上で実行できる「CUDA for AMD on Windows」</title>
 <link>https://gigazine.net/news/20260918-cuda-for-amd-windows/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260918-cuda-for-amd-windows/</guid>
@@ -663,20 +671,20 @@
 <description>先日に正式リリースされた「iOS 27」のバグでiPhoneがフリーズする問題がSNSで話題になっています。 そのバグとはホーム画面で、左上から下にスワイプし、通知センターが全て下りる前に画面右上から下にスワイプしてコン […] — 気になる、記になる… / score: 75 (iOSのフリーズに関する不具合情報)</description>
 </item>
 <item>
+<title>[75] macOS 27 Golden GateではiOS/iPadOSのように他のアプリからクリップボードにコピーした画像やテキストを直接Finderにペーストすることが可能に。</title>
+<link>https://applech2.com/archives/20260917-macos-27-golden-gate-paste-clipboard-image-into-finder.html</link>
+<guid isPermaLink="true">https://applech2.com/archives/20260917-macos-27-golden-gate-paste-clipboard-image-into-finder.html</guid>
+<pubDate>Thu, 17 Sep 2026 05:38:21 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>macOS 27 Golden Gateではクリップボードにコピーした画像やテキストを直接Finderにペーストすることが可能になっています。詳細は以下から。 Appleは日本時間2026年09月15日、さまざまなアプリにApple Intelligence機能を統合し、Macの応答性と頼性を向上させた「macOS 27 Golden Gate」を正式にリリースしましたが、こ... — はてなブックマーク テクノロジー / score: 75 (macOSでのクリップボード仕様変更の機能紹介)</description>
+</item>
+<item>
 <title>[75] 中国のハッカー企業ZRONは盗んだ外国の政府情報をAIシステムを使ってより理解しやすいものにして販売している</title>
 <link>https://gigazine.net/news/20260917-chinese-hacking-firm/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260917-chinese-hacking-firm/</guid>
 <pubDate>Thu, 17 Sep 2026 05:36:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>中国に拠点を置く「ZRON」と呼ばれるサイバーセキュリティ企業が、外国政府から盗み出した機密データを中国の治安機関に提供していることが内部資料から明らかになりました。さらに、ZRONはAIなどの技術を駆使することで、データの統合・分類・分析をして理解しやすくするダッシュボードも開発しています。 続きを読む... — GIGAZINE / score: 75 (AIを悪用したサイバー攻撃企業の動向)</description>
-</item>
-<item>
-<title>[75] Migrating the GitHub Copilot runtime to Rust, using Copilot</title>
-<link>https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/</link>
-<guid isPermaLink="true">https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/</guid>
-<pubDate>Thu, 17 Sep 2026 04:49:36 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>The GitHub Copilot CLI, GitHub Copilot app, and GitHub Copilot SDK are all backed by the Copilot agent runtime, an agentic harness that can be embedded into applications and services. It was originally written in TypeScript on Node.js and the V8 JavaScript engine for what is now the GitHub Copilo... — はてなブックマーク テクノロジー / score: 75 (GitHub CopilotのRust移行事例)</description>
 </item>
 <item>
 <title>[75] OpenAIが広告スポンサードAIエージェントのテストを開始、企業がスポンサーとなるAIとチャットできる仕組み</title>
@@ -743,22 +751,6 @@
 <description>Googleは、Android上で利用可能なパスワードマネージャの間で、パスキーの転送を可能にしたと発表しました。 これにより、例えばGoogleパスワードマネージャに登録したパスキーを1PasswordやBitwardenなどの他のパスワ... — Publickey / score: 75 (パスキーのマネージャ間転送は利便性と標準化に貢献)</description>
 </item>
 <item>
-<title>[75] 「Node.js 24.21.0（LTS）」公開</title>
-<link>https://codezine.jp/article/detail/29695</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/29695</guid>
-<pubDate>Wed, 16 Sep 2026 07:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 75 (主要ランタイムNode.jsのLTS版リリース)</description>
-</item>
-<item>
-<title>[75] Expo SDK 58 Betaの変更点まとめ</title>
-<link>https://zenn.dev/tellernovel_inc/articles/5b4b947db4f2cd</link>
-<guid isPermaLink="true">https://zenn.dev/tellernovel_inc/articles/5b4b947db4f2cd</guid>
-<pubDate>Wed, 16 Sep 2026 03:28:22 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>こんにちは！テラーノベルでiOS/Android/Webとフロントエンド周りを担当している @kazutoyo です！ Expo SDK 58のベータ版が公開されました。 ベータ期間は3〜4週間の予定で、React Native 0.88の正式リリースを待ってからSDK 58も正式リリースされる流れになっています。 https://expo.dev/changelog/sdk-58-beta 今回はiOS 27への対応やExpo Modules 2.0のベータなど、変更点がかなり多いリリースです。 この記事では、気になった変更点と、アップグレード時に注意しておきたい破壊的変更をまとめます... — Zenn トレンド / score: 75 (Expo SDK 58ベータ版の変更点まとめ)</description>
-</item>
-<item>
 <title>[75] VBScript廃止に備えよ！ Windowsライセンス認証の自動化はslmgr.vbsではなくPowerShellで／Microsoftが新モジュール「OSLicense」の利用を呼び掛け</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2141127.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2141127.html</guid>
@@ -805,6 +797,14 @@
 <pubDate>Mon, 14 Sep 2026 08:56:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>ローカル環境で大規模言語モデル（LLM）を実行できるデスクトップアプリ「Ollama」が9月5日（米国時間、以下同）、v0.34.0へとアップデートされた。 「ChatGPT」デスクトップアプリとの連携を、「Ollama」アプリから設定できるようになった のが目玉で、使い慣れた「ChatGPT」のワークフローはそのままに、オープンなモデルを動かせる。 — 窓の杜 / score: 75 (Ollama v0.34のChatGPT連携機能追加)</description>
+</item>
+<item>
+<title>[75] AWSがDevOpsエージェントを拡張し、AIを活用したリリース管理機能を追加、本番環境投入前のコード検証を実現</title>
+<link>https://www.infoq.com/jp/news/2026/09/aws-devops-ai-agent/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+<guid isPermaLink="true">https://www.infoq.com/jp/news/2026/09/aws-devops-ai-agent/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+<pubDate>Mon, 14 Sep 2026 07:30:00 +0000</pubDate>
+<category>InfoQ Japan</category>
+<description>Amazon Web Services（AWS）は、AWS DevOps Agentの大幅な機能拡張を発表し、コードの変更を評価し、本番環境に展開される前にソフトウェアを自律的にテストする設計がされた新しいリリース管理機能を導入した。 プレビュー版として提供される新機能Release Readiness ReviewとAutonomous Release Testingは、DevOps Agentの適用範囲をデプロイ後の運用からソフトウェアデリバリーパイプラインへと拡大し、エンジニアリングチームがコードのマージ前に本番環境への準備状況を評価し、組織の基準を適用し、変更内容に応じたテストを生成可能にする。 By Craig Risi Translated by Takashi Kawase — InfoQ Japan / score: 75 (AWSのAIを活用したリリース管理機能の拡張)</description>
 </item>
 </channel>
 </rss>
