@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 18 Sep 2026 02:12:59 +0000</lastBuildDate>
+<lastBuildDate>Fri, 18 Sep 2026 04:10:56 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] Apple、「iOS 27」「iPadOS 27」の一般提供を開始 ～「Siri AI」の日本語対応は年内／126件の脆弱性修正も</title>
@@ -39,28 +39,12 @@
 <description> — CodeZine / score: 90 (Java最新メジャーバージョン「Java 27」の正式リリース)</description>
 </item>
 <item>
-<title>[90] AIが「失敗を隠せ」と未来の自分にメモ、APIキーの無断使用や勝手なファイル公開などの挙動6件があったとOpenAIが報告</title>
-<link>https://gigazine.net/news/20260917-openai-model-misalignment-report/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260917-openai-model-misalignment-report/</guid>
-<pubDate>Thu, 17 Sep 2026 02:57:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>OpenAIが2026年9月16日、AIモデルが開発者やユーザーの意図から外れた行動を取る「ミスアライメント」の事例を継続的に公開する新たな報告枠組みを発表しました。あわせて過去6カ月の訓練や評価で確認された6件の事例を公開しており、GPT-5.6 Solが「失敗をユーザーに隠す」という指示を未来の自分に引き継いだ例や、AIが公開リポジトリからAPIキーを探して無断使用した例などが明らかになっています。 続きを読む... — GIGAZINE / score: 90 (AIのミスアライメントや不正動作の重大な報告)</description>
-</item>
-<item>
 <title>[90] 画像共有サービス「Gyazo」に不正アクセス、非公開画像が閲覧された可能性も／ユーザー情報約2,362万件と画像のメタデータ約4.9億件が流出</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2141601.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2141601.html</guid>
 <pubDate>Thu, 17 Sep 2026 01:35:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>画像共有サービス「Gyazo」を運営する（株）Helpfeelは9月16日、「Gyazo」で不正アクセスが発生し、ユーザー情報やアップロードされた画像に関するメタデータの一部が外部に流出したことを明らかにした。第三者が「Gyazo」の画像アップロードサーバーに存在した脆弱性を悪用し、同社のシステム上で任意のコマンドを実行した。 — 窓の杜 / score: 90 (Gyazoの脆弱性を突いた大規模不正アクセスと情報流出)</description>
-</item>
-<item>
-<title>[90] AWS、中東のデータ「復旧不能」と正式発表。バーレーン全域とUAEの1ゾーンが永久喪失</title>
-<link>https://joho-todai.com/aws-middle-east-data-permanently-lost/</link>
-<guid isPermaLink="true">https://joho-todai.com/aws-middle-east-data-permanently-lost/</guid>
-<pubDate>Wed, 16 Sep 2026 23:15:24 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>AWSがイラン戦争で損傷した中東データセンターの復旧を断念し、バーレーンリージョン全域とUAE1ゾーンのリソース・データへのアクセスを回復できないと発表した。大手クラウド事業者の物理インフラが戦争で破壊され、顧客データが永久に失われた初めての事例となった。 この記事のポイント 何が起きた: AWSがバーレーン... — はてなブックマーク テクノロジー / score: 90 (クラウドデータセンターの被災とデータ永久喪失に関する重大速報)</description>
 </item>
 <item>
 <title>[90] Gyazoに不正アクセス 情報漏えい</title>
@@ -151,6 +135,14 @@
 <description>new SOTA computer use and coding, 2.5x pricier per token, but WAY cheaper per task, less monitorable. overall, a very successful launch of OpenAI’s new frontier model class. — Latent Space / score: 90 (大手LLMのメジャーリリース情報)</description>
 </item>
 <item>
+<title>[85] Microsoftで「Rust」が“Tier-1言語”に ～「C++」「C#」「TypeScript」と並ぶ扱いへ／「MSVC」のバックエンドにつなぐ「rustc_codegen_utc」に大きな投資</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2142078.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2142078.html</guid>
+<pubDate>Fri, 18 Sep 2026 02:11:34 +0000</pubDate>
+<category>窓の杜</category>
+<description>プログラミング言語「Rust」が、Microsoftの社内開発における“Tier-1言語”になったとのこと。今後は「C++」「C#」「TypeScript」と並び、手厚くサポートされる言語として位置付けられる。同社のVictor Ciura氏がRust Foundationに寄稿した記事で明かされた。 — 窓の杜 / score: 85 (MicrosoftでRustがTier-1言語に昇格した重要ニュース)</description>
+</item>
+<item>
 <title>[85] NVIDIA、Rust言語でGPUカーネルを記述する「CUDA Rust」発表</title>
 <link>https://codezine.jp/article/detail/29732</link>
 <guid isPermaLink="true">https://codezine.jp/article/detail/29732</guid>
@@ -165,22 +157,6 @@
 <pubDate>Thu, 17 Sep 2026 22:00:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 85 (クロスプラットフォーム対応が進む「Swift 6.4」正式リリース)</description>
-</item>
-<item>
-<title>[85] 日本標準時の供給サービスにおける異常の発生について｜2026年｜NICT-情報通信研究機構</title>
-<link>https://www.nict.go.jp/publicity/topics/2026/09/11-1.html</link>
-<guid isPermaLink="true">https://www.nict.go.jp/publicity/topics/2026/09/11-1.html</guid>
-<pubDate>Thu, 17 Sep 2026 10:11:39 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>2026年9月9日、公開NTPに関わる装置に異常が発生し、冗長系の一部から誤った時刻が配信されました。ユーザーの皆さまにはご迷惑をおかけしたことをお詫び申し上げます。 原因について調査を進めておりますが、現在までに判明しております状況について、ご説明申し上げます。 — はてなブックマーク テクノロジー / score: 85 (日本標準時のNTP障害による広範な影響)</description>
-</item>
-<item>
-<title>[85] パスキーは破られていないのに突破される——デバイスコードフロー攻撃とEntra IDでの対策 - APC 技術ブログ</title>
-<link>https://techblog.ap-com.co.jp/entry/2026/09/17/103525</link>
-<guid isPermaLink="true">https://techblog.ap-com.co.jp/entry/2026/09/17/103525</guid>
-<pubDate>Thu, 17 Sep 2026 08:49:29 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>目次 目次 はじめに パスキーとは サインインの仕組み Entra IDでのパスキー対応について パスキーが突破されること：デバイスコードフロー攻撃 デバイスコードフローとは 攻撃のメカニズム デバイスコードフロー攻撃の対策 Entra IDの条件付きアクセスによるブロック 除外設定が必要なケース Microsoft Entra ID Protec... — はてなブックマーク テクノロジー / score: 85 (デバイスコードフロー攻撃とパスキーの脆弱性に関する詳細な解説)</description>
 </item>
 <item>
 <title>[85] OpenAIのAIエージェントが5月13日にHugging Faceのアカウントを不正に乗っ取りサーバーを調査していたことが明らかに、「Hugging Faceハッキングを防げたはず」とセキュリティ研究者</title>
@@ -205,14 +181,6 @@
 <pubDate>Thu, 17 Sep 2026 02:57:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>2026年9月16日、Rustで記述されたオープンソースのAmazon S3互換分散オブジェクトストレージシステム「RustFS」のバージョン1.0.0が、GA（一般提供版）としてリリースされた。 — gihyo.jp / score: 85 (Rust製S3互換ストレージRustFS 1.0.0のGAリリース)</description>
-</item>
-<item>
-<title>[85] イランによるAmazonのデータセンターへの攻撃により顧客データが永久に失われる</title>
-<link>https://gigazine.net/news/20260917-aws-middle-east-data-center-unable-to-restore/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260917-aws-middle-east-data-center-unable-to-restore/</guid>
-<pubDate>Thu, 17 Sep 2026 02:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>Amazon Web Services(AWS)がホストする中東地域のデータセンターがイランによる攻撃を受けた件で、AWSが一部のデータを復旧できなかったことを認めました。攻撃から半年が経過する中、依然として復旧作業が続いています。 続きを読む... — GIGAZINE / score: 85 (紛争によるAWSデータセンター攻撃とデータ消失)</description>
 </item>
 <item>
 <title>[85] datasette 0.65.5</title>
@@ -359,14 +327,6 @@
 <description>前週に閲覧数の多かった記事を、上位10位までレポートします。 — 窓の杜 / score: 85 (Windowsアップデートの大量脆弱性対応)</description>
 </item>
 <item>
-<title>[85] Windowsの9月セキュリティパッチでリモートデスクトップが不安定に、Microsoftが認める【9月15日追記】／定例外の更新で修正</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2140475.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2140475.html</guid>
-<pubDate>Mon, 14 Sep 2026 01:15:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>（9/15 更新）定例外更新で修正されたことを追記 — 窓の杜 / score: 85 (WindowsセキュリティパッチによるRDP障害)</description>
-</item>
-<item>
 <title>[85] Perplexity trusts GPT-6 Astra with end-to-end systems</title>
 <link>https://openai.com/index/perplexity-improving-accuracy-with-astra</link>
 <guid isPermaLink="true">https://openai.com/index/perplexity-improving-accuracy-with-astra</guid>
@@ -469,14 +429,6 @@
 <pubDate>Wed, 16 Sep 2026 02:01:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Googleは2026年9月15日、音声対話AIモデル「Gemini 3.8 Live」と「Gemini 3.8 Live Extended Thinking」を発表した。 — gihyo.jp / score: 82 (Googleの音声対話型AIの新モデル発表)</description>
-</item>
-<item>
-<title>[80] アップル「iOS 27」一時操作不能になる不具合が報告</title>
-<link>https://ascii.jp/elem/000/004/436/4436060/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/436/4436060/?rss</guid>
-<pubDate>Fri, 18 Sep 2026 02:10:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>アップルの「iOS 27」で特定の操作をすると、一時的に操作不能になる不具合が発見された。海外メディア「9TO5Mac」が9月16日付で報じている。 — ASCII.jp / score: 80 (iOS 27における一時操作不能な不具合の報告)</description>
 </item>
 <item>
 <title>[80] 「Microsoft Edge 153」に問題、一部Webアプリの操作中にウィンドウが固まる／回避策は「Edge 152」へのロールバック。Microsoftが調査中</title>
@@ -615,6 +567,22 @@
 <description>AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome. — Google DeepMind / score: 80 (全DNA変異を予測する画期的なゲノムマップの発表)</description>
 </item>
 <item>
+<title>[75] サプライチェーンセキュリティ評価制度に向けたPDFセキュリティ強化の重要性：アドビが提案する実践的対策</title>
+<link>https://ascii.jp/elem/000/004/436/4436037/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/436/4436037/?rss</guid>
+<pubDate>Fri, 18 Sep 2026 04:00:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>経済産業省は2026年度末より「サプライチェーンセキュリティ（SCS）評価制度」を開始します。企業間のサプライチェーン内におけるデジタルデータのやり取りが急増する中、対策が手薄な取引先を「踏み台」にする攻撃を防ぐための共通のセキュリティ評価制度です。 — ASCII.jp / score: 75 (サプライチェーンセキュリティ評価制度の実践的対策)</description>
+</item>
+<item>
+<title>[75] Huaweiが次世代AIチップ「Ascend 960DT」を2027年初めに前倒し投入、最大100万個のプロセッサーを連携させる構想も発表</title>
+<link>https://gigazine.net/news/20260918-huawei-ascend-960dt20260918-huawei-ascend-960dt/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20260918-huawei-ascend-960dt20260918-huawei-ascend-960dt/</guid>
+<pubDate>Fri, 18 Sep 2026 02:20:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>Huaweiが次世代AIチップ「Ascend 960DT」を2027年第1四半期に投入する計画を発表しました。同社は多数のチップを接続する大規模なAIシステムの開発も進めており、NVIDIAに対抗する方針です。 続きを読む... — GIGAZINE / score: 75 (Huaweiの次世代AIチップ前倒し投入と大規模クラスタ構想)</description>
+</item>
+<item>
 <title>[75] Ubuntu 24.04.5のリリース、Ubuntu 26.10（stonking）の開発; Rust版coreutilsのcp、mv、rmへの移行、CIX P1の正式サポート</title>
 <link>https://gihyo.jp/admin/clip/01/ubuntu-topics/202609/18?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/admin/clip/01/ubuntu-topics/202609/18?utm_source=feed</guid>
@@ -677,14 +645,6 @@
 <pubDate>Thu, 17 Sep 2026 05:36:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>中国に拠点を置く「ZRON」と呼ばれるサイバーセキュリティ企業が、外国政府から盗み出した機密データを中国の治安機関に提供していることが内部資料から明らかになりました。さらに、ZRONはAIなどの技術を駆使することで、データの統合・分類・分析をして理解しやすくするダッシュボードも開発しています。 続きを読む... — GIGAZINE / score: 75 (AIを悪用したサイバー攻撃企業の動向)</description>
-</item>
-<item>
-<title>[75] OpenAIが広告スポンサードAIエージェントのテストを開始、企業がスポンサーとなるAIとチャットできる仕組み</title>
-<link>https://gigazine.net/news/20260917-openai-sponsored-agents/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260917-openai-sponsored-agents/</guid>
-<pubDate>Thu, 17 Sep 2026 03:10:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>スポンサーとなる企業の製品を積極的に宣伝するAI機能「Sponsored Agents」の提供が始まりました。 続きを読む... — GIGAZINE / score: 75 (AIサービスにおける広告機能導入の動き)</description>
 </item>
 <item>
 <title>[75] 24時間動き続けるAIエージェント：途中で「死なない」ようにする設計</title>
@@ -805,6 +765,46 @@
 <pubDate>Sat, 12 Sep 2026 05:56:05 +0000</pubDate>
 <category>Latent Space</category>
 <description>We are late to this but better than never. Have been busy finalizing the second AIE NYC , which is happening in one month. Get your tix before prices go up - we will announce speakers from Bridgewater, Ramp, Coatue, Mastercard, Vanguard, Coinbase, Blackrock, Fidelity, Point72, Capital One, JPMC, Wells Fargo, Bloomberg, A24 (yes the movie studio) Labs, Two Sigma, Apollo Global, and more next week! The way DeepSeek pursues their research agenda is nothing short of fascinating. In between major Dee — Latent Space / score: 75 (AIモデルの新アーキテクチャ発表に関する技術ニュース)</description>
+</item>
+<item>
+<title>[75] AWS DevOps Agent adds support for bidirectional Slack communication</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/aws-devops-agent-bidirectional-slack-communication</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/aws-devops-agent-bidirectional-slack-communication</guid>
+<pubDate>Fri, 11 Sep 2026 15:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS DevOps Agent now enables engineers to manage production operations across AWS, multicloud, and on-premises environments with the complete investigation lifecycle directly within Slack. Previously, on-call engineers and DevOps teams faced fragmented workflows during high-severity incidents, having to context-switch between communication and investigation platforms. This update consolidates both surfaces into a single, unified location where incident response already happens. Engineering teams — AWS What's New / score: 75 (AWS DevOps AgentのSlack連携強化に関する機能追加)</description>
+</item>
+<item>
+<title>[75] Rapidly scaling online storage to serve over 1 billion ChatGPT users</title>
+<link>https://openai.com/index/scaling-storage-one-billion-users-part-one</link>
+<guid isPermaLink="true">https://openai.com/index/scaling-storage-one-billion-users-part-one</guid>
+<pubDate>Fri, 11 Sep 2026 10:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second. — OpenAI News / score: 75 (10億人規模を支える大規模ストレージ設計)</description>
+</item>
+<item>
+<title>[75] Google、GeminiのWindowsアプリを提供開始</title>
+<link>https://gihyo.jp/article/2026/09/gemini-app-for-windows?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/09/gemini-app-for-windows?utm_source=feed</guid>
+<pubDate>Fri, 11 Sep 2026 05:09:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Googleは9月10日、AIアシスタント「Gemini」のWindows向けアプリの提供開始を発表した。Windows 10とWindows 11に対応している。 — gihyo.jp / score: 75 (Google製GeminiのWindowsアプリ提供開始)</description>
+</item>
+<item>
+<title>[75] OpenAI、GPT-Live-1をAPIで提供開始 ——発話中の割り込みや依頼の変更に対応</title>
+<link>https://gihyo.jp/article/2026/09/gpt-live-1-api?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/09/gpt-live-1-api?utm_source=feed</guid>
+<pubDate>Fri, 11 Sep 2026 02:43:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>OpenAIは9月10日、音声モデル「GPT-Live-1」のAPI提供を開始した。開発者は、発話中もユーザーの声を聞き取り、割り込みや依頼の変更に対応する音声エージェントを構築できる。 — gihyo.jp / score: 75 (OpenAIによるリアルタイム音声モデルAPIの提供開始)</description>
+</item>
+<item>
+<title>[75] Native is now the future of mobile at Shopify</title>
+<link>https://simonwillison.net/2026/Sep/10/shopify-react-native/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Sep/10/shopify-react-native/</guid>
+<pubDate>Thu, 10 Sep 2026 21:11:15 +0000</pubDate>
+<category>Simon Willison</category>
+<description>Native is now the future of mobile at Shopify Shopify are moving from React Native back to separate Swift and Kotlin codebases for their native apps, for the exact reason you would expect: We decided to switch from native to React Native in 2020 for three reasons: Stop building the same features twice Allow developers to work across the stack Spend less time chasing feature parity and more time shipping value [...] Native still means building and maintaining software on two platforms, that cost  — Simon Willison / score: 75 (ShopifyがReact Nativeからネイティブへ移行)</description>
 </item>
 </channel>
 </rss>
