@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 18 Sep 2026 10:09:29 +0000</lastBuildDate>
+<lastBuildDate>Fri, 18 Sep 2026 12:13:27 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Google Chrome」に今週2回目のセキュリティ更新、致命的脆弱性2件を含む16件に対処／Windows環境にはv153.0.8010.52/.53が展開中</title>
@@ -21,14 +21,6 @@
 <pubDate>Tue, 08 Sep 2026 10:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean. — OpenAI News / score: 95 (AIによるミレニアム問題の解決と形式検証の快挙)</description>
-</item>
-<item>
-<title>[90] AWSの中東のデータが「復旧不能」と正式発表…紛争などで複数リージョンのデータセンターが破壊されるとデータが消失してしまう問題が浮き彫りに→国をまたぐ必要がある？</title>
-<link>https://togetter.com/li/2747070</link>
-<guid isPermaLink="true">https://togetter.com/li/2747070</guid>
-<pubDate>Fri, 18 Sep 2026 03:13:03 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>AWS、中東のデータ「復旧不能」と正式発表。バーレーン全域とUAEの1ゾーンが永久喪失 3月のイランによるドローン攻撃で損傷したAWSのバーレーンリージョン（me-south-1）全域とUAEの1ゾーンについて、AWSがリソース・データの復旧は不可能と正式に認めた。マルチAZ冗長性の設… 2 users 情報の灯台 AWS、中東2リージョン... — はてなブックマーク テクノロジー / score: 90 (AWS中東リージョン破損による重大な障害)</description>
 </item>
 <item>
 <title>[90] Be alert: targeted attacks on prominent Rustaceans</title>
@@ -127,6 +119,14 @@
 <description>Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment. — OpenAI News / score: 90 (次世代AIモデル「GPT-6 Astra」の発表)</description>
 </item>
 <item>
+<title>[85] MicrosoftでRustが「Tier 1言語」に、C++・C#・TypeScriptと並ぶ重要言語として手厚く支援</title>
+<link>https://gigazine.net/news/20260918-rust-microsoft/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20260918-rust-microsoft/</guid>
+<pubDate>Fri, 18 Sep 2026 11:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>MicrosoftでRust向けツールを開発するプリンシパルエンジニアのビクター・チウラ氏が、RustはMicrosoft社内でC++、C#、TypeScriptと並ぶ「Tier 1言語」になっていると明らかにしました。 続きを読む... — GIGAZINE / score: 85 (Microsoft社内でRustがTier 1言語に昇格)</description>
+</item>
+<item>
 <title>[85] 職員採用試験システムへの不正アクセス、全国で相次ぐ　受験者の情報漏えいか</title>
 <link>https://ascii.jp/elem/000/004/436/4436399/?rss</link>
 <guid isPermaLink="true">https://ascii.jp/elem/000/004/436/4436399/?rss</guid>
@@ -146,9 +146,9 @@
 <title>[85] Microsoftで「Rust」が“Tier-1言語”に ～「C++」「C#」「TypeScript」と並ぶ扱いへ／「MSVC」のバックエンドにつなぐ「rustc_codegen_utc」に大きな投資</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2142078.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2142078.html</guid>
-<pubDate>Fri, 18 Sep 2026 02:51:54 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Microsoftで「Rust」が“Tier-1言語”に ～「C++」「C#」「TypeScript」と並ぶ扱いへ／「MSVC」のバックエンドにつなぐ「rustc_codegen_utc」に大きな投資 — はてなブックマーク テクノロジー / score: 85 (MicrosoftでRustがTier-1言語に昇格した重要ニュース)</description>
+<pubDate>Fri, 18 Sep 2026 02:11:34 +0000</pubDate>
+<category>窓の杜</category>
+<description>プログラミング言語「Rust」が、Microsoftの社内開発における“Tier-1言語”になったとのこと。今後は「C++」「C#」「TypeScript」と並び、手厚くサポートされる言語として位置付けられる。同社のVictor Ciura氏がRust Foundationに寄稿した記事で明かされた。 — 窓の杜 / score: 85 (MicrosoftでRustがTier-1言語に昇格した重要ニュース)</description>
 </item>
 <item>
 <title>[85] NVIDIA、Rust言語でGPUカーネルを記述する「CUDA Rust」発表</title>
@@ -607,6 +607,14 @@
 <description>Huaweiが次世代AIチップ「Ascend 960DT」を2027年第1四半期に投入する計画を発表しました。同社は多数のチップを接続する大規模なAIシステムの開発も進めており、NVIDIAに対抗する方針です。 続きを読む... — GIGAZINE / score: 75 (Huaweiの次世代AIチップ前倒し投入と大規模クラスタ構想)</description>
 </item>
 <item>
+<title>[75] 全社に OpenCode + LiteLLM を導入してコストを抑えつつ AI 活用を進めている話</title>
+<link>https://zenn.dev/jtcc/articles/7e74fef42580a1</link>
+<guid isPermaLink="true">https://zenn.dev/jtcc/articles/7e74fef42580a1</guid>
+<pubDate>Fri, 18 Sep 2026 00:08:15 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>こんにちは。日本トレカセンターのプロダクト部で EM をやっている中川です。 日本トレカセンターでは約 200 名の全社員が使う AI の入り口を 1 つにまとめました。社員の手元には AI エージェントのOpenCodeを配り、そのリクエストを自前でホストした LLM ゲートウェイのLiteLLMに通しています。使うモデルは会社側で制御し、予算は月単位で決めて社員ごとに週次の上限をかけました。コストを把握しやすくなり、金額も導入前の 10 分の 1 以下に収まっています。 導入前の課題 導入前の社内では ChatGPT、Claude、Cursor など AI ツールが乱立していまし... — Zenn トレンド / score: 75 (全社へのOpenCodeとLiteLLM導入事例)</description>
+</item>
+<item>
 <title>[75] Ubuntu 24.04.5のリリース、Ubuntu 26.10（stonking）の開発; Rust版coreutilsのcp、mv、rmへの移行、CIX P1の正式サポート</title>
 <link>https://gihyo.jp/admin/clip/01/ubuntu-topics/202609/18?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/admin/clip/01/ubuntu-topics/202609/18?utm_source=feed</guid>
@@ -631,36 +639,12 @@
 <description> — CodeZine / score: 75 (AWSのフルスタックアプリ向けNx Plugin 1.0の発表)</description>
 </item>
 <item>
-<title>[75] CUDA対応のWindowsアプリをAMD製GPU上で実行できる「CUDA for AMD on Windows」</title>
-<link>https://gigazine.net/news/20260918-cuda-for-amd-windows/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260918-cuda-for-amd-windows/</guid>
-<pubDate>Thu, 17 Sep 2026 21:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>「CUDA for AMD on Windows」は名前の通り、AMD製GPU上でCUDA対応のWindowsアプリケーションを実行することを目的としたプロジェクトです。 続きを読む... — GIGAZINE / score: 75 (AMD製GPUでCUDAアプリを実行するツール)</description>
-</item>
-<item>
 <title>[75] PlanetScale、PostgreSQLのシャーディングを自動化して1億1800万QPSを達成。新DBサービス「Neki」をプレビュー公開</title>
 <link>https://www.publickey1.jp/blog/26/planetscalepostgresql11800qpsdbneki.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/planetscalepostgresql11800qpsdbneki.html</guid>
 <pubDate>Thu, 17 Sep 2026 15:59:39 +0000</pubDate>
 <category>Publickey</category>
 <description>データベースサービスを提供しているPlanetScaleは、PostgreSQLのシャーディングを自動化してスケーラブルなデータベースサービスを提供する「Neki」をプレビュー公開しました。 118,538,803 queries per ... — Publickey / score: 75 (PostgreSQLの自動シャーディング新DBサービスのプレビュー公開)</description>
-</item>
-<item>
-<title>[75] OpenAIのHugging Face攻撃事件などで調査を担当しているAI監査組織「METR」とは何なのか？</title>
-<link>https://gigazine.net/news/20260917-model-evaluation-and-threat-research/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260917-model-evaluation-and-threat-research/</guid>
-<pubDate>Thu, 17 Sep 2026 13:45:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>OpenAIのテストモデルによるHugging Faceへの攻撃事件では、OpenAIが対応の一環としてAI監査組織「METR(Model Evaluation and Threat Research：モデルの評価と脅威の調査)」に監査を依頼しています。また、AnthropicもAIの安全性強化のためにMETRと提携したことを発表しています。このMETRが一体どんな組織なのかについて、代表を務めるクリス・ペインター氏が自ら解説しています。 続きを読む... — GIGAZINE / score: 75 (AI安全性監査組織METRの解説と動向)</description>
-</item>
-<item>
-<title>[75] Announcing RustFS 1.0.0 GA: Production-Ready, Open Source, S3-Compatible Object Storage</title>
-<link>https://rustfs.com/blog/announcing-rustfs-1-0-0-ga/</link>
-<guid isPermaLink="true">https://rustfs.com/blog/announcing-rustfs-1-0-0-ga/</guid>
-<pubDate>Thu, 17 Sep 2026 04:42:36 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>What RustFS Has Achieved Since open sourcing in July 2025, RustFS has grown rapidly and reached a series of milestones: 32,000+ GitHub stars 10 million+ image pulls on Docker Hub 2.7 million+ instances deployed worldwide 160+ contributors across the globe Featured on GitHub Trending 9 times Featu... — はてなブックマーク テクノロジー / score: 75 (RustFS 1.0.0 GAのリリース告知)</description>
 </item>
 <item>
 <title>[75] 24時間動き続けるAIエージェント：途中で「死なない」ようにする設計</title>
@@ -805,6 +789,22 @@
 <pubDate>Thu, 10 Sep 2026 21:11:15 +0000</pubDate>
 <category>Simon Willison</category>
 <description>Native is now the future of mobile at Shopify Shopify are moving from React Native back to separate Swift and Kotlin codebases for their native apps, for the exact reason you would expect: We decided to switch from native to React Native in 2020 for three reasons: Stop building the same features twice Allow developers to work across the stack Spend less time chasing feature parity and more time shipping value [...] Native still means building and maintaining software on two platforms, that cost  — Simon Willison / score: 75 (ShopifyがReact Nativeからネイティブへ移行)</description>
+</item>
+<item>
+<title>[75] Now everyone can put data to work</title>
+<link>https://openai.com/index/put-data-to-work</link>
+<guid isPermaLink="true">https://openai.com/index/put-data-to-work</guid>
+<pubDate>Thu, 10 Sep 2026 15:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language. — OpenAI News / score: 75 (ChatGPTの新機能データエージェント)</description>
+</item>
+<item>
+<title>[75] AAIF、Agent Routerの参加を発表 ——AIモデルとMCPツールへの接続を仲介するOSS</title>
+<link>https://gihyo.jp/article/2026/09/agent-router?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/09/agent-router?utm_source=feed</guid>
+<pubDate>Thu, 10 Sep 2026 08:19:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Agentic AI Foundation（AAIF）は9月9日、オープンソースのAIゲートウェイ「Agent Router」（旧称：Envoy AI Gateway）の参加を発表した。 — gihyo.jp / score: 75 (AIゲートウェイOSSの発表に関するニュース)</description>
 </item>
 </channel>
 </rss>
