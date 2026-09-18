@@ -4,8 +4,16 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 18 Sep 2026 20:10:15 +0000</lastBuildDate>
+<lastBuildDate>Fri, 18 Sep 2026 22:08:15 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>2in1でペン入力できる10型UMPC「Note Pro AI」が13万円台で発売開始</title>
+<link>https://ascii.jp/elem/000/004/436/4436472/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/436/4436472/?rss</guid>
+<pubDate>Fri, 18 Sep 2026 21:00:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>天空がCore Ultra 5 125Uを搭載した10型の2in1 UMPC「TENKU Note Pro AI」をダイレクトストアで先行販売を開始しました — ASCII.jp / score: 30 (新型UMPCの発売に関する製品ニュース)</description>
+</item>
 <item>
 <title>Note on 18th September 2026</title>
 <link>https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/</link>
@@ -47,6 +55,14 @@
 <description>Amazon Elastic Container Service Express Mode now supports specifying ARM64 as the CPU architecture for your service, making it easy to deploy ARM-based container images on AWS Graviton-powered compute and benefit from up to 40% better price-performance compared to x86-based instances. Amazon ECS Express Mode makes it easy to rapidly launch containerized applications, including web applications and APIs, by orchestrating and managing the cloud architecture for your application. You provide your  — AWS What's New / score: 65 (ECS Express ModeのGraviton対応アップデート)</description>
 </item>
 <item>
+<title>AWS Resilience Hub adds three new capabilities</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/resilience-hub-eks-dependency-policy/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/resilience-hub-eks-dependency-policy/</guid>
+<pubDate>Fri, 18 Sep 2026 16:49:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>The next generation of AWS Resilience Hub is a central location in the AWS that helps platform engineering and site reliability teams assess and strengthen the resilience of their workloads running on AWS. It provides automated dependency discovery, generative AI-powered failure mode analysis, modular resilience policies, resilience testing, and organization-wide resilience posture reporting. Today, AWS Resilience Hub adds three new capabilities: EKS labels support for service input sources, dep — AWS What's New / score: 60 (AWS Resilience Hubの新機能追加)</description>
+</item>
+<item>
 <title>Announcing Native BM25 Ranking in AlloyDB and Cloud SQL</title>
 <link>https://cloud.google.com/blog/products/databases/native-bm25-search-in-alloydb-and-cloud-sql/</link>
 <guid isPermaLink="true">https://cloud.google.com/blog/products/databases/native-bm25-search-in-alloydb-and-cloud-sql/</guid>
@@ -63,28 +79,12 @@
 <description>iPhone18 Pro Maxの分解画像がX（旧Twitter）に投稿されたのに続き、iPhone18 Proの分解動画がYouTubeで公開されました。 この動画ではiPhone17 Proと各部品が比較されており、 […] — iPhone Mania / score: 30 (未発売端末の噂や分解に関するリーク情報)</description>
 </item>
 <item>
-<title>Accelerating the borderless Lakehouse: Announcing preview of cross-cloud caching</title>
-<link>https://cloud.google.com/blog/products/data-analytics/borderless-lakehouse-cross-cloud-caching-and-connections/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/products/data-analytics/borderless-lakehouse-cross-cloud-caching-and-connections/</guid>
-<pubDate>Fri, 18 Sep 2026 16:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>Today, we are excited to announce enhancements to the borderless Lakehouse , our answer to how data engineers, data scientists, and increasingly, AI agents, can query governed data directly where it lives. To reason accurately and automate complex enterprise workflows, agents and data consumers of all types need fast, unified access to an organization's complete data estate, joining customer records, transaction logs, and operational telemetry across clouds. However, modern enterprise data is ra — Google Cloud Blog / score: 65 (データレイクハウスのクロスプロバイダキャッシュ機能のプレビュー)</description>
-</item>
-<item>
 <title>Reimagining service delivery in the agentic era with Google Public Sector</title>
 <link>https://cloud.google.com/blog/topics/public-sector/reimagining-service-delivery-in-the-agentic-era-with-google-public-sector/</link>
 <guid isPermaLink="true">https://cloud.google.com/blog/topics/public-sector/reimagining-service-delivery-in-the-agentic-era-with-google-public-sector/</guid>
 <pubDate>Fri, 18 Sep 2026 16:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>State and local governments are driven by a shared mission to provide responsive, equitable, and accessible services. However, achieving this goal is often hindered by legacy technical debt, disconnected data, and heavy administrative burdens that slow down mission delivery. This systemic fragmentation creates costly operational bottlenecks across the public sector, including: Legacy data silos: Crucial caseworker information frequently resides in isolated repositories managed by separate depart — Google Cloud Blog / score: 45 (公共セクター向けAIサービス提供の紹介記事)</description>
-</item>
-<item>
-<title>How to upskill enterprise AI builders by using daily micro habits</title>
-<link>https://cloud.google.com/blog/topics/consulting/upskill-your-ai-using-daily-micro-habits/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/topics/consulting/upskill-your-ai-using-daily-micro-habits/</guid>
-<pubDate>Fri, 18 Sep 2026 16:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>As enterprises invest in generative AI, tech leaders keep seeing the same pattern: Developers test AI tools for a week, hit setup problems, and then drift back to the backlog. Nothing ships. The real gap is enablement. In this landmark Harvard Business Review article , Josh Bersin and Marc Zao-Sanders noted that knowledge workers carve out just five minutes a day for formal learning. Most enterprise training programs still lean on week-long classroom bootcamps, multi-week certification tracks, a — Google Cloud Blog / score: 50 (企業のAI人材育成に関するベストプラクティス)</description>
 </item>
 <item>
 <title>The DevFest Community Workshop Experience: Building Real Agents Together</title>
@@ -95,6 +95,22 @@
 <description>This week we kicked off the DevFest season in North America at Google Hudson Square in New York City with 80 engineers packed into the room. Typical technical workshops hand you a finished repo, tell you to blindly paste blocks of code into your terminal, and hope nothing crashes. You walk away with green checkmarks, but your brain stays on autopilot. We've introduced a completely different experience called Workbench . Workbench focuses on understanding core ideas and architectural models rathe — Google Cloud Blog / score: 40 (コミュニティイベントのレポートで実用性は低い)</description>
 </item>
 <item>
+<title>How to upskill enterprise AI builders by using daily micro habits</title>
+<link>https://cloud.google.com/blog/topics/consulting/upskill-your-ai-using-daily-micro-habits/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/consulting/upskill-your-ai-using-daily-micro-habits/</guid>
+<pubDate>Fri, 18 Sep 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>As enterprises invest in generative AI, tech leaders keep seeing the same pattern: Developers test AI tools for a week, hit setup problems, and then drift back to the backlog. Nothing ships. The real gap is enablement. In this landmark Harvard Business Review article , Josh Bersin and Marc Zao-Sanders noted that knowledge workers carve out just five minutes a day for formal learning. Most enterprise training programs still lean on week-long classroom bootcamps, multi-week certification tracks, a — Google Cloud Blog / score: 50 (企業のAI人材育成に関するベストプラクティス)</description>
+</item>
+<item>
+<title>Accelerating the borderless Lakehouse: Announcing preview of cross-cloud caching</title>
+<link>https://cloud.google.com/blog/products/data-analytics/borderless-lakehouse-cross-cloud-caching-and-connections/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/data-analytics/borderless-lakehouse-cross-cloud-caching-and-connections/</guid>
+<pubDate>Fri, 18 Sep 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Today, we are excited to announce enhancements to the borderless Lakehouse , our answer to how data engineers, data scientists, and increasingly, AI agents, can query governed data directly where it lives. To reason accurately and automate complex enterprise workflows, agents and data consumers of all types need fast, unified access to an organization's complete data estate, joining customer records, transaction logs, and operational telemetry across clouds. However, modern enterprise data is ra — Google Cloud Blog / score: 65 (データレイクハウスのクロスプロバイダキャッシュ機能のプレビュー)</description>
+</item>
+<item>
 <title>What’s new with Google Cloud</title>
 <link>https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/</link>
 <guid isPermaLink="true">https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/</guid>
@@ -103,7 +119,7 @@
 <description>Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block &lt;ListValue: []&gt; Sept 14 - Sept 18 Storage Intelligence Advisor for Google Cloud Storage is now GA Google Cloud Storage customers can now m — Google Cloud Blog / score: 20 (Google Cloudの一般的な更新情報まとめ)</description>
 </item>
 <item>
-<title>Changing the game: How Google uses agentic AI to secure hundreds of millions of lines of code</title>
+<title>Changing the game: Using agentic AI to secure infrastructure code</title>
 <link>https://cloud.google.com/blog/topics/systems/using-ai-agents-to-secure-google-infrastructure/</link>
 <guid isPermaLink="true">https://cloud.google.com/blog/topics/systems/using-ai-agents-to-secure-google-infrastructure/</guid>
 <pubDate>Fri, 18 Sep 2026 16:00:00 +0000</pubDate>
@@ -141,6 +157,22 @@
 <pubDate>Fri, 18 Sep 2026 15:05:00 +0000</pubDate>
 <category>iPhone Mania</category>
 <description>iPhone18 Proシリーズに搭載されているA20 Proのダイ写真を、Kurnal氏（＠Kurnalsalts）がX（旧Twitter）に投稿しました。 同氏はA20 Proのダイ面積も報告しており、A17 Pro […] — iPhone Mania / score: 30 (次期プロセッサの仕様に関するリーク情報)</description>
+</item>
+<item>
+<title>耳で聞く！Python で学ぶ マクロ経済学 入門 15</title>
+<link>https://qiita.com/maskot1977/items/1f6b4c9ed446b2b282df?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/maskot1977/items/1f6b4c9ed446b2b282df?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Fri, 18 Sep 2026 15:03:49 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>user: ソース動画のタイトル、そしてこの動画の内容について教えてください。 Gemini: ソース動画のタイトル 「日本の借金は分母の成長を見れば怖くない : Pythonで学ぶマクロ経済学入門 Podcast 15」 動画の内容解説 この動画（Podcas... — Qiita 人気記事 / score: 40 (Pythonを活用した経済学の入門解説記事)</description>
+</item>
+<item>
+<title>Amazon SNS now supports message payloads up to 1 MiB</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-sns-1mib-support</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-sns-1mib-support</guid>
+<pubDate>Fri, 18 Sep 2026 15:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon Simple Notification Service (Amazon SNS) now supports message payloads up to 1 MiB, a 4x increase from the previous 256 KiB limit, so you can publish larger messages to your SNS topics. Amazon SNS is a fully managed pub/sub messaging service that enables you to decouple and scale microservices, distributed systems, and serverless applications. As workloads such as application integration, IoT, and generative AI increasingly exchange larger volumes of data in a single message, the previous — AWS What's New / score: 65 (Amazon SNSのペイロード上限4倍拡大)</description>
 </item>
 <item>
 <title>最大17万5000円オフ＆送料無料！ 最新のゲーミングPCセールをチェック</title>
@@ -181,6 +213,14 @@
 <pubDate>Fri, 18 Sep 2026 14:19:13 +0000</pubDate>
 <category>iPhone Mania</category>
 <description>iPhone18 Proの海外レビューが、現地時間9月16日に一斉に解禁されました。評価はおおむね高いものの、価格の高さを指摘する声も上がっています。海外メディアのバッテリーテストを基に計算すると、前モデルからの駆動時間 […] — iPhone Mania / score: 35 (新型iPhoneの海外レビューまとめ)</description>
+</item>
+<item>
+<title>出版取次の日販、米AI企業に書籍を大量販売か　業界団体が説明要求（朝日新聞） - Yahoo!ニュース</title>
+<link>https://news.yahoo.co.jp/articles/212f2a1ec5d3862735a3a456429c4d816bf5d178</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/articles/212f2a1ec5d3862735a3a456429c4d816bf5d178</guid>
+<pubDate>Fri, 18 Sep 2026 14:14:24 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>出版取次大手の日販グループホールディングスが米AI（人工知能）開発企業アンソロピックに大量の書籍を販売していたとして、日本の出版社約380社が所属する業界団体「日本書籍出版協会（書協）」が日販に事実確認を求める書面を送ったことが18日、わかった。販売された書籍はアンソロピックがAI学習に使用した可能性もあ... — はてなブックマーク テクノロジー / score: 65 (AI学習と著作権に関する業界全体の問題提起)</description>
 </item>
 <item>
 <title>New experts join Google’s AI &amp; Economy team</title>
@@ -375,6 +415,14 @@
 <description>問題があったのは、「豪姫とはどんな女性？ 秀吉の養女となり、宇喜多秀家に嫁いだ前田利家の娘の生涯【日本史人物伝】」と題した記事。サライ.jpによると、編集部が記事制作を委託する編集プロダクションを通じ、フリーランスのイラストレーターに挿絵を発注した。 発注時、編集プロダクション側は豪姫に関する十分な肖... — はてなブックマーク テクノロジー / score: 30 (生成AIを利用した記事制作における著作権問題)</description>
 </item>
 <item>
+<title>【Apolloオーナー限定】Neve、API、Manley、SSL、Fender、Auto-Tuneまで、200超のUADプラグインを収録した、Universal Audio「UAD Complete 4」が52%OFF！</title>
+<link>https://computermusic.jp/2026/09/uad-complete-4-2/</link>
+<guid isPermaLink="true">https://computermusic.jp/2026/09/uad-complete-4-2/</guid>
+<pubDate>Fri, 18 Sep 2026 11:01:32 +0000</pubDate>
+<category>Computer Music Japan</category>
+<description>Neve、API、Manley、SSL、Fender、Auto-Tuneまで、200超のUADプラグインを収録した、Universal Audio「UAD Complete 4」が52%OFFとなっています。 LUNA ... The post 【Apolloオーナー限定】Neve、API、Manley、SSL、Fender、Auto-Tuneまで、200超のUADプラグインを収録した、Universal Audio「UAD Complete 4」が52%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 15 (音楽制作プラグインのセール情報であり技術者向けではない)</description>
+</item>
+<item>
 <title>MicrosoftでRustが「Tier 1言語」に、C++・C#・TypeScriptと並ぶ重要言語として手厚く支援</title>
 <link>https://gigazine.net/news/20260918-rust-microsoft/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260918-rust-microsoft/</guid>
@@ -431,6 +479,22 @@
 <description>静岡県浜松市と『エヴァンゲリオン』がコラボした街巡りイベント「ぐるっと！はまエヴァ」の開催が決定しました。開催期間は2026年10月4日(日)～2027年2月28日(日)で、『エヴァンゲリオン』シリーズに登場する「第3村」のモデル地の一つである天竜二俣駅を含む「天竜エリア」をはじまりの地とし、浜松の主要観光地である「浜名湖・舘山寺エリア」、浜松市の玄関口である「浜松市中心部」をつなげて「ぐるっと！巡る」楽しみを提供するとのこと。浜名湖に伝わるダイダラボッチの伝説をモチーフにしたメインビジュアルも公開されています。 続きを読む... — GIGAZINE / score: 10 (一般的なヘッドラインニュースの羅列)</description>
 </item>
 <item>
+<title>自在な編成とオートディビジ/ポリフォニックレガートを備えた総合ストリングス音源、STREZOV SAMPLING「AFFLATUS CHAPTER I STRINGS」が60%OFF！</title>
+<link>https://computermusic.jp/2026/09/strezov-sampling-afflatus-chapter-i-strings/</link>
+<guid isPermaLink="true">https://computermusic.jp/2026/09/strezov-sampling-afflatus-chapter-i-strings/</guid>
+<pubDate>Fri, 18 Sep 2026 10:46:15 +0000</pubDate>
+<category>Computer Music Japan</category>
+<description>自在な編成とオートディビジ/ポリフォニックレガートを備えた総合ストリングス音源、STREZOV SAMPLING「AFFLATUS CHAPTER I STRINGS」が60%OFFとなっています。 Strezov Sa... The post 自在な編成とオートディビジ/ポリフォニックレガートを備えた総合ストリングス音源、STREZOV SAMPLING「AFFLATUS CHAPTER I STRINGS」が60%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 15 (音楽制作用音源のセール情報でIT技術者には無関係)</description>
+</item>
+<item>
+<title>世界最高峰のサウンドを誇るDAWと、60種類以上のUAD Nativeプラグインをひとつにしたバンドル、Universal Audio「LUNA Studio + UAD Native Pro Bundle」が期間限定特別価格！</title>
+<link>https://computermusic.jp/2026/09/luna-studio-uad-native-pro-bundle/</link>
+<guid isPermaLink="true">https://computermusic.jp/2026/09/luna-studio-uad-native-pro-bundle/</guid>
+<pubDate>Fri, 18 Sep 2026 10:31:18 +0000</pubDate>
+<category>Computer Music Japan</category>
+<description>世界最高峰のサウンドを誇るDAWと、60種類以上のUAD Nativeプラグインをひとつにしたバンドル、Universal Audio「LUNA Studio + UAD Native Pro Bundle」が期間限定特... The post 世界最高峰のサウンドを誇るDAWと、60種類以上のUAD Nativeプラグインをひとつにしたバンドル、Universal Audio「LUNA Studio + UAD Native Pro Bundle」が期間限定特別価格！ first appeared on Computer Music Japan . — Computer Music Japan / score: 15 (DAW関連のセール情報でありエンジニア向けではない)</description>
+</item>
+<item>
 <title>貼るのちょっと待った!? iPhone 18 Proシリーズ、特定の保護フィルムを貼るとFace IDが反応しなくなるかもしれない</title>
 <link>https://www.gizmodo.jp/article/2609-iphone18-pro-faceid-screen-protector-issue/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/2609-iphone18-pro-faceid-screen-protector-issue/</guid>
@@ -455,6 +519,14 @@
 <description> — Yahoo!ニュース IT / score: 15 (ガジェットの修理代に関する一般的なニュース)</description>
 </item>
 <item>
+<title>直感的な操作が可能なデジタル・ディレイ・プラグイン、Solid State Logic「SSL X-Delay」が80%OFF！</title>
+<link>https://computermusic.jp/2026/09/ssl-x-delay/</link>
+<guid isPermaLink="true">https://computermusic.jp/2026/09/ssl-x-delay/</guid>
+<pubDate>Fri, 18 Sep 2026 10:16:10 +0000</pubDate>
+<category>Computer Music Japan</category>
+<description>直感的な操作が可能なデジタル・ディレイ・プラグイン、Solid State Logic「SSL X-Delay」が80%OFFとなっています。 SSLでは、Xシリーズが最大89%OFFとなる大規模キャンペーン、X-Tre... The post 直感的な操作が可能なデジタル・ディレイ・プラグイン、Solid State Logic「SSL X-Delay」が80%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 15 (音楽用ディレイプラグインのセール情報)</description>
+</item>
+<item>
 <title>1行のプロンプトから3Dモデルを生成 ～Maker Faire Tokyoで動いていた「ComfyUI」デモが実は先端研究だった【生成AIストリーム】</title>
 <link>https://forest.watch.impress.co.jp/docs/serial/aistream/2142308.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/serial/aistream/2142308.html</guid>
@@ -477,6 +549,14 @@
 <pubDate>Fri, 18 Sep 2026 10:15:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>可変絞りとA20 Proチップを搭載したiPhone 18 Pro/18 Pro Maxの海外レビュー。カメラやバッテリーが進化し、買いの理由を解説。 — ギズモード・ジャパン / score: 35 (新型iPhoneのハードウェア進化に関するレビュー)</description>
+</item>
+<item>
+<title>最も先進的でリアルなアップライト・ベース音源、Vir2 Instruments「MOJO: Upright Bass」が30%OFF！</title>
+<link>https://computermusic.jp/2026/09/mojo-upright-bass-2/</link>
+<guid isPermaLink="true">https://computermusic.jp/2026/09/mojo-upright-bass-2/</guid>
+<pubDate>Fri, 18 Sep 2026 10:01:45 +0000</pubDate>
+<category>Computer Music Japan</category>
+<description>最も先進的でリアルなアップライト・ベース音源、Vir2 Instruments「MOJO: Upright Bass」が30%OFFとなっています。 MOJO: Upright Bass Vir2 Instruments... The post 最も先進的でリアルなアップライト・ベース音源、Vir2 Instruments「MOJO: Upright Bass」が30%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 10 (音楽制作向け音源のセール情報のため)</description>
 </item>
 <item>
 <title>「地球の磁場」を利用して偽造された古代の陶器を見分ける方法</title>
@@ -559,6 +639,14 @@
 <description>【Amazon限定・31％OFF】Android 16搭載「P10 Kid」キッズタブレットが13,800円に！子どもの学習・動画視聴・はじめてのタブレットにおすすめ — ASCII.jp / score: 25 (キッズ向けタブレットのセール情報)</description>
 </item>
 <item>
+<title>時代を超え愛される伝説のシンセサイザーを本家が復刻。Roland「JUNO-106」が65%OFF！</title>
+<link>https://computermusic.jp/2026/09/juno-106/</link>
+<guid isPermaLink="true">https://computermusic.jp/2026/09/juno-106/</guid>
+<pubDate>Fri, 18 Sep 2026 09:46:23 +0000</pubDate>
+<category>Computer Music Japan</category>
+<description>時代を超え愛される伝説のシンセサイザーを本家が復刻。Roland「JUNO-106」が65%OFFとなっています。 Rolandでは、Synth Monthセールを開催中です。人気にシンセサイザー、バンドルを含めたRol... The post 時代を超え愛される伝説のシンセサイザーを本家が復刻。Roland「JUNO-106」が65%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 30 (音楽制作向けシンセサイザーのセール情報)</description>
+</item>
+<item>
 <title>日本円ステーブルコイン「JPYC」、累計発行額100億円を突破</title>
 <link>https://ascii.jp/elem/000/004/436/4436462/?rss</link>
 <guid isPermaLink="true">https://ascii.jp/elem/000/004/436/4436462/?rss</guid>
@@ -589,6 +677,14 @@
 <pubDate>Fri, 18 Sep 2026 09:37:25 +0000</pubDate>
 <category>気になる、記になる…</category>
 <description>本日、アシカンが、グレード5 のチタニウムと医療現場で使用されるグレードのシリコン素材を融合させた Apple Watch専用バンド「MinZ METEOR」を発売しました。 「MinZ METEOR」は、単なる素材の組 […] — 気になる、記になる… / score: 25 (ハードウェア周辺機器の新製品紹介)</description>
+</item>
+<item>
+<title>女性ヴォーカリストのアンサンブルVOICE OF WINDシリーズの集大成、SOUNDIRON「VOICE OF WIND: COLLECTION」が50%OFF！</title>
+<link>https://computermusic.jp/2026/09/voice-of-wind-collection/</link>
+<guid isPermaLink="true">https://computermusic.jp/2026/09/voice-of-wind-collection/</guid>
+<pubDate>Fri, 18 Sep 2026 09:31:23 +0000</pubDate>
+<category>Computer Music Japan</category>
+<description>女性ヴォーカリストのアンサンブルVOICE OF WINDシリーズの集大成、SOUNDIRON「VOICE OF WIND: COLLECTION」が50%OFFとなっています。 Soundironではシルバーウィークセ... The post 女性ヴォーカリストのアンサンブルVOICE OF WINDシリーズの集大成、SOUNDIRON「VOICE OF WIND: COLLECTION」が50%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 10 (音楽制作向け音源のセール情報のため)</description>
 </item>
 <item>
 <title>100インチのテレビって今いくら？ 4K倍速液晶のREGZAがAmazonでタイムセール中</title>
@@ -709,102 +805,6 @@
 <pubDate>Fri, 18 Sep 2026 09:00:00 +0000</pubDate>
 <category>ASCII.jp</category>
 <description>Hikaru Arata (WONK)、5年ぶりのソロ再始動後初ライブが決定。11月6日、渋谷で開催 — ASCII.jp / score: 10 (音楽アーティストのライブ情報)</description>
-</item>
-<item>
-<title>ACGWORLDS、企業向け漫画制作サービスを提供開始。1～12ページ・基本料金10万円（税別）、第1稿は最短3営業日</title>
-<link>https://ascii.jp/elem/000/004/436/4436456/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/436/4436456/?rss</guid>
-<pubDate>Fri, 18 Sep 2026 09:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>ACGWORLDS、企業向け漫画制作サービスを提供開始。1～12ページ・基本料金10万円（税別）、第1稿は最短3営業日 — ASCII.jp / score: 20 (企業のサービス開始告知)</description>
-</item>
-<item>
-<title>「儒烏風亭らでんの瞳に映る世界の名画--A Shared Art Journey」POP-UP STORE in 有楽町マルイ・10月3日より開催決定！</title>
-<link>https://ascii.jp/elem/000/004/436/4436455/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/436/4436455/?rss</guid>
-<pubDate>Fri, 18 Sep 2026 09:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>「儒烏風亭らでんの瞳に映る世界の名画--A Shared Art Journey」POP-UP STORE in 有楽町マルイ・10月3日より開催決定！ — ASCII.jp / score: 10 (エンタメ関連のポップアップストア情報)</description>
-</item>
-<item>
-<title>持ち運びに最適な11.6型ノートPCを10万3400円で販売中！──FMV Store</title>
-<link>https://ascii.jp/elem/000/004/435/4435930/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/435/4435930/?rss</guid>
-<pubDate>Fri, 18 Sep 2026 09:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。 — ASCII.jp / score: 20 (PC製品のセール情報)</description>
-</item>
-<item>
-<title>英語の勉強してたけどやめた。“対面型AI翻訳機”が、あまりにも優秀すぎたから。</title>
-<link>https://ascii.jp/elem/000/004/434/4434734/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/434/4434734/?rss</guid>
-<pubDate>Fri, 18 Sep 2026 09:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>iFLYTEKの「デュアルスクリーン AI翻訳機」は、2つの画面を備えスマホを相手に渡さず対面会話できる革新的な端末です。オンライン143言語やオフライン17言語ペアの翻訳、写真翻訳、最大30人のグループ翻訳に対応。語学力に関わらず言葉の壁を越えられる画期的な1台です。 — ASCII.jp / score: 35 (AI翻訳機のガジェット紹介ニュース)</description>
-</item>
-<item>
-<title>GeminiをOSの中心に据えた新しいPC。「Googlebook」9月21日に予約開始</title>
-<link>https://www.gizmodo.jp/article/2609-googlebook-preorder-2026-september/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2609-googlebook-preorder-2026-september/</guid>
-<pubDate>Fri, 18 Sep 2026 09:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>値段も気になる。Googleが開発中の新しいノートPC「Googlebook」。公式サイトが更新され、2026年9月21日から予約できることが明らかになりました。GooglebookはGeminiをOSの中心に据えた、新しいタイプのノートP… — ギズモード・ジャパン / score: 50 (AIをOSに統合した新型PCの発表のため)</description>
-</item>
-<item>
-<title>書籍『今西勇仁が教える「エフェクターの知りたい知識100」』が、リットーミュージックより11月20日（金）に発売！</title>
-<link>https://guitarmagazine.jp/news/2026-0918-imanishi-effector/</link>
-<guid isPermaLink="true">https://guitarmagazine.jp/news/2026-0918-imanishi-effector/</guid>
-<pubDate>Fri, 18 Sep 2026 09:00:00 +0000</pubDate>
-<category>ギター・マガジンWEB</category>
-<description>ギタマガWEBの人気連載を1冊に！ 神田ジョンとの新規対談も掲載！ 書籍『今西勇仁が教える「エフェクターの知りたい知識100」』が、2026年11月20日（金）にリットーミュージックより発売される。 Amazonで買う 本書は、ギター・マガジンWEBで連載されていた 『今西勇仁が教える「ギター・エフェクターの基礎知識」』 を1冊にまとめ、さらにその内容を深堀りした追加コンテンツを収録したもの。 今西勇仁と交流の深いギタリスト、神田ジョン（PENGUIN RESEARCH）との対談も8ページにわたって掲載される。 Prologue はじめに エフェクターってたくさんの種類があるし、慣れるまでは何が何だかよくわからない。調べて理解したつもりでも、しばらく経つとあやふやになってしまう。そんなことって誰にでもよくあると思います。 でも、なぜそうなのか、どういう理由でそう設定するのか、という知識と合わせて理解することによって、音作りへの理解が深まり、 その知識が自分に定着する ↓ 知識同士がつながっていく ↓ 自分流にアレンジすることができるようになる ↓ そして音作りが楽しくなり、その影響で演 — ギター・マガジンWEB / score: 15 (音楽機材に関する書籍の発売情報のため)</description>
-</item>
-<item>
-<title>Noto Emoji、3D絵文字のフォントと画像を公開、Unicode Emoji 18.0にも対応</title>
-<link>https://gihyo.jp/article/2026/09/google-noto-3d-emoji?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/09/google-noto-3d-emoji?utm_source=feed</guid>
-<pubDate>Fri, 18 Sep 2026 08:58:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Googleは2026年9月17日、絵文字ライブラリ「Noto Emoji」の立体的なデザイン「Noto 3D」の展開を発表した。 — gihyo.jp / score: 35 (Noto Emoji 3Dの公開情報)</description>
-</item>
-<item>
-<title>職員採用試験システムへの不正アクセス、全国で相次ぐ　受験者の情報漏えいか</title>
-<link>https://ascii.jp/elem/000/004/436/4436399/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/436/4436399/?rss</guid>
-<pubDate>Fri, 18 Sep 2026 08:50:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>ApplyNowが提供する採用面接システムが不正アクセスを受け、複数の自治体で、職員採用試験の受験者情報が流出した可能性があることが、9月17日までにわかった。 — ASCII.jp / score: 85 (採用システムの不正アクセスと情報漏えい)</description>
-</item>
-<item>
-<title>「Unicode 18.0」がリリース ～秦代の「小篆」、女真文字を追加。新しい絵文字は9種／13,007文字が追加。収録文字数の総計は172,808文字に</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2142260.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2142260.html</guid>
-<pubDate>Fri, 18 Sep 2026 08:48:52 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>「Unicode 18.0」がリリース ～秦代の「小篆」、女真文字を追加。新しい絵文字は9種／13,007文字が追加。収録文字数の総計は172,808文字に — はてなブックマーク テクノロジー / score: 65 (主要な標準規格のメジャーリリース)</description>
-</item>
-<item>
-<title>米Microsoft、10月20日にOneDriveとCopilotに関するイベントを開催へ</title>
-<link>https://taisy0.com/2026/09/18/227803.html</link>
-<guid isPermaLink="true">https://taisy0.com/2026/09/18/227803.html</guid>
-<pubDate>Fri, 18 Sep 2026 08:47:31 +0000</pubDate>
-<category>気になる、記になる…</category>
-<description>米Microsoftは現地時間10月7日に「Windows」と「Surface」に関する発表イベントをサンフランシスコで開催すること予定ですが、Windows Centralによると、そのイベントとは別に現地時間10月2 […] — 気になる、記になる… / score: 55 (主要プラットフォーマーのイベント予告)</description>
-</item>
-<item>
-<title>メガネ屋さんの本気。ゲームの視界を広げ、眼が疲れづらい「ゲーミングメガネ」見つけた #TGS2026</title>
-<link>https://www.gizmodo.jp/article/gamingglasses_meganemonoya_tgs2026/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/gamingglasses_meganemonoya_tgs2026/</guid>
-<pubDate>Fri, 18 Sep 2026 08:45:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>TGS2026で話題の「めがねmonoや」のゲーミングメガネを体験。目の疲れを軽減しゲームや仕事の視界を広げる魅力を紹介します。 — ギズモード・ジャパン / score: 15 (一般向けのハードウェア紹介記事のため)</description>
-</item>
-<item>
-<title>【福岡・天神】AIによる病変発見サポートと「ブルーライト照明」を導入した内視鏡検査を導入【福岡天神マイウェルクリニック】</title>
-<link>https://ascii.jp/elem/000/004/436/4436458/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/436/4436458/?rss</guid>
-<pubDate>Fri, 18 Sep 2026 08:43:53 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>【福岡・天神】AIによる病変発見サポートと「ブルーライト照明」を導入した内視鏡検査を導入【福岡天神マイウェルクリニック】 — ASCII.jp / score: 30 (医療機関におけるAI活用導入の事例)</description>
 </item>
 </channel>
 </rss>
