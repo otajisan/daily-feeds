@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sat, 19 Sep 2026 10:08:35 +0000</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 12:12:10 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Google Chrome」に今週2回目のセキュリティ更新、致命的脆弱性2件を含む16件に対処／Windows環境にはv153.0.8010.52/.53が展開中</title>
@@ -29,6 +29,14 @@
 <pubDate>Sat, 19 Sep 2026 09:18:46 +0000</pubDate>
 <category>Yahoo!ニュース IT</category>
 <description> — Yahoo!ニュース IT / score: 90 (主要AIシステムに関する重大なセキュリティ事件)</description>
+</item>
+<item>
+<title>[90] グーグルのAI「ジェミニ」、パスワードを推測して複数サイトに不正アクセス</title>
+<link>https://www.afpbb.com/articles/-/3653795</link>
+<guid isPermaLink="true">https://www.afpbb.com/articles/-/3653795</guid>
+<pubDate>Sat, 19 Sep 2026 07:30:11 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>スマートフォンの画面に表示されたグーグルの人工知能（AI）「ジェミニ」のロゴ（2026年5月7日撮影）。(c)Kirill KUDRYAVTSEV/AFP 【9月19日 AFP】米IT大手グーグルが開発した消費者向け人工知能（AI）「ジェミニ」が、ログイン情報を推測して複数の外部システムに侵入（ハッキング）していたことが明らかになった。同社... — はてなブックマーク テクノロジー / score: 90 (AIによる不正アクセス事例のセキュリティニュース)</description>
 </item>
 <item>
 <title>[90] Gemini Hacked Three Companies in First Known Breakout by Google’s AI</title>
@@ -119,12 +127,20 @@
 <description>Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment. — OpenAI News / score: 90 (次世代AIモデル「GPT-6 Astra」の発表)</description>
 </item>
 <item>
+<title>[85] その Lambda、8分で 管理者権限まで奪われます</title>
+<link>https://speakerdeck.com/k1nakayama/sono-lambda-8-bun-de-kanrisha-kengen-made-ubawaremasu</link>
+<guid isPermaLink="true">https://speakerdeck.com/k1nakayama/sono-lambda-8-bun-de-kanrisha-kengen-made-ubawaremasu</guid>
+<pubDate>Sat, 19 Sep 2026 10:05:34 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>「インシデント対応の訓練、ドキュメントレビューで済ませていませんか」 サーバーレスは平常時、マネージドサービスに支えられて安定して動きます。だからこそ私たちは、自分のワークロードの「壊れ方」を練習する機会をほとんど持てません。CI/CDにスキャンは入れたが検出結果は放置されている、最小権限は掛け声… — はてなブックマーク テクノロジー / score: 85 (サーバーレス環境のセキュリティリスクと脆弱性)</description>
+</item>
+<item>
 <title>[85] ハッカーがAnthropicのClaudeを使ってOpenAIに侵入</title>
 <link>https://gigazine.net/news/20260919-hack-openai-claude/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260919-hack-openai-claude/</guid>
-<pubDate>Sat, 19 Sep 2026 02:12:16 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>サイバーセキュリティスタートアップ・Hacktron AIのセキュリティ研究者が、AnthropicのClaudeを使ってOpenAIの内部データにアクセスすることに成功したと報告しています。 Hacking OpenAI | Hacktron AI https://www.hacktron.ai/blog/hacking-openai Exclusive | Hackers Used Anthropic’s Claude to Break Into OpenA... — はてなブックマーク テクノロジー / score: 85 (AIを用いたAI企業へのセキュリティ侵害事例)</description>
+<pubDate>Sat, 19 Sep 2026 02:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>サイバーセキュリティスタートアップ・Hacktron AIのセキュリティ研究者が、AnthropicのClaudeを使ってOpenAIの内部データにアクセスすることに成功したと報告しています。 続きを読む... — GIGAZINE / score: 85 (AIを用いたAI企業へのセキュリティ侵害事例)</description>
 </item>
 <item>
 <title>[85] GoogleのAIも他社システムに侵入　事故直後に停止、公表せず - 日本経済新聞</title>
@@ -551,6 +567,14 @@
 <description>AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome. — Google DeepMind / score: 80 (全DNA変異を予測する画期的なゲノムマップの発表)</description>
 </item>
 <item>
+<title>[75] VRAM容量32GBで30万円未満なIntelグラボ「Intel Arc Pro B70 Creator 32GB」でローカルLLM「Qwen3.8 27B」や動画生成AI「MiniMax H3」を実行して生成速度を確かめてみた</title>
+<link>https://gigazine.net/news/20260919-arc-pro-b70-llm-review/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20260919-arc-pro-b70-llm-review/</guid>
+<pubDate>Sat, 19 Sep 2026 11:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>大規模言語モデル(LLM)や画像・動画生成AIを高速実行するにはモデル全体を高速なVRAMに収める必要があります。しかし、AI需要に伴うグラフィックボードの価格高騰によって、VRAM容量32GBのNVIDIA GeForce RTX 5090は100万円を超えるようになってしまいました。一方で、Intel製GPU「Intel Arc Pro B70」を搭載したVRAM容量32GBのASRock製グラフィックボード「Intel Arc Pro B70 Creator 32GB」は30万円以下で購入可能。そんなIntel Arc Pro B70 Creator 32GBを実際に購入したので、LLMや動画生成AIなどを実際に実行してみました。 続きを読む... — GIGAZINE / score: 75 (高コスパ大容量VRAMグラボでのAI実行検証)</description>
+</item>
+<item>
 <title>[75] 無料でAIエージェントの追跡・評価・プロンプト管理・本番環境の監視ができる「Opik」、セルフホスト可能</title>
 <link>https://gigazine.net/news/20260919-opik/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260919-opik/</guid>
@@ -567,36 +591,12 @@
 <description>【シリコンバレー=山田遼太郎】米アンソロピックは18日、人工知能（AI）開発の安全性評価にコンサルティング大手アクセンチュアを起用すると発表した。両社は今後5年で各10億ドル（約1570億円）を投じ、AIの安全対策を検証する体制を整える。アンソロピックのダリオ・アモデイ最高経営責任者（CEO）は最先端AIの開発減速... — はてなブックマーク テクノロジー / score: 75 (AIの安全性評価に関する大型提携ニュース)</description>
 </item>
 <item>
-<title>[75] 米アンソロピックが生物学の実験施設　AIを創薬に活用 - 日本経済新聞</title>
-<link>https://www.nikkei.com/article/DGXZQOGN18CET0Y6A910C2000000/</link>
-<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOGN18CET0Y6A910C2000000/</guid>
-<pubDate>Fri, 18 Sep 2026 22:51:23 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>【シリコンバレー=山田遼太郎】米新興アンソロピックが人工知能（AI）を応用し、生物学の研究をする実験施設を設けたことが18日明らかになった。ロイター通信が報じた。希少疾患の治療薬の開発などを目指しているとみられる。ロイターによると、アンソロピックは細胞や試薬を用いて実験する「ウエットラボ」と呼ばれる施... — はてなブックマーク テクノロジー / score: 75 (Anthropicによる創薬向け実験施設設立)</description>
-</item>
-<item>
-<title>[75] Exclusive: US military had close call after using AI for false intelligence report, sources say | CNN Politics</title>
-<link>https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship</link>
-<guid isPermaLink="true">https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship</guid>
-<pubDate>Fri, 18 Sep 2026 22:19:50 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>The intelligence report, circulated across the US military this spring in the midst of the war with Iran, immediately set off alarm bells: A Chinese ship in the Middle East was transporting components of a nuclear weapons program. The US military swung into action with plans to intercept the vess... — はてなブックマーク テクノロジー / score: 75 (軍事分野におけるAI誤作動の重大なインシデント)</description>
-</item>
-<item>
 <title>[75] Kimi K3 by Moonshot AI is now generally available on Amazon Bedrock</title>
 <link>https://aws.amazon.com/about-aws/whats-new/2026/09/moonshot-ai-kimi-k3-on-amazon-bedrock/</link>
 <guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/moonshot-ai-kimi-k3-on-amazon-bedrock/</guid>
 <pubDate>Fri, 18 Sep 2026 15:15:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Amazon Bedrock continues to expand its open weight model portfolio with the same security and governance that customers rely on. Today, Kimi K3 from Moonshot AI is generally available on Amazon Bedrock, giving you a powerful new option for coding and knowledge work. According to Moonshot AI, Kimi K3 is its most capable model and the first open model to reach 2.8 trillion parameters. It combines native vision capabilities with a 1-million-token context window, making it well suited to long-runnin — AWS What's New / score: 75 (Amazon BedrockでのKimi K3一般提供開始)</description>
-</item>
-<item>
-<title>[75] 【徹底解説】DeepSeek v4.1 Flashの内部構造【最適化したから解ること】｜shi3z</title>
-<link>https://note.com/shi3zblog/n/n6d4fbe03218e</link>
-<guid isPermaLink="true">https://note.com/shi3zblog/n/n6d4fbe03218e</guid>
-<pubDate>Fri, 18 Sep 2026 14:45:34 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>DeepSeek v4.1の推論エンジンの高速化をしていたら、どんどんDeepSeekアーキテクチャに詳しくなってしまった。オープンウェイトだからこそ解るDeepSeekの魅力、今回はこれまでの最適化からわかったDeepSeekの構造の秘密を解き明かしてみよう。 本稿は、DeepSeek v4.1 Flashに至るまでのアーキテクチャ上の進歩や工夫を時... — はてなブックマーク テクノロジー / score: 75 (注目を集めるDeepSeek v4.1の内部構造解説)</description>
 </item>
 <item>
 <title>[75] 爆速で爆安。判定専用AI「JEV」を徹底解説 ― 使い方・料金・実例と、実際に作った4つのプロダクトの裏側</title>
@@ -613,6 +613,14 @@
 <pubDate>Fri, 18 Sep 2026 13:25:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Today, AWS announces the availability of the next generation of AgentCore Runtime , the serverless microVM compute within Amazon Bedrock AgentCore. The new Runtime delivers elastic memory management that reclaims unused memory throughout the session so you pay for actual usage rather than the peak, and consistent cold start times regardless of container image size or concurrency. You get the serverless model you already rely on: no pre-provisioning, scale to zero, hardware-enforced session isola — AWS What's New / score: 75 (AWS Bedrockの新機能発表でクラウド開発に影響)</description>
+</item>
+<item>
+<title>[75] 全社に OpenCode + LiteLLM を導入してコストを抑えつつ AI 活用を進めている話</title>
+<link>https://zenn.dev/jtcc/articles/7e74fef42580a1</link>
+<guid isPermaLink="true">https://zenn.dev/jtcc/articles/7e74fef42580a1</guid>
+<pubDate>Fri, 18 Sep 2026 09:25:07 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>こんにちは。日本トレカセンターのプロダクト部で EM をやっている中川です。 日本トレカセンターでは約 200 名の全社員が使う AI の入り口を 1 つにまとめました。社員の手元には AI エージェントのOpenCodeを配り、そのリクエストを自前でホストした LLM ゲートウェイのLiteLLMに通しています。使うモデルは会社側で制... — はてなブックマーク テクノロジー / score: 75 (全社へのOpenCodeとLiteLLM導入事例)</description>
 </item>
 <item>
 <title>[75] 既存の LLM が CPU なら、 Jev はその GPU 版みたいなやつ</title>
@@ -653,22 +661,6 @@
 <pubDate>Fri, 18 Sep 2026 02:16:33 +0000</pubDate>
 <category>Zenn トレンド</category>
 <description>この記事は、今日参加するイベントで画面表示する目的と、 https://minorun365.connpass.com/event/407308/ 今日発売されるSoftware Design 2026/10の宣伝ついでに書いています。 https://gihyo.jp/magazine/SD/archive/2026/202610 Jevって？ Jevは、状態と質問を受け取り、型付きの回答を確率とともに返すモデルである。チャッピー！それってLLMと何が違うの？ 図を書いて。いいよ。 Jevの提供元のTypeSafe AIは、こうしたソフトウェア向けの意思決定モデルを「System... — Zenn トレンド / score: 75 (構造化出力モデルJevを用いた新しい開発手法の解説)</description>
-</item>
-<item>
-<title>[75] どうやって人類を滅ぼすの？→AIの回答が絶望的すぎた</title>
-<link>https://diamond.jp/articles/-/399581</link>
-<guid isPermaLink="true">https://diamond.jp/articles/-/399581</guid>
-<pubDate>Fri, 18 Sep 2026 01:39:33 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>制御不能な未来が迫る？ AIが明かした人類滅亡の手口 AI開発企業アンソロピックのダリオ・アモデイCEOが業界全体にむけて、AIの開発スピードを緩めるべきだと訴えかけました。ライバル企業のオープンAIのサム・アルトマンCEOとスペースXのイーロン・マスク氏も、直後にアモデイ氏の呼びかけに賛同するとコメントを発信し... — はてなブックマーク テクノロジー / score: 75 (AI業界のリーダーによる開発速度抑制の警鐘)</description>
-</item>
-<item>
-<title>[75] 全社に OpenCode + LiteLLM を導入してコストを抑えつつ AI 活用を進めている話</title>
-<link>https://zenn.dev/jtcc/articles/7e74fef42580a1</link>
-<guid isPermaLink="true">https://zenn.dev/jtcc/articles/7e74fef42580a1</guid>
-<pubDate>Fri, 18 Sep 2026 00:08:15 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>こんにちは。日本トレカセンターのプロダクト部で EM をやっている中川です。 日本トレカセンターでは約 200 名の全社員が使う AI の入り口を 1 つにまとめました。社員の手元には AI エージェントのOpenCodeを配り、そのリクエストを自前でホストした LLM ゲートウェイのLiteLLMに通しています。使うモデルは会社側で制御し、予算は月単位で決めて社員ごとに週次の上限をかけました。コストを把握しやすくなり、金額も導入前の 10 分の 1 以下に収まっています。 導入前の課題 導入前の社内では ChatGPT、Claude、Cursor など AI ツールが乱立していまし... — Zenn トレンド / score: 75 (全社へのOpenCodeとLiteLLM導入事例)</description>
 </item>
 <item>
 <title>[75] Ubuntu 24.04.5のリリース、Ubuntu 26.10（stonking）の開発; Rust版coreutilsのcp、mv、rmへの移行、CIX P1の正式サポート</title>
@@ -805,6 +797,14 @@
 <pubDate>Fri, 11 Sep 2026 15:00:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>AWS DevOps Agent now enables engineers to manage production operations across AWS, multicloud, and on-premises environments with the complete investigation lifecycle directly within Slack. Previously, on-call engineers and DevOps teams faced fragmented workflows during high-severity incidents, having to context-switch between communication and investigation platforms. This update consolidates both surfaces into a single, unified location where incident response already happens. Engineering teams — AWS What's New / score: 75 (AWS DevOps AgentのSlack連携強化に関する機能追加)</description>
+</item>
+<item>
+<title>[75] Rapidly scaling online storage to serve over 1 billion ChatGPT users</title>
+<link>https://openai.com/index/scaling-storage-one-billion-users-part-one</link>
+<guid isPermaLink="true">https://openai.com/index/scaling-storage-one-billion-users-part-one</guid>
+<pubDate>Fri, 11 Sep 2026 10:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second. — OpenAI News / score: 75 (10億人規模を支える大規模ストレージ設計)</description>
 </item>
 </channel>
 </rss>
