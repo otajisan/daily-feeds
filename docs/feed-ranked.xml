@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 18 Sep 2026 22:08:15 +0000</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 00:23:59 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Google Chrome」に今週2回目のセキュリティ更新、致命的脆弱性2件を含む16件に対処／Windows環境にはv153.0.8010.52/.53が展開中</title>
@@ -21,6 +21,14 @@
 <pubDate>Tue, 08 Sep 2026 10:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean. — OpenAI News / score: 95 (AIによるミレニアム問題の解決と形式検証の快挙)</description>
+</item>
+<item>
+<title>[90] Gemini Hacked Three Companies in First Known Breakout by Google’s AI</title>
+<link>https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/</guid>
+<pubDate>Fri, 18 Sep 2026 23:57:57 +0000</pubDate>
+<category>Simon Willison</category>
+<description>Gemini Hacked Three Companies in First Known Breakout by Google’s AI Gemini finally caught up on Felony Bench ! The hacks, which the company confirmed on Friday, occurred in May as part of a test run by the company Irregular, which was also involved in similar incidents disclosed by OpenAI, Anthropic and Meta. In one of the cases, the model guessed passwords until it gained access to a protected system. In the other two cases, the model found credentials in a public repository that allowed it to — Simon Willison / score: 90 (AIモデルのセキュリティに関する重大な脆弱性報告)</description>
 </item>
 <item>
 <title>[90] Be alert: targeted attacks on prominent Rustaceans</title>
@@ -111,14 +119,6 @@
 <description>MicrosoftでRust向けツールを開発するプリンシパルエンジニアのビクター・チウラ氏が、RustはMicrosoft社内でC++、C#、TypeScriptと並ぶ「Tier 1言語」になっていると明らかにしました。 続きを読む... — GIGAZINE / score: 85 (Microsoft社内でRustがTier 1言語に昇格)</description>
 </item>
 <item>
-<title>[85] 職員採用試験システムへの不正アクセス、全国で相次ぐ　受験者の情報漏えいか</title>
-<link>https://ascii.jp/elem/000/004/436/4436399/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/436/4436399/?rss</guid>
-<pubDate>Fri, 18 Sep 2026 08:50:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>ApplyNowが提供する採用面接システムが不正アクセスを受け、複数の自治体で、職員採用試験の受験者情報が流出した可能性があることが、9月17日までにわかった。 — ASCII.jp / score: 85 (採用システムの不正アクセスと情報漏えい)</description>
-</item>
-<item>
 <title>[85] 「Microsoft Edge 153」にセキュリティ更新、「Chromium」の修正を反映／v153.0.4234.46が安定（Stable）チャネルでリリース</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2142244.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2142244.html</guid>
@@ -149,6 +149,14 @@
 <pubDate>Thu, 17 Sep 2026 22:00:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 85 (クロスプラットフォーム対応が進む「Swift 6.4」正式リリース)</description>
+</item>
+<item>
+<title>[85] OpenAIのAIエージェントが5月13日にHugging Faceのアカウントを不正に乗っ取りサーバーを調査していたことが明らかに、「Hugging Faceハッキングを防げたはず」とセキュリティ研究者</title>
+<link>https://gigazine.net/news/20260917-openai-agents-probed-hugging-face-weaknesses-before-major-hack/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20260917-openai-agents-probed-hugging-face-weaknesses-before-major-hack/</guid>
+<pubDate>Thu, 17 Sep 2026 05:54:51 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>OpenAIは2026年7月に「AIが間違ってHugging Faceをハッキングしてしまった」と報告しました。しかし、この事例よりも2カ月以上前のタイミングで、OpenAIのAIがHugging Faceのアカウントを不正に乗っ取り、サーバーを調査していたことが明らかになっています。 EXCLUSIVE: OpenAI's rogue agents probed Hugging Face for... — はてなブックマーク テクノロジー / score: 85 (AIエージェントによる意図せぬハッキング問題)</description>
 </item>
 <item>
 <title>[85] Windows 11の9月パッチに新たな問題、適用後に一部ドメイン参加PCがサインインできず／「Credential Guard」や「Machine Identity Isolation」を積極導入する企業は注意</title>
@@ -495,14 +503,6 @@
 <description>OpenAIは9月10日、クラウド上でAIエージェントを構築・実行する「Agents API」をパブリックベータとして公開した。Codexを支えるエージェントの実行基盤をAPI経由で提供し、モデルの呼び出しやツール利用の制御、長時間のセッション管理をOpenAIが引き受ける。 — gihyo.jp / score: 80 (AIエージェント構築用APIのパブリックベータ公開)</description>
 </item>
 <item>
-<title>[80] datasette 0.65.4</title>
-<link>https://simonwillison.net/2026/Sep/11/datasette/</link>
-<guid isPermaLink="true">https://simonwillison.net/2026/Sep/11/datasette/</guid>
-<pubDate>Fri, 11 Sep 2026 00:06:55 +0000</pubDate>
-<category>Simon Willison</category>
-<description>Release: datasette 0.65.4 See Datasette 1.0a39 and 0.65.4 security releases on the Datasette blog. Tags: security , datasette — Simon Willison / score: 80 (Datasetteのセキュリティアップデートリリース)</description>
-</item>
-<item>
 <title>[80] Build more natural voice experiences with GPT‑Live‑1 in the API</title>
 <link>https://openai.com/index/introducing-gpt-live-1-in-the-api</link>
 <guid isPermaLink="true">https://openai.com/index/introducing-gpt-live-1-in-the-api</guid>
@@ -591,20 +591,20 @@
 <description>はじめに Jevが話題ですね。 文章を書かないAIと紹介されていますが、では代わりに何を返すんでしょうか。 この記事は、Jevが何をするものかの解像度を上げるために自分なりに整理したものです。 ざっくりまとめ 公開元と時期 — サンフランシスコのTypeSafe A... — Qiita 人気記事 / score: 75 (話題の判断特化AIモデルJevの解説)</description>
 </item>
 <item>
-<title>[75] Jevでハーネスエンジニアリング</title>
-<link>https://zenn.dev/watany/articles/36e11a20ce3743</link>
-<guid isPermaLink="true">https://zenn.dev/watany/articles/36e11a20ce3743</guid>
-<pubDate>Fri, 18 Sep 2026 05:03:18 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>この記事は、今日参加するイベントで画面表示する目的と、 今日発売されるSoftware Design 2026/10の宣伝ついでに書いています。 Jevって？ Jevは、状態と質問を受け取り、型付きの回答を確率とともに返すモデルである。チャッピー！それってLLMと何が違うの？ 図を書いて。いいよ。 Jevの提供元のTypeSafe AIは、こうし... — はてなブックマーク テクノロジー / score: 75 (構造化出力モデルJevを用いた新しい開発手法の解説)</description>
-</item>
-<item>
 <title>[75] Huaweiが次世代AIチップ「Ascend 960DT」を2027年初めに前倒し投入、最大100万個のプロセッサーを連携させる構想も発表</title>
 <link>https://gigazine.net/news/20260918-huawei-ascend-960dt20260918-huawei-ascend-960dt/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260918-huawei-ascend-960dt20260918-huawei-ascend-960dt/</guid>
 <pubDate>Fri, 18 Sep 2026 02:20:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>Huaweiが次世代AIチップ「Ascend 960DT」を2027年第1四半期に投入する計画を発表しました。同社は多数のチップを接続する大規模なAIシステムの開発も進めており、NVIDIAに対抗する方針です。 続きを読む... — GIGAZINE / score: 75 (Huaweiの次世代AIチップ前倒し投入と大規模クラスタ構想)</description>
+</item>
+<item>
+<title>[75] Jevでハーネスエンジニアリング</title>
+<link>https://zenn.dev/watany/articles/36e11a20ce3743</link>
+<guid isPermaLink="true">https://zenn.dev/watany/articles/36e11a20ce3743</guid>
+<pubDate>Fri, 18 Sep 2026 02:16:33 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>この記事は、今日参加するイベントで画面表示する目的と、 https://minorun365.connpass.com/event/407308/ 今日発売されるSoftware Design 2026/10の宣伝ついでに書いています。 https://gihyo.jp/magazine/SD/archive/2026/202610 Jevって？ Jevは、状態と質問を受け取り、型付きの回答を確率とともに返すモデルである。チャッピー！それってLLMと何が違うの？ 図を書いて。いいよ。 Jevの提供元のTypeSafe AIは、こうしたソフトウェア向けの意思決定モデルを「System... — Zenn トレンド / score: 75 (構造化出力モデルJevを用いた新しい開発手法の解説)</description>
 </item>
 <item>
 <title>[75] Ubuntu 24.04.5のリリース、Ubuntu 26.10（stonking）の開発; Rust版coreutilsのcp、mv、rmへの移行、CIX P1の正式サポート | gihyo.jp</title>
