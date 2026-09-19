@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sat, 19 Sep 2026 16:08:43 +0000</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 18:10:04 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Google Chrome」に今週2回目のセキュリティ更新、致命的脆弱性2件を含む16件に対処／Windows環境にはv153.0.8010.52/.53が展開中</title>
@@ -133,14 +133,6 @@
 <pubDate>Sat, 19 Sep 2026 02:00:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>サイバーセキュリティスタートアップ・Hacktron AIのセキュリティ研究者が、AnthropicのClaudeを使ってOpenAIの内部データにアクセスすることに成功したと報告しています。 続きを読む... — GIGAZINE / score: 85 (AIを用いたAI企業へのセキュリティ侵害事例)</description>
-</item>
-<item>
-<title>[85] GoogleのAIも他社システムに侵入　事故直後に停止、公表せず - 日本経済新聞</title>
-<link>https://www.nikkei.com/article/DGXZQOGN190C40Z10C26A9000000/</link>
-<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOGN190C40Z10C26A9000000/</guid>
-<pubDate>Sat, 19 Sep 2026 01:53:51 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>【シリコンバレー=伴正春】米グーグルが開発中の人工知能（AI）が5月に実在する外部企業3社のシステムに侵入していたことが18日わかった。評価テストで誤ってインターネットに接続できる設定になっていた。AI自身が侵入に気付き、動作を止めたという。米紙ウォール・ストリート・ジャーナル（WSJ）が報じた。グーグルは... — はてなブックマーク テクノロジー / score: 85 (Google製AIの外部システムへの不正侵入事故報道)</description>
 </item>
 <item>
 <title>[85] MicrosoftでRustが「Tier 1言語」に、C++・C#・TypeScriptと並ぶ重要言語として手厚く支援</title>
@@ -565,6 +557,14 @@
 <pubDate>Sat, 19 Sep 2026 11:00:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>大規模言語モデル(LLM)や画像・動画生成AIを高速実行するにはモデル全体を高速なVRAMに収める必要があります。しかし、AI需要に伴うグラフィックボードの価格高騰によって、VRAM容量32GBのNVIDIA GeForce RTX 5090は100万円を超えるようになってしまいました。一方で、Intel製GPU「Intel Arc Pro B70」を搭載したVRAM容量32GBのASRock製グラフィックボード「Intel Arc Pro B70 Creator 32GB」は30万円以下で購入可能。そんなIntel Arc Pro B70 Creator 32GBを実際に購入したので、LLMや動画生成AIなどを実際に実行してみました。 続きを読む... — GIGAZINE / score: 75 (高コスパ大容量VRAMグラボでのAI実行検証)</description>
+</item>
+<item>
+<title>[75] AWS PrivateLink の新機能「トンネルエンドポイント」を試してみた | DevelopersIO</title>
+<link>https://dev.classmethod.jp/articles/aws-privatelink-tunnel-endpoint-cross-account/</link>
+<guid isPermaLink="true">https://dev.classmethod.jp/articles/aws-privatelink-tunnel-endpoint-cross-account/</guid>
+<pubDate>Sat, 19 Sep 2026 10:40:33 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>AWS PrivateLink に追加されたトンネルエンドポイントを検証しました。クロスアカウントで CIDR レンジ単位のネットワークへプライベートにアクセスでき、接続元では GENEVE リレーが必要ですが、アプリは変更不要です。HTTP 疎通・DNS 解決・CIDR 境界を確認しました。 はじめに 2026年9月18日、AWS PrivateLink にトン... — はてなブックマーク テクノロジー / score: 75 (AWSの新機能に関する実用的な検証記事)</description>
 </item>
 <item>
 <title>[75] 無料でAIエージェントの追跡・評価・プロンプト管理・本番環境の監視ができる「Opik」、セルフホスト可能</title>
