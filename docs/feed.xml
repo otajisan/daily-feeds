@@ -4,8 +4,16 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sat, 19 Sep 2026 20:08:13 +0000</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 22:08:14 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>datasette-auth-github 1.0</title>
+<link>https://simonwillison.net/2026/Sep/19/datasette-auth-github/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Sep/19/datasette-auth-github/</guid>
+<pubDate>Sat, 19 Sep 2026 19:52:02 +0000</pubDate>
+<category>Simon Willison</category>
+<description>Release: datasette-auth-github 1.0 I run this GitHub login plugin on the agent.datasette.io demo site and I noticed that my authenticated sessions weren't lasting very long. It turned out that the plugin was setting cookies without a Max-Age parameter, so they were expiring at the end of a browser session (which in Mobile Safari seems to happen pretty often, independently of how you are using the app.) I fixed that in #80 and, since this plugin has been around for quite a while and is tested aga — Simon Willison / score: 60 (Datasette向けGitHub認証プラグインのメジャーリリース)</description>
+</item>
 <item>
 <title>iPhone18 Pro Max「発送準備」機能と20Whの壁〜技術的背景と影響</title>
 <link>https://iphone-mania.jp/iphone18-606240/</link>
@@ -21,6 +29,30 @@
 <pubDate>Sat, 19 Sep 2026 17:10:08 +0000</pubDate>
 <category>Simon Willison</category>
 <description>California Sea Lion, Brandt's Cormorant, in Pillar Point Harbor, CA, US I only noticed this after I had taken the photo: Morris the Northern Gannet is peeking out from behind the base of the sign. Tags: wildlife — Simon Willison / score: 10 (技術に関連しない個人的な写真の共有)</description>
+</item>
+<item>
+<title>jev-lint: コード中の命名やコメントが嘘になってないかを高速に確認</title>
+<link>https://zenn.dev/mizchi/articles/jev-lint-intro</link>
+<guid isPermaLink="true">https://zenn.dev/mizchi/articles/jev-lint-intro</guid>
+<pubDate>Sat, 19 Sep 2026 15:59:25 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>jev-lint とは 気づいたら関数名が実態とズレていたり、昔書いたテストケース名やコメントが嘘になっていた、という問題に遭遇したことはありませんか？ それに対して、jev-lint というツールを作りました。 詳細はリポジトリ内の skill を AI に読ませればわかると思いますが、 npx -y jev-lint で動きます。 jev-lint ... — はてなブックマーク テクノロジー / score: 45 (コードの命名やコメントの整合性を確認するツール解説)</description>
+</item>
+<item>
+<title>データセンター、お金を払わず水を1億1000万リットル使用 | ギズモード・ジャパン</title>
+<link>https://www.gizmodo.jp/article/georgia-data-center-secretly-guzzled-30-million-gallons-of-water-before-paying-a-dime-rfk/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/georgia-data-center-secretly-guzzled-30-million-gallons-of-water-before-paying-a-dime-rfk/</guid>
+<pubDate>Sat, 19 Sep 2026 15:30:11 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>2026年5月16日の記事を編集して再掲載しています。 データセンターはどうして積極的に評判を悪くするのやら…。 昨年、ジョージア州フェイエットビルにある富裕層向けの高級住宅地Annelise Parkの住民たちが、水圧が異常に低下していることに気づきはじめました。 報告を受けた郡の水道局が調査したところ、衝撃的な事実... — はてなブックマーク テクノロジー / score: 30 (データセンターの水資源利用に関する社会問題のニュース。)</description>
+</item>
+<item>
+<title>Jevと迷惑メールの分類対決をする</title>
+<link>https://qiita.com/shiv-ko/items/a03658b7bbf6cfe44a63?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/shiv-ko/items/a03658b7bbf6cfe44a63?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Sat, 19 Sep 2026 15:29:01 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>はじめに 最近話題のJev！ ざっと情報を見た感じ、文章出力をなくして、構造化した出力のみを行う判断用AIという印象ですが、なんといっても気になるのはその精度とコスト。 こういう技術は触ってみないことには何も始まらないというものです。Jev公式のメーリングリストは登録済み... — Qiita 人気記事 / score: 40 (新しいAIモデルと迷惑メール分類の精度比較検証)</description>
 </item>
 <item>
 <title>iPhone・Android間で「RCS」相互利用が可能に！</title>
@@ -95,12 +127,28 @@
 <description>TCLの新タブレット「A1 NXTPAPER」の発表情報をお届け。紙のようなマットな質感と目に優しいディスプレイの魅力やスペックを解説します。 — ギズモード・ジャパン / score: 25 (新型タブレット端末の製品紹介)</description>
 </item>
 <item>
+<title>無料でAIエージェントの追跡・評価・プロンプト管理・本番環境の監視ができる「Opik」、セルフホスト可能</title>
+<link>https://gigazine.net/news/20260919-opik/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20260919-opik/</guid>
+<pubDate>Sat, 19 Sep 2026 11:39:25 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>AIアプリの開発ではLLMが生成した回答を確認するだけでなく、どの処理を経由して回答に到達したのかを追跡し、改善後の結果を比較する作業も必要になります。これらの検証に必要なトレーシング・評価・プロンプト管理・本番監視を1つの画面にまとめたオープンソースの「Opik」が公開されています。 Open-Source AI Obser... — はてなブックマーク テクノロジー / score: 75 (AIアプリ開発向けの便利なOSSツール紹介)</description>
+</item>
+<item>
 <title>GitHub - eval-exec/neomacs: NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design &amp; multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.</title>
 <link>https://github.com/eval-exec/neomacs</link>
 <guid isPermaLink="true">https://github.com/eval-exec/neomacs</guid>
 <pubDate>Sat, 19 Sep 2026 11:15:29 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>"I started Neomacs because I love Emacs, I respect Emacs, and I want to evolve the legendary Emacs into the ultimate modern powerhouse." — Eval Exec ✨ "While other editors can save your files, only Emacs can save your soul." ✨ Emacs, rewritten in Rust — unleashed on the GPU, fixing what 40 year... — はてなブックマーク テクノロジー / score: 75 (Rust製GPU駆動のモダンなEmacs実装)</description>
+</item>
+<item>
+<title>【RHELハンズオン Day01】httpdは動いている。でも自動起動する？ 状態確認から学んだこと</title>
+<link>https://qiita.com/kentyo0813/items/9a5b001c96c8e4497c34?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/kentyo0813/items/9a5b001c96c8e4497c34?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Sat, 19 Sep 2026 11:12:40 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>こんにちは 10月1日から再び働きはじめるにあたり、ITのカンを失わないように毎日RHELでハンズオンしております。 自分なりにAIからの指示を噛み砕きながらやってますが、忘れっぽいので後で見返せるようにここに残しておきます。 Codexを使って当時のスクショ整理しつつ... — Qiita 人気記事 / score: 25 (RHELのハンズオンにおける基本的な操作の学習記録)</description>
 </item>
 <item>
 <title>VRAM容量32GBで30万円未満なIntelグラボ「Intel Arc Pro B70 Creator 32GB」でローカルLLM「Qwen3.8 27B」や動画生成AI「MiniMax H3」を実行して生成速度を確かめてみた</title>
@@ -149,6 +197,14 @@
 <pubDate>Sat, 19 Sep 2026 10:37:16 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>日本語版はこちら A grep that finds lines by what they mean, not by regular expressions. Matching is done by Jev, the System One model from TypeSafe AI. Jev does not generate text. It answers typed questions with probabilities, so for every line semgrep asks "does this line match the meaning netwo... — はてなブックマーク テクノロジー / score: 45 (意味ベースのコード検索ツールの紹介)</description>
+</item>
+<item>
+<title>Jevで要件定義書をレビューするアプリを作った</title>
+<link>https://qiita.com/miso_taku/items/b5e2150055933b51fba3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/miso_taku/items/b5e2150055933b51fba3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Sat, 19 Sep 2026 10:36:55 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>はじめに 2026年9月にリリースされた TypeSafe の Jev という「文章を生成しないAIモデル」で要求定義書をレビューするアプリを作成しました。19の観点から要件定義書を一括評価し、不足している項目と改善ガイダンスを表示する Streamlit アプリです。 ... — Qiita 人気記事 / score: 45 (AIモデルを活用した要件定義書レビューアプリの作成)</description>
 </item>
 <item>
 <title>ゲーム開発に「ローカルLLM」を取り込む必然性とは？ メインメモリーの96GBをVRAM化するAI特化「DAIV」が示すPCの変革【TGS2026特集】</title>
@@ -247,20 +303,20 @@
 <description>https://www.yodobashi.com/product/100000001010215183/ 東プレのREALFORCEシリーズから、左右分割型のキーボード「REALFORCE RS1」が登場しています。 2026年9月19日時点では、ヨドバシ.comとビックカメラ.comに商品ページが掲載されています。REALFORCE公式サイトではまだ大きく案内されていないようですが、量販店側... — はてなブックマーク テクノロジー / score: 35 (東プレの新型分割キーボード発売の話題)</description>
 </item>
 <item>
+<title>ｽﾀｯｸﾁｬﾝの会話の判断を Jev に任せてみた</title>
+<link>https://qiita.com/kamo-shika/items/99b9a1e6213857126c66?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/kamo-shika/items/99b9a1e6213857126c66?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Sat, 19 Sep 2026 09:01:19 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>はじめに 最近ｽﾀｯｸﾁｬﾝと Fitbit Air を買いました。Databricks も合わせて、自分の健康データをいろいろ収集・集計して遊んでいます。 いま実装しているのは、以下の機能です。 朝・昼・晩に、健康データをもとにｽﾀｯｸﾁｬﾝから報告させる 本体を軽く... — Qiita 人気記事 / score: 35 (スタックチャンとAIを組み合わせた個人の工作記事)</description>
+</item>
+<item>
 <title>最強のシンセサイザーのひとつ、Vengeance Sound「VPS Avenger 2」が50%OFF！</title>
 <link>https://computermusic.jp/2026/09/vps-avenger-2/</link>
 <guid isPermaLink="true">https://computermusic.jp/2026/09/vps-avenger-2/</guid>
 <pubDate>Sat, 19 Sep 2026 09:00:58 +0000</pubDate>
 <category>Computer Music Japan</category>
 <description>最強のシンセサイザーのひとつ、Vengeance Sound「VPS Avenger 2」が50%OFFとなっています。 ＼エキパンも半額／ PluginBoutuqueでは、毎年9月恒例のシンセ月間、SynthMont... The post 最強のシンセサイザーのひとつ、Vengeance Sound「VPS Avenger 2」が50%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 25 (定番シンセサイザーのプラグインセール情報)</description>
-</item>
-<item>
-<title>無料でAIエージェントの追跡・評価・プロンプト管理・本番環境の監視ができる「Opik」、セルフホスト可能</title>
-<link>https://gigazine.net/news/20260919-opik/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260919-opik/</guid>
-<pubDate>Sat, 19 Sep 2026 09:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>AIアプリの開発ではLLMが生成した回答を確認するだけでなく、どの処理を経由して回答に到達したのかを追跡し、改善後の結果を比較する作業も必要になります。これらの検証に必要なトレーシング・評価・プロンプト管理・本番監視を1つの画面にまとめたオープンソースの「Opik」が公開されています。 続きを読む... — GIGAZINE / score: 75 (AIアプリ開発向けの便利なOSSツール紹介)</description>
 </item>
 <item>
 <title>おっ、持ち運べる11.6型ノートPCが10万円台！ FMV直販に注目！</title>
@@ -327,6 +383,14 @@
 <description>iOS27のリリースに伴い、Appleの有料クラウドサービス「iCloud+」の特典内容が大きく更新されました。 これまでのiCloud+は「写真やデータのバックアップ」「プライベートリレーによるプライバシー保護」といっ […] — iPhone Mania / score: 55 (OS新機能とiCloud+の変更点解説)</description>
 </item>
 <item>
+<title>Spinelすげえ！ Rubyの動的型付けがそのままCに！</title>
+<link>https://qiita.com/tj9999/items/f59ab88f9e0de733659f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/tj9999/items/f59ab88f9e0de733659f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Sat, 19 Sep 2026 08:01:43 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>RubyのAOTコンパイラって何だ？ まつもと ゆきひろさんがRubyのAOT（Ahead Of Time : 事前）コンパイラ「Spinel」をリリースされましたね。 https://github.com/matz/spinel これの開発エピソードが日系ソフトウェア2... — Qiita 人気記事 / score: 70 (RubyのAOTコンパイラSpinelのリリース話題)</description>
+</item>
+<item>
 <title>GitHub Actions向けUbuntu 26.04ランナーが一般提供開始</title>
 <link>https://codezine.jp/article/detail/29755</link>
 <guid isPermaLink="true">https://codezine.jp/article/detail/29755</guid>
@@ -357,6 +421,14 @@
 <pubDate>Sat, 19 Sep 2026 08:00:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>iPhone 18 Proの高速充電に必要な条件を満たす、最安・最小クラスのUGREEN製65W充電器をご紹介。ケーブル付きでAmazonで買えるおすすめの選択肢です。 — ギズモード・ジャパン / score: 30 (スマートフォン向け充電器の紹介記事)</description>
+</item>
+<item>
+<title>生成AIセキュリティを学んで変わった「AIを安全に使う」という考え方</title>
+<link>https://qiita.com/kf_webdev/items/cbd1d7bb724676a3b686?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/kf_webdev/items/cbd1d7bb724676a3b686?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Sat, 19 Sep 2026 07:56:25 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>はじめに 現在、Webエンジニアを目指して学習を進める中で、AI駆動開発についても学んでいます。今回は、Happiness Chainのカリキュラムで生成AIセキュリティについて学ぶ機会があり、Prompt InjectionやJailbreak、情報漏洩、RAGのセキュ... — Qiita 人気記事 / score: 40 (生成AIセキュリティの学習に関する感想と学び)</description>
 </item>
 <item>
 <title>｢iPhone 18 Pro Max｣を発送する場合、充電を制限する｢発送準備｣機能を利用する必要あり</title>
@@ -631,14 +703,6 @@
 <description>アメリカのIT大手「グーグル」が開発した生成AIが、ことし5月におこなわれたサイバー能力の試験中に、実在する企業3社のシステムに侵入していたことがわかりました。 アメリカの有力紙、ウォール・ストリ… — はてなブックマーク テクノロジー / score: 65 (AIがシステム侵入を行った事例のニュース)</description>
 </item>
 <item>
-<title>アンソロピック、AIの安全評価にアクセンチュア起用 - 日本経済新聞</title>
-<link>https://www.nikkei.com/article/DGXZQOGN190JI0Z10C26A9000000/</link>
-<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOGN190JI0Z10C26A9000000/</guid>
-<pubDate>Sat, 19 Sep 2026 04:39:11 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>【シリコンバレー=山田遼太郎】米アンソロピックは18日、人工知能（AI）開発の安全性評価にコンサルティング大手アクセンチュアを起用すると発表した。両社は今後5年で各10億ドル（約1570億円）を投じ、AIの安全対策を検証する体制を整える。アンソロピックのダリオ・アモデイ最高経営責任者（CEO）は最先端AIの開発減速... — はてなブックマーク テクノロジー / score: 75 (AIの安全性評価に関する大型提携ニュース)</description>
-</item>
-<item>
 <title>【9/21まで】AIクレジット無償付与１年間延長クーポンプレゼント！オールインワンAIミュージックワークステーション、ACE Studioが最大27%OFF！</title>
 <link>https://computermusic.jp/2026/09/ace-studio/</link>
 <guid isPermaLink="true">https://computermusic.jp/2026/09/ace-studio/</guid>
@@ -663,20 +727,28 @@
 <description>iPhone Duoの発表が思わぬ影響？ライバル機Galaxy Z Fold8の売り上げが急増した理由と、10万円の価格差がもたらすスマホ市場の動向を解説します。 — ギズモード・ジャパン / score: 40 (スマートフォン市場の動向ニュース)</description>
 </item>
 <item>
-<title>TypeSafe AI の Jev を TypeScript で試してみた</title>
-<link>https://azukiazusa.dev/blog/jev-support-routing/</link>
-<guid isPermaLink="true">https://azukiazusa.dev/blog/jev-support-routing/</guid>
-<pubDate>Sat, 19 Sep 2026 04:22:07 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>System One はダニエル・カーネマンの著書『ファスト＆スロー』で紹介される「システム 1」に由来します。システム 1 は直感的で素早い判断を行う脳の働きで、システム 2 はより慎重で論理的な判断を行う働きです。Jev はシステム 1 のように、文章の意味を踏まえた直感的な判断を返すモデルとして設計されています。 例... — はてなブックマーク テクノロジー / score: 40 (TypeScriptでTypeSafe AIを試す技術解説)</description>
-</item>
-<item>
 <title>究極のマスタリングツール、Slate Digital「FG-X 2」が50%OFF！</title>
 <link>https://computermusic.jp/2026/09/fg-x-2-sale/</link>
 <guid isPermaLink="true">https://computermusic.jp/2026/09/fg-x-2-sale/</guid>
 <pubDate>Sat, 19 Sep 2026 04:16:12 +0000</pubDate>
 <category>Computer Music Japan</category>
 <description>究極のマスタリングツール、Slate Digital「FG-X 2」が50%OFFとなっています。 Slate Digitalでは、フォーカスセールを開催中です。対象製品が50%OFFとなっているので、合わせてチェックし... The post 究極のマスタリングツール、Slate Digital「FG-X 2」が50%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 25 (音楽制作向けマスタリングツールのセール情報)</description>
+</item>
+<item>
+<title>ハーネス（OpenCode）＋ローカルLLM ７モデル比較で Qwen3.8-Flash-Next が満点！</title>
+<link>https://qiita.com/nabe2030/items/ad2b6c223e5992ba78e4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/nabe2030/items/ad2b6c223e5992ba78e4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Sat, 19 Sep 2026 04:12:57 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>TL;DR：概略まとめ 自宅ラボの実案件（ファイルサーバのカタログDB設計）を ３つの課題に分け、同じハーネス（OpenCode）・同じ指示書で 7 つのローカルLLM に解かせた。課題は「SSHアクセスで対象サーバを調べ、既存の運用スクリプトを読み解き、制約付きで設計... — Qiita 人気記事 / score: 45 (ローカルLLM7モデルの性能比較検証記事)</description>
+</item>
+<item>
+<title>FASTをやめて1年が経ったので取り組みを振り返る｜Yoshiki Iida</title>
+<link>https://note.com/ysk_118/n/n826b7b51604b</link>
+<guid isPermaLink="true">https://note.com/ysk_118/n/n826b7b51604b</guid>
+<pubDate>Sat, 19 Sep 2026 04:08:57 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>はじめにこんにちは、ログラスの飯田です。 ログラスの経営管理プロダクトの組織では2024年8月からFASTというアジャイルフレームワークを用い開発を行っていました。 当時、国内の事例はほとんどなく、ログラスからは国内初の事例としてFASTに関する記事を積極的に発信していたのでご存じの方もいるかもしれません。 さ... — はてなブックマーク テクノロジー / score: 50 (アジャイルフレームワークFAST導入の1年振り返り)</description>
 </item>
 <item>
 <title>iPhone18 Proの在庫情報【9/19】〜公式と家電量販店SIMフリー最新状況</title>
@@ -733,78 +805,6 @@
 <pubDate>Sat, 19 Sep 2026 03:46:21 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>本記事は Claude Code Issue #91870 で議論中の暫定仕様（2026年9月19日時点）をもとにしています。APIは今後変更される可能性があるため、最新情報は公式サイトを参照してください。 noguです。 先日、Claude CodeにClaude Modsという機能が公開されました。 これは、TypeScriptの関数を用いて、Claude Codeの機能や見... — はてなブックマーク テクノロジー / score: 65 (Claude Codeの拡張機能に関する技術解説)</description>
-</item>
-<item>
-<title>Claude Code、AGENTS.mdに対応 ——/configで指示ファイルの読み込みを設定</title>
-<link>https://gihyo.jp/article/2026/09/claude-code-support-agents-md?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/09/claude-code-support-agents-md?utm_source=feed</guid>
-<pubDate>Sat, 19 Sep 2026 03:45:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>AnthropicでClaude Codeの開発に携わるThariq Shihipar氏は9月18日、AIコーディングツールClaude Codeがバージョン2.1.277からAGENTS.mdに対応したとXで案内した。 — gihyo.jp / score: 60 (Claude CodeのAGENTS.md対応アップデート)</description>
-</item>
-<item>
-<title>「もっと歩け」に疲れたら。あれこれ言ってこないスマートウォッチが心地よかった</title>
-<link>https://www.gizmodo.jp/article/2609-pebble-time-2-review/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2609-pebble-time-2-review/</guid>
-<pubDate>Sat, 19 Sep 2026 03:45:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>「もっと歩け」に疲れたあなたへ。多機能な現代のスマートウォッチとは一線を画す、心地よいシンプルさと遊び心を持ったPebble Time 2の魅力をご紹介します。 — ギズモード・ジャパン / score: 15 (ガジェットの個人的な使用感に関するコラムのため)</description>
-</item>
-<item>
-<title>【福田昭のセミコン業界最前線】 DRAMとNANDの暴騰で、想定外の急激な膨張を続ける2026年の半導体市場</title>
-<link>https://pc.watch.impress.co.jp/docs/column/semicon/2142421.html</link>
-<guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/column/semicon/2142421.html</guid>
-<pubDate>Sat, 19 Sep 2026 03:40:11 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>【福田昭のセミコン業界最前線】 DRAMとNANDの暴騰で、想定外の急激な膨張を続ける2026年の半導体市場 — はてなブックマーク テクノロジー / score: 45 (2026年の半導体市場動向に関する業界レポート)</description>
-</item>
-<item>
-<title>ベストセラーかつ数々の賞を受賞したオーケストラ音源2製品バンドル、EastWest「Sounds Symphonic Orchestra and Hollywood Choirs」が81%OFF！</title>
-<link>https://computermusic.jp/2026/09/eastwest-sounds-symphonic-orchestra-and-hollywood-choirs/</link>
-<guid isPermaLink="true">https://computermusic.jp/2026/09/eastwest-sounds-symphonic-orchestra-and-hollywood-choirs/</guid>
-<pubDate>Sat, 19 Sep 2026 03:31:37 +0000</pubDate>
-<category>Computer Music Japan</category>
-<description>ベストセラーかつ数々の賞を受賞したオーケストラ音源2製品バンドル、EastWest「Sounds Symphonic Orchestra and Hollywood Choirs」が81%OFFとなっています。 EAST... The post ベストセラーかつ数々の賞を受賞したオーケストラ音源2製品バンドル、EastWest「Sounds Symphonic Orchestra and Hollywood Choirs」が81%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 30 (オーケストラ音源のバンドルセール)</description>
-</item>
-<item>
-<title>Meta、カメラ非搭載のスマートグラスも発表予定？</title>
-<link>https://www.gizmodo.jp/article/meta-luna-smart-glasses-may-drastically-tone-down-the-creep-factor/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/meta-luna-smart-glasses-may-drastically-tone-down-the-creep-factor/</guid>
-<pubDate>Sat, 19 Sep 2026 03:30:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>Meta Connect 2026で発表が噂されるカメラ非搭載の新型スマートグラス「Luna」の最新情報をお届け。プライバシー配慮や軽量化など、注目の特徴を分かりやすく解説します。 — ギズモード・ジャパン / score: 25 (未発表デバイスの噂であり技術的詳細が不明なため)</description>
-</item>
-<item>
-<title>HKC、KOORUI・ANTGAMERとともにTGS2026に出展モニターの実機体験と参加型イベントを開催</title>
-<link>https://ascii.jp/elem/000/004/436/4436499/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/436/4436499/?rss</guid>
-<pubDate>Sat, 19 Sep 2026 03:29:24 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>HKC、KOORUI・ANTGAMERとともにTGS2026に出展モニターの実機体験と参加型イベントを開催 — ASCII.jp / score: 15 (展示会への出展予定に関する告知)</description>
-</item>
-<item>
-<title>「Googleでログイン」を押したあと、Googleはサービスにパスワードを渡していない。じゃあ何を渡しているのか？</title>
-<link>https://qiita.com/ktdatascience/items/6aec726eac024e83651b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/ktdatascience/items/6aec726eac024e83651b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Sat, 19 Sep 2026 03:20:18 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>はじめに 「Googleでログイン」は毎日押しているのに、押したあとに何が飛んでいるかを説明できる人は意外と少ない。この記事では、あの1クリックの裏側を、Googleのパスワードがサービスに渡らない理由から、サービスが受け取る「2種類の券」の違いまで順に整理します。 ... — Qiita 人気記事 / score: 60 (OAuth認証の仕組みの分かりやすい解説)</description>
-</item>
-<item>
-<title>iPhone18 Pro Maxのロジックボードを分析〜搭載部品が詳しく報告</title>
-<link>https://iphone-mania.jp/iphone18-606200/</link>
-<guid isPermaLink="true">https://iphone-mania.jp/iphone18-606200/</guid>
-<pubDate>Sat, 19 Sep 2026 03:20:04 +0000</pubDate>
-<category>iPhone Mania</category>
-<description>iPhone18 Pro Maxを分解し、ロジックボードなどに搭載されている部品をTechInsightsが詳しく報告しています。 分解の対象になったのは米国向けiPhone18 Pro Max（A3473）で、Qual […] — iPhone Mania / score: 25 (新型iPhoneのハードウェア分解レポート)</description>
-</item>
-<item>
-<title>「対話した」とは、何をしたことなのか？</title>
-<link>https://ascii.jp/elem/000/004/436/4436501/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/436/4436501/?rss</guid>
-<pubDate>Sat, 19 Sep 2026 03:10:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>「対話した」とは、何をしたことなのか？ — ASCII.jp / score: 35 (AIの対話に関する一般的な考察記事)</description>
 </item>
 </channel>
 </rss>
