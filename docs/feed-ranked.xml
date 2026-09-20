@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sun, 20 Sep 2026 08:11:25 +0000</lastBuildDate>
+<lastBuildDate>Sun, 20 Sep 2026 10:08:11 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Google Chrome」に今週2回目のセキュリティ更新、致命的脆弱性2件を含む16件に対処／Windows環境にはv153.0.8010.52/.53が展開中</title>
@@ -591,14 +591,6 @@
 <description>Ubuntu 24.04 LTSの5番目のポイントリリース、24.04.5と、デスクトップ版にのみ「24.04.5.1」がリリースされました。 — gihyo.jp / score: 75 (Ubuntu 24.04.5リリースとRust版coreutils移行の話題)</description>
 </item>
 <item>
-<title>[75] 【Jev】文章を返さない判断モデル Jev とは？〜システム運用での活用方法についても想像してみる〜</title>
-<link>https://qiita.com/ryu-ki/items/e3fe99b5f6704d08a19b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/ryu-ki/items/e3fe99b5f6704d08a19b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Thu, 17 Sep 2026 23:55:25 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>はじめに TypeSafe AI という会社が Jev というモデルを発表しました。文章を生成しない、質問に対して判断と確率だけを返す、というモデルです。 早期アクセスの段階で私は触れていません。が、面白そうな代物なので、前半でドキュメントに書いてあることを、後半で... — Qiita 人気記事 / score: 75 (非生成型AIモデルJevの仕組みと解説)</description>
-</item>
-<item>
 <title>[75] AWS、フルスタックアプリの基本コードからインフラ構成まで一気通貫する「Nx Plugin for AWS 1.0」発表</title>
 <link>https://codezine.jp/article/detail/29733</link>
 <guid isPermaLink="true">https://codezine.jp/article/detail/29733</guid>
@@ -613,14 +605,6 @@
 <pubDate>Thu, 17 Sep 2026 15:59:39 +0000</pubDate>
 <category>Publickey</category>
 <description>データベースサービスを提供しているPlanetScaleは、PostgreSQLのシャーディングを自動化してスケーラブルなデータベースサービスを提供する「Neki」をプレビュー公開しました。 118,538,803 queries per ... — Publickey / score: 75 (PostgreSQLの自動シャーディング新DBサービスのプレビュー公開)</description>
-</item>
-<item>
-<title>[75] 24時間動き続けるAIエージェント：途中で「死なない」ようにする設計</title>
-<link>https://qiita.com/Ikegamik_genee/items/a628f20cd7fe262cbeb4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/Ikegamik_genee/items/a628f20cd7fe262cbeb4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Thu, 17 Sep 2026 03:06:19 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>24時間動き続けるAIエージェント：途中で「死なない」ようにする設計 なぜこれが難しいのか AIエージェントをデモとして動かすだけなら簡単です。LLMを呼び、結果を受け取り、画面に出力する。それだけで済みます。しかし、エージェントを何時間も、何日も連続で動かし、ツール呼... — Qiita 人気記事 / score: 75 (長時間稼働するAIエージェントの設計手法)</description>
 </item>
 <item>
 <title>[75] Amazon Corretto 27 is now generally available</title>
@@ -775,14 +759,6 @@
 <description>Googleは9月8日、WebブラウザーChrome 153（安定版）を公開し、リリース周期を4週間から2週間へ短縮した。 — gihyo.jp / score: 75 (Chromeのリリース周期短縮の変更)</description>
 </item>
 <item>
-<title>[75] Microsoft FoundryでClaudeが一般提供開始：欧州企業はデプロイ不可</title>
-<link>https://www.infoq.com/jp/news/2026/09/claude-foundry-ga-europe/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-<guid isPermaLink="true">https://www.infoq.com/jp/news/2026/09/claude-foundry-ga-europe/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-<pubDate>Wed, 09 Sep 2026 06:30:00 +0000</pubDate>
-<category>InfoQ Japan</category>
-<description>AnthropicとMicrosoftは、Microsoft FoundryにおけるClaudeモデルの一般提供開始を発表した。これによりAzure顧客は、ネイティブ認証、課金、ガバナンスを通じてClaude Opus 4.8とClaude Haiku 4.5を利用できる。利用料金は既存のMicrosoft Azure Consumption Commitment（MACC）が充当される。 その数日後にはSonnet 5も追加され、8月31日まで入力／出力100万トークン当たり2ドル／10ドルのプロモーション価格で提供される。 By Steef-Jan Wiggers Translated by Hiroaki.Sugimura — InfoQ Japan / score: 75 (主要クラウドでのClaude一般提供とリージョン制約)</description>
-</item>
-<item>
 <title>[75] ChatGPT Workにユーザーの書く文章スタイルを学習して文書作成に反映させる機能が追加</title>
 <link>https://gihyo.jp/article/2026/09/chatgpt-learning-writing-style?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/09/chatgpt-learning-writing-style?utm_source=feed</guid>
@@ -805,6 +781,30 @@
 <pubDate>Mon, 07 Sep 2026 07:34:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>OpenAIのGreg Brockman氏やMark Chen氏、NVIDIAのJensen Huang氏が、Xへの投稿でAGI（汎用人工知能）の到来や、その時代への移行に言及した。 — gihyo.jp / score: 75 (AGI到来に関する業界トップの発言)</description>
+</item>
+<item>
+<title>[70] GitHub - waka/sghtmltopdf: The second generation of wkhtmltopdf and wicked_pdf</title>
+<link>https://github.com/waka/sghtmltopdf</link>
+<guid isPermaLink="true">https://github.com/waka/sghtmltopdf</guid>
+<pubDate>Sun, 20 Sep 2026 03:18:47 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>An HTML-to-PDF renderer like wkhtmltopdf written in Rust that does not depend on Chromium, WebKit, or Gecko. Documentation (English) sghtmltopdf turns HTML into PDF without starting a browser process. It is aimed at documents that flow top to bottom with explicit breaks invoices, receipts, report... — はてなブックマーク テクノロジー / score: 70 (Rust製の新しいHTML-PDFレンダラー公開)</description>
+</item>
+<item>
+<title>[70] 新しい Amazon Bedrock AgentCore Runtime が利用可能に!!</title>
+<link>https://zenn.dev/aws_japan/articles/agentcore-runtime-v2-platform-version</link>
+<guid isPermaLink="true">https://zenn.dev/aws_japan/articles/agentcore-runtime-v2-platform-version</guid>
+<pubDate>Sat, 19 Sep 2026 14:55:28 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>はじめに こんにちは、AWS Japan AI Specialist Solutions Architect の Narimoto です。 AI エージェント基盤上で動くワークロードとしては、数秒で終わるチャットから、数分から数時間動くコーディングエージェント、そして常時稼働する常駐型エージェントへと広がっています。AI エージェントの数も増え、人ではなく他の AI エージェントから起動されることも増えました。常駐型はリクエストが来たときのみ動くのではなく、待っている間も実行環境を保ち続ける必要があるため、基盤側も常に起動している状態が必要で、AI エージェントの数に伴い運用コストが... — Zenn トレンド / score: 70 (AWSの新しいAIエージェント基盤のリリース情報)</description>
+</item>
+<item>
+<title>[70] Spinelすげえ！ Rubyの動的型付けがそのままCに！</title>
+<link>https://qiita.com/tj9999/items/f59ab88f9e0de733659f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/tj9999/items/f59ab88f9e0de733659f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Sat, 19 Sep 2026 08:01:43 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>RubyのAOTコンパイラって何だ？ まつもと ゆきひろさんがRubyのAOT（Ahead Of Time : 事前）コンパイラ「Spinel」をリリースされましたね。 https://github.com/matz/spinel これの開発エピソードが日系ソフトウェア2... — Qiita 人気記事 / score: 70 (RubyのAOTコンパイラSpinelのリリース話題)</description>
 </item>
 </channel>
 </rss>
