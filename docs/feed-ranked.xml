@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sun, 20 Sep 2026 10:08:11 +0000</lastBuildDate>
+<lastBuildDate>Sun, 20 Sep 2026 12:12:26 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Google Chrome」に今週2回目のセキュリティ更新、致命的脆弱性2件を含む16件に対処／Windows環境にはv153.0.8010.52/.53が展開中</title>
@@ -511,14 +511,6 @@
 <description>AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome. — Google DeepMind / score: 80 (全DNA変異を予測する画期的なゲノムマップの発表)</description>
 </item>
 <item>
-<title>[75] 無料でAIエージェントの追跡・評価・プロンプト管理・本番環境の監視ができる「Opik」、セルフホスト可能</title>
-<link>https://gigazine.net/news/20260919-opik/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260919-opik/</guid>
-<pubDate>Sat, 19 Sep 2026 11:39:25 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>AIアプリの開発ではLLMが生成した回答を確認するだけでなく、どの処理を経由して回答に到達したのかを追跡し、改善後の結果を比較する作業も必要になります。これらの検証に必要なトレーシング・評価・プロンプト管理・本番監視を1つの画面にまとめたオープンソースの「Opik」が公開されています。 Open-Source AI Obser... — はてなブックマーク テクノロジー / score: 75 (AIアプリ開発向けの便利なOSSツール紹介)</description>
-</item>
-<item>
 <title>[75] VRAM容量32GBで30万円未満なIntelグラボ「Intel Arc Pro B70 Creator 32GB」でローカルLLM「Qwen3.8 27B」や動画生成AI「MiniMax H3」を実行して生成速度を確かめてみた</title>
 <link>https://gigazine.net/news/20260919-arc-pro-b70-llm-review/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260919-arc-pro-b70-llm-review/</guid>
@@ -527,12 +519,12 @@
 <description>大規模言語モデル(LLM)や画像・動画生成AIを高速実行するにはモデル全体を高速なVRAMに収める必要があります。しかし、AI需要に伴うグラフィックボードの価格高騰によって、VRAM容量32GBのNVIDIA GeForce RTX 5090は100万円を超えるようになってしまいました。一方で、Intel製GPU「Intel Arc Pro B70」を搭載したVRAM容量32GBのASRock製グラフィックボード「Intel Arc Pro B70 Creator 32GB」は30万円以下で購入可能。そんなIntel Arc Pro B70 Creator 32GBを実際に購入したので、LLMや動画生成AIなどを実際に実行してみました。 続きを読む... — GIGAZINE / score: 75 (高コスパ大容量VRAMグラボでのAI実行検証)</description>
 </item>
 <item>
-<title>[75] Googleの旗艦AIが先行公開か ベンチマークでAstraとFableを全面凌駕 — BigGo ファイナンス</title>
-<link>https://finance.biggo.jp/news/66df2f89-c067-43d7-b888-94deb071f472</link>
-<guid isPermaLink="true">https://finance.biggo.jp/news/66df2f89-c067-43d7-b888-94deb071f472</guid>
-<pubDate>Sat, 19 Sep 2026 01:54:39 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Googleの次世代旗艦モデル「Gemini 4 Pro」とみられるモデルが、AI競技場「Arena」に「gemini-3.8-flash」の名称で先行公開された。開発者による実測では、DeepSWE、GDPval-AA、Terminal-bench、OSWorldなど複数のベンチマークでOpenAIのAstraとAnthropicのFable 5.1を全面的に上回った。流出情報によると、100万Tokenあ... — はてなブックマーク テクノロジー / score: 75 (主要AIモデルの性能比較と次世代動向のリーク)</description>
+<title>[75] 無料でAIエージェントの追跡・評価・プロンプト管理・本番環境の監視ができる「Opik」、セルフホスト可能</title>
+<link>https://gigazine.net/news/20260919-opik/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20260919-opik/</guid>
+<pubDate>Sat, 19 Sep 2026 09:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>AIアプリの開発ではLLMが生成した回答を確認するだけでなく、どの処理を経由して回答に到達したのかを追跡し、改善後の結果を比較する作業も必要になります。これらの検証に必要なトレーシング・評価・プロンプト管理・本番監視を1つの画面にまとめたオープンソースの「Opik」が公開されています。 続きを読む... — GIGAZINE / score: 75 (AIアプリ開発向けの便利なOSSツール紹介)</description>
 </item>
 <item>
 <title>[75] Kimi K3 by Moonshot AI is now generally available on Amazon Bedrock</title>
@@ -551,20 +543,20 @@
 <description>Today, AWS announces the availability of the next generation of AgentCore Runtime , the serverless microVM compute within Amazon Bedrock AgentCore. The new Runtime delivers elastic memory management that reclaims unused memory throughout the session so you pay for actual usage rather than the peak, and consistent cold start times regardless of container image size or concurrency. You get the serverless model you already rely on: no pre-provisioning, scale to zero, hardware-enforced session isola — AWS What's New / score: 75 (AWS Bedrockの新機能発表でクラウド開発に影響)</description>
 </item>
 <item>
-<title>[75] 全社に OpenCode + LiteLLM を導入してコストを抑えつつ AI 活用を進めている話</title>
-<link>https://zenn.dev/jtcc/articles/7e74fef42580a1</link>
-<guid isPermaLink="true">https://zenn.dev/jtcc/articles/7e74fef42580a1</guid>
-<pubDate>Fri, 18 Sep 2026 09:25:07 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>こんにちは。日本トレカセンターのプロダクト部で EM をやっている中川です。 日本トレカセンターでは約 200 名の全社員が使う AI の入り口を 1 つにまとめました。社員の手元には AI エージェントのOpenCodeを配り、そのリクエストを自前でホストした LLM ゲートウェイのLiteLLMに通しています。使うモデルは会社側で制... — はてなブックマーク テクノロジー / score: 75 (全社へのOpenCodeとLiteLLM導入事例)</description>
-</item>
-<item>
 <title>[75] 既存の LLM が CPU なら、 Jev はその GPU 版みたいなやつ</title>
 <link>https://zenn.dev/mizchi/articles/jev-is-gpu-for-llms</link>
 <guid isPermaLink="true">https://zenn.dev/mizchi/articles/jev-is-gpu-for-llms</guid>
 <pubDate>Fri, 18 Sep 2026 07:27:47 +0000</pubDate>
 <category>Zenn トレンド</category>
 <description>Jev を一晩叩いたので、その感想を書きます。タイトルは超大雑把な要約です。 実験結果 まず実験ログを置いておきます。 https://github.com/mizchi/jev-playground 公式のクックブックの条件を変えた追試 https://docs.typesafe.ai/cookbooks/skill_suggestion チェス対戦 5戦やって、Claude 5 Sonnet には全勝 LoL をミニマルにしたような MOBA ゲームをリアルタイム操作 スプリットプッシュのマクロ戦術やタワーダイブのようなミクロ戦術が観察されました 集団戦で、誰がタ... — Zenn トレンド / score: 75 (新型AIモデルJevの実用性検証に関する話題)</description>
+</item>
+<item>
+<title>[75] 「LLMじゃないAI」が来た! TypeSafe AI「Jev」はなぜ文字列生成を捨てたのか - Qiita</title>
+<link>https://qiita.com/shinkai_/items/61994be44d61c76716d3</link>
+<guid isPermaLink="true">https://qiita.com/shinkai_/items/61994be44d61c76716d3</guid>
+<pubDate>Fri, 18 Sep 2026 07:18:56 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>はじめに 最近のAIモデルの発表というと、だいたい「またLLM（大規模言語モデル）の新バージョンか」という受け止め方をされることが多いんじゃないでしょうか。 パラメータ数が増えました、ベンチマークが伸びました、推論速度が上がりました。 中身のアーキテクチャは基本的にトランスフォーマーの自己回帰生成（前の... — はてなブックマーク テクノロジー / score: 75 (非LLMの新AIモデルJevに関する考察)</description>
 </item>
 <item>
 <title>[75] 話題のJevとは？文章を書かずに判断だけを返すAIモデルをざっくり解説</title>
@@ -581,6 +573,14 @@
 <pubDate>Fri, 18 Sep 2026 02:16:33 +0000</pubDate>
 <category>Zenn トレンド</category>
 <description>この記事は、今日参加するイベントで画面表示する目的と、 https://minorun365.connpass.com/event/407308/ 今日発売されるSoftware Design 2026/10の宣伝ついでに書いています。 https://gihyo.jp/magazine/SD/archive/2026/202610 Jevって？ Jevは、状態と質問を受け取り、型付きの回答を確率とともに返すモデルである。チャッピー！それってLLMと何が違うの？ 図を書いて。いいよ。 Jevの提供元のTypeSafe AIは、こうしたソフトウェア向けの意思決定モデルを「System... — Zenn トレンド / score: 75 (構造化出力モデルJevを用いた新しい開発手法の解説)</description>
+</item>
+<item>
+<title>[75] 全社に OpenCode + LiteLLM を導入してコストを抑えつつ AI 活用を進めている話</title>
+<link>https://zenn.dev/jtcc/articles/7e74fef42580a1</link>
+<guid isPermaLink="true">https://zenn.dev/jtcc/articles/7e74fef42580a1</guid>
+<pubDate>Fri, 18 Sep 2026 00:08:15 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>こんにちは。日本トレカセンターのプロダクト部で EM をやっている中川です。 日本トレカセンターでは約 200 名の全社員が使う AI の入り口を 1 つにまとめました。社員の手元には AI エージェントのOpenCodeを配り、そのリクエストを自前でホストした LLM ゲートウェイのLiteLLMに通しています。使うモデルは会社側で制御し、予算は月単位で決めて社員ごとに週次の上限をかけました。コストを把握しやすくなり、金額も導入前の 10 分の 1 以下に収まっています。 導入前の課題 導入前の社内では ChatGPT、Claude、Cursor など AI ツールが乱立していまし... — Zenn トレンド / score: 75 (全社へのOpenCodeとLiteLLM導入事例)</description>
 </item>
 <item>
 <title>[75] Ubuntu 24.04.5のリリース、Ubuntu 26.10（stonking）の開発; Rust版coreutilsのcp、mv、rmへの移行、CIX P1の正式サポート</title>
