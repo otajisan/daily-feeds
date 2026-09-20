@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sun, 20 Sep 2026 02:12:43 +0000</lastBuildDate>
+<lastBuildDate>Sun, 20 Sep 2026 04:10:33 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Google Chrome」に今週2回目のセキュリティ更新、致命的脆弱性2件を含む16件に対処／Windows環境にはv153.0.8010.52/.53が展開中</title>
@@ -29,6 +29,14 @@
 <pubDate>Sat, 19 Sep 2026 09:18:46 +0000</pubDate>
 <category>Yahoo!ニュース IT</category>
 <description> — Yahoo!ニュース IT / score: 90 (主要AIシステムに関する重大なセキュリティ事件)</description>
+</item>
+<item>
+<title>[90] グーグルのAI「ジェミニ」、パスワードを推測して複数サイトに不正アクセス</title>
+<link>https://www.afpbb.com/articles/-/3653795</link>
+<guid isPermaLink="true">https://www.afpbb.com/articles/-/3653795</guid>
+<pubDate>Sat, 19 Sep 2026 07:30:11 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>スマートフォンの画面に表示されたグーグルの人工知能（AI）「ジェミニ」のロゴ（2026年5月7日撮影）。(c)Kirill KUDRYAVTSEV/AFP 【9月19日 AFP】米IT大手グーグルが開発した消費者向け人工知能（AI）「ジェミニ」が、ログイン情報を推測して複数の外部システムに侵入（ハッキング）していたことが明らかになった。同社... — はてなブックマーク テクノロジー / score: 90 (AIによる不正アクセス事例のセキュリティニュース)</description>
 </item>
 <item>
 <title>[90] Gemini Hacked Three Companies in First Known Breakout by Google’s AI</title>
@@ -109,6 +117,14 @@
 <pubDate>Wed, 09 Sep 2026 11:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment. — OpenAI News / score: 90 (次世代AIモデル「GPT-6 Astra」の発表)</description>
+</item>
+<item>
+<title>[85] 16年間放置されていたSQLiteのバグを突き止めた方法</title>
+<link>https://gigazine.net/news/20260920-sqlite-wal-reset-bug/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20260920-sqlite-wal-reset-bug/</guid>
+<pubDate>Sun, 20 Sep 2026 03:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>VPN構築・ネットワーク接続サービスのTailscaleが、自社のサービスが安定しない理由について数ヶ月にわたり調査を行ったところ、データベースのSQLiteに16年間潜在していたバグが原因であったことが判明しました。Tailscaleは「何が問題だったのか」「どう対応したのか」「SQLiteの不具合発見にどう貢献したか」についての説明を自社のブログにて公開しました。 続きを読む... — GIGAZINE / score: 85 (16年間放置されたSQLiteの重大なバグ解析)</description>
 </item>
 <item>
 <title>[85] その Lambda、8分で 管理者権限まで奪われます</title>
@@ -405,22 +421,6 @@
 <pubDate>Sat, 19 Sep 2026 08:00:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 80 (GitHub Actionsの最新ランナー提供開始)</description>
-</item>
-<item>
-<title>[80] ヒトの脳細胞をマウスの脳に移植することに成功</title>
-<link>https://gigazine.net/news/20260918-human-brain-cells-into-mice/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260918-human-brain-cells-into-mice/</guid>
-<pubDate>Fri, 18 Sep 2026 05:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>スタンフォード大学などの研究チームが、大脳皮質の大部分を欠くマウスにヒトの幹細胞から作った脳組織を移植し、マウスの神経系と広範囲につながることを確認しました。移植した組織は成長して神経線維を脊髄まで伸ばし、一部の記憶課題や、低酸素による損傷後の歩行に変化が見られました。研究成果は2026年9月16日にNatureに掲載され、ヒトの脳の発達や病気を調べる新たな実験モデルとして報告されています。 続きを読む... — GIGAZINE / score: 80 (脳細胞の移植成功に関する画期的な研究)</description>
-</item>
-<item>
-<title>[80] Anthropic社内で約3万体のAIエージェントが同時稼働、AI研究開発の26％をClaudeが主導</title>
-<link>https://gigazine.net/news/20260918-anthropic-measuring-claude/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260918-anthropic-measuring-claude/</guid>
-<pubDate>Fri, 18 Sep 2026 04:30:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>AIチャットボット「Claude」を開発するAnthropicが、社内におけるAI活用の実態を示す指標を公開しました。2026年8月時点ではAI研究開発業務の26％をClaudeが「主導」しているほか、主要な社内プラットフォームでは約3万体のAIエージェントが同時に稼働しているとのことです。 続きを読む... — GIGAZINE / score: 80 (Anthropicにおける大規模なAI活用事例)</description>
 </item>
 <item>
 <title>[80] 「Microsoft Edge 153」に問題、一部Webアプリの操作中にウィンドウが固まる／回避策は「Edge 152」へのロールバック。Microsoftが調査中</title>
