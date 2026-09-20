@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sat, 19 Sep 2026 22:08:14 +0000</lastBuildDate>
+<lastBuildDate>Sun, 20 Sep 2026 00:27:13 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Google Chrome」に今週2回目のセキュリティ更新、致命的脆弱性2件を含む16件に対処／Windows環境にはv153.0.8010.52/.53が展開中</title>
@@ -31,6 +31,14 @@
 <description> — Yahoo!ニュース IT / score: 90 (主要AIシステムに関する重大なセキュリティ事件)</description>
 </item>
 <item>
+<title>[90] グーグルのAI「ジェミニ」、パスワードを推測して複数サイトに不正アクセス</title>
+<link>https://www.afpbb.com/articles/-/3653795</link>
+<guid isPermaLink="true">https://www.afpbb.com/articles/-/3653795</guid>
+<pubDate>Sat, 19 Sep 2026 07:30:11 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>スマートフォンの画面に表示されたグーグルの人工知能（AI）「ジェミニ」のロゴ（2026年5月7日撮影）。(c)Kirill KUDRYAVTSEV/AFP 【9月19日 AFP】米IT大手グーグルが開発した消費者向け人工知能（AI）「ジェミニ」が、ログイン情報を推測して複数の外部システムに侵入（ハッキング）していたことが明らかになった。同社... — はてなブックマーク テクノロジー / score: 90 (AIによる不正アクセス事例のセキュリティニュース)</description>
+</item>
+<item>
 <title>[90] Gemini Hacked Three Companies in First Known Breakout by Google’s AI</title>
 <link>https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/</link>
 <guid isPermaLink="true">https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/</guid>
@@ -45,14 +53,6 @@
 <pubDate>Thu, 17 Sep 2026 23:59:19 +0000</pubDate>
 <category>Simon Willison</category>
 <description>Be alert: targeted attacks on prominent Rustaceans Important warning from Adam Harvey and the crates security team: We believe that there is an ongoing campaign targeting rust-lang members and owners of popular crates that is attempting to compromise devices and accounts in order to use them to publish malware. A video call is set up for something positive — maybe for a job, maybe for a project, maybe for a contract opportunity — and then that's used as a vector to either get the target to insta — Simon Willison / score: 90 (Rust言語関係者を狙った標的型攻撃の重要警告)</description>
-</item>
-<item>
-<title>[90] Javaの最新バージョン「Java 27」、正式リリース</title>
-<link>https://codezine.jp/article/detail/29737</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/29737</guid>
-<pubDate>Thu, 17 Sep 2026 22:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 90 (Java最新メジャーバージョン「Java 27」の正式リリース)</description>
 </item>
 <item>
 <title>[90] 画像共有サービス「Gyazo」に不正アクセス、非公開画像が閲覧された可能性も／ユーザー情報約2,362万件と画像のメタデータ約4.9億件が流出</title>
@@ -583,14 +583,6 @@
 <description>Amazon Bedrock continues to expand its open weight model portfolio with the same security and governance that customers rely on. Today, Kimi K3 from Moonshot AI is generally available on Amazon Bedrock, giving you a powerful new option for coding and knowledge work. According to Moonshot AI, Kimi K3 is its most capable model and the first open model to reach 2.8 trillion parameters. It combines native vision capabilities with a 1-million-token context window, making it well suited to long-runnin — AWS What's New / score: 75 (Amazon BedrockでのKimi K3一般提供開始)</description>
 </item>
 <item>
-<title>[75] 爆速で爆安。判定専用AI「JEV」を徹底解説 ― 使い方・料金・実例と、実際に作った4つのプロダクトの裏側</title>
-<link>https://agi-labo.com/articles/n746a127b4074</link>
-<guid isPermaLink="true">https://agi-labo.com/articles/n746a127b4074</guid>
-<pubDate>Fri, 18 Sep 2026 14:27:11 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>爆速で爆安。判定専用AI「JEV」を徹底解説 ― 使い方・料金・実例と、実際に作った4つのプロダクトの裏側 最近、AI界隈で 「JEV（ジェブ）」 というモデルが話題になっています。 ChatGPTやClaudeのような「文章を書くAI」とはまったく違い、JEVは 文章を一切書きません。そのかわり、「はい／いいえ」「AとBとCのどれか... — はてなブックマーク テクノロジー / score: 75 (新AIモデルJEVの特徴と実例解説)</description>
-</item>
-<item>
 <title>[75] The new AgentCore Runtime is now available in Amazon Bedrock AgentCore</title>
 <link>https://aws.amazon.com/about-aws/whats-new/2026/09/new-agentcore-runtime-generally-available</link>
 <guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/new-agentcore-runtime-generally-available</guid>
@@ -805,6 +797,14 @@
 <pubDate>Fri, 11 Sep 2026 02:43:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>OpenAIは9月10日、音声モデル「GPT-Live-1」のAPI提供を開始した。開発者は、発話中もユーザーの声を聞き取り、割り込みや依頼の変更に対応する音声エージェントを構築できる。 — gihyo.jp / score: 75 (OpenAIによるリアルタイム音声モデルAPIの提供開始)</description>
+</item>
+<item>
+<title>[75] Now everyone can put data to work</title>
+<link>https://openai.com/index/put-data-to-work</link>
+<guid isPermaLink="true">https://openai.com/index/put-data-to-work</guid>
+<pubDate>Thu, 10 Sep 2026 15:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language. — OpenAI News / score: 75 (ChatGPTの新機能データエージェント)</description>
 </item>
 </channel>
 </rss>
