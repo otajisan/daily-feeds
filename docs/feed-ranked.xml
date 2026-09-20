@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sun, 20 Sep 2026 20:08:24 +0000</lastBuildDate>
+<lastBuildDate>Sun, 20 Sep 2026 22:07:58 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Google Chrome」に今週2回目のセキュリティ更新、致命的脆弱性2件を含む16件に対処／Windows環境にはv153.0.8010.52/.53が展開中</title>
@@ -77,14 +77,6 @@
 <pubDate>Tue, 15 Sep 2026 06:50:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Appleは9月14日（現地時間）、自社製品のセキュリティアップデートを一斉実施した。「iOS 27」「iPadOS 27」、「macOS 27 Golden Gate」も含め、10製品が対象となっている（括弧内はCVE番号が割り振られた脆弱性の件数）。 — 窓の杜 / score: 90 (多数の製品に対するAppleの一斉セキュリティ更新)</description>
-</item>
-<item>
-<title>[90] Microsoft、Windowsの9月パッチで発生した不具合に緊急対処 ～定例外更新をリリース／Windows 11 24H2以降は追加の脆弱性修正を含む“セキュリティパッチ”、適用必須</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2140865.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2140865.html</guid>
-<pubDate>Tue, 15 Sep 2026 00:20:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Microsoftは9月14日（現地時間）、以下のWindowsバージョンで定例外（Out-of-band：OOB）のアップデートをリリースした。2026年9月のセキュリティ更新プログラムの適用後に発生していた問題が対処されている。 — 窓の杜 / score: 90 (Windowsの不具合に対する緊急のセキュリティパッチ)</description>
 </item>
 <item>
 <title>[90] Microsoft、ネイティブGoコンパイラを採用した TypeScript 7.0 をリリース。ビルド速度が10倍に向上</title>
@@ -471,14 +463,6 @@
 <description>Let's review in about 2 minutes the 9 JEPs (JDK Enhancement Proposals) that were included in the JDK 27 release! — Inside Java / score: 80 (Java 27のJEP機能解説)</description>
 </item>
 <item>
-<title>[80] Datasette 1.0a39 and 0.65.4 security releases</title>
-<link>https://simonwillison.net/2026/Sep/11/datasette-security/</link>
-<guid isPermaLink="true">https://simonwillison.net/2026/Sep/11/datasette-security/</guid>
-<pubDate>Fri, 11 Sep 2026 03:27:16 +0000</pubDate>
-<category>Simon Willison</category>
-<description>Datasette 1.0a39 and 0.65.4 security releases Today we're releasing two new security patch versions of Datasette: 1.0a39 and 0.65.4 - one for the current alpha series and one for the stable 0.65.x family. These are security fixes which you should apply if you are running a Datasette instance on the public web - in particular if that instance mixes both public and private tables. Following issues reported by Sevban Dönmez , Alex Garcia and I ran an extensive audit of Datasette using Claude Fable  — Simon Willison / score: 80 (Datasetteのセキュリティパッチリリース)</description>
-</item>
-<item>
 <title>[80] OpenAI、Agents APIをパブリックベータ公開 ——Codexの実行基盤でクラウドエージェントを構築</title>
 <link>https://gihyo.jp/article/2026/09/openai-agents-api-public-beta?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/09/openai-agents-api-public-beta?utm_source=feed</guid>
@@ -573,6 +557,14 @@
 <pubDate>Fri, 18 Sep 2026 07:27:47 +0000</pubDate>
 <category>Zenn トレンド</category>
 <description>Jev を一晩叩いたので、その感想を書きます。タイトルは超大雑把な要約です。 実験結果 まず実験ログを置いておきます。 https://github.com/mizchi/jev-playground 公式のクックブックの条件を変えた追試 https://docs.typesafe.ai/cookbooks/skill_suggestion チェス対戦 5戦やって、Claude 5 Sonnet には全勝 LoL をミニマルにしたような MOBA ゲームをリアルタイム操作 スプリットプッシュのマクロ戦術やタワーダイブのようなミクロ戦術が観察されました 集団戦で、誰がタ... — Zenn トレンド / score: 75 (新型AIモデルJevの実用性検証に関する話題)</description>
+</item>
+<item>
+<title>[75] 「LLMじゃないAI」が来た! TypeSafe AI「Jev」はなぜ文字列生成を捨てたのか</title>
+<link>https://qiita.com/shinkai_/items/61994be44d61c76716d3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/shinkai_/items/61994be44d61c76716d3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Fri, 18 Sep 2026 06:48:33 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>はじめに 最近のAIモデルの発表というと、だいたい「またLLM（大規模言語モデル）の新バージョンか」という受け止め方をされることが多いんじゃないでしょうか。 パラメータ数が増えました、ベンチマークが伸びました、推論速度が上がりました。 中身のアーキテクチャは基本的にトラン... — Qiita 人気記事 / score: 75 (非LLMの新AIモデルJevに関する考察)</description>
 </item>
 <item>
 <title>[75] 話題のJevとは？文章を書かずに判断だけを返すAIモデルをざっくり解説</title>
@@ -797,6 +789,14 @@
 <pubDate>Mon, 07 Sep 2026 07:34:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>OpenAIのGreg Brockman氏やMark Chen氏、NVIDIAのJensen Huang氏が、Xへの投稿でAGI（汎用人工知能）の到来や、その時代への移行に言及した。 — gihyo.jp / score: 75 (AGI到来に関する業界トップの発言)</description>
+</item>
+<item>
+<title>[70] 写真を疑う時代が来たので、iPhoneが証明書を持ってきました</title>
+<link>https://www.gizmodo.jp/article/apple-reference-image-iphone18pro/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/apple-reference-image-iphone18pro/</guid>
+<pubDate>Sun, 20 Sep 2026 22:00:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>この1〜2年で「写真だから本当」という前提は壊れました。生成AIの便利さと引き換えに。そこにAppleが出してきたのが「Apple Reference Image」。9月15日にApple Security Researchのブログでも公開… — ギズモード・ジャパン / score: 70 (Appleの画像真贋証明機能に関する解説記事)</description>
 </item>
 <item>
 <title>[70] Reverse Engineering ChatGPT Web: How OpenAI Built for a Billion Users</title>
