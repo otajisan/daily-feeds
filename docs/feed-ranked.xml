@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sun, 20 Sep 2026 06:14:21 +0000</lastBuildDate>
+<lastBuildDate>Sun, 20 Sep 2026 08:11:25 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Google Chrome」に今週2回目のセキュリティ更新、致命的脆弱性2件を含む16件に対処／Windows環境にはv153.0.8010.52/.53が展開中</title>
@@ -114,17 +114,9 @@
 <title>[85] 16年間放置されていたSQLiteのバグを突き止めた方法</title>
 <link>https://gigazine.net/news/20260920-sqlite-wal-reset-bug/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260920-sqlite-wal-reset-bug/</guid>
-<pubDate>Sun, 20 Sep 2026 03:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>VPN構築・ネットワーク接続サービスのTailscaleが、自社のサービスが安定しない理由について数ヶ月にわたり調査を行ったところ、データベースのSQLiteに16年間潜在していたバグが原因であったことが判明しました。Tailscaleは「何が問題だったのか」「どう対応したのか」「SQLiteの不具合発見にどう貢献したか」についての説明を自社のブログにて公開しました。 続きを読む... — GIGAZINE / score: 85 (16年間放置されたSQLiteの重大なバグ解析)</description>
-</item>
-<item>
-<title>[85] その Lambda、8分で 管理者権限まで奪われます</title>
-<link>https://speakerdeck.com/k1nakayama/sono-lambda-8-bun-de-kanrisha-kengen-made-ubawaremasu</link>
-<guid isPermaLink="true">https://speakerdeck.com/k1nakayama/sono-lambda-8-bun-de-kanrisha-kengen-made-ubawaremasu</guid>
-<pubDate>Sat, 19 Sep 2026 10:05:34 +0000</pubDate>
+<pubDate>Sun, 20 Sep 2026 03:04:56 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>「インシデント対応の訓練、ドキュメントレビューで済ませていませんか」 サーバーレスは平常時、マネージドサービスに支えられて安定して動きます。だからこそ私たちは、自分のワークロードの「壊れ方」を練習する機会をほとんど持てません。CI/CDにスキャンは入れたが検出結果は放置されている、最小権限は掛け声… — はてなブックマーク テクノロジー / score: 85 (サーバーレス環境のセキュリティリスクと脆弱性)</description>
+<description>VPN構築・ネットワーク接続サービスのTailscaleが、自社のサービスが安定しない理由について数ヶ月にわたり調査を行ったところ、データベースのSQLiteに16年間潜在していたバグが原因であったことが判明しました。Tailscaleは「何が問題だったのか」「どう対応したのか」「SQLiteの不具合発見にどう貢献したか」について... — はてなブックマーク テクノロジー / score: 85 (16年間放置されたSQLiteの重大なバグ解析)</description>
 </item>
 <item>
 <title>[85] ハッカーがAnthropicのClaudeを使ってOpenAIに侵入</title>
@@ -527,28 +519,12 @@
 <description>AIアプリの開発ではLLMが生成した回答を確認するだけでなく、どの処理を経由して回答に到達したのかを追跡し、改善後の結果を比較する作業も必要になります。これらの検証に必要なトレーシング・評価・プロンプト管理・本番監視を1つの画面にまとめたオープンソースの「Opik」が公開されています。 Open-Source AI Obser... — はてなブックマーク テクノロジー / score: 75 (AIアプリ開発向けの便利なOSSツール紹介)</description>
 </item>
 <item>
-<title>[75] GitHub - eval-exec/neomacs: NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design &amp; multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.</title>
-<link>https://github.com/eval-exec/neomacs</link>
-<guid isPermaLink="true">https://github.com/eval-exec/neomacs</guid>
-<pubDate>Sat, 19 Sep 2026 11:15:29 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>"I started Neomacs because I love Emacs, I respect Emacs, and I want to evolve the legendary Emacs into the ultimate modern powerhouse." — Eval Exec ✨ "While other editors can save your files, only Emacs can save your soul." ✨ Emacs, rewritten in Rust — unleashed on the GPU, fixing what 40 year... — はてなブックマーク テクノロジー / score: 75 (Rust製GPU駆動のモダンなEmacs実装)</description>
-</item>
-<item>
 <title>[75] VRAM容量32GBで30万円未満なIntelグラボ「Intel Arc Pro B70 Creator 32GB」でローカルLLM「Qwen3.8 27B」や動画生成AI「MiniMax H3」を実行して生成速度を確かめてみた</title>
 <link>https://gigazine.net/news/20260919-arc-pro-b70-llm-review/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260919-arc-pro-b70-llm-review/</guid>
 <pubDate>Sat, 19 Sep 2026 11:00:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>大規模言語モデル(LLM)や画像・動画生成AIを高速実行するにはモデル全体を高速なVRAMに収める必要があります。しかし、AI需要に伴うグラフィックボードの価格高騰によって、VRAM容量32GBのNVIDIA GeForce RTX 5090は100万円を超えるようになってしまいました。一方で、Intel製GPU「Intel Arc Pro B70」を搭載したVRAM容量32GBのASRock製グラフィックボード「Intel Arc Pro B70 Creator 32GB」は30万円以下で購入可能。そんなIntel Arc Pro B70 Creator 32GBを実際に購入したので、LLMや動画生成AIなどを実際に実行してみました。 続きを読む... — GIGAZINE / score: 75 (高コスパ大容量VRAMグラボでのAI実行検証)</description>
-</item>
-<item>
-<title>[75] AWS PrivateLink の新機能「トンネルエンドポイント」を試してみた | DevelopersIO</title>
-<link>https://dev.classmethod.jp/articles/aws-privatelink-tunnel-endpoint-cross-account/</link>
-<guid isPermaLink="true">https://dev.classmethod.jp/articles/aws-privatelink-tunnel-endpoint-cross-account/</guid>
-<pubDate>Sat, 19 Sep 2026 10:40:33 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>AWS PrivateLink に追加されたトンネルエンドポイントを検証しました。クロスアカウントで CIDR レンジ単位のネットワークへプライベートにアクセスでき、接続元では GENEVE リレーが必要ですが、アプリは変更不要です。HTTP 疎通・DNS 解決・CIDR 境界を確認しました。 はじめに 2026年9月18日、AWS PrivateLink にトン... — はてなブックマーク テクノロジー / score: 75 (AWSの新機能に関する実用的な検証記事)</description>
 </item>
 <item>
 <title>[75] Googleの旗艦AIが先行公開か ベンチマークでAstraとFableを全面凌駕 — BigGo ファイナンス</title>
@@ -597,14 +573,6 @@
 <pubDate>Fri, 18 Sep 2026 05:21:55 +0000</pubDate>
 <category>Qiita 人気記事</category>
 <description>はじめに Jevが話題ですね。 文章を書かないAIと紹介されていますが、では代わりに何を返すんでしょうか。 この記事は、Jevが何をするものかの解像度を上げるために自分なりに整理したものです。 ざっくりまとめ Jevは、文章で書かれた状況を読み、あらかじめ用意された選択... — Qiita 人気記事 / score: 75 (話題の判断特化AIモデルJevの解説)</description>
-</item>
-<item>
-<title>[75] 「Qwen3.8-Omni-Flash」リリース、Gemini 3.8 Flashに匹敵する音声・映像処理性能を達成</title>
-<link>https://gigazine.net/news/20260918-qwen-3-8-omni-flash/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260918-qwen-3-8-omni-flash/</guid>
-<pubDate>Fri, 18 Sep 2026 05:20:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>中国の大手テクノロジー企業であるアリババが開発するAIモデル・Qwenシリーズに、次世代ネイティブオムニモーダルモデルの「Qwen3.8-Omni-Flash」が追加されました。動画編集・ミュージックビデオ制作・映画制作・オーディオビジュアル要約・リアルタイム会話などのワークフロー全体で優れた成果を実現しています。 続きを読む... — GIGAZINE / score: 75 (アリババの高性能な新AIモデルのリリース)</description>
 </item>
 <item>
 <title>[75] Jevでハーネスエンジニアリング</title>
@@ -805,6 +773,38 @@
 <pubDate>Wed, 09 Sep 2026 09:37:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Googleは9月8日、WebブラウザーChrome 153（安定版）を公開し、リリース周期を4週間から2週間へ短縮した。 — gihyo.jp / score: 75 (Chromeのリリース周期短縮の変更)</description>
+</item>
+<item>
+<title>[75] Microsoft FoundryでClaudeが一般提供開始：欧州企業はデプロイ不可</title>
+<link>https://www.infoq.com/jp/news/2026/09/claude-foundry-ga-europe/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+<guid isPermaLink="true">https://www.infoq.com/jp/news/2026/09/claude-foundry-ga-europe/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+<pubDate>Wed, 09 Sep 2026 06:30:00 +0000</pubDate>
+<category>InfoQ Japan</category>
+<description>AnthropicとMicrosoftは、Microsoft FoundryにおけるClaudeモデルの一般提供開始を発表した。これによりAzure顧客は、ネイティブ認証、課金、ガバナンスを通じてClaude Opus 4.8とClaude Haiku 4.5を利用できる。利用料金は既存のMicrosoft Azure Consumption Commitment（MACC）が充当される。 その数日後にはSonnet 5も追加され、8月31日まで入力／出力100万トークン当たり2ドル／10ドルのプロモーション価格で提供される。 By Steef-Jan Wiggers Translated by Hiroaki.Sugimura — InfoQ Japan / score: 75 (主要クラウドでのClaude一般提供とリージョン制約)</description>
+</item>
+<item>
+<title>[75] ChatGPT Workにユーザーの書く文章スタイルを学習して文書作成に反映させる機能が追加</title>
+<link>https://gihyo.jp/article/2026/09/chatgpt-learning-writing-style?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/09/chatgpt-learning-writing-style?utm_source=feed</guid>
+<pubDate>Tue, 08 Sep 2026 00:51:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>OpenAIは2026年9月8日、ChatGPT Workを日常使うアプリと連携させることでユーザーの文章スタイルを学習し、文章作成内容に反映させる機能を装備したことを発表した。 — gihyo.jp / score: 75 (ChatGPTの文章スタイル学習機能追加)</description>
+</item>
+<item>
+<title>[75] AWS Weekly Roundup: Claude Fable 5.1 on AWS, Amazon Linux 2027 preview, AWS Certified AI Business Strategist, and more (September 7, 2026)</title>
+<link>https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-fable-5-1-on-aws-amazon-linux-2027-preview-aws-certified-ai-business-strategist-and-more-september-7-2026/</link>
+<guid isPermaLink="true">https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-fable-5-1-on-aws-amazon-linux-2027-preview-aws-certified-ai-business-strategist-and-more-september-7-2026/</guid>
+<pubDate>Mon, 07 Sep 2026 14:24:08 +0000</pubDate>
+<category>AWS News Blog</category>
+<description>Last week, Claude Fable 5.1 became available on AWS. According to Anthropic, Claude Fable 5.1 delivers frontier intelligence for ambitious tasks across coding, scientific research, and enterprise workflows. Claude Fable 5.1 is built for long-running, high-stakes work that runs for hours and spans many applications. It can own more of a software project on its […] — AWS News Blog / score: 75 (AWS関連の最新アップデートとプレビュー情報)</description>
+</item>
+<item>
+<title>[75] NVIDIAのJensen Huang氏「AGIは到来した」、OpenAIからも「AGI時代に入りつつある」との声</title>
+<link>https://gihyo.jp/article/2026/09/toward-agi-era?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/09/toward-agi-era?utm_source=feed</guid>
+<pubDate>Mon, 07 Sep 2026 07:34:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>OpenAIのGreg Brockman氏やMark Chen氏、NVIDIAのJensen Huang氏が、Xへの投稿でAGI（汎用人工知能）の到来や、その時代への移行に言及した。 — gihyo.jp / score: 75 (AGI到来に関する業界トップの発言)</description>
 </item>
 </channel>
 </rss>
