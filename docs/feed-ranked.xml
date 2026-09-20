@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sun, 20 Sep 2026 12:12:26 +0000</lastBuildDate>
+<lastBuildDate>Sun, 20 Sep 2026 14:07:55 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Google Chrome」に今週2回目のセキュリティ更新、致命的脆弱性2件を含む16件に対処／Windows環境にはv153.0.8010.52/.53が展開中</title>
@@ -511,6 +511,22 @@
 <description>AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome. — Google DeepMind / score: 80 (全DNA変異を予測する画期的なゲノムマップの発表)</description>
 </item>
 <item>
+<title>[75] 「Jev」とは　“文章を書かないAI”がなぜ話題に？　元OpenAI研究者が開発、「“スマートなif文”と考えてみて」</title>
+<link>https://www.itmedia.co.jp/aiplus/article/2609/20/2000001664/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2609/20/2000001664/</guid>
+<pubDate>Sun, 20 Sep 2026 10:54:06 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>米スタートアップのTypeSafe AIが9月15日（現地時間）に発表したAIモデル「Jev」（ジェヴ）が、海外や日本のAIコミュニティで大きな注目を集めている。創業者であるディオゴ・アルメイダ氏の発表はX上で3700万回以上表示されている（9月20日時点）。 JevはChatGPTのように「会話するAI」ではない。その代わり、ユーザー... — はてなブックマーク テクノロジー / score: 75 (文章を書かないAIモデルJevの注目トレンド)</description>
+</item>
+<item>
+<title>[75] AIエージェントが再発見したサーバーレス #serverlessjp | ドクセル</title>
+<link>https://www.docswell.com/s/nekoruri/ZDMVQV-serverlessdays2026</link>
+<guid isPermaLink="true">https://www.docswell.com/s/nekoruri/ZDMVQV-serverlessdays2026</guid>
+<pubDate>Sat, 19 Sep 2026 17:00:39 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>ServerlessDays Tokyo 2026 「AIエージェントが再発見したサーバーレス」 https://serverless.connpass.com/event/371637/ 発表文字起こし https://d.nekoruri.jp/entry/2026/09/19/serverlessdays 2026年6月、AWSはAIエージェントのための実行環境「Lambda MicroVMs」を発表しました。 マイクロVM、スナップショット起... — はてなブックマーク テクノロジー / score: 75 (AIエージェントとサーバーレスの組み合わせに関する発表)</description>
+</item>
+<item>
 <title>[75] VRAM容量32GBで30万円未満なIntelグラボ「Intel Arc Pro B70 Creator 32GB」でローカルLLM「Qwen3.8 27B」や動画生成AI「MiniMax H3」を実行して生成速度を確かめてみた</title>
 <link>https://gigazine.net/news/20260919-arc-pro-b70-llm-review/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260919-arc-pro-b70-llm-review/</guid>
@@ -525,6 +541,14 @@
 <pubDate>Sat, 19 Sep 2026 09:00:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>AIアプリの開発ではLLMが生成した回答を確認するだけでなく、どの処理を経由して回答に到達したのかを追跡し、改善後の結果を比較する作業も必要になります。これらの検証に必要なトレーシング・評価・プロンプト管理・本番監視を1つの画面にまとめたオープンソースの「Opik」が公開されています。 続きを読む... — GIGAZINE / score: 75 (AIアプリ開発向けの便利なOSSツール紹介)</description>
+</item>
+<item>
+<title>[75] エージェントはローカル、検証はMicroVM — Lambda MicroVMsでつくるServerless CI</title>
+<link>https://speakerdeck.com/fujioka6789/microvms-serveless-ci-local-work-and-vm-verification</link>
+<guid isPermaLink="true">https://speakerdeck.com/fujioka6789/microvms-serveless-ci-local-work-and-vm-verification</guid>
+<pubDate>Sat, 19 Sep 2026 08:49:07 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>コーディングエージェントは、ソースコードだけでなく、依存関係の追加、ビルド、テスト、サーバープロセスの起動まで扱うようになりました。 開発者としては、エージェントをローカルで動かし、経過を確認しながら指示を加えたい。 一方、依存関係や任意プロセスを伴う生成結果は、開発者端末とは分離した環境で検証した… — はてなブックマーク テクノロジー / score: 75 (Lambda MicroVMsを活用したServerless CI)</description>
 </item>
 <item>
 <title>[75] Kimi K3 by Moonshot AI is now generally available on Amazon Bedrock</title>
@@ -549,14 +573,6 @@
 <pubDate>Fri, 18 Sep 2026 07:27:47 +0000</pubDate>
 <category>Zenn トレンド</category>
 <description>Jev を一晩叩いたので、その感想を書きます。タイトルは超大雑把な要約です。 実験結果 まず実験ログを置いておきます。 https://github.com/mizchi/jev-playground 公式のクックブックの条件を変えた追試 https://docs.typesafe.ai/cookbooks/skill_suggestion チェス対戦 5戦やって、Claude 5 Sonnet には全勝 LoL をミニマルにしたような MOBA ゲームをリアルタイム操作 スプリットプッシュのマクロ戦術やタワーダイブのようなミクロ戦術が観察されました 集団戦で、誰がタ... — Zenn トレンド / score: 75 (新型AIモデルJevの実用性検証に関する話題)</description>
-</item>
-<item>
-<title>[75] 「LLMじゃないAI」が来た! TypeSafe AI「Jev」はなぜ文字列生成を捨てたのか - Qiita</title>
-<link>https://qiita.com/shinkai_/items/61994be44d61c76716d3</link>
-<guid isPermaLink="true">https://qiita.com/shinkai_/items/61994be44d61c76716d3</guid>
-<pubDate>Fri, 18 Sep 2026 07:18:56 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>はじめに 最近のAIモデルの発表というと、だいたい「またLLM（大規模言語モデル）の新バージョンか」という受け止め方をされることが多いんじゃないでしょうか。 パラメータ数が増えました、ベンチマークが伸びました、推論速度が上がりました。 中身のアーキテクチャは基本的にトランスフォーマーの自己回帰生成（前の... — はてなブックマーク テクノロジー / score: 75 (非LLMの新AIモデルJevに関する考察)</description>
 </item>
 <item>
 <title>[75] 話題のJevとは？文章を書かずに判断だけを返すAIモデルをざっくり解説</title>
@@ -783,28 +799,12 @@
 <description>OpenAIのGreg Brockman氏やMark Chen氏、NVIDIAのJensen Huang氏が、Xへの投稿でAGI（汎用人工知能）の到来や、その時代への移行に言及した。 — gihyo.jp / score: 75 (AGI到来に関する業界トップの発言)</description>
 </item>
 <item>
-<title>[70] GitHub - waka/sghtmltopdf: The second generation of wkhtmltopdf and wicked_pdf</title>
-<link>https://github.com/waka/sghtmltopdf</link>
-<guid isPermaLink="true">https://github.com/waka/sghtmltopdf</guid>
-<pubDate>Sun, 20 Sep 2026 03:18:47 +0000</pubDate>
+<title>[70] Reverse Engineering ChatGPT Web: How OpenAI Built for a Billion Users</title>
+<link>https://performance.dev/chatgpt</link>
+<guid isPermaLink="true">https://performance.dev/chatgpt</guid>
+<pubDate>Sun, 20 Sep 2026 11:38:28 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>An HTML-to-PDF renderer like wkhtmltopdf written in Rust that does not depend on Chromium, WebKit, or Gecko. Documentation (English) sghtmltopdf turns HTML into PDF without starting a browser process. It is aimed at documents that flow top to bottom with explicit breaks invoices, receipts, report... — はてなブックマーク テクノロジー / score: 70 (Rust製の新しいHTML-PDFレンダラー公開)</description>
-</item>
-<item>
-<title>[70] 新しい Amazon Bedrock AgentCore Runtime が利用可能に!!</title>
-<link>https://zenn.dev/aws_japan/articles/agentcore-runtime-v2-platform-version</link>
-<guid isPermaLink="true">https://zenn.dev/aws_japan/articles/agentcore-runtime-v2-platform-version</guid>
-<pubDate>Sat, 19 Sep 2026 14:55:28 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>はじめに こんにちは、AWS Japan AI Specialist Solutions Architect の Narimoto です。 AI エージェント基盤上で動くワークロードとしては、数秒で終わるチャットから、数分から数時間動くコーディングエージェント、そして常時稼働する常駐型エージェントへと広がっています。AI エージェントの数も増え、人ではなく他の AI エージェントから起動されることも増えました。常駐型はリクエストが来たときのみ動くのではなく、待っている間も実行環境を保ち続ける必要があるため、基盤側も常に起動している状態が必要で、AI エージェントの数に伴い運用コストが... — Zenn トレンド / score: 70 (AWSの新しいAIエージェント基盤のリリース情報)</description>
-</item>
-<item>
-<title>[70] Spinelすげえ！ Rubyの動的型付けがそのままCに！</title>
-<link>https://qiita.com/tj9999/items/f59ab88f9e0de733659f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/tj9999/items/f59ab88f9e0de733659f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Sat, 19 Sep 2026 08:01:43 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>RubyのAOTコンパイラって何だ？ まつもと ゆきひろさんがRubyのAOT（Ahead Of Time : 事前）コンパイラ「Spinel」をリリースされましたね。 https://github.com/matz/spinel これの開発エピソードが日系ソフトウェア2... — Qiita 人気記事 / score: 70 (RubyのAOTコンパイラSpinelのリリース話題)</description>
+<description>Dennis Brotzky·July 2, 2026 Reverse Engineering ChatGPT Web: How OpenAI Built for a Billion UsersOpen a new tab, type chatgpt.com, and ask it something. No account, no sign in, no spinner. The page is interactive immediately, and the answer starts streaming a moment after you hit enter. That expe... — はてなブックマーク テクノロジー / score: 70 (ChatGPT Webのアーキテクチャ解説記事)</description>
 </item>
 </channel>
 </rss>
