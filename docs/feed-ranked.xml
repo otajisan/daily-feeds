@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 21 Sep 2026 02:16:15 +0000</lastBuildDate>
+<lastBuildDate>Mon, 21 Sep 2026 04:11:47 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Google Chrome」に今週2回目のセキュリティ更新、致命的脆弱性2件を含む16件に対処／Windows環境にはv153.0.8010.52/.53が展開中</title>
@@ -511,6 +511,14 @@
 <description>米スタートアップのTypeSafe AIが9月15日（現地時間）に発表したAIモデル「Jev」（ジェヴ）が、海外や日本のAIコミュニティで大きな注目を集めている。創業者であるディオゴ・アルメイダ氏の発表はX上で3700万回以上表示されている（9月20日時点）。 JevはChatGPTのように「会話するAI」ではない。その代わり、ユーザー... — はてなブックマーク テクノロジー / score: 75 (文章を書かないAIモデルJevの注目トレンド)</description>
 </item>
 <item>
+<title>[75] 毎秒数十万スパンを扱う、高トラフィック環境での分散トレーシング基盤の構築 | CyberAgent Developers Blog</title>
+<link>https://developers.cyberagent.co.jp/blog/archives/65910/</link>
+<guid isPermaLink="true">https://developers.cyberagent.co.jp/blog/archives/65910/</guid>
+<pubDate>Sun, 20 Sep 2026 02:44:49 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>実際のルールは複数の条件を組み合わせていますが、基本的な構造だけを抜き出すと次のようになります。 processors: tail_sampling: decision_wait: 10s sample_on_first_match: true policies: # エラーを含むトレースは保持する - name: errors type: status_code status_code: status_codes: - ERROR # 上の条件に一... — はてなブックマーク テクノロジー / score: 75 (高トラフィック環境での分散トレーシング基盤の構築事例)</description>
+</item>
+<item>
 <title>[75] VRAM容量32GBで30万円未満なIntelグラボ「Intel Arc Pro B70 Creator 32GB」でローカルLLM「Qwen3.8 27B」や動画生成AI「MiniMax H3」を実行して生成速度を確かめてみた</title>
 <link>https://gigazine.net/news/20260919-arc-pro-b70-llm-review/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260919-arc-pro-b70-llm-review/</guid>
@@ -775,6 +783,14 @@
 <description>OpenAIのGreg Brockman氏やMark Chen氏、NVIDIAのJensen Huang氏が、Xへの投稿でAGI（汎用人工知能）の到来や、その時代への移行に言及した。 — gihyo.jp / score: 75 (AGI到来に関する業界トップの発言)</description>
 </item>
 <item>
+<title>[70] 「Windows Update」の定例外更新に注目集まる、不具合に緊急対処 ～窓の杜アクセスランキング［2026/9/14～2026/9/20]【記事アクセスランキング】</title>
+<link>https://forest.watch.impress.co.jp/docs/serial/accessranking/2142522.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/serial/accessranking/2142522.html</guid>
+<pubDate>Mon, 21 Sep 2026 02:45:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>前週に閲覧数の多かった記事を、上位10位までレポートします。 — 窓の杜 / score: 70 (Windows Updateの定例外更新や不具合対応の動向)</description>
+</item>
+<item>
 <title>[70] 写真を疑う時代が来たので、iPhoneが証明書を持ってきました</title>
 <link>https://www.gizmodo.jp/article/apple-reference-image-iphone18pro/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/apple-reference-image-iphone18pro/</guid>
@@ -789,22 +805,6 @@
 <pubDate>Sat, 19 Sep 2026 14:55:28 +0000</pubDate>
 <category>Zenn トレンド</category>
 <description>はじめに こんにちは、AWS Japan AI Specialist Solutions Architect の Narimoto です。 AI エージェント基盤上で動くワークロードとしては、数秒で終わるチャットから、数分から数時間動くコーディングエージェント、そして常時稼働する常駐型エージェントへと広がっています。AI エージェントの数も増え、人ではなく他の AI エージェントから起動されることも増えました。常駐型はリクエストが来たときのみ動くのではなく、待っている間も実行環境を保ち続ける必要があるため、基盤側も常に起動している状態が必要で、AI エージェントの数に伴い運用コストが... — Zenn トレンド / score: 70 (AWSの新しいAIエージェント基盤のリリース情報)</description>
-</item>
-<item>
-<title>[70] テキストAIの透かし・ウォーターマークは技術的に困難な上に簡単に削除できる</title>
-<link>https://gigazine.net/news/20260919-text-ai-watermarks/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260919-text-ai-watermarks/</guid>
-<pubDate>Sat, 19 Sep 2026 07:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>2026年8月より欧州連合(EU)でAI法が施行され、EU域内ではAIによって生成されたコンテンツであることを検出可能にする義務が課されるようになり、EU域内で事業を行う大規模言語モデル(LLM)プロバイダーに対してAI生成物であることを示す「ウォーターマーク」の適用が事実上義務付けられるようになりました。しかしながら、テキストに対するAIウォーターマーク技術には技術的な難しさに加えて実効性に関する課題があると言われています。ソフトウェアエンジニアのショーン・グーデッケ氏は自身のブログにて、テキストにウォーターマークを人間に気付かれない形で埋め込むことの困難さと、せっかく埋め込んだウォーターマークが簡単に削除できてしまうことについて解説しています。 続きを読む... — GIGAZINE / score: 70 (AIウォーターマーク技術の課題と法的動向)</description>
-</item>
-<item>
-<title>[70] Jevはどこで使うべきか？ LLM・機械学習・ルールベースとの使い分け</title>
-<link>https://qiita.com/Isaka-code/items/8944ef8b521517f92da0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/Isaka-code/items/8944ef8b521517f92da0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Fri, 18 Sep 2026 23:38:51 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>はじめに 2026年9月、TypeSafe AIからJevという新しいAIモデルが公開されました。 JevはLLMのように文章を生成するモデルではなく、分類・判定・スコアリングなどの意思決定に特化したモデルです。TypeSafe AIはこの種類のモデルをSystem... — Qiita 人気記事 / score: 70 (判定専用AI Jevの使い分け解説)</description>
 </item>
 </channel>
 </rss>
