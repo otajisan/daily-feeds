@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 21 Sep 2026 18:11:13 +0000</lastBuildDate>
+<lastBuildDate>Mon, 21 Sep 2026 20:09:08 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Google Chrome」に今週2回目のセキュリティ更新、致命的脆弱性2件を含む16件に対処／Windows環境にはv153.0.8010.52/.53が展開中</title>
@@ -21,6 +21,14 @@
 <pubDate>Tue, 08 Sep 2026 10:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean. — OpenAI News / score: 95 (AIによるミレニアム問題の解決と形式検証の快挙)</description>
+</item>
+<item>
+<title>[90] Upcoming Next.js Security Update for a Critical Upstream Issue</title>
+<link>https://nextjs.org/blog/upcoming-nextjs-security-release-september-22-2026</link>
+<guid isPermaLink="true">https://nextjs.org/blog/upcoming-nextjs-security-release-september-22-2026</guid>
+<pubDate>Mon, 21 Sep 2026 20:00:00 +0000</pubDate>
+<category>Next.js Blog</category>
+<description>Next.js 16.3.6 and 15.5.26 are planned for a critical out-of-band security update on September 22, 2026. — Next.js Blog / score: 90 (重要度の高いフレームワークのセキュリティ更新)</description>
 </item>
 <item>
 <title>[90] Geminiが他社システムに侵入</title>
@@ -797,14 +805,6 @@
 <pubDate>Mon, 21 Sep 2026 16:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>Demand for AI infrastructure is at an all-time high. Global accelerator shortages mean engineering teams can rarely get all the compute they need from just one data center — capacity comes a cluster here, a cluster there, often an ocean apart. At the same time, workloads are getting hungrier: Today’s long-running agentic workloads often have context windows of 100k to 800k+ tokens, which consume accelerator memory faster than any previous generation of AI traffic. In this environment, the goal i — Google Cloud Blog / score: 70 (GKEインフラを活用した効率的なAIルーティング解説)</description>
-</item>
-<item>
-<title>[70] JevをDatabricksのUC Connection経由で使ってみる</title>
-<link>https://qiita.com/isanakamishiro2/items/8ddd22a7f74c396b0e13?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/isanakamishiro2/items/8ddd22a7f74c396b0e13?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Mon, 21 Sep 2026 03:30:45 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>Jev、かなり盛り上がってますね。新しさと懐かしさと両方を感じます。 はじめに TypeSafe AIからJevというモデルがリリースされました。従来のLLMとは異なりテキストを生成するのではなく、構造化された判定結果を確率付きで返す、というものです。実際のビジネスにおい... — Qiita 人気記事 / score: 70 (Databricks経由でのJevモデルの利用検証)</description>
 </item>
 </channel>
 </rss>
