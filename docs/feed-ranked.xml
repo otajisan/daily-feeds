@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 21 Sep 2026 12:13:30 +0000</lastBuildDate>
+<lastBuildDate>Mon, 21 Sep 2026 14:10:36 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Google Chrome」に今週2回目のセキュリティ更新、致命的脆弱性2件を含む16件に対処／Windows環境にはv153.0.8010.52/.53が展開中</title>
@@ -543,14 +543,6 @@
 <description>はじめに 2026年9月、TypeSafe AI が Jev を公開しました。 文章を生成せず、型付きの判断と確率を返すモデルです。公式はこれを System One モデルと呼んでいます。 機械学習を学習している側から見ると、気になるのは速さの宣伝より次の整理です。 ... — Qiita 人気記事 / score: 75 (判断特化モデルJevの特性とアーキテクチャ選定)</description>
 </item>
 <item>
-<title>[75] 毎秒数十万スパンを扱う、高トラフィック環境での分散トレーシング基盤の構築 | CyberAgent Developers Blog</title>
-<link>https://developers.cyberagent.co.jp/blog/archives/65910/</link>
-<guid isPermaLink="true">https://developers.cyberagent.co.jp/blog/archives/65910/</guid>
-<pubDate>Sun, 20 Sep 2026 02:44:49 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>実際のルールは複数の条件を組み合わせていますが、基本的な構造だけを抜き出すと次のようになります。 processors: tail_sampling: decision_wait: 10s sample_on_first_match: true policies: # エラーを含むトレースは保持する - name: errors type: status_code status_code: status_codes: - ERROR # 上の条件に一... — はてなブックマーク テクノロジー / score: 75 (高トラフィック環境での分散トレーシング基盤の構築事例)</description>
-</item>
-<item>
 <title>[75] VRAM容量32GBで30万円未満なIntelグラボ「Intel Arc Pro B70 Creator 32GB」でローカルLLM「Qwen3.8 27B」や動画生成AI「MiniMax H3」を実行して生成速度を確かめてみた</title>
 <link>https://gigazine.net/news/20260919-arc-pro-b70-llm-review/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260919-arc-pro-b70-llm-review/</guid>
@@ -805,6 +797,14 @@
 <pubDate>Mon, 21 Sep 2026 02:45:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>前週に閲覧数の多かった記事を、上位10位までレポートします。 — 窓の杜 / score: 70 (Windows Updateの定例外更新や不具合対応の動向)</description>
+</item>
+<item>
+<title>[70] tokenizers v1: encode, decode and scaling, measured</title>
+<link>https://huggingface.co/blog/tokenizers-v1</link>
+<guid isPermaLink="true">https://huggingface.co/blog/tokenizers-v1</guid>
+<pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+<category>Hugging Face Blog</category>
+<description> — Hugging Face Blog / score: 70 (トークナイザーv1のエンコード性能測定に関する技術ブログ)</description>
 </item>
 </channel>
 </rss>
