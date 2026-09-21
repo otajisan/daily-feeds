@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 21 Sep 2026 16:10:25 +0000</lastBuildDate>
+<lastBuildDate>Mon, 21 Sep 2026 18:11:13 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Google Chrome」に今週2回目のセキュリティ更新、致命的脆弱性2件を含む16件に対処／Windows環境にはv153.0.8010.52/.53が展開中</title>
@@ -511,6 +511,14 @@
 <description>AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome. — Google DeepMind / score: 80 (全DNA変異を予測する画期的なゲノムマップの発表)</description>
 </item>
 <item>
+<title>[75] iPhone18 Pro/Pro Maxで予期せぬ再起動の報告相次ぐ、Face ID失敗と関連か</title>
+<link>https://iphone-mania.jp/iphone18-606422/</link>
+<guid isPermaLink="true">https://iphone-mania.jp/iphone18-606422/</guid>
+<pubDate>Mon, 21 Sep 2026 16:32:04 +0000</pubDate>
+<category>iPhone Mania</category>
+<description>発売されたばかりのiPhone18 ProとiPhone18 Pro Maxで、突然再起動する問題が複数のユーザーから報告されています。日本のXでも「panic-full」の診断ログや、Face ID認証に失敗した直後に […] — iPhone Mania / score: 75 (最新iPhone Proでの予期せぬ再起動不具合の報告)</description>
+</item>
+<item>
 <title>[75] ｢Apple Watch Ultra 4｣と｢Apple Watch Series 12｣、一部で予期せず再起動する問題が発生</title>
 <link>https://taisy0.com/2026/09/21/227882.html</link>
 <guid isPermaLink="true">https://taisy0.com/2026/09/21/227882.html</guid>
@@ -671,14 +679,6 @@
 <description>米Microsoftは9月10日（現地時間）、公式ブログ「Windows IT Pro Blog」で、Windowsのライセンス認証を自動化するスクリプトを「PowerShell」へ移行するよう呼び掛けた。ライセンス認証の自動化には「slmgr.vbs」が広く用いられているが、「VBScript」はすでに非推奨となっており、将来のWindowsからは削除される予定。そうなれば、「slmgr.vbs」に依存した自動化も動かなくなってしまう。 — 窓の杜 / score: 75 (VBScript廃止に伴うWindows管理の移行注意喚起)</description>
 </item>
 <item>
-<title>[75] Agent Substrate brings high-density, scalable, trusted infrastructure to GKE</title>
-<link>https://cloud.google.com/blog/products/containers-kubernetes/agent-substrate-available-on-gke/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/products/containers-kubernetes/agent-substrate-available-on-gke/</guid>
-<pubDate>Tue, 15 Sep 2026 16:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>Today, we are announcing the availability of Agent Substrate on Google Kubernetes Engine (GKE). Agent Substrate is an open-source, secure-by-default agent execution runtime engineered to run millions of sandboxes with 10x higher density than standard container runtimes . Purpose-built for the era of autonomous agents, Substrate delivers sub-500ms resume operations at over 500 suspend/resume activations per second with native zero-trust kernel and network isolation. Agent Substrate is available a — Google Cloud Blog / score: 75 (GKE向けエージェント実行基盤の発表)</description>
-</item>
-<item>
 <title>[75] オープンソースのコーディングエージェントClineのデスクトップアプリ「Cline Desktop」が登場</title>
 <link>https://gihyo.jp/article/2026/09/cline-desktop?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/09/cline-desktop?utm_source=feed</guid>
@@ -791,20 +791,20 @@
 <description>OpenAIは2026年9月8日、ChatGPT Workを日常使うアプリと連携させることでユーザーの文章スタイルを学習し、文章作成内容に反映させる機能を装備したことを発表した。 — gihyo.jp / score: 75 (ChatGPTの文章スタイル学習機能追加)</description>
 </item>
 <item>
+<title>[70] Global AI routing with &lt;1% overhead on multi-cluster GKE Inference Gateway</title>
+<link>https://cloud.google.com/blog/products/containers-kubernetes/gpu-and-tpu-utilization-with-multi-cluster-gke-inference-gateway/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/containers-kubernetes/gpu-and-tpu-utilization-with-multi-cluster-gke-inference-gateway/</guid>
+<pubDate>Mon, 21 Sep 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Demand for AI infrastructure is at an all-time high. Global accelerator shortages mean engineering teams can rarely get all the compute they need from just one data center — capacity comes a cluster here, a cluster there, often an ocean apart. At the same time, workloads are getting hungrier: Today’s long-running agentic workloads often have context windows of 100k to 800k+ tokens, which consume accelerator memory faster than any previous generation of AI traffic. In this environment, the goal i — Google Cloud Blog / score: 70 (GKEインフラを活用した効率的なAIルーティング解説)</description>
+</item>
+<item>
 <title>[70] JevをDatabricksのUC Connection経由で使ってみる</title>
 <link>https://qiita.com/isanakamishiro2/items/8ddd22a7f74c396b0e13?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
 <guid isPermaLink="true">https://qiita.com/isanakamishiro2/items/8ddd22a7f74c396b0e13?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
 <pubDate>Mon, 21 Sep 2026 03:30:45 +0000</pubDate>
 <category>Qiita 人気記事</category>
 <description>Jev、かなり盛り上がってますね。新しさと懐かしさと両方を感じます。 はじめに TypeSafe AIからJevというモデルがリリースされました。従来のLLMとは異なりテキストを生成するのではなく、構造化された判定結果を確率付きで返す、というものです。実際のビジネスにおい... — Qiita 人気記事 / score: 70 (Databricks経由でのJevモデルの利用検証)</description>
-</item>
-<item>
-<title>[70] 「Windows Update」の定例外更新に注目集まる、不具合に緊急対処 ～窓の杜アクセスランキング［2026/9/14～2026/9/20]【記事アクセスランキング】</title>
-<link>https://forest.watch.impress.co.jp/docs/serial/accessranking/2142522.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/serial/accessranking/2142522.html</guid>
-<pubDate>Mon, 21 Sep 2026 02:45:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>前週に閲覧数の多かった記事を、上位10位までレポートします。 — 窓の杜 / score: 70 (Windows Updateの定例外更新や不具合対応の動向)</description>
 </item>
 </channel>
 </rss>
