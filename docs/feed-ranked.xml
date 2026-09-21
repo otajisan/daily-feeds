@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 21 Sep 2026 08:15:25 +0000</lastBuildDate>
+<lastBuildDate>Mon, 21 Sep 2026 10:09:58 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Google Chrome」に今週2回目のセキュリティ更新、致命的脆弱性2件を含む16件に対処／Windows環境にはv153.0.8010.52/.53が展開中</title>
@@ -519,6 +519,14 @@
 <description>AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome. — Google DeepMind / score: 80 (全DNA変異を予測する画期的なゲノムマップの発表)</description>
 </item>
 <item>
+<title>[75] プロセスが終了しても入出力は行われるのか？プロセスが終了するとio_uringはどうなるのか？</title>
+<link>https://gigazine.net/news/20260921-what-happens-to-io-uring-when-process-dies/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20260921-what-happens-to-io-uring-when-process-dies/</guid>
+<pubDate>Mon, 21 Sep 2026 10:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>一般的なイメージではOSのI/O操作はプロセスが終了すると停止するものと受け止められているのではないでしょうか。しかしながら、LinuxカーネルにおけるI/O操作のライフサイクルは必ずしもプロセスのライフサイクルと一致しないことがあります。特にLinuxカーネル5.1で導入されたio_uringを使用した場合、プロセスが終了した後でもI/O操作がカーネル内で継続しストレージに到達する可能性がデータベースプラットフォーム開発者のエフゲニー・イワノフ氏により報告されています。 続きを読む... — GIGAZINE / score: 75 (Linuxカーネルのio_uring詳細な挙動解説)</description>
+</item>
+<item>
 <title>[75] 軍の売店の冷凍庫にハッキング攻撃か、冷蔵・冷凍食品売り場が国家安全保障上の脅威になる可能性</title>
 <link>https://gigazine.net/news/20260921-military-freezers/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260921-military-freezers/</guid>
@@ -797,14 +805,6 @@
 <pubDate>Mon, 21 Sep 2026 03:30:45 +0000</pubDate>
 <category>Qiita 人気記事</category>
 <description>Jev、かなり盛り上がってますね。新しさと懐かしさと両方を感じます。 はじめに TypeSafe AIからJevというモデルがリリースされました。従来のLLMとは異なりテキストを生成するのではなく、構造化された判定結果を確率付きで返す、というものです。実際のビジネスにおい... — Qiita 人気記事 / score: 70 (Databricks経由でのJevモデルの利用検証)</description>
-</item>
-<item>
-<title>[70] 「Windows Update」の定例外更新に注目集まる、不具合に緊急対処 ～窓の杜アクセスランキング［2026/9/14～2026/9/20]【記事アクセスランキング】</title>
-<link>https://forest.watch.impress.co.jp/docs/serial/accessranking/2142522.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/serial/accessranking/2142522.html</guid>
-<pubDate>Mon, 21 Sep 2026 02:45:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>前週に閲覧数の多かった記事を、上位10位までレポートします。 — 窓の杜 / score: 70 (Windows Updateの定例外更新や不具合対応の動向)</description>
 </item>
 </channel>
 </rss>

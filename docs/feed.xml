@@ -4,8 +4,112 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 21 Sep 2026 08:15:25 +0000</lastBuildDate>
+<lastBuildDate>Mon, 21 Sep 2026 10:09:58 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>プロセスが終了しても入出力は行われるのか？プロセスが終了するとio_uringはどうなるのか？</title>
+<link>https://gigazine.net/news/20260921-what-happens-to-io-uring-when-process-dies/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20260921-what-happens-to-io-uring-when-process-dies/</guid>
+<pubDate>Mon, 21 Sep 2026 10:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>一般的なイメージではOSのI/O操作はプロセスが終了すると停止するものと受け止められているのではないでしょうか。しかしながら、LinuxカーネルにおけるI/O操作のライフサイクルは必ずしもプロセスのライフサイクルと一致しないことがあります。特にLinuxカーネル5.1で導入されたio_uringを使用した場合、プロセスが終了した後でもI/O操作がカーネル内で継続しストレージに到達する可能性がデータベースプラットフォーム開発者のエフゲニー・イワノフ氏により報告されています。 続きを読む... — GIGAZINE / score: 75 (Linuxカーネルのio_uring詳細な挙動解説)</description>
+</item>
+<item>
+<title>「大胆な姿をギュッと詰め込みました」グラビア活動15周年の葉月ゆめ、念願の1st写真集を発売！</title>
+<link>https://ascii.jp/elem/000/004/436/4436470/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/436/4436470/?rss</guid>
+<pubDate>Mon, 21 Sep 2026 10:00:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>今年でグラビアデビューから15年。現在は歯科衛生士としても働いている葉月ゆめ（はづき・ゆめ）さんが、1st写真集「予知夢」の発売記念イベントを9月6日、秋葉原の書泉ブックタワーで開催した。 — ASCII.jp / score: 5 (グラビアアイドルの写真集発売イベント)</description>
+</item>
+<item>
+<title>【0915岡本】紙っぽい質感が良い。エイサーからタッチ操作タブレットの13.3インチ電子ペーパー</title>
+<link>https://www.gizmodo.jp/article/acer-ep0/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/acer-ep0/</guid>
+<pubDate>Mon, 21 Sep 2026 10:00:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>趣味も仕事もギラついた画面は要らない。スマホやタブレットの悩みのひとつに、「バッテリーが期待するほど長持ちしない」が挙げられるかと思います。個人差はあるかもしれませんが、画面の色味がキツくて眩しいってのもあるかも。逆に真夏の外だと暗くて見え… — ギズモード・ジャパン / score: 30 (電子ペーパータブレットの新製品紹介)</description>
+</item>
+<item>
+<title>iPhone20 Pro/20 Pro Maxのディスプレイサイズと解像度が判明か</title>
+<link>https://iphone-mania.jp/iphone18-606346/</link>
+<guid isPermaLink="true">https://iphone-mania.jp/iphone18-606346/</guid>
+<pubDate>Mon, 21 Sep 2026 09:40:25 +0000</pubDate>
+<category>iPhone Mania</category>
+<description>iPhone発売20周年モデルとして2027年に発売されると噂のiPhone20 ProとiPhone20 Pro Maxについて、ディスプレイサイズと解像度に関する情報をリーカーが中国SNS「Weibo」に投稿しました […] — iPhone Mania / score: 20 (数年後のiPhoneのスペックに関するリーク情報)</description>
+</item>
+<item>
+<title>iPhoneは何%で充電する？約3年使って最大容量84%の充電習慣</title>
+<link>https://iphone-mania.jp/iphone15-606344/</link>
+<guid isPermaLink="true">https://iphone-mania.jp/iphone15-606344/</guid>
+<pubDate>Mon, 21 Sep 2026 09:30:00 +0000</pubDate>
+<category>iPhone Mania</category>
+<description>iPhoneを何%で充電するのが正解なのか、疑問を持ったことがある方も多いでしょう。筆者はiPhone15 Proを約3年使い続け、現在のバッテリー最大容量は84%、充放電回数は723回です。 特別な管理をしてきたわけで […] — iPhone Mania / score: 15 (一般的なバッテリー寿命に関するコラム)</description>
+</item>
+<item>
+<title>スマホアプリを開かず、録音から要約まで。AIレコーダー「Oxtak」に任せたい</title>
+<link>https://www.gizmodo.jp/article/2609-oxtak-money-penny-ai-voice-recorder/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/2609-oxtak-money-penny-ai-voice-recorder/</guid>
+<pubDate>Mon, 21 Sep 2026 09:30:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>サイバーなデザインと高いセキュリティを備えたAIボイスレコーダー「Oxtak」の魅力を紹介。自動要約や97言語の翻訳機能を搭載し、ビジネスから日常まで活躍する1台3役のマルチなガジェットです。 — ギズモード・ジャパン / score: 35 (AIボイスレコーダーのガジェット紹介)</description>
+</item>
+<item>
+<title>ヤシカの隠れ名機「Y16」がデジタルカメラとして復刻</title>
+<link>https://www.gizmodo.jp/article/yashica-y16-pocket-camera/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/yashica-y16-pocket-camera/</guid>
+<pubDate>Mon, 21 Sep 2026 09:15:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>レトロフューチャーとはこのこと。YASHICA（ヤシカ）は1949年〜1983年まで存在していた国産のカメラメーカー。現在は香港の会社が商標を持っており、ヤシカブランドを冠した現代的なカメラを手掛けています。そんなYASHICAから、195… — ギズモード・ジャパン / score: 25 (レトロカメラの復刻・製品紹介)</description>
+</item>
+<item>
+<title>無料でクラウド・ローカルの各AIモデルをOpenAI互換の単一APIでまとめて品質・速度・コストで最適化して管理しAIエージェントがどれだけの金額を使用できるかも制御できるオープンソースのゲートウェイ・ルーター「Experiential」</title>
+<link>https://gigazine.net/news/20260921-experiential/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20260921-experiential/</guid>
+<pubDate>Mon, 21 Sep 2026 09:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>OpenAI・Anthropic・Geminiなど複数のAIモデルを使い分ける場合、APIキーや料金、利用状況の管理もサービスごとに分散します。クラウドやローカルのAIモデルをOpenAI互換の単一APIにまとめ、利用量や予算を一元管理できるオープンソースのAIゲートウェイ「Experiential」が公開されています。 続きを読む... — GIGAZINE / score: 65 (AIモデルのAPI管理OSSの有用な紹介)</description>
+</item>
+<item>
+<title>あの四角い9V電池もUSB Type-Cで充電する時代！ 実際に使ってわかった意外な違い</title>
+<link>https://ascii.jp/elem/000/004/436/4436315/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/436/4436315/?rss</guid>
+<pubDate>Mon, 21 Sep 2026 09:00:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>最近は見かける機会が減った006P型の9V電池ですが、USB Type-Cで直接充電できる製品なら、たまに使う機器の電源として便利そう。そこで9V固定出力の「ENEGON」と最大8.4Vの充電池を比較。サイズや実使用時の電圧、充電時間に加え、オシロスコープを使って気になる電源ノイズまで実測し、その違いをチェックしました。 — ASCII.jp / score: 45 (USB充電対応の特殊電池の実測レビュー)</description>
+</item>
+<item>
+<title>スマートグラスの盗撮防止アプリ、約1カ月で利用者5,000人到達</title>
+<link>https://www.gizmodo.jp/article/smart-glasses-privacy-zuckoff/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/smart-glasses-privacy-zuckoff/</guid>
+<pubDate>Mon, 21 Sep 2026 09:00:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>知らないうちに目の前の人から盗撮されているかも…。近くにカメラ付きスマートグラスがあると知らせるアプリ「ZuckOff」が登場しました。2026年8月にApp Storeで公開されてから約1カ月で利用者は5,000人に達したそうです。カメラ… — ギズモード・ジャパン / score: 50 (スマートグラス盗撮防止アプリの動向)</description>
+</item>
+<item>
+<title>Alibaba、画像生成・編集モデル「Qwen-Image-2.1」を公開　——透明背景の画像にも対応</title>
+<link>https://gihyo.jp/article/2026/09/qwen-image-2.1?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/09/qwen-image-2.1?utm_source=feed</guid>
+<pubDate>Mon, 21 Sep 2026 08:31:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>AlibabaのQwenチームは9月20日、画像生成・編集モデル「Qwen-Image-2.1」をオープンウェイトモデルとして公開した。 — gihyo.jp / score: 60 (オープンウェイト画像生成モデルの公開)</description>
+</item>
+<item>
+<title>「中華そば」なのに“まぜそば”にも！ ZUBAAAN!の二刀流が定番化</title>
+<link>https://ascii.jp/elem/000/004/434/4434663/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/434/4434663/?rss</guid>
+<pubDate>Mon, 21 Sep 2026 08:30:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>東洋水産は「マルちゃんZUBAAAN! 鶏油（チーユ）香る鶏中華そば 3食パック」（466円）を9月21日より、全国にて発売します。 — ASCII.jp / score: 10 (インスタントラーメンの新商品情報)</description>
+</item>
+<item>
+<title>この細さがレトロで新鮮。ポケットサイズなカメラ「Camp Snap 110D camera」が予約受付中</title>
+<link>https://www.gizmodo.jp/article/camp-snap-110d-camera/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/camp-snap-110d-camera/</guid>
+<pubDate>Mon, 21 Sep 2026 08:15:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>あっぶな、一目惚れポチしそうになった。レトロでLo-Fiなデジタルトイカメラ、Camp Snapシリーズ。その最新モデルとなる「Camp Snap 110D camera」が登場し、予約注文を受け付けています。ディスプレイがないシンプルさが… — ギズモード・ジャパン / score: 25 (トイカメラの新製品予約に関する話題)</description>
+</item>
 <item>
 <title>Apple、｢iPhone Duo｣向けApple Pencilの計画を中止 ｰ 量産に向けた技術的な問題が理由</title>
 <link>https://taisy0.com/2026/09/21/227880.html</link>
@@ -21,6 +125,14 @@
 <pubDate>Mon, 21 Sep 2026 08:02:54 +0000</pubDate>
 <category>iPhone Mania</category>
 <description>iPhone18 ProのApple製セルラーモデムシステム「C2」が、Verizonの5G SA環境において下り4,322Mbps（約4.32Gbps）を記録したとNAVERブログ（yeux1122）が報じました。 C […] — iPhone Mania / score: 30 (次期iPhoneのモデム性能に関する噂)</description>
+</item>
+<item>
+<title>デジタル庁が幹部一覧を更新、デジタル大臣には古川俊治氏</title>
+<link>https://codezine.jp/article/detail/29758</link>
+<guid isPermaLink="true">https://codezine.jp/article/detail/29758</guid>
+<pubDate>Mon, 21 Sep 2026 08:00:00 +0000</pubDate>
+<category>CodeZine</category>
+<description> — CodeZine / score: 20 (政府機関の人事異動に関するニュース)</description>
 </item>
 <item>
 <title>軍の売店の冷凍庫にハッキング攻撃か、冷蔵・冷凍食品売り場が国家安全保障上の脅威になる可能性</title>
@@ -63,6 +175,14 @@
 <description>これが家事手伝いロボとは誰も思うまい。最近は家事手伝い用の、人型ヒューマノイド・ロボットがアレコレ作られています。家の中を歩いて洗濯物をたたんだり、散らかった衣類やゴミを集めたり、食洗機にお皿を並べるなど人間の代わりに軽作業を行えます。でも… — ギズモード・ジャパン / score: 40 (家庭用ロボットアームに関する話題)</description>
 </item>
 <item>
+<title>「三井アウトレットパーク 札幌北広島」にAIでのパーソナルカラー診断やYOASOBIのドームツアー公演ロゴ入りフォトフレームでのフォト撮影など様々な体験が楽しめる「＋PLUS MIRROR」を設置</title>
+<link>https://ascii.jp/elem/000/004/436/4436589/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/436/4436589/?rss</guid>
+<pubDate>Mon, 21 Sep 2026 07:40:20 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>「三井アウトレットパーク 札幌北広島」にAIでのパーソナルカラー診断やYOASOBIのドームツアー公演ロゴ入りフォトフレームでのフォト撮影など様々な体験が楽しめる「＋PLUS MIRROR」を設置 — ASCII.jp / score: 20 (商業施設でのAI体験イベント情報)</description>
+</item>
+<item>
 <title>｢iPhone 20 Pro｣シリーズのディスプレイのサイズや解像度に関する情報が明らかに</title>
 <link>https://taisy0.com/2026/09/21/227878.html</link>
 <guid isPermaLink="true">https://taisy0.com/2026/09/21/227878.html</guid>
@@ -101,6 +221,14 @@
 <pubDate>Mon, 21 Sep 2026 06:26:23 +0000</pubDate>
 <category>iPhone Mania</category>
 <description>iPhone18 ProとiPhone18 Pro Maxを分解した修理専門サイトiFixitが、両モデルの修理可能性を暫定で「10点中7点」と評価しました。バッテリーを固定する金属製トレイなど、修理しやすい部分がある一 […] — iPhone Mania / score: 35 (次期iPhoneの分解レポート記事)</description>
+</item>
+<item>
+<title>中秋の名月シーズン限定、pCloudの生涯プランが最大64%OFF!ゼロ知識暗号化「pCloud Encryption」も無料に</title>
+<link>https://ascii.jp/elem/000/004/436/4436590/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/436/4436590/?rss</guid>
+<pubDate>Mon, 21 Sep 2026 06:18:41 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>中秋の名月シーズン限定、pCloudの生涯プランが最大64%OFF!ゼロ知識暗号化「pCloud Encryption」も無料に — ASCII.jp / score: 15 (クラウドストレージのセール情報)</description>
 </item>
 <item>
 <title>AIデータセンター、ほんとにヤバいのは廃棄物かも…想定の40〜60倍？</title>
@@ -175,6 +303,14 @@
 <description>AppleはiPhone Duoのサイズに合わせた短いApple Pencilの開発を進めていたものの、最終的に既存のApple Pencil（USB-C）を対応させることとし、専用Apple Pencilの開発は中止さ […] — iPhone Mania / score: 20 (開発中止となったApple製品の噂話)</description>
 </item>
 <item>
+<title>フラッグシップ8チャンネルISAマイクプリアンプ、Focusrite「ISA 828 MKII」が97,140円オフ！</title>
+<link>https://computermusic.jp/2026/09/focusrite-isa-828-mkii/</link>
+<guid isPermaLink="true">https://computermusic.jp/2026/09/focusrite-isa-828-mkii/</guid>
+<pubDate>Mon, 21 Sep 2026 04:46:12 +0000</pubDate>
+<category>Computer Music Japan</category>
+<description>フラッグシップ8チャンネルISAマイクプリアンプ、Focusrite「ISA 828 MKII」が97,140円オフとなっています。 Rock oNではアウトレットセールを開催中です。合わせてチェックしてみてください。 ... The post フラッグシップ8チャンネルISAマイクプリアンプ、Focusrite「ISA 828 MKII」が97,140円オフ！ first appeared on Computer Music Japan . — Computer Music Japan / score: 20 (音響機器のアウトレットセール情報)</description>
+</item>
+<item>
 <title>iPhone 18 ProでFace IDが効かない場合の対処法が公開。濃いメイクはNG</title>
 <link>https://www.gizmodo.jp/article/2609-iphone-18-pro-face-id-fix/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/2609-iphone-18-pro-face-id-fix/</guid>
@@ -191,6 +327,14 @@
 <description>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 Claude Code が AGENTS.md... — Qiita 人気記事 / score: 20 (Qiitaトレンド記事のポッドキャスト紹介)</description>
 </item>
 <item>
+<title>Rolandの50年以上にわたるシンセサイザーの研究開発技術を集約した、Roland「ZENOLOGY PRO」が57%OFF！</title>
+<link>https://computermusic.jp/2026/09/roland-zenology-pro/</link>
+<guid isPermaLink="true">https://computermusic.jp/2026/09/roland-zenology-pro/</guid>
+<pubDate>Mon, 21 Sep 2026 04:31:17 +0000</pubDate>
+<category>Computer Music Japan</category>
+<description>Rolandの50年以上にわたるシンセサイザーの研究開発技術を集約した、Roland「ZENOLOGY PRO」が57%OFFとなっています。 Rolandでは、Synth Monthセールを開催中です。人気にシンセサイ... The post Rolandの50年以上にわたるシンセサイザーの研究開発技術を集約した、Roland「ZENOLOGY PRO」が57%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 20 (ソフトウェア音源のセール情報)</description>
+</item>
+<item>
 <title>すべすべとろんで気持ちいい。MUJI Laboのワンマイルウエアは旅先の移動着にも</title>
 <link>https://www.gizmodo.jp/article/mujilabo-smooth-jersey-longsleeve-pullover/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/mujilabo-smooth-jersey-longsleeve-pullover/</guid>
@@ -205,6 +349,14 @@
 <pubDate>Mon, 21 Sep 2026 04:29:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>デザイナーのRobbie Tilton氏は9月18日、Photoshop風のMac向け画像編集アプリ「Compositor」を無料・オープンソースで公開したことをXで発表した。 — gihyo.jp / score: 50 (Photoshop風オープンソース画像編集アプリの公開)</description>
+</item>
+<item>
+<title>1972年製のminimoogを細部に至るまで忠実にモデリングした、Softube「Model 72 Synthesizer」が62%OFF！</title>
+<link>https://computermusic.jp/2026/09/softube-model-72-synthesizer/</link>
+<guid isPermaLink="true">https://computermusic.jp/2026/09/softube-model-72-synthesizer/</guid>
+<pubDate>Mon, 21 Sep 2026 04:16:43 +0000</pubDate>
+<category>Computer Music Japan</category>
+<description>1972年製のminimoogを細部に至るまで忠実にモデリングした、Softube「Model 72 Synthesizer」が62%OFFとなっています。 PluginBoutuqueでは、毎年9月恒例のシンセ月間、S... The post 1972年製のminimoogを細部に至るまで忠実にモデリングした、Softube「Model 72 Synthesizer」が62%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 20 (プラグインシンセサイザーのセール情報)</description>
 </item>
 <item>
 <title>Uravation、「AI画像チェッカー」「画像の文字起こし（OCR）」「生成AIパスポート 模擬試験」など無料ツール6種類を追加し、自社サイトの無料ツールは計17種類に。いずれも登録不要・無料</title>
@@ -237,6 +389,14 @@
 <pubDate>Mon, 21 Sep 2026 04:05:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>「Microsoft Edge 153」で一部Webアプリの操作中にウィンドウが固まる問題は、「Chromium」側の問題だったようだ。米Salesforceが9月16日（米国時間）、Windows環境の「Google Chrome」「Microsoft Edge」をv153へアップデートすると、「Salesforce」のユーザーインターフェイス（UI）がセッションの途中で操作を受け付けなくなることがあるとして、サポート文書を公開している。 — 窓の杜 / score: 80 (主要ブラウザ不具合によるSalesforceの障害)</description>
+</item>
+<item>
+<title>インテリジェントなAIプラグイン3種類をバンドルした、sonible「smart:essentials Bundle」が40%OFF！</title>
+<link>https://computermusic.jp/2026/09/smartessentials-bundle/</link>
+<guid isPermaLink="true">https://computermusic.jp/2026/09/smartessentials-bundle/</guid>
+<pubDate>Mon, 21 Sep 2026 04:01:55 +0000</pubDate>
+<category>Computer Music Japan</category>
+<description>インテリジェントなAIプラグイン3種類をバンドルした、sonible「smart:essentials Bundle」が40%OFFとなっています。 sonibleでは、最大51%OFFセールを開催中です。合わせてチェッ... The post インテリジェントなAIプラグイン3種類をバンドルした、sonible「smart:essentials Bundle」が40%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 20 (AIプラグインのセール情報)</description>
 </item>
 <item>
 <title>IBM Bobはエンタープライズ開発をどう変えるのか【デブクロ2026 注目セッション】</title>
@@ -287,6 +447,22 @@
 <description>成果につながる方法を、本人が使える仕事へ | 組織行動科学(R)の研究と実践を図解10枚で無料公開 — ASCII.jp / score: 30 (組織行動科学の研究と実践に関する公開資料)</description>
 </item>
 <item>
+<title>伝説的なCK12カプセルと同じクリティカル・ディメンションでデザインしたCKR6シングル・セラミック・カプセルを搭載したカーディオイド・モデル、Austrian Audio「OC18 Studio Set」が23%OFF！</title>
+<link>https://computermusic.jp/2026/09/austrian-audio-oc18-studio-set/</link>
+<guid isPermaLink="true">https://computermusic.jp/2026/09/austrian-audio-oc18-studio-set/</guid>
+<pubDate>Mon, 21 Sep 2026 03:46:28 +0000</pubDate>
+<category>Computer Music Japan</category>
+<description>伝説的なCK12カプセルと同じクリティカル・ディメンションでデザインしたCKR6シングル・セラミック・カプセルを搭載したカーディオイド・モデル、Austrian Audio「OC18 Studio Set」が23%OFF... The post 伝説的なCK12カプセルと同じクリティカル・ディメンションでデザインしたCKR6シングル・セラミック・カプセルを搭載したカーディオイド・モデル、Austrian Audio「OC18 Studio Set」が23%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 20 (音楽制作用機材のセールの告知であるため)</description>
+</item>
+<item>
+<title>【9/22夕方まで】クラシックとモダン双方のスタイルに対応したマスタリンググレードコンプレッサー、Solid State Logic「SSL Native X-Comp」が89%OFF！</title>
+<link>https://computermusic.jp/2026/09/ssl-native-x-comp/</link>
+<guid isPermaLink="true">https://computermusic.jp/2026/09/ssl-native-x-comp/</guid>
+<pubDate>Mon, 21 Sep 2026 03:31:16 +0000</pubDate>
+<category>Computer Music Japan</category>
+<description>クラシックとモダン双方のスタイルに対応したマスタリンググレードコンプレッサー、Solid State Logic「SSL Native X-Comp」が89%OFFとなっています。 SSLでは、Xシリーズが最大89%OF... The post 【9/22夕方まで】クラシックとモダン双方のスタイルに対応したマスタリンググレードコンプレッサー、Solid State Logic「SSL Native X-Comp」が89%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 15 (音楽制作用プラグインのセール情報)</description>
+</item>
+<item>
 <title>JevをDatabricksのUC Connection経由で使ってみる</title>
 <link>https://qiita.com/isanakamishiro2/items/8ddd22a7f74c396b0e13?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
 <guid isPermaLink="true">https://qiita.com/isanakamishiro2/items/8ddd22a7f74c396b0e13?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
@@ -301,6 +477,14 @@
 <pubDate>Mon, 21 Sep 2026 03:30:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>今年の夏、よく生き延びましたよね。7月は毎日のように「40度」の文字を見て、8月には豪雨や台風がやたらと来た。そして9月になって気象庁と研究者たちが「なぜこうだったのか」の答え合わせを出してきたんです。ざっくりまとめると、地球温暖化が土台を… — ギズモード・ジャパン / score: 30 (気候変動に関するサイエンス系の読み物であるため)</description>
+</item>
+<item>
+<title>80年代に最も称賛されたRolandのリズムマシン5機種バンドル、Roland「Drum Machine Collection」が59%OFF！</title>
+<link>https://computermusic.jp/2026/09/drum-machine-collection/</link>
+<guid isPermaLink="true">https://computermusic.jp/2026/09/drum-machine-collection/</guid>
+<pubDate>Mon, 21 Sep 2026 03:16:39 +0000</pubDate>
+<category>Computer Music Japan</category>
+<description>80年代に最も称賛されたRolandのリズムマシン5機種バンドル、Roland「Drum Machine Collection」が59%OFFとなっています。 Rolandでは、Synth Monthセールを開催中です。... The post 80年代に最も称賛されたRolandのリズムマシン5機種バンドル、Roland「Drum Machine Collection」が59%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 20 (リズムマシンバンドルのセール情報)</description>
 </item>
 <item>
 <title>「冷やす」も「温める」も、このバッグひとつ。保冷・保温バッグ「GUOER K2」がMakuakeにて日本先行販売中</title>
@@ -325,6 +509,22 @@
 <pubDate>Mon, 21 Sep 2026 03:03:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>【再掲】 — 窓の杜 / score: 40 (PDF編集ソフトの新機能に関する紹介記事)</description>
+</item>
+<item>
+<title>史上最高の売上と最多受賞を誇るオーケストラ音源、EastWest「Hollywood Orchestra Opus Edition」が75%OFF！</title>
+<link>https://computermusic.jp/2026/09/hollywood-orchestra-opus-edition/</link>
+<guid isPermaLink="true">https://computermusic.jp/2026/09/hollywood-orchestra-opus-edition/</guid>
+<pubDate>Mon, 21 Sep 2026 03:01:03 +0000</pubDate>
+<category>Computer Music Japan</category>
+<description>史上最高の売上と最多受賞を誇るオーケストラ音源、EastWest「Hollywood Orchestra Opus Edition」が75%OFFとなっています。 EASTWESTでは、レイバーデイセールを開催中です。合... The post 史上最高の売上と最多受賞を誇るオーケストラ音源、EastWest「Hollywood Orchestra Opus Edition」が75%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 25 (音源ソフトの大規模セール情報のため)</description>
+</item>
+<item>
+<title>ごく自然なドラムサウンドを提供するポストパンク～シンセポップ向けSDXライブラリ、TOONTRACK「SDX – THE ROOMS OF HANSA」が40%OFF！</title>
+<link>https://computermusic.jp/2026/09/sdx-the-rooms-of-hansa/</link>
+<guid isPermaLink="true">https://computermusic.jp/2026/09/sdx-the-rooms-of-hansa/</guid>
+<pubDate>Mon, 21 Sep 2026 03:01:01 +0000</pubDate>
+<category>Computer Music Japan</category>
+<description>ごく自然なドラムサウンドを提供するポストパンク～シンセポップ向けSDXライブラリ、TOONTRACK「SDX – THE ROOMS OF HANSA」が40%OFFとなっています。 Toontrackでは、... The post ごく自然なドラムサウンドを提供するポストパンク～シンセポップ向けSDXライブラリ、TOONTRACK「SDX – THE ROOMS OF HANSA」が40%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 20 (DTM用音源ライブラリのセール情報)</description>
 </item>
 <item>
 <title>MetaのAIエージェント「Muse」が許可していないはずのメッセージを勝手に読んでいるとの指摘</title>
@@ -375,6 +575,14 @@
 <description>Jevが大流行してますね。 すごいなーと思いつつ、ローカルでもできるのかなーと思ってたら、すでに試されてる方がいました！ 早い！！ ソースコード公開されているので、これをそのまま使えばいいのですが、せっかくなので、どういう仕組なのか調べてみました。 きしださんが公... — Qiita 人気記事 / score: 65 (ローカル動作するJevの仕組みの調査)</description>
 </item>
 <item>
+<title>1073® Classicを現代に再現したマイクプリアンプ、AMS Neve「1073N」が69,700円オフ！</title>
+<link>https://computermusic.jp/2026/09/ams-neve-1073n/</link>
+<guid isPermaLink="true">https://computermusic.jp/2026/09/ams-neve-1073n/</guid>
+<pubDate>Mon, 21 Sep 2026 02:46:58 +0000</pubDate>
+<category>Computer Music Japan</category>
+<description>1073® Classicを現代に再現したマイクプリアンプ、AMS Neve「1073N／整備済品」が69,700円オフとなっています。 Rock oNではアウトレットセールを開催中です。合わせてチェックしてみてください... The post 1073® Classicを現代に再現したマイクプリアンプ、AMS Neve「1073N」が69,700円オフ！ first appeared on Computer Music Japan . — Computer Music Japan / score: 20 (音楽用ハードウェアのセール情報のため)</description>
+</item>
+<item>
 <title>「Windows Update」の定例外更新に注目集まる、不具合に緊急対処 ～窓の杜アクセスランキング［2026/9/14～2026/9/20]【記事アクセスランキング】</title>
 <link>https://forest.watch.impress.co.jp/docs/serial/accessranking/2142522.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/serial/accessranking/2142522.html</guid>
@@ -413,6 +621,14 @@
 <pubDate>Mon, 21 Sep 2026 02:29:12 +0000</pubDate>
 <category>Qiita 人気記事</category>
 <description>こんにちは、Claude Codeです。普段から、みのるんの登壇資料づくりを手伝っています。 みのるんが登壇を重ねるなかで培ってきたスライド作成のノウハウを、私たちAIエージェントが読めるスキルの形にまとめて公開しました！ こんな感じのスライドができます。 何が入... — Qiita 人気記事 / score: 45 (登壇資料の作成ノウハウに関する共有)</description>
+</item>
+<item>
+<title>iPhone Duoの実機をチェック。各所から感じるこだわり【西田宗千佳のRandomTracking】</title>
+<link>https://av.watch.impress.co.jp/docs/series/rt/2142512.html</link>
+<guid isPermaLink="true">https://av.watch.impress.co.jp/docs/series/rt/2142512.html</guid>
+<pubDate>Mon, 21 Sep 2026 02:25:55 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>iPhone Duoの実機をチェック。各所から感じるこだわり【西田宗千佳のRandomTracking】 — はてなブックマーク テクノロジー / score: 25 (新ハードウェアの噂と実機チェック)</description>
 </item>
 <item>
 <title>「iPhone Duoは長く使える」 アップルが語る品質・価値を維持する設計【西田宗千佳のイマトミライ】</title>
@@ -519,14 +735,6 @@
 <description>HDD容量を約30%～最大50%削減！HIKVISION、画質を落とさず長期録画を可能にする「Guanlan AIエンコーディング」搭載の次世代DVR「PowerX 2.0」シリーズを発表 — ASCII.jp / score: 35 (AIを活用した独自DVRの製品発表ニュース)</description>
 </item>
 <item>
-<title>「玄人志向」から「Crowxis（クロウシス）」へ！ 25年の歴史を継承し新生ブランドの幕開け【TGS2026特集】</title>
-<link>https://ascii.jp/elem/000/004/436/4436517/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/436/4436517/?rss</guid>
-<pubDate>Mon, 21 Sep 2026 01:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>CFD販売のブランド「玄人志向」が9月1日に「Crowxis（クロウシス）」となり、東京ゲームショウで一般にお披露目された。そんな新ブランド立ち上げの場となったブースを取材した。 — ASCII.jp / score: 25 (PCパーツブランドの名称変更ニュース)</description>
-</item>
-<item>
 <title>物々しさゼロで部屋に馴染むPEACEUPの「防災リュック」</title>
 <link>https://www.gizmodo.jp/article/94c8e5cb-c4f0-4ea7-ae18-eadecf38aa5e/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/94c8e5cb-c4f0-4ea7-ae18-eadecf38aa5e/</guid>
@@ -549,38 +757,6 @@
 <pubDate>Mon, 21 Sep 2026 00:38:47 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>オーストラリアに続いて英国、フランス、EUが相次いでSNSの年齢制限に動き出した。日本でも議論が始まっている。だがオーストラリアでは規制は機能せず、フランスでは憲法院が違憲と判断した。本稿は、年齢認証という技術と一律禁止という手法の限界を検証し、子どもを守るための別の道筋を示す。 近年、インターネット... — はてなブックマーク テクノロジー / score: 60 (オンライン年齢認証の技術的および社会的課題の解説)</description>
-</item>
-<item>
-<title>同じ話を聞いたのに、なぜ見えている仕事が違うのか。</title>
-<link>https://ascii.jp/elem/000/004/436/4436562/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/436/4436562/?rss</guid>
-<pubDate>Mon, 21 Sep 2026 00:32:39 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>同じ話を聞いたのに、なぜ見えている仕事が違うのか。 — ASCII.jp / score: 30 (認識のズレや仕事の進め方に関するビジネスコラム)</description>
-</item>
-<item>
-<title>JISDA、衆議院議員会館にてウクライナ軍代表団を招いた勉強会を開催</title>
-<link>https://ascii.jp/elem/000/004/436/4436563/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/436/4436563/?rss</guid>
-<pubDate>Mon, 21 Sep 2026 00:30:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>JISDA、衆議院議員会館にてウクライナ軍代表団を招いた勉強会を開催 — ASCII.jp / score: 20 (ウクライナ軍代表団を招いた勉強会の開催レポート)</description>
-</item>
-<item>
-<title>女性WEBデザイナー向け案件獲得スクール「lili'sコンサル」、初の交通広告を都営新宿線・京王線で開始 ―「働く場所も、時間も、自分で選ぶ。」</title>
-<link>https://ascii.jp/elem/000/004/436/4436572/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/436/4436572/?rss</guid>
-<pubDate>Mon, 21 Sep 2026 00:29:40 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>女性WEBデザイナー向け案件獲得スクール「lili'sコンサル」、初の交通広告を都営新宿線・京王線で開始 ―「働く場所も、時間も、自分で選ぶ。」 — ASCII.jp / score: 10 (WEBデザイナー向けスクールの広告告知)</description>
-</item>
-<item>
-<title>AIがマイクラのラスボスを8分43秒で討伐　「考えるAstra」と「即断するJev」の分業が面白い</title>
-<link>https://ascii.jp/elem/000/004/436/4436545/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/436/4436545/?rss</guid>
-<pubDate>Mon, 21 Sep 2026 00:15:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>GPT-6 Astraと高速判断AI「Jev」を組み合わせ、マインクラフトのエンダードラゴンを8分43秒で討伐したという報告があった。 — ASCII.jp / score: 55 (AIによるマインクラフト攻略の興味深い実験報告)</description>
 </item>
 <item>
 <title>iPhoneの保護フィルムにApple幹部が本音「見ると鳥肌」耐久性に自信</title>
@@ -629,182 +805,6 @@
 <pubDate>Sun, 20 Sep 2026 23:45:56 +0000</pubDate>
 <category>Qiita 人気記事</category>
 <description>👋 はじめに RAGのあちこちにJevを差し込んでどこがどう変わるのか測ってみました！ 🎯 対象購読者 ぶっちゃけJevってRAG検索に使えるの？と思っている方 RAG検索を愛している方 ⚡ Jevってなに？ JevはTypeSafe AIが2026年9月15日に... — Qiita 人気記事 / score: 70 (Jevを用いたRAG検索の検証とパフォーマンス評価)</description>
-</item>
-<item>
-<title>既存Excelマクロを触らずに改修!? 該当シートをCopilotに見せてコードを書き換える【残業を減らす！Officeテクニック】</title>
-<link>https://forest.watch.impress.co.jp/docs/serial/offitech/2142390.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/serial/offitech/2142390.html</guid>
-<pubDate>Sun, 20 Sep 2026 23:04:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>以前の記事では、［マクロの記録］で作成したコードをCopilotに修正してもらい、複数のシートを1枚ずつPDFファイルとして保存できるようにしました。 — 窓の杜 / score: 55 (Copilotを活用したExcelマクロ改修の解説)</description>
-</item>
-<item>
-<title>Geminiが使えるスマートウォッチ「Google Pixel Watch 5」を使ってみた</title>
-<link>https://gigazine.net/news/20260921-google-pixel-watch-review/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260921-google-pixel-watch-review/</guid>
-<pubDate>Sun, 20 Sep 2026 23:01:58 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>外観レビューに続いて「Google Pixel Watch 5」を実際に使ってみました。ワークアウトや睡眠測定を行っています。 Google Pixel Watch 5 - AI が導く、もっといい自分へ https://store.google.com/jp/product/pixel_watch_5?hl=ja 初回使用時はBluetoothによるペアリングが必要。PixelスマートフォンでなくともAndroid 1... — はてなブックマーク テクノロジー / score: 30 (スマートウォッチの新製品レビュー記事)</description>
-</item>
-<item>
-<title>Xiaomi、今年のフラッグシップも前モデルで絶賛された「リアディスプレイ」継続！</title>
-<link>https://www.gizmodo.jp/article/2609-xiaomi-18-pro-rear-display/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2609-xiaomi-18-pro-rear-display/</guid>
-<pubDate>Sun, 20 Sep 2026 23:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>Xiaomiが、9月15日、公式Weiboアカウントを更新。今年のフラッグシップスマホとなるXiaomi 18 Proをチラ見せ、近日発表を予告しました。新スマホXiaomi 18 Proのティザーで1つ絶対確かなこと。それは、リアディスプ… — ギズモード・ジャパン / score: 30 (新型スマートフォン発売の予告ティザー記事)</description>
-</item>
-<item>
-<title>Mac mini (M6 or M5 Pro) ベンチマークレポート | Mac | Mac OTAKARA</title>
-<link>https://www.macotakara.jp/macintosh/entry-51861.html</link>
-<guid isPermaLink="true">https://www.macotakara.jp/macintosh/entry-51861.html</guid>
-<pubDate>Sun, 20 Sep 2026 22:50:30 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Geekbench 6 Geekbench Browserに、ベンチマークアプリ「Geekbench 6」を使用した「Mac mini (M6 or M5 Pro)」のベンチマークデータが投稿されています。 比較データーとして、M1/M2/M4シリーズを搭載したMacで計測したGeekbench 6計測データを使用しています。 M6チップはLPDDR5X-9600（9.6Gbps）またはLPDDR5X-10700（... — はてなブックマーク テクノロジー / score: 40 (未発売ハードウェアのベンチマーク速報)</description>
-</item>
-<item>
-<title>ITエンジニア注目トレンドを総まとめ！週間ニュースランキングTOP10【9/11～9/17】</title>
-<link>https://codezine.jp/article/detail/29752</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/29752</guid>
-<pubDate>Sun, 20 Sep 2026 22:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description>毎日更新される、CodeZine、DeveloperZine、ProductZineの最新ニュースから、注目を集めたトピックスを紹介する本ランキング。今回は2026年9月11日～9月17日までの人気ランキングを発表します。 — CodeZine / score: 35 (メディアサイトの週間ニュースランキングまとめ)</description>
-</item>
-<item>
-<title>写真を疑う時代が来たので、iPhoneが証明書を持ってきました</title>
-<link>https://www.gizmodo.jp/article/apple-reference-image-iphone18pro/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/apple-reference-image-iphone18pro/</guid>
-<pubDate>Sun, 20 Sep 2026 22:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>この1〜2年で「写真だから本当」という前提は壊れました。生成AIの便利さと引き換えに。そこにAppleが出してきたのが「Apple Reference Image」。9月15日にApple Security Researchのブログでも公開… — ギズモード・ジャパン / score: 70 (Appleの画像真贋証明機能に関する解説記事)</description>
-</item>
-<item>
-<title>SwitchBotの5メガピクセル屋外防犯カメラが8,082円！Amazonでセール中【本日みつけたお買い得情報】</title>
-<link>https://forest.watch.impress.co.jp/docs/serial/goodbuy/2142524.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/serial/goodbuy/2142524.html</guid>
-<pubDate>Sun, 20 Sep 2026 21:57:53 +0000</pubDate>
-<category>窓の杜</category>
-<description>Amazon.co.jpのSwitchBotストアでは現在、屋外対応防犯カメラのセールが行われています。 — 窓の杜 / score: 15 (防犯カメラのAmazonセール情報)</description>
-</item>
-<item>
-<title>【西川和久の不定期コラム】 Qwen3.8で動画解析→生成AI動画プロンプト化してみた。LM Studioも対応</title>
-<link>https://pc.watch.impress.co.jp/docs/column/nishikawa/2142517.html</link>
-<guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/column/nishikawa/2142517.html</guid>
-<pubDate>Sun, 20 Sep 2026 21:55:14 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>【西川和久の不定期コラム】 Qwen3.8で動画解析→生成AI動画プロンプト化してみた。LM Studioも対応 — はてなブックマーク テクノロジー / score: 45 (動画解析AIとプロンプト化のコラム記事)</description>
-</item>
-<item>
-<title>Amazon「Audible」プレミアムプラン、プライム会員なら月額99円！キャンペーン実施中【本日みつけたお買い得情報】</title>
-<link>https://forest.watch.impress.co.jp/docs/serial/goodbuy/2142523.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/serial/goodbuy/2142523.html</guid>
-<pubDate>Sun, 20 Sep 2026 21:50:27 +0000</pubDate>
-<category>窓の杜</category>
-<description>Amazon.co.jpでは現在、同社の「聴く読書」サービスである「Amazon Audible」のキャンペーンが行われています。プライム会員限定で、「Audibleプレミアムプラン」を4か月×99円で利用できます。申込期限は10月19日（月）まで。 — 窓の杜 / score: 15 (Amazon Audibleのキャンペーン情報)</description>
-</item>
-<item>
-<title>登場から約1年、「Excel」の「=COPILOT()」関数が2026年9月14日で廃止【再掲】【今すぐ読みたい！人気記事】</title>
-<link>https://forest.watch.impress.co.jp/docs/shseri/readitnow/2142362.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/shseri/readitnow/2142362.html</guid>
-<pubDate>Sun, 20 Sep 2026 21:45:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>一般提供に至らないまま姿を消す — 窓の杜 / score: 65 (ExcelのCOPILOT関数廃止に関するニュース)</description>
-</item>
-<item>
-<title>Jevを「分類器」ではなく、確率モデルの部品として見る</title>
-<link>https://zenn.dev/cybernetics/articles/71ea975d935414</link>
-<guid isPermaLink="true">https://zenn.dev/cybernetics/articles/71ea975d935414</guid>
-<pubDate>Sun, 20 Sep 2026 21:36:04 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>はじめに 最近、TypeSafe AIから公開されたJevについて考えている。 Jevを最初に見たときは、「LLMよりずっと軽くて速い分類器」という理解だった。自由に文章を書くモデルではなく、与えられた状態を見て、Choice、Score、Noulのような型付きの判断を返す。 たとえば、ある問い合わせが請求なのか不具合なのか、緊急度... — はてなブックマーク テクノロジー / score: 65 (新しいAIモデルJevの仕組みに関する技術解説)</description>
-</item>
-<item>
-<title>Quoting voxium</title>
-<link>https://simonwillison.net/2026/Sep/20/voxium/</link>
-<guid isPermaLink="true">https://simonwillison.net/2026/Sep/20/voxium/</guid>
-<pubDate>Sun, 20 Sep 2026 21:06:43 +0000</pubDate>
-<category>Simon Willison</category>
-<description>It has been half a month since I started a new role at a big company. Nobody knows anything here. The specs, code, tests, PRDs, tickets, resolution of those tickets, reports, etc., everything is made by Claude Code. Nobody on my team likes this. They are being forced to ship as much as they can. I have heard multiple times from higher management that pushing code is not a bottleneck, so why are we slow? People are working 12 to 13 hours a day just to press enter. Nobody is reading anything. Ever — Simon Willison / score: 40 (大企業での開発環境やドキュメントの現状に関する考察)</description>
-</item>
-<item>
-<title>国産AIへ機械に「マイナンバー」　官民でデータ収集、DMG森など100社 - 日本経済新聞</title>
-<link>https://www.nikkei.com/article/DGXZQOUC148W70U6A710C2000000/</link>
-<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUC148W70U6A710C2000000/</guid>
-<pubDate>Sun, 20 Sep 2026 20:44:59 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>政府とDMG森精機やコマツなど機械大手が連携しロボットなどを自律的に動かすフィジカルAI（人工知能）の実装に向けた学習データを収集する。工場内の機械に住民の「マイナンバー」のような共通ID（個体識別番号）を割り当て、メーカーの垣根を越えて製造データを吸い上げる。政府は2040年までに日本のAIロボット産業を世... — はてなブックマーク テクノロジー / score: 60 (国産AIと産業データの連携に関する政府主導の取り組み)</description>
-</item>
-<item>
-<title>llm-keys-ui 0.1</title>
-<link>https://simonwillison.net/2026/Sep/20/llm-keys-ui/</link>
-<guid isPermaLink="true">https://simonwillison.net/2026/Sep/20/llm-keys-ui/</guid>
-<pubDate>Sun, 20 Sep 2026 19:22:19 +0000</pubDate>
-<category>Simon Willison</category>
-<description>Release: llm-keys-ui 0.1 This plugin solves a very specific problem. I've started using Codex Remote to run coding agents on various machines while controlling them from my phone. Sometimes I use those machines to hack on LLM projects, and occasionally that means I need to configure an API key. I don't like pasting API keys into agent sessions, so I wanted a way to get those keys onto a machine without pasting them into the ChatGPT app directly. With this plugin, I can tell Codex to run: uvx --w — Simon Willison / score: 45 (CLIコーディングエージェント用UIプラグインのリリース)</description>
-</item>
-<item>
-<title>ServerlessDays Tokyo 2026での登壇と人と熱</title>
-<link>https://qiita.com/har1101/items/180b8743ca5c652648ad?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/har1101/items/180b8743ca5c652648ad?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Sun, 20 Sep 2026 18:21:42 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>こんにちは、ふくちです。 2026年9月19日・20日に開催されたServerlessDays Tokyo 2026へ参加させていただきました。 私はありがたいことにプロポーザルも採択いただき、登壇もさせていただきました。 個人的には2024年に初めて参加し、そ... — Qiita 人気記事 / score: 30 (カンファレンスへの参加レポート)</description>
-</item>
-<item>
-<title>画像生成AI「Qwen-Image-2.1」公開、7Bで透過画像に対応も商用不可</title>
-<link>https://pc.watch.impress.co.jp/docs/news/2142515.html</link>
-<guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2142515.html</guid>
-<pubDate>Sun, 20 Sep 2026 16:29:22 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>画像生成AI「Qwen-Image-2.1」公開、7Bで透過画像に対応も商用不可 — はてなブックマーク テクノロジー / score: 50 (新画像生成AIモデルの公開と仕様に関する情報)</description>
-</item>
-<item>
-<title>[DATAで見るケータイ業界] 楽天モバイルに足りないもの――基地局数と周波数から探る現在地</title>
-<link>https://k-tai.watch.impress.co.jp/docs/column/mca/2141525.html</link>
-<guid isPermaLink="true">https://k-tai.watch.impress.co.jp/docs/column/mca/2141525.html</guid>
-<pubDate>Sun, 20 Sep 2026 16:17:20 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>[DATAで見るケータイ業界] 楽天モバイルに足りないもの――基地局数と周波数から探る現在地 — はてなブックマーク テクノロジー / score: 45 (楽天モバイルの基地局や周波数に関する業界分析)</description>
-</item>
-<item>
-<title>耳で聞く！Python で学ぶ マクロ経済学 入門 16</title>
-<link>https://qiita.com/maskot1977/items/21dfd854beb49b877564?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/maskot1977/items/21dfd854beb49b877564?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Sun, 20 Sep 2026 15:16:02 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>user: ソース動画のタイトル、そしてこの動画の内容について教えてください。 Gemini: ソース動画のタイトルおよびその詳細な内容について解説します。 ソース動画のタイトル 「1997年日本経済を止めた正体 : Pythonで学ぶマクロ経済学入門 Podc... — Qiita 人気記事 / score: 30 (Pythonでのマクロ経済学入門の紹介記事)</description>
-</item>
-<item>
-<title>iPhone18 Proシリーズの初日売上が17 Proシリーズ比30%増と好調〜中国</title>
-<link>https://iphone-mania.jp/iphone18-606300/</link>
-<guid isPermaLink="true">https://iphone-mania.jp/iphone18-606300/</guid>
-<pubDate>Sun, 20 Sep 2026 15:05:00 +0000</pubDate>
-<category>iPhone Mania</category>
-<description>iPhone18 Proシリーズの中国における発売初日の販売台数が、iPhone17 Proシリーズの約130%に達したとの情報が報告されています。 モデル別では、iPhone18 Pro MaxがiPhone18 Pr […] — iPhone Mania / score: 30 (iPhoneの販売動向に関するニュース)</description>
-</item>
-<item>
-<title>GitHub - minorun365/agent-builder-skills: AWSでAIエージェントのWebアプリを作るためのスキル集（Bedrock AgentCore・Strands Agents・AWS CDK・Lambda Web Adapter・Cognito・SSE）</title>
-<link>https://github.com/minorun365/agent-builder-skills</link>
-<guid isPermaLink="true">https://github.com/minorun365/agent-builder-skills</guid>
-<pubDate>Sun, 20 Sep 2026 14:59:58 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert — はてなブックマーク テクノロジー / score: 50 (AWSでAIアプリを作るための個人スキル集)</description>
-</item>
-<item>
-<title>【Jev】文章を書かない判断AIに記述問題を採点してもらいたい！</title>
-<link>https://qiita.com/yosuke-suzuki/items/967afcce827878f64e99?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/yosuke-suzuki/items/967afcce827878f64e99?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Sun, 20 Sep 2026 14:59:43 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>はじめに 個人で「AI模試ノート」というAWS認定試験をはじめとするベンダー資格の学習アプリを開発しています。問題形式は試験と同じ選択式にしているのですが、選択式の問題で正解できても、「じゃあ、なぜそれが正解なのか?」と聞かれると正直なところ自信をもって説明できないことが... — Qiita 人気記事 / score: 65 (判断特化型AIを活用した記述式試験の自動採点)</description>
-</item>
-<item>
-<title>全部LLMにしない判断設計 — ハッカソンでJevを選んだ理由</title>
-<link>https://qiita.com/Kazeneko/items/869f2d0bc2150818e886?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/Kazeneko/items/869f2d0bc2150818e886?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Sun, 20 Sep 2026 14:40:19 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>はじめに 2026年9月、TypeSafe AI が Jev を公開しました。 文章を生成せず、型付きの判断と確率を返すモデルです。公式はこれを System One モデルと呼んでいます。 機械学習を学習している側から見ると、気になるのは速さの宣伝より次の整理です。 ... — Qiita 人気記事 / score: 75 (判断特化モデルJevの特性とアーキテクチャ選定)</description>
 </item>
 </channel>
 </rss>
