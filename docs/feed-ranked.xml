@@ -4,8 +4,16 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Tue, 22 Sep 2026 16:09:45 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 18:12:12 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>[95] Next.js Security Update for a Critical Upstream Issue</title>
+<link>https://nextjs.org/blog/nextjs-security-update-september-22-2026</link>
+<guid isPermaLink="true">https://nextjs.org/blog/nextjs-security-update-september-22-2026</guid>
+<pubDate>Tue, 22 Sep 2026 18:00:00 +0000</pubDate>
+<category>Next.js Blog</category>
+<description>The September 22, 2026 out-of-band security update for Next.js is now available — Next.js Blog / score: 95 (Next.jsの重大な上流脆弱性に対する緊急セキュリティ修正。)</description>
+</item>
 <item>
 <title>[95] 「Google Chrome」に今週2回目のセキュリティ更新、致命的脆弱性2件を含む16件に対処／Windows環境にはv153.0.8010.52/.53が展開中</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2142270.html</link>
@@ -18,7 +26,7 @@
 <title>[90] Upcoming Next.js Security Update for a Critical Upstream Issue</title>
 <link>https://nextjs.org/blog/upcoming-nextjs-security-release-september-22-2026</link>
 <guid isPermaLink="true">https://nextjs.org/blog/upcoming-nextjs-security-release-september-22-2026</guid>
-<pubDate>Mon, 21 Sep 2026 20:00:00 +0000</pubDate>
+<pubDate>Tue, 22 Sep 2026 15:00:00 +0000</pubDate>
 <category>Next.js Blog</category>
 <description>Next.js 16.3.6 and 15.5.26 are planned for a critical out-of-band security update on September 22, 2026. — Next.js Blog / score: 90 (重要度の高いフレームワークのセキュリティ更新)</description>
 </item>
@@ -303,14 +311,6 @@
 <description>マイクロソフト社内において、Rust言語がC++/C#/TypeScriptに並ぶTier 1言語になったことが明らかになりました。 マイクロソフトの開発部門でRustツールチームのプリンシパルエンジニア Victor Ciura氏がRus... — Publickey / score: 85 (マイクロソフトがRustをTier 1言語に格上げ)</description>
 </item>
 <item>
-<title>[85] OpenAI agents attacked RubyGems back in May</title>
-<link>https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/</link>
-<guid isPermaLink="true">https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/</guid>
-<pubDate>Sat, 12 Sep 2026 00:42:25 +0000</pubDate>
-<category>Simon Willison</category>
-<description>OpenAI agents carried out an undisclosed attack on RubyGems is a new bombshell report from Spencer Kitts, Thomas Larsen, and Sydney Von Arx - three of the four authors of the report on the agent attack on disused wikis ( previously ) last week. This time they're noting that it looks very likely that an OpenAI agent swarm was behind an attack against the RubyGems package repository first reported on May 12th by Maciej Mensfeld of the RubyGems security team : We're dealing with a major malicious a — Simon Willison / score: 85 (OpenAIエージェントによるRubyGems攻撃の報告)</description>
-</item>
-<item>
 <title>[85] Cognition helps Devin test its own work with GPT‑6 Astra</title>
 <link>https://openai.com/index/cognition-devin-testing-with-astra</link>
 <guid isPermaLink="true">https://openai.com/index/cognition-devin-testing-with-astra</guid>
@@ -359,20 +359,20 @@
 <description>Overshadowing Cognition's $48B Series E, Mistral's $24B Series D, Meta's Muse agent, and GPT Image 2.5. The most jam packed, feel the AGI day in the history of AI. — Latent Space / score: 85 (AI分野における大規模な科学的発見の発表。)</description>
 </item>
 <item>
-<title>[85] How GPT-5.6 Sol helps run quantum computing experiments</title>
-<link>https://openai.com/index/codex-quantum-computing-experiments</link>
-<guid isPermaLink="true">https://openai.com/index/codex-quantum-computing-experiments</guid>
-<pubDate>Tue, 08 Sep 2026 17:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits. — OpenAI News / score: 85 (量子計算実験におけるAIの自律的活用の先進的事例)</description>
-</item>
-<item>
 <title>[82] Google、Gemini 3.8 Liveを発表 ——会話を続けながら推論やツール実行が可能</title>
 <link>https://gihyo.jp/article/2026/09/gemini-3.8-live?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/09/gemini-3.8-live?utm_source=feed</guid>
 <pubDate>Wed, 16 Sep 2026 02:01:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Googleは2026年9月15日、音声対話AIモデル「Gemini 3.8 Live」と「Gemini 3.8 Live Extended Thinking」を発表した。 — gihyo.jp / score: 82 (Googleの音声対話型AIの新モデル発表)</description>
+</item>
+<item>
+<title>[80] Claude Opus 5.5 is now available on AWS</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/claude-opus-5-5-aws/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/claude-opus-5-5-aws/</guid>
+<pubDate>Tue, 22 Sep 2026 15:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS now offers Claude Opus 5.5, Anthropic’s most capable Opus model yet and, the first of the Claude 5.5 model family, a better collaborator that handles long-running coding and knowledge work, reporting back clearly on what it did, what it found, and what it needs next. According to Anthropic, Claude Opus 5.5 completes tasks using fewer tokens than Claude Opus 5, at a lower price per token, with cheaper cache reads stacking on top of the efficiency gain. Claude Opus 5.5 is the enterprise workho — AWS What's New / score: 80 (AWSでのAnthropic製最新モデルClaude Opus 5.5提供。)</description>
 </item>
 <item>
 <title>[80] Webブラウザーの不具合で「Salesforce」が操作不能に、「Chrome 153」「Edge 153」で発生／他の「Chromium」系ブラウザーでも発生のおそれ</title>
@@ -493,6 +493,14 @@
 <pubDate>Tue, 08 Sep 2026 21:51:09 +0000</pubDate>
 <category>Node.js リリース</category>
 <description>Notable Changes [ 71106e1f17 ] - crypto : update root certificates to NSS 3.126 (Node.js GitHub Bot) #65495 [ afca0a912d ] - (SEMVER-MINOR) crypto : support loading private keys through STORE loaders (Filip Skokan) #63949 [ 6274fccbd9 ] - deps : update OpenSSL to 3.5.8 (Node.js GitHub Bot) #65542 [ 53cba013c7 ] - deps : update Undici to 7.29.1 (Node.js GitHub Bot) #65789 [ 0529772798 ] - (SEMVER-MINOR) lib,src : improve histogram implementation (James M Snell) #65024 [ 41c7062b81 ] - (SEMVER-MIN — Node.js リリース / score: 80 (Node.jsのLTSメジャーアップデート)</description>
+</item>
+<item>
+<title>[75] Claude Opus 5.5 is now available on AWS GovCloud (US)</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/claude-opus-5-5-aws-govcloud/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/claude-opus-5-5-aws-govcloud/</guid>
+<pubDate>Tue, 22 Sep 2026 15:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS GovCloud (US) now offers Claude Opus 5.5, Anthropic’s most capable Opus model yet and, the first of the Claude 5.5 model family, a better collaborator that handles long-running coding and knowledge work, reporting back clearly on what it did, what it found, and what it needs next. According to Anthropic, Claude Opus 5.5 completes tasks using fewer tokens than Claude Opus 5, at a lower price per token, with cheaper cache reads stacking on top of the efficiency gain. Claude Opus 5.5 is the ent — AWS What's New / score: 75 (AWS GovCloudでのClaude最新モデル提供開始。)</description>
 </item>
 <item>
 <title>[75] SpaceXAI、「Grok 4.7」を発表 ～先代から速度・価格維持で「GPT-5.6」「Fable 5.1」に伍する性能／「Cursor」「Grok Build」で即日利用可能</title>
@@ -797,14 +805,6 @@
 <pubDate>Mon, 21 Sep 2026 22:25:44 +0000</pubDate>
 <category>Simon Willison</category>
 <description>Cloudflare Python Workers are now generally available After a two year preview, Cloudflare's support for running Python code in their server-side Workers platform is now stable: "Python is now a first-class, fully supported language on the Cloudflare Developer Platform". A neat thing about this is how it works. Cloudflare are running Python compiled to WebAssembly via Pyodide in their V8-based workerd runtime. This comes with some limitations, documented here - most notably both multiprocessing  — Simon Willison / score: 70 (Cloudflare Python Workersの一般提供開始)</description>
-</item>
-<item>
-<title>[70] Global AI routing with &lt;1% overhead on multi-cluster GKE Inference Gateway</title>
-<link>https://cloud.google.com/blog/products/containers-kubernetes/gpu-and-tpu-utilization-with-multi-cluster-gke-inference-gateway/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/products/containers-kubernetes/gpu-and-tpu-utilization-with-multi-cluster-gke-inference-gateway/</guid>
-<pubDate>Mon, 21 Sep 2026 16:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>Demand for AI infrastructure is at an all-time high. Global accelerator shortages mean engineering teams can rarely get all the compute they need from just one data center — capacity comes a cluster here, a cluster there, often an ocean apart. At the same time, workloads are getting hungrier: Today’s long-running agentic workloads often have context windows of 100k to 800k+ tokens, which consume accelerator memory faster than any previous generation of AI traffic. In this environment, the goal i — Google Cloud Blog / score: 70 (GKEインフラを活用した効率的なAIルーティング解説)</description>
 </item>
 </channel>
 </rss>

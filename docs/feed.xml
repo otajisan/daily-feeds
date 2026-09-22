@@ -4,8 +4,40 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Tue, 22 Sep 2026 16:09:45 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 18:12:12 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Quoting @therealcornpop</title>
+<link>https://simonwillison.net/2026/Sep/22/therealcornpop/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Sep/22/therealcornpop/</guid>
+<pubDate>Tue, 22 Sep 2026 18:03:21 +0000</pubDate>
+<category>Simon Willison</category>
+<description>Hey, you know it's like super obvious if you're using AI to write your scripts for TikTok and YouTube, right? [...] It's not just the general AI-isms of "it's not X, it's Y", or the rule of three, or the really weird broken staccato-like way of writing where you just say a lot of things with all these punctuation marks. and it sounds really deep, but it's not. It's the lack of anything . It's the lack of a definitive sort of spear of your voice. It's the fact I can tell you don't have opinions a — Simon Willison / score: 30 (AI生成スクリプトを見分ける手法についての考察。)</description>
+</item>
+<item>
+<title>Next.js Security Update for a Critical Upstream Issue</title>
+<link>https://nextjs.org/blog/nextjs-security-update-september-22-2026</link>
+<guid isPermaLink="true">https://nextjs.org/blog/nextjs-security-update-september-22-2026</guid>
+<pubDate>Tue, 22 Sep 2026 18:00:00 +0000</pubDate>
+<category>Next.js Blog</category>
+<description>The September 22, 2026 out-of-band security update for Next.js is now available — Next.js Blog / score: 95 (Next.jsの重大な上流脆弱性に対する緊急セキュリティ修正。)</description>
+</item>
+<item>
+<title>CMF by NothingがNothingから独立 ｰ 今後はインドのスマートフォン企業に</title>
+<link>https://taisy0.com/2026/09/23/227917.html</link>
+<guid isPermaLink="true">https://taisy0.com/2026/09/23/227917.html</guid>
+<pubDate>Tue, 22 Sep 2026 16:48:01 +0000</pubDate>
+<category>気になる、記になる…</category>
+<description>NothingのサブブランドであったCMF by Nothingが、Nothingから独立し、インドを拠点とするスマートフォン企業になることが分かりました。 これはNothingとCMF by NothingのCEO兼創 […] — 気になる、記になる… / score: 35 (CMF by Nothingのブランド独立と事業再編。)</description>
+</item>
+<item>
+<title>iOS27からiOS26へダウングレード不可に～今アップデートを迷う人が知るべきこと</title>
+<link>https://iphone-mania.jp/ios-606515/</link>
+<guid isPermaLink="true">https://iphone-mania.jp/ios-606515/</guid>
+<pubDate>Tue, 22 Sep 2026 16:37:24 +0000</pubDate>
+<category>iPhone Mania</category>
+<description>iOS26で最後まで署名が続いていたとみられるiOS26.6.2について、Appleが署名を停止しました。これにより、iOS27からiOS26へのダウングレードができなくなっています。iOS27と同時に配信されたiOS2 […] — iPhone Mania / score: 50 (iOSのダウングレード停止に関する注意喚起情報。)</description>
+</item>
 <item>
 <title>M5 Max/M5 Ultraチップ搭載「Mac Studio」のSSDは一応換装可能</title>
 <link>https://taisy0.com/2026/09/23/227913.html</link>
@@ -13,6 +45,14 @@
 <pubDate>Tue, 22 Sep 2026 16:07:25 +0000</pubDate>
 <category>気になる、記になる…</category>
 <description>別記事でM6/M5 Proチップ搭載「Mac mini」では前モデルでは行えていたSSDの換装が不可能になったことをお伝えしましたが、M5 Max/M5 Ultraチップ搭載「Mac Studio」は引き続きSSDの換装 […] — 気になる、記になる… / score: 30 (ハードウェアの仕様に関する噂やレビュー情報)</description>
+</item>
+<item>
+<title>llm-typesafe 0.1a0</title>
+<link>https://simonwillison.net/2026/Sep/22/llm-typesafe/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Sep/22/llm-typesafe/</guid>
+<pubDate>Tue, 22 Sep 2026 15:54:16 +0000</pubDate>
+<category>Simon Willison</category>
+<description>Release: llm-typesafe 0.1a0 I built this new plugin for LLM to add support for TypeSafe AI's new Jev model . Install it like this: llm install llm-typesafe Then set an API key ( get one here , the waitlist seems to move pretty fast): llm keys set typesafe # Paste key And now you can ask yes/no "noul" questions like this: llm -m jev 'Please refund my last payment.' \ -s 'Does this message explicitly request a refund?' Output: {"type": "noul", "noul": 0.99} Or choice questions like this: cat messa — Simon Willison / score: 40 (LLM向けの新しいサードパーティ製プラグインリリース。)</description>
 </item>
 <item>
 <title>Beats、新型ヘッドホン｢Beats 360｣を発表 ｰ 付け替え可能なイヤークッションとヘッドバンドクッションを採用</title>
@@ -29,6 +69,30 @@
 <pubDate>Tue, 22 Sep 2026 15:01:00 +0000</pubDate>
 <category>ASCII.jp</category>
 <description>Googleおよび主要PCメーカー5社は、新しいノートPC「Googlebook」を発表、PCとしてはWindowsPCでも使われているアーキテクチャーと同様ながら、OSは全く異なるLinuxベースの「GoogleBook OS」です — ASCII.jp / score: 70 (新しいOSおよびPCアーキテクチャの発表)</description>
+</item>
+<item>
+<title>Upcoming Next.js Security Update for a Critical Upstream Issue</title>
+<link>https://nextjs.org/blog/upcoming-nextjs-security-release-september-22-2026</link>
+<guid isPermaLink="true">https://nextjs.org/blog/upcoming-nextjs-security-release-september-22-2026</guid>
+<pubDate>Tue, 22 Sep 2026 15:00:00 +0000</pubDate>
+<category>Next.js Blog</category>
+<description>Next.js 16.3.6 and 15.5.26 are planned for a critical out-of-band security update on September 22, 2026. — Next.js Blog / score: 90 (重要度の高いフレームワークのセキュリティ更新)</description>
+</item>
+<item>
+<title>Claude Opus 5.5 is now available on AWS GovCloud (US)</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/claude-opus-5-5-aws-govcloud/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/claude-opus-5-5-aws-govcloud/</guid>
+<pubDate>Tue, 22 Sep 2026 15:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS GovCloud (US) now offers Claude Opus 5.5, Anthropic’s most capable Opus model yet and, the first of the Claude 5.5 model family, a better collaborator that handles long-running coding and knowledge work, reporting back clearly on what it did, what it found, and what it needs next. According to Anthropic, Claude Opus 5.5 completes tasks using fewer tokens than Claude Opus 5, at a lower price per token, with cheaper cache reads stacking on top of the efficiency gain. Claude Opus 5.5 is the ent — AWS What's New / score: 75 (AWS GovCloudでのClaude最新モデル提供開始。)</description>
+</item>
+<item>
+<title>Claude Opus 5.5 is now available on AWS</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/claude-opus-5-5-aws/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/claude-opus-5-5-aws/</guid>
+<pubDate>Tue, 22 Sep 2026 15:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS now offers Claude Opus 5.5, Anthropic’s most capable Opus model yet and, the first of the Claude 5.5 model family, a better collaborator that handles long-running coding and knowledge work, reporting back clearly on what it did, what it found, and what it needs next. According to Anthropic, Claude Opus 5.5 completes tasks using fewer tokens than Claude Opus 5, at a lower price per token, with cheaper cache reads stacking on top of the efficiency gain. Claude Opus 5.5 is the enterprise workho — AWS What's New / score: 80 (AWSでのAnthropic製最新モデルClaude Opus 5.5提供。)</description>
 </item>
 <item>
 <title>スニーカー味ある新作ヘッドホン「Beats 360」で、久しぶりに外へ出たくなった</title>
@@ -53,6 +117,14 @@
 <pubDate>Tue, 22 Sep 2026 14:00:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>2026年5月12日の記事を編集して再掲載しています。AIのサブスクが変わろうとしています。かつては定額払えば使い放題でしたが、AIエージェントの登場をきっかけに見直しが始まりました。やれることが増えた結果、AIの計算資源を大量に使うユーザ… — ギズモード・ジャパン / score: 65 (AIエージェント普及によるサブスクモデルの変化)</description>
+</item>
+<item>
+<title>AIがチェスで圧勝する理由の一端が見えてきた――「ややこしいまま耐える」時間が人間より長い - ナゾロジー</title>
+<link>https://nazology.kusuguru.co.jp/archives/199973</link>
+<guid isPermaLink="true">https://nazology.kusuguru.co.jp/archives/199973</guid>
+<pubDate>Tue, 22 Sep 2026 13:17:12 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>「考えることが多すぎる。いったん状況をスッキリさせたい」 チェスや将棋で、駒の攻防が複雑に絡み合ったとき、そんな気持ちになったことはないでしょうか。 では、強いAIは、そのような局面をどう扱っているのでしょう。 オーストリアの複雑系科学ハブ（CSH）とイタリアのパルマ大学の研究チームが、人間とAIの対局記... — はてなブックマーク テクノロジー / score: 45 (AIの思考プロセスに関する興味深い科学的知見。)</description>
 </item>
 <item>
 <title>dbtでレセプトデータをモデリングしてみたら、定石が全然通用しなかった話 - ホワイトヘルスケア - テックブログ</title>
@@ -348,7 +420,7 @@
 <guid isPermaLink="true">https://docs.cloud.google.com/release-notes#September_22_2026</guid>
 <pubDate>Tue, 22 Sep 2026 07:00:00 +0000</pubDate>
 <category>Google Cloud リリースノート</category>
-<description>Compute Engine Deprecated As of September 15, 2026, NVIDIA P100 ( nvidia-tesla-p100 and nvidia-tesla-p100-vws ) GPUs have reached end of support (EOS) and are shut down. You can no longer create, launch, or access Compute Engine instances or other Google Cloud resources that use NVIDIA P100 GPUs. For information about migrating your workloads to supported GPU alternatives such as the G2 (NVIDIA L4) or G4 (NVIDIA RTX PRO 6000) machine series, see NVIDIA P100 end of support . Deprecated NVIDIA T4  — Google Cloud リリースノート / score: 35 (Apigee Xのマイナーアップデート情報)</description>
+<description>Cloud Trace Feature The following remote Google Cloud MCP servers automatically generate a trace span for tools/call operations. Identity and Access Management Organization Policy Service Policy Analyzer Security Command Center Spanner Unified Maintenance These spans can help you understand the behavior of your agentic applications. For more information, see Investigate MCP calls using Trace . Feature You can use Terraform to configure resources managed by the Observability API. For example, you — Google Cloud リリースノート / score: 35 (Apigee Xのマイナーアップデート情報)</description>
 </item>
 <item>
 <title>｢iPhone 18 Pro｣シリーズのFace IDのソフトウェアに不具合か ｰ 認証失敗時にフリーズして再起動する事例が報告される</title>
@@ -733,78 +805,6 @@
 <pubDate>Tue, 22 Sep 2026 02:59:27 +0000</pubDate>
 <category>ASCII.jp</category>
 <description>DPVR AIグラス G4のクリエイター体験プログラムを本日開始 — ASCII.jp / score: 30 (VR・AIグラス関連のクリエイター向けプログラム開始)</description>
-</item>
-<item>
-<title>グーグル、新カテゴリーノートPC「Googlebook」発売　899ドルから</title>
-<link>https://www.watch.impress.co.jp/docs/news/2142583.html</link>
-<guid isPermaLink="true">https://www.watch.impress.co.jp/docs/news/2142583.html</guid>
-<pubDate>Tue, 22 Sep 2026 02:56:41 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>グーグル、新カテゴリーノートPC「Googlebook」発売 899ドルから — はてなブックマーク テクノロジー / score: 55 (グーグルの新カテゴリーPC発売に関する話題)</description>
-</item>
-<item>
-<title>【独自】古書店で「謎の大量注文」相次ぐ……AI学習か 米国向け「日本の本 50トン」の輸出記録も（2026年9月22日掲載）｜日テレNEWS NNN</title>
-<link>https://news.ntv.co.jp/category/society/e48899c1ab1445f683929740ef2b3aa6</link>
-<guid isPermaLink="true">https://news.ntv.co.jp/category/society/e48899c1ab1445f683929740ef2b3aa6</guid>
-<pubDate>Tue, 22 Sep 2026 02:56:00 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>日本各地のオンライン古書店に対して、今年8月ごろから書籍の大量注文が相次いでいることがわかった。古書店を取材すると「1日100冊売れる」「売上が5倍になった日もある」と話しており、業界内では「生成AI（人工知能）の学習データを集める目的ではないか」という見方が広がっている。さらに追跡取材を続けると、日本... — はてなブックマーク テクノロジー / score: 60 (生成AIの学習データ需要に関する社会的な影響)</description>
-</item>
-<item>
-<title>Xiaomi、AIモデル「MiMo-V2.6」Pro／Flashをオープンウェイトで公開</title>
-<link>https://gihyo.jp/article/2026/09/xiaomi-mimo-v2.6?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/09/xiaomi-mimo-v2.6?utm_source=feed</guid>
-<pubDate>Tue, 22 Sep 2026 02:52:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Xiaomiは9月21日、AIモデル「MiMo-V2.6」シリーズのProとFlashを発表し、モデル重みを公開した。 — gihyo.jp / score: 75 (XiaomiによるオープンウェイトAIモデル公開)</description>
-</item>
-<item>
-<title>AIは新規開発より既存改修が苦手？より得意？　Android開発の実力を測る「Android Bench 2.0」が公開／最新鋭モデルをより実務的な長期間タスクでテスト</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2142521.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2142521.html</guid>
-<pubDate>Tue, 22 Sep 2026 02:45:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Googleは9月17日（現地時間）、「Android Bench 2.0」を発表した。Androidアプリ開発におけるAIモデルやAIエージェントの実力を測るベンチマーク「Android Bench」の後継となる。これまでの小規模な修正中心の評価では、フロンティアモデルの合格率が90％を超えるなど不十分となったことをうけ、より実務的な長期間タスク（Long-Horizon Tasks：LHT）を評価するように拡張されているという。 — 窓の杜 / score: 65 (AIの実務的タスク評価を行うベンチマーク)</description>
-</item>
-<item>
-<title>思考の外注割合を増やし、理解は外注しない - Konifar's ZATSU</title>
-<link>https://konifar-zatsu.hatenadiary.jp/entry/2026/09/22/112134</link>
-<guid isPermaLink="true">https://konifar-zatsu.hatenadiary.jp/entry/2026/09/22/112134</guid>
-<pubDate>Tue, 22 Sep 2026 02:43:17 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>「思考は外注できるが理解は外注できない」という AI の関わり方を端的に表したﾂｲｯﾄがある。 you can outsource your thinking but you cannot outsource your understanding you can outsource your thinking but you cannot outsource your understanding— kache (@yacineMTB) 2026年2月4日 Andrej Karpathy 氏も "ble... — はてなブックマーク テクノロジー / score: 45 (AI時代の思考と理解に関する考察記事)</description>
-</item>
-<item>
-<title>普通のスマホに飽きた人へ。この春登場した、「クセ強スマホ」たち</title>
-<link>https://www.gizmodo.jp/article/unique_smartphones-ruu/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/unique_smartphones-ruu/</guid>
-<pubDate>Tue, 22 Sep 2026 02:35:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>2026年5月2日の記事を編集して再掲載しています。最近のスマホが優等生すぎてちょっと退屈になってきた、そこのあなた。この春は一味違います。ゲーム特化、ロボット化、そして「電話と言えるのか…？」といった端末まで、明らかに進化の方向がおかしい… — ギズモード・ジャパン / score: 30 (一風変わったスマホのエンタメ記事)</description>
-</item>
-<item>
-<title>口コミロボ(TM)、お客様の本音を聞く「詳細アンケート」に対応。口コミ獲得支援から、お店の強み・改善点の発見まで</title>
-<link>https://ascii.jp/elem/000/004/436/4436624/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/436/4436624/?rss</guid>
-<pubDate>Tue, 22 Sep 2026 02:32:44 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>口コミロボ(TM)、お客様の本音を聞く「詳細アンケート」に対応。口コミ獲得支援から、お店の強み・改善点の発見まで — ASCII.jp / score: 20 (店舗向け口コミ・アンケート支援ツールの機能追加)</description>
-</item>
-<item>
-<title>「どれを選べばいい？」を解決。5歳から15歳まで楽しめる『なぞときっず 難易度別3作品セット』を新発売</title>
-<link>https://ascii.jp/elem/000/004/436/4436625/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/436/4436625/?rss</guid>
-<pubDate>Tue, 22 Sep 2026 02:30:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>「どれを選べばいい？」を解決。5歳から15歳まで楽しめる『なぞときっず 難易度別3作品セット』を新発売 — ASCII.jp / score: 10 (子供向け知育教材の新商品発売)</description>
-</item>
-<item>
-<title>【明日まで】かつや「ご飯大盛り」無料！ 100円引き券も併用できる</title>
-<link>https://ascii.jp/elem/000/004/436/4436599/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/436/4436599/?rss</guid>
-<pubDate>Tue, 22 Sep 2026 02:30:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>「かつや」は、9月18日～23日の期間限定で丼・定食・お弁当のご飯大盛が無料になる「シルバーウィークキャンペーン」を開催中。明日まで。 — ASCII.jp / score: 10 (飲食店の期間限定キャンペーン情報)</description>
 </item>
 </channel>
 </rss>
