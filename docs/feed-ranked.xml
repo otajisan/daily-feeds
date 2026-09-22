@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Tue, 22 Sep 2026 14:10:10 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 16:09:45 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Google Chrome」に今週2回目のセキュリティ更新、致命的脆弱性2件を含む16件に対処／Windows環境にはv153.0.8010.52/.53が展開中</title>
@@ -82,9 +82,9 @@
 <title>[85] OpenAIが10億人以上・40ペタバイト超えのユーザーデータを扱う自社製ストレージシステム「Habitat」について解説</title>
 <link>https://gigazine.net/news/20260922-openai-storage-habitat/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260922-openai-storage-habitat/</guid>
-<pubDate>Tue, 22 Sep 2026 12:22:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>OpenAIはChatGPTやCodexといったサービスを展開しており、ユーザー数は2026年7月末時点で10億人に達しています。OpenAIは10億人を超えるユーザーのデータを自社製オンラインストレージシステム「Habitat」で管理しているとのこと。このHabitatの詳細がOpenAIの公式ブログで解説されています。 続きを読む... — GIGAZINE / score: 85 (OpenAIの大規模ストレージ基盤の解説)</description>
+<pubDate>Tue, 22 Sep 2026 12:59:39 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>OpenAIはChatGPTやCodexといったサービスを展開しており、ユーザー数は2026年7月末時点で10億人に達しています。OpenAIは10億人を超えるユーザーのデータを自社製オンラインストレージシステム「Habitat」で管理しているとのこと。このHabitatの詳細がOpenAIの公式ブログで解説されています。 Rapidly scaling online st... — はてなブックマーク テクノロジー / score: 85 (OpenAIの大規模ストレージ基盤の解説)</description>
 </item>
 <item>
 <title>[85] たった1つの拡張機能で5つのWebブラウザーのAIを乗っ取れちゃう!?　「BragJack」脆弱性／「Chrome」「Edge」はすでに修正済みなので、ひとまずご安心を【やじうまの杜】</title>
@@ -117,6 +117,14 @@
 <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
 <category>Hugging Face Blog</category>
 <description> — Hugging Face Blog / score: 85 (Transformersライブラリの量子化モデル対応)</description>
+</item>
+<item>
+<title>[85] Python Workers are now generally available</title>
+<link>https://blog.cloudflare.com/python-workers-ga/</link>
+<guid isPermaLink="true">https://blog.cloudflare.com/python-workers-ga/</guid>
+<pubDate>Mon, 21 Sep 2026 14:42:20 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>September 21, 2026Python Workers are now generally available We introduced Python Workers two years ago, providing a way to run Python applications in the Cloudflare Workers runtime. Our goal was to make it as simple to write Workers in Python as it is in TypeScript, and to make the ecosystem of ... — はてなブックマーク テクノロジー / score: 85 (Cloudflare WorkersのPython対応正式リリース)</description>
 </item>
 <item>
 <title>[85] 「Excel」で貼り付けが“黙って”失敗する不具合、原因は9月の月例更新／一部バージョンで修正が進む</title>
@@ -357,22 +365,6 @@
 <pubDate>Tue, 08 Sep 2026 17:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits. — OpenAI News / score: 85 (量子計算実験におけるAIの自律的活用の先進的事例)</description>
-</item>
-<item>
-<title>[85] Amazon Linuxが4年ぶりにメジャーバージョンアップ、「Amazon Linux 2027」パブリックプレビュー。SELinuxがデフォルトで強制モードに</title>
-<link>https://www.publickey1.jp/blog/26/amazon_linux4amazon_linux_2027selinux.html</link>
-<guid isPermaLink="true">https://www.publickey1.jp/blog/26/amazon_linux4amazon_linux_2027selinux.html</guid>
-<pubDate>Tue, 08 Sep 2026 15:54:55 +0000</pubDate>
-<category>Publickey</category>
-<description>Amazon Web Services（AWS）は、AWSに最適化されたLinux OSの4年ぶりとなるメジャーバージョンアップ「Amazon Linux 2027」をパブリックプレビューとしてリリースしました。 現時点の正式版はAmazo... — Publickey / score: 85 (主要なLinuxディストリビューションのメジャーアプデ)</description>
-</item>
-<item>
-<title>[85] 巨大オンラインゲーム「EVE Online」。ゲームを支える240万行のPython 2.7のコードをPython 3へ移行すると発表</title>
-<link>https://www.publickey1.jp/blog/26/eve_online240python_27python_3.html</link>
-<guid isPermaLink="true">https://www.publickey1.jp/blog/26/eve_online240python_27python_3.html</guid>
-<pubDate>Tue, 08 Sep 2026 14:28:02 +0000</pubDate>
-<category>Publickey</category>
-<description>宇宙を舞台にした世界最大級の大規模オンラインゲーム「EVE Online」が、ゲームを支える240万行のPythonコードをPython 3に移行すると発表しました。 We have officially started our codeb... — Publickey / score: 85 (大規模Python 2.7移行という歴史的偉業)</description>
 </item>
 <item>
 <title>[82] Google、Gemini 3.8 Liveを発表 ——会話を続けながら推論やツール実行が可能</title>
@@ -773,6 +765,14 @@
 <pubDate>Wed, 09 Sep 2026 09:37:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Googleは9月8日、WebブラウザーChrome 153（安定版）を公開し、リリース周期を4週間から2週間へ短縮した。 — gihyo.jp / score: 75 (Chromeのリリース周期短縮の変更)</description>
+</item>
+<item>
+<title>[70] 新「Googlebook OS」の全貌が明らかに!!＝Acer、ASUS、Dell、HP、Lenovoの「Googlebook」が発売開始</title>
+<link>https://ascii.jp/elem/000/004/436/4436638/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/436/4436638/?rss</guid>
+<pubDate>Tue, 22 Sep 2026 15:01:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>Googleおよび主要PCメーカー5社は、新しいノートPC「Googlebook」を発表、PCとしてはWindowsPCでも使われているアーキテクチャーと同様ながら、OSは全く異なるLinuxベースの「GoogleBook OS」です — ASCII.jp / score: 70 (新しいOSおよびPCアーキテクチャの発表)</description>
 </item>
 <item>
 <title>[70] [AINews] Xiaomi MiMo-V2.6-Pro 1T-A42B: the new top Open Weights model, trained for $3M</title>
