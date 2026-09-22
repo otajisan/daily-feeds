@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 21 Sep 2026 22:10:03 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 00:24:37 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Google Chrome」に今週2回目のセキュリティ更新、致命的脆弱性2件を含む16件に対処／Windows環境にはv153.0.8010.52/.53が展開中</title>
@@ -519,6 +519,22 @@
 <description>AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome. — Google DeepMind / score: 80 (全DNA変異を予測する画期的なゲノムマップの発表)</description>
 </item>
 <item>
+<title>[75] Jev introduces a new shape of LLM - System One, aka Decision Models</title>
+<link>https://simonwillison.net/2026/Sep/21/jev/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Sep/21/jev/</guid>
+<pubDate>Mon, 21 Sep 2026 23:09:20 +0000</pubDate>
+<category>Simon Willison</category>
+<description>Last week TypeSafe AI unveiled Jev , their first example of a new category of model that they are calling "System One models" (I'm with Maggie Appleton, I think "decision models" is a better name for these). Jev is an interesting variant on the usual LLM format: it still accepts text inputs, but instead of text output it returns floating point numbers corresponding to categories, yes/no questions, ratings, and associated confidence scores. TypeSafe describe Jev like this: Think of Jev as a front — Simon Willison / score: 75 (LLMの新カテゴリに関する技術的洞察)</description>
+</item>
+<item>
+<title>[75] 中国AIのKimi、米Claudeに｢代理回答｣させる　アンソロピックが指摘 - 日本経済新聞</title>
+<link>https://www.nikkei.com/article/DGXZQOGN15BV70V10C26A9000000/</link>
+<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOGN15BV70V10C26A9000000/</guid>
+<pubDate>Mon, 21 Sep 2026 19:48:44 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>【シリコンバレー=山田遼太郎】米アンソロピックが中国企業による人工知能（AI）の新たな不正使用を指摘している。利用者の質問をアンソロピックの高性能AI「クロード」に転送し、その回答を自社AIの回答だと装って示すケースが確認されたという。やり取りのデータを自社AIに学習させ、性能を高めようとしたとみられる。... — はてなブックマーク テクノロジー / score: 75 (AI企業の不正利用に関する業界ニュース)</description>
+</item>
+<item>
 <title>[75] iPhone18 Pro/Pro Maxで予期せぬ再起動の報告相次ぐ、Face ID失敗と関連か</title>
 <link>https://iphone-mania.jp/iphone18-606422/</link>
 <guid isPermaLink="true">https://iphone-mania.jp/iphone18-606422/</guid>
@@ -559,14 +575,6 @@
 <description>2026年8月26日～27日の間に、アメリカの11州にまたがる軍事施設で「売店の冷蔵・冷凍庫の故障報告」が確認されました。外部からのハッキングが行われた可能性も考えられましたが、後に国防総省は「冷蔵設備の不具合の可能性」を認めています。 続きを読む... — GIGAZINE / score: 75 (IoT機器・軍事施設におけるセキュリティの脆弱性リスク)</description>
 </item>
 <item>
-<title>[75] デジタル庁、さくらインターネット、三重県　3つの事件に共通した“盲点”</title>
-<link>https://atmarkit.itmedia.co.jp/ait/articles/2609/21/news014.html</link>
-<guid isPermaLink="true">https://atmarkit.itmedia.co.jp/ait/articles/2609/21/news014.html</guid>
-<pubDate>Mon, 21 Sep 2026 00:07:59 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>デジタル庁、さくらインターネット、三重県 3つの事件に共通した“盲点”：ツール導入の前に考えるべきは？（1/2 ページ） デジタル庁のGSS、さくらインターネット、三重県。2026年に明らかになった3つのセキュリティ事案は、VPNの脆弱性、初期パスワード、私物USBと一見すると別々の問題に見えます。ところが、横並びで... — はてなブックマーク テクノロジー / score: 75 (複数企業のセキュリティ事案の共通点と対策の考察)</description>
-</item>
-<item>
 <title>[75] VRAM容量32GBで30万円未満なIntelグラボ「Intel Arc Pro B70 Creator 32GB」でローカルLLM「Qwen3.8 27B」や動画生成AI「MiniMax H3」を実行して生成速度を確かめてみた</title>
 <link>https://gigazine.net/news/20260919-arc-pro-b70-llm-review/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260919-arc-pro-b70-llm-review/</guid>
@@ -597,14 +605,6 @@
 <pubDate>Fri, 18 Sep 2026 13:25:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Today, AWS announces the availability of the next generation of AgentCore Runtime , the serverless microVM compute within Amazon Bedrock AgentCore. The new Runtime delivers elastic memory management that reclaims unused memory throughout the session so you pay for actual usage rather than the peak, and consistent cold start times regardless of container image size or concurrency. You get the serverless model you already rely on: no pre-provisioning, scale to zero, hardware-enforced session isola — AWS What's New / score: 75 (AWS Bedrockの新機能発表でクラウド開発に影響)</description>
-</item>
-<item>
-<title>[75] 既存の LLM が CPU なら、 Jev はその GPU 版みたいなやつ</title>
-<link>https://zenn.dev/mizchi/articles/jev-is-gpu-for-llms</link>
-<guid isPermaLink="true">https://zenn.dev/mizchi/articles/jev-is-gpu-for-llms</guid>
-<pubDate>Fri, 18 Sep 2026 07:27:47 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>Jev を一晩叩いたので、その感想を書きます。タイトルは超大雑把な要約です。 実験結果 まず実験ログを置いておきます。 https://github.com/mizchi/jev-playground 公式のクックブックの条件を変えた追試 https://docs.typesafe.ai/cookbooks/skill_suggestion チェス対戦 5戦やって、Claude 5 Sonnet には全勝 LoL をミニマルにしたような MOBA ゲームをリアルタイム操作 スプリットプッシュのマクロ戦術やタワーダイブのようなミクロ戦術が観察されました 集団戦で、誰がタ... — Zenn トレンド / score: 75 (新型AIモデルJevの実用性検証に関する話題)</description>
 </item>
 <item>
 <title>[75] Jevでハーネスエンジニアリング</title>
@@ -791,20 +791,20 @@
 <description>OpenAIは2026年9月8日、ChatGPT Workを日常使うアプリと連携させることでユーザーの文章スタイルを学習し、文章作成内容に反映させる機能を装備したことを発表した。 — gihyo.jp / score: 75 (ChatGPTの文章スタイル学習機能追加)</description>
 </item>
 <item>
-<title>[70] Global AI routing with &lt;1% overhead on multi-cluster GKE Inference Gateway</title>
-<link>https://cloud.google.com/blog/products/containers-kubernetes/gpu-and-tpu-utilization-with-multi-cluster-gke-inference-gateway/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/products/containers-kubernetes/gpu-and-tpu-utilization-with-multi-cluster-gke-inference-gateway/</guid>
-<pubDate>Mon, 21 Sep 2026 16:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>Demand for AI infrastructure is at an all-time high. Global accelerator shortages mean engineering teams can rarely get all the compute they need from just one data center — capacity comes a cluster here, a cluster there, often an ocean apart. At the same time, workloads are getting hungrier: Today’s long-running agentic workloads often have context windows of 100k to 800k+ tokens, which consume accelerator memory faster than any previous generation of AI traffic. In this environment, the goal i — Google Cloud Blog / score: 70 (GKEインフラを活用した効率的なAIルーティング解説)</description>
+<title>[70] 婚活サイトに599人分情報 県謝罪</title>
+<link>https://news.yahoo.co.jp/pickup/6596094?source=rss</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6596094?source=rss</guid>
+<pubDate>Mon, 21 Sep 2026 23:10:12 +0000</pubDate>
+<category>Yahoo!ニュース IT</category>
+<description> — Yahoo!ニュース IT / score: 70 (自治体システムにおける情報漏洩インシデント)</description>
 </item>
 <item>
-<title>[70] 「Windows Update」の定例外更新に注目集まる、不具合に緊急対処 ～窓の杜アクセスランキング［2026/9/14～2026/9/20]【記事アクセスランキング】</title>
-<link>https://forest.watch.impress.co.jp/docs/serial/accessranking/2142522.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/serial/accessranking/2142522.html</guid>
-<pubDate>Mon, 21 Sep 2026 02:45:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>前週に閲覧数の多かった記事を、上位10位までレポートします。 — 窓の杜 / score: 70 (Windows Updateの定例外更新や不具合対応の動向)</description>
+<title>[70] Cloudflare Python Workers are now generally available</title>
+<link>https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/</guid>
+<pubDate>Mon, 21 Sep 2026 22:25:44 +0000</pubDate>
+<category>Simon Willison</category>
+<description>Cloudflare Python Workers are now generally available After a two year preview, Cloudflare's support for running Python code in their server-side Workers platform is now stable: "Python is now a first-class, fully supported language on the Cloudflare Developer Platform". A neat thing about this is how it works. Cloudflare are running Python compiled to WebAssembly via Pyodide in their V8-based workerd runtime. This comes with some limitations, documented here - most notably both multiprocessing  — Simon Willison / score: 70 (Cloudflare Python Workersの一般提供開始)</description>
 </item>
 </channel>
 </rss>
