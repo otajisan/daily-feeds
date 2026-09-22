@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Tue, 22 Sep 2026 20:08:41 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 22:08:03 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] Next.js Security Update for a Critical Upstream Issue</title>
@@ -21,6 +21,30 @@
 <pubDate>Fri, 18 Sep 2026 07:54:25 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Googleは9月17日（現地時間、以下同）、デスクトップ向け「Google Chrome」の安定（Stable）チャネルをアップデートした。現在、Windows/Mac環境にはv153.0.8010.52/.53、Linux環境にはv153.0.8010.52が展開されている。 — 窓の杜 / score: 95 (Google Chromeの致命的脆弱性に対処する緊急セキュリティ更新)</description>
+</item>
+<item>
+<title>[92] Anthropic「Claude Opus 5.5」発表　40％低コストになり、OpenAI「GPT-6 Astra」を一部で上回る</title>
+<link>https://ascii.jp/elem/000/004/436/4436645/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/436/4436645/?rss</guid>
+<pubDate>Tue, 22 Sep 2026 21:25:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>Anthropicは9月22日、新AIモデル「Claude Opus 5.5」を発表した。 — ASCII.jp / score: 92 (Anthropicの新モデル発表でコスト低下と性能向上のため)</description>
+</item>
+<item>
+<title>[90] OpenAI「GPT-6 Sol/Luna」発表　料金半額、ただし普通のChatではまだ使えず</title>
+<link>https://ascii.jp/elem/000/004/436/4436644/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/436/4436644/?rss</guid>
+<pubDate>Tue, 22 Sep 2026 21:10:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>OpenAIは9月22日、新AIモデルの「GPT-6 Sol」「GPT-6 Luna」を発表した。 — ASCII.jp / score: 90 (OpenAIの新モデル発表と価格改定に関する重要情報)</description>
+</item>
+<item>
+<title>[90] Better prompt caching for GPT-6</title>
+<link>https://openai.com/index/better-prompt-caching-for-gpt-6</link>
+<guid isPermaLink="true">https://openai.com/index/better-prompt-caching-for-gpt-6</guid>
+<pubDate>Tue, 22 Sep 2026 21:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs. — OpenAI News / score: 90 (主要AIモデルのプロンプトキャッシュ改善に関する重要ニュース)</description>
 </item>
 <item>
 <title>[90] Upcoming Next.js Security Update for a Critical Upstream Issue</title>
@@ -391,6 +415,14 @@
 <description>AWS now offers Claude Opus 5.5, Anthropic’s most capable Opus model yet and, the first of the Claude 5.5 model family, a better collaborator that handles long-running coding and knowledge work, reporting back clearly on what it did, what it found, and what it needs next. According to Anthropic, Claude Opus 5.5 completes tasks using fewer tokens than Claude Opus 5, at a lower price per token, with cheaper cache reads stacking on top of the efficiency gain. Claude Opus 5.5 is the enterprise workho — AWS What's New / score: 80 (AWSでのAnthropic製最新モデルClaude Opus 5.5提供。)</description>
 </item>
 <item>
+<title>[80] Claude Codeの権限モデル（Read/Write/Edit/Bash）を全パターン検証した──想定外の挙動と安全な設定の落としどころ</title>
+<link>https://qiita.com/hikariclaude01/items/681ad21c35a17d8e44c6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/hikariclaude01/items/681ad21c35a17d8e44c6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Tue, 22 Sep 2026 01:01:33 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>結論：Claude Codeの権限は「4段階」ではなく「組み合わせ」で考える Claude CodeにWrite権限を渡した瞬間、想定していなかったファイルが書き換えられました──権限モデルの全パターンを体系的に検証した結果を共有します。 この記事でわかることは3つです。... — Qiita 人気記事 / score: 80 (話題のClaude Codeの権限モデルに関する重要な検証。)</description>
+</item>
+<item>
 <title>[80] Webブラウザーの不具合で「Salesforce」が操作不能に、「Chrome 153」「Edge 153」で発生／他の「Chromium」系ブラウザーでも発生のおそれ</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2142520.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2142520.html</guid>
@@ -495,22 +527,6 @@
 <description>GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support. — OpenAI News / score: 80 (OpenAI APIにおける自然な音声体験の新機能リリース)</description>
 </item>
 <item>
-<title>[80] OpenAI GPT-6 Astra is now generally available on Amazon Bedrock</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-astra-on-amazon-bedrock/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-astra-on-amazon-bedrock/</guid>
-<pubDate>Tue, 08 Sep 2026 22:49:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Today, AWS announces the general availability of GPT-6 Astra from OpenAI on Amazon Bedrock. The latest and most capable model from OpenAI to date, GPT-6 Astra brings deeper reasoning and judgment, professional-quality writing and design, and advanced computer and browser use to demanding business workflows. It supports a context window of up to 1 million input tokens and can produce output aligned with organizational voice, templates, and standards. The Amazon Bedrock inference engine delivers t — AWS What's New / score: 80 (Bedrockでの最新OpenAIモデル一般提供)</description>
-</item>
-<item>
-<title>[80] 2026-09-08, Version 24.21.0 'Krypton' (LTS), @aduh95</title>
-<link>https://github.com/nodejs/node/releases/tag/v24.21.0</link>
-<guid isPermaLink="true">https://github.com/nodejs/node/releases/tag/v24.21.0</guid>
-<pubDate>Tue, 08 Sep 2026 21:51:09 +0000</pubDate>
-<category>Node.js リリース</category>
-<description>Notable Changes [ 71106e1f17 ] - crypto : update root certificates to NSS 3.126 (Node.js GitHub Bot) #65495 [ afca0a912d ] - (SEMVER-MINOR) crypto : support loading private keys through STORE loaders (Filip Skokan) #63949 [ 6274fccbd9 ] - deps : update OpenSSL to 3.5.8 (Node.js GitHub Bot) #65542 [ 53cba013c7 ] - deps : update Undici to 7.29.1 (Node.js GitHub Bot) #65789 [ 0529772798 ] - (SEMVER-MINOR) lib,src : improve histogram implementation (James M Snell) #65024 [ 41c7062b81 ] - (SEMVER-MIN — Node.js リリース / score: 80 (Node.jsのLTSメジャーアップデート)</description>
-</item>
-<item>
 <title>[75] Claude Opus 5.5 is now available on AWS GovCloud (US)</title>
 <link>https://aws.amazon.com/about-aws/whats-new/2026/09/claude-opus-5-5-aws-govcloud/</link>
 <guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/claude-opus-5-5-aws-govcloud/</guid>
@@ -535,6 +551,14 @@
 <description>Xiaomiは9月21日、AIモデル「MiMo-V2.6」シリーズのProとFlashを発表し、モデル重みを公開した。 — gihyo.jp / score: 75 (XiaomiによるオープンウェイトAIモデル公開)</description>
 </item>
 <item>
+<title>[75] Flaky Test（不安定なテスト）の主な原因と実務で使える具体的な改善手順・チェックリスト</title>
+<link>https://qiita.com/blinkgroup_jp/items/cf9534178ad071c0deb4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/blinkgroup_jp/items/cf9534178ad071c0deb4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Tue, 22 Sep 2026 00:22:03 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>CI/CDパイプラインの実行中に、「コードは何も変えていないのに、時々テストが落ちる」という現象に悩まされたことはないでしょうか。このような、実行するたびに結果が成功（Pass）と失敗（Fail）に揺れ動くテストを「Flaky Test（不安定なテスト）」と呼びます。 Fl... — Qiita 人気記事 / score: 75 (CI/CDの不安定なテスト対策という実務で非常に役立つ知見。)</description>
+</item>
+<item>
 <title>[75] Jev introduces a new shape of LLM - System One, aka Decision Models</title>
 <link>https://simonwillison.net/2026/Sep/21/jev/</link>
 <guid isPermaLink="true">https://simonwillison.net/2026/Sep/21/jev/</guid>
@@ -557,6 +581,14 @@
 <pubDate>Mon, 21 Sep 2026 16:32:04 +0000</pubDate>
 <category>iPhone Mania</category>
 <description>発売されたばかりのiPhone18 ProとiPhone18 Pro Maxで、突然再起動する問題が複数のユーザーから報告されています。日本のXでも「panic-full」の診断ログや、Face ID認証に失敗した直後に […] — iPhone Mania / score: 75 (最新iPhone Proでの予期せぬ再起動不具合の報告)</description>
+</item>
+<item>
+<title>[75] 最新事例から学ぶJevのベストプラクティス</title>
+<link>https://qiita.com/cushionA/items/6536a0bc611d5502beb6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/cushionA/items/6536a0bc611d5502beb6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Mon, 21 Sep 2026 14:43:21 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>はじめに 最近ホットなJevの話をしましょう。 JevはTypeSafe AIが2026年9月15日に提供を始めたAIモデルです。 いわく判断に特化したモデルで、LLMのように文章を生成するモデルではありません。 ただ入力された情報を読んで以下のような判断を行います。 ... — Qiita 人気記事 / score: 75 (新型の判断特化型モデルJevに関する実践的ベストプラクティス。)</description>
 </item>
 <item>
 <title>[75] ｢Apple Watch Ultra 4｣と｢Apple Watch Series 12｣、一部で予期せず再起動する問題が発生</title>
@@ -773,38 +805,6 @@
 <pubDate>Thu, 10 Sep 2026 08:19:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Agentic AI Foundation（AAIF）は9月9日、オープンソースのAIゲートウェイ「Agent Router」（旧称：Envoy AI Gateway）の参加を発表した。 — gihyo.jp / score: 75 (AIゲートウェイOSSの発表に関するニュース)</description>
-</item>
-<item>
-<title>[75] Chrome、バージョン153を公開。2週間ごとのリリースに移行 ——EdgeとFirefoxもすでに2週間周期に</title>
-<link>https://gihyo.jp/article/2026/09/chrome-two-week-release-cycle?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/09/chrome-two-week-release-cycle?utm_source=feed</guid>
-<pubDate>Wed, 09 Sep 2026 09:37:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Googleは9月8日、WebブラウザーChrome 153（安定版）を公開し、リリース周期を4週間から2週間へ短縮した。 — gihyo.jp / score: 75 (Chromeのリリース周期短縮の変更)</description>
-</item>
-<item>
-<title>[70] 新「Googlebook OS」の全貌が明らかに!!＝Acer、ASUS、Dell、HP、Lenovoの「Googlebook」が発売開始</title>
-<link>https://ascii.jp/elem/000/004/436/4436638/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/436/4436638/?rss</guid>
-<pubDate>Tue, 22 Sep 2026 15:01:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>Googleおよび主要PCメーカー5社は、新しいノートPC「Googlebook」を発表、PCとしてはWindowsPCでも使われているアーキテクチャーと同様ながら、OSは全く異なるLinuxベースの「GoogleBook OS」です — ASCII.jp / score: 70 (新しいOSおよびPCアーキテクチャの発表)</description>
-</item>
-<item>
-<title>[70] [AINews] Xiaomi MiMo-V2.6-Pro 1T-A42B: the new top Open Weights model, trained for $3M</title>
-<link>https://www.latent.space/p/ainews-xiaomi-mimo-v26-pro-1t-a42b</link>
-<guid isPermaLink="true">https://www.latent.space/p/ainews-xiaomi-mimo-v26-pro-1t-a42b</guid>
-<pubDate>Tue, 22 Sep 2026 06:30:56 +0000</pubDate>
-<category>Latent Space</category>
-<description>Meet Xiaomi and other top Chinese frontier labs at AIE Shanghai ! This is a first for the “Apple of China” phone maker-turned-frontier lab: “ The MiMo-V2.6 series includes two natively omnimodal models: MiMo-V2.6-Pro is our most capable model to date, while MiMo-V2.6-Flash strikes the best balance between intelligence, efficiency, and cost. We are also rolling-out MiMo-V2.6-Pro-UltraSpeed, delivering up to 20x faster output speed at the same quality, for users who require extreme generation spee — Latent Space / score: 70 (新オープンウェイトモデルXiaomi MiMoの発表)</description>
-</item>
-<item>
-<title>[70] 婚活サイトに599人分情報 県謝罪</title>
-<link>https://news.yahoo.co.jp/pickup/6596094?source=rss</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6596094?source=rss</guid>
-<pubDate>Mon, 21 Sep 2026 23:10:12 +0000</pubDate>
-<category>Yahoo!ニュース IT</category>
-<description> — Yahoo!ニュース IT / score: 70 (自治体システムにおける情報漏洩インシデント)</description>
 </item>
 </channel>
 </rss>
