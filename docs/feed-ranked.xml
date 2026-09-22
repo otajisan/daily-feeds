@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Tue, 22 Sep 2026 02:13:17 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 04:11:05 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Google Chrome」に今週2回目のセキュリティ更新、致命的脆弱性2件を含む16件に対処／Windows環境にはv153.0.8010.52/.53が展開中</title>
@@ -386,9 +386,9 @@
 <title>[80] Webブラウザーの不具合で「Salesforce」が操作不能に、「Chrome 153」「Edge 153」で発生／他の「Chromium」系ブラウザーでも発生のおそれ</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2142520.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2142520.html</guid>
-<pubDate>Mon, 21 Sep 2026 04:05:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>「Microsoft Edge 153」で一部Webアプリの操作中にウィンドウが固まる問題は、「Chromium」側の問題だったようだ。米Salesforceが9月16日（米国時間）、Windows環境の「Google Chrome」「Microsoft Edge」をv153へアップデートすると、「Salesforce」のユーザーインターフェイス（UI）がセッションの途中で操作を受け付けなくなることがあるとして、サポート文書を公開している。 — 窓の杜 / score: 80 (主要ブラウザ不具合によるSalesforceの障害)</description>
+<pubDate>Mon, 21 Sep 2026 08:43:43 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Webブラウザーの不具合で「Salesforce」が操作不能に、「Chrome 153」「Edge 153」で発生／他の「Chromium」系ブラウザーでも発生のおそれ — はてなブックマーク テクノロジー / score: 80 (主要ブラウザ不具合によるSalesforceの障害)</description>
 </item>
 <item>
 <title>[80] 「Microsoft Edge 153」に2日連続のセキュリティ更新、「Chromium」の修正を反映／v153.0.4234.48が安定（Stable）チャネルでリリース</title>
@@ -517,6 +517,14 @@
 <pubDate>Tue, 08 Sep 2026 14:00:15 +0000</pubDate>
 <category>Google DeepMind</category>
 <description>AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome. — Google DeepMind / score: 80 (全DNA変異を予測する画期的なゲノムマップの発表)</description>
+</item>
+<item>
+<title>[75] Xiaomi、AIモデル「MiMo-V2.6」Pro／Flashをオープンウェイトで公開</title>
+<link>https://gihyo.jp/article/2026/09/xiaomi-mimo-v2.6?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/09/xiaomi-mimo-v2.6?utm_source=feed</guid>
+<pubDate>Tue, 22 Sep 2026 02:52:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Xiaomiは9月21日、AIモデル「MiMo-V2.6」シリーズのProとFlashを発表し、モデル重みを公開した。 — gihyo.jp / score: 75 (XiaomiによるオープンウェイトAIモデル公開)</description>
 </item>
 <item>
 <title>[75] Jev introduces a new shape of LLM - System One, aka Decision Models</title>
@@ -797,14 +805,6 @@
 <pubDate>Mon, 21 Sep 2026 23:10:12 +0000</pubDate>
 <category>Yahoo!ニュース IT</category>
 <description> — Yahoo!ニュース IT / score: 70 (自治体システムにおける情報漏洩インシデント)</description>
-</item>
-<item>
-<title>[70] Cloudflare Python Workers are now generally available</title>
-<link>https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/</link>
-<guid isPermaLink="true">https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/</guid>
-<pubDate>Mon, 21 Sep 2026 22:25:44 +0000</pubDate>
-<category>Simon Willison</category>
-<description>Cloudflare Python Workers are now generally available After a two year preview, Cloudflare's support for running Python code in their server-side Workers platform is now stable: "Python is now a first-class, fully supported language on the Cloudflare Developer Platform". A neat thing about this is how it works. Cloudflare are running Python compiled to WebAssembly via Pyodide in their V8-based workerd runtime. This comes with some limitations, documented here - most notably both multiprocessing  — Simon Willison / score: 70 (Cloudflare Python Workersの一般提供開始)</description>
 </item>
 </channel>
 </rss>
