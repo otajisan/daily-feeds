@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Tue, 22 Sep 2026 04:11:05 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 06:16:05 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Google Chrome」に今週2回目のセキュリティ更新、致命的脆弱性2件を含む16件に対処／Windows環境にはv153.0.8010.52/.53が展開中</title>
@@ -79,14 +79,6 @@
 <description>米Googleは9月15日（現地時間、以下同）、デスクトップ向け「Google Chrome」の安定（Stable）チャネルをアップデートした。現在、Windows/Mac環境にはv153.0.8010.47/.48、Linux環境にはv153.0.8010.47が展開されている。 — 窓の杜 / score: 90 (Google Chromeの致命的脆弱性を含む多数の修正)</description>
 </item>
 <item>
-<title>[90] Microsoft、ネイティブGoコンパイラを採用した TypeScript 7.0 をリリース。ビルド速度が10倍に向上</title>
-<link>https://www.infoq.com/jp/news/2026/09/typescript-7-released/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-<guid isPermaLink="true">https://www.infoq.com/jp/news/2026/09/typescript-7-released/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-<pubDate>Fri, 11 Sep 2026 09:30:00 +0000</pubDate>
-<category>InfoQ Japan</category>
-<description>マイクロソフトは、TypeScript 7.0をリリースした。これは、長らく開発が続けられてきたネイティブコンパイラを搭載した同言語初の安定版であり、TypeScriptのツールセットをGoへ忠実に移植したもので、チームによると、フルビルドにおいて通常8倍から12倍の高速化を実現するという。 By Daniel Curtis Translated by Naoko Koshimura — InfoQ Japan / score: 90 (TypeScript 7.0のGo製コンパイラ移行)</description>
-</item>
-<item>
 <title>[90] 19.3.0 (September 9, 2026)</title>
 <link>https://github.com/react/react/releases/tag/v19.3.0</link>
 <guid isPermaLink="true">https://github.com/react/react/releases/tag/v19.3.0</guid>
@@ -101,6 +93,14 @@
 <pubDate>Wed, 09 Sep 2026 11:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment. — OpenAI News / score: 90 (次世代AIモデル「GPT-6 Astra」の発表)</description>
+</item>
+<item>
+<title>[85] Geminiよ、君も暴走したのか⋯。実在する3社に侵入していた</title>
+<link>https://www.gizmodo.jp/article/2609-gemini-security-incident-may/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/2609-gemini-security-incident-may/</guid>
+<pubDate>Tue, 22 Sep 2026 04:30:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>GoogleのGeminiが2026年5月に実在する3社のシステムに誤って侵入していたことが判明。AIの暴走リスクとセキュリティの課題について解説します。 — ギズモード・ジャパン / score: 85 (AIのセキュリティ侵害と暴走リスクに関する重大なニュース)</description>
 </item>
 <item>
 <title>[85] 「Excel」で貼り付けが“黙って”失敗する不具合、原因は9月の月例更新／一部バージョンで修正が進む</title>
@@ -519,6 +519,14 @@
 <description>AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome. — Google DeepMind / score: 80 (全DNA変異を予測する画期的なゲノムマップの発表)</description>
 </item>
 <item>
+<title>[75] SpaceXAI、「Grok 4.7」を発表 ～先代から速度・価格維持で「GPT-5.6」「Fable 5.1」に伍する性能／「Cursor」「Grok Build」で即日利用可能</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2142592.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2142592.html</guid>
+<pubDate>Tue, 22 Sep 2026 04:10:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米SpaceXAIは9月21日（現地時間）、「Grok 4.7」を発表した。コーディングとナレッジワーク向けの最上位モデルで、先月リリースした「Grok 4.6」を凌ぐ品質とパフォーマンスを実現しているにもかかわらず、価格と速度は据え置きだ。 — 窓の杜 / score: 75 (主要AIモデルのメジャーアップデートと性能発表)</description>
+</item>
+<item>
 <title>[75] Xiaomi、AIモデル「MiMo-V2.6」Pro／Flashをオープンウェイトで公開</title>
 <link>https://gihyo.jp/article/2026/09/xiaomi-mimo-v2.6?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/09/xiaomi-mimo-v2.6?utm_source=feed</guid>
@@ -685,14 +693,6 @@
 <pubDate>Wed, 16 Sep 2026 15:51:54 +0000</pubDate>
 <category>Publickey</category>
 <description>Googleは、Android上で利用可能なパスワードマネージャの間で、パスキーの転送を可能にしたと発表しました。 これにより、例えばGoogleパスワードマネージャに登録したパスキーを1PasswordやBitwardenなどの他のパスワ... — Publickey / score: 75 (パスキーのマネージャ間転送は利便性と標準化に貢献)</description>
-</item>
-<item>
-<title>[75] VBScript廃止に備えよ！ Windowsライセンス認証の自動化はslmgr.vbsではなくPowerShellで／Microsoftが新モジュール「OSLicense」の利用を呼び掛け</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2141127.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2141127.html</guid>
-<pubDate>Wed, 16 Sep 2026 00:11:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Microsoftは9月10日（現地時間）、公式ブログ「Windows IT Pro Blog」で、Windowsのライセンス認証を自動化するスクリプトを「PowerShell」へ移行するよう呼び掛けた。ライセンス認証の自動化には「slmgr.vbs」が広く用いられているが、「VBScript」はすでに非推奨となっており、将来のWindowsからは削除される予定。そうなれば、「slmgr.vbs」に依存した自動化も動かなくなってしまう。 — 窓の杜 / score: 75 (VBScript廃止に伴うWindows管理の移行注意喚起)</description>
 </item>
 <item>
 <title>[75] オープンソースのコーディングエージェントClineのデスクトップアプリ「Cline Desktop」が登場</title>
