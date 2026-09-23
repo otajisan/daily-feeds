@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 23 Sep 2026 18:12:40 +0000</lastBuildDate>
+<lastBuildDate>Wed, 23 Sep 2026 20:11:14 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] Next.js Security Update for a Critical Upstream Issue</title>
@@ -71,12 +71,12 @@
 <description>画像共有サービス「Gyazo」を運営する（株）Helpfeelは9月16日、「Gyazo」で不正アクセスが発生し、ユーザー情報やアップロードされた画像に関するメタデータの一部が外部に流出したことを明らかにした。第三者が「Gyazo」の画像アップロードサーバーに存在した脆弱性を悪用し、同社のシステム上で任意のコマンドを実行した。 — 窓の杜 / score: 90 (Gyazoの脆弱性を突いた大規模不正アクセスと情報流出)</description>
 </item>
 <item>
-<title>[85] 2026-09-23 Node.js v22.23.3 Jod (LTS) Release</title>
+<title>[85] 2026-09-23, Version 22.23.3 'Jod' (LTS), @aduh95 prepared by @juanarbol</title>
 <link>https://github.com/nodejs/node/releases/tag/v22.23.3</link>
 <guid isPermaLink="true">https://github.com/nodejs/node/releases/tag/v22.23.3</guid>
-<pubDate>Wed, 23 Sep 2026 16:53:01 +0000</pubDate>
+<pubDate>Wed, 23 Sep 2026 18:21:37 +0000</pubDate>
 <category>Node.js リリース</category>
-<description>Git-EVTag-v0-SHA512: 4d96fb3ca79aaf4fdbc8ca382da3b0ff4a0eff196fdaa9213658d240e169393660ed0f50b1feba2bb316f9e6c744555e29da7732265f1d57c3e73f62bd1c0e6f — Node.js リリース / score: 85 (主要ランタイムNode.jsのLTSアップデート)</description>
+<description>Notable Changes [ fe2a6b2be8 ] - crypto : update root certificates to NSS 3.125 (Node.js GitHub Bot) #64746 [ 871167ddfd ] - deps : update corepack to 0.36.0 (Node.js GitHub Bot) #65653 [ b816fc8958 ] - deps : upgrade npm to 10.9.9 (npm team) #64884 [ e306521444 ] - deps : update icu to 78.3 (Node.js GitHub Bot) #62324 [ a9cb31129f ] - deps : update OpenSSL 3.5.8 (Node.js GitHub Bot) #65542 [ 2a3548e51c ] - deps : update Undici to 6.28.1 (mcollina) #65790 [ 3909ff2c4a ] - node-api : support Shar — Node.js リリース / score: 85 (主要ランタイムNode.jsのLTSアップデート)</description>
 </item>
 <item>
 <title>[85] [AINews] Claude Opus 5.5, the new default model for AINews — and everybody cuts prices 40-50%</title>
@@ -487,20 +487,20 @@
 <description>GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support. — OpenAI News / score: 80 (OpenAI APIにおける自然な音声体験の新機能リリース)</description>
 </item>
 <item>
-<title>[75] Scale your own way, using HPA with built-in support for PromQL metrics queries in GKE</title>
-<link>https://cloud.google.com/blog/products/containers-kubernetes/native-support-for-prometheus-metrics-in-gke/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/products/containers-kubernetes/native-support-for-prometheus-metrics-in-gke/</guid>
-<pubDate>Wed, 23 Sep 2026 16:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>Earlier this year, we announced native support for Google Kubernetes Engine (GKE) custom metrics. This milestone allowed you to scrap external adapters and instead collect autoscaling metrics directly from your pods. By routing these metrics straight to the Horizontal Pod Autoscaler (HPA), we cut metrics reading latency down to 5 seconds. Today, we are excited to introduce built-in support for processing Prometheus metrics, allowing you to use expressive PromQL queries to customize autoscaling t — Google Cloud Blog / score: 75 (GKEでのPromQLメトリクス直接サポート)</description>
-</item>
-<item>
 <title>[75] GKE becomes more elastic: Scale to zero, save costs, and keep workloads responsive</title>
 <link>https://cloud.google.com/blog/products/containers-kubernetes/gke-adds-native-scale-to-zero-capabilities/</link>
 <guid isPermaLink="true">https://cloud.google.com/blog/products/containers-kubernetes/gke-adds-native-scale-to-zero-capabilities/</guid>
 <pubDate>Wed, 23 Sep 2026 16:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>True elasticity has long been the holy grail of cloud-native engineering. And while Kubernetes has revolutionized resource management, workloads that run sporadically (e.g., batch processors, event-driven workers, and development environments) still consume compute resources while they wait for work, driving up costs. We’re addressing this head-on in Google Kubernetes Engine (GKE) 1.37 with a native way to scale to and from zero . A new collection of features allows you to scale down your worklo — Google Cloud Blog / score: 75 (GKEのスケールインゼロ対応によるコスト削減)</description>
+</item>
+<item>
+<title>[75] Scale your own way, using HPA with built-in support for PromQL metrics queries in GKE</title>
+<link>https://cloud.google.com/blog/products/containers-kubernetes/native-support-for-prometheus-metrics-in-gke/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/containers-kubernetes/native-support-for-prometheus-metrics-in-gke/</guid>
+<pubDate>Wed, 23 Sep 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Earlier this year, we announced native support for Google Kubernetes Engine (GKE) custom metrics. This milestone allowed you to scrap external adapters and instead collect autoscaling metrics directly from your pods. By routing these metrics straight to the Horizontal Pod Autoscaler (HPA), we cut metrics reading latency down to 5 seconds. Today, we are excited to introduce built-in support for processing Prometheus metrics, allowing you to use expressive PromQL queries to customize autoscaling t — Google Cloud Blog / score: 75 (GKEでのPromQLメトリクス直接サポート)</description>
 </item>
 <item>
 <title>[75] Cloudflare、Python Wrokersを正式サービスに。PythonでWebサイトの構築、データベース接続、オブジェクトストレージ操作など</title>
@@ -799,12 +799,12 @@
 <description>Agentic AI Foundation（AAIF）は9月9日、オープンソースのAIゲートウェイ「Agent Router」（旧称：Envoy AI Gateway）の参加を発表した。 — gihyo.jp / score: 75 (AIゲートウェイOSSの発表に関するニュース)</description>
 </item>
 <item>
-<title>[70] Gemini 3.8 text-to-speech says hello</title>
-<link>https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/</link>
-<guid isPermaLink="true">https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/</guid>
-<pubDate>Wed, 23 Sep 2026 15:25:14 +0000</pubDate>
-<category>Google DeepMind</category>
-<description> — Google DeepMind / score: 70 (Gemini 3.8の音声合成機能発表)</description>
+<title>[70] Amazon Bedrock Managed Knowledge Base now supports Salesforce and Zendesk as native data source connectors</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-salesforce-zendesk-native-data-source-connectors/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-salesforce-zendesk-native-data-source-connectors/</guid>
+<pubDate>Wed, 23 Sep 2026 17:41:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS announces Salesforce and Zendesk data source connectors for Amazon Bedrock Managed Knowledge Base, a fully managed retrieval-augmented generation (RAG) service. Customers can now sync Salesforce knowledge articles and Zendesk articles and community posts directly into their managed knowledge base. Previously, bringing content from these platforms into Bedrock Knowledge Bases required building custom ingestion pipelines—now, you provide your instance credentials, and the connectors handle dat — AWS What's New / score: 70 (AWS BedrockのRAGデータソース連携機能の拡充)</description>
 </item>
 </channel>
 </rss>
