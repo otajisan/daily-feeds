@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 23 Sep 2026 20:11:14 +0000</lastBuildDate>
+<lastBuildDate>Wed, 23 Sep 2026 22:10:06 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] Next.js Security Update for a Critical Upstream Issue</title>
@@ -21,6 +21,14 @@
 <pubDate>Fri, 18 Sep 2026 07:54:25 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Googleは9月17日（現地時間、以下同）、デスクトップ向け「Google Chrome」の安定（Stable）チャネルをアップデートした。現在、Windows/Mac環境にはv153.0.8010.52/.53、Linux環境にはv153.0.8010.52が展開されている。 — 窓の杜 / score: 95 (Google Chromeの致命的脆弱性に対処する緊急セキュリティ更新)</description>
+</item>
+<item>
+<title>[90] Upcoming Next.js September Security Release</title>
+<link>https://nextjs.org/blog/upcoming-nextjs-security-release-september-2026</link>
+<guid isPermaLink="true">https://nextjs.org/blog/upcoming-nextjs-security-release-september-2026</guid>
+<pubDate>Wed, 23 Sep 2026 18:00:00 +0000</pubDate>
+<category>Next.js Blog</category>
+<description>Next.js is preparing a scheduled September security release for September 30, 2026. — Next.js Blog / score: 90 (Next.jsのセキュリティリリース予告)</description>
 </item>
 <item>
 <title>[90] 「VLC media player 3.0.24」が公開 ～130件を超えるセキュリティ修正／「ATRAC3」「ATRAC9」のデコードに対応</title>
@@ -77,6 +85,14 @@
 <pubDate>Wed, 23 Sep 2026 18:21:37 +0000</pubDate>
 <category>Node.js リリース</category>
 <description>Notable Changes [ fe2a6b2be8 ] - crypto : update root certificates to NSS 3.125 (Node.js GitHub Bot) #64746 [ 871167ddfd ] - deps : update corepack to 0.36.0 (Node.js GitHub Bot) #65653 [ b816fc8958 ] - deps : upgrade npm to 10.9.9 (npm team) #64884 [ e306521444 ] - deps : update icu to 78.3 (Node.js GitHub Bot) #62324 [ a9cb31129f ] - deps : update OpenSSL 3.5.8 (Node.js GitHub Bot) #65542 [ 2a3548e51c ] - deps : update Undici to 6.28.1 (mcollina) #65790 [ 3909ff2c4a ] - node-api : support Shar — Node.js リリース / score: 85 (主要ランタイムNode.jsのLTSアップデート)</description>
+</item>
+<item>
+<title>[85] MCP サーバーと繋いだだけで情報漏洩？ 危険の4パターンと事前に確認すべき7つのことをまとめてみた</title>
+<link>https://qiita.com/songchong/items/89175eaa7a30f71d0351?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/songchong/items/89175eaa7a30f71d0351?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Wed, 23 Sep 2026 15:06:57 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>MCP（Model Context Protocol）を使うとき、利用者は Claude・Codex・Antigravity などの AI エージェントに頼めば（あるいは簡単な設定をすれば）、AI エージェントが MCP サーバーのツールを呼び出せるようになります。 簡単... — Qiita 人気記事 / score: 85 (MCPのセキュリティ脆弱性リスク解説)</description>
 </item>
 <item>
 <title>[85] [AINews] Claude Opus 5.5, the new default model for AINews — and everybody cuts prices 40-50%</title>
@@ -351,6 +367,14 @@
 <description>Googleは2026年9月15日、音声対話AIモデル「Gemini 3.8 Live」と「Gemini 3.8 Live Extended Thinking」を発表した。 — gihyo.jp / score: 82 (Googleの音声対話型AIの新モデル発表)</description>
 </item>
 <item>
+<title>[80] わずか4Bの小型AIを強化学習したらPostgreSQLより1.81倍高速なクエリプランを生成できたという報告</title>
+<link>https://gigazine.net/news/20260924-qorl/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20260924-qorl/</guid>
+<pubDate>Wed, 23 Sep 2026 22:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>データベースにおけるクエリ最適化を小型LLMに肩代わりさせる研究を進めたところ、Postgresのデフォルトクエリプランを上回るパフォーマンスを発揮するクエリプランを生成できたと、バックエンドエンジニアのロハン・バンサル氏によって報告されました。 続きを読む... — GIGAZINE / score: 80 (小型LLMによるクエリ最適化の研究)</description>
+</item>
+<item>
 <title>[80] OpenAI GPT-6 Sol and GPT-6 Luna are now generally available on Amazon Bedrock</title>
 <link>https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-sol-luna-on-amazon-bedrock/</link>
 <guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-sol-luna-on-amazon-bedrock/</guid>
@@ -373,14 +397,6 @@
 <pubDate>Tue, 22 Sep 2026 12:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models. — OpenAI News / score: 80 (最新GPTモデルの性能向上とコスト削減)</description>
-</item>
-<item>
-<title>[80] Claude Codeの権限モデル（Read/Write/Edit/Bash）を全パターン検証した──想定外の挙動と安全な設定の落としどころ</title>
-<link>https://qiita.com/hikariclaude01/items/681ad21c35a17d8e44c6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/hikariclaude01/items/681ad21c35a17d8e44c6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Tue, 22 Sep 2026 01:01:33 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>結論：Claude Codeの権限は「4段階」ではなく「組み合わせ」で考える Claude CodeにWrite権限を渡した瞬間、想定していなかったファイルが書き換えられました──権限モデルの全パターンを体系的に検証した結果を共有します。 この記事でわかることは3つです。... — Qiita 人気記事 / score: 80 (話題のClaude Codeの権限モデルに関する重要な検証。)</description>
 </item>
 <item>
 <title>[80] Webブラウザーの不具合で「Salesforce」が操作不能に、「Chrome 153」「Edge 153」で発生／他の「Chromium」系ブラウザーでも発生のおそれ</title>
@@ -511,12 +527,12 @@
 <description>Cloudflareは、同社のサーバレス実行基盤上でPythonを実行できる「Python Workers」が正式サービスになったことを発表しました。 JavaScriptによるサーバレス実行基盤のCloudflare Workers上でW... — Publickey / score: 75 (CloudflareのPython Workers正式提供開始)</description>
 </item>
 <item>
-<title>[75] JCOM障害「インターネットが使えない」　サポート窓口もつながりにくく</title>
-<link>https://www.itmedia.co.jp/news/article/2609/23/2000001678/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2609/23/2000001678/</guid>
-<pubDate>Wed, 23 Sep 2026 04:12:36 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>JCOMは9月23日朝から、同社のシステム障害により、インターネット接続サービス「J:COM NET」が利用できない状況が起きていると公表した。障害の原因や復旧の見通しに触れていない。 Xのサポート用公式Xアカウントで、23日午前10時24分に告知した。障害の影響で、カスタマーセンターへの電話や、各種サポートへの問い合わ... — はてなブックマーク テクノロジー / score: 75 (大規模ISPの通信障害ニュース)</description>
+<title>[75] Sam Altman’s remarks at the United Nations Security Council</title>
+<link>https://openai.com/index/sam-altman-un-security-council-remarks</link>
+<guid isPermaLink="true">https://openai.com/index/sam-altman-un-security-council-remarks</guid>
+<pubDate>Wed, 23 Sep 2026 12:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council. — OpenAI News / score: 75 (国連安保理でのAI安全性に関する議論)</description>
 </item>
 <item>
 <title>[75] 中国当局がKimiやDeepSeek調査　AnthropicのAIに機密情報転送疑い - 日本経済新聞</title>
@@ -597,14 +613,6 @@
 <pubDate>Mon, 21 Sep 2026 16:32:04 +0000</pubDate>
 <category>iPhone Mania</category>
 <description>発売されたばかりのiPhone18 ProとiPhone18 Pro Maxで、突然再起動する問題が複数のユーザーから報告されています。日本のXでも「panic-full」の診断ログや、Face ID認証に失敗した直後に […] — iPhone Mania / score: 75 (最新iPhone Proでの予期せぬ再起動不具合の報告)</description>
-</item>
-<item>
-<title>[75] 最新事例から学ぶJevのベストプラクティス</title>
-<link>https://qiita.com/cushionA/items/6536a0bc611d5502beb6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/cushionA/items/6536a0bc611d5502beb6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Mon, 21 Sep 2026 14:43:21 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>はじめに 最近ホットなJevの話をしましょう。 JevはTypeSafe AIが2026年9月15日に提供を始めたAIモデルです。 いわく判断に特化したモデルで、LLMのように文章を生成するモデルではありません。 ただ入力された情報を読んで以下のような判断を行います。 ... — Qiita 人気記事 / score: 75 (新型の判断特化型モデルJevに関する実践的ベストプラクティス。)</description>
 </item>
 <item>
 <title>[75] Apple Watch Series 12/Ultra 4で突然再起動の不具合報告</title>
@@ -797,14 +805,6 @@
 <pubDate>Thu, 10 Sep 2026 08:19:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Agentic AI Foundation（AAIF）は9月9日、オープンソースのAIゲートウェイ「Agent Router」（旧称：Envoy AI Gateway）の参加を発表した。 — gihyo.jp / score: 75 (AIゲートウェイOSSの発表に関するニュース)</description>
-</item>
-<item>
-<title>[70] Amazon Bedrock Managed Knowledge Base now supports Salesforce and Zendesk as native data source connectors</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-salesforce-zendesk-native-data-source-connectors/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-salesforce-zendesk-native-data-source-connectors/</guid>
-<pubDate>Wed, 23 Sep 2026 17:41:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>AWS announces Salesforce and Zendesk data source connectors for Amazon Bedrock Managed Knowledge Base, a fully managed retrieval-augmented generation (RAG) service. Customers can now sync Salesforce knowledge articles and Zendesk articles and community posts directly into their managed knowledge base. Previously, bringing content from these platforms into Bedrock Knowledge Bases required building custom ingestion pipelines—now, you provide your instance credentials, and the connectors handle dat — AWS What's New / score: 70 (AWS BedrockのRAGデータソース連携機能の拡充)</description>
 </item>
 </channel>
 </rss>
