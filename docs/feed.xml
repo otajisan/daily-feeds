@@ -4,8 +4,104 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 23 Sep 2026 14:10:14 +0000</lastBuildDate>
+<lastBuildDate>Wed, 23 Sep 2026 16:11:15 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Advancing Private AI Compute with secure, server-side memory</title>
+<link>https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/</link>
+<guid isPermaLink="true">https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/</guid>
+<pubDate>Wed, 23 Sep 2026 16:00:57 +0000</pubDate>
+<category>Google DeepMind</category>
+<description>Introducing private, server-side memory to Private AI Compute for personal AI. — Google DeepMind / score: 65 (プライベートAI計算のセキュリティ向上)</description>
+</item>
+<item>
+<title>Two years of OpenAI Academy</title>
+<link>https://openai.com/index/two-years-of-openai-academy</link>
+<guid isPermaLink="true">https://openai.com/index/two-years-of-openai-academy</guid>
+<pubDate>Wed, 23 Sep 2026 16:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>Marking two years of OpenAI Academy and bringing AI skills to even more communities. — OpenAI News / score: 40 (OpenAI Academyの2周年記念告知)</description>
+</item>
+<item>
+<title>A new wave of Connected Apps is rolling out to Gemini.</title>
+<link>https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-gemini/</link>
+<guid isPermaLink="true">https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-gemini/</guid>
+<pubDate>Wed, 23 Sep 2026 16:00:00 +0000</pubDate>
+<category>Gemini (Google Blog)</category>
+<description>Gemini is adding new Connected Apps, including Adobe, Airtable, Linear, Peloton and more to help you easily tackle your to-do list. — Gemini (Google Blog) / score: 60 (Geminiの外部アプリ連携機能拡充)</description>
+</item>
+<item>
+<title>Scale your own way, using HPA with built-in support for PromQL metrics queries in GKE</title>
+<link>https://cloud.google.com/blog/products/containers-kubernetes/native-support-for-prometheus-metrics-in-gke/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/containers-kubernetes/native-support-for-prometheus-metrics-in-gke/</guid>
+<pubDate>Wed, 23 Sep 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Earlier this year, we announced native support for Google Kubernetes Engine (GKE) custom metrics. This milestone allowed you to scrap external adapters and instead collect autoscaling metrics directly from your pods. By routing these metrics straight to the Horizontal Pod Autoscaler (HPA), we cut metrics reading latency down to 5 seconds. Today, we are excited to introduce built-in support for processing Prometheus metrics, allowing you to use expressive PromQL queries to customize autoscaling t — Google Cloud Blog / score: 75 (GKEでのPromQLメトリクス直接サポート)</description>
+</item>
+<item>
+<title>GKE becomes more elastic: Scale to zero, save costs, and keep workloads responsive</title>
+<link>https://cloud.google.com/blog/products/containers-kubernetes/gke-adds-native-scale-to-zero-capabilities/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/containers-kubernetes/gke-adds-native-scale-to-zero-capabilities/</guid>
+<pubDate>Wed, 23 Sep 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>True elasticity has long been the holy grail of cloud-native engineering. And while Kubernetes has revolutionized resource management, workloads that run sporadically (e.g., batch processors, event-driven workers, and development environments) still consume compute resources while they wait for work, driving up costs. We’re addressing this head-on in Google Kubernetes Engine (GKE) 1.37 with a native way to scale to and from zero . A new collection of features allows you to scale down your worklo — Google Cloud Blog / score: 75 (GKEのスケールインゼロ対応によるコスト削減)</description>
+</item>
+<item>
+<title>A guide to speeding up your video processing with AlphaEvolve</title>
+<link>https://cloud.google.com/blog/topics/developers-practitioners/how-to-speed-up-your-video-processing-with-alphaevolve/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/developers-practitioners/how-to-speed-up-your-video-processing-with-alphaevolve/</guid>
+<pubDate>Wed, 23 Sep 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>In real-time streaming, every millisecond counts. For example, at 30 frames per second (fps), developers have a strict frame budget of just 33.3 ms (and only 16.6 ms at 60 fps) to ingest camera frames, run neural segmentation, apply shaders, and composite output. Exceeding that budget by even a fraction of a millisecond leads to dropped frames and stuttering. Manual optimization is notoriously tedious — requiring weeks of analyzing flame graphs and hand-tuning low-level code in Swift, C++, or Me — Google Cloud Blog / score: 65 (AlphaEvolveを活用した動画処理高速化)</description>
+</item>
+<item>
+<title>Cloudflare、Python Wrokersを正式サービスに。PythonでWebサイトの構築、データベース接続、オブジェクトストレージ操作など</title>
+<link>https://www.publickey1.jp/blog/26/cloudflarepython_wrokerspythonweb.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/cloudflarepython_wrokerspythonweb.html</guid>
+<pubDate>Wed, 23 Sep 2026 15:26:46 +0000</pubDate>
+<category>Publickey</category>
+<description>Cloudflareは、同社のサーバレス実行基盤上でPythonを実行できる「Python Workers」が正式サービスになったことを発表しました。 JavaScriptによるサーバレス実行基盤のCloudflare Workers上でW... — Publickey / score: 75 (CloudflareのPython Workers正式提供開始)</description>
+</item>
+<item>
+<title>Gemini 3.8 text-to-speech says hello</title>
+<link>https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/</link>
+<guid isPermaLink="true">https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/</guid>
+<pubDate>Wed, 23 Sep 2026 15:25:14 +0000</pubDate>
+<category>Google DeepMind</category>
+<description> — Google DeepMind / score: 70 (Gemini 3.8の音声合成機能発表)</description>
+</item>
+<item>
+<title>Claude Codeが「AGENTS.md」に対応。CLAUDE.mdが存在しない場合、自動的に読み込み</title>
+<link>https://www.publickey1.jp/blog/26/claude_codeagentsmdclaudemd.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/claude_codeagentsmdclaudemd.html</guid>
+<pubDate>Wed, 23 Sep 2026 15:23:11 +0000</pubDate>
+<category>Publickey</category>
+<description>Anthropicは、Claude Codeの9月18日付けでアップデートが公開されたClaude Code 2.1.277で「AGENTS.md」の読み込みに対応したことを明らかにしました。 以下のように説明されています。 Added... — Publickey / score: 65 (Claude CodeのAGENTS.md対応)</description>
+</item>
+<item>
+<title>Gemini 3.8 text-to-speech says hello</title>
+<link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/</link>
+<guid isPermaLink="true">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/</guid>
+<pubDate>Wed, 23 Sep 2026 15:15:00 +0000</pubDate>
+<category>Gemini (Google Blog)</category>
+<description>a text card image reading "Introducing Gemini 3.8 Flash TTS and 3.8 Flash-Lite TTS" — Gemini (Google Blog) / score: 70 (Gemini 3.8 Flash TTSの登場)</description>
+</item>
+<item>
+<title>15万円で買えるレトロデザインの最先端ミラーレスカメラ＝「OM SYSTEM PEN」実機レビュー</title>
+<link>https://ascii.jp/limit/group/ida/elem/000/004/436/4436640/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/limit/group/ida/elem/000/004/436/4436640/?rss</guid>
+<pubDate>Wed, 23 Sep 2026 15:01:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>OMデジタルソリューションズがマイクロフォーサーズの「OM SYSTEM PEN」を発表したので、実機で写真を撮ってみました — ASCII.jp / score: 35 (ミラーレスカメラの実機レビュー)</description>
+</item>
+<item>
+<title>Vlogにぴったりな小型カメラ「Osmo Pocket 4」レビュー記事・SF作家のAI論などAmazonで売上トップ10のGIGAZINE記事ランキング2026年8月版はコレ！</title>
+<link>https://gigazine.net/news/20260924-gigazine-kindle-ranking-2026-08/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20260924-gigazine-kindle-ranking-2026-08/</guid>
+<pubDate>Wed, 23 Sep 2026 15:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>GIGAZINEの記事を電子化した書籍を対象に「2026年8月に出版した中で最もたくさん読まれた記事は何なのか？」がわかるランキングを作ってみました。Google検索の影響が大きい普段のアクセス解析記事と違い、Amazonならではのランキングとなっています。 続きを読む... — GIGAZINE / score: 20 (GIGAZINEの過去記事ランキング)</description>
+</item>
 <item>
 <title>有毒植物で深刻な汚染地からレアアースを回収する試み</title>
 <link>https://www.gizmodo.jp/article/dragonberry-weed-could-help-scientists-extract-rare-earth-metals-from-polluted-soil-uyu/</link>
@@ -234,9 +330,9 @@
 <title>トランプ大統領の演説や政権の発表を24時間配信する「TRUMP TV」がスタート</title>
 <link>https://gigazine.net/news/20260923-trump-tv/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260923-trump-tv/</guid>
-<pubDate>Wed, 23 Sep 2026 08:18:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>ホワイトハウスが、ドナルド・トランプ大統領の情報を四六時中配信していく「TRUMP TV」を開始しました。トランプ大統領はCNN、MS NOW、Politicoの3社をホワイトハウスから出禁にしたことで、憲法修正第1条に違反していると訴えられています。 続きを読む... — GIGAZINE / score: 10 (政治関連の動向ニュースであり技術的要素は薄い)</description>
+<pubDate>Wed, 23 Sep 2026 08:29:01 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>ホワイトハウスが、ドナルド・トランプ大統領の情報を四六時中配信していく「TRUMP TV」を開始しました。トランプ大統領はCNN、MS NOW、Politicoの3社をホワイトハウスから出禁にしたことで、憲法修正第1条に違反していると訴えられています。 Launched. All the top hits, wins, + more. Streaming 24/7 on your phone ... — はてなブックマーク テクノロジー / score: 10 (政治関連の動向ニュースであり技術的要素は薄い)</description>
 </item>
 <item>
 <title>完全メシ「汁なしカップヌードル」がリニューアル！さらに濃い味わいへ</title>
@@ -333,6 +429,14 @@
 <pubDate>Wed, 23 Sep 2026 07:00:00 +0000</pubDate>
 <category>ASCII.jp</category>
 <description>誰を救い、誰を諦めるか。瓦礫の下で突きつけられる命の選別を描いた『Dr.DMAT』を、あなたも読んで胸をえぐられてほしい。災害医療の壮絶な現実がここにあります。 — ASCII.jp / score: 5 (技術者向けではなく技術ニュースとは無関係)</description>
+</item>
+<item>
+<title>似て非なる？「iPhone 18 Pro」と「iPhone 17 Pro」の外観上の違いを比較する</title>
+<link>https://www.itmedia.co.jp/mobile/articles/2609/23/news030.html</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/mobile/articles/2609/23/news030.html</guid>
+<pubDate>Wed, 23 Sep 2026 06:59:07 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>9月18日に発売された「iPhone 18 Pro」は、可変絞り搭載カメラや、より大きくなった冷却用のベイパーチャンバー、バッテリーの持続時間向上など、中身が大きく変化した。 一方、デザインは先代の「iPhone 17 Pro」をベースとしており、変化が乏しいと感じている人は多いだろう。実際の所はどうか。iPhone 17 ProとiPhone... — はてなブックマーク テクノロジー / score: 30 (iPhoneの新旧外観比較レビュー)</description>
 </item>
 <item>
 <title>[AINews] Claude Opus 5.5, the new default model for AINews — and everybody cuts prices 40-50%</title>
@@ -655,6 +759,14 @@
 <description>1. はじめに @araidon さんの以下記事で、「APEXでこんなモダンなUIのアプリが作れるんだ！」っとちょっと刺激された自分も試してみました。 ただ、環境を構築するのが若干億劫だったので、、codexでIaCを作成しました。 これをOCIのResour... — Qiita 人気記事 / score: 50 (Oracle APEXとモダンUI構築の実験的記事)</description>
 </item>
 <item>
+<title>左手デバイスを買いに行き、店員にオススメを聞いたら「僕が電気屋の店員だということは一旦忘れていただきまして、ひとりの絵描きとしてお話させていただくんですけども」という確定演出に入った</title>
+<link>https://togetter.com/li/2749204</link>
+<guid isPermaLink="true">https://togetter.com/li/2749204</guid>
+<pubDate>Wed, 23 Sep 2026 02:25:14 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>左手デバイスを買いに行き、店員にオススメを聞いたら「僕が電気屋の店員だということは一旦忘れていただきまして、ひとりの絵描きとしてお話させていただくんですけども」という確定演出に入った — はてなブックマーク テクノロジー / score: 15 (ガジェット購入の日常的なエッセイ)</description>
+</item>
+<item>
 <title>Anthropic、「Claude Opus 5.5」を発表 ～「Fable 5.1」並みの性能、コストは「Opus 5」比4割減／5時間あたりの利用上限を引き上げ、好きなときに使えるレート制限リセットも提供</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2142643.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2142643.html</guid>
@@ -679,14 +791,6 @@
 <description>Nothingが、「Phone (4a)」「Phone (3a) Pro」「Phone (3a)」向けに「Nothing OS 5.0」のオープンベータ版の提供を開始しました。 「Nothing OS 5.0」は「And […] — 気になる、記になる… / score: 30 (Nothing OSのオープンベータ展開)</description>
 </item>
 <item>
-<title>トランプ大統領、国連演説で「AI」を「Super Intelligence」に改称すると表明</title>
-<link>https://www.itmedia.co.jp/news/article/2609/23/2000001676/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2609/23/2000001676/</guid>
-<pubDate>Wed, 23 Sep 2026 02:04:25 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>ドナルド・トランプ米大統領は9月22日（現地時間）、米ニューヨークの国連本部で開催中の第81回国連総会の一般討論演説で、人工知能（Artificial Intelligence）を今後「Super Intelligence」（SI）と呼ぶと表明した。米国の全ての文書でこの呼称を使い、他国にも同様の変更を求めていく考えを示した。 トランプ氏は、AI... — はてなブックマーク テクノロジー / score: 30 (AIの呼称変更に関する政治的・ユーモラスなニュース)</description>
-</item>
-<item>
 <title>ロボタクシーのWaymoが公共交通機関との併用を推奨するプログラムを発表</title>
 <link>https://gigazine.net/news/20260923-waymo-introducing-transit-rewards/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260923-waymo-introducing-transit-rewards/</guid>
@@ -701,110 +805,6 @@
 <pubDate>Wed, 23 Sep 2026 02:00:00 +0000</pubDate>
 <category>ASCII.jp</category>
 <description>【ゴッパ合同会社】ゲームデバイスブランド「JAM」より、ラピッドトリガー搭載の自社開発レバーレスコントローラー「RapidJAM」を発売 — ASCII.jp / score: 35 (ラピッドトリガー搭載コントローラー発売)</description>
-</item>
-<item>
-<title>Uravation、Microsoft Copilot研修に「Copilot Studioでエージェントを作る」コースを追加。非エンジニアが2日間で社内Q&amp;Aや問い合わせ一次回答のエージェントを自作</title>
-<link>https://ascii.jp/elem/000/004/436/4436676/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/436/4436676/?rss</guid>
-<pubDate>Wed, 23 Sep 2026 02:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>Uravation、Microsoft Copilot研修に「Copilot Studioでエージェントを作る」コースを追加。非エンジニアが2日間で社内Q&amp;Aや問い合わせ一次回答のエージェントを自作 — ASCII.jp / score: 45 (Copilot研修コースの追加案内)</description>
-</item>
-<item>
-<title>【もっと買って、もっと快適に】電動ワークチェアのLiberNovo、複数台の購入でお得になる「まとめ買い応援キャンペーン」を開始</title>
-<link>https://ascii.jp/elem/000/004/436/4436675/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/436/4436675/?rss</guid>
-<pubDate>Wed, 23 Sep 2026 02:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>【もっと買って、もっと快適に】電動ワークチェアのLiberNovo、複数台の購入でお得になる「まとめ買い応援キャンペーン」を開始 — ASCII.jp / score: 15 (電動ワークチェアのキャンペーン情報)</description>
-</item>
-<item>
-<title>【通販の虎】年商約12億円の食肉卸が厳選！約2時間で250枠完売した「お肉の定期便」を追加販売、5,000万円分が即完した「SINKA -真果-」から新商品が登場！</title>
-<link>https://ascii.jp/elem/000/004/436/4436668/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/436/4436668/?rss</guid>
-<pubDate>Wed, 23 Sep 2026 02:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>【通販の虎】年商約12億円の食肉卸が厳選！約2時間で250枠完売した「お肉の定期便」を追加販売、5,000万円分が即完した「SINKA -真果-」から新商品が登場！ — ASCII.jp / score: 10 (食品通販の定期便サービス紹介)</description>
-</item>
-<item>
-<title>シンプル・イズ・ベスト？ ダイソンの新型ロボット掃除機、最注目は10万円を切る「R1」</title>
-<link>https://www.gizmodo.jp/article/dysons-latest-robovac-is-ideal-for-people-who-dont-care-about-mop-bots/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/dysons-latest-robovac-is-ideal-for-people-who-dont-care-about-mop-bots/</guid>
-<pubDate>Wed, 23 Sep 2026 02:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>Dyson（ダイソン）が、ロボット掃除機の新モデルを3機種発表しました。9万5900円（米国では550ドル）の「R1 Nurovi Dry」、14万5900円（米国では700ドル）の「R2 Nurovi Wash+Dry」、そして1,200… — ギズモード・ジャパン / score: 40 (家電製品の新モデル発売ニュース)</description>
-</item>
-<item>
-<title>GitHub - wrr/drop: Linux sandboxing that doesn't get in your way</title>
-<link>https://github.com/wrr/drop</link>
-<guid isPermaLink="true">https://github.com/wrr/drop</guid>
-<pubDate>Wed, 23 Sep 2026 01:54:40 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert — はてなブックマーク テクノロジー / score: 50 (Linux向けの新しいサンドボックスツール紹介)</description>
-</item>
-<item>
-<title>ソニーの新型ヘッドセット｢YY3033｣が韓国とIECEEの認証を取得 ｰ 何らかのゲーミングモデルか</title>
-<link>https://taisy0.com/2026/09/23/227936.html</link>
-<guid isPermaLink="true">https://taisy0.com/2026/09/23/227936.html</guid>
-<pubDate>Wed, 23 Sep 2026 01:50:41 +0000</pubDate>
-<category>気になる、記になる…</category>
-<description>The Walkman Blogによると、ソニーの新しいヘッドセット「YY3033」が、韓国とIECEE（国際電気標準会議電気機器・部品適合性試験認証制度）の認証を取得したことが分かりました。 韓国やIECEEでの認証情 […] — 気になる、記になる… / score: 25 (ハードウェアの認証通過に関するリーク的情報)</description>
-</item>
-<item>
-<title>Anthropic、「Claude Opus 5.5」を発表 ——性能と出力速度を向上、APIの入出力単価をOpus 5比で20％引き下げ</title>
-<link>https://gihyo.jp/article/2026/09/claude-opus-5.5?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/09/claude-opus-5.5?utm_source=feed</guid>
-<pubDate>Wed, 23 Sep 2026 01:39:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Anthropicは9月22日、AIモデル「Claude Opus 5.5」を発表した。 — gihyo.jp / score: 85 (AnthropicのClaude Opus 5.5の公式発表)</description>
-</item>
-<item>
-<title>「GPT-6 Sol」「GPT-6 Luna」が登場 ～賢くなったのにAPI価格は「GPT-5.6」の半額以下／「GPT-6 Astra」の成果を受け継いだ普段使い向けモデル</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2142635.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2142635.html</guid>
-<pubDate>Wed, 23 Sep 2026 01:37:20 +0000</pubDate>
-<category>窓の杜</category>
-<description>米OpenAIは9月22日（現地時間）、大規模言語モデル「GPT-6 Sol」と「GPT-6 Luna」を発表した。今月初めに発表された「GPT-6 Astra」と同様の手法で訓練することで、「Astra」譲りの能力をより高速、より手ごろな価格で利用できる。これで「GPT-6」シリーズに「Astra」「Sol」「Luna」の3モデルがそろった格好だ。 — 窓の杜 / score: 85 (大手AIベンダーの新モデル登場と価格改定のニュース)</description>
-</item>
-<item>
-<title>「NEOGEO AES+」は独自チップで100％“本物”再現を目指す！ 開発スタッフが実機をプレゼン【TGS2026】 「ゼロウィング」など今後のソフト展開についての情報も</title>
-<link>https://game.watch.impress.co.jp/docs/interview/2142504.html</link>
-<guid isPermaLink="true">https://game.watch.impress.co.jp/docs/interview/2142504.html</guid>
-<pubDate>Wed, 23 Sep 2026 01:32:15 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>「NEOGEO AES+」は独自チップで100％“本物”再現を目指す！ 開発スタッフが実機をプレゼン【TGS2026】 「ゼロウィング」など今後のソフト展開についての情報も — はてなブックマーク テクノロジー / score: 25 (レトロゲームのハードウェア復刻に関する趣味の話題)</description>
-</item>
-<item>
-<title>DPVR、法人向けVR「P1 Max」のアイトラッキング対応モデルを開発中</title>
-<link>https://ascii.jp/elem/000/004/436/4436680/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/436/4436680/?rss</guid>
-<pubDate>Wed, 23 Sep 2026 01:30:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>DPVR、法人向けVR「P1 Max」のアイトラッキング対応モデルを開発中 — ASCII.jp / score: 30 (法人向けVRのアイトラッキング対応)</description>
-</item>
-<item>
-<title>「貝だし琉球そば」って気になる！ 進化系沖縄そば、カップ麺に</title>
-<link>https://ascii.jp/elem/000/004/435/4435819/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/435/4435819/?rss</guid>
-<pubDate>Wed, 23 Sep 2026 01:30:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>明星食品は「明星 キセキ.監修 白い貝だし琉球そば」（324円）を9月28日に全国で発売します。 — ASCII.jp / score: 10 (新商品のカップ麺に関するニュース)</description>
-</item>
-<item>
-<title>【GRAMS28】新コレクション「Nomad’s Atelier (ノマド・アトリエ)コレクション」を解禁。世界を駆ける人々へ贈る機能的ラグジュアリー</title>
-<link>https://ascii.jp/elem/000/004/436/4436669/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/436/4436669/?rss</guid>
-<pubDate>Wed, 23 Sep 2026 01:28:55 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>【GRAMS28】新コレクション「Nomad’s Atelier (ノマド・アトリエ)コレクション」を解禁。世界を駆ける人々へ贈る機能的ラグジュアリー — ASCII.jp / score: 10 (アパレルブランドの新コレクション情報)</description>
-</item>
-<item>
-<title>Apple、｢Apple Park Visitor Center｣のAR体験エリアを撤去</title>
-<link>https://taisy0.com/2026/09/23/227931.html</link>
-<guid isPermaLink="true">https://taisy0.com/2026/09/23/227931.html</guid>
-<pubDate>Wed, 23 Sep 2026 01:25:58 +0000</pubDate>
-<category>気になる、記になる…</category>
-<description>MacRumorsによると、Appleが本社キャンパス「Apple Park」にある「Apple Park Visitor Center」の改装を完了し、目玉展示だった「Apple Park」のAR体験エリアが撤去された […] — 気になる、記になる… / score: 25 (Appleの店舗展示リニューアルに関する話題)</description>
 </item>
 </channel>
 </rss>

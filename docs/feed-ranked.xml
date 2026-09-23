@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 23 Sep 2026 14:10:14 +0000</lastBuildDate>
+<lastBuildDate>Wed, 23 Sep 2026 16:11:15 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] Next.js Security Update for a Critical Upstream Issue</title>
@@ -351,14 +351,6 @@
 <description>Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use. — OpenAI News / score: 85 (OpenAIによるAgents APIの新機能発表)</description>
 </item>
 <item>
-<title>[85] 2026-09-09, Version 26.8.2 (Current), @aduh95</title>
-<link>https://github.com/nodejs/node/releases/tag/v26.8.2</link>
-<guid isPermaLink="true">https://github.com/nodejs/node/releases/tag/v26.8.2</guid>
-<pubDate>Wed, 09 Sep 2026 16:07:48 +0000</pubDate>
-<category>Node.js リリース</category>
-<description>Notable Changes [ 616bd3fa26 ] - doc : deprecate Server.prototype._listen2 in node:net (Antoine du Hamel) #65593 [ ae1801eb55 ] - meta : refine the security vuln posture for experimental features (James M Snell) #65438 [ 09feba74c8 ] - deps : update Undici to 8.10.2 (Node.js GitHub Bot) #65788 [ 7efdbe3eb9 ] - deps : update OpenSSL to 3.5.8 (Node.js GitHub Bot) #65542 Commits [ d8aedd6584 ] - build : skip dockit on riscv64 (Stewart X Addison) #62251 [ 1899c274eb ] - build : activate correct defa — Node.js リリース / score: 85 (Node.jsのCurrent版アップデートと重要変更)</description>
-</item>
-<item>
 <title>[82] Google、Gemini 3.8 Liveを発表 ——会話を続けながら推論やツール実行が可能</title>
 <link>https://gihyo.jp/article/2026/09/gemini-3.8-live?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/09/gemini-3.8-live?utm_source=feed</guid>
@@ -501,6 +493,30 @@
 <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support. — OpenAI News / score: 80 (OpenAI APIにおける自然な音声体験の新機能リリース)</description>
+</item>
+<item>
+<title>[75] Scale your own way, using HPA with built-in support for PromQL metrics queries in GKE</title>
+<link>https://cloud.google.com/blog/products/containers-kubernetes/native-support-for-prometheus-metrics-in-gke/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/containers-kubernetes/native-support-for-prometheus-metrics-in-gke/</guid>
+<pubDate>Wed, 23 Sep 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Earlier this year, we announced native support for Google Kubernetes Engine (GKE) custom metrics. This milestone allowed you to scrap external adapters and instead collect autoscaling metrics directly from your pods. By routing these metrics straight to the Horizontal Pod Autoscaler (HPA), we cut metrics reading latency down to 5 seconds. Today, we are excited to introduce built-in support for processing Prometheus metrics, allowing you to use expressive PromQL queries to customize autoscaling t — Google Cloud Blog / score: 75 (GKEでのPromQLメトリクス直接サポート)</description>
+</item>
+<item>
+<title>[75] GKE becomes more elastic: Scale to zero, save costs, and keep workloads responsive</title>
+<link>https://cloud.google.com/blog/products/containers-kubernetes/gke-adds-native-scale-to-zero-capabilities/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/containers-kubernetes/gke-adds-native-scale-to-zero-capabilities/</guid>
+<pubDate>Wed, 23 Sep 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>True elasticity has long been the holy grail of cloud-native engineering. And while Kubernetes has revolutionized resource management, workloads that run sporadically (e.g., batch processors, event-driven workers, and development environments) still consume compute resources while they wait for work, driving up costs. We’re addressing this head-on in Google Kubernetes Engine (GKE) 1.37 with a native way to scale to and from zero . A new collection of features allows you to scale down your worklo — Google Cloud Blog / score: 75 (GKEのスケールインゼロ対応によるコスト削減)</description>
+</item>
+<item>
+<title>[75] Cloudflare、Python Wrokersを正式サービスに。PythonでWebサイトの構築、データベース接続、オブジェクトストレージ操作など</title>
+<link>https://www.publickey1.jp/blog/26/cloudflarepython_wrokerspythonweb.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/cloudflarepython_wrokerspythonweb.html</guid>
+<pubDate>Wed, 23 Sep 2026 15:26:46 +0000</pubDate>
+<category>Publickey</category>
+<description>Cloudflareは、同社のサーバレス実行基盤上でPythonを実行できる「Python Workers」が正式サービスになったことを発表しました。 JavaScriptによるサーバレス実行基盤のCloudflare Workers上でW... — Publickey / score: 75 (CloudflareのPython Workers正式提供開始)</description>
 </item>
 <item>
 <title>[75] JCOM障害「インターネットが使えない」　サポート窓口もつながりにくく</title>
@@ -679,14 +695,6 @@
 <description>OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior. — OpenAI News / score: 75 (OpenAIによるモデルの不整合報告フレームワーク)</description>
 </item>
 <item>
-<title>[75] Cloud CISO Perspectives: How Google monitors AI threats and advances AI defenses</title>
-<link>https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-google-monitors-ai-threats-advances-ai-defenses/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-google-monitors-ai-threats-advances-ai-defenses/</guid>
-<pubDate>Wed, 16 Sep 2026 16:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>Welcome to the first Cloud CISO Perspectives for September 2026. Today, Sandra Joyce shares the latest details on Google’s visibility into how attackers are using AI, and how we’re using AI to stop them. As with all Cloud CISO Perspectives, the contents of this newsletter are posted to the Google Cloud blog . If you’re reading this on the website and you’d like to receive the email version, you can subscribe here . aside_block &lt;ListValue: [StructValue([('title', 'Get vital board insights with Go — Google Cloud Blog / score: 75 (AIを活用したセキュリティ脅威対策の解説)</description>
-</item>
-<item>
 <title>[75] Android、パスキーをパスワードマネージャ間で転送可能に。Googleパスワードマネージャ、1Password、Bitwarden、Dashlaneなどが対応</title>
 <link>https://www.publickey1.jp/blog/26/androidgoogle1passwordbitwardendashlane.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/androidgoogle1passwordbitwardendashlane.html</guid>
@@ -791,20 +799,12 @@
 <description>Agentic AI Foundation（AAIF）は9月9日、オープンソースのAIゲートウェイ「Agent Router」（旧称：Envoy AI Gateway）の参加を発表した。 — gihyo.jp / score: 75 (AIゲートウェイOSSの発表に関するニュース)</description>
 </item>
 <item>
-<title>[70] **Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**</title>
-<link>https://huggingface.co/blog/nvidia/nemotron-diarization</link>
-<guid isPermaLink="true">https://huggingface.co/blog/nvidia/nemotron-diarization</guid>
-<pubDate>Wed, 23 Sep 2026 13:17:01 +0000</pubDate>
-<category>Hugging Face Blog</category>
-<description> — Hugging Face Blog / score: 70 (NVIDIAの音声認識AIに関する技術解説)</description>
-</item>
-<item>
-<title>[70] Introducing Amazon CloudWatch Omni: AI-powered observability for generative AI and agentic workloads | Amazon Web Services</title>
-<link>https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-ai-powered-observability-for-generative-ai-and-agentic-workloads/</link>
-<guid isPermaLink="true">https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-ai-powered-observability-for-generative-ai-and-agentic-workloads/</guid>
-<pubDate>Tue, 22 Sep 2026 23:45:10 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Introducing Amazon CloudWatch Omni: AI-powered observability for generative AI and agentic workloads | Amazon Web Services On-prem databases weren't built for agentic AI. Amazon RDS is — はてなブックマーク テクノロジー / score: 70 (生成AI向けオブザーバビリティ機能の紹介)</description>
+<title>[70] Gemini 3.8 text-to-speech says hello</title>
+<link>https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/</link>
+<guid isPermaLink="true">https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/</guid>
+<pubDate>Wed, 23 Sep 2026 15:25:14 +0000</pubDate>
+<category>Google DeepMind</category>
+<description> — Google DeepMind / score: 70 (Gemini 3.8の音声合成機能発表)</description>
 </item>
 </channel>
 </rss>
