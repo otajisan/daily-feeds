@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 23 Sep 2026 08:13:06 +0000</lastBuildDate>
+<lastBuildDate>Wed, 23 Sep 2026 10:09:52 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] Next.js Security Update for a Critical Upstream Issue</title>
@@ -151,14 +151,6 @@
 <description>米OpenAIは9月22日（現地時間）、新モデル「GPT-6 Sol」と「GPT-6 Luna」を公開した。9月上旬に公開した最上位モデル「GPT-6 Astra」と同様の手法で訓練した、より高速で安価なモデルという位置付けで、API料金はGPT-5.6世代の同名モデルのキャンペーン価格から50％引き下げた。 ChatGPTの有料プランとCodexで提供開始 S... — はてなブックマーク テクノロジー / score: 85 (主要AIの新型モデル公開とAPIの大幅値下げ)</description>
 </item>
 <item>
-<title>[85] Anthropic、「Claude Opus 5.5」公開　Fable 5.1並みの性能で利用コスト4割減</title>
-<link>https://www.itmedia.co.jp/news/article/2609/23/2000001673/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2609/23/2000001673/</guid>
-<pubDate>Tue, 22 Sep 2026 22:06:52 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>米Anthropicは9月22日（現地時間）、「Claude Opus 5.5」を発表した。新シリーズ「Claude 5.5」の最初のモデルで、多くの作業で上位モデル「Claude Fable 5.1」と同水準の性能を持ちながら、一般的なワークロードでの利用コストは前世代の「Claude Opus 5」より40％低いという。同社のダリオ・アモデイCEOが9月12日にAI... — はてなブックマーク テクノロジー / score: 85 (Anthropicの新型Claude発表、コスト低減と性能向上)</description>
-</item>
-<item>
 <title>[85] Bring more intelligence to everyday work with GPT-6 Sol and GPT-6 Luna on Amazon Bedrock | Amazon Web Services</title>
 <link>https://aws.amazon.com/blogs/machine-learning/bring-more-intelligence-to-everyday-work-with-gpt-6-sol-and-gpt-6-luna-on-amazon-bedrock/</link>
 <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/bring-more-intelligence-to-everyday-work-with-gpt-6-sol-and-gpt-6-luna-on-amazon-bedrock/</guid>
@@ -277,14 +269,6 @@
 <pubDate>Wed, 16 Sep 2026 23:51:08 +0000</pubDate>
 <category>Simon Willison</category>
 <description>Release: datasette 0.65.5 Security fix for an issue where a trailing newline in a requested table name could bypass table permissions and expose private rows, reported by dpfkdlemtp in GHSA-h547-rmjf-5m2m . Tags: security , datasette — Simon Willison / score: 85 (Datasetteの権限バイパス脆弱性の修正)</description>
-</item>
-<item>
-<title>[85] 無料メーラー「Thunderbird」v156.0が公開 ～Yandexへの外部ブラウザーログインが可能に／全75件のセキュリティ修正も</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2141430.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2141430.html</guid>
-<pubDate>Wed, 16 Sep 2026 09:41:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>オープンソースのメールソフト「Thunderbird」の最新版、v156.0が9月15日にリリースされた。本アップデートには、新機能の追加、仕様の変更に加え、多数の不具合修正やセキュリティ機能の向上が含まれている。 — 窓の杜 / score: 85 (メジャーメールソフトの多数のセキュリティ修正を含む更新)</description>
 </item>
 <item>
 <title>[85] Java 27 Launch Stream</title>
@@ -805,6 +789,22 @@
 <pubDate>Fri, 11 Sep 2026 05:09:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Googleは9月10日、AIアシスタント「Gemini」のWindows向けアプリの提供開始を発表した。Windows 10とWindows 11に対応している。 — gihyo.jp / score: 75 (Google製GeminiのWindowsアプリ提供開始)</description>
+</item>
+<item>
+<title>[75] OpenAI、GPT-Live-1をAPIで提供開始 ——発話中の割り込みや依頼の変更に対応</title>
+<link>https://gihyo.jp/article/2026/09/gpt-live-1-api?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/09/gpt-live-1-api?utm_source=feed</guid>
+<pubDate>Fri, 11 Sep 2026 02:43:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>OpenAIは9月10日、音声モデル「GPT-Live-1」のAPI提供を開始した。開発者は、発話中もユーザーの声を聞き取り、割り込みや依頼の変更に対応する音声エージェントを構築できる。 — gihyo.jp / score: 75 (OpenAIによるリアルタイム音声モデルAPIの提供開始)</description>
+</item>
+<item>
+<title>[75] Now everyone can put data to work</title>
+<link>https://openai.com/index/put-data-to-work</link>
+<guid isPermaLink="true">https://openai.com/index/put-data-to-work</guid>
+<pubDate>Thu, 10 Sep 2026 15:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language. — OpenAI News / score: 75 (ChatGPTの新機能データエージェント)</description>
 </item>
 </channel>
 </rss>
