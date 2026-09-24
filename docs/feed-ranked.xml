@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 24 Sep 2026 20:10:16 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 22:08:45 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「GitLab」に再び緊急パッチ、CVSS基本値「9.9」の脆弱性2件に対処／サーバー上で任意のコードを実行されるおそれ。自前運用の「GitLab」は即時更新を</title>
@@ -383,12 +383,28 @@
 <description>Googleは2026年9月15日、音声対話AIモデル「Gemini 3.8 Live」と「Gemini 3.8 Live Extended Thinking」を発表した。 — gihyo.jp / score: 82 (Googleの音声対話型AIの新モデル発表)</description>
 </item>
 <item>
+<title>[80] AWS Network Security Manager is now generally available in US East (N. Virginia) Region</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/network-security-manager-us-east-va/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/network-security-manager-us-east-va/</guid>
+<pubDate>Thu, 24 Sep 2026 15:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Today, AWS announces the general availability of AWS Network Security Manager, a comprehensive network security management solution designed to simplify security policy deployment and enforcement at scale. Network Security Manager supports AWS WAF and AWS Shield Advanced, with support for AWS Network Firewall soon to follow. AWS Network Security Manager enables security teams to consistently enforce firewall and DDoS protection configurations across their entire AWS organization. Network Securit — AWS What's New / score: 80 (AWS Network Security Managerの一般提供開始)</description>
+</item>
+<item>
 <title>[80] watchOS27.0.1が配信開始！Apple Watchが突然再起動する不具合の対処</title>
 <link>https://iphone-mania.jp/iwatch-606562/</link>
 <guid isPermaLink="true">https://iphone-mania.jp/iwatch-606562/</guid>
 <pubDate>Thu, 24 Sep 2026 11:13:44 +0000</pubDate>
 <category>iPhone Mania</category>
 <description>Appleは、Apple Watch向けに「watchOS27.0.1」をリリースしました。今回のアップデートは、最新のApple Watch Series 12およびApple Watch Ultra 4で報告されてい […] — iPhone Mania / score: 80 (Apple Watchの不具合を修正する緊急アップデート)</description>
+</item>
+<item>
+<title>[80] Amazon SageMaker HyperPod Inference Gateway for scalable LLM inference</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/sagemaker-hyperpod-inference-gateway/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/sagemaker-hyperpod-inference-gateway/</guid>
+<pubDate>Thu, 24 Sep 2026 08:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon SageMaker HyperPod Inference Gateway is a Kubernetes-native, GPU-aware routing system that deploys as a single EKS managed add-on on existing SageMaker HyperPod infrastructure with zero application changes. By replacing unintelligent round-robin load balancing with real-time inference-signal-driven routing, it reduces first-token latency by up to 82% and p99 TTFT reductions of 97–98% in mixed-hardware and burst traffic scenarios. The Gateway is built around 3 core components. The Envoy En — AWS What's New / score: 80 (Amazon SageMaker HyperPod Inference Gatewayの提供)</description>
 </item>
 <item>
 <title>[80] 「Wireshark 4.6.9」が公開、19件の脆弱性を修正 ～任意コード実行につながるものも／無料のパケットキャプチャーツール。旧ブランチには「Wireshark 4.4.19」</title>
@@ -511,6 +527,14 @@
 <description>OpenAIは9月10日、クラウド上でAIエージェントを構築・実行する「Agents API」をパブリックベータとして公開した。Codexを支えるエージェントの実行基盤をAPI経由で提供し、モデルの呼び出しやツール利用の制御、長時間のセッション管理をOpenAIが引き受ける。 — gihyo.jp / score: 80 (AIエージェント構築用APIのパブリックベータ公開)</description>
 </item>
 <item>
+<title>[75] 「Python」のWindowsフルインストーラーが引退へ、「3.16」以降は提供されず／これからは「Python Install Manager」で導入・管理</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2142666.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2142666.html</guid>
+<pubDate>Thu, 24 Sep 2026 21:45:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>Windows版「Python」でお馴染みだったフルインストーラーが非推奨（deprecated）となり、「Python 3.16」からは提供されなくなるとのこと。代わりに「Python Install Manager」の利用が推奨されている。この移行は、2025年4月に受理された「PEP 773」に沿った措置だ。 — 窓の杜 / score: 75 (Python Windowsインストーラー廃止と新方式移行の重大な変更)</description>
+</item>
+<item>
 <title>[75] Introducing Gemini 3.8 Live with Live Avatar</title>
 <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar/</link>
 <guid isPermaLink="true">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar/</guid>
@@ -541,6 +565,14 @@
 <pubDate>Thu, 24 Sep 2026 11:00:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>Metaの新製品「Meta VR Glasses」の現地速報レビュー。5K解像度や100gの軽量設計など注目の魅力と実機を触った第一印象をお届けします。 — ギズモード・ジャパン / score: 75 (Metaの新型軽量デバイスの発表速報)</description>
+</item>
+<item>
+<title>[75] Run interactive workloads on Amazon EMR on EKS with Spark Connect</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/emr-eks-spark-connect-interactive/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/emr-eks-spark-connect-interactive/</guid>
+<pubDate>Thu, 24 Sep 2026 08:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon EMR on EKS now supports interactive Apache Spark sessions with Spark Connect. Data engineers and data scientists can develop and debug Apache Spark applications interactively from managed notebooks in Amazon SageMaker Unified Studio and their own IDEs, such as Jupyter and Visual Studio Code, with Spark running on the Amazon EKS clusters they already operate. An interactive session provides a persistent Spark context that spans across cells and scripts, letting you blend local Python code  — AWS What's New / score: 75 (Amazon EMR on EKSでのSpark Connectサポート)</description>
 </item>
 <item>
 <title>[75] AIの学習と著作権をめぐる米司法省の見解が脅威になる理由</title>
@@ -773,38 +805,6 @@
 <pubDate>Wed, 16 Sep 2026 15:51:54 +0000</pubDate>
 <category>Publickey</category>
 <description>Googleは、Android上で利用可能なパスワードマネージャの間で、パスキーの転送を可能にしたと発表しました。 これにより、例えばGoogleパスワードマネージャに登録したパスキーを1PasswordやBitwardenなどの他のパスワ... — Publickey / score: 75 (パスキーのマネージャ間転送は利便性と標準化に貢献)</description>
-</item>
-<item>
-<title>[75] オープンソースのコーディングエージェントClineのデスクトップアプリ「Cline Desktop」が登場</title>
-<link>https://gihyo.jp/article/2026/09/cline-desktop?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/09/cline-desktop?utm_source=feed</guid>
-<pubDate>Tue, 15 Sep 2026 02:56:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Cline Bot Inc.は2026年9月14日、オープンソースのコーディングエージェントClineのデスクトップ版「Cline Desktop」をベータ版として公開した。macOSおよびWindows上で動作する。 — gihyo.jp / score: 75 (人気OSSコーディングエージェントのデスクトップ版登場)</description>
-</item>
-<item>
-<title>[75] AnthropicのMCP共同作者が来日、基調講演で語るこれからのMCP注力領域。AGNTCon＋MCPCon Japan 2026</title>
-<link>https://www.publickey1.jp/blog/26/anthropicmcpmcpagntconmcpcon_japan_2026.html</link>
-<guid isPermaLink="true">https://www.publickey1.jp/blog/26/anthropicmcpmcpagntconmcpcon_japan_2026.html</guid>
-<pubDate>Mon, 14 Sep 2026 15:55:18 +0000</pubDate>
-<category>Publickey</category>
-<description>AIエージェントおよびMCP（Model Context Protocol）を主題としたイベント「AGNTCon＋MCPCon Japan 2026」が9月10日に東京渋谷のイベントホールで開催されました。主催はLinux Foundati... — Publickey / score: 75 (MCPやAIエージェントに関する重要動向の講演)</description>
-</item>
-<item>
-<title>[75] Dario Amodei氏、最先端AIの開発減速を呼びかけ、Musk氏やAltman氏も反応 ──アライメントの確保と第三者評価が論点に</title>
-<link>https://gihyo.jp/article/2026/09/must-pace-the-frontier?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/09/must-pace-the-frontier?utm_source=feed</guid>
-<pubDate>Mon, 14 Sep 2026 09:08:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>AnthropicのDario Amodei氏は9月12日、最先端AIの能力向上の速度を抑え、安全対策に取り組む時間を確保するよう呼びかけるブログ「We Must Pace the Frontier」をXで紹介した。 — gihyo.jp / score: 75 (AI開発の減速と安全性の議論)</description>
-</item>
-<item>
-<title>[75] AWSがDevOpsエージェントを拡張し、AIを活用したリリース管理機能を追加、本番環境投入前のコード検証を実現</title>
-<link>https://www.infoq.com/jp/news/2026/09/aws-devops-ai-agent/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-<guid isPermaLink="true">https://www.infoq.com/jp/news/2026/09/aws-devops-ai-agent/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-<pubDate>Mon, 14 Sep 2026 07:30:00 +0000</pubDate>
-<category>InfoQ Japan</category>
-<description>Amazon Web Services（AWS）は、AWS DevOps Agentの大幅な機能拡張を発表し、コードの変更を評価し、本番環境に展開される前にソフトウェアを自律的にテストする設計がされた新しいリリース管理機能を導入した。 プレビュー版として提供される新機能Release Readiness ReviewとAutonomous Release Testingは、DevOps Agentの適用範囲をデプロイ後の運用からソフトウェアデリバリーパイプラインへと拡大し、エンジニアリングチームがコードのマージ前に本番環境への準備状況を評価し、組織の基準を適用し、変更内容に応じたテストを生成可能にする。 By Craig Risi Translated by Takashi Kawase — InfoQ Japan / score: 75 (AWSのAIを活用したリリース管理機能の拡張)</description>
 </item>
 </channel>
 </rss>
