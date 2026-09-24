@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 24 Sep 2026 08:15:13 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 10:09:53 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「GitLab」に再び緊急パッチ、CVSS基本値「9.9」の脆弱性2件に対処／サーバー上で任意のコードを実行されるおそれ。自前運用の「GitLab」は即時更新を</title>
@@ -79,20 +79,20 @@
 <description>Be alert: targeted attacks on prominent Rustaceans Important warning from Adam Harvey and the crates security team: We believe that there is an ongoing campaign targeting rust-lang members and owners of popular crates that is attempting to compromise devices and accounts in order to use them to publish malware. A video call is set up for something positive — maybe for a job, maybe for a project, maybe for a contract opportunity — and then that's used as a vector to either get the target to insta — Simon Willison / score: 90 (Rust言語関係者を狙った標的型攻撃の重要警告)</description>
 </item>
 <item>
-<title>[85] ゲームアクセラレーター「QuickFox」アプリケーションを標的としたサプライチェーン攻撃</title>
-<link>https://ascii.jp/elem/000/004/436/4436696/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/436/4436696/?rss</guid>
-<pubDate>Thu, 24 Sep 2026 08:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>FortiGuard Labsは、QuickFoxアプリケーションを標的とした、長期にわたるサプライチェーン攻撃に関連するキャンペーンを追跡してきました。QuickFoxはVPNプロキシおよびゲームアクセラレーターで、主に中国のユーザーが中国国内のリソースへのアクセスを高速化するために利用しています。 — ASCII.jp / score: 85 (VPNアプリを狙ったサプライチェーン攻撃)</description>
+<title>[85] FBI職員数千人分の個人情報をサイバー犯罪集団ShinyHuntersが盗み出していたことが判明</title>
+<link>https://gigazine.net/news/20260924-shinyhunters-stole-fbi-data-include-sensitive-information/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20260924-shinyhunters-stole-fbi-data-include-sensitive-information/</guid>
+<pubDate>Thu, 24 Sep 2026 09:02:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>盗み出した個人情報の身代金を要求する手口で知られるサイバー犯罪集団のShinyHuntersが、アメリカの連邦捜査局(FBI)から現職員・元職員の個人情報を盗み出していたことがわかりました。情報には氏名や住所、電話番号などのほか所属部隊などが含まれ、これまで存在が秘匿されていた対中国や対ロシアの部隊の存在が明らかになっています。 続きを読む... — GIGAZINE / score: 85 (FBI職員の個人情報流出に関するセキュリティ事件)</description>
 </item>
 <item>
-<title>[85] 豪首相、OpenAIのAIが政府システムに不正アクセスしたと報告</title>
-<link>https://ascii.jp/elem/000/004/436/4436903/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/436/4436903/?rss</guid>
-<pubDate>Thu, 24 Sep 2026 06:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>オーストラリアのアンソニー・アルバネーゼ首相は9月24日、OpenAIのAIエージェントが豪州の政府システムに不正アクセスしたことを公表した。 — ASCII.jp / score: 85 (OpenAIのAIによる政府システムへの不正アクセス)</description>
+<title>[85] 「楽天銀行から数百万が勝手に移動」「残高が0に」……楽天証券のシステム不具合、連休中に発生</title>
+<link>https://www.itmedia.co.jp/news/article/2609/24/2000001708/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2609/24/2000001708/</guid>
+<pubDate>Thu, 24 Sep 2026 08:33:59 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>「楽天銀行から、数百万が楽天証券に勝手に移動されていた」「楽天証券に振り替えられて、楽天銀行の残高が0になっていた」 楽天銀行と楽天証券の連携サービスを利用している一部のユーザーが9月22日、意図しない資金移動を相次いで報告した。楽天証券によると、一部のシステムで障害が起きたことが原因。23日未明に資金... — はてなブックマーク テクノロジー / score: 85 (楽天証券と銀行の連携における重大なシステム障害)</description>
 </item>
 <item>
 <title>[85] Geminiがテスト中に暴走して3つの企業をハッキングしたがGoogleは公表せず沈黙していたことが発覚</title>
@@ -383,14 +383,6 @@
 <description>Googleが開発した、データを暗号化した状態のままAIモデルなどで処理できるようにするオープンソースのコンパイラが「HEIR(Homomorphic Encryption Intermediate Representation)」です。HEIRは「完全準同型暗号」という暗号技術を利用したプログラムを開発しやすくするためのツールで、通常のデータを扱う既存のAIモデルを、暗号化された入力データを扱える形へ変換できます。 続きを読む... — GIGAZINE / score: 80 (完全準同型暗号による暗号化データ処理の解説)</description>
 </item>
 <item>
-<title>[80] メタ、眼鏡に独自AI「ミューズ」搭載　販売1000万台超えへ - 日本経済新聞</title>
-<link>https://www.nikkei.com/article/DGXZQOGN232VG0T20C26A9000000/</link>
-<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOGN232VG0T20C26A9000000/</guid>
-<pubDate>Thu, 24 Sep 2026 02:03:02 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>【シリコンバレー=山田遼太郎】米メタは23日、人工知能（AI）搭載の眼鏡型端末の新製品を発表した。ネットで買い物などを代行するAIエージェント「Muse（ミューズ）」を搭載する。AI機能を強化し2026年の約1000万台から販売を伸ばす。23日、米西部カリフォルニア州で開発者会議「メタコネクト」を開いた。登壇したマーク... — はてなブックマーク テクノロジー / score: 80 (AI搭載スマートグラスと新機能の発表)</description>
-</item>
-<item>
 <title>[80] オーストラリア首相「OpenAIのAIが国民健保サイトに侵入」と公表 - 日本経済新聞</title>
 <link>https://www.nikkei.com/article/DGXZQOGN2407Y0U6A920C2000000/</link>
 <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOGN2407Y0U6A920C2000000/</guid>
@@ -445,14 +437,6 @@
 <pubDate>Mon, 21 Sep 2026 00:45:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Microsoftは9月18日（現地時間、以下同）、デスクトップ向け「Microsoft Edge」v153.0.4234.48を安定（Stable）チャネルでリリースした。17日のv153.0.4234.46に続くセキュリティアップデートで、2日連続での更新となる。 — 窓の杜 / score: 80 (Microsoft Edgeの連続セキュリティ更新)</description>
-</item>
-<item>
-<title>[80] 「Microsoft Edge 153」に問題、一部Webアプリの操作中にウィンドウが固まる／回避策は「Edge 152」へのロールバック。Microsoftが調査中</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2141656.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2141656.html</guid>
-<pubDate>Thu, 17 Sep 2026 07:05:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米国時間9月10日に安定（Stable）チャネルでリリースされた「Microsoft Edge 153」で、一部のWebアプリケーションがユーザーの操作中に応答不能になることがあるとのこと。米Microsoftが自社のドキュメントサイトで明らかにした。 — 窓の杜 / score: 80 (Microsoft Edgeの深刻なフリーズ不具合)</description>
 </item>
 <item>
 <title>[80] Claude CoworkがClaudeチャットに統合 ―Claude DocsとClaude Slidesが新たに追加、Claude Designもチャットで利用可能に</title>
@@ -519,14 +503,6 @@
 <description>OpenAIは9月10日、クラウド上でAIエージェントを構築・実行する「Agents API」をパブリックベータとして公開した。Codexを支えるエージェントの実行基盤をAPI経由で提供し、モデルの呼び出しやツール利用の制御、長時間のセッション管理をOpenAIが引き受ける。 — gihyo.jp / score: 80 (AIエージェント構築用APIのパブリックベータ公開)</description>
 </item>
 <item>
-<title>[75] Ankerがリコール中のポータブルスピーカーで火災事故　「SoundCore」利用者は確認を</title>
-<link>https://ascii.jp/elem/000/004/436/4436919/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/436/4436919/?rss</guid>
-<pubDate>Thu, 24 Sep 2026 06:30:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>消費者庁は9月18日、愛知県で7月に、アンカーの充電式スピーカー「Anker SoundCore ブラック」が焼損する火災事故が起きたことを公表した。 — ASCII.jp / score: 75 (ハードウェア製品のリコールと火災事故。)</description>
-</item>
-<item>
 <title>[75] AnthropicのClaudeがバクテリオファージからCRISPRに似た未知の酵素システムを発見、ダリオ・アモデイCEOはAIで「5〜10年以内に多くの病気を治せる」と予測</title>
 <link>https://gigazine.net/news/20260924-anthropic-claude-crispr/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260924-anthropic-claude-crispr/</guid>
@@ -541,6 +517,14 @@
 <pubDate>Thu, 24 Sep 2026 05:26:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Googleは2026年9月23日、テキスト読み上げモデル「Gemini 3.8 Flash TTS」と「Gemini 3.8 Flash-Lite TTS」をリリースした。 — gihyo.jp / score: 75 (Googleの新音声生成モデルのリリース)</description>
+</item>
+<item>
+<title>[75] 「OSSレジストリのただ乗りは限界」　GoogleやMicrosoftなど12社が企業の費用負担を巡り共同声明</title>
+<link>https://atmarkit.itmedia.co.jp/ait/articles/2609/24/news032.html</link>
+<guid isPermaLink="true">https://atmarkit.itmedia.co.jp/ait/articles/2609/24/news032.html</guid>
+<pubDate>Thu, 24 Sep 2026 04:45:25 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>「OSSレジストリのただ乗りは限界」 GoogleやMicrosoftなど12社が企業の費用負担を巡り共同声明：エンタープライズ向け「有償枠」などの資金調達モデルを模索へ（1/2 ページ） 生成AIの普及でソフトウェア開発が激変する中、セキュリティ脅威も深刻化し、OSSレジストリの運用負荷が高まっている。こうした背景を踏まえO... — はてなブックマーク テクノロジー / score: 75 (大手テック企業12社によるOSS資金負担の共同声明)</description>
 </item>
 <item>
 <title>[75] “声をイチから作りだせる”音声合成モデル「Gemini 3.8 TTS」、Googleが発表／役柄・アクセント・声の特徴で生成、100以上の言語と方言に対応、2,000以上のライブラリ</title>
@@ -575,14 +559,6 @@
 <description>米Microsoftは9月22日（現地時間）、2026年9月のWindows非セキュリティプレビュー更新プログラムをリリースした。現在、以下のOSバージョンで利用可能。 — 窓の杜 / score: 75 (Windows 11プレビューパッチと新機能)</description>
 </item>
 <item>
-<title>[75] 「Meta VR Glasses」を先行体験 視野角の広さと本体の軽さが激ヤバ、新時代の到来を実感したし、早く欲しい!! | PANORA</title>
-<link>https://panora.tokyo/archives/157625</link>
-<guid isPermaLink="true">https://panora.tokyo/archives/157625</guid>
-<pubDate>Thu, 24 Sep 2026 00:05:24 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Metaが23日に年次の開発者向けイベント「Meta Connect 2026」にて発表したグラス型VRデバイス「Meta VR Glasses」。実はプレス向けに先行体験が行われていて、PANORAでも参加したのでその The post 「Meta VR Glasses」を先行体験 視野角の広さと本体の軽さが激ヤバ、新時代の到来を実感したし、早く欲しい!! first app... — はてなブックマーク テクノロジー / score: 75 (新型VRデバイスの先行体験レポート)</description>
-</item>
-<item>
 <title>[75] API Gateway、実行ログの配信先カスタマイズと最大1MBのログに対応</title>
 <link>https://codezine.jp/article/detail/29751</link>
 <guid isPermaLink="true">https://codezine.jp/article/detail/29751</guid>
@@ -597,14 +573,6 @@
 <pubDate>Wed, 23 Sep 2026 23:22:51 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Anthropicは9月23日（現地時間）、「Claude Code」で「クラウドセッション」（Cloud sessions）の一般提供を開始した。これまでリサーチプレビューとしてテストされていたが、正式版として利用できるようになる。 — 窓の杜 / score: 75 (Claude Codeのクラウドセッション一般提供)</description>
-</item>
-<item>
-<title>[75] メタのAI「ミューズ」登場、旅行予約や金融株が急落　顧客離れを懸念 - 日本経済新聞</title>
-<link>https://www.nikkei.com/article/DGXZQOFD2339C0T20C26A9000000/</link>
-<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOFD2339C0T20C26A9000000/</guid>
-<pubDate>Wed, 23 Sep 2026 22:02:25 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>【ニューヨーク=石坪真衣】米メタが公開した買い物や旅行予約を代行する人工知能（AI）「Muse（ミューズ）」の登場で、オンライン旅行予約や金融サービス株の売りが進んでいる。ミューズがこれらのサービスを代替し、顧客が離れるとの懸念がある。大手旅行サイトのトリップアドバイザー株の23日終値はミューズの発表前の... — はてなブックマーク テクノロジー / score: 75 (MetaのAIによる業界への影響と株価の動き)</description>
 </item>
 <item>
 <title>[75] GKE becomes more elastic: Scale to zero, save costs, and keep workloads responsive</title>
@@ -805,6 +773,38 @@
 <pubDate>Sun, 13 Sep 2026 15:20:00 +0000</pubDate>
 <category>Publickey</category>
 <description>CSSフレームワーク「Tailwind CSS」の開発元であるTailwind Labsは、ECサイト構築サービスを提供しているShopifyによって買収されると発表しました。 下記はTailwindの作者であるAdam Wathan氏によ... — Publickey / score: 75 (Tailwind CSSがShopifyにより買収された発表)</description>
+</item>
+<item>
+<title>[75] [AINews] DeepSeek v4.1-Flash: 763B-P8B-D16B novel causal Encoder–Decoder architecture with vision marks the Return of the Whale</title>
+<link>https://www.latent.space/p/ainews-deepseek-v41-flash-763b-p8b</link>
+<guid isPermaLink="true">https://www.latent.space/p/ainews-deepseek-v41-flash-763b-p8b</guid>
+<pubDate>Sat, 12 Sep 2026 05:56:05 +0000</pubDate>
+<category>Latent Space</category>
+<description>We are late to this but better than never. Have been busy finalizing the second AIE NYC , which is happening in one month. Get your tix before prices go up - we will announce speakers from Bridgewater, Ramp, Coatue, Mastercard, Vanguard, Coinbase, Blackrock, Fidelity, Point72, Capital One, JPMC, Wells Fargo, Bloomberg, A24 (yes the movie studio) Labs, Two Sigma, Apollo Global, and more next week! The way DeepSeek pursues their research agenda is nothing short of fascinating. In between major Dee — Latent Space / score: 75 (AIモデルの新アーキテクチャ発表に関する技術ニュース)</description>
+</item>
+<item>
+<title>[75] AWS DevOps Agent adds support for bidirectional Slack communication</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/aws-devops-agent-bidirectional-slack-communication</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/aws-devops-agent-bidirectional-slack-communication</guid>
+<pubDate>Fri, 11 Sep 2026 15:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS DevOps Agent now enables engineers to manage production operations across AWS, multicloud, and on-premises environments with the complete investigation lifecycle directly within Slack. Previously, on-call engineers and DevOps teams faced fragmented workflows during high-severity incidents, having to context-switch between communication and investigation platforms. This update consolidates both surfaces into a single, unified location where incident response already happens. Engineering teams — AWS What's New / score: 75 (AWS DevOps AgentのSlack連携強化に関する機能追加)</description>
+</item>
+<item>
+<title>[75] Rapidly scaling online storage to serve over 1 billion ChatGPT users</title>
+<link>https://openai.com/index/scaling-storage-one-billion-users-part-one</link>
+<guid isPermaLink="true">https://openai.com/index/scaling-storage-one-billion-users-part-one</guid>
+<pubDate>Fri, 11 Sep 2026 10:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second. — OpenAI News / score: 75 (10億人規模を支える大規模ストレージ設計)</description>
+</item>
+<item>
+<title>[75] Google、GeminiのWindowsアプリを提供開始</title>
+<link>https://gihyo.jp/article/2026/09/gemini-app-for-windows?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/09/gemini-app-for-windows?utm_source=feed</guid>
+<pubDate>Fri, 11 Sep 2026 05:09:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Googleは9月10日、AIアシスタント「Gemini」のWindows向けアプリの提供開始を発表した。Windows 10とWindows 11に対応している。 — gihyo.jp / score: 75 (Google製GeminiのWindowsアプリ提供開始)</description>
 </item>
 </channel>
 </rss>
