@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 24 Sep 2026 02:13:58 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 04:11:17 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] Next.js Security Update for a Critical Upstream Issue</title>
@@ -71,12 +71,12 @@
 <description>Be alert: targeted attacks on prominent Rustaceans Important warning from Adam Harvey and the crates security team: We believe that there is an ongoing campaign targeting rust-lang members and owners of popular crates that is attempting to compromise devices and accounts in order to use them to publish malware. A video call is set up for something positive — maybe for a job, maybe for a project, maybe for a contract opportunity — and then that's used as a vector to either get the target to insta — Simon Willison / score: 90 (Rust言語関係者を狙った標的型攻撃の重要警告)</description>
 </item>
 <item>
-<title>[90] 画像共有サービス「Gyazo」に不正アクセス、非公開画像が閲覧された可能性も／ユーザー情報約2,362万件と画像のメタデータ約4.9億件が流出</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2141601.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2141601.html</guid>
-<pubDate>Thu, 17 Sep 2026 01:35:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>画像共有サービス「Gyazo」を運営する（株）Helpfeelは9月16日、「Gyazo」で不正アクセスが発生し、ユーザー情報やアップロードされた画像に関するメタデータの一部が外部に流出したことを明らかにした。第三者が「Gyazo」の画像アップロードサーバーに存在した脆弱性を悪用し、同社のシステム上で任意のコマンドを実行した。 — 窓の杜 / score: 90 (Gyazoの脆弱性を突いた大規模不正アクセスと情報流出)</description>
+<title>[85] AIが乗っ取ったメールを読み「どうすればできるだけ多くの金をだまし取れるか」まで教える犯罪サービス「EvilTokens」が展開されていた</title>
+<link>https://gigazine.net/news/20260924-eviltokens/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20260924-eviltokens/</guid>
+<pubDate>Thu, 24 Sep 2026 03:45:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>AIに乗っ取ったメール受信箱を分析させて組織の人間関係や支払いの流れを調べ「誰を狙うべきか」「誰になりすますべきか」「どの関係を悪用すれば金銭詐欺が成功しやすいか」まで提案させるサイバー犯罪サービス「EvilTokens」が展開されていたことをMicrosoftが明らかにしました。 続きを読む... — GIGAZINE / score: 85 (AIを用いた悪質なサイバー犯罪サービスの詳細)</description>
 </item>
 <item>
 <title>[85] 「Google Chrome 154」が公開、HTTP接続時に警告する「Ask before HTTP」が既定有効に／深刻度最高11件を含む108件の脆弱性にも対処</title>
@@ -367,6 +367,14 @@
 <description>Googleは2026年9月15日、音声対話AIモデル「Gemini 3.8 Live」と「Gemini 3.8 Live Extended Thinking」を発表した。 — gihyo.jp / score: 82 (Googleの音声対話型AIの新モデル発表)</description>
 </item>
 <item>
+<title>[80] AIにデータを見せずに処理させるGoogleの完全準同型暗号コンパイラ「HEIR」とは？</title>
+<link>https://gigazine.net/news/20260924-google-heir/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20260924-google-heir/</guid>
+<pubDate>Thu, 24 Sep 2026 03:30:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>Googleが開発した、データを暗号化した状態のままAIモデルなどで処理できるようにするオープンソースのコンパイラが「HEIR(Homomorphic Encryption Intermediate Representation)」です。HEIRは「完全準同型暗号」という暗号技術を利用したプログラムを開発しやすくするためのツールで、通常のデータを扱う既存のAIモデルを、暗号化された入力データを扱える形へ変換できます。 続きを読む... — GIGAZINE / score: 80 (完全準同型暗号による暗号化データ処理の解説)</description>
+</item>
+<item>
 <title>[80] オーストラリア首相「OpenAIのAIが国民健保サイトに侵入」と公表 - 日本経済新聞</title>
 <link>https://www.nikkei.com/article/DGXZQOGN2407Y0U6A920C2000000/</link>
 <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOGN2407Y0U6A920C2000000/</guid>
@@ -495,6 +503,30 @@
 <description>OpenAIは9月10日、クラウド上でAIエージェントを構築・実行する「Agents API」をパブリックベータとして公開した。Codexを支えるエージェントの実行基盤をAPI経由で提供し、モデルの呼び出しやツール利用の制御、長時間のセッション管理をOpenAIが引き受ける。 — gihyo.jp / score: 80 (AIエージェント構築用APIのパブリックベータ公開)</description>
 </item>
 <item>
+<title>[75] 高性能AIモデル「MiMo-V2.6-Pro」と「MiMo-V2.6-Flash」が無償公開される、GPT-5.6 Solに近い性能</title>
+<link>https://gigazine.net/news/20260924-mimo-v2-6-pro-flash/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20260924-mimo-v2-6-pro-flash/</guid>
+<pubDate>Thu, 24 Sep 2026 03:20:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>中国の大手テクノロジー企業であるXiaomiがAIモデル「MiMo-V2.6-Pro」および「MiMo-V2.6-Flash」を日本時間の2026年9月22日にリリースしました。両モデルはオープンモデルとして無償公開されており、MiMo-V2.6-Proはオープンモデルの中で最高性能と評価されています。 続きを読む... — GIGAZINE / score: 75 (高性能なオープンAIモデルの無償公開)</description>
+</item>
+<item>
+<title>[75] GitHub Copilotで「Claude Opus 5.5」が利用可能に</title>
+<link>https://codezine.jp/article/detail/29775</link>
+<guid isPermaLink="true">https://codezine.jp/article/detail/29775</guid>
+<pubDate>Thu, 24 Sep 2026 03:00:00 +0000</pubDate>
+<category>CodeZine</category>
+<description> — CodeZine / score: 75 (GitHub CopilotでのClaude Opus利用開始)</description>
+</item>
+<item>
+<title>[75] Windows 11の2026年9月プレビューパッチが公開 ～「バージョン 24H2」はこれが最後／「Copilot」キーを「Ctrl」などに再割り当て、「Emoji 17.0」などに対応、廃止機能も</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2142738.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2142738.html</guid>
+<pubDate>Thu, 24 Sep 2026 02:55:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Microsoftは9月22日（現地時間）、2026年9月のWindows非セキュリティプレビュー更新プログラムをリリースした。現在、以下のOSバージョンで利用可能。 — 窓の杜 / score: 75 (Windows 11プレビューパッチと新機能)</description>
+</item>
+<item>
 <title>[75] API Gateway、実行ログの配信先カスタマイズと最大1MBのログに対応</title>
 <link>https://codezine.jp/article/detail/29751</link>
 <guid isPermaLink="true">https://codezine.jp/article/detail/29751</guid>
@@ -549,14 +581,6 @@
 <pubDate>Wed, 23 Sep 2026 12:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council. — OpenAI News / score: 75 (国連安保理でのAI安全性に関する議論)</description>
-</item>
-<item>
-<title>[75] 中国当局がKimiやDeepSeek調査　AnthropicのAIに機密情報転送疑い - 日本経済新聞</title>
-<link>https://www.nikkei.com/article/DGXZQOGM230CK0T20C26A9000000/</link>
-<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOGM230CK0T20C26A9000000/</guid>
-<pubDate>Wed, 23 Sep 2026 02:48:45 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>【広州=藤野逸郎】中国の国家インターネット情報弁公室が同国の人工知能（AI）新興、月之暗面（ムーンショットAI）やDeepSeek（ディープシーク）を、機密情報の漏洩の疑いで調査を始めたと米メディア、ジ・インフォメーションが22日伝えた。米アンソロピックが10日付で発表した報告書で指摘していた。軍関係とみられる利... — はてなブックマーク テクノロジー / score: 75 (AI企業の機密情報漏洩疑惑に関する重要な国際ニュース)</description>
 </item>
 <item>
 <title>[75] Amazon CloudWatch Omni: AI-first observability for agents and applications</title>
@@ -621,22 +645,6 @@
 <pubDate>Mon, 21 Sep 2026 14:21:04 +0000</pubDate>
 <category>iPhone Mania</category>
 <description>発売されたばかりのApple Watch Series 12とApple Watch Ultra 4で、使用中に突然再起動する問題が複数のユーザーから報告されています。MacRumorsフォーラムだけでなく、Appleコ […] — iPhone Mania / score: 75 (新製品デバイスにおける突然の再起動不具合の報告)</description>
-</item>
-<item>
-<title>[75] プロセスが終了しても入出力は行われるのか？プロセスが終了するとio_uringはどうなるのか？</title>
-<link>https://gigazine.net/news/20260921-what-happens-to-io-uring-when-process-dies/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260921-what-happens-to-io-uring-when-process-dies/</guid>
-<pubDate>Mon, 21 Sep 2026 10:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>一般的なイメージではOSのI/O操作はプロセスが終了すると停止するものと受け止められているのではないでしょうか。しかしながら、LinuxカーネルにおけるI/O操作のライフサイクルは必ずしもプロセスのライフサイクルと一致しないことがあります。特にLinuxカーネル5.1で導入されたio_uringを使用した場合、プロセスが終了した後でもI/O操作がカーネル内で継続しストレージに到達する可能性がデータベースプラットフォーム開発者のエフゲニー・イワノフ氏により報告されています。 続きを読む... — GIGAZINE / score: 75 (Linuxカーネルのio_uring詳細な挙動解説)</description>
-</item>
-<item>
-<title>[75] 軍の売店の冷凍庫にハッキング攻撃か、冷蔵・冷凍食品売り場が国家安全保障上の脅威になる可能性</title>
-<link>https://gigazine.net/news/20260921-military-freezers/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260921-military-freezers/</guid>
-<pubDate>Mon, 21 Sep 2026 08:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>2026年8月26日～27日の間に、アメリカの11州にまたがる軍事施設で「売店の冷蔵・冷凍庫の故障報告」が確認されました。外部からのハッキングが行われた可能性も考えられましたが、後に国防総省は「冷蔵設備の不具合の可能性」を認めています。 続きを読む... — GIGAZINE / score: 75 (IoT機器・軍事施設におけるセキュリティの脆弱性リスク)</description>
 </item>
 <item>
 <title>[75] Kimi K3 by Moonshot AI is now generally available on Amazon Bedrock</title>
@@ -797,14 +805,6 @@
 <pubDate>Thu, 10 Sep 2026 08:19:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Agentic AI Foundation（AAIF）は9月9日、オープンソースのAIゲートウェイ「Agent Router」（旧称：Envoy AI Gateway）の参加を発表した。 — gihyo.jp / score: 75 (AIゲートウェイOSSの発表に関するニュース)</description>
-</item>
-<item>
-<title>[70] スマホの主役はAIエージェントへ。クアルコムが放つ超絶スペック「Snapdragon 8 Elite Extreme Gen 6」の衝撃</title>
-<link>https://ascii.jp/elem/000/004/436/4436689/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/436/4436689/?rss</guid>
-<pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>クアルコムが「Snapdragon 8 Elite Extreme Gen 6」と「Elite Gen 6」の2つの最上位チップを発表しました。初の2nmプロセスで製造され、5GHz到達のCPUやAI専用コア内蔵GPUなどAI処理に特化。Xiaomi 18 Proやモトローラの新機種への採用も明かされました。 — ASCII.jp / score: 70 (クアルコムの新型AIプロセッサ発表)</description>
 </item>
 </channel>
 </rss>
