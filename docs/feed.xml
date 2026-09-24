@@ -4,8 +4,16 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 24 Sep 2026 18:11:58 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 20:10:16 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>AWS Lambda durable functions are now available in AWS European Sovereign Cloud region</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/durablefunctions-european-sovereign-cloud/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/durablefunctions-european-sovereign-cloud/</guid>
+<pubDate>Thu, 24 Sep 2026 18:29:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS Lambda durable functions are now available in the AWS European Sovereign Cloud. Lambda durable functions enable developers to build reliable multi-step applications and AI workflows within the Lambda developer experience. Lambda durable functions extend the Lambda programming model with new primitives in your event handler, such as "step" and "wait", allowing you to checkpoint progress, automatically recover from failures, and pause executions without incurring compute charges for on-demand  — AWS What's New / score: 45 (特定リージョン向けの機能追加で影響は限定的)</description>
+</item>
 <item>
 <title>Nothingの新型ヘッドホン「Headphone (1) Pro」の製品デザインが明らかに</title>
 <link>https://taisy0.com/2026/09/25/227987.html</link>
@@ -29,6 +37,14 @@
 <pubDate>Thu, 24 Sep 2026 16:00:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Amazon Relational Database Service (RDS) for MySQL announces Amazon RDS Extended Support minor versions 5.7.44-rds.20260902 and 8.0.46-rds.20260908. Amazon RDS Extended Support provides up to three additional years of fixes for critical Common Vulnerabilities and Exposures (CVE) and bugs beyond a major version's end of standard support date, giving you more time to upgrade to a new major version. You can upgrade your database using Amazon RDS Blue/Green Deployments , in-place upgrade, or restore — AWS What's New / score: 30 (RDS for MySQLのマイナーバージョン更新)</description>
+</item>
+<item>
+<title>Amazon RDS for PostgreSQL now supports PostgreSQL 19 Beta 4 in the Amazon RDS Database Preview Environment</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/postgresql-19-beta-4-amazon-rds-database-preview-environment/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/postgresql-19-beta-4-amazon-rds-database-preview-environment/</guid>
+<pubDate>Thu, 24 Sep 2026 16:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Starting today, Amazon RDS for PostgreSQL 19 Beta 4 is available in the Amazon RDS Database Preview Environment , allowing you to evaluate the pre-release of PostgreSQL 19 on Amazon RDS for PostgreSQL. PostgreSQL 19 Beta 4 refines the query performance and autovacuum management capabilities introduced in earlier releases and includes bug fixes and stability improvements since Beta 3. Fixes include pg_stat_autovacuum_scores view reporting for TOAST tables and corrected freeze-score scaling so you — AWS What's New / score: 40 (PostgreSQLのプレビュー版対応であり限定的)</description>
 </item>
 <item>
 <title>Amazon RDS for PostgreSQL now supports post-quantum TLS key exchange</title>
@@ -111,14 +127,6 @@
 <description>あなたの知らないAI便利機能！はじめの一歩の基礎知識から、より便利に使える操作法や活用例まで詳しく紹介！ — ASCII.jp / score: 25 (雑誌のAI特集号に関する告知)</description>
 </item>
 <item>
-<title>A new, no-compromises database architecture for the agentic era</title>
-<link>https://cloud.google.com/blog/products/databases/alloydbs-agentic-database-architecture/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/products/databases/alloydbs-agentic-database-architecture/</guid>
-<pubDate>Thu, 24 Sep 2026 14:30:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>Entire database engineering careers have been spent on a single question: How do you scale an OLTP workload without compromising the system of record that owns the data? Exadata answered the question by offloading queries into a scale-out storage tier beneath the database, removing the network as the bottleneck. Azure SQL Hyperscale did it with shared block servers, scaling out to tens of read replicas. Aurora offloaded log application to distributed storage nodes, scaling reads across tens of P — Google Cloud Blog / score: 65 (エージェント時代に向けた新しいデータベース構造)</description>
-</item>
-<item>
 <title>How growing Latin American midsize businesses are building in the AI era</title>
 <link>https://cloud.google.com/blog/topics/customers/how-midsize-latam-companies-build-with-ai/</link>
 <guid isPermaLink="true">https://cloud.google.com/blog/topics/customers/how-midsize-latam-companies-build-with-ai/</guid>
@@ -133,6 +141,14 @@
 <pubDate>Thu, 24 Sep 2026 14:30:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>Enterprises rely on mission-critical operational databases where performance slowdowns simply aren’t an option. Yet when even a few agents execute dense reasoning loops, the unpredictable surge in queries can easily overwhelm traditional architectures. Today, we’re announcing that AlloyDB delivers PostgreSQL for agents (in preview), enabling real-time data access without compromising your mission-critical systems. AlloyDB now scales to dynamic agent bursts by provisioning sandboxed database inst — Google Cloud Blog / score: 65 (AlloyDBのAIエージェント向け新機能の発表)</description>
+</item>
+<item>
+<title>A new, no-compromises database architecture for the agentic era</title>
+<link>https://cloud.google.com/blog/products/databases/alloydbs-agentic-database-architecture/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/databases/alloydbs-agentic-database-architecture/</guid>
+<pubDate>Thu, 24 Sep 2026 14:30:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Entire database engineering careers have been spent on a single question: How do you scale an OLTP workload without compromising the system of record that owns the data? Exadata answered the question by offloading queries into a scale-out storage tier beneath the database, removing the network as the bottleneck. Azure SQL Hyperscale did it with shared block servers, scaling out to tens of read replicas. Aurora offloaded log application to distributed storage nodes, scaling reads across tens of P — Google Cloud Blog / score: 65 (エージェント時代に向けた新しいデータベース構造)</description>
 </item>
 <item>
 <title>TORRAS、｢iPhone 18 Pro｣シリーズ用ケースとカメラ保護フィルムの併用でフィルム側がケースのフレームより高くなる場合があることを案内</title>
@@ -789,22 +805,6 @@
 <pubDate>Thu, 24 Sep 2026 08:00:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>Appleが開発を一時中断したAirTagサイズのAIピンの噂を解説。カメラ搭載でSiriが視覚情報を持つデバイスの全貌と、今後のAppleのAIガジェット展開をお届けします。 — ギズモード・ジャパン / score: 45 (Appleの新規AIデバイス開発の噂。)</description>
-</item>
-<item>
-<title>「GitLab」に再び緊急パッチ、CVSS基本値「9.9」の脆弱性2件に対処／サーバー上で任意のコードを実行されるおそれ。自前運用の「GitLab」は即時更新を</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2142932.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2142932.html</guid>
-<pubDate>Thu, 24 Sep 2026 07:57:18 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>「GitLab」に再び緊急パッチ、CVSS基本値「9.9」の脆弱性2件に対処／サーバー上で任意のコードを実行されるおそれ。自前運用の「GitLab」は即時更新を — はてなブックマーク テクノロジー / score: 95 (GitLabのCVSS 9.9を含む緊急脆弱性パッチ)</description>
-</item>
-<item>
-<title>AIの学習と著作権をめぐる米司法省の見解が脅威になる理由</title>
-<link>https://japan.zdnet.com/article/35252683/</link>
-<guid isPermaLink="true">https://japan.zdnet.com/article/35252683/</guid>
-<pubDate>Thu, 24 Sep 2026 07:57:12 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>2023年初頭に生成AIが登場して以来、その膨大な知識ベースが主要なAI企業による広範なモデル学習に依存していることが明らかになっている。OpenAIやAnthropicなどのAI企業は、ウェブ上の著作権で保護されたコンテンツを含むあらゆるデータを読み込む形で学習を行ってきた。 さらに、AI企業は数百万冊もの紙の書籍を購入... — はてなブックマーク テクノロジー / score: 75 (AIと著作権の法的リスクに関する重要な議論)</description>
 </item>
 </channel>
 </rss>

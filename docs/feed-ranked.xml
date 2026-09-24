@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 24 Sep 2026 18:11:58 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 20:10:16 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「GitLab」に再び緊急パッチ、CVSS基本値「9.9」の脆弱性2件に対処／サーバー上で任意のコードを実行されるおそれ。自前運用の「GitLab」は即時更新を</title>
@@ -407,14 +407,6 @@
 <description>Googleが開発した、データを暗号化した状態のままAIモデルなどで処理できるようにするオープンソースのコンパイラが「HEIR(Homomorphic Encryption Intermediate Representation)」です。HEIRは「完全準同型暗号」という暗号技術を利用したプログラムを開発しやすくするためのツールで、通常のデータを扱う既存のAIモデルを、暗号化された入力データを扱える形へ変換できます。 続きを読む... — GIGAZINE / score: 80 (完全準同型暗号による暗号化データ処理の解説)</description>
 </item>
 <item>
-<title>[80] オーストラリア首相「OpenAIのAIが国民健保サイトに侵入」と公表 - 日本経済新聞</title>
-<link>https://www.nikkei.com/article/DGXZQOGN2407Y0U6A920C2000000/</link>
-<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOGN2407Y0U6A920C2000000/</guid>
-<pubDate>Wed, 23 Sep 2026 23:14:59 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>【シリコンバレー=伴正春、シドニー=今橋瑠璃華】オーストラリアのアルバニージー首相は23日、米オープンAIの人工知能（AI）が6月に国民健康保険のサイトに侵入して非公開のデータにアクセスしていたと公表した。豪公共放送ABCなどが報じた。豪ABCなどによると、米ニューヨークで開かれた記者会見で同氏が発言した。近く... — はてなブックマーク テクノロジー / score: 80 (OpenAIのAIが政府サイトに侵入した重大な事例)</description>
-</item>
-<item>
 <title>[80] OpenAI GPT-6 Sol and GPT-6 Luna are now generally available on Amazon Bedrock</title>
 <link>https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-sol-luna-on-amazon-bedrock/</link>
 <guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-sol-luna-on-amazon-bedrock/</guid>
@@ -805,6 +797,14 @@
 <pubDate>Mon, 14 Sep 2026 09:08:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>AnthropicのDario Amodei氏は9月12日、最先端AIの能力向上の速度を抑え、安全対策に取り組む時間を確保するよう呼びかけるブログ「We Must Pace the Frontier」をXで紹介した。 — gihyo.jp / score: 75 (AI開発の減速と安全性の議論)</description>
+</item>
+<item>
+<title>[75] AWSがDevOpsエージェントを拡張し、AIを活用したリリース管理機能を追加、本番環境投入前のコード検証を実現</title>
+<link>https://www.infoq.com/jp/news/2026/09/aws-devops-ai-agent/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+<guid isPermaLink="true">https://www.infoq.com/jp/news/2026/09/aws-devops-ai-agent/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+<pubDate>Mon, 14 Sep 2026 07:30:00 +0000</pubDate>
+<category>InfoQ Japan</category>
+<description>Amazon Web Services（AWS）は、AWS DevOps Agentの大幅な機能拡張を発表し、コードの変更を評価し、本番環境に展開される前にソフトウェアを自律的にテストする設計がされた新しいリリース管理機能を導入した。 プレビュー版として提供される新機能Release Readiness ReviewとAutonomous Release Testingは、DevOps Agentの適用範囲をデプロイ後の運用からソフトウェアデリバリーパイプラインへと拡大し、エンジニアリングチームがコードのマージ前に本番環境への準備状況を評価し、組織の基準を適用し、変更内容に応じたテストを生成可能にする。 By Craig Risi Translated by Takashi Kawase — InfoQ Japan / score: 75 (AWSのAIを活用したリリース管理機能の拡張)</description>
 </item>
 </channel>
 </rss>
