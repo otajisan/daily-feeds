@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 24 Sep 2026 16:10:56 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 18:11:58 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「GitLab」に再び緊急パッチ、CVSS基本値「9.9」の脆弱性2件に対処／サーバー上で任意のコードを実行されるおそれ。自前運用の「GitLab」は即時更新を</title>
@@ -77,6 +77,14 @@
 <pubDate>Thu, 17 Sep 2026 23:59:19 +0000</pubDate>
 <category>Simon Willison</category>
 <description>Be alert: targeted attacks on prominent Rustaceans Important warning from Adam Harvey and the crates security team: We believe that there is an ongoing campaign targeting rust-lang members and owners of popular crates that is attempting to compromise devices and accounts in order to use them to publish malware. A video call is set up for something positive — maybe for a job, maybe for a project, maybe for a contract opportunity — and then that's used as a vector to either get the target to insta — Simon Willison / score: 90 (Rust言語関係者を狙った標的型攻撃の重要警告)</description>
+</item>
+<item>
+<title>[85] Introducing Gemini 3.8 Live with Live Avatar</title>
+<link>https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/</link>
+<guid isPermaLink="true">https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/</guid>
+<pubDate>Thu, 24 Sep 2026 16:20:39 +0000</pubDate>
+<category>Google DeepMind</category>
+<description> — Google DeepMind / score: 85 (主要AIモデルの新バージョンと新機能の発表)</description>
 </item>
 <item>
 <title>[85] FBI職員数千人分の個人情報をサイバー犯罪集団ShinyHuntersが盗み出していたことが判明</title>
@@ -543,6 +551,14 @@
 <description>Metaの新製品「Meta VR Glasses」の現地速報レビュー。5K解像度や100gの軽量設計など注目の魅力と実機を触った第一印象をお届けします。 — ギズモード・ジャパン / score: 75 (Metaの新型軽量デバイスの発表速報)</description>
 </item>
 <item>
+<title>[75] AIの学習と著作権をめぐる米司法省の見解が脅威になる理由</title>
+<link>https://japan.zdnet.com/article/35252683/</link>
+<guid isPermaLink="true">https://japan.zdnet.com/article/35252683/</guid>
+<pubDate>Thu, 24 Sep 2026 07:57:12 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>2023年初頭に生成AIが登場して以来、その膨大な知識ベースが主要なAI企業による広範なモデル学習に依存していることが明らかになっている。OpenAIやAnthropicなどのAI企業は、ウェブ上の著作権で保護されたコンテンツを含むあらゆるデータを読み込む形で学習を行ってきた。 さらに、AI企業は数百万冊もの紙の書籍を購入... — はてなブックマーク テクノロジー / score: 75 (AIと著作権の法的リスクに関する重要な議論)</description>
+</item>
+<item>
 <title>[75] AnthropicのClaudeがバクテリオファージからCRISPRに似た未知の酵素システムを発見、ダリオ・アモデイCEOはAIで「5〜10年以内に多くの病気を治せる」と予測</title>
 <link>https://gigazine.net/news/20260924-anthropic-claude-crispr/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260924-anthropic-claude-crispr/</guid>
@@ -789,22 +805,6 @@
 <pubDate>Mon, 14 Sep 2026 09:08:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>AnthropicのDario Amodei氏は9月12日、最先端AIの能力向上の速度を抑え、安全対策に取り組む時間を確保するよう呼びかけるブログ「We Must Pace the Frontier」をXで紹介した。 — gihyo.jp / score: 75 (AI開発の減速と安全性の議論)</description>
-</item>
-<item>
-<title>[75] AWSがDevOpsエージェントを拡張し、AIを活用したリリース管理機能を追加、本番環境投入前のコード検証を実現</title>
-<link>https://www.infoq.com/jp/news/2026/09/aws-devops-ai-agent/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-<guid isPermaLink="true">https://www.infoq.com/jp/news/2026/09/aws-devops-ai-agent/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-<pubDate>Mon, 14 Sep 2026 07:30:00 +0000</pubDate>
-<category>InfoQ Japan</category>
-<description>Amazon Web Services（AWS）は、AWS DevOps Agentの大幅な機能拡張を発表し、コードの変更を評価し、本番環境に展開される前にソフトウェアを自律的にテストする設計がされた新しいリリース管理機能を導入した。 プレビュー版として提供される新機能Release Readiness ReviewとAutonomous Release Testingは、DevOps Agentの適用範囲をデプロイ後の運用からソフトウェアデリバリーパイプラインへと拡大し、エンジニアリングチームがコードのマージ前に本番環境への準備状況を評価し、組織の基準を適用し、変更内容に応じたテストを生成可能にする。 By Craig Risi Translated by Takashi Kawase — InfoQ Japan / score: 75 (AWSのAIを活用したリリース管理機能の拡張)</description>
-</item>
-<item>
-<title>[75] AIのせいでエンジニアの75％を解雇したCSSフレームワークのTailwind、Shopifyによる買収を発表。今後も安定的な開発を維持すると</title>
-<link>https://www.publickey1.jp/blog/26/ai75csstailwindshopify.html</link>
-<guid isPermaLink="true">https://www.publickey1.jp/blog/26/ai75csstailwindshopify.html</guid>
-<pubDate>Sun, 13 Sep 2026 15:20:00 +0000</pubDate>
-<category>Publickey</category>
-<description>CSSフレームワーク「Tailwind CSS」の開発元であるTailwind Labsは、ECサイト構築サービスを提供しているShopifyによって買収されると発表しました。 下記はTailwindの作者であるAdam Wathan氏によ... — Publickey / score: 75 (Tailwind CSSがShopifyにより買収された発表)</description>
 </item>
 </channel>
 </rss>

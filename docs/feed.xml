@@ -4,15 +4,39 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 24 Sep 2026 16:10:56 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 18:11:58 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
-<title>An AI-assisted plugin for EKS-to-GKE migrations with built-in governance</title>
-<link>https://cloud.google.com/blog/products/containers-kubernetes/gke-agentic-migration/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/products/containers-kubernetes/gke-agentic-migration/</guid>
+<title>Nothingの新型ヘッドホン「Headphone (1) Pro」の製品デザインが明らかに</title>
+<link>https://taisy0.com/2026/09/25/227987.html</link>
+<guid isPermaLink="true">https://taisy0.com/2026/09/25/227987.html</guid>
+<pubDate>Thu, 24 Sep 2026 17:00:25 +0000</pubDate>
+<category>気になる、記になる…</category>
+<description>Nothingは9月28日に新型ヘッドホン「Headphone (1) Pro」を発表予定ですが、その「Headphone (1) Pro」の製品画像が流出しました。 公開したのは小売店からの情報で様々な実績があるWin […] — 気になる、記になる… / score: 20 (ガジェットの製品デザイン流出に関する話題)</description>
+</item>
+<item>
+<title>Introducing Gemini 3.8 Live with Live Avatar</title>
+<link>https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/</link>
+<guid isPermaLink="true">https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/</guid>
+<pubDate>Thu, 24 Sep 2026 16:20:39 +0000</pubDate>
+<category>Google DeepMind</category>
+<description> — Google DeepMind / score: 85 (主要AIモデルの新バージョンと新機能の発表)</description>
+</item>
+<item>
+<title>Amazon RDS for MySQL announces Extended Support minor versions 5.7.44-rds.20260902 and 8.0.46-rds.20260908</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-mysql-extended-support-minor-5744-8046-rds/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-mysql-extended-support-minor-5744-8046-rds/</guid>
 <pubDate>Thu, 24 Sep 2026 16:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>Enterprises are increasingly standardizing on Google Kubernetes Engine (GKE) to run their most critical and AI-driven workloads. From Cloud Storage FUSE for high-throughput data access to custom compute classes (CCC) and advanced GPU slicing, GKE provides the scale and efficiency required for modern applications. However, migrating complex Kubernetes environments from AWS EKS to GKE has traditionally been a daunting, high-friction engineering endeavor. Your platform teams must manually dissect s — Google Cloud Blog / score: 60 (EKSからGKEへの移行支援AIプラグインの提供)</description>
+<category>AWS What's New</category>
+<description>Amazon Relational Database Service (RDS) for MySQL announces Amazon RDS Extended Support minor versions 5.7.44-rds.20260902 and 8.0.46-rds.20260908. Amazon RDS Extended Support provides up to three additional years of fixes for critical Common Vulnerabilities and Exposures (CVE) and bugs beyond a major version's end of standard support date, giving you more time to upgrade to a new major version. You can upgrade your database using Amazon RDS Blue/Green Deployments , in-place upgrade, or restore — AWS What's New / score: 30 (RDS for MySQLのマイナーバージョン更新)</description>
+</item>
+<item>
+<title>Amazon RDS for PostgreSQL now supports post-quantum TLS key exchange</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/postgresql-post-quantum-tls-key-exchange/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/postgresql-post-quantum-tls-key-exchange/</guid>
+<pubDate>Thu, 24 Sep 2026 16:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Starting today, Amazon RDS for PostgreSQL introduces support for post-quantum TLS (PQ-TLS) key exchange, providing you with post-quantum cryptography options for encrypting your data in-transit. RDS for PostgreSQL versions 18 and higher support modification of the ssl_groups parameter. You can select cryptographic groups from the RDS for PostgreSQL allow list to align with your organization's security standards. Amazon RDS for PostgreSQL makes it simple to set up, operate, and scale PostgreSQL d — AWS What's New / score: 60 (ポスト量子暗号対応によるセキュリティ向上)</description>
 </item>
 <item>
 <title>Scribd, Inc. classifies more than 400 million documents with Gemini batch inference on Gemini Enterprise</title>
@@ -21,6 +45,14 @@
 <pubDate>Thu, 24 Sep 2026 16:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>Scribd, Inc . is home to one of the world's largest collections of human-created content. Scribd’s products leverage one of the world's largest collections of human-created content and intelligent tools to help people move from information access to real understanding and application. This past year, Scribd used Gemini's native PDF understanding and Gemini Enterprise batch prediction to run trust and safety classification across its entire user-generated content corpus of more than 400 million d — Google Cloud Blog / score: 45 (ScribdによるGeminiバッチ推論の活用事例)</description>
+</item>
+<item>
+<title>Introducing GKE agentic migration for AI-assisted EKS-to-GKE migrations with built-in governance</title>
+<link>https://cloud.google.com/blog/products/containers-kubernetes/gke-agentic-migration/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/containers-kubernetes/gke-agentic-migration/</guid>
+<pubDate>Thu, 24 Sep 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Enterprises are increasingly standardizing on Google Kubernetes Engine (GKE) to run their most critical and AI-driven workloads. From Cloud Storage FUSE for high-throughput data access to custom compute classes (CCC) and advanced GPU slicing, GKE provides the scale and efficiency required for modern applications. However, migrating complex Kubernetes environments from AWS EKS to GKE has traditionally been a daunting, high-friction engineering endeavor. Your platform teams must manually dissect s — Google Cloud Blog / score: 60 (EKSからGKEへの移行支援AIプラグインの提供)</description>
 </item>
 <item>
 <title>Go言語で書かれた高速なIDE「Rune」、オープンソースで公開。ターミナルとコマンドプロンプト中心の開発環境、複数リモートノードをローカルのように操作可能</title>
@@ -79,6 +111,14 @@
 <description>あなたの知らないAI便利機能！はじめの一歩の基礎知識から、より便利に使える操作法や活用例まで詳しく紹介！ — ASCII.jp / score: 25 (雑誌のAI特集号に関する告知)</description>
 </item>
 <item>
+<title>A new, no-compromises database architecture for the agentic era</title>
+<link>https://cloud.google.com/blog/products/databases/alloydbs-agentic-database-architecture/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/databases/alloydbs-agentic-database-architecture/</guid>
+<pubDate>Thu, 24 Sep 2026 14:30:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Entire database engineering careers have been spent on a single question: How do you scale an OLTP workload without compromising the system of record that owns the data? Exadata answered the question by offloading queries into a scale-out storage tier beneath the database, removing the network as the bottleneck. Azure SQL Hyperscale did it with shared block servers, scaling out to tens of read replicas. Aurora offloaded log application to distributed storage nodes, scaling reads across tens of P — Google Cloud Blog / score: 65 (エージェント時代に向けた新しいデータベース構造)</description>
+</item>
+<item>
 <title>How growing Latin American midsize businesses are building in the AI era</title>
 <link>https://cloud.google.com/blog/topics/customers/how-midsize-latam-companies-build-with-ai/</link>
 <guid isPermaLink="true">https://cloud.google.com/blog/topics/customers/how-midsize-latam-companies-build-with-ai/</guid>
@@ -93,14 +133,6 @@
 <pubDate>Thu, 24 Sep 2026 14:30:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>Enterprises rely on mission-critical operational databases where performance slowdowns simply aren’t an option. Yet when even a few agents execute dense reasoning loops, the unpredictable surge in queries can easily overwhelm traditional architectures. Today, we’re announcing that AlloyDB delivers PostgreSQL for agents (in preview), enabling real-time data access without compromising your mission-critical systems. AlloyDB now scales to dynamic agent bursts by provisioning sandboxed database inst — Google Cloud Blog / score: 65 (AlloyDBのAIエージェント向け新機能の発表)</description>
-</item>
-<item>
-<title>A new, no-compromises database architecture for the agentic era</title>
-<link>https://cloud.google.com/blog/products/databases/alloydbs-agentic-database-architecture/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/products/databases/alloydbs-agentic-database-architecture/</guid>
-<pubDate>Thu, 24 Sep 2026 14:30:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>Entire database engineering careers have been spent on a single question: How do you scale an OLTP workload without compromising the system of record that owns the data? Exadata answered the question by offloading queries into a scale-out storage tier beneath the database, removing the network as the bottleneck. Azure SQL Hyperscale did it with shared block servers, scaling out to tens of read replicas. Aurora offloaded log application to distributed storage nodes, scaling reads across tens of P — Google Cloud Blog / score: 65 (エージェント時代に向けた新しいデータベース構造)</description>
 </item>
 <item>
 <title>TORRAS、｢iPhone 18 Pro｣シリーズ用ケースとカメラ保護フィルムの併用でフィルム側がケースのフレームより高くなる場合があることを案内</title>
@@ -149,6 +181,14 @@
 <pubDate>Thu, 24 Sep 2026 14:00:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>2026年4月26日の記事を編集して再掲載しています。電動アシストの後付けもできる時代に。東京ビッグサイトで開催されていた『CYCLE MODE TOKYO 2026』（4月25日〜26日）に今年も行ってきました。「SmaChari 本田技… — ギズモード・ジャパン / score: 35 (ホンダの自転車用電動アシストプラットフォーム紹介)</description>
+</item>
+<item>
+<title>エージェント時代のソフトウェア開発：手書きコードの終了と全面的な楽観主義</title>
+<link>https://fasttube.cc/ja/v/vDjW_dRyKXY</link>
+<guid isPermaLink="true">https://fasttube.cc/ja/v/vDjW_dRyKXY</guid>
+<pubDate>Thu, 24 Sep 2026 13:19:21 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>ソフトウェア開発の歴史において、道具の進化は常にプログラマーの役割を定義し直してきた。Rails World 2026のオープニング基調講演に登壇したDavid Heinemeier Hansson（DHH）は、自らを「AI多幸感（AI euphoria）」の状態にあると位置づけ、AIエージェントの登場によってプログラミングという営みが根本的な断絶を迎... — はてなブックマーク テクノロジー / score: 65 (AIエージェント時代における開発の未来への洞察)</description>
 </item>
 <item>
 <title>Meta Connect 2026の最後に出てきた、謎のAIデバイス。たまごっちみたいな「Muse Charm」が気になる</title>
@@ -759,52 +799,12 @@
 <description>「GitLab」に再び緊急パッチ、CVSS基本値「9.9」の脆弱性2件に対処／サーバー上で任意のコードを実行されるおそれ。自前運用の「GitLab」は即時更新を — はてなブックマーク テクノロジー / score: 95 (GitLabのCVSS 9.9を含む緊急脆弱性パッチ)</description>
 </item>
 <item>
-<title>5000社以上の支援実績をもつRelic、事業設計の根底となる「顧客課題検証（CPF）」の実践ガイドを公開</title>
-<link>https://codezine.jp/article/detail/29788</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/29788</guid>
-<pubDate>Thu, 24 Sep 2026 07:45:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 45 (顧客課題検証の実践ガイド公開)</description>
-</item>
-<item>
-<title>iPhone 18 Pro、iPhone Duoの楽天、ソフトバンク、au、ドコモでの本体価格・キャンペーンまとめ（9/24更新）</title>
-<link>https://www.gizmodo.jp/article/2609-iphone-18-pro-duo-career-release-price2/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2609-iphone-18-pro-duo-career-release-price2/</guid>
-<pubDate>Thu, 24 Sep 2026 07:45:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>iPhone 18 Proおよび折りたたみモデルiPhone Duoの発売日、予約方法、au・楽天・ソフトバンク・ドコモのキャリア価格やキャンペーン情報を随時更新でお届けします。 — ギズモード・ジャパン / score: 25 (新型iPhoneのキャリア価格まとめ。)</description>
-</item>
-<item>
-<title>Ubuntu、CoreutilsのRust化が完了へ - 最後に残ったcp、mv、rmも移行</title>
-<link>https://news.mynavi.jp/techplus/article/20260924-4983405/</link>
-<guid isPermaLink="true">https://news.mynavi.jp/techplus/article/20260924-4983405/</guid>
-<pubDate>Thu, 24 Sep 2026 07:39:53 +0000</pubDate>
+<title>AIの学習と著作権をめぐる米司法省の見解が脅威になる理由</title>
+<link>https://japan.zdnet.com/article/35252683/</link>
+<guid isPermaLink="true">https://japan.zdnet.com/article/35252683/</guid>
+<pubDate>Thu, 24 Sep 2026 07:57:12 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>It's F.O.S.S.は2026年9月15日(現地時間)、「Ubuntu's Rustification Has a New Milestone! Coreutils Migration is Complete」において、UbuntuがGNU Coreutilsからの脱却に成功したと伝えた。 これは2025年3月に開始されたプロジェクトで、基盤ソフトウェアのパフォーマンス、信頼性、生産性を高めることを目標にRust... — はてなブックマーク テクノロジー / score: 85 (UbuntuにおけるCoreutilsのRust完全移行)</description>
-</item>
-<item>
-<title>AWS、OpenJDKディストリビューション「Amazon Corretto 27」の一般提供を開始</title>
-<link>https://codezine.jp/article/detail/29778</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/29778</guid>
-<pubDate>Thu, 24 Sep 2026 07:30:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 70 (Amazon Corretto 27の一般提供開始)</description>
-</item>
-<item>
-<title>もっと薄く、長く、聞き取りやすく。新しくなった「Ray-Ban Meta（Gen 3）」は何が変わった？</title>
-<link>https://www.gizmodo.jp/article/2609-ray-ban-meta-gen-3-review/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2609-ray-ban-meta-gen-3-review/</guid>
-<pubDate>Thu, 24 Sep 2026 07:30:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>第3世代となった「Ray-Ban Meta (Gen 3)」の新機能やデザイン、バッテリー、マイク性能の進化を徹底解説。日常使いがさらに快適になった魅力をお届けします。 — ギズモード・ジャパン / score: 30 (スマートグラスの新モデル機能解説。)</description>
-</item>
-<item>
-<title>オープンAIのモデルが「暴走」 豪政府サイトをハッキング 首相公表</title>
-<link>https://www.afpbb.com/articles/-/3654256</link>
-<guid isPermaLink="true">https://www.afpbb.com/articles/-/3654256</guid>
-<pubDate>Thu, 24 Sep 2026 07:14:06 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>米ニューヨークの国連本部で開催中の第81回国連総会の傍らで、人工知能時代の子どもの権利と保護のための連合セッションに参加するアンソニー・アルバニージー豪首相（2026年9月22日撮影）。(c)Ludovic MARIN/AFP 【9月24日 AFP】米人工知能（AI）開発大手オープンAIのAIモデルが、学習中に安全対策を回避し、オーストラ... — はてなブックマーク テクノロジー / score: 85 (AIの安全性に関わる重大なハッキング事案の報道)</description>
+<description>2023年初頭に生成AIが登場して以来、その膨大な知識ベースが主要なAI企業による広範なモデル学習に依存していることが明らかになっている。OpenAIやAnthropicなどのAI企業は、ウェブ上の著作権で保護されたコンテンツを含むあらゆるデータを読み込む形で学習を行ってきた。 さらに、AI企業は数百万冊もの紙の書籍を購入... — はてなブックマーク テクノロジー / score: 75 (AIと著作権の法的リスクに関する重要な議論)</description>
 </item>
 </channel>
 </rss>
