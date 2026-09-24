@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 23 Sep 2026 22:10:06 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 00:23:56 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] Next.js Security Update for a Critical Upstream Issue</title>
@@ -351,14 +351,6 @@
 <description>NVIDIAは2026年9月8日、GPU向け並列計算プラットフォームCUDAにおいてRustによる開発を可能にする「CUDA Rust」を発表した。 — gihyo.jp / score: 85 (NVIDIAによるCUDAのRustネイティブ対応という重要発表)</description>
 </item>
 <item>
-<title>[85] Introducing the Agents API</title>
-<link>https://openai.com/index/introducing-the-agents-api</link>
-<guid isPermaLink="true">https://openai.com/index/introducing-the-agents-api</guid>
-<pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use. — OpenAI News / score: 85 (OpenAIによるAgents APIの新機能発表)</description>
-</item>
-<item>
 <title>[82] Google、Gemini 3.8 Liveを発表 ——会話を続けながら推論やツール実行が可能</title>
 <link>https://gihyo.jp/article/2026/09/gemini-3.8-live?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/09/gemini-3.8-live?utm_source=feed</guid>
@@ -413,14 +405,6 @@
 <pubDate>Mon, 21 Sep 2026 00:45:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Microsoftは9月18日（現地時間、以下同）、デスクトップ向け「Microsoft Edge」v153.0.4234.48を安定（Stable）チャネルでリリースした。17日のv153.0.4234.46に続くセキュリティアップデートで、2日連続での更新となる。 — 窓の杜 / score: 80 (Microsoft Edgeの連続セキュリティ更新)</description>
-</item>
-<item>
-<title>[80] GitHub Actions向けUbuntu 26.04ランナーが一般提供開始</title>
-<link>https://codezine.jp/article/detail/29755</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/29755</guid>
-<pubDate>Sat, 19 Sep 2026 08:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 80 (GitHub Actionsの最新ランナー提供開始)</description>
 </item>
 <item>
 <title>[80] 「Microsoft Edge 153」に問題、一部Webアプリの操作中にウィンドウが固まる／回避策は「Edge 152」へのロールバック。Microsoftが調査中</title>
@@ -495,12 +479,20 @@
 <description>OpenAIは9月10日、クラウド上でAIエージェントを構築・実行する「Agents API」をパブリックベータとして公開した。Codexを支えるエージェントの実行基盤をAPI経由で提供し、モデルの呼び出しやツール利用の制御、長時間のセッション管理をOpenAIが引き受ける。 — gihyo.jp / score: 80 (AIエージェント構築用APIのパブリックベータ公開)</description>
 </item>
 <item>
-<title>[80] Build more natural voice experiences with GPT‑Live‑1 in the API</title>
-<link>https://openai.com/index/introducing-gpt-live-1-in-the-api</link>
-<guid isPermaLink="true">https://openai.com/index/introducing-gpt-live-1-in-the-api</guid>
-<pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support. — OpenAI News / score: 80 (OpenAI APIにおける自然な音声体験の新機能リリース)</description>
+<title>[75] API Gateway、実行ログの配信先カスタマイズと最大1MBのログに対応</title>
+<link>https://codezine.jp/article/detail/29751</link>
+<guid isPermaLink="true">https://codezine.jp/article/detail/29751</guid>
+<pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+<category>CodeZine</category>
+<description> — CodeZine / score: 75 (API Gatewayの新機能・アップデート情報)</description>
+</item>
+<item>
+<title>[75] ノートPCを閉じてもOK、「Claude Code」の“クラウドセッション”の一般提供が開始／既存契約者には1回限りの専用クレジットを付与、請求を忘れないように</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2142708.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2142708.html</guid>
+<pubDate>Wed, 23 Sep 2026 23:22:51 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Anthropicは9月23日（現地時間）、「Claude Code」で「クラウドセッション」（Cloud sessions）の一般提供を開始した。これまでリサーチプレビューとしてテストされていたが、正式版として利用できるようになる。 — 窓の杜 / score: 75 (Claude Codeのクラウドセッション一般提供)</description>
 </item>
 <item>
 <title>[75] GKE becomes more elastic: Scale to zero, save costs, and keep workloads responsive</title>
@@ -573,14 +565,6 @@
 <pubDate>Tue, 22 Sep 2026 15:00:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>AWS GovCloud (US) now offers Claude Opus 5.5, Anthropic’s most capable Opus model yet and, the first of the Claude 5.5 model family, a better collaborator that handles long-running coding and knowledge work, reporting back clearly on what it did, what it found, and what it needs next. According to Anthropic, Claude Opus 5.5 completes tasks using fewer tokens than Claude Opus 5, at a lower price per token, with cheaper cache reads stacking on top of the efficiency gain. Claude Opus 5.5 is the ent — AWS What's New / score: 75 (AWS GovCloudでのClaude最新モデル提供開始。)</description>
-</item>
-<item>
-<title>[75] GitHub - anthropics/code-migration-kit-with-claude-code: Prompts, templates, and scripts for running large-scale language migrations with Claude Code</title>
-<link>https://github.com/anthropics/code-migration-kit-with-claude-code</link>
-<guid isPermaLink="true">https://github.com/anthropics/code-migration-kit-with-claude-code</guid>
-<pubDate>Tue, 22 Sep 2026 11:33:14 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>A starter kit for running large-scale language migrations with Claude Code: the prompts, templates, and scripts behind the process described in How Anthropic runs large-scale code migrations with Claude Code. This kit defaults to structure-preserving migrations — same architecture, same data stru... — はてなブックマーク テクノロジー / score: 75 (大規模コード移行のための有用なツールキット)</description>
 </item>
 <item>
 <title>[75] SpaceXAI、「Grok 4.7」を発表 ～先代から速度・価格維持で「GPT-5.6」「Fable 5.1」に伍する性能／「Cursor」「Grok Build」で即日利用可能</title>
@@ -661,14 +645,6 @@
 <pubDate>Fri, 18 Sep 2026 02:16:33 +0000</pubDate>
 <category>Zenn トレンド</category>
 <description>この記事は、今日参加するイベントで画面表示する目的と、 https://minorun365.connpass.com/event/407308/ 今日発売されるSoftware Design 2026/10の宣伝ついでに書いています。 https://gihyo.jp/magazine/SD/archive/2026/202610 Jevって？ Jevは、状態と質問を受け取り、型付きの回答を確率とともに返すモデルである。チャッピー！それってLLMと何が違うの？ 図を書いて。いいよ。 Jevの提供元のTypeSafe AIは、こうしたソフトウェア向けの意思決定モデルを「System... — Zenn トレンド / score: 75 (構造化出力モデルJevを用いた新しい開発手法の解説)</description>
-</item>
-<item>
-<title>[75] 全社に OpenCode + LiteLLM を導入してコストを抑えつつ AI 活用を進めている話</title>
-<link>https://zenn.dev/jtcc/articles/7e74fef42580a1</link>
-<guid isPermaLink="true">https://zenn.dev/jtcc/articles/7e74fef42580a1</guid>
-<pubDate>Fri, 18 Sep 2026 00:08:15 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>こんにちは。日本トレカセンターのプロダクト部で EM をやっている中川です。 日本トレカセンターでは約 200 名の全社員が使う AI の入り口を 1 つにまとめました。社員の手元には AI エージェントのOpenCodeを配り、そのリクエストを自前でホストした LLM ゲートウェイのLiteLLMに通しています。使うモデルは会社側で制御し、予算は月単位で決めて社員ごとに週次の上限をかけました。コストを把握しやすくなり、金額も導入前の 10 分の 1 以下に収まっています。 導入前の課題 導入前の社内では ChatGPT、Claude、Cursor など AI ツールが乱立していまし... — Zenn トレンド / score: 75 (全社へのOpenCodeとLiteLLM導入事例)</description>
 </item>
 <item>
 <title>[75] Ubuntu 24.04.5のリリース、Ubuntu 26.10（stonking）の開発; Rust版coreutilsのcp、mv、rmへの移行、CIX P1の正式サポート</title>
@@ -805,6 +781,30 @@
 <pubDate>Thu, 10 Sep 2026 08:19:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Agentic AI Foundation（AAIF）は9月9日、オープンソースのAIゲートウェイ「Agent Router」（旧称：Envoy AI Gateway）の参加を発表した。 — gihyo.jp / score: 75 (AIゲートウェイOSSの発表に関するニュース)</description>
+</item>
+<item>
+<title>[70] スマホの主役はAIエージェントへ。クアルコムが放つ超絶スペック「Snapdragon 8 Elite Extreme Gen 6」の衝撃</title>
+<link>https://ascii.jp/elem/000/004/436/4436689/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/436/4436689/?rss</guid>
+<pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>クアルコムが「Snapdragon 8 Elite Extreme Gen 6」と「Elite Gen 6」の2つの最上位チップを発表しました。初の2nmプロセスで製造され、5GHz到達のCPUやAI専用コア内蔵GPUなどAI処理に特化。Xiaomi 18 Proやモトローラの新機種への採用も明かされました。 — ASCII.jp / score: 70 (クアルコムの新型AIプロセッサ発表)</description>
+</item>
+<item>
+<title>[70] Gemini 3.8 text-to-speech says hello</title>
+<link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/</link>
+<guid isPermaLink="true">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/</guid>
+<pubDate>Wed, 23 Sep 2026 19:27:06 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Back Innovation &amp; AI See all in Innovation &amp; AI Models &amp; Research Google DeepMind Google Research Google Labs Gemini models Quantum computing See all Products Developer tools Gemini app Gemini Notebook See all Infrastructure &amp; cloud Global network Google Cloud See all Technology Safety &amp; Security... — はてなブックマーク テクノロジー / score: 70 (Gemini 3.8 Flash TTSの登場)</description>
+</item>
+<item>
+<title>[70] Amazon Bedrock Managed Knowledge Base now supports Salesforce and Zendesk as native data source connectors</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-salesforce-zendesk-native-data-source-connectors/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-salesforce-zendesk-native-data-source-connectors/</guid>
+<pubDate>Wed, 23 Sep 2026 17:41:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS announces Salesforce and Zendesk data source connectors for Amazon Bedrock Managed Knowledge Base, a fully managed retrieval-augmented generation (RAG) service. Customers can now sync Salesforce knowledge articles and Zendesk articles and community posts directly into their managed knowledge base. Previously, bringing content from these platforms into Bedrock Knowledge Bases required building custom ingestion pipelines—now, you provide your instance credentials, and the connectors handle dat — AWS What's New / score: 70 (AWS BedrockのRAGデータソース連携機能の拡充)</description>
 </item>
 </channel>
 </rss>
