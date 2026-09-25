@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 25 Sep 2026 06:17:51 +0000</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 08:13:18 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「GitLab」に再び緊急パッチ、CVSS基本値「9.9」の脆弱性2件に対処／サーバー上で任意のコードを実行されるおそれ。自前運用の「GitLab」は即時更新を</title>
@@ -93,6 +93,14 @@
 <pubDate>Thu, 17 Sep 2026 23:59:19 +0000</pubDate>
 <category>Simon Willison</category>
 <description>Be alert: targeted attacks on prominent Rustaceans Important warning from Adam Harvey and the crates security team: We believe that there is an ongoing campaign targeting rust-lang members and owners of popular crates that is attempting to compromise devices and accounts in order to use them to publish malware. A video call is set up for something positive — maybe for a job, maybe for a project, maybe for a contract opportunity — and then that's used as a vector to either get the target to insta — Simon Willison / score: 90 (Rust言語関係者を狙った標的型攻撃の重要警告)</description>
+</item>
+<item>
+<title>[85] Cursor、GitHubの新たな代替となるAIエージェントネイティブな開発基盤「Origin」を公開</title>
+<link>https://www.infoq.com/jp/news/2026/09/cursor-origin-alternative-github/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+<guid isPermaLink="true">https://www.infoq.com/jp/news/2026/09/cursor-origin-alternative-github/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+<pubDate>Fri, 25 Sep 2026 07:30:00 +0000</pubDate>
+<category>InfoQ Japan</category>
+<description>AIコーディングエージェントのCursorは、Gitベースのコードホスティングプラットフォーム「Origin」を発表した。OriginはCursorのAI搭載エディタに組み込まれており、すでにCursorを利用しているチーム向けに、GitHubの代替となるサービスとして位置付けられている。 Originは現在、Pro、Teams、Enterpriseプランを対象に早期ベータ版として順次提供されている。また、Cursorアプリケーション内に新設された「Codebase」タブ内に統合されている。 By Matt Saunders Translated by Naoko Koshimura — InfoQ Japan / score: 85 (Cursorによる新しい開発基盤Originの発表)</description>
 </item>
 <item>
 <title>[85] OpenAIのAIエージェントがオーストラリア政府機関のシステムをハッキングしたことが判明、OpenAIは3カ月間報告せず</title>
@@ -519,12 +527,36 @@
 <description>MCPやAGENTS.md、Agent2AgentプロトコルなどのAIエージェントに関する関連技術の標準化推進や開発などを行うLinux Foundation傘下のAgentic AI Foundation（AAIF）は、オープンソースとし... — Publickey / score: 80 (AIベンダーのAPI統合OSS登場で業界に影響)</description>
 </item>
 <item>
-<title>[80] Java 27 Technically Within 2 Minutes</title>
-<link>https://inside.java/2026/09/13/jdk-27-in-2-min/</link>
-<guid isPermaLink="true">https://inside.java/2026/09/13/jdk-27-in-2-min/</guid>
-<pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
-<category>Inside Java</category>
-<description>Let's review in about 2 minutes the 9 JEPs (JDK Enhancement Proposals) that were included in the JDK 27 release! — Inside Java / score: 80 (Java 27のJEP機能解説)</description>
+<title>[75] Cognition、AIコーディング「Devin」でクラウド上のmacOS環境に対応</title>
+<link>https://codezine.jp/article/detail/29804</link>
+<guid isPermaLink="true">https://codezine.jp/article/detail/29804</guid>
+<pubDate>Fri, 25 Sep 2026 07:30:00 +0000</pubDate>
+<category>CodeZine</category>
+<description> — CodeZine / score: 75 (AIコーディングツールのクラウド環境対応)</description>
+</item>
+<item>
+<title>[75] 【復旧済】楽天証券で障害　勝手に資金が振り替えられるトラブル</title>
+<link>https://ascii.jp/elem/000/004/437/4437335/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/437/4437335/?rss</guid>
+<pubDate>Fri, 25 Sep 2026 07:30:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>楽天証券は9月25日、楽天銀行と楽天証券の連携機能で9月22日に障害が発生。一部ユーザーの資金が楽天銀行から楽天証券の口座へ意図せず移動されていたことを明らかにした。複数のメディアが報じている。 — ASCII.jp / score: 75 (金融機関のシステム障害と資金移動トラブル)</description>
+</item>
+<item>
+<title>[75] 一部のWindows 11環境でサインイン後に画面が真っ黒に ～8月のプレビューパッチが原因／Microsoftが回避策を案内、今後の更新プログラムで解決へ</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2143270.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2143270.html</guid>
+<pubDate>Fri, 25 Sep 2026 06:36:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Microsoftは9月24日（現地時間）、OSへのサインイン後に画面が真っ黒になり、デスクトップが読み込まれない不具合がWindows 11環境で発生していることを明らかにした。2026年8月27日に公開されたプレビュー更新プログラムおよびそれ以降を適用した以下のプラットフォームで発生しているという。 — 窓の杜 / score: 75 (Windows 11の深刻な不具合と回避策)</description>
+</item>
+<item>
+<title>[75] Lambda 関数 URL で Condition 句による IP アドレス制限が可能になったか検証する</title>
+<link>https://qiita.com/hayao_k/items/e6518a0d494006fac712?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/hayao_k/items/e6518a0d494006fac712?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Fri, 25 Sep 2026 05:14:33 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>はじめに 2026/8/25 のアップデートで AWS Lambda 関数が IAM のリソースベースポリシーの全機能をサポートするようになりました。 Lambda function URLs (関数 URL) では、リクエストの認証タイプに AWS_IAM を選択... — Qiita 人気記事 / score: 75 (AWS Lambda関数URLのIP制限機能検証)</description>
 </item>
 <item>
 <title>[75] 「超知能」のヤバさは核兵器級。サンダース議員が世界規模での禁止を提案</title>
@@ -559,14 +591,6 @@
 <description>米Googleは9月24日（現地時間）、「Gemini 3.8 Live with Live Avatar」を発表した。先週発表した音声対話モデル「Gemini 3.8 Live」に、声に合わせて動くアバター機能「Live Avatar」を追加したもので、同日より「Gemini Enterprise」で提供される。 — 窓の杜 / score: 75 (Googleの音声対話AIへのアバター機能追加の発表)</description>
 </item>
 <item>
-<title>[75] AIに指示してアプリを自作！ Snapdragon搭載の「GoogleBook」がPCの常識をぶっ壊す</title>
-<link>https://ascii.jp/elem/000/004/437/4437072/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/437/4437072/?rss</guid>
-<pubDate>Fri, 25 Sep 2026 03:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>Snapdragon Summit 2026の2日目でPC関連の発表が行われました。注目はChromeOSとAndroidを統合したグーグルの新PC「Google Book」です。Snapdragonを採用し、Androidスマホとの強力な連携や、AIによるウィジェット・アプリの自動生成機能を備える実機デモをレポートします。 — ASCII.jp / score: 75 (新OSとAI機能を持つグーグルの新型PC)</description>
-</item>
-<item>
 <title>[75] freeeで一時障害、給料日の朝に「振り込めない」「勤怠打てない」と困惑の声　すでに復旧</title>
 <link>https://www.itmedia.co.jp/news/article/2609/25/2000001739/</link>
 <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2609/25/2000001739/</guid>
@@ -583,12 +607,12 @@
 <description>現地時間の2026年9月24日、Googleは地球の軌道上でAI向けデータセンターを稼働させる「Project Suncatcher」の初期実験として、Google製AIチップである「TPU」が宇宙空間でどのように機能するかを評価するためのプロトタイプ衛星を2026年10月1日に打ち上げると発表しました。 続きを読む... — GIGAZINE / score: 75 (Googleによる宇宙AIデータセンター実証実験の計画詳細)</description>
 </item>
 <item>
-<title>[75] Google、宇宙AIデータセンター構想「Project Suncatcher」初の試作衛星をFalcon 9で打ち上げへ</title>
-<link>https://www.itmedia.co.jp/news/article/2609/25/2000001728/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2609/25/2000001728/</guid>
-<pubDate>Thu, 24 Sep 2026 23:32:15 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>米Googleは9月24日（現地時間）、衛星軌道上にAIデータセンターを構築する構想「Project Suncatcher」で、初めての軌道上試験を実施すると発表した。TPU（Tensor Processing Unit）を搭載した試作衛星を、来週予定されている米SpaceXのライドシェアミッション「Transporter-18」により、カリフォルニア州のバンデンバー... — はてなブックマーク テクノロジー / score: 75 (宇宙空間でのAIデータセンター実証実験に関する先端技術ニュース)</description>
+<title>[75] Claude Opus 5.5 の「40%安い」は、キャッシュの当たり方で24%にも59%にもなった</title>
+<link>https://qiita.com/suwa_nobu/items/870b1d6c5502aca68f55?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/suwa_nobu/items/870b1d6c5502aca68f55?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Fri, 25 Sep 2026 01:29:11 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>Claude Opus 5.5 が 2026-09-22 に出ました。公式の発表はこうです。 Our tests show that at default settings it will cost 40% less than Opus 5 on typical work... — Qiita 人気記事 / score: 75 (新型LLMのコスト実測とベンチマーク検証)</description>
 </item>
 <item>
 <title>[75] 「Python」のWindowsフルインストーラーが引退へ、「3.16」以降は提供されず／これからは「Python Install Manager」で導入・管理</title>
@@ -621,14 +645,6 @@
 <pubDate>Thu, 24 Sep 2026 15:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>Following our announcement of Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking last week, we are thrilled to share that Gemini 3.8 Live with Live Avatar is now generally available in Gemini Enterprise . First previewed at Google Cloud Next 2026 , the technology is now officially ready for enterprise production. As enterprise voice AI evolves beyond basic speed and cost metrics, our priority has shifted to making each interaction even higher quality. Gemini 3.8 Live already delivers a native — Google Cloud Blog / score: 75 (Gemini 3.8 Live Live Avatarの一般提供開始)</description>
-</item>
-<item>
-<title>[75] JCOM ネット障害 最大約408万世帯に影響 外部から大量アクセス | NHKニュース</title>
-<link>https://news.web.nhk/newsweb/na/nd-20260924de52196</link>
-<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260924de52196</guid>
-<pubDate>Thu, 24 Sep 2026 08:00:13 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>ケーブルテレビ大手の「JCOM」は23日発生したインターネット接続サービスの障害によって、最大およそ408万世帯に影響が確認されたと発表しました。 原因については、外部から大量のアクセスがあったこと… — はてなブックマーク テクノロジー / score: 75 (大規模ISPでの障害発生による社会的な影響が大きい。)</description>
 </item>
 <item>
 <title>[75] Run interactive workloads on Amazon EMR on EKS with Spark Connect</title>
@@ -789,22 +805,6 @@
 <pubDate>Thu, 17 Sep 2026 23:57:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Ubuntu 24.04 LTSの5番目のポイントリリース、24.04.5と、デスクトップ版にのみ「24.04.5.1」がリリースされました。 — gihyo.jp / score: 75 (Ubuntu 24.04.5リリースとRust版coreutils移行の話題)</description>
-</item>
-<item>
-<title>[75] PlanetScale、PostgreSQLのシャーディングを自動化して1億1800万QPSを達成。新DBサービス「Neki」をプレビュー公開</title>
-<link>https://www.publickey1.jp/blog/26/planetscalepostgresql11800qpsdbneki.html</link>
-<guid isPermaLink="true">https://www.publickey1.jp/blog/26/planetscalepostgresql11800qpsdbneki.html</guid>
-<pubDate>Thu, 17 Sep 2026 15:59:39 +0000</pubDate>
-<category>Publickey</category>
-<description>データベースサービスを提供しているPlanetScaleは、PostgreSQLのシャーディングを自動化してスケーラブルなデータベースサービスを提供する「Neki」をプレビュー公開しました。 118,538,803 queries per ... — Publickey / score: 75 (PostgreSQLの自動シャーディング新DBサービスのプレビュー公開)</description>
-</item>
-<item>
-<title>[75] Amazon Corretto 27 is now generally available</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-corretto-27-generally-available/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-corretto-27-generally-available/</guid>
-<pubDate>Thu, 17 Sep 2026 00:00:31 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Amazon Corretto 27, a Feature Release (FR) version, is now available for download. Amazon Corretto is a no-cost, multi-platform, production-ready distribution of OpenJDK . You can download Corretto 27 for Linux, Windows, and macOS from our downloads page . Corretto 27 will be supported through April 2027. Noticeable features: G1 as the Default Garbage Collector in All Environments - Makes G1 the default garbage collector across all environments, delivering more consistent performance and predict — AWS What's New / score: 75 (Amazon Corretto 27の一般提供開始)</description>
 </item>
 </channel>
 </rss>
