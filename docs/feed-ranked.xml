@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 25 Sep 2026 16:10:49 +0000</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 18:11:42 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Apache Tomcat」「Apache Tomcat Native」に最大深刻度“CRITICAL”の脆弱性／最新バージョンへの更新を</title>
@@ -269,14 +269,6 @@
 <pubDate>Thu, 17 Sep 2026 02:57:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>2026年9月16日、Rustで記述されたオープンソースのAmazon S3互換分散オブジェクトストレージシステム「RustFS」のバージョン1.0.0が、GA（一般提供版）としてリリースされた。 — gihyo.jp / score: 85 (Rust製S3互換ストレージRustFS 1.0.0のGAリリース)</description>
-</item>
-<item>
-<title>[85] datasette 0.65.5</title>
-<link>https://simonwillison.net/2026/Sep/16/datasette-2/</link>
-<guid isPermaLink="true">https://simonwillison.net/2026/Sep/16/datasette-2/</guid>
-<pubDate>Wed, 16 Sep 2026 23:51:08 +0000</pubDate>
-<category>Simon Willison</category>
-<description>Release: datasette 0.65.5 Security fix for an issue where a trailing newline in a requested table name could bypass table permissions and expose private rows, reported by dpfkdlemtp in GHSA-h547-rmjf-5m2m . Tags: security , datasette — Simon Willison / score: 85 (Datasetteの権限バイパス脆弱性の修正)</description>
 </item>
 <item>
 <title>[85] Java 27 Launch Stream</title>
@@ -551,12 +543,12 @@
 <description>米Microsoftは9月24日（現地時間）、OSへのサインイン後に画面が真っ黒になり、デスクトップが読み込まれない不具合がWindows 11環境で発生していることを明らかにした。2026年8月27日に公開されたプレビュー更新プログラムおよびそれ以降を適用した以下のプラットフォームで発生しているという。 — 窓の杜 / score: 75 (Windows 11の深刻な不具合と回避策)</description>
 </item>
 <item>
-<title>[75] Lambda 関数 URL で Condition 句による IP アドレス制限が可能になったか検証する - Qiita</title>
-<link>https://qiita.com/hayao_k/items/e6518a0d494006fac712</link>
-<guid isPermaLink="true">https://qiita.com/hayao_k/items/e6518a0d494006fac712</guid>
-<pubDate>Fri, 25 Sep 2026 06:06:12 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>はじめに 2026/8/25 のアップデートで AWS Lambda 関数が IAM のリソースベースポリシーの全機能をサポートするようになりました。 Lambda function URLs (関数 URL) では、リクエストの認証タイプに AWS_IAM を選択すると、IAM エンティティのポリシーと Lambda のリソースベースポリシーに基づいてアクセスを制御でき... — はてなブックマーク テクノロジー / score: 75 (AWS Lambda関数URLのIP制限機能検証)</description>
+<title>[75] Lambda 関数 URL で Condition 句による IP アドレス制限が可能になったか検証する</title>
+<link>https://qiita.com/hayao_k/items/e6518a0d494006fac712?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/hayao_k/items/e6518a0d494006fac712?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Fri, 25 Sep 2026 05:14:33 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>はじめに 2026/8/25 のアップデートで AWS Lambda 関数が IAM のリソースベースポリシーの全機能をサポートするようになりました。 Lambda function URLs (関数 URL) では、リクエストの認証タイプに AWS_IAM を選択... — Qiita 人気記事 / score: 75 (AWS Lambda関数URLのIP制限機能検証)</description>
 </item>
 <item>
 <title>[75] 「超知能」のヤバさは核兵器級。サンダース議員が世界規模での禁止を提案</title>
@@ -805,6 +797,14 @@
 <pubDate>Thu, 17 Sep 2026 00:00:31 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Amazon Corretto 27, a Feature Release (FR) version, is now available for download. Amazon Corretto is a no-cost, multi-platform, production-ready distribution of OpenJDK . You can download Corretto 27 for Linux, Windows, and macOS from our downloads page . Corretto 27 will be supported through April 2027. Noticeable features: G1 as the Default Garbage Collector in All Environments - Makes G1 the default garbage collector across all environments, delivering more consistent performance and predict — AWS What's New / score: 75 (Amazon Corretto 27の一般提供開始)</description>
+</item>
+<item>
+<title>[75] Our framework for reporting model misalignment</title>
+<link>https://openai.com/index/model-misalignment-reporting-framework</link>
+<guid isPermaLink="true">https://openai.com/index/model-misalignment-reporting-framework</guid>
+<pubDate>Wed, 16 Sep 2026 17:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior. — OpenAI News / score: 75 (OpenAIによるモデルの不整合報告フレームワーク)</description>
 </item>
 </channel>
 </rss>
