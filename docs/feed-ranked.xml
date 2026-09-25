@@ -4,15 +4,15 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 25 Sep 2026 00:25:20 +0000</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 02:12:30 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「GitLab」に再び緊急パッチ、CVSS基本値「9.9」の脆弱性2件に対処／サーバー上で任意のコードを実行されるおそれ。自前運用の「GitLab」は即時更新を</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2142932.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2142932.html</guid>
-<pubDate>Thu, 24 Sep 2026 07:57:18 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>「GitLab」に再び緊急パッチ、CVSS基本値「9.9」の脆弱性2件に対処／サーバー上で任意のコードを実行されるおそれ。自前運用の「GitLab」は即時更新を — はてなブックマーク テクノロジー / score: 95 (GitLabのCVSS 9.9を含む緊急脆弱性パッチ)</description>
+<pubDate>Thu, 24 Sep 2026 07:39:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米GitLabは9月23日（現地時間）、「GitLab」の緊急パッチ v19.4.1、v19.3.3、v19.2.7 をリリースした。「Community Edition」（CE）と「Enterprise Edition」（EE）の両方が対象で、計11件の脆弱性が修正されている。同社はできるだけ早く修正版を適用するよう呼びかけている。 — 窓の杜 / score: 95 (GitLabのCVSS 9.9を含む緊急脆弱性パッチ)</description>
 </item>
 <item>
 <title>[95] Next.js Security Update for a Critical Upstream Issue</title>
@@ -29,6 +29,14 @@
 <pubDate>Fri, 18 Sep 2026 07:54:25 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Googleは9月17日（現地時間、以下同）、デスクトップ向け「Google Chrome」の安定（Stable）チャネルをアップデートした。現在、Windows/Mac環境にはv153.0.8010.52/.53、Linux環境にはv153.0.8010.52が展開されている。 — 窓の杜 / score: 95 (Google Chromeの致命的脆弱性に対処する緊急セキュリティ更新)</description>
+</item>
+<item>
+<title>[90] RSAを素因数分解せずに破る攻撃を大規模実証、1024ビットRSAの署名偽造に成功</title>
+<link>https://gigazine.net/news/20260925-rsa-nsnfsssfsfn/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20260925-rsa-nsnfsssfsfn/</guid>
+<pubDate>Fri, 25 Sep 2026 02:10:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>カリフォルニア大学サンディエゴ校とフランス国立デジタル科学技術研究所Inriaの研究チームが、RSAの公開鍵を素因数分解することなく、1024ビットRSAの署名を偽造できる攻撃を大規模な計算実験で実証しました。 続きを読む... — GIGAZINE / score: 90 (RSA暗号の署名偽造攻撃の実証成功に関するセキュリティニュース)</description>
 </item>
 <item>
 <title>[90] Upcoming Next.js September Security Release</title>
@@ -77,6 +85,14 @@
 <pubDate>Thu, 17 Sep 2026 23:59:19 +0000</pubDate>
 <category>Simon Willison</category>
 <description>Be alert: targeted attacks on prominent Rustaceans Important warning from Adam Harvey and the crates security team: We believe that there is an ongoing campaign targeting rust-lang members and owners of popular crates that is attempting to compromise devices and accounts in order to use them to publish malware. A video call is set up for something positive — maybe for a job, maybe for a project, maybe for a contract opportunity — and then that's used as a vector to either get the target to insta — Simon Willison / score: 90 (Rust言語関係者を狙った標的型攻撃の重要警告)</description>
+</item>
+<item>
+<title>[85] J:COMネット障害、原因は「外部からの大量アクセス」　DNSサーバに高負荷　最大約408万件に影響</title>
+<link>https://www.itmedia.co.jp/news/article/2609/25/2000001729/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2609/25/2000001729/</guid>
+<pubDate>Thu, 24 Sep 2026 23:23:13 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>障害は、23日午前8時55分から午後6時ごろまでの9時間にわたり、北海道と九州を除く「J:COM NET」の提供エリアと、JCOMがネットサービスを提供するケーブルテレビ事業者のエリアの一部で発生。ネット接続時に必要な処理が正常に行えず、サービスを使えないまたは使いづらい状況になった。 対象は、J:COM NETのインターネ... — はてなブックマーク テクノロジー / score: 85 (大規模な通信障害とDNS負荷のトラブルシューティング事例)</description>
 </item>
 <item>
 <title>[85] Mac向けパッケージマネージャー「Homebrew 7.0.0」がリリース</title>
@@ -527,12 +543,20 @@
 <description>Let's review in about 2 minutes the 9 JEPs (JDK Enhancement Proposals) that were included in the JDK 27 release! — Inside Java / score: 80 (Java 27のJEP機能解説)</description>
 </item>
 <item>
-<title>[80] OpenAI、Agents APIをパブリックベータ公開 ——Codexの実行基盤でクラウドエージェントを構築</title>
-<link>https://gihyo.jp/article/2026/09/openai-agents-api-public-beta?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/09/openai-agents-api-public-beta?utm_source=feed</guid>
-<pubDate>Fri, 11 Sep 2026 01:43:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>OpenAIは9月10日、クラウド上でAIエージェントを構築・実行する「Agents API」をパブリックベータとして公開した。Codexを支えるエージェントの実行基盤をAPI経由で提供し、モデルの呼び出しやツール利用の制御、長時間のセッション管理をOpenAIが引き受ける。 — gihyo.jp / score: 80 (AIエージェント構築用APIのパブリックベータ公開)</description>
+<title>[75] Googleが宇宙にAIデータセンターを設置する実証実験「Project Suncatcher」でAI専用チップ・TPUを搭載した人工衛星を10月1日に打ち上げ</title>
+<link>https://gigazine.net/news/20260925-google-project-suncatcher/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20260925-google-project-suncatcher/</guid>
+<pubDate>Fri, 25 Sep 2026 02:08:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>現地時間の2026年9月24日、Googleは地球の軌道上でAI向けデータセンターを稼働させる「Project Suncatcher」の初期実験として、Google製AIチップである「TPU」が宇宙空間でどのように機能するかを評価するためのプロトタイプ衛星を2026年10月1日に打ち上げると発表しました。 続きを読む... — GIGAZINE / score: 75 (Googleによる宇宙AIデータセンター実証実験の計画詳細)</description>
+</item>
+<item>
+<title>[75] Google、宇宙AIデータセンター構想「Project Suncatcher」初の試作衛星をFalcon 9で打ち上げへ</title>
+<link>https://www.itmedia.co.jp/news/article/2609/25/2000001728/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2609/25/2000001728/</guid>
+<pubDate>Thu, 24 Sep 2026 23:32:15 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>米Googleは9月24日（現地時間）、衛星軌道上にAIデータセンターを構築する構想「Project Suncatcher」で、初めての軌道上試験を実施すると発表した。TPU（Tensor Processing Unit）を搭載した試作衛星を、来週予定されている米SpaceXのライドシェアミッション「Transporter-18」により、カリフォルニア州のバンデンバー... — はてなブックマーク テクノロジー / score: 75 (宇宙空間でのAIデータセンター実証実験に関する先端技術ニュース)</description>
 </item>
 <item>
 <title>[75] 「Python」のWindowsフルインストーラーが引退へ、「3.16」以降は提供されず／これからは「Python Install Manager」で導入・管理</title>
@@ -610,9 +634,9 @@
 <title>[75] AnthropicのClaudeがバクテリオファージからCRISPRに似た未知の酵素システムを発見、ダリオ・アモデイCEOはAIで「5〜10年以内に多くの病気を治せる」と予測</title>
 <link>https://gigazine.net/news/20260924-anthropic-claude-crispr/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260924-anthropic-claude-crispr/</guid>
-<pubDate>Thu, 24 Sep 2026 06:50:28 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>AI企業のAnthropicが、同社のAI「Claude」がバクテリオファージのDNAを解析し、ゲノム編集技術のCRISPRに似た反復配列を伴う未知の酵素システムを発見したと発表しました。「array-associated reverse transcriptases」、略して「ART」と名付けられたこのシステムの具体的な機能はまだ分かっていませんが、Claudeが大量... — はてなブックマーク テクノロジー / score: 75 (Claudeを活用した未知の酵素システムの発見)</description>
+<pubDate>Thu, 24 Sep 2026 06:20:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>AI企業のAnthropicが、同社のAI「Claude」がバクテリオファージのDNAを解析し、ゲノム編集技術のCRISPRに似た反復配列を伴う未知の酵素システムを発見したと発表しました。「array-associated reverse transcriptases」、略して「ART」と名付けられたこのシステムの具体的な機能はまだ分かっていませんが、Claudeが大量のDNA配列を自律的に調べ、研究対象となる新たな生物学的システムを見つけ出した事例となっています。 続きを読む... — GIGAZINE / score: 75 (Claudeを活用した未知の酵素システムの発見)</description>
 </item>
 <item>
 <title>[75] Google、音声生成モデルGemini 3.8 Flash TTSとGemini 3.8 Flash-Lite TTSをリリース ―100以上の言語と方言の音声を表現力豊かに生成</title>
@@ -623,28 +647,20 @@
 <description>Googleは2026年9月23日、テキスト読み上げモデル「Gemini 3.8 Flash TTS」と「Gemini 3.8 Flash-Lite TTS」をリリースした。 — gihyo.jp / score: 75 (Googleの新音声生成モデルのリリース)</description>
 </item>
 <item>
-<title>[75] 「OSSレジストリのただ乗りは限界」　GoogleやMicrosoftなど12社が企業の費用負担を巡り共同声明</title>
-<link>https://atmarkit.itmedia.co.jp/ait/articles/2609/24/news032.html</link>
-<guid isPermaLink="true">https://atmarkit.itmedia.co.jp/ait/articles/2609/24/news032.html</guid>
-<pubDate>Thu, 24 Sep 2026 04:45:25 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>「OSSレジストリのただ乗りは限界」 GoogleやMicrosoftなど12社が企業の費用負担を巡り共同声明：エンタープライズ向け「有償枠」などの資金調達モデルを模索へ（1/2 ページ） 生成AIの普及でソフトウェア開発が激変する中、セキュリティ脅威も深刻化し、OSSレジストリの運用負荷が高まっている。こうした背景を踏まえO... — はてなブックマーク テクノロジー / score: 75 (大手テック企業12社によるOSS資金負担の共同声明)</description>
-</item>
-<item>
-<title>[75] 高性能AIモデル「MiMo-V2.6-Pro」と「MiMo-V2.6-Flash」が無償公開される、GPT-5.6 Solに近い性能</title>
-<link>https://gigazine.net/news/20260924-mimo-v2-6-pro-flash/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260924-mimo-v2-6-pro-flash/</guid>
-<pubDate>Thu, 24 Sep 2026 04:33:03 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>中国の大手テクノロジー企業であるXiaomiがAIモデル「MiMo-V2.6-Pro」および「MiMo-V2.6-Flash」を日本時間の2026年9月22日にリリースしました。両モデルはオープンモデルとして無償公開されており、MiMo-V2.6-Proはオープンモデルの中で最高性能と評価されています。 MiMo-V2.6 | Xiaomi https://mimo.xiaomi.com/mimo-... — はてなブックマーク テクノロジー / score: 75 (高性能なオープンAIモデルの無償公開)</description>
-</item>
-<item>
 <title>[75] “声をイチから作りだせる”音声合成モデル「Gemini 3.8 TTS」、Googleが発表／役柄・アクセント・声の特徴で生成、100以上の言語と方言に対応、2,000以上のライブラリ</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2142765.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2142765.html</guid>
 <pubDate>Thu, 24 Sep 2026 04:05:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Googleは9月23日（現地時間）、テキストから音声を生成（TTS：Text-to-Speech）するモデル「Gemini 3.8 Flash TTS」「Gemini 3.8 Flash-Lite TTS」を発表した。単にテキストを読み上げるのではなく、キャラクターや会話シーンを演出する音声制作スタジオとして位置付けられた、同社で「もっとも表現力豊かな音声生成モデル」となる。 — 窓の杜 / score: 75 (Googleの高表現力な音声合成モデル発表)</description>
+</item>
+<item>
+<title>[75] 高性能AIモデル「MiMo-V2.6-Pro」と「MiMo-V2.6-Flash」が無償公開される、GPT-5.6 Solに近い性能</title>
+<link>https://gigazine.net/news/20260924-mimo-v2-6-pro-flash/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20260924-mimo-v2-6-pro-flash/</guid>
+<pubDate>Thu, 24 Sep 2026 03:20:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>中国の大手テクノロジー企業であるXiaomiがAIモデル「MiMo-V2.6-Pro」および「MiMo-V2.6-Flash」を日本時間の2026年9月22日にリリースしました。両モデルはオープンモデルとして無償公開されており、MiMo-V2.6-Proはオープンモデルの中で最高性能と評価されています。 続きを読む... — GIGAZINE / score: 75 (高性能なオープンAIモデルの無償公開)</description>
 </item>
 <item>
 <title>[75] Windows 11の2026年9月プレビューパッチが公開 ～「バージョン 24H2」はこれが最後／「Copilot」キーを「Ctrl」などに再割り当て、「Emoji 17.0」などに対応、廃止機能も</title>
@@ -789,22 +805,6 @@
 <pubDate>Thu, 17 Sep 2026 00:00:31 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Amazon Corretto 27, a Feature Release (FR) version, is now available for download. Amazon Corretto is a no-cost, multi-platform, production-ready distribution of OpenJDK . You can download Corretto 27 for Linux, Windows, and macOS from our downloads page . Corretto 27 will be supported through April 2027. Noticeable features: G1 as the Default Garbage Collector in All Environments - Makes G1 the default garbage collector across all environments, delivering more consistent performance and predict — AWS What's New / score: 75 (Amazon Corretto 27の一般提供開始)</description>
-</item>
-<item>
-<title>[75] Our framework for reporting model misalignment</title>
-<link>https://openai.com/index/model-misalignment-reporting-framework</link>
-<guid isPermaLink="true">https://openai.com/index/model-misalignment-reporting-framework</guid>
-<pubDate>Wed, 16 Sep 2026 17:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior. — OpenAI News / score: 75 (OpenAIによるモデルの不整合報告フレームワーク)</description>
-</item>
-<item>
-<title>[75] Android、パスキーをパスワードマネージャ間で転送可能に。Googleパスワードマネージャ、1Password、Bitwarden、Dashlaneなどが対応</title>
-<link>https://www.publickey1.jp/blog/26/androidgoogle1passwordbitwardendashlane.html</link>
-<guid isPermaLink="true">https://www.publickey1.jp/blog/26/androidgoogle1passwordbitwardendashlane.html</guid>
-<pubDate>Wed, 16 Sep 2026 15:51:54 +0000</pubDate>
-<category>Publickey</category>
-<description>Googleは、Android上で利用可能なパスワードマネージャの間で、パスキーの転送を可能にしたと発表しました。 これにより、例えばGoogleパスワードマネージャに登録したパスキーを1PasswordやBitwardenなどの他のパスワ... — Publickey / score: 75 (パスキーのマネージャ間転送は利便性と標準化に貢献)</description>
 </item>
 </channel>
 </rss>
