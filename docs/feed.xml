@@ -4,8 +4,40 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 25 Sep 2026 20:08:18 +0000</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 22:08:49 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>新型｢iPad｣の仕様が明らかに ｰ A19チップ、C1Xモデムチップ、N1ネットワークチップ、8GB RAMを搭載</title>
+<link>https://taisy0.com/2026/09/26/228038.html</link>
+<guid isPermaLink="true">https://taisy0.com/2026/09/26/228038.html</guid>
+<pubDate>Fri, 25 Sep 2026 22:04:14 +0000</pubDate>
+<category>気になる、記になる…</category>
+<description>MacRumorsによると、Appleのコードから新型「iPad」に関する情報が明らかになりました。 これは同サイトに寄稿しているリバースエンジニアのAaron Perris氏がAppleのコードを解析して明らかになった […] — 気になる、記になる… / score: 50 (新型iPadのハードウェア仕様リーク情報)</description>
+</item>
+<item>
+<title>最大67W出力で6台同時充電！ 薄型電源タップ「Anker Nano Charging Station」は出張や旅行にもオススメ</title>
+<link>https://ascii.jp/elem/000/004/437/4437341/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/437/4437341/?rss</guid>
+<pubDate>Fri, 25 Sep 2026 22:00:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>Amazon.co.jpで「Anker Nano Charging Station」が売れています。67Wの急速充電にも対応した6-in-1の電源タップです。 — ASCII.jp / score: 25 (Ankerの薄型電源タップのガジェット紹介)</description>
+</item>
+<item>
+<title>手から糸を飛ばしたい。ヒーローの心をもった大人たちよ、今こそ「ZipString Aracna」で夢を叶えよ</title>
+<link>https://www.gizmodo.jp/article/zipstring-arcana_gizmart/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/zipstring-arcana_gizmart/</guid>
+<pubDate>Fri, 25 Sep 2026 22:00:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>手から糸を飛ばす憧れを実現！「ZipString Aracna」でヒーロー体験ができる大人の遊び道具をご紹介。 — ギズモード・ジャパン / score: 20 (糸を飛ばすおもちゃのエンタメ記事)</description>
+</item>
+<item>
+<title>Amazon Transcribe adds customer-managed KMS keys for custom resources</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-transcribe/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-transcribe/</guid>
+<pubDate>Fri, 25 Sep 2026 19:19:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon Transcribe now lets you encrypt your custom vocabularies, custom vocabulary filters, and custom language models at rest with a customer-managed AWS KMS key that you own and control. Previously, these custom resources were always encrypted with an AWS owned key. Now you can supply your own symmetric AWS KMS key when you create or update these resources, so the artifacts Transcribe stores on your behalf are encrypted under a key in your account. If you do not provide a key, your resources c — AWS What's New / score: 40 (Amazon TranscribeのKMSキー対応)</description>
+</item>
 <item>
 <title>Proaction boosts sales 60% and saves 75+ hours with Codex</title>
 <link>https://openai.com/index/proaction</link>
@@ -13,6 +45,14 @@
 <pubDate>Fri, 25 Sep 2026 19:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster. — OpenAI News / score: 60 (OpenAIのツールを活用した業務効率化の事例)</description>
+</item>
+<item>
+<title>AWS IAM outbound identity federation now supports interface VPC endpoints for OIDC discovery</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/aws-sts-vpc-oidc/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/aws-sts-vpc-oidc/</guid>
+<pubDate>Fri, 25 Sep 2026 17:54:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS Identity and Access Management (IAM) outbound identity federation now supports Amazon Virtual Private Cloud (VPC) endpoints for the OpenID Connect (OIDC) discovery APIs. You can now access the OIDC discovery metadata and JSON Web Key Set (JWKS) verification key endpoints from within your VPC using AWS PrivateLink , without requiring traffic to traverse the public internet. IAM outbound identity federation eliminates the need to use long-lived credentials when your AWS workloads access extern — AWS What's New / score: 45 (AWS IAMのVPCエンドポイント対応)</description>
 </item>
 <item>
 <title>Quoting John Gruber</title>
@@ -63,20 +103,28 @@
 <description>MacRumorsによると、未発表の新型「Apple TV 4K」に関する情報が流出したことが分かりました。 これは同サイトに寄稿しているリバースエンジニアのAaron Perris氏が、未発表の「Apple TV 4K […] — 気になる、記になる… / score: 30 (未発表Apple製品の外観に関するリーク情報)</description>
 </item>
 <item>
+<title>大切な問題ほど、なぜ語られなくなるのか？ ― 「沈黙の螺旋」と財源幻想をデバッグし、国家レジリエンスを高める : システム設計視点の行動経済学 (33)</title>
+<link>https://qiita.com/maskot1977/items/9b6f1a03204797cf91d2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/maskot1977/items/9b6f1a03204797cf91d2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Fri, 25 Sep 2026 16:12:11 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>user: 「システム設計視点の行動経済学」、第33回を始めましょう。その前に、まず前回の復習として、 なぜ私たちは大切なことを知らないのか？ ― 情報・財源幻想・制度設計をデバッグする : システム設計視点の行動経済学 (32) https://qiita.com/ma... — Qiita 人気記事 / score: 35 (システム設計視点の行動経済学の考察)</description>
+</item>
+<item>
+<title>What’s new with Google Cloud</title>
+<link>https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/</guid>
+<pubDate>Fri, 25 Sep 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block &lt;ListValue: []&gt; Sept 21 - Sept 25 Master MCP tool authorization and agent governance with Apigee While the Model Context Protocol (MCP) so — Google Cloud Blog / score: 20 (Google Cloudの一般的な更新情報まとめ)</description>
+</item>
+<item>
 <title>Unlock 3x QPS and microsecond latency with Memorystore for Valkey 9.1</title>
 <link>https://cloud.google.com/blog/products/databases/memorystore-for-valkey-9-1-3x-qps-caching/</link>
 <guid isPermaLink="true">https://cloud.google.com/blog/products/databases/memorystore-for-valkey-9-1-3x-qps-caching/</guid>
 <pubDate>Fri, 25 Sep 2026 16:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>At Google Cloud, we are committed to delivering the best managed experience backed by open source software. Today, we’re announcing the general availability of Memorystore for Valkey 9.1 , which achieves up to 3x queries per second (QPS) at microsecond latency compared to Memorystore for Redis Cluster. Our support for Valkey dates back to 2024 , when Redis Inc. shifted its licensing away from the permissive open-source BSD license to a dual-license model. In response, Google Cloud, alongside oth — Google Cloud Blog / score: 75 (Google CloudによるValkeyマネージドサービスの一般提供)</description>
-</item>
-<item>
-<title>Best practices guide for customizing Gemini models via Reinforcement Learning (RL)</title>
-<link>https://cloud.google.com/blog/topics/developers-practitioners/best-practices-guide-for-customizing-gemini-models/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/topics/developers-practitioners/best-practices-guide-for-customizing-gemini-models/</guid>
-<pubDate>Fri, 25 Sep 2026 16:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>Reinforcement learning (RL) has been a keystone of modern LLM post-training, but it demands large training clusters and access to model internals that external customers can't have with proprietary models like Gemini. So here at Google Cloud, we packaged it into a managed RL fine-tuning service (RLFT service) — you bring prompts and a reward function; we handle the infrastructure and the proprietary model internals. Now, you can adapt Gemini with the service — teaching the model from a reward si — Google Cloud Blog / score: 65 (Geminiモデルのカスタマイズに関するベストプラクティス)</description>
 </item>
 <item>
 <title>Storage Intelligence advisor: Know what changed in your storage estate and act on it</title>
@@ -87,12 +135,12 @@
 <description>The volume of data being generated today brings both opportunity and massive operational complexity. Most teams that operate at scale don't discover issues until they appear on an invoice — and by the time an unusual access pattern shows up as a line item, it has often been running for weeks. Understanding what happened means exporting inventory, joining it against access logs, and hoping someone still remembers which service account belongs to which job. That workflow was manageable in the past — Google Cloud Blog / score: 50 (クラウドストレージ管理・最適化に関する新機能紹介)</description>
 </item>
 <item>
-<title>What’s new with Google Cloud</title>
-<link>https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/</guid>
+<title>Best practices guide for customizing Gemini models via Reinforcement Learning (RL)</title>
+<link>https://cloud.google.com/blog/topics/developers-practitioners/best-practices-guide-for-customizing-gemini-models/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/developers-practitioners/best-practices-guide-for-customizing-gemini-models/</guid>
 <pubDate>Fri, 25 Sep 2026 16:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
-<description>Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block &lt;ListValue: []&gt; Sept 21 - Sept 25 Master MCP tool authorization and agent governance with Apigee While the Model Context Protocol (MCP) so — Google Cloud Blog / score: 20 (Google Cloudの一般的な更新情報まとめ)</description>
+<description>Reinforcement learning (RL) has been a keystone of modern LLM post-training, but it demands large training clusters and access to model internals that external customers can't have with proprietary models like Gemini. So here at Google Cloud, we packaged it into a managed RL fine-tuning service (RLFT service) — you bring prompts and a reward function; we handle the infrastructure and the proprietary model internals. Now, you can adapt Gemini with the service — teaching the model from a reward si — Google Cloud Blog / score: 65 (Geminiモデルのカスタマイズに関するベストプラクティス)</description>
 </item>
 <item>
 <title>iPhone AirがAmazonアウトレットで1年前と同程度の価格で販売中！</title>
@@ -191,12 +239,28 @@
 <description>Lv100のThinkPadだ…。工作キットのエレキットなどで知られるイーケイジャパンが、9月23日に開催された日本最大級のPCキーボード展示・販売イベント「TOKYO KEYBOARD EXPO 2026」に出展していました。ん、テーブル… — ギズモード・ジャパン / score: 35 (トラックボール搭載キーボードの展示紹介。)</description>
 </item>
 <item>
+<title>AI感のないAWS構成図をAIエージェントに描かせたい！</title>
+<link>https://qiita.com/sagochiko/items/ef77b084ff2dee1f859c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/sagochiko/items/ef77b084ff2dee1f859c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Fri, 25 Sep 2026 12:57:18 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>みなさんが過去にClaudeやCodex（今後はまとめて「AIエージェント」と呼びます）に作成してもらった構成図ってこんな感じの構成図じゃなかったですか？ アイコンやサブネットの角が丸っぽくてAI感ありますよね。「これじゃ自分で書いたほうがいいや」となっちゃいます。 コー... — Qiita 人気記事 / score: 40 (AIエージェントによるAWS構成図生成)</description>
+</item>
+<item>
 <title>Meta Glassesを装着してMeta社員に絡む動画がFacebookとInstagramで削除される</title>
 <link>https://gigazine.net/news/20260925-meta-glasses-video-ban/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260925-meta-glasses-video-ban/</guid>
 <pubDate>Fri, 25 Sep 2026 12:40:38 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>カメラが付いたスマートグラス「Meta Glasses」は、周囲の風景を撮影して記録することができることから、プライバシーの懸念があるとして一部で問題視されています。この機能を問題視するクリエイターのロエル・マールデリンク氏がMeta GlassesでMetaの従業員を撮影する動画を公開しています。 Meta haalt kritische vid... — はてなブックマーク テクノロジー / score: 20 (スマートグラスによる撮影を巡るSNS上のトラブル)</description>
+</item>
+<item>
+<title>Microsoft、新しい業務向け「Copilot」を発表 ～エージェント機能などを統合／新機能「Home」「Code」「Autopilot」を追加</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2143487.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2143487.html</guid>
+<pubDate>Fri, 25 Sep 2026 12:31:25 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Microsoft、新しい業務向け「Copilot」を発表 ～エージェント機能などを統合／新機能「Home」「Code」「Autopilot」を追加 — はてなブックマーク テクノロジー / score: 75 (Microsoft Copilotの大型アップデートと新機能発表)</description>
 </item>
 <item>
 <title>Switch 2用ヘッドセットを安さで選ぶならコレ！ 3000円台で手に入って2年保証も</title>
@@ -213,14 +277,6 @@
 <pubDate>Fri, 25 Sep 2026 12:30:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>2026年10月のMicrosoftイベントで噂のNVIDIA製SoC搭載新型Surfaceが発表か。最大48GBメモリとローカルAI対応の魅力を徹底解説。 — ギズモード・ジャパン / score: 60 (新型Surfaceのハードウェア噂に関するニュース。)</description>
-</item>
-<item>
-<title>Microsoft、新しい業務向け「Copilot」を発表 ～エージェント機能などを統合／新機能「Home」「Code」「Autopilot」を追加</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2143487.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2143487.html</guid>
-<pubDate>Fri, 25 Sep 2026 12:10:34 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Microsoftは9月25日（現地時間）、業務向けAIアシスタント「Copilot」の新たな機能を発表した。次世代版の「Copilot」では、日々の業務で利用するツールとAIをつなぎ、ユーザーがAIをカスタマイズおよび拡張するための3つの新機能「Home」「Code」「Autopilot」が追加される。 — 窓の杜 / score: 75 (Microsoft Copilotの大型アップデートと新機能発表)</description>
 </item>
 <item>
 <title>Ryzen 7 7800X3D＋RTX 5070で36万円台！ STORMの「TGS限定モデル」は在庫限り</title>
@@ -261,6 +317,30 @@
 <pubDate>Fri, 25 Sep 2026 11:57:52 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>★「業務改革≒プロセスの見直し」と思っていた時期が僕にもあった 業務改革を仕事にしているし、ズバリ「業務改革の教科書」という本も書いているので、amazonで「業務改革」を検索することもある。その際に目につくのは「業務フローの書き方」みたいな本だ。少しずつ切り口を変えて、とてもたくさんある。 あたかも「業... — はてなブックマーク テクノロジー / score: 35 (業務改革の考え方に関するエッセイ記事。)</description>
+</item>
+<item>
+<title>JenkinsのPRレビューでテストとセキュリティスキャンも回す ― AIのAPPROVEを機械的に覆すMineWatchのCI</title>
+<link>https://qiita.com/jqit-yukiono/items/8675266928f574677d9e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/jqit-yukiono/items/8675266928f574677d9e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Fri, 25 Sep 2026 11:39:46 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>JenkinsのPRレビューでテストとセキュリティスキャンも回す ― AIのAPPROVEを機械的に覆すMineWatchのCI これまでに、GitHub Actionsの失敗を自己修復するパイプラインと、JenkinsでGitHub Copilot CLIにPRを自動レ... — Qiita 人気記事 / score: 55 (CI/CDとAIレビューの高度な実践)</description>
+</item>
+<item>
+<title>個人開発でApp Storeリリースフローを学ぶ（三部作）― 本番だけ静かに壊れた、CI/CDの2つの事故</title>
+<link>https://qiita.com/jqit-yukiono/items/21973aaa1c605b34c174?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/jqit-yukiono/items/21973aaa1c605b34c174?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Fri, 25 Sep 2026 11:38:43 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>個人開発でApp Storeリリースフローを学ぶ（三部作）― 本番だけ静かに壊れた、CI/CDの2つの事故 前回の記事で、iOS（UIKit）+ FastAPI + Kubernetesで作ったMinecraftサーバー監視アプリ「MineWatch」が3回のリジェクトを... — Qiita 人気記事 / score: 45 (個人開発のApp Storeリリース学び)</description>
+</item>
+<item>
+<title>JR西日本、AIが車両整備の計画立案　30年度までに所要時間2時間→10分 - 日本経済新聞</title>
+<link>https://www.nikkei.com/article/DGXZQOUF1158N0R10C26A9000000/</link>
+<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUF1158N0R10C26A9000000/</guid>
+<pubDate>Fri, 25 Sep 2026 11:27:50 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>JR西日本は車両の整備計画の立案に人工知能（AI）を導入する。約2時間かかる作業を10分程度に短縮できる見通し。所要時間を9割削減し、人手不足問題の緩和につなげる。AI開発のグリッドと共同で、2030年度までの実用化を目指す。JR西は在来線車両の検査や修繕、清掃といった整備業務を手掛ける車両基地を管内に約40カ所... — はてなブックマーク テクノロジー / score: 50 (鉄道業界のAI活用による効率化事例)</description>
 </item>
 <item>
 <title>OCN モバイル ONE、12月1日より月額料金を値上げへ</title>
@@ -405,6 +485,14 @@
 <pubDate>Fri, 25 Sep 2026 10:13:36 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>はじめに Jevのデモとして公式ではDOOMをプレイさせるデモがありました。 100ms前後のレイテンシでレスポンスを返せるため、リアルタイム制御に使えるという点が強調されています。 またXをみているとJevにゲームをプレイさせた投稿を多く見かけました。 「BERTでよい」論などあると思いますが、特にゲームにおいては入... — はてなブックマーク テクノロジー / score: 55 (LLMの蒸留やゲームプレイ検証に関する技術記事)</description>
+</item>
+<item>
+<title>VRChatワールド「すんごいカメレオン」同期技術解説</title>
+<link>https://qiita.com/Yodokoro/items/1eaaa4260efe413fee50?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/Yodokoro/items/1eaaa4260efe413fee50?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Fri, 25 Sep 2026 10:04:48 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>はじめに めっちゃ流行った某塗り絵かくれんぼゲームをVRでも遊びたいと思い、VRChatで再現してみることにした。 完成品はこちら。 テクスチャを自由にペイントし、それを他のプレイヤーに同期するというのはVRChatのUdon帯域制限下ではなかなか野心的なプロ... — Qiita 人気記事 / score: 45 (VRChatワールドの同期技術解説)</description>
 </item>
 <item>
 <title>初代iPhoneからiPhone 18 Proまで歴代のiOSホーム画面とボタンの変化がよくわかる「iOS Eras」</title>
@@ -559,6 +647,14 @@
 <description>ミックスを太くするためのリッチでアナログなサチュレーションエフェクト、NoiseAsh Audio「Heater」(通常$129)を期間限定で無償配布開始です。 Audio Plugin Dealsでは秋の収穫祭イベント... The post 【無料】アナログスタイルのサチュレーション・トーン・シェイパー、NoiseAsh「Heater」(通常$129)を期間限定で無償配布開始！ first appeared on Computer Music Japan . — Computer Music Japan / score: 30 (音楽制作プラグインの期間限定無料配布情報のため)</description>
 </item>
 <item>
+<title>無料枠AI APIを使い倒す：9RouterとOmniRouteで自分専用のAIゲートウェイを構築する</title>
+<link>https://qiita.com/TOMOSIA-LinhND/items/a9f97284ddbef214ac9e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/TOMOSIA-LinhND/items/a9f97284ddbef214ac9e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Fri, 25 Sep 2026 09:02:54 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>記事概要 個人開発やプロトタイプ（PoC/MVP）、学習用途向けに、無料枠（Free Tier）を提供するAI APIプロバイダー（Gemini、OpenRouter、Agnes、Groqなど）を最大限に活用する方法を解説します。レート制限（429エラー）による作業の中... — Qiita 人気記事 / score: 55 (無料枠AI APIを活用するゲートウェイ構築)</description>
+</item>
+<item>
 <title>Vocci ― 「記録する」を、もっと身近に、もっと自然に。 | 2026年9月30日（水）午前11:00よりクラウドファンディング開始</title>
 <link>https://ascii.jp/elem/000/004/437/4437423/?rss</link>
 <guid isPermaLink="true">https://ascii.jp/elem/000/004/437/4437423/?rss</guid>
@@ -605,14 +701,6 @@
 <pubDate>Fri, 25 Sep 2026 09:00:00 +0000</pubDate>
 <category>ASCII.jp</category>
 <description>TVアニメ『片田舎のおっさん剣聖になるII』LINEスタンプ 配信開始のお知らせ — ASCII.jp / score: 5 (アニメ関連のスタンプ配信情報)</description>
-</item>
-<item>
-<title>FMV Storeが「半期決算 セール」を実施中！ くじ引きで3300円オフクーポン当たる！</title>
-<link>https://ascii.jp/elem/000/004/437/4437330/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/437/4437330/?rss</guid>
-<pubDate>Fri, 25 Sep 2026 09:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>FMVパソコン通販サイト「FMV Store」では、「FMV Store 半期決算 セール」を実施中だ！ — ASCII.jp / score: 15 (PCメーカーのセール情報)</description>
 </item>
 <item>
 <title>もっと回復する眠りを音でサポート？MITが狙う「0.05秒のピンクノイズ」</title>
@@ -717,94 +805,6 @@
 <pubDate>Fri, 25 Sep 2026 08:00:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>湖池屋の新スナック菓子「金のポテト やみつき塩」と「金のポテト 王道のり塩」が2026年9月21日に地域限定で登場しました。特許出願中の「真空揚げたて製法」で作られた棒状の菓子で、「スナック菓子の手軽さ」と「揚げたてフライドポテトのやみつき感」を両立しているとのこと。どんな味に仕上がっているのか気になったので、実際に食べて食感や味を確かめてみました。 続きを読む... — GIGAZINE / score: 10 (スナック菓子の新商品食レポ記事)</description>
-</item>
-<item>
-<title>AWS Elastic Disaster Recovery now supports AWS Graviton-based source servers</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/09/elastic-disaster-recovery-graviton/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/elastic-disaster-recovery-graviton/</guid>
-<pubDate>Fri, 25 Sep 2026 08:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>AWS Elastic Disaster Recovery (AWS DRS) now supports disaster recovery for AWS Graviton-based (arm64) source servers. You can now protect and recover your Graviton workloads with the same simple, reliable DRS experience you already use for x86 workloads. As more workloads move to Graviton for its price-performance benefits, they need the same disaster recovery coverage as the rest of your environment. DRS now automatically detects arm64 source servers and recovers them onto Graviton instances, p — AWS What's New / score: 55 (AWS災害対策サービスのGravitonサーバー対応)</description>
-</item>
-<item>
-<title>これなら後悔しないかも。Alienwareのバケモノ高解像度モニターが快適すぎる</title>
-<link>https://www.gizmodo.jp/article/alienware-aw3926qw-ultrawide-gaming-monitor-review/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/alienware-aw3926qw-ultrawide-gaming-monitor-review/</guid>
-<pubDate>Fri, 25 Sep 2026 08:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>Alienwareの39インチ湾曲ゲーミングモニターAW3926QWレビュー。5K×2Kの高解像度とタンデムOLEDがもたらす圧倒的な没入感と画質の魅力を解説します。 — ギズモード・ジャパン / score: 35 (ハイエンドゲーミングモニターの個別製品レビュー)</description>
-</item>
-<item>
-<title>AI-SQLエンジン「Quail」公開 ——LLMによるデータの絞り込み・結合を効率化</title>
-<link>https://gihyo.jp/article/2026/09/quail?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/09/quail?utm_source=feed</guid>
-<pubDate>Fri, 25 Sep 2026 07:59:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Full Stack Data LabのShreya Shankar氏らは9月24日、Modalとの共同開発によるオープンソースのAI-SQLエンジン「Quail」を公式ブログで発表した。 — gihyo.jp / score: 65 (LLMを活用したオープンソースのAI-SQLエンジン公開)</description>
-</item>
-<item>
-<title>NTTドコモ、12月から旧料金プランを中心に月額料金を110円～550円値上げ</title>
-<link>https://taisy0.com/2026/09/25/228016.html</link>
-<guid isPermaLink="true">https://taisy0.com/2026/09/25/228016.html</guid>
-<pubDate>Fri, 25 Sep 2026 07:58:03 +0000</pubDate>
-<category>気になる、記になる…</category>
-<description>本日、NTTドコモが、新規受付終了済みの料金プランを中心に、2026年12月1日から一部の料金プランの月額料金を値上げすると発表しました。 今回の価格改定は物価や人件費の上昇など事業環境が変化する中で、ユーザーに安定した […] — 気になる、記になる… / score: 30 (通信キャリアの料金プラン値上げ情報)</description>
-</item>
-<item>
-<title>NTTドコモ、10月1日より「ドコモ MAX 60歳以上割」を提供へ</title>
-<link>https://taisy0.com/2026/09/25/228014.html</link>
-<guid isPermaLink="true">https://taisy0.com/2026/09/25/228014.html</guid>
-<pubDate>Fri, 25 Sep 2026 07:49:48 +0000</pubDate>
-<category>気になる、記になる…</category>
-<description>本日、NTTドコモが2026年10月1日から、「ドコモ MAX 60歳以上割」の提供を開始すると発表しました。 「ドコモ MAX 60歳以上割」は、60歳以上のユーザーを対象に、通信に加え、映像・音楽・スポーツなどのコン […] — 気になる、記になる… / score: 30 (通信キャリアの新シニア向け割引提供)</description>
-</item>
-<item>
-<title>iPhone Duoの内画面に保護フィルムは必要？Appleは装着を想定せず</title>
-<link>https://iphone-mania.jp/iphone18-606583/</link>
-<guid isPermaLink="true">https://iphone-mania.jp/iphone18-606583/</guid>
-<pubDate>Fri, 25 Sep 2026 07:38:03 +0000</pubDate>
-<category>iPhone Mania</category>
-<description>Apple初の折りたたみモデル、iPhone Duoのインナーディスプレイは、ユーザーが追加で保護フィルムを貼ることを想定していないことが分かりました。iPhone Maniaは、Apple Japanで開催された製品説 […] — iPhone Mania / score: 35 (折りたたみデバイスの構造と仕様に関する話題)</description>
-</item>
-<item>
-<title>Cursor、GitHubの新たな代替となるAIエージェントネイティブな開発基盤「Origin」を公開</title>
-<link>https://www.infoq.com/jp/news/2026/09/cursor-origin-alternative-github/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-<guid isPermaLink="true">https://www.infoq.com/jp/news/2026/09/cursor-origin-alternative-github/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-<pubDate>Fri, 25 Sep 2026 07:30:00 +0000</pubDate>
-<category>InfoQ Japan</category>
-<description>AIコーディングエージェントのCursorは、Gitベースのコードホスティングプラットフォーム「Origin」を発表した。OriginはCursorのAI搭載エディタに組み込まれており、すでにCursorを利用しているチーム向けに、GitHubの代替となるサービスとして位置付けられている。 Originは現在、Pro、Teams、Enterpriseプランを対象に早期ベータ版として順次提供されている。また、Cursorアプリケーション内に新設された「Codebase」タブ内に統合されている。 By Matt Saunders Translated by Naoko Koshimura — InfoQ Japan / score: 85 (Cursorによる新しい開発基盤Originの発表)</description>
-</item>
-<item>
-<title>Cognition、AIコーディング「Devin」でクラウド上のmacOS環境に対応</title>
-<link>https://codezine.jp/article/detail/29804</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/29804</guid>
-<pubDate>Fri, 25 Sep 2026 07:30:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 75 (AIコーディングツールのクラウド環境対応)</description>
-</item>
-<item>
-<title>ChatGPTを開いた後に別サイトで見たページの情報がOpenAIへ送られる仕組みが指摘される</title>
-<link>https://gigazine.net/news/20260925-chatgpt-other-website/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260925-chatgpt-other-website/</guid>
-<pubDate>Fri, 25 Sep 2026 07:30:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>「ChatGPTを利用した後にOpenAIの広告計測コードを導入したウェブサイトを閲覧すると、閲覧したページなどの情報とChatGPT側で発行された識別子がOpenAIへ送信される場合がある」とセキュリティ関連の調査を行うBuchodiが報告しました。 続きを読む... — GIGAZINE / score: 70 (ChatGPTのデータ送信に関するセキュリティ指摘)</description>
-</item>
-<item>
-<title>NTTドコモ、新料金プラン「ドコモ mini2」を12月1日から提供開始へ</title>
-<link>https://taisy0.com/2026/09/25/228012.html</link>
-<guid isPermaLink="true">https://taisy0.com/2026/09/25/228012.html</guid>
-<pubDate>Fri, 25 Sep 2026 07:20:21 +0000</pubDate>
-<category>気になる、記になる…</category>
-<description>本日、NTTドコモが、2026年12月1日から新料金プラン「ドコモ mini2」の提供を開始すると発表しました。 「ドコモ mini2」は、「みんなドコモ割」や家族間国内通話無料に対応した家族でより便利かつおトクに利用出 […] — 気になる、記になる… / score: 30 (通信キャリアの新料金プラン提供開始)</description>
-</item>
-<item>
-<title>macOS27でApple Intelligenceの一括オフが廃止〜容量は戻らず</title>
-<link>https://iphone-mania.jp/apple-intelligence-606578/</link>
-<guid isPermaLink="true">https://iphone-mania.jp/apple-intelligence-606578/</guid>
-<pubDate>Fri, 25 Sep 2026 07:14:19 +0000</pubDate>
-<category>iPhone Mania</category>
-<description>macOS27では、Apple Intelligenceをまとめてオフにする設定がなくなりました。AIのモデルはインストール後に自動でダウンロードされ、SiriをオフにしてもMacのストレージに残ったままです。Apple […] — iPhone Mania / score: 55 (OS機能の仕様変更とストレージ挙動に関する話題)</description>
 </item>
 </channel>
 </rss>
