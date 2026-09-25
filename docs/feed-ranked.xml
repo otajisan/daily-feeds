@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 25 Sep 2026 14:10:51 +0000</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 16:10:49 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Apache Tomcat」「Apache Tomcat Native」に最大深刻度“CRITICAL”の脆弱性／最新バージョンへの更新を</title>
@@ -287,14 +287,6 @@
 <description>On September 15 we celebrated the release of Java 27! We covered what’s coming in JDK 27—from key enhancements and platform changes to the latest developments at the intersection of Java and AI. — Inside Java / score: 85 (主要プラットフォームであるJavaのメジャーリリース)</description>
 </item>
 <item>
-<title>[85] Gemini Live audio</title>
-<link>https://simonwillison.net/2026/Sep/15/gemini-live/</link>
-<guid isPermaLink="true">https://simonwillison.net/2026/Sep/15/gemini-live/</guid>
-<pubDate>Tue, 15 Sep 2026 22:47:07 +0000</pubDate>
-<category>Simon Willison</category>
-<description>Tool: Gemini Live audio Google released Gemini 3.8 Live and 3.8 Live Extended Thinking today - two new speech-to-speech models that are a similar shape to OpenAI's GPT-Live family. I pointed GPT-6 Astra Extra High at the documentation and had it build me this web UI for trying out the new models. You can select a model and voice preset, enter an optional system prompt and then start a voice conversation through your browser, including the ability to interrupt the model while it is talking. The i — Simon Willison / score: 85 (主要AI企業による音声AIモデルの新発表のため)</description>
-</item>
-<item>
 <title>[85] Java 27リリース――ヒープ使用効率向上と安全性の重視</title>
 <link>https://gihyo.jp/article/2026/09/java27?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/09/java27?utm_source=feed</guid>
@@ -357,14 +349,6 @@
 <pubDate>Sun, 13 Sep 2026 15:27:57 +0000</pubDate>
 <category>Publickey</category>
 <description>マイクロソフト社内において、Rust言語がC++/C#/TypeScriptに並ぶTier 1言語になったことが明らかになりました。 マイクロソフトの開発部門でRustツールチームのプリンシパルエンジニア Victor Ciura氏がRus... — Publickey / score: 85 (マイクロソフトがRustをTier 1言語に格上げ)</description>
-</item>
-<item>
-<title>[85] Cognition helps Devin test its own work with GPT‑6 Astra</title>
-<link>https://openai.com/index/cognition-devin-testing-with-astra</link>
-<guid isPermaLink="true">https://openai.com/index/cognition-devin-testing-with-astra</guid>
-<pubDate>Fri, 11 Sep 2026 16:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more. — OpenAI News / score: 85 (AIエージェントDevinによる高度な自己テスト)</description>
 </item>
 <item>
 <title>[82] Google、Gemini 3.8 Liveを発表 ——会話を続けながら推論やツール実行が可能</title>
@@ -525,6 +509,14 @@
 <pubDate>Mon, 14 Sep 2026 15:51:16 +0000</pubDate>
 <category>Publickey</category>
 <description>MCPやAGENTS.md、Agent2AgentプロトコルなどのAIエージェントに関する関連技術の標準化推進や開発などを行うLinux Foundation傘下のAgentic AI Foundation（AAIF）は、オープンソースとし... — Publickey / score: 80 (AIベンダーのAPI統合OSS登場で業界に影響)</description>
+</item>
+<item>
+<title>[75] Unlock 3x QPS and microsecond latency with Memorystore for Valkey 9.1</title>
+<link>https://cloud.google.com/blog/products/databases/memorystore-for-valkey-9-1-3x-qps-caching/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/databases/memorystore-for-valkey-9-1-3x-qps-caching/</guid>
+<pubDate>Fri, 25 Sep 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>At Google Cloud, we are committed to delivering the best managed experience backed by open source software. Today, we’re announcing the general availability of Memorystore for Valkey 9.1 , which achieves up to 3x queries per second (QPS) at microsecond latency compared to Memorystore for Redis Cluster. Our support for Valkey dates back to 2024 , when Redis Inc. shifted its licensing away from the permissive open-source BSD license to a dual-license model. In response, Google Cloud, alongside oth — Google Cloud Blog / score: 75 (Google CloudによるValkeyマネージドサービスの一般提供)</description>
 </item>
 <item>
 <title>[75] Microsoft、新しい業務向け「Copilot」を発表 ～エージェント機能などを統合／新機能「Home」「Code」「Autopilot」を追加</title>
@@ -805,6 +797,14 @@
 <pubDate>Thu, 17 Sep 2026 15:59:39 +0000</pubDate>
 <category>Publickey</category>
 <description>データベースサービスを提供しているPlanetScaleは、PostgreSQLのシャーディングを自動化してスケーラブルなデータベースサービスを提供する「Neki」をプレビュー公開しました。 118,538,803 queries per ... — Publickey / score: 75 (PostgreSQLの自動シャーディング新DBサービスのプレビュー公開)</description>
+</item>
+<item>
+<title>[75] Amazon Corretto 27 is now generally available</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-corretto-27-generally-available/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-corretto-27-generally-available/</guid>
+<pubDate>Thu, 17 Sep 2026 00:00:31 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon Corretto 27, a Feature Release (FR) version, is now available for download. Amazon Corretto is a no-cost, multi-platform, production-ready distribution of OpenJDK . You can download Corretto 27 for Linux, Windows, and macOS from our downloads page . Corretto 27 will be supported through April 2027. Noticeable features: G1 as the Default Garbage Collector in All Environments - Makes G1 the default garbage collector across all environments, delivering more consistent performance and predict — AWS What's New / score: 75 (Amazon Corretto 27の一般提供開始)</description>
 </item>
 </channel>
 </rss>
