@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sat, 26 Sep 2026 06:14:44 +0000</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 08:12:22 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Apache Tomcat」「Apache Tomcat Native」に最大深刻度“CRITICAL”の脆弱性／最新バージョンへの更新を</title>
@@ -359,6 +359,14 @@
 <description>Googleは2026年9月15日、音声対話AIモデル「Gemini 3.8 Live」と「Gemini 3.8 Live Extended Thinking」を発表した。 — gihyo.jp / score: 82 (Googleの音声対話型AIの新モデル発表)</description>
 </item>
 <item>
+<title>[80] Platform-independent SIMD in Go - The Go Programming Language</title>
+<link>https://go.dev/blog/simd-experiment</link>
+<guid isPermaLink="true">https://go.dev/blog/simd-experiment</guid>
+<pubDate>Fri, 25 Sep 2026 14:07:20 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>The Go Blog Platform-independent SIMD in Go David Chase and Junyang Shao 24 September 2026 Go 1.26 and 1.27 include experimental APIs for Single Instruction Multiple Data (SIMD) operations. SIMD is a native feature of many modern CPUs that allows software to perform uniform operations across vect... — はてなブックマーク テクノロジー / score: 80 (Go言語の実験的SIMDAPI導入に関する公式の重要アナウンス)</description>
+</item>
+<item>
 <title>[80] 「Google Chrome 154」安定版リリース、iframeが中身に合わせて自動でサイズ調整可能に＆HTTPサイトへの接続時に確認を表示</title>
 <link>https://gigazine.net/news/20260925-google-chrome-154/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260925-google-chrome-154/</guid>
@@ -557,6 +565,14 @@
 <pubDate>Fri, 25 Sep 2026 12:31:25 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>Microsoft、新しい業務向け「Copilot」を発表 ～エージェント機能などを統合／新機能「Home」「Code」「Autopilot」を追加 — はてなブックマーク テクノロジー / score: 75 (Microsoft Copilotの大型アップデートと新機能発表)</description>
+</item>
+<item>
+<title>[75] パルグループ、狙われたのは「老朽化システム」だった　サーバ約100台停止から50日で復旧の軌跡</title>
+<link>https://www.itmedia.co.jp/enterprise/articles/2609/25/news022.html</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/enterprise/articles/2609/25/news022.html</guid>
+<pubDate>Fri, 25 Sep 2026 08:00:48 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>「2024年6月16日日曜日、それは突然やってきました」と、サイバー攻撃の被害を振り返るのは、パルグループの守山宗行氏（IT統括室 リーダー）だ。 パルグループホールディングス（以下、パルグループ）は、衣料品や雑貨の企画・製造から販売までを手掛ける企業グループの持ち株会社だ。グループ企業にパルやナイスクラッ... — はてなブックマーク テクノロジー / score: 75 (大規模サイバー攻撃からの復旧事例でセキュリティ対策に有益)</description>
 </item>
 <item>
 <title>[75] Cognition、AIコーディング「Devin」でクラウド上のmacOS環境に対応</title>
@@ -789,22 +805,6 @@
 <pubDate>Thu, 17 Sep 2026 15:59:39 +0000</pubDate>
 <category>Publickey</category>
 <description>データベースサービスを提供しているPlanetScaleは、PostgreSQLのシャーディングを自動化してスケーラブルなデータベースサービスを提供する「Neki」をプレビュー公開しました。 118,538,803 queries per ... — Publickey / score: 75 (PostgreSQLの自動シャーディング新DBサービスのプレビュー公開)</description>
-</item>
-<item>
-<title>[75] Amazon Corretto 27 is now generally available</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-corretto-27-generally-available/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-corretto-27-generally-available/</guid>
-<pubDate>Thu, 17 Sep 2026 00:00:31 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Amazon Corretto 27, a Feature Release (FR) version, is now available for download. Amazon Corretto is a no-cost, multi-platform, production-ready distribution of OpenJDK . You can download Corretto 27 for Linux, Windows, and macOS from our downloads page . Corretto 27 will be supported through April 2027. Noticeable features: G1 as the Default Garbage Collector in All Environments - Makes G1 the default garbage collector across all environments, delivering more consistent performance and predict — AWS What's New / score: 75 (Amazon Corretto 27の一般提供開始)</description>
-</item>
-<item>
-<title>[75] Our framework for reporting model misalignment</title>
-<link>https://openai.com/index/model-misalignment-reporting-framework</link>
-<guid isPermaLink="true">https://openai.com/index/model-misalignment-reporting-framework</guid>
-<pubDate>Wed, 16 Sep 2026 17:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior. — OpenAI News / score: 75 (OpenAIによるモデルの不整合報告フレームワーク)</description>
 </item>
 </channel>
 </rss>
