@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sat, 26 Sep 2026 02:12:12 +0000</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 04:10:50 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Apache Tomcat」「Apache Tomcat Native」に最大深刻度“CRITICAL”の脆弱性／最新バージョンへの更新を</title>
@@ -125,14 +125,6 @@
 <pubDate>Fri, 25 Sep 2026 14:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>Introduction As an update to the June 2026 post, ShinyHunters Targets Education Sector with Oracle PeopleSoft Exploit , Mandiant and Google Threat Intelligence Group (GTIG) have identified renewed mass exploitation of CVE-2026-35273 by UNC6240 (ShinyHunters), along with expanded global targeting across multiple sectors. In June, the threat actor exploited this vulnerability as a zero-day predominantly against academic institutions. This new wave of activity stems from UNC6240 modifying its explo — Google Cloud Blog / score: 85 (Oracle PeopleSoftを狙う大規模脆弱性攻撃)</description>
-</item>
-<item>
-<title>[85] Microsoftが次世代「Copilot」を発表=「Home」「Code」「Autopilot」でAI時代の働き方を再定義</title>
-<link>https://ascii.jp/elem/000/004/437/4437076/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/437/4437076/?rss</guid>
-<pubDate>Fri, 25 Sep 2026 12:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>次世代「Microsoft Copilot」は従来のオフィスツールと連携しつつ、生成AIとの対話から自律的なタスク実行、ノーコードでのアプリ開発までを一体化させた新しいプラットフォームへと進化します — ASCII.jp / score: 85 (Microsoft Copilotの次世代プラットフォーム発表)</description>
 </item>
 <item>
 <title>[85] Cursor、GitHubの新たな代替となるAIエージェントネイティブな開発基盤「Origin」を公開</title>
@@ -599,14 +591,6 @@
 <description>米Googleは9月24日（現地時間）、「Gemini 3.8 Live with Live Avatar」を発表した。先週発表した音声対話モデル「Gemini 3.8 Live」に、声に合わせて動くアバター機能「Live Avatar」を追加したもので、同日より「Gemini Enterprise」で提供される。 — 窓の杜 / score: 75 (Googleの音声対話AIへのアバター機能追加の発表)</description>
 </item>
 <item>
-<title>[75] Googleが宇宙にAIデータセンターを設置する実証実験「Project Suncatcher」でAI専用チップ・TPUを搭載した人工衛星を10月1日に打ち上げ</title>
-<link>https://gigazine.net/news/20260925-google-project-suncatcher/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260925-google-project-suncatcher/</guid>
-<pubDate>Fri, 25 Sep 2026 02:08:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>現地時間の2026年9月24日、Googleは地球の軌道上でAI向けデータセンターを稼働させる「Project Suncatcher」の初期実験として、Google製AIチップである「TPU」が宇宙空間でどのように機能するかを評価するためのプロトタイプ衛星を2026年10月1日に打ち上げると発表しました。 続きを読む... — GIGAZINE / score: 75 (Googleによる宇宙AIデータセンター実証実験の計画詳細)</description>
-</item>
-<item>
 <title>[75] Claude Opus 5.5 の「40%安い」は、キャッシュの当たり方で24%にも59%にもなった</title>
 <link>https://qiita.com/suwa_nobu/items/870b1d6c5502aca68f55?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
 <guid isPermaLink="true">https://qiita.com/suwa_nobu/items/870b1d6c5502aca68f55?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
@@ -805,6 +789,22 @@
 <pubDate>Wed, 16 Sep 2026 17:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior. — OpenAI News / score: 75 (OpenAIによるモデルの不整合報告フレームワーク)</description>
+</item>
+<item>
+<title>[75] Android、パスキーをパスワードマネージャ間で転送可能に。Googleパスワードマネージャ、1Password、Bitwarden、Dashlaneなどが対応</title>
+<link>https://www.publickey1.jp/blog/26/androidgoogle1passwordbitwardendashlane.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/androidgoogle1passwordbitwardendashlane.html</guid>
+<pubDate>Wed, 16 Sep 2026 15:51:54 +0000</pubDate>
+<category>Publickey</category>
+<description>Googleは、Android上で利用可能なパスワードマネージャの間で、パスキーの転送を可能にしたと発表しました。 これにより、例えばGoogleパスワードマネージャに登録したパスキーを1PasswordやBitwardenなどの他のパスワ... — Publickey / score: 75 (パスキーのマネージャ間転送は利便性と標準化に貢献)</description>
+</item>
+<item>
+<title>[75] オープンソースのコーディングエージェントClineのデスクトップアプリ「Cline Desktop」が登場</title>
+<link>https://gihyo.jp/article/2026/09/cline-desktop?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/09/cline-desktop?utm_source=feed</guid>
+<pubDate>Tue, 15 Sep 2026 02:56:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Cline Bot Inc.は2026年9月14日、オープンソースのコーディングエージェントClineのデスクトップ版「Cline Desktop」をベータ版として公開した。macOSおよびWindows上で動作する。 — gihyo.jp / score: 75 (人気OSSコーディングエージェントのデスクトップ版登場)</description>
 </item>
 </channel>
 </rss>
