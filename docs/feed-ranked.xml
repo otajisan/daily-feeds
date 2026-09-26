@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sat, 26 Sep 2026 08:12:22 +0000</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 10:08:32 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Apache Tomcat」「Apache Tomcat Native」に最大深刻度“CRITICAL”の脆弱性／最新バージョンへの更新を</title>
@@ -45,14 +45,6 @@
 <pubDate>Sat, 26 Sep 2026 04:00:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 90 (Next.jsの複数脆弱性に対する緊急セキュリティリリース予定)</description>
-</item>
-<item>
-<title>[90] Gyazoへの不正アクセス、新たに約1.74億件の画像メタデータ流出</title>
-<link>https://www.itmedia.co.jp/news/article/2609/25/2000001772/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2609/25/2000001772/</guid>
-<pubDate>Fri, 25 Sep 2026 11:39:26 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>AIを活用したナレッジ共有サービスなどを手掛けるHelpfeelは9月25日、画像共有サービス「Gyazo（ギャゾー）」への不正アクセスに関する第二報を発表した。16日の第一報後の調査で、ユーザーが過去に削除した画像のメタデータ約1億7400万件も外部に流出していたことを新たに確認したという。 新たな流出の対象は、主に202... — はてなブックマーク テクノロジー / score: 90 (Gyazoの大規模な画像メタデータ流出事案)</description>
 </item>
 <item>
 <title>[90] スクリプト言語「PHP」にセキュリティ更新、v8.5.11、v8.4.26、v8.3.35、v8.2.34が公開／v8.2シリーズのサポートは年内まで、後継バージョンへの移行準備を</title>
@@ -327,14 +319,6 @@
 <description>サイバーセキュリティ企業のChainguardは、人工知能（AI）を活用して、広く利用されているオープンソースソフトウェアの脆弱性を、攻撃者が悪用する前に発見・修正することを目的とした業界連合Athenaの発足を発表した。 創設メンバーは20社以上にのぼり、BNYやJPMorgan Chaseといった金融機関に加え、Cisco、Cloudflare、Docker、Kyndryl、PwCなどのインフラおよびセキュリティベンダーが名を連ねている。この連合は、ウェブブラウザ、データセンター、スマートフォン、決済システムを支えるライブラリ、コンテナ、その他のコンポーネントに焦点を当てている。 By Matt Saunders Translated by Takashi Kawase — InfoQ Japan / score: 85 (オープンソースのセキュリティ向上を目指す新連合の発足)</description>
 </item>
 <item>
-<title>[85] The Arrival of Java 27!</title>
-<link>https://inside.java/2026/09/15/jdk-27-available/</link>
-<guid isPermaLink="true">https://inside.java/2026/09/15/jdk-27-available/</guid>
-<pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-<category>Inside Java</category>
-<description>JDK 27 is now available! Oracle is proud to announce the general availability of JDK 27 for developers, enterprises, and end-users. — Inside Java / score: 85 (JDK 27の一般提供開始に関する公式アナウンス)</description>
-</item>
-<item>
 <title>[85] Perplexity trusts GPT-6 Astra with end-to-end systems</title>
 <link>https://openai.com/index/perplexity-improving-accuracy-with-astra</link>
 <guid isPermaLink="true">https://openai.com/index/perplexity-improving-accuracy-with-astra</guid>
@@ -357,6 +341,14 @@
 <pubDate>Wed, 16 Sep 2026 02:01:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Googleは2026年9月15日、音声対話AIモデル「Gemini 3.8 Live」と「Gemini 3.8 Live Extended Thinking」を発表した。 — gihyo.jp / score: 82 (Googleの音声対話型AIの新モデル発表)</description>
+</item>
+<item>
+<title>[80] GitHub、Copilot Business／Enterpriseに新機能のデフォルトポリシーを導入</title>
+<link>https://codezine.jp/article/detail/29810</link>
+<guid isPermaLink="true">https://codezine.jp/article/detail/29810</guid>
+<pubDate>Sat, 26 Sep 2026 08:00:00 +0000</pubDate>
+<category>CodeZine</category>
+<description> — CodeZine / score: 80 (GitHub Copilotの新ポリシー導入)</description>
 </item>
 <item>
 <title>[80] Platform-independent SIMD in Go - The Go Programming Language</title>
@@ -389,14 +381,6 @@
 <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
 <category>Spring Blog</category>
 <description>On behalf of the team and everyone who has contributed, I'm happy to announce that Spring Boot 4.2.0-M2 has been released and is now available from Maven Central. This release includes 141 enhancements, documentation improvements, dependency upgrades, and bug fixes . Notable new features include: SSL bundle support for LDAP, including LDAPS support for the embedded LDAP server. Support for OpenTelemetry's semantic conventions, alongside common OTLP endpoint, header, and compression configuration — Spring Blog / score: 80 (主要フレームワークSpring Bootのマイナーリリース)</description>
-</item>
-<item>
-<title>[80] GitHub Actions、Node 20の提供を終了　JavaScriptアクションはNode 24で実行</title>
-<link>https://codezine.jp/article/detail/29779</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/29779</guid>
-<pubDate>Thu, 24 Sep 2026 23:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 80 (GitHub ActionsにおけるNode.jsのバージョン変更。)</description>
 </item>
 <item>
 <title>[80] AWS Network Security Manager is now generally available in US East (N. Virginia) Region</title>
@@ -527,12 +511,28 @@
 <description>Microsoftは9月25日、Microsoft Copilotの大型アップデートを発表した。ChatとCoworkをまとめる「Home」、自然言語でアプリを作成する「Code」、継続的に業務を進めるAIエージェント「Autopilot」を軸に、対話や文書作成、アプリ開発を一つのアプリに集約し、指定した作業をAIに任せることもできる。 — gihyo.jp / score: 75 (Microsoft Copilotの大型機能アップデート)</description>
 </item>
 <item>
+<title>[75] 情シス全員がグローバル管理者になっていませんか？ ～ Microsoft Entra PIM で始める特権管理</title>
+<link>https://qiita.com/carol0226/items/5b42b547f102fa8a17a4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/carol0226/items/5b42b547f102fa8a17a4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Sat, 26 Sep 2026 02:36:22 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>はじめに あなたの組織では、情報システム部のメンバーへ、全員 グローバル管理者 のロールが永続的に付与されている状況になっているということは無いですか？ 管理操作を行うんだから当たり前じゃないか...と思われるかもしれませんが、これには大きなセキュリティリスクが潜んでいる... — Qiita 人気記事 / score: 75 (Entra PIMによる特権管理のセキュリティ対策)</description>
+</item>
+<item>
 <title>[75] Amazon BedrockとClaude Platform on AWSで「Claude Opus 5.5」を提供開始</title>
 <link>https://codezine.jp/article/detail/29808</link>
 <guid isPermaLink="true">https://codezine.jp/article/detail/29808</guid>
 <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 75 (Amazon BedrockでのClaude Opus 5.5提供)</description>
+</item>
+<item>
+<title>[75] JEP targeted to JDK 28: 539: Strict Field Initialization in the JVM (Preview)</title>
+<link>https://inside.java/2026/09/26/jep539-target-jdk28/</link>
+<guid isPermaLink="true">https://inside.java/2026/09/26/jep539-target-jdk28/</guid>
+<pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+<category>Inside Java</category>
+<description>The following JEP is targeted to JDK 28: 539: Strict Field Initialization in the JVM (Preview) — Inside Java / score: 75 (JDK 28の新機能JEPターゲット発表)</description>
 </item>
 <item>
 <title>[75] Unlock 3x QPS and microsecond latency with Memorystore for Valkey 9.1</title>
@@ -549,14 +549,6 @@
 <pubDate>Fri, 25 Sep 2026 14:55:16 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>Run agents on your laptop, in the cloud, and move between them with one command, all safely. Earlier this year, we launched Docker Sandboxes: microVM environments where coding agents can work autonomously and safely. Since then, agents have started taking on long-horizon work: tasks that run for ... — はてなブックマーク テクノロジー / score: 75 (DockerによるAIエージェント向けクラウドサンドボックス発表)</description>
-</item>
-<item>
-<title>[75] Introducing the new Copilot with Home, Code and Autopilot - The Official Microsoft Blog</title>
-<link>https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/</link>
-<guid isPermaLink="true">https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/</guid>
-<pubDate>Fri, 25 Sep 2026 13:16:54 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the flow of human ambition. Today we’re introducing the new Copilot to connect the tools people rely on with the next generation of capabilities they’... — はてなブックマーク テクノロジー / score: 75 (Microsoft Copilotの大規模な機能刷新の発表)</description>
 </item>
 <item>
 <title>[75] Microsoft、新しい業務向け「Copilot」を発表 ～エージェント機能などを統合／新機能「Home」「Code」「Autopilot」を追加</title>
@@ -805,6 +797,14 @@
 <pubDate>Thu, 17 Sep 2026 15:59:39 +0000</pubDate>
 <category>Publickey</category>
 <description>データベースサービスを提供しているPlanetScaleは、PostgreSQLのシャーディングを自動化してスケーラブルなデータベースサービスを提供する「Neki」をプレビュー公開しました。 118,538,803 queries per ... — Publickey / score: 75 (PostgreSQLの自動シャーディング新DBサービスのプレビュー公開)</description>
+</item>
+<item>
+<title>[75] Amazon Corretto 27 is now generally available</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-corretto-27-generally-available/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-corretto-27-generally-available/</guid>
+<pubDate>Thu, 17 Sep 2026 00:00:31 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon Corretto 27, a Feature Release (FR) version, is now available for download. Amazon Corretto is a no-cost, multi-platform, production-ready distribution of OpenJDK . You can download Corretto 27 for Linux, Windows, and macOS from our downloads page . Corretto 27 will be supported through April 2027. Noticeable features: G1 as the Default Garbage Collector in All Environments - Makes G1 the default garbage collector across all environments, delivering more consistent performance and predict — AWS What's New / score: 75 (Amazon Corretto 27の一般提供開始)</description>
 </item>
 </channel>
 </rss>
