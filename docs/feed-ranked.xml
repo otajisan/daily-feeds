@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sat, 26 Sep 2026 04:10:50 +0000</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 06:14:44 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Apache Tomcat」「Apache Tomcat Native」に最大深刻度“CRITICAL”の脆弱性／最新バージョンへの更新を</title>
@@ -39,6 +39,14 @@
 <description>米Googleは9月17日（現地時間、以下同）、デスクトップ向け「Google Chrome」の安定（Stable）チャネルをアップデートした。現在、Windows/Mac環境にはv153.0.8010.52/.53、Linux環境にはv153.0.8010.52が展開されている。 — 窓の杜 / score: 95 (Google Chromeの致命的脆弱性に対処する緊急セキュリティ更新)</description>
 </item>
 <item>
+<title>[90] Next.jsが9月30日にセキュリティリリース予定、9件の脆弱性に対処</title>
+<link>https://codezine.jp/article/detail/29809</link>
+<guid isPermaLink="true">https://codezine.jp/article/detail/29809</guid>
+<pubDate>Sat, 26 Sep 2026 04:00:00 +0000</pubDate>
+<category>CodeZine</category>
+<description> — CodeZine / score: 90 (Next.jsの複数脆弱性に対する緊急セキュリティリリース予定)</description>
+</item>
+<item>
 <title>[90] Gyazoへの不正アクセス、新たに約1.74億件の画像メタデータ流出</title>
 <link>https://www.itmedia.co.jp/news/article/2609/25/2000001772/</link>
 <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2609/25/2000001772/</guid>
@@ -53,14 +61,6 @@
 <pubDate>Fri, 25 Sep 2026 05:45:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>スクリプト言語「PHP」の開発チームは9月24日（協定世界時）、「PHP」 v8.5.11、v8.4.26、v8.3.35、v8.2.34 を公開した。いずれもセキュリティリリースで、各系統の利用者にアップグレードが呼びかけられている。 — 窓の杜 / score: 90 (PHPの複数バージョンにおける重要なセキュリティアップデート)</description>
-</item>
-<item>
-<title>[90] RSAを素因数分解せずに破る攻撃を大規模実証、1024ビットRSAの署名偽造に成功</title>
-<link>https://gigazine.net/news/20260925-rsa-nsnfsssfsfn/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260925-rsa-nsnfsssfsfn/</guid>
-<pubDate>Fri, 25 Sep 2026 02:10:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>カリフォルニア大学サンディエゴ校とフランス国立デジタル科学技術研究所Inriaの研究チームが、RSAの公開鍵を素因数分解することなく、1024ビットRSAの署名を偽造できる攻撃を大規模な計算実験で実証しました。 続きを読む... — GIGAZINE / score: 90 (RSA暗号の署名偽造攻撃の実証成功に関するセキュリティニュース)</description>
 </item>
 <item>
 <title>[90] Upcoming Next.js September Security Release</title>
@@ -511,6 +511,14 @@
 <description>MCPやAGENTS.md、Agent2AgentプロトコルなどのAIエージェントに関する関連技術の標準化推進や開発などを行うLinux Foundation傘下のAgentic AI Foundation（AAIF）は、オープンソースとし... — Publickey / score: 80 (AIベンダーのAPI統合OSS登場で業界に影響)</description>
 </item>
 <item>
+<title>[75] Microsoft、Copilotの大型アップデートを発表 ——Home・Code・Autopilotで対話からアプリ作成、作業の実行まで</title>
+<link>https://gihyo.jp/article/2026/09/microsoft-copilot-updates-with-home-code-autopilot?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/09/microsoft-copilot-updates-with-home-code-autopilot?utm_source=feed</guid>
+<pubDate>Sat, 26 Sep 2026 03:04:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Microsoftは9月25日、Microsoft Copilotの大型アップデートを発表した。ChatとCoworkをまとめる「Home」、自然言語でアプリを作成する「Code」、継続的に業務を進めるAIエージェント「Autopilot」を軸に、対話や文書作成、アプリ開発を一つのアプリに集約し、指定した作業をAIに任せることもできる。 — gihyo.jp / score: 75 (Microsoft Copilotの大型機能アップデート)</description>
+</item>
+<item>
 <title>[75] Amazon BedrockとClaude Platform on AWSで「Claude Opus 5.5」を提供開始</title>
 <link>https://codezine.jp/article/detail/29808</link>
 <guid isPermaLink="true">https://codezine.jp/article/detail/29808</guid>
@@ -525,6 +533,14 @@
 <pubDate>Fri, 25 Sep 2026 16:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>At Google Cloud, we are committed to delivering the best managed experience backed by open source software. Today, we’re announcing the general availability of Memorystore for Valkey 9.1 , which achieves up to 3x queries per second (QPS) at microsecond latency compared to Memorystore for Redis Cluster. Our support for Valkey dates back to 2024 , when Redis Inc. shifted its licensing away from the permissive open-source BSD license to a dual-license model. In response, Google Cloud, alongside oth — Google Cloud Blog / score: 75 (Google CloudによるValkeyマネージドサービスの一般提供)</description>
+</item>
+<item>
+<title>[75] Introducing Cloud Sandboxes: Start on Your Laptop, Finish in the Cloud | Docker</title>
+<link>https://www.docker.com/blog/introducing-cloud-sandboxes-start-on-your-laptop-finish-in-the-cloud/</link>
+<guid isPermaLink="true">https://www.docker.com/blog/introducing-cloud-sandboxes-start-on-your-laptop-finish-in-the-cloud/</guid>
+<pubDate>Fri, 25 Sep 2026 14:55:16 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Run agents on your laptop, in the cloud, and move between them with one command, all safely. Earlier this year, we launched Docker Sandboxes: microVM environments where coding agents can work autonomously and safely. Since then, agents have started taking on long-horizon work: tasks that run for ... — はてなブックマーク テクノロジー / score: 75 (DockerによるAIエージェント向けクラウドサンドボックス発表)</description>
 </item>
 <item>
 <title>[75] Introducing the new Copilot with Home, Code and Autopilot - The Official Microsoft Blog</title>
@@ -789,22 +805,6 @@
 <pubDate>Wed, 16 Sep 2026 17:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior. — OpenAI News / score: 75 (OpenAIによるモデルの不整合報告フレームワーク)</description>
-</item>
-<item>
-<title>[75] Android、パスキーをパスワードマネージャ間で転送可能に。Googleパスワードマネージャ、1Password、Bitwarden、Dashlaneなどが対応</title>
-<link>https://www.publickey1.jp/blog/26/androidgoogle1passwordbitwardendashlane.html</link>
-<guid isPermaLink="true">https://www.publickey1.jp/blog/26/androidgoogle1passwordbitwardendashlane.html</guid>
-<pubDate>Wed, 16 Sep 2026 15:51:54 +0000</pubDate>
-<category>Publickey</category>
-<description>Googleは、Android上で利用可能なパスワードマネージャの間で、パスキーの転送を可能にしたと発表しました。 これにより、例えばGoogleパスワードマネージャに登録したパスキーを1PasswordやBitwardenなどの他のパスワ... — Publickey / score: 75 (パスキーのマネージャ間転送は利便性と標準化に貢献)</description>
-</item>
-<item>
-<title>[75] オープンソースのコーディングエージェントClineのデスクトップアプリ「Cline Desktop」が登場</title>
-<link>https://gihyo.jp/article/2026/09/cline-desktop?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/09/cline-desktop?utm_source=feed</guid>
-<pubDate>Tue, 15 Sep 2026 02:56:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Cline Bot Inc.は2026年9月14日、オープンソースのコーディングエージェントClineのデスクトップ版「Cline Desktop」をベータ版として公開した。macOSおよびWindows上で動作する。 — gihyo.jp / score: 75 (人気OSSコーディングエージェントのデスクトップ版登場)</description>
 </item>
 </channel>
 </rss>
