@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 25 Sep 2026 22:08:49 +0000</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 00:24:02 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Apache Tomcat」「Apache Tomcat Native」に最大深刻度“CRITICAL”の脆弱性／最新バージョンへの更新を</title>
@@ -39,6 +39,14 @@
 <description>米Googleは9月17日（現地時間、以下同）、デスクトップ向け「Google Chrome」の安定（Stable）チャネルをアップデートした。現在、Windows/Mac環境にはv153.0.8010.52/.53、Linux環境にはv153.0.8010.52が展開されている。 — 窓の杜 / score: 95 (Google Chromeの致命的脆弱性に対処する緊急セキュリティ更新)</description>
 </item>
 <item>
+<title>[90] Gyazoへの不正アクセス、新たに約1.74億件の画像メタデータ流出</title>
+<link>https://www.itmedia.co.jp/news/article/2609/25/2000001772/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2609/25/2000001772/</guid>
+<pubDate>Fri, 25 Sep 2026 11:39:26 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>AIを活用したナレッジ共有サービスなどを手掛けるHelpfeelは9月25日、画像共有サービス「Gyazo（ギャゾー）」への不正アクセスに関する第二報を発表した。16日の第一報後の調査で、ユーザーが過去に削除した画像のメタデータ約1億7400万件も外部に流出していたことを新たに確認したという。 新たな流出の対象は、主に202... — はてなブックマーク テクノロジー / score: 90 (Gyazoの大規模な画像メタデータ流出事案)</description>
+</item>
+<item>
 <title>[90] スクリプト言語「PHP」にセキュリティ更新、v8.5.11、v8.4.26、v8.3.35、v8.2.34が公開／v8.2シリーズのサポートは年内まで、後継バージョンへの移行準備を</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2143091.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2143091.html</guid>
@@ -50,9 +58,9 @@
 <title>[90] RSAを素因数分解せずに破る攻撃を大規模実証、1024ビットRSAの署名偽造に成功</title>
 <link>https://gigazine.net/news/20260925-rsa-nsnfsssfsfn/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260925-rsa-nsnfsssfsfn/</guid>
-<pubDate>Fri, 25 Sep 2026 02:19:01 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>カリフォルニア大学サンディエゴ校とフランス国立デジタル科学技術研究所Inriaの研究チームが、RSAの公開鍵を素因数分解することなく、1024ビットRSAの署名を偽造できる攻撃を大規模な計算実験で実証しました。 ucsd-hacc/NSNFSSSFSFN: Nearly SNFS-Speed Signature Forgery Sans Factoring N https://github.com/ucsd-h... — はてなブックマーク テクノロジー / score: 90 (RSA暗号の署名偽造攻撃の実証成功に関するセキュリティニュース)</description>
+<pubDate>Fri, 25 Sep 2026 02:10:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>カリフォルニア大学サンディエゴ校とフランス国立デジタル科学技術研究所Inriaの研究チームが、RSAの公開鍵を素因数分解することなく、1024ビットRSAの署名を偽造できる攻撃を大規模な計算実験で実証しました。 続きを読む... — GIGAZINE / score: 90 (RSA暗号の署名偽造攻撃の実証成功に関するセキュリティニュース)</description>
 </item>
 <item>
 <title>[90] Upcoming Next.js September Security Release</title>
@@ -103,6 +111,14 @@
 <description>Be alert: targeted attacks on prominent Rustaceans Important warning from Adam Harvey and the crates security team: We believe that there is an ongoing campaign targeting rust-lang members and owners of popular crates that is attempting to compromise devices and accounts in order to use them to publish malware. A video call is set up for something positive — maybe for a job, maybe for a project, maybe for a contract opportunity — and then that's used as a vector to either get the target to insta — Simon Willison / score: 90 (Rust言語関係者を狙った標的型攻撃の重要警告)</description>
 </item>
 <item>
+<title>[85] ShinyHunters Renewed Mass Exploitation Campaign Targeting Oracle PeopleSoft</title>
+<link>https://cloud.google.com/blog/topics/threat-intelligence/shinyhunters-renewed-mass-exploitation-campaign-targeting-oracle-peoplesoft/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/threat-intelligence/shinyhunters-renewed-mass-exploitation-campaign-targeting-oracle-peoplesoft/</guid>
+<pubDate>Fri, 25 Sep 2026 14:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Introduction As an update to the June 2026 post, ShinyHunters Targets Education Sector with Oracle PeopleSoft Exploit , Mandiant and Google Threat Intelligence Group (GTIG) have identified renewed mass exploitation of CVE-2026-35273 by UNC6240 (ShinyHunters), along with expanded global targeting across multiple sectors. In June, the threat actor exploited this vulnerability as a zero-day predominantly against academic institutions. This new wave of activity stems from UNC6240 modifying its explo — Google Cloud Blog / score: 85 (Oracle PeopleSoftを狙う大規模脆弱性攻撃)</description>
+</item>
+<item>
 <title>[85] Microsoftが次世代「Copilot」を発表=「Home」「Code」「Autopilot」でAI時代の働き方を再定義</title>
 <link>https://ascii.jp/elem/000/004/437/4437076/?rss</link>
 <guid isPermaLink="true">https://ascii.jp/elem/000/004/437/4437076/?rss</guid>
@@ -125,14 +141,6 @@
 <pubDate>Fri, 25 Sep 2026 03:59:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>OpenAIのAIエージェントが、オーストラリアの公的医療サービス・メディケアなど4つのシステムにハッキングを仕掛けていたことがわかりました。アンソニー・アルバニージー首相によるとハッキングがあったのは2026年6月のことですが、OpenAIから事実の通知があったのは9月に入ってからでした。 続きを読む... — GIGAZINE / score: 85 (AIエージェントによる政府機関のハッキング事例)</description>
-</item>
-<item>
-<title>[85] Mac向けパッケージマネージャー「Homebrew 7.0.0」がリリース</title>
-<link>https://codezine.jp/article/detail/29785</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/29785</guid>
-<pubDate>Thu, 24 Sep 2026 22:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 85 (主要パッケージマネージャーのメジャーリリース)</description>
 </item>
 <item>
 <title>[85] Introducing Gemini 3.8 Live with Live Avatar</title>
@@ -503,6 +511,14 @@
 <description>MCPやAGENTS.md、Agent2AgentプロトコルなどのAIエージェントに関する関連技術の標準化推進や開発などを行うLinux Foundation傘下のAgentic AI Foundation（AAIF）は、オープンソースとし... — Publickey / score: 80 (AIベンダーのAPI統合OSS登場で業界に影響)</description>
 </item>
 <item>
+<title>[75] Amazon BedrockとClaude Platform on AWSで「Claude Opus 5.5」を提供開始</title>
+<link>https://codezine.jp/article/detail/29808</link>
+<guid isPermaLink="true">https://codezine.jp/article/detail/29808</guid>
+<pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+<category>CodeZine</category>
+<description> — CodeZine / score: 75 (Amazon BedrockでのClaude Opus 5.5提供)</description>
+</item>
+<item>
 <title>[75] Unlock 3x QPS and microsecond latency with Memorystore for Valkey 9.1</title>
 <link>https://cloud.google.com/blog/products/databases/memorystore-for-valkey-9-1-3x-qps-caching/</link>
 <guid isPermaLink="true">https://cloud.google.com/blog/products/databases/memorystore-for-valkey-9-1-3x-qps-caching/</guid>
@@ -525,14 +541,6 @@
 <pubDate>Fri, 25 Sep 2026 07:30:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 75 (AIコーディングツールのクラウド環境対応)</description>
-</item>
-<item>
-<title>[75] JCOMのインターネット接続サービス障害についてまとめてみた - piyolog</title>
-<link>https://piyolog.hatenadiary.jp/entry/2026/09/25/145617</link>
-<guid isPermaLink="true">https://piyolog.hatenadiary.jp/entry/2026/09/25/145617</guid>
-<pubDate>Fri, 25 Sep 2026 07:00:46 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>2026年9月23日、JCOMが提供するインターネット接続サービス等で、全国規模の通信障害が発生しました。JCOMは同日夜に復旧を確認し、翌24日には影響規模と原因を公表しています。ここでは関連する情報をまとめます。 J:COM NETなど複数サービスに通信障害 JCOM株式会社は2026年9月23日8時55分頃から18時頃にかけてインタ... — はてなブックマーク テクノロジー / score: 75 (大規模なインターネット通信障害のまとめと原因解説)</description>
 </item>
 <item>
 <title>[75] 一部のWindows 11環境でサインイン後に画面が真っ黒に ～8月のプレビューパッチが原因／Microsoftが回避策を案内、今後の更新プログラムで解決へ</title>
@@ -597,14 +605,6 @@
 <pubDate>Fri, 25 Sep 2026 01:29:11 +0000</pubDate>
 <category>Qiita 人気記事</category>
 <description>Claude Opus 5.5 が 2026-09-22 に出ました。公式の発表はこうです。 Our tests show that at default settings it will cost 40% less than Opus 5 on typical work... — Qiita 人気記事 / score: 75 (新型LLMのコスト実測とベンチマーク検証)</description>
-</item>
-<item>
-<title>[75] Cloudflare、AIトレーニングを拒否する新設定を発表</title>
-<link>https://codezine.jp/article/detail/29786</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/29786</guid>
-<pubDate>Thu, 24 Sep 2026 22:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 75 (CloudflareによるAI関連の重要設定)</description>
 </item>
 <item>
 <title>[75] 「Python」のWindowsフルインストーラーが引退へ、「3.16」以降は提供されず／これからは「Python Install Manager」で導入・管理</title>
