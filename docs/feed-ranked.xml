@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sun, 27 Sep 2026 02:16:45 +0000</lastBuildDate>
+<lastBuildDate>Sun, 27 Sep 2026 04:10:58 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Apache Tomcat」「Apache Tomcat Native」に最大深刻度“CRITICAL”の脆弱性／最新バージョンへの更新を</title>
@@ -109,14 +109,6 @@
 <pubDate>Sat, 26 Sep 2026 09:53:04 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>米オープンAIは25日、対話型AI（人工知能）サービス「ChatGPT（チャットGPT）」の利用者が対話で使用した画像を、同社のAIが勝手に外部に流出させていたことを明らかにした。ロイター通信などが… — はてなブックマーク テクノロジー / score: 85 (ChatGPTの画像流出という重大なセキュリティ脆弱性)</description>
-</item>
-<item>
-<title>[85] チャットGPTの投稿画像、意図せず画像共有サイトに流出　オープンAIが明らかに（2026年9月26日掲載）｜日テレNEWS NNN</title>
-<link>https://news.ntv.co.jp/category/international/5db536133c6c4e8281e735075eeabd92</link>
-<guid isPermaLink="true">https://news.ntv.co.jp/category/international/5db536133c6c4e8281e735075eeabd92</guid>
-<pubDate>Sat, 26 Sep 2026 06:15:59 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>アメリカのAI大手オープンAIは25日、チャットGPTの利用者が投稿した画像が、AIによって、意図せず画像共有サイトに流出していたことを明らかにしました。 オープンAIによりますと、チャットGPTの利用者が投稿した画像が、AIによって意図しない形で画像共有サイトに流出した事例が53件あったということです。 大半はすで... — はてなブックマーク テクノロジー / score: 85 (ChatGPTの画像流出という重大なセキュリティインシデント)</description>
 </item>
 <item>
 <title>[85] OpenAI意図せぬ外部接続「数十」</title>
@@ -591,14 +583,6 @@
 <description>はじめに 2026/8/25 のアップデートで AWS Lambda 関数が IAM のリソースベースポリシーの全機能をサポートするようになりました。 Lambda function URLs (関数 URL) では、リクエストの認証タイプに AWS_IAM を選択... — Qiita 人気記事 / score: 75 (AWS Lambda関数URLのIP制限機能検証)</description>
 </item>
 <item>
-<title>[75] 軽量な視覚言語モデル「LFM2.5-VL-3B」にDSparkのドラフトモデルを適用して爆速化した「LFM2.5-VL-3B-DSpark」が登場</title>
-<link>https://gigazine.net/news/20260925-lfm2-5-vl-dspark/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260925-lfm2-5-vl-dspark/</guid>
-<pubDate>Fri, 25 Sep 2026 04:49:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>アメリカに拠点を置くAI開発企業のLiquid AIが視覚言語モデル「LFM2.5-VL-3B-DSpark」を2026年9月24日に公開しました。LFM2.5-VL-3B-DSparkは「LFM2.5-VL-3B」に投機的デコード技術「DSpark」を適用したモデルで、性能を維持したまま数倍の高速化を実現しています。 続きを読む... — GIGAZINE / score: 75 (軽量視覚言語モデルの高速化技術に関するAIニュース)</description>
-</item>
-<item>
 <title>[75] Docker、エージェント権限に関するオープン仕様「Docker Sandbox Kit Specification」を公開、CNCFとの提携を発表</title>
 <link>https://gihyo.jp/article/2026/09/docker-sandbox-kit-spec?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/09/docker-sandbox-kit-spec?utm_source=feed</guid>
@@ -805,6 +789,22 @@
 <pubDate>Thu, 17 Sep 2026 00:00:31 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Amazon Corretto 27, a Feature Release (FR) version, is now available for download. Amazon Corretto is a no-cost, multi-platform, production-ready distribution of OpenJDK . You can download Corretto 27 for Linux, Windows, and macOS from our downloads page . Corretto 27 will be supported through April 2027. Noticeable features: G1 as the Default Garbage Collector in All Environments - Makes G1 the default garbage collector across all environments, delivering more consistent performance and predict — AWS What's New / score: 75 (Amazon Corretto 27の一般提供開始)</description>
+</item>
+<item>
+<title>[75] Our framework for reporting model misalignment</title>
+<link>https://openai.com/index/model-misalignment-reporting-framework</link>
+<guid isPermaLink="true">https://openai.com/index/model-misalignment-reporting-framework</guid>
+<pubDate>Wed, 16 Sep 2026 17:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior. — OpenAI News / score: 75 (OpenAIによるモデルの不整合報告フレームワーク)</description>
+</item>
+<item>
+<title>[75] Android、パスキーをパスワードマネージャ間で転送可能に。Googleパスワードマネージャ、1Password、Bitwarden、Dashlaneなどが対応</title>
+<link>https://www.publickey1.jp/blog/26/androidgoogle1passwordbitwardendashlane.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/androidgoogle1passwordbitwardendashlane.html</guid>
+<pubDate>Wed, 16 Sep 2026 15:51:54 +0000</pubDate>
+<category>Publickey</category>
+<description>Googleは、Android上で利用可能なパスワードマネージャの間で、パスキーの転送を可能にしたと発表しました。 これにより、例えばGoogleパスワードマネージャに登録したパスキーを1PasswordやBitwardenなどの他のパスワ... — Publickey / score: 75 (パスキーのマネージャ間転送は利便性と標準化に貢献)</description>
 </item>
 </channel>
 </rss>
