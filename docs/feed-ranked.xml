@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sun, 27 Sep 2026 08:11:58 +0000</lastBuildDate>
+<lastBuildDate>Sun, 27 Sep 2026 10:08:45 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Apache Tomcat」「Apache Tomcat Native」に最大深刻度“CRITICAL”の脆弱性／最新バージョンへの更新を</title>
@@ -37,6 +37,14 @@
 <pubDate>Fri, 18 Sep 2026 07:54:25 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Googleは9月17日（現地時間、以下同）、デスクトップ向け「Google Chrome」の安定（Stable）チャネルをアップデートした。現在、Windows/Mac環境にはv153.0.8010.52/.53、Linux環境にはv153.0.8010.52が展開されている。 — 窓の杜 / score: 95 (Google Chromeの致命的脆弱性に対処する緊急セキュリティ更新)</description>
+</item>
+<item>
+<title>[90] ランサムウェア攻撃によるシステム障害に関するお知らせとお詫び | お知らせ | 京王電鉄</title>
+<link>https://www.keio.co.jp/news/update/announce/nr260926v13404/</link>
+<guid isPermaLink="true">https://www.keio.co.jp/news/update/announce/nr260926v13404/</guid>
+<pubDate>Sat, 26 Sep 2026 14:20:29 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>２０２６年９月２６日 京王電鉄株式会社 ランサムウェア攻撃によるシステム障害に関するお知らせとお詫び 京王電鉄株式会社（以下「当社」）は、ランサムウェアによる攻撃の影響でシステム障害が発生していることを２０２６年９月２６日未明に確認いたしました。現在、当社の事業に関する機密事項やお客様に関する情報な... — はてなブックマーク テクノロジー / score: 90 (京王電鉄のランサムウェア攻撃によるシステム障害)</description>
 </item>
 <item>
 <title>[90] Next.jsが9月30日にセキュリティリリース予定、9件の脆弱性に対処</title>
@@ -101,6 +109,14 @@
 <pubDate>Thu, 17 Sep 2026 23:59:19 +0000</pubDate>
 <category>Simon Willison</category>
 <description>Be alert: targeted attacks on prominent Rustaceans Important warning from Adam Harvey and the crates security team: We believe that there is an ongoing campaign targeting rust-lang members and owners of popular crates that is attempting to compromise devices and accounts in order to use them to publish malware. A video call is set up for something positive — maybe for a job, maybe for a project, maybe for a contract opportunity — and then that's used as a vector to either get the target to insta — Simon Willison / score: 90 (Rust言語関係者を狙った標的型攻撃の重要警告)</description>
+</item>
+<item>
+<title>[85] 東京メトロ 不正アクセスでメールアドレス 約5万9000件流出か | NHKニュース</title>
+<link>https://news.web.nhk/newsweb/na/nd-20260927de52694</link>
+<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260927de52694</guid>
+<pubDate>Sun, 27 Sep 2026 06:57:31 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>東京メトロは不正アクセスを受け、ポイントサービスに登録している会員のメールアドレスおよそ5万9000件が外部に流出した可能性があると発表しました。鉄道の運行に影響はないということです。 東京メトロ… — はてなブックマーク テクノロジー / score: 85 (東京メトロの不正アクセスによる情報流出)</description>
 </item>
 <item>
 <title>[85] 東京メトロ メアド5.9万件漏洩か</title>
@@ -311,14 +327,6 @@
 <description>オラクルはJavaの最新バージョン「Java 27」正式版をリリースしました。 Java 27 is now available! #Java27 #JDK27 #OpenJDK Download now: https://t.co/0Zw... — Publickey / score: 85 (Javaのメジャーリリースと新機能追加)</description>
 </item>
 <item>
-<title>[85] Athenaコアリション、オープンソースセキュリティ分野に協調的な防衛体制をもたらす</title>
-<link>https://www.infoq.com/jp/news/2026/09/athena-security-coalition/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-<guid isPermaLink="true">https://www.infoq.com/jp/news/2026/09/athena-security-coalition/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-<pubDate>Tue, 15 Sep 2026 07:30:00 +0000</pubDate>
-<category>InfoQ Japan</category>
-<description>サイバーセキュリティ企業のChainguardは、人工知能（AI）を活用して、広く利用されているオープンソースソフトウェアの脆弱性を、攻撃者が悪用する前に発見・修正することを目的とした業界連合Athenaの発足を発表した。 創設メンバーは20社以上にのぼり、BNYやJPMorgan Chaseといった金融機関に加え、Cisco、Cloudflare、Docker、Kyndryl、PwCなどのインフラおよびセキュリティベンダーが名を連ねている。この連合は、ウェブブラウザ、データセンター、スマートフォン、決済システムを支えるライブラリ、コンテナ、その他のコンポーネントに焦点を当てている。 By Matt Saunders Translated by Takashi Kawase — InfoQ Japan / score: 85 (オープンソースのセキュリティ向上を目指す新連合の発足)</description>
-</item>
-<item>
 <title>[85] Perplexity trusts GPT-6 Astra with end-to-end systems</title>
 <link>https://openai.com/index/perplexity-improving-accuracy-with-astra</link>
 <guid isPermaLink="true">https://openai.com/index/perplexity-improving-accuracy-with-astra</guid>
@@ -349,14 +357,6 @@
 <pubDate>Sat, 26 Sep 2026 08:00:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 80 (GitHub Copilotの新ポリシー導入)</description>
-</item>
-<item>
-<title>[80] 「Google Chrome 154」安定版リリース、iframeが中身に合わせて自動でサイズ調整可能に＆HTTPサイトへの接続時に確認を表示</title>
-<link>https://gigazine.net/news/20260925-google-chrome-154/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260925-google-chrome-154/</guid>
-<pubDate>Fri, 25 Sep 2026 05:40:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>ウェブブラウザ「Google Chrome」の最新安定版となるバージョン154がリリースされました。iframeを埋め込んだコンテンツの高さに合わせてサイズ調整する機能や、スクロールマーカーをリンクまたはタブとして扱う機能などが追加されています。また、安全ではないHTTP接続を開く際にユーザーへ確認する設定がデフォルトになりました。 続きを読む... — GIGAZINE / score: 80 (Chromeブラウザのメジャーバージョン更新)</description>
 </item>
 <item>
 <title>[80] [AINews] The Future of Latent Space</title>
@@ -495,12 +495,28 @@
 <description>MCPやAGENTS.md、Agent2AgentプロトコルなどのAIエージェントに関する関連技術の標準化推進や開発などを行うLinux Foundation傘下のAgentic AI Foundation（AAIF）は、オープンソースとし... — Publickey / score: 80 (AIベンダーのAPI統合OSS登場で業界に影響)</description>
 </item>
 <item>
+<title>[75] 「Claudeによる攻撃作戦」「Geminiが実在企業に侵入」…なぜAIサイバー攻撃が相次ぐか？ 5種類の事件と7種類の対策</title>
+<link>https://qiita.com/songchong/items/9122c8a264ff07cc2d83?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/songchong/items/9122c8a264ff07cc2d83?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Sun, 27 Sep 2026 07:06:31 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>「作戦の 80〜90% を AI が実行した」「Gemini が能力テストの最中に実在企業へ侵入した」「1 時間ごとに自分のコードを書き換えるマルウェアが見つかった」 2025 年から 2026 年にかけて、AI とサイバー攻撃の見出しが相次ぎました。どれも「AI が攻撃... — Qiita 人気記事 / score: 75 (AIサイバー攻撃の事例と対策のまとめ)</description>
+</item>
+<item>
 <title>[75] AWS、Amazon BedrockでOpenAIのGPT-6 SolとLunaを一般提供</title>
 <link>https://codezine.jp/article/detail/29811</link>
 <guid isPermaLink="true">https://codezine.jp/article/detail/29811</guid>
 <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 75 (主要なAIプラットフォームの機能拡張ニュース)</description>
+</item>
+<item>
+<title>[75] 情シス全員がグローバル管理者になっていませんか？ ～ Microsoft Entra PIM で始める特権管理 - Qiita</title>
+<link>https://qiita.com/carol0226/items/5b42b547f102fa8a17a4</link>
+<guid isPermaLink="true">https://qiita.com/carol0226/items/5b42b547f102fa8a17a4</guid>
+<pubDate>Sat, 26 Sep 2026 22:14:49 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? はじめに あなたの組織では、情報システム部のメンバーへ、全員 グローバル管理者 のロールが永続的に付与されている状況になっているということは無いですか？ 管理操作を行うんだ... — はてなブックマーク テクノロジー / score: 75 (Entra PIMによる特権管理のセキュリティ対策)</description>
 </item>
 <item>
 <title>[75] Claude Code、/usageによる推定費用の確認とエフォートの使い分けを解説 ——Opus 5.5の料金とキャッシュの利用</title>
@@ -525,14 +541,6 @@
 <pubDate>Sat, 26 Sep 2026 03:04:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Microsoftは9月25日、Microsoft Copilotの大型アップデートを発表した。ChatとCoworkをまとめる「Home」、自然言語でアプリを作成する「Code」、継続的に業務を進めるAIエージェント「Autopilot」を軸に、対話や文書作成、アプリ開発を一つのアプリに集約し、指定した作業をAIに任せることもできる。 — gihyo.jp / score: 75 (Microsoft Copilotの大型機能アップデート)</description>
-</item>
-<item>
-<title>[75] 情シス全員がグローバル管理者になっていませんか？ ～ Microsoft Entra PIM で始める特権管理</title>
-<link>https://qiita.com/carol0226/items/5b42b547f102fa8a17a4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/carol0226/items/5b42b547f102fa8a17a4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Sat, 26 Sep 2026 02:36:22 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>はじめに あなたの組織では、情報システム部のメンバーへ、全員 グローバル管理者 のロールが永続的に付与されている状況になっているということは無いですか？ 管理操作を行うんだから当たり前じゃないか...と思われるかもしれませんが、これには大きなセキュリティリスクが潜んでいる... — Qiita 人気記事 / score: 75 (Entra PIMによる特権管理のセキュリティ対策)</description>
 </item>
 <item>
 <title>[75] Amazon BedrockとClaude Platform on AWSで「Claude Opus 5.5」を提供開始</title>
@@ -605,14 +613,6 @@
 <pubDate>Fri, 25 Sep 2026 04:05:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Googleは9月24日（現地時間）、「Gemini 3.8 Live with Live Avatar」を発表した。先週発表した音声対話モデル「Gemini 3.8 Live」に、声に合わせて動くアバター機能「Live Avatar」を追加したもので、同日より「Gemini Enterprise」で提供される。 — 窓の杜 / score: 75 (Googleの音声対話AIへのアバター機能追加の発表)</description>
-</item>
-<item>
-<title>[75] 放置CNAMEでサブドメイン乗っ取り──防ぐ5つのDNS棚卸し(Cloudflare/Route 53・コピペOK)</title>
-<link>https://qiita.com/jiis-sasaki/items/9b7f43dc59f3a64f9c80?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/jiis-sasaki/items/9b7f43dc59f3a64f9c80?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Thu, 24 Sep 2026 22:30:00 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>対象: 自社ドメインの DNS を管理している Web 担当者・サイト運営者・制作会社の方 解決すること: 使い終わったサービスを指したままの「放置 CNAME」を見つけて消し、二度と生まれない運用にする ゴール: 棚卸しスクリプト → 生死判定 → 撤去順序 → ... — Qiita 人気記事 / score: 75 (サブドメイン乗っ取りを防ぐセキュリティ対策の実用記事)</description>
 </item>
 <item>
 <title>[75] 「Python」のWindowsフルインストーラーが引退へ、「3.16」以降は提供されず／これからは「Python Install Manager」で導入・管理</title>
