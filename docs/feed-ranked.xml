@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sun, 27 Sep 2026 14:08:06 +0000</lastBuildDate>
+<lastBuildDate>Sun, 27 Sep 2026 16:09:50 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Apache Tomcat」「Apache Tomcat Native」に最大深刻度“CRITICAL”の脆弱性／最新バージョンへの更新を</title>
@@ -109,6 +109,14 @@
 <pubDate>Thu, 17 Sep 2026 23:59:19 +0000</pubDate>
 <category>Simon Willison</category>
 <description>Be alert: targeted attacks on prominent Rustaceans Important warning from Adam Harvey and the crates security team: We believe that there is an ongoing campaign targeting rust-lang members and owners of popular crates that is attempting to compromise devices and accounts in order to use them to publish malware. A video call is set up for something positive — maybe for a job, maybe for a project, maybe for a contract opportunity — and then that's used as a vector to either get the target to insta — Simon Willison / score: 90 (Rust言語関係者を狙った標的型攻撃の重要警告)</description>
+</item>
+<item>
+<title>[85] 画像共有サービス「Gyazo」が9日ぶりにサービス再開 ～不正アクセス・情報漏えい／過去画像は「本人のみ閲覧可能」な状態、無料ユーザーにも特別措置</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2143577.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2143577.html</guid>
+<pubDate>Sun, 27 Sep 2026 15:05:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>（株）Helpfeelは9月27日、画像共有サービス「Gyazo」の提供を再開したと発表した。同サービスは第三者による不正アクセスと情報漏えいがあり、14日から画像の配信を停止。18日にはサービスの提供も一時停止していた。 — 窓の杜 / score: 85 (サービス停止を伴う不正アクセス・情報漏えい。)</description>
 </item>
 <item>
 <title>[85] 東京メトロ 不正アクセスでメールアドレス 約5万9000件流出か | NHKニュース</title>
@@ -263,14 +271,6 @@
 <description>The following JEP is targeted to JDK 28: 401: Value Objects (Preview) — Inside Java / score: 85 (JDK 28のValue Objectsプレビュー)</description>
 </item>
 <item>
-<title>[85] 「Microsoft Edge 153」にセキュリティ更新、「Chromium」の修正を反映／v153.0.4234.46が安定（Stable）チャネルでリリース</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2142244.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2142244.html</guid>
-<pubDate>Fri, 18 Sep 2026 06:56:22 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Microsoftは9月17日（現地時間、以下同）、デスクトップ向け「Microsoft Edge」v153.0.4234.46を安定（Stable）チャネルでリリースした。「Edge 153」のセキュリティアップデートとなっている。 — 窓の杜 / score: 85 (主要ブラウザのセキュリティアップデート)</description>
-</item>
-<item>
 <title>[85] Rust製のオープンソースS3互換分散オブジェクトストレージ「RustFS 1.0.0」一般提供開始</title>
 <link>https://gihyo.jp/article/2026/09/rustfs-1-0-0?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/09/rustfs-1-0-0?utm_source=feed</guid>
@@ -325,14 +325,6 @@
 <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models. — OpenAI News / score: 85 (Perplexityによる最新AIモデルの導入事例)</description>
-</item>
-<item>
-<title>[85] マイクロソフトがRust言語をC++/C#/TSに並ぶ社内のTier 1言語にしたことを明らかに。Windowsネイティブな社内の開発環境と統合</title>
-<link>https://www.publickey1.jp/blog/26/rustcctstier_1.html</link>
-<guid isPermaLink="true">https://www.publickey1.jp/blog/26/rustcctstier_1.html</guid>
-<pubDate>Sun, 13 Sep 2026 15:27:57 +0000</pubDate>
-<category>Publickey</category>
-<description>マイクロソフト社内において、Rust言語がC++/C#/TypeScriptに並ぶTier 1言語になったことが明らかになりました。 マイクロソフトの開発部門でRustツールチームのプリンシパルエンジニア Victor Ciura氏がRus... — Publickey / score: 85 (マイクロソフトがRustをTier 1言語に格上げ)</description>
 </item>
 <item>
 <title>[82] Google、Gemini 3.8 Liveを発表 ——会話を続けながら推論やツール実行が可能</title>
@@ -487,6 +479,14 @@
 <description>MCPやAGENTS.md、Agent2AgentプロトコルなどのAIエージェントに関する関連技術の標準化推進や開発などを行うLinux Foundation傘下のAgentic AI Foundation（AAIF）は、オープンソースとし... — Publickey / score: 80 (AIベンダーのAPI統合OSS登場で業界に影響)</description>
 </item>
 <item>
+<title>[75] グーグル、全アカウント保持者に無料の1080p AI動画生成を開放 — BigGo ファイナンス</title>
+<link>https://finance.biggo.jp/news/07c65cc5-d4c3-44a6-a1cd-cf009de26a8d</link>
+<guid isPermaLink="true">https://finance.biggo.jp/news/07c65cc5-d4c3-44a6-a1cd-cf009de26a8d</guid>
+<pubDate>Sun, 27 Sep 2026 09:50:17 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>グーグルは9月23日、Googleアカウントを持つすべてのユーザーが、Google Vids上でGemini Omni 1.1 Flashモデルを用いた1080pのAI動画を無料で生成できるようになったと発表した。個人アカウントは月6本まで。シーン延長、正確なシーン長設定、旧クリップのアップスケーリングなど新たな編集機能も追加された。すべての動... — はてなブックマーク テクノロジー / score: 75 (Googleによる無料AI動画生成の機能拡張。)</description>
+</item>
+<item>
 <title>[75] Claudeによる攻撃作戦？Geminiが実在企業に侵入？AIサイバー攻撃 5 種類の事件と 7 種類の対策</title>
 <link>https://qiita.com/songchong/items/9122c8a264ff07cc2d83?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
 <guid isPermaLink="true">https://qiita.com/songchong/items/9122c8a264ff07cc2d83?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
@@ -511,14 +511,6 @@
 <description> — CodeZine / score: 75 (主要なAIプラットフォームの機能拡張ニュース)</description>
 </item>
 <item>
-<title>[75] 情シス全員がグローバル管理者になっていませんか？ ～ Microsoft Entra PIM で始める特権管理 - Qiita</title>
-<link>https://qiita.com/carol0226/items/5b42b547f102fa8a17a4</link>
-<guid isPermaLink="true">https://qiita.com/carol0226/items/5b42b547f102fa8a17a4</guid>
-<pubDate>Sat, 26 Sep 2026 22:14:49 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? はじめに あなたの組織では、情報システム部のメンバーへ、全員 グローバル管理者 のロールが永続的に付与されている状況になっているということは無いですか？ 管理操作を行うんだ... — はてなブックマーク テクノロジー / score: 75 (Entra PIMによる特権管理のセキュリティ対策)</description>
-</item>
-<item>
 <title>[75] Claude Code、/usageによる推定費用の確認とエフォートの使い分けを解説 ——Opus 5.5の料金とキャッシュの利用</title>
 <link>https://gihyo.jp/article/2026/09/claude-code-usage-and-effort?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/09/claude-code-usage-and-effort?utm_source=feed</guid>
@@ -541,6 +533,14 @@
 <pubDate>Sat, 26 Sep 2026 03:04:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Microsoftは9月25日、Microsoft Copilotの大型アップデートを発表した。ChatとCoworkをまとめる「Home」、自然言語でアプリを作成する「Code」、継続的に業務を進めるAIエージェント「Autopilot」を軸に、対話や文書作成、アプリ開発を一つのアプリに集約し、指定した作業をAIに任せることもできる。 — gihyo.jp / score: 75 (Microsoft Copilotの大型機能アップデート)</description>
+</item>
+<item>
+<title>[75] 情シス全員がグローバル管理者になっていませんか？ ～ Microsoft Entra PIM で始める特権管理</title>
+<link>https://qiita.com/carol0226/items/5b42b547f102fa8a17a4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/carol0226/items/5b42b547f102fa8a17a4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Sat, 26 Sep 2026 02:36:22 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>はじめに あなたの組織では、情報システム部のメンバーへ、全員 グローバル管理者 のロールが永続的に付与されている状況になっているということは無いですか？ 管理操作を行うんだから当たり前じゃないか...と思われるかもしれませんが、これには大きなセキュリティリスクが潜んでいる... — Qiita 人気記事 / score: 75 (Entra PIMによる特権管理のセキュリティ対策)</description>
 </item>
 <item>
 <title>[75] Amazon BedrockとClaude Platform on AWSで「Claude Opus 5.5」を提供開始</title>
