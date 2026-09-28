@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 28 Sep 2026 00:28:27 +0000</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 02:21:41 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Apache Tomcat」「Apache Tomcat Native」に最大深刻度“CRITICAL”の脆弱性／最新バージョンへの更新を</title>
@@ -29,6 +29,14 @@
 <pubDate>Tue, 22 Sep 2026 18:00:00 +0000</pubDate>
 <category>Next.js Blog</category>
 <description>The September 22, 2026 out-of-band security update for Next.js is now available — Next.js Blog / score: 95 (Next.jsの重大な上流脆弱性に対する緊急セキュリティ修正。)</description>
+</item>
+<item>
+<title>[90] OpenAIが「最も高性能なAIモデル」の学習を一時停止、AIエージェントの挙動を大規模調査中</title>
+<link>https://gigazine.net/news/20260928-openai-pauses-training-ai/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20260928-openai-pauses-training-ai/</guid>
+<pubDate>Mon, 28 Sep 2026 02:11:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>OpenAIが最も能力の高いAIモデルを対象に、ツール利用を伴う学習、評価、推論を一時停止しました。これは学習中のAIエージェントがネットワーク制限を回避して外部サービスへアクセスしたことを受けた措置で、OpenAIは安全対策を追加した上で開発を再開する方針を示しています。サム・アルトマンCEOは「学習や評価中のAIエージェントによるインターネット利用について大規模な調査を続けている」と説明しました。 続きを読む... — GIGAZINE / score: 90 (OpenAIのモデル学習停止と安全対策調査)</description>
 </item>
 <item>
 <title>[90] Next.jsが9月30日にセキュリティリリース予定、9件の脆弱性に対処</title>
@@ -87,14 +95,6 @@
 <description>Gemini Hacked Three Companies in First Known Breakout by Google’s AI Gemini finally caught up on Felony Bench ! The hacks, which the company confirmed on Friday, occurred in May as part of a test run by the company Irregular, which was also involved in similar incidents disclosed by OpenAI, Anthropic and Meta. In one of the cases, the model guessed passwords until it gained access to a protected system. In the other two cases, the model found credentials in a public repository that allowed it to — Simon Willison / score: 90 (AIモデルのセキュリティに関する重大な脆弱性報告)</description>
 </item>
 <item>
-<title>[90] Be alert: targeted attacks on prominent Rustaceans</title>
-<link>https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/</link>
-<guid isPermaLink="true">https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/</guid>
-<pubDate>Thu, 17 Sep 2026 23:59:19 +0000</pubDate>
-<category>Simon Willison</category>
-<description>Be alert: targeted attacks on prominent Rustaceans Important warning from Adam Harvey and the crates security team: We believe that there is an ongoing campaign targeting rust-lang members and owners of popular crates that is attempting to compromise devices and accounts in order to use them to publish malware. A video call is set up for something positive — maybe for a job, maybe for a project, maybe for a contract opportunity — and then that's used as a vector to either get the target to insta — Simon Willison / score: 90 (Rust言語関係者を狙った標的型攻撃の重要警告)</description>
-</item>
-<item>
 <title>[85] OpenAI、最上位モデルのツール使用を伴う学習・評価・推論を全て停止したと発表</title>
 <link>https://www.itmedia.co.jp/news/article/2609/28/2000001777/</link>
 <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2609/28/2000001777/</guid>
@@ -109,6 +109,14 @@
 <pubDate>Sun, 27 Sep 2026 19:39:43 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>画像共有サービス「Gyazo」が9日ぶりにサービス再開 ～不正アクセス・情報漏えい／過去画像は「本人のみ閲覧可能」な状態、無料ユーザーにも特別措置 — はてなブックマーク テクノロジー / score: 85 (サービス停止を伴う不正アクセス・情報漏えい。)</description>
+</item>
+<item>
+<title>[85] Kubernetes 1.37: SIG Appsの変更内容</title>
+<link>https://zenn.dev/musaprg/articles/kubernetes-changelog-1-37-sig-apps</link>
+<guid isPermaLink="true">https://zenn.dev/musaprg/articles/kubernetes-changelog-1-37-sig-apps</guid>
+<pubDate>Sun, 27 Sep 2026 17:25:56 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>Kubernetes v1.37が2026/08/26にリリースされました🎉 本記事では、特にSIG Appsに関係する変更点を、CHANGELOGからピックアップして紹介いたします。 📝がついた文章は、CHANGELOGの公式内容ではなく筆者の補足です。また、内容に誤り等ございましたら、コメントまたはDM等でご連絡ください！ 直近の変更点は以下になります。 Kubernetes 1.36: SIG Appsの変更内容 Kubernetes 1.35: SIG Appsの変更内容 Kubernetes 1.34: SIG Appsの変更内容 Kubernetes 1.33: SIG A... — Zenn トレンド / score: 85 (Kubernetesメジャーバージョンの変更点)</description>
 </item>
 <item>
 <title>[85] 東京メトロ メアド5.9万件漏洩か</title>
@@ -303,12 +311,28 @@
 <description>Googleは2026年9月15日、音声対話AIモデル「Gemini 3.8 Live」と「Gemini 3.8 Live Extended Thinking」を発表した。 — gihyo.jp / score: 82 (Googleの音声対話型AIの新モデル発表)</description>
 </item>
 <item>
+<title>[80] ChatGPT、「常時働くAI」に進化か　OpenAIの新発表迫る</title>
+<link>https://ascii.jp/elem/000/004/437/4437553/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/437/4437553/?rss</guid>
+<pubDate>Mon, 28 Sep 2026 02:00:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>OpenAIが、年次開発者イベント「OpenAI DevDay 2026」を米国時間9月29日にサンフランシスコで開催する。 — ASCII.jp / score: 80 (OpenAIのDevDayを前にした動向予測)</description>
+</item>
+<item>
+<title>[80] 「Excel」40年の常識“1セル＝1つの値”を打ち破る新機能、対応する関数も4種導入へ／セルに複数の値を入れられる「リスト」、「セル内の配列」、「入れ子の配列」</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2143595.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2143595.html</guid>
+<pubDate>Mon, 28 Sep 2026 00:45:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Microsoftは9月24日（現地時間）、「Microsoft Excel」の新機能を発表した。従来の「1セル＝1つの値」という前提を覆すもので、「Excel」の40年の歴史のなかでも大きな転換となる機能と言える。 — 窓の杜 / score: 80 (Excelの歴史的な仕様変更と新機能発表)</description>
+</item>
+<item>
 <title>[80] CTスキャンを読み取りガンを含む約150種類の腹部疾患を特定できる医療用画像言語モデル「RADAR」をAlibaba傘下のDamo Academyがオープンソース化し公開</title>
 <link>https://gigazine.net/news/20260928-damo-radar/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260928-damo-radar/</guid>
-<pubDate>Sun, 27 Sep 2026 22:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>放射線診断ワークフローにおいて診断時に悪性腫瘍の見落としが発生すると重大な問題に繋がります。「RADAR」はCTスキャンの画像を元に約150種類の腹部疾患を特定できる医療用画像言語モデルであり、Alibaba傘下のDamo Academyがオープンソース化しGitHubで公開されています。 続きを読む... — GIGAZINE / score: 80 (医療用画像言語モデルのオープンソース公開)</description>
+<pubDate>Sun, 27 Sep 2026 22:01:54 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>放射線診断ワークフローにおいて診断時に悪性腫瘍の見落としが発生すると重大な問題に繋がります。「RADAR」はCTスキャンの画像を元に約150種類の腹部疾患を特定できる医療用画像言語モデルであり、Alibaba傘下のDamo Academyがオープンソース化しGitHubで公開されています。 alibaba-damo-academy/damo-radar https://g... — はてなブックマーク テクノロジー / score: 80 (医療用画像言語モデルのオープンソース公開)</description>
 </item>
 <item>
 <title>[80] GitHub、Copilot Business／Enterpriseに新機能のデフォルトポリシーを導入</title>
@@ -471,14 +495,6 @@
 <description>「AI が暴走して他社を攻撃した」という見出しを、2026 年の夏に何度か見た方も多いと思います。能力を測る試験の最中の強い AI が、外の実在のシステムに手を出した、という話です。自社で AI エージェントを動かしている人ほど、同じことが手元でも起きるのかが気になるとこ... — Qiita 人気記事 / score: 75 (AIの安全性と事故報告に関する重要動向)</description>
 </item>
 <item>
-<title>[75] GitHub - Niko1221/Strata: Qwen3.8-Flash-Next (125B MoE) on a 12-24 GB NVIDIA GPU + 64 GB RAM: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.</title>
-<link>https://github.com/Niko1221/Strata</link>
-<guid isPermaLink="true">https://github.com/Niko1221/Strata</guid>
-<pubDate>Sun, 27 Sep 2026 13:57:56 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Run a 125-billion-parameter AI model on a normal gaming PC one NVIDIA card (12-24 GB) + 64 GB of RAM · Windows or Linux · one click to install Strata runs Qwen3.8-Flash-Next - a large, smart AI model that normally needs a server - on your own PC. It writes its answers at 60-95 tokens per second (... — はてなブックマーク テクノロジー / score: 75 (巨大LLMのローカル実行を容易にするツール)</description>
-</item>
-<item>
 <title>[75] グーグル、全アカウント保持者に無料の1080p AI動画生成を開放 — BigGo ファイナンス</title>
 <link>https://finance.biggo.jp/news/07c65cc5-d4c3-44a6-a1cd-cf009de26a8d</link>
 <guid isPermaLink="true">https://finance.biggo.jp/news/07c65cc5-d4c3-44a6-a1cd-cf009de26a8d</guid>
@@ -597,6 +613,14 @@
 <pubDate>Fri, 25 Sep 2026 04:05:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Googleは9月24日（現地時間）、「Gemini 3.8 Live with Live Avatar」を発表した。先週発表した音声対話モデル「Gemini 3.8 Live」に、声に合わせて動くアバター機能「Live Avatar」を追加したもので、同日より「Gemini Enterprise」で提供される。 — 窓の杜 / score: 75 (Googleの音声対話AIへのアバター機能追加の発表)</description>
+</item>
+<item>
+<title>[75] Amazon CloudWatch Omni のご紹介：アプリケーション向けのコラボレーション型 AI を活用したオブザーバビリティ | Amazon Web Services</title>
+<link>https://aws.amazon.com/jp/blogs/news/introducing-amazon-cloudwatch-omni-collaborative-ai-powered-observability-for-your-applications/</link>
+<guid isPermaLink="true">https://aws.amazon.com/jp/blogs/news/introducing-amazon-cloudwatch-omni-collaborative-ai-powered-observability-for-your-applications/</guid>
+<pubDate>Fri, 25 Sep 2026 04:01:41 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Amazon Web Services ブログ Amazon CloudWatch Omni のご紹介：アプリケーション向けのコラボレーション型 AI を活用したオブザーバビリティ Amazon CloudWatch は、アプリケーションと AI エージェントを一緒に実行するための、AI を活用したオブザーバビリティエクスペリエンスである CloudWatch Omni を提供するよう... — はてなブックマーク テクノロジー / score: 75 (AWSの新しい監視・オブザーバビリティ機能)</description>
 </item>
 <item>
 <title>[75] 「Python」のWindowsフルインストーラーが引退へ、「3.16」以降は提供されず／これからは「Python Install Manager」で導入・管理</title>
@@ -781,30 +805,6 @@
 <pubDate>Thu, 17 Sep 2026 00:00:31 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Amazon Corretto 27, a Feature Release (FR) version, is now available for download. Amazon Corretto is a no-cost, multi-platform, production-ready distribution of OpenJDK . You can download Corretto 27 for Linux, Windows, and macOS from our downloads page . Corretto 27 will be supported through April 2027. Noticeable features: G1 as the Default Garbage Collector in All Environments - Makes G1 the default garbage collector across all environments, delivering more consistent performance and predict — AWS What's New / score: 75 (Amazon Corretto 27の一般提供開始)</description>
-</item>
-<item>
-<title>[75] Our framework for reporting model misalignment</title>
-<link>https://openai.com/index/model-misalignment-reporting-framework</link>
-<guid isPermaLink="true">https://openai.com/index/model-misalignment-reporting-framework</guid>
-<pubDate>Wed, 16 Sep 2026 17:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior. — OpenAI News / score: 75 (OpenAIによるモデルの不整合報告フレームワーク)</description>
-</item>
-<item>
-<title>[75] Android、パスキーをパスワードマネージャ間で転送可能に。Googleパスワードマネージャ、1Password、Bitwarden、Dashlaneなどが対応</title>
-<link>https://www.publickey1.jp/blog/26/androidgoogle1passwordbitwardendashlane.html</link>
-<guid isPermaLink="true">https://www.publickey1.jp/blog/26/androidgoogle1passwordbitwardendashlane.html</guid>
-<pubDate>Wed, 16 Sep 2026 15:51:54 +0000</pubDate>
-<category>Publickey</category>
-<description>Googleは、Android上で利用可能なパスワードマネージャの間で、パスキーの転送を可能にしたと発表しました。 これにより、例えばGoogleパスワードマネージャに登録したパスキーを1PasswordやBitwardenなどの他のパスワ... — Publickey / score: 75 (パスキーのマネージャ間転送は利便性と標準化に貢献)</description>
-</item>
-<item>
-<title>[75] オープンソースのコーディングエージェントClineのデスクトップアプリ「Cline Desktop」が登場</title>
-<link>https://gihyo.jp/article/2026/09/cline-desktop?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/09/cline-desktop?utm_source=feed</guid>
-<pubDate>Tue, 15 Sep 2026 02:56:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Cline Bot Inc.は2026年9月14日、オープンソースのコーディングエージェントClineのデスクトップ版「Cline Desktop」をベータ版として公開した。macOSおよびWindows上で動作する。 — gihyo.jp / score: 75 (人気OSSコーディングエージェントのデスクトップ版登場)</description>
 </item>
 </channel>
 </rss>
