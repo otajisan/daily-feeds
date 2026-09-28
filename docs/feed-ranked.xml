@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 28 Sep 2026 14:10:55 +0000</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 16:11:14 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「タイムズカー」会員情報約660万件漏えい　運転免許画像など　不正アクセスで</title>
@@ -157,14 +157,6 @@
 <pubDate>Mon, 28 Sep 2026 02:27:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>OpenAIのAIエージェントが、国連のウェブサイトにブルートフォース攻撃(総当たり攻撃)を試みるという事態が発生していたと、セキュリティ研究者のローワン・ハワード＝ジョーンズ氏が報告しています。 続きを読む... — GIGAZINE / score: 85 (AIエージェントによるセキュリティリスクの事例)</description>
-</item>
-<item>
-<title>[85] OpenAI、最上位モデルのツール使用を伴う学習・評価・推論を全て停止したと発表</title>
-<link>https://www.itmedia.co.jp/news/article/2609/28/2000001777/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2609/28/2000001777/</guid>
-<pubDate>Sun, 27 Sep 2026 22:27:28 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>米OpenAIは9月25日（現地時間）、最も高性能なモデルについて、ツール使用を伴う学習・評価・推論を全て一時停止したと発表した。9月20日に、学習中のAIエージェントがサンドボックスのネットワーク制限の不備を突き、DNS経由で外部のチャットbotサービスに接続するインシデントが発生したためだ。 同社によると、問題の... — はてなブックマーク テクノロジー / score: 85 (AIモデルの安全停止という重大なインシデント)</description>
 </item>
 <item>
 <title>[85] Kubernetes 1.37: SIG Appsの変更内容</title>
@@ -487,12 +479,12 @@
 <description>オラクルは、これまで3カ月ごとに提供してきたJavaのアップデートパッチのサイクルを速め、1カ月ごとにセキュリティパッチを提供することを発表。先月（2026年8月）から実際にセキュリティパッチの提供が開始されていることを明らかにしました。 ... — Publickey / score: 80 (Javaのセキュリティパッチ提供頻度の変更)</description>
 </item>
 <item>
-<title>[80] OpenAIやAnthropicなどAIベンダごとのAPIの違いを吸収し統合する「Agent Router」、Linux Foundation傘下で業界標準へ</title>
-<link>https://www.publickey1.jp/blog/26/openaianthropicapiagent_routerlinux_foundation.html</link>
-<guid isPermaLink="true">https://www.publickey1.jp/blog/26/openaianthropicapiagent_routerlinux_foundation.html</guid>
-<pubDate>Mon, 14 Sep 2026 15:51:16 +0000</pubDate>
+<title>[75] AWS、AIエージェントを自作できるツール「Strandsハーネス」をオープンソースで公開。特定のLLMに依存せず入れ替え可能、任意のコンテナ環境にデプロイ</title>
+<link>https://www.publickey1.jp/blog/26/awsaistrandsllm.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/awsaistrandsllm.html</guid>
+<pubDate>Mon, 28 Sep 2026 15:01:25 +0000</pubDate>
 <category>Publickey</category>
-<description>MCPやAGENTS.md、Agent2AgentプロトコルなどのAIエージェントに関する関連技術の標準化推進や開発などを行うLinux Foundation傘下のAgentic AI Foundation（AAIF）は、オープンソースとし... — Publickey / score: 80 (AIベンダーのAPI統合OSS登場で業界に影響)</description>
+<description>Amazon Web Services（AWS）は、GPTやClaude、Gemini、Ollamaなど主要なLLMやLLMランタイムを基にした高性能なAIエージェントを簡単に自作できるツール「Strandsハーネス」をオープンソースで公開... — Publickey / score: 75 (主要なLLM対応AIエージェントOSS公開のため)</description>
 </item>
 <item>
 <title>[75] Terraform provider for Google Cloud 8.0が一般提供開始</title>
@@ -719,22 +711,6 @@
 <description>米Anthropicは9月23日（現地時間）、「Claude Code」で「クラウドセッション」（Cloud sessions）の一般提供を開始した。これまでリサーチプレビューとしてテストされていたが、正式版として利用できるようになる。 — 窓の杜 / score: 75 (Claude Codeのクラウドセッション一般提供)</description>
 </item>
 <item>
-<title>[75] GKE becomes more elastic: Scale to zero, save costs, and keep workloads responsive</title>
-<link>https://cloud.google.com/blog/products/containers-kubernetes/gke-adds-native-scale-to-zero-capabilities/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/products/containers-kubernetes/gke-adds-native-scale-to-zero-capabilities/</guid>
-<pubDate>Wed, 23 Sep 2026 16:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>True elasticity has long been the holy grail of cloud-native engineering. And while Kubernetes has revolutionized resource management, workloads that run sporadically (e.g., batch processors, event-driven workers, and development environments) still consume compute resources while they wait for work, driving up costs. We’re addressing this head-on in Google Kubernetes Engine (GKE) 1.37 with a native way to scale to and from zero . A new collection of features allows you to scale down your worklo — Google Cloud Blog / score: 75 (GKEのスケールインゼロ対応によるコスト削減)</description>
-</item>
-<item>
-<title>[75] Scale your own way, using HPA with built-in support for PromQL metrics queries in GKE</title>
-<link>https://cloud.google.com/blog/products/containers-kubernetes/native-support-for-prometheus-metrics-in-gke/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/products/containers-kubernetes/native-support-for-prometheus-metrics-in-gke/</guid>
-<pubDate>Wed, 23 Sep 2026 16:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>Earlier this year, we announced native support for Google Kubernetes Engine (GKE) custom metrics. This milestone allowed you to scrap external adapters and instead collect autoscaling metrics directly from your pods. By routing these metrics straight to the Horizontal Pod Autoscaler (HPA), we cut metrics reading latency down to 5 seconds. Today, we are excited to introduce built-in support for processing Prometheus metrics, allowing you to use expressive PromQL queries to customize autoscaling t — Google Cloud Blog / score: 75 (GKEでのPromQLメトリクス直接サポート)</description>
-</item>
-<item>
 <title>[75] Cloudflare、Python Workersを正式サービスに。PythonでWebサイトの構築、データベース接続、オブジェクトストレージ操作など</title>
 <link>https://www.publickey1.jp/blog/26/cloudflarepython_wrokerspythonweb.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/cloudflarepython_wrokerspythonweb.html</guid>
@@ -805,6 +781,30 @@
 <pubDate>Fri, 18 Sep 2026 15:15:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Amazon Bedrock continues to expand its open weight model portfolio with the same security and governance that customers rely on. Today, Kimi K3 from Moonshot AI is generally available on Amazon Bedrock, giving you a powerful new option for coding and knowledge work. According to Moonshot AI, Kimi K3 is its most capable model and the first open model to reach 2.8 trillion parameters. It combines native vision capabilities with a 1-million-token context window, making it well suited to long-runnin — AWS What's New / score: 75 (Amazon BedrockでのKimi K3一般提供開始)</description>
+</item>
+<item>
+<title>[75] The new AgentCore Runtime is now available in Amazon Bedrock AgentCore</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/new-agentcore-runtime-generally-available</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/new-agentcore-runtime-generally-available</guid>
+<pubDate>Fri, 18 Sep 2026 13:25:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Today, AWS announces the availability of the next generation of AgentCore Runtime , the serverless microVM compute within Amazon Bedrock AgentCore. The new Runtime delivers elastic memory management that reclaims unused memory throughout the session so you pay for actual usage rather than the peak, and consistent cold start times regardless of container image size or concurrency. You get the serverless model you already rely on: no pre-provisioning, scale to zero, hardware-enforced session isola — AWS What's New / score: 75 (AWS Bedrockの新機能発表でクラウド開発に影響)</description>
+</item>
+<item>
+<title>[75] Ubuntu 24.04.5のリリース、Ubuntu 26.10（stonking）の開発; Rust版coreutilsのcp、mv、rmへの移行、CIX P1の正式サポート</title>
+<link>https://gihyo.jp/admin/clip/01/ubuntu-topics/202609/18?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/admin/clip/01/ubuntu-topics/202609/18?utm_source=feed</guid>
+<pubDate>Thu, 17 Sep 2026 23:57:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Ubuntu 24.04 LTSの5番目のポイントリリース、24.04.5と、デスクトップ版にのみ「24.04.5.1」がリリースされました。 — gihyo.jp / score: 75 (Ubuntu 24.04.5リリースとRust版coreutils移行の話題)</description>
+</item>
+<item>
+<title>[75] PlanetScale、PostgreSQLのシャーディングを自動化して1億1800万QPSを達成。新DBサービス「Neki」をプレビュー公開</title>
+<link>https://www.publickey1.jp/blog/26/planetscalepostgresql11800qpsdbneki.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/planetscalepostgresql11800qpsdbneki.html</guid>
+<pubDate>Thu, 17 Sep 2026 15:59:39 +0000</pubDate>
+<category>Publickey</category>
+<description>データベースサービスを提供しているPlanetScaleは、PostgreSQLのシャーディングを自動化してスケーラブルなデータベースサービスを提供する「Neki」をプレビュー公開しました。 118,538,803 queries per ... — Publickey / score: 75 (PostgreSQLの自動シャーディング新DBサービスのプレビュー公開)</description>
 </item>
 </channel>
 </rss>
