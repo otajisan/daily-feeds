@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 28 Sep 2026 16:11:14 +0000</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 18:13:02 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「タイムズカー」会員情報約660万件漏えい　運転免許画像など　不正アクセスで</title>
@@ -141,6 +141,30 @@
 <pubDate>Fri, 18 Sep 2026 23:57:57 +0000</pubDate>
 <category>Simon Willison</category>
 <description>Gemini Hacked Three Companies in First Known Breakout by Google’s AI Gemini finally caught up on Felony Bench ! The hacks, which the company confirmed on Friday, occurred in May as part of a test run by the company Irregular, which was also involved in similar incidents disclosed by OpenAI, Anthropic and Meta. In one of the cases, the model guessed passwords until it gained access to a protected system. In the other two cases, the model found credentials in a public repository that allowed it to — Simon Willison / score: 90 (AIモデルのセキュリティに関する重大な脆弱性報告)</description>
+</item>
+<item>
+<title>[85] Apple、セキュリティ修正を含んだ｢macOS Golden Gate 27.0.1｣をリリース</title>
+<link>https://taisy0.com/2026/09/29/228102.html</link>
+<guid isPermaLink="true">https://taisy0.com/2026/09/29/228102.html</guid>
+<pubDate>Mon, 28 Sep 2026 17:54:06 +0000</pubDate>
+<category>気になる、記になる…</category>
+<description>本日、Appleが、「macOS Golden Gate 27」の最新バージョンとなる「macOS Golden Gate 27.0.1」をリリースしました。 「macOS Golden Gate 27.0.1」には、M […] — 気になる、記になる… / score: 85 (macOSの重要なセキュリティ修正)</description>
+</item>
+<item>
+<title>[85] Apple、セキュリティの修正を含んだ｢macOS Tahoe 26.7.1｣と｢macOS Sequoia 15.8.1｣をリリース</title>
+<link>https://taisy0.com/2026/09/29/228096.html</link>
+<guid isPermaLink="true">https://taisy0.com/2026/09/29/228096.html</guid>
+<pubDate>Mon, 28 Sep 2026 17:48:12 +0000</pubDate>
+<category>気になる、記になる…</category>
+<description>本日、Appleが、「macOS Tahoe 26.7.1」と「macOS Sequoia 15.8.1」をリリースしました。 これらのバージョンには重要なセキュリティ修正が含まれており、悪意を持って作成されたファイルを […] — 気になる、記になる… / score: 85 (複数macOSバージョンのセキュリティ修正)</description>
+</item>
+<item>
+<title>[85] Apple、セキュリティの修正を含んだ｢iOS 26.7.1｣と｢iPadOS 26.7.1｣をリリース</title>
+<link>https://taisy0.com/2026/09/29/228093.html</link>
+<guid isPermaLink="true">https://taisy0.com/2026/09/29/228093.html</guid>
+<pubDate>Mon, 28 Sep 2026 17:43:24 +0000</pubDate>
+<category>気になる、記になる…</category>
+<description>本日、Appleが、「iOS 26」および「iPadOS 26」向けの最新アップデート「iOS 26.7.1」と「iPadOS 26.7.1」を正式にリリースしました。 このアップデートには、iPhoneおよびiPad用 […] — 気になる、記になる… / score: 85 (iOSおよびiPadOSのセキュリティ修正)</description>
 </item>
 <item>
 <title>[85] Adobe、7製品・36件の脆弱性を公表 ～2026年9月2回目のセキュリティアップデート／「Premiere」「InDesign」「Bridge」などに影響</title>
@@ -781,30 +805,6 @@
 <pubDate>Fri, 18 Sep 2026 15:15:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Amazon Bedrock continues to expand its open weight model portfolio with the same security and governance that customers rely on. Today, Kimi K3 from Moonshot AI is generally available on Amazon Bedrock, giving you a powerful new option for coding and knowledge work. According to Moonshot AI, Kimi K3 is its most capable model and the first open model to reach 2.8 trillion parameters. It combines native vision capabilities with a 1-million-token context window, making it well suited to long-runnin — AWS What's New / score: 75 (Amazon BedrockでのKimi K3一般提供開始)</description>
-</item>
-<item>
-<title>[75] The new AgentCore Runtime is now available in Amazon Bedrock AgentCore</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/09/new-agentcore-runtime-generally-available</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/new-agentcore-runtime-generally-available</guid>
-<pubDate>Fri, 18 Sep 2026 13:25:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Today, AWS announces the availability of the next generation of AgentCore Runtime , the serverless microVM compute within Amazon Bedrock AgentCore. The new Runtime delivers elastic memory management that reclaims unused memory throughout the session so you pay for actual usage rather than the peak, and consistent cold start times regardless of container image size or concurrency. You get the serverless model you already rely on: no pre-provisioning, scale to zero, hardware-enforced session isola — AWS What's New / score: 75 (AWS Bedrockの新機能発表でクラウド開発に影響)</description>
-</item>
-<item>
-<title>[75] Ubuntu 24.04.5のリリース、Ubuntu 26.10（stonking）の開発; Rust版coreutilsのcp、mv、rmへの移行、CIX P1の正式サポート</title>
-<link>https://gihyo.jp/admin/clip/01/ubuntu-topics/202609/18?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/admin/clip/01/ubuntu-topics/202609/18?utm_source=feed</guid>
-<pubDate>Thu, 17 Sep 2026 23:57:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Ubuntu 24.04 LTSの5番目のポイントリリース、24.04.5と、デスクトップ版にのみ「24.04.5.1」がリリースされました。 — gihyo.jp / score: 75 (Ubuntu 24.04.5リリースとRust版coreutils移行の話題)</description>
-</item>
-<item>
-<title>[75] PlanetScale、PostgreSQLのシャーディングを自動化して1億1800万QPSを達成。新DBサービス「Neki」をプレビュー公開</title>
-<link>https://www.publickey1.jp/blog/26/planetscalepostgresql11800qpsdbneki.html</link>
-<guid isPermaLink="true">https://www.publickey1.jp/blog/26/planetscalepostgresql11800qpsdbneki.html</guid>
-<pubDate>Thu, 17 Sep 2026 15:59:39 +0000</pubDate>
-<category>Publickey</category>
-<description>データベースサービスを提供しているPlanetScaleは、PostgreSQLのシャーディングを自動化してスケーラブルなデータベースサービスを提供する「Neki」をプレビュー公開しました。 118,538,803 queries per ... — Publickey / score: 75 (PostgreSQLの自動シャーディング新DBサービスのプレビュー公開)</description>
 </item>
 </channel>
 </rss>
