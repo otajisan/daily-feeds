@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 28 Sep 2026 22:09:44 +0000</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 00:26:28 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「タイムズカー」会員情報約660万件漏えい　運転免許画像など　不正アクセスで</title>
@@ -143,6 +143,30 @@
 <description>Gemini Hacked Three Companies in First Known Breakout by Google’s AI Gemini finally caught up on Felony Bench ! The hacks, which the company confirmed on Friday, occurred in May as part of a test run by the company Irregular, which was also involved in similar incidents disclosed by OpenAI, Anthropic and Meta. In one of the cases, the model guessed passwords until it gained access to a protected system. In the other two cases, the model found credentials in a public repository that allowed it to — Simon Willison / score: 90 (AIモデルのセキュリティに関する重大な脆弱性報告)</description>
 </item>
 <item>
+<title>[85] Claude Sonnet 5.5</title>
+<link>https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/</guid>
+<pubDate>Mon, 28 Sep 2026 22:07:38 +0000</pubDate>
+<category>Simon Willison</category>
+<description>Claude Sonnet 5.5 New Sonnet model from Anthropic today. They say it "runs 30%+ faster, and costs up to 30% less for most work" - it's priced the same as Sonnet 5 but appears to beat it on every benchmark, and should be cheaper to run as well. Here are some pelicans riding bicycles . Sonnet 5.5 suffered from the same bug as Opus 5.5 : the "max" thinking effort pelican thought for 128,000 tokens (at a cost of $1.28) before running out of tokens and failing to produce an SVG. Here's the pelican it — Simon Willison / score: 85 (主要AIモデルの高速化と価格改定)</description>
+</item>
+<item>
+<title>[85] Anthropic、「Claude Sonnet 5.5」公開　料金据え置きで30％以上高速化、タスク当たりコスト最大3割減</title>
+<link>https://www.itmedia.co.jp/news/article/2609/29/2000001823/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2609/29/2000001823/</guid>
+<pubDate>Mon, 28 Sep 2026 22:06:17 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>開発者向けの変更点もある。思考（thinking）を無効にしてSonnetを使っている場合は、Sonnet 5.5に移行する前に新しい設定「between_tools」に切り替える必要がある。この設定では、最初に考える段階の思考が無効のまま維持される。 推論の深さを調整する「effort」の既定値は、Claude Codeと各アプリでは「Medium」、Cl... — はてなブックマーク テクノロジー / score: 85 (主要AIモデルのメジャーアップデートと破壊的変更)</description>
+</item>
+<item>
+<title>[85] Anthropic、「Claude Sonnet 5.5」を発表 ～30％以上高速に、コストは最大30％減／「Claude 5.5」ファミリーの第2弾。ベンチマークによっては「Opus 5.5」に迫る</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2143923.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2143923.html</guid>
+<pubDate>Mon, 28 Sep 2026 22:05:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Anthropicは9月28日（現地時間、以下同）、「Claude Sonnet 5.5」を発表した。「Opus 5.5」に続く「Claude 5.5」ファミリーの第2弾で、先代の「Sonnet 5」からは30％以上も高速化。多くの作業でコストは最大30％安くなるという。高頻度・コスト重視の用途に向けた「Claude Haiku 5.5」も、数週間のうちにファミリーへ加わる予定だ。 — 窓の杜 / score: 85 (Anthropicの主要AIモデル高速化とコスト削減発表)</description>
+</item>
+<item>
 <title>[85] Apple、セキュリティ修正を含んだ｢macOS Golden Gate 27.0.1｣をリリース</title>
 <link>https://taisy0.com/2026/09/29/228102.html</link>
 <guid isPermaLink="true">https://taisy0.com/2026/09/29/228102.html</guid>
@@ -167,12 +191,12 @@
 <description>本日、Appleが、「iOS 26」および「iPadOS 26」向けの最新アップデート「iOS 26.7.1」と「iPadOS 26.7.1」を正式にリリースしました。 このアップデートには、iPhoneおよびiPad用 […] — 気になる、記になる… / score: 85 (iOSおよびiPadOSのセキュリティ修正)</description>
 </item>
 <item>
-<title>[85] Excel、40年続く原則を変更へ　1個のセルで複数の値を扱う新機能</title>
-<link>https://www.itmedia.co.jp/news/article/2609/28/2000001820/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2609/28/2000001820/</guid>
-<pubDate>Mon, 28 Sep 2026 10:20:41 +0000</pubDate>
+<title>[85] タイムズカーWebサイトへの不正アクセスについてまとめてみた - piyolog</title>
+<link>https://piyolog.hatenadiary.jp/entry/2026/09/28/214857</link>
+<guid isPermaLink="true">https://piyolog.hatenadiary.jp/entry/2026/09/28/214857</guid>
+<pubDate>Mon, 28 Sep 2026 14:43:54 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>米Microsoftは9月24日（現地時間）、表計算ソフト「Excel」で、1つのセルに複数のデータを入力し、それぞれを絞り込みや計算に使える新機能「Lists」を発表した。Windows版とMac版の一部ユーザー向けに、プレビュー版として順次提供する。同社は、40年続いた「1セルに1つの値」という仕組みを変える機能とうたう。 同機... — はてなブックマーク テクノロジー / score: 85 (Excelの40年ぶりの仕様変更という大きなニュース)</description>
+<description>2026年9月25日、タイムズモビリティとパーク24は、カーシェアリングサービス「タイムズカー」のWebサイトが不正アクセスを受け、会員の個人情報が外部に漏えいした可能性があると公表しました。その後の調査で、対象システムに保存されていた会員情報の一部が第三者に取得されたことが判明しています。ここでは関連する... — はてなブックマーク テクノロジー / score: 85 (大規模サービスの深刻な個人情報漏えいインシデント)</description>
 </item>
 <item>
 <title>[85] Adobe、7製品・36件の脆弱性を公表 ～2026年9月2回目のセキュリティアップデート／「Premiere」「InDesign」「Bridge」などに影響</title>
@@ -410,17 +434,9 @@
 <title>[80] 「Excel」40年の常識“1セル＝1つの値”を打ち破る新機能、対応する関数も4種導入へ／セルに複数の値を入れられる「リスト」、「セル内の配列」、「入れ子の配列」</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2143595.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2143595.html</guid>
-<pubDate>Mon, 28 Sep 2026 01:08:53 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>「Excel」40年の常識“1セル＝1つの値”を打ち破る新機能、対応する関数も4種導入へ／セルに複数の値を入れられる「リスト」、「セル内の配列」、「入れ子の配列」 — はてなブックマーク テクノロジー / score: 80 (Excelの歴史的な仕様変更と新機能発表)</description>
-</item>
-<item>
-<title>[80] CTスキャンを読み取りガンを含む約150種類の腹部疾患を特定できる医療用画像言語モデル「RADAR」をAlibaba傘下のDamo Academyがオープンソース化し公開</title>
-<link>https://gigazine.net/news/20260928-damo-radar/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260928-damo-radar/</guid>
-<pubDate>Sun, 27 Sep 2026 22:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>放射線診断ワークフローにおいて診断時に悪性腫瘍の見落としが発生すると重大な問題に繋がります。「RADAR」はCTスキャンの画像を元に約150種類の腹部疾患を特定できる医療用画像言語モデルであり、Alibaba傘下のDamo Academyがオープンソース化しGitHubで公開されています。 続きを読む... — GIGAZINE / score: 80 (医療用画像言語モデルのオープンソース公開)</description>
+<pubDate>Mon, 28 Sep 2026 00:45:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Microsoftは9月24日（現地時間）、「Microsoft Excel」の新機能を発表した。従来の「1セル＝1つの値」という前提を覆すもので、「Excel」の40年の歴史のなかでも大きな転換となる機能と言える。 — 窓の杜 / score: 80 (Excelの歴史的な仕様変更と新機能発表)</description>
 </item>
 <item>
 <title>[80] [AINews] The Future of Latent Space</title>
@@ -527,12 +543,36 @@
 <description>オラクルは、これまで3カ月ごとに提供してきたJavaのアップデートパッチのサイクルを速め、1カ月ごとにセキュリティパッチを提供することを発表。先月（2026年8月）から実際にセキュリティパッチの提供が開始されていることを明らかにしました。 ... — Publickey / score: 80 (Javaのセキュリティパッチ提供頻度の変更)</description>
 </item>
 <item>
+<title>[75] タイムズカー情報漏えい 識者警鐘</title>
+<link>https://news.yahoo.co.jp/pickup/6596915?source=rss</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6596915?source=rss</guid>
+<pubDate>Mon, 28 Sep 2026 23:27:13 +0000</pubDate>
+<category>Yahoo!ニュース IT</category>
+<description> — Yahoo!ニュース IT / score: 75 (タイムズカー情報漏えいに関する専門家の警鐘)</description>
+</item>
+<item>
+<title>[75] Grok 4.7 is now available on Amazon Bedrock</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-grok-4-7/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-grok-4-7/</guid>
+<pubDate>Mon, 28 Sep 2026 18:29:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon Bedrock now supports SpaceXAI Grok 4.7, a frontier model built for coding, agentic tasks, and knowledge work, with US Geo and Global cross-Region inference. Grok 4.7 builds on Grok 4.6 with better mixed-document handling, more dependable repo-scale coding with planning and error recovery, and enhanced browser-use agents for form fills and portal navigation. Get started with Grok 4.7 in the Amazon Bedrock console or programmatically through supported Amazon Bedrock APIs. For information ab — AWS What's New / score: 75 (Bedrockへの新AIモデル追加)</description>
+</item>
+<item>
 <title>[75] iOS27.0.1がリリース！iPhone18 Proの再起動問題などが修正</title>
 <link>https://iphone-mania.jp/ios-606745/</link>
 <guid isPermaLink="true">https://iphone-mania.jp/ios-606745/</guid>
 <pubDate>Mon, 28 Sep 2026 18:15:05 +0000</pubDate>
 <category>iPhone Mania</category>
 <description>まもなくリリースされるとしていたiPhone向けソフトウェアアップデート「iOS27.0.1」が配信開始しました。本アップデートは、iOS27で発生していた重要なバグや不具合の修正を目的としたマイナーアップデートです。 […] — iPhone Mania / score: 75 (iOSの重要不具合修正を目的としたセキュリティアップデート)</description>
+</item>
+<item>
+<title>[75] NRアプリへの不正アクセスによる会員情報漏えいに関するお詫びとお知らせ|ニッポンレンタカー</title>
+<link>https://www.nipponrentacar.co.jp/info/202609.html</link>
+<guid isPermaLink="true">https://www.nipponrentacar.co.jp/info/202609.html</guid>
+<pubDate>Mon, 28 Sep 2026 17:03:58 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>2026年9月26日（土） このたび、ニッポンレンタカーサービス株式会社が運営する「ニッポンレンタカーアプリ」のシステムに対し、第三者による不正アクセスが発生し、会員様の情報が不正に閲覧されたおそれのあることを確認いたしました。 本件の対象となる会員様は41名であり、閲覧されたおそれのある情報は、氏名・電話... — はてなブックマーク テクノロジー / score: 75 (レンタカーアプリにおける不正アクセスと情報漏えい)</description>
 </item>
 <item>
 <title>[75] Introducing cf: the agentic CLI for the entire Cloudflare API</title>
@@ -765,46 +805,6 @@
 <pubDate>Wed, 23 Sep 2026 23:22:51 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Anthropicは9月23日（現地時間）、「Claude Code」で「クラウドセッション」（Cloud sessions）の一般提供を開始した。これまでリサーチプレビューとしてテストされていたが、正式版として利用できるようになる。 — 窓の杜 / score: 75 (Claude Codeのクラウドセッション一般提供)</description>
-</item>
-<item>
-<title>[75] Cloudflare、Python Workersを正式サービスに。PythonでWebサイトの構築、データベース接続、オブジェクトストレージ操作など</title>
-<link>https://www.publickey1.jp/blog/26/cloudflarepython_wrokerspythonweb.html</link>
-<guid isPermaLink="true">https://www.publickey1.jp/blog/26/cloudflarepython_wrokerspythonweb.html</guid>
-<pubDate>Wed, 23 Sep 2026 15:26:46 +0000</pubDate>
-<category>Publickey</category>
-<description>Cloudflareは、同社のサーバレス実行基盤上でPythonを実行できる「Python Workers」が正式サービスになったことを発表しました。 JavaScriptによるサーバレス実行基盤のCloudflare Workers上でW... — Publickey / score: 75 (CloudflareのPython Workers正式提供開始)</description>
-</item>
-<item>
-<title>[75] Sam Altman’s remarks at the United Nations Security Council</title>
-<link>https://openai.com/index/sam-altman-un-security-council-remarks</link>
-<guid isPermaLink="true">https://openai.com/index/sam-altman-un-security-council-remarks</guid>
-<pubDate>Wed, 23 Sep 2026 12:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council. — OpenAI News / score: 75 (国連安保理でのAI安全性に関する議論)</description>
-</item>
-<item>
-<title>[75] Amazon CloudWatch Omni: AI-first observability for agents and applications</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-cloudwatch-omni-ai/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-cloudwatch-omni-ai/</guid>
-<pubDate>Wed, 23 Sep 2026 00:06:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>AWS announces the general availability of Amazon CloudWatch Omni, an evolution of Amazon CloudWatch. Omni is an AI-powered observability experience organized around your teams and the applications they run, so that you can observe and troubleshoot your applications and agents in one place. It combines the interoperability of OpenTelemetry with the scale and reliability of CloudWatch. And it meets you wherever you work: a standalone web experience with single sign-on (SSO) for your team, or a loc — AWS What's New / score: 75 (AWSのAIを活用した新監視サービスの一般提供開始)</description>
-</item>
-<item>
-<title>[75] Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war</title>
-<link>https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/</link>
-<guid isPermaLink="true">https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/</guid>
-<pubDate>Tue, 22 Sep 2026 23:46:41 +0000</pubDate>
-<category>Simon Willison</category>
-<description>Yesterday was Grok 4.7 ( pelicans ) and MiMo v2.6 Flash/Pro ( more pelicans ). Today Anthropic released Claude Opus 5.5 , and around an hour later OpenAI released GPT-6 Sol and GPT-6 Luna . It's going to take a while to get a good read on all of these new models, but here are my impressions so far. GPT-6 Sol and Luna are half the price of their GPT-5.6 equivalents GPT-5.6 Luna was already my favorite model for building applications against, because it combined excellent performance with being re — Simon Willison / score: 75 (複数AIモデルの連続リリース市場動向)</description>
-</item>
-<item>
-<title>[75] Claude Opus 5.5 is now available on AWS GovCloud (US)</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/09/claude-opus-5-5-aws-govcloud/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/claude-opus-5-5-aws-govcloud/</guid>
-<pubDate>Tue, 22 Sep 2026 15:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>AWS GovCloud (US) now offers Claude Opus 5.5, Anthropic’s most capable Opus model yet and, the first of the Claude 5.5 model family, a better collaborator that handles long-running coding and knowledge work, reporting back clearly on what it did, what it found, and what it needs next. According to Anthropic, Claude Opus 5.5 completes tasks using fewer tokens than Claude Opus 5, at a lower price per token, with cheaper cache reads stacking on top of the efficiency gain. Claude Opus 5.5 is the ent — AWS What's New / score: 75 (AWS GovCloudでのClaude最新モデル提供開始。)</description>
 </item>
 </channel>
 </rss>
