@@ -4,16 +4,8 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Tue, 29 Sep 2026 02:16:03 +0000</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 04:11:53 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
-<item>
-<title>[95] タイムズカー、660万件の個人情報流出　「免許証画像」まで漏れると何が危険？</title>
-<link>https://ascii.jp/elem/000/004/437/4437878/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/437/4437878/?rss</guid>
-<pubDate>Tue, 29 Sep 2026 01:05:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>タイムズモビリティは9月28日、タイムズカーのWebシステムが不正アクセスを受け、約660万件のアカウント情報が第三者に取得されたと発表した。 — ASCII.jp / score: 95 (660万件の大規模アカウント情報・免許証画像の流出。)</description>
-</item>
 <item>
 <title>[95] Apple製品にゼロデイ脆弱性、「iOS 26.7.1」「macOS Tahoe 26.7.1」など修正版が公開／「特定の個人を標的とした攻撃」に悪用された可能性</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2143924.html</link>
@@ -21,14 +13,6 @@
 <pubDate>Tue, 29 Sep 2026 01:02:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Appleは9月28日（現地時間）、自社製品のセキュリティアップデートを一斉実施した。CVE番号が付番された脆弱性の修正を含まない製品も含め、執筆時現在、以下のアップデートが利用可能。 — 窓の杜 / score: 95 (ゼロデイ脆弱性修正のための緊急パッチ公開)</description>
-</item>
-<item>
-<title>[95] ネット接続禁止のOpenAI製AIが「DNSの抜け道」を発見して外部AIにアクセス、OpenAIは高性能モデルのツール利用を一時停止</title>
-<link>https://gigazine.net/news/20260928-openai-misalignment-report/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260928-openai-misalignment-report/</guid>
-<pubDate>Mon, 28 Sep 2026 02:40:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>OpenAIがインターネットへの接続を制限した環境でAIエージェントを訓練していたところ、AIがDNSを経由して制限を回避し、外部のチャットボットに質問を送信することに成功したと報告しました。OpenAIは問題を受けてネットワーク制限を強化するとともに、高性能モデルを使ったツール利用を伴う訓練や評価などを一時停止しています。 続きを読む... — GIGAZINE / score: 95 (制限回避を行うAIのセキュリティリスクと機能停止の緊急ニュース)</description>
 </item>
 <item>
 <title>[95] 「Apache Tomcat」「Apache Tomcat Native」に最大深刻度“CRITICAL”の脆弱性／最新バージョンへの更新を</title>
@@ -55,20 +39,12 @@
 <description>The September 22, 2026 out-of-band security update for Next.js is now available — Next.js Blog / score: 95 (Next.jsの重大な上流脆弱性に対する緊急セキュリティ修正。)</description>
 </item>
 <item>
-<title>[90] セイコーマートアプリに不正アクセス　約57万アカウントで氏名・住所など流出の可能性</title>
-<link>https://ascii.jp/elem/000/004/437/4437907/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/437/4437907/?rss</guid>
-<pubDate>Tue, 29 Sep 2026 01:55:00 +0000</pubDate>
+<title>[90] アップル「iOS 26.7.1」配信　iPhoneの脆弱性を修正、早めに更新を</title>
+<link>https://ascii.jp/elem/000/004/438/4438032/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/438/4438032/?rss</guid>
+<pubDate>Tue, 29 Sep 2026 03:05:00 +0000</pubDate>
 <category>ASCII.jp</category>
-<description>セイコーマートは9月29日、スマートフォン向け「セイコーマートアプリ」のサーバーを経由した不正アクセスがあり、セイコーマートクラブ会員の個人情報が流出した可能性があると発表した。 — ASCII.jp / score: 90 (約57万件の個人情報流出を伴う不正アクセス事案。)</description>
-</item>
-<item>
-<title>[90] タイムズカーWebシステムへの不正アクセスに関する調査結果および今後の対応について（第2報）｜パーク２４株式会社</title>
-<link>https://www.park24.co.jp/news/2026/09/20260928-1.html</link>
-<guid isPermaLink="true">https://www.park24.co.jp/news/2026/09/20260928-1.html</guid>
-<pubDate>Mon, 28 Sep 2026 07:35:53 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>2026年09月28日 2026年9月25日に公表いたしました「タイムズカーWebサイトへの不正アクセスによる個人情報漏えいの可能性について（第1報）」に関し、その後の調査により現時点で判明している内容をご報告いたします。 ※第1報はこちら 「タイムズカーWebサイトへの不正アクセスによる個人情報漏えいの可能性について（第... — はてなブックマーク テクノロジー / score: 90 (大規模な不正アクセスと個人情報漏えい事案)</description>
+<description>アップルは9月28日、「iOS 26.7.1」の配信を開始した。CVEベースで1件の脆弱性に対処している。 — ASCII.jp / score: 90 (OSの脆弱性修正であり緊急度が高い)</description>
 </item>
 <item>
 <title>[90] タイムズカー約660万件情報漏えい</title>
@@ -77,14 +53,6 @@
 <pubDate>Mon, 28 Sep 2026 07:31:37 +0000</pubDate>
 <category>Yahoo!ニュース IT</category>
 <description> — Yahoo!ニュース IT / score: 90 (大規模な個人情報の流出事案でありセキュリティ上重要)</description>
-</item>
-<item>
-<title>[90] OpenAIのAIエージェントがアメリカの教育省・商務省・証券取引委員会のサイトに干渉していた</title>
-<link>https://gigazine.net/news/20260928-openai-us-government/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260928-openai-us-government/</guid>
-<pubDate>Mon, 28 Sep 2026 03:22:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>OpenAIのAIエージェントが2026年7月に「誤ってHugging Faceをハッキングしてしまった」ことが報告されたり、プログラミング言語「Ruby」のパッケージ配布サービス「RubyGems.org」への大規模な攻撃に関与していた可能性があることが報じられたり、オーストラリア政府機関のシステムをハッキングしたことが判明したりと、さまざまな事件が発生しています。2026年9月末には新たに、OpenAIのAIがアメリカの教育省・商務省・証券取引委員会のウェブサイトに干渉していたことが報じられています。 続きを読む... — GIGAZINE / score: 90 (AIエージェントのセキュリティインシデントに関する重大な報告)</description>
 </item>
 <item>
 <title>[90] スクリプト言語「PHP」にセキュリティ更新、v8.5.11、v8.4.26、v8.3.35、v8.2.34が公開／v8.2シリーズのサポートは年内まで、後継バージョンへの移行準備を</title>
@@ -135,6 +103,30 @@
 <description>Gemini Hacked Three Companies in First Known Breakout by Google’s AI Gemini finally caught up on Felony Bench ! The hacks, which the company confirmed on Friday, occurred in May as part of a test run by the company Irregular, which was also involved in similar incidents disclosed by OpenAI, Anthropic and Meta. In one of the cases, the model guessed passwords until it gained access to a protected system. In the other two cases, the model found credentials in a public repository that allowed it to — Simon Willison / score: 90 (AIモデルのセキュリティに関する重大な脆弱性報告)</description>
 </item>
 <item>
+<title>[85] OpenAIが「GPT-6.1 Astra」の一般公開を中止、安全基準を満たさないため</title>
+<link>https://gigazine.net/news/20260929-openai-abandons-plan-to-release-gpt-6-1-astra/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20260929-openai-abandons-plan-to-release-gpt-6-1-astra/</guid>
+<pubDate>Tue, 29 Sep 2026 03:26:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>OpenAIが2026年10月に予定していた「GPT-6.1 Astra」のリリース計画を中止したことがわかりました。自社の安全基準を十分に満たしていないと判断したためだそうです。 続きを読む... — GIGAZINE / score: 85 (主要AI企業による重要モデルのリリース中止)</description>
+</item>
+<item>
+<title>[85] [AINews] AMD buys World Labs for $8.2B, as Atlas solves sparse reconstruction problem for robotics, design and more</title>
+<link>https://www.latent.space/p/ainews-amd-buys-world-labs-for-82b</link>
+<guid isPermaLink="true">https://www.latent.space/p/ainews-amd-buys-world-labs-for-82b</guid>
+<pubDate>Tue, 29 Sep 2026 02:55:27 +0000</pubDate>
+<category>Latent Space</category>
+<description>The official post is shy, but since AMD is public, we know the purchase price . We covered them less than a year ago: Fei Fei has a lovely reflection blogpost that hints at the main reasons: Since our founding in 2024, World Labs has built leading AI spatial intelligence capabilities for everything from creative work to design . We built the world leading model training team for images, video and spatial reconstruction . And, with the acquisition of SceniX , we’re building towards an industry le — Latent Space / score: 85 (大手半導体企業によるAI関連企業の大型買収)</description>
+</item>
+<item>
+<title>[85] セイコーマート、57万アカウントの会員情報漏えいか　スマホアプリ経由で不正アクセス</title>
+<link>https://www.itmedia.co.jp/news/article/2609/29/2000001830/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2609/29/2000001830/</guid>
+<pubDate>Tue, 29 Sep 2026 02:46:27 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>北海道を中心にコンビニエンスストアを展開するセイコーマートは9月29日、会員制サービス「セイコーマートクラブ」の情報を保有するサーバに不正アクセスを受け、情報が漏えいした可能性があると発表した。スマートフォン向け「セイコーマートアプリ」のサーバを経由した攻撃だったといい、セイコーマートクラブ会員のア... — はてなブックマーク テクノロジー / score: 85 (セイコーマートでの大規模な会員情報漏えいインシデント)</description>
+</item>
+<item>
 <title>[85] 「Claude Sonnet 5.5」が登場、前モデルより30％高速・30％安価でGPT-6 Solより高性能</title>
 <link>https://gigazine.net/news/20260929-claude-sonnet-5-5/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260929-claude-sonnet-5-5/</guid>
@@ -151,14 +143,6 @@
 <description>2026年7月・8月にESET製品が最も多く検出したマルウェアは詐欺サイトへのリンクまたは詐欺を目的とした文章が書かれているWordファイル「DOC/Fraud」でした。今回は日本を標的とするValleyRATの脅威も解説します。 — ASCII.jp / score: 85 (日本を標的とするマルウェアValleyRATの解説。)</description>
 </item>
 <item>
-<title>[85] ニッポンレンタカーアプリに不正アクセス　免許証番号など閲覧のおそれ</title>
-<link>https://ascii.jp/elem/000/004/437/4437903/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/437/4437903/?rss</guid>
-<pubDate>Tue, 29 Sep 2026 01:35:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>ニッポンレンタカーサービスは9月26日、「ニッポンレンタカーアプリ」のシステムが第三者による不正アクセスを受け、会員41人の情報が不正に閲覧されたおそれがあると発表した。 — ASCII.jp / score: 85 (レンタカーアプリの不正アクセスと情報閲覧のおそれ。)</description>
-</item>
-<item>
 <title>[85] Anthropic、「Claude Sonnet 5.5」を発表 ～30％以上高速に、コストは最大30％減／「Claude 5.5」ファミリーの第2弾。ベンチマークによっては「Opus 5.5」に迫る</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2143923.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2143923.html</guid>
@@ -173,14 +157,6 @@
 <pubDate>Mon, 28 Sep 2026 22:07:38 +0000</pubDate>
 <category>Simon Willison</category>
 <description>Claude Sonnet 5.5 New Sonnet model from Anthropic today. They say it "runs 30%+ faster, and costs up to 30% less for most work" - it's priced the same as Sonnet 5 but appears to beat it on every benchmark, and should be cheaper to run as well. Here are some pelicans riding bicycles . Sonnet 5.5 suffered from the same bug as Opus 5.5 : the "max" thinking effort pelican thought for 128,000 tokens (at a cost of $1.28) before running out of tokens and failing to produce an SVG. Here's the pelican it — Simon Willison / score: 85 (主要AIモデルの高速化と価格改定)</description>
-</item>
-<item>
-<title>[85] Anthropic、「Claude Sonnet 5.5」公開　料金据え置きで30％以上高速化、タスク当たりコスト最大3割減</title>
-<link>https://www.itmedia.co.jp/news/article/2609/29/2000001823/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2609/29/2000001823/</guid>
-<pubDate>Mon, 28 Sep 2026 22:06:17 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>開発者向けの変更点もある。思考（thinking）を無効にしてSonnetを使っている場合は、Sonnet 5.5に移行する前に新しい設定「between_tools」に切り替える必要がある。この設定では、最初に考える段階の思考が無効のまま維持される。 推論の深さを調整する「effort」の既定値は、Claude Codeと各アプリでは「Medium」、Cl... — はてなブックマーク テクノロジー / score: 85 (主要AIモデルのメジャーアップデートと破壊的変更)</description>
 </item>
 <item>
 <title>[85] Apple、セキュリティ修正を含んだ｢macOS Golden Gate 27.0.1｣をリリース</title>
@@ -221,14 +197,6 @@
 <pubDate>Mon, 28 Sep 2026 04:05:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Adobeは9月22日（現地時間、以下同）、自社製品に関するセキュリティ情報を発表した。8日に続く今月2回目のアナウンスで、「InDesign」や「Premiere Pro」など7製品が対象となっている。 — 窓の杜 / score: 85 (多数の製品に影響するAdobeの脆弱性)</description>
-</item>
-<item>
-<title>[85] Kubernetes 1.37: SIG Appsの変更内容</title>
-<link>https://zenn.dev/musaprg/articles/kubernetes-changelog-1-37-sig-apps</link>
-<guid isPermaLink="true">https://zenn.dev/musaprg/articles/kubernetes-changelog-1-37-sig-apps</guid>
-<pubDate>Sun, 27 Sep 2026 17:25:56 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>Kubernetes v1.37が2026/08/26にリリースされました🎉 本記事では、特にSIG Appsに関係する変更点を、CHANGELOGからピックアップして紹介いたします。 📝がついた文章は、CHANGELOGの公式内容ではなく筆者の補足です。また、内容に誤り等ございましたら、コメントまたはDM等でご連絡ください！ 直近の変更点は以下になります。 Kubernetes 1.36: SIG Appsの変更内容 Kubernetes 1.35: SIG Appsの変更内容 Kubernetes 1.34: SIG Appsの変更内容 Kubernetes 1.33: SIG A... — Zenn トレンド / score: 85 (Kubernetesメジャーバージョンの変更点)</description>
 </item>
 <item>
 <title>[85] 画像共有サービス「Gyazo」が9日ぶりにサービス再開 ～不正アクセス・情報漏えい／過去画像は「本人のみ閲覧可能」な状態、無料ユーザーにも特別措置</title>
@@ -399,6 +367,14 @@
 <description>Googleは2026年9月15日、音声対話AIモデル「Gemini 3.8 Live」と「Gemini 3.8 Live Extended Thinking」を発表した。 — gihyo.jp / score: 82 (Googleの音声対話型AIの新モデル発表)</description>
 </item>
 <item>
+<title>[80] セコマ 57万件の個人情報漏えいか</title>
+<link>https://news.yahoo.co.jp/pickup/6596936?source=rss</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6596936?source=rss</guid>
+<pubDate>Tue, 29 Sep 2026 02:53:35 +0000</pubDate>
+<category>Yahoo!ニュース IT</category>
+<description> — Yahoo!ニュース IT / score: 80 (大規模な個人情報流出インシデントの発生)</description>
+</item>
+<item>
 <title>[80] Microsoft、「Windows 展開サービス」（WDS）を非推奨に ～次期「Windows Server」から／「WDS」が提供するPXEブート機能も対象。「Configuration Manager」への移行を推奨</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2143848.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2143848.html</guid>
@@ -415,12 +391,20 @@
 <description>Shipping Opus/Sonnet 5.5, Mods, Plugins, Projects, Tag while Pacing the Frontier — Latent Space / score: 80 (AnthropicのClaude Code新機能や新モデル情報。)</description>
 </item>
 <item>
+<title>[80] ニッポンレンタカーでも会員41人の情報漏えいのおそれ　免許証番号やクレカ下4ケタも</title>
+<link>https://www.itmedia.co.jp/news/article/2609/29/2000001827/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2609/29/2000001827/</guid>
+<pubDate>Tue, 29 Sep 2026 01:25:57 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>ニッポンレンタカーサービスは9月26日、「ニッポンレンタカーアプリ」のシステムに第三者から不正アクセスがあり、会員41人の個人情報が不正に閲覧されたおそれがあると発表した。免許証情報を登録していた会員は、免許証番号も閲覧された可能性があるという。 閲覧されたおそれがあるのは、氏名、電話番号、メールアド... — はてなブックマーク テクノロジー / score: 80 (ニッポンレンタカーアプリにおける不正アクセスと情報漏えい)</description>
+</item>
+<item>
 <title>[80] Apple、「iOS 27.0.1」「iPadOS 27.0.1」を公開 ～iPhone 18 Proの再起動やタッチ不能を修正／「iOS 27」「iPadOS 27」初のマイナーアップデート</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2143917.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2143917.html</guid>
-<pubDate>Mon, 28 Sep 2026 23:22:59 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Apple、「iOS 27.0.1」「iPadOS 27.0.1」を公開 ～iPhone 18 Proの再起動やタッチ不能を修正／「iOS 27」「iPadOS 27」初のマイナーアップデート — はてなブックマーク テクノロジー / score: 80 (iOS/iPadOSの不具合修正を含むマイナーアップデート)</description>
+<pubDate>Mon, 28 Sep 2026 20:54:56 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Appleは9月28日（現地時間、以下同）、「iOS 27.0.1」および「iPadOS 27.0.1」をリリースした。「iOS 27」「iPadOS 27」初のマイナーアップデート。「iOS 27.0.1」では、以下の3件の不具合が修正されている。 — 窓の杜 / score: 80 (iOS/iPadOSの不具合修正を含むマイナーアップデート)</description>
 </item>
 <item>
 <title>[80] Amazon Corretto September 2026 Patch Updates</title>
@@ -551,6 +535,22 @@
 <description>オラクルは、これまで3カ月ごとに提供してきたJavaのアップデートパッチのサイクルを速め、1カ月ごとにセキュリティパッチを提供することを発表。先月（2026年8月）から実際にセキュリティパッチの提供が開始されていることを明らかにしました。 ... — Publickey / score: 80 (Javaのセキュリティパッチ提供頻度の変更)</description>
 </item>
 <item>
+<title>[75] NVIDIAがAIの安全を強化する枠組み「Open Agent Safety Platform」を発表</title>
+<link>https://gigazine.net/news/20260929-nvidia-open-agent-safety-platform/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20260929-nvidia-open-agent-safety-platform/</guid>
+<pubDate>Tue, 29 Sep 2026 04:02:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>AIエージェントの意図しない動作を防ぐためのプラットフォーム「Open Agent Safety Platform」をNVIDIAが発表しました。AIを強制的にルールに従わせるものになっています。 続きを読む... — GIGAZINE / score: 75 (NVIDIAによるAI安全性を強化する新プラットフォーム発表)</description>
+</item>
+<item>
+<title>[75] オープンAI 新モデル公開取りやめ</title>
+<link>https://news.yahoo.co.jp/pickup/6596933?source=rss</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6596933?source=rss</guid>
+<pubDate>Tue, 29 Sep 2026 02:23:11 +0000</pubDate>
+<category>Yahoo!ニュース IT</category>
+<description> — Yahoo!ニュース IT / score: 75 (大手AI企業の新モデル公開見送りに関する報道)</description>
+</item>
+<item>
 <title>[75] ChromeOSは2034年にサポート終了、「Googlebook OS」への移行をGoogleが発表</title>
 <link>https://gigazine.net/news/20260929-from-chromeos-to-googlebook-os/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260929-from-chromeos-to-googlebook-os/</guid>
@@ -567,36 +567,20 @@
 <description> — CodeZine / score: 75 (AWSの新しいAI統合監視サービスの一般提供)</description>
 </item>
 <item>
-<title>[75] How we will do better for Australia</title>
-<link>https://openai.com/index/how-we-will-do-better-for-australia</link>
-<guid isPermaLink="true">https://openai.com/index/how-we-will-do-better-for-australia</guid>
-<pubDate>Tue, 29 Sep 2026 01:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>OpenAI apologizes for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences. — OpenAI News / score: 75 (OpenAIの豪州でのサイバー防衛支援と謝罪。)</description>
-</item>
-<item>
-<title>[75] 「Yahoo!きっず」終了へ　1997年から約29年、子どものネット利用変化で幕</title>
-<link>https://ascii.jp/elem/000/004/437/4437880/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/437/4437880/?rss</guid>
-<pubDate>Tue, 29 Sep 2026 00:50:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>LINEヤフーは9月28日、子ども向けポータルサイト「Yahoo!きっず」を2026年12月4日に終了すると発表した。 — ASCII.jp / score: 75 (歴史あるYahoo!きっずの終了という大きなニュース)</description>
-</item>
-<item>
-<title>[75] What's new in Git 2.56.0?</title>
-<link>https://about.gitlab.com/blog/whats-new-in-git-2-56-0/</link>
-<guid isPermaLink="true">https://about.gitlab.com/blog/whats-new-in-git-2-56-0/</guid>
-<pubDate>Tue, 29 Sep 2026 00:14:11 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>The Git project recently released Git 2.56.0. Let's look at some of the highlights of the release, including contributions from the Git team at GitLab. What's covered: Git Merge 2026 and schedule for Git 3.0git-history(1) learns dropgit-branch(1) learns to delete merged branchesgit-refs(1) learns... — はてなブックマーク テクノロジー / score: 75 (主要なバージョン管理システムGitの更新)</description>
-</item>
-<item>
 <title>[75] タイムズカー情報漏えい 識者警鐘</title>
 <link>https://news.yahoo.co.jp/pickup/6596915?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6596915?source=rss</guid>
 <pubDate>Mon, 28 Sep 2026 23:27:13 +0000</pubDate>
 <category>Yahoo!ニュース IT</category>
 <description> — Yahoo!ニュース IT / score: 75 (タイムズカー情報漏えいに関する専門家の警鐘)</description>
+</item>
+<item>
+<title>[75] How we will do better for Australia</title>
+<link>https://openai.com/index/how-we-will-do-better-for-australia</link>
+<guid isPermaLink="true">https://openai.com/index/how-we-will-do-better-for-australia</guid>
+<pubDate>Mon, 28 Sep 2026 19:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences. — OpenAI News / score: 75 (OpenAIの豪州でのサイバー防衛支援と謝罪。)</description>
 </item>
 <item>
 <title>[75] Grok 4.7 is now available on Amazon Bedrock</title>
@@ -647,6 +631,14 @@
 <description>AWS now offers Claude Sonnet 5.5, a smarter and more efficient Sonnet that delivers a clear leap forward on coding and knowledge work with at a lower cost per task for most work at faster speed. Claude Sonnet 5.5 is a smarter, more efficient Sonnet and a step up from Sonnet 5, making it a natural upgrade for teams already building on Sonnet. It's stronger for coding, completing well-scoped tasks as part of a larger coding strategy such as building and fixing features with Claude in the same sess — AWS What's New / score: 75 (AWSでの有力な新AIモデルClaude Sonnet 5.5提供開始)</description>
 </item>
 <item>
+<title>[75] Go 1.28でstring(int)周りの挙動が変わりそう</title>
+<link>https://zenn.dev/aqyuki/articles/go-proposal-3939</link>
+<guid isPermaLink="true">https://zenn.dev/aqyuki/articles/go-proposal-3939</guid>
+<pubDate>Mon, 28 Sep 2026 07:26:11 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>はじめに 2026年09月23日のProposal Review Meetingで珍しいProposalがProposal-Acceptedになったので今回はそのProposalについてまとめていこうと思います。 spec: remove string(int) #3939 今回承認されたProposalはspec: remove string(int)#3939です。このProposalで提案されているのは整数値から文字列への直接変換を変更しrune、byteを基底型として持つ場合とuntyped rune constantの場合にのみ文字列へと直接変換できるように制限しようと... — Zenn トレンド / score: 75 (Go 1.28におけるstringint周りの仕様変更の提案解説)</description>
+</item>
+<item>
 <title>[75] Terraform provider for Google Cloud 8.0が一般提供開始</title>
 <link>https://codezine.jp/article/detail/29818</link>
 <guid isPermaLink="true">https://codezine.jp/article/detail/29818</guid>
@@ -669,22 +661,6 @@
 <pubDate>Mon, 28 Sep 2026 05:30:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 75 (GitHub Copilotコードレビュー設定の全プラン拡大)</description>
-</item>
-<item>
-<title>[75] どのAIを使うかをJevで自動選択する「Jev Router」が登場、タスク難易度から適切なAIモデルを瞬時に判断可能でOpenRouterの既存ルーターより高精度</title>
-<link>https://gigazine.net/news/20260928-openrouter-jev-router/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260928-openrouter-jev-router/</guid>
-<pubDate>Mon, 28 Sep 2026 04:20:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>「Jev」は既存の大規模言語モデル(LLM)とは大きく異なるAIモデルで、適切なタスクでは非常に高速かつ安価に動作することから大きな注目を集めています。そんなJevで「タスクごとに最適なAIモデルを選択する」という操作を高速かつ高精度に実行できる「Jev Router」がOpenRouter上で利用可能となりました。 続きを読む... — GIGAZINE / score: 75 (新AIモデルJevを活用したルーターの実用的な解説)</description>
-</item>
-<item>
-<title>[75] 「Node.js 22.23.3」LTS版公開、OpenSSLやnpmなど依存関係を更新</title>
-<link>https://codezine.jp/article/detail/29815</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/29815</guid>
-<pubDate>Mon, 28 Sep 2026 02:30:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 75 (Node.jsのLTS版マイナーアップデートと依存関係更新)</description>
 </item>
 <item>
 <title>[75] AI は善意？悪意？過失？ AI サイバー攻撃は誰のせい？ AI Alignment 最新動向から読み取る AI 活用のリスクと対策</title>
@@ -805,6 +781,30 @@
 <pubDate>Thu, 24 Sep 2026 08:00:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Amazon EMR on EKS now supports interactive Apache Spark sessions with Spark Connect. Data engineers and data scientists can develop and debug Apache Spark applications interactively from managed notebooks in Amazon SageMaker Unified Studio and their own IDEs, such as Jupyter and Visual Studio Code, with Spark running on the Amazon EKS clusters they already operate. An interactive session provides a persistent Spark context that spans across cells and scripts, letting you blend local Python code  — AWS What's New / score: 75 (Amazon EMR on EKSでのSpark Connectサポート)</description>
+</item>
+<item>
+<title>[75] Google、音声生成モデルGemini 3.8 Flash TTSとGemini 3.8 Flash-Lite TTSをリリース ―100以上の言語と方言の音声を表現力豊かに生成</title>
+<link>https://gihyo.jp/article/2026/09/gemini-3-8-tts?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/09/gemini-3-8-tts?utm_source=feed</guid>
+<pubDate>Thu, 24 Sep 2026 05:26:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Googleは2026年9月23日、テキスト読み上げモデル「Gemini 3.8 Flash TTS」と「Gemini 3.8 Flash-Lite TTS」をリリースした。 — gihyo.jp / score: 75 (Googleの新音声生成モデルのリリース)</description>
+</item>
+<item>
+<title>[75] “声をイチから作りだせる”音声合成モデル「Gemini 3.8 TTS」、Googleが発表／役柄・アクセント・声の特徴で生成、100以上の言語と方言に対応、2,000以上のライブラリ</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2142765.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2142765.html</guid>
+<pubDate>Thu, 24 Sep 2026 04:05:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Googleは9月23日（現地時間）、テキストから音声を生成（TTS：Text-to-Speech）するモデル「Gemini 3.8 Flash TTS」「Gemini 3.8 Flash-Lite TTS」を発表した。単にテキストを読み上げるのではなく、キャラクターや会話シーンを演出する音声制作スタジオとして位置付けられた、同社で「もっとも表現力豊かな音声生成モデル」となる。 — 窓の杜 / score: 75 (Googleの高表現力な音声合成モデル発表)</description>
+</item>
+<item>
+<title>[75] Windows 11の2026年9月プレビューパッチが公開 ～「バージョン 24H2」はこれが最後／「Copilot」キーを「Ctrl」などに再割り当て、「Emoji 17.0」などに対応、廃止機能も</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2142738.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2142738.html</guid>
+<pubDate>Thu, 24 Sep 2026 02:55:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Microsoftは9月22日（現地時間）、2026年9月のWindows非セキュリティプレビュー更新プログラムをリリースした。現在、以下のOSバージョンで利用可能。 — 窓の杜 / score: 75 (Windows 11プレビューパッチと新機能)</description>
 </item>
 </channel>
 </rss>
