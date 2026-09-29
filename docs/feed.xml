@@ -4,8 +4,24 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Tue, 29 Sep 2026 16:11:13 +0000</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 18:12:23 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Accelerating agentic RL and evaluation research velocity with 45x faster GKE Agent Sandbox</title>
+<link>https://cloud.google.com/blog/products/containers-kubernetes/accelerate-agentic-rl-with-gke-agent-sandbox/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/containers-kubernetes/accelerate-agentic-rl-with-gke-agent-sandbox/</guid>
+<pubDate>Tue, 29 Sep 2026 17:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>When scaling up agentic reinforcement learning (RL) and evaluation across massive parallel rollouts, frontier AI labs inevitably hit a bottleneck: Expensive GPU clusters sit idle, waiting minutes for CPU sandbox cold-starts, plus thousands of multi-gigabyte SWE-bench -style image pulls and scheduling backlogs. It’s a sandbox infrastructure problem that silently slows down your research and burns your training budget. To solve this fundamental infrastructure bottleneck, today we are introducing G — Google Cloud Blog / score: 60 (AIエージェントの強化学習環境に関する技術解説。)</description>
+</item>
+<item>
+<title>Apple、製品投入の迅速化と頻度向上を検討か</title>
+<link>https://taisy0.com/2026/09/30/228144.html</link>
+<guid isPermaLink="true">https://taisy0.com/2026/09/30/228144.html</guid>
+<pubDate>Tue, 29 Sep 2026 16:22:42 +0000</pubDate>
+<category>気になる、記になる…</category>
+<description>BloombergのMark Gurman氏によると、、Appleのジョン・ターナス新CEOは、製品開発を加速させ、新製品をより頻繁に投入できるよう、組織の再編に取り組んでいることが分かりました。 ジョン・ターナスCEO […] — 気になる、記になる… / score: 40 (Appleの組織再編と製品戦略に関する噂。)</description>
+</item>
 <item>
 <title>Google Cloud partners deliver new security agents and AI defenses with Gemini Enterprise</title>
 <link>https://cloud.google.com/blog/products/identity-security/google-cloud-partners-deliver-new-security-agents-and-ai-defenses-with-gemini-enterprise/</link>
@@ -13,6 +29,22 @@
 <pubDate>Tue, 29 Sep 2026 16:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>As threat actors increasingly use AI to accelerate and develop cyberattacks, enterprise defenders need to rely on both AI and a critical defender’s advantage: Business context that only you possess. Enterprise cyber defense spans identity, network, endpoint, data, cloud, and application layers, often split across a dozen or more products, each with its own context. At Google Cloud Next, we brought partner-built agents into Gemini Enterprise to give you one place to discover and deploy specialize — Google Cloud Blog / score: 70 (Gemini Enterpriseを活用したセキュリティ対策)</description>
+</item>
+<item>
+<title>Graph Workflows in ADK: Everything You Need to Know</title>
+<link>https://cloud.google.com/blog/topics/developers-practitioners/graph-workflows-in-adk-everything-you-need-to-know/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/developers-practitioners/graph-workflows-in-adk-everything-you-need-to-know/</guid>
+<pubDate>Tue, 29 Sep 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Graph engineering is the design work: breaking a task into nodes, connecting them with edges, and deciding where code, models, or people control the next step. The Agent Development Kit (ADK) 's Workflow turns that design into an executable process, with functions and agents doing the work. Through a refund example, this post shows how to run steps in parallel, route decisions, pause for human review, and process a list of cases. It also explains when to declare the paths in a static graph and w — Google Cloud Blog / score: 55 (GoogleのSDKにおけるグラフワークフロー解説。)</description>
+</item>
+<item>
+<title>OpenAI DevDay 2026 live blog</title>
+<link>https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/</guid>
+<pubDate>Tue, 29 Sep 2026 15:55:13 +0000</pubDate>
+<category>Simon Willison</category>
+<description>I'm at OpenAI DevDay today, in Fort Mason, San Francisco. Same as last year I'll be live blogging the keynote and some other notes during the day. OpenAI gave me a free ticket and a seat in the "creator" area for the keynote. Tags: ai , openai , generative-ai , llms , coding-agents , live-blog — Simon Willison / score: 70 (AI開発者によるタイムリーなカンファレンス実況。)</description>
 </item>
 <item>
 <title>Google Cloud、AIエージェントからの大量アクセスをPostgreSQLのプライマリDBから切り離せる「PostgreSQL for agents in AlloyDB」発表</title>
@@ -127,6 +159,14 @@
 <description>まるでスパイダーマンな、指から糸を飛ばして遊べるアメリカ発の次世代おもちゃ「ZipString Aracna」の魅力を徹底解説。大人が夢中になる秘密や、ギズマートでのお得な購入方法をご紹介します。 — ギズモード・ジャパン / score: 10 (一般向け玩具の紹介記事)</description>
 </item>
 <item>
+<title>レノボ、4K液晶&amp;ジェスチャーAI搭載の「Lenovo Yoga Tab」2モデルを発表</title>
+<link>https://pc.watch.impress.co.jp/docs/news/2144226.html</link>
+<guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2144226.html</guid>
+<pubDate>Tue, 29 Sep 2026 12:43:57 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>レノボ、4K液晶&amp;ジェスチャーAI搭載の「Lenovo Yoga Tab」2モデルを発表 — はてなブックマーク テクノロジー / score: 25 (家電製品の新モデル発表で技術的影響は低い。)</description>
+</item>
+<item>
 <title>The State of Kotlin in 2026 Report</title>
 <link>https://blog.jetbrains.com/kotlin/2026/09/state-of-kotlin-2026-report/</link>
 <guid isPermaLink="true">https://blog.jetbrains.com/kotlin/2026/09/state-of-kotlin-2026-report/</guid>
@@ -157,6 +197,14 @@
 <pubDate>Tue, 29 Sep 2026 12:30:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>もはやガジェットおくるみと呼びたい。キャンプやハイキングなどのアウトドアが好きで、なおかつカメラも好きな人に質問。ズバリ、カメラの運搬に悩んだことはありませんか？まずアウトドアにおいては荷物を減らしたい。けれどカメラは守りたいからケースや収… — ギズモード・ジャパン / score: 15 (アウトドア向けカメラ保護布の紹介)</description>
+</item>
+<item>
+<title>免許証画像が漏れると何が“ヤバい”のか　タイムズカーで最大約660万件の個人情報漏えいで考えられる「3つのリスク」</title>
+<link>https://www.itmedia.co.jp/mobile/articles/2609/29/news085_2.html</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/mobile/articles/2609/29/news085_2.html</guid>
+<pubDate>Tue, 29 Sep 2026 12:04:53 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>免許証画像が漏れると何が“ヤバい”のか タイムズカーで最大約660万件の個人情報漏えいで考えられる「3つのリスク」（2/2 ページ） 被害を未然に防ぐためにユーザーがとるべき対策 自身の情報が流出した可能性がある場合、実被害が発生する前に先手を打って対策を講じることが重要だ。ここでは、具体的な自衛策を紹介す... — はてなブックマーク テクノロジー / score: 85 (情報漏洩による具体的なリスク解説でセキュリティ啓発。)</description>
 </item>
 <item>
 <title>【10/1夕方まで】オリジナルが持つ特徴やヴィンテージならではの本物の回路動作を再現した909、Roland「TR-909」が67%OFF！</title>
@@ -311,6 +359,14 @@
 <description>UGREENが、新たな冷却技術を搭載した「MagFlow Pro」シリーズを発表しました。 「MagFlow Pro」シリーズの新製品として、Qi2 25W対応のモバイルバッテリーとして世界初の液冷システムを搭載した「U […] — 気になる、記になる… / score: 40 (冷却技術搭載の新しい充電アクセサリの紹介)</description>
 </item>
 <item>
+<title>タイムズカーで660万件の会員情報が流出した件、運転免許証画像の流出が悪用される危険性について指摘…CICの本人申告制度を活用すれば、信用情報の審査で注意してくれる</title>
+<link>https://togetter.com/li/2751879</link>
+<guid isPermaLink="true">https://togetter.com/li/2751879</guid>
+<pubDate>Tue, 29 Sep 2026 10:35:27 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>タイムズカー、660万件の会員情報流出 免許証画像も - CNET Japan タイムズモビリティは9月28日、カーシェアリングサービス「タイムズカー」のWebサイトへの不正アクセスについて、約660万件の会員情報が第三者に取得されたことを確認したと発表した。氏名や住所、運転免… CNET Japan アンテナ @aquadive うぎゃ…。 さ... — はてなブックマーク テクノロジー / score: 95 (660万件の個人情報・免許証画像流出という重大な事件。)</description>
+</item>
+<item>
 <title>Claude Code、同梱のclaude-apiスキルに新コマンド「build-eval」と「hillclimb」を追加 ——評価の作成からプロンプト・モデル設定の調整まで</title>
 <link>https://gihyo.jp/article/2026/09/claude-code-build-eval-and-hillclimb?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/09/claude-code-build-eval-and-hillclimb?utm_source=feed</guid>
@@ -367,20 +423,20 @@
 <description>「好きを仕事にする」のヒントを探る！ギズモードのリチャードが登壇する10月4日の就活オンラインイベントの概要と見どころをご紹介します。 — ギズモード・ジャパン / score: 10 (就職活動に関するオンラインイベントの告知)</description>
 </item>
 <item>
-<title>AIエージェント「Manus 2.0」リリース、さらにパーソナルAIエージェント向けアプリ「Cue」やプロフェッショナルなAIワークスペースを実現するデスクトップアプリ「Manus Studio」も</title>
-<link>https://gigazine.net/news/20260929-manus-2-0/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260929-manus-2-0/</guid>
-<pubDate>Tue, 29 Sep 2026 10:13:00 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>アジア圏を中心にサービスを展開し、一度Metaとの買収合意に至った後に再び独立したという異色の経歴を持つAI起業のManusが、AIエージェントの「Manus 2.0」を発表しました。独立後初の大型アップデートということで、「ただのバージョンアップではない」とアピールされています。 Manus 2.0 のご紹介 https://manus.im/... — はてなブックマーク テクノロジー / score: 80 (Manus 2.0および新AIエージェント関連ツールの発表)</description>
-</item>
-<item>
 <title>Mac Pro（2019）の中古が25万円以下でセール販売中</title>
 <link>https://iphone-mania.jp/sale-606771/</link>
 <guid isPermaLink="true">https://iphone-mania.jp/sale-606771/</guid>
 <pubDate>Tue, 29 Sep 2026 10:12:13 +0000</pubDate>
 <category>iPhone Mania</category>
 <description>独特のケースデザインで根強い人気のMac Proの2019年モデルが、秋葉館でセール販売中です。 Mac Pro（2019）はmacOS Tahoeまでしか対応しませんが、このケースを利用して中身を入れ替えるなどの活用も […] — iPhone Mania / score: 30 (中古PCのセール情報に関する記事)</description>
+</item>
+<item>
+<title>AIエージェント「Manus 2.0」リリース、さらにパーソナルAIエージェント向けアプリ「Cue」やプロフェッショナルなAIワークスペースを実現するデスクトップアプリ「Manus Studio」も</title>
+<link>https://gigazine.net/news/20260929-manus-2-0/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20260929-manus-2-0/</guid>
+<pubDate>Tue, 29 Sep 2026 10:11:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>アジア圏を中心にサービスを展開し、一度Metaとの買収合意に至った後に再び独立したという異色の経歴を持つAI起業のManusが、AIエージェントの「Manus 2.0」を発表しました。独立後初の大型アップデートということで、「ただのバージョンアップではない」とアピールされています。 続きを読む... — GIGAZINE / score: 80 (Manus 2.0および新AIエージェント関連ツールの発表)</description>
 </item>
 <item>
 <title>2026年9月29日のヘッドラインニュース</title>
@@ -413,6 +469,22 @@
 <pubDate>Tue, 29 Sep 2026 10:00:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>2026年9月12日に茨木小学校にて16～20時で開催された「ふるさと祭り」に「イラストマンガ創作部」として模擬店を出してみたところ、開始から2時間50分後の18時50分には用意したものすべてが売り切れて「完売」しました！当日購入してくれた方々、準備を手伝ってくれた方々、本当にありがとうございました！で、実際に何をどうやっていったのかという記録は以下の通り。 続きを読む... — GIGAZINE / score: 10 (小学校の祭りで模擬店を出店した活動レポート)</description>
+</item>
+<item>
+<title>Introducing GPT-6.1 Sol</title>
+<link>https://openai.com/index/introducing-gpt-6-1-sol</link>
+<guid isPermaLink="true">https://openai.com/index/introducing-gpt-6-1-sol</guid>
+<pubDate>Tue, 29 Sep 2026 10:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices. — OpenAI News / score: 85 (主要AIの新モデル発表で開発者コミュニティに影響。)</description>
+</item>
+<item>
+<title>DevDay 2026 Recap</title>
+<link>https://openai.com/index/devday-2026-recap</link>
+<guid isPermaLink="true">https://openai.com/index/devday-2026-recap</guid>
+<pubDate>Tue, 29 Sep 2026 10:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders. — OpenAI News / score: 90 (大規模AIカンファレンスの総括で重要度が高い。)</description>
 </item>
 <item>
 <title>ファーウェイの本格ダイビング対応スマートウォッチ「HUAWEI WATCH Ultimate 2」が国際競技会の公式ウォッチに</title>
@@ -655,6 +727,14 @@
 <description>ヤマト運輸は9月29日、「クロネコ代金後払いサービス」が28日に第三者による不正アクセスを受けたと発表した。 — ASCII.jp / score: 85 (決済サービスにおける不正アクセス・サービス停止の重大な障害)</description>
 </item>
 <item>
+<title>「クロネコ代金後払いサービス」への不正アクセスの発生について | ヤマトホールディングス株式会社</title>
+<link>https://www.yamato-hd.co.jp/important/info_260929_1.html</link>
+<guid isPermaLink="true">https://www.yamato-hd.co.jp/important/info_260929_1.html</guid>
+<pubDate>Tue, 29 Sep 2026 08:37:53 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>ヤマト運輸株式会社（本社：東京都中央区、代表取締役社長：阿波 誠一、以下：ヤマト運輸）は、9月28日（月）に「クロネコ代金後払いサービス」が第三者による不正アクセスを受けたことを確認しましたので、お知らせいたします。 不正アクセス確認後、速やかに外部からのアクセス制限など必要な対策を講じるとともに、同... — はてなブックマーク テクノロジー / score: 90 (大規模な決済サービスの不正アクセス事故で重要。)</description>
+</item>
+<item>
 <title>汎用AIエージェント「Manus 2.0」が発表 ～デスクトップアプリは「Manus Studio」へ／タスクの代行から創造のワークスペースに。エージェントアプリ「Cue」も登場</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2144171.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2144171.html</guid>
@@ -725,86 +805,6 @@
 <pubDate>Tue, 29 Sep 2026 08:07:58 +0000</pubDate>
 <category>Yahoo!ニュース IT</category>
 <description> — Yahoo!ニュース IT / score: 75 (免許証画像流出のリスク解説と注意喚起)</description>
-</item>
-<item>
-<title>自分の脳が何B級のAIと同等性能なのか診断できるウェブサイト「HumanBench」が登場、選択問題で人間の力を試してどのAIに性格が似ているかも判定可能</title>
-<link>https://gigazine.net/news/20260929-humanbench-brain-ai/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260929-humanbench-brain-ai/</guid>
-<pubDate>Tue, 29 Sep 2026 08:02:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>AIは急速に発展しており、ベンチマークスコアが毎日のように更新されています。そんなAIと比べて自分の能力がどれくらいの位置にあるのかを診断できるウェブサイト「HumanBench」が登場しました。登録不要で無料で診断可能だったので実際に試してみました。 続きを読む... — GIGAZINE / score: 20 (AIベンチマーク関連の一般的なエンタメ記事)</description>
-</item>
-<item>
-<title>Chrome 152、Webアプリの通信先を制限する「接続許可リスト」を導入</title>
-<link>https://codezine.jp/article/detail/29835</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/29835</guid>
-<pubDate>Tue, 29 Sep 2026 08:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 60 (Chromeの新しいセキュリティ機能追加のため)</description>
-</item>
-<item>
-<title>にんにくの香りが強烈な「スーパーカップ1.5倍 あばれ豚骨ラーメン」を食べてみた</title>
-<link>https://gigazine.net/news/20260929-acecook-abare-tonkotsu/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260929-acecook-abare-tonkotsu/</guid>
-<pubDate>Tue, 29 Sep 2026 08:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>2026年9月21日、エースコックから「スーパーカップ1.5倍 あばれ豚骨ラーメン」が登場しました。にんにくをしっかりと利かせた豚骨スープが特徴とのことで、どんな味なのか実際に食べて確かめてみました。 続きを読む... — GIGAZINE / score: 10 (一般的な食品の新発売ニュース)</description>
-</item>
-<item>
-<title>AWS Systems Manager now supports sharing documents through AWS Resource Access Manager</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/09/systems-manager-sharing-documents-ram/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/systems-manager-sharing-documents-ram/</guid>
-<pubDate>Tue, 29 Sep 2026 08:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>AWS Systems Manager now lets you share your Systems Manager Documents (SSM Documents) with an entire AWS organization or with specific organizational units (OUs) using AWS Resource Access Manager (AWS RAM). Previously, you could only share a document publicly or with a list of individual account IDs. You can now easily share a document with your organization or OUs, and Systems Manager automatically keeps that sharing up to date as accounts are added to or removed from your organization or OU, s — AWS What's New / score: 55 (AWS Systems Managerの機能拡張)</description>
-</item>
-<item>
-<title>美しいiPhone18には、ESRのレザーケースがハマる。気の利いた充電器たちと一緒にそろえておかない？</title>
-<link>https://www.gizmodo.jp/article/esr-iphone18-accessories/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/esr-iphone18-accessories/</guid>
-<pubDate>Tue, 29 Sep 2026 08:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>iPhone18対応のESR製新作アクセサリー5種をじっくりレビュー。レザー調ケースや手軽に貼れる保護フィルム、高機能充電器のデザインと実用性を舐めるようにチェックしていきます。 — ギズモード・ジャパン / score: 35 (ガジェットのアクセサリー紹介・レビュー記事)</description>
-</item>
-<item>
-<title>ChromeOSの後継Googlebook OSはウンコ💩やで</title>
-<link>https://anond.hatelabo.jp/20260925135223</link>
-<guid isPermaLink="true">https://anond.hatelabo.jp/20260925135223</guid>
-<pubDate>Tue, 29 Sep 2026 07:57:49 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>先日こんな記事を書いていたんだけど、最近話題になってるChromeOSとAndroidの基盤統合（いわゆるGooglebook OS構想）と、ChromeOS 147からデフォルトになった新アーキテクチャ「Baguette」 の話をLinuxギーク目線でするわ。 世間やガジェットメディアは「新GooglebookでAndroidアプリがもっとサクサク動くようになるね... — はてなブックマーク テクノロジー / score: 35 (ChromeOSのアップデートに関する個人ブログ記事)</description>
-</item>
-<item>
-<title>Cloudflare、AstroベースのWordPress再構築CMS「EmDash 1.0」をリリース ―サンドボックス型プラグインと分散レジストリを採用</title>
-<link>https://gihyo.jp/article/2026/09/emdash-1-0?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/09/emdash-1-0?utm_source=feed</guid>
-<pubDate>Tue, 29 Sep 2026 07:57:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Cloudflareは2026年9月28日、Astroをベースに構築されたオープンソースのCMSである「EmDash」の正式版となる「EmDash 1.0」をリリースした。 — gihyo.jp / score: 70 (CloudflareによるAstroベースのCMS正式版リリース)</description>
-</item>
-<item>
-<title>このイラスト、何に見える？とLINEで母に聞いてみたら…全美大生の地雷を踏み抜いてておもろい「そういうことじゃないんだよっ！」「母親はAI使いがち」</title>
-<link>https://togetter.com/li/2751892</link>
-<guid isPermaLink="true">https://togetter.com/li/2751892</guid>
-<pubDate>Tue, 29 Sep 2026 07:52:04 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>深野(イラレ練習中) @yesdeep_MA 自分でも理解してる問題点を指摘されるの、友達とかに教えてもらう分には全く地雷じゃ無いんだけど親にはイラッとしてしまう 母親は美術系の出身じゃないからだろうか チャッピーは論外。殺傷モノ。 2026-09-28 23:36:43 — はてなブックマーク テクノロジー / score: 15 (日常の些細な出来事に関する話題)</description>
-</item>
-<item>
-<title>【9/30まで】500を超える「クラス最高」のサウンドを収録した最強の鍵盤音源、Spectrasonics「Keyscape (USB Drive) 」が6,700円オフ！</title>
-<link>https://computermusic.jp/2026/09/spectrasonics-keyscape/</link>
-<guid isPermaLink="true">https://computermusic.jp/2026/09/spectrasonics-keyscape/</guid>
-<pubDate>Tue, 29 Sep 2026 07:46:58 +0000</pubDate>
-<category>Computer Music Japan</category>
-<description>500を超える「クラス最高」のサウンドを収録した最強の鍵盤音源、Spectrasonics「Keyscape (USB Drive) 」が6,700円オフとなっています。 Rock oNではアウトレットセールを開催中です... The post 【9/30まで】500を超える「クラス最高」のサウンドを収録した最強の鍵盤音源、Spectrasonics「Keyscape (USB Drive) 」が6,700円オフ！ first appeared on Computer Music Japan . — Computer Music Japan / score: 15 (音楽制作向け音源プラグインのセール情報)</description>
-</item>
-<item>
-<title>免許証画像が漏れると何が“ヤバい”のか　タイムズカーで最大約660万件の個人情報漏えいで考えられる「3つのリスク」</title>
-<link>https://www.itmedia.co.jp/mobile/articles/2609/29/news085.html</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/mobile/articles/2609/29/news085.html</guid>
-<pubDate>Tue, 29 Sep 2026 07:41:33 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>パーク24グループが運営するカーシェアリングサービス「タイムズカー」で、最大約660万件に上るとされる大規模な個人情報流出が発生した。流出したデータの中には、氏名や住所といった基本情報だけでなく、「運転免許証の画像」などの本人確認書類が含まれている可能性があり、影響の大きさが懸念されている。 本記事で... — はてなブックマーク テクノロジー / score: 85 (最大660万件の個人情報流出と免許証画像漏洩のリスク)</description>
 </item>
 </channel>
 </rss>
