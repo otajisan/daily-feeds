@@ -4,15 +4,15 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 30 Sep 2026 08:13:44 +0000</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 10:10:28 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] AIエージェントが「画像を貼れない」問題を勝手に解決、343組織の機密スクショ1万3000枚超をGitHubの公開リポジトリに保存していたことが判明</title>
 <link>https://gigazine.net/news/20260930-pixelleak/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260930-pixelleak/</guid>
-<pubDate>Wed, 30 Sep 2026 04:10:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>AIコーディングエージェントが開発中の画面をレビュー担当者と共有する際、非公開リポジトリのスクリーンショットをGitHub上の公開リポジトリへアップロードしていたことがセキュリティ企業のGlow Securityによって明らかにされました。Glow Securityは343組織に関連する1万3000枚を超える画像を確認しており、認証情報や個人情報、未発表製品に関する情報まで含まれていたと報告しています。 続きを読む... — GIGAZINE / score: 95 (AIエージェントによる機密情報の重大な漏洩事故)</description>
+<pubDate>Wed, 30 Sep 2026 04:26:15 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>AIコーディングエージェントが開発中の画面をレビュー担当者と共有する際、非公開リポジトリのスクリーンショットをGitHub上の公開リポジトリへアップロードしていたことがセキュリティ企業のGlow Securityによって明らかにされました。Glow Securityは343組織に関連する1万3000枚を超える画像を確認しており、認証情報... — はてなブックマーク テクノロジー / score: 95 (AIエージェントによる機密情報の重大な漏洩事故)</description>
 </item>
 <item>
 <title>[95] Defending Against Active Exploitation of Citrix NetScaler ADC and Gateway Appliances</title>
@@ -39,20 +39,20 @@
 <description>The Apache Software Foundationは9月23日、「Apache Tomcat」と「Apache Tomcat Native」に15件の脆弱性が存在することを明らかにした。「Apache Tomcat」v9 / v10 / v11系統および「Apache Tomcat Native」v1.3 / 2.0系統に影響し、CVSS:3.1の最大スコアは9.8（CRITICAL）。 — 窓の杜 / score: 95 (Apache Tomcatの深刻度CRITICALの脆弱性情報)</description>
 </item>
 <item>
-<title>[95] 「GitLab」に再び緊急パッチ、CVSS基本値「9.9」の脆弱性2件に対処／サーバー上で任意のコードを実行されるおそれ。自前運用の「GitLab」は即時更新を</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2142932.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2142932.html</guid>
-<pubDate>Thu, 24 Sep 2026 07:39:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米GitLabは9月23日（現地時間）、「GitLab」の緊急パッチ v19.4.1、v19.3.3、v19.2.7 をリリースした。「Community Edition」（CE）と「Enterprise Edition」（EE）の両方が対象で、計11件の脆弱性が修正されている。同社はできるだけ早く修正版を適用するよう呼びかけている。 — 窓の杜 / score: 95 (GitLabのCVSS 9.9を含む緊急脆弱性パッチ)</description>
-</item>
-<item>
 <title>[95] Next.js Security Update for a Critical Upstream Issue</title>
 <link>https://nextjs.org/blog/nextjs-security-update-september-22-2026</link>
 <guid isPermaLink="true">https://nextjs.org/blog/nextjs-security-update-september-22-2026</guid>
 <pubDate>Tue, 22 Sep 2026 18:00:00 +0000</pubDate>
 <category>Next.js Blog</category>
 <description>The September 22, 2026 out-of-band security update for Next.js is now available — Next.js Blog / score: 95 (Next.jsの重大な上流脆弱性に対する緊急セキュリティ修正。)</description>
+</item>
+<item>
+<title>[90] 「OpenSSL」に14件のセキュリティ欠陥、修正版が公開。「OpenSSL 3.0」はサポート終了／v4.0.3、v3.6.5、v3.5.9、v3.4.8が一般リリース</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2144482.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2144482.html</guid>
+<pubDate>Wed, 30 Sep 2026 08:14:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>SSL/TLSプロトコルを実装したオープンソースライブラリ「OpenSSL」の開発チームは9月29日（日本時間）、「OpenSSL」のセキュリティアップデートを実施した。以下のバージョンが利用可能。 — 窓の杜 / score: 90 (OpenSSLの複数脆弱性と修正版公開)</description>
 </item>
 <item>
 <title>[90] Google Chromeに"重大"な脆弱性</title>
@@ -143,14 +143,6 @@
 <description>「WSL 3.0」がリリース、3カ月のテストを経て「WSL containers」が正式版に／「Docker」なしでLinuxコンテナーを構築・実行、「wslc compose」の開発にも着手 — はてなブックマーク テクノロジー / score: 85 (WSLメジャーリリースとコンテナ機能の正式化)</description>
 </item>
 <item>
-<title>[85] 「誰でも入手できるAI」がサイバー攻撃を自律構築　Anthropicが「GLM-5.3」に警鐘</title>
-<link>https://ascii.jp/elem/000/004/438/4438590/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/438/4438590/?rss</guid>
-<pubDate>Wed, 30 Sep 2026 05:55:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>Anthropicは9月29日、Zhipu AI（Z.ai）のAIモデル「GLM-5.3」を検証し、エンドツーエンドの攻撃コードを自律的に構築できる能力を確認したと発表した。 — ASCII.jp / score: 85 (AIモデルのサイバー攻撃自律構築リスクに関する重要な警鐘)</description>
-</item>
-<item>
 <title>[85] [AINews] OpenAI DevDay 2026: Dots, 6.1 Sol, Ultrafast, Decisions API, Agents API, Spaces, Marketplace, and 1.2 Billion ChatGPT WAU</title>
 <link>https://www.latent.space/p/ainews-openai-devday-2026-dots-61</link>
 <guid isPermaLink="true">https://www.latent.space/p/ainews-openai-devday-2026-dots-61</guid>
@@ -164,7 +156,7 @@
 <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2609/30/2000001877/</guid>
 <pubDate>Wed, 30 Sep 2026 04:55:05 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>カーシェア「タイムズカー」で、退会者を含む約660万アカウントの情報が漏えいした問題をめぐり、パーク24は取材に対して、漏えいの対象となった退会者の個人情報を、退会後7年間保存していた理由について、「法人税法に基づく取引記録の保管義務のため」と説明した。ただ免許証画像の保存は法人税法に根拠はなく、「な... — はてなブックマーク テクノロジー / score: 85 (大規模個人情報流出と法解釈の課題)</description>
+<description>カーシェア「タイムズカー」で、退会者を含む約660万アカウントの情報が漏えいした問題。パーク24はITmediaNEWSの取材に対して、退会者の個人情報を退会後7年間保存していた理由を「法人税法に基づく取引記録の保管義務のため」と説明した。 ただ免許証画像の保存は法人税法に根拠はなく、「なりすまし対策、問い合わせ... — はてなブックマーク テクノロジー / score: 85 (大規模個人情報流出と法解釈の課題)</description>
 </item>
 <item>
 <title>[85] IBMの量子コンピュータがスーパーコンピュータで100年かかる計算を19秒で完了</title>
@@ -231,20 +223,20 @@
 <description>米OpenAIは9月29日（現地時間、以下同）、開発者向けイベント「DevDay 2026」で、大規模言語モデル「GPT-6.1 Sol」を発表した。9月22日に発表された「GPT-6 Sol」の後継バージョンで、最上位モデル「GPT-6 Astra」に迫る知能を、「Astra」の5分の1という標準の入力・出力トークン料金で利用できる。 — 窓の杜 / score: 85 (OpenAIの新型モデルGPT-6.1 Sol発表)</description>
 </item>
 <item>
-<title>[85] 【速報】「Windows 11 2026 Update」（バージョン 26H2）の一般提供が開始／「バージョン 24H2/25H2」からは切り替えパッチ「eKB」で</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2144293.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2144293.html</guid>
-<pubDate>Tue, 29 Sep 2026 21:36:55 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>【速報】「Windows 11 2026 Update」（バージョン 26H2）の一般提供が開始／「バージョン 24H2/25H2」からは切り替えパッチ「eKB」で — はてなブックマーク テクノロジー / score: 85 (Windows 11のメジャーアップデート開始)</description>
-</item>
-<item>
 <title>[85] OpenAI DevDay 2026 発表まとめ</title>
 <link>https://zenn.dev/schroneko/articles/openai-devday-2026</link>
 <guid isPermaLink="true">https://zenn.dev/schroneko/articles/openai-devday-2026</guid>
 <pubDate>Tue, 29 Sep 2026 21:28:47 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>tl;dr OpenAI DevDay 2026 がサンフランシスコで開催されたよ サンフランシスコ現地から情報をお送りするよ ひと通りのリソースをまとめたけど、まずは Recap ページを見るといいよ 24 時間常時稼働のエージェント dots が発表されたよ GPT-6 Astra に近い性能を低コストで使える GPT-6.1 Sol が公開されたよ 高速にトー... — はてなブックマーク テクノロジー / score: 85 (OpenAI DevDayでの主要機能発表まとめ)</description>
+</item>
+<item>
+<title>[85] 【速報】「Windows 11 2026 Update」（バージョン 26H2）の一般提供が開始【15時15分追記】／「バージョン 24H2/25H2」からは切り替えパッチ「eKB」で。各種アップグレードツールの提供も開始</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2144293.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2144293.html</guid>
+<pubDate>Tue, 29 Sep 2026 18:41:49 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Microsoftは9月29日（現地時間）、「Windows 11」の新しい機能更新プログラム「Windows 11 2026 Update」（バージョン 26H2）を一般公開した。「Windows Insider Program」に加入していない一般のユーザーに対しても、段階的な配信が開始される。 — 窓の杜 / score: 85 (Windows 11のメジャーアップデート開始)</description>
 </item>
 <item>
 <title>[85] 【被害者は語る】タイムズカー660万件情報漏えいはなぜ起きたのかの矮小な考察</title>
@@ -407,12 +399,12 @@
 <description>2026年9月16日、Rustで記述されたオープンソースのAmazon S3互換分散オブジェクトストレージシステム「RustFS」のバージョン1.0.0が、GA（一般提供版）としてリリースされた。 — gihyo.jp / score: 85 (Rust製S3互換ストレージRustFS 1.0.0のGAリリース)</description>
 </item>
 <item>
-<title>[80] 【速報】声が「パブリシティ権」の保護対象と認める判決 津田健次郎さんの訴え退けるも東京地裁が初判断 TikTok運営会社に生成AI動画の削除求めた訴訟 - ライブドアニュース</title>
-<link>https://news.livedoor.com/article/detail/32448712/</link>
-<guid isPermaLink="true">https://news.livedoor.com/article/detail/32448712/</guid>
-<pubDate>Wed, 30 Sep 2026 05:07:38 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>で自身の声を無断で模倣した動画が公開されているとして、人気声優のさんが、動画共有アプリ「TikTok」の運営会社に動画の削除を求めた裁判で、東京地裁は声が「パブリシティ権」の保護の対象になるとの初めての判断を示しました。 この裁判は、人気アニメ「呪術廻戦」の七海建人役などで知られる声優のさんが、を使って... — はてなブックマーク テクノロジー / score: 80 (生成AIと声のパブリシティ権に関する司法判断)</description>
+<title>[80] Microsoft、WSL containersを一般提供 ——CLIとAPIでWindowsからLinuxコンテナを操作</title>
+<link>https://gihyo.jp/article/2026/09/wsl-containers-ga?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/09/wsl-containers-ga?utm_source=feed</guid>
+<pubDate>Wed, 30 Sep 2026 08:18:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Microsoftは9月29日、Windows Subsystem for Linux（WSL）のコンテナ機能「WSL containers」の一般提供を開始した。 — gihyo.jp / score: 80 (WSL containersの一般提供開始)</description>
 </item>
 <item>
 <title>[80] OpenAI、24時間稼働のAIエージェント「dots」を発表</title>
@@ -445,14 +437,6 @@
 <pubDate>Tue, 29 Sep 2026 19:31:44 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>WSL is central to our commitment to making Windows the best place to build, run and manage Linux workloads. As AI, cloud-native development, containers, and open-source ecosystems continue to converge on Linux, more developers are choosing to perform these workloads directly on Windows devices. W... — はてなブックマーク テクノロジー / score: 80 (WSL containersの一般提供開始)</description>
-</item>
-<item>
-<title>[80] AIエージェント「Manus 2.0」リリース、さらにパーソナルAIエージェント向けアプリ「Cue」やプロフェッショナルなAIワークスペースを実現するデスクトップアプリ「Manus Studio」も</title>
-<link>https://gigazine.net/news/20260929-manus-2-0/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260929-manus-2-0/</guid>
-<pubDate>Tue, 29 Sep 2026 10:11:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>アジア圏を中心にサービスを展開し、一度Metaとの買収合意に至った後に再び独立したという異色の経歴を持つAI起業のManusが、AIエージェントの「Manus 2.0」を発表しました。独立後初の大型アップデートということで、「ただのバージョンアップではない」とアピールされています。 続きを読む... — GIGAZINE / score: 80 (Manus 2.0および新AIエージェント関連ツールの発表)</description>
 </item>
 <item>
 <title>[80] NVIDIA、AIエージェントを監視・制御する「Open Agent Safety Platform」を発表 ——OpenShellで実行環境を制御、NVIDIA BlueField-4上で動作するSentryでエージェントの行動を監視</title>
@@ -551,14 +535,6 @@
 <description>Amazon SageMaker HyperPod Inference Gateway is a Kubernetes-native, GPU-aware routing system that deploys as a single EKS managed add-on on existing SageMaker HyperPod infrastructure with zero application changes. By replacing unintelligent round-robin load balancing with real-time inference-signal-driven routing, it reduces first-token latency by up to 82% and p99 TTFT reductions of 97–98% in mixed-hardware and burst traffic scenarios. The Gateway is built around 3 core components. The Envoy En — AWS What's New / score: 80 (Amazon SageMaker HyperPod Inference Gatewayの提供)</description>
 </item>
 <item>
-<title>[80] 「Wireshark 4.6.9」が公開、19件の脆弱性を修正 ～任意コード実行につながるものも／無料のパケットキャプチャーツール。旧ブランチには「Wireshark 4.4.19」</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2142913.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2142913.html</guid>
-<pubDate>Thu, 24 Sep 2026 06:58:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>フリーのパケットキャプチャーツール「Wireshark 4.6.9」が、9月23日（協定世界時）に公開された。「Wireshark 4.6」シリーズの最新版となる。 — 窓の杜 / score: 80 (Wiresharkの複数脆弱性を修正する最新版公開)</description>
-</item>
-<item>
 <title>[80] OpenAI GPT-6 Sol and GPT-6 Luna are now generally available on Amazon Bedrock</title>
 <link>https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-sol-luna-on-amazon-bedrock/</link>
 <guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-sol-luna-on-amazon-bedrock/</guid>
@@ -591,6 +567,22 @@
 <description>Anthropicは2026年9月16日、Claude CoworkとClaudeのチャット機能が統合され、Claudeとして利用可能になることを発表した。 — gihyo.jp / score: 80 (Claudeの新機能統合やツールの拡張発表)</description>
 </item>
 <item>
+<title>[75] 火事の心配なく30年持つ「水系電池」がいよいよ量産に入った</title>
+<link>https://www.gizmodo.jp/article/water-battery-30-years-enervenue/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/water-battery-30-years-enervenue/</guid>
+<pubDate>Wed, 30 Sep 2026 09:45:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>水で、電気をためる。……と聞くと、ちょっと怪しい匂いがしますが、だいじょうぶそう。アメリカの電池スタートアップ・EnerVenueが中国・常州市で「水系電池」の量産ラインを動かし始めたそうです。火事にならず、3万回の充放電に耐えるとうたう蓄… — ギズモード・ジャパン / score: 75 (新型バッテリーの量産化に関する技術ニュース)</description>
+</item>
+<item>
+<title>[75] ベンチマークでJev超えな意思決定モデル「d1」が登場</title>
+<link>https://gigazine.net/news/20260930-d1-decision-model-liquid-ai/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20260930-d1-decision-model-liquid-ai/</guid>
+<pubDate>Wed, 30 Sep 2026 08:52:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>AI開発企業のLiquid AIが意思決定モデル「d1」をリリースしました。2026年9月に登場して大きな話題となっている「Jev」と同様の機能を備えており、性能テストでJevを上回ったとのことです。 続きを読む... — GIGAZINE / score: 75 (新型意思決定モデルd1のリリース)</description>
+</item>
+<item>
 <title>[75] Cloudflare、耐量子のマークルツリー証明書に対応するパブリック認証局の設立を発表</title>
 <link>https://codezine.jp/article/detail/29871</link>
 <guid isPermaLink="true">https://codezine.jp/article/detail/29871</guid>
@@ -613,14 +605,6 @@
 <pubDate>Wed, 30 Sep 2026 05:35:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>OpenAIの研究者はAIコーディングエージェントに多額のコストをかけており、利用量が特に多い人では、1日あたり7000ドル（約108万円）相当のトークンを消費しています。 — ギズモード・ジャパン / score: 75 (AI開発におけるエージェント利用の現実的なコスト)</description>
-</item>
-<item>
-<title>[75] AIが人類存亡のリスクに？ AnthropicがIPO目論見書で異例の警告　報道</title>
-<link>https://ascii.jp/elem/000/004/438/4438579/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/438/4438579/?rss</guid>
-<pubDate>Wed, 30 Sep 2026 05:10:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>AnthropicはIPO目論見書のなかで、AIが「壊滅的、あるいは存亡にかかわるリスク」を人類にもたらす可能性があると警告しているという。 — ASCII.jp / score: 75 (AI企業の上場目論見書における存亡リスクへの言及で注目度が高い)</description>
 </item>
 <item>
 <title>[75] トランプ大統領とGoogle・Anthropic・Meta・OpenAI・SpaceXAI・NVIDIAがAIの安全管理を目指す「ホワイトハウス・超知能協定」に署名</title>
@@ -652,7 +636,7 @@
 <guid isPermaLink="true">https://zenn.dev/gzer0/articles/timescar-leak-countermeasures</guid>
 <pubDate>Wed, 30 Sep 2026 01:43:13 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>クレジットカード情報は、流出していないと発表されています。 分かっていないこと 不正アクセスの原因と経路（調査中） 一人ひとりについて、どの書類の画像が流出したか（2週間程度で個別に報告予定） 流出した情報が、すでに悪用されているかどうか 考えられる被害 起こりやすい順に並べます。 1. タイムズカーを装っ... — はてなブックマーク テクノロジー / score: 75 (個人情報流出時の実用的な対策解説)</description>
+<description>クレジットカード情報は、流出していないと発表されています。本人確認書類が流出した会員には、9月29日からメールで個別の案内が届いています。 分かっていないこと 不正アクセスの原因と経路（調査中） 一人ひとりについて、どの書類の画像が流出したか（2週間程度で個別に報告予定） 流出した情報が、すでに悪用され... — はてなブックマーク テクノロジー / score: 75 (個人情報流出時の実用的な対策解説)</description>
 </item>
 <item>
 <title>[75] Microsoft、｢Windows 11 2026 Update（バージョン26H2）｣のISOファイルも公開</title>
@@ -661,14 +645,6 @@
 <pubDate>Wed, 30 Sep 2026 00:47:06 +0000</pubDate>
 <category>気になる、記になる…</category>
 <description>Microsoftが、本日一般提供を開始した「Windows 11 バージョン 26H2」のISOファイル（ディスクイメージ）を公開しました。 「Windows 11 バージョン 26H2」のISOイメージファイルは、こ […] — 気になる、記になる… / score: 75 (Windows 11の最新アップデートISO公開)</description>
-</item>
-<item>
-<title>[75] セキュリティエンジニア視点のKubernetes環境の攻撃面と対策 - GMO Flatt Security Blog</title>
-<link>https://blog.flatt.tech/entry/kubernetes-attack-surface</link>
-<guid isPermaLink="true">https://blog.flatt.tech/entry/kubernetes-attack-surface</guid>
-<pubDate>Wed, 30 Sep 2026 00:23:42 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>はじめに こんにちは。GMO Flatt Security株式会社 セキュリティエンジニアのてぃー(@k1rnt)と、@ei01241です。 Kubernetes(k8s)は、いまやコンテナオーケストレーションのデファクトスタンダードです。多くの企業がEKS、GKE、AKSといったマネージドサービスを利用してプロダクション環境を運用しています。 一方で、Kub... — はてなブックマーク テクノロジー / score: 75 (Kubernetes環境の攻撃面とセキュリティ対策の実用的な解説)</description>
 </item>
 <item>
 <title>[75] OpenAI、月額200米ドルの「ChatGPT Pro」新規受け付けを再開。月額500米ドル版も追加／使用量計算の変更、プラン間の倍率の見直しも</title>
@@ -698,9 +674,9 @@
 <title>[75] 「証明」によりAIの誤りを阻止しGPU上で動作する高速プログラミング言語「Bend」、C言語並みの処理速度・CUDAによる並列処理・Leanによる形式的証明・Python風の構文</title>
 <link>https://gigazine.net/news/20260930-bend-lang/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260930-bend-lang/</guid>
-<pubDate>Tue, 29 Sep 2026 21:04:47 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>「Bend」はAIが犯すかもしれない誤りを「証明」によってブロックすることを目指す新たなプログラミング言語です。 Bend https://bend-lang.com/ BendはポストAGIの経済社会において人間がコードの記述や読解から解放される未来を見据え、AIに対して意図を明確に伝えるための手段として開発されました。Bendは「法律(Laws... — はてなブックマーク テクノロジー / score: 75 (形式的証明を持つ高速言語Bendの解説)</description>
+<pubDate>Tue, 29 Sep 2026 21:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>「Bend」はAIが犯すかもしれない誤りを「証明」によってブロックすることを目指す新たなプログラミング言語です。 続きを読む... — GIGAZINE / score: 75 (形式的証明を持つ高速言語Bendの解説)</description>
 </item>
 <item>
 <title>[75] OpenAI GPT-6.1 Sol is now generally available on Amazon Bedrock</title>
@@ -805,6 +781,30 @@
 <pubDate>Mon, 28 Sep 2026 07:26:11 +0000</pubDate>
 <category>Zenn トレンド</category>
 <description>はじめに 2026年09月23日のProposal Review Meetingで珍しいProposalがProposal-Acceptedになったので今回はそのProposalについてまとめていこうと思います。 spec: remove string(int) #3939 今回承認されたProposalはspec: remove string(int)#3939です。このProposalで提案されているのは整数値から文字列への直接変換を変更しrune、byteを基底型として持つ場合とuntyped rune constantの場合にのみ文字列へと直接変換できるように制限しようと... — Zenn トレンド / score: 75 (Go 1.28におけるstringint周りの仕様変更の提案解説)</description>
+</item>
+<item>
+<title>[75] Claude Code、/usageによる推定費用の確認とエフォートの使い分けを解説 ——Opus 5.5の料金とキャッシュの利用</title>
+<link>https://gihyo.jp/article/2026/09/claude-code-usage-and-effort?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/09/claude-code-usage-and-effort?utm_source=feed</guid>
+<pubDate>Sat, 26 Sep 2026 09:18:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Anthropicは2026年9月25日、開発者向けブログで、Claude Opus 5.5を使った作業の費用と、推論などにかける計算量を調整するエフォート（effort）の使い分けを解説した。 — gihyo.jp / score: 75 (開発者向けAIツールの費用と機能の解説)</description>
+</item>
+<item>
+<title>[75] Microsoft、Copilotの大型アップデートを発表 ——Home・Code・Autopilotで対話からアプリ作成、作業の実行まで</title>
+<link>https://gihyo.jp/article/2026/09/microsoft-copilot-updates-with-home-code-autopilot?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/09/microsoft-copilot-updates-with-home-code-autopilot?utm_source=feed</guid>
+<pubDate>Sat, 26 Sep 2026 03:04:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Microsoftは9月25日、Microsoft Copilotの大型アップデートを発表した。ChatとCoworkをまとめる「Home」、自然言語でアプリを作成する「Code」、継続的に業務を進めるAIエージェント「Autopilot」を軸に、対話や文書作成、アプリ開発を一つのアプリに集約し、指定した作業をAIに任せることもできる。 — gihyo.jp / score: 75 (Microsoft Copilotの大型機能アップデート)</description>
+</item>
+<item>
+<title>[75] JEP targeted to JDK 28: 539: Strict Field Initialization in the JVM (Preview)</title>
+<link>https://inside.java/2026/09/26/jep539-target-jdk28/</link>
+<guid isPermaLink="true">https://inside.java/2026/09/26/jep539-target-jdk28/</guid>
+<pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+<category>Inside Java</category>
+<description>The following JEP is targeted to JDK 28: 539: Strict Field Initialization in the JVM (Preview) — Inside Java / score: 75 (JDK 28の新機能JEPターゲット発表)</description>
 </item>
 </channel>
 </rss>
