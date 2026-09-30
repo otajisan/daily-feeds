@@ -4,15 +4,15 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 30 Sep 2026 12:15:27 +0000</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 14:11:07 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] AIエージェントが「画像を貼れない」問題を勝手に解決、343組織の機密スクショ1万3000枚超をGitHubの公開リポジトリに保存していたことが判明</title>
 <link>https://gigazine.net/news/20260930-pixelleak/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260930-pixelleak/</guid>
-<pubDate>Wed, 30 Sep 2026 04:26:15 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>AIコーディングエージェントが開発中の画面をレビュー担当者と共有する際、非公開リポジトリのスクリーンショットをGitHub上の公開リポジトリへアップロードしていたことがセキュリティ企業のGlow Securityによって明らかにされました。Glow Securityは343組織に関連する1万3000枚を超える画像を確認しており、認証情報... — はてなブックマーク テクノロジー / score: 95 (AIエージェントによる機密情報の重大な漏洩事故)</description>
+<pubDate>Wed, 30 Sep 2026 04:10:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>AIコーディングエージェントが開発中の画面をレビュー担当者と共有する際、非公開リポジトリのスクリーンショットをGitHub上の公開リポジトリへアップロードしていたことがセキュリティ企業のGlow Securityによって明らかにされました。Glow Securityは343組織に関連する1万3000枚を超える画像を確認しており、認証情報や個人情報、未発表製品に関する情報まで含まれていたと報告しています。 続きを読む... — GIGAZINE / score: 95 (AIエージェントによる機密情報の重大な漏洩事故)</description>
 </item>
 <item>
 <title>[95] Defending Against Active Exploitation of Citrix NetScaler ADC and Gateway Appliances</title>
@@ -63,6 +63,14 @@
 <description>SSL/TLSプロトコルを実装したオープンソースライブラリ「OpenSSL」の開発チームは9月29日（日本時間）、「OpenSSL」のセキュリティアップデートを実施した。以下のバージョンが利用可能。 — 窓の杜 / score: 90 (OpenSSLの複数脆弱性と修正版公開)</description>
 </item>
 <item>
+<title>[90] トークン消費85％減　Googleが脆弱性を自動修正するオープンソースハーネス「Mantis」公開</title>
+<link>https://atmarkit.itmedia.co.jp/ait/articles/2609/30/news056.html</link>
+<guid isPermaLink="true">https://atmarkit.itmedia.co.jp/ait/articles/2609/30/news056.html</guid>
+<pubDate>Wed, 30 Sep 2026 07:26:23 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Googleは2026年9月2日（米国時間）、ソフトウェアの脆弱（ぜいじゃく）性の発見、トリアージ（優先順位付け）、修正を自動化するオープンソースのハーネス「Mantis」をGitHubで公開した。 Googleが社内で脆弱性を高速に発見し修正する取り組みの一環でもあり、コンテキストを考慮したリポジトリ分析を可能にするとしてい... — はてなブックマーク テクノロジー / score: 90 (Googleによる脆弱性自動修正OSSの公開)</description>
+</item>
+<item>
 <title>[90] 「Google Chrome 154」で32件の脆弱性修正、「Microsoft Edge」も追随／「Critical」（致命的）と評価された脆弱性は1件</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2144480.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2144480.html</guid>
@@ -85,14 +93,6 @@
 <pubDate>Wed, 30 Sep 2026 04:05:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>中国のAI企業Z.aiが開発したオープンウェイトAIモデル「GLM-5.3」について、Anthropicは、同社の「Claude Mythos Preview」に近い水準でソフトウェアの脆弱(ぜいじゃく)性を発見し、攻撃コードを最初から最後まで構築する能力を持つ一方、悪用を防ぐ安全対策を容易に回避できるとの評価結果を公表しました。Anthropicは、高度なサイバー攻撃能力を持つモデルが実効性のある制限なしに広く入手可能になったことに警戒を示しています。 続きを読む... — GIGAZINE / score: 90 (高度なサイバー攻撃能力を持つAIモデルへの警告)</description>
-</item>
-<item>
-<title>[90] OpenAI、「24時間働く」エージェント「dots」発表　Astra搭載、クラウド上で常時稼働</title>
-<link>https://www.itmedia.co.jp/aiplus/article/2609/30/2000001864/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2609/30/2000001864/</guid>
-<pubDate>Tue, 29 Sep 2026 18:51:02 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>米OpenAIは9月29日（現地時間）、常時稼働エージェント機能「dots」を発表した。同社のAIモデル「GPT-6 Astra」を搭載し、ユーザーが設定した目標に応じて、クラウド上のコンピュータで24時間自律的に稼働するとうたう。 — はてなブックマーク テクノロジー / score: 90 (OpenAIの常時稼働AIエージェント発表)</description>
 </item>
 <item>
 <title>[90] DevDay 2026 Recap</title>
@@ -135,6 +135,14 @@
 <description>Next.js 16.3.6 and 15.5.26 are planned for a critical out-of-band security update on September 22, 2026. — Next.js Blog / score: 90 (重要度の高いフレームワークのセキュリティ更新)</description>
 </item>
 <item>
+<title>[85] WSLコンテナ正式リリース: WindowsでのLinux開発が一気に加速する理由 | ソフトアンテナ</title>
+<link>https://softantenna.com/blog/wsl-containers-ga-summary/</link>
+<guid isPermaLink="true">https://softantenna.com/blog/wsl-containers-ga-summary/</guid>
+<pubDate>Wed, 30 Sep 2026 11:34:10 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Microsoftは9月29日(現地時間)、「WSLコンテナ(WSL containers)」を正式にリリースしました。Windows上でLinuxコンテナを直接扱える仕組みで、AI開発やクラウドネイティブなワークロードをローカル環境でより自然に運用できるようになります。 WSLコンテナを有効化すると、新しいCLI「wslc.exe」やAPIが利用可能になりま... — はてなブックマーク テクノロジー / score: 85 (WindowsでのWSLコンテナ正式リリース)</description>
+</item>
+<item>
 <title>[85] 「WSL 3.0」がリリース、3カ月のテストを経て「WSL containers」が正式版に／「Docker」なしでLinuxコンテナーを構築・実行、「wslc compose」の開発にも着手</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2144295.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2144295.html</guid>
@@ -167,14 +175,6 @@
 <description>IBMの量子プロセッサー「Nighthawk r2」が、量子優位性の初期実証に向けた代表的なベンチマークにおいて、わずか19秒で100万個のサンプルを生成したことをアメリカの理論凝縮系物理学者が報告しました。これは、スーパーコンピュータでも約100年かかると推定される作業量とのことです。 続きを読む... — GIGAZINE / score: 85 (量子コンピュータによる量子優位性の実証)</description>
 </item>
 <item>
-<title>[85] 「Firefox 157」が正式公開 ～UIとデザインを大幅に刷新、ここ数年で最大／分割表示に便利な新コンパクトモードを追加、脆弱性対処76件、「Amazon」は組み込み検索エンジンから削除</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2144291.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2144291.html</guid>
-<pubDate>Wed, 30 Sep 2026 02:55:58 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>「Firefox 157」が正式公開 ～UIとデザインを大幅に刷新、ここ数年で最大／分割表示に便利な新コンパクトモードを追加、脆弱性対処76件、「Amazon」は組み込み検索エンジンから削除 — はてなブックマーク テクノロジー / score: 85 (主要ブラウザの大規模アップデートと脆弱性修正)</description>
-</item>
-<item>
 <title>[85] WindowsでLinuxコンテナの作成や実行を可能にする「WSL Containers」正式リリース。コマンドラインとAPIから利用可能</title>
 <link>https://www.publickey1.jp/blog/26/windowslinuxwsl_containersapi.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/windowslinuxwsl_containersapi.html</guid>
@@ -189,6 +189,14 @@
 <pubDate>Wed, 30 Sep 2026 02:32:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>OpenAIが、2026年9月30日に開催された年次開発者会議「OpenAI DevDay 2026」の基調講演で、常時稼働型のAIアシスタント「Dots」を発表しました。DotsはGPT‑6 Astra を搭載し、専用のクラウドコンピューターで稼働するAIエージェントで、4000以上のアプリと連携しながらテキストメッセージやSlack、Teamsから指示を与えることができます。 続きを読む... — GIGAZINE / score: 85 (OpenAIによる常時稼働型AIアシスタントの発表)</description>
+</item>
+<item>
+<title>[85] 「Firefox 157」が正式公開 ～UIとデザインを大幅に刷新、ここ数年で最大／分割表示に便利な新コンパクトモードを追加、脆弱性対処76件、「Amazon」は組み込み検索エンジンから削除</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2144291.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2144291.html</guid>
+<pubDate>Wed, 30 Sep 2026 02:03:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>Mozillaは9月29日（米国時間）、デスクトップ向け「Firefox」の最新版v157.0をリリースチャネルで公開した。「Firefox 156」に続くメジャーバージョンアップで、コードネーム「Project Nova」と呼ばれていたビジュアル刷新が目玉となっている。 — 窓の杜 / score: 85 (主要ブラウザの大規模アップデートと脆弱性修正)</description>
 </item>
 <item>
 <title>[85] WindowsにLinuxコンテナ機能「WSLC」が正式登場　Docker Desktopなしで実行可能に | XenoSpectrum</title>
@@ -583,6 +591,14 @@
 <description>Anthropicは2026年9月16日、Claude CoworkとClaudeのチャット機能が統合され、Claudeとして利用可能になることを発表した。 — gihyo.jp / score: 80 (Claudeの新機能統合やツールの拡張発表)</description>
 </item>
 <item>
+<title>[75] Vulnerability Discovery and Exploitation Trends in the AI Era</title>
+<link>https://cloud.google.com/blog/topics/threat-intelligence/vulnerability-discovery-and-exploitation-trends-in-the-ai-era/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/threat-intelligence/vulnerability-discovery-and-exploitation-trends-in-the-ai-era/</guid>
+<pubDate>Wed, 30 Sep 2026 14:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Written by: Robin Grunewald, Supriya Mazumdar, Kelli Vanderlee Introduction Google Threat Intelligence Group (GTIG) examines vulnerability disclosure and exploitation statistics to evaluate the impact of artificial intelligence (AI) on the vulnerability threat landscape. We found that AI is measurably changing not just the pace of vulnerability discovery and exploitation, but also the types and typical risk profiles of vulnerabilities that are being discovered. Key findings: Vulnerability disclo — Google Cloud Blog / score: 75 (AI時代の脅威インテリジェンス動向)</description>
+</item>
+<item>
 <title>[75] セコマ個人情報漏えい 第三者閲覧</title>
 <link>https://news.yahoo.co.jp/pickup/6597106?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6597106?source=rss</guid>
@@ -591,7 +607,7 @@
 <description> — Yahoo!ニュース IT / score: 75 (企業における個人情報漏えい事案)</description>
 </item>
 <item>
-<title>[75] 火事の心配なく30年持つ「水系電池」がいよいよ量産に入った</title>
+<title>[75] 火事の心配なく30年持つ「水系電池」がいよいよ量産に</title>
 <link>https://www.gizmodo.jp/article/water-battery-30-years-enervenue/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/water-battery-30-years-enervenue/</guid>
 <pubDate>Wed, 30 Sep 2026 09:45:00 +0000</pubDate>
@@ -623,6 +639,14 @@
 <description>3行まとめ GitHub Actionsの依存関係はコミットSHAでバージョンをピン留めした方がよい しかし従来サポートされていた方法は扱いづらかった 公式の「gh actions-lock」コマンドを利用すると楽 従来のGitHub Actionsバージョン管理 GitHub Actionsの依存関係はバージョン指定とコミットSHA指定の2種類があり、後者の方が... — はてなブックマーク テクノロジー / score: 75 (GitHub Actionsの依存関係管理に関する有用な新機能)</description>
 </item>
 <item>
+<title>[75] 声優の津田健次郎さんの請求退ける　「生成AIで声模倣」TikTok運営側訴えた訴訟</title>
+<link>https://www.sankei.com/article/20260930-V7FSZOSAGJJTPKVJDM2HIXIFZ4/</link>
+<guid isPermaLink="true">https://www.sankei.com/article/20260930-V7FSZOSAGJJTPKVJDM2HIXIFZ4/</guid>
+<pubDate>Wed, 30 Sep 2026 05:39:22 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>自身の声を生成人工知能（AI）で無断で模倣した動画を投稿されたとして、声優の津田健次郎さん（55）が動画共有アプリ「TikTok」（ティックトック）の運営会社に動画の削除を求めた訴訟の判決が30日、東京地裁であり、高橋彩裁判長は津田さんの請求を退けた。生成AIによる声の無断利用を巡る訴訟は初とみられる。 訴状な... — はてなブックマーク テクノロジー / score: 75 (生成AIの声模倣を巡る初の司法判断の事例)</description>
+</item>
+<item>
 <title>[75] OpenAI、社内でのAIコーディングエージェント利用実態を公開…1日100万円分以上を消費する研究者も</title>
 <link>https://www.gizmodo.jp/article/202609-openai-token-spend-ai-coding-researchers--gzg/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/202609-openai-token-spend-ai-coding-researchers--gzg/</guid>
@@ -634,9 +658,9 @@
 <title>[75] トランプ大統領とGoogle・Anthropic・Meta・OpenAI・SpaceXAI・NVIDIAがAIの安全管理を目指す「ホワイトハウス・超知能協定」に署名</title>
 <link>https://gigazine.net/news/20260930-white-house-super-intelligence/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260930-white-house-super-intelligence/</guid>
-<pubDate>Wed, 30 Sep 2026 04:09:20 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>日本時間の2026年9月30日にホワイトハウスでAI業界のリーダーたちを集めた会合が実施され、ドナルド・トランプ大統領とGoogle・Anthropic・Meta・OpenAI・SpaceXAI・NVIDIAの代表が「White House Accord on Super Intelligence(ホワイトハウス・超知能協定)」に署名しました。 America leads the future of Super Intell... — はてなブックマーク テクノロジー / score: 75 (AI安全管理に関するホワイトハウスの協定署名)</description>
+<pubDate>Wed, 30 Sep 2026 03:58:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>日本時間の2026年9月30日にホワイトハウスでAI業界のリーダーたちを集めた会合が実施され、ドナルド・トランプ大統領とGoogle・Anthropic・Meta・OpenAI・SpaceXAI・NVIDIAの代表が「White House Accord on Super Intelligence(ホワイトハウス・超知能協定)」に署名しました。 続きを読む... — GIGAZINE / score: 75 (AI安全管理に関するホワイトハウスの協定署名)</description>
 </item>
 <item>
 <title>[75] GitHub Copilotで「Claude Sonnet 5.5」が一般提供開始</title>
@@ -693,14 +717,6 @@
 <pubDate>Tue, 29 Sep 2026 23:00:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 75 (オープンウェイト型セキュリティモデルの公開)</description>
-</item>
-<item>
-<title>[75] 「証明」によりAIの誤りを阻止しGPU上で動作する高速プログラミング言語「Bend」、C言語並みの処理速度・CUDAによる並列処理・Leanによる形式的証明・Python風の構文</title>
-<link>https://gigazine.net/news/20260930-bend-lang/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260930-bend-lang/</guid>
-<pubDate>Tue, 29 Sep 2026 21:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>「Bend」はAIが犯すかもしれない誤りを「証明」によってブロックすることを目指す新たなプログラミング言語です。 続きを読む... — GIGAZINE / score: 75 (形式的証明を持つ高速言語Bendの解説)</description>
 </item>
 <item>
 <title>[75] OpenAI GPT-6.1 Sol is now generally available on Amazon Bedrock</title>
@@ -789,22 +805,6 @@
 <pubDate>Mon, 28 Sep 2026 15:01:25 +0000</pubDate>
 <category>Publickey</category>
 <description>Amazon Web Services（AWS）は、GPTやClaude、Gemini、Ollamaなど主要なLLMやLLMランタイムを基にした高性能なAIエージェントを簡単に自作できるツール「Strandsハーネス」をオープンソースで公開... — Publickey / score: 75 (主要なLLM対応AIエージェントOSS公開のため)</description>
-</item>
-<item>
-<title>[75] Claude Sonnet 5.5 now available on AWS</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/09/claude-sonnet-5-5-aws/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/claude-sonnet-5-5-aws/</guid>
-<pubDate>Mon, 28 Sep 2026 15:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>AWS now offers Claude Sonnet 5.5, a smarter and more efficient Sonnet that delivers a clear leap forward on coding and knowledge work with at a lower cost per task for most work at faster speed. Claude Sonnet 5.5 is a smarter, more efficient Sonnet and a step up from Sonnet 5, making it a natural upgrade for teams already building on Sonnet. It's stronger for coding, completing well-scoped tasks as part of a larger coding strategy such as building and fixing features with Claude in the same sess — AWS What's New / score: 75 (AWSでの有力な新AIモデルClaude Sonnet 5.5提供開始)</description>
-</item>
-<item>
-<title>[75] Claude Code、/usageによる推定費用の確認とエフォートの使い分けを解説 ——Opus 5.5の料金とキャッシュの利用</title>
-<link>https://gihyo.jp/article/2026/09/claude-code-usage-and-effort?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/09/claude-code-usage-and-effort?utm_source=feed</guid>
-<pubDate>Sat, 26 Sep 2026 09:18:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Anthropicは2026年9月25日、開発者向けブログで、Claude Opus 5.5を使った作業の費用と、推論などにかける計算量を調整するエフォート（effort）の使い分けを解説した。 — gihyo.jp / score: 75 (開発者向けAIツールの費用と機能の解説)</description>
 </item>
 </channel>
 </rss>
