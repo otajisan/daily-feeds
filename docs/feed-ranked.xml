@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 30 Sep 2026 14:11:07 +0000</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 16:11:26 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] AIエージェントが「画像を貼れない」問題を勝手に解決、343組織の機密スクショ1万3000枚超をGitHubの公開リポジトリに保存していたことが判明</title>
@@ -135,6 +135,14 @@
 <description>Next.js 16.3.6 and 15.5.26 are planned for a critical out-of-band security update on September 22, 2026. — Next.js Blog / score: 90 (重要度の高いフレームワークのセキュリティ更新)</description>
 </item>
 <item>
+<title>[85] JavaScriptの統合ツールチェーン「Vite+ 1.0」正式リリース。ランタイム、パッケージマネージャー、ビルドツール、リンター、フォーマッターなどを統一</title>
+<link>https://www.publickey1.jp/blog/26/javascriptvite_10.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/javascriptvite_10.html</guid>
+<pubDate>Wed, 30 Sep 2026 15:22:55 +0000</pubDate>
+<category>Publickey</category>
+<description>JavaScript用ビルドツール「Vite」（ヴィットあるいはヴィート）を開発しているVoidZeroは、Viteを含むJavaScriptの統合ツールチェーン「Vite+」がバージョン1.0に到達したことを発表しました。 Vite+ 1... — Publickey / score: 85 (Vite+ 1.0の正式リリースによるJS開発エコシステムの大きな進化)</description>
+</item>
+<item>
 <title>[85] WSLコンテナ正式リリース: WindowsでのLinux開発が一気に加速する理由 | ソフトアンテナ</title>
 <link>https://softantenna.com/blog/wsl-containers-ga-summary/</link>
 <guid isPermaLink="true">https://softantenna.com/blog/wsl-containers-ga-summary/</guid>
@@ -197,14 +205,6 @@
 <pubDate>Wed, 30 Sep 2026 02:03:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>Mozillaは9月29日（米国時間）、デスクトップ向け「Firefox」の最新版v157.0をリリースチャネルで公開した。「Firefox 156」に続くメジャーバージョンアップで、コードネーム「Project Nova」と呼ばれていたビジュアル刷新が目玉となっている。 — 窓の杜 / score: 85 (主要ブラウザの大規模アップデートと脆弱性修正)</description>
-</item>
-<item>
-<title>[85] WindowsにLinuxコンテナ機能「WSLC」が正式登場　Docker Desktopなしで実行可能に | XenoSpectrum</title>
-<link>https://xenospectrum.com/wsl-containers-ga-architecture-docker-boundaries/</link>
-<guid isPermaLink="true">https://xenospectrum.com/wsl-containers-ga-architecture-docker-boundaries/</guid>
-<pubDate>Wed, 30 Sep 2026 00:29:56 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>この記事のポイント何が起きた: Microsoftが2026年9月29日、WSLコンテナを一般提供し、CLIとWindows向けAPIを正式投入した。なぜ重要か: Linuxコンテナの実行を通常のWSL環境から分け、Windowsの権限・管理・通信へ組み込む基盤となる。次に見るべき点: Composeの実装、配布チャネル表示の収束、Docker系ツールが必要と... — はてなブックマーク テクノロジー / score: 85 (Docker不要のWSLコンテナ機能リリース)</description>
 </item>
 <item>
 <title>[85] タイムズカー情報漏洩 集団訴訟｜参加希望者受付中</title>
@@ -415,6 +415,22 @@
 <description>2026年9月16日、Rustで記述されたオープンソースのAmazon S3互換分散オブジェクトストレージシステム「RustFS」のバージョン1.0.0が、GA（一般提供版）としてリリースされた。 — gihyo.jp / score: 85 (Rust製S3互換ストレージRustFS 1.0.0のGAリリース)</description>
 </item>
 <item>
+<title>[80] Spanner Omni, now GA: A distributed, multi-model database that you can deploy anywhere</title>
+<link>https://cloud.google.com/blog/products/databases/spanner-omni-deploy-anywhere-version-of-spanner-is-now-ga/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/databases/spanner-omni-deploy-anywhere-version-of-spanner-is-now-ga/</guid>
+<pubDate>Wed, 30 Sep 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Spanner Omni , the deploy-anywhere version of Spanner, is now generally available, ready to power your most demanding production workloads in your on-premises data center or on other clouds. With Spanner, Google pioneered the distributed SQL market over a decade ago, combining the horizontal scalability of NoSQL with the ACID compliance and strong consistency of a traditional relational database. Since then, Spanner has evolved into an interoperable multi-model database that simplifies complex w — Google Cloud Blog / score: 80 (マルチクラウド対応分散DB「Spanner Omni」の一般提供開始)</description>
+</item>
+<item>
+<title>[80] Next.jsアプリをCloudflare WorkersやAWS LambdaなどVercel以外のサーバレス基盤へデプロイできる「Vinext 1.0」リリース</title>
+<link>https://www.publickey1.jp/blog/26/vercelnextjscloudflare_workersaws_lambdavercelvinext_10.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/vercelnextjscloudflare_workersaws_lambdavercelvinext_10.html</guid>
+<pubDate>Wed, 30 Sep 2026 15:10:38 +0000</pubDate>
+<category>Publickey</category>
+<description>Cloudflareは、代表的なWebアプリケーションフレームワークであるNext.jsを用いて開発したアプリケーションを、Cloudflare WorkersやAWS Lambda、NetlifyといったVercel以外のサーバレス基盤に... — Publickey / score: 80 (Next.jsのマルチクラウドデプロイを実現するVinext 1.0の登場)</description>
+</item>
+<item>
 <title>[80] Microsoft、WSL containersを一般提供 ——CLIとAPIでWindowsからLinuxコンテナを操作</title>
 <link>https://gihyo.jp/article/2026/09/wsl-containers-ga?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/09/wsl-containers-ga?utm_source=feed</guid>
@@ -442,9 +458,9 @@
 <title>[80] OpenAIが「Codex CLI」を大幅刷新＆Codexをクラウド上で動作させる「Codex Cloud」も登場</title>
 <link>https://gigazine.net/news/20260930-openai-codex-cli-cloud/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260930-openai-codex-cli-cloud/</guid>
-<pubDate>Wed, 30 Sep 2026 02:57:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>ターミナルからコードの検査、編集、実行が可能なOpenAIのツール「Codex CLI」が刷新され、いくつかの機能改善が行われました。 続きを読む... — GIGAZINE / score: 80 (開発者向けOpenAIツールの大型刷新とクラウド化)</description>
+<pubDate>Wed, 30 Sep 2026 03:00:04 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>ターミナルからコードの検査、編集、実行が可能なOpenAIのツール「Codex CLI」が刷新され、いくつかの機能改善が行われました。 Codex CLI just got a major refresh, with a new look and powerful new capabilities. We’re continuing to invest in Codex CLI for developers who live in the command line. New full-... — はてなブックマーク テクノロジー / score: 80 (開発者向けOpenAIツールの大型刷新とクラウド化)</description>
 </item>
 <item>
 <title>[80] ハニーポット観測：長年悪用されている脆弱性のご紹介</title>
@@ -599,6 +615,14 @@
 <description>Written by: Robin Grunewald, Supriya Mazumdar, Kelli Vanderlee Introduction Google Threat Intelligence Group (GTIG) examines vulnerability disclosure and exploitation statistics to evaluate the impact of artificial intelligence (AI) on the vulnerability threat landscape. We found that AI is measurably changing not just the pace of vulnerability discovery and exploitation, but also the types and typical risk profiles of vulnerabilities that are being discovered. Key findings: Vulnerability disclo — Google Cloud Blog / score: 75 (AI時代の脅威インテリジェンス動向)</description>
 </item>
 <item>
+<title>[75] 芝浦工業大学・尾崎教授の計算アルゴリズムをNVIDIAが新たに採用〜 AI時代のGPUから、科学シミュレーションに不可欠な高精度計算を引き出す 〜｜芝浦工業大学</title>
+<link>https://www.shibaura-it.ac.jp/headline/detail/20260930_7070_51_1.html</link>
+<guid isPermaLink="true">https://www.shibaura-it.ac.jp/headline/detail/20260930_7070_51_1.html</guid>
+<pubDate>Wed, 30 Sep 2026 11:44:54 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>芝浦工業大学・尾崎教授の計算アルゴリズムをNVIDIAが新たに採用〜 AI時代のGPUから、科学シミュレーションに不可欠な高精度計算を引き出す 〜｜芝浦工業大学 — はてなブックマーク テクノロジー / score: 75 (NVIDIAが日本の大学の計算アルゴリズムを採用した重要ニュース)</description>
+</item>
+<item>
 <title>[75] セコマ個人情報漏えい 第三者閲覧</title>
 <link>https://news.yahoo.co.jp/pickup/6597106?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6597106?source=rss</guid>
@@ -607,20 +631,20 @@
 <description> — Yahoo!ニュース IT / score: 75 (企業における個人情報漏えい事案)</description>
 </item>
 <item>
+<title>[75] ベンチマークでJev超えな意思決定モデル「d1」が登場</title>
+<link>https://gigazine.net/news/20260930-d1-decision-model-liquid-ai/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20260930-d1-decision-model-liquid-ai/</guid>
+<pubDate>Wed, 30 Sep 2026 10:36:55 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>AI開発企業のLiquid AIが意思決定モデル「d1」をリリースしました。2026年9月に登場して大きな話題となっている「Jev」と同様の機能を備えており、性能テストでJevを上回ったとのことです。 Announcing d1, our first decision model. It's the first model to outperform Jev on @huggingface's Decision Index. &gt; wins... — はてなブックマーク テクノロジー / score: 75 (新型意思決定モデルd1のリリース)</description>
+</item>
+<item>
 <title>[75] 火事の心配なく30年持つ「水系電池」がいよいよ量産に</title>
 <link>https://www.gizmodo.jp/article/water-battery-30-years-enervenue/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/water-battery-30-years-enervenue/</guid>
 <pubDate>Wed, 30 Sep 2026 09:45:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>水で、電気をためる。……と聞くと、ちょっと怪しい匂いがしますが、だいじょうぶそう。アメリカの電池スタートアップ・EnerVenueが中国・常州市で「水系電池」の量産ラインを動かし始めたそうです。火事にならず、3万回の充放電に耐えるとうたう蓄… — ギズモード・ジャパン / score: 75 (新型バッテリーの量産化に関する技術ニュース)</description>
-</item>
-<item>
-<title>[75] ベンチマークでJev超えな意思決定モデル「d1」が登場</title>
-<link>https://gigazine.net/news/20260930-d1-decision-model-liquid-ai/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260930-d1-decision-model-liquid-ai/</guid>
-<pubDate>Wed, 30 Sep 2026 08:52:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>AI開発企業のLiquid AIが意思決定モデル「d1」をリリースしました。2026年9月に登場して大きな話題となっている「Jev」と同様の機能を備えており、性能テストでJevを上回ったとのことです。 続きを読む... — GIGAZINE / score: 75 (新型意思決定モデルd1のリリース)</description>
 </item>
 <item>
 <title>[75] Cloudflare、耐量子のマークルツリー証明書に対応するパブリック認証局の設立を発表</title>
@@ -637,14 +661,6 @@
 <pubDate>Wed, 30 Sep 2026 05:56:28 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>3行まとめ GitHub Actionsの依存関係はコミットSHAでバージョンをピン留めした方がよい しかし従来サポートされていた方法は扱いづらかった 公式の「gh actions-lock」コマンドを利用すると楽 従来のGitHub Actionsバージョン管理 GitHub Actionsの依存関係はバージョン指定とコミットSHA指定の2種類があり、後者の方が... — はてなブックマーク テクノロジー / score: 75 (GitHub Actionsの依存関係管理に関する有用な新機能)</description>
-</item>
-<item>
-<title>[75] 声優の津田健次郎さんの請求退ける　「生成AIで声模倣」TikTok運営側訴えた訴訟</title>
-<link>https://www.sankei.com/article/20260930-V7FSZOSAGJJTPKVJDM2HIXIFZ4/</link>
-<guid isPermaLink="true">https://www.sankei.com/article/20260930-V7FSZOSAGJJTPKVJDM2HIXIFZ4/</guid>
-<pubDate>Wed, 30 Sep 2026 05:39:22 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>自身の声を生成人工知能（AI）で無断で模倣した動画を投稿されたとして、声優の津田健次郎さん（55）が動画共有アプリ「TikTok」（ティックトック）の運営会社に動画の削除を求めた訴訟の判決が30日、東京地裁であり、高橋彩裁判長は津田さんの請求を退けた。生成AIによる声の無断利用を巡る訴訟は初とみられる。 訴状な... — はてなブックマーク テクノロジー / score: 75 (生成AIの声模倣を巡る初の司法判断の事例)</description>
 </item>
 <item>
 <title>[75] OpenAI、社内でのAIコーディングエージェント利用実態を公開…1日100万円分以上を消費する研究者も</title>
@@ -789,22 +805,6 @@
 <pubDate>Mon, 28 Sep 2026 18:29:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Amazon Bedrock now supports SpaceXAI Grok 4.7, a frontier model built for coding, agentic tasks, and knowledge work, with US Geo and Global cross-Region inference. Grok 4.7 builds on Grok 4.6 with better mixed-document handling, more dependable repo-scale coding with planning and error recovery, and enhanced browser-use agents for form fills and portal navigation. Get started with Grok 4.7 in the Amazon Bedrock console or programmatically through supported Amazon Bedrock APIs. For information ab — AWS What's New / score: 75 (Bedrockへの新AIモデル追加)</description>
-</item>
-<item>
-<title>[75] iOS27.0.1がリリース！iPhone18 Proの再起動問題などが修正</title>
-<link>https://iphone-mania.jp/ios-606745/</link>
-<guid isPermaLink="true">https://iphone-mania.jp/ios-606745/</guid>
-<pubDate>Mon, 28 Sep 2026 18:15:05 +0000</pubDate>
-<category>iPhone Mania</category>
-<description>まもなくリリースされるとしていたiPhone向けソフトウェアアップデート「iOS27.0.1」が配信開始しました。本アップデートは、iOS27で発生していた重要なバグや不具合の修正を目的としたマイナーアップデートです。 […] — iPhone Mania / score: 75 (iOSの重要不具合修正を目的としたセキュリティアップデート)</description>
-</item>
-<item>
-<title>[75] AWS、AIエージェントを自作できるツール「Strandsハーネス」をオープンソースで公開。特定のLLMに依存せず入れ替え可能、任意のコンテナ環境にデプロイ</title>
-<link>https://www.publickey1.jp/blog/26/awsaistrandsllm.html</link>
-<guid isPermaLink="true">https://www.publickey1.jp/blog/26/awsaistrandsllm.html</guid>
-<pubDate>Mon, 28 Sep 2026 15:01:25 +0000</pubDate>
-<category>Publickey</category>
-<description>Amazon Web Services（AWS）は、GPTやClaude、Gemini、Ollamaなど主要なLLMやLLMランタイムを基にした高性能なAIエージェントを簡単に自作できるツール「Strandsハーネス」をオープンソースで公開... — Publickey / score: 75 (主要なLLM対応AIエージェントOSS公開のため)</description>
 </item>
 </channel>
 </rss>

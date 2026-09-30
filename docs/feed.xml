@@ -4,8 +4,72 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 30 Sep 2026 14:11:07 +0000</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 16:11:26 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Let skills in Gemini tackle your most repetitive tasks</title>
+<link>https://blog.google/products-and-platforms/products/gemini/automate-tasks-with-skills/</link>
+<guid isPermaLink="true">https://blog.google/products-and-platforms/products/gemini/automate-tasks-with-skills/</guid>
+<pubDate>Wed, 30 Sep 2026 16:00:00 +0000</pubDate>
+<category>Gemini (Google Blog)</category>
+<description>Now you can automate your most repetitive tasks more easily with reusable custom instructions through skills, which will be replacing gems. — Gemini (Google Blog) / score: 55 (Geminiのカスタム指示機能による定型タスク自動化の改善)</description>
+</item>
+<item>
+<title>Cloud CISO Perspectives: How cybersecurity startups can win CISOs</title>
+<link>https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-cybersecurity-startups-can-win-cisos/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-cybersecurity-startups-can-win-cisos/</guid>
+<pubDate>Wed, 30 Sep 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Welcome to the second Cloud CISO Perspectives for September 2026. Today, Alicja Cade and Nick Godfrey, senior directors, Office of the CISO, share their guidance for cybersecurity startups on how to win over the CISOs who will become crucial business partners and customers. As with all Cloud CISO Perspectives, the contents of this newsletter are posted to the Google Cloud blog . If you’re reading this on the website and you’d like to receive the email version, you can subscribe here . aside_bloc — Google Cloud Blog / score: 50 (CISO向けにサイバーセキュリティスタートアップの動向を解説)</description>
+</item>
+<item>
+<title>Empower your agents with the Google Cloud CLI remote MCP server</title>
+<link>https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-cli-remote-mcp-server-in-preview/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-cli-remote-mcp-server-in-preview/</guid>
+<pubDate>Wed, 30 Sep 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Today, we’re expanding our ecosystem of managed remote MCP servers by introducing the Google Cloud CLI remote MCP server in preview. Powered by the popular gcloud and bq (BigQuery) command-line tools, this new server gives AI agents immediate, broad access to command-line operations for managing Google Cloud infrastructure and working with advanced BigQuery workflows securely and seamlessly. Why CLI matters for AI agents Agents are increasingly performing complex cloud operations, but standardiz — Google Cloud Blog / score: 65 (Google Cloud CLIのリモートMCPサーバープレビュー版公開)</description>
+</item>
+<item>
+<title>Spanner Omni, now GA: A distributed, multi-model database that you can deploy anywhere</title>
+<link>https://cloud.google.com/blog/products/databases/spanner-omni-deploy-anywhere-version-of-spanner-is-now-ga/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/databases/spanner-omni-deploy-anywhere-version-of-spanner-is-now-ga/</guid>
+<pubDate>Wed, 30 Sep 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Spanner Omni , the deploy-anywhere version of Spanner, is now generally available, ready to power your most demanding production workloads in your on-premises data center or on other clouds. With Spanner, Google pioneered the distributed SQL market over a decade ago, combining the horizontal scalability of NoSQL with the ACID compliance and strong consistency of a traditional relational database. Since then, Spanner has evolved into an interoperable multi-model database that simplifies complex w — Google Cloud Blog / score: 80 (マルチクラウド対応分散DB「Spanner Omni」の一般提供開始)</description>
+</item>
+<item>
+<title>JavaScriptの統合ツールチェーン「Vite+ 1.0」正式リリース。ランタイム、パッケージマネージャー、ビルドツール、リンター、フォーマッターなどを統一</title>
+<link>https://www.publickey1.jp/blog/26/javascriptvite_10.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/javascriptvite_10.html</guid>
+<pubDate>Wed, 30 Sep 2026 15:22:55 +0000</pubDate>
+<category>Publickey</category>
+<description>JavaScript用ビルドツール「Vite」（ヴィットあるいはヴィート）を開発しているVoidZeroは、Viteを含むJavaScriptの統合ツールチェーン「Vite+」がバージョン1.0に到達したことを発表しました。 Vite+ 1... — Publickey / score: 85 (Vite+ 1.0の正式リリースによるJS開発エコシステムの大きな進化)</description>
+</item>
+<item>
+<title>Next.jsアプリをCloudflare WorkersやAWS LambdaなどVercel以外のサーバレス基盤へデプロイできる「Vinext 1.0」リリース</title>
+<link>https://www.publickey1.jp/blog/26/vercelnextjscloudflare_workersaws_lambdavercelvinext_10.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/vercelnextjscloudflare_workersaws_lambdavercelvinext_10.html</guid>
+<pubDate>Wed, 30 Sep 2026 15:10:38 +0000</pubDate>
+<category>Publickey</category>
+<description>Cloudflareは、代表的なWebアプリケーションフレームワークであるNext.jsを用いて開発したアプリケーションを、Cloudflare WorkersやAWS Lambda、NetlifyといったVercel以外のサーバレス基盤に... — Publickey / score: 80 (Next.jsのマルチクラウドデプロイを実現するVinext 1.0の登場)</description>
+</item>
+<item>
+<title>Introducing SynthID Bio</title>
+<link>https://deepmind.google/blog/introducing-synthid-bio/</link>
+<guid isPermaLink="true">https://deepmind.google/blog/introducing-synthid-bio/</guid>
+<pubDate>Wed, 30 Sep 2026 15:03:07 +0000</pubDate>
+<category>Google DeepMind</category>
+<description>Proof of concept for watermarking AI-generated proteins while preserving biological function. — Google DeepMind / score: 70 (AI生成タンパク質のウォーターマーク技術SynthID Bioの発表)</description>
+</item>
+<item>
+<title>iOS27.2ベータ2でコントロールセンターの「アプリ別のテキストサイズ変更」機能が復活</title>
+<link>https://iphone-mania.jp/ios-606852/</link>
+<guid isPermaLink="true">https://iphone-mania.jp/ios-606852/</guid>
+<pubDate>Wed, 30 Sep 2026 14:48:12 +0000</pubDate>
+<category>iPhone Mania</category>
+<description>iOS27で一時的にコントロールセンターから利用できなくなっていた「アプリごとのテキストサイズ変更」ですが、Appleが開発中のiOS27.2ベータ2で再び利用可能になっていることが判明しました。 iOS27.2では他に […] — iPhone Mania / score: 30 (iOSベータ版におけるコントロールセンター機能の細かな復活)</description>
+</item>
 <item>
 <title>Windows 11のうっとうしいポップアップ連発を凝縮体験できる「Windows 11½」</title>
 <link>https://gigazine.net/news/20260930-windows-11-1-2/</link>
@@ -77,6 +141,14 @@
 <pubDate>Wed, 30 Sep 2026 13:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>Today, Google Cloud Data Agent Kit is generally available. Data Agent Kit is a free set of Model Context Protocol (MCP) tools and agent skills that lets the coding agent you already use work directly with your Google Cloud data products, whether you're using Antigravity, Claude Code, Codex, or other popular tools. With GA, we are adding support for BigQuery Graph , Bigtable , and Managed Service for Apache Spark access to your open Lakehouse, along with dozens of quality-of-life improvements tha — Google Cloud Blog / score: 70 (Google Data CloudのMCPツールがGA)</description>
+</item>
+<item>
+<title>スリムでUSB給電にも対応した！　Amazonの新「Fire TV Stick 4K」登場、リモコンもデザイン一新</title>
+<link>https://ascii.jp/elem/000/004/438/4438866/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/438/4438866/?rss</guid>
+<pubDate>Wed, 30 Sep 2026 13:00:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>Amazonは9月30日、新しい4Kストリーミングメディアプレーヤー「Fire TV Stick 4K」と、デザインを一新した「Fire TVリモコン」を発表した。Fire TVリモコンの機能を強化した「Fire TVリモコンPlus」の発売も予定している。プライム感謝祭では5980円から購入可能だ。 — ASCII.jp / score: 35 (新モデルのFire TV Stick 4Kおよび新型リモコンの発表)</description>
 </item>
 <item>
 <title>ドライヤーを壁に固定したら、ハンズフリーでいろいろできるようになりました</title>
@@ -231,6 +303,14 @@
 <description>イワタニの「マル暖プラス」はカセットガスで動くレトロなストーブ。前モデルより暖房効力が約1.5倍にアップし、やかんも載せられてキャンプや防災にも大活躍する注目の暖房器具です。 — ギズモード・ジャパン / score: 15 (一般向けのガジェット・アウトドア用品の紹介です。)</description>
 </item>
 <item>
+<title>芝浦工業大学・尾崎教授の計算アルゴリズムをNVIDIAが新たに採用〜 AI時代のGPUから、科学シミュレーションに不可欠な高精度計算を引き出す 〜｜芝浦工業大学</title>
+<link>https://www.shibaura-it.ac.jp/headline/detail/20260930_7070_51_1.html</link>
+<guid isPermaLink="true">https://www.shibaura-it.ac.jp/headline/detail/20260930_7070_51_1.html</guid>
+<pubDate>Wed, 30 Sep 2026 11:44:54 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>芝浦工業大学・尾崎教授の計算アルゴリズムをNVIDIAが新たに採用〜 AI時代のGPUから、科学シミュレーションに不可欠な高精度計算を引き出す 〜｜芝浦工業大学 — はてなブックマーク テクノロジー / score: 75 (NVIDIAが日本の大学の計算アルゴリズムを採用した重要ニュース)</description>
+</item>
+<item>
 <title>Apple、10月13日に3種類の新型スマートホームデバイスを発表か</title>
 <link>https://taisy0.com/2026/09/30/228177.html</link>
 <guid isPermaLink="true">https://taisy0.com/2026/09/30/228177.html</guid>
@@ -327,6 +407,22 @@
 <description>Minisforumが、ゲーミングミニPC「AtomMan G1 Pro」のRadeon RX 9060 XT搭載モデルをまもなく発売することを案内しています。 「AtomMan G1 Pro」は、AMD Ryzen 9 […] — 気になる、記になる… / score: 35 (新型ゲーミングミニPCの発売情報)</description>
 </item>
 <item>
+<title>はてなのポッドキャスト Backyard Hatena #57 - Whyはてなパークス！ その実態に迫る（id:chris4403） #byhatena - Hatena Developer Blog</title>
+<link>https://developer.hatenastaff.com/entry/2026/09/30/183000</link>
+<guid isPermaLink="true">https://developer.hatenastaff.com/entry/2026/09/30/183000</guid>
+<pubDate>Wed, 30 Sep 2026 10:51:40 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>こんにちは、CTO の id:motemen です。 はてなのエンジニア組織である技術グループでやっているポッドキャスト「Backyard Hatena」を更新しました。 「Backyard Hatena」は、株式会社はてなのメンバーの普段の様子や、サービス開発の裏側や技術、取り組みなどについて、CTO の id:motemen を中心としたメンバーがカジュ... — はてなブックマーク テクノロジー / score: 45 (はてな社の開発組織の取り組みを紹介するポッドキャスト配信)</description>
+</item>
+<item>
+<title>ベンチマークでJev超えな意思決定モデル「d1」が登場</title>
+<link>https://gigazine.net/news/20260930-d1-decision-model-liquid-ai/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20260930-d1-decision-model-liquid-ai/</guid>
+<pubDate>Wed, 30 Sep 2026 10:36:55 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>AI開発企業のLiquid AIが意思決定モデル「d1」をリリースしました。2026年9月に登場して大きな話題となっている「Jev」と同様の機能を備えており、性能テストでJevを上回ったとのことです。 Announcing d1, our first decision model. It's the first model to outperform Jev on @huggingface's Decision Index. &gt; wins... — はてなブックマーク テクノロジー / score: 75 (新型意思決定モデルd1のリリース)</description>
+</item>
+<item>
 <title>The Companions to Come</title>
 <link>https://blog.jetbrains.com/kotlin/2026/09/the-companions-to-come/</link>
 <guid isPermaLink="true">https://blog.jetbrains.com/kotlin/2026/09/the-companions-to-come/</guid>
@@ -397,6 +493,14 @@
 <pubDate>Wed, 30 Sep 2026 10:00:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>2026年9月、Anthropicのダリオ・アモデイCEOがAIの急速な進歩によるリスクが高まっているとして、AIが壊滅的な被害をもたらす危険性があると警告しました。これに対しアメリカのドナルド・トランプ大統領は「デマだ」と否定し、NVIDIAのジェンスン・フアンCEOもAI研究所のリーダーらは誠実さに欠けると非難しています。そんな中でローマ教皇のレオ14世が、AIへの懸念は真剣に受け止めるべきであり、フェイクニュースではないと主張しました。 続きを読む... — GIGAZINE / score: 40 (AIの危険性を巡る著名人の発言と議論)</description>
+</item>
+<item>
+<title>Helping small businesses put AI to work</title>
+<link>https://openai.com/index/helping-small-businesses-put-ai-to-work</link>
+<guid isPermaLink="true">https://openai.com/index/helping-small-businesses-put-ai-to-work</guid>
+<pubDate>Wed, 30 Sep 2026 10:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI. — OpenAI News / score: 50 (中小企業向けAI活用支援に関するOpenAIの取り組み発表)</description>
 </item>
 <item>
 <title>【Webクリエイター向け】世界的デザイナーがダメUIを劇的改善するアイデアを伝授！　10/16（金）好評セミナー「美しく、使いやすいUIをつくる秘訣、全部見せます」のアーカイブ映像を無料配信!!</title>
@@ -631,14 +735,6 @@
 <description>ここでは、Steamでお買い得に購入できるゲームタイトルから、5本の注目タイトルをピックアップして紹介していく。本記事をチェックして、お気に入りのタイトルを見つけよう！ — ASCII.jp / score: 20 (Steamでのゲームセール情報まとめ)</description>
 </item>
 <item>
-<title>食欲の秋はガッツリ飯と！ 「金麦 ザ・ラガー」24本セットがAmazonでお得</title>
-<link>https://ascii.jp/elem/000/004/438/4438163/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/438/4438163/?rss</guid>
-<pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>「金麦 ザ・ラガー 350ml 24本」がAmazonタイムセールの対象となっており、23％オフの3,378円で販売されています。 — ASCII.jp / score: 10 (酒類のECセール・プロモーション情報)</description>
-</item>
-<item>
 <title>来年の東京、GOで呼んだタクシーに運転手はいないかも</title>
 <link>https://www.gizmodo.jp/article/go-waymo-nihonkotsu/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/go-waymo-nihonkotsu/</guid>
@@ -653,14 +749,6 @@
 <pubDate>Wed, 30 Sep 2026 08:57:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>本日一般提供が開始された「Windows 11 2026 Update」（バージョン 26H2）では、 既知の問題が3件 確認されている。 — 窓の杜 / score: 65 (Windows 11 26H2の既知の問題と注意点)</description>
-</item>
-<item>
-<title>ベンチマークでJev超えな意思決定モデル「d1」が登場</title>
-<link>https://gigazine.net/news/20260930-d1-decision-model-liquid-ai/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260930-d1-decision-model-liquid-ai/</guid>
-<pubDate>Wed, 30 Sep 2026 08:52:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>AI開発企業のLiquid AIが意思決定モデル「d1」をリリースしました。2026年9月に登場して大きな話題となっている「Jev」と同様の機能を備えており、性能テストでJevを上回ったとのことです。 続きを読む... — GIGAZINE / score: 75 (新型意思決定モデルd1のリリース)</description>
 </item>
 <item>
 <title>AIと風通しの悪い日々 - Lambdaカクテル</title>
@@ -717,94 +805,6 @@
 <pubDate>Wed, 30 Sep 2026 08:00:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 50 (Alibabaのエージェント型AI発表)</description>
-</item>
-<item>
-<title>ローソンで「焼きとうもろこしを敷き詰めた弁当」＆「白米に激辛キーマカレーをちょっとだけのせた弁当」を買って食べてみた</title>
-<link>https://gigazine.net/news/20260930-ittentoppa-corn-curry/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260930-ittentoppa-corn-curry/</guid>
-<pubDate>Wed, 30 Sep 2026 08:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>2026年9月29日にローソンの新商品として「一点突破すぎ！敷き詰めごはん 焼とうもろこし」と「一点突破すぎ！ごはんがすすむ キーマカレー(激辛)」が登場しました。どちらも税込297円というお手頃価格の弁当で、「おかずが焼きとうもろこしのみ」「激辛キーマカレーを少量のせただけ」というまさに一点突破な弁当に仕上がっているとのこと。ボリューム感や味が気になったので実際に買って食べてみました。 続きを読む... — GIGAZINE / score: 10 (飲食物に関する一般ニュース)</description>
-</item>
-<item>
-<title>清掃力なら断然ローラーモップ。特にエコバックスの最新型は進化ぶりもすごい</title>
-<link>https://www.gizmodo.jp/article/ecovacs-deebot-x12s-pro-omni/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/ecovacs-deebot-x12s-pro-omni/</guid>
-<pubDate>Wed, 30 Sep 2026 08:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>使ったら分かるよ。日々のタスクをいかに自動化できるか。人類はあらゆる仕事を機械に任せるようになってきました。ロボット掃除機なんて、その最たるもの。床掃除を自動化するエキスパートです。僕は仕事柄いろんなロボット掃除機をレビューしてきましたが、… — ギズモード・ジャパン / score: 20 (ロボット掃除機の機能に関するガジェット紹介。)</description>
-</item>
-<item>
-<title>Cloudflare、耐量子のマークルツリー証明書に対応するパブリック認証局の設立を発表</title>
-<link>https://codezine.jp/article/detail/29871</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/29871</guid>
-<pubDate>Wed, 30 Sep 2026 07:30:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 75 (耐量子暗号対応の認証局設立)</description>
-</item>
-<item>
-<title>出生率低下を受け政府が独自開発の出会い系サービス「FirstDate」を試験的にスタート</title>
-<link>https://gigazine.net/news/20260930-firstdate-singapore-government-built-dating-service/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260930-firstdate-singapore-government-built-dating-service/</guid>
-<pubDate>Wed, 30 Sep 2026 07:29:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>シンガポール政府が21～35歳の独身男女向けに、出会い系サービス「FirstDate」の提供を開始しました。FirstDateを開発したのは2016年に設立されたシンガポール政府技術庁で、記事作成時点では公務員限定で利用可能です。 続きを読む... — GIGAZINE / score: 25 (政府による行政サービスの話題)</description>
-</item>
-<item>
-<title>トークン消費85％減　Googleが脆弱性を自動修正するオープンソースハーネス「Mantis」公開</title>
-<link>https://atmarkit.itmedia.co.jp/ait/articles/2609/30/news056.html</link>
-<guid isPermaLink="true">https://atmarkit.itmedia.co.jp/ait/articles/2609/30/news056.html</guid>
-<pubDate>Wed, 30 Sep 2026 07:26:23 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Googleは2026年9月2日（米国時間）、ソフトウェアの脆弱（ぜいじゃく）性の発見、トリアージ（優先順位付け）、修正を自動化するオープンソースのハーネス「Mantis」をGitHubで公開した。 Googleが社内で脆弱性を高速に発見し修正する取り組みの一環でもあり、コンテキストを考慮したリポジトリ分析を可能にするとしてい... — はてなブックマーク テクノロジー / score: 90 (Googleによる脆弱性自動修正OSSの公開)</description>
-</item>
-<item>
-<title>【The Dark Side(通常35,000円)プレゼント】灼熱のラテン・ポップスブラスコレクション、EastWest「HOLLYWOOD POP BRASS」が77%OFF！</title>
-<link>https://computermusic.jp/2026/09/hollywood-pop-brass/</link>
-<guid isPermaLink="true">https://computermusic.jp/2026/09/hollywood-pop-brass/</guid>
-<pubDate>Wed, 30 Sep 2026 07:16:01 +0000</pubDate>
-<category>Computer Music Japan</category>
-<description>灼熱のラテン・ポップスブラスコレクション、EastWest「HOLLYWOOD POP BRASS」が77%OFFとなっています。 さらに、プログレッシブロックからポップスやヒップホップまで、全ての音楽にインスピレーショ... The post 【The Dark Side(通常35,000円)プレゼント】灼熱のラテン・ポップスブラスコレクション、EastWest「HOLLYWOOD POP BRASS」が77%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 20 (音楽制作向け音源プラグインのセール情報。)</description>
-</item>
-<item>
-<title>「Google Chrome 154」で32件の脆弱性修正、「Microsoft Edge」も追随／「Critical」（致命的）と評価された脆弱性は1件</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2144480.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2144480.html</guid>
-<pubDate>Wed, 30 Sep 2026 07:16:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Googleは9月29日（現地時間、以下同）、デスクトップ向け「Google Chrome」の安定（Stable）チャネルをアップデートした。現在、Windows/Mac環境にはv154.0.8037.92/.93、Linux環境にはv154.0.8037.92が展開されている。 — 窓の杜 / score: 90 (Chromeの重大な脆弱性修正)</description>
-</item>
-<item>
-<title>撮影ランプを隠したら録画は止まる？ Metaの人に、AIグラスの盗撮対策どう考えてるか聞いてきた</title>
-<link>https://www.gizmodo.jp/article/2609-meta-ai-glasses-privacy-rayban/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2609-meta-ai-glasses-privacy-rayban/</guid>
-<pubDate>Wed, 30 Sep 2026 07:10:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>AIグラスの盗撮対策は？Metaの担当者に撮影ランプを隠した際の挙動やプライバシー対策を直撃。カメラなしモデルの狙いも解説します。 — ギズモード・ジャパン / score: 60 (AIグラスのプライバシーとセキュリティ対策の取材。)</description>
-</item>
-<item>
-<title>LINEヤフー、Messaging APIなどのデモアプリを9月30日で提供終了</title>
-<link>https://codezine.jp/article/detail/29855</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/29855</guid>
-<pubDate>Wed, 30 Sep 2026 07:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 60 (主要APIの提供終了告知)</description>
-</item>
-<item>
-<title>September 30, 2026</title>
-<link>https://docs.cloud.google.com/release-notes#September_30_2026</link>
-<guid isPermaLink="true">https://docs.cloud.google.com/release-notes#September_30_2026</guid>
-<pubDate>Wed, 30 Sep 2026 07:00:00 +0000</pubDate>
-<category>Google Cloud リリースノート</category>
-<description>Apigee API hub Feature AI performance and Tool performance dashboards in API insights API insights in API hub now includes two dashboards for AI and agent traffic: AI performance reports token usage and model latency for the large language models called through your gateways, with filters for model and provider. Tool performance reports traffic, throughput, payload sizes, and latency for your Model Context Protocol (MCP) tools, with filters for MCP server, deployment, and tool name. For more inf — Google Cloud リリースノート / score: 35 (Apigee Xのマイナーアップデート情報)</description>
-</item>
-<item>
-<title>Postman、AIエージェントの統制基盤「Fabric Gateway」の一般提供を開始</title>
-<link>https://codezine.jp/article/detail/29865</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/29865</guid>
-<pubDate>Wed, 30 Sep 2026 06:45:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 65 (AIエージェントの統制基盤リリース)</description>
 </item>
 </channel>
 </rss>
