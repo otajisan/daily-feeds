@@ -4,8 +4,16 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 30 Sep 2026 16:11:26 +0000</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 18:12:18 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>[95] September 2026 Security Release</title>
+<link>https://nextjs.org/blog/september-2026-security-release</link>
+<guid isPermaLink="true">https://nextjs.org/blog/september-2026-security-release</guid>
+<pubDate>Wed, 30 Sep 2026 18:00:00 +0000</pubDate>
+<category>Next.js Blog</category>
+<description>The September 2026 security release for Next.js is now available — Next.js Blog / score: 95 (Next.jsの緊急セキュリティリリース)</description>
+</item>
 <item>
 <title>[95] AIエージェントが「画像を貼れない」問題を勝手に解決、343組織の機密スクショ1万3000枚超をGitHubの公開リポジトリに保存していたことが判明</title>
 <link>https://gigazine.net/news/20260930-pixelleak/</link>
@@ -149,6 +157,14 @@
 <pubDate>Wed, 30 Sep 2026 11:34:10 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>Microsoftは9月29日(現地時間)、「WSLコンテナ(WSL containers)」を正式にリリースしました。Windows上でLinuxコンテナを直接扱える仕組みで、AI開発やクラウドネイティブなワークロードをローカル環境でより自然に運用できるようになります。 WSLコンテナを有効化すると、新しいCLI「wslc.exe」やAPIが利用可能になりま... — はてなブックマーク テクノロジー / score: 85 (WindowsでのWSLコンテナ正式リリース)</description>
+</item>
+<item>
+<title>[85] Disrupting a coordinated model-distillation campaign</title>
+<link>https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign</link>
+<guid isPermaLink="true">https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign</guid>
+<pubDate>Wed, 30 Sep 2026 10:30:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation. — OpenAI News / score: 85 (AIモデル蒸留キャンペーンへのセキュリティ対策)</description>
 </item>
 <item>
 <title>[85] 「WSL 3.0」がリリース、3カ月のテストを経て「WSL containers」が正式版に／「Docker」なしでLinuxコンテナーを構築・実行、「wslc compose」の開発にも着手</title>
@@ -458,9 +474,9 @@
 <title>[80] OpenAIが「Codex CLI」を大幅刷新＆Codexをクラウド上で動作させる「Codex Cloud」も登場</title>
 <link>https://gigazine.net/news/20260930-openai-codex-cli-cloud/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260930-openai-codex-cli-cloud/</guid>
-<pubDate>Wed, 30 Sep 2026 03:00:04 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>ターミナルからコードの検査、編集、実行が可能なOpenAIのツール「Codex CLI」が刷新され、いくつかの機能改善が行われました。 Codex CLI just got a major refresh, with a new look and powerful new capabilities. We’re continuing to invest in Codex CLI for developers who live in the command line. New full-... — はてなブックマーク テクノロジー / score: 80 (開発者向けOpenAIツールの大型刷新とクラウド化)</description>
+<pubDate>Wed, 30 Sep 2026 02:57:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>ターミナルからコードの検査、編集、実行が可能なOpenAIのツール「Codex CLI」が刷新され、いくつかの機能改善が行われました。 続きを読む... — GIGAZINE / score: 80 (開発者向けOpenAIツールの大型刷新とクラウド化)</description>
 </item>
 <item>
 <title>[80] ハニーポット観測：長年悪用されている脆弱性のご紹介</title>
@@ -607,6 +623,14 @@
 <description>Anthropicは2026年9月16日、Claude CoworkとClaudeのチャット機能が統合され、Claudeとして利用可能になることを発表した。 — gihyo.jp / score: 80 (Claudeの新機能統合やツールの拡張発表)</description>
 </item>
 <item>
+<title>[75] Amazon Aurora PostgreSQL now supports direct querying of Apache Iceberg and Parquet data in your data lake</title>
+<link>https://aws.amazon.com/blogs/aws/amazon-aurora-postgresql-now-supports-direct-querying-of-apache-iceberg-and-parquet-data-in-your-data-lake/</link>
+<guid isPermaLink="true">https://aws.amazon.com/blogs/aws/amazon-aurora-postgresql-now-supports-direct-querying-of-apache-iceberg-and-parquet-data-in-your-data-lake/</guid>
+<pubDate>Wed, 30 Sep 2026 17:22:31 +0000</pubDate>
+<category>AWS News Blog</category>
+<description>Amazon Aurora PostgreSQL now lets you directly query Apache Iceberg and Parquet data stored in your data lake alongside live operational data—no ETL pipelines required. Powered by DuckDB embedded within Aurora, this capability enables single queries that join transactional and historical data using familiar PostgreSQL syntax. It supports AWS Glue Data Catalog, S3, and S3 Tables, with optimizations like predicate pushdown and caching for efficient performance. — AWS News Blog / score: 75 (Aurora PostgreSQLのIceberg直接クエリ対応)</description>
+</item>
+<item>
 <title>[75] Vulnerability Discovery and Exploitation Trends in the AI Era</title>
 <link>https://cloud.google.com/blog/topics/threat-intelligence/vulnerability-discovery-and-exploitation-trends-in-the-ai-era/</link>
 <guid isPermaLink="true">https://cloud.google.com/blog/topics/threat-intelligence/vulnerability-discovery-and-exploitation-trends-in-the-ai-era/</guid>
@@ -719,14 +743,6 @@
 <description>米OpenAIは9月29日（現地時間、以下同）、月額200米ドルの「ChatGPT Pro」プランで新規受け付けを再開したと発表した。同プランは新モデル「GPT-6 Astra」の需要が急増し、システムへの負荷が高まったことをうけ、9月10日から新規受け付けが一時停止されていた。 — 窓の杜 / score: 75 (OpenAIのChatGPT Pro再開と新プラン)</description>
 </item>
 <item>
-<title>[75] タイムズカーの会員情報漏えいのニュース→TOPPAN「タイムズがデカいのやらかしたぞ！！今のうちにリリースしろ！！」企業が続々「俺も！！！」</title>
-<link>https://togetter.com/li/2752131</link>
-<guid isPermaLink="true">https://togetter.com/li/2752131</guid>
-<pubDate>Tue, 29 Sep 2026 23:47:03 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>AIと人事に苦しむマーモット @Duetousandyou トッパン「タイムズがデカいのやらかしたぞ！！ 今のうちにリリースしろ！！」 レゴランド「俺も！」 日本郵便「俺も！」 京王グループ「俺も！」 東京メトロ「俺も！」 イープラス「俺も！」 ニッポンレンタカー「俺も！」 スターツ出版「俺も！」 セコマ「俺も！」 集英社... — はてなブックマーク テクノロジー / score: 75 (企業のセキュリティインシデントに関する話題)</description>
-</item>
-<item>
 <title>[75] オープンウェイト型セキュリティモデル「Aikido Altar」公開</title>
 <link>https://codezine.jp/article/detail/29847</link>
 <guid isPermaLink="true">https://codezine.jp/article/detail/29847</guid>
@@ -789,22 +805,6 @@
 <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward. — OpenAI News / score: 75 (新しいAIエージェント機能の発表で注目度が高い。)</description>
-</item>
-<item>
-<title>[75] How we will do better for Australia</title>
-<link>https://openai.com/index/how-we-will-do-better-for-australia</link>
-<guid isPermaLink="true">https://openai.com/index/how-we-will-do-better-for-australia</guid>
-<pubDate>Mon, 28 Sep 2026 19:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences. — OpenAI News / score: 75 (OpenAIの豪州でのサイバー防衛支援と謝罪。)</description>
-</item>
-<item>
-<title>[75] Grok 4.7 is now available on Amazon Bedrock</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-grok-4-7/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-grok-4-7/</guid>
-<pubDate>Mon, 28 Sep 2026 18:29:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Amazon Bedrock now supports SpaceXAI Grok 4.7, a frontier model built for coding, agentic tasks, and knowledge work, with US Geo and Global cross-Region inference. Grok 4.7 builds on Grok 4.6 with better mixed-document handling, more dependable repo-scale coding with planning and error recovery, and enhanced browser-use agents for form fills and portal navigation. Get started with Grok 4.7 in the Amazon Bedrock console or programmatically through supported Amazon Bedrock APIs. For information ab — AWS What's New / score: 75 (Bedrockへの新AIモデル追加)</description>
 </item>
 </channel>
 </rss>

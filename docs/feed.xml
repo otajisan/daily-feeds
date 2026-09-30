@@ -4,8 +4,32 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 30 Sep 2026 16:11:26 +0000</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 18:12:18 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>September 2026 Security Release</title>
+<link>https://nextjs.org/blog/september-2026-security-release</link>
+<guid isPermaLink="true">https://nextjs.org/blog/september-2026-security-release</guid>
+<pubDate>Wed, 30 Sep 2026 18:00:00 +0000</pubDate>
+<category>Next.js Blog</category>
+<description>The September 2026 security release for Next.js is now available — Next.js Blog / score: 95 (Next.jsの緊急セキュリティリリース)</description>
+</item>
+<item>
+<title>Amazon Aurora PostgreSQL now supports direct querying of Apache Iceberg and Parquet data in your data lake</title>
+<link>https://aws.amazon.com/blogs/aws/amazon-aurora-postgresql-now-supports-direct-querying-of-apache-iceberg-and-parquet-data-in-your-data-lake/</link>
+<guid isPermaLink="true">https://aws.amazon.com/blogs/aws/amazon-aurora-postgresql-now-supports-direct-querying-of-apache-iceberg-and-parquet-data-in-your-data-lake/</guid>
+<pubDate>Wed, 30 Sep 2026 17:22:31 +0000</pubDate>
+<category>AWS News Blog</category>
+<description>Amazon Aurora PostgreSQL now lets you directly query Apache Iceberg and Parquet data stored in your data lake alongside live operational data—no ETL pipelines required. Powered by DuckDB embedded within Aurora, this capability enables single queries that join transactional and historical data using familiar PostgreSQL syntax. It supports AWS Glue Data Catalog, S3, and S3 Tables, with optimizations like predicate pushdown and caching for efficient performance. — AWS News Blog / score: 75 (Aurora PostgreSQLのIceberg直接クエリ対応)</description>
+</item>
+<item>
+<title>Celebrating Our Newest AWS Heroes – September 2026</title>
+<link>https://aws.amazon.com/blogs/aws/celebrating-our-newest-aws-heroes-september-2026/</link>
+<guid isPermaLink="true">https://aws.amazon.com/blogs/aws/celebrating-our-newest-aws-heroes-september-2026/</guid>
+<pubDate>Wed, 30 Sep 2026 17:04:05 +0000</pubDate>
+<category>AWS News Blog</category>
+<description>Today, we’re excited to introduce the newest members of the AWS Heroes program. AWS Heroes are a vibrant, worldwide group of AWS experts who go above and beyond to share knowledge, mentor others, and build thriving communities. These individuals make a real difference in helping developers and organizations succeed with AWS. This month, we welcome […] — AWS News Blog / score: 20 (AWS Heroesの新メンバー発表というコミュニティ情報)</description>
+</item>
 <item>
 <title>Let skills in Gemini tackle your most repetitive tasks</title>
 <link>https://blog.google/products-and-platforms/products/gemini/automate-tasks-with-skills/</link>
@@ -13,6 +37,14 @@
 <pubDate>Wed, 30 Sep 2026 16:00:00 +0000</pubDate>
 <category>Gemini (Google Blog)</category>
 <description>Now you can automate your most repetitive tasks more easily with reusable custom instructions through skills, which will be replacing gems. — Gemini (Google Blog) / score: 55 (Geminiのカスタム指示機能による定型タスク自動化の改善)</description>
+</item>
+<item>
+<title>Uncover blind spots in AWS data plane operations with CloudTrail Event Coverage</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/aws-cloudtrail-event-coverage/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/aws-cloudtrail-event-coverage/</guid>
+<pubDate>Wed, 30 Sep 2026 16:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS CloudTrail introduces Event Coverage, a new console experience that gives customers visibility into their data plane operations coverage at the account and organization level. You can now see which AWS services and resource types in your environment have data event logging enabled and which do not. This helps you quickly identify gaps in your logging posture without manually scanning accounts in your organization. Data events enable you to track data plane operations in AWS services. For exa — AWS What's New / score: 60 (AWS CloudTrailの新機能による運用可視化)</description>
 </item>
 <item>
 <title>Cloud CISO Perspectives: How cybersecurity startups can win CISOs</title>
@@ -37,6 +69,14 @@
 <pubDate>Wed, 30 Sep 2026 16:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>Spanner Omni , the deploy-anywhere version of Spanner, is now generally available, ready to power your most demanding production workloads in your on-premises data center or on other clouds. With Spanner, Google pioneered the distributed SQL market over a decade ago, combining the horizontal scalability of NoSQL with the ACID compliance and strong consistency of a traditional relational database. Since then, Spanner has evolved into an interoperable multi-model database that simplifies complex w — Google Cloud Blog / score: 80 (マルチクラウド対応分散DB「Spanner Omni」の一般提供開始)</description>
+</item>
+<item>
+<title>What’s new in AI infrastructure and orchestration in September</title>
+<link>https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/</guid>
+<pubDate>Wed, 30 Sep 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>We hereby declare September to be scalability month! As the world prepares for a surge of agentic fleets, we are shoring up our AI infrastructure and orchestration offerings to gracefully — and quickly — respond to that demand, all while maintaining workload isolation and security, and keeping costs in check. Read on to learn how these enhancements manifest across Google Cloud’s compute, network, storage, and orchestration offerings, plus new ways customers are using Google Cloud AI infrastructu — Google Cloud Blog / score: 65 (Google CloudのAIインフラとオーケストレーションの月次情報)</description>
 </item>
 <item>
 <title>JavaScriptの統合ツールチェーン「Vite+ 1.0」正式リリース。ランタイム、パッケージマネージャー、ビルドツール、リンター、フォーマッターなどを統一</title>
@@ -359,6 +399,14 @@
 <description>KongStudiosは、iOS／Androidでサービス中の『ガーディアンテイルズ』にて、本日2026年9月30日より日本リリース5周年を記念したイベントと各種キャンペーンを開始した。 — ASCII.jp / score: 15 (ゲームタイトルのイベント・キャンペーン)</description>
 </item>
 <item>
+<title>[石川温の「スマホ業界 Watch」] 楽天へのauローミングがいよいよ終了、都市部は約4割減か。マップで探る通信品質への影響</title>
+<link>https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2144589.html</link>
+<guid isPermaLink="true">https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2144589.html</guid>
+<pubDate>Wed, 30 Sep 2026 11:17:36 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>[石川温の「スマホ業界 Watch」] 楽天へのauローミングがいよいよ終了、都市部は約4割減か。マップで探る通信品質への影響 — はてなブックマーク テクノロジー / score: 40 (国内通信キャリアのローミング終了に関する動向)</description>
+</item>
+<item>
 <title>軽くて装着感良しのゲーミングヘッドセットを探してる？ PCやSwitch 2対応のLogicool G「G335」はどう？</title>
 <link>https://ascii.jp/elem/000/004/438/4438642/?rss</link>
 <guid isPermaLink="true">https://ascii.jp/elem/000/004/438/4438642/?rss</guid>
@@ -439,6 +487,14 @@
 <description>このイベントの登壇資料です。 今こそ聞きたいソフトウェア設計 #2 設計次第で、AIコードの読む量は減らせる https://findy.connpass.com/event/405803/ — はてなブックマーク テクノロジー / score: 55 (AI開発におけるソフトウェア設計手法)</description>
 </item>
 <item>
+<title>Disrupting a coordinated model-distillation campaign</title>
+<link>https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign</link>
+<guid isPermaLink="true">https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign</guid>
+<pubDate>Wed, 30 Sep 2026 10:30:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation. — OpenAI News / score: 85 (AIモデル蒸留キャンペーンへのセキュリティ対策)</description>
+</item>
+<item>
 <title>モンベルのドリッパーが、外で淹れたてのコーヒーを味わうのにちょうど良い</title>
 <link>https://www.gizmodo.jp/article/montbell-od-compact-dripper/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/montbell-od-compact-dripper/</guid>
@@ -477,6 +533,14 @@
 <pubDate>Wed, 30 Sep 2026 10:07:31 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>大喜利の投稿サイトとして知られる「写真で一言 ボケて」（bokete）が9月30日午後8時に、Web版、アプリ版共にサービスを終了する。公式Xアカウントは同日、「18年間ありがとうございました」と投稿し、利用者への感謝を伝えた。 — はてなブックマーク テクノロジー / score: 30 (著名Webサービス終了のニュース)</description>
+</item>
+<item>
+<title>AI時代のコードレビューは人に向けるな、仕組みに向けろ</title>
+<link>https://speakerdeck.com/texmeijin/ai-jidai-no-kodo-rebyu-ha-hito-ni-mukeru-na-shikumi-ni-mukero</link>
+<guid isPermaLink="true">https://speakerdeck.com/texmeijin/ai-jidai-no-kodo-rebyu-ha-hito-ni-mukeru-na-shikumi-ni-mukero</guid>
+<pubDate>Wed, 30 Sep 2026 10:03:59 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Technical Decisions and Reflections on "Test Maker" After Two Years of Development — はてなブックマーク テクノロジー / score: 50 (AI時代のコードレビューに関する実践的な考察)</description>
 </item>
 <item>
 <title>【駆け込みも大歓迎】デブクロ早期特典〆切は本日日付が変わるまで！</title>
@@ -615,6 +679,14 @@
 <description>はじめに AI Native開発で見えたもの ドメインエキスパート中心のSDDとその課題 動くモックで営業→フィードバックループの早期化 開発期間と工数の削減 全社展開戦略 開発：ガイドレール・ゴールデンパス・ガードレール 運用：コンテキストエンジニアリングと標準化 組織：ドメインエキスパート中心の開発体制 全社への... — はてなブックマーク テクノロジー / score: 50 (企業全体でのAIネイティブ開発への移行事例)</description>
 </item>
 <item>
+<title>The 10 Minute Test Plan Generate. Claudeと社内ナレッジでテスト計画の叩き台を10分で生成する仕組み - LayerX エンジニアブログ</title>
+<link>https://tech.layerx.co.jp/entry/10minute_test_plan_gen</link>
+<guid isPermaLink="true">https://tech.layerx.co.jp/entry/10minute_test_plan_gen</guid>
+<pubDate>Wed, 30 Sep 2026 09:30:19 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>こんにちは、LayerXバクラク事業部QA部のコヤマンです。 以前投稿したこちらの記事でご紹介した品質基準活用の取り組みの続きです。 品質の言語化のススメー早期テストの原則をClaude Code Agent Skillsで実現する試み - LayerX エンジニアブログ 「常に最新の仕様と品質基準＋QAのノウハウを踏まえてリスクベースドなテ... — はてなブックマーク テクノロジー / score: 55 (Claudeを活用した効率的なテスト計画生成の事例)</description>
+</item>
+<item>
 <title>ORICO、7-in-1多機能ドックを発表。コンパクトなフルアルミに最大8TB M.2 SSD・ギガビットLAN・10Gbps・PD100Wを集約し、モバイルワークを強力サポート。</title>
 <link>https://ascii.jp/elem/000/004/438/4438857/?rss</link>
 <guid isPermaLink="true">https://ascii.jp/elem/000/004/438/4438857/?rss</guid>
@@ -733,78 +805,6 @@
 <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
 <category>ASCII.jp</category>
 <description>ここでは、Steamでお買い得に購入できるゲームタイトルから、5本の注目タイトルをピックアップして紹介していく。本記事をチェックして、お気に入りのタイトルを見つけよう！ — ASCII.jp / score: 20 (Steamでのゲームセール情報まとめ)</description>
-</item>
-<item>
-<title>来年の東京、GOで呼んだタクシーに運転手はいないかも</title>
-<link>https://www.gizmodo.jp/article/go-waymo-nihonkotsu/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/go-waymo-nihonkotsu/</guid>
-<pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>あれ、運転手さん、いないんですけど…。GOでタクシーを呼ぶ。クルマが到着する。後部座席に乗り込んで前を見ると、運転席は空っぽです。目的地はアプリに入力済み。こちらが何も言わなくても、クルマはそのまま走り出します。来年、東京ではそんなタクシー… — ギズモード・ジャパン / score: 65 (自動運転タクシーの商業展開に関する動向)</description>
-</item>
-<item>
-<title>アップグレードして大丈夫？　「Windows 11 バージョン 26H2」で確認済みの問題は3件／基本的には問題がないが、いくつか注意点も</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2144521.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2144521.html</guid>
-<pubDate>Wed, 30 Sep 2026 08:57:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>本日一般提供が開始された「Windows 11 2026 Update」（バージョン 26H2）では、 既知の問題が3件 確認されている。 — 窓の杜 / score: 65 (Windows 11 26H2の既知の問題と注意点)</description>
-</item>
-<item>
-<title>AIと風通しの悪い日々 - Lambdaカクテル</title>
-<link>https://blog.3qe.us/entry/2026/09/30/174024</link>
-<guid isPermaLink="true">https://blog.3qe.us/entry/2026/09/30/174024</guid>
-<pubDate>Wed, 30 Sep 2026 08:44:33 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>最近まったくブログを書けていなかった。なんだか最近は風通しの悪い日々を過ごしていて、筆が乗らなかったというか、なんというか興醒めな毎日だったので、自分を奮い立たせることに失敗していたのだ。 雨 まず雨だ。梅雨ですらこんなに降らなかったぞという勢いで恵みの雨が降り続いており、どうにも体調が優れない。... — はてなブックマーク テクノロジー / score: 15 (個人のブログ記事)</description>
-</item>
-<item>
-<title>ChatGPTなどの汎用AIに本物の車を運転させたら「実車では？」と気付いて運転を拒否、最終的に走らせた方法とは</title>
-<link>https://gigazine.net/news/20260930-chatgpt-drive-car/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260930-chatgpt-drive-car/</guid>
-<pubDate>Wed, 30 Sep 2026 08:41:38 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>ChatGPTなどに使われる汎用(はんよう)AIモデルに本物の自動車のハンドル・アクセル・ブレーキを任せてみる実験を、サンフランシスコ・ベイエリアの技術者3人によるプロジェクト「DrivingBench」が実施しました。 Report · DrivingBench https://drivingbench.com/report/ These Tech Workers Made ChatGPT Drive a Toyot... — はてなブックマーク テクノロジー / score: 55 (AIの物理制御に関する実験記事)</description>
-</item>
-<item>
-<title>Microsoft、WSL containersを一般提供 ——CLIとAPIでWindowsからLinuxコンテナを操作</title>
-<link>https://gihyo.jp/article/2026/09/wsl-containers-ga?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/09/wsl-containers-ga?utm_source=feed</guid>
-<pubDate>Wed, 30 Sep 2026 08:18:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Microsoftは9月29日、Windows Subsystem for Linux（WSL）のコンテナ機能「WSL containers」の一般提供を開始した。 — gihyo.jp / score: 80 (WSL containersの一般提供開始)</description>
-</item>
-<item>
-<title>「OpenSSL」に14件のセキュリティ欠陥、修正版が公開。「OpenSSL 3.0」はサポート終了／v4.0.3、v3.6.5、v3.5.9、v3.4.8が一般リリース</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2144482.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2144482.html</guid>
-<pubDate>Wed, 30 Sep 2026 08:14:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>SSL/TLSプロトコルを実装したオープンソースライブラリ「OpenSSL」の開発チームは9月29日（日本時間）、「OpenSSL」のセキュリティアップデートを実施した。以下のバージョンが利用可能。 — 窓の杜 / score: 90 (OpenSSLの複数脆弱性と修正版公開)</description>
-</item>
-<item>
-<title>トランプ政権が連邦政府のデジタルポータル「America.gov」を開設</title>
-<link>https://gigazine.net/news/20260930-america-gov/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260930-america-gov/</guid>
-<pubDate>Wed, 30 Sep 2026 08:12:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>アメリカ国民が公共リリースに簡単にアクセスできるようにするための入口として、トランプ大統領が「America.gov」の立ち上げを発表しました。 続きを読む... — GIGAZINE / score: 35 (米政府のデジタルポータル開設ニュース)</description>
-</item>
-<item>
-<title>iPhone18 Proのスピーカーに異音報告〜iOS27.0.1で直らないとの声</title>
-<link>https://iphone-mania.jp/iphone18-606818/</link>
-<guid isPermaLink="true">https://iphone-mania.jp/iphone18-606818/</guid>
-<pubDate>Wed, 30 Sep 2026 08:09:30 +0000</pubDate>
-<category>iPhone Mania</category>
-<description>iPhone18 ProとiPhone18 Pro Maxの一部の購入者が、主に受話口のスピーカーから聞こえるパチパチという異音を海外で報告しています。iOS27.0.1でも改善しなかったとの反応や交換品で再発したとの声 […] — iPhone Mania / score: 30 (ハードウェアの不具合に関する噂)</description>
-</item>
-<item>
-<title>Alibaba、スマホメーカー向けエージェント型AIソリューション「Qwen Intelligence」を発表</title>
-<link>https://codezine.jp/article/detail/29853</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/29853</guid>
-<pubDate>Wed, 30 Sep 2026 08:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 50 (Alibabaのエージェント型AI発表)</description>
 </item>
 </channel>
 </rss>
