@@ -4,8 +4,40 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 30 Sep 2026 18:12:18 +0000</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 20:11:22 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Amazon S3 Vectors now supports metadata pre-filtering for higher recall on filtered searches</title>
+<link>https://aws.amazon.com/blogs/aws/amazon-s3-vectors-now-supports-metadata-pre-filtering-for-higher-recall-on-filtered-searches/</link>
+<guid isPermaLink="true">https://aws.amazon.com/blogs/aws/amazon-s3-vectors-now-supports-metadata-pre-filtering-for-higher-recall-on-filtered-searches/</guid>
+<pubDate>Wed, 30 Sep 2026 20:03:34 +0000</pubDate>
+<category>AWS News Blog</category>
+<description>Amazon S3 Vectors now supports metadata pre filtering, delivering up to 5x higher recall on filtered searches. Filters evaluate before similarity search so scoped queries return more relevant results. Ideal for RAG, agentic apps, and document search. — AWS News Blog / score: 65 (Amazon S3 Vectorsのメタデータプレフィルタ対応)</description>
+</item>
+<item>
+<title>Gemini 4 Argon: our next era of frontier intelligence</title>
+<link>https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/</link>
+<guid isPermaLink="true">https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/</guid>
+<pubDate>Wed, 30 Sep 2026 20:01:45 +0000</pubDate>
+<category>Google DeepMind</category>
+<description> — Google DeepMind / score: 85 (次世代AIモデルの大型発表)</description>
+</item>
+<item>
+<title>Gemini 4 Argon: our next era of frontier intelligence</title>
+<link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/</link>
+<guid isPermaLink="true">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/</guid>
+<pubDate>Wed, 30 Sep 2026 20:00:00 +0000</pubDate>
+<category>Gemini (Google Blog)</category>
+<description>Stylized promotional blog key art graphic with modern editorial branding and the text "Gemini 4 Argon" — Gemini (Google Blog) / score: 85 (Googleの新型AIモデル発表)</description>
+</item>
+<item>
+<title>OpenAI GPT-6 Astra now supports UltraFast mode on Amazon Bedrock</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-astra-ultrafast-on-amazon-bedrock/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-astra-ultrafast-on-amazon-bedrock/</guid>
+<pubDate>Wed, 30 Sep 2026 19:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Today, AWS announces the availability of UltraFast mode for GPT-6 Astra from OpenAI on Amazon Bedrock. Ultrafast is a premium speed tier for GPT-6 Astra built for workloads where speed matters most. According to OpenAI, Ultrafast delivers up to 6x faster inference in the API, with up to 300 tokens per second. The Amazon Bedrock inference engine delivers the performance, security, and reliability required for production workloads. Use GPT-6 Astra Ultrafast for latency-sensitive applications such  — AWS What's New / score: 75 (Bedrockでの主要AIの高速モード対応)</description>
+</item>
 <item>
 <title>September 2026 Security Release</title>
 <link>https://nextjs.org/blog/september-2026-security-release</link>
@@ -13,6 +45,14 @@
 <pubDate>Wed, 30 Sep 2026 18:00:00 +0000</pubDate>
 <category>Next.js Blog</category>
 <description>The September 2026 security release for Next.js is now available — Next.js Blog / score: 95 (Next.jsの緊急セキュリティリリース)</description>
+</item>
+<item>
+<title>Amazon Aurora serverless now scales faster to support agentic AI and other bursty workloads</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/08/aurora-serverless-instant-16-acu-scaling/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/08/aurora-serverless-instant-16-acu-scaling/</guid>
+<pubDate>Wed, 30 Sep 2026 17:50:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon Aurora serverless now scales in even larger steps, adding up to 16 ACUs to its current capacity within a second and continuing to scale up to 256 ACUs as your workload grows. With this launch, your workload will scale faster and reach capacity that it requires. When the workload finishes, Aurora serverless automatically scales down to zero, so you only pay for what you use. This makes it especially well-suited for agentic AI applications, which typically have bursts of activity, long idle — AWS What's New / score: 65 (Aurora Serverlessの高速スケーリング対応)</description>
 </item>
 <item>
 <title>Amazon Aurora PostgreSQL now supports direct querying of Apache Iceberg and Parquet data in your data lake</title>
@@ -31,12 +71,36 @@
 <description>Today, we’re excited to introduce the newest members of the AWS Heroes program. AWS Heroes are a vibrant, worldwide group of AWS experts who go above and beyond to share knowledge, mentor others, and build thriving communities. These individuals make a real difference in helping developers and organizations succeed with AWS. This month, we welcome […] — AWS News Blog / score: 20 (AWS Heroesの新メンバー発表というコミュニティ情報)</description>
 </item>
 <item>
+<title>Amazon Aurora and RDS now support AMD-based R8a instances</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/aurora-rds-amd-r8a/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/aurora-rds-amd-r8a/</guid>
+<pubDate>Wed, 30 Sep 2026 17:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon Aurora and Amazon RDS now support R8a database instances powered by 5th generation AMD EPYC processors, expanding the choice available for your database workloads. Each vCPU in R8a database instances corresponds to a physical CPU core, which delivers consistent per-core performance. For workloads with high I/O requirements, R8a instances provide up to 75 Gbps of network bandwidth and 60 Gbps of Amazon EBS bandwidth. All R8a instances are built on the AWS Nitro System using sixth-generatio — AWS What's New / score: 40 (RDS/AuroraのAMDインスタンス対応)</description>
+</item>
+<item>
+<title>Amazon RDS now supports AMD-based M8a instances</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/aurora-rds-amd-m8a/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/aurora-rds-amd-m8a/</guid>
+<pubDate>Wed, 30 Sep 2026 17:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon RDS for PostgreSQL, MySQL, and MariaDB now support M8a database instances powered by 5th generation AMD EPYC processors, expanding the choice available for your database workloads. Each vCPU in M8a database instances corresponds to a physical CPU core, which delivers consistent per-core performance. For workloads with high I/O requirements, M8a instances provide up to 75 Gbps of network bandwidth and 60 Gbps of Amazon EBS bandwidth. All instances are built on the AWS Nitro System using si — AWS What's New / score: 40 (RDSのAMDベースインスタンス追加)</description>
+</item>
+<item>
 <title>Let skills in Gemini tackle your most repetitive tasks</title>
 <link>https://blog.google/products-and-platforms/products/gemini/automate-tasks-with-skills/</link>
 <guid isPermaLink="true">https://blog.google/products-and-platforms/products/gemini/automate-tasks-with-skills/</guid>
 <pubDate>Wed, 30 Sep 2026 16:00:00 +0000</pubDate>
 <category>Gemini (Google Blog)</category>
 <description>Now you can automate your most repetitive tasks more easily with reusable custom instructions through skills, which will be replacing gems. — Gemini (Google Blog) / score: 55 (Geminiのカスタム指示機能による定型タスク自動化の改善)</description>
+</item>
+<item>
+<title>Aurora PostgreSQL now supports querying of Apache Iceberg and Parquet data</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/aurora-postgresql-query-apache-iceberg-and-parquet/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/aurora-postgresql-query-apache-iceberg-and-parquet/</guid>
+<pubDate>Wed, 30 Sep 2026 16:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Starting today, you can directly query operational data together with data stored in data lakes in Apache Iceberg and Parquet formats using your existing PostgreSQL applications and tools, without extract, transform, and load (ETL) pipelines or data duplication. Applications increasingly need access to data from data lakes, often stored in Apache Iceberg and Parquet formats, to make more informed decisions and automate business processes. Accessing it has typically required pipelines that copy d — AWS What's New / score: 70 (AuroraでIceberg等の直接クエリが可能に)</description>
 </item>
 <item>
 <title>Uncover blind spots in AWS data plane operations with CloudTrail Event Coverage</title>
@@ -47,20 +111,28 @@
 <description>AWS CloudTrail introduces Event Coverage, a new console experience that gives customers visibility into their data plane operations coverage at the account and organization level. You can now see which AWS services and resource types in your environment have data event logging enabled and which do not. This helps you quickly identify gaps in your logging posture without manually scanning accounts in your organization. Data events enable you to track data plane operations in AWS services. For exa — AWS What's New / score: 60 (AWS CloudTrailの新機能による運用可視化)</description>
 </item>
 <item>
+<title>Amazon RDS for MySQL supports MySQL 26.7 in Amazon RDS Database Preview Environment</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/rds-mysql-26-7-preview-environment/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/rds-mysql-26-7-preview-environment/</guid>
+<pubDate>Wed, 30 Sep 2026 16:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Starting today, Amazon RDS for MySQL 26.7 is available in the Amazon RDS Database Preview Environment , allowing you to evaluate the pre-release of MySQL 26.7 on Amazon RDS for MySQL. MySQL 26.7 is the first Innovation release to adopt the new YY.M (Year.Month) calendar versioning model. It includes bug fixes, security patches, and new features such as Change Stream Applier, a modular replication applier that improves apply throughput and backlog recovery in test workloads. For more details, ref — AWS What's New / score: 35 (MySQLプレビュー版のRDSサポート)</description>
+</item>
+<item>
+<title>What’s new in AI infrastructure and orchestration in September</title>
+<link>https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/</guid>
+<pubDate>Wed, 30 Sep 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>We hereby declare September to be scalability month! As the world prepares for a surge of agentic fleets, we are shoring up our AI infrastructure and orchestration offerings to gracefully — and quickly — respond to that demand, all while maintaining workload isolation and security, and keeping costs in check. Read on to learn how these enhancements manifest across Google Cloud’s compute, network, storage, and orchestration offerings, plus new ways customers are using Google Cloud AI infrastructu — Google Cloud Blog / score: 65 (Google CloudのAIインフラとオーケストレーションの月次情報)</description>
+</item>
+<item>
 <title>Cloud CISO Perspectives: How cybersecurity startups can win CISOs</title>
 <link>https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-cybersecurity-startups-can-win-cisos/</link>
 <guid isPermaLink="true">https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-how-cybersecurity-startups-can-win-cisos/</guid>
 <pubDate>Wed, 30 Sep 2026 16:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>Welcome to the second Cloud CISO Perspectives for September 2026. Today, Alicja Cade and Nick Godfrey, senior directors, Office of the CISO, share their guidance for cybersecurity startups on how to win over the CISOs who will become crucial business partners and customers. As with all Cloud CISO Perspectives, the contents of this newsletter are posted to the Google Cloud blog . If you’re reading this on the website and you’d like to receive the email version, you can subscribe here . aside_bloc — Google Cloud Blog / score: 50 (CISO向けにサイバーセキュリティスタートアップの動向を解説)</description>
-</item>
-<item>
-<title>Empower your agents with the Google Cloud CLI remote MCP server</title>
-<link>https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-cli-remote-mcp-server-in-preview/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-cli-remote-mcp-server-in-preview/</guid>
-<pubDate>Wed, 30 Sep 2026 16:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>Today, we’re expanding our ecosystem of managed remote MCP servers by introducing the Google Cloud CLI remote MCP server in preview. Powered by the popular gcloud and bq (BigQuery) command-line tools, this new server gives AI agents immediate, broad access to command-line operations for managing Google Cloud infrastructure and working with advanced BigQuery workflows securely and seamlessly. Why CLI matters for AI agents Agents are increasingly performing complex cloud operations, but standardiz — Google Cloud Blog / score: 65 (Google Cloud CLIのリモートMCPサーバープレビュー版公開)</description>
 </item>
 <item>
 <title>Spanner Omni, now GA: A distributed, multi-model database that you can deploy anywhere</title>
@@ -71,12 +143,12 @@
 <description>Spanner Omni , the deploy-anywhere version of Spanner, is now generally available, ready to power your most demanding production workloads in your on-premises data center or on other clouds. With Spanner, Google pioneered the distributed SQL market over a decade ago, combining the horizontal scalability of NoSQL with the ACID compliance and strong consistency of a traditional relational database. Since then, Spanner has evolved into an interoperable multi-model database that simplifies complex w — Google Cloud Blog / score: 80 (マルチクラウド対応分散DB「Spanner Omni」の一般提供開始)</description>
 </item>
 <item>
-<title>What’s new in AI infrastructure and orchestration in September</title>
-<link>https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/</guid>
+<title>Empower your agents with the Google Cloud CLI remote MCP server</title>
+<link>https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-cli-remote-mcp-server-in-preview/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-cli-remote-mcp-server-in-preview/</guid>
 <pubDate>Wed, 30 Sep 2026 16:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
-<description>We hereby declare September to be scalability month! As the world prepares for a surge of agentic fleets, we are shoring up our AI infrastructure and orchestration offerings to gracefully — and quickly — respond to that demand, all while maintaining workload isolation and security, and keeping costs in check. Read on to learn how these enhancements manifest across Google Cloud’s compute, network, storage, and orchestration offerings, plus new ways customers are using Google Cloud AI infrastructu — Google Cloud Blog / score: 65 (Google CloudのAIインフラとオーケストレーションの月次情報)</description>
+<description>Today, we’re expanding our ecosystem of managed remote MCP servers by introducing the Google Cloud CLI remote MCP server in preview. Powered by the popular gcloud and bq (BigQuery) command-line tools, this new server gives AI agents immediate, broad access to command-line operations for managing Google Cloud infrastructure and working with advanced BigQuery workflows securely and seamlessly. Why CLI matters for AI agents Agents are increasingly performing complex cloud operations, but standardiz — Google Cloud Blog / score: 65 (Google Cloud CLIのリモートMCPサーバープレビュー版公開)</description>
 </item>
 <item>
 <title>JavaScriptの統合ツールチェーン「Vite+ 1.0」正式リリース。ランタイム、パッケージマネージャー、ビルドツール、リンター、フォーマッターなどを統一</title>
@@ -109,6 +181,14 @@
 <pubDate>Wed, 30 Sep 2026 14:48:12 +0000</pubDate>
 <category>iPhone Mania</category>
 <description>iOS27で一時的にコントロールセンターから利用できなくなっていた「アプリごとのテキストサイズ変更」ですが、Appleが開発中のiOS27.2ベータ2で再び利用可能になっていることが判明しました。 iOS27.2では他に […] — iPhone Mania / score: 30 (iOSベータ版におけるコントロールセンター機能の細かな復活)</description>
+</item>
+<item>
+<title>タイムズカー免許証画像流出、勝手にクレジットカード開設の恐れ　とるべき対策は - 日本経済新聞</title>
+<link>https://www.nikkei.com/article/DGXZQOUC303V60Q6A930C2000000/</link>
+<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUC303V60Q6A930C2000000/</guid>
+<pubDate>Wed, 30 Sep 2026 14:16:30 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>パーク24のカーシェアサービス「タイムズカー」のシステムへの不正アクセスで運転免許証画像などが約160万件分流出した。本人確認書類画像の流出では国内最大規模だ。なりすましに悪用され、勝手にクレジットカードを発行される危険性がある。パーク24が不正アクセスを検知したのは25日午前9時10分ごろだ。「タイムズカ... — はてなブックマーク テクノロジー / score: 90 (大規模な個人情報流出とセキュリティ対策)</description>
 </item>
 <item>
 <title>Windows 11のうっとうしいポップアップ連発を凝縮体験できる「Windows 11½」</title>
@@ -333,6 +413,14 @@
 <pubDate>Wed, 30 Sep 2026 12:00:00 +0000</pubDate>
 <category>Python Insider</category>
 <description>Pablo Galindo Salgado proposes a top-level `std` namespace for the Python standard library to prevent module shadowing and free up module names. — Python Insider / score: 65 (Pythonの標準ライブラリ改善提案)</description>
+</item>
+<item>
+<title>Partner Revenue Measurement adds Multi-Partner support to Resource Tagging</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/partner-revenue-measurement-multi-partner-resource-tagging</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/partner-revenue-measurement-multi-partner-resource-tagging</guid>
+<pubDate>Wed, 30 Sep 2026 12:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Partner Revenue Measurement (PRM) provides measurement of AWS consumption driven by Partner solutions. Today, PRM adds multi-Partner support to Resource Tagging, so that multiple AWS Partners can receive revenue attribution for the same AWS resource. Previously, a resource carried only one Partner tag, aws-apn-id , so when multiple Partners contributed to the same workload, only one Partner received attribution. With this update, each Partner tags the resources they contribute to using a new key — AWS What's New / score: 30 (AWSパートナー収益測定の機能追加)</description>
 </item>
 <item>
 <title>古（いにしえ）のストーブがカセットガスで大進化。やかんも載るよ</title>
@@ -717,94 +805,6 @@
 <pubDate>Wed, 30 Sep 2026 09:30:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>移動中や旅先では、環境の変化で寝付けなかったり、隙間時間で寝ておきたいことがある。寝る時間はあるのに、環境のせいで眠れない。そんなときのために、光と音を遮る道具をまとめて持っておけばいい。寝たいときは、これを取り出すだけMatador（マタ… — ギズモード・ジャパン / score: 20 (トラベル向けガジェットの紹介)</description>
-</item>
-<item>
-<title>五・七・五の俳句や川柳のみ投稿できるSNS「青鳥五七五」　ほか【ダイジェストニュース】</title>
-<link>https://forest.watch.impress.co.jp/docs/digest/2144631.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/digest/2144631.html</guid>
-<pubDate>Wed, 30 Sep 2026 09:29:01 +0000</pubDate>
-<category>窓の杜</category>
-<description> — 窓の杜 / score: 20 (ユニークなSNSサービスの紹介)</description>
-</item>
-<item>
-<title>iPhone Duo購入準備は10月12日から？品薄対策にも有効だが</title>
-<link>https://iphone-mania.jp/iphone18-606820/</link>
-<guid isPermaLink="true">https://iphone-mania.jp/iphone18-606820/</guid>
-<pubDate>Wed, 30 Sep 2026 09:28:33 +0000</pubDate>
-<category>iPhone Mania</category>
-<description>米国のAppleオンラインストアのiPhone Duoページに、Apple Storeアプリなどで利用できる「保存済みアイテム」への登録が、10月12日から可能になると記されています。 購入予定のiPhone Duoにつ […] — iPhone Mania / score: 30 (新型iPhoneの購入準備に関する噂)</description>
-</item>
-<item>
-<title>『マブガル』にてSSR「桃園める」【蒼き穹舞うフラットスピン】／SSR「コトハ」【世界への反逆者】が復刻して登場！</title>
-<link>https://ascii.jp/elem/000/004/438/4438734/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/438/4438734/?rss</guid>
-<pubDate>Wed, 30 Sep 2026 09:05:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>合同会社EXNOAとKMSは、PC（ブラウザ／DMM GAME PLAYER）／Android（DMM GAMES STORE）／iOS（DMM GAMES STORE）でサービス中の『マブラヴ ガールズガーデン』にて、SSR「桃園める」【蒼き穹舞うフラットスピン】、SSR「コトハ」【世界への反逆者】を2026年9月30日に復刻。 — ASCII.jp / score: 10 (ソシャゲのイベント復刻情報)</description>
-</item>
-<item>
-<title>「アイロンを使うほど髪がパサつく」その原因は"水蒸気爆発"かも｜熱ダメージを抑える独自プレート搭載「プレミアムシャインビューティーヘアアイロン」9月30日発売【Ur.Salon】</title>
-<link>https://ascii.jp/elem/000/004/438/4438861/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/438/4438861/?rss</guid>
-<pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>「アイロンを使うほど髪がパサつく」その原因は"水蒸気爆発"かも｜熱ダメージを抑える独自プレート搭載「プレミアムシャインビューティーヘアアイロン」9月30日発売【Ur.Salon】 — ASCII.jp / score: 10 (ヘアアイロンの製品紹介ニュース)</description>
-</item>
-<item>
-<title>企業が向き合う「リアルな社会課題」が、中高生をワクワクさせる探究教材に。MoonJapan、企業連携型の探究プログラム「MoonShot パートナープログラム」2027年度の参加校の募集を開始</title>
-<link>https://ascii.jp/elem/000/004/438/4438853/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/438/4438853/?rss</guid>
-<pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>企業が向き合う「リアルな社会課題」が、中高生をワクワクさせる探究教材に。MoonJapan、企業連携型の探究プログラム「MoonShot パートナープログラム」2027年度の参加校の募集を開始 — ASCII.jp / score: 10 (教育プログラムの参加者募集であり技術トピックではありません。)</description>
-</item>
-<item>
-<title>OrcaRouter、AIエージェント事案の収録数が9月に75件で月別最多に ─ オープンデータベースを更新</title>
-<link>https://ascii.jp/elem/000/004/438/4438852/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/438/4438852/?rss</guid>
-<pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>OrcaRouter、AIエージェント事案の収録数が9月に75件で月別最多に ─ オープンデータベースを更新 — ASCII.jp / score: 45 (AIエージェントの動向に関するデータベース更新の話題です。)</description>
-</item>
-<item>
-<title>『クレイジーバルーン』がSwitch 2／PS5／XSX|S／PC向け「アーケードアーカイブス2」で10月1日に配信！</title>
-<link>https://ascii.jp/elem/000/004/438/4438671/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/438/4438671/?rss</guid>
-<pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>2026年9月30日、ハムスターは、Nintendo Switch 2／PlayStation 5／Xbox Series X|S／PC（Windows ※XBOX Play Anywhere対応）向けに『アーケードアーカイブス2 クレイジーバルーン』を10月1日に配信すると発表。価格は1100円となる。 — ASCII.jp / score: 15 (アーケードゲームの移植・配信情報)</description>
-</item>
-<item>
-<title>充電ドック付きで9980円の高コスパパッド発見！ SwitchやPC対応のゲームコントローラー「Leadjoy Xeno Pro」</title>
-<link>https://ascii.jp/elem/000/004/438/4438591/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/438/4438591/?rss</guid>
-<pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>Amazon.co.jpにて、Leadjoyのゲームコントローラー「Leadjoy Xeno Pro」が販売中だ。価格は9980円。 — ASCII.jp / score: 30 (サードパーティ製コントローラーの製品紹介)</description>
-</item>
-<item>
-<title>牛めしだけじゃない！ 豚めし・カレーも入った「松屋 4種20食セット」が41％オフ</title>
-<link>https://ascii.jp/elem/000/004/438/4438582/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/438/4438582/?rss</guid>
-<pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>松屋の定番メニュー4種を詰め合わせた「4種20食 松屋定番セット」が41％オフ。1食あたり約260円となっています。 — ASCII.jp / score: 10 (飲食チェーン店のセール情報)</description>
-</item>
-<item>
-<title>国際ビジネスマッチングイベント「RAMEN TECH Global Summit 2026」が10月8日に開催！</title>
-<link>https://ascii.jp/elem/000/004/438/4438581/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/438/4438581/?rss</guid>
-<pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>福岡市が主催する国際ビジネスマッチングイベント「RAMEN TECH Global Summit 2026」が、10月8日に大名カンファレンス（福岡市中央区）にて開催される。開催時間は9時30分から18時20分まで。参加費は無料（事前登録制）で、1セッションのみの参加も可能となっている。 — ASCII.jp / score: 45 (ビジネスマッチングイベントの開催告知)</description>
-</item>
-<item>
-<title>50％オフで『ウィッチャー３　ワイルドハント　リマスター』がお安く！ほかにも名作＆人気タイトルがお買い得【Steam今週のセール情報】</title>
-<link>https://ascii.jp/elem/000/004/438/4438545/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/438/4438545/?rss</guid>
-<pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>ここでは、Steamでお買い得に購入できるゲームタイトルから、5本の注目タイトルをピックアップして紹介していく。本記事をチェックして、お気に入りのタイトルを見つけよう！ — ASCII.jp / score: 20 (Steamでのゲームセール情報まとめ)</description>
 </item>
 </channel>
 </rss>
