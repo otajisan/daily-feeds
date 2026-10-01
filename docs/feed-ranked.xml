@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 01 Oct 2026 04:13:29 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 06:18:35 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] September 2026 Security Release</title>
@@ -13,14 +13,6 @@
 <pubDate>Wed, 30 Sep 2026 18:00:00 +0000</pubDate>
 <category>Next.js Blog</category>
 <description>The September 2026 security release for Next.js is now available — Next.js Blog / score: 95 (Next.jsの緊急セキュリティリリース)</description>
-</item>
-<item>
-<title>[95] AIエージェントが「画像を貼れない」問題を勝手に解決、343組織の機密スクショ1万3000枚超をGitHubの公開リポジトリに保存していたことが判明</title>
-<link>https://gigazine.net/news/20260930-pixelleak/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260930-pixelleak/</guid>
-<pubDate>Wed, 30 Sep 2026 04:10:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>AIコーディングエージェントが開発中の画面をレビュー担当者と共有する際、非公開リポジトリのスクリーンショットをGitHub上の公開リポジトリへアップロードしていたことがセキュリティ企業のGlow Securityによって明らかにされました。Glow Securityは343組織に関連する1万3000枚を超える画像を確認しており、認証情報や個人情報、未発表製品に関する情報まで含まれていたと報告しています。 続きを読む... — GIGAZINE / score: 95 (AIエージェントによる機密情報の重大な漏洩事故)</description>
 </item>
 <item>
 <title>[95] Defending Against Active Exploitation of Citrix NetScaler ADC and Gateway Appliances</title>
@@ -55,20 +47,20 @@
 <description>The September 22, 2026 out-of-band security update for Next.js is now available — Next.js Blog / score: 95 (Next.jsの重大な上流脆弱性に対する緊急セキュリティ修正。)</description>
 </item>
 <item>
+<title>[90] 「Python」でセキュリティアップデート、「Critical」評価の脆弱性などを解決／v3.14.8、v3.13.16、v3.12.15が公開</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2144739.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2144739.html</guid>
+<pubDate>Thu, 01 Oct 2026 05:39:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>スクリプト言語「Python」の開発チームは9月30日、「3.14」「3.13」「3.12」系統の最新版をリリースした。いずれもセキュリティ修正を含むアップデートで、できるだけ早い適用が望ましい。 — 窓の杜 / score: 90 (Pythonのクリティカルなセキュリティ脆弱性修正)</description>
+</item>
+<item>
 <title>[90] NVIDIA製GPUドライバーに114件もの脆弱性、深刻度の最大評価は「Critical」／「GeForce」ユーザーはv616.56などへの更新を</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2144714.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2144714.html</guid>
 <pubDate>Thu, 01 Oct 2026 01:24:45 +0000</pubDate>
 <category>窓の杜</category>
 <description>米NVIDIAは9月30日（現地時間）、同社製のGPUディスプレイドライバーおよびvGPUソフトウェアに多数の脆弱性が存在することを明らかにした。対策を施した最新版のドライバーがリリースされている。 — 窓の杜 / score: 90 (NVIDIA製GPUドライバに多数の重大な脆弱性)</description>
-</item>
-<item>
-<title>[90] タイムズカー免許証画像流出、勝手にクレジットカード開設の恐れ　とるべき対策は - 日本経済新聞</title>
-<link>https://www.nikkei.com/article/DGXZQOUC303V60Q6A930C2000000/</link>
-<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUC303V60Q6A930C2000000/</guid>
-<pubDate>Wed, 30 Sep 2026 14:16:30 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>パーク24のカーシェアサービス「タイムズカー」のシステムへの不正アクセスで運転免許証画像などが約160万件分流出した。本人確認書類画像の流出では国内最大規模だ。なりすましに悪用され、勝手にクレジットカードを発行される危険性がある。パーク24が不正アクセスを検知したのは25日午前9時10分ごろだ。「タイムズカ... — はてなブックマーク テクノロジー / score: 90 (大規模な個人情報流出とセキュリティ対策)</description>
 </item>
 <item>
 <title>[90] AppleがiOS26.7.1をリリース！悪用された深刻なセキュリティ脆弱性を修正</title>
@@ -101,14 +93,6 @@
 <pubDate>Wed, 30 Sep 2026 04:58:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>OpenAIは2026年9月29日、開発者向けイベント「OpenAI DevDay 2026」で、ChatGPT、Codex、AIモデルなどに関する20件超の発表を行った。 — gihyo.jp / score: 90 (主要AIプラットフォームの大型新機能発表)</description>
-</item>
-<item>
-<title>[90] 「中国のGLM-5.3はClaude Mythos Preview級のサイバー攻撃能力を持つ一方で安全対策が不十分」とAnthropicが警告</title>
-<link>https://gigazine.net/news/20260930-anthropic-warned-about-glm-5-3-risk/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260930-anthropic-warned-about-glm-5-3-risk/</guid>
-<pubDate>Wed, 30 Sep 2026 04:05:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>中国のAI企業Z.aiが開発したオープンウェイトAIモデル「GLM-5.3」について、Anthropicは、同社の「Claude Mythos Preview」に近い水準でソフトウェアの脆弱(ぜいじゃく)性を発見し、攻撃コードを最初から最後まで構築する能力を持つ一方、悪用を防ぐ安全対策を容易に回避できるとの評価結果を公表しました。Anthropicは、高度なサイバー攻撃能力を持つモデルが実効性のある制限なしに広く入手可能になったことに警戒を示しています。 続きを読む... — GIGAZINE / score: 90 (高度なサイバー攻撃能力を持つAIモデルへの警告)</description>
 </item>
 <item>
 <title>[90] DevDay 2026 Recap</title>
@@ -151,12 +135,28 @@
 <description>Next.js 16.3.6 and 15.5.26 are planned for a critical out-of-band security update on September 22, 2026. — Next.js Blog / score: 90 (重要度の高いフレームワークのセキュリティ更新)</description>
 </item>
 <item>
+<title>[85] Gemini、ついに覚醒か　グーグル「Gemini 4 Argon」AstraやOpus 5.5超えるベンチマークも</title>
+<link>https://ascii.jp/elem/000/004/439/4439067/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/439/4439067/?rss</guid>
+<pubDate>Thu, 01 Oct 2026 04:45:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>Googleは10月1日、最新AIモデル「Gemini 4 Argon」を発表した。長時間の推論やコーディング、知識労働、サイバーセキュリティなどを強化したモデル。 — ASCII.jp / score: 85 (Googleの最新フラッグシップAIモデル発表)</description>
+</item>
+<item>
 <title>[85] Microsoft、「Windows 11 2026 Update」を提供開始</title>
 <link>https://codezine.jp/article/detail/29869</link>
 <guid isPermaLink="true">https://codezine.jp/article/detail/29869</guid>
 <pubDate>Thu, 01 Oct 2026 04:00:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 85 (Windows 11のメジャーアップデート提供開始)</description>
+</item>
+<item>
+<title>[85] 「能動的サイバー防御」きょう開始　警察・自衛隊などが攻撃元サーバを無害化　高市首相も狙いを説明</title>
+<link>https://www.itmedia.co.jp/news/article/2610/01/2000001918/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/01/2000001918/</guid>
+<pubDate>Thu, 01 Oct 2026 03:38:19 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>政府は10月1日、「サイバー対処能力強化法」と同整備法の一部施行に伴い、重大なサイバー攻撃を未然に防ぐ「能動的サイバー防御」の運用を始めた。国や基幹インフラへの攻撃を確認した場合、警察や自衛隊がネットワークを介して発信元のサーバにアクセスし、不正プログラムの消去や、攻撃者がサーバを使えなくする設定変... — はてなブックマーク テクノロジー / score: 85 (能動的サイバー防御の運用開始という重要な国策ニュース)</description>
 </item>
 <item>
 <title>[85] Python 3.10.22, 3.11.17, 3.12.15, 3.13.16 and 3.14.8 are now available!</title>
@@ -223,14 +223,6 @@
 <description>Today is the 20 year anniversary of Sam Altman’s first startup , and fittingly OpenAI the consumer AI company is so back (as is OpenAI the AI Cloud and OpenAI the Enterprise and Coding Definitely Not Anthropic Hyperscaler), with Dots — their voice-enabled answer to Instinct and Muse, ChatGPT Spaces — with Dots their answer to Notion and the office productivity suite, GPT 6.1 Sol (no Astra! alas) — their answer to Opus 5.5 with a new ultrafast mode running on unspecified silicon , alongside a wea — Latent Space / score: 85 (OpenAIの大型発表と新API公開は業界全体に大きな影響を与えるため)</description>
 </item>
 <item>
-<title>[85] IBMの量子コンピュータがスーパーコンピュータで100年かかる計算を19秒で完了</title>
-<link>https://gigazine.net/news/20260930-ibms-quantum-computer/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260930-ibms-quantum-computer/</guid>
-<pubDate>Wed, 30 Sep 2026 04:35:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>IBMの量子プロセッサー「Nighthawk r2」が、量子優位性の初期実証に向けた代表的なベンチマークにおいて、わずか19秒で100万個のサンプルを生成したことをアメリカの理論凝縮系物理学者が報告しました。これは、スーパーコンピュータでも約100年かかると推定される作業量とのことです。 続きを読む... — GIGAZINE / score: 85 (量子コンピュータによる量子優位性の実証)</description>
-</item>
-<item>
 <title>[85] WindowsでLinuxコンテナの作成や実行を可能にする「WSL Containers」正式リリース。コマンドラインとAPIから利用可能</title>
 <link>https://www.publickey1.jp/blog/26/windowslinuxwsl_containersapi.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/windowslinuxwsl_containersapi.html</guid>
@@ -245,14 +237,6 @@
 <pubDate>Wed, 30 Sep 2026 02:03:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>Mozillaは9月29日（米国時間）、デスクトップ向け「Firefox」の最新版v157.0をリリースチャネルで公開した。「Firefox 156」に続くメジャーバージョンアップで、コードネーム「Project Nova」と呼ばれていたビジュアル刷新が目玉となっている。 — 窓の杜 / score: 85 (主要ブラウザの大規模アップデートと脆弱性修正)</description>
-</item>
-<item>
-<title>[85] Microsoft、｢Windows 11 2026 Update（バージョン26H2）｣の一般提供を開始</title>
-<link>https://taisy0.com/2026/09/30/228146.html</link>
-<guid isPermaLink="true">https://taisy0.com/2026/09/30/228146.html</guid>
-<pubDate>Tue, 29 Sep 2026 22:17:52 +0000</pubDate>
-<category>気になる、記になる…</category>
-<description>本日、Microsoftが、「Windows 11」向けの2026年の大型アップデート「Windows 11 2026 Update（バージョン26H2）」の一般提供を開始しました。 「Windows 11 2026 U […] — 気になる、記になる… / score: 85 (Windows 11大型アップデートの一般提供)</description>
 </item>
 <item>
 <title>[85] 「GPT-6.1 Sol」が登場 ～「GPT-6 Astra」に迫る知能を5分の1の料金で／「Astra Ultrafast」も提供開始、月額500米ドルの新「Pro」ティアも</title>
@@ -623,20 +607,36 @@
 <description>GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models. — OpenAI News / score: 80 (最新GPTモデルの性能向上とコスト削減)</description>
 </item>
 <item>
+<title>[75] AMD、組み込み開発向けエージェンティックAIアシスタント「AMD Ross」を発表</title>
+<link>https://ascii.jp/elem/000/004/439/4439152/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/439/4439152/?rss</guid>
+<pubDate>Thu, 01 Oct 2026 05:47:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>AMDは2026年9月30日（米国太平洋時間）、組込みシステム開発の全ライフサイクルを支援するエージェンティック（自律型）AIアシスタント「AMD Ross」を発表した。 — ASCII.jp / score: 75 (AMDの組込み開発向けエージェンティックAI発表)</description>
+</item>
+<item>
+<title>[75] Slack、不正ワークスペース招待によるフィッシング増加を確認</title>
+<link>https://codezine.jp/article/detail/29870</link>
+<guid isPermaLink="true">https://codezine.jp/article/detail/29870</guid>
+<pubDate>Thu, 01 Oct 2026 05:30:00 +0000</pubDate>
+<category>CodeZine</category>
+<description> — CodeZine / score: 75 (Slackを狙った不正招待によるフィッシング増加の注意喚起)</description>
+</item>
+<item>
+<title>[75] Reddit、RSSフィードを11月13日に終了　公開APIも2027年3月に閉鎖へ</title>
+<link>https://www.itmedia.co.jp/news/article/2610/01/2000001919/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/01/2000001919/</guid>
+<pubDate>Thu, 01 Oct 2026 03:38:04 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>米Redditは9月30日（現地時間）、RSSフィードのサポートを11月13日に終了すると発表した。また、従来の公開データAPIについても2027年3月までにアクセスを終了し、これを使うアプリやボットを開発者プラットフォーム「Developer Platform」に移行させる方針を示した。いずれも8月に発表したインフラ刷新計画の一環で、ス... — はてなブックマーク テクノロジー / score: 75 (RedditのRSS終了とAPI閉鎖による開発者への大きな影響)</description>
+</item>
+<item>
 <title>[75] Google、Gemini 4 Argonを発表、サイバー防御向けに先行提供</title>
 <link>https://gihyo.jp/article/2026/10/gemini-4-argon?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/10/gemini-4-argon?utm_source=feed</guid>
 <pubDate>Thu, 01 Oct 2026 03:00:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Googleは2026年9月30日、AIモデル「Gemini 4 Argon」を発表した。 — gihyo.jp / score: 75 (Googleによるサイバー防御向け新AIモデル発表)</description>
-</item>
-<item>
-<title>[75] Apple PayのPASMO、チャージや定期券機能に障害　現金チャージは可能</title>
-<link>https://ascii.jp/elem/000/004/438/4438882/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/438/4438882/?rss</guid>
-<pubDate>Thu, 01 Oct 2026 01:40:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>交通系ICカード「PASMO」のiPhone／Apple Watch向けサービス「Apple PayのPASMO」で10月1日7時37分頃、クレジットカード等によるチャージや定期券の購入・払い戻し等ができなくなる障害が発生。同日10時20分現在も継続している。 — ASCII.jp / score: 75 (主要決済サービスのシステム障害)</description>
 </item>
 <item>
 <title>[75] MicrosoftのナディラCEOは言いました。「Copilot、刷新します」</title>
@@ -695,14 +695,6 @@
 <description> — Yahoo!ニュース IT / score: 75 (企業における個人情報漏えい事案)</description>
 </item>
 <item>
-<title>[75] 火事の心配なく30年持つ「水系電池」がいよいよ量産に</title>
-<link>https://www.gizmodo.jp/article/water-battery-30-years-enervenue/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/water-battery-30-years-enervenue/</guid>
-<pubDate>Wed, 30 Sep 2026 09:45:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>水で、電気をためる。……と聞くと、ちょっと怪しい匂いがしますが、だいじょうぶそう。アメリカの電池スタートアップ・EnerVenueが中国・常州市で「水系電池」の量産ラインを動かし始めたそうです。火事にならず、3万回の充放電に耐えるとうたう蓄… — ギズモード・ジャパン / score: 75 (新型バッテリーの量産化に関する技術ニュース)</description>
-</item>
-<item>
 <title>[75] ベンチマークでJev超えな意思決定モデル「d1」が登場</title>
 <link>https://gigazine.net/news/20260930-d1-decision-model-liquid-ai/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20260930-d1-decision-model-liquid-ai/</guid>
@@ -717,14 +709,6 @@
 <pubDate>Wed, 30 Sep 2026 07:30:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 75 (耐量子暗号対応の認証局設立)</description>
-</item>
-<item>
-<title>[75] トランプ大統領とGoogle・Anthropic・Meta・OpenAI・SpaceXAI・NVIDIAがAIの安全管理を目指す「ホワイトハウス・超知能協定」に署名</title>
-<link>https://gigazine.net/news/20260930-white-house-super-intelligence/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20260930-white-house-super-intelligence/</guid>
-<pubDate>Wed, 30 Sep 2026 03:58:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>日本時間の2026年9月30日にホワイトハウスでAI業界のリーダーたちを集めた会合が実施され、ドナルド・トランプ大統領とGoogle・Anthropic・Meta・OpenAI・SpaceXAI・NVIDIAの代表が「White House Accord on Super Intelligence(ホワイトハウス・超知能協定)」に署名しました。 続きを読む... — GIGAZINE / score: 75 (AI安全管理に関するホワイトハウスの協定署名)</description>
 </item>
 <item>
 <title>[75] GitHub Copilotで「Claude Sonnet 5.5」が一般提供開始</title>
@@ -767,14 +751,6 @@
 <description>はじめに kube-proxy に nftables モードが入って、GA してからもうしばらく経ちます。ノード数・Pod数が多いクラスタでは iptables のルール同期が遅れるという長年の悩みがあり、それを直すための変更なので、影響の大きさが気になって調べてみました... — Qiita 人気記事 / score: 75 (Kubernetesのkube-proxyにおけるnftablesモードの影響解説です。)</description>
 </item>
 <item>
-<title>[75] タイムズカーの不正アクセスで免許証画像が流出した人へ：考えられる被害と今日からできる対策</title>
-<link>https://zenn.dev/gzer0/articles/timescar-leak-countermeasures</link>
-<guid isPermaLink="true">https://zenn.dev/gzer0/articles/timescar-leak-countermeasures</guid>
-<pubDate>Tue, 29 Sep 2026 16:50:08 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>2026年9月25日、タイムズカーの Web システムが不正アクセスを受け、利用者の個人情報が流出したと発表されました。対象は約660万件で、そのうち約160万件では、運転免許証の画像など本人確認書類の画像も流出しました。 この記事では、公式発表で分かっている範囲をもとに、流出した情報で起こりうる被害と、利用者が自分でできる対策をまとめます。 ! 2026年9月30日時点の公式発表（9月29日の第3報まで）にもとづく内容です。原因はまだ調査中です。本人確認書類が流出した会員には9月29日からメールで個別の案内が始まっていて、2週間程度で詳細が報告される予定です。続報が出たら、この記事も更... — Zenn トレンド / score: 75 (個人情報流出時の実用的な対策解説)</description>
-</item>
-<item>
 <title>[75] Google Cloud、AIエージェントからの大量アクセスをPostgreSQLのプライマリDBから切り離せる「PostgreSQL for agents in AlloyDB」発表</title>
 <link>https://www.publickey1.jp/blog/26/google_cloudaipostgresqldbpostgresql_for_agents_in_alloydb.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/google_cloudaipostgresqldbpostgresql_for_agents_in_alloydb.html</guid>
@@ -805,6 +781,30 @@
 <pubDate>Tue, 29 Sep 2026 04:43:50 +0000</pubDate>
 <category>Zenn トレンド</category>
 <description>はじめに Cloudflare から次世代の統合 CLI ツール cf（現在 v1.0.0-beta）が登場しました。 従来の wrangler（wrangler.json / wrangler.jsonc / wrangler.toml）から、TypeScript ベースの型安全な設定ファイル cloudflare.config.ts への移行が推奨されています。 公式には cf migrate という移行コマンドが用意されていますが、実行するだけでそのまま本番稼働できるわけではなく、いくつかの設定調整や実運用上のハマりどころが存在します。 この記事では、React Router（... — Zenn トレンド / score: 75 (Cloudflareの次世代CLIの登場と移行推奨)</description>
+</item>
+<item>
+<title>[75] Introducing dots</title>
+<link>https://openai.com/index/introducing-dots</link>
+<guid isPermaLink="true">https://openai.com/index/introducing-dots</guid>
+<pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward. — OpenAI News / score: 75 (新しいAIエージェント機能の発表で注目度が高い。)</description>
+</item>
+<item>
+<title>[75] How we will do better for Australia</title>
+<link>https://openai.com/index/how-we-will-do-better-for-australia</link>
+<guid isPermaLink="true">https://openai.com/index/how-we-will-do-better-for-australia</guid>
+<pubDate>Mon, 28 Sep 2026 19:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences. — OpenAI News / score: 75 (OpenAIの豪州でのサイバー防衛支援と謝罪。)</description>
+</item>
+<item>
+<title>[75] Grok 4.7 is now available on Amazon Bedrock</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-grok-4-7/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-grok-4-7/</guid>
+<pubDate>Mon, 28 Sep 2026 18:29:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon Bedrock now supports SpaceXAI Grok 4.7, a frontier model built for coding, agentic tasks, and knowledge work, with US Geo and Global cross-Region inference. Grok 4.7 builds on Grok 4.6 with better mixed-document handling, more dependable repo-scale coding with planning and error recovery, and enhanced browser-use agents for form fills and portal navigation. Get started with Grok 4.7 in the Amazon Bedrock console or programmatically through supported Amazon Bedrock APIs. For information ab — AWS What's New / score: 75 (Bedrockへの新AIモデル追加)</description>
 </item>
 </channel>
 </rss>
