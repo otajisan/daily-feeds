@@ -4,13 +4,21 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 01 Oct 2026 18:13:25 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 20:10:48 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Announcing AWS Well-Architected Agent, an AI-powered intelligence to optimize your cloud environment (preview)</title>
+<link>https://aws.amazon.com/blogs/aws/announcing-aws-well-architected-agent-an-ai-powered-intelligence-to-optimize-your-cloud-environment-preview/</link>
+<guid isPermaLink="true">https://aws.amazon.com/blogs/aws/announcing-aws-well-architected-agent-an-ai-powered-intelligence-to-optimize-your-cloud-environment-preview/</guid>
+<pubDate>Thu, 01 Oct 2026 20:04:04 +0000</pubDate>
+<category>AWS News Blog</category>
+<description>Introducing the public preview of AWS Well-Architected Agent, an AI-powered service that analyzes your AWS environment to deliver targeted, contextual recommendations for improving your applications' cost, security, performance, and resilience—with ready-to-implement fixes aligned to your business goals. — AWS News Blog / score: 65 (AIを活用したAWS環境の最適化エージェント発表。)</description>
+</item>
 <item>
 <title>Google Cloud、ローカルマシンにインストールできる大規模分散型マルチモデルDB「Spanner Omni」正式版リリースを発表</title>
 <link>https://www.publickey1.jp/blog/26/google_clouddbspanner_omni.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/google_clouddbspanner_omni.html</guid>
-<pubDate>Thu, 01 Oct 2026 18:12:59 +0000</pubDate>
+<pubDate>Thu, 01 Oct 2026 18:28:43 +0000</pubDate>
 <category>Publickey</category>
 <description>Google Cloudは、大規模分散データベースとしてリレーショナルモデルだけでなくグラフ型やキーバリュー型、ベクトル検索、テキスト検索などのマルチモデルに対応したデータベースソフトウェア「Spanner Omni」の正式版リリースを発表... — Publickey / score: 85 (Spanner Omni正式版リリースは重要)</description>
 </item>
@@ -21,6 +29,22 @@
 <pubDate>Thu, 01 Oct 2026 17:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress. — OpenAI News / score: 50 (高度なAIと定型業務に関するエッセイ的考察)</description>
+</item>
+<item>
+<title>Amazon DynamoDB Accelerator (DAX) is now available in additional Regions</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-dynamodb-accelerator/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-dynamodb-accelerator/</guid>
+<pubDate>Thu, 01 Oct 2026 16:44:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Today, AWS announces the availability of Amazon DynamoDB Accelerator (DAX) in 17 additional AWS Regions: Asia Pacific (Hong Kong), Asia Pacific (Hyderabad), Asia Pacific (Jakarta), Asia Pacific (Malaysia), Asia Pacific (Melbourne), Asia Pacific (New Zealand), Asia Pacific (Osaka), Asia Pacific (Seoul), Asia Pacific (Taipei), Asia Pacific (Thailand), Canada West (Calgary), Europe (Milan), Europe (Zurich), Israel (Tel Aviv), Mexico (Central), AWS GovCloud (US-East), and AWS GovCloud (US-West). DAX — AWS What's New / score: 50 (AWSサービスの対応リージョン拡大のニュース。)</description>
+</item>
+<item>
+<title>Amazon GuardDuty now supports centralized management using AWS Organizations declarative policies</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/guardduty-org-enablement-policies/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/guardduty-org-enablement-policies/</guid>
+<pubDate>Thu, 01 Oct 2026 16:01:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon GuardDuty now supports AWS Organizations declarative policies, enabling you to centrally enable GuardDuty threat detection across every account and Region in your AWS organization. Using an organization policy, you can now apply a centrally managed GuardDuty enablement configuration. The configuration applies to existing accounts and is automatically maintained as new accounts join your organization. Enabling GuardDuty across all relevant accounts and Regions helps ensure comprehensive th — AWS What's New / score: 60 (AWS組織全体でのセキュリティ一元管理機能の追加。)</description>
 </item>
 <item>
 <title>How Albertsons Companies is reimagining retail from the inside out</title>
@@ -127,6 +151,14 @@
 <description>Appleが現地時間2026年10月13日に発表すると噂のスマートホームハブについて、セットアップ画面とされる画像を、Appleの未発表製品などに関する情報を発信しているpdfu氏（＠itspdfu）がX（旧Twitte […] — iPhone Mania / score: 35 (スマートホームハブの発表リーク情報)</description>
 </item>
 <item>
+<title>AIを業務改善につなげるための5ステップ ― サービスデザインを活用した要件定義 - Qiita</title>
+<link>https://qiita.com/TamakiSeki/items/ac268db56f92b991970b</link>
+<guid isPermaLink="true">https://qiita.com/TamakiSeki/items/ac268db56f92b991970b</guid>
+<pubDate>Thu, 01 Oct 2026 14:10:57 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>はじめに 生成AIやAIエージェントを業務に活用しようとすると、「どの業務に適用するか」「人とAIの役割をどう分けるか」で迷うことがあります。 文章作成や要約など個人単位の作業にはAIを導入しやすい一方、AIエージェントを作ること自体が目的になると、個別タスクの効率化にとどまり、業務全体の改善につながらない... — はてなブックマーク テクノロジー / score: 45 (AI導入の一般的な解説記事であり汎用的。)</description>
+</item>
+<item>
 <title>ヒト型ロボの廃棄方法の答え。『ターミネーター』方式しかない</title>
 <link>https://www.gizmodo.jp/article/2610-humanoid-robot-disposal-terminator-method/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/2610-humanoid-robot-disposal-terminator-method/</guid>
@@ -181,6 +213,14 @@
 <pubDate>Thu, 01 Oct 2026 13:09:44 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>AIエージェントでオープンモデルをローカル実行する際に、使用中のハードウェアに合わせて処理を自動調整するオープンソースの推論エンジン「Magnitude」が公開されています。Magnitudeはモデルを実行するための処理を端末上でコンパイルして調整する仕組みを備えており、特定の条件では「llama.cpp」と比べて最大約2倍... — はてなブックマーク テクノロジー / score: 70 (AI推論エンジンのオープンソース新規公開)</description>
+</item>
+<item>
+<title>Amazon S3 Object Lock variable retention with event holds is now available in AWS GovCloud (US) Regions</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/s3-object-lock-variable-retention-event-holds-aws-govcloud/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/s3-object-lock-variable-retention-event-holds-aws-govcloud/</guid>
+<pubDate>Thu, 01 Oct 2026 13:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon S3 Object Lock support for variable retention with event holds is now available in AWS GovCloud (US-East) and AWS GovCloud (US-West). Amazon S3 Object Lock variable retention allows you to apply write-once-read-many (WORM) protection to objects whose required retention period starts with a future event, such as a contract closing or an audit completing. You place an event hold with a retention duration on an object and S3 protects the object while the hold is in place. When you release th — AWS What's New / score: 40 (特定リージョンにおけるS3の小規模な機能追加。)</description>
 </item>
 <item>
 <title>Introducing the Server Side Cloud Swift SDK</title>
@@ -663,6 +703,14 @@
 <description>NOVABLADE PROは、高速なワイヤレス接続にも対応したレバーレスのアーケードコントローラーです！ — ASCII.jp / score: 35 (新型ゲーミングコントローラーの紹介)</description>
 </item>
 <item>
+<title>「Oracle JDK 21」は無償の「NFTC」ライセンスの対象外に、10月「CPU」以降で／「Oracle JDK」を無償で商用運用したいなら「Oracle JDK 25」への移行を</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2144856.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2144856.html</guid>
+<pubDate>Thu, 01 Oct 2026 08:38:40 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>「Oracle JDK 21」は無償の「NFTC」ライセンスの対象外に、10月「CPU」以降で／「Oracle JDK」を無償で商用運用したいなら「Oracle JDK 25」への移行を — はてなブックマーク テクノロジー / score: 80 (Oracle JDKのライセンス変更と注意点)</description>
+</item>
+<item>
 <title>HotCell README: 信頼できない入力の処理を別コンテナに隔離するgem（翻訳）｜TechRacho by BPS株式会社</title>
 <link>https://techracho.bpsinc.jp/hachi8833/2026_10_01/160077</link>
 <guid isPermaLink="true">https://techracho.bpsinc.jp/hachi8833/2026_10_01/160077</guid>
@@ -687,28 +735,12 @@
 <description>ニラックスブッフェは「無限パンケーキ＆ホイップコース」を11月3日まで延長します。 — ASCII.jp / score: 5 (飲食店のイベント延長情報)</description>
 </item>
 <item>
-<title>「Oracle JDK 21」は無償の「NFTC」ライセンスの対象外に、10月「CPU」以降で／「Oracle JDK」を無償で商用運用したいなら「Oracle JDK 25」への移行を</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2144856.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2144856.html</guid>
-<pubDate>Thu, 01 Oct 2026 08:31:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Oracleが提供している「Oracle JDK 21」のライセンスが、10月より変更される予定。10月20日に予定されているセキュリティアップデート「Critical Patch Update」（CPU）以降、「Oracle JDK 21」のアップデートは無償の「Oracle No-Fee Terms and Conditions」（NFTC）ではなく、「Java SE OTN」ライセンスで提供される。 — 窓の杜 / score: 80 (Oracle JDKのライセンス変更と注意点)</description>
-</item>
-<item>
 <title>GoogleがGeminiアプリとWorkspaceに「スキル」を導入、Gemsは廃止へ</title>
 <link>https://codezine.jp/article/detail/29881</link>
 <guid isPermaLink="true">https://codezine.jp/article/detail/29881</guid>
 <pubDate>Thu, 01 Oct 2026 08:30:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 75 (GoogleのAI製品群の大きな仕様変更)</description>
-</item>
-<item>
-<title>Google Storeで「Pixel 10a」が1万2900円値上げ　9万2800円から</title>
-<link>https://www.itmedia.co.jp/mobile/articles/2610/01/news081.html</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/mobile/articles/2610/01/news081.html</guid>
-<pubDate>Thu, 01 Oct 2026 08:22:29 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Googleの直販ストア「Google Store」において、10月1日付でAndroidスマートフォン「Pixel 10a」が値上げされていることが判明した。値上げ幅はストレージ容量を問わず1万2900円で、改訂前後の価格は以下の通りとなる。 128GBモデル：7万9900円→9万2800円 256GBモデル：9万4900円→10万7800円 なお、10月1日時点で日本限定... — はてなブックマーク テクノロジー / score: 30 (スマートフォン端末の値上げに関するニュース)</description>
 </item>
 <item>
 <title>サイバー攻撃より怖い？　ドラッグ＆ドロップの操作ミス、原始的な「ファイルを選択」でヒューマンエラーを防げるか</title>
@@ -735,20 +767,20 @@
 <description>個人の債務情報を管理する日本信用情報機構（JICC）は1日、運転免許証などを紛失した際に不正利用を防ぐための届け出で、スマートフォンアプリからの申し込みを一時休止すると発表した。カーシェアリングサービス「タイムズカー」のシステムへの不正アクセスで免許証画像が約160万件流出し、申し込みが殺到した。当面は... — はてなブックマーク テクノロジー / score: 80 (大規模情報流出に伴う社会的影響と対応)</description>
 </item>
 <item>
-<title>DeepSeekがHuaweiと提携しAscend向け「TileLang」など6つのAI開発ツールをオープンソースで公開、NVIDIAのCUDA依存低減を狙う</title>
-<link>https://gigazine.net/news/20261001-deepseek-huawei-ascend/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261001-deepseek-huawei-ascend/</guid>
-<pubDate>Thu, 01 Oct 2026 08:08:41 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>中国のAI企業であるDeepSeekがHuaweiと協力し、Huawei製AIチップ「Ascend」向けのプログラミング基盤を公開しました。公開されたソフトウェアには高性能な演算プログラムを開発しやすくする「TileLang」や行列計算ライブラリ「DeepGEMM Ascend」などが含まれており、いずれもオープンソースで公開されています。DeepSeek... — はてなブックマーク テクノロジー / score: 75 (DeepSeekとHuaweiのオープンソースAIツール公開)</description>
-</item>
-<item>
 <title>マスカットのフルーティーな甘みとレモンの甘酸っぱさが絶妙にマッチした「C.C.レモン マスカットスカッシュ」試飲レビュー</title>
 <link>https://gigazine.net/news/20261001-cc-lemon-muscat/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261001-cc-lemon-muscat/</guid>
 <pubDate>Thu, 01 Oct 2026 08:00:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>レモンの甘酸っぱさでおなじみのC.C. レモンにマスカットが加わった「C.C.レモン マスカットスカッシュ」が、2026年9月29日(火)からの期間限定で登場しています。酸っぱさが際立つレモンに甘いマスカットの組み合わせがどうなっているか気になったので、実際に飲んでみました。 続きを読む... — GIGAZINE / score: 10 (飲料商品の試飲レビュー記事)</description>
+</item>
+<item>
+<title>AWS Glue Data Catalog now supports table optimization, statistics, and crawlers for Apache Iceberg V3</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/aws-glue-iceberg-v3-optimization/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/aws-glue-iceberg-v3-optimization/</guid>
+<pubDate>Thu, 01 Oct 2026 08:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS Glue Data Catalog now supports table optimization, statistics, and crawlers for Apache Iceberg Version 3 (V3) tables. With these new capabilities, you can automatically maintain V3 tables, optimize them for query performance, and discover them in Amazon S3. With table optimization, you can compact V3 tables using binpack, sort, or z-order strategies to improve query performance, and remove expired snapshots and orphan files to reduce storage costs. These optimizations support V3 data types,  — AWS What's New / score: 55 (Apache Iceberg V3のサポート拡大。)</description>
 </item>
 <item>
 <title>Serverless Storage on Amazon EMR Serverless now supports terabyte-scale shuffle</title>
@@ -759,52 +791,20 @@
 <description>Amazon EMR Serverless now offers enhanced serverless storage capabilities with support for up to 1TB shuffle operations, raising the previous 200 GB per-job limit. Amazon EMR Serverless makes it simple for data engineers and data scientists to run open-source big data analytics frameworks without configuring, managing, and scaling clusters or servers. This enhancement enables enterprise customers to run production-scale Apache Spark workloads that require processing large volumes of shuffle data — AWS What's New / score: 65 (AWS EMR Serverlessの機能拡張と性能向上)</description>
 </item>
 <item>
+<title>Announcing DNS analytics and insights for Route 53 Global Resolver and DNS Firewall</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/route-53-dns-analytics-insights/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/route-53-dns-analytics-insights/</guid>
+<pubDate>Thu, 01 Oct 2026 08:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Route 53 Global Resolver and DNS Firewall now provide DNS analytics and insights through native Amazon CloudWatch integration. These new capabilities enable network administrators and security teams to gain full observability into DNS query patterns, monitor DNS Firewall rule effectiveness, detect anomalous activity, and optimize DNS infrastructure performance. DNS analytics and insights is available in all AWS Regions where Amazon CloudWatch, Route 53 Global Resolver, and DNS Firewall are avail — AWS What's New / score: 60 (Route 53のセキュリティと分析機能の強化。)</description>
+</item>
+<item>
 <title>そのノートPCに、ワイヤレスでグラボを足す。どんな超技術ですか</title>
 <link>https://www.gizmodo.jp/article/2610-wici-one-wireless-rtx-5060-ti-egpu/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/2610-wici-one-wireless-rtx-5060-ti-egpu/</guid>
 <pubDate>Thu, 01 Oct 2026 08:00:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>Wi-Fi 7でRTX 5060 Tiをワイヤレス接続するeGPU「WiCi One」の仕組みと魅力を解説。ノートPCの可能性を広げる新技術の詳細は？ — ギズモード・ジャパン / score: 65 (Wi-Fi 7を活用した革新的なeGPU技術)</description>
-</item>
-<item>
-<title>優先順位の把握や細かな絞り込みが可能に、ユニーリサーチが「アンケートPro」を提供開始</title>
-<link>https://codezine.jp/article/detail/29877</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/29877</guid>
-<pubDate>Thu, 01 Oct 2026 07:45:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 30 (SaaSの新機能リリース告知)</description>
-</item>
-<item>
-<title>無料のメーラー「Thunderbird」v157.0がリリース ～企業向けポリシーを拡充／76件の脆弱性を修正</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2144863.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2144863.html</guid>
-<pubDate>Thu, 01 Oct 2026 07:38:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>オープンソースのメールソフト「Thunderbird」の最新版、v157.0が9月29日にリリースされた。本アップデートでは、主に企業向けポリシーの拡充が行われている。 — 窓の杜 / score: 80 (Thunderbirdの多数の脆弱性修正アップデート)</description>
-</item>
-<item>
-<title>従業員の解雇・懲戒処分をAIだけで決定することを禁止する「ロボ上司禁止法」にカリフォルニア州のニューサム知事が署名</title>
-<link>https://gigazine.net/news/20261001-california-no-robo-bosses-act/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261001-california-no-robo-bosses-act/</guid>
-<pubDate>Thu, 01 Oct 2026 07:35:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>カリフォルニア州のギャビン・ニューサム知事が、AIによる出力だけで従業員の解雇・懲戒処分を決定することを禁止する「ロボ上司禁止法(No Robo Bosses Act)」と呼ばれる法案SB-947号に署名したことを発表しました。この種の法律はアメリカ国内で初のものです。 続きを読む... — GIGAZINE / score: 50 (AI解雇を禁止する州法の署名ニュース)</description>
-</item>
-<item>
-<title>新型iPad miniの進化点10項目を再確認〜OLEDや防水に対応か？</title>
-<link>https://iphone-mania.jp/ipadmini-606858/</link>
-<guid isPermaLink="true">https://iphone-mania.jp/ipadmini-606858/</guid>
-<pubDate>Thu, 01 Oct 2026 07:35:00 +0000</pubDate>
-<category>iPhone Mania</category>
-<description>2026年10月に発表されると噂の新型iPad miniについて、期待される10の特徴をMacRumorsがまとめています。 まもなく発表される可能性がある新型iPad miniについて、8.4インチの有機EL（OLED […] — iPhone Mania / score: 25 (新型iPad miniの噂のまとめ記事)</description>
-</item>
-<item>
-<title>六本木に拠点を置くDMM.comやSmartHRなど5社による共催イベント「六本木PdM井戸端会」が初開催</title>
-<link>https://codezine.jp/article/detail/29876</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/29876</guid>
-<pubDate>Thu, 01 Oct 2026 07:30:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 20 (地域コミュニティイベントの初開催の告知)</description>
 </item>
 </channel>
 </rss>

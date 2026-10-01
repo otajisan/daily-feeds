@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 01 Oct 2026 18:13:25 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 20:10:48 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] September 2026 Security Release</title>
@@ -138,7 +138,7 @@
 <title>[85] Google Cloud、ローカルマシンにインストールできる大規模分散型マルチモデルDB「Spanner Omni」正式版リリースを発表</title>
 <link>https://www.publickey1.jp/blog/26/google_clouddbspanner_omni.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/google_clouddbspanner_omni.html</guid>
-<pubDate>Thu, 01 Oct 2026 18:12:59 +0000</pubDate>
+<pubDate>Thu, 01 Oct 2026 18:28:43 +0000</pubDate>
 <category>Publickey</category>
 <description>Google Cloudは、大規模分散データベースとしてリレーショナルモデルだけでなくグラフ型やキーバリュー型、ベクトル検索、テキスト検索などのマルチモデルに対応したデータベースソフトウェア「Spanner Omni」の正式版リリースを発表... — Publickey / score: 85 (Spanner Omni正式版リリースは重要)</description>
 </item>
@@ -434,9 +434,9 @@
 <title>[80] 「Oracle JDK 21」は無償の「NFTC」ライセンスの対象外に、10月「CPU」以降で／「Oracle JDK」を無償で商用運用したいなら「Oracle JDK 25」への移行を</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2144856.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2144856.html</guid>
-<pubDate>Thu, 01 Oct 2026 08:31:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Oracleが提供している「Oracle JDK 21」のライセンスが、10月より変更される予定。10月20日に予定されているセキュリティアップデート「Critical Patch Update」（CPU）以降、「Oracle JDK 21」のアップデートは無償の「Oracle No-Fee Terms and Conditions」（NFTC）ではなく、「Java SE OTN」ライセンスで提供される。 — 窓の杜 / score: 80 (Oracle JDKのライセンス変更と注意点)</description>
+<pubDate>Thu, 01 Oct 2026 08:38:40 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>「Oracle JDK 21」は無償の「NFTC」ライセンスの対象外に、10月「CPU」以降で／「Oracle JDK」を無償で商用運用したいなら「Oracle JDK 25」への移行を — はてなブックマーク テクノロジー / score: 80 (Oracle JDKのライセンス変更と注意点)</description>
 </item>
 <item>
 <title>[80] 免許悪用防止届け一部休止　タイムズカー画像流出で | NEWSjp</title>
@@ -453,14 +453,6 @@
 <pubDate>Thu, 01 Oct 2026 07:38:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>オープンソースのメールソフト「Thunderbird」の最新版、v157.0が9月29日にリリースされた。本アップデートでは、主に企業向けポリシーの拡充が行われている。 — 窓の杜 / score: 80 (Thunderbirdの多数の脆弱性修正アップデート)</description>
-</item>
-<item>
-<title>[80] Intel・NVIDIAのコンパイラを支えた6人の会社EDG、38年分のC++コードをオープンソースに</title>
-<link>https://joho-todai.com/edg-compiler-cpp-open-source/</link>
-<guid isPermaLink="true">https://joho-todai.com/edg-compiler-cpp-open-source/</guid>
-<pubDate>Thu, 01 Oct 2026 05:17:31 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Intel、NVIDIA、Microsoftのコンパイラ製品を裏で支えてきたC++フロントエンドの開発元Edison Design Groupが、会社としての歴史を閉じた。38年分のコードはThe C++ Allianceに移管され、現地時間9月30日にオープンソースとして公開された。 この記事のポイント 何が起きた: C++コンパイラフロントエンド専業のEdison De... — はてなブックマーク テクノロジー / score: 80 (EDGの38年分C++コードOSS化)</description>
 </item>
 <item>
 <title>[80] Googleが「Gemini 4 Argon」を発表、GPT-6 AstraやClaude Fable 5.1を超える性能でGemini 4シリーズの先駆けモデル</title>
@@ -650,9 +642,9 @@
 <title>[75] DeepSeekがHuaweiと提携しAscend向け「TileLang」など6つのAI開発ツールをオープンソースで公開、NVIDIAのCUDA依存低減を狙う</title>
 <link>https://gigazine.net/news/20261001-deepseek-huawei-ascend/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261001-deepseek-huawei-ascend/</guid>
-<pubDate>Thu, 01 Oct 2026 08:08:41 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>中国のAI企業であるDeepSeekがHuaweiと協力し、Huawei製AIチップ「Ascend」向けのプログラミング基盤を公開しました。公開されたソフトウェアには高性能な演算プログラムを開発しやすくする「TileLang」や行列計算ライブラリ「DeepGEMM Ascend」などが含まれており、いずれもオープンソースで公開されています。DeepSeek... — はてなブックマーク テクノロジー / score: 75 (DeepSeekとHuaweiのオープンソースAIツール公開)</description>
+<pubDate>Thu, 01 Oct 2026 07:45:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>中国のAI企業であるDeepSeekがHuaweiと協力し、Huawei製AIチップ「Ascend」向けのプログラミング基盤を公開しました。公開されたソフトウェアには高性能な演算プログラムを開発しやすくする「TileLang」や行列計算ライブラリ「DeepGEMM Ascend」などが含まれており、いずれもオープンソースで公開されています。DeepSeekはCUDAより簡潔に記述できるプログラミング環境を提供しながら、ハードウェア性能を引き出すことを目指していると説明しています。 続きを読む... — GIGAZINE / score: 75 (DeepSeekとHuaweiのオープンソースAIツール公開)</description>
 </item>
 <item>
 <title>[75] OpenAI、推論過程を狙った組織的な“蒸留”行為を阻止　「Kimi」開発元の関係者が関与と主張</title>
@@ -805,6 +797,14 @@
 <pubDate>Mon, 28 Sep 2026 15:01:25 +0000</pubDate>
 <category>Publickey</category>
 <description>Amazon Web Services（AWS）は、GPTやClaude、Gemini、Ollamaなど主要なLLMやLLMランタイムを基にした高性能なAIエージェントを簡単に自作できるツール「Strandsハーネス」をオープンソースで公開... — Publickey / score: 75 (主要なLLM対応AIエージェントOSS公開のため)</description>
+</item>
+<item>
+<title>[75] Claude Sonnet 5.5 now available on AWS</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/claude-sonnet-5-5-aws/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/claude-sonnet-5-5-aws/</guid>
+<pubDate>Mon, 28 Sep 2026 15:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS now offers Claude Sonnet 5.5, a smarter and more efficient Sonnet that delivers a clear leap forward on coding and knowledge work with at a lower cost per task for most work at faster speed. Claude Sonnet 5.5 is a smarter, more efficient Sonnet and a step up from Sonnet 5, making it a natural upgrade for teams already building on Sonnet. It's stronger for coding, completing well-scoped tasks as part of a larger coding strategy such as building and fixing features with Claude in the same sess — AWS What's New / score: 75 (AWSでの有力な新AIモデルClaude Sonnet 5.5提供開始)</description>
 </item>
 </channel>
 </rss>
