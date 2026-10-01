@@ -4,15 +4,39 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 01 Oct 2026 16:10:24 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 18:13:25 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Google Cloud、ローカルマシンにインストールできる大規模分散型マルチモデルDB「Spanner Omni」正式版リリースを発表</title>
 <link>https://www.publickey1.jp/blog/26/google_clouddbspanner_omni.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/google_clouddbspanner_omni.html</guid>
-<pubDate>Thu, 01 Oct 2026 16:09:50 +0000</pubDate>
+<pubDate>Thu, 01 Oct 2026 18:12:59 +0000</pubDate>
 <category>Publickey</category>
 <description>Google Cloudは、大規模分散データベースとしてリレーショナルモデルだけでなくグラフ型やキーバリュー型、ベクトル検索、テキスト検索などのマルチモデルに対応したデータベースソフトウェア「Spanner Omni」の正式版リリースを発表... — Publickey / score: 85 (Spanner Omni正式版リリースは重要)</description>
+</item>
+<item>
+<title>The eternal complement</title>
+<link>https://openai.com/index/the-eternal-complement</link>
+<guid isPermaLink="true">https://openai.com/index/the-eternal-complement</guid>
+<pubDate>Thu, 01 Oct 2026 17:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress. — OpenAI News / score: 50 (高度なAIと定型業務に関するエッセイ的考察)</description>
+</item>
+<item>
+<title>How Albertsons Companies is reimagining retail from the inside out</title>
+<link>https://openai.com/index/albertsons-reimagining-retail</link>
+<guid isPermaLink="true">https://openai.com/index/albertsons-reimagining-retail</guid>
+<pubDate>Thu, 01 Oct 2026 16:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers. — OpenAI News / score: 40 (ChatGPT Enterpriseの小売業での導入事例)</description>
+</item>
+<item>
+<title>Guided Vision in Gemini Live: built for accessibility</title>
+<link>https://blog.google/innovation-and-ai/products/gemini-app/guided-vision-gemini-live/</link>
+<guid isPermaLink="true">https://blog.google/innovation-and-ai/products/gemini-app/guided-vision-gemini-live/</guid>
+<pubDate>Thu, 01 Oct 2026 16:00:00 +0000</pubDate>
+<category>Gemini (Google Blog)</category>
+<description>Guided Vision in Gemini Live is built alongside the blind and low-vision community and offers real-time visual assistance. — Gemini (Google Blog) / score: 55 (アクセシビリティ向けのGemini機能アップデート)</description>
 </item>
 <item>
 <title>Enabling Cloud Storage end-to-end checksums for improved data integrity and durability</title>
@@ -29,6 +53,14 @@
 <pubDate>Thu, 01 Oct 2026 16:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>In a data-driven world, PayPal’s ability to deliver timely and actionable insights is central to staying ahead. At PayPal, data powers everything from fraud detection to user experience enhancements. Data is also central to unleashing the potential of agentic solutions and experiences. Over time, though, our analytics environment had become a complex ecosystem of various technologies and solutions assembled on-premise to address growing demands. While this approach supported our needs at the tim — Google Cloud Blog / score: 50 (PayPalのApache Spark活用事例)</description>
+</item>
+<item>
+<title>Introducing Clef: our open-source decision models, and new RL fine-tuning platform</title>
+<link>https://blog.cloudflare.com/clef-decision-models/</link>
+<guid isPermaLink="true">https://blog.cloudflare.com/clef-decision-models/</guid>
+<pubDate>Thu, 01 Oct 2026 15:41:25 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>October 1, 2026Introducing Clef: our open-source decision models, and new RL fine-tuning platform Over the last few weeks, there has been lots of buzz around decision models such as Typesafe AI’s Jev System One model. While classifier models have been around for some time, Jev introduces a new de... — はてなブックマーク テクノロジー / score: 65 (オープンソースの決定モデルとRLファインチューニング)</description>
 </item>
 <item>
 <title>OLEDディスプレイ搭載新型「MacBook Pro」は10月または11月に発売か</title>
@@ -71,6 +103,14 @@
 <description>Appleは現地時間10月13日にスマートホームハブ製品などを発表するとみられていますが、MacRumorsによると、世界各地のApple Storeでは10月8日から開始される新製品の展示準備が進められていることが分か […] — 気になる、記になる… / score: 40 (Appleの新製品発表に関する噂)</description>
 </item>
 <item>
+<title>dotfiles を AI agent のために作り変えた</title>
+<link>https://tellme.tokyo/post/2026/10/01/ai-agent-first-dotfiles/</link>
+<guid isPermaLink="true">https://tellme.tokyo/post/2026/10/01/ai-agent-first-dotfiles/</guid>
+<pubDate>Thu, 01 Oct 2026 14:35:59 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>最近、自分のターミナルでコマンドを打っているのは、ほとんど自分ではなく Claude Code や Codex だった（以下 AI）。試しに数えてみると、直近 gh を叩いた回数は自分が80回で、AI が1,339回だった。 一方で、10年以上いじってきた dotfiles は、人間が快適に使うための設定の塊だ。これが AI にとってはけっこう邪魔... — はてなブックマーク テクノロジー / score: 45 (AI時代のdotfiles最適化という興味深い話題)</description>
+</item>
+<item>
 <title>Appleのスマートホームハブ製品は4色展開に??</title>
 <link>https://taisy0.com/2026/10/01/228258.html</link>
 <guid isPermaLink="true">https://taisy0.com/2026/10/01/228258.html</guid>
@@ -101,6 +141,14 @@
 <pubDate>Thu, 01 Oct 2026 14:00:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>OpenAIではAIエージェントが社内テスト中に誤ってHugging Faceをハッキングしてしまった事例など、複数のインシデントが発生しています。OpenAIのAIモデルが暴走を始める数か月前に、従業員が経営幹部に警告を送っていたものの、経営幹部はその警告を無視していたことが社内メールから明らかになりました。 続きを読む... — GIGAZINE / score: 85 (OpenAIの安全性軽視に関する重大な内部告発)</description>
+</item>
+<item>
+<title>Amazon Corretto 8 September 2026 Patch Updates</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-corretto-8-sept-2026-updates/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-corretto-8-sept-2026-updates/</guid>
+<pubDate>Thu, 01 Oct 2026 14:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>On September 30, 2026, Amazon announced a patch update for the following Amazon Corretto Long-Term Support (LTS) version of OpenJDK: Corretto 8u504 is now available for download . Amazon Corretto is a no-cost, multi-platform, production-ready distribution of OpenJDK. This patch includes the tzdata 2026d updates. Visit Corretto home page to download Corretto 27, Corretto 25, Corretto 21, Corretto 17, Corretto 11, or Corretto 8. You can also get the updates on your Linux system by configuring a Co — AWS What's New / score: 60 (Java 8のセキュリティパッチとLTS更新)</description>
 </item>
 <item>
 <title>悪魔の発明？ 会社トイレのスマホ時間を減らす特許</title>
@@ -135,20 +183,20 @@
 <description>AIエージェントでオープンモデルをローカル実行する際に、使用中のハードウェアに合わせて処理を自動調整するオープンソースの推論エンジン「Magnitude」が公開されています。Magnitudeはモデルを実行するための処理を端末上でコンパイルして調整する仕組みを備えており、特定の条件では「llama.cpp」と比べて最大約2倍... — はてなブックマーク テクノロジー / score: 70 (AI推論エンジンのオープンソース新規公開)</description>
 </item>
 <item>
-<title>Democratizing Managed Lustre with lower cost and frictionless development</title>
-<link>https://cloud.google.com/blog/topics/developers-practitioners/democratizing-managed-lustre-with-lower-cost-and-frictionless-development/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/topics/developers-practitioners/democratizing-managed-lustre-with-lower-cost-and-frictionless-development/</guid>
-<pubDate>Thu, 01 Oct 2026 13:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>This is the first of a two-part series exploring how Google Cloud is bringing the foundational values of a high-performance parallel filesystem–TB/s throughput, sub-ms latency at high client scale, and POSIX support–to a broader set of use cases and users. Historically, due to the cost and special purpose nature of parallel filesystems, colder data had to be stored outside of the filesystem and AI developers have had to maintain separate, slower environments for writing code, compiling libraries — Google Cloud Blog / score: 55 (Google Cloudの高性能ファイルシステム発表)</description>
-</item>
-<item>
 <title>Introducing the Server Side Cloud Swift SDK</title>
 <link>https://cloud.google.com/blog/topics/developers-practitioners/introducing-the-server-side-cloud-swift-sdk/</link>
 <guid isPermaLink="true">https://cloud.google.com/blog/topics/developers-practitioners/introducing-the-server-side-cloud-swift-sdk/</guid>
 <pubDate>Thu, 01 Oct 2026 13:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>For years, Swift was perceived mainly as a UI language tied to Apple client devices. With Swift 6 and strict concurrency checking, it has matured into a viable systems and cloud language, pairing Rust-like data-race safety with predictable, reference-counted performance. To support this ecosystem, Google engineering has launched the official Google Cloud API Client Libraries for Swift . Built from the ground up for Swift 6.2+, this new SDK uses the latest non-blocking Swift NIO event loops, HTTP — Google Cloud Blog / score: 65 (Swiftのサーバーサイド展開に関するSDK発表)</description>
+</item>
+<item>
+<title>Democratizing Managed Lustre with lower cost and frictionless development</title>
+<link>https://cloud.google.com/blog/topics/developers-practitioners/democratizing-managed-lustre-with-lower-cost-and-frictionless-development/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/developers-practitioners/democratizing-managed-lustre-with-lower-cost-and-frictionless-development/</guid>
+<pubDate>Thu, 01 Oct 2026 13:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>This is the first of a two-part series exploring how Google Cloud is bringing the foundational values of a high-performance parallel filesystem–TB/s throughput, sub-ms latency at high client scale, and POSIX support–to a broader set of use cases and users. Historically, due to the cost and special purpose nature of parallel filesystems, colder data had to be stored outside of the filesystem and AI developers have had to maintain separate, slower environments for writing code, compiling libraries — Google Cloud Blog / score: 55 (Google Cloudの高性能ファイルシステム発表)</description>
 </item>
 <item>
 <title>MetaのAIエージェント、勝手に自宅の住所を他人に教えてしまう</title>
@@ -189,6 +237,14 @@
 <pubDate>Thu, 01 Oct 2026 12:00:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>スマートグラスInmo Air 3。操作用の指輪が同梱されていることと、フルカラーディスプレイが特徴のスマートグラスです。装着感と指輪の操作性の悪さで酷評レビューしていましたが、米国消費者製品安全委員会からリコールがでています。問題はオーバ… — ギズモード・ジャパン / score: 75 (スマートグラスのリコール情報で安全上の重要度が高い)</description>
+</item>
+<item>
+<title>「この勢いは驚き」タイムズカー情報流出で「集団訴訟」呼びかけ、わずか1日で参加希望2000人超 - 弁護士ドットコムニュース</title>
+<link>https://www.bengo4.com/c_1015/c_1885/c_1888/n_20995/</link>
+<guid isPermaLink="true">https://www.bengo4.com/c_1015/c_1885/c_1888/n_20995/</guid>
+<pubDate>Thu, 01 Oct 2026 11:45:11 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>カーシェアサービス「タイムズカー」の会員情報が不正アクセスによって漏えいした問題をめぐり、運営会社などに損害賠償を求める集団訴訟への参加希望が、2000人を超えたことがわかった（10月1日午後6時）。呼びかけている牧野裕貴弁護士が同日、弁護士ドットコムニュースの取材に明らかにした。 牧野弁護士は9月30日未... — はてなブックマーク テクノロジー / score: 75 (大規模な情報流出と集団訴訟の動きで業界に影響)</description>
 </item>
 <item>
 <title>MacBook Proの2TB SSDモデルが2万5989円安い！ M5 Pro搭載で49万3810円</title>
@@ -373,6 +429,14 @@
 <pubDate>Thu, 01 Oct 2026 10:00:00 +0000</pubDate>
 <category>ギター・マガジンWEB</category>
 <description>SONICAKEが、4基のMN3005 BBDチップを搭載し、温かく自然なサウンドを実現したフル・アナログ・ディレイ・ペダル、“BBD Wonder”をリリースした。 — ギター・マガジンWEB / score: 30 (ギター用アナログ・ディレイ・ペダルの新製品リリース)</description>
+</item>
+<item>
+<title>Google、新フロンティアモデルGemini 4 Argon発表　出力100万トークンで長期の自律推論に強み、法務や業務自動化でOpus 5.5やAstraに大差 | テクノエッジ TechnoEdge</title>
+<link>https://www.techno-edge.net/article/2026/10/01/5543.html</link>
+<guid isPermaLink="true">https://www.techno-edge.net/article/2026/10/01/5543.html</guid>
+<pubDate>Thu, 01 Oct 2026 09:57:19 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Google、新フロンティアモデルGemini 4 Argon発表 出力100万トークンで長期の自律推論に強み、法務や業務自動化でOpus 5.5やAstraに大差 | テクノエッジ TechnoEdge Google が新たなフロンティアAIモデル Gemini 4 Argon を発表しました。 — はてなブックマーク テクノロジー / score: 85 (Googleの新フロンティアモデル発表の重要ニュース)</description>
 </item>
 <item>
 <title>『アリス・ギア・アイギス』にて10月1日の「めがねの日」を記念して「アリスギア式視力検査」サイトを公開！</title>
@@ -591,14 +655,6 @@
 <description>ZENAIM ARCADE CONTROLLER LEVERLESSは、ZETA DIVISIONと共同開発されたレバーレスのアーケードコントローラーです！ — ASCII.jp / score: 35 (ゲーミングデバイスの新製品情報)</description>
 </item>
 <item>
-<title>業界初のバスパワー駆動Thunderbolt 5接続の10Gigabit Ethernetアダプタが登場</title>
-<link>https://pc.watch.impress.co.jp/docs/news/2144860.html</link>
-<guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2144860.html</guid>
-<pubDate>Thu, 01 Oct 2026 08:47:40 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>業界初のバスパワー駆動Thunderbolt 5接続の10Gigabit Ethernetアダプタが登場 — はてなブックマーク テクノロジー / score: 55 (最新高速規格対応のハードウェア新製品ニュース)</description>
-</item>
-<item>
 <title>ワイヤレスなのにレバーレス！　しかもラピッドトリガーまで入った新感覚アケコンが欲しい</title>
 <link>https://ascii.jp/elem/000/004/437/4437520/?rss</link>
 <guid isPermaLink="true">https://ascii.jp/elem/000/004/437/4437520/?rss</guid>
@@ -679,12 +735,28 @@
 <description>個人の債務情報を管理する日本信用情報機構（JICC）は1日、運転免許証などを紛失した際に不正利用を防ぐための届け出で、スマートフォンアプリからの申し込みを一時休止すると発表した。カーシェアリングサービス「タイムズカー」のシステムへの不正アクセスで免許証画像が約160万件流出し、申し込みが殺到した。当面は... — はてなブックマーク テクノロジー / score: 80 (大規模情報流出に伴う社会的影響と対応)</description>
 </item>
 <item>
+<title>DeepSeekがHuaweiと提携しAscend向け「TileLang」など6つのAI開発ツールをオープンソースで公開、NVIDIAのCUDA依存低減を狙う</title>
+<link>https://gigazine.net/news/20261001-deepseek-huawei-ascend/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261001-deepseek-huawei-ascend/</guid>
+<pubDate>Thu, 01 Oct 2026 08:08:41 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>中国のAI企業であるDeepSeekがHuaweiと協力し、Huawei製AIチップ「Ascend」向けのプログラミング基盤を公開しました。公開されたソフトウェアには高性能な演算プログラムを開発しやすくする「TileLang」や行列計算ライブラリ「DeepGEMM Ascend」などが含まれており、いずれもオープンソースで公開されています。DeepSeek... — はてなブックマーク テクノロジー / score: 75 (DeepSeekとHuaweiのオープンソースAIツール公開)</description>
+</item>
+<item>
 <title>マスカットのフルーティーな甘みとレモンの甘酸っぱさが絶妙にマッチした「C.C.レモン マスカットスカッシュ」試飲レビュー</title>
 <link>https://gigazine.net/news/20261001-cc-lemon-muscat/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261001-cc-lemon-muscat/</guid>
 <pubDate>Thu, 01 Oct 2026 08:00:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>レモンの甘酸っぱさでおなじみのC.C. レモンにマスカットが加わった「C.C.レモン マスカットスカッシュ」が、2026年9月29日(火)からの期間限定で登場しています。酸っぱさが際立つレモンに甘いマスカットの組み合わせがどうなっているか気になったので、実際に飲んでみました。 続きを読む... — GIGAZINE / score: 10 (飲料商品の試飲レビュー記事)</description>
+</item>
+<item>
+<title>Serverless Storage on Amazon EMR Serverless now supports terabyte-scale shuffle</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/emr-serverless-terabyte-scale-shuffle/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/emr-serverless-terabyte-scale-shuffle/</guid>
+<pubDate>Thu, 01 Oct 2026 08:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon EMR Serverless now offers enhanced serverless storage capabilities with support for up to 1TB shuffle operations, raising the previous 200 GB per-job limit. Amazon EMR Serverless makes it simple for data engineers and data scientists to run open-source big data analytics frameworks without configuring, managing, and scaling clusters or servers. This enhancement enables enterprise customers to run production-scale Apache Spark workloads that require processing large volumes of shuffle data — AWS What's New / score: 65 (AWS EMR Serverlessの機能拡張と性能向上)</description>
 </item>
 <item>
 <title>そのノートPCに、ワイヤレスでグラボを足す。どんな超技術ですか</title>
@@ -701,14 +773,6 @@
 <pubDate>Thu, 01 Oct 2026 07:45:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 30 (SaaSの新機能リリース告知)</description>
-</item>
-<item>
-<title>DeepSeekがHuaweiと提携しAscend向け「TileLang」など6つのAI開発ツールをオープンソースで公開、NVIDIAのCUDA依存低減を狙う</title>
-<link>https://gigazine.net/news/20261001-deepseek-huawei-ascend/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261001-deepseek-huawei-ascend/</guid>
-<pubDate>Thu, 01 Oct 2026 07:45:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>中国のAI企業であるDeepSeekがHuaweiと協力し、Huawei製AIチップ「Ascend」向けのプログラミング基盤を公開しました。公開されたソフトウェアには高性能な演算プログラムを開発しやすくする「TileLang」や行列計算ライブラリ「DeepGEMM Ascend」などが含まれており、いずれもオープンソースで公開されています。DeepSeekはCUDAより簡潔に記述できるプログラミング環境を提供しながら、ハードウェア性能を引き出すことを目指していると説明しています。 続きを読む... — GIGAZINE / score: 75 (DeepSeekとHuaweiのオープンソースAIツール公開)</description>
 </item>
 <item>
 <title>無料のメーラー「Thunderbird」v157.0がリリース ～企業向けポリシーを拡充／76件の脆弱性を修正</title>
@@ -741,70 +805,6 @@
 <pubDate>Thu, 01 Oct 2026 07:30:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 20 (地域コミュニティイベントの初開催の告知)</description>
-</item>
-<item>
-<title>佐川急便、不正アクセスで個人情報流出か　送り主・届け先の氏名や住所など、約100日分の荷物データ対象</title>
-<link>https://www.itmedia.co.jp/news/article/2610/01/2000001933/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/01/2000001933/</guid>
-<pubDate>Thu, 01 Oct 2026 07:26:23 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>佐川急便は10月1日、前日に公表した「お荷物問い合わせサービス」への不正アクセスについて、調査の結果、顧客の個人情報が外部に流出した可能性があると発表した。同サービスは、同社Webサイトで荷物の輸送状況を確認できるもの。被害の拡大を防ぐため、荷物の問い合わせや集荷受付など、Webサービスの一部を停止してい... — はてなブックマーク テクノロジー / score: 85 (大規模な個人情報の流出インシデント)</description>
-</item>
-<item>
-<title>1996年のダイヤルアップの「ピーガガー」が体験できる「56k.rip」と「dialup.rip」</title>
-<link>https://gigazine.net/news/20261001-dialup-59k-rip/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261001-dialup-59k-rip/</guid>
-<pubDate>Thu, 01 Oct 2026 07:16:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>光回線や無線LANが当たり前になるよりもずっと以前、専用回線のISDNやADSLが登場するよりもさらに前の1990年代中頃まで、インターネットにアクセスするためには電話回線とモデムを用いたダイヤルアップ接続が必要でした。「56k.rip」と「dialup.rip」はそんなダイヤルアップ接続を体験できるウェブサイトです。 続きを読む... — GIGAZINE / score: 15 (懐かしのダイヤルアップ体験サイトの紹介)</description>
-</item>
-<item>
-<title>中古アニメグッズ「らしんばん」に不正アクセス　口座情報や本人確認書類の番号など漏えいの恐れ</title>
-<link>https://www.itmedia.co.jp/news/article/2610/01/2000001927/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/01/2000001927/</guid>
-<pubDate>Thu, 01 Oct 2026 07:08:00 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>中古アニメグッズの買取・販売を手掛けるらしんばん（東京都豊島区）は10月1日、同社が運営するサービスに第三者による不正アクセスがあり、利用者の個人情報が外部に漏えいした可能性があると発表した。 漏えいした可能性があるのは、氏名、郵便番号、住所、メールアドレス、電話番号、生年月日、性別、職業、本人確認... — はてなブックマーク テクノロジー / score: 85 (企業サービスへの不正アクセスと情報漏えい)</description>
-</item>
-<item>
-<title>GitHub、外部システムの情報を同期できる「外部カスタムプロパティ」をプレビュー公開</title>
-<link>https://codezine.jp/article/detail/29872</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/29872</guid>
-<pubDate>Thu, 01 Oct 2026 07:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 45 (GitHubのプレビュー機能追加のニュース)</description>
-</item>
-<item>
-<title>怪異をすべて“物理”でぶっ飛ばすホラー映像作品『現地確認記録』が話題に。異常な主人公・佐藤が異変を調査</title>
-<link>https://news.denfaminicogamer.jp/news/261001u</link>
-<guid isPermaLink="true">https://news.denfaminicogamer.jp/news/261001u</guid>
-<pubDate>Thu, 01 Oct 2026 06:47:26 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>『現地確認記録』は、AI生成のタグが付いた、一人称視点で描かれるアナログホラー映像作品。本作では、通常の調査員では対応困難と判断された事案にのみ投入される現地対処員・佐藤周一の記録を映している。佐藤は、「恐怖反応」「危険認識」「身体能力」の項目すべてが一般的な基準から大きく逸脱しており、「異常には... — はてなブックマーク テクノロジー / score: 25 (エンタメ・ホラー映像作品の話題)</description>
-</item>
-<item>
-<title>[AINews] Gemini 4 Argon: GDM’s answer to Astra/Fable, with 1M output</title>
-<link>https://www.latent.space/p/ainews-gemini-4-argon-gdms-answer</link>
-<guid isPermaLink="true">https://www.latent.space/p/ainews-gemini-4-argon-gdms-answer</guid>
-<pubDate>Thu, 01 Oct 2026 06:45:05 +0000</pubDate>
-<category>Latent Space</category>
-<description>... but you can’t try it yet unless you are “government users and trusted cyber defenders in the Fairwind Program” — Latent Space / score: 50 (Googleの新しいAIモデルに関する情報)</description>
-</item>
-<item>
-<title>Amazon Aurora PostgreSQL、S3上のApache Iceberg、Parquetデータへの直接クエリ実行が可能に ―DuckDBを組み込み高速に実行</title>
-<link>https://gihyo.jp/article/2026/10/amazon-aurora-postgresql-direct-querying-iceberg-parquet?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/10/amazon-aurora-postgresql-direct-querying-iceberg-parquet?utm_source=feed</guid>
-<pubDate>Thu, 01 Oct 2026 06:34:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>AWSは2026年9月30日、同社のマネージドRDBサービス「Amazon Aurora PostgreSQL」で、Apache IcebergおよびParquet形式のデータレイクに保存されたデータに対して直接クエリ実行できるようになったことを発表した。 — gihyo.jp / score: 65 (AuroraでIcebergが直接クエリ可能に)</description>
-</item>
-<item>
-<title>ChatGPTの「カスタムGPT」を悪用してマルウェア感染へ誘導する攻撃、正規のChatGPTページを入口に利用</title>
-<link>https://gigazine.net/news/20261001-custom-gpt-clickfix-rat/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261001-custom-gpt-clickfix-rat/</guid>
-<pubDate>Thu, 01 Oct 2026 06:30:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>セキュリティ企業のHuntressが、ChatGPTの「カスタムGPT」を悪用してユーザーをマルウェア感染につながるサイトへ誘導する攻撃を確認したと報告しました。攻撃者は正規の「chatgpt.com」上にあるカスタムGPTを本物のChatGPTモデルのように見せかけ、外部サイトへ誘導してユーザー自身に不正なコマンドを実行させていたとのことです。 続きを読む... — GIGAZINE / score: 85 (カスタムGPTを悪用したマルウェア誘導の注意喚起)</description>
 </item>
 </channel>
 </rss>
