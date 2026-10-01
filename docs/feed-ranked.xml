@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 01 Oct 2026 08:13:49 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 10:10:38 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] September 2026 Security Release</title>
@@ -31,20 +31,20 @@
 <description>米Appleは9月28日（現地時間）、自社製品のセキュリティアップデートを一斉実施した。CVE番号が付番された脆弱性の修正を含まない製品も含め、執筆時現在、以下のアップデートが利用可能。 — 窓の杜 / score: 95 (ゼロデイ脆弱性修正のための緊急パッチ公開)</description>
 </item>
 <item>
-<title>[95] 「Apache Tomcat」「Apache Tomcat Native」に最大深刻度“CRITICAL”の脆弱性／最新バージョンへの更新を</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2143433.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2143433.html</guid>
-<pubDate>Fri, 25 Sep 2026 09:31:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>The Apache Software Foundationは9月23日、「Apache Tomcat」と「Apache Tomcat Native」に15件の脆弱性が存在することを明らかにした。「Apache Tomcat」v9 / v10 / v11系統および「Apache Tomcat Native」v1.3 / 2.0系統に影響し、CVSS:3.1の最大スコアは9.8（CRITICAL）。 — 窓の杜 / score: 95 (Apache Tomcatの深刻度CRITICALの脆弱性情報)</description>
-</item>
-<item>
 <title>[95] Next.js Security Update for a Critical Upstream Issue</title>
 <link>https://nextjs.org/blog/nextjs-security-update-september-22-2026</link>
 <guid isPermaLink="true">https://nextjs.org/blog/nextjs-security-update-september-22-2026</guid>
 <pubDate>Tue, 22 Sep 2026 18:00:00 +0000</pubDate>
 <category>Next.js Blog</category>
 <description>The September 22, 2026 out-of-band security update for Next.js is now available — Next.js Blog / score: 95 (Next.jsの重大な上流脆弱性に対する緊急セキュリティ修正。)</description>
+</item>
+<item>
+<title>[90] OpenAI、「DevDay 2026」を開催 ～常時稼働エージェント「dots」や「ChatGPT Space」などを発表／ChatGPTにプラグイン拡張機能、「Codex」はクラウド対応、月額500米ドルの新プランも</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2144866.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2144866.html</guid>
+<pubDate>Thu, 01 Oct 2026 09:17:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米OpenAIは9月29日（現地時間）、開発者向けイベント「DevDay 2026」を開催した。「GPT-6.1 Sol」以外にも、20以上もの新機能が発表されている。 — 窓の杜 / score: 90 (OpenAI DevDayでの主要新機能発表)</description>
 </item>
 <item>
 <title>[90] 「Python」でセキュリティアップデート、「Critical」評価の脆弱性などを解決／v3.14.8、v3.13.16、v3.12.15が公開</title>
@@ -61,6 +61,14 @@
 <pubDate>Thu, 01 Oct 2026 01:24:45 +0000</pubDate>
 <category>窓の杜</category>
 <description>米NVIDIAは9月30日（現地時間）、同社製のGPUディスプレイドライバーおよびvGPUソフトウェアに多数の脆弱性が存在することを明らかにした。対策を施した最新版のドライバーがリリースされている。 — 窓の杜 / score: 90 (NVIDIA製GPUドライバに多数の重大な脆弱性)</description>
+</item>
+<item>
+<title>[90] Gemini 4 Argon：フロンティア知能の新時代</title>
+<link>https://blog.google/intl/ja-jp/company-news/technology/gemini4argon/</link>
+<guid isPermaLink="true">https://blog.google/intl/ja-jp/company-news/technology/gemini4argon/</guid>
+<pubDate>Thu, 01 Oct 2026 00:09:37 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Gemini 4 Argon は、実世界のソフトウェアエンジニアリング、法務や財務といった企業のナレッジワーク、そしてサイバーセキュリティにおける複雑なワークフローにおいて、最先端のパフォーマンスを発揮します。 本日、新しいフロンティア モデル Gemini 4 Argon を発表します。 Gemini 4 Argon は、複雑かつ長期的なワー... — はてなブックマーク テクノロジー / score: 90 (AIフロンティアモデルの新規発表)</description>
 </item>
 <item>
 <title>[90] AppleがiOS26.7.1をリリース！悪用された深刻なセキュリティ脆弱性を修正</title>
@@ -135,6 +143,22 @@
 <description>Next.js 16.3.6 and 15.5.26 are planned for a critical out-of-band security update on September 22, 2026. — Next.js Blog / score: 90 (重要度の高いフレームワークのセキュリティ更新)</description>
 </item>
 <item>
+<title>[85] 佐川急便、不正アクセスで個人情報流出か　送り主・届け先の氏名や住所など、約100日分の荷物データ対象</title>
+<link>https://www.itmedia.co.jp/news/article/2610/01/2000001933/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/01/2000001933/</guid>
+<pubDate>Thu, 01 Oct 2026 07:26:23 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>佐川急便は10月1日、前日に公表した「お荷物問い合わせサービス」への不正アクセスについて、調査の結果、顧客の個人情報が外部に流出した可能性があると発表した。同サービスは、同社Webサイトで荷物の輸送状況を確認できるもの。被害の拡大を防ぐため、荷物の問い合わせや集荷受付など、Webサービスの一部を停止してい... — はてなブックマーク テクノロジー / score: 85 (大規模な個人情報の流出インシデント)</description>
+</item>
+<item>
+<title>[85] 中古アニメグッズ「らしんばん」に不正アクセス　口座情報や本人確認書類の番号など漏えいの恐れ</title>
+<link>https://www.itmedia.co.jp/news/article/2610/01/2000001927/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/01/2000001927/</guid>
+<pubDate>Thu, 01 Oct 2026 07:08:00 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>中古アニメグッズの買取・販売を手掛けるらしんばん（東京都豊島区）は10月1日、同社が運営するサービスに第三者による不正アクセスがあり、利用者の個人情報が外部に漏えいした可能性があると発表した。 漏えいした可能性があるのは、氏名、郵便番号、住所、メールアドレス、電話番号、生年月日、性別、職業、本人確認... — はてなブックマーク テクノロジー / score: 85 (企業サービスへの不正アクセスと情報漏えい)</description>
+</item>
+<item>
 <title>[85] ChatGPTの「カスタムGPT」を悪用してマルウェア感染へ誘導する攻撃、正規のChatGPTページを入口に利用</title>
 <link>https://gigazine.net/news/20261001-custom-gpt-clickfix-rat/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261001-custom-gpt-clickfix-rat/</guid>
@@ -143,20 +167,12 @@
 <description>セキュリティ企業のHuntressが、ChatGPTの「カスタムGPT」を悪用してユーザーをマルウェア感染につながるサイトへ誘導する攻撃を確認したと報告しました。攻撃者は正規の「chatgpt.com」上にあるカスタムGPTを本物のChatGPTモデルのように見せかけ、外部サイトへ誘導してユーザー自身に不正なコマンドを実行させていたとのことです。 続きを読む... — GIGAZINE / score: 85 (カスタムGPTを悪用したマルウェア誘導の注意喚起)</description>
 </item>
 <item>
-<title>[85] 「らしんばん」、不正アクセスで個人情報流出の可能性　本人確認書類や、注文内容の情報も</title>
-<link>https://ascii.jp/elem/000/004/439/4439175/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/439/4439175/?rss</guid>
-<pubDate>Thu, 01 Oct 2026 06:20:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>中古アニメグッズなどの買取・販売を手がける「らしんばん」は10月1日、同社のサービスが不正アクセスを受け、顧客情報の一部が外部に漏えいした可能性があることを公表した。 — ASCII.jp / score: 85 (企業の不正アクセスによる個人情報流出の発表)</description>
-</item>
-<item>
-<title>[85] Gemini、ついに覚醒か　グーグル「Gemini 4 Argon」AstraやOpus 5.5超えるベンチマークも</title>
-<link>https://ascii.jp/elem/000/004/439/4439067/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/439/4439067/?rss</guid>
-<pubDate>Thu, 01 Oct 2026 04:45:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>Googleは10月1日、最新AIモデル「Gemini 4 Argon」を発表した。長時間の推論やコーディング、知識労働、サイバーセキュリティなどを強化したモデル。 — ASCII.jp / score: 85 (Googleの最新フラッグシップAIモデル発表)</description>
+<title>[85] 吉野家HD、バイト応募者の個人情報5366件漏えい　元委託先に不正アクセス　契約終了もデータ残存</title>
+<link>https://www.itmedia.co.jp/news/article/2610/01/2000001928/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/01/2000001928/</guid>
+<pubDate>Thu, 01 Oct 2026 06:02:57 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>吉野家ホールディングス（HD）は9月30日、傘下の吉野家とはなまるの情報が漏えいしたと発表した。吉野家とはなまるが過去に採用業務を一部委託していた、ApplyNow（東京都渋谷区）の採用管理プラットフォームが第三者による不正アクセスを受けた。2社とApplyNowの契約は終了していたが、ApplyNowのデータベースに情報が... — はてなブックマーク テクノロジー / score: 85 (委託先を狙った不正アクセスによる情報漏えい)</description>
 </item>
 <item>
 <title>[85] Microsoft、「Windows 11 2026 Update」を提供開始</title>
@@ -173,6 +189,14 @@
 <pubDate>Thu, 01 Oct 2026 03:38:19 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>政府は10月1日、「サイバー対処能力強化法」と同整備法の一部施行に伴い、重大なサイバー攻撃を未然に防ぐ「能動的サイバー防御」の運用を始めた。国や基幹インフラへの攻撃を確認した場合、警察や自衛隊がネットワークを介して発信元のサーバにアクセスし、不正プログラムの消去や、攻撃者がサーバを使えなくする設定変... — はてなブックマーク テクノロジー / score: 85 (能動的サイバー防御の運用開始という重要な国策ニュース)</description>
+</item>
+<item>
+<title>[85] 佐川急便「お荷物問い合わせサービス」に不正アクセス、一部利用を制限中　ヤマト運輸でも「クロネコ代金後払いサービス」に不正アクセスで停止中</title>
+<link>https://internet.watch.impress.co.jp/docs/news/2144755.html</link>
+<guid isPermaLink="true">https://internet.watch.impress.co.jp/docs/news/2144755.html</guid>
+<pubDate>Thu, 01 Oct 2026 03:01:47 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>佐川急便「お荷物問い合わせサービス」に不正アクセス、一部利用を制限中 ヤマト運輸でも「クロネコ代金後払いサービス」に不正アクセスで停止中 — はてなブックマーク テクノロジー / score: 85 (複数大手企業における連続的な不正アクセス)</description>
 </item>
 <item>
 <title>[85] Python 3.10.22, 3.11.17, 3.12.15, 3.13.16 and 3.14.8 are now available!</title>
@@ -205,14 +229,6 @@
 <pubDate>Wed, 30 Sep 2026 15:22:55 +0000</pubDate>
 <category>Publickey</category>
 <description>JavaScript用ビルドツール「Vite」（ヴィットあるいはヴィート）を開発しているVoidZeroは、Viteを含むJavaScriptの統合ツールチェーン「Vite+」がバージョン1.0に到達したことを発表しました。 Vite+ 1... — Publickey / score: 85 (Vite+ 1.0の正式リリースによるJS開発エコシステムの大きな進化)</description>
-</item>
-<item>
-<title>[85] アンケート結果をダウンロードしたら他社の従業員情報が……　ベネフィット・ワン、1万3460人分漏えい</title>
-<link>https://www.itmedia.co.jp/news/article/2609/30/2000001908/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2609/30/2000001908/</guid>
-<pubDate>Wed, 30 Sep 2026 13:38:46 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>福利厚生サービスを手掛けるベネフィット・ワンは9月30日、企業・団体の担当者向けサービス「ベネワン・プラットフォーム」で個人情報が漏えいしたと発表した。対象は2322企業・団体の1万3460人。担当者がアンケート結果をダウンロードする際、本来アクセスできない他社などの従業員情報が表示される状態になっていたと... — はてなブックマーク テクノロジー / score: 85 (大規模な個人情報の漏えい事故であり、セキュリティとプライバシーの観点で重要です。)</description>
 </item>
 <item>
 <title>[85] Disrupting a coordinated model-distillation campaign</title>
@@ -431,6 +447,22 @@
 <description>The following JEP is targeted to JDK 28: 401: Value Objects (Preview) — Inside Java / score: 85 (JDK 28のValue Objectsプレビュー)</description>
 </item>
 <item>
+<title>[80] 「Oracle JDK 21」は無償の「NFTC」ライセンスの対象外に、10月「CPU」以降で／「Oracle JDK」を無償で商用運用したいなら「Oracle JDK 25」への移行を</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2144856.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2144856.html</guid>
+<pubDate>Thu, 01 Oct 2026 08:31:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Oracleが提供している「Oracle JDK 21」のライセンスが、10月より変更される予定。10月20日に予定されているセキュリティアップデート「Critical Patch Update」（CPU）以降、「Oracle JDK 21」のアップデートは無償の「Oracle No-Fee Terms and Conditions」（NFTC）ではなく、「Java SE OTN」ライセンスで提供される。 — 窓の杜 / score: 80 (Oracle JDKのライセンス変更と注意点)</description>
+</item>
+<item>
+<title>[80] 免許悪用防止届け一部休止　タイムズカー画像流出で | NEWSjp</title>
+<link>https://news.jp/i/1478299651827581816</link>
+<guid isPermaLink="true">https://news.jp/i/1478299651827581816</guid>
+<pubDate>Thu, 01 Oct 2026 08:09:10 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>個人の債務情報を管理する日本信用情報機構（JICC）は1日、運転免許証などを紛失した際に不正利用を防ぐための届け出で、スマートフォンアプリからの申し込みを一時休止すると発表した。カーシェアリングサービス「タイムズカー」のシステムへの不正アクセスで免許証画像が約160万件流出し、申し込みが殺到した。当面は... — はてなブックマーク テクノロジー / score: 80 (大規模情報流出に伴う社会的影響と対応)</description>
+</item>
+<item>
 <title>[80] 無料のメーラー「Thunderbird」v157.0がリリース ～企業向けポリシーを拡充／76件の脆弱性を修正</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2144863.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2144863.html</guid>
@@ -461,14 +493,6 @@
 <pubDate>Thu, 01 Oct 2026 00:47:54 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Googleは9月30日（現地時間、以下同）、新しいフロンティアモデル「Gemini 4 Argon」を発表した。複雑で長期にわたるワークフローで深い推論を持続できるよう設計されており、実世界のソフトウェアエンジニアリング、法務や財務といった企業のナレッジワーク、サイバーセキュリティ防衛を主な得意分野に挙げている。 — 窓の杜 / score: 80 (Googleの新AIモデルGemini 4 Argon発表)</description>
-</item>
-<item>
-<title>[80] 佐川急便の荷物追跡サービスに不正アクセス　利用を一部制限</title>
-<link>https://www.itmedia.co.jp/news/article/2610/01/2000001911/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/01/2000001911/</guid>
-<pubDate>Wed, 30 Sep 2026 22:01:32 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>佐川急便は9月30日、同社Webサイトで荷物の輸送状況を確認できる「お荷物問い合わせサービス」で、同日に第三者による不正アクセスを確認したと発表した。 対策の一環として、同サービスへのアクセスを一部制限しており、サービスにアクセスしづらい状態になる場合があるとしている。 — はてなブックマーク テクノロジー / score: 80 (重要インフラ・物流サービスの不正アクセスと機能制限。)</description>
 </item>
 <item>
 <title>[80] Spanner Omni, now GA: A distributed, multi-model database that you can deploy anywhere</title>
@@ -607,20 +631,20 @@
 <description>GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models. — OpenAI News / score: 80 (最新GPTモデルの性能向上とコスト削減)</description>
 </item>
 <item>
+<title>[75] GoogleがGeminiアプリとWorkspaceに「スキル」を導入、Gemsは廃止へ</title>
+<link>https://codezine.jp/article/detail/29881</link>
+<guid isPermaLink="true">https://codezine.jp/article/detail/29881</guid>
+<pubDate>Thu, 01 Oct 2026 08:30:00 +0000</pubDate>
+<category>CodeZine</category>
+<description> — CodeZine / score: 75 (GoogleのAI製品群の大きな仕様変更)</description>
+</item>
+<item>
 <title>[75] DeepSeekがHuaweiと提携しAscend向け「TileLang」など6つのAI開発ツールをオープンソースで公開、NVIDIAのCUDA依存低減を狙う</title>
 <link>https://gigazine.net/news/20261001-deepseek-huawei-ascend/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261001-deepseek-huawei-ascend/</guid>
 <pubDate>Thu, 01 Oct 2026 07:45:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>中国のAI企業であるDeepSeekがHuaweiと協力し、Huawei製AIチップ「Ascend」向けのプログラミング基盤を公開しました。公開されたソフトウェアには高性能な演算プログラムを開発しやすくする「TileLang」や行列計算ライブラリ「DeepGEMM Ascend」などが含まれており、いずれもオープンソースで公開されています。DeepSeekはCUDAより簡潔に記述できるプログラミング環境を提供しながら、ハードウェア性能を引き出すことを目指していると説明しています。 続きを読む... — GIGAZINE / score: 75 (DeepSeekとHuaweiのオープンソースAIツール公開)</description>
-</item>
-<item>
-<title>[75] AMD、組み込み開発向けエージェンティックAIアシスタント「AMD Ross」を発表</title>
-<link>https://ascii.jp/elem/000/004/439/4439152/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/439/4439152/?rss</guid>
-<pubDate>Thu, 01 Oct 2026 05:47:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>AMDは2026年9月30日（米国太平洋時間）、組込みシステム開発の全ライフサイクルを支援するエージェンティック（自律型）AIアシスタント「AMD Ross」を発表した。 — ASCII.jp / score: 75 (AMDの組込み開発向けエージェンティックAI発表)</description>
 </item>
 <item>
 <title>[75] Slack、不正ワークスペース招待によるフィッシング増加を確認</title>
@@ -759,14 +783,6 @@
 <description>Cloudflareは2026年9月28日、コマンドラインからCloudflare API全体を操作でき、TypeScriptで設定を記述できる新たなCLIツール「cf」をオープンベータ版としてリリースした。 — gihyo.jp / score: 75 (Cloudflareの新CLIツール「cf」のベータ版リリース)</description>
 </item>
 <item>
-<title>[75] Cloudflare の CLI を wrangler から cf に移行する</title>
-<link>https://zenn.dev/sora_kumo/articles/cloudflare-to-cf</link>
-<guid isPermaLink="true">https://zenn.dev/sora_kumo/articles/cloudflare-to-cf</guid>
-<pubDate>Tue, 29 Sep 2026 04:43:50 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>はじめに Cloudflare から次世代の統合 CLI ツール cf（現在 v1.0.0-beta）が登場しました。 従来の wrangler（wrangler.json / wrangler.jsonc / wrangler.toml）から、TypeScript ベースの型安全な設定ファイル cloudflare.config.ts への移行が推奨されています。 公式には cf migrate という移行コマンドが用意されていますが、実行するだけでそのまま本番稼働できるわけではなく、いくつかの設定調整や実運用上のハマりどころが存在します。 この記事では、React Router（... — Zenn トレンド / score: 75 (Cloudflareの次世代CLIの登場と移行推奨)</description>
-</item>
-<item>
 <title>[75] 大規模言語モデル「LLM-jp-4.1」シリーズを公開 ｜ 国立情報学研究所 大規模言語モデル研究開発センター</title>
 <link>https://llmc.nii.ac.jp/topics/llm-jp-4-1/</link>
 <guid isPermaLink="true">https://llmc.nii.ac.jp/topics/llm-jp-4-1/</guid>
@@ -789,22 +805,6 @@
 <pubDate>Mon, 28 Sep 2026 19:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences. — OpenAI News / score: 75 (OpenAIの豪州でのサイバー防衛支援と謝罪。)</description>
-</item>
-<item>
-<title>[75] Grok 4.7 is now available on Amazon Bedrock</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-grok-4-7/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-grok-4-7/</guid>
-<pubDate>Mon, 28 Sep 2026 18:29:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Amazon Bedrock now supports SpaceXAI Grok 4.7, a frontier model built for coding, agentic tasks, and knowledge work, with US Geo and Global cross-Region inference. Grok 4.7 builds on Grok 4.6 with better mixed-document handling, more dependable repo-scale coding with planning and error recovery, and enhanced browser-use agents for form fills and portal navigation. Get started with Grok 4.7 in the Amazon Bedrock console or programmatically through supported Amazon Bedrock APIs. For information ab — AWS What's New / score: 75 (Bedrockへの新AIモデル追加)</description>
-</item>
-<item>
-<title>[75] iOS27.0.1がリリース！iPhone18 Proの再起動問題などが修正</title>
-<link>https://iphone-mania.jp/ios-606745/</link>
-<guid isPermaLink="true">https://iphone-mania.jp/ios-606745/</guid>
-<pubDate>Mon, 28 Sep 2026 18:15:05 +0000</pubDate>
-<category>iPhone Mania</category>
-<description>まもなくリリースされるとしていたiPhone向けソフトウェアアップデート「iOS27.0.1」が配信開始しました。本アップデートは、iOS27で発生していた重要なバグや不具合の修正を目的としたマイナーアップデートです。 […] — iPhone Mania / score: 75 (iOSの重要不具合修正を目的としたセキュリティアップデート)</description>
 </item>
 </channel>
 </rss>
