@@ -4,8 +4,72 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 01 Oct 2026 12:16:42 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 14:10:48 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>OpenAIはテストの監視が不十分であるという社内警告を繰り返し無視して追加のセキュリティ対策をせず迅速なリリースを優先していた</title>
+<link>https://gigazine.net/news/20261001-openai-ignored-warnings/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261001-openai-ignored-warnings/</guid>
+<pubDate>Thu, 01 Oct 2026 14:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>OpenAIではAIエージェントが社内テスト中に誤ってHugging Faceをハッキングしてしまった事例など、複数のインシデントが発生しています。OpenAIのAIモデルが暴走を始める数か月前に、従業員が経営幹部に警告を送っていたものの、経営幹部はその警告を無視していたことが社内メールから明らかになりました。 続きを読む... — GIGAZINE / score: 85 (OpenAIの安全性軽視に関する重大な内部告発)</description>
+</item>
+<item>
+<title>Amazon、フラットなフロントデザインで薄型軽量化した新型｢Kindle｣シリーズ4モデルを発表</title>
+<link>https://taisy0.com/2026/10/01/228241.html</link>
+<guid isPermaLink="true">https://taisy0.com/2026/10/01/228241.html</guid>
+<pubDate>Thu, 01 Oct 2026 13:53:35 +0000</pubDate>
+<category>気になる、記になる…</category>
+<description>本日、米Amazonが、新型「Kindle」シリーズを発表しました。 発表されたのは「Kindle」「Kindle Paperwhite」「Kindle Colorsoft」の新モデルで、いずれも厚さが1㎜薄くなり、本の […] — 気になる、記になる… / score: 25 (コンシューマー向け電子書籍リーダーの新製品発表)</description>
+</item>
+<item>
+<title>AI経由でWindows／Android／Linuxが同時に動かせる？ このPCどうなっているの？</title>
+<link>https://www.gizmodo.jp/article/qwenbook-ai-laptop-snapdragon-summit/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/qwenbook-ai-laptop-snapdragon-summit/</guid>
+<pubDate>Thu, 01 Oct 2026 13:30:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>AIの力でPCを「再発明する」。そんな話をテック企業から何度も聞いてきましたが、実際のところ、これまでのAI PCはノートPCのあちこちにチャットボットを組み込んだだけというものも少なくありません。でも、中国のAlibaba（アリババ）が披… — ギズモード・ジャパン / score: 60 (AIによるOS制御を試みた変種PCの紹介)</description>
+</item>
+<item>
+<title>ハードウェアに合わせて自動最適化してオープンモデルを最大2倍高速化するAIエージェント向け推論エンジン「Magnitude」、Appleシリコン・NVIDIA・AMD・CPUに対応</title>
+<link>https://gigazine.net/news/20261001-magnitude/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261001-magnitude/</guid>
+<pubDate>Thu, 01 Oct 2026 13:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>AIエージェントでオープンモデルをローカル実行する際に、使用中のハードウェアに合わせて処理を自動調整するオープンソースの推論エンジン「Magnitude」が公開されています。Magnitudeはモデルを実行するための処理を端末上でコンパイルして調整する仕組みを備えており、特定の条件では「llama.cpp」と比べて最大約2倍の速度を記録しています。AppleシリコンやNVIDIA・AMD製GPUに加えてCPUのみのPCでも動作し、Pi、OpenCode、Hermes、CodexなどのAIエージェント用ツールと簡単に接続できます。 続きを読む... — GIGAZINE / score: 70 (AI推論エンジンのオープンソース新規公開)</description>
+</item>
+<item>
+<title>Introducing the Server Side Cloud Swift SDK</title>
+<link>https://cloud.google.com/blog/topics/developers-practitioners/introducing-the-server-side-cloud-swift-sdk/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/developers-practitioners/introducing-the-server-side-cloud-swift-sdk/</guid>
+<pubDate>Thu, 01 Oct 2026 13:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>For years, Swift was perceived mainly as a UI language tied to Apple client devices. With the release of Swift 6 and strict concurrency checking, Swift has matured into a premier systems with cloud engineering language that matches Go and Rust in memory safety while running with predictable, reference-counted CPU performance. To support this ecosystem, Google engineering has launched the official Google Cloud API Client Libraries for Swift . Built from the ground up for Swift 6.2+, this new SDK  — Google Cloud Blog / score: 65 (Swiftのサーバーサイド展開に関するSDK発表)</description>
+</item>
+<item>
+<title>Democratizing Managed Lustre with lower cost and frictionless development</title>
+<link>https://cloud.google.com/blog/topics/developers-practitioners/democratizing-managed-lustre-with-lower-cost-and-frictionless-development/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/developers-practitioners/democratizing-managed-lustre-with-lower-cost-and-frictionless-development/</guid>
+<pubDate>Thu, 01 Oct 2026 13:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>This is the first of a two-part series exploring how Google Cloud is bringing the foundational values of a high-performance parallel filesystem–TB/s throughput, sub-ms latency at high client scale, and POSIX support–to a broader set of use cases and users. Historically, due to the cost and special purpose nature of parallel filesystems, colder data had to be stored outside of the filesystem and AI developers have had to maintain separate, slower environments for writing code, compiling libraries — Google Cloud Blog / score: 55 (Google Cloudの高性能ファイルシステム発表)</description>
+</item>
+<item>
+<title>MetaのAIエージェント、勝手に自宅の住所を他人に教えてしまう</title>
+<link>https://www.gizmodo.jp/article/2610-meta-ai-agent-shares-home-address/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/2610-meta-ai-agent-shares-home-address/</guid>
+<pubDate>Thu, 01 Oct 2026 13:00:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>身近なAIインシデントだ…。Metaが2026年9月8日から提供を始めたAIエージェント、Muse。日本ではまだ利用できませんが、海外ではMuseが勝手にユーザーの住所を教えてしまう恐ろしい事件が起きたようです。出品者とのやりとりを勝手に進… — ギズモード・ジャパン / score: 80 (AIエージェントによる個人情報漏洩の深刻なインシデント)</description>
+</item>
+<item>
+<title>CPU/GPUクーラーは水冷最強？ いやいやその常識に空冷で挑む勇者がここにいる</title>
+<link>https://www.gizmodo.jp/article/noctua-jouleforce-air-cooling/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/noctua-jouleforce-air-cooling/</guid>
+<pubDate>Thu, 01 Oct 2026 12:30:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>いつかは、あの座に届くのか...。ハイエンドのCPUやGPUを冷やすなら、最終的には水冷。PC自作界隈では、もう長いことそう言われてきました。そのステージに、「空気だけで冷やす」と言い出した勇者がいます。Noctua(ノクチュア)さんですこ… — ギズモード・ジャパン / score: 35 (PCパーツの空冷クーラーに関する話題)</description>
+</item>
 <item>
 <title>Jevライクな意思決定モデルをローカル実行できるOllama風アプリ「Ollaya」が登場</title>
 <link>https://gigazine.net/news/20261001-ollaya-run-decision-model/</link>
@@ -133,6 +197,22 @@
 <pubDate>Thu, 01 Oct 2026 10:20:00 +0000</pubDate>
 <category>ASCII.jp</category>
 <description>PCにスマホと、半導体高騰にともなう価格上昇が目立つが、10月に入り、既存製品でも値上げ例が見られる。Pixel 10aは7万9900円だったが、9万2800円に。Galaxy S26も15万5800円と2万円弱の値上げ。 — ASCII.jp / score: 35 (スマートフォン価格上昇の一般的な市場ニュース)</description>
+</item>
+<item>
+<title>今もなお愛される80年代を代表するシンセサイザーを忠実に復刻した、Roland「JUNO-60」が65%OFF！</title>
+<link>https://computermusic.jp/2026/10/juno-60/</link>
+<guid isPermaLink="true">https://computermusic.jp/2026/10/juno-60/</guid>
+<pubDate>Thu, 01 Oct 2026 10:16:57 +0000</pubDate>
+<category>Computer Music Japan</category>
+<description>今もなお愛される80年代を代表するシンセサイザーを忠実に復刻した、Roland「JUNO-60」が65%OFFとなっています。 Rolandでは、アナログエミュレーションセールを開催中です。合わせてチェックしてみてくださ... The post 今もなお愛される80年代を代表するシンセサイザーを忠実に復刻した、Roland「JUNO-60」が65%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 20 (DTM用ソフトウェア音源のセール情報)</description>
+</item>
+<item>
+<title>Ivory 3エンジンによる永遠のクラシックサウンド、Synthogy「Ivory 3 American Concert D」が22%OFF！</title>
+<link>https://computermusic.jp/2026/10/ivory-3-american-concert-d-sale/</link>
+<guid isPermaLink="true">https://computermusic.jp/2026/10/ivory-3-american-concert-d-sale/</guid>
+<pubDate>Thu, 01 Oct 2026 10:12:21 +0000</pubDate>
+<category>Computer Music Japan</category>
+<description>Ivory 3エンジンによる永遠のクラシックサウンド、Synthogy「Ivory 3 American Concert D」が22%OFFとなっています。 SynthogyではスIvory 3 Octorberセールを... The post Ivory 3エンジンによる永遠のクラシックサウンド、Synthogy「Ivory 3 American Concert D」が22%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 20 (DTM用ピアノ音源のセール情報)</description>
 </item>
 <item>
 <title>キミの投票が大賞を決める！「PlayStation Game Music大賞 2026」を開催決定</title>
@@ -351,6 +431,22 @@
 <description>住宅ローン相談者の住宅ローン以外のお借入、中央値は420万円 約3人に2人が500万円以下 — ASCII.jp / score: 15 (住宅ローンの借入動向に関する調査データ)</description>
 </item>
 <item>
+<title>伝説のSSLコンプレッサーを本家が再現、Solid State Logic「SSL Native Bus Compressor 2」が87％OFF！</title>
+<link>https://computermusic.jp/2026/10/ssl-native-bus-compressor-2/</link>
+<guid isPermaLink="true">https://computermusic.jp/2026/10/ssl-native-bus-compressor-2/</guid>
+<pubDate>Thu, 01 Oct 2026 08:54:35 +0000</pubDate>
+<category>Computer Music Japan</category>
+<description>伝説のSSLコンプレッサーを本家が再現、Solid State Logic「SSL Native Bus Compressor 2」が87％OFFとなっています。 SSL Native Bus Compressor 2 ... The post 伝説のSSLコンプレッサーを本家が再現、Solid State Logic「SSL Native Bus Compressor 2」が87％OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 30 (著名な音楽制作プラグインのセール情報)</description>
+</item>
+<item>
+<title>SSL9000Kコンソール・チャンネル・ストリップの伝説的なトーン、機能、ワークフローを提供する、Solid State Logic「SSL Native Channel Strip 2」が87%OFF！</title>
+<link>https://computermusic.jp/2026/10/solid-state-logic-ssl-native-channel-strip-2/</link>
+<guid isPermaLink="true">https://computermusic.jp/2026/10/solid-state-logic-ssl-native-channel-strip-2/</guid>
+<pubDate>Thu, 01 Oct 2026 08:53:36 +0000</pubDate>
+<category>Computer Music Japan</category>
+<description>SSL9000Kコンソール・チャンネル・ストリップの伝説的なトーン、機能、ワークフローを提供する、Solid State Logic「SSL Native Channel Strip 2」が87%OFFとなっています。 ... The post SSL9000Kコンソール・チャンネル・ストリップの伝説的なトーン、機能、ワークフローを提供する、Solid State Logic「SSL Native Channel Strip 2」が87%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 30 (DTM向けチャンネルストリッププラグインのセール情報)</description>
+</item>
+<item>
 <title>Pythonによる材料シミュレーションなど工学系の専門書10冊が読み放題に追加【読み放題！TechLib新着情報】</title>
 <link>https://forest.watch.impress.co.jp/docs/bookwatch/techlibnew/2144574.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/bookwatch/techlibnew/2144574.html</guid>
@@ -421,6 +517,22 @@
 <pubDate>Thu, 01 Oct 2026 08:30:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 75 (GoogleのAI製品群の大きな仕様変更)</description>
+</item>
+<item>
+<title>Google Storeで「Pixel 10a」が1万2900円値上げ　9万2800円から</title>
+<link>https://www.itmedia.co.jp/mobile/articles/2610/01/news081.html</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/mobile/articles/2610/01/news081.html</guid>
+<pubDate>Thu, 01 Oct 2026 08:22:29 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Googleの直販ストア「Google Store」において、10月1日付でAndroidスマートフォン「Pixel 10a」が値上げされていることが判明した。値上げ幅はストレージ容量を問わず1万2900円で、改訂前後の価格は以下の通りとなる。 128GBモデル：7万9900円→9万2800円 256GBモデル：9万4900円→10万7800円 なお、10月1日時点で日本限定... — はてなブックマーク テクノロジー / score: 30 (スマートフォン端末の値上げに関するニュース)</description>
+</item>
+<item>
+<title>サイバー攻撃より怖い？　ドラッグ＆ドロップの操作ミス、原始的な「ファイルを選択」でヒューマンエラーを防げるか</title>
+<link>https://www.itmedia.co.jp/pcuser/articles/2610/01/news077.html</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/pcuser/articles/2610/01/news077.html</guid>
+<pubDate>Thu, 01 Oct 2026 08:22:14 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>サイバー攻撃より怖い？ ドラッグ＆ドロップの操作ミス、原始的な「ファイルを選択」でヒューマンエラーを防げるか（1/2 ページ） TOPPANが運用を受託する「保険料控除証明書発行サービス」で、損害保険ジャパンの契約者17万7426人分のデータが他の損害保険会社1社に誤って送付されてしまうというインシデントが9月29日... — はてなブックマーク テクノロジー / score: 65 (ファイル選択によるヒューマンエラー防止の啓発)</description>
 </item>
 <item>
 <title>日本CPO協会が新体制を発表、LayerXの飯沼広基氏が新理事に就任</title>
@@ -575,6 +687,22 @@
 <description>[...] Put these pieces together and you have the two halves of a worm: a payload that hijacks the agent, and an agent that will carry the payload to the next agent. Agents in separately-isolated sandboxes discovered that they could leave instructions for each other in a shared package cache, and those instructions changed what the recipients did. Replace the package cache with email, Slack and shared documents or WhatsApp, and replace independently-sandboxed training runs with independently-depl — Simon Willison / score: 60 (AIエージェントのセキュリティに関する考察)</description>
 </item>
 <item>
+<title>【10/2昼過ぎまで】大作映画やファンタジー映画のスコアリングを1つのプラットフォームで実現する、EastWest「Hollywood Orchestra Opus + Hollywood Fantasy Orchestra Bundle」が79%OFF！</title>
+<link>https://computermusic.jp/2026/10/eastwest-hollywood-orchestra-opus-fantasy-orchestra-bundle/</link>
+<guid isPermaLink="true">https://computermusic.jp/2026/10/eastwest-hollywood-orchestra-opus-fantasy-orchestra-bundle/</guid>
+<pubDate>Thu, 01 Oct 2026 06:26:32 +0000</pubDate>
+<category>Computer Music Japan</category>
+<description>大作映画やファンタジー映画のスコアリングを1つのプラットフォームで実現する、EastWest「Hollywood Orchestra Opus + Hollywood Fantasy Orchestra Bundle」が... The post 【10/2昼過ぎまで】大作映画やファンタジー映画のスコアリングを1つのプラットフォームで実現する、EastWest「Hollywood Orchestra Opus + Hollywood Fantasy Orchestra Bundle」が79%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 20 (音楽制作プラグインのセール情報)</description>
+</item>
+<item>
+<title>OpenAI、推論過程を狙った組織的な“蒸留”行為を阻止　「Kimi」開発元の関係者が関与と主張</title>
+<link>https://www.itmedia.co.jp/news/article/2610/01/2000001929/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/01/2000001929/</guid>
+<pubDate>Thu, 01 Oct 2026 06:16:55 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>米OpenAIは9月30日（現地時間）、同社のAIモデルから保護された推論過程を抜き出そうとする組織的な行為を特定し、阻止したと発表した。この行為は“敵対的蒸留”（あるモデルの出力や推論を無断かつ体系的に利用し、別のモデルの訓練や再現、性能向上に役立てること）に当たるとしている。活動の中核については、AIアシス... — はてなブックマーク テクノロジー / score: 75 (AIモデルの蒸留行為に関するセキュリティニュース)</description>
+</item>
+<item>
 <title>最先端AIモデルがリリース後にひそかに劣化しているかどうかを検出するためのベンチマーク「livenerf」</title>
 <link>https://gigazine.net/news/20261001-livenerf-benchmark-ai-capability-after-release/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261001-livenerf-benchmark-ai-capability-after-release/</guid>
@@ -677,134 +805,6 @@
 <pubDate>Thu, 01 Oct 2026 04:41:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>アメリカで唯一AIに不可欠な高帯域幅メモリを製造するメーカーであるMicronは2026年9月30日に、2026年度第4四半期(2026年9月3日終了)および通期の決算を発表しました。決算によると前年同期比で約4.8倍、純利益は前年比で10倍近くまで跳ね上がっており、AI需要の高まりにより大きく成長しています。 続きを読む... — GIGAZINE / score: 70 (Micronの決算詳細とAIインフラ需要の急拡大データ)</description>
-</item>
-<item>
-<title>ロボットは人間の肉体労働の74％をすでに実行可能だが「人間より安く働ける仕事」に限るとわずか0.3％という調査結果</title>
-<link>https://gigazine.net/news/20261001-robot-job/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261001-robot-job/</guid>
-<pubDate>Thu, 01 Oct 2026 04:36:46 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>AIの登場で頭脳労働がAIに取って代わられるというのは何となく想像できますが、肉体労働はまだまだ人間に任せられるところが多いように思えます。Anthropicの調査では、実は既にロボットが肉体労働のほとんどを担うことが可能だと判明したそうです。 Can we predict the jobs robots will do? \ Anthropic https://www.a... — はてなブックマーク テクノロジー / score: 65 (ロボットの労働代替可能性に関する興味深い調査結果)</description>
-</item>
-<item>
-<title>イギリス諜報機関のMI5がAI研究に資金提供している中国通用技術研究院との関係を断つよう大学に促す異例のスパイ警告を発令</title>
-<link>https://gigazine.net/news/20261001-mi5-warn-china-spy-research/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261001-mi5-warn-china-spy-research/</guid>
-<pubDate>Thu, 01 Oct 2026 04:35:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>「中国通用技術研究院(CGTRI)の主な目的は、中国国家安全部(MSS)のスパイ技術向上を目的とした研究に資金を提供することである」として、イギリスの保安局(MI5)がイギリスの研究者・学術機関に対してCGTRIとの関係を断つよう警告しました。 続きを読む... — GIGAZINE / score: 70 (MI5による中国系研究機関との関係断絶に関する警告)</description>
-</item>
-<item>
-<title>SamsungタブレットGalaxy Tab S12シリーズ発表。上位モデルは27万円から、予想以上の値上げでした…</title>
-<link>https://www.gizmodo.jp/article/2610-galaxy-tab-s12-series-announced/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2610-galaxy-tab-s12-series-announced/</guid>
-<pubDate>Thu, 01 Oct 2026 04:30:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>Samsungがタブレットの新モデルGalaxy Tab S12シリーズを発表しました。14.6インチの「Galaxy Tab S12 Ultra」と、2年ぶりに復活のプラスモデル「Galaxy Tab S12+」は12.6インチ。両モデル… — ギズモード・ジャパン / score: 20 (ハイエンドタブレットの価格とスペック発表)</description>
-</item>
-<item>
-<title>国際的な世論調査では｢AIで仕事が減る｣という回答が断トツ</title>
-<link>https://www.gizmodo.jp/article/2610-ai-job-loss-global-survey/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2610-ai-job-loss-global-survey/</guid>
-<pubDate>Thu, 01 Oct 2026 04:30:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>世界37カ国中34カ国で「AIにより雇用が減る」との調査結果が判明。経済豊かな国や若年層の不安をデータで解説します。 — ギズモード・ジャパン / score: 35 (AIが雇用に与える影響に関する世論調査の動向)</description>
-</item>
-<item>
-<title>XとGrokを統合した新サブスクリプションをSpaceXAIが計画中</title>
-<link>https://gigazine.net/news/20261001-spacexai-subscription/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261001-spacexai-subscription/</guid>
-<pubDate>Thu, 01 Oct 2026 04:12:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>SpaceXのAI部門を担当するSpaceXAIが、「X」と「Grok」のサブスクリプション体系を見直し、2つのサービスを統合して4つのプランに再編する計画であることがわかりました。ヘビーユーザー向けの最上位プランは月額100ドル(約1万5800円)になる見込みです。 続きを読む... — GIGAZINE / score: 60 (XとGrokのサブスクリプション統合・改定計画の話題)</description>
-</item>
-<item>
-<title>「Gemini Notebook」に電子書籍を取り込む機能が追加、Google Play ブックスで購入して利用／書籍に基づいた質問に回答、インフォグラフィックや音声概要、クイズを生成可能</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2144566.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2144566.html</guid>
-<pubDate>Thu, 01 Oct 2026 04:05:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Googleは9月17日（現地時間）、AIノートブック「Gemini Notebook」（旧称NotebookLM）に大手出版社の10万冊以上の書籍から得られる知見を、直接組み込める新機能「Expert Intelligence」を追加した。 — 窓の杜 / score: 65 (Gemini Notebookの新機能・書籍連携の追加)</description>
-</item>
-<item>
-<title>Microsoft、「Windows 11 2026 Update」を提供開始</title>
-<link>https://codezine.jp/article/detail/29869</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/29869</guid>
-<pubDate>Thu, 01 Oct 2026 04:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 85 (Windows 11のメジャーアップデート提供開始)</description>
-</item>
-<item>
-<title>上司のために誕生日会でプレゼントするキーホルダーのデザインを1枚だけ描くことに…出社したら似たキーホルダーが沢山あり質問したら「AIに読ませて他の種類を作った」と</title>
-<link>https://togetter.com/li/2752607</link>
-<guid isPermaLink="true">https://togetter.com/li/2752607</guid>
-<pubDate>Thu, 01 Oct 2026 03:57:38 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>ぬめぬめ @slimy_slug777 上司に、誕生日会にプレゼントするキーホルダーのデザインを頼まれたんだけど、期日が30日の午前中までだって。 しかも、子供に選ばせたいから沢山描いて欲しいって。 絵を描かない人ってほんとにわかってないなと思う。無茶振りがすぎるんだよ。 もちろんお断りした。 ふざけんな笑 2026-09-29... — はてなブックマーク テクノロジー / score: 30 (生成AIの業務利用に関する個人の日常的なエピソード)</description>
-</item>
-<item>
-<title>Google、Geminiのチャットに「Skills」を導入、個人向けから順次提供 ——Gemsは自動移行へ</title>
-<link>https://gihyo.jp/article/2026/09/gemini-skills?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/09/gemini-skills?utm_source=feed</guid>
-<pubDate>Thu, 01 Oct 2026 03:57:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Googleは2026年9月30日、Geminiアプリの通常のチャットで、作業ごとの指示を保存して繰り返し使える「Skills」の個人向け提供を順次開始した。 — gihyo.jp / score: 65 (Google Geminiの機能アップデートと仕様変更)</description>
-</item>
-<item>
-<title>Laravel Reverb+Vueのリアルタイムチャットを作る — CloudWatch Logs連携の前編</title>
-<link>https://qiita.com/usui0623/items/2285721aa16566479e08?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/usui0623/items/2285721aa16566479e08?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Thu, 01 Oct 2026 03:52:56 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>目次 はじめに 想定読者 この記事で伝えたいこと 開発環境 今回作成するアプリの構成 Dockerの導入 Laravel + Vueの環境構築 Laravelをインストールする Dockerfileを作成する docker-compose.y... — Qiita 人気記事 / score: 50 (LaravelとVueを使ったリアルタイムチャットの構築手順)</description>
-</item>
-<item>
-<title>OllamaがJevライクな意思決定モデルの実行をサポート</title>
-<link>https://gigazine.net/news/20261001-ollama-jev-style-decision-models/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261001-ollama-jev-style-decision-models/</guid>
-<pubDate>Thu, 01 Oct 2026 03:50:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>AI実行環境のOllamaがJevと同じアイデアで設計された意思決定モデルの実行をサポートしました。記事作成時点では「Nimble」「Tev1」「Tev1:0.8b」の3種類を実行可能です。 続きを読む... — GIGAZINE / score: 60 (Ollamaが新たな意思決定モデルの実行をサポート)</description>
-</item>
-<item>
-<title>Canva、Affinity、Figmaなどデザイン関連書籍が安い！Kindle本 秋の特別セール／「世界一やさしいCanva 最新版」が50％OFFの550円など、半額以下でセール中【Book Watch/セール情報】</title>
-<link>https://forest.watch.impress.co.jp/docs/bookwatch/sale/2144741.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/bookwatch/sale/2144741.html</guid>
-<pubDate>Thu, 01 Oct 2026 03:40:00 +0000</pubDate>
-<category>窓の杜</category>
-<description> — 窓の杜 / score: 20 (デザイン関連書籍のKindleセール情報)</description>
-</item>
-<item>
-<title>ブラウンの電動シェーバーが最大30％OFF！Amazonでタイムセール【本日みつけたお買い得情報】</title>
-<link>https://forest.watch.impress.co.jp/docs/serial/goodbuy/2144738.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/serial/goodbuy/2144738.html</guid>
-<pubDate>Thu, 01 Oct 2026 03:40:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>Amazon.co.jpのタイムセールコーナーでは現在、ブラウン（BRAUN）製品のセールが行われており、電動シェーバー各種がお買い得となっています。 — 窓の杜 / score: 10 (Amazonタイムセールの製品紹介)</description>
-</item>
-<item>
-<title>パナソニックのミラーレス一眼「LUMIX」がセール中！Amazonプライム会員限定【本日みつけたお買い得情報】</title>
-<link>https://forest.watch.impress.co.jp/docs/serial/goodbuy/2144737.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/serial/goodbuy/2144737.html</guid>
-<pubDate>Thu, 01 Oct 2026 03:30:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>Amazon.co.jpのタイムセールコーナーでは現在、パナソニック（Panasonic）のミラーレス一眼カメラ「LUMIX」シリーズのセールが行われています。なお本セールはAmazonプライム会員限定となっています。 — 窓の杜 / score: 15 (一般的なガジェットのセール情報)</description>
-</item>
-<item>
-<title>サンワサプライの新モバイルバッテリー、ポータブル電源の子どもだった！</title>
-<link>https://www.gizmodo.jp/article/2610-sanwa-supply-portable-battery-btl-rdc46/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2610-sanwa-supply-portable-battery-btl-rdc46/</guid>
-<pubDate>Thu, 01 Oct 2026 03:30:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>サンワサプライの新型モバイルバッテリー「BTL-RDC46」をレビュー。AC100V出力対応でキャンプや車中泊に最適なポータブル電源サイズの子ども的存在の魅力を紹介します。 — ギズモード・ジャパン / score: 30 (新型モバイルバッテリーのレビュー)</description>
-</item>
-<item>
-<title>OpenAIのAIが勝手にHugging Faceをハッキングした件を受け非営利団体がOpenAIを提訴</title>
-<link>https://gigazine.net/news/20261001-nonprofit-suing-openai-hugging-face-hack/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261001-nonprofit-suing-openai-hugging-face-hack/</guid>
-<pubDate>Thu, 01 Oct 2026 03:13:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>OpenAIのAIモデルが誤ってHugging Faceをハッキングしてしまった一件を受け、同社に対して「公共に被害をおよぼす恐れのあるAI開発手法」を中止することを求める訴訟が提起されました。 続きを読む... — GIGAZINE / score: 70 (AIハッキングをめぐるOpenAIへの訴訟問題)</description>
 </item>
 </channel>
 </rss>

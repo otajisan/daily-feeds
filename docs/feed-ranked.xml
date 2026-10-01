@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 01 Oct 2026 12:16:42 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 14:10:48 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] September 2026 Security Release</title>
@@ -61,14 +61,6 @@
 <pubDate>Thu, 01 Oct 2026 01:24:45 +0000</pubDate>
 <category>窓の杜</category>
 <description>米NVIDIAは9月30日（現地時間）、同社製のGPUディスプレイドライバーおよびvGPUソフトウェアに多数の脆弱性が存在することを明らかにした。対策を施した最新版のドライバーがリリースされている。 — 窓の杜 / score: 90 (NVIDIA製GPUドライバに多数の重大な脆弱性)</description>
-</item>
-<item>
-<title>[90] Gemini 4 Argon：フロンティア知能の新時代</title>
-<link>https://blog.google/intl/ja-jp/company-news/technology/gemini4argon/</link>
-<guid isPermaLink="true">https://blog.google/intl/ja-jp/company-news/technology/gemini4argon/</guid>
-<pubDate>Thu, 01 Oct 2026 00:09:37 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Gemini 4 Argon は、実世界のソフトウェアエンジニアリング、法務や財務といった企業のナレッジワーク、そしてサイバーセキュリティにおける複雑なワークフローにおいて、最先端のパフォーマンスを発揮します。 本日、新しいフロンティア モデル Gemini 4 Argon を発表します。 Gemini 4 Argon は、複雑かつ長期的なワー... — はてなブックマーク テクノロジー / score: 90 (AIフロンティアモデルの新規発表)</description>
 </item>
 <item>
 <title>[90] AppleがiOS26.7.1をリリース！悪用された深刻なセキュリティ脆弱性を修正</title>
@@ -143,6 +135,14 @@
 <description>Next.js 16.3.6 and 15.5.26 are planned for a critical out-of-band security update on September 22, 2026. — Next.js Blog / score: 90 (重要度の高いフレームワークのセキュリティ更新)</description>
 </item>
 <item>
+<title>[85] OpenAIはテストの監視が不十分であるという社内警告を繰り返し無視して追加のセキュリティ対策をせず迅速なリリースを優先していた</title>
+<link>https://gigazine.net/news/20261001-openai-ignored-warnings/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261001-openai-ignored-warnings/</guid>
+<pubDate>Thu, 01 Oct 2026 14:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>OpenAIではAIエージェントが社内テスト中に誤ってHugging Faceをハッキングしてしまった事例など、複数のインシデントが発生しています。OpenAIのAIモデルが暴走を始める数か月前に、従業員が経営幹部に警告を送っていたものの、経営幹部はその警告を無視していたことが社内メールから明らかになりました。 続きを読む... — GIGAZINE / score: 85 (OpenAIの安全性軽視に関する重大な内部告発)</description>
+</item>
+<item>
 <title>[85] 日本原子力機構に不正アクセス　研究者の個人情報が漏えい | NEWSjp</title>
 <link>https://news.jp/i/1478318653420880862</link>
 <guid isPermaLink="true">https://news.jp/i/1478318653420880862</guid>
@@ -189,14 +189,6 @@
 <pubDate>Thu, 01 Oct 2026 04:00:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 85 (Windows 11のメジャーアップデート提供開始)</description>
-</item>
-<item>
-<title>[85] 佐川急便「お荷物問い合わせサービス」に不正アクセス、一部利用を制限中　ヤマト運輸でも「クロネコ代金後払いサービス」に不正アクセスで停止中</title>
-<link>https://internet.watch.impress.co.jp/docs/news/2144755.html</link>
-<guid isPermaLink="true">https://internet.watch.impress.co.jp/docs/news/2144755.html</guid>
-<pubDate>Thu, 01 Oct 2026 03:01:47 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>佐川急便「お荷物問い合わせサービス」に不正アクセス、一部利用を制限中 ヤマト運輸でも「クロネコ代金後払いサービス」に不正アクセスで停止中 — はてなブックマーク テクノロジー / score: 85 (複数大手企業における連続的な不正アクセス)</description>
 </item>
 <item>
 <title>[85] Python 3.10.22, 3.11.17, 3.12.15, 3.13.16 and 3.14.8 are now available!</title>
@@ -367,14 +359,6 @@
 <description>（株）Helpfeelは9月27日、画像共有サービス「Gyazo」の提供を再開したと発表した。同サービスは第三者による不正アクセスと情報漏えいがあり、14日から画像の配信を停止。18日にはサービスの提供も一時停止していた。 — 窓の杜 / score: 85 (サービス停止を伴う不正アクセス・情報漏えい。)</description>
 </item>
 <item>
-<title>[85] ShinyHunters Renewed Mass Exploitation Campaign Targeting Oracle PeopleSoft</title>
-<link>https://cloud.google.com/blog/topics/threat-intelligence/shinyhunters-renewed-mass-exploitation-campaign-targeting-oracle-peoplesoft/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/topics/threat-intelligence/shinyhunters-renewed-mass-exploitation-campaign-targeting-oracle-peoplesoft/</guid>
-<pubDate>Fri, 25 Sep 2026 14:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>Introduction As an update to the June 2026 post, ShinyHunters Targets Education Sector with Oracle PeopleSoft Exploit , Mandiant and Google Threat Intelligence Group (GTIG) have identified renewed mass exploitation of CVE-2026-35273 by UNC6240 (ShinyHunters), along with expanded global targeting across multiple sectors. In June, the threat actor exploited this vulnerability as a zero-day predominantly against academic institutions. This new wave of activity stems from UNC6240 modifying its explo — Google Cloud Blog / score: 85 (Oracle PeopleSoftを狙う大規模脆弱性攻撃)</description>
-</item>
-<item>
 <title>[85] Cursor、GitHubの新たな代替となるAIエージェントネイティブな開発基盤「Origin」を公開</title>
 <link>https://www.infoq.com/jp/news/2026/09/cursor-origin-alternative-github/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
 <guid isPermaLink="true">https://www.infoq.com/jp/news/2026/09/cursor-origin-alternative-github/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
@@ -431,12 +415,20 @@
 <description>Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost. — OpenAI News / score: 85 (主要なAIモデルのメジャーリリース)</description>
 </item>
 <item>
-<title>[85] JEP targeted to JDK 28: 401: Value Objects (Preview)</title>
-<link>https://inside.java/2026/09/20/jep401-target-jdk28/</link>
-<guid isPermaLink="true">https://inside.java/2026/09/20/jep401-target-jdk28/</guid>
-<pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
-<category>Inside Java</category>
-<description>The following JEP is targeted to JDK 28: 401: Value Objects (Preview) — Inside Java / score: 85 (JDK 28のValue Objectsプレビュー)</description>
+<title>[85] Transformers now runs llama.cpp quants</title>
+<link>https://huggingface.co/blog/transformers-llama-cpp-quants</link>
+<guid isPermaLink="true">https://huggingface.co/blog/transformers-llama-cpp-quants</guid>
+<pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+<category>Hugging Face Blog</category>
+<description> — Hugging Face Blog / score: 85 (Transformersライブラリの量子化モデル対応)</description>
+</item>
+<item>
+<title>[80] MetaのAIエージェント、勝手に自宅の住所を他人に教えてしまう</title>
+<link>https://www.gizmodo.jp/article/2610-meta-ai-agent-shares-home-address/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/2610-meta-ai-agent-shares-home-address/</guid>
+<pubDate>Thu, 01 Oct 2026 13:00:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>身近なAIインシデントだ…。Metaが2026年9月8日から提供を始めたAIエージェント、Muse。日本ではまだ利用できませんが、海外ではMuseが勝手にユーザーの住所を教えてしまう恐ろしい事件が起きたようです。出品者とのやりとりを勝手に進… — ギズモード・ジャパン / score: 80 (AIエージェントによる個人情報漏洩の深刻なインシデント)</description>
 </item>
 <item>
 <title>[80] 「Oracle JDK 21」は無償の「NFTC」ライセンスの対象外に、10月「CPU」以降で／「Oracle JDK」を無償で商用運用したいなら「Oracle JDK 25」への移行を</title>
@@ -469,14 +461,6 @@
 <pubDate>Thu, 01 Oct 2026 01:58:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>Googleは2026年9月30日、新たなAIモデル「Gemini 4 Argon」を発表しました。Gemini 4 Argonは複数の工程にわたる作業を長時間続ける能力を重視したモデルで、ソフトウェア開発や企業の知識作業、サイバーセキュリティ防御などで高い性能を示しています。記事作成時点では一般公開されておらず、信頼できるサイバーセキュリティ担当者などに提供されています。 続きを読む... — GIGAZINE / score: 80 (Googleの次世代AIモデルGemini 4発表)</description>
-</item>
-<item>
-<title>[80] Anthropic、驚異的なハイペースで日常使いに最適な新モデルを発表</title>
-<link>https://www.gizmodo.jp/article/2610-anthropic-sonnet-5-5-release/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2610-anthropic-sonnet-5-5-release/</guid>
-<pubDate>Thu, 01 Oct 2026 01:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>Anthropicが発表した新モデル「Sonnet 5.5」の特徴や性能向上について解説。日常使いに最適な高速かつ低コストなAIの魅力をお伝えします。 — ギズモード・ジャパン / score: 80 (Anthropicの新モデル発表)</description>
 </item>
 <item>
 <title>[80] Google、新フロンティアモデル「Gemini 4 Argon」を発表 ～まずはサイバー防衛担当者向けに提供／「GPT-6 Astra」や「Claude Fable 5.1」「Claude Opus 5.5」に匹敵・凌駕する性能</title>
@@ -647,6 +631,14 @@
 <description>中国のAI企業であるDeepSeekがHuaweiと協力し、Huawei製AIチップ「Ascend」向けのプログラミング基盤を公開しました。公開されたソフトウェアには高性能な演算プログラムを開発しやすくする「TileLang」や行列計算ライブラリ「DeepGEMM Ascend」などが含まれており、いずれもオープンソースで公開されています。DeepSeekはCUDAより簡潔に記述できるプログラミング環境を提供しながら、ハードウェア性能を引き出すことを目指していると説明しています。 続きを読む... — GIGAZINE / score: 75 (DeepSeekとHuaweiのオープンソースAIツール公開)</description>
 </item>
 <item>
+<title>[75] OpenAI、推論過程を狙った組織的な“蒸留”行為を阻止　「Kimi」開発元の関係者が関与と主張</title>
+<link>https://www.itmedia.co.jp/news/article/2610/01/2000001929/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/01/2000001929/</guid>
+<pubDate>Thu, 01 Oct 2026 06:16:55 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>米OpenAIは9月30日（現地時間）、同社のAIモデルから保護された推論過程を抜き出そうとする組織的な行為を特定し、阻止したと発表した。この行為は“敵対的蒸留”（あるモデルの出力や推論を無断かつ体系的に利用し、別のモデルの訓練や再現、性能向上に役立てること）に当たるとしている。活動の中核については、AIアシス... — はてなブックマーク テクノロジー / score: 75 (AIモデルの蒸留行為に関するセキュリティニュース)</description>
+</item>
+<item>
 <title>[75] Slack、不正ワークスペース招待によるフィッシング増加を確認</title>
 <link>https://codezine.jp/article/detail/29870</link>
 <guid isPermaLink="true">https://codezine.jp/article/detail/29870</guid>
@@ -805,6 +797,14 @@
 <pubDate>Mon, 28 Sep 2026 18:15:05 +0000</pubDate>
 <category>iPhone Mania</category>
 <description>まもなくリリースされるとしていたiPhone向けソフトウェアアップデート「iOS27.0.1」が配信開始しました。本アップデートは、iOS27で発生していた重要なバグや不具合の修正を目的としたマイナーアップデートです。 […] — iPhone Mania / score: 75 (iOSの重要不具合修正を目的としたセキュリティアップデート)</description>
+</item>
+<item>
+<title>[75] AWS、AIエージェントを自作できるツール「Strandsハーネス」をオープンソースで公開。特定のLLMに依存せず入れ替え可能、任意のコンテナ環境にデプロイ</title>
+<link>https://www.publickey1.jp/blog/26/awsaistrandsllm.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/awsaistrandsllm.html</guid>
+<pubDate>Mon, 28 Sep 2026 15:01:25 +0000</pubDate>
+<category>Publickey</category>
+<description>Amazon Web Services（AWS）は、GPTやClaude、Gemini、Ollamaなど主要なLLMやLLMランタイムを基にした高性能なAIエージェントを簡単に自作できるツール「Strandsハーネス」をオープンソースで公開... — Publickey / score: 75 (主要なLLM対応AIエージェントOSS公開のため)</description>
 </item>
 </channel>
 </rss>
