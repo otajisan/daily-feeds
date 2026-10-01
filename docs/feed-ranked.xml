@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 01 Oct 2026 14:10:48 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 16:10:24 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] September 2026 Security Release</title>
@@ -133,6 +133,14 @@
 <pubDate>Tue, 22 Sep 2026 15:00:00 +0000</pubDate>
 <category>Next.js Blog</category>
 <description>Next.js 16.3.6 and 15.5.26 are planned for a critical out-of-band security update on September 22, 2026. — Next.js Blog / score: 90 (重要度の高いフレームワークのセキュリティ更新)</description>
+</item>
+<item>
+<title>[85] Google Cloud、ローカルマシンにインストールできる大規模分散型マルチモデルDB「Spanner Omni」正式版リリースを発表</title>
+<link>https://www.publickey1.jp/blog/26/google_clouddbspanner_omni.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/google_clouddbspanner_omni.html</guid>
+<pubDate>Thu, 01 Oct 2026 16:09:50 +0000</pubDate>
+<category>Publickey</category>
+<description>Google Cloudは、大規模分散データベースとしてリレーショナルモデルだけでなくグラフ型やキーバリュー型、ベクトル検索、テキスト検索などのマルチモデルに対応したデータベースソフトウェア「Spanner Omni」の正式版リリースを発表... — Publickey / score: 85 (Spanner Omni正式版リリースは重要)</description>
 </item>
 <item>
 <title>[85] OpenAIはテストの監視が不十分であるという社内警告を繰り返し無視して追加のセキュリティ対策をせず迅速なリリースを優先していた</title>
@@ -455,6 +463,14 @@
 <description>オープンソースのメールソフト「Thunderbird」の最新版、v157.0が9月29日にリリースされた。本アップデートでは、主に企業向けポリシーの拡充が行われている。 — 窓の杜 / score: 80 (Thunderbirdの多数の脆弱性修正アップデート)</description>
 </item>
 <item>
+<title>[80] Intel・NVIDIAのコンパイラを支えた6人の会社EDG、38年分のC++コードをオープンソースに</title>
+<link>https://joho-todai.com/edg-compiler-cpp-open-source/</link>
+<guid isPermaLink="true">https://joho-todai.com/edg-compiler-cpp-open-source/</guid>
+<pubDate>Thu, 01 Oct 2026 05:17:31 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Intel、NVIDIA、Microsoftのコンパイラ製品を裏で支えてきたC++フロントエンドの開発元Edison Design Groupが、会社としての歴史を閉じた。38年分のコードはThe C++ Allianceに移管され、現地時間9月30日にオープンソースとして公開された。 この記事のポイント 何が起きた: C++コンパイラフロントエンド専業のEdison De... — はてなブックマーク テクノロジー / score: 80 (EDGの38年分C++コードOSS化)</description>
+</item>
+<item>
 <title>[80] Googleが「Gemini 4 Argon」を発表、GPT-6 AstraやClaude Fable 5.1を超える性能でGemini 4シリーズの先駆けモデル</title>
 <link>https://gigazine.net/news/20261001-google-gemini-4-argon/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261001-google-gemini-4-argon/</guid>
@@ -607,6 +623,14 @@
 <description>GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models. — OpenAI News / score: 80 (最新GPTモデルの性能向上とコスト削減)</description>
 </item>
 <item>
+<title>[75] Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs</title>
+<link>https://huggingface.co/blog/allenai/olmocore3</link>
+<guid isPermaLink="true">https://huggingface.co/blog/allenai/olmocore3</guid>
+<pubDate>Thu, 01 Oct 2026 15:01:43 +0000</pubDate>
+<category>Hugging Face Blog</category>
+<description> — Hugging Face Blog / score: 75 (MoE向けの大規模学習インフラの公開)</description>
+</item>
+<item>
 <title>[75] 中国製スマートグラスInmo Air 3がリコール。重傷または死亡のリスクで「使用をただちに中止」</title>
 <link>https://www.gizmodo.jp/article/2610-inmo-air-3-recall/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/2610-inmo-air-3-recall/</guid>
@@ -655,22 +679,6 @@
 <description>Googleは2026年9月30日、AIモデル「Gemini 4 Argon」を発表した。 — gihyo.jp / score: 75 (Googleによるサイバー防御向け新AIモデル発表)</description>
 </item>
 <item>
-<title>[75] Amazon Aurora PostgreSQL がデータレイク上の Apache Iceberg と Parquet データへの直接クエリをサポート | Amazon Web Services</title>
-<link>https://aws.amazon.com/jp/blogs/news/amazon-aurora-postgresql-now-supports-direct-querying-of-apache-iceberg-and-parquet-data-in-your-data-lake/</link>
-<guid isPermaLink="true">https://aws.amazon.com/jp/blogs/news/amazon-aurora-postgresql-now-supports-direct-querying-of-apache-iceberg-and-parquet-data-in-your-data-lake/</guid>
-<pubDate>Thu, 01 Oct 2026 02:43:40 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Amazon Web Services ブログ Amazon Aurora PostgreSQL がデータレイク上の Apache Iceberg と Parquet データへの直接クエリをサポート 本記事は 2026 年 9 月 30 日 に公開された「Amazon Aurora PostgreSQL now supports direct querying of Apache Iceberg and Parquet data in your data lake」を翻訳したものです... — はてなブックマーク テクノロジー / score: 75 (主要DBのデータレイク直接クエリ対応機能追加)</description>
-</item>
-<item>
-<title>[75] MicrosoftのナディラCEOは言いました。「Copilot、刷新します」</title>
-<link>https://www.gizmodo.jp/article/2610-microsoft-copilot-update/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2610-microsoft-copilot-update/</guid>
-<pubDate>Thu, 01 Oct 2026 01:15:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>MicrosoftのAIアシスタント「Copilot」が大幅刷新。Home、Code、Autopilotの3カテゴリ展開でビジネス機能がさらに充実。新機能の詳細をお届けします。 — ギズモード・ジャパン / score: 75 (Microsoft Copilotの大幅刷新)</description>
-</item>
-<item>
 <title>[75] OpenAI GPT-6 Astra now supports UltraFast mode on Amazon Bedrock</title>
 <link>https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-astra-ultrafast-on-amazon-bedrock/</link>
 <guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-astra-ultrafast-on-amazon-bedrock/</guid>
@@ -709,14 +717,6 @@
 <pubDate>Wed, 30 Sep 2026 07:30:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 75 (耐量子暗号対応の認証局設立)</description>
-</item>
-<item>
-<title>[75] Microsoft、｢Windows 11 2026 Update（バージョン26H2）｣のISOファイルも公開</title>
-<link>https://taisy0.com/2026/09/30/228166.html</link>
-<guid isPermaLink="true">https://taisy0.com/2026/09/30/228166.html</guid>
-<pubDate>Wed, 30 Sep 2026 00:47:06 +0000</pubDate>
-<category>気になる、記になる…</category>
-<description>Microsoftが、本日一般提供を開始した「Windows 11 バージョン 26H2」のISOファイル（ディスクイメージ）を公開しました。 「Windows 11 バージョン 26H2」のISOイメージファイルは、こ […] — 気になる、記になる… / score: 75 (Windows 11の最新アップデートISO公開)</description>
 </item>
 <item>
 <title>[75] OpenAI、月額200米ドルの「ChatGPT Pro」新規受け付けを再開。月額500米ドル版も追加／使用量計算の変更、プラン間の倍率の見直しも</title>

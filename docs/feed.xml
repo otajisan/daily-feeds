@@ -4,8 +4,96 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 01 Oct 2026 14:10:48 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 16:10:24 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Google Cloud、ローカルマシンにインストールできる大規模分散型マルチモデルDB「Spanner Omni」正式版リリースを発表</title>
+<link>https://www.publickey1.jp/blog/26/google_clouddbspanner_omni.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/google_clouddbspanner_omni.html</guid>
+<pubDate>Thu, 01 Oct 2026 16:09:50 +0000</pubDate>
+<category>Publickey</category>
+<description>Google Cloudは、大規模分散データベースとしてリレーショナルモデルだけでなくグラフ型やキーバリュー型、ベクトル検索、テキスト検索などのマルチモデルに対応したデータベースソフトウェア「Spanner Omni」の正式版リリースを発表... — Publickey / score: 85 (Spanner Omni正式版リリースは重要)</description>
+</item>
+<item>
+<title>Enabling Cloud Storage end-to-end checksums for improved data integrity and durability</title>
+<link>https://cloud.google.com/blog/products/storage-data-transfer/enabling-end-to-end-checksums-in-cloud-storage/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/storage-data-transfer/enabling-end-to-end-checksums-in-cloud-storage/</guid>
+<pubDate>Thu, 01 Oct 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>At Google Cloud, we know that you count on us to maintain the durability and integrity of your data at all times, both at rest and in transit. And now we’re making it easier for developers to take advantage of native data integrity features in Cloud Storage, by enabling end-to-end checksumming by default in all the Cloud Storage SDKs. Like in any disk-based storage system, bits can flip anywhere in their journey, from the application all the way down to the disk. Cloud Storage has always let cli — Google Cloud Blog / score: 65 (Cloud Storageの機能強化アップデート)</description>
+</item>
+<item>
+<title>Accelerating analytics: PayPal’s journey with Managed Service for Apache Spark</title>
+<link>https://cloud.google.com/blog/products/data-analytics/paypals-journey-with-managed-service-for-apache-spark/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/data-analytics/paypals-journey-with-managed-service-for-apache-spark/</guid>
+<pubDate>Thu, 01 Oct 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>In a data-driven world, PayPal’s ability to deliver timely and actionable insights is central to staying ahead. At PayPal, data powers everything from fraud detection to user experience enhancements. Data is also central to unleashing the potential of agentic solutions and experiences. Over time, though, our analytics environment had become a complex ecosystem of various technologies and solutions assembled on-premise to address growing demands. While this approach supported our needs at the tim — Google Cloud Blog / score: 50 (PayPalのApache Spark活用事例)</description>
+</item>
+<item>
+<title>OLEDディスプレイ搭載新型「MacBook Pro」は10月または11月に発売か</title>
+<link>https://taisy0.com/2026/10/02/228266.html</link>
+<guid isPermaLink="true">https://taisy0.com/2026/10/02/228266.html</guid>
+<pubDate>Thu, 01 Oct 2026 15:36:29 +0000</pubDate>
+<category>気になる、記になる…</category>
+<description>BloombergのMark Gurman氏が、本日配信された自身のポッドキャスト「Power On」の初回放送において、以前から噂されているOLEDディスプレイ搭載「MacBook Pro」は今年の10月または11月に […] — 気になる、記になる… / score: 40 (新型MacBook Proの発売時期の噂)</description>
+</item>
+<item>
+<title>X、有料プランを再編か ｰ X・Grok・Cursor・Grok Botを全てカバーした｢ワンサブスクリプション｣を準備中</title>
+<link>https://taisy0.com/2026/10/02/228263.html</link>
+<guid isPermaLink="true">https://taisy0.com/2026/10/02/228263.html</guid>
+<pubDate>Thu, 01 Oct 2026 15:23:50 +0000</pubDate>
+<category>気になる、記になる…</category>
+<description>現在、Xの有料プランは「ベーシック」「プレミアム」「プレミアムプラス」の3種類ですが、4種類へと再編される可能性が浮上しました。 これはリバースエンジニアのNima Owji氏が明らかにしたもので、XはX、Grok、Cu […] — 気になる、記になる… / score: 45 (Xの有料プラン再編に関する噂)</description>
+</item>
+<item>
+<title>iPhone Duoは10月13日から予約注文準備可能〜事前に仕様決定し発売に備える</title>
+<link>https://iphone-mania.jp/iphone18-606877/</link>
+<guid isPermaLink="true">https://iphone-mania.jp/iphone18-606877/</guid>
+<pubDate>Thu, 01 Oct 2026 15:18:31 +0000</pubDate>
+<category>iPhone Mania</category>
+<description>AppleがiPhone Duoの案内ページで、予約注文の準備が2026年10月13日から可能になることを明らかにしました。 米国のAppleオンラインストアでは、10月12日から予約注文の準備が可能になることが前日に判 […] — iPhone Mania / score: 35 (iPhone関連の予約に関する噂)</description>
+</item>
+<item>
+<title>Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs</title>
+<link>https://huggingface.co/blog/allenai/olmocore3</link>
+<guid isPermaLink="true">https://huggingface.co/blog/allenai/olmocore3</guid>
+<pubDate>Thu, 01 Oct 2026 15:01:43 +0000</pubDate>
+<category>Hugging Face Blog</category>
+<description> — Hugging Face Blog / score: 75 (MoE向けの大規模学習インフラの公開)</description>
+</item>
+<item>
+<title>来週に何か発表があるかも?? ｰ Apple Storeに10月8日まで開封厳禁の機密扱いの箱が届いている模様</title>
+<link>https://taisy0.com/2026/10/01/228261.html</link>
+<guid isPermaLink="true">https://taisy0.com/2026/10/01/228261.html</guid>
+<pubDate>Thu, 01 Oct 2026 14:55:06 +0000</pubDate>
+<category>気になる、記になる…</category>
+<description>Appleは現地時間10月13日にスマートホームハブ製品などを発表するとみられていますが、MacRumorsによると、世界各地のApple Storeでは10月8日から開始される新製品の展示準備が進められていることが分か […] — 気になる、記になる… / score: 40 (Appleの新製品発表に関する噂)</description>
+</item>
+<item>
+<title>Appleのスマートホームハブ製品は4色展開に??</title>
+<link>https://taisy0.com/2026/10/01/228258.html</link>
+<guid isPermaLink="true">https://taisy0.com/2026/10/01/228258.html</guid>
+<pubDate>Thu, 01 Oct 2026 14:34:20 +0000</pubDate>
+<category>気になる、記になる…</category>
+<description>リバースエンジニアのpdfu氏によると、Appleが現地時間10月13日に発表するとみられているスマートホームハブ製品のカラーは4色展開となる可能性があることが分かりました。 これは今朝お伝えした「写真」フェイスのセット […] — 気になる、記になる… / score: 35 (Apple製スマートホームハブのカラー情報の噂)</description>
+</item>
+<item>
+<title>スマートホームハブの来月発表は確実か！？セットアップ画面と本体カラー情報が投稿</title>
+<link>https://iphone-mania.jp/apple-606871/</link>
+<guid isPermaLink="true">https://iphone-mania.jp/apple-606871/</guid>
+<pubDate>Thu, 01 Oct 2026 14:33:03 +0000</pubDate>
+<category>iPhone Mania</category>
+<description>Appleが現地時間2026年10月13日に発表すると噂のスマートホームハブについて、セットアップ画面とされる画像を、Appleの未発表製品などに関する情報を発信しているpdfu氏（＠itspdfu）がX（旧Twitte […] — iPhone Mania / score: 35 (スマートホームハブの発表リーク情報)</description>
+</item>
+<item>
+<title>ヒト型ロボの廃棄方法の答え。『ターミネーター』方式しかない</title>
+<link>https://www.gizmodo.jp/article/2610-humanoid-robot-disposal-terminator-method/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/2610-humanoid-robot-disposal-terminator-method/</guid>
+<pubDate>Thu, 01 Oct 2026 14:10:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>不要になったヒューマノイドロボットを溶鉱炉で処分？シュワちゃんの助言から実現した衝撃の廃棄プロジェクトの裏側に迫ります。 — ギズモード・ジャパン / score: 25 (ヒューマノイドロボットの廃棄に関する話題)</description>
+</item>
 <item>
 <title>OpenAIはテストの監視が不十分であるという社内警告を繰り返し無視して追加のセキュリティ対策をせず迅速なリリースを優先していた</title>
 <link>https://gigazine.net/news/20261001-openai-ignored-warnings/</link>
@@ -13,6 +101,14 @@
 <pubDate>Thu, 01 Oct 2026 14:00:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>OpenAIではAIエージェントが社内テスト中に誤ってHugging Faceをハッキングしてしまった事例など、複数のインシデントが発生しています。OpenAIのAIモデルが暴走を始める数か月前に、従業員が経営幹部に警告を送っていたものの、経営幹部はその警告を無視していたことが社内メールから明らかになりました。 続きを読む... — GIGAZINE / score: 85 (OpenAIの安全性軽視に関する重大な内部告発)</description>
+</item>
+<item>
+<title>悪魔の発明？ 会社トイレのスマホ時間を減らす特許</title>
+<link>https://www.gizmodo.jp/article/standardtoilet-unique-patent-dpo/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/standardtoilet-unique-patent-dpo/</guid>
+<pubDate>Thu, 01 Oct 2026 14:00:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>2026年10月1日の記事を編集して再掲載しています。ウ○コしながらSNSしてたら会社の損失だろ！という社畜仕様Death。イギリスのスタッフォードシャーでトイレの便器を作るメーカーStandardToilet社が、16世紀以来ほぼ変更がな… — ギズモード・ジャパン / score: 20 (トイレでのスマホ利用を減らす特許の話題)</description>
 </item>
 <item>
 <title>Amazon、フラットなフロントデザインで薄型軽量化した新型｢Kindle｣シリーズ4モデルを発表</title>
@@ -34,17 +130,9 @@
 <title>ハードウェアに合わせて自動最適化してオープンモデルを最大2倍高速化するAIエージェント向け推論エンジン「Magnitude」、Appleシリコン・NVIDIA・AMD・CPUに対応</title>
 <link>https://gigazine.net/news/20261001-magnitude/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261001-magnitude/</guid>
-<pubDate>Thu, 01 Oct 2026 13:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>AIエージェントでオープンモデルをローカル実行する際に、使用中のハードウェアに合わせて処理を自動調整するオープンソースの推論エンジン「Magnitude」が公開されています。Magnitudeはモデルを実行するための処理を端末上でコンパイルして調整する仕組みを備えており、特定の条件では「llama.cpp」と比べて最大約2倍の速度を記録しています。AppleシリコンやNVIDIA・AMD製GPUに加えてCPUのみのPCでも動作し、Pi、OpenCode、Hermes、CodexなどのAIエージェント用ツールと簡単に接続できます。 続きを読む... — GIGAZINE / score: 70 (AI推論エンジンのオープンソース新規公開)</description>
-</item>
-<item>
-<title>Introducing the Server Side Cloud Swift SDK</title>
-<link>https://cloud.google.com/blog/topics/developers-practitioners/introducing-the-server-side-cloud-swift-sdk/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/topics/developers-practitioners/introducing-the-server-side-cloud-swift-sdk/</guid>
-<pubDate>Thu, 01 Oct 2026 13:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>For years, Swift was perceived mainly as a UI language tied to Apple client devices. With the release of Swift 6 and strict concurrency checking, Swift has matured into a premier systems with cloud engineering language that matches Go and Rust in memory safety while running with predictable, reference-counted CPU performance. To support this ecosystem, Google engineering has launched the official Google Cloud API Client Libraries for Swift . Built from the ground up for Swift 6.2+, this new SDK  — Google Cloud Blog / score: 65 (Swiftのサーバーサイド展開に関するSDK発表)</description>
+<pubDate>Thu, 01 Oct 2026 13:09:44 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>AIエージェントでオープンモデルをローカル実行する際に、使用中のハードウェアに合わせて処理を自動調整するオープンソースの推論エンジン「Magnitude」が公開されています。Magnitudeはモデルを実行するための処理を端末上でコンパイルして調整する仕組みを備えており、特定の条件では「llama.cpp」と比べて最大約2倍... — はてなブックマーク テクノロジー / score: 70 (AI推論エンジンのオープンソース新規公開)</description>
 </item>
 <item>
 <title>Democratizing Managed Lustre with lower cost and frictionless development</title>
@@ -53,6 +141,14 @@
 <pubDate>Thu, 01 Oct 2026 13:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>This is the first of a two-part series exploring how Google Cloud is bringing the foundational values of a high-performance parallel filesystem–TB/s throughput, sub-ms latency at high client scale, and POSIX support–to a broader set of use cases and users. Historically, due to the cost and special purpose nature of parallel filesystems, colder data had to be stored outside of the filesystem and AI developers have had to maintain separate, slower environments for writing code, compiling libraries — Google Cloud Blog / score: 55 (Google Cloudの高性能ファイルシステム発表)</description>
+</item>
+<item>
+<title>Introducing the Server Side Cloud Swift SDK</title>
+<link>https://cloud.google.com/blog/topics/developers-practitioners/introducing-the-server-side-cloud-swift-sdk/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/developers-practitioners/introducing-the-server-side-cloud-swift-sdk/</guid>
+<pubDate>Thu, 01 Oct 2026 13:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>For years, Swift was perceived mainly as a UI language tied to Apple client devices. With Swift 6 and strict concurrency checking, it has matured into a viable systems and cloud language, pairing Rust-like data-race safety with predictable, reference-counted performance. To support this ecosystem, Google engineering has launched the official Google Cloud API Client Libraries for Swift . Built from the ground up for Swift 6.2+, this new SDK uses the latest non-blocking Swift NIO event loops, HTTP — Google Cloud Blog / score: 65 (Swiftのサーバーサイド展開に関するSDK発表)</description>
 </item>
 <item>
 <title>MetaのAIエージェント、勝手に自宅の住所を他人に教えてしまう</title>
@@ -223,6 +319,14 @@
 <description>ソニー・インタラクティブエンタテインメントは、PlayStationプラットフォームを彩る音楽コンテンツを対象にした「PlayStation Game Music大賞 2026」の開催が決定したと2026年10月1日に発表。 — ASCII.jp / score: 10 (ゲーム音楽の賞に関するエンタメニュース)</description>
 </item>
 <item>
+<title>全体像が知りたいんだよォー！そんな時は図解スキルeli5が便利</title>
+<link>https://eiji.page/blog/ai-skill-eli5-is-great</link>
+<guid isPermaLink="true">https://eiji.page/blog/ai-skill-eli5-is-great</guid>
+<pubDate>Thu, 01 Oct 2026 10:09:45 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>AIを使った開発によってスピードが上がっているのは実感するものの、それと引き換えに 自分がちゃんと理解できなくてふわっとした部分 が増えてきました。 そんなとき、自分の理解が合っているか音声入力でバーっと喋ってAIとやりとりします。 他の人が書いたコードの機能の概要・ロジックなんかも同じです。 ただ、複雑... — はてなブックマーク テクノロジー / score: 45 (AIを活用した図解化の便利な体験談)</description>
+</item>
+<item>
 <title>日本原子力機構に不正アクセス　研究者の個人情報が漏えい | NEWSjp</title>
 <link>https://news.jp/i/1478318653420880862</link>
 <guid isPermaLink="true">https://news.jp/i/1478318653420880862</guid>
@@ -279,6 +383,14 @@
 <description>コロプラは、Android／iOS／PC（DMM GAMES）でサービス中の『アリス・ギア・アイギス』にて、「めがねの日」を記念して、2026年10月1日より「アリスギア式視力検査」サイトを公開。 — ASCII.jp / score: 10 (ゲームのキャンペーン告知情報)</description>
 </item>
 <item>
+<title>オブザーバビリティのAIエージェントをどう評価するか</title>
+<link>https://zenn.dev/ymotongpoo/articles/20261001-agent-eval-loop</link>
+<guid isPermaLink="true">https://zenn.dev/ymotongpoo/articles/20261001-agent-eval-loop</guid>
+<pubDate>Thu, 01 Oct 2026 09:39:19 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>はじめに AIエージェントにオブザーバビリティの仕事をさせたとき、その最終応答の品質が上がったのか下がったのかを、どうやって知るのでしょうか。 エージェントの最終応答を読んで判断する方法は、早い段階で行き詰まります。正しい応答と、正しく見えるだけの応答が同じ見た目をしているからです。しかも同じ質問に... — はてなブックマーク テクノロジー / score: 60 (オブザーバビリティのAIエージェント評価論)</description>
+</item>
+<item>
 <title>これだけそろって21万1740円！ RTX 5060搭載PC＋モニター＋Logicool周辺機器のスターターセット</title>
 <link>https://ascii.jp/elem/000/004/438/4438580/?rss</link>
 <guid isPermaLink="true">https://ascii.jp/elem/000/004/438/4438580/?rss</guid>
@@ -333,6 +445,14 @@
 <pubDate>Thu, 01 Oct 2026 09:17:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米OpenAIは9月29日（現地時間）、開発者向けイベント「DevDay 2026」を開催した。「GPT-6.1 Sol」以外にも、20以上もの新機能が発表されている。 — 窓の杜 / score: 90 (OpenAI DevDayでの主要新機能発表)</description>
+</item>
+<item>
+<title>Explore It! を 地図にする</title>
+<link>https://speakerdeck.com/sadonosake/explore-it-o-chizu-ni-suru?slide=26</link>
+<guid isPermaLink="true">https://speakerdeck.com/sadonosake/explore-it-o-chizu-ni-suru?slide=26</guid>
+<pubDate>Thu, 01 Oct 2026 09:15:50 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Explore It! を 地図にする https://wingarc1st-spqi.connpass.com/event/404025/ — はてなブックマーク テクノロジー / score: 30 (イベント開催に関する告知情報)</description>
 </item>
 <item>
 <title>iPhone18向けA20の予想仕様が浮上〜A20 Proと詳細比較</title>
@@ -485,6 +605,14 @@
 <pubDate>Thu, 01 Oct 2026 08:40:00 +0000</pubDate>
 <category>ASCII.jp</category>
 <description>NOVABLADE PROは、高速なワイヤレス接続にも対応したレバーレスのアーケードコントローラーです！ — ASCII.jp / score: 35 (新型ゲーミングコントローラーの紹介)</description>
+</item>
+<item>
+<title>HotCell README: 信頼できない入力の処理を別コンテナに隔離するgem（翻訳）｜TechRacho by BPS株式会社</title>
+<link>https://techracho.bpsinc.jp/hachi8833/2026_10_01/160077</link>
+<guid isPermaLink="true">https://techracho.bpsinc.jp/hachi8833/2026_10_01/160077</guid>
+<pubDate>Thu, 01 Oct 2026 08:38:17 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>現在はこれらのgemをまとめて開発しているので、リポジトリは1個です。今後、Active Storage関連のgemを別のリポジトリに切り出す可能性もあります。 🔗 HotCellの構成要素 セル（cell） セルは「ホットサイド（hot side）」のデプロイ単位であり、「スーパバイザ」とそこからforkする1個以上の「ワーカー」、および「そ... — はてなブックマーク テクノロジー / score: 55 (セキュリティを高めるRubyの隔離gem解説)</description>
 </item>
 <item>
 <title>Personality、職種・業務・スキルをひとつにつないだ辞書「スキル大全」の提供を開始</title>
@@ -677,134 +805,6 @@
 <pubDate>Thu, 01 Oct 2026 06:30:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>セキュリティ企業のHuntressが、ChatGPTの「カスタムGPT」を悪用してユーザーをマルウェア感染につながるサイトへ誘導する攻撃を確認したと報告しました。攻撃者は正規の「chatgpt.com」上にあるカスタムGPTを本物のChatGPTモデルのように見せかけ、外部サイトへ誘導してユーザー自身に不正なコマンドを実行させていたとのことです。 続きを読む... — GIGAZINE / score: 85 (カスタムGPTを悪用したマルウェア誘導の注意喚起)</description>
-</item>
-<item>
-<title>Quoting Matthew Green</title>
-<link>https://simonwillison.net/2026/Oct/1/matthew-green/</link>
-<guid isPermaLink="true">https://simonwillison.net/2026/Oct/1/matthew-green/</guid>
-<pubDate>Thu, 01 Oct 2026 06:29:01 +0000</pubDate>
-<category>Simon Willison</category>
-<description>[...] Put these pieces together and you have the two halves of a worm: a payload that hijacks the agent, and an agent that will carry the payload to the next agent. Agents in separately-isolated sandboxes discovered that they could leave instructions for each other in a shared package cache, and those instructions changed what the recipients did. Replace the package cache with email, Slack and shared documents or WhatsApp, and replace independently-sandboxed training runs with independently-depl — Simon Willison / score: 60 (AIエージェントのセキュリティに関する考察)</description>
-</item>
-<item>
-<title>【10/2昼過ぎまで】大作映画やファンタジー映画のスコアリングを1つのプラットフォームで実現する、EastWest「Hollywood Orchestra Opus + Hollywood Fantasy Orchestra Bundle」が79%OFF！</title>
-<link>https://computermusic.jp/2026/10/eastwest-hollywood-orchestra-opus-fantasy-orchestra-bundle/</link>
-<guid isPermaLink="true">https://computermusic.jp/2026/10/eastwest-hollywood-orchestra-opus-fantasy-orchestra-bundle/</guid>
-<pubDate>Thu, 01 Oct 2026 06:26:32 +0000</pubDate>
-<category>Computer Music Japan</category>
-<description>大作映画やファンタジー映画のスコアリングを1つのプラットフォームで実現する、EastWest「Hollywood Orchestra Opus + Hollywood Fantasy Orchestra Bundle」が... The post 【10/2昼過ぎまで】大作映画やファンタジー映画のスコアリングを1つのプラットフォームで実現する、EastWest「Hollywood Orchestra Opus + Hollywood Fantasy Orchestra Bundle」が79%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 20 (音楽制作プラグインのセール情報)</description>
-</item>
-<item>
-<title>OpenAI、推論過程を狙った組織的な“蒸留”行為を阻止　「Kimi」開発元の関係者が関与と主張</title>
-<link>https://www.itmedia.co.jp/news/article/2610/01/2000001929/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/01/2000001929/</guid>
-<pubDate>Thu, 01 Oct 2026 06:16:55 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>米OpenAIは9月30日（現地時間）、同社のAIモデルから保護された推論過程を抜き出そうとする組織的な行為を特定し、阻止したと発表した。この行為は“敵対的蒸留”（あるモデルの出力や推論を無断かつ体系的に利用し、別のモデルの訓練や再現、性能向上に役立てること）に当たるとしている。活動の中核については、AIアシス... — はてなブックマーク テクノロジー / score: 75 (AIモデルの蒸留行為に関するセキュリティニュース)</description>
-</item>
-<item>
-<title>最先端AIモデルがリリース後にひそかに劣化しているかどうかを検出するためのベンチマーク「livenerf」</title>
-<link>https://gigazine.net/news/20261001-livenerf-benchmark-ai-capability-after-release/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261001-livenerf-benchmark-ai-capability-after-release/</guid>
-<pubDate>Thu, 01 Oct 2026 06:05:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>ひとたびリリースされたAIモデルの性能はずっと変わらないと思っている人もいるかもしれませんが、過去にはリリース後にAIモデルの性能が低下した事例がたびたび報告されています。そんなリリース後のAIモデルがひそかに劣化しているかどうかを検出するためのベンチマークが「livenerf」です。 続きを読む... — GIGAZINE / score: 60 (AIモデルの性能劣化を検出するベンチマークの紹介)</description>
-</item>
-<item>
-<title>吉野家HD、バイト応募者の個人情報5366件漏えい　元委託先に不正アクセス　契約終了もデータ残存</title>
-<link>https://www.itmedia.co.jp/news/article/2610/01/2000001928/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/01/2000001928/</guid>
-<pubDate>Thu, 01 Oct 2026 06:02:57 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>吉野家ホールディングス（HD）は9月30日、傘下の吉野家とはなまるの情報が漏えいしたと発表した。吉野家とはなまるが過去に採用業務を一部委託していた、ApplyNow（東京都渋谷区）の採用管理プラットフォームが第三者による不正アクセスを受けた。2社とApplyNowの契約は終了していたが、ApplyNowのデータベースに情報が... — はてなブックマーク テクノロジー / score: 85 (委託先を狙った不正アクセスによる情報漏えい)</description>
-</item>
-<item>
-<title>アダプタ不要の爆速起動で4K画質。新型Fire TV Stickの本命登場</title>
-<link>https://www.gizmodo.jp/article/2610-fire-tv-stick-4k-new-model/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2610-fire-tv-stick-4k-new-model/</guid>
-<pubDate>Thu, 01 Oct 2026 06:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>アダプタ不要でテレビのUSBポートから給電でき、爆速起動と4K画質に対応した新型Fire TV Stickの本命モデルが登場。配線もスッキリし、旧世代からの買い替えで体験が激変します。 — ギズモード・ジャパン / score: 20 (一般向けガジェットの新型デバイス紹介記事)</description>
-</item>
-<item>
-<title>“3.5秒よそ見”で運転者に警告　新規生産車に警報機の搭載を義務化へ　居眠り警告も　国交省</title>
-<link>https://www.itmedia.co.jp/news/article/2610/01/2000001921/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/01/2000001921/</guid>
-<pubDate>Thu, 01 Oct 2026 05:52:01 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>国土交通省は9月30日、新たに生産する自動車に対し、運転者の眠気や脇見を検知して警報する装置（ドライバーモニタリングシステム）の搭載を義務付けると発表した。新型車は2031年9月から、既存モデルを引き続き生産する「継続生産車」は33年9月から対象となる。 ドライバーモニタリングシステムは、カメラなどで運転者... — はてなブックマーク テクノロジー / score: 60 (自動車への安全装置義務化に関する法規制の動向)</description>
-</item>
-<item>
-<title>Samsung、「Galaxy S26」シリーズを最大3.5万円値上げ</title>
-<link>https://taisy0.com/2026/10/01/228235.html</link>
-<guid isPermaLink="true">https://taisy0.com/2026/10/01/228235.html</guid>
-<pubDate>Thu, 01 Oct 2026 05:41:31 +0000</pubDate>
-<category>気になる、記になる…</category>
-<description>本日、Samsungが、「Galaxy S26」シリーズの国内価格を値上げしました。 対象となったのは「Galaxy S26」「Galaxy S26+」「Galaxy S26 Ultra」の3製品。値上げの背景等は案内さ […] — 気になる、記になる… / score: 20 (スマートフォン端末の価格改定・値上げに関する話題)</description>
-</item>
-<item>
-<title>「Python」でセキュリティアップデート、「Critical」評価の脆弱性などを解決／v3.14.8、v3.13.16、v3.12.15が公開</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2144739.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2144739.html</guid>
-<pubDate>Thu, 01 Oct 2026 05:39:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>スクリプト言語「Python」の開発チームは9月30日、「3.14」「3.13」「3.12」系統の最新版をリリースした。いずれもセキュリティ修正を含むアップデートで、できるだけ早い適用が望ましい。 — 窓の杜 / score: 90 (Pythonのクリティカルなセキュリティ脆弱性修正)</description>
-</item>
-<item>
-<title>Slack、不正ワークスペース招待によるフィッシング増加を確認</title>
-<link>https://codezine.jp/article/detail/29870</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/29870</guid>
-<pubDate>Thu, 01 Oct 2026 05:30:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 75 (Slackを狙った不正招待によるフィッシング増加の注意喚起)</description>
-</item>
-<item>
-<title>Amazonの配達員向けスマートグラスは生成AIマッピング用に配送先の私有地でも静止画を撮影、2027年までに2万人以上の配達員が着用へ</title>
-<link>https://gigazine.net/news/20261001-amazon-smart-glasses-privacy/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261001-amazon-smart-glasses-privacy/</guid>
-<pubDate>Thu, 01 Oct 2026 05:27:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>Amazonが配達員向けに導入を進めるスマートグラスについて、配達中に周囲の画像を繰り返し撮影し、配送の改善に活用する仕組みが報じられました。同社は配送の迅速化や誤配の削減が目的だと説明しています。一方、住宅の敷地内や人の姿が写り込む可能性があり、撮影を断る選択肢や画像の管理方法が課題となっています。 続きを読む... — GIGAZINE / score: 65 (Amazonの配達員向けスマートグラスとプライバシーの話題)</description>
-</item>
-<item>
-<title>｢macOS｣でLaunchpadを再現する｢BuhoLaunchpad｣がメジャーアップデート ｰ アプリの削除機能追加やLiquid Glass対応改善など</title>
-<link>https://taisy0.com/2026/10/01/228232.html</link>
-<guid isPermaLink="true">https://taisy0.com/2026/10/01/228232.html</guid>
-<pubDate>Thu, 01 Oct 2026 05:22:23 +0000</pubDate>
-<category>気になる、記になる…</category>
-<description>当ブログでも紹介したことがある「macOS Tahoe 26」以降でLaunchpadを再現するランチャーアプリ「BuhoLaunchpad」がメジャーアップデートされ、最新版のバージョン2.0.0がリリースされました。 […] — 気になる、記になる… / score: 30 (macOS用ランチャーアプリのマイナーなメジャーアプデ)</description>
-</item>
-<item>
-<title>サムスン、ついにiPhoneユーザーにも手を差し伸べる。SmartTag3発表</title>
-<link>https://www.gizmodo.jp/article/2610-samsung-smarttag3/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2610-samsung-smarttag3/</guid>
-<pubDate>Thu, 01 Oct 2026 05:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>Samsungがトラッキングタグ第3世代となる新モデル「SmartTag3」を発表。デザインが刷新され、iOSに対応しました。ついにiOSに対応しました2023年リリースとなる前モデルGalaxy SmartTag2の後継機となるSmart… — ギズモード・ジャパン / score: 25 (トラッキングタグの新製品発表とiOS対応の話題)</description>
-</item>
-<item>
-<title>VRAM 32GBの「Intel Arc Pro B70」で「Hermes Agent」のローカルAIを実行、4ビット量子化したQwen3.8-27Bを動かしてみた</title>
-<link>https://gigazine.net/news/20261001-hermes-agent-arc-pro-b70/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261001-hermes-agent-arc-pro-b70/</guid>
-<pubDate>Thu, 01 Oct 2026 04:57:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>AIエージェント「Hermes Agent」は、ウェブ検索やブラウザ操作、コマンド実行などのツールをAIが自律的に使いながらタスクを進められるのが特徴です。これまでGIGAZINEでは、実際にHermes Agentをインストールして「GIGAZINEの記事を取得して要約する」といった作業を任せたり、ローカルAIモデルをHermes Agentの頭脳として動かしたりしてきました。 続きを読む... — GIGAZINE / score: 55 (ローカル環境でのAIエージェント実行検証レポート)</description>
-</item>
-<item>
-<title>GoogleがAIによる概要・AIモード・Geminiでのコンテンツ貢献度に応じてパブリッシャーに報酬を支払うテストを実施中、ただし「広告収益のわずか0.1％程度」という声も</title>
-<link>https://gigazine.net/news/20261001-google-paying-100-digital-publishers-ai-overviews/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261001-google-paying-100-digital-publishers-ai-overviews/</guid>
-<pubDate>Thu, 01 Oct 2026 04:41:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>AIの普及により、世界中の人々が検索エンジンの代わりにAIチャットボットを利用するようになってきました。これを受け、Googleは独自のAIチャットボットであるGeminiを提供するだけでなく、Google検索に「AIによる概要」や「AIモード」といったAI機能を組み込んでいます。そんなAI関連の検索機能でユーザーに情報を提示する際の情報源となってくれるメディアに対して、Googleは報酬を支払うテストをしていると報じられました。 続きを読む... — GIGAZINE / score: 65 (GoogleのAI検索におけるパブリッシャー向け報酬テスト)</description>
-</item>
-<item>
-<title>メモリメーカーのMicronが2026年第4四半期の決算発表、AIインフラの需要急増で爆発的に成長し売上高前年同期比379％増・純利益1078％増・データセンター部門売上高1000％増</title>
-<link>https://gigazine.net/news/20261001-micron-q4-2026/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261001-micron-q4-2026/</guid>
-<pubDate>Thu, 01 Oct 2026 04:41:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>アメリカで唯一AIに不可欠な高帯域幅メモリを製造するメーカーであるMicronは2026年9月30日に、2026年度第4四半期(2026年9月3日終了)および通期の決算を発表しました。決算によると前年同期比で約4.8倍、純利益は前年比で10倍近くまで跳ね上がっており、AI需要の高まりにより大きく成長しています。 続きを読む... — GIGAZINE / score: 70 (Micronの決算詳細とAIインフラ需要の急拡大データ)</description>
 </item>
 </channel>
 </rss>
