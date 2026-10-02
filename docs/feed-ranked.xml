@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 02 Oct 2026 02:18:03 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 04:11:19 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] September 2026 Security Release</title>
@@ -37,6 +37,14 @@
 <pubDate>Tue, 22 Sep 2026 18:00:00 +0000</pubDate>
 <category>Next.js Blog</category>
 <description>The September 22, 2026 out-of-band security update for Next.js is now available — Next.js Blog / score: 95 (Next.jsの重大な上流脆弱性に対する緊急セキュリティ修正。)</description>
+</item>
+<item>
+<title>[90] 610億円相当の仮想通貨が盗まれたBitgetハッキング事件、第三者製セキュリティ製品のゼロデイ脆弱性が侵入経路</title>
+<link>https://gigazine.net/news/20261002-bitget-security-incident/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261002-bitget-security-incident/</guid>
+<pubDate>Fri, 02 Oct 2026 03:52:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>仮想通貨取引所のBitgetから3億8750万ドル(約610億円)相当の仮想通貨が盗まれた事件について、攻撃者がBitgetで使われていた第三者製セキュリティ製品のゼロデイ脆弱(ぜいじゃく)性を侵入の足掛かりとしていたことが明らかになりました。 続きを読む... — GIGAZINE / score: 90 (ゼロデイ脆弱性を突かれ610億円相当が盗まれたハッキング事件)</description>
 </item>
 <item>
 <title>[90] OpenAI、「DevDay 2026」を開催 ～常時稼働エージェント「dots」や「ChatGPT Space」などを発表／ChatGPTにプラグイン拡張機能、「Codex」はクラウド対応、月額500米ドルの新プランも</title>
@@ -127,12 +135,28 @@
 <description>Next.js 16.3.6 and 15.5.26 are planned for a critical out-of-band security update on September 22, 2026. — Next.js Blog / score: 90 (重要度の高いフレームワークのセキュリティ更新)</description>
 </item>
 <item>
-<title>[85] 日本原子力研究開発機構で175人分の個人情報漏えい　マイナンバー含む6人分も</title>
-<link>https://ascii.jp/elem/000/004/439/4439447/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/439/4439447/?rss</guid>
-<pubDate>Fri, 02 Oct 2026 01:25:00 +0000</pubDate>
+<title>[85] 「OZmall」に不正アクセス、最大44万人の個人情報が閲覧された可能性　退会者も対象に</title>
+<link>https://ascii.jp/elem/000/004/439/4439488/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/439/4439488/?rss</guid>
+<pubDate>Fri, 02 Oct 2026 02:50:00 +0000</pubDate>
 <category>ASCII.jp</category>
-<description>日本原子力研究開発機構は10月1日、研究支援サイトへの不正アクセスで、利用者175人分の個人情報が漏えいしたと発表した。 — ASCII.jp / score: 85 (研究機関での不正アクセスによる個人情報漏えい事案)</description>
+<description>「OZmall」の不正アクセス問題で、個人情報が閲覧された可能性のある対象が最大44万2779人に上ることがわかった。 — ASCII.jp / score: 85 (大規模サービスにおける不正アクセスと個人情報漏洩)</description>
+</item>
+<item>
+<title>[85] 「LibreOffice」に7件の脆弱性、うち5件は「Claude」が発見／対策済みバージョンへの更新を</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2145033.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2145033.html</guid>
+<pubDate>Fri, 02 Oct 2026 02:45:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>The Document Foundationは9月21日（中央ヨーロッパ夏時間）、オフィスソフト「LibreOffice」に複数の脆弱性が見つかったことを公表した。細工されたドキュメントを開くことで、メモリの破損や情報の読み取りが引き起こされる可能性があるという。 — 窓の杜 / score: 85 (LibreOfficeの複数脆弱性と修正の通知)</description>
+</item>
+<item>
+<title>[85] ローソンの“ふり”ではなく本物のメールサーバーを悪用 不審メール約70万件を送信 | おたくま経済新聞</title>
+<link>https://otakuma.net/archives/2026100202.html</link>
+<guid isPermaLink="true">https://otakuma.net/archives/2026100202.html</guid>
+<pubDate>Fri, 02 Oct 2026 01:51:28 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>よくある「ローソンを騙った偽メール」とは、少し事情が違います。今回は、ローソンのメールサーバーそのものが第三者に不正利用されました。ローソンは10月1日、同社のメールサーバーが第三者に不正利用され、外部に不審な英文メールが送信されていたことを発表しました。送信件数は推計約70万件にのぼります。 Publish... — はてなブックマーク テクノロジー / score: 85 (ローソンのメールサーバー悪用による大規模不審メール送信)</description>
 </item>
 <item>
 <title>[85] GoogleがフロンティアAI「Gemini 4 Argon」を発表。Gemini派のみんな、お待たせ</title>
@@ -141,14 +165,6 @@
 <pubDate>Fri, 02 Oct 2026 01:00:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>GoogleがついにフロンティアAIをリリース、その名も「Gemini 4 Argon」。OpenAI・Anthropicと戦えそうな性能と、料金面のアドバンテージと見どころが多くなっています。 — ギズモード・ジャパン / score: 85 (Googleの新しいフロンティアAI発表)</description>
-</item>
-<item>
-<title>[85] 米国防総省の人材データベースに不正アクセス、300万人超の個人情報が閲覧された可能性　報道</title>
-<link>https://ascii.jp/elem/000/004/439/4439439/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/439/4439439/?rss</guid>
-<pubDate>Fri, 02 Oct 2026 00:55:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>米軍関係者の個人情報を扱う人事データベースで、300万人を超える記録が外部から閲覧された可能性が明らかになった。 — ASCII.jp / score: 85 (大規模な個人情報の不正アクセス事案)</description>
 </item>
 <item>
 <title>[85] ローソンのメールサーバが踏み台に、不審メール約70万件送信　件名「RE」など</title>
@@ -178,9 +194,9 @@
 <title>[85] OpenAIはテストの監視が不十分であるという社内警告を繰り返し無視して追加のセキュリティ対策をせず迅速なリリースを優先していた</title>
 <link>https://gigazine.net/news/20261001-openai-ignored-warnings/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261001-openai-ignored-warnings/</guid>
-<pubDate>Thu, 01 Oct 2026 14:01:59 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>OpenAIではAIエージェントが社内テスト中に誤ってHugging Faceをハッキングしてしまった事例など、複数のインシデントが発生しています。OpenAIのAIモデルが暴走を始める数か月前に、従業員が経営幹部に警告を送っていたものの、経営幹部はその警告を無視していたことが社内メールから明らかになりました。 OpenAI Ignor... — はてなブックマーク テクノロジー / score: 85 (OpenAIの安全性軽視に関する重大な内部告発)</description>
+<pubDate>Thu, 01 Oct 2026 14:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>OpenAIではAIエージェントが社内テスト中に誤ってHugging Faceをハッキングしてしまった事例など、複数のインシデントが発生しています。OpenAIのAIモデルが暴走を始める数か月前に、従業員が経営幹部に警告を送っていたものの、経営幹部はその警告を無視していたことが社内メールから明らかになりました。 続きを読む... — GIGAZINE / score: 85 (OpenAIの安全性軽視に関する重大な内部告発)</description>
 </item>
 <item>
 <title>[85] ChatGPTの「カスタムGPT」を悪用してマルウェア感染へ誘導する攻撃、正規のChatGPTページを入口に利用</title>
@@ -450,9 +466,9 @@
 <title>[80] Google、新フロンティアモデル「Gemini 4 Argon」を発表 ～まずはサイバー防衛担当者向けに提供／「GPT-6 Astra」や「Claude Fable 5.1」「Claude Opus 5.5」に匹敵・凌駕する性能</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2144700.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2144700.html</guid>
-<pubDate>Thu, 01 Oct 2026 01:09:23 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Google、新フロンティアモデル「Gemini 4 Argon」を発表 ～まずはサイバー防衛担当者向けに提供／「GPT-6 Astra」や「Claude Fable 5.1」「Claude Opus 5.5」に匹敵・凌駕する性能 — はてなブックマーク テクノロジー / score: 80 (Googleの新AIモデルGemini 4 Argon発表)</description>
+<pubDate>Thu, 01 Oct 2026 00:47:54 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Googleは9月30日（現地時間、以下同）、新しいフロンティアモデル「Gemini 4 Argon」を発表した。複雑で長期にわたるワークフローで深い推論を持続できるよう設計されており、実世界のソフトウェアエンジニアリング、法務や財務といった企業のナレッジワーク、サイバーセキュリティ防衛を主な得意分野に挙げている。 — 窓の杜 / score: 80 (Googleの新AIモデルGemini 4 Argon発表)</description>
 </item>
 <item>
 <title>[80] Spanner Omni, now GA: A distributed, multi-model database that you can deploy anywhere</title>
@@ -567,20 +583,28 @@
 <description>Today, AWS announces the general availability of GPT-6 Sol and GPT-6 Luna from OpenAI on Amazon Bedrock. Expanding the GPT-6 family alongside Astra, these two models give teams more ways to balance intelligence, speed, and cost across every workload. Sol is the daily model for recurring complex tasks and software development. On an internal OpenAI factuality evaluation, it makes roughly half as many mistakes as GPT-5.6 Sol. Luna is the family's most efficient model for focused, high-volume tasks — AWS What's New / score: 80 (主要クラウドでの新AIモデルの一般提供開始)</description>
 </item>
 <item>
-<title>[80] Claude Opus 5.5 is now available on AWS</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/09/claude-opus-5-5-aws/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/claude-opus-5-5-aws/</guid>
-<pubDate>Tue, 22 Sep 2026 15:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>AWS now offers Claude Opus 5.5, Anthropic’s most capable Opus model yet and, the first of the Claude 5.5 model family, a better collaborator that handles long-running coding and knowledge work, reporting back clearly on what it did, what it found, and what it needs next. According to Anthropic, Claude Opus 5.5 completes tasks using fewer tokens than Claude Opus 5, at a lower price per token, with cheaper cache reads stacking on top of the efficiency gain. Claude Opus 5.5 is the enterprise workho — AWS What's New / score: 80 (AWSでのAnthropic製最新モデルClaude Opus 5.5提供。)</description>
-</item>
-<item>
 <title>[80] Parallel cut research time and cost in half with GPT‑6 Astra</title>
 <link>https://openai.com/index/parallel-cuts-time-and-cost-with-astra</link>
 <guid isPermaLink="true">https://openai.com/index/parallel-cuts-time-and-cost-with-astra</guid>
 <pubDate>Tue, 22 Sep 2026 12:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models. — OpenAI News / score: 80 (最新GPTモデルの性能向上とコスト削減)</description>
+</item>
+<item>
+<title>[75] MicronのCEOがメモリ不足が2028年かそれ以降も続く可能性があると警告、「顧客は今年支払った価格よりも『はるかに高い価格』を支払うことになるだろう」</title>
+<link>https://gigazine.net/news/20261002-micron-ceo-ram-supply/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261002-micron-ceo-ram-supply/</guid>
+<pubDate>Fri, 02 Oct 2026 03:48:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>メモリメーカーのMicronが、メモリとストレージの供給不足は2027年と2028年にさらに深刻化するとの見通しを示しました。サンジェイ・メロートラCEOは需要と供給が均衡する時期を見通せないと説明し、不足が2028年以降も続く可能性を示唆しています。また、2027年向けの高帯域幅メモリ(HBM)について、顧客が2026年よりも大幅に高い価格を支払う契約を結んでいることを明らかにしました。 続きを読む... — GIGAZINE / score: 75 (Micronによるメモリ不足の継続と価格高騰の警告)</description>
+</item>
+<item>
+<title>[75] GuardDuty Runtime Monitoring is now included in the AWS Security Hub Threat Analytics plan</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/aws-security-hub-runtime-monitoring/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/aws-security-hub-runtime-monitoring/</guid>
+<pubDate>Fri, 02 Oct 2026 03:35:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Today, AWS announces that Amazon GuardDuty Runtime Monitoring is now included in the AWS Security Hub Threat Analytics plan. Runtime Monitoring inspects operating system, network, and file activity to surface threats such as container escapes, privilege escalation, and cryptomining on Amazon EC2 instances, Amazon EKS clusters, and Amazon ECS tasks on AWS Fargate. Security Hub now bills this coverage through streamlined pricing. If you have Security Hub enabled in an account and region, you no lo — AWS What's New / score: 75 (AWSセキュリティ監視機能の統合アップデート)</description>
 </item>
 <item>
 <title>[75] 画像生成AI「FLUX 3 Image」が登場、「最大4K生成」「被写体の位置指定」「一部分のみ編集」など高機能でオープンモデル版も数週間後に登場予定</title>
@@ -591,12 +615,12 @@
 <description>AI企業のBlack Forest Labsが画像生成AI「FLUX 3 Image」をリリースしました。「最大4Kの画像生成」「画像内の物体の位置を指定」「特定の箇所のみ編集」「最大10枚の参照画像入力」といった機能を備えています。 続きを読む... — GIGAZINE / score: 75 (高性能な新型画像生成AI「FLUX 3 Image」のリリース)</description>
 </item>
 <item>
-<title>[75] ローソンからの不審メール70万件　受信しても返信しない、開かない</title>
-<link>https://ascii.jp/elem/000/004/439/4439438/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/439/4439438/?rss</guid>
-<pubDate>Fri, 02 Oct 2026 00:45:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>ローソンは10月1日、同社のメールサーバーが第三者に不正利用され、9月25日午後から27日夕方まで英文メールが送信されていたと発表した。送信件数は約70万件。 — ASCII.jp / score: 75 (メールサーバー不正利用と大量送信)</description>
+<title>[75] PS5の超解像技術「QSSR」発表、いきなり『ゴースト・オブ・ヨウテイ』『マーベル ウルヴァリン』に実装。PS5 Proじゃなく“通常版PS5”向けの、新たなAI高画質化 - AUTOMATON</title>
+<link>https://automaton-media.com/articles/newsjp/20261002-471310/</link>
+<guid isPermaLink="true">https://automaton-media.com/articles/newsjp/20261002-471310/</guid>
+<pubDate>Thu, 01 Oct 2026 23:26:40 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>PS5の超解像技術「QSSR」発表、いきなり『ゴースト・オブ・ヨウテイ』『マーベル ウルヴァリン』に実装。PS5 Proじゃなく“通常版PS5”向けの、新たなAI高画質化 ソニー・インタラクティブエンタテインメントは10月2日、通常版PS5に向けた新技術「クイックスペクトルスーパーレゾリューション（QSSR）」を発表した。 ソニ... — はてなブックマーク テクノロジー / score: 75 (通常版PS5向けの新しいAI超解像技術QSSRの発表)</description>
 </item>
 <item>
 <title>[75] AWS Well-Architected Agent is now available in preview</title>
@@ -620,7 +644,7 @@
 <guid isPermaLink="true">https://www.gizmodo.jp/article/2610-inmo-air-3-recall/</guid>
 <pubDate>Thu, 01 Oct 2026 12:00:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
-<description>スマートグラスInmo Air 3。操作用の指輪が同梱されていることと、フルカラーディスプレイが特徴のスマートグラスです。装着感と指輪の操作性の悪さで酷評レビューしていましたが、米国消費者製品安全委員会からリコールがでています。問題はオーバ… — ギズモード・ジャパン / score: 75 (スマートグラスのリコール情報で安全上の重要度が高い)</description>
+<description>中国製スマートグラス「Inmo Air 3」がオーバーヒートの危険性でリコール。重傷や死亡リスクが指摘されており、米国消費者製品安全委員会が使用中止とメーカーへの連絡を呼びかけています。 — ギズモード・ジャパン / score: 75 (スマートグラスのリコール情報で安全上の重要度が高い)</description>
 </item>
 <item>
 <title>[75] 「この勢いは驚き」タイムズカー情報流出で「集団訴訟」呼びかけ、わずか1日で参加希望2000人超 - 弁護士ドットコムニュース</title>
@@ -703,14 +727,6 @@
 <description> — Yahoo!ニュース IT / score: 75 (企業における個人情報漏えい事案)</description>
 </item>
 <item>
-<title>[75] Cloudflare、耐量子のマークルツリー証明書に対応するパブリック認証局の設立を発表</title>
-<link>https://codezine.jp/article/detail/29871</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/29871</guid>
-<pubDate>Wed, 30 Sep 2026 07:30:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 75 (耐量子暗号対応の認証局設立)</description>
-</item>
-<item>
 <title>[75] OpenAI、月額200米ドルの「ChatGPT Pro」新規受け付けを再開。月額500米ドル版も追加／使用量計算の変更、プラン間の倍率の見直しも</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2144294.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2144294.html</guid>
@@ -789,22 +805,6 @@
 <pubDate>Mon, 28 Sep 2026 18:15:05 +0000</pubDate>
 <category>iPhone Mania</category>
 <description>まもなくリリースされるとしていたiPhone向けソフトウェアアップデート「iOS27.0.1」が配信開始しました。本アップデートは、iOS27で発生していた重要なバグや不具合の修正を目的としたマイナーアップデートです。 […] — iPhone Mania / score: 75 (iOSの重要不具合修正を目的としたセキュリティアップデート)</description>
-</item>
-<item>
-<title>[75] AWS、AIエージェントを自作できるツール「Strandsハーネス」をオープンソースで公開。特定のLLMに依存せず入れ替え可能、任意のコンテナ環境にデプロイ</title>
-<link>https://www.publickey1.jp/blog/26/awsaistrandsllm.html</link>
-<guid isPermaLink="true">https://www.publickey1.jp/blog/26/awsaistrandsllm.html</guid>
-<pubDate>Mon, 28 Sep 2026 15:01:25 +0000</pubDate>
-<category>Publickey</category>
-<description>Amazon Web Services（AWS）は、GPTやClaude、Gemini、Ollamaなど主要なLLMやLLMランタイムを基にした高性能なAIエージェントを簡単に自作できるツール「Strandsハーネス」をオープンソースで公開... — Publickey / score: 75 (主要なLLM対応AIエージェントOSS公開のため)</description>
-</item>
-<item>
-<title>[75] Claude Sonnet 5.5 now available on AWS</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/09/claude-sonnet-5-5-aws/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/claude-sonnet-5-5-aws/</guid>
-<pubDate>Mon, 28 Sep 2026 15:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>AWS now offers Claude Sonnet 5.5, a smarter and more efficient Sonnet that delivers a clear leap forward on coding and knowledge work with at a lower cost per task for most work at faster speed. Claude Sonnet 5.5 is a smarter, more efficient Sonnet and a step up from Sonnet 5, making it a natural upgrade for teams already building on Sonnet. It's stronger for coding, completing well-scoped tasks as part of a larger coding strategy such as building and fixing features with Claude in the same sess — AWS What's New / score: 75 (AWSでの有力な新AIモデルClaude Sonnet 5.5提供開始)</description>
 </item>
 </channel>
 </rss>
