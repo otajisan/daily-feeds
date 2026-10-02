@@ -4,8 +4,24 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 02 Oct 2026 18:13:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 20:10:26 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>AI21 achieves an 83% reduction in time-to-start for AI workloads with AI Hypercomputer</title>
+<link>https://cloud.google.com/blog/products/containers-kubernetes/ai21-trains-its-models-on-ai-hypercomputer/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/containers-kubernetes/ai21-trains-its-models-on-ai-hypercomputer/</guid>
+<pubDate>Fri, 02 Oct 2026 19:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Editor’s note : AI21 Labs is a leading global AI lab with a long track record of building foundation models, most notably the Jamba family, and today focuses on specialized LLMs and agent optimization technology. By adopting Google Cloud AI Hypercomputer, AI21 cut high-priority job wait times from 72 hours to 12 and manual scheduling interventions from 20 per week to zero. At AI21 , we build foundation models and agent optimization products that help enterprises run agents at frontier quality, e — Google Cloud Blog / score: 60 (AIワークロードの起動時間の大幅な短縮事例)</description>
+</item>
+<item>
+<title>AWS Health introduces the version catalog for software lifecycle management</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/aws-health-introduces-version-catalog-software-lifecycle-management</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/aws-health-introduces-version-catalog-software-lifecycle-management</guid>
+<pubDate>Fri, 02 Oct 2026 18:09:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Today, AWS Health introduces the version catalog which provides a centralized source of lifecycle information for software versions across AWS services. The version catalog helps customers move from reactive to proactive management of version upgrades and end-of-support risk. It is available in the AWS Health Dashboard, and customers on Business Support Plus, Enterprise Support, or Unified Operations can use the AWS Health API to integrate lifecycle data into their operational workflows. Custome — AWS What's New / score: 45 (AWSサービスのライフサイクル管理機能の追加)</description>
+</item>
 <item>
 <title>Amazon EKS and Amazon EKS Distro now support Kubernetes version 1.37</title>
 <link>https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-eks-distro-kubernetes-version-1-37</link>
@@ -20,7 +36,7 @@
 <guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/aws-brazil-software-license-distribution/</guid>
 <pubDate>Fri, 02 Oct 2026 16:30:00 +0000</pubDate>
 <category>AWS What's New</category>
-<description>AWS Brazil now provides an automated distribution workflow through the AWS Brazil 2P Distribution Program that enables eligible non-Brazilian independent software vendors (ISVs) to distribute their Software-as-a-Service (SaaS) product licenses to customers in Brazil. AWS Brazil is the seller of record, acquiring the rights to distribute SaaS product licenses to Brazilian customers and invoicing them in Brazilian Reais (BRL) with applicable Brazilian taxes. The distribution authorizations, seller — AWS What's New / score: 40 (AWSブラジルにおけるソフトウェアライセンス自動化)</description>
+<description>AWS Brazil now provides an automated distribution workflow through the AWS Brazil 2P Distribution Program. Eligible non-Brazilian independent software vendors (ISVs) grant AWS Brazil the right to distribute their Software-as-a-Service (SaaS) product licenses, and AWS Brazil distributes them to customers in Brazil. AWS Brazil is the seller of record, invoicing Brazilian customers in Brazilian Reais (BRL) with applicable Brazilian taxes. The distribution authorizations, seller disbursements, withh — AWS What's New / score: 40 (AWSブラジルにおけるソフトウェアライセンス自動化)</description>
 </item>
 <item>
 <title>A model guide for the GPT-6 family</title>
@@ -29,6 +45,14 @@
 <pubDate>Fri, 02 Oct 2026 16:15:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production. — OpenAI News / score: 85 (次世代GPT-6ファミリーのモデル選択・活用ガイド)</description>
+</item>
+<item>
+<title>What’s new with Google Cloud</title>
+<link>https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/</guid>
+<pubDate>Fri, 02 Oct 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block &lt;ListValue: []&gt; Sept 28 - Oct 2 Mastering Storage Management with Storage Intelligence In our new blog, explore practical strategies to mo — Google Cloud Blog / score: 20 (Google Cloudの一般的な更新情報まとめ)</description>
 </item>
 <item>
 <title>Announcing Spanner queues: Transactional messaging for agentic workloads and beyond</title>
@@ -45,14 +69,6 @@
 <pubDate>Fri, 02 Oct 2026 16:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>Whether you’re launching microservices in response to sudden traffic spikes, deploying new software releases, or scaling up application replicas, pod startup time is critical to maintaining a fast, responsive user experience for applications running on Google Kubernetes Engine (GKE). Yet, platform engineers and developers face a persistent dilemma: Applications often demand significantly more CPU power during startup than they do during steady-state operations. Sizing CPU requests for normal, st — Google Cloud Blog / score: 65 (GKEにおけるPod起動時間の高速化機能)</description>
-</item>
-<item>
-<title>What’s new with Google Cloud</title>
-<link>https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/</guid>
-<pubDate>Fri, 02 Oct 2026 16:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block &lt;ListValue: []&gt; Sept 28 - Oct 2 Mastering Storage Management with Storage Intelligence In our new blog, explore practical strategies to mo — Google Cloud Blog / score: 20 (Google Cloudの一般的な更新情報まとめ)</description>
 </item>
 <item>
 <title>Open-sourcing AstaBrief, the fast report-generation model in Asta</title>
@@ -183,14 +199,6 @@
 <description>税金の電子申告や納税ができる国税庁のシステム「e－Tax」で、贈与税の申告内容が本人以外からも閲覧される状態になる不具合があったとして、国税庁は謝罪しました。 国税庁によりますと、e－Taxのシス… — はてなブックマーク テクノロジー / score: 85 (e-Taxのシステム不具合と情報閲覧問題)</description>
 </item>
 <item>
-<title>コンサートテクニシャンの巨匠、ミシェル・ペドノーが丹念に手入れを施したドイツ・ハンブルグ製スタインウェイD-274をサンプリングした、Synthogy「Ivory 3 German D」が17%OFF！</title>
-<link>https://computermusic.jp/2026/10/synthogy-ivory-3-german-d/</link>
-<guid isPermaLink="true">https://computermusic.jp/2026/10/synthogy-ivory-3-german-d/</guid>
-<pubDate>Fri, 02 Oct 2026 12:16:12 +0000</pubDate>
-<category>Computer Music Japan</category>
-<description>コンサートテクニシャンの巨匠、ミシェル・ペドノーが丹念に手入れを施したドイツ・ハンブルグ製スタインウェイD-274をサンプリングした、Synthogy「Ivory 3 German D」が17%OFFとなっています。 S... The post コンサートテクニシャンの巨匠、ミシェル・ペドノーが丹念に手入れを施したドイツ・ハンブルグ製スタインウェイD-274をサンプリングした、Synthogy「Ivory 3 German D」が17%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 15 (音楽制作用プラグインのセール情報のため)</description>
-</item>
-<item>
 <title>普通のメガネなのに網膜投影　TDKがレンズに埋め込める透明ミラー</title>
 <link>https://www.watch.impress.co.jp/docs/news/2145266.html</link>
 <guid isPermaLink="true">https://www.watch.impress.co.jp/docs/news/2145266.html</guid>
@@ -237,22 +245,6 @@
 <pubDate>Fri, 02 Oct 2026 12:00:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>盤面が剥き出しになるスタイリッシュなFosi AudioのCDプレーヤー「DISC Nano」をご紹介。高音質DACやMagSafe対応など、オーディオファン注目のスペックを解説します。 — ギズモード・ジャパン / score: 25 (個性的なデザインのオーディオ機器の紹介)</description>
-</item>
-<item>
-<title>4つのプラグインと7つのD-Fusedサウンド・パックを収録した、Audio Plugin Deals 「OCTOBER MEGA BUNDLE」が98%OFF！</title>
-<link>https://computermusic.jp/2026/10/audio-plugin-deals-october-mega-bundle/</link>
-<guid isPermaLink="true">https://computermusic.jp/2026/10/audio-plugin-deals-october-mega-bundle/</guid>
-<pubDate>Fri, 02 Oct 2026 11:51:02 +0000</pubDate>
-<category>Computer Music Japan</category>
-<description>4つのプラグインと7つのD-Fusedサウンド・パックを収録した、Audio Plugin Deals 「OCTOBER MEGA BUNDLE」が98%OFFとなっています。 OCTOBER MEGA BUNDLE プ... The post 4つのプラグインと7つのD-Fusedサウンド・パックを収録した、Audio Plugin Deals 「OCTOBER MEGA BUNDLE」が98%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 30 (音楽制作プラグインバンドルのセール情報)</description>
-</item>
-<item>
-<title>【10/3夕方まで】AIによるプリセット生成機能搭載！豊かなサウンドメイキングを実現するシンセサイザー、Reveal Sound「Spire」が60%OFF！</title>
-<link>https://computermusic.jp/2026/10/reveal-sound-spire-sale/</link>
-<guid isPermaLink="true">https://computermusic.jp/2026/10/reveal-sound-spire-sale/</guid>
-<pubDate>Fri, 02 Oct 2026 11:49:08 +0000</pubDate>
-<category>Computer Music Japan</category>
-<description>AIによるプリセット生成機能搭載！豊かなサウンドメイキングを実現するシンセサイザー、Reveal Sound「Spire」が60%OFFとなっています。 Spire Spireは、ポップなPluckサウンドから、パワフル... The post 【10/3夕方まで】AIによるプリセット生成機能搭載！豊かなサウンドメイキングを実現するシンセサイザー、Reveal Sound「Spire」が60%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 35 (AIプリセット生成機能を持つシンセサイザーのセール)</description>
 </item>
 <item>
 <title>無料メールアプリ「Thunderbird for iOS」の詳細がついに判明、iPhone・iPad向けにアカウント自動設定やバックグラウンド同期を開発中で数カ月以内のコミュニティテストを目指す</title>
@@ -783,6 +775,14 @@
 <description> — CodeZine / score: 65 (AWSがMCPサーバー向けAIエージェント機能を提供開始)</description>
 </item>
 <item>
+<title>Amazon ElastiCache for Valkey now supports OpenTelemetry metrics and detailed monitoring</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-elasticache-valkey-opentelemetry-metrics-detailed-monitoring</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-elasticache-valkey-opentelemetry-metrics-detailed-monitoring</guid>
+<pubDate>Fri, 02 Oct 2026 07:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon ElastiCache for Valkey now publishes OpenTelemetry metrics to Amazon CloudWatch for your node-based clusters, and each metric carries attributes you can filter and aggregate on with Prometheus Query Language (PromQL) expressions. ElastiCache now offers two monitoring modes. Standard monitoring, the existing experience, continues to publish CloudWatch Metrics (Classic) every 60 seconds and now also publishes a core set of OpenTelemetry metrics at the same interval at no additional charge.  — AWS What's New / score: 50 (Valkeyのモニタリング機能強化とオブザーバビリティ向上)</description>
+</item>
+<item>
 <title>How to implement long-term AI agent memory in AlloyDB and Memorystore for Valkey</title>
 <link>https://cloud.google.com/blog/products/databases/implementing-long-term-ai-agent-memory-in-alloydb-and-memorystore/</link>
 <guid isPermaLink="true">https://cloud.google.com/blog/products/databases/implementing-long-term-ai-agent-memory-in-alloydb-and-memorystore/</guid>
@@ -791,20 +791,20 @@
 <description>Enterprise AI agents need persistent memory to execute complex, multi-day workflows and long-horizon tasks. In this blog, we examine how a 2-tier memory architecture using Memorystore for Valkey for short-term buffer memory and AlloyDB AI for long-term persistent memory can help reduce token spend by up to 70%, while maintaining critical data and enterprise guardrails. Imagine building a personalized travel agent designed to help users book vacations. The user interacts with the agent many times — Google Cloud Blog / score: 70 (AIエージェント向け長期記憶の実装手法の解説)</description>
 </item>
 <item>
+<title>October 02, 2026</title>
+<link>https://docs.cloud.google.com/release-notes#October_02_2026</link>
+<guid isPermaLink="true">https://docs.cloud.google.com/release-notes#October_02_2026</guid>
+<pubDate>Fri, 02 Oct 2026 07:00:00 +0000</pubDate>
+<category>Google Cloud リリースノート</category>
+<description>BigQuery Feature The Rust SDK for BigQuery is now generally available (GA). Feature The Data Engineering Agent now supports the gemini-3.7-flash model for the us , eu , and global multi-regional endpoints. Cloud NAT Feature General Availability : Cloud NAT gateways for Private NAT support IPv6 to IPv4 network address translation. For more information, see NAT64 in Private NAT . Google Kubernetes Engine Feature You can use Vertical Pod Autoscaler (VPA) with Horizontal Pod Autoscaler (HPA) to auto — Google Cloud リリースノート / score: 35 (Apigee Xのマイナーアップデート情報)</description>
+</item>
+<item>
 <title>フォンテインズD.C.が、最新アルバム『Dopamine Chamber』を引っ提げ2027年1月に東名阪ツアーを開催！</title>
 <link>https://guitarmagazine.jp/news/2026-1002-fontaines-dc/</link>
 <guid isPermaLink="true">https://guitarmagazine.jp/news/2026-1002-fontaines-dc/</guid>
 <pubDate>Fri, 02 Oct 2026 07:00:00 +0000</pubDate>
 <category>ギター・マガジンWEB</category>
 <description>フォンテインズD.C.が、2027年1月に来日公演を行なうことが発表された。1月28日（木）に東京、1月29日（金）に名古屋、1月31日（日）に大阪にて、全3公演を開催予定だ。 — ギター・マガジンWEB / score: 5 (音楽アーティストのライブ情報であり技術ニュースではない)</description>
-</item>
-<item>
-<title>タスクバーに居座っていた「Microsoft 365」コンパニオンアプリ、12月16日までに廃止へ／カレンダー、People、ファイルの3種</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2145038.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2145038.html</guid>
-<pubDate>Fri, 02 Oct 2026 06:55:19 +0000</pubDate>
-<category>窓の杜</category>
-<description>「Microsoft 365」のコンパニオンアプリが、米国時間2026年12月16日に廃止されるとのこと。以下の3つのアプリの提供が終了する。 — 窓の杜 / score: 50 (Microsoft 365コンパニオンアプリの廃止予定)</description>
 </item>
 </channel>
 </rss>
