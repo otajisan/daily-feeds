@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 02 Oct 2026 14:10:28 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 16:09:51 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] GitHubにうっかり公開された認証情報54万件以上が有効なまま放置されていることが判明</title>
@@ -149,6 +149,14 @@
 <pubDate>Tue, 22 Sep 2026 15:00:00 +0000</pubDate>
 <category>Next.js Blog</category>
 <description>Next.js 16.3.6 and 15.5.26 are planned for a critical out-of-band security update on September 22, 2026. — Next.js Blog / score: 90 (重要度の高いフレームワークのセキュリティ更新)</description>
+</item>
+<item>
+<title>[85] 第一ライフG 従業員情報漏えいか</title>
+<link>https://news.yahoo.co.jp/pickup/6597333?source=rss</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6597333?source=rss</guid>
+<pubDate>Fri, 02 Oct 2026 14:44:23 +0000</pubDate>
+<category>Yahoo!ニュース IT</category>
+<description> — Yahoo!ニュース IT / score: 85 (企業における従業員情報の深刻な情報漏えい疑惑)</description>
 </item>
 <item>
 <title>[85] 「ｅ－Ｔａｘ」で不具合　贈与税申告内容が閲覧される状態に | NHKニュース</title>
@@ -327,14 +335,6 @@
 <description> — Yahoo!ニュース IT / score: 85 (大規模な個人情報流出に関する主要ニュース)</description>
 </item>
 <item>
-<title>[85] イープラス 個人情報1463件漏えい</title>
-<link>https://news.yahoo.co.jp/pickup/6596987?source=rss</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6596987?source=rss</guid>
-<pubDate>Tue, 29 Sep 2026 11:52:41 +0000</pubDate>
-<category>Yahoo!ニュース IT</category>
-<description> — Yahoo!ニュース IT / score: 85 (企業による個人情報漏洩インシデント)</description>
-</item>
-<item>
 <title>[85] Introducing GPT-6.1 Sol</title>
 <link>https://openai.com/index/introducing-gpt-6-1-sol</link>
 <guid isPermaLink="true">https://openai.com/index/introducing-gpt-6-1-sol</guid>
@@ -437,14 +437,6 @@
 <pubDate>Fri, 02 Oct 2026 10:33:09 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>パーク24が運営するカーシェアサービス「タイムズカー」のシステムが不正アクセスを受け、およそ660万アカウントの個人情報が漏洩した。約160万件には運転免許証や学生証の画像など本人確認書類の情報が含まれる。悪用されるリスクが高い個人情報を大量に抱えながら、あまりにずさんな管理だったと言わざるを得ない。サ... — はてなブックマーク テクノロジー / score: 80 (タイムズカー情報漏えいに関するずさんな管理の社説)</description>
-</item>
-<item>
-<title>[80] ニッポンレンタカーで別の不正アクセス発覚　新たに55人分情報漏えいか　免許証番号やクレカ4ケタも</title>
-<link>https://www.itmedia.co.jp/news/article/2610/02/2000001952/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/02/2000001952/</guid>
-<pubDate>Fri, 02 Oct 2026 03:44:08 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>ニッポンレンタカーは10月1日、「ニッポンレンタカーアプリ」のシステムに、前回発表した件とは別手法の不正アクセスがあり、会員55人の個人情報を第三者が閲覧したおそれがあると発表した。 9月26日に公表した前回の事案では、41人の会員の情報が閲覧されたおそれが発覚していた。その事案を調査する過程で、別手法によ... — はてなブックマーク テクノロジー / score: 80 (ニッポンレンタカーでの新たな不正アクセスと情報漏えい)</description>
 </item>
 <item>
 <title>[80] 「Oracle JDK 21」は無償の「NFTC」ライセンスの対象外に、10月「CPU」以降で／「Oracle JDK」を無償で商用運用したいなら「Oracle JDK 25」への移行を</title>
@@ -583,6 +575,22 @@
 <description>GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models. — OpenAI News / score: 80 (最新GPTモデルの性能向上とコスト削減)</description>
 </item>
 <item>
+<title>[75] Announcing Spanner queues: Transactional messaging for agentic workloads and beyond</title>
+<link>https://cloud.google.com/blog/products/databases/spanner-queues-provide-native-transactional-messaging/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/databases/spanner-queues-provide-native-transactional-messaging/</guid>
+<pubDate>Fri, 02 Oct 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>AI agents don't just answer queries — they can autonomously issue refunds, manage inventory, execute multi-step handoffs, and orchestrate sub-agents, to name but a few complex agentic workflows. That frequently requires the agents to maintain internal state in an operational database while dispatching asynchronous actions through a separate messaging or event queue system. And unfortunately for the teams building these applications, managing two systems with disjointed commit points destroys tra — Google Cloud Blog / score: 75 (エージェント向けトランザクションメッセージング機能)</description>
+</item>
+<item>
+<title>[75] Claude Codeが拡張機能「mod」対応、UIや動作をカスタマイズ。Claude書かせて作成も | テクノエッジ TechnoEdge</title>
+<link>https://www.techno-edge.net/article/2026/10/02/5550.html</link>
+<guid isPermaLink="true">https://www.techno-edge.net/article/2026/10/02/5550.html</guid>
+<pubDate>Fri, 02 Oct 2026 11:02:36 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Anthropicが、AIコーディングツール「Claude Code」の外観や動作をユーザーの好みで拡張できる新機能「mod」を公開しました。 CLI版とデスクトップアプリで、Claude Code v2.1.287以降ならば設定不要で使えます。 ■ プロンプトもツール呼び出しも画面も書き換え可能modでできることの例として挙げられたのは、 ・Blast R... — はてなブックマーク テクノロジー / score: 75 (Claude Codeの機能拡張に関する実用的な更新)</description>
+</item>
+<item>
 <title>[75] Cloudflare、Git互換ストレージ「Artifacts」をオープンベータに ——米国・カナダ在住者向けに「次のGitHub」開発コンテストも開催</title>
 <link>https://gihyo.jp/article/2026/10/cloudflare-artifacts-open-beta?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/10/cloudflare-artifacts-open-beta?utm_source=feed</guid>
@@ -615,14 +623,6 @@
 <description>Today, AWS announces that Amazon GuardDuty Runtime Monitoring is now included in the AWS Security Hub Threat Analytics plan. Runtime Monitoring inspects operating system, network, and file activity to surface threats such as container escapes, privilege escalation, and cryptomining on Amazon EC2 instances, Amazon EKS clusters, and Amazon ECS tasks on AWS Fargate. Security Hub now bills this coverage through streamlined pricing. If you have Security Hub enabled in an account and region, you no lo — AWS What's New / score: 75 (AWSセキュリティ監視機能の統合アップデート)</description>
 </item>
 <item>
-<title>[75] 「Gemini 4 Argon」とは　性能評価にみるAstra／Fable／Opusとの違い　一般提供は年内？</title>
-<link>https://www.itmedia.co.jp/aiplus/article/2610/02/2000001954/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2610/02/2000001954/</guid>
-<pubDate>Fri, 02 Oct 2026 03:24:40 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>米Googleは9月30日（現地時間、以下同）、同社の新たな最先端モデル「Gemini 4 Argon」（以下、Argon）を発表した。Google DeepMindの評価資料では、米OpenAIの「GPT-6 Astra」（以下、Astra）、米Anthropicの「Claude Fable 5.1」（以下、Fable 5.1）と「Claude Opus 5.5」（以下、Opus 5.5）を相手に19項目中14項目で... — はてなブックマーク テクノロジー / score: 75 (主要AIモデルの新バージョンに関する発表)</description>
-</item>
-<item>
 <title>[75] 画像生成AI「FLUX 3 Image」が登場、「最大4K生成」「被写体の位置指定」「一部分のみ編集」など高機能でオープンモデル版も数週間後に登場予定</title>
 <link>https://gigazine.net/news/20261002-flux-3-image/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261002-flux-3-image/</guid>
@@ -637,14 +637,6 @@
 <pubDate>Thu, 01 Oct 2026 20:00:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>AWS announces the preview of AWS Well-Architected Agent, a AI-powered service that is the next-gen evolution of AWS Trusted Advisor and the AWS Well-Architected Tool. The agent analyzes and optimizes AWS infrastructure across cost, security, performance, and reliability, delivering contextualized recommendations prioritized by business goals. It automatically correlates key metrics and application topology against Well-Architected best practices and analyzes Terraform, CDK templates and CloudFor — AWS What's New / score: 75 (AWS Well-Architected Agentのプレビュー公開)</description>
-</item>
-<item>
-<title>[75] Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs</title>
-<link>https://huggingface.co/blog/allenai/olmocore3</link>
-<guid isPermaLink="true">https://huggingface.co/blog/allenai/olmocore3</guid>
-<pubDate>Thu, 01 Oct 2026 15:01:43 +0000</pubDate>
-<category>Hugging Face Blog</category>
-<description> — Hugging Face Blog / score: 75 (MoE向けの大規模学習インフラの公開)</description>
 </item>
 <item>
 <title>[75] AWS Security Hub introduces remediation plans to prioritize and fix security exposures</title>
@@ -805,6 +797,14 @@
 <pubDate>Sat, 26 Sep 2026 09:18:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Anthropicは2026年9月25日、開発者向けブログで、Claude Opus 5.5を使った作業の費用と、推論などにかける計算量を調整するエフォート（effort）の使い分けを解説した。 — gihyo.jp / score: 75 (開発者向けAIツールの費用と機能の解説)</description>
+</item>
+<item>
+<title>[75] Microsoft、Copilotの大型アップデートを発表 ——Home・Code・Autopilotで対話からアプリ作成、作業の実行まで</title>
+<link>https://gihyo.jp/article/2026/09/microsoft-copilot-updates-with-home-code-autopilot?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/09/microsoft-copilot-updates-with-home-code-autopilot?utm_source=feed</guid>
+<pubDate>Sat, 26 Sep 2026 03:04:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Microsoftは9月25日、Microsoft Copilotの大型アップデートを発表した。ChatとCoworkをまとめる「Home」、自然言語でアプリを作成する「Code」、継続的に業務を進めるAIエージェント「Autopilot」を軸に、対話や文書作成、アプリ開発を一つのアプリに集約し、指定した作業をAIに任せることもできる。 — gihyo.jp / score: 75 (Microsoft Copilotの大型機能アップデート)</description>
 </item>
 </channel>
 </rss>
