@@ -4,7 +4,7 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 02 Oct 2026 20:10:26 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 22:08:56 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>AI21 achieves an 83% reduction in time-to-start for AI workloads with AI Hypercomputer</title>
@@ -15,12 +15,28 @@
 <description>Editor’s note : AI21 Labs is a leading global AI lab with a long track record of building foundation models, most notably the Jamba family, and today focuses on specialized LLMs and agent optimization technology. By adopting Google Cloud AI Hypercomputer, AI21 cut high-priority job wait times from 72 hours to 12 and manual scheduling interventions from 20 per week to zero. At AI21 , we build foundation models and agent optimization products that help enterprises run agents at frontier quality, e — Google Cloud Blog / score: 60 (AIワークロードの起動時間の大幅な短縮事例)</description>
 </item>
 <item>
+<title>v3.15.0rc3</title>
+<link>https://github.com/python/cpython/releases/tag/v3.15.0rc3</link>
+<guid isPermaLink="true">https://github.com/python/cpython/releases/tag/v3.15.0rc3</guid>
+<pubDate>Fri, 02 Oct 2026 18:51:48 +0000</pubDate>
+<category>CPython リリース</category>
+<description>Python 3.15.0rc3 — CPython リリース / score: 85 (CPython v3.15.0rc3の公式リリース)</description>
+</item>
+<item>
 <title>AWS Health introduces the version catalog for software lifecycle management</title>
 <link>https://aws.amazon.com/about-aws/whats-new/2026/10/aws-health-introduces-version-catalog-software-lifecycle-management</link>
 <guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/aws-health-introduces-version-catalog-software-lifecycle-management</guid>
 <pubDate>Fri, 02 Oct 2026 18:09:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Today, AWS Health introduces the version catalog which provides a centralized source of lifecycle information for software versions across AWS services. The version catalog helps customers move from reactive to proactive management of version upgrades and end-of-support risk. It is available in the AWS Health Dashboard, and customers on Business Support Plus, Enterprise Support, or Unified Operations can use the AWS Health API to integrate lifecycle data into their operational workflows. Custome — AWS What's New / score: 45 (AWSサービスのライフサイクル管理機能の追加)</description>
+</item>
+<item>
+<title>Amazon Aurora DSQL now supports partial indexes</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/aurora-dsql-partial-indexes/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/aurora-dsql-partial-indexes/</guid>
+<pubDate>Fri, 02 Oct 2026 17:30:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon Aurora DSQL now lets you build an index over a specific subset of a table, storing only qualifying rows rather than every row in the entire table, which improves query performance and lowers index storage cost. Many tables hold a small working set alongside a much larger history, such as open orders among years of completed ones. Add a WHERE clause to CREATE INDEX to index just that working set. The index stays small as the table grows, and queries that target those rows read less data. A — AWS What's New / score: 75 (Amazon Aurora DSQLの部分インデックス対応)</description>
 </item>
 <item>
 <title>Amazon EKS and Amazon EKS Distro now support Kubernetes version 1.37</title>
@@ -111,6 +127,14 @@
 <description> — Yahoo!ニュース IT / score: 85 (企業における従業員情報の深刻な情報漏えい疑惑)</description>
 </item>
 <item>
+<title>【Cursor pstack】AIエージェントに開発を任せる環境をつくる ―月2,500件のPRを支えた開発基盤とは？</title>
+<link>https://zenn.dev/sc30gsw/books/080faba713547b</link>
+<guid isPermaLink="true">https://zenn.dev/sc30gsw/books/080faba713547b</guid>
+<pubDate>Fri, 02 Oct 2026 14:24:04 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>【Cursor pstack】AIエージェントに開発を任せる環境をつくる ―月2,500件のPRを支えた開発基盤とは？ AIエージェントに開発を任せるための環境づくりを、Cursorのpstackから学ぶ実践ガイドです。月2,500件のPRを支えた考え方を手がかりに、成果物を検証する仕組みから、pstackに含まれるPlaybook・Principle・Skillとい... — はてなブックマーク テクノロジー / score: 70 (AIエージェントを活用した開発基盤の実践ガイド)</description>
+</item>
+<item>
 <title>Inside-Out AI: Rebuilding Airbnb Behind the Scenes and Across the Guest Experience</title>
 <link>https://www.latent.space/p/airbnb</link>
 <guid isPermaLink="true">https://www.latent.space/p/airbnb</guid>
@@ -143,12 +167,12 @@
 <description>メモリ64GB版「DGX Spark」登場。4,999ドルで、128GB版は値上げ — はてなブックマーク テクノロジー / score: 55 (新型ハードウェアの登場と価格改定のニュース)</description>
 </item>
 <item>
-<title>【Cursor pstack】AIエージェントに開発を任せる環境をつくる ―月2,500件のPRを支えた開発基盤とは？</title>
-<link>https://zenn.dev/sc30gsw/books/080faba713547b</link>
-<guid isPermaLink="true">https://zenn.dev/sc30gsw/books/080faba713547b</guid>
-<pubDate>Fri, 02 Oct 2026 13:19:46 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>AIエージェントに開発を任せるための環境づくりを、Cursorのpstackから学ぶ実践ガイドです。月2,500件のPRを支えた考え方を手がかりに、成果物を検証する仕組みから、pstackに含まれるPlaybook・Principle・Skillといった全項目を解説。 さらに、自分のアプリに検証スキルを作る方法から、調査・設計・計画をエージェントと進める方法まで、全30章で扱います。 読み終えたとき、自分のプロジェクトでエージェントに任せる範囲を広げるための環境づくりを始められることを目指します。 — Zenn トレンド / score: 70 (AIエージェントを活用した開発基盤の実践ガイド)</description>
+<title>アルゴリズムの最先端に挑戦：「四色定理」はどこまでバランスよく塗れるのか？</title>
+<link>https://qiita.com/square1001/items/4714dd9e2ddb97c32057?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/square1001/items/4714dd9e2ddb97c32057?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Fri, 02 Oct 2026 13:28:45 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>こんにちは、米田寛峻 (square1001) です！ Qiita では、前回記事 直感でわかる、ヒューリスティック問題の羅針盤 ～貪欲法から山登り法まで～ 以来 4 年ぶりの投稿になります。 私も大学院の修士 2 年生になって、最先端の研究に取り組むようになりました。主に... — Qiita 人気記事 / score: 45 (四色定理の塗り分けに関する先端アルゴリズム解説)</description>
 </item>
 <item>
 <title>中国へのGPU密輸はなぜ続くのか、そしてなぜアメリカ政府は取り締まることができないのか？</title>
@@ -199,12 +223,36 @@
 <description>税金の電子申告や納税ができる国税庁のシステム「e－Tax」で、贈与税の申告内容が本人以外からも閲覧される状態になる不具合があったとして、国税庁は謝罪しました。 国税庁によりますと、e－Taxのシス… — はてなブックマーク テクノロジー / score: 85 (e-Taxのシステム不具合と情報閲覧問題)</description>
 </item>
 <item>
+<title>コンサートテクニシャンの巨匠、ミシェル・ペドノーが丹念に手入れを施したドイツ・ハンブルグ製スタインウェイD-274をサンプリングした、Synthogy「Ivory 3 German D」が17%OFF！</title>
+<link>https://computermusic.jp/2026/10/synthogy-ivory-3-german-d/</link>
+<guid isPermaLink="true">https://computermusic.jp/2026/10/synthogy-ivory-3-german-d/</guid>
+<pubDate>Fri, 02 Oct 2026 12:16:12 +0000</pubDate>
+<category>Computer Music Japan</category>
+<description>コンサートテクニシャンの巨匠、ミシェル・ペドノーが丹念に手入れを施したドイツ・ハンブルグ製スタインウェイD-274をサンプリングした、Synthogy「Ivory 3 German D」が17%OFFとなっています。 S... The post コンサートテクニシャンの巨匠、ミシェル・ペドノーが丹念に手入れを施したドイツ・ハンブルグ製スタインウェイD-274をサンプリングした、Synthogy「Ivory 3 German D」が17%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 15 (音楽制作用プラグインのセール情報のため)</description>
+</item>
+<item>
 <title>普通のメガネなのに網膜投影　TDKがレンズに埋め込める透明ミラー</title>
 <link>https://www.watch.impress.co.jp/docs/news/2145266.html</link>
 <guid isPermaLink="true">https://www.watch.impress.co.jp/docs/news/2145266.html</guid>
 <pubDate>Fri, 02 Oct 2026 12:11:08 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>普通のメガネなのに網膜投影 TDKがレンズに埋め込める透明ミラー — はてなブックマーク テクノロジー / score: 60 (網膜投影のハードウェア技術に関する興味深い発表)</description>
+</item>
+<item>
+<title>Jev・Clef・d1・Jeff・Kev…意思決定モデル（System One）を仕組みから比較する【2026年10月版】</title>
+<link>https://qiita.com/nogataka/items/a2f89a94d243b1b715cb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/nogataka/items/a2f89a94d243b1b715cb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Fri, 02 Oct 2026 12:09:18 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>この記事は2026年10月2日時点の情報です。各社の数値は提供元の公表値で、筆者が追試したものではありません。ベンチマークは誰が測ったかを併記し、測定条件が公開されていないものはその旨を書いています。 要点 意思決定モデル（System One Model）は、... — Qiita 人気記事 / score: 45 (AI意思決定モデルのベンチマーク比較記事)</description>
+</item>
+<item>
+<title>ネットワークの仕組みを実習で体感できる入門教材「Linuxネットワーク標準教科書」を無償公開 ～2,000名超のLinuC Open Networkコミュニティで共創、LinuC学習の土台に ～</title>
+<link>https://lpi.or.jp/news/press/page/20261001_01/</link>
+<guid isPermaLink="true">https://lpi.or.jp/news/press/page/20261001_01/</guid>
+<pubDate>Fri, 02 Oct 2026 12:06:40 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>ネットワークの仕組みを実習で体感できる入門教材「Linuxネットワーク標準教科書」を無償公開 ～2,000名超のLinuC Open Networkコミュニティで共創、LinuC学習の土台に ～ Linux技術者認定「LinuC(リナック)」などを実施する特定非営利活動法人エルピーアイジャパン(以下:LPI-Japan、東京都千代田区、理事長 鈴木 敦夫)... — はてなブックマーク テクノロジー / score: 50 (ネットワーク基礎を学べる無償の入門教材公開)</description>
 </item>
 <item>
 <title>無料でカスタマイズ可能SVGパターンをいろいろ作成できる「Book of Shapes」</title>
@@ -247,12 +295,36 @@
 <description>盤面が剥き出しになるスタイリッシュなFosi AudioのCDプレーヤー「DISC Nano」をご紹介。高音質DACやMagSafe対応など、オーディオファン注目のスペックを解説します。 — ギズモード・ジャパン / score: 25 (個性的なデザインのオーディオ機器の紹介)</description>
 </item>
 <item>
+<title>4つのプラグインと7つのD-Fusedサウンド・パックを収録した、Audio Plugin Deals 「OCTOBER MEGA BUNDLE」が98%OFF！</title>
+<link>https://computermusic.jp/2026/10/audio-plugin-deals-october-mega-bundle/</link>
+<guid isPermaLink="true">https://computermusic.jp/2026/10/audio-plugin-deals-october-mega-bundle/</guid>
+<pubDate>Fri, 02 Oct 2026 11:51:02 +0000</pubDate>
+<category>Computer Music Japan</category>
+<description>4つのプラグインと7つのD-Fusedサウンド・パックを収録した、Audio Plugin Deals 「OCTOBER MEGA BUNDLE」が98%OFFとなっています。 OCTOBER MEGA BUNDLE プ... The post 4つのプラグインと7つのD-Fusedサウンド・パックを収録した、Audio Plugin Deals 「OCTOBER MEGA BUNDLE」が98%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 30 (音楽制作プラグインバンドルのセール情報)</description>
+</item>
+<item>
+<title>【10/3夕方まで】AIによるプリセット生成機能搭載！豊かなサウンドメイキングを実現するシンセサイザー、Reveal Sound「Spire」が60%OFF！</title>
+<link>https://computermusic.jp/2026/10/reveal-sound-spire-sale/</link>
+<guid isPermaLink="true">https://computermusic.jp/2026/10/reveal-sound-spire-sale/</guid>
+<pubDate>Fri, 02 Oct 2026 11:49:08 +0000</pubDate>
+<category>Computer Music Japan</category>
+<description>AIによるプリセット生成機能搭載！豊かなサウンドメイキングを実現するシンセサイザー、Reveal Sound「Spire」が60%OFFとなっています。 Spire Spireは、ポップなPluckサウンドから、パワフル... The post 【10/3夕方まで】AIによるプリセット生成機能搭載！豊かなサウンドメイキングを実現するシンセサイザー、Reveal Sound「Spire」が60%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 35 (AIプリセット生成機能を持つシンセサイザーのセール)</description>
+</item>
+<item>
 <title>無料メールアプリ「Thunderbird for iOS」の詳細がついに判明、iPhone・iPad向けにアカウント自動設定やバックグラウンド同期を開発中で数カ月以内のコミュニティテストを目指す</title>
 <link>https://gigazine.net/news/20261002-thunderbird-for-ios/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261002-thunderbird-for-ios/</guid>
 <pubDate>Fri, 02 Oct 2026 11:30:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>無料のメールクライアント「Thunderbird」を開発するThunderbirdチームが2026年10月1日にiPhone・iPad向けの「Thunderbird for iOS」の開発状況を公開しました。メールアカウントの簡単な追加やバックグラウンド同期、メールの閲覧・作成といった開発中の主要機能が明らかになっています。 続きを読む... — GIGAZINE / score: 55 (ThunderbirdのiOS版開発状況の公開)</description>
+</item>
+<item>
+<title>Claude Code ModsとJevでモデルルーターを構築（サブスクで使えるゾ！！）</title>
+<link>https://qiita.com/moritalous/items/8b663db633dde3c49d62?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/moritalous/items/8b663db633dde3c49d62?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Fri, 02 Oct 2026 11:20:01 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>Claude CodeにModsというものが追加されました。 公式ドキュメントはこちら 何やらいろんなことができそうです。 頼んでみた ドキュメントもろくに読まず、Claude Codeに聞いてみました。 Claude Code Mods（ https://... — Qiita 人気記事 / score: 40 (Claude CodeのModsに関する技術メモ)</description>
 </item>
 <item>
 <title>Earendil、AIエージェントハーネスPi 1.0をリリース ——タスクの保存・再開に対応する「Pi Durable」も公開</title>
@@ -727,84 +799,12 @@
 <description>The AWS MCP Server is now available in six additional AWS Regions: Asia Pacific (Singapore), Asia Pacific (Sydney), Asia Pacific (Tokyo), Europe (Ireland), Europe (London), and US West (Oregon). The AWS MCP Server, part of the Agent Toolkit for AWS , is a managed Model Context Protocol server that gives AI coding agents a single interface to AWS APIs, so agents can discover and call AWS services without building and maintaining per-service integrations. With this expansion, customers in these Re — AWS What's New / score: 65 (AWS MCP Serverの東京リージョンを含む対応拡大)</description>
 </item>
 <item>
-<title>びっくりした。パンダ、魂抜けてるかと思った</title>
-<link>https://www.gizmodo.jp/article/2610-poteto-animal-mist-panda-humidifier/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2610-poteto-animal-mist-panda-humidifier/</guid>
+<title>AgentCore Gateway supports private TLS certificates for VPC endpoints</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/agentcore-gateway-private-tls-vpc/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/agentcore-gateway-private-tls-vpc/</guid>
 <pubDate>Fri, 02 Oct 2026 08:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>パンダの口からミストが出る！？ホラー感漂うユニークな卓上加湿器「充電式ぽてっとアニマルミスト」をご紹介。デスク周りを潤すコンパクトな仕様や価格、猫デザインの魅力まで分かりやすく解説します。 — ギズモード・ジャパン / score: 5 (一般向けのガジェット紹介でありIT技術に関係ない)</description>
-</item>
-<item>
-<title>GitHubにうっかり公開された認証情報54万件以上が有効なまま放置されていることが判明</title>
-<link>https://gigazine.net/news/20261002-github-credentials-not-revoked/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261002-github-credentials-not-revoked/</guid>
-<pubDate>Fri, 02 Oct 2026 07:22:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>セキュリティ企業のTruffle SecurityがGitHubの公開リポジトリを大規模に調査した結果、APIキーやアクセストークン、データベースの接続情報など54万3699件もの認証情報が実際に利用可能な状態で公開され続けていたことが明らかになりました。認証情報が公開されてからの期間は中央値で784日で、中には2009年から16年以上にわたって有効だったものも確認されています。 続きを読む... — GIGAZINE / score: 95 (GitHub上に54万件以上の有効な認証情報が放置され深刻)</description>
-</item>
-<item>
-<title>移行期間のコスト負担を解消、ヌーラボがBacklogへの乗り換えで来年3月まで利用料無料のキャンペーンを開始</title>
-<link>https://codezine.jp/article/detail/29894</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/29894</guid>
-<pubDate>Fri, 02 Oct 2026 07:15:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 30 (サービス移行キャンペーンの告知であり技術的価値は低い)</description>
-</item>
-<item>
-<title>Claude CodeのUIや動作をTypeScriptでカスタマイズできる「Mods」正式リリース</title>
-<link>https://gihyo.jp/article/2026/10/claude-code-mods?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/10/claude-code-mods?utm_source=feed</guid>
-<pubDate>Fri, 02 Oct 2026 07:13:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Anthropicは2026年10月1日、TypeScriptの記述でClaude Codeの動作をカスタマイズできる「Mods」の機能が正式に追加されたことを発表した。 — gihyo.jp / score: 70 (Claude Codeの拡張機能Mods正式リリース)</description>
-</item>
-<item>
-<title>「Androidのマイナンバーカード」、20日スタート</title>
-<link>https://k-tai.watch.impress.co.jp/docs/news/2145170.html</link>
-<guid isPermaLink="true">https://k-tai.watch.impress.co.jp/docs/news/2145170.html</guid>
-<pubDate>Fri, 02 Oct 2026 07:06:40 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>「Androidのマイナンバーカード」、20日スタート — はてなブックマーク テクノロジー / score: 65 (Android版マイナンバーカードの提供開始)</description>
-</item>
-<item>
-<title>AWS、End User MessagingとSESでMCPサーバー向けAIエージェントスキルを提供</title>
-<link>https://codezine.jp/article/detail/29886</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/29886</guid>
-<pubDate>Fri, 02 Oct 2026 07:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 65 (AWSがMCPサーバー向けAIエージェント機能を提供開始)</description>
-</item>
-<item>
-<title>Amazon ElastiCache for Valkey now supports OpenTelemetry metrics and detailed monitoring</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-elasticache-valkey-opentelemetry-metrics-detailed-monitoring</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-elasticache-valkey-opentelemetry-metrics-detailed-monitoring</guid>
-<pubDate>Fri, 02 Oct 2026 07:00:00 +0000</pubDate>
 <category>AWS What's New</category>
-<description>Amazon ElastiCache for Valkey now publishes OpenTelemetry metrics to Amazon CloudWatch for your node-based clusters, and each metric carries attributes you can filter and aggregate on with Prometheus Query Language (PromQL) expressions. ElastiCache now offers two monitoring modes. Standard monitoring, the existing experience, continues to publish CloudWatch Metrics (Classic) every 60 seconds and now also publishes a core set of OpenTelemetry metrics at the same interval at no additional charge.  — AWS What's New / score: 50 (Valkeyのモニタリング機能強化とオブザーバビリティ向上)</description>
-</item>
-<item>
-<title>How to implement long-term AI agent memory in AlloyDB and Memorystore for Valkey</title>
-<link>https://cloud.google.com/blog/products/databases/implementing-long-term-ai-agent-memory-in-alloydb-and-memorystore/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/products/databases/implementing-long-term-ai-agent-memory-in-alloydb-and-memorystore/</guid>
-<pubDate>Fri, 02 Oct 2026 07:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>Enterprise AI agents need persistent memory to execute complex, multi-day workflows and long-horizon tasks. In this blog, we examine how a 2-tier memory architecture using Memorystore for Valkey for short-term buffer memory and AlloyDB AI for long-term persistent memory can help reduce token spend by up to 70%, while maintaining critical data and enterprise guardrails. Imagine building a personalized travel agent designed to help users book vacations. The user interacts with the agent many times — Google Cloud Blog / score: 70 (AIエージェント向け長期記憶の実装手法の解説)</description>
-</item>
-<item>
-<title>October 02, 2026</title>
-<link>https://docs.cloud.google.com/release-notes#October_02_2026</link>
-<guid isPermaLink="true">https://docs.cloud.google.com/release-notes#October_02_2026</guid>
-<pubDate>Fri, 02 Oct 2026 07:00:00 +0000</pubDate>
-<category>Google Cloud リリースノート</category>
-<description>BigQuery Feature The Rust SDK for BigQuery is now generally available (GA). Feature The Data Engineering Agent now supports the gemini-3.7-flash model for the us , eu , and global multi-regional endpoints. Cloud NAT Feature General Availability : Cloud NAT gateways for Private NAT support IPv6 to IPv4 network address translation. For more information, see NAT64 in Private NAT . Google Kubernetes Engine Feature You can use Vertical Pod Autoscaler (VPA) with Horizontal Pod Autoscaler (HPA) to auto — Google Cloud リリースノート / score: 35 (Apigee Xのマイナーアップデート情報)</description>
-</item>
-<item>
-<title>フォンテインズD.C.が、最新アルバム『Dopamine Chamber』を引っ提げ2027年1月に東名阪ツアーを開催！</title>
-<link>https://guitarmagazine.jp/news/2026-1002-fontaines-dc/</link>
-<guid isPermaLink="true">https://guitarmagazine.jp/news/2026-1002-fontaines-dc/</guid>
-<pubDate>Fri, 02 Oct 2026 07:00:00 +0000</pubDate>
-<category>ギター・マガジンWEB</category>
-<description>フォンテインズD.C.が、2027年1月に来日公演を行なうことが発表された。1月28日（木）に東京、1月29日（金）に名古屋、1月31日（日）に大阪にて、全3公演を開催予定だ。 — ギター・マガジンWEB / score: 5 (音楽アーティストのライブ情報であり技術ニュースではない)</description>
+<description>Amazon Bedrock AgentCore Gateway now supports TLS certificates signed by private certificate authorities (CAs) on MCP, OpenAPI, and HTTP proxy targets. This feature enables you to connect securely to gateway targets that use TLS certificates issued by your own private certificate authority. With this feature, you can establish native connections to private endpoints in your VPC without requiring an intermediate Application Load Balancer. You can register a private CA certificate with gateway tar — AWS What's New / score: 70 (AgentCore Gatewayのプライベート証明書対応)</description>
 </item>
 </channel>
 </rss>

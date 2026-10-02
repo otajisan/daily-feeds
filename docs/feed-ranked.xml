@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 02 Oct 2026 20:10:26 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 22:08:56 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] GitHubにうっかり公開された認証情報54万件以上が有効なまま放置されていることが判明</title>
@@ -13,6 +13,14 @@
 <pubDate>Fri, 02 Oct 2026 07:22:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>セキュリティ企業のTruffle SecurityがGitHubの公開リポジトリを大規模に調査した結果、APIキーやアクセストークン、データベースの接続情報など54万3699件もの認証情報が実際に利用可能な状態で公開され続けていたことが明らかになりました。認証情報が公開されてからの期間は中央値で784日で、中には2009年から16年以上にわたって有効だったものも確認されています。 続きを読む... — GIGAZINE / score: 95 (GitHub上に54万件以上の有効な認証情報が放置され深刻)</description>
+</item>
+<item>
+<title>[95] WordPress 4.7〜7.1.1に未認証の不正読込 CVE-2026-87902──7.1.2更新と攻撃痕跡の確認</title>
+<link>https://qiita.com/jiis-sasaki/items/b9e58eb2b47f6d25dff2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/jiis-sasaki/items/b9e58eb2b47f6d25dff2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Thu, 01 Oct 2026 22:30:00 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>WordPressで企業サイト・ブログを運用しているWeb担当者、制作会社の保守担当者向けの記事です。 2026年9月22日、WordPress本体(コア)の脆弱性 CVE-2026-87902 を修正したセキュリティリリース 7.1.2 が公開されました。ログイン不要で、... — Qiita 人気記事 / score: 95 (WordPress未認証不正読込の緊急脆弱性修正)</description>
 </item>
 <item>
 <title>[95] September 2026 Security Release</title>
@@ -143,6 +151,14 @@
 <description>Next.js 16.3.6 and 15.5.26 are planned for a critical out-of-band security update on September 22, 2026. — Next.js Blog / score: 90 (重要度の高いフレームワークのセキュリティ更新)</description>
 </item>
 <item>
+<title>[85] v3.15.0rc3</title>
+<link>https://github.com/python/cpython/releases/tag/v3.15.0rc3</link>
+<guid isPermaLink="true">https://github.com/python/cpython/releases/tag/v3.15.0rc3</guid>
+<pubDate>Fri, 02 Oct 2026 18:51:48 +0000</pubDate>
+<category>CPython リリース</category>
+<description>Python 3.15.0rc3 — CPython リリース / score: 85 (CPython v3.15.0rc3の公式リリース)</description>
+</item>
+<item>
 <title>[85] A model guide for the GPT-6 family</title>
 <link>https://openai.com/index/practical-guide-building-gpt-6</link>
 <guid isPermaLink="true">https://openai.com/index/practical-guide-building-gpt-6</guid>
@@ -205,6 +221,14 @@
 <pubDate>Fri, 02 Oct 2026 01:51:28 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>よくある「ローソンを騙った偽メール」とは、少し事情が違います。今回は、ローソンのメールサーバーそのものが第三者に不正利用されました。ローソンは10月1日、同社のメールサーバーが第三者に不正利用され、外部に不審な英文メールが送信されていたことを発表しました。送信件数は推計約70万件にのぼります。 Publish... — はてなブックマーク テクノロジー / score: 85 (ローソンのメールサーバー悪用による大規模不審メール送信)</description>
+</item>
+<item>
+<title>[85] Python 3.15.0 candidate 3 is here!</title>
+<link>https://blog.python.org/2026/10/python-3150-rc3/</link>
+<guid isPermaLink="true">https://blog.python.org/2026/10/python-3150-rc3/</guid>
+<pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+<category>Python Insider</category>
+<description>Following tradition, a surprise rc3! — Python Insider / score: 85 (Python 3.15.0のリリース候補版公開)</description>
 </item>
 <item>
 <title>[85] リモートデスクトップソフト「TeamViewer」に5件の脆弱性、修正版が公開／最大の深刻度は「High」、リモートコード実行につながる可能性も</title>
@@ -317,14 +341,6 @@
 <pubDate>Tue, 29 Sep 2026 17:20:46 +0000</pubDate>
 <category>Zenn トレンド</category>
 <description>! 加筆中です。追記していきます。 tl;dr OpenAI DevDay 2026 がサンフランシスコで開催されたよ サンフランシスコ現地から情報をお送りするよ ひと通りのリソースをまとめたけど、まずは Recap ページを見るといいよ 24 時間常時稼働のエージェント dots が発表されたよ GPT-6 Astra に近い性能を低コストで使える GPT-6.1 Sol が公開されたよ 高速にトークンを生成する Ultrafast が使えるようになったよ Codex のクラウド環境や CLI、コードレビュー機能が強化されたよ Agents API が Computer Use... — Zenn トレンド / score: 85 (OpenAI DevDayでの主要機能発表まとめ)</description>
-</item>
-<item>
-<title>[85] 【被害者は語る】タイムズカー660万件情報漏えいはなぜ起きたのかの矮小な考察</title>
-<link>https://qiita.com/miruky/items/6577a57b9b62c8f97e11?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/miruky/items/6577a57b9b62c8f97e11?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Tue, 29 Sep 2026 16:00:06 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>はじめに ※本メールは、タイムズカー会員様のうち、本人確認書類情報の漏えいが確認された方へお送りしております。 メール史上トップクラスに恐ろしい冒頭文の通り、はい、個人情報いかれました。 しかも免許証画像、いかれました（アウトー！）。 ということで今回は、偶然にも... — Qiita 人気記事 / score: 85 (大規模な個人情報流出インシデントの当事者による考察)</description>
 </item>
 <item>
 <title>[85] 免許証など流出160万件 パーク24</title>
@@ -445,6 +461,14 @@
 <pubDate>Fri, 02 Oct 2026 10:33:09 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>パーク24が運営するカーシェアサービス「タイムズカー」のシステムが不正アクセスを受け、およそ660万アカウントの個人情報が漏洩した。約160万件には運転免許証や学生証の画像など本人確認書類の情報が含まれる。悪用されるリスクが高い個人情報を大量に抱えながら、あまりにずさんな管理だったと言わざるを得ない。サ... — はてなブックマーク テクノロジー / score: 80 (タイムズカー情報漏えいに関するずさんな管理の社説)</description>
+</item>
+<item>
+<title>[80] ニッポンレンタカーで別の不正アクセス発覚　新たに55人分情報漏えいか　免許証番号やクレカ4ケタも</title>
+<link>https://www.itmedia.co.jp/news/article/2610/02/2000001952/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/02/2000001952/</guid>
+<pubDate>Fri, 02 Oct 2026 03:44:08 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>ニッポンレンタカーは10月1日、「ニッポンレンタカーアプリ」のシステムに、前回発表した件とは別手法の不正アクセスがあり、会員55人の個人情報を第三者が閲覧したおそれがあると発表した。 9月26日に公表した前回の事案では、41人の会員の情報が閲覧されたおそれが発覚していた。その事案を調査する過程で、別手法によ... — はてなブックマーク テクノロジー / score: 80 (ニッポンレンタカーでの新たな不正アクセスと情報漏えい)</description>
 </item>
 <item>
 <title>[80] 「Oracle JDK 21」は無償の「NFTC」ライセンスの対象外に、10月「CPU」以降で／「Oracle JDK」を無償で商用運用したいなら「Oracle JDK 25」への移行を</title>
@@ -573,6 +597,14 @@
 <pubDate>Tue, 22 Sep 2026 12:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models. — OpenAI News / score: 80 (最新GPTモデルの性能向上とコスト削減)</description>
+</item>
+<item>
+<title>[75] Amazon Aurora DSQL now supports partial indexes</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/aurora-dsql-partial-indexes/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/aurora-dsql-partial-indexes/</guid>
+<pubDate>Fri, 02 Oct 2026 17:30:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon Aurora DSQL now lets you build an index over a specific subset of a table, storing only qualifying rows rather than every row in the entire table, which improves query performance and lowers index storage cost. Many tables hold a small working set alongside a much larger history, such as open orders among years of completed ones. Add a WHERE clause to CREATE INDEX to index just that working set. The index stays small as the table grows, and queries that target those rows read less data. A — AWS What's New / score: 75 (Amazon Aurora DSQLの部分インデックス対応)</description>
 </item>
 <item>
 <title>[75] Announcing Spanner queues: Transactional messaging for agentic workloads and beyond</title>
@@ -773,38 +805,6 @@
 <pubDate>Mon, 28 Sep 2026 18:29:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Amazon Bedrock now supports SpaceXAI Grok 4.7, a frontier model built for coding, agentic tasks, and knowledge work, with US Geo and Global cross-Region inference. Grok 4.7 builds on Grok 4.6 with better mixed-document handling, more dependable repo-scale coding with planning and error recovery, and enhanced browser-use agents for form fills and portal navigation. Get started with Grok 4.7 in the Amazon Bedrock console or programmatically through supported Amazon Bedrock APIs. For information ab — AWS What's New / score: 75 (Bedrockへの新AIモデル追加)</description>
-</item>
-<item>
-<title>[75] iOS27.0.1がリリース！iPhone18 Proの再起動問題などが修正</title>
-<link>https://iphone-mania.jp/ios-606745/</link>
-<guid isPermaLink="true">https://iphone-mania.jp/ios-606745/</guid>
-<pubDate>Mon, 28 Sep 2026 18:15:05 +0000</pubDate>
-<category>iPhone Mania</category>
-<description>まもなくリリースされるとしていたiPhone向けソフトウェアアップデート「iOS27.0.1」が配信開始しました。本アップデートは、iOS27で発生していた重要なバグや不具合の修正を目的としたマイナーアップデートです。 […] — iPhone Mania / score: 75 (iOSの重要不具合修正を目的としたセキュリティアップデート)</description>
-</item>
-<item>
-<title>[75] AWS、AIエージェントを自作できるツール「Strandsハーネス」をオープンソースで公開。特定のLLMに依存せず入れ替え可能、任意のコンテナ環境にデプロイ</title>
-<link>https://www.publickey1.jp/blog/26/awsaistrandsllm.html</link>
-<guid isPermaLink="true">https://www.publickey1.jp/blog/26/awsaistrandsllm.html</guid>
-<pubDate>Mon, 28 Sep 2026 15:01:25 +0000</pubDate>
-<category>Publickey</category>
-<description>Amazon Web Services（AWS）は、GPTやClaude、Gemini、Ollamaなど主要なLLMやLLMランタイムを基にした高性能なAIエージェントを簡単に自作できるツール「Strandsハーネス」をオープンソースで公開... — Publickey / score: 75 (主要なLLM対応AIエージェントOSS公開のため)</description>
-</item>
-<item>
-<title>[75] Claude Sonnet 5.5 now available on AWS</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/09/claude-sonnet-5-5-aws/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/claude-sonnet-5-5-aws/</guid>
-<pubDate>Mon, 28 Sep 2026 15:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>AWS now offers Claude Sonnet 5.5, a smarter and more efficient Sonnet that delivers a clear leap forward on coding and knowledge work with at a lower cost per task for most work at faster speed. Claude Sonnet 5.5 is a smarter, more efficient Sonnet and a step up from Sonnet 5, making it a natural upgrade for teams already building on Sonnet. It's stronger for coding, completing well-scoped tasks as part of a larger coding strategy such as building and fixing features with Claude in the same sess — AWS What's New / score: 75 (AWSでの有力な新AIモデルClaude Sonnet 5.5提供開始)</description>
-</item>
-<item>
-<title>[75] Claude Code、/usageによる推定費用の確認とエフォートの使い分けを解説 ——Opus 5.5の料金とキャッシュの利用</title>
-<link>https://gihyo.jp/article/2026/09/claude-code-usage-and-effort?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/09/claude-code-usage-and-effort?utm_source=feed</guid>
-<pubDate>Sat, 26 Sep 2026 09:18:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Anthropicは2026年9月25日、開発者向けブログで、Claude Opus 5.5を使った作業の費用と、推論などにかける計算量を調整するエフォート（effort）の使い分けを解説した。 — gihyo.jp / score: 75 (開発者向けAIツールの費用と機能の解説)</description>
 </item>
 </channel>
 </rss>
