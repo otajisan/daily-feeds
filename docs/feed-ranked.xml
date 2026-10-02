@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 02 Oct 2026 04:11:19 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 06:16:38 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] September 2026 Security Release</title>
@@ -37,6 +37,14 @@
 <pubDate>Tue, 22 Sep 2026 18:00:00 +0000</pubDate>
 <category>Next.js Blog</category>
 <description>The September 22, 2026 out-of-band security update for Next.js is now available — Next.js Blog / score: 95 (Next.jsの重大な上流脆弱性に対する緊急セキュリティ修正。)</description>
+</item>
+<item>
+<title>[90] 「VLC 3.0.24」に多数の脆弱性修正、本体だけで50件超、macOSでは任意コード実行も実証／開発元の仏VideoLAN Projectが明らかに</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2145035.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2145035.html</guid>
+<pubDate>Fri, 02 Oct 2026 04:10:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>先日リリースされた「VLC media player 3.0.24」では、130件を超える脆弱性が修正されているとのこと。開発元の仏VideoLAN Projectが、その内容を明らかにした。 — 窓の杜 / score: 90 (VLCメディアプレイヤーの大規模な脆弱性修正と任意コード実行)</description>
 </item>
 <item>
 <title>[90] 610億円相当の仮想通貨が盗まれたBitgetハッキング事件、第三者製セキュリティ製品のゼロデイ脆弱性が侵入経路</title>
@@ -135,14 +143,6 @@
 <description>Next.js 16.3.6 and 15.5.26 are planned for a critical out-of-band security update on September 22, 2026. — Next.js Blog / score: 90 (重要度の高いフレームワークのセキュリティ更新)</description>
 </item>
 <item>
-<title>[85] 「OZmall」に不正アクセス、最大44万人の個人情報が閲覧された可能性　退会者も対象に</title>
-<link>https://ascii.jp/elem/000/004/439/4439488/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/439/4439488/?rss</guid>
-<pubDate>Fri, 02 Oct 2026 02:50:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>「OZmall」の不正アクセス問題で、個人情報が閲覧された可能性のある対象が最大44万2779人に上ることがわかった。 — ASCII.jp / score: 85 (大規模サービスにおける不正アクセスと個人情報漏洩)</description>
-</item>
-<item>
 <title>[85] 「LibreOffice」に7件の脆弱性、うち5件は「Claude」が発見／対策済みバージョンへの更新を</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2145033.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2145033.html</guid>
@@ -197,14 +197,6 @@
 <pubDate>Thu, 01 Oct 2026 14:00:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>OpenAIではAIエージェントが社内テスト中に誤ってHugging Faceをハッキングしてしまった事例など、複数のインシデントが発生しています。OpenAIのAIモデルが暴走を始める数か月前に、従業員が経営幹部に警告を送っていたものの、経営幹部はその警告を無視していたことが社内メールから明らかになりました。 続きを読む... — GIGAZINE / score: 85 (OpenAIの安全性軽視に関する重大な内部告発)</description>
-</item>
-<item>
-<title>[85] ChatGPTの「カスタムGPT」を悪用してマルウェア感染へ誘導する攻撃、正規のChatGPTページを入口に利用</title>
-<link>https://gigazine.net/news/20261001-custom-gpt-clickfix-rat/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261001-custom-gpt-clickfix-rat/</guid>
-<pubDate>Thu, 01 Oct 2026 06:30:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>セキュリティ企業のHuntressが、ChatGPTの「カスタムGPT」を悪用してユーザーをマルウェア感染につながるサイトへ誘導する攻撃を確認したと報告しました。攻撃者は正規の「chatgpt.com」上にあるカスタムGPTを本物のChatGPTモデルのように見せかけ、外部サイトへ誘導してユーザー自身に不正なコマンドを実行させていたとのことです。 続きを読む... — GIGAZINE / score: 85 (カスタムGPTを悪用したマルウェア誘導の注意喚起)</description>
 </item>
 <item>
 <title>[85] Microsoft、「Windows 11 2026 Update」を提供開始</title>
@@ -591,6 +583,22 @@
 <description>GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models. — OpenAI News / score: 80 (最新GPTモデルの性能向上とコスト削減)</description>
 </item>
 <item>
+<title>[75] 「Android Studio」が「BYOA」に対応 ～Claude、Codex、Antigravityなどを選べる／コーディングエージェントをオープン仕様「Agent Client Protocol」で接続</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2145036.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2145036.html</guid>
+<pubDate>Fri, 02 Oct 2026 05:45:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Googleは9月24日（現地時間）、「Android Studio」に「Bring Your Own Agent」（BYOA）機能を導入すると発表した。Androidアプリの開発者が好みのコーディングエージェントを「Android Studio」に接続できるようにする。 — 窓の杜 / score: 75 (Android Studioのコーディングエージェント拡張機能)</description>
+</item>
+<item>
+<title>[75] Androidのマイナンバーカード、ついに開始　10月20日から</title>
+<link>https://ascii.jp/elem/000/004/439/4439585/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/439/4439585/?rss</guid>
+<pubDate>Fri, 02 Oct 2026 04:55:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>abstract — ASCII.jp / score: 75 (Androidのマイナンバーカード対応開始)</description>
+</item>
+<item>
 <title>[75] MicronのCEOがメモリ不足が2028年かそれ以降も続く可能性があると警告、「顧客は今年支払った価格よりも『はるかに高い価格』を支払うことになるだろう」</title>
 <link>https://gigazine.net/news/20261002-micron-ceo-ram-supply/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261002-micron-ceo-ram-supply/</guid>
@@ -615,14 +623,6 @@
 <description>AI企業のBlack Forest Labsが画像生成AI「FLUX 3 Image」をリリースしました。「最大4Kの画像生成」「画像内の物体の位置を指定」「特定の箇所のみ編集」「最大10枚の参照画像入力」といった機能を備えています。 続きを読む... — GIGAZINE / score: 75 (高性能な新型画像生成AI「FLUX 3 Image」のリリース)</description>
 </item>
 <item>
-<title>[75] PS5の超解像技術「QSSR」発表、いきなり『ゴースト・オブ・ヨウテイ』『マーベル ウルヴァリン』に実装。PS5 Proじゃなく“通常版PS5”向けの、新たなAI高画質化 - AUTOMATON</title>
-<link>https://automaton-media.com/articles/newsjp/20261002-471310/</link>
-<guid isPermaLink="true">https://automaton-media.com/articles/newsjp/20261002-471310/</guid>
-<pubDate>Thu, 01 Oct 2026 23:26:40 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>PS5の超解像技術「QSSR」発表、いきなり『ゴースト・オブ・ヨウテイ』『マーベル ウルヴァリン』に実装。PS5 Proじゃなく“通常版PS5”向けの、新たなAI高画質化 ソニー・インタラクティブエンタテインメントは10月2日、通常版PS5に向けた新技術「クイックスペクトルスーパーレゾリューション（QSSR）」を発表した。 ソニ... — はてなブックマーク テクノロジー / score: 75 (通常版PS5向けの新しいAI超解像技術QSSRの発表)</description>
-</item>
-<item>
 <title>[75] AWS Well-Architected Agent is now available in preview</title>
 <link>https://aws.amazon.com/about-aws/whats-new/2026/10/aws-well-architected-agent/</link>
 <guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/aws-well-architected-agent/</guid>
@@ -645,14 +645,6 @@
 <pubDate>Thu, 01 Oct 2026 12:00:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>中国製スマートグラス「Inmo Air 3」がオーバーヒートの危険性でリコール。重傷や死亡リスクが指摘されており、米国消費者製品安全委員会が使用中止とメーカーへの連絡を呼びかけています。 — ギズモード・ジャパン / score: 75 (スマートグラスのリコール情報で安全上の重要度が高い)</description>
-</item>
-<item>
-<title>[75] 「この勢いは驚き」タイムズカー情報流出で「集団訴訟」呼びかけ、わずか1日で参加希望2000人超 - 弁護士ドットコムニュース</title>
-<link>https://www.bengo4.com/c_1015/c_1885/c_1888/n_20995/</link>
-<guid isPermaLink="true">https://www.bengo4.com/c_1015/c_1885/c_1888/n_20995/</guid>
-<pubDate>Thu, 01 Oct 2026 11:45:11 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>カーシェアサービス「タイムズカー」の会員情報が不正アクセスによって漏えいした問題をめぐり、運営会社などに損害賠償を求める集団訴訟への参加希望が、2000人を超えたことがわかった（10月1日午後6時）。呼びかけている牧野裕貴弁護士が同日、弁護士ドットコムニュースの取材に明らかにした。 牧野弁護士は9月30日未... — はてなブックマーク テクノロジー / score: 75 (大規模な情報流出と集団訴訟の動きで業界に影響)</description>
 </item>
 <item>
 <title>[75] AWS Security Hub introduces remediation plans to prioritize and fix security exposures</title>
@@ -805,6 +797,14 @@
 <pubDate>Mon, 28 Sep 2026 18:15:05 +0000</pubDate>
 <category>iPhone Mania</category>
 <description>まもなくリリースされるとしていたiPhone向けソフトウェアアップデート「iOS27.0.1」が配信開始しました。本アップデートは、iOS27で発生していた重要なバグや不具合の修正を目的としたマイナーアップデートです。 […] — iPhone Mania / score: 75 (iOSの重要不具合修正を目的としたセキュリティアップデート)</description>
+</item>
+<item>
+<title>[75] AWS、AIエージェントを自作できるツール「Strandsハーネス」をオープンソースで公開。特定のLLMに依存せず入れ替え可能、任意のコンテナ環境にデプロイ</title>
+<link>https://www.publickey1.jp/blog/26/awsaistrandsllm.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/awsaistrandsllm.html</guid>
+<pubDate>Mon, 28 Sep 2026 15:01:25 +0000</pubDate>
+<category>Publickey</category>
+<description>Amazon Web Services（AWS）は、GPTやClaude、Gemini、Ollamaなど主要なLLMやLLMランタイムを基にした高性能なAIエージェントを簡単に自作できるツール「Strandsハーネス」をオープンソースで公開... — Publickey / score: 75 (主要なLLM対応AIエージェントOSS公開のため)</description>
 </item>
 </channel>
 </rss>
