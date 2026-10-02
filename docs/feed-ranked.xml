@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 02 Oct 2026 08:13:14 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 10:09:45 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] GitHubにうっかり公開された認証情報54万件以上が有効なまま放置されていることが判明</title>
@@ -71,7 +71,7 @@
 <description>米OpenAIは9月29日（現地時間）、開発者向けイベント「DevDay 2026」を開催した。「GPT-6.1 Sol」以外にも、20以上もの新機能が発表されている。 — 窓の杜 / score: 90 (OpenAI DevDayでの主要新機能発表)</description>
 </item>
 <item>
-<title>[90] 「Python」でセキュリティアップデート、「Critical」評価の脆弱性などを解決／v3.14.8、v3.13.16、v3.12.15が公開</title>
+<title>[90] 「Python」でセキュリティアップデート、「Critical」評価の脆弱性などを解決【10月2日追記】／v3.14.8、v3.13.16、v3.12.15が公開、遅れてv3.11.17、v3.10.22もリリース</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2144739.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2144739.html</guid>
 <pubDate>Thu, 01 Oct 2026 05:39:00 +0000</pubDate>
@@ -149,6 +149,14 @@
 <pubDate>Tue, 22 Sep 2026 15:00:00 +0000</pubDate>
 <category>Next.js Blog</category>
 <description>Next.js 16.3.6 and 15.5.26 are planned for a critical out-of-band security update on September 22, 2026. — Next.js Blog / score: 90 (重要度の高いフレームワークのセキュリティ更新)</description>
+</item>
+<item>
+<title>[85] 第一生命に不正アクセス　従業員情報12万人分漏えいか　退職者も対象</title>
+<link>https://www.itmedia.co.jp/news/article/2610/02/2000001971/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/02/2000001971/</guid>
+<pubDate>Fri, 02 Oct 2026 08:01:49 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>第一ライフグループと第一生命保険は10月2日、2社が使う人事システムが不正アクセスを受け、従業員情報約12万人分が漏えいした可能性があると発表した。うち7万人分は退職者の情報という。 漏えいした可能性がある情報は、対象者の従業員番号、氏名、住所、電話番号、性別、所属、職位、職務、上長の名前。2社からグルー... — はてなブックマーク テクノロジー / score: 85 (大規模な個人情報の漏えいインシデント)</description>
 </item>
 <item>
 <title>[85] 「LibreOffice」に7件の脆弱性、うち5件は「Claude」が発見／対策済みバージョンへの更新を</title>
@@ -431,14 +439,6 @@
 <description> — Hugging Face Blog / score: 85 (Transformersライブラリの量子化モデル対応)</description>
 </item>
 <item>
-<title>[80] MetaのAIエージェント、勝手に自宅の住所を他人に教えてしまう</title>
-<link>https://www.gizmodo.jp/article/2610-meta-ai-agent-shares-home-address/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2610-meta-ai-agent-shares-home-address/</guid>
-<pubDate>Thu, 01 Oct 2026 13:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>身近なAIインシデントだ…。Metaが2026年9月8日から提供を始めたAIエージェント、Muse。日本ではまだ利用できませんが、海外ではMuseが勝手にユーザーの住所を教えてしまう恐ろしい事件が起きたようです。出品者とのやりとりを勝手に進… — ギズモード・ジャパン / score: 80 (AIエージェントによる個人情報漏洩の深刻なインシデント)</description>
-</item>
-<item>
 <title>[80] 「Oracle JDK 21」は無償の「NFTC」ライセンスの対象外に、10月「CPU」以降で／「Oracle JDK」を無償で商用運用したいなら「Oracle JDK 25」への移行を</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2144856.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2144856.html</guid>
@@ -575,12 +575,12 @@
 <description>GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models. — OpenAI News / score: 80 (最新GPTモデルの性能向上とコスト削減)</description>
 </item>
 <item>
-<title>[75] Cloudflare、開発者向けのオープンなデータ分析基盤「Basin」を発表</title>
-<link>https://ascii.jp/elem/000/004/439/4439712/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/439/4439712/?rss</guid>
-<pubDate>Fri, 02 Oct 2026 07:00:56 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>Cloudflare、開発者向けのオープンなデータ分析基盤「Basin」を発表 — ASCII.jp / score: 75 (Cloudflareによる開発者向けの新しいデータ分析基盤発表。)</description>
+<title>[75] Cloudflare、Git互換ストレージ「Artifacts」をオープンベータに ——米国・カナダ在住者向けに「次のGitHub」開発コンテストも開催</title>
+<link>https://gihyo.jp/article/2026/10/cloudflare-artifacts-open-beta?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/10/cloudflare-artifacts-open-beta?utm_source=feed</guid>
+<pubDate>Fri, 02 Oct 2026 08:19:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Cloudflareは2026年10月1日、Git互換ストレージ「Artifacts」をオープンベータとして公開した。あわせて、米国・カナダの居住者を対象に、ArtifactsとCloudflare Workersを使い、複数のAIエージェントが並行して作業できるGitプラットフォームを開発するコンテストの開催を発表した。 — gihyo.jp / score: 75 (CloudflareのGit互換ストレージ公開)</description>
 </item>
 <item>
 <title>[75] 「Android Studio」が「BYOA」に対応 ～Claude、Codex、Antigravityなどを選べる／コーディングエージェントをオープン仕様「Agent Client Protocol」で接続</title>
@@ -629,14 +629,6 @@
 <pubDate>Thu, 01 Oct 2026 15:01:43 +0000</pubDate>
 <category>Hugging Face Blog</category>
 <description> — Hugging Face Blog / score: 75 (MoE向けの大規模学習インフラの公開)</description>
-</item>
-<item>
-<title>[75] 中国製スマートグラスInmo Air 3がリコール。重傷または死亡のリスクで「使用をただちに中止」</title>
-<link>https://www.gizmodo.jp/article/2610-inmo-air-3-recall/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2610-inmo-air-3-recall/</guid>
-<pubDate>Thu, 01 Oct 2026 12:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>中国製スマートグラス「Inmo Air 3」がオーバーヒートの危険性でリコール。重傷や死亡リスクが指摘されており、米国消費者製品安全委員会が使用中止とメーカーへの連絡を呼びかけています。 — ギズモード・ジャパン / score: 75 (スマートグラスのリコール情報で安全上の重要度が高い)</description>
 </item>
 <item>
 <title>[75] AWS Security Hub introduces remediation plans to prioritize and fix security exposures</title>
@@ -805,6 +797,14 @@
 <pubDate>Sat, 26 Sep 2026 03:04:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Microsoftは9月25日、Microsoft Copilotの大型アップデートを発表した。ChatとCoworkをまとめる「Home」、自然言語でアプリを作成する「Code」、継続的に業務を進めるAIエージェント「Autopilot」を軸に、対話や文書作成、アプリ開発を一つのアプリに集約し、指定した作業をAIに任せることもできる。 — gihyo.jp / score: 75 (Microsoft Copilotの大型機能アップデート)</description>
+</item>
+<item>
+<title>[75] JEP targeted to JDK 28: 539: Strict Field Initialization in the JVM (Preview)</title>
+<link>https://inside.java/2026/09/26/jep539-target-jdk28/</link>
+<guid isPermaLink="true">https://inside.java/2026/09/26/jep539-target-jdk28/</guid>
+<pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+<category>Inside Java</category>
+<description>The following JEP is targeted to JDK 28: 539: Strict Field Initialization in the JVM (Preview) — Inside Java / score: 75 (JDK 28の新機能JEPターゲット発表)</description>
 </item>
 </channel>
 </rss>
