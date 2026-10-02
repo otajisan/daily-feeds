@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 02 Oct 2026 10:09:45 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 12:14:58 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] GitHubにうっかり公開された認証情報54万件以上が有効なまま放置されていることが判明</title>
@@ -151,6 +151,14 @@
 <description>Next.js 16.3.6 and 15.5.26 are planned for a critical out-of-band security update on September 22, 2026. — Next.js Blog / score: 90 (重要度の高いフレームワークのセキュリティ更新)</description>
 </item>
 <item>
+<title>[85] 【速報】ヤマト運輸、不正アクセスで顧客情報流出か</title>
+<link>https://www.47news.jp/15026982.html</link>
+<guid isPermaLink="true">https://www.47news.jp/15026982.html</guid>
+<pubDate>Fri, 02 Oct 2026 09:50:04 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>ヤマト運輸は2日、インターネット通販向けの決済サービスに不正アクセスがあり、顧客の氏名や住所、電話番号などの個人情報が流出した可能性があると発表した。クレジットカード情報やパスワードは含まれていないという。 — はてなブックマーク テクノロジー / score: 85 (顧客情報の流出を伴うセキュリティ・インシデント)</description>
+</item>
+<item>
 <title>[85] 第一生命に不正アクセス　従業員情報12万人分漏えいか　退職者も対象</title>
 <link>https://www.itmedia.co.jp/news/article/2610/02/2000001971/</link>
 <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/02/2000001971/</guid>
@@ -183,14 +191,6 @@
 <description>GoogleがついにフロンティアAIをリリース、その名も「Gemini 4 Argon」。OpenAI・Anthropicと戦えそうな性能と、料金面のアドバンテージと見どころが多くなっています。 — ギズモード・ジャパン / score: 85 (Googleの新しいフロンティアAI発表)</description>
 </item>
 <item>
-<title>[85] ローソンのメールサーバが踏み台に、不審メール約70万件送信　件名「RE」など</title>
-<link>https://www.itmedia.co.jp/news/article/2610/02/2000001947/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/02/2000001947/</guid>
-<pubDate>Fri, 02 Oct 2026 00:14:45 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>同社が確認した不審メールは、件名が「Mutual Benefit」または「RE」で、英文で金銭の取得を示唆し、メールでの連絡や個人情報の提供などを求める内容。 他の内容で送信している可能性もある。送信元アドレスの表示を第三者に見えるよう偽装したケースもあるという。 現時点で情報流出やデータセンター内への侵入、デー... — はてなブックマーク テクノロジー / score: 85 (メールサーバが踏み台にされたセキュリティインシデント)</description>
-</item>
-<item>
 <title>[85] リモートデスクトップソフト「TeamViewer」に5件の脆弱性、修正版が公開／最大の深刻度は「High」、リモートコード実行につながる可能性も</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2145032.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2145032.html</guid>
@@ -205,22 +205,6 @@
 <pubDate>Thu, 01 Oct 2026 18:28:43 +0000</pubDate>
 <category>Publickey</category>
 <description>Google Cloudは、大規模分散データベースとしてリレーショナルモデルだけでなくグラフ型やキーバリュー型、ベクトル検索、テキスト検索などのマルチモデルに対応したデータベースソフトウェア「Spanner Omni」の正式版リリースを発表... — Publickey / score: 85 (Spanner Omni正式版リリースは重要)</description>
-</item>
-<item>
-<title>[85] OpenAIはテストの監視が不十分であるという社内警告を繰り返し無視して追加のセキュリティ対策をせず迅速なリリースを優先していた</title>
-<link>https://gigazine.net/news/20261001-openai-ignored-warnings/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261001-openai-ignored-warnings/</guid>
-<pubDate>Thu, 01 Oct 2026 14:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>OpenAIではAIエージェントが社内テスト中に誤ってHugging Faceをハッキングしてしまった事例など、複数のインシデントが発生しています。OpenAIのAIモデルが暴走を始める数か月前に、従業員が経営幹部に警告を送っていたものの、経営幹部はその警告を無視していたことが社内メールから明らかになりました。 続きを読む... — GIGAZINE / score: 85 (OpenAIの安全性軽視に関する重大な内部告発)</description>
-</item>
-<item>
-<title>[85] Microsoft、「Windows 11 2026 Update」を提供開始</title>
-<link>https://codezine.jp/article/detail/29869</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/29869</guid>
-<pubDate>Thu, 01 Oct 2026 04:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 85 (Windows 11のメジャーアップデート提供開始)</description>
 </item>
 <item>
 <title>[85] Python 3.10.22, 3.11.17, 3.12.15, 3.13.16 and 3.14.8 are now available!</title>
@@ -543,6 +527,14 @@
 <description>It’s been an absolutely MONSTER week already, from new Chinese Open Weight Frontier Lab claiming the throne for the first time, to new SOTA LLM and price cuts from Anthropic and OpenAI , to Meta Connect , to TypeSafe AI’s $10B fundraise after our exclusive podcast this weekend (already one of our top of all time, with two pods on genomic language models and AI scientists sending us above heavyweights like TBPN and MKBHD in Apple Podcasts , and helping cross 200K on YouTube ). Today is the calm b — Latent Space / score: 80 (AI業界の最新動向や主要モデルのアップデートまとめ)</description>
 </item>
 <item>
+<title>[80] Spring Boot 4.2.0-M2 available now</title>
+<link>https://spring.io/blog/2026/09/25/spring-boot-4-2-0-M2-available-now</link>
+<guid isPermaLink="true">https://spring.io/blog/2026/09/25/spring-boot-4-2-0-M2-available-now</guid>
+<pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+<category>Spring Blog</category>
+<description>On behalf of the team and everyone who has contributed, I'm happy to announce that Spring Boot 4.2.0-M2 has been released and is now available from Maven Central. This release includes 141 enhancements, documentation improvements, dependency upgrades, and bug fixes . Notable new features include: SSL bundle support for LDAP, including LDAPS support for the embedded LDAP server. Support for OpenTelemetry's semantic conventions, alongside common OTLP endpoint, header, and compression configuration — Spring Blog / score: 80 (主要フレームワークSpring Bootのマイナーリリース)</description>
+</item>
+<item>
 <title>[80] AWS Network Security Manager is now generally available in US East (N. Virginia) Region</title>
 <link>https://aws.amazon.com/about-aws/whats-new/2026/09/network-security-manager-us-east-va/</link>
 <guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/network-security-manager-us-east-va/</guid>
@@ -594,9 +586,9 @@
 <title>[75] MicronのCEOがメモリ不足が2028年かそれ以降も続く可能性があると警告、「顧客は今年支払った価格よりも『はるかに高い価格』を支払うことになるだろう」</title>
 <link>https://gigazine.net/news/20261002-micron-ceo-ram-supply/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261002-micron-ceo-ram-supply/</guid>
-<pubDate>Fri, 02 Oct 2026 03:48:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>メモリメーカーのMicronが、メモリとストレージの供給不足は2027年と2028年にさらに深刻化するとの見通しを示しました。サンジェイ・メロートラCEOは需要と供給が均衡する時期を見通せないと説明し、不足が2028年以降も続く可能性を示唆しています。また、2027年向けの高帯域幅メモリ(HBM)について、顧客が2026年よりも大幅に高い価格を支払う契約を結んでいることを明らかにしました。 続きを読む... — GIGAZINE / score: 75 (Micronによるメモリ不足の継続と価格高騰の警告)</description>
+<pubDate>Fri, 02 Oct 2026 04:22:20 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>メモリメーカーのMicronが、メモリとストレージの供給不足は2027年と2028年にさらに深刻化するとの見通しを示しました。サンジェイ・メロートラCEOは需要と供給が均衡する時期を見通せないと説明し、不足が2028年以降も続く可能性を示唆しています。また、2027年向けの高帯域幅メモリ(HBM)について、顧客が2026年よりも... — はてなブックマーク テクノロジー / score: 75 (Micronによるメモリ不足の継続と価格高騰の警告)</description>
 </item>
 <item>
 <title>[75] GuardDuty Runtime Monitoring is now included in the AWS Security Hub Threat Analytics plan</title>
@@ -605,6 +597,14 @@
 <pubDate>Fri, 02 Oct 2026 03:35:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Today, AWS announces that Amazon GuardDuty Runtime Monitoring is now included in the AWS Security Hub Threat Analytics plan. Runtime Monitoring inspects operating system, network, and file activity to surface threats such as container escapes, privilege escalation, and cryptomining on Amazon EC2 instances, Amazon EKS clusters, and Amazon ECS tasks on AWS Fargate. Security Hub now bills this coverage through streamlined pricing. If you have Security Hub enabled in an account and region, you no lo — AWS What's New / score: 75 (AWSセキュリティ監視機能の統合アップデート)</description>
+</item>
+<item>
+<title>[75] 「Gemini 4 Argon」とは　性能評価にみるAstra／Fable／Opusとの違い　一般提供は年内？</title>
+<link>https://www.itmedia.co.jp/aiplus/article/2610/02/2000001954/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2610/02/2000001954/</guid>
+<pubDate>Fri, 02 Oct 2026 03:24:40 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>米Googleは9月30日（現地時間、以下同）、同社の新たな最先端モデル「Gemini 4 Argon」（以下、Argon）を発表した。Google DeepMindの評価資料では、米OpenAIの「GPT-6 Astra」（以下、Astra）、米Anthropicの「Claude Fable 5.1」（以下、Fable 5.1）と「Claude Opus 5.5」（以下、Opus 5.5）を相手に19項目中14項目で... — はてなブックマーク テクノロジー / score: 75 (主要AIモデルの新バージョンに関する発表)</description>
 </item>
 <item>
 <title>[75] 画像生成AI「FLUX 3 Image」が登場、「最大4K生成」「被写体の位置指定」「一部分のみ編集」など高機能でオープンモデル版も数週間後に登場予定</title>
