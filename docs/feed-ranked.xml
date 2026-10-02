@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 02 Oct 2026 16:09:51 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 18:13:00 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] GitHubにうっかり公開された認証情報54万件以上が有効なまま放置されていることが判明</title>
@@ -149,6 +149,14 @@
 <pubDate>Tue, 22 Sep 2026 15:00:00 +0000</pubDate>
 <category>Next.js Blog</category>
 <description>Next.js 16.3.6 and 15.5.26 are planned for a critical out-of-band security update on September 22, 2026. — Next.js Blog / score: 90 (重要度の高いフレームワークのセキュリティ更新)</description>
+</item>
+<item>
+<title>[85] A model guide for the GPT-6 family</title>
+<link>https://openai.com/index/practical-guide-building-gpt-6</link>
+<guid isPermaLink="true">https://openai.com/index/practical-guide-building-gpt-6</guid>
+<pubDate>Fri, 02 Oct 2026 16:15:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production. — OpenAI News / score: 85 (次世代GPT-6ファミリーのモデル選択・活用ガイド)</description>
 </item>
 <item>
 <title>[85] 第一ライフG 従業員情報漏えいか</title>
@@ -431,6 +439,14 @@
 <description> — Hugging Face Blog / score: 85 (Transformersライブラリの量子化モデル対応)</description>
 </item>
 <item>
+<title>[80] Amazon EKS and Amazon EKS Distro now support Kubernetes version 1.37</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-eks-distro-kubernetes-version-1-37</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-eks-distro-kubernetes-version-1-37</guid>
+<pubDate>Fri, 02 Oct 2026 17:30:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Kubernetes version 1.37 introduced several new features and bug fixes, and AWS is excited to announce that you can now use Amazon Elastic Kubernetes Service (EKS) and Amazon EKS Distro to run Kubernetes version 1.37. Starting today, you can create new EKS clusters using version 1.37 and upgrade existing clusters to version 1.37 using the EKS console, the eksctl command line interface, or through an infrastructure-as-code tool. Kubernetes version 1.37 introduces several key improvements, promotin — AWS What's New / score: 80 (Amazon EKSのKubernetes 1.37サポート開始)</description>
+</item>
+<item>
 <title>[80] ［社説］パーク24の情報管理はずさんすぎる - 日本経済新聞</title>
 <link>https://www.nikkei.com/article/DGXZQODK026BY0S6A001C2000000/</link>
 <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQODK026BY0S6A001C2000000/</guid>
@@ -559,14 +575,6 @@
 <description>Amazon SageMaker HyperPod Inference Gateway is a Kubernetes-native, GPU-aware routing system that deploys as a single EKS managed add-on on existing SageMaker HyperPod infrastructure with zero application changes. By replacing unintelligent round-robin load balancing with real-time inference-signal-driven routing, it reduces first-token latency by up to 82% and p99 TTFT reductions of 97–98% in mixed-hardware and burst traffic scenarios. The Gateway is built around 3 core components. The Envoy En — AWS What's New / score: 80 (Amazon SageMaker HyperPod Inference Gatewayの提供)</description>
 </item>
 <item>
-<title>[80] OpenAI GPT-6 Sol and GPT-6 Luna are now generally available on Amazon Bedrock</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-sol-luna-on-amazon-bedrock/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-sol-luna-on-amazon-bedrock/</guid>
-<pubDate>Tue, 22 Sep 2026 18:09:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Today, AWS announces the general availability of GPT-6 Sol and GPT-6 Luna from OpenAI on Amazon Bedrock. Expanding the GPT-6 family alongside Astra, these two models give teams more ways to balance intelligence, speed, and cost across every workload. Sol is the daily model for recurring complex tasks and software development. On an internal OpenAI factuality evaluation, it makes roughly half as many mistakes as GPT-5.6 Sol. Luna is the family's most efficient model for focused, high-volume tasks — AWS What's New / score: 80 (主要クラウドでの新AIモデルの一般提供開始)</description>
-</item>
-<item>
 <title>[80] Parallel cut research time and cost in half with GPT‑6 Astra</title>
 <link>https://openai.com/index/parallel-cuts-time-and-cost-with-astra</link>
 <guid isPermaLink="true">https://openai.com/index/parallel-cuts-time-and-cost-with-astra</guid>
@@ -653,6 +661,14 @@
 <pubDate>Thu, 01 Oct 2026 08:30:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 75 (GoogleのAI製品群の大きな仕様変更)</description>
+</item>
+<item>
+<title>[75] グーグル、最先端AI「ジェミニ4アルゴン」の一般公開見送り 安全上の懸念</title>
+<link>https://www.afpbb.com/articles/-/3655570</link>
+<guid isPermaLink="true">https://www.afpbb.com/articles/-/3655570</guid>
+<pubDate>Thu, 01 Oct 2026 06:35:20 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>【10月1日 AFP】米グーグルは9月30日、同社で最も強力な人工知能（AI）モデル「ジェミニ4アルゴン」の一般公開を当面見送る方針を明らかにした。ハッカーによる悪用が懸念されるためとしている。一般公開までは、特定のサイバーセキュリティー専門家チームにのみアクセス権限が付与されるという。 一般公開の見送りにつ... — はてなブックマーク テクノロジー / score: 75 (AIモデルの公開見送りに関する重要なセキュリティニュース)</description>
 </item>
 <item>
 <title>[75] Slack、不正ワークスペース招待によるフィッシング増加を確認</title>
@@ -789,22 +805,6 @@
 <pubDate>Mon, 28 Sep 2026 15:00:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>AWS now offers Claude Sonnet 5.5, a smarter and more efficient Sonnet that delivers a clear leap forward on coding and knowledge work with at a lower cost per task for most work at faster speed. Claude Sonnet 5.5 is a smarter, more efficient Sonnet and a step up from Sonnet 5, making it a natural upgrade for teams already building on Sonnet. It's stronger for coding, completing well-scoped tasks as part of a larger coding strategy such as building and fixing features with Claude in the same sess — AWS What's New / score: 75 (AWSでの有力な新AIモデルClaude Sonnet 5.5提供開始)</description>
-</item>
-<item>
-<title>[75] Claude Code、/usageによる推定費用の確認とエフォートの使い分けを解説 ——Opus 5.5の料金とキャッシュの利用</title>
-<link>https://gihyo.jp/article/2026/09/claude-code-usage-and-effort?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/09/claude-code-usage-and-effort?utm_source=feed</guid>
-<pubDate>Sat, 26 Sep 2026 09:18:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Anthropicは2026年9月25日、開発者向けブログで、Claude Opus 5.5を使った作業の費用と、推論などにかける計算量を調整するエフォート（effort）の使い分けを解説した。 — gihyo.jp / score: 75 (開発者向けAIツールの費用と機能の解説)</description>
-</item>
-<item>
-<title>[75] Microsoft、Copilotの大型アップデートを発表 ——Home・Code・Autopilotで対話からアプリ作成、作業の実行まで</title>
-<link>https://gihyo.jp/article/2026/09/microsoft-copilot-updates-with-home-code-autopilot?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/09/microsoft-copilot-updates-with-home-code-autopilot?utm_source=feed</guid>
-<pubDate>Sat, 26 Sep 2026 03:04:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Microsoftは9月25日、Microsoft Copilotの大型アップデートを発表した。ChatとCoworkをまとめる「Home」、自然言語でアプリを作成する「Code」、継続的に業務を進めるAIエージェント「Autopilot」を軸に、対話や文書作成、アプリ開発を一つのアプリに集約し、指定した作業をAIに任せることもできる。 — gihyo.jp / score: 75 (Microsoft Copilotの大型機能アップデート)</description>
 </item>
 </channel>
 </rss>

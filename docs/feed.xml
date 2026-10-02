@@ -4,8 +4,32 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 02 Oct 2026 16:09:51 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 18:13:00 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Amazon EKS and Amazon EKS Distro now support Kubernetes version 1.37</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-eks-distro-kubernetes-version-1-37</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-eks-distro-kubernetes-version-1-37</guid>
+<pubDate>Fri, 02 Oct 2026 17:30:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Kubernetes version 1.37 introduced several new features and bug fixes, and AWS is excited to announce that you can now use Amazon Elastic Kubernetes Service (EKS) and Amazon EKS Distro to run Kubernetes version 1.37. Starting today, you can create new EKS clusters using version 1.37 and upgrade existing clusters to version 1.37 using the EKS console, the eksctl command line interface, or through an infrastructure-as-code tool. Kubernetes version 1.37 introduces several key improvements, promotin — AWS What's New / score: 80 (Amazon EKSのKubernetes 1.37サポート開始)</description>
+</item>
+<item>
+<title>AWS Brazil automates distribution of non-Brazilian software product licenses to Brazilian customers</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/aws-brazil-software-license-distribution/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/aws-brazil-software-license-distribution/</guid>
+<pubDate>Fri, 02 Oct 2026 16:30:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS Brazil now provides an automated distribution workflow through the AWS Brazil 2P Distribution Program that enables eligible non-Brazilian independent software vendors (ISVs) to distribute their Software-as-a-Service (SaaS) product licenses to customers in Brazil. AWS Brazil is the seller of record, acquiring the rights to distribute SaaS product licenses to Brazilian customers and invoicing them in Brazilian Reais (BRL) with applicable Brazilian taxes. The distribution authorizations, seller — AWS What's New / score: 40 (AWSブラジルにおけるソフトウェアライセンス自動化)</description>
+</item>
+<item>
+<title>A model guide for the GPT-6 family</title>
+<link>https://openai.com/index/practical-guide-building-gpt-6</link>
+<guid isPermaLink="true">https://openai.com/index/practical-guide-building-gpt-6</guid>
+<pubDate>Fri, 02 Oct 2026 16:15:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production. — OpenAI News / score: 85 (次世代GPT-6ファミリーのモデル選択・活用ガイド)</description>
+</item>
 <item>
 <title>Announcing Spanner queues: Transactional messaging for agentic workloads and beyond</title>
 <link>https://cloud.google.com/blog/products/databases/spanner-queues-provide-native-transactional-messaging/</link>
@@ -21,6 +45,14 @@
 <pubDate>Fri, 02 Oct 2026 16:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>Whether you’re launching microservices in response to sudden traffic spikes, deploying new software releases, or scaling up application replicas, pod startup time is critical to maintaining a fast, responsive user experience for applications running on Google Kubernetes Engine (GKE). Yet, platform engineers and developers face a persistent dilemma: Applications often demand significantly more CPU power during startup than they do during steady-state operations. Sizing CPU requests for normal, st — Google Cloud Blog / score: 65 (GKEにおけるPod起動時間の高速化機能)</description>
+</item>
+<item>
+<title>What’s new with Google Cloud</title>
+<link>https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/</guid>
+<pubDate>Fri, 02 Oct 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block &lt;ListValue: []&gt; Sept 28 - Oct 2 Mastering Storage Management with Storage Intelligence In our new blog, explore practical strategies to mo — Google Cloud Blog / score: 20 (Google Cloudの一般的な更新情報まとめ)</description>
 </item>
 <item>
 <title>Open-sourcing AstaBrief, the fast report-generation model in Asta</title>
@@ -631,6 +663,14 @@
 <description>ホールエフェクトセンサーって摩耗には強くても、他の要因でトラブル起こすことがあるんですね。 ゲーミングキーボードのスペック競争ですが、そろそろ頭打ちになったでしょうか。8,000Hzのポーリングレート、0.1mm刻みのアクチュエーションポ… — ギズモード・ジャパン / score: 50 (ゲーミングキーボードのハードウェア技術動向)</description>
 </item>
 <item>
+<title>「完全国産」AI、KDDI傘下のELYZAが無料公開　「LLM-jp-4」ベースに性能強化</title>
+<link>https://www.itmedia.co.jp/aiplus/article/2610/02/2000001965/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2610/02/2000001965/</guid>
+<pubDate>Fri, 02 Oct 2026 08:31:13 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>KDDIグループのAI開発企業ELYZA（東京都文京区）は10月2日、AIモデル「ELYZA-Thinking-1.0-llm-jp-4-33b」および「ELYZA-Thinking-1.0-llm-jp-4-32b-a3b」を無料で公開した。国立情報学研究所（NII）が開発したオープンなAIモデル「LLM-jp-4」シリーズをベースに事後学習を実施し、性能を強化したという。 今回発表した2... — はてなブックマーク テクノロジー / score: 70 (国内企業による高性能な国産LLMの無料公開ニュース)</description>
+</item>
+<item>
 <title>無料メーラー「Thunderbird」v157.0.1 ～クラッシュが発生する不具合を修正／Exchange Web Services/Microsoft Graphのメッセージでクラッシュが発生する可能性</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2145245.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2145245.html</guid>
@@ -685,6 +725,14 @@
 <pubDate>Fri, 02 Oct 2026 08:00:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>「カップヌードル」シリーズの新商品として、豚骨スープと唐辛子、「旨辛ぁ油(うまからぁゆ)」を組み合わせた「カップヌードル 辛豚」が2026年9月28日(月)に登場したので、買ってきて食べてみました。 続きを読む... — GIGAZINE / score: 10 (カップ麺の新商品食レポ記事であり技術情報を含まない)</description>
+</item>
+<item>
+<title>The AWS MCP Server is now available in six additional AWS Regions</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/aws-mcp-server-six-additional-regions/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/aws-mcp-server-six-additional-regions/</guid>
+<pubDate>Fri, 02 Oct 2026 08:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>The AWS MCP Server is now available in six additional AWS Regions: Asia Pacific (Singapore), Asia Pacific (Sydney), Asia Pacific (Tokyo), Europe (Ireland), Europe (London), and US West (Oregon). The AWS MCP Server, part of the Agent Toolkit for AWS , is a managed Model Context Protocol server that gives AI coding agents a single interface to AWS APIs, so agents can discover and call AWS services without building and maintaining per-service integrations. With this expansion, customers in these Re — AWS What's New / score: 65 (AWS MCP Serverの東京リージョンを含む対応拡大)</description>
 </item>
 <item>
 <title>びっくりした。パンダ、魂抜けてるかと思った</title>
@@ -757,54 +805,6 @@
 <pubDate>Fri, 02 Oct 2026 06:55:19 +0000</pubDate>
 <category>窓の杜</category>
 <description>「Microsoft 365」のコンパニオンアプリが、米国時間2026年12月16日に廃止されるとのこと。以下の3つのアプリの提供が終了する。 — 窓の杜 / score: 50 (Microsoft 365コンパニオンアプリの廃止予定)</description>
-</item>
-<item>
-<title>Kubernetesの「境界」と「粒度」を引き直す 〜社内プラットフォームの設計判断〜 - RAKUS Developers Blog | ラクス エンジニアブログ</title>
-<link>https://tech-blog.rakus.co.jp/entry/20261002/k8s</link>
-<guid isPermaLink="true">https://tech-blog.rakus.co.jp/entry/20261002/k8s</guid>
-<pubDate>Fri, 02 Oct 2026 06:51:08 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>■ 目次 はじめに このブログの概要 対象読者と前提知識 1. なぜ、そうなっていたのか？ オンプレミスという前提 Kubernetes導入で得られたもの 残った4つの課題 「境界」と「粒度」 2. 境界をどう引き直したのか？ Namespaceの割り当て先 Tenant境界の導入 セルフサービスでの環境発行 エコシステムのテナント分離 論理... — はてなブックマーク テクノロジー / score: 60 (Kubernetesの設計とテナント分離の事例)</description>
-</item>
-<item>
-<title>iPhone 18 Pro向けApple純正MagSafe対応テックウーブンケースが19％オフの8,780円に（本日限り）</title>
-<link>https://taisy0.com/2026/10/02/228295.html</link>
-<guid isPermaLink="true">https://taisy0.com/2026/10/02/228295.html</guid>
-<pubDate>Fri, 02 Oct 2026 06:50:06 +0000</pubDate>
-<category>気になる、記になる…</category>
-<description>Amazonでは先月より「iPhone 18 Pro」と「iPhone 18 Pro Max」用のApple純正ケースのセールが実施されていますが、本日、その最終日となっており、「iPhone 18 Pro」用テックウー […] — 気になる、記になる… / score: 15 (Apple純正iPhoneケースのセール情報)</description>
-</item>
-<item>
-<title>Notionが政府のクラウド評価制度「ISMAP」に登録、Notion AIやカレンダーも対象</title>
-<link>https://codezine.jp/article/detail/29893</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/29893</guid>
-<pubDate>Fri, 02 Oct 2026 06:45:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 50 (Notionが政府のISMAPクラウド評価制度に登録)</description>
-</item>
-<item>
-<title>[AINews] Pi 1.0, Pi Durable, and AIE NYC</title>
-<link>https://www.latent.space/p/ainews-pi-10-pi-durable-and-aie-nyc</link>
-<guid isPermaLink="true">https://www.latent.space/p/ainews-pi-10-pi-durable-and-aie-nyc</guid>
-<pubDate>Fri, 02 Oct 2026 06:40:53 +0000</pubDate>
-<category>Latent Space</category>
-<description>Last call for regular tickets for AI Engineer NYC ! See you in 2 weeks! As an exclusive for Latent Space subscribers, the first 30 of you can take a 30% off code if it helps (for new tickets only, no refunds). Pi is often mentioned in the same breath as OpenClaw, as we did earlier this year : but today is time for the increasingly well regarded Earendil , which Pi joined, to have its day in the sun, with both Pi 1.0 and Pi Durable hitting the front page of HN. Pi 1.0 : Codemode (native support f — Latent Space / score: 60 (AIエンジニア向け最新情報やPi 1.0の動向)</description>
-</item>
-<item>
-<title>Androidにも「マイナアプリ」提供へ　20日から　物理カードなしでも本人確認など可能に</title>
-<link>https://www.itmedia.co.jp/news/article/2610/02/2000001968/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/02/2000001968/</guid>
-<pubDate>Fri, 02 Oct 2026 06:36:30 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>デジタル庁は10月2日、「Androidのマイナンバーカード」の提供を20日に始める予定だと発表した。既存の「Androidスマホ用電子証明書搭載サービス」を刷新するもので、Android端末でも実物のカードを提示せずに、スマートフォンで対面の本人確認や年齢確認などを受けられるようになる。 従来のサービスでは、マイナンバー... — はてなブックマーク テクノロジー / score: 65 (Androidでのマイナアプリ提供と本人確認対応)</description>
-</item>
-<item>
-<title>最新の車21台をテストした結果ほぼすべての車両が第三者のドメインにデータを送信しており半数以上が広告会社にメッセージを送信していたことが判明</title>
-<link>https://gigazine.net/news/20261002-car-data-privacy/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261002-car-data-privacy/</guid>
-<pubDate>Fri, 02 Oct 2026 06:30:57 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>現代の最新の車は「車輪のついたスマートフォン」と言われることもあるほど多機能で膨大なデータを処理しており、どこを走ったか、どれくらいの速度で加速したか、どれくらいの強さでブレーキをかけたか、どれくらい急に曲がったかなどの情報が記録されています。自動車メーカーが集めた運転データを第三者に販売してい... — はてなブックマーク テクノロジー / score: 60 (現代の自動車におけるデータ収集とプライバシーに関する調査)</description>
 </item>
 </channel>
 </rss>
