@@ -4,8 +4,16 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 02 Oct 2026 06:16:38 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 08:13:14 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>[95] GitHubにうっかり公開された認証情報54万件以上が有効なまま放置されていることが判明</title>
+<link>https://gigazine.net/news/20261002-github-credentials-not-revoked/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261002-github-credentials-not-revoked/</guid>
+<pubDate>Fri, 02 Oct 2026 07:22:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>セキュリティ企業のTruffle SecurityがGitHubの公開リポジトリを大規模に調査した結果、APIキーやアクセストークン、データベースの接続情報など54万3699件もの認証情報が実際に利用可能な状態で公開され続けていたことが明らかになりました。認証情報が公開されてからの期間は中央値で784日で、中には2009年から16年以上にわたって有効だったものも確認されています。 続きを読む... — GIGAZINE / score: 95 (GitHub上に54万件以上の有効な認証情報が放置され深刻)</description>
+</item>
 <item>
 <title>[95] September 2026 Security Release</title>
 <link>https://nextjs.org/blog/september-2026-security-release</link>
@@ -359,14 +367,6 @@
 <description>米Anthropicは9月28日（現地時間、以下同）、「Claude Sonnet 5.5」を発表した。「Opus 5.5」に続く「Claude 5.5」ファミリーの第2弾で、先代の「Sonnet 5」からは30％以上も高速化。多くの作業でコストは最大30％安くなるという。高頻度・コスト重視の用途に向けた「Claude Haiku 5.5」も、数週間のうちにファミリーへ加わる予定だ。 — 窓の杜 / score: 85 (Anthropicの主要AIモデル高速化とコスト削減発表)</description>
 </item>
 <item>
-<title>[85] Adobe、7製品・36件の脆弱性を公表 ～2026年9月2回目のセキュリティアップデート／「Premiere」「InDesign」「Bridge」などに影響</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2143646.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2143646.html</guid>
-<pubDate>Mon, 28 Sep 2026 04:05:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Adobeは9月22日（現地時間、以下同）、自社製品に関するセキュリティ情報を発表した。8日に続く今月2回目のアナウンスで、「InDesign」や「Premiere Pro」など7製品が対象となっている。 — 窓の杜 / score: 85 (多数の製品に影響するAdobeの脆弱性)</description>
-</item>
-<item>
 <title>[85] Cursor、GitHubの新たな代替となるAIエージェントネイティブな開発基盤「Origin」を公開</title>
 <link>https://www.infoq.com/jp/news/2026/09/cursor-origin-alternative-github/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
 <guid isPermaLink="true">https://www.infoq.com/jp/news/2026/09/cursor-origin-alternative-github/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
@@ -543,14 +543,6 @@
 <description>It’s been an absolutely MONSTER week already, from new Chinese Open Weight Frontier Lab claiming the throne for the first time, to new SOTA LLM and price cuts from Anthropic and OpenAI , to Meta Connect , to TypeSafe AI’s $10B fundraise after our exclusive podcast this weekend (already one of our top of all time, with two pods on genomic language models and AI scientists sending us above heavyweights like TBPN and MKBHD in Apple Podcasts , and helping cross 200K on YouTube ). Today is the calm b — Latent Space / score: 80 (AI業界の最新動向や主要モデルのアップデートまとめ)</description>
 </item>
 <item>
-<title>[80] Spring Boot 4.2.0-M2 available now</title>
-<link>https://spring.io/blog/2026/09/25/spring-boot-4-2-0-M2-available-now</link>
-<guid isPermaLink="true">https://spring.io/blog/2026/09/25/spring-boot-4-2-0-M2-available-now</guid>
-<pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-<category>Spring Blog</category>
-<description>On behalf of the team and everyone who has contributed, I'm happy to announce that Spring Boot 4.2.0-M2 has been released and is now available from Maven Central. This release includes 141 enhancements, documentation improvements, dependency upgrades, and bug fixes . Notable new features include: SSL bundle support for LDAP, including LDAPS support for the embedded LDAP server. Support for OpenTelemetry's semantic conventions, alongside common OTLP endpoint, header, and compression configuration — Spring Blog / score: 80 (主要フレームワークSpring Bootのマイナーリリース)</description>
-</item>
-<item>
 <title>[80] AWS Network Security Manager is now generally available in US East (N. Virginia) Region</title>
 <link>https://aws.amazon.com/about-aws/whats-new/2026/09/network-security-manager-us-east-va/</link>
 <guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/network-security-manager-us-east-va/</guid>
@@ -583,20 +575,20 @@
 <description>GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models. — OpenAI News / score: 80 (最新GPTモデルの性能向上とコスト削減)</description>
 </item>
 <item>
+<title>[75] Cloudflare、開発者向けのオープンなデータ分析基盤「Basin」を発表</title>
+<link>https://ascii.jp/elem/000/004/439/4439712/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/439/4439712/?rss</guid>
+<pubDate>Fri, 02 Oct 2026 07:00:56 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>Cloudflare、開発者向けのオープンなデータ分析基盤「Basin」を発表 — ASCII.jp / score: 75 (Cloudflareによる開発者向けの新しいデータ分析基盤発表。)</description>
+</item>
+<item>
 <title>[75] 「Android Studio」が「BYOA」に対応 ～Claude、Codex、Antigravityなどを選べる／コーディングエージェントをオープン仕様「Agent Client Protocol」で接続</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2145036.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2145036.html</guid>
 <pubDate>Fri, 02 Oct 2026 05:45:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Googleは9月24日（現地時間）、「Android Studio」に「Bring Your Own Agent」（BYOA）機能を導入すると発表した。Androidアプリの開発者が好みのコーディングエージェントを「Android Studio」に接続できるようにする。 — 窓の杜 / score: 75 (Android Studioのコーディングエージェント拡張機能)</description>
-</item>
-<item>
-<title>[75] Androidのマイナンバーカード、ついに開始　10月20日から</title>
-<link>https://ascii.jp/elem/000/004/439/4439585/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/439/4439585/?rss</guid>
-<pubDate>Fri, 02 Oct 2026 04:55:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>abstract — ASCII.jp / score: 75 (Androidのマイナンバーカード対応開始)</description>
 </item>
 <item>
 <title>[75] MicronのCEOがメモリ不足が2028年かそれ以降も続く可能性があると警告、「顧客は今年支払った価格よりも『はるかに高い価格』を支払うことになるだろう」</title>
@@ -663,14 +655,6 @@
 <description> — CodeZine / score: 75 (GoogleのAI製品群の大きな仕様変更)</description>
 </item>
 <item>
-<title>[75] DeepSeekがHuaweiと提携しAscend向け「TileLang」など6つのAI開発ツールをオープンソースで公開、NVIDIAのCUDA依存低減を狙う</title>
-<link>https://gigazine.net/news/20261001-deepseek-huawei-ascend/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261001-deepseek-huawei-ascend/</guid>
-<pubDate>Thu, 01 Oct 2026 07:45:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>中国のAI企業であるDeepSeekがHuaweiと協力し、Huawei製AIチップ「Ascend」向けのプログラミング基盤を公開しました。公開されたソフトウェアには高性能な演算プログラムを開発しやすくする「TileLang」や行列計算ライブラリ「DeepGEMM Ascend」などが含まれており、いずれもオープンソースで公開されています。DeepSeekはCUDAより簡潔に記述できるプログラミング環境を提供しながら、ハードウェア性能を引き出すことを目指していると説明しています。 続きを読む... — GIGAZINE / score: 75 (DeepSeekとHuaweiのオープンソースAIツール公開)</description>
-</item>
-<item>
 <title>[75] Slack、不正ワークスペース招待によるフィッシング増加を確認</title>
 <link>https://codezine.jp/article/detail/29870</link>
 <guid isPermaLink="true">https://codezine.jp/article/detail/29870</guid>
@@ -735,14 +719,6 @@
 <description>Today, AWS announces the general availability of GPT-6.1 Sol from OpenAI on Amazon Bedrock. An upgrade to GPT-6 Sol, GPT-6.1 Sol delivers exceptionally strong performance on agentic coding, computer use, and professional work. According to OpenAI, it approaches GPT-6 Astra across demanding evaluations at roughly one-fifth of the cost, giving developers more room to build and run capable agents at scale. The Amazon Bedrock inference engine delivers the performance, security, and reliability requi — AWS What's New / score: 75 (OpenAIの最新モデルがAmazon Bedrockで利用可能になり影響が大きい)</description>
 </item>
 <item>
-<title>[75] Kubernetes の nftables モードについて</title>
-<link>https://qiita.com/yosshi_/items/406da8322313c93f0a2d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/yosshi_/items/406da8322313c93f0a2d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Tue, 29 Sep 2026 18:40:54 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>はじめに kube-proxy に nftables モードが入って、GA してからもうしばらく経ちます。ノード数・Pod数が多いクラスタでは iptables のルール同期が遅れるという長年の悩みがあり、それを直すための変更なので、影響の大きさが気になって調べてみました... — Qiita 人気記事 / score: 75 (Kubernetesのkube-proxyにおけるnftablesモードの影響解説です。)</description>
-</item>
-<item>
 <title>[75] Google Cloud、AIエージェントからの大量アクセスをPostgreSQLのプライマリDBから切り離せる「PostgreSQL for agents in AlloyDB」発表</title>
 <link>https://www.publickey1.jp/blog/26/google_cloudaipostgresqldbpostgresql_for_agents_in_alloydb.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/google_cloudaipostgresqldbpostgresql_for_agents_in_alloydb.html</guid>
@@ -805,6 +781,30 @@
 <pubDate>Mon, 28 Sep 2026 15:01:25 +0000</pubDate>
 <category>Publickey</category>
 <description>Amazon Web Services（AWS）は、GPTやClaude、Gemini、Ollamaなど主要なLLMやLLMランタイムを基にした高性能なAIエージェントを簡単に自作できるツール「Strandsハーネス」をオープンソースで公開... — Publickey / score: 75 (主要なLLM対応AIエージェントOSS公開のため)</description>
+</item>
+<item>
+<title>[75] Claude Sonnet 5.5 now available on AWS</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/claude-sonnet-5-5-aws/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/claude-sonnet-5-5-aws/</guid>
+<pubDate>Mon, 28 Sep 2026 15:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS now offers Claude Sonnet 5.5, a smarter and more efficient Sonnet that delivers a clear leap forward on coding and knowledge work with at a lower cost per task for most work at faster speed. Claude Sonnet 5.5 is a smarter, more efficient Sonnet and a step up from Sonnet 5, making it a natural upgrade for teams already building on Sonnet. It's stronger for coding, completing well-scoped tasks as part of a larger coding strategy such as building and fixing features with Claude in the same sess — AWS What's New / score: 75 (AWSでの有力な新AIモデルClaude Sonnet 5.5提供開始)</description>
+</item>
+<item>
+<title>[75] Claude Code、/usageによる推定費用の確認とエフォートの使い分けを解説 ——Opus 5.5の料金とキャッシュの利用</title>
+<link>https://gihyo.jp/article/2026/09/claude-code-usage-and-effort?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/09/claude-code-usage-and-effort?utm_source=feed</guid>
+<pubDate>Sat, 26 Sep 2026 09:18:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Anthropicは2026年9月25日、開発者向けブログで、Claude Opus 5.5を使った作業の費用と、推論などにかける計算量を調整するエフォート（effort）の使い分けを解説した。 — gihyo.jp / score: 75 (開発者向けAIツールの費用と機能の解説)</description>
+</item>
+<item>
+<title>[75] Microsoft、Copilotの大型アップデートを発表 ——Home・Code・Autopilotで対話からアプリ作成、作業の実行まで</title>
+<link>https://gihyo.jp/article/2026/09/microsoft-copilot-updates-with-home-code-autopilot?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/09/microsoft-copilot-updates-with-home-code-autopilot?utm_source=feed</guid>
+<pubDate>Sat, 26 Sep 2026 03:04:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Microsoftは9月25日、Microsoft Copilotの大型アップデートを発表した。ChatとCoworkをまとめる「Home」、自然言語でアプリを作成する「Code」、継続的に業務を進めるAIエージェント「Autopilot」を軸に、対話や文書作成、アプリ開発を一つのアプリに集約し、指定した作業をAIに任せることもできる。 — gihyo.jp / score: 75 (Microsoft Copilotの大型機能アップデート)</description>
 </item>
 </channel>
 </rss>
