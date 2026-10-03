@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sat, 03 Oct 2026 21:00:28 +0000</lastBuildDate>
+<lastBuildDate>Sat, 03 Oct 2026 22:55:15 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] GitHubにうっかり公開された認証情報54万件以上が有効なまま放置されていることが判明</title>
@@ -149,6 +149,14 @@
 <pubDate>Tue, 22 Sep 2026 15:00:00 +0000</pubDate>
 <category>Next.js Blog</category>
 <description>Next.js 16.3.6 and 15.5.26 are planned for a critical out-of-band security update on September 22, 2026. — Next.js Blog / score: 90 (重要度の高いフレームワークのセキュリティ更新)</description>
+</item>
+<item>
+<title>[85] Microsoft Digital Defense Report 2026 | Microsoft</title>
+<link>https://www.microsoft.com/en-us/corporate-responsibility/topics/cybersecurity/reports/microsoft-digital-defense-report/</link>
+<guid isPermaLink="true">https://www.microsoft.com/en-us/corporate-responsibility/topics/cybersecurity/reports/microsoft-digital-defense-report/</guid>
+<pubDate>Sat, 03 Oct 2026 08:35:42 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>In an era of interconnected risk, attackers are increasingly exploiting the trusted identities, systems, relationships, and services organizations rely on most. The 2026 Microsoft Digital Defense Report reveals a fundamental shift in cybersecurity with the interconnected digital ecosystem and the... — はてなブックマーク テクノロジー / score: 85 (Microsoftによる重要なセキュリティ脅威レポート)</description>
 </item>
 <item>
 <title>[85] 韓国6行に「AIハッキング」、4行で個人情報流出</title>
@@ -631,6 +639,14 @@
 <description>開発支援ツール「Claude Code」は、コードの作成だけでなく、既存コードの調査や修正、テストまでこなすようになっている。最近では、人間が細かな作業を一つずつ指示しなくても、与えられた目標に向けて自ら作業を進めるケースも報告されている。 そんな中、「Claude」の開発元であるAnthropicは、Webサービス版「claud... — はてなブックマーク テクノロジー / score: 75 (Anthropicの開発知見やAIツールの裏側)</description>
 </item>
 <item>
+<title>[75] 損保ジャパンはなぜ「COBOL」を捨てなかったのか？　脱メインフレームの真相</title>
+<link>https://techtarget.itmedia.co.jp/tt/article/2610/02/2000001917/</link>
+<guid isPermaLink="true">https://techtarget.itmedia.co.jp/tt/article/2610/02/2000001917/</guid>
+<pubDate>Fri, 02 Oct 2026 08:23:53 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>「リビルド」「リライト」に潜むリスク 損保ジャパンはなぜ「COBOL」を捨てなかったのか？ 脱メインフレームの真相 メインフレーム刷新は企業の急務だが、全面的なリビルドやリライトには費用面とリスク面での懸念が残る。損保ジャパンの事例から、既存資産を生かした「リホスト」選定のロジックと意思決定の基準を読み... — はてなブックマーク テクノロジー / score: 75 (大規模システムのメインフレーム刷新に関する実例。)</description>
+</item>
+<item>
 <title>[75] Cloudflare、Git互換ストレージ「Artifacts」をオープンベータに ——米国・カナダ在住者向けに「次のGitHub」開発コンテストも開催</title>
 <link>https://gihyo.jp/article/2026/10/cloudflare-artifacts-open-beta?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/10/cloudflare-artifacts-open-beta?utm_source=feed</guid>
@@ -759,6 +775,14 @@
 <description>Cloudflareは2026年9月28日、コマンドラインからCloudflare API全体を操作でき、TypeScriptで設定を記述できる新たなCLIツール「cf」をオープンベータ版としてリリースした。 — gihyo.jp / score: 75 (Cloudflareの新CLIツール「cf」のベータ版リリース)</description>
 </item>
 <item>
+<title>[75] Cloudflare の CLI を wrangler から cf に移行する</title>
+<link>https://zenn.dev/sora_kumo/articles/cloudflare-to-cf</link>
+<guid isPermaLink="true">https://zenn.dev/sora_kumo/articles/cloudflare-to-cf</guid>
+<pubDate>Tue, 29 Sep 2026 04:43:50 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>はじめに Cloudflare から次世代の統合 CLI ツール cf（現在 v1.0.0-beta）が登場しました。 従来の wrangler（wrangler.json / wrangler.jsonc / wrangler.toml）から、TypeScript ベースの型安全な設定ファイル cloudflare.config.ts への移行が推奨されています。 公式には cf migrate という移行コマンドが用意されていますが、実行するだけでそのまま本番稼働できるわけではなく、いくつかの設定調整や実運用上のハマりどころが存在します。 この記事では、React Router（... — Zenn トレンド / score: 75 (Cloudflareの次世代CLIの登場と移行推奨)</description>
+</item>
+<item>
 <title>[75] Introducing dots</title>
 <link>https://openai.com/index/introducing-dots</link>
 <guid isPermaLink="true">https://openai.com/index/introducing-dots</guid>
@@ -781,30 +805,6 @@
 <pubDate>Mon, 28 Sep 2026 18:29:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Amazon Bedrock now supports SpaceXAI Grok 4.7, a frontier model built for coding, agentic tasks, and knowledge work, with US Geo and Global cross-Region inference. Grok 4.7 builds on Grok 4.6 with better mixed-document handling, more dependable repo-scale coding with planning and error recovery, and enhanced browser-use agents for form fills and portal navigation. Get started with Grok 4.7 in the Amazon Bedrock console or programmatically through supported Amazon Bedrock APIs. For information ab — AWS What's New / score: 75 (Bedrockへの新AIモデル追加)</description>
-</item>
-<item>
-<title>[75] iOS27.0.1がリリース！iPhone18 Proの再起動問題などが修正</title>
-<link>https://iphone-mania.jp/ios-606745/</link>
-<guid isPermaLink="true">https://iphone-mania.jp/ios-606745/</guid>
-<pubDate>Mon, 28 Sep 2026 18:15:05 +0000</pubDate>
-<category>iPhone Mania</category>
-<description>まもなくリリースされるとしていたiPhone向けソフトウェアアップデート「iOS27.0.1」が配信開始しました。本アップデートは、iOS27で発生していた重要なバグや不具合の修正を目的としたマイナーアップデートです。 […] — iPhone Mania / score: 75 (iOSの重要不具合修正を目的としたセキュリティアップデート)</description>
-</item>
-<item>
-<title>[75] AWS、AIエージェントを自作できるツール「Strandsハーネス」をオープンソースで公開。特定のLLMに依存せず入れ替え可能、任意のコンテナ環境にデプロイ</title>
-<link>https://www.publickey1.jp/blog/26/awsaistrandsllm.html</link>
-<guid isPermaLink="true">https://www.publickey1.jp/blog/26/awsaistrandsllm.html</guid>
-<pubDate>Mon, 28 Sep 2026 15:01:25 +0000</pubDate>
-<category>Publickey</category>
-<description>Amazon Web Services（AWS）は、GPTやClaude、Gemini、Ollamaなど主要なLLMやLLMランタイムを基にした高性能なAIエージェントを簡単に自作できるツール「Strandsハーネス」をオープンソースで公開... — Publickey / score: 75 (主要なLLM対応AIエージェントOSS公開のため)</description>
-</item>
-<item>
-<title>[75] Claude Sonnet 5.5 now available on AWS</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/09/claude-sonnet-5-5-aws/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/claude-sonnet-5-5-aws/</guid>
-<pubDate>Mon, 28 Sep 2026 15:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>AWS now offers Claude Sonnet 5.5, a smarter and more efficient Sonnet that delivers a clear leap forward on coding and knowledge work with at a lower cost per task for most work at faster speed. Claude Sonnet 5.5 is a smarter, more efficient Sonnet and a step up from Sonnet 5, making it a natural upgrade for teams already building on Sonnet. It's stronger for coding, completing well-scoped tasks as part of a larger coding strategy such as building and fixing features with Claude in the same sess — AWS What's New / score: 75 (AWSでの有力な新AIモデルClaude Sonnet 5.5提供開始)</description>
 </item>
 </channel>
 </rss>
