@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sat, 03 Oct 2026 08:12:14 +0000</lastBuildDate>
+<lastBuildDate>Sat, 03 Oct 2026 10:08:50 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] GitHubにうっかり公開された認証情報54万件以上が有効なまま放置されていることが判明</title>
@@ -13,14 +13,6 @@
 <pubDate>Fri, 02 Oct 2026 07:22:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>セキュリティ企業のTruffle SecurityがGitHubの公開リポジトリを大規模に調査した結果、APIキーやアクセストークン、データベースの接続情報など54万3699件もの認証情報が実際に利用可能な状態で公開され続けていたことが明らかになりました。認証情報が公開されてからの期間は中央値で784日で、中には2009年から16年以上にわたって有効だったものも確認されています。 続きを読む... — GIGAZINE / score: 95 (GitHub上に54万件以上の有効な認証情報が放置され深刻)</description>
-</item>
-<item>
-<title>[95] WordPress 4.7〜7.1.1に未認証の不正読込 CVE-2026-87902──7.1.2更新と攻撃痕跡の確認</title>
-<link>https://qiita.com/jiis-sasaki/items/b9e58eb2b47f6d25dff2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/jiis-sasaki/items/b9e58eb2b47f6d25dff2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Thu, 01 Oct 2026 22:30:00 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>WordPressで企業サイト・ブログを運用しているWeb担当者、制作会社の保守担当者向けの記事です。 2026年9月22日、WordPress本体(コア)の脆弱性 CVE-2026-87902 を修正したセキュリティリリース 7.1.2 が公開されました。ログイン不要で、... — Qiita 人気記事 / score: 95 (WordPress未認証不正読込の緊急脆弱性修正)</description>
 </item>
 <item>
 <title>[95] September 2026 Security Release</title>
@@ -626,9 +618,9 @@
 <title>[75] 無料でAWSをローカルでシミュレーションできるエミュレーター「MiniStack」、60以上のAWSサービスを単一ポートで利用可能でマルチアカウント＆マルチリージョン対応、セルフホスト可能</title>
 <link>https://gigazine.net/news/20261003-ministack/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261003-ministack/</guid>
-<pubDate>Sat, 03 Oct 2026 03:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>AWSを利用するアプリを開発する場合、動作確認のたびにAWS上へS3・DynamoDB・Lambdaなどのリソースを作成すると、環境の構築・削除・利用料金の管理などが必要になります。そこで、AWSのAPIをPC上で再現し、AWS CLIやTerraformなどから60以上のAWSサービスをローカル環境だけで無料で利用できるエミュレーター「MiniStack」を使ってみました。 続きを読む... — GIGAZINE / score: 75 (AWSをローカルでシミュレーションできる便利な開発ツール)</description>
+<pubDate>Sat, 03 Oct 2026 03:06:02 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>AWSを利用するアプリを開発する場合、動作確認のたびにAWS上へS3・DynamoDB・Lambdaなどのリソースを作成すると、環境の構築・削除・利用料金の管理などが必要になります。そこで、AWSのAPIをPC上で再現し、AWS CLIやTerraformなどから60以上のAWSサービスをローカル環境だけで無料で利用できるエミュレーター「MiniStac... — はてなブックマーク テクノロジー / score: 75 (AWSをローカルでシミュレーションできる便利な開発ツール)</description>
 </item>
 <item>
 <title>[75] Amazon Aurora DSQL now supports partial indexes</title>
@@ -653,6 +645,14 @@
 <pubDate>Fri, 02 Oct 2026 12:36:29 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>レジデンシャルプロキシ対策アライアンス 社会全体でのレジデンシャルプロキシに係る不正なIoT機器のセキュリティ対策を推進するため、多岐に渡る主体が連携して対応を協議する「レジデンシャルプロキシ対策アライアンス」を設立しています。 設立概要（令和８年７月21日） 家庭用IoT機器を悪用したサイバー攻撃への官民... — はてなブックマーク テクノロジー / score: 75 (IoT機器を悪用したサイバー攻撃対策の動向)</description>
+</item>
+<item>
+<title>[75] 損保ジャパンはなぜ「COBOL」を捨てなかったのか？　脱メインフレームの真相</title>
+<link>https://techtarget.itmedia.co.jp/tt/article/2610/02/2000001917/</link>
+<guid isPermaLink="true">https://techtarget.itmedia.co.jp/tt/article/2610/02/2000001917/</guid>
+<pubDate>Fri, 02 Oct 2026 08:23:53 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>「リビルド」「リライト」に潜むリスク 損保ジャパンはなぜ「COBOL」を捨てなかったのか？ 脱メインフレームの真相 メインフレーム刷新は企業の急務だが、全面的なリビルドやリライトには費用面とリスク面での懸念が残る。損保ジャパンの事例から、既存資産を生かした「リホスト」選定のロジックと意思決定の基準を読み... — はてなブックマーク テクノロジー / score: 75 (大規模システムのメインフレーム刷新に関する実例。)</description>
 </item>
 <item>
 <title>[75] Cloudflare、Git互換ストレージ「Artifacts」をオープンベータに ——米国・カナダ在住者向けに「次のGitHub」開発コンテストも開催</title>
@@ -685,14 +685,6 @@
 <pubDate>Fri, 02 Oct 2026 03:35:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Today, AWS announces that Amazon GuardDuty Runtime Monitoring is now included in the AWS Security Hub Threat Analytics plan. Runtime Monitoring inspects operating system, network, and file activity to surface threats such as container escapes, privilege escalation, and cryptomining on Amazon EC2 instances, Amazon EKS clusters, and Amazon ECS tasks on AWS Fargate. Security Hub now bills this coverage through streamlined pricing. If you have Security Hub enabled in an account and region, you no lo — AWS What's New / score: 75 (AWSセキュリティ監視機能の統合アップデート)</description>
-</item>
-<item>
-<title>[75] 画像生成AI「FLUX 3 Image」が登場、「最大4K生成」「被写体の位置指定」「一部分のみ編集」など高機能でオープンモデル版も数週間後に登場予定</title>
-<link>https://gigazine.net/news/20261002-flux-3-image/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261002-flux-3-image/</guid>
-<pubDate>Fri, 02 Oct 2026 01:59:36 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>AI企業のBlack Forest Labsが画像生成AI「FLUX 3 Image」をリリースしました。「最大4Kの画像生成」「画像内の物体の位置を指定」「特定の箇所のみ編集」「最大10枚の参照画像入力」といった機能を備えています。 FLUX 3 Image: Maximum control over every pixel | Black Forest Labs https://bfl.ai/models/flux-3-ima... — はてなブックマーク テクノロジー / score: 75 (高性能な新型画像生成AI「FLUX 3 Image」のリリース)</description>
 </item>
 <item>
 <title>[75] AWS Well-Architected Agent is now available in preview</title>
@@ -805,6 +797,14 @@
 <pubDate>Tue, 29 Sep 2026 04:43:50 +0000</pubDate>
 <category>Zenn トレンド</category>
 <description>はじめに Cloudflare から次世代の統合 CLI ツール cf（現在 v1.0.0-beta）が登場しました。 従来の wrangler（wrangler.json / wrangler.jsonc / wrangler.toml）から、TypeScript ベースの型安全な設定ファイル cloudflare.config.ts への移行が推奨されています。 公式には cf migrate という移行コマンドが用意されていますが、実行するだけでそのまま本番稼働できるわけではなく、いくつかの設定調整や実運用上のハマりどころが存在します。 この記事では、React Router（... — Zenn トレンド / score: 75 (Cloudflareの次世代CLIの登場と移行推奨)</description>
+</item>
+<item>
+<title>[75] Introducing dots</title>
+<link>https://openai.com/index/introducing-dots</link>
+<guid isPermaLink="true">https://openai.com/index/introducing-dots</guid>
+<pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward. — OpenAI News / score: 75 (新しいAIエージェント機能の発表で注目度が高い。)</description>
 </item>
 </channel>
 </rss>
