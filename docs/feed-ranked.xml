@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sat, 03 Oct 2026 02:13:58 +0000</lastBuildDate>
+<lastBuildDate>Sat, 03 Oct 2026 04:15:33 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] GitHubにうっかり公開された認証情報54万件以上が有効なまま放置されていることが判明</title>
@@ -53,6 +53,14 @@
 <pubDate>Sat, 03 Oct 2026 01:35:04 +0000</pubDate>
 <category>Yahoo!ニュース IT</category>
 <description> — Yahoo!ニュース IT / score: 90 (e-Taxの他者情報閲覧という重大なシステム障害)</description>
+</item>
+<item>
+<title>[90] WordPress Coreの脆弱性CVE-2026-87902についてまとめてみた - piyolog</title>
+<link>https://piyolog.hatenadiary.jp/entry/2026/10/03/001121</link>
+<guid isPermaLink="true">https://piyolog.hatenadiary.jp/entry/2026/10/03/001121</guid>
+<pubDate>Fri, 02 Oct 2026 15:43:00 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>2026年9月22日、WordPressは、WordPress Coreに深刻な脆弱性が確認されたとして、修正版を公開、さらに4.7系までの古い系列にも同様に修正を提供しました。ここでは関連する情報をまとめます。 どんな脆弱性が確認されたの? WordPress Coreのページテンプレートの解決(get_page_template())で、認証不要の攻撃者が、一定... — はてなブックマーク テクノロジー / score: 90 (WordPress Coreの深刻な脆弱性に関する注意喚起)</description>
 </item>
 <item>
 <title>[90] 「VLC 3.0.24」に多数の脆弱性修正、本体だけで50件超、macOSでは任意コード実行も実証／開発元の仏VideoLAN Projectが明らかに</title>
@@ -167,6 +175,22 @@
 <description> — Yahoo!ニュース IT / score: 85 (企業における大規模な顧客情報漏洩の可能性)</description>
 </item>
 <item>
+<title>[85] 「アバハウス」全顧客の情報漏えいか　会員・受注DBに不正アクセス　「不審な返金メール届いた」報告で判明（ITmedia NEWS） - Yahoo!ニュース</title>
+<link>https://news.yahoo.co.jp/articles/ac9e4ee9a0665df9c13f72c3972e980da6276911</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/articles/ac9e4ee9a0665df9c13f72c3972e980da6276911</guid>
+<pubDate>Sat, 03 Oct 2026 00:56:14 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>（写真：ITmedia NEWS）（写真：ITmedia NEWS） メンズカジュアルブランド「アバハウス」などを展開するアバハウスインターナショナルは10月2日、第三者による社内システムへの不正アクセスで、顧客の個人情報が漏えいした可能性があると発表した。データベース全体に不正にアクセスされた可能性があり、会員情報を預か... — はてなブックマーク テクノロジー / score: 85 (顧客情報の漏えいに関する重大なセキュリティインシデント)</description>
+</item>
+<item>
+<title>[85] 靴のムーンスター、顧客情報漏えいの可能性　氏名や住所、注文情報など</title>
+<link>https://www.itmedia.co.jp/news/article/2610/03/2000001982/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/03/2000001982/</guid>
+<pubDate>Sat, 03 Oct 2026 00:45:19 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>靴メーカーのムーンスターは10月2日、同社のシステムサーバが外部から不正アクセスを受け、オンラインストアを利用した顧客の氏名、住所、電話番号、メールアドレス、過去の注文情報が漏えいした可能性があると発表した。 3月26日に公表した不正アクセスの疑いの続報。約半年後に漏えいの可能性を報告した。 — はてなブックマーク テクノロジー / score: 85 (企業のシステム不正アクセスと顧客情報漏えいの報告)</description>
+</item>
+<item>
 <title>[85] OpenAIの｢暴走｣問題、影響100件超の可能性　カリフォルニア州も調査 - 日本経済新聞</title>
 <link>https://www.nikkei.com/article/DGXZQOGN02CC70S6A001C2000000/</link>
 <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOGN02CC70S6A001C2000000/</guid>
@@ -205,14 +229,6 @@
 <pubDate>Fri, 02 Oct 2026 12:19:52 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>税金の電子申告や納税ができる国税庁のシステム「e-Tax」で、贈与税の申告内容が本人以外からも閲覧される状態になる不具合があったとして、国税庁は謝罪しました。 国税庁によりますと、e-Taxのシス… — はてなブックマーク テクノロジー / score: 85 (e-Taxのシステム不具合と情報閲覧問題)</description>
-</item>
-<item>
-<title>[85] 「タイムズカー」免許画像など漏えい 集団訴訟の登録者1万人超 | NHKニュース</title>
-<link>https://news.web.nhk/newsweb/na/nd-20261002de53951</link>
-<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261002de53951</guid>
-<pubDate>Fri, 02 Oct 2026 10:49:59 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>カーシェアリングサービス「タイムズカー」のシステムが不正アクセスを受け、運転免許証の画像などが漏えいした問題で、集団訴訟に向けて弁護士が開設したサイトに登録した人が1万人以上にのぼることが分かりました… — はてなブックマーク テクノロジー / score: 85 (タイムズカーの大規模情報漏えいと集団訴訟)</description>
 </item>
 <item>
 <title>[85] 【速報】ヤマト運輸、不正アクセスで顧客情報流出か</title>
@@ -471,14 +487,6 @@
 <description>Kubernetes version 1.37 introduced several new features and bug fixes, and AWS is excited to announce that you can now use Amazon Elastic Kubernetes Service (EKS) and Amazon EKS Distro to run Kubernetes version 1.37. Starting today, you can create new EKS clusters using version 1.37 and upgrade existing clusters to version 1.37 using the EKS console, the eksctl command line interface, or through an infrastructure-as-code tool. Kubernetes version 1.37 introduces several key improvements, promotin — AWS What's New / score: 80 (Amazon EKSのKubernetes 1.37サポート開始)</description>
 </item>
 <item>
-<title>[80] ［社説］パーク24の情報管理はずさんすぎる - 日本経済新聞</title>
-<link>https://www.nikkei.com/article/DGXZQODK026BY0S6A001C2000000/</link>
-<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQODK026BY0S6A001C2000000/</guid>
-<pubDate>Fri, 02 Oct 2026 10:33:09 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>パーク24が運営するカーシェアサービス「タイムズカー」のシステムが不正アクセスを受け、およそ660万アカウントの個人情報が漏洩した。約160万件には運転免許証や学生証の画像など本人確認書類の情報が含まれる。悪用されるリスクが高い個人情報を大量に抱えながら、あまりにずさんな管理だったと言わざるを得ない。サ... — はてなブックマーク テクノロジー / score: 80 (タイムズカー情報漏えいに関するずさんな管理の社説)</description>
-</item>
-<item>
 <title>[80] 「Oracle JDK 21」は無償の「NFTC」ライセンスの対象外に、10月「CPU」以降で／「Oracle JDK」を無償で商用運用したいなら「Oracle JDK 25」への移行を</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2144856.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2144856.html</guid>
@@ -607,6 +615,14 @@
 <description>GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models. — OpenAI News / score: 80 (最新GPTモデルの性能向上とコスト削減)</description>
 </item>
 <item>
+<title>[75] 無料でAWSをローカルでシミュレーションできるエミュレーター「MiniStack」、60以上のAWSサービスを単一ポートで利用可能でマルチアカウント＆マルチリージョン対応、セルフホスト可能</title>
+<link>https://gigazine.net/news/20261003-ministack/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261003-ministack/</guid>
+<pubDate>Sat, 03 Oct 2026 03:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>AWSを利用するアプリを開発する場合、動作確認のたびにAWS上へS3・DynamoDB・Lambdaなどのリソースを作成すると、環境の構築・削除・利用料金の管理などが必要になります。そこで、AWSのAPIをPC上で再現し、AWS CLIやTerraformなどから60以上のAWSサービスをローカル環境だけで無料で利用できるエミュレーター「MiniStack」を使ってみました。 続きを読む... — GIGAZINE / score: 75 (AWSをローカルでシミュレーションできる便利な開発ツール)</description>
+</item>
+<item>
 <title>[75] Amazon Aurora DSQL now supports partial indexes</title>
 <link>https://aws.amazon.com/about-aws/whats-new/2026/10/aurora-dsql-partial-indexes/</link>
 <guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/aurora-dsql-partial-indexes/</guid>
@@ -685,14 +701,6 @@
 <pubDate>Thu, 01 Oct 2026 08:30:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 75 (GoogleのAI製品群の大きな仕様変更)</description>
-</item>
-<item>
-<title>[75] グーグル、最先端AI「ジェミニ4アルゴン」の一般公開見送り 安全上の懸念</title>
-<link>https://www.afpbb.com/articles/-/3655570</link>
-<guid isPermaLink="true">https://www.afpbb.com/articles/-/3655570</guid>
-<pubDate>Thu, 01 Oct 2026 06:35:20 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>【10月1日 AFP】米グーグルは9月30日、同社で最も強力な人工知能（AI）モデル「ジェミニ4アルゴン」の一般公開を当面見送る方針を明らかにした。ハッカーによる悪用が懸念されるためとしている。一般公開までは、特定のサイバーセキュリティー専門家チームにのみアクセス権限が付与されるという。 一般公開の見送りにつ... — はてなブックマーク テクノロジー / score: 75 (AIモデルの公開見送りに関する重要なセキュリティニュース)</description>
 </item>
 <item>
 <title>[75] Google、Gemini 4 Argonを発表、サイバー防御向けに先行提供</title>
@@ -797,14 +805,6 @@
 <pubDate>Mon, 28 Sep 2026 18:29:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Amazon Bedrock now supports SpaceXAI Grok 4.7, a frontier model built for coding, agentic tasks, and knowledge work, with US Geo and Global cross-Region inference. Grok 4.7 builds on Grok 4.6 with better mixed-document handling, more dependable repo-scale coding with planning and error recovery, and enhanced browser-use agents for form fills and portal navigation. Get started with Grok 4.7 in the Amazon Bedrock console or programmatically through supported Amazon Bedrock APIs. For information ab — AWS What's New / score: 75 (Bedrockへの新AIモデル追加)</description>
-</item>
-<item>
-<title>[75] iOS27.0.1がリリース！iPhone18 Proの再起動問題などが修正</title>
-<link>https://iphone-mania.jp/ios-606745/</link>
-<guid isPermaLink="true">https://iphone-mania.jp/ios-606745/</guid>
-<pubDate>Mon, 28 Sep 2026 18:15:05 +0000</pubDate>
-<category>iPhone Mania</category>
-<description>まもなくリリースされるとしていたiPhone向けソフトウェアアップデート「iOS27.0.1」が配信開始しました。本アップデートは、iOS27で発生していた重要なバグや不具合の修正を目的としたマイナーアップデートです。 […] — iPhone Mania / score: 75 (iOSの重要不具合修正を目的としたセキュリティアップデート)</description>
 </item>
 </channel>
 </rss>
