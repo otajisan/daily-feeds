@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sun, 04 Oct 2026 19:01:40 +0000</lastBuildDate>
+<lastBuildDate>Sun, 04 Oct 2026 20:44:25 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] GitHubにうっかり公開された認証情報54万件以上が有効なまま放置されていることが判明</title>
@@ -149,6 +149,14 @@
 <pubDate>Tue, 22 Sep 2026 15:00:00 +0000</pubDate>
 <category>Next.js Blog</category>
 <description>Next.js 16.3.6 and 15.5.26 are planned for a critical out-of-band security update on September 22, 2026. — Next.js Blog / score: 90 (重要度の高いフレームワークのセキュリティ更新)</description>
+</item>
+<item>
+<title>[85] API キーはどこから漏れるのか？ 自分のサイトに来た .env 探し 1,566 件と、公開事例を 7 つの経路に分けてみた</title>
+<link>https://qiita.com/songchong/items/02672765fe53f911a1a0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/songchong/items/02672765fe53f911a1a0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Sun, 04 Oct 2026 17:13:59 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>「API キーが漏れた」と聞くと、悪意のある誰かに盗まれた場面を思い浮かべがちです。実際に多いのは、鍵を置いた場所が思ったより広く見えていた、という漏れ方です。 この記事では、公開されている報告と事例、そして私たちのサイトに実際に届いたアクセスの記録から、API キーが漏... — Qiita 人気記事 / score: 85 (APIキー漏洩の実態と事例解説でセキュリティ上重要)</description>
 </item>
 <item>
 <title>[85] 日経新聞がサイバー攻撃被害 発表</title>
@@ -445,6 +453,14 @@
 <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
 <category>Hugging Face Blog</category>
 <description> — Hugging Face Blog / score: 85 (Transformersライブラリの量子化モデル対応)</description>
+</item>
+<item>
+<title>[80] 「シークレットスキャン」とは？漏れた API キー、誰が止めてくれるのか？ 業務システム 65 件と GitHub・GitLab を調べてみた</title>
+<link>https://qiita.com/songchong/items/5ee39ef5b71510e36c2a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/songchong/items/5ee39ef5b71510e36c2a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Sun, 04 Oct 2026 19:05:48 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>API キーをうっかり GitHub に公開してしまったら、誰かが気づいて止めてくれるのでしょうか。GitHub には「シークレットスキャン」という仕組みがあります。ただ、その仕組みで自分の使っているシステムの鍵まで守られるのか、自分で何か設定する必要があるのかは、あまり... — Qiita 人気記事 / score: 80 (シークレットスキャンの仕組みと重要性を解説)</description>
 </item>
 <item>
 <title>[80] ドコモ、RCS同意未取得で約1.6万件に影響〜225件で送受信、通信の秘密に抵触</title>
@@ -789,22 +805,6 @@
 <pubDate>Tue, 29 Sep 2026 20:17:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Today, AWS announces the general availability of GPT-6.1 Sol from OpenAI on Amazon Bedrock. An upgrade to GPT-6 Sol, GPT-6.1 Sol delivers exceptionally strong performance on agentic coding, computer use, and professional work. According to OpenAI, it approaches GPT-6 Astra across demanding evaluations at roughly one-fifth of the cost, giving developers more room to build and run capable agents at scale. The Amazon Bedrock inference engine delivers the performance, security, and reliability requi — AWS What's New / score: 75 (OpenAIの最新モデルがAmazon Bedrockで利用可能になり影響が大きい)</description>
-</item>
-<item>
-<title>[75] Google Cloud、AIエージェントからの大量アクセスをPostgreSQLのプライマリDBから切り離せる「PostgreSQL for agents in AlloyDB」発表</title>
-<link>https://www.publickey1.jp/blog/26/google_cloudaipostgresqldbpostgresql_for_agents_in_alloydb.html</link>
-<guid isPermaLink="true">https://www.publickey1.jp/blog/26/google_cloudaipostgresqldbpostgresql_for_agents_in_alloydb.html</guid>
-<pubDate>Tue, 29 Sep 2026 15:46:18 +0000</pubDate>
-<category>Publickey</category>
-<description>Google Cloudは、本番環境で動作しているPostgreSQLの処理に影響を与えないよう、AIエージェントからの読み取りワークロード用にサンドボックス化されたPostgreSQLのデータベースインスタンスを数秒でプロビジョニングする... — Publickey / score: 75 (AIエージェント向けAlloyDBの新機能発表)</description>
-</item>
-<item>
-<title>[75] 汎用AIエージェント「Manus 2.0」が発表 ～デスクトップアプリは「Manus Studio」へ／タスクの代行から創造のワークスペースに。エージェントアプリ「Cue」も登場</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2144171.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2144171.html</guid>
-<pubDate>Tue, 29 Sep 2026 08:35:31 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Meta傘下のManusは9月28日（現地時間）、「Manus 2.0」を発表した。汎用AIエージェント「Manus」がこれからどうあるべきかという根本的な問いを軸に構築されているとのことで、『バージョンアップではなく、新しいアーキテクチャー、新しいプロダクト、そして新しい機能』と謳っている。 — 窓の杜 / score: 75 (汎用AIエージェントManus 2.0の発表と新アーキテクチャ)</description>
 </item>
 </channel>
 </rss>
