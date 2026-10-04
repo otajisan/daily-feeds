@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sun, 04 Oct 2026 13:56:32 +0000</lastBuildDate>
+<lastBuildDate>Sun, 04 Oct 2026 15:34:05 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] GitHubにうっかり公開された認証情報54万件以上が有効なまま放置されていることが判明</title>
@@ -39,6 +39,14 @@
 <description>The September 22, 2026 out-of-band security update for Next.js is now available — Next.js Blog / score: 95 (Next.jsの重大な上流脆弱性に対する緊急セキュリティ修正。)</description>
 </item>
 <item>
+<title>[90] 「Google Chrome 154」に2回目のセキュリティ更新、「Critical」1件を含む11件の脆弱性に対処／「Microsoft Edge」もv154.0.4258.53へ</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2145475.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2145475.html</guid>
+<pubDate>Sun, 04 Oct 2026 15:05:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Googleは10月1日（現地時間、以下同）、デスクトップ向け「Google Chrome」の安定（Stable）チャネルをアップデートした。現在、Windows/Mac環境にはv154.0.8037.97/.98、Linux環境にはv154.0.8037.97が展開されている。 — 窓の杜 / score: 90 (Critical級を含むChromeの緊急セキュリティアップデート)</description>
+</item>
+<item>
 <title>[90] e-Tax 他人の税情報が一時閲覧可</title>
 <link>https://news.yahoo.co.jp/pickup/6597360?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6597360?source=rss</guid>
@@ -53,14 +61,6 @@
 <pubDate>Fri, 02 Oct 2026 04:10:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>先日リリースされた「VLC media player 3.0.24」では、130件を超える脆弱性が修正されているとのこと。開発元の仏VideoLAN Projectが、その内容を明らかにした。 — 窓の杜 / score: 90 (VLCメディアプレイヤーの大規模な脆弱性修正と任意コード実行)</description>
-</item>
-<item>
-<title>[90] 610億円相当の仮想通貨が盗まれたBitgetハッキング事件、第三者製セキュリティ製品のゼロデイ脆弱性が侵入経路</title>
-<link>https://gigazine.net/news/20261002-bitget-security-incident/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261002-bitget-security-incident/</guid>
-<pubDate>Fri, 02 Oct 2026 03:52:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>仮想通貨取引所のBitgetから3億8750万ドル(約610億円)相当の仮想通貨が盗まれた事件について、攻撃者がBitgetで使われていた第三者製セキュリティ製品のゼロデイ脆弱(ぜいじゃく)性を侵入の足掛かりとしていたことが明らかになりました。 続きを読む... — GIGAZINE / score: 90 (ゼロデイ脆弱性を突かれ610億円相当が盗まれたハッキング事件)</description>
 </item>
 <item>
 <title>[90] OpenAI、「DevDay 2026」を開催 ～常時稼働エージェント「dots」や「ChatGPT Space」などを発表／ChatGPTにプラグイン拡張機能、「Codex」はクラウド対応、月額500米ドルの新プランも</title>
@@ -567,14 +567,6 @@
 <description>Shipping Opus/Sonnet 5.5, Mods, Plugins, Projects, Tag while Pacing the Frontier — Latent Space / score: 80 (AnthropicのClaude Code新機能や新モデル情報。)</description>
 </item>
 <item>
-<title>[80] Apple、「iOS 27.0.1」「iPadOS 27.0.1」を公開 ～iPhone 18 Proの再起動やタッチ不能を修正／「iOS 27」「iPadOS 27」初のマイナーアップデート</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2143917.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2143917.html</guid>
-<pubDate>Mon, 28 Sep 2026 20:54:56 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Appleは9月28日（現地時間、以下同）、「iOS 27.0.1」および「iPadOS 27.0.1」をリリースした。「iOS 27」「iPadOS 27」初のマイナーアップデート。「iOS 27.0.1」では、以下の3件の不具合が修正されている。 — 窓の杜 / score: 80 (iOS/iPadOSの不具合修正を含むマイナーアップデート)</description>
-</item>
-<item>
 <title>[80] Amazon Corretto September 2026 Patch Updates</title>
 <link>https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-corretto-sept-2026-updates/</link>
 <guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-corretto-sept-2026-updates/</guid>
@@ -621,6 +613,14 @@
 <pubDate>Tue, 22 Sep 2026 12:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models. — OpenAI News / score: 80 (最新GPTモデルの性能向上とコスト削減)</description>
+</item>
+<item>
+<title>[75] Supabase、1サーバあたり数百万ものSQLiteをホストする「Turso」買収を発表。AIエージェントで加速するDB需要に対応</title>
+<link>https://www.publickey1.jp/blog/26/supabase1sqlitetursoaidb.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/supabase1sqlitetursoaidb.html</guid>
+<pubDate>Sun, 04 Oct 2026 15:33:38 +0000</pubDate>
+<category>Publickey</category>
+<description>PostgreSQLをベースにしたデータベースサービス「Supabase」などを提供しているSupabaseは、SQLiteをベースとしたデータベースサービスを提供する「Turso」を買収したことを発表しました。 Turso is join... — Publickey / score: 75 (SupabaseによるTurso買収の重要なビジネスニュース)</description>
 </item>
 <item>
 <title>[75] ニンテンドー64のゲームを84日間で逆コンパイル</title>
