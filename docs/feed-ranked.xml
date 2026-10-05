@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sun, 04 Oct 2026 22:08:35 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 00:28:38 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] GitHubにうっかり公開された認証情報54万件以上が有効なまま放置されていることが判明</title>
@@ -23,20 +23,20 @@
 <description>The September 2026 security release for Next.js is now available — Next.js Blog / score: 95 (Next.jsの緊急セキュリティリリース)</description>
 </item>
 <item>
-<title>[95] Apple製品にゼロデイ脆弱性、「iOS 26.7.1」「macOS Tahoe 26.7.1」など修正版が公開／「特定の個人を標的とした攻撃」に悪用された可能性</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2143924.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2143924.html</guid>
-<pubDate>Tue, 29 Sep 2026 01:02:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Appleは9月28日（現地時間）、自社製品のセキュリティアップデートを一斉実施した。CVE番号が付番された脆弱性の修正を含まない製品も含め、執筆時現在、以下のアップデートが利用可能。 — 窓の杜 / score: 95 (ゼロデイ脆弱性修正のための緊急パッチ公開)</description>
-</item>
-<item>
 <title>[95] Next.js Security Update for a Critical Upstream Issue</title>
 <link>https://nextjs.org/blog/nextjs-security-update-september-22-2026</link>
 <guid isPermaLink="true">https://nextjs.org/blog/nextjs-security-update-september-22-2026</guid>
 <pubDate>Tue, 22 Sep 2026 18:00:00 +0000</pubDate>
 <category>Next.js Blog</category>
 <description>The September 22, 2026 out-of-band security update for Next.js is now available — Next.js Blog / score: 95 (Next.jsの重大な上流脆弱性に対する緊急セキュリティ修正。)</description>
+</item>
+<item>
+<title>[90] 最近の不正アクセスのパターンから読む — 攻撃開始が見えない「静かな侵入」</title>
+<link>https://aikido-community.jp/articles/quiet-business-app-database-access</link>
+<guid isPermaLink="true">https://aikido-community.jp/articles/quiet-business-app-database-access</guid>
+<pubDate>Sun, 04 Oct 2026 23:57:28 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>9月下旬に相次いだ日本郵便・ヤマト・佐川・セイコーマート・タイムズカー・ニッポンレンタカーの不正アクセスを並べ、被害範囲の境界と発覚のきっかけから共通する攻撃パターンを推測します。攻撃者は先に正常な利用パターンを読み、アプリの正規の経路でデータを読んでいたのではないか。... — はてなブックマーク テクノロジー / score: 90 (近年の不正アクセス傾向に関する重要なセキュリティ分析)</description>
 </item>
 <item>
 <title>[90] 「Google Chrome 154」に2回目のセキュリティ更新、「Critical」1件を含む11件の脆弱性に対処／「Microsoft Edge」もv154.0.4258.53へ</title>
@@ -173,14 +173,6 @@
 <pubDate>Sun, 04 Oct 2026 10:03:08 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>日本経済新聞社の社員が使っていた業務ソフト「マイクロソフト365」のアカウントがサイバー攻撃を受け、なりすましメール約9000件が送信されました。第三者が不正にログインしたとみられます。 送信先のメールアドレスや氏名のほか、一部メールの内容が漏洩したとみられます。当社は個人情報保護委員会に報告し、侵害を... — はてなブックマーク テクノロジー / score: 85 (サイバー攻撃による大規模な情報漏洩事案)</description>
-</item>
-<item>
-<title>[85] 日経で社員が使っていた業務ソフト「Microsoft 365」に不正ログインがあり、なりすましメール約9000件が送信されたと日経自らが報道「最近サイバー攻撃が増えている」</title>
-<link>https://togetter.com/li/2753965</link>
-<guid isPermaLink="true">https://togetter.com/li/2753965</guid>
-<pubDate>Sun, 04 Oct 2026 09:30:26 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>日経で社員が使っていた業務ソフト「Microsoft 365」に不正ログインがあり、なりすましメール約9000件が送信されたと日経自らが報道「最近サイバー攻撃が増えている」 — はてなブックマーク テクノロジー / score: 85 (日経新聞自身によるM365不正アクセス事例の報道)</description>
 </item>
 <item>
 <title>[85] 不正ログインによる情報漏洩について</title>
@@ -623,6 +615,14 @@
 <description>GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models. — OpenAI News / score: 80 (最新GPTモデルの性能向上とコスト削減)</description>
 </item>
 <item>
+<title>[75] 何これ、すごすぎる！！ PhotoshopやIllustratorをオープンソースで再構築、しかもWin、Mac、Linux、Web対応で無料</title>
+<link>https://coliss.com/wp-content/cache/all/articles/build-websites/operation/work/7-adobe-apps-open-sourced.html/index.html</link>
+<guid isPermaLink="true">https://coliss.com/wp-content/cache/all/articles/build-websites/operation/work/7-adobe-apps-open-sourced.html/index.html</guid>
+<pubDate>Sun, 04 Oct 2026 23:05:07 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>これには思わず二度見、いや三度見しました！ Photoshop, Illustrator, Premiere Pro, Lightroom, Acrobat Pro, After Effects, InDesignのAdobeのアプリ7種類をAdobeのコードを一切使用せずに、完全に新しいコードを使用して各アプリの機能を忠実に再現したオープンソースのアプリを紹介します。 しかも、すべてのアプ... — はてなブックマーク テクノロジー / score: 75 (Adobe製主要アプリを完全再現したオープンソース)</description>
+</item>
+<item>
 <title>[75] 9月プレビュー更新で「AC-3」（Dolby Digital）に問題、「Windows 11 26H2」にも影響／OS内蔵の音声デコード機能を利用するアプリで、起動不能などの不具合</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2145476.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2145476.html</guid>
@@ -650,25 +650,25 @@
 <title>[75] localhostを爆速でインターネットへ安全に公開する「Cloudflare Quick Tunnels」、たった1つのコマンドで暗号化された公開URLを作成可能でアカウント・DNSレコード・ポート開放は一切不要</title>
 <link>https://gigazine.net/news/20261004-cloudflare-quick-tunnels/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261004-cloudflare-quick-tunnels/</guid>
-<pubDate>Sun, 04 Oct 2026 03:07:44 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>PC上で開発中のWebアプリを外部から確認するには、ポート開放やサーバー設定などの手間がかかります。以前レビューした「Cloudflare Tunnel」からさらに手軽になり、アカウント登録不要かつコマンド1つで利用可能でAI向けのJSON出力にも対応した「Cloudflare Quick Tunnels」を実際に使ってみました。 Cloudflare Quick ... — はてなブックマーク テクノロジー / score: 75 (開発効率を高める便利なツールの紹介)</description>
+<pubDate>Sun, 04 Oct 2026 03:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>PC上で開発中のWebアプリを外部から確認するには、ポート開放やサーバー設定などの手間がかかります。以前レビューした「Cloudflare Tunnel」からさらに手軽になり、アカウント登録不要かつコマンド1つで利用可能でAI向けのJSON出力にも対応した「Cloudflare Quick Tunnels」を実際に使ってみました。 続きを読む... — GIGAZINE / score: 75 (開発効率を高める便利なツールの紹介)</description>
 </item>
 <item>
 <title>[75] OpenAIの安全担当従業員が辞職、「会社の文化が崩壊している」と主張</title>
 <link>https://gigazine.net/news/20261004-openai-safety-employee-resigns-culture-broken/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261004-openai-safety-employee-resigns-culture-broken/</guid>
-<pubDate>Sun, 04 Oct 2026 02:03:36 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>OpenAIで主要製品の安全性報告書の作成を主導してきたデイビッド・ロビンソン氏が、同社の「企業文化は壊れている」と批判し、辞職したことが明らかになりました。ロビンソン氏はAIの安全性を確保するにはAI企業の組織文化を根本的に変える必要があると主張しています。 I Quit OpenAI Because Its Culture Is Broken - ... — はてなブックマーク テクノロジー / score: 75 (OpenAI安全担当幹部の辞職と内部事情の告発)</description>
+<pubDate>Sun, 04 Oct 2026 02:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>OpenAIで主要製品の安全性報告書の作成を主導してきたデイビッド・ロビンソン氏が、同社の「企業文化は壊れている」と批判し、辞職したことが明らかになりました。ロビンソン氏はAIの安全性を確保するにはAI企業の組織文化を根本的に変える必要があると主張しています。 続きを読む... — GIGAZINE / score: 75 (OpenAI安全担当幹部の辞職と内部事情の告発)</description>
 </item>
 <item>
-<title>[75] 「OpenAIの文化は壊れている」──安全性報告書を統括した従業員が退社し、寄稿</title>
-<link>https://www.itmedia.co.jp/news/article/2610/04/2000001986/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/04/2000001986/</guid>
-<pubDate>Sat, 03 Oct 2026 23:32:18 +0000</pubDate>
+<title>[75] Crafting Apps: open-source creative tools</title>
+<link>https://getartcraft.com/apps</link>
+<guid isPermaLink="true">https://getartcraft.com/apps</guid>
+<pubDate>Sat, 03 Oct 2026 13:51:35 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>米OpenAIで主要モデルのリリースごとに公開する安全性報告書の執筆を統括していたデビッド・ロビンソン氏は10月3日（現地時間）、米The Atlanticに「I Quit OpenAI Because Its Culture Is Broken」（OpenAIの文化が壊れているから辞めた）と題した記事を寄稿し、今週同社を退社したことを明らかにした。 同氏は、AI企業... — はてなブックマーク テクノロジー / score: 75 (OpenAIの安全性統括者の退社と企業文化批判)</description>
+<description>Seven apps. One craft.Image editing, vector illustration, video, photography, PDFs, motion graphics and page layout. Native, open-source apps from the ArtCraft team, built in Rust and free to use. — はてなブックマーク テクノロジー / score: 75 (Rust製のオープンソースクリエイティブツール群)</description>
 </item>
 <item>
 <title>[75] MacのOSを修正へ AIリスク対策</title>
