@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 05 Oct 2026 04:16:33 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 06:25:56 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] September 2026 Security Release</title>
@@ -21,6 +21,14 @@
 <pubDate>Tue, 22 Sep 2026 18:00:00 +0000</pubDate>
 <category>Next.js Blog</category>
 <description>The September 22, 2026 out-of-band security update for Next.js is now available — Next.js Blog / score: 95 (Next.jsの重大な上流脆弱性に対する緊急セキュリティ修正。)</description>
+</item>
+<item>
+<title>[90] 「Apache OpenOffice」に緊急のコード実行脆弱性「CVE-2026-59265」、パッチは準備中／「LibreOffice」でも同種の問題が報告、OpenOfficeではJava連携の無効化を</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2145485.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2145485.html</guid>
+<pubDate>Mon, 05 Oct 2026 05:45:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>The Apache Software Foundationは10月2日（協定世界時）、オープンソースのオフィス統合環境「Apache OpenOffice」にコード実行の脆弱性「CVE-2026-59265」があることを明らかにした。細工された信頼できないドキュメントをユーザーが開くと、任意のコード（リモートのものを含む）を実行されるおそれがある。深刻度の評価は「Critical」（緊急）。 — 窓の杜 / score: 90 (OpenOfficeに発見された緊急のコード実行脆弱性)</description>
 </item>
 <item>
 <title>[90] 最近の不正アクセスのパターンから読む — 攻撃開始が見えない「静かな侵入」</title>
@@ -135,6 +143,14 @@
 <description>Next.js 16.3.6 and 15.5.26 are planned for a critical out-of-band security update on September 22, 2026. — Next.js Blog / score: 90 (重要度の高いフレームワークのセキュリティ更新)</description>
 </item>
 <item>
+<title>[85] 【速報】大和証券に不正アクセス、22万件漏えいか</title>
+<link>https://www.47news.jp/15038299.html</link>
+<guid isPermaLink="true">https://www.47news.jp/15038299.html</guid>
+<pubDate>Mon, 05 Oct 2026 04:29:00 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>【速報】大和証券に不正アクセス、22万件漏えいか 大和証券グループ本社は5日、不正アクセスにより、個人を特定できない情報を含め約22万件の情報が漏えいした可能性があると発表した。 — はてなブックマーク テクノロジー / score: 85 (大企業の不正アクセスと大量データ漏えいインシデント)</description>
+</item>
+<item>
 <title>[85] 大和証券 顧客情報11万人分漏洩か</title>
 <link>https://news.yahoo.co.jp/pickup/6597607?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6597607?source=rss</guid>
@@ -154,9 +170,17 @@
 <title>[85] AIによるバグ報告が爆増したためGoogleがバグ報奨金プログラムを一時停止</title>
 <link>https://gigazine.net/news/20261005-google-froze-open-source-bug-bounty-program/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261005-google-froze-open-source-bug-bounty-program/</guid>
-<pubDate>Mon, 05 Oct 2026 03:18:43 +0000</pubDate>
+<pubDate>Mon, 05 Oct 2026 02:55:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>Googleが提供するオープンソースソフトウェアを対象としたバグ報奨金プログラムの「Google Open Source Software Vulnerability Reward Program(Google OSS VRP)」が、2026年10月1日以降は製品脆弱(ぜいじゃく)性の報告を受け付けなくなったと報告しています。 続きを読む... — GIGAZINE / score: 85 (AI起因のバグ報告急増による報奨金一時停止)</description>
+</item>
+<item>
+<title>[85] 日経社員のGoogle Workspaceに不正ログイン　1646人分の個人情報漏えいか</title>
+<link>https://www.itmedia.co.jp/news/article/2610/05/2000001994/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/05/2000001994/</guid>
+<pubDate>Mon, 05 Oct 2026 02:02:24 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>Googleが提供するオープンソースソフトウェアを対象としたバグ報奨金プログラムの「Google Open Source Software Vulnerability Reward Program(Google OSS VRP)」が、2026年10月1日以降は製品脆弱(ぜいじゃく)性の報告を受け付けなくなったと報告しています。 📢 PSA for open-source bug hunters We are temporarily n... — はてなブックマーク テクノロジー / score: 85 (AI起因のバグ報告急増による報奨金一時停止)</description>
+<description>日本経済新聞社は10月4日、社員が業務で使っていたクラウドサービス「Google Workspace」のアカウントに7月下旬以降、外部から不正なログインがあり、社員や取引先などのメールアドレスや氏名など1646人分が漏えいした可能性があると発表した。 不正ログインは、8月上旬に米Googleからの通知で判明。すぐにパスワードを... — はてなブックマーク テクノロジー / score: 85 (クラウドサービスへの不正アクセスと情報漏えい)</description>
 </item>
 <item>
 <title>[85] API キーはどこから漏れるのか？ 自分のサイトに来た .env 探し 1,566 件と、公開事例を 7 つの経路に分けてみた</title>
@@ -413,6 +437,14 @@
 <pubDate>Sun, 04 Oct 2026 19:05:48 +0000</pubDate>
 <category>Qiita 人気記事</category>
 <description>API キーをうっかり GitHub に公開してしまったら、誰かが気づいて止めてくれるのでしょうか。GitHub には「シークレットスキャン」という仕組みがあります。ただ、その仕組みで自分の使っているシステムの鍵まで守られるのか、自分で何か設定する必要があるのかは、あまり... — Qiita 人気記事 / score: 80 (シークレットスキャンの仕組みと重要性を解説)</description>
+</item>
+<item>
+<title>[80] Remix 3 正式版おめでとう。</title>
+<link>https://zenn.dev/alaxusweb/articles/c2d446f1218635</link>
+<guid isPermaLink="true">https://zenn.dev/alaxusweb/articles/c2d446f1218635</guid>
+<pubDate>Sun, 04 Oct 2026 12:38:58 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>Remix が10月にメジャーアップデートリリース🎉（v3） https://remix.run/ うぇーい、とノリでアップデートに挑んで苦しんだお話。 個人で作っているWebアプリを、Remix 3 のbeta（3.0.0-beta.4）で動かしています。 Remix 3 が正式版（3.0.0）になったので、そのまま版を上げたところ、配信のビルドが48 件のエラーで止まりました。型を確かめると、エラーは472件ありました。 ! 要点 472件の多くは連鎖したもので、原因は5つでした 原因は、remix/uiからremix/componentへの改名、DBの作り方とマイグレーションの... — Zenn トレンド / score: 80 (主要フレームワークRemixのメジャーバージョン公開)</description>
 </item>
 <item>
 <title>[80] ドコモ、RCS同意未取得で約1.6万件に影響〜225件で送受信、通信の秘密に抵触</title>
@@ -679,14 +711,6 @@
 <description>AWSを利用するアプリを開発する場合、動作確認のたびにAWS上へS3・DynamoDB・Lambdaなどのリソースを作成すると、環境の構築・削除・利用料金の管理などが必要になります。そこで、AWSのAPIをPC上で再現し、AWS CLIやTerraformなどから60以上のAWSサービスをローカル環境だけで無料で利用できるエミュレーター「MiniStack」を使ってみました。 続きを読む... — GIGAZINE / score: 75 (AWSをローカルでシミュレーションできる便利な開発ツール)</description>
 </item>
 <item>
-<title>[75] Apple、macOSに新たに「フルディスクアクセス」の制御機能を導入へ　AIエージェントのリスク対処のため - こぼねみ</title>
-<link>https://www.kobonemi.com/entry/2026/10/03/macOS-27-Full-Disk-Access-Additional-Controls</link>
-<guid isPermaLink="true">https://www.kobonemi.com/entry/2026/10/03/macOS-27-Full-Disk-Access-Additional-Controls</guid>
-<pubDate>Sat, 03 Oct 2026 00:00:36 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Appleは日本時間10月3日、開発者向け最新ニュースで、AIエージェントがもたらす新たなリスクを踏まえ、macOSの「フルディスクアクセス」設定に「追加の制御機能」を導入すると発表しました。 今回の発表は、Meta MuseやOpenAI Dotsといった常時稼働型のAIエージェントの台頭に伴い、プライバシーに関する懸念が高まって... — はてなブックマーク テクノロジー / score: 75 (macOSのAIエージェント向け新制御機能)</description>
-</item>
-<item>
 <title>[75] Amazon Aurora DSQL now supports partial indexes</title>
 <link>https://aws.amazon.com/about-aws/whats-new/2026/10/aurora-dsql-partial-indexes/</link>
 <guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/aurora-dsql-partial-indexes/</guid>
@@ -781,30 +805,6 @@
 <pubDate>Wed, 30 Sep 2026 00:18:58 +0000</pubDate>
 <category>窓の杜</category>
 <description>米OpenAIは9月29日（現地時間、以下同）、月額200米ドルの「ChatGPT Pro」プランで新規受け付けを再開したと発表した。同プランは新モデル「GPT-6 Astra」の需要が急増し、システムへの負荷が高まったことをうけ、9月10日から新規受け付けが一時停止されていた。 — 窓の杜 / score: 75 (OpenAIのChatGPT Pro再開と新プラン)</description>
-</item>
-<item>
-<title>[75] OpenAI GPT-6.1 Sol is now generally available on Amazon Bedrock</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-1-sol-on-amazon-bedrock/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-1-sol-on-amazon-bedrock/</guid>
-<pubDate>Tue, 29 Sep 2026 20:17:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Today, AWS announces the general availability of GPT-6.1 Sol from OpenAI on Amazon Bedrock. An upgrade to GPT-6 Sol, GPT-6.1 Sol delivers exceptionally strong performance on agentic coding, computer use, and professional work. According to OpenAI, it approaches GPT-6 Astra across demanding evaluations at roughly one-fifth of the cost, giving developers more room to build and run capable agents at scale. The Amazon Bedrock inference engine delivers the performance, security, and reliability requi — AWS What's New / score: 75 (OpenAIの最新モデルがAmazon Bedrockで利用可能になり影響が大きい)</description>
-</item>
-<item>
-<title>[75] Google Cloud、AIエージェントからの大量アクセスをPostgreSQLのプライマリDBから切り離せる「PostgreSQL for agents in AlloyDB」発表</title>
-<link>https://www.publickey1.jp/blog/26/google_cloudaipostgresqldbpostgresql_for_agents_in_alloydb.html</link>
-<guid isPermaLink="true">https://www.publickey1.jp/blog/26/google_cloudaipostgresqldbpostgresql_for_agents_in_alloydb.html</guid>
-<pubDate>Tue, 29 Sep 2026 15:46:18 +0000</pubDate>
-<category>Publickey</category>
-<description>Google Cloudは、本番環境で動作しているPostgreSQLの処理に影響を与えないよう、AIエージェントからの読み取りワークロード用にサンドボックス化されたPostgreSQLのデータベースインスタンスを数秒でプロビジョニングする... — Publickey / score: 75 (AIエージェント向けAlloyDBの新機能発表)</description>
-</item>
-<item>
-<title>[75] 汎用AIエージェント「Manus 2.0」が発表 ～デスクトップアプリは「Manus Studio」へ／タスクの代行から創造のワークスペースに。エージェントアプリ「Cue」も登場</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2144171.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2144171.html</guid>
-<pubDate>Tue, 29 Sep 2026 08:35:31 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Meta傘下のManusは9月28日（現地時間）、「Manus 2.0」を発表した。汎用AIエージェント「Manus」がこれからどうあるべきかという根本的な問いを軸に構築されているとのことで、『バージョンアップではなく、新しいアーキテクチャー、新しいプロダクト、そして新しい機能』と謳っている。 — 窓の杜 / score: 75 (汎用AIエージェントManus 2.0の発表と新アーキテクチャ)</description>
 </item>
 </channel>
 </rss>
