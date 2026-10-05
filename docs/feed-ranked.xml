@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 05 Oct 2026 06:25:56 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 08:21:44 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] September 2026 Security Release</title>
@@ -21,6 +21,14 @@
 <pubDate>Tue, 22 Sep 2026 18:00:00 +0000</pubDate>
 <category>Next.js Blog</category>
 <description>The September 22, 2026 out-of-band security update for Next.js is now available — Next.js Blog / score: 95 (Next.jsの重大な上流脆弱性に対する緊急セキュリティ修正。)</description>
+</item>
+<item>
+<title>[90] Linuxカーネルの脆弱性が一挙1313件も報告される、AI普及で「個々の脆弱性を追う対策は限界」との指摘</title>
+<link>https://gigazine.net/news/20261005-debian-security-advisory/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261005-debian-security-advisory/</guid>
+<pubDate>Mon, 05 Oct 2026 08:10:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>Linuxカーネルに関する1313件ものCVEがDebianのセキュリティアップデートで一挙に列挙されました。影響には権限昇格やサービス拒否攻撃、情報漏えいが含まれており、Debianは修正版カーネルへの更新を推奨しています。 続きを読む... — GIGAZINE / score: 90 (Linuxカーネルの大規模な脆弱性報告)</description>
 </item>
 <item>
 <title>[90] 「Apache OpenOffice」に緊急のコード実行脆弱性「CVE-2026-59265」、パッチは準備中／「LibreOffice」でも同種の問題が報告、OpenOfficeではJava連携の無効化を</title>
@@ -143,6 +151,22 @@
 <description>Next.js 16.3.6 and 15.5.26 are planned for a critical out-of-band security update on September 22, 2026. — Next.js Blog / score: 90 (重要度の高いフレームワークのセキュリティ更新)</description>
 </item>
 <item>
+<title>[85] e-Taxで不具合、他人の個人情報が一時閲覧可能に</title>
+<link>https://ascii.jp/elem/000/004/440/4440069/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/440/4440069/?rss</guid>
+<pubDate>Mon, 05 Oct 2026 07:40:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>国税庁は10月2日、税金の電子申告・納税システム（e-Tax）で、他人の個人情報が一時閲覧可能となっていたことを発表した。同日付で複数のメディアが報じている。 — ASCII.jp / score: 85 (e-Taxにおける個人情報流出の重大な不具合)</description>
+</item>
+<item>
+<title>[85] 大和証券、22万件情報漏えいか　顧客約11万人の口座番号も</title>
+<link>https://www.itmedia.co.jp/news/article/2610/05/2000002005/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/05/2000002005/</guid>
+<pubDate>Mon, 05 Oct 2026 06:19:30 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>大和証券は10月5日、問い合わせ管理などに利用する外部サービスの提供元が不正アクセスを受けた影響で、約22万件の情報が漏えいした可能性があると発表した。顧客約11万人の氏名、メールアドレス、口座番号に加え、個人を特定できない問い合わせ情報などが含まれるという。 不正アクセスを受けたのは、大和証券がインタ... — はてなブックマーク テクノロジー / score: 85 (大規模な情報漏えい事故とセキュリティ影響)</description>
+</item>
+<item>
 <title>[85] 【速報】大和証券に不正アクセス、22万件漏えいか</title>
 <link>https://www.47news.jp/15038299.html</link>
 <guid isPermaLink="true">https://www.47news.jp/15038299.html</guid>
@@ -159,28 +183,12 @@
 <description> — Yahoo!ニュース IT / score: 85 (大和証券の大規模な顧客情報漏洩事案)</description>
 </item>
 <item>
-<title>[85] 大和証券、約11万人の顧客情報漏えいか　委託先に不正アクセス</title>
-<link>https://ascii.jp/elem/000/004/439/4439964/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/439/4439964/?rss</guid>
-<pubDate>Mon, 05 Oct 2026 03:40:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>大和証券は10月5日、外部委託先のスカラコミュニケーションズ（SC社）が不正アクセスを受け、同社サーバーに保存されていた顧客情報が不正取得された可能性があると発表した。 — ASCII.jp / score: 85 (委託先経由での大規模な顧客情報漏えい)</description>
-</item>
-<item>
 <title>[85] AIによるバグ報告が爆増したためGoogleがバグ報奨金プログラムを一時停止</title>
 <link>https://gigazine.net/news/20261005-google-froze-open-source-bug-bounty-program/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261005-google-froze-open-source-bug-bounty-program/</guid>
 <pubDate>Mon, 05 Oct 2026 02:55:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>Googleが提供するオープンソースソフトウェアを対象としたバグ報奨金プログラムの「Google Open Source Software Vulnerability Reward Program(Google OSS VRP)」が、2026年10月1日以降は製品脆弱(ぜいじゃく)性の報告を受け付けなくなったと報告しています。 続きを読む... — GIGAZINE / score: 85 (AI起因のバグ報告急増による報奨金一時停止)</description>
-</item>
-<item>
-<title>[85] 日経社員のGoogle Workspaceに不正ログイン　1646人分の個人情報漏えいか</title>
-<link>https://www.itmedia.co.jp/news/article/2610/05/2000001994/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/05/2000001994/</guid>
-<pubDate>Mon, 05 Oct 2026 02:02:24 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>日本経済新聞社は10月4日、社員が業務で使っていたクラウドサービス「Google Workspace」のアカウントに7月下旬以降、外部から不正なログインがあり、社員や取引先などのメールアドレスや氏名など1646人分が漏えいした可能性があると発表した。 不正ログインは、8月上旬に米Googleからの通知で判明。すぐにパスワードを... — はてなブックマーク テクノロジー / score: 85 (クラウドサービスへの不正アクセスと情報漏えい)</description>
 </item>
 <item>
 <title>[85] API キーはどこから漏れるのか？ 自分のサイトに来た .env 探し 1,566 件と、公開事例を 7 つの経路に分けてみた</title>
@@ -463,22 +471,6 @@
 <description>MicrosoftがWindows 11の最新バージョンである「Windows 11 26H2」において、一部のゲームやアプリが突然クラッシュしたり、予期せず終了したりする問題が発生していることを確認しました。 今回の問 […] — 気になる、記になる… / score: 80 (Windows 11最新版でのアプリクラッシュ不具合)</description>
 </item>
 <item>
-<title>[80] AI生成コードを本番環境へデプロイする前に実施すべきセキュリティチェックリストと対策実装例</title>
-<link>https://qiita.com/blinkgroup_jp/items/01a1126412b5b7b9b1c2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/blinkgroup_jp/items/01a1126412b5b7b9b1c2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Sun, 04 Oct 2026 00:22:02 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>読者が抱える課題 GitHub CopilotやChatGPTなどの生成AIツールは、開発効率を向上させる一方で、脆弱性を含むコードを出力することがあります。AIが提案したコードをそのまま本番環境に投入すると、SQLインジェクション、クロスサイトスクリプティング（XSS）... — Qiita 人気記事 / score: 80 (生成AIコードの本番デプロイ前セキュリティ対策)</description>
-</item>
-<item>
-<title>[80] AppleがAIエージェントのリスクを鑑みMacのフルディスクアクセスに制限を設ける</title>
-<link>https://gigazine.net/news/20261003-apple-limit-mac-full-disk-access-ai-agents-risk/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261003-apple-limit-mac-full-disk-access-ai-agents-risk/</guid>
-<pubDate>Sat, 03 Oct 2026 02:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>現地時間の2026年10月2日、AppleはAIエージェントがもたらすリスクに対応するため、macOSにおけるフルディスクアクセスに新たな制限を導入すると発表しました。 続きを読む... — GIGAZINE / score: 80 (AppleがAIリスク対応でmacOSの制限を強化)</description>
-</item>
-<item>
 <title>[80] GitHub Copilotに「computer use」が登場、デスクトップアプリを操作</title>
 <link>https://codezine.jp/article/detail/29899</link>
 <guid isPermaLink="true">https://codezine.jp/article/detail/29899</guid>
@@ -607,12 +599,20 @@
 <description>GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models. — OpenAI News / score: 80 (最新GPTモデルの性能向上とコスト削減)</description>
 </item>
 <item>
-<title>[75] アップル、AIエージェントへの警戒強める　Mac「フルディスクアクセス」に追加対策</title>
-<link>https://ascii.jp/elem/000/004/439/4439961/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/439/4439961/?rss</guid>
-<pubDate>Mon, 05 Oct 2026 03:40:00 +0000</pubDate>
+<title>[75] 無料のAdobe代替アプリ集「ArtCraft Crafting Apps」、オープンソースでPhotoshop・Illustrator・Premiere・Lightroom・Acrobat・After Effects・InDesignの代替を目指す</title>
+<link>https://gigazine.net/news/20261005-artcraft-crafting-apps/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261005-artcraft-crafting-apps/</guid>
+<pubDate>Mon, 05 Oct 2026 06:52:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>AIによる画像・動画制作ソフトを開発するArtCraftが、Adobe Creative Cloudのクリエイティブツール群をオープンソースソフト「Crafting Apps」として作り直そうとするプロジェクトを進めています。Crafting AppsはPhotoshopやIllustratorなどのAdobeスイートと同じ操作体系でありながら、各アプリがRustで一から開発されているのが特徴。ArtCraftはサブスクリプションやクラウドへの常時接続を必要としないクリエイティブ環境を目指しています。 続きを読む... — GIGAZINE / score: 75 (Adobe代替OSSのRust実装プロジェクト)</description>
+</item>
+<item>
+<title>[75] Stella AI、OpenAI社の最新AIモデル「GPT-6.1 Sol」を提供開始</title>
+<link>https://ascii.jp/elem/000/004/440/4440054/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/440/4440054/?rss</guid>
+<pubDate>Mon, 05 Oct 2026 05:09:56 +0000</pubDate>
 <category>ASCII.jp</category>
-<description>アップルは10月2日、macOSの「フルディスクアクセス」に追加の制御機能を導入することを公表した。 — ASCII.jp / score: 75 (macOSのセキュリティとAIエージェント対策)</description>
+<description>Stella AI、OpenAI社の最新AIモデル「GPT-6.1 Sol」を提供開始 — ASCII.jp / score: 75 (OpenAIの最新モデル提供開始に関するニュースであり、開発者やAI業界に影響がある。)</description>
 </item>
 <item>
 <title>[75] 日経新聞社、Microsoft 365アカウントの情報漏えいと、Google Workspaceからの情報漏えい疑いを発表</title>
@@ -621,6 +621,22 @@
 <pubDate>Mon, 05 Oct 2026 01:09:28 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>日経新聞社、Microsoft 365アカウントの情報漏えいと、Google Workspaceからの情報漏えい疑いを発表 — はてなブックマーク テクノロジー / score: 75 (大手企業におけるクラウドの情報漏えい疑い)</description>
+</item>
+<item>
+<title>[75] 【速報】Gemini 4 Argon 登場！公式データで見る“長時間働くAI”の現在地</title>
+<link>https://qiita.com/tomokoro/items/69f8d2f1a3504927b6c7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/tomokoro/items/69f8d2f1a3504927b6c7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Mon, 05 Oct 2026 01:03:34 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>1. はじめに みなさんこんにちは！ 2026年10月1日（日本時間）、Google DeepMindより新世代のフロンティアAIモデル「Gemini 4 Argon」（以下、Argon）が正式に発表されました。 出典：[Google Japan Blog「Gemini... — Qiita 人気記事 / score: 75 (新型フロンティアAIモデルのリリース)</description>
+</item>
+<item>
+<title>[75] 9月プレビュー更新で「AC-3」（Dolby Digital）に問題、「Windows 11 26H2」にも影響／OS内蔵の音声デコード機能を利用するアプリで、起動不能などの不具合</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2145476.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2145476.html</guid>
+<pubDate>Mon, 05 Oct 2026 01:03:00 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>9月プレビュー更新で「AC-3」（Dolby Digital）に問題、「Windows 11 26H2」にも影響／OS内蔵の音声デコード機能を利用するアプリで、起動不能などの不具合 — はてなブックマーク テクノロジー / score: 75 (Windowsのプレビュー更新によるアプリ不具合の報告。)</description>
 </item>
 <item>
 <title>[75] GitHub Copilot、CLIなどでエージェント処理をコードで定義する機能を提供</title>
@@ -637,14 +653,6 @@
 <pubDate>Sun, 04 Oct 2026 23:05:07 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>これには思わず二度見、いや三度見しました！ Photoshop, Illustrator, Premiere Pro, Lightroom, Acrobat Pro, After Effects, InDesignのAdobeのアプリ7種類をAdobeのコードを一切使用せずに、完全に新しいコードを使用して各アプリの機能を忠実に再現したオープンソースのアプリを紹介します。 しかも、すべてのアプ... — はてなブックマーク テクノロジー / score: 75 (Adobe製主要アプリを完全再現したオープンソース)</description>
-</item>
-<item>
-<title>[75] 9月プレビュー更新で「AC-3」（Dolby Digital）に問題、「Windows 11 26H2」にも影響／OS内蔵の音声デコード機能を利用するアプリで、起動不能などの不具合</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2145476.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2145476.html</guid>
-<pubDate>Sun, 04 Oct 2026 21:45:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Microsoftは10月2日（現地時間）、Windows 11で新しい問題が確認されたことを明らかにした。2026年9月のプレビュー更新プログラム「KB5124010」以降を適用した環境で、「AC-3」（Dolby Digital）の音声デコードを必要とするアプリが予期せず終了することがあるという。 — 窓の杜 / score: 75 (Windowsのプレビュー更新によるアプリ不具合の報告。)</description>
 </item>
 <item>
 <title>[75] Supabase、1サーバあたり数百万ものSQLiteをホストする「Turso」買収を発表。AIエージェントで加速するDB需要に対応</title>
@@ -701,14 +709,6 @@
 <pubDate>Sat, 03 Oct 2026 05:57:01 +0000</pubDate>
 <category>iPhone Mania</category>
 <description>AT&amp;T回線を利用する一部のiPhone18 Pro Maxで、通話やSMS、モバイルデータ通信が使えなくなる問題について、AppleがMacRumorsへの声明で問題を確認しました。 iOS27.0.1とキャリ […] — iPhone Mania / score: 75 (最新スマホの通信不良と端末交換対応のニュース)</description>
-</item>
-<item>
-<title>[75] 無料でAWSをローカルでシミュレーションできるエミュレーター「MiniStack」、60以上のAWSサービスを単一ポートで利用可能でマルチアカウント＆マルチリージョン対応、セルフホスト可能</title>
-<link>https://gigazine.net/news/20261003-ministack/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261003-ministack/</guid>
-<pubDate>Sat, 03 Oct 2026 03:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>AWSを利用するアプリを開発する場合、動作確認のたびにAWS上へS3・DynamoDB・Lambdaなどのリソースを作成すると、環境の構築・削除・利用料金の管理などが必要になります。そこで、AWSのAPIをPC上で再現し、AWS CLIやTerraformなどから60以上のAWSサービスをローカル環境だけで無料で利用できるエミュレーター「MiniStack」を使ってみました。 続きを読む... — GIGAZINE / score: 75 (AWSをローカルでシミュレーションできる便利な開発ツール)</description>
 </item>
 <item>
 <title>[75] Amazon Aurora DSQL now supports partial indexes</title>
