@@ -4,8 +4,16 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 05 Oct 2026 22:09:27 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 00:26:33 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>[95] @subql/common ソフトウェアサプライチェーン攻撃の概要と対策指針 - GMO Flatt Security Blog</title>
+<link>https://blog.flatt.tech/entry/2026/10/06/021103</link>
+<guid isPermaLink="true">https://blog.flatt.tech/entry/2026/10/06/021103</guid>
+<pubDate>Tue, 06 Oct 2026 00:06:09 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>2026年10月5日、npm パッケージ @subql/common に悪性コードが注入されました。@subql/common は、SubQuery の GitHub リポジトリ subquery/subql で開発されているパッケージです。 注入された悪性コードは、Infostealer と C2 クライアントの機能を併せ持つマルウェアです。postinstall フック経由で実行され、AWS・Gi... — はてなブックマーク テクノロジー / score: 95 (npmパッケージのサプライチェーン攻撃とマルウェア混入)</description>
+</item>
 <item>
 <title>[95] September 2026 Security Release</title>
 <link>https://nextjs.org/blog/september-2026-security-release</link>
@@ -21,6 +29,14 @@
 <pubDate>Tue, 22 Sep 2026 18:00:00 +0000</pubDate>
 <category>Next.js Blog</category>
 <description>The September 22, 2026 out-of-band security update for Next.js is now available — Next.js Blog / score: 95 (Next.jsの重大な上流脆弱性に対する緊急セキュリティ修正。)</description>
+</item>
+<item>
+<title>[90] ランサム集団キリンの中心メンバー、日本で拘束　アサヒにも「攻撃」（朝日新聞） - Yahoo!ニュース</title>
+<link>https://news.yahoo.co.jp/articles/e8c753300f37b0f2ba619bfe706422fe59ed0d6b</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/articles/e8c753300f37b0f2ba619bfe706422fe59ed0d6b</guid>
+<pubDate>Mon, 05 Oct 2026 23:08:08 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>昨年9月末のアサヒグループホールディングスへのサイバー攻撃について、犯行声明を出したハッカー集団「Qilin」のウェブサイトの一部=セキュリティー会社提供（朝日新聞） 世界各国の企業などにサイバー攻撃を繰り返すランサムウェア（身代金ウイルス）集団「Qilin（キリン）」の中心メンバーでロシア国籍の男（28）を... — はてなブックマーク テクノロジー / score: 90 (ランサムウェア集団中心メンバーの拘束という重大事件)</description>
 </item>
 <item>
 <title>[90] タイムズカー、情報保護法を軽視　160万件の免許証画像流出 | NEWSjp</title>
@@ -167,36 +183,12 @@
 <description>Next.js 16.3.6 and 15.5.26 are planned for a critical out-of-band security update on September 22, 2026. — Next.js Blog / score: 90 (重要度の高いフレームワークのセキュリティ更新)</description>
 </item>
 <item>
-<title>[85] 大阪公立大システム障害 ランサムウエアによるサイバー攻撃か | NHKニュース</title>
-<link>https://news.web.nhk/newsweb/na/nd-20261005de54843</link>
-<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261005de54843</guid>
-<pubDate>Mon, 05 Oct 2026 10:44:37 +0000</pubDate>
+<title>[85] 連日の不正アクセスの件、マジでシャレにならないが、こんなやばいの日本だけ？他の国で問題になってないん？「今世界中で起きてる」</title>
+<link>https://togetter.com/li/2754581</link>
+<guid isPermaLink="true">https://togetter.com/li/2754581</guid>
+<pubDate>Mon, 05 Oct 2026 18:31:36 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>大規模なシステム障害で授業が休講している大阪公立大学は、5日に記者会見を開き、身代金要求型のコンピューターウイルス「ランサムウエア」によるサイバー攻撃を受けたという見方を示しました。 大阪市と堺市… — はてなブックマーク テクノロジー / score: 85 (大学におけるランサムウェア攻撃によるシステム障害)</description>
-</item>
-<item>
-<title>[85] 大阪公立大 サイバー攻撃受け障害 - Yahoo!ニュース</title>
-<link>https://news.yahoo.co.jp/pickup/6597639</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6597639</guid>
-<pubDate>Mon, 05 Oct 2026 10:42:06 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>今月2日に基盤システムにトラブルが発生し、休講が続いている大阪公立大学が5日、会見を開いて謝罪し、システム障害の原因はランサムウェアによるサイバー攻撃を受けたと判断していることを明らかにしました。 — はてなブックマーク テクノロジー / score: 85 (大阪公立大のランサムウェア感染による大規模障害)</description>
-</item>
-<item>
-<title>[85] 「焼肉きんぐ」運営会社 1000万件余のユーザー情報が漏えい | NHKニュース</title>
-<link>https://news.web.nhk/newsweb/na/nd-20261005de54760</link>
-<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261005de54760</guid>
-<pubDate>Mon, 05 Oct 2026 09:03:57 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>全国で370店舗以上を展開する「焼肉きんぐ」を運営する「物語コーポレーション」は、会員を管理するシステムに不正アクセスがあり、アプリに登録した1000万余りのユーザーに関する情報が漏えいしたと発表しま… — はてなブックマーク テクノロジー / score: 85 (1000万件の大規模個人情報漏えい事故)</description>
-</item>
-<item>
-<title>[85] 【速報】「多くの方々にご不便とご心配かけ、深くお詫び」大阪公立大が謝罪　ランサムウェアによるサイバー攻撃か　基盤システム障害で全授業が休講中　対面授業は9日以降再開予定（MBSニュース） - Yahoo!ニュース</title>
-<link>https://news.yahoo.co.jp/articles/4d139d586213ccab1bea8ea57e005e6689c4ab6b</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/articles/4d139d586213ccab1bea8ea57e005e6689c4ab6b</guid>
-<pubDate>Mon, 05 Oct 2026 08:18:28 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>【速報】「多くの方々にご不便とご心配かけ、深くお詫び」大阪公立大が謝罪 ランサムウェアによるサイバー攻撃か 基盤システム障害で全授業が休講中 対面授業は9日以降再開予定（MBSニュース） - Yahoo!ニュース — はてなブックマーク テクノロジー / score: 85 (大学でのランサムウェア被害とシステム障害)</description>
+<description>企業で相次ぐ“不正アクセス” 狙われる「個人情報」｜FNNプライムオンライン 第三者からの不正アクセスを受けた企業からの情報漏えいが相次いでいます。5日夕方、「焼肉きんぐ」を運営する物語コーポレーションは、公式アプリの会員管理システムが第三者からの不正アクセスを受け、登録され… FNNプライムオンライン — はてなブックマーク テクノロジー / score: 85 (企業を狙う不正アクセスと情報漏えいの深刻な問題)</description>
 </item>
 <item>
 <title>[85] 【速報】「多くの方々にご不便とご心配かけ、深くお詫び」大阪公立大が謝罪　ランサムウェアによるサイバー攻撃か　基盤システム障害で全授業が休講中　対面授業は9日以降再開予定 | TBS NEWS DIG</title>
@@ -205,14 +197,6 @@
 <pubDate>Mon, 05 Oct 2026 08:15:52 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>【速報】「多くの方々にご不便とご心配かけ、深くお詫び」大阪公立大が謝罪 ランサムウェアによるサイバー攻撃か 基盤システム障害で全授業が休講中 対面授業は9日以降再開予定 — はてなブックマーク テクノロジー / score: 85 (大学へのランサムウェア攻撃による深刻な被害事例)</description>
-</item>
-<item>
-<title>[85] 【速報】大和証券に不正アクセス、22万件漏えいか</title>
-<link>https://www.47news.jp/15038299.html</link>
-<guid isPermaLink="true">https://www.47news.jp/15038299.html</guid>
-<pubDate>Mon, 05 Oct 2026 04:29:00 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>【速報】大和証券に不正アクセス、22万件漏えいか 大和証券グループ本社は5日、不正アクセスにより、個人を特定できない情報を含め約22万件の情報が漏えいした可能性があると発表した。 — はてなブックマーク テクノロジー / score: 85 (大企業の不正アクセスと大量データ漏えいインシデント)</description>
 </item>
 <item>
 <title>[85] 大和証券 顧客情報11万人分漏洩か</title>
@@ -237,6 +221,14 @@
 <pubDate>Mon, 05 Oct 2026 00:15:05 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? — はてなブックマーク テクノロジー / score: 85 (APIキー漏洩の実態と事例解説でセキュリティ上重要)</description>
+</item>
+<item>
+<title>[85] 日経新聞サイバー攻撃で情報漏えいか なりすましメールが送信 | NHKニュース</title>
+<link>https://news.web.nhk/newsweb/na/nd-20261004de54358</link>
+<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261004de54358</guid>
+<pubDate>Mon, 05 Oct 2026 00:04:40 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>日本経済新聞社は社員が使っていた業務用ソフトのアカウントがサイバー攻撃を受け、社員になりすましたメールおよそ9000件が送信されたと発表しました。 メールアドレスなどの情報が漏えいしたとみられるとい… — はてなブックマーク テクノロジー / score: 85 (日経新聞のサイバー攻撃と大量なりすましメール問題)</description>
 </item>
 <item>
 <title>[85] 日経新聞がサイバー攻撃被害 発表</title>
@@ -367,14 +359,6 @@
 <description>Mozillaは9月29日（米国時間）、デスクトップ向け「Firefox」の最新版v157.0をリリースチャネルで公開した。「Firefox 156」に続くメジャーバージョンアップで、コードネーム「Project Nova」と呼ばれていたビジュアル刷新が目玉となっている。 — 窓の杜 / score: 85 (主要ブラウザの大規模アップデートと脆弱性修正)</description>
 </item>
 <item>
-<title>[85] OpenAI DevDay 2026 発表まとめ</title>
-<link>https://zenn.dev/schroneko/articles/openai-devday-2026</link>
-<guid isPermaLink="true">https://zenn.dev/schroneko/articles/openai-devday-2026</guid>
-<pubDate>Tue, 29 Sep 2026 17:20:46 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>! 加筆中です。追記していきます。 tl;dr OpenAI DevDay 2026 がサンフランシスコで開催されたよ サンフランシスコ現地から情報をお送りするよ ひと通りのリソースをまとめたけど、まずは Recap ページを見るといいよ 24 時間常時稼働のエージェント dots が発表されたよ GPT-6 Astra に近い性能を低コストで使える GPT-6.1 Sol が公開されたよ 高速にトークンを生成する Ultrafast が使えるようになったよ Codex のクラウド環境や CLI、コードレビュー機能が強化されたよ Agents API が Computer Use... — Zenn トレンド / score: 85 (OpenAI DevDayでの主要機能発表まとめ)</description>
-</item>
-<item>
 <title>[85] Introducing GPT-6.1 Sol</title>
 <link>https://openai.com/index/introducing-gpt-6-1-sol</link>
 <guid isPermaLink="true">https://openai.com/index/introducing-gpt-6-1-sol</guid>
@@ -455,12 +439,12 @@
 <description>Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost. — OpenAI News / score: 85 (主要なAIモデルのメジャーリリース)</description>
 </item>
 <item>
-<title>[85] Transformers now runs llama.cpp quants</title>
-<link>https://huggingface.co/blog/transformers-llama-cpp-quants</link>
-<guid isPermaLink="true">https://huggingface.co/blog/transformers-llama-cpp-quants</guid>
-<pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-<category>Hugging Face Blog</category>
-<description> — Hugging Face Blog / score: 85 (Transformersライブラリの量子化モデル対応)</description>
+<title>[80] TCPに代わる通信プロトコル「Homa」をスタンフォード大学名誉教授が提唱、AI時代は1ミリ秒の遅延でもGPUが待たされる</title>
+<link>https://gigazine.net/news/20261006-homa-protocol-replace-tcp/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261006-homa-protocol-replace-tcp/</guid>
+<pubDate>Mon, 05 Oct 2026 23:08:07 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>ウェブやクラウドを支える通信プロトコル「TCP」はAI向けデータセンターの通信には適していないとして、スタンフォード大学のジョン・オースターハウト名誉教授がトランスポートプロトコル「Homa」への移行を訴えています。Homaは短いメッセージを優先的に処理することで通信遅延を抑える仕組みを備えており、既存のTCP... — はてなブックマーク テクノロジー / score: 80 (AI時代の通信遅延を解決する新しいプロトコル提案)</description>
 </item>
 <item>
 <title>[80] 大阪公立大 サイバー攻撃受け障害</title>
@@ -479,36 +463,12 @@
 <description>API キーをうっかり GitHub に公開してしまったら、誰かが気づいて止めてくれるのでしょうか。GitHub には「シークレットスキャン」という仕組みがあります。ただ、その仕組みで自分の使っているシステムの鍵まで守られるのか、自分で何か設定する必要があるのかは、あまり... — Qiita 人気記事 / score: 80 (シークレットスキャンの仕組みと重要性を解説)</description>
 </item>
 <item>
-<title>[80] Remix 3 正式版おめでとう。</title>
-<link>https://zenn.dev/alaxusweb/articles/c2d446f1218635</link>
-<guid isPermaLink="true">https://zenn.dev/alaxusweb/articles/c2d446f1218635</guid>
-<pubDate>Sun, 04 Oct 2026 12:38:58 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>Remix が10月にメジャーアップデートリリース🎉（v3） https://remix.run/ うぇーい、とノリでアップデートに挑んで苦しんだお話。 個人で作っているWebアプリを、Remix 3 のbeta（3.0.0-beta.4）で動かしています。 Remix 3 が正式版（3.0.0）になったので、そのまま版を上げたところ、配信のビルドが48 件のエラーで止まりました。型を確かめると、エラーは472件ありました。 ! 要点 472件の多くは連鎖したもので、原因は5つでした 原因は、remix/uiからremix/componentへの改名、DBの作り方とマイグレーションの... — Zenn トレンド / score: 80 (主要フレームワークRemixのメジャーバージョン公開)</description>
-</item>
-<item>
 <title>[80] ドコモ、RCS同意未取得で約1.6万件に影響〜225件で送受信、通信の秘密に抵触</title>
 <link>https://iphone-mania.jp/carrier-606964/</link>
 <guid isPermaLink="true">https://iphone-mania.jp/carrier-606964/</guid>
 <pubDate>Sun, 04 Oct 2026 07:06:29 +0000</pubDate>
 <category>iPhone Mania</category>
 <description>NTTドコモは10月4日（日）、店頭でMNP新規契約をした一部のユーザーについて、RCSの重要事項説明やGoogleへの第三者提供に関する同意を取得しないまま、RCSを利用できる状態になっていたと発表しました。影響件数は […] — iPhone Mania / score: 80 (通信の秘密に関わるドコモの法的・規約違反トラブル。)</description>
-</item>
-<item>
-<title>[80] ｢Windows 11 26H2｣でAC-3オーディオのデコードを必要とする一部ゲームやアプリが予期せず終了する問題が発生中 ｰ Microsoftも認識</title>
-<link>https://taisy0.com/2026/10/04/228352.html</link>
-<guid isPermaLink="true">https://taisy0.com/2026/10/04/228352.html</guid>
-<pubDate>Sun, 04 Oct 2026 01:08:18 +0000</pubDate>
-<category>気になる、記になる…</category>
-<description>MicrosoftがWindows 11の最新バージョンである「Windows 11 26H2」において、一部のゲームやアプリが突然クラッシュしたり、予期せず終了したりする問題が発生していることを確認しました。 今回の問 […] — 気になる、記になる… / score: 80 (Windows 11最新版でのアプリクラッシュ不具合)</description>
-</item>
-<item>
-<title>[80] GitHub Copilotに「computer use」が登場、デスクトップアプリを操作</title>
-<link>https://codezine.jp/article/detail/29899</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/29899</guid>
-<pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 80 (GitHub Copilotの新機能とPC操作連携)</description>
 </item>
 <item>
 <title>[80] Amazon EKS and Amazon EKS Distro now support Kubernetes version 1.37</title>
@@ -615,6 +575,14 @@
 <description>GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models. — OpenAI News / score: 80 (最新GPTモデルの性能向上とコスト削減)</description>
 </item>
 <item>
+<title>[75] Gemini無料版、10月9日から「Flash-Lite」のみに</title>
+<link>https://japan.cnet.com/article/35253255/</link>
+<guid isPermaLink="true">https://japan.cnet.com/article/35253255/</guid>
+<pubDate>Mon, 05 Oct 2026 23:47:12 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Googleは、生成AI「Gemini」のアプリで、プランごとに利用できるAIモデルを見直すとヘルプページで明らかにした。無料ユーザーは10月9日から、これまで使えた「Flash」と「Pro」が使えなくなり、速度を重視した「Flash-Lite」のみ利用できるようになる。対象は、個人のGoogleアカウントでGeminiアプリを使う場合だ。 有... — はてなブックマーク テクノロジー / score: 75 (Gemini無料版のモデル変更による影響)</description>
+</item>
+<item>
 <title>[75] 直感頼みのLLMに 「第37手」は打てるか？ AlphaGo開発者の提言</title>
 <link>https://ascii.jp/elem/000/004/440/4440150/?rss</link>
 <guid isPermaLink="true">https://ascii.jp/elem/000/004/440/4440150/?rss</guid>
@@ -639,20 +607,12 @@
 <description>Googleはサンドボックス型コンテナランタイムの「gVisor」をCloud Native Computing Foundation（CNCF）に寄贈したことを発表しました。 gVisorはコンテナ型仮想マシンの業界標準であるOCI（Op... — Publickey / score: 75 (gVisorのCNCF寄贈による業界標準化の推進)</description>
 </item>
 <item>
-<title>[75] 大起水産 不正アクセスで約17万5000人分の個人情報漏えいか | NHKニュース</title>
-<link>https://news.web.nhk/newsweb/na/nd-20261005de54848</link>
-<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261005de54848</guid>
-<pubDate>Mon, 05 Oct 2026 10:45:21 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>大阪・堺市に本社がある関西のすしチェーン「大起水産」は、外部から不正アクセスを受け、会社の公式アプリに登録されているおよそ17万5000人分の個人情報が外部に漏えいした可能性があると発表しました。現時… — はてなブックマーク テクノロジー / score: 75 (企業アプリへの不正アクセスによる個人情報漏えい)</description>
-</item>
-<item>
-<title>[75] 無料のAdobe代替アプリ集「ArtCraft Crafting Apps」、オープンソースでPhotoshop・Illustrator・Premiere・Lightroom・Acrobat・After Effects・InDesignの代替を目指す</title>
-<link>https://gigazine.net/news/20261005-artcraft-crafting-apps/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261005-artcraft-crafting-apps/</guid>
-<pubDate>Mon, 05 Oct 2026 07:26:43 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>AIによる画像・動画制作ソフトを開発するArtCraftが、Adobe Creative Cloudのクリエイティブツール群をオープンソースソフト「Crafting Apps」として作り直そうとするプロジェクトを進めています。Crafting AppsはPhotoshopやIllustratorなどのAdobeスイートと同じ操作体系でありながら、各アプリがRustで一から開発され... — はてなブックマーク テクノロジー / score: 75 (Adobe代替OSSのRust実装プロジェクト)</description>
+<title>[75] Announcing Amazon Nova 2.5 Sonic with improved reasoning for voice agents</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-nova-2.5-sonic/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-nova-2.5-sonic/</guid>
+<pubDate>Mon, 05 Oct 2026 08:10:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Today, we announce the general availability of Amazon Nova 2.5 Sonic, our latest speech-to-speech model for natural, real-time voice agents. This release brings improved reasoning, instruction following, and tool-calling accuracy to real-time voice applications. The model also delivers lower latency, enabling faster, more natural interactions. Nova 2.5 Sonic helps voice agents maintain context, follow multi-step instructions, and use connected tools to complete customer tasks. For example, a cus — AWS What's New / score: 75 (音声AIモデルの新バージョン一般提供)</description>
 </item>
 <item>
 <title>[75] AIでコード生成は加速、でも人間の確認が追いつかない問題。t-wadaが示す「レビュー解体」という答え - エンジニアtype | 転職type</title>
@@ -663,12 +623,12 @@
 <description>転職・求人情報サイトのtype エンジニアtype ITニュース AIでコード生成は加速、でも人間の確認が追いつかない問題。t-wadaが示す「レビュー解体」という答え NEW! 2026.10.05 ITニュース 和田卓人プログラミングAI 生成AIは「コードを書く」というエンジニアの仕事を急速に変えた。AIと相談しながら実装を進めるだけで... — はてなブックマーク テクノロジー / score: 75 (生成AI時代のコードレビューの課題と対策)</description>
 </item>
 <item>
-<title>[75] パチンコ店の入場抽選アプリ「777CON-PASS」に不正アクセス　行動エリアやプロフ写真など流出か</title>
-<link>https://www.itmedia.co.jp/news/article/2610/05/2000002003/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/05/2000002003/</guid>
-<pubDate>Mon, 05 Oct 2026 07:02:03 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>オンラインゲームの開発・運営を手掛けるサミーネットワークス（東京都品川区）は10月2日、同社が運営するパチンコ・パチスロ店向け入場抽選アプリ「777CON-PASS」で第三者による不正アクセスがあり、利用者の個人情報が流出した可能性があると発表した。位置情報から生成した行動エリアやプロフィール写真などが対象に... — はてなブックマーク テクノロジー / score: 75 (アプリへの不正アクセスと個人情報流出の発生)</description>
+<title>[75] 無料のAdobe代替アプリ集「ArtCraft Crafting Apps」、オープンソースでPhotoshop・Illustrator・Premiere・Lightroom・Acrobat・After Effects・InDesignの代替を目指す</title>
+<link>https://gigazine.net/news/20261005-artcraft-crafting-apps/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261005-artcraft-crafting-apps/</guid>
+<pubDate>Mon, 05 Oct 2026 06:52:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>AIによる画像・動画制作ソフトを開発するArtCraftが、Adobe Creative Cloudのクリエイティブツール群をオープンソースソフト「Crafting Apps」として作り直そうとするプロジェクトを進めています。Crafting AppsはPhotoshopやIllustratorなどのAdobeスイートと同じ操作体系でありながら、各アプリがRustで一から開発されているのが特徴。ArtCraftはサブスクリプションやクラウドへの常時接続を必要としないクリエイティブ環境を目指しています。 続きを読む... — GIGAZINE / score: 75 (Adobe代替OSSのRust実装プロジェクト)</description>
 </item>
 <item>
 <title>[75] AWSにログインする方法8選</title>
@@ -693,14 +653,6 @@
 <pubDate>Mon, 05 Oct 2026 01:00:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 75 (GitHub Copilotの新機能とエージェント処理)</description>
-</item>
-<item>
-<title>[75] 何これ、すごすぎる！！ PhotoshopやIllustratorをオープンソースで再構築、しかもWin、Mac、Linux、Web対応で無料</title>
-<link>https://coliss.com/wp-content/cache/all/articles/build-websites/operation/work/7-adobe-apps-open-sourced.html/index.html</link>
-<guid isPermaLink="true">https://coliss.com/wp-content/cache/all/articles/build-websites/operation/work/7-adobe-apps-open-sourced.html/index.html</guid>
-<pubDate>Sun, 04 Oct 2026 23:05:07 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>これには思わず二度見、いや三度見しました！ Photoshop, Illustrator, Premiere Pro, Lightroom, Acrobat Pro, After Effects, InDesignのAdobeのアプリ7種類をAdobeのコードを一切使用せずに、完全に新しいコードを使用して各アプリの機能を忠実に再現したオープンソースのアプリを紹介します。 しかも、すべてのアプ... — はてなブックマーク テクノロジー / score: 75 (Adobe製主要アプリを完全再現したオープンソース)</description>
 </item>
 <item>
 <title>[75] 9月プレビュー更新で「AC-3」（Dolby Digital）に問題、「Windows 11 26H2」にも影響／OS内蔵の音声デコード機能を利用するアプリで、起動不能などの不具合</title>
@@ -805,6 +757,54 @@
 <pubDate>Wed, 30 Sep 2026 17:22:31 +0000</pubDate>
 <category>AWS News Blog</category>
 <description>Amazon Aurora PostgreSQL now lets you directly query Apache Iceberg and Parquet data stored in your data lake alongside live operational data—no ETL pipelines required. Powered by DuckDB embedded within Aurora, this capability enables single queries that join transactional and historical data using familiar PostgreSQL syntax. It supports AWS Glue Data Catalog, S3, and S3 Tables, with optimizations like predicate pushdown and caching for efficient performance. — AWS News Blog / score: 75 (Aurora PostgreSQLのIceberg直接クエリ対応)</description>
+</item>
+<item>
+<title>[75] Vulnerability Discovery and Exploitation Trends in the AI Era</title>
+<link>https://cloud.google.com/blog/topics/threat-intelligence/vulnerability-discovery-and-exploitation-trends-in-the-ai-era/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/threat-intelligence/vulnerability-discovery-and-exploitation-trends-in-the-ai-era/</guid>
+<pubDate>Wed, 30 Sep 2026 14:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Written by: Robin Grunewald, Supriya Mazumdar, Kelli Vanderlee Introduction Google Threat Intelligence Group (GTIG) examines vulnerability disclosure and exploitation statistics to evaluate the impact of artificial intelligence (AI) on the vulnerability threat landscape. We found that AI is measurably changing not just the pace of vulnerability discovery and exploitation, but also the types and typical risk profiles of vulnerabilities that are being discovered. Key findings: Vulnerability disclo — Google Cloud Blog / score: 75 (AI時代の脅威インテリジェンス動向)</description>
+</item>
+<item>
+<title>[75] OpenAI GPT-6.1 Sol is now generally available on Amazon Bedrock</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-1-sol-on-amazon-bedrock/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-1-sol-on-amazon-bedrock/</guid>
+<pubDate>Tue, 29 Sep 2026 20:17:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Today, AWS announces the general availability of GPT-6.1 Sol from OpenAI on Amazon Bedrock. An upgrade to GPT-6 Sol, GPT-6.1 Sol delivers exceptionally strong performance on agentic coding, computer use, and professional work. According to OpenAI, it approaches GPT-6 Astra across demanding evaluations at roughly one-fifth of the cost, giving developers more room to build and run capable agents at scale. The Amazon Bedrock inference engine delivers the performance, security, and reliability requi — AWS What's New / score: 75 (OpenAIの最新モデルがAmazon Bedrockで利用可能になり影響が大きい)</description>
+</item>
+<item>
+<title>[75] Google Cloud、AIエージェントからの大量アクセスをPostgreSQLのプライマリDBから切り離せる「PostgreSQL for agents in AlloyDB」発表</title>
+<link>https://www.publickey1.jp/blog/26/google_cloudaipostgresqldbpostgresql_for_agents_in_alloydb.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/google_cloudaipostgresqldbpostgresql_for_agents_in_alloydb.html</guid>
+<pubDate>Tue, 29 Sep 2026 15:46:18 +0000</pubDate>
+<category>Publickey</category>
+<description>Google Cloudは、本番環境で動作しているPostgreSQLの処理に影響を与えないよう、AIエージェントからの読み取りワークロード用にサンドボックス化されたPostgreSQLのデータベースインスタンスを数秒でプロビジョニングする... — Publickey / score: 75 (AIエージェント向けAlloyDBの新機能発表)</description>
+</item>
+<item>
+<title>[75] Cloudflare、全APIに対応しTypeScriptで設定可能な新コマンドラインツール「cf」をリリース</title>
+<link>https://gihyo.jp/article/2026/09/cloudflare-cf-cli?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/09/cloudflare-cf-cli?utm_source=feed</guid>
+<pubDate>Tue, 29 Sep 2026 05:33:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Cloudflareは2026年9月28日、コマンドラインからCloudflare API全体を操作でき、TypeScriptで設定を記述できる新たなCLIツール「cf」をオープンベータ版としてリリースした。 — gihyo.jp / score: 75 (Cloudflareの新CLIツール「cf」のベータ版リリース)</description>
+</item>
+<item>
+<title>[75] Introducing dots</title>
+<link>https://openai.com/index/introducing-dots</link>
+<guid isPermaLink="true">https://openai.com/index/introducing-dots</guid>
+<pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward. — OpenAI News / score: 75 (新しいAIエージェント機能の発表で注目度が高い。)</description>
+</item>
+<item>
+<title>[75] How we will do better for Australia</title>
+<link>https://openai.com/index/how-we-will-do-better-for-australia</link>
+<guid isPermaLink="true">https://openai.com/index/how-we-will-do-better-for-australia</guid>
+<pubDate>Mon, 28 Sep 2026 19:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences. — OpenAI News / score: 75 (OpenAIの豪州でのサイバー防衛支援と謝罪。)</description>
 </item>
 </channel>
 </rss>
