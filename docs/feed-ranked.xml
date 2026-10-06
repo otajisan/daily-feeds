@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Tue, 06 Oct 2026 20:10:45 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 22:09:44 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] September 2026 Security Release</title>
@@ -29,14 +29,6 @@
 <pubDate>Mon, 05 Oct 2026 08:43:10 +0000</pubDate>
 <category>Yahoo!ニュース IT</category>
 <description> — Yahoo!ニュース IT / score: 90 (焼肉きんぐの大量情報流出のニュース速報)</description>
-</item>
-<item>
-<title>[90] Linuxカーネルの脆弱性が一挙1313件も報告される、AI普及で「個々の脆弱性を追う対策は限界」との指摘</title>
-<link>https://gigazine.net/news/20261005-debian-security-advisory/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261005-debian-security-advisory/</guid>
-<pubDate>Mon, 05 Oct 2026 08:10:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>Linuxカーネルに関する1313件ものCVEがDebianのセキュリティアップデートで一挙に列挙されました。影響には権限昇格やサービス拒否攻撃、情報漏えいが含まれており、Debianは修正版カーネルへの更新を推奨しています。 続きを読む... — GIGAZINE / score: 90 (Linuxカーネルの大規模な脆弱性報告)</description>
 </item>
 <item>
 <title>[90] 「Apache OpenOffice」に緊急のコード実行脆弱性「CVE-2026-59265」、パッチは準備中／「LibreOffice」でも同種の問題が報告、OpenOfficeではJava連携の無効化を</title>
@@ -111,12 +103,12 @@
 <description>Next.js is preparing a scheduled September security release for September 30, 2026. — Next.js Blog / score: 90 (Next.jsのセキュリティリリース予告)</description>
 </item>
 <item>
-<title>[90] Better prompt caching for GPT-6</title>
-<link>https://openai.com/index/better-prompt-caching-for-gpt-6</link>
-<guid isPermaLink="true">https://openai.com/index/better-prompt-caching-for-gpt-6</guid>
-<pubDate>Tue, 22 Sep 2026 21:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs. — OpenAI News / score: 90 (主要AIモデルのプロンプトキャッシュ改善に関する重要ニュース)</description>
+<title>[85] Introducing Mistral Large 4: Le chonk</title>
+<link>https://simonwillison.net/2026/Oct/6/le-chonk/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Oct/6/le-chonk/</guid>
+<pubDate>Tue, 06 Oct 2026 20:18:19 +0000</pubDate>
+<category>Simon Willison</category>
+<description>Introducing Mistral Large 4: Le chonk Mistral are back in the game. Today they're releasing a preview of Mistral Large 4, a 1 trillion parameter, 49 billion active parameter model trained on their own cluster of 3,800 NVIDIA Grace Blackwell GPUs. The preview is available via their API. They promise to release the open weights model at the "end of this month". The model only supports two reasoning levels - "none" and "high" - via the Mistral API. Here are both pelicans - the "high" one looks bett — Simon Willison / score: 85 (Mistralの新しい大規模言語モデルプレビュー公開)</description>
 </item>
 <item>
 <title>[85] チームみらい安野氏「サイバー攻撃能力の高いAIモデルが拡散」　相次ぐ情報漏えい受け「対応を急ぐ必要がある」</title>
@@ -282,7 +274,7 @@
 <title>[85] Introducing GPT-6.1 Sol</title>
 <link>https://openai.com/index/introducing-gpt-6-1-sol</link>
 <guid isPermaLink="true">https://openai.com/index/introducing-gpt-6-1-sol</guid>
-<pubDate>Tue, 29 Sep 2026 17:00:00 +0000</pubDate>
+<pubDate>Tue, 29 Sep 2026 10:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices. — OpenAI News / score: 85 (主要AIの新モデル発表で開発者コミュニティに影響。)</description>
 </item>
@@ -343,6 +335,14 @@
 <description>Anthropicは9月22日、AIモデル「Claude Opus 5.5」を発表した。 — gihyo.jp / score: 85 (AnthropicのClaude Opus 5.5の公式発表)</description>
 </item>
 <item>
+<title>[80] EmbeddingGemma 2: an open, lightweight multimodal embedding model</title>
+<link>https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/</link>
+<guid isPermaLink="true">https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/</guid>
+<pubDate>Tue, 06 Oct 2026 19:57:04 +0000</pubDate>
+<category>Google DeepMind</category>
+<description> — Google DeepMind / score: 80 (Googleの軽量マルチモーダル埋め込みモデル公開)</description>
+</item>
+<item>
 <title>[80] Amazon Linux 2027、SELinuxをデフォルトで強制モードにしてパブリックプレビューを開始</title>
 <link>https://www.infoq.com/jp/news/2026/10/amazon-linux-2027-preview/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
 <guid isPermaLink="true">https://www.infoq.com/jp/news/2026/10/amazon-linux-2027-preview/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
@@ -357,14 +357,6 @@
 <pubDate>Mon, 05 Oct 2026 23:05:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>ウェブやクラウドを支える通信プロトコル「TCP」はAI向けデータセンターの通信には適していないとして、スタンフォード大学のジョン・オースターハウト名誉教授がトランスポートプロトコル「Homa」への移行を訴えています。Homaは短いメッセージを優先的に処理することで通信遅延を抑える仕組みを備えており、既存のTCPと並行して導入できるとのことです。 続きを読む... — GIGAZINE / score: 80 (AI時代の通信遅延を解決する新しいプロトコル提案)</description>
-</item>
-<item>
-<title>[80] Kubernetes 1.37でデフォルトで有効になったStorage Version Migrationについて</title>
-<link>https://qiita.com/yosshi_/items/a10146e8541f8b447cce?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/yosshi_/items/a10146e8541f8b447cce?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Mon, 05 Oct 2026 08:33:12 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>はじめに CRD の古い API バージョン (v1alpha1 など) を .status.storedVersions から外したい、あるいは暗号化キーをローテーションしたいと思っても、etcd に古いスキーマ・古い鍵のまま眠っているオブジェクトがある限り、それはでき... — Qiita 人気記事 / score: 80 (Kubernetesのデフォルト変更に関する重要情報)</description>
 </item>
 <item>
 <title>[80] ドコモ、RCS同意未取得で約1.6万件に影響〜225件で送受信、通信の秘密に抵触</title>
@@ -397,14 +389,6 @@
 <pubDate>Thu, 01 Oct 2026 07:38:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>オープンソースのメールソフト「Thunderbird」の最新版、v157.0が9月29日にリリースされた。本アップデートでは、主に企業向けポリシーの拡充が行われている。 — 窓の杜 / score: 80 (Thunderbirdの多数の脆弱性修正アップデート)</description>
-</item>
-<item>
-<title>[80] Google、新フロンティアモデル「Gemini 4 Argon」を発表 ～まずはサイバー防衛担当者向けに提供／「GPT-6 Astra」や「Claude Fable 5.1」「Claude Opus 5.5」に匹敵・凌駕する性能</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2144700.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2144700.html</guid>
-<pubDate>Thu, 01 Oct 2026 00:47:54 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Googleは9月30日（現地時間、以下同）、新しいフロンティアモデル「Gemini 4 Argon」を発表した。複雑で長期にわたるワークフローで深い推論を持続できるよう設計されており、実世界のソフトウェアエンジニアリング、法務や財務といった企業のナレッジワーク、サイバーセキュリティ防衛を主な得意分野に挙げている。 — 窓の杜 / score: 80 (Googleの新AIモデルGemini 4 Argon発表)</description>
 </item>
 <item>
 <title>[80] Spanner Omni, now GA: A distributed, multi-model database that you can deploy anywhere</title>
@@ -471,6 +455,14 @@
 <description>It’s been an absolutely MONSTER week already, from new Chinese Open Weight Frontier Lab claiming the throne for the first time, to new SOTA LLM and price cuts from Anthropic and OpenAI , to Meta Connect , to TypeSafe AI’s $10B fundraise after our exclusive podcast this weekend (already one of our top of all time, with two pods on genomic language models and AI scientists sending us above heavyweights like TBPN and MKBHD in Apple Podcasts , and helping cross 200K on YouTube ). Today is the calm b — Latent Space / score: 80 (AI業界の最新動向や主要モデルのアップデートまとめ)</description>
 </item>
 <item>
+<title>[75] Anthropic、「Claude for Google Workspace」アドオンをリリース／「Claude」から「Workspace」のファイルを作成・編集できるコネクターもベータ公開</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2146192.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2146192.html</guid>
+<pubDate>Tue, 06 Oct 2026 21:45:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Anthropicは10月6日（現地時間）、「ドキュメント」「スプレッドシート」「スライド」といった「Google Workspace」アプリに「Claude」を追加できる公式アドオン「Claude for Google Workspace」を発表した。「Claude」のすべての有料プラン（Pro、Max、Team、Enterprise）でパブリックベータとして提供される。「Claude」から「Workspace」のファイルを作成・編集するためのコネクターも、併せてベータリリースされた。 — 窓の杜 / score: 75 (ClaudeのGoogle Workspace連携アドオンの登場)</description>
+</item>
+<item>
 <title>[75] Next.js 16.4</title>
 <link>https://nextjs.org/blog/next-16-4</link>
 <guid isPermaLink="true">https://nextjs.org/blog/next-16-4</guid>
@@ -509,6 +501,14 @@
 <pubDate>Tue, 06 Oct 2026 07:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>For modern AI and RAG applications, achieving high search relevance requires that you combine at least two techniques: vector search for semantic context, and full-text search (FTS) for keyword precision. While AlloyDB for PostgreSQL supports both of these capabilities, managing them has traditionally required a more hands-on operational approach to ensure peak performance. The challenge is not executing the searches, but the subsequent fusion of result sets. Merging results from the vector quer — Google Cloud Blog / score: 75 (RAGやAI向けのデータベース新機能解説)</description>
+</item>
+<item>
+<title>[75] Google ドライブとドキュメント、Markdownファイルを直接編集可能に　変換不要で共同編集</title>
+<link>https://k-tai.watch.impress.co.jp/docs/news/2145948.html</link>
+<guid isPermaLink="true">https://k-tai.watch.impress.co.jp/docs/news/2145948.html</guid>
+<pubDate>Tue, 06 Oct 2026 04:39:58 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Google ドライブとドキュメント、Markdownファイルを直接編集可能に 変換不要で共同編集 — はてなブックマーク テクノロジー / score: 75 (GoogleドライブでのMarkdown直接編集対応)</description>
 </item>
 <item>
 <title>[75] OpenAIも生成AIテキストに“透かし”を導入へ ～ただし技術的な制約も多し／EUのAI法に対応、日本では強制されず</title>
@@ -775,6 +775,14 @@
 <description>OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council. — OpenAI News / score: 75 (国連安保理でのAI安全性に関する議論)</description>
 </item>
 <item>
+<title>[70] AIエージェント搭載ガジェットを自作できる「Muse Gadgets」、MetaがオープンソースのESP32マイクロチップファームウェアとLinux SDKを提供しユーザーがRaspberry Pi 5などのハードウェアにMuseを導入可能に</title>
+<link>https://gigazine.net/news/20261007-muse-gadgets/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261007-muse-gadgets/</guid>
+<pubDate>Tue, 06 Oct 2026 22:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>「Muse Gadgets」はESP32ボードやRaspberry Piといった既存のデバイスにMetaが開発したパーソナルAIエージェント「Muse」を導入することにより、オープンソースハードウェアガジェットを自作できるプラットフォームです。SDKを通じてディスプレイ・ボタン・センサー・アクチュエーターなどを接続することで、ユーザー独自の機能を持つデバイスへと進化させることができます。 続きを読む... — GIGAZINE / score: 70 (MetaのオープンソースAIエージェントガジェット基盤)</description>
+</item>
+<item>
 <title>[70] Mistral Large 4</title>
 <link>https://simonwillison.net/2026/Oct/6/hn-49982139/</link>
 <guid isPermaLink="true">https://simonwillison.net/2026/Oct/6/hn-49982139/</guid>
@@ -797,14 +805,6 @@
 <pubDate>Tue, 06 Oct 2026 10:40:00 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>川崎重工業がロボット事業に集中投資する。今後4年間で5500億円を投じ、船舶や航空機などすべての製造現場にフィジカルAI（人工知能）を投入する。主力事業の生産性を高めるとともに外販で稼ぐ「ロボ総合重工」へのトランスフォームを進める。羽田空港を望む同社のロボット開発拠点で6日、中長期経営戦略に関する説明会... — はてなブックマーク テクノロジー / score: 70 (製造業の全事業にフィジカルAIを導入する大規模投資)</description>
-</item>
-<item>
-<title>[70] AWS インフラストラクチャの複雑化に伴い、Terraform AWS Provider は急速な拡張を続ける</title>
-<link>https://www.infoq.com/jp/news/2026/10/terraform-aws-provider-6-62/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-<guid isPermaLink="true">https://www.infoq.com/jp/news/2026/10/terraform-aws-provider-6-62/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-<pubDate>Tue, 06 Oct 2026 09:30:00 +0000</pubDate>
-<category>InfoQ Japan</category>
-<description>Terraform AWS Providerは急速な進化を続けており、v6.62.0では新しいAWS機能への対応が追加されるとともに、 Terraformによる既存インフラの認識および管理能力が改善された。2026年8月にリリースされた最新バージョンでは、Amazon DSQL、ECS、ECR、SES、Pinpointなどのサービス向けに新しいリストデータソースやリソースが導入された。また、Bedrock AgentCore、CloudFront、ElastiCache、Resilience Hub、Secrets Manager に対するさらなる機能強化も行われている。 By Craig Risi Translated by Naoko Koshimura — InfoQ Japan / score: 70 (Terraform AWS Providerの機能拡張)</description>
 </item>
 </channel>
 </rss>
