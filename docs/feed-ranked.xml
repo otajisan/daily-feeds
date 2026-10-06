@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Tue, 06 Oct 2026 06:16:50 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 08:13:27 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] September 2026 Security Release</title>
@@ -95,22 +95,6 @@
 <description>米NVIDIAは9月30日（現地時間）、同社製のGPUディスプレイドライバーおよびvGPUソフトウェアに多数の脆弱性が存在することを明らかにした。対策を施した最新版のドライバーがリリースされている。 — 窓の杜 / score: 90 (NVIDIA製GPUドライバに多数の重大な脆弱性)</description>
 </item>
 <item>
-<title>[90] 「OpenSSL」に14件のセキュリティ欠陥、修正版が公開。「OpenSSL 3.0」はサポート終了／v4.0.3、v3.6.5、v3.5.9、v3.4.8が一般リリース</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2144482.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2144482.html</guid>
-<pubDate>Wed, 30 Sep 2026 08:14:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>SSL/TLSプロトコルを実装したオープンソースライブラリ「OpenSSL」の開発チームは9月29日（日本時間）、「OpenSSL」のセキュリティアップデートを実施した。以下のバージョンが利用可能。 — 窓の杜 / score: 90 (OpenSSLの複数脆弱性と修正版公開)</description>
-</item>
-<item>
-<title>[90] 「Google Chrome 154」で32件の脆弱性修正、「Microsoft Edge」も追随／「Critical」（致命的）と評価された脆弱性は1件</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2144480.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2144480.html</guid>
-<pubDate>Wed, 30 Sep 2026 07:16:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Googleは9月29日（現地時間、以下同）、デスクトップ向け「Google Chrome」の安定（Stable）チャネルをアップデートした。現在、Windows/Mac環境にはv154.0.8037.92/.93、Linux環境にはv154.0.8037.92が展開されている。 — 窓の杜 / score: 90 (Chromeの重大な脆弱性修正)</description>
-</item>
-<item>
 <title>[90] OpenAI、AIとチームで作業する「ChatGPT Space」と、継続的に動作するクラウドエージェント「dots」を発表。GPT-6.1 Solも提供開始</title>
 <link>https://gihyo.jp/article/2026/09/openai-devday-20206-with-gpt-6.1-sol-and-dots?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/09/openai-devday-20206-with-gpt-6.1-sol-and-dots?utm_source=feed</guid>
@@ -151,20 +135,20 @@
 <description>Next.js 16.3.6 and 15.5.26 are planned for a critical out-of-band security update on September 22, 2026. — Next.js Blog / score: 90 (重要度の高いフレームワークのセキュリティ更新)</description>
 </item>
 <item>
-<title>[85] 「チケット流通センター」Androidアプリに脆弱性　最新版にアップデートを</title>
-<link>https://ascii.jp/elem/000/004/440/4440429/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/440/4440429/?rss</guid>
-<pubDate>Tue, 06 Oct 2026 05:45:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>Japan Vulnerability Notes（JVN）は10月6日、チケット売買アプリ「チケット流通センター」（チケ流）のAndroid版に関する脆弱性情報を公開した。 — ASCII.jp / score: 85 (Androidアプリの脆弱性公表と注意喚起)</description>
+<title>[85] 2026年10月のAndroidセキュリティ情報が公開 ～25件の脆弱性を修正、「Critical」は7件／パッチレベルは「2026-10-01」のみ</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2145857.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2145857.html</guid>
+<pubDate>Tue, 06 Oct 2026 07:26:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Googleは10月5日（現地時間）、Android OSのセキュリティ情報（Android Security Bulletin：ASB）を発表した。180件の脆弱性が修正された9月に比べると、修正件数は25件と控えめとなっている。 — 窓の杜 / score: 85 (Androidのセキュリティ脆弱性修正情報)</description>
 </item>
 <item>
 <title>[85] 楽天ドライブ、不正アクセスで1.5万アカウントの保存データ流出</title>
-<link>https://ascii.jp/elem/000/004/439/4439144/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/439/4439144/?rss</guid>
-<pubDate>Tue, 06 Oct 2026 05:40:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>楽天グループのクラウドストレージサービス「楽天ドライブ」は10月6日、使用する一部システムが第三者から不正アクセスを受けたと発表した。 — ASCII.jp / score: 85 (クラウドストレージでの不正アクセスとデータ流出)</description>
+<link>https://ascii.jp/elem/000/004/439/4439144/</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/439/4439144/</guid>
+<pubDate>Tue, 06 Oct 2026 06:21:53 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>楽天グループのクラウドストレージサービス「楽天ドライブ」は10月6日、使用する一部システムが第三者から不正アクセスを受けたと発表した。システムの管理用アカウントの認証情報を不正に取得され、内部へアクセスされたという。 最も影響が大きいのは、楽天ドライブ上に保存されたデータだ。2026年1月29日から9月17日... — はてなブックマーク テクノロジー / score: 85 (大手クラウドの不正アクセスとデータ流出事案)</description>
 </item>
 <item>
 <title>[85] デンマークで住民登録簿に不正アクセス　880万人分の個人番号など流出　政府「極めて深刻」</title>
@@ -173,14 +157,6 @@
 <pubDate>Tue, 06 Oct 2026 04:03:49 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>デンマーク政府の高等教育・科学・デジタル化省は10月5日（現地時間）、同国の中央個人登録簿「CPR」に第三者が不正アクセスし、約880万人分の氏名や住所、個人番号（CPR番号）などが取得されたと発表した。 880万人分はデンマークの人口（約600万人）を上回るが、これはCPRが現在の住民だけでなく、死亡した人や国外に... — はてなブックマーク テクノロジー / score: 85 (国家規模の住民登録システムへの不正アクセス)</description>
-</item>
-<item>
-<title>[85] ミスターマックス、最大173万人分の会員情報流出　不正アクセスで（ITmedia NEWS） - Yahoo!ニュース</title>
-<link>https://news.yahoo.co.jp/articles/4755f8965adeb0a00590df0c31b4957297739ef9</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/articles/4755f8965adeb0a00590df0c31b4957297739ef9</guid>
-<pubDate>Tue, 06 Oct 2026 03:39:05 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>ニュースリリースより（写真：ITmedia NEWS） 関東・中国・九州エリアに62店舗を展開する総合ディスカウントストア「MrMax」運営元は10月6日、「MrMaxアプリ」とオンラインストアのサーバが第三者から不正アクセスを受け、会員の個人情報の一部が流出したと発表した。最大173万5154人分が対象になる可能性があるという... — はてなブックマーク テクノロジー / score: 85 (実被害を伴う大規模な企業の情報流出インシデント)</description>
 </item>
 <item>
 <title>[85] MrMax 最大173万人分の情報流出</title>
@@ -207,28 +183,12 @@
 <description>セキュリティ対策Labが掲載された18件を確認したところ、レギュラー、シルバー、ゴールドの各レコードについて、ランクとポイント数・獲得回数の明確な矛盾は確認できませんでした。 例えば、ゴールドと記録されたサンプルは700ポイント・7回の条件を満たしつつ、プラチナの2,000ポイント・15回の両条件までは満たしてい... — はてなブックマーク テクノロジー / score: 85 (大規模な個人情報流出の主張で緊急性が高い)</description>
 </item>
 <item>
-<title>[85] 不正アクセスによる情報流出に関するお詫びとお知らせ | 総合ディスカウントストア ミスターマックス</title>
-<link>https://www.mrmax.co.jp/info/incident_20261006/</link>
-<guid isPermaLink="true">https://www.mrmax.co.jp/info/incident_20261006/</guid>
-<pubDate>Tue, 06 Oct 2026 03:04:26 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>平素よりミスターマックスをご利用いただき誠にありがとうございます。 このたび、当社が運営するMrMaxアプリおよびオンラインストア（以下「本サービス」）のサーバーが、第三者による不正アクセスを受け、当社の保有する情報の一部が外部に流出したことを確認いたしました。判明した事実ならびに当社の対応について、... — はてなブックマーク テクノロジー / score: 85 (企業による情報流出のお詫びと公式発表)</description>
-</item>
-<item>
 <title>[85] GMOグループ会社に不正アクセス 会員の個人情報94万件余流出か | NHKニュース</title>
 <link>https://news.web.nhk/newsweb/na/nd-20261006de55007</link>
 <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261006de55007</guid>
 <pubDate>Tue, 06 Oct 2026 02:45:48 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>IT企業「GMOインターネットグループ」傘下の「GMOリサーチ＆AI」は、運営しているアンケートサイトに不正アクセスがあり、会員の個人情報94万件余りが流出したと発表しました。 流出したのは氏名や生… — はてなブックマーク テクノロジー / score: 85 (大規模な個人情報流出と不正アクセスの事例)</description>
-</item>
-<item>
-<title>[85] GMO「infoQ」に不正アクセス、最大95万件の会員情報漏えい　ポイント287万円分が不正交換される</title>
-<link>https://www.itmedia.co.jp/news/article/2610/06/2000002021/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/06/2000002021/</guid>
-<pubDate>Tue, 06 Oct 2026 00:32:37 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>GMOリサーチ＆AIは10月5日、同社が運営するアンケートサイト「infoQ」の脆弱性が突かれて不正アクセスされ、会員の個人情報全件に当たる最大94万8498件が外部に持ち出されたと発表した。サービスは停止中だ。 うち611件では、ポイントが本人の意思によらずAmazonギフトコード（合計286万9500円分）に交換されていたとい... — はてなブックマーク テクノロジー / score: 85 (大規模な不正アクセスと個人情報漏えいインシデント)</description>
 </item>
 <item>
 <title>[85] 連日の不正アクセスの件、マジでシャレにならないが、こんなやばいの日本だけ？他の国で問題になってないん？「今世界中で起きてる」</title>
@@ -343,14 +303,6 @@
 <description>Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation. — OpenAI News / score: 85 (AIモデル蒸留キャンペーンへのセキュリティ対策)</description>
 </item>
 <item>
-<title>[85] 「WSL 3.0」がリリース、3カ月のテストを経て「WSL containers」が正式版に／「Docker」なしでLinuxコンテナーを構築・実行、「wslc compose」の開発にも着手</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2144295.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2144295.html</guid>
-<pubDate>Wed, 30 Sep 2026 06:30:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Microsoftは9月29日（現地時間）、「WSL 3.0」をリリースした。6月末からパブリックプレビューされていた「WSL containers」の一般提供が目玉だ。 — 窓の杜 / score: 85 (WSLメジャーリリースとコンテナ機能の正式化)</description>
-</item>
-<item>
 <title>[85] [AINews] OpenAI DevDay 2026: Dots, 6.1 Sol, Ultrafast, Decisions API, Agents API, Spaces, Marketplace, and 1.2 Billion ChatGPT WAU</title>
 <link>https://www.latent.space/p/ainews-openai-devday-2026-dots-61</link>
 <guid isPermaLink="true">https://www.latent.space/p/ainews-openai-devday-2026-dots-61</guid>
@@ -389,14 +341,6 @@
 <pubDate>Mon, 28 Sep 2026 22:07:38 +0000</pubDate>
 <category>Simon Willison</category>
 <description>Claude Sonnet 5.5 New Sonnet model from Anthropic today. They say it "runs 30%+ faster, and costs up to 30% less for most work" - it's priced the same as Sonnet 5 but appears to beat it on every benchmark, and should be cheaper to run as well. Here are some pelicans riding bicycles . Sonnet 5.5 suffered from the same bug as Opus 5.5 : the "max" thinking effort pelican thought for 128,000 tokens (at a cost of $1.28) before running out of tokens and failing to produce an SVG. Here's the pelican it — Simon Willison / score: 85 (主要AIモデルの高速化と価格改定)</description>
-</item>
-<item>
-<title>[85] Cursor、GitHubの新たな代替となるAIエージェントネイティブな開発基盤「Origin」を公開</title>
-<link>https://www.infoq.com/jp/news/2026/09/cursor-origin-alternative-github/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-<guid isPermaLink="true">https://www.infoq.com/jp/news/2026/09/cursor-origin-alternative-github/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-<pubDate>Fri, 25 Sep 2026 07:30:00 +0000</pubDate>
-<category>InfoQ Japan</category>
-<description>AIコーディングエージェントのCursorは、Gitベースのコードホスティングプラットフォーム「Origin」を発表した。OriginはCursorのAI搭載エディタに組み込まれており、すでにCursorを利用しているチーム向けに、GitHubの代替となるサービスとして位置付けられている。 Originは現在、Pro、Teams、Enterpriseプランを対象に早期ベータ版として順次提供されている。また、Cursorアプリケーション内に新設された「Codebase」タブ内に統合されている。 By Matt Saunders Translated by Naoko Koshimura — InfoQ Japan / score: 85 (Cursorによる新しい開発基盤Originの発表)</description>
 </item>
 <item>
 <title>[85] Introducing Gemini 3.8 Live with Live Avatar</title>
@@ -447,22 +391,6 @@
 <description>Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost. — OpenAI News / score: 85 (主要なAIモデルのメジャーリリース)</description>
 </item>
 <item>
-<title>[80] 19万以上のアカウントで不正ログインはなぜ起きたのか【エスカとレンのセキュリティ通信】</title>
-<link>https://ascii.jp/elem/000/004/437/4437506/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/437/4437506/?rss</guid>
-<pubDate>Tue, 06 Oct 2026 05:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>エスカとレンのセキュリティ通信、今回は株式会社パルで発生した19万以上のアカウントで不正ログインを取り上げます。 — ASCII.jp / score: 80 (大規模不正ログイン事案のセキュリティ解説)</description>
-</item>
-<item>
-<title>[80] 関西国際大に不正アクセス、学内システムなど一部利用できず</title>
-<link>https://ascii.jp/elem/000/004/440/4440274/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/440/4440274/?rss</guid>
-<pubDate>Tue, 06 Oct 2026 03:15:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>関西国際大学は9月30日、同大の学内システムが不正アクセスを受けたことを公表。原因や情報漏えいの有無など、詳しい調査を進めている。 — ASCII.jp / score: 80 (大学における不正アクセスとシステム障害)</description>
-</item>
-<item>
 <title>[80] 韓国の金融機関で相次いだ不正アクセスについてまとめてみた - piyolog</title>
 <link>https://piyolog.hatenadiary.jp/entry/2026/10/06/103019</link>
 <guid isPermaLink="true">https://piyolog.hatenadiary.jp/entry/2026/10/06/103019</guid>
@@ -479,20 +407,20 @@
 <description>ウェブやクラウドを支える通信プロトコル「TCP」はAI向けデータセンターの通信には適していないとして、スタンフォード大学のジョン・オースターハウト名誉教授がトランスポートプロトコル「Homa」への移行を訴えています。Homaは短いメッセージを優先的に処理することで通信遅延を抑える仕組みを備えており、既存のTCP... — はてなブックマーク テクノロジー / score: 80 (AI時代の通信遅延を解決する新しいプロトコル提案)</description>
 </item>
 <item>
+<title>[80] Kubernetes 1.37でデフォルトで有効になったStorage Version Migrationについて</title>
+<link>https://qiita.com/yosshi_/items/a10146e8541f8b447cce?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/yosshi_/items/a10146e8541f8b447cce?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Mon, 05 Oct 2026 08:33:12 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>はじめに CRD の古い API バージョン (v1alpha1 など) を .status.storedVersions から外したい、あるいは暗号化キーをローテーションしたいと思っても、etcd に古いスキーマ・古い鍵のまま眠っているオブジェクトがある限り、それはでき... — Qiita 人気記事 / score: 80 (Kubernetesのデフォルト変更に関する重要情報)</description>
+</item>
+<item>
 <title>[80] 大阪公立大 サイバー攻撃受け障害</title>
 <link>https://news.yahoo.co.jp/pickup/6597639?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6597639?source=rss</guid>
 <pubDate>Mon, 05 Oct 2026 08:23:29 +0000</pubDate>
 <category>Yahoo!ニュース IT</category>
 <description> — Yahoo!ニュース IT / score: 80 (大阪公立大学におけるサイバー攻撃の障害発生)</description>
-</item>
-<item>
-<title>[80] 「シークレットスキャン」とは？漏れた API キー、誰が止めてくれるのか？ 業務システム 65 件と GitHub・GitLab を調べてみた</title>
-<link>https://qiita.com/songchong/items/5ee39ef5b71510e36c2a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/songchong/items/5ee39ef5b71510e36c2a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Sun, 04 Oct 2026 19:05:48 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>API キーをうっかり GitHub に公開してしまったら、誰かが気づいて止めてくれるのでしょうか。GitHub には「シークレットスキャン」という仕組みがあります。ただ、その仕組みで自分の使っているシステムの鍵まで守られるのか、自分で何か設定する必要があるのかは、あまり... — Qiita 人気記事 / score: 80 (シークレットスキャンの仕組みと重要性を解説)</description>
 </item>
 <item>
 <title>[80] ドコモ、RCS同意未取得で約1.6万件に影響〜225件で送受信、通信の秘密に抵触</title>
@@ -615,6 +543,14 @@
 <description>米OpenAIは10月5日（現地時間）、欧州連合のAI法（EU AI Act）へ対応するため、AI生成テキストにウォーターマーク（透かし）を導入する方針を発表した。EU AI Actは生成AIの提供者に対して、生成したテキストを機械で識別できるようにすることを求めており、同社もこれに従う考えだが、テキストの透かしや検出の技術にはまだ大きな制約があるともしている。 — 窓の杜 / score: 75 (OpenAIのAI法対応と透かし導入の動向)</description>
 </item>
 <item>
+<title>[75] なぜ急に不正アクセスが増えたの？という疑問、「AIで既知の脆弱性を見つけて攻撃する作業が大量自動化された」説が一番しっくりくる？「AIツールの組み合わせが怖い」</title>
+<link>https://togetter.com/li/2754716</link>
+<guid isPermaLink="true">https://togetter.com/li/2754716</guid>
+<pubDate>Tue, 06 Oct 2026 03:00:42 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>モノアイ @mono_i_love なぜ急に不正アクセスが増えたの？という疑問への答えは、 「AIで既知の脆弱性を見つけて攻撃する作業が大量自動化された」説が一番しっくりくる。 弱いサーバーやVPN機器をネット中から探し、既知の脆弱性を素早く攻撃に使う。 9月はそこに各社の公表が重なり、不正アクセス急増として表面化した... — はてなブックマーク テクノロジー / score: 75 (AIを活用した脆弱性攻撃の自動化に関する考察)</description>
+</item>
+<item>
 <title>[75] Claudeを日記として使用した女性がAnthropicに内容を通報されて逮捕される</title>
 <link>https://gigazine.net/news/20261006-woman-arrested-claude-diary/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261006-woman-arrested-claude-diary/</guid>
@@ -677,14 +613,6 @@
 <pubDate>Mon, 05 Oct 2026 06:52:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>AIによる画像・動画制作ソフトを開発するArtCraftが、Adobe Creative Cloudのクリエイティブツール群をオープンソースソフト「Crafting Apps」として作り直そうとするプロジェクトを進めています。Crafting AppsはPhotoshopやIllustratorなどのAdobeスイートと同じ操作体系でありながら、各アプリがRustで一から開発されているのが特徴。ArtCraftはサブスクリプションやクラウドへの常時接続を必要としないクリエイティブ環境を目指しています。 続きを読む... — GIGAZINE / score: 75 (Adobe代替OSSのRust実装プロジェクト)</description>
-</item>
-<item>
-<title>[75] 【速報】Gemini 4 Argon 登場！公式データで見る“長時間働くAI”の現在地</title>
-<link>https://qiita.com/tomokoro/items/69f8d2f1a3504927b6c7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/tomokoro/items/69f8d2f1a3504927b6c7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Mon, 05 Oct 2026 01:03:34 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>1. はじめに みなさんこんにちは！ 2026年10月1日（日本時間）、Google DeepMindより新世代のフロンティアAIモデル「Gemini 4 Argon」（以下、Argon）が正式に発表されました。 出典：[Google Japan Blog「Gemini... — Qiita 人気記事 / score: 75 (新型フロンティアAIモデルのリリース)</description>
 </item>
 <item>
 <title>[75] 9月プレビュー更新で「AC-3」（Dolby Digital）に問題、「Windows 11 26H2」にも影響／OS内蔵の音声デコード機能を利用するアプリで、起動不能などの不具合</title>
@@ -805,6 +733,78 @@
 <pubDate>Wed, 30 Sep 2026 14:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>Written by: Robin Grunewald, Supriya Mazumdar, Kelli Vanderlee Introduction Google Threat Intelligence Group (GTIG) examines vulnerability disclosure and exploitation statistics to evaluate the impact of artificial intelligence (AI) on the vulnerability threat landscape. We found that AI is measurably changing not just the pace of vulnerability discovery and exploitation, but also the types and typical risk profiles of vulnerabilities that are being discovered. Key findings: Vulnerability disclo — Google Cloud Blog / score: 75 (AI時代の脅威インテリジェンス動向)</description>
+</item>
+<item>
+<title>[75] OpenAI GPT-6.1 Sol is now generally available on Amazon Bedrock</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-1-sol-on-amazon-bedrock/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-1-sol-on-amazon-bedrock/</guid>
+<pubDate>Tue, 29 Sep 2026 20:17:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Today, AWS announces the general availability of GPT-6.1 Sol from OpenAI on Amazon Bedrock. An upgrade to GPT-6 Sol, GPT-6.1 Sol delivers exceptionally strong performance on agentic coding, computer use, and professional work. According to OpenAI, it approaches GPT-6 Astra across demanding evaluations at roughly one-fifth of the cost, giving developers more room to build and run capable agents at scale. The Amazon Bedrock inference engine delivers the performance, security, and reliability requi — AWS What's New / score: 75 (OpenAIの最新モデルがAmazon Bedrockで利用可能になり影響が大きい)</description>
+</item>
+<item>
+<title>[75] Google Cloud、AIエージェントからの大量アクセスをPostgreSQLのプライマリDBから切り離せる「PostgreSQL for agents in AlloyDB」発表</title>
+<link>https://www.publickey1.jp/blog/26/google_cloudaipostgresqldbpostgresql_for_agents_in_alloydb.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/google_cloudaipostgresqldbpostgresql_for_agents_in_alloydb.html</guid>
+<pubDate>Tue, 29 Sep 2026 15:46:18 +0000</pubDate>
+<category>Publickey</category>
+<description>Google Cloudは、本番環境で動作しているPostgreSQLの処理に影響を与えないよう、AIエージェントからの読み取りワークロード用にサンドボックス化されたPostgreSQLのデータベースインスタンスを数秒でプロビジョニングする... — Publickey / score: 75 (AIエージェント向けAlloyDBの新機能発表)</description>
+</item>
+<item>
+<title>[75] Cloudflare、全APIに対応しTypeScriptで設定可能な新コマンドラインツール「cf」をリリース</title>
+<link>https://gihyo.jp/article/2026/09/cloudflare-cf-cli?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/09/cloudflare-cf-cli?utm_source=feed</guid>
+<pubDate>Tue, 29 Sep 2026 05:33:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Cloudflareは2026年9月28日、コマンドラインからCloudflare API全体を操作でき、TypeScriptで設定を記述できる新たなCLIツール「cf」をオープンベータ版としてリリースした。 — gihyo.jp / score: 75 (Cloudflareの新CLIツール「cf」のベータ版リリース)</description>
+</item>
+<item>
+<title>[75] Introducing dots</title>
+<link>https://openai.com/index/introducing-dots</link>
+<guid isPermaLink="true">https://openai.com/index/introducing-dots</guid>
+<pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward. — OpenAI News / score: 75 (新しいAIエージェント機能の発表で注目度が高い。)</description>
+</item>
+<item>
+<title>[75] How we will do better for Australia</title>
+<link>https://openai.com/index/how-we-will-do-better-for-australia</link>
+<guid isPermaLink="true">https://openai.com/index/how-we-will-do-better-for-australia</guid>
+<pubDate>Mon, 28 Sep 2026 19:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences. — OpenAI News / score: 75 (OpenAIの豪州でのサイバー防衛支援と謝罪。)</description>
+</item>
+<item>
+<title>[75] Grok 4.7 is now available on Amazon Bedrock</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-grok-4-7/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-grok-4-7/</guid>
+<pubDate>Mon, 28 Sep 2026 18:29:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon Bedrock now supports SpaceXAI Grok 4.7, a frontier model built for coding, agentic tasks, and knowledge work, with US Geo and Global cross-Region inference. Grok 4.7 builds on Grok 4.6 with better mixed-document handling, more dependable repo-scale coding with planning and error recovery, and enhanced browser-use agents for form fills and portal navigation. Get started with Grok 4.7 in the Amazon Bedrock console or programmatically through supported Amazon Bedrock APIs. For information ab — AWS What's New / score: 75 (Bedrockへの新AIモデル追加)</description>
+</item>
+<item>
+<title>[75] AWS、AIエージェントを自作できるツール「Strandsハーネス」をオープンソースで公開。特定のLLMに依存せず入れ替え可能、任意のコンテナ環境にデプロイ</title>
+<link>https://www.publickey1.jp/blog/26/awsaistrandsllm.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/awsaistrandsllm.html</guid>
+<pubDate>Mon, 28 Sep 2026 15:01:25 +0000</pubDate>
+<category>Publickey</category>
+<description>Amazon Web Services（AWS）は、GPTやClaude、Gemini、Ollamaなど主要なLLMやLLMランタイムを基にした高性能なAIエージェントを簡単に自作できるツール「Strandsハーネス」をオープンソースで公開... — Publickey / score: 75 (主要なLLM対応AIエージェントOSS公開のため)</description>
+</item>
+<item>
+<title>[75] Claude Sonnet 5.5 now available on AWS</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/claude-sonnet-5-5-aws/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/claude-sonnet-5-5-aws/</guid>
+<pubDate>Mon, 28 Sep 2026 15:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS now offers Claude Sonnet 5.5, a smarter and more efficient Sonnet that delivers a clear leap forward on coding and knowledge work with at a lower cost per task for most work at faster speed. Claude Sonnet 5.5 is a smarter, more efficient Sonnet and a step up from Sonnet 5, making it a natural upgrade for teams already building on Sonnet. It's stronger for coding, completing well-scoped tasks as part of a larger coding strategy such as building and fixing features with Claude in the same sess — AWS What's New / score: 75 (AWSでの有力な新AIモデルClaude Sonnet 5.5提供開始)</description>
+</item>
+<item>
+<title>[75] Claude Code、/usageによる推定費用の確認とエフォートの使い分けを解説 ——Opus 5.5の料金とキャッシュの利用</title>
+<link>https://gihyo.jp/article/2026/09/claude-code-usage-and-effort?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/09/claude-code-usage-and-effort?utm_source=feed</guid>
+<pubDate>Sat, 26 Sep 2026 09:18:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Anthropicは2026年9月25日、開発者向けブログで、Claude Opus 5.5を使った作業の費用と、推論などにかける計算量を調整するエフォート（effort）の使い分けを解説した。 — gihyo.jp / score: 75 (開発者向けAIツールの費用と機能の解説)</description>
 </item>
 </channel>
 </rss>
