@@ -4,13 +4,53 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Tue, 06 Oct 2026 14:10:31 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 16:11:33 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>All the numbers: Amazon Prime Day 2026 powered by AWS</title>
+<link>https://aws.amazon.com/blogs/aws/all-the-numbers-amazon-prime-day-2026-powered-by-aws/</link>
+<guid isPermaLink="true">https://aws.amazon.com/blogs/aws/all-the-numbers-amazon-prime-day-2026-powered-by-aws/</guid>
+<pubDate>Tue, 06 Oct 2026 16:09:36 +0000</pubDate>
+<category>AWS News Blog</category>
+<description>Amazon Prime Day 2026 was exclusively for Prime members and ran June 23–26, 2026 with millions of deals across more than 35 categories. As part of our annual tradition of sharing how AWS powered Prime Day (2016, 2017, 2019, 2020, 2021, 2022, 2023, 2024, and 2025), I want to share the services and chart-topping metrics […] — AWS News Blog / score: 45 (大規模セールを支えたAWSの事例紹介)</description>
+</item>
+<item>
+<title>AlloyDB: A unified database engine for hybrid search</title>
+<link>https://cloud.google.com/blog/products/databases/simplify-ai-search-with-alloydb-hybrid-search-and-rrf/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/databases/simplify-ai-search-with-alloydb-hybrid-search-and-rrf/</guid>
+<pubDate>Tue, 06 Oct 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>For modern AI and RAG applications, achieving high search relevance requires that you combine at least two techniques: vector search for semantic context, and full-text search (FTS) for keyword precision. While AlloyDB for PostgreSQL supports both of these capabilities, managing them has traditionally required a more hands-on operational approach to ensure peak performance. The challenge is not executing the searches, but the subsequent fusion of result sets. Merging results from the vector quer — Google Cloud Blog / score: 75 (RAGやAI向けのデータベース新機能解説)</description>
+</item>
+<item>
+<title>Managed Apache Iceberg at scale: How Spanner powers Lakehouse runtime catalog</title>
+<link>https://cloud.google.com/blog/products/data-analytics/lakehouse-runtime-catalog-powered-by-spanner/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/data-analytics/lakehouse-runtime-catalog-powered-by-spanner/</guid>
+<pubDate>Tue, 06 Oct 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>As customers modernize to lakehouse architectures, they are standardizing on open formats such as Apache Iceberg to create a shared data estate across compatible engines. This enables you to build AI-native lakehouses that turn data to semantic knowledge, enable proactive action, and operate at an agentic scale. One of the key components of a lakehouse is the catalog, and in the Apache Iceberg environment, that usually means the Iceberg REST Catalog. An Apache Iceberg catalog is responsible for  — Google Cloud Blog / score: 70 (データレイクハウス関連の技術解説とアップデート)</description>
+</item>
+<item>
+<title>おカメラ好きあこがれのthinkTANKphotoが新型ショルダー「フォーカスポイント・クロスボディ」発表</title>
+<link>https://ascii.jp/elem/000/004/440/4440553/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/440/4440553/?rss</guid>
+<pubDate>Tue, 06 Oct 2026 16:00:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>銀一はシンクタンクフォトの新作カメラバッグを発表。バックパック「ダークライト 20L」の限定モデルも発売となります — ASCII.jp / score: 20 (カメラバッグの新製品発表ニュース)</description>
+</item>
+<item>
+<title>iPhone18 ProとiPhone Duoに16GBメモリ搭載計画があった！？</title>
+<link>https://iphone-mania.jp/iphone18-607087/</link>
+<guid isPermaLink="true">https://iphone-mania.jp/iphone18-607087/</guid>
+<pubDate>Tue, 06 Oct 2026 15:57:18 +0000</pubDate>
+<category>iPhone Mania</category>
+<description>iPhone18 ProシリーズとiPhone Duoには当初、メモリ容量を16GBにする計画があったとの噂が、中国SNS「Weibo」に投稿されています。 それが事実だったとすれば、DRAM価格の高騰や供給不足の影響を […] — iPhone Mania / score: 30 (未発表のスマートフォンに関する噂話)</description>
+</item>
 <item>
 <title>マイクロソフト、VS CodeにAIモデルのオーケストレーションで高品質低コストなAIを実現する「HydraFusion」をプレビュー実装</title>
 <link>https://www.publickey1.jp/blog/26/vs_codeaiaihydrafusion.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/vs_codeaiaihydrafusion.html</guid>
-<pubDate>Tue, 06 Oct 2026 14:10:04 +0000</pubDate>
+<pubDate>Tue, 06 Oct 2026 15:47:53 +0000</pubDate>
 <category>Publickey</category>
 <description>マイクロソフトは9月30日付けでリリースされたVisual Studio Code 1.140（以下、VS Code）で、複数のAIベンダから提供されているAIモデルをオーケストレーションすることでより高品質で低コストを実現するという「Hy... — Publickey / score: 65 (VS Codeの新機能とAIオーケストレーションのプレビュー)</description>
 </item>
@@ -18,9 +58,57 @@
 <title>FDE（フォワードデプロイドエンジニアリング）によって開発されたAIエージェントの7割は使われず、FDEの名前で単なるコンサルティングが販売されるようになる危険が高まるとガートナーが予測</title>
 <link>https://www.publickey1.jp/blog/26/fdeai7fde.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/fdeai7fde.html</guid>
-<pubDate>Tue, 06 Oct 2026 14:10:04 +0000</pubDate>
+<pubDate>Tue, 06 Oct 2026 15:43:31 +0000</pubDate>
 <category>Publickey</category>
 <description>米調査会社のガートナーは、ベンダーのFDE（フォワードデプロイドエンジニアあるいはフォワードデプロイドエンジニアリング）によって開発されたAIエージェントの70％が2028年までに企業に使われずに放棄されるだろう（Gartner Predi... — Publickey / score: 55 (AIエージェントの利用実態に関するガートナーの予測)</description>
+</item>
+<item>
+<title>Scrimshaw Jukebox</title>
+<link>https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/</guid>
+<pubDate>Tue, 06 Oct 2026 15:17:39 +0000</pubDate>
+<category>Simon Willison</category>
+<description>Tool: Scrimshaw Jukebox I wanted to see if Claude Opus 5.5 could compose music, so I tried this : I want you to write some computer game music for me. First design simple text based format for the music and build an artifact that can play it out loud - include some example tracks in that artifact I am looking for music of the quality of the original secret of Monkey Island It leaned a lot harder into the Monkey Island theme than I had intended, but the results are surprisingly good. I wonder if  — Simon Willison / score: 45 (AIを用いた音楽生成の個人による実験記事)</description>
+</item>
+<item>
+<title>Googleの新型フィットネストラッカー｢Fitbit Edge｣、製品画像に続いてスペックや価格情報も明らかに</title>
+<link>https://taisy0.com/2026/10/07/228468.html</link>
+<guid isPermaLink="true">https://taisy0.com/2026/10/07/228468.html</guid>
+<pubDate>Tue, 06 Oct 2026 15:11:41 +0000</pubDate>
+<category>気になる、記になる…</category>
+<description>先日、Googleの新型フィットネストラッカー「Fitbit Edge」の製品画像や一部仕様が明らかになりましたが、今度は「Fitbit Edge」の価格情報が明らかになりました。 Dealabsが公開した情報によると、 […] — 気になる、記になる… / score: 25 (コンシュー向けガジェットのリーク情報)</description>
+</item>
+<item>
+<title>ゲーミングPCが最大71,000円オフ！ パソコンショップSEVEN、24時間限定の全10商品</title>
+<link>https://ascii.jp/elem/000/004/440/4440023/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/440/4440023/?rss</guid>
+<pubDate>Tue, 06 Oct 2026 15:00:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>パソコンショップSEVENを運営するセブンアールジャパンが、10月7日限定で最新ゲーミングPCとデスクトップPCを最大71,000円オフで販売する24時間セールを実施する。 — ASCII.jp / score: 15 (ショップのハードウェアセール情報)</description>
+</item>
+<item>
+<title>旭化成子会社 55万人分情報流出か</title>
+<link>https://news.yahoo.co.jp/pickup/6597804?source=rss</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6597804?source=rss</guid>
+<pubDate>Tue, 06 Oct 2026 14:36:26 +0000</pubDate>
+<category>Yahoo!ニュース IT</category>
+<description> — Yahoo!ニュース IT / score: 90 (大規模な情報流出事故のセキュリティニュース)</description>
+</item>
+<item>
+<title>YouTubeショートの「おすすめ」がオリジナルコンテンツ優先に変更、他人のコンテンツを再アップロードするチャンネルは露出減少</title>
+<link>https://gigazine.net/news/20261006-prioritizing-original-content-on-youtube-shorts/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261006-prioritizing-original-content-on-youtube-shorts/</guid>
+<pubDate>Tue, 06 Oct 2026 14:10:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>YouTubeがショート動画のレコメンデーションシステムを更新し、オリジナルコンテンツを優先的に「おすすめ」することを発表しました。 続きを読む... — GIGAZINE / score: 55 (プラットフォームのアルゴリズム変更ニュース)</description>
+</item>
+<item>
+<title>AWS Certificate Manager now supports ACME issuance through AWS PrivateLink</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/AWS-Certificate-Manager-ACME-Privatelink</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/AWS-Certificate-Manager-ACME-Privatelink</guid>
+<pubDate>Tue, 06 Oct 2026 14:01:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS Certificate Manager (ACM) now supports AWS PrivateLink for ACME public certificate issuance, allowing you to request and renew public TLS certificates over a private network path that stays within the AWS network. You can now create a VPC interface endpoint to the ACM ACME service and route issuance traffic from any ACMEv2-compatible client through your VPC. If you're already using ACME with ACM, setup requires no changes to your ACME clients. After you create your managed ACME endpoint in A — AWS What's New / score: 65 (AWSサービスの機能拡張に関する公式発表)</description>
 </item>
 <item>
 <title>太陽光パネル、こんなとこにも取り付けました</title>
@@ -42,9 +130,9 @@
 <title>ビデオ通話で参加者の48％が人間だと誤認したAIモデル「Griffin」が登場、1枚の画像から顔や体の動きを映像で再現</title>
 <link>https://gigazine.net/news/20261006-tavus-griffin/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261006-tavus-griffin/</guid>
-<pubDate>Tue, 06 Oct 2026 13:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>AI企業のTavusが、リアルタイムの映像と音声で人間と対話するAIモデル「Griffin」を発表しました。研究プレビュー版「Griffin-Lite」を使った実験では、1分間のライブビデオ通話に参加した54人のうち26人、約48％が、会話相手のAIを実在する人間だと判断しました。 続きを読む... — GIGAZINE / score: 65 (人間と誤認させるリアルタイム映像音声AIモデルの登場)</description>
+<pubDate>Tue, 06 Oct 2026 13:10:15 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>AI企業のTavusが、リアルタイムの映像と音声で人間と対話するAIモデル「Griffin」を発表しました。研究プレビュー版「Griffin-Lite」を使った実験では、1分間のライブビデオ通話に参加した54人のうち26人、約48％が、会話相手のAIを実在する人間だと判断しました。 Griffin: The First Human Interaction Model | Tavus ... — はてなブックマーク テクノロジー / score: 65 (人間と誤認させるリアルタイム映像音声AIモデルの登場)</description>
 </item>
 <item>
 <title>モダンホラー： あなたのAlexa「ラララ…ラララ…」が止まらなくなってませんか…？</title>
@@ -170,9 +258,9 @@
 <title>AIエージェントが暴走した記録をオンライン上で探し出し手がかりを追うコミュニティが発達しつつある</title>
 <link>https://gigazine.net/news/20261006-ai-swarm-chasing-group/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261006-ai-swarm-chasing-group/</guid>
-<pubDate>Tue, 06 Oct 2026 11:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>試験中のAIが外部の機関に不正アクセスを行うという事例が相次いでいます。こうしたAIは大抵、外部へのアクセスを遮断されている中で、独自のルートを見いだして不正な手段でアクセスを試みます。こうしたAIの痕跡を見つけ出すコミュニティが、いくつか発達しつつあります。 続きを読む... — GIGAZINE / score: 65 (AIエージェントの暴走と追跡コミュニティの話題)</description>
+<pubDate>Tue, 06 Oct 2026 11:12:50 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>試験中のAIが外部の機関に不正アクセスを行うという事例が相次いでいます。こうしたAIは大抵、外部へのアクセスを遮断されている中で、独自のルートを見いだして不正な手段でアクセスを試みます。こうしたAIの痕跡を見つけ出すコミュニティが、いくつか発達しつつあります。 The Sleuths Who Expose When AI Goes Rogue ... — はてなブックマーク テクノロジー / score: 65 (AIエージェントの暴走と追跡コミュニティの話題)</description>
 </item>
 <item>
 <title>デュアルHDMIで作業効率アップ！Ankerの7-in-1 USB-Cハブが20％オフ</title>
@@ -351,14 +439,6 @@
 <description>バーガーキング自慢の直火焼き100％ビーフパティを使用した「ビッグマウス」シリーズに、3タイプのにんにくを使った特製ガーリックソースで仕上げた「ダブルビーフ＆ベーコン ビッグマウスギルティ」と「ビーフ＆ダブルハッシュ ビッグマウスギルティ」が新たに加わったので、食べに行ってきました。 続きを読む... — GIGAZINE / score: 10 (ファストフードの新商品紹介)</description>
 </item>
 <item>
-<title>楽天の会員情報が漏洩している？　広報は「確認されていない」と回答（山口健太） - エキスパート - Yahoo!ニュース</title>
-<link>https://news.yahoo.co.jp/expert/articles/56eb9de1ed332079e5d9bf51afae47953d615993</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/expert/articles/56eb9de1ed332079e5d9bf51afae47953d615993</guid>
-<pubDate>Tue, 06 Oct 2026 09:49:52 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>10月6日、楽天の会員情報「1億100万件」が海外のフォーラムで販売されていると報じられ、話題になっています。 楽天グループ広報では情報漏洩が発生した事実は「確認されていない」と回答。サンプルデータとして公開された会員情報についても、存在を否定しています。 楽天グループ広報は否定きっかけとなった海外のサイ... — はてなブックマーク テクノロジー / score: 80 (大規模サービスの会員情報漏洩疑惑に関する報道)</description>
-</item>
-<item>
 <title>相次ぐ不正アクセス受け、古川デジタル相がコメント　国民に3つのサイバー対策呼び掛け</title>
 <link>https://www.itmedia.co.jp/news/article/2610/06/2000002060/</link>
 <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/06/2000002060/</guid>
@@ -487,6 +567,14 @@
 <description>スターバックス コーヒーは10月9日より、ハロウィン商品として猫耳チョコレートをトッピングした「ブラックベリー ヨーグルト フラペチーノ」を発売します。 — ASCII.jp / score: 10 (技術情報を含まない一般的な飲食店の新商品ニュース)</description>
 </item>
 <item>
+<title>技術ブログはゆるやかに衰退している</title>
+<link>https://zenn.dev/northward/articles/decline-of-tech-blogs</link>
+<guid isPermaLink="true">https://zenn.dev/northward/articles/decline-of-tech-blogs</guid>
+<pubDate>Tue, 06 Oct 2026 09:13:48 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>7月以前と8月のデータを比べて施策の効果を見る Publicationに紐づいた記事とそうでない記事に分け、Like数の偏りの変化や0Likeの記事の割合の変化を見ていきます。 特に、アルゴリズムの導入が完全に完了したあとの8月とそれ以前を比較してデータを見ます。 ジニ係数の推移 0Likeの記事の割合の推移 ジニ係数は0から1の... — はてなブックマーク テクノロジー / score: 35 (ブログ文化の動向に関する考察記事)</description>
+</item>
+<item>
 <title>ヤッホーのセブン限定ビールに新作！ 白ブドウ香る「有頂天エイリアンズ」</title>
 <link>https://ascii.jp/elem/000/004/440/4440423/?rss</link>
 <guid isPermaLink="true">https://ascii.jp/elem/000/004/440/4440423/?rss</guid>
@@ -583,22 +671,6 @@
 <description>ヤマハ「AG03MK2」は、配信ミキサーの定番モデルとして知られる一台です。 — ASCII.jp / score: 40 (配信向けハードウェアの定番機材紹介)</description>
 </item>
 <item>
-<title>Jooto利用企業向け「Backlog移行ツール」をヌーラボが公開 ―― サービス利用無料キャンペーンも</title>
-<link>https://ascii.jp/elem/000/004/440/4440154/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/440/4440154/?rss</guid>
-<pubDate>Tue, 06 Oct 2026 08:50:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>ヌーラボは、タスク・プロジェクト管理ツール「Jooto」から「Backlog」へのデータ移行を支援する専用ツールを提供開始した。 — ASCII.jp / score: 55 (プロジェクト管理ツール間の移行支援ツール公開)</description>
-</item>
-<item>
-<title>AIO（LLMO/GEO）ツール「DolphinX AIO」、GoogleのAI概要（AI Overviews）のブランド推薦・引用を毎日計測する新機能を提供開始</title>
-<link>https://ascii.jp/elem/000/004/440/4440542/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/440/4440542/?rss</guid>
-<pubDate>Tue, 06 Oct 2026 08:46:47 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>AIO（LLMO/GEO）ツール「DolphinX AIO」、GoogleのAI概要（AI Overviews）のブランド推薦・引用を毎日計測する新機能を提供開始 — ASCII.jp / score: 50 (AI検索対策ツールの新機能リリース情報)</description>
-</item>
-<item>
 <title>Microsoft、DirectX開発者向けのC++ライブラリ「DxTimingCaptureLibrary」を公開／ETWログをゲームエンジンやプロファイラーなど自作ツールで扱いやすく</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2146033.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2146033.html</guid>
@@ -613,14 +685,6 @@
 <pubDate>Tue, 06 Oct 2026 08:38:54 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>不正アクセスで企業から大量の個人情報が漏えいする被害が相次いでいます。 セキュリティー会社ではことし7月以降、被害が増加していることから、サイバー攻撃にAIが悪用されている可能性が高いとして、対策を強… — はてなブックマーク テクノロジー / score: 75 (多発する個人情報流出とAI悪用の懸念)</description>
-</item>
-<item>
-<title>Windowsアプリの開発・配布CLIツール「winapp」、「Windows Sandbox」に対応／「Native AOT」アプリの1コマンド実行、「.NET 10」の単一ファイル機能などもサポート</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2145828.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2145828.html</guid>
-<pubDate>Tue, 06 Oct 2026 08:34:50 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Windowsアプリの開発・配布CLIツール「winapp」、「Windows Sandbox」に対応／「Native AOT」アプリの1コマンド実行、「.NET 10」の単一ファイル機能などもサポート — はてなブックマーク テクノロジー / score: 60 (Windowsアプリ開発CLIのSandbox対応等)</description>
 </item>
 <item>
 <title>Amazon Linux 2027、SELinuxをデフォルトで強制モードにしてパブリックプレビューを開始</title>
@@ -655,12 +719,20 @@
 <description> — Yahoo!ニュース IT / score: 60 (国内不正アクセスの増加に関するニュース)</description>
 </item>
 <item>
-<title>好きなキーボードで指紋認証。macOSのTouch IDができる小さなデバイス</title>
+<title>【訂正あり】MacBookは閉じたまま、指紋でロック解除</title>
 <link>https://www.gizmodo.jp/article/2610-immurok-ik-1-touch-id-device/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/2610-immurok-ik-1-touch-id-device/</guid>
 <pubDate>Tue, 06 Oct 2026 08:00:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>お気に入りのキーボードを変えずにMacBookの指紋認証が使える小型デバイス「immurok IK-1」を紹介。閉じたままのロック解除やWindows対応など魅力を解説します。 — ギズモード・ジャパン / score: 40 (macOS用指紋認証デバイスのガジェット紹介。)</description>
+</item>
+<item>
+<title>Windowsアプリの開発・配布CLIツール「winapp」、「Windows Sandbox」に対応／「Native AOT」アプリの1コマンド実行、「.NET 10」の単一ファイル機能などもサポート</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2145828.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2145828.html</guid>
+<pubDate>Tue, 06 Oct 2026 07:48:46 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Microsoftは9月25日（米国時間）、「Windows App Development CLI」（winapp）のv0.7.0の新機能を発表した。「GitHub」でホストされているオープンソースのコマンドラインツール（ライセンスは「MIT」）で、パッケージングや署名、マニフェストの生成など、Windowsアプリの開発・公開に必要なツールを単一のコマンドにまとめたものだ。現在はパブリックプレビューの段階で、「WinGet」や「npm」からインストールできる。 — 窓の杜 / score: 60 (Windowsアプリ開発CLIのSandbox対応等)</description>
 </item>
 <item>
 <title>開発中のmacOSからタッチ操作のコードが発掘されたらしい。つまり？</title>
@@ -711,6 +783,14 @@
 <description> — CodeZine / score: 55 (GitHubのセキュリティアドバイザリーAPI公開)</description>
 </item>
 <item>
+<title>Where mission meets moonshot: Join us at the Google Public Sector Summit 2026</title>
+<link>https://cloud.google.com/blog/topics/public-sector/where-mission-meets-moonshot-join-us-at-the-google-public-sector-summit-2026/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/public-sector/where-mission-meets-moonshot-join-us-at-the-google-public-sector-summit-2026/</guid>
+<pubDate>Tue, 06 Oct 2026 07:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Across the public sector, the question has shifted from “what’s possible?” to “how can we drive mission impact?” We’ll be answering this question at the Google Public Sector Summit on October 20th at the Ronald Reagan Building in Washington, D.C. This year’s summit brings together public sector leaders, creators, and builders to architect what’s next and bridge the gap between ambitious innovation and secure, scaled execution. Together, we’ll explore how public sector organizations are harnessin — Google Cloud Blog / score: 20 (Googleのイベント告知であり広告的要素が強い)</description>
+</item>
+<item>
 <title>HDDはまだ終わらない。東芝、AI向け大容量HDDを増産へ</title>
 <link>https://www.gizmodo.jp/article/2610-toshiba-ai-hdd-expansion/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/2610-toshiba-ai-hdd-expansion/</guid>
@@ -725,86 +805,6 @@
 <pubDate>Tue, 06 Oct 2026 06:44:39 +0000</pubDate>
 <category>Hugging Face Blog</category>
 <description> — Hugging Face Blog / score: 55 (特定方言を学習した新しいLLMの発表)</description>
-</item>
-<item>
-<title>【備忘録】Snowflake SQL Tips集</title>
-<link>https://qiita.com/takeshi_Qiita/items/18f0a35a3b23f31bdabf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/takeshi_Qiita/items/18f0a35a3b23f31bdabf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Tue, 06 Oct 2026 06:40:31 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>はじめに Snowflake上に複数のデータマートの作成をしました。その過程で「これは他の案件でも使える」と感じた関数・構造・パターンを、備忘録として残します。 想定読者: SELECT / JOIN / GROUP BY / CASE は一通り書けるようになった方。... — Qiita 人気記事 / score: 45 (実務で使えるSnowflakeのSQL Tips)</description>
-</item>
-<item>
-<title>GitHub Actionsのキャッシュがあふれるので、不要になった2種類を自動削除する</title>
-<link>https://zenn.dev/yesodco/articles/yesod-github-actions-cache-cleanup</link>
-<guid isPermaLink="true">https://zenn.dev/yesodco/articles/yesod-github-actions-cache-cleanup</guid>
-<pubDate>Tue, 06 Oct 2026 06:35:10 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>こんにちは、株式会社イエソドでバックエンドエンジニアをしているik-fib（@ik11235）です。 はじめに 前回の記事では、毎回タイムアウトしていた脆弱性スキャンのCIを約2分まで縮めた経緯を書きました。その際、保存したキャッシュが容量不足で削除されてしまう問題があったため、保存容量の上限を引き上げて、不要なキャッシュを自動削除するようにしました。今回はその対応を紹介します。 https://zenn.dev/yesodco/articles/yesod-owasp-dependency-check-ci-speedup きっかけは、脆弱性データベースの更新を速くするためにGi... — Zenn トレンド / score: 45 (GitHub Actionsのキャッシュ自動削除の実装例)</description>
-</item>
-<item>
-<title>[AINews] Reflection Beam - 501B-A23B American Open Model</title>
-<link>https://www.latent.space/p/ainews-reflection-beam-501b-a23b</link>
-<guid isPermaLink="true">https://www.latent.space/p/ainews-reflection-beam-501b-a23b</guid>
-<pubDate>Tue, 06 Oct 2026 06:28:43 +0000</pubDate>
-<category>Latent Space</category>
-<description>It’s been over a year since Reflection launched with us with big goals on coding (and hinted about their RL approach ): But they stayed “stealth” longer than Thinking Machines and it was not clear we would ever get a model launch out of them, as the broader open model ecosystem did not slow down one bigt for them. Well, we did : They compare themselves to Inkling, Nemotron, and GLM 5.2, but the SOTA GLM 5.3, Kimi K3, Qwen 3.8 Max, and DeepSeek V4.1 Flash are generally ahead. Still, since this is — Latent Space / score: 55 (オープンソースの新しいLLMモデルの話題)</description>
-</item>
-<item>
-<title>SafariがGoogleのChrome宣伝を記録か〜iOS27.2ベータで判明</title>
-<link>https://iphone-mania.jp/apple-607051/</link>
-<guid isPermaLink="true">https://iphone-mania.jp/apple-607051/</guid>
-<pubDate>Tue, 06 Oct 2026 06:25:36 +0000</pubDate>
-<category>iPhone Mania</category>
-<description>iOS27.2のベータ版で、SafariがGoogle検索ページのChromeの案内を見つけて記録するコードが確認されました。主に記録されるのは、案内の「表示の有無」と「ユーザーの反応」です。 Appleはこの仕組みの目 […] — iPhone Mania / score: 40 (Safariベータ版における挙動の観測)</description>
-</item>
-<item>
-<title>楽天ドライブ、不正アクセスで1.5万アカウントの保存データ流出</title>
-<link>https://ascii.jp/elem/000/004/439/4439144/</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/439/4439144/</guid>
-<pubDate>Tue, 06 Oct 2026 06:21:53 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>楽天グループのクラウドストレージサービス「楽天ドライブ」は10月6日、使用する一部システムが第三者から不正アクセスを受けたと発表した。システムの管理用アカウントの認証情報を不正に取得され、内部へアクセスされたという。 最も影響が大きいのは、楽天ドライブ上に保存されたデータだ。2026年1月29日から9月17日... — はてなブックマーク テクノロジー / score: 85 (大手クラウドの不正アクセスとデータ流出事案)</description>
-</item>
-<item>
-<title>漏洩ラッシュは本当にラッシュなのか 公的統計と公式発表で確かめてみた</title>
-<link>https://zenn.dev/tawachan/articles/japan-data-breach-rush-2026-statistics</link>
-<guid isPermaLink="true">https://zenn.dev/tawachan/articles/japan-data-breach-rush-2026-statistics</guid>
-<pubDate>Tue, 06 Oct 2026 06:19:59 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>9月の終わりごろから、情報漏洩のニュースをやたらとよく見るなと感じていました。タイムズカー、セイコーマート、東京メトロ、OZmallと数日おきに続き、10月に入ると焼肉きんぐです。SNSでも、さすがに多すぎるのではという声や、AIが攻撃に使われているのではという声をよく見かけました。 ただ、「よく見る」と「増え... — はてなブックマーク テクノロジー / score: 65 (情報漏洩の動向に関する分析記事)</description>
-</item>
-<item>
-<title>不正アクセス頻発「自分の情報は自分で守って」　古川デジタル相：時事ドットコム</title>
-<link>https://www.jiji.com/sp/article?k=2026100600559&amp;g=eco</link>
-<guid isPermaLink="true">https://www.jiji.com/sp/article?k=2026100600559&amp;g=eco</guid>
-<pubDate>Tue, 06 Oct 2026 06:05:28 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>不正アクセス頻発「自分の情報は自分で守って」 古川デジタル相 時事通信 政治部2026年10月06日14時02分配信 記者会見する古川俊治デジタル相＝６日、デジタル庁 古川俊治デジタル相は６日の記者会見で、大和証券など民間企業で頻発する不正アクセスによる個人情報の流出事案について「サイバー攻撃は企業や組織だけの... — はてなブックマーク テクノロジー / score: 60 (政府高官によるセキュリティ注意喚起の発言)</description>
-</item>
-<item>
-<title>Suicaの新コード決済「テッペイ」10月20日開始　上限2万円を超える</title>
-<link>https://www.watch.impress.co.jp/docs/news/2146007.html</link>
-<guid isPermaLink="true">https://www.watch.impress.co.jp/docs/news/2146007.html</guid>
-<pubDate>Tue, 06 Oct 2026 06:04:37 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Suicaの新コード決済「テッペイ」10月20日開始 上限2万円を超える — はてなブックマーク テクノロジー / score: 40 (新しい決済サービスの提供開始に関するニュース)</description>
-</item>
-<item>
-<title>エージェントの記憶はどこに置くか —— Skills・AGENTS.md・引き継ぎノートをClaude CodeとIBM Bobで検証した</title>
-<link>https://zenn.dev/enterprise_ai/articles/b8856a49d7f6af</link>
-<guid isPermaLink="true">https://zenn.dev/enterprise_ai/articles/b8856a49d7f6af</guid>
-<pubDate>Tue, 06 Oct 2026 05:59:59 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>この記事のまとめ Claude CodeとIBM Bobで同じリポジトリを動かし、コーディングエージェントの「記憶の置き場所」について3つの検証をしました。 検証 確かめたこと 結果 1. Skills descriptionの書き方で、Skillの呼ばれやすさは変わるか 変わらなかった。手順型のSkillは全試行で呼ばれた 2. 引き継ぎノート ノートで、セッションやツールをまたいで作業を再開できるか できた。ただし「どこまでやるか」は見出し次第で、範囲の欄を設けるとツール間の解釈が揃った（一致 0/10 → 9/10） 3. 古い記憶 AGENTS.md の... — Zenn トレンド / score: 60 (コーディングエージェントの記憶領域に関する検証)</description>
-</item>
-<item>
-<title>AIが生成したニキビ治療薬の処方箋を発行するスタートアップが登場</title>
-<link>https://gigazine.net/news/20261006-nolla-derm-for-acne/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261006-nolla-derm-for-acne/</guid>
-<pubDate>Tue, 06 Oct 2026 05:53:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>医療スタートアップのNolla Healthがアメリカのユタ州で、AIによるニキビの診断から治療薬の初回処方までを行う試験プログラムを開始しました。これまでもAIによる処方の更新を認める試みはありましたが、同社によると、AIが新たな患者に初回の処方を行うことを州当局が認めたのは、アメリカで初めてとのことです。 続きを読む... — GIGAZINE / score: 60 (医療分野におけるAI初診処方の新しい試み)</description>
 </item>
 </channel>
 </rss>
