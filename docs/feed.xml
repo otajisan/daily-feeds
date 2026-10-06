@@ -4,8 +4,48 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Tue, 06 Oct 2026 18:12:34 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 20:10:45 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Next.js 16.4</title>
+<link>https://nextjs.org/blog/next-16-4</link>
+<guid isPermaLink="true">https://nextjs.org/blog/next-16-4</guid>
+<pubDate>Tue, 06 Oct 2026 20:00:00 +0000</pubDate>
+<category>Next.js Blog</category>
+<description>Next.js 16.4 introduces lazy compilation, smaller Turbopack output, React 19.3 features, Cache Components improvements, and new developer tooling. — Next.js Blog / score: 75 (主要Webフレームワークのマイナーリリースと新機能)</description>
+</item>
+<item>
+<title>Using Parseable with Datasette for OpenTelemetry traces</title>
+<link>https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/</guid>
+<pubDate>Tue, 06 Oct 2026 19:07:31 +0000</pubDate>
+<category>Simon Willison</category>
+<description>TIL: Using Parseable with Datasette for OpenTelemetry traces I saw Parseable in a Show HN today - it's a new observability platform with both an open source (AGPL) Rust implementation (a single ~180MB binary), an "Enterprise" version with extra features and a cloud hosted option. Since Datasette 1.0a41 added OpenTelemetry support (thanks, Alex Garcia), I decided to fire up Codex and have it figure out how to run Parseable and feed it traces from Datasette. Here's my (human-written) TIL showing t — Simon Willison / score: 45 (オープンソースのオブザーバビリティツールの活用解説)</description>
+</item>
+<item>
+<title>Announcing MCP Toolbox Java SDK v1.0: Agentic data access for the enterprise</title>
+<link>https://cloud.google.com/blog/topics/developers-practitioners/announcing-mcp-toolbox-java-sdk-v10-agentic-data-access-for-the-enterprise/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/developers-practitioners/announcing-mcp-toolbox-java-sdk-v10-agentic-data-access-for-the-enterprise/</guid>
+<pubDate>Tue, 06 Oct 2026 19:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Co-authors: Stenal Jolly , Strategic Cloud Engineer, Google Anubhav Dhawan , Software Engineer, Google Following the landmark announcement of MCP Toolbox v1.0, we're thrilled to announce that the MCP Toolbox Java SDK has officially reached version 1.0. This release brings first-class, type-safe agent orchestration to one of the world's most widely adopted enterprise ecosystems. Java's mature architecture is purpose-built for rigorous demands, providing the high concurrency, strict transactional  — Google Cloud Blog / score: 60 (エン向けエージェント開発用SDK v1.0のリリース)</description>
+</item>
+<item>
+<title>Mistral Large 4</title>
+<link>https://simonwillison.net/2026/Oct/6/hn-49982139/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Oct/6/hn-49982139/</guid>
+<pubDate>Tue, 06 Oct 2026 18:20:58 +0000</pubDate>
+<category>Simon Willison</category>
+<description>My comment on Mistral Large 4 — Hacker News. wren6991 : The benchmark is saturated. Frontier models are tested with an armadillo in fishnet tights jaywalking on Mars. OK well I couldn't resist this one: llm -m claude-opus-5.5 'Generate an SVG of an armadillo in fishnet tights jaywalking on Mars' llm -m gpt-6.1-sol 'Generate an SVG of an armadillo in fishnet tights jaywalking on Mars' llm -m gemini-3.8-flash 'Generate an SVG of an armadillo in fishnet tights jaywalking on Mars' llm -m mistral/mis — Simon Willison / score: 70 (主要LLMモデルの新しいリリースとベンチマークの話題)</description>
+</item>
+<item>
+<title>AWS Batch now publishes job metrics to Amazon CloudWatch</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/aws-batch-job-cloudwatch-metrics/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/aws-batch-job-cloudwatch-metrics/</guid>
+<pubDate>Tue, 06 Oct 2026 17:30:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS Batch now publishes job metrics to Amazon CloudWatch, providing native observability for batch workloads. AWS Batch emits metrics throughout the job lifecycle, giving you visibility into job queue health, failure rates, and job durations. AWS Batch automatically publishes job state transition and duration metrics to the AWS/Batch namespace in Amazon CloudWatch, with JobQueueName dimension. State transition metrics track how many jobs entered a given state, such as submitted, running, succeed — AWS What's New / score: 55 (AWSサービスの機能追加とモニタリングの改善)</description>
+</item>
 <item>
 <title>新型HomePod mini発表準備？現行モデルの納期が遅延、ヨドバシでは販売休止中</title>
 <link>https://iphone-mania.jp/homepod-607091/</link>
@@ -205,6 +245,14 @@
 <pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>ロサンゼルスのラジオ局で活用されているAIパーソナリティを事例に、アメリカの一部の地域でラジオにおけるAIの活用が加速していることを、ロサンゼルスの地元紙であるLos Angeles Timesが報じています。 続きを読む... — GIGAZINE / score: 40 (ラジオ業界におけるAIパーソナリティ活用の動向)</description>
+</item>
+<item>
+<title>Networking for AI inference model serving - GKE only and for all other backends</title>
+<link>https://cloud.google.com/blog/topics/developers-practitioners/networking-for-ai-inference-model-serving-gke-only-and-for-all-other-backends/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/developers-practitioners/networking-for-ai-inference-model-serving-gke-only-and-for-all-other-backends/</guid>
+<pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Enterprises and individual developers frequently run multiple AI inference models. The right architecture can simplify how the models are called while also providing centralized governance. In this post, we'll look at two reference architectures focused on networking AI inference model serving: one for Google Kubernetes Engine (GKE) and one all other backend types. First, we'll explore the commonalities between the reference architectures that you'll see later. Then we'll explore unique componen — Google Cloud Blog / score: 55 (GKEにおけるAI推論モデルのネットワーク構成解説)</description>
 </item>
 <item>
 <title>Switch2版『空の軌跡 the 2nd』が22％オフ！「文句の付け所がない」フルリメイクの理想形</title>
@@ -421,6 +469,14 @@
 <pubDate>Tue, 06 Oct 2026 10:00:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>ハードディスクドライブ(HDD)は大容量のデータ記録媒体として広く用いられており、近年はSSD価格の高騰によってHDDの需要が高まっています。そんなHDDの故障率にメーカーによる違いがあるのかどうかを調べた結果が報告されています。 続きを読む... — GIGAZINE / score: 50 (HDDの故障率に関するメーカー別調査)</description>
+</item>
+<item>
+<title>Advancing computer use with Ironclad</title>
+<link>https://openai.com/index/advancing-computer-use-with-ironclad</link>
+<guid isPermaLink="true">https://openai.com/index/advancing-computer-use-with-ironclad</guid>
+<pubDate>Tue, 06 Oct 2026 10:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work. — OpenAI News / score: 65 (AIエージェントの契約業務活用事例に関する発表)</description>
 </item>
 <item>
 <title>今夏にモテまくった（!?）水瀬ちかが初参加！「グラドルあおてんじょ～!! vol.14」開催</title>
@@ -679,6 +735,14 @@
 <description>ヤマハ「AG03MK2」は、配信ミキサーの定番モデルとして知られる一台です。 — ASCII.jp / score: 40 (配信向けハードウェアの定番機材紹介)</description>
 </item>
 <item>
+<title>iPhone向けアプリ開発者、2027年4月以降はiPhone Duo対応スクリーンショットの提出が必須に。対応済ビルドの提出は既に受付開始 - AUTOMATON</title>
+<link>https://automaton-media.com/articles/newsjp/20261006-472024/</link>
+<guid isPermaLink="true">https://automaton-media.com/articles/newsjp/20261006-472024/</guid>
+<pubDate>Tue, 06 Oct 2026 08:49:40 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Appleは10月5日、iPhone Duoの発売を10月23日に控え、同デバイス向けの準備に関してアプリ開発者に案内した。この中では、2027年4月以降にApp Storeに提出されるすべてのアプリについて、iPhone Duo対応スクリーンショットの提出が義務付けられることも告知されている。 iPhone Duoは、最新のA20 Proチップを搭載する、A... — はてなブックマーク テクノロジー / score: 50 (iOSアプリ開発者向けの重要なプラットフォーム要件)</description>
+</item>
+<item>
 <title>待ち時間短縮！GPT-6 AstraとGPT-6.1 Solが約50%高速化</title>
 <link>https://pc.watch.impress.co.jp/docs/news/2145903.html</link>
 <guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2145903.html</guid>
@@ -741,70 +805,6 @@
 <pubDate>Tue, 06 Oct 2026 08:00:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>お気に入りのキーボードを変えずにMacBookの指紋認証が使える小型デバイス「immurok IK-1」を紹介。閉じたままのロック解除やWindows対応など魅力を解説します。 — ギズモード・ジャパン / score: 40 (macOS用指紋認証デバイスのガジェット紹介。)</description>
-</item>
-<item>
-<title>Windowsアプリの開発・配布CLIツール「winapp」、「Windows Sandbox」に対応／「Native AOT」アプリの1コマンド実行、「.NET 10」の単一ファイル機能などもサポート</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2145828.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2145828.html</guid>
-<pubDate>Tue, 06 Oct 2026 07:48:46 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Microsoftは9月25日（米国時間）、「Windows App Development CLI」（winapp）のv0.7.0の新機能を発表した。「GitHub」でホストされているオープンソースのコマンドラインツール（ライセンスは「MIT」）で、パッケージングや署名、マニフェストの生成など、Windowsアプリの開発・公開に必要なツールを単一のコマンドにまとめたものだ。現在はパブリックプレビューの段階で、「WinGet」や「npm」からインストールできる。 — 窓の杜 / score: 60 (Windowsアプリ開発CLIのSandbox対応等)</description>
-</item>
-<item>
-<title>廃止トンネルを「データセンター」に--三井不動産ら、2027年末にサービス開始</title>
-<link>https://japan.cnet.com/article/35253282/</link>
-<guid isPermaLink="true">https://japan.cnet.com/article/35253282/</guid>
-<pubDate>Tue, 06 Oct 2026 07:45:00 +0000</pubDate>
-<category>CNET Japan</category>
-<description>神戸のまちづくりで土砂を運んだトンネルが、データセンターに生まれ変わる。三井不動産、熊谷組、ゲットワークスの3社は10月6日、神戸市の既存トンネルを活用した地中型データセンターを開発すると発表した。2027年末に初期開発分のサービスを始める。三井不動産によると、既存トンネルを使って外部顧客向けにサービスを提供する商用データセンターは国内初だという。 — CNET Japan / score: 55 (既存インフラを転用した国内初の地中型DC)</description>
-</item>
-<item>
-<title>Metaの「AIたまごっち」はスマートウォッチへの布石か　「Muse Charm」が示す可能性</title>
-<link>https://japan.cnet.com/article/35253276/</link>
-<guid isPermaLink="true">https://japan.cnet.com/article/35253276/</guid>
-<pubDate>Tue, 06 Oct 2026 07:40:00 +0000</pubDate>
-<category>CNET Japan</category>
-<description>スマートウォッチがAIコンパニオンへと進化していく中、Metaは新たな切り口を開拓しようとしているのかもしれない。 — CNET Japan / score: 45 (MetaのAIスマートウォッチ関連の動向)</description>
-</item>
-<item>
-<title>開発中のmacOSからタッチ操作のコードが発掘されたらしい。つまり？</title>
-<link>https://www.gizmodo.jp/article/2610-macos-touch-code-discovered/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2610-macos-touch-code-discovered/</guid>
-<pubDate>Tue, 06 Oct 2026 07:35:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>開発中のmacOSベータ版からタッチ操作のコードが発掘！OLED版MacBook Proの登場に期待が高まる理由と最新情報を分かりやすく解説します。 — ギズモード・ジャパン / score: 50 (macOSのタッチ操作コード発掘に関するリーク情報。)</description>
-</item>
-<item>
-<title>Dropbox、既存インフラの効率化に注力することでAI向け容量の余力を生み出す方法を説明</title>
-<link>https://www.infoq.com/jp/news/2026/10/dropbox-datacenter/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-<guid isPermaLink="true">https://www.infoq.com/jp/news/2026/10/dropbox-datacenter/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-<pubDate>Tue, 06 Oct 2026 07:30:00 +0000</pubDate>
-<category>InfoQ Japan</category>
-<description>Dropboxは、新たなデータセンター容量の拡張だけに頼るのではなく、約10年にわたるインフラ最適化の取り組みによって、AIの普及に伴う需要増加に対応していると説明した。同社の取り組みは、需要予測、サーバーフリートの稼働率向上、ストレージの高密度化、ハードウェアのライフサイクル管理、さらにはラックレベルでの電力供給の最適化などに及ぶ。これらの施策の多くは、現在のAIブームが到来する以前から進められてきたものだ。 By Matt Foster Translated by Naoko Koshimura — InfoQ Japan / score: 65 (大規模インフラの効率化とAI容量確保の事例)</description>
-</item>
-<item>
-<title>2026年10月のAndroidセキュリティ情報が公開 ～25件の脆弱性を修正、「Critical」は7件／パッチレベルは「2026-10-01」のみ</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2145857.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2145857.html</guid>
-<pubDate>Tue, 06 Oct 2026 07:26:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Googleは10月5日（現地時間）、Android OSのセキュリティ情報（Android Security Bulletin：ASB）を発表した。180件の脆弱性が修正された9月に比べると、修正件数は25件と控えめとなっている。 — 窓の杜 / score: 85 (Androidのセキュリティ脆弱性修正情報)</description>
-</item>
-<item>
-<title>モバイルSuicaのteppay 20日開始</title>
-<link>https://news.yahoo.co.jp/pickup/6597759?source=rss</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6597759?source=rss</guid>
-<pubDate>Tue, 06 Oct 2026 07:23:32 +0000</pubDate>
-<category>Yahoo!ニュース IT</category>
-<description> — Yahoo!ニュース IT / score: 30 (モバイル決済関連のサービス開始告知)</description>
-</item>
-<item>
-<title>［半角/全角］キーなしで日本語・英語を打ち分ける無料日本語入力アプリ「Meltype」が登場／タイプすれば勝手によしなに変換されていく</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2146012.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2146012.html</guid>
-<pubDate>Tue, 06 Oct 2026 07:11:44 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>［半角/全角］キーなしで日本語・英語を打ち分ける無料日本語入力アプリ「Meltype」が登場／タイプすれば勝手によしなに変換されていく — はてなブックマーク テクノロジー / score: 45 (キーなしで言語切り替えできる入力アプリ)</description>
 </item>
 </channel>
 </rss>
