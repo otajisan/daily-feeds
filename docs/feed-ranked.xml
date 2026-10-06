@@ -4,16 +4,8 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Tue, 06 Oct 2026 04:11:53 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 06:16:50 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
-<item>
-<title>[95] @subql/common ソフトウェアサプライチェーン攻撃の概要と対策指針 - GMO Flatt Security Blog</title>
-<link>https://blog.flatt.tech/entry/2026/10/06/021103</link>
-<guid isPermaLink="true">https://blog.flatt.tech/entry/2026/10/06/021103</guid>
-<pubDate>Tue, 06 Oct 2026 00:06:09 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>2026年10月5日、npm パッケージ @subql/common に悪性コードが注入されました。@subql/common は、SubQuery の GitHub リポジトリ subquery/subql で開発されているパッケージです。 注入された悪性コードは、Infostealer と C2 クライアントの機能を併せ持つマルウェアです。postinstall フック経由で実行され、AWS・Gi... — はてなブックマーク テクノロジー / score: 95 (npmパッケージのサプライチェーン攻撃とマルウェア混入)</description>
-</item>
 <item>
 <title>[95] September 2026 Security Release</title>
 <link>https://nextjs.org/blog/september-2026-security-release</link>
@@ -31,28 +23,12 @@
 <description>The September 22, 2026 out-of-band security update for Next.js is now available — Next.js Blog / score: 95 (Next.jsの重大な上流脆弱性に対する緊急セキュリティ修正。)</description>
 </item>
 <item>
-<title>[90] Androidに深刻度”重大”の脆弱性　セキュリティー公開情報（2026年10月分）</title>
-<link>https://ascii.jp/elem/000/004/440/4440196/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/440/4440196/?rss</guid>
-<pubDate>Tue, 06 Oct 2026 03:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>Androidオープンソースプロジェクト（AOSP）は10月5日、Android OSの脆弱性情報を公開した。深刻度「重大」に該当するケースが複数見付かっていることから、提供され次第、アップデートの適用が推奨される。 — ASCII.jp / score: 90 (Android OSに深刻な脆弱性が複数発覚)</description>
-</item>
-<item>
 <title>[90] ランサム集団キリンの中心メンバー、日本で拘束　アサヒにも「攻撃」（朝日新聞） - Yahoo!ニュース</title>
 <link>https://news.yahoo.co.jp/articles/e8c753300f37b0f2ba619bfe706422fe59ed0d6b</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/articles/e8c753300f37b0f2ba619bfe706422fe59ed0d6b</guid>
 <pubDate>Mon, 05 Oct 2026 23:08:08 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>昨年9月末のアサヒグループホールディングスへのサイバー攻撃について、犯行声明を出したハッカー集団「Qilin」のウェブサイトの一部=セキュリティー会社提供（朝日新聞） 世界各国の企業などにサイバー攻撃を繰り返すランサムウェア（身代金ウイルス）集団「Qilin（キリン）」の中心メンバーでロシア国籍の男（28）を... — はてなブックマーク テクノロジー / score: 90 (ランサムウェア集団中心メンバーの拘束という重大事件)</description>
-</item>
-<item>
-<title>[90] 大阪公立大の大規模システム障害、サイバー攻撃が原因か　13万人超の個人情報流出恐れ</title>
-<link>https://www.itmedia.co.jp/news/article/2610/05/2000002018/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/05/2000002018/</guid>
-<pubDate>Mon, 05 Oct 2026 22:55:14 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>大阪公立大は5日、2日に発生した大規模なシステム障害について、身代金要求型コンピューターウイルス「ランサムウェア」による攻撃を受けた可能性が高いと明らかにした。在学生や卒業生ら13万人以上の個人情報が流出した恐れがある。桜木弘之学長は「多くの関係者の方々にご不便とご心配をおかけし、おわび申し上げる」... — はてなブックマーク テクノロジー / score: 90 (大学の大規模ランサムウェア感染と情報流出)</description>
 </item>
 <item>
 <title>[90] 焼肉きんぐ 1078万人分の情報流出</title>
@@ -69,14 +45,6 @@
 <pubDate>Mon, 05 Oct 2026 08:10:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>Linuxカーネルに関する1313件ものCVEがDebianのセキュリティアップデートで一挙に列挙されました。影響には権限昇格やサービス拒否攻撃、情報漏えいが含まれており、Debianは修正版カーネルへの更新を推奨しています。 続きを読む... — GIGAZINE / score: 90 (Linuxカーネルの大規模な脆弱性報告)</description>
-</item>
-<item>
-<title>[90] AIでサイバー攻撃のコスト激減　数行の指示だけで27社に侵入、カード情報60万件超が流出 - 週刊アスキー</title>
-<link>https://weekly.ascii.jp/elem/000/004/439/4439882/</link>
-<guid isPermaLink="true">https://weekly.ascii.jp/elem/000/004/439/4439882/</guid>
-<pubDate>Mon, 05 Oct 2026 08:05:24 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>わずか数行の指示を出すだけで、AIが脆弱性を探し、侵入し、カード情報まで盗み出す──。サイバー攻撃の自動化が実戦段階に迫っている。 セキュリティ企業Gambit Securityの9月22日の報告によると、金銭目的の攻撃者が複数のオープンソースAIエージェントを使い、数百店のオンラインショップを攻撃した。2026年9月10～15... — はてなブックマーク テクノロジー / score: 90 (AIを活用したサイバー攻撃の自動化と重大なリスク)</description>
 </item>
 <item>
 <title>[90] 「Apache OpenOffice」に緊急のコード実行脆弱性「CVE-2026-59265」、パッチは準備中／「LibreOffice」でも同種の問題が報告、OpenOfficeではJava連携の無効化を</title>
@@ -183,6 +151,38 @@
 <description>Next.js 16.3.6 and 15.5.26 are planned for a critical out-of-band security update on September 22, 2026. — Next.js Blog / score: 90 (重要度の高いフレームワークのセキュリティ更新)</description>
 </item>
 <item>
+<title>[85] 「チケット流通センター」Androidアプリに脆弱性　最新版にアップデートを</title>
+<link>https://ascii.jp/elem/000/004/440/4440429/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/440/4440429/?rss</guid>
+<pubDate>Tue, 06 Oct 2026 05:45:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>Japan Vulnerability Notes（JVN）は10月6日、チケット売買アプリ「チケット流通センター」（チケ流）のAndroid版に関する脆弱性情報を公開した。 — ASCII.jp / score: 85 (Androidアプリの脆弱性公表と注意喚起)</description>
+</item>
+<item>
+<title>[85] 楽天ドライブ、不正アクセスで1.5万アカウントの保存データ流出</title>
+<link>https://ascii.jp/elem/000/004/439/4439144/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/439/4439144/?rss</guid>
+<pubDate>Tue, 06 Oct 2026 05:40:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>楽天グループのクラウドストレージサービス「楽天ドライブ」は10月6日、使用する一部システムが第三者から不正アクセスを受けたと発表した。 — ASCII.jp / score: 85 (クラウドストレージでの不正アクセスとデータ流出)</description>
+</item>
+<item>
+<title>[85] デンマークで住民登録簿に不正アクセス　880万人分の個人番号など流出　政府「極めて深刻」</title>
+<link>https://www.itmedia.co.jp/news/article/2610/06/2000002032/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/06/2000002032/</guid>
+<pubDate>Tue, 06 Oct 2026 04:03:49 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>デンマーク政府の高等教育・科学・デジタル化省は10月5日（現地時間）、同国の中央個人登録簿「CPR」に第三者が不正アクセスし、約880万人分の氏名や住所、個人番号（CPR番号）などが取得されたと発表した。 880万人分はデンマークの人口（約600万人）を上回るが、これはCPRが現在の住民だけでなく、死亡した人や国外に... — はてなブックマーク テクノロジー / score: 85 (国家規模の住民登録システムへの不正アクセス)</description>
+</item>
+<item>
+<title>[85] ミスターマックス、最大173万人分の会員情報流出　不正アクセスで（ITmedia NEWS） - Yahoo!ニュース</title>
+<link>https://news.yahoo.co.jp/articles/4755f8965adeb0a00590df0c31b4957297739ef9</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/articles/4755f8965adeb0a00590df0c31b4957297739ef9</guid>
+<pubDate>Tue, 06 Oct 2026 03:39:05 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>ニュースリリースより（写真：ITmedia NEWS） 関東・中国・九州エリアに62店舗を展開する総合ディスカウントストア「MrMax」運営元は10月6日、「MrMaxアプリ」とオンラインストアのサーバが第三者から不正アクセスを受け、会員の個人情報の一部が流出したと発表した。最大173万5154人分が対象になる可能性があるという... — はてなブックマーク テクノロジー / score: 85 (実被害を伴う大規模な企業の情報流出インシデント)</description>
+</item>
+<item>
 <title>[85] MrMax 最大173万人分の情報流出</title>
 <link>https://news.yahoo.co.jp/pickup/6597741?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6597741?source=rss</guid>
@@ -199,12 +199,20 @@
 <description>流出した可能性があるのは、10月3日時点で登録しているMrMaxアプリ会員とオンラインストア会員の情報で、漏えい内容は、会員ID、氏名、メールアドレス、電話番号（会員の登録状況によって異なる）。 住所、生年月日、クレジットカード情報、パスワード、購入履歴は流出していないことを確認した。 10月3日夕、サーバへの... — はてなブックマーク テクノロジー / score: 85 (企業サーバーへの不正アクセスによる大量情報流出)</description>
 </item>
 <item>
-<title>[85] ミスターマックスに不正アクセス、最大173万人分の情報流出</title>
-<link>https://ascii.jp/elem/000/004/440/4440195/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/440/4440195/?rss</guid>
-<pubDate>Tue, 06 Oct 2026 02:50:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>ミスターマックス・ホールディングスは10月6日、MrMaxアプリおよびオンラインストアのサーバーが第三者から不正アクセスを受け、会員の個人情報が流出したと発表した。 — ASCII.jp / score: 85 (企業サーバーへの不正アクセスと情報流出)</description>
+<title>[85] ハッカーが楽天会員1億100万件の個人情報 販売を主張―氏名・住所・ポイント情報のサンプル掲載、漏洩元・真正性は未確認|セキュリティニュースのセキュリティ対策Lab</title>
+<link>https://rocket-boys.co.jp/security-measures-lab/rakuten-101m-data-sale-unverified-20261004/</link>
+<guid isPermaLink="true">https://rocket-boys.co.jp/security-measures-lab/rakuten-101m-data-sale-unverified-20261004/</guid>
+<pubDate>Tue, 06 Oct 2026 03:06:03 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>セキュリティ対策Labが掲載された18件を確認したところ、レギュラー、シルバー、ゴールドの各レコードについて、ランクとポイント数・獲得回数の明確な矛盾は確認できませんでした。 例えば、ゴールドと記録されたサンプルは700ポイント・7回の条件を満たしつつ、プラチナの2,000ポイント・15回の両条件までは満たしてい... — はてなブックマーク テクノロジー / score: 85 (大規模な個人情報流出の主張で緊急性が高い)</description>
+</item>
+<item>
+<title>[85] 不正アクセスによる情報流出に関するお詫びとお知らせ | 総合ディスカウントストア ミスターマックス</title>
+<link>https://www.mrmax.co.jp/info/incident_20261006/</link>
+<guid isPermaLink="true">https://www.mrmax.co.jp/info/incident_20261006/</guid>
+<pubDate>Tue, 06 Oct 2026 03:04:26 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>平素よりミスターマックスをご利用いただき誠にありがとうございます。 このたび、当社が運営するMrMaxアプリおよびオンラインストア（以下「本サービス」）のサーバーが、第三者による不正アクセスを受け、当社の保有する情報の一部が外部に流出したことを確認いたしました。判明した事実ならびに当社の対応について、... — はてなブックマーク テクノロジー / score: 85 (企業による情報流出のお詫びと公式発表)</description>
 </item>
 <item>
 <title>[85] GMOグループ会社に不正アクセス 会員の個人情報94万件余流出か | NHKニュース</title>
@@ -229,14 +237,6 @@
 <pubDate>Mon, 05 Oct 2026 18:31:36 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>企業で相次ぐ“不正アクセス” 狙われる「個人情報」｜FNNプライムオンライン 第三者からの不正アクセスを受けた企業からの情報漏えいが相次いでいます。5日夕方、「焼肉きんぐ」を運営する物語コーポレーションは、公式アプリの会員管理システムが第三者からの不正アクセスを受け、登録され… FNNプライムオンライン — はてなブックマーク テクノロジー / score: 85 (企業を狙う不正アクセスと情報漏えいの深刻な問題)</description>
-</item>
-<item>
-<title>[85] 【速報】「多くの方々にご不便とご心配かけ、深くお詫び」大阪公立大が謝罪　ランサムウェアによるサイバー攻撃か　基盤システム障害で全授業が休講中　対面授業は9日以降再開予定 | TBS NEWS DIG</title>
-<link>https://newsdig.tbs.co.jp/articles/-/2990268</link>
-<guid isPermaLink="true">https://newsdig.tbs.co.jp/articles/-/2990268</guid>
-<pubDate>Mon, 05 Oct 2026 08:15:52 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>【速報】「多くの方々にご不便とご心配かけ、深くお詫び」大阪公立大が謝罪 ランサムウェアによるサイバー攻撃か 基盤システム障害で全授業が休講中 対面授業は9日以降再開予定 — はてなブックマーク テクノロジー / score: 85 (大学へのランサムウェア攻撃による深刻な被害事例)</description>
 </item>
 <item>
 <title>[85] 大和証券 顧客情報11万人分漏洩か</title>
@@ -447,6 +447,14 @@
 <description>Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost. — OpenAI News / score: 85 (主要なAIモデルのメジャーリリース)</description>
 </item>
 <item>
+<title>[80] 19万以上のアカウントで不正ログインはなぜ起きたのか【エスカとレンのセキュリティ通信】</title>
+<link>https://ascii.jp/elem/000/004/437/4437506/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/437/4437506/?rss</guid>
+<pubDate>Tue, 06 Oct 2026 05:00:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>エスカとレンのセキュリティ通信、今回は株式会社パルで発生した19万以上のアカウントで不正ログインを取り上げます。 — ASCII.jp / score: 80 (大規模不正ログイン事案のセキュリティ解説)</description>
+</item>
+<item>
 <title>[80] 関西国際大に不正アクセス、学内システムなど一部利用できず</title>
 <link>https://ascii.jp/elem/000/004/440/4440274/?rss</link>
 <guid isPermaLink="true">https://ascii.jp/elem/000/004/440/4440274/?rss</guid>
@@ -599,6 +607,14 @@
 <description>GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models. — OpenAI News / score: 80 (最新GPTモデルの性能向上とコスト削減)</description>
 </item>
 <item>
+<title>[75] OpenAIも生成AIテキストに“透かし”を導入へ ～ただし技術的な制約も多し／EUのAI法に対応、日本では強制されず</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2145847.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2145847.html</guid>
+<pubDate>Tue, 06 Oct 2026 04:14:11 +0000</pubDate>
+<category>窓の杜</category>
+<description>米OpenAIは10月5日（現地時間）、欧州連合のAI法（EU AI Act）へ対応するため、AI生成テキストにウォーターマーク（透かし）を導入する方針を発表した。EU AI Actは生成AIの提供者に対して、生成したテキストを機械で識別できるようにすることを求めており、同社もこれに従う考えだが、テキストの透かしや検出の技術にはまだ大きな制約があるともしている。 — 窓の杜 / score: 75 (OpenAIのAI法対応と透かし導入の動向)</description>
+</item>
+<item>
 <title>[75] Claudeを日記として使用した女性がAnthropicに内容を通報されて逮捕される</title>
 <link>https://gigazine.net/news/20261006-woman-arrested-claude-diary/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261006-woman-arrested-claude-diary/</guid>
@@ -647,6 +663,14 @@
 <description>Today, we announce the general availability of Amazon Nova 2.5 Sonic, our latest speech-to-speech model for natural, real-time voice agents. This release brings improved reasoning, instruction following, and tool-calling accuracy to real-time voice applications. The model also delivers lower latency, enabling faster, more natural interactions. Nova 2.5 Sonic helps voice agents maintain context, follow multi-step instructions, and use connected tools to complete customer tasks. For example, a cus — AWS What's New / score: 75 (音声AIモデルの新バージョン一般提供)</description>
 </item>
 <item>
+<title>[75] 仮想スレッドにしたら速くなる？ Java のスループットの上限を AWS で測った（後編：キャリアスレッドとイベントループのブロック）</title>
+<link>https://zenn.dev/ryotashi29/articles/java-concurrency-thread-blocking</link>
+<guid isPermaLink="true">https://zenn.dev/ryotashi29/articles/java-concurrency-thread-blocking</guid>
+<pubDate>Mon, 05 Oct 2026 07:39:49 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>前回に続き、Java の 3 つの並行処理モデルを AWS 上で動かした検証の後編です。 今回は、キャリアスレッドやイベントループのような、数の限られたスレッドをブロックしたときに何が起きるかを見ます。 計測に使ったコードと結果は、すべて GitHub のリポジトリ に置いています。 ! 本記事は個人の見解であり、所属する組織の公式な見解ではありません。 はじめに 前編では、スループットの上限を決めているのはスレッドではなく、コネクションプールや DB の中の同時実行数だ、という結果になりました。並行処理モデルを変えても、上限は変わりませんでした。 ただ、仮想スレッドや WebFl... — Zenn トレンド / score: 75 (Java仮想スレッドのパフォーマンス実測検証記事)</description>
+</item>
+<item>
 <title>[75] 無料のAdobe代替アプリ集「ArtCraft Crafting Apps」、オープンソースでPhotoshop・Illustrator・Premiere・Lightroom・Acrobat・After Effects・InDesignの代替を目指す</title>
 <link>https://gigazine.net/news/20261005-artcraft-crafting-apps/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261005-artcraft-crafting-apps/</guid>
@@ -661,14 +685,6 @@
 <pubDate>Mon, 05 Oct 2026 01:03:34 +0000</pubDate>
 <category>Qiita 人気記事</category>
 <description>1. はじめに みなさんこんにちは！ 2026年10月1日（日本時間）、Google DeepMindより新世代のフロンティアAIモデル「Gemini 4 Argon」（以下、Argon）が正式に発表されました。 出典：[Google Japan Blog「Gemini... — Qiita 人気記事 / score: 75 (新型フロンティアAIモデルのリリース)</description>
-</item>
-<item>
-<title>[75] GitHub Copilot、CLIなどでエージェント処理をコードで定義する機能を提供</title>
-<link>https://codezine.jp/article/detail/29903</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/29903</guid>
-<pubDate>Mon, 05 Oct 2026 01:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 75 (GitHub Copilotの新機能とエージェント処理)</description>
 </item>
 <item>
 <title>[75] 9月プレビュー更新で「AC-3」（Dolby Digital）に問題、「Windows 11 26H2」にも影響／OS内蔵の音声デコード機能を利用するアプリで、起動不能などの不具合</title>
@@ -727,6 +743,14 @@
 <description>米Googleは9月24日（現地時間）、「Android Studio」に「Bring Your Own Agent」（BYOA）機能を導入すると発表した。Androidアプリの開発者が好みのコーディングエージェントを「Android Studio」に接続できるようにする。 — 窓の杜 / score: 75 (Android Studioのコーディングエージェント拡張機能)</description>
 </item>
 <item>
+<title>[75] AWSにログインする方法8選</title>
+<link>https://zenn.dev/aws_japan/articles/aws-login-methods</link>
+<guid isPermaLink="true">https://zenn.dev/aws_japan/articles/aws-login-methods</guid>
+<pubDate>Fri, 02 Oct 2026 04:16:06 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>はじめに AWS へのログイン方法は、この数年で選択肢が増えました。マネジメントコンソールに入るだけでも IAM Identity Center、IAM ユーザー、外部 IdP からのフェデレーション、ルートユーザーがあり、ターミナルや SDK から使う方法には aws configure sso、2025 年 11 月に追加された aws login、AWS CloudShell、従来からの長期アクセスキーがあります。Claude Code や Codex のように開発者の端末で動くコーディングエージェントが AWS を直接呼ぶようになったので、端末にどのクレデンシャルを置くかは以... — Zenn トレンド / score: 75 (AWSの安全なログイン方法に関する重要なベストプラクティス)</description>
+</item>
+<item>
 <title>[75] GuardDuty Runtime Monitoring is now included in the AWS Security Hub Threat Analytics plan</title>
 <link>https://aws.amazon.com/about-aws/whats-new/2026/10/aws-security-hub-runtime-monitoring/</link>
 <guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/aws-security-hub-runtime-monitoring/</guid>
@@ -781,30 +805,6 @@
 <pubDate>Wed, 30 Sep 2026 14:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>Written by: Robin Grunewald, Supriya Mazumdar, Kelli Vanderlee Introduction Google Threat Intelligence Group (GTIG) examines vulnerability disclosure and exploitation statistics to evaluate the impact of artificial intelligence (AI) on the vulnerability threat landscape. We found that AI is measurably changing not just the pace of vulnerability discovery and exploitation, but also the types and typical risk profiles of vulnerabilities that are being discovered. Key findings: Vulnerability disclo — Google Cloud Blog / score: 75 (AI時代の脅威インテリジェンス動向)</description>
-</item>
-<item>
-<title>[75] OpenAI GPT-6.1 Sol is now generally available on Amazon Bedrock</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-1-sol-on-amazon-bedrock/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-1-sol-on-amazon-bedrock/</guid>
-<pubDate>Tue, 29 Sep 2026 20:17:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Today, AWS announces the general availability of GPT-6.1 Sol from OpenAI on Amazon Bedrock. An upgrade to GPT-6 Sol, GPT-6.1 Sol delivers exceptionally strong performance on agentic coding, computer use, and professional work. According to OpenAI, it approaches GPT-6 Astra across demanding evaluations at roughly one-fifth of the cost, giving developers more room to build and run capable agents at scale. The Amazon Bedrock inference engine delivers the performance, security, and reliability requi — AWS What's New / score: 75 (OpenAIの最新モデルがAmazon Bedrockで利用可能になり影響が大きい)</description>
-</item>
-<item>
-<title>[75] Google Cloud、AIエージェントからの大量アクセスをPostgreSQLのプライマリDBから切り離せる「PostgreSQL for agents in AlloyDB」発表</title>
-<link>https://www.publickey1.jp/blog/26/google_cloudaipostgresqldbpostgresql_for_agents_in_alloydb.html</link>
-<guid isPermaLink="true">https://www.publickey1.jp/blog/26/google_cloudaipostgresqldbpostgresql_for_agents_in_alloydb.html</guid>
-<pubDate>Tue, 29 Sep 2026 15:46:18 +0000</pubDate>
-<category>Publickey</category>
-<description>Google Cloudは、本番環境で動作しているPostgreSQLの処理に影響を与えないよう、AIエージェントからの読み取りワークロード用にサンドボックス化されたPostgreSQLのデータベースインスタンスを数秒でプロビジョニングする... — Publickey / score: 75 (AIエージェント向けAlloyDBの新機能発表)</description>
-</item>
-<item>
-<title>[75] Cloudflare、全APIに対応しTypeScriptで設定可能な新コマンドラインツール「cf」をリリース</title>
-<link>https://gihyo.jp/article/2026/09/cloudflare-cf-cli?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/09/cloudflare-cf-cli?utm_source=feed</guid>
-<pubDate>Tue, 29 Sep 2026 05:33:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Cloudflareは2026年9月28日、コマンドラインからCloudflare API全体を操作でき、TypeScriptで設定を記述できる新たなCLIツール「cf」をオープンベータ版としてリリースした。 — gihyo.jp / score: 75 (Cloudflareの新CLIツール「cf」のベータ版リリース)</description>
 </item>
 </channel>
 </rss>
