@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 07 Oct 2026 02:22:14 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 04:12:09 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Google Chrome 155」が公開 ～247件もの脆弱性を修正、「Critical」は4件／「Rust」言語で実装された「JPEG XL」のデコーダーを追加、「WebCrypto」に耐量子暗号</title>
@@ -21,6 +21,22 @@
 <pubDate>Wed, 30 Sep 2026 18:00:00 +0000</pubDate>
 <category>Next.js Blog</category>
 <description>The September 2026 security release for Next.js is now available — Next.js Blog / score: 95 (Next.jsの緊急セキュリティリリース)</description>
+</item>
+<item>
+<title>[90] OpenAIが社内AIモデルで722本の未解決問題に関する数学的成果を発表、新たな数学的ブレークスルーへ</title>
+<link>https://gigazine.net/news/20261007-openai-mathematics/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261007-openai-mathematics/</guid>
+<pubDate>Wed, 07 Oct 2026 03:42:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>OpenAIは2026年10月6日、社内の最先端モデルによって得られた「幅広い新しい数学的成果」を発表しました。GitHubのリポジトリには372の系統に分類された722点の論文が含まれているほか、モデルの推論に関する要約版も公開されています。 続きを読む... — GIGAZINE / score: 90 (OpenAI社内モデルによる数学未解決問題の成果発表)</description>
+</item>
+<item>
+<title>[90] OpenAI、社内AIがリーマン予想の関連難問を証明と主張　論文722本をGitHubで公開</title>
+<link>https://www.itmedia.co.jp/news/article/2610/07/2000002071/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/07/2000002071/</guid>
+<pubDate>Wed, 07 Oct 2026 01:43:06 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>米OpenAIは10月6日（現地時間）、社内のフロンティアモデルが生み出した数学の新たな成果をまとめて公開したと発表した。論文の原稿や証明支援系「Lean」で書かれた形式証明などをGitHubのリポジトリで公開している。 GitHubのリポジトリには現時点で722本の原稿が収録されている。OpenAIによると、多くの原稿にはLeanに... — はてなブックマーク テクノロジー / score: 90 (AIによる数学の難問証明という大きなブレークスルー)</description>
 </item>
 <item>
 <title>[90] 「200万人が使うChrome拡張機能」のキケンすぎる本性。ChatGPTとの会話も抜かれてしまう</title>
@@ -71,14 +87,6 @@
 <description>米OpenAIは9月29日（現地時間）、開発者向けイベント「DevDay 2026」を開催した。「GPT-6.1 Sol」以外にも、20以上もの新機能が発表されている。 — 窓の杜 / score: 90 (OpenAI DevDayでの主要新機能発表)</description>
 </item>
 <item>
-<title>[90] 「Python」でセキュリティアップデート、「Critical」評価の脆弱性などを解決【10月2日追記】／v3.14.8、v3.13.16、v3.12.15が公開、遅れてv3.11.17、v3.10.22もリリース</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2144739.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2144739.html</guid>
-<pubDate>Thu, 01 Oct 2026 05:39:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>スクリプト言語「Python」の開発チームは9月30日、「3.14」「3.13」「3.12」系統の最新版をリリースした。いずれもセキュリティ修正を含むアップデートで、できるだけ早い適用が望ましい。 — 窓の杜 / score: 90 (Pythonのクリティカルなセキュリティ脆弱性修正)</description>
-</item>
-<item>
 <title>[90] OpenAI、AIとチームで作業する「ChatGPT Space」と、継続的に動作するクラウドエージェント「dots」を発表。GPT-6.1 Solも提供開始</title>
 <link>https://gihyo.jp/article/2026/09/openai-devday-20206-with-gpt-6.1-sol-and-dots?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/09/openai-devday-20206-with-gpt-6.1-sol-and-dots?utm_source=feed</guid>
@@ -101,6 +109,30 @@
 <pubDate>Wed, 23 Sep 2026 18:00:00 +0000</pubDate>
 <category>Next.js Blog</category>
 <description>Next.js is preparing a scheduled September security release for September 30, 2026. — Next.js Blog / score: 90 (Next.jsのセキュリティリリース予告)</description>
+</item>
+<item>
+<title>[88] GitHub - openai/math</title>
+<link>https://github.com/openai/math</link>
+<guid isPermaLink="true">https://github.com/openai/math</guid>
+<pubDate>Tue, 06 Oct 2026 23:20:57 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>This repository contains mathematical manuscripts and supporting proof artifacts produced by an internal OpenAI model. As part of model development, we evaluate our models on open research problems. We expanded these evaluations after performance on our existing mathematical evaluations saturated... — はてなブックマーク テクノロジー / score: 88 (OpenAIの数学モデル成果とLean形式証明の公開)</description>
+</item>
+<item>
+<title>[85] バイブコーディングで作った公開中のWebアプリ、9割に脆弱性　MSの研究者など調査</title>
+<link>https://www.itmedia.co.jp/news/article/2610/07/2000002055/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/07/2000002055/</guid>
+<pubDate>Wed, 07 Oct 2026 03:23:49 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>2019年にスタートした本連載「Innovative Tech」は、世界中の幅広い分野から最先端の研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏が手掛けている。X：＠shi... — はてなブックマーク テクノロジー / score: 85 (バイブコーディング製アプリの脆弱性に関する調査)</description>
+</item>
+<item>
+<title>[85] 「LibreOffice」で6件の脆弱性修正、「Apache OpenOffice」共通の問題にも先んじて対処／「26.2」系はv26.2.5以降への更新を、「26.8」系は初期版で対処済み</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2146194.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2146194.html</guid>
+<pubDate>Wed, 07 Oct 2026 02:20:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>The Document Foundationは10月5日（中央ヨーロッパ夏時間、以下同）、オープンソースのオフィスソフト「LibreOffice」に複数の脆弱性が見つかったことを公表した。いずれも、細工されたドキュメントを開くことで、ファイルの書き込みや読み取り、情報の送信、さらにはコードの実行が引き起こされる可能性がある。 — 窓の杜 / score: 85 (オフィスソフトの複数の脆弱性修正)</description>
 </item>
 <item>
 <title>[85] 1兆パラメータ超の「Mistral Large 4 Le Chonk」をMistralが発表、中国勢に対抗するオープンウェイトAIモデル</title>
@@ -327,6 +359,14 @@
 <description>OpenAIは9月22日、GPT-6シリーズの新モデル「GPT-6 Sol」と「GPT-6 Luna」を発表した。 — gihyo.jp / score: 85 (OpenAIの新型モデルGPT-6発表)</description>
 </item>
 <item>
+<title>[80] 「Google Chrome 155」安定版リリース、JPEG XLに対応＆耐量子暗号も利用可能に</title>
+<link>https://gigazine.net/news/20261007-google-chrome-155/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261007-google-chrome-155/</guid>
+<pubDate>Wed, 07 Oct 2026 03:10:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>ウェブブラウザ「Google Chrome」の最新安定版であるバージョン155がリリースされました。新たにJPEG XL形式の画像をブラウザ上で表示できるようになったほか、Web Crypto APIに耐量子暗号アルゴリズムが追加され、CSSのリスト表現や余白制御なども強化されています。 続きを読む... — GIGAZINE / score: 80 (Chrome安定版リリース、JPEG XLや耐量子暗号対応)</description>
+</item>
+<item>
 <title>[80] サイバー攻撃で企業・団体の情報漏えい被害最多、今年５００件超・すでに過去２年に並ぶ…ＡＩ使い弱点探索か</title>
 <link>https://www.yomiuri.co.jp/national/20261006-GYT1T00373/</link>
 <guid isPermaLink="true">https://www.yomiuri.co.jp/national/20261006-GYT1T00373/</guid>
@@ -343,28 +383,12 @@
 <description> — Google DeepMind / score: 80 (Googleの軽量マルチモーダル埋め込みモデル公開)</description>
 </item>
 <item>
-<title>[80] 旭化成子会社のサイトにサイバー攻撃　最大55万8000人分の情報流出の可能性（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース</title>
-<link>https://news.yahoo.co.jp/articles/15baa4e370fa7411f13ca1c64b1c21323896b36a</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/articles/15baa4e370fa7411f13ca1c64b1c21323896b36a</guid>
-<pubDate>Tue, 06 Oct 2026 15:15:34 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>旭化成の子会社が提供するウェブサイトがサイバー攻撃を受け、医師など最大でおよそ55万8700件の個人情報が流出した可能性があることがわかりました。 旭化成の医薬品子会社、旭化成セラピューティクスはきょう、委託先の企業が運営する医薬品の情報提供などのウェブサイトのデータベースがサイバー攻撃を受けたと発表し... — はてなブックマーク テクノロジー / score: 80 (医薬品サイトへのサイバー攻撃と大規模な情報流出危機)</description>
-</item>
-<item>
 <title>[80] Amazon Linux 2027、SELinuxをデフォルトで強制モードにしてパブリックプレビューを開始</title>
 <link>https://www.infoq.com/jp/news/2026/10/amazon-linux-2027-preview/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
 <guid isPermaLink="true">https://www.infoq.com/jp/news/2026/10/amazon-linux-2027-preview/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
 <pubDate>Tue, 06 Oct 2026 08:30:00 +0000</pubDate>
 <category>InfoQ Japan</category>
 <description>AWSは、パブリックプレビュー版のAmazon Linux 2027これはAL2023をベースとしており、SELinuxがデフォルトでEnforcingモードに設定されている。このデフォルト設定は、移行を計画しているチームにとって最も追加作業が発生する可能性が高い変更点である。また、今回の発表では、AL2023のサポート終了時期や、AL2027が一般提供（GA: General Availability）に到達する時期については明らかにされていない。 By Steef-Jan Wiggers Translated by Naoko Koshimura — InfoQ Japan / score: 80 (Amazon Linux 2027でSELinux強制へ)</description>
-</item>
-<item>
-<title>[80] TCPに代わる通信プロトコル「Homa」をスタンフォード大学名誉教授が提唱、AI時代は1ミリ秒の遅延でもGPUが待たされる</title>
-<link>https://gigazine.net/news/20261006-homa-protocol-replace-tcp/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261006-homa-protocol-replace-tcp/</guid>
-<pubDate>Mon, 05 Oct 2026 23:05:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>ウェブやクラウドを支える通信プロトコル「TCP」はAI向けデータセンターの通信には適していないとして、スタンフォード大学のジョン・オースターハウト名誉教授がトランスポートプロトコル「Homa」への移行を訴えています。Homaは短いメッセージを優先的に処理することで通信遅延を抑える仕組みを備えており、既存のTCPと並行して導入できるとのことです。 続きを読む... — GIGAZINE / score: 80 (AI時代の通信遅延を解決する新しいプロトコル提案)</description>
 </item>
 <item>
 <title>[80] ドコモ、RCS同意未取得で約1.6万件に影響〜225件で送受信、通信の秘密に抵触</title>
@@ -471,12 +495,20 @@
 <description>シチズン時計は10月6日、問い合わせ受付業務の委託先に不正アクセスがあり、約10万人分の個人情報が漏えいした可能性があると発表した。対象は、同社の腕時計ブランド「シチズン」「ブローバ」「フレデリック・コンスタント」の各Webサイトに設置したフォームで受け付けた問い合わせ情報。自社システムへの不正アクセス... — はてなブックマーク テクノロジー / score: 78 (委託先への不正アクセスによるブランド顧客情報の流出)</description>
 </item>
 <item>
-<title>[78] 日経BP、メールアカウントへの不正アクセスにより個人情報漏えいの疑い。日経新聞社への攻撃が影響</title>
-<link>https://internet.watch.impress.co.jp/docs/news/2146104.html</link>
-<guid isPermaLink="true">https://internet.watch.impress.co.jp/docs/news/2146104.html</guid>
-<pubDate>Tue, 06 Oct 2026 09:04:08 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>日経BP、メールアカウントへの不正アクセスにより個人情報漏えいの疑い。日経新聞社への攻撃が影響 — はてなブックマーク テクノロジー / score: 78 (メディア企業を狙った不正アクセスによる個人情報漏洩)</description>
+<title>[75] Googleが画像生成AI「Nano Banana 2.1」を公開、人物の一貫性や編集機能が向上</title>
+<link>https://gigazine.net/news/20261007-nano-banana-2-1/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261007-nano-banana-2-1/</guid>
+<pubDate>Wed, 07 Oct 2026 03:16:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>Googleが画像生成AI「Nano Banana 2.1」を発表しました。2026年5月に正式リリースされた「Nano Banana 2」のアップデート版で、Gemini 3.6 FlashをベースにしていることでFlashレベルの速度と費用対効果を維持しながら、1K・2K・4Kの解像度でビジュアル品質、テキストレンダリング、マルチターンの整合性、Google検索のグラウンディングを改善しています。 続きを読む... — GIGAZINE / score: 75 (Googleの画像生成AIモデルNano Bananaのアップデート)</description>
+</item>
+<item>
+<title>[75] ClaudeがGoogleドキュメントやGoogleスプレッドシートと接続可能に</title>
+<link>https://gigazine.net/news/20261007-claude-for-google-workspace/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261007-claude-for-google-workspace/</guid>
+<pubDate>Wed, 07 Oct 2026 03:02:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>Anthropicが、Claude向けのアドオン「Claude for Google Workspace」をパブリックベータとしてリリースしました。GoogleドキュメントやGoogleスプレッドシート、GoogleスライドにClaudeを接続して直接ファイルを編集できます。 続きを読む... — GIGAZINE / score: 75 (ClaudeのGoogle Workspace連携アドオンの公開)</description>
 </item>
 <item>
 <title>[75] Google DeepMind、「EmbeddingGemma 2」を発表 ～テキストから動画まで扱えるオープン埋め込みモデル／7億4,000万パラメーターでスマートフォンでもオンデバイス動作</title>
@@ -773,38 +805,6 @@
 <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
 <category>Inside Java</category>
 <description>The following JEP is targeted to JDK 28: 539: Strict Field Initialization in the JVM (Preview) — Inside Java / score: 75 (JDK 28の新機能JEPターゲット発表)</description>
-</item>
-<item>
-<title>[75] Docker、エージェント権限に関するオープン仕様「Docker Sandbox Kit Specification」を公開、CNCFとの提携を発表</title>
-<link>https://gihyo.jp/article/2026/09/docker-sandbox-kit-spec?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/09/docker-sandbox-kit-spec?utm_source=feed</guid>
-<pubDate>Fri, 25 Sep 2026 04:25:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Dockerは2026年9月24日、AIエージェントがサンドボックス内で動作する際のアクセス範囲や権限を定めた共通仕様「Docker Sandbox Kit Specification」をApache 2.0ライセンスのもとオープンソースとして公開した。 — gihyo.jp / score: 75 (DockerのAIサンドボックス仕様策定)</description>
-</item>
-<item>
-<title>[75] Introducing Gemini 3.8 Live with Live Avatar</title>
-<link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar/</link>
-<guid isPermaLink="true">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar/</guid>
-<pubDate>Thu, 24 Sep 2026 15:30:00 +0000</pubDate>
-<category>Gemini (Google Blog)</category>
-<description>Introducing Gemini 3.8 Live with Live Avatar, which brings near real-time visual presence to Gemini’s conversational AI. — Gemini (Google Blog) / score: 75 (Geminiのライブアバター機能搭載モデルの発表)</description>
-</item>
-<item>
-<title>[75] v4.2.0-M1</title>
-<link>https://github.com/spring-projects/spring-boot/releases/tag/v4.2.0-M1</link>
-<guid isPermaLink="true">https://github.com/spring-projects/spring-boot/releases/tag/v4.2.0-M1</guid>
-<pubDate>Thu, 24 Sep 2026 10:47:37 +0000</pubDate>
-<category>Spring Boot リリース</category>
-<description>⭐ New Features Refine Forwarded headers configuration for Jetty servers #51148 Disable Micrometer global registry in tests by default #51142 Use GracefulHandler rather than StatisticsHandler to coordinate graceful shutdown of Jetty #51128 Deprecate RestTemplate support #51118 Update properties for forwarded headers to adapt to Reactor Netty changes #51031 Update properties for forwarded headers to adapt to Spring Framework changes #51030 Remove APIs that were deprecated for removal in 4.2 #50955 — Spring Boot リリース / score: 75 (Spring Boot v4.2.0-M1のマイルストーンリリース)</description>
-</item>
-<item>
-<title>[75] Google、音声生成モデルGemini 3.8 Flash TTSとGemini 3.8 Flash-Lite TTSをリリース ―100以上の言語と方言の音声を表現力豊かに生成</title>
-<link>https://gihyo.jp/article/2026/09/gemini-3-8-tts?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/09/gemini-3-8-tts?utm_source=feed</guid>
-<pubDate>Thu, 24 Sep 2026 05:26:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Googleは2026年9月23日、テキスト読み上げモデル「Gemini 3.8 Flash TTS」と「Gemini 3.8 Flash-Lite TTS」をリリースした。 — gihyo.jp / score: 75 (Googleの新音声生成モデルのリリース)</description>
 </item>
 </channel>
 </rss>
