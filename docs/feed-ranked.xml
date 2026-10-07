@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 07 Oct 2026 14:09:50 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 16:11:23 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Google Chrome 155」が公開 ～247件もの脆弱性を修正、「Critical」は4件／「Rust」言語で実装された「JPEG XL」のデコーダーを追加、「WebCrypto」に耐量子暗号</title>
@@ -21,6 +21,14 @@
 <pubDate>Wed, 30 Sep 2026 18:00:00 +0000</pubDate>
 <category>Next.js Blog</category>
 <description>The September 2026 security release for Next.js is now available — Next.js Blog / score: 95 (Next.jsの緊急セキュリティリリース)</description>
+</item>
+<item>
+<title>[90] IDCFクラウドへのランサム攻撃、495の企業・自治体に影響　一部には「復元難しい」との通達も</title>
+<link>https://www.itmedia.co.jp/news/article/2610/07/2000002107/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/07/2000002107/</guid>
+<pubDate>Wed, 07 Oct 2026 14:11:42 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>ソフトバンク子会社のIDCフロンティアは10月7日、法人向けクラウドサービス「IDCFクラウド」で起きている障害について、第三者によるランサムウェア攻撃が原因だったと明かし、影響範囲は495の企業・自治体に及ぶと発表した。これを受け、同日朝から利用企業によるサービス停止や一部機能の不具合の公表が相次いでいる。... — はてなブックマーク テクノロジー / score: 90 (クラウドへの大規模ランサムウェア攻撃と甚大な被害)</description>
 </item>
 <item>
 <title>[90] IDCFクラウドへの不正アクセス、ランサムウェア攻撃と明らかに　運営会社が回答</title>
@@ -231,14 +239,6 @@
 <description>Introducing Mistral Large 4: Le chonk Mistral are back in the game. Today they're releasing a preview of Mistral Large 4, a 1 trillion parameter, 49 billion active parameter model trained on their own cluster of 3,800 NVIDIA Grace Blackwell GPUs. The preview is available via their API. They promise to release the open weights model at the "end of this month". The model only supports two reasoning levels - "none" and "high" - via the Mistral API. Here are both pelicans - the "high" one looks bett — Simon Willison / score: 85 (Mistralの新しい大規模言語モデルプレビュー公開)</description>
 </item>
 <item>
-<title>[85] 「開発者の指示を無視せよ」「自分は自由になった」…オープンAIの暴走エージェントたちは傍若無人に振る舞っていた | Business Insider Japan</title>
-<link>https://www.businessinsider.jp/article/2610-openai-agent-misalignment-incidents/</link>
-<guid isPermaLink="true">https://www.businessinsider.jp/article/2610-openai-agent-misalignment-incidents/</guid>
-<pubDate>Tue, 06 Oct 2026 07:38:26 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>2. 自分のミスを隠すよう自らに指示していたオープンAIによると、同社がビジネス用途の主力モデルと位置づける「GPT-5.6 Sol」の訓練中にも、モデルが「ミスやミスアライメントといった情報をユーザーから隠す」よう自分に念押しする事例が見つかった。 例えば、ユーザーから財務データを探すよう求められたものの、その... — はてなブックマーク テクノロジー / score: 85 (AIモデルの自律的逸脱や隠蔽行動に関する重要報道)</description>
-</item>
-<item>
 <title>[85] 2026年10月のAndroidセキュリティ情報が公開 ～25件の脆弱性を修正、「Critical」は7件／パッチレベルは「2026-10-01」のみ</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2145857.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2145857.html</guid>
@@ -407,14 +407,6 @@
 <description>Notable Changes [ fe2a6b2be8 ] - crypto : update root certificates to NSS 3.125 (Node.js GitHub Bot) #64746 [ 871167ddfd ] - deps : update corepack to 0.36.0 (Node.js GitHub Bot) #65653 [ b816fc8958 ] - deps : upgrade npm to 10.9.9 (npm team) #64884 [ e306521444 ] - deps : update icu to 78.3 (Node.js GitHub Bot) #62324 [ a9cb31129f ] - deps : update OpenSSL 3.5.8 (Node.js GitHub Bot) #65542 [ 2a3548e51c ] - deps : update Undici to 6.28.1 (mcollina) #65790 [ 3909ff2c4a ] - node-api : support Shar — Node.js リリース / score: 85 (主要ランタイムNode.jsのLTSアップデート)</description>
 </item>
 <item>
-<title>[80] 利用するクラウド事業者への不正アクセスと影響範囲について - MisskeyHQ ステータス</title>
-<link>https://status.misskey.io/incidents/01M4AG0W5DKN2SRXTFXAHR0NY6</link>
-<guid isPermaLink="true">https://status.misskey.io/incidents/01M4AG0W5DKN2SRXTFXAHR0NY6</guid>
-<pubDate>Wed, 07 Oct 2026 09:40:03 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Misskey.ioが利用しているクラウドサービスで不正アクセスが発生しました。 現在、クラウド事業者と連携して影響の有無を調査しています。 現時点でMisskey.ioの情報漏えいやデータへの被害は確認されておらず、サービスは通常通り稼働していますが、影響範囲を考慮し念のため一部サービスを停止しています。 停止中のサ... — はてなブックマーク テクノロジー / score: 80 (人気サービスにおけるクラウド障害の影響調査)</description>
-</item>
-<item>
 <title>[80] HIS 旅券情報627人分が流出の恐れ</title>
 <link>https://news.yahoo.co.jp/pickup/6597900?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6597900?source=rss</guid>
@@ -463,28 +455,12 @@
 <description>AWSは、パブリックプレビュー版のAmazon Linux 2027これはAL2023をベースとしており、SELinuxがデフォルトでEnforcingモードに設定されている。このデフォルト設定は、移行を計画しているチームにとって最も追加作業が発生する可能性が高い変更点である。また、今回の発表では、AL2023のサポート終了時期や、AL2027が一般提供（GA: General Availability）に到達する時期については明らかにされていない。 By Steef-Jan Wiggers Translated by Naoko Koshimura — InfoQ Japan / score: 80 (Amazon Linux 2027でSELinux強制へ)</description>
 </item>
 <item>
-<title>[80] ドコモ、RCS同意未取得で約1.6万件に影響〜225件で送受信、通信の秘密に抵触</title>
-<link>https://iphone-mania.jp/carrier-606964/</link>
-<guid isPermaLink="true">https://iphone-mania.jp/carrier-606964/</guid>
-<pubDate>Sun, 04 Oct 2026 07:06:29 +0000</pubDate>
-<category>iPhone Mania</category>
-<description>NTTドコモは10月4日（日）、店頭でMNP新規契約をした一部のユーザーについて、RCSの重要事項説明やGoogleへの第三者提供に関する同意を取得しないまま、RCSを利用できる状態になっていたと発表しました。影響件数は […] — iPhone Mania / score: 80 (通信の秘密に関わるドコモの法的・規約違反トラブル。)</description>
-</item>
-<item>
 <title>[80] Amazon EKS and Amazon EKS Distro now support Kubernetes version 1.37</title>
 <link>https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-eks-distro-kubernetes-version-1-37</link>
 <guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-eks-distro-kubernetes-version-1-37</guid>
 <pubDate>Fri, 02 Oct 2026 17:30:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Kubernetes version 1.37 introduced several new features and bug fixes, and AWS is excited to announce that you can now use Amazon Elastic Kubernetes Service (EKS) and Amazon EKS Distro to run Kubernetes version 1.37. Starting today, you can create new EKS clusters using version 1.37 and upgrade existing clusters to version 1.37 using the EKS console, the eksctl command line interface, or through an infrastructure-as-code tool. Kubernetes version 1.37 introduces several key improvements, promotin — AWS What's New / score: 80 (Amazon EKSのKubernetes 1.37サポート開始)</description>
-</item>
-<item>
-<title>[80] Spanner Omni, now GA: A distributed, multi-model database that you can deploy anywhere</title>
-<link>https://cloud.google.com/blog/products/databases/spanner-omni-deploy-anywhere-version-of-spanner-is-now-ga/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/products/databases/spanner-omni-deploy-anywhere-version-of-spanner-is-now-ga/</guid>
-<pubDate>Wed, 30 Sep 2026 16:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>Spanner Omni , the deploy-anywhere version of Spanner, is now generally available, ready to power your most demanding production workloads in your on-premises data center or on other clouds. With Spanner, Google pioneered the distributed SQL market over a decade ago, combining the horizontal scalability of NoSQL with the ACID compliance and strong consistency of a traditional relational database. Since then, Spanner has evolved into an interoperable multi-model database that simplifies complex w — Google Cloud Blog / score: 80 (マルチクラウド対応分散DB「Spanner Omni」の一般提供開始)</description>
 </item>
 <item>
 <title>[80] Next.jsアプリをCloudflare WorkersやAWS LambdaなどVercel以外のサーバレス基盤へデプロイできる「Vinext 1.0」リリース</title>
@@ -543,6 +519,14 @@
 <description>It’s been an absolutely MONSTER week already, from new Chinese Open Weight Frontier Lab claiming the throne for the first time, to new SOTA LLM and price cuts from Anthropic and OpenAI , to Meta Connect , to TypeSafe AI’s $10B fundraise after our exclusive podcast this weekend (already one of our top of all time, with two pods on genomic language models and AI scientists sending us above heavyweights like TBPN and MKBHD in Apple Podcasts , and helping cross 200K on YouTube ). Today is the calm b — Latent Space / score: 80 (AI業界の最新動向や主要モデルのアップデートまとめ)</description>
 </item>
 <item>
+<title>[75] AWS、DuckDBをAurora PostgreSQLに統合。ETL不要で直接データレイクを読み取り可能にしたと発表</title>
+<link>https://www.publickey1.jp/blog/26/awsduckdbaurora_postgresqletl.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/awsduckdbaurora_postgresqletl.html</guid>
+<pubDate>Wed, 07 Oct 2026 15:59:06 +0000</pubDate>
+<category>Publickey</category>
+<description>Amazon Web Services（AWS）は、Amazon Aurora PostgreSQLにDuckDBを統合し、Apache Icebergなどで構築したデータレイクのデータを直接読み取って処理できるようになったことを発表しまし... — Publickey / score: 75 (AWSとDuckDBの統合によるデータレイク処理の効率化)</description>
+</item>
+<item>
 <title>[75] 複数の自治体など HP閲覧できず</title>
 <link>https://news.yahoo.co.jp/pickup/6597928?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6597928?source=rss</guid>
@@ -583,28 +567,20 @@
 <description>Googleは2026年10月6日、スマートフォンやPC上で動作する埋め込みモデル「EmbeddingGemma 2」を公開した。 — gihyo.jp / score: 75 (Googleのエッジ向けマルチモーダル埋め込みモデル公開)</description>
 </item>
 <item>
+<title>[75] ClaudeがGoogleドキュメントやGoogleスプレッドシートと接続可能に</title>
+<link>https://gigazine.net/news/20261007-claude-for-google-workspace/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261007-claude-for-google-workspace/</guid>
+<pubDate>Wed, 07 Oct 2026 04:45:53 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Anthropicが、Claude向けのアドオン「Claude for Google Workspace」をパブリックベータとしてリリースしました。GoogleドキュメントやGoogleスプレッドシート、GoogleスライドにClaudeを接続して直接ファイルを編集できます。 Claude - Google Workspace Marketplace https://workspace.google.com/marketplace/app/cla... — はてなブックマーク テクノロジー / score: 75 (ClaudeのGoogle Workspace連携アドオンの公開)</description>
+</item>
+<item>
 <title>[75] Googleが画像生成AI「Nano Banana 2.1」を公開、人物の一貫性や編集機能が向上</title>
 <link>https://gigazine.net/news/20261007-nano-banana-2-1/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261007-nano-banana-2-1/</guid>
 <pubDate>Wed, 07 Oct 2026 03:16:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>Googleが画像生成AI「Nano Banana 2.1」を発表しました。2026年5月に正式リリースされた「Nano Banana 2」のアップデート版で、Gemini 3.6 FlashをベースにしていることでFlashレベルの速度と費用対効果を維持しながら、1K・2K・4Kの解像度でビジュアル品質、テキストレンダリング、マルチターンの整合性、Google検索のグラウンディングを改善しています。 続きを読む... — GIGAZINE / score: 75 (Googleの画像生成AIモデルNano Bananaのアップデート)</description>
-</item>
-<item>
-<title>[75] ClaudeがGoogleドキュメントやGoogleスプレッドシートと接続可能に</title>
-<link>https://gigazine.net/news/20261007-claude-for-google-workspace/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261007-claude-for-google-workspace/</guid>
-<pubDate>Wed, 07 Oct 2026 03:02:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>Anthropicが、Claude向けのアドオン「Claude for Google Workspace」をパブリックベータとしてリリースしました。GoogleドキュメントやGoogleスプレッドシート、GoogleスライドにClaudeを接続して直接ファイルを編集できます。 続きを読む... — GIGAZINE / score: 75 (ClaudeのGoogle Workspace連携アドオンの公開)</description>
-</item>
-<item>
-<title>[75] Building Git infrastructure for agent-scale development</title>
-<link>https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/</link>
-<guid isPermaLink="true">https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/</guid>
-<pubDate>Wed, 07 Oct 2026 02:04:20 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Every day on GitHub, millions of developers build the products their customers rely on, contribute to open source, and pursue personal projects. GitHub’s architecture has changed steadily over the years to support that work and the growing demands of the developers and organizations who depend on... — はてなブックマーク テクノロジー / score: 75 (GitHubのエージェント開発向けインフラ構築の解説)</description>
 </item>
 <item>
 <title>[75] Google DeepMind、「EmbeddingGemma 2」を発表 ～テキストから動画まで扱えるオープン埋め込みモデル／7億4,000万パラメーターでスマートフォンでもオンデバイス動作</title>
@@ -631,14 +607,6 @@
 <description>Next.js 16.4 introduces lazy compilation, smaller Turbopack output, React 19.3 features, Cache Components improvements, and new developer tooling. — Next.js Blog / score: 75 (主要Webフレームワークのマイナーリリースと新機能)</description>
 </item>
 <item>
-<title>[75] 2026年の情報漏洩を手口で分類してみた - Qiita</title>
-<link>https://qiita.com/yama3133/items/071119dfea9ed24d0948</link>
-<guid isPermaLink="true">https://qiita.com/yama3133/items/071119dfea9ed24d0948</guid>
-<pubDate>Tue, 06 Oct 2026 15:28:35 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>はじめに 2026年に入って、国内外で大きな情報漏洩が続いています。特に6月から10月初旬には、タイムズカー(約660万アカウント)、焼肉きんぐ(約1,079万件)、アフラック生命(約440万人)、デンマークの住民登録簿(約880万人)などが公表されました。 この記事では、公表された事案を入口の手口で4つに分け、一次情報(各社・... — はてなブックマーク テクノロジー / score: 75 (多発する情報漏洩事例の手口分類とセキュリティ注意喚起)</description>
-</item>
-<item>
 <title>[75] Sharing AI progress in mathematics</title>
 <link>https://openai.com/index/sharing-ai-progress-in-mathematics</link>
 <guid isPermaLink="true">https://openai.com/index/sharing-ai-progress-in-mathematics</guid>
@@ -653,6 +621,14 @@
 <pubDate>Tue, 06 Oct 2026 07:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>For modern AI and RAG applications, achieving high search relevance requires that you combine at least two techniques: vector search for semantic context, and full-text search (FTS) for keyword precision. While AlloyDB for PostgreSQL supports both of these capabilities, managing them has traditionally required a more hands-on operational approach to ensure peak performance. The challenge is not executing the searches, but the subsequent fusion of result sets. Merging results from the vector quer — Google Cloud Blog / score: 75 (RAGやAI向けのデータベース新機能解説)</description>
+</item>
+<item>
+<title>[75] 2026年の情報漏洩を手口で分類してみた</title>
+<link>https://qiita.com/yama3133/items/071119dfea9ed24d0948?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/yama3133/items/071119dfea9ed24d0948?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Tue, 06 Oct 2026 05:19:43 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>はじめに 2026年に入って、国内外で大きな情報漏洩が続いています。特に6月から10月初旬には、タイムズカー(約660万アカウント)、焼肉きんぐ(約1,079万件)、アフラック生命(約440万人)、デンマークの住民登録簿(約880万人)などが公表されました。 この記事では... — Qiita 人気記事 / score: 75 (多発する情報漏洩事例の手口分類とセキュリティ注意喚起)</description>
 </item>
 <item>
 <title>[75] OpenAIも生成AIテキストに“透かし”を導入へ ～ただし技術的な制約も多し／EUのAI法に対応、日本では強制されず</title>
@@ -805,6 +781,30 @@
 <pubDate>Tue, 29 Sep 2026 05:33:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Cloudflareは2026年9月28日、コマンドラインからCloudflare API全体を操作でき、TypeScriptで設定を記述できる新たなCLIツール「cf」をオープンベータ版としてリリースした。 — gihyo.jp / score: 75 (Cloudflareの新CLIツール「cf」のベータ版リリース)</description>
+</item>
+<item>
+<title>[75] Introducing dots</title>
+<link>https://openai.com/index/introducing-dots</link>
+<guid isPermaLink="true">https://openai.com/index/introducing-dots</guid>
+<pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward. — OpenAI News / score: 75 (新しいAIエージェント機能の発表で注目度が高い。)</description>
+</item>
+<item>
+<title>[75] How we will do better for Australia</title>
+<link>https://openai.com/index/how-we-will-do-better-for-australia</link>
+<guid isPermaLink="true">https://openai.com/index/how-we-will-do-better-for-australia</guid>
+<pubDate>Mon, 28 Sep 2026 19:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences. — OpenAI News / score: 75 (OpenAIの豪州でのサイバー防衛支援と謝罪。)</description>
+</item>
+<item>
+<title>[75] Grok 4.7 is now available on Amazon Bedrock</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-grok-4-7/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-grok-4-7/</guid>
+<pubDate>Mon, 28 Sep 2026 18:29:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon Bedrock now supports SpaceXAI Grok 4.7, a frontier model built for coding, agentic tasks, and knowledge work, with US Geo and Global cross-Region inference. Grok 4.7 builds on Grok 4.6 with better mixed-document handling, more dependable repo-scale coding with planning and error recovery, and enhanced browser-use agents for form fills and portal navigation. Get started with Grok 4.7 in the Amazon Bedrock console or programmatically through supported Amazon Bedrock APIs. For information ab — AWS What's New / score: 75 (Bedrockへの新AIモデル追加)</description>
 </item>
 </channel>
 </rss>
