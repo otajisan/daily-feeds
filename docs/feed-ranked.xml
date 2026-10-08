@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 08 Oct 2026 04:12:24 +0000</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 06:17:41 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Google Chrome 155」が公開 ～247件もの脆弱性を修正、「Critical」は4件／「Rust」言語で実装された「JPEG XL」のデコーダーを追加、「WebCrypto」に耐量子暗号</title>
@@ -23,12 +23,12 @@
 <description>The September 2026 security release for Next.js is now available — Next.js Blog / score: 95 (Next.jsの緊急セキュリティリリース)</description>
 </item>
 <item>
-<title>[90] tensorlake ソフトウェアサプライチェーン攻撃の概要と対策指針 - GMO Flatt Security Blog</title>
-<link>https://blog.flatt.tech/entry/tensorlake_compromise</link>
-<guid isPermaLink="true">https://blog.flatt.tech/entry/tensorlake_compromise</guid>
-<pubDate>Thu, 08 Oct 2026 03:50:36 +0000</pubDate>
+<title>[90] ChatGPT、無料版を含む全ユーザーに「GPT-6」　回答内に“操作できる画面”を生成する「Intelligent UI」搭載</title>
+<link>https://www.itmedia.co.jp/news/article/2610/08/2000002119/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/08/2000002119/</guid>
+<pubDate>Thu, 08 Oct 2026 02:31:32 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>2026年10月8日、npm パッケージ tensorlake に悪性コードが注入されました。 注入された悪性コードは、Infostealer機能を持つマルウェアです。preinstall フック経由で実行され、AWS・GitHub・Kubernetes・Vault などの認証情報を盗み出して送出する挙動が確認されています。また、マルウェアがspawnするバックグラウン... — はてなブックマーク テクノロジー / score: 90 (npmパッケージにおける悪性コード注入のサプライチェーン攻撃)</description>
+<description>米OpenAIは10月7日（現地時間）、「ChatGPT」に新モデル「GPT-6」を搭載し、全ユーザーに向けて順次提供を始めた。テキストに加えて図やボタン、フォーム、グラフなどを組み合わせた対話型の画面（UI）を回答として生成する新機能「Intelligent UI」も導入した。同社は9月に有料ユーザー向けにGPT-6系のモデルを投入して... — はてなブックマーク テクノロジー / score: 90 (ChatGPTの新モデルGPT-6とインタラクティブUI発表)</description>
 </item>
 <item>
 <title>[90] 直近で相次いでいる国内組織における不正アクセスに関する注意喚起</title>
@@ -103,14 +103,6 @@
 <description>米Googleは10月1日（現地時間、以下同）、デスクトップ向け「Google Chrome」の安定（Stable）チャネルをアップデートした。現在、Windows/Mac環境にはv154.0.8037.97/.98、Linux環境にはv154.0.8037.97が展開されている。 — 窓の杜 / score: 90 (Critical級を含むChromeの緊急セキュリティアップデート)</description>
 </item>
 <item>
-<title>[90] 「VLC 3.0.24」に多数の脆弱性修正、本体だけで50件超、macOSでは任意コード実行も実証／開発元の仏VideoLAN Projectが明らかに</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2145035.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2145035.html</guid>
-<pubDate>Fri, 02 Oct 2026 04:10:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>先日リリースされた「VLC media player 3.0.24」では、130件を超える脆弱性が修正されているとのこと。開発元の仏VideoLAN Projectが、その内容を明らかにした。 — 窓の杜 / score: 90 (VLCメディアプレイヤーの大規模な脆弱性修正と任意コード実行)</description>
-</item>
-<item>
 <title>[90] OpenAI、AIとチームで作業する「ChatGPT Space」と、継続的に動作するクラウドエージェント「dots」を発表。GPT-6.1 Solも提供開始</title>
 <link>https://gihyo.jp/article/2026/09/openai-devday-20206-with-gpt-6.1-sol-and-dots?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/09/openai-devday-20206-with-gpt-6.1-sol-and-dots?utm_source=feed</guid>
@@ -127,12 +119,44 @@
 <description>Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders. — OpenAI News / score: 90 (大規模AIカンファレンスの総括で重要度が高い。)</description>
 </item>
 <item>
+<title>[85] 相次ぐ不正アクセス、国が注意喚起　「基本的な対策」の徹底求める</title>
+<link>https://ascii.jp/elem/000/004/441/4441146/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/441/4441146/?rss</guid>
+<pubDate>Thu, 08 Oct 2026 05:20:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>個人情報保護委員会は10月7日、民間事業者を中心に大規模な情報漏えい事案が発生している状況を受け、個人情報取扱事業者に文書で注意喚起した。 — ASCII.jp / score: 85 (政府機関による不正アクセスと情報漏えいの注意喚起)</description>
+</item>
+<item>
+<title>[85] Anthropic、Claude Haiku 5.5を発表——実行コストはHaiku 4.5比で平均約75％減、OSWorld 2.1のオフライン評価で72.4％、Sonnet 5.5は83.9％</title>
+<link>https://gihyo.jp/article/2026/10/claude-haiku-5.5?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/10/claude-haiku-5.5?utm_source=feed</guid>
+<pubDate>Thu, 08 Oct 2026 04:14:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Anthropicは10月7日、AIモデル「Claude Haiku 5.5」を発表した。 — gihyo.jp / score: 85 (Claude Haiku 5.5のリリースと性能・コスト詳細)</description>
+</item>
+<item>
 <title>[85] 「IDCFクラウド」障害で止まった「MTクラウド版」、「Googleクラウド」のバックアップで「さくらのクラウド」に移行へ</title>
 <link>https://www.itmedia.co.jp/news/article/2610/08/2000002120/</link>
 <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/08/2000002120/</guid>
 <pubDate>Thu, 08 Oct 2026 02:52:59 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>IDCフロンティアの「IDCFクラウド」の一部サーバがランサムウェア攻撃で停止している問題で、シックス・アパートが提供するCMS「Movable Type（MT） クラウド版」でも10月7日未明、「IDCFクラウドプラン」のサーバ31台が止まった。 シックス・アパートによると「IDCFクラウド上で復旧できる見込みはない」が、顧客のバッ... — はてなブックマーク テクノロジー / score: 85 (クラウド障害による別基盤への移行という重大ニュース)</description>
+</item>
+<item>
+<title>[85] 漏えい相次ぐ中、保護委が対策を緊急例示　強い多要素認証やEDR導入、不要な個人データの消去など</title>
+<link>https://www.itmedia.co.jp/news/article/2610/08/2000002115/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/08/2000002115/</guid>
+<pubDate>Thu, 08 Oct 2026 02:49:09 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>相次ぐ個人情報漏えい事案を受け、個人情報保護委員会は10月7日、大量の個人情報を持つ事業者などに向け、不正アクセス対策への注意喚起を出した。 フィッシングに耐性のあるものを含む多要素認証や、EDR（エンドポイント検知・対応）などによる常時監視の導入など、来年4月に見直し予定のガイドラインから、新しい対策... — はてなブックマーク テクノロジー / score: 85 (個人情報保護委によるセキュリティ対策の緊急例示)</description>
+</item>
+<item>
+<title>[85] Anthropic、「Claude Haiku 5.5」のAPI料金を「Haiku 4.5」の10分の1に　「Sonnet 5.5」のキャッシュ読み込み料金は半額に</title>
+<link>https://www.itmedia.co.jp/aiplus/article/2610/08/2000002114/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2610/08/2000002114/</guid>
+<pubDate>Thu, 08 Oct 2026 02:23:34 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>米Anthropicは10月7日（現地時間）、小型モデル「Claude Haiku 5.5」のAPI提供を始めた。料金は多くの用途で前世代の「Claude Haiku 4.5」の10分の1に下がり、実際の利用では平均で約75％安くなるとしている。 同時に「Claude Sonnet 5.5」のキャッシュ読み込み料金を半額にしたほか、PythonとTypeScriptのSDKに、ブラウ... — はてなブックマーク テクノロジー / score: 85 (Anthropicの新型Claude Haiku発表と大幅値下げ)</description>
 </item>
 <item>
 <title>[85] ChatGPTの無料プランでも「GPT-6 Luna」が利用可能に、画像やグラフを組み合わせて回答する新機能「インテリジェントUI」も登場</title>
@@ -151,12 +175,12 @@
 <description>「IDCFクラウド」障害の原因はランサムウェア攻撃、ニッスイ、茨城県など495の企業や自治体に影響 — はてなブックマーク テクノロジー / score: 85 (大規模クラウド障害とランサムウェア攻撃の影響)</description>
 </item>
 <item>
-<title>[85] ニッスイ子会社で入出荷停止　IDCFクラウド影響か　委託先データセンターに不正アクセス</title>
-<link>https://www.itmedia.co.jp/news/article/2610/08/2000002113/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/08/2000002113/</guid>
-<pubDate>Thu, 08 Oct 2026 00:04:51 +0000</pubDate>
+<title>[85] Anthropic、「Claude Haiku 5.5」を発表 ～1年ぶりの小型モデル、最速・最安を更新／高頻度・コスト重視の用途にピッタリ、「Opus」「Sonnet」の手足にも</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2146582.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2146582.html</guid>
+<pubDate>Wed, 07 Oct 2026 23:09:16 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>報道によると日水物流は、IDCフロンティアのサービスを利用しているという。同社は同日、クラウドサービス「IDCFクラウド」の東日本リージョン1がランサムウェア攻撃を受け、同サービスを契約する495の企業や自治体に影響が出ていると発表した。 ニッスイグループが管理する個人情報や顧客データの外部への流出の可能性... — はてなブックマーク テクノロジー / score: 85 (ランサムウェアによるインフラ停止と情報流出リスク)</description>
+<description>Anthropic、「Claude Haiku 5.5」を発表 ～1年ぶりの小型モデル、最速・最安を更新／高頻度・コスト重視の用途にピッタリ、「Opus」「Sonnet」の手足にも — はてなブックマーク テクノロジー / score: 85 (主要なAIベンダーによる新型軽量LLMの公式発表)</description>
 </item>
 <item>
 <title>[85] IDCFクラウドへのランサムウェア攻撃についてまとめてみた - piyolog</title>
@@ -165,22 +189,6 @@
 <pubDate>Wed, 07 Oct 2026 22:19:57 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>2026年10月7日、IDCフロンティアは、同社が提供するクラウドサービス「IDCFクラウド」の一部のシステムが第三者からのランサムウェア攻撃を受け、障害が発生していると公表しました。ここでは関連する情報をまとめます。 東日本リージョン1への攻撃 IDCフロンティアは10月7日13時52分の第1報で、「IDCFクラウド」の一部... — はてなブックマーク テクノロジー / score: 85 (クラウドサービスの重大なランサムウェア被害)</description>
-</item>
-<item>
-<title>[85] Anthropic、「Claude Haiku 5.5」を発表 ～1年ぶりの小型モデル、最速・最安を更新／高頻度・コスト重視の用途にピッタリ、「Opus」「Sonnet」の手足にも</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2146582.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2146582.html</guid>
-<pubDate>Wed, 07 Oct 2026 20:05:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Anthropicは10月7日（現地時間）、「Claude Haiku 5.5」を発表した。「Haiku」モデルのアップデートは2025年10月以来、実に1年ぶりだ。 — 窓の杜 / score: 85 (主要なAIベンダーによる新型軽量LLMの公式発表)</description>
-</item>
-<item>
-<title>[85] 食品大手ニッスイ　グループ会社への不正アクセスで入荷・出荷できず</title>
-<link>https://news.tv-asahi.co.jp/news_economy/articles/000538550.html</link>
-<guid isPermaLink="true">https://news.tv-asahi.co.jp/news_economy/articles/000538550.html</guid>
-<pubDate>Wed, 07 Oct 2026 14:25:51 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>1 食品大手のニッスイはグループ会社でシステム障害が発生し、商品の入荷や出荷ができない状態になっていると発表しました。 ニッスイによりますと、7日からグループ会社の日水物流が扱う冷凍食品などの入荷や出荷ができない状態になっているということです。 日水物流が利用する委託先のデータセンターに不正アクセスが... — はてなブックマーク テクノロジー / score: 85 (食品大手の不正アクセスによるシステム障害)</description>
 </item>
 <item>
 <title>[85] 損保J 顧客情報6万件が漏えいか</title>
@@ -221,14 +229,6 @@
 <pubDate>Wed, 07 Oct 2026 02:20:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>The Document Foundationは10月5日（中央ヨーロッパ夏時間、以下同）、オープンソースのオフィスソフト「LibreOffice」に複数の脆弱性が見つかったことを公表した。いずれも、細工されたドキュメントを開くことで、ファイルの書き込みや読み取り、情報の送信、さらにはコードの実行が引き起こされる可能性がある。 — 窓の杜 / score: 85 (オフィスソフトの複数の脆弱性修正)</description>
-</item>
-<item>
-<title>[85] Google、出力上限100万トークンの最新モデル「Gemini 4 Argon」を発表</title>
-<link>https://codezine.jp/article/detail/29927</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/29927</guid>
-<pubDate>Wed, 07 Oct 2026 01:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 85 (Googleの大規模言語モデルの新バージョン発表)</description>
 </item>
 <item>
 <title>[85] Introducing Mistral Large 4: Le chonk</title>
@@ -367,20 +367,28 @@
 <description> — Google DeepMind / score: 85 (主要AIモデルの新バージョンと新機能の発表)</description>
 </item>
 <item>
+<title>[80] 【訃報】アポロ計画のフライトシステムソフトウェア開発を主導したマーガレット・ハミルトン氏が90歳で死去、「ソフトウェアエンジニアリング」という言葉の生みの親</title>
+<link>https://gigazine.net/news/20261008-margaret-hamilton-passed-away/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261008-margaret-hamilton-passed-away/</guid>
+<pubDate>Thu, 08 Oct 2026 04:35:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>NASAのアポロ計画で宇宙船のソフトウェア開発を主導し、「ソフトウェアエンジニアリング」という言葉を生み出したことで知られるコンピューター科学者のマーガレット・ハミルトン氏が、2026年9月30日に90歳で死去したとマサチューセッツ工科大学(MIT)が10月7日に発表しました。 続きを読む... — GIGAZINE / score: 80 (ソフトウェア工学の生みの親マーガレット・ハミルトン氏の訃報)</description>
+</item>
+<item>
+<title>[80] MicrosoftがローカルAI「MAI-Code-1.1-Flash」をリリース＆ローカルAIとクラウドAIを組み合わせた「ハイブリッドインテリジェンス」も提唱</title>
+<link>https://gigazine.net/news/20261008-hybrid-intelligence-mai-code-flash/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261008-hybrid-intelligence-mai-code-flash/</guid>
+<pubDate>Thu, 08 Oct 2026 04:25:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>Microsoftがローカルでの実行を念頭に開発したAIモデル「MAI-Code-1.1-Flash」を発表しました。また、WindowsのAI機能を強化してPC上でローカル実行するAIとクラウド上で動作するAIを組み合わせた「Hybrid Intelligence(ハイブリッドインテリジェンス)」を実現する姿勢も示しています。 続きを読む... — GIGAZINE / score: 80 (MicrosoftのローカルAIモデルとハイブリッド戦略)</description>
+</item>
+<item>
 <title>[80] メモリ128GBでAI処理特化なRTX Spark搭載のMicrosoft製ノートPC「Surface Laptop Ultra」とミニPC「Surface RTX Spark Dev Box」の予約販売が始まる</title>
 <link>https://gigazine.net/news/20261008-microsoft-surface-nvidia-rtx-spark/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261008-microsoft-surface-nvidia-rtx-spark/</guid>
 <pubDate>Thu, 08 Oct 2026 02:13:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>2026年10月7日、MicrosoftがNVIDIAのノートPC向けのSoC「RTX Spark」を搭載したPC群の予約販売を開始しました。最大128GBのユニファイドメモリを搭載可能で、大型のAIモデルをローカルで実行できます。 続きを読む... — GIGAZINE / score: 80 (AI処理特化型ハードウェアを搭載した新型Surfaceの登場)</description>
-</item>
-<item>
-<title>[80] Surface Laptop Ultra予約開始、最大1ペタフロップスのAI性能を持つ新ノート</title>
-<link>https://ascii.jp/elem/000/004/440/4440937/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/440/4440937/?rss</guid>
-<pubDate>Thu, 08 Oct 2026 02:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>ソフマップが「Surface Laptop Ultra」の予約受付を開始。NVIDIA RTX Spark N1Xを搭載し、最大1ペタフロップスのAI演算性能を実現。最大2000nitsの15型タッチ画面を備え、重量は2kg以下。10月16日21時発売予定。 — ASCII.jp / score: 80 (AI演算性能を強化した新型Surface Laptopの予約開始)</description>
 </item>
 <item>
 <title>[80] 「Claude Haiku 5.5」が登場、GPT-6 Lunaより高性能で前モデルより9割引きの安価なモデル</title>
@@ -421,14 +429,6 @@
 <pubDate>Wed, 07 Oct 2026 06:30:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>韓国4大メガバンクのうち新韓銀行、KB国民銀行、ハナ銀行の3行を含む少なくとも7つの金融機関がサイバー攻撃を受け、6万8000人分の個人情報が流出した恐れがあることがわかりました。李在明大統領は、攻撃にAIエージェントが利用された兆候があると延べ、何が起きたか迅速に捜査を行うよう指示を出しています。 続きを読む... — GIGAZINE / score: 80 (AIを利用した大規模な金融機関サイバー攻撃)</description>
-</item>
-<item>
-<title>[80] 「Google Chrome 155」安定版リリース、JPEG XLに対応＆耐量子暗号も利用可能に</title>
-<link>https://gigazine.net/news/20261007-google-chrome-155/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261007-google-chrome-155/</guid>
-<pubDate>Wed, 07 Oct 2026 03:10:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>ウェブブラウザ「Google Chrome」の最新安定版であるバージョン155がリリースされました。新たにJPEG XL形式の画像をブラウザ上で表示できるようになったほか、Web Crypto APIに耐量子暗号アルゴリズムが追加され、CSSのリスト表現や余白制御なども強化されています。 続きを読む... — GIGAZINE / score: 80 (Chrome安定版リリース、JPEG XLや耐量子暗号対応)</description>
 </item>
 <item>
 <title>[80] EmbeddingGemma 2: an open, lightweight multimodal embedding model</title>
@@ -509,6 +509,30 @@
 <pubDate>Fri, 25 Sep 2026 05:37:00 +0000</pubDate>
 <category>Latent Space</category>
 <description>It’s been an absolutely MONSTER week already, from new Chinese Open Weight Frontier Lab claiming the throne for the first time, to new SOTA LLM and price cuts from Anthropic and OpenAI , to Meta Connect , to TypeSafe AI’s $10B fundraise after our exclusive podcast this weekend (already one of our top of all time, with two pods on genomic language models and AI scientists sending us above heavyweights like TBPN and MKBHD in Apple Podcasts , and helping cross 200K on YouTube ). Today is the calm b — Latent Space / score: 80 (AI業界の最新動向や主要モデルのアップデートまとめ)</description>
+</item>
+<item>
+<title>[75] 「こんなゲームを作りたい」と文章で伝えるだけでゲームが完成、Googleがプログラミング不要のゲーム作成サービス「Playground」を公開</title>
+<link>https://gigazine.net/news/20261008-google-playground/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261008-google-playground/</guid>
+<pubDate>Thu, 08 Oct 2026 05:30:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>Googleは2026年10月7日、作りたいゲームの内容を文章で伝えるだけでオリジナルゲームを作成できるサービス「Playground」を発表しました。プログラミングの知識がなくてもキャラクターやルールを自由に設定でき、完成したゲームを友人と共有したり、ほかのユーザーが作ったゲームで遊んだりすることも可能です。 続きを読む... — GIGAZINE / score: 75 (文章だけでゲーム作成可能なGoogle Playground発表)</description>
+</item>
+<item>
+<title>[75] AI生成画像やAI生成動画を見分けるGoogleサービス「SynthID Detector」が誰でも使用可能に、Google・OpenAI・AppleのどのAIかも判別可能</title>
+<link>https://gigazine.net/news/20261008-synth-id-ai-content/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261008-synth-id-ai-content/</guid>
+<pubDate>Thu, 08 Oct 2026 04:25:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>GoogleはAIで生成されたコンテンツを迅速かつ効率的に識別するための検証ポータル「SynthID Detector」を2025年5月に発表しました。これまではテスター向けに限定公開されていましが、2026年10月7日に一般公開されて誰でも利用可能となったので実際に使ってみました。 続きを読む... — GIGAZINE / score: 75 (AI生成物識別サービスSynthID Detectorの一般公開)</description>
+</item>
+<item>
+<title>[75] Chrome 155でJPEG XL画像のデコードに対応、Rust製デコーダを採用</title>
+<link>https://codezine.jp/article/detail/29945</link>
+<guid isPermaLink="true">https://codezine.jp/article/detail/29945</guid>
+<pubDate>Thu, 08 Oct 2026 04:00:00 +0000</pubDate>
+<category>CodeZine</category>
+<description> — CodeZine / score: 75 (Chrome 155でのJPEG XLデコーダ対応とRust採用)</description>
 </item>
 <item>
 <title>[75] 止まらない不正アクセス、背景にAIの“超高速攻撃”か　識者「使われていない方が不自然」</title>
@@ -605,22 +629,6 @@
 <pubDate>Wed, 07 Oct 2026 04:46:56 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>← ResearchHow abliterated models can get you pwnedOct 6, 2026 · Prince Chaddha Any open model whose weights have been edited can carry a backdoor, whether it's a task-specific fine-tune, a merged adapter or an abliterated build. We built one to see what it takes, and ran it end to end through a c... — はてなブックマーク テクノロジー / score: 75 (AIモデルの改変とセキュリティ脆弱性の調査報告)</description>
-</item>
-<item>
-<title>[75] Googleが画像生成AI「Nano Banana 2.1」を公開、人物の一貫性や編集機能が向上</title>
-<link>https://gigazine.net/news/20261007-nano-banana-2-1/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261007-nano-banana-2-1/</guid>
-<pubDate>Wed, 07 Oct 2026 03:16:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>Googleが画像生成AI「Nano Banana 2.1」を発表しました。2026年5月に正式リリースされた「Nano Banana 2」のアップデート版で、Gemini 3.6 FlashをベースにしていることでFlashレベルの速度と費用対効果を維持しながら、1K・2K・4Kの解像度でビジュアル品質、テキストレンダリング、マルチターンの整合性、Google検索のグラウンディングを改善しています。 続きを読む... — GIGAZINE / score: 75 (Googleの画像生成AIモデルNano Bananaのアップデート)</description>
-</item>
-<item>
-<title>[75] ClaudeがGoogleドキュメントやGoogleスプレッドシートと接続可能に</title>
-<link>https://gigazine.net/news/20261007-claude-for-google-workspace/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261007-claude-for-google-workspace/</guid>
-<pubDate>Wed, 07 Oct 2026 03:02:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>Anthropicが、Claude向けのアドオン「Claude for Google Workspace」をパブリックベータとしてリリースしました。GoogleドキュメントやGoogleスプレッドシート、GoogleスライドにClaudeを接続して直接ファイルを編集できます。 続きを読む... — GIGAZINE / score: 75 (ClaudeのGoogle Workspace連携アドオンの公開)</description>
 </item>
 <item>
 <title>[75] Google DeepMind、「EmbeddingGemma 2」を発表 ～テキストから動画まで扱えるオープン埋め込みモデル／7億4,000万パラメーターでスマートフォンでもオンデバイス動作</title>
@@ -797,14 +805,6 @@
 <pubDate>Wed, 30 Sep 2026 17:22:31 +0000</pubDate>
 <category>AWS News Blog</category>
 <description>Amazon Aurora PostgreSQL now lets you directly query Apache Iceberg and Parquet data stored in your data lake alongside live operational data—no ETL pipelines required. Powered by DuckDB embedded within Aurora, this capability enables single queries that join transactional and historical data using familiar PostgreSQL syntax. It supports AWS Glue Data Catalog, S3, and S3 Tables, with optimizations like predicate pushdown and caching for efficient performance. — AWS News Blog / score: 75 (Aurora PostgreSQLのIceberg直接クエリ対応)</description>
-</item>
-<item>
-<title>[75] OpenAI GPT-6.1 Sol is now generally available on Amazon Bedrock</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-1-sol-on-amazon-bedrock/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-1-sol-on-amazon-bedrock/</guid>
-<pubDate>Tue, 29 Sep 2026 20:17:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Today, AWS announces the general availability of GPT-6.1 Sol from OpenAI on Amazon Bedrock. An upgrade to GPT-6 Sol, GPT-6.1 Sol delivers exceptionally strong performance on agentic coding, computer use, and professional work. According to OpenAI, it approaches GPT-6 Astra across demanding evaluations at roughly one-fifth of the cost, giving developers more room to build and run capable agents at scale. The Amazon Bedrock inference engine delivers the performance, security, and reliability requi — AWS What's New / score: 75 (OpenAIの最新モデルがAmazon Bedrockで利用可能になり影響が大きい)</description>
 </item>
 </channel>
 </rss>
