@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 08 Oct 2026 02:21:30 +0000</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 04:12:24 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Google Chrome 155」が公開 ～247件もの脆弱性を修正、「Critical」は4件／「Rust」言語で実装された「JPEG XL」のデコーダーを追加、「WebCrypto」に耐量子暗号</title>
@@ -23,20 +23,20 @@
 <description>The September 2026 security release for Next.js is now available — Next.js Blog / score: 95 (Next.jsの緊急セキュリティリリース)</description>
 </item>
 <item>
-<title>[90] IDCFクラウドへのランサム攻撃、495の企業・自治体に影響　一部には「復元難しい」との通達も</title>
-<link>https://www.itmedia.co.jp/news/article/2610/07/2000002107/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/07/2000002107/</guid>
-<pubDate>Wed, 07 Oct 2026 14:11:42 +0000</pubDate>
+<title>[90] tensorlake ソフトウェアサプライチェーン攻撃の概要と対策指針 - GMO Flatt Security Blog</title>
+<link>https://blog.flatt.tech/entry/tensorlake_compromise</link>
+<guid isPermaLink="true">https://blog.flatt.tech/entry/tensorlake_compromise</guid>
+<pubDate>Thu, 08 Oct 2026 03:50:36 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>ソフトバンク子会社のIDCフロンティアは10月7日、法人向けクラウドサービス「IDCFクラウド」で起きている障害について、第三者によるランサムウェア攻撃が原因だったと明かし、影響範囲は495の企業・自治体に及ぶと発表した。これを受け、同日朝から利用企業によるサービス停止や一部機能の不具合の公表が相次いでいる。... — はてなブックマーク テクノロジー / score: 90 (クラウドへの大規模ランサムウェア攻撃と甚大な被害)</description>
+<description>2026年10月8日、npm パッケージ tensorlake に悪性コードが注入されました。 注入された悪性コードは、Infostealer機能を持つマルウェアです。preinstall フック経由で実行され、AWS・GitHub・Kubernetes・Vault などの認証情報を盗み出して送出する挙動が確認されています。また、マルウェアがspawnするバックグラウン... — はてなブックマーク テクノロジー / score: 90 (npmパッケージにおける悪性コード注入のサプライチェーン攻撃)</description>
 </item>
 <item>
-<title>[90] 【第2報】当社サービスの一部システムに対する不正アクセスについて | IDCフロンティア</title>
-<link>https://www.idcf.jp/news/topics/20261007002</link>
-<guid isPermaLink="true">https://www.idcf.jp/news/topics/20261007002</guid>
-<pubDate>Wed, 07 Oct 2026 11:52:54 +0000</pubDate>
+<title>[90] 直近で相次いでいる国内組織における不正アクセスに関する注意喚起</title>
+<link>https://www.jpcert.or.jp/at/2026/at260030.html</link>
+<guid isPermaLink="true">https://www.jpcert.or.jp/at/2026/at260030.html</guid>
+<pubDate>Thu, 08 Oct 2026 02:17:29 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>2026年10月7日 このたびは、多大なるご心配とご迷惑をおかけしておりますことを深くお詫び申し上げます。 本日午前3時40分頃から発生している、当社クラウドサービス「IDCFクラウド」の一部のシステムに対する第三者からの不正アクセスについて、現時点での状況をお知らせします。 調査の結果、東日本リージョン1で障害... — はてなブックマーク テクノロジー / score: 90 (クラウドサービスの不正アクセス障害の発生)</description>
+<description>JPCERT-AT-2026-0030 JPCERT/CC 2026-10-08 I. 概要各被害公表や報道のとおり、直近2026年9月前後で国内組織における不正アクセスによる個人情報等の漏えい被害が相次いでいます。 複数の製品やサービスで被害が発生している中、技術的な情報の共有が不足しており、把握している情報は限定的かつ断片的であるものの、攻... — はてなブックマーク テクノロジー / score: 90 (国内組織への不正アクセス増加に関する緊急の注意喚起)</description>
 </item>
 <item>
 <title>[90] 「WordPress 7.1.3」が公開、7件の脆弱性と4件の不具合を修正／速やかなアップデートを</title>
@@ -127,12 +127,28 @@
 <description>Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders. — OpenAI News / score: 90 (大規模AIカンファレンスの総括で重要度が高い。)</description>
 </item>
 <item>
+<title>[85] 「IDCFクラウド」障害で止まった「MTクラウド版」、「Googleクラウド」のバックアップで「さくらのクラウド」に移行へ</title>
+<link>https://www.itmedia.co.jp/news/article/2610/08/2000002120/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/08/2000002120/</guid>
+<pubDate>Thu, 08 Oct 2026 02:52:59 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>IDCフロンティアの「IDCFクラウド」の一部サーバがランサムウェア攻撃で停止している問題で、シックス・アパートが提供するCMS「Movable Type（MT） クラウド版」でも10月7日未明、「IDCFクラウドプラン」のサーバ31台が止まった。 シックス・アパートによると「IDCFクラウド上で復旧できる見込みはない」が、顧客のバッ... — はてなブックマーク テクノロジー / score: 85 (クラウド障害による別基盤への移行という重大ニュース)</description>
+</item>
+<item>
 <title>[85] ChatGPTの無料プランでも「GPT-6 Luna」が利用可能に、画像やグラフを組み合わせて回答する新機能「インテリジェントUI」も登場</title>
 <link>https://gigazine.net/news/20261008-openai-gpt-6-luna/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261008-openai-gpt-6-luna/</guid>
 <pubDate>Thu, 08 Oct 2026 02:20:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>OpenAIは2026年10月7日にChatGPTの新たなAIモデル「GPT-6」の提供範囲を無料ユーザーにも拡大すると発表しました。さらに、質問内容に応じて画像・グラフ・操作可能なボタンなどを組み合わせて回答する新機能「Intelligent UI(インテリジェントUI)」も発表しています。 続きを読む... — GIGAZINE / score: 85 (ChatGPTの新モデルGPT-6と新UIの無料提供開始)</description>
+</item>
+<item>
+<title>[85] 「IDCFクラウド」障害の原因はランサムウェア攻撃、ニッスイ、茨城県など495の企業や自治体に影響</title>
+<link>https://internet.watch.impress.co.jp/docs/news/2146594.html</link>
+<guid isPermaLink="true">https://internet.watch.impress.co.jp/docs/news/2146594.html</guid>
+<pubDate>Thu, 08 Oct 2026 00:56:56 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>「IDCFクラウド」障害の原因はランサムウェア攻撃、ニッスイ、茨城県など495の企業や自治体に影響 — はてなブックマーク テクノロジー / score: 85 (大規模クラウド障害とランサムウェア攻撃の影響)</description>
 </item>
 <item>
 <title>[85] ニッスイ子会社で入出荷停止　IDCFクラウド影響か　委託先データセンターに不正アクセス</title>
@@ -207,14 +223,6 @@
 <description>The Document Foundationは10月5日（中央ヨーロッパ夏時間、以下同）、オープンソースのオフィスソフト「LibreOffice」に複数の脆弱性が見つかったことを公表した。いずれも、細工されたドキュメントを開くことで、ファイルの書き込みや読み取り、情報の送信、さらにはコードの実行が引き起こされる可能性がある。 — 窓の杜 / score: 85 (オフィスソフトの複数の脆弱性修正)</description>
 </item>
 <item>
-<title>[85] 1兆パラメータ超の「Mistral Large 4 Le Chonk」をMistralが発表、中国勢に対抗するオープンウェイトAIモデル</title>
-<link>https://gigazine.net/news/20261007-mistral-large-4-le-chonk/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261007-mistral-large-4-le-chonk/</guid>
-<pubDate>Wed, 07 Oct 2026 02:15:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>フランスのAI企業・Mistralが総パラメータ数が1兆を超える新しいAIモデル「Mistral Large 4」を2026年10月6日に発表しました。Mistral Large 4は「Le Chonk」の愛称を持つマルチモーダルモデルで、Mistralによるとその性能は「中国企業が開発する有力なオープンウェイトモデルに匹敵する」とのことです。 続きを読む... — GIGAZINE / score: 85 (1兆パラメータ超のオープンウェイトAIモデル発表)</description>
-</item>
-<item>
 <title>[85] Google、出力上限100万トークンの最新モデル「Gemini 4 Argon」を発表</title>
 <link>https://codezine.jp/article/detail/29927</link>
 <guid isPermaLink="true">https://codezine.jp/article/detail/29927</guid>
@@ -253,14 +261,6 @@
 <pubDate>Fri, 02 Oct 2026 16:15:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production. — OpenAI News / score: 85 (次世代GPT-6ファミリーのモデル選択・活用ガイド)</description>
-</item>
-<item>
-<title>[85] 「LibreOffice」に7件の脆弱性、うち5件は「Claude」が発見／対策済みバージョンへの更新を</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2145033.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2145033.html</guid>
-<pubDate>Fri, 02 Oct 2026 02:45:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>The Document Foundationは9月21日（中央ヨーロッパ夏時間）、オフィスソフト「LibreOffice」に複数の脆弱性が見つかったことを公表した。細工されたドキュメントを開くことで、メモリの破損や情報の読み取りが引き起こされる可能性があるという。 — 窓の杜 / score: 85 (LibreOfficeの複数脆弱性と修正の通知)</description>
 </item>
 <item>
 <title>[85] Python 3.15.0 candidate 3 is here!</title>
@@ -511,6 +511,14 @@
 <description>It’s been an absolutely MONSTER week already, from new Chinese Open Weight Frontier Lab claiming the throne for the first time, to new SOTA LLM and price cuts from Anthropic and OpenAI , to Meta Connect , to TypeSafe AI’s $10B fundraise after our exclusive podcast this weekend (already one of our top of all time, with two pods on genomic language models and AI scientists sending us above heavyweights like TBPN and MKBHD in Apple Podcasts , and helping cross 200K on YouTube ). Today is the calm b — Latent Space / score: 80 (AI業界の最新動向や主要モデルのアップデートまとめ)</description>
 </item>
 <item>
+<title>[75] 止まらない不正アクセス、背景にAIの“超高速攻撃”か　識者「使われていない方が不自然」</title>
+<link>https://www.itmedia.co.jp/news/article/2610/08/2000002101/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/08/2000002101/</guid>
+<pubDate>Thu, 08 Oct 2026 03:04:58 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>不正アクセス被害の発表が止まらない。運転免許証の画像が漏えいし、物議を醸すタイムズカーシェアを筆頭に、1000万件超の情報が漏えいした焼肉きんぐ、ポイントが不正換金につながったGMO子会社など、さまざまな企業とそのサービスで被害が明らかになっており、その影響は甚大だ。 一連の攻撃を巡っては、自律的に業務... — はてなブックマーク テクノロジー / score: 75 (AIを活用した超高速攻撃に関するセキュリティ考察)</description>
+</item>
+<item>
 <title>[75] Cloudflare Workers、受信TCP接続に対応　最初の対応プロトコルはgRPCに</title>
 <link>https://www.infoq.com/jp/news/2026/10/workers-inbound-tcp-grpc/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
 <guid isPermaLink="true">https://www.infoq.com/jp/news/2026/10/workers-inbound-tcp-grpc/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
@@ -583,14 +591,6 @@
 <description>OpenAIがアプリケーション内で「どのモデルを使うか」「どのツールを呼び出すか」「問い合わせをどこに振り分けるか」といった判断を高速に行うための新API「Decisions API」をパブリックベータとして公開しました。テキストと画像を入力でき、条件に当てはまる確率や選択結果、評価スコアなどを機械処理しやすい形式で返します。 続きを読む... — GIGAZINE / score: 75 (OpenAIの新API公開による高速判断機能)</description>
 </item>
 <item>
-<title>[75] 相次ぐWEBシステムからの情報漏洩事案について | セキュリティ研究センターブログ</title>
-<link>https://security.macnica.co.jp/blog/2026/10/web-incidents2026.html</link>
-<guid isPermaLink="true">https://security.macnica.co.jp/blog/2026/10/web-incidents2026.html</guid>
-<pubDate>Wed, 07 Oct 2026 06:59:02 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>1.記事概要 国内の法人・企業が運営するWEBシステムからの情報漏洩が相次いでいます。後述の通り過去のサイバー攻撃と異なる点が多いため、セキュリティ専門家間でも事件に関する解釈が一部揺らいでいます。また、被害公表においても「不正アクセス」「個人情報◯◯件漏洩」といった概要の説明はあっても、他組織が自社シ... — はてなブックマーク テクノロジー / score: 75 (WEBシステムからの相次ぐ情報漏洩に関する分析)</description>
-</item>
-<item>
 <title>[75] Google、スマートフォンで動くマルチモーダル埋め込みモデル「EmbeddingGemma 2」を公開</title>
 <link>https://gihyo.jp/article/2026/10/embeddinggemma-2?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/10/embeddinggemma-2?utm_source=feed</guid>
@@ -645,14 +645,6 @@
 <pubDate>Tue, 06 Oct 2026 20:00:00 +0000</pubDate>
 <category>Next.js Blog</category>
 <description>Next.js 16.4 introduces lazy compilation, smaller Turbopack output, React 19.3 features, Cache Components improvements, and new developer tooling. — Next.js Blog / score: 75 (主要Webフレームワークのマイナーリリースと新機能)</description>
-</item>
-<item>
-<title>[75] Shipping JPEG XL in Chrome  |  Blog  |  Chrome for Developers</title>
-<link>https://developer.chrome.com/blog/jpeg-xl-in-chrome</link>
-<guid isPermaLink="true">https://developer.chrome.com/blog/jpeg-xl-in-chrome</guid>
-<pubDate>Tue, 06 Oct 2026 16:48:56 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Published: October 6, 2026 We're excited to announce that Chrome is shipping decoding support for the JPEG XL (.jxl) image format starting from Chrome 155. JPEG XL is a next-generation image format designed to meet the needs of modern web developers and photographers. It offers 30-50% better comp... — はてなブックマーク テクノロジー / score: 75 (ChromeがJPEG XLのデコードをサポート)</description>
 </item>
 <item>
 <title>[75] Sharing AI progress in mathematics</title>
@@ -805,6 +797,14 @@
 <pubDate>Wed, 30 Sep 2026 17:22:31 +0000</pubDate>
 <category>AWS News Blog</category>
 <description>Amazon Aurora PostgreSQL now lets you directly query Apache Iceberg and Parquet data stored in your data lake alongside live operational data—no ETL pipelines required. Powered by DuckDB embedded within Aurora, this capability enables single queries that join transactional and historical data using familiar PostgreSQL syntax. It supports AWS Glue Data Catalog, S3, and S3 Tables, with optimizations like predicate pushdown and caching for efficient performance. — AWS News Blog / score: 75 (Aurora PostgreSQLのIceberg直接クエリ対応)</description>
+</item>
+<item>
+<title>[75] OpenAI GPT-6.1 Sol is now generally available on Amazon Bedrock</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-1-sol-on-amazon-bedrock/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-1-sol-on-amazon-bedrock/</guid>
+<pubDate>Tue, 29 Sep 2026 20:17:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Today, AWS announces the general availability of GPT-6.1 Sol from OpenAI on Amazon Bedrock. An upgrade to GPT-6 Sol, GPT-6.1 Sol delivers exceptionally strong performance on agentic coding, computer use, and professional work. According to OpenAI, it approaches GPT-6 Astra across demanding evaluations at roughly one-fifth of the cost, giving developers more room to build and run capable agents at scale. The Amazon Bedrock inference engine delivers the performance, security, and reliability requi — AWS What's New / score: 75 (OpenAIの最新モデルがAmazon Bedrockで利用可能になり影響が大きい)</description>
 </item>
 </channel>
 </rss>
