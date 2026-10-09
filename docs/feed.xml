@@ -4,8 +4,32 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 09 Oct 2026 18:11:47 +0000</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 20:09:46 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Amazon EC2 R8gd instances are now available in additional regions</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ec2-r8gd-thf/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ec2-r8gd-thf/</guid>
+<pubDate>Fri, 09 Oct 2026 19:29:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon Elastic Compute Cloud (Amazon EC2) R8gd instances are available in AWS European Sovereign Cloud (Germany) region. These instances feature up to 11.4 TB of local NVMe-based SSD block-level storage and are powered by AWS Graviton4 processors, delivering up to 30% better performance over Graviton3-based instances. These instances are built on the AWS Nitro System and are a great fit for applications that need access to high-speed, low latency local storage. R8gd instances are available in 12 — AWS What's New / score: 30 (特定リージョンでのEC2インスタンス追加)</description>
+</item>
+<item>
+<title>Amazon EC2 R8g instances now available in additional regions</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ec2-r8g-instances-thf/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ec2-r8g-instances-thf/</guid>
+<pubDate>Fri, 09 Oct 2026 19:19:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R8g instances are available in the AWS European Sovereign Cloud (Germany) region. These instances are powered by AWS Graviton4 processors and deliver up to 30% better performance compared to AWS Graviton3-based instances. Amazon EC2 R8g instances are ideal for memory-intensive workloads such as databases, in-memory caches, and real-time big data analytics. These instances are built on the AWS Nitro System , which offloads CPU virtualizati — AWS What's New / score: 30 (特定リージョンでの Graviton4インスタンス追加)</description>
+</item>
+<item>
+<title>Amazon Bedrock now supports reasoning summaries for OpenAI models</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-reasoning-summaries-openai/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-reasoning-summaries-openai/</guid>
+<pubDate>Fri, 09 Oct 2026 17:44:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon Bedrock now supports the reasoning.summary parameter for OpenAI models through the Responses API. This capability lets you request a human-readable summary of a model’s reasoning alongside its response, helping you understand its approach to complex tasks such as coding, analysis, and multi-step problem solving. Reasoning summaries give developers additional context for evaluating responses, debugging applications, and showing users how a model approached a request. The summary is returne — AWS What's New / score: 60 (BedrockのOpenAIモデル推論サマリー対応)</description>
+</item>
 <item>
 <title>Anthropic Claude Sonnet 5.5 and Claude Opus 5.5 are now available on Kiro in AWS GovCloud (US)</title>
 <link>https://aws.amazon.com/about-aws/whats-new/2026/06/kiro-claude-5-5-aws-govcloud-us/</link>
@@ -29,6 +53,14 @@
 <pubDate>Fri, 09 Oct 2026 17:00:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Amazon S3 Vectors metadata pre-filtering is now available in the AWS GovCloud (US-East) and AWS GovCloud (US-West) Regions. Pre-filtering evaluates metadata filters before running similarity search, returning up to 5x more of the matching vectors when your filter is selective. S3 Vectors also adds a prefix match operator ($startsWith) for filtering on values like paths and URLs. Together, these improvements give your retrieval-augmented generation (RAG), agentic, and semantic-search applications — AWS What's New / score: 45 (Amazon S3 Vectorsのメタデータプレフィルタリング)</description>
+</item>
+<item>
+<title>AWS Lambda supports OAuth authentication for self-managed Apache Kafka event sources</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/aws-Lambda-supports-oauth-kafka-esm/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/aws-Lambda-supports-oauth-kafka-esm/</guid>
+<pubDate>Fri, 09 Oct 2026 16:30:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS Lambda now supports OAuth authentication for self-managed Apache Kafka event source mappings (ESM), including Kafka clusters that customers run themselves and managed offerings such as Confluent Cloud, Aiven, and Redpanda. With this launch, customers can authenticate their Lambda Kafka consumers through their enterprise identity provider, helping them meet the security and compliance requirements for their Kafka applications. Customers building event-driven Kafka workloads for use cases such — AWS What's New / score: 50 (LambdaのKafka連携におけるOAuth認証対応)</description>
 </item>
 <item>
 <title>Modernizing Unstructured Data Workflows: Alteryx Live Query meets Google Cloud BigQuery</title>
@@ -69,6 +101,14 @@
 <pubDate>Fri, 09 Oct 2026 15:01:00 +0000</pubDate>
 <category>ASCII.jp</category>
 <description>富士フイルムから手のひらサイズの超小型カメラ「instax Pal 2」が登場したのでプロカメラマンが実写してみました — ASCII.jp / score: 30 (コンシュー向けガジェットの実写レビュー記事)</description>
+</item>
+<item>
+<title>Amazon Quick now supports brand templates for on-brand presentations and documents</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-quick-brand-templates-on-brand-presentations-documents/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-quick-brand-templates-on-brand-presentations-documents/</guid>
+<pubDate>Fri, 09 Oct 2026 15:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Starting today, you can upload brand templates in Amazon Quick, allowing you to create presentations and documents that match your approved visual identity. Brand managers set up a template once and everyone gets on-brand output, without hunting for the right file in each chat. Brand managers upload PowerPoint or Word templates, or pull them from a connected file store such as SharePoint. Quick extracts the colors, fonts, logos, layouts and brand rules from each file. A brand manager reviews and — AWS What's New / score: 20 (ブランドテンプレート機能の追加)</description>
 </item>
 <item>
 <title>パソコンショップSEVEN、ゲーミングPCなど全10商品が最大15万円引き｜10月10日限定</title>
@@ -181,6 +221,14 @@
 <pubDate>Fri, 09 Oct 2026 12:54:06 +0000</pubDate>
 <category>Simon Willison</category>
 <description>I shipped a new feature for my blog today: the Newsletters page, which offers an index of all of the newsletters I've sent out, both my free weekly Substack and my monthly sponsors-only updates. I built the feature almost entirely using my voice, chatting away to my laptop while I cooked dinner. Codex voice mode I used the ChatGPT desktop app for this, in the Codex tab, using the voice conversation mode, running against a local development environment. Here's what that looks like: I started the  — Simon Willison / score: 40 (個人のブログ運営における新機能実装のレポート。)</description>
+</item>
+<item>
+<title>JR九州、メアド最大130万件漏洩か　ソフトバンク子会社不正アクセス - 日本経済新聞</title>
+<link>https://www.nikkei.com/article/DGXZQOJC09B7T0Z01C26A0000000/</link>
+<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOJC09B7T0Z01C26A0000000/</guid>
+<pubDate>Fri, 09 Oct 2026 12:47:05 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>JR九州は9日、同社のウェブ会員として登録されたメールアドレス最大約130万件が漏洩した可能性があると発表した。メールアドレス以外の個人情報の漏洩はないとしている。JR九州によると、ソフトバンク子会社のIDCフロ — はてなブックマーク テクノロジー / score: 90 (130万件の大規模な情報漏洩インシデント)</description>
 </item>
 <item>
 <title>自動運転技術は毎年58万人の命を救う可能性がある</title>
@@ -615,6 +663,14 @@
 <description>秋アニメ特集第11回は、甲子園に向けてついに西東京大会決勝戦が始まる『ダイヤのA actⅡ -Second Season-』に、『ケロロ軍曹☆』『彼方から』など、5作品を紹介。 — ASCII.jp / score: 10 (アニメの放送情報のため)</description>
 </item>
 <item>
+<title>Claudeにダッシュボードや説明用動画の作成機能。Designは無料でも利用可能に</title>
+<link>https://pc.watch.impress.co.jp/docs/news/2147110.html</link>
+<guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2147110.html</guid>
+<pubDate>Fri, 09 Oct 2026 09:04:19 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Claudeにダッシュボードや説明用動画の作成機能。Designは無料でも利用可能に — はてなブックマーク テクノロジー / score: 70 (Claudeの新機能追加と無料化に関する主要なアップデート。)</description>
+</item>
+<item>
 <title>Shokzの各種ワイヤレスイヤホンが最大30％OFFに ｰ 10月13日から『Shokz 2026 秋のプライムデーセール』開催へ</title>
 <link>https://taisy0.com/2026/10/09/228509.html</link>
 <guid isPermaLink="true">https://taisy0.com/2026/10/09/228509.html</guid>
@@ -743,68 +799,12 @@
 <description>人気バーチャルライバーグループ「にじさんじ」に所属するラーメン好きの5人「社築」「舞元啓介」「ジョー・力一」「レオス・ヴィンセント」「一橋綾人」が結成した「にじさんじスーパーカップ部」がスーパーカップの人気商品「豚キムチ」に次ぐ最強メニューとして考案した「スーパーカップ1.5倍×にじさんじ 牛キムチチゲ味ラーメン」が2026年10月12日に発売されます。発売に先駆けてGIGAZINE編集部に送られてきたので、どんな味わいなのか実際に食べてみました。 続きを読む... — GIGAZINE / score: 10 (コラボカップ麺の試食レビュー記事)</description>
 </item>
 <item>
-<title>ワークチェアに求めることって何？ ギズモード編集部員の場合</title>
-<link>https://www.gizmodo.jp/article/2609-kokuyo-ingcloud-work-chair/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2609-kokuyo-ingcloud-work-chair/</guid>
+<title>Amazon SageMaker Unified Studio now supports custom Tooling blueprints</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-custom-tooling-blueprints/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-custom-tooling-blueprints/</guid>
 <pubDate>Fri, 09 Oct 2026 08:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>日々、取材や原稿執筆、企画会議や記事編集などなど、馬車馬のごとく働いているギズモード編集部。そんなみんながお世話になっているのが、ワークチェア。編集部でもそうですし、家でもイスにはたいへんお世話になっています。「机よりイスにお金をかけよ」と… — ギズモード・ジャパン / score: 15 (ワークチェアに関する雑記・コラム)</description>
-</item>
-<item>
-<title>EPIPHONE／BILLIE JOE ARMSTRONG LES PAUL JUNIOR〜ビリー・ジョーのパンク魂を凝縮した鮮烈な赤に染まる特別仕様モデル！</title>
-<link>https://guitarmagazine.jp/news/2026-1009-new-products-epiphone/</link>
-<guid isPermaLink="true">https://guitarmagazine.jp/news/2026-1009-new-products-epiphone/</guid>
-<pubDate>Fri, 09 Oct 2026 08:00:00 +0000</pubDate>
-<category>ギター・マガジンWEB</category>
-<description>エピフォンのエレクトリック・ギターの新製品、BILLIE JOE ARMSTRONG LES PAUL JUNIORを紹介。 文：鈴木誠 撮影：星野俊 ※本記事はギター・マガジン2026年10月号の「New Products Review」から転載したものです。 ※価格は本誌掲載時のものです。 EPIPHONE BILLIE JOE ARMSTRONG LES PAUL JUNIOR ギブソンの直系ブランドとして、伝説的なギターを身近な存在にするエピフォン。最新作はビリー・ジョー・アームストロング（グリーン・デイ）とのコラボレーションによる特別なレス・ポール・ジュニアだ。 “シンプルかつ大音量”というビリーのパンク・スピリットを体現する1ピックアップ＆2ノブだけの潔いレイアウトに、鮮烈な赤いボディ・カラーが圧倒的な存在感を放つ。 ネックは1950年代の肉厚なビンテージ・シェイプで、ブリッジはボディにダイレクト・マウントされたラップ・アラウンド・タイプ。 手頃な価格ながらプロフェッショナル・レベルの性能を持ち、パンク・プレイヤーの即戦力となる1本だ。 ヘッド裏には、ビリー・ジョー・アーム — ギター・マガジンWEB / score: 10 (ギターの新製品紹介)</description>
-</item>
-<item>
-<title>PAUL REED SMITH／JON JOURDAN LIMITED EDITION〜ステージ上での理想を具現化　シンプル＆実戦仕様の限定モデル</title>
-<link>https://guitarmagazine.jp/news/2026-1009-new-products-paul-reed-smith/</link>
-<guid isPermaLink="true">https://guitarmagazine.jp/news/2026-1009-new-products-paul-reed-smith/</guid>
-<pubDate>Fri, 09 Oct 2026 08:00:00 +0000</pubDate>
-<category>ギター・マガジンWEB</category>
-<description>ポール・リード・スミスのエレクトリック・ギターの新製品、JON JOURDAN LIMITED EDITIONを紹介。 文：鈴木誠 撮影：星野俊 ※本記事はギター・マガジン2026年10月号の「New Products Review」から転載したものです。 ※価格は本誌掲載時のものです。 PAUL REED SMITH JON JOURDAN LIMITED EDITION 伝統的なエレキ・ギターの魅力と、現代的な演奏性を融合するPRS。本器はジョン・ジョーダン（マンモス）のステージ上における相棒として開発された。 “ギターはツールである”というジョンのこだわりから、必要不可欠ではない装飾や配線などを省略。ピックアップはリアに1基だけ搭載。ボリューム・ノブも通常より遠い位置に配置し、演奏中に不意に触れてしまわないよう配慮した。 指板上のポジション・マークがない代わりに、蓄光素材のサイド・ドットを採用しているのも実戦仕様のポイント。 本器は限定200本の特別モデル。10代からPRSギターを弾いてきたジョンの到達点といえる1本だ。 オープンバック・スタイルを採用するPRS Phase II — ギター・マガジンWEB / score: 10 (ギターの新製品紹介)</description>
-</item>
-<item>
-<title>POSITIVE GRID／SPARK PEDAL〜スマート・アンプの先駆的シリーズに全部入りのフロア・タイプが初登場！</title>
-<link>https://guitarmagazine.jp/news/2026-1009-new-products-positive-grid/</link>
-<guid isPermaLink="true">https://guitarmagazine.jp/news/2026-1009-new-products-positive-grid/</guid>
-<pubDate>Fri, 09 Oct 2026 08:00:00 +0000</pubDate>
-<category>ギター・マガジンWEB</category>
-<description>POSITIVE GRIDのマルチ・エフェクターの新製品、SPARK PEDALを紹介。 文：鈴木誠 撮影：星野俊 ※本記事はギター・マガジン2026年10月号の「New Products Review」から転載したものです。 ※価格は本誌掲載時のものです。 POSITIVE GRID SPARK PEDAL 最先端モデリング技術でリアルなサウンドを提供する、Positive Gridの“スマート・アンプ”ことSparkシリーズに、初のペダル・タイプが登場。 アンプのフット・スイッチほどのサイズの筐体に、エフェクト・プロセッサーとルーパー機能を凝縮。外部アンプやPAシステムにもつないで使えるオールイン・ワンの機材だ。 音作りは5つのノブと3つのフット・スイッチで直感的に行なえ、スマートフォンのアプリで音色管理が可能。 ステージ演奏やスタジオでのリハーサルだけでなく、アプリ上の豊富なツールを使った自宅練習にも対応。 あらゆる場面で足下を支える最新ギアだ。 背面の入出力端子。3.5mmステレオ・ミニのヘッドフォン端子を持ち、アンプに接続しない状態での練習にも対応。内蔵バッテリーの充電はUS — ギター・マガジンWEB / score: 15 (楽器用マルチエフェクターの新製品情報)</description>
-</item>
-<item>
-<title>UMBRELLA COMPANY／HUME〜ディレイとリバーブの音色が溶け合う新感覚コントロールの空間系ペダル</title>
-<link>https://guitarmagazine.jp/news/2026-1009-new-products-umbrella-company/</link>
-<guid isPermaLink="true">https://guitarmagazine.jp/news/2026-1009-new-products-umbrella-company/</guid>
-<pubDate>Fri, 09 Oct 2026 08:00:00 +0000</pubDate>
-<category>ギター・マガジンWEB</category>
-<description>UMBRELLA COMPANYのエフェクト・ペダルの新製品、HUMEを紹介。 文：鈴木誠 撮影：星野俊 ※本記事はギター・マガジン2026年10月号の「New Products Review」から転載したものです。 ※価格は本誌掲載時のものです。 UMBRELLA COMPANY HUME “クリエイティブでユニークな音楽機材”を標榜するアンブレラ・カンパニーのHUMEは、TRS入出力を備え、ディレイとリバーブの“間”を追求したペダル。 F&amp;Vスライダーの操作でディレイとリバーブが連続的に変化し、ディレイ音の広がり具合を操れる。 サウンドの個性をより強める3つのAUX MODEを用意。中でも“Morphing”は2つのセッティングを連続的なパラメーター変化で切り換え可能だ。 さらに、リバース・ディレイも加えられるなど、操作のたびに異世界へワープするような残響表現が得られる。 まだ見ぬ個性を創出する新感覚空間ペダルだ。 筐体背面。ステレオ入出力や、MIDIでのコントロールにも対応。Morphingモードはフット・スイッチによるトリガーだけでなく、エクスプレッション・ペダルによる操作も可 — ギター・マガジンWEB / score: 10 (空間系エフェクターペダルの紹介)</description>
-</item>
-<item>
-<title>HOTONE／PULZE JR〜バッテリー内蔵で機動性アップ　どこでも鳴らせる小型モデリング・アンプ</title>
-<link>https://guitarmagazine.jp/news/2026-1009-new-products-hotone/</link>
-<guid isPermaLink="true">https://guitarmagazine.jp/news/2026-1009-new-products-hotone/</guid>
-<pubDate>Fri, 09 Oct 2026 08:00:00 +0000</pubDate>
-<category>ギター・マガジンWEB</category>
-<description>HOTONEのモデリング・アンプの新製品、PULZE JRを紹介。 文：鈴木誠 撮影：星野俊 ※本記事はギター・マガジン2026年10月号の「New Products Review」から転載したものです。 ※価格は本誌掲載時のものです。 HOTONE PULZE JR 高品位なモデリング・サウンドを持つフロア・マルチなどで知られる新鋭ブランド、HOTONE。 本製品はモデリング・アンプ“PULZE”の小型版で、新たに充電式のバッテリーを内蔵。 20Wの出力を持ちつつ、電源につながずとも最大8時間の演奏が可能だ。モデリングはアンプが52種類、キャビネットが48種類、加えてエフェクトも多数を搭載。 専用スマホ・アプリ“Pulze Editor”を併用すれば、簡単にプリセットをシェアできるCloud機能や、AIによるプリセット生成／ステム分割機能も利用できる。 アプリ上で自在に組み合わせて音作りが可能な点も強みだ。 上面のコントロール・パネル。シンプルな操作部でありながら、3.5mmのヘッドフォン端子とAUX IN端子を装える。音楽再生はBluetoothオーディオ経由でも可能だ。 同モデル — ギター・マガジンWEB / score: 10 (小型モデリング・アンプの紹介)</description>
-</item>
-<item>
-<title>PLAYTECH／GX121C CELESTION SPEAKER CABINET〜憧れのセレッション入り！　衝撃コスパのスピーカー・キャビネット</title>
-<link>https://guitarmagazine.jp/news/2026-1009-new-products-playtech/</link>
-<guid isPermaLink="true">https://guitarmagazine.jp/news/2026-1009-new-products-playtech/</guid>
-<pubDate>Fri, 09 Oct 2026 08:00:00 +0000</pubDate>
-<category>ギター・マガジンWEB</category>
-<description>プレイテックのスピーカー・キャビネットの新製品、GX121C CELESTION SPEAKER CABINETを紹介。 文：鈴木誠 撮影：星野俊 ※本記事はギター・マガジン2026年10月号の「New Products Review」から転載したものです。 ※価格は本誌掲載時のものです。 PLAYTECH GX121C CELESTION SPEAKER CABINET 圧倒的なコスト・パフォーマンスで注目を集めるPLAYTECHより、名品スピーカー“Celestion Vintage 30”を搭載したスピーカー・キャビネットが登場。 12インチ×1発で重さ14kgという、小ぶりなアンプ・ヘッドと一緒に連れ出したい絶妙なサイズに仕上がっている。 驚きはその価格設定だ。本機に搭載される12インチのCelestion Vintage 30を単品購入するのとほぼ変わらない値段で、スピーカー・キャビネットが手に入るという衝撃コスパである。 サウンドは密度の高い中域と温かみのある低域、オープンバック構造による音の広がり感が特徴だ。 背面はオープンバック構造になっている。重量も抑えられ、持ち運び — ギター・マガジンWEB / score: 10 (スピーカー・キャビネットの新製品紹介)</description>
-</item>
-<item>
-<title>FENDER／MADE IN JAPAN LIMITED ACTIVE MODERN STRATOCASTER〜革新的なノイズ低減機能を搭載した日本製フェンダーの新境地</title>
-<link>https://guitarmagazine.jp/news/2026-1009-new-products-fender/</link>
-<guid isPermaLink="true">https://guitarmagazine.jp/news/2026-1009-new-products-fender/</guid>
-<pubDate>Fri, 09 Oct 2026 08:00:00 +0000</pubDate>
-<category>ギター・マガジンWEB</category>
-<description>フェンダーのエレクトリック・ギターの新製品、MADE IN JAPAN LIMITED ACTIVE MODERN STRATOCASTERを紹介。 文：鈴木誠 撮影：星野俊 ※本記事はギター・マガジン2026年10月号の「New Products Review」から転載したものです。 ※価格は本誌掲載時のものです。 FENDER MADE IN JAPAN LIMITED ACTIVE MODERN STRATOCASTER フェンダーの日本製ラインに、ハイエンド・ギターの演奏性とサウンドを提供する限定シリーズ“アクティブ・モダン”が登場。特徴は新開発のアクティブ・ノイズ・リダクション・システム“SILENCOIL System”だ。 独立したキャンセル・コイルがノイズ成分だけを正確に感知して、メインの信号にミックスしてノイズだけを打ち消すことにより、シングルコイル本来のトーンを損なわずにハムノイズを低減できる革新的な機能だ。しかも、ピックアップを交換しても使い続けられる設計。 ほかにも新設計のヒール・カット、クリーン・ブースト機能“ターボトーン”など、フェンダーの伝統と日本製の技術 — ギター・マガジンWEB / score: 10 (エレキギターの新製品紹介)</description>
+<category>AWS What's New</category>
+<description>Amazon SageMaker Unified Studio now supports custom Tooling blueprints, giving domain administrators the ability to define the foundation of every project by using their own AWS CloudFormation templates. Administrators can tailor project environments to meet organization-specific requirements, such as IAM role names that comply with company naming standards or custom permissions boundaries instead of AWS managed policies. Amazon SageMaker Unified Studio administrators start by authoring a CloudF — AWS What's New / score: 40 (SageMakerのカスタムツールブループリント対応)</description>
 </item>
 </channel>
 </rss>
