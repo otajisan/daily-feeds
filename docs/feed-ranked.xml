@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 09 Oct 2026 08:15:04 +0000</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 10:10:20 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Google Chrome 155」が公開 ～247件もの脆弱性を修正、「Critical」は4件／「Rust」言語で実装された「JPEG XL」のデコーダーを追加、「WebCrypto」に耐量子暗号</title>
@@ -23,20 +23,12 @@
 <description>The September 2026 security release for Next.js is now available — Next.js Blog / score: 95 (Next.jsの緊急セキュリティリリース)</description>
 </item>
 <item>
-<title>[90] スカイチケットに不正アクセス、1464万件の情報流出か</title>
-<link>https://ascii.jp/elem/000/004/441/4441615/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/441/4441615/?rss</guid>
-<pubDate>Fri, 09 Oct 2026 07:55:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>アドベンチャーは10月9日、同社の比較予約サービス「skyticket」のシステムが不正アクセスを受け、ユーザーの個人情報が外部に流出した、または流出した恐れがあることを公表した。 — ASCII.jp / score: 90 (大規模な個人情報の不正アクセス事案)</description>
-</item>
-<item>
-<title>[90] JR東日本、「えきねっと」などで200万件超の情報漏えいか　IDCフロンティアへの不正アクセスで</title>
-<link>https://ascii.jp/elem/000/004/441/4441558/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/441/4441558/?rss</guid>
-<pubDate>Fri, 09 Oct 2026 07:25:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>東日本旅客鉄道（JR東日本）は10月9日、同社の「えきねっと」および「大人の休日倶楽部」の会員情報およそ200万件が外部に流出したおそれがあると公表した。 — ASCII.jp / score: 90 (大規模サービスの重大な情報漏えい事案)</description>
+<title>[90] アメリカ 運転免許証などの情報 1億5000万件以上が漏えいか | NHKニュース</title>
+<link>https://news.web.nhk/newsweb/na/nd-20261009de57294</link>
+<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261009de57294</guid>
+<pubDate>Fri, 09 Oct 2026 08:13:07 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>企業への不正アクセスによる被害が相次ぐ中、アメリカでも、不正アクセスによって、個人の運転免許証などの情報が漏えいする被害が明らかになっています。 南部ルイジアナ州に本社があるID確認のサービスを手… — はてなブックマーク テクノロジー / score: 90 (1.5億件の大規模な個人情報漏えいインシデント)</description>
 </item>
 <item>
 <title>[90] JR東 個人情報のべ206万件漏洩か</title>
@@ -53,6 +45,14 @@
 <pubDate>Fri, 09 Oct 2026 06:15:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>ロシアのIT大手「Yandex(ヤンデックス)」が運営するデータセンターが2026年10月8日にウクライナのドローン攻撃を受け、大規模な火災が発生しました。データセンターは稼働停止に追い込まれ、ロシア国内の多数のオンラインサービスで障害が報告されています。攻撃を受けた施設にはAI開発に使用するスーパーコンピューター2基も設置されており、被害が懸念されています。 続きを読む... — GIGAZINE / score: 90 (ロシアDCのドローン攻撃被災とスパコン停止の重大な事件)</description>
+</item>
+<item>
+<title>[90] 「スカイチケット」に不正アクセス、計1467万件の個人情報流出　ハッシュ化されたパスワードも</title>
+<link>https://www.itmedia.co.jp/news/article/2610/09/2000002168/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/09/2000002168/</guid>
+<pubDate>Fri, 09 Oct 2026 05:57:56 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>旅行予約サイト「skyticket」（スカイチケット）を運営するアドベンチャー（東京都渋谷区）は10月9日、サーバ、業務管理システム、バス予約サービスの計3件で不正アクセスがあったと発表した。流出・閲覧の恐れがあるものを含め、合計の対象件数は約1467万件に上る。対象には返金先の口座情報やバス予約情報も含まれる。... — はてなブックマーク テクノロジー / score: 90 (約1400万件の個人情報流出という重大事案)</description>
 </item>
 <item>
 <title>[90] 米国防総省にも不正アクセス　個人情報300万人分が平文で漏えいか……発覚までに9カ月</title>
@@ -159,6 +159,14 @@
 <description>ソフトバンクの子会社の「IDCフロンティア」のシステムがサイバー攻撃を受けた影響で、このシステムを利用するJR東日本は、「えきねっと」などのサービスで、最大200万件あまりのメールアドレスなどの会員情… — はてなブックマーク テクノロジー / score: 87 (IDCフロンティア経由での大規模情報漏えいニュース)</description>
 </item>
 <item>
+<title>[85] JR東でも600万件漏洩か　ビューカード所有者や「えきねっと」会員など</title>
+<link>https://www.sankei.com/article/20261009-7NY6BDKTKJKKDKMPWBMAGPKY3E/</link>
+<guid isPermaLink="true">https://www.sankei.com/article/20261009-7NY6BDKTKJKKDKMPWBMAGPKY3E/</guid>
+<pubDate>Fri, 09 Oct 2026 07:32:56 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>JR東日本は9日、クレジットカードのビューカードなどグループのサービスで延べ約609万件のメールアドレスなどの個人情報が漏洩した恐れがあると発表した。原因はソフトバンク子会社のIDCフロンティア（東京）が提供する法人向けクラウドサービスが不正アクセスを受けたため。 氏名や住所、カード番号は流出していないと... — はてなブックマーク テクノロジー / score: 85 (JR東日本関連で600万件超の個人情報漏えい)</description>
+</item>
+<item>
 <title>[85] 「Microsoft Edge 155」が公開 ～「JPEG XL」デコードに対応、AIタブ整理機能も強化／大量のセキュリティ修正も</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2146970.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2146970.html</guid>
@@ -205,14 +213,6 @@
 <pubDate>Thu, 08 Oct 2026 21:00:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>2026年10月6日、イギリスのファッション通販サイト「ASOS」の公式アプリから、同社を脅迫するプッシュ通知が一部の顧客に届きました。通知はASOSの担当部署に宛てたもので、連絡に応じなければデータを公開すると脅す内容でした。 続きを読む... — GIGAZINE / score: 85 (ECサイトのセキュリティインシデントと脅迫事例)</description>
-</item>
-<item>
-<title>[85] 【速報】リーマン予想に進展があったかもしれない【零点の評価から何が言えるの？】 - tsujimotterのノートブック</title>
-<link>https://tsujimotter.hatenablog.com/entry/riemann-hypothesis-progression-oct-2026</link>
-<guid isPermaLink="true">https://tsujimotter.hatenablog.com/entry/riemann-hypothesis-progression-oct-2026</guid>
-<pubDate>Thu, 08 Oct 2026 12:12:38 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>速報です！ OpenAIから、数学の未解決問題を 372個 解いたとするニュースが2026年10月7日に入ってきました。 解けた問題のリストと、すべてのプレプリントがGithub上に公開されています。 github.com 以下は、𝕏（旧Twitter）上のOpenAIの投稿の引用です。 私たちは、内部の最先端モデルによって生成された幅広い新しい数... — はてなブックマーク テクノロジー / score: 85 (数学の未解決問題に関するAIの大きな進展)</description>
 </item>
 <item>
 <title>[85] 情報漏えいの公表急増――いま増えているのは「攻撃」ではなく「発覚」 | SECURITY DRIVE</title>
@@ -519,6 +519,14 @@
 <description>GitLabは2026年9月17日、GitLabの新バージョンGitLab 19.4をリリースした。 — gihyo.jp / score: 80 (GitLab 19.4のリリースと新機能の紹介)</description>
 </item>
 <item>
+<title>[75] 「Microsoft Dev Box」が2028年9月18日に終了へ ～移行先は「Windows 365」／すでにメンテナンスモード、新機能の開発は予定されず</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2146969.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2146969.html</guid>
+<pubDate>Fri, 09 Oct 2026 08:53:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>開発者向けクラウドワークステーション「Microsoft Dev Box」が、米国時間（以下同）2028年9月18日に終了するとのこと。米Microsoftが「Azure」の更新情報で告知している。終了に向けたプロセスは、2026年9月14日からすでに始まっているという。 — 窓の杜 / score: 75 (開発者向けクラウド環境の終了と移行告知)</description>
+</item>
+<item>
 <title>[75] これには驚いた！ 今度はExcelやWordやPower Pointをオープンソースで再構築、Win、Mac、Linux、Web対応で無料</title>
 <link>https://coliss.com/wp-content/cache/all/articles/build-websites/operation/work/3-microsoft-apps-open-sourced.html/index.html</link>
 <guid isPermaLink="true">https://coliss.com/wp-content/cache/all/articles/build-websites/operation/work/3-microsoft-apps-open-sourced.html/index.html</guid>
@@ -797,14 +805,6 @@
 <pubDate>Tue, 29 Sep 2026 20:17:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Today, AWS announces the general availability of GPT-6.1 Sol from OpenAI on Amazon Bedrock. An upgrade to GPT-6 Sol, GPT-6.1 Sol delivers exceptionally strong performance on agentic coding, computer use, and professional work. According to OpenAI, it approaches GPT-6 Astra across demanding evaluations at roughly one-fifth of the cost, giving developers more room to build and run capable agents at scale. The Amazon Bedrock inference engine delivers the performance, security, and reliability requi — AWS What's New / score: 75 (OpenAIの最新モデルがAmazon Bedrockで利用可能になり影響が大きい)</description>
-</item>
-<item>
-<title>[75] Google Cloud、AIエージェントからの大量アクセスをPostgreSQLのプライマリDBから切り離せる「PostgreSQL for agents in AlloyDB」発表</title>
-<link>https://www.publickey1.jp/blog/26/google_cloudaipostgresqldbpostgresql_for_agents_in_alloydb.html</link>
-<guid isPermaLink="true">https://www.publickey1.jp/blog/26/google_cloudaipostgresqldbpostgresql_for_agents_in_alloydb.html</guid>
-<pubDate>Tue, 29 Sep 2026 15:46:18 +0000</pubDate>
-<category>Publickey</category>
-<description>Google Cloudは、本番環境で動作しているPostgreSQLの処理に影響を与えないよう、AIエージェントからの読み取りワークロード用にサンドボックス化されたPostgreSQLのデータベースインスタンスを数秒でプロビジョニングする... — Publickey / score: 75 (AIエージェント向けAlloyDBの新機能発表)</description>
 </item>
 </channel>
 </rss>
