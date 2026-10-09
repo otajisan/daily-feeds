@@ -4,8 +4,32 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 09 Oct 2026 16:10:29 +0000</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 18:11:47 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Anthropic Claude Sonnet 5.5 and Claude Opus 5.5 are now available on Kiro in AWS GovCloud (US)</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/06/kiro-claude-5-5-aws-govcloud-us/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/06/kiro-claude-5-5-aws-govcloud-us/</guid>
+<pubDate>Fri, 09 Oct 2026 17:13:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Two new Anthropic models are now available in the Kiro IDE and CLI for the AWS GovCloud (US) Regions. Claude Opus 5.5 is Anthropic's most capable Opus model yet and a step up from Opus 5 on long-running agentic coding work. Opus 5.5 thinks adaptively on every request, deciding how much effort each task needs, and completes tasks with roughly 40% fewer tool calls and about half the tokens of Opus 5 in Kiro's internal benchmarking. Available with a 1M context window and 2.0x credit multiplier, dow — AWS What's New / score: 50 (AWS GovCloudにおける新Anthropicモデルの提供)</description>
+</item>
+<item>
+<title>Amazon Connect Customer now provides automated checks to improve performance evaluation forms</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-connect-customer-automated-checks-evaluation-forms/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-connect-customer-automated-checks-evaluation-forms/</guid>
+<pubDate>Fri, 09 Oct 2026 17:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon Connect Customer now suggests changes to performance evaluation forms that improve the accuracy of evaluations automatically filled by AI. While setting up an evaluation form, managers can run an automated check that compares the form against best practices with a single click. Managers then receive a list of evaluation questions that are missing context for AI to score reliably, along with suggestions to make them more specific. For example, the check might flag "Did the agent provide a  — AWS What's New / score: 40 (Amazon Connectの評価フォーム自動チェック機能)</description>
+</item>
+<item>
+<title>Amazon S3 Vectors metadata pre-filtering is now available in AWS GovCloud (US) Regions</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/s3-vectors-metadata-pre-filtering-in-govcloud-regions/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/s3-vectors-metadata-pre-filtering-in-govcloud-regions/</guid>
+<pubDate>Fri, 09 Oct 2026 17:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon S3 Vectors metadata pre-filtering is now available in the AWS GovCloud (US-East) and AWS GovCloud (US-West) Regions. Pre-filtering evaluates metadata filters before running similarity search, returning up to 5x more of the matching vectors when your filter is selective. S3 Vectors also adds a prefix match operator ($startsWith) for filtering on values like paths and URLs. Together, these improvements give your retrieval-augmented generation (RAG), agentic, and semantic-search applications — AWS What's New / score: 45 (Amazon S3 Vectorsのメタデータプレフィルタリング)</description>
+</item>
 <item>
 <title>Modernizing Unstructured Data Workflows: Alteryx Live Query meets Google Cloud BigQuery</title>
 <link>https://cloud.google.com/blog/products/data-analytics/modernize-unstructured-data-workloads-with-alteryx-and-bigquery/</link>
@@ -13,6 +37,14 @@
 <pubDate>Fri, 09 Oct 2026 16:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>Alteryx One Live Query and Google Cloud BigQuery redefine how enterprises handle complex, unstructured data at scale by reducing reliance on disconnected tools, minimizing data movement, and enabling warehouse-native execution. Live Query provides an intuitive, browser-based environment that allows business users to build sophisticated data pipelines without writing a single line of code. When paired with the scale and performance of BigQuery, this duo enables secure SQL pushdown, meaning data t — Google Cloud Blog / score: 50 (クラウドデータ基盤とBIツールの連携に関する記事)</description>
+</item>
+<item>
+<title>Cloudflareに入社します | maguro​.dev</title>
+<link>https://maguro.dev/blog/joining-cloudflare/</link>
+<guid isPermaLink="true">https://maguro.dev/blog/joining-cloudflare/</guid>
+<pubDate>Fri, 09 Oct 2026 15:24:14 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Senior Systems Engineer Cloudflareでのタイトルは Senior Systems Engineer になる。 よくあるSoftware Engineerとは違ってSystems Engineer。そのままカタカナにするとシステムズエンジニアだが、日本でいうシステムエンジニア（SE）とはだいぶ違う。 dodaによると、日本のSEは「システム全体の要件定義や設計、構築... — はてなブックマーク テクノロジー / score: 30 (個人の入社エントリと職種についての感想)</description>
 </item>
 <item>
 <title>Impactful scheduling for GPU clusters</title>
@@ -77,6 +109,14 @@
 <pubDate>Fri, 09 Oct 2026 13:35:30 +0000</pubDate>
 <category>iPhone Mania</category>
 <description>Appleは10月8日から、iOS26を使用しているiPhoneの「設定」→「一般」→「ソフトウェアアップデート」に表示される更新候補の優先順位を変更し、メインのアップデート欄に「iOS27.0.1」を表示するようになっ […] — iPhone Mania / score: 60 (AppleのOSアップデート推奨方針の変更。)</description>
+</item>
+<item>
+<title>Deno is joining Cloudflare</title>
+<link>https://blog.cloudflare.com/deno-joins-cloudflare/</link>
+<guid isPermaLink="true">https://blog.cloudflare.com/deno-joins-cloudflare/</guid>
+<pubDate>Fri, 09 Oct 2026 13:25:43 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>The Deno team is joining Cloudflare to radically simplify self-hosting Workers and Durable Objects so developers can use the same primitives in more places. For what this means and how it came about, here’s the story from Ryan Dahl, Senior Principal Engineer, and Kenton Varda, Distinguished Engin... — はてなブックマーク テクノロジー / score: 80 (DenoチームのCloudflare参加という大きな動向)</description>
 </item>
 <item>
 <title>Deno is joining Cloudflare | Deno</title>
@@ -415,6 +455,14 @@
 <description>これでネジザウルスが不用に!? 本気で“なめないドライバー”Wera、PB SWISS、アネックスは何が違うのか？ 【テレワークグッズ・ミニレビュー 第169回】 — はてなブックマーク テクノロジー / score: 25 (工具に関するニッチなミニレビュー記事。)</description>
 </item>
 <item>
+<title>【第4報】不正アクセスによる障害への対応体制について | IDCフロンティア</title>
+<link>https://www.idcf.jp/news/topics/20261009001</link>
+<guid isPermaLink="true">https://www.idcf.jp/news/topics/20261009001</guid>
+<pubDate>Fri, 09 Oct 2026 09:45:26 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>2026年10月9日 このたびは、多大なるご心配とご迷惑をおかけしておりますことを深くお詫び申し上げます。 2026年10月7日午前3時40分頃から発生している、当社クラウドサービス「IDCFクラウド」※に対する不正アクセスによる障害への対応体制についてお知らせします。 ■緊急対策本部の設置 2026年10月7日午前9時に緊急対策... — はてなブックマーク テクノロジー / score: 85 (クラウドサービスの重大な不正アクセス障害)</description>
+</item>
+<item>
 <title>Amazfit、「プライム感謝祭」に参加!最新のHYROXモードを搭載した「Balance 3」が初のセール対象に。ドラマ『俺たちの箱根駅伝』で使用のモデルも対象、最大約49%OFFの特別価格に</title>
 <link>https://ascii.jp/elem/000/004/441/4441693/?rss</link>
 <guid isPermaLink="true">https://ascii.jp/elem/000/004/441/4441693/?rss</guid>
@@ -565,14 +613,6 @@
 <pubDate>Fri, 09 Oct 2026 09:05:00 +0000</pubDate>
 <category>ASCII.jp</category>
 <description>秋アニメ特集第11回は、甲子園に向けてついに西東京大会決勝戦が始まる『ダイヤのA actⅡ -Second Season-』に、『ケロロ軍曹☆』『彼方から』など、5作品を紹介。 — ASCII.jp / score: 10 (アニメの放送情報のため)</description>
-</item>
-<item>
-<title>Claudeにダッシュボードや説明用動画の作成機能。Designは無料でも利用可能に</title>
-<link>https://pc.watch.impress.co.jp/docs/news/2147110.html</link>
-<guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2147110.html</guid>
-<pubDate>Fri, 09 Oct 2026 09:04:19 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Claudeにダッシュボードや説明用動画の作成機能。Designは無料でも利用可能に — はてなブックマーク テクノロジー / score: 70 (Claudeの新機能追加と無料化に関する主要なアップデート。)</description>
 </item>
 <item>
 <title>Shokzの各種ワイヤレスイヤホンが最大30％OFFに ｰ 10月13日から『Shokz 2026 秋のプライムデーセール』開催へ</title>
@@ -765,46 +805,6 @@
 <pubDate>Fri, 09 Oct 2026 08:00:00 +0000</pubDate>
 <category>ギター・マガジンWEB</category>
 <description>フェンダーのエレクトリック・ギターの新製品、MADE IN JAPAN LIMITED ACTIVE MODERN STRATOCASTERを紹介。 文：鈴木誠 撮影：星野俊 ※本記事はギター・マガジン2026年10月号の「New Products Review」から転載したものです。 ※価格は本誌掲載時のものです。 FENDER MADE IN JAPAN LIMITED ACTIVE MODERN STRATOCASTER フェンダーの日本製ラインに、ハイエンド・ギターの演奏性とサウンドを提供する限定シリーズ“アクティブ・モダン”が登場。特徴は新開発のアクティブ・ノイズ・リダクション・システム“SILENCOIL System”だ。 独立したキャンセル・コイルがノイズ成分だけを正確に感知して、メインの信号にミックスしてノイズだけを打ち消すことにより、シングルコイル本来のトーンを損なわずにハムノイズを低減できる革新的な機能だ。しかも、ピックアップを交換しても使い続けられる設計。 ほかにも新設計のヒール・カット、クリーン・ブースト機能“ターボトーン”など、フェンダーの伝統と日本製の技術 — ギター・マガジンWEB / score: 10 (エレキギターの新製品紹介)</description>
-</item>
-<item>
-<title>Apple、｢iPhone 18 Pro｣シリーズの生産を削減へ ｰ 価格高騰による需要低迷が要因か</title>
-<link>https://taisy0.com/2026/10/09/228641.html</link>
-<guid isPermaLink="true">https://taisy0.com/2026/10/09/228641.html</guid>
-<pubDate>Fri, 09 Oct 2026 07:44:31 +0000</pubDate>
-<category>気になる、記になる…</category>
-<description>Nikkei Asiaが、Appleが「iPhone 18 Pro」シリーズの生産を削減すると報じています。 「iPhone 18 Pro」シリーズは先月に発売されたばかりですが、消費者からの反応は予想よりも鈍く、App […] — 気になる、記になる… / score: 40 (Apple製ハードウェアの生産削減に関する動向)</description>
-</item>
-<item>
-<title>AIが何でもお答え。子どもの好奇心を満たすためのスマホ「フレックル」</title>
-<link>https://www.gizmodo.jp/article/freckl-ai-smartphone-for-kids/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/freckl-ai-smartphone-for-kids/</guid>
-<pubDate>Fri, 09 Oct 2026 07:35:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>四次元ポケットから出てきそう。コレは何？ アレは何？ と好奇心が旺盛な子供。大人でも知らないことを聞かれると、どう答えて良いか分かりませんよね。AIならどんな答えも即座に出てくる今、子供用に冒険を手助けするAIスマホが生まれました。好奇心に… — ギズモード・ジャパン / score: 20 (子供向けAI端末の製品紹介)</description>
-</item>
-<item>
-<title>山中で遭難の16歳少年、登山計画にAI「クロード」利用　救助隊は「ルートの盲信」警鐘</title>
-<link>https://www.sankei.com/article/20261009-IXIM4OI7JZNLZHZD5J3RKV2HAI/</link>
-<guid isPermaLink="true">https://www.sankei.com/article/20261009-IXIM4OI7JZNLZHZD5J3RKV2HAI/</guid>
-<pubDate>Fri, 09 Oct 2026 07:33:18 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>カナダ西部ブリティッシュコロンビア州の山中で遭難した少年が救助された現場を写した画像。救助隊「ノースショア・レスキュー」が4日に公開した（同隊のフェイスブックから） カナダ西部ブリティッシュコロンビア州の山中で遭難した16歳の少年が登山計画に生成AI（人工知能）を利用していたことが物議をかもしている。... — はてなブックマーク テクノロジー / score: 60 (生成AIの登山計画利用とリスクに関する示唆)</description>
-</item>
-<item>
-<title>「LibreOffice 26.8.1」が公開 ～トラブルで発表から1週間遅れで提供開始／「MS Office」互換性とインポート処理の文字コード対応を強化</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2146951.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2146951.html</guid>
-<pubDate>Fri, 09 Oct 2026 07:26:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>The Document Foundationは10月2日（中央ヨーロッパ夏時間）、「LibreOffice 26.8.1」を発表した。Windows版のパッケージングやダウンロードを管理するサーバーのトラブルで1週間ほど公開が遅れていたが、現在は正常にダウンロードが可能。 — 窓の杜 / score: 60 (LibreOfficeのマイナーアップデートと修正)</description>
-</item>
-<item>
-<title>JR東 個人情報のべ206万件漏洩か</title>
-<link>https://news.yahoo.co.jp/pickup/6598137?source=rss</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6598137?source=rss</guid>
-<pubDate>Fri, 09 Oct 2026 07:19:11 +0000</pubDate>
-<category>Yahoo!ニュース IT</category>
-<description> — Yahoo!ニュース IT / score: 90 (JR東日本の大規模な個人情報漏洩に関するニュース)</description>
 </item>
 </channel>
 </rss>
