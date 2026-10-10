@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sat, 10 Oct 2026 08:12:04 +0000</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 10:08:53 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Google Chrome 155」が公開 ～247件もの脆弱性を修正、「Critical」は4件／「Rust」言語で実装された「JPEG XL」のデコーダーを追加、「WebCrypto」に耐量子暗号</title>
@@ -119,6 +119,14 @@
 <description>Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders. — OpenAI News / score: 90 (大規模AIカンファレンスの総括で重要度が高い。)</description>
 </item>
 <item>
+<title>[85] 個人情報漏洩が日常になってしまった世界でどうしていくべきか</title>
+<link>https://nyosegawa.com/posts/data-leak-era/</link>
+<guid isPermaLink="true">https://nyosegawa.com/posts/data-leak-era/</guid>
+<pubDate>Sat, 10 Oct 2026 07:36:44 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>こんにちは！逆瀬川ちゃん (@gyakuse) です！ 今日は個人情報がどんどん流出していく時代に、わたしたちは何をすればいいのかを考えていきたいと思います。 今週だけでも さいきん個人情報の漏洩のニュースが本当に多いです。10月7日から9日にかけては政府機関が相次いで「不正アクセスによる漏洩が続いている」と注意を... — はてなブックマーク テクノロジー / score: 85 (多発する個人情報漏洩に対する警鐘と対策)</description>
+</item>
+<item>
 <title>[85] 知り合いがAIに作らせたクローラーに大量のサイトを読み込ませたら、プロンプトインジェクションを受けてPCがマルウェアに感染「こういう事故はこれから増えていく気が…」</title>
 <link>https://togetter.com/li/2756400</link>
 <guid isPermaLink="true">https://togetter.com/li/2756400</guid>
@@ -141,14 +149,6 @@
 <pubDate>Fri, 09 Oct 2026 22:48:37 +0000</pubDate>
 <category>Simon Willison</category>
 <description>Deno is joining Cloudflare The Deno team released the first version of celld back in August - their open source implementation of the Durable Objects pattern from Cloudflare Workers. Today, Cloudflare are acquiring Deno outright, with the goal of building on celld to "make workerd self-hosting a first-class supported way to build and run apps using the Workers programming model" (see the Cloudflare blog .) The bad news is that Deno itself will not be maintained by Cloudflare beyond the next year — Simon Willison / score: 85 (DenoがCloudflareに加入する重大ニュース)</description>
-</item>
-<item>
-<title>[85] 「今回は違う」サイバー猛攻撃　企業はIT資産の総点検を - 日本経済新聞</title>
-<link>https://www.nikkei.com/article/DGXZQOUC0922R0Z01C26A0000000/</link>
-<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUC0922R0Z01C26A0000000/</guid>
-<pubDate>Fri, 09 Oct 2026 21:34:27 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>大和証券や「タイムズカー」のパーク24など、サイバー攻撃を受けた企業による情報漏洩が相次いでいる。件数が急増する一方で、被害のパターンはバラバラだ。AIが悪用されているとの指摘もあるものの因果関係を示す証拠は無い。立命館大学情報理工学部の上原哲太郎教授は「攻撃の質が変わり、対象の裾野が広がっているこ... — はてなブックマーク テクノロジー / score: 85 (サイバー攻撃の急増に関する重要警鐘)</description>
 </item>
 <item>
 <title>[85] 「Microsoft Edge 155」が公開 ～「JPEG XL」デコードに対応、AIタブ整理機能も強化／大量のセキュリティ修正も</title>
@@ -343,28 +343,12 @@
 <description>漏えいしたのはメールアドレスのみで、氏名、電話番号、パスワード、クレジットカード情報などは含まれていない。 原因は、システムの一部機能の仕様の不備を突いた海外からの不正アクセス。10月6日に不正アクセスを確認し、海外からのアクセスを全て遮断してプログラムを改修した。修正を終え、セキュリティ対策と監視... — はてなブックマーク テクノロジー / score: 80 (大規模サービスのメアド漏えいと脆弱性突く不正アクセス)</description>
 </item>
 <item>
-<title>[80] 委託先システムへの不正アクセスに伴う情報漏えいに関するお知らせとお詫び｜LINEヤフー株式会社</title>
-<link>https://www.lycorp.co.jp/ja/privacy-security/announcement/020892/</link>
-<guid isPermaLink="true">https://www.lycorp.co.jp/ja/privacy-security/announcement/020892/</guid>
-<pubDate>Fri, 09 Oct 2026 13:54:51 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>このたび、当社委託先であるコミューン株式会社提供のコミュニティプラットフォーム「Commune」において、第三者による不正アクセスが発生し、その影響により、当社の提供する事業者向けデスクリサーチツール「DS.INSIGHT」内のコミュニティ機能「DS.LAB」を利用している一部のユーザー情報が、閲覧・取得された可能性が... — はてなブックマーク テクノロジー / score: 80 (委託先起因の不正アクセスと情報漏えいの連鎖)</description>
-</item>
-<item>
 <title>[80] Googleが仕事を自動で進めるAI「Geminiエージェント」を発表、情報調査・資料作成・プログラミングまで対応</title>
 <link>https://gigazine.net/news/20261009-gemini-agent/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261009-gemini-agent/</guid>
 <pubDate>Fri, 09 Oct 2026 04:45:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>Googleが2026年10月8日に開催したイベント「Gemini at Work 2026」で、仕事に関するさまざまな作業をまとめて任せられる汎用AIエージェント「Geminiエージェント」を発表しました。情報調査や資料作成、画像生成、プログラミングなどを1つの画面から依頼でき、AIが必要な手順を考えて作業を進めるとのことです。 続きを読む... — GIGAZINE / score: 80 (Googleの汎用AIエージェント発表と業務自動化の動向)</description>
-</item>
-<item>
-<title>[80] Discordユーザーのデータが最大約2800万件盗まれる事件発生、サーバー監視ボット「Double Counter」への攻撃で</title>
-<link>https://gigazine.net/news/20261009-discord-bot-double-counter-hacked/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261009-discord-bot-double-counter-hacked/</guid>
-<pubDate>Fri, 09 Oct 2026 02:30:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>Tellterという企業が提供するDiscord向けサーバー監視ボット「Double Counter」が多段階攻撃の標的となり、メールアドレス約100万件のほか、約2800万件のDiscordユーザーIDとユーザー名が盗み出されたことが分かりました。 続きを読む... — GIGAZINE / score: 80 (Discord関連ボット経由の2800万件データ流出)</description>
 </item>
 <item>
 <title>[80] 「Microsoft Execution Containers」が一般提供、AIエージェントを安全に動かす基盤／Windows/macOS/Linuxで「Rust」「.NET」「Node.js」対応のSDKを提供</title>
@@ -533,6 +517,14 @@
 <pubDate>Thu, 08 Oct 2026 23:00:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 75 (Next.jsのメジャーアップデートと新機能推奨)</description>
+</item>
+<item>
+<title>[75] サプライチェーン攻撃の40年 AI時代の依存を守る入門ガイド</title>
+<link>https://qiita.com/kai_kou/items/debd8b05019aa41920f9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/kai_kou/items/debd8b05019aa41920f9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Thu, 08 Oct 2026 22:53:16 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>はじめに npm install を打つとき、その先で何百ものパッケージの作者を信頼していることを意識する人は多くありません。ところが 2025〜2026 年の npm や PyPI の主な事件を並べると、そのいずれでも侵入口になったのは目新しい脆弱性よりも、開発者が信頼... — Qiita 人気記事 / score: 75 (AI時代のサプライチェーン攻撃の注意喚起)</description>
 </item>
 <item>
 <title>[75] 攻撃者はWebアプリのどこを狙う？ 初心者でも今すぐできるセキュリティチェックリスト</title>
@@ -805,6 +797,14 @@
 <pubDate>Mon, 28 Sep 2026 19:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences. — OpenAI News / score: 75 (OpenAIの豪州でのサイバー防衛支援と謝罪。)</description>
+</item>
+<item>
+<title>[75] AWS、AIエージェントを自作できるツール「Strandsハーネス」をオープンソースで公開。特定のLLMに依存せず入れ替え可能、任意のコンテナ環境にデプロイ</title>
+<link>https://www.publickey1.jp/blog/26/awsaistrandsllm.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/awsaistrandsllm.html</guid>
+<pubDate>Mon, 28 Sep 2026 15:01:25 +0000</pubDate>
+<category>Publickey</category>
+<description>Amazon Web Services（AWS）は、GPTやClaude、Gemini、Ollamaなど主要なLLMやLLMランタイムを基にした高性能なAIエージェントを簡単に自作できるツール「Strandsハーネス」をオープンソースで公開... — Publickey / score: 75 (主要なLLM対応AIエージェントOSS公開のため)</description>
 </item>
 </channel>
 </rss>
