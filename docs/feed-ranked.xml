@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sat, 10 Oct 2026 12:13:41 +0000</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 14:09:04 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Google Chrome 155」が公開 ～247件もの脆弱性を修正、「Critical」は4件／「Rust」言語で実装された「JPEG XL」のデコーダーを追加、「WebCrypto」に耐量子暗号</title>
@@ -23,14 +23,6 @@
 <description>The September 2026 security release for Next.js is now available — Next.js Blog / score: 95 (Next.jsの緊急セキュリティリリース)</description>
 </item>
 <item>
-<title>[90] 「お前たちのクラウドはわれわれのもの」　IDCFクラウドの管理画面に出た攻撃者のメッセージ　内容に運営元は</title>
-<link>https://www.itmedia.co.jp/news/article/2610/09/2000002184/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/09/2000002184/</guid>
-<pubDate>Fri, 09 Oct 2026 13:16:53 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>ランサムウェア攻撃を受けた「IDCFクラウド」を巡り、攻撃者を名乗る人物のメッセージが管理コンソールに表示されたとする画像が、10月7日からX上で拡散している。画像には、攻撃者によるものとみられる英語のメッセージや、被害規模を示す具体的な数字が記されている。ITmedia NEWSは、画像の内容について運営元のIDCフ... — はてなブックマーク テクノロジー / score: 90 (クラウドの深刻なセキュリティインシデント)</description>
-</item>
-<item>
 <title>[90] v3.15.0</title>
 <link>https://github.com/python/cpython/releases/tag/v3.15.0</link>
 <guid isPermaLink="true">https://github.com/python/cpython/releases/tag/v3.15.0</guid>
@@ -45,6 +37,14 @@
 <pubDate>Fri, 09 Oct 2026 07:19:11 +0000</pubDate>
 <category>Yahoo!ニュース IT</category>
 <description> — Yahoo!ニュース IT / score: 90 (JR東日本の大規模な個人情報漏洩に関するニュース)</description>
+</item>
+<item>
+<title>[90] JR東「えきねっと」「大人の休日倶楽部」で漏洩か　のべ206万件：朝日新聞</title>
+<link>https://www.asahi.com/articles/ASVB91R1GVB9ULFA011M.html</link>
+<guid isPermaLink="true">https://www.asahi.com/articles/ASVB91R1GVB9ULFA011M.html</guid>
+<pubDate>Fri, 09 Oct 2026 06:29:02 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>JR東日本は9日、「えきねっと」と「大人の休日倶楽部」の会員のべ約206万件のメールアドレスなどの個人情報が漏洩（ろうえい）した可能性があることを明らかにした。ソフトバンクの子会社IDCフロンティア… — はてなブックマーク テクノロジー / score: 90 (大規模サービスの重大な個人情報漏洩インシデント)</description>
 </item>
 <item>
 <title>[90] ロシアのIT大手・Yandexのデータセンターがウクライナのドローン攻撃で大規模炎上、AI開発用スパコン2基も被災の可能性</title>
@@ -109,6 +109,14 @@
 <pubDate>Tue, 29 Sep 2026 10:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders. — OpenAI News / score: 90 (大規模AIカンファレンスの総括で重要度が高い。)</description>
+</item>
+<item>
+<title>[85] Google Chrome、同意なしで4GBのローカルAIモデルをダウンロードさせている</title>
+<link>https://www.gizmodo.jp/article/2610-google-chrome-gemini-nano-4gb-model/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/2610-google-chrome-gemini-nano-4gb-model/</guid>
+<pubDate>Sat, 10 Oct 2026 14:00:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>Google Chromeが無断で4GBのAIモデル「Gemini Nano」をデバイスに保存していたことが判明。その目的や実力を検証します。 — ギズモード・ジャパン / score: 85 (Chromeが無断で巨大AIモデルをダウンロードしていた問題)</description>
 </item>
 <item>
 <title>[85] 個人情報漏洩が日常になってしまった世界でどうしていくべきか</title>
@@ -797,14 +805,6 @@
 <pubDate>Sat, 10 Oct 2026 10:23:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>OpenAIは2026年10月9日、公式XアカウントのOpenAI Developersで、Windows上のCodex向けに、Microsoft Execution Containers（MXC）を使う新しいサンドボックスモードを開発したと発表した。 — gihyo.jp / score: 70 (OpenAI関連ツールや新機能に関するアップデート)</description>
-</item>
-<item>
-<title>[70] [AINews] TypeSafe/Jev at &gt;$100M ARR, $7.5B valuation 3 weeks after launch</title>
-<link>https://www.latent.space/p/ainews-typesafejev-at-100m-arr-75b</link>
-<guid isPermaLink="true">https://www.latent.space/p/ainews-typesafejev-at-100m-arr-75b</guid>
-<pubDate>Sat, 10 Oct 2026 06:45:57 +0000</pubDate>
-<category>Latent Space</category>
-<description>As you can see in the AINews X recap section below, everyone on earth has cloned the Jev API, but only one company can ever create the category. TypeSafe announced their “ Series AI ” and Sequoia “ leaked ” that they crossed 100M ARR in their first week. Although there are cynics and accusations of astroturfing , we hope it is evident that our Jev pod was 100% authentic. AI News for 10/8/2026-10/9/2026. We checked 12 subreddits, 544 Twitters and no further Discords. AINews’ website lets you sear — Latent Space / score: 70 (AIスタートアップの高額資金調達の話題)</description>
 </item>
 </channel>
 </rss>
