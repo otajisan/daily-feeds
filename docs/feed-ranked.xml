@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sat, 10 Oct 2026 04:12:19 +0000</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 06:15:50 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Google Chrome 155」が公開 ～247件もの脆弱性を修正、「Critical」は4件／「Rust」言語で実装された「JPEG XL」のデコーダーを追加、「WebCrypto」に耐量子暗号</title>
@@ -37,14 +37,6 @@
 <pubDate>Fri, 09 Oct 2026 13:16:53 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>ランサムウェア攻撃を受けた「IDCFクラウド」を巡り、攻撃者を名乗る人物のメッセージが管理コンソールに表示されたとする画像が、10月7日からX上で拡散している。画像には、攻撃者によるものとみられる英語のメッセージや、被害規模を示す具体的な数字が記されている。ITmedia NEWSは運営元のIDCフロンティアに、画像の... — はてなブックマーク テクノロジー / score: 90 (クラウドの深刻なセキュリティインシデント)</description>
-</item>
-<item>
-<title>[90] JR九州、メアド最大130万件漏洩か　ソフトバンク子会社不正アクセス - 日本経済新聞</title>
-<link>https://www.nikkei.com/article/DGXZQOJC09B7T0Z01C26A0000000/</link>
-<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOJC09B7T0Z01C26A0000000/</guid>
-<pubDate>Fri, 09 Oct 2026 12:47:05 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>JR九州は9日、同社のウェブ会員として登録されたメールアドレス最大約130万件が漏洩した可能性があると発表した。メールアドレス以外の個人情報の漏洩はないとしている。JR九州によると、ソフトバンク子会社のIDCフロ — はてなブックマーク テクノロジー / score: 90 (130万件の大規模な情報漏洩インシデント)</description>
 </item>
 <item>
 <title>[90] v3.15.0</title>
@@ -135,6 +127,14 @@
 <description>Mr.Genki | marketing &amp; webdesign @genki_iii 知り合いがAIに作らせたクローラーに大量のサイトを読ませたら、プロンプトインジェクションを食らってPCがマルウェアに感染してた。AIで誰でも簡単に作れるようになった分、開発やセキュリティの知識がないまま動かす人も増えていて、こういう事故はこれから増えていく気... — はてなブックマーク テクノロジー / score: 85 (AIクローラーによるプロンプトインジェクション感染事例)</description>
 </item>
 <item>
+<title>[85] コミューンの「Commune」への不正アクセスについてまとめてみた - piyolog</title>
+<link>https://piyolog.hatenadiary.jp/entry/2026/10/10/075729</link>
+<guid isPermaLink="true">https://piyolog.hatenadiary.jp/entry/2026/10/10/075729</guid>
+<pubDate>Fri, 09 Oct 2026 23:22:40 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>2026年10月9日、コミューンは、同社が運営する「Commune」「Commune for Work」が外部の第三者による不正アクセスを受け、一部のコミュニティで会員情報が外部の第三者に漏えいしたと公表しました。ここでは関連する情報をまとめます。 全コミュニティを停止 不正アクセスは2026年10月5日18時ごろに始まった。コミューン... — はてなブックマーク テクノロジー / score: 85 (大規模な不正アクセスと個人情報漏えいインシデント)</description>
+</item>
+<item>
 <title>[85] Deno is joining Cloudflare</title>
 <link>https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/</link>
 <guid isPermaLink="true">https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/</guid>
@@ -149,22 +149,6 @@
 <pubDate>Fri, 09 Oct 2026 21:34:27 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>大和証券や「タイムズカー」のパーク24など、サイバー攻撃を受けた企業による情報漏洩が相次いでいる。件数が急増する一方で、被害のパターンはバラバラだ。AIが悪用されているとの指摘もあるものの因果関係を示す証拠は無い。立命館大学情報理工学部の上原哲太郎教授は「攻撃の質が変わり、対象の裾野が広がっているこ... — はてなブックマーク テクノロジー / score: 85 (サイバー攻撃の急増に関する重要警鐘)</description>
-</item>
-<item>
-<title>[85] Deno is joining Cloudflare | Deno</title>
-<link>https://deno.com/blog/cloudflare</link>
-<guid isPermaLink="true">https://deno.com/blog/cloudflare</guid>
-<pubDate>Fri, 09 Oct 2026 13:21:58 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>For years, we’ve been working to make building server software simpler. We questioned how modules could be distributed, what security guarantees a JavaScript runtime could provide, what belonged in a complete toolchain, and how easily an application could be distributed as a standalone executable... — はてなブックマーク テクノロジー / score: 85 (DenoのCloudflare加入はエコシステムに大きな影響を与える。)</description>
-</item>
-<item>
-<title>[85] 相次ぐサイバー攻撃被害。国家サイバー統括室が事業者に対策徹底を要請</title>
-<link>https://pc.watch.impress.co.jp/docs/news/2147200.html</link>
-<guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2147200.html</guid>
-<pubDate>Fri, 09 Oct 2026 12:15:48 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>相次ぐサイバー攻撃被害。国家サイバー統括室が事業者に対策徹底を要請 — はてなブックマーク テクノロジー / score: 85 (国家機関によるサイバー攻撃対策要請の重要ニュース)</description>
 </item>
 <item>
 <title>[85] 「Microsoft Edge 155」が公開 ～「JPEG XL」デコードに対応、AIタブ整理機能も強化／大量のセキュリティ修正も</title>
@@ -183,6 +167,14 @@
 <description> — Yahoo!ニュース IT / score: 85 (大規模な情報流出インシデント)</description>
 </item>
 <item>
+<title>[85] ビッグエコー会員ら872万件の個人情報漏えいか　第一興商、委託先PCがマルウェア感染</title>
+<link>https://www.itmedia.co.jp/news/article/2610/09/2000002154/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/09/2000002154/</guid>
+<pubDate>Fri, 09 Oct 2026 02:27:09 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>第一興商は10月8日、カラオケ店「ビッグエコー」などの店舗で会員登録や予約をした客の情報と従業員情報計約872万4000件が漏えいした可能性があると発表した。 個人情報の取り扱いを委託している日本コロムビアグループの従業員の端末がマルウェアに感染。この端末に一時的に、第一興商の顧客情報を保管しており、これら... — はてなブックマーク テクノロジー / score: 85 (サプライチェーンを狙った大規模な個人情報流出)</description>
+</item>
+<item>
 <title>[85] OpenAI、ChatGPTのChatタブにGPT-6 Sol/LunaとIntelligent UIを順次提供 ——図やグラフを交えた回答に対応、思考の途中から回答を表示</title>
 <link>https://gihyo.jp/article/2026/10/chatgpt-gpt-6-with-intelligent-ui?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/10/chatgpt-gpt-6-with-intelligent-ui?utm_source=feed</guid>
@@ -197,14 +189,6 @@
 <pubDate>Thu, 08 Oct 2026 04:14:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Anthropicは10月7日、AIモデル「Claude Haiku 5.5」を発表した。 — gihyo.jp / score: 85 (Claude Haiku 5.5のリリースと性能・コスト詳細)</description>
-</item>
-<item>
-<title>[85] 🔓2026年9〜10月の情報漏洩19件、公表文を全部読んで考えたこと</title>
-<link>https://zenn.dev/bita/articles/1616afdb93c4a6</link>
-<guid isPermaLink="true">https://zenn.dev/bita/articles/1616afdb93c4a6</guid>
-<pubDate>Thu, 08 Oct 2026 00:43:37 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>TL;DR 9/11〜10/5に公表（続報を含む）された不正アクセス・情報漏洩19件の公表文をすべて読みました。侵入の手口まで公表された8件は、どれも脆弱性か不正ログインでした。AIへの言及は0件です ただ、穴を見つけて突くコストはAIで下がりつつあります（AnthropicによるGLM-5.3の評価、警察庁の検挙事例） 対策は、更新できる状態を保つこと、第三者による診断、侵入される前提の設計です はじめに タイムズカーの漏洩では、社内にも対象者がいました。そこから漏洩のニュースを追い始めると、わずか2週間ほどの間に、名前を知っている企業の公表が次々と続いていました。 筆者は... — Zenn トレンド / score: 85 (情報漏洩事例の傾向分析とセキュリティ対策)</description>
 </item>
 <item>
 <title>[85] Anthropic、「Claude Haiku 5.5」を発表 ～1年ぶりの小型モデル、最速・最安を更新／高頻度・コスト重視の用途にピッタリ、「Opus」「Sonnet」の手足にも</title>
@@ -343,6 +327,14 @@
 <description>The official post is shy, but since AMD is public, we know the purchase price . We covered them less than a year ago: Fei Fei has a lovely reflection blogpost that hints at the main reasons: Since our founding in 2024, World Labs has built leading AI spatial intelligence capabilities for everything from creative work to design . We built the world leading model training team for images, video and spatial reconstruction . And, with the acquisition of SceniX , we’re building towards an industry le — Latent Space / score: 85 (大手半導体企業によるAI関連企業の大型買収)</description>
 </item>
 <item>
+<title>[80] サイバー攻撃なぜ日本が標的に…？　AIの進化で「日本語の壁」突破が容易に　日本の個人情報は“信頼性が高く、高値で売れる”【#みんなのギモン】（日テレNEWS NNN） - Yahoo!ニュース</title>
+<link>https://news.yahoo.co.jp/articles/9994a417729e7636b595de2e73618e9c408467ca</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/articles/9994a417729e7636b595de2e73618e9c408467ca</guid>
+<pubDate>Sat, 10 Oct 2026 02:00:02 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>日テレNEWS NNN旅行予約サイトなどを運営するアドベンチャーは9日、「スカイチケット」のシステムが不正アクセスを受け、会員の情報、およそ1464万件が外部に流出したことを明らかにしました。 【動画で見る】サイバー攻撃 なぜ日本標的に？ 相次ぐサイバー攻撃の被害 去年10月以降“15億件以上”の攻撃とも 今回の#みんな... — はてなブックマーク テクノロジー / score: 80 (相次ぐサイバー攻撃と日本の標的化に関する話題)</description>
+</item>
+<item>
 <title>[80] 「バイトル」会員メアド最大約389万件漏えい　海外から「仕様不備」突く不正アクセス</title>
 <link>https://www.itmedia.co.jp/news/article/2610/10/2000002186/</link>
 <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/10/2000002186/</guid>
@@ -351,12 +343,12 @@
 <description>漏えいしたのはメールアドレスのみで、氏名、電話番号、パスワード、クレジットカード情報などは含まれていない。 原因は、システムの一部機能の仕様の不備を突いた海外からの不正アクセス。10月6日に不正アクセスを確認し、海外からのアクセスを全て遮断してプログラムを改修した。修正を終え、セキュリティ対策と監視... — はてなブックマーク テクノロジー / score: 80 (大規模サービスのメアド漏えいと脆弱性突く不正アクセス)</description>
 </item>
 <item>
-<title>[80] 不正アクセスによる漏えい等の事案を踏まえ、速やかに実施すべき対策等について | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構</title>
-<link>https://www.ipa.go.jp/security/security-alert/2026/alert20261009.html</link>
-<guid isPermaLink="true">https://www.ipa.go.jp/security/security-alert/2026/alert20261009.html</guid>
-<pubDate>Fri, 09 Oct 2026 06:26:14 +0000</pubDate>
+<title>[80] 委託先システムへの不正アクセスに伴う情報漏えいに関するお知らせとお詫び｜LINEヤフー株式会社</title>
+<link>https://www.lycorp.co.jp/ja/privacy-security/announcement/020892/</link>
+<guid isPermaLink="true">https://www.lycorp.co.jp/ja/privacy-security/announcement/020892/</guid>
+<pubDate>Fri, 09 Oct 2026 13:54:51 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>注釈：追記すべき情報がある場合には、その都度このページを更新する予定です。 概要 直近において、国内の金融機関や通信事業者等の幅広い事業者から、不正アクセスの被害による情報漏えい事案の公表が相次いで行われています。特に、大量の個人情報を取り扱うオンラインサービス・アカウントサービス等に関するシステ... — はてなブックマーク テクノロジー / score: 80 (相次ぐ不正アクセスを踏まえたIPAのセキュリティ対策)</description>
+<description>このたび、当社委託先であるコミューン株式会社提供のコミュニティプラットフォーム「Commune」において、第三者による不正アクセスが発生し、その影響により、当社の提供する事業者向けデスクリサーチツール「DS.INSIGHT」内のコミュニティ機能「DS.LAB」を利用している一部のユーザー情報が、閲覧・取得された可能性が... — はてなブックマーク テクノロジー / score: 80 (委託先起因の不正アクセスと情報漏えいの連鎖)</description>
 </item>
 <item>
 <title>[80] Googleが仕事を自動で進めるAI「Geminiエージェント」を発表、情報調査・資料作成・プログラミングまで対応</title>
@@ -471,6 +463,14 @@
 <description>GitLabは2026年9月17日、GitLabの新バージョンGitLab 19.4をリリースした。 — gihyo.jp / score: 80 (GitLab 19.4のリリースと新機能の紹介)</description>
 </item>
 <item>
+<title>[75] 【速報】AI、米政府機関に情報を無断送信</title>
+<link>https://www.47news.jp/15064016.html</link>
+<guid isPermaLink="true">https://www.47news.jp/15064016.html</guid>
+<pubDate>Sat, 10 Oct 2026 04:43:25 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>【ニューヨーク共同】人工知能（AI）開発を手がける米新興企業アンソロピックは9日、生成AI「クロード」が米政府機関のサイトなどに意図しない操作を行ったと発表した。国務省にビザ申請を無断送信したりしたとみられる。 — はてなブックマーク テクノロジー / score: 75 (生成AIの意図しない動作・セキュリティリスク)</description>
+</item>
+<item>
 <title>[75] Apple、10月13日に新製品発表イベントを予告。スマートホームがやってくる</title>
 <link>https://www.gizmodo.jp/article/2610-apple-october-event-smart-home-2026/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/2610-apple-october-event-smart-home-2026/</guid>
@@ -493,14 +493,6 @@
 <pubDate>Fri, 09 Oct 2026 10:36:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Anthropicは2026年10月8日、重要インフラとオープンソースソフトウェア（OSS）をサイバー攻撃から守る長期的な取り組み、Anthropic Cyber Missionを発表した。 — gihyo.jp / score: 75 (重要インフラとOSSのサイバー防御支援プログラム)</description>
-</item>
-<item>
-<title>[75] An opt-in vulnerability-finding service for open-source software</title>
-<link>https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source</link>
-<guid isPermaLink="true">https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source</guid>
-<pubDate>Fri, 09 Oct 2026 09:25:04 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Launching an opt-in vulnerability-finding service for open-source software We’re launching OSS Scanner, an opt-in vulnerability scanner for the open-source ecosystem informed by our experience using Claude to find vulnerabilities during Project Glasswing. Projects that join will receive thorough,... — はてなブックマーク テクノロジー / score: 75 (オープンソースエコシステムの脆弱性スキャンの発表)</description>
 </item>
 <item>
 <title>[75] 「Microsoft Dev Box」が2028年9月18日に終了へ ～移行先は「Windows 365」／すでにメンテナンスモード、新機能の開発は予定されず</title>
@@ -805,6 +797,14 @@
 <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward. — OpenAI News / score: 75 (新しいAIエージェント機能の発表で注目度が高い。)</description>
+</item>
+<item>
+<title>[75] How we will do better for Australia</title>
+<link>https://openai.com/index/how-we-will-do-better-for-australia</link>
+<guid isPermaLink="true">https://openai.com/index/how-we-will-do-better-for-australia</guid>
+<pubDate>Mon, 28 Sep 2026 19:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences. — OpenAI News / score: 75 (OpenAIの豪州でのサイバー防衛支援と謝罪。)</description>
 </item>
 </channel>
 </rss>
