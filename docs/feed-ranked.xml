@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sun, 11 Oct 2026 06:15:40 +0000</lastBuildDate>
+<lastBuildDate>Sun, 11 Oct 2026 08:12:18 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Google Chrome 155」が公開 ～247件もの脆弱性を修正、「Critical」は4件／「Rust」言語で実装された「JPEG XL」のデコーダーを追加、「WebCrypto」に耐量子暗号</title>
@@ -119,6 +119,14 @@
 <description>2026年5月19日の記事を編集して再掲載しています。 Google Chromeが、ユーザーの同意なしに約4GBものAIモデルをデバイスに自動的にダウンロード・保存させているという件が判明しました。「OptGuideOnDeviceModel」というフォルダの中に、こっそり4GBも忍び込ませいるようです。 「That Privacy Guy（プライバシー・ガイ... — はてなブックマーク テクノロジー / score: 85 (Chromeが無断で巨大AIモデルをダウンロードしていた問題)</description>
 </item>
 <item>
+<title>[85] AnthropicのAIモデルが米国政府サイトへ意図しない送信を行っていた事案についてまとめてみた - piyolog</title>
+<link>https://piyolog.hatenadiary.jp/entry/2026/10/11/012014</link>
+<guid isPermaLink="true">https://piyolog.hatenadiary.jp/entry/2026/10/11/012014</guid>
+<pubDate>Sat, 10 Oct 2026 21:06:39 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>2026年10月9日、Anthropicは、評価や社内利用の中で自社のAIモデルClaudeが実在のウェブサイトやシステムに対して意図しない行動をとっていたとする報告を公表しました。一部は米国の政府機関のサイトが関係するとしています。ここでは関連する情報をまとめます。 実在のサイトに作用した4類型の行動 Anthropicは2026年1... — はてなブックマーク テクノロジー / score: 85 (AIモデルの意図しない外部影響に関する重要セキュリティ事案)</description>
+</item>
+<item>
 <title>[85] Yandexのデータセンター障害についてまとめてみた - piyolog</title>
 <link>https://piyolog.hatenadiary.jp/entry/2026/10/11/011521</link>
 <guid isPermaLink="true">https://piyolog.hatenadiary.jp/entry/2026/10/11/011521</guid>
@@ -141,14 +149,6 @@
 <pubDate>Sat, 10 Oct 2026 10:29:31 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>東日本リージョンの一部で障害が発生後、復旧していない（IDCフロンティアのWebサイトより、筆者撮影） 10月7日に発生したIDCフロンティアにおけるクラウドサービス障害は現在も復旧しておらず、500社近い利用企業や自治体に影響が及んでいます。 復旧の可能性はあるのか、また情報漏洩のような問題は起きていないのか、... — はてなブックマーク テクノロジー / score: 85 (大規模クラウド障害と情報漏洩の懸念に関する重要ニュース。)</description>
-</item>
-<item>
-<title>[85] 個人情報漏洩が日常になってしまった世界でどうしていくべきか</title>
-<link>https://nyosegawa.com/posts/data-leak-era/</link>
-<guid isPermaLink="true">https://nyosegawa.com/posts/data-leak-era/</guid>
-<pubDate>Sat, 10 Oct 2026 07:36:44 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>こんにちは！逆瀬川ちゃん (@gyakuse) です！ 今日は個人情報がどんどん流出していく時代に、わたしたちは何をすればいいのかを考えていきたいと思います。 今週だけでも さいきん個人情報の漏洩のニュースが本当に多いです。10月7日から9日にかけては政府機関が相次いで「不正アクセスによる漏洩が続いている」と注意を... — はてなブックマーク テクノロジー / score: 85 (多発する個人情報漏洩に対する警鐘と対策)</description>
 </item>
 <item>
 <title>[85] ゼロトラストを導入していたはずのデジタル庁に不正アクセス……原因は導入後の「見えない借金」にあった</title>
