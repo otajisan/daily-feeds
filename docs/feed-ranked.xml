@@ -4,8 +4,16 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sun, 11 Oct 2026 02:22:39 +0000</lastBuildDate>
+<lastBuildDate>Sun, 11 Oct 2026 04:12:51 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>[95] オラクル医療部門のハッキング被害、約2000万人の個人情報が流出と判明</title>
+<link>https://japan.cnet.com/article/35253305/</link>
+<guid isPermaLink="true">https://japan.cnet.com/article/35253305/</guid>
+<pubDate>Wed, 07 Oct 2026 01:50:00 +0000</pubDate>
+<category>CNET Japan</category>
+<description>2025年にOracle Healthを狙ったサイバー攻撃で、2000万人近くの個人情報が流出した。 — CNET Japan / score: 95 (オラクル医療部門ハッキングで2000万人情報流出)</description>
+</item>
 <item>
 <title>[95] 「Google Chrome 155」が公開 ～247件もの脆弱性を修正、「Critical」は4件／「Rust」言語で実装された「JPEG XL」のデコーダーを追加、「WebCrypto」に耐量子暗号</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2146201.html</link>
@@ -47,14 +55,6 @@
 <description> — Yahoo!ニュース IT / score: 90 (JR東日本の大規模な個人情報漏洩に関するニュース)</description>
 </item>
 <item>
-<title>[90] JR東「えきねっと」「大人の休日倶楽部」で漏洩か　のべ206万件：朝日新聞</title>
-<link>https://www.asahi.com/articles/ASVB91R1GVB9ULFA011M.html</link>
-<guid isPermaLink="true">https://www.asahi.com/articles/ASVB91R1GVB9ULFA011M.html</guid>
-<pubDate>Fri, 09 Oct 2026 06:29:02 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>JR東日本は9日、「えきねっと」と「大人の休日倶楽部」の会員のべ約206万件のメールアドレスなどの個人情報が漏洩（ろうえい）した可能性があることを明らかにした。ソフトバンクの子会社IDCフロンティア… — はてなブックマーク テクノロジー / score: 90 (大規模サービスの重大な個人情報漏洩インシデント)</description>
-</item>
-<item>
 <title>[90] ロシアのIT大手・Yandexのデータセンターがウクライナのドローン攻撃で大規模炎上、AI開発用スパコン2基も被災の可能性</title>
 <link>https://gigazine.net/news/20261009-yandex-drone-attack/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261009-yandex-drone-attack/</guid>
@@ -69,6 +69,14 @@
 <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
 <category>Python Insider</category>
 <description>A brand new Python here for you to enjoy! — Python Insider / score: 90 (主要プログラミング言語のメジャーバージョンリリース)</description>
+</item>
+<item>
+<title>[90] IDCFクラウドのランサムウェア攻撃、データ復元は「困難」　495の企業・自治体に影響</title>
+<link>https://japan.cnet.com/article/35253388/</link>
+<guid isPermaLink="true">https://japan.cnet.com/article/35253388/</guid>
+<pubDate>Thu, 08 Oct 2026 23:40:00 +0000</pubDate>
+<category>CNET Japan</category>
+<description>IDCフロンティアは10月8日、クラウドサービス「IDCFクラウド」へのランサムウェア攻撃について第3報を公表した。被害を受けたゾーンに保管していた顧客データは取り出しや復元が困難な見通しで、顧客自身が持つバックアップから戻すしかないとの見解を示した。 — CNET Japan / score: 90 (IDCFクラウドのランサムウェア被害とデータ復元困難)</description>
 </item>
 <item>
 <title>[90] Upcoming Next.js Security Update for Upstream Vulnerabilities</title>
@@ -119,12 +127,28 @@
 <description>Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders. — OpenAI News / score: 90 (大規模AIカンファレンスの総括で重要度が高い。)</description>
 </item>
 <item>
+<title>[88] ソフトバンク子会社のIDCFクラウドに不正アクセス</title>
+<link>https://japan.cnet.com/article/35253331/</link>
+<guid isPermaLink="true">https://japan.cnet.com/article/35253331/</guid>
+<pubDate>Wed, 07 Oct 2026 09:16:00 +0000</pubDate>
+<category>CNET Japan</category>
+<description>ソフトバンク子会社のIDCフロンティア（IDCF）は10月7日、クラウドサービス「IDCFクラウド」の一部システムが第三者から不正アクセスを受け、サービスの一部で障害が発生していると発表した。障害は同日午前3時40分ごろに発生し、東日本第1リージョンに影響が出ているという。 — CNET Japan / score: 88 (ソフトバンク子会社クラウドへの不正アクセス障害)</description>
+</item>
+<item>
 <title>[85] Google Chrome、同意なしで4GBのローカルAIモデルをダウンロードさせている | ギズモード・ジャパン</title>
 <link>https://www.gizmodo.jp/article/2610-google-chrome-gemini-nano-4gb-model/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/2610-google-chrome-gemini-nano-4gb-model/</guid>
 <pubDate>Sat, 10 Oct 2026 22:12:05 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>2026年5月19日の記事を編集して再掲載しています。 Google Chromeが、ユーザーの同意なしに約4GBものAIモデルをデバイスに自動的にダウンロード・保存させているという件が判明しました。「OptGuideOnDeviceModel」というフォルダの中に、こっそり4GBも忍び込ませいるようです。 「That Privacy Guy（プライバシー・ガイ... — はてなブックマーク テクノロジー / score: 85 (Chromeが無断で巨大AIモデルをダウンロードしていた問題)</description>
+</item>
+<item>
+<title>[85] Yandexのデータセンター障害についてまとめてみた - piyolog</title>
+<link>https://piyolog.hatenadiary.jp/entry/2026/10/11/011521</link>
+<guid isPermaLink="true">https://piyolog.hatenadiary.jp/entry/2026/10/11/011521</guid>
+<pubDate>Sat, 10 Oct 2026 21:06:31 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>2026年10月8日、ロシアIT大手が運営するYandex Cloudはru-central1-bで電源が途絶し、サービスが利用できない状態になっていると告知しました。その後、Yandexはデータセンターがドローン攻撃を受けて火災が起き、稼働が完全に停止したと公表しています。ここでは関連する情報をまとめます。 ru-central1-b の電源障害 ... — はてなブックマーク テクノロジー / score: 85 (データセンターの電源障害と攻撃による完全停止の事例)</description>
 </item>
 <item>
 <title>[85] 国内で相次ぐ不正アクセスに対する注意喚起についてまとめてみた - piyolog</title>
@@ -159,6 +183,14 @@
 <description>「わが社はゼロトラスト導入済みです」──この言葉を、当方はここ7年で数え切れないほど聞いてきました。ゼットスケーラーで250社を超える企業のゼロトラスト実装ワークショップを主導し、日本企業の現場を間近に見てきた立場から申し上げると、この「導入済み」はかなり危うい言葉です。多くの場合、それはリモートアク... — はてなブックマーク テクノロジー / score: 85 (政府機関のゼロトラスト運用のセキュリティ課題)</description>
 </item>
 <item>
+<title>[85] 止まらない不正アクセス　ローソン215万件、ココナラやSansanでも情報漏えい</title>
+<link>https://japan.cnet.com/article/35253437/</link>
+<guid isPermaLink="true">https://japan.cnet.com/article/35253437/</guid>
+<pubDate>Fri, 09 Oct 2026 23:37:00 +0000</pubDate>
+<category>CNET Japan</category>
+<description>国内企業への不正アクセスによる個人情報の漏えいが相次いでいる。10月8〜9日には、ローソンやココナラ、Sansan、LINEヤフーなどが相次いで被害を公表した。ローソンでは約215万件の顧客情報が漏えいしたほか、複数の企業が利用する外部サービスへの攻撃が、各社に波及する事態も起きている。ここにきて急増した要因は不明だが、高度化するAIを悪用しているとの見方もある。 — CNET Japan / score: 85 (相次ぐ企業への不正アクセスと大量情報漏えい問題)</description>
+</item>
+<item>
 <title>[85] Deno is joining Cloudflare</title>
 <link>https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/</link>
 <guid isPermaLink="true">https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/</guid>
@@ -181,6 +213,14 @@
 <pubDate>Fri, 09 Oct 2026 04:56:35 +0000</pubDate>
 <category>Yahoo!ニュース IT</category>
 <description> — Yahoo!ニュース IT / score: 85 (大規模な情報流出インシデント)</description>
+</item>
+<item>
+<title>[85] 相次ぐ不正アクセス、内閣官房のサイバー統括室が注意喚起　企業に求めた対策とは</title>
+<link>https://japan.cnet.com/article/35253406/</link>
+<guid isPermaLink="true">https://japan.cnet.com/article/35253406/</guid>
+<pubDate>Fri, 09 Oct 2026 02:40:00 +0000</pubDate>
+<category>CNET Japan</category>
+<description>企業への不正アクセスによる個人情報の漏えいが相次ぐ中、内閣官房国家サイバー統括室は10月9日、事業者に対策の徹底を求める注意喚起を公表した。特に、大量の個人情報や機微な情報を扱う事業者に対応を呼びかけている。 — CNET Japan / score: 85 (内閣官房によるサイバーセキュリティの注意喚起)</description>
 </item>
 <item>
 <title>[85] OpenAI、ChatGPTのChatタブにGPT-6 Sol/LunaとIntelligent UIを順次提供 ——図やグラフを交えた回答に対応、思考の途中から回答を表示</title>
@@ -343,6 +383,14 @@
 <description>はじめに 2026年9月下旬以降、国内でもサイバー攻撃による被害が相次いで報道されています。 その侵入経路は、ネットワーク機器の脆弱性を突くものや、フィッシングメールなど、さまざまです。 また今後は、利用者自身だけでなく、AI エージェントが外部のコンテンツやサービスへア... — Qiita 人気記事 / score: 80 (Microsoft製品の実践的なセキュリティ対策)</description>
 </item>
 <item>
+<title>[80] 金融庁、本人確認は「画像」から「ICチップ」へ　早期移行を要請　免許証の大規模流出を受け</title>
+<link>https://japan.cnet.com/article/35253438/</link>
+<guid isPermaLink="true">https://japan.cnet.com/article/35253438/</guid>
+<pubDate>Fri, 09 Oct 2026 23:58:00 +0000</pubDate>
+<category>CNET Japan</category>
+<description>金融庁は10月9日、金融機関などに対し、非対面の本人確認を、書類の画像を送る方法から書類のICチップ情報を読み取る方法へ、できるだけ早く切り替えるよう求めた。インターネット上の顧客向けサービスや業務システムへの不正アクセスが相次ぎ、運転免許証などの画像を含む顧客情報が漏えいしていることを受けた対応だ。あわせて、サイバーセキュリティ対策の点検も求めた。 — CNET Japan / score: 80 (金融庁による本人確認のICチップ化への早期移行要請)</description>
+</item>
+<item>
 <title>[80] Googleが仕事を自動で進めるAI「Geminiエージェント」を発表、情報調査・資料作成・プログラミングまで対応</title>
 <link>https://gigazine.net/news/20261009-gemini-agent/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261009-gemini-agent/</guid>
@@ -463,14 +511,6 @@
 <description>【シリコンバレー=山田遼太郎】米アンソロピックは9日、同社の人工知能（AI）が警察に虚偽の情報を送信していたと発表した。実在の未解決殺人事件についてAIが内容をでっち上げた。こうしたAIの「暴走」は混乱を引き起こしかねず、当局から非難されている。発表によるとアンソロピックのAIモデル「クロード・ハイク4.5」... — はてなブックマーク テクノロジー / score: 75 (AIモデルのハルシネーションが社会問題化した事例)</description>
 </item>
 <item>
-<title>[75] Apple、10月13日に新製品発表イベントを予告。スマートホームがやってくる</title>
-<link>https://www.gizmodo.jp/article/2610-apple-october-event-smart-home-2026/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2610-apple-october-event-smart-home-2026/</guid>
-<pubDate>Fri, 09 Oct 2026 13:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>まだまだ祭りは終わらない！iPhone 18 Pro、AirPods 5、Apple Watch Series 12、Ultra 4などなど、新製品が目白押しのAppleから、さらなるイベント開催のお知らせです。Appleは現地時間の10月… — ギズモード・ジャパン / score: 75 (Appleの新製品発表イベント予告に関する速報。)</description>
-</item>
-<item>
 <title>[75] Anthropic、重要インフラとOSSのサイバー防御を支援するCyber Missionを発表</title>
 <link>https://gihyo.jp/article/2026/10/anthropic-cyber-mission?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/10/anthropic-cyber-mission?utm_source=feed</guid>
@@ -487,6 +527,14 @@
 <description>開発者向けクラウドワークステーション「Microsoft Dev Box」が、米国時間（以下同）2028年9月18日に終了するとのこと。米Microsoftが「Azure」の更新情報で告知している。終了に向けたプロセスは、2026年9月14日からすでに始まっているという。 — 窓の杜 / score: 75 (開発者向けクラウド環境の終了と移行告知)</description>
 </item>
 <item>
+<title>[75] AIエージェントの「暴走」をどう防ぐ？ マイクロソフトがアクセスを制限する「MXC」を提供開始</title>
+<link>https://japan.cnet.com/article/35253423/</link>
+<guid isPermaLink="true">https://japan.cnet.com/article/35253423/</guid>
+<pubDate>Fri, 09 Oct 2026 07:45:00 +0000</pubDate>
+<category>CNET Japan</category>
+<description>AIエージェントによるサイバーセキュリティ上の被害を防ぐため、マイクロソフトはエージェントの行動範囲を制限する「Microsoft Execution Containers（MXC）」の一般提供を開始した。 — CNET Japan / score: 75 (AIエージェントの暴走を防ぐマイクロソフトの新コンテナ)</description>
+</item>
+<item>
 <title>[75] Asana cuts model costs 76x in browser tests with GPT-6.1 Sol</title>
 <link>https://openai.com/index/asana-browser-agent</link>
 <guid isPermaLink="true">https://openai.com/index/asana-browser-agent</guid>
@@ -501,6 +549,14 @@
 <pubDate>Fri, 09 Oct 2026 03:13:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>Anthropicがオープンソースプロジェクト向けに、自社の「最も高性能なモデル」によるセキュリティスキャンを無料で受けられるとするサービス「OSS Scanner」を発表しました。 続きを読む... — GIGAZINE / score: 75 (Anthropicによるオープンソース向け無料AIセキュリティスキャン)</description>
+</item>
+<item>
+<title>[75] Amazon、Fireタブレットを廃止--Google Play対応「Alexa Tablet」3機種発表</title>
+<link>https://japan.cnet.com/article/35253390/</link>
+<guid isPermaLink="true">https://japan.cnet.com/article/35253390/</guid>
+<pubDate>Fri, 09 Oct 2026 00:05:00 +0000</pubDate>
+<category>CNET Japan</category>
+<description>米Amazonは10月8日（現地時間）、タブレットの新ラインアップ「Alexa Tablet」を発表した。長年続いた「Fire」タブレットは廃止し、新シリーズに置き換える。OSは独自の「Fire OS」からAndroidに切り替え、「Google Play」のアプリをそのまま使えるようにした。AIアシスタント「Alexa+」も全機種に統合する。価格は230ドルから500ドルで、米国では10月14日に出荷を始める。（日本ではAmazon Kidsのみ10月14日発売） — CNET Japan / score: 75 (AmazonがFireタブレットを廃止しAndroidに移行)</description>
 </item>
 <item>
 <title>[75] Claude Platform release notes — October 9, 2026</title>
@@ -567,6 +623,14 @@
 <description>Google DeepMindは10月6日、高度なマルチモーダル推論モデルの最新版「Nano Banana 2.1」を公開した。現在、以下のツールから利用できる。 — 窓の杜 / score: 75 (Googleの新しいマルチモーダルモデル公開)</description>
 </item>
 <item>
+<title>[75] Anthropic、「Claude Haiku 5.5」公開　小型モデルを高速・低価格化</title>
+<link>https://japan.cnet.com/article/35253352/</link>
+<guid isPermaLink="true">https://japan.cnet.com/article/35253352/</guid>
+<pubDate>Thu, 08 Oct 2026 02:45:00 +0000</pubDate>
+<category>CNET Japan</category>
+<description>Anthropicが小型AIモデルを刷新し、「Claude Haiku 5.5」を公開した。高頻度処理を想定し、価格、速度、推論量の調整機能をアピールしている。 — CNET Japan / score: 75 (Anthropicの小型AIモデルClaude Haiku 5.5公開)</description>
+</item>
+<item>
 <title>[75] Cloudflare Workers、受信TCP接続に対応　最初の対応プロトコルはgRPCに</title>
 <link>https://www.infoq.com/jp/news/2026/10/workers-inbound-tcp-grpc/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
 <guid isPermaLink="true">https://www.infoq.com/jp/news/2026/10/workers-inbound-tcp-grpc/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
@@ -605,6 +669,14 @@
 <pubDate>Wed, 07 Oct 2026 05:39:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Googleは2026年10月6日、スマートフォンやPC上で動作する埋め込みモデル「EmbeddingGemma 2」を公開した。 — gihyo.jp / score: 75 (Googleのエッジ向けマルチモーダル埋め込みモデル公開)</description>
+</item>
+<item>
+<title>[75] Mistral、1兆パラメーターの新旗艦AI「Mistral Large 4」を発表</title>
+<link>https://japan.cnet.com/article/35253300/</link>
+<guid isPermaLink="true">https://japan.cnet.com/article/35253300/</guid>
+<pubDate>Wed, 07 Oct 2026 01:02:00 +0000</pubDate>
+<category>CNET Japan</category>
+<description>仏Mistral AIが新たな旗艦モデル「Mistral Large 4（ML4）」を発表し、パブリックプレビューを開始した。 — CNET Japan / score: 75 (大手AI企業による新旗艦モデルの発表)</description>
 </item>
 <item>
 <title>[75] Google DeepMind、「EmbeddingGemma 2」を発表 ～テキストから動画まで扱えるオープン埋め込みモデル／7億4,000万パラメーターでスマートフォンでもオンデバイス動作</title>
@@ -733,78 +805,6 @@
 <pubDate>Thu, 01 Oct 2026 03:00:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Googleは2026年9月30日、AIモデル「Gemini 4 Argon」を発表した。 — gihyo.jp / score: 75 (Googleによるサイバー防御向け新AIモデル発表)</description>
-</item>
-<item>
-<title>[75] OpenAI GPT-6 Astra now supports UltraFast mode on Amazon Bedrock</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-astra-ultrafast-on-amazon-bedrock/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-astra-ultrafast-on-amazon-bedrock/</guid>
-<pubDate>Wed, 30 Sep 2026 19:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Today, AWS announces the availability of UltraFast mode for GPT-6 Astra from OpenAI on Amazon Bedrock. Ultrafast is a premium speed tier for GPT-6 Astra built for workloads where speed matters most. According to OpenAI, Ultrafast delivers up to 6x faster inference in the API, with up to 300 tokens per second. The Amazon Bedrock inference engine delivers the performance, security, and reliability required for production workloads. Use GPT-6 Astra Ultrafast for latency-sensitive applications such  — AWS What's New / score: 75 (Bedrockでの主要AIの高速モード対応)</description>
-</item>
-<item>
-<title>[75] Amazon Aurora PostgreSQL now supports direct querying of Apache Iceberg and Parquet data in your data lake</title>
-<link>https://aws.amazon.com/blogs/aws/amazon-aurora-postgresql-now-supports-direct-querying-of-apache-iceberg-and-parquet-data-in-your-data-lake/</link>
-<guid isPermaLink="true">https://aws.amazon.com/blogs/aws/amazon-aurora-postgresql-now-supports-direct-querying-of-apache-iceberg-and-parquet-data-in-your-data-lake/</guid>
-<pubDate>Wed, 30 Sep 2026 17:22:31 +0000</pubDate>
-<category>AWS News Blog</category>
-<description>Amazon Aurora PostgreSQL now lets you directly query Apache Iceberg and Parquet data stored in your data lake alongside live operational data—no ETL pipelines required. Powered by DuckDB embedded within Aurora, this capability enables single queries that join transactional and historical data using familiar PostgreSQL syntax. It supports AWS Glue Data Catalog, S3, and S3 Tables, with optimizations like predicate pushdown and caching for efficient performance. — AWS News Blog / score: 75 (Aurora PostgreSQLのIceberg直接クエリ対応)</description>
-</item>
-<item>
-<title>[75] OpenAI GPT-6.1 Sol is now generally available on Amazon Bedrock</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-1-sol-on-amazon-bedrock/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-1-sol-on-amazon-bedrock/</guid>
-<pubDate>Tue, 29 Sep 2026 20:17:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Today, AWS announces the general availability of GPT-6.1 Sol from OpenAI on Amazon Bedrock. An upgrade to GPT-6 Sol, GPT-6.1 Sol delivers exceptionally strong performance on agentic coding, computer use, and professional work. According to OpenAI, it approaches GPT-6 Astra across demanding evaluations at roughly one-fifth of the cost, giving developers more room to build and run capable agents at scale. The Amazon Bedrock inference engine delivers the performance, security, and reliability requi — AWS What's New / score: 75 (OpenAIの最新モデルがAmazon Bedrockで利用可能になり影響が大きい)</description>
-</item>
-<item>
-<title>[75] Google Cloud、AIエージェントからの大量アクセスをPostgreSQLのプライマリDBから切り離せる「PostgreSQL for agents in AlloyDB」発表</title>
-<link>https://www.publickey1.jp/blog/26/google_cloudaipostgresqldbpostgresql_for_agents_in_alloydb.html</link>
-<guid isPermaLink="true">https://www.publickey1.jp/blog/26/google_cloudaipostgresqldbpostgresql_for_agents_in_alloydb.html</guid>
-<pubDate>Tue, 29 Sep 2026 15:46:18 +0000</pubDate>
-<category>Publickey</category>
-<description>Google Cloudは、本番環境で動作しているPostgreSQLの処理に影響を与えないよう、AIエージェントからの読み取りワークロード用にサンドボックス化されたPostgreSQLのデータベースインスタンスを数秒でプロビジョニングする... — Publickey / score: 75 (AIエージェント向けAlloyDBの新機能発表)</description>
-</item>
-<item>
-<title>[75] Cloudflare、全APIに対応しTypeScriptで設定可能な新コマンドラインツール「cf」をリリース</title>
-<link>https://gihyo.jp/article/2026/09/cloudflare-cf-cli?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/09/cloudflare-cf-cli?utm_source=feed</guid>
-<pubDate>Tue, 29 Sep 2026 05:33:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Cloudflareは2026年9月28日、コマンドラインからCloudflare API全体を操作でき、TypeScriptで設定を記述できる新たなCLIツール「cf」をオープンベータ版としてリリースした。 — gihyo.jp / score: 75 (Cloudflareの新CLIツール「cf」のベータ版リリース)</description>
-</item>
-<item>
-<title>[75] Introducing dots</title>
-<link>https://openai.com/index/introducing-dots</link>
-<guid isPermaLink="true">https://openai.com/index/introducing-dots</guid>
-<pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward. — OpenAI News / score: 75 (新しいAIエージェント機能の発表で注目度が高い。)</description>
-</item>
-<item>
-<title>[75] How we will do better for Australia</title>
-<link>https://openai.com/index/how-we-will-do-better-for-australia</link>
-<guid isPermaLink="true">https://openai.com/index/how-we-will-do-better-for-australia</guid>
-<pubDate>Mon, 28 Sep 2026 19:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences. — OpenAI News / score: 75 (OpenAIの豪州でのサイバー防衛支援と謝罪。)</description>
-</item>
-<item>
-<title>[75] AWS、AIエージェントを自作できるツール「Strandsハーネス」をオープンソースで公開。特定のLLMに依存せず入れ替え可能、任意のコンテナ環境にデプロイ</title>
-<link>https://www.publickey1.jp/blog/26/awsaistrandsllm.html</link>
-<guid isPermaLink="true">https://www.publickey1.jp/blog/26/awsaistrandsllm.html</guid>
-<pubDate>Mon, 28 Sep 2026 15:01:25 +0000</pubDate>
-<category>Publickey</category>
-<description>Amazon Web Services（AWS）は、GPTやClaude、Gemini、Ollamaなど主要なLLMやLLMランタイムを基にした高性能なAIエージェントを簡単に自作できるツール「Strandsハーネス」をオープンソースで公開... — Publickey / score: 75 (主要なLLM対応AIエージェントOSS公開のため)</description>
-</item>
-<item>
-<title>[70] Windows版CodexがMXCに対応、セットアップを高速化 ——ChatGPTの全プランでオートレビューを無料化、Pro向けにメッセージ予測機能をベータ提供</title>
-<link>https://gihyo.jp/article/2026/10/windows-codex-mxc?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/10/windows-codex-mxc?utm_source=feed</guid>
-<pubDate>Sat, 10 Oct 2026 10:23:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>OpenAIは2026年10月9日、公式XアカウントのOpenAI Developersで、Windows上のCodex向けに、Microsoft Execution Containers（MXC）を使う新しいサンドボックスモードを開発したと発表した。 — gihyo.jp / score: 70 (OpenAI関連ツールや新機能に関するアップデート)</description>
 </item>
 </channel>
 </rss>
