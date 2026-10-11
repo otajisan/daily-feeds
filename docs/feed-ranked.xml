@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sun, 11 Oct 2026 10:09:19 +0000</lastBuildDate>
+<lastBuildDate>Sun, 11 Oct 2026 12:14:19 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Google Chrome 155」が公開 ～247件もの脆弱性を修正、「Critical」は4件／「Rust」言語で実装された「JPEG XL」のデコーダーを追加、「WebCrypto」に耐量子暗号</title>
@@ -141,14 +141,6 @@
 <pubDate>Sat, 10 Oct 2026 04:26:17 +0000</pubDate>
 <category>Qiita 人気記事</category>
 <description>はじめに GitHub Actionsのワークフローは「動けばOK」で書かれがちですが、動いていても安全とは限りません。特に以下の3つは、レビューでも見落とされやすく、かつ実際のインシデント事例があるものです。 permissions を明示していない（＝既定値のGI... — Qiita 人気記事 / score: 85 (GitHub Actionsの脆弱性を静的解析で検出する実践的ノウハウ)</description>
-</item>
-<item>
-<title>[85] ゼロトラストを導入していたはずのデジタル庁に不正アクセス……原因は導入後の「見えない借金」にあった</title>
-<link>https://enterprisezine.jp/article/detail/25178</link>
-<guid isPermaLink="true">https://enterprisezine.jp/article/detail/25178</guid>
-<pubDate>Fri, 09 Oct 2026 23:38:25 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>「わが社はゼロトラスト導入済みです」──この言葉を、当方はここ7年で数え切れないほど聞いてきました。ゼットスケーラーで250社を超える企業のゼロトラスト実装ワークショップを主導し、日本企業の現場を間近に見てきた立場から申し上げると、この「導入済み」はかなり危うい言葉です。多くの場合、それはリモートアク... — はてなブックマーク テクノロジー / score: 85 (政府機関のゼロトラスト運用のセキュリティ課題)</description>
 </item>
 <item>
 <title>[85] Deno is joining Cloudflare</title>
@@ -431,6 +423,14 @@
 <description>GitLabは2026年9月17日、GitLabの新バージョンGitLab 19.4をリリースした。 — gihyo.jp / score: 80 (GitLab 19.4のリリースと新機能の紹介)</description>
 </item>
 <item>
+<title>[75] GitHub Actions上で証明書を付与するサプライチェーン構築 | おそらくはそれさえも平凡な日々</title>
+<link>https://songmu.jp/riji/entry/2026-10-11-github-actions-artifact-attestations.html</link>
+<guid isPermaLink="true">https://songmu.jp/riji/entry/2026-10-11-github-actions-artifact-attestations.html</guid>
+<pubDate>Sun, 11 Oct 2026 09:26:40 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>とにかく数多のサプライチェーンインシデントが発生しており、OSSを公開・頒布している身からすると、より気を使わなければいけない状況です。 例えば、配布しているバイナリやアーカイブ、パッケージなどの成果物(artifact)の信頼性を保証するために、それが、どのソースを元に、どの環境及びワークフローでビルドされ... — はてなブックマーク テクノロジー / score: 75 (サプライチェーンセキュリティと証明書付与の実践)</description>
+</item>
+<item>
 <title>[75] SQLite 本体にベクトル検索拡張 vec1 がやってきた</title>
 <link>https://zenn.dev/mattn/articles/6e9996319ac099</link>
 <guid isPermaLink="true">https://zenn.dev/mattn/articles/6e9996319ac099</guid>
@@ -469,14 +469,6 @@
 <pubDate>Fri, 09 Oct 2026 06:29:01 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>カーシェアのタイムズカーを運営するパーク24で最大660万件の顧客情報が流出して以降、多くの情報漏洩が発覚している 撮影：編集部 タイムズカーをはじめ、大企業で個人情報の流出が相次いでいる。なぜ、これほど被害が止まらないのか。AIの登場でサイバー防衛の前提が崩れつつある今、企業に求められるのは、これまで... — はてなブックマーク テクノロジー / score: 75 (大企業の個人情報流出とセキュリティの現状を解説)</description>
-</item>
-<item>
-<title>[75] Anthropicがオープンソースプロジェクト向けに無料AIセキュリティスキャンサービスの「OSS Scanner」を開始</title>
-<link>https://gigazine.net/news/20261009-anthropic-oss-scanner/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261009-anthropic-oss-scanner/</guid>
-<pubDate>Fri, 09 Oct 2026 03:13:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>Anthropicがオープンソースプロジェクト向けに、自社の「最も高性能なモデル」によるセキュリティスキャンを無料で受けられるとするサービス「OSS Scanner」を発表しました。 続きを読む... — GIGAZINE / score: 75 (Anthropicによるオープンソース向け無料AIセキュリティスキャン)</description>
 </item>
 <item>
 <title>[75] Claude Platform release notes — October 9, 2026</title>
@@ -773,6 +765,14 @@
 <pubDate>Mon, 28 Sep 2026 15:01:25 +0000</pubDate>
 <category>Publickey</category>
 <description>Amazon Web Services（AWS）は、GPTやClaude、Gemini、Ollamaなど主要なLLMやLLMランタイムを基にした高性能なAIエージェントを簡単に自作できるツール「Strandsハーネス」をオープンソースで公開... — Publickey / score: 75 (主要なLLM対応AIエージェントOSS公開のため)</description>
+</item>
+<item>
+<title>[70] 月間100万人のサービス刷新で、 技術選定をHonoに振り切った話</title>
+<link>https://speakerdeck.com/yutobara/gekkan-100-mannin-no-sabisu-sasshin-de-gijutsu-sentei-o-hono-ni-furikita-hanashi-e49c651f-8130-48bb-b6ef-eac3cc9f358a</link>
+<guid isPermaLink="true">https://speakerdeck.com/yutobara/gekkan-100-mannin-no-sabisu-sasshin-de-gijutsu-sentei-o-hono-ni-furikita-hanashi-e49c651f-8130-48bb-b6ef-eac3cc9f358a</guid>
+<pubDate>Sun, 11 Oct 2026 08:34:08 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Hono Conference 2026 の登壇資料です。月間100万人のサービスを6人とAIで作り直しました。AIを迷わせない開発の土台作りと、Honoが効いた理由について、紹介しています。 — はてなブックマーク テクノロジー / score: 70 (大規模サービス刷新におけるHonoの技術選定事例)</description>
 </item>
 <item>
 <title>[70] CPUのみで動作するリアルタイム多言語音声認識「早耳」、GPUもクラウドAPIも使わずメモリ2GB未満でライブ字幕表示からブラウザ表示・話者ラベル付け・翻訳字幕まで可能</title>
