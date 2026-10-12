@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 12 Oct 2026 20:10:14 +0000</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 22:09:36 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] Deno開発元がCloudflareに合流。Denoの開発は終了へ、今後はCloudflare WorkersとDurable Objectsのオープンソース実装に注力</title>
@@ -127,12 +127,12 @@
 <description>暗号資産の金庫であるハードウェアウォレットにスパイ装置が仕込まれ、約147億円が流出する事件が発生。偽装の手口やLedger社の対応をわかりやすく解説します。 — ギズモード・ジャパン / score: 85 (暗号資産のハードウェアウォレット大規模流出事件)</description>
 </item>
 <item>
-<title>[85] GitHub Actionsでよくある3つの『見えない』脆弱性を、自前の静的解析で検出してみた</title>
-<link>https://qiita.com/vakoya_village/items/f7a457e6f51ad9c8aa4c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/vakoya_village/items/f7a457e6f51ad9c8aa4c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Sat, 10 Oct 2026 04:26:17 +0000</pubDate>
+<title>[85] ClickFixを踏んでしまったので、macOS上で何が起きたのか解析した</title>
+<link>https://qiita.com/TIshow/items/e815235eac66f656c3b6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/TIshow/items/e815235eac66f656c3b6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Sun, 11 Oct 2026 13:50:56 +0000</pubDate>
 <category>Qiita 人気記事</category>
-<description>はじめに GitHub Actionsのワークフローは「動けばOK」で書かれがちですが、動いていても安全とは限りません。特に以下の3つは、レビューでも見落とされやすく、かつ実際のインシデント事例があるものです。 permissions を明示していない（＝既定値のGI... — Qiita 人気記事 / score: 85 (GitHub Actionsの脆弱性を静的解析で検出する実践的ノウハウ)</description>
+<description>ClickFix を踏んでしまいました。 Webページ上の偽CAPTCHAからTerminalを開かされ、表示されたコマンドを貼り付けて実行するタイプのものです。 気付いた時点ではすでに、macOS上で Finderを装った不審なアプリケーション がバックグラウンド実行され... — Qiita 人気記事 / score: 85 (マルウェア「ClickFix」のmacOSにおける感染・動作の詳細な解析。)</description>
 </item>
 <item>
 <title>[85] Deno is joining Cloudflare</title>
@@ -421,6 +421,14 @@
 <pubDate>Mon, 12 Oct 2026 16:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>A decade ago, Google released Site Reliability Engineering: How Google Runs Production Systems with O'Reilly Media. What began as a collection of our practices for managing large-scale infrastructure became a bestselling book, and inspired many organizations to adopt the reliability practices it outlined: applying software engineering to operations to build systems that are scalable, reliable, and sustainable. Over the past ten years, computing landscapes have undergone profound shifts. AI, micr — Google Cloud Blog / score: 75 (SREのバイブル的書籍の第2版アナウンス)</description>
+</item>
+<item>
+<title>[75] 所有者チェック漏れを「気をつける」から「型で外れようがない」へ：ブランド型でIDORを設計から塞ぐ</title>
+<link>https://qiita.com/shun123/items/260b4fa2c791da70f263?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/shun123/items/260b4fa2c791da70f263?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Mon, 12 Oct 2026 12:18:53 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>はじめに セキュリティ研修で、脆弱性を含むWebアプリ（Hono + TypeScript）を題材に、所有者チェックが無いAPIのバグを見つけるところから、それを設計で塞ぐところまでを考える課題に取り組んだ。 この記事では、 資格で覚えた知識と、実際のコードを前にしたと... — Qiita 人気記事 / score: 75 (TypeScriptとブランド型を用いたIDOR脆弱性防止の設計手法解説。)</description>
 </item>
 <item>
 <title>[75] Django、HackerOne経由での新規セキュリティ報告の受け付けを終了</title>
@@ -743,14 +751,6 @@
 <description>Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward. — OpenAI News / score: 75 (新しいAIエージェント機能の発表で注目度が高い。)</description>
 </item>
 <item>
-<title>[70] Introducing TimesFM 3.0 with multivariate time-series forecasting in BigQuery</title>
-<link>https://cloud.google.com/blog/products/data-analytics/bigquery-timesfm-3-0-with-multivariate-time-series-forecasting/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/products/data-analytics/bigquery-timesfm-3-0-with-multivariate-time-series-forecasting/</guid>
-<pubDate>Mon, 12 Oct 2026 16:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>Overview Since introducing zero-shot time-series forecasting in BigQuery with AI.FORECAST — initially powered by TimesFM 2.0 and later upgraded to TimesFM 2.5 — you have been able to generate forecasts directly in SQL without training or managing custom models. However, up until TimesFM 2.5, these foundation models were limited to univariate forecasting, predicting future values from the history of a single time series alone. In practice, most real-world forecasting problems are multivariate, wh — Google Cloud Blog / score: 70 (BigQueryの時系列予測機能の拡張)</description>
-</item>
-<item>
 <title>[70] Agentic data science with the Data Agent Kit</title>
 <link>https://cloud.google.com/blog/products/data-analytics/bringing-you-the-data-agent-kit/</link>
 <guid isPermaLink="true">https://cloud.google.com/blog/products/data-analytics/bringing-you-the-data-agent-kit/</guid>
@@ -759,12 +759,20 @@
 <description>Imagine your compliance team notices that payments are taking longer than expected to clear. They suspect fraud, and you’re the data scientist helping figure out which transactions to investigate first. Assembling that shortlist requires ingesting and cleaning raw transaction logs, training a model on past fraud, scoring new records, and scheduling the pipeline to run daily. Here’s how you can build that workflow end to end with an agent, using the Data Agent Kit inside the Antigravity IDE. Intr — Google Cloud Blog / score: 70 (エージェント型データサイエンスツール発表)</description>
 </item>
 <item>
+<title>[70] Introducing TimesFM 3.0 with multivariate time-series forecasting in BigQuery</title>
+<link>https://cloud.google.com/blog/products/data-analytics/bigquery-timesfm-3-0-with-multivariate-time-series-forecasting/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/data-analytics/bigquery-timesfm-3-0-with-multivariate-time-series-forecasting/</guid>
+<pubDate>Mon, 12 Oct 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Overview Since introducing zero-shot time-series forecasting in BigQuery with AI.FORECAST — initially powered by TimesFM 2.0 and later upgraded to TimesFM 2.5 — you have been able to generate forecasts directly in SQL without training or managing custom models. However, up until TimesFM 2.5, these foundation models were limited to univariate forecasting, predicting future values from the history of a single time series alone. In practice, most real-world forecasting problems are multivariate, wh — Google Cloud Blog / score: 70 (BigQueryの時系列予測機能の拡張)</description>
+</item>
+<item>
 <title>[70] October 12, 2026</title>
 <link>https://docs.cloud.google.com/release-notes#October_12_2026</link>
 <guid isPermaLink="true">https://docs.cloud.google.com/release-notes#October_12_2026</guid>
 <pubDate>Mon, 12 Oct 2026 07:00:00 +0000</pubDate>
 <category>Google Cloud リリースノート</category>
-<description>BigQuery Feature Incremental data transfers for the BigQuery Data Transfer Service for PostgreSQL and ServiceNow are now generally available (GA). Cloud Build Announcement You can now choose the release channel for your build config or private pool. The release channel determines how frequently the underlying versions of Debian and Docker are updated. Cloud Load Balancing Feature Regular expression matchers in host and route rules in URL maps are now generally available (GA). You can now use reg — Google Cloud リリースノート / score: 70 (Google CloudのCloud SQL関連のアップデート)</description>
+<description>Agent Platform Workbench Change 20261011.00_p0 Release Change Installed latest packages from upstream dependencies. Fixed Fixed an issue where gcloud and gsutil failed to load with an AttributeError in OpenSSL.crypto due to a version mismatch between pyOpenSSL and cryptography. Change 20261011.00_p0 Release Change Installed latest packages from upstream dependencies. Fixed Fixed an issue where gcloud and gsutil failed to load with an AttributeError in OpenSSL.crypto due to a version mismatch bet — Google Cloud リリースノート / score: 70 (Google CloudのCloud SQL関連のアップデート)</description>
 </item>
 <item>
 <title>[70] サイバー攻撃加速 AIの影響を指摘</title>
@@ -797,14 +805,6 @@
 <pubDate>Sun, 11 Oct 2026 03:00:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>「Hayamimi(早耳)」はGPUやクラウドAPIに依存せずCPUのみで動作する軽量なリアルタイム多言語音声認識システムです。メモリ2GB未満の環境でもライブ字幕表示・話者ラベル付け・翻訳字幕生成まで対応し、発話中から字幕が出始め話し終えて約100msで確定する高速性が特徴です。 続きを読む... — GIGAZINE / score: 70 (軽量で高性能な音声認識システムの登場)</description>
-</item>
-<item>
-<title>[70] fdリークの見落としは「早期return」に集中する、7件の内訳から言えること</title>
-<link>https://qiita.com/ponfreelance/items/8bb6ebbff6dd325d6b87?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/ponfreelance/items/8bb6ebbff6dd325d6b87?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Sun, 11 Oct 2026 01:30:18 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>C言語23年、自分はフリーランスで組み込みのコードレビューに入ることが多いです。fd・socket・FILEのclose忘れは静的解析の定番テーマですが、実際のPRで見逃されるのは「close自体を書き忘れた行」ではなく「正常系ではcloseしているのに、途中のreturn... — Qiita 人気記事 / score: 70 (C言語の早期returnにおけるfdリークのレビュー知見)</description>
 </item>
 </channel>
 </rss>
