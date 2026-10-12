@@ -4,8 +4,24 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 12 Oct 2026 18:11:23 +0000</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 20:10:14 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>How Anthropic’s Dynamic Workflows Coordinate Claude Agents</title>
+<link>https://www.latent.space/p/claude-dynamic-workflows</link>
+<guid isPermaLink="true">https://www.latent.space/p/claude-dynamic-workflows</guid>
+<pubDate>Mon, 12 Oct 2026 18:18:17 +0000</pubDate>
+<category>Latent Space</category>
+<description>At AI Engineer New York, Anthropic drew on lessons from Unix and Linux to explain how agents can tackle bigger projects without overwhelming developers. — Latent Space / score: 65 (Anthropicのエージェント連携手法の解説)</description>
+</item>
+<item>
+<title>Hello Python 3.15, goodbye 3.10, and now I can use 3.11</title>
+<link>https://simonwillison.net/2026/Oct/12/python-3-15/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Oct/12/python-3-15/</guid>
+<pubDate>Mon, 12 Oct 2026 18:15:38 +0000</pubDate>
+<category>Simon Willison</category>
+<description>Python 3.15 is here ! Here's the essential What's new in Python 3.15 guide, this year curated by 3.14 and 3.15 release manager Hugo van Kemenade. As someone who builds open source software that works in every supported Python version, I get to say goodbye to Python 3.10 and start embracing features from Python 3.11. First, some highlights from Python 3.15. Explicit lazy imports I'm most excited about Explicit lazy imports from PEP 810 . These let you import modules like so: lazy import json lazy — Simon Willison / score: 50 (Pythonのバージョン移行に関する話題)</description>
+</item>
 <item>
 <title>下位MacBook Proも2027年春に新デザインか〜M7搭載と報道</title>
 <link>https://iphone-mania.jp/mac-607369/</link>
@@ -343,6 +359,14 @@
 <description>秋アニメ特集も最終盤。第16回の今回は、Season2開始の『佐々木とピーちゃん』に『FX戦士くるみちゃん』『DARK MACHINE THE ANIMATION』など、6作品を紹介。 — ASCII.jp / score: 10 (エンタメ関連のアニメ紹介記事)</description>
 </item>
 <item>
+<title>GitHub - jaisuriya-11/tsuzuri: Block-based notebook for the terminal. Plain Markdown files, Vim editing, live preview, boards, calendars and 96 themes.</title>
+<link>https://github.com/jaisuriya-11/tsuzuri</link>
+<guid isPermaLink="true">https://github.com/jaisuriya-11/tsuzuri</guid>
+<pubDate>Mon, 12 Oct 2026 11:00:27 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert — はてなブックマーク テクノロジー / score: 35 (ターミナル向けの新しいノートブックツール)</description>
+</item>
+<item>
 <title>布団乾燥機のぬくぬく、寝ている間も。アイリスオーヤマに「寝ながらモード」</title>
 <link>https://www.gizmodo.jp/article/iris-ohyama-kararie-fk-w3-sleep-mode/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/iris-ohyama-kararie-fk-w3-sleep-mode/</guid>
@@ -495,6 +519,14 @@
 <description> — CodeZine / score: 75 (DjangoのHackerOne経由セキュリティ報告受付終了)</description>
 </item>
 <item>
+<title>AWS Transfer Family supports custom ports for public SFTP servers</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/transfer-family-custom-ports-sftp/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/transfer-family-custom-ports-sftp/</guid>
+<pubDate>Mon, 12 Oct 2026 08:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS Transfer Family now lets you configure custom ports on public SFTP servers and choose a communication mode for each port. You can support clients that require different ports or start SFTP connections differently on a single server. Previously, public SFTP servers accepted connections only on port 22 and used server-first communication. With this launch, you can configure up to three ports (22, or any port from 2000 to 65535), allowing you to use the port numbers your business or network req — AWS What's New / score: 40 (AWS Transfer Familyの新機能追加)</description>
+</item>
+<item>
 <title>フルーツを守るクッションの花びら、かわいいうえに優秀</title>
 <link>https://www.gizmodo.jp/article/2610-fruit-cushion-petal-packaging/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/2610-fruit-cushion-petal-packaging/</guid>
@@ -567,12 +599,20 @@
 <description>https://youtu.be/5nDF56Iw_Pg \textcolor{pink}{四国めたん: }教師役ですわ \textcolor{lime}{ずんだもん: }生徒役なのだ \footnotesize \textcolor{pink}{四国めたん:} こんにちは。四国めたんです \footnotesize \textcolor{lime}{ずんだもん:} ずんだもんなのだ。こんにちはなのだ \footnotesize \textcolor{pink}{四国めたん:} 前回は文字列の初期化や長さの取得、文字数の取得などについてお話ししましたわ \footnotesize \... — Zenn トレンド / score: 30 (C++言語のSTL文字列操作に関する入門解説)</description>
 </item>
 <item>
+<title>Amazon ElastiCache for Valkey introduces ElastiCache Insights</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-elasticache-valkey-elasticache-insights/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-elasticache-valkey-elasticache-insights/</guid>
+<pubDate>Mon, 12 Oct 2026 07:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon ElastiCache for Valkey now features ElastiCache Insights, a pre-built dashboard in Amazon CloudWatch for your node-based clusters. ElastiCache Insights brings cluster health, memory, compute, network, command throughput, latency, keyspace, and errors into a single view sourced from a set of OpenTelemetry metrics that ElastiCache publishes automatically. You can use ElastiCache Insights to check the health of your cache workloads across a Region at a glance, detect when a node nears its me — AWS What's New / score: 45 (Amazon ElastiCacheの新機能リリース)</description>
+</item>
+<item>
 <title>October 12, 2026</title>
 <link>https://docs.cloud.google.com/release-notes#October_12_2026</link>
 <guid isPermaLink="true">https://docs.cloud.google.com/release-notes#October_12_2026</guid>
 <pubDate>Mon, 12 Oct 2026 07:00:00 +0000</pubDate>
 <category>Google Cloud リリースノート</category>
-<description>BigQuery Feature Incremental data transfers for the BigQuery Data Transfer Service for PostgreSQL and ServiceNow are now generally available (GA). Cloud Build Announcement You can now choose the release channel for your build config or private pool. The release channel determines how frequently the underlying versions of Debian and Docker are updated. Google SecOps Announcement The deadline for the migration of SOAR APIs to the Chronicle API has been extended from November 30, 2026 until March 3 — Google Cloud リリースノート / score: 70 (Google CloudのCloud SQL関連のアップデート)</description>
+<description>BigQuery Feature Incremental data transfers for the BigQuery Data Transfer Service for PostgreSQL and ServiceNow are now generally available (GA). Cloud Build Announcement You can now choose the release channel for your build config or private pool. The release channel determines how frequently the underlying versions of Debian and Docker are updated. Cloud Load Balancing Feature Regular expression matchers in host and route rules in URL maps are now generally available (GA). You can now use reg — Google Cloud リリースノート / score: 70 (Google CloudのCloud SQL関連のアップデート)</description>
 </item>
 <item>
 <title>起用人数と投稿素材の利用範囲から依頼条件を整理。フィシルコム、インフルエンサーマーケティングの見積もりシミュレーションを刷新</title>
@@ -727,6 +767,14 @@
 <description>動くAIキャラクターとの恋愛チャットが楽しめる「Colorist.ai」─会話や選択によって物語が変わる没入型AI体験 — ASCII.jp / score: 35 (AIを活用したコンシュー向けエンタメサービス)</description>
 </item>
 <item>
+<title>datasette-ports 0.4</title>
+<link>https://simonwillison.net/2026/Oct/12/datasette-ports/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Oct/12/datasette-ports/</guid>
+<pubDate>Mon, 12 Oct 2026 04:57:07 +0000</pubDate>
+<category>Simon Willison</category>
+<description>Release: datasette-ports 0.4 My plugin for detecting and listing all Datasette instances on the current machine now works with the latest version, and displays the detected PID as well. Knowing the PID makes it easier to attach the new Python 3.15 profiler . Tags: datasette — Simon Willison / score: 30 (Datasetteプラグインのマイナーリリース)</description>
+</item>
+<item>
 <title>SteinwayのコンサートグランドD-274(model D)を収録したピアノ音源ライブラリ、Heavyocity「ASCEND: Modern Grand」が67%OFF！</title>
 <link>https://computermusic.jp/2026/10/ascend-modern-grand/</link>
 <guid isPermaLink="true">https://computermusic.jp/2026/10/ascend-modern-grand/</guid>
@@ -757,54 +805,6 @@
 <pubDate>Mon, 12 Oct 2026 04:16:54 +0000</pubDate>
 <category>Computer Music Japan</category>
 <description>現代の音楽制作やビートメイキングの究極の手段となるプロダクションソフトウェア、AKAI「MPC 2」が75％OFFとなっています。 AKAIでは、アーリーブラックフライデーセールを開催中です、合わせてチェックしてみてくだ... The post 現代の音楽制作やビートメイキングの究極の手段となるプロダクションソフトウェア、AKAI「MPC 2」が75％OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 20 (音楽制作用ソフトウェアのセール情報)</description>
-</item>
-<item>
-<title>なんでもリバースエンジニアリング。ソースコード非公開のアプリをAIに解析させ、類似機能を作らせるオープンソースツール「REA」（生成AIクローズアップ） | テクノエッジ TechnoEdge</title>
-<link>https://www.techno-edge.net/article/2026/10/12/5574.html</link>
-<guid isPermaLink="true">https://www.techno-edge.net/article/2026/10/12/5574.html</guid>
-<pubDate>Mon, 12 Oct 2026 04:10:08 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>1週間の気になる生成AI技術・研究をいくつかピックアップして解説する連載「生成AIウィークリー」から、特に興味深いAI技術や研究にスポットライトを当てる生成AIクローズアップ。 今回は、既存のAIエージェントと連携して、アプリやソフトウェアの仕組みを解き明かす（リバースエンジニアリング）解析ツール「REA」（Re... — はてなブックマーク テクノロジー / score: 65 (AIを活用したリバースエンジニアリングツールの解説)</description>
-</item>
-<item>
-<title>東京ガスに内製開発組織を作る！ 約半年でどこまで進んだのか</title>
-<link>https://codezine.jp/article/detail/29970</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/29970</guid>
-<pubDate>Mon, 12 Oct 2026 04:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 50 (企業の内製開発組織立ち上げに関する事例紹介)</description>
-</item>
-<item>
-<title>【Amazonプライム感謝祭】人気のOTTOCAST製品が最大3,984円OFFで手に入る！</title>
-<link>https://ascii.jp/elem/000/004/441/4441831/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/441/4441831/?rss</guid>
-<pubDate>Mon, 12 Oct 2026 04:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>【Amazonプライム感謝祭】人気のOTTOCAST製品が最大3,984円OFFで手に入る！ — ASCII.jp / score: 20 (Amazonセールの製品割引情報)</description>
-</item>
-<item>
-<title>PCケースは、メッシュフロントパネルのSilver Stoneがトップ！ RGB LED搭載モデルも人気を集めた　ソフマップ・ドットコム販売ランキング（9月1日～15日）</title>
-<link>https://ascii.jp/elem/000/004/439/4439791/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/439/4439791/?rss</guid>
-<pubDate>Mon, 12 Oct 2026 04:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>PCケースはメッシュフロントパネルのSilver Stoneがトップ！ PCパーツを買う前に、2026年9月1日～15日に売れたベスト5（ソフマップ・ドットコム協力）をチェックしよう！ — ASCII.jp / score: 25 (PCパーツの売れ筋販売ランキング)</description>
-</item>
-<item>
-<title>もうすぐ発売！『テイルズ オブ エターニア リマスター』制作チームにそのこだわりをメールでインタビュー</title>
-<link>https://ascii.jp/elem/000/004/438/4438183/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/438/4438183/?rss</guid>
-<pubDate>Mon, 12 Oct 2026 04:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>バンダイナムコエンターテインメントから2026年10月15日（Steam版は10月16日）に発売される『テイルズ オブ エターニア リマスター』の制作チームにメールでインタビュー！ そのこだわりなどを直撃する。 — ASCII.jp / score: 20 (ゲームのリマスター版制作チームへのインタビュー)</description>
-</item>
-<item>
-<title>EVトラックのRIVIAN、ハロウィンに向けて「ゴーストバスターズ・モード」を実装</title>
-<link>https://www.gizmodo.jp/article/2610-rivian-ghostbusters-mode/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2610-rivian-ghostbusters-mode/</guid>
-<pubDate>Mon, 12 Oct 2026 04:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>RIVIANがハロウィーンに向けて映画『ゴーストバスターズ』とコラボした遊び心あふれるEVアップデートの詳細を紹介。スライム風の充電画面やマシュマロマンの演出など、ファン必見の新機能が満載です。 — ギズモード・ジャパン / score: 30 (EVトラックのソフトウェアのエンタメ機能)</description>
 </item>
 </channel>
 </rss>
