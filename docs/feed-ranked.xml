@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sun, 11 Oct 2026 22:09:14 +0000</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 00:30:59 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Google Chrome 155」が公開 ～247件もの脆弱性を修正、「Critical」は4件／「Rust」言語で実装された「JPEG XL」のデコーダーを追加、「WebCrypto」に耐量子暗号</title>
@@ -109,14 +109,6 @@
 <pubDate>Sat, 10 Oct 2026 21:06:39 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>2026年10月9日、Anthropicは、評価や社内利用の中で自社のAIモデルClaudeが実在のウェブサイトやシステムに対して意図しない行動をとっていたとする報告を公表しました。一部は米国の政府機関のサイトが関係するとしています。ここでは関連する情報をまとめます。 実在のサイトに作用した4類型の行動 Anthropicは2026年1... — はてなブックマーク テクノロジー / score: 85 (AIモデルの意図しない外部影響に関する重要セキュリティ事案)</description>
-</item>
-<item>
-<title>[85] Yandexのデータセンター障害についてまとめてみた - piyolog</title>
-<link>https://piyolog.hatenadiary.jp/entry/2026/10/11/011521</link>
-<guid isPermaLink="true">https://piyolog.hatenadiary.jp/entry/2026/10/11/011521</guid>
-<pubDate>Sat, 10 Oct 2026 21:06:31 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>2026年10月8日、ロシアIT大手が運営するYandex Cloudはru-central1-bで電源が途絶し、サービスが利用できない状態になっていると告知しました。その後、Yandexはデータセンターがドローン攻撃を受けて火災が起き、稼働が完全に停止したと公表しています。ここでは関連する情報をまとめます。 ru-central1-b の電源障害 ... — はてなブックマーク テクノロジー / score: 85 (データセンターの電源障害と攻撃による完全停止の事例)</description>
 </item>
 <item>
 <title>[85] Google Chrome、同意なしで4GBのローカルAIモデルをダウンロードさせている</title>
@@ -471,14 +463,6 @@
 <description>You can now let a Claude Managed Agents agent use dynamic workflows , in beta with the managed-agents-2026-04-01 beta header. For work with many pieces, such as reviewing hundreds of documents, the agent can write a workflow. A workflow is a program that runs many agents in phases and combines their results. The server runs it in the background as a workflow run. To turn dynamic workflows on , set the agent's multiagent field to {"type": "multiagent_20261001", "workflows": {"type": "enabled"}} . — Claude リリースノート / score: 75 (Claudeプラットフォームのマネージドエージェント更新)</description>
 </item>
 <item>
-<title>[75] Next.js 16.4リリース、Cache Componentsを全アプリに推奨</title>
-<link>https://codezine.jp/article/detail/29959</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/29959</guid>
-<pubDate>Thu, 08 Oct 2026 23:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 75 (Next.jsのメジャーアップデートと新機能推奨)</description>
-</item>
-<item>
 <title>[75] 攻撃者はWebアプリのどこを狙う？ 初心者でも今すぐできるセキュリティチェックリスト</title>
 <link>https://qiita.com/Koukyosyumei/items/8aaa44ff15a3b404fd8b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
 <guid isPermaLink="true">https://qiita.com/Koukyosyumei/items/8aaa44ff15a3b404fd8b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
@@ -805,6 +789,22 @@
 <pubDate>Sat, 10 Oct 2026 03:27:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Microsoftは2026年10月9日、分類や処理の振り分けなどの判断に特化したAIモデルMicrosoft-Decision-1を発表した。 — gihyo.jp / score: 70 (判断特化型AIモデルの新規発表)</description>
+</item>
+<item>
+<title>[70] Google、業務向けGemini Agentを発表 ——調査から資料作成まで任せられ、Claudeも選択可能</title>
+<link>https://gihyo.jp/article/2026/10/gemini-agent?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/10/gemini-agent?utm_source=feed</guid>
+<pubDate>Fri, 09 Oct 2026 10:21:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Googleは2026年10月8日、イベント「Gemini at Work 2026」で、業務向けのAIエージェントGemini Agentを発表した。 — gihyo.jp / score: 70 (Googleの業務向けAIエージェントの発表)</description>
+</item>
+<item>
+<title>[70] AIが攻撃を自動実行する時代、セキュリティ資格は本当に古びたのか</title>
+<link>https://qiita.com/tasklog/items/c6dbb5bbf2c789c290fb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/tasklog/items/c6dbb5bbf2c789c290fb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Fri, 09 Oct 2026 08:08:55 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>2026年の秋、セキュリティまわりから続けて出てきた言葉がある。AIが関与する侵害が、もう無視できない規模で報告され始めているという指摘。自律型AIエージェント攻撃の時代に入った、という言い方も目にするようになった。そしてAIモデルを作る企業自身が、ある攻撃キャンペーンの大... — Qiita 人気記事 / score: 70 (AI時代のサイバーセキュリティと資格の価値に関する考察)</description>
 </item>
 </channel>
 </rss>
