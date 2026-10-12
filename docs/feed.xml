@@ -4,23 +4,167 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 12 Oct 2026 14:17:26 +0000</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 16:10:36 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
-<title>「情シスって楽しい」がテーマ。チームみらい安野党首、ひろゆき氏、OpenID Foundation崎村氏らが登壇。BTCONJP2026</title>
+<title>「情シスって楽しい」がテーマ。チームみらい安野党首、ひろゆき氏、OpenID Foundation崎村氏らが登壇。BTCONJP2026［PR］</title>
 <link>https://www.publickey1.jp/blog/26/openid_foundationbtconjp2026.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/openid_foundationbtconjp2026.html</guid>
-<pubDate>Mon, 12 Oct 2026 14:15:46 +0000</pubDate>
+<pubDate>Mon, 12 Oct 2026 16:10:02 +0000</pubDate>
 <category>Publickey</category>
 <description>進化し続けるITを企業において最適な形で取り入れ続け、ビジネスと統合していく情報システム部門の役割は、AIの登場でビジネスそのものが大きな変革の波を受けざるを得ない現在、ますます重要さを増しています。 その情報システム部門に在籍している有志... — Publickey / score: 45 (情シス部門の役割に関するイベント情報)</description>
+</item>
+<item>
+<title>Introducing TimesFM 3.0 with multivariate time-series forecasting in BigQuery</title>
+<link>https://cloud.google.com/blog/products/data-analytics/bigquery-timesfm-3-0-with-multivariate-time-series-forecasting/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/data-analytics/bigquery-timesfm-3-0-with-multivariate-time-series-forecasting/</guid>
+<pubDate>Mon, 12 Oct 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Overview Since introducing zero-shot time-series forecasting in BigQuery with AI.FORECAST — initially powered by TimesFM 2.0 and later upgraded to TimesFM 2.5 — you have been able to generate forecasts directly in SQL without training or managing custom models. However, up until TimesFM 2.5, these foundation models were limited to univariate forecasting, predicting future values from the history of a single time series alone. In practice, most real-world forecasting problems are multivariate, wh — Google Cloud Blog / score: 70 (BigQueryの時系列予測機能の拡張)</description>
+</item>
+<item>
+<title>Trusted Data Apps for the Agentic Data Cloud, powered by Looker</title>
+<link>https://cloud.google.com/blog/products/business-intelligence/introducing-looker-data-apps/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/business-intelligence/introducing-looker-data-apps/</guid>
+<pubDate>Mon, 12 Oct 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>As a business intelligence user, this probably sounds familiar: Most dashboards only provide you with a standardized canvas and a fixed library of charts, and the “analysis” consists of a CSV export that takes you to another system. Or sometimes it's designing the dashboard that’s the challenge: You can picture the executive briefing, the customer-facing portal, or the interactive explainer that you want, but can’t assemble it out of the available grid tiles. Either way, the solution has always  — Google Cloud Blog / score: 65 (Lookerを活用したデータアプリの発表)</description>
+</item>
+<item>
+<title>10 Years of the SRE book: Announcing the second edition of "Site Reliability Engineering”</title>
+<link>https://cloud.google.com/blog/products/devops-sre/sre-book-second-edition/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/devops-sre/sre-book-second-edition/</guid>
+<pubDate>Mon, 12 Oct 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>A decade ago, Google released Site Reliability Engineering: How Google Runs Production Systems with O'Reilly Media. What began as a collection of our practices for managing large-scale infrastructure became a bestselling book, and inspired many organizations to adopt the reliability practices it outlined: applying software engineering to operations to build systems that are scalable, reliable, and sustainable. Over the past ten years, computing landscapes have undergone profound shifts. AI, micr — Google Cloud Blog / score: 75 (SREのバイブル的書籍の第2版アナウンス)</description>
+</item>
+<item>
+<title>Agentic data science with the Data Agent Kit</title>
+<link>https://cloud.google.com/blog/products/data-analytics/bringing-you-the-data-agent-kit/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/data-analytics/bringing-you-the-data-agent-kit/</guid>
+<pubDate>Mon, 12 Oct 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Imagine your compliance team notices that payments are taking longer than expected to clear. They suspect fraud, and you’re the data scientist helping figure out which transactions to investigate first. Assembling that shortlist requires ingesting and cleaning raw transaction logs, training a model on past fraud, scoring new records, and scheduling the pipeline to run daily. Here’s how you can build that workflow end to end with an agent, using the Data Agent Kit inside the Antigravity IDE. Intr — Google Cloud Blog / score: 70 (エージェント型データサイエンスツール発表)</description>
 </item>
 <item>
 <title>Deno開発元がCloudflareに合流。Denoの開発は終了へ、今後はCloudflare WorkersとDurable Objectsのオープンソース実装に注力</title>
 <link>https://www.publickey1.jp/blog/26/denocloudflaredenocloudflare_workersdurable_objects.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/denocloudflaredenocloudflare_workersdurable_objects.html</guid>
-<pubDate>Mon, 12 Oct 2026 14:15:46 +0000</pubDate>
+<pubDate>Mon, 12 Oct 2026 15:46:53 +0000</pubDate>
 <category>Publickey</category>
 <description>JavaScriptランタイム「Deno」の開発元であるDeno LandとCloudflareは、Deno LandがCloudflareに合流すると発表しました。CloudflareによるDeno Landの買収と見られます（Deno ... — Publickey / score: 95 (Deno開発終了とCloudflare合流の重大なニュース)</description>
+</item>
+<item>
+<title>【Amazonプライム感謝祭】｢iPhone Air｣の1TBモデルが38％オフなど、Apple製品が多数セール対象に</title>
+<link>https://taisy0.com/2026/10/13/228800.html</link>
+<guid isPermaLink="true">https://taisy0.com/2026/10/13/228800.html</guid>
+<pubDate>Mon, 12 Oct 2026 15:33:03 +0000</pubDate>
+<category>気になる、記になる…</category>
+<description>Amazonが本日よりスタートした「Amazon プライム感謝祭」では、「iPhone Air」や「AirPods Pro 3」など、多数のApple製品がセール対象となっています。 まず、「iPhone Air」は全て […] — 気になる、記になる… / score: 20 (AmazonセールのApple製品特価情報)</description>
+</item>
+<item>
+<title>Beatsとポケモンがコラボを予告 ｰ ワイヤレススピーカー｢Beats Pill｣にポケモンモデルが登場か</title>
+<link>https://taisy0.com/2026/10/13/228796.html</link>
+<guid isPermaLink="true">https://taisy0.com/2026/10/13/228796.html</guid>
+<pubDate>Mon, 12 Oct 2026 15:24:34 +0000</pubDate>
+<category>気になる、記になる…</category>
+<description>Apple傘下のBeatsがポケモンとのコラボモデルを発売することが分かりました。 本日、Beatsがティザー動画を公開し、同ブランドが次のコラボレーションとしてポケモンと取り組んでいることを明らかにしました。 ティザー […] — 気になる、記になる… / score: 15 (Beatsとポケモンのコラボ製品予告)</description>
+</item>
+<item>
+<title>「CrystalDiskInfo」が累計1億ダウンロードを突破 ～無償のHDD/SSD健康チェックツール／公開から18年での偉業</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2147433.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2147433.html</guid>
+<pubDate>Mon, 12 Oct 2026 15:05:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>「CrystalDiskInfo」が10月11日、累計1億ダウンロードを突破したとのこと（「OSDN.net」と「SourceForge.net」の合計）。公開から18年での偉業達成で、作者のひよひよ氏がこれまでの開発の歩みを振り返るブログ記事を公開している。 — 窓の杜 / score: 50 (定番HDD健康診断ツールの1億DL達成)</description>
+</item>
+<item>
+<title>「HomeView」が明日夜発表見込み〜発売日や仕様、本体カラーが判明！？</title>
+<link>https://iphone-mania.jp/apple-607357/</link>
+<guid isPermaLink="true">https://iphone-mania.jp/apple-607357/</guid>
+<pubDate>Mon, 12 Oct 2026 15:05:00 +0000</pubDate>
+<category>iPhone Mania</category>
+<description>Appleが2026年10月13日にニューヨークで開催する「Welcome home.」で発表する見込みのスマートホームハブについて、製品名は「HomeView」になるとの予想を、Bloombergのマーク・ガーマン記者 […] — iPhone Mania / score: 35 (Appleの新型スマートホームデバイスの噂)</description>
+</item>
+<item>
+<title>【Amazonプライム感謝祭】Ankerの最新・人気製品を含む290製品以上が最大53%オフに</title>
+<link>https://taisy0.com/2026/10/13/228772.html</link>
+<guid isPermaLink="true">https://taisy0.com/2026/10/13/228772.html</guid>
+<pubDate>Mon, 12 Oct 2026 15:03:30 +0000</pubDate>
+<category>気になる、記になる…</category>
+<description>Ankerが、Amazonが本日よりスタートした「Amazon プライム感謝祭」において、最新・人気製品を含む290製品以上を最大53%OFFで販売するセールを開催しています。 流石に全部紹介しきれないので、割引率の高い […] — 気になる、記になる… / score: 20 (Anker製品のAmazonセール情報)</description>
+</item>
+<item>
+<title>【セール】Nothingのイヤホンやヘッドホンが｢Amazon プライム感謝祭｣で最大40％オフに ｰ 過去最安値の製品も多数</title>
+<link>https://taisy0.com/2026/10/13/228790.html</link>
+<guid isPermaLink="true">https://taisy0.com/2026/10/13/228790.html</guid>
+<pubDate>Mon, 12 Oct 2026 15:03:00 +0000</pubDate>
+<category>気になる、記になる…</category>
+<description>Nothingが、Amazonが本日より開催中の「Amazon プライム感謝祭」の先行セールにおいて、オーディオ製品を対象とした「Nothingオータムセール」を開催しています。 今回のセールでは人気のワイヤレスイヤホン […] — 気になる、記になる… / score: 20 (Nothingオーディオ製品のセール情報)</description>
+</item>
+<item>
+<title>【セール】DJIのドローンやアクションカメラなどが｢Amazonプライム感謝祭｣で最大30％オフに</title>
+<link>https://taisy0.com/2026/10/13/228769.html</link>
+<guid isPermaLink="true">https://taisy0.com/2026/10/13/228769.html</guid>
+<pubDate>Mon, 12 Oct 2026 15:03:00 +0000</pubDate>
+<category>気になる、記になる…</category>
+<description>DJIが、Amazonが本日よりスタートした「Amazon プライム感謝祭」において、対象製品を特別価格で販売するセールを開催しています。 セールでは、ドローン、アクションカメラ、Vlogカメラ、ポータブル電源、ジンバル […] — 気になる、記になる… / score: 20 (DJI製品のAmazonセール情報)</description>
+</item>
+<item>
+<title>【Amazon プライム感謝祭】CIOの半固体系モバイルバッテリーや充電器などが特価に ｰ 最新製品も多数対象</title>
+<link>https://taisy0.com/2026/10/13/228793.html</link>
+<guid isPermaLink="true">https://taisy0.com/2026/10/13/228793.html</guid>
+<pubDate>Mon, 12 Oct 2026 15:02:41 +0000</pubDate>
+<category>気になる、記になる…</category>
+<description>CIOが、Amazonが本日よりスタートした大規模セール「Amazon プライム感謝祭」の先行セールにおいて、対象商品を特別価格で販売するセールを開催しています。 セールでは、大人気の充電器「NovaPort」シリーズや […] — 気になる、記になる… / score: 20 (CIO充電器等のAmazonセール情報)</description>
+</item>
+<item>
+<title>Amazon、大規模セールイベント｢プライム感謝祭｣の先行セールをスタート</title>
+<link>https://taisy0.com/2026/10/13/228787.html</link>
+<guid isPermaLink="true">https://taisy0.com/2026/10/13/228787.html</guid>
+<pubDate>Mon, 12 Oct 2026 15:00:00 +0000</pubDate>
+<category>気になる、記になる…</category>
+<description>Amazonが、本日よりプライム会員限定の大規模セールイベント「プライム感謝祭」の先行セールをスタートしました。 4回目の開催となる今年は、秋をテーマにこれからの時期を快適に楽しく過ごすための商品をはじめ、幅広いカテゴリ […] — 気になる、記になる… / score: 20 (Amazonプライム感謝祭のセール開始)</description>
+</item>
+<item>
+<title>パソコンショップSEVEN、全10商品の24時間限定セール　10月13日は最大18万円オフ</title>
+<link>https://ascii.jp/elem/000/004/441/4441464/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/441/4441464/?rss</guid>
+<pubDate>Mon, 12 Oct 2026 15:00:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>パソコンショップSEVENを運営するセブンアールジャパンが、10月13日に24時間限定セールを実施する。最新のゲーミングPCやデスクトップPC全10商品が対象で、最大180,000円オフとなる。 — ASCII.jp / score: 10 (BTOパソコンショップの一般的なセール情報)</description>
+</item>
+<item>
+<title>週刊アスキー No.1617(2026年10月13日発行)</title>
+<link>https://ascii.jp/elem/000/004/441/4441369/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/441/4441369/?rss</guid>
+<pubDate>Mon, 12 Oct 2026 15:00:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>特集1はBTO PCを選ぶ。ベアボーンで、簡易的にミニPCを作る。そんなとき考慮すべきパーツの選択は？ PCを買う前に見るべきポイントを整理する。特集2は機能の面白さ、独自のコンセプトが光るガジェットを紹介。技術とデザイン・操作性が調和するプロダクツを選ぶ。 — ASCII.jp / score: 15 (雑誌の特集紹介で技術的目新しさは薄い)</description>
+</item>
+<item>
+<title>週刊少年ジャンプ連載の学園ダークファンタジー漫画『鵺の陰陽師』TVアニメ化決定</title>
+<link>https://gigazine.net/news/20261012-nues-exorcist-anime/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261012-nues-exorcist-anime/</guid>
+<pubDate>Mon, 12 Oct 2026 14:57:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>週刊少年ジャンプで2023年5月から連載されていて、AnimeJapanの「アニメ化してほしいマンガランキング2025」で1位に推されていた『鵺の陰陽師』のTVアニメ化が決定し、特報PVが公開されています。 続きを読む... — GIGAZINE / score: 10 (技術関連ではないマンガのアニメ化情報)</description>
+</item>
+<item>
+<title>Python 3.10 end of life</title>
+<link>https://github.com/python/cpython/releases/tag/3.10</link>
+<guid isPermaLink="true">https://github.com/python/cpython/releases/tag/3.10</guid>
+<pubDate>Mon, 12 Oct 2026 14:17:51 +0000</pubDate>
+<category>CPython リリース</category>
+<description>Here am I floating 'round my tin can Far above the moon Planet Earth is blue And there's nothing I can do Five years in orbit. Mission complete. ;) — CPython リリース / score: 85 (Python 3.10のサポート終了情報)</description>
+</item>
+<item>
+<title>7年前に発売されたNVIDIA製品がAIブームで1.5倍に値上がり</title>
+<link>https://gigazine.net/news/20261012-nvidia-shield-tv-price-hike/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261012-nvidia-shield-tv-price-hike/</guid>
+<pubDate>Mon, 12 Oct 2026 14:15:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>NVIDIAが7年前に発売した、テレビに接続してNetflixやYouTubeなどを視聴できるストリーミング端末「SHIELD TV Pro」が2026年10月2日からアメリカで約1.5倍の価格に値上げされました。 続きを読む... — GIGAZINE / score: 35 (旧型NVIDIA製端末の価格高騰ニュース)</description>
 </item>
 <item>
 <title>マイクロソフト 新型AI半導体発表</title>
@@ -47,6 +191,14 @@
 <description>UGREENの45W急速充電器をレビュー。4+1ポートの圧倒的な収納力で、USB機器増えすぎ問題を1台ですべて解決する便利な活用法をご紹介します。 — ギズモード・ジャパン / score: 35 (多ポートUSB急速充電器の製品レビュー)</description>
 </item>
 <item>
+<title>Google、新型フィットネストラッカー「Fitbit Edge」を発表</title>
+<link>https://taisy0.com/2026/10/12/228782.html</link>
+<guid isPermaLink="true">https://taisy0.com/2026/10/12/228782.html</guid>
+<pubDate>Mon, 12 Oct 2026 13:46:01 +0000</pubDate>
+<category>気になる、記になる…</category>
+<description>本日、Googleが、新型フィットネストラッカー「Fitbit Edge」を正式に発表しました。 「Fitbit Edge」は、「Google Pixel Watch」のような多機能スマートウォッチと、シンプルで控えめな […] — 気になる、記になる… / score: 30 (Googleの新型フィットネストラッカー発表)</description>
+</item>
+<item>
 <title>中古CPUを買ったら「前の持ち主のBAN」でVALORANTが遊べなくなったとの報告</title>
 <link>https://gigazine.net/news/20261012-valorant-used-cpu-hardware-ban/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261012-valorant-used-cpu-hardware-ban/</guid>
@@ -55,12 +207,28 @@
 <description>中古で購入したAMD製CPU「Ryzen 7 5800X3D」をPCに取り付けた後、FPSゲーム「VALORANT」をプレイできなくなったとプレイヤーがRedditに投稿しました。投稿者は前の持ち主が受けた利用制限(BAN)を引き継いでしまったと訴えており、運営・開発会社であるRiot Gamesのチート対策責任者がその説明の一部に反論しています。 続きを読む... — GIGAZINE / score: 50 (中古CPUのハードウェアBAN継承に関するトラブル報告)</description>
 </item>
 <item>
+<title>CMF by Nothing、エントリーモデルの新型ワイヤレスイヤホン「CMF Buds Neo」を国内でも発売</title>
+<link>https://taisy0.com/2026/10/12/228779.html</link>
+<guid isPermaLink="true">https://taisy0.com/2026/10/12/228779.html</guid>
+<pubDate>Mon, 12 Oct 2026 13:30:47 +0000</pubDate>
+<category>気になる、記になる…</category>
+<description>本日、NothingのサブブランドであるCMF by Nothingが、8月に海外で発売していたエントリーモデルのワイヤレスイヤホン「CMF Buds Neo」を国内でも発表しました。 「CMF Buds Neo」はカナ […] — 気になる、記になる… / score: 25 (CMFの新型ワイヤレスイヤホン国内発売)</description>
+</item>
+<item>
 <title>iRobot Roomba Max 775レビュー：お掃除ロボは各社横並びで個性を出すのが難しい…</title>
 <link>https://www.gizmodo.jp/article/irobot-roomba-max-775-review-a-respectable-roomba-redux/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/irobot-roomba-max-775-review-a-respectable-roomba-redux/</guid>
 <pubDate>Mon, 12 Oct 2026 13:30:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>どんどん進化するお掃除ロボット。自分でステーションに帰るし、溜まったゴミも自分でとるし、最近は階段の登り降りにも果敢に挑んでいます。iRobotが、日本では7月に発売した新型モデル「iRobot Roomba Max 775」、そのお掃除力… — ギズモード・ジャパン / score: 35 (お掃除ロボットの最新モデルレビュー)</description>
+</item>
+<item>
+<title>Nothing、ブランド初となるポータブルスピーカー「CMF Speaker S」と「CMF Speaker M」を発売</title>
+<link>https://taisy0.com/2026/10/12/228774.html</link>
+<guid isPermaLink="true">https://taisy0.com/2026/10/12/228774.html</guid>
+<pubDate>Mon, 12 Oct 2026 13:24:52 +0000</pubDate>
+<category>気になる、記になる…</category>
+<description>本日、Nothingが、ブランド初となるポータブルスピーカーシリーズ「CMF Speaker S」と「CMF Speaker M」を発表しました。 「CMF Speaker S」と「CMF Speaker M」は、CMF […] — 気になる、記になる… / score: 25 (Nothing初のポータブルスピーカー発表)</description>
 </item>
 <item>
 <title>中国 AI作品のショートドラマ急増</title>
@@ -127,12 +295,28 @@
 <description>世界的に人気の忍者漫画『NARUTO-ナルト-』と、1990年代に週刊少年ジャンプに連載されて『NARUTO』執筆のきっかけになったという『NINKŪ-忍空-』がコラボして、両作品のクロスオーバー完全新作アニメが制作されることになり、ティザーPVが公開されています。 続きを読む... — GIGAZINE / score: 15 (技術コミュニティ向けではないアニメの話題)</description>
 </item>
 <item>
+<title>Nothing、｢Phone (3)｣向けに｢Nothing OS 5.0｣を正式リリース</title>
+<link>https://taisy0.com/2026/10/12/228766.html</link>
+<guid isPermaLink="true">https://taisy0.com/2026/10/12/228766.html</guid>
+<pubDate>Mon, 12 Oct 2026 11:41:36 +0000</pubDate>
+<category>気になる、記になる…</category>
+<description>「Nothing OS 5.0」は、システム全体の新しいデザイン、スマートフォンをより細かくカスタマイズできる機能、より高速でスムーズなパフォーマンス、Essential AIツールのアップデート、そして最新のAndro […] — 気になる、記になる… / score: 50 (スマートフォンOSのメジャーリリース)</description>
+</item>
+<item>
 <title>新型iPad miniは約3.5万円値上げ？税込134,800円〜と試算</title>
 <link>https://iphone-mania.jp/ipadmini-607349/</link>
 <guid isPermaLink="true">https://iphone-mania.jp/ipadmini-607349/</guid>
 <pubDate>Mon, 12 Oct 2026 11:18:47 +0000</pubDate>
 <category>iPhone Mania</category>
 <description>2026年10月27日頃に発表されると噂の新型iPad miniの販売価格について、現行iPad mini（A17 Pro）より大幅に高くなり、米国では799ドル前後になる可能性をBloombergのマーク・ガーマン記者 […] — iPhone Mania / score: 20 (新型ハードウェアの価格予想ニュース)</description>
+</item>
+<item>
+<title>アメリカ、イギリス、オーストラリア、ドイツで弁護士を頼まずにAIを使って法律武装した市民からの申し立てが急増「日本の裁判所や労働行政もこれから忙しくなりそうだ」</title>
+<link>https://togetter.com/li/2757306</link>
+<guid isPermaLink="true">https://togetter.com/li/2757306</guid>
+<pubDate>Mon, 12 Oct 2026 11:17:10 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>岡野タケシ弁護士【アトム法律税務グループ】 @takeshibengo AIで法律武装した市民からの申し立てが急増しているらしい。 まずアメリカ。 存在しない判例などを引用した書面が、裁判所で1500件近く見つかっている。半分以上は、弁護士をつけない本人訴訟だという。 次にイギリス。 雇用審判所への申し立てが1年で4割増え... — はてなブックマーク テクノロジー / score: 60 (AIによる法的手続きの増加トレンドを示す)</description>
 </item>
 <item>
 <title>【2026秋アニメ】Season2開始の『佐々木とピーちゃん』に『FX戦士くるみちゃん』『DARK MACHINE THE ANIMATION』</title>
@@ -423,6 +607,14 @@
 <description>ユーザー本人だけでなく、周りの人たちまで勝手に記録されちゃってる。Metaが新たに公開したAIエージェント「Muse」が、アメリカのApple App Storeで無料iPhoneアプリランキングの1位に上り詰めています。そんな大人気のMu… — ギズモード・ジャパン / score: 55 (MetaのAIエージェントのプライバシーに関する話題)</description>
 </item>
 <item>
+<title>新型Apple TV 4Kと新型HomePod miniの予約受付は今週から開始か – 発売は10月30日</title>
+<link>https://taisy0.com/2026/10/12/228763.html</link>
+<guid isPermaLink="true">https://taisy0.com/2026/10/12/228763.html</guid>
+<pubDate>Mon, 12 Oct 2026 05:56:39 +0000</pubDate>
+<category>気になる、記になる…</category>
+<description>新型Apple TV 4Kと新型HomePod miniは現地時間10月13日にスマートホームハブ製品「HomeView」と共に発表されるものの、両製品の発売は10月30日になると言われていますが、予約受付は今週から開始 […] — 気になる、記になる… / score: 35 (Apple製ハードウェアの新製品発売の噂)</description>
+</item>
+<item>
 <title>江戸の街道を旅して商う「あきんど道中」を先行公開　いま登録すると500文と旦那衆パス3日分がもらえる｜アドキタ</title>
 <link>https://ascii.jp/elem/000/004/441/4441842/?rss</link>
 <guid isPermaLink="true">https://ascii.jp/elem/000/004/441/4441842/?rss</guid>
@@ -613,198 +805,6 @@
 <pubDate>Mon, 12 Oct 2026 03:27:21 +0000</pubDate>
 <category>ASCII.jp</category>
 <description>Helio G99・8GB＋256GB搭載のAGM PAD P2、キーボードセットが27,000円。Amazon「プライム感謝祭」で数量限定セール — ASCII.jp / score: 20 (タブレットのセール情報であり技術的な新規性はない)</description>
-</item>
-<item>
-<title>ウクライナ、「ロシアのGoogle」ヤンデックスのデータセンターを4日で3カ所破壊 ロシアのネットは大混乱、ボットも減った？</title>
-<link>https://posfie.com/@cashewNutsUmai/p/YXvMlOP</link>
-<guid isPermaLink="true">https://posfie.com/@cashewNutsUmai/p/YXvMlOP</guid>
-<pubDate>Mon, 12 Oct 2026 03:17:05 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>① ヤンデックスとは ロシア最大のIT企業で「ロシアのGoogle」とも呼ばれる。検索・地図・メール・タクシー配車・フードデリバリー・音楽配信・音声アシスタント「アリス」・クラウド（Yandex Cloud）まで手がけ、ロシアの日常生活とビジネスの基盤になっている。 ② 4日間で大型データセンター3カ所が破壊される ヤンデッ... — はてなブックマーク テクノロジー / score: 75 (重要インフラに対する大規模なサイバー攻撃のニュース)</description>
-</item>
-<item>
-<title>「言語モデルはテキストを理解していない」ことを意味する「確率的オウム」とは？</title>
-<link>https://gigazine.net/news/20261012-stochastic-parrot/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261012-stochastic-parrot/</guid>
-<pubDate>Mon, 12 Oct 2026 03:06:58 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>AIはもっともらしい文章を生成できるものの、処理対象の言語の意味を理解しているわけではないということを例えた「確率的オウム」という言葉があります。そんな確率的オウムという比喩を提唱した論文の共著者が、詳しい理論とよくある誤解について解説しています。 No, “AI” is not a Stochastic Parrot 🦜 | by Margar... — はてなブックマーク テクノロジー / score: 55 (LLMの確率的オウム問題に関する解説記事)</description>
-</item>
-<item>
-<title>経営者が「今年買ってよかったビジネス愛用品」を持ち寄りランキングする共有会を参謀BAR新宿で12月2日(水)に開催</title>
-<link>https://ascii.jp/elem/000/004/441/4441838/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/441/4441838/?rss</guid>
-<pubDate>Mon, 12 Oct 2026 03:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>経営者が「今年買ってよかったビジネス愛用品」を持ち寄りランキングする共有会を参謀BAR新宿で12月2日(水)に開催 — ASCII.jp / score: 10 (経営者の交流会告知であり技術ニュースではない)</description>
-</item>
-<item>
-<title>DJI 人気製品が「Amazon プライム感謝祭」にて特別価格で登場！</title>
-<link>https://ascii.jp/elem/000/004/441/4441837/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/441/4441837/?rss</guid>
-<pubDate>Mon, 12 Oct 2026 03:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>DJI 人気製品が「Amazon プライム感謝祭」にて特別価格で登場！ — ASCII.jp / score: 15 (製品のセール情報であり一般向けの内容である)</description>
-</item>
-<item>
-<title>【Amazon感謝祭】全製品を通常価格から10%～35％OFFで販売</title>
-<link>https://ascii.jp/elem/000/004/441/4441836/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/441/4441836/?rss</guid>
-<pubDate>Mon, 12 Oct 2026 03:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>【Amazon感謝祭】全製品を通常価格から10%～35％OFFで販売 — ASCII.jp / score: 15 (一般的なセール告知のため技術的価値は低い)</description>
-</item>
-<item>
-<title>合同会社Vcommunity設立のお知らせ　VTuber・Vライバーを中心としたライブ配信者の活動支援を展開</title>
-<link>https://ascii.jp/elem/000/004/441/4441833/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/441/4441833/?rss</guid>
-<pubDate>Mon, 12 Oct 2026 03:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>合同会社Vcommunity設立のお知らせ VTuber・Vライバーを中心としたライブ配信者の活動支援を展開 — ASCII.jp / score: 10 (企業の設立および活動支援の告知である)</description>
-</item>
-<item>
-<title>SciEmo、カターレ富山と挑む「ワンチーム」のクラブ経営</title>
-<link>https://ascii.jp/elem/000/004/441/4441832/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/441/4441832/?rss</guid>
-<pubDate>Mon, 12 Oct 2026 03:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>SciEmo、カターレ富山と挑む「ワンチーム」のクラブ経営 — ASCII.jp / score: 15 (スポーツクラブの経営に関する話題である)</description>
-</item>
-<item>
-<title>NVIDIA独自コア「Olympus」の真価　Vera CPUが見せたIPC全振りの重厚構造とメモリー帯域依存</title>
-<link>https://ascii.jp/elem/000/004/441/4441711/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/441/4441711/?rss</guid>
-<pubDate>Mon, 12 Oct 2026 03:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>Hot Chips第6弾はNVIDIAのVeraである。前回のArm AGI CPUは、言ってみればArm v9.3-Aのお手本のような構成だったが、これをNVIDIAが実現するとどうなったか？ というのが今回ご紹介するVera CPUとなる。 — ASCII.jp / score: 70 (NVIDIAの新型Vera CPUのアーキテクチャ解説)</description>
-</item>
-<item>
-<title>「Lenovo Legion 5i Gen 11」レビュー。ディスプレイは美しいけど、さすがに高すぎるって…</title>
-<link>https://www.gizmodo.jp/article/2610-lenovo-legion-5i-gen-11-review/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2610-lenovo-legion-5i-gen-11-review/</guid>
-<pubDate>Mon, 12 Oct 2026 03:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>美しく明るいOLEDディスプレイが魅力の「Lenovo Legion 5i Gen 11」をレビュー。価格高騰やスペックに見合う価値があるのか、実際の使用感から徹底検証します。 — ギズモード・ジャパン / score: 40 (ノートPCの製品レビュー情報)</description>
-</item>
-<item>
-<title>応募ゼロ求人の共通点トップ4--原因の大半は原稿の外にあった</title>
-<link>https://ascii.jp/elem/000/004/441/4441828/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/441/4441828/?rss</guid>
-<pubDate>Mon, 12 Oct 2026 02:54:53 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>応募ゼロ求人の共通点トップ4--原因の大半は原稿の外にあった — ASCII.jp / score: 15 (求人広告の応募数に関する一般的な考察)</description>
-</item>
-<item>
-<title>ビル・ゲイツ氏、AI悪用のサイバー攻撃増加を警告 「今後1年で顕著に」</title>
-<link>https://www.afpbb.com/articles/-/3657090</link>
-<guid isPermaLink="true">https://www.afpbb.com/articles/-/3657090</guid>
-<pubDate>Mon, 12 Oct 2026 02:47:23 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>米マイクロソフト共同創業者のビル・ゲイツ氏（2026年1月22日撮影）。(c)Stefan JERREVANG/TT News Agency/AFP 【10月12日 AFP】米マイクロソフト共同創業者のビル・ゲイツ氏は11日、規制が不十分な人工知能（AI）がもたらす脅威は増大していると警告し、今後1年でAIを悪用したサイバー攻撃が増加するとの見通しを示した... — はてなブックマーク テクノロジー / score: 70 (AI悪用のサイバー攻撃に関する著名人の警告)</description>
-</item>
-<item>
-<title>日本の企業が世界初の快挙。宇宙ごみを捕獲して除去するプロジェクト</title>
-<link>https://www.gizmodo.jp/article/2610-astroscale-space-debris-removal/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2610-astroscale-space-debris-removal/</guid>
-<pubDate>Mon, 12 Oct 2026 02:35:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>日本の企業「アストロスケール」が宇宙ごみを捕獲・除去する世界初の快挙を達成。深刻化するスペースデブリ問題解決に向けた画期的な宇宙テクノロジーの取り組みをご紹介します。 — ギズモード・ジャパン / score: 70 (宇宙ごみ除去の宇宙テクノロジーの快挙)</description>
-</item>
-<item>
-<title>SynapseGit 開発の経緯と紹介 — 絵画の進捗管理で使ってみた</title>
-<link>https://qiita.com/hc_terashima/items/6a56f066d89425400d2f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/hc_terashima/items/6a56f066d89425400d2f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Mon, 12 Oct 2026 02:22:55 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>はじめに IKEA で買ったゴッホ《星月夜》のレプリカに、アクリルの白・青・黒を重ねて、明度5段階の絵に描き替えています。その制作の進み具合を、自作のツール SynapseGit で工程ごとに記録してみました。 1日目の 2026-10-09 は、計画と工程1〜4の5件を... — Qiita 人気記事 / score: 40 (絵画の進捗管理用自作ツールの紹介と開発経緯)</description>
-</item>
-<item>
-<title>産業連関表を3Dで可視化して「日本経済の地図帳」を作った【MapLibre / 3d-force-graph / 月0円】</title>
-<link>https://qiita.com/Haradasn/items/cbe422339fa409dbb1ec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/Haradasn/items/cbe422339fa409dbb1ec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Mon, 12 Oct 2026 02:16:13 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>日本の産業どうしの取引（産業連関表）を、3Dのネットワークと都道府県の立体地図にして、「経済の全体像」を眺められるサイトを作りました。 公的統計だけを使い、静的サイト＋Cloudflare Workers で月0円で動いています。人間の作業は2〜3時間ほどで、実装の大部分... — Qiita 人気記事 / score: 60 (産業連関表を3D可視化するユニークなWebアプリ開発)</description>
-</item>
-<item>
-<title>個人開発者よ、Honoを使え</title>
-<link>https://qiita.com/tanahiro2010/items/c76f51efc93fc357d4c5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/tanahiro2010/items/c76f51efc93fc357d4c5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Mon, 12 Oct 2026 02:11:33 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>個人開発で最も貴重なものは、CPUやメモリよりも、開発者自身の時間と認知負荷です。 この記事では、Hono Conference 2026で話した内容をもとに、個人開発で「必要になる前から複雑さを背負わない」ための設計について紹介します。 最初に結論を言うと、Honoを使え... — Qiita 人気記事 / score: 70 (個人開発におけるHono活用の設計思想とメリット)</description>
-</item>
-<item>
-<title>何を着けても良い。VESA取り付け選手権、自由形の王者</title>
-<link>https://www.gizmodo.jp/article/sanwa-vesa-mount-mr-vesa7/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/sanwa-vesa-mount-mr-vesa7/</guid>
-<pubDate>Mon, 12 Oct 2026 02:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>結束バンドとは恐れ入った…。外付けHDDやSSD、ハブなどはデスクの近くに置きたい。でも、デスクの上は一杯で…。そんな悩み、ありますよね。僕調べだと全宇宙の90％がこの悩みを抱えています。ごめんウソ。でも、そんなデスク近くに置き場があるじゃ… — ギズモード・ジャパン / score: 35 (VESAマウントを活用した周辺機器の工夫)</description>
-</item>
-<item>
-<title>Reservoir Computing で公開ベンチマークの異常検知をやってみる</title>
-<link>https://zenn.dev/kotton_mas/articles/rc-basics-05-anomaly-detection</link>
-<guid isPermaLink="true">https://zenn.dev/kotton_mas/articles/rc-basics-05-anomaly-detection</guid>
-<pubDate>Mon, 12 Oct 2026 01:49:27 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>はじめに 今までの記事では自分で作った合成データだけでしたが、今回は外部の公開ベンチマークを使います。MGAB (Mackey-Glass Anomaly Benchmark) です。 先に正直に書いておくと、MGAB は「実データ」ではありません。Mackey-Glass 系列に人工的な異常区間を挿入して作られた合成ベンチマークです。実データ (UCR Anomaly Archive) も候補にはしたのですが、今回は回していません。理由は最後に書きます。 やることは単純で、ESN で1ステップ先を予測して、その残差の異常さでアラートを出すというもの。 スコアの系統を6つ並べました。... — Zenn トレンド / score: 50 (リザーバー計算を用いた異常検知の実装検証記事)</description>
-</item>
-<item>
-<title>Microsoft-Decision-1でAI-OCRの品質ゲートを作ってみた</title>
-<link>https://zenn.dev/headwaters/articles/6e889f79ee9f2e</link>
-<guid isPermaLink="true">https://zenn.dev/headwaters/articles/6e889f79ee9f2e</guid>
-<pubDate>Mon, 12 Oct 2026 01:45:36 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>執筆日 2026/10/12 参考資料 https://commandline.microsoft.com/microsoft-decision-1-model-foundry/ https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-microsoft-decision-1-in-microsoft-foundry-for-decision-and-classific/4562742 https://learn.microsoft.com/azure/foundry/foundry-m... — Zenn トレンド / score: 55 (Microsoft新モデルを活用したAI-OCR検証)</description>
-</item>
-<item>
-<title>MicrosoftのナデラCEO、「SIモデルは“内部リスク”として扱うべき」とXに投稿　統制はモデルの外に置くよう提言</title>
-<link>https://www.itmedia.co.jp/news/article/2610/12/2000002195/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/12/2000002195/</guid>
-<pubDate>Mon, 12 Oct 2026 01:35:17 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>米Microsoftのサティア・ナデラCEOは10月10日（現地時間）、Xに「Models as Insider Risks in the Super Intelligence Era」（SI時代の内部リスクとしてのモデル）と題した長文を投稿した。フロンティアモデルを組織内部の“インサイダーリスク”と同様に扱い、モデルの外側に統制の仕組みを置くべきだと訴えている。なお... — はてなブックマーク テクノロジー / score: 75 (Microsoft CEOによるAIセキュリティの重要な提言)</description>
-</item>
-<item>
-<title>約147億円が一斉に流出。東南アジアでスパイウェア入りの暗号キーが出回る</title>
-<link>https://www.gizmodo.jp/article/2610-crypto-hardware-wallet-spyware-incident/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2610-crypto-hardware-wallet-spyware-incident/</guid>
-<pubDate>Mon, 12 Oct 2026 01:30:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>暗号資産の金庫であるハードウェアウォレットにスパイ装置が仕込まれ、約147億円が流出する事件が発生。偽装の手口やLedger社の対応をわかりやすく解説します。 — ギズモード・ジャパン / score: 85 (暗号資産のハードウェアウォレット大規模流出事件)</description>
-</item>
-<item>
-<title>個人情報の流出にユーザーはどう備える？　乗っ取りやクレカ不正利用を防ぐ「3段階」の対策ガイド</title>
-<link>https://www.itmedia.co.jp/mobile/articles/2610/12/news011.html</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/mobile/articles/2610/12/news011.html</guid>
-<pubDate>Mon, 12 Oct 2026 01:17:05 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>個人情報の流出にユーザーはどう備える？ 乗っ取りやクレカ不正利用を防ぐ「3段階」の対策ガイド（1/2 ページ） 2026年に入り、日常的に使う身近なサービスでの不正アクセスが相次ぎ、個人情報の漏えいが大きな問題となっています。目立つのは、サービス側のシステムが攻撃を受け、会員情報がまとめて流出するケースで... — はてなブックマーク テクノロジー / score: 60 (個人情報流出への具体的な対策ガイド)</description>
-</item>
-<item>
-<title>AppleのスマートホームハブはA18チップ搭載＆壁掛けモデルも用意され「HomeView」という名称で11月出荷か</title>
-<link>https://gigazine.net/news/20261012-apple-smart-home-homeview/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261012-apple-smart-home-homeview/</guid>
-<pubDate>Mon, 12 Oct 2026 01:02:42 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Appleはスマートホーム関連デバイスを開発中で、10月13日開催予定の新製品発表会でこれらを発表すると目されています。そんなスマートホーム関連デバイスの中心となるスマートホームハブは、「HomeView」という名称になると報じられました。 Apple Smart Home Launch Oct. 13 Plans; HomeView Has Mid-November Release ... — はてなブックマーク テクノロジー / score: 40 (Appleのスマートホーム新製品の噂)</description>
-</item>
-<item>
-<title>画像はどうやってベクトルになるのか — 正解の画像でも類似度が 0.5 に届かない理由</title>
-<link>https://zenn.dev/kotap/articles/clip-image-embedding</link>
-<guid isPermaLink="true">https://zenn.dev/kotap/articles/clip-image-embedding</guid>
-<pubDate>Mon, 12 Oct 2026 01:00:05 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>テキストをベクトルにする話はよく見るが、画像はどうやってベクトルになるのか。 この記事では CLIP を手元で動かし、中間の値を実際に取り出しながら処理を追う。後半では、テキストで画像を検索したときのスコアが実際にどう分布するかを MS-COCO の 1,000 枚で測る。 スコアには、2 つのベクトルの向きがどれだけ揃っているかを表す コサイン類似度（以下 cos）を使う。同じ向きなら 1、直交していれば 0、逆向きなら −1。 実行は @huggingface/transformers（Transformers.js）のローカル推論。API キーは不要。使うモデルは Xenova/c... — Zenn トレンド / score: 65 (画像ベクトル化とCLIPの挙動に関する技術解説)</description>
-</item>
-<item>
-<title>Kiro Crewは魔改造しなくてもClaude Codeで使える！いいんですか？？AWSさん！</title>
-<link>https://qiita.com/moritalous/items/065b32fd5e765bc54726?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/moritalous/items/065b32fd5e765bc54726?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Mon, 12 Oct 2026 00:35:04 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>Kiro Crewを使い始めました👻👻👻 Kiro Crewは裏側でKiro CLIと連携して動作する仕組みなのですが、ドキュメントを読んでいると、どうもClaude Codeでも動作するようです。 ACP (Agent Client Protocol) という仕... — Qiita 人気記事 / score: 55 (Claude Codeを用いたKiro Crewの連携解説)</description>
 </item>
 </channel>
 </rss>

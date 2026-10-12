@@ -4,13 +4,13 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 12 Oct 2026 14:17:26 +0000</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 16:10:36 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] Deno開発元がCloudflareに合流。Denoの開発は終了へ、今後はCloudflare WorkersとDurable Objectsのオープンソース実装に注力</title>
 <link>https://www.publickey1.jp/blog/26/denocloudflaredenocloudflare_workersdurable_objects.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/denocloudflaredenocloudflare_workersdurable_objects.html</guid>
-<pubDate>Mon, 12 Oct 2026 14:15:46 +0000</pubDate>
+<pubDate>Mon, 12 Oct 2026 15:46:53 +0000</pubDate>
 <category>Publickey</category>
 <description>JavaScriptランタイム「Deno」の開発元であるDeno LandとCloudflareは、Deno LandがCloudflareに合流すると発表しました。CloudflareによるDeno Landの買収と見られます（Deno ... — Publickey / score: 95 (Deno開発終了とCloudflare合流の重大なニュース)</description>
 </item>
@@ -101,6 +101,14 @@
 <pubDate>Tue, 29 Sep 2026 10:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders. — OpenAI News / score: 90 (大規模AIカンファレンスの総括で重要度が高い。)</description>
+</item>
+<item>
+<title>[85] Python 3.10 end of life</title>
+<link>https://github.com/python/cpython/releases/tag/3.10</link>
+<guid isPermaLink="true">https://github.com/python/cpython/releases/tag/3.10</guid>
+<pubDate>Mon, 12 Oct 2026 14:17:51 +0000</pubDate>
+<category>CPython リリース</category>
+<description>Here am I floating 'round my tin can Far above the moon Planet Earth is blue And there's nothing I can do Five years in orbit. Mission complete. ;) — CPython リリース / score: 85 (Python 3.10のサポート終了情報)</description>
 </item>
 <item>
 <title>[85] マイクロソフト 新型AI半導体発表</title>
@@ -405,6 +413,14 @@
 <pubDate>Tue, 29 Sep 2026 01:48:18 +0000</pubDate>
 <category>Latent Space</category>
 <description>Shipping Opus/Sonnet 5.5, Mods, Plugins, Projects, Tag while Pacing the Frontier — Latent Space / score: 80 (AnthropicのClaude Code新機能や新モデル情報。)</description>
+</item>
+<item>
+<title>[75] 10 Years of the SRE book: Announcing the second edition of "Site Reliability Engineering”</title>
+<link>https://cloud.google.com/blog/products/devops-sre/sre-book-second-edition/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/devops-sre/sre-book-second-edition/</guid>
+<pubDate>Mon, 12 Oct 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>A decade ago, Google released Site Reliability Engineering: How Google Runs Production Systems with O'Reilly Media. What began as a collection of our practices for managing large-scale infrastructure became a bestselling book, and inspired many organizations to adopt the reliability practices it outlined: applying software engineering to operations to build systems that are scalable, reliable, and sustainable. Over the past ten years, computing landscapes have undergone profound shifts. AI, micr — Google Cloud Blog / score: 75 (SREのバイブル的書籍の第2版アナウンス)</description>
 </item>
 <item>
 <title>[75] Django、HackerOne経由での新規セキュリティ報告の受け付けを終了</title>
@@ -751,6 +767,22 @@
 <description>OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences. — OpenAI News / score: 75 (OpenAIの豪州でのサイバー防衛支援と謝罪。)</description>
 </item>
 <item>
+<title>[70] Introducing TimesFM 3.0 with multivariate time-series forecasting in BigQuery</title>
+<link>https://cloud.google.com/blog/products/data-analytics/bigquery-timesfm-3-0-with-multivariate-time-series-forecasting/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/data-analytics/bigquery-timesfm-3-0-with-multivariate-time-series-forecasting/</guid>
+<pubDate>Mon, 12 Oct 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Overview Since introducing zero-shot time-series forecasting in BigQuery with AI.FORECAST — initially powered by TimesFM 2.0 and later upgraded to TimesFM 2.5 — you have been able to generate forecasts directly in SQL without training or managing custom models. However, up until TimesFM 2.5, these foundation models were limited to univariate forecasting, predicting future values from the history of a single time series alone. In practice, most real-world forecasting problems are multivariate, wh — Google Cloud Blog / score: 70 (BigQueryの時系列予測機能の拡張)</description>
+</item>
+<item>
+<title>[70] Agentic data science with the Data Agent Kit</title>
+<link>https://cloud.google.com/blog/products/data-analytics/bringing-you-the-data-agent-kit/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/data-analytics/bringing-you-the-data-agent-kit/</guid>
+<pubDate>Mon, 12 Oct 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Imagine your compliance team notices that payments are taking longer than expected to clear. They suspect fraud, and you’re the data scientist helping figure out which transactions to investigate first. Assembling that shortlist requires ingesting and cleaning raw transaction logs, training a model on past fraud, scoring new records, and scheduling the pipeline to run daily. Here’s how you can build that workflow end to end with an agent, using the Data Agent Kit inside the Antigravity IDE. Intr — Google Cloud Blog / score: 70 (エージェント型データサイエンスツール発表)</description>
+</item>
+<item>
 <title>[70] October 12, 2026</title>
 <link>https://docs.cloud.google.com/release-notes#October_12_2026</link>
 <guid isPermaLink="true">https://docs.cloud.google.com/release-notes#October_12_2026</guid>
@@ -767,44 +799,12 @@
 <description> — Yahoo!ニュース IT / score: 70 (AIがサイバー攻撃を加速させる影響についての報道)</description>
 </item>
 <item>
-<title>[70] NVIDIA独自コア「Olympus」の真価　Vera CPUが見せたIPC全振りの重厚構造とメモリー帯域依存</title>
-<link>https://ascii.jp/elem/000/004/441/4441711/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/441/4441711/?rss</guid>
-<pubDate>Mon, 12 Oct 2026 03:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>Hot Chips第6弾はNVIDIAのVeraである。前回のArm AGI CPUは、言ってみればArm v9.3-Aのお手本のような構成だったが、これをNVIDIAが実現するとどうなったか？ というのが今回ご紹介するVera CPUとなる。 — ASCII.jp / score: 70 (NVIDIAの新型Vera CPUのアーキテクチャ解説)</description>
-</item>
-<item>
-<title>[70] ビル・ゲイツ氏、AI悪用のサイバー攻撃増加を警告 「今後1年で顕著に」</title>
-<link>https://www.afpbb.com/articles/-/3657090</link>
-<guid isPermaLink="true">https://www.afpbb.com/articles/-/3657090</guid>
-<pubDate>Mon, 12 Oct 2026 02:47:23 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>米マイクロソフト共同創業者のビル・ゲイツ氏（2026年1月22日撮影）。(c)Stefan JERREVANG/TT News Agency/AFP 【10月12日 AFP】米マイクロソフト共同創業者のビル・ゲイツ氏は11日、規制が不十分な人工知能（AI）がもたらす脅威は増大していると警告し、今後1年でAIを悪用したサイバー攻撃が増加するとの見通しを示した... — はてなブックマーク テクノロジー / score: 70 (AI悪用のサイバー攻撃に関する著名人の警告)</description>
-</item>
-<item>
 <title>[70] 日本の企業が世界初の快挙。宇宙ごみを捕獲して除去するプロジェクト</title>
 <link>https://www.gizmodo.jp/article/2610-astroscale-space-debris-removal/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/2610-astroscale-space-debris-removal/</guid>
 <pubDate>Mon, 12 Oct 2026 02:35:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>日本の企業「アストロスケール」が宇宙ごみを捕獲・除去する世界初の快挙を達成。深刻化するスペースデブリ問題解決に向けた画期的な宇宙テクノロジーの取り組みをご紹介します。 — ギズモード・ジャパン / score: 70 (宇宙ごみ除去の宇宙テクノロジーの快挙)</description>
-</item>
-<item>
-<title>[70] 個人開発者よ、Honoを使え</title>
-<link>https://qiita.com/tanahiro2010/items/c76f51efc93fc357d4c5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/tanahiro2010/items/c76f51efc93fc357d4c5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Mon, 12 Oct 2026 02:11:33 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>個人開発で最も貴重なものは、CPUやメモリよりも、開発者自身の時間と認知負荷です。 この記事では、Hono Conference 2026で話した内容をもとに、個人開発で「必要になる前から複雑さを背負わない」ための設計について紹介します。 最初に結論を言うと、Honoを使え... — Qiita 人気記事 / score: 70 (個人開発におけるHono活用の設計思想とメリット)</description>
-</item>
-<item>
-<title>[70] CPUのみで動作するリアルタイム多言語音声認識「早耳」、GPUもクラウドAPIも使わずメモリ2GB未満でライブ字幕表示からブラウザ表示・話者ラベル付け・翻訳字幕まで可能</title>
-<link>https://gigazine.net/news/20261011-hayamimi/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261011-hayamimi/</guid>
-<pubDate>Sun, 11 Oct 2026 03:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>「Hayamimi(早耳)」はGPUやクラウドAPIに依存せずCPUのみで動作する軽量なリアルタイム多言語音声認識システムです。メモリ2GB未満の環境でもライブ字幕表示・話者ラベル付け・翻訳字幕生成まで対応し、発話中から字幕が出始め話し終えて約100msで確定する高速性が特徴です。 続きを読む... — GIGAZINE / score: 70 (軽量で高性能な音声認識システムの登場)</description>
 </item>
 </channel>
 </rss>
