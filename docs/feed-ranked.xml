@@ -4,8 +4,16 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Tue, 13 Oct 2026 06:19:12 +0000</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2026 08:18:21 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>[98] 「GitLab」にまたも緊急パッチ、CVSS基本値「10.0」の脆弱性に対処／認証なしでサーバー上で任意のコードを実行されるおそれ</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2147488.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2147488.html</guid>
+<pubDate>Tue, 13 Oct 2026 07:57:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米GitLabは10月12日（現地時間）、「GitLab」の緊急パッチ v19.4.2、v19.3.5、v19.2.8 をリリースした。「Community Edition」（CE）と「Enterprise Edition」（EE）が対象で、計24件の脆弱性が修正されている。同社は、自分で運用しているすべての「GitLab」を、ただちにこれらのバージョンへアップグレードするよう強く推奨している。 — 窓の杜 / score: 98 (GitLabのCVSS 10.0緊急パッチリリース)</description>
+</item>
 <item>
 <title>[95] Deno開発元がCloudflareに合流。Denoの開発は終了へ、今後はCloudflare WorkersとDurable Objectsのオープンソース実装に注力</title>
 <link>https://www.publickey1.jp/blog/26/denocloudflaredenocloudflare_workersdurable_objects.html</link>
@@ -13,14 +21,6 @@
 <pubDate>Mon, 12 Oct 2026 15:46:53 +0000</pubDate>
 <category>Publickey</category>
 <description>JavaScriptランタイム「Deno」の開発元であるDeno LandとCloudflareは、Deno LandがCloudflareに合流すると発表しました。CloudflareによるDeno Landの買収と見られます（Deno ... — Publickey / score: 95 (Deno開発終了とCloudflare合流の重大なニュース)</description>
-</item>
-<item>
-<title>[95] 「Google Chrome 155」が公開 ～247件もの脆弱性を修正、「Critical」は4件／「Rust」言語で実装された「JPEG XL」のデコーダーを追加、「WebCrypto」に耐量子暗号</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2146201.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2146201.html</guid>
-<pubDate>Wed, 07 Oct 2026 00:25:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Googleは10月6日（現地時間）、デスクトップ向け「Google Chrome」の安定（Stable）チャネルをv155.0.8059.39/.40へアップデートした。今後数日～数週間かけて、Windows/Mac環境にはv155.0.8059.39/.40、Linux環境にはv155.0.8059.39が展開される。 — 窓の杜 / score: 95 (多数の脆弱性を修正したChromeのメジャーアップデート)</description>
 </item>
 <item>
 <title>[95] September 2026 Security Release</title>
@@ -111,6 +111,38 @@
 <description>Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders. — OpenAI News / score: 90 (大規模AIカンファレンスの総括で重要度が高い。)</description>
 </item>
 <item>
+<title>[85] CloudflareがDenoを買収して1年後に公式サポート終了へ、開発継続は引き継ぐ人が現れるか次第</title>
+<link>https://gigazine.net/news/20261013-cloudflare-deno/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261013-cloudflare-deno/</guid>
+<pubDate>Tue, 13 Oct 2026 08:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>Cloudflareが2026年10月9日にJavaScript実行環境「Deno」を開発する企業を買収したことを発表しました。Denoの開発チームはCloudflareに合流し、Deno本体の公式開発は約1年後に終了する予定です。Denoはオープンソースとして公開が続けられますが、開発元によるサポートは約1年後に終了し、その後の開発継続は新たな開発者に委ねられます。 続きを読む... — GIGAZINE / score: 85 (CloudflareによるDeno買収と公式サポート終了)</description>
+</item>
+<item>
+<title>[85] 公開アプリを解析してサーバーを攻撃する「A2B攻撃」、相次ぐ不正アクセスの原因の1つとしてにNICTが注意喚起</title>
+<link>https://internet.watch.impress.co.jp/docs/news/2147673.html</link>
+<guid isPermaLink="true">https://internet.watch.impress.co.jp/docs/news/2147673.html</guid>
+<pubDate>Tue, 13 Oct 2026 06:32:40 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>公開アプリを解析してサーバーを攻撃する「A2B攻撃」、相次ぐ不正アクセスの原因の1つとしてにNICTが注意喚起 — はてなブックマーク テクノロジー / score: 85 (A2B攻撃に関するNICTの重要なセキュリティ注意喚起)</description>
+</item>
+<item>
+<title>[85] 【注意喚起】 相次ぐ情報漏えい、その原因の一つは「アプリ解析からのサーバ攻撃」｜2026年｜NICT-情報通信研究機構</title>
+<link>https://www.nict.go.jp/press/2026/10/13-1.html</link>
+<guid isPermaLink="true">https://www.nict.go.jp/press/2026/10/13-1.html</guid>
+<pubDate>Tue, 13 Oct 2026 05:15:17 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>【注意喚起】 相次ぐ情報漏えい、その原因の一つは「アプリ解析からのサーバ攻撃」｜2026年｜NICT-情報通信研究機構 トップ&gt;広報&gt;プレスリリース&gt;2026年&gt;【注意喚起】 相次ぐ情報漏えい、その原因の一つは「アプリ解析からのサーバ攻撃」 — はてなブックマーク テクノロジー / score: 85 (アプリ解析からのサーバ攻撃に関する重要な注意喚起)</description>
+</item>
+<item>
+<title>[85] 【注意喚起】相次ぐ情報漏洩、その原因の一つは「アプリ解析からのサーバ攻撃」― AIで高度化する脆弱性探索、Androidアプリを手がかりにしたA2B攻撃に注意 ― | ライブラリー | サイバーセキュリティネクサス | NICT</title>
+<link>https://cynex.nict.go.jp/library/261013-01.html</link>
+<guid isPermaLink="true">https://cynex.nict.go.jp/library/261013-01.html</guid>
+<pubDate>Tue, 13 Oct 2026 05:02:30 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>【注意喚起】相次ぐ情報漏洩、その原因の一つは「アプリ解析からのサーバ攻撃」 ― AIで高度化する脆弱性探索、Androidアプリを手がかりにしたA2B攻撃に注意 ― 脅威情報分析チームLETTICEは、一般に公開されているAndroidアプリを解析し、その結果を利用して、アプリの裏側で動作するバックエンドサーバを攻撃する手法「A... — はてなブックマーク テクノロジー / score: 85 (AI時代の新しい攻撃手法A2B攻撃についての詳細な警告)</description>
+</item>
+<item>
 <title>[85] Movable Typeに深刻な脆弱性が見つかる――2026年10月7日、脆弱性対策最新版MT公開</title>
 <link>https://gihyo.jp/article/2026/10/mt-security-update2610?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/10/mt-security-update2610?utm_source=feed</guid>
@@ -159,14 +191,6 @@
 <description>「Windows Update」への接続に使われている証明書が近く期限切れを迎えるため、証明書の入れ替え（ローテーション）が実施されるとのこと。米Microsoftが10月8日（現地時間、以下同）、公式ブログ「Windows IT Pro Blog」などでアナウンスしている。 — 窓の杜 / score: 85 (Windows Update証明書の期限切れ注意)</description>
 </item>
 <item>
-<title>[85] AWS Lambda announces Lambda Web Functions - AWS</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-web-functions/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-web-functions/</guid>
-<pubDate>Tue, 13 Oct 2026 00:46:35 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>AWS Lambda announces Lambda Web Functions - AWS The session catalog is live. Explore what's waiting for you — はてなブックマーク テクノロジー / score: 85 (AWS Lambdaの新機能でHTTP直接処理が可能に)</description>
-</item>
-<item>
 <title>[85] サイバー攻撃で複数の大手スーパーの冷蔵・冷凍施設が最大50℃に　フランス｜FNNプライムオンライン</title>
 <link>https://www.fnn.jp/articles/-/1131558</link>
 <guid isPermaLink="true">https://www.fnn.jp/articles/-/1131558</guid>
@@ -183,6 +207,14 @@
 <description>Announcing AWS Lambda Web Functions | Amazon Web Services The session catalog is live. Explore what's waiting for you — はてなブックマーク テクノロジー / score: 85 (AWS Lambda Web Functions発表の公式解説)</description>
 </item>
 <item>
+<title>[85] AWS Lambda announces Lambda Web Functions</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-web-functions/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-web-functions/</guid>
+<pubDate>Mon, 12 Oct 2026 19:30:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS Lambda announces Lambda Web Functions, a new serverless compute primitive where your code handles HTTP requests directly. Your code listens on a port and handles requests as it would on any HTTP server. You use frameworks you already know, such as Express or Hono, with no adapters or custom configuration. This enables you to serve workloads such as AI inference endpoints, server-side rendered (SSR) web apps, streaming API endpoints, microservices, and webhooks. You pay for active CPU time an — AWS What's New / score: 85 (AWS Lambdaの新機能でHTTP直接処理が可能に)</description>
+</item>
+<item>
 <title>[85] Python 3.10 end of life</title>
 <link>https://github.com/python/cpython/releases/tag/3.10</link>
 <guid isPermaLink="true">https://github.com/python/cpython/releases/tag/3.10</guid>
@@ -197,14 +229,6 @@
 <pubDate>Mon, 12 Oct 2026 14:08:55 +0000</pubDate>
 <category>Yahoo!ニュース IT</category>
 <description> — Yahoo!ニュース IT / score: 85 (マイクロソフトによる新型AI半導体の発表)</description>
-</item>
-<item>
-<title>[85] ClickFixを踏んでしまったので、macOS上で何が起きたのか解析した</title>
-<link>https://qiita.com/TIshow/items/e815235eac66f656c3b6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/TIshow/items/e815235eac66f656c3b6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Sun, 11 Oct 2026 13:50:56 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>ClickFix を踏んでしまいました。 Webページ上の偽CAPTCHAからTerminalを開かされ、表示されたコマンドを貼り付けて実行するタイプのものです。 気付いた時点ではすでに、macOS上で Finderを装った不審なアプリケーション がバックグラウンド実行され... — Qiita 人気記事 / score: 85 (マルウェア「ClickFix」のmacOSにおける感染・動作の詳細な解析。)</description>
 </item>
 <item>
 <title>[85] Deno is joining Cloudflare</title>
@@ -359,6 +383,22 @@
 <description>Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices. — OpenAI News / score: 85 (主要AIの新モデル発表で開発者コミュニティに影響。)</description>
 </item>
 <item>
+<title>[80] エッジデバイスを悪用し被害者を永続的なプロキシに変えるLinuxボットネット「Evooo1Bot」</title>
+<link>https://ascii.jp/elem/000/004/441/4441874/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/441/4441874/?rss</guid>
+<pubDate>Tue, 13 Oct 2026 08:00:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>エッジデバイスを悪用し、被害者を永続的なプロキシに変える、Miraiベースの新たなボットネットについて、FortiGuard Labsが解説。 — ASCII.jp / score: 80 (新種Linuxボットネットの脅威解説)</description>
+</item>
+<item>
+<title>[80] Meta、同社史上もっとも高性能なAIモデル「Muse Wonder」シリーズを発表／個人・業務向けのAIエージェント用途を重視。「Muse Code」と「Meta Model API」で即日利用可能</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2147475.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2147475.html</guid>
+<pubDate>Tue, 13 Oct 2026 06:14:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Metaは10月12日（現地時間）、新たなフロンティアモデル「Muse Wonder」シリーズを発表した。個人向け・業務向けのAIエージェント用途を重視したモデルで、Metaはこれを「Personal Superintelligence」（個人向け超知能）への重要なステップと位置付けている。 — 窓の杜 / score: 80 (Metaの新型高性能AIモデル発表)</description>
+</item>
+<item>
 <title>[80] Anthropic、自己複製AIの「兆し」を指摘　55ドルのTVボックス15台で26Bモデルが稼働</title>
 <link>https://www.itmedia.co.jp/news/article/2610/13/2000002204/</link>
 <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/13/2000002204/</guid>
@@ -381,14 +421,6 @@
 <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
 <category>Inside Java</category>
 <description>Structured Concurrency is the next major feature from Project Loom. In this session, we will explain the motivation and design of structured concurrency, show how to use it effectively, and discuss the lessons learned as the feature evolved. We'll also look beneath the surface at the new lower-level API behind the latest design, offering an early glimpse of work that is expected to form the basis of a future lower-level structured concurrency API. — Inside Java / score: 80 (Project Loomの構造化コンカレンシー解説)</description>
-</item>
-<item>
-<title>[80] Microsoft セキュリティ、これをやってください！～ 実践ベストプラクティス</title>
-<link>https://qiita.com/carol0226/items/bdb16dbd5c16a2c43ad5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/carol0226/items/bdb16dbd5c16a2c43ad5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Sat, 10 Oct 2026 07:41:11 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>はじめに 2026年9月下旬以降、国内でもサイバー攻撃による被害が相次いで報道されています。 その侵入経路は、ネットワーク機器の脆弱性を突くものや、フィッシングメールなど、さまざまです。 また今後は、利用者自身だけでなく、AI エージェントが外部のコンテンツやサービスへア... — Qiita 人気記事 / score: 80 (Microsoft製品の実践的なセキュリティ対策)</description>
 </item>
 <item>
 <title>[80] 「Microsoft Execution Containers」が一般提供、AIエージェントを安全に動かす基盤／Windows/macOS/Linuxで「Rust」「.NET」「Node.js」対応のSDKを提供</title>
@@ -463,12 +495,36 @@
 <description>Microsoftは9月29日、Windows Subsystem for Linux（WSL）のコンテナ機能「WSL containers」の一般提供を開始した。 — gihyo.jp / score: 80 (WSL containersの一般提供開始)</description>
 </item>
 <item>
+<title>[75] 楽天モバイルで情報漏えいのおそれ　過去に契約していた人も対象に</title>
+<link>https://ascii.jp/elem/000/004/442/4442187/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/442/4442187/?rss</guid>
+<pubDate>Tue, 13 Oct 2026 07:20:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>楽天モバイルは10月13日、「my 楽天モバイル」からダウンロードできる支払い証明書について、第三者が閲覧できる可能性があったとして、利用者にメールで通知した。 — ASCII.jp / score: 75 (大手キャリアでの支払い証明書閲覧リスク)</description>
+</item>
+<item>
+<title>[75] Yandexのデータセンターがウクライナによる攻撃でフェイルオーバーできず多数のサービスがダウン</title>
+<link>https://gigazine.net/news/20261013-yandex-no-failover/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261013-yandex-no-failover/</guid>
+<pubDate>Tue, 13 Oct 2026 07:13:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>「ロシアのGoogle」とも表現されるIT大手・Yandexの3カ所のデータセンターが、ウクライナによるドローン攻撃によって大きな被害を受けている一件で、フェイルオーバー(予備システムへの切り替え)がうまくいっていないのか、傘下の多数のサービスに影響が出ています。 続きを読む... — GIGAZINE / score: 75 (大規模データセンターの障害事例と影響)</description>
+</item>
+<item>
 <title>[75] MicrosoftがJevっぽい意思決定モデル「Microsoft-Decision-1」をリリース</title>
 <link>https://gigazine.net/news/20261013-microsoft-decision-1/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261013-microsoft-decision-1/</guid>
 <pubDate>Tue, 13 Oct 2026 03:46:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>Microsoftが意志決定モデル「Microsoft-Decision-1」を現地時間の2026年10月9日にリリースしました。ゲームのレビューを分析するタスクではGPT-6 Solと同等の品質で14倍以上高速、コストは200分の1以下だったと報告されています。 続きを読む... — GIGAZINE / score: 75 (Microsoftによる新しい高速な意思決定モデルのリリース)</description>
+</item>
+<item>
+<title>[75] Strengthening our defenses against distillation attacks</title>
+<link>https://www.anthropic.com/research/distillation-defenses</link>
+<guid isPermaLink="true">https://www.anthropic.com/research/distillation-defenses</guid>
+<pubDate>Tue, 13 Oct 2026 03:33:19 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>In recent months, we’ve made substantial progress on reducing the effectiveness of distillation attacks on Claude using new methods, as we outline in this blog. Early evidence suggests that these methods have reduced the amount of data harvested by distillers by around 90 to 99 percent. Distillat... — はてなブックマーク テクノロジー / score: 75 (Claudeにおける蒸留攻撃への防御策強化に関する技術ブログ)</description>
 </item>
 <item>
 <title>[75] Microsoftが第3世代AIチップ「Maia 300」を発表、最新の推論モデルやエージェントタスクの処理能力向上へ向けて2027年に導入予定</title>
@@ -509,14 +565,6 @@
 <pubDate>Mon, 12 Oct 2026 15:55:27 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>個人情報の漏洩事案が過去に例をみないペースで公表されている。現在見えている事案はあくまで氷山の一角で、公表や検知すらされていない事案も数多く存在すると思われる。また、サイバー攻撃能力の高いAIの拡散によって今後さらに状況が悪くなる可能性が高い。ライフラインに関わる領域が攻撃されれば産業や人命にも関... — はてなブックマーク テクノロジー / score: 75 (政府へのサイバーセキュリティ提言に関する重要な話題)</description>
-</item>
-<item>
-<title>[75] 所有者チェック漏れを「気をつける」から「型で外れようがない」へ：ブランド型でIDORを設計から塞ぐ</title>
-<link>https://qiita.com/shun123/items/260b4fa2c791da70f263?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/shun123/items/260b4fa2c791da70f263?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Mon, 12 Oct 2026 12:18:53 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>はじめに セキュリティ研修で、脆弱性を含むWebアプリ（Hono + TypeScript）を題材に、所有者チェックが無いAPIのバグを見つけるところから、それを設計で塞ぐところまでを考える課題に取り組んだ。 この記事では、 資格で覚えた知識と、実際のコードを前にしたと... — Qiita 人気記事 / score: 75 (TypeScriptとブランド型を用いたIDOR脆弱性防止の設計手法解説。)</description>
 </item>
 <item>
 <title>[75] Django、HackerOne経由での新規セキュリティ報告の受け付けを終了</title>
@@ -757,54 +805,6 @@
 <pubDate>Thu, 01 Oct 2026 03:00:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Googleは2026年9月30日、AIモデル「Gemini 4 Argon」を発表した。 — gihyo.jp / score: 75 (Googleによるサイバー防御向け新AIモデル発表)</description>
-</item>
-<item>
-<title>[75] OpenAI GPT-6 Astra now supports UltraFast mode on Amazon Bedrock</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-astra-ultrafast-on-amazon-bedrock/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-astra-ultrafast-on-amazon-bedrock/</guid>
-<pubDate>Wed, 30 Sep 2026 19:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Today, AWS announces the availability of UltraFast mode for GPT-6 Astra from OpenAI on Amazon Bedrock. Ultrafast is a premium speed tier for GPT-6 Astra built for workloads where speed matters most. According to OpenAI, Ultrafast delivers up to 6x faster inference in the API, with up to 300 tokens per second. The Amazon Bedrock inference engine delivers the performance, security, and reliability required for production workloads. Use GPT-6 Astra Ultrafast for latency-sensitive applications such  — AWS What's New / score: 75 (Bedrockでの主要AIの高速モード対応)</description>
-</item>
-<item>
-<title>[75] Amazon Aurora PostgreSQL now supports direct querying of Apache Iceberg and Parquet data in your data lake</title>
-<link>https://aws.amazon.com/blogs/aws/amazon-aurora-postgresql-now-supports-direct-querying-of-apache-iceberg-and-parquet-data-in-your-data-lake/</link>
-<guid isPermaLink="true">https://aws.amazon.com/blogs/aws/amazon-aurora-postgresql-now-supports-direct-querying-of-apache-iceberg-and-parquet-data-in-your-data-lake/</guid>
-<pubDate>Wed, 30 Sep 2026 17:22:31 +0000</pubDate>
-<category>AWS News Blog</category>
-<description>Amazon Aurora PostgreSQL now lets you directly query Apache Iceberg and Parquet data stored in your data lake alongside live operational data—no ETL pipelines required. Powered by DuckDB embedded within Aurora, this capability enables single queries that join transactional and historical data using familiar PostgreSQL syntax. It supports AWS Glue Data Catalog, S3, and S3 Tables, with optimizations like predicate pushdown and caching for efficient performance. — AWS News Blog / score: 75 (Aurora PostgreSQLのIceberg直接クエリ対応)</description>
-</item>
-<item>
-<title>[75] Google Cloud、AIエージェントからの大量アクセスをPostgreSQLのプライマリDBから切り離せる「PostgreSQL for agents in AlloyDB」発表</title>
-<link>https://www.publickey1.jp/blog/26/google_cloudaipostgresqldbpostgresql_for_agents_in_alloydb.html</link>
-<guid isPermaLink="true">https://www.publickey1.jp/blog/26/google_cloudaipostgresqldbpostgresql_for_agents_in_alloydb.html</guid>
-<pubDate>Tue, 29 Sep 2026 15:46:18 +0000</pubDate>
-<category>Publickey</category>
-<description>Google Cloudは、本番環境で動作しているPostgreSQLの処理に影響を与えないよう、AIエージェントからの読み取りワークロード用にサンドボックス化されたPostgreSQLのデータベースインスタンスを数秒でプロビジョニングする... — Publickey / score: 75 (AIエージェント向けAlloyDBの新機能発表)</description>
-</item>
-<item>
-<title>[70] Anthropicが蒸留攻撃に対する効果的な対策を発見、敵対組織によるデータ抽出を90～99％削減</title>
-<link>https://gigazine.net/news/20261013-anthropic-defense-distillation-attacks/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261013-anthropic-defense-distillation-attacks/</guid>
-<pubDate>Tue, 13 Oct 2026 06:08:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>高性能なAIモデルを使って自分のAIモデルを学習する手法「蒸留」は、する側はコストを抑えて最先端モデルに近い性能を実現することができますが、される側は不要な負担を強いられるなどのデメリットがあります。こうした蒸留はしばしば「攻撃」と見なされ、対策が行われています。新たに、Anthropicが望まない蒸留を大幅に低減する手法を公開しました。 続きを読む... — GIGAZINE / score: 70 (AnthropicによるAIモデル蒸留攻撃の対策発表)</description>
-</item>
-<item>
-<title>[70] Microsoft、｢Office 2021｣及び｢Office for Mac 2021｣のサポートを本日で終了</title>
-<link>https://taisy0.com/2026/10/13/228826.html</link>
-<guid isPermaLink="true">https://taisy0.com/2026/10/13/228826.html</guid>
-<pubDate>Tue, 13 Oct 2026 03:42:00 +0000</pubDate>
-<category>気になる、記になる…</category>
-<description>Microsoftが、本日10月13日をもって、「Office 2021」のサポートも終了します。 また同時に、「Office for Mac 2021」もサポート終了となり、今回サポート終了となる「Office 202 […] — 気になる、記になる… / score: 70 (主要オフィス製品のサポート終了による影響)</description>
-</item>
-<item>
-<title>[70] X・Grok・Cursorのサブスクを統合した「The X Subscription」が登場、1つのサブスクでX有料機能や有料AIを使用可能に</title>
-<link>https://gigazine.net/news/20261013-the-x-subscription/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261013-the-x-subscription/</guid>
-<pubDate>Tue, 13 Oct 2026 03:41:28 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>SpaceXSI(旧称：SpaceXAI)がSNS「X」、AIサービス「Grok」、コーディングAIサービス「Cursor」の有料サブスクリプションプランを統合したことを発表しました。新たなサブスクリプションの名称は「The X Subscription」で、個人向けプランは「Free」「Plus」「Premium」「Super」「Ultra」の5段階に分かれています。 Pric... — はてなブックマーク テクノロジー / score: 70 (XやCursor等の主要サブスクリプション統合の話題)</description>
 </item>
 </channel>
 </rss>
