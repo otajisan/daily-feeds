@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Tue, 13 Oct 2026 18:13:32 +0000</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2026 20:10:20 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[98] 「GitLab」にまたも緊急パッチ、CVSS基本値「10.0」の脆弱性に対処／認証なしでサーバー上で任意のコードを実行されるおそれ</title>
@@ -53,6 +53,14 @@
 <pubDate>Tue, 13 Oct 2026 07:55:36 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>お知らせ 令和8年10月13日 不正アクセスによる情報漏えい等の事案を踏まえた対応について （公開アプリの解析情報を悪用した攻撃への注意喚起） 大量の個人情報を取り扱う事業者等の情報システムが不正アクセスにより侵入され、個人情報を含むデータが窃取される事案が相次いで確認されていることを踏まえ、総務省では、... — はてなブックマーク テクノロジー / score: 90 (総務省による不正アクセス注意喚起と情報漏洩対策)</description>
+</item>
+<item>
+<title>[90] トーバルズ、「説いた通りにやった」。LLMでLinuxの13年来のバグ4件を発見</title>
+<link>https://joho-todai.com/torvalds-llm-linux-13-year-old-bugs-fixed/</link>
+<guid isPermaLink="true">https://joho-todai.com/torvalds-llm-linux-13-year-old-bugs-fixed/</guid>
+<pubDate>Tue, 13 Oct 2026 04:53:09 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>リーナス・トーバルズ氏がLLMを使ってLinuxカーネルの連想配列ライブラリのコードを読みやすく書き直し、報告済みのバグを含む計4件の不具合を発見した。いずれも2013年の初回コミットから埋もれていた。 この記事のポイント 何が起きた: トーバルズ氏がLLMでassoc_arrayライブラリのコードを可読化し、2013年の初回コミ... — はてなブックマーク テクノロジー / score: 90 (リーナス氏がLLMを使いLinuxの長年のバグを発見した話題)</description>
 </item>
 <item>
 <title>[90] iPhoneの写真・メモを狙う「DarkSword」に新亜種、15秒ごとに指示を確認</title>
@@ -258,9 +266,9 @@
 <title>[85] 「Windows Update」証明書が2027年5月、6月に期限切れ ～場合によっては更新不能に陥ることも／最新パッチの適用、サポート対象の新しいOSバージョンの利用などを心掛けよう</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2147364.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2147364.html</guid>
-<pubDate>Tue, 13 Oct 2026 01:37:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>「Windows Update」への接続に使われている証明書が近く期限切れを迎えるため、証明書の入れ替え（ローテーション）が実施されるとのこと。米Microsoftが10月8日（現地時間、以下同）、公式ブログ「Windows IT Pro Blog」などでアナウンスしている。 — 窓の杜 / score: 85 (Windows Update証明書の期限切れ注意)</description>
+<pubDate>Tue, 13 Oct 2026 01:48:13 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>「Windows Update」証明書が2027年5月、6月に期限切れ ～場合によっては更新不能に陥ることも／最新パッチの適用、サポート対象の新しいOSバージョンの利用などを心掛けよう — はてなブックマーク テクノロジー / score: 85 (Windows Update証明書の期限切れ注意)</description>
 </item>
 <item>
 <title>[85] Announcing AWS Lambda Web Functions</title>
@@ -607,6 +615,14 @@
 <description> — Yahoo!ニュース IT / score: 75 (新しい攻撃手法に関するセキュリティの話題)</description>
 </item>
 <item>
+<title>[75] Higgsfield takes AI video from 1 minute to over 10</title>
+<link>https://openai.com/index/higgsfield-longer-videos-voice</link>
+<guid isPermaLink="true">https://openai.com/index/higgsfield-longer-videos-voice</guid>
+<pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live. — OpenAI News / score: 75 (AI動画生成の長尺化に関する大型ニュース)</description>
+</item>
+<item>
 <title>[75] 不正アクセス 自治体の配信が停止</title>
 <link>https://news.yahoo.co.jp/pickup/6598649?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6598649?source=rss</guid>
@@ -629,14 +645,6 @@
 <pubDate>Tue, 13 Oct 2026 07:13:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>「ロシアのGoogle」とも表現されるIT大手・Yandexの3カ所のデータセンターが、ウクライナによるドローン攻撃によって大きな被害を受けている一件で、フェイルオーバー(予備システムへの切り替え)がうまくいっていないのか、傘下の多数のサービスに影響が出ています。 続きを読む... — GIGAZINE / score: 75 (大規模データセンターの障害事例と影響)</description>
-</item>
-<item>
-<title>[75] Unreal Engine手がけるEpic Gamesのボス、ゲーム開発に「生成AI全力活用」を宣言。コードもアートも、全面的に“AIファースト” - AUTOMATON</title>
-<link>https://automaton-media.com/articles/newsjp/20261013-473138/</link>
-<guid isPermaLink="true">https://automaton-media.com/articles/newsjp/20261013-473138/</guid>
-<pubDate>Tue, 13 Oct 2026 06:06:12 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Unreal Engine手がけるEpic Gamesのボス、ゲーム開発に「生成AI全力活用」を宣言。コードもアートも、全面的に“AIファースト” Epic GamesのCEO、Tim Sweeney氏は10月13日、同社のゲーム開発において生成AIを使った開発を加速させる方針を発表した。 Epic GamesのCEO、Tim Sweeney氏は10月13日、同社のゲーム開発において... — はてなブックマーク テクノロジー / score: 75 (主要ゲームエンジン企業の生成AI活用方針発表)</description>
 </item>
 <item>
 <title>[75] MicrosoftがJevっぽい意思決定モデル「Microsoft-Decision-1」をリリース</title>
@@ -669,14 +677,6 @@
 <pubDate>Mon, 12 Oct 2026 16:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>A decade ago, Google released Site Reliability Engineering: How Google Runs Production Systems with O'Reilly Media. What began as a collection of our practices for managing large-scale infrastructure became a bestselling book, and inspired many organizations to adopt the reliability practices it outlined: applying software engineering to operations to build systems that are scalable, reliable, and sustainable. Over the past ten years, computing landscapes have undergone profound shifts. AI, micr — Google Cloud Blog / score: 75 (SREのバイブル的書籍の第2版アナウンス)</description>
-</item>
-<item>
-<title>[75] AI時代のサイバー攻撃、度重なる情報漏洩からの守りを固めるための政府への7つの提言私案｜安野貴博</title>
-<link>https://note.com/takahiroanno/n/n27e77cc9bb80</link>
-<guid isPermaLink="true">https://note.com/takahiroanno/n/n27e77cc9bb80</guid>
-<pubDate>Mon, 12 Oct 2026 15:55:27 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>個人情報の漏洩事案が過去に例をみないペースで公表されている。現在見えている事案はあくまで氷山の一角で、公表や検知すらされていない事案も数多く存在すると思われる。また、サイバー攻撃能力の高いAIの拡散によって今後さらに状況が悪くなる可能性が高い。ライフラインに関わる領域が攻撃されれば産業や人命にも関... — はてなブックマーク テクノロジー / score: 75 (政府へのサイバーセキュリティ提言に関する重要な話題)</description>
 </item>
 <item>
 <title>[75] Django、HackerOne経由での新規セキュリティ報告の受け付けを終了</title>
