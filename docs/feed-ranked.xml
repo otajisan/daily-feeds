@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Tue, 13 Oct 2026 20:10:20 +0000</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2026 22:08:05 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[98] 「GitLab」にまたも緊急パッチ、CVSS基本値「10.0」の脆弱性に対処／認証なしでサーバー上で任意のコードを実行されるおそれ</title>
@@ -39,6 +39,14 @@
 <description>We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model. — Google AI Blog / score: 90 (Googleの新しい最先端AIモデルGemini 4 Argon)</description>
 </item>
 <item>
+<title>[90] ブックオフ、約642万件の会員データ漏洩　退会会員も対象 - 日本経済新聞</title>
+<link>https://www.nikkei.com/article/DGXZQOUC135N90T11C26A0000000/</link>
+<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUC135N90T11C26A0000000/</guid>
+<pubDate>Tue, 13 Oct 2026 11:49:15 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>ブックオフグループホールディングス（HD）は13日、9日に公表した不正アクセスの現時点での調査結果を発表した。調査中としていた漏洩対象会員データ数が約642万件に上ると判明した。対象者には15日から順次、登録メールアドレス宛てに連絡するという。同社は9日、子会社の会員管理システムへの不正アクセスにより会員デ... — はてなブックマーク テクノロジー / score: 90 (大規模な個人情報流出とセキュリティインシデント)</description>
+</item>
+<item>
 <title>[90] 「Python 3.15」が正式公開 ～UTF-8が標準に、“番兵値”などの新しい言語機能も／実験的な「JIT」コンパイラーも大きく強化</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2147319.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2147319.html</guid>
@@ -53,14 +61,6 @@
 <pubDate>Tue, 13 Oct 2026 07:55:36 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>お知らせ 令和8年10月13日 不正アクセスによる情報漏えい等の事案を踏まえた対応について （公開アプリの解析情報を悪用した攻撃への注意喚起） 大量の個人情報を取り扱う事業者等の情報システムが不正アクセスにより侵入され、個人情報を含むデータが窃取される事案が相次いで確認されていることを踏まえ、総務省では、... — はてなブックマーク テクノロジー / score: 90 (総務省による不正アクセス注意喚起と情報漏洩対策)</description>
-</item>
-<item>
-<title>[90] トーバルズ、「説いた通りにやった」。LLMでLinuxの13年来のバグ4件を発見</title>
-<link>https://joho-todai.com/torvalds-llm-linux-13-year-old-bugs-fixed/</link>
-<guid isPermaLink="true">https://joho-todai.com/torvalds-llm-linux-13-year-old-bugs-fixed/</guid>
-<pubDate>Tue, 13 Oct 2026 04:53:09 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>リーナス・トーバルズ氏がLLMを使ってLinuxカーネルの連想配列ライブラリのコードを読みやすく書き直し、報告済みのバグを含む計4件の不具合を発見した。いずれも2013年の初回コミットから埋もれていた。 この記事のポイント 何が起きた: トーバルズ氏がLLMでassoc_arrayライブラリのコードを可読化し、2013年の初回コミ... — はてなブックマーク テクノロジー / score: 90 (リーナス氏がLLMを使いLinuxの長年のバグを発見した話題)</description>
 </item>
 <item>
 <title>[90] iPhoneの写真・メモを狙う「DarkSword」に新亜種、15秒ごとに指示を確認</title>
@@ -127,6 +127,22 @@
 <description>OpenAIは2026年9月29日、開発者向けイベント「OpenAI DevDay 2026」で、ChatGPT、Codex、AIモデルなどに関する20件超の発表を行った。 — gihyo.jp / score: 90 (主要AIプラットフォームの大型新機能発表)</description>
 </item>
 <item>
+<title>[85] IoT家電に侵入、「自分を自分でコピーして増えるAI」の話</title>
+<link>https://www.gizmodo.jp/article/2610-ai-self-replication-research/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/2610-ai-self-replication-research/</guid>
+<pubDate>Tue, 13 Oct 2026 22:00:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>Anthropicの研究で、非フロンティアAIでも自己複製が可能であると判明しました。 — ギズモード・ジャパン / score: 85 (AIの自己複製リスクに関する重要なセキュリティトピック。)</description>
+</item>
+<item>
+<title>[85] 「Firefox 158」が正式公開 ～「JPEG XL」画像形式への対応が実験段階を卒業／77件の脆弱性に対処。スクロールもより滑らかに</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2147837.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2147837.html</guid>
+<pubDate>Tue, 13 Oct 2026 21:45:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>Mozillaは10月13日（米国時間）、デスクトップ向け「Firefox」の最新版v158.0をリリースチャネルで公開した。「Firefox 157」に続くメジャーバージョンアップとなる。 — 窓の杜 / score: 85 (Firefoxのメジャーアップデートと脆弱性修正)</description>
+</item>
+<item>
 <title>[85] 「Gemini 4 Argon」が一般提供開始 ～満を持して登場した最強の「Gemini」モデル／「Gemini」アプリでは「Google AI Pro/Ultra」の契約者が利用可能</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2147842.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2147842.html</guid>
@@ -183,14 +199,6 @@
 <description>2026年10月13日 お客様各位 平素より楽天モバイルをご利用いただき、誠にありがとうございます。 この度、当社が実施した脆弱性診断テストにおいて、「my 楽天モバイル」からダウンロードできる支払い証明書が、第三者に閲覧される可能性があったこと（以下「本件」といいます）が判明いたしました。 本件について、以下... — はてなブックマーク テクノロジー / score: 85 (楽天モバイルの支払い証明書第三者閲覧可能性の公式発表)</description>
 </item>
 <item>
-<title>[85] 「銀のさら」運営会社 最大約650万件の登録者情報漏えい可能性 | NHKニュース</title>
-<link>https://news.web.nhk/newsweb/na/nd-20261013de58643</link>
-<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261013de58643</guid>
-<pubDate>Tue, 13 Oct 2026 08:32:52 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>宅配すしチェーン「銀のさら」などを運営する「ライドオンエクスプレスホールディングス」は13日、公式サイトとアプリの登録者の情報、最大およそ650万件が漏えいした可能性があると発表しました。 漏えい… — はてなブックマーク テクノロジー / score: 85 (最大650万件の大規模な個人情報漏えい事故の発生)</description>
-</item>
-<item>
 <title>[85] CloudflareがDenoを買収して1年後に公式サポート終了へ、開発継続は引き継ぐ人が現れるか次第</title>
 <link>https://gigazine.net/news/20261013-cloudflare-deno/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261013-cloudflare-deno/</guid>
@@ -221,14 +229,6 @@
 <pubDate>Tue, 13 Oct 2026 05:15:17 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>【注意喚起】 相次ぐ情報漏えい、その原因の一つは「アプリ解析からのサーバ攻撃」｜2026年｜NICT-情報通信研究機構 トップ&gt;広報&gt;プレスリリース&gt;2026年&gt;【注意喚起】 相次ぐ情報漏えい、その原因の一つは「アプリ解析からのサーバ攻撃」 — はてなブックマーク テクノロジー / score: 85 (アプリ解析からのサーバ攻撃に関する重要な注意喚起)</description>
-</item>
-<item>
-<title>[85] 【注意喚起】相次ぐ情報漏洩、その原因の一つは「アプリ解析からのサーバ攻撃」― AIで高度化する脆弱性探索、Androidアプリを手がかりにしたA2B攻撃に注意 ― | ライブラリー | サイバーセキュリティネクサス | NICT</title>
-<link>https://cynex.nict.go.jp/library/261013-01.html</link>
-<guid isPermaLink="true">https://cynex.nict.go.jp/library/261013-01.html</guid>
-<pubDate>Tue, 13 Oct 2026 05:02:30 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>【注意喚起】相次ぐ情報漏洩、その原因の一つは「アプリ解析からのサーバ攻撃」 ― AIで高度化する脆弱性探索、Androidアプリを手がかりにしたA2B攻撃に注意 ― 脅威情報分析チームLETTICEは、一般に公開されているAndroidアプリを解析し、その結果を利用して、アプリの裏側で動作するバックエンドサーバを攻撃する手法「A... — はてなブックマーク テクノロジー / score: 85 (AI時代の新しい攻撃手法A2B攻撃についての詳細な警告)</description>
 </item>
 <item>
 <title>[85] Movable Typeに深刻な脆弱性が見つかる――2026年10月7日、脆弱性対策最新版MT公開</title>
@@ -266,9 +266,9 @@
 <title>[85] 「Windows Update」証明書が2027年5月、6月に期限切れ ～場合によっては更新不能に陥ることも／最新パッチの適用、サポート対象の新しいOSバージョンの利用などを心掛けよう</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2147364.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2147364.html</guid>
-<pubDate>Tue, 13 Oct 2026 01:48:13 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>「Windows Update」証明書が2027年5月、6月に期限切れ ～場合によっては更新不能に陥ることも／最新パッチの適用、サポート対象の新しいOSバージョンの利用などを心掛けよう — はてなブックマーク テクノロジー / score: 85 (Windows Update証明書の期限切れ注意)</description>
+<pubDate>Tue, 13 Oct 2026 01:37:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>「Windows Update」への接続に使われている証明書が近く期限切れを迎えるため、証明書の入れ替え（ローテーション）が実施されるとのこと。米Microsoftが10月8日（現地時間、以下同）、公式ブログ「Windows IT Pro Blog」などでアナウンスしている。 — 窓の杜 / score: 85 (Windows Update証明書の期限切れ注意)</description>
 </item>
 <item>
 <title>[85] Announcing AWS Lambda Web Functions</title>
@@ -583,6 +583,22 @@
 <description>Microsoftは9月29日、Windows Subsystem for Linux（WSL）のコンテナ機能「WSL containers」の一般提供を開始した。 — gihyo.jp / score: 80 (WSL containersの一般提供開始)</description>
 </item>
 <item>
+<title>[75] 待ってた。Geminiで強力なフロンティアAI「Gemini 4 Argon」が使えるように</title>
+<link>https://www.gizmodo.jp/article/2610-gemini-4-argon-rollout/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/2610-gemini-4-argon-rollout/</guid>
+<pubDate>Tue, 13 Oct 2026 21:00:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>Googleの新AIモデル「Gemini 4 Argon」がロールアウトされ、Pro/UltraユーザーであればGeminiアプリから利用できます。ゴージャスな出力が可能でフロンティア性能を感じられます。 — ギズモード・ジャパン / score: 75 (主要なフロンティアAIモデルのアップデート情報。)</description>
+</item>
+<item>
+<title>[75] Redesigning source control at Anthropic</title>
+<link>https://www.anthropic.com/engineering/redesigning-source-control</link>
+<guid isPermaLink="true">https://www.anthropic.com/engineering/redesigning-source-control</guid>
+<pubDate>Tue, 13 Oct 2026 17:17:00 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Published Oct 13, 2026 As our merges per day grew more than tenfold, source control became our biggest development bottleneck. Here, we share how we migrated to an in-house version control system in five months. At Anthropic, coding is no longer the bottleneck to building systems or doing researc... — はてなブックマーク テクノロジー / score: 75 (Anthropicによる自社製VCS移行の事例)</description>
+</item>
+<item>
 <title>[75] Run fast, private agents on-device with LFM2.5-24B-A2B</title>
 <link>https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b</link>
 <guid isPermaLink="true">https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b</guid>
@@ -789,22 +805,6 @@
 <pubDate>Wed, 07 Oct 2026 15:59:06 +0000</pubDate>
 <category>Publickey</category>
 <description>Amazon Web Services（AWS）は、Amazon Aurora PostgreSQLにDuckDBを統合し、Apache Icebergなどで構築したデータレイクのデータを直接読み取って処理できるようになったことを発表しまし... — Publickey / score: 75 (AWSとDuckDBの統合によるデータレイク処理の効率化)</description>
-</item>
-<item>
-<title>[75] Claude Haiku 5.5 is now available on AWS</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/10/claude-haiku-5-5-aws/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/claude-haiku-5-5-aws/</guid>
-<pubDate>Wed, 07 Oct 2026 14:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>AWS now offers Claude Haiku 5.5, the fastest and most efficient model in the Claude 5.5 family, built for subagents and high-volume, cost-sensitive work. According to Anthropic, it costs around 75% less than Claude Haiku 4.5 for most tasks. Claude Haiku 5.5 is Anthropic's most capable Haiku yet, a significant step up from Haiku 4.5 across coding, tool use, computer use, and agents. It's also the first Haiku with effort controls, so teams can tune cost against intelligence for each task. Haiku 5. — AWS What's New / score: 75 (主要クラウドにおける新型LLMモデルの提供開始)</description>
-</item>
-<item>
-<title>[75] HashiCorp Packer 1.16、マシンイメージ向けにSLSA Provenanceのネイティブ生成・検証機能を追加</title>
-<link>https://www.infoq.com/jp/news/2026/10/hashicorp-packer-verification/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-<guid isPermaLink="true">https://www.infoq.com/jp/news/2026/10/hashicorp-packer-verification/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-<pubDate>Wed, 07 Oct 2026 09:30:00 +0000</pubDate>
-<category>InfoQ Japan</category>
-<description>HashiCorpはPacker v1.16.0をリリースした。これにより、Packerが構築するすべてのイメージに対して、SLSAProvenanceアテステーションの生成、署名、検証をネイティブにサポートする。今回のリリースは、マシンイメージがどのように作成されたかを示す、安全で改ざん耐性のある記録をチームに提供する。追加のサプライチェーンツールを必要とせずに実現できる点も特徴だ。これは、これまでSLSAスタイルのアテステーションでほとんど見過ごされてきたインフラ領域のギャップに対応するものとなる。 By Claudio Masolo Translated by Naoko Koshimura — InfoQ Japan / score: 75 (HashiCorp PackerのSLSA対応強化)</description>
 </item>
 </channel>
 </rss>
