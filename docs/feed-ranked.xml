@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Tue, 13 Oct 2026 00:28:40 +0000</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2026 02:26:10 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] Deno開発元がCloudflareに合流。Denoの開発は終了へ、今後はCloudflare WorkersとDurable Objectsのオープンソース実装に注力</title>
@@ -103,12 +103,28 @@
 <description>Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders. — OpenAI News / score: 90 (大規模AIカンファレンスの総括で重要度が高い。)</description>
 </item>
 <item>
-<title>[85] Announcing AWS Lambda Web Functions</title>
+<title>[85] スーパーの冷蔵庫が遠隔操作され食品廃棄　仏約150店舗で温度上昇</title>
+<link>https://ascii.jp/elem/000/004/441/4441931/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/441/4441931/?rss</guid>
+<pubDate>Tue, 13 Oct 2026 02:20:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>フランスのスーパーマーケット「Intermarché」などを運営するLes Mousquetairesは、冷蔵システムへのサイバー攻撃が約150店舗に及んだと明らかにした。 — ASCII.jp / score: 85 (フランスのスーパー冷蔵庫がサイバー攻撃被害)</description>
+</item>
+<item>
+<title>[85] 「Windows Update」証明書が2027年5月、6月に期限切れ ～場合によっては更新不能に陥ることも／最新パッチの適用、サポート対象の新しいOSバージョンの利用などを心掛けよう</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2147364.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2147364.html</guid>
+<pubDate>Tue, 13 Oct 2026 01:37:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>「Windows Update」への接続に使われている証明書が近く期限切れを迎えるため、証明書の入れ替え（ローテーション）が実施されるとのこと。米Microsoftが10月8日（現地時間、以下同）、公式ブログ「Windows IT Pro Blog」などでアナウンスしている。 — 窓の杜 / score: 85 (Windows Update証明書の期限切れ注意)</description>
+</item>
+<item>
+<title>[85] Announcing AWS Lambda Web Functions | Amazon Web Services</title>
 <link>https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/</link>
 <guid isPermaLink="true">https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/</guid>
-<pubDate>Mon, 12 Oct 2026 22:34:47 +0000</pubDate>
-<category>AWS News Blog</category>
-<description>AWS Lambda Web Functions is a serverless compute primitive that runs your HTTP framework natively, delivering fast, consistent responses through multi-concurrent execution and automated global distribution. — AWS News Blog / score: 85 (AWS Lambda Web Functions発表の公式解説)</description>
+<pubDate>Mon, 12 Oct 2026 23:29:58 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Announcing AWS Lambda Web Functions | Amazon Web Services The session catalog is live. Explore what's waiting for you — はてなブックマーク テクノロジー / score: 85 (AWS Lambda Web Functions発表の公式解説)</description>
 </item>
 <item>
 <title>[85] AWS Lambda announces Lambda Web Functions</title>
@@ -221,14 +237,6 @@
 <pubDate>Tue, 06 Oct 2026 20:18:19 +0000</pubDate>
 <category>Simon Willison</category>
 <description>Introducing Mistral Large 4: Le chonk Mistral are back in the game. Today they're releasing a preview of Mistral Large 4, a 1 trillion parameter, 49 billion active parameter model trained on their own cluster of 3,800 NVIDIA Grace Blackwell GPUs. The preview is available via their API. They promise to release the open weights model at the "end of this month". The model only supports two reasoning levels - "none" and "high" - via the Mistral API. Here are both pelicans - the "high" one looks bett — Simon Willison / score: 85 (Mistralの新しい大規模言語モデルプレビュー公開)</description>
-</item>
-<item>
-<title>[85] 2026年10月のAndroidセキュリティ情報が公開 ～25件の脆弱性を修正、「Critical」は7件／パッチレベルは「2026-10-01」のみ</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2145857.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2145857.html</guid>
-<pubDate>Tue, 06 Oct 2026 07:26:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Googleは10月5日（現地時間）、Android OSのセキュリティ情報（Android Security Bulletin：ASB）を発表した。180件の脆弱性が修正された9月に比べると、修正件数は25件と控えめとなっている。 — 窓の杜 / score: 85 (Androidのセキュリティ脆弱性修正情報)</description>
 </item>
 <item>
 <title>[85] v3.15.0rc3</title>
@@ -351,14 +359,6 @@
 <description>Structured Concurrency is the next major feature from Project Loom. In this session, we will explain the motivation and design of structured concurrency, show how to use it effectively, and discuss the lessons learned as the feature evolved. We'll also look beneath the surface at the new lower-level API behind the latest design, offering an early glimpse of work that is expected to form the basis of a future lower-level structured concurrency API. — Inside Java / score: 80 (Project Loomの構造化コンカレンシー解説)</description>
 </item>
 <item>
-<title>[80] 金融庁、本人確認は「画像」から「ICチップ」へ　早期移行を要請　免許証の大規模流出を受け</title>
-<link>https://japan.cnet.com/article/35253438/</link>
-<guid isPermaLink="true">https://japan.cnet.com/article/35253438/</guid>
-<pubDate>Sat, 10 Oct 2026 11:05:26 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>金融庁は10月9日、金融機関などに対し、非対面の本人確認を、書類の画像を送る方法から書類のICチップ情報を読み取る方法へ、できるだけ早く切り替えるよう求めた。インターネット上の顧客向けサービスや業務システムへの不正アクセスが相次ぎ、運転免許証などの画像を含む顧客情報が漏えいしていることを受けた対応だ。... — はてなブックマーク テクノロジー / score: 80 (金融庁による本人確認のICチップ化への早期移行要請)</description>
-</item>
-<item>
 <title>[80] Microsoft セキュリティ、これをやってください！～ 実践ベストプラクティス</title>
 <link>https://qiita.com/carol0226/items/bdb16dbd5c16a2c43ad5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
 <guid isPermaLink="true">https://qiita.com/carol0226/items/bdb16dbd5c16a2c43ad5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
@@ -445,6 +445,22 @@
 <pubDate>Tue, 29 Sep 2026 05:18:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>NVIDIAは9月28日、AIエージェントの動作を監視・制御する「NVIDIA Open Agent Safety Platform」を発表した。 — gihyo.jp / score: 80 (NVIDIAによるAIエージェント監視制御プラットフォーム発表)</description>
+</item>
+<item>
+<title>[75] Meta、いきなりフロンティアAIモデル競争へ　Opus 5.5やAstraを上回るベンチマークも</title>
+<link>https://ascii.jp/elem/000/004/441/4441895/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/441/4441895/?rss</guid>
+<pubDate>Tue, 13 Oct 2026 02:00:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>Metaは10月12日、AIエージェント向けの新モデル「Muse Wonder」と「Muse Wonder Full」を発表した。 — ASCII.jp / score: 75 (Metaの新型フロンティアAIモデル発表)</description>
+</item>
+<item>
+<title>[75] 今日からスタート。Windows 10のセキュリティ更新が1年延長、まだまだ使えます</title>
+<link>https://www.gizmodo.jp/article/windows-10-security-update-extended/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/windows-10-security-update-extended/</guid>
+<pubDate>Tue, 13 Oct 2026 01:00:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>まだ使えるPC、買い替えるのはもったいないですよね。ネットを見るにも、文章を書くにも困っていない。でも、セキュリティ更新が終わるなら、そろそろ買い替え時かも。そんなWindows 10ユーザーに朗報です。セキュリティ更新を受けられる期間が、… — ギズモード・ジャパン / score: 75 (OSのセキュリティ更新延長に関する重要な話題)</description>
 </item>
 <item>
 <title>[75] 仏の店舗にサイバー攻撃 食品廃棄</title>
@@ -789,22 +805,6 @@
 <pubDate>Mon, 12 Oct 2026 16:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>Overview Since introducing zero-shot time-series forecasting in BigQuery with AI.FORECAST — initially powered by TimesFM 2.0 and later upgraded to TimesFM 2.5 — you have been able to generate forecasts directly in SQL without training or managing custom models. However, up until TimesFM 2.5, these foundation models were limited to univariate forecasting, predicting future values from the history of a single time series alone. In practice, most real-world forecasting problems are multivariate, wh — Google Cloud Blog / score: 70 (BigQueryの時系列予測機能の拡張)</description>
-</item>
-<item>
-<title>[70] October 12, 2026</title>
-<link>https://docs.cloud.google.com/release-notes#October_12_2026</link>
-<guid isPermaLink="true">https://docs.cloud.google.com/release-notes#October_12_2026</guid>
-<pubDate>Mon, 12 Oct 2026 07:00:00 +0000</pubDate>
-<category>Google Cloud リリースノート</category>
-<description>Agent Platform Workbench Change 20261011.00_p0 Release Change Installed latest packages from upstream dependencies. Fixed Fixed an issue where gcloud and gsutil failed to load with an AttributeError in OpenSSL.crypto due to a version mismatch between pyOpenSSL and cryptography. Change 20261011.00_p0 Release Change Installed latest packages from upstream dependencies. Fixed Fixed an issue where gcloud and gsutil failed to load with an AttributeError in OpenSSL.crypto due to a version mismatch bet — Google Cloud リリースノート / score: 70 (Google CloudのCloud SQL関連のアップデート)</description>
-</item>
-<item>
-<title>[70] サイバー攻撃加速 AIの影響を指摘</title>
-<link>https://news.yahoo.co.jp/pickup/6598504?source=rss</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6598504?source=rss</guid>
-<pubDate>Mon, 12 Oct 2026 05:38:46 +0000</pubDate>
-<category>Yahoo!ニュース IT</category>
-<description> — Yahoo!ニュース IT / score: 70 (AIがサイバー攻撃を加速させる影響についての報道)</description>
 </item>
 </channel>
 </rss>
