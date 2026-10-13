@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Tue, 13 Oct 2026 16:11:14 +0000</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2026 18:13:32 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[98] 「GitLab」にまたも緊急パッチ、CVSS基本値「10.0」の脆弱性に対処／認証なしでサーバー上で任意のコードを実行されるおそれ</title>
@@ -53,14 +53,6 @@
 <pubDate>Tue, 13 Oct 2026 07:55:36 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>お知らせ 令和8年10月13日 不正アクセスによる情報漏えい等の事案を踏まえた対応について （公開アプリの解析情報を悪用した攻撃への注意喚起） 大量の個人情報を取り扱う事業者等の情報システムが不正アクセスにより侵入され、個人情報を含むデータが窃取される事案が相次いで確認されていることを踏まえ、総務省では、... — はてなブックマーク テクノロジー / score: 90 (総務省による不正アクセス注意喚起と情報漏洩対策)</description>
-</item>
-<item>
-<title>[90] トーバルズ、「説いた通りにやった」。LLMでLinuxの13年来のバグ4件を発見</title>
-<link>https://joho-todai.com/torvalds-llm-linux-13-year-old-bugs-fixed/</link>
-<guid isPermaLink="true">https://joho-todai.com/torvalds-llm-linux-13-year-old-bugs-fixed/</guid>
-<pubDate>Tue, 13 Oct 2026 04:53:09 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>リーナス・トーバルズ氏がLLMを使ってLinuxカーネルの連想配列ライブラリのコードを読みやすく書き直し、報告済みのバグを含む計4件の不具合を発見した。いずれも2013年の初回コミットから埋もれていた。 この記事のポイント 何が起きた: トーバルズ氏がLLMでassoc_arrayライブラリのコードを可読化し、2013年の初回コミ... — はてなブックマーク テクノロジー / score: 90 (リーナス氏がLLMを使いLinuxの長年のバグを発見した話題)</description>
 </item>
 <item>
 <title>[90] iPhoneの写真・メモを狙う「DarkSword」に新亜種、15秒ごとに指示を確認</title>
@@ -125,6 +117,14 @@
 <pubDate>Wed, 30 Sep 2026 04:58:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>OpenAIは2026年9月29日、開発者向けイベント「OpenAI DevDay 2026」で、ChatGPT、Codex、AIモデルなどに関する20件超の発表を行った。 — gihyo.jp / score: 90 (主要AIプラットフォームの大型新機能発表)</description>
+</item>
+<item>
+<title>[85] 「Gemini 4 Argon」が一般提供開始 ～満を持して登場した最強の「Gemini」モデル／「Gemini」アプリでは「Google AI Pro/Ultra」の契約者が利用可能</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2147842.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2147842.html</guid>
+<pubDate>Tue, 13 Oct 2026 16:31:31 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Googleは10月13日（現地時間、以下同）、AIモデル「Gemini 4 Argon」の一般提供を開始した。9月30日に発表されたフロンティアモデルで、これまでは信頼できるサイバーセキュリティ担当者を対象とするプログラム「Fairwind Program」を通じて限定提供されていた。 — 窓の杜 / score: 85 (主要なAIモデルの新バージョン一般提供のニュース。)</description>
 </item>
 <item>
 <title>[85] Gemini 4 Argon: Built to solve your hardest problems</title>
@@ -447,6 +447,14 @@
 <description>Gemini 4 Argon brings frontier reasoning and agentic coding to the Google Gemini app. Google AI Pro and Ultra subscribers can now access Gemini 4 Argon. — Gemini (Google Blog) / score: 80 (GeminiアプリへのGemini 4 Argon統合)</description>
 </item>
 <item>
+<title>[80] Gemini 4 Argon is now available for developers.</title>
+<link>https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-argon/</link>
+<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-argon/</guid>
+<pubDate>Tue, 13 Oct 2026 16:00:00 +0000</pubDate>
+<category>Gemini (Google Blog)</category>
+<description>Build complex software and cybersecurity workflows with Google Gemini 4 Argon. Check out the Gemini API Developer Guide and read the Google Antigravity and Android Studi… — Gemini (Google Blog) / score: 80 (新型AIモデルのAPI一般提供に関する重要なお知らせ。)</description>
+</item>
+<item>
 <title>[80] ｢Windows 11 24H2｣は本日でサポート終了</title>
 <link>https://taisy0.com/2026/10/13/228840.html</link>
 <guid isPermaLink="true">https://taisy0.com/2026/10/13/228840.html</guid>
@@ -482,9 +490,9 @@
 <title>[80] OpenAIやAnthropicの最先端モデルを上回る高性能AI「Muse Wonder」をMetaが発表、Museシリーズ登場から半年で最先端に追いつく</title>
 <link>https://gigazine.net/news/20261013-meta-ai-muse-wonder/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261013-meta-ai-muse-wonder/</guid>
-<pubDate>Tue, 13 Oct 2026 02:29:00 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>MetaがAIモデル「Muse Wonder」と「Muse Wonder Full」を現地時間の2026年10月12日に発表しました。どちらのモデルも各種ベンチマークテストでOpenAIやAnthropicの最先端モデルを上回るスコアを記録しています。 Muse Wonder: A Frontier Model For Personal &amp; Professional AI Agents https://research.meta.ai/blog/mu... — はてなブックマーク テクノロジー / score: 80 (Metaの最先端AIモデル発表で業界に大きな影響)</description>
+<pubDate>Tue, 13 Oct 2026 02:25:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>MetaがAIモデル「Muse Wonder」と「Muse Wonder Full」を現地時間の2026年10月12日に発表しました。どちらのモデルも各種ベンチマークテストでOpenAIやAnthropicの最先端モデルを上回るスコアを記録しています。 続きを読む... — GIGAZINE / score: 80 (Metaの最先端AIモデル発表で業界に大きな影響)</description>
 </item>
 <item>
 <title>[80] Structured Concurrency Looms</title>
@@ -567,6 +575,14 @@
 <description>Microsoftは9月29日、Windows Subsystem for Linux（WSL）のコンテナ機能「WSL containers」の一般提供を開始した。 — gihyo.jp / score: 80 (WSL containersの一般提供開始)</description>
 </item>
 <item>
+<title>[75] Run fast, private agents on-device with LFM2.5-24B-A2B</title>
+<link>https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b</link>
+<guid isPermaLink="true">https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b</guid>
+<pubDate>Tue, 13 Oct 2026 17:05:48 +0000</pubDate>
+<category>Hugging Face Blog</category>
+<description> — Hugging Face Blog / score: 75 (オンデバイスAIエージェントに関する技術発表。)</description>
+</item>
+<item>
 <title>[75] Gemini 4 Argon available on Google Cloud, built to help solve your business’ hardest problems</title>
 <link>https://cloud.google.com/blog/products/ai-machine-learning/gemini-4-argon-available-on-google-cloud/</link>
 <guid isPermaLink="true">https://cloud.google.com/blog/products/ai-machine-learning/gemini-4-argon-available-on-google-cloud/</guid>
@@ -626,9 +642,9 @@
 <title>[75] MicrosoftがJevっぽい意思決定モデル「Microsoft-Decision-1」をリリース</title>
 <link>https://gigazine.net/news/20261013-microsoft-decision-1/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261013-microsoft-decision-1/</guid>
-<pubDate>Tue, 13 Oct 2026 03:57:30 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Microsoftが意志決定モデル「Microsoft-Decision-1」を現地時間の2026年10月9日にリリースしました。ゲームのレビューを分析するタスクではGPT-6 Solと同等の品質で14倍以上高速、コストは200分の1以下だったと報告されています。続きを読む... — はてなブックマーク テクノロジー / score: 75 (Microsoftによる新しい高速な意思決定モデルのリリース)</description>
+<pubDate>Tue, 13 Oct 2026 03:46:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>Microsoftが意志決定モデル「Microsoft-Decision-1」を現地時間の2026年10月9日にリリースしました。ゲームのレビューを分析するタスクではGPT-6 Solと同等の品質で14倍以上高速、コストは200分の1以下だったと報告されています。 続きを読む... — GIGAZINE / score: 75 (Microsoftによる新しい高速な意思決定モデルのリリース)</description>
 </item>
 <item>
 <title>[75] Microsoftが第3世代AIチップ「Maia 300」を発表、最新の推論モデルやエージェントタスクの処理能力向上へ向けて2027年に導入予定</title>
@@ -789,22 +805,6 @@
 <pubDate>Wed, 07 Oct 2026 09:30:00 +0000</pubDate>
 <category>InfoQ Japan</category>
 <description>HashiCorpはPacker v1.16.0をリリースした。これにより、Packerが構築するすべてのイメージに対して、SLSAProvenanceアテステーションの生成、署名、検証をネイティブにサポートする。今回のリリースは、マシンイメージがどのように作成されたかを示す、安全で改ざん耐性のある記録をチームに提供する。追加のサプライチェーンツールを必要とせずに実現できる点も特徴だ。これは、これまでSLSAスタイルのアテステーションでほとんど見過ごされてきたインフラ領域のギャップに対応するものとなる。 By Claudio Masolo Translated by Naoko Koshimura — InfoQ Japan / score: 75 (HashiCorp PackerのSLSA対応強化)</description>
-</item>
-<item>
-<title>[75] Google、スマートフォンで動くマルチモーダル埋め込みモデル「EmbeddingGemma 2」を公開</title>
-<link>https://gihyo.jp/article/2026/10/embeddinggemma-2?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/10/embeddinggemma-2?utm_source=feed</guid>
-<pubDate>Wed, 07 Oct 2026 05:39:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Googleは2026年10月6日、スマートフォンやPC上で動作する埋め込みモデル「EmbeddingGemma 2」を公開した。 — gihyo.jp / score: 75 (Googleのエッジ向けマルチモーダル埋め込みモデル公開)</description>
-</item>
-<item>
-<title>[75] Next.js 16.4</title>
-<link>https://nextjs.org/blog/next-16-4</link>
-<guid isPermaLink="true">https://nextjs.org/blog/next-16-4</guid>
-<pubDate>Tue, 06 Oct 2026 20:00:00 +0000</pubDate>
-<category>Next.js Blog</category>
-<description>Next.js 16.4 introduces lazy compilation, smaller Turbopack output, React 19.3 features, Cache Components improvements, and new developer tooling. — Next.js Blog / score: 75 (主要Webフレームワークのマイナーリリースと新機能)</description>
 </item>
 </channel>
 </rss>
