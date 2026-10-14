@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 14 Oct 2026 10:09:57 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 12:14:09 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[98] 「GitLab」にまたも緊急パッチ、CVSS基本値「10.0」の脆弱性に対処／認証なしでサーバー上で任意のコードを実行されるおそれ</title>
@@ -13,14 +13,6 @@
 <pubDate>Tue, 13 Oct 2026 07:57:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米GitLabは10月12日（現地時間）、「GitLab」の緊急パッチ v19.4.2、v19.3.5、v19.2.8 をリリースした。「Community Edition」（CE）と「Enterprise Edition」（EE）が対象で、計24件の脆弱性が修正されている。同社は、自分で運用しているすべての「GitLab」を、ただちにこれらのバージョンへアップグレードするよう強く推奨している。 — 窓の杜 / score: 98 (GitLabのCVSS 10.0緊急パッチリリース)</description>
-</item>
-<item>
-<title>[95] Google Chromeに重大な脆弱性　合計37件を修正、早めに更新を</title>
-<link>https://ascii.jp/elem/000/004/442/4442536/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/442/4442536/?rss</guid>
-<pubDate>Wed, 14 Oct 2026 07:20:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>グーグルは10月13日、デスクトップおよびAndroid版「Google Chrome」のアップデートを公開。深刻度「重大」を含む37件の脆弱性に対処した。 — ASCII.jp / score: 95 (Google Chromeの脆弱性修正ニュース)</description>
 </item>
 <item>
 <title>[95] 「Google Chrome 155」にセキュリティ更新、「Critical」7件を含む37件の脆弱性を修正／Windows/Mac向けはv155.0.8059.79/.80、Linux向けはv155.0.8059.79</title>
@@ -90,9 +82,9 @@
 <title>[90] パスワードが「123456」の企業アカウント経由でデンマークの国家登録簿から880万人分の個人情報が流出</title>
 <link>https://gigazine.net/news/20261014-denmark-123456-password/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261014-denmark-123456-password/</guid>
-<pubDate>Wed, 14 Oct 2026 02:59:25 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>デンマークの中央個人登録簿(CPR)から約880万人分の氏名や住所、個人識別番号などが不正に取得されたことが明らかになりました。攻撃者を名乗る人物が、データベースへのアクセス権を持つ民間企業のアカウントに設定されていた「123456」という単純なパスワードを利用したと証言しています。 Omfattende uautoriseret ad... — はてなブックマーク テクノロジー / score: 90 (単純なパスワードによる国家規模の重大な個人情報流出)</description>
+<pubDate>Wed, 14 Oct 2026 02:39:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>デンマークの中央個人登録簿(CPR)から約880万人分の氏名や住所、個人識別番号などが不正に取得されたことが明らかになりました。攻撃者を名乗る人物が、データベースへのアクセス権を持つ民間企業のアカウントに設定されていた「123456」という単純なパスワードを利用したと証言しています。 続きを読む... — GIGAZINE / score: 90 (単純なパスワードによる国家規模の重大な個人情報流出)</description>
 </item>
 <item>
 <title>[90] Microsoft、2026年10月のセキュリティ更新プログラムをリリース ｰ 対象の脆弱性の数が初の4桁に到達</title>
@@ -175,12 +167,12 @@
 <description>GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly. — OpenAI News / score: 90 (主要AIの次世代メジャーリリースと新UIの発表)</description>
 </item>
 <item>
-<title>[88] AWS Lambda Web Functionsの発表+CloudFrontとの連携も発表</title>
-<link>https://zenn.dev/skeletonfrolic/articles/1ec268a32c1193</link>
-<guid isPermaLink="true">https://zenn.dev/skeletonfrolic/articles/1ec268a32c1193</guid>
-<pubDate>Tue, 13 Oct 2026 06:32:56 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>AWS Lambda Web Functionsの発表 https://aws.amazon.com/jp/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/ CloudFormationリソースのドキュメント 全体像→詳細を知りたい時は大体マネコンとCfnドキュメントの説明欄を突き合わせれば理解が進むと思ってるので添えます https://docs.aws.amazon.com/AWSCloudFormation/latest/Templ... — Zenn トレンド / score: 88 (AWS Lambdaの新機能とCloudFront連携)</description>
+<title>[85] AIエージェントによるウェブサイトへの攻撃の注意喚起</title>
+<link>https://www.scutum.jp/information/waf_tech_blog/2026/10/waf-blog-085.html</link>
+<guid isPermaLink="true">https://www.scutum.jp/information/waf_tech_blog/2026/10/waf-blog-085.html</guid>
+<pubDate>Wed, 14 Oct 2026 08:44:43 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>技術者ブログ クラウド型WAF「Scutum（スキュータム）」の開発者/エンジニアによるブログです。 金床“Kanatoko”をはじめとする株式会社ビットフォレストの技術チームが、“WAFを支える技術”をテーマに幅広く、不定期に更新中！ AIエージェントによる攻撃を観測しました 皆様おそらくご存知のとおり、2026年9月頃からウェ... — はてなブックマーク テクノロジー / score: 85 (AIエージェントによる攻撃の注意喚起でセキュリティ上重要)</description>
 </item>
 <item>
 <title>[85] 【第5報】不正アクセスによる障害に関する調査の進捗について | IDCフロンティア</title>
@@ -221,14 +213,6 @@
 <pubDate>Wed, 14 Oct 2026 04:36:13 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>Claudeの開発元として知られるAI企業のAnthropicが、Gitの代わりとなるバージョン管理システム「Scion」を開発したことを発表しました。ScionはAnthropicの社内システムとして運用されており、すでにGitからの移行を達成しているそうです。 Redesigning source control at Anthropic \ Anthropic https://www.anthropic.... — はてなブックマーク テクノロジー / score: 85 (AnthropicがGit代替の新バージョン管理開発)</description>
-</item>
-<item>
-<title>[85] 楽天モバイル、利用者の「支払い証明書」に第三者閲覧の恐れ　社内の脆弱性診断で発覚</title>
-<link>https://www.itmedia.co.jp/news/article/2610/14/2000002250/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/14/2000002250/</guid>
-<pubDate>Wed, 14 Oct 2026 04:16:32 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>楽天モバイルは10月13日、契約者向けサービス「my 楽天モバイル」からダウンロードできる「支払い証明書」が、第三者に閲覧される可能性があったと発表した。支払い証明書は、毎月の利用料金の領収書として使える書類で、氏名や住所などの個人情報が含まれる。問題は社内の脆弱性診断で発覚したという。 閲覧される可能... — はてなブックマーク テクノロジー / score: 85 (大手通信会社の支払い証明書閲覧リスク)</description>
 </item>
 <item>
 <title>[85] 「Gemini 4 Argon」を正式リリース、Claude Fable 5.1やGPT-6 Astraと同等性能で久しぶりにGoogleがAIトップ競争に追いつく</title>
@@ -431,12 +415,12 @@
 <description>JavaScript用ビルドツール「Vite」（ヴィットあるいはヴィート）を開発しているVoidZeroは、Viteを含むJavaScriptの統合ツールチェーン「Vite+」がバージョン1.0に到達したことを発表しました。 Vite+ 1... — Publickey / score: 85 (Vite+ 1.0の正式リリースによるJS開発エコシステムの大きな進化)</description>
 </item>
 <item>
-<title>[85] Disrupting a coordinated model-distillation campaign</title>
-<link>https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign</link>
-<guid isPermaLink="true">https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign</guid>
-<pubDate>Wed, 30 Sep 2026 10:30:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation. — OpenAI News / score: 85 (AIモデル蒸留キャンペーンへのセキュリティ対策)</description>
+<title>[80] Anthropic、社内モノレポをGitから独自基盤へ移行 ——AIエージェントによるコード変更の急増に対応</title>
+<link>https://gihyo.jp/article/2026/10/anthropic-source-control?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/10/anthropic-source-control?utm_source=feed</guid>
+<pubDate>Wed, 14 Oct 2026 10:32:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Anthropicは2026年10月13日、社内のソース管理基盤Scionへの移行を扱う技術記事を公開した。 — gihyo.jp / score: 80 (Anthropicがモノレポ基盤をGitから独自移行した事例)</description>
 </item>
 <item>
 <title>[80] アメリカ国民の身元を盗んで雇用を獲得する「北朝鮮のリモートITワーカー詐欺」の手口をFBIが公開、テキサス州全域にあった40以上ものノートPCファームを解体</title>
@@ -458,9 +442,9 @@
 <title>[80] 世界最長の海底沈埋トンネル建設がサイバー攻撃で停止</title>
 <link>https://gigazine.net/news/20261014-fehmarnbelt-querung-cyber-attacked/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261014-fehmarnbelt-querung-cyber-attacked/</guid>
-<pubDate>Wed, 14 Oct 2026 03:40:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>デンマークとドイツを結ぶ世界最長の海底沈埋トンネル「フェーマルン・ベルトトンネル」の建設事業者がサイバー攻撃を受け、工事に大きな支障が生じていることが明らかになりました。現地メディアによると、作業員の入場カードや建設用の船舶、クレーンなどが使用できなくなり、建設作業が停止する事態に陥っています。 続きを読む... — GIGAZINE / score: 80 (インフラ巨大プロジェクトがサイバー攻撃で停止した事例)</description>
+<pubDate>Wed, 14 Oct 2026 03:42:30 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>デンマークとドイツを結ぶ世界最長の海底沈埋トンネル「フェーマルン・ベルトトンネル」の建設事業者がサイバー攻撃を受け、工事に大きな支障が生じていることが明らかになりました。現地メディアによると、作業員の入場カードや建設用の船舶、クレーンなどが使用できなくなり、建設作業が停止する事態に陥っています。 ... — はてなブックマーク テクノロジー / score: 80 (インフラ巨大プロジェクトがサイバー攻撃で停止した事例)</description>
 </item>
 <item>
 <title>[80] AWS、Webアプリをそのまま実行できる「Lambda Web Functions」を発表</title>
@@ -575,6 +559,14 @@
 <description>Cloudflareは、代表的なWebアプリケーションフレームワークであるNext.jsを用いて開発したアプリケーションを、Cloudflare WorkersやAWS Lambda、NetlifyといったVercel以外のサーバレス基盤に... — Publickey / score: 80 (Next.jsのマルチクラウドデプロイを実現するVinext 1.0の登場)</description>
 </item>
 <item>
+<title>[75] AWS、Lambda Web Functionsを提供開始 ——WebアプリをLambda用のイベントハンドラーへ書き換えずにデプロイ</title>
+<link>https://gihyo.jp/article/2026/10/aws-lambda-web-functions?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/10/aws-lambda-web-functions?utm_source=feed</guid>
+<pubDate>Wed, 14 Oct 2026 10:30:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Amazon Web Services（AWS）は2026年10月12日、WebアプリケーションをLambda上で動かす新しい実行方式「AWS Lambda Web Functions」の提供開始を発表した。 — gihyo.jp / score: 75 (AWS Lambda Web Functionsの提供開始に関する速報)</description>
+</item>
+<item>
 <title>[75] Claude Codeがほとんどの場合、動画編集してくれる。8時間の素材を30分で1時間に編集。字幕もつけられる｜shi3z</title>
 <link>https://note.com/shi3zblog/n/ncb38d2978074</link>
 <guid isPermaLink="true">https://note.com/shi3zblog/n/ncb38d2978074</guid>
@@ -671,14 +663,6 @@
 <description>Redesigning source control at Anthropic Interesting piece from Anthropic describing why and how they built their own custom alternative to Git, based on the dramatic increase in rate of changes to their code after the past six months. In May 2026, Anthropic averaged around 2,500 code changes merged per day; as of September, we merged over 30,000 per day. They included a chart showing those changes. I had Claude modify their chart ( code here ) to add markers for the public releases of each of th — Simon Willison / score: 75 (AnthropicによるGit代替の独自バージョン管理)</description>
 </item>
 <item>
-<title>[75] Redesigning source control at Anthropic</title>
-<link>https://www.anthropic.com/engineering/redesigning-source-control</link>
-<guid isPermaLink="true">https://www.anthropic.com/engineering/redesigning-source-control</guid>
-<pubDate>Tue, 13 Oct 2026 17:17:00 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Published Oct 13, 2026 As our merges per day grew more than tenfold, source control became our biggest development bottleneck. Here, we share how we migrated to an in-house version control system in five months. At Anthropic, coding is no longer the bottleneck to building systems or doing researc... — はてなブックマーク テクノロジー / score: 75 (Anthropicによる自社製VCS移行の事例)</description>
-</item>
-<item>
 <title>[75] Run fast, private agents on-device with LFM2.5-24B-A2B</title>
 <link>https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b</link>
 <guid isPermaLink="true">https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b</guid>
@@ -701,6 +685,14 @@
 <pubDate>Tue, 13 Oct 2026 15:26:33 +0000</pubDate>
 <category>Publickey</category>
 <description>Webアプリケーションフレームワーク「SvelteKit 3」正式版がリリースされました。 SvelteKitは、Web UIフレームワークの「Svelte」とビルドツールの「Vite」を基盤とし、ルーティング、サーバサイドレンダリング（S... — Publickey / score: 75 (SvelteKit 3の正式リリースと主要な変更)</description>
+</item>
+<item>
+<title>[75] Lambda Web FunctionsでNext.jsアプリを爆速ホストしよう！</title>
+<link>https://zenn.dev/tosuri13/articles/64f17d8c75e147</link>
+<guid isPermaLink="true">https://zenn.dev/tosuri13/articles/64f17d8c75e147</guid>
+<pubDate>Tue, 13 Oct 2026 15:01:05 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>こんにちは👋 最近Lambda Web Functionsという機能がLambdaに増えました。 https://aws.amazon.com/jp/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/ ExpressやHono、Next.jsなどの標準的なHTTP Webアプリケーションを、複雑なセットアップなしにLambda上でサーバレスにホストすることができるという、大変便利な機能です。なんと東京リージョンでも使えます。 今回は、早速リリースされ... — Zenn トレンド / score: 75 (AWS Lambdaの新機能によるWebアプリホスティング効率化)</description>
 </item>
 <item>
 <title>[75] 情報漏えい 一因は「A2B攻撃」</title>
@@ -805,6 +797,14 @@
 <pubDate>Thu, 08 Oct 2026 08:32:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Googleは10月7日（現地時間）、「SynthID Detector」の提供範囲を大幅に拡大したと発表した。同日から、一般ユーザーも全世界で利用できるようになった。提供言語は英語。 — 窓の杜 / score: 75 (GoogleのAI生成コンテンツ検出ツールの一般開放)</description>
+</item>
+<item>
+<title>[75] Amazon GuardDuty RDS Protection now detects data exfiltration and destruction in Aurora and RDS databases</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/guardduty-rds-data-exfiltration/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/guardduty-rds-data-exfiltration/</guid>
+<pubDate>Thu, 08 Oct 2026 08:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon GuardDuty announces an expansion of RDS Protection that extends threat detection beyond login anomalies to identify data exfiltration and data destruction attacks targeting Amazon Aurora PostgreSQL and Amazon RDS for PostgreSQL databases. Available as RDS Protection for data activity, this new capability uses machine learning (ML)-based anomaly detection and integrated threat intelligence to continuously monitor database query patterns, helping you detect unusual data activity without req — AWS What's New / score: 75 (GuardDutyによるDBのデータ持ち出し・破壊検知の強化)</description>
 </item>
 </channel>
 </rss>
