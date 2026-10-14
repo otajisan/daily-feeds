@@ -4,8 +4,16 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 14 Oct 2026 18:11:41 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 20:09:37 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Amazon S3 is now available on the Vercel Marketplace and v0 by Vercel</title>
+<link>https://aws.amazon.com/blogs/aws/amazon-s3-vercel-marketplace-v0/</link>
+<guid isPermaLink="true">https://aws.amazon.com/blogs/aws/amazon-s3-vercel-marketplace-v0/</guid>
+<pubDate>Wed, 14 Oct 2026 19:30:48 +0000</pubDate>
+<category>AWS News Blog</category>
+<description>You can now migrate existing Apache Hive datasets in Amazon S3 to fully managed Apache Iceberg tables in Amazon S3 Tables, with no pipelines to build or compute to provision, while production workloads keep running. — AWS News Blog / score: 55 (VercelとAmazon S3のインテグレーション拡大。)</description>
+</item>
 <item>
 <title>Next.js Security Update for Upstream Vulnerabilities</title>
 <link>https://nextjs.org/blog/nextjs-security-update-october-14-2026</link>
@@ -68,7 +76,7 @@
 <guid isPermaLink="true">https://iphone-mania.jp/apple-607465/</guid>
 <pubDate>Wed, 14 Oct 2026 16:38:12 +0000</pubDate>
 <category>iPhone Mania</category>
-<description>Appleがオブソリート製品のリストを更新し、12インチMacBook（2017年モデル）、iPad（第6世代）、BeatsXヘッドフォンを新たに追加したと報じられました。オブソリート製品に指定されると、Appleによる […] — iPhone Mania / score: 20 (Appleのオブソリート製品リスト追加)</description>
+<description>Appleがオブソリート製品のリストを更新し、12インチMacBook（2017年モデル）、iPad（第6世代）、BeatsXイヤホンを新たに追加したと報じられました。オブソリート製品に指定されると、Appleによる修理 […] — iPhone Mania / score: 20 (Appleのオブソリート製品リスト追加)</description>
 </item>
 <item>
 <title>AI is mass decompiling games. That's both awesome and scary.</title>
@@ -319,6 +327,14 @@
 <description>JBLのワイヤレススピーカー「CHARGE Essential 2」がAmazonのプライム感謝祭先行セール対象。プライム会員限定で、参考価格17,600円から43％オフの10,000円で販売中。最大40W出力とIPX7防水に対応し、最大約20時間の連続再生が可能。スマートフォンなどを充電できるモバイルバッテリー機能も備える。 — ASCII.jp / score: 20 (ガジェットのセール情報・ECプロモーション)</description>
 </item>
 <item>
+<title>HTML-in-Canvasで作る未来のWeb UI表現</title>
+<link>https://speakerdeck.com/clockmaker/html-in-canvas</link>
+<guid isPermaLink="true">https://speakerdeck.com/clockmaker/html-in-canvas</guid>
+<pubDate>Wed, 14 Oct 2026 12:02:04 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>フロントエンドカンファレンス関西2026の発表資料。 https://2026.frontend-conf.osaka.jp/ ■概要 HTML-in-Canvasという新しいAPIをオリジナルのデモで解説。 HTML・CSSから見た利点、Canvasタグから見た利点を掘り下げます。 … — はてなブックマーク テクノロジー / score: 45 (フロントエンドの新しいCanvas表現の発表資料。)</description>
+</item>
+<item>
 <title>Appleの新しい「Switch to Safari」キャンペーンではChromeからSafariに乗り換えるべき理由が詳しく説明されている</title>
 <link>https://gigazine.net/news/20261014-apple-switch-to-safari/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261014-apple-switch-to-safari/</guid>
@@ -333,6 +349,14 @@
 <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT. — OpenAI News / score: 65 (OpenAIの新モデルとAIエージェントの発表)</description>
+</item>
+<item>
+<title>SentinelOne cuts malware analysis from weeks to hours</title>
+<link>https://openai.com/index/sentinelone</link>
+<guid isPermaLink="true">https://openai.com/index/sentinelone</guid>
+<pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats. — OpenAI News / score: 60 (AIを活用したマルウェア分析の効率化事例。)</description>
 </item>
 <item>
 <title>RTX 5060搭載ゲーミングノートPCを狙うなら、ASUS製がプライム感謝祭先行セールで20万円切り</title>
@@ -781,30 +805,6 @@
 <pubDate>Wed, 14 Oct 2026 08:48:54 +0000</pubDate>
 <category>Zenn トレンド</category>
 <description>はじめに こんにちは！添田です！ 弊社のプロダクト「クロワッサン」で、公開ページが読み込むファイルの数を減らす対応をしました。 webpackのsplitChunksに設定を1つ足して、バラバラだった共有コードを1本にまとめたところ、 ガチャを1回遊ぶ間に読むファイル（chunk）が48本 → 16本になりました！ 設定自体は20行ほどです。 この記事では、何をまとめて何をまとめないか、そのかわりに何が重くなるかなど、設計で決めたことを書いていきます。 何に困っていたか クロワッサンは、ガチャ・診断・アンケートを作って配信できるサービスです。 エンドユーザーが遊ぶ公開ページはNe... — Zenn トレンド / score: 55 (Next.jsアプリケーションのバンドル最適化手法)</description>
-</item>
-<item>
-<title>MSIのGeForce搭載ビデオカードがセール中【Amazonプライム感謝祭】【本日みつけたお買い得情報】</title>
-<link>https://forest.watch.impress.co.jp/docs/serial/goodbuy/2148122.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/serial/goodbuy/2148122.html</guid>
-<pubDate>Wed, 14 Oct 2026 08:46:44 +0000</pubDate>
-<category>窓の杜</category>
-<description>Amazon.co.jpでは、下記日程でAmazonプライム会員向けビッグセール「プライム感謝祭」を実施します。 — 窓の杜 / score: 25 (Amazonセールの製品価格情報)</description>
-</item>
-<item>
-<title>AIエージェントによるウェブサイトへの攻撃の注意喚起</title>
-<link>https://www.scutum.jp/information/waf_tech_blog/2026/10/waf-blog-085.html</link>
-<guid isPermaLink="true">https://www.scutum.jp/information/waf_tech_blog/2026/10/waf-blog-085.html</guid>
-<pubDate>Wed, 14 Oct 2026 08:44:43 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>技術者ブログ クラウド型WAF「Scutum（スキュータム）」の開発者/エンジニアによるブログです。 金床“Kanatoko”をはじめとする株式会社ビットフォレストの技術チームが、“WAFを支える技術”をテーマに幅広く、不定期に更新中！ AIエージェントによる攻撃を観測しました 皆様おそらくご存知のとおり、2026年9月頃からウェ... — はてなブックマーク テクノロジー / score: 85 (AIエージェントによる攻撃の注意喚起でセキュリティ上重要)</description>
-</item>
-<item>
-<title>【第5報】不正アクセスによる障害に関する調査の進捗について | IDCフロンティア</title>
-<link>https://www.idcf.jp/news/topics/20261014001</link>
-<guid isPermaLink="true">https://www.idcf.jp/news/topics/20261014001</guid>
-<pubDate>Wed, 14 Oct 2026 08:41:42 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>2026年10月14日 このたびは、多大なるご心配とご迷惑をおかけしておりますことを深くお詫び申し上げます。 2026年10月7日午前3時40分頃から発生している、当社クラウドサービス「IDCFクラウド」※1に対する第三者からの不正アクセスによる障害について、現時点までの調査で新たに以下の事実が判明しましたのでお知らせし... — はてなブックマーク テクノロジー / score: 85 (クラウドサービスの重大な不正アクセス障害調査)</description>
 </item>
 </channel>
 </rss>

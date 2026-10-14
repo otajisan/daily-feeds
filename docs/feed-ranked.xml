@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 14 Oct 2026 18:11:41 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 20:09:37 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[98] 「GitLab」にまたも緊急パッチ、CVSS基本値「10.0」の脆弱性に対処／認証なしでサーバー上で任意のコードを実行されるおそれ</title>
@@ -399,22 +399,6 @@
 <description>Security updates across Python 3.10–3.14, the final maintenance release of 3.13, and a farewell to Python 3.10. — Python Insider / score: 85 (Python複数バージョンのセキュリティアップデート)</description>
 </item>
 <item>
-<title>[85] Gemini 4 Argon: our next era of frontier intelligence</title>
-<link>https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/</link>
-<guid isPermaLink="true">https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/</guid>
-<pubDate>Wed, 30 Sep 2026 20:01:45 +0000</pubDate>
-<category>Google DeepMind</category>
-<description> — Google DeepMind / score: 85 (次世代AIモデルの大型発表)</description>
-</item>
-<item>
-<title>[85] Gemini 4 Argon: our next era of frontier intelligence</title>
-<link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/</link>
-<guid isPermaLink="true">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/</guid>
-<pubDate>Wed, 30 Sep 2026 20:00:00 +0000</pubDate>
-<category>Gemini (Google Blog)</category>
-<description>Stylized promotional blog key art graphic with modern editorial branding and the text "Gemini 4 Argon" — Gemini (Google Blog) / score: 85 (Googleの新型AIモデル発表)</description>
-</item>
-<item>
 <title>[80] 2026-10-14, Version 24.22.0 'Krypton' (LTS), @richardlau prepared by @aduh95</title>
 <link>https://github.com/nodejs/node/releases/tag/v24.22.0</link>
 <guid isPermaLink="true">https://github.com/nodejs/node/releases/tag/v24.22.0</guid>
@@ -805,6 +789,22 @@
 <pubDate>Thu, 08 Oct 2026 08:32:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Googleは10月7日（現地時間）、「SynthID Detector」の提供範囲を大幅に拡大したと発表した。同日から、一般ユーザーも全世界で利用できるようになった。提供言語は英語。 — 窓の杜 / score: 75 (GoogleのAI生成コンテンツ検出ツールの一般開放)</description>
+</item>
+<item>
+<title>[75] Amazon GuardDuty RDS Protection now detects data exfiltration and destruction in Aurora and RDS databases</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/guardduty-rds-data-exfiltration/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/guardduty-rds-data-exfiltration/</guid>
+<pubDate>Thu, 08 Oct 2026 08:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon GuardDuty announces an expansion of RDS Protection that extends threat detection beyond login anomalies to identify data exfiltration and data destruction attacks targeting Amazon Aurora PostgreSQL and Amazon RDS for PostgreSQL databases. Available as RDS Protection for data activity, this new capability uses machine learning (ML)-based anomaly detection and integrated threat intelligence to continuously monitor database query patterns, helping you detect unusual data activity without req — AWS What's New / score: 75 (GuardDutyによるDBのデータ持ち出し・破壊検知の強化)</description>
+</item>
+<item>
+<title>[75] Cloudflare Workers、受信TCP接続に対応　最初の対応プロトコルはgRPCに</title>
+<link>https://www.infoq.com/jp/news/2026/10/workers-inbound-tcp-grpc/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+<guid isPermaLink="true">https://www.infoq.com/jp/news/2026/10/workers-inbound-tcp-grpc/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+<pubDate>Thu, 08 Oct 2026 00:30:00 +0000</pubDate>
+<category>InfoQ Japan</category>
+<description>Cloudflare Workersは受信TCP接続を受け付けられるようになった。2017年のサービス開始以来、Workerはデータベースや外部サービスに対してアウトバウンドのソケット接続を開くことはできたが、サーバーとして処理できるのはHTTPのみだった。新たに追加されたconnect(socket)ハンドラーによってこの制約がなくなり、その最初の実装例としてgRPCサポートが提供される。 By Steef-Jan Wiggers Translated by Naoko Koshimura — InfoQ Japan / score: 75 (Cloudflare Workersの受信TCPおよびgRPC対応)</description>
 </item>
 </channel>
 </rss>
