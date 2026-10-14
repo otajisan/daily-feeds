@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 14 Oct 2026 20:09:37 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 22:08:45 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[98] 「GitLab」にまたも緊急パッチ、CVSS基本値「10.0」の脆弱性に対処／認証なしでサーバー上で任意のコードを実行されるおそれ</title>
@@ -151,6 +151,14 @@
 <description>GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly. — OpenAI News / score: 90 (主要AIの次世代メジャーリリースと新UIの発表)</description>
 </item>
 <item>
+<title>[85] 実はCodex CLIはデフォルトで永続的かつ自己更新型のバックグラウンドデーモンをインストールしていることが判明、無効にする公式の方法は無し</title>
+<link>https://gigazine.net/news/20261015-codex-cli-background-daemon/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261015-codex-cli-background-daemon/</guid>
+<pubDate>Wed, 14 Oct 2026 21:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>Codex CLIのバージョン0.157.0からdaemon_auto_start機能がデフォルトで有効化されましたが、daemon_auto_start機能に関連してユーザーから予期せぬバックグラウンドプロセスの起動・リソース消費・セッションへの影響・環境の不整合といった問題が報告される事態となっています。 続きを読む... — GIGAZINE / score: 85 (CLIツールの勝手な常駐化仕様に関する重要なセキュリティ注意喚起)</description>
+</item>
+<item>
 <title>[85] 楽天モバイル「Rakuten Mini」「Rakuten Hand」などに脆弱性、AVB機能にテスト鍵が残存　利用停止と乗り換えを案内</title>
 <link>https://k-tai.watch.impress.co.jp/docs/news/2148168.html</link>
 <guid isPermaLink="true">https://k-tai.watch.impress.co.jp/docs/news/2148168.html</guid>
@@ -197,22 +205,6 @@
 <pubDate>Wed, 14 Oct 2026 07:50:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>2026年10月14日に定例のWindows Updateが配信された一方で、Windows 11 24H2のHomeエディションとProエディションのサポートが終了しました。動作自体はそのままでも可能ですが、以後、セキュリティパッチなどは配信されなくなります。 続きを読む... — GIGAZINE / score: 85 (Windows 11のサポート終了情報)</description>
-</item>
-<item>
-<title>[85] 自治体の防災情報配信などに使われる「SpeeCAN RAIDEN」、不正アクセスで個人情報漏えいの可能性　さいたま市、横須賀市をはじめ多数の自治体に影響</title>
-<link>https://internet.watch.impress.co.jp/docs/news/2148069.html</link>
-<guid isPermaLink="true">https://internet.watch.impress.co.jp/docs/news/2148069.html</guid>
-<pubDate>Wed, 14 Oct 2026 07:30:05 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>自治体の防災情報配信などに使われる「SpeeCAN RAIDEN」、不正アクセスで個人情報漏えいの可能性 さいたま市、横須賀市をはじめ多数の自治体に影響 — はてなブックマーク テクノロジー / score: 85 (自治体向けシステムの不正アクセスと情報漏えいの懸念)</description>
-</item>
-<item>
-<title>[85] デンマークの880万人分流出、原因はパスワード「123456」　ハッカー「侵入は難しくなかった」　現地報道</title>
-<link>https://www.itmedia.co.jp/news/article/2610/14/2000002257/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/14/2000002257/</guid>
-<pubDate>Wed, 14 Oct 2026 06:10:06 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>デンマークの中央個人登録簿「CPR」から約880万人分の個人番号などが流出した問題で、侵入の足掛かりは照会権限を持つ民間企業だった可能性が判明した。同社で使われていたパスワードは「123456」だったという。攻撃者を名乗る匿名のハッカーが、デンマーク紙Politikenに手口を明かした。 Politikenやテレビ局TV 2など現... — はてなブックマーク テクノロジー / score: 85 (単純なパスワードに起因する大規模個人情報流出)</description>
 </item>
 <item>
 <title>[85] AnthropicがGit代替のバージョン管理システム「Scion」を開発し社内移行済み、AIでコードが爆増してGitの限界に達したので耐えられるシステムを開発</title>
@@ -487,14 +479,6 @@
 <description>米Metaは10月12日（現地時間）、新たなフロンティアモデル「Muse Wonder」シリーズを発表した。個人向け・業務向けのAIエージェント用途を重視したモデルで、Metaはこれを「Personal Superintelligence」（個人向け超知能）への重要なステップと位置付けている。 — 窓の杜 / score: 80 (Metaの新型高性能AIモデル発表)</description>
 </item>
 <item>
-<title>[80] SSRFの入口はURL入力欄だけじゃない：代表的な10パターン</title>
-<link>https://qiita.com/shun123/items/e5e6b10e10a2395d7732?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/shun123/items/e5e6b10e10a2395d7732?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Mon, 12 Oct 2026 09:13:14 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>はじめに Webアプリケーションの脆弱性のひとつに SSRF（Server-Side Request Forgery） があります。 「URLを受け取ってサーバーがリクエストする処理」で起きる脆弱性として知られていますが、実際にはURLを直接受け取るパラメータ以外にも、さ... — Qiita 人気記事 / score: 80 (Web脆弱性SSRFの多様な侵入パターンの解説)</description>
-</item>
-<item>
 <title>[80] Structured Concurrency Looms</title>
 <link>https://inside.java/2026/10/12/devoxxbelgium-structured-concurrency/</link>
 <guid isPermaLink="true">https://inside.java/2026/10/12/devoxxbelgium-structured-concurrency/</guid>
@@ -541,6 +525,22 @@
 <pubDate>Fri, 02 Oct 2026 17:30:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Kubernetes version 1.37 introduced several new features and bug fixes, and AWS is excited to announce that you can now use Amazon Elastic Kubernetes Service (EKS) and Amazon EKS Distro to run Kubernetes version 1.37. Starting today, you can create new EKS clusters using version 1.37 and upgrade existing clusters to version 1.37 using the EKS console, the eksctl command line interface, or through an infrastructure-as-code tool. Kubernetes version 1.37 introduces several key improvements, promotin — AWS What's New / score: 80 (Amazon EKSのKubernetes 1.37サポート開始)</description>
+</item>
+<item>
+<title>[75] Microsoft、「Office in Copilot」を発表 ～CopilotアプリにWord、Excel、PowerPointを統合／最近作成したOffice文書や生成コンテンツのライブラリでより密接な連携が可能</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2147444.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2147444.html</guid>
+<pubDate>Wed, 14 Oct 2026 21:45:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Microsoftは10月9日（現地時間）、「Microsoft Copilot」アプリに「Microsoft 365」（Office）アプリのコンテンツ作成・編集・共同作業といった機能を統合する「Office in Copilot」を発表した。 — 窓の杜 / score: 75 (Microsoft CopilotへのOffice機能統合という大型発表)</description>
+</item>
+<item>
+<title>[75] みずほが数千人をAI開発者に転換　事務や営業、日本企業の働き方転機 - 日本経済新聞</title>
+<link>https://www.nikkei.com/article/DGXZQOUB0722M0X01C26A0000000/</link>
+<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUB0722M0X01C26A0000000/</guid>
+<pubDate>Wed, 14 Oct 2026 19:37:56 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>みずほフィナンシャルグループは営業や事務の社員を人工知能（AI）の開発人材に転換する。5万人の全社員から順次選び、10年後に数千人規模への拡大を目指す。金融サービスや社内業務のAIシステムを作る。既存部門を減らし、競争力の要であるAI分野に集中する体制を整える。銀行など金融機関の社員はホワイトカラーの象徴... — はてなブックマーク テクノロジー / score: 75 (大手金融による数千人規模のAI人材転換という業界の動向)</description>
 </item>
 <item>
 <title>[75] Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ</title>
@@ -783,14 +783,6 @@
 <description>Editor’s note: This article is adapted from Thomas Kurian’s keynote address at Gemini at Work 2026. It includes a number of announcements: Gemini , a single, universal agent for work that answers your questions, handles your knowledge work, creates your images and media, and writes and runs code. Inline in Workspace , Gemini works directly inside Gmail, Drive, Docs, Slides, Sheets, Chat, and Calendar, carrying the same memory, skills, and controls it has everywhere else. New data and analytics s — Google Cloud Blog / score: 75 (Googleによる汎用ワークエージェントの発表)</description>
 </item>
 <item>
-<title>[75] Google、AI生成コンテンツを見分ける「SynthID Detector」を一般に開放／OpenAI、NVIDIA、Kakaoなどの生成AIに対応。Appleも対応予定</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2146802.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2146802.html</guid>
-<pubDate>Thu, 08 Oct 2026 08:32:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Googleは10月7日（現地時間）、「SynthID Detector」の提供範囲を大幅に拡大したと発表した。同日から、一般ユーザーも全世界で利用できるようになった。提供言語は英語。 — 窓の杜 / score: 75 (GoogleのAI生成コンテンツ検出ツールの一般開放)</description>
-</item>
-<item>
 <title>[75] Amazon GuardDuty RDS Protection now detects data exfiltration and destruction in Aurora and RDS databases</title>
 <link>https://aws.amazon.com/about-aws/whats-new/2026/10/guardduty-rds-data-exfiltration/</link>
 <guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/guardduty-rds-data-exfiltration/</guid>
@@ -805,6 +797,14 @@
 <pubDate>Thu, 08 Oct 2026 00:30:00 +0000</pubDate>
 <category>InfoQ Japan</category>
 <description>Cloudflare Workersは受信TCP接続を受け付けられるようになった。2017年のサービス開始以来、Workerはデータベースや外部サービスに対してアウトバウンドのソケット接続を開くことはできたが、サーバーとして処理できるのはHTTPのみだった。新たに追加されたconnect(socket)ハンドラーによってこの制約がなくなり、その最初の実装例としてgRPCサポートが提供される。 By Steef-Jan Wiggers Translated by Naoko Koshimura — InfoQ Japan / score: 75 (Cloudflare Workersの受信TCPおよびgRPC対応)</description>
+</item>
+<item>
+<title>[75] AWS、DuckDBをAurora PostgreSQLに統合。ETL不要で直接データレイクを読み取り可能にしたと発表</title>
+<link>https://www.publickey1.jp/blog/26/awsduckdbaurora_postgresqletl.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/awsduckdbaurora_postgresqletl.html</guid>
+<pubDate>Wed, 07 Oct 2026 15:59:06 +0000</pubDate>
+<category>Publickey</category>
+<description>Amazon Web Services（AWS）は、Amazon Aurora PostgreSQLにDuckDBを統合し、Apache Icebergなどで構築したデータレイクのデータを直接読み取って処理できるようになったことを発表しまし... — Publickey / score: 75 (AWSとDuckDBの統合によるデータレイク処理の効率化)</description>
 </item>
 </channel>
 </rss>
