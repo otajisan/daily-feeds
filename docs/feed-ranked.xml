@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 14 Oct 2026 06:15:50 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 08:12:58 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[98] 「GitLab」にまたも緊急パッチ、CVSS基本値「10.0」の脆弱性に対処／認証なしでサーバー上で任意のコードを実行されるおそれ</title>
@@ -15,12 +15,20 @@
 <description>米GitLabは10月12日（現地時間）、「GitLab」の緊急パッチ v19.4.2、v19.3.5、v19.2.8 をリリースした。「Community Edition」（CE）と「Enterprise Edition」（EE）が対象で、計24件の脆弱性が修正されている。同社は、自分で運用しているすべての「GitLab」を、ただちにこれらのバージョンへアップグレードするよう強く推奨している。 — 窓の杜 / score: 98 (GitLabのCVSS 10.0緊急パッチリリース)</description>
 </item>
 <item>
-<title>[95] Windowsに過去最多1400件超の脆弱性修正　すでに悪用も、早めに更新を</title>
-<link>https://ascii.jp/elem/000/004/442/4442419/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/442/4442419/?rss</guid>
-<pubDate>Wed, 14 Oct 2026 04:45:00 +0000</pubDate>
+<title>[95] Google Chromeに重大な脆弱性　合計37件を修正、早めに更新を</title>
+<link>https://ascii.jp/elem/000/004/442/4442536/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/442/4442536/?rss</guid>
+<pubDate>Wed, 14 Oct 2026 07:20:00 +0000</pubDate>
 <category>ASCII.jp</category>
-<description>Microsoftは10月13日、2026年10月の月例セキュリティ更新プログラムを公開した。修正対象の脆弱性は1400件以上で過去最多。 — ASCII.jp / score: 95 (Windowsの過去最多となる大量の脆弱性修正)</description>
+<description>グーグルは10月13日、デスクトップおよびAndroid版「Google Chrome」のアップデートを公開。深刻度「重大」を含む37件の脆弱性に対処した。 — ASCII.jp / score: 95 (Google Chromeの脆弱性修正ニュース)</description>
+</item>
+<item>
+<title>[95] 「Google Chrome 155」にセキュリティ更新、「Critical」7件を含む37件の脆弱性を修正／Windows/Mac向けはv155.0.8059.79/.80、Linux向けはv155.0.8059.79</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2147982.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2147982.html</guid>
+<pubDate>Wed, 14 Oct 2026 06:41:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Googleは10月13日（現地時間）、デスクトップ向け「Google Chrome」の安定（Stable）チャネルをアップデートした。今後数日から数週間をかけて、Windows/Mac環境にはv155.0.8059.79/.80、Linux環境にはv155.0.8059.79が展開される。 — 窓の杜 / score: 95 (Chromeの重大な脆弱性を修正する更新)</description>
 </item>
 <item>
 <title>[95] Adobe、2026年10月のセキュリティ情報 ～11製品で175件の脆弱性を修正／「ColdFusion」など3製品にはCVSS基本値「10.0」の致命的な問題あり</title>
@@ -63,12 +71,20 @@
 <description>The September 2026 security release for Next.js is now available — Next.js Blog / score: 95 (Next.jsの緊急セキュリティリリース)</description>
 </item>
 <item>
+<title>[90] 不正アクセス、クラウドサービスが急所　顧客のスズキなど情報一斉流出 - 日本経済新聞</title>
+<link>https://www.nikkei.com/article/DGXZQOUC138MY0T11C26A0000000/</link>
+<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUC138MY0T11C26A0000000/</guid>
+<pubDate>Wed, 14 Oct 2026 06:30:17 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>クラウドサービスに対する不正アクセスが、大規模な個人情報の流出を招いていることがわかった。コミュニティーサイトを手掛けるコミューン（東京・品川）ではサイバー攻撃により、スズキやパナソニックなど最大64社に被害が出た可能性がある。安全性が高いとされてきたクラウドがサイバーリスクの急所になっている。1社... — はてなブックマーク テクノロジー / score: 90 (クラウドサービスを狙った大規模な不正アクセス被害)</description>
+</item>
+<item>
 <title>[90] フランス全土のスーパーマーケットの冷蔵庫を無理矢理50度まで上げたサイバー攻撃の詳細、パスワードは毎日自動更新で「本日の日付」になるという脆弱性</title>
 <link>https://gigazine.net/news/20261014-freeze-controller-defrost-food-vulnerabilities-danfoss/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261014-freeze-controller-defrost-food-vulnerabilities-danfoss/</guid>
-<pubDate>Wed, 14 Oct 2026 06:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>フランス全土で「スーパーマーケットに設置された冷蔵庫の設定温度を50度にまで上げる」というサイバー攻撃が実施されました。このサイバー攻撃の詳細について、サイバーセキュリティ企業・Clarotyの脆弱(ぜいじゃく)性研究チームであるTeam82が報告しています。 続きを読む... — GIGAZINE / score: 90 (脆弱性を突いた大規模なサイバー攻撃の詳細)</description>
+<pubDate>Wed, 14 Oct 2026 06:06:27 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>フランス全土で「スーパーマーケットに設置された冷蔵庫の設定温度を50度にまで上げる」というサイバー攻撃が実施されました。このサイバー攻撃の詳細について、サイバーセキュリティ企業・Clarotyの脆弱(ぜいじゃく)性研究チームであるTeam82が報告しています。 Freeze the Controller, Defrost the Food: Uncovering V... — はてなブックマーク テクノロジー / score: 90 (脆弱性を突いた大規模なサイバー攻撃の詳細)</description>
 </item>
 <item>
 <title>[90] パスワードが「123456」の企業アカウント経由でデンマークの国家登録簿から880万人分の個人情報が流出</title>
@@ -90,9 +106,9 @@
 <title>[90] Gemini 4 Argon: Built to solve your hardest problems</title>
 <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/</link>
 <guid isPermaLink="true">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/</guid>
-<pubDate>Tue, 13 Oct 2026 16:24:25 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Back Innovation &amp; AI See all in Innovation &amp; AI Models &amp; Research Google DeepMind Google Research Google Labs Gemini models Quantum computing See all Products Developer tools Gemini app Gemini Notebook See all Infrastructure &amp; cloud Global network Google Cloud See all Technology Safety &amp; Security... — はてなブックマーク テクノロジー / score: 90 (Googleの新しい最先端AIモデルGemini 4 Argon)</description>
+<pubDate>Tue, 13 Oct 2026 16:00:00 +0000</pubDate>
+<category>Google AI Blog</category>
+<description>We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model. — Google AI Blog / score: 90 (Googleの新しい最先端AIモデルGemini 4 Argon)</description>
 </item>
 <item>
 <title>[90] AWS Lambda Web Functions × Hono - アダプター不要のサーバーレスWeb開発</title>
@@ -167,6 +183,14 @@
 <description>AWS Lambda Web Functionsの発表 https://aws.amazon.com/jp/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/ CloudFormationリソースのドキュメント 全体像→詳細を知りたい時は大体マネコンとCfnドキュメントの説明欄を突き合わせれば理解が進むと思ってるので添えます https://docs.aws.amazon.com/AWSCloudFormation/latest/Templ... — Zenn トレンド / score: 88 (AWS Lambdaの新機能とCloudFront連携)</description>
 </item>
 <item>
+<title>[85] Windows 11 24H2 HomeおよびProのサポートが終了</title>
+<link>https://gigazine.net/news/20261014-win-11-24s2-home-pro-end-of-support/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261014-win-11-24s2-home-pro-end-of-support/</guid>
+<pubDate>Wed, 14 Oct 2026 07:50:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>2026年10月14日に定例のWindows Updateが配信された一方で、Windows 11 24H2のHomeエディションとProエディションのサポートが終了しました。動作自体はそのままでも可能ですが、以後、セキュリティパッチなどは配信されなくなります。 続きを読む... — GIGAZINE / score: 85 (Windows 11のサポート終了情報)</description>
+</item>
+<item>
 <title>[85] 日本郵便の法人向けサイト、他社の担当者名や連絡先が見える状態に　最大4807件</title>
 <link>https://www.itmedia.co.jp/news/article/2610/14/2000002254/</link>
 <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/14/2000002254/</guid>
@@ -178,17 +202,9 @@
 <title>[85] AnthropicがGit代替のバージョン管理システム「Scion」を開発し社内移行済み、AIでコードが爆増してGitの限界に達したので耐えられるシステムを開発</title>
 <link>https://gigazine.net/news/20261014-anthropic-scion-version-control-system/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261014-anthropic-scion-version-control-system/</guid>
-<pubDate>Wed, 14 Oct 2026 04:33:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>Claudeの開発元として知られるAI企業のAnthropicが、Gitの代わりとなるバージョン管理システム「Scion」を開発したことを発表しました。ScionはAnthropicの社内システムとして運用されており、すでにGitからの移行を達成しているそうです。 続きを読む... — GIGAZINE / score: 85 (AnthropicがGit代替の新バージョン管理開発)</description>
-</item>
-<item>
-<title>[85] 楽天モバイルのスマホに脆弱性　サポート終了で買い替えを推奨</title>
-<link>https://ascii.jp/elem/000/004/442/4442418/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/442/4442418/?rss</guid>
-<pubDate>Wed, 14 Oct 2026 04:30:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>JVNは10月14日、楽天モバイルのスマートフォン4機種で、起動時にOSの改ざんを確かめる仕組みに問題があると公表した。 — ASCII.jp / score: 85 (スマートフォン端末の重大なセキュリティ脆弱性)</description>
+<pubDate>Wed, 14 Oct 2026 04:36:13 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Claudeの開発元として知られるAI企業のAnthropicが、Gitの代わりとなるバージョン管理システム「Scion」を開発したことを発表しました。ScionはAnthropicの社内システムとして運用されており、すでにGitからの移行を達成しているそうです。 Redesigning source control at Anthropic \ Anthropic https://www.anthropic.... — はてなブックマーク テクノロジー / score: 85 (AnthropicがGit代替の新バージョン管理開発)</description>
 </item>
 <item>
 <title>[85] 楽天モバイル、利用者の「支払い証明書」に第三者閲覧の恐れ　社内の脆弱性診断で発覚</title>
@@ -223,28 +239,12 @@
 <description> — CodeZine / score: 85 (AWSの新機能Lambda Web Functionsの発表)</description>
 </item>
 <item>
-<title>[85] IoT家電に侵入、「自分を自分でコピーして増えるAI」の話</title>
-<link>https://www.gizmodo.jp/article/2610-ai-self-replication-research/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2610-ai-self-replication-research/</guid>
-<pubDate>Tue, 13 Oct 2026 22:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>Anthropicの研究で、非フロンティアAIでも自己複製が可能であると判明しました。 — ギズモード・ジャパン / score: 85 (AIの自己複製リスクに関する重要なセキュリティトピック。)</description>
-</item>
-<item>
 <title>[85] 「Firefox 158」が正式公開 ～「JPEG XL」画像形式への対応が実験段階を卒業／77件の脆弱性に対処。スクロールもより滑らかに</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2147837.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2147837.html</guid>
 <pubDate>Tue, 13 Oct 2026 21:45:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>Mozillaは10月13日（米国時間）、デスクトップ向け「Firefox」の最新版v158.0をリリースチャネルで公開した。「Firefox 157」に続くメジャーバージョンアップとなる。 — 窓の杜 / score: 85 (Firefoxのメジャーアップデートと脆弱性修正)</description>
-</item>
-<item>
-<title>[85] Windows Updateが使えなくなる場合も。2027年に証明書が期限切れ</title>
-<link>https://pc.watch.impress.co.jp/docs/news/2147744.html</link>
-<guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2147744.html</guid>
-<pubDate>Tue, 13 Oct 2026 21:41:06 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Windows Updateが使えなくなる場合も。2027年に証明書が期限切れ — はてなブックマーク テクノロジー / score: 85 (Windows Update停止に関わる重大な期限切れ問題)</description>
 </item>
 <item>
 <title>[85] 「Gemini 4 Argon」が一般提供開始 ～満を持して登場した最強の「Gemini」モデル／「Gemini」アプリでは「Google AI Pro/Ultra」の契約者が利用可能</title>
@@ -269,14 +269,6 @@
 <pubDate>Tue, 13 Oct 2026 09:11:02 +0000</pubDate>
 <category>Yahoo!ニュース IT</category>
 <description> — Yahoo!ニュース IT / score: 85 (銀のさら運営での大規模な情報漏洩の可能性)</description>
-</item>
-<item>
-<title>[85] CloudflareがDenoを買収して1年後に公式サポート終了へ、開発継続は引き継ぐ人が現れるか次第</title>
-<link>https://gigazine.net/news/20261013-cloudflare-deno/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261013-cloudflare-deno/</guid>
-<pubDate>Tue, 13 Oct 2026 08:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>Cloudflareが2026年10月9日にJavaScript実行環境「Deno」を開発する企業を買収したことを発表しました。Denoの開発チームはCloudflareに合流し、Deno本体の公式開発は約1年後に終了する予定です。Denoはオープンソースとして公開が続けられますが、開発元によるサポートは約1年後に終了し、その後の開発継続は新たな開発者に委ねられます。 続きを読む... — GIGAZINE / score: 85 (CloudflareによるDeno買収と公式サポート終了)</description>
 </item>
 <item>
 <title>[85] Movable Typeに深刻な脆弱性が見つかる――2026年10月7日、脆弱性対策最新版MT公開</title>
@@ -495,6 +487,14 @@
 <description>米Metaは10月12日（現地時間）、新たなフロンティアモデル「Muse Wonder」シリーズを発表した。個人向け・業務向けのAIエージェント用途を重視したモデルで、Metaはこれを「Personal Superintelligence」（個人向け超知能）への重要なステップと位置付けている。 — 窓の杜 / score: 80 (Metaの新型高性能AIモデル発表)</description>
 </item>
 <item>
+<title>[80] SSRFの入口はURL入力欄だけじゃない：代表的な10パターン</title>
+<link>https://qiita.com/shun123/items/e5e6b10e10a2395d7732?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/shun123/items/e5e6b10e10a2395d7732?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Mon, 12 Oct 2026 09:13:14 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>はじめに Webアプリケーションの脆弱性のひとつに SSRF（Server-Side Request Forgery） があります。 「URLを受け取ってサーバーがリクエストする処理」で起きる脆弱性として知られていますが、実際にはURLを直接受け取るパラメータ以外にも、さ... — Qiita 人気記事 / score: 80 (Web脆弱性SSRFの多様な侵入パターンの解説)</description>
+</item>
+<item>
 <title>[80] Structured Concurrency Looms</title>
 <link>https://inside.java/2026/10/12/devoxxbelgium-structured-concurrency/</link>
 <guid isPermaLink="true">https://inside.java/2026/10/12/devoxxbelgium-structured-concurrency/</guid>
@@ -583,12 +583,28 @@
 <description>食べ物を粗末にしたら、バチが当たるんだぞ！2026年10月12日、フランス西部の町ネヴェにあるスーパーマーケット「Intermarché（アンテルマルシェ）」に、異変が起こりました。いつもならズラリと商品が並んでいるはずの生鮮食品用冷蔵庫が… — ギズモード・ジャパン / score: 75 (実世界に影響を与えたサイバー攻撃の事例として重要)</description>
 </item>
 <item>
+<title>[75] OpenCode 2.0、ターミナル・Web・デスクトップでセッション共有をデフォルトに ——レビューやテストをバックグラウンドで実行</title>
+<link>https://gihyo.jp/article/2026/10/opencode-2.0?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/10/opencode-2.0?utm_source=feed</guid>
+<pubDate>Wed, 14 Oct 2026 05:57:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Anomalyは2026年10月12日、オープンソースのAIコーディングエージェント「OpenCode 2.0」の主な変更点を公式ブログで紹介した。 — gihyo.jp / score: 75 (AIコーディングエージェントのメジャー更新)</description>
+</item>
+<item>
 <title>[75] Windows 11でリモートデスクトップ接続に問題 ～2026年9月プレビューパッチ以降で／［管理者保護］絡み、Microsoftが回避策を案内</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2147976.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2147976.html</guid>
 <pubDate>Wed, 14 Oct 2026 05:16:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Microsoftは10月13日（現地時間）、Windows 11で新たな問題が報告されていることを明らかにした。2026年9月のプレビュー更新プログラム（KB5124010）およびそれ以降を適用した環境で、リモートデスクトップ接続に失敗することがあるという。 — 窓の杜 / score: 75 (Windows 11リモートデスクトップ接続問題)</description>
+</item>
+<item>
+<title>[75] 「国の注意喚起、うちは何から？」--8機関が10月7～9日に求めた対策は、重複を整理すると17項目。それを「やる順番・最初に動く人・追加費用の有無」で1枚にした点検表を無料公開</title>
+<link>https://ascii.jp/elem/000/004/442/4442598/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/442/4442598/?rss</guid>
+<pubDate>Wed, 14 Oct 2026 05:13:43 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>「国の注意喚起、うちは何から？」--8機関が10月7～9日に求めた対策は、重複を整理すると17項目。それを「やる順番・最初に動く人・追加費用の有無」で1枚にした点検表を無料公開 — ASCII.jp / score: 75 (政府のセキュリティ注意喚起に対する点検表の公開)</description>
 </item>
 <item>
 <title>[75] Google Meetの通話がポスト量子暗号に対応</title>
@@ -605,6 +621,14 @@
 <pubDate>Wed, 14 Oct 2026 03:05:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>オフィスに密かに盗聴器を仕掛けていたとして、OpenAIの従業員がFBIに逮捕されました。盗聴器の仕掛けられた役員会議室は、会社の機密情報や非公開情報をやり取りするような会議が行われる場でしたが、OpenAIによると情報の窃取や持ち出しは確認されていないとのことです。 続きを読む... — GIGAZINE / score: 75 (AI企業従業員によるオフィス盗聴事件の逮捕報道)</description>
+</item>
+<item>
+<title>[75] 【2026年10月 最新版】AIモデル徹底比較 | GPT-6.1 Sol  / Claude Opus 5.5  / Claude Sonnet 5.5 / Gemini 4 Argon</title>
+<link>https://qiita.com/nuco_d/items/9d4f86c185dda6fd24a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/nuco_d/items/9d4f86c185dda6fd24a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Wed, 14 Oct 2026 02:48:28 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>はじめに 本記事では、Gemini 4 Argon、GPT-6.1 Sol、Claude Opus 5.5、Claude Sonnet 5.5 の4モデルを、スペック・公式ベンチマーク・料金の3つの観点で比較します。 記載している数値は、すべて2026年10月13日時点の... — Qiita 人気記事 / score: 75 (最新AIモデルのスペックとベンチマーク比較)</description>
 </item>
 <item>
 <title>[75] 今すぐ始めるWebサイトのセキュリティ対策 - セキュアスカイプラス</title>
@@ -653,14 +677,6 @@
 <pubDate>Tue, 13 Oct 2026 23:00:06 +0000</pubDate>
 <category>Simon Willison</category>
 <description>Redesigning source control at Anthropic Interesting piece from Anthropic describing why and how they built their own custom alternative to Git, based on the dramatic increase in rate of changes to their code after the past six months. In May 2026, Anthropic averaged around 2,500 code changes merged per day; as of September, we merged over 30,000 per day. They included a chart showing those changes. I had Claude modify their chart ( code here ) to add markers for the public releases of each of th — Simon Willison / score: 75 (AnthropicによるGit代替の独自バージョン管理)</description>
-</item>
-<item>
-<title>[75] 待ってた。Geminiで強力なフロンティアAI「Gemini 4 Argon」が使えるように</title>
-<link>https://www.gizmodo.jp/article/2610-gemini-4-argon-rollout/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2610-gemini-4-argon-rollout/</guid>
-<pubDate>Tue, 13 Oct 2026 21:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>Googleの新AIモデル「Gemini 4 Argon」がロールアウトされ、Pro/UltraユーザーであればGeminiアプリから利用できます。ゴージャスな出力が可能でフロンティア性能を感じられます。 — ギズモード・ジャパン / score: 75 (主要なフロンティアAIモデルのアップデート情報。)</description>
 </item>
 <item>
 <title>[75] Redesigning source control at Anthropic</title>
@@ -789,22 +805,6 @@
 <pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>Editor’s note: This article is adapted from Thomas Kurian’s keynote address at Gemini at Work 2026. It includes a number of announcements: Gemini , a single, universal agent for work that answers your questions, handles your knowledge work, creates your images and media, and writes and runs code. Inline in Workspace , Gemini works directly inside Gmail, Drive, Docs, Slides, Sheets, Chat, and Calendar, carrying the same memory, skills, and controls it has everywhere else. New data and analytics s — Google Cloud Blog / score: 75 (Googleによる汎用ワークエージェントの発表)</description>
-</item>
-<item>
-<title>[75] Google、AI生成コンテンツを見分ける「SynthID Detector」を一般に開放／OpenAI、NVIDIA、Kakaoなどの生成AIに対応。Appleも対応予定</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2146802.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2146802.html</guid>
-<pubDate>Thu, 08 Oct 2026 08:32:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Googleは10月7日（現地時間）、「SynthID Detector」の提供範囲を大幅に拡大したと発表した。同日から、一般ユーザーも全世界で利用できるようになった。提供言語は英語。 — 窓の杜 / score: 75 (GoogleのAI生成コンテンツ検出ツールの一般開放)</description>
-</item>
-<item>
-<title>[75] Amazon GuardDuty RDS Protection now detects data exfiltration and destruction in Aurora and RDS databases</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/10/guardduty-rds-data-exfiltration/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/guardduty-rds-data-exfiltration/</guid>
-<pubDate>Thu, 08 Oct 2026 08:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Amazon GuardDuty announces an expansion of RDS Protection that extends threat detection beyond login anomalies to identify data exfiltration and data destruction attacks targeting Amazon Aurora PostgreSQL and Amazon RDS for PostgreSQL databases. Available as RDS Protection for data activity, this new capability uses machine learning (ML)-based anomaly detection and integrated threat intelligence to continuously monitor database query patterns, helping you detect unusual data activity without req — AWS What's New / score: 75 (GuardDutyによるDBのデータ持ち出し・破壊検知の強化)</description>
 </item>
 </channel>
 </rss>
