@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 14 Oct 2026 16:10:26 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 18:11:41 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[98] 「GitLab」にまたも緊急パッチ、CVSS基本値「10.0」の脆弱性に対処／認証なしでサーバー上で任意のコードを実行されるおそれ</title>
@@ -55,12 +55,12 @@
 <description>JavaScriptランタイム「Deno」の開発元であるDeno LandとCloudflareは、Deno LandがCloudflareに合流すると発表しました。CloudflareによるDeno Landの買収と見られます（Deno ... — Publickey / score: 95 (Deno開発終了とCloudflare合流の重大なニュース)</description>
 </item>
 <item>
-<title>[95] September 2026 Security Release</title>
-<link>https://nextjs.org/blog/september-2026-security-release</link>
-<guid isPermaLink="true">https://nextjs.org/blog/september-2026-security-release</guid>
-<pubDate>Wed, 30 Sep 2026 18:00:00 +0000</pubDate>
+<title>[90] Next.js Security Update for Upstream Vulnerabilities</title>
+<link>https://nextjs.org/blog/nextjs-security-update-october-14-2026</link>
+<guid isPermaLink="true">https://nextjs.org/blog/nextjs-security-update-october-14-2026</guid>
+<pubDate>Wed, 14 Oct 2026 18:00:00 +0000</pubDate>
 <category>Next.js Blog</category>
-<description>The September 2026 security release for Next.js is now available — Next.js Blog / score: 95 (Next.jsの緊急セキュリティリリース)</description>
+<description>The October 14, 2026 out-of-band security update for Next.js is now available — Next.js Blog / score: 90 (Next.jsの重要セキュリティアップデート)</description>
 </item>
 <item>
 <title>[90] フランス全土のスーパーマーケットの冷蔵庫を無理矢理50度まで上げたサイバー攻撃の詳細、パスワードは毎日自動更新で「本日の日付」になるという脆弱性</title>
@@ -575,6 +575,14 @@
 <description>Amazon Web Services（AWS）は2026年10月12日、WebアプリケーションをLambda上で動かす新しい実行方式「AWS Lambda Web Functions」の提供開始を発表した。 — gihyo.jp / score: 75 (AWS Lambda Web Functionsの提供開始に関する速報)</description>
 </item>
 <item>
+<title>[75] RIZAPの個人情報流出、発覚は社員の自己申告：「シャドーAI」の正体は古い問題だった（尾藤克之） - エキスパート - Yahoo!ニュース</title>
+<link>https://news.yahoo.co.jp/expert/articles/336df56ad79b1b5ca88526fd58cddd5ec56f9b81</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/expert/articles/336df56ad79b1b5ca88526fd58cddd5ec56f9b81</guid>
+<pubDate>Wed, 14 Oct 2026 10:17:01 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>9月3日、RIZAPは、社員が個人で使っていた生成AIに、利用者のデータを誤って入れてしまったと公表した。特定保健指導（健康診断の結果をもとに行う生活習慣の指導）を、健康保険組合などから請け負う中で扱っていたデータで、保険証の記号番号、名前、生年月日、病気の情報が含まれていた。社員が自分から申し出て分かっ... — はてなブックマーク テクノロジー / score: 75 (生成AI利用による個人情報流出の警鐘)</description>
+</item>
+<item>
 <title>[75] How Third Moment Research runs 10,000 agents for 36+ hours</title>
 <link>https://openai.com/index/third-moment-research</link>
 <guid isPermaLink="true">https://openai.com/index/third-moment-research</guid>
@@ -661,6 +669,14 @@
 <pubDate>Wed, 14 Oct 2026 00:40:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>今回は10月15日にリリースされる予定のUbuntu 26.10の変更点をお知らせします。 — gihyo.jp / score: 75 (メジャーLinuxディストリビューションの最新変更点)</description>
+</item>
+<item>
+<title>[75] Claude Platform release notes — October 14, 2026</title>
+<link>https://platform.claude.com/docs/en/release-notes/overview#october-14-2026</link>
+<guid isPermaLink="true">https://platform.claude.com/docs/en/release-notes/overview#october-14-2026</guid>
+<pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+<category>Claude リリースノート</category>
+<description>We've launched OpenTelemetry export in beta, so you can trace Messages API requests and Claude Managed Agents sessions in your observability backend. The Claude SDK emits spans in Python, TypeScript, C#, Go, Java, PHP, and Ruby. To get spans from the API, add an OpenTelemetry destination in the Claude Console. — Claude リリースノート / score: 75 (Claudeプラットフォームのマネージドエージェント更新)</description>
 </item>
 <item>
 <title>[75] Redesigning source control at Anthropic</title>
@@ -775,14 +791,6 @@
 <description>Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models. — OpenAI News / score: 75 (AIモデル活用による大幅なコスト削減事例)</description>
 </item>
 <item>
-<title>[75] Claude Platform release notes — October 9, 2026</title>
-<link>https://platform.claude.com/docs/en/release-notes/overview#october-9-2026</link>
-<guid isPermaLink="true">https://platform.claude.com/docs/en/release-notes/overview#october-9-2026</guid>
-<pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-<category>Claude リリースノート</category>
-<description>You can now let a Claude Managed Agents agent use dynamic workflows , in beta with the managed-agents-2026-04-01 beta header. For work with many pieces, such as reviewing hundreds of documents, the agent can write a workflow. A workflow is a program that runs many agents in phases and combines their results. The server runs it in the background as a workflow run. To turn dynamic workflows on , set the agent's multiagent field to {"type": "multiagent_20261001", "workflows": {"type": "enabled"}} . — Claude リリースノート / score: 75 (Claudeプラットフォームのマネージドエージェント更新)</description>
-</item>
-<item>
 <title>[75] Welcome to Gemini at Work 2026: Introducing the Gemini agent</title>
 <link>https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026/</link>
 <guid isPermaLink="true">https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026/</guid>
@@ -797,14 +805,6 @@
 <pubDate>Thu, 08 Oct 2026 08:32:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Googleは10月7日（現地時間）、「SynthID Detector」の提供範囲を大幅に拡大したと発表した。同日から、一般ユーザーも全世界で利用できるようになった。提供言語は英語。 — 窓の杜 / score: 75 (GoogleのAI生成コンテンツ検出ツールの一般開放)</description>
-</item>
-<item>
-<title>[75] Amazon GuardDuty RDS Protection now detects data exfiltration and destruction in Aurora and RDS databases</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/10/guardduty-rds-data-exfiltration/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/guardduty-rds-data-exfiltration/</guid>
-<pubDate>Thu, 08 Oct 2026 08:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Amazon GuardDuty announces an expansion of RDS Protection that extends threat detection beyond login anomalies to identify data exfiltration and data destruction attacks targeting Amazon Aurora PostgreSQL and Amazon RDS for PostgreSQL databases. Available as RDS Protection for data activity, this new capability uses machine learning (ML)-based anomaly detection and integrated threat intelligence to continuously monitor database query patterns, helping you detect unusual data activity without req — AWS What's New / score: 75 (GuardDutyによるDBのデータ持ち出し・破壊検知の強化)</description>
 </item>
 </channel>
 </rss>
