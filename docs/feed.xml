@@ -4,8 +4,32 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 15 Oct 2026 16:10:12 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 18:12:09 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Claude Platform release notes — October 19, 2026</title>
+<link>https://platform.claude.com/docs/en/release-notes/overview#october-19-2026-3</link>
+<guid isPermaLink="true">https://platform.claude.com/docs/en/release-notes/overview#october-19-2026-3</guid>
+<pubDate>Thu, 15 Oct 2026 18:11:40 +0000</pubDate>
+<category>Claude リリースノート</category>
+<description>The Compliance API now returns the text each organization member saved as Instructions for Claude in claude.ai and as Global instructions in Cowork, in beta for Claude Enterprise organizations. Call GET /v1/compliance/organizations/{org_uuid}/user_preferences with your existing Compliance Access Key and the read:compliance_user_data scope. See List user preferences . — Claude リリースノート / score: 75 (Claudeプラットフォームのマネージドエージェント更新)</description>
+</item>
+<item>
+<title>｢iPhone 17 Pro｣の変色問題再来?? ｰ ｢iPhone 18 Pro｣のバーガンディモデルでも一部ユーザーから変色問題が報告される</title>
+<link>https://taisy0.com/2026/10/16/228982.html</link>
+<guid isPermaLink="true">https://taisy0.com/2026/10/16/228982.html</guid>
+<pubDate>Thu, 15 Oct 2026 17:13:20 +0000</pubDate>
+<category>気になる、記になる…</category>
+<description>中国のMyDriversによると、「iPhone 18 Pro」シリーズを発売当初に入手したユーザーから外観に関する不満が寄せられていることが分かりました。 特にバーガンディモデルにおける色落ちや塗装剥がれの問題が目立っ […] — 気になる、記になる… / score: 25 (新型iPhoneの不具合に関するハードウェア噂)</description>
+</item>
+<item>
+<title>AWS Transform for full-stack Windows modernization now supports Aurora PostgreSQL cross-region deployment in 7 more Regions</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transform-full-stack-aurora-cross-region</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transform-full-stack-aurora-cross-region</guid>
+<pubDate>Thu, 15 Oct 2026 17:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Today, AWS Transform for full-stack Windows modernization adds support for cross-region deployment of converted Amazon Aurora PostgreSQL databases and is available in seven additional AWS Regions. Together these changes give customers more control over where their modernized databases are deployed after SQL Server modernization, supporting data residency, latency, and disaster recovery requirements. Customers can upload SQL Server Database Design Language (DDL) files and set a target AWS Region  — AWS What's New / score: 50 (AWS移行ツールの機能拡張とリージョン追加)</description>
+</item>
 <item>
 <title>Accelerating the search for antimicrobial peptides with Google Antigravity</title>
 <link>https://deepmind.google/blog/accelerating-antimicrobial-discovery/</link>
@@ -13,30 +37,6 @@
 <pubDate>Thu, 15 Oct 2026 16:08:03 +0000</pubDate>
 <category>Google DeepMind</category>
 <description>Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science. — Google DeepMind / score: 75 (科学技術・創薬におけるAI活用に関する重要成果)</description>
-</item>
-<item>
-<title>Temporal Serverless Workers on Cloud Run: Scale workers ahead of demand</title>
-<link>https://cloud.google.com/blog/products/serverless/temporal-serverless-workers-on-cloud-run-worker-pools/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/products/serverless/temporal-serverless-workers-on-cloud-run-worker-pools/</guid>
-<pubDate>Thu, 15 Oct 2026 16:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>The open-source Temporal execution platform is rapidly becoming a foundational layer of modern software infrastructure — especially for orchestration in distributed systems and AI agent workloads. However, deploying and scaling workers in Temporal comes with unique challenges. Workers poll for tasks instead of serving requests, so request-driven serverless platforms can be an awkward fit. This often results in running worker fleets on Kubernetes or VMs, which you have to manage and pay for conti — Google Cloud Blog / score: 75 (分散処理基盤とサーバーレスの重要なインフラ連携)</description>
-</item>
-<item>
-<title>Bringing the borderless Lakehouse into the agentic era with innovations for Gemini</title>
-<link>https://cloud.google.com/blog/products/data-analytics/borderless-lakehouse-integrates-with-gemini/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/products/data-analytics/borderless-lakehouse-integrates-with-gemini/</guid>
-<pubDate>Thu, 15 Oct 2026 16:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>As enterprises shift their AI usage from experimental chatbots to autonomous agents, teams are hitting a critical bottleneck: accessing and reasoning over data scattered across multiple clouds, SaaS platforms, and on-premises systems. To turn AI agents into true systems of action, organizations need a foundation that can handle petabyte-scale reasoning without the security risks of data movement. Last week at our Gemini at Work event, we announced how Gemini can help you transform business workf — Google Cloud Blog / score: 65 (AIエージェント時代のデータ基盤に関する発表)</description>
-</item>
-<item>
-<title>What the Gemini agent means for startups</title>
-<link>https://cloud.google.com/blog/topics/startups/what-the-gemini-agent-means-for-startups/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/topics/startups/what-the-gemini-agent-means-for-startups/</guid>
-<pubDate>Thu, 15 Oct 2026 16:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>Small teams, short runway, and constant pressure to ship faster — it’s the reality we see every day among the founders we work with at Google for Startups. When you are building a company from the ground up, every hour spent on operational overhead or infrastructure plumbing is an hour taken away from your core product. Last week at Gemini at Work 2026, we introduced the Gemini agent : a single, universal agent designed to work both as your personal assistant and as a dedicated member of your te — Google Cloud Blog / score: 55 (スタートアップ向けAI活用のマーケティング記事)</description>
 </item>
 <item>
 <title>How Visko streams real-time world models on Google Cloud TPUs</title>
@@ -47,12 +47,52 @@
 <description>Editor's note: Generative AI startups are moving rapidly beyond static clip generation to build interactive, real-time worlds. In this technical deep dive, we explore how AI startup Visko collaborated with Google Cloud TPU engineers to deploy Orbis — its continuously streaming Live World Model—on Cloud TPUs, going from initial kickoff to production handover in just 30 days. What makes a live video world model so challenging to serve in production? The bottleneck isn't average throughput — it's b — Google Cloud Blog / score: 70 (クラウドTPUを活用したリアルタイム生成AIの技術解説)</description>
 </item>
 <item>
+<title>Bringing the borderless Lakehouse into the agentic era with innovations for Gemini</title>
+<link>https://cloud.google.com/blog/products/data-analytics/borderless-lakehouse-integrates-with-gemini/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/data-analytics/borderless-lakehouse-integrates-with-gemini/</guid>
+<pubDate>Thu, 15 Oct 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>As enterprises shift their AI usage from experimental chatbots to autonomous agents, teams are hitting a critical bottleneck: accessing and reasoning over data scattered across multiple clouds, SaaS platforms, and on-premises systems. To turn AI agents into true systems of action, organizations need a foundation that can handle petabyte-scale reasoning without the security risks of data movement. Last week at our Gemini at Work event, we announced how Gemini can help you transform business workf — Google Cloud Blog / score: 65 (AIエージェント時代のデータ基盤に関する発表)</description>
+</item>
+<item>
+<title>Temporal Serverless Workers on Cloud Run: Scale workers ahead of demand</title>
+<link>https://cloud.google.com/blog/products/serverless/temporal-serverless-workers-on-cloud-run-worker-pools/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/serverless/temporal-serverless-workers-on-cloud-run-worker-pools/</guid>
+<pubDate>Thu, 15 Oct 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>The open-source Temporal execution platform is rapidly becoming a foundational layer of modern software infrastructure — especially for orchestration in distributed systems and AI agent workloads. However, deploying and scaling workers in Temporal comes with unique challenges. Workers poll for tasks instead of serving requests, so request-driven serverless platforms can be an awkward fit. This often results in running worker fleets on Kubernetes or VMs, which you have to manage and pay for conti — Google Cloud Blog / score: 75 (分散処理基盤とサーバーレスの重要なインフラ連携)</description>
+</item>
+<item>
+<title>What the Gemini agent means for startups</title>
+<link>https://cloud.google.com/blog/topics/startups/what-the-gemini-agent-means-for-startups/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/startups/what-the-gemini-agent-means-for-startups/</guid>
+<pubDate>Thu, 15 Oct 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Small teams, short runway, and constant pressure to ship faster — it’s the reality we see every day among the founders we work with at Google for Startups. When you are building a company from the ground up, every hour spent on operational overhead or infrastructure plumbing is an hour taken away from your core product. Last week at Gemini at Work 2026, we introduced the Gemini agent : a single, universal agent designed to work both as your personal assistant and as a dedicated member of your te — Google Cloud Blog / score: 55 (スタートアップ向けAI活用のマーケティング記事)</description>
+</item>
+<item>
+<title>Modernizing perimeter security: Scalable perimeters with VPC Service Controls</title>
+<link>https://cloud.google.com/blog/products/identity-security/introducing-new-scalable-perimeter-options-with-vpc-service-controls/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/identity-security/introducing-new-scalable-perimeter-options-with-vpc-service-controls/</guid>
+<pubDate>Thu, 15 Oct 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Agents represent a fundamental shift in cloud operations. They can act on behalf of users or autonomously, make non-deterministic decisions, and request data across projects at unprecedented speed and scale. Because agents are a distinct category of non-human identity (NHI), they require unique secure-by-default guardrails. Traditional, manually-operated network perimeters are vulnerable to today’s machine-speed attacks. Overly permissive perimeters, built to avoid blocked connections, increase  — Google Cloud Blog / score: 55 (Google Cloudの境界セキュリティ近代化解説)</description>
+</item>
+<item>
 <title>AnthropicのBun、TypeScript 7よりも3倍以上高速なTypeScript型チェッカーを搭載。Bunの新バージョン1.4.3で</title>
 <link>https://www.publickey1.jp/blog/26/anthropicbuntypescript_73typescriptbun143.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/anthropicbuntypescript_73typescriptbun143.html</guid>
 <pubDate>Thu, 15 Oct 2026 15:21:12 +0000</pubDate>
 <category>Publickey</category>
 <description>Anthropicが開発しているJavaScriptランタイム「Bun」は、10月10日付けで新バージョン「Bun v1.4.3」がリリースされました。 Bun v1.4.3の最大の特徴として示されたのが、Go言語で実装されたTypeScr... — Publickey / score: 85 (Bunの高速型チェッカー追加という大きなアップデート)</description>
+</item>
+<item>
+<title>Google Summer of Code 2026 With the Kotlin Foundation: Recap</title>
+<link>https://blog.jetbrains.com/kotlin/2026/10/google-summer-of-code-2026-with-kotlin/</link>
+<guid isPermaLink="true">https://blog.jetbrains.com/kotlin/2026/10/google-summer-of-code-2026-with-kotlin/</guid>
+<pubDate>Thu, 15 Oct 2026 15:03:05 +0000</pubDate>
+<category>Kotlin Blog</category>
+<description>Google Summer of Code 2026 has wrapped up! This was the Kotlin Foundation’s fourth year participating in GSoC, bringing new contributors into the Kotlin open-source ecosystem through hands-on projects and mentorship. This year, two projects successfully reached completion, tackling two areas of the ecosystem: improving recursion support in the Kotlin/Wasm backend and building a global […] — Kotlin Blog / score: 40 (Kotlin財団によるGSoC参加のリカプ記事)</description>
 </item>
 <item>
 <title>最新ポータブルゲーム機「ROG Xbox Ally X20」実機レビュー＝ROG20周年でサイバー・デザインにディスプレー大型化です!!</title>
@@ -69,6 +109,14 @@
 <pubDate>Thu, 15 Oct 2026 15:00:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>Amazonでは2026年10月16日(金)～10月19日(月)まで、Amazonプライム会員に向けたセールイベント「プライム感謝祭」を開催しています。プライム感謝祭の開催期間に合わせて、GIGAZINEでもマンガやインタビュー集、作品集などKindle本をまるっと半額以下にしたセールを実施します。ぜひ他のお買い物と合わせてチェックしてみてください。 続きを読む... — GIGAZINE / score: 10 (電子書籍のセール情報であり技術的価値は低い)</description>
+</item>
+<item>
+<title>Amazon Redshift long-term system table retention with Amazon S3 Tables is now available in additional AWS Regions</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/redshift-long-term-system-table-retention-expansion/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/redshift-long-term-system-table-retention-expansion/</guid>
+<pubDate>Thu, 15 Oct 2026 15:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon Redshift long-term retention for system table data through native integration with Amazon S3 Tables is now available in additional AWS Regions. With this feature, you can configure your Redshift system table data retention beyond the current 7-day limit to meet your compliance, auditing, and observability requirements. Once enabled, AWS automatically writes system table data to S3 Tables in Apache Iceberg format and manages partitioning, compaction, and retention. Customers use Redshift s — AWS What's New / score: 45 (Amazon Redshiftの機能リージョン拡大)</description>
 </item>
 <item>
 <title>パソコンショップSEVEN、10月16日限定で最新ゲーミングPCなど最大86,000円オフのセールを実施</title>
@@ -135,6 +183,14 @@
 <description>農家の負担である炎天下の草むしりを自動化する自律型農業ロボット「シンロボ」の魅力と開発背景を徹底解説。 — ギズモード・ジャパン / score: 45 (農業分野におけるロボティクスの自動化事例)</description>
 </item>
 <item>
+<title>データ転送ライブラリ「curl」に特定の条件でリモートからコードを実行される脆弱性／深刻度Highを含む24件の脆弱性を修正したv8.23.0が公開</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2148495.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2148495.html</guid>
+<pubDate>Thu, 15 Oct 2026 13:22:05 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>データ転送ライブラリ「curl」に特定の条件でリモートからコードを実行される脆弱性／深刻度Highを含む24件の脆弱性を修正したv8.23.0が公開 — はてなブックマーク テクノロジー / score: 95 (curlの深刻度Highを含む複数脆弱性の修正)</description>
+</item>
+<item>
 <title>Amazonはインターネット全体で商品価格をつり上げている</title>
 <link>https://gigazine.net/news/20261015-amazon-push-up-all-internet-price/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261015-amazon-push-up-all-internet-price/</guid>
@@ -189,6 +245,22 @@
 <pubDate>Thu, 15 Oct 2026 13:00:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>だいたいにおいて「初」となると、思わず注目してしまうもの。ワードローブに1着加えると、これからの季節を安心して過ごせそうなDESCENTE（デサント）のALLTERRAIN 81（オルテラ イン エイティワン）から、メンズファッションブラン… — ギズモード・ジャパン / score: 10 (ファッションブランドのコラボ紹介)</description>
+</item>
+<item>
+<title>100万円でも即売り切れ。NVIDIA「RTX Spark」に触れて分かった、可能性と難しさ</title>
+<link>https://pc.watch.impress.co.jp/docs/news/2148163.html</link>
+<guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2148163.html</guid>
+<pubDate>Thu, 15 Oct 2026 12:58:22 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>100万円でも即売り切れ。NVIDIA「RTX Spark」に触れて分かった、可能性と難しさ — はてなブックマーク テクノロジー / score: 65 (注目を集めるNVIDIA製AIハードウェアのレビュー)</description>
+</item>
+<item>
+<title>【笠原一輝のユビキタス情報局】 買ったらすぐローカルエージェント型AIが始められるRTX Spark N1Xのすべて</title>
+<link>https://pc.watch.impress.co.jp/docs/column/ubiq/2148478.html</link>
+<guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/column/ubiq/2148478.html</guid>
+<pubDate>Thu, 15 Oct 2026 12:53:17 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>【笠原一輝のユビキタス情報局】 買ったらすぐローカルエージェント型AIが始められるRTX Spark N1Xのすべて — はてなブックマーク テクノロジー / score: 60 (ローカルAIデバイスのハードウェア解説記事)</description>
 </item>
 <item>
 <title>網膜に直接映すスマートグラス、ついに「普通のメガネ」に近づいた。ミラーの厚さ、たった150nm</title>
@@ -247,14 +319,6 @@
 <description>電源・水道不要の「バケツのケルヒャー」ことマルチクリーナーOC 3 Foldableが過去最安タイの18%OFFに。ベランダ掃除が劇的にラクになる魅力を紹介。 — ギズモード・ジャパン / score: 15 (ガジェットのセール情報で技術者向けではない)</description>
 </item>
 <item>
-<title>データ転送ライブラリ「curl」に特定の条件でリモートからコードを実行される脆弱性／深刻度Highを含む24件の脆弱性を修正したv8.23.0が公開</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2148495.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2148495.html</guid>
-<pubDate>Thu, 15 Oct 2026 11:45:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>データ転送ライブラリ「curl」の最新安定版v8.23.0が、10月14日に公開された。全24件の脆弱性を修正したセキュリティアップデートとなっている。 — 窓の杜 / score: 95 (curlの深刻度Highを含む複数脆弱性の修正)</description>
-</item>
-<item>
 <title>フルHDの次に欲しくなる27型QHD解像度ゲーミングディスプレーがプライム感謝祭先行セールで2万9800円</title>
 <link>https://ascii.jp/elem/000/004/443/4443029/?rss</link>
 <guid isPermaLink="true">https://ascii.jp/elem/000/004/443/4443029/?rss</guid>
@@ -263,12 +327,12 @@
 <description>Amazon.co.jpにて、ASUSの27型QHDゲーミングディスプレー「ROG Strix XG27ACSR」が販売中だ。参考価格は4万202円だが、プライム感謝祭先行セールにより、26％オフの2万9800円で購入できる（10月15日時点）。 — ASCII.jp / score: 20 (ゲーミングディスプレイのセール情報)</description>
 </item>
 <item>
-<title>ソースネクスト情報流出か　最大2251万件（共同通信） - Yahoo!ニュース</title>
-<link>https://news.yahoo.co.jp/articles/5b83853f3e388b3fe3f2527044ec07837450308d</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/articles/5b83853f3e388b3fe3f2527044ec07837450308d</guid>
-<pubDate>Thu, 15 Oct 2026 11:19:55 +0000</pubDate>
+<title>国内で相次ぐWebシステムからの情報漏えい～ラックの観測から見える変化と、企業が今とるべき対策 | LAC WATCH</title>
+<link>https://www.lac.co.jp/lacwatch/alert/20261015_004996.html</link>
+<guid isPermaLink="true">https://www.lac.co.jp/lacwatch/alert/20261015_004996.html</guid>
+<pubDate>Thu, 15 Oct 2026 11:26:49 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>セキュリティー対策ソフトなどを手がけるソースネクストは15日、第三者からの不正アクセスを受け、顧客の氏名や電話番号、パスワードなど最大で約2251万件の個人情報が流出した可能性があると発表した。クレジットカードの情報は含まれていない。 ソースネクストによると、登録した住所のほか、勤め先や役職などの情報も... — はてなブックマーク テクノロジー / score: 85 (ソースネクスト不正アクセス・情報流出の速報)</description>
+<description>2026年7月以降、国内法人が運営するWebシステムやスマートフォンアプリに関連した個人情報漏えいの公表が相次いでいます。公開情報の独自集計では、2026年10月6日時点で119件に上り、そのうち約68%にあたる81件が7月以降に公表※されたものです。ラックのサイバー救急センターへの相談件数においても、サーバへの不正侵入... — はてなブックマーク テクノロジー / score: 85 (国内での情報漏えい増加と対策に関する重要警鐘)</description>
 </item>
 <item>
 <title>DellのデスクトップPCが9万9980円！ DVDドライブもキーボードもマウスも付いてくる</title>
@@ -647,14 +711,6 @@
 <description>このたび、当社が管理する会員情報に対し、第三者による不正アクセスが行われ、当社に会員登録いただいているお客様の個人情報が外部に流出したことが判明いたしました。 お客様ならびに関係者の皆様に多大なるご迷惑とご心配をおかけしておりますことを、深くお詫び申し上げます。 現在、外部の専門機関と連携し、原因... — はてなブックマーク テクノロジー / score: 85 (大規模な個人情報の流出事案であり影響が甚大)</description>
 </item>
 <item>
-<title>バーガーキング、1118万件の会員情報流出　メールや電話番号など</title>
-<link>https://www.watch.impress.co.jp/docs/news/2148486.html</link>
-<guid isPermaLink="true">https://www.watch.impress.co.jp/docs/news/2148486.html</guid>
-<pubDate>Thu, 15 Oct 2026 08:36:19 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>バーガーキング、1118万件の会員情報流出 メールや電話番号など — はてなブックマーク テクノロジー / score: 90 (大規模な会員情報流出という重大なセキュリティ事故)</description>
-</item>
-<item>
 <title>楽器練習中のタブレット操作、面倒くさくない？ だったらタブレットにボタンいっぱい付けちゃおう</title>
 <link>https://www.gizmodo.jp/article/2610-benjamin-tablet-controller-for-musicians/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/2610-benjamin-tablet-controller-for-musicians/</guid>
@@ -727,6 +783,14 @@
 <description>AWS Security Hub CSPM now supports automated security checks that align with the Cyber Risk Institute (CRI) profile. The CRI Profile is a cybersecurity framework developed by the Cyber Risk Institute, a non-profit coalition of financial institutions and trade associations. The framework harmonizes cybersecurity and regulatory expectations that apply to the financial services sector into a common set of requirements, so that an organization can assess itself once and report against multiple regul — AWS What's New / score: 60 (AWSのセキュリティガバナンス機能のアップデート)</description>
 </item>
 <item>
+<title>Amazon Managed Service for Prometheus Collector now available in Asia Pacific (New Zealand) Region</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/ams-prometheus-collector-apac-nz/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/ams-prometheus-collector-apac-nz/</guid>
+<pubDate>Thu, 15 Oct 2026 08:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon Managed Service for Prometheus collector, a fully-managed agentless collector for Prometheus metrics, is now available in Asia Pacific (New Zealand). Customers in New Zealand can now run their Prometheus-compatible monitoring workloads in-region, with lower latency for local workloads and the ability to keep their data in-country. Amazon Managed Service for Prometheus collector discovers and collects Prometheus metrics from your container workloads without the need to run and operate coll — AWS What's New / score: 40 (AWS Prometheusコレクターの提供リージョン追加)</description>
+</item>
+<item>
 <title>太陽光でずっと動く＝充電も電池交換も不要。しかもAmazonセールで33%オフ</title>
 <link>https://www.gizmodo.jp/article/2610-solar-powered-item-tracker/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/2610-solar-powered-item-tracker/</guid>
@@ -741,70 +805,6 @@
 <pubDate>Thu, 15 Oct 2026 07:55:30 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>不正アクセスによる 公式アプリ会員情報漏えいに関するお詫びとお知らせ — はてなブックマーク テクノロジー / score: 85 (大規模なアプリ会員情報漏えいの警告)</description>
-</item>
-<item>
-<title>「NVIDIA Broadcast 2.3」が公開、ライブ配信だけでなく既存メディアにもAI効果／「RTX Spark」にもネイティブ対応</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2148347.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2148347.html</guid>
-<pubDate>Thu, 15 Oct 2026 07:52:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米NVIDIAは10月13日（現地時間）、ブロードキャストアプリ「NVIDIA Broadcast 2.3」をリリースした。［ファイルプロセッサー］モードなど、新機能がいくつか導入されている。 — 窓の杜 / score: 45 (NVIDIA Broadcastのアップデート)</description>
-</item>
-<item>
-<title>FFRI × NFLabs. Cybersecurity Challenge 2026 ゆるWriteup</title>
-<link>https://zenn.dev/juck28/articles/74c43f18838188</link>
-<guid isPermaLink="true">https://zenn.dev/juck28/articles/74c43f18838188</guid>
-<pubDate>Thu, 15 Oct 2026 07:47:43 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>JUCKです。 FFRI × NFLabs. Cybersecurity Challenge 2026という学生向けCTFに参加し2100pt/26thでした。 ここでは Copy(pentest) The Hidden Layer(pentest) Unearthed(pentest) do_you_know_buf?(BinaryExploitation) View Source(Web Exploitation) Smile(Web Exploitation) know_your_go(MalwareAnalysis) Whereabouts(Misc) についてのWrite... — Zenn トレンド / score: 30 (学生向けCTFの参加ライトアップ記事)</description>
-</item>
-<item>
-<title>スマホを持つだけで通過　JR東「ウォークスルー改札」がCEATECで体験できる</title>
-<link>https://www.watch.impress.co.jp/docs/news/2148395.html</link>
-<guid isPermaLink="true">https://www.watch.impress.co.jp/docs/news/2148395.html</guid>
-<pubDate>Thu, 15 Oct 2026 07:47:40 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>スマホを持つだけで通過 JR東「ウォークスルー改札」がCEATECで体験できる — はてなブックマーク テクノロジー / score: 50 (JR東日本の新改札システムに関する技術トレンド)</description>
-</item>
-<item>
-<title>ソニーのワイヤレスイヤホン｢WF-1000XM6｣がBluetoothのゲーミング用低遅延プロファイル（GMAP）に対応</title>
-<link>https://taisy0.com/2026/10/15/228980.html</link>
-<guid isPermaLink="true">https://taisy0.com/2026/10/15/228980.html</guid>
-<pubDate>Thu, 15 Oct 2026 07:35:44 +0000</pubDate>
-<category>気になる、記になる…</category>
-<description>ソニーが、フラッグシップワイヤレスイヤホン「WF-1000XM6」向けに最新のソフトウェアアップデートをリリースしています。 リリースされているソフトウェアのバージョンはver2.0.5で、このアップデートにより、Blu […] — 気になる、記になる… / score: 45 (ソニー製イヤホンの低遅延プロファイル対応)</description>
-</item>
-<item>
-<title>もう圏外補完だけじゃない。Starlinkが携帯電話キャリアになる道が開いちゃった</title>
-<link>https://www.gizmodo.jp/article/2610-starlink-mobile-carrier/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2610-starlink-mobile-carrier/</guid>
-<pubDate>Thu, 15 Oct 2026 07:35:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>Starlinkが米FCCから独自キャリアの認可を取得！5G並みの高速通信を提供する「Starlink Mobile」の全貌と、携帯電話業界への影響を解説します。 — ギズモード・ジャパン / score: 75 (通信業界に影響を与える衛星通信の大きな進展)</description>
-</item>
-<item>
-<title>祝! プロジェクト30周年! KDE Plasma 6.8リリース、X11からWaylandへの移行完了</title>
-<link>https://gihyo.jp/article/2026/10/daily-linux-261015?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/10/daily-linux-261015?utm_source=feed</guid>
-<pubDate>Thu, 15 Oct 2026 07:33:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>KDEプロジェクトは10月14日、「KDE Plasma 6.8」をリリースした。 — gihyo.jp / score: 75 (KDE Plasma 6.8リリースとWayland移行)</description>
-</item>
-<item>
-<title>生で食べても本当に辛くないタマネギ「スマイルボール」を食べてみた、ハウス食品が開発した品種</title>
-<link>https://gigazine.net/news/20261015-onion-smileball-fabexkansai2026/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261015-onion-smileball-fabexkansai2026/</guid>
-<pubDate>Thu, 15 Oct 2026 07:25:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>タマネギを生で食べようとすると、そのままでは辛すぎるので「水にさらす」「薄切りにしてしばらく放置する」といった手間をかける必要があります。ハウス食品が開発した「スマイルボール」という品種なら、剥いた直後に生のままかじりついても辛くないとのこと。そんなスマイルボールが食品見本市「FABEX関西2026」の会場に展示されていたので食べてみました。 続きを読む... — GIGAZINE / score: 10 (品種改良されたタマネギの食レポ)</description>
-</item>
-<item>
-<title>AI時代、何をもってソフトウェアの品質を担保するのか</title>
-<link>https://qiita.com/acsuzuki/items/a1f4533a4d7c724c097f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/acsuzuki/items/a1f4533a4d7c724c097f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Thu, 15 Oct 2026 07:23:05 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>最近は、Claude CodeやCodexなどを使ってAIにコードを書かせることが当たり前になってきました。 そんな中で皆さんは、何をもって「システムの品質が担保されている」と考えるでしょうか。 以前はどうやって品質を説明していたか ちょっと昔のシステム開発では、以下のよ... — Qiita 人気記事 / score: 50 (AI時代のソフトウェア品質担保に関する考察)</description>
 </item>
 </channel>
 </rss>
