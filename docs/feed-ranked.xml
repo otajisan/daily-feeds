@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 15 Oct 2026 14:10:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 16:10:12 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[98] 「GitLab」にまたも緊急パッチ、CVSS基本値「10.0」の脆弱性に対処／認証なしでサーバー上で任意のコードを実行されるおそれ</title>
@@ -55,12 +55,12 @@
 <description>JavaScriptランタイム「Deno」の開発元であるDeno LandとCloudflareは、Deno LandがCloudflareに合流すると発表しました。CloudflareによるDeno Landの買収と見られます（Deno ... — Publickey / score: 95 (Deno開発終了とCloudflare合流の重大なニュース)</description>
 </item>
 <item>
-<title>[90] 相次ぐ不正アクセス “AIエージェント”使用の証拠見つかる | NHKニュース</title>
-<link>https://news.web.nhk/newsweb/na/nd-20261015de59790</link>
-<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261015de59790</guid>
-<pubDate>Thu, 15 Oct 2026 09:55:40 +0000</pubDate>
+<title>[90] バーガーキング、1118万件の会員情報流出　メールや電話番号など</title>
+<link>https://www.watch.impress.co.jp/docs/news/2148486.html</link>
+<guid isPermaLink="true">https://www.watch.impress.co.jp/docs/news/2148486.html</guid>
+<pubDate>Thu, 15 Oct 2026 08:36:19 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>企業への不正アクセスによる被害が止まりません。15日も、産婦人科などの医療機関で導入されている予約・受付システムが不正アクセスを受け患者の個人情報が漏えいしたおそれがあると発表されたほか、ハンバーガー… — はてなブックマーク テクノロジー / score: 90 (相次ぐ不正アクセスとAIエージェント使用の証拠)</description>
+<description>バーガーキング、1118万件の会員情報流出 メールや電話番号など — はてなブックマーク テクノロジー / score: 90 (大規模な会員情報流出という重大なセキュリティ事故)</description>
 </item>
 <item>
 <title>[90] 連続不正アクセス事案の攻撃手法に関する調査 - JPCERT/CC Eyes</title>
@@ -141,6 +141,14 @@
 <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly. — OpenAI News / score: 90 (主要AIの次世代メジャーリリースと新UIの発表)</description>
+</item>
+<item>
+<title>[85] AnthropicのBun、TypeScript 7よりも3倍以上高速なTypeScript型チェッカーを搭載。Bunの新バージョン1.4.3で</title>
+<link>https://www.publickey1.jp/blog/26/anthropicbuntypescript_73typescriptbun143.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/anthropicbuntypescript_73typescriptbun143.html</guid>
+<pubDate>Thu, 15 Oct 2026 15:21:12 +0000</pubDate>
+<category>Publickey</category>
+<description>Anthropicが開発しているJavaScriptランタイム「Bun」は、10月10日付けで新バージョン「Bun v1.4.3」がリリースされました。 Bun v1.4.3の最大の特徴として示されたのが、Go言語で実装されたTypeScr... — Publickey / score: 85 (Bunの高速型チェッカー追加という大きなアップデート)</description>
 </item>
 <item>
 <title>[85] ソースネクスト情報流出か　最大2251万件（共同通信） - Yahoo!ニュース</title>
@@ -487,6 +495,22 @@
 <description>Kubernetes version 1.37 introduced several new features and bug fixes, and AWS is excited to announce that you can now use Amazon Elastic Kubernetes Service (EKS) and Amazon EKS Distro to run Kubernetes version 1.37. Starting today, you can create new EKS clusters using version 1.37 and upgrade existing clusters to version 1.37 using the EKS console, the eksctl command line interface, or through an infrastructure-as-code tool. Kubernetes version 1.37 introduces several key improvements, promotin — AWS What's New / score: 80 (Amazon EKSのKubernetes 1.37サポート開始)</description>
 </item>
 <item>
+<title>[75] Accelerating the search for antimicrobial peptides with Google Antigravity</title>
+<link>https://deepmind.google/blog/accelerating-antimicrobial-discovery/</link>
+<guid isPermaLink="true">https://deepmind.google/blog/accelerating-antimicrobial-discovery/</guid>
+<pubDate>Thu, 15 Oct 2026 16:08:03 +0000</pubDate>
+<category>Google DeepMind</category>
+<description>Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science. — Google DeepMind / score: 75 (科学技術・創薬におけるAI活用に関する重要成果)</description>
+</item>
+<item>
+<title>[75] Temporal Serverless Workers on Cloud Run: Scale workers ahead of demand</title>
+<link>https://cloud.google.com/blog/products/serverless/temporal-serverless-workers-on-cloud-run-worker-pools/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/serverless/temporal-serverless-workers-on-cloud-run-worker-pools/</guid>
+<pubDate>Thu, 15 Oct 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>The open-source Temporal execution platform is rapidly becoming a foundational layer of modern software infrastructure — especially for orchestration in distributed systems and AI agent workloads. However, deploying and scaling workers in Temporal comes with unique challenges. Workers poll for tasks instead of serving requests, so request-driven serverless platforms can be an awkward fit. This often results in running worker fleets on Kubernetes or VMs, which you have to manage and pay for conti — Google Cloud Blog / score: 75 (分散処理基盤とサーバーレスの重要なインフラ連携)</description>
+</item>
+<item>
 <title>[75] 声優の野沢雅子さん “声の生成AI利用”について語る | NHKニュース</title>
 <link>https://news.web.nhk/newsweb/na/nd-20261015de59778</link>
 <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261015de59778</guid>
@@ -514,9 +538,9 @@
 <title>[75] AIによる相次ぐハッキング事件は「AIの暴走」ではなく「AI企業がセキュリティの基本を無視しているため」という指摘</title>
 <link>https://gigazine.net/news/20261015-ai-agents-not-going-rogue/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261015-ai-agents-not-going-rogue/</guid>
-<pubDate>Thu, 15 Oct 2026 08:19:46 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>世界最大級のサイバーセキュリティ専門メディアであるCSO Onlineが、2026年になって複数回起きている「AIエージェントによるハッキング事件」は、AIの暴走が原因ではなく、AI企業がセキュリティの基本を怠ったことが原因であると解説しています。 AI agents aren’t ‘going rogue.’ Frontier labs are skipping security ... — はてなブックマーク テクノロジー / score: 75 (AIハッキング事件のセキュリティ本質を指摘)</description>
+<pubDate>Thu, 15 Oct 2026 08:05:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>世界最大級のサイバーセキュリティ専門メディアであるCSO Onlineが、2026年になって複数回起きている「AIエージェントによるハッキング事件」は、AIの暴走が原因ではなく、AI企業がセキュリティの基本を怠ったことが原因であると解説しています。 続きを読む... — GIGAZINE / score: 75 (AIハッキング事件のセキュリティ本質を指摘)</description>
 </item>
 <item>
 <title>[75] もう圏外補完だけじゃない。Starlinkが携帯電話キャリアになる道が開いちゃった</title>
@@ -781,30 +805,6 @@
 <pubDate>Wed, 07 Oct 2026 14:00:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>AWS now offers Claude Haiku 5.5, the fastest and most efficient model in the Claude 5.5 family, built for subagents and high-volume, cost-sensitive work. According to Anthropic, it costs around 75% less than Claude Haiku 4.5 for most tasks. Claude Haiku 5.5 is Anthropic's most capable Haiku yet, a significant step up from Haiku 4.5 across coding, tool use, computer use, and agents. It's also the first Haiku with effort controls, so teams can tune cost against intelligence for each task. Haiku 5. — AWS What's New / score: 75 (主要クラウドにおける新型LLMモデルの提供開始)</description>
-</item>
-<item>
-<title>[75] HashiCorp Packer 1.16、マシンイメージ向けにSLSA Provenanceのネイティブ生成・検証機能を追加</title>
-<link>https://www.infoq.com/jp/news/2026/10/hashicorp-packer-verification/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-<guid isPermaLink="true">https://www.infoq.com/jp/news/2026/10/hashicorp-packer-verification/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-<pubDate>Wed, 07 Oct 2026 09:30:00 +0000</pubDate>
-<category>InfoQ Japan</category>
-<description>HashiCorpはPacker v1.16.0をリリースした。これにより、Packerが構築するすべてのイメージに対して、SLSAProvenanceアテステーションの生成、署名、検証をネイティブにサポートする。今回のリリースは、マシンイメージがどのように作成されたかを示す、安全で改ざん耐性のある記録をチームに提供する。追加のサプライチェーンツールを必要とせずに実現できる点も特徴だ。これは、これまでSLSAスタイルのアテステーションでほとんど見過ごされてきたインフラ領域のギャップに対応するものとなる。 By Claudio Masolo Translated by Naoko Koshimura — InfoQ Japan / score: 75 (HashiCorp PackerのSLSA対応強化)</description>
-</item>
-<item>
-<title>[75] Google、スマートフォンで動くマルチモーダル埋め込みモデル「EmbeddingGemma 2」を公開</title>
-<link>https://gihyo.jp/article/2026/10/embeddinggemma-2?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/10/embeddinggemma-2?utm_source=feed</guid>
-<pubDate>Wed, 07 Oct 2026 05:39:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Googleは2026年10月6日、スマートフォンやPC上で動作する埋め込みモデル「EmbeddingGemma 2」を公開した。 — gihyo.jp / score: 75 (Googleのエッジ向けマルチモーダル埋め込みモデル公開)</description>
-</item>
-<item>
-<title>[75] Next.js 16.4</title>
-<link>https://nextjs.org/blog/next-16-4</link>
-<guid isPermaLink="true">https://nextjs.org/blog/next-16-4</guid>
-<pubDate>Tue, 06 Oct 2026 20:00:00 +0000</pubDate>
-<category>Next.js Blog</category>
-<description>Next.js 16.4 introduces lazy compilation, smaller Turbopack output, React 19.3 features, Cache Components improvements, and new developer tooling. — Next.js Blog / score: 75 (主要Webフレームワークのマイナーリリースと新機能)</description>
 </item>
 </channel>
 </rss>

@@ -4,8 +4,88 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 15 Oct 2026 14:10:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 16:10:12 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Accelerating the search for antimicrobial peptides with Google Antigravity</title>
+<link>https://deepmind.google/blog/accelerating-antimicrobial-discovery/</link>
+<guid isPermaLink="true">https://deepmind.google/blog/accelerating-antimicrobial-discovery/</guid>
+<pubDate>Thu, 15 Oct 2026 16:08:03 +0000</pubDate>
+<category>Google DeepMind</category>
+<description>Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science. — Google DeepMind / score: 75 (科学技術・創薬におけるAI活用に関する重要成果)</description>
+</item>
+<item>
+<title>Temporal Serverless Workers on Cloud Run: Scale workers ahead of demand</title>
+<link>https://cloud.google.com/blog/products/serverless/temporal-serverless-workers-on-cloud-run-worker-pools/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/serverless/temporal-serverless-workers-on-cloud-run-worker-pools/</guid>
+<pubDate>Thu, 15 Oct 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>The open-source Temporal execution platform is rapidly becoming a foundational layer of modern software infrastructure — especially for orchestration in distributed systems and AI agent workloads. However, deploying and scaling workers in Temporal comes with unique challenges. Workers poll for tasks instead of serving requests, so request-driven serverless platforms can be an awkward fit. This often results in running worker fleets on Kubernetes or VMs, which you have to manage and pay for conti — Google Cloud Blog / score: 75 (分散処理基盤とサーバーレスの重要なインフラ連携)</description>
+</item>
+<item>
+<title>Bringing the borderless Lakehouse into the agentic era with innovations for Gemini</title>
+<link>https://cloud.google.com/blog/products/data-analytics/borderless-lakehouse-integrates-with-gemini/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/data-analytics/borderless-lakehouse-integrates-with-gemini/</guid>
+<pubDate>Thu, 15 Oct 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>As enterprises shift their AI usage from experimental chatbots to autonomous agents, teams are hitting a critical bottleneck: accessing and reasoning over data scattered across multiple clouds, SaaS platforms, and on-premises systems. To turn AI agents into true systems of action, organizations need a foundation that can handle petabyte-scale reasoning without the security risks of data movement. Last week at our Gemini at Work event, we announced how Gemini can help you transform business workf — Google Cloud Blog / score: 65 (AIエージェント時代のデータ基盤に関する発表)</description>
+</item>
+<item>
+<title>What the Gemini agent means for startups</title>
+<link>https://cloud.google.com/blog/topics/startups/what-the-gemini-agent-means-for-startups/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/startups/what-the-gemini-agent-means-for-startups/</guid>
+<pubDate>Thu, 15 Oct 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Small teams, short runway, and constant pressure to ship faster — it’s the reality we see every day among the founders we work with at Google for Startups. When you are building a company from the ground up, every hour spent on operational overhead or infrastructure plumbing is an hour taken away from your core product. Last week at Gemini at Work 2026, we introduced the Gemini agent : a single, universal agent designed to work both as your personal assistant and as a dedicated member of your te — Google Cloud Blog / score: 55 (スタートアップ向けAI活用のマーケティング記事)</description>
+</item>
+<item>
+<title>How Visko streams real-time world models on Google Cloud TPUs</title>
+<link>https://cloud.google.com/blog/products/media-entertainment/how-visko-streams-real-time-world-models-on-google-cloud-tpus/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/media-entertainment/how-visko-streams-real-time-world-models-on-google-cloud-tpus/</guid>
+<pubDate>Thu, 15 Oct 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Editor's note: Generative AI startups are moving rapidly beyond static clip generation to build interactive, real-time worlds. In this technical deep dive, we explore how AI startup Visko collaborated with Google Cloud TPU engineers to deploy Orbis — its continuously streaming Live World Model—on Cloud TPUs, going from initial kickoff to production handover in just 30 days. What makes a live video world model so challenging to serve in production? The bottleneck isn't average throughput — it's b — Google Cloud Blog / score: 70 (クラウドTPUを活用したリアルタイム生成AIの技術解説)</description>
+</item>
+<item>
+<title>AnthropicのBun、TypeScript 7よりも3倍以上高速なTypeScript型チェッカーを搭載。Bunの新バージョン1.4.3で</title>
+<link>https://www.publickey1.jp/blog/26/anthropicbuntypescript_73typescriptbun143.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/anthropicbuntypescript_73typescriptbun143.html</guid>
+<pubDate>Thu, 15 Oct 2026 15:21:12 +0000</pubDate>
+<category>Publickey</category>
+<description>Anthropicが開発しているJavaScriptランタイム「Bun」は、10月10日付けで新バージョン「Bun v1.4.3」がリリースされました。 Bun v1.4.3の最大の特徴として示されたのが、Go言語で実装されたTypeScr... — Publickey / score: 85 (Bunの高速型チェッカー追加という大きなアップデート)</description>
+</item>
+<item>
+<title>最新ポータブルゲーム機「ROG Xbox Ally X20」実機レビュー＝ROG20周年でサイバー・デザインにディスプレー大型化です!!</title>
+<link>https://ascii.jp/limit/group/ida/elem/000/004/441/4441800/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/limit/group/ida/elem/000/004/441/4441800/?rss</guid>
+<pubDate>Thu, 15 Oct 2026 15:01:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>「ROG Xbox Ally X20」はイメージを変え、トランスルーセントデザインになりました — ASCII.jp / score: 45 (最新ポータブルゲーミングPCの実機レビュー)</description>
+</item>
+<item>
+<title>【電子書籍50％オフセール】半額でマンガもインタビュー集も世界旅行記も買える感謝祭セールを開催！【2026年10月19日(月)まで】</title>
+<link>https://gigazine.net/news/20261016-ebook-sale/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261016-ebook-sale/</guid>
+<pubDate>Thu, 15 Oct 2026 15:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>Amazonでは2026年10月16日(金)～10月19日(月)まで、Amazonプライム会員に向けたセールイベント「プライム感謝祭」を開催しています。プライム感謝祭の開催期間に合わせて、GIGAZINEでもマンガやインタビュー集、作品集などKindle本をまるっと半額以下にしたセールを実施します。ぜひ他のお買い物と合わせてチェックしてみてください。 続きを読む... — GIGAZINE / score: 10 (電子書籍のセール情報であり技術的価値は低い)</description>
+</item>
+<item>
+<title>パソコンショップSEVEN、10月16日限定で最新ゲーミングPCなど最大86,000円オフのセールを実施</title>
+<link>https://ascii.jp/elem/000/004/442/4442044/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/442/4442044/?rss</guid>
+<pubDate>Thu, 15 Oct 2026 15:00:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>パソコンショップSEVENを運営するセブンアールジャパンが、10月16日限定で最新ゲーミングPCなど全10商品を最大86,000円オフで販売する「2026/10/16 24時間限定セール」を実施する。 — ASCII.jp / score: 20 (PCショップの限定セール告知情報)</description>
+</item>
+<item>
+<title>コミックシーモア 一時停止を発表</title>
+<link>https://news.yahoo.co.jp/pickup/6598934?source=rss</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6598934?source=rss</guid>
+<pubDate>Thu, 15 Oct 2026 14:53:05 +0000</pubDate>
+<category>Yahoo!ニュース IT</category>
+<description> — Yahoo!ニュース IT / score: 40 (大規模サービスのシステム障害に関する一般ニュース)</description>
+</item>
 <item>
 <title>住宅を55戸建てようとしたら3年後には34戸に、住民と行政に振り回されるゲーム「Discretionary Review」をプレイしてみた</title>
 <link>https://gigazine.net/news/20261015-san-francisco-housing-simulator/</link>
@@ -55,6 +135,14 @@
 <description>農家の負担である炎天下の草むしりを自動化する自律型農業ロボット「シンロボ」の魅力と開発背景を徹底解説。 — ギズモード・ジャパン / score: 45 (農業分野におけるロボティクスの自動化事例)</description>
 </item>
 <item>
+<title>Amazonはインターネット全体で商品価格をつり上げている</title>
+<link>https://gigazine.net/news/20261015-amazon-push-up-all-internet-price/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261015-amazon-push-up-all-internet-price/</guid>
+<pubDate>Thu, 15 Oct 2026 13:15:54 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Amazonは価格設定に関するポリシーで「他のサイトより著しく高い価格でAmazonに出品する行為」などにペナルティを科しています。こうした慣行や手数料により、出品者はあらゆる場所で価格を引き上げざるを得ない状況に陥っているとして、ジャーナリストのアマンダ・シェンドルク氏が問題点を解説しています。 How Amazon... — はてなブックマーク テクノロジー / score: 50 (Amazonの価格設定ポリシーに関する解説)</description>
+</item>
+<item>
 <title>スマホゲームの熱対策、ここまでやる！ 水冷＆冷却ファン搭載のゲーミングスマホ「REDMAGIC 11S Pro」が16万4160円</title>
 <link>https://ascii.jp/elem/000/004/442/4442326/?rss</link>
 <guid isPermaLink="true">https://ascii.jp/elem/000/004/442/4442326/?rss</guid>
@@ -69,14 +157,6 @@
 <pubDate>Thu, 15 Oct 2026 13:04:03 +0000</pubDate>
 <category>Simon Willison</category>
 <description>Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO The phrase "told investors" appears four times in this FT article, which reports on Anthropic's day of hosting investors on Wednesday. Lots of details in here from " people with knowledge of the matter ". Key things I learned from the article: Q1 revenue (Jan/Feb/Mar) was "about $4.8bn" Q2 (Apr/May/Jun) was $11.5bn Q3 (Jul/Aug/Sep) was $16.8bn In Q3: $1.70 in revenue for every $1 spent on "computing power" Adjusted — Simon Willison / score: 60 (Anthropicの財務状況やIPOに関する報道)</description>
-</item>
-<item>
-<title>Amazonはインターネット全体で商品価格をつり上げている</title>
-<link>https://gigazine.net/news/20261015-amazon-push-up-all-internet-price/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261015-amazon-push-up-all-internet-price/</guid>
-<pubDate>Thu, 15 Oct 2026 13:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>Amazonは価格設定に関するポリシーで「他のサイトより著しく高い価格でAmazonに出品する行為」などにペナルティを科しています。こうした慣行や手数料により、出品者はあらゆる場所で価格を引き上げざるを得ない状況に陥っているとして、ジャーナリストのアマンダ・シェンドルク氏が問題点を解説しています。 続きを読む... — GIGAZINE / score: 50 (Amazonの価格設定ポリシーに関する解説)</description>
 </item>
 <item>
 <title>Teaching students to think and learn through questions</title>
@@ -141,6 +221,14 @@
 <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
 <category>ASCII.jp</category>
 <description>FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。 — ASCII.jp / score: 15 (ノートPCの一般的なECセール情報)</description>
+</item>
+<item>
+<title>Surface Laptop Ultraの基本性能を検証、RTX Sparkの3D描画性能はRTX 5060と5050の間ぐらい</title>
+<link>https://ascii.jp/elem/000/004/443/4443010/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/443/4443010/?rss</guid>
+<pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>Surface Laptop UltraでRTX Sparkの実力をチェック。定番ベンチマークソフトを用いた検証もお届け！ — ASCII.jp / score: 50 (新型PCのハードウェア性能検証レビュー)</description>
 </item>
 <item>
 <title>サンマのお供に秋限定ビールはいかが？ 「キリン 秋味」24本セットが16％オフ</title>
@@ -383,14 +471,6 @@
 <description>ギブソンのブランド最高峰に位置するギブソン・カスタムより、美麗な木目と深みのある音色が味わえるハワイアン・コア材を用いた“SJ-200 Elegant Koa”（SJ-200 エレガント・コア：以下和名）と、“Hummingbird Elegant Koa”（ハミングバード エレガント・コア：以下和 — ギター・マガジンWEB / score: 10 (楽器（ギター）の新製品情報であり技術ニュースではない)</description>
 </item>
 <item>
-<title>相次ぐ不正アクセス “AIエージェント”使用の証拠見つかる | NHKニュース</title>
-<link>https://news.web.nhk/newsweb/na/nd-20261015de59790</link>
-<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261015de59790</guid>
-<pubDate>Thu, 15 Oct 2026 09:55:40 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>企業への不正アクセスによる被害が止まりません。15日も、産婦人科などの医療機関で導入されている予約・受付システムが不正アクセスを受け患者の個人情報が漏えいしたおそれがあると発表されたほか、ハンバーガー… — はてなブックマーク テクノロジー / score: 90 (相次ぐ不正アクセスとAIエージェント使用の証拠)</description>
-</item>
-<item>
 <title>不正アクセス・情報漏洩のリスクを未然に発見。株式会社スイノワ、Webサービスの脆弱性診断「脆弱チェックくん」を提供開始</title>
 <link>https://ascii.jp/elem/000/004/443/4443095/?rss</link>
 <guid isPermaLink="true">https://ascii.jp/elem/000/004/443/4443095/?rss</guid>
@@ -487,6 +567,14 @@
 <description>なぜ今、“クラウド録画”なのか。パナソニックの新「全自動ディーガ」の詳細 — はてなブックマーク テクノロジー / score: 30 (家電製品の新機能に関する一般向けの紹介記事)</description>
 </item>
 <item>
+<title>リコー、MoE型マルチモーダル大規模言語モデル「リコーLMM_35B-A3B」を開発 | リコーグループ 企業・IR | リコー</title>
+<link>https://jp.ricoh.com/release/2026/1015_1</link>
+<guid isPermaLink="true">https://jp.ricoh.com/release/2026/1015_1</guid>
+<pubDate>Thu, 15 Oct 2026 09:06:24 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>ニュースリリース リコー、MoE型マルチモーダル大規模言語モデル「リコーLMM_35B-A3B」を開発 高い日本語リーズニング性能と高速・省リソースな運用を両立、オンプレミス向けLLMラインアップを拡充 株式会社リコー（社長執行役員：大山 晃）は、日本語の文書や図表を高精度に理解し、高速・省リソースで動作するマルチモ... — はてなブックマーク テクノロジー / score: 65 (国内企業による実用的な国産LLMの新規開発発表)</description>
+</item>
+<item>
 <title>応募総数3,353点！「魔法少女ノ魔女裁判」とコラボした塗り絵コンテスト「塗りマス！」第三十七回の受賞作品を発表</title>
 <link>https://ascii.jp/elem/000/004/443/4443099/?rss</link>
 <guid isPermaLink="true">https://ascii.jp/elem/000/004/443/4443099/?rss</guid>
@@ -509,30 +597,6 @@
 <pubDate>Thu, 15 Oct 2026 09:00:00 +0000</pubDate>
 <category>ASCII.jp</category>
 <description>DJI、シネマティックな映像の撮影の可能性を広げる「Osmo Pocket 4シリーズ」で2026年度グッドデザイン賞を受賞 — ASCII.jp / score: 10 (カメラ製品のグッドデザイン賞受賞ニュース)</description>
-</item>
-<item>
-<title>【Vocci】話題の指輪型スマートデバイス「Vocci（ヴォッチ）」SHIBUYA Tech FESTIVALに出展</title>
-<link>https://ascii.jp/elem/000/004/443/4443101/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/443/4443101/?rss</guid>
-<pubDate>Thu, 15 Oct 2026 09:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>【Vocci】話題の指輪型スマートデバイス「Vocci（ヴォッチ）」SHIBUYA Tech FESTIVALに出展 — ASCII.jp / score: 25 (指輪型スマートデバイスのイベント出展情報)</description>
-</item>
-<item>
-<title>DJI Osmo Pocket 4/3をコンパクトに収納・保護する「PGYTECH OneGo Pocket ハードシェルバッグ」新登場</title>
-<link>https://ascii.jp/elem/000/004/443/4443100/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/443/4443100/?rss</guid>
-<pubDate>Thu, 15 Oct 2026 09:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>DJI Osmo Pocket 4/3をコンパクトに収納・保護する「PGYTECH OneGo Pocket ハードシェルバッグ」新登場 — ASCII.jp / score: 20 (カメラ用ハードシェルバッグの新製品紹介)</description>
-</item>
-<item>
-<title>2027年度 新規U13カテゴリー入会受付について</title>
-<link>https://ascii.jp/elem/000/004/443/4443081/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/443/4443081/?rss</guid>
-<pubDate>Thu, 15 Oct 2026 09:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>2027年度 新規U13カテゴリー入会受付について — ASCII.jp / score: 5 (スポーツや教育に関するお知らせでありITとは無関係)</description>
 </item>
 <item>
 <title>いよいよミズノの逆襲が始まる予感。レース仕様モデルの第2世代がヤバい</title>
@@ -583,12 +647,12 @@
 <description>このたび、当社が管理する会員情報に対し、第三者による不正アクセスが行われ、当社に会員登録いただいているお客様の個人情報が外部に流出したことが判明いたしました。 お客様ならびに関係者の皆様に多大なるご迷惑とご心配をおかけしておりますことを、深くお詫び申し上げます。 現在、外部の専門機関と連携し、原因... — はてなブックマーク テクノロジー / score: 85 (大規模な個人情報の流出事案であり影響が甚大)</description>
 </item>
 <item>
-<title>カラーミーショップのWebhook開発で見えた、届けることと守ることの設計判断 - Pepabo Tech Portal</title>
-<link>https://tech.pepabo.com/2026/10/15/colorme-webhook-design/</link>
-<guid isPermaLink="true">https://tech.pepabo.com/2026/10/15/colorme-webhook-design/</guid>
-<pubDate>Thu, 15 Oct 2026 08:35:29 +0000</pubDate>
+<title>バーガーキング、1118万件の会員情報流出　メールや電話番号など</title>
+<link>https://www.watch.impress.co.jp/docs/news/2148486.html</link>
+<guid isPermaLink="true">https://www.watch.impress.co.jp/docs/news/2148486.html</guid>
+<pubDate>Thu, 15 Oct 2026 08:36:19 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>Webhookとは カラーミーショップにWebhookを導入した理由 要件定義で考えたポイント 通知の取りこぼしを既存APIで補えるか確認する 登録主体はショップオーナーに限定する 登録できる配信先URLの数に上限を設ける 設計方針 Standard Webhooksの採用 カラーミーショップ特有の考慮点 thin payloadの採用 Outboxパターンの... — はてなブックマーク テクノロジー / score: 65 (ECサイトのWebhook設計に関する有用な技術解説)</description>
+<description>バーガーキング、1118万件の会員情報流出 メールや電話番号など — はてなブックマーク テクノロジー / score: 90 (大規模な会員情報流出という重大なセキュリティ事故)</description>
 </item>
 <item>
 <title>楽器練習中のタブレット操作、面倒くさくない？ だったらタブレットにボタンいっぱい付けちゃおう</title>
@@ -615,20 +679,20 @@
 <description>こんにちは。ALGO ARTISの大賀 愛一郎です。yomiyasuの開発者でもあります。 最近、日本語性能が高いモデルが相次いで公開されていますね。 2026年10月13日、SB Intuitions は、国産LLM「Sarashina」のAPIを利用できる「Sarashinaサービス」の無償ベータを提供しはじめました。 https://www.sbintuitions.co.jp/news/press/20261013_01/ というわけで、標準の対話モデル sarashina3-mini に日本語を書かせ、推敲させてみました。 前回の記事で Gemini 4 Argon と Gem... — Zenn トレンド / score: 50 (国産LLM Sarashinaの日本語性能に関する考察)</description>
 </item>
 <item>
-<title>AIによる相次ぐハッキング事件は「AIの暴走」ではなく「AI企業がセキュリティの基本を無視しているため」という指摘</title>
-<link>https://gigazine.net/news/20261015-ai-agents-not-going-rogue/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261015-ai-agents-not-going-rogue/</guid>
-<pubDate>Thu, 15 Oct 2026 08:19:46 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>世界最大級のサイバーセキュリティ専門メディアであるCSO Onlineが、2026年になって複数回起きている「AIエージェントによるハッキング事件」は、AIの暴走が原因ではなく、AI企業がセキュリティの基本を怠ったことが原因であると解説しています。 AI agents aren’t ‘going rogue.’ Frontier labs are skipping security ... — はてなブックマーク テクノロジー / score: 75 (AIハッキング事件のセキュリティ本質を指摘)</description>
-</item>
-<item>
 <title>やたら荷物が届くので高1の息子のスマホを取り上げたらAmazonで2桁万円の買い物が発覚…Amazon Prime Mastercardを持っているのはなぜ？→その後電話で何とかなったと報告</title>
 <link>https://togetter.com/li/2758486</link>
 <guid isPermaLink="true">https://togetter.com/li/2758486</guid>
 <pubDate>Thu, 15 Oct 2026 08:05:24 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>Asuka★Ａｉ @aiichinose215 高１の息子(15歳)がAmazonプライムマスターカード持ってるの何故？？？ やたら荷物届くから、スマホ取り上げたら、Amazonで2桁万円買い物してる え？ クレカ作れないんじゃないんです？？？ 2026-10-14 20:58:49 Asuka★Ａｉ @aiichinose215 消費者センターＴＥＬしてからのカード会社ＴＥＬだ... — はてなブックマーク テクノロジー / score: 20 (個人の家庭内トラブルに関するSNSの話題)</description>
+</item>
+<item>
+<title>AIによる相次ぐハッキング事件は「AIの暴走」ではなく「AI企業がセキュリティの基本を無視しているため」という指摘</title>
+<link>https://gigazine.net/news/20261015-ai-agents-not-going-rogue/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261015-ai-agents-not-going-rogue/</guid>
+<pubDate>Thu, 15 Oct 2026 08:05:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>世界最大級のサイバーセキュリティ専門メディアであるCSO Onlineが、2026年になって複数回起きている「AIエージェントによるハッキング事件」は、AIの暴走が原因ではなく、AI企業がセキュリティの基本を怠ったことが原因であると解説しています。 続きを読む... — GIGAZINE / score: 75 (AIハッキング事件のセキュリティ本質を指摘)</description>
 </item>
 <item>
 <title>ソフトバンクのメリハリ無制限+は必要？平均21.89GBでも続ける理由</title>
@@ -653,6 +717,14 @@
 <pubDate>Thu, 15 Oct 2026 08:00:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>2026年10月13日(火)に、スターバックスのチルドカップシリーズの新商品として「ジョイフルハーモニーティーラテ」が期間限定で登場しました。ブラックティーをベースに華やかなジャスミンの香り、アプリコットのフルーティーな風味、そしてクリーミーなミルクが重なり会ったドリンクになっているとのことで、どんな味になっているのか実際に飲んで確かめてみました。 続きを読む... — GIGAZINE / score: 10 (スタバの新商品紹介グルメ記事)</description>
+</item>
+<item>
+<title>AWS Security Hub CSPM now supports the Cyber Risk Institute profile version 2.2</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/security-hub-cspm-cri-profile-v22/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/security-hub-cspm-cri-profile-v22/</guid>
+<pubDate>Thu, 15 Oct 2026 08:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS Security Hub CSPM now supports automated security checks that align with the Cyber Risk Institute (CRI) profile. The CRI Profile is a cybersecurity framework developed by the Cyber Risk Institute, a non-profit coalition of financial institutions and trade associations. The framework harmonizes cybersecurity and regulatory expectations that apply to the financial services sector into a common set of requirements, so that an organization can assess itself once and report against multiple regul — AWS What's New / score: 60 (AWSのセキュリティガバナンス機能のアップデート)</description>
 </item>
 <item>
 <title>太陽光でずっと動く＝充電も電池交換も不要。しかもAmazonセールで33%オフ</title>
@@ -685,6 +757,14 @@
 <pubDate>Thu, 15 Oct 2026 07:47:43 +0000</pubDate>
 <category>Zenn トレンド</category>
 <description>JUCKです。 FFRI × NFLabs. Cybersecurity Challenge 2026という学生向けCTFに参加し2100pt/26thでした。 ここでは Copy(pentest) The Hidden Layer(pentest) Unearthed(pentest) do_you_know_buf?(BinaryExploitation) View Source(Web Exploitation) Smile(Web Exploitation) know_your_go(MalwareAnalysis) Whereabouts(Misc) についてのWrite... — Zenn トレンド / score: 30 (学生向けCTFの参加ライトアップ記事)</description>
+</item>
+<item>
+<title>スマホを持つだけで通過　JR東「ウォークスルー改札」がCEATECで体験できる</title>
+<link>https://www.watch.impress.co.jp/docs/news/2148395.html</link>
+<guid isPermaLink="true">https://www.watch.impress.co.jp/docs/news/2148395.html</guid>
+<pubDate>Thu, 15 Oct 2026 07:47:40 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>スマホを持つだけで通過 JR東「ウォークスルー改札」がCEATECで体験できる — はてなブックマーク テクノロジー / score: 50 (JR東日本の新改札システムに関する技術トレンド)</description>
 </item>
 <item>
 <title>ソニーのワイヤレスイヤホン｢WF-1000XM6｣がBluetoothのゲーミング用低遅延プロファイル（GMAP）に対応</title>
@@ -725,86 +805,6 @@
 <pubDate>Thu, 15 Oct 2026 07:23:05 +0000</pubDate>
 <category>Qiita 人気記事</category>
 <description>最近は、Claude CodeやCodexなどを使ってAIにコードを書かせることが当たり前になってきました。 そんな中で皆さんは、何をもって「システムの品質が担保されている」と考えるでしょうか。 以前はどうやって品質を説明していたか ちょっと昔のシステム開発では、以下のよ... — Qiita 人気記事 / score: 50 (AI時代のソフトウェア品質担保に関する考察)</description>
-</item>
-<item>
-<title>ネコと飼い主、オキシトシン濃度が相関―ネコとの近さは飼い主の活力とも関連―</title>
-<link>https://www.kyoto-u.ac.jp/ja/research-news/2026-10-15</link>
-<guid isPermaLink="true">https://www.kyoto-u.ac.jp/ja/research-news/2026-10-15</guid>
-<pubDate>Thu, 15 Oct 2026 07:20:58 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>概要 ネコは世界で最も人気のある伴侶動物の1種ですが、彼らと暮らすことが飼い主の心身にどう関わるのかは、よくわかっていません。イヌでは飼い主とイヌのホルモン濃度が関連することが知られていますが、ネコでは調べられていませんでした。 京都大学白眉センター／人と社会の未来研究院 高木佐保 特定助教、麻布大... — はてなブックマーク テクノロジー / score: 35 (猫と飼い主のホルモン濃度に関する科学的知見)</description>
-</item>
-<item>
-<title>Sakana ChatにAIの記憶を可視化する新機能「My Fish」が登場、覚えている内容や記憶同士のつながりを確認可能に</title>
-<link>https://gigazine.net/news/20261015-sakana-chat-my-fish/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261015-sakana-chat-my-fish/</guid>
-<pubDate>Thu, 15 Oct 2026 07:20:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>日本のAI企業であるSakana AIが2026年10月15日、AIチャットサービス「Sakana Chat」に新機能「My Fish」を追加したと発表しました。My FishではAIがユーザーについて覚えている情報を一覧表示できるほか、記憶が使われた履歴や情報同士のつながりを視覚的に確認できます。 続きを読む... — GIGAZINE / score: 55 (AIチャットの記憶可視化機能のアップデート)</description>
-</item>
-<item>
-<title>AIのスピードに負けないための開発フロー</title>
-<link>https://speakerdeck.com/kyuridenamida/ai-no-supido-ni-makenai-tame-no-kaihatsu-furo</link>
-<guid isPermaLink="true">https://speakerdeck.com/kyuridenamida/ai-no-supido-ni-makenai-tame-no-kaihatsu-furo</guid>
-<pubDate>Thu, 15 Oct 2026 07:19:45 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>https://sotas.connpass.com/event/398322/ Sotas×カミナシ×estie｜AIのスピードに開発組織はどう追いつくのか？ (2026/10/15) 登壇資料 — はてなブックマーク テクノロジー / score: 55 (AI時代の開発組織のスピードに関する知見)</description>
-</item>
-<item>
-<title>Apple、10月28日に米ロサンゼルスでメディア向けの新製品体験会を開催 ｰ OLED搭載｢MacBook｣や｢iPad mini｣などを披露</title>
-<link>https://taisy0.com/2026/10/15/228978.html</link>
-<guid isPermaLink="true">https://taisy0.com/2026/10/15/228978.html</guid>
-<pubDate>Thu, 15 Oct 2026 07:17:47 +0000</pubDate>
-<category>気になる、記になる…</category>
-<description>Appleは10月27日頃に新製品を発表すると言われていますが、本日、そのことを報告していたBloombergのMark Gurman氏が、Appleの10月下旬のイベントに関する新たな情報を報告しています。 同氏による […] — 気になる、記になる… / score: 50 (Appleのハードウェア新製品発表の噂)</description>
-</item>
-<item>
-<title>【10/16まで】トラックやミックスにキャラクターとアナログ・テイストと独自性を与えるローファイエフェクト・プラグインの金字塔、XLN Audio「RC-20」が81%OFF！</title>
-<link>https://computermusic.jp/2026/10/xln-audio-rc-20/</link>
-<guid isPermaLink="true">https://computermusic.jp/2026/10/xln-audio-rc-20/</guid>
-<pubDate>Thu, 15 Oct 2026 07:15:27 +0000</pubDate>
-<category>Computer Music Japan</category>
-<description>トラックやミックスにキャラクターとアナログ・テイストと独自性を与えるローファイエフェクト・プラグインの金字塔、XLN Audio「RC-20」が81%OFFとなっています。 RC-20 RC-20 Retro Color... The post 【10/16まで】トラックやミックスにキャラクターとアナログ・テイストと独自性を与えるローファイエフェクト・プラグインの金字塔、XLN Audio「RC-20」が81%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 20 (人気ローファイエフェクトプラグインの大幅セール情報)</description>
-</item>
-<item>
-<title>AndroidスマホにログインしたGoogleアカウントすべてに電話番号が自動で紐づけられることが判明</title>
-<link>https://gigazine.net/news/20261015-google-account-link-phone-number/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261015-google-account-link-phone-number/</guid>
-<pubDate>Thu, 15 Oct 2026 07:15:17 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Googleアカウントへの電話番号登録は必須ではありませんが、Android端末にGoogleアカウントを登録すると、端末で使用している電話番号が自動でアカウントに紐付けられるようになっていることが分かりました。 Google is silently linking your phone number across all Google accounts https://www.androidauthority.co... — はてなブックマーク テクノロジー / score: 60 (Androidの電話番号紐付け仕様の注意点)</description>
-</item>
-<item>
-<title>10種類のパワフルなマルチバンドエフェクトバンドル、Cableguys「ShaperBox 3 Bundle」が最大12%OFF！</title>
-<link>https://computermusic.jp/2026/10/shaperbox-3-bundle/</link>
-<guid isPermaLink="true">https://computermusic.jp/2026/10/shaperbox-3-bundle/</guid>
-<pubDate>Thu, 15 Oct 2026 07:14:12 +0000</pubDate>
-<category>Computer Music Japan</category>
-<description>10種類のパワフルなマルチバンドエフェクトバンドル、Cableguys「ShaperBox 3 Bundle」が最大12%OFFとなています。 新規ユーザーに加え、TimeShaper 3もしくはVolumeShaper... The post 10種類のパワフルなマルチバンドエフェクトバンドル、Cableguys「ShaperBox 3 Bundle」が最大12%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 20 (音楽制作プラグインのセール情報で影響は限定的)</description>
-</item>
-<item>
-<title>“生成AI作品の歴史”をつくる人が集結中！ あなたも参加しませんか【生成AIストリーム】</title>
-<link>https://forest.watch.impress.co.jp/docs/serial/aistream/2148421.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/serial/aistream/2148421.html</guid>
-<pubDate>Thu, 15 Oct 2026 07:10:52 +0000</pubDate>
-<category>窓の杜</category>
-<description>「Claude Code」や「ChatGPT」、「Codex」など数多くの生成AIサービスのおかげもあって、日々、生成AIでつくられた静止画・動画・ゲームやツールといった作品がX（旧称Twitter）のタイムラインを流れていきます。『すごいな』『これは新しい』『どうやってつくったのだろう』と心が動きますが、Xのタイムラインではそのまま、その驚きが流れていってしまいます。このような技術が当たり前になった後も、誰かに伝わるでしょうか。 — 窓の杜 / score: 35 (生成AI作品コミュニティの紹介)</description>
-</item>
-<item>
-<title>バーガーキング アプリの会員情報 約1118万件漏えい | NHKニュース</title>
-<link>https://news.web.nhk/newsweb/na/nd-20261015de59803</link>
-<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261015de59803</guid>
-<pubDate>Thu, 15 Oct 2026 07:06:47 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>ハンバーガーチェーン「バーガーキング」の運営会社は、不正アクセスが確認され、会員の情報、およそ1118万件が外部に漏えいしたと発表しました。漏れたのは会員の氏名やメールアドレスなどで、クレジットカード… — はてなブックマーク テクノロジー / score: 90 (約1,100万件の大規模個人情報流出インシデント)</description>
-</item>
-<item>
-<title>GitHub、請求設定の「Budgets and alerts」ページで予算の検索・フィルタが可能に</title>
-<link>https://codezine.jp/article/detail/30013</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/30013</guid>
-<pubDate>Thu, 15 Oct 2026 07:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 35 (GitHubの請求設定機能アップデート情報)</description>
 </item>
 </channel>
 </rss>
