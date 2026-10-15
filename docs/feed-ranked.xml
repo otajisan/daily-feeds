@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 15 Oct 2026 20:09:11 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 22:09:03 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[98] 「GitLab」にまたも緊急パッチ、CVSS基本値「10.0」の脆弱性に対処／認証なしでサーバー上で任意のコードを実行されるおそれ</title>
@@ -141,6 +141,14 @@
 <pubDate>Thu, 15 Oct 2026 15:21:12 +0000</pubDate>
 <category>Publickey</category>
 <description>Anthropicが開発しているJavaScriptランタイム「Bun」は、10月10日付けで新バージョン「Bun v1.4.3」がリリースされました。 Bun v1.4.3の最大の特徴として示されたのが、Go言語で実装されたTypeScr... — Publickey / score: 85 (Bunの高速型チェッカー追加という大きなアップデート)</description>
+</item>
+<item>
+<title>[85] ARMORY CASTLE Exploits BeyondTrust</title>
+<link>https://cloud.google.com/blog/topics/threat-intelligence/armory-castle-exploits-beyondtrust/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/threat-intelligence/armory-castle-exploits-beyondtrust/</guid>
+<pubDate>Thu, 15 Oct 2026 14:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Written by: Jayson Frost, Bryce Greathouse, Brian Meyer, John Palmisano, Rajesh Rajeshirke, Steve Rasch, John Wolfram Introduction On October 15, BeyondTrust disclosed a vulnerability, CVE-2026-102764, impacting BeyondTrust Remote Support (formerly Bomgar) appliances. BeyondTrust Remote Support is an enterprise secure remote access solution that enables IT teams to securely access and troubleshoot remote endpoints. The successful exploitation of this vulnerability results in the arbitrary upload — Google Cloud Blog / score: 85 (セキュリティ脆弱性に関する重要な警告)</description>
 </item>
 <item>
 <title>[85] 国内で相次ぐWebシステムからの情報漏えい～ラックの観測から見える変化と、企業が今とるべき対策 | LAC WATCH</title>
@@ -487,6 +495,14 @@
 <description>Kubernetes version 1.37 introduced several new features and bug fixes, and AWS is excited to announce that you can now use Amazon Elastic Kubernetes Service (EKS) and Amazon EKS Distro to run Kubernetes version 1.37. Starting today, you can create new EKS clusters using version 1.37 and upgrade existing clusters to version 1.37 using the EKS console, the eksctl command line interface, or through an infrastructure-as-code tool. Kubernetes version 1.37 introduces several key improvements, promotin — AWS What's New / score: 80 (Amazon EKSのKubernetes 1.37サポート開始)</description>
 </item>
 <item>
+<title>[75] リーナス・トーバルズがClaude CodeなどのAIをバリバリ活用してLinuxカーネルの改善に取り組み中</title>
+<link>https://gigazine.net/news/20261016-linus-torvalds-claude-code/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261016-linus-torvalds-claude-code/</guid>
+<pubDate>Thu, 15 Oct 2026 21:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>Linuxカーネルの生みの親であるリーナス・トーバルズ氏がAIコーディングアシスタントのClaude Codeを活用し、Linuxカーネルの大幅な改善に取り組んでいることが明らかになりました。 続きを読む... — GIGAZINE / score: 75 (著名開発者のAIツール活用動向を示す重要ニュース)</description>
+</item>
+<item>
 <title>[75] AWS Lambda Durable Execution SDK for Go is now generally available</title>
 <link>https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-durable-go-sdk-support/</link>
 <guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-durable-go-sdk-support/</guid>
@@ -538,9 +554,9 @@
 <title>[75] AIによる相次ぐハッキング事件は「AIの暴走」ではなく「AI企業がセキュリティの基本を無視しているため」という指摘</title>
 <link>https://gigazine.net/news/20261015-ai-agents-not-going-rogue/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261015-ai-agents-not-going-rogue/</guid>
-<pubDate>Thu, 15 Oct 2026 08:19:46 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>世界最大級のサイバーセキュリティ専門メディアであるCSO Onlineが、2026年になって複数回起きている「AIエージェントによるハッキング事件」は、AIの暴走が原因ではなく、AI企業がセキュリティの基本を怠ったことが原因であると解説しています。 AI agents aren’t ‘going rogue.’ Frontier labs are skipping security ... — はてなブックマーク テクノロジー / score: 75 (AIハッキング事件のセキュリティ本質を指摘)</description>
+<pubDate>Thu, 15 Oct 2026 08:05:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>世界最大級のサイバーセキュリティ専門メディアであるCSO Onlineが、2026年になって複数回起きている「AIエージェントによるハッキング事件」は、AIの暴走が原因ではなく、AI企業がセキュリティの基本を怠ったことが原因であると解説しています。 続きを読む... — GIGAZINE / score: 75 (AIハッキング事件のセキュリティ本質を指摘)</description>
 </item>
 <item>
 <title>[75] もう圏外補完だけじゃない。Starlinkが携帯電話キャリアになる道が開いちゃった</title>
@@ -565,14 +581,6 @@
 <pubDate>Thu, 15 Oct 2026 03:15:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>ウクライナで現地時間10月14日、衛星インターネットサービス・Starlinkに突如、通信速度制限がかかったことがわかりました。すでに問題は復旧しつつあるとのことですが、なぜ問題が発生したのかははっきりはしておらず、SpaceXのイーロン・マスク氏は、Starlinkの軍用版であるStarshieldに関してはアメリカのドナルド・トランプ大統領が最終決定権を持つと説明しています。 続きを読む... — GIGAZINE / score: 75 (通信インフラの制限と軍事作戦への影響に関する重要ニュース)</description>
-</item>
-<item>
-<title>[75] Appleが使われていないMacを集めて仮想GPUクラウドを構築する「Minions」を開発、AI処理の待ち時間を10時間以上から数分に短縮</title>
-<link>https://gigazine.net/news/20261015-apple-minions/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261015-apple-minions/</guid>
-<pubDate>Thu, 15 Oct 2026 01:57:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>Appleの研究チームが、使われていないMacのGPUをネットワーク経由で集約し、AIの処理に活用する分散型システム「Minions」を開発しました。MinionsはすでにApple社内で運用されており、従来は10時間以上かかることもあったGPUの利用待ち時間を数分に短縮できたと報告されています。 続きを読む... — GIGAZINE / score: 75 (Apple製Macを活用した分散型GPUクラウドの構築技術)</description>
 </item>
 <item>
 <title>[75] Claude Platform release notes — October 15, 2026</title>
@@ -749,14 +757,6 @@
 <pubDate>Fri, 09 Oct 2026 10:36:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Anthropicは2026年10月8日、重要インフラとオープンソースソフトウェア（OSS）をサイバー攻撃から守る長期的な取り組み、Anthropic Cyber Missionを発表した。 — gihyo.jp / score: 75 (重要インフラとOSSのサイバー防御支援プログラム)</description>
-</item>
-<item>
-<title>[75] 「Microsoft Dev Box」が2028年9月18日に終了へ ～移行先は「Windows 365」／すでにメンテナンスモード、新機能の開発は予定されず</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2146969.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2146969.html</guid>
-<pubDate>Fri, 09 Oct 2026 08:53:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>開発者向けクラウドワークステーション「Microsoft Dev Box」が、米国時間（以下同）2028年9月18日に終了するとのこと。米Microsoftが「Azure」の更新情報で告知している。終了に向けたプロセスは、2026年9月14日からすでに始まっているという。 — 窓の杜 / score: 75 (開発者向けクラウド環境の終了と移行告知)</description>
 </item>
 <item>
 <title>[75] Asana cuts model costs 76x in browser tests with GPT-6.1 Sol</title>
