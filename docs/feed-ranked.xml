@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 14 Oct 2026 22:08:45 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 00:22:44 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[98] 「GitLab」にまたも緊急パッチ、CVSS基本値「10.0」の脆弱性に対処／認証なしでサーバー上で任意のコードを実行されるおそれ</title>
@@ -63,12 +63,20 @@
 <description>The October 14, 2026 out-of-band security update for Next.js is now available — Next.js Blog / score: 90 (Next.jsの重要セキュリティアップデート)</description>
 </item>
 <item>
+<title>[90] Google、待望の新AIモデル「Gemini 4 Argon」一般提供を開始　推論の継続力を強化　一部ベンチでトップに</title>
+<link>https://www.itmedia.co.jp/news/article/2610/14/2000002265/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/14/2000002265/</guid>
+<pubDate>Wed, 14 Oct 2026 11:58:24 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>米Googleは10月13日（現地時間）、AIモデル「Gemini 4 Argon」の一般提供を開始した。ソフトウェア開発や金融、法律、科学などの分野で、複数の手順を伴う複雑な作業に対応するモデル。有料プラン「Google AI Pro」「Google AI Ultra」の加入者は、GeminiアプリやGoogle検索の「AIモード」で利用できる。 Gemini 4 Argon... — はてなブックマーク テクノロジー / score: 90 (主要AIベンダーによる新メジャーモデルの一般提供開始)</description>
+</item>
+<item>
 <title>[90] フランス全土のスーパーマーケットの冷蔵庫を無理矢理50度まで上げたサイバー攻撃の詳細、パスワードは毎日自動更新で「本日の日付」になるという脆弱性</title>
 <link>https://gigazine.net/news/20261014-freeze-controller-defrost-food-vulnerabilities-danfoss/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261014-freeze-controller-defrost-food-vulnerabilities-danfoss/</guid>
-<pubDate>Wed, 14 Oct 2026 06:06:27 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>フランス全土で「スーパーマーケットに設置された冷蔵庫の設定温度を50度にまで上げる」というサイバー攻撃が実施されました。このサイバー攻撃の詳細について、サイバーセキュリティ企業・Clarotyの脆弱(ぜいじゃく)性研究チームであるTeam82が報告しています。 Freeze the Controller, Defrost the Food: Uncovering V... — はてなブックマーク テクノロジー / score: 90 (脆弱性を突いた大規模なサイバー攻撃の詳細)</description>
+<pubDate>Wed, 14 Oct 2026 06:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>フランス全土で「スーパーマーケットに設置された冷蔵庫の設定温度を50度にまで上げる」というサイバー攻撃が実施されました。このサイバー攻撃の詳細について、サイバーセキュリティ企業・Clarotyの脆弱(ぜいじゃく)性研究チームであるTeam82が報告しています。 続きを読む... — GIGAZINE / score: 90 (脆弱性を突いた大規模なサイバー攻撃の詳細)</description>
 </item>
 <item>
 <title>[90] パスワードが「123456」の企業アカウント経由でデンマークの国家登録簿から880万人分の個人情報が流出</title>
@@ -93,14 +101,6 @@
 <pubDate>Tue, 13 Oct 2026 16:00:00 +0000</pubDate>
 <category>Google AI Blog</category>
 <description>We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model. — Google AI Blog / score: 90 (Googleの新しい最先端AIモデルGemini 4 Argon)</description>
-</item>
-<item>
-<title>[90] AWS Lambda Web Functions × Hono - アダプター不要のサーバーレスWeb開発</title>
-<link>https://zenn.dev/the_exile/articles/lambda-web-functions-hono</link>
-<guid isPermaLink="true">https://zenn.dev/the_exile/articles/lambda-web-functions-hono</guid>
-<pubDate>Tue, 13 Oct 2026 13:11:58 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>はじめに 2026年10月12日、AWSがLambda Web Functionsを発表しました。従来のLambdaでWebアプリを動かすには、リクエスト/レスポンスをLambdaイベントに変換するアダプターが必要でした。Web Functionsではその制約がなくなり、ポートをリッスンする普通のHTTPサーバーをそのままデプロイできます。 HonoでWeb Functionsを試してみたので、従来方式との違いとあわせて書きます。 Lambda Web Functionsとは Lambdaに新しく追加された3つ目の実行形態です。 形態 用途 並行処理 課金 Even... — Zenn トレンド / score: 90 (AWS Lambda Web Functions発表の速報)</description>
 </item>
 <item>
 <title>[90] 「Python 3.15」が正式公開 ～UTF-8が標準に、“番兵値”などの新しい言語機能も／実験的な「JIT」コンパイラーも大きく強化</title>
@@ -154,9 +154,17 @@
 <title>[85] 実はCodex CLIはデフォルトで永続的かつ自己更新型のバックグラウンドデーモンをインストールしていることが判明、無効にする公式の方法は無し</title>
 <link>https://gigazine.net/news/20261015-codex-cli-background-daemon/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261015-codex-cli-background-daemon/</guid>
-<pubDate>Wed, 14 Oct 2026 21:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>Codex CLIのバージョン0.157.0からdaemon_auto_start機能がデフォルトで有効化されましたが、daemon_auto_start機能に関連してユーザーから予期せぬバックグラウンドプロセスの起動・リソース消費・セッションへの影響・環境の不整合といった問題が報告される事態となっています。 続きを読む... — GIGAZINE / score: 85 (CLIツールの勝手な常駐化仕様に関する重要なセキュリティ注意喚起)</description>
+<pubDate>Wed, 14 Oct 2026 21:06:25 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Codex CLIのバージョン0.157.0からdaemon_auto_start機能がデフォルトで有効化されましたが、daemon_auto_start機能に関連してユーザーから予期せぬバックグラウンドプロセスの起動・リソース消費・セッションへの影響・環境の不整合といった問題が報告される事態となっています。 CLI: make `daemon_auto_start` opt-in... — はてなブックマーク テクノロジー / score: 85 (CLIツールの勝手な常駐化仕様に関する重要なセキュリティ注意喚起)</description>
+</item>
+<item>
+<title>[85] Microsoft、警察庁などと協力し中国語利用の国際的サイバー犯罪市場の解体に着手</title>
+<link>https://pc.watch.impress.co.jp/docs/news/2148191.html</link>
+<guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2148191.html</guid>
+<pubDate>Wed, 14 Oct 2026 14:26:04 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Microsoft、警察庁などと協力し中国語利用の国際的サイバー犯罪市場の解体に着手 — はてなブックマーク テクノロジー / score: 85 (サイバー犯罪市場の解体に向けた国際的な摘発協力)</description>
 </item>
 <item>
 <title>[85] 楽天モバイル「Rakuten Mini」「Rakuten Hand」などに脆弱性、AVB機能にテスト鍵が残存　利用停止と乗り換えを案内</title>
@@ -165,14 +173,6 @@
 <pubDate>Wed, 14 Oct 2026 11:08:25 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>楽天モバイル「Rakuten Mini」「Rakuten Hand」などに脆弱性、AVB機能にテスト鍵が残存 利用停止と乗り換えを案内 — はてなブックマーク テクノロジー / score: 85 (楽天モバイルの端末における深刻な脆弱性の発覚)</description>
-</item>
-<item>
-<title>[85] JVN#47427200: 楽天モバイルの複数のスマートフォンのAndroid Verified Boot機能において既知のテスト用鍵がそのまま使用されている問題</title>
-<link>https://jvn.jp/jp/JVN47427200/index.html</link>
-<guid isPermaLink="true">https://jvn.jp/jp/JVN47427200/index.html</guid>
-<pubDate>Wed, 14 Oct 2026 09:30:46 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>JVN#47427200 楽天モバイルの複数のスマートフォンのAndroid Verified Boot機能において既知のテスト用鍵がそのまま使用されている問題 楽天モバイル株式会社が提供する複数のスマートフォンでは、Android Verified Boot（AVB）機能にAOSPのテスト用鍵が使用されています。 楽天モバイル株式会社が提供する複数のスマー... — はてなブックマーク テクノロジー / score: 85 (楽天モバイル端末のAVB機能におけるテスト鍵問題)</description>
 </item>
 <item>
 <title>[85] AIエージェントによるウェブサイトへの攻撃の注意喚起</title>
@@ -210,9 +210,9 @@
 <title>[85] AnthropicがGit代替のバージョン管理システム「Scion」を開発し社内移行済み、AIでコードが爆増してGitの限界に達したので耐えられるシステムを開発</title>
 <link>https://gigazine.net/news/20261014-anthropic-scion-version-control-system/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261014-anthropic-scion-version-control-system/</guid>
-<pubDate>Wed, 14 Oct 2026 04:36:13 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Claudeの開発元として知られるAI企業のAnthropicが、Gitの代わりとなるバージョン管理システム「Scion」を開発したことを発表しました。ScionはAnthropicの社内システムとして運用されており、すでにGitからの移行を達成しているそうです。 Redesigning source control at Anthropic \ Anthropic https://www.anthropic.... — はてなブックマーク テクノロジー / score: 85 (AnthropicがGit代替の新バージョン管理開発)</description>
+<pubDate>Wed, 14 Oct 2026 04:33:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>Claudeの開発元として知られるAI企業のAnthropicが、Gitの代わりとなるバージョン管理システム「Scion」を開発したことを発表しました。ScionはAnthropicの社内システムとして運用されており、すでにGitからの移行を達成しているそうです。 続きを読む... — GIGAZINE / score: 85 (AnthropicがGit代替の新バージョン管理開発)</description>
 </item>
 <item>
 <title>[85] 「Gemini 4 Argon」を正式リリース、Claude Fable 5.1やGPT-6 Astraと同等性能で久しぶりにGoogleがAIトップ競争に追いつく</title>
@@ -261,14 +261,6 @@
 <pubDate>Tue, 13 Oct 2026 16:01:52 +0000</pubDate>
 <category>Google DeepMind</category>
 <description> — Google DeepMind / score: 85 (Googleの次世代AIモデル発表の公式ブログ)</description>
-</item>
-<item>
-<title>[85] 銀のさら運営 650万件情報漏洩か</title>
-<link>https://news.yahoo.co.jp/pickup/6598636?source=rss</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6598636?source=rss</guid>
-<pubDate>Tue, 13 Oct 2026 09:11:02 +0000</pubDate>
-<category>Yahoo!ニュース IT</category>
-<description> — Yahoo!ニュース IT / score: 85 (銀のさら運営での大規模な情報漏洩の可能性)</description>
 </item>
 <item>
 <title>[85] Movable Typeに深刻な脆弱性が見つかる――2026年10月7日、脆弱性対策最新版MT公開</title>
@@ -383,12 +375,12 @@
 <description>Google Cloudは、大規模分散データベースとしてリレーショナルモデルだけでなくグラフ型やキーバリュー型、ベクトル検索、テキスト検索などのマルチモデルに対応したデータベースソフトウェア「Spanner Omni」の正式版リリースを発表... — Publickey / score: 85 (Spanner Omni正式版リリースは重要)</description>
 </item>
 <item>
-<title>[85] Python 3.10.22, 3.11.17, 3.12.15, 3.13.16 and 3.14.8 are now available!</title>
-<link>https://blog.python.org/2026/10/python-31022-31117/</link>
-<guid isPermaLink="true">https://blog.python.org/2026/10/python-31022-31117/</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<category>Python Insider</category>
-<description>Security updates across Python 3.10–3.14, the final maintenance release of 3.13, and a farewell to Python 3.10. — Python Insider / score: 85 (Python複数バージョンのセキュリティアップデート)</description>
+<title>[80] Notion 3.8が公開、MCP連携の強化やSkills API、データベースの列権限など追加</title>
+<link>https://codezine.jp/article/detail/30007</link>
+<guid isPermaLink="true">https://codezine.jp/article/detail/30007</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0000</pubDate>
+<category>CodeZine</category>
+<description> — CodeZine / score: 80 (主要なコラボレーションツール群の機能アップデート)</description>
 </item>
 <item>
 <title>[80] 2026-10-14, Version 24.22.0 'Krypton' (LTS), @richardlau prepared by @aduh95</title>
@@ -405,6 +397,14 @@
 <pubDate>Wed, 14 Oct 2026 13:17:46 +0000</pubDate>
 <category>Yahoo!ニュース IT</category>
 <description> — Yahoo!ニュース IT / score: 80 (防災メール停止など自治体への広範な影響)</description>
+</item>
+<item>
+<title>[80] 【セキュリティ】お客さんからの「うちは大丈夫？」に答えるため、IPAの点検項目をレガシーPHPのECサイトで上から順にやってみた</title>
+<link>https://zenn.dev/subara3/articles/b90ff538d87aa6</link>
+<guid isPermaLink="true">https://zenn.dev/subara3/articles/b90ff538d87aa6</guid>
+<pubDate>Wed, 14 Oct 2026 12:21:10 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>連日の情報漏洩により、世間は何かと騒がしいものですが、やっぱりみんな心配なようで、お仕事をしていると「うちは大丈夫なのか」とお問い合わせがやみません。 「これ、どういうつくりになってるんだっけ？ 外部にデータ保存してましたっけ？」なーんてね……。 10月9日に、IPA（基本技術者情報試験とかやってる組織）が「不正アクセスによる漏えい等の事案を踏まえ、速やかに実施すべき対策等について」を発表しました。 https://www.ipa.go.jp/security/security-alert/2026/alert20261009.html IPAが点検しなさいと言っているのは、次の3つです... — Zenn トレンド / score: 80 (セキュリティ対策に関する実践的な点検レポート)</description>
 </item>
 <item>
 <title>[80] Anthropic、社内モノレポをGitから独自基盤へ移行 ——AIエージェントによるコード変更の急増に対応</title>
@@ -527,6 +527,22 @@
 <description>Kubernetes version 1.37 introduced several new features and bug fixes, and AWS is excited to announce that you can now use Amazon Elastic Kubernetes Service (EKS) and Amazon EKS Distro to run Kubernetes version 1.37. Starting today, you can create new EKS clusters using version 1.37 and upgrade existing clusters to version 1.37 using the EKS console, the eksctl command line interface, or through an infrastructure-as-code tool. Kubernetes version 1.37 introduces several key improvements, promotin — AWS What's New / score: 80 (Amazon EKSのKubernetes 1.37サポート開始)</description>
 </item>
 <item>
+<title>[75] モデルの性能より「ハーネスの出来」で差がつく ――AIエージェントを正しく制御する「ハーネスエンジニアリング」とは？</title>
+<link>https://codezine.jp/article/detail/29857</link>
+<guid isPermaLink="true">https://codezine.jp/article/detail/29857</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0000</pubDate>
+<category>CodeZine</category>
+<description>2026年7月16日に開催された「Developers Summit 2026 Summer」において、セッション『ハーネスエンジニアリングがもたらす開発プロセスの変化とは？』が行われた。本セッションでは、Asterminds株式会社 共同創業者・CTOの加賀谷諒氏をモデレーターに迎え、株式会社Algomatic リードエンジニアの宮脇峻平氏、株式会社シン・ミキイシジマ 代表取締役のイシジマミキ氏が登壇。AIプロダクト開発や組織ガバナンス、デザインといった多様な視点から、近年話題を集める「ハーネスエンジニアリング」の概念と、それを組織としてどう適用していくべきかについて深い議論が交わされた。 — CodeZine / score: 75 (AIエージェント制御の概念としてのハーネスエンジニアリング)</description>
+</item>
+<item>
+<title>[75] 突然「スーパーの冷凍庫の温度」が上がりまくってみんなが大迷惑。意味不明すぎる仏のサイバー攻撃</title>
+<link>https://www.gizmodo.jp/article/2610-france-supermarket-cyber-attack/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/2610-france-supermarket-cyber-attack/</guid>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>フランスのスーパーに対して大規模サイバー攻撃が行われました。IoT冷却設備が不正操作され、食品が大量廃棄される事態に。被害額は数百万ユーロ（数億円規模）に達する可能性があると見られています。 — ギズモード・ジャパン / score: 75 (IoT機器を標的とした大規模なサイバー攻撃事例)</description>
+</item>
+<item>
 <title>[75] Microsoft、「Office in Copilot」を発表 ～CopilotアプリにWord、Excel、PowerPointを統合／最近作成したOffice文書や生成コンテンツのライブラリでより密接な連携が可能</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2147444.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2147444.html</guid>
@@ -549,6 +565,14 @@
 <pubDate>Wed, 14 Oct 2026 15:57:19 +0000</pubDate>
 <category>Publickey</category>
 <description>マイクロソフトはWindows 11上でAIエージェントを安全に動かすための隔離環境「Microsoft Execution Containers」（以下、MXC）の正式リリースを発表しました。 MXC is now GA on Windo... — Publickey / score: 75 (マイクロソフトの安全なAI実行環境の正式リリース)</description>
+</item>
+<item>
+<title>[75] 【2026/10/8 アップデート】GuardDuty RDS Protectionのデータ流出・破壊の検出について調べた</title>
+<link>https://zenn.dev/aki42/articles/aws-20261008-guardduty-rds-data-activity</link>
+<guid isPermaLink="true">https://zenn.dev/aki42/articles/aws-20261008-guardduty-rds-data-activity</guid>
+<pubDate>Wed, 14 Oct 2026 15:56:29 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>はじめに 2026/10/8 に発表された「Amazon GuardDuty RDS Protection が Aurora および RDS データベースでのデータ流出とデータ破壊を検出可能に」について、調べたことをまとめます。 https://aws.amazon.com/about-aws/whats-new/2026/10/guardduty-rds-data-exfiltration/ ! 🤖 AIの解説 は Claude が書いた解説です。内容がまちがっている可能性があります ✍️ 自分の調査・勉強結果 は、自分で実際に確認・調査した内容です 🤖 AIの解説 ... — Zenn トレンド / score: 75 (AWSのセキュリティ機能追加に関する実用的な解説)</description>
 </item>
 <item>
 <title>[75] AWS、Lambda Web Functionsを提供開始 ——WebアプリをLambda用のイベントハンドラーへ書き換えずにデプロイ</title>
@@ -583,14 +607,6 @@
 <description>Claude Codeがほとんどの場合、動画編集してくれる。8時間の素材を30分で1時間に編集。字幕もつけられる 実はClaude Codeは長時間動画を見ることができる。見るだけでなくてそこで何が起きているか、どんな会話がなされているかもみれる。 しかもただ見るだけでない。編集もできるしテロップも入れてくれる。 さらにInst... — はてなブックマーク テクノロジー / score: 75 (Claude Codeを活用した動画編集の効率化事例)</description>
 </item>
 <item>
-<title>[75] フランスのスーパーで冷蔵庫が50℃のアツアツ設定に。原因はサイバー攻撃</title>
-<link>https://www.gizmodo.jp/article/4e1dbbb2-fadb-4e55-80d6-bc1d7eb230e2/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/4e1dbbb2-fadb-4e55-80d6-bc1d7eb230e2/</guid>
-<pubDate>Wed, 14 Oct 2026 06:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>食べ物を粗末にしたら、バチが当たるんだぞ！2026年10月12日、フランス西部の町ネヴェにあるスーパーマーケット「Intermarché（アンテルマルシェ）」に、異変が起こりました。いつもならズラリと商品が並んでいるはずの生鮮食品用冷蔵庫が… — ギズモード・ジャパン / score: 75 (実世界に影響を与えたサイバー攻撃の事例として重要)</description>
-</item>
-<item>
 <title>[75] OpenCode 2.0、ターミナル・Web・デスクトップでセッション共有をデフォルトに ——レビューやテストをバックグラウンドで実行</title>
 <link>https://gihyo.jp/article/2026/10/opencode-2.0?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/10/opencode-2.0?utm_source=feed</guid>
@@ -623,12 +639,12 @@
 <description>オフィスに密かに盗聴器を仕掛けていたとして、OpenAIの従業員がFBIに逮捕されました。盗聴器の仕掛けられた役員会議室は、会社の機密情報や非公開情報をやり取りするような会議が行われる場でしたが、OpenAIによると情報の窃取や持ち出しは確認されていないとのことです。 続きを読む... — GIGAZINE / score: 75 (AI企業従業員によるオフィス盗聴事件の逮捕報道)</description>
 </item>
 <item>
-<title>[75] 「apple.com」に見えて実はキリル文字。Chromeの偽装対策をすり抜けるURLが見つかる | ギズモード・ジャパン</title>
-<link>https://www.gizmodo.jp/article/2610-chrome-phishing-domain-bypass/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2610-chrome-phishing-domain-bypass/</guid>
-<pubDate>Wed, 14 Oct 2026 03:04:59 +0000</pubDate>
+<title>[75] claude-plugins-official/plugins/code-modernization/README.md at main · anthropics/claude-plugins-official</title>
+<link>https://github.com/anthropics/claude-plugins-official/blob/main/plugins/code-modernization/README.md</link>
+<guid isPermaLink="true">https://github.com/anthropics/claude-plugins-official/blob/main/plugins/code-modernization/README.md</guid>
+<pubDate>Wed, 14 Oct 2026 02:55:15 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>URLだけじゃ、見分けられないかもしれません。 フィッシング詐欺を避けるには、アクセス先のURLを確認するのが基本。でも、そのURLが本物そっくりに表示されていたらどうでしょう。 偽装ドメインの検知サービス「Have I Been Squatted」が、Google Chrome（グーグル・クローム）の対策をすり抜けるURLを実証しました。 ... — はてなブックマーク テクノロジー / score: 75 (ブラウザのURL偽装に関するセキュリティ課題)</description>
+<description>Point Claude at a legacy codebase and get four things: an understanding of what it is and what it does, a plan you approve, the modernized code, and proof that the new code behaves like the old. It works with any language and any kind of move: a newer version of the same technology, a rewrite in ... — はてなブックマーク テクノロジー / score: 75 (レガシーコード近代化のための公式プラグイン)</description>
 </item>
 <item>
 <title>[75] 【2026年10月 最新版】AIモデル徹底比較 | GPT-6.1 Sol  / Claude Opus 5.5  / Claude Sonnet 5.5 / Gemini 4 Argon</title>
@@ -660,7 +676,7 @@
 <guid isPermaLink="true">https://platform.claude.com/docs/en/release-notes/overview#october-14-2026</guid>
 <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
 <category>Claude リリースノート</category>
-<description>We've launched OpenTelemetry export in beta, so you can trace Messages API requests and Claude Managed Agents sessions in your observability backend. The Claude SDK emits spans in Python, TypeScript, C#, Go, Java, PHP, and Ruby. To get spans from the API, add an OpenTelemetry destination in the Claude Console. — Claude リリースノート / score: 75 (Claudeプラットフォームのマネージドエージェント更新)</description>
+<description>We've launched OpenTelemetry export in beta, so you can trace Messages API requests and Claude Managed Agents sessions in your observability backend. The Claude SDK emits spans in Python, TypeScript, C#, Go, Java, PHP, and Ruby. To get spans from the API, add an OpenTelemetry destination in the Claude Console. Claude Managed Agents scheduled deployments are now available on Claude Platform on AWS . — Claude リリースノート / score: 75 (Claudeプラットフォームのマネージドエージェント更新)</description>
 </item>
 <item>
 <title>[75] Redesigning source control at Anthropic</title>
@@ -789,22 +805,6 @@
 <pubDate>Thu, 08 Oct 2026 08:00:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Amazon GuardDuty announces an expansion of RDS Protection that extends threat detection beyond login anomalies to identify data exfiltration and data destruction attacks targeting Amazon Aurora PostgreSQL and Amazon RDS for PostgreSQL databases. Available as RDS Protection for data activity, this new capability uses machine learning (ML)-based anomaly detection and integrated threat intelligence to continuously monitor database query patterns, helping you detect unusual data activity without req — AWS What's New / score: 75 (GuardDutyによるDBのデータ持ち出し・破壊検知の強化)</description>
-</item>
-<item>
-<title>[75] Cloudflare Workers、受信TCP接続に対応　最初の対応プロトコルはgRPCに</title>
-<link>https://www.infoq.com/jp/news/2026/10/workers-inbound-tcp-grpc/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-<guid isPermaLink="true">https://www.infoq.com/jp/news/2026/10/workers-inbound-tcp-grpc/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-<pubDate>Thu, 08 Oct 2026 00:30:00 +0000</pubDate>
-<category>InfoQ Japan</category>
-<description>Cloudflare Workersは受信TCP接続を受け付けられるようになった。2017年のサービス開始以来、Workerはデータベースや外部サービスに対してアウトバウンドのソケット接続を開くことはできたが、サーバーとして処理できるのはHTTPのみだった。新たに追加されたconnect(socket)ハンドラーによってこの制約がなくなり、その最初の実装例としてgRPCサポートが提供される。 By Steef-Jan Wiggers Translated by Naoko Koshimura — InfoQ Japan / score: 75 (Cloudflare Workersの受信TCPおよびgRPC対応)</description>
-</item>
-<item>
-<title>[75] AWS、DuckDBをAurora PostgreSQLに統合。ETL不要で直接データレイクを読み取り可能にしたと発表</title>
-<link>https://www.publickey1.jp/blog/26/awsduckdbaurora_postgresqletl.html</link>
-<guid isPermaLink="true">https://www.publickey1.jp/blog/26/awsduckdbaurora_postgresqletl.html</guid>
-<pubDate>Wed, 07 Oct 2026 15:59:06 +0000</pubDate>
-<category>Publickey</category>
-<description>Amazon Web Services（AWS）は、Amazon Aurora PostgreSQLにDuckDBを統合し、Apache Icebergなどで構築したデータレイクのデータを直接読み取って処理できるようになったことを発表しまし... — Publickey / score: 75 (AWSとDuckDBの統合によるデータレイク処理の効率化)</description>
 </item>
 </channel>
 </rss>
