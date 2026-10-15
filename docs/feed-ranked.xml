@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 15 Oct 2026 02:13:04 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 04:10:55 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[98] 「GitLab」にまたも緊急パッチ、CVSS基本値「10.0」の脆弱性に対処／認証なしでサーバー上で任意のコードを実行されるおそれ</title>
@@ -31,14 +31,6 @@
 <description>米Adobeは10月13日（現地時間）、月例のセキュリティ情報を発表した。今回のセキュリティアップデートは「ColdFusion」、「Experience Manager」、「Commerce」、「Photoshop」など11製品が対象。修正対象のCVEは、製品間の重複を除いて計175件にのぼる（括弧内は件数、最大深刻度、最大CVSS基本値、パッチ適用の優先度）。 — 窓の杜 / score: 95 (Adobeの多数の脆弱性とCVSS 10.0の修正)</description>
 </item>
 <item>
-<title>[95] 今日は毎月恒例「Windows Update」の日、過去最多となる1411件の脆弱性を修正</title>
-<link>https://gigazine.net/news/20261014-windows-update/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261014-windows-update/</guid>
-<pubDate>Wed, 14 Oct 2026 02:19:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>2026年10月14日(水)、Windowsのセキュリティ更新プログラムやバグ修正を配信する毎月恒例のWindows Updateが公開されました。今回は過去最多となる1411件の(ぜいじゃく)性に対処しているほか、実際に悪用されているゼロデイ脆弱性1件と、既に公表されているゼロデイ脆弱性2件を修正しています。 続きを読む... — GIGAZINE / score: 95 (過去最多の脆弱性を修正する大規模なWindows Update)</description>
-</item>
-<item>
 <title>[95] 10月の「Windows Update」は初の脆弱性4桁で過去最多を更新 ～Microsoftが2026年10月「Windows Update」を実施／「緊急」は76件、悪用確認は1件。「Windows 11 24H2 Home/Pro」は今回が最後の更新に</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2147852.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2147852.html</guid>
@@ -63,28 +55,12 @@
 <description>The October 14, 2026 out-of-band security update for Next.js is now available — Next.js Blog / score: 90 (Next.jsの重要セキュリティアップデート)</description>
 </item>
 <item>
-<title>[90] Google、待望の新AIモデル「Gemini 4 Argon」一般提供を開始　推論の継続力を強化　一部ベンチでトップに</title>
-<link>https://www.itmedia.co.jp/news/article/2610/14/2000002265/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/14/2000002265/</guid>
-<pubDate>Wed, 14 Oct 2026 11:58:24 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>米Googleは10月13日（現地時間）、AIモデル「Gemini 4 Argon」の一般提供を開始した。ソフトウェア開発や金融、法律、科学などの分野で、複数の手順を伴う複雑な作業に対応するモデル。有料プラン「Google AI Pro」「Google AI Ultra」の加入者は、GeminiアプリやGoogle検索の「AIモード」で利用できる。 Gemini 4 Argon... — はてなブックマーク テクノロジー / score: 90 (主要AIベンダーによる新メジャーモデルの一般提供開始)</description>
-</item>
-<item>
 <title>[90] フランス全土のスーパーマーケットの冷蔵庫を無理矢理50度まで上げたサイバー攻撃の詳細、パスワードは毎日自動更新で「本日の日付」になるという脆弱性</title>
 <link>https://gigazine.net/news/20261014-freeze-controller-defrost-food-vulnerabilities-danfoss/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261014-freeze-controller-defrost-food-vulnerabilities-danfoss/</guid>
 <pubDate>Wed, 14 Oct 2026 06:00:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>フランス全土で「スーパーマーケットに設置された冷蔵庫の設定温度を50度にまで上げる」というサイバー攻撃が実施されました。このサイバー攻撃の詳細について、サイバーセキュリティ企業・Clarotyの脆弱(ぜいじゃく)性研究チームであるTeam82が報告しています。 続きを読む... — GIGAZINE / score: 90 (脆弱性を突いた大規模なサイバー攻撃の詳細)</description>
-</item>
-<item>
-<title>[90] パスワードが「123456」の企業アカウント経由でデンマークの国家登録簿から880万人分の個人情報が流出</title>
-<link>https://gigazine.net/news/20261014-denmark-123456-password/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261014-denmark-123456-password/</guid>
-<pubDate>Wed, 14 Oct 2026 02:39:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>デンマークの中央個人登録簿(CPR)から約880万人分の氏名や住所、個人識別番号などが不正に取得されたことが明らかになりました。攻撃者を名乗る人物が、データベースへのアクセス権を持つ民間企業のアカウントに設定されていた「123456」という単純なパスワードを利用したと証言しています。 続きを読む... — GIGAZINE / score: 90 (単純なパスワードによる国家規模の重大な個人情報流出)</description>
 </item>
 <item>
 <title>[90] Gemini 4 Argon: Built to solve your hardest problems</title>
@@ -143,36 +119,12 @@
 <description>GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly. — OpenAI News / score: 90 (主要AIの次世代メジャーリリースと新UIの発表)</description>
 </item>
 <item>
-<title>[85] メドレー、産婦人科向けシステム停止　不正アクセスの可能性</title>
-<link>https://ascii.jp/elem/000/004/442/4442705/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/442/4442705/?rss</guid>
-<pubDate>Thu, 15 Oct 2026 01:25:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>メドレーは10月14日、産婦人科向けシステム「アットリンク」で第三者による不正アクセスの可能性を確認したと利用する産婦人科に通知した。 — ASCII.jp / score: 85 (産婦人科向けシステムでの不正アクセス可能性)</description>
-</item>
-<item>
-<title>[85] IDCフロンティア、194顧客でバックアップ取り出し可能に</title>
-<link>https://ascii.jp/elem/000/004/442/4442704/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/442/4442704/?rss</guid>
-<pubDate>Thu, 15 Oct 2026 01:15:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>IDCフロンティアは10月14日、クラウドサービス「IDCFクラウド」への不正アクセスによる障害の第5報を公表した。影響を受けた495の企業・自治体のうち、194顧客でバックアップデータの取り出しが可能と確認した。 — ASCII.jp / score: 85 (クラウドサービスの不正アクセス障害と対応)</description>
-</item>
-<item>
 <title>[85] 実はCodex CLIはデフォルトで永続的かつ自己更新型のバックグラウンドデーモンをインストールしていることが判明、無効にする公式の方法は無し</title>
 <link>https://gigazine.net/news/20261015-codex-cli-background-daemon/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261015-codex-cli-background-daemon/</guid>
 <pubDate>Wed, 14 Oct 2026 21:06:25 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>Codex CLIのバージョン0.157.0からdaemon_auto_start機能がデフォルトで有効化されましたが、daemon_auto_start機能に関連してユーザーから予期せぬバックグラウンドプロセスの起動・リソース消費・セッションへの影響・環境の不整合といった問題が報告される事態となっています。 CLI: make `daemon_auto_start` opt-in... — はてなブックマーク テクノロジー / score: 85 (CLIツールの勝手な常駐化仕様に関する重要なセキュリティ注意喚起)</description>
-</item>
-<item>
-<title>[85] Microsoft、警察庁などと協力し中国語利用の国際的サイバー犯罪市場の解体に着手</title>
-<link>https://pc.watch.impress.co.jp/docs/news/2148191.html</link>
-<guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2148191.html</guid>
-<pubDate>Wed, 14 Oct 2026 14:26:04 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Microsoft、警察庁などと協力し中国語利用の国際的サイバー犯罪市場の解体に着手 — はてなブックマーク テクノロジー / score: 85 (サイバー犯罪市場の解体に向けた国際的な摘発協力)</description>
 </item>
 <item>
 <title>[85] ガートナー、多発する日本企業の不正アクセス事案で緊急提言</title>
@@ -205,14 +157,6 @@
 <pubDate>Wed, 14 Oct 2026 04:33:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>Claudeの開発元として知られるAI企業のAnthropicが、Gitの代わりとなるバージョン管理システム「Scion」を開発したことを発表しました。ScionはAnthropicの社内システムとして運用されており、すでにGitからの移行を達成しているそうです。 続きを読む... — GIGAZINE / score: 85 (AnthropicがGit代替の新バージョン管理開発)</description>
-</item>
-<item>
-<title>[85] 「Gemini 4 Argon」を正式リリース、Claude Fable 5.1やGPT-6 Astraと同等性能で久しぶりにGoogleがAIトップ競争に追いつく</title>
-<link>https://gigazine.net/news/20261014-gemini-4-argon-available-for-everyone/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261014-gemini-4-argon-available-for-everyone/</guid>
-<pubDate>Wed, 14 Oct 2026 02:06:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>GoogleがAIモデル「Gemini 4 Argon」を現地時間の2026年10月13日に正式リリースしました。正式リリースに合わせて、Google社内や先行ユーザーによる活用事例が多数公開されています。 続きを読む... — GIGAZINE / score: 85 (Googleの新型AIモデルGemini 4 Argon正式リリース)</description>
 </item>
 <item>
 <title>[85] オンラインビデオ会議サービス「Zoom」に4件の脆弱性、深刻度はいずれも「High」／「Zoom Workplace」アプリを最新版へ更新しよう</title>
@@ -359,6 +303,14 @@
 <description>Google Cloudは、大規模分散データベースとしてリレーショナルモデルだけでなくグラフ型やキーバリュー型、ベクトル検索、テキスト検索などのマルチモデルに対応したデータベースソフトウェア「Spanner Omni」の正式版リリースを発表... — Publickey / score: 85 (Spanner Omni正式版リリースは重要)</description>
 </item>
 <item>
+<title>[80] 「荷物をお届けできません」「料金が未払いです」などの日本人を狙った詐欺メッセージの送信を支える電子市場をMicrosoftと警察庁が解体</title>
+<link>https://gigazine.net/news/20261015-microsoft-japan-took-down-cybercrime-network/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261015-microsoft-japan-took-down-cybercrime-network/</guid>
+<pubDate>Thu, 15 Oct 2026 02:18:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>Microsoftのデジタル犯罪対策部門でアソシエイトゼネラルカウンセルを務めるスティーブン・マサダ氏が、同社が日本の警察庁と協力して日本の個人や企業を狙った詐欺ネットワークを支える電子市場の解体に着手したことを報告しました。 続きを読む... — GIGAZINE / score: 80 (国際的な協力による詐欺ネットワークのインフラ解体)</description>
+</item>
+<item>
 <title>[80] Windows Updateによりリモートデスクトップの障害が発生する不具合</title>
 <link>https://gigazine.net/news/20261015-windows-update-rds-issue/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261015-windows-update-rds-issue/</guid>
@@ -421,14 +373,6 @@
 <pubDate>Wed, 14 Oct 2026 04:20:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>中国に拠点を置くメモリメーカーのCXMTが、既存のセル面積を理論上約3分の1削減する新しいアーキテクチャ「4F²」を用いた次世代メモリモジュールを2026年内に発売する予定だと明かしました。 続きを読む... — GIGAZINE / score: 80 (中国CXMTの新型メモリ開発と業界への影響)</description>
-</item>
-<item>
-<title>[80] 世界最長の海底沈埋トンネル建設がサイバー攻撃で停止</title>
-<link>https://gigazine.net/news/20261014-fehmarnbelt-querung-cyber-attacked/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261014-fehmarnbelt-querung-cyber-attacked/</guid>
-<pubDate>Wed, 14 Oct 2026 03:40:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>デンマークとドイツを結ぶ世界最長の海底沈埋トンネル「フェーマルン・ベルトトンネル」の建設事業者がサイバー攻撃を受け、工事に大きな支障が生じていることが明らかになりました。現地メディアによると、作業員の入場カードや建設用の船舶、クレーンなどが使用できなくなり、建設作業が停止する事態に陥っています。 続きを読む... — GIGAZINE / score: 80 (インフラ巨大プロジェクトがサイバー攻撃で停止した事例)</description>
 </item>
 <item>
 <title>[80] ブックオフ 退会の21万人も漏えい</title>
@@ -519,6 +463,14 @@
 <description>Kubernetes version 1.37 introduced several new features and bug fixes, and AWS is excited to announce that you can now use Amazon Elastic Kubernetes Service (EKS) and Amazon EKS Distro to run Kubernetes version 1.37. Starting today, you can create new EKS clusters using version 1.37 and upgrade existing clusters to version 1.37 using the EKS console, the eksctl command line interface, or through an infrastructure-as-code tool. Kubernetes version 1.37 introduces several key improvements, promotin — AWS What's New / score: 80 (Amazon EKSのKubernetes 1.37サポート開始)</description>
 </item>
 <item>
+<title>[75] ウクライナでStarlinkに条件付き通信速度制限がかかり迎撃ドローンなど一部の軍事作戦に影響</title>
+<link>https://gigazine.net/news/20261015-starlink-access-restricted-in-ukraine/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261015-starlink-access-restricted-in-ukraine/</guid>
+<pubDate>Thu, 15 Oct 2026 03:15:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>ウクライナで現地時間10月14日、衛星インターネットサービス・Starlinkに突如、通信速度制限がかかったことがわかりました。すでに問題は復旧しつつあるとのことですが、なぜ問題が発生したのかははっきりはしておらず、SpaceXのイーロン・マスク氏は、Starlinkの軍用版であるStarshieldに関してはアメリカのドナルド・トランプ大統領が最終決定権を持つと説明しています。 続きを読む... — GIGAZINE / score: 75 (通信インフラの制限と軍事作戦への影響に関する重要ニュース)</description>
+</item>
+<item>
 <title>[75] Appleが使われていないMacを集めて仮想GPUクラウドを構築する「Minions」を開発、AI処理の待ち時間を10時間以上から数分に短縮</title>
 <link>https://gigazine.net/news/20261015-apple-minions/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261015-apple-minions/</guid>
@@ -527,12 +479,12 @@
 <description>Appleの研究チームが、使われていないMacのGPUをネットワーク経由で集約し、AIの処理に活用する分散型システム「Minions」を開発しました。MinionsはすでにApple社内で運用されており、従来は10時間以上かかることもあったGPUの利用待ち時間を数分に短縮できたと報告されています。 続きを読む... — GIGAZINE / score: 75 (Apple製Macを活用した分散型GPUクラウドの構築技術)</description>
 </item>
 <item>
-<title>[75] JC-STAR ★3とは？ 制度の現在地と公開されている内容をざっくり解説</title>
-<link>https://ascii.jp/elem/000/004/436/4436381/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/436/4436381/?rss</guid>
-<pubDate>Thu, 15 Oct 2026 01:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>IoT製品共通のセキュリティ要件である「JC-STAR ★3（レベル3）」について、制度上の位置付け、申請方法、対象製品、取得に向けて整理しておきたいポイントを解説します。 — ASCII.jp / score: 75 (IoT製品のセキュリティ要件制度に関する解説記事)</description>
+<title>[75] Microsoft、「Office in Copilot」を発表 ～Word、Excel、PowerPointがCopilotアプリに統合／最近作成したOffice文書や生成コンテンツのライブラリでより密接な連携が可能</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2147444.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2147444.html</guid>
+<pubDate>Wed, 14 Oct 2026 23:11:47 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Microsoft、「Office in Copilot」を発表 ～Word、Excel、PowerPointがCopilotアプリに統合／最近作成したOffice文書や生成コンテンツのライブラリでより密接な連携が可能 — はてなブックマーク テクノロジー / score: 75 (Microsoft CopilotへのOffice機能統合という大型発表)</description>
 </item>
 <item>
 <title>[75] モデルの性能より「ハーネスの出来」で差がつく ――AIエージェントを正しく制御する「ハーネスエンジニアリング」とは？</title>
@@ -551,14 +503,6 @@
 <description>フランスのスーパーに対して大規模サイバー攻撃が行われました。IoT冷却設備が不正操作され、食品が大量廃棄される事態に。被害額は数百万ユーロ（数億円規模）に達する可能性があると見られています。 — ギズモード・ジャパン / score: 75 (IoT機器を標的とした大規模なサイバー攻撃事例)</description>
 </item>
 <item>
-<title>[75] Microsoft、「Office in Copilot」を発表 ～Word、Excel、PowerPointがCopilotアプリに統合／最近作成したOffice文書や生成コンテンツのライブラリでより密接な連携が可能</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2147444.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2147444.html</guid>
-<pubDate>Wed, 14 Oct 2026 21:45:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Microsoftは10月9日（現地時間）、「Microsoft Copilot」アプリに「Microsoft 365」（Office）アプリのコンテンツ作成・編集・共同作業といった機能を統合する「Office in Copilot」を発表した。 — 窓の杜 / score: 75 (Microsoft CopilotへのOffice機能統合という大型発表)</description>
-</item>
-<item>
 <title>[75] みずほが数千人をAI開発者に転換　事務や営業、日本企業の働き方転機 - 日本経済新聞</title>
 <link>https://www.nikkei.com/article/DGXZQOUB0722M0X01C26A0000000/</link>
 <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUB0722M0X01C26A0000000/</guid>
@@ -572,7 +516,7 @@
 <guid isPermaLink="true">https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview/</guid>
 <pubDate>Wed, 14 Oct 2026 16:10:16 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>Menu. Currently selected: Keep locked dependencies up to date with Dependabot GitHub Actions workflow dependency lockfiles are now in public preview for GitHub Enterprise Cloud and GitHub Enterprise Cloud with data residency. Tags and branches can move after you review a workflow, so a later run ... — はてなブックマーク テクノロジー / score: 75 (GitHub Actionsのワークフローロックファイル機能)</description>
+<description>Menu. Currently selected: Keep locked dependencies up to date with Dependabot GitHub Actions workflow dependency lockfiles are now in public preview for GitHub Enterprise Cloud, GitHub Enterprise Cloud with data residency, Team, and Free plans. Tags and branches can move after you review a workfl... — はてなブックマーク テクノロジー / score: 75 (GitHub Actionsのワークフローロックファイル機能)</description>
 </item>
 <item>
 <title>[75] Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ</title>
@@ -607,14 +551,6 @@
 <description>With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use. — OpenAI News / score: 75 (大規模AIエージェントの運用事例に関する技術報告)</description>
 </item>
 <item>
-<title>[75] Claude Codeがほとんどの場合、動画編集してくれる。8時間の素材を30分で1時間に編集。字幕もつけられる｜shi3z</title>
-<link>https://note.com/shi3zblog/n/ncb38d2978074</link>
-<guid isPermaLink="true">https://note.com/shi3zblog/n/ncb38d2978074</guid>
-<pubDate>Wed, 14 Oct 2026 06:49:13 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Claude Codeがほとんどの場合、動画編集してくれる。8時間の素材を30分で1時間に編集。字幕もつけられる 実はClaude Codeは長時間動画を見ることができる。見るだけでなくてそこで何が起きているか、どんな会話がなされているかもみれる。 しかもただ見るだけでない。編集もできるしテロップも入れてくれる。 さらにInst... — はてなブックマーク テクノロジー / score: 75 (Claude Codeを活用した動画編集の効率化事例)</description>
-</item>
-<item>
 <title>[75] OpenCode 2.0、ターミナル・Web・デスクトップでセッション共有をデフォルトに ——レビューやテストをバックグラウンドで実行</title>
 <link>https://gihyo.jp/article/2026/10/opencode-2.0?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/10/opencode-2.0?utm_source=feed</guid>
@@ -637,14 +573,6 @@
 <pubDate>Wed, 14 Oct 2026 04:00:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 75 (Google Meetのポスト量子暗号対応)</description>
-</item>
-<item>
-<title>[75] OpenAIの従業員をFBIが逮捕、役員会議室に盗聴器を仕掛けた疑い</title>
-<link>https://gigazine.net/news/20261014-openai-employee-arrested-by-fbi/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261014-openai-employee-arrested-by-fbi/</guid>
-<pubDate>Wed, 14 Oct 2026 03:05:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>オフィスに密かに盗聴器を仕掛けていたとして、OpenAIの従業員がFBIに逮捕されました。盗聴器の仕掛けられた役員会議室は、会社の機密情報や非公開情報をやり取りするような会議が行われる場でしたが、OpenAIによると情報の窃取や持ち出しは確認されていないとのことです。 続きを読む... — GIGAZINE / score: 75 (AI企業従業員によるオフィス盗聴事件の逮捕報道)</description>
 </item>
 <item>
 <title>[75] claude-plugins-official/plugins/code-modernization/README.md at main · anthropics/claude-plugins-official</title>
@@ -727,14 +655,6 @@
 <description>こんにちは👋 最近Lambda Web Functionsという機能がLambdaに増えました。 https://aws.amazon.com/jp/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/ ExpressやHono、Next.jsなどの標準的なHTTP Webアプリケーションを、複雑なセットアップなしにLambda上でサーバレスにホストすることができるという、大変便利な機能です。なんと東京リージョンでも使えます。 今回は、早速リリースされ... — Zenn トレンド / score: 75 (AWS Lambdaの新機能によるWebアプリホスティング効率化)</description>
 </item>
 <item>
-<title>[75] 情報漏えい 一因は「A2B攻撃」</title>
-<link>https://news.yahoo.co.jp/pickup/6598659?source=rss</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6598659?source=rss</guid>
-<pubDate>Tue, 13 Oct 2026 13:37:20 +0000</pubDate>
-<category>Yahoo!ニュース IT</category>
-<description> — Yahoo!ニュース IT / score: 75 (新しい攻撃手法に関するセキュリティの話題)</description>
-</item>
-<item>
 <title>[75] Higgsfield takes AI video from 1 minute to over 10</title>
 <link>https://openai.com/index/higgsfield-longer-videos-voice</link>
 <guid isPermaLink="true">https://openai.com/index/higgsfield-longer-videos-voice</guid>
@@ -805,6 +725,86 @@
 <pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>Editor’s note: This article is adapted from Thomas Kurian’s keynote address at Gemini at Work 2026. It includes a number of announcements: Gemini , a single, universal agent for work that answers your questions, handles your knowledge work, creates your images and media, and writes and runs code. Inline in Workspace , Gemini works directly inside Gmail, Drive, Docs, Slides, Sheets, Chat, and Calendar, carrying the same memory, skills, and controls it has everywhere else. New data and analytics s — Google Cloud Blog / score: 75 (Googleによる汎用ワークエージェントの発表)</description>
+</item>
+<item>
+<title>[75] Amazon GuardDuty RDS Protection now detects data exfiltration and destruction in Aurora and RDS databases</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/guardduty-rds-data-exfiltration/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/guardduty-rds-data-exfiltration/</guid>
+<pubDate>Thu, 08 Oct 2026 08:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon GuardDuty announces an expansion of RDS Protection that extends threat detection beyond login anomalies to identify data exfiltration and data destruction attacks targeting Amazon Aurora PostgreSQL and Amazon RDS for PostgreSQL databases. Available as RDS Protection for data activity, this new capability uses machine learning (ML)-based anomaly detection and integrated threat intelligence to continuously monitor database query patterns, helping you detect unusual data activity without req — AWS What's New / score: 75 (GuardDutyによるDBのデータ持ち出し・破壊検知の強化)</description>
+</item>
+<item>
+<title>[75] Cloudflare Workers、受信TCP接続に対応　最初の対応プロトコルはgRPCに</title>
+<link>https://www.infoq.com/jp/news/2026/10/workers-inbound-tcp-grpc/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+<guid isPermaLink="true">https://www.infoq.com/jp/news/2026/10/workers-inbound-tcp-grpc/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+<pubDate>Thu, 08 Oct 2026 00:30:00 +0000</pubDate>
+<category>InfoQ Japan</category>
+<description>Cloudflare Workersは受信TCP接続を受け付けられるようになった。2017年のサービス開始以来、Workerはデータベースや外部サービスに対してアウトバウンドのソケット接続を開くことはできたが、サーバーとして処理できるのはHTTPのみだった。新たに追加されたconnect(socket)ハンドラーによってこの制約がなくなり、その最初の実装例としてgRPCサポートが提供される。 By Steef-Jan Wiggers Translated by Naoko Koshimura — InfoQ Japan / score: 75 (Cloudflare Workersの受信TCPおよびgRPC対応)</description>
+</item>
+<item>
+<title>[75] AWS、DuckDBをAurora PostgreSQLに統合。ETL不要で直接データレイクを読み取り可能にしたと発表</title>
+<link>https://www.publickey1.jp/blog/26/awsduckdbaurora_postgresqletl.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/awsduckdbaurora_postgresqletl.html</guid>
+<pubDate>Wed, 07 Oct 2026 15:59:06 +0000</pubDate>
+<category>Publickey</category>
+<description>Amazon Web Services（AWS）は、Amazon Aurora PostgreSQLにDuckDBを統合し、Apache Icebergなどで構築したデータレイクのデータを直接読み取って処理できるようになったことを発表しまし... — Publickey / score: 75 (AWSとDuckDBの統合によるデータレイク処理の効率化)</description>
+</item>
+<item>
+<title>[75] Claude Haiku 5.5 is now available on AWS</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/claude-haiku-5-5-aws/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/claude-haiku-5-5-aws/</guid>
+<pubDate>Wed, 07 Oct 2026 14:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS now offers Claude Haiku 5.5, the fastest and most efficient model in the Claude 5.5 family, built for subagents and high-volume, cost-sensitive work. According to Anthropic, it costs around 75% less than Claude Haiku 4.5 for most tasks. Claude Haiku 5.5 is Anthropic's most capable Haiku yet, a significant step up from Haiku 4.5 across coding, tool use, computer use, and agents. It's also the first Haiku with effort controls, so teams can tune cost against intelligence for each task. Haiku 5. — AWS What's New / score: 75 (主要クラウドにおける新型LLMモデルの提供開始)</description>
+</item>
+<item>
+<title>[75] HashiCorp Packer 1.16、マシンイメージ向けにSLSA Provenanceのネイティブ生成・検証機能を追加</title>
+<link>https://www.infoq.com/jp/news/2026/10/hashicorp-packer-verification/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+<guid isPermaLink="true">https://www.infoq.com/jp/news/2026/10/hashicorp-packer-verification/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+<pubDate>Wed, 07 Oct 2026 09:30:00 +0000</pubDate>
+<category>InfoQ Japan</category>
+<description>HashiCorpはPacker v1.16.0をリリースした。これにより、Packerが構築するすべてのイメージに対して、SLSAProvenanceアテステーションの生成、署名、検証をネイティブにサポートする。今回のリリースは、マシンイメージがどのように作成されたかを示す、安全で改ざん耐性のある記録をチームに提供する。追加のサプライチェーンツールを必要とせずに実現できる点も特徴だ。これは、これまでSLSAスタイルのアテステーションでほとんど見過ごされてきたインフラ領域のギャップに対応するものとなる。 By Claudio Masolo Translated by Naoko Koshimura — InfoQ Japan / score: 75 (HashiCorp PackerのSLSA対応強化)</description>
+</item>
+<item>
+<title>[75] Google、スマートフォンで動くマルチモーダル埋め込みモデル「EmbeddingGemma 2」を公開</title>
+<link>https://gihyo.jp/article/2026/10/embeddinggemma-2?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/10/embeddinggemma-2?utm_source=feed</guid>
+<pubDate>Wed, 07 Oct 2026 05:39:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Googleは2026年10月6日、スマートフォンやPC上で動作する埋め込みモデル「EmbeddingGemma 2」を公開した。 — gihyo.jp / score: 75 (Googleのエッジ向けマルチモーダル埋め込みモデル公開)</description>
+</item>
+<item>
+<title>[75] Next.js 16.4</title>
+<link>https://nextjs.org/blog/next-16-4</link>
+<guid isPermaLink="true">https://nextjs.org/blog/next-16-4</guid>
+<pubDate>Tue, 06 Oct 2026 20:00:00 +0000</pubDate>
+<category>Next.js Blog</category>
+<description>Next.js 16.4 introduces lazy compilation, smaller Turbopack output, React 19.3 features, Cache Components improvements, and new developer tooling. — Next.js Blog / score: 75 (主要Webフレームワークのマイナーリリースと新機能)</description>
+</item>
+<item>
+<title>[75] Sharing AI progress in mathematics</title>
+<link>https://openai.com/index/sharing-ai-progress-in-mathematics</link>
+<guid isPermaLink="true">https://openai.com/index/sharing-ai-progress-in-mathematics</guid>
+<pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub. — OpenAI News / score: 75 (AIモデルによる数学の未解決問題へのアプローチ)</description>
+</item>
+<item>
+<title>[75] Google、サンドボックス型コンテナランタイムの「gVisor」をCNCFに寄贈したと発表</title>
+<link>https://www.publickey1.jp/blog/26/googlegvisorcncf.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/googlegvisorcncf.html</guid>
+<pubDate>Mon, 05 Oct 2026 15:27:19 +0000</pubDate>
+<category>Publickey</category>
+<description>Googleはサンドボックス型コンテナランタイムの「gVisor」をCloud Native Computing Foundation（CNCF）に寄贈したことを発表しました。 gVisorはコンテナ型仮想マシンの業界標準であるOCI（Op... — Publickey / score: 75 (gVisorのCNCF寄贈による業界標準化の推進)</description>
+</item>
+<item>
+<title>[75] Announcing Amazon Nova 2.5 Sonic with improved reasoning for voice agents</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-nova-2.5-sonic/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-nova-2.5-sonic/</guid>
+<pubDate>Mon, 05 Oct 2026 08:10:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Today, we announce the general availability of Amazon Nova 2.5 Sonic, our latest speech-to-speech model for natural, real-time voice agents. This release brings improved reasoning, instruction following, and tool-calling accuracy to real-time voice applications. The model also delivers lower latency, enabling faster, more natural interactions. Nova 2.5 Sonic helps voice agents maintain context, follow multi-step instructions, and use connected tools to complete customer tasks. For example, a cus — AWS What's New / score: 75 (音声AIモデルの新バージョン一般提供)</description>
 </item>
 </channel>
 </rss>
