@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 15 Oct 2026 18:12:09 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 20:09:11 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[98] 「GitLab」にまたも緊急パッチ、CVSS基本値「10.0」の脆弱性に対処／認証なしでサーバー上で任意のコードを実行されるおそれ</title>
@@ -335,14 +335,6 @@
 <description>Following tradition, a surprise rc3! — Python Insider / score: 85 (Python 3.15.0のリリース候補版公開)</description>
 </item>
 <item>
-<title>[85] Google Cloud、ローカルマシンにインストールできる大規模分散型マルチモデルDB「Spanner Omni」正式版リリースを発表</title>
-<link>https://www.publickey1.jp/blog/26/google_clouddbspanner_omni.html</link>
-<guid isPermaLink="true">https://www.publickey1.jp/blog/26/google_clouddbspanner_omni.html</guid>
-<pubDate>Thu, 01 Oct 2026 18:28:43 +0000</pubDate>
-<category>Publickey</category>
-<description>Google Cloudは、大規模分散データベースとしてリレーショナルモデルだけでなくグラフ型やキーバリュー型、ベクトル検索、テキスト検索などのマルチモデルに対応したデータベースソフトウェア「Spanner Omni」の正式版リリースを発表... — Publickey / score: 85 (Spanner Omni正式版リリースは重要)</description>
-</item>
-<item>
 <title>[80] OpenAIやGoogleの画像生成AIは簡単に騙されてヌード画像を生成してしまうと研究者が指摘</title>
 <link>https://gigazine.net/news/20261015-rise-ai-image-nude/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261015-rise-ai-image-nude/</guid>
@@ -495,12 +487,12 @@
 <description>Kubernetes version 1.37 introduced several new features and bug fixes, and AWS is excited to announce that you can now use Amazon Elastic Kubernetes Service (EKS) and Amazon EKS Distro to run Kubernetes version 1.37. Starting today, you can create new EKS clusters using version 1.37 and upgrade existing clusters to version 1.37 using the EKS console, the eksctl command line interface, or through an infrastructure-as-code tool. Kubernetes version 1.37 introduces several key improvements, promotin — AWS What's New / score: 80 (Amazon EKSのKubernetes 1.37サポート開始)</description>
 </item>
 <item>
-<title>[75] Claude Platform release notes — October 19, 2026</title>
-<link>https://platform.claude.com/docs/en/release-notes/overview#october-19-2026-3</link>
-<guid isPermaLink="true">https://platform.claude.com/docs/en/release-notes/overview#october-19-2026-3</guid>
-<pubDate>Thu, 15 Oct 2026 18:11:40 +0000</pubDate>
-<category>Claude リリースノート</category>
-<description>The Compliance API now returns the text each organization member saved as Instructions for Claude in claude.ai and as Global instructions in Cowork, in beta for Claude Enterprise organizations. Call GET /v1/compliance/organizations/{org_uuid}/user_preferences with your existing Compliance Access Key and the read:compliance_user_data scope. See List user preferences . — Claude リリースノート / score: 75 (Claudeプラットフォームのマネージドエージェント更新)</description>
+<title>[75] AWS Lambda Durable Execution SDK for Go is now generally available</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-durable-go-sdk-support/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-durable-go-sdk-support/</guid>
+<pubDate>Thu, 15 Oct 2026 18:23:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Today, AWS announces the general availability of the AWS Lambda Durable Execution SDK for Go, enabling Go developers to build resilient, long-running workflows using Lambda durable functions. With this SDK, developers can create multi-step applications like infrastructure automation, deployment rollouts with approval gates, and pipelines that call AI models and pause for human review directly in their Go code without implementing custom progress tracking. Lambda durable functions extend Lambda's — AWS What's New / score: 75 (Go言語向けLambda耐久実行の一般提供開始)</description>
 </item>
 <item>
 <title>[75] Accelerating the search for antimicrobial peptides with Google Antigravity</title>
@@ -546,9 +538,9 @@
 <title>[75] AIによる相次ぐハッキング事件は「AIの暴走」ではなく「AI企業がセキュリティの基本を無視しているため」という指摘</title>
 <link>https://gigazine.net/news/20261015-ai-agents-not-going-rogue/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261015-ai-agents-not-going-rogue/</guid>
-<pubDate>Thu, 15 Oct 2026 08:05:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>世界最大級のサイバーセキュリティ専門メディアであるCSO Onlineが、2026年になって複数回起きている「AIエージェントによるハッキング事件」は、AIの暴走が原因ではなく、AI企業がセキュリティの基本を怠ったことが原因であると解説しています。 続きを読む... — GIGAZINE / score: 75 (AIハッキング事件のセキュリティ本質を指摘)</description>
+<pubDate>Thu, 15 Oct 2026 08:19:46 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>世界最大級のサイバーセキュリティ専門メディアであるCSO Onlineが、2026年になって複数回起きている「AIエージェントによるハッキング事件」は、AIの暴走が原因ではなく、AI企業がセキュリティの基本を怠ったことが原因であると解説しています。 AI agents aren’t ‘going rogue.’ Frontier labs are skipping security ... — はてなブックマーク テクノロジー / score: 75 (AIハッキング事件のセキュリティ本質を指摘)</description>
 </item>
 <item>
 <title>[75] もう圏外補完だけじゃない。Starlinkが携帯電話キャリアになる道が開いちゃった</title>
@@ -581,6 +573,14 @@
 <pubDate>Thu, 15 Oct 2026 01:57:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>Appleの研究チームが、使われていないMacのGPUをネットワーク経由で集約し、AIの処理に活用する分散型システム「Minions」を開発しました。MinionsはすでにApple社内で運用されており、従来は10時間以上かかることもあったGPUの利用待ち時間を数分に短縮できたと報告されています。 続きを読む... — GIGAZINE / score: 75 (Apple製Macを活用した分散型GPUクラウドの構築技術)</description>
+</item>
+<item>
+<title>[75] Claude Platform release notes — October 15, 2026</title>
+<link>https://platform.claude.com/docs/en/release-notes/overview#october-15-2026-5</link>
+<guid isPermaLink="true">https://platform.claude.com/docs/en/release-notes/overview#october-15-2026-5</guid>
+<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+<category>Claude リリースノート</category>
+<description>The Compliance API now returns the text each organization member saved as Instructions for Claude in claude.ai and as Global instructions in Cowork, in beta for Claude Enterprise organizations. Call GET /v1/compliance/organizations/{org_uuid}/user_preferences with your existing Compliance Access Key and the read:compliance_user_data scope. See List user preferences . — Claude リリースノート / score: 75 (Claudeプラットフォームのマネージドエージェント更新)</description>
 </item>
 <item>
 <title>[75] モデルの性能より「ハーネスの出来」で差がつく ――AIエージェントを正しく制御する「ハーネスエンジニアリング」とは？</title>

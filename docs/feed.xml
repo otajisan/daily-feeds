@@ -4,15 +4,63 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 15 Oct 2026 18:12:09 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 20:09:11 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
-<title>Claude Platform release notes — October 19, 2026</title>
-<link>https://platform.claude.com/docs/en/release-notes/overview#october-19-2026-3</link>
-<guid isPermaLink="true">https://platform.claude.com/docs/en/release-notes/overview#october-19-2026-3</guid>
-<pubDate>Thu, 15 Oct 2026 18:11:40 +0000</pubDate>
-<category>Claude リリースノート</category>
-<description>The Compliance API now returns the text each organization member saved as Instructions for Claude in claude.ai and as Global instructions in Cowork, in beta for Claude Enterprise organizations. Call GET /v1/compliance/organizations/{org_uuid}/user_preferences with your existing Compliance Access Key and the read:compliance_user_data scope. See List user preferences . — Claude リリースノート / score: 75 (Claudeプラットフォームのマネージドエージェント更新)</description>
+<title>Chirp Pong</title>
+<link>https://simonwillison.net/2026/Oct/15/chirp-pong/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Oct/15/chirp-pong/</guid>
+<pubDate>Thu, 15 Oct 2026 19:47:52 +0000</pubDate>
+<category>Simon Willison</category>
+<description>Tool: Chirp Pong Another game experiment - I wanted to see if it was feasible to have a two player game on two separate phones running in static HTML where the networking code uses chirps sent via the microphone. It seems to work! Build a two player competitive pong like game where two players use their phones close to each other and the game state is sent via audio noises which the web microphone API can interpret - but add graphical and gameplay twists to make it a lot more fun and intertwine  — Simon Willison / score: 25 (個人的な興味によるゲーム実験の紹介)</description>
+</item>
+<item>
+<title>Apple、新型｢iPad mini｣向けに60Hzと120Hz ProMotionディスプレイの両方をテスト済み</title>
+<link>https://taisy0.com/2026/10/16/229003.html</link>
+<guid isPermaLink="true">https://taisy0.com/2026/10/16/229003.html</guid>
+<pubDate>Thu, 15 Oct 2026 18:35:08 +0000</pubDate>
+<category>気になる、記になる…</category>
+<description>BloombergのMark Gurman氏が、ポッドキャスト「Power On」の最新版において、Appleが今月末に発表するOLED搭載「iPad mini」に関する最新情報を報告しています。 OLED搭載「iPad […] — 気になる、記になる… / score: 45 (Apple製ハードウェアの未確認情報)</description>
+</item>
+<item>
+<title>Amazon DynamoDB Streams now supports timestamp-based stream processing</title>
+<link>https://aws.amazon.com/amazon-dynamodb-streams-timestamp-processing</link>
+<guid isPermaLink="true">https://aws.amazon.com/amazon-dynamodb-streams-timestamp-processing</guid>
+<pubDate>Thu, 15 Oct 2026 18:30:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon DynamoDB Streams now supports timestamp-based stream processing, enabling you to begin reading stream records from a specific point in time. Previously, you could only start from the oldest retained record (up to 24 hours old) or from new records written after you start consuming the stream. Now, you can supply a timestamp and begin processing at the first record written at or after that time using the AT_TIMESTAMP shard iterator type. Timestamp-based stream processing can be used with th — AWS What's New / score: 65 (DynamoDBの新機能で実用性が高い)</description>
+</item>
+<item>
+<title>AWS Lambda Durable Execution SDK for Go is now generally available</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-durable-go-sdk-support/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-durable-go-sdk-support/</guid>
+<pubDate>Thu, 15 Oct 2026 18:23:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Today, AWS announces the general availability of the AWS Lambda Durable Execution SDK for Go, enabling Go developers to build resilient, long-running workflows using Lambda durable functions. With this SDK, developers can create multi-step applications like infrastructure automation, deployment rollouts with approval gates, and pipelines that call AI models and pause for human review directly in their Go code without implementing custom progress tracking. Lambda durable functions extend Lambda's — AWS What's New / score: 75 (Go言語向けLambda耐久実行の一般提供開始)</description>
+</item>
+<item>
+<title>Muse Spark Open model now available on Amazon SageMaker JumpStart</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/01/muse-spark-open-on-sagemaker-jumpstart/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/01/muse-spark-open-on-sagemaker-jumpstart/</guid>
+<pubDate>Thu, 15 Oct 2026 18:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Meta's Muse Spark Open is now available on Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers. This coding-optimized open-weight model from Meta is purpose-built for agentic coding workflows, bringing multi-step reasoning and tool calling to enterprise software engineering on AWS infrastructure. Muse Spark Open is designed for long-running coding agents and multimodal engineering workflows. Built on a Mixture-of-Experts (MoE) architecture with 816 — AWS What's New / score: 70 (オープンモデルのSageMaker追加)</description>
+</item>
+<item>
+<title>AWS HealthOmics now supports shared VPCs</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/omics-workflows-shared-vpcs/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/omics-workflows-shared-vpcs/</guid>
+<pubDate>Thu, 15 Oct 2026 17:42:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS HealthOmics now supports sharing VPCs across accounts, enabling your workflows to access resources in Amazon Virtual Private Clouds (VPCs) managed by other AWS accounts with AWS Resource Access Manager (RAM). AWS HealthOmics is a HIPAA-eligible service that helps healthcare and life sciences customers accelerate scientific breakthroughs at scale with fully managed bioinformatics workflows. With shared VPCs, customers can centralize networking administration by sharing subnets and security gr — AWS What's New / score: 50 (HealthOmicsのVPC共有サポート)</description>
+</item>
+<item>
+<title>Amazon Time Sync Service adds support for microsecond-accurate time on 135 additional EC2 instance types in all commercial regions</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/time-sync-additional-instances-all-regions</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/time-sync-additional-instances-all-regions</guid>
+<pubDate>Thu, 15 Oct 2026 17:34:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon Time Sync Service introduces support for microsecond-accurate time on 135 additional EC2 instance types—spanning 12 instance families—in all commercial regions. Built on Amazon's proven network infrastructure and the AWS Nitro System, microsecond-accurate time and nanosecond-precision hardware timestamps leverage the reference clocks running in the Nitro System directly, enabling customers to easily order application events, measure 1-way network latency, and increase distributed applicat — AWS What's New / score: 60 (高精度な時刻同期の対応インスタンス拡大)</description>
 </item>
 <item>
 <title>｢iPhone 17 Pro｣の変色問題再来?? ｰ ｢iPhone 18 Pro｣のバーガンディモデルでも一部ユーザーから変色問題が報告される</title>
@@ -39,20 +87,28 @@
 <description>Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science. — Google DeepMind / score: 75 (科学技術・創薬におけるAI活用に関する重要成果)</description>
 </item>
 <item>
+<title>Amazon CloudFront announces dual-stack support for VPC origins</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/cloudfront-vpc-origin-dualstack/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/cloudfront-vpc-origin-dualstack/</guid>
+<pubDate>Thu, 15 Oct 2026 16:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon CloudFront now supports end-to-end IPv6 delivery to origins inside your Amazon Virtual Private Cloud (Amazon VPC), with the new dual-stack VPC origins. With VPC origins, customers keep their Application Load Balancers (ALB), Network Load Balancers (NLB), and EC2 instances in private subnets that only their CloudFront distributions can reach. With dual-stack support, customers can now send IPv6 traffic all the way to these private origins to meet their IPv6 architecture and regulatory requ — AWS What's New / score: 60 (CloudFrontのVPC起源デュアルスタック対応)</description>
+</item>
+<item>
+<title>PostgreSQL 19 RC1 is now available in Amazon RDS Database Preview Environment</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/postgresql-19-rc1-amazon-rds-database-preview-environment/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/postgresql-19-rc1-amazon-rds-database-preview-environment/</guid>
+<pubDate>Thu, 15 Oct 2026 16:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Starting today, Amazon RDS for PostgreSQL 19 Release Candidate 1 (RC1) is available in the Amazon RDS Database Preview Environment , allowing you to evaluate the pre-release of PostgreSQL 19 on Amazon RDS for PostgreSQL. PostgreSQL 19 RC1 focuses on stability, with bug fixes and improvements from the Beta 4 testing period. This release improves error handling for complex text-search expressions, hardens parallel autovacuum, and improves reliability of GIN index maintenance. Refer to the PostgreS — AWS What's New / score: 70 (PostgreSQLの新プレビュー版提供)</description>
+</item>
+<item>
 <title>How Visko streams real-time world models on Google Cloud TPUs</title>
 <link>https://cloud.google.com/blog/products/media-entertainment/how-visko-streams-real-time-world-models-on-google-cloud-tpus/</link>
 <guid isPermaLink="true">https://cloud.google.com/blog/products/media-entertainment/how-visko-streams-real-time-world-models-on-google-cloud-tpus/</guid>
 <pubDate>Thu, 15 Oct 2026 16:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>Editor's note: Generative AI startups are moving rapidly beyond static clip generation to build interactive, real-time worlds. In this technical deep dive, we explore how AI startup Visko collaborated with Google Cloud TPU engineers to deploy Orbis — its continuously streaming Live World Model—on Cloud TPUs, going from initial kickoff to production handover in just 30 days. What makes a live video world model so challenging to serve in production? The bottleneck isn't average throughput — it's b — Google Cloud Blog / score: 70 (クラウドTPUを活用したリアルタイム生成AIの技術解説)</description>
-</item>
-<item>
-<title>Bringing the borderless Lakehouse into the agentic era with innovations for Gemini</title>
-<link>https://cloud.google.com/blog/products/data-analytics/borderless-lakehouse-integrates-with-gemini/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/products/data-analytics/borderless-lakehouse-integrates-with-gemini/</guid>
-<pubDate>Thu, 15 Oct 2026 16:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>As enterprises shift their AI usage from experimental chatbots to autonomous agents, teams are hitting a critical bottleneck: accessing and reasoning over data scattered across multiple clouds, SaaS platforms, and on-premises systems. To turn AI agents into true systems of action, organizations need a foundation that can handle petabyte-scale reasoning without the security risks of data movement. Last week at our Gemini at Work event, we announced how Gemini can help you transform business workf — Google Cloud Blog / score: 65 (AIエージェント時代のデータ基盤に関する発表)</description>
 </item>
 <item>
 <title>Temporal Serverless Workers on Cloud Run: Scale workers ahead of demand</title>
@@ -77,6 +133,22 @@
 <pubDate>Thu, 15 Oct 2026 16:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>Agents represent a fundamental shift in cloud operations. They can act on behalf of users or autonomously, make non-deterministic decisions, and request data across projects at unprecedented speed and scale. Because agents are a distinct category of non-human identity (NHI), they require unique secure-by-default guardrails. Traditional, manually-operated network perimeters are vulnerable to today’s machine-speed attacks. Overly permissive perimeters, built to avoid blocked connections, increase  — Google Cloud Blog / score: 55 (Google Cloudの境界セキュリティ近代化解説)</description>
+</item>
+<item>
+<title>Bringing the borderless Lakehouse into the agentic era with innovations for Gemini</title>
+<link>https://cloud.google.com/blog/products/data-analytics/borderless-lakehouse-integrates-with-gemini/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/data-analytics/borderless-lakehouse-integrates-with-gemini/</guid>
+<pubDate>Thu, 15 Oct 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>As enterprises shift their AI usage from experimental chatbots to autonomous agents, teams are hitting a critical bottleneck: accessing and reasoning over data scattered across multiple clouds, SaaS platforms, and on-premises systems. To turn AI agents into true systems of action, organizations need a foundation that can handle petabyte-scale reasoning without the security risks of data movement. Last week at our Gemini at Work event, we announced how Gemini can help you transform business workf — Google Cloud Blog / score: 65 (AIエージェント時代のデータ基盤に関する発表)</description>
+</item>
+<item>
+<title>What’s new with Google Data Cloud</title>
+<link>https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/</guid>
+<pubDate>Thu, 15 Oct 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>October 12 - October 16 Looker Data Apps are now in Preview to build and host interactive, agent-generated applications natively inside Looker Generated using natural language prompts, the Antigravity CLI, or Claude Code, these interactive web applications, natively hosted inside Looker, transform business reporting into operational systems of action. Users can test scenarios, adjust parameters, and trigger workflows in downstream platforms while inheriting LookML semantic modeling, row-level se — Google Cloud Blog / score: 55 (Google Data Cloudの新機能情報)</description>
 </item>
 <item>
 <title>AnthropicのBun、TypeScript 7よりも3倍以上高速なTypeScript型チェッカーを搭載。Bunの新バージョン1.4.3で</title>
@@ -229,6 +301,14 @@
 <pubDate>Thu, 15 Oct 2026 13:00:00 +0000</pubDate>
 <category>Gemini (Google Blog)</category>
 <description>Universal Cart helps make holiday shopping easier. It’s now available in the U.S. across Search and the Gemini app. — Gemini (Google Blog) / score: 40 (Googleのショッピング向け新機能に関する発表)</description>
+</item>
+<item>
+<title>Amazon S3 Metadata now available in six additional AWS Regions</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-s3-metadata-six-additional-regions/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-s3-metadata-six-additional-regions/</guid>
+<pubDate>Thu, 15 Oct 2026 13:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon S3 Metadata is now available in six additional AWS Regions: Asia Pacific (Hyderabad), Asia Pacific (Malaysia), Asia Pacific (New Zealand), Asia Pacific (Taipei), Asia Pacific (Thailand), and Mexico (Central). S3 Metadata is a fast and easy way to instantly discover and understand your S3 data with automated, easily queried metadata that updates in near real time. This helps you curate, identify, and use your S3 data for business analytics, real-time inference applications, and more. S3 Me — AWS What's New / score: 40 (S3メタデータの対応リージョン追加)</description>
 </item>
 <item>
 <title>FMVの23.8型モニター一体型デスクトップPCが、直販サイトで24万円台！</title>
@@ -725,86 +805,6 @@
 <pubDate>Thu, 15 Oct 2026 08:35:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>マイクロソフトのSurface Mouseは写真の位置合わせやウィンドウ整列を振動でお知らせ。触覚フィードバックで細かな作業が快適になる新作マウスの魅力を紹介します。 — ギズモード・ジャパン / score: 35 (Microsoft製マウスの触覚フィードバックに関する新製品情報)</description>
-</item>
-<item>
-<title>国産モデル sarashina3-mini は日本語の推敲で何を変えるのか？</title>
-<link>https://zenn.dev/algoartis/articles/03ca12150ccbee</link>
-<guid isPermaLink="true">https://zenn.dev/algoartis/articles/03ca12150ccbee</guid>
-<pubDate>Thu, 15 Oct 2026 08:30:03 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>こんにちは。ALGO ARTISの大賀 愛一郎です。yomiyasuの開発者でもあります。 最近、日本語性能が高いモデルが相次いで公開されていますね。 2026年10月13日、SB Intuitions は、国産LLM「Sarashina」のAPIを利用できる「Sarashinaサービス」の無償ベータを提供しはじめました。 https://www.sbintuitions.co.jp/news/press/20261013_01/ というわけで、標準の対話モデル sarashina3-mini に日本語を書かせ、推敲させてみました。 前回の記事で Gemini 4 Argon と Gem... — Zenn トレンド / score: 50 (国産LLM Sarashinaの日本語性能に関する考察)</description>
-</item>
-<item>
-<title>やたら荷物が届くので高1の息子のスマホを取り上げたらAmazonで2桁万円の買い物が発覚…Amazon Prime Mastercardを持っているのはなぜ？→その後電話で何とかなったと報告</title>
-<link>https://togetter.com/li/2758486</link>
-<guid isPermaLink="true">https://togetter.com/li/2758486</guid>
-<pubDate>Thu, 15 Oct 2026 08:05:24 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Asuka★Ａｉ @aiichinose215 高１の息子(15歳)がAmazonプライムマスターカード持ってるの何故？？？ やたら荷物届くから、スマホ取り上げたら、Amazonで2桁万円買い物してる え？ クレカ作れないんじゃないんです？？？ 2026-10-14 20:58:49 Asuka★Ａｉ @aiichinose215 消費者センターＴＥＬしてからのカード会社ＴＥＬだ... — はてなブックマーク テクノロジー / score: 20 (個人の家庭内トラブルに関するSNSの話題)</description>
-</item>
-<item>
-<title>AIによる相次ぐハッキング事件は「AIの暴走」ではなく「AI企業がセキュリティの基本を無視しているため」という指摘</title>
-<link>https://gigazine.net/news/20261015-ai-agents-not-going-rogue/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261015-ai-agents-not-going-rogue/</guid>
-<pubDate>Thu, 15 Oct 2026 08:05:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>世界最大級のサイバーセキュリティ専門メディアであるCSO Onlineが、2026年になって複数回起きている「AIエージェントによるハッキング事件」は、AIの暴走が原因ではなく、AI企業がセキュリティの基本を怠ったことが原因であると解説しています。 続きを読む... — GIGAZINE / score: 75 (AIハッキング事件のセキュリティ本質を指摘)</description>
-</item>
-<item>
-<title>ソフトバンクのメリハリ無制限+は必要？平均21.89GBでも続ける理由</title>
-<link>https://iphone-mania.jp/carrier-607495/</link>
-<guid isPermaLink="true">https://iphone-mania.jp/carrier-607495/</guid>
-<pubDate>Thu, 15 Oct 2026 08:03:03 +0000</pubDate>
-<category>iPhone Mania</category>
-<description>直近6カ月のデータ通信量の平均は21.89GBでした。データ無制限のプランを使いながら、最少月は9.90GBです。 それでも無制限を継続しているのはなぜか。平均GB数だけでは見えない、無制限プランを続ける判断基準を実デー […] — iPhone Mania / score: 20 (キャリアの料金プラン利用実態の紹介)</description>
-</item>
-<item>
-<title>連続不正アクセス事案の攻撃手法に関する調査 - JPCERT/CC Eyes</title>
-<link>https://blogs.jpcert.or.jp/ja/2026/10/web_api_attacks.html</link>
-<guid isPermaLink="true">https://blogs.jpcert.or.jp/ja/2026/10/web_api_attacks.html</guid>
-<pubDate>Thu, 15 Oct 2026 08:02:36 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>JPCERT/CCは、2026年10月8日に、国内の複数の組織で相次いで公表された不正アクセスによる個人情報などの漏えい被害に関する注意喚起を公開しました。 JPCERT/CCでは、複数の組織と連携し、攻撃に使用された可能性のあるインフラの調査を進めています。その過程で、攻撃者がAIを利用して、既知の脆弱性のスキャンやAPI経... — はてなブックマーク テクノロジー / score: 90 (JPCERT/CCによるAIを用いた攻撃手法の注意喚起)</description>
-</item>
-<item>
-<title>華やかなジャスミンとフルーティーな味わいがマッチしたスタバのチルドカップ「ジョイフルハーモニーティーラテ」</title>
-<link>https://gigazine.net/news/20261015-starbucks-joyfulharmonytealatte/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261015-starbucks-joyfulharmonytealatte/</guid>
-<pubDate>Thu, 15 Oct 2026 08:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>2026年10月13日(火)に、スターバックスのチルドカップシリーズの新商品として「ジョイフルハーモニーティーラテ」が期間限定で登場しました。ブラックティーをベースに華やかなジャスミンの香り、アプリコットのフルーティーな風味、そしてクリーミーなミルクが重なり会ったドリンクになっているとのことで、どんな味になっているのか実際に飲んで確かめてみました。 続きを読む... — GIGAZINE / score: 10 (スタバの新商品紹介グルメ記事)</description>
-</item>
-<item>
-<title>AWS Security Hub CSPM now supports the Cyber Risk Institute profile version 2.2</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/10/security-hub-cspm-cri-profile-v22/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/security-hub-cspm-cri-profile-v22/</guid>
-<pubDate>Thu, 15 Oct 2026 08:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>AWS Security Hub CSPM now supports automated security checks that align with the Cyber Risk Institute (CRI) profile. The CRI Profile is a cybersecurity framework developed by the Cyber Risk Institute, a non-profit coalition of financial institutions and trade associations. The framework harmonizes cybersecurity and regulatory expectations that apply to the financial services sector into a common set of requirements, so that an organization can assess itself once and report against multiple regul — AWS What's New / score: 60 (AWSのセキュリティガバナンス機能のアップデート)</description>
-</item>
-<item>
-<title>Amazon Managed Service for Prometheus Collector now available in Asia Pacific (New Zealand) Region</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/10/ams-prometheus-collector-apac-nz/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/ams-prometheus-collector-apac-nz/</guid>
-<pubDate>Thu, 15 Oct 2026 08:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Amazon Managed Service for Prometheus collector, a fully-managed agentless collector for Prometheus metrics, is now available in Asia Pacific (New Zealand). Customers in New Zealand can now run their Prometheus-compatible monitoring workloads in-region, with lower latency for local workloads and the ability to keep their data in-country. Amazon Managed Service for Prometheus collector discovers and collects Prometheus metrics from your container workloads without the need to run and operate coll — AWS What's New / score: 40 (AWS Prometheusコレクターの提供リージョン追加)</description>
-</item>
-<item>
-<title>太陽光でずっと動く＝充電も電池交換も不要。しかもAmazonセールで33%オフ</title>
-<link>https://www.gizmodo.jp/article/2610-solar-powered-item-tracker/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2610-solar-powered-item-tracker/</guid>
-<pubDate>Thu, 15 Oct 2026 08:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>電池交換なんて、もう過去のもの。鍵やバッグにぶら下げておくと安心な、忘れ物防止タグ。今や欠かせない存在です。でも、ひとつだけ言っておきたい。電池交換、面倒くさい！そう、ボタン電池式の忘れ物防止タグは、電池交換が面倒なんですよ。まあ1年に1回… — ギズモード・ジャパン / score: 15 (一般向けのガジェット紹介であり技術的重要性は低い)</description>
-</item>
-<item>
-<title>不正アクセスによる 公式アプリ会員情報漏えいに関するお詫びとお知らせ</title>
-<link>https://www.burgerking.co.jp/images/notice/2026/10/15/d4d114ca-ebd7-4f3d-94ef-c4ea7a84a139.pdf</link>
-<guid isPermaLink="true">https://www.burgerking.co.jp/images/notice/2026/10/15/d4d114ca-ebd7-4f3d-94ef-c4ea7a84a139.pdf</guid>
-<pubDate>Thu, 15 Oct 2026 07:55:30 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>不正アクセスによる 公式アプリ会員情報漏えいに関するお詫びとお知らせ — はてなブックマーク テクノロジー / score: 85 (大規模なアプリ会員情報漏えいの警告)</description>
 </item>
 </channel>
 </rss>
