@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 15 Oct 2026 22:09:03 +0000</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 00:21:39 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[98] 「GitLab」にまたも緊急パッチ、CVSS基本値「10.0」の脆弱性に対処／認証なしでサーバー上で任意のコードを実行されるおそれ</title>
@@ -21,6 +21,14 @@
 <pubDate>Thu, 15 Oct 2026 13:22:05 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>データ転送ライブラリ「curl」に特定の条件でリモートからコードを実行される脆弱性／深刻度Highを含む24件の脆弱性を修正したv8.23.0が公開 — はてなブックマーク テクノロジー / score: 95 (curlの深刻度Highを含む複数脆弱性の修正)</description>
+</item>
+<item>
+<title>[95] ソースネクスト、顧客情報2252万件流出か　不正アクセス受け - 日本経済新聞</title>
+<link>https://www.nikkei.com/article/DGXZQOUC15AOL0V11C26A0000000/</link>
+<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUC15AOL0V11C26A0000000/</guid>
+<pubDate>Thu, 15 Oct 2026 10:58:30 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>ソースネクストは15日、第三者による不正アクセスを受け同社が保有する顧客情報2252万件が流出した可能性があると発表した。すでに対策は講じ、不正な通信の遮断や監視を続けているという。9日午前に顧客管理システムに対して会員情報取得が不正に行われ、登録している会員情報が取得された。13日午前に不正アクセスを確... — はてなブックマーク テクノロジー / score: 95 (ソースネクストの大規模情報流出インシデント)</description>
 </item>
 <item>
 <title>[95] 「Google Chrome 155」にセキュリティ更新、「Critical」7件を含む37件の脆弱性を修正／Windows/Mac向けはv155.0.8059.79/.80、Linux向けはv155.0.8059.79</title>
@@ -55,20 +63,36 @@
 <description>JavaScriptランタイム「Deno」の開発元であるDeno LandとCloudflareは、Deno LandがCloudflareに合流すると発表しました。CloudflareによるDeno Landの買収と見られます（Deno ... — Publickey / score: 95 (Deno開発終了とCloudflare合流の重大なニュース)</description>
 </item>
 <item>
+<title>[90] 「セキュリティソフトも売ってるのに」ソースネクスト会員情報漏えい、パスワード含む最大2252万件　API不正利用される</title>
+<link>https://www.itmedia.co.jp/news/article/2610/16/2000002312/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/16/2000002312/</guid>
+<pubDate>Thu, 15 Oct 2026 22:45:27 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>流出した可能性がある情報は、メールアドレス、パスワード、氏名、氏名カナ、住所、性別、電話番号、FAX番号、生年月日、会社名、役職名、部署名、システム固有の識別情報（加入サービス・登録日・ログイン日など）。対象項目は登録状況により異なる。クレジットカード情報は対象システムに保存しておらず、流出の対象に... — はてなブックマーク テクノロジー / score: 90 (ソースネクストの大量個人情報漏えい詳細)</description>
+</item>
+<item>
+<title>[90] 「コミックシーモア」がサービス停止 不正アクセスか | NHKニュース</title>
+<link>https://news.web.nhk/newsweb/na/nd-20261015de60114</link>
+<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261015de60114</guid>
+<pubDate>Thu, 15 Oct 2026 14:49:26 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>漫画を中心とした電子書籍を配信する「コミックシーモア」は、外部からの不正なアクセスが行われた可能性が高いとして、原因究明のためサービスを停止したと15日夜に発表しました。 15日夜、漫画を中心とし… — はてなブックマーク テクノロジー / score: 90 (大規模サービス停止を伴う不正アクセス)</description>
+</item>
+<item>
+<title>[90] バーガーキング、1118万件の会員情報流出　メールや電話番号など</title>
+<link>https://www.watch.impress.co.jp/docs/news/2148486.html</link>
+<guid isPermaLink="true">https://www.watch.impress.co.jp/docs/news/2148486.html</guid>
+<pubDate>Thu, 15 Oct 2026 08:36:19 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>バーガーキング、1118万件の会員情報流出 メールや電話番号など — はてなブックマーク テクノロジー / score: 90 (大規模な会員情報流出という重大なセキュリティ事故)</description>
+</item>
+<item>
 <title>[90] 連続不正アクセス事案の攻撃手法に関する調査 - JPCERT/CC Eyes</title>
 <link>https://blogs.jpcert.or.jp/ja/2026/10/web_api_attacks.html</link>
 <guid isPermaLink="true">https://blogs.jpcert.or.jp/ja/2026/10/web_api_attacks.html</guid>
 <pubDate>Thu, 15 Oct 2026 08:02:36 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>JPCERT/CCは、2026年10月8日に、国内の複数の組織で相次いで公表された不正アクセスによる個人情報などの漏えい被害に関する注意喚起を公開しました。 JPCERT/CCでは、複数の組織と連携し、攻撃に使用された可能性のあるインフラの調査を進めています。その過程で、攻撃者がAIを利用して、既知の脆弱性のスキャンやAPI経... — はてなブックマーク テクノロジー / score: 90 (JPCERT/CCによるAIを用いた攻撃手法の注意喚起)</description>
-</item>
-<item>
-<title>[90] バーガーキング アプリの会員情報 約1118万件漏えい | NHKニュース</title>
-<link>https://news.web.nhk/newsweb/na/nd-20261015de59803</link>
-<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261015de59803</guid>
-<pubDate>Thu, 15 Oct 2026 07:06:47 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>ハンバーガーチェーン「バーガーキング」の運営会社は、不正アクセスが確認され、会員の情報、およそ1118万件が外部に漏えいしたと発表しました。漏れたのは会員の氏名やメールアドレスなどで、クレジットカード… — はてなブックマーク テクノロジー / score: 90 (約1,100万件の大規模個人情報流出インシデント)</description>
 </item>
 <item>
 <title>[90] Next.js Security Update for Upstream Vulnerabilities</title>
@@ -135,6 +159,22 @@
 <description>GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly. — OpenAI News / score: 90 (主要AIの次世代メジャーリリースと新UIの発表)</description>
 </item>
 <item>
+<title>[85] 2026年10月「Windows Update」でWi-Fi/VPNに接続できない問題、脱「NTLMv1」が影響／あらかじめ計画されていた変更、パッチの不具合ではない</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2148594.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2148594.html</guid>
+<pubDate>Thu, 15 Oct 2026 23:16:45 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>2026年10月「Windows Update」でWi-Fi/VPNに接続できない問題、脱「NTLMv1」が影響／あらかじめ計画されていた変更、パッチの不具合ではない — はてなブックマーク テクノロジー / score: 85 (Windows Updateでの大規模な仕様変更)</description>
+</item>
+<item>
+<title>[85] Node.js、26.x/24.x/22.x向けセキュリティリリースを10月21日に公開予定</title>
+<link>https://codezine.jp/article/detail/30019</link>
+<guid isPermaLink="true">https://codezine.jp/article/detail/30019</guid>
+<pubDate>Thu, 15 Oct 2026 23:00:00 +0000</pubDate>
+<category>CodeZine</category>
+<description> — CodeZine / score: 85 (Node.jsの重要なセキュリティリリース予告)</description>
+</item>
+<item>
 <title>[85] AnthropicのBun、TypeScript 7よりも3倍以上高速なTypeScript型チェッカーを搭載。Bunの新バージョン1.4.3で</title>
 <link>https://www.publickey1.jp/blog/26/anthropicbuntypescript_73typescriptbun143.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/anthropicbuntypescript_73typescriptbun143.html</guid>
@@ -175,14 +215,6 @@
 <description>ソースネクスト、最大2251万件の情報流出 パスワード再設定を — はてなブックマーク テクノロジー / score: 85 (最大2251万件という非常に大きな情報漏洩)</description>
 </item>
 <item>
-<title>[85] ソースネクスト 顧客情報 約2251万件が情報漏えいか | NHKニュース</title>
-<link>https://news.web.nhk/newsweb/na/nd-20261015de60043</link>
-<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261015de60043</guid>
-<pubDate>Thu, 15 Oct 2026 10:26:12 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>年賀状ソフトなどを手がけるソースネクストは、顧客の情報およそ2251万件が流出した可能性があると発表しました。 流出した可能性があるのは顧客のメールアドレスや氏名、住所などのほか、サービスにログイン… — はてなブックマーク テクノロジー / score: 85 (ソースネクストでの大規模な顧客情報流出報道)</description>
-</item>
-<item>
 <title>[85] バーガーキング 約1118万件漏えい</title>
 <link>https://news.yahoo.co.jp/pickup/6598889?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6598889?source=rss</guid>
@@ -197,14 +229,6 @@
 <pubDate>Thu, 15 Oct 2026 08:49:13 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>このたび、当社が管理する会員情報に対し、第三者による不正アクセスが行われ、当社に会員登録いただいているお客様の個人情報が外部に流出したことが判明いたしました。 お客様ならびに関係者の皆様に多大なるご迷惑とご心配をおかけしておりますことを、深くお詫び申し上げます。 現在、外部の専門機関と連携し、原因... — はてなブックマーク テクノロジー / score: 85 (大規模な個人情報の流出事案であり影響が甚大)</description>
-</item>
-<item>
-<title>[85] 不正アクセスによる 公式アプリ会員情報漏えいに関するお詫びとお知らせ</title>
-<link>https://www.burgerking.co.jp/images/notice/2026/10/15/d4d114ca-ebd7-4f3d-94ef-c4ea7a84a139.pdf</link>
-<guid isPermaLink="true">https://www.burgerking.co.jp/images/notice/2026/10/15/d4d114ca-ebd7-4f3d-94ef-c4ea7a84a139.pdf</guid>
-<pubDate>Thu, 15 Oct 2026 07:55:30 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>不正アクセスによる 公式アプリ会員情報漏えいに関するお詫びとお知らせ — はてなブックマーク テクノロジー / score: 85 (大規模なアプリ会員情報漏えいの警告)</description>
 </item>
 <item>
 <title>[85] 「C# Dev Kit」が大刷新、読み込みは最大180倍に、サーバーのメモリ消費は最大約85％減／11月の正式提供が予定されている「.NET 11」にあわせたアーキテクチャー変更</title>
@@ -333,14 +357,6 @@
 <pubDate>Fri, 02 Oct 2026 16:15:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production. — OpenAI News / score: 85 (次世代GPT-6ファミリーのモデル選択・活用ガイド)</description>
-</item>
-<item>
-<title>[85] Python 3.15.0 candidate 3 is here!</title>
-<link>https://blog.python.org/2026/10/python-3150-rc3/</link>
-<guid isPermaLink="true">https://blog.python.org/2026/10/python-3150-rc3/</guid>
-<pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-<category>Python Insider</category>
-<description>Following tradition, a surprise rc3! — Python Insider / score: 85 (Python 3.15.0のリリース候補版公開)</description>
 </item>
 <item>
 <title>[80] OpenAIやGoogleの画像生成AIは簡単に騙されてヌード画像を生成してしまうと研究者が指摘</title>
@@ -498,9 +514,9 @@
 <title>[75] リーナス・トーバルズがClaude CodeなどのAIをバリバリ活用してLinuxカーネルの改善に取り組み中</title>
 <link>https://gigazine.net/news/20261016-linus-torvalds-claude-code/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261016-linus-torvalds-claude-code/</guid>
-<pubDate>Thu, 15 Oct 2026 21:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>Linuxカーネルの生みの親であるリーナス・トーバルズ氏がAIコーディングアシスタントのClaude Codeを活用し、Linuxカーネルの大幅な改善に取り組んでいることが明らかになりました。 続きを読む... — GIGAZINE / score: 75 (著名開発者のAIツール活用動向を示す重要ニュース)</description>
+<pubDate>Thu, 15 Oct 2026 21:32:18 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Linuxカーネルの生みの親であるリーナス・トーバルズ氏がAIコーディングアシスタントのClaude Codeを活用し、Linuxカーネルの大幅な改善に取り組んでいることが明らかになりました。 Linus Torvalds Working On A Hefty Linux Kernel Improvement With Claude Code - Phoronix https://www.phoronix.com/news/Linus-Torv... — はてなブックマーク テクノロジー / score: 75 (著名開発者のAIツール活用動向を示す重要ニュース)</description>
 </item>
 <item>
 <title>[75] AWS Lambda Durable Execution SDK for Go is now generally available</title>
@@ -527,28 +543,12 @@
 <description>The open-source Temporal execution platform is rapidly becoming a foundational layer of modern software infrastructure — especially for orchestration in distributed systems and AI agent workloads. However, deploying and scaling workers in Temporal comes with unique challenges. Workers poll for tasks instead of serving requests, so request-driven serverless platforms can be an awkward fit. This often results in running worker fleets on Kubernetes or VMs, which you have to manage and pay for conti — Google Cloud Blog / score: 75 (分散処理基盤とサーバーレスの重要なインフラ連携)</description>
 </item>
 <item>
-<title>[75] 声優の野沢雅子さん “声の生成AI利用”について語る | NHKニュース</title>
-<link>https://news.web.nhk/newsweb/na/nd-20261015de59778</link>
-<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261015de59778</guid>
-<pubDate>Thu, 15 Oct 2026 10:14:26 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>生成AIによって声が無断で利用されるケースが相次ぐ中、声優などが加入する団体が15日、記者会見を開いて、声のAI利用に関する初めてのガイドラインを作成したことを発表しました。 こうした“声”を守る動… — はてなブックマーク テクノロジー / score: 75 (生成AIによる声の無断利用とガイドライン策定)</description>
-</item>
-<item>
 <title>[75] [AINews] Modal’s $1B ARR, $16B Series D makes it NYC’s newest AI Infra Decacorn, 3x usage and 3x valuation in 5 months, 15x in 1 yr</title>
 <link>https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d</link>
 <guid isPermaLink="true">https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d</guid>
 <pubDate>Thu, 15 Oct 2026 10:08:08 +0000</pubDate>
 <category>Latent Space</category>
 <description>Today Modal switches from our infra unicorn category to infra decacorn . We last caught up with Modal CTO Akshat in July: On the last day of AIE NYC , Akshat had a lot to share about the kind of infrastructure agents are needing for “ millions of concurrent sandboxes, launch RDMA clusters securely and elastically for distributed training, train state of the art speculators for inference, build a whole new sandbox runtime, and more ”: As Erik notes in his fundraise post : We launched Sandboxes in — Latent Space / score: 75 (AIインフラ企業の巨額資金調達に関する動向)</description>
-</item>
-<item>
-<title>[75] Microsoft、3つの国際的な犯罪ネットサービスを解体へ　日本狙った詐欺がきっかけ</title>
-<link>https://www.itmedia.co.jp/news/article/2610/15/2000002299/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/15/2000002299/</guid>
-<pubDate>Thu, 15 Oct 2026 08:58:29 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>米Microsoftは10月14日、国際的な非営利団体Health-ISACと共同で、フィッシング詐欺に使うアカウントやWebサイトなどを提供する3つの犯罪支援サービスの解体に着手したと発表した。日本を狙った詐欺に関する警察庁からの情報提供をきっかけに調査を進め、米裁判所の命令に基づくドメインの差し押さえなどを実施したとい... — はてなブックマーク テクノロジー / score: 75 (マイクロソフト等による国際的犯罪ネットの解体)</description>
 </item>
 <item>
 <title>[75] AIによる相次ぐハッキング事件は「AIの暴走」ではなく「AI企業がセキュリティの基本を無視しているため」という指摘</title>
