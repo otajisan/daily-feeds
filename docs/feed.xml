@@ -4,15 +4,47 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 16 Oct 2026 16:10:02 +0000</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 18:11:06 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
-<title>The SAVE method: Learn the fundamentals to engineer trustworthy generative media</title>
-<link>https://cloud.google.com/blog/topics/consulting/fundamentals-to-engineer-trustworthy-gen-media/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/topics/consulting/fundamentals-to-engineer-trustworthy-gen-media/</guid>
+<title>Day 0 support for Reflection’s Beam on Google Cloud: 5x faster perf with llm-d and NVIDIA Dynamo</title>
+<link>https://cloud.google.com/blog/topics/ai-infrastructure/day-0-support-with-5x-perf-for-reflection-beam-on-google-cloud/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/ai-infrastructure/day-0-support-with-5x-perf-for-reflection-beam-on-google-cloud/</guid>
+<pubDate>Fri, 16 Oct 2026 17:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Today, Reflection released Beam , its first open-weight model built to give developers, researchers, and enterprises open control and customization for frontier software engineering and long-horizon agentic tasks. Released under a permissive Apache 2.0 license with BF16 , FP8 , and NVFP4 checkpoints available at launch, Beam sets a new standard for inference efficiency in the 500B-parameter class by solving complex reasoning and coding problems with 3x to 4x higher reasoning compute efficiency t — Google Cloud Blog / score: 55 (Google Cloudでの新AIモデルサポート)</description>
+</item>
+<item>
+<title>ドコモの緊急地震速報「エリアメール」に不具合！iPhoneに入れておきたい防災アプリ</title>
+<link>https://iphone-mania.jp/carrier-607545/</link>
+<guid isPermaLink="true">https://iphone-mania.jp/carrier-607545/</guid>
+<pubDate>Fri, 16 Oct 2026 16:59:39 +0000</pubDate>
+<category>iPhone Mania</category>
+<description>NTTドコモが、気象庁からの緊急地震速報が一部ユーザーに届かなかったシステム不具合について謝罪しました。災害時に命を守る緊急速報が届かない事態は、スマホユーザーにとって深刻な不安要素です。 本記事では、今回のトラブルの概 […] — iPhone Mania / score: 50 (キャリアの緊急地震速報システム不具合に関する報道)</description>
+</item>
+<item>
+<title>iPhone Duoの抽選販売をヨドバシ・ドット・コムが案内中〜当選者に23日配送も</title>
+<link>https://iphone-mania.jp/iphone18-607555/</link>
+<guid isPermaLink="true">https://iphone-mania.jp/iphone18-607555/</guid>
+<pubDate>Fri, 16 Oct 2026 16:28:10 +0000</pubDate>
+<category>iPhone Mania</category>
+<description>ヨドバシ・ドット・コムが会員を対象に、iPhone Duoの抽選販売申込受付を2026年10月16日（金）午後9時〜10月19日（月）午前10時59分まで実施中です。 当選後に所定の期間に注文を完了したユーザーには、発売 […] — iPhone Mania / score: 30 (iPhoneの抽選販売に関する一般的なニュース)</description>
+</item>
+<item>
+<title>Beam model by Reflection is now available on Amazon SageMaker JumpStart and AWS Trainium</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/01/reflection-beam-on-sagemaker-jumpstart-and-aws-trainium/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/01/reflection-beam-on-sagemaker-jumpstart-and-aws-trainium/</guid>
+<pubDate>Fri, 16 Oct 2026 16:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Beam, the first open weight model offered by US-based Reflection, is now available in Amazon SageMaker JumpStart, the model hub in Amazon SageMaker AI. According to Beam, they operate at the frontier of open weight models in its class, with strong performance across reasoning, coding, and agentic benchmarks. With it, customers can now build advanced coding agents and automated workflows on a frontier open weight model while keeping control of their data and infrastructure and adapting the model  — AWS What's New / score: 55 (AWSでの新AIモデル対応に関するニュース)</description>
+</item>
+<item>
+<title>Architecting autonomy: A design pattern for high-compute, governed agents in biotech</title>
+<link>https://cloud.google.com/blog/topics/healthcare-life-sciences/architecting-scalable-agentic-biotech-workloads/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/healthcare-life-sciences/architecting-scalable-agentic-biotech-workloads/</guid>
 <pubDate>Fri, 16 Oct 2026 16:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
-<description>Google Cloud Consulting works with organizations every day to build generative media that’s trustworthy, brand-aligned, and stands out. Instead of relying on clever or complicated prompting, we’ve identified four recurring basics to generate consistent results, what we call the “SAVE” method. In this blog, we’ll share more about this method and how you can apply it to your own work. S - Separate the researcher from the storyteller If in a single prompt, if you’re requesting a technical summary,  — Google Cloud Blog / score: 55 (Google Cloudによる生成AIメディアの解説)</description>
+<description>In production systems today, most AI agents operate as lightweight dispatchers. They parse a prompt, make an API call, retrieve a record, and hand back control. Their execution is fast, stateless and cheap. Biotechnology does not work this way. Folding a protein target, screening a 50,000 compound ligand library, or evaluating structure-activity relationships (SAR) are not quick API lookups. They are sustained, stateful, GPU-bound simulations that run for minutes or even hours across specialized — Google Cloud Blog / score: 60 (バイオテック向け高度AIエージェントの設計パターン)</description>
 </item>
 <item>
 <title>Announcing Wiz Runtime Sensor add-on for GKE: Turnkey threat detection for Kubernetes</title>
@@ -31,12 +63,12 @@
 <description>The real challenge of building an agentic system isn't the construction, it's the measurement. Evaluation engineering is a critical foundation for building reliable AI systems. Setting up systematic, repeatable tests to measure your agent’s true behavior can be the difference between shipping a tool you can trust and one that silently breaks, fails to call APIs, or makes mistakes. I’ve run evaluation engineering initiatives for years at Google and d eveloping the newly released Google Cloud Deve — Google Cloud Blog / score: 65 (AIエージェント構築における評価エンジニアリング)</description>
 </item>
 <item>
-<title>Architecting autonomy: A design pattern for high-compute, governed agents in biotech</title>
-<link>https://cloud.google.com/blog/topics/healthcare-life-sciences/architecting-scalable-agentic-biotech-workloads/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/topics/healthcare-life-sciences/architecting-scalable-agentic-biotech-workloads/</guid>
+<title>The SAVE method: Learn the fundamentals to engineer trustworthy generative media</title>
+<link>https://cloud.google.com/blog/topics/consulting/fundamentals-to-engineer-trustworthy-gen-media/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/consulting/fundamentals-to-engineer-trustworthy-gen-media/</guid>
 <pubDate>Fri, 16 Oct 2026 16:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
-<description>In production systems today, most AI agents operate as lightweight dispatchers. They parse a prompt, make an API call, retrieve a record, and hand back control. Their execution is fast, stateless and cheap. Biotechnology does not work this way. Folding a protein target, screening a 50,000 compound ligand library, or evaluating structure-activity relationships (SAR) are not quick API lookups. They are sustained, stateful, GPU-bound simulations that run for minutes or even hours across specialized — Google Cloud Blog / score: 60 (バイオテック向け高度AIエージェントの設計パターン)</description>
+<description>Google Cloud Consulting works with organizations every day to build generative media that’s trustworthy, brand-aligned, and stands out. Instead of relying on clever or complicated prompting, we’ve identified four recurring basics to generate consistent results, what we call the “SAVE” method. In this blog, we’ll share more about this method and how you can apply it to your own work. S - Separate the researcher from the storyteller If in a single prompt, if you’re requesting a technical summary,  — Google Cloud Blog / score: 55 (Google Cloudによる生成AIメディアの解説)</description>
 </item>
 <item>
 <title>【独自分析】iPhone Duoの人気色を納期から分析〜既存折りたたみスマホと異なる</title>
@@ -63,6 +95,14 @@
 <description>「NVIDIA RTX Spark」を搭載するノートPC「ProArt P14」で速度を計り、ローカルAIでムービーを生成してみました。 — ASCII.jp / score: 50 (最新GPU搭載ノートPCでのAI生成実機レビュー)</description>
 </item>
 <item>
+<title>Improving navigation experience in v0 with Next.js 16.4</title>
+<link>https://nextjs.org/blog/improving-navigation-experience-in-v0-with-nextjs-16-4</link>
+<guid isPermaLink="true">https://nextjs.org/blog/improving-navigation-experience-in-v0-with-nextjs-16-4</guid>
+<pubDate>Fri, 16 Oct 2026 15:00:00 +0000</pubDate>
+<category>Next.js Blog</category>
+<description>How we used Partial Prefetching and a coding agent to improve navigation across v0 with Next.js 16.4. — Next.js Blog / score: 60 (Next.jsの新機能とナビゲーション改善事例)</description>
+</item>
+<item>
 <title>ゲーミングPCが最大18万7000円引き・送料無料！ パソコンショップSEVENの10月17日限定セール</title>
 <link>https://ascii.jp/elem/000/004/442/4442682/?rss</link>
 <guid isPermaLink="true">https://ascii.jp/elem/000/004/442/4442682/?rss</guid>
@@ -77,6 +117,14 @@
 <pubDate>Fri, 16 Oct 2026 14:49:11 +0000</pubDate>
 <category>iPhone Mania</category>
 <description>タッチ操作に対応した有機EL（OLED）搭載の新型MacBook Proは、現地時間10月27日か28日に発表され、11月6日（金）に発売される可能性があります。価格や日本での発売日は未発表です。発表から発売までの日数や […] — iPhone Mania / score: 45 (タッチ対応MacBook Proの発売日に関する噂)</description>
+</item>
+<item>
+<title>TimeTreeはいかに国内外でアプリをグロースしていったのか―ad:tech tokyo 2024参加レポート（2）｜Moloco Japan</title>
+<link>https://note.com/moloco_japan/n/nacafc9a89df2</link>
+<guid isPermaLink="true">https://note.com/moloco_japan/n/nacafc9a89df2</guid>
+<pubDate>Fri, 16 Oct 2026 14:30:05 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>こんにちは！ Molocoです。「ad:tech tokyo 2024」のMolocoブースで開催したオリジナルセッションレポート第2弾です。アプリビジネスを営む方の最大の課題は「サービスの価値をいかに向上し、グロースさせていくか」という点に尽きると思います。そこでオリジナルセッションでは、2024年4月には全世界登録ユーザー数5500... — はてなブックマーク テクノロジー / score: 35 (アドテクイベントのアプリ成長に関する事例紹介)</description>
 </item>
 <item>
 <title>結局こういうのがいい。ヘインズの新作「SWEATS KURO」を使い倒してみた</title>
@@ -479,6 +527,14 @@
 <description> — Yahoo!ニュース IT / score: 65 (キャリアでの緊急地震速報配信トラブル)</description>
 </item>
 <item>
+<title>AIエージェントの危険な操作を別のAIが検出してブロックする「Armor」をOpenRouterがリリース</title>
+<link>https://gigazine.net/news/20261016-openrouter-armor/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261016-openrouter-armor/</guid>
+<pubDate>Fri, 16 Oct 2026 10:25:01 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>複数のAIモデルを利用できるサービス「OpenRouter」が、AIエージェントによる危険なツールの実行を防ぐ新機能「Armor」をリリースしました。ArmorはAIエージェントが実行しようとする操作を別のAIモデルで事前にチェックし、設定されたルールに違反する操作を自動的にブロックする機能です。記事作成時点ではベータ版と... — はてなブックマーク テクノロジー / score: 70 (AIエージェントの安全性を高める新機能のリリース)</description>
+</item>
+<item>
 <title>10月30日以降にFacebook・Instagram・WhatsAppを利用する企業アカウントはMetaが自社のウェブサイトをスクレイピングすることに同意したものとみなされる</title>
 <link>https://gigazine.net/news/20261016-meta-scraping/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261016-meta-scraping/</guid>
@@ -557,14 +613,6 @@
 <pubDate>Fri, 16 Oct 2026 09:51:02 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>Linux カーネルのネットワーク機能におけるページキャッシュの上書きが可能となるデータ検証不備の脆弱性（Scan Tech Report） | ScanNetSecurity 2026 年 5 月に修正された Linux カーネルの脆弱性を悪用するエクスプロイトコードが公開されています。 — はてなブックマーク テクノロジー / score: 90 (Linuxカーネルのネットワーク機能における脆弱性)</description>
-</item>
-<item>
-<title>AIエージェントの危険な操作を別のAIが検出してブロックする「Armor」をOpenRouterがリリース</title>
-<link>https://gigazine.net/news/20261016-openrouter-armor/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261016-openrouter-armor/</guid>
-<pubDate>Fri, 16 Oct 2026 09:51:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>複数のAIモデルを利用できるサービス「OpenRouter」が、AIエージェントによる危険なツールの実行を防ぐ新機能「Armor」をリリースしました。ArmorはAIエージェントが実行しようとする操作を別のAIモデルで事前にチェックし、設定されたルールに違反する操作を自動的にブロックする機能です。記事作成時点ではベータ版として提供されています。 続きを読む... — GIGAZINE / score: 70 (AIエージェントの安全性を高める新機能のリリース)</description>
 </item>
 <item>
 <title>【重要】本人確認書類画像の第三者閲覧の可能性について（Snapmart） | Snapmart（スナップマート）公式ブログ</title>
@@ -757,54 +805,6 @@
 <pubDate>Fri, 16 Oct 2026 08:24:59 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>2026年10月16日 NTTソルマーレ株式会社 この度、当社の電子書籍ストア『コミックシーモア』に対し、第三者による不正アクセスが行われ、『コミックシーモア』に会員登録いただいている一部のお客様の会員情報が流出したことが判明いたしました。 なお、クレジットカード情報や購入履歴の流出、MY本棚の流出・消失・欠損... — はてなブックマーク テクノロジー / score: 85 (コミックシーモアの重大な情報流出インシデント)</description>
-</item>
-<item>
-<title>iPhone自動更新オンでも旧OSだった！更新状況の確認方法</title>
-<link>https://iphone-mania.jp/ios-607520/</link>
-<guid isPermaLink="true">https://iphone-mania.jp/ios-607520/</guid>
-<pubDate>Fri, 16 Oct 2026 08:24:38 +0000</pubDate>
-<category>iPhone Mania</category>
-<description>「自動アップデートをオンにしているから大丈夫」と思っていませんか。 iPhone15 Proで確認したところ、「自動アップデート」がオンで、詳細画面の「自動インストール」もオンになっていましたが、OSはiOS26.6.2 […] — iPhone Mania / score: 45 (iOSの自動アップデートの挙動と確認方法の解説)</description>
-</item>
-<item>
-<title>日経新聞 個人情報が183万件流出</title>
-<link>https://news.yahoo.co.jp/pickup/6599004?source=rss</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6599004?source=rss</guid>
-<pubDate>Fri, 16 Oct 2026 08:13:11 +0000</pubDate>
-<category>Yahoo!ニュース IT</category>
-<description> — Yahoo!ニュース IT / score: 80 (180万件の大規模な個人情報流出インシデント)</description>
-</item>
-<item>
-<title>日経新聞、不正アクセスで183万件の個人情報流出　開発用クラウドの認証情報盗まれ</title>
-<link>https://www.itmedia.co.jp/news/article/2610/16/2000002337/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/16/2000002337/</guid>
-<pubDate>Fri, 16 Oct 2026 08:11:47 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>日本経済新聞社は10月16日、システム開発に使っているクラウドサービスが不正アクセスを受け、約183万件の個人情報が流出したと発表した。クラウドにアクセスするための認証情報が何らかの方法で盗まれたという。 不正アクセスは7日未明から朝にかけて発生。流出したのは、氏名、メールアドレス、住所、電話番号、生年月... — はてなブックマーク テクノロジー / score: 85 (クラウド認証情報奪取による大規模情報流出)</description>
-</item>
-<item>
-<title>Sakana AI、「The AI Scientist」の第3世代を公開 ——複数エージェントで仮説検証から論文執筆まで、図生成ツール「AutoIllustrate」もオープンソース化</title>
-<link>https://gihyo.jp/article/2026/10/the-agentic-scientist-v3?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/10/the-agentic-scientist-v3?utm_source=feed</guid>
-<pubDate>Fri, 16 Oct 2026 08:08:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Sakana AIは2026年10月15日、科学研究を自動化するThe AI Scientistの第3世代「The Agentic Scientist」を公開した。 — gihyo.jp / score: 80 (Sakana AIによる科学研究自動化AI第3世代の公開)</description>
-</item>
-<item>
-<title>フルーティーなマスカットが甘酸っぱいカルピスと組み合わさって爽やかな「カルピスソーダエメラルドマスカット」試飲レビュー</title>
-<link>https://gigazine.net/news/20261016-calpis-muscat/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261016-calpis-muscat/</guid>
-<pubDate>Fri, 16 Oct 2026 08:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>おなじみのカルピスソーダにマスカット果汁を加えたという「カルピスソーダエメラルドマスカット」が、2026年10月13日(火)に期間限定で登場しました。マスカットの芳醇(ほうじゅん)な香りとカルピスの甘酸っぱさが楽しめる炭酸飲料になっているとのことで、どんな味になっているのか実際に飲んで確かめました。 続きを読む... — GIGAZINE / score: 10 (新商品の清涼飲料水の試飲レビュー記事)</description>
-</item>
-<item>
-<title>Comu Action Pro、徹底的に使ってみたら感謝と要望があふれでた</title>
-<link>https://www.gizmodo.jp/article/comu-action-pro/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/comu-action-pro/</guid>
-<pubDate>Fri, 16 Oct 2026 08:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>僕たちは、もう「Comu Action Pro」の虜です。スマートフォンにマグネットで装着しながら、いつでも気軽に使えるAIボイスレコーダー「Comulytic Note Pro」の後継機として、今年装い新たに登場した「Comu Actio… — ギズモード・ジャパン / score: 45 (AIボイスレコーダーの新製品ガジェットレビュー)</description>
 </item>
 </channel>
 </rss>
