@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 16 Oct 2026 04:11:05 +0000</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 06:15:28 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[98] 「GitLab」にまたも緊急パッチ、CVSS基本値「10.0」の脆弱性に対処／認証なしでサーバー上で任意のコードを実行されるおそれ</title>
@@ -21,14 +21,6 @@
 <pubDate>Thu, 15 Oct 2026 13:22:05 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>データ転送ライブラリ「curl」に特定の条件でリモートからコードを実行される脆弱性／深刻度Highを含む24件の脆弱性を修正したv8.23.0が公開 — はてなブックマーク テクノロジー / score: 95 (curlの深刻度Highを含む複数脆弱性の修正)</description>
-</item>
-<item>
-<title>[95] ソースネクスト、顧客情報2252万件流出か　不正アクセス受け - 日本経済新聞</title>
-<link>https://www.nikkei.com/article/DGXZQOUC15AOL0V11C26A0000000/</link>
-<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUC15AOL0V11C26A0000000/</guid>
-<pubDate>Thu, 15 Oct 2026 10:58:30 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>ソースネクストは15日、第三者による不正アクセスを受け同社が保有する顧客情報2252万件が流出した可能性があると発表した。すでに対策は講じ、不正な通信の遮断や監視を続けているという。9日午前に顧客管理システムに対して会員情報取得が不正に行われ、登録している会員情報が取得された。13日午前に不正アクセスを確... — はてなブックマーク テクノロジー / score: 95 (ソースネクストの大規模情報流出インシデント)</description>
 </item>
 <item>
 <title>[95] 「Google Chrome 155」にセキュリティ更新、「Critical」7件を含む37件の脆弱性を修正／Windows/Mac向けはv155.0.8059.79/.80、Linux向けはv155.0.8059.79</title>
@@ -63,6 +55,14 @@
 <description>JavaScriptランタイム「Deno」の開発元であるDeno LandとCloudflareは、Deno LandがCloudflareに合流すると発表しました。CloudflareによるDeno Landの買収と見られます（Deno ... — Publickey / score: 95 (Deno開発終了とCloudflare合流の重大なニュース)</description>
 </item>
 <item>
+<title>[90] ヤマト運輸、顧客情報約526万件が流出　代金後払いサービスへの不正アクセスで</title>
+<link>https://ascii.jp/elem/000/004/443/4443352/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/443/4443352/?rss</guid>
+<pubDate>Fri, 16 Oct 2026 05:50:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>ヤマト運輸は10月16日、「クロネコ代金後払いサービス」への不正アクセスに関する調査結果を公表した。 — ASCII.jp / score: 90 (ヤマト運輸の大規模顧客情報流出インシデント)</description>
+</item>
+<item>
 <title>[90] ネット広告を表示するだけでスパイウェアに感染するゼロクリック攻撃「AdFection」が確認される、イスラエルの広告企業が仕掛けていた攻撃の手口とは？</title>
 <link>https://gigazine.net/news/20261016-adfection/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261016-adfection/</guid>
@@ -87,20 +87,12 @@
 <description>流出した可能性がある情報は、メールアドレス、パスワード、氏名、氏名カナ、住所、性別、電話番号、FAX番号、生年月日、会社名、役職名、部署名、システム固有の識別情報（加入サービス・登録日・ログイン日など）。対象項目は登録状況により異なる。クレジットカード情報は対象システムに保存しておらず、流出の対象に... — はてなブックマーク テクノロジー / score: 90 (ソースネクストの大量個人情報漏えい詳細)</description>
 </item>
 <item>
-<title>[90] NTTソルマーレの「コミックシーモア」閲覧停止に　不正アクセスか - 日本経済新聞</title>
-<link>https://www.nikkei.com/article/DGXZQOUC15CEQ0V11C26A0000000/</link>
-<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUC15CEQ0V11C26A0000000/</guid>
-<pubDate>Thu, 15 Oct 2026 22:05:36 +0000</pubDate>
+<title>[90] ソースネクスト、不正アクセスでパスワード含む会員の個人情報最大約2252万件が流出　他サービスで同じパスワードを使っている人はただちに変更を</title>
+<link>https://internet.watch.impress.co.jp/docs/news/2148588.html</link>
+<guid isPermaLink="true">https://internet.watch.impress.co.jp/docs/news/2148588.html</guid>
+<pubDate>Thu, 15 Oct 2026 21:12:32 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>NTTソルマーレの「コミックシーモア」閲覧停止に 不正アクセスか - 日本経済新聞 電子書籍ストア「コミックシーモア」を運営するNTTソルマーレは15日、コミックシーモアのサーバーが外部から不正アクセスを受けた可能性が高いと発表し — はてなブックマーク テクノロジー / score: 90 (大規模サービスにおけるサーバー不正アクセス停止)</description>
-</item>
-<item>
-<title>[90] 「コミックシーモア」がサービス停止 不正アクセスか | NHKニュース</title>
-<link>https://news.web.nhk/newsweb/na/nd-20261015de60114</link>
-<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261015de60114</guid>
-<pubDate>Thu, 15 Oct 2026 14:49:26 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>漫画を中心とした電子書籍を配信する「コミックシーモア」は、外部からの不正なアクセスが行われた可能性が高いとして、原因究明のためサービスを停止したと15日夜に発表しました。 15日夜、漫画を中心とし… — はてなブックマーク テクノロジー / score: 90 (大規模サービス停止を伴う不正アクセス)</description>
+<description>ソースネクスト、不正アクセスでパスワード含む会員の個人情報最大約2252万件が流出 他サービスで同じパスワードを使っている人はただちに変更を — はてなブックマーク テクノロジー / score: 90 (大規模な個人情報流出と脆弱性インシデント)</description>
 </item>
 <item>
 <title>[90] Next.js Security Update for Upstream Vulnerabilities</title>
@@ -167,12 +159,12 @@
 <description>GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly. — OpenAI News / score: 90 (主要AIの次世代メジャーリリースと新UIの発表)</description>
 </item>
 <item>
-<title>[85] パナソニック、ドラム式洗濯乾燥機およそ62万台リコール　火災事故が発生</title>
-<link>https://ascii.jp/elem/000/004/443/4443250/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/443/4443250/?rss</guid>
-<pubDate>Fri, 16 Oct 2026 03:20:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>パナソニックは10月15日、同社の一部のドラム式電気洗濯乾燥機で火災事故が発生したことを受け、当該製品のリコールを発表した。 — ASCII.jp / score: 85 (家電製品の大規模リコールと安全性情報)</description>
+<title>[85] 「Apache OpenOffice 4.1.17」が公開、緊急のコード実行脆弱性「CVE-2026-59265」に対処／約11カ月ぶりのアップデート、Pythonマクロも強化</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2148601.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2148601.html</guid>
+<pubDate>Fri, 16 Oct 2026 05:30:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>The Apache Software Foundation（ASF）は10月14日、「Apache OpenOffice 4.1.17」を公開した。セキュリティと不具合修正のためのリリースで、v4.1.16以前を利用しているすべてのユーザーにアップグレードが推奨されている。 — 窓の杜 / score: 85 (Apache OpenOfficeの緊急コード実行脆弱性修正)</description>
 </item>
 <item>
 <title>[85] 「『楽天カード公式』から詐欺メール」報告相次ぐ　ドコモメールに公式マーク付きフィッシング、一部企業の認証設定に脆弱性</title>
@@ -399,14 +391,6 @@
 <description>連日の情報漏洩により、世間は何かと騒がしいものですが、やっぱりみんな心配なようで、お仕事をしていると「うちは大丈夫なのか」とお問い合わせがやみません。 「これ、どういうつくりになってるんだっけ？ 外部にデータ保存してましたっけ？」なーんてね……。 10月9日に、IPA（基本技術者情報試験とかやってる組織）... — はてなブックマーク テクノロジー / score: 80 (セキュリティ対策に関する実践的な点検レポート)</description>
 </item>
 <item>
-<title>[80] OpenAIやGoogleの画像生成AIは簡単に騙されてヌード画像を生成してしまうと研究者が指摘</title>
-<link>https://gigazine.net/news/20261015-rise-ai-image-nude/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261015-rise-ai-image-nude/</guid>
-<pubDate>Thu, 15 Oct 2026 06:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>セキュリティ研究企業のWhite Circleが、OpenAIやGoogleの画像生成AIの安全対策を回避し、性的な画像などを生成させる新たな攻撃手法「RISE」を発表しました。検証では、OpenAIのDALL·E 3やGoogleのNano Banana 2などで安全対策の回避に成功したほか、より新しいモデルでは攻撃成功率がさらに高くなることが確認されています。 続きを読む... — GIGAZINE / score: 80 (画像生成AIの安全対策回避に関するセキュリティ研究)</description>
-</item>
-<item>
 <title>[80] Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta</title>
 <link>https://huggingface.co/blog/meta-muse-spark-open</link>
 <guid isPermaLink="true">https://huggingface.co/blog/meta-muse-spark-open</guid>
@@ -519,22 +503,6 @@
 <description>Black Forest Labsが画像生成AI「FLUX 3 Image Klein」を現地時間の2026年10月15日にオープンモデルとして公開しました。オープンモデルの中では最高峰の性能を備えつつ、ゲーミングPCで実用的な速度で実行できる軽量さも両立しています。 続きを読む... — GIGAZINE / score: 75 (高性能なオープン画像生成モデルの登場)</description>
 </item>
 <item>
-<title>[75] 黒塗りPDFからの情報漏洩、請求書の改ざん、悪意のあるPDF　高いセキュリティでPDFを活用する方法</title>
-<link>https://ascii.jp/elem/000/004/443/4443009/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/443/4443009/?rss</guid>
-<pubDate>Fri, 16 Oct 2026 03:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>アドビは2026年10月6日、オンライン記者説明会「AI時代のセキュアなPDF活用」を実施。実際のトラブルやAcrobatのデモを交え、PDFの受信・送信時に必要な対策とAI機能の安全性を解説した。 — ASCII.jp / score: 75 (PDFのセキュリティ対策と脆弱性に関する重要情報)</description>
-</item>
-<item>
-<title>[75] Anthropic、METRの評価チームを社内に常駐させ“従業員並み”のアクセス付与　公表に拒否権なし</title>
-<link>https://www.itmedia.co.jp/news/article/2610/16/2000002315/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/16/2000002315/</guid>
-<pubDate>Fri, 16 Oct 2026 01:09:06 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>米Anthropicは10月15日（現地時間）、AIモデルを評価する米非営利団体METRのチームに、従業員並みのアクセス権限を与え始めたと発表した。ダリオ・アモデイCEOが9月のエッセイ「We Must Pace the Frontier」で打ち出した「常駐評価者」構想を具体化した。 METRのスタッフ6人に、同社の端末とオフィススペースを提供し、... — はてなブックマーク テクノロジー / score: 75 (AI安全性評価チームの社内常駐化に関する試み)</description>
-</item>
-<item>
 <title>[75] 有名 OSS が PR を閉じはじめた。何が起きていて、どう向き合うか</title>
 <link>https://zenn.dev/hand_dot/articles/ecb391d4322330</link>
 <guid isPermaLink="true">https://zenn.dev/hand_dot/articles/ecb391d4322330</guid>
@@ -573,6 +541,14 @@
 <pubDate>Thu, 15 Oct 2026 16:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>The open-source Temporal execution platform is rapidly becoming a foundational layer of modern software infrastructure — especially for orchestration in distributed systems and AI agent workloads. However, deploying and scaling workers in Temporal comes with unique challenges. Workers poll for tasks instead of serving requests, so request-driven serverless platforms can be an awkward fit. This often results in running worker fleets on Kubernetes or VMs, which you have to manage and pay for conti — Google Cloud Blog / score: 75 (分散処理基盤とサーバーレスの重要なインフラ連携)</description>
+</item>
+<item>
+<title>[75] 「日本のトイレがウェブから切り離されててよかった」サイバー攻撃が相次ぐことでネットワーク接続可能な家電への懸念が高まる「アプリ接続の機種あるぞ」</title>
+<link>https://togetter.com/li/2758514</link>
+<guid isPermaLink="true">https://togetter.com/li/2758514</guid>
+<pubDate>Thu, 15 Oct 2026 12:34:55 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>サイバー攻撃で複数の大手スーパーの冷蔵・冷凍施設が最大50℃に フランス｜FNNプライムオンライン フランス各地のスーパーで、冷蔵・冷凍設備を狙った大規模なサイバー攻撃が発生し、少なくとも300店舗で食品の廃棄や火災の被害が出ています。パリ市内のスーパーの冷凍庫からは陳列棚から商品が撤去され、売り… 29 user... — はてなブックマーク テクノロジー / score: 75 (IoT家電を狙うサイバー攻撃の脅威)</description>
 </item>
 <item>
 <title>[75] [AINews] Modal’s $1B ARR, $16B Series D makes it NYC’s newest AI Infra Decacorn, 3x usage and 3x valuation in 5 months, 15x in 1 yr</title>
@@ -805,6 +781,30 @@
 <pubDate>Wed, 07 Oct 2026 14:00:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>AWS now offers Claude Haiku 5.5, the fastest and most efficient model in the Claude 5.5 family, built for subagents and high-volume, cost-sensitive work. According to Anthropic, it costs around 75% less than Claude Haiku 4.5 for most tasks. Claude Haiku 5.5 is Anthropic's most capable Haiku yet, a significant step up from Haiku 4.5 across coding, tool use, computer use, and agents. It's also the first Haiku with effort controls, so teams can tune cost against intelligence for each task. Haiku 5. — AWS What's New / score: 75 (主要クラウドにおける新型LLMモデルの提供開始)</description>
+</item>
+<item>
+<title>[75] HashiCorp Packer 1.16、マシンイメージ向けにSLSA Provenanceのネイティブ生成・検証機能を追加</title>
+<link>https://www.infoq.com/jp/news/2026/10/hashicorp-packer-verification/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+<guid isPermaLink="true">https://www.infoq.com/jp/news/2026/10/hashicorp-packer-verification/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+<pubDate>Wed, 07 Oct 2026 09:30:00 +0000</pubDate>
+<category>InfoQ Japan</category>
+<description>HashiCorpはPacker v1.16.0をリリースした。これにより、Packerが構築するすべてのイメージに対して、SLSAProvenanceアテステーションの生成、署名、検証をネイティブにサポートする。今回のリリースは、マシンイメージがどのように作成されたかを示す、安全で改ざん耐性のある記録をチームに提供する。追加のサプライチェーンツールを必要とせずに実現できる点も特徴だ。これは、これまでSLSAスタイルのアテステーションでほとんど見過ごされてきたインフラ領域のギャップに対応するものとなる。 By Claudio Masolo Translated by Naoko Koshimura — InfoQ Japan / score: 75 (HashiCorp PackerのSLSA対応強化)</description>
+</item>
+<item>
+<title>[75] Google、スマートフォンで動くマルチモーダル埋め込みモデル「EmbeddingGemma 2」を公開</title>
+<link>https://gihyo.jp/article/2026/10/embeddinggemma-2?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/10/embeddinggemma-2?utm_source=feed</guid>
+<pubDate>Wed, 07 Oct 2026 05:39:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Googleは2026年10月6日、スマートフォンやPC上で動作する埋め込みモデル「EmbeddingGemma 2」を公開した。 — gihyo.jp / score: 75 (Googleのエッジ向けマルチモーダル埋め込みモデル公開)</description>
+</item>
+<item>
+<title>[75] Next.js 16.4</title>
+<link>https://nextjs.org/blog/next-16-4</link>
+<guid isPermaLink="true">https://nextjs.org/blog/next-16-4</guid>
+<pubDate>Tue, 06 Oct 2026 20:00:00 +0000</pubDate>
+<category>Next.js Blog</category>
+<description>Next.js 16.4 introduces lazy compilation, smaller Turbopack output, React 19.3 features, Cache Components improvements, and new developer tooling. — Next.js Blog / score: 75 (主要Webフレームワークのマイナーリリースと新機能)</description>
 </item>
 </channel>
 </rss>
