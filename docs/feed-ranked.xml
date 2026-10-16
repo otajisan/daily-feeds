@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 16 Oct 2026 20:08:34 +0000</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 22:10:04 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[98] 「GitLab」にまたも緊急パッチ、CVSS基本値「10.0」の脆弱性に対処／認証なしでサーバー上で任意のコードを実行されるおそれ</title>
@@ -21,6 +21,14 @@
 <pubDate>Fri, 16 Oct 2026 12:52:22 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Googleは10月15日（現地時間）、デスクトップ向け「Google Chrome」の安定（Stable）チャネルをアップデートした。今後数日から数週間をかけて、Windows/Mac環境にはv155.0.8059.84/.85、Linux環境にはv155.0.8059.84が展開される。 — 窓の杜 / score: 95 (Critical級を含むChromeの緊急セキュリティアップデート)</description>
+</item>
+<item>
+<title>[95] CVE-2026-99999（PwnEscape）を読み解く──「KVMの脆弱性」ではなく、Linuxネットワークスタックの脆弱性</title>
+<link>https://qiita.com/k2_naka/items/fa87685231377f15e7e3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/k2_naka/items/fa87685231377f15e7e3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Fri, 16 Oct 2026 12:48:39 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>工程 担当 課題提示・取捨選択・内容チェック 筆者 原案作成・編成 Claude Fable 5.1 事実検証（検証メモ） GPT-6 Astra 一次資料照合・最終稿 Claude Fable 5.1 本稿は筆者個人の分析であり、所属組織や... — Qiita 人気記事 / score: 95 (LinuxネットワークスタックとKVMに関する深刻な脆弱性の詳細な解説)</description>
 </item>
 <item>
 <title>[95] PwnEscape: Guest-to-Host KVM Escape (CVE-2026-99999)</title>
@@ -93,6 +101,14 @@
 <pubDate>Fri, 16 Oct 2026 11:45:38 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>さまざまなインターネットショッピングのサイトに使われるシステムを運営している「Eストアー」は、ことし8月に発覚した不正アクセスの影響について、16日、調査の結果を公表し、サイトを利用した顧客の名前や住… — はてなブックマーク テクノロジー / score: 90 (大規模な個人情報流出インシデントの公式発表)</description>
+</item>
+<item>
+<title>[90] 個人情報漏えい のべ1億6500万人分余に 利用者の対策は? | NHKニュース</title>
+<link>https://news.web.nhk/newsweb/na/nd-20261016de60239</link>
+<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261016de60239</guid>
+<pubDate>Fri, 16 Oct 2026 10:02:49 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>2026年、不正アクセスで漏えいした可能性がある個人情報が、のべ1億6500万人分余りにのぼっていることがセキュリティー会社のまとめで分かりました。 セキュリティー会社の「マクニカ」は、企業などが… — はてなブックマーク テクノロジー / score: 90 (1億6500万人分余りの個人情報漏えいという非常に重大なセキュリティインシデント)</description>
 </item>
 <item>
 <title>[90] 【重要】Linuxカーネルの脆弱性（CVE-2026-99999）に関する当社サービスへの影響について | さくらインターネット</title>
@@ -229,14 +245,6 @@
 <pubDate>Fri, 16 Oct 2026 07:07:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>JPCERT/CCは2026年10月15日、国内で相次ぐ不正アクセスを受けて進めている攻撃元サーバーの調査結果を公開した。 — gihyo.jp / score: 85 (API攻撃の手口と脆弱性に関する重要な注意喚起)</description>
-</item>
-<item>
-<title>[85] 人気Web制作ツール「Studio」全ユーザーの情報漏えいか　フォームに送信された内容、外部APIキーなども</title>
-<link>https://www.itmedia.co.jp/news/article/2610/16/2000002332/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/16/2000002332/</guid>
-<pubDate>Fri, 16 Oct 2026 06:12:06 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>第三者がデータを取得した事実は確認できていないが、取得されたものとみなして対応を進めている。 脆弱性を突かれ不正アクセス、発覚・対処まで約2週間 Studioは、ノーコードでWebサイトを構築できるプラットフォームで、スタートアップや中小企業のコーポレートサイトを中心に広く使われており、ユーザー数は90万人以... — はてなブックマーク テクノロジー / score: 85 (主要なWeb制作ツールにおける大規模な情報漏えい疑惑)</description>
 </item>
 <item>
 <title>[85] 「Apache OpenOffice 4.1.17」が公開、緊急のコード実行脆弱性「CVE-2026-59265」に対処／約11カ月ぶりのアップデート、Pythonマクロも強化</title>
@@ -735,6 +743,14 @@
 <description>米Microsoftは10月13日（現地時間）、Windows 11で新たな問題が報告されていることを明らかにした。2026年9月のプレビュー更新プログラム（KB5124010）およびそれ以降を適用した環境で、リモートデスクトップ接続に失敗することがあるという。 — 窓の杜 / score: 75 (Windows 11リモートデスクトップ接続問題)</description>
 </item>
 <item>
+<title>[75] 【2026年10月 最新版】AIモデル徹底比較 | GPT-6.1 Sol  / Claude Opus 5.5  / Claude Sonnet 5.5 / Gemini 4 Argon</title>
+<link>https://qiita.com/nuco_d/items/9d4f86c185dda6fd24a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/nuco_d/items/9d4f86c185dda6fd24a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Wed, 14 Oct 2026 02:48:28 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>はじめに 本記事では、Gemini 4 Argon、GPT-6.1 Sol、Claude Opus 5.5、Claude Sonnet 5.5 の4モデルを、スペック・公式ベンチマーク・料金の3つの観点で比較します。 記載している数値は、すべて2026年10月13日時点の... — Qiita 人気記事 / score: 75 (最新AIモデルのスペックとベンチマーク比較)</description>
+</item>
+<item>
 <title>[75] Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection</title>
 <link>https://deepmind.google/blog/on-device-ai-scam-detection-mddi/</link>
 <guid isPermaLink="true">https://deepmind.google/blog/on-device-ai-scam-detection-mddi/</guid>
@@ -789,22 +805,6 @@
 <pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live. — OpenAI News / score: 75 (AI動画生成の長尺化に関する大型ニュース)</description>
-</item>
-<item>
-<title>[75] Amazon EMR now supports native data quality checks in Apache Spark jobs</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-emr-data-quality-spark/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-emr-data-quality-spark/</guid>
-<pubDate>Mon, 12 Oct 2026 07:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Amazon EMR now validates data quality natively within Apache Spark jobs. Data engineering teams can catch quality issues inline before bad data reaches downstream systems, without building or maintaining separate validation infrastructure. Amazon EMR Data Quality, powered by AWS Glue, is available at no additional cost and uses the same declarative rules language (Data Quality Definition Language) and APIs as AWS Glue for a consistent experience across both engines, and works with Apache Iceberg — AWS What's New / score: 75 (EMRでのSparkデータ品質チェック機能追加)</description>
-</item>
-<item>
-<title>[75] Java - The Year of the Runtime!</title>
-<link>https://inside.java/2026/10/11/devoxxbelgium-runtime-year-keynote/</link>
-<guid isPermaLink="true">https://inside.java/2026/10/11/devoxxbelgium-runtime-year-keynote/</guid>
-<pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
-<category>Inside Java</category>
-<description>As AI coding agents make language syntax less central, runtime performance and operability become increasingly important. This keynote explores why Java’s JVM and standard library are well suited to this shift: newer JDKs continually improve performance, observability, garbage collection, and usability while preserving the programming model, with major innovations underway in Projects Valhalla, Leyden, and Lilliput. — Inside Java / score: 75 (AI時代におけるJavaランタイムの重要性と将来性)</description>
 </item>
 </channel>
 </rss>
