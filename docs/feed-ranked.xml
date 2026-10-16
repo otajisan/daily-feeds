@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 16 Oct 2026 10:10:41 +0000</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 12:13:52 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[98] 「GitLab」にまたも緊急パッチ、CVSS基本値「10.0」の脆弱性に対処／認証なしでサーバー上で任意のコードを実行されるおそれ</title>
@@ -13,6 +13,14 @@
 <pubDate>Tue, 13 Oct 2026 07:57:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米GitLabは10月12日（現地時間）、「GitLab」の緊急パッチ v19.4.2、v19.3.5、v19.2.8 をリリースした。「Community Edition」（CE）と「Enterprise Edition」（EE）が対象で、計24件の脆弱性が修正されている。同社は、自分で運用しているすべての「GitLab」を、ただちにこれらのバージョンへアップグレードするよう強く推奨している。 — 窓の杜 / score: 98 (GitLabのCVSS 10.0緊急パッチリリース)</description>
+</item>
+<item>
+<title>[95] PwnEscape: Guest-to-Host KVM Escape (CVE-2026-99999)</title>
+<link>https://pwn.ai/blog/pwnescape</link>
+<guid isPermaLink="true">https://pwn.ai/blog/pwnescape</guid>
+<pubDate>Fri, 16 Oct 2026 05:33:07 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>PWNAI Research, Paulos Yibelo··18m18 min read·10,52210,522 views How a $1 million sandbox challenge led us to a vulnerability in Linux networking, repeatable host-memory disclosure, and ultimately a full guest-to-host escape. Part 00: Intro On August 18, 2026, Vercel announced a $1 million challe... — はてなブックマーク テクノロジー / score: 95 (Linuxカーネルの重大なKVM脆弱性詳細)</description>
 </item>
 <item>
 <title>[95] データ転送ライブラリ「curl」に特定の条件でリモートからコードを実行される脆弱性／深刻度Highを含む24件の脆弱性を修正したv8.23.0が公開</title>
@@ -55,6 +63,14 @@
 <description>JavaScriptランタイム「Deno」の開発元であるDeno LandとCloudflareは、Deno LandがCloudflareに合流すると発表しました。CloudflareによるDeno Landの買収と見られます（Deno ... — Publickey / score: 95 (Deno開発終了とCloudflare合流の重大なニュース)</description>
 </item>
 <item>
+<title>[90] 【重要】Linuxカーネルの脆弱性（CVE-2026-99999）に関する当社サービスへの影響について | さくらインターネット</title>
+<link>https://www.sakura.ad.jp/corporate/information/announcements/2026/10/16/1968226051/</link>
+<guid isPermaLink="true">https://www.sakura.ad.jp/corporate/information/announcements/2026/10/16/1968226051/</guid>
+<pubDate>Fri, 16 Oct 2026 09:57:11 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>お客さま各位 平素よりさくらインターネットをご利用いただき、誠にありがとうございます。 Linuxカーネルのネットワーク処理に関する脆弱性（CVE-2026-99999）が公開されました。 本脆弱性については、仮想化環境においてホストシステムへの影響につながる可能性があると報告されています。当社では本脆弱性を認知し、... — はてなブックマーク テクノロジー / score: 90 (Linuxカーネルの重大な脆弱性影響情報)</description>
+</item>
+<item>
 <title>[90] ヤマト運輸 個人情報530万件余の外部流出を確認 | NHKニュース</title>
 <link>https://news.web.nhk/newsweb/na/nd-20261016de60395</link>
 <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261016de60395</guid>
@@ -66,9 +82,9 @@
 <title>[90] ネット広告を表示するだけでスパイウェアに感染するゼロクリック攻撃「AdFection」が確認される、イスラエルの広告企業が仕掛けていた攻撃の手口とは？</title>
 <link>https://gigazine.net/news/20261016-adfection/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261016-adfection/</guid>
-<pubDate>Fri, 16 Oct 2026 01:50:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>オンライン広告を悪用し、ユーザーが広告をクリックしなくても端末をスパイウェアに感染させるゼロクリック攻撃「AdFection」の実態が明らかになりました。カナダ・トロント大学の研究機関であるCitizen Labによると、イスラエルの広告企業が提供するシステムを通じて、国際報道機関のアルジャジーラの端末がAdFectionによる攻撃を受けていたとのことです。 続きを読む... — GIGAZINE / score: 90 (広告を悪用したゼロクリック攻撃の深刻な脅威)</description>
+<pubDate>Fri, 16 Oct 2026 02:07:44 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>オンライン広告を悪用し、ユーザーが広告をクリックしなくても端末をスパイウェアに感染させるゼロクリック攻撃「AdFection」の実態が明らかになりました。カナダ・トロント大学の研究機関であるCitizen Labによると、イスラエルの広告企業が提供するシステムを通じて、国際報道機関のアルジャジーラの端末がAdFectionに... — はてなブックマーク テクノロジー / score: 90 (広告を悪用したゼロクリック攻撃の深刻な脅威)</description>
 </item>
 <item>
 <title>[90] 【重要】不正アクセスによる情報流出に関するお詫びとお願い（第一報） | 最新情報 | Studio</title>
@@ -77,14 +93,6 @@
 <pubDate>Fri, 16 Oct 2026 01:45:58 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>【重要】不正アクセスによる情報流出に関するお詫びとお願い（第一報）弊社が利用するクラウド環境への第三者による不正アクセスにより、お客様の情報が外部に流出した可能性があることが判明しました。不正アクセスに利用された経路はすでに塞いでおります。経緯と、お客様にお願いしたいご対応をお知らせします。 平素... — はてなブックマーク テクノロジー / score: 90 (クラウド環境への不正アクセスによる情報流出)</description>
-</item>
-<item>
-<title>[90] 「セキュリティソフトも売ってるのに」ソースネクスト会員情報漏えい、パスワード含む最大2252万件　API不正利用される</title>
-<link>https://www.itmedia.co.jp/news/article/2610/16/2000002312/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/16/2000002312/</guid>
-<pubDate>Thu, 15 Oct 2026 22:45:27 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>流出した可能性がある情報は、メールアドレス、パスワード、氏名、氏名カナ、住所、性別、電話番号、FAX番号、生年月日、会社名、役職名、部署名、システム固有の識別情報（加入サービス・登録日・ログイン日など）。対象項目は登録状況により異なる。クレジットカード情報は対象システムに保存しておらず、流出の対象に... — はてなブックマーク テクノロジー / score: 90 (ソースネクストの大量個人情報漏えい詳細)</description>
 </item>
 <item>
 <title>[90] Next.js Security Update for Upstream Vulnerabilities</title>
@@ -101,14 +109,6 @@
 <pubDate>Tue, 13 Oct 2026 16:00:00 +0000</pubDate>
 <category>Google AI Blog</category>
 <description>We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model. — Google AI Blog / score: 90 (Googleの新しい最先端AIモデルGemini 4 Argon)</description>
-</item>
-<item>
-<title>[90] 「Python 3.15」が正式公開 ～UTF-8が標準に、“番兵値”などの新しい言語機能も／実験的な「JIT」コンパイラーも大きく強化</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2147319.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2147319.html</guid>
-<pubDate>Tue, 13 Oct 2026 04:44:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>スクリプト言語「Python」の新しい年次リリース「Python 3.15」が、10月9日（現地時間）に正式リリースされた。「Python 3.14」に続く年次のメジャーアップデートで、1,012人のコントリビューターにより、5,643件のコミットが寄せられた成果だという。 — 窓の杜 / score: 90 (PythonのメジャーリリースでJIT等の大きな進化)</description>
 </item>
 <item>
 <title>[90] v3.15.0</title>
@@ -151,6 +151,14 @@
 <description>GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly. — OpenAI News / score: 90 (主要AIの次世代メジャーリリースと新UIの発表)</description>
 </item>
 <item>
+<title>[85] タイムズカー、退会後も7年間保管していた免許証画像を全削除へ　約660万アカウント分の漏えい受け</title>
+<link>https://www.itmedia.co.jp/news/article/2610/16/2000002346/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/16/2000002346/</guid>
+<pubDate>Fri, 16 Oct 2026 10:18:39 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>駐車場事業などを手掛けるパーク24は10月16日、グループ会社のタイムズモビリティが運営するカーシェアリングサービス「タイムズカー」で、会員登録時に提出された運転免許証などの本人確認書類の画像を、登録確認後すぐに削除するよう社内ルールを変更すると発表した。同サービスでは9月に不正アクセスが発生し、約660... — はてなブックマーク テクノロジー / score: 85 (大規模な個人情報流出とセキュリティ対策変更)</description>
+</item>
+<item>
 <title>[85] 【緊急レポート】2026年、100万件規模の個人情報漏洩が過去最多の10件に急増。― AI時代に企業が備えるべきセキュリティ対策</title>
 <link>https://ascii.jp/elem/000/004/443/4443477/?rss</link>
 <guid isPermaLink="true">https://ascii.jp/elem/000/004/443/4443477/?rss</guid>
@@ -173,6 +181,22 @@
 <pubDate>Fri, 16 Oct 2026 08:24:59 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>2026年10月16日 NTTソルマーレ株式会社 この度、当社の電子書籍ストア『コミックシーモア』に対し、第三者による不正アクセスが行われ、『コミックシーモア』に会員登録いただいている一部のお客様の会員情報が流出したことが判明いたしました。 なお、クレジットカード情報や購入履歴の流出、MY本棚の流出・消失・欠損... — はてなブックマーク テクノロジー / score: 85 (コミックシーモアの重大な情報流出インシデント)</description>
+</item>
+<item>
+<title>[85] 日経新聞社、クラウドサービスへの不正アクセスで約183万件の個人情報漏えい</title>
+<link>https://internet.watch.impress.co.jp/docs/news/2148878.html</link>
+<guid isPermaLink="true">https://internet.watch.impress.co.jp/docs/news/2148878.html</guid>
+<pubDate>Fri, 16 Oct 2026 08:13:29 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>日経新聞社、クラウドサービスへの不正アクセスで約183万件の個人情報漏えい — はてなブックマーク テクノロジー / score: 85 (日経新聞のクラウド不正アクセス被害)</description>
+</item>
+<item>
+<title>[85] 日経新聞、不正アクセスで183万件の個人情報流出　開発用クラウドの認証情報盗まれ</title>
+<link>https://www.itmedia.co.jp/news/article/2610/16/2000002337/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/16/2000002337/</guid>
+<pubDate>Fri, 16 Oct 2026 08:11:47 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>日本経済新聞社は10月16日、システム開発に使っているクラウドサービスが不正アクセスを受け、約183万件の個人情報が流出したと発表した。クラウドにアクセスするための認証情報が何らかの方法で盗まれたという。 不正アクセスは7日未明から朝にかけて発生。流出したのは、氏名、メールアドレス、住所、電話番号、生年月... — はてなブックマーク テクノロジー / score: 85 (クラウド認証情報奪取による大規模情報流出)</description>
 </item>
 <item>
 <title>[85] JPCERT/CC、アプリ解析によるAPI攻撃の手口を報告、Flutter解析ツールの痕跡も ——API認証情報の扱いに注意喚起</title>
@@ -221,14 +245,6 @@
 <pubDate>Thu, 15 Oct 2026 23:00:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 85 (Node.jsの重要なセキュリティリリース予告)</description>
-</item>
-<item>
-<title>[85] タイムズカー情報流出、信用機関に悪用防止要請殺到　クレカ発行に手間 - 日本経済新聞</title>
-<link>https://www.nikkei.com/article/DGXZQOUC084IG0Y6A001C2000000/</link>
-<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUC084IG0Y6A001C2000000/</guid>
-<pubDate>Thu, 15 Oct 2026 21:42:04 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>パーク24のカーシェアサービス「タイムズカー」における免許証画像流出を受け、信用情報機関に悪用防止の届け出が殺到している。クレジットカードの審査を厳格にして、なりすましを防ぐためだ。一方、本人でも発行までに手間がかかる可能性がある。システムへの不正アクセスによってタイムズカーでは約160万件分の免許証... — はてなブックマーク テクノロジー / score: 85 (大規模な個人情報流出と社会的影響の大きさ)</description>
 </item>
 <item>
 <title>[85] AnthropicのBun、TypeScript 7よりも3倍以上高速なTypeScript型チェッカーを搭載。Bunの新バージョン1.4.3で</title>
@@ -383,6 +399,14 @@
 <description>Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production. — OpenAI News / score: 85 (次世代GPT-6ファミリーのモデル選択・活用ガイド)</description>
 </item>
 <item>
+<title>[80] Googleが「魔法状態の培養」を量子プロセッサ「Willow」で実証、量子ビットのエラーを約40分の1に減らすことに成功</title>
+<link>https://gigazine.net/news/20261016-google-quantum-ai-magic-state-cultivation/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261016-google-quantum-ai-magic-state-cultivation/</guid>
+<pubDate>Fri, 16 Oct 2026 11:50:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>Googleの量子コンピューター研究チームであるGoogle Quantum AIが、量子コンピューターの実用化に向けた重要な技術「魔法状態の培養(Magic State Cultivation)」を実証したと発表しました。Googleの量子プロセッサ「Willow」を用いた実験では、従来の方法と比べてエラーを約40分の1に減らすことに成功したとのことです。 続きを読む... — GIGAZINE / score: 80 (量子コンピュータのエラー削減実証実験)</description>
+</item>
+<item>
 <title>[80] 日経新聞 個人情報が183万件流出</title>
 <link>https://news.yahoo.co.jp/pickup/6599004?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6599004?source=rss</guid>
@@ -535,6 +559,14 @@
 <description>Kubernetes version 1.37 introduced several new features and bug fixes, and AWS is excited to announce that you can now use Amazon Elastic Kubernetes Service (EKS) and Amazon EKS Distro to run Kubernetes version 1.37. Starting today, you can create new EKS clusters using version 1.37 and upgrade existing clusters to version 1.37 using the EKS console, the eksctl command line interface, or through an infrastructure-as-code tool. Kubernetes version 1.37 introduces several key improvements, promotin — AWS What's New / score: 80 (Amazon EKSのKubernetes 1.37サポート開始)</description>
 </item>
 <item>
+<title>[75] ドコモ、緊急地震速報を配信できず　システム不具合が原因、解消まで届かない場合も</title>
+<link>https://ascii.jp/elem/000/004/443/4443487/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/443/4443487/?rss</guid>
+<pubDate>Fri, 16 Oct 2026 10:50:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>NTTドコモは10月16日、同日午後0時40分ごろに気象庁が発表した緊急地震速報について、緊急速報「エリアメール」を配信できなかったと発表した。 — ASCII.jp / score: 75 (緊急地震速報の配信システム不具合)</description>
+</item>
+<item>
 <title>[75] 10月30日以降にFacebook・Instagram・WhatsAppを利用する企業アカウントはMetaが自社のウェブサイトをスクレイピングすることに同意したものとみなされる</title>
 <link>https://gigazine.net/news/20261016-meta-scraping/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261016-meta-scraping/</guid>
@@ -551,28 +583,12 @@
 <description> — Yahoo!ニュース IT / score: 75 (組織メールアドレスが悪用された迷惑メール問題)</description>
 </item>
 <item>
-<title>[75] ゲットワークス、大規模GPUクラスタに対応の40フィートコンテナ×4連結のコンテナ型データセンターの本稼働ならびに受注受付を開始。</title>
-<link>https://ascii.jp/elem/000/004/443/4443458/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/443/4443458/?rss</guid>
-<pubDate>Fri, 16 Oct 2026 08:00:13 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>ゲットワークス、大規模GPUクラスタに対応の40フィートコンテナ×4連結のコンテナ型データセンターの本稼働ならびに受注受付を開始。 — ASCII.jp / score: 75 (大規模GPU対応のコンテナ型データセンター稼働。)</description>
-</item>
-<item>
 <title>[75] Meta、オープンウェイトモデル「Muse Spark Open」を公開</title>
 <link>https://gihyo.jp/article/2026/10/muse-spark-open?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/10/muse-spark-open?utm_source=feed</guid>
 <pubDate>Fri, 16 Oct 2026 07:09:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Metaは2026年10月15日、オープンウェイトモデル「Muse Spark Open」を公開した。 — gihyo.jp / score: 75 (Metaによる新オープンウェイトモデルの公開)</description>
-</item>
-<item>
-<title>[75] 米国の8つの州がオープンAIを提訴 “子どもに危険な設計” | NHKニュース</title>
-<link>https://news.web.nhk/newsweb/na/nd-20261016de60299</link>
-<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261016de60299</guid>
-<pubDate>Fri, 16 Oct 2026 03:32:12 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>生成AIの「ChatGPT」が自殺を促すなど子どもにとって危険な設計になっているとして、アメリカの8つの州が「ChatGPT」を開発した「オープンAI」を訴えました。 訴えを起こしたと14日に発表… — はてなブックマーク テクノロジー / score: 75 (OpenAIに対する米8州の集団提訴ニュース)</description>
 </item>
 <item>
 <title>[75] 画像生成・編集モデル「FLUX 3 Image Klein」が登場、5.6BのオープンモデルでゲーミングPCでローカル動作し日本語テキストの描画や位置指定にも対応</title>
@@ -586,9 +602,17 @@
 <title>[75] 有名 OSS が PR を閉じはじめた。何が起きていて、どう向き合うか</title>
 <link>https://zenn.dev/hand_dot/articles/ecb391d4322330</link>
 <guid isPermaLink="true">https://zenn.dev/hand_dot/articles/ecb391d4322330</guid>
-<pubDate>Fri, 16 Oct 2026 00:06:41 +0000</pubDate>
+<pubDate>Thu, 15 Oct 2026 23:00:05 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>2026年に入ってから、有名な OSS が次々と PR を閉じはじめているなぁと感じています。OSS のエコシステムには個人的に興味があるので、少し調べてみました。メモがてら残しておきます。 Hono が外部からの PR を閉じた 10月5日、Hono の yusukebe さんがこう投稿していました。 https://x.com/yusukebe/status/2107027870019445007 But PRs don't work in this era. Contribute in other ways. たしかに。AI スロップ、PR を起点にした脆弱性のニュース、と... — Zenn トレンド / score: 75 (著名OSSにおけるPR受付停止の背景と影響)</description>
+</item>
+<item>
+<title>[75] 論文の矛盾を見つけるAI「Deep Review」、Googleが公開　週2回まで無料</title>
+<link>https://japan.cnet.com/article/35253606/</link>
+<guid isPermaLink="true">https://japan.cnet.com/article/35253606/</guid>
+<pubDate>Thu, 15 Oct 2026 22:48:46 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>2026年に入ってから、有名な OSS が次々と PR を閉じはじめているなぁと感じています。OSS のエコシステムには個人的に興味があるので、少し調べてみました。メモがてら残しておきます。 Hono が外部からの PR を閉じた 10月5日、Hono の yusukebe さんがこう投稿していました。 But PRs don't work in this era. Contri... — はてなブックマーク テクノロジー / score: 75 (著名OSSにおけるPR受付停止の背景と影響)</description>
+<description>Deep Reviewは、文書内の論理の一貫性や数式の正しさを調べ、改善点を提案する。主張を裏付ける根拠を確認したり、既存研究と比較したりすることもできる。論文だけでなく、設計資料に書かれていない前提条件を見つけたり、プレゼン資料の要点がグラフの内容と一致しているかを点検したりする用途も想定する。 仕組みと... — はてなブックマーク テクノロジー / score: 75 (Googleによる論文矛盾検証AIの公開)</description>
 </item>
 <item>
 <title>[75] リーナス・トーバルズがClaude CodeなどのAIをバリバリ活用してLinuxカーネルの改善に取り組み中</title>
@@ -781,30 +805,6 @@
 <pubDate>Sat, 10 Oct 2026 17:16:42 +0000</pubDate>
 <category>Zenn トレンド</category>
 <description>はじめに 2026 年 9 月 30 日、SQLite のソースツリーに ext/vec1/ というディレクトリが追加されました。コミットしたのは FTS5 などでおなじみの Dan Kennedy 氏。コミットメッセージはたった 1 行です。 Import vec1 sources into directory ext/vec1/ of this project. これまで別の場所で開発されていた vec1 が、まるっと SQLite 本体のリポジトリに取り込まれました。本体は vec1.c の 1 ファイルで約 1 万 3 千行。それに 50 ファイル、約 6,700 行のテスト... — Zenn トレンド / score: 75 (SQLite本体へのベクトル検索拡張機能の統合)</description>
-</item>
-<item>
-<title>[75] Anthropic、重要インフラとOSSのサイバー防御を支援するCyber Missionを発表</title>
-<link>https://gihyo.jp/article/2026/10/anthropic-cyber-mission?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/10/anthropic-cyber-mission?utm_source=feed</guid>
-<pubDate>Fri, 09 Oct 2026 10:36:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Anthropicは2026年10月8日、重要インフラとオープンソースソフトウェア（OSS）をサイバー攻撃から守る長期的な取り組み、Anthropic Cyber Missionを発表した。 — gihyo.jp / score: 75 (重要インフラとOSSのサイバー防御支援プログラム)</description>
-</item>
-<item>
-<title>[75] Asana cuts model costs 76x in browser tests with GPT-6.1 Sol</title>
-<link>https://openai.com/index/asana-browser-agent</link>
-<guid isPermaLink="true">https://openai.com/index/asana-browser-agent</guid>
-<pubDate>Fri, 09 Oct 2026 07:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models. — OpenAI News / score: 75 (AIモデル活用による大幅なコスト削減事例)</description>
-</item>
-<item>
-<title>[75] Welcome to Gemini at Work 2026: Introducing the Gemini agent</title>
-<link>https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026/</guid>
-<pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>Editor’s note: This article is adapted from Thomas Kurian’s keynote address at Gemini at Work 2026. It includes a number of announcements: Gemini , a single, universal agent for work that answers your questions, handles your knowledge work, creates your images and media, and writes and runs code. Inline in Workspace , Gemini works directly inside Gmail, Drive, Docs, Slides, Sheets, Chat, and Calendar, carrying the same memory, skills, and controls it has everywhere else. New data and analytics s — Google Cloud Blog / score: 75 (Googleによる汎用ワークエージェントの発表)</description>
 </item>
 </channel>
 </rss>
