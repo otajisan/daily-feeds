@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 16 Oct 2026 12:13:52 +0000</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 14:09:56 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[98] 「GitLab」にまたも緊急パッチ、CVSS基本値「10.0」の脆弱性に対処／認証なしでサーバー上で任意のコードを実行されるおそれ</title>
@@ -13,6 +13,14 @@
 <pubDate>Tue, 13 Oct 2026 07:57:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米GitLabは10月12日（現地時間）、「GitLab」の緊急パッチ v19.4.2、v19.3.5、v19.2.8 をリリースした。「Community Edition」（CE）と「Enterprise Edition」（EE）が対象で、計24件の脆弱性が修正されている。同社は、自分で運用しているすべての「GitLab」を、ただちにこれらのバージョンへアップグレードするよう強く推奨している。 — 窓の杜 / score: 98 (GitLabのCVSS 10.0緊急パッチリリース)</description>
+</item>
+<item>
+<title>[95] 「Google Chrome 155」に再びセキュリティ更新、「Critical」1件を含む10件の脆弱性を修正／Windows/Mac向けはv155.0.8059.84/.85、Linux向けはv155.0.8059.84</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2148608.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2148608.html</guid>
+<pubDate>Fri, 16 Oct 2026 12:52:22 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Googleは10月15日（現地時間）、デスクトップ向け「Google Chrome」の安定（Stable）チャネルをアップデートした。今後数日から数週間をかけて、Windows/Mac環境にはv155.0.8059.84/.85、Linux環境にはv155.0.8059.84が展開される。 — 窓の杜 / score: 95 (Critical級を含むChromeの緊急セキュリティアップデート)</description>
 </item>
 <item>
 <title>[95] PwnEscape: Guest-to-Host KVM Escape (CVE-2026-99999)</title>
@@ -31,7 +39,7 @@
 <description>データ転送ライブラリ「curl」の最新安定版v8.23.0が、10月14日に公開された。全24件の脆弱性を修正したセキュリティアップデートとなっている。 — 窓の杜 / score: 95 (curlの深刻度Highを含む複数脆弱性の修正)</description>
 </item>
 <item>
-<title>[95] 「Google Chrome 155」にセキュリティ更新、「Critical」7件を含む37件の脆弱性を修正／Windows/Mac向けはv155.0.8059.79/.80、Linux向けはv155.0.8059.79</title>
+<title>[95] 「Google Chrome 155」にセキュリティ更新、「Critical」7件を含む37件の脆弱性を修正【10月16日追記】／Windows/Mac向けはv155.0.8059.79/.80、「Microsoft Edge」にも同様の修正</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2147982.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2147982.html</guid>
 <pubDate>Wed, 14 Oct 2026 06:41:00 +0000</pubDate>
@@ -63,12 +71,44 @@
 <description>JavaScriptランタイム「Deno」の開発元であるDeno LandとCloudflareは、Deno LandがCloudflareに合流すると発表しました。CloudflareによるDeno Landの買収と見られます（Deno ... — Publickey / score: 95 (Deno開発終了とCloudflare合流の重大なニュース)</description>
 </item>
 <item>
+<title>[90] ショップサーブの流出 2335万人分</title>
+<link>https://news.yahoo.co.jp/pickup/6599039?source=rss</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6599039?source=rss</guid>
+<pubDate>Fri, 16 Oct 2026 13:04:45 +0000</pubDate>
+<category>Yahoo!ニュース IT</category>
+<description> — Yahoo!ニュース IT / score: 90 (2300万人超の大規模個人情報流出ニュースの報道)</description>
+</item>
+<item>
+<title>[90] 不正アクセスによる個人情報漏えいに関するお知らせ（最終報） | ＥＣサイト構築・ネット通販総合支援の【Ｅストアー】</title>
+<link>https://estore.jp/press/20261016/</link>
+<guid isPermaLink="true">https://estore.jp/press/20261016/</guid>
+<pubDate>Fri, 16 Oct 2026 12:14:08 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>2026年8月1日（第1報）および同年8月2日（第2報）に公表いたしました、当社が運営するECサイト構築・運営支援サービス「ショップサーブ」に対する不正アクセスによる情報漏えいにつきまして、改めまして、本件によりお客様をはじめ、関係者の皆様に多大なるご心配とご迷惑をおかけしておりますことを、深くお詫び申し上... — はてなブックマーク テクノロジー / score: 90 (ECサイト構築システムの重大な情報漏洩最終報)</description>
+</item>
+<item>
+<title>[90] ECサイトシステム運営会社の情報漏えい 2335万件を確認 | NHKニュース</title>
+<link>https://news.web.nhk/newsweb/na/nd-20261016de60742</link>
+<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261016de60742</guid>
+<pubDate>Fri, 16 Oct 2026 11:45:38 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>さまざまなインターネットショッピングのサイトに使われるシステムを運営している「Eストアー」は、ことし8月に発覚した不正アクセスの影響について、16日、調査の結果を公表し、サイトを利用した顧客の名前や住… — はてなブックマーク テクノロジー / score: 90 (大規模な個人情報流出インシデントの公式発表)</description>
+</item>
+<item>
 <title>[90] 【重要】Linuxカーネルの脆弱性（CVE-2026-99999）に関する当社サービスへの影響について | さくらインターネット</title>
 <link>https://www.sakura.ad.jp/corporate/information/announcements/2026/10/16/1968226051/</link>
 <guid isPermaLink="true">https://www.sakura.ad.jp/corporate/information/announcements/2026/10/16/1968226051/</guid>
 <pubDate>Fri, 16 Oct 2026 09:57:11 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>お客さま各位 平素よりさくらインターネットをご利用いただき、誠にありがとうございます。 Linuxカーネルのネットワーク処理に関する脆弱性（CVE-2026-99999）が公開されました。 本脆弱性については、仮想化環境においてホストシステムへの影響につながる可能性があると報告されています。当社では本脆弱性を認知し、... — はてなブックマーク テクノロジー / score: 90 (Linuxカーネルの重大な脆弱性影響情報)</description>
+</item>
+<item>
+<title>[90] ヤマト運輸、「クロネコ代金後払いサービス」不正アクセスで約530万件の個人情報漏えい</title>
+<link>https://internet.watch.impress.co.jp/docs/news/2148860.html</link>
+<guid isPermaLink="true">https://internet.watch.impress.co.jp/docs/news/2148860.html</guid>
+<pubDate>Fri, 16 Oct 2026 08:12:56 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>ヤマト運輸、「クロネコ代金後払いサービス」不正アクセスで約530万件の個人情報漏えい — はてなブックマーク テクノロジー / score: 90 (大手企業における数百万件規模の不正アクセスと情報漏洩)</description>
 </item>
 <item>
 <title>[90] ヤマト運輸 個人情報530万件余の外部流出を確認 | NHKニュース</title>
@@ -85,14 +125,6 @@
 <pubDate>Fri, 16 Oct 2026 02:07:44 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>オンライン広告を悪用し、ユーザーが広告をクリックしなくても端末をスパイウェアに感染させるゼロクリック攻撃「AdFection」の実態が明らかになりました。カナダ・トロント大学の研究機関であるCitizen Labによると、イスラエルの広告企業が提供するシステムを通じて、国際報道機関のアルジャジーラの端末がAdFectionに... — はてなブックマーク テクノロジー / score: 90 (広告を悪用したゼロクリック攻撃の深刻な脅威)</description>
-</item>
-<item>
-<title>[90] 【重要】不正アクセスによる情報流出に関するお詫びとお願い（第一報） | 最新情報 | Studio</title>
-<link>https://studio.design/ja/whats-new/unauthorized-access-2026-10</link>
-<guid isPermaLink="true">https://studio.design/ja/whats-new/unauthorized-access-2026-10</guid>
-<pubDate>Fri, 16 Oct 2026 01:45:58 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>【重要】不正アクセスによる情報流出に関するお詫びとお願い（第一報）弊社が利用するクラウド環境への第三者による不正アクセスにより、お客様の情報が外部に流出した可能性があることが判明しました。不正アクセスに利用された経路はすでに塞いでおります。経緯と、お客様にお願いしたいご対応をお知らせします。 平素... — はてなブックマーク テクノロジー / score: 90 (クラウド環境への不正アクセスによる情報流出)</description>
 </item>
 <item>
 <title>[90] Next.js Security Update for Upstream Vulnerabilities</title>
@@ -159,6 +191,14 @@
 <description>駐車場事業などを手掛けるパーク24は10月16日、グループ会社のタイムズモビリティが運営するカーシェアリングサービス「タイムズカー」で、会員登録時に提出された運転免許証などの本人確認書類の画像を、登録確認後すぐに削除するよう社内ルールを変更すると発表した。同サービスでは9月に不正アクセスが発生し、約660... — はてなブックマーク テクノロジー / score: 85 (大規模な個人情報流出とセキュリティ対策変更)</description>
 </item>
 <item>
+<title>[85] 【重要】本人確認書類画像の第三者閲覧の可能性について（Snapmart） | Snapmart（スナップマート）公式ブログ</title>
+<link>https://info.snapmart.jp/notice-20261016/</link>
+<guid isPermaLink="true">https://info.snapmart.jp/notice-20261016/</guid>
+<pubDate>Fri, 16 Oct 2026 09:47:29 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Snapmart にご登録のクリエイターの皆さまへ 平素より Snapmart をご利用いただき、誠にありがとうございます。 このたび、当社が運営する Snapmart において、本人確認書類をご提出いただいた一部のクリエイターの皆さまの画像データにつきまして、第三者が閲覧できる可能性があったこと（以下「本件」といいます）が判... — はてなブックマーク テクノロジー / score: 85 (本人確認書類の第三者閲覧可能性に関するセキュリティ事案)</description>
+</item>
+<item>
 <title>[85] 【緊急レポート】2026年、100万件規模の個人情報漏洩が過去最多の10件に急増。― AI時代に企業が備えるべきセキュリティ対策</title>
 <link>https://ascii.jp/elem/000/004/443/4443477/?rss</link>
 <guid isPermaLink="true">https://ascii.jp/elem/000/004/443/4443477/?rss</guid>
@@ -181,14 +221,6 @@
 <pubDate>Fri, 16 Oct 2026 08:24:59 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>2026年10月16日 NTTソルマーレ株式会社 この度、当社の電子書籍ストア『コミックシーモア』に対し、第三者による不正アクセスが行われ、『コミックシーモア』に会員登録いただいている一部のお客様の会員情報が流出したことが判明いたしました。 なお、クレジットカード情報や購入履歴の流出、MY本棚の流出・消失・欠損... — はてなブックマーク テクノロジー / score: 85 (コミックシーモアの重大な情報流出インシデント)</description>
-</item>
-<item>
-<title>[85] 日経新聞社、クラウドサービスへの不正アクセスで約183万件の個人情報漏えい</title>
-<link>https://internet.watch.impress.co.jp/docs/news/2148878.html</link>
-<guid isPermaLink="true">https://internet.watch.impress.co.jp/docs/news/2148878.html</guid>
-<pubDate>Fri, 16 Oct 2026 08:13:29 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>日経新聞社、クラウドサービスへの不正アクセスで約183万件の個人情報漏えい — はてなブックマーク テクノロジー / score: 85 (日経新聞のクラウド不正アクセス被害)</description>
 </item>
 <item>
 <title>[85] 日経新聞、不正アクセスで183万件の個人情報流出　開発用クラウドの認証情報盗まれ</title>
@@ -261,22 +293,6 @@
 <pubDate>Thu, 15 Oct 2026 14:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>Written by: Jayson Frost, Bryce Greathouse, Brian Meyer, John Palmisano, Rajesh Rajeshirke, Steve Rasch, John Wolfram Introduction On October 15, BeyondTrust disclosed a vulnerability, CVE-2026-102764, impacting BeyondTrust Remote Support (formerly Bomgar) appliances. BeyondTrust Remote Support is an enterprise secure remote access solution that enables IT teams to securely access and troubleshoot remote endpoints. The successful exploitation of this vulnerability results in the arbitrary upload — Google Cloud Blog / score: 85 (セキュリティ脆弱性に関する重要な警告)</description>
-</item>
-<item>
-<title>[85] ソースネクスト 2千万件超流出か</title>
-<link>https://news.yahoo.co.jp/pickup/6598913?source=rss</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6598913?source=rss</guid>
-<pubDate>Thu, 15 Oct 2026 11:09:22 +0000</pubDate>
-<category>Yahoo!ニュース IT</category>
-<description> — Yahoo!ニュース IT / score: 85 (ソースネクストの2千万件超える情報流出ニュース)</description>
-</item>
-<item>
-<title>[85] バーガーキング 約1118万件漏えい</title>
-<link>https://news.yahoo.co.jp/pickup/6598889?source=rss</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6598889?source=rss</guid>
-<pubDate>Thu, 15 Oct 2026 08:55:02 +0000</pubDate>
-<category>Yahoo!ニュース IT</category>
-<description> — Yahoo!ニュース IT / score: 85 (バーガーキングの大規模情報漏えいニュース)</description>
 </item>
 <item>
 <title>[85] 「C# Dev Kit」が大刷新、読み込みは最大180倍に、サーバーのメモリ消費は最大約85％減／11月の正式提供が予定されている「.NET 11」にあわせたアーキテクチャー変更</title>
@@ -399,6 +415,14 @@
 <description>Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production. — OpenAI News / score: 85 (次世代GPT-6ファミリーのモデル選択・活用ガイド)</description>
 </item>
 <item>
+<title>[80] 流出個人情報を売買 闇サイト実態</title>
+<link>https://news.yahoo.co.jp/pickup/6599033?source=rss</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6599033?source=rss</guid>
+<pubDate>Fri, 16 Oct 2026 12:53:16 +0000</pubDate>
+<category>Yahoo!ニュース IT</category>
+<description> — Yahoo!ニュース IT / score: 80 (流出した個人情報の闇サイトでの売買実態に関する報道)</description>
+</item>
+<item>
 <title>[80] Googleが「魔法状態の培養」を量子プロセッサ「Willow」で実証、量子ビットのエラーを約40分の1に減らすことに成功</title>
 <link>https://gigazine.net/news/20261016-google-quantum-ai-magic-state-cultivation/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261016-google-quantum-ai-magic-state-cultivation/</guid>
@@ -503,14 +527,6 @@
 <description>Build complex software and cybersecurity workflows with Google Gemini 4 Argon. Check out the Gemini API Developer Guide and read the Google Antigravity and Android Studi… — Gemini (Google Blog) / score: 80 (新型AIモデルのAPI一般提供に関する重要なお知らせ。)</description>
 </item>
 <item>
-<title>[80] Meta、同社史上もっとも高性能なAIモデル「Muse Wonder」シリーズを発表／個人・業務向けのAIエージェント用途を重視。「Muse Code」と「Meta Model API」で即日利用可能</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2147475.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2147475.html</guid>
-<pubDate>Tue, 13 Oct 2026 06:14:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Metaは10月12日（現地時間）、新たなフロンティアモデル「Muse Wonder」シリーズを発表した。個人向け・業務向けのAIエージェント用途を重視したモデルで、Metaはこれを「Personal Superintelligence」（個人向け超知能）への重要なステップと位置付けている。 — 窓の杜 / score: 80 (Metaの新型高性能AIモデル発表)</description>
-</item>
-<item>
 <title>[80] Structured Concurrency Looms</title>
 <link>https://inside.java/2026/10/12/devoxxbelgium-structured-concurrency/</link>
 <guid isPermaLink="true">https://inside.java/2026/10/12/devoxxbelgium-structured-concurrency/</guid>
@@ -559,6 +575,22 @@
 <description>Kubernetes version 1.37 introduced several new features and bug fixes, and AWS is excited to announce that you can now use Amazon Elastic Kubernetes Service (EKS) and Amazon EKS Distro to run Kubernetes version 1.37. Starting today, you can create new EKS clusters using version 1.37 and upgrade existing clusters to version 1.37 using the EKS console, the eksctl command line interface, or through an infrastructure-as-code tool. Kubernetes version 1.37 introduces several key improvements, promotin — AWS What's New / score: 80 (Amazon EKSのKubernetes 1.37サポート開始)</description>
 </item>
 <item>
+<title>[75] windows10のサポートは1年延びたのに、Windows 11の一部はサポート終了</title>
+<link>https://www.gizmodo.jp/article/2610-windows-11-24h2-end-of-support/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/2610-windows-11-24h2-end-of-support/</guid>
+<pubDate>Fri, 16 Oct 2026 13:30:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>Windows 11のバージョン「24H2」のサポートが終了！お使いのPCの確認方法や、25H2へのアップデート手順を分かりやすく解説します。 ちなみにWindows 10のセキュリティ更新は2027年10月12日まで延長されています。 — ギズモード・ジャパン / score: 75 (OSのサポート終了とアップデートに関する重要情報)</description>
+</item>
+<item>
+<title>[75] 日本郵便のメアドから迷惑メール</title>
+<link>https://news.yahoo.co.jp/pickup/6599037?source=rss</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6599037?source=rss</guid>
+<pubDate>Fri, 16 Oct 2026 12:37:09 +0000</pubDate>
+<category>Yahoo!ニュース IT</category>
+<description> — Yahoo!ニュース IT / score: 75 (日本郵便のドメインを利用した迷惑メール問題の注意喚起)</description>
+</item>
+<item>
 <title>[75] ドコモ、緊急地震速報を配信できず　システム不具合が原因、解消まで届かない場合も</title>
 <link>https://ascii.jp/elem/000/004/443/4443487/?rss</link>
 <guid isPermaLink="true">https://ascii.jp/elem/000/004/443/4443487/?rss</guid>
@@ -570,9 +602,9 @@
 <title>[75] 10月30日以降にFacebook・Instagram・WhatsAppを利用する企業アカウントはMetaが自社のウェブサイトをスクレイピングすることに同意したものとみなされる</title>
 <link>https://gigazine.net/news/20261016-meta-scraping/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261016-meta-scraping/</guid>
-<pubDate>Fri, 16 Oct 2026 10:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>Metaが商用利用規約を更新しました。2026年10月30日から有効となる新規約に基づくと、Facebook・Instagram・Messenger・WhatsAppにビジネスアカウントを持つ企業や著名人は、そのアカウントに関連付けられたウェブサイトをMetaがクロールすることに同意したものと見なされる可能性があると専門家が指摘しています。 続きを読む... — GIGAZINE / score: 75 (Metaの商用利用規約変更とスクレイピング同意の話題)</description>
+<pubDate>Fri, 16 Oct 2026 10:24:40 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Metaが商用利用規約を更新しました。2026年10月30日から有効となる新規約に基づくと、Facebook・Instagram・Messenger・WhatsAppにビジネスアカウントを持つ企業や著名人は、そのアカウントに関連付けられたウェブサイトをMetaがクロールすることに同意したものと見なされる可能性があると専門家が指摘しています。 Meta... — はてなブックマーク テクノロジー / score: 75 (Metaの商用利用規約変更とスクレイピング同意の話題)</description>
 </item>
 <item>
 <title>[75] 攻撃受け 県メアドから迷惑メール</title>
@@ -613,14 +645,6 @@
 <pubDate>Thu, 15 Oct 2026 22:48:46 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>Deep Reviewは、文書内の論理の一貫性や数式の正しさを調べ、改善点を提案する。主張を裏付ける根拠を確認したり、既存研究と比較したりすることもできる。論文だけでなく、設計資料に書かれていない前提条件を見つけたり、プレゼン資料の要点がグラフの内容と一致しているかを点検したりする用途も想定する。 仕組みと... — はてなブックマーク テクノロジー / score: 75 (Googleによる論文矛盾検証AIの公開)</description>
-</item>
-<item>
-<title>[75] リーナス・トーバルズがClaude CodeなどのAIをバリバリ活用してLinuxカーネルの改善に取り組み中</title>
-<link>https://gigazine.net/news/20261016-linus-torvalds-claude-code/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261016-linus-torvalds-claude-code/</guid>
-<pubDate>Thu, 15 Oct 2026 21:32:18 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Linuxカーネルの生みの親であるリーナス・トーバルズ氏がAIコーディングアシスタントのClaude Codeを活用し、Linuxカーネルの大幅な改善に取り組んでいることが明らかになりました。 Linus Torvalds Working On A Hefty Linux Kernel Improvement With Claude Code - Phoronix https://www.phoronix.com/news/Linus-Torv... — はてなブックマーク テクノロジー / score: 75 (著名開発者のAIツール活用動向を示す重要ニュース)</description>
 </item>
 <item>
 <title>[75] AWS Lambda Durable Execution SDK for Go is now generally available</title>
@@ -781,30 +805,6 @@
 <pubDate>Mon, 12 Oct 2026 16:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>A decade ago, Google released Site Reliability Engineering: How Google Runs Production Systems with O'Reilly Media. What began as a collection of our practices for managing large-scale infrastructure became a bestselling book, and inspired many organizations to adopt the reliability practices it outlined: applying software engineering to operations to build systems that are scalable, reliable, and sustainable. Over the past ten years, computing landscapes have undergone profound shifts. AI, micr — Google Cloud Blog / score: 75 (SREのバイブル的書籍の第2版アナウンス)</description>
-</item>
-<item>
-<title>[75] Amazon EMR now supports native data quality checks in Apache Spark jobs</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-emr-data-quality-spark/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-emr-data-quality-spark/</guid>
-<pubDate>Mon, 12 Oct 2026 07:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Amazon EMR now validates data quality natively within Apache Spark jobs. Data engineering teams can catch quality issues inline before bad data reaches downstream systems, without building or maintaining separate validation infrastructure. Amazon EMR Data Quality, powered by AWS Glue, is available at no additional cost and uses the same declarative rules language (Data Quality Definition Language) and APIs as AWS Glue for a consistent experience across both engines, and works with Apache Iceberg — AWS What's New / score: 75 (EMRでのSparkデータ品質チェック機能追加)</description>
-</item>
-<item>
-<title>[75] Java - The Year of the Runtime!</title>
-<link>https://inside.java/2026/10/11/devoxxbelgium-runtime-year-keynote/</link>
-<guid isPermaLink="true">https://inside.java/2026/10/11/devoxxbelgium-runtime-year-keynote/</guid>
-<pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
-<category>Inside Java</category>
-<description>As AI coding agents make language syntax less central, runtime performance and operability become increasingly important. This keynote explores why Java’s JVM and standard library are well suited to this shift: newer JDKs continually improve performance, observability, garbage collection, and usability while preserving the programming model, with major innovations underway in Projects Valhalla, Leyden, and Lilliput. — Inside Java / score: 75 (AI時代におけるJavaランタイムの重要性と将来性)</description>
-</item>
-<item>
-<title>[75] SQLite 本体にベクトル検索拡張 vec1 がやってきた</title>
-<link>https://zenn.dev/mattn/articles/6e9996319ac099</link>
-<guid isPermaLink="true">https://zenn.dev/mattn/articles/6e9996319ac099</guid>
-<pubDate>Sat, 10 Oct 2026 17:16:42 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>はじめに 2026 年 9 月 30 日、SQLite のソースツリーに ext/vec1/ というディレクトリが追加されました。コミットしたのは FTS5 などでおなじみの Dan Kennedy 氏。コミットメッセージはたった 1 行です。 Import vec1 sources into directory ext/vec1/ of this project. これまで別の場所で開発されていた vec1 が、まるっと SQLite 本体のリポジトリに取り込まれました。本体は vec1.c の 1 ファイルで約 1 万 3 千行。それに 50 ファイル、約 6,700 行のテスト... — Zenn トレンド / score: 75 (SQLite本体へのベクトル検索拡張機能の統合)</description>
 </item>
 </channel>
 </rss>
