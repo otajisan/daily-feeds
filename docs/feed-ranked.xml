@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 16 Oct 2026 06:15:28 +0000</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 08:12:33 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[98] 「GitLab」にまたも緊急パッチ、CVSS基本値「10.0」の脆弱性に対処／認証なしでサーバー上で任意のコードを実行されるおそれ</title>
@@ -15,12 +15,20 @@
 <description>米GitLabは10月12日（現地時間）、「GitLab」の緊急パッチ v19.4.2、v19.3.5、v19.2.8 をリリースした。「Community Edition」（CE）と「Enterprise Edition」（EE）が対象で、計24件の脆弱性が修正されている。同社は、自分で運用しているすべての「GitLab」を、ただちにこれらのバージョンへアップグレードするよう強く推奨している。 — 窓の杜 / score: 98 (GitLabのCVSS 10.0緊急パッチリリース)</description>
 </item>
 <item>
+<title>[95] Google Chrome、重大な脆弱性を修正　今週2回目のアップデート</title>
+<link>https://ascii.jp/elem/000/004/443/4443375/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/443/4443375/?rss</guid>
+<pubDate>Fri, 16 Oct 2026 07:10:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>グーグルは10月15日、デスクトップおよびAndroid版「Google Chrome」のアップデートを公開。深刻度「重大」を含む10​​件の脆弱性に対処した。 — ASCII.jp / score: 95 (Chromeブラウザの重大な脆弱性修正アップデート)</description>
+</item>
+<item>
 <title>[95] データ転送ライブラリ「curl」に特定の条件でリモートからコードを実行される脆弱性／深刻度Highを含む24件の脆弱性を修正したv8.23.0が公開</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2148495.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2148495.html</guid>
-<pubDate>Thu, 15 Oct 2026 13:22:05 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>データ転送ライブラリ「curl」に特定の条件でリモートからコードを実行される脆弱性／深刻度Highを含む24件の脆弱性を修正したv8.23.0が公開 — はてなブックマーク テクノロジー / score: 95 (curlの深刻度Highを含む複数脆弱性の修正)</description>
+<pubDate>Thu, 15 Oct 2026 11:45:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>データ転送ライブラリ「curl」の最新安定版v8.23.0が、10月14日に公開された。全24件の脆弱性を修正したセキュリティアップデートとなっている。 — 窓の杜 / score: 95 (curlの深刻度Highを含む複数脆弱性の修正)</description>
 </item>
 <item>
 <title>[95] 「Google Chrome 155」にセキュリティ更新、「Critical」7件を含む37件の脆弱性を修正／Windows/Mac向けはv155.0.8059.79/.80、Linux向けはv155.0.8059.79</title>
@@ -55,12 +63,12 @@
 <description>JavaScriptランタイム「Deno」の開発元であるDeno LandとCloudflareは、Deno LandがCloudflareに合流すると発表しました。CloudflareによるDeno Landの買収と見られます（Deno ... — Publickey / score: 95 (Deno開発終了とCloudflare合流の重大なニュース)</description>
 </item>
 <item>
-<title>[90] ヤマト運輸、顧客情報約526万件が流出　代金後払いサービスへの不正アクセスで</title>
-<link>https://ascii.jp/elem/000/004/443/4443352/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/443/4443352/?rss</guid>
-<pubDate>Fri, 16 Oct 2026 05:50:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>ヤマト運輸は10月16日、「クロネコ代金後払いサービス」への不正アクセスに関する調査結果を公表した。 — ASCII.jp / score: 90 (ヤマト運輸の大規模顧客情報流出インシデント)</description>
+<title>[90] ヤマト運輸 個人情報530万件余の外部流出を確認 | NHKニュース</title>
+<link>https://news.web.nhk/newsweb/na/nd-20261016de60395</link>
+<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261016de60395</guid>
+<pubDate>Fri, 16 Oct 2026 05:56:04 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>宅配大手のヤマト運輸は、代金を後払いするサービスに不正アクセスがあり、530万件余りの個人情報が外部に流出したことを確認したと明らかにしました。 流出が確認されたのは、2018年10月1日から202… — はてなブックマーク テクノロジー / score: 90 (大規模な個人情報流出とセキュリティインシデント)</description>
 </item>
 <item>
 <title>[90] ネット広告を表示するだけでスパイウェアに感染するゼロクリック攻撃「AdFection」が確認される、イスラエルの広告企業が仕掛けていた攻撃の手口とは？</title>
@@ -85,14 +93,6 @@
 <pubDate>Thu, 15 Oct 2026 22:45:27 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>流出した可能性がある情報は、メールアドレス、パスワード、氏名、氏名カナ、住所、性別、電話番号、FAX番号、生年月日、会社名、役職名、部署名、システム固有の識別情報（加入サービス・登録日・ログイン日など）。対象項目は登録状況により異なる。クレジットカード情報は対象システムに保存しておらず、流出の対象に... — はてなブックマーク テクノロジー / score: 90 (ソースネクストの大量個人情報漏えい詳細)</description>
-</item>
-<item>
-<title>[90] ソースネクスト、不正アクセスでパスワード含む会員の個人情報最大約2252万件が流出　他サービスで同じパスワードを使っている人はただちに変更を</title>
-<link>https://internet.watch.impress.co.jp/docs/news/2148588.html</link>
-<guid isPermaLink="true">https://internet.watch.impress.co.jp/docs/news/2148588.html</guid>
-<pubDate>Thu, 15 Oct 2026 21:12:32 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>ソースネクスト、不正アクセスでパスワード含む会員の個人情報最大約2252万件が流出 他サービスで同じパスワードを使っている人はただちに変更を — はてなブックマーク テクノロジー / score: 90 (大規模な個人情報流出と脆弱性インシデント)</description>
 </item>
 <item>
 <title>[90] Next.js Security Update for Upstream Vulnerabilities</title>
@@ -159,6 +159,30 @@
 <description>GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly. — OpenAI News / score: 90 (主要AIの次世代メジャーリリースと新UIの発表)</description>
 </item>
 <item>
+<title>[85] 侵害指標から攻撃指標へ：脅威分析はIOCからMITRE ATT&amp;CKフレームワークに</title>
+<link>https://ascii.jp/elem/000/004/441/4441896/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/441/4441896/?rss</guid>
+<pubDate>Fri, 16 Oct 2026 08:00:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>MITRE ATT&amp;CKフレームワークは、攻撃者が使用する戦術、技術、手順に関するこのインテリジェンスを整理するための標準化された方法を提供します。 — ASCII.jp / score: 85 (脅威分析フレームワークの重要トレンド解説)</description>
+</item>
+<item>
+<title>[85] ドコモ、“公式”マーク付き詐欺メールを確認　不審なメールに注意呼びかけ</title>
+<link>https://ascii.jp/elem/000/004/443/4443369/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/443/4443369/?rss</guid>
+<pubDate>Fri, 16 Oct 2026 06:15:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>NTTドコモは10月15日、フィッシングメールに「ドコモメール公式アカウント」のマークが表示されるケースが報告されたことを公開。不審なメールは閲覧をやめるよう注意を呼びかけた。 — ASCII.jp / score: 85 (ドコモの公式マーク悪用フィッシングの深刻な脆弱性)</description>
+</item>
+<item>
+<title>[85] 人気Web制作ツール「Studio」全ユーザーの情報漏えいか　フォームに送信された内容、外部APIキーなども</title>
+<link>https://www.itmedia.co.jp/news/article/2610/16/2000002332/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/16/2000002332/</guid>
+<pubDate>Fri, 16 Oct 2026 06:12:06 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>第三者がデータを取得した事実は確認できていないが、取得されたものとみなして対応を進めている。 脆弱性を突かれ不正アクセス、発覚・対処まで約2週間 Studioは、ノーコードでWebサイトを構築できるプラットフォームで、スタートアップや中小企業のコーポレートサイトを中心に広く使われており、ユーザー数は90万人以... — はてなブックマーク テクノロジー / score: 85 (主要なWeb制作ツールにおける大規模な情報漏えい疑惑)</description>
+</item>
+<item>
 <title>[85] 「Apache OpenOffice 4.1.17」が公開、緊急のコード実行脆弱性「CVE-2026-59265」に対処／約11カ月ぶりのアップデート、Pythonマクロも強化</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2148601.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2148601.html</guid>
@@ -213,14 +237,6 @@
 <pubDate>Thu, 15 Oct 2026 14:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>Written by: Jayson Frost, Bryce Greathouse, Brian Meyer, John Palmisano, Rajesh Rajeshirke, Steve Rasch, John Wolfram Introduction On October 15, BeyondTrust disclosed a vulnerability, CVE-2026-102764, impacting BeyondTrust Remote Support (formerly Bomgar) appliances. BeyondTrust Remote Support is an enterprise secure remote access solution that enables IT teams to securely access and troubleshoot remote endpoints. The successful exploitation of this vulnerability results in the arbitrary upload — Google Cloud Blog / score: 85 (セキュリティ脆弱性に関する重要な警告)</description>
-</item>
-<item>
-<title>[85] 国内で相次ぐWebシステムからの情報漏えい～ラックの観測から見える変化と、企業が今とるべき対策 | LAC WATCH</title>
-<link>https://www.lac.co.jp/lacwatch/alert/20261015_004996.html</link>
-<guid isPermaLink="true">https://www.lac.co.jp/lacwatch/alert/20261015_004996.html</guid>
-<pubDate>Thu, 15 Oct 2026 11:26:49 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>2026年7月以降、国内法人が運営するWebシステムやスマートフォンアプリに関連した個人情報漏えいの公表が相次いでいます。公開情報の独自集計では、2026年10月6日時点で119件に上り、そのうち約68%にあたる81件が7月以降に公表※されたものです。ラックのサイバー救急センターへの相談件数においても、サーバへの不正侵入... — はてなブックマーク テクノロジー / score: 85 (国内での情報漏えい増加と対策に関する重要警鐘)</description>
 </item>
 <item>
 <title>[85] ソースネクスト 2千万件超流出か</title>
@@ -375,7 +391,7 @@
 <description>Metaは2026年10月15日に8160億パラメーターのAIモデル「Muse Spark Open」を公開しました。AIモデルの内部データをダウンロードして独自の環境で利用できるオープンウェイトモデルで、Appleと協力して「Mac Studio」でのローカル動作にも対応しています。 続きを読む... — GIGAZINE / score: 80 (大規模オープンウェイトAIモデルの公開)</description>
 </item>
 <item>
-<title>[80] 「スパムのメールヘッダ偽装にニュータイプ出てきた」楽天カードを持っていないのに公式アドレスからの送信だと誤認…Xで報告が相次ぐ「ドメインだけでは判断できない」</title>
+<title>[80] 「スパムのメールヘッダ偽装にニュータイプ出てきた」公式アドレスからの送信だとドコモの送信ドメイン認証が誤認…Xで報告が相次ぐ「ドメインだけでは判断できない」</title>
 <link>https://togetter.com/li/2758764</link>
 <guid isPermaLink="true">https://togetter.com/li/2758764</guid>
 <pubDate>Fri, 16 Oct 2026 02:02:15 +0000</pubDate>
@@ -541,14 +557,6 @@
 <pubDate>Thu, 15 Oct 2026 16:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>The open-source Temporal execution platform is rapidly becoming a foundational layer of modern software infrastructure — especially for orchestration in distributed systems and AI agent workloads. However, deploying and scaling workers in Temporal comes with unique challenges. Workers poll for tasks instead of serving requests, so request-driven serverless platforms can be an awkward fit. This often results in running worker fleets on Kubernetes or VMs, which you have to manage and pay for conti — Google Cloud Blog / score: 75 (分散処理基盤とサーバーレスの重要なインフラ連携)</description>
-</item>
-<item>
-<title>[75] 「日本のトイレがウェブから切り離されててよかった」サイバー攻撃が相次ぐことでネットワーク接続可能な家電への懸念が高まる「アプリ接続の機種あるぞ」</title>
-<link>https://togetter.com/li/2758514</link>
-<guid isPermaLink="true">https://togetter.com/li/2758514</guid>
-<pubDate>Thu, 15 Oct 2026 12:34:55 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>サイバー攻撃で複数の大手スーパーの冷蔵・冷凍施設が最大50℃に フランス｜FNNプライムオンライン フランス各地のスーパーで、冷蔵・冷凍設備を狙った大規模なサイバー攻撃が発生し、少なくとも300店舗で食品の廃棄や火災の被害が出ています。パリ市内のスーパーの冷凍庫からは陳列棚から商品が撤去され、売り… 29 user... — はてなブックマーク テクノロジー / score: 75 (IoT家電を狙うサイバー攻撃の脅威)</description>
 </item>
 <item>
 <title>[75] [AINews] Modal’s $1B ARR, $16B Series D makes it NYC’s newest AI Infra Decacorn, 3x usage and 3x valuation in 5 months, 15x in 1 yr</title>
@@ -797,14 +805,6 @@
 <pubDate>Wed, 07 Oct 2026 05:39:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Googleは2026年10月6日、スマートフォンやPC上で動作する埋め込みモデル「EmbeddingGemma 2」を公開した。 — gihyo.jp / score: 75 (Googleのエッジ向けマルチモーダル埋め込みモデル公開)</description>
-</item>
-<item>
-<title>[75] Next.js 16.4</title>
-<link>https://nextjs.org/blog/next-16-4</link>
-<guid isPermaLink="true">https://nextjs.org/blog/next-16-4</guid>
-<pubDate>Tue, 06 Oct 2026 20:00:00 +0000</pubDate>
-<category>Next.js Blog</category>
-<description>Next.js 16.4 introduces lazy compilation, smaller Turbopack output, React 19.3 features, Cache Components improvements, and new developer tooling. — Next.js Blog / score: 75 (主要Webフレームワークのマイナーリリースと新機能)</description>
 </item>
 </channel>
 </rss>
