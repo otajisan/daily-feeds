@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 16 Oct 2026 18:11:06 +0000</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 20:08:34 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[98] 「GitLab」にまたも緊急パッチ、CVSS基本値「10.0」の脆弱性に対処／認証なしでサーバー上で任意のコードを実行されるおそれ</title>
@@ -399,14 +399,6 @@
 <description>Anthropicは10月7日、AIモデル「Claude Haiku 5.5」を発表した。 — gihyo.jp / score: 85 (Claude Haiku 5.5のリリースと性能・コスト詳細)</description>
 </item>
 <item>
-<title>[85] v3.15.0rc3</title>
-<link>https://github.com/python/cpython/releases/tag/v3.15.0rc3</link>
-<guid isPermaLink="true">https://github.com/python/cpython/releases/tag/v3.15.0rc3</guid>
-<pubDate>Fri, 02 Oct 2026 18:51:48 +0000</pubDate>
-<category>CPython リリース</category>
-<description>Python 3.15.0rc3 — CPython リリース / score: 85 (CPython v3.15.0rc3の公式リリース)</description>
-</item>
-<item>
 <title>[80] Announcing Wiz Runtime Sensor add-on for GKE: Turnkey threat detection for Kubernetes</title>
 <link>https://cloud.google.com/blog/products/identity-security/wiz-sensor-for-gke-turnkey-threat-detection-for-kubernetes/</link>
 <guid isPermaLink="true">https://cloud.google.com/blog/products/identity-security/wiz-sensor-for-gke-turnkey-threat-detection-for-kubernetes/</guid>
@@ -639,6 +631,14 @@
 <description>2026年に入ってから、有名な OSS が次々と PR を閉じはじめているなぁと感じています。OSS のエコシステムには個人的に興味があるので、少し調べてみました。メモがてら残しておきます。 Hono が外部からの PR を閉じた 10月5日、Hono の yusukebe さんがこう投稿していました。 https://x.com/yusukebe/status/2107027870019445007 But PRs don't work in this era. Contribute in other ways. たしかに。AI スロップ、PR を起点にした脆弱性のニュース、と... — Zenn トレンド / score: 75 (著名OSSにおけるPR受付停止の背景と影響)</description>
 </item>
 <item>
+<title>[75] 論文の矛盾を見つけるAI「Deep Review」、Googleが公開　週2回まで無料</title>
+<link>https://japan.cnet.com/article/35253606/</link>
+<guid isPermaLink="true">https://japan.cnet.com/article/35253606/</guid>
+<pubDate>Thu, 15 Oct 2026 22:48:46 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Deep Reviewは、文書内の論理の一貫性や数式の正しさを調べ、改善点を提案する。主張を裏付ける根拠を確認したり、既存研究と比較したりすることもできる。論文だけでなく、設計資料に書かれていない前提条件を見つけたり、プレゼン資料の要点がグラフの内容と一致しているかを点検したりする用途も想定する。 仕組みと... — はてなブックマーク テクノロジー / score: 75 (Googleによる論文矛盾検証AIの公開)</description>
+</item>
+<item>
 <title>[75] AWS Lambda Durable Execution SDK for Go is now generally available</title>
 <link>https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-durable-go-sdk-support/</link>
 <guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-durable-go-sdk-support/</guid>
@@ -791,20 +791,20 @@
 <description>Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live. — OpenAI News / score: 75 (AI動画生成の長尺化に関する大型ニュース)</description>
 </item>
 <item>
-<title>[75] 10 Years of the SRE book: Announcing the second edition of "Site Reliability Engineering”</title>
-<link>https://cloud.google.com/blog/products/devops-sre/sre-book-second-edition/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/products/devops-sre/sre-book-second-edition/</guid>
-<pubDate>Mon, 12 Oct 2026 16:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>A decade ago, Google released Site Reliability Engineering: How Google Runs Production Systems with O'Reilly Media. What began as a collection of our practices for managing large-scale infrastructure became a bestselling book, and inspired many organizations to adopt the reliability practices it outlined: applying software engineering to operations to build systems that are scalable, reliable, and sustainable. Over the past ten years, computing landscapes have undergone profound shifts. AI, micr — Google Cloud Blog / score: 75 (SREのバイブル的書籍の第2版アナウンス)</description>
-</item>
-<item>
 <title>[75] Amazon EMR now supports native data quality checks in Apache Spark jobs</title>
 <link>https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-emr-data-quality-spark/</link>
 <guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-emr-data-quality-spark/</guid>
 <pubDate>Mon, 12 Oct 2026 07:00:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Amazon EMR now validates data quality natively within Apache Spark jobs. Data engineering teams can catch quality issues inline before bad data reaches downstream systems, without building or maintaining separate validation infrastructure. Amazon EMR Data Quality, powered by AWS Glue, is available at no additional cost and uses the same declarative rules language (Data Quality Definition Language) and APIs as AWS Glue for a consistent experience across both engines, and works with Apache Iceberg — AWS What's New / score: 75 (EMRでのSparkデータ品質チェック機能追加)</description>
+</item>
+<item>
+<title>[75] Java - The Year of the Runtime!</title>
+<link>https://inside.java/2026/10/11/devoxxbelgium-runtime-year-keynote/</link>
+<guid isPermaLink="true">https://inside.java/2026/10/11/devoxxbelgium-runtime-year-keynote/</guid>
+<pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
+<category>Inside Java</category>
+<description>As AI coding agents make language syntax less central, runtime performance and operability become increasingly important. This keynote explores why Java’s JVM and standard library are well suited to this shift: newer JDKs continually improve performance, observability, garbage collection, and usability while preserving the programming model, with major innovations underway in Projects Valhalla, Leyden, and Lilliput. — Inside Java / score: 75 (AI時代におけるJavaランタイムの重要性と将来性)</description>
 </item>
 </channel>
 </rss>
