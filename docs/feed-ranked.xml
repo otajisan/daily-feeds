@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sat, 17 Oct 2026 18:09:34 +0000</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 20:08:17 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[98] 「GitLab」にまたも緊急パッチ、CVSS基本値「10.0」の脆弱性に対処／認証なしでサーバー上で任意のコードを実行されるおそれ</title>
@@ -428,7 +428,7 @@
 <guid isPermaLink="true">https://zenn.dev/subara3/articles/b90ff538d87aa6</guid>
 <pubDate>Wed, 14 Oct 2026 12:21:10 +0000</pubDate>
 <category>Zenn トレンド</category>
-<description>連日の情報漏洩により、世間は何かと騒がしいものですが、やっぱりみんな心配なようで、お仕事をしていると「うちは大丈夫なのか」とお問い合わせがやみません。 「これ、どういうつくりになってるんだっけ？ 外部にデータ保存してましたっけ？」なーんてね……。 10月9日に、IPA（基本技術者情報試験とかやってる組織）が「不正アクセスによる漏えい等の事案を踏まえ、速やかに実施すべき対策等について」を発表しました。 https://www.ipa.go.jp/security/security-alert/2026/alert20261009.html IPAが点検しなさいと言っているのは、次の3つです... — Zenn トレンド / score: 80 (セキュリティ対策に関する実践的な点検レポート)</description>
+<description>連日の情報漏洩により、世間は何かと騒がしいですね。 やっぱりみなさん心配なようで、お仕事をしていると「うちは大丈夫なのか」とお問い合わせがやみません。 「これ、どういうつくりになってるんだっけ？ 外部にデータ保存してましたっけ？」 みんな気になっちゃうよね。 セキュリティ系の案件もだいぶクラウドソーシングサイトに出てきていますね。とりあえずログインを止めてくれとかね。 10月9日に、IPA（基本情報技術者試験とかやってる組織）が「不正アクセスによる漏えい等の事案を踏まえ、速やかに実施すべき対策等について」を発表しました。 https://www.ipa.go.jp/security/se... — Zenn トレンド / score: 80 (セキュリティ対策に関する実践的な点検レポート)</description>
 </item>
 <item>
 <title>[80] Anthropic、社内モノレポをGitから独自基盤へ移行 ——AIエージェントによるコード変更の急増に対応</title>
@@ -525,6 +525,14 @@
 <pubDate>Sat, 17 Oct 2026 03:50:32 +0000</pubDate>
 <category>Qiita 人気記事</category>
 <description>アップロードされた画像を受け取るAPIで、最低限入れておきたい入口の対策をチェックリストにしました。各項目は「何を確かめるか、どの攻撃を想定するか、コード、失敗時に返すステータス」の順で書いています。全部を入れる必要はないと思うので、気になる項目だけ拾ってもらえれば十分です... — Qiita 人気記事 / score: 75 (画像アップロードAPIのセキュリティ対策チェックリスト)</description>
+</item>
+<item>
+<title>[75] Claude reveals ECDSA curve origins</title>
+<link>https://www.anthropic.com/research/ecdsa-curve-origins</link>
+<guid isPermaLink="true">https://www.anthropic.com/research/ecdsa-curve-origins</guid>
+<pubDate>Fri, 16 Oct 2026 20:31:52 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>“It’s just timestamps”: the decades-old mystery of the origins of one of the most popular cryptographic standards has been explained. We pursued this long-standing open question of the cryptographic community to settle concerns about ECDSA, which is one of our most widely used cryptographic stand... — はてなブックマーク テクノロジー / score: 75 (暗号技術の歴史的疑問の解明に関する興味深い技術的トピック)</description>
 </item>
 <item>
 <title>[75] 10月30日以降にFacebook・Instagram・WhatsAppを利用する企業アカウントはMetaが自社のウェブサイトをスクレイピングすることに同意したものとみなされる</title>
@@ -797,14 +805,6 @@
 <pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub. — OpenAI News / score: 75 (AIモデルによる数学の未解決問題へのアプローチ)</description>
-</item>
-<item>
-<title>[75] Google、サンドボックス型コンテナランタイムの「gVisor」をCNCFに寄贈したと発表</title>
-<link>https://www.publickey1.jp/blog/26/googlegvisorcncf.html</link>
-<guid isPermaLink="true">https://www.publickey1.jp/blog/26/googlegvisorcncf.html</guid>
-<pubDate>Mon, 05 Oct 2026 15:27:19 +0000</pubDate>
-<category>Publickey</category>
-<description>Googleはサンドボックス型コンテナランタイムの「gVisor」をCloud Native Computing Foundation（CNCF）に寄贈したことを発表しました。 gVisorはコンテナ型仮想マシンの業界標準であるOCI（Op... — Publickey / score: 75 (gVisorのCNCF寄贈による業界標準化の推進)</description>
 </item>
 </channel>
 </rss>
