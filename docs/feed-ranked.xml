@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sat, 17 Oct 2026 14:07:35 +0000</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 16:08:58 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[98] 「GitLab」にまたも緊急パッチ、CVSS基本値「10.0」の脆弱性に対処／認証なしでサーバー上で任意のコードを実行されるおそれ</title>
@@ -18,7 +18,7 @@
 <title>[95] Linuxカーネルの深刻な脆弱性「PwnEscape」（CVE-2026-99999）、ゲストの仮想マシンからホスト側Linux OSに不正なコードを実行できる可能性</title>
 <link>https://www.publickey1.jp/blog/26/linuxpwnescapecve-2026-99999linux_os.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/linuxpwnescapecve-2026-99999linux_os.html</guid>
-<pubDate>Sat, 17 Oct 2026 14:07:08 +0000</pubDate>
+<pubDate>Sat, 17 Oct 2026 15:27:18 +0000</pubDate>
 <category>Publickey</category>
 <description>悪意のある攻撃者がLinuxの仮想マシンを不正に操作することで、仮想マシンの境界を抜けてホスト側のLinux OSで不正なコードを実行できる可能性がある脆弱性「PwnEscape」（CVE-2026-99999）の情報が公開されています。 ... — Publickey / score: 95 (Linuxカーネルの深刻な脆弱性の報告)</description>
 </item>
@@ -28,7 +28,7 @@
 <guid isPermaLink="true">https://qiita.com/k2_naka/items/fa87685231377f15e7e3</guid>
 <pubDate>Fri, 16 Oct 2026 17:16:58 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>本稿は筆者個人の分析であり、所属組織や各事業者の公式見解ではありません。基準日は2026年10月16日（資料確認 21:24 JST）です。CVE・修正版・各事業者の対応状況は変動するため、適用判断時には原典と自環境を再確認してください。本文の参照番号 [n] は末尾「参照」の根拠URLに対応します。 本稿での「確認」の範囲 ... — はてなブックマーク テクノロジー / score: 95 (LinuxネットワークスタックとKVMに関する深刻な脆弱性の詳細な解説)</description>
+<description>10月17日更新：修正配布と評価情報を追記 初稿の確認後に、Debian trixieの修正告知、AlmaLinuxのテスト版、CISAの追加評価が公表されました。Proxmoxの修正ビルド、SUSE・Red Hatの評価、さくらのVPS等の受付制限は、今回確認範囲に加えた情報であり、すべてが10月17日に新たに発生した出来事という意味ではありません... — はてなブックマーク テクノロジー / score: 95 (LinuxネットワークスタックとKVMに関する深刻な脆弱性の詳細な解説)</description>
 </item>
 <item>
 <title>[95] 「Google Chrome 155」に再びセキュリティ更新、「Critical」1件を含む10件の脆弱性を修正／Windows/Mac向けはv155.0.8059.84/.85、Linux向けはv155.0.8059.84</title>
@@ -165,6 +165,14 @@
 <pubDate>Sat, 17 Oct 2026 04:00:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>いつもの銀行アプリが本物そっくりにすり替わる新型マルウェア「Hirudo」が発見されました。手口や安全対策を分かりやすく解説します。 — ギズモード・ジャパン / score: 85 (セキュリティ脅威となる偽造マルウェアの解説)</description>
+</item>
+<item>
+<title>[85] Episode 72 “OpenJDK Bug Fixing, JavaOne, and JDK 28” [IJN]</title>
+<link>https://inside.java/2026/10/17/podcast-072/</link>
+<guid isPermaLink="true">https://inside.java/2026/10/17/podcast-072/</guid>
+<pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+<category>Inside Java</category>
+<description>A critical bug in JDK 27 and how it was fixed, some conference news, and how JDK 28 is shaping up — Inside Java / score: 85 (OpenJDKのバグ修正やJDK 28の動向に関する重要な開発情報)</description>
 </item>
 <item>
 <title>[85] AWS セキュリティ速報 2026-137-AWS（CVE-2026-99999）は通常の EC2 は対象外。影響範囲を確認してみた | DevelopersIO</title>
@@ -797,14 +805,6 @@
 <pubDate>Mon, 05 Oct 2026 15:27:19 +0000</pubDate>
 <category>Publickey</category>
 <description>Googleはサンドボックス型コンテナランタイムの「gVisor」をCloud Native Computing Foundation（CNCF）に寄贈したことを発表しました。 gVisorはコンテナ型仮想マシンの業界標準であるOCI（Op... — Publickey / score: 75 (gVisorのCNCF寄贈による業界標準化の推進)</description>
-</item>
-<item>
-<title>[75] Supabase、1サーバあたり数百万ものSQLiteをホストする「Turso」買収を発表。AIエージェントで加速するDB需要に対応</title>
-<link>https://www.publickey1.jp/blog/26/supabase1sqlitetursoaidb.html</link>
-<guid isPermaLink="true">https://www.publickey1.jp/blog/26/supabase1sqlitetursoaidb.html</guid>
-<pubDate>Sun, 04 Oct 2026 15:56:27 +0000</pubDate>
-<category>Publickey</category>
-<description>PostgreSQLをベースにしたデータベースサービス「Supabase」などを提供しているSupabaseは、SQLiteをベースとしたデータベースサービスを提供する「Turso」を買収したことを発表しました。 Turso is join... — Publickey / score: 75 (SupabaseによるTurso買収の重要なビジネスニュース)</description>
 </item>
 </channel>
 </rss>
