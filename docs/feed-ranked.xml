@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 16 Oct 2026 22:10:04 +0000</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 00:22:50 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[98] 「GitLab」にまたも緊急パッチ、CVSS基本値「10.0」の脆弱性に対処／認証なしでサーバー上で任意のコードを実行されるおそれ</title>
@@ -13,6 +13,14 @@
 <pubDate>Tue, 13 Oct 2026 07:57:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米GitLabは10月12日（現地時間）、「GitLab」の緊急パッチ v19.4.2、v19.3.5、v19.2.8 をリリースした。「Community Edition」（CE）と「Enterprise Edition」（EE）が対象で、計24件の脆弱性が修正されている。同社は、自分で運用しているすべての「GitLab」を、ただちにこれらのバージョンへアップグレードするよう強く推奨している。 — 窓の杜 / score: 98 (GitLabのCVSS 10.0緊急パッチリリース)</description>
+</item>
+<item>
+<title>[95] さくらのVPSにおけるLinuxカーネルの脆弱性（CVE-2026-99999）への対応状況について</title>
+<link>https://vps.sakura.ad.jp/contents/info/202610-pendingapply/</link>
+<guid isPermaLink="true">https://vps.sakura.ad.jp/contents/info/202610-pendingapply/</guid>
+<pubDate>Fri, 16 Oct 2026 13:16:01 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>平素よりさくらのVPSをご利用いただき、誠にありがとうございます。 Linuxカーネルのネットワーク処理に関する脆弱性（CVE-2026-99999、通称「PwnEscape」）について、さくらのVPSにおける現在の対応状況をご案内いたします。 現在、さくらのVPSでは石狩、東京、大阪の全リージョンで新規申し込みの受付を一時的に停止し... — はてなブックマーク テクノロジー / score: 95 (Linuxカーネルの深刻な脆弱性対応)</description>
 </item>
 <item>
 <title>[95] 「Google Chrome 155」に再びセキュリティ更新、「Critical」1件を含む10件の脆弱性を修正／Windows/Mac向けはv155.0.8059.84/.85、Linux向けはv155.0.8059.84</title>
@@ -36,7 +44,7 @@
 <guid isPermaLink="true">https://pwn.ai/blog/pwnescape</guid>
 <pubDate>Fri, 16 Oct 2026 05:33:07 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>PWNAI Research, Paulos Yibelo··18m18 min read·10,52210,522 views How a $1 million sandbox challenge led us to a vulnerability in Linux networking, repeatable host-memory disclosure, and ultimately a full guest-to-host escape. Part 00: Intro On August 18, 2026, Vercel announced a $1 million challe... — はてなブックマーク テクノロジー / score: 95 (Linuxカーネルの重大なKVM脆弱性詳細)</description>
+<description>PWNAI Research, Paulos Yibelo··18m18 min read·20,57920,579 views How a $1 million sandbox challenge led us to a vulnerability in Linux networking, repeatable host-memory disclosure, and ultimately a full guest-to-host escape. Part 00: Intro On August 18, 2026, Vercel announced a $1 million challe... — はてなブックマーク テクノロジー / score: 95 (Linuxカーネルの重大なKVM脆弱性詳細)</description>
 </item>
 <item>
 <title>[95] データ転送ライブラリ「curl」に特定の条件でリモートからコードを実行される脆弱性／深刻度Highを含む24件の脆弱性を修正したv8.23.0が公開</title>
@@ -100,7 +108,7 @@
 <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261016de60742</guid>
 <pubDate>Fri, 16 Oct 2026 11:45:38 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>さまざまなインターネットショッピングのサイトに使われるシステムを運営している「Eストアー」は、ことし8月に発覚した不正アクセスの影響について、16日、調査の結果を公表し、サイトを利用した顧客の名前や住… — はてなブックマーク テクノロジー / score: 90 (大規模な個人情報流出インシデントの公式発表)</description>
+<description>インターネットショッピングのシステムを運営している「Eストアー」は、2026年8月に発覚した不正アクセスの影響について調査結果を公表し、サイトを利用した顧客2335万人の個人情報が漏えいしたと明らかに… — はてなブックマーク テクノロジー / score: 90 (大規模な個人情報流出インシデントの公式発表)</description>
 </item>
 <item>
 <title>[90] 個人情報漏えい のべ1億6500万人分余に 利用者の対策は? | NHKニュース</title>
@@ -127,12 +135,12 @@
 <description>Linux カーネルのネットワーク機能におけるページキャッシュの上書きが可能となるデータ検証不備の脆弱性（Scan Tech Report） | ScanNetSecurity 2026 年 5 月に修正された Linux カーネルの脆弱性を悪用するエクスプロイトコードが公開されています。 — はてなブックマーク テクノロジー / score: 90 (Linuxカーネルのネットワーク機能における脆弱性)</description>
 </item>
 <item>
-<title>[90] ヤマト運輸 個人情報530万件余の外部流出を確認 | NHKニュース</title>
-<link>https://news.web.nhk/newsweb/na/nd-20261016de60395</link>
-<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261016de60395</guid>
-<pubDate>Fri, 16 Oct 2026 05:56:04 +0000</pubDate>
+<title>[90] 【速報】ヤマト運輸、531万件の顧客情報流出</title>
+<link>https://www.47news.jp/15090759.html</link>
+<guid isPermaLink="true">https://www.47news.jp/15090759.html</guid>
+<pubDate>Fri, 16 Oct 2026 05:38:12 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>宅配大手のヤマト運輸は、代金を後払いするサービスに不正アクセスがあり、530万件余りの個人情報が外部に流出したことを確認したと明らかにしました。 流出が確認されたのは、2018年10月1日から202… — はてなブックマーク テクノロジー / score: 90 (大規模な個人情報流出とセキュリティインシデント)</description>
+<description>【速報】ヤマト運輸、531万件の顧客情報流出 ヤマト運輸は16日、2日に公表したインターネット通販向けの決済サービスへの不正アクセスで、約531万件の氏名や住所といった顧客情報の流出を確認したと発表した。 — はてなブックマーク テクノロジー / score: 90 (大手物流企業の大規模顧客情報流出インシデント)</description>
 </item>
 <item>
 <title>[90] ネット広告を表示するだけでスパイウェアに感染するゼロクリック攻撃「AdFection」が確認される、イスラエルの広告企業が仕掛けていた攻撃の手口とは？</title>
@@ -229,14 +237,6 @@
 <pubDate>Fri, 16 Oct 2026 09:05:24 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>年賀状ソフトなどを手がける「ソースネクスト」で、メールアドレスやパスワードなど大量の個人情報が不正アクセスによって流出した問題で、このうちパスワードは暗号がかかっていない状態で流出していたことが会社へ… — はてなブックマーク テクノロジー / score: 85 (ソースネクストの平文パスワード流出インシデント)</description>
-</item>
-<item>
-<title>[85] 『コミックシーモア』会員情報の流出に関するお詫びとお願い｜ニュースリリース｜NTTソルマーレ株式会社</title>
-<link>https://www.nttsolmare.com/press/2026/1016.html</link>
-<guid isPermaLink="true">https://www.nttsolmare.com/press/2026/1016.html</guid>
-<pubDate>Fri, 16 Oct 2026 08:24:59 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>2026年10月16日 NTTソルマーレ株式会社 この度、当社の電子書籍ストア『コミックシーモア』に対し、第三者による不正アクセスが行われ、『コミックシーモア』に会員登録いただいている一部のお客様の会員情報が流出したことが判明いたしました。 なお、クレジットカード情報や購入履歴の流出、MY本棚の流出・消失・欠損... — はてなブックマーク テクノロジー / score: 85 (コミックシーモアの重大な情報流出インシデント)</description>
 </item>
 <item>
 <title>[85] JPCERT/CC、アプリ解析によるAPI攻撃の手口を報告、Flutter解析ツールの痕跡も ——API認証情報の扱いに注意喚起</title>
