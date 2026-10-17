@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sat, 17 Oct 2026 08:10:35 +0000</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 10:08:03 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[98] 「GitLab」にまたも緊急パッチ、CVSS基本値「10.0」の脆弱性に対処／認証なしでサーバー上で任意のコードを実行されるおそれ</title>
@@ -189,6 +189,14 @@
 <pubDate>Fri, 16 Oct 2026 05:30:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>The Apache Software Foundation（ASF）は10月14日、「Apache OpenOffice 4.1.17」を公開した。セキュリティと不具合修正のためのリリースで、v4.1.16以前を利用しているすべてのユーザーにアップグレードが推奨されている。 — 窓の杜 / score: 85 (Apache OpenOfficeの緊急コード実行脆弱性修正)</description>
+</item>
+<item>
+<title>[85] Rust 1.99.1公開、FFIのbool戻り値問題が修正されました</title>
+<link>https://qiita.com/DwarfM42/items/4a7929f8912ae9aaca77?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/DwarfM42/items/4a7929f8912ae9aaca77?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Fri, 16 Oct 2026 04:43:49 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>2026年10月15日、Rust 1.99.1がリリースされました。 以前、Rust 1.99.0でFFIのbool戻り値が誤コンパイルされる問題が報告された という記事を書きました。 あの問題、今回の1.99.1で修正されたようです。 Announcing Rust 1.... — Qiita 人気記事 / score: 85 (Rustのバグ修正とバージョン更新の重要情報)</description>
 </item>
 <item>
 <title>[85] 2026年10月「Windows Update」でWi-Fi/VPNに接続できない問題、脱「NTLMv1」が影響／あらかじめ計画されていた変更、パッチの不具合ではない</title>
@@ -383,14 +391,6 @@
 <description>NVIDIAが2026年10月15日に文章や画像、動画をまとめて理解できるオープンウェイトAIモデル「NVIDIA Nemotron 3.5 Super VL」を公開しました。複数の情報を組み合わせて作業を進めるAIエージェント向けのモデルで、同規模のオープンモデルと比較して最大5倍の処理能力を発揮するとのこと。企業の業務に合わせて調整したモデルではAIの処理コストを40分の1に削減した事例も報告されています。 続きを読む... — GIGAZINE / score: 80 (NVIDIAの高効率なオープンウェイトAIモデル公開)</description>
 </item>
 <item>
-<title>[80] Metaが8160億パラメーターのオープンウェイトAI「Muse Spark Open」を公開、Mac Studioわずか2台で動作</title>
-<link>https://gigazine.net/news/20261016-meta-muse-spark-open/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261016-meta-muse-spark-open/</guid>
-<pubDate>Fri, 16 Oct 2026 02:35:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>Metaは2026年10月15日に8160億パラメーターのAIモデル「Muse Spark Open」を公開しました。AIモデルの内部データをダウンロードして独自の環境で利用できるオープンウェイトモデルで、Appleと協力して「Mac Studio」でのローカル動作にも対応しています。 続きを読む... — GIGAZINE / score: 80 (大規模オープンウェイトAIモデルの公開)</description>
-</item>
-<item>
 <title>[80] Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta</title>
 <link>https://huggingface.co/blog/meta-muse-spark-open</link>
 <guid isPermaLink="true">https://huggingface.co/blog/meta-muse-spark-open</guid>
@@ -487,6 +487,22 @@
 <description>AWSは、パブリックプレビュー版のAmazon Linux 2027これはAL2023をベースとしており、SELinuxがデフォルトでEnforcingモードに設定されている。このデフォルト設定は、移行を計画しているチームにとって最も追加作業が発生する可能性が高い変更点である。また、今回の発表では、AL2023のサポート終了時期や、AL2027が一般提供（GA: General Availability）に到達する時期については明らかにされていない。 By Steef-Jan Wiggers Translated by Naoko Koshimura — InfoQ Japan / score: 80 (Amazon Linux 2027でSELinux強制へ)</description>
 </item>
 <item>
+<title>[75] GitHub、プルリクエスト向け「AI Scan」を一般提供</title>
+<link>https://codezine.jp/article/detail/30045</link>
+<guid isPermaLink="true">https://codezine.jp/article/detail/30045</guid>
+<pubDate>Sat, 17 Oct 2026 08:00:00 +0000</pubDate>
+<category>CodeZine</category>
+<description> — CodeZine / score: 75 (GitHubの新機能一般提供のニュース)</description>
+</item>
+<item>
+<title>[75] 画像アップロードAPIのセキュリティ対策を、実装レベルで振り返る</title>
+<link>https://qiita.com/vaon-luandv/items/a4719b247a0ec489e4c3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/vaon-luandv/items/a4719b247a0ec489e4c3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Sat, 17 Oct 2026 03:50:32 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>アップロードされた画像を受け取るAPIで、最低限入れておきたい入口の対策をチェックリストにしました。各項目は「何を確かめるか、どの攻撃を想定するか、コード、失敗時に返すステータス」の順で書いています。全部を入れる必要はないと思うので、気になる項目だけ拾ってもらえれば十分です... — Qiita 人気記事 / score: 75 (画像アップロードAPIのセキュリティ対策チェックリスト)</description>
+</item>
+<item>
 <title>[75] 「AI以外ありえない」サイバー攻撃、無差別に会員情報サイト狙う - 日本経済新聞</title>
 <link>https://www.nikkei.com/article/DGXZQOCD158220V11C26A0000000/</link>
 <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOCD158220V11C26A0000000/</guid>
@@ -533,14 +549,6 @@
 <pubDate>Fri, 16 Oct 2026 07:09:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Metaは2026年10月15日、オープンウェイトモデル「Muse Spark Open」を公開した。 — gihyo.jp / score: 75 (Metaによる新オープンウェイトモデルの公開)</description>
-</item>
-<item>
-<title>[75] 画像生成・編集モデル「FLUX 3 Image Klein」が登場、5.6BのオープンモデルでゲーミングPCでローカル動作し日本語テキストの描画や位置指定にも対応</title>
-<link>https://gigazine.net/news/20261016-flux-3-image-klein/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261016-flux-3-image-klein/</guid>
-<pubDate>Fri, 16 Oct 2026 03:11:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>Black Forest Labsが画像生成AI「FLUX 3 Image Klein」を現地時間の2026年10月15日にオープンモデルとして公開しました。オープンモデルの中では最高峰の性能を備えつつ、ゲーミングPCで実用的な速度で実行できる軽量さも両立しています。 続きを読む... — GIGAZINE / score: 75 (高性能なオープン画像生成モデルの登場)</description>
 </item>
 <item>
 <title>[75] 有名 OSS が PR を閉じはじめた。何が起きていて、どう向き合うか</title>
@@ -653,14 +661,6 @@
 <pubDate>Wed, 14 Oct 2026 05:16:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Microsoftは10月13日（現地時間）、Windows 11で新たな問題が報告されていることを明らかにした。2026年9月のプレビュー更新プログラム（KB5124010）およびそれ以降を適用した環境で、リモートデスクトップ接続に失敗することがあるという。 — 窓の杜 / score: 75 (Windows 11リモートデスクトップ接続問題)</description>
-</item>
-<item>
-<title>[75] 【2026年10月 最新版】AIモデル徹底比較 | GPT-6.1 Sol  / Claude Opus 5.5  / Claude Sonnet 5.5 / Gemini 4 Argon</title>
-<link>https://qiita.com/nuco_d/items/9d4f86c185dda6fd24a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/nuco_d/items/9d4f86c185dda6fd24a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Wed, 14 Oct 2026 02:48:28 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>はじめに 本記事では、Gemini 4 Argon、GPT-6.1 Sol、Claude Opus 5.5、Claude Sonnet 5.5 の4モデルを、スペック・公式ベンチマーク・料金の3つの観点で比較します。 記載している数値は、すべて2026年10月13日時点の... — Qiita 人気記事 / score: 75 (最新AIモデルのスペックとベンチマーク比較)</description>
 </item>
 <item>
 <title>[75] Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection</title>
