@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sat, 17 Oct 2026 00:22:50 +0000</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 02:12:10 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[98] 「GitLab」にまたも緊急パッチ、CVSS基本値「10.0」の脆弱性に対処／認証なしでサーバー上で任意のコードを実行されるおそれ</title>
@@ -37,14 +37,6 @@
 <pubDate>Fri, 16 Oct 2026 12:48:39 +0000</pubDate>
 <category>Qiita 人気記事</category>
 <description>工程 担当 課題提示・取捨選択・内容チェック 筆者 原案作成・編成 Claude Fable 5.1 事実検証（検証メモ） GPT-6 Astra 一次資料照合・最終稿 Claude Fable 5.1 本稿は筆者個人の分析であり、所属組織や... — Qiita 人気記事 / score: 95 (LinuxネットワークスタックとKVMに関する深刻な脆弱性の詳細な解説)</description>
-</item>
-<item>
-<title>[95] PwnEscape: Guest-to-Host KVM Escape (CVE-2026-99999)</title>
-<link>https://pwn.ai/blog/pwnescape</link>
-<guid isPermaLink="true">https://pwn.ai/blog/pwnescape</guid>
-<pubDate>Fri, 16 Oct 2026 05:33:07 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>PWNAI Research, Paulos Yibelo··18m18 min read·20,57920,579 views How a $1 million sandbox challenge led us to a vulnerability in Linux networking, repeatable host-memory disclosure, and ultimately a full guest-to-host escape. Part 00: Intro On August 18, 2026, Vercel announced a $1 million challe... — はてなブックマーク テクノロジー / score: 95 (Linuxカーネルの重大なKVM脆弱性詳細)</description>
 </item>
 <item>
 <title>[95] データ転送ライブラリ「curl」に特定の条件でリモートからコードを実行される脆弱性／深刻度Highを含む24件の脆弱性を修正したv8.23.0が公開</title>
@@ -87,28 +79,20 @@
 <description>JavaScriptランタイム「Deno」の開発元であるDeno LandとCloudflareは、Deno LandがCloudflareに合流すると発表しました。CloudflareによるDeno Landの買収と見られます（Deno ... — Publickey / score: 95 (Deno開発終了とCloudflare合流の重大なニュース)</description>
 </item>
 <item>
+<title>[90] BASE子会社の漏えい、約2335万人分に　209万人分はクレカ番号「先頭6桁と下4桁」「有効期限」も</title>
+<link>https://www.itmedia.co.jp/news/article/2610/17/2000002349/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/17/2000002349/</guid>
+<pubDate>Sat, 17 Oct 2026 00:57:57 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>ショップサーブは、企業が独自ドメインのネットショップを作るためのECサイト構築・運営支援サービス。25年7月にBASEがEストアーの全株式を取得して子会社化した。 今回の漏えいは8月に公表。詳細を調べた結果、10月16日に最終報が出た。 店舗はID・パスワードなど、購入者はカード情報の一部など漏えい 対象店舗は、シ... — はてなブックマーク テクノロジー / score: 90 (大規模な個人情報およびカード情報の漏えい事案)</description>
+</item>
+<item>
 <title>[90] ショップサーブの流出 2335万人分</title>
 <link>https://news.yahoo.co.jp/pickup/6599039?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6599039?source=rss</guid>
 <pubDate>Fri, 16 Oct 2026 13:04:45 +0000</pubDate>
 <category>Yahoo!ニュース IT</category>
 <description> — Yahoo!ニュース IT / score: 90 (2300万人超の大規模個人情報流出ニュースの報道)</description>
-</item>
-<item>
-<title>[90] 不正アクセスによる個人情報漏えいに関するお知らせ（最終報） | ＥＣサイト構築・ネット通販総合支援の【Ｅストアー】</title>
-<link>https://estore.jp/press/20261016/</link>
-<guid isPermaLink="true">https://estore.jp/press/20261016/</guid>
-<pubDate>Fri, 16 Oct 2026 12:14:08 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>2026年8月1日（第1報）および同年8月2日（第2報）に公表いたしました、当社が運営するECサイト構築・運営支援サービス「ショップサーブ」に対する不正アクセスによる情報漏えいにつきまして、改めまして、本件によりお客様をはじめ、関係者の皆様に多大なるご心配とご迷惑をおかけしておりますことを、深くお詫び申し上... — はてなブックマーク テクノロジー / score: 90 (ECサイト構築システムの重大な情報漏洩最終報)</description>
-</item>
-<item>
-<title>[90] ECサイトシステム運営会社の情報漏えい 2335万件を確認 | NHKニュース</title>
-<link>https://news.web.nhk/newsweb/na/nd-20261016de60742</link>
-<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261016de60742</guid>
-<pubDate>Fri, 16 Oct 2026 11:45:38 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>インターネットショッピングのシステムを運営している「Eストアー」は、2026年8月に発覚した不正アクセスの影響について調査結果を公表し、サイトを利用した顧客2335万人の個人情報が漏えいしたと明らかに… — はてなブックマーク テクノロジー / score: 90 (大規模な個人情報流出インシデントの公式発表)</description>
 </item>
 <item>
 <title>[90] 個人情報漏えい のべ1億6500万人分余に 利用者の対策は? | NHKニュース</title>
@@ -133,14 +117,6 @@
 <pubDate>Fri, 16 Oct 2026 09:51:02 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>Linux カーネルのネットワーク機能におけるページキャッシュの上書きが可能となるデータ検証不備の脆弱性（Scan Tech Report） | ScanNetSecurity 2026 年 5 月に修正された Linux カーネルの脆弱性を悪用するエクスプロイトコードが公開されています。 — はてなブックマーク テクノロジー / score: 90 (Linuxカーネルのネットワーク機能における脆弱性)</description>
-</item>
-<item>
-<title>[90] 【速報】ヤマト運輸、531万件の顧客情報流出</title>
-<link>https://www.47news.jp/15090759.html</link>
-<guid isPermaLink="true">https://www.47news.jp/15090759.html</guid>
-<pubDate>Fri, 16 Oct 2026 05:38:12 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>【速報】ヤマト運輸、531万件の顧客情報流出 ヤマト運輸は16日、2日に公表したインターネット通販向けの決済サービスへの不正アクセスで、約531万件の氏名や住所といった顧客情報の流出を確認したと発表した。 — はてなブックマーク テクノロジー / score: 90 (大手物流企業の大規模顧客情報流出インシデント)</description>
 </item>
 <item>
 <title>[90] ネット広告を表示するだけでスパイウェアに感染するゼロクリック攻撃「AdFection」が確認される、イスラエルの広告企業が仕掛けていた攻撃の手口とは？</title>
@@ -207,6 +183,22 @@
 <description>GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly. — OpenAI News / score: 90 (主要AIの次世代メジャーリリースと新UIの発表)</description>
 </item>
 <item>
+<title>[85] さくらのクラウドにおけるLinuxカーネルの脆弱性（CVE-2026-99999）への対応状況について</title>
+<link>https://cloud.sakura.ad.jp/news/2026/10/16/cve-2026-99999/</link>
+<guid isPermaLink="true">https://cloud.sakura.ad.jp/news/2026/10/16/cve-2026-99999/</guid>
+<pubDate>Fri, 16 Oct 2026 15:48:30 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>平素よりさくらのクラウドをご利用いただき、誠にありがとうございます。 Linuxカーネルのネットワーク処理に関する脆弱性（CVE-2026-99999、通称「PwnEscape」）について、さくらのクラウドにおける現在の対応状況をご案内いたします。 現在の対応状況 2026年10月16日（金）より、さくらのクラウドにおけるリソースの作... — はてなブックマーク テクノロジー / score: 85 (Linuxカーネルの深刻な脆弱性への対応状況)</description>
+</item>
+<item>
+<title>[85] JPCERT/CC、アプリ解析によるAPI攻撃の手口を報告、Flutter解析ツールの痕跡も ——API認証情報の扱いに注意喚起 | gihyo.jp</title>
+<link>https://gihyo.jp/article/2026/10/web-api-attacks</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/10/web-api-attacks</guid>
+<pubDate>Fri, 16 Oct 2026 11:10:24 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>JPCERT/CC⁠⁠、アプリ解析によるAPI攻撃の手口を報告⁠⁠、Flutter解析ツールの痕跡も —⁠—API認証情報の扱いに注意喚起 JPCERT/CCは2026年10月15日、国内で相次ぐ不正アクセスを受けて進めている攻撃元サーバーの調査結果を公開した。Androidアプリを解析して接続先のAPIを特定し、悪用する手口を確認した。調査対象のサー... — はてなブックマーク テクノロジー / score: 85 (API攻撃の手口と脆弱性に関する重要な注意喚起)</description>
+</item>
+<item>
 <title>[85] タイムズカー、退会後も7年間保管していた免許証画像を全削除へ　約660万アカウント分の漏えい受け</title>
 <link>https://www.itmedia.co.jp/news/article/2610/16/2000002346/</link>
 <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/16/2000002346/</guid>
@@ -215,36 +207,12 @@
 <description>駐車場事業などを手掛けるパーク24は10月16日、グループ会社のタイムズモビリティが運営するカーシェアリングサービス「タイムズカー」で、会員登録時に提出された運転免許証などの本人確認書類の画像を、登録確認後すぐに削除するよう社内ルールを変更すると発表した。同サービスでは9月に不正アクセスが発生し、約660... — はてなブックマーク テクノロジー / score: 85 (大規模な個人情報流出とセキュリティ対策変更)</description>
 </item>
 <item>
-<title>[85] 【重要】本人確認書類画像の第三者閲覧の可能性について（Snapmart） | Snapmart（スナップマート）公式ブログ</title>
-<link>https://info.snapmart.jp/notice-20261016/</link>
-<guid isPermaLink="true">https://info.snapmart.jp/notice-20261016/</guid>
-<pubDate>Fri, 16 Oct 2026 09:47:29 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Snapmart にご登録のクリエイターの皆さまへ 平素より Snapmart をご利用いただき、誠にありがとうございます。 このたび、当社が運営する Snapmart において、本人確認書類をご提出いただいた一部のクリエイターの皆さまの画像データにつきまして、第三者が閲覧できる可能性があったこと（以下「本件」といいます）が判... — はてなブックマーク テクノロジー / score: 85 (本人確認書類の第三者閲覧可能性に関するセキュリティ事案)</description>
-</item>
-<item>
-<title>[85] 【緊急レポート】2026年、100万件規模の個人情報漏洩が過去最多の10件に急増。― AI時代に企業が備えるべきセキュリティ対策</title>
-<link>https://ascii.jp/elem/000/004/443/4443477/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/443/4443477/?rss</guid>
-<pubDate>Fri, 16 Oct 2026 09:30:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>【緊急レポート】2026年、100万件規模の個人情報漏洩が過去最多の10件に急増。― AI時代に企業が備えるべきセキュリティ対策 — ASCII.jp / score: 85 (大規模個人情報漏洩の急増に関する緊急レポート)</description>
-</item>
-<item>
 <title>[85] ソースネクスト パスワード暗号化がない状態で流出 再設定を | NHKニュース</title>
 <link>https://news.web.nhk/newsweb/na/nd-20261016de60556</link>
 <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261016de60556</guid>
 <pubDate>Fri, 16 Oct 2026 09:05:24 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>年賀状ソフトなどを手がける「ソースネクスト」で、メールアドレスやパスワードなど大量の個人情報が不正アクセスによって流出した問題で、このうちパスワードは暗号がかかっていない状態で流出していたことが会社へ… — はてなブックマーク テクノロジー / score: 85 (ソースネクストの平文パスワード流出インシデント)</description>
-</item>
-<item>
-<title>[85] JPCERT/CC、アプリ解析によるAPI攻撃の手口を報告、Flutter解析ツールの痕跡も ——API認証情報の扱いに注意喚起</title>
-<link>https://gihyo.jp/article/2026/10/web-api-attacks?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/10/web-api-attacks?utm_source=feed</guid>
-<pubDate>Fri, 16 Oct 2026 07:07:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>JPCERT/CCは2026年10月15日、国内で相次ぐ不正アクセスを受けて進めている攻撃元サーバーの調査結果を公開した。 — gihyo.jp / score: 85 (API攻撃の手口と脆弱性に関する重要な注意喚起)</description>
 </item>
 <item>
 <title>[85] 「Apache OpenOffice 4.1.17」が公開、緊急のコード実行脆弱性「CVE-2026-59265」に対処／約11カ月ぶりのアップデート、Pythonマクロも強化</title>
@@ -567,6 +535,14 @@
 <description>AWSは、パブリックプレビュー版のAmazon Linux 2027これはAL2023をベースとしており、SELinuxがデフォルトでEnforcingモードに設定されている。このデフォルト設定は、移行を計画しているチームにとって最も追加作業が発生する可能性が高い変更点である。また、今回の発表では、AL2023のサポート終了時期や、AL2027が一般提供（GA: General Availability）に到達する時期については明らかにされていない。 By Steef-Jan Wiggers Translated by Naoko Koshimura — InfoQ Japan / score: 80 (Amazon Linux 2027でSELinux強制へ)</description>
 </item>
 <item>
+<title>[75] 「AI以外ありえない」サイバー攻撃、無差別に会員情報サイト狙う - 日本経済新聞</title>
+<link>https://www.nikkei.com/article/DGXZQOCD158220V11C26A0000000/</link>
+<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOCD158220V11C26A0000000/</guid>
+<pubDate>Fri, 16 Oct 2026 23:20:09 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>サイバー攻撃による個人情報の流出が連日報じられ、異常とも言える状況に専門家は調査を続けている。見えてきたのが、これまで攻撃者が見向きもしなかった組織まで片っ端から狙われ、安全と思われたスマートフォンのアプリにまで被害が広がっている現実だ。人でも、ツールでもない何かに「気持ち悪さ」「人でもない、ツ... — はてなブックマーク テクノロジー / score: 75 (AIを用いた無差別なサイバー攻撃の急増と警戒喚起)</description>
+</item>
+<item>
 <title>[75] windows10のサポートは1年延びたのに、Windows 11の一部はサポート終了</title>
 <link>https://www.gizmodo.jp/article/2610-windows-11-24h2-end-of-support/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/2610-windows-11-24h2-end-of-support/</guid>
@@ -602,9 +578,9 @@
 <title>[75] 10月30日以降にFacebook・Instagram・WhatsAppを利用する企業アカウントはMetaが自社のウェブサイトをスクレイピングすることに同意したものとみなされる</title>
 <link>https://gigazine.net/news/20261016-meta-scraping/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261016-meta-scraping/</guid>
-<pubDate>Fri, 16 Oct 2026 10:24:40 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Metaが商用利用規約を更新しました。2026年10月30日から有効となる新規約に基づくと、Facebook・Instagram・Messenger・WhatsAppにビジネスアカウントを持つ企業や著名人は、そのアカウントに関連付けられたウェブサイトをMetaがクロールすることに同意したものと見なされる可能性があると専門家が指摘しています。 Meta... — はてなブックマーク テクノロジー / score: 75 (Metaの商用利用規約変更とスクレイピング同意の話題)</description>
+<pubDate>Fri, 16 Oct 2026 10:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>Metaが商用利用規約を更新しました。2026年10月30日から有効となる新規約に基づくと、Facebook・Instagram・Messenger・WhatsAppにビジネスアカウントを持つ企業や著名人は、そのアカウントに関連付けられたウェブサイトをMetaがクロールすることに同意したものと見なされる可能性があると専門家が指摘しています。 続きを読む... — GIGAZINE / score: 75 (Metaの商用利用規約変更とスクレイピング同意の話題)</description>
 </item>
 <item>
 <title>[75] 攻撃受け 県メアドから迷惑メール</title>
@@ -637,14 +613,6 @@
 <pubDate>Thu, 15 Oct 2026 23:00:05 +0000</pubDate>
 <category>Zenn トレンド</category>
 <description>2026年に入ってから、有名な OSS が次々と PR を閉じはじめているなぁと感じています。OSS のエコシステムには個人的に興味があるので、少し調べてみました。メモがてら残しておきます。 Hono が外部からの PR を閉じた 10月5日、Hono の yusukebe さんがこう投稿していました。 https://x.com/yusukebe/status/2107027870019445007 But PRs don't work in this era. Contribute in other ways. たしかに。AI スロップ、PR を起点にした脆弱性のニュース、と... — Zenn トレンド / score: 75 (著名OSSにおけるPR受付停止の背景と影響)</description>
-</item>
-<item>
-<title>[75] 論文の矛盾を見つけるAI「Deep Review」、Googleが公開　週2回まで無料</title>
-<link>https://japan.cnet.com/article/35253606/</link>
-<guid isPermaLink="true">https://japan.cnet.com/article/35253606/</guid>
-<pubDate>Thu, 15 Oct 2026 22:48:46 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Deep Reviewは、文書内の論理の一貫性や数式の正しさを調べ、改善点を提案する。主張を裏付ける根拠を確認したり、既存研究と比較したりすることもできる。論文だけでなく、設計資料に書かれていない前提条件を見つけたり、プレゼン資料の要点がグラフの内容と一致しているかを点検したりする用途も想定する。 仕組みと... — はてなブックマーク テクノロジー / score: 75 (Googleによる論文矛盾検証AIの公開)</description>
 </item>
 <item>
 <title>[75] AWS Lambda Durable Execution SDK for Go is now generally available</title>
@@ -805,6 +773,38 @@
 <pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live. — OpenAI News / score: 75 (AI動画生成の長尺化に関する大型ニュース)</description>
+</item>
+<item>
+<title>[75] Amazon EMR now supports native data quality checks in Apache Spark jobs</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-emr-data-quality-spark/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-emr-data-quality-spark/</guid>
+<pubDate>Mon, 12 Oct 2026 07:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon EMR now validates data quality natively within Apache Spark jobs. Data engineering teams can catch quality issues inline before bad data reaches downstream systems, without building or maintaining separate validation infrastructure. Amazon EMR Data Quality, powered by AWS Glue, is available at no additional cost and uses the same declarative rules language (Data Quality Definition Language) and APIs as AWS Glue for a consistent experience across both engines, and works with Apache Iceberg — AWS What's New / score: 75 (EMRでのSparkデータ品質チェック機能追加)</description>
+</item>
+<item>
+<title>[75] Java - The Year of the Runtime!</title>
+<link>https://inside.java/2026/10/11/devoxxbelgium-runtime-year-keynote/</link>
+<guid isPermaLink="true">https://inside.java/2026/10/11/devoxxbelgium-runtime-year-keynote/</guid>
+<pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
+<category>Inside Java</category>
+<description>As AI coding agents make language syntax less central, runtime performance and operability become increasingly important. This keynote explores why Java’s JVM and standard library are well suited to this shift: newer JDKs continually improve performance, observability, garbage collection, and usability while preserving the programming model, with major innovations underway in Projects Valhalla, Leyden, and Lilliput. — Inside Java / score: 75 (AI時代におけるJavaランタイムの重要性と将来性)</description>
+</item>
+<item>
+<title>[75] Anthropic、重要インフラとOSSのサイバー防御を支援するCyber Missionを発表</title>
+<link>https://gihyo.jp/article/2026/10/anthropic-cyber-mission?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/10/anthropic-cyber-mission?utm_source=feed</guid>
+<pubDate>Fri, 09 Oct 2026 10:36:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Anthropicは2026年10月8日、重要インフラとオープンソースソフトウェア（OSS）をサイバー攻撃から守る長期的な取り組み、Anthropic Cyber Missionを発表した。 — gihyo.jp / score: 75 (重要インフラとOSSのサイバー防御支援プログラム)</description>
+</item>
+<item>
+<title>[75] Asana cuts model costs 76x in browser tests with GPT-6.1 Sol</title>
+<link>https://openai.com/index/asana-browser-agent</link>
+<guid isPermaLink="true">https://openai.com/index/asana-browser-agent</guid>
+<pubDate>Fri, 09 Oct 2026 07:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models. — OpenAI News / score: 75 (AIモデル活用による大幅なコスト削減事例)</description>
 </item>
 </channel>
 </rss>
