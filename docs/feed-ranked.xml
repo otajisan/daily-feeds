@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sat, 17 Oct 2026 12:11:48 +0000</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 14:07:35 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[98] 「GitLab」にまたも緊急パッチ、CVSS基本値「10.0」の脆弱性に対処／認証なしでサーバー上で任意のコードを実行されるおそれ</title>
@@ -15,20 +15,20 @@
 <description>米GitLabは10月12日（現地時間）、「GitLab」の緊急パッチ v19.4.2、v19.3.5、v19.2.8 をリリースした。「Community Edition」（CE）と「Enterprise Edition」（EE）が対象で、計24件の脆弱性が修正されている。同社は、自分で運用しているすべての「GitLab」を、ただちにこれらのバージョンへアップグレードするよう強く推奨している。 — 窓の杜 / score: 98 (GitLabのCVSS 10.0緊急パッチリリース)</description>
 </item>
 <item>
+<title>[95] Linuxカーネルの深刻な脆弱性「PwnEscape」（CVE-2026-99999）、ゲストの仮想マシンからホスト側Linux OSに不正なコードを実行できる可能性</title>
+<link>https://www.publickey1.jp/blog/26/linuxpwnescapecve-2026-99999linux_os.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/linuxpwnescapecve-2026-99999linux_os.html</guid>
+<pubDate>Sat, 17 Oct 2026 14:07:08 +0000</pubDate>
+<category>Publickey</category>
+<description>悪意のある攻撃者がLinuxの仮想マシンを不正に操作することで、仮想マシンの境界を抜けてホスト側のLinux OSで不正なコードを実行できる可能性がある脆弱性「PwnEscape」（CVE-2026-99999）の情報が公開されています。 ... — Publickey / score: 95 (Linuxカーネルの深刻な脆弱性の報告)</description>
+</item>
+<item>
 <title>[95] CVE-2026-99999（PwnEscape）を読み解く──「KVMの脆弱性」ではなく、Linuxネットワークスタックの脆弱性 - Qiita</title>
 <link>https://qiita.com/k2_naka/items/fa87685231377f15e7e3</link>
 <guid isPermaLink="true">https://qiita.com/k2_naka/items/fa87685231377f15e7e3</guid>
 <pubDate>Fri, 16 Oct 2026 17:16:58 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>本稿は筆者個人の分析であり、所属組織や各事業者の公式見解ではありません。基準日は2026年10月16日（資料確認 21:24 JST）です。CVE・修正版・各事業者の対応状況は変動するため、適用判断時には原典と自環境を再確認してください。本文の参照番号 [n] は末尾「参照」の根拠URLに対応します。 本稿での「確認」の範囲 ... — はてなブックマーク テクノロジー / score: 95 (LinuxネットワークスタックとKVMに関する深刻な脆弱性の詳細な解説)</description>
-</item>
-<item>
-<title>[95] さくらのVPSにおけるLinuxカーネルの脆弱性（CVE-2026-99999）への対応状況について</title>
-<link>https://vps.sakura.ad.jp/contents/info/202610-pendingapply/</link>
-<guid isPermaLink="true">https://vps.sakura.ad.jp/contents/info/202610-pendingapply/</guid>
-<pubDate>Fri, 16 Oct 2026 13:16:01 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>平素よりさくらのVPSをご利用いただき、誠にありがとうございます。 Linuxカーネルのネットワーク処理に関する脆弱性（CVE-2026-99999、通称「PwnEscape」）について、さくらのVPSにおける現在の対応状況をご案内いたします。 現在、さくらのVPSでは石狩、東京、大阪の全リージョンで新規申し込みの受付を一時的に停止し... — はてなブックマーク テクノロジー / score: 95 (Linuxカーネルの深刻な脆弱性対応)</description>
 </item>
 <item>
 <title>[95] 「Google Chrome 155」に再びセキュリティ更新、「Critical」1件を含む10件の脆弱性を修正／Windows/Mac向けはv155.0.8059.84/.85、Linux向けはv155.0.8059.84</title>
@@ -495,6 +495,14 @@
 <description> — CodeZine / score: 75 (GitHubの新機能一般提供のニュース)</description>
 </item>
 <item>
+<title>[75] OpenAIの暴走AI、政府サイトの病床データ24年分を無断取得　他人の仮想通貨で支払い、新たに4件（平和博） - エキスパート - Yahoo!ニュース</title>
+<link>https://news.yahoo.co.jp/expert/articles/5e8495cadb5412ac2ca85a7253509eadf5360471</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/expert/articles/5e8495cadb5412ac2ca85a7253509eadf5360471</guid>
+<pubDate>Sat, 17 Oct 2026 04:03:08 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>暴走AIエージェントが、政府サイトのアクセス制限を回避して24年分の病床データを無断で取得し、別の事例では他人の仮想通貨ウォレットから勝手に手数料を支払っていた――。 オープンAIは10月15日、新たに4件のAI暴走事例を公表した。いずれも6月に発生し、うち2件は「重大」とされた。 同じ15日にはインド政府も、複数の... — はてなブックマーク テクノロジー / score: 75 (AIエージェントの暴走事例とセキュリティ影響)</description>
+</item>
+<item>
 <title>[75] 画像アップロードAPIのセキュリティ対策を、実装レベルで振り返る</title>
 <link>https://qiita.com/vaon-luandv/items/a4719b247a0ec489e4c3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
 <guid isPermaLink="true">https://qiita.com/vaon-luandv/items/a4719b247a0ec489e4c3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
@@ -511,28 +519,12 @@
 <description>“It’s just timestamps”: the decades-old mystery of the origins of one of the most popular cryptographic standards has been explained. We pursued this long-standing open question of the cryptographic community to settle concerns about ECDSA, which is one of our most widely used cryptographic stand... — はてなブックマーク テクノロジー / score: 75 (暗号技術の歴史的疑問の解明に関する興味深い技術的トピック)</description>
 </item>
 <item>
-<title>[75] 日本郵便のメアドから迷惑メール</title>
-<link>https://news.yahoo.co.jp/pickup/6599037?source=rss</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6599037?source=rss</guid>
-<pubDate>Fri, 16 Oct 2026 12:37:09 +0000</pubDate>
-<category>Yahoo!ニュース IT</category>
-<description> — Yahoo!ニュース IT / score: 75 (日本郵便のドメインを利用した迷惑メール問題の注意喚起)</description>
-</item>
-<item>
 <title>[75] 10月30日以降にFacebook・Instagram・WhatsAppを利用する企業アカウントはMetaが自社のウェブサイトをスクレイピングすることに同意したものとみなされる</title>
 <link>https://gigazine.net/news/20261016-meta-scraping/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261016-meta-scraping/</guid>
 <pubDate>Fri, 16 Oct 2026 10:00:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>Metaが商用利用規約を更新しました。2026年10月30日から有効となる新規約に基づくと、Facebook・Instagram・Messenger・WhatsAppにビジネスアカウントを持つ企業や著名人は、そのアカウントに関連付けられたウェブサイトをMetaがクロールすることに同意したものと見なされる可能性があると専門家が指摘しています。 続きを読む... — GIGAZINE / score: 75 (Metaの商用利用規約変更とスクレイピング同意の話題)</description>
-</item>
-<item>
-<title>[75] 攻撃受け 県メアドから迷惑メール</title>
-<link>https://news.yahoo.co.jp/pickup/6599003?source=rss</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6599003?source=rss</guid>
-<pubDate>Fri, 16 Oct 2026 08:42:36 +0000</pubDate>
-<category>Yahoo!ニュース IT</category>
-<description> — Yahoo!ニュース IT / score: 75 (組織メールアドレスが悪用された迷惑メール問題)</description>
 </item>
 <item>
 <title>[75] Meta、オープンウェイトモデル「Muse Spark Open」を公開</title>
@@ -805,6 +797,14 @@
 <pubDate>Mon, 05 Oct 2026 15:27:19 +0000</pubDate>
 <category>Publickey</category>
 <description>Googleはサンドボックス型コンテナランタイムの「gVisor」をCloud Native Computing Foundation（CNCF）に寄贈したことを発表しました。 gVisorはコンテナ型仮想マシンの業界標準であるOCI（Op... — Publickey / score: 75 (gVisorのCNCF寄贈による業界標準化の推進)</description>
+</item>
+<item>
+<title>[75] Supabase、1サーバあたり数百万ものSQLiteをホストする「Turso」買収を発表。AIエージェントで加速するDB需要に対応</title>
+<link>https://www.publickey1.jp/blog/26/supabase1sqlitetursoaidb.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/supabase1sqlitetursoaidb.html</guid>
+<pubDate>Sun, 04 Oct 2026 15:56:27 +0000</pubDate>
+<category>Publickey</category>
+<description>PostgreSQLをベースにしたデータベースサービス「Supabase」などを提供しているSupabaseは、SQLiteをベースとしたデータベースサービスを提供する「Turso」を買収したことを発表しました。 Turso is join... — Publickey / score: 75 (SupabaseによるTurso買収の重要なビジネスニュース)</description>
 </item>
 </channel>
 </rss>
