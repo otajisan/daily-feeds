@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sat, 17 Oct 2026 22:07:35 +0000</lastBuildDate>
+<lastBuildDate>Sun, 18 Oct 2026 00:25:37 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[98] 「GitLab」にまたも緊急パッチ、CVSS基本値「10.0」の脆弱性に対処／認証なしでサーバー上で任意のコードを実行されるおそれ</title>
@@ -23,20 +23,20 @@
 <description>悪意のある攻撃者がLinuxの仮想マシンを不正に操作することで、仮想マシンの境界を抜けてホスト側のLinux OSで不正なコードを実行できる可能性がある脆弱性「PwnEscape」（CVE-2026-99999）の情報が公開されています。 ... — Publickey / score: 95 (Linuxカーネルの深刻な脆弱性の報告)</description>
 </item>
 <item>
-<title>[95] CVE-2026-99999（PwnEscape）を読み解く──「KVMの脆弱性」ではなく、Linuxネットワークスタックの脆弱性 - Qiita</title>
-<link>https://qiita.com/k2_naka/items/fa87685231377f15e7e3</link>
-<guid isPermaLink="true">https://qiita.com/k2_naka/items/fa87685231377f15e7e3</guid>
-<pubDate>Fri, 16 Oct 2026 17:16:58 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>10月17日更新：修正配布と評価情報を追記 初稿の確認後に、Debian trixieの修正告知、AlmaLinuxのテスト版、CISAの追加評価が公表されました。Proxmoxの修正ビルド、SUSE・Red Hatの評価、さくらのVPS等の受付制限は、今回確認範囲に加えた情報であり、すべてが10月17日に新たに発生した出来事という意味ではありません... — はてなブックマーク テクノロジー / score: 95 (LinuxネットワークスタックとKVMに関する深刻な脆弱性の詳細な解説)</description>
-</item>
-<item>
 <title>[95] 「Google Chrome 155」に再びセキュリティ更新、「Critical」1件を含む10件の脆弱性を修正／Windows/Mac向けはv155.0.8059.84/.85、Linux向けはv155.0.8059.84</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2148608.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2148608.html</guid>
 <pubDate>Fri, 16 Oct 2026 12:52:22 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Googleは10月15日（現地時間）、デスクトップ向け「Google Chrome」の安定（Stable）チャネルをアップデートした。今後数日から数週間をかけて、Windows/Mac環境にはv155.0.8059.84/.85、Linux環境にはv155.0.8059.84が展開される。 — 窓の杜 / score: 95 (Critical級を含むChromeの緊急セキュリティアップデート)</description>
+</item>
+<item>
+<title>[95] CVE-2026-99999（PwnEscape）を読み解く──「KVMの脆弱性」ではなく、Linuxネットワークスタックの脆弱性</title>
+<link>https://qiita.com/k2_naka/items/fa87685231377f15e7e3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/k2_naka/items/fa87685231377f15e7e3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Fri, 16 Oct 2026 12:48:39 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>工程 担当 課題提示・取捨選択・内容チェック 筆者 原案作成・編成 Claude Fable 5.1 事実検証（検証メモ） GPT-6 Astra 一次資料照合・最終稿 Claude Fable 5.1 本稿は筆者個人の分析であり、所属組織や... — Qiita 人気記事 / score: 95 (LinuxネットワークスタックとKVMに関する深刻な脆弱性の詳細な解説)</description>
 </item>
 <item>
 <title>[95] データ転送ライブラリ「curl」に特定の条件でリモートからコードを実行される脆弱性／深刻度Highを含む24件の脆弱性を修正したv8.23.0が公開</title>
@@ -159,12 +159,12 @@
 <description>ソースネクストへの不正アクセスで会員情報が流出した問題では、「暗号化がない状態のパスワード」が含まれていたことをNHKなどが報じており、注目を集めています。 どのような方式でパスワードを管理していたのか、運営会社に聞いてみました。 システム連携用に暗号化して保存していたソースネクストの発表によれば、直... — はてなブックマーク テクノロジー / score: 85 (ソースネクストの不適切なパスワード管理問題)</description>
 </item>
 <item>
-<title>[85] いつもの銀行アプリが偽物に？ 本物そっくりにすり替えるマルウェアが見つかる</title>
-<link>https://www.gizmodo.jp/article/2610-fake-banking-app-malware-hirudo/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2610-fake-banking-app-malware-hirudo/</guid>
-<pubDate>Sat, 17 Oct 2026 04:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>いつもの銀行アプリが本物そっくりにすり替わる新型マルウェア「Hirudo」が発見されました。手口や安全対策を分かりやすく解説します。 — ギズモード・ジャパン / score: 85 (セキュリティ脅威となる偽造マルウェアの解説)</description>
+<title>[85] ドコモの「緊急地震速報」不配、原因を発表　「従来と異なるデータ」で誤認識</title>
+<link>https://k-tai.watch.impress.co.jp/docs/news/2149025.html</link>
+<guid isPermaLink="true">https://k-tai.watch.impress.co.jp/docs/news/2149025.html</guid>
+<pubDate>Sat, 17 Oct 2026 06:57:30 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>ドコモの「緊急地震速報」不配、原因を発表 「従来と異なるデータ」で誤認識 — はてなブックマーク テクノロジー / score: 85 (重要インフラのシステム障害に関する原因発表)</description>
 </item>
 <item>
 <title>[85] Next.js 14→15 のfetch キャッシュ破壊的変更と最小移行チェックリスト</title>
@@ -519,6 +519,14 @@
 <description>アップロードされた画像を受け取るAPIで、最低限入れておきたい入口の対策をチェックリストにしました。各項目は「何を確かめるか、どの攻撃を想定するか、コード、失敗時に返すステータス」の順で書いています。全部を入れる必要はないと思うので、気になる項目だけ拾ってもらえれば十分です... — Qiita 人気記事 / score: 75 (画像アップロードAPIのセキュリティ対策チェックリスト)</description>
 </item>
 <item>
+<title>[75] AnthropicのAI時代のコードレビュー術 - Claude Codeによる自動レビューと人間の役割｜npaka</title>
+<link>https://note.com/npaka/n/ndb4b0f424ced</link>
+<guid isPermaLink="true">https://note.com/npaka/n/ndb4b0f424ced</guid>
+<pubDate>Sat, 17 Oct 2026 02:09:01 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>1. はじめに2026年10月、Anthropicは「How the Claude Code team does code review」という技術記事を公開しました。 この記事では、AIによるコード生成が急増する中、Anthropicがどのようにコードレビューを自動化し、品質と開発速度を両立しているのかを紹介しています。 Anthropicでは、Claude Code自身のコードの約9... — はてなブックマーク テクノロジー / score: 75 (AIを活用した先進的なコードレビューの実践例)</description>
+</item>
+<item>
 <title>[75] Claude Code でメモアプリを作って Microsoft Store に公開するまでにやった工夫</title>
 <link>https://qiita.com/morststs/items/246bdb871fef835a77a2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
 <guid isPermaLink="true">https://qiita.com/morststs/items/246bdb871fef835a77a2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
@@ -797,14 +805,6 @@
 <pubDate>Tue, 06 Oct 2026 20:00:00 +0000</pubDate>
 <category>Next.js Blog</category>
 <description>Next.js 16.4 introduces lazy compilation, smaller Turbopack output, React 19.3 features, Cache Components improvements, and new developer tooling. — Next.js Blog / score: 75 (主要Webフレームワークのマイナーリリースと新機能)</description>
-</item>
-<item>
-<title>[75] Sharing AI progress in mathematics</title>
-<link>https://openai.com/index/sharing-ai-progress-in-mathematics</link>
-<guid isPermaLink="true">https://openai.com/index/sharing-ai-progress-in-mathematics</guid>
-<pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub. — OpenAI News / score: 75 (AIモデルによる数学の未解決問題へのアプローチ)</description>
 </item>
 </channel>
 </rss>
