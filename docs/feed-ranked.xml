@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sun, 18 Oct 2026 00:25:37 +0000</lastBuildDate>
+<lastBuildDate>Sun, 18 Oct 2026 02:12:24 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[98] 「GitLab」にまたも緊急パッチ、CVSS基本値「10.0」の脆弱性に対処／認証なしでサーバー上で任意のコードを実行されるおそれ</title>
@@ -367,14 +367,6 @@
 <description>Everything is moving faster in the age of AI, and that includes security threats. What used to take attackers weeks to exploit can now happen in just a few minutes. Standard vulnerability scans that run on artifacts at rest can catch basic setup issues, but to detect an attack that's actively happening you need real-time runtime protection. Today, we’re introducing the Wiz Runtime Sensor add-on for Google Kubernetes Engine (GKE), in preview. This built-in integration brings low-touch deployment, — Google Cloud Blog / score: 80 (GKE向けKubernetes脅威検出ツールの発表)</description>
 </item>
 <item>
-<title>[80] 流出個人情報を売買 闇サイト実態</title>
-<link>https://news.yahoo.co.jp/pickup/6599033?source=rss</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6599033?source=rss</guid>
-<pubDate>Fri, 16 Oct 2026 12:53:16 +0000</pubDate>
-<category>Yahoo!ニュース IT</category>
-<description> — Yahoo!ニュース IT / score: 80 (流出した個人情報の闇サイトでの売買実態に関する報道)</description>
-</item>
-<item>
 <title>[80] Googleが「魔法状態の培養」を量子プロセッサ「Willow」で実証、量子ビットのエラーを約40分の1に減らすことに成功</title>
 <link>https://gigazine.net/news/20261016-google-quantum-ai-magic-state-cultivation/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261016-google-quantum-ai-magic-state-cultivation/</guid>
@@ -535,14 +527,6 @@
 <description>はじめに マークダウンのメモアプリ Sirusita を、Claude Code にほぼすべて書いてもらって作りました。最後は Microsoft Store で公開しています。 技術スタック: Wails v2（Go）+ Svelte 5 + Monaco Edito... — Qiita 人気記事 / score: 75 (Claude Codeを活用したアプリ開発と公開の実例)</description>
 </item>
 <item>
-<title>[75] Claude reveals ECDSA curve origins</title>
-<link>https://www.anthropic.com/research/ecdsa-curve-origins</link>
-<guid isPermaLink="true">https://www.anthropic.com/research/ecdsa-curve-origins</guid>
-<pubDate>Fri, 16 Oct 2026 20:31:52 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>“It’s just timestamps”: the decades-old mystery of the origins of one of the most popular cryptographic standards has been explained. We pursued this long-standing open question of the cryptographic community to settle concerns about ECDSA, which is one of our most widely used cryptographic stand... — はてなブックマーク テクノロジー / score: 75 (暗号技術の歴史的疑問の解明に関する興味深い技術的トピック)</description>
-</item>
-<item>
 <title>[75] 10月30日以降にFacebook・Instagram・WhatsAppを利用する企業アカウントはMetaが自社のウェブサイトをスクレイピングすることに同意したものとみなされる</title>
 <link>https://gigazine.net/news/20261016-meta-scraping/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261016-meta-scraping/</guid>
@@ -557,6 +541,14 @@
 <pubDate>Fri, 16 Oct 2026 07:09:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Metaは2026年10月15日、オープンウェイトモデル「Muse Spark Open」を公開した。 — gihyo.jp / score: 75 (Metaによる新オープンウェイトモデルの公開)</description>
+</item>
+<item>
+<title>[75] 画像生成・編集モデル「FLUX 3 Image Klein」が登場、5.6BのオープンモデルでゲーミングPCでローカル動作し日本語テキストの描画や位置指定にも対応</title>
+<link>https://gigazine.net/news/20261016-flux-3-image-klein/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261016-flux-3-image-klein/</guid>
+<pubDate>Fri, 16 Oct 2026 03:17:22 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Black Forest Labsが画像生成AI「FLUX 3 Image Klein」を現地時間の2026年10月15日にオープンモデルとして公開しました。オープンモデルの中では最高峰の性能を備えつつ、ゲーミングPCで実用的な速度で実行できる軽量さも両立しています。 FLUX 3 Image Klein: Open weights image generation and editing | Black Fores... — はてなブックマーク テクノロジー / score: 75 (高性能なオープン画像生成モデルの登場)</description>
 </item>
 <item>
 <title>[75] 有名 OSS が PR を閉じはじめた。何が起きていて、どう向き合うか</title>
@@ -805,6 +797,14 @@
 <pubDate>Tue, 06 Oct 2026 20:00:00 +0000</pubDate>
 <category>Next.js Blog</category>
 <description>Next.js 16.4 introduces lazy compilation, smaller Turbopack output, React 19.3 features, Cache Components improvements, and new developer tooling. — Next.js Blog / score: 75 (主要Webフレームワークのマイナーリリースと新機能)</description>
+</item>
+<item>
+<title>[75] Sharing AI progress in mathematics</title>
+<link>https://openai.com/index/sharing-ai-progress-in-mathematics</link>
+<guid isPermaLink="true">https://openai.com/index/sharing-ai-progress-in-mathematics</guid>
+<pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub. — OpenAI News / score: 75 (AIモデルによる数学の未解決問題へのアプローチ)</description>
 </item>
 </channel>
 </rss>
