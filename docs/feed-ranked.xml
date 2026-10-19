@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 19 Oct 2026 08:17:17 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 10:09:29 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] Linuxカーネルの深刻な脆弱性「PwnEscape」（CVE-2026-99999）、ゲストの仮想マシンからホスト側Linux OSに不正なコードを実行できる可能性</title>
@@ -79,14 +79,6 @@
 <description> — CodeZine / score: 90 (Next.jsのリモートコード実行脆弱性修正の重要アップデート)</description>
 </item>
 <item>
-<title>[90] 「skyticket」クレカ情報も流出、カード番号など最大6140人分　「流出なし」の初報を訂正</title>
-<link>https://www.itmedia.co.jp/news/article/2610/17/2000002350/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/17/2000002350/</guid>
-<pubDate>Sat, 17 Oct 2026 03:38:18 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>同社は2018年6月までカード情報を自社サーバに保管していた。その後、決済代行会社での管理に移行したが、移行時に「skyticket プレミアム」の会費支払いの変更履歴（ログ）が削除されないままサーバに残っており、これにカード情報が含まれていた。 これ以外にも、18年6月以前の支払いに関するカード情報がサーバに残っ... — はてなブックマーク テクノロジー / score: 90 (クレジットカード情報流出を含む重大なセキュリティ事案)</description>
-</item>
-<item>
 <title>[90] Next.js Security Update for Upstream Vulnerabilities</title>
 <link>https://nextjs.org/blog/nextjs-security-update-october-14-2026</link>
 <guid isPermaLink="true">https://nextjs.org/blog/nextjs-security-update-october-14-2026</guid>
@@ -143,12 +135,12 @@
 <description>GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly. — OpenAI News / score: 90 (主要AIの次世代メジャーリリースと新UIの発表)</description>
 </item>
 <item>
-<title>[85] 「Renta!」停止は「不正アクセスの可能性」のため　詳細は調査中、再開未定</title>
-<link>https://www.itmedia.co.jp/news/article/2610/19/2000002379/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/19/2000002379/</guid>
-<pubDate>Mon, 19 Oct 2026 05:18:39 +0000</pubDate>
+<title>[85] パピレス、電子書籍「Renta！」サービス停止　不正アクセスの恐れ - 日本経済新聞</title>
+<link>https://www.nikkei.com/article/DGXZQOUC193FH0Z11C26A0000000/</link>
+<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUC193FH0Z11C26A0000000/</guid>
+<pubDate>Mon, 19 Oct 2026 05:24:22 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>電子書籍サービス「Renta!」を運営するパピレスは10月19日、18日からサービスを一時停止している理由について、「Renta!のサーバに対して外部からの不正なアクセスの可能性があることを把握したため」と明かした。 不正アクセスの詳細や影響範囲は調査中。サービス再開時期は「未定」のままだ。 — はてなブックマーク テクノロジー / score: 85 (電子書籍サービスの不正アクセスによる停止)</description>
+<description>パピレスは19日、18日に運営する電子書籍販売サイト「Renta！（レンタ）」のサービスを一時停止したと発表した。同日、サーバーに外部から不正アクセスを受けた可能性を把握し、緊急メンテナンスをしている。不正アクセ — はてなブックマーク テクノロジー / score: 85 (サービス停止を伴う重大な不正アクセスの恐れ)</description>
 </item>
 <item>
 <title>[85] AIプログラミングツール「OpenCode」でAPIキー流出の可能性、OpenAIやClaudeの利用残高が不正利用でゼロになったとの報告も</title>
@@ -319,6 +311,14 @@
 <description>Anthropicは10月7日、AIモデル「Claude Haiku 5.5」を発表した。 — gihyo.jp / score: 85 (Claude Haiku 5.5のリリースと性能・コスト詳細)</description>
 </item>
 <item>
+<title>[80] 2026年10月パッチに新たな問題、［スマート アプリ コントロール］をONにできない／Microsoftが回避策を案内</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2149237.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2149237.html</guid>
+<pubDate>Mon, 19 Oct 2026 09:48:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Microsoftは、2026年10月の月例セキュリティ更新プログラム「KB5127648」（10月13日リリース）に既知の不具合があることを明らかにした。一部のデバイスで［スマート アプリ コントロール］をONにできなくなることがあるという。以下のOSバージョンに影響する。 — 窓の杜 / score: 80 (OSの月例アプデに伴うセキュリティ機能の不具合)</description>
+</item>
+<item>
 <title>[80] GitHub、Copilotがコードスキャンアラートを修正する「agentic autofix」を一般提供</title>
 <link>https://codezine.jp/article/detail/30053</link>
 <guid isPermaLink="true">https://codezine.jp/article/detail/30053</guid>
@@ -471,14 +471,6 @@
 <description>AWSは、パブリックプレビュー版のAmazon Linux 2027これはAL2023をベースとしており、SELinuxがデフォルトでEnforcingモードに設定されている。このデフォルト設定は、移行を計画しているチームにとって最も追加作業が発生する可能性が高い変更点である。また、今回の発表では、AL2023のサポート終了時期や、AL2027が一般提供（GA: General Availability）に到達する時期については明らかにされていない。 By Steef-Jan Wiggers Translated by Naoko Koshimura — InfoQ Japan / score: 80 (Amazon Linux 2027でSELinux強制へ)</description>
 </item>
 <item>
-<title>[75] サイバートラスト、データ主権確保を実現するPQC対応可能な鍵管理サービスを提供開始</title>
-<link>https://ascii.jp/elem/000/004/443/4443843/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/443/4443843/?rss</guid>
-<pubDate>Mon, 19 Oct 2026 06:30:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>サイバートラスト、データ主権確保を実現するPQC対応可能な鍵管理サービスを提供開始 — ASCII.jp / score: 75 (PQC対応の鍵管理サービス開始という暗号技術の話題)</description>
-</item>
-<item>
 <title>[75] 「IntelliJ IDEA」のJava/Kotlin機能を「VS Code」や「Cursor」で、拡張機能がv1.0に／プレビューを卒業、初の安定版</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2149002.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2149002.html</guid>
@@ -503,12 +495,12 @@
 <description>太陽光や風力などの再生可能エネルギーを利用した発電施設は世界各国で建設されており、発電コストも年々安くなっています。太陽光発電や蓄電池関連のメディアであるpv bagazineが、「2025年に初めて太陽光発電による全世界の発電量が原子力発電を上回った」と報じました。 続きを読む... — GIGAZINE / score: 75 (太陽光発電が原子力発電の発電量を凌駕)</description>
 </item>
 <item>
-<title>[75] JETROのホームページが不正アクセスで一時的に公開停止 | NHKニュース</title>
-<link>https://news.web.nhk/newsweb/na/nd-20261019de61442</link>
-<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261019de61442</guid>
-<pubDate>Mon, 19 Oct 2026 03:12:05 +0000</pubDate>
+<title>[75] VRAM 8GBで動く画像生成AI「FLUX 3 Image Klein」が公開</title>
+<link>https://pc.watch.impress.co.jp/docs/news/2149183.html</link>
+<guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2149183.html</guid>
+<pubDate>Mon, 19 Oct 2026 05:27:59 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>JETRO＝日本貿易振興機構はホームページが不正アクセスを受けたことがわかったため、ホームページの公開を一時的に停止しています。 情報が漏えいしたかどうかなどを調査していて、現時点で復旧の見通しは立… — はてなブックマーク テクノロジー / score: 75 (公的機関のホームページ不正アクセス被害)</description>
+<description>VRAM 8GBで動く画像生成AI「FLUX 3 Image Klein」が公開 — はてなブックマーク テクノロジー / score: 75 (VRAM8GBで動く軽量画像生成AIの登場)</description>
 </item>
 <item>
 <title>[75] Anthropic、社内でAIエージェントの稼働時間が人間の6倍に　技術系初級職の採用比率は27％→9％に激減</title>
@@ -805,6 +797,14 @@
 <pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub. — OpenAI News / score: 75 (AIモデルによる数学の未解決問題へのアプローチ)</description>
+</item>
+<item>
+<title>[75] Google、サンドボックス型コンテナランタイムの「gVisor」をCNCFに寄贈したと発表</title>
+<link>https://www.publickey1.jp/blog/26/googlegvisorcncf.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/googlegvisorcncf.html</guid>
+<pubDate>Mon, 05 Oct 2026 15:27:19 +0000</pubDate>
+<category>Publickey</category>
+<description>Googleはサンドボックス型コンテナランタイムの「gVisor」をCloud Native Computing Foundation（CNCF）に寄贈したことを発表しました。 gVisorはコンテナ型仮想マシンの業界標準であるOCI（Op... — Publickey / score: 75 (gVisorのCNCF寄贈による業界標準化の推進)</description>
 </item>
 </channel>
 </rss>
