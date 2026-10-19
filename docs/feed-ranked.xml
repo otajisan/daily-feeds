@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 19 Oct 2026 20:09:45 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 22:08:57 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] Linuxカーネルの深刻な脆弱性「PwnEscape」（CVE-2026-99999）、ゲストの仮想マシンからホスト側Linux OSに不正なコードを実行できる可能性</title>
@@ -21,14 +21,6 @@
 <pubDate>Fri, 16 Oct 2026 12:52:22 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Googleは10月15日（現地時間）、デスクトップ向け「Google Chrome」の安定（Stable）チャネルをアップデートした。今後数日から数週間をかけて、Windows/Mac環境にはv155.0.8059.84/.85、Linux環境にはv155.0.8059.84が展開される。 — 窓の杜 / score: 95 (Critical級を含むChromeの緊急セキュリティアップデート)</description>
-</item>
-<item>
-<title>[95] CVE-2026-99999（PwnEscape）を読み解く──「KVMの脆弱性」ではなく、Linuxネットワークスタックの脆弱性</title>
-<link>https://qiita.com/k2_naka/items/fa87685231377f15e7e3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/k2_naka/items/fa87685231377f15e7e3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Fri, 16 Oct 2026 12:48:39 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>工程 担当 課題提示・取捨選択・内容チェック 筆者 原案作成・編成 Claude Fable 5.1 事実検証（検証メモ） GPT-6 Astra 一次資料照合・最終稿 Claude Fable 5.1 本稿は筆者個人の分析であり、所属組織や... — Qiita 人気記事 / score: 95 (LinuxネットワークスタックとKVMに関する深刻な脆弱性の詳細な解説)</description>
 </item>
 <item>
 <title>[95] データ転送ライブラリ「curl」に特定の条件でリモートからコードを実行される脆弱性／深刻度Highを含む24件の脆弱性を修正したv8.23.0が公開</title>
@@ -157,6 +149,22 @@
 <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly. — OpenAI News / score: 90 (主要AIの次世代メジャーリリースと新UIの発表)</description>
+</item>
+<item>
+<title>[85] マイクロソフトが日本の警察庁と連携、中国系の詐欺インフラを無力化</title>
+<link>https://ascii.jp/limit/group/ida/elem/000/004/443/4443766/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/limit/group/ida/elem/000/004/443/4443766/?rss</guid>
+<pubDate>Mon, 19 Oct 2026 22:00:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>最近、日本企業を狙ったサイバー攻撃が頻発し、テレビのトップニュースになっているが、オンライン経由の詐欺の被害も極めて深刻になっている。 — ASCII.jp / score: 85 (警察庁とMSによるサイバー攻撃対策)</description>
+</item>
+<item>
+<title>[85] サイバー攻撃受け情報漏えい、中国語のＡＩエージェント悪用か…国内８０社への攻撃巡り痕跡</title>
+<link>https://www.yomiuri.co.jp/national/20261019-GYT1T00477/</link>
+<guid isPermaLink="true">https://www.yomiuri.co.jp/national/20261019-GYT1T00477/</guid>
+<pubDate>Mon, 19 Oct 2026 20:16:56 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>【読売新聞】 国内の企業・団体がサイバー攻撃を受けて個人情報が大量漏えいしている問題で、システムの 脆弱 （ ぜいじゃく ） 性を診断する中国語のＡＩ（人工知能）エージェントが一部の攻撃で悪用されたとみられることが１９日、日本のセキ — はてなブックマーク テクノロジー / score: 85 (サイバー攻撃と脆弱性悪用の重大なセキュリティインシデント)</description>
 </item>
 <item>
 <title>[85] AWS LambdaでNext.jsやHonoなどNode.jsフレームワークとアプリをそのままデプロイ、実行できる「AWS Lambda Web Functions」発表</title>
@@ -399,14 +407,6 @@
 <description>米Microsoftは、2026年10月の月例セキュリティ更新プログラム「KB5127648」（10月13日リリース）に既知の不具合があることを明らかにした。一部のデバイスで［スマート アプリ コントロール］をONにできなくなることがあるという。以下のOSバージョンに影響する。 — 窓の杜 / score: 80 (OSの月例アプデに伴うセキュリティ機能の不具合)</description>
 </item>
 <item>
-<title>[80] 【第一報】当社回線申込・受付管理システムへの不正アクセスの発生について - ニフティ株式会社</title>
-<link>https://www.nifty.co.jp/newsrelease/nifty202610195434.htm</link>
-<guid isPermaLink="true">https://www.nifty.co.jp/newsrelease/nifty202610195434.htm</guid>
-<pubDate>Mon, 19 Oct 2026 09:00:21 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>このたび、当社が管理する回線申込・受付管理システムにおいて、外部からの不正なアクセスを確認しました。 なお、本システムは当社側で情報登録をするための管理用ツールであり、お客様が直接アクセスして申し込むWebサイト（申込フォーム等）とは異なるシステムです。 お客様をはじめ、関係者の皆様に多大なるご迷惑お... — はてなブックマーク テクノロジー / score: 80 (企業システムへの不正アクセスの公式第一報)</description>
-</item>
-<item>
 <title>[80] GitHub、Copilotがコードスキャンアラートを修正する「agentic autofix」を一般提供</title>
 <link>https://codezine.jp/article/detail/30053</link>
 <guid isPermaLink="true">https://codezine.jp/article/detail/30053</guid>
@@ -429,14 +429,6 @@
 <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
 <category>Inside Java</category>
 <description>The following JEP is targeted to JDK 28: 546: Adaptive Heap Sizing for ZGC — Inside Java / score: 80 (JDK 28に向けたZGCのJEPターゲット)</description>
-</item>
-<item>
-<title>[80] 人気アニメの動画をダウンロードしたつもりが中身はマルウェアだった話</title>
-<link>https://gigazine.net/news/20261019-torrent-sites-malware/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261019-torrent-sites-malware/</guid>
-<pubDate>Sun, 18 Oct 2026 21:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>Sonarrユーザーがトレントサイトにアップロードされた実行ファイル(.exe)形式のマルウェアに遭遇した事例を通して、発見の経緯・詳細な技術分析・推奨される対策について解説していました。 続きを読む... — GIGAZINE / score: 80 (トレントを狙ったマルウェア感染事例と技術分析)</description>
 </item>
 <item>
 <title>[80] AppleがAI生成の性的画像悪用対策を強化〜App Store規約改定</title>
@@ -567,6 +559,14 @@
 <description>Amazon Web Services（AWS）は、Azure SDKで書かれた.NETアプリケーションをAWS SDKを用いたコードに変換する新機能をAWS Transformに搭載したと発表しました。 これによりMicrosoft Az... — Publickey / score: 75 (AzureからAWSへの移行支援ツールで実用的)</description>
 </item>
 <item>
+<title>[75] M5Stamp P4（ESP32-P4）でMMUなしのLinux 7.2を動かし、Wi-FiとSSHまで通した話【AIと250コミット】</title>
+<link>https://qiita.com/tsuyoshi-otake/items/91ef586f1a1a689b0842?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/tsuyoshi-otake/items/91ef586f1a1a689b0842?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Mon, 19 Oct 2026 11:09:50 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>M5Stamp P4（ESP32-P4）向けに、MMUのないRISC-V上で動くLinuxディストリビューションを作っています。v0.3.2 でカーネルを Linux 7.2.11 に上げ、Wi-Fi・SSH・vi・MicroPython まで普通に使えるようになりました。... — Qiita 人気記事 / score: 75 (マイコンボードでLinuxを動作させる高度な技術検証)</description>
+</item>
+<item>
 <title>[75] 「IntelliJ IDEA」のJava/Kotlin機能を「VS Code」や「Cursor」で、拡張機能がv1.0に／プレビューを卒業、初の安定版</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2149002.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2149002.html</guid>
@@ -621,14 +621,6 @@
 <pubDate>Sat, 17 Oct 2026 08:00:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 75 (GitHubの新機能一般提供のニュース)</description>
-</item>
-<item>
-<title>[75] 画像アップロードAPIのセキュリティ対策を、実装レベルで振り返る</title>
-<link>https://qiita.com/vaon-luandv/items/a4719b247a0ec489e4c3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/vaon-luandv/items/a4719b247a0ec489e4c3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Sat, 17 Oct 2026 03:50:32 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>アップロードされた画像を受け取るAPIで、最低限入れておきたい入口の対策をチェックリストにしました。各項目は「何を確かめるか、どの攻撃を想定するか、コード、失敗時に返すステータス」の順で書いています。全部を入れる必要はないと思うので、気になる項目だけ拾ってもらえれば十分です... — Qiita 人気記事 / score: 75 (画像アップロードAPIのセキュリティ対策チェックリスト)</description>
 </item>
 <item>
 <title>[75] Meta、オープンウェイトモデル「Muse Spark Open」を公開</title>
@@ -693,14 +685,6 @@
 <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
 <category>Claude リリースノート</category>
 <description>The Compliance API now returns the text each organization member saved as Instructions for Claude in claude.ai and as Global instructions in Cowork, in beta for Claude Enterprise organizations. Call GET /v1/compliance/organizations/{org_uuid}/user_preferences with your existing Compliance Access Key and the read:compliance_user_data scope. See List user preferences . Fast mode is out of research preview for Claude Opus 5.5, and you no longer need to request access. Requests to Claude Opus 5.5 no — Claude リリースノート / score: 75 (Claudeプラットフォームのマネージドエージェント更新)</description>
-</item>
-<item>
-<title>[75] Microsoft、「Office in Copilot」を発表 ～Word、Excel、PowerPointがCopilotアプリに統合／最近作成したOffice文書や生成コンテンツのライブラリでより密接な連携が可能</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2147444.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2147444.html</guid>
-<pubDate>Wed, 14 Oct 2026 21:45:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Microsoftは10月9日（現地時間）、「Microsoft Copilot」アプリに「Microsoft 365」（Office）アプリのコンテンツ作成・編集・共同作業といった機能を統合する「Office in Copilot」を発表した。 — 窓の杜 / score: 75 (Microsoft CopilotへのOffice機能統合という大型発表)</description>
 </item>
 <item>
 <title>[75] Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ</title>
@@ -805,6 +789,22 @@
 <pubDate>Fri, 09 Oct 2026 10:36:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Anthropicは2026年10月8日、重要インフラとオープンソースソフトウェア（OSS）をサイバー攻撃から守る長期的な取り組み、Anthropic Cyber Missionを発表した。 — gihyo.jp / score: 75 (重要インフラとOSSのサイバー防御支援プログラム)</description>
+</item>
+<item>
+<title>[75] Asana cuts model costs 76x in browser tests with GPT-6.1 Sol</title>
+<link>https://openai.com/index/asana-browser-agent</link>
+<guid isPermaLink="true">https://openai.com/index/asana-browser-agent</guid>
+<pubDate>Fri, 09 Oct 2026 07:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models. — OpenAI News / score: 75 (AIモデル活用による大幅なコスト削減事例)</description>
+</item>
+<item>
+<title>[75] Amazon GuardDuty RDS Protection now detects data exfiltration and destruction in Aurora and RDS databases</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/guardduty-rds-data-exfiltration/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/guardduty-rds-data-exfiltration/</guid>
+<pubDate>Thu, 08 Oct 2026 08:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon GuardDuty announces an expansion of RDS Protection that extends threat detection beyond login anomalies to identify data exfiltration and data destruction attacks targeting Amazon Aurora PostgreSQL and Amazon RDS for PostgreSQL databases. Available as RDS Protection for data activity, this new capability uses machine learning (ML)-based anomaly detection and integrated threat intelligence to continuously monitor database query patterns, helping you detect unusual data activity without req — AWS What's New / score: 75 (GuardDutyによるDBのデータ持ち出し・破壊検知の強化)</description>
 </item>
 </channel>
 </rss>
