@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 19 Oct 2026 04:11:15 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 06:20:23 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] Linuxカーネルの深刻な脆弱性「PwnEscape」（CVE-2026-99999）、ゲストの仮想マシンからホスト側Linux OSに不正なコードを実行できる可能性</title>
@@ -39,20 +39,36 @@
 <description>データ転送ライブラリ「curl」の最新安定版v8.23.0が、10月14日に公開された。全24件の脆弱性を修正したセキュリティアップデートとなっている。 — 窓の杜 / score: 95 (curlの深刻度Highを含む複数脆弱性の修正)</description>
 </item>
 <item>
-<title>[95] 「Google Chrome 155」にセキュリティ更新、「Critical」7件を含む37件の脆弱性を修正【10月16日追記】／Windows/Mac向けはv155.0.8059.79/.80、「Microsoft Edge」にも同様の修正</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2147982.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2147982.html</guid>
-<pubDate>Wed, 14 Oct 2026 06:41:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Googleは10月13日（現地時間）、デスクトップ向け「Google Chrome」の安定（Stable）チャネルをアップデートした。今後数日から数週間をかけて、Windows/Mac環境にはv155.0.8059.79/.80、Linux環境にはv155.0.8059.79が展開される。 — 窓の杜 / score: 95 (Chromeの重大な脆弱性を修正する更新)</description>
-</item>
-<item>
 <title>[95] Deno開発元がCloudflareに合流。Denoの開発は終了へ、今後はCloudflare WorkersとDurable Objectsのオープンソース実装に注力</title>
 <link>https://www.publickey1.jp/blog/26/denocloudflaredenocloudflare_workersdurable_objects.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/denocloudflaredenocloudflare_workersdurable_objects.html</guid>
 <pubDate>Mon, 12 Oct 2026 15:46:53 +0000</pubDate>
 <category>Publickey</category>
 <description>JavaScriptランタイム「Deno」の開発元であるDeno LandとCloudflareは、Deno LandがCloudflareに合流すると発表しました。CloudflareによるDeno Landの買収と見られます（Deno ... — Publickey / score: 95 (Deno開発終了とCloudflare合流の重大なニュース)</description>
+</item>
+<item>
+<title>[90] 阪急阪神百貨店 約126万件漏洩か</title>
+<link>https://news.yahoo.co.jp/pickup/6599351?source=rss</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6599351?source=rss</guid>
+<pubDate>Mon, 19 Oct 2026 05:05:16 +0000</pubDate>
+<category>Yahoo!ニュース IT</category>
+<description> — Yahoo!ニュース IT / score: 90 (百貨店の大規模な個人情報漏えい事故)</description>
+</item>
+<item>
+<title>[90] 阪急阪神百貨店などの共通ID、会員ほぼ全員の情報が漏えい　約126万件</title>
+<link>https://ascii.jp/elem/000/004/443/4443739/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/443/4443739/?rss</guid>
+<pubDate>Mon, 19 Oct 2026 04:50:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>エイチ・ツー・オー リテイリングと阪急阪神百貨店は10月19日、不正アクセスにより、「H2O ID」会員情報約126万件の一部が漏えいしたと発表した。 — ASCII.jp / score: 90 (大規模な個人情報漏えいと不正アクセスの重大インシデント)</description>
+</item>
+<item>
+<title>[90] ソースネクスト、パスワードなぜ平文で流出　「暗号化していたが、鍵にアクセスできるシステムに侵入された」</title>
+<link>https://www.itmedia.co.jp/news/article/2610/19/2000002372/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/19/2000002372/</guid>
+<pubDate>Mon, 19 Oct 2026 04:15:53 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>ソースネクストの会員情報取得APIが不正アクセスを受け、最大約2252万件の氏名や住所、パスワードなどが漏えいした問題をめぐり、一部で「パスワードは平文で保存されていたのではないか」との見方が出ている。 同社の広報担当者はITmedia NEWSの取材に対して、「パスワードは暗号化して保存していた」と述べる一方、「... — はてなブックマーク テクノロジー / score: 90 (大規模な個人情報とパスワードの漏えい事案)</description>
 </item>
 <item>
 <title>[90] Next.js、リモートコード実行など3件の脆弱性を修正したv16.4.1とv15.5.28を公開</title>
@@ -119,20 +135,12 @@
 <description>GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly. — OpenAI News / score: 90 (主要AIの次世代メジャーリリースと新UIの発表)</description>
 </item>
 <item>
-<title>[85] 足利市の斎場予約システムに不正アクセス、利用者情報約8800件が漏えいのおそれ</title>
-<link>https://ascii.jp/elem/000/004/443/4443715/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/443/4443715/?rss</guid>
-<pubDate>Mon, 19 Oct 2026 04:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>ビジネステックは10月18日、栃木県足利市に提供する斎場予約システムに不正アクセスがあり、個人情報が漏えいしたおそれがあると発表した。 — ASCII.jp / score: 85 (システムへの不正アクセスと情報漏えい)</description>
-</item>
-<item>
-<title>[85] ファンケルとアテニア、不正アクセスで78万人分の個人情報漏えい　住所・氏名・電話番号など</title>
-<link>https://ascii.jp/elem/000/004/443/4443714/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/443/4443714/?rss</guid>
-<pubDate>Mon, 19 Oct 2026 03:35:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>ファンケルとアテニアは10月16日、両社のECサイトが第三者から不正アクセスを受け、会員情報の一部が外部に漏えいしたと発表した。 — ASCII.jp / score: 85 (大規模な個人情報漏えいインシデント)</description>
+<title>[85] AIプログラミングツール「OpenCode」でAPIキー流出の可能性、OpenAIやClaudeの利用残高が不正利用でゼロになったとの報告も</title>
+<link>https://gigazine.net/news/20261019-opencode-leak/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261019-opencode-leak/</guid>
+<pubDate>Mon, 19 Oct 2026 05:03:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>オープンソースのAIプログラミングツール「OpenCode」の運営元が2026年10月17日に不正アクセスを受けたことを明らかにしました。OpenAIやAnthropicなどのAIサービスを利用するためのAPIキーが漏えいした可能性があり、一部のユーザーからは身に覚えのないAI利用料金が発生したとの報告も上がっています。 続きを読む... — GIGAZINE / score: 85 (開発ツール脆弱性によるAPIキー流出被害)</description>
 </item>
 <item>
 <title>[85] 10月の「Windows Update」に注目集まる、脆弱性は過去最多、初の4桁に ～窓の杜アクセスランキング［2026/10/12～2026/10/18]【記事アクセスランキング】</title>
@@ -157,14 +165,6 @@
 <pubDate>Mon, 19 Oct 2026 00:45:36 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>このたびの不正アクセスによる情報流出について、お客様ならびに関係者の皆様に、ご心配とご迷惑をおかけしておりますことを、深くお詫び申し上げます。 本ポータルでは、本件の概要や最新の対応状況、皆様に共通するお知らせと必要なご対応をご案内しています。 お客様ごとの対象情報や必要なご対応については、メール... — はてなブックマーク テクノロジー / score: 85 (Studioサービスにおける不正アクセス・情報流出の案内)</description>
-</item>
-<item>
-<title>[85] 「カーセンサー」停止、不審なアクセス検知　リクルートの中古車情報サイト</title>
-<link>https://www.itmedia.co.jp/news/article/2610/19/2000002354/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/19/2000002354/</guid>
-<pubDate>Sun, 18 Oct 2026 23:24:58 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>リクルートは10月17日、中古車情報サイト「カーセンサーnet」に関連する全てのサービスを一時停止したと発表した。関連システムへの外部からの不審なアクセスを検知し、「顧客と取引先の安全を確保し、影響を確認するため」としている。 Web版のカーセンサーnetに加え、アプリ版や、中古車販売店向け業務支援サービス「C... — はてなブックマーク テクノロジー / score: 85 (カーセンサー等の大規模サービス停止と不正アクセス検知)</description>
 </item>
 <item>
 <title>[85] 日経の情報漏えい テレ東も影響か</title>
@@ -338,17 +338,17 @@
 <title>[80] コーディングベンチでGPT-6 Astraを超えつつ超安価な中国製AIモデル「DeepSeek-V4.1-Flash-1017」が登場</title>
 <link>https://gigazine.net/news/20261019-deepseek-v4-1-flash-1017/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261019-deepseek-v4-1-flash-1017/</guid>
-<pubDate>Mon, 19 Oct 2026 01:50:56 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>中国企業のDeepSeekがAIモデル「DeepSeek-V4.1-Flash-1017」を2026年10月17日に公開しました。 DeepSeek-V4.1-Flash-1017: Wish-Driven Programming Made Real | DeepSeek API Docs https://api-docs.deepseek.com/news/news261017 🚀 DeepSeek-V4.1-Flash-1017 is here! Stronger benchmark performance, faster task c... — はてなブックマーク テクノロジー / score: 80 (高性能かつ安価な中国製新AIモデルの登場に関する速報)</description>
+<pubDate>Mon, 19 Oct 2026 01:47:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>中国企業のDeepSeekがAIモデル「DeepSeek-V4.1-Flash-1017」を2026年10月17日に公開しました。 続きを読む... — GIGAZINE / score: 80 (高性能かつ安価な中国製新AIモデルの登場に関する速報)</description>
 </item>
 <item>
 <title>[80] 人気アニメの動画をダウンロードしたつもりが中身はマルウェアだった話</title>
 <link>https://gigazine.net/news/20261019-torrent-sites-malware/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261019-torrent-sites-malware/</guid>
-<pubDate>Sun, 18 Oct 2026 21:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>Sonarrユーザーがトレントサイトにアップロードされた実行ファイル(.exe)形式のマルウェアに遭遇した事例を通して、発見の経緯・詳細な技術分析・推奨される対策について解説していました。 続きを読む... — GIGAZINE / score: 80 (トレントを狙ったマルウェア感染事例と技術分析)</description>
+<pubDate>Sun, 18 Oct 2026 21:03:32 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Sonarrユーザーがトレントサイトにアップロードされた実行ファイル(.exe)形式のマルウェアに遭遇した事例を通して、発見の経緯・詳細な技術分析・推奨される対策について解説していました。 Someone on Torrent Sites Kept Fucking With My Sonarr https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-wi... — はてなブックマーク テクノロジー / score: 80 (トレントを狙ったマルウェア感染事例と技術分析)</description>
 </item>
 <item>
 <title>[80] AppleがAI生成の性的画像悪用対策を強化〜App Store規約改定</title>
@@ -463,12 +463,20 @@
 <description>AWSは、パブリックプレビュー版のAmazon Linux 2027これはAL2023をベースとしており、SELinuxがデフォルトでEnforcingモードに設定されている。このデフォルト設定は、移行を計画しているチームにとって最も追加作業が発生する可能性が高い変更点である。また、今回の発表では、AL2023のサポート終了時期や、AL2027が一般提供（GA: General Availability）に到達する時期については明らかにされていない。 By Steef-Jan Wiggers Translated by Naoko Koshimura — InfoQ Japan / score: 80 (Amazon Linux 2027でSELinux強制へ)</description>
 </item>
 <item>
-<title>[75] AI特化とは一線を画すHPCの怪物！ 富士通「Monaka」が目指す3D積層と256bit SVE2の真価</title>
-<link>https://ascii.jp/elem/000/004/443/4443519/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/443/4443519/?rss</guid>
-<pubDate>Mon, 19 Oct 2026 03:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>Hot Chips解説第7弾は、ArmベースのサーバーCPUである富士通のMonakaだ。正式な製品名称が公開されていないので、これが単にコード名なのか、あるいは製品名なのかの判断がつかない。 — ASCII.jp / score: 75 (国産ArmサーバーCPUの詳細解説)</description>
+<title>[75] 太陽光発電がついに全世界の発電量で原子力発電を上回る</title>
+<link>https://gigazine.net/news/20261019-solar-surpasses-nuclear-power-globally/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261019-solar-surpasses-nuclear-power-globally/</guid>
+<pubDate>Mon, 19 Oct 2026 06:10:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>太陽光や風力などの再生可能エネルギーを利用した発電施設は世界各国で建設されており、発電コストも年々安くなっています。太陽光発電や蓄電池関連のメディアであるpv bagazineが、「2025年に初めて太陽光発電による全世界の発電量が原子力発電を上回った」と報じました。 続きを読む... — GIGAZINE / score: 75 (太陽光発電が原子力発電の発電量を凌駕)</description>
+</item>
+<item>
+<title>[75] JETROのホームページが不正アクセスで一時的に公開停止 | NHKニュース</title>
+<link>https://news.web.nhk/newsweb/na/nd-20261019de61442</link>
+<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261019de61442</guid>
+<pubDate>Mon, 19 Oct 2026 03:12:05 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>JETRO＝日本貿易振興機構はホームページが不正アクセスを受けたことがわかったため、ホームページの公開を一時的に停止しています。 情報が漏えいしたかどうかなどを調査していて、現時点で復旧の見通しは立… — はてなブックマーク テクノロジー / score: 75 (公的機関のホームページ不正アクセス被害)</description>
 </item>
 <item>
 <title>[75] Anthropic、社内でAIエージェントの稼働時間が人間の6倍に　技術系初級職の採用比率は27％→9％に激減</title>
@@ -485,14 +493,6 @@
 <pubDate>Sun, 18 Oct 2026 19:47:23 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>日本の企業や自治体がサイバー攻撃の被害に遭う事件が頻発し、個人情報の流出が相次いでいる。米紙「ニューヨーク・タイムズ」もこの一連の攻撃に注目して被害状況を伝えたうえで、「なぜ日本が狙われるのか」について次のように報じている。 サイバー能力は世界最低レベル 世界4位の経済規模を誇り、ロボットや自動車、... — はてなブックマーク テクノロジー / score: 75 (日本のサイバーセキュリティインフラの脆弱性への警鐘)</description>
-</item>
-<item>
-<title>[75] 『コミックシーモア』サービス再開の見通し立たず「正確な再開日時をお伝えすることが困難な状況です」（オリコン） - Yahoo!ニュース</title>
-<link>https://news.yahoo.co.jp/articles/df7e374ecdb58831f4b5f497fdcf5407c9af4e36</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/articles/df7e374ecdb58831f4b5f497fdcf5407c9af4e36</guid>
-<pubDate>Sun, 18 Oct 2026 14:34:10 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>『コミックシーモア』（オリコン） 一時サービスを停止中の電子コミックサイト『コミックシーモア』は18日、サービス再開の見通しが立たないことを報告した。第三者による不正アクセスが行われ、一部顧客の会員情報が流出したことを受け、15日からサービスを一時停止している。 【Xより】会員情報が流失！『コミックシ... — はてなブックマーク テクノロジー / score: 75 (大規模サービスにおける不正アクセスによる停止と情報流出)</description>
 </item>
 <item>
 <title>[75] Meta、オープンウェイトのマルチモーダルMoEモデル「Muse Spark Open」を公開</title>
@@ -791,20 +791,20 @@
 <description>Googleはサンドボックス型コンテナランタイムの「gVisor」をCloud Native Computing Foundation（CNCF）に寄贈したことを発表しました。 gVisorはコンテナ型仮想マシンの業界標準であるOCI（Op... — Publickey / score: 75 (gVisorのCNCF寄贈による業界標準化の推進)</description>
 </item>
 <item>
-<title>[70] DeepSeekの検索APIが登場、1000回のリクエスト成功ごとに0.75ドルで競合より安価</title>
-<link>https://gigazine.net/news/20261019-deepseek-search-fetch-api/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261019-deepseek-search-fetch-api/</guid>
-<pubDate>Mon, 19 Oct 2026 03:09:00 +0000</pubDate>
+<title>[70] Anthropic社内ではAIが人間の6倍も稼働していることが判明、従業員の仕事は「AIの監督」へと変化</title>
+<link>https://gigazine.net/news/20261019-employment-at-anthropic/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261019-employment-at-anthropic/</guid>
+<pubDate>Mon, 19 Oct 2026 06:00:00 +0000</pubDate>
 <category>GIGAZINE</category>
-<description>中国に拠点を置くAI企業のDeepSeekが検索APIとフェッチAPIを2026年10月17日にリリースしました。ウェブ上の情報を検索してAI処理に用いるワークフローで活用できます。 続きを読む... — GIGAZINE / score: 70 (DeepSeekによる安価な検索APIリリース)</description>
+<description>AI「Claude」を開発するAnthropicが社内のAI利用状況や雇用の変化を調査したところ、AIの稼働時間が人間の労働時間の6倍に達していることが明らかになりました。AIによって生産性が向上する一方で、従業員の仕事は自ら作業することから大量のAIを管理・監督することへと変化しているとのことです。 続きを読む... — GIGAZINE / score: 70 (Anthropic社内の高いAI稼働率の調査)</description>
 </item>
 <item>
-<title>[70] 電気を使わず、水の流れで情報を記憶するチップが開発される　ロボットの“脳”になる可能性も</title>
-<link>https://ascii.jp/elem/000/004/443/4443647/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/443/4443647/?rss</guid>
-<pubDate>Mon, 19 Oct 2026 02:30:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>水の流れを利用して、コンピューターのように情報を記憶する──。そんな不思議なチップを、米イェール大学の研究チームが開発した。 — ASCII.jp / score: 70 (水の流れで記憶する新規メモリチップの開発)</description>
+<title>[70] ウクライナに対するStarlinkの制限は作戦の一環として行われ未解消だとゼレンスキー大統領が報告</title>
+<link>https://gigazine.net/news/20261019-ukraine-starlink-access-not-fully-restored/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261019-ukraine-starlink-access-not-fully-restored/</guid>
+<pubDate>Mon, 19 Oct 2026 04:27:40 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>ウクライナで、衛星インターネット「Starlink」の軍用版である「Starshield」に速度制限措置が課されていた問題で、一度は問題が解消したものの、その後、再び制限がかかった状態にあることをウォロディミル・ゼレンスキー大統領が報告しました。Starlinkでも同様に制限がかかっていて、輸送などに支障が出ているとのこ... — はてなブックマーク テクノロジー / score: 70 (ウクライナにおけるStarlink制限問題)</description>
 </item>
 </channel>
 </rss>
