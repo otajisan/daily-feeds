@@ -4,13 +4,53 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 19 Oct 2026 14:10:06 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 16:10:58 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Amazon GuardDuty adds optional threat detection rules for Runtime Monitoring</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/guardduty-runtime-optional-detection-rules/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/guardduty-runtime-optional-detection-rules/</guid>
+<pubDate>Mon, 19 Oct 2026 16:01:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon GuardDuty now supports optional detection rules for Runtime Monitoring. You can enable more than 50 Runtime Monitoring rules that help detect process, file, and network activity that might be routine in one environment but a sign of compromise in another, such as modifying sudoers files or disabling audit logging. The new rules provide detections for Amazon EC2 instances, Amazon EKS, and Amazon ECS on both EC2 and AWS Fargate, and span 13 finding types mapped to MITRE ATT&amp;CK® tactics incl — AWS What's New / score: 65 (Amazon GuardDutyのRuntime Monitoring機能強化)</description>
+</item>
+<item>
+<title>Building full virtual vehicles on Google Cloud: From AAOS to the smallest MCU</title>
+<link>https://cloud.google.com/blog/topics/manufacturing/building-full-virtual-vehicles-on-google-cloud-from-aaos-to-the-smallest-mcu/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/manufacturing/building-full-virtual-vehicles-on-google-cloud-from-aaos-to-the-smallest-mcu/</guid>
+<pubDate>Mon, 19 Oct 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Imagining traditional gearheads getting their hands on software-defined vehicles is an amusing thought experiment. With their socket wrenches and air compressors at the ready, they might be confused to encounter core functions more likely to run on 1s and 0s than oil and belts. But across the auto industry these days, more and more vehicles feature prominent systems built using cloud-native development, continuous integration/continuous delivery, fast digital iteration, and plenty of AI. But the — Google Cloud Blog / score: 65 (自動車ソフトウェア開発のクラウド活用事例)</description>
+</item>
+<item>
+<title>How to Use Python UDF Logging for Pipeline Observability</title>
+<link>https://cloud.google.com/blog/products/data-analytics/python-udf-logging-for-pipeline-observability-in-bigquery/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/data-analytics/python-udf-logging-for-pipeline-observability-in-bigquery/</guid>
+<pubDate>Mon, 19 Oct 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>We are announcing a new logging feature that is now available in Python User-Defined Function (UDF) in BigQuery. Developers can now use Python’s standard logging library directly inside BigQuery UDFs to emit structured logs seamlessly into Cloud Logging—with zero external plugins or custom connectors required. While UDF logging enables a wide range of operational monitoring and debugging workflows, to demonstrate this feature we are showcasing an example for building fault-tolerant, resilient da — Google Cloud Blog / score: 50 (BigQueryのPython UDFでのロギング機能追加)</description>
+</item>
+<item>
+<title>Developer’s guide to implementing MCP apps in Gemini</title>
+<link>https://cloud.google.com/blog/topics/developers-practitioners/devs-guide-to-mcp-apps-in-gemini/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/developers-practitioners/devs-guide-to-mcp-apps-in-gemini/</guid>
+<pubDate>Mon, 19 Oct 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Enterprise assistants still respond mostly in text. However, that can break down for visual, multi-step work, where every adjustment costs another slow chat turn. MCP Apps ( SEP-1865 ) solves this. This open Model Context Protocol (MCP) extension pairs a tool with a live UI. In Gemini Enterprise , that UI renders directly in the chat flow inside a sandboxed iframe, and can expand to fullscreen or a side panel. Edits run locally while the workspace and assistant stay synchronized. You also avoid  — Google Cloud Blog / score: 60 (GeminiにおけるMCPアプリ実装のデベロッパー向けガイド)</description>
+</item>
+<item>
+<title>Who judges the judge? Three helpful ways to audit your LLM evaluators</title>
+<link>https://cloud.google.com/blog/topics/consulting/three-ways-to-audit-your-llm-evaluators/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/consulting/three-ways-to-audit-your-llm-evaluators/</guid>
+<pubDate>Mon, 19 Oct 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Is your LLM-as-a-judge truly objective? There’s a common misconception in tech that humans are subjective, so we should rely on AI for objective evaluation. But the reality is that LLMs are also subjective. Just like human reviewers, they can carry biases: Verbosity bias : LLM judges usually favor longer, confident-sounding answers , even when the underlying facts are wrong. Position bias : Swapping the order of two options can cause an LLM judge to flip its verdict over 75% of the time . The ha — Google Cloud Blog / score: 55 (LLM評価者（LLM-as-a-judge）の監査手法の解説)</description>
+</item>
 <item>
 <title>AWS LambdaでNext.jsやHonoなどNode.jsフレームワークとアプリをそのままデプロイ、実行できる「AWS Lambda Web Functions」発表</title>
 <link>https://www.publickey1.jp/blog/26/aws_lambdanextjshononodejsaws_lambda_web_functions.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/aws_lambdanextjshononodejsaws_lambda_web_functions.html</guid>
-<pubDate>Mon, 19 Oct 2026 14:09:36 +0000</pubDate>
+<pubDate>Mon, 19 Oct 2026 15:49:22 +0000</pubDate>
 <category>Publickey</category>
 <description>Amazon Web Services（AWS）は、サーバレス基盤のAWS Lambda上でNext.jsやExpress、Hono、FastifyなどのNode.js用フレームワークとそのアプリケーションをそのままデプロイして実行できる新... — Publickey / score: 85 (AWS Lambdaの新機能発表で実用性が高く重要)</description>
 </item>
@@ -18,17 +58,65 @@
 <title>AWS Transform、Azure Functions用のコードをAWS Lambda用に変換など、Microsoft AzureからAWSへの移行に対応</title>
 <link>https://www.publickey1.jp/blog/26/aws_transformazure_functionsaws_lambdamicrosoft_azureaws.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/aws_transformazure_functionsaws_lambdamicrosoft_azureaws.html</guid>
-<pubDate>Mon, 19 Oct 2026 14:09:36 +0000</pubDate>
+<pubDate>Mon, 19 Oct 2026 15:47:48 +0000</pubDate>
 <category>Publickey</category>
 <description>Amazon Web Services（AWS）は、Azure SDKで書かれた.NETアプリケーションをAWS SDKを用いたコードに変換する新機能をAWS Transformに搭載したと発表しました。 これによりMicrosoft Az... — Publickey / score: 75 (AzureからAWSへの移行支援ツールで実用的)</description>
 </item>
 <item>
-<title>Building full virtual vehicles on Google Cloud: From AAOS to the smallest MCU</title>
-<link>https://cloud.google.com/blog/topics/manufacturing/building-full-virtual-vehicles-on-google-cloud-from-aaos-to-the-smallest-mcu/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/topics/manufacturing/building-full-virtual-vehicles-on-google-cloud-from-aaos-to-the-smallest-mcu/</guid>
-<pubDate>Mon, 19 Oct 2026 14:09:36 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>Imagining traditional gearheads getting their hands on software-defined vehicles is an amusing thought experiment. With their socket wrenches and air compressors at the ready, they might be confused to encounter core functions more likely to run on 1s and 0s than oil and belts. But across the auto industry these days, more and more vehicles feature prominent systems built using cloud-native development, continuous integration/continuous delivery, fast digital iteration, and plenty of AI. But the — Google Cloud Blog / score: 65 (自動車ソフトウェア開発のクラウド活用事例)</description>
+<title>AWS Weekly Roundup: AWS Lambda Web Functions, Amazon S3 on the Vercel Marketplace, and more (October 19, 2026)</title>
+<link>https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-lambda-web-functions-amazon-s3-on-the-vercel-marketplace-and-more-october-19-2026/</link>
+<guid isPermaLink="true">https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-lambda-web-functions-amazon-s3-on-the-vercel-marketplace-and-more-october-19-2026/</guid>
+<pubDate>Mon, 19 Oct 2026 15:34:59 +0000</pubDate>
+<category>AWS News Blog</category>
+<description>Nothing last week added a new kind of compute. What it did instead was shorten the distance between the code you already have and that code being live. AWS Lambda learned to run a plain HTTP server with no adapter in front of it, and Amazon S3 became something you can provision from inside the […] — AWS News Blog / score: 65 (AWS LambdaのHTTPサーバー実行などの週次アップデート)</description>
+</item>
+<item>
+<title>直線デザインでEOSの最新技術が投入されたお買得フルサイズカメラ=「EOS R8 Mark II」実写レビュー</title>
+<link>https://ascii.jp/elem/000/004/443/4443900/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/443/4443900/?rss</guid>
+<pubDate>Mon, 19 Oct 2026 15:01:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>上位モデルの機能を取り入れたフルサイズカメラを実際に持ち歩いてみました。写真から3Dモデルを生成できる新アプリも試しています。 — ASCII.jp / score: 40 (キヤノン製フルサイズカメラEOS R8 Mark IIの実機レビュー)</description>
+</item>
+<item>
+<title>視度調整内蔵でSwitch 2も美麗にプレイできた＝5万円で買えるARグラス「VITURE Pro 2」実機レビュー</title>
+<link>https://ascii.jp/limit/group/ida/elem/000/004/443/4443888/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/limit/group/ida/elem/000/004/443/4443888/?rss</guid>
+<pubDate>Mon, 19 Oct 2026 15:01:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>VITUREの「VITURE Pro 2」を実際にiPhoneやMacBook、Switch2に繋いで、試してみました。 — ASCII.jp / score: 40 (ARグラスVITURE Pro 2の実機レビューと使用感)</description>
+</item>
+<item>
+<title>AMD Ryzen 7 9800X3D×RTX 5070搭載PCが51,000円オフ！ 10月20日限定セール</title>
+<link>https://ascii.jp/elem/000/004/443/4443595/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/443/4443595/?rss</guid>
+<pubDate>Mon, 19 Oct 2026 15:00:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>パソコンショップSEVENを運営するセブンアールジャパンが、10月20日限定で最大64,000円オフの24時間セールを実施する。 — ASCII.jp / score: 25 (パソコンショップSEVENによる限定PCセール情報)</description>
+</item>
+<item>
+<title>週刊アスキー No.1618(2026年10月20日発行)</title>
+<link>https://ascii.jp/elem/000/004/443/4443556/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/443/4443556/?rss</guid>
+<pubDate>Mon, 19 Oct 2026 15:00:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>特集1はPC環境を快適化するガジェット。あなたのデスクをちょい足しで、便利に変えよう。特集2はタブレット。鉄板はiPadだが、個性の強いAndroidタブレットも増加傾向。選ぶなら価格か機能か？ — ASCII.jp / score: 20 (週刊アスキー誌の最新号の特集内容紹介)</description>
+</item>
+<item>
+<title>規制が厳しい現代社会に「オトナ」なアニメ表現を届ける気概と工夫を男2人が密室でみっちり語り倒す『ダークサモナーとデキている』『彼女の友達』プロデューサートーク濃密レポート</title>
+<link>https://gigazine.net/news/20261019-darksummoner-kanojo-no-tomodachi-machiasobi31/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261019-darksummoner-kanojo-no-tomodachi-machiasobi31/</guid>
+<pubDate>Mon, 19 Oct 2026 14:30:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>刺激的でちょっと大人向けな作品に特化したアニメーションレーベル「Deregula(デレギュラ)」を製作する株式会社ウェイブのアニメーション部統括である後藤礼雅さんとフリーアナウンサーの吉田尚記さんが、2026年10月から放送されているデレギュラ枠のテレビアニメ『ダークサモナーとデキている』と『彼女の友達』について語るイベントがマチ★アソビ vol.31で開催されました。かなり過激でアダルトな内容が含まれる両作品について、1時間にわたってufotableCINEMAの密室で高濃度かつ高密度で繰り広げられたトークをがっつりまとめてみました。 続きを読む... — GIGAZINE / score: 10 (アニメ作品のプロデューサーによるトークイベントレポート)</description>
+</item>
+<item>
+<title>ひとり会社が、AIと二人でISMSを取った話｜村山毅 Tim</title>
+<link>https://note.com/timtarou/n/n5443f159e7bc</link>
+<guid isPermaLink="true">https://note.com/timtarou/n/n5443f159e7bc</guid>
+<pubDate>Mon, 19 Oct 2026 14:05:36 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>2026年7月9日付で、ISMS（ISO/IEC 27001:2022）の認証を取得しました。登録番号は 50301853 ISMS22 です。 コンサルには頼んでいません。ISMS専用のSaaSも使っていません。設立1年目のひとり会社が、AI社員と二人三脚で、マネジメントシステムそのものを自社で作りました。 構築にかかった実質工数は約3日、審査対応は別... — はてなブックマーク テクノロジー / score: 50 (AIを活用した個人開発でのISMS取得事例の解説)</description>
 </item>
 <item>
 <title>ウィリアム・ギブスンの「ニューロマンサー」で言及された「サイバースペース」という用語が第三者に商標登録されギブスンが報復したという話は本当なのか</title>
@@ -87,7 +175,7 @@
 <description>不正アクセスの経過と当社の対処について ２０２６年１０月１９日 株式会社アルカディア 代表取締役社長 天白成一 このたびの不正アクセスにより多大なるご迷惑とご心配をおかけしておりますことを、深くお 詫び申し上げます。これまで公式ブログや管理者様向けメールなどを通じて随時情報更新に努 めてまいりました。さ... — はてなブックマーク テクノロジー / score: 90 (企業のセキュリティインシデントと対応の記録)</description>
 </item>
 <item>
-<title>充電式電池の交換で、ずっと使えるモバ電ならエコ。連結も機能追加も拡張しまくり</title>
+<title>中身の交換でずっと長持ち。リサイクル素材と3Dプリントで作ったモバイルバッテリー</title>
 <link>https://www.gizmodo.jp/article/2610-zero-modular-power-bank/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/2610-zero-modular-power-bank/</guid>
 <pubDate>Mon, 19 Oct 2026 12:30:00 +0000</pubDate>
@@ -117,6 +205,14 @@
 <pubDate>Mon, 19 Oct 2026 11:58:00 +0000</pubDate>
 <category>iPhone Mania</category>
 <description>Apple Watchをつけているのに通知が来ない、逆にiPhoneには来ない、と感じたことはないでしょうか。 Apple Watch SE（第2世代）を約4年使い続けていますが、今回あらためて通知を試したところ受け取れ […] — iPhone Mania / score: 20 (スマートウォッチの一般的なトラブルシューティング)</description>
+</item>
+<item>
+<title>ソフトバンク、「My SoftBank」「My Y!mobile」「My Menu」サイトを一時停止、不正アクセスの試行を受け　アプリ版は利用可能</title>
+<link>https://internet.watch.impress.co.jp/docs/news/2149432.html</link>
+<guid isPermaLink="true">https://internet.watch.impress.co.jp/docs/news/2149432.html</guid>
+<pubDate>Mon, 19 Oct 2026 11:51:35 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>ソフトバンク、「My SoftBank」「My Y!mobile」「My Menu」サイトを一時停止、不正アクセスの試行を受け アプリ版は利用可能 — はてなブックマーク テクノロジー / score: 80 (ソフトバンクが不正アクセス試行を受け複数サイトを一時停止)</description>
 </item>
 <item>
 <title>RTX 5060と32GBメモリ、3年保証まで付いて24万9800円！ マウスコンピューター「G TUNE P6」がAmazonで14％オフ</title>
@@ -149,6 +245,14 @@
 <pubDate>Mon, 19 Oct 2026 11:26:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>ノルウェーのOpera Softwareは10月15日（現地時間）、再構築されたマインドフルネスWebブラウザー「Opera Air」の提供開始を発表した。本ブラウザーは、利用者が本来の目的に集中し、速やかにオンラインでの作業を終えられるよう支援する“ミニマリズム”をコンセプトに掲げている。 — 窓の杜 / score: 30 (特定のニッチなブラウザーのリニューアル情報)</description>
+</item>
+<item>
+<title>ニフティ、54万件超漏えいの可能性　光回線の申し込みシステムに不正アクセス</title>
+<link>https://www.itmedia.co.jp/news/article/2610/19/2000002399/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/19/2000002399/</guid>
+<pubDate>Mon, 19 Oct 2026 11:13:24 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>ニフティは10月19日、同社の回線申し込みや受付管理に関するシステムが不正アクセスを受け、最大54万2513件の情報が漏えいした可能性があると発表した。 漏えいした可能性があるのは、2019年以降に同社のWebサイト以外から「＠nifty光」「＠nifty MAX光」「＠nifty auひかりプラス」といった光回線サービスを申し込んだ... — はてなブックマーク テクノロジー / score: 85 (ニフティの光回線申込システムで最大54万件超の漏えい可能性)</description>
 </item>
 <item>
 <title>AIのベンチマークテストは人間の仕事の1割しかカバーできていない</title>
@@ -223,6 +327,14 @@
 <description>AI開発企業のAnthropicは2026年10月16日、AIモデル「Claude」が広く使われている楕円曲線暗号規格「ECDSA」に関する長年の謎を解明したと発表しました。 Claude reveals ECDSA curve origins \ Anthropic https://www.anthropic.com/research/ecdsa-curve-origins ECDSAは「Elliptic Curve Digital Signature Algorithm(... — はてなブックマーク テクノロジー / score: 70 (AIによる長年の暗号規格の謎の解明)</description>
 </item>
 <item>
+<title>スクエニアカウントに不正ログイン、他社で流出の情報使用か　全アカウントのパスワード強制リセットも視野に</title>
+<link>https://www.itmedia.co.jp/news/article/2610/19/2000002397/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/19/2000002397/</guid>
+<pubDate>Mon, 19 Oct 2026 10:03:09 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>ゲーム大手のスクウェア・エニックスは10月19日、「スクウェア・エニックス アカウント」への不正ログインを確認したと発表した。他社から流出したとみられるID・パスワードを悪用する、いわゆる「パスワードリスト型攻撃」によるもので、パスワードを使い回している利用者などに至急変更するよう呼びかけた。 他社サー... — はてなブックマーク テクノロジー / score: 85 (スクエニアカウントの不正ログインとパスワード強制リセット)</description>
+</item>
+<item>
 <title>毎日飲むブラックコーヒーを箱買い！ 「クラフトボス」500ml×24本が15％オフ</title>
 <link>https://ascii.jp/elem/000/004/443/4443806/?rss</link>
 <guid isPermaLink="true">https://ascii.jp/elem/000/004/443/4443806/?rss</guid>
@@ -253,6 +365,14 @@
 <pubDate>Mon, 19 Oct 2026 10:00:00 +0000</pubDate>
 <category>ギター・マガジンWEB</category>
 <description>Fortin Ampsは、メシュガー（Meshuggah）のギタリストであるフレドリック・トーデンダル（Fredrik Thordendal）の新たなシグネチャー・ペダル、“3.33”をリリースした。 ヘヴィ・ミュージック系のプレイヤーから厚い信頼を寄せられているアンプ＆エフェクター・ブランドのFo — ギター・マガジンWEB / score: 10 (音楽機材のエフェクターリリース情報)</description>
+</item>
+<item>
+<title>阪急阪神百貨店などの共通ID、ほぼ全会員分漏えい　約126万件　予約サイトに不正アクセス</title>
+<link>https://www.itmedia.co.jp/news/article/2610/19/2000002398/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/19/2000002398/</guid>
+<pubDate>Mon, 19 Oct 2026 09:59:26 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>エイチ・ツー・オー リテイリング（大阪市北区）は10月19日、子会社の阪急阪神百貨店が運営する「阪急百貨店・阪神百貨店予約サイト」などが第三者による不正アクセスを受け、グループ企業の共通会員ID「H2O ID」に関する個人情報約126万件の一部が漏えいしたと発表した。同日までに、漏えいした情報の不正利用や二次被... — はてなブックマーク テクノロジー / score: 85 (阪急阪神百貨店予約サイト等で約126万件の個人情報漏えい)</description>
 </item>
 <item>
 <title>TikTokがイーロン・マスクのドキュメンタリー映画公式アカウントに対し広告出稿制限をしていたことが判明</title>
@@ -503,6 +623,14 @@
 <description>ドミノ・ピザは、10月26日～11月3日の間、XLサイズのピザを注文した方へ「ハロウィンボックス」で届けるキャンペーンを実施します。 — ASCII.jp / score: 5 (飲食店のプロモーション情報のため)</description>
 </item>
 <item>
+<title>【資料公開】AIで組織を加速させる勘所</title>
+<link>https://www.ryuzee.com/contents/blog/14627</link>
+<guid isPermaLink="true">https://www.ryuzee.com/contents/blog/14627</guid>
+<pubDate>Mon, 19 Oct 2026 08:53:21 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>みなさんこんにちは。@ryuzeeです。 仕事でAIを使うのは当たり前になっていて、もうAIがなかった頃には戻れないと考えている人も多いのではないかと思います。 一方で、「ある大手企業が1人あたりのAI利用額に月3000円くらいの上限を設けた」みたいな話も聞こえてきます。偉い人からすると、「全社で見ると相当の金額を... — はてなブックマーク テクノロジー / score: 55 (企業組織におけるAI活用の勘所に関する資料公開)</description>
+</item>
+<item>
 <title>Windows 11の「フォト」アプリが作り直し、より軽快でローカル・クラウドを一元管理／HEICやWebPもそのまま編集、エディター起動も25％高速化、「OneDrive」や「iCloud」の写真もまとめて閲覧</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2149001.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2149001.html</guid>
@@ -525,14 +653,6 @@
 <pubDate>Mon, 19 Oct 2026 08:50:00 +0000</pubDate>
 <category>ASCII.jp</category>
 <description>ドスパラでは現在、キャンセル未使用品や訳あり新品を取りそろえた「アウトレットセール」を開催中。ゲーミングPCや一般向けPC、ノートPCなどを数量限定で販売している。対象製品は検品済みで、通常製品と同様に国内工場でメンテナンス・修理に対応。すべて修理保証付きとなっている。 — ASCII.jp / score: 30 (PCのアウトレットセール情報のため)</description>
-</item>
-<item>
-<title>SHINING 3D、産業検査の可能性を広げるワイヤレス3Dスキャナー「FreeScan Combo+ Wireless」を発表</title>
-<link>https://ascii.jp/elem/000/004/443/4443898/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/443/4443898/?rss</guid>
-<pubDate>Mon, 19 Oct 2026 08:49:12 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>SHINING 3D、産業検査の可能性を広げるワイヤレス3Dスキャナー「FreeScan Combo+ Wireless」を発表 — ASCII.jp / score: 50 (産業用3Dスキャナーの新製品発表のため)</description>
 </item>
 <item>
 <title>大人の夜にふさわしい味わいのハーゲンダッツ「香るショコラ マール・ド・シャンパーニュ」「薫るナッティキャラメル スモーキー仕立て」を食べてみた</title>
@@ -575,30 +695,6 @@
 <description>AIデータセンターの話になると、決まって出てくるのが「電力が足りない」問題です。ところが、アメリカのスタートアップ「Rune Energy」の言い分は、ほぼ逆。「僕らはすでにエネルギーが有り余る未来にいる。ただ、その余りが時間と場所に閉じ込… — ギズモード・ジャパン / score: 50 (AIデータセンターと電力供給に関する話題)</description>
 </item>
 <item>
-<title>世界最小クラスなのに大容量！ Ankerのポータブル電源「Solix C2000」</title>
-<link>https://ascii.jp/elem/000/004/443/4443868/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/443/4443868/?rss</guid>
-<pubDate>Mon, 19 Oct 2026 08:30:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>Amazon.co.jpで「Anker Solix C2000 Gen 2 ポータブル電源」がプライム感謝祭セール中です。業界最速クラスの急速充電と、世界最小レベルのコンパクトボディを両立しています。 — ASCII.jp / score: 25 (ポータブル電源のセール情報のため)</description>
-</item>
-<item>
-<title>本日23時59分で終了！ Amazonプライム感謝祭「駆け込みで買っておけ」ガジェット5選</title>
-<link>https://ascii.jp/elem/000/004/443/4443857/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/443/4443857/?rss</guid>
-<pubDate>Mon, 19 Oct 2026 08:30:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>本日10月19日23時59分で終了するAmazonプライム感謝祭。半額以下のEcho Show 5をはじめ、Ankerの充電器、ロジクールの高性能マウス、SwitchBotのロボット掃除機、AirPods Pro 3など、最後にチェックしたい注目ガジェット5選を紹介。 — ASCII.jp / score: 25 (ECセールのガジェットまとめ記事のため)</description>
-</item>
-<item>
-<title>HitPaw、ハロウィンセールを10月19日より開催！</title>
-<link>https://ascii.jp/elem/000/004/443/4443901/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/443/4443901/?rss</guid>
-<pubDate>Mon, 19 Oct 2026 08:27:16 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>HitPaw、ハロウィンセールを10月19日より開催！ — ASCII.jp / score: 10 (ソフトウェアの販促キャンペーン情報)</description>
-</item>
-<item>
 <title>漢字に自動でふりがなが付くフォント「Furifont」が登場、フォントを切り替えるだけで読み方を表示可能</title>
 <link>https://gigazine.net/news/20261019-furifont/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261019-furifont/</guid>
@@ -613,6 +709,14 @@
 <pubDate>Mon, 19 Oct 2026 08:15:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>NVIDIAの新チップ「N1X」を搭載したRTX SparkノートPCの性能やローカルAI対応、価格まで詳しく解説します。 — ギズモード・ジャパン / score: 60 (NVIDIAの新チップN1Xに関するハードウェア情報)</description>
+</item>
+<item>
+<title>「ゲオ」「セカスト」運営元に不正アクセス　公式アプリや通販を停止、メンテナンス実施中</title>
+<link>https://www.itmedia.co.jp/news/article/2610/19/2000002392/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/19/2000002392/</guid>
+<pubDate>Mon, 19 Oct 2026 08:12:10 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>ゲームやスマートフォンなどを販売する「ゲオ」や、リユースショップ「セカンドストリート」などを展開するセカンドリテイリングは10月17日、社内システムへの不正アクセスを確認したと発表した。二次被害を防ぐため、同日午後9時から両ブランドなどのアプリやWebサービスを停止し、システムメンテナンスを実施している... — はてなブックマーク テクノロジー / score: 80 (ゲオ・セカスト運営元が不正アクセスによりアプリ等を停止)</description>
 </item>
 <item>
 <title>デスクワークの名脇役が主役級に。カスタマイズ自在のテンキーが20％OFFだ！</title>
@@ -687,14 +791,6 @@
 <description>多機能スマートウォッチ「Google Pixel Watch」と、画面なしウェアラブルデバイス「Google Fitbit Air」の中間を目指して開発されたスマートウォッチ「Google Fitbit Edge」が2026年10月27日に発売されます。一足先にGoogle Fitbit Edgeを借りることができたので、まずは外観を詳しく観察してみました。 続きを読む... — GIGAZINE / score: 35 (新型スマートウォッチの外観レビュー記事)</description>
 </item>
 <item>
-<title>Anthropicが株式の一部を公共利益のための子会社「Anthropic Public Benefit Fund」に拠出、拠出額はAnthropicの評価額に応じて増加予定</title>
-<link>https://gigazine.net/news/20261019-public-benefit-fund/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261019-public-benefit-fund/</guid>
-<pubDate>Mon, 19 Oct 2026 07:20:43 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>AI企業のAnthropicは、公共の利益に完全に献身する新しい完全子会社である「Anthropic Public Benefit Fund」に株式の一部を拠出することを2026年10月19日に発表しました。当初は株式の5％からスタートし、会社の価値が高まるのに応じて拠出額が増加していく予定です。 Investing in the public benefit \ Anthropic htt... — はてなブックマーク テクノロジー / score: 70 (AI企業Anthropicによる公共利益子会社への株式拠出)</description>
-</item>
-<item>
 <title>事業開発のリサーチから実行までを一気通貫で支援、博報堂とビザスクが新サービス提供開始</title>
 <link>https://codezine.jp/article/detail/30057</link>
 <guid isPermaLink="true">https://codezine.jp/article/detail/30057</guid>
@@ -703,108 +799,12 @@
 <description> — CodeZine / score: 30 (事業開発支援サービス開始のビジネス向けプレスリリース)</description>
 </item>
 <item>
-<title>令嬢のドレス作画資料1639点を集めたサイト「令嬢衣装帖」、中世から近代まで全て無料で使えてドレスをカスタマイズすることも可能</title>
-<link>https://gigazine.net/news/20261019-reijo-ishou-chou/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261019-reijo-ishou-chou/</guid>
-<pubDate>Mon, 19 Oct 2026 07:02:00 +0000</pubDate>
+<title>Anthropicが株式の一部を公共利益のための子会社「Anthropic Public Benefit Fund」に拠出、拠出額はAnthropicの評価額に応じて増加予定</title>
+<link>https://gigazine.net/news/20261019-public-benefit-fund/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261019-public-benefit-fund/</guid>
+<pubDate>Mon, 19 Oct 2026 07:10:00 +0000</pubDate>
 <category>GIGAZINE</category>
-<description>中世～1910年代のドレスを約1600点集めたドレス作画資料サイト「令嬢衣装帖」が公開されました。無料で使用でき、資料はパブリックドメインかCC0で引用できます。 続きを読む... — GIGAZINE / score: 30 (クリエイター向けの作画資料サイトの紹介)</description>
-</item>
-<item>
-<title>iPhone Duoどこで買える？Apple、量販店、キャリアの状況まとめ</title>
-<link>https://iphone-mania.jp/iphone18-607619/</link>
-<guid isPermaLink="true">https://iphone-mania.jp/iphone18-607619/</guid>
-<pubDate>Mon, 19 Oct 2026 07:01:29 +0000</pubDate>
-<category>iPhone Mania</category>
-<description>iPhone Duoについて、Appleオンラインストアの納期、家電量販店の販売状況、各キャリアの販売状況を確認しました。 Appleオンラインストアでは、2026年10月16日の予約注文開始後、短時間でお届け予定日が2 […] — iPhone Mania / score: 25 (新型iPhoneの在庫や販売状況のまとめ)</description>
-</item>
-<item>
-<title>October 19, 2026</title>
-<link>https://docs.cloud.google.com/release-notes#October_19_2026</link>
-<guid isPermaLink="true">https://docs.cloud.google.com/release-notes#October_19_2026</guid>
-<pubDate>Mon, 19 Oct 2026 07:00:00 +0000</pubDate>
-<category>Google Cloud リリースノート</category>
-<description>Compute Engine Feature Generally available : To prevent data loss or corruption when you stop or delete a Compute Engine instance, you can enable graceful shutdown. This setting gives the guest OS up to six hours to finish running tasks. For more information, see About graceful shutdown . Google Cloud Armor Security Security fixes and enhancements to Cloud Armor preconfigured WAF v33-stable rulesets. For more information, see Tuning Google Cloud Armor WAF rules . The following rulesets have been — Google Cloud リリースノート / score: 70 (Google CloudのCloud SQL関連のアップデート)</description>
-</item>
-<item>
-<title>フェンダーのUSA製フラッグシップ・シリーズ“American Professional”がさらなる進化を遂げて登場　ギターは6モデルをラインナップ</title>
-<link>https://guitarmagazine.jp/news/2026-1019-fender-american-professional-series/</link>
-<guid isPermaLink="true">https://guitarmagazine.jp/news/2026-1019-fender-american-professional-series/</guid>
-<pubDate>Mon, 19 Oct 2026 07:00:00 +0000</pubDate>
-<category>ギター・マガジンWEB</category>
-<description>フェンダーのUSA製フラッグシップ・シリーズである“American Professional”がアップデートされ、その全ラインナップが2026年10月14日（水）に世界で同時に発売された。 — ギター・マガジンWEB / score: 10 (楽器の新製品発売情報でありIT技術や開発に関係ない)</description>
-</item>
-<item>
-<title>Microsoftがイギリス最大級のAIデータセンター計画から撤退</title>
-<link>https://gigazine.net/news/20261019-microsoft-essex-ai-data-center/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261019-microsoft-essex-ai-data-center/</guid>
-<pubDate>Mon, 19 Oct 2026 06:50:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>イギリス・エセックス州ラフトンで開発が進められているAIデータセンターに進出予定だったMicrosoftが、GPUのリース契約を解除して計画から撤退したことがわかりました。当該データセンターは、電力供給の問題で稼働開始が遅れることになっていました。 続きを読む... — GIGAZINE / score: 65 (MSのAIデータセンター計画撤退のニュース)</description>
-</item>
-<item>
-<title>オーディオ・プロフェッショナルのための究極のSSL EQツールキット、Solid State Logic「SSL Native X-EQ 2」が89％OFF！</title>
-<link>https://computermusic.jp/2026/10/solid-state-logic-ssl-native-x-eq-2/</link>
-<guid isPermaLink="true">https://computermusic.jp/2026/10/solid-state-logic-ssl-native-x-eq-2/</guid>
-<pubDate>Mon, 19 Oct 2026 06:46:29 +0000</pubDate>
-<category>Computer Music Japan</category>
-<description>オーディオ・プロフェッショナルのための究極のSSL EQツールキット、Solid State Logic「SSL Native X-EQ 2」が89％OFFとなっています。 Solid State Logicでは、Man... The post オーディオ・プロフェッショナルのための究極のSSL EQツールキット、Solid State Logic「SSL Native X-EQ 2」が89％OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 15 (音楽制作ツールのセール情報であり技術者向けではない)</description>
-</item>
-<item>
-<title>Sun*がAI駆動開発向けデザインシステム「Nova」を無償公開、UI構築工数を最大80％削減</title>
-<link>https://codezine.jp/article/detail/30056</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/30056</guid>
-<pubDate>Mon, 19 Oct 2026 06:45:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 60 (AI駆動開発向けデザインシステムの無償公開)</description>
-</item>
-<item>
-<title>脱獄したPlayStation 5のGPUでllama.cppを実行できる「PS5LM Plus」</title>
-<link>https://gigazine.net/news/20261019-ps5lm-plus-gpu-ai/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261019-ps5lm-plus-gpu-ai/</guid>
-<pubDate>Mon, 19 Oct 2026 06:40:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>PlayStation 5(PS5)本体でAIモデルを動かし、PCやスマートフォンからチャットで利用できるオープンソースアプリ「PS5LM Plus」がGitHubで公開されています。 続きを読む... — GIGAZINE / score: 60 (PS5でのローカルLLM実行アプリの公開)</description>
-</item>
-<item>
-<title>「IntelliJ IDEA」のJava/Kotlin機能を「VS Code」や「Cursor」で、拡張機能がv1.0に／プレビューを卒業、初の安定版</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2149002.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2149002.html</guid>
-<pubDate>Mon, 19 Oct 2026 06:25:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>蘭JetBrainsは10月15日（現地時間）、「Visual Studio Code」向けの拡張機能「Java and Kotlin by IntelliJ IDEA」がv1.0に到達したと発表した。8月からプレビューされていたが、今回が初の安定版となる。 — 窓の杜 / score: 75 (IntelliJのVS Code拡張がv1.0安定版に)</description>
-</item>
-<item>
-<title>性能とスピードをアップした「DeepSeek-V4.1-Flash-1017」登場、DeepSeekのSearch APIとFetch APIをすべてのユーザーに公開</title>
-<link>https://gihyo.jp/article/2026/10/deepseek-v4-1-flash-1017?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/10/deepseek-v4-1-flash-1017?utm_source=feed</guid>
-<pubDate>Mon, 19 Oct 2026 06:20:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>DeepSeekは2026年10月17日、9月に発表した軽量なマルチモーダルMoEモデル「DeepSeek-V4.1-Flash」のアップデート版となる「DeepSeek-V4.1-Flash-1017」を発表した。 — gihyo.jp / score: 75 (DeepSeekの新型モデルとAPI公開の速報)</description>
-</item>
-<item>
-<title>Google検索、AIの回答内のリンク表示を改善へ ——回答上部にインラインリンクをより頻繁に表示、末尾の関連記事は画像付きで見つけやすく</title>
-<link>https://gihyo.jp/article/2026/10/google-search-ai-link-updates?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/10/google-search-ai-link-updates?utm_source=feed</guid>
-<pubDate>Mon, 19 Oct 2026 06:18:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Googleは2026年10月15日、Google検索のAIモードとAIによる概要で、Webサイトや記事へのリンク表示をさらに改善すると発表した。 — gihyo.jp / score: 65 (Google検索のAI概要におけるリンク表示改善のニュース)</description>
-</item>
-<item>
-<title>バッテリー13時間以上いけます。ASUS Chromebook新モデルが4万円切り</title>
-<link>https://www.gizmodo.jp/article/2610-amazon-prime-appreciation-sale-asus-chromebook-cm14/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2610-amazon-prime-appreciation-sale-asus-chromebook-cm14/</guid>
-<pubDate>Mon, 19 Oct 2026 06:15:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>ASUSの「Chromebook CM1405CM4A-464PG」が、Amazonプライム感謝祭で20%オフの過去最安に。2026年7月発売の新モデルで、MIL-STD 810H準拠のタフ設計と約1.35kgの軽さを両立。14型フルHD、180°開くヒンジ、左側に集約したHDMI・USBポートで使い勝手もいい。 — ギズモード・ジャパン / score: 20 (ASUS製Chromebookのセール情報)</description>
-</item>
-<item>
-<title>仕事を進めるだけでは、仕事しか進まない。木こりのジレンマを Claude Code で解いた5ヶ月の記録 - RAKUS Developers Blog | ラクス エンジニアブログ</title>
-<link>https://tech-blog.rakus.co.jp/entry/20261019/weekly-reflection</link>
-<guid isPermaLink="true">https://tech-blog.rakus.co.jp/entry/20261019/weekly-reflection</guid>
-<pubDate>Mon, 19 Oct 2026 06:12:20 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>朝、森を歩いていた旅人が、木を切っている木こりを見かけました。夕方、同じ道を戻ると、木こりはまだ同じ木を切っています。見ると、ノコギリの刃はぼろぼろに欠けていました。 旅人が声をかけます。「木こりさん、ノコギリの刃を研いだらどうですか」。木こりは答えます。「木を切るのに忙しくて、研いでいる暇なんて... — はてなブックマーク テクノロジー / score: 60 (開発効率化に関する有益な知見と実例)</description>
+<description>AI企業のAnthropicは、公共の利益に完全に献身する新しい完全子会社である「Anthropic Public Benefit Fund」に株式の一部を拠出することを2026年10月19日に発表しました。当初は株式の5％からスタートし、会社の価値が高まるのに応じて拠出額が増加していく予定です。 続きを読む... — GIGAZINE / score: 70 (AI企業Anthropicによる公共利益子会社への株式拠出)</description>
 </item>
 </channel>
 </rss>
