@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 19 Oct 2026 00:25:33 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 02:15:40 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] Linuxカーネルの深刻な脆弱性「PwnEscape」（CVE-2026-99999）、ゲストの仮想マシンからホスト側Linux OSに不正なコードを実行できる可能性</title>
@@ -53,14 +53,6 @@
 <pubDate>Wed, 14 Oct 2026 04:17:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Adobeは10月13日（現地時間）、月例のセキュリティ情報を発表した。今回のセキュリティアップデートは「ColdFusion」、「Experience Manager」、「Commerce」、「Photoshop」など11製品が対象。修正対象のCVEは、製品間の重複を除いて計175件にのぼる（括弧内は件数、最大深刻度、最大CVSS基本値、パッチ適用の優先度）。 — 窓の杜 / score: 95 (Adobeの多数の脆弱性とCVSS 10.0の修正)</description>
-</item>
-<item>
-<title>[95] 10月の「Windows Update」は初の脆弱性4桁で過去最多を更新 ～Microsoftが2026年10月「Windows Update」を実施／「緊急」は76件、悪用確認は1件。「Windows 11 24H2 Home/Pro」は今回が最後の更新に</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2147852.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2147852.html</guid>
-<pubDate>Wed, 14 Oct 2026 00:17:33 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Microsoftは10月13日（現地時間）、すべてのサポート中バージョンのWindowsに対し月例のセキュリティ更新プログラムをリリースした（パッチチューズデー）。現在、「Windows Update」や「Microsoft Update カタログ」などから入手可能。 — 窓の杜 / score: 95 (Windows Updateで過去最多の脆弱性修正)</description>
 </item>
 <item>
 <title>[95] Deno開発元がCloudflareに合流。Denoの開発は終了へ、今後はCloudflare WorkersとDurable Objectsのオープンソース実装に注力</title>
@@ -127,20 +119,28 @@
 <description>GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly. — OpenAI News / score: 90 (主要AIの次世代メジャーリリースと新UIの発表)</description>
 </item>
 <item>
+<title>[85] 広告を表示しただけでスパイウェア感染　新たな攻撃手法「AdFection」が報告</title>
+<link>https://ascii.jp/elem/000/004/443/4443600/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/443/4443600/?rss</guid>
+<pubDate>Mon, 19 Oct 2026 00:50:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>カナダ・トロント大学の研究機関Citizen Labは10月15日、標的型広告の表示を通じて端末をスパイウェアに感染させる攻撃「AdFection」の調査結果を公表した。 — ASCII.jp / score: 85 (広告経由のスパイウェア感染という新手法)</description>
+</item>
+<item>
+<title>[85] 岩井コスモ証券、4611人の顧客情報漏えい　委託先に不正アクセス</title>
+<link>https://ascii.jp/elem/000/004/443/4443597/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/443/4443597/?rss</guid>
+<pubDate>Mon, 19 Oct 2026 00:25:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>岩井コスモ証券は10月16日、インターネット取引のシステム運用・保守を委託するトレードワークスのシステムが不正アクセスを受け、顧客4611人の情報が外部に漏えいしたと発表した。 — ASCII.jp / score: 85 (委託先経由の不正アクセスと情報漏えい)</description>
+</item>
+<item>
 <title>[85] リクルート、カーセンサーの利用を一時停止　外部から不審なアクセス感知で　復旧は未定（日刊自動車新聞） - Yahoo!ニュース</title>
 <link>https://news.yahoo.co.jp/articles/68bd47fa31266bea1674102a579dbd199c4d892e</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/articles/68bd47fa31266bea1674102a579dbd199c4d892e</guid>
 <pubDate>Sun, 18 Oct 2026 12:30:38 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>同サイトでは現在、サービス停止の案内が表示されている（日刊自動車新聞） 中古車検索サイト「カーセンサー」を運営するリクルート（牛田圭一社長、東京都千代田区）は、10月17日に外部から不審なアクセスを検知したため、同サイトと関連する中古車事業者向けサービスの利用を一時停止したと発表した。18日夕方時点で... — はてなブックマーク テクノロジー / score: 85 (外部不正アクセスによるサービス停止のインシデント)</description>
-</item>
-<item>
-<title>[85] 不正アクセス急増背景に“中国製LLM”台頭、AIが自動で偵察→侵入→情報奪取「情報漏れていない人の方が珍しい」専門家が警鐘、対策は?（テレビ高知） - Yahoo!ニュース</title>
-<link>https://news.yahoo.co.jp/articles/2c807564e567a7a66e8718bce6ebd38538c605e8</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/articles/2c807564e567a7a66e8718bce6ebd38538c605e8</guid>
-<pubDate>Sun, 18 Oct 2026 10:16:23 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>不正アクセス急増背景に“中国製LLM”台頭、AIが自動で偵察→侵入→情報奪取「情報漏れていない人の方が珍しい」専門家が警鐘、対策は?（テレビ高知） - Yahoo!ニュース — はてなブックマーク テクノロジー / score: 85 (AIを活用したサイバー攻撃の急増に関する重要なセキュリティ警告)</description>
 </item>
 <item>
 <title>[85] 漏えい急増は中国製LLM起因 指摘</title>
@@ -157,14 +157,6 @@
 <pubDate>Sun, 18 Oct 2026 05:13:27 +0000</pubDate>
 <category>Yahoo!ニュース IT</category>
 <description> — Yahoo!ニュース IT / score: 85 (大手メディア関連のセキュリティインシデント)</description>
-</item>
-<item>
-<title>[85] 日本企業がサーバーに侵入されまくっている現状を鑑み、「絶対無敵を目指すOS」を作ってみた。耐量子暗号HTTPSサーバー専用OS</title>
-<link>https://wirelesswire.jp/2026/10/94793/</link>
-<guid isPermaLink="true">https://wirelesswire.jp/2026/10/94793/</guid>
-<pubDate>Sun, 18 Oct 2026 01:39:42 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>最近、日本の企業がサイバー攻撃によって大変なことになっている。 2025年9月にはアサヒグループホールディングスがランサムウェア攻撃を受け、受注・出荷業務が停止した。翌10月にはアスクルが同様の攻撃を受け、通販サービスの受注・出荷が停止。サプライチェーン全体に影響が波及する事態となった。挙句、本来、イン... — はてなブックマーク テクノロジー / score: 85 (耐量子暗号を謳うサーバー専用OSの自作という注目度の高い話題)</description>
 </item>
 <item>
 <title>[85] Episode 72 “OpenJDK Bug Fixing, JavaOne, and JDK 28” [IJN]</title>
@@ -255,14 +247,6 @@
 <description>米Zoom Communicationsは10月13日（現地時間）、オンラインビデオ会議サービス「Zoom」のクライアントアプリに複数の脆弱性があることを明らかにした。以下の4件がアナウンスされている（括弧内は深刻度の評価と「CVSS」の基本値）。 — 窓の杜 / score: 85 (Zoomクライアントに深刻度Highの脆弱性4件)</description>
 </item>
 <item>
-<title>[85] 「Firefox 158」が正式公開 ～「JPEG XL」画像形式への対応が実験段階を卒業／77件の脆弱性に対処。スクロールもより滑らかに</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2147837.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2147837.html</guid>
-<pubDate>Tue, 13 Oct 2026 21:45:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>Mozillaは10月13日（米国時間）、デスクトップ向け「Firefox」の最新版v158.0をリリースチャネルで公開した。「Firefox 157」に続くメジャーバージョンアップとなる。 — 窓の杜 / score: 85 (Firefoxのメジャーアップデートと脆弱性修正)</description>
-</item>
-<item>
 <title>[85] Gemini 4 Argon: Built to solve your hardest problems</title>
 <link>https://deepmind.google/blog/introducing-gemini-4-argon/</link>
 <guid isPermaLink="true">https://deepmind.google/blog/introducing-gemini-4-argon/</guid>
@@ -333,6 +317,30 @@
 <pubDate>Thu, 08 Oct 2026 04:14:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Anthropicは10月7日、AIモデル「Claude Haiku 5.5」を発表した。 — gihyo.jp / score: 85 (Claude Haiku 5.5のリリースと性能・コスト詳細)</description>
+</item>
+<item>
+<title>[80] コーディングベンチでGPT-6 Astraを超えつつ超安価な中国製AIモデル「DeepSeek-V4.1-Flash-1017」が登場</title>
+<link>https://gigazine.net/news/20261019-deepseek-v4-1-flash-1017/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261019-deepseek-v4-1-flash-1017/</guid>
+<pubDate>Mon, 19 Oct 2026 01:47:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>中国企業のDeepSeekがAIモデル「DeepSeek-V4.1-Flash-1017」を2026年10月17日に公開しました。 続きを読む... — GIGAZINE / score: 80 (高性能かつ安価な中国製新AIモデルの登場に関する速報)</description>
+</item>
+<item>
+<title>[80] Joshinに不正アクセス、一部サービス停止</title>
+<link>https://ascii.jp/elem/000/004/443/4443599/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/443/4443599/?rss</guid>
+<pubDate>Mon, 19 Oct 2026 00:40:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>Joshinは10月17日、同社のネットワークが第三者による不正アクセスの影響を受け、一部サービスを提供できない状態になっていると発表した。情報漏えいの可能性については確認中。 — ASCII.jp / score: 80 (企業への不正アクセスによるサービス停止)</description>
+</item>
+<item>
+<title>[80] ゲオ、不正アクセスでサービス停止　店舗ではPontaカードを案内</title>
+<link>https://ascii.jp/elem/000/004/443/4443598/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/443/4443598/?rss</guid>
+<pubDate>Mon, 19 Oct 2026 00:35:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>ゲオは10月17日、システムへの第三者による不正アクセスを10月15日に確認したとして、二次被害を防ぐためのメンテナンスを案内した。 — ASCII.jp / score: 80 (大手企業のシステム不正アクセス被害)</description>
 </item>
 <item>
 <title>[80] 人気アニメの動画をダウンロードしたつもりが中身はマルウェアだった話</title>
@@ -453,6 +461,14 @@
 <pubDate>Tue, 06 Oct 2026 08:30:00 +0000</pubDate>
 <category>InfoQ Japan</category>
 <description>AWSは、パブリックプレビュー版のAmazon Linux 2027これはAL2023をベースとしており、SELinuxがデフォルトでEnforcingモードに設定されている。このデフォルト設定は、移行を計画しているチームにとって最も追加作業が発生する可能性が高い変更点である。また、今回の発表では、AL2023のサポート終了時期や、AL2027が一般提供（GA: General Availability）に到達する時期については明らかにされていない。 By Steef-Jan Wiggers Translated by Naoko Koshimura — InfoQ Japan / score: 80 (Amazon Linux 2027でSELinux強制へ)</description>
+</item>
+<item>
+<title>[75] 米紙が報じる「日本がサイバー攻撃の格好の標的になる理由」 | 脆弱なセキュリティインフラと対策の遅れ</title>
+<link>https://courrier.jp/news/archives/462989/</link>
+<guid isPermaLink="true">https://courrier.jp/news/archives/462989/</guid>
+<pubDate>Sun, 18 Oct 2026 19:47:23 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>日本の企業や自治体がサイバー攻撃の被害に遭う事件が頻発し、個人情報の流出が相次いでいる。米紙「ニューヨーク・タイムズ」もこの一連の攻撃に注目して被害状況を伝えたうえで、「なぜ日本が狙われるのか」について次のように報じている。 サイバー能力は世界最低レベル 世界4位の経済規模を誇り、ロボットや自動車、... — はてなブックマーク テクノロジー / score: 75 (日本のサイバーセキュリティインフラの脆弱性への警鐘)</description>
 </item>
 <item>
 <title>[75] 『コミックシーモア』サービス再開の見通し立たず「正確な再開日時をお伝えすることが困難な状況です」（オリコン） - Yahoo!ニュース</title>
@@ -775,36 +791,20 @@
 <description>Googleはサンドボックス型コンテナランタイムの「gVisor」をCloud Native Computing Foundation（CNCF）に寄贈したことを発表しました。 gVisorはコンテナ型仮想マシンの業界標準であるOCI（Op... — Publickey / score: 75 (gVisorのCNCF寄贈による業界標準化の推進)</description>
 </item>
 <item>
+<title>[70] 「ChatGPT」の音声モデルが「GPT-Live-1.1」に、ミニ版の「GPT-Live-1.1 Quip」も／訛りがより自然に、検索中の『確認しています……』も減少</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2148806.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2148806.html</guid>
+<pubDate>Mon, 19 Oct 2026 00:45:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米OpenAIは10月15日（現地時間）、新しいリアルタイム音声モデル「GPT-Live-1.1」および「GPT-Live-1.1 Quip」を発表した。同日より「ChatGPT」の音声対話機能「ChatGPT Voice」や「Codex」、「dots」で展開される。APIにも近日中に対応する予定。 — 窓の杜 / score: 70 (OpenAIの新しいリアルタイム音声モデルの発表)</description>
+</item>
+<item>
 <title>[70] 9秒で本番DBと全バックアップが消えた──AIエージェントを止める3つのガードレール　#マンガでわかるAIの仕組み 第4話</title>
 <link>https://codezine.jp/article/detail/29700</link>
 <guid isPermaLink="true">https://codezine.jp/article/detail/29700</guid>
 <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
 <category>CodeZine</category>
 <description>「AIエージェントが、勝手にファイルを全削除した！」 まるでAIが人間の手を離れて暴走したかのようなニュースを見かけると、背筋が凍る思いがします。ですが、原因は本当にAI側にあるのでしょうか？ 実際に海外で起きた、ゾッとする事例を2つご紹介します。 「AIの仕組みは知っておきたい」「けど分厚い技術書を読む時間はない……」そんなあなたに贈る『マンガでわかるAIの仕組み』Web連載 第4話 です。 — CodeZine / score: 70 (AIエージェント運用のガードレール解説)</description>
-</item>
-<item>
-<title>[70] Microsoft、「Azure MCP Server 3.0」安定版をリリース</title>
-<link>https://codezine.jp/article/detail/30049</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/30049</guid>
-<pubDate>Sun, 18 Oct 2026 23:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 70 (Microsoft Azure MCP Server 3.0リリース)</description>
-</item>
-<item>
-<title>[70] 自然言語で業務手順をコード化、チーム運用と制御を備えたAIエージェント実行基盤</title>
-<link>https://ascii.jp/elem/000/004/443/4443388/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/443/4443388/?rss</guid>
-<pubDate>Sun, 18 Oct 2026 22:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>株式会社デライトは10月13日、AIエージェント実行基盤「Agentino（エージェンティーノ）」のPublic β版の提供を開始したと発表した。 — ASCII.jp / score: 70 (AIエージェント実行基盤のPublic β版リリース)</description>
-</item>
-<item>
-<title>[70] 不正アクセスに気付くのは難しい？ 「通常アクセス」と見分けがつかない場合も（山口健太） - エキスパート - Yahoo!ニュース</title>
-<link>https://news.yahoo.co.jp/expert/articles/ee12ceb9b59c6960ccf3b9bc4a7c991040fb3880</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/expert/articles/ee12ceb9b59c6960ccf3b9bc4a7c991040fb3880</guid>
-<pubDate>Sun, 18 Oct 2026 09:45:15 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>最近急増している「不正アクセス」による情報漏洩問題ですが、その中には「通常アクセスと見分けがつかない」事例があるようです。 なぜそんなことが起きているのか、背景を考察しました。 不正アクセスと「通常アクセス」の違いとは「不正アクセス」という言葉からイメージしやすいのは、他人のIDとパスワードを用いた... — はてなブックマーク テクノロジー / score: 70 (不正アクセスの検知の難しさに関する技術的考察と警鐘)</description>
 </item>
 </channel>
 </rss>
