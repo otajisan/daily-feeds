@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Tue, 20 Oct 2026 20:09:25 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 22:09:03 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] Linuxカーネル脆弱性「CVE-2026-99999」発見の背景が明らかに ―きっかけは賞金総額100万ドルの“サンドボックス脱出チャレンジ” | gihyo.jp</title>
@@ -29,14 +29,6 @@
 <pubDate>Fri, 16 Oct 2026 12:52:22 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Googleは10月15日（現地時間）、デスクトップ向け「Google Chrome」の安定（Stable）チャネルをアップデートした。今後数日から数週間をかけて、Windows/Mac環境にはv155.0.8059.84/.85、Linux環境にはv155.0.8059.84が展開される。 — 窓の杜 / score: 95 (Critical級を含むChromeの緊急セキュリティアップデート)</description>
-</item>
-<item>
-<title>[95] データ転送ライブラリ「curl」に特定の条件でリモートからコードを実行される脆弱性／深刻度Highを含む24件の脆弱性を修正したv8.23.0が公開</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2148495.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2148495.html</guid>
-<pubDate>Thu, 15 Oct 2026 11:45:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>データ転送ライブラリ「curl」の最新安定版v8.23.0が、10月14日に公開された。全24件の脆弱性を修正したセキュリティアップデートとなっている。 — 窓の杜 / score: 95 (curlの深刻度Highを含む複数脆弱性の修正)</description>
 </item>
 <item>
 <title>[95] Deno開発元がCloudflareに合流。Denoの開発は終了へ、今後はCloudflare WorkersとDurable Objectsのオープンソース実装に注力</title>
@@ -245,6 +237,14 @@
 <pubDate>Mon, 19 Oct 2026 15:49:22 +0000</pubDate>
 <category>Publickey</category>
 <description>Amazon Web Services（AWS）は、サーバレス基盤のAWS Lambda上でNext.jsやExpress、Hono、FastifyなどのNode.js用フレームワークとそのアプリケーションをそのままデプロイして実行できる新... — Publickey / score: 85 (AWS Lambdaの新機能発表で実用性が高く重要)</description>
+</item>
+<item>
+<title>[85] DMARCを通過するフィッシングメールの落とし穴：DKIMリプレイ攻撃の仕組みと企業が取るべき対策 | Proofpoint JP</title>
+<link>https://www.proofpoint.com/jp/blog/email-and-cloud-threats/dkim-replay-attacks</link>
+<guid isPermaLink="true">https://www.proofpoint.com/jp/blog/email-and-cloud-threats/dkim-replay-attacks</guid>
+<pubDate>Mon, 19 Oct 2026 12:57:49 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>DMARCを「p=reject」に設定しても安心できない理由 2026年10月、国内で、正規企業を装ったフィッシングメールが送信ドメイン認証のDMARCを通過する事象が確認されました。メールの受信画面には、公式アカウントマークや企業のブランドロゴまで表示されていました。 NTTドコモは、一部企業の送信ドメイン認証の設定に脆弱... — はてなブックマーク テクノロジー / score: 85 (DMARC突破の脆弱性とDKIMリプレイ攻撃の解説)</description>
 </item>
 <item>
 <title>[85] 10月の「Windows Update」に注目集まる、脆弱性は過去最多、初の4桁に ～窓の杜アクセスランキング［2026/10/12～2026/10/18]【記事アクセスランキング】</title>
@@ -567,6 +567,22 @@
 <description>Googleは先日、フルスタックAIアプリケーションを構築するためのオープンソース基盤「Genkit」向けに、Agents APIのプレビュー版をリリースした。このAPIは、メッセージ履歴、ツール実行ループ、ストリーミング、状態の永続化、およびフロントエンドプロトコルを、単一のchat()インターフェースに統合している。このインターフェースは、エージェントがプロセス内で実行される場合でも、HTTPのエンドポイントの背後で実行される場合も同じように動作可能だ。 プレビュー版は本日よりTypeScriptおよびGoで利用可能、PythonとDartへの対応も予定されている。 By Steef-Jan Wiggers Translated by Takashi Kawase — InfoQ Japan / score: 75 (Genkit Agents APIのプレビュー版リリース)</description>
 </item>
 <item>
+<title>[75] Amazon Bedrock Guardrails now supports Standard tier for contextual grounding checks</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-guardrails-grounding-standard/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-guardrails-grounding-standard/</guid>
+<pubDate>Tue, 20 Oct 2026 08:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon Bedrock Guardrails now offers a Standard tier for contextual grounding checks, which detect and filter hallucinations by checking whether a model response is grounded in your reference source and relevant to the user's query. The Standard tier is more robust than the Classic tier. It supports responses that include reasoning or conversational content, scores differently worded responses with the same meaning more consistently, and provides more comprehensive language support, matching the — AWS What's New / score: 75 (Amazon Bedrockの機能拡張とガードレール強化)</description>
+</item>
+<item>
+<title>[75] Amazon Bedrock Advanced Prompt Optimization now supports prompt shortening</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-prompt-optimization-shortening/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-prompt-optimization-shortening/</guid>
+<pubDate>Tue, 20 Oct 2026 08:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon Bedrock Advanced Prompt Optimization now supports prompt shortening, an optional setting that reduces the length of your prompt while maintaining or improving your evaluation scores. Advanced Prompt Optimization optimizes prompts for any model on Amazon Bedrock against your own evaluation criteria. Until now, optimization focused on quality alone. Optimized prompts were often longer than the original. Longer prompts raise input token costs and can increase time to first token, which matte — AWS What's New / score: 75 (Amazon Bedrockのプロンプト最適化機能のアップデート)</description>
+</item>
+<item>
 <title>[75] MiniMaxが新AIモデル「MiniMax M3.1 Flash」を発表、AIエージェントの性能を強化しつつ利用コストを70％削減</title>
 <link>https://gigazine.net/news/20261020-minimax-m3-1-flash/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261020-minimax-m3-1-flash/</guid>
@@ -629,14 +645,6 @@
 <pubDate>Mon, 19 Oct 2026 15:47:48 +0000</pubDate>
 <category>Publickey</category>
 <description>Amazon Web Services（AWS）は、Azure SDKで書かれた.NETアプリケーションをAWS SDKを用いたコードに変換する新機能をAWS Transformに搭載したと発表しました。 これによりMicrosoft Az... — Publickey / score: 75 (AzureからAWSへの移行支援ツールで実用的)</description>
-</item>
-<item>
-<title>[75] M5Stamp P4（ESP32-P4）でMMUなしのLinux 7.2を動かし、Wi-FiとSSHまで通した話【AIと250コミット】</title>
-<link>https://qiita.com/tsuyoshi-otake/items/91ef586f1a1a689b0842?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/tsuyoshi-otake/items/91ef586f1a1a689b0842?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Mon, 19 Oct 2026 11:09:50 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>M5Stamp P4（ESP32-P4）向けに、MMUのないRISC-V上で動くLinuxディストリビューションを作っています。v0.3.2 でカーネルを Linux 7.2.11 に上げ、Wi-Fi・SSH・vi・MicroPython まで普通に使えるようになりました。... — Qiita 人気記事 / score: 75 (マイコンボードでLinuxを動作させる高度な技術検証)</description>
 </item>
 <item>
 <title>[75] 「IntelliJ IDEA」のJava/Kotlin機能を「VS Code」や「Cursor」で、拡張機能がv1.0に／プレビューを卒業、初の安定版</title>
@@ -797,14 +805,6 @@
 <pubDate>Mon, 12 Oct 2026 07:00:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Amazon EMR now validates data quality natively within Apache Spark jobs. Data engineering teams can catch quality issues inline before bad data reaches downstream systems, without building or maintaining separate validation infrastructure. Amazon EMR Data Quality, powered by AWS Glue, is available at no additional cost and uses the same declarative rules language (Data Quality Definition Language) and APIs as AWS Glue for a consistent experience across both engines, and works with Apache Iceberg — AWS What's New / score: 75 (EMRでのSparkデータ品質チェック機能追加)</description>
-</item>
-<item>
-<title>[75] Java - The Year of the Runtime!</title>
-<link>https://inside.java/2026/10/11/devoxxbelgium-runtime-year-keynote/</link>
-<guid isPermaLink="true">https://inside.java/2026/10/11/devoxxbelgium-runtime-year-keynote/</guid>
-<pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
-<category>Inside Java</category>
-<description>As AI coding agents make language syntax less central, runtime performance and operability become increasingly important. This keynote explores why Java’s JVM and standard library are well suited to this shift: newer JDKs continually improve performance, observability, garbage collection, and usability while preserving the programming model, with major innovations underway in Projects Valhalla, Leyden, and Lilliput. — Inside Java / score: 75 (AI時代におけるJavaランタイムの重要性と将来性)</description>
 </item>
 </channel>
 </rss>
