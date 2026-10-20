@@ -4,8 +4,40 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Tue, 20 Oct 2026 18:11:18 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 20:09:25 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Battle Drones - a vibe coded RTS with audio-based multiplayer</title>
+<link>https://simonwillison.net/2026/Oct/20/battledrones/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Oct/20/battledrones/</guid>
+<pubDate>Tue, 20 Oct 2026 19:34:19 +0000</pubDate>
+<category>Simon Willison</category>
+<description>My latest vibe coded game experiment is a Command &amp; Conquer style RTS (Real Time Strategy) game called Battle Drones ( play it here ). Unlike my previous experiments , this one is actually fun to play . I'm somewhat embarrassed to admit that I got there by telling Claude to "Make it a LOT more fun". It also supports multiplayer between nearby devices using audio to synchronize game state! Here's what I've built so far, and some of the things I learned along the way. Battle Drones How I built thi — Simon Willison / score: 40 (バイブコーディングによるRTSゲームの実験的紹介)</description>
+</item>
+<item>
+<title>The Programmable Data Center — Evan Conrad, SF Compute</title>
+<link>https://www.latent.space/p/sfcompute2</link>
+<guid isPermaLink="true">https://www.latent.space/p/sfcompute2</guid>
+<pubDate>Tue, 20 Oct 2026 19:31:57 +0000</pubDate>
+<category>Latent Space</category>
+<description>From GPU trading to physical settlement, independent markets, and programmable compute — Latent Space / score: 60 (プログラマブルなデータセンターとインフラの話題)</description>
+</item>
+<item>
+<title>Managed RAG search inside the sovereign perimeter: Gemini on GDC enterprise search</title>
+<link>https://cloud.google.com/blog/topics/hybrid-cloud/managed-rag-search-inside-the-sovereign-perimeter-gemini-on-gdc-enterprise-search/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/hybrid-cloud/managed-rag-search-inside-the-sovereign-perimeter-gemini-on-gdc-enterprise-search/</guid>
+<pubDate>Tue, 20 Oct 2026 19:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>National security agencies and other sovereign and highly regulated organizations handle incredibly sensitive data such as classified reports, field manuals, and sensitive multi-modal datasets. Search and multimodal intelligence that’s available in the public cloud can help teams manage and analyze that data, but due to strict data sovereignty mandates, that data cannot leave the customer premises. The alternative has been to deploy custom agentic search inside a secure, disconnected perimeter,  — Google Cloud Blog / score: 55 (セキュア環境向けマネージドRAG検索の発表)</description>
+</item>
+<item>
+<title>NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation</title>
+<link>https://huggingface.co/blog/nvidia/cosmos3-h-dreams</link>
+<guid isPermaLink="true">https://huggingface.co/blog/nvidia/cosmos3-h-dreams</guid>
+<pubDate>Tue, 20 Oct 2026 18:17:47 +0000</pubDate>
+<category>Hugging Face Blog</category>
+<description> — Hugging Face Blog / score: 50 (医療シミュレーション向けNVIDIAの生成AIモデル)</description>
+</item>
 <item>
 <title>Introducing Amazon ECS Gateway: A fully-managed ingress solution for ECS services</title>
 <link>https://aws.amazon.com/blogs/aws/introducing-amazon-ecs-gateway-a-fully-managed-ingress-solution-for-ecs-services/</link>
@@ -29,6 +61,14 @@
 <pubDate>Tue, 20 Oct 2026 16:00:00 +0000</pubDate>
 <category>Gemini (Google Blog)</category>
 <description>"Your brand, your tools, all in one place" banner featuring three feature highlights: "Create image styles for your brand," "Customize Gemini with apps and skills," and "Create content with templates." — Gemini (Google Blog) / score: 45 (中小企業向けGeminiの新機能・ツール群の発表)</description>
+</item>
+<item>
+<title>Claude Opus 5.5 and Claude Sonnet 5.5 are now available in Google Antigravity</title>
+<link>https://cloud.google.com/blog/products/ai-machine-learning/claude-opus-55-and-claude-sonnet-55-available-in-antigravity/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/ai-machine-learning/claude-opus-55-and-claude-sonnet-55-available-in-antigravity/</guid>
+<pubDate>Tue, 20 Oct 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Whether you are iterating on a quick bug fix or planning a complex migration, different tasks call for different models. In keeping with Google Cloud's commitment to an open ecosystem and to give developers the right model for every job, Claude Opus 5.5 and Claude Sonnet 5.5 are now available in Google Antigravity for Google Cloud customers. Claude Opus 5.5 is built for complex work while Claude Sonnet 5.5 is a faster, lower-cost complement. Once enabled by an administrator, developers can selec — Google Cloud Blog / score: 75 (GoogleプラットフォームでのClaude新モデル提供)</description>
 </item>
 <item>
 <title>iPhone Duoの発売日配送分が「配送準備中」に〜海外では開封動画も</title>
@@ -133,6 +173,14 @@
 <pubDate>Tue, 20 Oct 2026 14:00:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>AIがプログラムを修正する際に追加したコードと削除したコードの差を測定するオープンソースのベンチマーク「Parsimony」が公開されました。従来のベンチマークで重視されてきた問題の解決率やコストに加えて、コードの増加量からAIモデルを比較できるのが特徴です。 続きを読む... — GIGAZINE / score: 55 (AIモデルのコード増加量を比較する新しいベンチマーク)</description>
+</item>
+<item>
+<title>Structured outputs for Claude models available on Amazon Bedrock</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/claude-structured-outputs-bedrock/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/claude-structured-outputs-bedrock/</guid>
+<pubDate>Tue, 20 Oct 2026 14:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon Bedrock now supports structured outputs for all Anthropic Claude models across both the bedrock-runtime and the bedrock-mantle endpoint. Whether you call Claude through boto3 and the bedrock-runtime APIs or through the Messages API and the bedrock-mantle endpoint, you can now receive schema-compliant JSON responses that conform to a defined structure, without custom parsing, retry logic, or post-processing. With structured outputs for Claude on Amazon Bedrock, you can automate reliable, s — AWS What's New / score: 75 (Amazon BedrockでのClaude構造化出力サポート)</description>
 </item>
 <item>
 <title>Bose Ultra Open Earbuds (第2世代)：クリップ型オープンイヤーならこれが頂点。買ってよし</title>
@@ -245,6 +293,14 @@
 <pubDate>Tue, 20 Oct 2026 12:26:59 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>Datalab State of the Art models for Document Intelligence Indra OCR Indra OCR is a 1M-parameter OCR model that runs on CPU. It turns PDFs and images into markdown, text, or JSON with boxes, and it reads handwriting, 80+ languages, and pages at any angle. Accurate - 66.7 on OmniParseBench (71.4 wi... — はてなブックマーク テクノロジー / score: 65 (軽量でCPU実行可能なOCRモデルの公開情報)</description>
+</item>
+<item>
+<title>AWS Clean Rooms now supports Databricks as a data source</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/aws-clean-rooms-supports-databricks</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/aws-clean-rooms-supports-databricks</guid>
+<pubDate>Tue, 20 Oct 2026 12:23:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS Clean Rooms now supports Databricks as a data source , so collaboration members and their partners can securely analyze data managed in Databricks without moving or revealing the source data. Members query a Databricks table shared through Delta Sharing directly in a collaboration. Databricks joins AWS Glue, Snowflake, and Amazon Athena as supported data sources in AWS Clean Rooms. Previously, members with data in Databricks had to export or replicate it into Amazon S3 to use it as a table i — AWS What's New / score: 65 (AWS Clean RoomsのDatabricksデータソース対応)</description>
 </item>
 <item>
 <title>DJI、デュアルレンズ搭載ジンバルカメラ『Osmo Pocket 4P』のパールホワイトモデルを発売</title>
@@ -527,14 +583,6 @@
 <description>Agentic systems are quickly moving from pilots to production in the enterprise. But if your organization operates under stringent data sovereignty, defense, intelligence, or critical infrastructure mandates, sending sensitive data to a public cloud often isn’t an option — and building your own AI stack inside a disconnected perimeter can take months. Your missions demand frontier models, hardened security, and high performance, deployed directly where your most sensitive data lives. The latest i — Google Cloud Blog / score: 50 (Google Distributed Cloudの最新動向)</description>
 </item>
 <item>
-<title>Managed RAG search inside the sovereign perimeter: Gemini on GDC enterprise search</title>
-<link>https://cloud.google.com/blog/topics/hybrid-cloud/managed-rag-search-inside-the-sovereign-perimeter-gemini-on-gdc-enterprise-search/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/topics/hybrid-cloud/managed-rag-search-inside-the-sovereign-perimeter-gemini-on-gdc-enterprise-search/</guid>
-<pubDate>Tue, 20 Oct 2026 10:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>National security agencies and other sovereign and highly regulated organizations handle incredibly sensitive data such as classified reports, field manuals, and sensitive multi-modal datasets. Search and multimodal intelligence that’s available in the public cloud can help teams manage and analyze that data, but due to strict data sovereignty mandates, that data cannot leave the customer premises. The alternative has been to deploy custom agentic search inside a secure, disconnected perimeter,  — Google Cloud Blog / score: 55 (セキュア環境向けマネージドRAG検索の発表)</description>
-</item>
-<item>
 <title>もはやド定番ソフト！ 12種目が遊べるSwitch 2「スポーツリゾート」が発売間近　公式より約1000円安い</title>
 <link>https://ascii.jp/elem/000/004/444/4444259/?rss</link>
 <guid isPermaLink="true">https://ascii.jp/elem/000/004/444/4444259/?rss</guid>
@@ -629,14 +677,6 @@
 <pubDate>Tue, 20 Oct 2026 09:30:00 +0000</pubDate>
 <category>ASCII.jp</category>
 <description>Amazon.co.jpにて、GameSirのゲームコントローラー「GameSir Cyclone 2」が販売中だ。価格は8599円。 — ASCII.jp / score: 30 (サードパーティ製ゲームコントローラー紹介)</description>
-</item>
-<item>
-<title>NECの委託先にサイバー攻撃　正規アカウント悪用し顧客のサーバ暗号化、個人情報の漏えいも</title>
-<link>https://www.itmedia.co.jp/news/article/2610/20/2000002433/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/20/2000002433/</guid>
-<pubDate>Tue, 20 Oct 2026 09:25:45 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>NECは10月20日、システム開発・保守業務の委託先が9月下旬にサイバー攻撃を受け、その影響でNECの顧客に不正アクセスや情報漏えいの被害が出たと発表した。攻撃者が窃取した正規アカウントの認証情報を悪用したもので、漏えいした情報には個人情報も含まれる。影響のあった複数の顧客にはすでに個別に連絡しており、NEC... — はてなブックマーク テクノロジー / score: 85 (委託先を狙ったサイバー攻撃と情報漏えい)</description>
 </item>
 <item>
 <title>Switch 2を快適に遊ぼう。Amazonベストセラー1位のPS配置ゲームコントローラーは機能特盛りでコスパお化け</title>
@@ -751,60 +791,20 @@
 <description>AWS IAM Identity Center now retains your workforce identities and their assignments when you change your identity source from Active Directory to an external identity provider (IdP), such as Okta or Microsoft Entra ID, or to the Identity Center directory. Specifically, it preserves your users, groups, group memberships, permission set assignments, and application assignments. Previously, this change required you to recreate them in IAM Identity Center. IAM Identity Center helps you connect your  — AWS What's New / score: 60 (AWS IAM Identity CenterのIDソース変更簡素化)</description>
 </item>
 <item>
-<title>型落ちな今こそ買い時！ ソニー「WF-1000XM5」が2.4万円は大納得でしょう！</title>
-<link>https://www.gizmodo.jp/article/2610-sony-wf-1000xm5-sale/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2610-sony-wf-1000xm5-sale/</guid>
+<title>AWS Partner Central launches Program Navigator, Case Study Generator, and streamlined specialization review</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/partner-central-program-navigator/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/partner-central-program-navigator/</guid>
 <pubDate>Tue, 20 Oct 2026 08:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>ソニーのフラッグシップワイヤレスイヤホン「WF-1000XM5」が、今ならお得な2.4万円で購入可能。型落ちだからこそコスパ抜群なその魅力と賢い買い時を解説します。 — ギズモード・ジャパン / score: 25 (コンシューマー向け製品のセール情報)</description>
+<category>AWS What's New</category>
+<description>AWS Partner Central now features Program Navigator, a unified experience that lets partners discover, apply for, and track AWS Specialization program applications in one place. Partners can browse specialization designations, view requirements and benefits, and submit applications through a guided, step-by-step workflow. The new Case Study Generator in AWS Partner Central gives partners a redesigned creation experience with three starting paths: build a case study directly with AI assistance, im — AWS What's New / score: 30 (AWSパートナー向けの機能追加とプログラム更新)</description>
 </item>
 <item>
-<title>Linuxカーネル脆弱性「CVE-2026-99999」発見の背景が明らかに ―きっかけは賞金総額100万ドルの“サンドボックス脱出チャレンジ” | gihyo.jp</title>
-<link>https://gihyo.jp/article/2026/10/cve-2026-99999</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/10/cve-2026-99999</guid>
-<pubDate>Tue, 20 Oct 2026 07:59:47 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Linuxカーネル脆弱性「CVE-2026-99999」発見の背景が明らかに ―きっかけは賞金総額100万ドルの“サンドボックス脱出チャレンジ” 2026年10月15日に「CVE-2026-99999」として公開されたLinuxカーネルに関する重大な脆弱性“⁠Guest-to-Host KVM Escape⁠”について、発見者のpwn.aiから発見にいたる概要と背景に関する報告があ... — はてなブックマーク テクノロジー / score: 95 (Linuxカーネルの重大な脆弱性と発見背景の報告)</description>
-</item>
-<item>
-<title>【10/21まで終了時間未定】Pro-Q 4を含む3製品のプラグインバンドル、FabFilter「Essentials Bundle」が24%OFF！</title>
-<link>https://computermusic.jp/2026/10/fabfilter-essentials-bundle-pro4/</link>
-<guid isPermaLink="true">https://computermusic.jp/2026/10/fabfilter-essentials-bundle-pro4/</guid>
-<pubDate>Tue, 20 Oct 2026 07:44:44 +0000</pubDate>
-<category>Computer Music Japan</category>
-<description>Pro-Q 4を含む3製品のプラグインバンドル、FabFilter「Essentials Bundle」が24%OFFとなっています。 FabFilter Essentials Bundle Pro-Q 4 参考記事：最... The post 【10/21まで終了時間未定】Pro-Q 4を含む3製品のプラグインバンドル、FabFilter「Essentials Bundle」が24%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 20 (DTMプラグインのセール情報)</description>
-</item>
-<item>
-<title>本日開始「Androidのマイナンバーカード」さっそく登録、試してわかったiPhoneとの違いと注意点</title>
-<link>https://k-tai.watch.impress.co.jp/docs/review/2149675.html</link>
-<guid isPermaLink="true">https://k-tai.watch.impress.co.jp/docs/review/2149675.html</guid>
-<pubDate>Tue, 20 Oct 2026 07:39:04 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>本日開始「Androidのマイナンバーカード」さっそく登録、試してわかったiPhoneとの違いと注意点 — はてなブックマーク テクノロジー / score: 70 (Android版マイナンバーカードの解説)</description>
-</item>
-<item>
-<title>自分で修理できるイヤホン「Fairphone 2」。財布にも地球にもやさしい</title>
-<link>https://www.gizmodo.jp/article/fairbuds-2-repairable-earphones/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/fairbuds-2-repairable-earphones/</guid>
-<pubDate>Tue, 20 Oct 2026 07:35:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>ユーザー自身でパーツ交換可能なサステナブルイヤホン「Fairbuds 2」が登場。バッテリーやケースの交換で長く使え、高音質なサウンドやANCも搭載。地球と財布にやさしい魅力を解説します。 — ギズモード・ジャパン / score: 30 (サステナブルなハードウェア製品の紹介)</description>
-</item>
-<item>
-<title>「Visual Studio Code」でUIのモダナイズが進行中、従来の「クラシックUI」はいずれ廃止へ／詰まった表示の［Compact］やタブがエディターにくっついたデザインも選択可能</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2149622.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2149622.html</guid>
-<pubDate>Tue, 20 Oct 2026 07:34:41 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>「Visual Studio Code」でUIのモダナイズが進行中、従来の「クラシックUI」はいずれ廃止へ／詰まった表示の［Compact］やタブがエディターにくっついたデザインも選択可能 — はてなブックマーク テクノロジー / score: 50 (VS CodeのUIモダナイズとクラシックUI廃止予定のニュース)</description>
-</item>
-<item>
-<title>AnthropicがClaude封じ込め法を詳説、Web・Claude Code・Coworkに対して</title>
-<link>https://www.infoq.com/jp/news/2026/10/anthropic-claude-containment/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-<guid isPermaLink="true">https://www.infoq.com/jp/news/2026/10/anthropic-claude-containment/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-<pubDate>Tue, 20 Oct 2026 07:30:00 +0000</pubDate>
-<category>InfoQ Japan</category>
-<description>Anthropicは先日、Webプロダクト、開発者用プロダクト、デスクトッププロダクトに跨ってClaudeに使用している封じ込めアーキテクチャの詳細を明らかにした。同社はエージェントの安全性は、権限確認プロンプトやモデルレベルセーフガードのみに依存するよりも、エージェントのファイルシステム、ネットワーク、実行環境に決定論的な制限を設けることにかかっていると主張している。特にAnthropicが設計見直しに至った、信頼境界および許可済外向け通信経路における障害について検証している。 By Eran Stiller Translated by Hiroaki.Sugimura — InfoQ Japan / score: 70 (AnthropicによるAIエージェントの封じ込めアーキテクチャ詳細解説)</description>
+<title>AWS Transform for migrations expands support for existing landing zones</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transform-migrations-landing-zones/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transform-migrations-landing-zones/</guid>
+<pubDate>Tue, 20 Oct 2026 08:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS Transform now supports more types of existing AWS environments when building landing zones for your migration, including AWS Control Tower landing zones and landing zones built with AWS Organizations. AWS Transform runs a foundation gap analysis of your current environment against AWS best practices and expands your landing zone on top of what's already in your target accounts, so your team can start migrating sooner. AWS Transform also now supports an Infrastructure as Code (IaC)-only mode  — AWS What's New / score: 45 (AWS Transformによる移行支援機能の拡張)</description>
 </item>
 </channel>
 </rss>
