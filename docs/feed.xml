@@ -4,8 +4,16 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Tue, 20 Oct 2026 16:10:46 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 18:11:18 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Introducing Amazon ECS Gateway: A fully-managed ingress solution for ECS services</title>
+<link>https://aws.amazon.com/blogs/aws/introducing-amazon-ecs-gateway-a-fully-managed-ingress-solution-for-ecs-services/</link>
+<guid isPermaLink="true">https://aws.amazon.com/blogs/aws/introducing-amazon-ecs-gateway-a-fully-managed-ingress-solution-for-ecs-services/</guid>
+<pubDate>Tue, 20 Oct 2026 17:03:38 +0000</pubDate>
+<category>AWS News Blog</category>
+<description>Try Amazon ECS Gateway, a new account-level resource that simplifies ingress networking for containerized workloads by dynamically provisioning and managing the necessary infrastructure on your behalf, with all resources created directly in your account. — AWS News Blog / score: 75 (ECS向けフルマネージドなイングレスソリューションの新機能)</description>
+</item>
 <item>
 <title>FairStress: A deeper evaluation of fairness in LLM decision-making</title>
 <link>https://huggingface.co/blog/allenai/fairstress</link>
@@ -15,12 +23,28 @@
 <description> — Hugging Face Blog / score: 60 (LLMの公平性評価に関する技術ブログ)</description>
 </item>
 <item>
+<title>New Gemini tools for small business owners</title>
+<link>https://blog.google/innovation-and-ai/products/gemini-app/new-tools-small-business-owners/</link>
+<guid isPermaLink="true">https://blog.google/innovation-and-ai/products/gemini-app/new-tools-small-business-owners/</guid>
+<pubDate>Tue, 20 Oct 2026 16:00:00 +0000</pubDate>
+<category>Gemini (Google Blog)</category>
+<description>"Your brand, your tools, all in one place" banner featuring three feature highlights: "Create image styles for your brand," "Customize Gemini with apps and skills," and "Create content with templates." — Gemini (Google Blog) / score: 45 (中小企業向けGeminiの新機能・ツール群の発表)</description>
+</item>
+<item>
 <title>iPhone Duoの発売日配送分が「配送準備中」に〜海外では開封動画も</title>
 <link>https://iphone-mania.jp/iphone18-607670/</link>
 <guid isPermaLink="true">https://iphone-mania.jp/iphone18-607670/</guid>
 <pubDate>Tue, 20 Oct 2026 15:48:26 +0000</pubDate>
 <category>iPhone Mania</category>
-<description>2026年10月16日午後9時の予約注文開始直後に注文した筆者のiPhone Duoが、「配送準備中」になりました。 到着予定日は発売日の10月23日と表示されており、予定通り発売日に受け取れる見通しです。 iPhone […] — iPhone Mania / score: 25 (新型iPhoneの配送状況に関する話題)</description>
+<description>2026年10月16日午後9時の予約注文開始直後に注文した筆者のiPhone Duoが、「配送準備中」になりました。 到着予定日は発売日の10月23日と表示されており、予定通り発売日に受け取れる見通しです。 あわせて、海 […] — iPhone Mania / score: 25 (新型iPhoneの配送状況に関する話題)</description>
+</item>
+<item>
+<title>あなたの会社は、慌てて脆弱性検査にARTEXを使わなくていい｜Yusuke Kawabata（SaaS運営）</title>
+<link>https://note.com/uplucid/n/ncb9e3567ce2f</link>
+<guid isPermaLink="true">https://note.com/uplucid/n/ncb9e3567ce2f</guid>
+<pubDate>Tue, 20 Oct 2026 15:34:06 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>前回、AIによる「自動化攻撃」に経営者はどのような対応をすればいいのかという話を書きました。おかげさまで多くの反響をいただいて私自身びっくりしました。 そして、本日はセキュリティ会社の調査で今回の大規模攻撃のいくつかはオープンソースのARTEXが使われていたことが判明したとニュースでにぎわっていました。 ... — はてなブックマーク テクノロジー / score: 80 (AI自動化攻撃ツールと脆弱性検査に関する注意喚起記事)</description>
 </item>
 <item>
 <title>Polly Generative engine upgraded with more natural speech, 14 new voices, and 2 new languages</title>
@@ -61,6 +85,14 @@
 <pubDate>Tue, 20 Oct 2026 15:01:00 +0000</pubDate>
 <category>ASCII.jp</category>
 <description>DJIは人気のデュアルカメラ搭載「Osmo Pocket 4P」の白モデルを発売し、同時にファームウェアのアップデートも行いました — ASCII.jp / score: 35 (DJIのカメラ製品の新色モデル発売)</description>
+</item>
+<item>
+<title>AWS announces TorchNeuron: Native PyTorch Support for AWS Trainium (Public Beta)</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/aws-announce-native-pytorch-support-trainium</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/aws-announce-native-pytorch-support-trainium</guid>
+<pubDate>Tue, 20 Oct 2026 15:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Today, AWS launched the public beta of TorchNeuron, an open source native PyTorch backend for AWS Trainium. Trainium is a portfolio of AI chips designed to deliver high performance and cost efficiency for deep learning AI training and inference workloads. TorchNeuron enables AI scientists and researchers to experiment and build models with PyTorch natively on Trainium. With TorchNeuron, developers can enable their PyTorch code on Trainium simply by switching to .to('neuron') while maintaining fu — AWS What's New / score: 80 (AWS Trainium向けのネイティブPyTorchサポート発表)</description>
 </item>
 <item>
 <title>RTX 5090搭載「ZEFT G62CB」が20万7000円引き　パソコンショップSEVENが10月21日限定セール</title>
@@ -135,6 +167,14 @@
 <description>海外メディアによると、Appleは中国でApple Intelligenceの提供を始める準備を進めています。12月に見込まれるiOS27.3での提供となり、Siri AIは含まれない見通しです。約2年にわたり足止めされ […] — iPhone Mania / score: 30 (中国におけるApple Intelligence提供の動き)</description>
 </item>
 <item>
+<title>なんと23の主要なオープンソースプロジェクトのうち11は1人または2人で運営されている実態が明らかに</title>
+<link>https://gigazine.net/news/20261020-open-source-projects/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261020-open-source-projects/</guid>
+<pubDate>Tue, 20 Oct 2026 13:11:44 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Redditユーザーが、スマートフォン・ブラウザ・サーバーが依存している23の主要なオープンソースプロジェクトの履歴から、プロジェクトのメンテナーについて記録する調査を行いました。その結果、23のプロジェクトのうち11では、過去1年間に定期的に変更を加えた開発者が1人または2人しかいなかったことが判明しました。... — はてなブックマーク テクノロジー / score: 60 (OSSメンテナーの少なさを指摘する重要なエコシステム実態調査)</description>
+</item>
+<item>
 <title>7000mAhも積んで厚さ約7.99mm！ モトローラの新スマホ「edge 70 fusion」が10月23日発売</title>
 <link>https://ascii.jp/elem/000/004/443/4443858/?rss</link>
 <guid isPermaLink="true">https://ascii.jp/elem/000/004/443/4443858/?rss</guid>
@@ -157,14 +197,6 @@
 <pubDate>Tue, 20 Oct 2026 13:05:12 +0000</pubDate>
 <category>気になる、記になる…</category>
 <description>Insta360から誕生したドローンブランドのAntigravityが、8K/360度ドローン「Antigravity A1」に新たな操作スタイルをもたらす「Follow Me キット」と「リモートコントローラー キット […] — 気になる、記になる… / score: 25 (ドローン製品のオプションキット発売ニュース)</description>
-</item>
-<item>
-<title>なんと23の主要なオープンソースプロジェクトのうち11は1人または2人で運営されている実態が明らかに</title>
-<link>https://gigazine.net/news/20261020-open-source-projects/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261020-open-source-projects/</guid>
-<pubDate>Tue, 20 Oct 2026 13:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>Redditユーザーが、スマートフォン・ブラウザ・サーバーが依存している23の主要なオープンソースプロジェクトの履歴から、プロジェクトのメンテナーについて記録する調査を行いました。その結果、23のプロジェクトのうち11では、過去1年間に定期的に変更を加えた開発者が1人または2人しかいなかったことが判明しました。 続きを読む... — GIGAZINE / score: 60 (OSSメンテナーの少なさを指摘する重要なエコシステム実態調査)</description>
 </item>
 <item>
 <title>『FF6』の表現を超えられたのか？初のHD-2D化を果たした『ファイナルファンタジー レゾナンス』先行レビュー</title>
@@ -207,6 +239,14 @@
 <description>アジア最大級のコーヒーの祭典『SCAJ』に今年も行ってきました（会期は終了しています）。今年は、去年の来場者数9万6,823人を上回る10万114人もの人で、ものすごい賑わいでした。会場でコーヒー豆やエスプレッソマシンが数多く並ぶなか、「ダ… — ギズモード・ジャパン / score: 10 (ガジェット寄りのコーヒー焙煎機に関する一般向け紹介)</description>
 </item>
 <item>
+<title>datalab-to/indra-ocr · Hugging Face</title>
+<link>https://huggingface.co/datalab-to/indra-ocr</link>
+<guid isPermaLink="true">https://huggingface.co/datalab-to/indra-ocr</guid>
+<pubDate>Tue, 20 Oct 2026 12:26:59 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Datalab State of the Art models for Document Intelligence Indra OCR Indra OCR is a 1M-parameter OCR model that runs on CPU. It turns PDFs and images into markdown, text, or JSON with boxes, and it reads handwriting, 80+ languages, and pages at any angle. Accurate - 66.7 on OmniParseBench (71.4 wi... — はてなブックマーク テクノロジー / score: 65 (軽量でCPU実行可能なOCRモデルの公開情報)</description>
+</item>
+<item>
 <title>DJI、デュアルレンズ搭載ジンバルカメラ『Osmo Pocket 4P』のパールホワイトモデルを発売</title>
 <link>https://taisy0.com/2026/10/20/229176.html</link>
 <guid isPermaLink="true">https://taisy0.com/2026/10/20/229176.html</guid>
@@ -221,6 +261,14 @@
 <pubDate>Tue, 20 Oct 2026 12:10:00 +0000</pubDate>
 <category>ASCII.jp</category>
 <description>HPの16型ノートPC「OmniBook 3 16-bu（DD3C9PA-AAAC）」がAmazonのタイムセール対象。参考価格206,580円から31％オフの142,800円で販売中。Core Ultra 5 225U、16GBメモリ、512GB SSDを搭載し、16型WUXGA IPS液晶を採用。テンキー付き日本語キーボードや顔認証も備えている。 — ASCII.jp / score: 25 (ノートPCのセール・割引情報)</description>
+</item>
+<item>
+<title>AIペネトレーションテスト基盤「Cairn」の公開パネルから見えた攻撃活動についてまとめてみた - piyolog</title>
+<link>https://piyolog.hatenadiary.jp/entry/2026/10/20/205855</link>
+<guid isPermaLink="true">https://piyolog.hatenadiary.jp/entry/2026/10/20/205855</guid>
+<pubDate>Tue, 20 Oct 2026 12:01:49 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>2026年10月19日、セキュリティ企業のNorForgeは、公開状態のまま放置されていたAIペネトレーションテスト基盤Cairnの管理画面から、AIエージェントによる攻撃活動を観測したとするレポートを公表しました。ここでは関連する情報をまとめます。 Cairnとは何か Cairnはオープンソースのエージェント基盤で、開発元のREADME... — はてなブックマーク テクノロジー / score: 85 (AIペネトレーション基盤の公開放置と攻撃観測の重要インシデント)</description>
 </item>
 <item>
 <title>現代の映画は平均して何カット使われているのか？過去100年間の映画8770本におけるカット数をカウントして分析</title>
@@ -447,20 +495,28 @@
 <description>Linuxの生みの親であるリーナス・トーバルズ氏が2026年10月18日にLinuxカーネルの最新バージョン「Linux 7.3」をリリースしました。Linux 7.3ではAppleのバックアップ機能「Time Machine」への対応やCPU・メモリの管理効率の改善、ファイルシステムの機能拡張など、多数の変更が加えられています。 続きを読む... — GIGAZINE / score: 85 (Linuxカーネル最新版のメジャーリリース)</description>
 </item>
 <item>
+<title>Franchisee reconciles cash in 94% less time with ChatGPT Work</title>
+<link>https://openai.com/index/ted-taylor-restaurant</link>
+<guid isPermaLink="true">https://openai.com/index/ted-taylor-restaurant</guid>
+<pubDate>Tue, 20 Oct 2026 10:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow. — OpenAI News / score: 40 (ChatGPTを活用したフランチャイズ企業の業務効率化事例)</description>
+</item>
+<item>
+<title>Introducing Gemini for government services</title>
+<link>https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-government-services/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-government-services/</guid>
+<pubDate>Tue, 20 Oct 2026 10:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Earlier this month at Gemini at Work, we introduced the Gemini agent: a single, universal agent for work. It answers your questions, handles your knowledge work, creates your images and media, and writes and runs code. You give it objectives, not instructions, and come back to finished work. It plans the work, uses skills and tools, connects to your systems, and has the security, administration, and governance your organization requires. Every industry runs on knowledge a general model does not  — Google Cloud Blog / score: 50 (政府向けGeminiエージェントの紹介)</description>
+</item>
+<item>
 <title>Announcements and highlights from Google Public Sector Summit 2026</title>
 <link>https://cloud.google.com/blog/topics/public-sector/announcements-and-highlights-from-google-public-sector-summit-2026/</link>
 <guid isPermaLink="true">https://cloud.google.com/blog/topics/public-sector/announcements-and-highlights-from-google-public-sector-summit-2026/</guid>
 <pubDate>Tue, 20 Oct 2026 10:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>Today we are bringing together mission leaders and builders from across the public sector at the Google Public Sector Summit in Washington D.C. to explore a critical intersection: Where mission meets moonshot. Through our hands-on programming, we will offer inspiration as well as pragmatic steps for turning moonshot aspirations into secure, scaled, real-world outcomes. From mapping the human genome to putting a human on the moon, public sector organizations have been at the helm of some of human — Google Cloud Blog / score: 30 (Google公共セクター向けサミットの発表まとめ)</description>
-</item>
-<item>
-<title>Managed RAG search inside the sovereign perimeter: Gemini on GDC enterprise search</title>
-<link>https://cloud.google.com/blog/topics/hybrid-cloud/managed-rag-search-inside-the-sovereign-perimeter-gemini-on-gdc-enterprise-search/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/topics/hybrid-cloud/managed-rag-search-inside-the-sovereign-perimeter-gemini-on-gdc-enterprise-search/</guid>
-<pubDate>Tue, 20 Oct 2026 10:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>National security agencies and other sovereign and highly regulated organizations handle incredibly sensitive data such as classified reports, field manuals, and sensitive multi-modal datasets. Search and multimodal intelligence that’s available in the public cloud can help teams manage and analyze that data, but due to strict data sovereignty mandates, that data cannot leave the customer premises. The alternative has been to deploy custom agentic search inside a secure, disconnected perimeter,  — Google Cloud Blog / score: 55 (セキュア環境向けマネージドRAG検索の発表)</description>
 </item>
 <item>
 <title>Enabling the next era of sovereign AI: The latest Google Distributed Cloud innovations</title>
@@ -471,12 +527,12 @@
 <description>Agentic systems are quickly moving from pilots to production in the enterprise. But if your organization operates under stringent data sovereignty, defense, intelligence, or critical infrastructure mandates, sending sensitive data to a public cloud often isn’t an option — and building your own AI stack inside a disconnected perimeter can take months. Your missions demand frontier models, hardened security, and high performance, deployed directly where your most sensitive data lives. The latest i — Google Cloud Blog / score: 50 (Google Distributed Cloudの最新動向)</description>
 </item>
 <item>
-<title>Introducing Gemini for government services</title>
-<link>https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-government-services/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-government-services/</guid>
+<title>Managed RAG search inside the sovereign perimeter: Gemini on GDC enterprise search</title>
+<link>https://cloud.google.com/blog/topics/hybrid-cloud/managed-rag-search-inside-the-sovereign-perimeter-gemini-on-gdc-enterprise-search/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/hybrid-cloud/managed-rag-search-inside-the-sovereign-perimeter-gemini-on-gdc-enterprise-search/</guid>
 <pubDate>Tue, 20 Oct 2026 10:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
-<description>Earlier this month at Gemini at Work, we introduced the Gemini agent: a single, universal agent for work. It answers your questions, handles your knowledge work, creates your images and media, and writes and runs code. You give it objectives, not instructions, and come back to finished work. It plans the work, uses skills and tools, connects to your systems, and has the security, administration, and governance your organization requires. Every industry runs on knowledge a general model does not  — Google Cloud Blog / score: 50 (政府向けGeminiエージェントの紹介)</description>
+<description>National security agencies and other sovereign and highly regulated organizations handle incredibly sensitive data such as classified reports, field manuals, and sensitive multi-modal datasets. Search and multimodal intelligence that’s available in the public cloud can help teams manage and analyze that data, but due to strict data sovereignty mandates, that data cannot leave the customer premises. The alternative has been to deploy custom agentic search inside a secure, disconnected perimeter,  — Google Cloud Blog / score: 55 (セキュア環境向けマネージドRAG検索の発表)</description>
 </item>
 <item>
 <title>もはやド定番ソフト！ 12種目が遊べるSwitch 2「スポーツリゾート」が発売間近　公式より約1000円安い</title>
@@ -687,6 +743,14 @@
 <description>2026-10-20 人間とAIの関係の議論で「最終判断は人間がやる」などといった議論があり、これは数年前の段階ではまあ妥当なものだったが、2024~2026年の2年間で起きたことを踏まえると解像度が低すぎると感じている。 この期間に「作業をAIに任せる」に加えて、「実行を許可する判断」「人間に質問するかどうかの判断」も... — はてなブックマーク テクノロジー / score: 60 (AI時代の人間と判断移譲の考察)</description>
 </item>
 <item>
+<title>AWS IAM Identity Center simplifies identity source changes from Active Directory</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/iam-identity-center-chg-id-src-from-ad/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/iam-identity-center-chg-id-src-from-ad/</guid>
+<pubDate>Tue, 20 Oct 2026 08:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS IAM Identity Center now retains your workforce identities and their assignments when you change your identity source from Active Directory to an external identity provider (IdP), such as Okta or Microsoft Entra ID, or to the Identity Center directory. Specifically, it preserves your users, groups, group memberships, permission set assignments, and application assignments. Previously, this change required you to recreate them in IAM Identity Center. IAM Identity Center helps you connect your  — AWS What's New / score: 60 (AWS IAM Identity CenterのIDソース変更簡素化)</description>
+</item>
+<item>
 <title>型落ちな今こそ買い時！ ソニー「WF-1000XM5」が2.4万円は大納得でしょう！</title>
 <link>https://www.gizmodo.jp/article/2610-sony-wf-1000xm5-sale/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/2610-sony-wf-1000xm5-sale/</guid>
@@ -741,70 +805,6 @@
 <pubDate>Tue, 20 Oct 2026 07:30:00 +0000</pubDate>
 <category>InfoQ Japan</category>
 <description>Anthropicは先日、Webプロダクト、開発者用プロダクト、デスクトッププロダクトに跨ってClaudeに使用している封じ込めアーキテクチャの詳細を明らかにした。同社はエージェントの安全性は、権限確認プロンプトやモデルレベルセーフガードのみに依存するよりも、エージェントのファイルシステム、ネットワーク、実行環境に決定論的な制限を設けることにかかっていると主張している。特にAnthropicが設計見直しに至った、信頼境界および許可済外向け通信経路における障害について検証している。 By Eran Stiller Translated by Hiroaki.Sugimura — InfoQ Japan / score: 70 (AnthropicによるAIエージェントの封じ込めアーキテクチャ詳細解説)</description>
-</item>
-<item>
-<title>JUPITER-8が進化を遂げたコンパクトシンセサイザー、ROLAND「JUPITER-08」発表！</title>
-<link>https://computermusic.jp/2026/10/jupiter-08/</link>
-<guid isPermaLink="true">https://computermusic.jp/2026/10/jupiter-08/</guid>
-<pubDate>Tue, 20 Oct 2026 07:22:50 +0000</pubDate>
-<category>Computer Music Japan</category>
-<description>JUPITER-8が進化を遂げたコンパクトシンセサイザー、ROLAND「JUPITER-08」発表です。 JUPITER-08 80年代初頭の名機JUPITER-8の誕生45周年を記念し、Roland Boutiqueシ... The post JUPITER-8が進化を遂げたコンパクトシンセサイザー、ROLAND「JUPITER-08」発表！ first appeared on Computer Music Japan . — Computer Music Japan / score: 35 (楽器・音響機器メーカーの新製品発表)</description>
-</item>
-<item>
-<title>Apple、米国でiPhone Duoの購入台数を制限〜1人2台まで</title>
-<link>https://iphone-mania.jp/iphone18-607653/</link>
-<guid isPermaLink="true">https://iphone-mania.jp/iphone18-607653/</guid>
-<pubDate>Tue, 20 Oct 2026 07:20:15 +0000</pubDate>
-<category>iPhone Mania</category>
-<description>米国でiPhone Duoを購入する際、1人につき最大2台までの購入台数制限が設けられていることが明らかになりました。Appleの公式サイトおよびApple Storeアプリで、3台以上を購入しようとすると制限に関するメ […] — iPhone Mania / score: 50 (Appleの米国におけるiPhone Duoの購入台数制限ニュース)</description>
-</item>
-<item>
-<title>適当に撮るだけでいい感じ ～無償のデスクトップ録画ツール「OpenScreen」がv2.0に／クロスプラットフォーム、オープンソース。“何もしなくてもきれい、いじっても崩れない”</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2149576.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2149576.html</guid>
-<pubDate>Tue, 20 Oct 2026 07:00:47 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>適当に撮るだけでいい感じ ～無償のデスクトップ録画ツール「OpenScreen」がv2.0に／クロスプラットフォーム、オープンソース。“何もしなくてもきれい、いじっても崩れない” — はてなブックマーク テクノロジー / score: 40 (デスクトップ録画ツールOpenScreen v2.0のアップデート)</description>
-</item>
-<item>
-<title>Amazon CloudFront、オリジンとしてAWS Lambda Web Functionをサポート</title>
-<link>https://codezine.jp/article/detail/30065</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/30065</guid>
-<pubDate>Tue, 20 Oct 2026 07:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 65 (CloudFrontがLambda Web Functionをオリジンサポート)</description>
-</item>
-<item>
-<title>性暴力を受けたと主張する元女子大生が7人の男性の実名を挙げると逆に女子大生を特定しようとする動きが加速</title>
-<link>https://gigazine.net/news/20261020-cornell-jane-doe-sns-reveal-movement/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261020-cornell-jane-doe-sns-reveal-movement/</guid>
-<pubDate>Tue, 20 Oct 2026 07:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>アメリカの大学に在籍していた女性が、薬物とアルコールを飲まされたうえで7時間近くにわたり性的暴行を受けたとして訴訟を起こしました。この件に関連し、「女性側にも同意があったのではないか。真の被害者は男性側ではないか」とする声が上がり、逆に女性の身元を特定しようとする動きが見られています。 続きを読む... — GIGAZINE / score: 30 (性暴力告発を巡る個人特定に関する社会的なトラブルのニュース)</description>
-</item>
-<item>
-<title>Cloudflareが文章や画像から必要な情報を高速・低コストで抽出するAI「Clairic」を発表、計算や予測にも対応</title>
-<link>https://gigazine.net/news/20261020-cloudflare-clairic/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261020-cloudflare-clairic/</guid>
-<pubDate>Tue, 20 Oct 2026 06:57:56 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Cloudflareは2026年10月19日、文章や画像から必要な情報を抽出したり数値を計算・予測したりできるAIモデル「Clairic」を発表しました。Clairicは「System One」と呼ばれるAIモデルの一種で、一般的な大規模言語モデル(LLM)よりも高速かつ低コストで情報を処理でき、特定の用途では精度も向上するとのことです。 Introdu... — はてなブックマーク テクノロジー / score: 70 (Cloudflareによる高速・低コストな情報抽出AI「Clairic」の発表)</description>
-</item>
-<item>
-<title>テストの前提を「実際に遊んで撮ったセーブ」に替えたら、撮影ボットがソフトロックを見つけた</title>
-<link>https://zenn.dev/gzer0/articles/real-play-save-fixtures-for-ai-tests</link>
-<guid isPermaLink="true">https://zenn.dev/gzer0/articles/real-play-save-fixtures-for-ai-tests</guid>
-<pubDate>Tue, 20 Oct 2026 06:50:12 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>AIエージェントに書かせたE2Eテストの前提状態を、値の直接書き換えから「実際に遊んで撮ったセーブ」に替えました。対象はWebのターン制ゲーム、Godotのゲーム、量産用のWebゲームテンプレートの3つです。入れたその日に、半年近く止まっていたセーブ形式の移行を実データで確かめられました。Godotのほうでは、撮影用のボットが抜けられない状態（ソフトロック）に突き当たりました。テスト用のボットが毎回状態を初期値に戻していたせいで、これまでのテストには出ていなかったものです。 元になった考え方は、unsoluble_sugarさんの記事「セーブデータスナップショットによるE2Eテスト基盤」... — Zenn トレンド / score: 60 (AIテストでソフトロックを発見した事例)</description>
-</item>
-<item>
-<title>新規事業における「終わらない企画書修正」をAIで解決へ、個社専用エージェント「Plan」が登場</title>
-<link>https://codezine.jp/article/detail/30071</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/30071</guid>
-<pubDate>Tue, 20 Oct 2026 06:45:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 55 (新規事業の企画書修正を支援するAIエージェントの登場)</description>
 </item>
 </channel>
 </rss>

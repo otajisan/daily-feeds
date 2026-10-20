@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Tue, 20 Oct 2026 16:10:46 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 18:11:18 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] Linuxカーネル脆弱性「CVE-2026-99999」発見の背景が明らかに ―きっかけは賞金総額100万ドルの“サンドボックス脱出チャレンジ” | gihyo.jp</title>
@@ -143,6 +143,14 @@
 <description>October 20, 2026Introducing tsrs: a Port of TypeScript to Rust Cloudflare and VoidZero are now working with Max Schwenk of Owner.com on tsrs, a Rust port of the TypeScript compiler. We are doing this work in close collaboration with the TypeScript team, and incubating tsrs as part of the Oxc Java... — はてなブックマーク テクノロジー / score: 85 (TypeScriptコンパイラのRust移植という大ニュース)</description>
 </item>
 <item>
+<title>[85] AIペネトレーションテスト基盤「Cairn」の公開パネルから見えた攻撃活動についてまとめてみた - piyolog</title>
+<link>https://piyolog.hatenadiary.jp/entry/2026/10/20/205855</link>
+<guid isPermaLink="true">https://piyolog.hatenadiary.jp/entry/2026/10/20/205855</guid>
+<pubDate>Tue, 20 Oct 2026 12:01:49 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>2026年10月19日、セキュリティ企業のNorForgeは、公開状態のまま放置されていたAIペネトレーションテスト基盤Cairnの管理画面から、AIエージェントによる攻撃活動を観測したとするレポートを公表しました。ここでは関連する情報をまとめます。 Cairnとは何か Cairnはオープンソースのエージェント基盤で、開発元のREADME... — はてなブックマーク テクノロジー / score: 85 (AIペネトレーション基盤の公開放置と攻撃観測の重要インシデント)</description>
+</item>
+<item>
 <title>[85] 栃木県警、全職員の情報流出か　アルカディア不正アクセス、他県警でも被害判明相次ぐ　報道</title>
 <link>https://www.itmedia.co.jp/news/article/2610/20/2000002435/</link>
 <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/20/2000002435/</guid>
@@ -237,14 +245,6 @@
 <pubDate>Mon, 19 Oct 2026 15:49:22 +0000</pubDate>
 <category>Publickey</category>
 <description>Amazon Web Services（AWS）は、サーバレス基盤のAWS Lambda上でNext.jsやExpress、Hono、FastifyなどのNode.js用フレームワークとそのアプリケーションをそのままデプロイして実行できる新... — Publickey / score: 85 (AWS Lambdaの新機能発表で実用性が高く重要)</description>
-</item>
-<item>
-<title>[85] DMARCを通過するフィッシングメールの落とし穴：DKIMリプレイ攻撃の仕組みと企業が取るべき対策 | Proofpoint JP</title>
-<link>https://www.proofpoint.com/jp/blog/email-and-cloud-threats/dkim-replay-attacks</link>
-<guid isPermaLink="true">https://www.proofpoint.com/jp/blog/email-and-cloud-threats/dkim-replay-attacks</guid>
-<pubDate>Mon, 19 Oct 2026 12:57:49 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>DMARCを「p=reject」に設定しても安心できない理由 2026年10月、国内で、正規企業を装ったフィッシングメールが送信ドメイン認証のDMARCを通過する事象が確認されました。メールの受信画面には、公式アカウントマークや企業のブランドロゴまで表示されていました。 NTTドコモは、一部企業の送信ドメイン認証の設定に脆弱... — はてなブックマーク テクノロジー / score: 85 (DMARC突破の脆弱性とDKIMリプレイ攻撃の解説)</description>
 </item>
 <item>
 <title>[85] 10月の「Windows Update」に注目集まる、脆弱性は過去最多、初の4桁に ～窓の杜アクセスランキング［2026/10/12～2026/10/18]【記事アクセスランキング】</title>
@@ -357,6 +357,22 @@
 <pubDate>Thu, 08 Oct 2026 04:14:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Anthropicは10月7日、AIモデル「Claude Haiku 5.5」を発表した。 — gihyo.jp / score: 85 (Claude Haiku 5.5のリリースと性能・コスト詳細)</description>
+</item>
+<item>
+<title>[80] あなたの会社は、慌てて脆弱性検査にARTEXを使わなくていい｜Yusuke Kawabata（SaaS運営）</title>
+<link>https://note.com/uplucid/n/ncb9e3567ce2f</link>
+<guid isPermaLink="true">https://note.com/uplucid/n/ncb9e3567ce2f</guid>
+<pubDate>Tue, 20 Oct 2026 15:34:06 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>前回、AIによる「自動化攻撃」に経営者はどのような対応をすればいいのかという話を書きました。おかげさまで多くの反響をいただいて私自身びっくりしました。 そして、本日はセキュリティ会社の調査で今回の大規模攻撃のいくつかはオープンソースのARTEXが使われていたことが判明したとニュースでにぎわっていました。 ... — はてなブックマーク テクノロジー / score: 80 (AI自動化攻撃ツールと脆弱性検査に関する注意喚起記事)</description>
+</item>
+<item>
+<title>[80] AWS announces TorchNeuron: Native PyTorch Support for AWS Trainium (Public Beta)</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/aws-announce-native-pytorch-support-trainium</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/aws-announce-native-pytorch-support-trainium</guid>
+<pubDate>Tue, 20 Oct 2026 15:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Today, AWS launched the public beta of TorchNeuron, an open source native PyTorch backend for AWS Trainium. Trainium is a portfolio of AI chips designed to deliver high performance and cost efficiency for deep learning AI training and inference workloads. TorchNeuron enables AI scientists and researchers to experiment and build models with PyTorch natively on Trainium. With TorchNeuron, developers can enable their PyTorch code on Trainium simply by switching to .to('neuron') while maintaining fu — AWS What's New / score: 80 (AWS Trainium向けのネイティブPyTorchサポート発表)</description>
 </item>
 <item>
 <title>[80] 岩井コスモ証券にサイバー攻撃</title>
@@ -503,6 +519,14 @@
 <description> — Google DeepMind / score: 80 (Googleの軽量マルチモーダル埋め込みモデル公開)</description>
 </item>
 <item>
+<title>[75] Introducing Amazon ECS Gateway: A fully-managed ingress solution for ECS services</title>
+<link>https://aws.amazon.com/blogs/aws/introducing-amazon-ecs-gateway-a-fully-managed-ingress-solution-for-ecs-services/</link>
+<guid isPermaLink="true">https://aws.amazon.com/blogs/aws/introducing-amazon-ecs-gateway-a-fully-managed-ingress-solution-for-ecs-services/</guid>
+<pubDate>Tue, 20 Oct 2026 17:03:38 +0000</pubDate>
+<category>AWS News Blog</category>
+<description>Try Amazon ECS Gateway, a new account-level resource that simplifies ingress networking for containerized workloads by dynamically provisioning and managing the necessary infrastructure on your behalf, with all resources created directly in your account. — AWS News Blog / score: 75 (ECS向けフルマネージドなイングレスソリューションの新機能)</description>
+</item>
+<item>
 <title>[75] 「Cloudflare OS」のマネージドサービス提供へ。GitHubとの接続やGmailとの連携強化など</title>
 <link>https://www.publickey1.jp/blog/26/cloudflare_osgithubgmail.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/cloudflare_osgithubgmail.html</guid>
@@ -557,6 +581,22 @@
 <pubDate>Tue, 20 Oct 2026 00:52:05 +0000</pubDate>
 <category>気になる、記になる…</category>
 <description>デジタル庁が、本日より「Androidのマイナンバーカード」の提供を開始しました。 「Androidのマイナンバーカード」は、Android端末（Google ウォレット）に入れて利用できるマイナンバーカードとなっており […] — 気になる、記になる… / score: 75 (Android版マイナンバーカードの提供開始)</description>
+</item>
+<item>
+<title>[75] Claude Platform release notes — October 20, 2026</title>
+<link>https://platform.claude.com/docs/en/release-notes/overview#october-20-2026-2</link>
+<guid isPermaLink="true">https://platform.claude.com/docs/en/release-notes/overview#october-20-2026-2</guid>
+<pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+<category>Claude リリースノート</category>
+<description>Inference hooks are out of beta for Claude Enterprise organizations. — Claude リリースノート / score: 75 (Claudeプラットフォームのマネージドエージェント更新)</description>
+</item>
+<item>
+<title>[75] Reflect, Transform, Accelerate: Bringing GPU Computing to Java</title>
+<link>https://inside.java/2026/10/20/devoxxbelgium-bringing-gpu-computing-to-java/</link>
+<guid isPermaLink="true">https://inside.java/2026/10/20/devoxxbelgium-bringing-gpu-computing-to-java/</guid>
+<pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+<category>Inside Java</category>
+<description>Java’s code reflection API, developed in OpenJDK Project Babylon, opens a new path to targeting foreign programming models directly from Java—including GPUs. This talk introduces the Heterogeneous Accelerator Toolkit (HAT), a Java parallel programming framework that accelerates modern workloads on specialised hardware through three core stages: reflect, transform, and accelerate. Through examples of tensor-core programming and matrix multiplication—fundamental building blocks for AI and natural- — Inside Java / score: 75 (JavaからGPUコンピューティングを活用するプロジェクトの解説)</description>
 </item>
 <item>
 <title>[75] 「Edge 155」の一部で起動できなくなる問題、Microsoftがサービス側の変更を巻き戻し／クライアント側の修正は調査中</title>
@@ -663,14 +703,6 @@
 <description>KDEプロジェクトは10月14日、「KDE Plasma 6.8」をリリースした。 — gihyo.jp / score: 75 (KDE Plasma 6.8リリースとWayland移行)</description>
 </item>
 <item>
-<title>[75] Claude Platform release notes — October 15, 2026</title>
-<link>https://platform.claude.com/docs/en/release-notes/overview#october-15-2026-5</link>
-<guid isPermaLink="true">https://platform.claude.com/docs/en/release-notes/overview#october-15-2026-5</guid>
-<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-<category>Claude リリースノート</category>
-<description>We've added capabilities.thinking.types.between_tools to the Models API . GET /v1/models and GET /v1/models/{model_id} now report whether each model accepts thinking: {type: "between_tools"} , which turns off up-front thinking. See Using the Models API . The Compliance API now returns the text each organization member saved as Instructions for Claude in claude.ai and as Global instructions in Cowork, in beta for Claude Enterprise organizations. Call GET /v1/compliance/organizations/{org_uuid}/us — Claude リリースノート / score: 75 (Claudeプラットフォームのマネージドエージェント更新)</description>
-</item>
-<item>
 <title>[75] Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ</title>
 <link>https://www.publickey1.jp/blog/26/windowsaimicrosoft_execution_containersmxc.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/windowsaimicrosoft_execution_containersmxc.html</guid>
@@ -773,38 +805,6 @@
 <pubDate>Fri, 09 Oct 2026 10:36:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Anthropicは2026年10月8日、重要インフラとオープンソースソフトウェア（OSS）をサイバー攻撃から守る長期的な取り組み、Anthropic Cyber Missionを発表した。 — gihyo.jp / score: 75 (重要インフラとOSSのサイバー防御支援プログラム)</description>
-</item>
-<item>
-<title>[75] Asana cuts model costs 76x in browser tests with GPT-6.1 Sol</title>
-<link>https://openai.com/index/asana-browser-agent</link>
-<guid isPermaLink="true">https://openai.com/index/asana-browser-agent</guid>
-<pubDate>Fri, 09 Oct 2026 07:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models. — OpenAI News / score: 75 (AIモデル活用による大幅なコスト削減事例)</description>
-</item>
-<item>
-<title>[75] Amazon GuardDuty RDS Protection now detects data exfiltration and destruction in Aurora and RDS databases</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/10/guardduty-rds-data-exfiltration/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/guardduty-rds-data-exfiltration/</guid>
-<pubDate>Thu, 08 Oct 2026 08:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Amazon GuardDuty announces an expansion of RDS Protection that extends threat detection beyond login anomalies to identify data exfiltration and data destruction attacks targeting Amazon Aurora PostgreSQL and Amazon RDS for PostgreSQL databases. Available as RDS Protection for data activity, this new capability uses machine learning (ML)-based anomaly detection and integrated threat intelligence to continuously monitor database query patterns, helping you detect unusual data activity without req — AWS What's New / score: 75 (GuardDutyによるDBのデータ持ち出し・破壊検知の強化)</description>
-</item>
-<item>
-<title>[75] AWS、DuckDBをAurora PostgreSQLに統合。ETL不要で直接データレイクを読み取り可能にしたと発表</title>
-<link>https://www.publickey1.jp/blog/26/awsduckdbaurora_postgresqletl.html</link>
-<guid isPermaLink="true">https://www.publickey1.jp/blog/26/awsduckdbaurora_postgresqletl.html</guid>
-<pubDate>Wed, 07 Oct 2026 15:59:06 +0000</pubDate>
-<category>Publickey</category>
-<description>Amazon Web Services（AWS）は、Amazon Aurora PostgreSQLにDuckDBを統合し、Apache Icebergなどで構築したデータレイクのデータを直接読み取って処理できるようになったことを発表しまし... — Publickey / score: 75 (AWSとDuckDBの統合によるデータレイク処理の効率化)</description>
-</item>
-<item>
-<title>[75] Google、スマートフォンで動くマルチモーダル埋め込みモデル「EmbeddingGemma 2」を公開</title>
-<link>https://gihyo.jp/article/2026/10/embeddinggemma-2?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/10/embeddinggemma-2?utm_source=feed</guid>
-<pubDate>Wed, 07 Oct 2026 05:39:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Googleは2026年10月6日、スマートフォンやPC上で動作する埋め込みモデル「EmbeddingGemma 2」を公開した。 — gihyo.jp / score: 75 (Googleのエッジ向けマルチモーダル埋め込みモデル公開)</description>
 </item>
 </channel>
 </rss>
