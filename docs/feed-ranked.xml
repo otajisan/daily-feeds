@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Tue, 20 Oct 2026 12:13:37 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 14:10:35 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] Linuxカーネル脆弱性「CVE-2026-99999」発見の背景が明らかに ―きっかけは賞金総額100万ドルの“サンドボックス脱出チャレンジ” | gihyo.jp</title>
@@ -53,14 +53,6 @@
 <pubDate>Tue, 20 Oct 2026 06:16:53 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>105時間にわたる攻防 侵入経路を塞いだ後もバックドアから…… 公表資料によると、攻撃者は不正アクセスを始めてから約10時間後、サービス間ログイン用のシークレットキーを含む設定ファイルを取得。総当たり攻撃を仕掛けて内部情報を取得した。 同社が不正アクセスを検知したのはその約7時間後。侵入経路を遮断したがバ... — はてなブックマーク テクノロジー / score: 90 (詳細な不正アクセスの攻防レポートでセキュリティ面で非常に有益)</description>
-</item>
-<item>
-<title>[90] 阪急阪神百貨店 約126万件漏洩か</title>
-<link>https://news.yahoo.co.jp/pickup/6599351?source=rss</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6599351?source=rss</guid>
-<pubDate>Mon, 19 Oct 2026 05:05:16 +0000</pubDate>
-<category>Yahoo!ニュース IT</category>
-<description> — Yahoo!ニュース IT / score: 90 (百貨店の大規模な個人情報漏えい事故)</description>
 </item>
 <item>
 <title>[90] Next.js、リモートコード実行など3件の脆弱性を修正したv16.4.1とv15.5.28を公開</title>
@@ -125,6 +117,14 @@
 <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly. — OpenAI News / score: 90 (主要AIの次世代メジャーリリースと新UIの発表)</description>
+</item>
+<item>
+<title>[85] 栃木県警、全職員の情報流出か　アルカディア不正アクセス、他県警でも被害判明相次ぐ　報道</title>
+<link>https://www.itmedia.co.jp/news/article/2610/20/2000002435/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/20/2000002435/</guid>
+<pubDate>Tue, 20 Oct 2026 11:50:52 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>防災情報配信サービスを手掛けるアルカディア（大阪府箕面市）が不正アクセスを受けた問題で、栃木県警の全職員約3900人分の個人情報が流出した可能性があると、下野新聞や毎日新聞などが10月20日に報じた。災害時の安否確認システムに登録していた情報で、20日までに不正利用は確認されていないという。 毎日新聞の報道... — はてなブックマーク テクノロジー / score: 85 (警察情報の不正アクセス流出に関する重大なセキュリティ事故)</description>
 </item>
 <item>
 <title>[85] 不正アクセスによる寄附者様情報の外部流出に関するお詫びとお知らせ | NEWSROOM | 株式会社トラストバンク</title>
@@ -221,6 +221,14 @@
 <pubDate>Mon, 19 Oct 2026 15:49:22 +0000</pubDate>
 <category>Publickey</category>
 <description>Amazon Web Services（AWS）は、サーバレス基盤のAWS Lambda上でNext.jsやExpress、Hono、FastifyなどのNode.js用フレームワークとそのアプリケーションをそのままデプロイして実行できる新... — Publickey / score: 85 (AWS Lambdaの新機能発表で実用性が高く重要)</description>
+</item>
+<item>
+<title>[85] DMARCを通過するフィッシングメールの落とし穴：DKIMリプレイ攻撃の仕組みと企業が取るべき対策 | Proofpoint JP</title>
+<link>https://www.proofpoint.com/jp/blog/email-and-cloud-threats/dkim-replay-attacks</link>
+<guid isPermaLink="true">https://www.proofpoint.com/jp/blog/email-and-cloud-threats/dkim-replay-attacks</guid>
+<pubDate>Mon, 19 Oct 2026 12:57:49 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>DMARCを「p=reject」に設定しても安心できない理由 2026年10月、国内で、正規企業を装ったフィッシングメールが送信ドメイン認証のDMARCを通過する事象が確認されました。メールの受信画面には、公式アカウントマークや企業のブランドロゴまで表示されていました。 NTTドコモは、一部企業の送信ドメイン認証の設定に脆弱... — はてなブックマーク テクノロジー / score: 85 (DMARC突破の脆弱性とDKIMリプレイ攻撃の解説)</description>
 </item>
 <item>
 <title>[85] 10月の「Windows Update」に注目集まる、脆弱性は過去最多、初の4桁に ～窓の杜アクセスランキング［2026/10/12～2026/10/18]【記事アクセスランキング】</title>
@@ -335,6 +343,14 @@
 <description>Anthropicは10月7日、AIモデル「Claude Haiku 5.5」を発表した。 — gihyo.jp / score: 85 (Claude Haiku 5.5のリリースと性能・コスト詳細)</description>
 </item>
 <item>
+<title>[80] 岩井コスモ証券にサイバー攻撃</title>
+<link>https://news.yahoo.co.jp/pickup/6599523?source=rss</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6599523?source=rss</guid>
+<pubDate>Tue, 20 Oct 2026 13:57:57 +0000</pubDate>
+<category>Yahoo!ニュース IT</category>
+<description> — Yahoo!ニュース IT / score: 80 (証券会社へのサイバー攻撃に関するセキュリティインシデント)</description>
+</item>
+<item>
 <title>[80] 80社サイバー攻撃 中国語AI悪用か</title>
 <link>https://news.yahoo.co.jp/pickup/6599460?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6599460?source=rss</guid>
@@ -349,14 +365,6 @@
 <pubDate>Mon, 19 Oct 2026 23:40:08 +0000</pubDate>
 <category>Qiita 人気記事</category>
 <description>はじめに 検証用にchakra-ui v2を使おうとしていた。snykで脆弱性を確認しようと思った 問題 chakra-uiをインストールする開発者を狙ったパッケージを見つけた 解決 インストール時は記憶に頼って手打ちで実行せず、公式ドキュメントからコマンド... — Qiita 人気記事 / score: 80 (タイポスクワッティングを狙う悪意あるリポジトリ)</description>
-</item>
-<item>
-<title>[80] AIの思考を潜在空間で実行して高性能化＆高速化＆低コスト化を実現する「Hybrid Reasoning Agents」</title>
-<link>https://gigazine.net/news/20261019-hybrid-reasoning-agents/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261019-hybrid-reasoning-agents/</guid>
-<pubDate>Mon, 19 Oct 2026 13:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>スタンフォード大学、Together AI、イリノイ大学アーバナ・シャンペーン校、Metaの研究チームが「Hybrid Reasoning Agents」というAI実行手法を発表しました。AIモデルの思考(thinking)を潜在空間で実行できるように事後学習を施し、処理トークン数を少なくして高速化と低コスト化が可能とされています。 続きを読む... — GIGAZINE / score: 80 (AIの高速化と低コスト化を実現する新手法)</description>
 </item>
 <item>
 <title>[80] 2026年10月パッチに新たな問題、［スマート アプリ コントロール］をONにできない／Microsoftが回避策を案内</title>
@@ -495,14 +503,6 @@
 <description>Today at the PyTorch Conference, we released llm-d 1.0, an open-source, Kubernetes-native stack for distributed LLM inference. Co-founded by Google with Red Hat, IBM and others, we worked with a community of more than 500 contributors over 25 organizations on this Cloud Native Computing Foundation (CNCF) Sandbox project, bringing together two important communities: PyTorch, where vLLM and SGLang serve models, and Kubernetes, where distributed systems run and scale in production. llm-d 1.0 arrive — Google Cloud Blog / score: 75 (分散LLM推論向けKubernetesスタックの公開)</description>
 </item>
 <item>
-<title>[75] GitHub - deepseek-ai/DeepInfer: DeepInfer: High-performance, large-scale inference framework for DeepSeek models</title>
-<link>https://github.com/deepseek-ai/DeepInfer</link>
-<guid isPermaLink="true">https://github.com/deepseek-ai/DeepInfer</guid>
-<pubDate>Tue, 20 Oct 2026 11:06:08 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>DeepInfer is the high-performance inference framework that powers DeepSeek's large-scale production services. This open-source release provides offline inference with the core features needed for serving at scale. Supported models: DeepSeek-V4.1-Flash Supported features: Optimized kernels, model ... — はてなブックマーク テクノロジー / score: 75 (DeepSeekの高性能推論フレームワーク公開)</description>
-</item>
-<item>
 <title>[75] GoogleのGenkit、TypeScriptとGo向けに「Detached Turns」と「Human-in-the-Loop」機能を備えたAgents APIをリリース</title>
 <link>https://www.infoq.com/jp/news/2026/10/genkit-agents-api-preview/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
 <guid isPermaLink="true">https://www.infoq.com/jp/news/2026/10/genkit-agents-api-preview/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
@@ -517,14 +517,6 @@
 <pubDate>Tue, 20 Oct 2026 04:50:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>中国のAI企業であるMiniMaxが2026年10月19日、新たなAIモデル「MiniMax M3.1 Flash」を発表しました。AIエージェントによる複雑な作業やプログラミング、PC操作、サイバーセキュリティ関連の能力を強化したほか、従来モデルと比べて推論速度を約3倍に高め、利用コストを70％削減したとしています。 続きを読む... — GIGAZINE / score: 75 (新型AIモデル発表とコスト削減・性能向上)</description>
-</item>
-<item>
-<title>[75] 情報漏えい続きの日本へ。デンマーク880万人分の流出が教えてくれた“基本のキ”</title>
-<link>https://www.gizmodo.jp/article/2610-denmark-data-leak-security-basics/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2610-denmark-data-leak-security-basics/</guid>
-<pubDate>Tue, 20 Oct 2026 02:40:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>デンマークで起きた880万人分の情報流出事件から学ぶサイバーセキュリティの基本。パスワード管理やアクセス権限の重要性を解説します。 — ギズモード・ジャパン / score: 75 (大規模な情報流出事件から学ぶサイバーセキュリティの基本。)</description>
 </item>
 <item>
 <title>[75] Chromium(V8)のArray.prototype.fillを最大約7倍高速化した</title>
@@ -805,6 +797,14 @@
 <pubDate>Tue, 20 Oct 2026 09:53:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Microsoftは10月15日（現地時間）、「Process Explorer」（procexp）の最新版v17.2を公開した。同社が提供するシステムツール群「Sysinternals」の一つで、プロセスやDLL、ハンドルの情報を詳しく表示できる高機能なタスクマネージャーとして知られる。 — 窓の杜 / score: 70 (Process Explorer v17.2の機能強化)</description>
+</item>
+<item>
+<title>[70] 本日開始「Androidのマイナンバーカード」さっそく登録、試してわかったiPhoneとの違いと注意点</title>
+<link>https://k-tai.watch.impress.co.jp/docs/review/2149675.html</link>
+<guid isPermaLink="true">https://k-tai.watch.impress.co.jp/docs/review/2149675.html</guid>
+<pubDate>Tue, 20 Oct 2026 07:39:04 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>本日開始「Androidのマイナンバーカード」さっそく登録、試してわかったiPhoneとの違いと注意点 — はてなブックマーク テクノロジー / score: 70 (Android版マイナンバーカードの解説)</description>
 </item>
 </channel>
 </rss>
