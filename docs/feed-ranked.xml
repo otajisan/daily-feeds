@@ -4,8 +4,16 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Tue, 20 Oct 2026 04:10:34 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 06:15:29 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>[95] Linuxカーネル脆弱性「CVE-2026-99999」発見の背景が明らかに ―きっかけは賞金総額100万ドルの“サンドボックス脱出チャレンジ”</title>
+<link>https://gihyo.jp/article/2026/10/cve-2026-99999?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/10/cve-2026-99999?utm_source=feed</guid>
+<pubDate>Tue, 20 Oct 2026 05:02:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>2026年10月15日に「CVE-2026-99999」として公開されたLinuxカーネルに関する重大な脆弱性“Guest-to-Host KVM Escape”について、発見者のpwn.aiから発見にいたる概要と背景の報告があった。 — gihyo.jp / score: 95 (Linuxカーネルの重大な脆弱性と発見背景の報告)</description>
+</item>
 <item>
 <title>[95] Linuxカーネルの深刻な脆弱性「PwnEscape」（CVE-2026-99999）、ゲストの仮想マシンからホスト側Linux OSに不正なコードを実行できる可能性</title>
 <link>https://www.publickey1.jp/blog/26/linuxpwnescapecve-2026-99999linux_os.html</link>
@@ -39,12 +47,12 @@
 <description>JavaScriptランタイム「Deno」の開発元であるDeno LandとCloudflareは、Deno LandがCloudflareに合流すると発表しました。CloudflareによるDeno Landの買収と見られます（Deno ... — Publickey / score: 95 (Deno開発終了とCloudflare合流の重大なニュース)</description>
 </item>
 <item>
-<title>[90] 【速報】メール配信会社、900万件情報流出の恐れ</title>
-<link>https://www.47news.jp/15106450.html</link>
-<guid isPermaLink="true">https://www.47news.jp/15106450.html</guid>
-<pubDate>Mon, 19 Oct 2026 11:39:55 +0000</pubDate>
+<title>[90] 近年最悪級のcurl脆弱性も発見　無料でClaude Mythosが検査する『OSS Scanner』、11日間で緊急・重要880件をAI判定 | テクノエッジ TechnoEdge</title>
+<link>https://www.techno-edge.net/article/2026/10/20/5610.html</link>
+<guid isPermaLink="true">https://www.techno-edge.net/article/2026/10/20/5610.html</guid>
+<pubDate>Tue, 20 Oct 2026 03:13:07 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>メール配信サービスを手がけるユミルリンクは19日、外部から不正アクセスを受けたと発表した。メールアドレスを含む個人情報延べ約900万件が流出した可能性があるという。 — はてなブックマーク テクノロジー / score: 90 (900万件の大規模な個人情報流出インシデント)</description>
+<description>Anthropicは、オープンソースソフトウェア(OSS)の脆弱性をClaude Mythosなど自社の最上位モデルで検査する「OSS Scanner」について、提供開始から11日間でAI判定の深刻度「緊急」77件、「重要」803件を発見したことを明らかにしました。 ■ 人手の検証を待たずに届く脆弱性レポートOSS Scannerは、OSSプロジェクトのメン... — はてなブックマーク テクノロジー / score: 90 (AIを活用したOSS脆弱性検出の最新動向と重要度)</description>
 </item>
 <item>
 <title>[90] 阪急阪神百貨店 約126万件漏洩か</title>
@@ -119,6 +127,22 @@
 <description>GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly. — OpenAI News / score: 90 (主要AIの次世代メジャーリリースと新UIの発表)</description>
 </item>
 <item>
+<title>[85] 中国語を使うハッカーがAIエージェントで日本企業などにハッキングして100件近い攻撃に成功していたことが判明</title>
+<link>https://gigazine.net/news/20261020-chinese-hacker-ai-agents-break-websites/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261020-chinese-hacker-ai-agents-break-websites/</guid>
+<pubDate>Tue, 20 Oct 2026 05:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>2026年9月以降、日本企業がハッカーにより不正アクセスされる被害が相次いでおり、AIを悪用したハッキングの高速化・高度化が懸念されています。サイバーセキュリティ企業のNorForgeで主席脅威研究員を務めるスノーレ・ファーゲルランド氏が、オープンソースAIツールの「Cairn」を用いたハッキングの実態について報告しました。 続きを読む... — GIGAZINE / score: 85 (AI悪用ハッキングの急増と実態の報告)</description>
+</item>
+<item>
+<title>[85] ソフトウェアの産業革命 - ちなみに</title>
+<link>https://blog.nishimu.land/entry/2026/10/20/123916</link>
+<guid isPermaLink="true">https://blog.nishimu.land/entry/2026/10/20/123916</guid>
+<pubDate>Tue, 20 Oct 2026 04:10:49 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>2026年9月、Anthropicの社内リポジトリには1日あたり3万件を超える変更がマージされていたそうです。5月の時点ではおよそ2,500件だったので、4か月で10倍以上。書いているのはほとんどがコーディングエージェントです。 この3万件を人が一行ずつ読んでいるとは思えないし、誰も読まずに本番へ出しているとも思えない。じ... — はてなブックマーク テクノロジー / score: 85 (コーディングエージェントの爆発的普及に関する重要な話題)</description>
+</item>
+<item>
 <title>[85] COBOLやVBなど旧式言語でGPT-6急伸、正解率5%から最大98%とOpenAI発表　熟練者減少のレガシー刷新に光明 | テクノエッジ TechnoEdge</title>
 <link>https://www.techno-edge.net/article/2026/10/20/5611.html</link>
 <guid isPermaLink="true">https://www.techno-edge.net/article/2026/10/20/5611.html</guid>
@@ -165,14 +189,6 @@
 <pubDate>Mon, 19 Oct 2026 12:32:44 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>Cyber incidents in Japan Publicly reported cybersecurity incidents affecting Japanese organizations, collected from news, security publications, and official notices. This index is collected automatically and analyzed with AI. It may contain omissions or errors and should not be regarded as a com... — はてなブックマーク テクノロジー / score: 85 (日本のサイバーインシデント情報でセキュリティ上重要)</description>
-</item>
-<item>
-<title>[85] AIプログラミングツール「OpenCode」でAPIキー流出の可能性、OpenAIやClaudeの利用残高が不正利用でゼロになったとの報告も</title>
-<link>https://gigazine.net/news/20261019-opencode-leak/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261019-opencode-leak/</guid>
-<pubDate>Mon, 19 Oct 2026 05:03:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>オープンソースのAIプログラミングツール「OpenCode」の運営元が2026年10月17日に不正アクセスを受けたことを明らかにしました。OpenAIやAnthropicなどのAIサービスを利用するためのAPIキーが漏えいした可能性があり、一部のユーザーからは身に覚えのないAI利用料金が発生したとの報告も上がっています。 続きを読む... — GIGAZINE / score: 85 (開発ツール脆弱性によるAPIキー流出被害)</description>
 </item>
 <item>
 <title>[85] 10月の「Windows Update」に注目集まる、脆弱性は過去最多、初の4桁に ～窓の杜アクセスランキング［2026/10/12～2026/10/18]【記事アクセスランキング】</title>
@@ -309,6 +325,14 @@
 <pubDate>Thu, 08 Oct 2026 04:14:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Anthropicは10月7日、AIモデル「Claude Haiku 5.5」を発表した。 — gihyo.jp / score: 85 (Claude Haiku 5.5のリリースと性能・コスト詳細)</description>
+</item>
+<item>
+<title>[80] 80社サイバー攻撃 中国語AI悪用か</title>
+<link>https://news.yahoo.co.jp/pickup/6599460?source=rss</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6599460?source=rss</guid>
+<pubDate>Tue, 20 Oct 2026 04:22:02 +0000</pubDate>
+<category>Yahoo!ニュース IT</category>
+<description> — Yahoo!ニュース IT / score: 80 (中国語AI悪用による大規模サイバー攻撃)</description>
 </item>
 <item>
 <title>[80] AIの思考を潜在空間で実行して高性能化＆高速化＆低コスト化を実現する「Hybrid Reasoning Agents」</title>
@@ -455,6 +479,14 @@
 <description>AWSは、パブリックプレビュー版のAmazon Linux 2027これはAL2023をベースとしており、SELinuxがデフォルトでEnforcingモードに設定されている。このデフォルト設定は、移行を計画しているチームにとって最も追加作業が発生する可能性が高い変更点である。また、今回の発表では、AL2023のサポート終了時期や、AL2027が一般提供（GA: General Availability）に到達する時期については明らかにされていない。 By Steef-Jan Wiggers Translated by Naoko Koshimura — InfoQ Japan / score: 80 (Amazon Linux 2027でSELinux強制へ)</description>
 </item>
 <item>
+<title>[75] MiniMaxが新AIモデル「MiniMax M3.1 Flash」を発表、AIエージェントの性能を強化しつつ利用コストを70％削減</title>
+<link>https://gigazine.net/news/20261020-minimax-m3-1-flash/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261020-minimax-m3-1-flash/</guid>
+<pubDate>Tue, 20 Oct 2026 04:50:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>中国のAI企業であるMiniMaxが2026年10月19日、新たなAIモデル「MiniMax M3.1 Flash」を発表しました。AIエージェントによる複雑な作業やプログラミング、PC操作、サイバーセキュリティ関連の能力を強化したほか、従来モデルと比べて推論速度を約3倍に高め、利用コストを70％削減したとしています。 続きを読む... — GIGAZINE / score: 75 (新型AIモデル発表とコスト削減・性能向上)</description>
+</item>
+<item>
 <title>[75] LSI開発の“民主化”で誰でも半導体チップが作れる時代へ</title>
 <link>https://ascii.jp/elem/000/004/440/4440280/?rss</link>
 <guid isPermaLink="true">https://ascii.jp/elem/000/004/440/4440280/?rss</guid>
@@ -477,6 +509,14 @@
 <pubDate>Tue, 20 Oct 2026 01:29:02 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>不正ログインで閲覧された可能性があるのは、249アカウントの氏名、住所、生年月日、性別、電話番号、メールアドレス。うち1件のアカウントでは、保有していた住所情報83件が不正取得された可能性がある。 これらの情報に加え、勤め先情報、家族状況、住所録登録情報も、登録していた場合は対象になる。該当する利用者に... — はてなブックマーク テクノロジー / score: 75 (リスト攻撃による不正ログインとセキュリティ対策)</description>
+</item>
+<item>
+<title>[75] Chromium(V8)のArray.prototype.fillを最大約7倍高速化した</title>
+<link>https://zenn.dev/dinii/articles/5b8edc7856c25b</link>
+<guid isPermaLink="true">https://zenn.dev/dinii/articles/5b8edc7856c25b</guid>
+<pubDate>Tue, 20 Oct 2026 01:00:05 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>はじめに ! 修正や追加等はコメントまたはGitHubで編集リクエストをお待ちしております。 ダイニーで一番若いエンジニアのriya amemiya(21歳)です。 (V8の配列系メソッド高速化職人をそろそろ名乗っても怒られないんじゃないか？と最近思い始めました🧐) 今回は Array.prototype.fill（以下 fill）をSmiとdouble向けに最大約7倍高速化しました。 V8の配列系メソッドのfast path実装に取り組む人は世界で見てもほとんどいないので、この記事から少しでも興味を持っていただけると嬉しいです。 パッチはこちらです。 https://chromi... — Zenn トレンド / score: 75 (V8エンジン内部のメソッド高速化に関する詳細な技術解説)</description>
 </item>
 <item>
 <title>[75] デジタル庁、「Androidのマイナンバーカード」の提供をスタート</title>
@@ -549,14 +589,6 @@
 <pubDate>Mon, 19 Oct 2026 06:20:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>DeepSeekは2026年10月17日、9月に発表した軽量なマルチモーダルMoEモデル「DeepSeek-V4.1-Flash」のアップデート版となる「DeepSeek-V4.1-Flash-1017」を発表した。 — gihyo.jp / score: 75 (DeepSeekの新型モデルとAPI公開の速報)</description>
-</item>
-<item>
-<title>[75] 太陽光発電がついに全世界の発電量で原子力発電を上回る</title>
-<link>https://gigazine.net/news/20261019-solar-surpasses-nuclear-power-globally/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261019-solar-surpasses-nuclear-power-globally/</guid>
-<pubDate>Mon, 19 Oct 2026 06:10:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>太陽光や風力などの再生可能エネルギーを利用した発電施設は世界各国で建設されており、発電コストも年々安くなっています。太陽光発電や蓄電池関連のメディアであるpv magazineが、「2025年に初めて太陽光発電による全世界の発電量が原子力発電を上回った」と報じました。 続きを読む... — GIGAZINE / score: 75 (太陽光発電が原子力発電の発電量を凌駕)</description>
 </item>
 <item>
 <title>[75] AWS Lambda Web FunctionsでImpossible Location検知の課題をまとめて解決！ + 昨今の攻撃への有効性</title>
@@ -773,38 +805,6 @@
 <pubDate>Wed, 07 Oct 2026 15:59:06 +0000</pubDate>
 <category>Publickey</category>
 <description>Amazon Web Services（AWS）は、Amazon Aurora PostgreSQLにDuckDBを統合し、Apache Icebergなどで構築したデータレイクのデータを直接読み取って処理できるようになったことを発表しまし... — Publickey / score: 75 (AWSとDuckDBの統合によるデータレイク処理の効率化)</description>
-</item>
-<item>
-<title>[75] HashiCorp Packer 1.16、マシンイメージ向けにSLSA Provenanceのネイティブ生成・検証機能を追加</title>
-<link>https://www.infoq.com/jp/news/2026/10/hashicorp-packer-verification/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-<guid isPermaLink="true">https://www.infoq.com/jp/news/2026/10/hashicorp-packer-verification/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-<pubDate>Wed, 07 Oct 2026 09:30:00 +0000</pubDate>
-<category>InfoQ Japan</category>
-<description>HashiCorpはPacker v1.16.0をリリースした。これにより、Packerが構築するすべてのイメージに対して、SLSAProvenanceアテステーションの生成、署名、検証をネイティブにサポートする。今回のリリースは、マシンイメージがどのように作成されたかを示す、安全で改ざん耐性のある記録をチームに提供する。追加のサプライチェーンツールを必要とせずに実現できる点も特徴だ。これは、これまでSLSAスタイルのアテステーションでほとんど見過ごされてきたインフラ領域のギャップに対応するものとなる。 By Claudio Masolo Translated by Naoko Koshimura — InfoQ Japan / score: 75 (HashiCorp PackerのSLSA対応強化)</description>
-</item>
-<item>
-<title>[75] Google、スマートフォンで動くマルチモーダル埋め込みモデル「EmbeddingGemma 2」を公開</title>
-<link>https://gihyo.jp/article/2026/10/embeddinggemma-2?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/10/embeddinggemma-2?utm_source=feed</guid>
-<pubDate>Wed, 07 Oct 2026 05:39:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Googleは2026年10月6日、スマートフォンやPC上で動作する埋め込みモデル「EmbeddingGemma 2」を公開した。 — gihyo.jp / score: 75 (Googleのエッジ向けマルチモーダル埋め込みモデル公開)</description>
-</item>
-<item>
-<title>[75] Next.js 16.4</title>
-<link>https://nextjs.org/blog/next-16-4</link>
-<guid isPermaLink="true">https://nextjs.org/blog/next-16-4</guid>
-<pubDate>Tue, 06 Oct 2026 20:00:00 +0000</pubDate>
-<category>Next.js Blog</category>
-<description>Next.js 16.4 introduces lazy compilation, smaller Turbopack output, React 19.3 features, Cache Components improvements, and new developer tooling. — Next.js Blog / score: 75 (主要Webフレームワークのマイナーリリースと新機能)</description>
-</item>
-<item>
-<title>[75] Sharing AI progress in mathematics</title>
-<link>https://openai.com/index/sharing-ai-progress-in-mathematics</link>
-<guid isPermaLink="true">https://openai.com/index/sharing-ai-progress-in-mathematics</guid>
-<pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub. — OpenAI News / score: 75 (AIモデルによる数学の未解決問題へのアプローチ)</description>
 </item>
 </channel>
 </rss>
