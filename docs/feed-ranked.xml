@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Tue, 20 Oct 2026 06:15:29 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 08:12:26 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] Linuxカーネル脆弱性「CVE-2026-99999」発見の背景が明らかに ―きっかけは賞金総額100万ドルの“サンドボックス脱出チャレンジ”</title>
@@ -47,12 +47,12 @@
 <description>JavaScriptランタイム「Deno」の開発元であるDeno LandとCloudflareは、Deno LandがCloudflareに合流すると発表しました。CloudflareによるDeno Landの買収と見られます（Deno ... — Publickey / score: 95 (Deno開発終了とCloudflare合流の重大なニュース)</description>
 </item>
 <item>
-<title>[90] 近年最悪級のcurl脆弱性も発見　無料でClaude Mythosが検査する『OSS Scanner』、11日間で緊急・重要880件をAI判定 | テクノエッジ TechnoEdge</title>
-<link>https://www.techno-edge.net/article/2026/10/20/5610.html</link>
-<guid isPermaLink="true">https://www.techno-edge.net/article/2026/10/20/5610.html</guid>
-<pubDate>Tue, 20 Oct 2026 03:13:07 +0000</pubDate>
+<title>[90] 「侵入経路塞いだが、バックドアから……」不正アクセス105時間の攻防、分単位で報告　防災メールのアルカディア</title>
+<link>https://www.itmedia.co.jp/news/article/2610/20/2000002426/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/20/2000002426/</guid>
+<pubDate>Tue, 20 Oct 2026 06:16:53 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>Anthropicは、オープンソースソフトウェア(OSS)の脆弱性をClaude Mythosなど自社の最上位モデルで検査する「OSS Scanner」について、提供開始から11日間でAI判定の深刻度「緊急」77件、「重要」803件を発見したことを明らかにしました。 ■ 人手の検証を待たずに届く脆弱性レポートOSS Scannerは、OSSプロジェクトのメン... — はてなブックマーク テクノロジー / score: 90 (AIを活用したOSS脆弱性検出の最新動向と重要度)</description>
+<description>105時間にわたる攻防 侵入経路を塞いだ後もバックドアから…… 公表資料によると、攻撃者は不正アクセスを始めてから約10時間後、サービス間ログイン用のシークレットキーを含む設定ファイルを取得。総当たり攻撃を仕掛けて内部情報を取得した。 同社が不正アクセスを検知したのはその約7時間後。侵入経路を遮断したがバ... — はてなブックマーク テクノロジー / score: 90 (詳細な不正アクセスの攻防レポートでセキュリティ面で非常に有益)</description>
 </item>
 <item>
 <title>[90] 阪急阪神百貨店 約126万件漏洩か</title>
@@ -127,12 +127,36 @@
 <description>GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly. — OpenAI News / score: 90 (主要AIの次世代メジャーリリースと新UIの発表)</description>
 </item>
 <item>
+<title>[85] ふるさとチョイスに不正アクセスか　安全優先でサービス全面停止</title>
+<link>https://ascii.jp/elem/000/004/444/4444235/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/444/4444235/?rss</guid>
+<pubDate>Tue, 20 Oct 2026 07:55:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>トラストバンクは10月19日、同社のふるさと納税ポータルサイト「ふるさとチョイス」で不正アクセスの兆候を検知したことを受け、サービスの提供を一時停止したことを公表した。 — ASCII.jp / score: 85 (大規模サービスでの不正アクセス事例)</description>
+</item>
+<item>
+<title>[85] 警察官ら約1万9300人分の情報流出か　栃木、埼玉、香川の3県警、防災サービスへの不正アクセスで</title>
+<link>https://ascii.jp/elem/000/004/444/4444231/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/444/4444231/?rss</guid>
+<pubDate>Tue, 20 Oct 2026 07:50:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>防災情報サービス「アルカディア」が不正アクセスを受け、同社が扱っていた栃木、埼玉、香川の各県警の個人情報が外部に流出した可能性があることがわかった。10月20日までに複数のメディアが報じている。 — ASCII.jp / score: 85 (警察情報の不正アクセス・流出事案)</description>
+</item>
+<item>
+<title>[85] AWSの請求システムの不具合により顧客に兆ドル規模の見積額が表示される一方、自社のコストアラームは作動せず</title>
+<link>https://www.infoq.com/jp/news/2026/10/aws-billing-estimates-incident/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+<guid isPermaLink="true">https://www.infoq.com/jp/news/2026/10/aws-billing-estimates-incident/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+<pubDate>Tue, 20 Oct 2026 06:30:00 +0000</pubDate>
+<category>InfoQ Japan</category>
+<description>7月17日、世界中のAWSユーザーがコンソールを開くと、数百万ドルから数十億ドル、さらには場合によっては数兆ドル規模の請求見積額が表示されていた。通常の利用料金が月5ドル未満のあるアカウントでは、17億ドルの見積額が表示された。あるRedditユーザーは、2,255億7,921万164.83ドルの請求額を示すスクリーンショットを投稿した。 別のダッシュボードには、当月累計の請求額として7.1兆ドルが表示されていたが、これはAmazonの時価総額の2倍を超える金額である。これらの数値は誤りであり、実際の請求書には一切影響がなかった。しかし、この障害は24時間以上続いた。そして、その異常な金額そのものよりも、この問題がどのように発生し展開したかの方が、クラウドのコスト管理について多くのことを示している。 By Steef-Jan Wiggers Translated by Takashi Kawase — InfoQ Japan / score: 85 (AWSの請求システム不具合による巨大な請求額表示のインシデント)</description>
+</item>
+<item>
 <title>[85] 中国語を使うハッカーがAIエージェントで日本企業などにハッキングして100件近い攻撃に成功していたことが判明</title>
 <link>https://gigazine.net/news/20261020-chinese-hacker-ai-agents-break-websites/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261020-chinese-hacker-ai-agents-break-websites/</guid>
-<pubDate>Tue, 20 Oct 2026 05:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>2026年9月以降、日本企業がハッカーにより不正アクセスされる被害が相次いでおり、AIを悪用したハッキングの高速化・高度化が懸念されています。サイバーセキュリティ企業のNorForgeで主席脅威研究員を務めるスノーレ・ファーゲルランド氏が、オープンソースAIツールの「Cairn」を用いたハッキングの実態について報告しました。 続きを読む... — GIGAZINE / score: 85 (AI悪用ハッキングの急増と実態の報告)</description>
+<pubDate>Tue, 20 Oct 2026 05:05:36 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>2026年9月以降、日本企業がハッカーにより不正アクセスされる被害が相次いでおり、AIを悪用したハッキングの高速化・高度化が懸念されています。サイバーセキュリティ企業のNorForgeで主席脅威研究員を務めるスノーレ・ファーゲルランド氏が、オープンソースAIツールの「Cairn」を用いたハッキングの実態について報告し... — はてなブックマーク テクノロジー / score: 85 (AI悪用ハッキングの急増と実態の報告)</description>
 </item>
 <item>
 <title>[85] ソフトウェアの産業革命 - ちなみに</title>
@@ -253,14 +277,6 @@
 <pubDate>Thu, 15 Oct 2026 11:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>Written by: Tyler McLellan Introduction Google Threat Intelligence Group (GTIG) and Mandiant investigated a software supply chain compromise campaign targeting the update infrastructure belonging to AOMEI Technology between April 2026 and July 2026. The threat actor conducted repeated, short-burst configuration tampering against AOMEI origin servers. Each tampering window remained active for only five to ten minutes before reverting to authentic versions. This is the first time that we have enco — Google Cloud Blog / score: 85 (サプライチェーン攻撃のインシデント調査レポート)</description>
-</item>
-<item>
-<title>[85] 「C# Dev Kit」が大刷新、読み込みは最大180倍に、サーバーのメモリ消費は最大約85％減／11月の正式提供が予定されている「.NET 11」にあわせたアーキテクチャー変更</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2147368.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2147368.html</guid>
-<pubDate>Thu, 15 Oct 2026 06:33:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>「C# Dev Kit」のアーキテクチャーが刷新され、大幅なパフォーマンス改善を実現したとのこと。米Microsoftが10月6日（現地時間）、公式ブログ「.NET Blog」で発表した。11月の正式提供が予定されている「.NET 11」にあわせた変更であるという。 — 窓の杜 / score: 85 (C# Dev Kitの劇的なパフォーマンス改善)</description>
 </item>
 <item>
 <title>[85] Gemini 4 Argon: Built to solve your hardest problems</title>
@@ -471,14 +487,6 @@
 <description> — Google DeepMind / score: 80 (Googleの軽量マルチモーダル埋め込みモデル公開)</description>
 </item>
 <item>
-<title>[80] Amazon Linux 2027、SELinuxをデフォルトで強制モードにしてパブリックプレビューを開始</title>
-<link>https://www.infoq.com/jp/news/2026/10/amazon-linux-2027-preview/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-<guid isPermaLink="true">https://www.infoq.com/jp/news/2026/10/amazon-linux-2027-preview/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-<pubDate>Tue, 06 Oct 2026 08:30:00 +0000</pubDate>
-<category>InfoQ Japan</category>
-<description>AWSは、パブリックプレビュー版のAmazon Linux 2027これはAL2023をベースとしており、SELinuxがデフォルトでEnforcingモードに設定されている。このデフォルト設定は、移行を計画しているチームにとって最も追加作業が発生する可能性が高い変更点である。また、今回の発表では、AL2023のサポート終了時期や、AL2027が一般提供（GA: General Availability）に到達する時期については明らかにされていない。 By Steef-Jan Wiggers Translated by Naoko Koshimura — InfoQ Japan / score: 80 (Amazon Linux 2027でSELinux強制へ)</description>
-</item>
-<item>
 <title>[75] MiniMaxが新AIモデル「MiniMax M3.1 Flash」を発表、AIエージェントの性能を強化しつつ利用コストを70％削減</title>
 <link>https://gigazine.net/news/20261020-minimax-m3-1-flash/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261020-minimax-m3-1-flash/</guid>
@@ -487,28 +495,12 @@
 <description>中国のAI企業であるMiniMaxが2026年10月19日、新たなAIモデル「MiniMax M3.1 Flash」を発表しました。AIエージェントによる複雑な作業やプログラミング、PC操作、サイバーセキュリティ関連の能力を強化したほか、従来モデルと比べて推論速度を約3倍に高め、利用コストを70％削減したとしています。 続きを読む... — GIGAZINE / score: 75 (新型AIモデル発表とコスト削減・性能向上)</description>
 </item>
 <item>
-<title>[75] LSI開発の“民主化”で誰でも半導体チップが作れる時代へ</title>
-<link>https://ascii.jp/elem/000/004/440/4440280/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/440/4440280/?rss</guid>
-<pubDate>Tue, 20 Oct 2026 03:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>東京大学大学院工学系研究科の小菅敦丈准教授は、短期間かつ低コストで誰もがLSIを開発できる「LSIの民主化」を達成することで、国内における半導体技術開発を活性化し、若手人材を育成することを目指している。 — ASCII.jp / score: 75 (LSI開発の民主化と半導体技術開発の取り組み)</description>
-</item>
-<item>
 <title>[75] 情報漏えい続きの日本へ。デンマーク880万人分の流出が教えてくれた“基本のキ”</title>
 <link>https://www.gizmodo.jp/article/2610-denmark-data-leak-security-basics/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/2610-denmark-data-leak-security-basics/</guid>
 <pubDate>Tue, 20 Oct 2026 02:40:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>デンマークで起きた880万人分の情報流出事件から学ぶサイバーセキュリティの基本。パスワード管理やアクセス権限の重要性を解説します。 — ギズモード・ジャパン / score: 75 (大規模な情報流出事件から学ぶサイバーセキュリティの基本。)</description>
-</item>
-<item>
-<title>[75] 日本郵政「ゆうID」不正ログイン、他社で流出したパスワード使うリスト攻撃か……2段階認証必須に</title>
-<link>https://www.itmedia.co.jp/news/article/2610/20/2000002412/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/20/2000002412/</guid>
-<pubDate>Tue, 20 Oct 2026 01:29:02 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>不正ログインで閲覧された可能性があるのは、249アカウントの氏名、住所、生年月日、性別、電話番号、メールアドレス。うち1件のアカウントでは、保有していた住所情報83件が不正取得された可能性がある。 これらの情報に加え、勤め先情報、家族状況、住所録登録情報も、登録していた場合は対象になる。該当する利用者に... — はてなブックマーク テクノロジー / score: 75 (リスト攻撃による不正ログインとセキュリティ対策)</description>
 </item>
 <item>
 <title>[75] Chromium(V8)のArray.prototype.fillを最大約7倍高速化した</title>
@@ -527,12 +519,12 @@
 <description>デジタル庁が、本日より「Androidのマイナンバーカード」の提供を開始しました。 「Androidのマイナンバーカード」は、Android端末（Google ウォレット）に入れて利用できるマイナンバーカードとなっており […] — 気になる、記になる… / score: 75 (Android版マイナンバーカードの提供開始)</description>
 </item>
 <item>
-<title>[75] 「Androidのマイナンバーカード」スタート、スマホだけで本人確認が可能に</title>
-<link>https://k-tai.watch.impress.co.jp/docs/news/2149371.html</link>
-<guid isPermaLink="true">https://k-tai.watch.impress.co.jp/docs/news/2149371.html</guid>
-<pubDate>Tue, 20 Oct 2026 00:49:10 +0000</pubDate>
+<title>[75] JAXA | H3ロケット10号機による火星衛星探査機（MMX）の打上げ結果</title>
+<link>https://www.jaxa.jp/press/2026/10/20261020-1_j.html</link>
+<guid isPermaLink="true">https://www.jaxa.jp/press/2026/10/20261020-1_j.html</guid>
+<pubDate>Mon, 19 Oct 2026 23:02:50 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>「Androidのマイナンバーカード」スタート、スマホだけで本人確認が可能に — はてなブックマーク テクノロジー / score: 75 (Androidのマイナンバーカード対応という社会的影響の大きい機能)</description>
+<description>宇宙航空研究開発機構（JAXA）は、種子島宇宙センターから2026年10月20日4時41分03秒（日本標準時、24時間表記）に、H3ロケット10号機による火星衛星探査機（MMX）の打上げを行いました。 ロケットは計画どおり飛行し、打上げから約1時間11分13秒後にMMXを正常に分離し、軌道に投入したことを確認いたしました。 今回の... — はてなブックマーク テクノロジー / score: 75 (H3ロケットによる火星衛星探査機の打ち上げ成功という重要技術ニュース)</description>
 </item>
 <item>
 <title>[75] 「Edge 155」の一部で起動できなくなる問題、Microsoftがサービス側の変更を巻き戻し／クライアント側の修正は調査中</title>
@@ -791,20 +783,28 @@
 <description>Amazon GuardDuty announces an expansion of RDS Protection that extends threat detection beyond login anomalies to identify data exfiltration and data destruction attacks targeting Amazon Aurora PostgreSQL and Amazon RDS for PostgreSQL databases. Available as RDS Protection for data activity, this new capability uses machine learning (ML)-based anomaly detection and integrated threat intelligence to continuously monitor database query patterns, helping you detect unusual data activity without req — AWS What's New / score: 75 (GuardDutyによるDBのデータ持ち出し・破壊検知の強化)</description>
 </item>
 <item>
-<title>[75] Cloudflare Workers、受信TCP接続に対応　最初の対応プロトコルはgRPCに</title>
-<link>https://www.infoq.com/jp/news/2026/10/workers-inbound-tcp-grpc/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-<guid isPermaLink="true">https://www.infoq.com/jp/news/2026/10/workers-inbound-tcp-grpc/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-<pubDate>Thu, 08 Oct 2026 00:30:00 +0000</pubDate>
-<category>InfoQ Japan</category>
-<description>Cloudflare Workersは受信TCP接続を受け付けられるようになった。2017年のサービス開始以来、Workerはデータベースや外部サービスに対してアウトバウンドのソケット接続を開くことはできたが、サーバーとして処理できるのはHTTPのみだった。新たに追加されたconnect(socket)ハンドラーによってこの制約がなくなり、その最初の実装例としてgRPCサポートが提供される。 By Steef-Jan Wiggers Translated by Naoko Koshimura — InfoQ Japan / score: 75 (Cloudflare Workersの受信TCPおよびgRPC対応)</description>
-</item>
-<item>
 <title>[75] AWS、DuckDBをAurora PostgreSQLに統合。ETL不要で直接データレイクを読み取り可能にしたと発表</title>
 <link>https://www.publickey1.jp/blog/26/awsduckdbaurora_postgresqletl.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/awsduckdbaurora_postgresqletl.html</guid>
 <pubDate>Wed, 07 Oct 2026 15:59:06 +0000</pubDate>
 <category>Publickey</category>
 <description>Amazon Web Services（AWS）は、Amazon Aurora PostgreSQLにDuckDBを統合し、Apache Icebergなどで構築したデータレイクのデータを直接読み取って処理できるようになったことを発表しまし... — Publickey / score: 75 (AWSとDuckDBの統合によるデータレイク処理の効率化)</description>
+</item>
+<item>
+<title>[75] Google、スマートフォンで動くマルチモーダル埋め込みモデル「EmbeddingGemma 2」を公開</title>
+<link>https://gihyo.jp/article/2026/10/embeddinggemma-2?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/10/embeddinggemma-2?utm_source=feed</guid>
+<pubDate>Wed, 07 Oct 2026 05:39:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Googleは2026年10月6日、スマートフォンやPC上で動作する埋め込みモデル「EmbeddingGemma 2」を公開した。 — gihyo.jp / score: 75 (Googleのエッジ向けマルチモーダル埋め込みモデル公開)</description>
+</item>
+<item>
+<title>[75] Next.js 16.4</title>
+<link>https://nextjs.org/blog/next-16-4</link>
+<guid isPermaLink="true">https://nextjs.org/blog/next-16-4</guid>
+<pubDate>Tue, 06 Oct 2026 20:00:00 +0000</pubDate>
+<category>Next.js Blog</category>
+<description>Next.js 16.4 introduces lazy compilation, smaller Turbopack output, React 19.3 features, Cache Components improvements, and new developer tooling. — Next.js Blog / score: 75 (主要Webフレームワークのマイナーリリースと新機能)</description>
 </item>
 </channel>
 </rss>
