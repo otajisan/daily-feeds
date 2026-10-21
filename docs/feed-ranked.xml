@@ -4,8 +4,16 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 21 Oct 2026 16:10:29 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 18:12:24 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>[95] 「PHP」の“致命的”な脆弱性2件が修正、ただちにアップデートを／認証なしでリモートからコード実行、v8.5.12/v8.4.27/v8.3.36/v8.2.35が公開</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2150167.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2150167.html</guid>
+<pubDate>Wed, 21 Oct 2026 15:31:04 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>「PHP」の“致命的”な脆弱性2件が修正、ただちにアップデートを／認証なしでリモートからコード実行、v8.5.12/v8.4.27/v8.3.36/v8.2.35が公開 — はてなブックマーク テクノロジー / score: 95 (窓の杜によるPHPの致命的脆弱性と即時アプデの呼びかけ)</description>
+</item>
 <item>
 <title>[95] PHPの重大脆弱性「PHP2Shell」はセキュリティ企業のCalifとWizがAIを用いて発見しOpenAIの枠組みを使って対策したことが判明</title>
 <link>https://gigazine.net/news/20261022-php2shell-wiz-openai-calif/</link>
@@ -23,28 +31,20 @@
 <description>Earlier today, the PHP project released PHP 8.5.12, 8.4.27, 8.3.36, and 8.2.35. These releases fix two critical vulnerabilities that, under the right conditions, allow an unauthenticated attacker to execute code on servers running PHP. If you run PHP, it is imperative that you update now. The ann... — はてなブックマーク テクノロジー / score: 95 (PHPの複数バージョンにおける重大脆弱性の修正リリース)</description>
 </item>
 <item>
-<title>[95] 「PHP」の“致命的”な脆弱性2件が修正、ただちにアップデートを／認証なしでリモートからコード実行、v8.5.12/v8.4.27/v8.3.36/v8.2.35が公開</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2150167.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2150167.html</guid>
-<pubDate>Wed, 21 Oct 2026 14:26:37 +0000</pubDate>
-<category>窓の杜</category>
-<description>スクリプト言語「PHP」の開発チームは10月21日（協定世界時）、「PHP」のセキュリティアップデートを実施した。以下のバージョンが利用可能で、すべての利用者にただちにアップデートするよう強く呼びかけられている。 — 窓の杜 / score: 95 (窓の杜によるPHPの致命的脆弱性と即時アプデの呼びかけ)</description>
-</item>
-<item>
-<title>[95] PHPが緊急アップデート「8.5.12」「8.4.27」「8.3.36」「8.2.35」をリリース</title>
-<link>https://gigazine.net/news/20261021-php-critical-vulnerabilities/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261021-php-critical-vulnerabilities/</guid>
-<pubDate>Wed, 21 Oct 2026 14:14:02 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>PHPが緊急アップデート「8.5.12」「8.4.27」「8.3.36」「8.2.35」をリリースしました。 Security advisory: Critical remote code execution vulnerabilities, update now | PHP https://www.php.net/index.php#2026-10-21-5 Security advisory: Critical remote code execution vulnerabilities, update now | PHP: New... — はてなブックマーク テクノロジー / score: 95 (PHPの複数バージョンにおける緊急アップデート)</description>
-</item>
-<item>
 <title>[95] 【PHP脆弱性php2shell】パッチは21:59に公開済み。「23:15から乗っ取り」「15分でAIが攻撃コード？」は本当か、自分のVPSのログで検証（CVE-2026-109618／109619）：秋山大志のそれとりあえず作ってみようか。：オルタナティブ・ブログ</title>
 <link>https://blogs.itmedia.co.jp/agile/2026/10/php2shell_cve_2026_109618_panic.html</link>
 <guid isPermaLink="true">https://blogs.itmedia.co.jp/agile/2026/10/php2shell_cve_2026_109618_panic.html</guid>
 <pubDate>Wed, 21 Oct 2026 14:07:21 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>【PHP脆弱性php2shell】パッチは21:59に公開済み。「23:15から乗っ取り」「15分でAIが攻撃コード？」は本当か、自分のVPSのログで検証（CVE-2026-109618／109619） PHPの重大な脆弱性で、タイムラインが大騒ぎです。 震源のひとつが、「23時にパッチが公開されたら、それをAIで解析して攻撃コードを作り、23時15分以降に... — はてなブックマーク テクノロジー / score: 95 (PHPの重大な脆弱性php2shellに関する詳細な検証)</description>
+</item>
+<item>
+<title>[95] PHPが緊急アップデート「8.5.12」「8.4.27」「8.3.36」「8.2.35」をリリース</title>
+<link>https://gigazine.net/news/20261021-php-critical-vulnerabilities/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261021-php-critical-vulnerabilities/</guid>
+<pubDate>Wed, 21 Oct 2026 14:04:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>PHPがPHP2Shellに対処する緊急アップデート「8.5.12」「8.4.27」「8.3.36」「8.2.35」をリリースしました。 続きを読む... — GIGAZINE / score: 95 (PHPの複数バージョンにおける緊急アップデート)</description>
 </item>
 <item>
 <title>[95] Responding to core PHP vulnerabilities CVE-2026-109618 and CVE-2026-109619</title>
@@ -74,9 +74,9 @@
 <title>[95] 2010年から存在するWi-Fiの欠陥でパスワードを知らなくてもルーターを乗っ取れるバグが発覚、数百万台が影響を受ける可能性</title>
 <link>https://gigazine.net/news/20261021-wpsplinter/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261021-wpsplinter/</guid>
-<pubDate>Wed, 21 Oct 2026 12:12:33 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>BroadcomのSDKに少なくとも2010年から脆弱(ぜいじゃく)性が存在し、パスワードを知らなくてもルーターを乗っ取り任意のコード実行を可能にする恐れがあることが分かりました。 One Parser, Two Bugs, Many Routers: Exploiting Broadcom WiFi Across eCos and Linux | QTNKSR https://quentinkaiser.be/security/2026/10... — はてなブックマーク テクノロジー / score: 95 (Wi-Fiルーターの広範囲に影響する深刻な脆弱性)</description>
+<pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>BroadcomのSDKに少なくとも2010年から脆弱(ぜいじゃく)性が存在し、パスワードを知らなくてもルーターを乗っ取り任意のコード実行を可能にする恐れがあることが分かりました。 続きを読む... — GIGAZINE / score: 95 (Wi-Fiルーターの広範囲に影響する深刻な脆弱性)</description>
 </item>
 <item>
 <title>[95] 修正予告されたPHPの2件の深刻な脆弱性についてまとめてみた - piyolog</title>
@@ -90,9 +90,9 @@
 <title>[95] PHPに深刻度「9.2」の脆弱性が2件発覚、サーバー乗っ取りの恐れで緊急パッチを10月21日に公開へ</title>
 <link>https://gigazine.net/news/20261021-php2shell/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261021-php2shell/</guid>
-<pubDate>Wed, 21 Oct 2026 08:20:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>ウェブサイトやウェブアプリの開発に広く使われているプログラミング言語「PHP」に深刻な脆弱(ぜいじゃく)性が2件見つかり、開発チームが2026年10月21日に緊急のセキュリティ更新プログラムを公開すると発表しました。 続きを読む... — GIGAZINE / score: 95 (PHPに深刻な脆弱性発覚と緊急パッチ公開予定)</description>
+<pubDate>Wed, 21 Oct 2026 08:23:21 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>ウェブサイトやウェブアプリの開発に広く使われているプログラミング言語「PHP」に深刻な脆弱(ぜいじゃく)性が2件見つかり、開発チームが2026年10月21日に緊急のセキュリティ更新プログラムを公開すると発表しました。 PHP: News Archive - 2026 https://www.php.net/archive/2026.php#2026-10-20-1 php.announce: [ANNO... — はてなブックマーク テクノロジー / score: 95 (PHPに深刻な脆弱性発覚と緊急パッチ公開予定)</description>
 </item>
 <item>
 <title>[95] 「PHP」に“致命的”な脆弱性2件、日本時間21日深夜に緊急のセキュリティリリースへ【15時20分追記】／「CVSS 4.0」のスコアは「9.2」、すぐに更新できるよう準備を</title>
@@ -181,6 +181,14 @@
 <pubDate>Wed, 21 Oct 2026 13:40:39 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>ウェブサイトなどに広く使われている「PHP」と呼ばれるプログラミング言語に重大なぜい弱性が見つかったことを受けて、独立行政法人の情報処理推進機構は、利用している企業などに対して速やかに対応するよう呼び… — はてなブックマーク テクノロジー / score: 90 (IPAによるPHP脆弱性への迅速な注意喚起)</description>
+</item>
+<item>
+<title>[90] 国内大手サービスが緊急メンテやサービス停止　PHP脆弱性で対策</title>
+<link>https://www.watch.impress.co.jp/docs/news/2150159.html</link>
+<guid isPermaLink="true">https://www.watch.impress.co.jp/docs/news/2150159.html</guid>
+<pubDate>Wed, 21 Oct 2026 13:06:41 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>国内大手サービスが緊急メンテやサービス停止 PHP脆弱性で対策 — はてなブックマーク テクノロジー / score: 90 (PHP脆弱性による国内大手サービスの緊急停止)</description>
 </item>
 <item>
 <title>[90] LiteLLMパッケージ 再侵害の概要と対策指針 - GMO Flatt Security Blog</title>
@@ -303,12 +311,12 @@
 <description>The year was 2004. The iPhone was yet to be invented and our very own Stefan Esser was still the PHP security guy. Read the scene2004. Stefan searches for forbidden knowledge and discovers an ancient PHP artifact. “Are you sure this is safe?” he asks. “I am certain,” comes the reply. Suspicious, ... — はてなブックマーク テクノロジー / score: 85 (Calif Researchによるphp2shellのレポート)</description>
 </item>
 <item>
-<title>[85] RCE via OOM corruption</title>
-<link>https://github.com/php/php-src/security/advisories/GHSA-w8hw-w9fx-j79w</link>
-<guid isPermaLink="true">https://github.com/php/php-src/security/advisories/GHSA-w8hw-w9fx-j79w</guid>
-<pubDate>Wed, 21 Oct 2026 13:52:33 +0000</pubDate>
+<title>[85] 大阪公立大のシステム障害、NECの再委託先へのサイバー攻撃が原因：朝日新聞</title>
+<link>https://www.asahi.com/articles/ASVBP15NCVBPPTIL00MM.html</link>
+<guid isPermaLink="true">https://www.asahi.com/articles/ASVBP15NCVBPPTIL00MM.html</guid>
+<pubDate>Wed, 21 Oct 2026 13:04:10 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>Summary PHP uses longjmp() for out-of-memory (OOM) errors to exit the current context and abort handling of the request. In some contexts, request memory is temporarily reachable before it is fully initialized. If any allocation fails at that point, PHP does not properly account for the early exi... — はてなブックマーク テクノロジー / score: 85 (OOMに起因するPHPのリモートコード実行脆弱性の詳細)</description>
+<description>大阪公立大学は21日、今月2日に発生したシステム障害について、システムの保守と運用を委託しているNECの再委託先の事業者がサイバー攻撃を受けたことが原因だと、発表した。■大阪大でも個人情報7万8千人… — はてなブックマーク テクノロジー / score: 85 (大学とNEC委託先のサイバー攻撃による大規模障害)</description>
 </item>
 <item>
 <title>[85] 不正アクセス“金融機関が狙われる段階に変わってきた可能性” | NHKニュース</title>
@@ -493,14 +501,6 @@
 <pubDate>Thu, 08 Oct 2026 04:14:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Anthropicは10月7日、AIモデル「Claude Haiku 5.5」を発表した。 — gihyo.jp / score: 85 (Claude Haiku 5.5のリリースと性能・コスト詳細)</description>
-</item>
-<item>
-<title>[80] [security] Update to 8.5.12, 8.4.27, 8.3.36, 8.2.35 by jnoordsij · Pull Request #1694 · docker-library/php</title>
-<link>https://github.com/docker-library/php/pull/1694</link>
-<guid isPermaLink="true">https://github.com/docker-library/php/pull/1694</guid>
-<pubDate>Wed, 21 Oct 2026 14:14:17 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert — はてなブックマーク テクノロジー / score: 80 (Docker公式PHPイメージのセキュリティアップデート)</description>
 </item>
 <item>
 <title>[80] OpenAI models are coming to Google Cloud</title>
@@ -735,6 +735,14 @@
 <description>こんにちは、小林です! 株式会社リンクアンドモチベーションでデータスチュワードをしています。個人開発では機械学習で米国株の押し目を推定して売買する機能を持ったアプリを作っていて、その開発で Claude Code を使い込んでいます。その環境に、Cursor の公式プラグイ... — Qiita 人気記事 / score: 75 (AI開発ツールへのプラグイン導入と検証知見)</description>
 </item>
 <item>
+<title>[75] Claude Platform release notes — October 21, 2026</title>
+<link>https://platform.claude.com/docs/en/release-notes/overview#october-21-2026</link>
+<guid isPermaLink="true">https://platform.claude.com/docs/en/release-notes/overview#october-21-2026</guid>
+<pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+<category>Claude リリースノート</category>
+<description>We've released API version 2026-10-21 . Migrating to API version 2026-10-21 shows how to upgrade. We've released new versions of the client SDKs and the ant CLI that send API version 2026-10-21 by default: Python SDK 2.0.0, TypeScript SDK 1.0.0, C# SDK 13.0.0, Go SDK 2.0.0, Java SDK 3.0.0, PHP SDK 1.0.0, Ruby SDK 2.0.0, and ant CLI 2.0.0. See Switch to 2026-10-21 . The new SDK and CLI versions also have breaking changes that don't depend on the API version, and they are licensed under Apache 2.0 — Claude リリースノート / score: 75 (Claudeプラットフォームのマネージドエージェント更新)</description>
+</item>
+<item>
 <title>[75] JEP targeted to JDK 28: 543: Structured Concurrency</title>
 <link>https://inside.java/2026/10/21/jep543-target-jdk28/</link>
 <guid isPermaLink="true">https://inside.java/2026/10/21/jep543-target-jdk28/</guid>
@@ -797,14 +805,6 @@
 <pubDate>Tue, 20 Oct 2026 11:30:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>Today at the PyTorch Conference, we released llm-d 1.0, an open-source, Kubernetes-native stack for distributed LLM inference. Co-founded by Google with Red Hat, IBM and others, we worked with a community of more than 500 contributors over 25 organizations on this Cloud Native Computing Foundation (CNCF) Sandbox project, bringing together two important communities: PyTorch, where vLLM and SGLang serve models, and Kubernetes, where distributed systems run and scale in production. llm-d 1.0 arrive — Google Cloud Blog / score: 75 (分散LLM推論向けKubernetesスタックの公開)</description>
-</item>
-<item>
-<title>[75] GoogleのGenkit、TypeScriptとGo向けに「Detached Turns」と「Human-in-the-Loop」機能を備えたAgents APIをリリース</title>
-<link>https://www.infoq.com/jp/news/2026/10/genkit-agents-api-preview/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-<guid isPermaLink="true">https://www.infoq.com/jp/news/2026/10/genkit-agents-api-preview/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-<pubDate>Tue, 20 Oct 2026 08:30:00 +0000</pubDate>
-<category>InfoQ Japan</category>
-<description>Googleは先日、フルスタックAIアプリケーションを構築するためのオープンソース基盤「Genkit」向けに、Agents APIのプレビュー版をリリースした。このAPIは、メッセージ履歴、ツール実行ループ、ストリーミング、状態の永続化、およびフロントエンドプロトコルを、単一のchat()インターフェースに統合している。このインターフェースは、エージェントがプロセス内で実行される場合でも、HTTPのエンドポイントの背後で実行される場合も同じように動作可能だ。 プレビュー版は本日よりTypeScriptおよびGoで利用可能、PythonとDartへの対応も予定されている。 By Steef-Jan Wiggers Translated by Takashi Kawase — InfoQ Japan / score: 75 (Genkit Agents APIのプレビュー版リリース)</description>
 </item>
 </channel>
 </rss>
