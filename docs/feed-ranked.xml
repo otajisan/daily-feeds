@@ -4,15 +4,23 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Tue, 20 Oct 2026 22:09:03 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 00:22:39 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
-<title>[95] Linuxカーネル脆弱性「CVE-2026-99999」発見の背景が明らかに ―きっかけは賞金総額100万ドルの“サンドボックス脱出チャレンジ” | gihyo.jp</title>
-<link>https://gihyo.jp/article/2026/10/cve-2026-99999</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/10/cve-2026-99999</guid>
-<pubDate>Tue, 20 Oct 2026 07:59:47 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Linuxカーネル脆弱性「CVE-2026-99999」発見の背景が明らかに ―きっかけは賞金総額100万ドルの“サンドボックス脱出チャレンジ” 2026年10月15日に「CVE-2026-99999」として公開されたLinuxカーネルに関する重大な脆弱性“⁠Guest-to-Host KVM Escape⁠”について、発見者のpwn.aiから発見にいたる概要と背景に関する報告があ... — はてなブックマーク テクノロジー / score: 95 (Linuxカーネルの重大な脆弱性と発見背景の報告)</description>
+<title>[95] eMudhra Intermediate CA Compromise</title>
+<link>https://simonwillison.net/2026/Oct/20/emudhra-certificates/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Oct/20/emudhra-certificates/</guid>
+<pubDate>Tue, 20 Oct 2026 23:50:25 +0000</pubDate>
+<category>Simon Willison</category>
+<description>eMudhra Intermediate CA Compromise This is very, very bad news: The private keys of eight eMudhra intermediate CA certificates have been compromised. They chain to roots trusted by the Mozilla, Microsoft, Apple and Chrome root programs and by many downstream trust stores. Any software that bundles a list of trusted certificates needs to be updated. This site is tracking software updates via this GitHub repository - Linux distros need to update their ca-certificates packages. In Python world uv 0 — Simon Willison / score: 95 (中間CA証明書の秘密鍵漏洩という重大な事件)</description>
+</item>
+<item>
+<title>[95] Linuxカーネル脆弱性「CVE-2026-99999」発見の背景が明らかに ―きっかけは賞金総額100万ドルの“サンドボックス脱出チャレンジ”</title>
+<link>https://gihyo.jp/article/2026/10/cve-2026-99999?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/10/cve-2026-99999?utm_source=feed</guid>
+<pubDate>Tue, 20 Oct 2026 05:02:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>2026年10月15日に「CVE-2026-99999」として公開されたLinuxカーネルに関する重大な脆弱性“Guest-to-Host KVM Escape”について、発見者のpwn.aiから発見にいたる概要と背景の報告があった。 — gihyo.jp / score: 95 (Linuxカーネルの重大な脆弱性と発見背景の報告)</description>
 </item>
 <item>
 <title>[95] Linuxカーネルの深刻な脆弱性「PwnEscape」（CVE-2026-99999）、ゲストの仮想マシンからホスト側Linux OSに不正なコードを実行できる可能性</title>
@@ -39,6 +47,14 @@
 <description>JavaScriptランタイム「Deno」の開発元であるDeno LandとCloudflareは、Deno LandがCloudflareに合流すると発表しました。CloudflareによるDeno Landの買収と見られます（Deno ... — Publickey / score: 95 (Deno開発終了とCloudflare合流の重大なニュース)</description>
 </item>
 <item>
+<title>[90] Oracle、今年最後の「CPU」を実施 ～Java、VirtualBox、MySQLなどで1,295件のパッチ／四半期に一度の大規模定例セキュリティアップデート</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2149811.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2149811.html</guid>
+<pubDate>Tue, 20 Oct 2026 23:45:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Oracleは10月20日（現地時間、以下同）、四半期ごとの定例セキュリティアップデート（Critical Patch Update：CPU）を実施した。「Oracle Java SE」や「MySQL」、「Oracle VM VirtualBox」などの製品向けに、1,295件の新しいセキュリティパッチが提供されている。 — 窓の杜 / score: 90 (多数の製品を含む大規模なセキュリティパッチ)</description>
+</item>
+<item>
 <title>[90] ふるさとチョイス 445万件の個人情報流出を発表 | NHKニュース</title>
 <link>https://news.web.nhk/newsweb/na/nd-20261020de62437</link>
 <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261020de62437</guid>
@@ -47,12 +63,12 @@
 <description>ふるさと納税の仲介サイト「ふるさとチョイス」を運営するトラストバンクは、会員登録している顧客の氏名やメールアドレス、それに住所などの個人情報、445万件あまりが外部に流出したと発表しました。 「ふ… — はてなブックマーク テクノロジー / score: 90 (445万件の大規模個人情報流出インシデント)</description>
 </item>
 <item>
-<title>[90] ふるさとチョイス、不正アクセスで445万件漏えい　寄附控除試算額も</title>
-<link>https://www.watch.impress.co.jp/docs/news/2149772.html</link>
-<guid isPermaLink="true">https://www.watch.impress.co.jp/docs/news/2149772.html</guid>
-<pubDate>Tue, 20 Oct 2026 11:21:21 +0000</pubDate>
+<title>[90] 【セキュリティ ニュース】ウェブサーバ「nginx」に複数脆弱性 - 3件が「クリティカル」との評価も（1ページ目 / 全3ページ）：Security NEXT</title>
+<link>https://www.security-next.com/191645</link>
+<guid isPermaLink="true">https://www.security-next.com/191645</guid>
+<pubDate>Tue, 20 Oct 2026 09:15:55 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>ふるさとチョイス、不正アクセスで445万件漏えい 寄附控除試算額も — はてなブックマーク テクノロジー / score: 90 (不正アクセスによる大規模な情報漏えい)</description>
+<description>ウェブサーバ「nginx」や関連製品に複数の脆弱性が判明した。サービス拒否やコード実行、認証の回避、機密情報の漏洩などにつながるおそれがある。 F5は現地時間2026年10月14日、定例外のセキュリティアドバイザリを公開し、「nginx」に関する脆弱性5件や、関連製品の脆弱性6件のCVEベースであわせて11件の脆弱性を明ら... — はてなブックマーク テクノロジー / score: 90 (nginxの複数脆弱性で重要度が高い)</description>
 </item>
 <item>
 <title>[90] 「侵入経路塞いだが、バックドアから……」不正アクセス105時間の攻防、分単位で報告　防災メールのアルカディア</title>
@@ -61,14 +77,6 @@
 <pubDate>Tue, 20 Oct 2026 06:16:53 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>105時間にわたる攻防 侵入経路を塞いだ後もバックドアから…… 公表資料によると、攻撃者は不正アクセスを始めてから約10時間後、サービス間ログイン用のシークレットキーを含む設定ファイルを取得。総当たり攻撃を仕掛けて内部情報を取得した。 同社が不正アクセスを検知したのはその約7時間後。侵入経路を遮断したがバ... — はてなブックマーク テクノロジー / score: 90 (詳細な不正アクセスの攻防レポートでセキュリティ面で非常に有益)</description>
-</item>
-<item>
-<title>[90] Next.js、リモートコード実行など3件の脆弱性を修正したv16.4.1とv15.5.28を公開</title>
-<link>https://codezine.jp/article/detail/30052</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/30052</guid>
-<pubDate>Mon, 19 Oct 2026 02:30:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 90 (Next.jsのリモートコード実行脆弱性修正の重要アップデート)</description>
 </item>
 <item>
 <title>[90] Next.js Security Update for Upstream Vulnerabilities</title>
@@ -119,12 +127,12 @@
 <description>Tickets for AIE NYC are selling out soon! See you next week! see past AINews issues for subscriber discounts. Pour one out for Mistral, who shipped a decent Large 4 “Le Chonk” model on the new 3800 GB300 cluster funded by their recent Series D . But they were overshadowed by more mathematics results from OpenAI’s internal Navier-Stokes math model - published as a blogpost , repo , and tweet . The best compliment comes from their Navier-Stokes competitor from Anthropic, who despite his personal i — Latent Space / score: 90 (AI分野の極めて大きな数学的成果と発表)</description>
 </item>
 <item>
-<title>[90] GPT-6 and Intelligent UI for everyone</title>
-<link>https://openai.com/index/gpt-6-for-everyone</link>
-<guid isPermaLink="true">https://openai.com/index/gpt-6-for-everyone</guid>
-<pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly. — OpenAI News / score: 90 (主要AIの次世代メジャーリリースと新UIの発表)</description>
+<title>[85] PHP: News Archive - 2026</title>
+<link>https://www.php.net/archive/2026.php</link>
+<guid isPermaLink="true">https://www.php.net/archive/2026.php</guid>
+<pubDate>Tue, 20 Oct 2026 20:54:34 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Here are the most important news items we have published in 2026 on PHP.net. The PHP security team would like to give advance notice of an upcoming security release. It is scheduled for Wednesday, 21 October 2026 at 14:00 UTC. It addresses two critical vulnerabilities, both rated CVSS v4.0 9.2. A... — はてなブックマーク テクノロジー / score: 85 (PHPのセキュリティリリース予告)</description>
 </item>
 <item>
 <title>[85] Introducing tsrs: a Port of TypeScript to Rust</title>
@@ -143,12 +151,12 @@
 <description>2026年10月19日、セキュリティ企業のNorForgeは、公開状態のまま放置されていたAIペネトレーションテスト基盤Cairnの管理画面から、AIエージェントによる攻撃活動を観測したとするレポートを公表しました。ここでは関連する情報をまとめます。 Cairnとは何か Cairnはオープンソースのエージェント基盤で、開発元のREADME... — はてなブックマーク テクノロジー / score: 85 (AIペネトレーション基盤の公開放置と攻撃観測の重要インシデント)</description>
 </item>
 <item>
-<title>[85] 栃木県警、全職員の情報流出か　アルカディア不正アクセス、他県警でも被害判明相次ぐ　報道</title>
-<link>https://www.itmedia.co.jp/news/article/2610/20/2000002435/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/20/2000002435/</guid>
-<pubDate>Tue, 20 Oct 2026 11:50:52 +0000</pubDate>
+<title>[85] ふるさと納税の「ふるさとチョイス」、会員情報445万件流出　寄附控除試算額も</title>
+<link>https://www.itmedia.co.jp/news/article/2610/20/2000002434/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/20/2000002434/</guid>
+<pubDate>Tue, 20 Oct 2026 11:19:27 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>防災情報配信サービスを手掛けるアルカディア（大阪府箕面市）が不正アクセスを受けた問題で、栃木県警の全職員約3900人分の個人情報が流出した可能性があると、下野新聞や毎日新聞などが10月20日に報じた。災害時の安否確認システムに登録していた情報で、20日までに不正利用は確認されていないという。 毎日新聞の報道... — はてなブックマーク テクノロジー / score: 85 (警察情報の不正アクセス流出に関する重大なセキュリティ事故)</description>
+<description>ふるさと納税サイト「ふるさとチョイス」を運営するトラストバンクは10月20日、第三者による不正アクセスを受け、会員の氏名や住所、寄附金控除試算額などの個人情報445万4097件が外部に流出したと発表した。 — はてなブックマーク テクノロジー / score: 85 (ふるさとチョイスの多額個人情報流出)</description>
 </item>
 <item>
 <title>[85] ふるさとチョイス、不正アクセスによる寄附者様情報の外部流出に関するお詫びとお知らせ | NEWSROOM | 株式会社トラストバンク</title>
@@ -221,14 +229,6 @@
 <pubDate>Tue, 20 Oct 2026 04:10:49 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>2026年9月、Anthropicの社内リポジトリには1日あたり3万件を超える変更がマージされていたそうです。5月の時点ではおよそ2,500件だったので、4か月で10倍以上。書いているのはほとんどがコーディングエージェントです。 この3万件を人が一行ずつ読んでいるとは思えないし、誰も読まずに本番へ出しているとも思えない。じ... — はてなブックマーク テクノロジー / score: 85 (コーディングエージェントの爆発的普及に関する重要な話題)</description>
-</item>
-<item>
-<title>[85] AIがおすすめしてきたソフト、ウイルス入りでした。人気も開発歴も偽装されてた</title>
-<link>https://www.gizmodo.jp/article/ai-recommended-malware-software/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/ai-recommended-malware-software/</guid>
-<pubDate>Tue, 20 Oct 2026 03:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>AIがおすすめするソフトにウイルスが混入。開発歴や人気度も巧妙に偽装されたマルウェアの手口とセキュリティ対策を解説します。 — ギズモード・ジャパン / score: 85 (AIおすすめソフトへのウイルス混入など、深刻なセキュリティリスク。)</description>
 </item>
 <item>
 <title>[85] AWS LambdaでNext.jsやHonoなどNode.jsフレームワークとアプリをそのままデプロイ、実行できる「AWS Lambda Web Functions」発表</title>
@@ -359,6 +359,14 @@
 <description>Anthropicは10月7日、AIモデル「Claude Haiku 5.5」を発表した。 — gihyo.jp / score: 85 (Claude Haiku 5.5のリリースと性能・コスト詳細)</description>
 </item>
 <item>
+<title>[80] 「お名前.com デスクトップクラウド」不正プログラム設置で全プラン停止　FX用VPS、2万6739サーバに影響か</title>
+<link>https://www.itmedia.co.jp/news/article/2610/21/2000002442/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/21/2000002442/</guid>
+<pubDate>Tue, 20 Oct 2026 23:41:28 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>お名前.com デスクトップクラウドは、FXの自動売買ソフト（「MetaTrader 4」「MetaTrader 5」など）を、自宅のPCを使わずにクラウド上のサーバで24時間動かし続けるためのサービス。月額2640円から利用でき、契約実績は累計20万以上という。 同社は10月20日、不正なプログラムが設置されたことを確認。サーバ内に保管さ... — はてなブックマーク テクノロジー / score: 80 (お名前.comのVPSで不正プログラム設置)</description>
+</item>
+<item>
 <title>[80] あなたの会社は、慌てて脆弱性検査にARTEXを使わなくていい｜Yusuke Kawabata（SaaS運営）</title>
 <link>https://note.com/uplucid/n/ncb9e3567ce2f</link>
 <guid isPermaLink="true">https://note.com/uplucid/n/ncb9e3567ce2f</guid>
@@ -383,6 +391,14 @@
 <description> — Yahoo!ニュース IT / score: 80 (証券会社へのサイバー攻撃に関するセキュリティインシデント)</description>
 </item>
 <item>
+<title>[80] ウェブ制作会社で流出恐れ　不正アクセスで全顧客情報 | NEWSjp</title>
+<link>https://news.jp/i/1485170802670027689</link>
+<guid isPermaLink="true">https://news.jp/i/1485170802670027689</guid>
+<pubDate>Tue, 20 Oct 2026 09:54:22 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>プログラミング知識がなくてもウェブサイトを制作できるサービスを提供する「Studio」（東京都）は20日までに、外部からの不正アクセスを受け、全ての顧客の個人情報が流出した可能性があると発表した。件数は調査中としている。 流出した可能性があるのは、ユーザー名やメールアドレス、パスワードのほか、外部サービス... — はてなブックマーク テクノロジー / score: 80 (Studioの不正アクセスと顧客情報流出)</description>
+</item>
+<item>
 <title>[80] 80社サイバー攻撃 中国語AI悪用か</title>
 <link>https://news.yahoo.co.jp/pickup/6599460?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6599460?source=rss</guid>
@@ -405,14 +421,6 @@
 <pubDate>Mon, 19 Oct 2026 09:48:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Microsoftは、2026年10月の月例セキュリティ更新プログラム「KB5127648」（10月13日リリース）に既知の不具合があることを明らかにした。一部のデバイスで［スマート アプリ コントロール］をONにできなくなることがあるという。以下のOSバージョンに影響する。 — 窓の杜 / score: 80 (OSの月例アプデに伴うセキュリティ機能の不具合)</description>
-</item>
-<item>
-<title>[80] GitHub、Copilotがコードスキャンアラートを修正する「agentic autofix」を一般提供</title>
-<link>https://codezine.jp/article/detail/30053</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/30053</guid>
-<pubDate>Mon, 19 Oct 2026 04:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 80 (GitHub Copilotの自動修正機能一般提供のニュース)</description>
 </item>
 <item>
 <title>[80] JEP targeted to JDK 28: 546: Adaptive Heap Sizing for ZGC</title>
@@ -511,12 +519,20 @@
 <description>Microsoftは2026年10月7日、AIエージェント向けポリシー駆動型コンテナ「Microsoft Execution Containers」（MXC）の一般提供を開始したことを発表した。 — gihyo.jp / score: 80 (AIエージェント向けコンテナの一般提供開始)</description>
 </item>
 <item>
-<title>[75] Introducing Amazon ECS Gateway: A fully-managed ingress solution for ECS services</title>
+<title>[75] Introducing Amazon ECS Gateway: A fully-managed ingress solution for ECS services | Amazon Web Services</title>
 <link>https://aws.amazon.com/blogs/aws/introducing-amazon-ecs-gateway-a-fully-managed-ingress-solution-for-ecs-services/</link>
 <guid isPermaLink="true">https://aws.amazon.com/blogs/aws/introducing-amazon-ecs-gateway-a-fully-managed-ingress-solution-for-ecs-services/</guid>
-<pubDate>Tue, 20 Oct 2026 17:03:38 +0000</pubDate>
-<category>AWS News Blog</category>
-<description>Try Amazon ECS Gateway, a new account-level resource that simplifies ingress networking for containerized workloads by dynamically provisioning and managing the necessary infrastructure on your behalf, with all resources created directly in your account. — AWS News Blog / score: 75 (ECS向けフルマネージドなイングレスソリューションの新機能)</description>
+<pubDate>Tue, 20 Oct 2026 21:10:06 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Introducing Amazon ECS Gateway: A fully-managed ingress solution for ECS services | Amazon Web Services The session catalog is live. Explore what's waiting for you — はてなブックマーク テクノロジー / score: 75 (ECS向けフルマネージドなイングレスソリューションの新機能)</description>
+</item>
+<item>
+<title>[75] 国の省エネ住宅事業で2万3000件超の情報漏えいのおそれ | NHKニュース</title>
+<link>https://news.web.nhk/newsweb/na/nd-20261020de62509</link>
+<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261020de62509</guid>
+<pubDate>Tue, 20 Oct 2026 20:35:51 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>国土交通省などは、国の省エネ住宅に関する補助金を受け付けていた大手広告会社が不正アクセスを受けて、申請などを行った事業者、2万3000人あまりの個人情報が漏えいしたおそれがあると発表しました。 国… — はてなブックマーク テクノロジー / score: 75 (省エネ住宅事業の大規模な情報漏えい)</description>
 </item>
 <item>
 <title>[75] Claude Opus 5.5 and Claude Sonnet 5.5 are now available in Google Antigravity</title>
@@ -581,6 +597,14 @@
 <pubDate>Tue, 20 Oct 2026 08:00:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Amazon Bedrock Advanced Prompt Optimization now supports prompt shortening, an optional setting that reduces the length of your prompt while maintaining or improving your evaluation scores. Advanced Prompt Optimization optimizes prompts for any model on Amazon Bedrock against your own evaluation criteria. Until now, optimization focused on quality alone. Optimized prompts were often longer than the original. Longer prompts raise input token costs and can increase time to first token, which matte — AWS What's New / score: 75 (Amazon Bedrockのプロンプト最適化機能のアップデート)</description>
+</item>
+<item>
+<title>[75] Amazon ElastiCache Serverless for Valkey now supports online migration with zero downtime</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-elasticache-serverless-valkey-online-migration/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-elasticache-serverless-valkey-online-migration/</guid>
+<pubDate>Tue, 20 Oct 2026 07:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon ElastiCache Serverless for Valkey now supports online migration from self-managed Valkey and Redis OSS on Amazon EC2 with zero downtime. Zero downtime means zero Errors returned to the client during migration, measured the same way the ElastiCache SLA measures availability. Your application continues reading and writing through cutover, and you do not need third-party replication tools. Online migration runs in three steps. You prepare the migration, start the data sync, and complete the  — AWS What's New / score: 75 (ゼロダウンタイム移行対応の実用的な機能追加)</description>
 </item>
 <item>
 <title>[75] MiniMaxが新AIモデル「MiniMax M3.1 Flash」を発表、AIエージェントの性能を強化しつつ利用コストを70％削減</title>
@@ -781,30 +805,6 @@
 <pubDate>Tue, 13 Oct 2026 17:05:48 +0000</pubDate>
 <category>Hugging Face Blog</category>
 <description> — Hugging Face Blog / score: 75 (オンデバイスAIエージェントに関する技術発表。)</description>
-</item>
-<item>
-<title>[75] Webアプリフレームワークの「SvelteKit 3」正式リリース。設定をViteに集約、型安全やエラー処理の改善など</title>
-<link>https://www.publickey1.jp/blog/26/websveltekit_3vite.html</link>
-<guid isPermaLink="true">https://www.publickey1.jp/blog/26/websveltekit_3vite.html</guid>
-<pubDate>Tue, 13 Oct 2026 15:26:33 +0000</pubDate>
-<category>Publickey</category>
-<description>Webアプリケーションフレームワーク「SvelteKit 3」正式版がリリースされました。 SvelteKitは、Web UIフレームワークの「Svelte」とビルドツールの「Vite」を基盤とし、ルーティング、サーバサイドレンダリング（S... — Publickey / score: 75 (SvelteKit 3の正式リリースと主要な変更)</description>
-</item>
-<item>
-<title>[75] Higgsfield takes AI video from 1 minute to over 10</title>
-<link>https://openai.com/index/higgsfield-longer-videos-voice</link>
-<guid isPermaLink="true">https://openai.com/index/higgsfield-longer-videos-voice</guid>
-<pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live. — OpenAI News / score: 75 (AI動画生成の長尺化に関する大型ニュース)</description>
-</item>
-<item>
-<title>[75] Amazon EMR now supports native data quality checks in Apache Spark jobs</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-emr-data-quality-spark/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-emr-data-quality-spark/</guid>
-<pubDate>Mon, 12 Oct 2026 07:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Amazon EMR now validates data quality natively within Apache Spark jobs. Data engineering teams can catch quality issues inline before bad data reaches downstream systems, without building or maintaining separate validation infrastructure. Amazon EMR Data Quality, powered by AWS Glue, is available at no additional cost and uses the same declarative rules language (Data Quality Definition Language) and APIs as AWS Glue for a consistent experience across both engines, and works with Apache Iceberg — AWS What's New / score: 75 (EMRでのSparkデータ品質チェック機能追加)</description>
 </item>
 </channel>
 </rss>
