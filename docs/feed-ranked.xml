@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 21 Oct 2026 18:12:24 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 20:09:14 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「PHP」の“致命的”な脆弱性2件が修正、ただちにアップデートを／認証なしでリモートからコード実行、v8.5.12/v8.4.27/v8.3.36/v8.2.35が公開</title>
@@ -31,20 +31,20 @@
 <description>Earlier today, the PHP project released PHP 8.5.12, 8.4.27, 8.3.36, and 8.2.35. These releases fix two critical vulnerabilities that, under the right conditions, allow an unauthenticated attacker to execute code on servers running PHP. If you run PHP, it is imperative that you update now. The ann... — はてなブックマーク テクノロジー / score: 95 (PHPの複数バージョンにおける重大脆弱性の修正リリース)</description>
 </item>
 <item>
+<title>[95] PHPが緊急アップデート「8.5.12」「8.4.27」「8.3.36」「8.2.35」をリリース</title>
+<link>https://gigazine.net/news/20261021-php-critical-vulnerabilities/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261021-php-critical-vulnerabilities/</guid>
+<pubDate>Wed, 21 Oct 2026 14:14:02 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>PHPが緊急アップデート「8.5.12」「8.4.27」「8.3.36」「8.2.35」をリリースしました。 Security advisory: Critical remote code execution vulnerabilities, update now | PHP https://www.php.net/index.php#2026-10-21-5 Security advisory: Critical remote code execution vulnerabilities, update now | PHP: New... — はてなブックマーク テクノロジー / score: 95 (PHPの複数バージョンにおける緊急アップデート)</description>
+</item>
+<item>
 <title>[95] 【PHP脆弱性php2shell】パッチは21:59に公開済み。「23:15から乗っ取り」「15分でAIが攻撃コード？」は本当か、自分のVPSのログで検証（CVE-2026-109618／109619）：秋山大志のそれとりあえず作ってみようか。：オルタナティブ・ブログ</title>
 <link>https://blogs.itmedia.co.jp/agile/2026/10/php2shell_cve_2026_109618_panic.html</link>
 <guid isPermaLink="true">https://blogs.itmedia.co.jp/agile/2026/10/php2shell_cve_2026_109618_panic.html</guid>
 <pubDate>Wed, 21 Oct 2026 14:07:21 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>【PHP脆弱性php2shell】パッチは21:59に公開済み。「23:15から乗っ取り」「15分でAIが攻撃コード？」は本当か、自分のVPSのログで検証（CVE-2026-109618／109619） PHPの重大な脆弱性で、タイムラインが大騒ぎです。 震源のひとつが、「23時にパッチが公開されたら、それをAIで解析して攻撃コードを作り、23時15分以降に... — はてなブックマーク テクノロジー / score: 95 (PHPの重大な脆弱性php2shellに関する詳細な検証)</description>
-</item>
-<item>
-<title>[95] PHPが緊急アップデート「8.5.12」「8.4.27」「8.3.36」「8.2.35」をリリース</title>
-<link>https://gigazine.net/news/20261021-php-critical-vulnerabilities/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261021-php-critical-vulnerabilities/</guid>
-<pubDate>Wed, 21 Oct 2026 14:04:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>PHPがPHP2Shellに対処する緊急アップデート「8.5.12」「8.4.27」「8.3.36」「8.2.35」をリリースしました。 続きを読む... — GIGAZINE / score: 95 (PHPの複数バージョンにおける緊急アップデート)</description>
 </item>
 <item>
 <title>[95] Responding to core PHP vulnerabilities CVE-2026-109618 and CVE-2026-109619</title>
@@ -159,6 +159,14 @@
 <description>JavaScriptランタイム「Deno」の開発元であるDeno LandとCloudflareは、Deno LandがCloudflareに合流すると発表しました。CloudflareによるDeno Landの買収と見られます（Deno ... — Publickey / score: 95 (Deno開発終了とCloudflare合流の重大なニュース)</description>
 </item>
 <item>
+<title>[90] Today's PHP Security Release, and How We're Strengthening PHP Security</title>
+<link>https://simonwillison.net/2026/Oct/21/php-security-release/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Oct/21/php-security-release/</guid>
+<pubDate>Wed, 21 Oct 2026 18:41:53 +0000</pubDate>
+<category>Simon Willison</category>
+<description>Today's PHP Security Release, and How We're Strengthening PHP Security If you're running anything on PHP it's vital you upgrade - today's updates (across the entire PHP 8.x line) address two remote code execution holes, and there have been exploits circulating since last night, thanks to a leak in the coordinated disclosure process. This post from the PHP Foundation explain what went so wrong: On Tuesday, October 20th, at around 15:00 UTC, the two CVE IDs began circulating on online forums and s — Simon Willison / score: 90 (PHPの脆弱性修正を含む重要なセキュリティリリース)</description>
+</item>
+<item>
 <title>[90] PHP 8.5.12 released with security fixes | The Dev Dispatch</title>
 <link>https://php-net.pro/en/news/php-8-5-12-released-with-security-fixes</link>
 <guid isPermaLink="true">https://php-net.pro/en/news/php-8-5-12-released-with-security-fixes</guid>
@@ -221,14 +229,6 @@
 <pubDate>Wed, 21 Oct 2026 10:38:20 +0000</pubDate>
 <category>Node.js リリース</category>
 <description>This is a security release. Notable Changes (CVE-2026-105481) http: ensure agent data guard works without I/O (James M Snell) (CVE-2026-105482) dns: validate resolve inputs for null bytes (James M Snell) (CVE-2026-106069) tls: reject non-canonical IP addresses (Matteo Collina) (CVE-2026-106073) permission: check permission model in realpathSync (RafaelGSS) (CVE-2026-106074) crypto: reset random caches across snapshots (Filip Skokan) (CVE-2026-111497) src: expose BROTLI_DECODER_ERROR_FORMAT_BLOCK — Node.js リリース / score: 90 (Node.js LTSの重要セキュリティアップデート)</description>
-</item>
-<item>
-<title>[90] 小説家になろうグループ臨時接続制限のお知らせ</title>
-<link>https://blog.syosetu.com/article/view/article_id/5277/</link>
-<guid isPermaLink="true">https://blog.syosetu.com/article/view/article_id/5277/</guid>
-<pubDate>Wed, 21 Oct 2026 08:55:48 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>いつも小説家になろうグループをご利用いただきありがとうございます。 現在、当社サーバ上で利用しているミドルウェアに対して緊急性の高い脆弱性情報の修正が予告されており、外部からの攻撃による被害を受けかねない状況となっております。 そのため、緊急かつ臨時の措置ではありますが、一部の接続元からのアクセス... — はてなブックマーク テクノロジー / score: 90 (ミドルウェアの緊急脆弱性対応による接続制限)</description>
 </item>
 <item>
 <title>[90] 著名ITサービス相次いで緊急メンテへ　コドモン、シャドバ、BASE、さくらのレンタルサーバなど　「PHP」脆弱性に起因か</title>
@@ -373,6 +373,14 @@
 <pubDate>Wed, 21 Oct 2026 00:52:36 +0000</pubDate>
 <category>Zenn トレンド</category>
 <description>はじめに セキュリティ関連対応に追われている @___nix___ です。 背景 2026/10/19 に Laravel からこんなアドバイザリが出ました。 https://github.com/laravel/framework/security/advisories/GHSA-f9x3-7vq9-cph6 MySQL / MariaDB 環境で token guard を使っていると、API トークンを知らなくても既存ユーザーとしてログインできてしまう、という Critical なやつです。 影響範囲は &lt; 12.68.0 と &lt; 13.29.0 で、修正版は... — Zenn トレンド / score: 85 (Laravelの認証バイパス脆弱性に関する検証)</description>
+</item>
+<item>
+<title>[85] Python 3.15.1, 3.14.9 and 3.13.17 are out</title>
+<link>https://blog.python.org/2026/10/python-3151-3149-31317/</link>
+<guid isPermaLink="true">https://blog.python.org/2026/10/python-3151-3149-31317/</guid>
+<pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+<category>Python Insider</category>
+<description>Three certified security releases for 3.15, 3.14 and 3.13. — Python Insider / score: 85 (Pythonの複数バージョンにおける重要なセキュリティリリース)</description>
 </item>
 <item>
 <title>[85] ふるさとチョイス 445万件が流出</title>
@@ -663,6 +671,14 @@
 <description>Microsoftは2026年10月7日、AIエージェント向けポリシー駆動型コンテナ「Microsoft Execution Containers」（MXC）の一般提供を開始したことを発表した。 — gihyo.jp / score: 80 (AIエージェント向けコンテナの一般提供開始)</description>
 </item>
 <item>
+<title>[75] AWS Neuron 2.33 adds native PyTorch support, Neuron Observer, and other new features</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/aws-announce-neuron-2-33-0</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/aws-announce-neuron-2-33-0</guid>
+<pubDate>Wed, 21 Oct 2026 15:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS Neuron 2.33 is now available, introducing TorchNeuron, the native PyTorch backend for AWS Trainium, in public beta. You can run models written with the standard PyTorch APIs on Amazon EC2 Trn2 and Trn3 instances, in eager mode or with torch.compile. This release also introduces Neuron Observer in public beta, which detects Trainium health issues in under a second and identifies the affected node or device. The vLLM Neuron plugin upgrades to vLLM 0.29.0, and the vLLM Omni Neuron plugin for Wa — AWS What's New / score: 75 (AWS Trainium向けのネイティブPyTorchサポート追加)</description>
+</item>
+<item>
 <title>[75] Claude Mods: Flipping the Harness Inside Out</title>
 <link>https://www.latent.space/p/claude-mods</link>
 <guid isPermaLink="true">https://www.latent.space/p/claude-mods</guid>
@@ -789,22 +805,6 @@
 <pubDate>Tue, 20 Oct 2026 14:00:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Amazon Bedrock now supports structured outputs for all Anthropic Claude models across both the bedrock-runtime and the bedrock-mantle endpoint. Whether you call Claude through boto3 and the bedrock-runtime APIs or through the Messages API and the bedrock-mantle endpoint, you can now receive schema-compliant JSON responses that conform to a defined structure, without custom parsing, retry logic, or post-processing. With structured outputs for Claude on Amazon Bedrock, you can automate reliable, s — AWS What's New / score: 75 (Amazon BedrockでのClaude構造化出力サポート)</description>
-</item>
-<item>
-<title>[75] TorchTPU is now open source: Run native PyTorch on TPUs</title>
-<link>https://cloud.google.com/blog/topics/ai-infrastructure/torchtpu-is-now-open-source-run-native-pytorch-on-tpus/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/topics/ai-infrastructure/torchtpu-is-now-open-source-run-native-pytorch-on-tpus/</guid>
-<pubDate>Tue, 20 Oct 2026 11:30:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>Today at PyTorch Conference 2026, we announced a range of new products and integrations designed to help you run PyTorch effectively on Google Cloud or in your own infrastructure. Notably, TorchTPU, our native PyTorch stack for Google TPUs, is now available as open source on GitHub. With TorchTPU, TPUs join GPUs and CPUs as a native option for PyTorch. You can now train, serve, and deploy models on TPUs using the tools you already rely on, including vLLM, SGLang, llm-d, TorchTitan, Ray, TorchRec — Google Cloud Blog / score: 75 (PyTorchのTPUネイティブ対応オープンソース化)</description>
-</item>
-<item>
-<title>[75] Announcing llm-d 1.0: Open distributed inference for agents on Google Cloud TPUs and GPUs</title>
-<link>https://cloud.google.com/blog/topics/ai-infrastructure/llm-d-1-0-an-open-source-stack-for-distributed-inference/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/topics/ai-infrastructure/llm-d-1-0-an-open-source-stack-for-distributed-inference/</guid>
-<pubDate>Tue, 20 Oct 2026 11:30:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>Today at the PyTorch Conference, we released llm-d 1.0, an open-source, Kubernetes-native stack for distributed LLM inference. Co-founded by Google with Red Hat, IBM and others, we worked with a community of more than 500 contributors over 25 organizations on this Cloud Native Computing Foundation (CNCF) Sandbox project, bringing together two important communities: PyTorch, where vLLM and SGLang serve models, and Kubernetes, where distributed systems run and scale in production. llm-d 1.0 arrive — Google Cloud Blog / score: 75 (分散LLM推論向けKubernetesスタックの公開)</description>
 </item>
 </channel>
 </rss>

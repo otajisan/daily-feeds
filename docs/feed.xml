@@ -4,15 +4,31 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 21 Oct 2026 18:12:24 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 20:09:14 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
-<title>Train in Simulation, Deploy on a Real Robot: Microduck with Isaac Lab 3.0</title>
-<link>https://huggingface.co/blog/nvidia/microduck-isaac-lab-sim-to-real</link>
-<guid isPermaLink="true">https://huggingface.co/blog/nvidia/microduck-isaac-lab-sim-to-real</guid>
-<pubDate>Wed, 21 Oct 2026 17:58:42 +0000</pubDate>
+<title>AWS Transform adds storage migration assessments for Amazon S3, EBS, EFS, and FSx</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/transform-assess-s3-ebs-efs-fsx/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/transform-assess-s3-ebs-efs-fsx/</guid>
+<pubDate>Wed, 21 Oct 2026 19:10:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Migration assessments in AWS Transform now evaluate on-premises storage for migration to AWS. Instead of manually analyzing thousands of volumes across protocols, capacity, and performance, you upload a storage inventory and AWS Transform does the mapping for you. It matches each workload to the best-fit service, sizes the recommendation, and projects costs to produce a total cost of ownership business case. Bring NAS shares, SAN LUNs, direct-attached disks, or backup repositories via a NetApp D — AWS What's New / score: 55 (AWSのストレージ移行アセスメント機能の追加)</description>
+</item>
+<item>
+<title>Today's PHP Security Release, and How We're Strengthening PHP Security</title>
+<link>https://simonwillison.net/2026/Oct/21/php-security-release/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Oct/21/php-security-release/</guid>
+<pubDate>Wed, 21 Oct 2026 18:41:53 +0000</pubDate>
+<category>Simon Willison</category>
+<description>Today's PHP Security Release, and How We're Strengthening PHP Security If you're running anything on PHP it's vital you upgrade - today's updates (across the entire PHP 8.x line) address two remote code execution holes, and there have been exploits circulating since last night, thanks to a leak in the coordinated disclosure process. This post from the PHP Foundation explain what went so wrong: On Tuesday, October 20th, at around 15:00 UTC, the two CVE IDs began circulating on online forums and s — Simon Willison / score: 90 (PHPの脆弱性修正を含む重要なセキュリティリリース)</description>
+</item>
+<item>
+<title>NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required</title>
+<link>https://huggingface.co/blog/nvidia/kumo-relational</link>
+<guid isPermaLink="true">https://huggingface.co/blog/nvidia/kumo-relational</guid>
+<pubDate>Wed, 21 Oct 2026 18:26:30 +0000</pubDate>
 <category>Hugging Face Blog</category>
-<description> — Hugging Face Blog / score: 55 (シミュレーションから実機ロボットへの訓練手法)</description>
+<description> — Hugging Face Blog / score: 70 (機械学習・リレーショナルデータに関する新しい手法の発表)</description>
 </item>
 <item>
 <title>How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications</title>
@@ -29,6 +45,30 @@
 <pubDate>Wed, 21 Oct 2026 17:21:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Today, AWS announced the expansion of 10 Gbps and 100 Gbps dedicated connections with MACsec encryption capabilities at the existing AWS Direct Connect location in the Equinix MA3 data center near Manchester, England. You can now establish private, direct network access to all public AWS Regions (except those in China), AWS GovCloud Regions, and AWS Local Zones from this location. This is the third AWS Direct Connect location in England to provide 100 Gbps connections with MACsec encryption capa — AWS What's New / score: 40 (マンチェスターでのAWS Direct Connect 100G拡張)</description>
+</item>
+<item>
+<title>How AT&amp;T is rethinking in-house legal work with OpenAI</title>
+<link>https://openai.com/index/att-legal</link>
+<guid isPermaLink="true">https://openai.com/index/att-legal</guid>
+<pubDate>Wed, 21 Oct 2026 17:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>AT&amp;T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment. — OpenAI News / score: 45 (AIの企業導入事例として参考になるが開発者向けではない)</description>
+</item>
+<item>
+<title>Amazon Aurora and Amazon RDS now support On-Demand Capacity Reservations</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-aurora-rds-on-demand-capacity-reservations/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-aurora-rds-on-demand-capacity-reservations/</guid>
+<pubDate>Wed, 21 Oct 2026 17:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Starting today, you can reserve compute capacity for your Amazon Aurora and Amazon RDS DB instances in one or more Availability Zones for as long as you need it. Reserving capacity helps ensure that DB instance create, restore, scale-compute, and start operations don't fail because of insufficient capacity. On-Demand Capacity Reservations are designed for workloads that need assurance that specific DB instance capacity will be available when they need it for business-critical events, such as mig — AWS What's New / score: 50 (Aurora/RDSのオンデマンドキャパシティ予約サポート)</description>
+</item>
+<item>
+<title>Amazon Cognito extends multi-Region replication to AWS GovCloud (US) Regions</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/cognito-multi-region-us-govcloud/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/cognito-multi-region-us-govcloud/</guid>
+<pubDate>Wed, 21 Oct 2026 17:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon Cognito multi-Region replication (MRR) now supports AWS GovCloud (US) Regions, extending the resilience benefits of MRR to more workloads. MRR lets you synchronize user and machine identity data, including credentials, user pool configurations, and federation setups, to a secondary user pool in a standby Region you designate, in near real-time. With user data in the standby Region, you can redirect traffic and keep authentication available if there is a disruption in your primary Region.  — AWS What's New / score: 50 (Amazon Cognitoのマルチリージョン複製対応拡大)</description>
 </item>
 <item>
 <title>Panache — RTS Belle Époque pour mobile</title>
@@ -53,14 +93,6 @@
 <pubDate>Wed, 21 Oct 2026 16:04:43 +0000</pubDate>
 <category>Hugging Face Blog</category>
 <description> — Hugging Face Blog / score: 50 (AWS Trainiumにおけるシステムレベルのプロファイリング)</description>
-</item>
-<item>
-<title>Amazon Aurora and Amazon RDS now support On-Demand Capacity Reservations</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-aurora-rds-on-demand-capacity-reservations/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-aurora-rds-on-demand-capacity-reservations/</guid>
-<pubDate>Wed, 21 Oct 2026 16:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Starting today, you can reserve compute capacity for your Amazon Aurora and Amazon RDS DB instances in one or more Availability Zones for as long as you need it. Reserving capacity helps ensure that DB instance create, restore, scale-compute, and start operations don't fail because of insufficient capacity. On-Demand Capacity Reservations are designed for workloads that need assurance that specific DB instance capacity will be available when they need it for business-critical events, such as mig — AWS What's New / score: 50 (Aurora/RDSのオンデマンドキャパシティ予約サポート)</description>
 </item>
 <item>
 <title>BigQuery ObjectRef now GA: Build multimodal data platforms for conversational analytics entirely in SQL</title>
@@ -127,6 +159,14 @@
 <description>Beam, the first open weight model offered by US-based Reflection, is now available in Amazon SageMaker JumpStart, the model hub in Amazon SageMaker AI. According to Beam, they operate at the frontier of open weight models in its class, with strong performance across reasoning, coding, and agentic benchmarks. Beam is for teams who build on and with an open weight model, not just call one. Customers who want to adapt a frontier model to their own domain can fine-tune it, inspect and modify its wei — AWS What's New / score: 55 (AWSでの新AIモデル対応に関するニュース)</description>
 </item>
 <item>
+<title>AWS Neuron 2.33 adds native PyTorch support, Neuron Observer, and other new features</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/aws-announce-neuron-2-33-0</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/aws-announce-neuron-2-33-0</guid>
+<pubDate>Wed, 21 Oct 2026 15:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS Neuron 2.33 is now available, introducing TorchNeuron, the native PyTorch backend for AWS Trainium, in public beta. You can run models written with the standard PyTorch APIs on Amazon EC2 Trn2 and Trn3 instances, in eager mode or with torch.compile. This release also introduces Neuron Observer in public beta, which detects Trainium health issues in under a second and identifies the affected node or device. The vLLM Neuron plugin upgrades to vLLM 0.29.0, and the vLLM Omni Neuron plugin for Wa — AWS What's New / score: 75 (AWS Trainium向けのネイティブPyTorchサポート追加)</description>
+</item>
+<item>
 <title>Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster</title>
 <link>https://huggingface.co/blog/ibm-granite/granite-speech-5</link>
 <guid isPermaLink="true">https://huggingface.co/blog/ibm-granite/granite-speech-5</guid>
@@ -159,20 +199,20 @@
 <description>日本と韓国では10月23日の発売日も含めたしばらくの間、「iPhone Duo」は直営店では予約なしで購入出来ないことが案内されていますが、米国などの直営店では10月23日に限定数ながら予約なしで来店する顧客向けに販売が […] — 気になる、記になる… / score: 20 (新型iPhoneの店頭在庫・販売に関する話題)</description>
 </item>
 <item>
+<title>PHPが緊急アップデート「8.5.12」「8.4.27」「8.3.36」「8.2.35」をリリース</title>
+<link>https://gigazine.net/news/20261021-php-critical-vulnerabilities/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261021-php-critical-vulnerabilities/</guid>
+<pubDate>Wed, 21 Oct 2026 14:14:02 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>PHPが緊急アップデート「8.5.12」「8.4.27」「8.3.36」「8.2.35」をリリースしました。 Security advisory: Critical remote code execution vulnerabilities, update now | PHP https://www.php.net/index.php#2026-10-21-5 Security advisory: Critical remote code execution vulnerabilities, update now | PHP: New... — はてなブックマーク テクノロジー / score: 95 (PHPの複数バージョンにおける緊急アップデート)</description>
+</item>
+<item>
 <title>【PHP脆弱性php2shell】パッチは21:59に公開済み。「23:15から乗っ取り」「15分でAIが攻撃コード？」は本当か、自分のVPSのログで検証（CVE-2026-109618／109619）：秋山大志のそれとりあえず作ってみようか。：オルタナティブ・ブログ</title>
 <link>https://blogs.itmedia.co.jp/agile/2026/10/php2shell_cve_2026_109618_panic.html</link>
 <guid isPermaLink="true">https://blogs.itmedia.co.jp/agile/2026/10/php2shell_cve_2026_109618_panic.html</guid>
 <pubDate>Wed, 21 Oct 2026 14:07:21 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>【PHP脆弱性php2shell】パッチは21:59に公開済み。「23:15から乗っ取り」「15分でAIが攻撃コード？」は本当か、自分のVPSのログで検証（CVE-2026-109618／109619） PHPの重大な脆弱性で、タイムラインが大騒ぎです。 震源のひとつが、「23時にパッチが公開されたら、それをAIで解析して攻撃コードを作り、23時15分以降に... — はてなブックマーク テクノロジー / score: 95 (PHPの重大な脆弱性php2shellに関する詳細な検証)</description>
-</item>
-<item>
-<title>PHPが緊急アップデート「8.5.12」「8.4.27」「8.3.36」「8.2.35」をリリース</title>
-<link>https://gigazine.net/news/20261021-php-critical-vulnerabilities/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261021-php-critical-vulnerabilities/</guid>
-<pubDate>Wed, 21 Oct 2026 14:04:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>PHPがPHP2Shellに対処する緊急アップデート「8.5.12」「8.4.27」「8.3.36」「8.2.35」をリリースしました。 続きを読む... — GIGAZINE / score: 95 (PHPの複数バージョンにおける緊急アップデート)</description>
 </item>
 <item>
 <title>Responding to core PHP vulnerabilities CVE-2026-109618 and CVE-2026-109619</title>
@@ -727,14 +767,6 @@
 <description>2026年10月20日、PHPの開発元であるThe PHP Groupのセキュリティチームは、PHPの深刻な脆弱性2件を修正するセキュリティリリースを予告しました。ここでは関連する情報をまとめます。（開発元等から詳細情報が公開され次第更新します。） 開発元は何を予告したの? PHPのセキュリティチームは10月20日(協定世界時)、2件の... — はてなブックマーク テクノロジー / score: 95 (PHPの深刻な脆弱性と緊急リリース予告)</description>
 </item>
 <item>
-<title>小説家になろうグループ臨時接続制限のお知らせ</title>
-<link>https://blog.syosetu.com/article/view/article_id/5277/</link>
-<guid isPermaLink="true">https://blog.syosetu.com/article/view/article_id/5277/</guid>
-<pubDate>Wed, 21 Oct 2026 08:55:48 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>いつも小説家になろうグループをご利用いただきありがとうございます。 現在、当社サーバ上で利用しているミドルウェアに対して緊急性の高い脆弱性情報の修正が予告されており、外部からの攻撃による被害を受けかねない状況となっております。 そのため、緊急かつ臨時の措置ではありますが、一部の接続元からのアクセス... — はてなブックマーク テクノロジー / score: 90 (ミドルウェアの緊急脆弱性対応による接続制限)</description>
-</item>
-<item>
 <title>著名ITサービス相次いで緊急メンテへ　コドモン、シャドバ、BASE、さくらのレンタルサーバなど　「PHP」脆弱性に起因か</title>
 <link>https://www.itmedia.co.jp/news/article/2610/21/2000002472/</link>
 <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/21/2000002472/</guid>
@@ -773,38 +805,6 @@
 <pubDate>Wed, 21 Oct 2026 08:08:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>ObsidianのCEOを務めるSteph Ango氏（kepano）は10月17日、Mermaid記法で書いた図やチャートを描画するライブラリ「Pele」をXで紹介した。 — gihyo.jp / score: 60 (Mermaid描画軽量ライブラリPeleの紹介)</description>
-</item>
-<item>
-<title>スマートウォッチはもう出尽くした？ HUAWEI WATCH 6を着けたら考えが変わった</title>
-<link>https://www.gizmodo.jp/article/huawei-watch-6/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/huawei-watch-6/</guid>
-<pubDate>Wed, 21 Oct 2026 08:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>いったいどこまで便利になるの…！「新しいスマートウォッチが発売されました」と聞いても、もうそこまでトキメキはありません。画面がきれいになって、バッテリー時間が伸びて、あとはいくつかの新カラー。そんなトコでしょ？同じように感じている人、いると… — ギズモード・ジャパン / score: 30 (コンシュー向けスマートウォッチの新機能レビュー)</description>
-</item>
-<item>
-<title>Qwen3.8-Flash-Nextと競合するオープンモデル「Ornith-1.5-122B」が登場</title>
-<link>https://gigazine.net/news/20261021-ornith-1-5-122b/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261021-ornith-1-5-122b/</guid>
-<pubDate>Wed, 21 Oct 2026 07:49:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>AI研究組織のOrnithがAIモデル「Ornith-1.5-122B」を2026年10月20日に公開しました。同等規模のオープンモデルと比べて高性能であることがアピールされています。 続きを読む... — GIGAZINE / score: 65 (高性能なオープンAIモデルの登場ニュース)</description>
-</item>
-<item>
-<title>無料メーラー「Thunderbird」v158.0.1が公開 ～パスワード平文送信の脆弱性などを修正／</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2150017.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2150017.html</guid>
-<pubDate>Wed, 21 Oct 2026 07:46:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>オープンソースのメールソフト「Thunderbird」の最新版、v158.0.1が10月20日にリリースされた。本アップデートはセキュリティ修正が中心のマイナーアップデートとなっている。 — 窓の杜 / score: 85 (Thunderbirdの重要なセキュリティ脆弱性修正)</description>
-</item>
-<item>
-<title>個人事業主が App Store の有料アプリ契約を有効にするまで。Apple は組織を選べず、私は納税フォームを2つ出した</title>
-<link>https://zenn.dev/hk_work/articles/sole-proprietor-app-store-paid-apps-agreement</link>
-<guid isPermaLink="true">https://zenn.dev/hk_work/articles/sole-proprietor-app-store-paid-apps-agreement</guid>
-<pubDate>Wed, 21 Oct 2026 07:43:30 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>Flutter で作った蔵書管理アプリ「本棚（hondana）」を、個人事業主として App Store に出す準備をしています。2026年10月に開業届を出し、Apple と Google のアカウントを用意しました。 この記事は、その手続きで「思っていたのと違った」ところの記録です。個人事業主は Apple の「組織」を選べないこと、住所が公開される条件、有料アプリ契約が有効になるまでに納税フォームが2つ要ったこと、Google Play の個人アカウントだと住所が出ることを順に書きます。 hondana は、10月16日に App Store の審査へ再提出し、審査を通って公開され... — Zenn トレンド / score: 30 (個人開発者のアプリストア登録手続きの体験談)</description>
 </item>
 </channel>
 </rss>
