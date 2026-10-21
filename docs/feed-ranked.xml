@@ -4,8 +4,24 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 21 Oct 2026 12:13:54 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 14:10:54 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>[95] PHPが緊急アップデート「8.5.12」「8.4.27」「8.3.36」「8.2.35」をリリース</title>
+<link>https://gigazine.net/news/20261021-php-critical-vulnerabilities/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261021-php-critical-vulnerabilities/</guid>
+<pubDate>Wed, 21 Oct 2026 14:04:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>PHPが緊急アップデート「8.5.12」「8.4.27」「8.3.36」「8.2.35」をリリースしました。 続きを読む... — GIGAZINE / score: 95 (PHPの複数バージョンにおける緊急アップデート)</description>
+</item>
+<item>
+<title>[95] ニコニコやpixivなど各種ウェブサイトおよびアプリがPHPの緊急パッチに対応するべくメンテナンス入り</title>
+<link>https://gigazine.net/news/20261021-php-php2shell-maintenance/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261021-php-php2shell-maintenance/</guid>
+<pubDate>Wed, 21 Oct 2026 13:19:20 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>数多くのウェブサイトやアプリで使用されているプログラミング言語「PHP」に脆弱(ぜいじゃく)性が見つかり、日本時間の2026年10月21日23時にセキュリティ更新プログラムおよび詳細情報が公開されることがアナウンスされています。この緊急パッチに対応するべく多くのサイトがメンテナンス入りしています。 PHPでは深刻な... — はてなブックマーク テクノロジー / score: 95 (PHPの緊急脆弱性パッチ対応と広範な影響)</description>
+</item>
 <item>
 <title>[95] 2010年から存在するWi-Fiの欠陥でパスワードを知らなくてもルーターを乗っ取れるバグが発覚、数百万台が影響を受ける可能性</title>
 <link>https://gigazine.net/news/20261021-wpsplinter/</link>
@@ -95,6 +111,22 @@
 <description>JavaScriptランタイム「Deno」の開発元であるDeno LandとCloudflareは、Deno LandがCloudflareに合流すると発表しました。CloudflareによるDeno Landの買収と見られます（Deno ... — Publickey / score: 95 (Deno開発終了とCloudflare合流の重大なニュース)</description>
 </item>
 <item>
+<title>[90] PHPに重大欠陥 Webの7割で使用</title>
+<link>https://news.yahoo.co.jp/pickup/6599637?source=rss</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6599637?source=rss</guid>
+<pubDate>Wed, 21 Oct 2026 13:52:02 +0000</pubDate>
+<category>Yahoo!ニュース IT</category>
+<description> — Yahoo!ニュース IT / score: 90 (PHPの重大な欠陥と広範なWebサイトへの影響)</description>
+</item>
+<item>
+<title>[90] LiteLLMパッケージ 再侵害の概要と対策指針 - GMO Flatt Security Blog</title>
+<link>https://blog.flatt.tech/entry/litellm_2nd_compromise</link>
+<guid isPermaLink="true">https://blog.flatt.tech/entry/litellm_2nd_compromise</guid>
+<pubDate>Wed, 21 Oct 2026 12:37:30 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>2026年10月21日、PyPI パッケージ litellm に悪性コードが注入されました。2026年3月に発生した事案とは別の再侵害が発生しています。 注入された悪性コードは、Infostealer機能を持つマルウェアです。 本記事は、弊社が Takumi Guard の解析基盤をベースに観測＆分析した情報を踏まえ、日本のコミュニティに向けて、影... — はてなブックマーク テクノロジー / score: 90 (PyPIパッケージの深刻なサプライチェーン攻撃)</description>
+</item>
+<item>
 <title>[90] 2026-10-21, Version 26.12.1 (Current), @aduh95 prepared by @RafaelGSS</title>
 <link>https://github.com/nodejs/node/releases/tag/v26.12.1</link>
 <guid isPermaLink="true">https://github.com/nodejs/node/releases/tag/v26.12.1</guid>
@@ -157,14 +189,6 @@
 <pubDate>Tue, 20 Oct 2026 23:45:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Oracleは10月20日（現地時間、以下同）、四半期ごとの定例セキュリティアップデート（Critical Patch Update：CPU）を実施した。「Oracle Java SE」や「MySQL」、「Oracle VM VirtualBox」などの製品向けに、1,295件の新しいセキュリティパッチが提供されている。 — 窓の杜 / score: 90 (多数の製品を含む大規模なセキュリティパッチ)</description>
-</item>
-<item>
-<title>[90] 【セキュリティ ニュース】ウェブサーバ「nginx」に複数脆弱性 - 3件が「クリティカル」との評価も（1ページ目 / 全3ページ）：Security NEXT</title>
-<link>https://www.security-next.com/191645</link>
-<guid isPermaLink="true">https://www.security-next.com/191645</guid>
-<pubDate>Tue, 20 Oct 2026 09:15:55 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>ウェブサーバ「nginx」や関連製品に複数の脆弱性が判明した。サービス拒否やコード実行、認証の回避、機密情報の漏洩などにつながるおそれがある。 F5は現地時間2026年10月14日、定例外のセキュリティアドバイザリを公開し、「nginx」に関する脆弱性5件や、関連製品の脆弱性6件のCVEベースであわせて11件の脆弱性を明ら... — はてなブックマーク テクノロジー / score: 90 (nginxの複数脆弱性で重要度が高い)</description>
 </item>
 <item>
 <title>[90] Next.js Security Update for Upstream Vulnerabilities</title>
@@ -234,9 +258,9 @@
 <title>[85] MetaのAI「Muse」で共有した会話が第三者に丸見えになる問題が発覚、6800件以上の共有リンクが発見される</title>
 <link>https://gigazine.net/news/20261021-meta-muse-expose-user-secret/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261021-meta-muse-expose-user-secret/</guid>
-<pubDate>Wed, 21 Oct 2026 06:52:17 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>MetaのAIエージェント「Muse」で会話を共有すると、会話のタイトルを含むURLが外部から簡単に検索できる状態になっていたことが明らかになりました。Metaは報告を受けて会話の共有機能を一時停止しています。 GhostShares: A Shared Muse Chat Exposed Prep for a Confidential Call With a Frontier AI Lab Leader | Cl... — はてなブックマーク テクノロジー / score: 85 (MetaのAIにおける深刻なプライバシー漏洩)</description>
+<pubDate>Wed, 21 Oct 2026 06:50:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>MetaのAIエージェント「Muse」で会話を共有すると、会話のタイトルを含むURLが外部から簡単に検索できる状態になっていたことが明らかになりました。Metaは報告を受けて会話の共有機能を一時停止しています。 続きを読む... — GIGAZINE / score: 85 (MetaのAIにおける深刻なプライバシー漏洩)</description>
 </item>
 <item>
 <title>[85] 「カーセンサーnet」情報漏えいか</title>
@@ -255,12 +279,12 @@
 <description>Mozillaは10月20日（米国時間）、デスクトップ向け「Firefox」の最新版v158.0.1をリリースチャネルで公開した。以下の不具合に対処したマイナーアップデートとなっている。 — 窓の杜 / score: 85 (Firefoxの脆弱性修正と証明書ブロックのアップデート)</description>
 </item>
 <item>
-<title>[85] 認証局eMudhraの中間証明書、秘密鍵が「数ミリ秒」で復元可能な脆弱性　大手各社が緊急遮断</title>
-<link>https://www.itmedia.co.jp/news/article/2610/21/2000002444/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/21/2000002444/</guid>
-<pubDate>Wed, 21 Oct 2026 00:41:54 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>インドのデジタルトラストサービス企業eMudhraが運営する認証局（CA）の中間証明書8件について、署名に使う秘密鍵が第三者でも簡単に復元できる状態状態にあったと判明した。米Mozillaが10月20日（現地時間）に公式ブログで公表し、米Googleや米Cloudflareなども対応を明らかにした。 悪用されれば任意のWebサイトになり... — はてなブックマーク テクノロジー / score: 85 (認証局の秘密鍵復元可能な重大脆弱性)</description>
+<title>[85] Laravel の token guard 認証バイパス、表に無い 11 以下はどうなの？全タグのソースを確認してみた</title>
+<link>https://zenn.dev/nix/articles/236ceb8194a9c5</link>
+<guid isPermaLink="true">https://zenn.dev/nix/articles/236ceb8194a9c5</guid>
+<pubDate>Wed, 21 Oct 2026 00:52:36 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>はじめに セキュリティ関連対応に追われている @___nix___ です。 背景 2026/10/19 に Laravel からこんなアドバイザリが出ました。 https://github.com/laravel/framework/security/advisories/GHSA-f9x3-7vq9-cph6 MySQL / MariaDB 環境で token guard を使っていると、API トークンを知らなくても既存ユーザーとしてログインできてしまう、という Critical なやつです。 影響範囲は &lt; 12.68.0 と &lt; 13.29.0 で、修正版は... — Zenn トレンド / score: 85 (Laravelの認証バイパス脆弱性に関する検証)</description>
 </item>
 <item>
 <title>[85] ふるさとチョイス 445万件が流出</title>
@@ -389,6 +413,14 @@
 <pubDate>Thu, 08 Oct 2026 04:14:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Anthropicは10月7日、AIモデル「Claude Haiku 5.5」を発表した。 — gihyo.jp / score: 85 (Claude Haiku 5.5のリリースと性能・コスト詳細)</description>
+</item>
+<item>
+<title>[80] OpenAI models are coming to Google Cloud</title>
+<link>https://openai.com/index/openai-models-google-cloud</link>
+<guid isPermaLink="true">https://openai.com/index/openai-models-google-cloud</guid>
+<pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace. — OpenAI News / score: 80 (OpenAIモデルのGoogle Cloud提供開始)</description>
 </item>
 <item>
 <title>[80] Google Cloud expands model choice and flexibility, bringing OpenAI models to customers</title>
@@ -541,6 +573,14 @@
 <pubDate>Thu, 08 Oct 2026 05:43:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Microsoftは2026年10月7日、AIエージェント向けポリシー駆動型コンテナ「Microsoft Execution Containers」（MXC）の一般提供を開始したことを発表した。 — gihyo.jp / score: 80 (AIエージェント向けコンテナの一般提供開始)</description>
+</item>
+<item>
+<title>[75] Claude Mods: Flipping the Harness Inside Out</title>
+<link>https://www.latent.space/p/claude-mods</link>
+<guid isPermaLink="true">https://www.latent.space/p/claude-mods</guid>
+<pubDate>Wed, 21 Oct 2026 13:04:19 +0000</pubDate>
+<category>Latent Space</category>
+<description>Claude Mods is an early form of the Attention Interface. It flips the agent harness paradigm from the harness facing the machine, to the harness facing the human. — Latent Space / score: 75 (AIエージェントの新しいインターフェース概念)</description>
 </item>
 <item>
 <title>[75] Hardware-backed security at global scale: Confidential G4 with NVIDIA Blackwell is GA</title>
@@ -765,46 +805,6 @@
 <pubDate>Mon, 19 Oct 2026 06:25:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>蘭JetBrainsは10月15日（現地時間）、「Visual Studio Code」向けの拡張機能「Java and Kotlin by IntelliJ IDEA」がv1.0に到達したと発表した。8月からプレビューされていたが、今回が初の安定版となる。 — 窓の杜 / score: 75 (IntelliJのVS Code拡張がv1.0安定版に)</description>
-</item>
-<item>
-<title>[75] 性能とスピードをアップした「DeepSeek-V4.1-Flash-1017」登場、DeepSeekのSearch APIとFetch APIをすべてのユーザーに公開</title>
-<link>https://gihyo.jp/article/2026/10/deepseek-v4-1-flash-1017?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/10/deepseek-v4-1-flash-1017?utm_source=feed</guid>
-<pubDate>Mon, 19 Oct 2026 06:20:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>DeepSeekは2026年10月17日、9月に発表した軽量なマルチモーダルMoEモデル「DeepSeek-V4.1-Flash」のアップデート版となる「DeepSeek-V4.1-Flash-1017」を発表した。 — gihyo.jp / score: 75 (DeepSeekの新型モデルとAPI公開の速報)</description>
-</item>
-<item>
-<title>[75] Meta、オープンウェイトモデル「Muse Spark Open」を公開</title>
-<link>https://gihyo.jp/article/2026/10/muse-spark-open?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/10/muse-spark-open?utm_source=feed</guid>
-<pubDate>Fri, 16 Oct 2026 07:09:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Metaは2026年10月15日、オープンウェイトモデル「Muse Spark Open」を公開した。 — gihyo.jp / score: 75 (Metaによる新オープンウェイトモデルの公開)</description>
-</item>
-<item>
-<title>[75] AWS Lambda Durable Execution SDK for Go is now generally available</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-durable-go-sdk-support/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-durable-go-sdk-support/</guid>
-<pubDate>Thu, 15 Oct 2026 18:23:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Today, AWS announces the general availability of the AWS Lambda Durable Execution SDK for Go, enabling Go developers to build resilient, long-running workflows using Lambda durable functions. With this SDK, developers can create multi-step applications like infrastructure automation, deployment rollouts with approval gates, and pipelines that call AI models and pause for human review directly in their Go code without implementing custom progress tracking. Lambda durable functions extend Lambda's — AWS What's New / score: 75 (Go言語向けLambda耐久実行の一般提供開始)</description>
-</item>
-<item>
-<title>[75] Accelerating the search for antimicrobial peptides with Google Antigravity</title>
-<link>https://deepmind.google/blog/accelerating-antimicrobial-discovery/</link>
-<guid isPermaLink="true">https://deepmind.google/blog/accelerating-antimicrobial-discovery/</guid>
-<pubDate>Thu, 15 Oct 2026 16:08:03 +0000</pubDate>
-<category>Google DeepMind</category>
-<description>Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science. — Google DeepMind / score: 75 (科学技術・創薬におけるAI活用に関する重要成果)</description>
-</item>
-<item>
-<title>[75] [AINews] Modal’s $1B ARR, $16B Series D makes it NYC’s newest AI Infra Decacorn, 3x usage and 3x valuation in 5 months, 15x in 1 yr</title>
-<link>https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d</link>
-<guid isPermaLink="true">https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d</guid>
-<pubDate>Thu, 15 Oct 2026 10:08:08 +0000</pubDate>
-<category>Latent Space</category>
-<description>Today Modal switches from our infra unicorn category to infra decacorn . We last caught up with Modal CTO Akshat in July: On the last day of AIE NYC , Akshat had a lot to share about the kind of infrastructure agents are needing for “ millions of concurrent sandboxes, launch RDMA clusters securely and elastically for distributed training, train state of the art speculators for inference, build a whole new sandbox runtime, and more ”: As Erik notes in his fundraise post : We launched Sandboxes in — Latent Space / score: 75 (AIインフラ企業の巨額資金調達に関する動向)</description>
 </item>
 </channel>
 </rss>
