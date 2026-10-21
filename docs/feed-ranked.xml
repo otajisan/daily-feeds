@@ -4,15 +4,23 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 21 Oct 2026 02:14:30 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 04:11:07 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
-<title>[95] PHPに“緊急”の脆弱性2件、今夜23時に修正版公開　Webサイト管理者は要注意</title>
-<link>https://ascii.jp/elem/000/004/444/4444346/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/444/4444346/?rss</guid>
-<pubDate>Wed, 21 Oct 2026 00:40:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>PHPのセキュリティチームは10月20日、重大な脆弱性2件に対応するセキュリティ版を、10月21日午後11時（日本時間）に公開すると予告した。 — ASCII.jp / score: 95 (PHPの緊急脆弱性修正予告と対応注意)</description>
+<title>[95] PHPの重大な脆弱性「php2shell」（CVE-2026-109618、CVE-2026-109619）の概要と対応指針 - GMO Flatt Security Blog</title>
+<link>https://blog.flatt.tech/entry/php2shell</link>
+<guid isPermaLink="true">https://blog.flatt.tech/entry/php2shell</guid>
+<pubDate>Wed, 21 Oct 2026 02:15:43 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>PHP開発チームは2026年10月20日（日本時間で深夜）、重大な脆弱性2件の修正パッチを、2026年10月21日 23時（日本時間）にリリース予定と告知しました。両件のCVSS v4.0スコアは9.2とされています。詳細が公開された場合などには、パッチの公開が前倒しになる可能性もあります。 本脆弱性の発見に関与すると見られる研究... — はてなブックマーク テクノロジー / score: 95 (PHPの重大な脆弱性予告のため)</description>
+</item>
+<item>
+<title>[95] PHP、重大な脆弱性2件を修正へ。10月21日23時に公開予定</title>
+<link>https://gihyo.jp/article/2026/10/php-critical-security-release?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/10/php-critical-security-release?utm_source=feed</guid>
+<pubDate>Wed, 21 Oct 2026 01:14:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>PHPセキュリティチームは2026年10月20日、重大な脆弱性2件を修正するセキュリティリリースを予告した。公開は10月21日14時（UTC）、日本時間の同日23時を予定している。 — gihyo.jp / score: 95 (PHPの重大な脆弱性修正リリース予告)</description>
 </item>
 <item>
 <title>[95] eMudhra Intermediate CA Compromise</title>
@@ -55,28 +63,20 @@
 <description>JavaScriptランタイム「Deno」の開発元であるDeno LandとCloudflareは、Deno LandがCloudflareに合流すると発表しました。CloudflareによるDeno Landの買収と見られます（Deno ... — Publickey / score: 95 (Deno開発終了とCloudflare合流の重大なニュース)</description>
 </item>
 <item>
+<title>[90] カーセンサーなどに不正アクセス、最大370万件漏えいの可能性</title>
+<link>https://ascii.jp/elem/000/004/444/4444396/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/444/4444396/?rss</guid>
+<pubDate>Wed, 21 Oct 2026 02:45:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>リクルートは10月21日、中古車情報サイト「カーセンサーnet」と販売店向け業務支援サービス「C-MATCH」への不正アクセスにより、最大370万9551件の個人情報が漏えいした可能性があると発表した。 — ASCII.jp / score: 90 (大規模な不正アクセスと情報漏えい)</description>
+</item>
+<item>
 <title>[90] PHPに「緊急」レベルの脆弱性2件　修正版を日本時間21日深夜に公開へ、事前準備を呼び掛け</title>
 <link>https://www.itmedia.co.jp/news/article/2610/21/2000002446/</link>
 <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/21/2000002446/</guid>
 <pubDate>Wed, 21 Oct 2026 01:08:01 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>PHPの開発プロジェクトでセキュリティを担当するチームは10月20日（協定世界時）、2件の重大な脆弱性を修正するセキュリティアップデートを同日午後2時（日本時間の21日午後11時）に公開すると予告した。脆弱性の詳細や影響を受けるバージョン、修正版のバージョンは公開と同時に明らかにする。全てのPHPユーザーに対し... — はてなブックマーク テクノロジー / score: 90 (PHPの緊急脆弱性修正の事前告知)</description>
-</item>
-<item>
-<title>[90] GMO「お名前.com デスクトップクラウド」全プラン停止　約2万7000件に影響の可能性</title>
-<link>https://ascii.jp/elem/000/004/444/4444344/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/444/4444344/?rss</guid>
-<pubDate>Wed, 21 Oct 2026 00:35:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>GMOインターネットは10月21日、「お名前.com デスクトップクラウド」への第三者による不正アクセスを公表した。一部の利用者のサーバーに不正なプログラムが設置されており、影響の可能性があるサーバー数は2万6739件。被害拡大を防ぐため全プランを対象にサーバーを順次停止する。 — ASCII.jp / score: 90 (クラウドサービスの不正アクセスと全停止)</description>
-</item>
-<item>
-<title>[90] ふるさと納税サイト「ふるさとチョイス」不正アクセスで445万件の会員情報流出</title>
-<link>https://ascii.jp/elem/000/004/444/4444343/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/444/4444343/?rss</guid>
-<pubDate>Wed, 21 Oct 2026 00:30:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>トラストバンクは10月20日、ふるさと納税サイト「ふるさとチョイス」への不正アクセスにより、会員情報445万4097件の外部流出を確認したと発表した。 — ASCII.jp / score: 90 (大規模な不正アクセスと情報流出事案)</description>
 </item>
 <item>
 <title>[90] Oracle、今年最後の「CPU」を実施 ～Java、VirtualBox、MySQLなどで1,295件のパッチ／四半期に一度の大規模定例セキュリティアップデート</title>
@@ -93,14 +93,6 @@
 <pubDate>Tue, 20 Oct 2026 09:15:55 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>ウェブサーバ「nginx」や関連製品に複数の脆弱性が判明した。サービス拒否やコード実行、認証の回避、機密情報の漏洩などにつながるおそれがある。 F5は現地時間2026年10月14日、定例外のセキュリティアドバイザリを公開し、「nginx」に関する脆弱性5件や、関連製品の脆弱性6件のCVEベースであわせて11件の脆弱性を明ら... — はてなブックマーク テクノロジー / score: 90 (nginxの複数脆弱性で重要度が高い)</description>
-</item>
-<item>
-<title>[90] 「侵入経路塞いだが、バックドアから……」不正アクセス105時間の攻防、分単位で報告　防災メールのアルカディア</title>
-<link>https://www.itmedia.co.jp/news/article/2610/20/2000002426/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/20/2000002426/</guid>
-<pubDate>Tue, 20 Oct 2026 06:16:53 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>105時間にわたる攻防 侵入経路を塞いだ後もバックドアから…… 公表資料によると、攻撃者は不正アクセスを始めてから約10時間後、サービス間ログイン用のシークレットキーを含む設定ファイルを取得。総当たり攻撃を仕掛けて内部情報を取得した。 同社が不正アクセスを検知したのはその約7時間後。侵入経路を遮断したがバ... — はてなブックマーク テクノロジー / score: 90 (詳細な不正アクセスの攻防レポートでセキュリティ面で非常に有益)</description>
 </item>
 <item>
 <title>[90] Next.js Security Update for Upstream Vulnerabilities</title>
@@ -151,12 +143,36 @@
 <description>Tickets for AIE NYC are selling out soon! See you next week! see past AINews issues for subscriber discounts. Pour one out for Mistral, who shipped a decent Large 4 “Le Chonk” model on the new 3800 GB300 cluster funded by their recent Series D . But they were overshadowed by more mathematics results from OpenAI’s internal Navier-Stokes math model - published as a blogpost , repo , and tweet . The best compliment comes from their Navier-Stokes competitor from Anthropic, who despite his personal i — Latent Space / score: 90 (AI分野の極めて大きな数学的成果と発表)</description>
 </item>
 <item>
+<title>[85] 「カーセンサーnet」情報漏えいか</title>
+<link>https://news.yahoo.co.jp/pickup/6599567?source=rss</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6599567?source=rss</guid>
+<pubDate>Wed, 21 Oct 2026 03:06:11 +0000</pubDate>
+<category>Yahoo!ニュース IT</category>
+<description> — Yahoo!ニュース IT / score: 85 (大規模サービスにおける重大な情報漏えいの可能性)</description>
+</item>
+<item>
+<title>[85] 「Firefox 158.0.1」が公開、秘密鍵が漏洩した「eMudhra」の中間証明書をブロック／4件の脆弱性と5件の不具合に対処</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2149817.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2149817.html</guid>
+<pubDate>Wed, 21 Oct 2026 02:32:31 +0000</pubDate>
+<category>窓の杜</category>
+<description>Mozillaは10月20日（米国時間）、デスクトップ向け「Firefox」の最新版v158.0.1をリリースチャネルで公開した。以下の不具合に対処したマイナーアップデートとなっている。 — 窓の杜 / score: 85 (Firefoxの脆弱性修正と証明書ブロックのアップデート)</description>
+</item>
+<item>
 <title>[85] 米政府機関、中国DeepSeekのAI製品を使用禁止</title>
 <link>https://www.gizmodo.jp/article/trump-admin-bans-deepseek-from-federal-agencies/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/trump-admin-bans-deepseek-from-federal-agencies/</guid>
 <pubDate>Wed, 21 Oct 2026 01:30:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>っていうか、まだ使ってたんだ。2026年10月19日、米政府は中国の新興企業DeepSeek（ディープシーク）が開発した人工知能（AI）ツールの使用を禁止することを連邦政府機関に命じました。国土安全保障省は、国務省など政府機関のの民間部門に… — ギズモード・ジャパン / score: 85 (米政府による中国製AIツールの使用禁止措置)</description>
+</item>
+<item>
+<title>[85] Google Cloud障害で英国が混乱「ATMで引き出せない」「裁判延期」……ロンドン拠点の電源不具合、約8時間にわたり</title>
+<link>https://www.itmedia.co.jp/news/article/2610/21/2000002445/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/21/2000002445/</guid>
+<pubDate>Wed, 21 Oct 2026 01:08:45 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>米Googleは、クラウドサービス「Google Cloud」のロンドンリージョン「europe-west2」で「電源に関する事象」（power event）が起き、10月20日午前7時8分（英国時間、以下同）から午後3時までの7時間52分にわたり、複数のサービスに障害が起きたと明らかにした。 現地報道によると、この障害により、英国の複数の大手銀... — はてなブックマーク テクノロジー / score: 85 (大規模クラウド障害と社会的影響の実例)</description>
 </item>
 <item>
 <title>[85] 認証局eMudhraの中間証明書、秘密鍵が「数ミリ秒」で復元可能な脆弱性　大手各社が緊急遮断</title>
@@ -175,38 +191,6 @@
 <description>Here are the most important news items we have published in 2026 on PHP.net. The PHP security team would like to give advance notice of an upcoming security release. It is scheduled for Wednesday, 21 October 2026 at 14:00 UTC. It addresses two critical vulnerabilities, both rated CVSS v4.0 9.2. A... — はてなブックマーク テクノロジー / score: 85 (PHPのセキュリティリリース予告)</description>
 </item>
 <item>
-<title>[85] 不正アクセスによる情報漏洩に関するお詫びとご報告</title>
-<link>https://pingcap.co.jp/trust-hub/security/security-update-october-2026/</link>
-<guid isPermaLink="true">https://pingcap.co.jp/trust-hub/security/security-update-october-2026/</guid>
-<pubDate>Tue, 20 Oct 2026 19:16:45 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>2026年9月9日から10月7日（米国時間、以下同じ）にかけて、第三者が不正取得したアカウントの認証情報を使用し、PingCAPの社内システムへのアクセス、データの複製を取得し、日本国内で最大約5万件の個人情報が漏洩したことが判明しました。PingCAPは10月7日に本インシデントを認識し、同日中に影響を受けた認証情報の無... — はてなブックマーク テクノロジー / score: 85 (テック企業の不正アクセスによる情報漏洩)</description>
-</item>
-<item>
-<title>[85] AIペネトレーションテスト基盤「Cairn」の公開パネルから見えた攻撃活動についてまとめてみた - piyolog</title>
-<link>https://piyolog.hatenadiary.jp/entry/2026/10/20/205855</link>
-<guid isPermaLink="true">https://piyolog.hatenadiary.jp/entry/2026/10/20/205855</guid>
-<pubDate>Tue, 20 Oct 2026 12:01:49 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>2026年10月19日、セキュリティ企業のNorForgeは、公開状態のまま放置されていたAIペネトレーションテスト基盤Cairnの管理画面から、AIエージェントによる攻撃活動を観測したとするレポートを公表しました。ここでは関連する情報をまとめます。 Cairnとは何か Cairnはオープンソースのエージェント基盤で、開発元のREADME... — はてなブックマーク テクノロジー / score: 85 (AIペネトレーション基盤の公開放置と攻撃観測の重要インシデント)</description>
-</item>
-<item>
-<title>[85] ふるさと納税の「ふるさとチョイス」、会員情報445万件流出　寄附控除試算額も</title>
-<link>https://www.itmedia.co.jp/news/article/2610/20/2000002434/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/20/2000002434/</guid>
-<pubDate>Tue, 20 Oct 2026 11:19:27 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>ふるさと納税サイト「ふるさとチョイス」を運営するトラストバンクは10月20日、第三者による不正アクセスを受け、会員の氏名や住所、寄附金控除試算額などの個人情報445万4097件が外部に流出したと発表した。 — はてなブックマーク テクノロジー / score: 85 (ふるさとチョイスの多額個人情報流出)</description>
-</item>
-<item>
-<title>[85] ふるさとチョイス、不正アクセスによる寄附者様情報の外部流出に関するお詫びとお知らせ | NEWSROOM | 株式会社トラストバンク</title>
-<link>https://www.trustbank.co.jp/newsroom/newsrelease/news261020/</link>
-<guid isPermaLink="true">https://www.trustbank.co.jp/newsroom/newsrelease/news261020/</guid>
-<pubDate>Tue, 20 Oct 2026 10:59:09 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>この度、株式会社トラストバンク（本社：東京都港区、代表取締役社長兼CEO：大井 潤、以下当社）が運営する「ふるさとチョイス」において当社が管理する会員情報に対し、第三者による不正アクセスが行われ、会員登録いただいている寄附者様の個人情報が外部に流出したことが判明いたしました。 寄附者様ならびに関係者の... — はてなブックマーク テクノロジー / score: 85 (ふるさとチョイスでの大規模な個人情報流出)</description>
-</item>
-<item>
 <title>[85] ふるさとチョイス 445万件が流出</title>
 <link>https://news.yahoo.co.jp/pickup/6599501?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6599501?source=rss</guid>
@@ -221,14 +205,6 @@
 <pubDate>Tue, 20 Oct 2026 10:00:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>Linuxの生みの親であるリーナス・トーバルズ氏が2026年10月18日にLinuxカーネルの最新バージョン「Linux 7.3」をリリースしました。Linux 7.3ではAppleのバックアップ機能「Time Machine」への対応やCPU・メモリの管理効率の改善、ファイルシステムの機能拡張など、多数の変更が加えられています。 続きを読む... — GIGAZINE / score: 85 (Linuxカーネル最新版のメジャーリリース)</description>
-</item>
-<item>
-<title>[85] 「詐欺広告、クリックしなければ安全だよね！」←実は間違いでした</title>
-<link>https://www.gizmodo.jp/article/2610-zero-click-malvertising-spyware/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2610-zero-click-malvertising-spyware/</guid>
-<pubDate>Tue, 20 Oct 2026 10:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>クリックしなくても広告が表示されるだけでスパイウェアに感染する「ゼロクリック攻撃」の仕組みと被害実態を解説。サイバーセキュリティの最新脅威と対策を分かりやすくお伝えします。 — ギズモード・ジャパン / score: 85 (ゼロクリック攻撃の仕組みを解説する重要セキュリティ記事)</description>
 </item>
 <item>
 <title>[85] AWSの請求システムの不具合により顧客に兆ドル規模の見積額が表示される一方、自社のコストアラームは作動せず</title>
@@ -359,12 +335,28 @@
 <description>Anthropicは10月7日、AIモデル「Claude Haiku 5.5」を発表した。 — gihyo.jp / score: 85 (Claude Haiku 5.5のリリースと性能・コスト詳細)</description>
 </item>
 <item>
-<title>[80] わずか2週間でGitHubスター30万超　AIでリバースエンジニアリングする「REA」が話題</title>
-<link>https://ascii.jp/elem/000/004/444/4444350/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/444/4444350/?rss</guid>
-<pubDate>Wed, 21 Oct 2026 00:55:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>morluto氏がGitHubで公開しているAIエージェント向けのツール「REA（Reverse Engineer Anything）」が急速に人気を集めている。 — ASCII.jp / score: 80 (話題のリバースエンジニアリングAIツール)</description>
+<title>[80] フジ 番宣システムに不正アクセス</title>
+<link>https://news.yahoo.co.jp/pickup/6599561?source=rss</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6599561?source=rss</guid>
+<pubDate>Wed, 21 Oct 2026 02:32:33 +0000</pubDate>
+<category>Yahoo!ニュース IT</category>
+<description> — Yahoo!ニュース IT / score: 80 (放送局システムへの不正アクセスに関するセキュリティ事案)</description>
+</item>
+<item>
+<title>[80] フジテレビに不正アクセス、メディア関係者の個人情報最大730件漏えいか　番組宣伝システムが被害</title>
+<link>https://www.itmedia.co.jp/news/article/2610/21/2000002449/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/21/2000002449/</guid>
+<pubDate>Wed, 21 Oct 2026 02:27:41 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>フジテレビは10月20日、同社の番組宣伝システムが19日夜に第三者による不正アクセスを受けたと発表した。メディア関係者の氏名や会社名、メールアドレスなどの個人情報が外部に漏えいした可能性があり、対象は20日時点で最大730件とみられる。 システムに登録のあった資料を含め、影響範囲などの詳細は確認を進めている... — はてなブックマーク テクノロジー / score: 80 (メディア企業での不正アクセス・情報漏洩)</description>
+</item>
+<item>
+<title>[80] マネックス証券、新規口座開設を一時停止　委託先システムに不審なアクセスの形跡（CNET Japan） - Yahoo!ニュース</title>
+<link>https://news.yahoo.co.jp/articles/e93f70c205814555703e7773c33968e215a1aa89</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/articles/e93f70c205814555703e7773c33968e215a1aa89</guid>
+<pubDate>Wed, 21 Oct 2026 00:48:56 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>マネックス証券のアプリアイコン（編集部提供） マネックス証券は10月20日、ウェブサイトとアプリで「証券総合取引口座」の新規開設受付を一時停止していると発表した。口座開設に使う外部委託先のシステムで、第三者がアクセスを試みた形跡が見つかったため。顧客情報を保護するための予防措置としている。 受付の停止... — はてなブックマーク テクノロジー / score: 80 (証券会社のシステム不正アクセス事案)</description>
 </item>
 <item>
 <title>[80] Linux 7.３リリース ―新しいサンドボックス技術を導入、次世代プラットフォームへの対応強化</title>
@@ -413,14 +405,6 @@
 <pubDate>Tue, 20 Oct 2026 13:45:14 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>岩井コスモ証券（大阪市）のインターネット取引のシステムがサイバー攻撃を受け、顧客が意図していない売買が成立していた。同社と、システムの運用と保守を受託しているトレードワークス（東京都）が20日、明ら… — はてなブックマーク テクノロジー / score: 80 (証券会社へのサイバー攻撃と実被害)</description>
-</item>
-<item>
-<title>[80] ウェブ制作会社で流出恐れ　不正アクセスで全顧客情報 | NEWSjp</title>
-<link>https://news.jp/i/1485170802670027689</link>
-<guid isPermaLink="true">https://news.jp/i/1485170802670027689</guid>
-<pubDate>Tue, 20 Oct 2026 09:54:22 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>プログラミング知識がなくてもウェブサイトを制作できるサービスを提供する「Studio」（東京都）は20日までに、外部からの不正アクセスを受け、全ての顧客の個人情報が流出した可能性があると発表した。件数は調査中としている。 流出した可能性があるのは、ユーザー名やメールアドレス、パスワードのほか、外部サービス... — はてなブックマーク テクノロジー / score: 80 (Studioの不正アクセスと顧客情報流出)</description>
 </item>
 <item>
 <title>[80] 80社サイバー攻撃 中国語AI悪用か</title>
@@ -543,6 +527,22 @@
 <description>Microsoftは2026年10月7日、AIエージェント向けポリシー駆動型コンテナ「Microsoft Execution Containers」（MXC）の一般提供を開始したことを発表した。 — gihyo.jp / score: 80 (AIエージェント向けコンテナの一般提供開始)</description>
 </item>
 <item>
+<title>[75] 「Google Chrome 156」安定版リリース、CSSだけでランダムな配置が可能に＆IndexedDBの保存方式がSQLiteベースに変更</title>
+<link>https://gigazine.net/news/20261021-google-chrome-156/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261021-google-chrome-156/</guid>
+<pubDate>Wed, 21 Oct 2026 03:40:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>ウェブブラウザ「Google Chrome」の最新安定版であるバージョン156がリリースされました。CSSだけでランダムな数値を生成できる機能や、ページ遷移を開始した要素を特定する機能が追加されたほか、IndexedDBの内部実装がSQLiteベースに変更され、JavaScriptモジュールの読み込み失敗時に再試行できるようになるなどの改善が行われています。 続きを読む... — GIGAZINE / score: 75 (Chrome安定版リリースとIndexedDBのSQLite移行)</description>
+</item>
+<item>
+<title>[75] AI が書き、レビューし、QA する開発で、私は「監督」の役割を考え始めた - LayerX エンジニアブログ</title>
+<link>https://tech.layerx.co.jp/entry/engineer-as-director</link>
+<guid isPermaLink="true">https://tech.layerx.co.jp/entry/engineer-as-director</guid>
+<pubDate>Wed, 21 Oct 2026 02:13:26 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>AI が書いたコードを、最近めっきり読まなくなった。 1 日に 13 本くらい PR（Pull Request）が出る昨今の私の開発プロセスでは、全部コードを読んでいたら人間の工程で詰まってしまう。だから、チームのレビューとその後の QA プロセスは残したまま、私はコードを読むのをやめた。 コードを読まなくなってしばらく経っ... — はてなブックマーク テクノロジー / score: 75 (AI時代の開発プロセス変革の体験談)</description>
+</item>
+<item>
 <title>[75] DeepSeekがAI推論システム「DeepInfer」を公開、DeepSeekの本番サービスで実際に使われているシステムのオープンソース版</title>
 <link>https://gigazine.net/news/20261021-deepseek-deepinfer-recipe/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261021-deepseek-deepinfer-recipe/</guid>
@@ -573,14 +573,6 @@
 <pubDate>Tue, 20 Oct 2026 20:35:51 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>国土交通省などは、国の省エネ住宅に関する補助金を受け付けていた大手広告会社が不正アクセスを受けて、申請などを行った事業者、2万3000人あまりの個人情報が漏えいしたおそれがあると発表しました。 国… — はてなブックマーク テクノロジー / score: 75 (省エネ住宅事業の大規模な情報漏えい)</description>
-</item>
-<item>
-<title>[75] Announcing TypeScript 7.1 Beta - TypeScript</title>
-<link>https://devblogs.microsoft.com/typescript/announcing-typescript-7-1-beta/</link>
-<guid isPermaLink="true">https://devblogs.microsoft.com/typescript/announcing-typescript-7-1-beta/</guid>
-<pubDate>Tue, 20 Oct 2026 18:25:26 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Today we’re excited to announce the beta release of TypeScript 7.1! npm install -D typescript@beta Let’s take a look at what’s new in TypeScript 7.1! Support for Import Attributes in Ambient Modules Import attributes are metadata that are attached to import statements. Typically, they’re meant to... — はてなブックマーク テクノロジー / score: 75 (TypeScriptのメジャーβ版リリース)</description>
 </item>
 <item>
 <title>[75] Claude Opus 5.5 and Claude Sonnet 5.5 are now available in Google Antigravity</title>
@@ -684,7 +676,7 @@
 <guid isPermaLink="true">https://platform.claude.com/docs/en/release-notes/overview#october-20-2026-2</guid>
 <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
 <category>Claude リリースノート</category>
-<description>Inference hooks are out of beta for Claude Enterprise organizations. — Claude リリースノート / score: 75 (Claudeプラットフォームのマネージドエージェント更新)</description>
+<description>Inference hooks are out of beta for Claude Enterprise organizations. We've launched user profiles , so you can tell Anthropic which of your end customers each API request is for. If you operate a platform or gateway, or resell API access, a safety enforcement action can then apply to one end customer instead of your whole organization. The SDK and the ant CLI support the new /v1/user_profiles endpoints . We've added organization webhooks to the Admin API , in beta with the webhooks-2026-10-07 be — Claude リリースノート / score: 75 (Claudeプラットフォームのマネージドエージェント更新)</description>
 </item>
 <item>
 <title>[75] Reflect, Transform, Accelerate: Bringing GPU Computing to Java</title>
@@ -701,14 +693,6 @@
 <pubDate>Mon, 19 Oct 2026 22:50:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>「Microsoft Edge 155」へアップグレードした一部の環境で、「Edge」を起動できなくなる問題が発生しているとのこと。米Microsoftが自社のドキュメントサイトで明らかにした。この問題はアップデートや再起動をきっかけに発生することがあり、既存のブラウザープロファイルにも影響を及ぼす。 — 窓の杜 / score: 75 (Edgeブラウザの起動不良と緊急のサービス巻き戻し対応)</description>
-</item>
-<item>
-<title>[75] Apple、10月28日に米ロサンゼルスでイベントを開催することを正式発表 ｰ OLED搭載｢MacBook Pro｣や｢iPad mini｣などを披露か</title>
-<link>https://taisy0.com/2026/10/20/229126.html</link>
-<guid isPermaLink="true">https://taisy0.com/2026/10/20/229126.html</guid>
-<pubDate>Mon, 19 Oct 2026 16:40:36 +0000</pubDate>
-<category>気になる、記になる…</category>
-<description>Appleが現地時間10月28日に米ロサンゼルスでイベント「Pro and Tell（Proの晴れ舞台。）」を開催することを正式に発表しました。 これに合わせてAppleのグレッグ・ジョズウィアック氏も何らかの新製品を来 […] — 気になる、記になる… / score: 75 (Appleのハードウェア発表イベントに関する重要な公式発表)</description>
 </item>
 <item>
 <title>[75] AWS Transform、Azure Functions用のコードをAWS Lambda用に変換など、Microsoft AzureからAWSへの移行に対応</title>
@@ -805,6 +789,22 @@
 <pubDate>Wed, 14 Oct 2026 10:30:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Amazon Web Services（AWS）は2026年10月12日、WebアプリケーションをLambda上で動かす新しい実行方式「AWS Lambda Web Functions」の提供開始を発表した。 — gihyo.jp / score: 75 (AWS Lambda Web Functionsの提供開始に関する速報)</description>
+</item>
+<item>
+<title>[75] How Third Moment Research runs 10,000 agents for 36+ hours</title>
+<link>https://openai.com/index/third-moment-research</link>
+<guid isPermaLink="true">https://openai.com/index/third-moment-research</guid>
+<pubDate>Wed, 14 Oct 2026 07:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use. — OpenAI News / score: 75 (大規模AIエージェントの運用事例に関する技術報告)</description>
+</item>
+<item>
+<title>[75] OpenCode 2.0、ターミナル・Web・デスクトップでセッション共有をデフォルトに ——レビューやテストをバックグラウンドで実行</title>
+<link>https://gihyo.jp/article/2026/10/opencode-2.0?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/10/opencode-2.0?utm_source=feed</guid>
+<pubDate>Wed, 14 Oct 2026 05:57:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Anomalyは2026年10月12日、オープンソースのAIコーディングエージェント「OpenCode 2.0」の主な変更点を公式ブログで紹介した。 — gihyo.jp / score: 75 (AIコーディングエージェントのメジャー更新)</description>
 </item>
 </channel>
 </rss>
