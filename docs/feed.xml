@@ -4,15 +4,135 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 21 Oct 2026 14:10:54 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 16:10:29 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.</title>
+<link>https://huggingface.co/blog/amazon/profiling-torchneuron-part-1-system-level-profilin</link>
+<guid isPermaLink="true">https://huggingface.co/blog/amazon/profiling-torchneuron-part-1-system-level-profilin</guid>
+<pubDate>Wed, 21 Oct 2026 16:04:43 +0000</pubDate>
+<category>Hugging Face Blog</category>
+<description> — Hugging Face Blog / score: 50 (AWS TrainiumにおけるPyTorchのシステムプロファイリング)</description>
+</item>
+<item>
+<title>BigQuery ObjectRef now GA: Build multimodal data platforms for conversational analytics entirely in SQL</title>
+<link>https://cloud.google.com/blog/products/data-analytics/analyze-unstructured-data-in-bigquery-with-objectref/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/data-analytics/analyze-unstructured-data-in-bigquery-with-objectref/</guid>
+<pubDate>Wed, 21 Oct 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>For data science, data engineering, and machine learning teams, unlocking the value of unstructured data, such as images, videos, audio, and documents, has historically meant managing siloed data pipelines for structured and unstructured data, and for analytics and AI/ML use cases. Even when files remain in Cloud Storage, running inference requires teams to orchestrate external machine learning workloads, only to face the complex, brittle challenge of stitching those structured inference outputs — Google Cloud Blog / score: 65 (BigQuery ObjectRefのGAとマルチモーダルデータ基盤)</description>
+</item>
+<item>
+<title>ZenteiQ scales batch inference 4x with GKE Inference Gateway powered by llm-d</title>
+<link>https://cloud.google.com/blog/products/containers-kubernetes/zenteiq-scales-physical-ai-inference-4x-with-gke-and-llm-d/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/containers-kubernetes/zenteiq-scales-physical-ai-inference-4x-with-gke-and-llm-d/</guid>
+<pubDate>Wed, 21 Oct 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Today we hear from ZenteiQ , an artificial intelligence startup spun out of the Indian Institute of Science (IISc) and selected under the IndiaAI Mission to build sovereign scientific foundation models from the ground up. To pre-train models that understand physical laws, governing equations, and numerical solvers, ZenteiQ designed and built a large-scale batch synthetic data-generation pipeline that runs across multiple model families and feeds verified datasets into training runs. Google Kuber — Google Cloud Blog / score: 60 (GKEを用いたAIバッチ推論の事例発表)</description>
+</item>
+<item>
+<title>iPhone Duoのチタン供給強化〜Appleが3年で最大1億ドル</title>
+<link>https://iphone-mania.jp/iphone18-607695/</link>
+<guid isPermaLink="true">https://iphone-mania.jp/iphone18-607695/</guid>
+<pubDate>Wed, 21 Oct 2026 15:49:28 +0000</pubDate>
+<category>iPhone Mania</category>
+<description>Appleは2026年10月20日、米ペンシルベニア州のチタンメーカーPerryman Companyと提携し、iPhone Duoなどに使うチタンを同社が供給すると発表しました。Appleは今後3年間で最大1億ドルを投 […] — iPhone Mania / score: 35 (Appleのハードウェア向けサプライチェーン強化)</description>
+</item>
+<item>
+<title>Cloudflare、TypeScriptをRustに移植した「tsrs」を発表。TypeScript 7より最大で70％少ないメモリで8倍速。今後、LSPなどTypeScriptの全機能をサポート予定</title>
+<link>https://www.publickey1.jp/blog/26/cloudflaretypescriptrusttsrstypescript_7708lsptypescript.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/cloudflaretypescriptrusttsrstypescript_7708lsptypescript.html</guid>
+<pubDate>Wed, 21 Oct 2026 15:42:36 +0000</pubDate>
+<category>Publickey</category>
+<description>Cloudflareは、TypeScriptをRustに移植した「tsrs」を発表しました。 下記は、Cloudflareに買収されたVoidZeroによるtsrsに関するポストです。VoidZeroもこのtsrsの開発に関わっています。 ... — Publickey / score: 85 (TypeScriptのRust製処理系で大きな性能向上のため)</description>
+</item>
+<item>
+<title>PHPの重大脆弱性「PHP2Shell」はセキュリティ企業のCalifとWizがAIを用いて発見しOpenAIの枠組みを使って対策したことが判明</title>
+<link>https://gigazine.net/news/20261022-php2shell-wiz-openai-calif/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261022-php2shell-wiz-openai-calif/</guid>
+<pubDate>Wed, 21 Oct 2026 15:19:11 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>プログラミング言語のPHPに「PHP2Shell」と呼ばれる重大な脆弱性が見つかり、緊急アップデートがリリースされました。「PHP2Shell」の2つの脆弱性は、セキュリティ企業のCalifとWizがそれぞれ独立して2026年8月に発見していたことが報告されています。 PHP2Shell — AI uncovers critical vulnerabilities in the backbon... — はてなブックマーク テクノロジー / score: 95 (AIを活用して発見されたPHPの重大脆弱性に関する背景)</description>
+</item>
+<item>
+<title>Google、｢Pixel 9｣シリーズ向け緊急SOS機能の無料提供期間を1年延長（日本では未提供）</title>
+<link>https://taisy0.com/2026/10/22/229231.html</link>
+<guid isPermaLink="true">https://taisy0.com/2026/10/22/229231.html</guid>
+<pubDate>Wed, 21 Oct 2026 15:17:07 +0000</pubDate>
+<category>気になる、記になる…</category>
+<description>PCMagによると、Googleが「Pixel 9」シリーズ向けの衛星SOSの無料期間を1年延長したことが分かりました。 衛星SOS機能は、緊急事態が発生し、Wi-Fi にもモバイル ネットワークにも接続できない場合に衛 […] — 気になる、記になる… / score: 25 (Pixelシリーズの衛星SOS無料期間延長)</description>
+</item>
+<item>
+<title>Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster</title>
+<link>https://huggingface.co/blog/ibm-granite/granite-speech-5</link>
+<guid isPermaLink="true">https://huggingface.co/blog/ibm-granite/granite-speech-5</guid>
+<pubDate>Wed, 21 Oct 2026 14:58:18 +0000</pubDate>
+<category>Hugging Face Blog</category>
+<description> — Hugging Face Blog / score: 55 (音声認識・翻訳モデルGranite Speech 5.0の発表)</description>
+</item>
+<item>
+<title>｢iPhone Duo｣、来週リリース見込みの｢iOS 27.2｣でApple Pencilに対応へ</title>
+<link>https://taisy0.com/2026/10/21/229229.html</link>
+<guid isPermaLink="true">https://taisy0.com/2026/10/21/229229.html</guid>
+<pubDate>Wed, 21 Oct 2026 14:58:02 +0000</pubDate>
+<category>気になる、記になる…</category>
+<description>Appleは「iPhone Duo」のApple Pencil対応は”年内”と案内していますが、思っていたよりも早く実現するようです。 これはMax Weinbach氏が明らかにしたもので、先日に […] — 気になる、記になる… / score: 30 (新デバイスのOSアップデート対応に関する噂)</description>
+</item>
+<item>
+<title>Today's PHP Security Release, and How We're Strengthening PHP Security</title>
+<link>https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/</link>
+<guid isPermaLink="true">https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/</guid>
+<pubDate>Wed, 21 Oct 2026 14:53:13 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Earlier today, the PHP project released PHP 8.5.12, 8.4.27, 8.3.36, and 8.2.35. These releases fix two critical vulnerabilities that, under the right conditions, allow an unauthenticated attacker to execute code on servers running PHP. If you run PHP, it is imperative that you update now. The ann... — はてなブックマーク テクノロジー / score: 95 (PHPの複数バージョンにおける重大脆弱性の修正リリース)</description>
+</item>
+<item>
+<title>Apple、米国などでは発売日に｢iPhone Duo｣の店頭販売を実施へ ｰ ただ、在庫は限定的</title>
+<link>https://taisy0.com/2026/10/21/229227.html</link>
+<guid isPermaLink="true">https://taisy0.com/2026/10/21/229227.html</guid>
+<pubDate>Wed, 21 Oct 2026 14:46:43 +0000</pubDate>
+<category>気になる、記になる…</category>
+<description>日本と韓国では10月23日の発売日も含めたしばらくの間、「iPhone Duo」は直営店では予約なしで購入出来ないことが案内されていますが、米国などの直営店では10月23日に限定数ながら予約なしで来店する顧客向けに販売が […] — 気になる、記になる… / score: 20 (新型iPhoneの店頭在庫・販売に関する話題)</description>
+</item>
+<item>
+<title>「PHP」の“致命的”な脆弱性2件が修正、ただちにアップデートを／認証なしでリモートからコード実行、v8.5.12/v8.4.27/v8.3.36/v8.2.35が公開</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2150167.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2150167.html</guid>
+<pubDate>Wed, 21 Oct 2026 14:26:37 +0000</pubDate>
+<category>窓の杜</category>
+<description>スクリプト言語「PHP」の開発チームは10月21日（協定世界時）、「PHP」のセキュリティアップデートを実施した。以下のバージョンが利用可能で、すべての利用者にただちにアップデートするよう強く呼びかけられている。 — 窓の杜 / score: 95 (窓の杜によるPHPの致命的脆弱性と即時アプデの呼びかけ)</description>
+</item>
+<item>
+<title>[security] Update to 8.5.12, 8.4.27, 8.3.36, 8.2.35 by jnoordsij · Pull Request #1694 · docker-library/php</title>
+<link>https://github.com/docker-library/php/pull/1694</link>
+<guid isPermaLink="true">https://github.com/docker-library/php/pull/1694</guid>
+<pubDate>Wed, 21 Oct 2026 14:14:17 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert — はてなブックマーク テクノロジー / score: 80 (Docker公式PHPイメージのセキュリティアップデート)</description>
+</item>
 <item>
 <title>PHPが緊急アップデート「8.5.12」「8.4.27」「8.3.36」「8.2.35」をリリース</title>
 <link>https://gigazine.net/news/20261021-php-critical-vulnerabilities/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261021-php-critical-vulnerabilities/</guid>
-<pubDate>Wed, 21 Oct 2026 14:04:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>PHPが緊急アップデート「8.5.12」「8.4.27」「8.3.36」「8.2.35」をリリースしました。 続きを読む... — GIGAZINE / score: 95 (PHPの複数バージョンにおける緊急アップデート)</description>
+<pubDate>Wed, 21 Oct 2026 14:14:02 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>PHPが緊急アップデート「8.5.12」「8.4.27」「8.3.36」「8.2.35」をリリースしました。 Security advisory: Critical remote code execution vulnerabilities, update now | PHP https://www.php.net/index.php#2026-10-21-5 Security advisory: Critical remote code execution vulnerabilities, update now | PHP: New... — はてなブックマーク テクノロジー / score: 95 (PHPの複数バージョンにおける緊急アップデート)</description>
+</item>
+<item>
+<title>【PHP脆弱性php2shell】パッチは21:59に公開済み。「23:15から乗っ取り」「15分でAIが攻撃コード？」は本当か、自分のVPSのログで検証（CVE-2026-109618／109619）：秋山大志のそれとりあえず作ってみようか。：オルタナティブ・ブログ</title>
+<link>https://blogs.itmedia.co.jp/agile/2026/10/php2shell_cve_2026_109618_panic.html</link>
+<guid isPermaLink="true">https://blogs.itmedia.co.jp/agile/2026/10/php2shell_cve_2026_109618_panic.html</guid>
+<pubDate>Wed, 21 Oct 2026 14:07:21 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>【PHP脆弱性php2shell】パッチは21:59に公開済み。「23:15から乗っ取り」「15分でAIが攻撃コード？」は本当か、自分のVPSのログで検証（CVE-2026-109618／109619） PHPの重大な脆弱性で、タイムラインが大騒ぎです。 震源のひとつが、「23時にパッチが公開されたら、それをAIで解析して攻撃コードを作り、23時15分以降に... — はてなブックマーク テクノロジー / score: 95 (PHPの重大な脆弱性php2shellに関する詳細な検証)</description>
+</item>
+<item>
+<title>Responding to core PHP vulnerabilities CVE-2026-109618 and CVE-2026-109619</title>
+<link>https://cloud.google.com/blog/products/identity-security/responding-to-core-php-vulnerabilities-cve-2026-109618-cve-2026-109619/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/identity-security/responding-to-core-php-vulnerabilities-cve-2026-109618-cve-2026-109619/</guid>
+<pubDate>Wed, 21 Oct 2026 14:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>PHP and Wiz Research disclosed today two critical vulnerabilities in the core PHP language runtime that can expose applications to unauthenticated remote code execution and memory disclosure. Wiz used a mix of models to identify and help remediate these vulnerabilities. Notably, Gemini 4 Argon made an invaluable contribution to finding the vulnerability, exploit development, attack detection, and validation of the patch. While Google Cloud itself is not vulnerable, users of PHP running on Google — Google Cloud Blog / score: 95 (PHPの深刻な脆弱性とRCEへの対応)</description>
 </item>
 <item>
 <title>【ネタバレ注意】iPhone Duoは全体が包まれている。開封動画が早くも公開</title>
@@ -31,12 +151,60 @@
 <description>2026年5月12日の記事を編集して再掲載しています。いつの世代も、昔に憧れる部分ってありますよね。NBCニュースの調査で、Z世代と呼ばれる18歳〜29歳のうち、80％が「アメリカは間違った方向に進んでいる」と答え、76％がトランプ大統領の… — ギズモード・ジャパン / score: 10 (Z世代の意識調査に関する一般ニュース)</description>
 </item>
 <item>
+<title>PHP 8.5.12 released with security fixes | The Dev Dispatch</title>
+<link>https://php-net.pro/en/news/php-8-5-12-released-with-security-fixes</link>
+<guid isPermaLink="true">https://php-net.pro/en/news/php-8-5-12-released-with-security-fixes</guid>
+<pubDate>Wed, 21 Oct 2026 13:59:53 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>The PHP project has released PHP 8.5.12: 90 fixes across 29 components of the 8.5 branch. The PHP project has released PHP 8.5.12, a maintenance update for the 8.5 branch. The release delivers 90 bug fixes across 29 components — among them Core, BCMath, BZ2, CLI, DOM, FFI … — and keeps the branch... — はてなブックマーク テクノロジー / score: 90 (PHP 8.5.12のセキュリティアップデート公開)</description>
+</item>
+<item>
+<title>php2shell by Calif Research</title>
+<link>https://calif.io/php2shell/</link>
+<guid isPermaLink="true">https://calif.io/php2shell/</guid>
+<pubDate>Wed, 21 Oct 2026 13:58:21 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>The year was 2004. The iPhone was yet to be invented and our very own Stefan Esser was still the PHP security guy. Read the scene2004. Stefan searches for forbidden knowledge and discovers an ancient PHP artifact. “Are you sure this is safe?” he asks. “I am certain,” comes the reply. Suspicious, ... — はてなブックマーク テクノロジー / score: 85 (Calif Researchによるphp2shellのレポート)</description>
+</item>
+<item>
+<title>PHP2Shell: AI uncovers critical RCE vulnerabilities affecting 70% of the Internet | Wiz Blog</title>
+<link>https://www.wiz.io/blog/php2shell-php-rce</link>
+<guid isPermaLink="true">https://www.wiz.io/blog/php2shell-php-rce</guid>
+<pubDate>Wed, 21 Oct 2026 13:58:05 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>PHP2Shell: AI uncovers critical RCE vulnerabilities affecting 70% of the InternetCore PHP engine flaws enable remote code execution and Heartbleed-style memory disclosure across the web. Executive SummaryWiz Research uncovered multiple critical vulnerabilities in core PHP, a popular general-purpo... — はてなブックマーク テクノロジー / score: 95 (WizによるPHP2Shell脆弱性の詳細な解説)</description>
+</item>
+<item>
+<title>RCE via OOM corruption</title>
+<link>https://github.com/php/php-src/security/advisories/GHSA-w8hw-w9fx-j79w</link>
+<guid isPermaLink="true">https://github.com/php/php-src/security/advisories/GHSA-w8hw-w9fx-j79w</guid>
+<pubDate>Wed, 21 Oct 2026 13:52:33 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Summary PHP uses longjmp() for out-of-memory (OOM) errors to exit the current context and abort handling of the request. In some contexts, request memory is temporarily reachable before it is fully initialized. If any allocation fails at that point, PHP does not properly account for the early exi... — はてなブックマーク テクノロジー / score: 85 (OOMに起因するPHPのリモートコード実行脆弱性の詳細)</description>
+</item>
+<item>
 <title>PHPに重大欠陥 Webの7割で使用</title>
 <link>https://news.yahoo.co.jp/pickup/6599637?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6599637?source=rss</guid>
 <pubDate>Wed, 21 Oct 2026 13:52:02 +0000</pubDate>
 <category>Yahoo!ニュース IT</category>
 <description> — Yahoo!ニュース IT / score: 90 (PHPの重大な欠陥と広範なWebサイトへの影響)</description>
+</item>
+<item>
+<title>v3.13.17</title>
+<link>https://github.com/python/cpython/releases/tag/v3.13.17</link>
+<guid isPermaLink="true">https://github.com/python/cpython/releases/tag/v3.13.17</guid>
+<pubDate>Wed, 21 Oct 2026 13:48:20 +0000</pubDate>
+<category>CPython リリース</category>
+<description>Python 3.13.17 — CPython リリース / score: 70 (Python 3.13のメンテナンスリリース)</description>
+</item>
+<item>
+<title>情報処理推進機構“PHPでぜい弱性確認 速やかな対応を” | NHKニュース</title>
+<link>https://news.web.nhk/newsweb/na/nd-20261021de63209</link>
+<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261021de63209</guid>
+<pubDate>Wed, 21 Oct 2026 13:40:39 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>ウェブサイトなどに広く使われている「PHP」と呼ばれるプログラミング言語に重大なぜい弱性が見つかったことを受けて、独立行政法人の情報処理推進機構は、利用している企業などに対して速やかに対応するよう呼び… — はてなブックマーク テクノロジー / score: 90 (IPAによるPHP脆弱性への迅速な注意喚起)</description>
 </item>
 <item>
 <title>1人2台まで！ Apple公式がiPhone Duoに購入制限</title>
@@ -111,6 +279,14 @@
 <description>たしかに、256GBで36万4800円という価格は高価すぎるとは思いますが、それでも2008年にiPhone 3Gを発売日に表参道のソフトバンクに行列して買って以来、毎年購入し続けている身としては、ここで引き下がるわけにはいきません。そんな… — ギズモード・ジャパン / score: 25 (新型iPhoneのレビュー記事)</description>
 </item>
 <item>
+<title>大阪公立大のシステム障害、NECの再委託先へのサイバー攻撃が原因：朝日新聞</title>
+<link>https://www.asahi.com/sp/articles/ASVBP15NCVBPPTIL00MM.html</link>
+<guid isPermaLink="true">https://www.asahi.com/sp/articles/ASVBP15NCVBPPTIL00MM.html</guid>
+<pubDate>Wed, 21 Oct 2026 12:53:20 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>大阪公立大学は21日、今月2日に発生したシステム障害について、システムの保守と運用を委託しているNECの再委託先の事業者がサイバー攻撃を受けたことが原因だと、発表した。■大阪大でも個人情報7万8千人… — はてなブックマーク テクノロジー / score: 60 (大学のシステム障害とサプライチェーン攻撃の事例)</description>
+</item>
+<item>
 <title>NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability</title>
 <link>https://huggingface.co/blog/nvidia/kumo-forecast</link>
 <guid isPermaLink="true">https://huggingface.co/blog/nvidia/kumo-forecast</guid>
@@ -159,20 +335,28 @@
 <description>中古ゲーム機の需要が高まる中、Xbox公式が実施する買取キャンペーンの背景や市場の動向を解説します。 — ギズモード・ジャパン / score: 20 (ゲーム機市場の動向に関する話題)</description>
 </item>
 <item>
+<title>2010年から存在するWi-Fiの欠陥でパスワードを知らなくてもルーターを乗っ取れるバグが発覚、数百万台が影響を受ける可能性</title>
+<link>https://gigazine.net/news/20261021-wpsplinter/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261021-wpsplinter/</guid>
+<pubDate>Wed, 21 Oct 2026 12:12:33 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>BroadcomのSDKに少なくとも2010年から脆弱(ぜいじゃく)性が存在し、パスワードを知らなくてもルーターを乗っ取り任意のコード実行を可能にする恐れがあることが分かりました。 One Parser, Two Bugs, Many Routers: Exploiting Broadcom WiFi Across eCos and Linux | QTNKSR https://quentinkaiser.be/security/2026/10... — はてなブックマーク テクノロジー / score: 95 (Wi-Fiルーターの広範囲に影響する深刻な脆弱性)</description>
+</item>
+<item>
+<title>[石川温の「スマホ業界 Watch」] iPhone Duo先行レビュー、折りたたみ先駆者のGalaxyと比べて見えた強みと課題</title>
+<link>https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2149745.html</link>
+<guid isPermaLink="true">https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2149745.html</guid>
+<pubDate>Wed, 21 Oct 2026 12:09:06 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>[石川温の「スマホ業界 Watch」] iPhone Duo先行レビュー、折りたたみ先駆者のGalaxyと比べて見えた強みと課題 — はてなブックマーク テクノロジー / score: 30 (スマートフォン端末の先行レビュー記事)</description>
+</item>
+<item>
 <title>「iPhone Duo」を1週間使って分かった、全部盛りではない“上質さ”　心地いい開閉ヒンジの内部を見るために“非破壊検査”してみた</title>
 <link>https://www.itmedia.co.jp/pcuser/articles/2610/21/news064.html</link>
 <guid isPermaLink="true">https://www.itmedia.co.jp/pcuser/articles/2610/21/news064.html</guid>
 <pubDate>Wed, 21 Oct 2026 12:07:41 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>「iPhone Duo」を1週間使って分かった、全部盛りではない“上質さ” 心地いい開閉ヒンジの内部を見るために“非破壊検査”してみた（1/5 ページ） まず、価格の話はいったん脇に置きたい。手が届くかどうかは大切な問題だが、それを中心に議論をすると、あこがれのスポーツカーや高級時計といったものは作れなくなり、世界... — はてなブックマーク テクノロジー / score: 40 (ガジェットの分解・レビュー記事)</description>
-</item>
-<item>
-<title>2010年から存在するWi-Fiの欠陥でパスワードを知らなくてもルーターを乗っ取れるバグが発覚、数百万台が影響を受ける可能性</title>
-<link>https://gigazine.net/news/20261021-wpsplinter/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261021-wpsplinter/</guid>
-<pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>BroadcomのSDKに少なくとも2010年から脆弱(ぜいじゃく)性が存在し、パスワードを知らなくてもルーターを乗っ取り任意のコード実行を可能にする恐れがあることが分かりました。 続きを読む... — GIGAZINE / score: 95 (Wi-Fiルーターの広範囲に影響する深刻な脆弱性)</description>
 </item>
 <item>
 <title>OpenAI models are coming to Google Cloud</title>
@@ -277,14 +461,6 @@
 <pubDate>Wed, 21 Oct 2026 11:00:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>レインウェアのつもりで手に取ったのに、見た目も手触りも薄手のウインドブレーカーそのもの。ところが、これで耐水圧20,000mmの防水ジャケットだという。防水を担うのは「Pertex Shield」Rab（ラブ）の「ファントム ジャケット」（… — ギズモード・ジャパン / score: 15 (アウトドア用防水ジャケットの製品紹介)</description>
-</item>
-<item>
-<title>ストレイテナーのホリエアツシと大山純が語る、4人の個性をぶつけた新作『DECADE EMO EP』</title>
-<link>https://guitarmagazine.jp/interview/2026-1021-straightener/</link>
-<guid isPermaLink="true">https://guitarmagazine.jp/interview/2026-1021-straightener/</guid>
-<pubDate>Wed, 21 Oct 2026 11:00:00 +0000</pubDate>
-<category>ギター・マガジンWEB</category>
-<description>2026年10月21日（水）、約1年ぶりとなる新作『DECADE EMO EP』をリリースしたストレイテナー。全4曲入りの本作は、ホリエアツシ（vo,g）が楽曲に余白を設け、その中でメンバーそれぞれの個性がぶつかり合った1枚。今回はホリエアツシと大山純（g）の2人にインタビューを行ない、EPの制作に — ギター・マガジンWEB / score: 10 (音楽アーティストへのインタビュー記事)</description>
 </item>
 <item>
 <title>Boseのイヤホンやヘッドホンが最大25％オフに ｰ Amazonで｢Bose秋のスペシャルセール｣が開催中</title>
@@ -410,9 +586,9 @@
 <title>リアルタイム文字起こしや特定の人物の音声クローンが可能な音声AI群「Voxtral 3」</title>
 <link>https://gigazine.net/news/20261021-voxtral-3/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261021-voxtral-3/</guid>
-<pubDate>Wed, 21 Oct 2026 09:43:53 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>フランス企業のMistral AIが音声AI群「Voxtral 3」をリリースしました。高精度な文字起こしAIと、特定の人物の声をを再現できる音声合成AIが含まれています。 Voxtral 3: Voice Agent SDK &amp; Speech Models in 50+ Languages https://mistral.ai/news/voxtral-3/ Introducing Voxtral 3: state-of-the-art Transcribe and... — はてなブックマーク テクノロジー / score: 75 (Mistral AIの音声AI群Voxtral 3リリース)</description>
+<pubDate>Wed, 21 Oct 2026 09:39:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>フランス企業のMistral AIが音声AI群「Voxtral 3」をリリースしました。高精度な文字起こしAIと、特定の人物の声をを再現できる音声合成AIが含まれています。 続きを読む... — GIGAZINE / score: 75 (Mistral AIの音声AI群Voxtral 3リリース)</description>
 </item>
 <item>
 <title>新型MacBook Pro（OLED）は税込54,000円値上げ？主な仕様の予想価格</title>
@@ -487,14 +663,6 @@
 <description>旅行先のホテルから、ちょっとコンビニへ。そんなとき、歩き回るためのスニーカーとは別に、サンダルが一足あると重宝する。仕事帰りにジムへ寄ったり、帰宅ランをしたりする日にも、履き替え用のシューズが必要になる。ただ、一度履いた靴を着替えやガジェッ… — ギズモード・ジャパン / score: 25 (日常の利便性を高めるバッグ用ポーチのライフハック記事)</description>
 </item>
 <item>
-<title>AWS開発環境のOpenSearchの使い分け | フューチャー技術ブログ</title>
-<link>https://future-architect.github.io/articles/20261021a/</link>
-<guid isPermaLink="true">https://future-architect.github.io/articles/20261021a/</guid>
-<pubDate>Wed, 21 Oct 2026 08:57:51 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>検索機能を持つサービスの開発をする場合、検索機能をどのように実現するかいくつか選択肢があります。AWSを使っていると、自前でElasticsearchをホスティングするか、マネージドなOpenSearchを使うか、ということになります。OpenSearchの方にはServerlessの選択肢もあり、そちらでは最近NextGenというのも追加されてcl... — はてなブックマーク テクノロジー / score: 50 (AWS開発環境における検索機能の選定解説)</description>
-</item>
-<item>
 <title>修正予告されたPHPの2件の深刻な脆弱性についてまとめてみた - piyolog</title>
 <link>https://piyolog.hatenadiary.jp/entry/2026/10/21/174516</link>
 <guid isPermaLink="true">https://piyolog.hatenadiary.jp/entry/2026/10/21/174516</guid>
@@ -551,14 +719,6 @@
 <description>php2shell の告知を受けて、ALB の AWS WAF で multipart POST を止める・絞るルールを試してみた | DevelopersIO — はてなブックマーク テクノロジー / score: 70 (WAFを用いた脆弱性対策の具体的な実践手法)</description>
 </item>
 <item>
-<title>Qwen3.8-Flash-Nextと競合するオープンモデル「Ornith-1.5-122B」が登場</title>
-<link>https://gigazine.net/news/20261021-ornith-1-5-122b/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261021-ornith-1-5-122b/</guid>
-<pubDate>Wed, 21 Oct 2026 08:08:07 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>AI研究組織のOrnithがAIモデル「Ornith-1.5-122B」を2026年10月20日に公開しました。同等規模のオープンモデルと比べて高性能であることがアピールされています。 Aloha!🌺 Meet Ornith-1.5-122B: No Tradeoff Between Strong and Fast Stronger. Faster. Leaner. Ornith-1.5-122B delivers frontier-level capabilities... — はてなブックマーク テクノロジー / score: 65 (高性能なオープンAIモデルの登場ニュース)</description>
-</item>
-<item>
 <title>Mermaidの図を高速描画する軽量ライブラリPele、Obsidianの次期版で採用予定</title>
 <link>https://gihyo.jp/article/2026/10/pele?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/10/pele?utm_source=feed</guid>
@@ -573,6 +733,14 @@
 <pubDate>Wed, 21 Oct 2026 08:00:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>いったいどこまで便利になるの…！「新しいスマートウォッチが発売されました」と聞いても、もうそこまでトキメキはありません。画面がきれいになって、バッテリー時間が伸びて、あとはいくつかの新カラー。そんなトコでしょ？同じように感じている人、いると… — ギズモード・ジャパン / score: 30 (コンシュー向けスマートウォッチの新機能レビュー)</description>
+</item>
+<item>
+<title>Qwen3.8-Flash-Nextと競合するオープンモデル「Ornith-1.5-122B」が登場</title>
+<link>https://gigazine.net/news/20261021-ornith-1-5-122b/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261021-ornith-1-5-122b/</guid>
+<pubDate>Wed, 21 Oct 2026 07:49:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>AI研究組織のOrnithがAIモデル「Ornith-1.5-122B」を2026年10月20日に公開しました。同等規模のオープンモデルと比べて高性能であることがアピールされています。 続きを読む... — GIGAZINE / score: 65 (高性能なオープンAIモデルの登場ニュース)</description>
 </item>
 <item>
 <title>無料メーラー「Thunderbird」v158.0.1が公開 ～パスワード平文送信の脆弱性などを修正／</title>
@@ -607,12 +775,12 @@
 <description>ChatGPTの広告拡大とターゲティングの仕組みを解説。個人情報の利用方法やセキュリティの懸念、広告拒否設定の注意点について詳しくお伝えします。 — ギズモード・ジャパン / score: 65 (ChatGPTの広告ターゲティングとセキュリティ懸念)</description>
 </item>
 <item>
-<title>GitHub、異常トラフィック時に一部のHTTPS経由のGit操作で一時的に認証を要求</title>
-<link>https://codezine.jp/article/detail/30078</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/30078</guid>
+<title>Patch the Planet: global response coordination as agents uncover critical vulnerabilities</title>
+<link>https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities</link>
+<guid isPermaLink="true">https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities</guid>
 <pubDate>Wed, 21 Oct 2026 07:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 70 (GitHubのトラフィック制御と認証に関する仕様)</description>
+<category>OpenAI News</category>
+<description>Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source. — OpenAI News / score: 80 (AIによる脆弱性発見に対するグローバルな対応調整)</description>
 </item>
 <item>
 <title>How we built ChatGPT’s novel ad stack for user trust and relevance</title>
@@ -637,174 +805,6 @@
 <pubDate>Wed, 21 Oct 2026 06:54:09 +0000</pubDate>
 <category>Latent Space</category>
 <description>Proudly brought to you by SerpAPI: Today’s release covers a LOT of ground, but you can scrape all this into markdown for your agents ! 50% token cost of JSON. We last covered the Inference Inflection in April , and historically most of the advances have been closed source decacorns from Fireworks to Baseten to Modal . Well, time for the open source response. It is day 1 of PyTorch Conf , and DeepSeek timed an intercontinental ballistic missile into the discussion by open sourcing DeepInfer , the — Latent Space / score: 80 (DeepSeekのオープンソース推論に関する最新動向)</description>
-</item>
-<item>
-<title>【事前準備のお願い】PHPのセキュリティリリース公開予定について | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構</title>
-<link>https://www.ipa.go.jp/security/security-alert/2026/pre-alert20261021.html</link>
-<guid isPermaLink="true">https://www.ipa.go.jp/security/security-alert/2026/pre-alert20261021.html</guid>
-<pubDate>Wed, 21 Oct 2026 06:53:37 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>本情報の対象となる2つの脆弱性について、現時点でIPAが悪用した攻撃を確認しているわけではありません。セキュリティリリースの公開後、速やかに適用できるよう、事前準備をお願いするものです。 PHPの脆弱性については、2024年7月にも悪用した攻撃に関する注意喚起を行っています（脚注1）。 今回の脆弱性についても悪... — はてなブックマーク テクノロジー / score: 85 (PHPのセキュリティリリース事前準備の案内)</description>
-</item>
-<item>
-<title>MetaのAI「Muse」で共有した会話が第三者に丸見えになる問題が発覚、6800件以上の共有リンクが発見される</title>
-<link>https://gigazine.net/news/20261021-meta-muse-expose-user-secret/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261021-meta-muse-expose-user-secret/</guid>
-<pubDate>Wed, 21 Oct 2026 06:50:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>MetaのAIエージェント「Muse」で会話を共有すると、会話のタイトルを含むURLが外部から簡単に検索できる状態になっていたことが明らかになりました。Metaは報告を受けて会話の共有機能を一時停止しています。 続きを読む... — GIGAZINE / score: 85 (MetaのAIにおける深刻なプライバシー漏洩)</description>
-</item>
-<item>
-<title>「蔵書をすべて紙で所有するのは物理的に不可能」シーモアやRenta!のサービス停止を受けて、電子書籍のメリットが議論に「紙は所持で電子は消費」</title>
-<link>https://togetter.com/li/2761014</link>
-<guid isPermaLink="true">https://togetter.com/li/2761014</guid>
-<pubDate>Wed, 21 Oct 2026 06:45:55 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>田中ほさな@企画進行中&amp;新連載準備中 @tanakahosana シーモアに続きRenta！がサービス停止とは。出版業界において紙から電子への切り換えが上手く行ったのはマンガのみ。これでマンガは安泰だろうと思っていたが、まさかそれが仇になるとは。 これ以上被害規模が拡大し、それが長期に渡った場合、マンガ家も出版社もどえ... — はてなブックマーク テクノロジー / score: 45 (電子書籍のサービス停止に関する一般的な議論)</description>
-</item>
-<item>
-<title>ARC-AGI-3 の 99.9% を中心に GPT-6 Astra のベンチマークを理解したい</title>
-<link>https://qiita.com/masa-asa/items/9d62bfeb91140c7a88a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/masa-asa/items/9d62bfeb91140c7a88a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Wed, 21 Oct 2026 06:45:26 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>はじめに GPT-6 Astra が公開され、ARC-AGI-3 の 99.9% という数字に驚きました。発表ページに載っている GPT-5.6 Sol のスコアは 7.8%。かなり大きな差です。 ※執筆中に GPT-6.1 Sol が公開されました。ARC Prize... — Qiita 人気記事 / score: 60 (次世代AIモデルのベンチマーク考察)</description>
-</item>
-<item>
-<title>人はIssueとPRで判断するだけ — 自律AIループで回す開発プロセスの設計 - RAKUS Developers Blog | ラクス エンジニアブログ</title>
-<link>https://tech-blog.rakus.co.jp/entry/20261021/autonomous-ai</link>
-<guid isPermaLink="true">https://tech-blog.rakus.co.jp/entry/20261021/autonomous-ai</guid>
-<pubDate>Wed, 21 Oct 2026 06:45:22 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>■ 目次 目的は少ない人数でリリースの量を上げること 使う側から見た1件の流れ ready を付けると、トリアージが始まる 仕様書が PR で届く 実装も PR で届き、いつも通りレビューしてマージする 迷わないための工夫 構造: 状態ラベルとループ 人の判断の置き場所 承認ゲートは2つに絞る チェックシートは AI が下書きし... — はてなブックマーク テクノロジー / score: 65 (自律AIを用いた開発プロセス設計の実践知見)</description>
-</item>
-<item>
-<title>車載版Geminiがもっと各ユーザーに最適化される予定、GmailやGoogleカレンダーなどと連携可能に</title>
-<link>https://gigazine.net/news/20261021-google-personal-intelligence-with-gemini/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261021-google-personal-intelligence-with-gemini/</guid>
-<pubDate>Wed, 21 Oct 2026 06:26:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>Googleはスマートフォンに接続することなく、車載システムに直接組み込まれたGoogleアプリやサービスを利用できる「Google built-in」を提供しています。このGoogle built-inで、GoogleのAIアシスタント・Geminiを利用可能となっているのですが、このGeminiをさらにパーソナライズする機能をGoogleが発表しました。 続きを読む... — GIGAZINE / score: 50 (車載版Geminiのパーソナライズ機能拡充)</description>
-</item>
-<item>
-<title>攻撃者と同じ立場で自社の公開資産を洗い出す、AI主導の「不正アクセス抜き打ちテスト」が登場</title>
-<link>https://codezine.jp/article/detail/30087</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/30087</guid>
-<pubDate>Wed, 21 Oct 2026 06:15:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 65 (AI主導による資産のセキュリティテスト)</description>
-</item>
-<item>
-<title>v3.14.9</title>
-<link>https://github.com/python/cpython/releases/tag/v3.14.9</link>
-<guid isPermaLink="true">https://github.com/python/cpython/releases/tag/v3.14.9</guid>
-<pubDate>Wed, 21 Oct 2026 06:02:15 +0000</pubDate>
-<category>CPython リリース</category>
-<description>Python 3.14.9 — CPython リリース / score: 45 (CPythonのマイナーアップデートリリース)</description>
-</item>
-<item>
-<title>v3.15.1</title>
-<link>https://github.com/python/cpython/releases/tag/v3.15.1</link>
-<guid isPermaLink="true">https://github.com/python/cpython/releases/tag/v3.15.1</guid>
-<pubDate>Wed, 21 Oct 2026 05:55:12 +0000</pubDate>
-<category>CPython リリース</category>
-<description>Python 3.15.1 — CPython リリース / score: 45 (CPythonのマイナーアップデートリリース)</description>
-</item>
-<item>
-<title>honto - 外部委託先への不正アクセスによるお客様情報漏えいの可能性について - hontoからのお知らせ一覧</title>
-<link>https://honto.jp/info/detail_041000135344.html</link>
-<guid isPermaLink="true">https://honto.jp/info/detail_041000135344.html</guid>
-<pubDate>Wed, 21 Oct 2026 05:48:13 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>honto - 外部委託先への不正アクセスによるお客様情報漏えいの可能性について - hontoからのお知らせ一覧 お知らせ23 — はてなブックマーク テクノロジー / score: 60 (外部委託先での情報漏えいに関する注意喚起)</description>
-</item>
-<item>
-<title>複数AIを束ねて「世界観」を守る、SpiralAIがエンタメ特化のオーケストレーションモデルを提供開始</title>
-<link>https://codezine.jp/article/detail/30086</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/30086</guid>
-<pubDate>Wed, 21 Oct 2026 05:45:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 50 (エンタメ特化のAIオーケストレーションモデル)</description>
-</item>
-<item>
-<title>無料日本語入力アプリ「Meltype」v1.3.0が公開、公式サイトや新しいアイコン、ポータブル版も／動作モードを2つに整理、多数のオプション設定も追加</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2149926.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2149926.html</guid>
-<pubDate>Wed, 21 Oct 2026 05:33:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>［半角/全角］キーを押さなくても日本語と英語を打ち分けられる無償の日本語入力アプリ「Meltype」が10月19日、v1.3.0へアップデートされた。v1.2.1からの変更をまとめた正式版で、プレリリース版（v1.2.2-pre.1、v1.2.2-pre.2）でテストされていた内容と、その後の修正がすべて含まれているとのこと。 — 窓の杜 / score: 35 (日本語入力アプリのバージョンアップ)</description>
-</item>
-<item>
-<title>AWS、ARC Region switchに4つの新機能を追加</title>
-<link>https://codezine.jp/article/detail/30077</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/30077</guid>
-<pubDate>Wed, 21 Oct 2026 05:30:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 45 (AWS関連のマイナーアップデート情報)</description>
-</item>
-<item>
-<title>Pendo、AIエージェントの体験向上と投資対効果を高める「Pendo for Agents」を提供開始</title>
-<link>https://codezine.jp/article/detail/30085</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/30085</guid>
-<pubDate>Wed, 21 Oct 2026 05:30:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 45 (PendoのAIエージェント向け新機能提供)</description>
-</item>
-<item>
-<title>たくさん歩くと注意力や集中力が高まるのか？</title>
-<link>https://gigazine.net/news/20261021-how-many-steps-day-sharpen-attention/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261021-how-many-steps-day-sharpen-attention/</guid>
-<pubDate>Wed, 21 Oct 2026 05:20:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>歩行は健康のために日常に取り入れやすい運動のひとつであり、毎日よく歩く人は死亡リスクが低いことがわかっています。新たな研究では、1日の歩数が集中力や注意力などに関連していることが明らかになりました。 続きを読む... — GIGAZINE / score: 20 (歩行と注意力に関する科学ニュース)</description>
-</item>
-<item>
-<title>Amazon Bedrock Guardrails を AnswerCarefully で試してみた</title>
-<link>https://zenn.dev/aws_japan/articles/bedrock-guardrails-japanese-tier</link>
-<guid isPermaLink="true">https://zenn.dev/aws_japan/articles/bedrock-guardrails-japanese-tier</guid>
-<pubDate>Wed, 21 Oct 2026 05:08:24 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>Amazon Bedrock Guardrails は、生成 AI モデルに届く前の入力と、モデルが生成した後の出力を検査します。有害だと判定した内容は、利用者へ渡さずにブロックできます。 ユーザー入力 → Guardrail の入力判定 → モデル → Guardrail の出力判定 → 利用者 この記事では、Guardrail が入力や出力を遮断することを「ブロック」、Guardrail を通過した質問への回答をモデル自身が断ることを「拒否」と呼びます。 Guardrails には、判定に使う仕組みが異なる Classic と Standard の 2 つの Tier があります。日... — Zenn トレンド / score: 50 (Amazon Bedrock Guardrailsの検証記事)</description>
-</item>
-<item>
-<title>Oberheimとのコラボレーションによって設計されたGForce OB-1エミュレーション、GForce Software「Oberheim OB-1」が64%OFF！</title>
-<link>https://computermusic.jp/2026/10/oberheim-ob-1/</link>
-<guid isPermaLink="true">https://computermusic.jp/2026/10/oberheim-ob-1/</guid>
-<pubDate>Wed, 21 Oct 2026 05:01:34 +0000</pubDate>
-<category>Computer Music Japan</category>
-<description>Oberheimとのコラボレーションによって設計されたGForce OB-1エミュレーション、GForce Software「Oberheim OB-1」が64%OFFとなっています。 GForce Softwareでは... The post Oberheimとのコラボレーションによって設計されたGForce OB-1エミュレーション、GForce Software「Oberheim OB-1」が64%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 25 (音楽制作向けプラグインのセール情報)</description>
-</item>
-<item>
-<title>AI for the Fortune 2000: How Tenex Builds an AI-Native SDLC — Alex Lieberman &amp; CJ Hess</title>
-<link>https://www.latent.space/p/tenex</link>
-<guid isPermaLink="true">https://www.latent.space/p/tenex</guid>
-<pubDate>Wed, 21 Oct 2026 05:01:26 +0000</pubDate>
-<category>Latent Space</category>
-<description>Listen now (44 mins) | Paying for outcomes, building with agents, and the last mile of enterprise AI adoption — Latent Space / score: 50 (エンタープライズAI開発に関するポッドキャスト)</description>
-</item>
-<item>
-<title>AnthropicのIPO目論見書草案で118兆円超えの支出予定が判明、2026年上半期は約12兆円の純損失＆売上は半年で10倍以上の成長</title>
-<link>https://gigazine.net/news/20261021-anthropic-wsj-reports/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261021-anthropic-wsj-reports/</guid>
-<pubDate>Wed, 21 Oct 2026 04:55:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>Anthropicが2026年上半期に800億ドル(約12兆円)を超える純損失を計上し、今後数年間でコンピューティング能力の増強に最大7500億ドル(約118兆円)を投じる可能性があることが新規株式公開(IPO)目論見書草案で示されました。 続きを読む... — GIGAZINE / score: 65 (Anthropicの財務状況とIPO計画の話題)</description>
-</item>
-<item>
-<title>下積み仕事はAIに 若手育成の今後</title>
-<link>https://news.yahoo.co.jp/pickup/6599563?source=rss</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6599563?source=rss</guid>
-<pubDate>Wed, 21 Oct 2026 04:50:20 +0000</pubDate>
-<category>Yahoo!ニュース IT</category>
-<description> — Yahoo!ニュース IT / score: 30 (AI時代の若手エンジニア育成に関する考察)</description>
-</item>
-<item>
-<title>「タイパを極めすぎた末路」ラーメン屋を経営するゲームで客に丼を投擲して提供する方式を考案した人が登場、開発者も困惑していたら「射撃場」も作成されていた</title>
-<link>https://togetter.com/li/2760969</link>
-<guid isPermaLink="true">https://togetter.com/li/2760969</guid>
-<pubDate>Wed, 21 Oct 2026 04:50:15 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>ひりと（爆弾魔）💣 @Hirit_Bomber Japanese Ramen Simulatorという ラーメンゲームの楽しみ方の1つが 『 客 に 投 擲 ！ 』 #JapaneseRamenSimulator pic.x.com/dOkL1n4JaQ 2026-10-18 14:50:13 Steamで15% OFF：Japanese Ramen Simulator 『Japanese Ramen Simulator』は、最大6人で遊べるラーメン店経営シミュレータ... — はてなブックマーク テクノロジー / score: 15 (ゲームに関するユーモア交じりの話題)</description>
 </item>
 </channel>
 </rss>

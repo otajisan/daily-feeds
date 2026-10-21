@@ -4,15 +4,63 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 21 Oct 2026 14:10:54 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 16:10:29 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>[95] PHPの重大脆弱性「PHP2Shell」はセキュリティ企業のCalifとWizがAIを用いて発見しOpenAIの枠組みを使って対策したことが判明</title>
+<link>https://gigazine.net/news/20261022-php2shell-wiz-openai-calif/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261022-php2shell-wiz-openai-calif/</guid>
+<pubDate>Wed, 21 Oct 2026 15:19:11 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>プログラミング言語のPHPに「PHP2Shell」と呼ばれる重大な脆弱性が見つかり、緊急アップデートがリリースされました。「PHP2Shell」の2つの脆弱性は、セキュリティ企業のCalifとWizがそれぞれ独立して2026年8月に発見していたことが報告されています。 PHP2Shell — AI uncovers critical vulnerabilities in the backbon... — はてなブックマーク テクノロジー / score: 95 (AIを活用して発見されたPHPの重大脆弱性に関する背景)</description>
+</item>
+<item>
+<title>[95] Today's PHP Security Release, and How We're Strengthening PHP Security</title>
+<link>https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/</link>
+<guid isPermaLink="true">https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/</guid>
+<pubDate>Wed, 21 Oct 2026 14:53:13 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Earlier today, the PHP project released PHP 8.5.12, 8.4.27, 8.3.36, and 8.2.35. These releases fix two critical vulnerabilities that, under the right conditions, allow an unauthenticated attacker to execute code on servers running PHP. If you run PHP, it is imperative that you update now. The ann... — はてなブックマーク テクノロジー / score: 95 (PHPの複数バージョンにおける重大脆弱性の修正リリース)</description>
+</item>
+<item>
+<title>[95] 「PHP」の“致命的”な脆弱性2件が修正、ただちにアップデートを／認証なしでリモートからコード実行、v8.5.12/v8.4.27/v8.3.36/v8.2.35が公開</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2150167.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2150167.html</guid>
+<pubDate>Wed, 21 Oct 2026 14:26:37 +0000</pubDate>
+<category>窓の杜</category>
+<description>スクリプト言語「PHP」の開発チームは10月21日（協定世界時）、「PHP」のセキュリティアップデートを実施した。以下のバージョンが利用可能で、すべての利用者にただちにアップデートするよう強く呼びかけられている。 — 窓の杜 / score: 95 (窓の杜によるPHPの致命的脆弱性と即時アプデの呼びかけ)</description>
+</item>
 <item>
 <title>[95] PHPが緊急アップデート「8.5.12」「8.4.27」「8.3.36」「8.2.35」をリリース</title>
 <link>https://gigazine.net/news/20261021-php-critical-vulnerabilities/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261021-php-critical-vulnerabilities/</guid>
-<pubDate>Wed, 21 Oct 2026 14:04:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>PHPが緊急アップデート「8.5.12」「8.4.27」「8.3.36」「8.2.35」をリリースしました。 続きを読む... — GIGAZINE / score: 95 (PHPの複数バージョンにおける緊急アップデート)</description>
+<pubDate>Wed, 21 Oct 2026 14:14:02 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>PHPが緊急アップデート「8.5.12」「8.4.27」「8.3.36」「8.2.35」をリリースしました。 Security advisory: Critical remote code execution vulnerabilities, update now | PHP https://www.php.net/index.php#2026-10-21-5 Security advisory: Critical remote code execution vulnerabilities, update now | PHP: New... — はてなブックマーク テクノロジー / score: 95 (PHPの複数バージョンにおける緊急アップデート)</description>
+</item>
+<item>
+<title>[95] 【PHP脆弱性php2shell】パッチは21:59に公開済み。「23:15から乗っ取り」「15分でAIが攻撃コード？」は本当か、自分のVPSのログで検証（CVE-2026-109618／109619）：秋山大志のそれとりあえず作ってみようか。：オルタナティブ・ブログ</title>
+<link>https://blogs.itmedia.co.jp/agile/2026/10/php2shell_cve_2026_109618_panic.html</link>
+<guid isPermaLink="true">https://blogs.itmedia.co.jp/agile/2026/10/php2shell_cve_2026_109618_panic.html</guid>
+<pubDate>Wed, 21 Oct 2026 14:07:21 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>【PHP脆弱性php2shell】パッチは21:59に公開済み。「23:15から乗っ取り」「15分でAIが攻撃コード？」は本当か、自分のVPSのログで検証（CVE-2026-109618／109619） PHPの重大な脆弱性で、タイムラインが大騒ぎです。 震源のひとつが、「23時にパッチが公開されたら、それをAIで解析して攻撃コードを作り、23時15分以降に... — はてなブックマーク テクノロジー / score: 95 (PHPの重大な脆弱性php2shellに関する詳細な検証)</description>
+</item>
+<item>
+<title>[95] Responding to core PHP vulnerabilities CVE-2026-109618 and CVE-2026-109619</title>
+<link>https://cloud.google.com/blog/products/identity-security/responding-to-core-php-vulnerabilities-cve-2026-109618-cve-2026-109619/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/identity-security/responding-to-core-php-vulnerabilities-cve-2026-109618-cve-2026-109619/</guid>
+<pubDate>Wed, 21 Oct 2026 14:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>PHP and Wiz Research disclosed today two critical vulnerabilities in the core PHP language runtime that can expose applications to unauthenticated remote code execution and memory disclosure. Wiz used a mix of models to identify and help remediate these vulnerabilities. Notably, Gemini 4 Argon made an invaluable contribution to finding the vulnerability, exploit development, attack detection, and validation of the patch. While Google Cloud itself is not vulnerable, users of PHP running on Google — Google Cloud Blog / score: 95 (PHPの深刻な脆弱性とRCEへの対応)</description>
+</item>
+<item>
+<title>[95] PHP2Shell: AI uncovers critical RCE vulnerabilities affecting 70% of the Internet | Wiz Blog</title>
+<link>https://www.wiz.io/blog/php2shell-php-rce</link>
+<guid isPermaLink="true">https://www.wiz.io/blog/php2shell-php-rce</guid>
+<pubDate>Wed, 21 Oct 2026 13:58:05 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>PHP2Shell: AI uncovers critical RCE vulnerabilities affecting 70% of the InternetCore PHP engine flaws enable remote code execution and Heartbleed-style memory disclosure across the web. Executive SummaryWiz Research uncovered multiple critical vulnerabilities in core PHP, a popular general-purpo... — はてなブックマーク テクノロジー / score: 95 (WizによるPHP2Shell脆弱性の詳細な解説)</description>
 </item>
 <item>
 <title>[95] ニコニコやpixivなど各種ウェブサイトおよびアプリがPHPの緊急パッチに対応するべくメンテナンス入り</title>
@@ -26,9 +74,9 @@
 <title>[95] 2010年から存在するWi-Fiの欠陥でパスワードを知らなくてもルーターを乗っ取れるバグが発覚、数百万台が影響を受ける可能性</title>
 <link>https://gigazine.net/news/20261021-wpsplinter/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261021-wpsplinter/</guid>
-<pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>BroadcomのSDKに少なくとも2010年から脆弱(ぜいじゃく)性が存在し、パスワードを知らなくてもルーターを乗っ取り任意のコード実行を可能にする恐れがあることが分かりました。 続きを読む... — GIGAZINE / score: 95 (Wi-Fiルーターの広範囲に影響する深刻な脆弱性)</description>
+<pubDate>Wed, 21 Oct 2026 12:12:33 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>BroadcomのSDKに少なくとも2010年から脆弱(ぜいじゃく)性が存在し、パスワードを知らなくてもルーターを乗っ取り任意のコード実行を可能にする恐れがあることが分かりました。 One Parser, Two Bugs, Many Routers: Exploiting Broadcom WiFi Across eCos and Linux | QTNKSR https://quentinkaiser.be/security/2026/10... — はてなブックマーク テクノロジー / score: 95 (Wi-Fiルーターの広範囲に影響する深刻な脆弱性)</description>
 </item>
 <item>
 <title>[95] 修正予告されたPHPの2件の深刻な脆弱性についてまとめてみた - piyolog</title>
@@ -63,7 +111,7 @@
 <description>PHP開発チームは2026年10月20日（日本時間で深夜）、重大な脆弱性2件の修正パッチを、2026年10月21日 23時（日本時間）にリリース予定と告知しました。両件のCVSS v4.0スコアは9.2とされています。詳細が公開された場合などには、パッチの公開が前倒しになる可能性もあります。 本脆弱性の発見に関与すると見られる研究... — はてなブックマーク テクノロジー / score: 95 (PHPの重大な脆弱性予告のため)</description>
 </item>
 <item>
-<title>[95] PHP、重大な脆弱性2件を修正へ。10月21日23時に公開予定</title>
+<title>[95] PHP、重大な脆弱性2件を修正 ——認証なしのリモートコード実行に対処。直ちに更新するよう強く推奨（10月22日更新）</title>
 <link>https://gihyo.jp/article/2026/10/php-critical-security-release?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/10/php-critical-security-release?utm_source=feed</guid>
 <pubDate>Wed, 21 Oct 2026 01:14:00 +0000</pubDate>
@@ -111,12 +159,28 @@
 <description>JavaScriptランタイム「Deno」の開発元であるDeno LandとCloudflareは、Deno LandがCloudflareに合流すると発表しました。CloudflareによるDeno Landの買収と見られます（Deno ... — Publickey / score: 95 (Deno開発終了とCloudflare合流の重大なニュース)</description>
 </item>
 <item>
+<title>[90] PHP 8.5.12 released with security fixes | The Dev Dispatch</title>
+<link>https://php-net.pro/en/news/php-8-5-12-released-with-security-fixes</link>
+<guid isPermaLink="true">https://php-net.pro/en/news/php-8-5-12-released-with-security-fixes</guid>
+<pubDate>Wed, 21 Oct 2026 13:59:53 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>The PHP project has released PHP 8.5.12: 90 fixes across 29 components of the 8.5 branch. The PHP project has released PHP 8.5.12, a maintenance update for the 8.5 branch. The release delivers 90 bug fixes across 29 components — among them Core, BCMath, BZ2, CLI, DOM, FFI … — and keeps the branch... — はてなブックマーク テクノロジー / score: 90 (PHP 8.5.12のセキュリティアップデート公開)</description>
+</item>
+<item>
 <title>[90] PHPに重大欠陥 Webの7割で使用</title>
 <link>https://news.yahoo.co.jp/pickup/6599637?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6599637?source=rss</guid>
 <pubDate>Wed, 21 Oct 2026 13:52:02 +0000</pubDate>
 <category>Yahoo!ニュース IT</category>
 <description> — Yahoo!ニュース IT / score: 90 (PHPの重大な欠陥と広範なWebサイトへの影響)</description>
+</item>
+<item>
+<title>[90] 情報処理推進機構“PHPでぜい弱性確認 速やかな対応を” | NHKニュース</title>
+<link>https://news.web.nhk/newsweb/na/nd-20261021de63209</link>
+<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261021de63209</guid>
+<pubDate>Wed, 21 Oct 2026 13:40:39 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>ウェブサイトなどに広く使われている「PHP」と呼ばれるプログラミング言語に重大なぜい弱性が見つかったことを受けて、独立行政法人の情報処理推進機構は、利用している企業などに対して速やかに対応するよう呼び… — はてなブックマーク テクノロジー / score: 90 (IPAによるPHP脆弱性への迅速な注意喚起)</description>
 </item>
 <item>
 <title>[90] LiteLLMパッケージ 再侵害の概要と対策指針 - GMO Flatt Security Blog</title>
@@ -175,14 +239,6 @@
 <description>米Googleは10月20日（現地時間、以下同）、デスクトップ向け「Google Chrome」の安定（Stable）チャネルをアップデートした。Windows/Mac環境にはv156.0.8078.47/.48が、Linux環境にはv156.0.8078.47が順次展開される。「Chrome 155」に続くメジャーリリースだ。 — 窓の杜 / score: 90 (Google Chromeのメジャーリリースと脆弱性修正)</description>
 </item>
 <item>
-<title>[90] PHPに「緊急」レベルの脆弱性2件　修正版を日本時間21日深夜に公開へ、事前準備を呼び掛け</title>
-<link>https://www.itmedia.co.jp/news/article/2610/21/2000002446/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/21/2000002446/</guid>
-<pubDate>Wed, 21 Oct 2026 01:08:01 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>PHPの開発プロジェクトでセキュリティを担当するチームは10月20日（協定世界時）、2件の重大な脆弱性を修正するセキュリティアップデートを同日午後2時（日本時間の21日午後11時）に公開すると予告した。脆弱性の詳細や影響を受けるバージョン、修正版のバージョンは公開と同時に明らかにする。全てのPHPユーザーに対し... — はてなブックマーク テクノロジー / score: 90 (PHPの緊急脆弱性修正の事前告知)</description>
-</item>
-<item>
 <title>[90] Oracle、今年最後の「CPU」を実施 ～Java、VirtualBox、MySQLなどで1,295件のパッチ／四半期に一度の大規模定例セキュリティアップデート</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2149811.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2149811.html</guid>
@@ -229,6 +285,30 @@
 <pubDate>Thu, 08 Oct 2026 18:00:00 +0000</pubDate>
 <category>Next.js Blog</category>
 <description>Next.js plans to publish an out-of-band security update next Wednesday, October 14, 2026, addressing two Critical and one High severity vulnerabilities in upstream dependencies. — Next.js Blog / score: 90 (Next.jsの深刻な脆弱性修正に関する緊急のアップデート)</description>
+</item>
+<item>
+<title>[85] Cloudflare、TypeScriptをRustに移植した「tsrs」を発表。TypeScript 7より最大で70％少ないメモリで8倍速。今後、LSPなどTypeScriptの全機能をサポート予定</title>
+<link>https://www.publickey1.jp/blog/26/cloudflaretypescriptrusttsrstypescript_7708lsptypescript.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/cloudflaretypescriptrusttsrstypescript_7708lsptypescript.html</guid>
+<pubDate>Wed, 21 Oct 2026 15:42:36 +0000</pubDate>
+<category>Publickey</category>
+<description>Cloudflareは、TypeScriptをRustに移植した「tsrs」を発表しました。 下記は、Cloudflareに買収されたVoidZeroによるtsrsに関するポストです。VoidZeroもこのtsrsの開発に関わっています。 ... — Publickey / score: 85 (TypeScriptのRust製処理系で大きな性能向上のため)</description>
+</item>
+<item>
+<title>[85] php2shell by Calif Research</title>
+<link>https://calif.io/php2shell/</link>
+<guid isPermaLink="true">https://calif.io/php2shell/</guid>
+<pubDate>Wed, 21 Oct 2026 13:58:21 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>The year was 2004. The iPhone was yet to be invented and our very own Stefan Esser was still the PHP security guy. Read the scene2004. Stefan searches for forbidden knowledge and discovers an ancient PHP artifact. “Are you sure this is safe?” he asks. “I am certain,” comes the reply. Suspicious, ... — はてなブックマーク テクノロジー / score: 85 (Calif Researchによるphp2shellのレポート)</description>
+</item>
+<item>
+<title>[85] RCE via OOM corruption</title>
+<link>https://github.com/php/php-src/security/advisories/GHSA-w8hw-w9fx-j79w</link>
+<guid isPermaLink="true">https://github.com/php/php-src/security/advisories/GHSA-w8hw-w9fx-j79w</guid>
+<pubDate>Wed, 21 Oct 2026 13:52:33 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Summary PHP uses longjmp() for out-of-memory (OOM) errors to exit the current context and abort handling of the request. In some contexts, request memory is temporarily reachable before it is fully initialized. If any allocation fails at that point, PHP does not properly account for the early exi... — はてなブックマーク テクノロジー / score: 85 (OOMに起因するPHPのリモートコード実行脆弱性の詳細)</description>
 </item>
 <item>
 <title>[85] 不正アクセス“金融機関が狙われる段階に変わってきた可能性” | NHKニュース</title>
@@ -415,6 +495,14 @@
 <description>Anthropicは10月7日、AIモデル「Claude Haiku 5.5」を発表した。 — gihyo.jp / score: 85 (Claude Haiku 5.5のリリースと性能・コスト詳細)</description>
 </item>
 <item>
+<title>[80] [security] Update to 8.5.12, 8.4.27, 8.3.36, 8.2.35 by jnoordsij · Pull Request #1694 · docker-library/php</title>
+<link>https://github.com/docker-library/php/pull/1694</link>
+<guid isPermaLink="true">https://github.com/docker-library/php/pull/1694</guid>
+<pubDate>Wed, 21 Oct 2026 14:14:17 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert — はてなブックマーク テクノロジー / score: 80 (Docker公式PHPイメージのセキュリティアップデート)</description>
+</item>
+<item>
 <title>[80] OpenAI models are coming to Google Cloud</title>
 <link>https://openai.com/index/openai-models-google-cloud</link>
 <guid isPermaLink="true">https://openai.com/index/openai-models-google-cloud</guid>
@@ -429,6 +517,14 @@
 <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>Google Cloud has always been defined by choice, enterprise-grade governance, and market-leading price-performance. Key to the foundation of openness and choice is giving customers flexibility to run agentic workloads across their choice of models and infrastructure to achieve the right balance of cost, capability, and performance. Today, we are expanding that foundation by launching OpenAI models in Google Cloud’s model garden. Google Cloud is now the only hyperscale cloud provider offering acce — Google Cloud Blog / score: 80 (Google CloudがOpenAIモデル提供へ拡大)</description>
+</item>
+<item>
+<title>[80] Patch the Planet: global response coordination as agents uncover critical vulnerabilities</title>
+<link>https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities</link>
+<guid isPermaLink="true">https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities</guid>
+<pubDate>Wed, 21 Oct 2026 07:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source. — OpenAI News / score: 80 (AIによる脆弱性発見に対するグローバルな対応調整)</description>
 </item>
 <item>
 <title>[80] [AINews] DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks/day/cluster making $22m/day at ~80% margin for a 81 day payback</title>
@@ -493,14 +589,6 @@
 <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
 <category>Inside Java</category>
 <description>The following JEP is targeted to JDK 28: 546: Adaptive Heap Sizing for ZGC — Inside Java / score: 80 (JDK 28に向けたZGCのJEPターゲット)</description>
-</item>
-<item>
-<title>[80] Announcing Wiz Runtime Sensor add-on for GKE: Turnkey threat detection for Kubernetes</title>
-<link>https://cloud.google.com/blog/products/identity-security/wiz-sensor-for-gke-turnkey-threat-detection-for-kubernetes/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/products/identity-security/wiz-sensor-for-gke-turnkey-threat-detection-for-kubernetes/</guid>
-<pubDate>Fri, 16 Oct 2026 16:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>Everything is moving faster in the age of AI, and that includes security threats. What used to take attackers weeks to exploit can now happen in just a few minutes. Standard vulnerability scans that run on artifacts at rest can catch basic setup issues, but to detect an attack that's actively happening you need real-time runtime protection. Today, we’re introducing the Wiz Runtime Sensor add-on for Google Kubernetes Engine (GKE), in preview. This built-in integration brings low-touch deployment, — Google Cloud Blog / score: 80 (GKE向けKubernetes脅威検出ツールの発表)</description>
 </item>
 <item>
 <title>[80] Sakana AI、「The AI Scientist」の第3世代を公開 ——複数エージェントで仮説検証から論文執筆まで、図生成ツール「AutoIllustrate」もオープンソース化</title>
@@ -618,9 +706,9 @@
 <title>[75] リアルタイム文字起こしや特定の人物の音声クローンが可能な音声AI群「Voxtral 3」</title>
 <link>https://gigazine.net/news/20261021-voxtral-3/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261021-voxtral-3/</guid>
-<pubDate>Wed, 21 Oct 2026 09:43:53 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>フランス企業のMistral AIが音声AI群「Voxtral 3」をリリースしました。高精度な文字起こしAIと、特定の人物の声をを再現できる音声合成AIが含まれています。 Voxtral 3: Voice Agent SDK &amp; Speech Models in 50+ Languages https://mistral.ai/news/voxtral-3/ Introducing Voxtral 3: state-of-the-art Transcribe and... — はてなブックマーク テクノロジー / score: 75 (Mistral AIの音声AI群Voxtral 3リリース)</description>
+<pubDate>Wed, 21 Oct 2026 09:39:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>フランス企業のMistral AIが音声AI群「Voxtral 3」をリリースしました。高精度な文字起こしAIと、特定の人物の声をを再現できる音声合成AIが含まれています。 続きを読む... — GIGAZINE / score: 75 (Mistral AIの音声AI群Voxtral 3リリース)</description>
 </item>
 <item>
 <title>[75] 「Google Chrome 156」安定版リリース、CSSだけでランダムな配置が可能に＆IndexedDBの保存方式がSQLiteベースに変更</title>
@@ -629,14 +717,6 @@
 <pubDate>Wed, 21 Oct 2026 03:40:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>ウェブブラウザ「Google Chrome」の最新安定版であるバージョン156がリリースされました。CSSだけでランダムな数値を生成できる機能や、ページ遷移を開始した要素を特定する機能が追加されたほか、IndexedDBの内部実装がSQLiteベースに変更され、JavaScriptモジュールの読み込み失敗時に再試行できるようになるなどの改善が行われています。 続きを読む... — GIGAZINE / score: 75 (Chrome安定版リリースとIndexedDBのSQLite移行)</description>
-</item>
-<item>
-<title>[75] AI が書き、レビューし、QA する開発で、私は「監督」の役割を考え始めた - LayerX エンジニアブログ</title>
-<link>https://tech.layerx.co.jp/entry/engineer-as-director</link>
-<guid isPermaLink="true">https://tech.layerx.co.jp/entry/engineer-as-director</guid>
-<pubDate>Wed, 21 Oct 2026 02:13:26 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>AI が書いたコードを、最近めっきり読まなくなった。 1 日に 13 本くらい PR（Pull Request）が出る昨今の私の開発プロセスでは、全部コードを読んでいたら人間の工程で詰まってしまう。だから、チームのレビューとその後の QA プロセスは残したまま、私はコードを読むのをやめた。 コードを読まなくなってしばらく経っ... — はてなブックマーク テクノロジー / score: 75 (AI時代の開発プロセス変革の体験談)</description>
 </item>
 <item>
 <title>[75] DeepSeekがAI推論システム「DeepInfer」を公開、DeepSeekの本番サービスで実際に使われているシステムのオープンソース版</title>
@@ -725,86 +805,6 @@
 <pubDate>Tue, 20 Oct 2026 08:30:00 +0000</pubDate>
 <category>InfoQ Japan</category>
 <description>Googleは先日、フルスタックAIアプリケーションを構築するためのオープンソース基盤「Genkit」向けに、Agents APIのプレビュー版をリリースした。このAPIは、メッセージ履歴、ツール実行ループ、ストリーミング、状態の永続化、およびフロントエンドプロトコルを、単一のchat()インターフェースに統合している。このインターフェースは、エージェントがプロセス内で実行される場合でも、HTTPのエンドポイントの背後で実行される場合も同じように動作可能だ。 プレビュー版は本日よりTypeScriptおよびGoで利用可能、PythonとDartへの対応も予定されている。 By Steef-Jan Wiggers Translated by Takashi Kawase — InfoQ Japan / score: 75 (Genkit Agents APIのプレビュー版リリース)</description>
-</item>
-<item>
-<title>[75] Amazon Bedrock Guardrails now supports Standard tier for contextual grounding checks</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-guardrails-grounding-standard/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-guardrails-grounding-standard/</guid>
-<pubDate>Tue, 20 Oct 2026 08:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Amazon Bedrock Guardrails now offers a Standard tier for contextual grounding checks, which detect and filter hallucinations by checking whether a model response is grounded in your reference source and relevant to the user's query. The Standard tier is more robust than the Classic tier. It supports responses that include reasoning or conversational content, scores differently worded responses with the same meaning more consistently, and provides more comprehensive language support, matching the — AWS What's New / score: 75 (Amazon Bedrockの機能拡張とガードレール強化)</description>
-</item>
-<item>
-<title>[75] Amazon Bedrock Advanced Prompt Optimization now supports prompt shortening</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-prompt-optimization-shortening/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-prompt-optimization-shortening/</guid>
-<pubDate>Tue, 20 Oct 2026 08:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Amazon Bedrock Advanced Prompt Optimization now supports prompt shortening, an optional setting that reduces the length of your prompt while maintaining or improving your evaluation scores. Advanced Prompt Optimization optimizes prompts for any model on Amazon Bedrock against your own evaluation criteria. Until now, optimization focused on quality alone. Optimized prompts were often longer than the original. Longer prompts raise input token costs and can increase time to first token, which matte — AWS What's New / score: 75 (Amazon Bedrockのプロンプト最適化機能のアップデート)</description>
-</item>
-<item>
-<title>[75] Amazon ElastiCache Serverless for Valkey now supports online migration with zero downtime</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-elasticache-serverless-valkey-online-migration/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-elasticache-serverless-valkey-online-migration/</guid>
-<pubDate>Tue, 20 Oct 2026 07:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Amazon ElastiCache Serverless for Valkey now supports online migration from self-managed Valkey and Redis OSS on Amazon EC2 with zero downtime. Zero downtime means zero Errors returned to the client during migration, measured the same way the ElastiCache SLA measures availability. Your application continues reading and writing through cutover, and you do not need third-party replication tools. Online migration runs in three steps. You prepare the migration, start the data sync, and complete the  — AWS What's New / score: 75 (ゼロダウンタイム移行対応の実用的な機能追加)</description>
-</item>
-<item>
-<title>[75] Chromium(V8)のArray.prototype.fillを最大約7倍高速化した</title>
-<link>https://zenn.dev/dinii/articles/5b8edc7856c25b</link>
-<guid isPermaLink="true">https://zenn.dev/dinii/articles/5b8edc7856c25b</guid>
-<pubDate>Tue, 20 Oct 2026 01:00:05 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>はじめに ! 修正や追加等はコメントまたはGitHubで編集リクエストをお待ちしております。 ダイニーで一番若いエンジニアのriya amemiya(21歳)です。 (V8の配列系メソッド高速化職人をそろそろ名乗っても怒られないんじゃないか？と最近思い始めました🧐) 今回は Array.prototype.fill（以下 fill）をSmiとdouble向けに最大約7倍高速化しました。 V8の配列系メソッドのfast path実装に取り組む人は世界で見てもほとんどいないので、この記事から少しでも興味を持っていただけると嬉しいです。 パッチはこちらです。 https://chromi... — Zenn トレンド / score: 75 (V8エンジン内部のメソッド高速化に関する詳細な技術解説)</description>
-</item>
-<item>
-<title>[75] デジタル庁、「Androidのマイナンバーカード」の提供をスタート</title>
-<link>https://taisy0.com/2026/10/20/229149.html</link>
-<guid isPermaLink="true">https://taisy0.com/2026/10/20/229149.html</guid>
-<pubDate>Tue, 20 Oct 2026 00:52:05 +0000</pubDate>
-<category>気になる、記になる…</category>
-<description>デジタル庁が、本日より「Androidのマイナンバーカード」の提供を開始しました。 「Androidのマイナンバーカード」は、Android端末（Google ウォレット）に入れて利用できるマイナンバーカードとなっており […] — 気になる、記になる… / score: 75 (Android版マイナンバーカードの提供開始)</description>
-</item>
-<item>
-<title>[75] Claude Platform release notes — October 20, 2026</title>
-<link>https://platform.claude.com/docs/en/release-notes/overview#october-20-2026-2</link>
-<guid isPermaLink="true">https://platform.claude.com/docs/en/release-notes/overview#october-20-2026-2</guid>
-<pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-<category>Claude リリースノート</category>
-<description>Inference hooks are out of beta for Claude Enterprise organizations. We've launched user profiles , so you can tell Anthropic which of your end customers each API request is for. If you operate a platform or gateway, or resell API access, a safety enforcement action can then apply to one end customer instead of your whole organization. The SDK and the ant CLI support the new /v1/user_profiles endpoints . We've added organization webhooks to the Admin API , in beta with the webhooks-2026-10-07 be — Claude リリースノート / score: 75 (Claudeプラットフォームのマネージドエージェント更新)</description>
-</item>
-<item>
-<title>[75] Reflect, Transform, Accelerate: Bringing GPU Computing to Java</title>
-<link>https://inside.java/2026/10/20/devoxxbelgium-bringing-gpu-computing-to-java/</link>
-<guid isPermaLink="true">https://inside.java/2026/10/20/devoxxbelgium-bringing-gpu-computing-to-java/</guid>
-<pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-<category>Inside Java</category>
-<description>Java’s code reflection API, developed in OpenJDK Project Babylon, opens a new path to targeting foreign programming models directly from Java—including GPUs. This talk introduces the Heterogeneous Accelerator Toolkit (HAT), a Java parallel programming framework that accelerates modern workloads on specialised hardware through three core stages: reflect, transform, and accelerate. Through examples of tensor-core programming and matrix multiplication—fundamental building blocks for AI and natural- — Inside Java / score: 75 (JavaからGPUコンピューティングを活用するプロジェクトの解説)</description>
-</item>
-<item>
-<title>[75] 「Edge 155」の一部で起動できなくなる問題、Microsoftがサービス側の変更を巻き戻し／クライアント側の修正は調査中</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2149456.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2149456.html</guid>
-<pubDate>Mon, 19 Oct 2026 22:50:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>「Microsoft Edge 155」へアップグレードした一部の環境で、「Edge」を起動できなくなる問題が発生しているとのこと。米Microsoftが自社のドキュメントサイトで明らかにした。この問題はアップデートや再起動をきっかけに発生することがあり、既存のブラウザープロファイルにも影響を及ぼす。 — 窓の杜 / score: 75 (Edgeブラウザの起動不良と緊急のサービス巻き戻し対応)</description>
-</item>
-<item>
-<title>[75] AWS Transform、Azure Functions用のコードをAWS Lambda用に変換など、Microsoft AzureからAWSへの移行に対応</title>
-<link>https://www.publickey1.jp/blog/26/aws_transformazure_functionsaws_lambdamicrosoft_azureaws.html</link>
-<guid isPermaLink="true">https://www.publickey1.jp/blog/26/aws_transformazure_functionsaws_lambdamicrosoft_azureaws.html</guid>
-<pubDate>Mon, 19 Oct 2026 15:47:48 +0000</pubDate>
-<category>Publickey</category>
-<description>Amazon Web Services（AWS）は、Azure SDKで書かれた.NETアプリケーションをAWS SDKを用いたコードに変換する新機能をAWS Transformに搭載したと発表しました。 これによりMicrosoft Az... — Publickey / score: 75 (AzureからAWSへの移行支援ツールで実用的)</description>
-</item>
-<item>
-<title>[75] 「IntelliJ IDEA」のJava/Kotlin機能を「VS Code」や「Cursor」で、拡張機能がv1.0に／プレビューを卒業、初の安定版</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2149002.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2149002.html</guid>
-<pubDate>Mon, 19 Oct 2026 06:25:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>蘭JetBrainsは10月15日（現地時間）、「Visual Studio Code」向けの拡張機能「Java and Kotlin by IntelliJ IDEA」がv1.0に到達したと発表した。8月からプレビューされていたが、今回が初の安定版となる。 — 窓の杜 / score: 75 (IntelliJのVS Code拡張がv1.0安定版に)</description>
 </item>
 </channel>
 </rss>
