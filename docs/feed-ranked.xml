@@ -4,8 +4,16 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 21 Oct 2026 10:09:13 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 12:13:54 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>[95] 2010年から存在するWi-Fiの欠陥でパスワードを知らなくてもルーターを乗っ取れるバグが発覚、数百万台が影響を受ける可能性</title>
+<link>https://gigazine.net/news/20261021-wpsplinter/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261021-wpsplinter/</guid>
+<pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>BroadcomのSDKに少なくとも2010年から脆弱(ぜいじゃく)性が存在し、パスワードを知らなくてもルーターを乗っ取り任意のコード実行を可能にする恐れがあることが分かりました。 続きを読む... — GIGAZINE / score: 95 (Wi-Fiルーターの広範囲に影響する深刻な脆弱性)</description>
+</item>
 <item>
 <title>[95] 修正予告されたPHPの2件の深刻な脆弱性についてまとめてみた - piyolog</title>
 <link>https://piyolog.hatenadiary.jp/entry/2026/10/21/174516</link>
@@ -87,20 +95,44 @@
 <description>JavaScriptランタイム「Deno」の開発元であるDeno LandとCloudflareは、Deno LandがCloudflareに合流すると発表しました。CloudflareによるDeno Landの買収と見られます（Deno ... — Publickey / score: 95 (Deno開発終了とCloudflare合流の重大なニュース)</description>
 </item>
 <item>
+<title>[90] 2026-10-21, Version 26.12.1 (Current), @aduh95 prepared by @RafaelGSS</title>
+<link>https://github.com/nodejs/node/releases/tag/v26.12.1</link>
+<guid isPermaLink="true">https://github.com/nodejs/node/releases/tag/v26.12.1</guid>
+<pubDate>Wed, 21 Oct 2026 10:38:29 +0000</pubDate>
+<category>Node.js リリース</category>
+<description>This is a security release. Notable Changes (CVE-2026-106069, CVE-2026-106072) tls: reject non-canonical IP addresses (Matteo Collina) – High (CVE-2026-105482) dns: validate resolve inputs for null bytes (James M Snell) – High (CVE-2026-105483) tls: fix ip normalization regression (James M Snell) – High (CVE-2026-111497) src: expose BROTLI_DECODER_ERROR_FORMAT_BLOCK_SWITCH (Antoine du Hamel) – High (CVE-2026-111497) deps: brotli: cherry-pick 0ed4268a4401abcb44720963 (Evgenii Kliuchnikov) – High  — Node.js リリース / score: 90 (Node.jsの複数脆弱性を修正するセキュリティリリース)</description>
+</item>
+<item>
+<title>[90] 2026-10-21, Version 24.22.1 'Krypton' (LTS), @aduh95</title>
+<link>https://github.com/nodejs/node/releases/tag/v24.22.1</link>
+<guid isPermaLink="true">https://github.com/nodejs/node/releases/tag/v24.22.1</guid>
+<pubDate>Wed, 21 Oct 2026 10:38:25 +0000</pubDate>
+<category>Node.js リリース</category>
+<description>This is a security release. Notable Changes (CVE-2026-105481) http: ensure agent data guard works without I/O (James M Snell) (CVE-2026-105482) dns: validate resolve inputs for null bytes (James M Snell) (CVE-2026-105483) tls: fix ip normalization regression (James M Snell) (CVE-2026-106069) tls: reject non-canonical IP addresses (Matteo Collina) (CVE-2026-106073) permission: check permission model in realpathSync (RafaelGSS) (CVE-2026-106074) crypto: reset random caches across snapshots (Filip  — Node.js リリース / score: 90 (Node.js LTSの重要セキュリティアップデート)</description>
+</item>
+<item>
+<title>[90] 2026-10-21, Version 22.23.4 'Jod' (LTS), @aduh95</title>
+<link>https://github.com/nodejs/node/releases/tag/v22.23.4</link>
+<guid isPermaLink="true">https://github.com/nodejs/node/releases/tag/v22.23.4</guid>
+<pubDate>Wed, 21 Oct 2026 10:38:20 +0000</pubDate>
+<category>Node.js リリース</category>
+<description>This is a security release. Notable Changes (CVE-2026-105481) http: ensure agent data guard works without I/O (James M Snell) (CVE-2026-105482) dns: validate resolve inputs for null bytes (James M Snell) (CVE-2026-106069) tls: reject non-canonical IP addresses (Matteo Collina) (CVE-2026-106073) permission: check permission model in realpathSync (RafaelGSS) (CVE-2026-106074) crypto: reset random caches across snapshots (Filip Skokan) (CVE-2026-111497) src: expose BROTLI_DECODER_ERROR_FORMAT_BLOCK — Node.js リリース / score: 90 (Node.js LTSの重要セキュリティアップデート)</description>
+</item>
+<item>
+<title>[90] 小説家になろうグループ臨時接続制限のお知らせ</title>
+<link>https://blog.syosetu.com/article/view/article_id/5277/</link>
+<guid isPermaLink="true">https://blog.syosetu.com/article/view/article_id/5277/</guid>
+<pubDate>Wed, 21 Oct 2026 08:55:48 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>いつも小説家になろうグループをご利用いただきありがとうございます。 現在、当社サーバ上で利用しているミドルウェアに対して緊急性の高い脆弱性情報の修正が予告されており、外部からの攻撃による被害を受けかねない状況となっております。 そのため、緊急かつ臨時の措置ではありますが、一部の接続元からのアクセス... — はてなブックマーク テクノロジー / score: 90 (ミドルウェアの緊急脆弱性対応による接続制限)</description>
+</item>
+<item>
 <title>[90] 著名ITサービス相次いで緊急メンテへ　コドモン、シャドバ、BASE、さくらのレンタルサーバなど　「PHP」脆弱性に起因か</title>
 <link>https://www.itmedia.co.jp/news/article/2610/21/2000002472/</link>
 <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/21/2000002472/</guid>
 <pubDate>Wed, 21 Oct 2026 08:52:10 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>保育園向けSaaS「コドモン」、ゲーム「Shadowverse: Worlds Beyond」「さくらのレンタルサーバ」といった著名サービスが相次いで緊急メンテナンスに入ったり、同日午後11時ごろからのメンテナンスを予告したりしている。Web開発で広く使われるプログラミング言語「PHP」で緊急性の高い脆弱性が見つかった影響とみられる... — はてなブックマーク テクノロジー / score: 90 (PHP脆弱性に起因する複数サービスの緊急メンテ)</description>
-</item>
-<item>
-<title>[90] PHP緊急脆弱性「php2shell」パッチ今夜11時公開、その前にできる対策は……GMO系セキュリティ企業が提唱【更新】</title>
-<link>https://www.itmedia.co.jp/news/article/2610/21/2000002462/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/21/2000002462/</guid>
-<pubDate>Wed, 21 Oct 2026 05:46:17 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>【更新】10月21日午後3時 GMO Flatt Securityがその後「session.upload_progress.enabled=0」は単体では完全な対策にならないことが判明したと発表したため、記事を修正・更新しました。 GMOグループのサイバーセキュリティ企業GMO Flatt Securityは10月21日、PHPの重大な脆弱性2件（CVE-2026-109618／CVE-2026-109619）... — はてなブックマーク テクノロジー / score: 90 (PHPの緊急脆弱性とパッチ情報に関する速報)</description>
 </item>
 <item>
 <title>[90] 「Google Chrome 156」が公開、「IndexedDB」は「SQLite」ベースへ／深刻度「Critical」6件を含む353件もの脆弱性に対処</title>
@@ -175,6 +207,14 @@
 <description>Next.js plans to publish an out-of-band security update next Wednesday, October 14, 2026, addressing two Critical and one High severity vulnerabilities in upstream dependencies. — Next.js Blog / score: 90 (Next.jsの深刻な脆弱性修正に関する緊急のアップデート)</description>
 </item>
 <item>
+<title>[85] 不正アクセス“金融機関が狙われる段階に変わってきた可能性” | NHKニュース</title>
+<link>https://news.web.nhk/newsweb/na/nd-20261021de62921</link>
+<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261021de62921</guid>
+<pubDate>Wed, 21 Oct 2026 09:08:57 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>証券会社のシステムが不正アクセスを受けたことについて、サイバーセキュリティーに詳しい立命館大学の上原哲太郎教授は、金融機関が狙われる段階に変わってきた可能性があり、必要があればシステムの一時停止も含め… — はてなブックマーク テクノロジー / score: 85 (金融機関を狙う不正アクセスの注意喚起)</description>
+</item>
+<item>
 <title>[85] 無料メーラー「Thunderbird」v158.0.1が公開 ～パスワード平文送信の脆弱性などを修正／</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2150017.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2150017.html</guid>
@@ -194,9 +234,9 @@
 <title>[85] MetaのAI「Muse」で共有した会話が第三者に丸見えになる問題が発覚、6800件以上の共有リンクが発見される</title>
 <link>https://gigazine.net/news/20261021-meta-muse-expose-user-secret/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261021-meta-muse-expose-user-secret/</guid>
-<pubDate>Wed, 21 Oct 2026 06:50:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>MetaのAIエージェント「Muse」で会話を共有すると、会話のタイトルを含むURLが外部から簡単に検索できる状態になっていたことが明らかになりました。Metaは報告を受けて会話の共有機能を一時停止しています。 続きを読む... — GIGAZINE / score: 85 (MetaのAIにおける深刻なプライバシー漏洩)</description>
+<pubDate>Wed, 21 Oct 2026 06:52:17 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>MetaのAIエージェント「Muse」で会話を共有すると、会話のタイトルを含むURLが外部から簡単に検索できる状態になっていたことが明らかになりました。Metaは報告を受けて会話の共有機能を一時停止しています。 GhostShares: A Shared Muse Chat Exposed Prep for a Confidential Call With a Frontier AI Lab Leader | Cl... — はてなブックマーク テクノロジー / score: 85 (MetaのAIにおける深刻なプライバシー漏洩)</description>
 </item>
 <item>
 <title>[85] 「カーセンサーnet」情報漏えいか</title>
@@ -215,14 +255,6 @@
 <description>Mozillaは10月20日（米国時間）、デスクトップ向け「Firefox」の最新版v158.0.1をリリースチャネルで公開した。以下の不具合に対処したマイナーアップデートとなっている。 — 窓の杜 / score: 85 (Firefoxの脆弱性修正と証明書ブロックのアップデート)</description>
 </item>
 <item>
-<title>[85] 米政府機関、中国DeepSeekのAI製品を使用禁止</title>
-<link>https://www.gizmodo.jp/article/trump-admin-bans-deepseek-from-federal-agencies/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/trump-admin-bans-deepseek-from-federal-agencies/</guid>
-<pubDate>Wed, 21 Oct 2026 01:30:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>っていうか、まだ使ってたんだ。2026年10月19日、米政府は中国の新興企業DeepSeek（ディープシーク）が開発した人工知能（AI）ツールの使用を禁止することを連邦政府機関に命じました。国土安全保障省は、国務省など政府機関のの民間部門に… — ギズモード・ジャパン / score: 85 (米政府による中国製AIツールの使用禁止措置)</description>
-</item>
-<item>
 <title>[85] 認証局eMudhraの中間証明書、秘密鍵が「数ミリ秒」で復元可能な脆弱性　大手各社が緊急遮断</title>
 <link>https://www.itmedia.co.jp/news/article/2610/21/2000002444/</link>
 <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/21/2000002444/</guid>
@@ -231,36 +263,12 @@
 <description>インドのデジタルトラストサービス企業eMudhraが運営する認証局（CA）の中間証明書8件について、署名に使う秘密鍵が第三者でも簡単に復元できる状態状態にあったと判明した。米Mozillaが10月20日（現地時間）に公式ブログで公表し、米Googleや米Cloudflareなども対応を明らかにした。 悪用されれば任意のWebサイトになり... — はてなブックマーク テクノロジー / score: 85 (認証局の秘密鍵復元可能な重大脆弱性)</description>
 </item>
 <item>
-<title>[85] 2083449 - Private key compromise of eMudhra Intermediate Certificates</title>
-<link>https://bugzilla.mozilla.org/show_bug.cgi?id=2083449</link>
-<guid isPermaLink="true">https://bugzilla.mozilla.org/show_bug.cgi?id=2083449</guid>
-<pubDate>Tue, 20 Oct 2026 22:37:26 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Original Reporter: rdaurne77@gmail.com (Wayne) On 17th October @ 20:06 UTC, Mozilla received a report to certificates@mozilla.org, forwarded by the Chrome Root program, from Wayne, that the private key of 8 eMudhra Intermediate certificates have been compromised. The report also notified eMudhra ... — はてなブックマーク テクノロジー / score: 85 (認証局の中間証明書における秘密鍵の漏洩)</description>
-</item>
-<item>
-<title>[85] PHP: News Archive - 2026</title>
-<link>https://www.php.net/archive/2026.php</link>
-<guid isPermaLink="true">https://www.php.net/archive/2026.php</guid>
-<pubDate>Tue, 20 Oct 2026 20:54:34 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Here are the most important news items we have published in 2026 on PHP.net. The PHP security team would like to give advance notice of an upcoming security release. It is scheduled for Wednesday, 21 October 2026 at 14:00 UTC. It addresses two critical vulnerabilities, both rated CVSS v4.0 9.2. A... — はてなブックマーク テクノロジー / score: 85 (PHPのセキュリティリリース予告)</description>
-</item>
-<item>
 <title>[85] ふるさとチョイス 445万件が流出</title>
 <link>https://news.yahoo.co.jp/pickup/6599501?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6599501?source=rss</guid>
 <pubDate>Tue, 20 Oct 2026 10:52:44 +0000</pubDate>
 <category>Yahoo!ニュース IT</category>
 <description> — Yahoo!ニュース IT / score: 85 (ふるさとチョイスの大量データ流出報道)</description>
-</item>
-<item>
-<title>[85] Linux 7.3がリリースされる、Macのバックアップ機能「Time Machine」への対応やCPU・メモリ管理の改善など</title>
-<link>https://gigazine.net/news/20261020-linux-kernel-7-3/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261020-linux-kernel-7-3/</guid>
-<pubDate>Tue, 20 Oct 2026 10:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>Linuxの生みの親であるリーナス・トーバルズ氏が2026年10月18日にLinuxカーネルの最新バージョン「Linux 7.3」をリリースしました。Linux 7.3ではAppleのバックアップ機能「Time Machine」への対応やCPU・メモリの管理効率の改善、ファイルシステムの機能拡張など、多数の変更が加えられています。 続きを読む... — GIGAZINE / score: 85 (Linuxカーネル最新版のメジャーリリース)</description>
 </item>
 <item>
 <title>[85] AWSの請求システムの不具合により顧客に兆ドル規模の見積額が表示される一方、自社のコストアラームは作動せず</title>
@@ -303,20 +311,20 @@
 <description>JPCERT/CCは2026年10月15日、国内で相次ぐ不正アクセスを受けて進めている攻撃元サーバーの調査結果を公開した。 — gihyo.jp / score: 85 (API攻撃の手口と脆弱性に関する重要な注意喚起)</description>
 </item>
 <item>
-<title>[85] 「Apache OpenOffice 4.1.17」が公開、緊急のコード実行脆弱性「CVE-2026-59265」に対処／約11カ月ぶりのアップデート、Pythonマクロも強化</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2148601.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2148601.html</guid>
-<pubDate>Fri, 16 Oct 2026 05:30:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>The Apache Software Foundation（ASF）は10月14日、「Apache OpenOffice 4.1.17」を公開した。セキュリティと不具合修正のためのリリースで、v4.1.16以前を利用しているすべてのユーザーにアップグレードが推奨されている。 — 窓の杜 / score: 85 (Apache OpenOfficeの緊急コード実行脆弱性修正)</description>
-</item>
-<item>
 <title>[85] AnthropicのBun、TypeScript 7よりも3倍以上高速なTypeScript型チェッカーを搭載。Bunの新バージョン1.4.3で</title>
 <link>https://www.publickey1.jp/blog/26/anthropicbuntypescript_73typescriptbun143.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/anthropicbuntypescript_73typescriptbun143.html</guid>
 <pubDate>Thu, 15 Oct 2026 15:21:12 +0000</pubDate>
 <category>Publickey</category>
 <description>Anthropicが開発しているJavaScriptランタイム「Bun」は、10月10日付けで新バージョン「Bun v1.4.3」がリリースされました。 Bun v1.4.3の最大の特徴として示されたのが、Go言語で実装されたTypeScr... — Publickey / score: 85 (Bunの高速型チェッカー追加という大きなアップデート)</description>
+</item>
+<item>
+<title>[85] Node.js — Wednesday, October 21, 2026 Security Releases</title>
+<link>https://nodejs.org/en/blog/vulnerability/october-2026-security-releases</link>
+<guid isPermaLink="true">https://nodejs.org/en/blog/vulnerability/october-2026-security-releases</guid>
+<pubDate>Wed, 14 Oct 2026 23:31:16 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Commercial support for versions past the Maintenance LTS phase is available through our OpenJS Ecosystem Sustainability Program partners Summary The Node.js project will release new versions of the 26.x, 24.x, 22.x releases lines on or shortly after, Wednesday, October 21, 2026 in order to addres... — はてなブックマーク テクノロジー / score: 85 (Node.jsの重要セキュリティリリース予告)</description>
 </item>
 <item>
 <title>[85] Gemini 4 Argon: Built to solve your hardest problems</title>
@@ -383,12 +391,28 @@
 <description>Anthropicは10月7日、AIモデル「Claude Haiku 5.5」を発表した。 — gihyo.jp / score: 85 (Claude Haiku 5.5のリリースと性能・コスト詳細)</description>
 </item>
 <item>
+<title>[80] Google Cloud expands model choice and flexibility, bringing OpenAI models to customers</title>
+<link>https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-brings-openai-models-to-customers/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-brings-openai-models-to-customers/</guid>
+<pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Google Cloud has always been defined by choice, enterprise-grade governance, and market-leading price-performance. Key to the foundation of openness and choice is giving customers flexibility to run agentic workloads across their choice of models and infrastructure to achieve the right balance of cost, capability, and performance. Today, we are expanding that foundation by launching OpenAI models in Google Cloud’s model garden. Google Cloud is now the only hyperscale cloud provider offering acce — Google Cloud Blog / score: 80 (Google CloudがOpenAIモデル提供へ拡大)</description>
+</item>
+<item>
 <title>[80] [AINews] DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks/day/cluster making $22m/day at ~80% margin for a 81 day payback</title>
 <link>https://www.latent.space/p/ainews-deepseek-deepinfer-open-source</link>
 <guid isPermaLink="true">https://www.latent.space/p/ainews-deepseek-deepinfer-open-source</guid>
 <pubDate>Wed, 21 Oct 2026 06:54:09 +0000</pubDate>
 <category>Latent Space</category>
 <description>Proudly brought to you by SerpAPI: Today’s release covers a LOT of ground, but you can scrape all this into markdown for your agents ! 50% token cost of JSON. We last covered the Inference Inflection in April , and historically most of the advances have been closed source decacorns from Fireworks to Baseten to Modal . Well, time for the open source response. It is day 1 of PyTorch Conf , and DeepSeek timed an intercontinental ballistic missile into the discussion by open sourcing DeepInfer , the — Latent Space / score: 80 (DeepSeekのオープンソース推論に関する最新動向)</description>
+</item>
+<item>
+<title>[80] わずか2週間でGitHubスター30万超　AIでリバースエンジニアリングする「REA」が話題</title>
+<link>https://ascii.jp/elem/000/004/444/4444350/</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/444/4444350/</guid>
+<pubDate>Wed, 21 Oct 2026 04:48:18 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>morluto氏がGitHubで公開しているAIエージェント向けのリバースエンジニアリング支援ツール「REA（Reverse Engineer Anything）」が急速に人気を集めている。10月2日時点で41件だったGitHubのスター数は、17日に30万件を突破。21日には34万7802件に達した。 REAは、完成したアプリや実行ファイルを調べ、内部の処理を理... — はてなブックマーク テクノロジー / score: 80 (AIリバースエンジニアリングツールの急激な話題化)</description>
 </item>
 <item>
 <title>[80] フジ 番宣システムに不正アクセス</title>
@@ -407,14 +431,6 @@
 <description>Linus Torvaldsは10月18日、「Linux 7.3」のリリースをアナウンスした。 — gihyo.jp / score: 80 (Linuxカーネルの新バージョンリリース)</description>
 </item>
 <item>
-<title>[80] 「お名前.com デスクトップクラウド」不正プログラム設置で全プラン停止　FX用VPS、2万6739サーバに影響か</title>
-<link>https://www.itmedia.co.jp/news/article/2610/21/2000002442/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/21/2000002442/</guid>
-<pubDate>Tue, 20 Oct 2026 23:41:28 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>お名前.com デスクトップクラウドは、FXの自動売買ソフト（「MetaTrader 4」「MetaTrader 5」など）を、自宅のPCを使わずにクラウド上のサーバで24時間動かし続けるためのサービス。月額2640円から利用でき、契約実績は累計20万以上という。 同社は10月20日、不正なプログラムが設置されたことを確認。サーバ内に保管さ... — はてなブックマーク テクノロジー / score: 80 (お名前.comのVPSで不正プログラム設置)</description>
-</item>
-<item>
 <title>[80] AWS announces TorchNeuron: Native PyTorch Support for AWS Trainium (Public Beta)</title>
 <link>https://aws.amazon.com/about-aws/whats-new/2026/10/aws-announce-native-pytorch-support-trainium</link>
 <guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/aws-announce-native-pytorch-support-trainium</guid>
@@ -431,14 +447,6 @@
 <description> — Yahoo!ニュース IT / score: 80 (証券会社へのサイバー攻撃に関するセキュリティインシデント)</description>
 </item>
 <item>
-<title>[80] 80社サイバー攻撃 中国語AI悪用か</title>
-<link>https://news.yahoo.co.jp/pickup/6599460?source=rss</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6599460?source=rss</guid>
-<pubDate>Tue, 20 Oct 2026 04:22:02 +0000</pubDate>
-<category>Yahoo!ニュース IT</category>
-<description> — Yahoo!ニュース IT / score: 80 (中国語AI悪用による大規模サイバー攻撃)</description>
-</item>
-<item>
 <title>[80] 2026年10月パッチに新たな問題、［スマート アプリ コントロール］をONにできない／Microsoftが回避策を案内</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2149237.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2149237.html</guid>
@@ -453,14 +461,6 @@
 <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
 <category>Inside Java</category>
 <description>The following JEP is targeted to JDK 28: 546: Adaptive Heap Sizing for ZGC — Inside Java / score: 80 (JDK 28に向けたZGCのJEPターゲット)</description>
-</item>
-<item>
-<title>[80] AppleがAI生成の性的画像悪用対策を強化〜App Store規約改定</title>
-<link>https://iphone-mania.jp/apple-607564/</link>
-<guid isPermaLink="true">https://iphone-mania.jp/apple-607564/</guid>
-<pubDate>Sat, 17 Oct 2026 05:56:52 +0000</pubDate>
-<category>iPhone Mania</category>
-<description>Appleは2026年10月16日、App Store審査ガイドラインを改定し、AI生成を含む本人の同意のない性的画像への対策と、審査後に未申告の機能を追加するアプリへの規制を強化することを公表しました。 ポルノグラフィ […] — iPhone Mania / score: 80 (AppleのApp Store規約改定によるAI生成画像の悪用対策強化)</description>
 </item>
 <item>
 <title>[80] Announcing Wiz Runtime Sensor add-on for GKE: Turnkey threat detection for Kubernetes</title>
@@ -543,12 +543,44 @@
 <description>Microsoftは2026年10月7日、AIエージェント向けポリシー駆動型コンテナ「Microsoft Execution Containers」（MXC）の一般提供を開始したことを発表した。 — gihyo.jp / score: 80 (AIエージェント向けコンテナの一般提供開始)</description>
 </item>
 <item>
+<title>[75] Hardware-backed security at global scale: Confidential G4 with NVIDIA Blackwell is GA</title>
+<link>https://cloud.google.com/blog/topics/ai-infrastructure/confidential-g4-gpus-are-ga/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/ai-infrastructure/confidential-g4-gpus-are-ga/</guid>
+<pubDate>Wed, 21 Oct 2026 11:30:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Bringing autonomous agents into production means processing sensitive data and valuable intellectual property in real time. Protecting proprietary model weights, user prompts, and generated outputs requires security that safeguards data while it is actively being computed. As part of our efforts to enable your enterprise securely, today we are announcing that Confidential Computing on Google Cloud’s G4 instances enabled by NVIDIA RTX PRO 6000 Blackwell Server edition GPUs is now generally availa — Google Cloud Blog / score: 75 (NVIDIA Blackwell搭載の機密G4インスタンスGA)</description>
+</item>
+<item>
+<title>[75] Google Cloud and NVIDIA expand co-engineering collaboration to scale infrastructure for the agentic era</title>
+<link>https://cloud.google.com/blog/topics/ai-infrastructure/google-cloud-infrastructure-at-nvidia-gtc-berlin-2026/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/ai-infrastructure/google-cloud-infrastructure-at-nvidia-gtc-berlin-2026/</guid>
+<pubDate>Wed, 21 Oct 2026 11:30:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>As enterprises transition to continuous, multi-step agentic workflows, traditional infrastructure is hitting its limits. But raw performance is only part of the equation. To truly scale agentic AI, enterprises also need the flexibility to run the right models for the right tasks, alongside the data and operational sovereignty required to maintain verifiable control over both their sensitive intellectual property and the underlying infrastructure. Today at NVIDIA GTC Berlin 2026, we are announcin — Google Cloud Blog / score: 75 (Google CloudとNVIDIAのエージェントAI基盤協業)</description>
+</item>
+<item>
+<title>[75] 委託事業者における個人情報漏えいについて</title>
+<link>https://www.osaka-u.ac.jp/ja/news/topics/2026/10/21004</link>
+<guid isPermaLink="true">https://www.osaka-u.ac.jp/ja/news/topics/2026/10/21004</guid>
+<pubDate>Wed, 21 Oct 2026 11:16:28 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>令和8年10月9日、本学の全学教育用電子計算機システムの運用を委託している日本電気株式会社（以下「NEC」という。）から、令和8年9月26日に第三者により本学の個人情報を含むファイルがダウンロードされていたとの報告を受けました。 その後の調査により、本学に報告されていない協力会社が本業務の一部に関与していた... — はてなブックマーク テクノロジー / score: 75 (委託事業者経由の大規模な個人情報漏えい)</description>
+</item>
+<item>
+<title>[75] Microsoft、TypeScript 7.1 Betaを公開 ——型検査を高速化し外部ツール向けAPIを追加</title>
+<link>https://gihyo.jp/article/2026/10/_typescript-7.1-beta?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/10/_typescript-7.1-beta?utm_source=feed</guid>
+<pubDate>Wed, 21 Oct 2026 10:52:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Microsoftは2026年10月20日、TypeScript 7.1 Betaを公開した。Goで実装したネイティブ版コンパイラーの性能を改善し、同社の測定では7.0に比べて型検査が1.2～1.9倍に高速化した。 — gihyo.jp / score: 75 (TypeScript 7.1 Betaの高速化と新機能)</description>
+</item>
+<item>
 <title>[75] リアルタイム文字起こしや特定の人物の音声クローンが可能な音声AI群「Voxtral 3」</title>
 <link>https://gigazine.net/news/20261021-voxtral-3/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261021-voxtral-3/</guid>
-<pubDate>Wed, 21 Oct 2026 09:39:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>フランス企業のMistral AIが音声AI群「Voxtral 3」をリリースしました。高精度な文字起こしAIと、特定の人物の声をを再現できる音声合成AIが含まれています。 続きを読む... — GIGAZINE / score: 75 (Mistral AIの音声AI群Voxtral 3リリース)</description>
+<pubDate>Wed, 21 Oct 2026 09:43:53 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>フランス企業のMistral AIが音声AI群「Voxtral 3」をリリースしました。高精度な文字起こしAIと、特定の人物の声をを再現できる音声合成AIが含まれています。 Voxtral 3: Voice Agent SDK &amp; Speech Models in 50+ Languages https://mistral.ai/news/voxtral-3/ Introducing Voxtral 3: state-of-the-art Transcribe and... — はてなブックマーク テクノロジー / score: 75 (Mistral AIの音声AI群Voxtral 3リリース)</description>
 </item>
 <item>
 <title>[75] 「Google Chrome 156」安定版リリース、CSSだけでランダムな配置が可能に＆IndexedDBの保存方式がSQLiteベースに変更</title>
@@ -767,44 +799,12 @@
 <description>Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science. — Google DeepMind / score: 75 (科学技術・創薬におけるAI活用に関する重要成果)</description>
 </item>
 <item>
-<title>[75] Temporal Serverless Workers on Cloud Run: Scale workers ahead of demand</title>
-<link>https://cloud.google.com/blog/products/serverless/temporal-serverless-workers-on-cloud-run-worker-pools/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/products/serverless/temporal-serverless-workers-on-cloud-run-worker-pools/</guid>
-<pubDate>Thu, 15 Oct 2026 16:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>The open-source Temporal execution platform is rapidly becoming a foundational layer of modern software infrastructure — especially for orchestration in distributed systems and AI agent workloads. However, deploying and scaling workers in Temporal comes with unique challenges. Workers poll for tasks instead of serving requests, so request-driven serverless platforms can be an awkward fit. This often results in running worker fleets on Kubernetes or VMs, which you have to manage and pay for conti — Google Cloud Blog / score: 75 (分散処理基盤とサーバーレスの重要なインフラ連携)</description>
-</item>
-<item>
 <title>[75] [AINews] Modal’s $1B ARR, $16B Series D makes it NYC’s newest AI Infra Decacorn, 3x usage and 3x valuation in 5 months, 15x in 1 yr</title>
 <link>https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d</link>
 <guid isPermaLink="true">https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d</guid>
 <pubDate>Thu, 15 Oct 2026 10:08:08 +0000</pubDate>
 <category>Latent Space</category>
 <description>Today Modal switches from our infra unicorn category to infra decacorn . We last caught up with Modal CTO Akshat in July: On the last day of AIE NYC , Akshat had a lot to share about the kind of infrastructure agents are needing for “ millions of concurrent sandboxes, launch RDMA clusters securely and elastically for distributed training, train state of the art speculators for inference, build a whole new sandbox runtime, and more ”: As Erik notes in his fundraise post : We launched Sandboxes in — Latent Space / score: 75 (AIインフラ企業の巨額資金調達に関する動向)</description>
-</item>
-<item>
-<title>[75] 祝! プロジェクト30周年! KDE Plasma 6.8リリース、X11からWaylandへの移行完了</title>
-<link>https://gihyo.jp/article/2026/10/daily-linux-261015?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/10/daily-linux-261015?utm_source=feed</guid>
-<pubDate>Thu, 15 Oct 2026 07:33:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>KDEプロジェクトは10月14日、「KDE Plasma 6.8」をリリースした。 — gihyo.jp / score: 75 (KDE Plasma 6.8リリースとWayland移行)</description>
-</item>
-<item>
-<title>[75] Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ</title>
-<link>https://www.publickey1.jp/blog/26/windowsaimicrosoft_execution_containersmxc.html</link>
-<guid isPermaLink="true">https://www.publickey1.jp/blog/26/windowsaimicrosoft_execution_containersmxc.html</guid>
-<pubDate>Wed, 14 Oct 2026 15:57:19 +0000</pubDate>
-<category>Publickey</category>
-<description>マイクロソフトはWindows 11上でAIエージェントを安全に動かすための隔離環境「Microsoft Execution Containers」（以下、MXC）の正式リリースを発表しました。 MXC is now GA on Windo... — Publickey / score: 75 (マイクロソフトの安全なAI実行環境の正式リリース)</description>
-</item>
-<item>
-<title>[75] AWS、Lambda Web Functionsを提供開始 ——WebアプリをLambda用のイベントハンドラーへ書き換えずにデプロイ</title>
-<link>https://gihyo.jp/article/2026/10/aws-lambda-web-functions?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/10/aws-lambda-web-functions?utm_source=feed</guid>
-<pubDate>Wed, 14 Oct 2026 10:30:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Amazon Web Services（AWS）は2026年10月12日、WebアプリケーションをLambda上で動かす新しい実行方式「AWS Lambda Web Functions」の提供開始を発表した。 — gihyo.jp / score: 75 (AWS Lambda Web Functionsの提供開始に関する速報)</description>
 </item>
 </channel>
 </rss>
