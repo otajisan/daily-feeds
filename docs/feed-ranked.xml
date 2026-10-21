@@ -4,15 +4,23 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 21 Oct 2026 08:12:37 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 10:09:13 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
-<title>[95] Google Chromeに350件以上の脆弱性　最新版にアップデートを</title>
-<link>https://ascii.jp/elem/000/004/444/4444589/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/444/4444589/?rss</guid>
-<pubDate>Wed, 21 Oct 2026 06:50:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>グーグルは10月20日、デスクトップおよびAndroid版「Google Chrome」のアップデートを公開。深刻度「重大」を含む353件の脆弱性に対処した。 — ASCII.jp / score: 95 (Chromeの重大な脆弱性とアップデートの緊急情報)</description>
+<title>[95] 修正予告されたPHPの2件の深刻な脆弱性についてまとめてみた - piyolog</title>
+<link>https://piyolog.hatenadiary.jp/entry/2026/10/21/174516</link>
+<guid isPermaLink="true">https://piyolog.hatenadiary.jp/entry/2026/10/21/174516</guid>
+<pubDate>Wed, 21 Oct 2026 08:57:42 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>2026年10月20日、PHPの開発元であるThe PHP Groupのセキュリティチームは、PHPの深刻な脆弱性2件を修正するセキュリティリリースを予告しました。ここでは関連する情報をまとめます。（開発元等から詳細情報が公開され次第更新します。） 開発元は何を予告したの? PHPのセキュリティチームは10月20日(協定世界時)、2件の... — はてなブックマーク テクノロジー / score: 95 (PHPの深刻な脆弱性と緊急リリース予告)</description>
+</item>
+<item>
+<title>[95] PHPに深刻度「9.2」の脆弱性が2件発覚、サーバー乗っ取りの恐れで緊急パッチを10月21日に公開へ</title>
+<link>https://gigazine.net/news/20261021-php2shell/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261021-php2shell/</guid>
+<pubDate>Wed, 21 Oct 2026 08:20:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>ウェブサイトやウェブアプリの開発に広く使われているプログラミング言語「PHP」に深刻な脆弱(ぜいじゃく)性が2件見つかり、開発チームが2026年10月21日に緊急のセキュリティ更新プログラムを公開すると発表しました。 続きを読む... — GIGAZINE / score: 95 (PHPに深刻な脆弱性発覚と緊急パッチ公開予定)</description>
 </item>
 <item>
 <title>[95] 「PHP」に“致命的”な脆弱性2件、日本時間21日深夜に緊急のセキュリティリリースへ【15時20分追記】／「CVSS 4.0」のスコアは「9.2」、すぐに更新できるよう準備を</title>
@@ -47,14 +55,6 @@
 <description>eMudhra Intermediate CA Compromise This is very, very bad news: The private keys of eight eMudhra intermediate CA certificates have been compromised. They chain to roots trusted by the Mozilla, Microsoft, Apple and Chrome root programs and by many downstream trust stores. Any software that bundles a list of trusted certificates needs to be updated. This site is tracking software updates via this GitHub repository - Linux distros need to update their ca-certificates packages. In Python world uv 0 — Simon Willison / score: 95 (中間CA証明書の秘密鍵漏洩という重大な事件)</description>
 </item>
 <item>
-<title>[95] eMudhra Intermediate CA Compromise</title>
-<link>https://emudhra.we-have-a-problem.com/</link>
-<guid isPermaLink="true">https://emudhra.we-have-a-problem.com/</guid>
-<pubDate>Tue, 20 Oct 2026 19:33:22 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>20th October 2026 The private keys of eight eMudhra intermediate CA certificates have been compromised. They chain to roots trusted by the Mozilla, Microsoft, Apple and Chrome root programs and by many downstream trust stores. How do we know? To demonstrate that the keys are compromised, the orig... — はてなブックマーク テクノロジー / score: 95 (認証局の中間CA秘密鍵漏えいという重大事案)</description>
-</item>
-<item>
 <title>[95] Linuxカーネル脆弱性「CVE-2026-99999」発見の背景が明らかに ―きっかけは賞金総額100万ドルの“サンドボックス脱出チャレンジ”</title>
 <link>https://gihyo.jp/article/2026/10/cve-2026-99999?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/10/cve-2026-99999?utm_source=feed</guid>
@@ -85,6 +85,14 @@
 <pubDate>Mon, 12 Oct 2026 15:46:53 +0000</pubDate>
 <category>Publickey</category>
 <description>JavaScriptランタイム「Deno」の開発元であるDeno LandとCloudflareは、Deno LandがCloudflareに合流すると発表しました。CloudflareによるDeno Landの買収と見られます（Deno ... — Publickey / score: 95 (Deno開発終了とCloudflare合流の重大なニュース)</description>
+</item>
+<item>
+<title>[90] 著名ITサービス相次いで緊急メンテへ　コドモン、シャドバ、BASE、さくらのレンタルサーバなど　「PHP」脆弱性に起因か</title>
+<link>https://www.itmedia.co.jp/news/article/2610/21/2000002472/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/21/2000002472/</guid>
+<pubDate>Wed, 21 Oct 2026 08:52:10 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>保育園向けSaaS「コドモン」、ゲーム「Shadowverse: Worlds Beyond」「さくらのレンタルサーバ」といった著名サービスが相次いで緊急メンテナンスに入ったり、同日午後11時ごろからのメンテナンスを予告したりしている。Web開発で広く使われるプログラミング言語「PHP」で緊急性の高い脆弱性が見つかった影響とみられる... — はてなブックマーク テクノロジー / score: 90 (PHP脆弱性に起因する複数サービスの緊急メンテ)</description>
 </item>
 <item>
 <title>[90] PHP緊急脆弱性「php2shell」パッチ今夜11時公開、その前にできる対策は……GMO系セキュリティ企業が提唱【更新】</title>
@@ -175,14 +183,6 @@
 <description>オープンソースのメールソフト「Thunderbird」の最新版、v158.0.1が10月20日にリリースされた。本アップデートはセキュリティ修正が中心のマイナーアップデートとなっている。 — 窓の杜 / score: 85 (Thunderbirdの重要なセキュリティ脆弱性修正)</description>
 </item>
 <item>
-<title>[85] 保育ICT「コドモン」停止、重大な脆弱性で　22日に再開予定</title>
-<link>https://ascii.jp/elem/000/004/444/4444627/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/444/4444627/?rss</guid>
-<pubDate>Wed, 21 Oct 2026 07:20:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>コドモンは10月21日、保育・教育施設向けICTサービス「コドモン」について、保護者アプリを含む全サービスを停止したと発表した。10月22日早朝に再開する見込み。 — ASCII.jp / score: 85 (保育ICTサービスの重大な脆弱性による全サービス停止)</description>
-</item>
-<item>
 <title>[85] 【事前準備のお願い】PHPのセキュリティリリース公開予定について | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構</title>
 <link>https://www.ipa.go.jp/security/security-alert/2026/pre-alert20261021.html</link>
 <guid isPermaLink="true">https://www.ipa.go.jp/security/security-alert/2026/pre-alert20261021.html</guid>
@@ -231,12 +231,12 @@
 <description>インドのデジタルトラストサービス企業eMudhraが運営する認証局（CA）の中間証明書8件について、署名に使う秘密鍵が第三者でも簡単に復元できる状態状態にあったと判明した。米Mozillaが10月20日（現地時間）に公式ブログで公表し、米Googleや米Cloudflareなども対応を明らかにした。 悪用されれば任意のWebサイトになり... — はてなブックマーク テクノロジー / score: 85 (認証局の秘密鍵復元可能な重大脆弱性)</description>
 </item>
 <item>
-<title>[85] 【重要】[お名前.com デスクトップクラウド]第三者による不正アクセスに関するお詫びとお知らせ（2026年10月21日 4:00時点）｜[2026/10/21]｜ドメイン取るならお名前.com</title>
-<link>https://www.onamae.com/news/article/11584/</link>
-<guid isPermaLink="true">https://www.onamae.com/news/article/11584/</guid>
-<pubDate>Tue, 20 Oct 2026 23:42:13 +0000</pubDate>
+<title>[85] 2083449 - Private key compromise of eMudhra Intermediate Certificates</title>
+<link>https://bugzilla.mozilla.org/show_bug.cgi?id=2083449</link>
+<guid isPermaLink="true">https://bugzilla.mozilla.org/show_bug.cgi?id=2083449</guid>
+<pubDate>Tue, 20 Oct 2026 22:37:26 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>優良中古ドメイン 優良中古ドメインのオークション/予約サービス 集客効率向上が見込める中古ドメイン。「検索エンジン評価」や「文字列の分かりやすさ」に優れたドメインが見つかります。 — はてなブックマーク テクノロジー / score: 85 (クラウドサービスにおける不正アクセスの発生)</description>
+<description>Original Reporter: rdaurne77@gmail.com (Wayne) On 17th October @ 20:06 UTC, Mozilla received a report to certificates@mozilla.org, forwarded by the Chrome Root program, from Wayne, that the private key of 8 eMudhra Intermediate certificates have been compromised. The report also notified eMudhra ... — はてなブックマーク テクノロジー / score: 85 (認証局の中間証明書における秘密鍵の漏洩)</description>
 </item>
 <item>
 <title>[85] PHP: News Archive - 2026</title>
@@ -383,14 +383,6 @@
 <description>Anthropicは10月7日、AIモデル「Claude Haiku 5.5」を発表した。 — gihyo.jp / score: 85 (Claude Haiku 5.5のリリースと性能・コスト詳細)</description>
 </item>
 <item>
-<title>[80] イオン、グループ各社のWebサイトで不正アクセスを確認　個人情報流出の有無を調査中</title>
-<link>https://ascii.jp/elem/000/004/444/4444655/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/444/4444655/?rss</guid>
-<pubDate>Wed, 21 Oct 2026 08:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>イオンは10月21日、グループ各社の一部Webサイトで第三者による不正アクセスを検知したと発表した。 — ASCII.jp / score: 80 (大手企業のWebサイトにおける不正アクセスと情報流出調査)</description>
-</item>
-<item>
 <title>[80] [AINews] DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks/day/cluster making $22m/day at ~80% margin for a 81 day payback</title>
 <link>https://www.latent.space/p/ainews-deepseek-deepinfer-open-source</link>
 <guid isPermaLink="true">https://www.latent.space/p/ainews-deepseek-deepinfer-open-source</guid>
@@ -405,14 +397,6 @@
 <pubDate>Wed, 21 Oct 2026 02:32:33 +0000</pubDate>
 <category>Yahoo!ニュース IT</category>
 <description> — Yahoo!ニュース IT / score: 80 (放送局システムへの不正アクセスに関するセキュリティ事案)</description>
-</item>
-<item>
-<title>[80] フジテレビに不正アクセス、メディア関係者の個人情報最大730件漏えいか　番組宣伝システムが被害</title>
-<link>https://www.itmedia.co.jp/news/article/2610/21/2000002449/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/21/2000002449/</guid>
-<pubDate>Wed, 21 Oct 2026 02:27:41 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>フジテレビは10月20日、同社の番組宣伝システムが19日夜に第三者による不正アクセスを受けたと発表した。メディア関係者の氏名や会社名、メールアドレスなどの個人情報が外部に漏えいした可能性があり、対象は20日時点で最大730件とみられる。 システムに登録のあった資料を含め、影響範囲などの詳細は確認を進めている... — はてなブックマーク テクノロジー / score: 80 (メディア企業での不正アクセス・情報漏洩)</description>
 </item>
 <item>
 <title>[80] Linux 7.３リリース ―新しいサンドボックス技術を導入、次世代プラットフォームへの対応強化</title>
@@ -453,14 +437,6 @@
 <pubDate>Tue, 20 Oct 2026 04:22:02 +0000</pubDate>
 <category>Yahoo!ニュース IT</category>
 <description> — Yahoo!ニュース IT / score: 80 (中国語AI悪用による大規模サイバー攻撃)</description>
-</item>
-<item>
-<title>[80] chakra-ui v2を検証用に使う前の確認をしていたら、タイポスクワッティングを狙う悪意のあるリポジトリをsnykで見つけた話</title>
-<link>https://qiita.com/J-T_ky2g/items/863c78a49602100cfe4d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/J-T_ky2g/items/863c78a49602100cfe4d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Mon, 19 Oct 2026 23:40:08 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>はじめに 検証用にchakra-ui v2を使おうとしていた。snykで脆弱性を確認しようと思った 問題 chakra-uiをインストールする開発者を狙ったパッケージを見つけた 解決 インストール時は記憶に頼って手打ちで実行せず、公式ドキュメントからコマンド... — Qiita 人気記事 / score: 80 (タイポスクワッティングを狙う悪意あるリポジトリ)</description>
 </item>
 <item>
 <title>[80] 2026年10月パッチに新たな問題、［スマート アプリ コントロール］をONにできない／Microsoftが回避策を案内</title>
@@ -567,12 +543,12 @@
 <description>Microsoftは2026年10月7日、AIエージェント向けポリシー駆動型コンテナ「Microsoft Execution Containers」（MXC）の一般提供を開始したことを発表した。 — gihyo.jp / score: 80 (AIエージェント向けコンテナの一般提供開始)</description>
 </item>
 <item>
-<title>[75] 「Gyazo」への不正アクセスによる情報漏えいに関する調査結果のご報告とお詫び（第三報）</title>
-<link>https://corp.helpfeel.com/news/news-20261021</link>
-<guid isPermaLink="true">https://corp.helpfeel.com/news/news-20261021</guid>
-<pubDate>Wed, 21 Oct 2026 05:02:47 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>平素は、株式会社Helpfeelが提供するサービスをご利用いただき、誠にありがとうございます。 株式会社Helpfeel（本社：京都府京都市、代表取締役 CEO：洛西一周、以下：当社）は、当社が提供する画像共有サービス「Gyazo」への第三者による不正アクセスおよび情報漏えいについて、2026年9月16日（第一報）ならびに9月25... — はてなブックマーク テクノロジー / score: 75 (画像共有サービスGyazoの不正アクセス調査報告)</description>
+<title>[75] リアルタイム文字起こしや特定の人物の音声クローンが可能な音声AI群「Voxtral 3」</title>
+<link>https://gigazine.net/news/20261021-voxtral-3/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261021-voxtral-3/</guid>
+<pubDate>Wed, 21 Oct 2026 09:39:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>フランス企業のMistral AIが音声AI群「Voxtral 3」をリリースしました。高精度な文字起こしAIと、特定の人物の声をを再現できる音声合成AIが含まれています。 続きを読む... — GIGAZINE / score: 75 (Mistral AIの音声AI群Voxtral 3リリース)</description>
 </item>
 <item>
 <title>[75] 「Google Chrome 156」安定版リリース、CSSだけでランダムな配置が可能に＆IndexedDBの保存方式がSQLiteベースに変更</title>
@@ -597,6 +573,14 @@
 <pubDate>Wed, 21 Oct 2026 01:53:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>中国企業のDeepSeekがAIを大規模サービス展開するための推論システム「DeepInfer」をオープンソース化しました。 続きを読む... — GIGAZINE / score: 75 (DeepSeekのAI推論システムのOSS公開)</description>
+</item>
+<item>
+<title>[75] AI の「直しました」に証拠を付けさせろ！ pstack を Claude Code に入れてみた</title>
+<link>https://qiita.com/kobayashi-fuuki/items/a7fbba06bb158dae0e11?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/kobayashi-fuuki/items/a7fbba06bb158dae0e11?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Wed, 21 Oct 2026 00:45:54 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>こんにちは、小林です! 株式会社リンクアンドモチベーションでデータスチュワードをしています。個人開発では機械学習で米国株の押し目を推定して売買する機能を持ったアプリを作っていて、その開発で Claude Code を使い込んでいます。その環境に、Cursor の公式プラグイ... — Qiita 人気記事 / score: 75 (AI開発ツールへのプラグイン導入と検証知見)</description>
 </item>
 <item>
 <title>[75] JEP targeted to JDK 28: 543: Structured Concurrency</title>
@@ -805,6 +789,22 @@
 <pubDate>Thu, 15 Oct 2026 07:33:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>KDEプロジェクトは10月14日、「KDE Plasma 6.8」をリリースした。 — gihyo.jp / score: 75 (KDE Plasma 6.8リリースとWayland移行)</description>
+</item>
+<item>
+<title>[75] Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ</title>
+<link>https://www.publickey1.jp/blog/26/windowsaimicrosoft_execution_containersmxc.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/windowsaimicrosoft_execution_containersmxc.html</guid>
+<pubDate>Wed, 14 Oct 2026 15:57:19 +0000</pubDate>
+<category>Publickey</category>
+<description>マイクロソフトはWindows 11上でAIエージェントを安全に動かすための隔離環境「Microsoft Execution Containers」（以下、MXC）の正式リリースを発表しました。 MXC is now GA on Windo... — Publickey / score: 75 (マイクロソフトの安全なAI実行環境の正式リリース)</description>
+</item>
+<item>
+<title>[75] AWS、Lambda Web Functionsを提供開始 ——WebアプリをLambda用のイベントハンドラーへ書き換えずにデプロイ</title>
+<link>https://gihyo.jp/article/2026/10/aws-lambda-web-functions?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/10/aws-lambda-web-functions?utm_source=feed</guid>
+<pubDate>Wed, 14 Oct 2026 10:30:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Amazon Web Services（AWS）は2026年10月12日、WebアプリケーションをLambda上で動かす新しい実行方式「AWS Lambda Web Functions」の提供開始を発表した。 — gihyo.jp / score: 75 (AWS Lambda Web Functionsの提供開始に関する速報)</description>
 </item>
 </channel>
 </rss>
