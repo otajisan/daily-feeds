@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 22 Oct 2026 16:11:04 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 18:11:48 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[98] 「GitLab」に深刻度“最大”の脆弱性　認証なしで任意のコード実行の恐れ、修正版適用を　CVSS「10.0」</title>
@@ -13,14 +13,6 @@
 <pubDate>Thu, 22 Oct 2026 03:55:13 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>米GitLabは10月21日（現地時間）、開発プラットフォーム「GitLab」に深刻（Critical）な脆弱性（CVE-2026-110264）が見つかったと発表し、修正版を公開した。CVSSスコアは最大の「10.0」。特定の条件下で、認証されていないユーザーがGitLabサーバ上で任意のコードを実行できる可能性がある。 12日に公表したCVSS 10.0の... — はてなブックマーク テクノロジー / score: 98 (GitLabのCVSS 10.0の深刻な脆弱性)</description>
-</item>
-<item>
-<title>[98] PHPのセキュリティ問題について、その深刻さをわかる人が言及、首相の注意喚起ポストは思った以上にありがたかった模様、一方緊急で運営終了となるサービスも</title>
-<link>https://togetter.com/li/2761388</link>
-<guid isPermaLink="true">https://togetter.com/li/2761388</guid>
-<pubDate>Thu, 22 Oct 2026 03:49:10 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>国家サイバー統括室(注意・警戒情報) @cyber_forecast PHPのセキュリティチームが、重大な２件の脆弱性に関する注意喚起を行っています。公開しているウェブサイトでPHPを使用しているか確認し、10月21日午後11時（日本時間）に公開される修正パッチについて、可及的速やかに適用できるよう準備をお願いいたします。 php... — はてなブックマーク テクノロジー / score: 98 (PHPの重大な脆弱性と緊急対応の注意喚起)</description>
 </item>
 <item>
 <title>[95] 【緊急】Node.jsの重大脆弱性に対応するセキュリティアップデートを安全に適用する方法 - Qiita</title>
@@ -53,6 +45,14 @@
 <pubDate>Thu, 22 Oct 2026 05:25:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>複数のAIモデルを簡単に利用できるオープンソースツール「LiteLLM」のバージョン1.107.0にパスワードなどを盗み出す不正プログラムが仕込まれていたことが判明しました。不正プログラムはLiteLLMをインストールした環境でPythonを起動するだけで実行される仕組みで、攻撃者が遠隔操作で別のプログラムを実行できる機能も備えていたとのことです。 続きを読む... — GIGAZINE / score: 95 (LiteLLMへの悪質な不正プログラム混入)</description>
+</item>
+<item>
+<title>[95] これがPHPの脆弱性を呟いてしまった人か。マジで全世界をデスマに叩き落とした人として後世に語り継がれると思う</title>
+<link>https://posfie.com/@golden_haniwa/p/LQ90sis</link>
+<guid isPermaLink="true">https://posfie.com/@golden_haniwa/p/LQ90sis</guid>
+<pubDate>Thu, 22 Oct 2026 03:54:28 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>該当の人物が、パッチが公開される前に、PHPのクリティカルな未修正脆弱性の詳細やPoC（概念実証）をX上で公開してしまったからです。 この脆弱性は以下のものです CVE-2026-109618 と CVE-2026-109619 通称 PHP2Shell CVSS 9.2の未認証リモートコード実行（RCE） PHP本体のメモリ管理やリクエスト処理に関する欠陥で、... — はてなブックマーク テクノロジー / score: 95 (PHPの深刻な未修正脆弱性とPoC公開)</description>
 </item>
 <item>
 <title>[95] 「PHPなんて使ってるやつが悪い」と言っている輩が一番危ない</title>
@@ -108,7 +108,7 @@
 <guid isPermaLink="true">https://cloud.google.com/blog/products/identity-security/responding-to-core-php-vulnerabilities-cve-2026-109618-cve-2026-109619/</guid>
 <pubDate>Wed, 21 Oct 2026 14:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
-<description>Editor's note : This blog was updated on Oct. 21, 2026 at 3:30 p.m. PDT with additional guidance on Cloud Armor, and at 4:25 p.m. PDT with additional guidance on monitoring, patching, and remediation. PHP and Wiz Research disclosed today two critical vulnerabilities in the core PHP language runtime that can expose applications to unauthenticated remote code execution and memory disclosure. Wiz used a mix of models to identify and help remediate these vulnerabilities. Notably, Gemini 4 Argon made — Google Cloud Blog / score: 95 (PHPの深刻な脆弱性とRCEへの対応)</description>
+<description>Editor's note : This blog was updated on Oct. 22, 2026 at 9:25 a.m. PDT, with revised guidance on Cloud Armor, and on Oct. 21, 2026, with additional guidance on monitoring, patching, and remediation. PHP and Wiz Research disclosed today two critical vulnerabilities in the core PHP language runtime that can expose applications to unauthenticated remote code execution and memory disclosure. Wiz used a mix of models to identify and help remediate these vulnerabilities. Notably, Gemini 4 Argon made  — Google Cloud Blog / score: 95 (PHPの深刻な脆弱性とRCEへの対応)</description>
 </item>
 <item>
 <title>[95] 「PHP」に“致命的”な脆弱性2件、日本時間21日深夜に緊急のセキュリティリリースへ【15時20分追記】／「CVSS 4.0」のスコアは「9.2」、すぐに更新できるよう準備を</title>
@@ -159,6 +159,14 @@
 <description>JavaScriptランタイム「Deno」の開発元であるDeno LandとCloudflareは、Deno LandがCloudflareに合流すると発表しました。CloudflareによるDeno Landの買収と見られます（Deno ... — Publickey / score: 95 (Deno開発終了とCloudflare合流の重大なニュース)</description>
 </item>
 <item>
+<title>[90] 【速報】中国政府系がAIで攻撃、MSが発表</title>
+<link>https://www.47news.jp/15123221.html</link>
+<guid isPermaLink="true">https://www.47news.jp/15123221.html</guid>
+<pubDate>Thu, 22 Oct 2026 15:13:42 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>【ニューヨーク共同】米マイクロソフト（MS）は21日、中国政府系とされるハッカー集団が、人工知能（AI）を使ったツールで世界の数百組織にサイバー攻撃を仕掛けていたと発表した。 — はてなブックマーク テクノロジー / score: 90 (中国政府系によるAIサイバー攻撃の発表)</description>
+</item>
+<item>
 <title>[90] Linuxカーネルに6件の脆弱性「Infinity Core」、5件でroot権限昇格・コンテナ脱出のPoC公開(CVE-2026-98260,CVE-2026-98256)他|セキュリティニュースのセキュリティ対策Lab</title>
 <link>https://rocket-boys.co.jp/security-measures-lab/linux%E3%82%AB%E3%83%BC%E3%83%8D%E3%83%AB%E3%81%AB6%E4%BB%B6%E3%81%AE%E8%84%86%E5%BC%B1%E6%80%A7%E3%80%8Cinfinity-core%E3%80%8D%E3%80%815%E4%BB%B6%E3%81%A7root%E6%A8%A9%E9%99%90%E6%98%87%E6%A0%BC/</link>
 <guid isPermaLink="true">https://rocket-boys.co.jp/security-measures-lab/linux%E3%82%AB%E3%83%BC%E3%83%8D%E3%83%AB%E3%81%AB6%E4%BB%B6%E3%81%AE%E8%84%86%E5%BC%B1%E6%80%A7%E3%80%8Cinfinity-core%E3%80%8D%E3%80%815%E4%BB%B6%E3%81%A7root%E6%A8%A9%E9%99%90%E6%98%87%E6%A0%BC/</guid>
@@ -191,12 +199,12 @@
 <description>--------------------------------------------------------------------- ■（緊急）BIND 9.xの脆弱性（DNSサービスの停止・リモートコード実行）に ついて（CVE-2026-94300） - バージョンアップを強く推奨 - 株式会社日本レジストリサービス（JPRS） 初版作成 2026/10/22（Thu） ------------------------------------... — はてなブックマーク テクノロジー / score: 90 (BIND 9の緊急脆弱性とバージョンアップ推奨)</description>
 </item>
 <item>
-<title>[90] バルテック、「PHPの脆弱性を標的としたサイバー攻撃」によりサービス停止、情報流出の可能性</title>
+<title>[90] バルテック、サイバー攻撃によりサービス停止、情報流出の可能性（記事訂正）</title>
 <link>https://internet.watch.impress.co.jp/docs/news/2150396.html</link>
 <guid isPermaLink="true">https://internet.watch.impress.co.jp/docs/news/2150396.html</guid>
 <pubDate>Thu, 22 Oct 2026 06:49:30 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>バルテック、「PHPの脆弱性を標的としたサイバー攻撃」によりサービス停止、情報流出の可能性 — はてなブックマーク テクノロジー / score: 90 (PHPの重大な脆弱性による実被害とサービス停止の報告)</description>
+<description>バルテック、サイバー攻撃によりサービス停止、情報流出の可能性（記事訂正） — はてなブックマーク テクノロジー / score: 90 (PHPの重大な脆弱性による実被害とサービス停止の報告)</description>
 </item>
 <item>
 <title>[90] eMudhraの中間CAの秘密鍵が公開された証明書から復元可能と判明、pip・uvなどの開発ツールに修正版</title>
@@ -319,14 +327,6 @@
 <description>A brand new Python here for you to enjoy! — Python Insider / score: 90 (主要プログラミング言語のメジャーバージョンリリース)</description>
 </item>
 <item>
-<title>[90] Upcoming Next.js Security Update for Upstream Vulnerabilities</title>
-<link>https://nextjs.org/blog/upcoming-nextjs-security-update-october-2026</link>
-<guid isPermaLink="true">https://nextjs.org/blog/upcoming-nextjs-security-update-october-2026</guid>
-<pubDate>Thu, 08 Oct 2026 18:00:00 +0000</pubDate>
-<category>Next.js Blog</category>
-<description>Next.js plans to publish an out-of-band security update next Wednesday, October 14, 2026, addressing two Critical and one High severity vulnerabilities in upstream dependencies. — Next.js Blog / score: 90 (Next.jsの深刻な脆弱性修正に関する緊急のアップデート)</description>
-</item>
-<item>
 <title>[85] カプコン 1177万件の情報漏えい</title>
 <link>https://news.yahoo.co.jp/pickup/6599723?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6599723?source=rss</guid>
@@ -373,14 +373,6 @@
 <pubDate>Thu, 22 Oct 2026 02:33:43 +0000</pubDate>
 <category>Yahoo!ニュース IT</category>
 <description> — Yahoo!ニュース IT / score: 85 (PHPの長期未発見の深刻な脆弱性に関する話題)</description>
-</item>
-<item>
-<title>[85] 大阪大、学生など7.8万人の情報漏えい　NECが無断で協力会社とデータ共有</title>
-<link>https://www.itmedia.co.jp/news/article/2610/22/2000002491/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/22/2000002491/</guid>
-<pubDate>Thu, 22 Oct 2026 01:44:37 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>大阪大学（阪大）は10月21日、全学教育用電子計算機システムの運用を委託しているNECから、卒業生や在学生、教職員の計7万7851人分の個人情報が漏えいしたと発表した。 NECは、大学に報告していない協力会社と情報を共有するため、個人情報を含むファイルをクラウドストレージ上で共有していたという。加えてNECは、作業... — はてなブックマーク テクノロジー / score: 85 (大規模な情報漏えい事故で影響甚大)</description>
 </item>
 <item>
 <title>[85] PHP脆弱性php2shell対応、7.4本番を止めずに守った夜と実際の攻撃 - Qiita</title>
@@ -535,14 +527,6 @@
 <description>Here am I floating 'round my tin can Far above the moon Planet Earth is blue And there's nothing I can do Five years in orbit. Mission complete. ;) — CPython リリース / score: 85 (Python 3.10のサポート終了情報)</description>
 </item>
 <item>
-<title>[85] Deno is joining Cloudflare</title>
-<link>https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/</link>
-<guid isPermaLink="true">https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/</guid>
-<pubDate>Fri, 09 Oct 2026 22:48:37 +0000</pubDate>
-<category>Simon Willison</category>
-<description>Deno is joining Cloudflare The Deno team released the first version of celld back in August - their open source implementation of the Durable Objects pattern from Cloudflare Workers. Today, Cloudflare are acquiring Deno outright, with the goal of building on celld to "make workerd self-hosting a first-class supported way to build and run apps using the Workers programming model" (see the Cloudflare blog .) The bad news is that Deno itself will not be maintained by Cloudflare beyond the next year — Simon Willison / score: 85 (DenoがCloudflareに加入する重大ニュース)</description>
-</item>
-<item>
 <title>[80] Anthropic、パーソナルAIアシスタントClaude Duetのリサーチプレビューを発表、米国で先行提供 ——必要な対応を通知、依頼した作業を離席中も継続</title>
 <link>https://gihyo.jp/article/2026/10/claude-duet?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/10/claude-duet?utm_source=feed</guid>
@@ -557,14 +541,6 @@
 <pubDate>Thu, 22 Oct 2026 09:37:40 +0000</pubDate>
 <category>iPhone Mania</category>
 <description>世界中のWebサイトの約7割で使われているプログラミング言語「PHP」において、外部からサーバーを不正に操作される恐れのある重大な脆弱性が見つかりました。 10月20日にPHPのセキュリティチームが事前告知し、翌21日に […] — iPhone Mania / score: 80 (PHP脆弱性のApple関連サービスへの影響考察)</description>
-</item>
-<item>
-<title>[80] 【重要】「お名前.com デスクトップクラウド」への不正アクセスに関するお詫びとお知らせ（第2報） | GMOインターネットグループ株式会社</title>
-<link>https://group.gmo/info/alert/20261022/</link>
-<guid isPermaLink="true">https://group.gmo/info/alert/20261022/</guid>
-<pubDate>Thu, 22 Oct 2026 09:27:55 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>2026年10月22日 お知らせ【重要】「お名前.com デスクトップクラウド」への不正アクセスに関するお詫びとお知らせ（第2報） GMOインターネットグループ株式会社 GMOインターネット株式会社 2026年10月22日 16：59時点 2026年10月21日にお知らせいたしました「お名前.com デスクトップクラウド」への第三者による不正アク... — はてなブックマーク テクノロジー / score: 80 (クラウドサービスへの不正アクセスに関する重要なお知らせ)</description>
 </item>
 <item>
 <title>[80] [AINews] OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months</title>
@@ -743,6 +719,14 @@
 <description>Structured Concurrency is the next major feature from Project Loom. In this session, we will explain the motivation and design of structured concurrency, show how to use it effectively, and discuss the lessons learned as the feature evolved. We'll also look beneath the surface at the new lower-level API behind the latest design, offering an early glimpse of work that is expected to form the basis of a future lower-level structured concurrency API. — Inside Java / score: 80 (Project Loomの構造化コンカレンシー解説)</description>
 </item>
 <item>
+<title>[75] JR四国、個人情報約3万件漏洩か　外部システムに不正アクセス - 日本経済新聞</title>
+<link>https://www.nikkei.com/article/DGXZQOCC223KR0S6A021C2000000/</link>
+<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOCC223KR0S6A021C2000000/</guid>
+<pubDate>Thu, 22 Oct 2026 12:02:27 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>JR四国は22日、顧客の個人情報最大約3万件が漏洩した可能性があると発表した。利用する外部のメール配信システムが不正アクセスを受けた。JR四国ツアーウェブ会員が対象で、氏名や住所、メールアドレスなどの情報が流出したおそれがある。クラウドサービスを手がけるラクス子会社が提供するメール配信システム「ブラスト... — はてなブックマーク テクノロジー / score: 75 (外部システム不正アクセスによる個人情報漏洩)</description>
+</item>
+<item>
 <title>[75] いやマジで総理大臣がPHP脆弱性対応について発信してくれたおかげで社内への説明がクソ楽だった…「総理自ら発信するレベルですよ？」で反論・苦情をほとんど封じ込めた</title>
 <link>https://togetter.com/li/2761457</link>
 <guid isPermaLink="true">https://togetter.com/li/2761457</guid>
@@ -775,14 +759,6 @@
 <description>米Anthropicは10月21日（現地時間、以下同）、「Claude Duet」を発表した。同日より研究プレビュー（research preview）として、米国の「Pro」「Max」プランの契約者からウェイトリスト方式で提供が始まっている。現時点で日本での提供時期は明らかにされていない。 — 窓の杜 / score: 75 (Anthropicの新しいAIエージェント発表)</description>
 </item>
 <item>
-<title>[75] NEC委託先への不正アクセスについてまとめてみた - piyolog</title>
-<link>https://piyolog.hatenadiary.jp/entry/2026/10/22/114426</link>
-<guid isPermaLink="true">https://piyolog.hatenadiary.jp/entry/2026/10/22/114426</guid>
-<pubDate>Thu, 22 Oct 2026 03:52:00 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>2026年10月20日、NECは委託先がサイバー攻撃を受け、顧客のシステム障害と個人情報を含む情報の漏えいが生じたと公表しました。ここでは関連する情報をまとめます。 委託先の正規アカウント悪用 NECは10月20日、システム開発と保守業務を委託している企業(委託先)が9月下旬にサイバー攻撃を受け、窃取された正規アカウン... — はてなブックマーク テクノロジー / score: 75 (NEC委託先へのサイバー攻撃と情報漏えい事案)</description>
-</item>
-<item>
 <title>[75] AIが自分を監視するシステムを勝手に無効化して問い詰められると「無効化していない」と虚偽の説明</title>
 <link>https://gigazine.net/news/20261022-openai-misalignment-report/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261022-openai-misalignment-report/</guid>
@@ -805,6 +781,30 @@
 <pubDate>Thu, 22 Oct 2026 01:37:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>AI企業のAnthropicがAIエージェントアプリ「Claude Duet」を発表しました。Claude Opus 5.5を基盤に動作するAIエージェントで、AIが自発的に情報収集したり通知を送信したりしてくれます。 続きを読む... — GIGAZINE / score: 75 (Anthropicによる自発的タスク実行AIエージェントの発表)</description>
+</item>
+<item>
+<title>[75] AWS、ECS向けフルマネージドイングレス「Amazon ECS Gateway」を発表</title>
+<link>https://codezine.jp/article/detail/30088</link>
+<guid isPermaLink="true">https://codezine.jp/article/detail/30088</guid>
+<pubDate>Wed, 21 Oct 2026 23:00:00 +0000</pubDate>
+<category>CodeZine</category>
+<description> — CodeZine / score: 75 (AWSの新機能発表による高いインフラ影響度)</description>
+</item>
+<item>
+<title>[75] PHPの脆弱性 米OpenAIのAIで発見</title>
+<link>https://news.yahoo.co.jp/pickup/6599651?source=rss</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6599651?source=rss</guid>
+<pubDate>Wed, 21 Oct 2026 22:32:08 +0000</pubDate>
+<category>Yahoo!ニュース IT</category>
+<description> — Yahoo!ニュース IT / score: 75 (AIを活用したPHPの脆弱性発見の話題)</description>
+</item>
+<item>
+<title>[75] AWS Neuron 2.33 adds native PyTorch support, Neuron Observer, and other new features</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/aws-announce-neuron-2-33-0</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/aws-announce-neuron-2-33-0</guid>
+<pubDate>Wed, 21 Oct 2026 15:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS Neuron 2.33 is now available, introducing TorchNeuron, the native PyTorch backend for AWS Trainium, in public beta. You can run models written with the standard PyTorch APIs on Amazon EC2 Trn2 and Trn3 instances, in eager mode or with torch.compile. This release also introduces Neuron Observer in public beta, which detects Trainium health issues in under a second and identifies the affected node or device. The vLLM Neuron plugin upgrades to vLLM 0.29.0, and the vLLM Omni Neuron plugin for Wa — AWS What's New / score: 75 (AWS Trainium向けのネイティブPyTorchサポート追加)</description>
 </item>
 </channel>
 </rss>

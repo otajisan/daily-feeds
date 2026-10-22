@@ -4,8 +4,80 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 22 Oct 2026 16:11:04 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 18:11:48 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Donating Agent Skills to the Agentic AI Foundation</title>
+<link>https://simonwillison.net/2026/Oct/22/donating-agent-skills/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Oct/22/donating-agent-skills/</guid>
+<pubDate>Thu, 22 Oct 2026 18:09:56 +0000</pubDate>
+<category>Simon Willison</category>
+<description>Donating Agent Skills to the Agentic AI Foundation News today from Anthropic: We’re committed to keeping Agent Skills open, community-driven, and vendor-neutral. Today, we are donating the standard to the Agentic AI Foundation (AAIF) under the Linux Foundation, which we co-founded with Block and OpenAI last year, and to which we donated the Model Context Protocol (MCP). I'm pleased to note I called this one last December , when Anthropic first declared skills to be an "open standard": I wouldn't — Simon Willison / score: 65 (Anthropicのエージェントスキル標準の寄贈)</description>
+</item>
+<item>
+<title>Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO</title>
+<link>https://www.latent.space/p/modal-d</link>
+<guid isPermaLink="true">https://www.latent.space/p/modal-d</guid>
+<pubDate>Thu, 22 Oct 2026 17:40:57 +0000</pubDate>
+<category>Latent Space</category>
+<description>Warm welcome to Basil Chatha , our newest cohost from the Forward Deployed side of the AI Engineering world! We’ll be ramping up a new show with him and couldn’t pass up an interview with Modal’s CEO Eric on the occasion of their monster Series D! Two years ago, we spoke with Erik Bernhardsson about his vision for truly serverless AI infrastructure: developers should be able to run code without provisioning clusters, predicting load, or paying for idle resources. CTO Akshat then joined us to tal — Latent Space / score: 50 (AIコンピュートとインフラに関する解説)</description>
+</item>
+<item>
+<title>AWS CloudFormation now simplifies stack update rollback operations</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/aws-cloudformation-cdk/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/aws-cloudformation-cdk/</guid>
+<pubDate>Thu, 22 Oct 2026 17:30:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS CloudFormation now makes it simpler to complete an update rollback and get back to deploying. An update rollback returns your stack to a known good state. Starting today, if some resources cannot roll back automatically, force rollback enables you to complete the rollback it in a single operation. It works across every CloudFormation workflow, from the AWS CLI , and SDKs to AWS CDK and AI agents. With force rollback, CloudFormation completes the update rollback and returns your stack to a de — AWS What's New / score: 60 (AWS CloudFormationのロールバック機能改善)</description>
+</item>
+<item>
+<title>v4.2.0-RC1</title>
+<link>https://github.com/spring-projects/spring-boot/releases/tag/v4.2.0-RC1</link>
+<guid isPermaLink="true">https://github.com/spring-projects/spring-boot/releases/tag/v4.2.0-RC1</guid>
+<pubDate>Thu, 22 Oct 2026 17:04:34 +0000</pubDate>
+<category>Spring Boot リリース</category>
+<description>⭐ New Features Apply the readAllBytes() optimization to deflated nested jar entries #52285 Improve uber jar performance by looking up classes and resources directly in nested jars #52246 Support RABBITMQ_DEFAULT_VHOST in Docker Compose RabbitMQ integration #51940 Support random root passwords in MariaDB and MySQL Docker Compose integration #51938 Improve auto-configuration sorting performance #51867 Allow properties migrator to fail application startup #51855 Add property to enable Caffeine asyn — Spring Boot リリース / score: 60 (Spring Bootの新機能追加版リリース)</description>
+</item>
+<item>
+<title>v4.1.2</title>
+<link>https://github.com/spring-projects/spring-boot/releases/tag/v4.1.2</link>
+<guid isPermaLink="true">https://github.com/spring-projects/spring-boot/releases/tag/v4.1.2</guid>
+<pubDate>Thu, 22 Oct 2026 17:04:04 +0000</pubDate>
+<category>Spring Boot リリース</category>
+<description>No content. — Spring Boot リリース / score: 45 (Spring Bootのパッチリリース)</description>
+</item>
+<item>
+<title>v4.0.9</title>
+<link>https://github.com/spring-projects/spring-boot/releases/tag/v4.0.9</link>
+<guid isPermaLink="true">https://github.com/spring-projects/spring-boot/releases/tag/v4.0.9</guid>
+<pubDate>Thu, 22 Oct 2026 17:04:03 +0000</pubDate>
+<category>Spring Boot リリース</category>
+<description>⭐ New Features Add TWENTY_SEVEN to JavaVersion enum #51422 🐞 Bug Fixes JWTs are rejected when issuer-uri is empty and jwk-set-uri is set #52249 Package manifest attributes are missing for nested jars without directory entries #52244 OriginTrackedPropertiesLoader drops properties whose name starts with # or ! #52207 OriginTrackedResource does not implement equals correctly #52205 Graceful shutdown of Tomcat or Jetty may call back with REQUESTS_ACTIVE when stop is called immediately after shutDown — Spring Boot リリース / score: 50 (Spring Bootのバグ修正版リリース)</description>
+</item>
+<item>
+<title>｢iPhone Duo｣に最適化されたアプリはApp Storeで｢Made for iPhone Duo｣バッジが表示されるように</title>
+<link>https://taisy0.com/2026/10/23/229280.html</link>
+<guid isPermaLink="true">https://taisy0.com/2026/10/23/229280.html</guid>
+<pubDate>Thu, 22 Oct 2026 16:32:16 +0000</pubDate>
+<category>気になる、記になる…</category>
+<description>Appleが、「iPhone Duo」向けに最適化されたアプリは、App Store内の商品ページに表示される 「Made for iPhone Duo」バッジ によって簡単に見分けられるようになることを発表しました。 […] — 気になる、記になる… / score: 45 (Appleの新規ハードウェア関連アプリバッジ)</description>
+</item>
+<item>
+<title>Amazon SageMaker AI announces training session APIs for serverless model customization</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/training-session-apis-on-sagemaker-ai</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/training-session-apis-on-sagemaker-ai</guid>
+<pubDate>Thu, 22 Oct 2026 16:30:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon SageMaker AI serverless model customization now supports training session APIs, giving customers full control over their post-training algorithm without provisioning or managing GPU infrastructure. Managed techniques, including SFT, DPO, and other reinforcement learning methods, let customers pick a technique and a model and have SageMaker AI run the training. With training session APIs, teams get to write the training loop, whether that's reproducing SFT or DPO on their own terms or impl — AWS What's New / score: 60 (Amazon SageMakerのサーバーレス学習API)</description>
+</item>
+<item>
+<title>OlmoEarth v1.3: State-of-the-art embeddings for the whole planet</title>
+<link>https://huggingface.co/blog/allenai/olmoearth-v1-3</link>
+<guid isPermaLink="true">https://huggingface.co/blog/allenai/olmoearth-v1-3</guid>
+<pubDate>Thu, 22 Oct 2026 16:11:31 +0000</pubDate>
+<category>Hugging Face Blog</category>
+<description> — Hugging Face Blog / score: 55 (地理空間AI用最新埋め込みモデルの公開)</description>
+</item>
 <item>
 <title>Introducing new self-learning context enrichment in Knowledge Catalog</title>
 <link>https://cloud.google.com/blog/products/data-analytics/knowledge-catalog-self-learning-context-enrichment-for-ai-agents/</link>
@@ -37,6 +109,14 @@
 <pubDate>Thu, 22 Oct 2026 15:30:49 +0000</pubDate>
 <category>気になる、記になる…</category>
 <description>本日、Shokzが、先日に発表していたTVアニメ『ジョジョの奇妙な冒険』とのコラボレーションイヤホン「OpenRun Pro 2 ジョナサン・ジョースターモデル」と「OpenDots 2 ディオ・ブランドーモデル」の販売 […] — 気になる、記になる… / score: 20 (アニメコラボモデルのイヤホン発売情報)</description>
+</item>
+<item>
+<title>【速報】中国政府系がAIで攻撃、MSが発表</title>
+<link>https://www.47news.jp/15123221.html</link>
+<guid isPermaLink="true">https://www.47news.jp/15123221.html</guid>
+<pubDate>Thu, 22 Oct 2026 15:13:42 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>【ニューヨーク共同】米マイクロソフト（MS）は21日、中国政府系とされるハッカー集団が、人工知能（AI）を使ったツールで世界の数百組織にサイバー攻撃を仕掛けていたと発表した。 — はてなブックマーク テクノロジー / score: 90 (中国政府系によるAIサイバー攻撃の発表)</description>
 </item>
 <item>
 <title>AMD Ryzen 9 9950X3D搭載PCが10万円オフ！ パソコンショップSEVEN、10月23日限定セール</title>
@@ -173,6 +253,22 @@
 <pubDate>Thu, 22 Oct 2026 12:14:04 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>「Oracle Java SE」にも致命的な脆弱性 ～リモートでデータの窃取・作成・削除・変更が可能／ — はてなブックマーク テクノロジー / score: 90 (Java SEの致命的な脆弱性情報)</description>
+</item>
+<item>
+<title>阪急電鉄と阪神電鉄、AIで忘れ物検索　チャットで問い合わせ - 日本経済新聞</title>
+<link>https://www.nikkei.com/article/DGXZQOUF224ZQ0S6A021C2000000/</link>
+<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUF224ZQ0S6A021C2000000/</guid>
+<pubDate>Thu, 22 Oct 2026 12:04:47 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>阪急電鉄と阪神電気鉄道は22日、忘れ物の問い合わせ対応に人工知能（AI）を使ったサービスを導入すると発表した。利用者が忘れ物の特徴を専用サイト上にチャットで入力すると、AIが拾得物のデータベースと照合して探す仕組み。返却までにかかる時間を短縮する。阪神電鉄では11月10日から、阪急電鉄では11月19日からサー... — はてなブックマーク テクノロジー / score: 40 (鉄道会社の忘れ物検索AI導入事例)</description>
+</item>
+<item>
+<title>JR四国、個人情報約3万件漏洩か　外部システムに不正アクセス - 日本経済新聞</title>
+<link>https://www.nikkei.com/article/DGXZQOCC223KR0S6A021C2000000/</link>
+<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOCC223KR0S6A021C2000000/</guid>
+<pubDate>Thu, 22 Oct 2026 12:02:27 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>JR四国は22日、顧客の個人情報最大約3万件が漏洩した可能性があると発表した。利用する外部のメール配信システムが不正アクセスを受けた。JR四国ツアーウェブ会員が対象で、氏名や住所、メールアドレスなどの情報が流出したおそれがある。クラウドサービスを手がけるラクス子会社が提供するメール配信システム「ブラスト... — はてなブックマーク テクノロジー / score: 75 (外部システム不正アクセスによる個人情報漏洩)</description>
 </item>
 <item>
 <title>Windows 11には31年前の「Windows 95のメモリ管理機能」が今も隠されている</title>
@@ -519,14 +615,6 @@
 <description>SteelSeriesがUWB搭載の8Kワイヤレスゲーミングマウス「Sensei Pro」「Rival Pro」を発表。電波干渉を受けにくい通信と最軽量49gの設計、交換式バッテリーが特徴。価格は33,310円で、ブラックは11月20日から発売予定。 — ASCII.jp / score: 45 (SteelSeriesの新型ゲーミングマウス発表)</description>
 </item>
 <item>
-<title>【重要】「お名前.com デスクトップクラウド」への不正アクセスに関するお詫びとお知らせ（第2報） | GMOインターネットグループ株式会社</title>
-<link>https://group.gmo/info/alert/20261022/</link>
-<guid isPermaLink="true">https://group.gmo/info/alert/20261022/</guid>
-<pubDate>Thu, 22 Oct 2026 09:27:55 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>2026年10月22日 お知らせ【重要】「お名前.com デスクトップクラウド」への不正アクセスに関するお詫びとお知らせ（第2報） GMOインターネットグループ株式会社 GMOインターネット株式会社 2026年10月22日 16：59時点 2026年10月21日にお知らせいたしました「お名前.com デスクトップクラウド」への第三者による不正アク... — はてなブックマーク テクノロジー / score: 80 (クラウドサービスへの不正アクセスに関する重要なお知らせ)</description>
-</item>
-<item>
 <title>SamuraiAX、業務AIエージェントOS「Samurai App」で、社員一人ひとりの「代理ボット」が同僚からの質問に答えの下書きを作り、本人が確かめて返せる機能を提供</title>
 <link>https://ascii.jp/elem/000/004/445/4445095/?rss</link>
 <guid isPermaLink="true">https://ascii.jp/elem/000/004/445/4445095/?rss</guid>
@@ -717,94 +805,6 @@
 <pubDate>Thu, 22 Oct 2026 08:03:31 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>--------------------------------------------------------------------- ■（緊急）BIND 9.xの脆弱性（DNSサービスの停止・リモートコード実行）に ついて（CVE-2026-94300） - バージョンアップを強く推奨 - 株式会社日本レジストリサービス（JPRS） 初版作成 2026/10/22（Thu） ------------------------------------... — はてなブックマーク テクノロジー / score: 90 (BIND 9の緊急脆弱性とバージョンアップ推奨)</description>
-</item>
-<item>
-<title>DevRev、AIプラットフォーム「Computer」の日本リージョンを一般提供開始</title>
-<link>https://codezine.jp/article/detail/30114</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/30114</guid>
-<pubDate>Thu, 22 Oct 2026 08:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 50 (AIプラットフォームの日本リージョン提供開始)</description>
-</item>
-<item>
-<title>「一糸乱れぬ」って、どれくらい？ ソニーのAIがダンスを数値化</title>
-<link>https://www.gizmodo.jp/article/sony-lynxcope-d-league-dance/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/sony-lynxcope-d-league-dance/</guid>
-<pubDate>Thu, 22 Oct 2026 08:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>全員の動きがピタッとそろう瞬間、つい見入ってしまいますよね。チームで踊るダンスは、腕を上げるタイミングやポーズがそろうと、ぐっと迫力が増します。でも、次々と振り付けが変わるなかで、8人全員の動きを細かく見比べるのは大変そうです。ソニーと日本… — ギズモード・ジャパン / score: 40 (ソニーのAI技術によるダンスの数値化事例)</description>
-</item>
-<item>
-<title>Hugo のビルドを just にまとめて、生成物の置き場で事故りました</title>
-<link>https://zenn.dev/fumika_676/articles/20220236284e11</link>
-<guid isPermaLink="true">https://zenn.dev/fumika_676/articles/20220236284e11</guid>
-<pubDate>Thu, 22 Oct 2026 07:58:08 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>前回、書庫に検索を付けたら、叩くコマンドが二つに増えました。順番もあります。 二つあると、だいたい片方を忘れます。そしてミスります。なので今回は、これを just gen の一言にまとめてしまおうと思います。 まとめた先で一回やらかしてもいるので、ついでにそっちも書いておきます。 Hugo、Pagefind、Node.js は前回までに入っているものとして進めます。 just 1.57.0 hugo v0.165.0+extended linux/amd64 pagefind 1.5.2 node v22.22.1 Ubuntu Server 26.04 LTS just を入れま... — Zenn トレンド / score: 40 (HugoのビルドコマンドをjustでまとめるTips)</description>
-</item>
-<item>
-<title>PHP脆弱性悪用の試み増 数百万件</title>
-<link>https://news.yahoo.co.jp/pickup/6599702?source=rss</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6599702?source=rss</guid>
-<pubDate>Thu, 22 Oct 2026 07:54:45 +0000</pubDate>
-<category>Yahoo!ニュース IT</category>
-<description> — Yahoo!ニュース IT / score: 95 (PHP脆弱性の悪用試み急増)</description>
-</item>
-<item>
-<title>Ensemble forecasting with IBM Granite time-series models</title>
-<link>https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1</link>
-<guid isPermaLink="true">https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1</guid>
-<pubDate>Thu, 22 Oct 2026 07:51:31 +0000</pubDate>
-<category>Hugging Face Blog</category>
-<description> — Hugging Face Blog / score: 55 (IBM Granite時系列モデルの解説)</description>
-</item>
-<item>
-<title>パスワードを使い回すなとは言うものの、あらゆるサービスに会員登録させられるし普通に手入力が必要な場面も多くてどうしたらいいんだ？</title>
-<link>https://togetter.com/li/2761441</link>
-<guid isPermaLink="true">https://togetter.com/li/2761441</guid>
-<pubDate>Thu, 22 Oct 2026 07:44:50 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>ゆるせ @yurusexxx パスワード使い回すな言いますけども今時普通に生きてるだけであらゆるサービスに会員登録させられるし普通に手入力しなければならない場面も出てくるし全部変えてたら分からなくなるし現実的に考えて無理ですよ 2026-10-21 22:43:22 ゆるせ @yurusexxx サービスによって条件が違うのも困る 何文字以... — はてなブックマーク テクノロジー / score: 35 (パスワード管理の一般的な悩みについての雑感)</description>
-</item>
-<item>
-<title>[AINews] OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months</title>
-<link>https://www.latent.space/p/ainews-openais-patch-the-planet-program</link>
-<guid isPermaLink="true">https://www.latent.space/p/ainews-openais-patch-the-planet-program</guid>
-<pubDate>Thu, 22 Oct 2026 07:42:44 +0000</pubDate>
-<category>Latent Space</category>
-<description>Almost 2 months ago, OpenAI introduced Daybreak for Frontline Defenders , a $1B subsidy for access to Daybreak cyber models and products. That funding came into use almost immediately, as major vulnerabilities in PHP were independently discovered by two parties: Ryan Austin, a researcher at the security firm Calif, as part of the OpenAI “ Patch the Planet ” project in August 2026 using GPT 5.6 Sol: … as well as Wiz, recently acquired into Google Cloud (using Gemini 4 Argon and GPT-5.6 Sol, as we — Latent Space / score: 80 (AIを活用したPHP2Shell発見の裏側)</description>
-</item>
-<item>
-<title>iPhone Duoの折り目、触るとペコペコするじゃん！→これが「折りたたみの正解」か？</title>
-<link>https://www.gizmodo.jp/article/iphone-duo-folding-screen/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/iphone-duo-folding-screen/</guid>
-<pubDate>Thu, 22 Oct 2026 07:35:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>Apple初の折りたたみスマホ「iPhone Duo」の画面折り目がペコペコする仕様について解説します。革新的な構造の背景や耐久性への影響をチェック。 — ギズモード・ジャパン / score: 50 (折りたたみデバイスの構造と仕様に関する解説)</description>
-</item>
-<item>
-<title>Apple、iPhone Duoの好調な予約を受け生産目標を44％引き上げへ</title>
-<link>https://iphone-mania.jp/iphone18-607710/</link>
-<guid isPermaLink="true">https://iphone-mania.jp/iphone18-607710/</guid>
-<pubDate>Thu, 22 Oct 2026 07:31:23 +0000</pubDate>
-<category>iPhone Mania</category>
-<description>10月16日に予約受付が始まったiPhone Duoは、予約開始直後から配送予定が来年にずれ込むほどの人気となっています。Appleは予想を上回る需要を受け、iPhone Duoの生産台数を増やすようサプライヤーに指示し […] — iPhone Mania / score: 35 (新型iPhoneの生産目標引き上げ)</description>
-</item>
-<item>
-<title>Node.jsがセキュリティアップデートで「22.23.4」「24.22.1」「26.12.1」配信、全体で10件の脆弱性を修正</title>
-<link>https://gigazine.net/news/20261022-node-js-security-releases/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261022-node-js-security-releases/</guid>
-<pubDate>Thu, 22 Oct 2026 07:30:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>オープンソースのJavaScript実行環境「Node.js」が脆弱性10件に対応するセキュリティアップデートを行いました。今回のアップデートはスケジュール通り公開されたもので、修正される脆弱性の深刻度は4件が「高」、3件が「中」、3件が「低」となっています。 続きを読む... — GIGAZINE / score: 85 (Node.jsの複数脆弱性修正アップデート)</description>
-</item>
-<item>
-<title>結局“PHP騒動”って、何があったの？ そもそもPHPとは、何がヤバいのか、どうなったのか解説</title>
-<link>https://www.gizmodo.jp/article/php-vulnerability-incident-explained/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/php-vulnerability-incident-explained/</guid>
-<pubDate>Thu, 22 Oct 2026 07:15:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>PHPの重大な脆弱性による大規模なセキュリティ騒動の原因や、Webサービス停止の背景を分かりやすく解説します。 — ギズモード・ジャパン / score: 85 (主要言語のセキュリティ脆弱性と大規模騒動の解説)</description>
 </item>
 </channel>
 </rss>
