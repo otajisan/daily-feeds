@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 22 Oct 2026 18:11:48 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 20:09:34 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[98] 「GitLab」に深刻度“最大”の脆弱性　認証なしで任意のコード実行の恐れ、修正版適用を　CVSS「10.0」</title>
@@ -167,6 +167,22 @@
 <description>【ニューヨーク共同】米マイクロソフト（MS）は21日、中国政府系とされるハッカー集団が、人工知能（AI）を使ったツールで世界の数百組織にサイバー攻撃を仕掛けていたと発表した。 — はてなブックマーク テクノロジー / score: 90 (中国政府系によるAIサイバー攻撃の発表)</description>
 </item>
 <item>
+<title>[90] eMudhraの中間CAの秘密鍵が公開された証明書から復元可能と判明、pip・uvなどの開発ツールに修正版 | gihyo.jp</title>
+<link>https://gihyo.jp/article/2026/10/emudhra-ca-key-compromise-dev-tools-fixes</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/10/emudhra-ca-key-compromise-dev-tools-fixes</guid>
+<pubDate>Thu, 22 Oct 2026 14:46:48 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>eMudhraの中間CAの秘密鍵が公開された証明書から復元可能と判明⁠⁠、pip⁠⁠・uvなどの開発ツールに修正版 認証局eMudhraの中間CA証明書8件で、公開された証明書から秘密鍵を復元できる問題が判明した。このうちTLS用の中間CAの秘密鍵を使えば、攻撃者が偽のHTTPS証明書を作成できる。Python関連ツールやGo、Node.js、Rust... — はてなブックマーク テクノロジー / score: 90 (認証局の中間CA秘密鍵復元問題)</description>
+</item>
+<item>
+<title>[90] Several Linux Kernel Vulnerabilities Accidentally Posted To Public Kernel Mailing List - Phoronix</title>
+<link>https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities</link>
+<guid isPermaLink="true">https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities</guid>
+<pubDate>Thu, 22 Oct 2026 14:46:13 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Several Linux Kernel Vulnerabilities Accidentally Posted To Public Kernel Mailing List Written by Michael Larabel in Linux Security on 22 October 2026 at 06:05 AM EDT. 11 Comments Seemingly as an accident, overnight several new Linux kernel vulnerability reports were posted to the public Linux ke... — はてなブックマーク テクノロジー / score: 90 (Linuxカーネルの重大な脆弱性露出)</description>
+</item>
+<item>
 <title>[90] Linuxカーネルに6件の脆弱性「Infinity Core」、5件でroot権限昇格・コンテナ脱出のPoC公開(CVE-2026-98260,CVE-2026-98256)他|セキュリティニュースのセキュリティ対策Lab</title>
 <link>https://rocket-boys.co.jp/security-measures-lab/linux%E3%82%AB%E3%83%BC%E3%83%8D%E3%83%AB%E3%81%AB6%E4%BB%B6%E3%81%AE%E8%84%86%E5%BC%B1%E6%80%A7%E3%80%8Cinfinity-core%E3%80%8D%E3%80%815%E4%BB%B6%E3%81%A7root%E6%A8%A9%E9%99%90%E6%98%87%E6%A0%BC/</link>
 <guid isPermaLink="true">https://rocket-boys.co.jp/security-measures-lab/linux%E3%82%AB%E3%83%BC%E3%83%8D%E3%83%AB%E3%81%AB6%E4%BB%B6%E3%81%AE%E8%84%86%E5%BC%B1%E6%80%A7%E3%80%8Cinfinity-core%E3%80%8D%E3%80%815%E4%BB%B6%E3%81%A7root%E6%A8%A9%E9%99%90%E6%98%87%E6%A0%BC/</guid>
@@ -205,14 +221,6 @@
 <pubDate>Thu, 22 Oct 2026 06:49:30 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>バルテック、サイバー攻撃によりサービス停止、情報流出の可能性（記事訂正） — はてなブックマーク テクノロジー / score: 90 (PHPの重大な脆弱性による実被害とサービス停止の報告)</description>
-</item>
-<item>
-<title>[90] eMudhraの中間CAの秘密鍵が公開された証明書から復元可能と判明、pip・uvなどの開発ツールに修正版</title>
-<link>https://gihyo.jp/article/2026/10/emudhra-ca-key-compromise-dev-tools-fixes?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/10/emudhra-ca-key-compromise-dev-tools-fixes?utm_source=feed</guid>
-<pubDate>Thu, 22 Oct 2026 05:24:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>認証局eMudhraの中間CA証明書8件で、公開された証明書から秘密鍵を復元できる問題が判明した。このうちTLS用の中間CAの秘密鍵を使えば、攻撃者が偽のHTTPS証明書を作成できる。Python関連ツールやGo、Node.js、Rustなどで、対策を取り込んだ更新版が提供されている。 — gihyo.jp / score: 90 (認証局の中間CA秘密鍵復元問題)</description>
 </item>
 <item>
 <title>[90] 「Node.js」にセキュリティ更新 ～10件の脆弱性を修正、「eMudhra」の侵害にも対応／v22.23.4、v24.22.1、v26.12.1が公開</title>
@@ -325,6 +333,22 @@
 <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
 <category>Python Insider</category>
 <description>A brand new Python here for you to enjoy! — Python Insider / score: 90 (主要プログラミング言語のメジャーバージョンリリース)</description>
+</item>
+<item>
+<title>[85] デジタル庁HPの問い合わせ内容漏洩か　最大1万3000件以上</title>
+<link>https://news.tv-asahi.co.jp/news_economy/articles/000542237.html</link>
+<guid isPermaLink="true">https://news.tv-asahi.co.jp/news_economy/articles/000542237.html</guid>
+<pubDate>Thu, 22 Oct 2026 16:19:51 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>1 デジタル庁は22日夜、ホームページの問い合わせフォームに入力された内容など最大1万3000件余りが外部に流出した可能性があると発表しました。 デジタル庁によりますと、流出した可能性があるのは2021年5月から2023年3月までの間にホームページの問い合わせフォームに入力された「一般的なご意見・ご要望」最大8833件... — はてなブックマーク テクノロジー / score: 85 (政府機関の重大な情報漏洩インシデント)</description>
+</item>
+<item>
+<title>[85] AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise | Microsoft Security Blog</title>
+<link>https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/</link>
+<guid isPermaLink="true">https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/</guid>
+<pubDate>Thu, 22 Oct 2026 12:32:15 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>As early as September 2026, Storm-0940, a China-state aligned actor, used the agentic AI penetration testing framework ARTEX to automate attacks targeting hundreds of organizations globally across a broad range of industries. Several of these Storm-0940 ARTEX-driven attacks have resulted in the a... — はてなブックマーク テクノロジー / score: 85 (AIを活用した大規模な国家系サイバー攻撃)</description>
 </item>
 <item>
 <title>[85] カプコン 1177万件の情報漏えい</title>
@@ -511,14 +535,6 @@
 <description>AWS Lambda Web Functions is a serverless compute primitive that runs your HTTP framework natively, delivering fast, consistent responses through multi-concurrent execution and automated global distribution. — AWS News Blog / score: 85 (AWS Lambda Web Functions発表の公式解説)</description>
 </item>
 <item>
-<title>[85] AWS Lambda announces Lambda Web Functions</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-web-functions/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-web-functions/</guid>
-<pubDate>Mon, 12 Oct 2026 19:30:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>AWS Lambda announces Lambda Web Functions, a new serverless compute primitive where your code handles HTTP requests directly. Your code listens on a port and handles requests as it would on any HTTP server. You use frameworks you already know, such as Express or Hono, with no adapters or custom configuration. This enables you to serve workloads such as AI inference endpoints, server-side rendered (SSR) web apps, streaming API endpoints, microservices, and webhooks. You pay for active CPU time an — AWS What's New / score: 85 (AWS Lambdaの新機能でHTTP直接処理が可能に)</description>
-</item>
-<item>
 <title>[85] Python 3.10 end of life</title>
 <link>https://github.com/python/cpython/releases/tag/3.10</link>
 <guid isPermaLink="true">https://github.com/python/cpython/releases/tag/3.10</guid>
@@ -557,14 +573,6 @@
 <pubDate>Thu, 22 Oct 2026 03:56:28 +0000</pubDate>
 <category>Qiita 人気記事</category>
 <description>タイトルの通りです。 外側から確認できる内容をチェックしているだけなので、 サーバーの設定によってはチェックできない項目もあります チェック内容 PHP2Shell チェック内容 チェック対象 PHPバージョンを修正版（8.2.35 / 8.3.36... — Qiita 人気記事 / score: 80 (PHP2Shell脆弱性の有無を確認するためのバージョン確認ツール)</description>
-</item>
-<item>
-<title>[80] 不正取引も行われた岩井コスモ証券への不正アクセスについてまとめてみた - piyolog</title>
-<link>https://piyolog.hatenadiary.jp/entry/2026/10/22/113434</link>
-<guid isPermaLink="true">https://piyolog.hatenadiary.jp/entry/2026/10/22/113434</guid>
-<pubDate>Thu, 22 Oct 2026 03:51:54 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>2026年10月16日、岩井コスモ証券は、インターネット取引のシステムの運用と保守を委託しているトレードワークスのシステムへの不正アクセスにより、顧客情報が漏えいを、また10月20日には売買管理システムへ攻撃により不正取引が行われたことも公表しました。ここでは関連する情報をまとめます。 委託先システムから顧客... — はてなブックマーク テクノロジー / score: 80 (証券システムへの不正アクセスと不正取引の発生)</description>
 </item>
 <item>
 <title>[80] GoogleとOpenAIが提携、Google Cloudで「GPT-6 Astra」などOpenAIのAIモデルを提供へ</title>
@@ -719,12 +727,12 @@
 <description>Structured Concurrency is the next major feature from Project Loom. In this session, we will explain the motivation and design of structured concurrency, show how to use it effectively, and discuss the lessons learned as the feature evolved. We'll also look beneath the surface at the new lower-level API behind the latest design, offering an early glimpse of work that is expected to form the basis of a future lower-level structured concurrency API. — Inside Java / score: 80 (Project Loomの構造化コンカレンシー解説)</description>
 </item>
 <item>
-<title>[75] JR四国、個人情報約3万件漏洩か　外部システムに不正アクセス - 日本経済新聞</title>
-<link>https://www.nikkei.com/article/DGXZQOCC223KR0S6A021C2000000/</link>
-<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOCC223KR0S6A021C2000000/</guid>
-<pubDate>Thu, 22 Oct 2026 12:02:27 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>JR四国は22日、顧客の個人情報最大約3万件が漏洩した可能性があると発表した。利用する外部のメール配信システムが不正アクセスを受けた。JR四国ツアーウェブ会員が対象で、氏名や住所、メールアドレスなどの情報が流出したおそれがある。クラウドサービスを手がけるラクス子会社が提供するメール配信システム「ブラスト... — はてなブックマーク テクノロジー / score: 75 (外部システム不正アクセスによる個人情報漏洩)</description>
+<title>[75] Build more responsive apps with the Decisions API</title>
+<link>https://openai.com/index/decisions-api</link>
+<guid isPermaLink="true">https://openai.com/index/decisions-api</guid>
+<pubDate>Thu, 22 Oct 2026 19:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>Fast, focused, low-cost decisions for any application. — OpenAI News / score: 75 (OpenAIによる新しいAPIの提供)</description>
 </item>
 <item>
 <title>[75] いやマジで総理大臣がPHP脆弱性対応について発信してくれたおかげで社内への説明がクソ楽だった…「総理自ら発信するレベルですよ？」で反論・苦情をほとんど封じ込めた</title>
@@ -797,14 +805,6 @@
 <pubDate>Wed, 21 Oct 2026 22:32:08 +0000</pubDate>
 <category>Yahoo!ニュース IT</category>
 <description> — Yahoo!ニュース IT / score: 75 (AIを活用したPHPの脆弱性発見の話題)</description>
-</item>
-<item>
-<title>[75] AWS Neuron 2.33 adds native PyTorch support, Neuron Observer, and other new features</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/10/aws-announce-neuron-2-33-0</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/aws-announce-neuron-2-33-0</guid>
-<pubDate>Wed, 21 Oct 2026 15:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>AWS Neuron 2.33 is now available, introducing TorchNeuron, the native PyTorch backend for AWS Trainium, in public beta. You can run models written with the standard PyTorch APIs on Amazon EC2 Trn2 and Trn3 instances, in eager mode or with torch.compile. This release also introduces Neuron Observer in public beta, which detects Trainium health issues in under a second and identifies the affected node or device. The vLLM Neuron plugin upgrades to vLLM 0.29.0, and the vLLM Omni Neuron plugin for Wa — AWS What's New / score: 75 (AWS Trainium向けのネイティブPyTorchサポート追加)</description>
 </item>
 </channel>
 </rss>
