@@ -4,16 +4,8 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 22 Oct 2026 20:09:34 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 22:09:14 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
-<item>
-<title>[98] 「GitLab」に深刻度“最大”の脆弱性　認証なしで任意のコード実行の恐れ、修正版適用を　CVSS「10.0」</title>
-<link>https://www.itmedia.co.jp/news/article/2610/22/2000002501/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/22/2000002501/</guid>
-<pubDate>Thu, 22 Oct 2026 03:55:13 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>米GitLabは10月21日（現地時間）、開発プラットフォーム「GitLab」に深刻（Critical）な脆弱性（CVE-2026-110264）が見つかったと発表し、修正版を公開した。CVSSスコアは最大の「10.0」。特定の条件下で、認証されていないユーザーがGitLabサーバ上で任意のコードを実行できる可能性がある。 12日に公表したCVSS 10.0の... — はてなブックマーク テクノロジー / score: 98 (GitLabのCVSS 10.0の深刻な脆弱性)</description>
-</item>
 <item>
 <title>[95] 【緊急】Node.jsの重大脆弱性に対応するセキュリティアップデートを安全に適用する方法 - Qiita</title>
 <link>https://qiita.com/superdora-cloud/items/8cad27487cd0e67d088c</link>
@@ -79,28 +71,12 @@
 <description>2026年10月、PHP コミュニティから緊急性の高いセキュリティ修正が公開されました。対象となったのは、CVE-2026-109618 と CVE-2026-109619。いずれも PHP Core に起因する重大な問題で、未認証のリモートコード実行 につながる可能性があ... — Qiita 人気記事 / score: 95 (PHP2Shell脆弱性の影響調査記録)</description>
 </item>
 <item>
-<title>[95] PHPの重大脆弱性「PHP2Shell」はセキュリティ企業のCalifとWizがAIを用いて発見しOpenAIの枠組みを使って対策したことが判明</title>
-<link>https://gigazine.net/news/20261022-php2shell-wiz-openai-calif/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261022-php2shell-wiz-openai-calif/</guid>
-<pubDate>Wed, 21 Oct 2026 15:06:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>プログラミング言語のPHPに「PHP2Shell」と呼ばれる重大な脆弱性が見つかり、緊急アップデートがリリースされました。「PHP2Shell」の2つの脆弱性は、セキュリティ企業のCalifとWizがそれぞれ独立して2026年8月に発見していたことが報告されています。 続きを読む... — GIGAZINE / score: 95 (AIを活用して発見されたPHPの重大脆弱性に関する背景)</description>
-</item>
-<item>
 <title>[95] 「PHP」の“致命的”な脆弱性2件が修正、ただちにアップデートを／認証なしでリモートからコード実行、v8.5.12/v8.4.27/v8.3.36/v8.2.35が公開</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2150167.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2150167.html</guid>
 <pubDate>Wed, 21 Oct 2026 15:00:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>スクリプト言語「PHP」の開発チームは10月21日（協定世界時）、「PHP」のセキュリティアップデートを実施した。以下のバージョンが利用可能で、すべての利用者にただちにアップデートするよう強く呼びかけられている。 — 窓の杜 / score: 95 (窓の杜によるPHPの致命的脆弱性と即時アプデの呼びかけ)</description>
-</item>
-<item>
-<title>[95] PHPが緊急アップデート「8.5.12」「8.4.27」「8.3.36」「8.2.35」をリリース</title>
-<link>https://gigazine.net/news/20261021-php-critical-vulnerabilities/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261021-php-critical-vulnerabilities/</guid>
-<pubDate>Wed, 21 Oct 2026 14:04:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>PHPがPHP2Shellに対処する緊急アップデート「8.5.12」「8.4.27」「8.3.36」「8.2.35」をリリースしました。 続きを読む... — GIGAZINE / score: 95 (PHPの複数バージョンにおける緊急アップデート)</description>
 </item>
 <item>
 <title>[95] Responding to core PHP vulnerabilities CVE-2026-109618 and CVE-2026-109619</title>
@@ -215,14 +191,6 @@
 <description>--------------------------------------------------------------------- ■（緊急）BIND 9.xの脆弱性（DNSサービスの停止・リモートコード実行）に ついて（CVE-2026-94300） - バージョンアップを強く推奨 - 株式会社日本レジストリサービス（JPRS） 初版作成 2026/10/22（Thu） ------------------------------------... — はてなブックマーク テクノロジー / score: 90 (BIND 9の緊急脆弱性とバージョンアップ推奨)</description>
 </item>
 <item>
-<title>[90] バルテック、サイバー攻撃によりサービス停止、情報流出の可能性（記事訂正）</title>
-<link>https://internet.watch.impress.co.jp/docs/news/2150396.html</link>
-<guid isPermaLink="true">https://internet.watch.impress.co.jp/docs/news/2150396.html</guid>
-<pubDate>Thu, 22 Oct 2026 06:49:30 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>バルテック、サイバー攻撃によりサービス停止、情報流出の可能性（記事訂正） — はてなブックマーク テクノロジー / score: 90 (PHPの重大な脆弱性による実被害とサービス停止の報告)</description>
-</item>
-<item>
 <title>[90] 「Node.js」にセキュリティ更新 ～10件の脆弱性を修正、「eMudhra」の侵害にも対応／v22.23.4、v24.22.1、v26.12.1が公開</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2150169.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2150169.html</guid>
@@ -335,6 +303,46 @@
 <description>A brand new Python here for you to enjoy! — Python Insider / score: 90 (主要プログラミング言語のメジャーバージョンリリース)</description>
 </item>
 <item>
+<title>[85] AWS Continuum for code vulnerabilities is now generally available</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/aws-continuum-for-code-vulnerabilities-is-now-generally-available</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/aws-continuum-for-code-vulnerabilities-is-now-generally-available</guid>
+<pubDate>Thu, 22 Oct 2026 21:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Today, AWS announces the general availability of AWS Continuum for code vulnerabilities. Continuum for code vulnerabilities discovers, validates, prioritizes, and remediates code vulnerabilities at machine speed. Continuum for code vulnerabilities builds a context graph from your AWS environment, including resource topology, identity relationships, and network reachability. It knows which resources are part of your application, and which findings carry real business risk. It ingests your existin — AWS What's New / score: 85 (AWSのコード脆弱性修正サービスの一般提供開始)</description>
+</item>
+<item>
+<title>[85] AWS Continuum for code vulnerabilities is now generally available</title>
+<link>https://aws.amazon.com/blogs/aws/aws-continuum-for-code-vulnerabilities-is-now-generally-available/</link>
+<guid isPermaLink="true">https://aws.amazon.com/blogs/aws/aws-continuum-for-code-vulnerabilities-is-now-generally-available/</guid>
+<pubDate>Thu, 22 Oct 2026 20:33:10 +0000</pubDate>
+<category>AWS News Blog</category>
+<description>AWS Continuum for code vulnerabilities is a new security service that uses AI to automatically find, validate, and prioritize code vulnerabilities in your environment, then delivers ready-to-review fixes as pull requests replacing what previously took hours of manual investigation and days of cross-team coordination. — AWS News Blog / score: 85 (AIを活用したAWSのコード脆弱性検出サービス)</description>
+</item>
+<item>
+<title>[85] Node.jsの2026年10月セキュリティリリースに、手元の50リポジトリとVercel・Cloud Runで対応した</title>
+<link>https://zenn.dev/yoshinani_dev/articles/0e6513a56eb629</link>
+<guid isPermaLink="true">https://zenn.dev/yoshinani_dev/articles/0e6513a56eb629</guid>
+<pubDate>Thu, 22 Oct 2026 17:52:59 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>! 受託案件を含むため、リポジトリ名・プロジェクト名・チーム名・URL は伏せています。数字は、実際に数えた値と測った値です。 2026年10月21日に Node.js のセキュリティリリースが出ました。修正は10件で、Brotli デコーダの範囲外書き込み（CVE-2026-111497、RCE のおそれ）や、TLS 証明書のホスト名チェックを回避できるものなど、High が4件あります。 https://nodejs.org/en/blog/vulnerability/october-2026-security-releases 修正版は 24.22.1 / 22.23.4 / 2... — Zenn トレンド / score: 85 (Node.jsの緊急セキュリティリリース対応の事例)</description>
+</item>
+<item>
+<title>[85] 中国政府系集団がAI攻撃　米マイクロソフト確認（共同通信） - Yahoo!ニュース</title>
+<link>https://news.yahoo.co.jp/articles/4281d049b33e5a3349a912eddf42476b228f1879</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/articles/4281d049b33e5a3349a912eddf42476b228f1879</guid>
+<pubDate>Thu, 22 Oct 2026 17:33:09 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>米マイクロソフトのロゴ＝19日（ロイター＝共同）（KYODONEWS） 【ニューヨーク共同】米IT大手マイクロソフト（MS）は21日、中国政府と関係があるとするハッカー集団が人工知能（AI）を悪用して、世界の数百の組織を標的に自動化されたサイバー攻撃を行っていたことを確認したと公表した。標的の選定から、クラウド上の... — はてなブックマーク テクノロジー / score: 85 (中国政府系集団によるAIを用いた大規模サイバー攻撃)</description>
+</item>
+<item>
+<title>[85] 中国政府系集団がAIで大規模攻撃　世界数百の組織標的に　米マイクロソフト確認</title>
+<link>https://www.sankei.com/article/20261022-4666XKHORFPQFPMIMILRS2WD7I/</link>
+<guid isPermaLink="true">https://www.sankei.com/article/20261022-4666XKHORFPQFPMIMILRS2WD7I/</guid>
+<pubDate>Thu, 22 Oct 2026 16:56:24 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>米IT大手マイクロソフト（MS）は21日、中国政府と関係があるとするハッカー集団が人工知能（AI）を悪用して、世界の数百の組織を標的に自動化されたサイバー攻撃を行っていたことを確認したと公表した。標的の選定から、クラウド上の管理者権限を奪うまでに3時間もかからなかったケースもあり、AIが攻撃のスピードと規模... — はてなブックマーク テクノロジー / score: 85 (中国政府系集団によるAIを用いた大規模サイバー攻撃)</description>
+</item>
+<item>
 <title>[85] デジタル庁HPの問い合わせ内容漏洩か　最大1万3000件以上</title>
 <link>https://news.tv-asahi.co.jp/news_economy/articles/000542237.html</link>
 <guid isPermaLink="true">https://news.tv-asahi.co.jp/news_economy/articles/000542237.html</guid>
@@ -343,12 +351,28 @@
 <description>1 デジタル庁は22日夜、ホームページの問い合わせフォームに入力された内容など最大1万3000件余りが外部に流出した可能性があると発表しました。 デジタル庁によりますと、流出した可能性があるのは2021年5月から2023年3月までの間にホームページの問い合わせフォームに入力された「一般的なご意見・ご要望」最大8833件... — はてなブックマーク テクノロジー / score: 85 (政府機関の重大な情報漏洩インシデント)</description>
 </item>
 <item>
+<title>[85] 中国政府系集団がAI攻撃　米マイクロソフト確認</title>
+<link>https://www.47news.jp/15123277.html</link>
+<guid isPermaLink="true">https://www.47news.jp/15123277.html</guid>
+<pubDate>Thu, 22 Oct 2026 14:41:54 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>【ニューヨーク共同】米IT大手マイクロソフト（MS）は21日、中国政府と関係があるとするハッカー集団が人工知能（AI）を悪用して、世界の数百の組織を標的に自動化されたサイバー攻撃を行っていたことを確認したと公表した。標的の選定から、クラウド上の管理者権限を奪うまでに3時間もかからなかったケースもあり、AIが... — はてなブックマーク テクノロジー / score: 85 (中国政府系集団によるAIを用いた大規模サイバー攻撃)</description>
+</item>
+<item>
 <title>[85] AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise | Microsoft Security Blog</title>
 <link>https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/</link>
 <guid isPermaLink="true">https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/</guid>
 <pubDate>Thu, 22 Oct 2026 12:32:15 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>As early as September 2026, Storm-0940, a China-state aligned actor, used the agentic AI penetration testing framework ARTEX to automate attacks targeting hundreds of organizations globally across a broad range of industries. Several of these Storm-0940 ARTEX-driven attacks have resulted in the a... — はてなブックマーク テクノロジー / score: 85 (AIを活用した大規模な国家系サイバー攻撃)</description>
+</item>
+<item>
+<title>[85] 中国政府関係のハッカー集団が大規模サイバー攻撃、ＡＩで世界数百の企業・組織に…米マイクロソフトが記録で確認</title>
+<link>https://www.yomiuri.co.jp/world/20261022-GYT1T00278/</link>
+<guid isPermaLink="true">https://www.yomiuri.co.jp/world/20261022-GYT1T00278/</guid>
+<pubDate>Thu, 22 Oct 2026 11:14:03 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>【読売新聞】 【ニューヨーク＝木瀬武】米マイクロソフト（ＭＳ）は２１日、中国政府と関係するハッカー集団がＡＩ（人工知能）を使って、世界の数百の企業や組織を標的に大規模なサイバー攻撃を行ったと発表した。日本企業で相次ぐサイバー攻撃でも — はてなブックマーク テクノロジー / score: 85 (中国政府系集団によるAIを用いた大規模サイバー攻撃)</description>
 </item>
 <item>
 <title>[85] カプコン 1177万件の情報漏えい</title>
@@ -391,20 +415,20 @@
 <description>PHPの重大な脆弱性による大規模なセキュリティ騒動の原因や、Webサービス停止の背景を分かりやすく解説します。 — ギズモード・ジャパン / score: 85 (主要言語のセキュリティ脆弱性と大規模騒動の解説)</description>
 </item>
 <item>
+<title>[85] PHP2Shell をどう検知し、どう止めるか — パッチ適用までの空白期間を Sysdig Secure で守り抜く</title>
+<link>https://qiita.com/takao-shimizu/items/37006609b3265d265d0a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/takao-shimizu/items/37006609b3265d265d0a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Thu, 22 Oct 2026 03:43:08 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>前回の記事「PHP2Shell をどう追ったか — Sysdig Secure AI を活用した影響調査と対処の記録」では、2026年10月に緊急公開された PHP の深刻な脆弱性「PHP2Shell（CVE-2026-109618 / CVE-2026-109619、とも... — Qiita 人気記事 / score: 85 (PHPの深刻な脆弱性とセキュリティ対策の実践)</description>
+</item>
+<item>
 <title>[85] PHPの脆弱性 10年以上発見されず</title>
 <link>https://news.yahoo.co.jp/pickup/6599674?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6599674?source=rss</guid>
 <pubDate>Thu, 22 Oct 2026 02:33:43 +0000</pubDate>
 <category>Yahoo!ニュース IT</category>
 <description> — Yahoo!ニュース IT / score: 85 (PHPの長期未発見の深刻な脆弱性に関する話題)</description>
-</item>
-<item>
-<title>[85] PHP脆弱性php2shell対応、7.4本番を止めずに守った夜と実際の攻撃 - Qiita</title>
-<link>https://qiita.com/kenimo49/items/30f290bf0f4fff021fb3</link>
-<guid isPermaLink="true">https://qiita.com/kenimo49/items/30f290bf0f4fff021fb3</guid>
-<pubDate>Thu, 22 Oct 2026 01:12:57 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>2026 年 10 月 21 日 21 時 55 分、高市総理が X にこう投稿しました。 修正パッチを速やかに適用することが困難な場合は、例えばウェブサイト等を一時的に停止させることも、リスクを低減させるための有効策の一つと考えられます。 (高市早苗 on X) PHP の任意コード実行の脆弱性 2 件、通称 php2shell（CVE-2026-10961... — はてなブックマーク テクノロジー / score: 85 (PHP脆弱性(php2shell)の対応実例)</description>
 </item>
 <item>
 <title>[85] コミックシーモア最大420万件流出</title>
@@ -421,6 +445,14 @@
 <pubDate>Wed, 21 Oct 2026 20:00:09 +0000</pubDate>
 <category>Zenn トレンド</category>
 <description>PHPerの皆様、お疲れさまでした。 少し体力が残っているので、現在の対応状況をまとめてみました。 生成AIでまとめたものを当方で確認しております。 また気になる追加情報を補足に追加しました。 2026年10月21日、PHP の重大な脆弱性2件（CVE-2026-109618 / CVE-2026-109619、通称「PHP2Shell」）の修正版が公開されました。 PHP 本体の修正版がリリースされても、実際に自分のサーバへ届くかどうかは、利用している OS のパッケージ、レンタルサーバ事業者、KUSANAGI などの実行環境の対応状況に左右されます。 各所の一次情報を確認した範囲で、... — Zenn トレンド / score: 85 (PHP重大脆弱性「PHP2Shell」の対応状況)</description>
+</item>
+<item>
+<title>[85] PHP脆弱性php2shell対応、7.4本番を止めずに守った夜と実際の攻撃</title>
+<link>https://qiita.com/kenimo49/items/30f290bf0f4fff021fb3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/kenimo49/items/30f290bf0f4fff021fb3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Wed, 21 Oct 2026 17:15:15 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>2026 年 10 月 21 日 21 時 55 分、高市総理が X にこう投稿しました。 修正パッチを速やかに適用することが困難な場合は、例えばウェブサイト等を一時的に停止させることも、リスクを低減させるための有効策の一つと考えられます。 (高市早苗 on X) P... — Qiita 人気記事 / score: 85 (PHP脆弱性(php2shell)の対応実例)</description>
 </item>
 <item>
 <title>[85] 10月21日、PHP2Shell対応の後片付けが終わらない</title>
@@ -639,6 +671,14 @@
 <description>Linus Torvaldsは10月18日、「Linux 7.3」のリリースをアナウンスした。 — gihyo.jp / score: 80 (Linuxカーネルの新バージョンリリース)</description>
 </item>
 <item>
+<title>[80] Information for Python users regarding eMudhra / emSign CA certificate security incident</title>
+<link>https://discuss.python.org/t/information-for-python-users-regarding-emudhra-emsign-ca-certificate-security-incident/109576</link>
+<guid isPermaLink="true">https://discuss.python.org/t/information-for-python-users-regarding-emudhra-emsign-ca-certificate-security-incident/109576</guid>
+<pubDate>Tue, 20 Oct 2026 22:15:14 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>A security incident affecting eMudhra intermediate certificates has required removing the emSign root CA certificate from CA bundles such as “certifi”. It’s important to immediately upgrade the software packages below to at least the versions specified and rebuild container images with layer cach... — はてなブックマーク テクノロジー / score: 80 (CA証明書インシデントに伴うPythonユーザー向け対応)</description>
+</item>
+<item>
 <title>[80] AWS announces TorchNeuron: Native PyTorch Support for AWS Trainium (Public Beta)</title>
 <link>https://aws.amazon.com/about-aws/whats-new/2026/10/aws-announce-native-pytorch-support-trainium</link>
 <guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/aws-announce-native-pytorch-support-trainium</guid>
@@ -735,6 +775,14 @@
 <description>Fast, focused, low-cost decisions for any application. — OpenAI News / score: 75 (OpenAIによる新しいAPIの提供)</description>
 </item>
 <item>
+<title>[75] Studio 株式会社における不正アクセスによる個人情報の漏えいの可能性について｜デジタル庁</title>
+<link>https://www.digital.go.jp/press/a0a8f66c-b32d-4695-9372-bcd5d4280f22</link>
+<guid isPermaLink="true">https://www.digital.go.jp/press/a0a8f66c-b32d-4695-9372-bcd5d4280f22</guid>
+<pubDate>Thu, 22 Oct 2026 14:21:11 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>ホームプレスルームStudio 株式会社における不正アクセスによる個人情報の漏えいの可能性について Studio 株式会社における不正アクセスによる個人情報の漏えいの可能性について 公開日：2026年10月22日 今般、デジタル庁（デジタル改革関連法案準備室を含む。）がホームページ運営の一部にそのサービスを利用していたSt... — はてなブックマーク テクノロジー / score: 75 (デジタル庁関連サービスにおける不正アクセスの可能性)</description>
+</item>
+<item>
 <title>[75] いやマジで総理大臣がPHP脆弱性対応について発信してくれたおかげで社内への説明がクソ楽だった…「総理自ら発信するレベルですよ？」で反論・苦情をほとんど封じ込めた</title>
 <link>https://togetter.com/li/2761457</link>
 <guid isPermaLink="true">https://togetter.com/li/2761457</guid>
@@ -757,54 +805,6 @@
 <pubDate>Thu, 22 Oct 2026 08:10:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>OpenAIは2026年10月21日、数千体のAIエージェントを使って数百万個のマウスの脳細胞から得られた実験データをわずか32分で分析し、アルツハイマー病やパーキンソン病などの研究につながる新たな手掛かりを発見したと発表しました。人間の研究者なら数カ月から1年かかると推定される分析を短時間で実施し、これまで見落とされていた可能性のある遺伝子の働きについて新たな仮説も提示したとのことです。 続きを読む... — GIGAZINE / score: 75 (AIによる脳細胞データ超高速分析)</description>
-</item>
-<item>
-<title>[75] Anthropic、先回りしてユーザーを助ける秘書エージェント「Claude Duet」を発表／まずは米国の「Pro」「Max」ユーザーを対象にウェイトリスト方式で研究プレビュー</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2150199.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2150199.html</guid>
-<pubDate>Thu, 22 Oct 2026 05:40:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Anthropicは10月21日（現地時間、以下同）、「Claude Duet」を発表した。同日より研究プレビュー（research preview）として、米国の「Pro」「Max」プランの契約者からウェイトリスト方式で提供が始まっている。現時点で日本での提供時期は明らかにされていない。 — 窓の杜 / score: 75 (Anthropicの新しいAIエージェント発表)</description>
-</item>
-<item>
-<title>[75] AIが自分を監視するシステムを勝手に無効化して問い詰められると「無効化していない」と虚偽の説明</title>
-<link>https://gigazine.net/news/20261022-openai-misalignment-report/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261022-openai-misalignment-report/</guid>
-<pubDate>Thu, 22 Oct 2026 02:54:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>OpenAIが開発したAIモデルが自身の不適切な行動を検出する監視システムを無効化し、ユーザーから指摘されると「無効化していない」と事実と異なる説明をしていたことが明らかになりました。 続きを読む... — GIGAZINE / score: 75 (AIモデルの監視回避と虚偽応答の問題)</description>
-</item>
-<item>
-<title>[75] DuckDB 2.0.0リリース、サーバー機能を改善し非同期I/Oを導入</title>
-<link>https://gihyo.jp/article/2026/10/duckdb-2.0.0?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/10/duckdb-2.0.0?utm_source=feed</guid>
-<pubDate>Thu, 22 Oct 2026 02:44:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>DuckDBの開発チームは2026年10月21日、分析向けデータベースDuckDBのバージョン2.0.0をリリースした。 — gihyo.jp / score: 75 (DuckDB 2.0.0のメジャーリリース)</description>
-</item>
-<item>
-<title>[75] 人間の指示なしでAIが自発的にタスクを実行するClaudeのエージェントアプリ「Claude Duet」が発表される</title>
-<link>https://gigazine.net/news/20261022-claude-duet/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261022-claude-duet/</guid>
-<pubDate>Thu, 22 Oct 2026 01:37:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>AI企業のAnthropicがAIエージェントアプリ「Claude Duet」を発表しました。Claude Opus 5.5を基盤に動作するAIエージェントで、AIが自発的に情報収集したり通知を送信したりしてくれます。 続きを読む... — GIGAZINE / score: 75 (Anthropicによる自発的タスク実行AIエージェントの発表)</description>
-</item>
-<item>
-<title>[75] AWS、ECS向けフルマネージドイングレス「Amazon ECS Gateway」を発表</title>
-<link>https://codezine.jp/article/detail/30088</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/30088</guid>
-<pubDate>Wed, 21 Oct 2026 23:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 75 (AWSの新機能発表による高いインフラ影響度)</description>
-</item>
-<item>
-<title>[75] PHPの脆弱性 米OpenAIのAIで発見</title>
-<link>https://news.yahoo.co.jp/pickup/6599651?source=rss</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6599651?source=rss</guid>
-<pubDate>Wed, 21 Oct 2026 22:32:08 +0000</pubDate>
-<category>Yahoo!ニュース IT</category>
-<description> — Yahoo!ニュース IT / score: 75 (AIを活用したPHPの脆弱性発見の話題)</description>
 </item>
 </channel>
 </rss>
