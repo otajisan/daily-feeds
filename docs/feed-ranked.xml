@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 22 Oct 2026 10:09:16 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 12:16:15 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[98] 「GitLab」に深刻度“最大”の脆弱性　認証なしで任意のコード実行の恐れ、修正版適用を　CVSS「10.0」</title>
@@ -23,6 +23,14 @@
 <description>国家サイバー統括室(注意・警戒情報) @cyber_forecast PHPのセキュリティチームが、重大な２件の脆弱性に関する注意喚起を行っています。公開しているウェブサイトでPHPを使用しているか確認し、10月21日午後11時（日本時間）に公開される修正パッチについて、可及的速やかに適用できるよう準備をお願いいたします。 php... — はてなブックマーク テクノロジー / score: 98 (PHPの重大な脆弱性と緊急対応の注意喚起)</description>
 </item>
 <item>
+<title>[95] PHP 8.5.12の緊急リリースにpixivはどう対応したか - pixiv inside</title>
+<link>https://inside.pixiv.blog/2026/10/22/193321</link>
+<guid isPermaLink="true">https://inside.pixiv.blog/2026/10/22/193321</guid>
+<pubDate>Thu, 22 Oct 2026 10:38:41 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>こんにちは、Platform Division Infrastructure Unitのpicopicoです。 2026年10月21日、PHPに深刻な脆弱性（通称PHP2Shell）が見つかり、緊急のセキュリティリリースが予告されました。今回の脆弱性への対応にあたられた皆さま、そして現在も対応を続けている皆さまに、心より敬意を表します。 ピクシブでは影響を受ける... — はてなブックマーク テクノロジー / score: 95 (PHPの深刻な脆弱性に対する現場の緊急対応事例)</description>
+</item>
+<item>
 <title>[95] PHP脆弱性悪用の試み増 数百万件</title>
 <link>https://news.yahoo.co.jp/pickup/6599702?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6599702?source=rss</guid>
@@ -31,20 +39,12 @@
 <description> — Yahoo!ニュース IT / score: 95 (PHP脆弱性の悪用試み急増)</description>
 </item>
 <item>
-<title>[95] PHP脆弱性、海外では“政府サイトごと停止”も　オランダの電子認証やWikipedia関連サービスなどにも影響</title>
-<link>https://www.itmedia.co.jp/news/article/2610/22/2000002514/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/22/2000002514/</guid>
-<pubDate>Thu, 22 Oct 2026 06:48:01 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Webサイトの約7割で使うとされるプログラミング言語「PHP」の「緊急」レベルの脆弱性2件を受け、海外でも政府や企業が対応を迫られた。オランダ政府は行政ポータル「Overheid.nl」など行政手続きに使うネットサービスを遮断。フィンランド政府も公開向けのネットサービスを全て停止するなど、10月21日から各国で予防的な... — はてなブックマーク テクノロジー / score: 95 (PHPの緊急脆弱性により海外政府サイト等が停止した影響)</description>
-</item>
-<item>
 <title>[95] AIツール「LiteLLM」にパスワードを盗む不正プログラムが混入、インストールするだけで別のPythonプログラムにも影響</title>
 <link>https://gigazine.net/news/20261022-litellm-backdoor/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261022-litellm-backdoor/</guid>
-<pubDate>Thu, 22 Oct 2026 05:29:32 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>複数のAIモデルを簡単に利用できるオープンソースツール「LiteLLM」のバージョン1.107.0にパスワードなどを盗み出す不正プログラムが仕込まれていたことが判明しました。不正プログラムはLiteLLMをインストールした環境でPythonを起動するだけで実行される仕組みで、攻撃者が遠隔操作で別のプログラムを実行できる機能も... — はてなブックマーク テクノロジー / score: 95 (LiteLLMへの悪質な不正プログラム混入)</description>
+<pubDate>Thu, 22 Oct 2026 05:25:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>複数のAIモデルを簡単に利用できるオープンソースツール「LiteLLM」のバージョン1.107.0にパスワードなどを盗み出す不正プログラムが仕込まれていたことが判明しました。不正プログラムはLiteLLMをインストールした環境でPythonを起動するだけで実行される仕組みで、攻撃者が遠隔操作で別のプログラムを実行できる機能も備えていたとのことです。 続きを読む... — GIGAZINE / score: 95 (LiteLLMへの悪質な不正プログラム混入)</description>
 </item>
 <item>
 <title>[95] 「PHPなんて使ってるやつが悪い」と言っている輩が一番危ない</title>
@@ -69,14 +69,6 @@
 <pubDate>Thu, 22 Oct 2026 00:21:30 +0000</pubDate>
 <category>Qiita 人気記事</category>
 <description>2026年10月、PHP コミュニティから緊急性の高いセキュリティ修正が公開されました。対象となったのは、CVE-2026-109618 と CVE-2026-109619。いずれも PHP Core に起因する重大な問題で、未認証のリモートコード実行 につながる可能性があ... — Qiita 人気記事 / score: 95 (PHP2Shell脆弱性の影響調査記録)</description>
-</item>
-<item>
-<title>[95] 3年前に退職したところから「なんでPHPで作ったんだ！今すぐ来い！」って電話あったけど、どこに相談したらいいの？労基？→あるエンジニアに起きた災難に「笑えない」</title>
-<link>https://togetter.com/li/2761260</link>
-<guid isPermaLink="true">https://togetter.com/li/2761260</guid>
-<pubDate>Wed, 21 Oct 2026 19:27:17 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>国家サイバー統括室(注意・警戒情報) @cyber_forecast PHPのセキュリティチームが、重大な２件の脆弱性に関する注意喚起を行っています。公開しているウェブサイトでPHPを使用しているか確認し、10月21日午後11時（日本時間）に公開される修正パッチについて、可及的速やかに適用できるよう準備をお願いいたします。 php... — はてなブックマーク テクノロジー / score: 95 (PHPの重大な脆弱性に関する緊急の注意喚起)</description>
 </item>
 <item>
 <title>[95] PHPの重大脆弱性「PHP2Shell」はセキュリティ企業のCalifとWizがAIを用いて発見しOpenAIの枠組みを使って対策したことが判明</title>
@@ -109,22 +101,6 @@
 <pubDate>Wed, 21 Oct 2026 14:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>Editor's note : This blog was updated on Oct. 21, 2026 at 3:30 p.m. PDT with additional guidance on Cloud Armor, and at 4:25 p.m. PDT with additional guidance on monitoring, patching, and remediation. PHP and Wiz Research disclosed today two critical vulnerabilities in the core PHP language runtime that can expose applications to unauthenticated remote code execution and memory disclosure. Wiz used a mix of models to identify and help remediate these vulnerabilities. Notably, Gemini 4 Argon made — Google Cloud Blog / score: 95 (PHPの深刻な脆弱性とRCEへの対応)</description>
-</item>
-<item>
-<title>[95] ニコニコやpixivなど各種ウェブサイトおよびアプリがPHPの緊急パッチに対応するべくメンテナンス入り</title>
-<link>https://gigazine.net/news/20261021-php-php2shell-maintenance/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261021-php-php2shell-maintenance/</guid>
-<pubDate>Wed, 21 Oct 2026 13:13:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>数多くのウェブサイトやアプリで使用されているプログラミング言語「PHP」に脆弱(ぜいじゃく)性が見つかり、日本時間の2026年10月21日23時にセキュリティ更新プログラムおよび詳細情報が公開されることがアナウンスされています。この緊急パッチに対応するべく多くのサイトがメンテナンス入りしています。 続きを読む... — GIGAZINE / score: 95 (PHPの緊急脆弱性パッチ対応と広範な影響)</description>
-</item>
-<item>
-<title>[95] 2010年から存在するWi-Fiの欠陥でパスワードを知らなくてもルーターを乗っ取れるバグが発覚、数百万台が影響を受ける可能性</title>
-<link>https://gigazine.net/news/20261021-wpsplinter/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261021-wpsplinter/</guid>
-<pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>BroadcomのSDKに少なくとも2010年から脆弱(ぜいじゃく)性が存在し、パスワードを知らなくてもルーターを乗っ取り任意のコード実行を可能にする恐れがあることが分かりました。 続きを読む... — GIGAZINE / score: 95 (Wi-Fiルーターの広範囲に影響する深刻な脆弱性)</description>
 </item>
 <item>
 <title>[95] 「PHP」に“致命的”な脆弱性2件、日本時間21日深夜に緊急のセキュリティリリースへ【15時20分追記】／「CVSS 4.0」のスコアは「9.2」、すぐに更新できるよう準備を</title>
@@ -175,12 +151,20 @@
 <description>JavaScriptランタイム「Deno」の開発元であるDeno LandとCloudflareは、Deno LandがCloudflareに合流すると発表しました。CloudflareによるDeno Landの買収と見られます（Deno ... — Publickey / score: 95 (Deno開発終了とCloudflare合流の重大なニュース)</description>
 </item>
 <item>
-<title>[90] カプコン、1177万件超の顧客情報漏えい　「CAPCOM ID」に不正アクセス、パスワードの不正変更も</title>
-<link>https://ascii.jp/elem/000/004/445/4445054/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/445/4445054/?rss</guid>
-<pubDate>Thu, 22 Oct 2026 08:10:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>カプコンは10月22日、オンライン会員サービス「CAPCOM ID」への不正アクセスにより、全世界で1177万4247件の顧客情報が漏えいしたと発表した。 — ASCII.jp / score: 90 (カプコンの大規模顧客情報漏えい)</description>
+<title>[90] PHP脆弱性“PoCフライング公開”の経緯、支援財団が公表　混乱広げた企業を名指しで批判</title>
+<link>https://www.itmedia.co.jp/news/article/2610/22/2000002525/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/22/2000002525/</guid>
+<pubDate>Thu, 22 Oct 2026 09:30:52 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>世界中の企業・組織が対応に追われているプログラミング言語「PHP」の脆弱性。高市早苗首相がSNSで対応を呼びかけたことから、テレビなどでも盛んに報じられ、これまでになく社会を騒がせている。開発プロジェクトは10月21日夜（日本時間、以下同）にセキュリティアップデートを配信したが、一部の企業・組織は22日時点... — はてなブックマーク テクノロジー / score: 90 (PHP脆弱性のPoC公開を巡る混乱の報道)</description>
+</item>
+<item>
+<title>[90] （緊急）BIND 9.xの脆弱性（DNSサービスの停止・リモートコード実行）について（CVE-2026-94300） - バージョンアップを強く推奨 -</title>
+<link>https://jprs.jp/tech/security/2026-10-22-bind9-cve-2026-94300.html</link>
+<guid isPermaLink="true">https://jprs.jp/tech/security/2026-10-22-bind9-cve-2026-94300.html</guid>
+<pubDate>Thu, 22 Oct 2026 08:03:31 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>--------------------------------------------------------------------- ■（緊急）BIND 9.xの脆弱性（DNSサービスの停止・リモートコード実行）に ついて（CVE-2026-94300） - バージョンアップを強く推奨 - 株式会社日本レジストリサービス（JPRS） 初版作成 2026/10/22（Thu） ------------------------------------... — はてなブックマーク テクノロジー / score: 90 (BIND 9の緊急脆弱性とバージョンアップ推奨)</description>
 </item>
 <item>
 <title>[90] PHP「緊急」脆弱性悪用の試み、数百万件に　CloudflareのCEOが報告</title>
@@ -215,20 +199,12 @@
 <description>認証局eMudhraの中間CA証明書8件で、公開された証明書から秘密鍵を復元できる問題が判明した。このうちTLS用の中間CAの秘密鍵を使えば、攻撃者が偽のHTTPS証明書を作成できる。Python関連ツールやGo、Node.js、Rustなどで、対策を取り込んだ更新版が提供されている。 — gihyo.jp / score: 90 (認証局の中間CA秘密鍵復元問題)</description>
 </item>
 <item>
-<title>[90] 旅行ゲーム「ワールドクエスト」、PHP脆弱性で即日サービス終了　「古い仕組みのため対策とれず」</title>
-<link>https://www.itmedia.co.jp/news/article/2610/22/2000002493/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/22/2000002493/</guid>
-<pubDate>Thu, 22 Oct 2026 02:15:09 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>PHPを巡っては、開発元が「緊急」レベルの脆弱性2件を修正したバージョンを21日午後11時ごろに公開したばかり。認証なしで遠隔から任意のコードを実行される恐れがあるもので、国内では「BASE」「コドモン」など著名サービスが相次いで緊急メンテナンスに入るなど影響が広がっていた。修正版の対象はPHP 8.2以降の4系統... — はてなブックマーク テクノロジー / score: 90 (PHPの緊急脆弱性による影響と対応)</description>
-</item>
-<item>
 <title>[90] 「Node.js」にセキュリティ更新 ～10件の脆弱性を修正、「eMudhra」の侵害にも対応／v22.23.4、v24.22.1、v26.12.1が公開</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2150169.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2150169.html</guid>
-<pubDate>Thu, 22 Oct 2026 00:37:42 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>「Node.js」にセキュリティ更新 ～10件の脆弱性を修正、「eMudhra」の侵害にも対応／v22.23.4、v24.22.1、v26.12.1が公開 — はてなブックマーク テクノロジー / score: 90 (Node.jsの複数脆弱性を修正する重要アプデ)</description>
+<pubDate>Thu, 22 Oct 2026 00:15:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>「Node.js」のセキュリティアップデートが10月21日（協定世界時）、予告通りに実施された。今回リリースされたバージョンは、以下の通り。できるだけ早い更新が望ましい。 — 窓の杜 / score: 90 (Node.jsの複数脆弱性を修正する重要アプデ)</description>
 </item>
 <item>
 <title>[90] 「Apache Tomcat」に最大深刻度“CRITICAL”の脆弱性 ～v9 / v10 / v11系統に修正版／</title>
@@ -269,14 +245,6 @@
 <pubDate>Wed, 21 Oct 2026 14:17:51 +0000</pubDate>
 <category>Qiita 人気記事</category>
 <description>はじめに 2026年10月21日(日本時間の夜)、PHP公式から 認証なしでリモートコード実行(RCE)が可能になる重大な脆弱性2件 の修正版がリリースされました。通称「PHP2Shell」と呼ばれています。 脆弱性のCVE番号が10月20日に事前流出したため、PHP開発... — Qiita 人気記事 / score: 90 (PHP重大脆弱性PHP2Shellの安全なアップデート手順解説)</description>
-</item>
-<item>
-<title>[90] PHPに重大欠陥 Webの7割で使用</title>
-<link>https://news.yahoo.co.jp/pickup/6599637?source=rss</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6599637?source=rss</guid>
-<pubDate>Wed, 21 Oct 2026 13:52:02 +0000</pubDate>
-<category>Yahoo!ニュース IT</category>
-<description> — Yahoo!ニュース IT / score: 90 (PHPの重大な欠陥と広範なWebサイトへの影響)</description>
 </item>
 <item>
 <title>[90] 2026-10-21, Version 26.12.1 (Current), @aduh95 prepared by @RafaelGSS</title>
@@ -378,9 +346,9 @@
 <title>[85] PHPの影に隠れたもう一つの重大インシデント「eMudhra」の証明書問題、どう対処すれば？／OSやWebブラウザーなどの対応状況を整理、アプリ開発者などにはいくつか注意すべき点【やじうまの杜】</title>
 <link>https://forest.watch.impress.co.jp/docs/serial/yajiuma/2150316.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/serial/yajiuma/2150316.html</guid>
-<pubDate>Thu, 22 Oct 2026 07:57:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>「やじうまの杜」では、ニュース・レビューにこだわらない幅広い話題をお伝えします。 — 窓の杜 / score: 85 (eMudhra証明書問題の対処まとめ)</description>
+<pubDate>Thu, 22 Oct 2026 08:23:27 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>PHPの影に隠れたもう一つの重大インシデント「eMudhra」の証明書問題、どう対処すれば？／OSやWebブラウザーなどの対応状況を整理、アプリ開発者などにはいくつか注意すべき点【やじうまの杜】 — はてなブックマーク テクノロジー / score: 85 (eMudhra証明書問題の対処まとめ)</description>
 </item>
 <item>
 <title>[85] Node.jsがセキュリティアップデートで「22.23.4」「24.22.1」「26.12.1」配信、全体で10件の脆弱性を修正</title>
@@ -415,20 +383,20 @@
 <description> — Yahoo!ニュース IT / score: 85 (PHPの長期未発見の深刻な脆弱性に関する話題)</description>
 </item>
 <item>
-<title>[85] ゆるくでも知っておきたい「PHPの脆弱性」の話。直しておきたい“穴だらけのインターネット”</title>
-<link>https://www.gizmodo.jp/article/2610-php-vulnerability-security-update/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2610-php-vulnerability-security-update/</guid>
-<pubDate>Thu, 22 Oct 2026 02:25:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>首相自らが対応を求めた「PHPの重大な脆弱性」の問題についてざっくり説明します。 — ギズモード・ジャパン / score: 85 (PHPの重大な脆弱性と早急な対応の解説)</description>
-</item>
-<item>
 <title>[85] 大阪大、学生など7.8万人の情報漏えい　NECが無断で協力会社とデータ共有</title>
 <link>https://www.itmedia.co.jp/news/article/2610/22/2000002491/</link>
 <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/22/2000002491/</guid>
 <pubDate>Thu, 22 Oct 2026 01:44:37 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>大阪大学（阪大）は10月21日、全学教育用電子計算機システムの運用を委託しているNECから、卒業生や在学生、教職員の計7万7851人分の個人情報が漏えいしたと発表した。 NECは、大学に報告していない協力会社と情報を共有するため、個人情報を含むファイルをクラウドストレージ上で共有していたという。加えてNECは、作業... — はてなブックマーク テクノロジー / score: 85 (大規模な情報漏えい事故で影響甚大)</description>
+</item>
+<item>
+<title>[85] 多くのサイトが予防的に公開停止、高市総理が対応呼びかけ―「PHPの深刻な脆弱性」対応で何が起きた？</title>
+<link>https://internet.watch.impress.co.jp/docs/news/2150203.html</link>
+<guid isPermaLink="true">https://internet.watch.impress.co.jp/docs/news/2150203.html</guid>
+<pubDate>Thu, 22 Oct 2026 01:30:23 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>多くのサイトが予防的に公開停止、高市総理が対応呼びかけ―「PHPの深刻な脆弱性」対応で何が起きた？ — はてなブックマーク テクノロジー / score: 85 (PHP深刻な脆弱性対応の全体的なまとめと経緯)</description>
 </item>
 <item>
 <title>[85] PHP脆弱性php2shell対応、7.4本番を止めずに守った夜と実際の攻撃 - Qiita</title>
@@ -458,9 +426,17 @@
 <title>[85] 【速報：2026/10/22 04:00】PHP2Shellの対応状況まとめ：PHP本体、Linux、レンタルサーバ、KUSANAGI</title>
 <link>https://zenn.dev/tyamadadd/articles/c02a27af771dd2</link>
 <guid isPermaLink="true">https://zenn.dev/tyamadadd/articles/c02a27af771dd2</guid>
-<pubDate>Wed, 21 Oct 2026 20:01:05 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>PHPerの皆様、お疲れさまでした。 少し体力が残っているので、現在の対応状況をまとめてみました。 生成AIでまとめたものを当方で確認しております。 また気になる追加情報を補足に追加しました。 2026年10月21日、PHP の重大な脆弱性2件（CVE-2026-109618 / CVE-2026-109619、通称「PHP2Shell」）の修正版が公開されま... — はてなブックマーク テクノロジー / score: 85 (PHP重大脆弱性「PHP2Shell」の対応状況)</description>
+<pubDate>Wed, 21 Oct 2026 20:00:09 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>PHPerの皆様、お疲れさまでした。 少し体力が残っているので、現在の対応状況をまとめてみました。 生成AIでまとめたものを当方で確認しております。 また気になる追加情報を補足に追加しました。 2026年10月21日、PHP の重大な脆弱性2件（CVE-2026-109618 / CVE-2026-109619、通称「PHP2Shell」）の修正版が公開されました。 PHP 本体の修正版がリリースされても、実際に自分のサーバへ届くかどうかは、利用している OS のパッケージ、レンタルサーバ事業者、KUSANAGI などの実行環境の対応状況に左右されます。 各所の一次情報を確認した範囲で、... — Zenn トレンド / score: 85 (PHP重大脆弱性「PHP2Shell」の対応状況)</description>
+</item>
+<item>
+<title>[85] 10月21日、PHP2Shell対応の後片付けが終わらない</title>
+<link>https://zenn.dev/subara3/articles/1165119ef70e75</link>
+<guid isPermaLink="true">https://zenn.dev/subara3/articles/1165119ef70e75</guid>
+<pubDate>Wed, 21 Oct 2026 16:17:09 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>10月21日の22時ちょいに、PHPので～っかい修正版が出ました。 これが結構やばい修正＆攻撃が来るからすぐ手当てして、というもののようで、今日はもうひっきりなしの対応に追われている方も多いんじゃないでしょうか。 私も緊急対応を一通り終えて、ようやく帰れるところです。やれやれ。 今回報告されたのは、PHP本体の脆弱性2件（CVE-2026-109618、CVE-2026-109619）で、通称は「PHP2Shell」です。 深刻度はどちらもCVSS v4.0で9.2です。9.2！！ PHP公式は、認証なしでリモートからコードを実行されうると説明しています。 国内では、BASE、Cygam... — Zenn トレンド / score: 85 (PHP2Shell脆弱性対応の混乱と疲弊を伝える実体験)</description>
 </item>
 <item>
 <title>[85] Cloudflare、TypeScriptをRustに移植した「tsrs」を発表。TypeScript 7より最大で70％少ないメモリで8倍速。今後、LSPなどTypeScriptの全機能をサポート予定</title>
@@ -589,6 +565,14 @@
 <pubDate>Fri, 09 Oct 2026 22:48:37 +0000</pubDate>
 <category>Simon Willison</category>
 <description>Deno is joining Cloudflare The Deno team released the first version of celld back in August - their open source implementation of the Durable Objects pattern from Cloudflare Workers. Today, Cloudflare are acquiring Deno outright, with the goal of building on celld to "make workerd self-hosting a first-class supported way to build and run apps using the Workers programming model" (see the Cloudflare blog .) The bad news is that Deno itself will not be maintained by Cloudflare beyond the next year — Simon Willison / score: 85 (DenoがCloudflareに加入する重大ニュース)</description>
+</item>
+<item>
+<title>[80] Anthropic、パーソナルAIアシスタントClaude Duetのリサーチプレビューを発表、米国で先行提供 ——必要な対応を通知、依頼した作業を離席中も継続</title>
+<link>https://gihyo.jp/article/2026/10/claude-duet?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/10/claude-duet?utm_source=feed</guid>
+<pubDate>Thu, 22 Oct 2026 10:59:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Anthropicは2026年10月21日、パーソナルAIアシスタントClaude Duetのリサーチプレビューを発表した。利用者の対応が必要なことを自ら知らせるエージェントとして動作する。 — gihyo.jp / score: 80 (Anthropicの新しいAIエージェント発表)</description>
 </item>
 <item>
 <title>[80] PHPの重大脆弱性、iPhoneやAppleサービスへの影響は？</title>
@@ -767,6 +751,14 @@
 <description>Structured Concurrency is the next major feature from Project Loom. In this session, we will explain the motivation and design of structured concurrency, show how to use it effectively, and discuss the lessons learned as the feature evolved. We'll also look beneath the surface at the new lower-level API behind the latest design, offering an early glimpse of work that is expected to form the basis of a future lower-level structured concurrency API. — Inside Java / score: 80 (Project Loomの構造化コンカレンシー解説)</description>
 </item>
 <item>
+<title>[75] いやマジで総理大臣がPHP脆弱性対応について発信してくれたおかげで社内への説明がクソ楽だった…「総理自ら発信するレベルですよ？」で反論・苦情をほとんど封じ込めた</title>
+<link>https://togetter.com/li/2761457</link>
+<guid isPermaLink="true">https://togetter.com/li/2761457</guid>
+<pubDate>Thu, 22 Oct 2026 08:30:07 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>どら @Drumaster いやマジで総理大臣がPHP脆弱性対応について発信してくれたおかげで社内への説明がクソ楽だった…「総理自ら発信するレベルですよ？？？ニュース見てないんですか？？？」で反論苦情殆ど封じることできた… 2026-10-22 12:14:16 高市早苗 @takaichi_sanae 皆様に、今夜に対応して頂きたい大至急のお願いで... — はてなブックマーク テクノロジー / score: 75 (総理発信が脆弱性対応の社内調整に役立った話題)</description>
+</item>
+<item>
 <title>[75] 高市総理、サイバーセキュリティの本を出していた　しかも“PHP”から</title>
 <link>https://www.itmedia.co.jp/news/article/2610/22/2000002522/</link>
 <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/22/2000002522/</guid>
@@ -805,6 +797,14 @@
 <pubDate>Thu, 22 Oct 2026 02:44:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>DuckDBの開発チームは2026年10月21日、分析向けデータベースDuckDBのバージョン2.0.0をリリースした。 — gihyo.jp / score: 75 (DuckDB 2.0.0のメジャーリリース)</description>
+</item>
+<item>
+<title>[75] 人間の指示なしでAIが自発的にタスクを実行するClaudeのエージェントアプリ「Claude Duet」が発表される</title>
+<link>https://gigazine.net/news/20261022-claude-duet/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261022-claude-duet/</guid>
+<pubDate>Thu, 22 Oct 2026 01:37:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>AI企業のAnthropicがAIエージェントアプリ「Claude Duet」を発表しました。Claude Opus 5.5を基盤に動作するAIエージェントで、AIが自発的に情報収集したり通知を送信したりしてくれます。 続きを読む... — GIGAZINE / score: 75 (Anthropicによる自発的タスク実行AIエージェントの発表)</description>
 </item>
 </channel>
 </rss>
