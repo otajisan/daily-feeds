@@ -4,8 +4,40 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 22 Oct 2026 04:11:06 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 06:15:50 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>[98] 「GitLab」に深刻度“最大”の脆弱性　認証なしで任意のコード実行の恐れ、修正版適用を　CVSS「10.0」</title>
+<link>https://www.itmedia.co.jp/news/article/2610/22/2000002501/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/22/2000002501/</guid>
+<pubDate>Thu, 22 Oct 2026 03:55:13 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>米GitLabは10月21日（現地時間）、開発プラットフォーム「GitLab」に深刻（Critical）な脆弱性（CVE-2026-110264）が見つかったと発表し、修正版を公開した。CVSSスコアは最大の「10.0」。特定の条件下で、認証されていないユーザーがGitLabサーバ上で任意のコードを実行できる可能性がある。 12日に公表したCVSS 10.0の... — はてなブックマーク テクノロジー / score: 98 (GitLabのCVSS 10.0の深刻な脆弱性)</description>
+</item>
+<item>
+<title>[98] PHPのセキュリティ問題について、その深刻さをわかる人が言及、首相の注意喚起ポストは思った以上にありがたかった模様、一方緊急で運営終了となるサービスも</title>
+<link>https://togetter.com/li/2761388</link>
+<guid isPermaLink="true">https://togetter.com/li/2761388</guid>
+<pubDate>Thu, 22 Oct 2026 03:49:10 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>国家サイバー統括室(注意・警戒情報) @cyber_forecast PHPのセキュリティチームが、重大な２件の脆弱性に関する注意喚起を行っています。公開しているウェブサイトでPHPを使用しているか確認し、10月21日午後11時（日本時間）に公開される修正パッチについて、可及的速やかに適用できるよう準備をお願いいたします。 php... — はてなブックマーク テクノロジー / score: 98 (PHPの重大な脆弱性と緊急対応の注意喚起)</description>
+</item>
+<item>
+<title>[95] AIツール「LiteLLM」にパスワードを盗む不正プログラムが混入、インストールするだけで別のPythonプログラムにも影響</title>
+<link>https://gigazine.net/news/20261022-litellm-backdoor/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261022-litellm-backdoor/</guid>
+<pubDate>Thu, 22 Oct 2026 05:25:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>複数のAIモデルを簡単に利用できるオープンソースツール「LiteLLM」のバージョン1.107.0にパスワードなどを盗み出す不正プログラムが仕込まれていたことが判明しました。不正プログラムはLiteLLMをインストールした環境でPythonを起動するだけで実行される仕組みで、攻撃者が遠隔操作で別のプログラムを実行できる機能も備えていたとのことです。 続きを読む... — GIGAZINE / score: 95 (LiteLLMへの悪質な不正プログラム混入)</description>
+</item>
+<item>
+<title>[95] PHPに深刻度9.2の緊急脆弱性「php2shell」発覚、WordPressサイト運営企業向けの対策チェックリストをTorchUpが無料公開</title>
+<link>https://ascii.jp/elem/000/004/444/4444973/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/444/4444973/?rss</guid>
+<pubDate>Thu, 22 Oct 2026 05:00:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>PHPに深刻度9.2の緊急脆弱性「php2shell」発覚、WordPressサイト運営企業向けの対策チェックリストをTorchUpが無料公開 — ASCII.jp / score: 95 (PHPの深刻な緊急脆弱性と対策情報のため)</description>
+</item>
 <item>
 <title>[95] GitLabが任意のコードを実行可能な危険度最大の脆弱性など12件に対するセキュリティパッチを公開</title>
 <link>https://gigazine.net/news/20261022-gitlab-critical-patch/</link>
@@ -42,9 +74,9 @@
 <title>[95] PHPの重大脆弱性「PHP2Shell」はセキュリティ企業のCalifとWizがAIを用いて発見しOpenAIの枠組みを使って対策したことが判明</title>
 <link>https://gigazine.net/news/20261022-php2shell-wiz-openai-calif/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261022-php2shell-wiz-openai-calif/</guid>
-<pubDate>Wed, 21 Oct 2026 15:19:11 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>プログラミング言語のPHPに「PHP2Shell」と呼ばれる重大な脆弱性が見つかり、緊急アップデートがリリースされました。「PHP2Shell」の2つの脆弱性は、セキュリティ企業のCalifとWizがそれぞれ独立して2026年8月に発見していたことが報告されています。 PHP2Shell — AI uncovers critical vulnerabilities in the backbon... — はてなブックマーク テクノロジー / score: 95 (AIを活用して発見されたPHPの重大脆弱性に関する背景)</description>
+<pubDate>Wed, 21 Oct 2026 15:06:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>プログラミング言語のPHPに「PHP2Shell」と呼ばれる重大な脆弱性が見つかり、緊急アップデートがリリースされました。「PHP2Shell」の2つの脆弱性は、セキュリティ企業のCalifとWizがそれぞれ独立して2026年8月に発見していたことが報告されています。 続きを読む... — GIGAZINE / score: 95 (AIを活用して発見されたPHPの重大脆弱性に関する背景)</description>
 </item>
 <item>
 <title>[95] 「PHP」の“致命的”な脆弱性2件が修正、ただちにアップデートを／認証なしでリモートからコード実行、v8.5.12/v8.4.27/v8.3.36/v8.2.35が公開</title>
@@ -53,14 +85,6 @@
 <pubDate>Wed, 21 Oct 2026 15:00:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>スクリプト言語「PHP」の開発チームは10月21日（協定世界時）、「PHP」のセキュリティアップデートを実施した。以下のバージョンが利用可能で、すべての利用者にただちにアップデートするよう強く呼びかけられている。 — 窓の杜 / score: 95 (窓の杜によるPHPの致命的脆弱性と即時アプデの呼びかけ)</description>
-</item>
-<item>
-<title>[95] 【PHP脆弱性php2shell】WordPressも対象、パッチは21:59に公開済み。「23:15から乗っ取り」「15分でAIが攻撃コード？」は本当か、自分のVPSのログで検証（CVE-2026-109618／109619）：秋山大志のそれとりあえず作ってみようか。：オルタナティブ・ブログ</title>
-<link>https://blogs.itmedia.co.jp/agile/2026/10/php2shell_cve_2026_109618_panic.html</link>
-<guid isPermaLink="true">https://blogs.itmedia.co.jp/agile/2026/10/php2shell_cve_2026_109618_panic.html</guid>
-<pubDate>Wed, 21 Oct 2026 14:07:21 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>【PHP脆弱性php2shell】WordPressも対象、パッチは21:59に公開済み。「23:15から乗っ取り」「15分でAIが攻撃コード？」は本当か、自分のVPSのログで検証（CVE-2026-109618／109619） PHPの重大な脆弱性で、タイムラインが大騒ぎです。 震源のひとつが、「23時にパッチが公開されたら、それをAIで解析して攻撃コードを作... — はてなブックマーク テクノロジー / score: 95 (PHPの重大な脆弱性php2shellに関する詳細な検証)</description>
 </item>
 <item>
 <title>[95] PHPが緊急アップデート「8.5.12」「8.4.27」「8.3.36」「8.2.35」をリリース</title>
@@ -159,6 +183,14 @@
 <description>JavaScriptランタイム「Deno」の開発元であるDeno LandとCloudflareは、Deno LandがCloudflareに合流すると発表しました。CloudflareによるDeno Landの買収と見られます（Deno ... — Publickey / score: 95 (Deno開発終了とCloudflare合流の重大なニュース)</description>
 </item>
 <item>
+<title>[90] PHPの脆弱性を狙う攻撃、数百万件に急増　公表からわずか2時間で数十万件、Cloudflareが報告</title>
+<link>https://ascii.jp/elem/000/004/444/4444954/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/444/4444954/?rss</guid>
+<pubDate>Thu, 22 Oct 2026 05:30:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>Cloudflareのマシュー・プリンスCEOは10月22日、PHPの脆弱性「php2shell」を悪用しようとする通信が同社ネットワークで増えていると公式Xで報告した。 — ASCII.jp / score: 90 (PHPの重大な脆弱性を狙う攻撃の急増に関する警告のため)</description>
+</item>
+<item>
 <title>[90] 旅行ゲーム「ワールドクエスト」、PHP脆弱性で即日サービス終了　「古い仕組みのため対策とれず」</title>
 <link>https://www.itmedia.co.jp/news/article/2610/22/2000002493/</link>
 <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/22/2000002493/</guid>
@@ -183,14 +215,6 @@
 <description>（写真：ITmedia AI＋）（写真：ITmedia AI＋） 米OpenAIは10月21日（現地時間）、同日に修正版が公開されたオープンソースのプログラミング言語「PHP」の脆弱性について、OpenAIのAIモデルで発見したと発表した。「同様の発見は今後数カ月で急増する」と予測している。 【OpenAI公式Xの発表全文】 OpenAIによるオープ... — はてなブックマーク テクノロジー / score: 90 (AIモデルによるPHP脆弱性発見と今後の影響に関する速報)</description>
 </item>
 <item>
-<title>[90] PHPの「重大」脆弱性はAIが見つけた　「GPT-5.6 Solで発見」とOpenAI　「今後、AIによる脆弱性発見が急増」</title>
-<link>https://www.itmedia.co.jp/news/article/2610/22/2000002486/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/22/2000002486/</guid>
-<pubDate>Wed, 21 Oct 2026 23:49:31 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>米OpenAIは10月21日（現地時間）、PHPの重大な脆弱性2件のうち1件について、米セキュリティ企業のCalifが同社の「GPT-5.6 Sol」を使って発見したと発表した。 同社は「今後数カ月で、AIによる同様の脆弱性発見が急増する」と予測。AI時代に対応したセキュリティの枠組みを、5段階で提案している。 「GPT-5.6 Sol」「Gemi... — はてなブックマーク テクノロジー / score: 90 (AIによる脆弱性発見の急増を告げる重大なセキュリティニュース)</description>
-</item>
-<item>
 <title>[90] 「Apache Tomcat」に最大深刻度“CRITICAL”の脆弱性 ～v9 / v10 / v11系統に修正版／</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2150161.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2150161.html</guid>
@@ -210,9 +234,9 @@
 <title>[90] eMudhraで侵害された8つの認証局すべての秘密鍵はなんとたった「1バイト」で秘密鍵の1つは「4」、Mozilla・Microsoft・Apple・Chromeのルートプログラムや多くの下流トラストストアによって信頼されているルート証明書に連鎖</title>
 <link>https://gigazine.net/news/20261022-emudhra-problem/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261022-emudhra-problem/</guid>
-<pubDate>Wed, 21 Oct 2026 21:01:52 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>2026年10月20日、eMudhraの中間認証局(CA)証明書8件の秘密鍵が侵害されたことが明らかになりました。侵害された証明書はMozilla・Microsoft・Apple・Chromeなどの主要なルートプログラムおよび多くの下流トラストストアによって信頼されているルートに連鎖していたため、攻撃者は侵害された中間CAの秘密鍵を悪用して様々... — はてなブックマーク テクノロジー / score: 90 (認証局の深刻な秘密鍵侵害インシデント)</description>
+<pubDate>Wed, 21 Oct 2026 21:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>2026年10月20日、eMudhraの中間認証局(CA)証明書8件の秘密鍵が侵害されたことが明らかになりました。侵害された証明書はMozilla・Microsoft・Apple・Chromeなどの主要なルートプログラムおよび多くの下流トラストストアによって信頼されているルートに連鎖していたため、攻撃者は侵害された中間CAの秘密鍵を悪用して様々なウェブサイトやサービスになりすますことが可能になっていました。 続きを読む... — GIGAZINE / score: 90 (認証局の深刻な秘密鍵侵害インシデント)</description>
 </item>
 <item>
 <title>[90] Today's PHP Security Release, and How We're Strengthening PHP Security</title>
@@ -311,6 +335,14 @@
 <description>Next.js plans to publish an out-of-band security update next Wednesday, October 14, 2026, addressing two Critical and one High severity vulnerabilities in upstream dependencies. — Next.js Blog / score: 90 (Next.jsの深刻な脆弱性修正に関する緊急のアップデート)</description>
 </item>
 <item>
+<title>[85] GMOペパボ「ロリポップ！」停止サイトを再開　旧バージョンのPHP脆弱性にも独自対応</title>
+<link>https://ascii.jp/elem/000/004/444/4444960/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/444/4444960/?rss</guid>
+<pubDate>Thu, 22 Oct 2026 05:45:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>GMOペパボの「ロリポップ！レンタルサーバー」は10月22日、PHPの重大な脆弱性への修正版を適用し、停止していた利用者のサイトを同日13時11分に再開したと公式Xで発表した。 — ASCII.jp / score: 85 (主要レンタルサーバーでのPHP脆弱性対応と復旧のため)</description>
+</item>
+<item>
 <title>[85] PHPの脆弱性 10年以上発見されず</title>
 <link>https://news.yahoo.co.jp/pickup/6599674?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6599674?source=rss</guid>
@@ -319,7 +351,7 @@
 <description> — Yahoo!ニュース IT / score: 85 (PHPの長期未発見の深刻な脆弱性に関する話題)</description>
 </item>
 <item>
-<title>[85] ゆるくでも知っておきたい「PHPの脆弱性」の話。Webサイトでのお手続き、さっさとやっといたほうがいいかも</title>
+<title>[85] ゆるくでも知っておきたい「PHPの脆弱性」の話。直しておきたい“穴だらけのインターネット”</title>
 <link>https://www.gizmodo.jp/article/2610-php-vulnerability-security-update/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/2610-php-vulnerability-security-update/</guid>
 <pubDate>Thu, 22 Oct 2026 02:25:00 +0000</pubDate>
@@ -335,12 +367,20 @@
 <description>大阪大学（阪大）は10月21日、全学教育用電子計算機システムの運用を委託しているNECから、卒業生や在学生、教職員の計7万7851人分の個人情報が漏えいしたと発表した。 NECは、大学に報告していない協力会社と情報を共有するため、個人情報を含むファイルをクラウドストレージ上で共有していたという。加えてNECは、作業... — はてなブックマーク テクノロジー / score: 85 (大規模な情報漏えい事故で影響甚大)</description>
 </item>
 <item>
+<title>[85] PHP脆弱性php2shell対応、7.4本番を止めずに守った夜と実際の攻撃 - Qiita</title>
+<link>https://qiita.com/kenimo49/items/30f290bf0f4fff021fb3</link>
+<guid isPermaLink="true">https://qiita.com/kenimo49/items/30f290bf0f4fff021fb3</guid>
+<pubDate>Thu, 22 Oct 2026 01:12:57 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>2026 年 10 月 21 日 21 時 55 分、高市総理が X にこう投稿しました。 修正パッチを速やかに適用することが困難な場合は、例えばウェブサイト等を一時的に停止させることも、リスクを低減させるための有効策の一つと考えられます。 (高市早苗 on X) PHP の任意コード実行の脆弱性 2 件、通称 php2shell（CVE-2026-10961... — はてなブックマーク テクノロジー / score: 85 (PHP脆弱性(php2shell)の対応実例)</description>
+</item>
+<item>
 <title>[85] php2shellに感じたサイバー空間の『ドント・ルック・アップ』からサーバーの戸締りに至る空気の変遷 - 太陽がまぶしかったから</title>
 <link>https://www.du-soleil.com/entry/php2shell-emergency-maintenance-dont-look-up</link>
 <guid isPermaLink="true">https://www.du-soleil.com/entry/php2shell-emergency-maintenance-dont-look-up</guid>
 <pubDate>Thu, 22 Oct 2026 01:03:19 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>昼休みに感じた不穏な煙と焦燥 昨日の昼休み、一息つこうと思って何気なくXを開いたとき、タイムラインの片隅に流れるざわざわとした不穏な空気が目にとまった。お昼休みののんきな雑談やランチの投稿の合間に、セキュリティクラスタやインフラエンジニアたちが何やらただならぬ緊張感をつぶやき始めており、セキュリテ... — はてなブックマーク テクノロジー / score: 85 (重大な脆弱性発見を巡るインフラ・セキュリティの話題)</description>
+<description>昼休みに感じた不穏な煙と焦燥 昨日の昼休み、一息つこうと思って何気なくXを開いたとき、タイムラインの片隅に流れるざわざわとした空気が目にとまった。お昼休みののんきな雑談やランチの投稿の合間に、セキュリティクラスタやインフラエンジニアたちがただならぬ緊張感をつぶやき始めており、セキュリティ専門家の高... — はてなブックマーク テクノロジー / score: 85 (重大な脆弱性発見を巡るインフラ・セキュリティの話題)</description>
 </item>
 <item>
 <title>[85] コミックシーモア最大420万件流出</title>
@@ -373,14 +413,6 @@
 <pubDate>Wed, 21 Oct 2026 07:46:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>オープンソースのメールソフト「Thunderbird」の最新版、v158.0.1が10月20日にリリースされた。本アップデートはセキュリティ修正が中心のマイナーアップデートとなっている。 — 窓の杜 / score: 85 (Thunderbirdの重要なセキュリティ脆弱性修正)</description>
-</item>
-<item>
-<title>[85] MetaのAI「Muse」で共有した会話が第三者に丸見えになる問題が発覚、6800件以上の共有リンクが発見される</title>
-<link>https://gigazine.net/news/20261021-meta-muse-expose-user-secret/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261021-meta-muse-expose-user-secret/</guid>
-<pubDate>Wed, 21 Oct 2026 06:50:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>MetaのAIエージェント「Muse」で会話を共有すると、会話のタイトルを含むURLが外部から簡単に検索できる状態になっていたことが明らかになりました。Metaは報告を受けて会話の共有機能を一時停止しています。 続きを読む... — GIGAZINE / score: 85 (MetaのAIにおける深刻なプライバシー漏洩)</description>
 </item>
 <item>
 <title>[85] 「カーセンサーnet」情報漏えいか</title>
@@ -511,12 +543,12 @@
 <description>OpenAIは2026年10月7日、ChatGPTのChatタブに、日常的な会話向けに調整したGPT-6 Sol／Lunaと新機能「Intelligent UI」の提供を開始したと発表した。 — gihyo.jp / score: 85 (OpenAIによるChatGPTの新モデルとUI発表)</description>
 </item>
 <item>
-<title>[85] Anthropic、Claude Haiku 5.5を発表——実行コストはHaiku 4.5比で平均約75％減、OSWorld 2.1のオフライン評価で72.4％、Sonnet 5.5は83.9％</title>
-<link>https://gihyo.jp/article/2026/10/claude-haiku-5.5?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/10/claude-haiku-5.5?utm_source=feed</guid>
-<pubDate>Thu, 08 Oct 2026 04:14:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Anthropicは10月7日、AIモデル「Claude Haiku 5.5」を発表した。 — gihyo.jp / score: 85 (Claude Haiku 5.5のリリースと性能・コスト詳細)</description>
+<title>[80] 大阪大学、約7万8000人分の個人情報漏えい　NECが契約に基づかずクラウドで共有</title>
+<link>https://ascii.jp/elem/000/004/444/4444953/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/444/4444953/?rss</guid>
+<pubDate>Thu, 22 Oct 2026 05:20:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>大阪大学は10月21日、全学教育用電子計算機システムの運用を委託するNECで、大学関係者の個人情報を含むファイルが第三者にダウンロードされていたと発表した。 — ASCII.jp / score: 80 (大学における大規模な個人情報の漏えい事故のため)</description>
 </item>
 <item>
 <title>[80] GoogleとOpenAIが提携、Google Cloudで「GPT-6 Astra」などOpenAIのAIモデルを提供へ</title>
@@ -663,12 +695,20 @@
 <description>Structured Concurrency is the next major feature from Project Loom. In this session, we will explain the motivation and design of structured concurrency, show how to use it effectively, and discuss the lessons learned as the feature evolved. We'll also look beneath the surface at the new lower-level API behind the latest design, offering an early glimpse of work that is expected to form the basis of a future lower-level structured concurrency API. — Inside Java / score: 80 (Project Loomの構造化コンカレンシー解説)</description>
 </item>
 <item>
-<title>[80] Microsoft Execution Containersの一般提供が開始 ―Windows/Linux/macOS対応、AIエージェントをサンドボックスで安全実行</title>
-<link>https://gihyo.jp/article/2026/10/microsoft-execution-containers?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/10/microsoft-execution-containers?utm_source=feed</guid>
-<pubDate>Thu, 08 Oct 2026 05:43:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Microsoftは2026年10月7日、AIエージェント向けポリシー駆動型コンテナ「Microsoft Execution Containers」（MXC）の一般提供を開始したことを発表した。 — gihyo.jp / score: 80 (AIエージェント向けコンテナの一般提供開始)</description>
+<title>[75] Anthropic「Claude Duet」発表　PCを閉じても仕事を続ける常駐型AIエージェント</title>
+<link>https://ascii.jp/elem/000/004/444/4444990/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/444/4444990/?rss</guid>
+<pubDate>Thu, 22 Oct 2026 06:10:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>Anthropicは10月21日、利用者への通知や依頼された作業を自発的に進めるAIエージェント「Claude Duet」の研究プレビューを発表した。 — ASCII.jp / score: 75 (Anthropicの常駐型AIエージェント発表)</description>
+</item>
+<item>
+<title>[75] Anthropic、先回りしてユーザーを助ける秘書エージェント「Claude Duet」を発表／まずは米国の「Pro」「Max」ユーザーを対象にウェイトリスト方式で研究プレビュー</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2150199.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2150199.html</guid>
+<pubDate>Thu, 22 Oct 2026 05:40:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Anthropicは10月21日（現地時間、以下同）、「Claude Duet」を発表した。同日より研究プレビュー（research preview）として、米国の「Pro」「Max」プランの契約者からウェイトリスト方式で提供が始まっている。現時点で日本での提供時期は明らかにされていない。 — 窓の杜 / score: 75 (Anthropicの新しいAIエージェント発表)</description>
 </item>
 <item>
 <title>[75] AIが自分を監視するシステムを勝手に無効化して問い詰められると「無効化していない」と虚偽の説明</title>
@@ -765,46 +805,6 @@
 <pubDate>Wed, 21 Oct 2026 09:39:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>フランス企業のMistral AIが音声AI群「Voxtral 3」をリリースしました。高精度な文字起こしAIと、特定の人物の声をを再現できる音声合成AIが含まれています。 続きを読む... — GIGAZINE / score: 75 (Mistral AIの音声AI群Voxtral 3リリース)</description>
-</item>
-<item>
-<title>[75] AI の「直しました」に証拠を付けさせろ！ pstack を Claude Code に入れてみた</title>
-<link>https://qiita.com/kobayashi-fuuki/items/a7fbba06bb158dae0e11?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/kobayashi-fuuki/items/a7fbba06bb158dae0e11?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Wed, 21 Oct 2026 00:45:54 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>こんにちは、小林です! 株式会社リンクアンドモチベーションでデータスチュワードをしています。個人開発では機械学習で米国株の押し目を推定して売買する機能を持ったアプリを作っていて、その開発で Claude Code を使い込んでいます。その環境に、Cursor の公式プラグイ... — Qiita 人気記事 / score: 75 (AI開発ツールへのプラグイン導入と検証知見)</description>
-</item>
-<item>
-<title>[75] Claude Platform release notes — October 21, 2026</title>
-<link>https://platform.claude.com/docs/en/release-notes/overview#october-21-2026</link>
-<guid isPermaLink="true">https://platform.claude.com/docs/en/release-notes/overview#october-21-2026</guid>
-<pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-<category>Claude リリースノート</category>
-<description>We've released API version 2026-10-21 . Migrating to API version 2026-10-21 shows how to upgrade. We've released new versions of the client SDKs and the ant CLI that send API version 2026-10-21 by default: Python SDK 2.0.0, TypeScript SDK 1.0.0, C# SDK 13.0.0, Go SDK 2.0.0, Java SDK 3.0.0, PHP SDK 1.0.0, Ruby SDK 2.0.0, and ant CLI 2.0.0. See Switch to 2026-10-21 . The new SDK and CLI versions also have breaking changes that don't depend on the API version, and they are licensed under Apache 2.0 — Claude リリースノート / score: 75 (Claudeプラットフォームのマネージドエージェント更新)</description>
-</item>
-<item>
-<title>[75] JEP targeted to JDK 28: 543: Structured Concurrency</title>
-<link>https://inside.java/2026/10/21/jep543-target-jdk28/</link>
-<guid isPermaLink="true">https://inside.java/2026/10/21/jep543-target-jdk28/</guid>
-<pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-<category>Inside Java</category>
-<description>The following JEP is targeted to JDK 28: 543: Structured Concurrency — Inside Java / score: 75 (JDK 28に向けたStructured ConcurrencyのJEP追加)</description>
-</item>
-<item>
-<title>[75] Announcing Amazon ECS Gateway, a managed ingress solution for your ECS services</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/10/announcing-amazon-ecs-gateway/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/announcing-amazon-ecs-gateway/</guid>
-<pubDate>Tue, 20 Oct 2026 23:26:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>AWS announces Amazon Elastic Container Service (Amazon ECS) Gateway, a new resource that simplifies ingress networking for containerized applications by dynamically provisioning and managing Application Load Balancers (ALBs) and their supporting resources directly in your account. With ECS Gateway, platform teams define organizational networking standards once on a gateway and associate it with one or more clusters, giving organizations a centralized way to govern how traffic reaches their ECS s — AWS What's New / score: 75 (AWS ECSの新しいイングレス管理機能)</description>
-</item>
-<item>
-<title>[75] APIキー・パスワードをGitHubに漏らさない7つの設定(.gitignore・gitleaks・コピペOK)</title>
-<link>https://qiita.com/jiis-sasaki/items/fc4e677334d67ee1d472?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/jiis-sasaki/items/fc4e677334d67ee1d472?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Tue, 20 Oct 2026 22:30:00 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>対象: Git / GitHub でサイトのソースを管理している Web 担当者・制作会社・サーバー管理者 解決すること: .env や wp-config.php、API キー・DB パスワードをうっかりコミット / push する事故を、手元・GitHub・CI ... — Qiita 人気記事 / score: 75 (APIキー漏洩防止の有用な実践的設定)</description>
 </item>
 </channel>
 </rss>
