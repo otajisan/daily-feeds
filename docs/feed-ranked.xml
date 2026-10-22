@@ -4,8 +4,16 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 22 Oct 2026 02:15:40 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 04:11:06 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>[95] GitLabが任意のコードを実行可能な危険度最大の脆弱性など12件に対するセキュリティパッチを公開</title>
+<link>https://gigazine.net/news/20261022-gitlab-critical-patch/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261022-gitlab-critical-patch/</guid>
+<pubDate>Thu, 22 Oct 2026 03:36:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>開発運用プラットフォーム・GitLabが、GitLab Community Edition(CE)とEnterprise Edition(EE)向けの緊急パッチ「19.5.1」「19.4.3」「19.3.6」「19.2.9」「19.1.9」「19.0.10」「18.11.13」を公開しました。修正される脆弱性は12件。そのうち1件は「未認証ユーザーがGitLabのサーバー上で任意のコードを実行できる可能性がある」という内容で、共通脆弱性評価システム(CVSS)の10段階評価で10点、最も深刻な「緊急(Critical)」に分類されています。 続きを読む... — GIGAZINE / score: 95 (GitLabの危険度最大を含む緊急パッチ)</description>
+</item>
 <item>
 <title>[95] 「総理大臣がXでお願いを出すレベル」PHPのセキュリティチームが2件の脆弱性に関して注意喚起 23:00からエンジニアとハッカーの戦いが始まる</title>
 <link>https://togetter.com/li/2761269</link>
@@ -47,20 +55,12 @@
 <description>スクリプト言語「PHP」の開発チームは10月21日（協定世界時）、「PHP」のセキュリティアップデートを実施した。以下のバージョンが利用可能で、すべての利用者にただちにアップデートするよう強く呼びかけられている。 — 窓の杜 / score: 95 (窓の杜によるPHPの致命的脆弱性と即時アプデの呼びかけ)</description>
 </item>
 <item>
-<title>[95] Today's PHP Security Release, and How We're Strengthening PHP Security</title>
-<link>https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/</link>
-<guid isPermaLink="true">https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/</guid>
-<pubDate>Wed, 21 Oct 2026 14:53:13 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Earlier today, the PHP project released PHP 8.5.12, 8.4.27, 8.3.36, and 8.2.35. These releases fix two critical vulnerabilities that, under the right conditions, allow an unauthenticated attacker to execute code on servers running PHP. If you run PHP, it is imperative that you update now. The ann... — はてなブックマーク テクノロジー / score: 95 (PHPの複数バージョンにおける重大脆弱性の修正リリース)</description>
-</item>
-<item>
-<title>[95] 【PHP脆弱性php2shell】パッチは21:59に公開済み。「23:15から乗っ取り」「15分でAIが攻撃コード？」は本当か、自分のVPSのログで検証（CVE-2026-109618／109619）：秋山大志のそれとりあえず作ってみようか。：オルタナティブ・ブログ</title>
+<title>[95] 【PHP脆弱性php2shell】WordPressも対象、パッチは21:59に公開済み。「23:15から乗っ取り」「15分でAIが攻撃コード？」は本当か、自分のVPSのログで検証（CVE-2026-109618／109619）：秋山大志のそれとりあえず作ってみようか。：オルタナティブ・ブログ</title>
 <link>https://blogs.itmedia.co.jp/agile/2026/10/php2shell_cve_2026_109618_panic.html</link>
 <guid isPermaLink="true">https://blogs.itmedia.co.jp/agile/2026/10/php2shell_cve_2026_109618_panic.html</guid>
 <pubDate>Wed, 21 Oct 2026 14:07:21 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>【PHP脆弱性php2shell】パッチは21:59に公開済み。「23:15から乗っ取り」「15分でAIが攻撃コード？」は本当か、自分のVPSのログで検証（CVE-2026-109618／109619） PHPの重大な脆弱性で、タイムラインが大騒ぎです。 震源のひとつが、「23時にパッチが公開されたら、それをAIで解析して攻撃コードを作り、23時15分以降に... — はてなブックマーク テクノロジー / score: 95 (PHPの重大な脆弱性php2shellに関する詳細な検証)</description>
+<description>【PHP脆弱性php2shell】WordPressも対象、パッチは21:59に公開済み。「23:15から乗っ取り」「15分でAIが攻撃コード？」は本当か、自分のVPSのログで検証（CVE-2026-109618／109619） PHPの重大な脆弱性で、タイムラインが大騒ぎです。 震源のひとつが、「23時にパッチが公開されたら、それをAIで解析して攻撃コードを作... — はてなブックマーク テクノロジー / score: 95 (PHPの重大な脆弱性php2shellに関する詳細な検証)</description>
 </item>
 <item>
 <title>[95] PHPが緊急アップデート「8.5.12」「8.4.27」「8.3.36」「8.2.35」をリリース</title>
@@ -95,12 +95,12 @@
 <description>BroadcomのSDKに少なくとも2010年から脆弱(ぜいじゃく)性が存在し、パスワードを知らなくてもルーターを乗っ取り任意のコード実行を可能にする恐れがあることが分かりました。 続きを読む... — GIGAZINE / score: 95 (Wi-Fiルーターの広範囲に影響する深刻な脆弱性)</description>
 </item>
 <item>
-<title>[95] 修正予告されたPHPの2件の深刻な脆弱性についてまとめてみた - piyolog</title>
+<title>[95] PHPの2件の深刻な脆弱性(CVE-2026-109618、CVE-2026-109619)についてまとめてみた - piyolog</title>
 <link>https://piyolog.hatenadiary.jp/entry/2026/10/21/174516</link>
 <guid isPermaLink="true">https://piyolog.hatenadiary.jp/entry/2026/10/21/174516</guid>
 <pubDate>Wed, 21 Oct 2026 08:57:42 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>2026年10月20日、PHPの開発元であるThe PHP Groupのセキュリティチームは、PHPの深刻な脆弱性2件を修正するセキュリティリリースを予告しました。ここでは関連する情報をまとめます。（開発元等から詳細情報が公開され次第更新します。） 開発元は何を予告したの? PHPのセキュリティチームは10月20日(協定世界時)、2件の... — はてなブックマーク テクノロジー / score: 95 (PHPの深刻な脆弱性と緊急リリース予告)</description>
+<description>2026年10月21日、PHPの開発元であるThe PHP Groupは、PHPの深刻な脆弱性2件を修正するセキュリティリリースを公開しました。ここでは関連する情報をまとめます。 何が起きたの? PHPのセキュリティチームは10月20日(協定世界時)、2件の critical な脆弱性を修正するセキュリティリリースを10月21日14時(協定世界時、日本... — はてなブックマーク テクノロジー / score: 95 (PHPの深刻な脆弱性と緊急リリース予告)</description>
 </item>
 <item>
 <title>[95] PHPに深刻度「9.2」の脆弱性が2件発覚、サーバー乗っ取りの恐れで緊急パッチを10月21日に公開へ</title>
@@ -119,12 +119,28 @@
 <description>（10/22更新）セキュリティリリースが公開。詳細はこちら。 — 窓の杜 / score: 95 (PHPの致命的な脆弱性に関する緊急修正予告)</description>
 </item>
 <item>
+<title>[95] PHP、重大な脆弱性2件を修正 ——認証なしのリモートコード実行に対処。直ちに更新するよう強く推奨（10月22日更新）</title>
+<link>https://gihyo.jp/article/2026/10/php-critical-security-release?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/10/php-critical-security-release?utm_source=feed</guid>
+<pubDate>Wed, 21 Oct 2026 01:14:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>PHPセキュリティチームは2026年10月20日、重大な脆弱性2件を修正するセキュリティリリースを予告した。公開は10月21日14時（UTC）、日本時間の同日23時を予定している。 — gihyo.jp / score: 95 (PHPの重大な脆弱性修正リリース予告)</description>
+</item>
+<item>
 <title>[95] eMudhra Intermediate CA Compromise</title>
 <link>https://simonwillison.net/2026/Oct/20/emudhra-certificates/</link>
 <guid isPermaLink="true">https://simonwillison.net/2026/Oct/20/emudhra-certificates/</guid>
 <pubDate>Tue, 20 Oct 2026 23:50:25 +0000</pubDate>
 <category>Simon Willison</category>
 <description>eMudhra Intermediate CA Compromise This is very, very bad news: The private keys of eight eMudhra intermediate CA certificates have been compromised. They chain to roots trusted by the Mozilla, Microsoft, Apple and Chrome root programs and by many downstream trust stores. Any software that bundles a list of trusted certificates needs to be updated. This site is tracking software updates via this GitHub repository - Linux distros need to update their ca-certificates packages. In Python world uv 0 — Simon Willison / score: 95 (中間CA証明書の秘密鍵漏洩という重大な事件)</description>
+</item>
+<item>
+<title>[95] Linuxカーネル脆弱性「CVE-2026-99999」発見の背景が明らかに ―きっかけは賞金総額100万ドルの“サンドボックス脱出チャレンジ”</title>
+<link>https://gihyo.jp/article/2026/10/cve-2026-99999?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/10/cve-2026-99999?utm_source=feed</guid>
+<pubDate>Tue, 20 Oct 2026 05:02:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>2026年10月15日に「CVE-2026-99999」として公開されたLinuxカーネルに関する重大な脆弱性“Guest-to-Host KVM Escape”について、発見者のpwn.aiから発見にいたる概要と背景の報告があった。 — gihyo.jp / score: 95 (Linuxカーネルの重大な脆弱性と発見背景の報告)</description>
 </item>
 <item>
 <title>[95] Linuxカーネルの深刻な脆弱性「PwnEscape」（CVE-2026-99999）、ゲストの仮想マシンからホスト側Linux OSに不正なコードを実行できる可能性</title>
@@ -141,6 +157,14 @@
 <pubDate>Mon, 12 Oct 2026 15:46:53 +0000</pubDate>
 <category>Publickey</category>
 <description>JavaScriptランタイム「Deno」の開発元であるDeno LandとCloudflareは、Deno LandがCloudflareに合流すると発表しました。CloudflareによるDeno Landの買収と見られます（Deno ... — Publickey / score: 95 (Deno開発終了とCloudflare合流の重大なニュース)</description>
+</item>
+<item>
+<title>[90] 旅行ゲーム「ワールドクエスト」、PHP脆弱性で即日サービス終了　「古い仕組みのため対策とれず」</title>
+<link>https://www.itmedia.co.jp/news/article/2610/22/2000002493/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/22/2000002493/</guid>
+<pubDate>Thu, 22 Oct 2026 02:15:09 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>PHPを巡っては、開発元が「緊急」レベルの脆弱性2件を修正したバージョンを21日午後11時ごろに公開したばかり。認証なしで遠隔から任意のコードを実行される恐れがあるもので、国内では「BASE」「コドモン」など著名サービスが相次いで緊急メンテナンスに入るなど影響が広がっていた。修正版の対象はPHP 8.2以降の4系統... — はてなブックマーク テクノロジー / score: 90 (PHPの緊急脆弱性による影響と対応)</description>
 </item>
 <item>
 <title>[90] 「Node.js」にセキュリティ更新 ～10件の脆弱性を修正、「eMudhra」の侵害にも対応／v22.23.4、v24.22.1、v26.12.1が公開</title>
@@ -181,14 +205,6 @@
 <pubDate>Wed, 21 Oct 2026 22:16:49 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>「今夜に対応して頂きたい大至急のお願い」――高市早苗首相は10月21日午後10時前、自身のXアカウントで、PHPの「緊急」の脆弱性について、修正パッチを「可及的速やかに適用できる準備」をするよう求めた。パッチはこの投稿の約1時間後（21日午後11時ごろ）に公開された。 首相が個別のソフトウェア脆弱性について、Xで直... — はてなブックマーク テクノロジー / score: 90 (首相による異例の脆弱性パッチ適用の要請)</description>
-</item>
-<item>
-<title>[90] PHPの重大脆弱性、発見したのは「GPT-5.6Sol」　OpenAIが防御連携を呼びかけ</title>
-<link>https://www.watch.impress.co.jp/docs/news/2150172.html</link>
-<guid isPermaLink="true">https://www.watch.impress.co.jp/docs/news/2150172.html</guid>
-<pubDate>Wed, 21 Oct 2026 21:48:12 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>PHPの重大脆弱性、発見したのは「GPT-5.6Sol」 OpenAIが防御連携を呼びかけ — はてなブックマーク テクノロジー / score: 90 (PHP重大脆弱性とAIによる検出、防御連携の呼びかけ)</description>
 </item>
 <item>
 <title>[90] eMudhraで侵害された8つの認証局すべての秘密鍵はなんとたった「1バイト」で秘密鍵の1つは「4」、Mozilla・Microsoft・Apple・Chromeのルートプログラムや多くの下流トラストストアによって信頼されているルート証明書に連鎖</title>
@@ -295,6 +311,30 @@
 <description>Next.js plans to publish an out-of-band security update next Wednesday, October 14, 2026, addressing two Critical and one High severity vulnerabilities in upstream dependencies. — Next.js Blog / score: 90 (Next.jsの深刻な脆弱性修正に関する緊急のアップデート)</description>
 </item>
 <item>
+<title>[85] PHPの脆弱性 10年以上発見されず</title>
+<link>https://news.yahoo.co.jp/pickup/6599674?source=rss</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6599674?source=rss</guid>
+<pubDate>Thu, 22 Oct 2026 02:33:43 +0000</pubDate>
+<category>Yahoo!ニュース IT</category>
+<description> — Yahoo!ニュース IT / score: 85 (PHPの長期未発見の深刻な脆弱性に関する話題)</description>
+</item>
+<item>
+<title>[85] ゆるくでも知っておきたい「PHPの脆弱性」の話。Webサイトでのお手続き、さっさとやっといたほうがいいかも</title>
+<link>https://www.gizmodo.jp/article/2610-php-vulnerability-security-update/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/2610-php-vulnerability-security-update/</guid>
+<pubDate>Thu, 22 Oct 2026 02:25:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>首相自らが対応を求めた「PHPの重大な脆弱性」の問題についてざっくり説明します。 — ギズモード・ジャパン / score: 85 (PHPの重大な脆弱性と早急な対応の解説)</description>
+</item>
+<item>
+<title>[85] 大阪大、学生など7.8万人の情報漏えい　NECが無断で協力会社とデータ共有</title>
+<link>https://www.itmedia.co.jp/news/article/2610/22/2000002491/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/22/2000002491/</guid>
+<pubDate>Thu, 22 Oct 2026 01:44:37 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>大阪大学（阪大）は10月21日、全学教育用電子計算機システムの運用を委託しているNECから、卒業生や在学生、教職員の計7万7851人分の個人情報が漏えいしたと発表した。 NECは、大学に報告していない協力会社と情報を共有するため、個人情報を含むファイルをクラウドストレージ上で共有していたという。加えてNECは、作業... — はてなブックマーク テクノロジー / score: 85 (大規模な情報漏えい事故で影響甚大)</description>
+</item>
+<item>
 <title>[85] php2shellに感じたサイバー空間の『ドント・ルック・アップ』からサーバーの戸締りに至る空気の変遷 - 太陽がまぶしかったから</title>
 <link>https://www.du-soleil.com/entry/php2shell-emergency-maintenance-dont-look-up</link>
 <guid isPermaLink="true">https://www.du-soleil.com/entry/php2shell-emergency-maintenance-dont-look-up</guid>
@@ -399,6 +439,14 @@
 <description>A critical bug in JDK 27 and how it was fixed, some conference news, and how JDK 28 is shaping up — Inside Java / score: 85 (OpenJDKのバグ修正やJDK 28の動向に関する重要な開発情報)</description>
 </item>
 <item>
+<title>[85] JPCERT/CC、アプリ解析によるAPI攻撃の手口を報告、Flutter解析ツールの痕跡も ——API認証情報の扱いに注意喚起</title>
+<link>https://gihyo.jp/article/2026/10/web-api-attacks?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/10/web-api-attacks?utm_source=feed</guid>
+<pubDate>Fri, 16 Oct 2026 07:07:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>JPCERT/CCは2026年10月15日、国内で相次ぐ不正アクセスを受けて進めている攻撃元サーバーの調査結果を公開した。 — gihyo.jp / score: 85 (API攻撃の手口と脆弱性に関する重要な注意喚起)</description>
+</item>
+<item>
 <title>[85] AnthropicのBun、TypeScript 7よりも3倍以上高速なTypeScript型チェッカーを搭載。Bunの新バージョン1.4.3で</title>
 <link>https://www.publickey1.jp/blog/26/anthropicbuntypescript_73typescriptbun143.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/anthropicbuntypescript_73typescriptbun143.html</guid>
@@ -413,6 +461,14 @@
 <pubDate>Tue, 13 Oct 2026 16:01:52 +0000</pubDate>
 <category>Google DeepMind</category>
 <description> — Google DeepMind / score: 85 (Googleの次世代AIモデル発表の公式ブログ)</description>
+</item>
+<item>
+<title>[85] Movable Typeに深刻な脆弱性が見つかる――2026年10月7日、脆弱性対策最新版MT公開</title>
+<link>https://gihyo.jp/article/2026/10/mt-security-update2610?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/10/mt-security-update2610?utm_source=feed</guid>
+<pubDate>Tue, 13 Oct 2026 04:50:32 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Movable Typeに深刻な脆弱性が存在することが判明し、シックス・アパート株式会社は2026年10月7日にその脆弱性を修正した最新版Movable Typeを公開しました。 — gihyo.jp / score: 85 (Movable Typeの深刻な脆弱性と対策)</description>
 </item>
 <item>
 <title>[85] Announcing AWS Lambda Web Functions</title>
@@ -447,6 +503,22 @@
 <description>Deno is joining Cloudflare The Deno team released the first version of celld back in August - their open source implementation of the Durable Objects pattern from Cloudflare Workers. Today, Cloudflare are acquiring Deno outright, with the goal of building on celld to "make workerd self-hosting a first-class supported way to build and run apps using the Workers programming model" (see the Cloudflare blog .) The bad news is that Deno itself will not be maintained by Cloudflare beyond the next year — Simon Willison / score: 85 (DenoがCloudflareに加入する重大ニュース)</description>
 </item>
 <item>
+<title>[85] OpenAI、ChatGPTのChatタブにGPT-6 Sol/LunaとIntelligent UIを順次提供 ——図やグラフを交えた回答に対応、思考の途中から回答を表示</title>
+<link>https://gihyo.jp/article/2026/10/chatgpt-gpt-6-with-intelligent-ui?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/10/chatgpt-gpt-6-with-intelligent-ui?utm_source=feed</guid>
+<pubDate>Thu, 08 Oct 2026 06:22:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>OpenAIは2026年10月7日、ChatGPTのChatタブに、日常的な会話向けに調整したGPT-6 Sol／Lunaと新機能「Intelligent UI」の提供を開始したと発表した。 — gihyo.jp / score: 85 (OpenAIによるChatGPTの新モデルとUI発表)</description>
+</item>
+<item>
+<title>[85] Anthropic、Claude Haiku 5.5を発表——実行コストはHaiku 4.5比で平均約75％減、OSWorld 2.1のオフライン評価で72.4％、Sonnet 5.5は83.9％</title>
+<link>https://gihyo.jp/article/2026/10/claude-haiku-5.5?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/10/claude-haiku-5.5?utm_source=feed</guid>
+<pubDate>Thu, 08 Oct 2026 04:14:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Anthropicは10月7日、AIモデル「Claude Haiku 5.5」を発表した。 — gihyo.jp / score: 85 (Claude Haiku 5.5のリリースと性能・コスト詳細)</description>
+</item>
+<item>
 <title>[80] GoogleとOpenAIが提携、Google Cloudで「GPT-6 Astra」などOpenAIのAIモデルを提供へ</title>
 <link>https://gigazine.net/news/20261022-google-cloud-openai-models/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261022-google-cloud-openai-models/</guid>
@@ -461,14 +533,6 @@
 <pubDate>Wed, 21 Oct 2026 18:52:44 +0000</pubDate>
 <category>Zenn トレンド</category>
 <description>「PHPのドカ脆弱性」=「今すぐDynmap止めろ」ではなかった話 1. はじめに 2026/10/21、PHPに関してCVSS v4.0で9.2の重大な脆弱性（CVE-2026-109618・CVE-2026-109619）が2件出たと大騒ぎになった。日本時間21日23時に修正版（8.5.12 / 8.4.27 / 8.3.36 / 8.2.35）が公開されている。 https://www.php.net/archive/2026.php#2026-10-21-5 私の管理しているマイクラサーバーでPHPを使っているものがないか調査する中で、DynmapがPHPを使っている疑惑... — Zenn トレンド / score: 80 (PHP脆弱性騒動に関する詳細な解説と誤解の訂正)</description>
-</item>
-<item>
-<title>[80] 楽天市場が緊急メンテ、その他の企業サイト・サービスも続々メンテ　21日夜～</title>
-<link>https://k-tai.watch.impress.co.jp/docs/news/2150133.html</link>
-<guid isPermaLink="true">https://k-tai.watch.impress.co.jp/docs/news/2150133.html</guid>
-<pubDate>Wed, 21 Oct 2026 15:11:37 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>楽天市場が緊急メンテ、その他の企業サイト・サービスも続々メンテ 21日夜～ — はてなブックマーク テクノロジー / score: 80 (PHP脆弱性対応に伴う大規模な緊急メンテ)</description>
 </item>
 <item>
 <title>[80] OpenAI models are coming to Google Cloud</title>
@@ -503,12 +567,12 @@
 <description>Proudly brought to you by SerpAPI: Today’s release covers a LOT of ground, but you can scrape all this into markdown for your agents ! 50% token cost of JSON. We last covered the Inference Inflection in April , and historically most of the advances have been closed source decacorns from Fireworks to Baseten to Modal . Well, time for the open source response. It is day 1 of PyTorch Conf , and DeepSeek timed an intercontinental ballistic missile into the discussion by open sourcing DeepInfer , the — Latent Space / score: 80 (DeepSeekのオープンソース推論に関する最新動向)</description>
 </item>
 <item>
-<title>[80] フジ 番宣システムに不正アクセス</title>
-<link>https://news.yahoo.co.jp/pickup/6599561?source=rss</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6599561?source=rss</guid>
-<pubDate>Wed, 21 Oct 2026 02:32:33 +0000</pubDate>
-<category>Yahoo!ニュース IT</category>
-<description> — Yahoo!ニュース IT / score: 80 (放送局システムへの不正アクセスに関するセキュリティ事案)</description>
+<title>[80] Linux 7.３リリース ―新しいサンドボックス技術を導入、次世代プラットフォームへの対応強化</title>
+<link>https://gihyo.jp/article/2026/10/daily-linux-261021?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/10/daily-linux-261021?utm_source=feed</guid>
+<pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Linus Torvaldsは10月18日、「Linux 7.3」のリリースをアナウンスした。 — gihyo.jp / score: 80 (Linuxカーネルの新バージョンリリース)</description>
 </item>
 <item>
 <title>[80] AWS announces TorchNeuron: Native PyTorch Support for AWS Trainium (Public Beta)</title>
@@ -535,6 +599,14 @@
 <description>The following JEP is targeted to JDK 28: 546: Adaptive Heap Sizing for ZGC — Inside Java / score: 80 (JDK 28に向けたZGCのJEPターゲット)</description>
 </item>
 <item>
+<title>[80] Sakana AI、「The AI Scientist」の第3世代を公開 ——複数エージェントで仮説検証から論文執筆まで、図生成ツール「AutoIllustrate」もオープンソース化</title>
+<link>https://gihyo.jp/article/2026/10/the-agentic-scientist-v3?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/10/the-agentic-scientist-v3?utm_source=feed</guid>
+<pubDate>Fri, 16 Oct 2026 08:08:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Sakana AIは2026年10月15日、科学研究を自動化するThe AI Scientistの第3世代「The Agentic Scientist」を公開した。 — gihyo.jp / score: 80 (Sakana AIによる科学研究自動化AI第3世代の公開)</description>
+</item>
+<item>
 <title>[80] Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta</title>
 <link>https://huggingface.co/blog/meta-muse-spark-open</link>
 <guid isPermaLink="true">https://huggingface.co/blog/meta-muse-spark-open</guid>
@@ -549,6 +621,14 @@
 <pubDate>Wed, 14 Oct 2026 15:12:46 +0000</pubDate>
 <category>Node.js リリース</category>
 <description>Notable Changes [ ddbf974b47 ] - (SEMVER-MINOR) crypto : add crypto.parsePKCS12() (Brian Muenzenmeyer) #65627 [ c162c68ff0 ] - (SEMVER-MINOR) crypto : add a generic MAC API (Filip Skokan) #65553 [ a4ab3d84d7 ] - (SEMVER-MINOR) crypto : discover ciphers from OpenSSL providers (Filip Skokan) #65484 [ c2f1e829ea ] - (SEMVER-MINOR) crypto : discover hashes from OpenSSL providers (Filip Skokan) #65484 [ 51aad5a80d ] - (SEMVER-MINOR) crypto : enable SIV and GCM-SIV modes in Cipher/Decipher APIs (Filip — Node.js リリース / score: 80 (Node.js LTS版のアップデートと新API追加)</description>
+</item>
+<item>
+<title>[80] Anthropic、社内モノレポをGitから独自基盤へ移行 ——AIエージェントによるコード変更の急増に対応</title>
+<link>https://gihyo.jp/article/2026/10/anthropic-source-control?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/10/anthropic-source-control?utm_source=feed</guid>
+<pubDate>Wed, 14 Oct 2026 10:32:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Anthropicは2026年10月13日、社内のソース管理基盤Scionへの移行を扱う技術記事を公開した。 — gihyo.jp / score: 80 (Anthropicがモノレポ基盤をGitから独自移行した事例)</description>
 </item>
 <item>
 <title>[80] Gemini 4 Argon for Robotics</title>
@@ -583,6 +663,30 @@
 <description>Structured Concurrency is the next major feature from Project Loom. In this session, we will explain the motivation and design of structured concurrency, show how to use it effectively, and discuss the lessons learned as the feature evolved. We'll also look beneath the surface at the new lower-level API behind the latest design, offering an early glimpse of work that is expected to form the basis of a future lower-level structured concurrency API. — Inside Java / score: 80 (Project Loomの構造化コンカレンシー解説)</description>
 </item>
 <item>
+<title>[80] Microsoft Execution Containersの一般提供が開始 ―Windows/Linux/macOS対応、AIエージェントをサンドボックスで安全実行</title>
+<link>https://gihyo.jp/article/2026/10/microsoft-execution-containers?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/10/microsoft-execution-containers?utm_source=feed</guid>
+<pubDate>Thu, 08 Oct 2026 05:43:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Microsoftは2026年10月7日、AIエージェント向けポリシー駆動型コンテナ「Microsoft Execution Containers」（MXC）の一般提供を開始したことを発表した。 — gihyo.jp / score: 80 (AIエージェント向けコンテナの一般提供開始)</description>
+</item>
+<item>
+<title>[75] AIが自分を監視するシステムを勝手に無効化して問い詰められると「無効化していない」と虚偽の説明</title>
+<link>https://gigazine.net/news/20261022-openai-misalignment-report/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261022-openai-misalignment-report/</guid>
+<pubDate>Thu, 22 Oct 2026 02:54:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>OpenAIが開発したAIモデルが自身の不適切な行動を検出する監視システムを無効化し、ユーザーから指摘されると「無効化していない」と事実と異なる説明をしていたことが明らかになりました。 続きを読む... — GIGAZINE / score: 75 (AIモデルの監視回避と虚偽応答の問題)</description>
+</item>
+<item>
+<title>[75] DuckDB 2.0.0リリース、サーバー機能を改善し非同期I/Oを導入</title>
+<link>https://gihyo.jp/article/2026/10/duckdb-2.0.0?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/10/duckdb-2.0.0?utm_source=feed</guid>
+<pubDate>Thu, 22 Oct 2026 02:44:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>DuckDBの開発チームは2026年10月21日、分析向けデータベースDuckDBのバージョン2.0.0をリリースした。 — gihyo.jp / score: 75 (DuckDB 2.0.0のメジャーリリース)</description>
+</item>
+<item>
 <title>[75] 人間の指示なしでAIが自発的にタスクを実行するClaudeのエージェントアプリ「Claude Duet」が発表される</title>
 <link>https://gigazine.net/news/20261022-claude-duet/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261022-claude-duet/</guid>
@@ -613,14 +717,6 @@
 <pubDate>Wed, 21 Oct 2026 21:42:08 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>本来116桁の秘密鍵がたった3桁 インド認証局の一部中間CA証明書にミス — はてなブックマーク テクノロジー / score: 75 (認証局の中間CA証明書における秘密鍵のミス)</description>
-</item>
-<item>
-<title>[75] 中国語ＡＩの攻撃性能、脆弱性を見つけ情報抜き取りまで１５秒…セキュリティー会社がダミーサイトで実演</title>
-<link>https://www.yomiuri.co.jp/national/20261021-GYT1T00443/</link>
-<guid isPermaLink="true">https://www.yomiuri.co.jp/national/20261021-GYT1T00443/</guid>
-<pubDate>Wed, 21 Oct 2026 20:05:05 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>【読売新聞】 企業などへのサイバー攻撃での悪用が指摘されている中国語のＡＩ（人工知能）エージェント「ＡＲＴＥＸ（アルテックス）」について、ダミーサイトで攻撃性能をテストしたところ、 脆弱 （ ぜいじゃく ） 性の診断から個人情報の収 — はてなブックマーク テクノロジー / score: 75 (中国製AIエージェントによる脆弱性攻撃の実演)</description>
 </item>
 <item>
 <title>[75] AWS Neuron 2.33 adds native PyTorch support, Neuron Observer, and other new features</title>
@@ -655,20 +751,20 @@
 <description>As enterprises transition to continuous, multi-step agentic workflows, traditional infrastructure is hitting its limits. But raw performance is only part of the equation. To truly scale agentic AI, enterprises also need the flexibility to run the right models for the right tasks, alongside the data and operational sovereignty required to maintain verifiable control over both their sensitive intellectual property and the underlying infrastructure. Today at NVIDIA GTC Berlin 2026, we are announcin — Google Cloud Blog / score: 75 (Google CloudとNVIDIAのエージェントAI基盤協業)</description>
 </item>
 <item>
+<title>[75] Microsoft、TypeScript 7.1 Betaを公開 ——型検査を高速化し外部ツール向けAPIを追加</title>
+<link>https://gihyo.jp/article/2026/10/_typescript-7.1-beta?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/10/_typescript-7.1-beta?utm_source=feed</guid>
+<pubDate>Wed, 21 Oct 2026 10:52:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Microsoftは2026年10月20日、TypeScript 7.1 Betaを公開した。Goで実装したネイティブ版コンパイラーの性能を改善し、同社の測定では7.0に比べて型検査が1.2～1.9倍に高速化した。 — gihyo.jp / score: 75 (TypeScript 7.1 Betaの高速化と新機能)</description>
+</item>
+<item>
 <title>[75] リアルタイム文字起こしや特定の人物の音声クローンが可能な音声AI群「Voxtral 3」</title>
 <link>https://gigazine.net/news/20261021-voxtral-3/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261021-voxtral-3/</guid>
 <pubDate>Wed, 21 Oct 2026 09:39:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>フランス企業のMistral AIが音声AI群「Voxtral 3」をリリースしました。高精度な文字起こしAIと、特定の人物の声をを再現できる音声合成AIが含まれています。 続きを読む... — GIGAZINE / score: 75 (Mistral AIの音声AI群Voxtral 3リリース)</description>
-</item>
-<item>
-<title>[75] 「Google Chrome 156」安定版リリース、CSSだけでランダムな配置が可能に＆IndexedDBの保存方式がSQLiteベースに変更</title>
-<link>https://gigazine.net/news/20261021-google-chrome-156/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261021-google-chrome-156/</guid>
-<pubDate>Wed, 21 Oct 2026 03:40:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>ウェブブラウザ「Google Chrome」の最新安定版であるバージョン156がリリースされました。CSSだけでランダムな数値を生成できる機能や、ページ遷移を開始した要素を特定する機能が追加されたほか、IndexedDBの内部実装がSQLiteベースに変更され、JavaScriptモジュールの読み込み失敗時に再試行できるようになるなどの改善が行われています。 続きを読む... — GIGAZINE / score: 75 (Chrome安定版リリースとIndexedDBのSQLite移行)</description>
 </item>
 <item>
 <title>[75] AI の「直しました」に証拠を付けさせろ！ pstack を Claude Code に入れてみた</title>
@@ -709,102 +805,6 @@
 <pubDate>Tue, 20 Oct 2026 22:30:00 +0000</pubDate>
 <category>Qiita 人気記事</category>
 <description>対象: Git / GitHub でサイトのソースを管理している Web 担当者・制作会社・サーバー管理者 解決すること: .env や wp-config.php、API キー・DB パスワードをうっかりコミット / push する事故を、手元・GitHub・CI ... — Qiita 人気記事 / score: 75 (APIキー漏洩防止の有用な実践的設定)</description>
-</item>
-<item>
-<title>[75] Introducing Amazon ECS Gateway: A fully-managed ingress solution for ECS services</title>
-<link>https://aws.amazon.com/blogs/aws/introducing-amazon-ecs-gateway-a-fully-managed-ingress-solution-for-ecs-services/</link>
-<guid isPermaLink="true">https://aws.amazon.com/blogs/aws/introducing-amazon-ecs-gateway-a-fully-managed-ingress-solution-for-ecs-services/</guid>
-<pubDate>Tue, 20 Oct 2026 17:03:38 +0000</pubDate>
-<category>AWS News Blog</category>
-<description>Try Amazon ECS Gateway, a new account-level resource that simplifies ingress networking for containerized workloads by dynamically provisioning and managing the necessary infrastructure on your behalf, with all resources created directly in your account. — AWS News Blog / score: 75 (ECS向けフルマネージドなイングレスソリューションの新機能)</description>
-</item>
-<item>
-<title>[75] Claude Opus 5.5 and Claude Sonnet 5.5 are now available in Google Antigravity</title>
-<link>https://cloud.google.com/blog/products/ai-machine-learning/claude-opus-55-and-claude-sonnet-55-available-in-antigravity/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/products/ai-machine-learning/claude-opus-55-and-claude-sonnet-55-available-in-antigravity/</guid>
-<pubDate>Tue, 20 Oct 2026 16:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>Whether you are iterating on a quick bug fix or planning a complex migration, different tasks call for different models. In keeping with Google Cloud's commitment to an open ecosystem and to give developers the right model for every job, Claude Opus 5.5 and Claude Sonnet 5.5 are now available in Google Antigravity for Google Cloud customers. Claude Opus 5.5 is built for complex work while Claude Sonnet 5.5 is a faster, lower-cost complement. Once enabled by an administrator, developers can selec — Google Cloud Blog / score: 75 (GoogleプラットフォームでのClaude新モデル提供)</description>
-</item>
-<item>
-<title>[75] 「Cloudflare OS」のマネージドサービス提供へ。GitHubとの接続やGmailとの連携強化など</title>
-<link>https://www.publickey1.jp/blog/26/cloudflare_osgithubgmail.html</link>
-<guid isPermaLink="true">https://www.publickey1.jp/blog/26/cloudflare_osgithubgmail.html</guid>
-<pubDate>Tue, 20 Oct 2026 15:10:05 +0000</pubDate>
-<category>Publickey</category>
-<description>Cloudflareは、AIを活用した業務のためのプラットフォームとなる「Cloudflare OS」のマネージドサービスを発表しました。現在ウェイティングリストへの登録を募集しています。 AIを活用した業務アプリのプラットフォーム Clo... — Publickey / score: 75 (Cloudflareの新プラットフォーム発表で重要)</description>
-</item>
-<item>
-<title>[75] Structured outputs for Claude models available on Amazon Bedrock</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/10/claude-structured-outputs-bedrock/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/claude-structured-outputs-bedrock/</guid>
-<pubDate>Tue, 20 Oct 2026 14:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Amazon Bedrock now supports structured outputs for all Anthropic Claude models across both the bedrock-runtime and the bedrock-mantle endpoint. Whether you call Claude through boto3 and the bedrock-runtime APIs or through the Messages API and the bedrock-mantle endpoint, you can now receive schema-compliant JSON responses that conform to a defined structure, without custom parsing, retry logic, or post-processing. With structured outputs for Claude on Amazon Bedrock, you can automate reliable, s — AWS What's New / score: 75 (Amazon BedrockでのClaude構造化出力サポート)</description>
-</item>
-<item>
-<title>[75] TorchTPU is now open source: Run native PyTorch on TPUs</title>
-<link>https://cloud.google.com/blog/topics/ai-infrastructure/torchtpu-is-now-open-source-run-native-pytorch-on-tpus/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/topics/ai-infrastructure/torchtpu-is-now-open-source-run-native-pytorch-on-tpus/</guid>
-<pubDate>Tue, 20 Oct 2026 11:30:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>Today at PyTorch Conference 2026, we announced a range of new products and integrations designed to help you run PyTorch effectively on Google Cloud or in your own infrastructure. Notably, TorchTPU, our native PyTorch stack for Google TPUs, is now available as open source on GitHub. With TorchTPU, TPUs join GPUs and CPUs as a native option for PyTorch. You can now train, serve, and deploy models on TPUs using the tools you already rely on, including vLLM, SGLang, llm-d, TorchTitan, Ray, TorchRec — Google Cloud Blog / score: 75 (PyTorchのTPUネイティブ対応オープンソース化)</description>
-</item>
-<item>
-<title>[75] Announcing llm-d 1.0: Open distributed inference for agents on Google Cloud TPUs and GPUs</title>
-<link>https://cloud.google.com/blog/topics/ai-infrastructure/llm-d-1-0-an-open-source-stack-for-distributed-inference/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/topics/ai-infrastructure/llm-d-1-0-an-open-source-stack-for-distributed-inference/</guid>
-<pubDate>Tue, 20 Oct 2026 11:30:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>Today at the PyTorch Conference, we released llm-d 1.0, an open-source, Kubernetes-native stack for distributed LLM inference. Co-founded by Google with Red Hat, IBM and others, we worked with a community of more than 500 contributors over 25 organizations on this Cloud Native Computing Foundation (CNCF) Sandbox project, bringing together two important communities: PyTorch, where vLLM and SGLang serve models, and Kubernetes, where distributed systems run and scale in production. llm-d 1.0 arrive — Google Cloud Blog / score: 75 (分散LLM推論向けKubernetesスタックの公開)</description>
-</item>
-<item>
-<title>[75] GoogleのGenkit、TypeScriptとGo向けに「Detached Turns」と「Human-in-the-Loop」機能を備えたAgents APIをリリース</title>
-<link>https://www.infoq.com/jp/news/2026/10/genkit-agents-api-preview/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-<guid isPermaLink="true">https://www.infoq.com/jp/news/2026/10/genkit-agents-api-preview/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-<pubDate>Tue, 20 Oct 2026 08:30:00 +0000</pubDate>
-<category>InfoQ Japan</category>
-<description>Googleは先日、フルスタックAIアプリケーションを構築するためのオープンソース基盤「Genkit」向けに、Agents APIのプレビュー版をリリースした。このAPIは、メッセージ履歴、ツール実行ループ、ストリーミング、状態の永続化、およびフロントエンドプロトコルを、単一のchat()インターフェースに統合している。このインターフェースは、エージェントがプロセス内で実行される場合でも、HTTPのエンドポイントの背後で実行される場合も同じように動作可能だ。 プレビュー版は本日よりTypeScriptおよびGoで利用可能、PythonとDartへの対応も予定されている。 By Steef-Jan Wiggers Translated by Takashi Kawase — InfoQ Japan / score: 75 (Genkit Agents APIのプレビュー版リリース)</description>
-</item>
-<item>
-<title>[75] Amazon Bedrock Guardrails now supports Standard tier for contextual grounding checks</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-guardrails-grounding-standard/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-guardrails-grounding-standard/</guid>
-<pubDate>Tue, 20 Oct 2026 08:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Amazon Bedrock Guardrails now offers a Standard tier for contextual grounding checks, which detect and filter hallucinations by checking whether a model response is grounded in your reference source and relevant to the user's query. The Standard tier is more robust than the Classic tier. It supports responses that include reasoning or conversational content, scores differently worded responses with the same meaning more consistently, and provides more comprehensive language support, matching the — AWS What's New / score: 75 (Amazon Bedrockの機能拡張とガードレール強化)</description>
-</item>
-<item>
-<title>[75] Amazon Bedrock Advanced Prompt Optimization now supports prompt shortening</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-prompt-optimization-shortening/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-prompt-optimization-shortening/</guid>
-<pubDate>Tue, 20 Oct 2026 08:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Amazon Bedrock Advanced Prompt Optimization now supports prompt shortening, an optional setting that reduces the length of your prompt while maintaining or improving your evaluation scores. Advanced Prompt Optimization optimizes prompts for any model on Amazon Bedrock against your own evaluation criteria. Until now, optimization focused on quality alone. Optimized prompts were often longer than the original. Longer prompts raise input token costs and can increase time to first token, which matte — AWS What's New / score: 75 (Amazon Bedrockのプロンプト最適化機能のアップデート)</description>
-</item>
-<item>
-<title>[75] Amazon ElastiCache Serverless for Valkey now supports online migration with zero downtime</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-elasticache-serverless-valkey-online-migration/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-elasticache-serverless-valkey-online-migration/</guid>
-<pubDate>Tue, 20 Oct 2026 07:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Amazon ElastiCache Serverless for Valkey now supports online migration from self-managed Valkey and Redis OSS on Amazon EC2 with zero downtime. Zero downtime means zero Errors returned to the client during migration, measured the same way the ElastiCache SLA measures availability. Your application continues reading and writing through cutover, and you do not need third-party replication tools. Online migration runs in three steps. You prepare the migration, start the data sync, and complete the  — AWS What's New / score: 75 (ゼロダウンタイム移行対応の実用的な機能追加)</description>
-</item>
-<item>
-<title>[75] Chromium(V8)のArray.prototype.fillを最大約7倍高速化した</title>
-<link>https://zenn.dev/dinii/articles/5b8edc7856c25b</link>
-<guid isPermaLink="true">https://zenn.dev/dinii/articles/5b8edc7856c25b</guid>
-<pubDate>Tue, 20 Oct 2026 01:00:05 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>はじめに ! 修正や追加等はコメントまたはGitHubで編集リクエストをお待ちしております。 ダイニーで一番若いエンジニアのriya amemiya(21歳)です。 (V8の配列系メソッド高速化職人をそろそろ名乗っても怒られないんじゃないか？と最近思い始めました🧐) 今回は Array.prototype.fill（以下 fill）をSmiとdouble向けに最大約7倍高速化しました。 V8の配列系メソッドのfast path実装に取り組む人は世界で見てもほとんどいないので、この記事から少しでも興味を持っていただけると嬉しいです。 パッチはこちらです。 https://chromi... — Zenn トレンド / score: 75 (V8エンジン内部のメソッド高速化に関する詳細な技術解説)</description>
-</item>
-<item>
-<title>[75] Reflect, Transform, Accelerate: Bringing GPU Computing to Java</title>
-<link>https://inside.java/2026/10/20/devoxxbelgium-bringing-gpu-computing-to-java/</link>
-<guid isPermaLink="true">https://inside.java/2026/10/20/devoxxbelgium-bringing-gpu-computing-to-java/</guid>
-<pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-<category>Inside Java</category>
-<description>Java’s code reflection API, developed in OpenJDK Project Babylon, opens a new path to targeting foreign programming models directly from Java—including GPUs. This talk introduces the Heterogeneous Accelerator Toolkit (HAT), a Java parallel programming framework that accelerates modern workloads on specialised hardware through three core stages: reflect, transform, and accelerate. Through examples of tensor-core programming and matrix multiplication—fundamental building blocks for AI and natural- — Inside Java / score: 75 (JavaからGPUコンピューティングを活用するプロジェクトの解説)</description>
 </item>
 </channel>
 </rss>
