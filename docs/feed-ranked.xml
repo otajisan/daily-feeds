@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 22 Oct 2026 12:16:15 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 14:10:02 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[98] 「GitLab」に深刻度“最大”の脆弱性　認証なしで任意のコード実行の恐れ、修正版適用を　CVSS「10.0」</title>
@@ -45,6 +45,14 @@
 <pubDate>Thu, 22 Oct 2026 05:25:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>複数のAIモデルを簡単に利用できるオープンソースツール「LiteLLM」のバージョン1.107.0にパスワードなどを盗み出す不正プログラムが仕込まれていたことが判明しました。不正プログラムはLiteLLMをインストールした環境でPythonを起動するだけで実行される仕組みで、攻撃者が遠隔操作で別のプログラムを実行できる機能も備えていたとのことです。 続きを読む... — GIGAZINE / score: 95 (LiteLLMへの悪質な不正プログラム混入)</description>
+</item>
+<item>
+<title>[95] PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell) | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構</title>
+<link>https://www.ipa.go.jp/security/security-alert/2026/alert20261022.html</link>
+<guid isPermaLink="true">https://www.ipa.go.jp/security/security-alert/2026/alert20261022.html</guid>
+<pubDate>Thu, 22 Oct 2026 04:24:05 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>概要 The PHP Groupが提供するPHPについて、メモリ不足(OOM)のエラー処理に起因する脆弱性（CVE-2026-109618）とリクエスト処理に関連する脆弱性（CVE-2026-109619）が報告されています。 これらの脆弱性を悪用された場合、遠隔の第三者によって、任意のコード実行が実行される可能性があります。 これらの脆弱性の組み... — はてなブックマーク テクノロジー / score: 95 (PHPの任意のコード実行可能な致命的脆弱性)</description>
 </item>
 <item>
 <title>[95] 「PHPなんて使ってるやつが悪い」と言っている輩が一番危ない</title>
@@ -151,6 +159,14 @@
 <description>JavaScriptランタイム「Deno」の開発元であるDeno LandとCloudflareは、Deno LandがCloudflareに合流すると発表しました。CloudflareによるDeno Landの買収と見られます（Deno ... — Publickey / score: 95 (Deno開発終了とCloudflare合流の重大なニュース)</description>
 </item>
 <item>
+<title>[90] 「Oracle Java SE」にも致命的な脆弱性 ～リモートでデータの窃取・作成・削除・変更が可能／</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2150531.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2150531.html</guid>
+<pubDate>Thu, 22 Oct 2026 12:14:04 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>「Oracle Java SE」にも致命的な脆弱性 ～リモートでデータの窃取・作成・削除・変更が可能／ — はてなブックマーク テクノロジー / score: 90 (Java SEの致命的な脆弱性情報)</description>
+</item>
+<item>
 <title>[90] PHP脆弱性“PoCフライング公開”の経緯、支援財団が公表　混乱広げた企業を名指しで批判</title>
 <link>https://www.itmedia.co.jp/news/article/2610/22/2000002525/</link>
 <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/22/2000002525/</guid>
@@ -181,14 +197,6 @@
 <pubDate>Thu, 22 Oct 2026 06:49:30 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>バルテック、「PHPの脆弱性を標的としたサイバー攻撃」によりサービス停止、情報流出の可能性 — はてなブックマーク テクノロジー / score: 90 (PHPの重大な脆弱性による実被害とサービス停止の報告)</description>
-</item>
-<item>
-<title>[90] 【速報】米アマゾンPHP欠陥公表前に悪用形跡確認</title>
-<link>https://www.47news.jp/15120505.html</link>
-<guid isPermaLink="true">https://www.47news.jp/15120505.html</guid>
-<pubDate>Thu, 22 Oct 2026 06:15:55 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>【ニューヨーク共同】米IT大手アマゾン・コムは21日、プログラミング言語「PHP」に見つかったシステムの重大な欠陥に当たる脆弱性が公表される前に、欠陥をサイバー攻撃に悪用しようとした形跡を確認したと発表した。 — はてなブックマーク テクノロジー / score: 90 (AmazonがPHP重大脆弱性のゼロデイ悪用を確認した速報)</description>
 </item>
 <item>
 <title>[90] eMudhraの中間CAの秘密鍵が公開された証明書から復元可能と判明、pip・uvなどの開発ツールに修正版</title>
@@ -367,14 +375,6 @@
 <description>PHPの重大な脆弱性による大規模なセキュリティ騒動の原因や、Webサービス停止の背景を分かりやすく解説します。 — ギズモード・ジャパン / score: 85 (主要言語のセキュリティ脆弱性と大規模騒動の解説)</description>
 </item>
 <item>
-<title>[85] 日本のネットが止まった……世界を揺るがすPHP脆弱性問題がなぜか中国では無風のワケ #エキスパートトピ（高口康太） - エキスパート - Yahoo!ニュース</title>
-<link>https://news.yahoo.co.jp/expert/articles/2d3aaa765e366d1a6186bcfac14484f18a8a421b</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/expert/articles/2d3aaa765e366d1a6186bcfac14484f18a8a421b</guid>
-<pubDate>Thu, 22 Oct 2026 02:58:57 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>21日夜（日本時間）に修正パッチが公開されたPHPの重大な脆弱性「PHP2Shell」。日本ではpixivやniconico、財務省などがパッチ公開前に予防的にサービスを止め、欧州でもオランダ、フィンランド、フランス、ドイツなどの政府機関がサイトを停止した。一方、中国ではサイト閉鎖の報道は見当たらない。古いPHPが多く動いて... — はてなブックマーク テクノロジー / score: 85 (PHP脆弱性の世界的な影響と各国・中国の対応の違い)</description>
-</item>
-<item>
 <title>[85] PHPの脆弱性 10年以上発見されず</title>
 <link>https://news.yahoo.co.jp/pickup/6599674?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6599674?source=rss</guid>
@@ -391,28 +391,12 @@
 <description>大阪大学（阪大）は10月21日、全学教育用電子計算機システムの運用を委託しているNECから、卒業生や在学生、教職員の計7万7851人分の個人情報が漏えいしたと発表した。 NECは、大学に報告していない協力会社と情報を共有するため、個人情報を含むファイルをクラウドストレージ上で共有していたという。加えてNECは、作業... — はてなブックマーク テクノロジー / score: 85 (大規模な情報漏えい事故で影響甚大)</description>
 </item>
 <item>
-<title>[85] 多くのサイトが予防的に公開停止、高市総理が対応呼びかけ―「PHPの深刻な脆弱性」対応で何が起きた？</title>
-<link>https://internet.watch.impress.co.jp/docs/news/2150203.html</link>
-<guid isPermaLink="true">https://internet.watch.impress.co.jp/docs/news/2150203.html</guid>
-<pubDate>Thu, 22 Oct 2026 01:30:23 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>多くのサイトが予防的に公開停止、高市総理が対応呼びかけ―「PHPの深刻な脆弱性」対応で何が起きた？ — はてなブックマーク テクノロジー / score: 85 (PHP深刻な脆弱性対応の全体的なまとめと経緯)</description>
-</item>
-<item>
 <title>[85] PHP脆弱性php2shell対応、7.4本番を止めずに守った夜と実際の攻撃 - Qiita</title>
 <link>https://qiita.com/kenimo49/items/30f290bf0f4fff021fb3</link>
 <guid isPermaLink="true">https://qiita.com/kenimo49/items/30f290bf0f4fff021fb3</guid>
 <pubDate>Thu, 22 Oct 2026 01:12:57 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>2026 年 10 月 21 日 21 時 55 分、高市総理が X にこう投稿しました。 修正パッチを速やかに適用することが困難な場合は、例えばウェブサイト等を一時的に停止させることも、リスクを低減させるための有効策の一つと考えられます。 (高市早苗 on X) PHP の任意コード実行の脆弱性 2 件、通称 php2shell（CVE-2026-10961... — はてなブックマーク テクノロジー / score: 85 (PHP脆弱性(php2shell)の対応実例)</description>
-</item>
-<item>
-<title>[85] php2shellに感じたサイバー空間の『ドント・ルック・アップ』からサーバーの戸締りに至る空気の変遷 - 太陽がまぶしかったから</title>
-<link>https://www.du-soleil.com/entry/php2shell-emergency-maintenance-dont-look-up</link>
-<guid isPermaLink="true">https://www.du-soleil.com/entry/php2shell-emergency-maintenance-dont-look-up</guid>
-<pubDate>Thu, 22 Oct 2026 01:03:19 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>昼休みに感じた不穏な煙と焦燥 昨日の昼休み、一息つこうと思って何気なくXを開いたとき、タイムラインの片隅に流れるざわざわとした空気が目にとまった。お昼休みののんきな雑談やランチの投稿の合間に、セキュリティクラスタやインフラエンジニアたちがただならぬ緊張感をつぶやき始めており、セキュリティ専門家の高... — はてなブックマーク テクノロジー / score: 85 (重大な脆弱性発見を巡るインフラ・セキュリティの話題)</description>
 </item>
 <item>
 <title>[85] コミックシーモア最大420万件流出</title>
@@ -775,6 +759,14 @@
 <description>OpenAIは2026年10月21日、数千体のAIエージェントを使って数百万個のマウスの脳細胞から得られた実験データをわずか32分で分析し、アルツハイマー病やパーキンソン病などの研究につながる新たな手掛かりを発見したと発表しました。人間の研究者なら数カ月から1年かかると推定される分析を短時間で実施し、これまで見落と... — はてなブックマーク テクノロジー / score: 75 (AIによる脳細胞データ超高速分析)</description>
 </item>
 <item>
+<title>[75] 外部メール配信サービスへの不正アクセスに伴う、お客様情報の流出の可能性について（第一報） | お知らせ | 株式会社ヌーラボ(Nulab inc.)</title>
+<link>https://nulab.com/ja/info/20261022-1-nulab/</link>
+<guid isPermaLink="true">https://nulab.com/ja/info/20261022-1-nulab/</guid>
+<pubDate>Thu, 22 Oct 2026 07:48:56 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>外部メール配信サービスへの不正アクセスに伴う、お客様情報の流出の可能性について（第一報） 株式会社ヌーラボ（以下 「当社」）がお客様へのメール配信に利用している外部サービス「ブラストメール」（運営：株式会社ラクスライトクラウド）において、第三者による不正アクセスが発生し、一部の契約者の配信先リスト... — はてなブックマーク テクノロジー / score: 75 (外部サービス起因の顧客情報流出インシデント)</description>
+</item>
+<item>
 <title>[75] Anthropic、先回りしてユーザーを助ける秘書エージェント「Claude Duet」を発表／まずは米国の「Pro」「Max」ユーザーを対象にウェイトリスト方式で研究プレビュー</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2150199.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2150199.html</guid>
@@ -805,6 +797,14 @@
 <pubDate>Thu, 22 Oct 2026 01:37:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>AI企業のAnthropicがAIエージェントアプリ「Claude Duet」を発表しました。Claude Opus 5.5を基盤に動作するAIエージェントで、AIが自発的に情報収集したり通知を送信したりしてくれます。 続きを読む... — GIGAZINE / score: 75 (Anthropicによる自発的タスク実行AIエージェントの発表)</description>
+</item>
+<item>
+<title>[75] AWS、ECS向けフルマネージドイングレス「Amazon ECS Gateway」を発表</title>
+<link>https://codezine.jp/article/detail/30088</link>
+<guid isPermaLink="true">https://codezine.jp/article/detail/30088</guid>
+<pubDate>Wed, 21 Oct 2026 23:00:00 +0000</pubDate>
+<category>CodeZine</category>
+<description> — CodeZine / score: 75 (AWSの新機能発表による高いインフラ影響度)</description>
 </item>
 </channel>
 </rss>
