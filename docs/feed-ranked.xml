@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 23 Oct 2026 14:11:33 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 16:11:58 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] PHPの重大な欠陥、実は2年前から兆候があった。なんで直せなかったの？</title>
@@ -162,9 +162,9 @@
 <title>[90] PHPの脆弱性をHacker Newsにリークした人物が「秘密だと知らなかった」と謝罪</title>
 <link>https://gigazine.net/news/20261023-php-rce-unknowingly/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261023-php-rce-unknowingly/</guid>
-<pubDate>Fri, 23 Oct 2026 04:19:23 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>ウェブサイトやウェブアプリの開発に広く使われているプログラミング言語「PHP」に深刻な脆弱(ぜいじゃく)性が見つかったことで、日本時間の2026年10月21日23時にセキュリティ更新プログラムおよび詳細情報が公開されることがアナウンスされ、多くのウェブサイトやサービスが緊急メンテナンス入りする騒動に発展しました... — はてなブックマーク テクノロジー / score: 90 (PHP深刻な脆弱性と情報リークの経緯に関する重大な話題)</description>
+<pubDate>Fri, 23 Oct 2026 04:10:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>ウェブサイトやウェブアプリの開発に広く使われているプログラミング言語「PHP」に深刻な脆弱(ぜいじゃく)性が見つかったことで、日本時間の2026年10月21日23時にセキュリティ更新プログラムおよび詳細情報が公開されることがアナウンスされ、多くのウェブサイトやサービスが緊急メンテナンス入りする騒動に発展しました。この件はもともと、PHPセキュリティチームがパッチを公開予定でしたが、ソーシャルニュースサイトのHacker Newsで脆弱性情報が漏えいしたため、前倒しになりました。これを投稿したユーザーがHacker Newsに再度登場し、「PHPの情報公開禁止について何も知らず、とんでもない形で裏目に出た」と騒動に対して謝罪しています。 続きを読む... — GIGAZINE / score: 90 (PHP深刻な脆弱性と情報リークの経緯に関する重大な話題)</description>
 </item>
 <item>
 <title>[90] AmazonはPHP2Shell脆弱性を悪用した攻撃を公開4日前に検出していた</title>
@@ -397,14 +397,6 @@
 <pubDate>Thu, 22 Oct 2026 21:00:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Today, AWS announces the general availability of AWS Continuum for code vulnerabilities. Continuum for code vulnerabilities discovers, validates, prioritizes, and remediates code vulnerabilities at machine speed. Continuum for code vulnerabilities builds a context graph from your AWS environment, including resource topology, identity relationships, and network reachability. It knows which resources are part of your application, and which findings carry real business risk. It ingests your existin — AWS What's New / score: 85 (AWSのコード脆弱性修正サービスの一般提供開始)</description>
-</item>
-<item>
-<title>[85] eMudhraの中間CA証明書の秘密鍵の危殆化についてまとめてみた - piyolog</title>
-<link>https://piyolog.hatenadiary.jp/entry/2026/10/23/021328</link>
-<guid isPermaLink="true">https://piyolog.hatenadiary.jp/entry/2026/10/23/021328</guid>
-<pubDate>Thu, 22 Oct 2026 20:51:20 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>2026年10月18日、Mozillaは、認証局eMudhraの中間CA証明書の秘密鍵が危殆化したインシデントをBugzillaに起票し、10月20日に公開しました。ここでは関連する情報をまとめます。 危殆化したのは中間CA8件 eMudhra(emSignブランドの認証局)の中間CA証明書のうち、TLS用6件とコード署名用2件の秘密鍵が、公開鍵から誰でも求... — はてなブックマーク テクノロジー / score: 85 (認証局の秘密鍵危殆化というセキュリティ上の重大インシデント)</description>
 </item>
 <item>
 <title>[85] Node.jsの2026年10月セキュリティリリースでやること（Claude Code用チェックリスト付き）</title>
@@ -781,6 +773,14 @@
 <pubDate>Fri, 23 Oct 2026 06:50:22 +0000</pubDate>
 <category>Qiita 人気記事</category>
 <description>はじめに 常に VS Code / GitHub Copilot の動向を追っている、Microsoft Student Ambassador 兼 GitHub Copilot User Group Japan（Gh-CUG）運営のロホマン シャヒンです！ この記事が... — Qiita 人気記事 / score: 75 (VS Codeの新機能Interactive Canvasesの速報解説)</description>
+</item>
+<item>
+<title>[75] デジタル庁、Studio株式会社で発生した不正アクセスの影響による個人情報漏えいの可能性を発表</title>
+<link>https://internet.watch.impress.co.jp/docs/news/2150695.html</link>
+<guid isPermaLink="true">https://internet.watch.impress.co.jp/docs/news/2150695.html</guid>
+<pubDate>Fri, 23 Oct 2026 04:51:49 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>デジタル庁、Studio株式会社で発生した不正アクセスの影響による個人情報漏えいの可能性を発表 — はてなブックマーク テクノロジー / score: 75 (デジタル庁の個人情報漏えいに関する発表)</description>
 </item>
 <item>
 <title>[75] 「バグのないソフトウェア」の実現を目指してAnthropicが「AIを用いて数学的にバグがないことを証明する」という手法を開発</title>
