@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 23 Oct 2026 18:11:07 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 20:09:20 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] PHPの重大な欠陥、実は2年前から兆候があった。なんで直せなかったの？</title>
@@ -244,7 +244,7 @@
 <guid isPermaLink="true">https://github.com/nodejs/node/releases/tag/v26.12.1</guid>
 <pubDate>Wed, 21 Oct 2026 10:38:29 +0000</pubDate>
 <category>Node.js リリース</category>
-<description>This is a security release. Notable Changes (CVE-2026-106069, CVE-2026-106072) tls: reject non-canonical IP addresses (Matteo Collina) – High (CVE-2026-105482) dns: validate resolve inputs for null bytes (James M Snell) – High (CVE-2026-105483) tls: fix ip normalization regression (James M Snell) – High ( CVE-2026-111497 ) src: expose BROTLI_DECODER_ERROR_FORMAT_BLOCK_SWITCH (Antoine du Hamel) – High ( CVE-2026-111497 ) deps: brotli: cherry-pick 0ed4268a4401abcb44720963 (Evgenii Kliuchnikov) – H — Node.js リリース / score: 90 (Node.jsの複数脆弱性を修正するセキュリティリリース)</description>
+<description>This is a security release. Notable Changes ( CVE-2026-106069 , CVE-2026-106072 ) tls: reject non-canonical IP addresses (Matteo Collina) – High ( CVE-2026-105482 ) dns: validate resolve inputs for null bytes (James M Snell) – High ( CVE-2026-105483 ) tls: fix ip normalization regression (James M Snell) – High ( CVE-2026-111497 ) src: expose BROTLI_DECODER_ERROR_FORMAT_BLOCK_SWITCH (Antoine du Hamel) – High ( CVE-2026-111497 ) deps: brotli: cherry-pick 0ed4268a4401abcb44720963 (Evgenii Kliuchnik — Node.js リリース / score: 90 (Node.jsの複数脆弱性を修正するセキュリティリリース)</description>
 </item>
 <item>
 <title>[90] 2026-10-21, Version 24.22.1 'Krypton' (LTS), @aduh95</title>
@@ -252,7 +252,7 @@
 <guid isPermaLink="true">https://github.com/nodejs/node/releases/tag/v24.22.1</guid>
 <pubDate>Wed, 21 Oct 2026 10:38:25 +0000</pubDate>
 <category>Node.js リリース</category>
-<description>This is a security release. Notable Changes (CVE-2026-105481) http: ensure agent data guard works without I/O (James M Snell) (CVE-2026-105482) dns: validate resolve inputs for null bytes (James M Snell) (CVE-2026-105483) tls: fix ip normalization regression (James M Snell) (CVE-2026-106069) tls: reject non-canonical IP addresses (Matteo Collina) (CVE-2026-106073) permission: check permission model in realpathSync (RafaelGSS) (CVE-2026-106074) crypto: reset random caches across snapshots (Filip  — Node.js リリース / score: 90 (Node.js LTSの重要セキュリティアップデート)</description>
+<description>This is a security release. Notable Changes ( CVE-2026-105481 ) http: ensure agent data guard works without I/O (James M Snell) ( CVE-2026-105482 ) dns: validate resolve inputs for null bytes (James M Snell) ( CVE-2026-105483 ) tls: fix ip normalization regression (James M Snell) ( CVE-2026-106069 ) tls: reject non-canonical IP addresses (Matteo Collina) ( CVE-2026-106073 ) permission: check permission model in realpathSync (RafaelGSS) ( CVE-2026-106074 ) crypto: reset random caches across snaps — Node.js リリース / score: 90 (Node.js LTSの重要セキュリティアップデート)</description>
 </item>
 <item>
 <title>[90] 2026-10-21, Version 22.23.4 'Jod' (LTS), @aduh95</title>
@@ -260,7 +260,7 @@
 <guid isPermaLink="true">https://github.com/nodejs/node/releases/tag/v22.23.4</guid>
 <pubDate>Wed, 21 Oct 2026 10:38:20 +0000</pubDate>
 <category>Node.js リリース</category>
-<description>This is a security release. Notable Changes (CVE-2026-105481) http: ensure agent data guard works without I/O (James M Snell) (CVE-2026-105482) dns: validate resolve inputs for null bytes (James M Snell) (CVE-2026-106069) tls: reject non-canonical IP addresses (Matteo Collina) (CVE-2026-106073) permission: check permission model in realpathSync (RafaelGSS) (CVE-2026-106074) crypto: reset random caches across snapshots (Filip Skokan) ( CVE-2026-111497 ) src: expose BROTLI_DECODER_ERROR_FORMAT_BLO — Node.js リリース / score: 90 (Node.js LTSの重要セキュリティアップデート)</description>
+<description>This is a security release. Notable Changes ( CVE-2026-105481 ) http: ensure agent data guard works without I/O (James M Snell) ( CVE-2026-105482 ) dns: validate resolve inputs for null bytes (James M Snell) ( CVE-2026-106069 ) tls: reject non-canonical IP addresses (Matteo Collina) ( CVE-2026-106073 ) permission: check permission model in realpathSync (RafaelGSS) ( CVE-2026-106074 ) crypto: reset random caches across snapshots (Filip Skokan) ( CVE-2026-111497 ) src: expose BROTLI_DECODER_ERROR_ — Node.js リリース / score: 90 (Node.js LTSの重要セキュリティアップデート)</description>
 </item>
 <item>
 <title>[90] 「Google Chrome 156」が公開、「IndexedDB」は「SQLite」ベースへ／深刻度「Critical」6件を含む353件もの脆弱性に対処</title>
@@ -293,6 +293,14 @@
 <pubDate>Tue, 13 Oct 2026 16:00:00 +0000</pubDate>
 <category>Google AI Blog</category>
 <description>We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model. — Google AI Blog / score: 90 (Googleの新しい最先端AIモデルGemini 4 Argon)</description>
+</item>
+<item>
+<title>[85] Amazon Corretto October 2026 Quarterly Updates</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-corretto-october-2026-quarterly-updates</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-corretto-october-2026-quarterly-updates</guid>
+<pubDate>Fri, 23 Oct 2026 14:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>On October 22, 2026 Amazon announced quarterly security and critical updates for Amazon Corretto Long-Term Supported (LTS) versions of OpenJDK. Corretto 27.0.1.0.10, 25.0.5.0.9, 21.0.13.0.10, 17.0.21.0.10, 11.0.33.0.9, and 8u512 are now available for download . Amazon Corretto is a no-cost, multi-platform, production-ready distribution of OpenJDK. Visit the Corretto home page to download Corretto 27, Corretto 25, Corretto 21, Corretto 17, Corretto 11, or Corretto 8. You can also get the updates  — AWS What's New / score: 85 (OpenJDKの重要セキュリティと四半期アップデート。)</description>
 </item>
 <item>
 <title>[85] モスバーガー 流通済みプリペイドカード情報 約57万件が流出 | NHKニュース</title>
@@ -751,6 +759,14 @@
 <description>Nintendo Switch 2のセキュリティを突破し、非公式プログラムを実行できるようにする手法「ns2jb」が公開されました。開発にはOpenAIのコーディングAI「OpenAI Codex」が活用され、AIが実際のゲーム機を遠隔操作しながら脆弱(ぜいじゃく)性を調査するという手法が採用されています。 pepsipu.com/blog/2026-10-switch2-j... — はてなブックマーク テクノロジー / score: 75 (AIを活用した次世代ゲーム機のセキュリティ脆弱性調査)</description>
 </item>
 <item>
+<title>[75] Securing our frontier model training environment</title>
+<link>https://openai.com/index/securing-our-frontier-model-training-environment</link>
+<guid isPermaLink="true">https://openai.com/index/securing-our-frontier-model-training-environment</guid>
+<pubDate>Fri, 23 Oct 2026 10:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming. — OpenAI News / score: 75 (AI最先端モデルのセキュリティ強化に関する解説。)</description>
+</item>
+<item>
 <title>[75] AIを低遅延実行するための推論エンジン「Liquid RIPL」が登場、検索や決済などの低遅延が重要な場面で役立つ</title>
 <link>https://gigazine.net/news/20261023-ripl-inference-engine/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261023-ripl-inference-engine/</guid>
@@ -789,22 +805,6 @@
 <pubDate>Fri, 23 Oct 2026 03:58:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>AIの高性能化によって、さまざまなソフトウェアのバグが大量に発見されており、PHPの緊急アップデートのように大きな影響を及ぼす事例も現れています。そんな中、AI企業のAnthropicが「ソフトウェアにバグがないことを形式的検証で証明する」という手法に取り組んでいることを明らかにしました。 続きを読む... — GIGAZINE / score: 75 (AIによる形式的検証でバグゼロを目指す取り組み)</description>
-</item>
-<item>
-<title>[75] 「1Password for Agents」が発表、AIエージェントにパスワードを見せずにサインインさせられる／個人・ファミリー向けは追加料金なし、「Claude Duet」「ChatGPT Work」などと連携</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2150555.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2150555.html</guid>
-<pubDate>Fri, 23 Oct 2026 00:10:35 +0000</pubDate>
-<category>窓の杜</category>
-<description>加AgileBitsは10月22日（現地時間）、「1Password for Agents」プラットフォームを発表した。AIエージェントがWebサービスへのログインを必要としたときに、ユーザーの認証情報を直接AIに渡さず、安全にログイン処理を実行できる仕組みだ。 — 窓の杜 / score: 75 (AIエージェント向けパスワード管理プラットフォームの発表)</description>
-</item>
-<item>
-<title>[75] OpenAI、PHPの脆弱性発見の経緯を公表</title>
-<link>https://codezine.jp/article/detail/30107</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/30107</guid>
-<pubDate>Thu, 22 Oct 2026 23:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 75 (OpenAIによるPHP脆弱性発見の経緯公表)</description>
 </item>
 </channel>
 </rss>
