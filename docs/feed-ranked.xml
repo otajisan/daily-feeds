@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 23 Oct 2026 04:10:54 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 06:15:53 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「PHP2Shell」脆弱性公表後に悪用試行が数百万件単位に増加したとCloudflareが報告、顧客向けには新ファイアウォールを開発して有効化</title>
@@ -15,28 +15,12 @@
 <description>世界の多くのウェブサイトやサービスで利用されているPHPに重大な脆弱性「PHP2Shell」が見つかり緊急アップデートが行われた一件で、公表前は数千件程度だった悪用試行が公表後は爆増し、公表から12時間ほどで数百万件という単位に増加していたことをCloudflareが報告しています。 続きを読む... — GIGAZINE / score: 95 (PHPの重大な脆弱性と攻撃急増に関する緊急ニュース)</description>
 </item>
 <item>
-<title>[95] PHP 8.5.12の緊急リリースにpixivはどう対応したか - pixiv inside</title>
-<link>https://inside.pixiv.blog/2026/10/22/193321</link>
-<guid isPermaLink="true">https://inside.pixiv.blog/2026/10/22/193321</guid>
-<pubDate>Thu, 22 Oct 2026 10:38:41 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>こんにちは、Platform Division Infrastructure Unitのpicopicoです。 2026年10月21日、PHPに深刻な脆弱性（通称PHP2Shell）が見つかり、緊急のセキュリティリリースが予告されました。今回の脆弱性への対応にあたられた皆さま、そして現在も対応を続けている皆さまに、心より敬意を表します。 ピクシブでは影響を受ける... — はてなブックマーク テクノロジー / score: 95 (PHPの深刻な脆弱性に対する現場の緊急対応事例)</description>
-</item>
-<item>
 <title>[95] PHP脆弱性悪用の試み増 数百万件</title>
 <link>https://news.yahoo.co.jp/pickup/6599702?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6599702?source=rss</guid>
 <pubDate>Thu, 22 Oct 2026 07:54:45 +0000</pubDate>
 <category>Yahoo!ニュース IT</category>
 <description> — Yahoo!ニュース IT / score: 95 (PHP脆弱性の悪用試み急増)</description>
-</item>
-<item>
-<title>[95] AIツール「LiteLLM」にパスワードを盗む不正プログラムが混入、インストールするだけで別のPythonプログラムにも影響</title>
-<link>https://gigazine.net/news/20261022-litellm-backdoor/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261022-litellm-backdoor/</guid>
-<pubDate>Thu, 22 Oct 2026 05:25:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>複数のAIモデルを簡単に利用できるオープンソースツール「LiteLLM」のバージョン1.107.0にパスワードなどを盗み出す不正プログラムが仕込まれていたことが判明しました。不正プログラムはLiteLLMをインストールした環境でPythonを起動するだけで実行される仕組みで、攻撃者が遠隔操作で別のプログラムを実行できる機能も備えていたとのことです。 続きを読む... — GIGAZINE / score: 95 (LiteLLMへの悪質な不正プログラム混入)</description>
 </item>
 <item>
 <title>[95] 【緊急】Node.jsの重大脆弱性に対応するセキュリティアップデートを安全に適用する方法</title>
@@ -61,14 +45,6 @@
 <pubDate>Thu, 22 Oct 2026 03:50:13 +0000</pubDate>
 <category>Qiita 人気記事</category>
 <description>PHPの緊急脆弱性（通称PHP2Shell、CVE-2026-109618 / CVE-2026-109619）について、仕組みと対応チェックリストをまとめた記事を書きました。 対応方法のまとめが主な内容だったのですが、その後も続いている反応の中で、気になる声がいくつも目に... — Qiita 人気記事 / score: 95 (PHPの緊急脆弱性解説と対応策)</description>
-</item>
-<item>
-<title>[95] GitLabが任意のコードを実行可能な危険度最大の脆弱性など12件に対するセキュリティパッチを公開</title>
-<link>https://gigazine.net/news/20261022-gitlab-critical-patch/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261022-gitlab-critical-patch/</guid>
-<pubDate>Thu, 22 Oct 2026 03:36:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>開発運用プラットフォーム・GitLabが、GitLab Community Edition(CE)とEnterprise Edition(EE)向けの緊急パッチ「19.5.1」「19.4.3」「19.3.6」「19.2.9」「19.1.9」「19.0.10」「18.11.13」を公開しました。修正される脆弱性は12件。そのうち1件は「未認証ユーザーがGitLabのサーバー上で任意のコードを実行できる可能性がある」という内容で、共通脆弱性評価システム(CVSS)の10段階評価で10点、最も深刻な「緊急(Critical)」に分類されています。 続きを読む... — GIGAZINE / score: 95 (GitLabの危険度最大を含む緊急パッチ)</description>
 </item>
 <item>
 <title>[95] PHP2Shell をどう追ったか — Sysdig Secure AI を活用した影響調査と対処の記録</title>
@@ -141,6 +117,14 @@
 <pubDate>Mon, 12 Oct 2026 15:46:53 +0000</pubDate>
 <category>Publickey</category>
 <description>JavaScriptランタイム「Deno」の開発元であるDeno LandとCloudflareは、Deno LandがCloudflareに合流すると発表しました。CloudflareによるDeno Landの買収と見られます（Deno ... — Publickey / score: 95 (Deno開発終了とCloudflare合流の重大なニュース)</description>
+</item>
+<item>
+<title>[90] PHPの脆弱性をHacker Newsにリークした人物が「秘密だと知らなかった」と謝罪</title>
+<link>https://gigazine.net/news/20261023-php-rce-unknowingly/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261023-php-rce-unknowingly/</guid>
+<pubDate>Fri, 23 Oct 2026 04:10:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>ウェブサイトやウェブアプリの開発に広く使われているプログラミング言語「PHP」に深刻な脆弱(ぜいじゃく)性が見つかったことで、日本時間の2026年10月21日23時にセキュリティ更新プログラムおよび詳細情報が公開されることがアナウンスされ、多くのウェブサイトやサービスが緊急メンテナンス入りする騒動に発展しました。この件はもともと、PHPセキュリティチームがパッチを公開予定でしたが、ソーシャルニュースサイトのHacker Newsで脆弱性情報が漏えいしたため、前倒しになりました。これを投稿したユーザーがHacker Newsに再度登場し、「PHPの情報公開禁止について何も知らず、とんでもない形で裏目に出た」と騒動に対して謝罪しています。 続きを読む... — GIGAZINE / score: 90 (PHP深刻な脆弱性と情報リークの経緯に関する重大な話題)</description>
 </item>
 <item>
 <title>[90] AmazonはPHP2Shell脆弱性を悪用した攻撃を公開4日前に検出していた</title>
@@ -303,6 +287,22 @@
 <description>Python 3.15.0 — CPython リリース / score: 90 (Pythonのメジャーバージョンリリース。)</description>
 </item>
 <item>
+<title>[85] ソフトバンク、緊急速報メールの配信を停止　PHP脆弱性対応で　ワイモバイル・LINEMOも対象</title>
+<link>https://ascii.jp/elem/000/004/445/4445323/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/445/4445323/?rss</guid>
+<pubDate>Fri, 23 Oct 2026 05:50:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>ソフトバンクは10月23日、同日6時47分から緊急速報メール（緊急地震速報／津波警報／災害・避難情報）のメンテナンスを始めたことを公表した。 — ASCII.jp / score: 85 (PHP脆弱性対応に伴う緊急速報メール配信停止)</description>
+</item>
+<item>
+<title>[85] デジタル庁、公式サイトへの問い合わせ最大1万3000件漏えいか　Web制作ツール「Studio」不正アクセスで</title>
+<link>https://www.itmedia.co.jp/news/article/2610/23/2000002543/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/23/2000002543/</guid>
+<pubDate>Fri, 23 Oct 2026 05:30:25 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>デジタル庁は10月22日、Webサイトの運営に一部利用していたノーコードWeb制作サービス「Studio」が不正アクセスを受けた影響で、個人情報が漏えいした可能性があると発表した。問い合わせフォームで受け付けた情報、最大1万3323件が対象という。 漏えいした可能性があるのは、2021年5月から23年3月までの間にフォームへ... — はてなブックマーク テクノロジー / score: 85 (デジタル庁のサービスにおける大規模個人情報漏えい)</description>
+</item>
+<item>
 <title>[85] 本来推測不可能な秘密鍵にわずか1バイトの値を使っていたeMudhraがSSL/TLS証明書事業から撤退</title>
 <link>https://gigazine.net/news/20261023-emudhra-exit-ssl-tls/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261023-emudhra-exit-ssl-tls/</guid>
@@ -367,28 +367,12 @@
 <description>AWS Continuum for code vulnerabilities is a new security service that uses AI to automatically find, validate, and prioritize code vulnerabilities in your environment, then delivers ready-to-review fixes as pull requests replacing what previously took hours of manual investigation and days of cross-team coordination. — AWS News Blog / score: 85 (AIを活用したAWSのコード脆弱性検出サービス)</description>
 </item>
 <item>
-<title>[85] デジタル庁、問い合わせフォーム入力情報1万3000件超が漏洩か - 日本経済新聞</title>
-<link>https://www.nikkei.com/article/DGXZQOUA22BWN0S6A021C2000000/</link>
-<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUA22BWN0S6A021C2000000/</guid>
-<pubDate>Thu, 22 Oct 2026 19:30:04 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>デジタル庁は22日、問い合わせフォームを委託していた企業が不正アクセスを受けて1万3000件超の氏名やメールアドレスをはじめとした個人情報が漏洩した可能性があると発表した。情報が悪用されるなどの二次被害は確認されていない。同庁によると、2021年5月〜23年3月に同庁ホームページの問い合わせフォームに入力した内... — はてなブックマーク テクノロジー / score: 85 (デジタル庁の問い合わせフォーム情報漏洩インシデント)</description>
-</item>
-<item>
 <title>[85] Node.jsの2026年10月セキュリティリリースでやること（Claude Code用チェックリスト付き）</title>
 <link>https://zenn.dev/yoshinani_dev/articles/0e6513a56eb629</link>
 <guid isPermaLink="true">https://zenn.dev/yoshinani_dev/articles/0e6513a56eb629</guid>
 <pubDate>Thu, 22 Oct 2026 17:52:59 +0000</pubDate>
 <category>Zenn トレンド</category>
 <description>! 受託案件を含むため、リポジトリ名・プロジェクト名・チーム名・URL は伏せています。数字は、実際に数えた値と測った値です。 2026年10月21日に Node.js のセキュリティリリースが出ました。修正は10件で、Brotli デコーダの範囲外書き込み（CVE-2026-111497、RCE のおそれ）や、TLS 証明書のホスト名チェックを回避できるものなど、High が4件あります。 https://nodejs.org/en/blog/vulnerability/october-2026-security-releases 修正版は 24.22.1 / 22.23.4 / 2... — Zenn トレンド / score: 85 (Node.jsの緊急セキュリティリリース対応の事例)</description>
-</item>
-<item>
-<title>[85] 中国政府系集団がAIで大規模攻撃　世界数百の組織標的に　米マイクロソフト確認</title>
-<link>https://www.sankei.com/article/20261022-4666XKHORFPQFPMIMILRS2WD7I/</link>
-<guid isPermaLink="true">https://www.sankei.com/article/20261022-4666XKHORFPQFPMIMILRS2WD7I/</guid>
-<pubDate>Thu, 22 Oct 2026 16:56:24 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>米IT大手マイクロソフト（MS）は21日、中国政府と関係があるとするハッカー集団が人工知能（AI）を悪用して、世界の数百の組織を標的に自動化されたサイバー攻撃を行っていたことを確認したと公表した。標的の選定から、クラウド上の管理者権限を奪うまでに3時間もかからなかったケースもあり、AIが攻撃のスピードと規模... — はてなブックマーク テクノロジー / score: 85 (中国政府系集団によるAIを用いた大規模サイバー攻撃)</description>
 </item>
 <item>
 <title>[85] デジタル庁HPの問い合わせ内容漏洩か　最大1万3000件以上</title>
@@ -647,14 +631,6 @@
 <description>タイトルの通りです。 外側から確認できる内容をチェックしているだけなので、 サーバーの設定によってはチェックできない項目もあります チェック内容 PHP2Shell チェック内容 チェック対象 PHPバージョンを修正版（8.2.35 / 8.3.36... — Qiita 人気記事 / score: 80 (PHP2Shell脆弱性の有無を確認するためのバージョン確認ツール)</description>
 </item>
 <item>
-<title>[80] 「PHPのドカ脆弱性」=「今すぐDynmap止めろ」ではなかった話</title>
-<link>https://zenn.dev/56drich/articles/f52bd4a1dae988</link>
-<guid isPermaLink="true">https://zenn.dev/56drich/articles/f52bd4a1dae988</guid>
-<pubDate>Wed, 21 Oct 2026 18:52:44 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>「PHPのドカ脆弱性」=「今すぐDynmap止めろ」ではなかった話 1. はじめに 2026/10/21、PHPに関してCVSS v4.0で9.2の重大な脆弱性（CVE-2026-109618・CVE-2026-109619）が2件出たと大騒ぎになった。日本時間21日23時に修正版（8.5.12 / 8.4.27 / 8.3.36 / 8.2.35）が公開されている。 https://www.php.net/archive/2026.php#2026-10-21-5 私の管理しているマイクラサーバーでPHPを使っているものがないか調査する中で、DynmapがPHPを使っている疑惑... — Zenn トレンド / score: 80 (PHP脆弱性騒動に関する詳細な解説と誤解の訂正)</description>
-</item>
-<item>
 <title>[80] Amazon Linux 2023 の PHP を CVE-2026-109618 修正版へ先行ビルドする</title>
 <link>https://qiita.com/amu-kuroneko/items/46f00fbe8b5bac009c1c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
 <guid isPermaLink="true">https://qiita.com/amu-kuroneko/items/46f00fbe8b5bac009c1c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
@@ -805,6 +781,30 @@
 <pubDate>Fri, 23 Oct 2026 03:58:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>AIの高性能化によって、さまざまなソフトウェアのバグが大量に発見されており、PHPの緊急アップデートのように大きな影響を及ぼす事例も現れています。そんな中、AI企業のAnthropicが「ソフトウェアにバグがないことを形式的検証で証明する」という手法に取り組んでいることを明らかにしました。 続きを読む... — GIGAZINE / score: 75 (AIによる形式的検証でバグゼロを目指す取り組み)</description>
+</item>
+<item>
+<title>[75] 「予防的サービス停止」は日本に定着するのか? PHP脆弱性問題が起こした変化</title>
+<link>https://www.watch.impress.co.jp/docs/topic/2150549.html</link>
+<guid isPermaLink="true">https://www.watch.impress.co.jp/docs/topic/2150549.html</guid>
+<pubDate>Fri, 23 Oct 2026 00:32:49 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>「予防的サービス停止」は日本に定着するのか? PHP脆弱性問題が起こした変化 — はてなブックマーク テクノロジー / score: 75 (PHP脆弱性に伴う業界の運用変化を取り上げた記事)</description>
+</item>
+<item>
+<title>[75] 「1Password for Agents」が発表、AIエージェントにパスワードを見せずにサインインさせられる／個人・ファミリー向けは追加料金なし、「Claude Duet」「ChatGPT Work」などと連携</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2150555.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2150555.html</guid>
+<pubDate>Fri, 23 Oct 2026 00:10:35 +0000</pubDate>
+<category>窓の杜</category>
+<description>加AgileBitsは10月22日（現地時間）、「1Password for Agents」プラットフォームを発表した。AIエージェントがWebサービスへのログインを必要としたときに、ユーザーの認証情報を直接AIに渡さず、安全にログイン処理を実行できる仕組みだ。 — 窓の杜 / score: 75 (AIエージェント向けパスワード管理プラットフォームの発表)</description>
+</item>
+<item>
+<title>[75] OpenAI、PHPの脆弱性発見の経緯を公表</title>
+<link>https://codezine.jp/article/detail/30107</link>
+<guid isPermaLink="true">https://codezine.jp/article/detail/30107</guid>
+<pubDate>Thu, 22 Oct 2026 23:00:00 +0000</pubDate>
+<category>CodeZine</category>
+<description> — CodeZine / score: 75 (OpenAIによるPHP脆弱性発見の経緯公表)</description>
 </item>
 </channel>
 </rss>
