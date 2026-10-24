@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sat, 24 Oct 2026 00:22:43 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 02:12:07 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] PHPの重大な欠陥、実は2年前から兆候があった。なんで直せなかったの？</title>
@@ -53,6 +53,14 @@
 <pubDate>Fri, 23 Oct 2026 04:06:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>世界の多くのウェブサイトやサービスで利用されているPHPに重大な脆弱性「PHP2Shell」が見つかり緊急アップデートが行われた一件で、公表前は数千件程度だった悪用試行が公表後は爆増し、公表から12時間ほどで数百万件という単位に増加していたことをCloudflareが報告しています。 続きを読む... — GIGAZINE / score: 95 (PHPの重大な脆弱性と攻撃急増に関する緊急ニュース)</description>
+</item>
+<item>
+<title>[95] Fixing Critical Node &amp; PHP Flaws | Devin</title>
+<link>https://devin.ai/blog/vulnerability-fixes-plugin</link>
+<guid isPermaLink="true">https://devin.ai/blog/vulnerability-fixes-plugin</guid>
+<pubDate>Fri, 23 Oct 2026 03:28:59 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Cognition|October 22, 2026|11 min read|Copy link On October 21, 2026 the PHP and Node.js projects released security updates addressing vulnerabilities that can allow remote code execution. Teams running either runtime should identify affected services and apply the appropriate patches immediately... — はてなブックマーク テクノロジー / score: 95 (Node.jsとPHPの緊急セキュリティ脆弱性修正のため)</description>
 </item>
 <item>
 <title>[95] PHP脆弱性悪用の試み増 数百万件</title>
@@ -319,6 +327,14 @@
 <description>On October 22, 2026 Amazon announced quarterly security and critical updates for Amazon Corretto Long-Term Supported (LTS) versions of OpenJDK. Corretto 27.0.1.0.10, 25.0.5.0.9, 21.0.13.0.10, 17.0.21.0.10, 11.0.33.0.9, and 8u512 are now available for download . Amazon Corretto is a no-cost, multi-platform, production-ready distribution of OpenJDK. Visit the Corretto home page to download Corretto 27, Corretto 25, Corretto 21, Corretto 17, Corretto 11, or Corretto 8. You can also get the updates  — AWS What's New / score: 85 (OpenJDKの重要セキュリティと四半期アップデート。)</description>
 </item>
 <item>
+<title>[85] パナソニックHD子会社、使用禁止の生成AIに従業員約33万人分の個人情報をアップロード</title>
+<link>https://www.itmedia.co.jp/news/article/2610/23/2000002562/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/23/2000002562/</guid>
+<pubDate>Fri, 23 Oct 2026 12:57:07 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>対象の情報は、日本国内のパナソニックグループの従業員約7万5000人、元従業員約17万8000人と、その家族計約8万1000人。従業員と元従業員については社員番号、住所、電話番号、メールアドレスが含まれ、氏名は含まれていない。一方、家族については、緊急連絡先として登録された氏名、住所、電話番号、メールアドレスが... — はてなブックマーク テクノロジー / score: 85 (大規模な個人情報の生成AIへの誤アップロード事案のため)</description>
+</item>
+<item>
 <title>[85] モスバーガー 流通済みプリペイドカード情報 約57万件が流出 | NHKニュース</title>
 <link>https://news.web.nhk/newsweb/na/nd-20261023de64388</link>
 <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261023de64388</guid>
@@ -367,20 +383,20 @@
 <description>パーク24は23日、カーシェアサービス「タイムズカー」の不正アクセスによる個人情報流出を受け、免許証などの本人確認書類の画像データが外部送信されたとみられる被害者に1人3000円を「お見舞い」として支払うと発表した。のべ146万人あまりが対象となり、総額は単純計算で約44億円となる見込み。タイムズカーでは9月に... — はてなブックマーク テクノロジー / score: 85 (大規模な個人情報流出と高額な見舞金対応のニュース)</description>
 </item>
 <item>
+<title>[85] 野村証券、法人向けサービス「i-Port」で情報漏洩か　「委託先に不正アクセス」 - 日本経済新聞</title>
+<link>https://www.nikkei.com/article/DGXZQOUB233Q60T21C26A0000000/</link>
+<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUB233Q60T21C26A0000000/</guid>
+<pubDate>Fri, 23 Oct 2026 05:58:09 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>野村証券は23日、金融機関など法人向けの運用資産管理ツール「i-Port」を利用する顧客のメールアドレスなどが外部に漏洩した可能性があると発表した。メール配信を委託するユミルリンクへの不正アクセスが原因としている。漏洩件数は調査中として明らかにしていない。対象となった金融機関などの顧客には個別に知らせる... — はてなブックマーク テクノロジー / score: 85 (大手企業における深刻なセキュリティインシデントのため)</description>
+</item>
+<item>
 <title>[85] 本来推測不可能な秘密鍵にわずか1バイトの値を使っていたeMudhraがSSL/TLS証明書事業から撤退</title>
 <link>https://gigazine.net/news/20261023-emudhra-exit-ssl-tls/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261023-emudhra-exit-ssl-tls/</guid>
 <pubDate>Fri, 23 Oct 2026 03:25:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>インドのデジタルセキュリティ企業「eMudhra」が2026年10月22日に世界向けのSSL/TLS証明書事業から撤退すると発表しました。eMudhraでは8件の中間認証局の秘密鍵が簡単に推測できる状態だったことが発覚しており、GoogleやMozillaなどが問題のある証明書を無効化する措置を講じていました。 続きを読む... — GIGAZINE / score: 85 (秘密鍵の不備発覚によるSSL/TLS証明書事業撤退)</description>
-</item>
-<item>
-<title>[85] 中国政府と関係するサイバー攻撃者が世界中の数百の組織に対してAIエージェント「ARTEX」を用いて攻撃を実施していたことがMicrosoftの調査で判明</title>
-<link>https://gigazine.net/news/20261023-storm-0940-artex-cyber-attack/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261023-storm-0940-artex-cyber-attack/</guid>
-<pubDate>Fri, 23 Oct 2026 02:04:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>Microsoftが中国政府と関係しているとされるサイバー攻撃者「Storm-0940」に関する調査結果を公開しました。Storm-0940はAIエージェント「ARTEX」を悪用して数百の組織に対する攻撃を実施していたことが明らかになっています。 続きを読む... — GIGAZINE / score: 85 (サイバー攻撃者によるAIエージェント悪用の実態)</description>
 </item>
 <item>
 <title>[85] Ubuntu、PHPの重大な脆弱性「php2shell」の修正版を公開</title>
@@ -565,14 +581,6 @@
 <pubDate>Sat, 24 Oct 2026 00:12:02 +0000</pubDate>
 <category>Yahoo!ニュース IT</category>
 <description> — Yahoo!ニュース IT / score: 80 (ウェブサイトでのAPIキー露出問題に関する研究)</description>
-</item>
-<item>
-<title>[80] 【重要】第三者によるログインの恐れと今後の対応について</title>
-<link>https://blog.syosetu.com/article/view/article_id/5278/</link>
-<guid isPermaLink="true">https://blog.syosetu.com/article/view/article_id/5278/</guid>
-<pubDate>Fri, 23 Oct 2026 09:32:32 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>いつも小説家になろうグループをご利用いただき、誠にありがとうございます。 この度、小説家になろうグループの一部のアカウントに対し、登録ユーザ様ご本人ではない第三者によるログインが行われていた可能性があることを確認いたしました。 調査の結果、第三者が外部で不正に取得したログイン情報等を用い、ログイン... — はてなブックマーク テクノロジー / score: 80 (大規模サービスでの不正ログイン検知と注意喚起)</description>
 </item>
 <item>
 <title>[80] テスラ車が自動運転中に高速道路で男性をはねて死亡させる</title>
@@ -781,14 +789,6 @@
 <pubDate>Fri, 23 Oct 2026 08:53:17 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>タイムズカー情報漏えい、“お見舞金”3000円支払いへ 本人確認書類は全削除 — はてなブックマーク テクノロジー / score: 75 (大規模な個人情報漏えい事故と対応に関する話題)</description>
-</item>
-<item>
-<title>[75] 3メガバンク、免許証での本人確認を廃止　前倒しで不正対策 - 日本経済新聞</title>
-<link>https://www.nikkei.com/article/DGXZQOUB224DA0S6A021C2000000/</link>
-<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUB224DA0S6A021C2000000/</guid>
-<pubDate>Fri, 23 Oct 2026 07:25:39 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>3メガバンクは23日までに、運転免許証の顔写真による本人確認を廃止した。オンラインでの口座開設が対象で、マイナンバーカードなどのICチップを読み取る方式に切り替える。不正アクセスによる個人情報の流出が相次ぐ。2027年4月の法改正を待たず対策を前倒しする。三井住友銀行は23日、スマートフォンなどを使ったイン... — はてなブックマーク テクノロジー / score: 75 (メガバンクが免許証本人確認を廃止し前倒し対応)</description>
 </item>
 <item>
 <title>[75] 【速報】VS Code 1.142 に Canvas が来た！チャットの横でエージェントと同じ画面を触れる「Interactive Canvases」を整理してみた</title>
