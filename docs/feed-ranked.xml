@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sat, 24 Oct 2026 14:07:55 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 16:08:35 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] PHPの緊急脆弱性「php2shell」で攻撃されていないか？サーバーに残る3つの痕跡と確認方法 - インフラ学習サイト「InfraAcademy」</title>
@@ -117,14 +117,6 @@
 <pubDate>Mon, 12 Oct 2026 15:46:53 +0000</pubDate>
 <category>Publickey</category>
 <description>JavaScriptランタイム「Deno」の開発元であるDeno LandとCloudflareは、Deno LandがCloudflareに合流すると発表しました。CloudflareによるDeno Landの買収と見られます（Deno ... — Publickey / score: 95 (Deno開発終了とCloudflare合流の重大なニュース)</description>
-</item>
-<item>
-<title>[90] 1000万のWebサイトで「生きたAPIキー」が大量に“丸見え”状態？　大手銀行やインフラの鍵も　米スタンフォード大などが調査（ITmedia NEWS） - Yahoo!ニュース</title>
-<link>https://news.yahoo.co.jp/articles/5aecb0f168d08b9ac6c7ed414b24df995fb25eb7</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/articles/5aecb0f168d08b9ac6c7ed414b24df995fb25eb7</guid>
-<pubDate>Sat, 24 Oct 2026 02:11:54 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>1000万のWebサイトで「生きたAPIキー」が大量に“丸見え”状態？ 大手銀行やインフラの鍵も 米スタンフォード大などが調査（ITmedia NEWS） - Yahoo!ニュース — はてなブックマーク テクノロジー / score: 90 (多数のWebサイトにおけるAPIキー露出の重大な脆弱性)</description>
 </item>
 <item>
 <title>[90] 「Ruby」の正規表現エンジン「Onigmo」にリモートコード実行の問題、セキュリティ更新を実施／v4.0.9、v3.4.12、v3.3.13が公開。「GitLab」で発見される</title>
@@ -263,6 +255,14 @@
 <description>We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model. — Google AI Blog / score: 90 (Googleの新しい最先端AIモデルGemini 4 Argon)</description>
 </item>
 <item>
+<title>[85] OpenAI、訓練中の最先端AIをインターネットから遮断すると発表。モデルの不正アクセス受け | テクノエッジ TechnoEdge</title>
+<link>https://www.techno-edge.net/article/2026/10/24/5625.html</link>
+<guid isPermaLink="true">https://www.techno-edge.net/article/2026/10/24/5625.html</guid>
+<pubDate>Sat, 24 Oct 2026 05:40:25 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>OpenAIは、予測不可能性の高さを主な理由として、最先端AIモデルのトレーニングの際に実際のインターネットに接続可能な環境を使用しない方針を明らかにしました。 その代わりとして、キャッシュされたウェブコンテンツや、オフラインのウェブインフラストラクチャーを用意し、トレーニングに活用するとしています。 こ... — はてなブックマーク テクノロジー / score: 85 (AIモデルのセキュリティとインターネット遮断方針)</description>
+</item>
+<item>
 <title>[85] PHPセキュリティ事件、ハッカーたちの間で修正してないサーバーに侵入して勝手にセキュリティパッチを当てて何もせず立ち去る遊びが流行しているらしい→「これやるためだけにサイバーセキュリティ学びたかった まだ間に合うかな」</title>
 <link>https://posfie.com/@petaritape/p/aqgcPOA</link>
 <guid isPermaLink="true">https://posfie.com/@petaritape/p/aqgcPOA</guid>
@@ -285,22 +285,6 @@
 <pubDate>Sat, 24 Oct 2026 04:45:05 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>【読売新聞】 ＧＭＯインターネットのＦＸ（外国為替証拠金）取引などに使うクラウドサービスが不正アクセスを受けた問題で、同社は２４日、不正アクセスが原因の不正取引によって生じた損害を利用者に補償する方針を発表した。利用者全員に５０００ — はてなブックマーク テクノロジー / score: 85 (GMOの不正アクセスと能動的サイバー防御要請のニュース)</description>
-</item>
-<item>
-<title>[85] PHP並みの脆弱性「まだ出てくる」　米クラウドフレアCEOが予告 - 日本経済新聞</title>
-<link>https://www.nikkei.com/article/DGXZQOGN23C8Y0T21C26A0000000/</link>
-<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOGN23C8Y0T21C26A0000000/</guid>
-<pubDate>Sat, 24 Oct 2026 01:32:37 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>プログラム言語「PHP」の脆弱性で米オープンAIとともに事前対策にあたった米ネットインフラ大手クラウドフレアのマシュー・プリンス最高経営責任者（CEO）は23日、取材に応じ今後別のソフトで「同様の深刻な脆弱性が公表される」と予告した。クラウドフレア（Cloudflare） 世界中に分散配置したサーバー網を使い、ウェ... — はてなブックマーク テクノロジー / score: 85 (クラウドフレアCEOによる深刻な脆弱性の予告)</description>
-</item>
-<item>
-<title>[85] PHP脆弱性、利用サイトの半分が修正困難　バージョン古くサポート終了 - 日本経済新聞</title>
-<link>https://www.nikkei.com/article/DGXZQOUC236ST0T21C26A0000000/</link>
-<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUC236ST0T21C26A0000000/</guid>
-<pubDate>Fri, 23 Oct 2026 20:43:19 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>プログラム言語「PHP」に深刻な脆弱性が発覚した問題で、利用サイトの半数では運営団体の公表した修正作業が難しいことが分かった。長期間更新されていない「休眠サイト」も多数含まれるとみられ、閉鎖が急務となっている。デロイトトーマツサイバーがウェブ技術の調査サービス「W3Techs.com」の統計をもとに推計した。... — はてなブックマーク テクノロジー / score: 85 (PHP脆弱性と古いサイトの修正困難さに関する調査)</description>
 </item>
 <item>
 <title>[85] Amazon Corretto October 2026 Quarterly Updates</title>
@@ -471,12 +455,12 @@
 <description>Here am I floating 'round my tin can Far above the moon Planet Earth is blue And there's nothing I can do Five years in orbit. Mission complete. ;) — CPython リリース / score: 85 (Python 3.10のサポート終了情報)</description>
 </item>
 <item>
-<title>[80] Opus 5.5肉薄のコーディング性能、3Dも作る3兆級LLM「Kimi K3.1 Pro」。11月4日までにオープンウェイト化</title>
-<link>https://pc.watch.impress.co.jp/docs/news/2150898.html</link>
-<guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2150898.html</guid>
-<pubDate>Sat, 24 Oct 2026 00:26:04 +0000</pubDate>
+<title>[80] GMO、不正取引の被害額を補償へ　見舞金5000円も　「お名前.com」FX用VPSへのサイバー攻撃で</title>
+<link>https://www.itmedia.co.jp/news/article/2610/24/2000002566/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/24/2000002566/</guid>
+<pubDate>Sat, 24 Oct 2026 08:33:10 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>Opus 5.5肉薄のコーディング性能、3Dも作る3兆級LLM「Kimi K3.1 Pro」。11月4日までにオープンウェイト化 — はてなブックマーク テクノロジー / score: 80 (高性能な大型LLMのオープンウェイト化の話題)</description>
+<description>GMOインターネットグループは10月24日、FX自動売買用VPS「お名前.com デスクトップクラウド」がサイバー攻撃を受け、利用者の取引口座が不正操作された問題をめぐり、サービス利用中の全ユーザーに「お見舞金」として5000円を支払う他、不正取引で発生した損失を補償することを発表した。また、システムに「セキュリティ... — はてなブックマーク テクノロジー / score: 80 (サイバー攻撃被害に対する補償とセキュリティ対応)</description>
 </item>
 <item>
 <title>[80] サイトでAPIキー丸見え状態 研究</title>
@@ -493,14 +477,6 @@
 <pubDate>Thu, 22 Oct 2026 10:59:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Anthropicは2026年10月21日、パーソナルAIアシスタントClaude Duetのリサーチプレビューを発表した。利用者の対応が必要なことを自ら知らせるエージェントとして動作する。 — gihyo.jp / score: 80 (Anthropicの新しいAIエージェント発表)</description>
-</item>
-<item>
-<title>[80] PHPの重大脆弱性、iPhoneやAppleサービスへの影響は？</title>
-<link>https://iphone-mania.jp/apple-607712/</link>
-<guid isPermaLink="true">https://iphone-mania.jp/apple-607712/</guid>
-<pubDate>Thu, 22 Oct 2026 09:37:40 +0000</pubDate>
-<category>iPhone Mania</category>
-<description>世界中のWebサイトの約7割で使われているプログラミング言語「PHP」において、外部からサーバーを不正に操作される恐れのある重大な脆弱性が見つかりました。 10月20日にPHPのセキュリティチームが事前告知し、翌21日に […] — iPhone Mania / score: 80 (PHP脆弱性のApple関連サービスへの影響考察)</description>
 </item>
 <item>
 <title>[80] Amazon Linux 2023 の PHP を CVE-2026-109618 修正版へ先行ビルドする</title>
@@ -631,6 +607,14 @@
 <description>Structured Concurrency is the next major feature from Project Loom. In this session, we will explain the motivation and design of structured concurrency, show how to use it effectively, and discuss the lessons learned as the feature evolved. We'll also look beneath the surface at the new lower-level API behind the latest design, offering an early glimpse of work that is expected to form the basis of a future lower-level structured concurrency API. — Inside Java / score: 80 (Project Loomの構造化コンカレンシー解説)</description>
 </item>
 <item>
+<title>[75] 「お名前.com デスクトップクラウド」ご利用のお客様へ改めてのお願い（第5報） | GMOインターネットグループ株式会社</title>
+<link>https://group.gmo/info/alert/2026102402/</link>
+<guid isPermaLink="true">https://group.gmo/info/alert/2026102402/</guid>
+<pubDate>Sat, 24 Oct 2026 09:39:37 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>GMOインターネットグループ株式会社 GMOインターネット株式会社 2026年10月21日から本日にかけてお知らせいたしました「お名前.com デスクトップクラウド」への第三者による不正アクセスについて、その後の調査状況およびお客様へのお願いを、改めてお知らせいたします。 お客様には、多大なるご迷惑とご心配をおかけし... — はてなブックマーク テクノロジー / score: 75 (クラウドサービスの重大な不正アクセス事案)</description>
+</item>
+<item>
 <title>[75] [AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed</title>
 <link>https://latent.space/p/ainews-kimi-31/</link>
 <guid isPermaLink="true">https://latent.space/p/ainews-kimi-31/</guid>
@@ -647,6 +631,14 @@
 <description>「Ruby」の正規表現エンジン「Onigmo」にリモートコード実行の問題、セキュリティ更新を実施 - 窓の杜 のように Ruby 本体としては、そこに任意のユーザー入力を渡しているのはプログラム側の問題で Ruby 本体の脆弱性としては扱わない、 という方針になっているメソッドがあるので、思い付く限り列挙してみます。 eval ... — はてなブックマーク テクノロジー / score: 75 (Rubyでのセキュリティ対策と脆弱性の解説)</description>
 </item>
 <item>
+<title>[75] 【速報】VS Code 1.142 に Canvas が来た！チャットの横でエージェントと同じ画面を触れる「Interactive Canvases」を整理してみた - Qiita</title>
+<link>https://qiita.com/shahin0809/items/81e6a6737b2254bdc6ed</link>
+<guid isPermaLink="true">https://qiita.com/shahin0809/items/81e6a6737b2254bdc6ed</guid>
+<pubDate>Sat, 24 Oct 2026 03:26:40 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>2026年10月14日にリリースされた VS Code 1.142 の目玉が、Canvases（Preview） です。 公式のリリースノートでは、こう紹介されています。 Canvases are interactive interfaces to collaborate with an agent. A canvas opens beside the chat, where you and the agent can inspect and update the same artifact ins... — はてなブックマーク テクノロジー / score: 75 (VS Codeの新機能Interactive Canvasesの速報解説)</description>
+</item>
+<item>
 <title>[75] 【重要】お名前.com デスクトップクラウドサービスに対するサイバー攻撃について（第4報） | GMOインターネットグループ株式会社</title>
 <link>https://group.gmo/info/alert/20261024/</link>
 <guid isPermaLink="true">https://group.gmo/info/alert/20261024/</guid>
@@ -661,14 +653,6 @@
 <pubDate>Fri, 23 Oct 2026 23:37:53 +0000</pubDate>
 <category>Yahoo!ニュース IT</category>
 <description> — Yahoo!ニュース IT / score: 75 (PHP脆弱性が災害情報メールに及ぼした影響)</description>
-</item>
-<item>
-<title>[75] 本番コードのAI生成率99％　ソニー銀行は「勘定系開発にClaude Code適用」をどう実現？</title>
-<link>https://atmarkit.itmedia.co.jp/ait/articles/2610/22/news022.html</link>
-<guid isPermaLink="true">https://atmarkit.itmedia.co.jp/ait/articles/2610/22/news022.html</guid>
-<pubDate>Fri, 23 Oct 2026 12:21:32 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>日本の金融業界は、システム開発の構造的な課題に直面している。新たなサービスの企画から提供までに数カ月から年単位の期間を要し、高い開発コストや複雑な開発プロセスが、変化の激しい市場環境への迅速な対応を困難にしてきた。一方で、生成AIをはじめとする技術の進化が進み、変化に即応できる開発体制を構築できる... — はてなブックマーク テクノロジー / score: 75 (金融機関の本番システム開発における生成AI活用の事例)</description>
 </item>
 <item>
 <title>[75] AIにNintendo Switch 2を操作させて脱獄に成功、Codexが脆弱性を発見してゲームの改造まで実現</title>
@@ -693,14 +677,6 @@
 <pubDate>Fri, 23 Oct 2026 09:55:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>AI開発企業のLiquid AIが低遅延性を重視した推論エンジン「Liquid RIPL」を発表しました。 続きを読む... — GIGAZINE / score: 75 (低遅延実行のための新しいAI推論エンジンの登場)</description>
-</item>
-<item>
-<title>[75] 【速報】VS Code 1.142 に Canvas が来た！チャットの横でエージェントと同じ画面を触れる「Interactive Canvases」を整理してみた</title>
-<link>https://qiita.com/shahin0809/items/81e6a6737b2254bdc6ed?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/shahin0809/items/81e6a6737b2254bdc6ed?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Fri, 23 Oct 2026 06:50:22 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>はじめに 常に VS Code / GitHub Copilot の動向を追っている、Microsoft Student Ambassador 兼 GitHub Copilot User Group Japan（Gh-CUG）運営のロホマン シャヒンです！ この記事が... — Qiita 人気記事 / score: 75 (VS Codeの新機能Interactive Canvasesの速報解説)</description>
 </item>
 <item>
 <title>[75] 「バグのないソフトウェア」の実現を目指してAnthropicが「AIを用いて数学的にバグがないことを証明する」という手法を開発</title>
@@ -805,6 +781,30 @@
 <pubDate>Tue, 20 Oct 2026 23:26:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>AWS announces Amazon Elastic Container Service (Amazon ECS) Gateway, a new resource that simplifies ingress networking for containerized applications by dynamically provisioning and managing Application Load Balancers (ALBs) and their supporting resources directly in your account. With ECS Gateway, platform teams define organizational networking standards once on a gateway and associate it with one or more clusters, giving organizations a centralized way to govern how traffic reaches their ECS s — AWS What's New / score: 75 (AWS ECSの新しいイングレス管理機能)</description>
+</item>
+<item>
+<title>[75] Introducing Amazon ECS Gateway: A fully-managed ingress solution for ECS services</title>
+<link>https://aws.amazon.com/blogs/aws/introducing-amazon-ecs-gateway-a-fully-managed-ingress-solution-for-ecs-services/</link>
+<guid isPermaLink="true">https://aws.amazon.com/blogs/aws/introducing-amazon-ecs-gateway-a-fully-managed-ingress-solution-for-ecs-services/</guid>
+<pubDate>Tue, 20 Oct 2026 17:03:38 +0000</pubDate>
+<category>AWS News Blog</category>
+<description>Try Amazon ECS Gateway, a new account-level resource that simplifies ingress networking for containerized workloads by dynamically provisioning and managing the necessary infrastructure on your behalf, with all resources created directly in your account. — AWS News Blog / score: 75 (ECS向けフルマネージドなイングレスソリューションの新機能)</description>
+</item>
+<item>
+<title>[75] Claude Opus 5.5 and Claude Sonnet 5.5 are now available in Google Antigravity</title>
+<link>https://cloud.google.com/blog/products/ai-machine-learning/claude-opus-55-and-claude-sonnet-55-available-in-antigravity/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/ai-machine-learning/claude-opus-55-and-claude-sonnet-55-available-in-antigravity/</guid>
+<pubDate>Tue, 20 Oct 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Whether you are iterating on a quick bug fix or planning a complex migration, different tasks call for different models. In keeping with Google Cloud's commitment to an open ecosystem and to give developers the right model for every job, Claude Opus 5.5 and Claude Sonnet 5.5 are now available in Google Antigravity for Google Cloud customers. Claude Opus 5.5 is built for complex work while Claude Sonnet 5.5 is a faster, lower-cost complement. Once enabled by an administrator, developers can selec — Google Cloud Blog / score: 75 (GoogleプラットフォームでのClaude新モデル提供)</description>
+</item>
+<item>
+<title>[75] 「Cloudflare OS」のマネージドサービス提供へ。GitHubとの接続やGmailとの連携強化など</title>
+<link>https://www.publickey1.jp/blog/26/cloudflare_osgithubgmail.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/cloudflare_osgithubgmail.html</guid>
+<pubDate>Tue, 20 Oct 2026 15:10:05 +0000</pubDate>
+<category>Publickey</category>
+<description>Cloudflareは、AIを活用した業務のためのプラットフォームとなる「Cloudflare OS」のマネージドサービスを発表しました。現在ウェイティングリストへの登録を募集しています。 AIを活用した業務アプリのプラットフォーム Clo... — Publickey / score: 75 (Cloudflareの新プラットフォーム発表で重要)</description>
 </item>
 </channel>
 </rss>
