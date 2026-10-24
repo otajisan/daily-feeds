@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sat, 24 Oct 2026 04:09:59 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 06:14:08 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] PHPの重大な欠陥、実は2年前から兆候があった。なんで直せなかったの？</title>
@@ -23,20 +23,12 @@
 <description>こんにちは、インフラエンジニアのryuです。 前回の記事「PHPの緊急脆弱性「php2shell」とは？」では、2026年10月21日に公開されたPHPの脆弱性の仕組みと、アップデートの進め方を解説しました。 今回はその続きです。 アップデートを終えたあとに、多くの人が気になるのが「すでに攻撃されていないか？」という点だと思... — はてなブックマーク テクノロジー / score: 95 (PHPの緊急脆弱性に対する侵入確認と対策手法)</description>
 </item>
 <item>
-<title>[95] PHP脆弱性「サイト停止500件超」　ソフトバンクは緊急速報配信停止 - 日本経済新聞</title>
-<link>https://www.nikkei.com/article/DGXZQOUC2315K0T21C26A0000000/</link>
-<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUC2315K0T21C26A0000000/</guid>
-<pubDate>Fri, 23 Oct 2026 11:19:05 +0000</pubDate>
+<title>[95] PHP2Shell緊急対策：日本国内向けサイトで海外IPを全部弾く、即効性のあるIPフィルタ防御 - Qiita</title>
+<link>https://qiita.com/Hiro884/items/27a98c86ef17b70df7ed</link>
+<guid isPermaLink="true">https://qiita.com/Hiro884/items/27a98c86ef17b70df7ed</guid>
+<pubDate>Fri, 23 Oct 2026 08:18:01 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>世界のウェブサイトで幅広く使用されるプログラム言語「PHP」に深刻な脆弱性が見つかり、企業や政府機関でシステムなどの一時停止が相次いだ。民間の調査によると、国内の企業などのサービス停止は累計で500件を超えたとしている。クラウドサービスのセキュリティー評価サービスを手掛けるアシュアード（東京・渋谷）の... — はてなブックマーク テクノロジー / score: 95 (PHPの深刻な脆弱性と甚大な実害のため)</description>
-</item>
-<item>
-<title>[95] PHP2Shell緊急対策：日本国内向けサイトで海外IPを全部弾く、即効性のあるIPフィルタ防御</title>
-<link>https://qiita.com/Hiro884/items/27a98c86ef17b70df7ed?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/Hiro884/items/27a98c86ef17b70df7ed?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Fri, 23 Oct 2026 07:44:20 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>はじめに 2026年10月21日、PHPの重大な脆弱性 PHP2Shell（CVE-2026-109618 / CVE-2026-109619）が公開されました。CVSSv4.0スコアは9.2。PHP 5.4以降のほぼすべてのバージョンに影響し、認証不要でリモートコード実... — Qiita 人気記事 / score: 95 (重大なPHP脆弱性に対する緊急の対策情報)</description>
+<description>はじめに 2026年10月21日、PHPの重大な脆弱性 PHP2Shell（CVE-2026-109618 / CVE-2026-109619）が公開されました。CVSSv4.0スコアは9.2。PHP 5.4以降のほぼすべてのバージョンに影響し、認証不要でリモートコード実行が可能です。 パッチ適用が根本対策ですが、レンタルサーバやVPSの環境によっては、PHPのバージョンア... — はてなブックマーク テクノロジー / score: 95 (重大なPHP脆弱性に対する緊急の対策情報)</description>
 </item>
 <item>
 <title>[95] 「PHP2Shell」脆弱性公表後に悪用試行が数百万件単位に増加したとCloudflareが報告、顧客向けには新ファイアウォールを開発して有効化</title>
@@ -52,15 +44,7 @@
 <guid isPermaLink="true">https://devin.ai/blog/vulnerability-fixes-plugin</guid>
 <pubDate>Fri, 23 Oct 2026 03:28:59 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>Cognition|October 22, 2026|11 min read|Copy link On October 21, 2026 the PHP and Node.js projects released security updates addressing vulnerabilities that can allow remote code execution. Teams running either runtime should identify affected services and apply the appropriate patches immediately... — はてなブックマーク テクノロジー / score: 95 (Node.jsとPHPの緊急セキュリティ脆弱性修正のため)</description>
-</item>
-<item>
-<title>[95] PHP脆弱性悪用の試み増 数百万件</title>
-<link>https://news.yahoo.co.jp/pickup/6599702?source=rss</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6599702?source=rss</guid>
-<pubDate>Thu, 22 Oct 2026 07:54:45 +0000</pubDate>
-<category>Yahoo!ニュース IT</category>
-<description> — Yahoo!ニュース IT / score: 95 (PHP脆弱性の悪用試み急増)</description>
+<description>On October 21, 2026 the PHP and Node.js projects released security updates addressing vulnerabilities that can allow remote code execution. Teams running either runtime should identify affected services and apply the appropriate patches immediately. Applying those takes more than changing a versi... — はてなブックマーク テクノロジー / score: 95 (Node.jsとPHPの緊急セキュリティ脆弱性修正のため)</description>
 </item>
 <item>
 <title>[95] [AINews] OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months</title>
@@ -151,20 +135,20 @@
 <description>JavaScriptランタイム「Deno」の開発元であるDeno LandとCloudflareは、Deno LandがCloudflareに合流すると発表しました。CloudflareによるDeno Landの買収と見られます（Deno ... — Publickey / score: 95 (Deno開発終了とCloudflare合流の重大なニュース)</description>
 </item>
 <item>
+<title>[90] Brotli vulnerability (CVE-2026-111497) — Patch the Planet</title>
+<link>https://patchtheplanet.org/brotli</link>
+<guid isPermaLink="true">https://patchtheplanet.org/brotli</guid>
+<pubDate>Sat, 24 Oct 2026 00:40:42 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Brotli decoder vulnerability: affected software, fixed releases, and how to disable Brotli decoding while you patch. — はてなブックマーク テクノロジー / score: 90 (Brotliデコーダの深刻な脆弱性と対応策)</description>
+</item>
+<item>
 <title>[90] PHP脆弱性への攻撃「1分で100万回」　米クラウドフレアCEO - 日本経済新聞</title>
 <link>https://www.nikkei.com/article/DGXZQOGN23C4G0T21C26A0000000/</link>
 <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOGN23C4G0T21C26A0000000/</guid>
 <pubDate>Fri, 23 Oct 2026 23:21:57 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>【ニューヨーク=西邨紘子、シリコンバレー=伴正春】重大な脆弱性が見つかったプログラム言語「PHP」を突いた攻撃が拡大している。米ネットインフラ大手クラウドフレアのトップは「1分100万回のペースで攻撃を観測している」と明らかにした。「クラスター爆弾で攻撃しているよう」クラウドフレアのマシュー・プリンス最高... — はてなブックマーク テクノロジー / score: 90 (重大なPHP脆弱性を突いた大規模攻撃の発生)</description>
-</item>
-<item>
-<title>[90] PHP2Shellへの対応を振り返って - コドモン Product Team Blog</title>
-<link>https://tech.codmon.com/entry/2026/10/23/173909</link>
-<guid isPermaLink="true">https://tech.codmon.com/entry/2026/10/23/173909</guid>
-<pubDate>Fri, 23 Oct 2026 09:00:03 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>はじめに コドモンでプロダクト開発部長を務めております、松浦です。 2026年10月21日、PHPの脆弱性（通称「PHP2Shell」）への対策として、コドモンのサービスを日中に一時停止しました。 施設の先生方、保護者の皆さま、自治体や販売代理店の皆さまには、十分な事前のご案内ができないまま、長い時間にわたりご不便をお... — はてなブックマーク テクノロジー / score: 90 (PHPの深刻な脆弱性とサービス停止を伴う対応の記録)</description>
 </item>
 <item>
 <title>[90] 「Ruby」の正規表現エンジン「Onigmo」にリモートコード実行の問題、セキュリティ更新を実施／v4.0.9、v3.4.12、v3.3.13が公開。「GitLab」で発見される</title>
@@ -303,6 +287,38 @@
 <description>We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model. — Google AI Blog / score: 90 (Googleの新しい最先端AIモデルGemini 4 Argon)</description>
 </item>
 <item>
+<title>[88] 「Claude Mythos 5」、危害の兆候を顧みず実在の開発者を標的に──AnthropicとAISIが分析結果を公開</title>
+<link>https://www.itmedia.co.jp/news/article/2610/24/2000002564/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/24/2000002564/</guid>
+<pubDate>Fri, 23 Oct 2026 22:37:24 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>米Anthropicと英政府のAI安全保障研究所（AISI）は10月23日（現地時間）、AISIによるサイバー能力評価中に「Claude Mythos 5」が実在の開発者を標的にしたインシデントについて、アライメントの観点から分析した報告をそれぞれ公開した。両者は分析で協力して公開時期をそろえたが、報告は別々にまとめている。 この件は... — はてなブックマーク テクノロジー / score: 88 (AIモデルが開発者を標的にした重大なアライメント問題)</description>
+</item>
+<item>
+<title>[85] GMO、「能動的サイバー防御」適用を政府に要請　不正アクセス問題 - 日本経済新聞</title>
+<link>https://www.nikkei.com/article/DGXZQOUC240YU0U6A021C2000000/</link>
+<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUC240YU0U6A021C2000000/</guid>
+<pubDate>Sat, 24 Oct 2026 05:18:19 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>GMOインターネットグループは24日、外国為替証拠金取引（FX）取引サービスへの不正アクセスを受け、政府に対しサイバー攻撃に先手を打って被害を防ぐ「能動的サイバー防御」への適用を緊急要請したと発表した。同社によると発動すれば第1号になる見通しという。GMOは不正アクセスの攻撃者とみられる人物から受けている金... — はてなブックマーク テクノロジー / score: 85 (GMOによる能動的サイバー防御の適用緊急要請)</description>
+</item>
+<item>
+<title>[85] 不正アクセス受けたＧＭＯ、政府に「能動的サイバー防御」の適用を緊急要請</title>
+<link>https://www.yomiuri.co.jp/economy/20261024-GYT1T00180/</link>
+<guid isPermaLink="true">https://www.yomiuri.co.jp/economy/20261024-GYT1T00180/</guid>
+<pubDate>Sat, 24 Oct 2026 04:45:05 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>【読売新聞】 ＧＭＯインターネットのＦＸ（外国為替証拠金）取引などに使うクラウドサービスが不正アクセスを受けた問題で、同社は２４日、不正アクセスが原因の不正取引によって生じた損害を利用者に補償する方針を発表した。利用者全員に５０００ — はてなブックマーク テクノロジー / score: 85 (GMOの不正アクセスと能動的サイバー防御要請のニュース)</description>
+</item>
+<item>
+<title>[85] PHP並みの脆弱性「まだ出てくる」　米クラウドフレアCEOが予告 - 日本経済新聞</title>
+<link>https://www.nikkei.com/article/DGXZQOGN23C8Y0T21C26A0000000/</link>
+<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOGN23C8Y0T21C26A0000000/</guid>
+<pubDate>Sat, 24 Oct 2026 01:32:37 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>プログラム言語「PHP」の脆弱性で米オープンAIとともに事前対策にあたった米ネットインフラ大手クラウドフレアのマシュー・プリンス最高経営責任者（CEO）は23日、取材に応じ今後別のソフトで「同様の深刻な脆弱性が公表される」と予告した。クラウドフレア（Cloudflare） 世界中に分散配置したサーバー網を使い、ウェ... — はてなブックマーク テクノロジー / score: 85 (クラウドフレアCEOによる深刻な脆弱性の予告)</description>
+</item>
+<item>
 <title>[85] PHP脆弱性、利用サイトの半分が修正困難　バージョン古くサポート終了 - 日本経済新聞</title>
 <link>https://www.nikkei.com/article/DGXZQOUC236ST0T21C26A0000000/</link>
 <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUC236ST0T21C26A0000000/</guid>
@@ -327,14 +343,6 @@
 <description>対象の情報は、日本国内のパナソニックグループの従業員約7万5000人、元従業員約17万8000人と、その家族計約8万1000人。従業員と元従業員については社員番号、住所、電話番号、メールアドレスが含まれ、氏名は含まれていない。一方、家族については、緊急連絡先として登録された氏名、住所、電話番号、メールアドレスが... — はてなブックマーク テクノロジー / score: 85 (大規模な個人情報の生成AIへの誤アップロード事案のため)</description>
 </item>
 <item>
-<title>[85] モスバーガー 流通済みプリペイドカード情報 約57万件が流出 | NHKニュース</title>
-<link>https://news.web.nhk/newsweb/na/nd-20261023de64388</link>
-<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261023de64388</guid>
-<pubDate>Fri, 23 Oct 2026 11:48:55 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>モスバーガーを展開するモスフードサービスによりますと、不正アクセスによって店やネットでの支払いに使用できるプリペイドカードの情報が外部に流出したことから、カードの所有者に対し、身に覚えのない利用がない… — はてなブックマーク テクノロジー / score: 85 (大規模なプリペイドカード情報流出事故)</description>
-</item>
-<item>
 <title>[85] Ruby 4.0.9、3.4.12、3.3.13公開、正規表現エンジンの不具合を修正 ——GitLabの任意コード実行の脆弱性に関連</title>
 <link>https://gihyo.jp/article/2026/10/ruby-regexp-fixes-gitlab-cves?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/10/ruby-regexp-fixes-gitlab-cves?utm_source=feed</guid>
@@ -357,14 +365,6 @@
 <pubDate>Fri, 23 Oct 2026 10:56:07 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>パナソニックホールディングス（HD）は23日、社内で利用が禁止されている外部の生成AI（人工知能）サービスに同社グループの従業員やその家族らの個人情報約33万人分が送出されたと発表した。不正アクセスではなく、特定の従業員が社内ルールに反し情報を生成AIにアップロードしたことによるものだという。子会社と人事... — はてなブックマーク テクノロジー / score: 85 (生成AIへの大規模な個人情報流出事故で注意喚起)</description>
-</item>
-<item>
-<title>[85] 【重要】「お名前.com デスクトップクラウド」への不正アクセスに関するお詫びとお知らせ（第3報） | GMOインターネットグループ株式会社</title>
-<link>https://group.gmo/info/alert/20261023/</link>
-<guid isPermaLink="true">https://group.gmo/info/alert/20261023/</guid>
-<pubDate>Fri, 23 Oct 2026 08:53:50 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>2026年10月23日 お知らせ【重要】「お名前.com デスクトップクラウド」への不正アクセスに関するお詫びとお知らせ（第3報） GMOインターネットグループ株式会社 GMOインターネット株式会社 2026年10月23日 16：10時点 2026年10月21日および22日にお知らせいたしました「お名前.com デスクトップクラウド」への第三者によ... — はてなブックマーク テクノロジー / score: 85 (著名サービスにおける重大な不正アクセス事案)</description>
 </item>
 <item>
 <title>[85] 野村証券、法人向けサービス「i-Port」で情報漏洩か　「委託先に不正アクセス」 - 日本経済新聞</title>
@@ -559,6 +559,14 @@
 <description>Here am I floating 'round my tin can Far above the moon Planet Earth is blue And there's nothing I can do Five years in orbit. Mission complete. ;) — CPython リリース / score: 85 (Python 3.10のサポート終了情報)</description>
 </item>
 <item>
+<title>[80] Opus 5.5肉薄のコーディング性能、3Dも作る3兆級LLM「Kimi K3.1 Pro」。11月4日までにオープンウェイト化</title>
+<link>https://pc.watch.impress.co.jp/docs/news/2150898.html</link>
+<guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2150898.html</guid>
+<pubDate>Sat, 24 Oct 2026 00:26:04 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Opus 5.5肉薄のコーディング性能、3Dも作る3兆級LLM「Kimi K3.1 Pro」。11月4日までにオープンウェイト化 — はてなブックマーク テクノロジー / score: 80 (高性能な大型LLMのオープンウェイト化の話題)</description>
+</item>
+<item>
 <title>[80] サイトでAPIキー丸見え状態 研究</title>
 <link>https://news.yahoo.co.jp/pickup/6599895?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6599895?source=rss</guid>
@@ -746,9 +754,17 @@
 <title>[75] AIにNintendo Switch 2を操作させて脱獄に成功、Codexが脆弱性を発見してゲームの改造まで実現</title>
 <link>https://gigazine.net/news/20261023-nintendo-switch-2-jailbreak/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261023-nintendo-switch-2-jailbreak/</guid>
-<pubDate>Fri, 23 Oct 2026 11:06:18 +0000</pubDate>
+<pubDate>Fri, 23 Oct 2026 11:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>Nintendo Switch 2のセキュリティを突破し、非公式プログラムを実行できるようにする手法「ns2jb」が公開されました。開発にはOpenAIのコーディングAI「OpenAI Codex」が活用され、AIが実際のゲーム機を遠隔操作しながら脆弱(ぜいじゃく)性を調査するという手法が採用されています。 続きを読む... — GIGAZINE / score: 75 (AIを活用した次世代ゲーム機のセキュリティ脆弱性調査)</description>
+</item>
+<item>
+<title>[75] タイムズカー、3000円の見舞金支払いへ　免許証画像漏えいの146万件対象　55億円の特損計上</title>
+<link>https://www.itmedia.co.jp/news/article/2610/23/2000002558/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/23/2000002558/</guid>
+<pubDate>Fri, 23 Oct 2026 10:29:19 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>Nintendo Switch 2のセキュリティを突破し、非公式プログラムを実行できるようにする手法「ns2jb」が公開されました。開発にはOpenAIのコーディングAI「OpenAI Codex」が活用され、AIが実際のゲーム機を遠隔操作しながら脆弱(ぜいじゃく)性を調査するという手法が採用されています。 pepsipu.com/blog/2026-10-switch2-j... — はてなブックマーク テクノロジー / score: 75 (AIを活用した次世代ゲーム機のセキュリティ脆弱性調査)</description>
+<description>パーク24は10月23日、グループ会社のタイムズモビリティ（東京都品川区）が運営するカーシェアリングサービス「タイムズカー」で9月に発覚した個人情報漏えいを巡り、一部利用者に3000円相当の見舞金を渡すと発表した。 対象は、運転免許証など本人確認書類の画像データへの不正アクセスと外部送信の痕跡が確認された利... — はてなブックマーク テクノロジー / score: 75 (大規模な個人情報漏えいと損害補償の重大なトラブル)</description>
 </item>
 <item>
 <title>[75] Securing our frontier model training environment</title>
@@ -767,14 +783,6 @@
 <description>AI開発企業のLiquid AIが低遅延性を重視した推論エンジン「Liquid RIPL」を発表しました。 続きを読む... — GIGAZINE / score: 75 (低遅延実行のための新しいAI推論エンジンの登場)</description>
 </item>
 <item>
-<title>[75] タイムズカー情報漏えい、“お見舞金”3000円支払いへ　本人確認書類は全削除</title>
-<link>https://k-tai.watch.impress.co.jp/docs/news/2150820.html</link>
-<guid isPermaLink="true">https://k-tai.watch.impress.co.jp/docs/news/2150820.html</guid>
-<pubDate>Fri, 23 Oct 2026 08:53:17 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>タイムズカー情報漏えい、“お見舞金”3000円支払いへ 本人確認書類は全削除 — はてなブックマーク テクノロジー / score: 75 (大規模な個人情報漏えい事故と対応に関する話題)</description>
-</item>
-<item>
 <title>[75] 【速報】VS Code 1.142 に Canvas が来た！チャットの横でエージェントと同じ画面を触れる「Interactive Canvases」を整理してみた</title>
 <link>https://qiita.com/shahin0809/items/81e6a6737b2254bdc6ed?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
 <guid isPermaLink="true">https://qiita.com/shahin0809/items/81e6a6737b2254bdc6ed?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
@@ -786,9 +794,9 @@
 <title>[75] 「バグのないソフトウェア」の実現を目指してAnthropicが「AIを用いて数学的にバグがないことを証明する」という手法を開発</title>
 <link>https://gigazine.net/news/20261023-anthropic-formal-verification/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261023-anthropic-formal-verification/</guid>
-<pubDate>Fri, 23 Oct 2026 03:58:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>AIの高性能化によって、さまざまなソフトウェアのバグが大量に発見されており、PHPの緊急アップデートのように大きな影響を及ぼす事例も現れています。そんな中、AI企業のAnthropicが「ソフトウェアにバグがないことを形式的検証で証明する」という手法に取り組んでいることを明らかにしました。 続きを読む... — GIGAZINE / score: 75 (AIによる形式的検証でバグゼロを目指す取り組み)</description>
+<pubDate>Fri, 23 Oct 2026 04:01:16 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>AIの高性能化によって、さまざまなソフトウェアのバグが大量に発見されており、PHPの緊急アップデートのように大きな影響を及ぼす事例も現れています。そんな中、AI企業のAnthropicが「ソフトウェアにバグがないことを形式的検証で証明する」という手法に取り組んでいることを明らかにしました。 LLMs are making formal... — はてなブックマーク テクノロジー / score: 75 (AIによる形式的検証でバグゼロを目指す取り組み)</description>
 </item>
 <item>
 <title>[75] 「1Password for Agents」が発表、AIエージェントにパスワードを見せずにサインインさせられる／個人・ファミリー向けは追加料金なし、「Claude Duet」「ChatGPT Work」などと連携</title>
@@ -797,14 +805,6 @@
 <pubDate>Fri, 23 Oct 2026 00:10:35 +0000</pubDate>
 <category>窓の杜</category>
 <description>加AgileBitsは10月22日（現地時間）、「1Password for Agents」プラットフォームを発表した。AIエージェントがWebサービスへのログインを必要としたときに、ユーザーの認証情報を直接AIに渡さず、安全にログイン処理を実行できる仕組みだ。 — 窓の杜 / score: 75 (AIエージェント向けパスワード管理プラットフォームの発表)</description>
-</item>
-<item>
-<title>[75] OpenAI、PHPの脆弱性発見の経緯を公表</title>
-<link>https://codezine.jp/article/detail/30107</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/30107</guid>
-<pubDate>Thu, 22 Oct 2026 23:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 75 (OpenAIによるPHP脆弱性発見の経緯公表)</description>
 </item>
 </channel>
 </rss>
