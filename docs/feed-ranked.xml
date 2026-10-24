@@ -4,8 +4,16 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sat, 24 Oct 2026 20:08:11 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 22:07:57 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>[95] 「HTTP2Shell」CVE-2026-111497、Node.js・Python・Bun・Envoyに影響 Brotliの重大脆弱性と修正版を確認|セキュリティニュースのセキュリティ対策Lab</title>
+<link>https://rocket-boys.co.jp/security-measures-lab/brotli_cve-2026-111497_http2shell_20261024/</link>
+<guid isPermaLink="true">https://rocket-boys.co.jp/security-measures-lab/brotli_cve-2026-111497_http2shell_20261024/</guid>
+<pubDate>Sat, 24 Oct 2026 12:12:42 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>「HTTP2Shell」CVE-2026-111497、Node.js・Python・Bun・Envoyに影響 Brotliの重大脆弱性と修正版を確認 2026年10月21日、Node.js開発チームは、Brotliの展開処理に起因するメモリ破壊の脆弱性「CVE-2026-111497」を修正したセキュリティアップデートを公開しました。問題はNode.js固有のコードではなく、広く利用され... — はてなブックマーク テクノロジー / score: 95 (主要なランタイム等に影響する重大な脆弱性)</description>
+</item>
 <item>
 <title>[95] PHP2Shell緊急対策：日本国内向けサイトで海外IPを全部弾く、即効性のあるIPフィルタ防御</title>
 <link>https://qiita.com/Hiro884/items/27a98c86ef17b70df7ed?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
@@ -37,14 +45,6 @@
 <pubDate>Thu, 22 Oct 2026 04:46:40 +0000</pubDate>
 <category>Qiita 人気記事</category>
 <description>はじめに 2026年10月21日、Node.jsプロジェクトが脆弱性10件を修正するセキュリティリリースを公開しました。同じ日にPHPの重大な脆弱性も話題になったため、見逃した方もいるかもしれません。 この記事では、次の内容を初心者向けに整理します。 何が修正されたのか... — Qiita 人気記事 / score: 95 (Node.jsの重大脆弱性対応であり対応が急務)</description>
-</item>
-<item>
-<title>[95] 「PHPなんて使ってるやつが悪い」と言っている輩が一番危ない</title>
-<link>https://qiita.com/kotowazaman/items/aab621d31a8501617eb4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/kotowazaman/items/aab621d31a8501617eb4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Thu, 22 Oct 2026 03:50:13 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>PHPの緊急脆弱性（通称PHP2Shell、CVE-2026-109618 / CVE-2026-109619）について、仕組みと対応チェックリストをまとめた記事を書きました。 対応方法のまとめが主な内容だったのですが、その後も続いている反応の中で、気になる声がいくつも目に... — Qiita 人気記事 / score: 95 (PHPの緊急脆弱性解説と対応策)</description>
 </item>
 <item>
 <title>[95] 「PHP」の“致命的”な脆弱性2件が修正、ただちにアップデートを／認証なしでリモートからコード実行、v8.5.12/v8.4.27/v8.3.36/v8.2.35が公開</title>
@@ -183,14 +183,6 @@
 <description>Today's PHP Security Release, and How We're Strengthening PHP Security If you're running anything on PHP it's vital you upgrade - today's updates (across the entire PHP 8.x line) address two remote code execution holes, and there have been exploits circulating since last night, thanks to a leak in the coordinated disclosure process. This post from the PHP Foundation explain what went so wrong: On Tuesday, October 20th, at around 15:00 UTC, the two CVE IDs began circulating on online forums and s — Simon Willison / score: 90 (PHPの脆弱性修正を含む重要なセキュリティリリース)</description>
 </item>
 <item>
-<title>[90] 【緊急】PHPの重大脆弱性2件(CVE-2026-109618 / 109619)を安全にアップデートする方法</title>
-<link>https://qiita.com/superdora-cloud/items/10ddecde5fb1d032f17c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/superdora-cloud/items/10ddecde5fb1d032f17c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Wed, 21 Oct 2026 14:17:51 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>はじめに 2026年10月21日(日本時間の夜)、PHP公式から 認証なしでリモートコード実行(RCE)が可能になる重大な脆弱性2件 の修正版がリリースされました。通称「PHP2Shell」と呼ばれています。 脆弱性のCVE番号が10月20日に事前流出したため、PHP開発... — Qiita 人気記事 / score: 90 (PHP重大脆弱性PHP2Shellの安全なアップデート手順解説)</description>
-</item>
-<item>
 <title>[90] 2026-10-21, Version 26.12.1 (Current), @aduh95 prepared by @RafaelGSS</title>
 <link>https://github.com/nodejs/node/releases/tag/v26.12.1</link>
 <guid isPermaLink="true">https://github.com/nodejs/node/releases/tag/v26.12.1</guid>
@@ -263,14 +255,6 @@
 <description>OpenAIは、予測不可能性の高さを主な理由として、最先端AIモデルのトレーニングの際に実際のインターネットに接続可能な環境を使用しない方針を明らかにしました。 その代わりとして、キャッシュされたウェブコンテンツや、オフラインのウェブインフラストラクチャーを用意し、トレーニングに活用するとしています。 こ... — はてなブックマーク テクノロジー / score: 85 (AIモデルのセキュリティとインターネット遮断方針)</description>
 </item>
 <item>
-<title>[85] PHPセキュリティ事件、ハッカーたちの間で修正してないサーバーに侵入して勝手にセキュリティパッチを当てて何もせず立ち去る遊びが流行しているらしい→「これやるためだけにサイバーセキュリティ学びたかった まだ間に合うかな」</title>
-<link>https://posfie.com/@petaritape/p/aqgcPOA</link>
-<guid isPermaLink="true">https://posfie.com/@petaritape/p/aqgcPOA</guid>
-<pubDate>Sat, 24 Oct 2026 05:27:32 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>ﾉﾌﾞﾁｬﾝ🎶💖🌈 @81O931 PHPセキュリティ事件、ハッカーたちの間で修正してないサーバーに侵入して勝手にセキュリティパッチを当てて何もせず立ち去る遊びが流行しているらしい 2026-10-24 06:07:36 — はてなブックマーク テクノロジー / score: 85 (セキュリティ脆弱性とインシデントの話題)</description>
-</item>
-<item>
 <title>[85] 不正アクセス受けたＧＭＯ、政府に「能動的サイバー防御」の適用を緊急要請</title>
 <link>https://www.yomiuri.co.jp/economy/20261024-GYT1T00180/</link>
 <guid isPermaLink="true">https://www.yomiuri.co.jp/economy/20261024-GYT1T00180/</guid>
@@ -319,6 +303,14 @@
 <description>AWS Continuum for code vulnerabilities is a new security service that uses AI to automatically find, validate, and prioritize code vulnerabilities in your environment, then delivers ready-to-review fixes as pull requests replacing what previously took hours of manual investigation and days of cross-team coordination. — AWS News Blog / score: 85 (AIを活用したAWSのコード脆弱性検出サービス)</description>
 </item>
 <item>
+<title>[85] 顧客説明で「高市さんが言ってたから！」と言えるのが強すぎる！ PHPの緊急メンテで見えたトップダウンとAI時代の脆弱性対応</title>
+<link>https://qiita.com/shinkai_/items/a45455b514bf9d32275a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/shinkai_/items/a45455b514bf9d32275a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Thu, 22 Oct 2026 10:20:29 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>はじめに 10月21日の夜、「緊急メンテナンス」の文字を日本中のWEBサイトで目にしました。 きっかけはPHPの重大な脆弱性です。 国内の有名サービスや自治体のサイトが、次々と止まりました。 その騒動のさなか、話題になったのが首相がXでパッチ適用を呼びかけたことです。 個... — Qiita 人気記事 / score: 85 (PHPの重大な脆弱性とトップダウン対応の影響)</description>
+</item>
+<item>
 <title>[85] PHPの影に隠れたもう一つの重大インシデント「eMudhra」の証明書問題、どう対処すれば？／OSやWebブラウザーなどの対応状況を整理、アプリ開発者などにはいくつか注意すべき点【やじうまの杜】</title>
 <link>https://forest.watch.impress.co.jp/docs/serial/yajiuma/2150316.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/serial/yajiuma/2150316.html</guid>
@@ -333,14 +325,6 @@
 <pubDate>Wed, 21 Oct 2026 20:00:09 +0000</pubDate>
 <category>Zenn トレンド</category>
 <description>PHPerの皆様、お疲れさまでした。 少し体力が残っているので、現在の対応状況をまとめてみました。 生成AIでまとめたものを当方で確認しております。 また気になる追加情報を補足に追加しました。 2026年10月21日、PHP の重大な脆弱性2件（CVE-2026-109618 / CVE-2026-109619、通称「PHP2Shell」）の修正版が公開されました。 PHP 本体の修正版がリリースされても、実際に自分のサーバへ届くかどうかは、利用している OS のパッケージ、レンタルサーバ事業者、KUSANAGI などの実行環境の対応状況に左右されます。 各所の一次情報を確認した範囲で、... — Zenn トレンド / score: 85 (PHP重大脆弱性「PHP2Shell」の対応状況)</description>
-</item>
-<item>
-<title>[85] PHP脆弱性php2shell対応、7.4本番を止めずに守った夜と実際の攻撃</title>
-<link>https://qiita.com/kenimo49/items/30f290bf0f4fff021fb3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/kenimo49/items/30f290bf0f4fff021fb3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Wed, 21 Oct 2026 17:15:15 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>2026 年 10 月 21 日 21 時 55 分、高市総理が X にこう投稿しました。 修正パッチを速やかに適用することが困難な場合は、例えばウェブサイト等を一時的に停止させることも、リスクを低減させるための有効策の一つと考えられます。 (高市早苗 on X) P... — Qiita 人気記事 / score: 85 (PHP脆弱性(php2shell)の対応実例)</description>
 </item>
 <item>
 <title>[85] Cloudflare、TypeScriptをRustに移植した「tsrs」を発表。TypeScript 7より最大で70％少ないメモリで8倍速。今後、LSPなどTypeScriptの全機能をサポート予定</title>
@@ -469,14 +453,6 @@
 <pubDate>Thu, 22 Oct 2026 10:59:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Anthropicは2026年10月21日、パーソナルAIアシスタントClaude Duetのリサーチプレビューを発表した。利用者の対応が必要なことを自ら知らせるエージェントとして動作する。 — gihyo.jp / score: 80 (Anthropicの新しいAIエージェント発表)</description>
-</item>
-<item>
-<title>[80] Amazon Linux 2023 の PHP を CVE-2026-109618 修正版へ先行ビルドする</title>
-<link>https://qiita.com/amu-kuroneko/items/46f00fbe8b5bac009c1c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/amu-kuroneko/items/46f00fbe8b5bac009c1c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Wed, 21 Oct 2026 15:02:18 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>Amazon Linux 2023 の PHP を CVE-2026-109618 / 109619 の修正版へ自前ビルドで上げる（公式パッケージ配布前の暫定対応） はじめに 2026-10-21 に PHP の修正版 8.2.35 / 8.3.36 / 8.4.27 ... — Qiita 人気記事 / score: 80 (Amazon Linux 2023におけるPHP脆弱性の先行ビルド対応)</description>
 </item>
 <item>
 <title>[80] OpenAI models are coming to Google Cloud</title>
@@ -621,6 +597,14 @@
 <pubDate>Sat, 24 Oct 2026 07:18:29 +0000</pubDate>
 <category>Latent Space</category>
 <description>2 months ago we covered Z.ai CEO Prof Jie Tang’s prediction that we’d get a Fable-class open weights model by year end . 2 weeks ago Meta achieved a Fable-class model in closed source , but, with 2.5 months left to go, we finally got it - a 2.8T open weights model beating Fable 5.1, not just Fable 5, at that: View post on X ↗ with even better efficiency: View post on X ↗ You can tell Kimi is proud of their latest model by how fancy their landing page is: As usual we don’t get much research detai — Latent Space / score: 75 (オープンAIモデルの性能向上とリリース)</description>
+</item>
+<item>
+<title>[75] 中国系AIのARTEX、悪質改造が横行　公開停止後もサイバー攻撃に悪用か - 日本経済新聞</title>
+<link>https://www.nikkei.com/article/DGXZQOUC2361W0T21C26A0000000/</link>
+<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUC2361W0T21C26A0000000/</guid>
+<pubDate>Sat, 24 Oct 2026 05:43:26 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>国内の不正アクセスに悪用されたとされる中国系の人工知能（AI）ツール「ARTEX（アルテックス）」で、悪質な改造が広がっている。開発者が公開を停止しているが、第三者がダウンロード済みのARTEXを改造し攻撃力を高めている。企業はさらなる警戒が必要だ。ARTEXは模擬的な攻撃をしかけて脆弱性を探索する行動を自律的に... — はてなブックマーク テクノロジー / score: 75 (サイバー攻撃の悪用に関する重要セキュリティ情報)</description>
 </item>
 <item>
 <title>[75] Ruby で任意のユーザー入力を渡してはいけないメソッド - @znz blog</title>
@@ -805,6 +789,22 @@
 <pubDate>Tue, 20 Oct 2026 15:10:05 +0000</pubDate>
 <category>Publickey</category>
 <description>Cloudflareは、AIを活用した業務のためのプラットフォームとなる「Cloudflare OS」のマネージドサービスを発表しました。現在ウェイティングリストへの登録を募集しています。 AIを活用した業務アプリのプラットフォーム Clo... — Publickey / score: 75 (Cloudflareの新プラットフォーム発表で重要)</description>
+</item>
+<item>
+<title>[75] Structured outputs for Claude models available on Amazon Bedrock</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/claude-structured-outputs-bedrock/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/claude-structured-outputs-bedrock/</guid>
+<pubDate>Tue, 20 Oct 2026 14:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon Bedrock now supports structured outputs for all Anthropic Claude models across both the bedrock-runtime and the bedrock-mantle endpoint. Whether you call Claude through boto3 and the bedrock-runtime APIs or through the Messages API and the bedrock-mantle endpoint, you can now receive schema-compliant JSON responses that conform to a defined structure, without custom parsing, retry logic, or post-processing. With structured outputs for Claude on Amazon Bedrock, you can automate reliable, s — AWS What's New / score: 75 (Amazon BedrockでのClaude構造化出力サポート)</description>
+</item>
+<item>
+<title>[75] TorchTPU is now open source: Run native PyTorch on TPUs</title>
+<link>https://cloud.google.com/blog/topics/ai-infrastructure/torchtpu-is-now-open-source-run-native-pytorch-on-tpus/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/ai-infrastructure/torchtpu-is-now-open-source-run-native-pytorch-on-tpus/</guid>
+<pubDate>Tue, 20 Oct 2026 11:30:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Today at PyTorch Conference 2026, we announced a range of new products and integrations designed to help you run PyTorch effectively on Google Cloud or in your own infrastructure. Notably, TorchTPU, our native PyTorch stack for Google TPUs, is now available as open source on GitHub. With TorchTPU, TPUs join GPUs and CPUs as a native option for PyTorch. You can now train, serve, and deploy models on TPUs using the tools you already rely on, including vLLM, SGLang, llm-d, TorchTitan, Ray, TorchRec — Google Cloud Blog / score: 75 (PyTorchのTPUネイティブ対応オープンソース化)</description>
 </item>
 </channel>
 </rss>
