@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sat, 24 Oct 2026 08:10:50 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 10:08:35 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] PHPの重大な欠陥、実は2年前から兆候があった。なんで直せなかったの？</title>
@@ -23,12 +23,12 @@
 <description>こんにちは、インフラエンジニアのryuです。 前回の記事「PHPの緊急脆弱性「php2shell」とは？」では、2026年10月21日に公開されたPHPの脆弱性の仕組みと、アップデートの進め方を解説しました。 今回はその続きです。 アップデートを終えたあとに、多くの人が気になるのが「すでに攻撃されていないか？」という点だと思... — はてなブックマーク テクノロジー / score: 95 (PHPの緊急脆弱性に対する侵入確認と対策手法)</description>
 </item>
 <item>
-<title>[95] PHP2Shell緊急対策：日本国内向けサイトで海外IPを全部弾く、即効性のあるIPフィルタ防御 - Qiita</title>
-<link>https://qiita.com/Hiro884/items/27a98c86ef17b70df7ed</link>
-<guid isPermaLink="true">https://qiita.com/Hiro884/items/27a98c86ef17b70df7ed</guid>
-<pubDate>Fri, 23 Oct 2026 08:18:01 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>はじめに 2026年10月21日、PHPの重大な脆弱性 PHP2Shell（CVE-2026-109618 / CVE-2026-109619）が公開されました。CVSSv4.0スコアは9.2。PHP 5.4以降のほぼすべてのバージョンに影響し、認証不要でリモートコード実行が可能です。 パッチ適用が根本対策ですが、レンタルサーバやVPSの環境によっては、PHPのバージョンア... — はてなブックマーク テクノロジー / score: 95 (重大なPHP脆弱性に対する緊急の対策情報)</description>
+<title>[95] PHP2Shell緊急対策：日本国内向けサイトで海外IPを全部弾く、即効性のあるIPフィルタ防御</title>
+<link>https://qiita.com/Hiro884/items/27a98c86ef17b70df7ed?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/Hiro884/items/27a98c86ef17b70df7ed?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Fri, 23 Oct 2026 07:44:20 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>はじめに 2026年10月21日、PHPの重大な脆弱性 PHP2Shell（CVE-2026-109618 / CVE-2026-109619）が公開されました。CVSSv4.0スコアは9.2。PHP 5.4以降のほぼすべてのバージョンに影響し、認証不要でリモートコード実... — Qiita 人気記事 / score: 95 (重大なPHP脆弱性に対する緊急の対策情報)</description>
 </item>
 <item>
 <title>[95] 「PHP2Shell」脆弱性公表後に悪用試行が数百万件単位に増加したとCloudflareが報告、顧客向けには新ファイアウォールを開発して有効化</title>
@@ -37,14 +37,6 @@
 <pubDate>Fri, 23 Oct 2026 04:06:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>世界の多くのウェブサイトやサービスで利用されているPHPに重大な脆弱性「PHP2Shell」が見つかり緊急アップデートが行われた一件で、公表前は数千件程度だった悪用試行が公表後は爆増し、公表から12時間ほどで数百万件という単位に増加していたことをCloudflareが報告しています。 続きを読む... — GIGAZINE / score: 95 (PHPの重大な脆弱性と攻撃急増に関する緊急ニュース)</description>
-</item>
-<item>
-<title>[95] Fixing Critical Node &amp; PHP Flaws | Devin</title>
-<link>https://devin.ai/blog/vulnerability-fixes-plugin</link>
-<guid isPermaLink="true">https://devin.ai/blog/vulnerability-fixes-plugin</guid>
-<pubDate>Fri, 23 Oct 2026 03:28:59 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>On October 21, 2026 the PHP and Node.js projects released security updates addressing vulnerabilities that can allow remote code execution. Teams running either runtime should identify affected services and apply the appropriate patches immediately. Applying those takes more than changing a versi... — はてなブックマーク テクノロジー / score: 95 (Node.jsとPHPの緊急セキュリティ脆弱性修正のため)</description>
 </item>
 <item>
 <title>[95] [AINews] OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months</title>
@@ -287,14 +279,6 @@
 <description>We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model. — Google AI Blog / score: 90 (Googleの新しい最先端AIモデルGemini 4 Argon)</description>
 </item>
 <item>
-<title>[88] 「Claude Mythos 5」、危害の兆候を顧みず実在の開発者を標的に──AnthropicとAISIが分析結果を公開</title>
-<link>https://www.itmedia.co.jp/news/article/2610/24/2000002564/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/24/2000002564/</guid>
-<pubDate>Fri, 23 Oct 2026 22:37:24 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>米Anthropicと英政府のAI安全保障研究所（AISI）は10月23日（現地時間）、AISIによるサイバー能力評価中に「Claude Mythos 5」が実在の開発者を標的にしたインシデントについて、アライメントの観点から分析した報告をそれぞれ公開した。両者は分析で協力して公開時期をそろえたが、報告は別々にまとめている。 この件は... — はてなブックマーク テクノロジー / score: 88 (AIモデルが開発者を標的にした重大なアライメント問題)</description>
-</item>
-<item>
 <title>[85] PHPセキュリティ事件、ハッカーたちの間で修正してないサーバーに侵入して勝手にセキュリティパッチを当てて何もせず立ち去る遊びが流行しているらしい→「これやるためだけにサイバーセキュリティ学びたかった まだ間に合うかな」</title>
 <link>https://posfie.com/@petaritape/p/aqgcPOA</link>
 <guid isPermaLink="true">https://posfie.com/@petaritape/p/aqgcPOA</guid>
@@ -308,7 +292,7 @@
 <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUC240YU0U6A021C2000000/</guid>
 <pubDate>Sat, 24 Oct 2026 05:18:19 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>GMOインターネットグループは24日、外国為替証拠金取引（FX）取引サービスへの不正アクセスを受け、政府に対しサイバー攻撃に先手を打って被害を防ぐ「能動的サイバー防御」への適用を緊急要請したと発表した。同社によると発動すれば第1号になる見通しという。GMOは不正アクセスの攻撃者とみられる人物から受けている金... — はてなブックマーク テクノロジー / score: 85 (GMOによる能動的サイバー防御の適用緊急要請)</description>
+<description>GMOインターネットグループは24日、外国為替証拠金取引（FX）取引サービスへの不正アクセスを受け、サイバー攻撃に先手を打って被害を防ぐ「能動的サイバー防御」の適用を政府に緊急要請したと発表した。GMOは民間事業者が単独で高度なサイバー攻撃を防御することは難しいと主張。10月施行した能動的サイバー防御法に基... — はてなブックマーク テクノロジー / score: 85 (GMOによる能動的サイバー防御の適用緊急要請)</description>
 </item>
 <item>
 <title>[85] 不正アクセス受けたＧＭＯ、政府に「能動的サイバー防御」の適用を緊急要請</title>
@@ -351,12 +335,12 @@
 <description>Rubyの開発チームは2026年10月23日、プログラミング言語Rubyのバージョン4.0.9、3.4.12、3.3.13を公開した。 — gihyo.jp / score: 85 (脆弱性修正を伴うRubyのセキュリティパッチ)</description>
 </item>
 <item>
-<title>[85] PHP騒動、財団が認める「構造的な失敗」　浮かび上がる四つの課題：朝日新聞</title>
-<link>https://www.asahi.com/articles/ASVBR3FZNVBRUHBI01ZM.html</link>
-<guid isPermaLink="true">https://www.asahi.com/articles/ASVBR3FZNVBRUHBI01ZM.html</guid>
-<pubDate>Fri, 23 Oct 2026 11:10:11 +0000</pubDate>
+<title>[85] 【解説】 PHPの脆弱性、サイバー空間の不発弾のようなもの＝BBCテクノロジー編集長 - BBCニュース</title>
+<link>https://www.bbc.com/japanese/articles/c50mepzk188go</link>
+<guid isPermaLink="true">https://www.bbc.com/japanese/articles/c50mepzk188go</guid>
+<pubDate>Fri, 23 Oct 2026 08:53:55 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>ウェブサイトを動かすプログラミング言語「PHP」で重大な欠陥が見つかった問題は、AI（人工知能）で欠陥が見つけやすくなった時代に、修正や更新を担う体制に課題があることを示した。PHP財団は、対応が遅… — はてなブックマーク テクノロジー / score: 85 (PHP財団が認めた開発・保守体制の構造的課題)</description>
+<description>【解説】 PHPの脆弱性、サイバー空間の不発弾のようなもの＝BBCテクノロジー編集長 - BBCニュース Play video, "PHPめぐって何が起きているのか AIが脆弱性を発見し世界中が大慌て", 所要時間 1,21 — はてなブックマーク テクノロジー / score: 85 (PHPの脆弱性とAIによる発見に関する重要なセキュリティ話題)</description>
 </item>
 <item>
 <title>[85] 本来推測不可能な秘密鍵にわずか1バイトの値を使っていたeMudhraがSSL/TLS証明書事業から撤退</title>
@@ -375,14 +359,6 @@
 <description> — CodeZine / score: 85 (PHPの重大な脆弱性に対するUbuntuの修正版公開)</description>
 </item>
 <item>
-<title>[85] PHPの重大な脆弱性、うちの会社は大丈夫？ Web担当者が確認すること</title>
-<link>https://qiita.com/nemui_zzz/items/f0e22400b628140f80cf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/nemui_zzz/items/f0e22400b628140f80cf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Thu, 22 Oct 2026 22:08:41 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>2026年10月22日 日本時間17時時点の情報です。最新の状況は末尾の公式発表で確認してください。 3行まとめ 10月21日〜22日、FF14やグラブル、ニコニコなどの一部サービスで、「PHPの脆弱性への対応」としてメンテナンスが行われました。いずれも予防のた... — Qiita 人気記事 / score: 85 (PHPの重大な脆弱性に関するWeb担当者向け確認事項)</description>
-</item>
-<item>
 <title>[85] AWS Continuum for code vulnerabilities is now generally available</title>
 <link>https://aws.amazon.com/about-aws/whats-new/2026/10/aws-continuum-for-code-vulnerabilities-is-now-generally-available</link>
 <guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/aws-continuum-for-code-vulnerabilities-is-now-generally-available</guid>
@@ -397,14 +373,6 @@
 <pubDate>Thu, 22 Oct 2026 20:33:10 +0000</pubDate>
 <category>AWS News Blog</category>
 <description>AWS Continuum for code vulnerabilities is a new security service that uses AI to automatically find, validate, and prioritize code vulnerabilities in your environment, then delivers ready-to-review fixes as pull requests replacing what previously took hours of manual investigation and days of cross-team coordination. — AWS News Blog / score: 85 (AIを活用したAWSのコード脆弱性検出サービス)</description>
-</item>
-<item>
-<title>[85] 顧客説明で「高市さんが言ってたから！」と言えるのが強すぎる！ PHPの緊急メンテで見えたトップダウンとAI時代の脆弱性対応</title>
-<link>https://qiita.com/shinkai_/items/a45455b514bf9d32275a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/shinkai_/items/a45455b514bf9d32275a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Thu, 22 Oct 2026 10:20:29 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>はじめに 10月21日の夜、「緊急メンテナンス」の文字を日本中のWEBサイトで目にしました。 きっかけはPHPの重大な脆弱性です。 国内の有名サービスや自治体のサイトが、次々と止まりました。 その騒動のさなか、話題になったのが首相がXでパッチ適用を呼びかけたことです。 個... — Qiita 人気記事 / score: 85 (PHPの重大な脆弱性とトップダウン対応の影響)</description>
 </item>
 <item>
 <title>[85] PHPの影に隠れたもう一つの重大インシデント「eMudhra」の証明書問題、どう対処すれば？／OSやWebブラウザーなどの対応状況を整理、アプリ開発者などにはいくつか注意すべき点【やじうまの杜】</title>
@@ -429,14 +397,6 @@
 <pubDate>Wed, 21 Oct 2026 17:15:15 +0000</pubDate>
 <category>Qiita 人気記事</category>
 <description>2026 年 10 月 21 日 21 時 55 分、高市総理が X にこう投稿しました。 修正パッチを速やかに適用することが困難な場合は、例えばウェブサイト等を一時的に停止させることも、リスクを低減させるための有効策の一つと考えられます。 (高市早苗 on X) P... — Qiita 人気記事 / score: 85 (PHP脆弱性(php2shell)の対応実例)</description>
-</item>
-<item>
-<title>[85] 10月21日、PHP2Shell対応の後片付けが終わらない</title>
-<link>https://zenn.dev/subara3/articles/1165119ef70e75</link>
-<guid isPermaLink="true">https://zenn.dev/subara3/articles/1165119ef70e75</guid>
-<pubDate>Wed, 21 Oct 2026 16:17:09 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>10月21日の22時ちょいに、PHPので～っかい修正版が出ました。 これが結構やばい修正＆攻撃が来るからすぐ手当てして、というもののようで、今日はもうひっきりなしの対応に追われている方も多いんじゃないでしょうか。 私も緊急対応を一通り終えて、ようやく帰れるところです。やれやれ。 今回報告されたのは、PHP本体の脆弱性2件（CVE-2026-109618、CVE-2026-109619）で、通称は「PHP2Shell」です。 深刻度はどちらもCVSS v4.0で9.2です。9.2！！ PHP公式は、認証なしでリモートからコードを実行されうると説明しています。 国内では、BASE、Cygam... — Zenn トレンド / score: 85 (PHP2Shell脆弱性対応の混乱と疲弊を伝える実体験)</description>
 </item>
 <item>
 <title>[85] Cloudflare、TypeScriptをRustに移植した「tsrs」を発表。TypeScript 7より最大で70％少ないメモリで8倍速。今後、LSPなどTypeScriptの全機能をサポート予定</title>
@@ -559,12 +519,12 @@
 <description> — Yahoo!ニュース IT / score: 80 (ウェブサイトでのAPIキー露出問題に関する研究)</description>
 </item>
 <item>
-<title>[80] テスラ車が自動運転中に高速道路で男性をはねて死亡させる</title>
-<link>https://gigazine.net/news/20261023-tesla-driver-fatally-struck-man-self-driving/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261023-tesla-driver-fatally-struck-man-self-driving/</guid>
-<pubDate>Fri, 23 Oct 2026 02:54:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>2026年10月22日(木)の2時30分頃、アメリカ・カリフォルニア州ヴァホーレの州間高速道路80号線を横断していた71歳の男性が、テスラの自動運転機能である「Full Self-Driving(FSD：完全自動運転)」を使用して走行していたテスラ車にはねられて死亡しました。 続きを読む... — GIGAZINE / score: 80 (テスラのFSD使用中の重大な死亡事故)</description>
+<title>[80] 2秒で失った400万円　GMO系サービスで「意図しないFX取引」（朝日新聞） - Yahoo!ニュース</title>
+<link>https://news.yahoo.co.jp/articles/87a02b4f1d41ed78590b04c1494969e0777afbc8</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/articles/87a02b4f1d41ed78590b04c1494969e0777afbc8</guid>
+<pubDate>Fri, 23 Oct 2026 10:01:46 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>2秒間で約415万円が失われた男性のFXの取引画面=男性提供（朝日新聞） GMOインターネットが運営するFX（外国為替証拠金取引）関連のサービスが不正アクセスを受けた問題で、「身に覚えのない取引で現金を失った」と訴える顧客が相次いでいる。取引口座のパスワードなどが不正に利用された可能性があり、説明を求める声... — はてなブックマーク テクノロジー / score: 80 (FXサービスの不正アクセスによる実被害の重大なニュース)</description>
 </item>
 <item>
 <title>[80] Anthropic、パーソナルAIアシスタントClaude Duetのリサーチプレビューを発表、米国で先行提供 ——必要な対応を通知、依頼した作業を離席中も継続</title>
@@ -719,14 +679,6 @@
 <description>2 months ago we covered Z.ai CEO Prof Jie Tang’s prediction that we’d get a Fable-class open weights model by year end . 2 weeks ago Meta achieved a Fable-class model in closed source , but, with 2.5 months left to go, we finally got it - a 2.8T open weights model beating Fable 5.1, not just Fable 5, at that: View post on X ↗ with even better efficiency: View post on X ↗ You can tell Kimi is proud of their latest model by how fancy their landing page is: As usual we don’t get much research detai — Latent Space / score: 75 (オープンAIモデルの性能向上とリリース)</description>
 </item>
 <item>
-<title>[75] GMO 不正アクセス問題で政府に「能動的サイバー防御」を要請 | NHKニュース</title>
-<link>https://news.web.nhk/newsweb/na/nd-20261024de64764</link>
-<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261024de64764</guid>
-<pubDate>Sat, 24 Oct 2026 04:54:43 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>IT大手のGMOインターネットグループは投資家向けに提供している自動取引のサーバーが不正アクセスを受けた問題で、政府に対し、被害の拡大を未然に防止するための「能動的サイバー防御」を緊急要請したことを明… — はてなブックマーク テクノロジー / score: 75 (サイバーセキュリティと国家防衛に関する話題)</description>
-</item>
-<item>
 <title>[75] 【重要】お名前.com デスクトップクラウドサービスに対するサイバー攻撃について（第4報） | GMOインターネットグループ株式会社</title>
 <link>https://group.gmo/info/alert/20261024/</link>
 <guid isPermaLink="true">https://group.gmo/info/alert/20261024/</guid>
@@ -751,20 +703,20 @@
 <description>Chris Rohlf Over the past year, we’ve published lots of data that shows that frontier AI models are more than capable of discovering and exploiting security vulnerabilities. Showing how previously unknown vulnerabilities might be exploited is, however, only the start of what frontier AI models ca... — はてなブックマーク テクノロジー / score: 75 (Claudeを用いたコードの攻撃対象領域削減手法)</description>
 </item>
 <item>
+<title>[75] 本番コードのAI生成率99％　ソニー銀行は「勘定系開発にClaude Code適用」をどう実現？</title>
+<link>https://atmarkit.itmedia.co.jp/ait/articles/2610/22/news022.html</link>
+<guid isPermaLink="true">https://atmarkit.itmedia.co.jp/ait/articles/2610/22/news022.html</guid>
+<pubDate>Fri, 23 Oct 2026 12:21:32 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>日本の金融業界は、システム開発の構造的な課題に直面している。新たなサービスの企画から提供までに数カ月から年単位の期間を要し、高い開発コストや複雑な開発プロセスが、変化の激しい市場環境への迅速な対応を困難にしてきた。一方で、生成AIをはじめとする技術の進化が進み、変化に即応できる開発体制を構築できる... — はてなブックマーク テクノロジー / score: 75 (金融機関の本番システム開発における生成AI活用の事例)</description>
+</item>
+<item>
 <title>[75] AIにNintendo Switch 2を操作させて脱獄に成功、Codexが脆弱性を発見してゲームの改造まで実現</title>
 <link>https://gigazine.net/news/20261023-nintendo-switch-2-jailbreak/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261023-nintendo-switch-2-jailbreak/</guid>
 <pubDate>Fri, 23 Oct 2026 11:00:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>Nintendo Switch 2のセキュリティを突破し、非公式プログラムを実行できるようにする手法「ns2jb」が公開されました。開発にはOpenAIのコーディングAI「OpenAI Codex」が活用され、AIが実際のゲーム機を遠隔操作しながら脆弱(ぜいじゃく)性を調査するという手法が採用されています。 続きを読む... — GIGAZINE / score: 75 (AIを活用した次世代ゲーム機のセキュリティ脆弱性調査)</description>
-</item>
-<item>
-<title>[75] タイムズカー、3000円の見舞金支払いへ　免許証画像漏えいの146万件対象　55億円の特損計上</title>
-<link>https://www.itmedia.co.jp/news/article/2610/23/2000002558/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/23/2000002558/</guid>
-<pubDate>Fri, 23 Oct 2026 10:29:19 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>パーク24は10月23日、グループ会社のタイムズモビリティ（東京都品川区）が運営するカーシェアリングサービス「タイムズカー」で9月に発覚した個人情報漏えいを巡り、一部利用者に3000円相当の見舞金を渡すと発表した。 対象は、運転免許証など本人確認書類の画像データへの不正アクセスと外部送信の痕跡が確認された利... — はてなブックマーク テクノロジー / score: 75 (大規模な個人情報漏えいと損害補償の重大なトラブル)</description>
 </item>
 <item>
 <title>[75] Securing our frontier model training environment</title>
@@ -805,6 +757,54 @@
 <pubDate>Fri, 23 Oct 2026 00:10:35 +0000</pubDate>
 <category>窓の杜</category>
 <description>加AgileBitsは10月22日（現地時間）、「1Password for Agents」プラットフォームを発表した。AIエージェントがWebサービスへのログインを必要としたときに、ユーザーの認証情報を直接AIに渡さず、安全にログイン処理を実行できる仕組みだ。 — 窓の杜 / score: 75 (AIエージェント向けパスワード管理プラットフォームの発表)</description>
+</item>
+<item>
+<title>[75] OpenAI、PHPの脆弱性発見の経緯を公表</title>
+<link>https://codezine.jp/article/detail/30107</link>
+<guid isPermaLink="true">https://codezine.jp/article/detail/30107</guid>
+<pubDate>Thu, 22 Oct 2026 23:00:00 +0000</pubDate>
+<category>CodeZine</category>
+<description> — CodeZine / score: 75 (OpenAIによるPHP脆弱性発見の経緯公表)</description>
+</item>
+<item>
+<title>[75] Build more responsive apps with the Decisions API</title>
+<link>https://openai.com/index/decisions-api</link>
+<guid isPermaLink="true">https://openai.com/index/decisions-api</guid>
+<pubDate>Thu, 22 Oct 2026 19:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>Fast, focused, low-cost decisions for any application. — OpenAI News / score: 75 (OpenAIによる新しいAPIの提供)</description>
+</item>
+<item>
+<title>[75] Anthropic、先回りしてユーザーを助ける秘書エージェント「Claude Duet」を発表／まずは米国の「Pro」「Max」ユーザーを対象にウェイトリスト方式で研究プレビュー</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2150199.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2150199.html</guid>
+<pubDate>Thu, 22 Oct 2026 05:40:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Anthropicは10月21日（現地時間、以下同）、「Claude Duet」を発表した。同日より研究プレビュー（research preview）として、米国の「Pro」「Max」プランの契約者からウェイトリスト方式で提供が始まっている。現時点で日本での提供時期は明らかにされていない。 — 窓の杜 / score: 75 (Anthropicの新しいAIエージェント発表)</description>
+</item>
+<item>
+<title>[75] DuckDB 2.0.0リリース、サーバー機能を改善し非同期I/Oを導入</title>
+<link>https://gihyo.jp/article/2026/10/duckdb-2.0.0?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/10/duckdb-2.0.0?utm_source=feed</guid>
+<pubDate>Thu, 22 Oct 2026 02:44:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>DuckDBの開発チームは2026年10月21日、分析向けデータベースDuckDBのバージョン2.0.0をリリースした。 — gihyo.jp / score: 75 (DuckDB 2.0.0のメジャーリリース)</description>
+</item>
+<item>
+<title>[75] Claude Platform release notes — October 22, 2026</title>
+<link>https://platform.claude.com/docs/en/release-notes/overview#october-22-2026</link>
+<guid isPermaLink="true">https://platform.claude.com/docs/en/release-notes/overview#october-22-2026</guid>
+<pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+<category>Claude リリースノート</category>
+<description>We've launched Claude Models on Google Cloud (Anthropic managed) , the Claude API operated by Anthropic and reached through your Google Cloud project. Google Cloud IAM controls access. Google Cloud Marketplace handles billing. Fast mode is available for Claude Opus 5.5 on Claude Models on Google Cloud (Anthropic managed). — Claude リリースノート / score: 75 (Claudeプラットフォームのマネージドエージェント更新)</description>
+</item>
+<item>
+<title>[75] AWS Neuron 2.33 adds native PyTorch support, Neuron Observer, and other new features</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/aws-announce-neuron-2-33-0</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/aws-announce-neuron-2-33-0</guid>
+<pubDate>Wed, 21 Oct 2026 15:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS Neuron 2.33 is now available, introducing TorchNeuron, the native PyTorch backend for AWS Trainium, in public beta. You can run models written with the standard PyTorch APIs on Amazon EC2 Trn2 and Trn3 instances, in eager mode or with torch.compile. This release also introduces Neuron Observer in public beta, which detects Trainium health issues in under a second and identifies the affected node or device. The vLLM Neuron plugin upgrades to vLLM 0.29.0, and the vLLM Omni Neuron plugin for Wa — AWS What's New / score: 75 (AWS Trainium向けのネイティブPyTorchサポート追加)</description>
 </item>
 </channel>
 </rss>

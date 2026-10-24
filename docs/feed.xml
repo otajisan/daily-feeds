@@ -4,8 +4,112 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sat, 24 Oct 2026 08:10:50 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 10:08:35 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>「ツインテールが一番似合っています」 大泉 凜の3rd DVDは「同い年の彼氏」との恋愛劇！</title>
+<link>https://ascii.jp/elem/000/004/445/4445131/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/445/4445131/?rss</guid>
+<pubDate>Sat, 24 Oct 2026 10:00:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>しゃべることが大好き。キレ味抜群の本音トークでも注目される大泉 凜（おおいずみ・りん）さんが、3rd DVD「とってもうるさいキミが好き」の発売記念イベントを9月21日、ソフマップAKIBA アミューズメント館で開催した。 — ASCII.jp / score: 10 (アイドルDVDの発売イベントに関する話題)</description>
+</item>
+<item>
+<title>14.0型ノートPC「FMV WU5-K3」が、Core Ultra 7 255U+16GBメモリー搭載で26万円台！</title>
+<link>https://ascii.jp/elem/000/004/444/4444074/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/444/4444074/?rss</guid>
+<pubDate>Sat, 24 Oct 2026 10:00:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。 — ASCII.jp / score: 30 (ノートPCの製品スペックとセール情報の紹介)</description>
+</item>
+<item>
+<title>破格の99ドル！ Oura Ring並みの機能にAIも付いたスマートリング「Interface」</title>
+<link>https://www.gizmodo.jp/article/2610-interface-smart-ring/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/2610-interface-smart-ring/</guid>
+<pubDate>Sat, 24 Oct 2026 10:00:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>99ドルという破格の安さでOura Ring並みのヘルスケア機能とAI音声操作を実現したスマートリング「Interface」の特徴や仕組みを解説します。 — ギズモード・ジャパン / score: 45 (低価格なAI機能付きスマートリングの新製品情報)</description>
+</item>
+<item>
+<title>お店の食品ロス削減へ アプリ導入</title>
+<link>https://news.yahoo.co.jp/pickup/6599958?source=rss</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6599958?source=rss</guid>
+<pubDate>Sat, 24 Oct 2026 09:30:30 +0000</pubDate>
+<category>Yahoo!ニュース IT</category>
+<description> — Yahoo!ニュース IT / score: 15 (食品ロス削減アプリの導入に関する一般ニュース)</description>
+</item>
+<item>
+<title>MultiheadAttentionの高速経路がVRAMを18GB食っていた話</title>
+<link>https://zenn.dev/genelab_999/articles/387bf151caf716</link>
+<guid isPermaLink="true">https://zenn.dev/genelab_999/articles/387bf151caf716</guid>
+<pubDate>Sat, 24 Oct 2026 09:00:37 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>TL;DR nn.MultiheadAttention は、eval かつ勾配なしの推論でマスクを渡すと、need_weights=False を付けていても SDPA を使わず、ヘッド数 × P × P の注意行列を丸ごと作る Xiaomi-Lens-0 では flash-attn が無いときの代替経路がまさにこれで、3 MP の画像でマスク生成段の追加 VRAM が 18.02 GB、8 MP では 1 回 30.75 GiB の確保で OOM していた 既に実装されていた SDPA 経路を代替に回す 1 ファイルの PR で 2.28 GB (約 87% 減) になり、翌日... — Zenn トレンド / score: 55 (PyTorchの推論処理におけるVRAM消費の技術解説)</description>
+</item>
+<item>
+<title>無料で予約ページ・カレンダー同期・ビデオ会議室・自動メール送信機能などのダブルブッキングしないようにする機能を駆使してスケジュールの自動調整ができる「Tymeslot」、オープンソースでセルフホスト可能</title>
+<link>https://gigazine.net/news/20261024-tymeslot/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261024-tymeslot/</guid>
+<pubDate>Sat, 24 Oct 2026 09:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>予約管理システムではカレンダーとの同期やオンライン会議サービスとの連携・メール通知など必要とする機能に応じて利用条件が変わることがあります。そこで、予約ページの作成・複数カレンダーを使った重複予約の防止・ビデオ会議室の自動生成・確認メールの送信・Webサイトへの埋め込みなどの機能をまとめて搭載し、セルフホスト版なら予約件数の制限もなく無料で使えるオープンソースのスケジュール管理システムが「Tymeslot」です。 続きを読む... — GIGAZINE / score: 60 (セルフホスト可能なオープンソースの予約管理ツール)</description>
+</item>
+<item>
+<title>携帯にも便利な11.6型のノートPCが、FMV直販で10万円台！</title>
+<link>https://ascii.jp/elem/000/004/444/4444068/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/444/4444068/?rss</guid>
+<pubDate>Sat, 24 Oct 2026 09:00:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。 — ASCII.jp / score: 30 (ノートPCの製品紹介とセール情報の案内)</description>
+</item>
+<item>
+<title>暑いと思ったら、もう寒い。秋の服装問題、モンベルに頼ってみた</title>
+<link>https://www.gizmodo.jp/article/2610-montbell-autumn-clothing/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/2610-montbell-autumn-clothing/</guid>
+<pubDate>Sat, 24 Oct 2026 09:00:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>寒暖差の激しい秋の服装にお悩みですか。モンベルの薄手フリースや軽量シェルなど、体温調節に役立つ便利なアイテムをご紹介します。 — ギズモード・ジャパン / score: 15 (季節の服装選びに関するライフスタイル記事)</description>
+</item>
+<item>
+<title>iPhoneを24MPに設定したのに写真は12MP？実機で分かったこと</title>
+<link>https://iphone-mania.jp/tech-607840/</link>
+<guid isPermaLink="true">https://iphone-mania.jp/tech-607840/</guid>
+<pubDate>Sat, 24 Oct 2026 08:40:00 +0000</pubDate>
+<category>iPhone Mania</category>
+<description>普段から24MPで撮影しているiPhone15 Proで、24MP設定と12MP設定の写真を撮り比べたところ、どちらも保存結果は12MPでした。写真情報に表示されたカメラは、2枚とも超広角13mmです。 24MP設定のは […] — iPhone Mania / score: 40 (iPhoneのカメラ設定に関する検証記事)</description>
+</item>
+<item>
+<title>味の違いは明らか。京セラのマグボトルは淹れたてのコーヒーの味をキープしてくれる #SCAJ</title>
+<link>https://www.gizmodo.jp/article/kyocera_ceramug_coffee-bottle/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/kyocera_ceramug_coffee-bottle/</guid>
+<pubDate>Sat, 24 Oct 2026 08:35:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>あの京セラが、タンブラー？コーヒーの祭典『SCAJ』（会期は終了しています）で「コーヒーフェスに京セラ？」と思い、出展ブースに吸い寄せられ見つけたのが、「CERAMUG（セラマグ）」というマグボトル。京セラのセラミックス技術の強みを生かして… — ギズモード・ジャパン / score: 30 (セラミック技術を活用したマグボトルの紹介)</description>
+</item>
+<item>
+<title>リンクで確認した SNS のメール購読に、作り直さずに「解除の保護」を付ける</title>
+<link>https://zenn.dev/sk8jp/articles/260e3c0fa07ed9</link>
+<guid isPermaLink="true">https://zenn.dev/sk8jp/articles/260e3c0fa07ed9</guid>
+<pubDate>Sat, 24 Oct 2026 08:24:15 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>はじめに Amazon SNS のメール購読は、確認するときに AuthenticateOnUnsubscribe を true にすると、解除に AWS の認証（署名つきのリクエスト）が必要になります。メールの unsubscribe のリンクからは解除できなくなります。 この指定は確認するときにしか付けられず、確認のメールのリンクを押して確認すると付きません。 AuthenticateOnUnsubscribe は、購読を確認する API（ConfirmSubscription）の引数です。確認の後に購読の属性を変える API（SetSubscriptionAttribute... — Zenn トレンド / score: 40 (AWS SNSの購読解除設定に関する実用的な小技)</description>
+</item>
+<item>
+<title>Laravel を IdP にして Ory Hydra で SSO を組み、PHP 5.6 のレガシーアプリも認証ブローカーで乗せる</title>
+<link>https://zenn.dev/sprix_it/articles/464d97d1ebdbfd</link>
+<guid isPermaLink="true">https://zenn.dev/sprix_it/articles/464d97d1ebdbfd</guid>
+<pubDate>Sat, 24 Oct 2026 08:22:24 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>背景 Laravel で作ったアプリにユーザー台帳とログイン画面があり、他のアプリにもそのログインを使わせたい。OIDC で SSO を組むとして、Laravel 側をどうやって OP にするかを決める必要がありました。もうひとつ、SSO に乗せたい側に PHP 5 系のアプリが残っていて、OIDC のクライアントライブラリが動きません。 この 2 つをローカルで試しました。コードは公開しています。 https://github.com/kikegamisprix/laravel-ory-hydra-sample OP は Hydra、台帳と画面は Laravel のまま 最初は... — Zenn トレンド / score: 45 (レガシーアプリを含むSSO構築の実装アプローチ)</description>
+</item>
+<item>
+<title>Google スプレッドシート、箱ひげ図をネイティブサポート</title>
+<link>https://codezine.jp/article/detail/30123</link>
+<guid isPermaLink="true">https://codezine.jp/article/detail/30123</guid>
+<pubDate>Sat, 24 Oct 2026 08:00:00 +0000</pubDate>
+<category>CodeZine</category>
+<description> — CodeZine / score: 55 (スプレッドシートの箱ひげ図ネイティブ対応)</description>
+</item>
 <item>
 <title>【決定版・大阪城ベスト5】天守閣が重要文化財に答申！ 大河ドラマ『豊臣兄弟！』で家康が上洛する「大坂城」おすすめスポット</title>
 <link>https://ascii.jp/elem/000/004/445/4445475/?rss</link>
@@ -47,6 +151,14 @@
 <description>TOOL JAPANで見つけたメカリンクのファン付きベスト「COOLER MASTER」を紹介。リュック型の保冷システムとフードで頭皮まで涼しい画期的な構造を解説します。 — ギズモード・ジャパン / score: 20 (アパレル寄りの製品紹介でエンジニア向けではない)</description>
 </item>
 <item>
+<title>三井製薬、製品に関わる認証と第三者機関による試験が示す範囲を整理して公開</title>
+<link>https://ascii.jp/elem/000/004/445/4445495/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/445/4445495/?rss</guid>
+<pubDate>Sat, 24 Oct 2026 07:42:58 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>三井製薬、製品に関わる認証と第三者機関による試験が示す範囲を整理して公開 — ASCII.jp / score: 20 (企業の認証情報公開に関するニュースリリース)</description>
+</item>
+<item>
 <title>個人情報売買 ダークウェブの実態</title>
 <link>https://news.yahoo.co.jp/pickup/6599943?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6599943?source=rss</guid>
@@ -55,12 +167,28 @@
 <description> — Yahoo!ニュース IT / score: 30 (一般的なサイバー犯罪のドキュメンタリー)</description>
 </item>
 <item>
+<title>ORICO、レトロなヴィンテージデザインの2.5インチHDDケースを発表--UASP対応USB 3.0で従来比70%高速転送・工具不要3秒装着・ホットスワップ対応・幅広い互換性</title>
+<link>https://ascii.jp/elem/000/004/445/4445494/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/445/4445494/?rss</guid>
+<pubDate>Sat, 24 Oct 2026 07:30:27 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>ORICO、レトロなヴィンテージデザインの2.5インチHDDケースを発表--UASP対応USB 3.0で従来比70%高速転送・工具不要3秒装着・ホットスワップ対応・幅広い互換性 — ASCII.jp / score: 35 (レトロデザインのHDDケース新製品発表)</description>
+</item>
+<item>
 <title>[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed</title>
 <link>https://latent.space/p/ainews-kimi-31/</link>
 <guid isPermaLink="true">https://latent.space/p/ainews-kimi-31/</guid>
 <pubDate>Sat, 24 Oct 2026 07:18:29 +0000</pubDate>
 <category>Latent Space</category>
 <description>2 months ago we covered Z.ai CEO Prof Jie Tang’s prediction that we’d get a Fable-class open weights model by year end . 2 weeks ago Meta achieved a Fable-class model in closed source , but, with 2.5 months left to go, we finally got it - a 2.8T open weights model beating Fable 5.1, not just Fable 5, at that: View post on X ↗ with even better efficiency: View post on X ↗ You can tell Kimi is proud of their latest model by how fancy their landing page is: As usual we don’t get much research detai — Latent Space / score: 75 (オープンAIモデルの性能向上とリリース)</description>
+</item>
+<item>
+<title>GitHub Actions Self-hosted runnerをお手軽にスケールさせる ghalet | おそらくはそれさえも平凡な日々</title>
+<link>https://songmu.jp/riji/entry/2026-10-24-scaling-github-actions-runners-with-ghalet.html</link>
+<guid isPermaLink="true">https://songmu.jp/riji/entry/2026-10-24-scaling-github-actions-runners-with-ghalet.html</guid>
+<pubDate>Sat, 24 Oct 2026 07:15:09 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>https://github.com/Songmu/ghalet https://junkyard.song.mu/ghalet/ tl;dr: 単一のGoデーモンで、GitHub ActionsのSelf-hosted runnerをお手軽にスケールさせられるOSSを作ったのでぜひご利用下さい。ご自宅のMac mini等でも使えます。 GitHub ActionsのSelf-hosted runner GitHub Actionsは標準で提供されているGitHu... — はてなブックマーク テクノロジー / score: 50 (GitHub Actionsの運用効率化に関する有用なOSS紹介)</description>
 </item>
 <item>
 <title>趣味を認め合う恋愛の心地よさ『その着せ替え人形は恋をする』50%還元【Amazonマンガ週末祭】</title>
@@ -85,6 +213,14 @@
 <pubDate>Sat, 24 Oct 2026 07:00:00 +0000</pubDate>
 <category>ASCII.jp</category>
 <description>ほっかほっか亭は、10月26日から30日までの期間「食欲の秋！お客さま還元キャンペーン」を開催します。 — ASCII.jp / score: 10 (弁当チェーンのキャンペーン情報)</description>
+</item>
+<item>
+<title>同じ型のパソコンを持ってる同僚が「画面が急に縦になっちゃったんですけど…」と相談してきた→タブレットになる機種だったので外して見せたら絶叫してた</title>
+<link>https://togetter.com/li/2762221</link>
+<guid isPermaLink="true">https://togetter.com/li/2762221</guid>
+<pubDate>Sat, 24 Oct 2026 06:24:59 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>大羊（たいよう） @taiyo_181 同じ型のパソコン持ってる先生が「画面が急に縦になっちゃったんですけど…こういう時ってどうすればいいですか？」と聞いてきたので、「ああはいはい、こういう時は画面を一回外して回転させるといいすよ(タブレットにもなるタイプのパソコン)」って言いながらバコっとキーボードから画面外... — はてなブックマーク テクノロジー / score: 15 (日常の些細な勘違いに関する個人ブログの話題)</description>
 </item>
 <item>
 <title>決定的なフロントエンドアーキテクチャがいい</title>
@@ -156,7 +292,7 @@
 <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUC240YU0U6A021C2000000/</guid>
 <pubDate>Sat, 24 Oct 2026 05:18:19 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>GMOインターネットグループは24日、外国為替証拠金取引（FX）取引サービスへの不正アクセスを受け、政府に対しサイバー攻撃に先手を打って被害を防ぐ「能動的サイバー防御」への適用を緊急要請したと発表した。同社によると発動すれば第1号になる見通しという。GMOは不正アクセスの攻撃者とみられる人物から受けている金... — はてなブックマーク テクノロジー / score: 85 (GMOによる能動的サイバー防御の適用緊急要請)</description>
+<description>GMOインターネットグループは24日、外国為替証拠金取引（FX）取引サービスへの不正アクセスを受け、サイバー攻撃に先手を打って被害を防ぐ「能動的サイバー防御」の適用を政府に緊急要請したと発表した。GMOは民間事業者が単独で高度なサイバー攻撃を防御することは難しいと主張。10月施行した能動的サイバー防御法に基... — はてなブックマーク テクノロジー / score: 85 (GMOによる能動的サイバー防御の適用緊急要請)</description>
 </item>
 <item>
 <title>AIで加速するサイバー攻撃と、防御をめぐる動き ――脆弱性の修正から、AIエージェントの行動制御まで</title>
@@ -175,12 +311,12 @@
 <description>「リュックは、いちいち下ろさないと物が出せない」。購入検討者577名の3人に1人以上が、今のバッグの不満に"取り出しにくさ・中のごちゃつき"を挙げる — ASCII.jp / score: 15 (バッグに関する市場調査データ)</description>
 </item>
 <item>
-<title>GMO 不正アクセス問題で政府に「能動的サイバー防御」を要請 | NHKニュース</title>
-<link>https://news.web.nhk/newsweb/na/nd-20261024de64764</link>
-<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261024de64764</guid>
-<pubDate>Sat, 24 Oct 2026 04:54:43 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>IT大手のGMOインターネットグループは投資家向けに提供している自動取引のサーバーが不正アクセスを受けた問題で、政府に対し、被害の拡大を未然に防止するための「能動的サイバー防御」を緊急要請したことを明… — はてなブックマーク テクノロジー / score: 75 (サイバーセキュリティと国家防衛に関する話題)</description>
+<title>Gowin FPGAの配置配線オプションを実測比較 — ビルド時間とFmaxのバランス</title>
+<link>https://zenn.dev/akiyukiokayasu/articles/66be017200e64e</link>
+<guid isPermaLink="true">https://zenn.dev/akiyukiokayasu/articles/66be017200e64e</guid>
+<pubDate>Sat, 24 Oct 2026 04:59:37 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>はじめに Gowin EDA の Place &amp; Route には place_option と route_option というアルゴリズム選択があります。GUI では「Place Option」「Route Option」として選べる項目です。 同じRTLでも設定を変えると、ビルド時間とFmaxが変わります。しかし、どの値が有利なのかは、公式ドキュメントだけでは分かりにくいところがあります。 Tang Primer 25K (GW5A-25A) 上の 1bit PDMオシレーター実装を例に、同じRTLで設定だけを変えてビルド時間とFmaxを実測しました。 Place ... — Zenn トレンド / score: 40 (FPGAのビルドオプションに関する実測比較データ)</description>
 </item>
 <item>
 <title>GMO 能動的サイバー防御を要請</title>
@@ -319,6 +455,14 @@
 <description>チェキなのに、プリンタを内蔵せず、小型化に特化した富士フイルム「instax Pal」シリーズの新作「instax Pal2」（税込25,300円）。まるでかつてのフィルムカメラをミニチュアにしたようなルックス。味のある写真を簡単に撮れる機… — ギズモード・ジャパン / score: 25 (富士フイルムの小型チェキ型カメラの新作紹介)</description>
 </item>
 <item>
+<title>‎iPod 25周年 - Apple Music</title>
+<link>https://music.apple.com/jp/ipod</link>
+<guid isPermaLink="true">https://music.apple.com/jp/ipod</guid>
+<pubDate>Sat, 24 Oct 2026 02:59:49 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>‎iPod 25周年 - Apple Music 2001年10月23日を振り返りましょう。25年前、Appleは1,000曲をポケットに入れて持ち運べる画期的なデバイス、初代iPodを発表しました。 — はてなブックマーク テクノロジー / score: 25 (iPodの歴史を振り返る記念記事)</description>
+</item>
+<item>
 <title>便利だけど、肩が疲れる。日常の小さな不快感から生まれたRootのスマホショルダー「NODI」新発売！</title>
 <link>https://ascii.jp/elem/000/004/445/4445482/?rss</link>
 <guid isPermaLink="true">https://ascii.jp/elem/000/004/445/4445482/?rss</guid>
@@ -367,6 +511,14 @@
 <description>Amazonが、Kindleストアにおいて、本日より「Kindle本 読書の秋セール」をスタートしました。 「Kindle本 読書の秋セール」は、ほぼ全てのジャンルから計3万冊以上が対象となっており、最大75％オフという […] — 気になる、記になる… / score: 20 (AmazonのKindle本セールの紹介)</description>
 </item>
 <item>
+<title>日本と同じ条件の国は何をしたか ― 財政政策の国際比較実証研究 : システム設計視点の行動経済学 (48)</title>
+<link>https://qiita.com/maskot1977/items/faa29f9bdce4dab79040?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/maskot1977/items/faa29f9bdce4dab79040?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Sat, 24 Oct 2026 02:35:12 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>user: 「システム設計視点の行動経済学」、第48回を始めましょう。その前に、まず前回の復習として、 AIを低賃金ロックインの打破に使え ― 「奪う仕事」と「生む仕事」の両面設計 : システム設計視点の行動経済学 (47) https://qiita.com/masko... — Qiita 人気記事 / score: 30 (システム設計視点を交えた経済・財政政策の考察記事)</description>
+</item>
+<item>
 <title>排水溝のネット、フタに付けちゃえばよかったんだ</title>
 <link>https://www.gizmodo.jp/article/2610-drain-net-plate-review/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/2610-drain-net-plate-review/</guid>
@@ -413,6 +565,14 @@
 <pubDate>Sat, 24 Oct 2026 02:11:58 +0000</pubDate>
 <category>Zenn トレンド</category>
 <description>先日Kaigi on Railsに参加し、SmartHRさんのパスキー実践入門の発表を拝聴しました。 https://kaigionrails.org/2026/talks/utakaha/ 過去に私はパスキーに関して以下の記事をまとめていました。 https://zenn.dev/smartcamp/articles/2b757d2bb4aaf8 そのため、なんとなくわかったつもりで聞いていましたが、知ったかぶりしているような箇所がいくつかありましたし、マルチテナント環境の場合の実践的な考慮点は非常に勉強になりました。 そしてふと最新の実装だとどうなっているんだろうと気になったので、再... — Zenn トレンド / score: 40 (認証ライブラリに関する技術的な解説)</description>
+</item>
+<item>
+<title>Databricks の ai_decide で「個人情報が入っているか」だけ先に判定して、LLM のマスクを減らす</title>
+<link>https://qiita.com/kamo-shika/items/6e2223296543af9a7c9e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/kamo-shika/items/6e2223296543af9a7c9e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Sat, 24 Oct 2026 02:09:43 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>ai_decide() は 2026 年 10 月時点で Beta です。挙動や制約は変わりうるので、利用前に最新のドキュメントを確認してください。 はじめに 前回の記事で、音声の文字起こしに入った個人情報を、Databricks の ai_query()（SQL... — Qiita 人気記事 / score: 55 (Databricksを用いた効率的な個人情報マスク処理の解説)</description>
 </item>
 <item>
 <title>Minisforumが公式ストアで｢ハロウィンセール｣を開催中 ｰ NASやミニPCが最大169,000円オフに</title>
@@ -469,6 +629,14 @@
 <pubDate>Sat, 24 Oct 2026 01:46:02 +0000</pubDate>
 <category>Computer Music Japan</category>
 <description>歴史上最も象徴的な金管楽器の壮大さをもたらすファンタジーの世界を現実にした新しいオーケストラ音源、EASTWEST「Hollywood Fantasy Brass」が66%OFFとなっています。 さらに、ファンタジーの世... The post 【HOLLYWOOD FANTASY VOICES(通常26,200円)プレゼント】歴史上最も象徴的な金管楽器の壮大さをもたらすファンタジーの世界を現実にした新しいオーケストラ音源、EASTWEST「Hollywood Fantasy Brass」が66%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 25 (オーケストラ音源のセール情報)</description>
+</item>
+<item>
+<title>2026年10月24日 今日のQiitaトレンド記事をポッドキャストで聴こう！</title>
+<link>https://qiita.com/ennagara128/items/a6fedbfb8bafd9b24b25?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/ennagara128/items/a6fedbfb8bafd9b24b25?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Sat, 24 Oct 2026 01:40:42 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 「ドパ資料」の作り方 https://qiit... — Qiita 人気記事 / score: 20 (トレンド記事をまとめたポッドキャストの案内)</description>
 </item>
 <item>
 <title>PHP並みの脆弱性「まだ出てくる」　米クラウドフレアCEOが予告 - 日本経済新聞</title>
@@ -599,6 +767,22 @@
 <description> — Yahoo!ニュース IT / score: 75 (PHP脆弱性が災害情報メールに及ぼした影響)</description>
 </item>
 <item>
+<title>ReActとPlan-Executeを実装して比較する — タスク特性ごとの向き不向き【TypeScript】</title>
+<link>https://qiita.com/joinclass/items/21ec0a1cb73de7a270e0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/joinclass/items/21ec0a1cb73de7a270e0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Fri, 23 Oct 2026 23:30:02 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>はじめに：1人会社で「エージェントの型」を間違えると何が起きるか 僕は合同会社ジョインクラスという1人会社で、launchd のジョブ17本を回しながら出版・受託開発・SNS配信をほぼ自動で動かしています。 その運用で何度も痛い目を見たのが、「エージェントにどこまで考えさ... — Qiita 人気記事 / score: 50 (ReActとPlan-Executeの実装比較解説)</description>
+</item>
+<item>
+<title>Copilot Studio のスキルは接続エージェントの先まで届くか (3) 検証 F と G</title>
+<link>https://qiita.com/tadanok/items/535d23fc1aaf9fd8cdc8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/tadanok/items/535d23fc1aaf9fd8cdc8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Fri, 23 Oct 2026 23:27:56 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>2026 年 10 月時点の情報です。 GitHub Copilot ハーネスの接続エージェントは、2026 年 6 月にプレビューとして提供された機能です (Copilot Studio の新機能の記載による)。ここで紹介する挙動は、機能の更新で変わる可能性があります... — Qiita 人気記事 / score: 40 (Copilot Studioスキルの検証に関する記事)</description>
+</item>
+<item>
 <title>PHP脆弱性への攻撃「1分で100万回」　米クラウドフレアCEO - 日本経済新聞</title>
 <link>https://www.nikkei.com/article/DGXZQOGN23C4G0T21C26A0000000/</link>
 <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOGN23C4G0T21C26A0000000/</guid>
@@ -615,196 +799,12 @@
 <description>【無料・AIプロンプト集】農家の確定申告、準備は年内から。経費整理の判定キットを提供 — ASCII.jp / score: 25 (農家の確定申告向けAIプロンプト集の提供)</description>
 </item>
 <item>
-<title>パナG従業員情報 外部AIにアップ</title>
-<link>https://news.yahoo.co.jp/pickup/6599885?source=rss</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6599885?source=rss</guid>
-<pubDate>Fri, 23 Oct 2026 23:14:51 +0000</pubDate>
-<category>Yahoo!ニュース IT</category>
-<description> — Yahoo!ニュース IT / score: 65 (パナソニックグループ従業員情報の外部AI流出)</description>
-</item>
-<item>
-<title>フォートナイトで「捜査官を撃つ」と発言した容疑でFBIが29歳の男を逮捕</title>
-<link>https://gigazine.net/news/20261024-fbi-arrests-fortnite-threats/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261024-fbi-arrests-fortnite-threats/</guid>
-<pubDate>Fri, 23 Oct 2026 23:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>Epic Gamesが展開する人気オンラインゲーム「フォートナイト」でゲーム内ボイスチャットを使って問題のある発言を行ったとして、アメリカに住む29歳のプレイヤー、エドワード・フリスが逮捕されました。 続きを読む... — GIGAZINE / score: 35 (フォートナイトのボイスチャット発言による逮捕)</description>
-</item>
-<item>
-<title>社員インタビュー型 組織開発プログラム、「毎月実施プラン」と社員10名から始められる「ライトプラン」を新設</title>
-<link>https://ascii.jp/elem/000/004/445/4445462/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/445/4445462/?rss</guid>
-<pubDate>Fri, 23 Oct 2026 23:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>社員インタビュー型 組織開発プログラム、「毎月実施プラン」と社員10名から始められる「ライトプラン」を新設 — ASCII.jp / score: 20 (人事・組織開発向けプログラムの新設に関するPR記事)</description>
-</item>
-<item>
-<title>株式会社ALLDAYS、「第11回 総務・人事・経理 Week【大阪】」内「HR EXPO」に出展</title>
-<link>https://ascii.jp/elem/000/004/445/4445461/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/445/4445461/?rss</guid>
-<pubDate>Fri, 23 Oct 2026 23:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>株式会社ALLDAYS、「第11回 総務・人事・経理 Week【大阪】」内「HR EXPO」に出展 — ASCII.jp / score: 10 (展示会への企業出展に関する広報発表のため)</description>
-</item>
-<item>
-<title>「Claude Mythos 5」、危害の兆候を顧みず実在の開発者を標的に──AnthropicとAISIが分析結果を公開</title>
-<link>https://www.itmedia.co.jp/news/article/2610/24/2000002564/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/24/2000002564/</guid>
-<pubDate>Fri, 23 Oct 2026 22:37:24 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>米Anthropicと英政府のAI安全保障研究所（AISI）は10月23日（現地時間）、AISIによるサイバー能力評価中に「Claude Mythos 5」が実在の開発者を標的にしたインシデントについて、アライメントの観点から分析した報告をそれぞれ公開した。両者は分析で協力して公開時期をそろえたが、報告は別々にまとめている。 この件は... — はてなブックマーク テクノロジー / score: 88 (AIモデルが開発者を標的にした重大なアライメント問題)</description>
-</item>
-<item>
-<title>XBOXがクラウドゲーミングサービスの「時間売り」のテストを開始、料金は1時間当たり約38～63円</title>
-<link>https://gigazine.net/news/20261024-xbox-cloud-playtime-pricing/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261024-xbox-cloud-playtime-pricing/</guid>
-<pubDate>Fri, 23 Oct 2026 22:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>Microsoftがクラウドゲーミングサービス「XBOX Cloud Gaming」を利用時間単位で販売するテストを開始しました。本来、XBOX Cloud Gamingは定額サービス「XBOX Game Pass」加入者向けのサービスですが、利用時間を購入するとサブスクに加入していなくても購入済み対応ゲームをクラウド経由で遊ぶことが可能です。 続きを読む... — GIGAZINE / score: 60 (クラウドゲーミングのビジネスモデル変更に関する動向)</description>
-</item>
-<item>
-<title>【来週発売】出た！ めん・わかめ・ごま・スパイスが全部20％増量！ わかめラーメン「マシマシ嵐！」</title>
-<link>https://ascii.jp/elem/000/004/445/4445320/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/445/4445320/?rss</guid>
-<pubDate>Fri, 23 Oct 2026 22:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>エースコックは10月26日、「マシマシ嵐！わかめラーメン ごま・しょうゆ」を北海道、東北、関東、信越限定で発売します。 — ASCII.jp / score: 15 (エースコックわかめラーメンの新商品発売情報)</description>
-</item>
-<item>
-<title>Quick Study</title>
-<link>https://simonwillison.net/2026/Oct/23/quick-study-painter/</link>
-<guid isPermaLink="true">https://simonwillison.net/2026/Oct/23/quick-study-painter/</guid>
-<pubDate>Fri, 23 Oct 2026 21:35:13 +0000</pubDate>
-<category>Simon Willison</category>
-<description>Tool: Quick Study Prompt to Claude Opus 5.5 High : Build an artifact where you open a photo and it rapidly (in a few seconds) paints a version of that photo using a canvas element and simulated paintbrush See also my previous experiment getting Claude Fable to simulate a watercolor illustration with P5.js. Quick Study uses Sobel edge detection , with no external libraries beyond Google Fonts. Tags: tools — Simon Willison / score: 40 (AIを活用した画像描画プロンプトの実験記録)</description>
-</item>
-<item>
-<title>Web Search on AWS Bedrock now supports domain filtering and user location controls</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-web-search-domain-user-location/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-web-search-domain-user-location/</guid>
-<pubDate>Fri, 23 Oct 2026 21:04:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Web Search on AWS Bedrock now supports two new controls that give you more precision over the results that ground a model's response: domain filtering and user location. Both are configured directly on the web_search tool in your existing OpenAI Responses API request. With domain filtering, you can restrict Web Search results to a set of domains you choose. Using the filters parameter, you specify up to 100 allowed_domains to limit results to trusted sources, or up to 100 blocked_domains to excl — AWS What's New / score: 60 (AWS Bedrockのウェブ検索機能アップデート)</description>
-</item>
-<item>
-<title>iWorkがAI機能追加で進化！折りたたみiPhone Duoにも最適化</title>
-<link>https://iphone-mania.jp/apple-607820/</link>
-<guid isPermaLink="true">https://iphone-mania.jp/apple-607820/</guid>
-<pubDate>Fri, 23 Oct 2026 21:03:32 +0000</pubDate>
-<category>iPhone Mania</category>
-<description>Appleは、オフィスアプリ「iWork（Pages、Keynote、Numbers）」の最新アップデート（バージョン15.4.1および15.4.2）を配信開始しました。 今回の更新では、AIを活用した新機能「インテリジ […] — iPhone Mania / score: 55 (AppleのオフィスアプリのAI機能追加ニュース)</description>
-</item>
-<item>
-<title>KDDI子会社が関わったモンゴル草原火災で謝罪　プレスリリースで同社の見解を表明</title>
-<link>https://ascii.jp/elem/000/004/445/4445450/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/445/4445450/?rss</guid>
-<pubDate>Fri, 23 Oct 2026 21:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>KDDIは10月23日、モンゴルの子会社が関わった草原火災についてプレスリリースで同社の見解を表明した。 — ASCII.jp / score: 45 (KDDI子会社が関わった草原火災の謝罪と見解)</description>
-</item>
-<item>
-<title>PHP脆弱性、利用サイトの半分が修正困難　バージョン古くサポート終了 - 日本経済新聞</title>
-<link>https://www.nikkei.com/article/DGXZQOUC236ST0T21C26A0000000/</link>
-<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUC236ST0T21C26A0000000/</guid>
-<pubDate>Fri, 23 Oct 2026 20:43:19 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>プログラム言語「PHP」に深刻な脆弱性が発覚した問題で、利用サイトの半数では運営団体の公表した修正作業が難しいことが分かった。長期間更新されていない「休眠サイト」も多数含まれるとみられ、閉鎖が急務となっている。デロイトトーマツサイバーがウェブ技術の調査サービス「W3Techs.com」の統計をもとに推計した。... — はてなブックマーク テクノロジー / score: 85 (PHP脆弱性と古いサイトの修正困難さに関する調査)</description>
-</item>
-<item>
-<title>Introducing Kimi K3.1 Pro</title>
-<link>https://simonwillison.net/2026/Oct/23/kimi-k31-pro/</link>
-<guid isPermaLink="true">https://simonwillison.net/2026/Oct/23/kimi-k31-pro/</guid>
-<pubDate>Fri, 23 Oct 2026 19:40:54 +0000</pubDate>
-<category>Simon Willison</category>
-<description>Introducing Kimi K3.1 Pro Kimi K3.1 Pro landed on the Kimi API today - it's not yet open weights, but Moonshot promise "Full model weights will be released by Nov 4, 2026". They're also offering a "Highspeed" version that's 2-3x faster, at twice the price (except for input token cache hits, which are priced the same). The US dollar pricing is $2.00/million tokens for input and $10/million for output - the same as GPT-6.1 Sol and half the price of Claude Opus 5.5. Moonshot's own benchmarks show K — Simon Willison / score: 60 (新しいLLM APIの登場とウェイト公開の予告。)</description>
-</item>
-<item>
-<title>iOS27.2のメッセージアプリで「ミュートしたチャット」の未読バッジを非表示可能に？</title>
-<link>https://iphone-mania.jp/ios-607816/</link>
-<guid isPermaLink="true">https://iphone-mania.jp/ios-607816/</guid>
-<pubDate>Fri, 23 Oct 2026 19:26:05 +0000</pubDate>
-<category>iPhone Mania</category>
-<description>Appleが正式リリースを控えている「iOS27.2 RC（リリース候補版）」の内部コードから、「メッセージ」アプリの新機能に関する記述が見つかりました。 将来的なアップデートにより、ミュート（通知オフ）に設定したチャッ […] — iPhone Mania / score: 20 (iOSのマイナー機能追加に関するリーク情報。)</description>
-</item>
-<item>
-<title>Apple Music公式サイトにWeb上で初代iPodを動かせるイースターエッグが登場</title>
-<link>https://iphone-mania.jp/apple-607813/</link>
-<guid isPermaLink="true">https://iphone-mania.jp/apple-607813/</guid>
-<pubDate>Fri, 23 Oct 2026 18:35:13 +0000</pubDate>
-<category>iPhone Mania</category>
-<description>Apple Musicがブランドデザインを刷新したばかりですが、Apple Music公式サイトの思わぬ場所に出現した、初代iPodを再現して実際に動かせるイースターエッグが話題となっています。 発表から25周年を迎えた […] — iPhone Mania / score: 15 (Apple公式サイトの遊び心あるイースターエッグ。)</description>
-</item>
-<item>
-<title>世界最小フルサイズカメラ「Sigma FP2」発表会＆実機速報!!＝部分積層型センサー・チルト液晶・70GBSSD・大容量バッテリー搭載!!</title>
-<link>https://ascii.jp/elem/000/004/445/4445448/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/445/4445448/?rss</guid>
-<pubDate>Fri, 23 Oct 2026 18:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>BFが出て、もうfpはないと思っていたユーザーが歓声を上げた、新FP2の発表会レポートです — ASCII.jp / score: 55 (注目フルサイズカメラの新機種発表速報)</description>
-</item>
-<item>
-<title>CVE Tracker — CVEs per month since 1999</title>
-<link>https://cve.0xosprey.com/</link>
-<guid isPermaLink="true">https://cve.0xosprey.com/</guid>
-<pubDate>Fri, 23 Oct 2026 17:30:30 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Resolution DayWeekMonthYear Range 30D1Y5Y10YAll View CountCumulativeModels Dates PublishedReserved Mode NSA 0-DaysShigure Log ScaleDownload CSVCopy PNG Data: CVEProject/cvelistV5 Counts follow the selected period and date; Cumulative shows the running total. Projection = pace vs median day-of-mon... — はてなブックマーク テクノロジー / score: 45 (CVEの推移データをまとめた技術的な統計情報)</description>
-</item>
-<item>
-<title>耳で聞く！Python で学ぶ マクロ経済学 入門 34</title>
-<link>https://qiita.com/maskot1977/items/3c68b2af16850b86253c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/maskot1977/items/3c68b2af16850b86253c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Fri, 23 Oct 2026 17:06:19 +0000</pubDate>
+<title>AIに美容室の社長を演じてもらい、コアドメインを探すヒアリング練習をしたら「強み」を掴めなかった話</title>
+<link>https://qiita.com/ken_risu_dev/items/c2e392bdb0d8ffd50fc6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/ken_risu_dev/items/c2e392bdb0d8ffd50fc6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Fri, 23 Oct 2026 23:16:55 +0000</pubDate>
 <category>Qiita 人気記事</category>
-<description>user: ソース動画のタイトル、そしてこの動画の内容について教えてください。 Gemini: ご質問ありがとうございます！お調べしたソース動画のタイトルと、その詳しい内容について分かりやすく解説いたします。 1. ソース動画のタイトル 『消費税30％で手取りが増... — Qiita 人気記事 / score: 25 (AIを活用したポッドキャストの解説記事)</description>
-</item>
-<item>
-<title>Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)</title>
-<link>https://openai.com/index/scaling-storage-one-billion-users-part-two</link>
-<guid isPermaLink="true">https://openai.com/index/scaling-storage-one-billion-users-part-two</guid>
-<pubDate>Fri, 23 Oct 2026 17:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT. — OpenAI News / score: 70 (大規模AIインフラのスケーリング事例)</description>
-</item>
-<item>
-<title>Amazon Connect Customer Global Resiliency now supports persistent chat across linked AWS Regions</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-connect-global-resiliency-persistent-chat</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-connect-global-resiliency-persistent-chat</guid>
-<pubDate>Fri, 23 Oct 2026 17:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Amazon Connect Customer Global Resiliency now provides customers a mechanism to deliver long, persistent chat experiences across linked AWS Regions. With this capability, end users can resume previous conversations with full context, metadata, and transcripts carried over across Regions, eliminating the need for end users to repeat information and allowing agents to provide personalized service with access to the entire conversation history across AWS Regions. For example, an end user can start  — AWS What's New / score: 65 (AWSサービスの可用性向上に関するアップデート)</description>
-</item>
-<item>
-<title>iPhone Duoのイメージセンサーは全てソニー製と報告〜品番を確認</title>
-<link>https://iphone-mania.jp/iphone18-607810/</link>
-<guid isPermaLink="true">https://iphone-mania.jp/iphone18-607810/</guid>
-<pubDate>Fri, 23 Oct 2026 16:50:08 +0000</pubDate>
-<category>iPhone Mania</category>
-<description>Appleの未発表製品やベータ版などに関する情報を発信しているpdfu氏（＠itspdfu）が、iPhone Duoに搭載されたカメラ用イメージセンサーの型番と仕様について、X（旧Twitter）に投稿しました。 同氏の […] — iPhone Mania / score: 30 (未発表iPhoneのセンサーに関する噂)</description>
-</item>
-<item>
-<title>LitPivot: Developing research ideas through dynamic contextualization within the literature landscape</title>
-<link>https://huggingface.co/blog/allenai/litpivot</link>
-<guid isPermaLink="true">https://huggingface.co/blog/allenai/litpivot</guid>
-<pubDate>Fri, 23 Oct 2026 16:15:50 +0000</pubDate>
-<category>Hugging Face Blog</category>
-<description> — Hugging Face Blog / score: 50 (研究アイデア支援に関するAIブログ記事)</description>
-</item>
-<item>
-<title>See what 5 builders are making with Gemini 4 Argon</title>
-<link>https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-builders/</link>
-<guid isPermaLink="true">https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-builders/</guid>
-<pubDate>Fri, 23 Oct 2026 16:00:00 +0000</pubDate>
-<category>Gemini (Google Blog)</category>
-<description>See how five builders are putting Gemini 4 Argon to work — and get inspired for your next build. — Gemini (Google Blog) / score: 40 (Geminiを活用した事例を紹介するプロモ記事。)</description>
-</item>
-<item>
-<title>スイッチ向けプログラミングソフト『プチコン4』が突如配信停止―海外でスイッチ2改造への悪用と関連させる報道も | Game*Spark - 国内・海外ゲーム情報サイト</title>
-<link>https://www.gamespark.jp/article/2026/10/23/174015.html</link>
-<guid isPermaLink="true">https://www.gamespark.jp/article/2026/10/23/174015.html</guid>
-<pubDate>Fri, 23 Oct 2026 15:52:59 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>スイッチ向けプログラミングソフト『プチコン4』が突如配信停止―海外でスイッチ2改造への悪用と関連させる報道も | Game*Spark - 国内・海外ゲーム情報サイト — はてなブックマーク テクノロジー / score: 40 (プチコン4配信停止とハードウェア改造の噂)</description>
+<description>はじめに 先日参加したドメイン駆動設計（DDD）に関する勉強会で出された課題に取り組みました。 課題の内容は、AIに「美容室を5店舗経営している社長」を演じてもらい、システム開発者の立場でヒアリングするというものです。 ヒアリングした内容をもとに業務を「コア・支援・汎用」... — Qiita 人気記事 / score: 45 (DDDのヒアリング練習におけるAI活用の試行錯誤)</description>
 </item>
 </channel>
 </rss>
