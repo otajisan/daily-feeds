@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sun, 25 Oct 2026 16:08:45 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 18:10:46 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] PHP2Shell緊急対策：日本国内向けサイトで海外IPを全部弾く、即効性のあるIPフィルタ防御</title>
@@ -269,6 +269,14 @@
 <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
 <category>Inside Java</category>
 <description>The following JEP is targeted to JDK 28: 544: Ahead-of-Time Code Compilation — Inside Java / score: 85 (JavaのAOTコンパイルに関する重要なJEP。)</description>
+</item>
+<item>
+<title>[85] 政府に緊急要請のGMO 被害拡大防げるか 利用者に呼びかけ強化 | NHKニュース</title>
+<link>https://news.web.nhk/newsweb/na/nd-20261024de64946</link>
+<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261024de64946</guid>
+<pubDate>Sat, 24 Oct 2026 22:13:02 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>GMOインターネットグループの投資家向けクラウドサービスが不正アクセスを受け、身に覚えのない取り引きが確認された問題で、会社は24日、被害の拡大を防止するため「能動的サイバー防御」を政府に緊急要請しま… — はてなブックマーク テクノロジー / score: 85 (重大なクラウドセキュリティインシデントと政府への要請)</description>
 </item>
 <item>
 <title>[85] eMudhra事件でWebアプリ開発者が点検すべきこと</title>
@@ -797,14 +805,6 @@
 <pubDate>Tue, 20 Oct 2026 11:30:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>Today at the PyTorch Conference, we released llm-d 1.0, an open-source, Kubernetes-native stack for distributed LLM inference. Co-founded by Google with Red Hat, IBM and others, we worked with a community of more than 500 contributors over 25 organizations on this Cloud Native Computing Foundation (CNCF) Sandbox project, bringing together two important communities: PyTorch, where vLLM and SGLang serve models, and Kubernetes, where distributed systems run and scale in production. llm-d 1.0 arrive — Google Cloud Blog / score: 75 (分散LLM推論向けKubernetesスタックの公開)</description>
-</item>
-<item>
-<title>[75] GoogleのGenkit、TypeScriptとGo向けに「Detached Turns」と「Human-in-the-Loop」機能を備えたAgents APIをリリース</title>
-<link>https://www.infoq.com/jp/news/2026/10/genkit-agents-api-preview/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-<guid isPermaLink="true">https://www.infoq.com/jp/news/2026/10/genkit-agents-api-preview/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-<pubDate>Tue, 20 Oct 2026 08:30:00 +0000</pubDate>
-<category>InfoQ Japan</category>
-<description>Googleは先日、フルスタックAIアプリケーションを構築するためのオープンソース基盤「Genkit」向けに、Agents APIのプレビュー版をリリースした。このAPIは、メッセージ履歴、ツール実行ループ、ストリーミング、状態の永続化、およびフロントエンドプロトコルを、単一のchat()インターフェースに統合している。このインターフェースは、エージェントがプロセス内で実行される場合でも、HTTPのエンドポイントの背後で実行される場合も同じように動作可能だ。 プレビュー版は本日よりTypeScriptおよびGoで利用可能、PythonとDartへの対応も予定されている。 By Steef-Jan Wiggers Translated by Takashi Kawase — InfoQ Japan / score: 75 (Genkit Agents APIのプレビュー版リリース)</description>
 </item>
 </channel>
 </rss>
