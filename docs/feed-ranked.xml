@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sun, 25 Oct 2026 00:25:09 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 02:13:53 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「HTTP2Shell」CVE-2026-111497、Node.js・Python・Bun・Envoyに影響 Brotliの重大脆弱性と修正版を確認|セキュリティニュースのセキュリティ対策Lab</title>
@@ -21,14 +21,6 @@
 <pubDate>Fri, 23 Oct 2026 07:44:20 +0000</pubDate>
 <category>Qiita 人気記事</category>
 <description>はじめに 2026年10月21日、PHPの重大な脆弱性 PHP2Shell（CVE-2026-109618 / CVE-2026-109619）が公開されました。CVSSv4.0スコアは9.2。PHP 5.4以降のほぼすべてのバージョンに影響し、認証不要でリモートコード実... — Qiita 人気記事 / score: 95 (重大なPHP脆弱性に対する緊急の対策情報)</description>
-</item>
-<item>
-<title>[95] 「PHP2Shell」脆弱性公表後に悪用試行が数百万件単位に増加したとCloudflareが報告、顧客向けには新ファイアウォールを開発して有効化</title>
-<link>https://gigazine.net/news/20261023-cloudflare-stats-php2shell-attempts/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261023-cloudflare-stats-php2shell-attempts/</guid>
-<pubDate>Fri, 23 Oct 2026 04:06:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>世界の多くのウェブサイトやサービスで利用されているPHPに重大な脆弱性「PHP2Shell」が見つかり緊急アップデートが行われた一件で、公表前は数千件程度だった悪用試行が公表後は爆増し、公表から12時間ほどで数百万件という単位に増加していたことをCloudflareが報告しています。 続きを読む... — GIGAZINE / score: 95 (PHPの重大な脆弱性と攻撃急増に関する緊急ニュース)</description>
 </item>
 <item>
 <title>[95] [AINews] OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months</title>
@@ -109,6 +101,14 @@
 <pubDate>Mon, 12 Oct 2026 15:46:53 +0000</pubDate>
 <category>Publickey</category>
 <description>JavaScriptランタイム「Deno」の開発元であるDeno LandとCloudflareは、Deno LandがCloudflareに合流すると発表しました。CloudflareによるDeno Landの買収と見られます（Deno ... — Publickey / score: 95 (Deno開発終了とCloudflare合流の重大なニュース)</description>
+</item>
+<item>
+<title>[90] eMudhra のインシデントは Web にとって何を意味するのか | blog.jxck.io</title>
+<link>https://blog.jxck.io/entries/2026-10-25/emudhra.html</link>
+<guid isPermaLink="true">https://blog.jxck.io/entries/2026-10-25/emudhra.html</guid>
+<pubDate>Sat, 24 Oct 2026 20:22:49 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Intro PHP2Shell は、時の総理大臣も対応を発信するなどの動きがあり、一般のニュースですら大きく報じられていた。 しかし、同時期に報じられた eMudhra のインシデントの方が、比較にならないくらいヤバいと、筆者は思っている。 Web の信頼を失墜させるほどにだ。 CA のおさらい "Mudhra" は「印」のような意味で、カ... — はてなブックマーク テクノロジー / score: 90 (Webインフラの信頼に関わる重大なCAインシデント解説)</description>
 </item>
 <item>
 <title>[90] 「Ruby」の正規表現エンジン「Onigmo」にリモートコード実行の問題、セキュリティ更新を実施／v4.0.9、v3.4.12、v3.3.13が公開。「GitLab」で発見される</title>
@@ -237,6 +237,14 @@
 <pubDate>Tue, 13 Oct 2026 16:00:00 +0000</pubDate>
 <category>Google AI Blog</category>
 <description>We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model. — Google AI Blog / score: 90 (Googleの新しい最先端AIモデルGemini 4 Argon)</description>
+</item>
+<item>
+<title>[85] eMudhra事件でWebアプリ開発者が点検すべきこと - Qiita</title>
+<link>https://qiita.com/autotaker1984/items/ef99b5791fe799a4ca66</link>
+<guid isPermaLink="true">https://qiita.com/autotaker1984/items/ef99b5791fe799a4ca66</guid>
+<pubDate>Sat, 24 Oct 2026 22:48:23 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>ブラウザがWebサイトにアクセスするとき、Webサーバは証明書チェーンの公開鍵と、サーバ証明書に基づく通信内容の署名を送信します。クライアントは、サーバ証明書から中間CA、信頼済みルートCAへと署名を辿ります。OSやブラウザには証明書ストアを管理する機能があり、そこで「信頼する」と設定した証明書に辿り着けた... — はてなブックマーク テクノロジー / score: 85 (証明書インシデントに伴う実用的な開発者の点検ガイド)</description>
 </item>
 <item>
 <title>[85] 不正アクセスを受けたGMOに金銭要求　政府に「能動的サイバー防御」要請</title>
@@ -599,28 +607,12 @@
 <description>国内の不正アクセスに悪用されたとされる中国系の人工知能（AI）ツール「ARTEX（アルテックス）」で、悪質な改造が広がっている。開発者が公開を停止しているが、第三者がダウンロード済みのARTEXを改造し攻撃力を高めている。企業はさらなる警戒が必要だ。ARTEXは模擬的な攻撃をしかけて脆弱性を探索する行動を自律的に... — はてなブックマーク テクノロジー / score: 75 (サイバー攻撃の悪用に関する重要セキュリティ情報)</description>
 </item>
 <item>
-<title>[75] Ruby で任意のユーザー入力を渡してはいけないメソッド - @znz blog</title>
-<link>https://blog.n-z.jp/blog/2026-10-09-ruby-insecure-methods.html</link>
-<guid isPermaLink="true">https://blog.n-z.jp/blog/2026-10-09-ruby-insecure-methods.html</guid>
-<pubDate>Sat, 24 Oct 2026 04:02:12 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>「Ruby」の正規表現エンジン「Onigmo」にリモートコード実行の問題、セキュリティ更新を実施 - 窓の杜 のように Ruby 本体としては、そこに任意のユーザー入力を渡しているのはプログラム側の問題で Ruby 本体の脆弱性としては扱わない、 という方針になっているメソッドがあるので、思い付く限り列挙してみます。 eval ... — はてなブックマーク テクノロジー / score: 75 (Rubyでのセキュリティ対策と脆弱性の解説)</description>
-</item>
-<item>
 <title>[75] 【速報】VS Code 1.142 に Canvas が来た！チャットの横でエージェントと同じ画面を触れる「Interactive Canvases」を整理してみた - Qiita</title>
 <link>https://qiita.com/shahin0809/items/81e6a6737b2254bdc6ed</link>
 <guid isPermaLink="true">https://qiita.com/shahin0809/items/81e6a6737b2254bdc6ed</guid>
 <pubDate>Sat, 24 Oct 2026 03:26:40 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>2026年10月14日にリリースされた VS Code 1.142 の目玉が、Canvases（Preview） です。 公式のリリースノートでは、こう紹介されています。 Canvases are interactive interfaces to collaborate with an agent. A canvas opens beside the chat, where you and the agent can inspect and update the same artifact ins... — はてなブックマーク テクノロジー / score: 75 (VS Codeの新機能Interactive Canvasesの速報解説)</description>
-</item>
-<item>
-<title>[75] 【重要】お名前.com デスクトップクラウドサービスに対するサイバー攻撃について（第4報） | GMOインターネットグループ株式会社</title>
-<link>https://group.gmo/info/alert/20261024/</link>
-<guid isPermaLink="true">https://group.gmo/info/alert/20261024/</guid>
-<pubDate>Sat, 24 Oct 2026 03:11:09 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>2026年10月24日 お知らせ【重要】お名前.com デスクトップクラウドサービスに対するサイバー攻撃について（第4報） お客様へのお見舞金のお支払いと不正取引による損失の補償について 〜能動的サイバー防御に関する措置の実施に向け、政府関係機関へ要請開始〜 GMOインターネットグループ株式会社 GMOインターネット株式... — はてなブックマーク テクノロジー / score: 75 (大規模なサイバー攻撃被害と補償の動向)</description>
 </item>
 <item>
 <title>[75] PHP問題 災害情報メールにも影響</title>
@@ -805,6 +797,14 @@
 <pubDate>Tue, 20 Oct 2026 08:30:00 +0000</pubDate>
 <category>InfoQ Japan</category>
 <description>Googleは先日、フルスタックAIアプリケーションを構築するためのオープンソース基盤「Genkit」向けに、Agents APIのプレビュー版をリリースした。このAPIは、メッセージ履歴、ツール実行ループ、ストリーミング、状態の永続化、およびフロントエンドプロトコルを、単一のchat()インターフェースに統合している。このインターフェースは、エージェントがプロセス内で実行される場合でも、HTTPのエンドポイントの背後で実行される場合も同じように動作可能だ。 プレビュー版は本日よりTypeScriptおよびGoで利用可能、PythonとDartへの対応も予定されている。 By Steef-Jan Wiggers Translated by Takashi Kawase — InfoQ Japan / score: 75 (Genkit Agents APIのプレビュー版リリース)</description>
+</item>
+<item>
+<title>[75] Amazon Bedrock Guardrails now supports Standard tier for contextual grounding checks</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-guardrails-grounding-standard/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-guardrails-grounding-standard/</guid>
+<pubDate>Tue, 20 Oct 2026 08:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon Bedrock Guardrails now offers a Standard tier for contextual grounding checks, which detect and filter hallucinations by checking whether a model response is grounded in your reference source and relevant to the user's query. The Standard tier is more robust than the Classic tier. It supports responses that include reasoning or conversational content, scores differently worded responses with the same meaning more consistently, and provides more comprehensive language support, matching the — AWS What's New / score: 75 (Amazon Bedrockの機能拡張とガードレール強化)</description>
 </item>
 </channel>
 </rss>
