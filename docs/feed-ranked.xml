@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sun, 25 Oct 2026 18:10:46 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 20:09:13 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] PHP2Shell緊急対策：日本国内向けサイトで海外IPを全部弾く、即効性のあるIPフィルタ防御</title>
@@ -29,14 +29,6 @@
 <pubDate>Wed, 21 Oct 2026 15:00:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>スクリプト言語「PHP」の開発チームは10月21日（協定世界時）、「PHP」のセキュリティアップデートを実施した。以下のバージョンが利用可能で、すべての利用者にただちにアップデートするよう強く呼びかけられている。 — 窓の杜 / score: 95 (窓の杜によるPHPの致命的脆弱性と即時アプデの呼びかけ)</description>
-</item>
-<item>
-<title>[95] Responding to core PHP vulnerabilities CVE-2026-109618 and CVE-2026-109619</title>
-<link>https://cloud.google.com/blog/products/identity-security/responding-to-core-php-vulnerabilities-cve-2026-109618-cve-2026-109619/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/products/identity-security/responding-to-core-php-vulnerabilities-cve-2026-109618-cve-2026-109619/</guid>
-<pubDate>Wed, 21 Oct 2026 14:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>Editor's note : This blog was updated on Oct. 23, 2026 at 3:20 p.m. PDT, with additional guidance from Mandiant Consulting on monitoring, patching, and remediation. We have previously updated the blog on Oct. 22, 2026, with revised guidance for Security Command Center and Cloud Armor, and on Oct. 21, 2026 . PHP and Wiz Research disclosed today two critical vulnerabilities in the core PHP language runtime that can expose applications to unauthenticated remote code execution and memory disclosure. — Google Cloud Blog / score: 95 (PHPの深刻な脆弱性とRCEへの対応)</description>
 </item>
 <item>
 <title>[95] 「PHP」に“致命的”な脆弱性2件、日本時間21日深夜に緊急のセキュリティリリースへ【15時20分追記】／「CVSS 4.0」のスコアは「9.2」、すぐに更新できるよう準備を</title>
@@ -479,14 +471,6 @@
 <description>OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace. — OpenAI News / score: 80 (OpenAIモデルのGoogle Cloud提供開始)</description>
 </item>
 <item>
-<title>[80] Google Cloud expands model choice and flexibility, bringing OpenAI models to customers</title>
-<link>https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-brings-openai-models-to-customers/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-brings-openai-models-to-customers/</guid>
-<pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>Google Cloud has always been defined by choice, enterprise-grade governance, and market-leading price-performance. Key to the foundation of openness and choice is giving customers flexibility to run agentic workloads across their choice of models and infrastructure to achieve the right balance of cost, capability, and performance. Today, we are expanding that foundation by launching OpenAI models in Google Cloud’s model garden. Google Cloud is now the only hyperscale cloud provider offering acce — Google Cloud Blog / score: 80 (Google CloudがOpenAIモデル提供へ拡大)</description>
-</item>
-<item>
 <title>[80] Patch the Planet: global response coordination as agents uncover critical vulnerabilities</title>
 <link>https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities</link>
 <guid isPermaLink="true">https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities</guid>
@@ -719,22 +703,6 @@
 <description>AWS Neuron 2.33 is now available, introducing TorchNeuron, the native PyTorch backend for AWS Trainium, in public beta. You can run models written with the standard PyTorch APIs on Amazon EC2 Trn2 and Trn3 instances, in eager mode or with torch.compile. This release also introduces Neuron Observer in public beta, which detects Trainium health issues in under a second and identifies the affected node or device. The vLLM Neuron plugin upgrades to vLLM 0.29.0, and the vLLM Omni Neuron plugin for Wa — AWS What's New / score: 75 (AWS Trainium向けのネイティブPyTorchサポート追加)</description>
 </item>
 <item>
-<title>[75] Hardware-backed security at global scale: Confidential G4 with NVIDIA Blackwell is GA</title>
-<link>https://cloud.google.com/blog/topics/ai-infrastructure/confidential-g4-gpus-are-ga/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/topics/ai-infrastructure/confidential-g4-gpus-are-ga/</guid>
-<pubDate>Wed, 21 Oct 2026 11:30:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>Bringing autonomous agents into production means processing sensitive data and valuable intellectual property in real time. Protecting proprietary model weights, user prompts, and generated outputs requires security that safeguards data while it is actively being computed. As part of our efforts to enable your enterprise securely, today we are announcing that Confidential Computing on Google Cloud’s G4 instances enabled by NVIDIA RTX PRO 6000 Blackwell Server edition GPUs is now generally availa — Google Cloud Blog / score: 75 (NVIDIA Blackwell搭載の機密G4インスタンスGA)</description>
-</item>
-<item>
-<title>[75] Google Cloud and NVIDIA expand co-engineering collaboration to scale infrastructure for the agentic era</title>
-<link>https://cloud.google.com/blog/topics/ai-infrastructure/google-cloud-infrastructure-at-nvidia-gtc-berlin-2026/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/topics/ai-infrastructure/google-cloud-infrastructure-at-nvidia-gtc-berlin-2026/</guid>
-<pubDate>Wed, 21 Oct 2026 11:30:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>As enterprises transition to continuous, multi-step agentic workflows, traditional infrastructure is hitting its limits. But raw performance is only part of the equation. To truly scale agentic AI, enterprises also need the flexibility to run the right models for the right tasks, alongside the data and operational sovereignty required to maintain verifiable control over both their sensitive intellectual property and the underlying infrastructure. Today at NVIDIA GTC Berlin 2026, we are announcin — Google Cloud Blog / score: 75 (Google CloudとNVIDIAのエージェントAI基盤協業)</description>
-</item>
-<item>
 <title>[75] Microsoft、TypeScript 7.1 Betaを公開 ——型検査を高速化し外部ツール向けAPIを追加</title>
 <link>https://gihyo.jp/article/2026/10/_typescript-7.1-beta?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/10/_typescript-7.1-beta?utm_source=feed</guid>
@@ -767,14 +735,6 @@
 <description>Try Amazon ECS Gateway, a new account-level resource that simplifies ingress networking for containerized workloads by dynamically provisioning and managing the necessary infrastructure on your behalf, with all resources created directly in your account. — AWS News Blog / score: 75 (ECS向けフルマネージドなイングレスソリューションの新機能)</description>
 </item>
 <item>
-<title>[75] Claude Opus 5.5 and Claude Sonnet 5.5 are now available in Google Antigravity</title>
-<link>https://cloud.google.com/blog/products/ai-machine-learning/claude-opus-55-and-claude-sonnet-55-available-in-antigravity/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/products/ai-machine-learning/claude-opus-55-and-claude-sonnet-55-available-in-antigravity/</guid>
-<pubDate>Tue, 20 Oct 2026 16:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>Whether you are iterating on a quick bug fix or planning a complex migration, different tasks call for different models. In keeping with Google Cloud's commitment to an open ecosystem and to give developers the right model for every job, Claude Opus 5.5 and Claude Sonnet 5.5 are now available in Google Antigravity for Google Cloud customers. Claude Opus 5.5 is built for complex work while Claude Sonnet 5.5 is a faster, lower-cost complement. Once enabled by an administrator, developers can selec — Google Cloud Blog / score: 75 (GoogleプラットフォームでのClaude新モデル提供)</description>
-</item>
-<item>
 <title>[75] 「Cloudflare OS」のマネージドサービス提供へ。GitHubとの接続やGmailとの連携強化など</title>
 <link>https://www.publickey1.jp/blog/26/cloudflare_osgithubgmail.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/cloudflare_osgithubgmail.html</guid>
@@ -791,20 +751,60 @@
 <description>Amazon Bedrock now supports structured outputs for all Anthropic Claude models across both the bedrock-runtime and the bedrock-mantle endpoint. Whether you call Claude through boto3 and the bedrock-runtime APIs or through the Messages API and the bedrock-mantle endpoint, you can now receive schema-compliant JSON responses that conform to a defined structure, without custom parsing, retry logic, or post-processing. With structured outputs for Claude on Amazon Bedrock, you can automate reliable, s — AWS What's New / score: 75 (Amazon BedrockでのClaude構造化出力サポート)</description>
 </item>
 <item>
-<title>[75] TorchTPU is now open source: Run native PyTorch on TPUs</title>
-<link>https://cloud.google.com/blog/topics/ai-infrastructure/torchtpu-is-now-open-source-run-native-pytorch-on-tpus/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/topics/ai-infrastructure/torchtpu-is-now-open-source-run-native-pytorch-on-tpus/</guid>
-<pubDate>Tue, 20 Oct 2026 11:30:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>Today at PyTorch Conference 2026, we announced a range of new products and integrations designed to help you run PyTorch effectively on Google Cloud or in your own infrastructure. Notably, TorchTPU, our native PyTorch stack for Google TPUs, is now available as open source on GitHub. With TorchTPU, TPUs join GPUs and CPUs as a native option for PyTorch. You can now train, serve, and deploy models on TPUs using the tools you already rely on, including vLLM, SGLang, llm-d, TorchTitan, Ray, TorchRec — Google Cloud Blog / score: 75 (PyTorchのTPUネイティブ対応オープンソース化)</description>
+<title>[75] GoogleのGenkit、TypeScriptとGo向けに「Detached Turns」と「Human-in-the-Loop」機能を備えたAgents APIをリリース</title>
+<link>https://www.infoq.com/jp/news/2026/10/genkit-agents-api-preview/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+<guid isPermaLink="true">https://www.infoq.com/jp/news/2026/10/genkit-agents-api-preview/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+<pubDate>Tue, 20 Oct 2026 08:30:00 +0000</pubDate>
+<category>InfoQ Japan</category>
+<description>Googleは先日、フルスタックAIアプリケーションを構築するためのオープンソース基盤「Genkit」向けに、Agents APIのプレビュー版をリリースした。このAPIは、メッセージ履歴、ツール実行ループ、ストリーミング、状態の永続化、およびフロントエンドプロトコルを、単一のchat()インターフェースに統合している。このインターフェースは、エージェントがプロセス内で実行される場合でも、HTTPのエンドポイントの背後で実行される場合も同じように動作可能だ。 プレビュー版は本日よりTypeScriptおよびGoで利用可能、PythonとDartへの対応も予定されている。 By Steef-Jan Wiggers Translated by Takashi Kawase — InfoQ Japan / score: 75 (Genkit Agents APIのプレビュー版リリース)</description>
 </item>
 <item>
-<title>[75] Announcing llm-d 1.0: Open distributed inference for agents on Google Cloud TPUs and GPUs</title>
-<link>https://cloud.google.com/blog/topics/ai-infrastructure/llm-d-1-0-an-open-source-stack-for-distributed-inference/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/topics/ai-infrastructure/llm-d-1-0-an-open-source-stack-for-distributed-inference/</guid>
-<pubDate>Tue, 20 Oct 2026 11:30:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>Today at the PyTorch Conference, we released llm-d 1.0, an open-source, Kubernetes-native stack for distributed LLM inference. Co-founded by Google with Red Hat, IBM and others, we worked with a community of more than 500 contributors over 25 organizations on this Cloud Native Computing Foundation (CNCF) Sandbox project, bringing together two important communities: PyTorch, where vLLM and SGLang serve models, and Kubernetes, where distributed systems run and scale in production. llm-d 1.0 arrive — Google Cloud Blog / score: 75 (分散LLM推論向けKubernetesスタックの公開)</description>
+<title>[75] Amazon Bedrock Guardrails now supports Standard tier for contextual grounding checks</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-guardrails-grounding-standard/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-guardrails-grounding-standard/</guid>
+<pubDate>Tue, 20 Oct 2026 08:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon Bedrock Guardrails now offers a Standard tier for contextual grounding checks, which detect and filter hallucinations by checking whether a model response is grounded in your reference source and relevant to the user's query. The Standard tier is more robust than the Classic tier. It supports responses that include reasoning or conversational content, scores differently worded responses with the same meaning more consistently, and provides more comprehensive language support, matching the — AWS What's New / score: 75 (Amazon Bedrockの機能拡張とガードレール強化)</description>
+</item>
+<item>
+<title>[75] Amazon Bedrock Advanced Prompt Optimization now supports prompt shortening</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-prompt-optimization-shortening/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-prompt-optimization-shortening/</guid>
+<pubDate>Tue, 20 Oct 2026 08:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon Bedrock Advanced Prompt Optimization now supports prompt shortening, an optional setting that reduces the length of your prompt while maintaining or improving your evaluation scores. Advanced Prompt Optimization optimizes prompts for any model on Amazon Bedrock against your own evaluation criteria. Until now, optimization focused on quality alone. Optimized prompts were often longer than the original. Longer prompts raise input token costs and can increase time to first token, which matte — AWS What's New / score: 75 (Amazon Bedrockのプロンプト最適化機能のアップデート)</description>
+</item>
+<item>
+<title>[75] Amazon ElastiCache Serverless for Valkey now supports online migration with zero downtime</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-elasticache-serverless-valkey-online-migration/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-elasticache-serverless-valkey-online-migration/</guid>
+<pubDate>Tue, 20 Oct 2026 07:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon ElastiCache Serverless for Valkey now supports online migration from self-managed Valkey and Redis OSS on Amazon EC2 with zero downtime. Zero downtime means zero Errors returned to the client during migration, measured the same way the ElastiCache SLA measures availability. Your application continues reading and writing through cutover, and you do not need third-party replication tools. Online migration runs in three steps. You prepare the migration, start the data sync, and complete the  — AWS What's New / score: 75 (ゼロダウンタイム移行対応の実用的な機能追加)</description>
+</item>
+<item>
+<title>[75] Reflect, Transform, Accelerate: Bringing GPU Computing to Java</title>
+<link>https://inside.java/2026/10/20/devoxxbelgium-bringing-gpu-computing-to-java/</link>
+<guid isPermaLink="true">https://inside.java/2026/10/20/devoxxbelgium-bringing-gpu-computing-to-java/</guid>
+<pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+<category>Inside Java</category>
+<description>Java’s code reflection API, developed in OpenJDK Project Babylon, opens a new path to targeting foreign programming models directly from Java—including GPUs. This talk introduces the Heterogeneous Accelerator Toolkit (HAT), a Java parallel programming framework that accelerates modern workloads on specialised hardware through three core stages: reflect, transform, and accelerate. Through examples of tensor-core programming and matrix multiplication—fundamental building blocks for AI and natural- — Inside Java / score: 75 (JavaからGPUコンピューティングを活用するプロジェクトの解説)</description>
+</item>
+<item>
+<title>[75] AWS Transform、Azure Functions用のコードをAWS Lambda用に変換など、Microsoft AzureからAWSへの移行に対応</title>
+<link>https://www.publickey1.jp/blog/26/aws_transformazure_functionsaws_lambdamicrosoft_azureaws.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/aws_transformazure_functionsaws_lambdamicrosoft_azureaws.html</guid>
+<pubDate>Mon, 19 Oct 2026 15:47:48 +0000</pubDate>
+<category>Publickey</category>
+<description>Amazon Web Services（AWS）は、Azure SDKで書かれた.NETアプリケーションをAWS SDKを用いたコードに変換する新機能をAWS Transformに搭載したと発表しました。 これによりMicrosoft Az... — Publickey / score: 75 (AzureからAWSへの移行支援ツールで実用的)</description>
+</item>
+<item>
+<title>[75] 性能とスピードをアップした「DeepSeek-V4.1-Flash-1017」登場、DeepSeekのSearch APIとFetch APIをすべてのユーザーに公開</title>
+<link>https://gihyo.jp/article/2026/10/deepseek-v4-1-flash-1017?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/10/deepseek-v4-1-flash-1017?utm_source=feed</guid>
+<pubDate>Mon, 19 Oct 2026 06:20:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>DeepSeekは2026年10月17日、9月に発表した軽量なマルチモーダルMoEモデル「DeepSeek-V4.1-Flash」のアップデート版となる「DeepSeek-V4.1-Flash-1017」を発表した。 — gihyo.jp / score: 75 (DeepSeekの新型モデルとAPI公開の速報)</description>
 </item>
 </channel>
 </rss>
