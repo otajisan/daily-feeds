@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sat, 24 Oct 2026 22:07:57 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 00:25:09 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「HTTP2Shell」CVE-2026-111497、Node.js・Python・Bun・Envoyに影響 Brotliの重大脆弱性と修正版を確認|セキュリティニュースのセキュリティ対策Lab</title>
@@ -255,14 +255,6 @@
 <description>OpenAIは、予測不可能性の高さを主な理由として、最先端AIモデルのトレーニングの際に実際のインターネットに接続可能な環境を使用しない方針を明らかにしました。 その代わりとして、キャッシュされたウェブコンテンツや、オフラインのウェブインフラストラクチャーを用意し、トレーニングに活用するとしています。 こ... — はてなブックマーク テクノロジー / score: 85 (AIモデルのセキュリティとインターネット遮断方針)</description>
 </item>
 <item>
-<title>[85] 不正アクセス受けたＧＭＯ、政府に「能動的サイバー防御」の適用を緊急要請</title>
-<link>https://www.yomiuri.co.jp/economy/20261024-GYT1T00180/</link>
-<guid isPermaLink="true">https://www.yomiuri.co.jp/economy/20261024-GYT1T00180/</guid>
-<pubDate>Sat, 24 Oct 2026 04:45:05 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>【読売新聞】 ＧＭＯインターネットのＦＸ（外国為替証拠金）取引などに使うクラウドサービスが不正アクセスを受けた問題で、同社は２４日、不正アクセスが原因の不正取引によって生じた損害を利用者に補償する方針を発表した。利用者全員に５０００ — はてなブックマーク テクノロジー / score: 85 (GMOの不正アクセスと能動的サイバー防御要請のニュース)</description>
-</item>
-<item>
 <title>[85] Amazon Corretto October 2026 Quarterly Updates</title>
 <link>https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-corretto-october-2026-quarterly-updates</link>
 <guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-corretto-october-2026-quarterly-updates</guid>
@@ -317,14 +309,6 @@
 <pubDate>Thu, 22 Oct 2026 07:57:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>「やじうまの杜」では、ニュース・レビューにこだわらない幅広い話題をお伝えします。 — 窓の杜 / score: 85 (eMudhra証明書問題の対処まとめ)</description>
-</item>
-<item>
-<title>[85] 【速報：2026/10/22 04:00】PHP2Shellの対応状況まとめ：PHP本体、Linux、レンタルサーバ、KUSANAGI</title>
-<link>https://zenn.dev/tyamadadd/articles/c02a27af771dd2</link>
-<guid isPermaLink="true">https://zenn.dev/tyamadadd/articles/c02a27af771dd2</guid>
-<pubDate>Wed, 21 Oct 2026 20:00:09 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>PHPerの皆様、お疲れさまでした。 少し体力が残っているので、現在の対応状況をまとめてみました。 生成AIでまとめたものを当方で確認しております。 また気になる追加情報を補足に追加しました。 2026年10月21日、PHP の重大な脆弱性2件（CVE-2026-109618 / CVE-2026-109619、通称「PHP2Shell」）の修正版が公開されました。 PHP 本体の修正版がリリースされても、実際に自分のサーバへ届くかどうかは、利用している OS のパッケージ、レンタルサーバ事業者、KUSANAGI などの実行環境の対応状況に左右されます。 各所の一次情報を確認した範囲で、... — Zenn トレンド / score: 85 (PHP重大脆弱性「PHP2Shell」の対応状況)</description>
 </item>
 <item>
 <title>[85] Cloudflare、TypeScriptをRustに移植した「tsrs」を発表。TypeScript 7より最大で70％少ないメモリで8倍速。今後、LSPなどTypeScriptの全機能をサポート予定</title>
@@ -575,6 +559,14 @@
 <description>Structured Concurrency is the next major feature from Project Loom. In this session, we will explain the motivation and design of structured concurrency, show how to use it effectively, and discuss the lessons learned as the feature evolved. We'll also look beneath the surface at the new lower-level API behind the latest design, offering an early glimpse of work that is expected to form the basis of a future lower-level structured concurrency API. — Inside Java / score: 80 (Project Loomの構造化コンカレンシー解説)</description>
 </item>
 <item>
+<title>[75] GMO不正接続 一瞬で119万円消失</title>
+<link>https://news.yahoo.co.jp/pickup/6599992?source=rss</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6599992?source=rss</guid>
+<pubDate>Sat, 24 Oct 2026 22:27:48 +0000</pubDate>
+<category>Yahoo!ニュース IT</category>
+<description> — Yahoo!ニュース IT / score: 75 (GMOの不正接続に関するセキュリティインシデント)</description>
+</item>
+<item>
 <title>[75] ＧＭＯの「能動的サイバー防御」緊急要請、政府関係者「求めに応じ発動決める制度ではない」</title>
 <link>https://www.yomiuri.co.jp/politics/20261024-GYT1T00257/</link>
 <guid isPermaLink="true">https://www.yomiuri.co.jp/politics/20261024-GYT1T00257/</guid>
@@ -661,14 +653,6 @@
 <pubDate>Fri, 23 Oct 2026 09:55:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>AI開発企業のLiquid AIが低遅延性を重視した推論エンジン「Liquid RIPL」を発表しました。 続きを読む... — GIGAZINE / score: 75 (低遅延実行のための新しいAI推論エンジンの登場)</description>
-</item>
-<item>
-<title>[75] 「バグのないソフトウェア」の実現を目指してAnthropicが「AIを用いて数学的にバグがないことを証明する」という手法を開発</title>
-<link>https://gigazine.net/news/20261023-anthropic-formal-verification/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261023-anthropic-formal-verification/</guid>
-<pubDate>Fri, 23 Oct 2026 03:58:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>AIの高性能化によって、さまざまなソフトウェアのバグが大量に発見されており、PHPの緊急アップデートのように大きな影響を及ぼす事例も現れています。そんな中、AI企業のAnthropicが「ソフトウェアにバグがないことを形式的検証で証明する」という手法に取り組んでいることを明らかにしました。 続きを読む... — GIGAZINE / score: 75 (AIによる形式的検証でバグゼロを目指す取り組み)</description>
 </item>
 <item>
 <title>[75] 「1Password for Agents」が発表、AIエージェントにパスワードを見せずにサインインさせられる／個人・ファミリー向けは追加料金なし、「Claude Duet」「ChatGPT Work」などと連携</title>
@@ -805,6 +789,22 @@
 <pubDate>Tue, 20 Oct 2026 11:30:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>Today at PyTorch Conference 2026, we announced a range of new products and integrations designed to help you run PyTorch effectively on Google Cloud or in your own infrastructure. Notably, TorchTPU, our native PyTorch stack for Google TPUs, is now available as open source on GitHub. With TorchTPU, TPUs join GPUs and CPUs as a native option for PyTorch. You can now train, serve, and deploy models on TPUs using the tools you already rely on, including vLLM, SGLang, llm-d, TorchTitan, Ray, TorchRec — Google Cloud Blog / score: 75 (PyTorchのTPUネイティブ対応オープンソース化)</description>
+</item>
+<item>
+<title>[75] Announcing llm-d 1.0: Open distributed inference for agents on Google Cloud TPUs and GPUs</title>
+<link>https://cloud.google.com/blog/topics/ai-infrastructure/llm-d-1-0-an-open-source-stack-for-distributed-inference/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/ai-infrastructure/llm-d-1-0-an-open-source-stack-for-distributed-inference/</guid>
+<pubDate>Tue, 20 Oct 2026 11:30:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Today at the PyTorch Conference, we released llm-d 1.0, an open-source, Kubernetes-native stack for distributed LLM inference. Co-founded by Google with Red Hat, IBM and others, we worked with a community of more than 500 contributors over 25 organizations on this Cloud Native Computing Foundation (CNCF) Sandbox project, bringing together two important communities: PyTorch, where vLLM and SGLang serve models, and Kubernetes, where distributed systems run and scale in production. llm-d 1.0 arrive — Google Cloud Blog / score: 75 (分散LLM推論向けKubernetesスタックの公開)</description>
+</item>
+<item>
+<title>[75] GoogleのGenkit、TypeScriptとGo向けに「Detached Turns」と「Human-in-the-Loop」機能を備えたAgents APIをリリース</title>
+<link>https://www.infoq.com/jp/news/2026/10/genkit-agents-api-preview/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+<guid isPermaLink="true">https://www.infoq.com/jp/news/2026/10/genkit-agents-api-preview/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+<pubDate>Tue, 20 Oct 2026 08:30:00 +0000</pubDate>
+<category>InfoQ Japan</category>
+<description>Googleは先日、フルスタックAIアプリケーションを構築するためのオープンソース基盤「Genkit」向けに、Agents APIのプレビュー版をリリースした。このAPIは、メッセージ履歴、ツール実行ループ、ストリーミング、状態の永続化、およびフロントエンドプロトコルを、単一のchat()インターフェースに統合している。このインターフェースは、エージェントがプロセス内で実行される場合でも、HTTPのエンドポイントの背後で実行される場合も同じように動作可能だ。 プレビュー版は本日よりTypeScriptおよびGoで利用可能、PythonとDartへの対応も予定されている。 By Steef-Jan Wiggers Translated by Takashi Kawase — InfoQ Japan / score: 75 (Genkit Agents APIのプレビュー版リリース)</description>
 </item>
 </channel>
 </rss>
