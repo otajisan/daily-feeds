@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sun, 25 Oct 2026 04:10:07 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 06:14:08 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「HTTP2Shell」CVE-2026-111497、Node.js・Python・Bun・Envoyに影響 Brotliの重大脆弱性と修正版を確認|セキュリティニュースのセキュリティ対策Lab</title>
@@ -231,6 +231,14 @@
 <description>We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model. — Google AI Blog / score: 90 (Googleの新しい最先端AIモデルGemini 4 Argon)</description>
 </item>
 <item>
+<title>[85] Apple、2026年10月に認証局eMudhraで発生した中間CA証明書の秘密鍵漏洩問題に対し証明書をブロックし、システム管理者や開発者向けにcurlやgitなどコマンドラインツールに対する暫定的な回避策を公開。</title>
+<link>https://applech2.com/archives/20261025-apple-blocks-compromised-emudhra-ca-certificates.html</link>
+<guid isPermaLink="true">https://applech2.com/archives/20261025-apple-blocks-compromised-emudhra-ca-certificates.html</guid>
+<pubDate>Sun, 25 Oct 2026 02:37:31 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Apple、2026年10月に認証局eMudhraで発生した中間CA証明書の秘密鍵漏洩問題に対し証明書をブロックし、システム管理者向けにcurlやgit、opensslの問題に対してはアップデートまでに暫定的な回避策を公開。ます。詳細は以下から。 電子証明書を発行するインドの認証局eMudhraは2026年10月20日、2025年4月30日に8つの中間C... — はてなブックマーク テクノロジー / score: 85 (証明書漏洩に対する開発者向け回避策)</description>
+</item>
+<item>
 <title>[85] eMudhra事件でWebアプリ開発者が点検すべきこと - Qiita</title>
 <link>https://qiita.com/autotaker1984/items/ef99b5791fe799a4ca66</link>
 <guid isPermaLink="true">https://qiita.com/autotaker1984/items/ef99b5791fe799a4ca66</guid>
@@ -245,22 +253,6 @@
 <pubDate>Sat, 24 Oct 2026 15:27:01 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>GitHub CLI (gh) recently added short-lived access tokens that are refreshed automatically. It is a public preview and opt-in for now, but it is planned to become the default. https://github.blog/changelog/2026-10-21-github-cli-opt-in-to-expiring-auto-refreshing-oauth-tokens/ This is a welcome cha... — はてなブックマーク テクノロジー / score: 85 (GitHub CLIのトークン仕様に関する脆弱性の指摘)</description>
-</item>
-<item>
-<title>[85] 不正アクセスを受けたGMOに金銭要求　政府に「能動的サイバー防御」要請</title>
-<link>https://www.watch.impress.co.jp/docs/news/2150944.html</link>
-<guid isPermaLink="true">https://www.watch.impress.co.jp/docs/news/2150944.html</guid>
-<pubDate>Sat, 24 Oct 2026 08:31:27 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>不正アクセスを受けたGMOに金銭要求 政府に「能動的サイバー防御」要請 — はてなブックマーク テクノロジー / score: 85 (大手企業のセキュリティインシデントと国家のサイバー防御に関わる重要ニュース)</description>
-</item>
-<item>
-<title>[85] OpenAI、訓練中の最先端AIをインターネットから遮断すると発表。モデルの不正アクセス受け | テクノエッジ TechnoEdge</title>
-<link>https://www.techno-edge.net/article/2026/10/24/5625.html</link>
-<guid isPermaLink="true">https://www.techno-edge.net/article/2026/10/24/5625.html</guid>
-<pubDate>Sat, 24 Oct 2026 05:40:25 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>OpenAIは、予測不可能性の高さを主な理由として、最先端AIモデルのトレーニングの際に実際のインターネットに接続可能な環境を使用しない方針を明らかにしました。 その代わりとして、キャッシュされたウェブコンテンツや、オフラインのウェブインフラストラクチャーを用意し、トレーニングに活用するとしています。 こ... — はてなブックマーク テクノロジー / score: 85 (AIモデルのセキュリティとインターネット遮断方針)</description>
 </item>
 <item>
 <title>[85] Amazon Corretto October 2026 Quarterly Updates</title>
@@ -591,14 +583,6 @@
 <description>【読売新聞】 ＧＭＯインターネットのクラウドサービスが不正アクセスを受けた問題で、同社は２４日、不正アクセスが原因で個人投資家らのＦＸ（外国為替証拠金）の取引で生じた損害を補償する方針を発表した。今月１日に本格施行された能動的サイバ — はてなブックマーク テクノロジー / score: 75 (サイバー防御とインシデント補償に関する重要なニュース)</description>
 </item>
 <item>
-<title>[75] 「お名前.com デスクトップクラウド」ご利用のお客様へ改めてのお願い（第5報） | GMOインターネットグループ株式会社</title>
-<link>https://group.gmo/info/alert/2026102402/</link>
-<guid isPermaLink="true">https://group.gmo/info/alert/2026102402/</guid>
-<pubDate>Sat, 24 Oct 2026 09:39:37 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>GMOインターネットグループ株式会社 GMOインターネット株式会社 2026年10月21日から本日にかけてお知らせいたしました「お名前.com デスクトップクラウド」への第三者による不正アクセスについて、その後の調査状況およびお客様へのお願いを、改めてお知らせいたします。 お客様には、多大なるご迷惑とご心配をおかけし... — はてなブックマーク テクノロジー / score: 75 (クラウドサービスの重大な不正アクセス事案)</description>
-</item>
-<item>
 <title>[75] [AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed</title>
 <link>https://latent.space/p/ainews-kimi-31/</link>
 <guid isPermaLink="true">https://latent.space/p/ainews-kimi-31/</guid>
@@ -613,14 +597,6 @@
 <pubDate>Sat, 24 Oct 2026 05:43:26 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>国内の不正アクセスに悪用されたとされる中国系の人工知能（AI）ツール「ARTEX（アルテックス）」で、悪質な改造が広がっている。開発者が公開を停止しているが、第三者がダウンロード済みのARTEXを改造し攻撃力を高めている。企業はさらなる警戒が必要だ。ARTEXは模擬的な攻撃をしかけて脆弱性を探索する行動を自律的に... — はてなブックマーク テクノロジー / score: 75 (サイバー攻撃の悪用に関する重要セキュリティ情報)</description>
-</item>
-<item>
-<title>[75] 【速報】VS Code 1.142 に Canvas が来た！チャットの横でエージェントと同じ画面を触れる「Interactive Canvases」を整理してみた - Qiita</title>
-<link>https://qiita.com/shahin0809/items/81e6a6737b2254bdc6ed</link>
-<guid isPermaLink="true">https://qiita.com/shahin0809/items/81e6a6737b2254bdc6ed</guid>
-<pubDate>Sat, 24 Oct 2026 03:26:40 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>2026年10月14日にリリースされた VS Code 1.142 の目玉が、Canvases（Preview） です。 公式のリリースノートでは、こう紹介されています。 Canvases are interactive interfaces to collaborate with an agent. A canvas opens beside the chat, where you and the agent can inspect and update the same artifact ins... — はてなブックマーク テクノロジー / score: 75 (VS Codeの新機能Interactive Canvasesの速報解説)</description>
 </item>
 <item>
 <title>[75] PHP問題 災害情報メールにも影響</title>
@@ -653,6 +629,14 @@
 <pubDate>Fri, 23 Oct 2026 09:55:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>AI開発企業のLiquid AIが低遅延性を重視した推論エンジン「Liquid RIPL」を発表しました。 続きを読む... — GIGAZINE / score: 75 (低遅延実行のための新しいAI推論エンジンの登場)</description>
+</item>
+<item>
+<title>[75] 【速報】VS Code 1.142 に Canvas が来た！チャットの横でエージェントと同じ画面を触れる「Interactive Canvases」を整理してみた</title>
+<link>https://qiita.com/shahin0809/items/81e6a6737b2254bdc6ed?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/shahin0809/items/81e6a6737b2254bdc6ed?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Fri, 23 Oct 2026 06:50:22 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>はじめに 常に VS Code / GitHub Copilot の動向を追っている、Microsoft Student Ambassador 兼 GitHub Copilot User Group Japan（Gh-CUG）運営のロホマン シャヒンです！ この記事が... — Qiita 人気記事 / score: 75 (VS Codeの新機能Interactive Canvasesの速報解説)</description>
 </item>
 <item>
 <title>[75] 「1Password for Agents」が発表、AIエージェントにパスワードを見せずにサインインさせられる／個人・ファミリー向けは追加料金なし、「Claude Duet」「ChatGPT Work」などと連携</title>
@@ -805,6 +789,22 @@
 <pubDate>Tue, 20 Oct 2026 08:30:00 +0000</pubDate>
 <category>InfoQ Japan</category>
 <description>Googleは先日、フルスタックAIアプリケーションを構築するためのオープンソース基盤「Genkit」向けに、Agents APIのプレビュー版をリリースした。このAPIは、メッセージ履歴、ツール実行ループ、ストリーミング、状態の永続化、およびフロントエンドプロトコルを、単一のchat()インターフェースに統合している。このインターフェースは、エージェントがプロセス内で実行される場合でも、HTTPのエンドポイントの背後で実行される場合も同じように動作可能だ。 プレビュー版は本日よりTypeScriptおよびGoで利用可能、PythonとDartへの対応も予定されている。 By Steef-Jan Wiggers Translated by Takashi Kawase — InfoQ Japan / score: 75 (Genkit Agents APIのプレビュー版リリース)</description>
+</item>
+<item>
+<title>[75] Amazon Bedrock Guardrails now supports Standard tier for contextual grounding checks</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-guardrails-grounding-standard/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-guardrails-grounding-standard/</guid>
+<pubDate>Tue, 20 Oct 2026 08:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon Bedrock Guardrails now offers a Standard tier for contextual grounding checks, which detect and filter hallucinations by checking whether a model response is grounded in your reference source and relevant to the user's query. The Standard tier is more robust than the Classic tier. It supports responses that include reasoning or conversational content, scores differently worded responses with the same meaning more consistently, and provides more comprehensive language support, matching the — AWS What's New / score: 75 (Amazon Bedrockの機能拡張とガードレール強化)</description>
+</item>
+<item>
+<title>[75] Amazon Bedrock Advanced Prompt Optimization now supports prompt shortening</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-prompt-optimization-shortening/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-prompt-optimization-shortening/</guid>
+<pubDate>Tue, 20 Oct 2026 08:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon Bedrock Advanced Prompt Optimization now supports prompt shortening, an optional setting that reduces the length of your prompt while maintaining or improving your evaluation scores. Advanced Prompt Optimization optimizes prompts for any model on Amazon Bedrock against your own evaluation criteria. Until now, optimization focused on quality alone. Optimized prompts were often longer than the original. Longer prompts raise input token costs and can increase time to first token, which matte — AWS What's New / score: 75 (Amazon Bedrockのプロンプト最適化機能のアップデート)</description>
 </item>
 </channel>
 </rss>
