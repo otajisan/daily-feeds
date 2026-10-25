@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sun, 25 Oct 2026 02:13:53 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 04:10:07 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「HTTP2Shell」CVE-2026-111497、Node.js・Python・Bun・Envoyに影響 Brotliの重大脆弱性と修正版を確認|セキュリティニュースのセキュリティ対策Lab</title>
@@ -127,14 +127,6 @@
 <description> — CodeZine / score: 90 (未知のOSS脆弱性400件超の修正という重要トピック)</description>
 </item>
 <item>
-<title>[90] PHPの脆弱性をHacker Newsにリークした人物が「秘密だと知らなかった」と謝罪</title>
-<link>https://gigazine.net/news/20261023-php-rce-unknowingly/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261023-php-rce-unknowingly/</guid>
-<pubDate>Fri, 23 Oct 2026 04:10:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>ウェブサイトやウェブアプリの開発に広く使われているプログラミング言語「PHP」に深刻な脆弱(ぜいじゃく)性が見つかったことで、日本時間の2026年10月21日23時にセキュリティ更新プログラムおよび詳細情報が公開されることがアナウンスされ、多くのウェブサイトやサービスが緊急メンテナンス入りする騒動に発展しました。この件はもともと、PHPセキュリティチームがパッチを公開予定でしたが、ソーシャルニュースサイトのHacker Newsで脆弱性情報が漏えいしたため、前倒しになりました。これを投稿したユーザーがHacker Newsに再度登場し、「PHPの情報公開禁止について何も知らず、とんでもない形で裏目に出た」と騒動に対して謝罪しています。 続きを読む... — GIGAZINE / score: 90 (PHP深刻な脆弱性と情報リークの経緯に関する重大な話題)</description>
-</item>
-<item>
 <title>[90] Node.jsが26.x・24.x・22.x向けにセキュリティリリースを公開、深刻度「高」4件を修正</title>
 <link>https://codezine.jp/article/detail/30109</link>
 <guid isPermaLink="true">https://codezine.jp/article/detail/30109</guid>
@@ -245,6 +237,14 @@
 <pubDate>Sat, 24 Oct 2026 22:48:23 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>ブラウザがWebサイトにアクセスするとき、Webサーバは証明書チェーンの公開鍵と、サーバ証明書に基づく通信内容の署名を送信します。クライアントは、サーバ証明書から中間CA、信頼済みルートCAへと署名を辿ります。OSやブラウザには証明書ストアを管理する機能があり、そこで「信頼する」と設定した証明書に辿り着けた... — はてなブックマーク テクノロジー / score: 85 (証明書インシデントに伴う実用的な開発者の点検ガイド)</description>
+</item>
+<item>
+<title>[85] GitHub CLI's New Expiring Tokens Still Leave Your Refresh Token Exposed to Malware</title>
+<link>https://suzuki-shunsuke.hashnode.dev/github-cli-s-new-expiring-tokens-still-leave-your-refresh-token-exposed-to-malware</link>
+<guid isPermaLink="true">https://suzuki-shunsuke.hashnode.dev/github-cli-s-new-expiring-tokens-still-leave-your-refresh-token-exposed-to-malware</guid>
+<pubDate>Sat, 24 Oct 2026 15:27:01 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>GitHub CLI (gh) recently added short-lived access tokens that are refreshed automatically. It is a public preview and opt-in for now, but it is planned to become the default. https://github.blog/changelog/2026-10-21-github-cli-opt-in-to-expiring-auto-refreshing-oauth-tokens/ This is a welcome cha... — はてなブックマーク テクノロジー / score: 85 (GitHub CLIのトークン仕様に関する脆弱性の指摘)</description>
 </item>
 <item>
 <title>[85] 不正アクセスを受けたGMOに金銭要求　政府に「能動的サイバー防御」要請</title>
@@ -423,20 +423,20 @@
 <description>Here am I floating 'round my tin can Far above the moon Planet Earth is blue And there's nothing I can do Five years in orbit. Mission complete. ;) — CPython リリース / score: 85 (Python 3.10のサポート終了情報)</description>
 </item>
 <item>
-<title>[80] GMO、不正取引の被害額を補償へ　見舞金5000円も　「お名前.com」FX用VPSへのサイバー攻撃で</title>
-<link>https://www.itmedia.co.jp/news/article/2610/24/2000002566/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/24/2000002566/</guid>
-<pubDate>Sat, 24 Oct 2026 08:33:10 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>GMOインターネットは10月24日、FX自動売買用VPS「お名前.com デスクトップクラウド」がサイバー攻撃を受け、利用者の取引口座が不正操作された問題をめぐり、サービス利用中の全ユーザーに「お見舞金」として5000円を支払う他、不正取引で発生した損失を補償することを発表した。また、システムに「セキュリティ上の問題... — はてなブックマーク テクノロジー / score: 80 (サイバー攻撃被害に対する補償とセキュリティ対応)</description>
-</item>
-<item>
 <title>[80] サイトでAPIキー丸見え状態 研究</title>
 <link>https://news.yahoo.co.jp/pickup/6599895?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6599895?source=rss</guid>
 <pubDate>Sat, 24 Oct 2026 00:12:02 +0000</pubDate>
 <category>Yahoo!ニュース IT</category>
 <description> — Yahoo!ニュース IT / score: 80 (ウェブサイトでのAPIキー露出問題に関する研究)</description>
+</item>
+<item>
+<title>[80] eMudhra中間CA証明書の秘密鍵の侵害について</title>
+<link>https://emudhra.we-have-a-problem.com/ja.html</link>
+<guid isPermaLink="true">https://emudhra.we-have-a-problem.com/ja.html</guid>
+<pubDate>Fri, 23 Oct 2026 22:32:53 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>この日本語版は，GrEarlが2026年10月23日時点の英語版を翻訳したものです。最新の情報や詳しい情報は，英語版をご覧ください。 This Japanese page was translated by GrEarl from the English page as of 23rd October 2026. For the latest and more detailed information, see the English page. 2026年10月20日 eMud... — はてなブックマーク テクノロジー / score: 80 (中間CA証明書の秘密鍵侵害という重大なセキュリティ事案)</description>
 </item>
 <item>
 <title>[80] Anthropic、パーソナルAIアシスタントClaude Duetのリサーチプレビューを発表、米国で先行提供 ——必要な対応を通知、依頼した作業を離席中も継続</title>
@@ -573,6 +573,14 @@
 <pubDate>Sat, 24 Oct 2026 22:27:48 +0000</pubDate>
 <category>Yahoo!ニュース IT</category>
 <description> — Yahoo!ニュース IT / score: 75 (GMOの不正接続に関するセキュリティインシデント)</description>
+</item>
+<item>
+<title>[75] 知らぬ間にＦＸ「取引」、一瞬で１１９万円消失…ＧＭＯに安心感あったのに「これ現実なの？」</title>
+<link>https://www.yomiuri.co.jp/national/20261024-GYT1T00360/</link>
+<guid isPermaLink="true">https://www.yomiuri.co.jp/national/20261024-GYT1T00360/</guid>
+<pubDate>Sat, 24 Oct 2026 20:11:22 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>【読売新聞】 一瞬で１１９万円が――。ＧＭＯインターネットのクラウドサービスが不正アクセスを受けた問題では、ＦＸ（外国為替証拠金）取引を行う個人投資家らが、将来の蓄えや子どもの教育費などを目的に運用していた資産の一部を一夜にして失っ — はてなブックマーク テクノロジー / score: 75 (クラウドサービスの不正アクセスによる重大な実害)</description>
 </item>
 <item>
 <title>[75] ＧＭＯの「能動的サイバー防御」緊急要請、政府関係者「求めに応じ発動決める制度ではない」</title>
@@ -797,14 +805,6 @@
 <pubDate>Tue, 20 Oct 2026 08:30:00 +0000</pubDate>
 <category>InfoQ Japan</category>
 <description>Googleは先日、フルスタックAIアプリケーションを構築するためのオープンソース基盤「Genkit」向けに、Agents APIのプレビュー版をリリースした。このAPIは、メッセージ履歴、ツール実行ループ、ストリーミング、状態の永続化、およびフロントエンドプロトコルを、単一のchat()インターフェースに統合している。このインターフェースは、エージェントがプロセス内で実行される場合でも、HTTPのエンドポイントの背後で実行される場合も同じように動作可能だ。 プレビュー版は本日よりTypeScriptおよびGoで利用可能、PythonとDartへの対応も予定されている。 By Steef-Jan Wiggers Translated by Takashi Kawase — InfoQ Japan / score: 75 (Genkit Agents APIのプレビュー版リリース)</description>
-</item>
-<item>
-<title>[75] Amazon Bedrock Guardrails now supports Standard tier for contextual grounding checks</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-guardrails-grounding-standard/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-guardrails-grounding-standard/</guid>
-<pubDate>Tue, 20 Oct 2026 08:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Amazon Bedrock Guardrails now offers a Standard tier for contextual grounding checks, which detect and filter hallucinations by checking whether a model response is grounded in your reference source and relevant to the user's query. The Standard tier is more robust than the Classic tier. It supports responses that include reasoning or conversational content, scores differently worded responses with the same meaning more consistently, and provides more comprehensive language support, matching the — AWS What's New / score: 75 (Amazon Bedrockの機能拡張とガードレール強化)</description>
 </item>
 </channel>
 </rss>
