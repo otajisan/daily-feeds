@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 26 Oct 2026 02:17:38 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 04:12:14 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] Googleの圧縮形式「Brotli」に深刻な脆弱性「HTTP2Shell」、Web関連に幅広く影響／OpenAIが発見した「Node2Shell」の影響が拡大、認証なしでリモートコード実行のおそれ</title>
@@ -87,12 +87,12 @@
 <description>JavaScriptランタイム「Deno」の開発元であるDeno LandとCloudflareは、Deno LandがCloudflareに合流すると発表しました。CloudflareによるDeno Landの買収と見られます（Deno ... — Publickey / score: 95 (Deno開発終了とCloudflare合流の重大なニュース)</description>
 </item>
 <item>
-<title>[90] GMOへの攻撃者、利用者PCの乗っ取りを画策　会社は注意喚起 - 日本経済新聞</title>
-<link>https://www.nikkei.com/article/DGXZQOUC250PP0V21C26A0000000/</link>
-<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUC250PP0V21C26A0000000/</guid>
-<pubDate>Sun, 25 Oct 2026 10:33:20 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>GMOインターネットグループのクラウドサービスが不正アクセスを受けた問題で、攻撃者を名乗る人物と同社との駆け引きが続いている。攻撃者側は27日正午までに身代金を支払わなければサービス利用者のパソコン（PC）を乗っ取ると予告した。PC内の個人的な情報を拡散すると脅し、圧力を強めている。身代金支払期限は27日正... — はてなブックマーク テクノロジー / score: 90 (企業へのサイバー攻撃と実害の危険性)</description>
+<title>[90] OpenAIがNode.jsやBunで使われているGoogle製圧縮ツール「Brotli」でリモートコード実行につながる脆弱性を発見</title>
+<link>https://gigazine.net/news/20261026-openai-brotli-vulnerability/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261026-openai-brotli-vulnerability/</guid>
+<pubDate>Mon, 26 Oct 2026 03:33:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>OpenAIがGoogle製圧縮ツール「Brotli」にリモートコード実行につながる脆弱(ぜいじゃく)性が存在することを発見しました。すでに修正版がリリースされており、アップデートが呼びかけられています。 続きを読む... — GIGAZINE / score: 90 (主要な圧縮ツールBrotliのリモートコード実行脆弱性)</description>
 </item>
 <item>
 <title>[90] 「Ruby」の正規表現エンジン「Onigmo」にリモートコード実行の問題、セキュリティ更新を実施／v4.0.9、v3.4.12、v3.3.13が公開。「GitLab」で発見される</title>
@@ -207,20 +207,20 @@
 <description>We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model. — Google AI Blog / score: 90 (Googleの新しい最先端AIモデルGemini 4 Argon)</description>
 </item>
 <item>
-<title>[85] PHPの脆弱性を受け、中小企業向け「PHP対応状況セルフチェック」を無料公開。メール登録不要、11月30日まで</title>
-<link>https://ascii.jp/elem/000/004/445/4445587/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/445/4445587/?rss</guid>
-<pubDate>Mon, 26 Oct 2026 01:00:00 +0000</pubDate>
+<title>[85] 日本HP、NVIDIA GB300搭載「HP ZGX Fury G1n AI Station」発表　AI開発向け高性能ワークステーション</title>
+<link>https://ascii.jp/elem/000/004/445/4445617/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/445/4445617/?rss</guid>
+<pubDate>Mon, 26 Oct 2026 03:00:00 +0000</pubDate>
 <category>ASCII.jp</category>
-<description>PHPの脆弱性を受け、中小企業向け「PHP対応状況セルフチェック」を無料公開。メール登録不要、11月30日まで — ASCII.jp / score: 85 (PHPの脆弱性に対応したセルフチェックツール公開)</description>
+<description>日本HPが「HP ZGX Fury G1n AI Station」を発表。NVIDIA GB300と748GBメモリを搭載し、1兆パラメータ規模のAIモデル推論に対応。デスクサイドでAI開発を支える高性能ワークステーションの特徴や価格、発売日を紹介する。 — ASCII.jp / score: 85 (最新AIワークステーションと新GPU搭載発表)</description>
 </item>
 <item>
-<title>[85] えっ!　メモリ64GBのPCで7630億パラメーターのDeepSeekを!?　Strataがついに実現</title>
-<link>https://ascii.jp/elem/000/004/445/4445574/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/445/4445574/?rss</guid>
-<pubDate>Mon, 26 Oct 2026 01:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>オープンソースAI推論エンジン「Strata」開発者のNiko Veit氏は10月24日、AIモデル「DeepSeek-V4.1-Flash」をメインメモリ64GBのPCで動かせるようになったと発表した。 — ASCII.jp / score: 85 (大規模AIモデルのローカル推論技術の画期的な進展)</description>
+<title>[85] フィギュア企業に不正アクセス、公式EC閉鎖　会員の住所や注文履歴など漏えいか　再開目処立たず</title>
+<link>https://www.itmedia.co.jp/news/article/2610/26/2000002577/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/26/2000002577/</guid>
+<pubDate>Mon, 26 Oct 2026 02:55:53 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>フィギュアなどの企画・販売を手掛けるグッドスマイルカンパニー（東京都千代田区）は10月23日、同社が運営するECサイト「グッドスマイルカンパニー公式ショップ」で不正アクセスが発生し、会員の個人情報などが第三者に閲覧されたと発表した。サイトは現在閉鎖しており、再開時期は未定としている。 同社のシステムログ... — はてなブックマーク テクノロジー / score: 85 (企業の不正アクセスと個人情報漏洩の重大なインシデント)</description>
 </item>
 <item>
 <title>[85] AIはハッキングのあり方を根本から変えつつあり、銀行や電力網がインターネットから切り離される日も近い？ - YAMDAS現更新履歴</title>
@@ -253,14 +253,6 @@
 <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
 <category>Inside Java</category>
 <description>The following JEP is targeted to JDK 28: 544: Ahead-of-Time Code Compilation — Inside Java / score: 85 (JavaのAOTコンパイルに関する重要なJEP。)</description>
-</item>
-<item>
-<title>[85] 政府に緊急要請のGMO 被害拡大防げるか 利用者に呼びかけ強化 | NHKニュース</title>
-<link>https://news.web.nhk/newsweb/na/nd-20261024de64946</link>
-<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261024de64946</guid>
-<pubDate>Sat, 24 Oct 2026 22:13:02 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>GMOインターネットグループの投資家向けクラウドサービスが不正アクセスを受け、身に覚えのない取り引きが確認された問題で、会社は24日、被害の拡大を防止するため「能動的サイバー防御」を政府に緊急要請しま… — はてなブックマーク テクノロジー / score: 85 (重大なクラウドセキュリティインシデントと政府への要請)</description>
 </item>
 <item>
 <title>[85] eMudhra事件でWebアプリ開発者が点検すべきこと</title>
@@ -415,6 +407,14 @@
 <description>Here am I floating 'round my tin can Far above the moon Planet Earth is blue And there's nothing I can do Five years in orbit. Mission complete. ;) — CPython リリース / score: 85 (Python 3.10のサポート終了情報)</description>
 </item>
 <item>
+<title>[80] NVLink追撃の現実解「UALoE」　AMD Instinct MI400が挑む次世代ラック実装とBlackwell対抗</title>
+<link>https://ascii.jp/elem/000/004/445/4445476/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/445/4445476/?rss</guid>
+<pubDate>Mon, 26 Oct 2026 03:00:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>AMDはHot Chips2026で、Instinct MI400に関して2つの講演を行なった。そこで過去からのアップデートということで、いろいろわかったことを説明していこう。 — ASCII.jp / score: 80 (次世代AIハードウェアとGPUの技術解説)</description>
+</item>
+<item>
 <title>[80] AWS、コード脆弱性を検証し修正PRを作成する「AWS Continuum」を一般提供</title>
 <link>https://codezine.jp/article/detail/30129</link>
 <guid isPermaLink="true">https://codezine.jp/article/detail/30129</guid>
@@ -429,14 +429,6 @@
 <pubDate>Sun, 25 Oct 2026 14:05:35 +0000</pubDate>
 <category>Yahoo!ニュース IT</category>
 <description> — Yahoo!ニュース IT / score: 80 (大手IT企業における不正アクセスインシデント)</description>
-</item>
-<item>
-<title>[80] 「もうプロンプトは書かない」　Claude Code生みの親が明かす“ループエンジニアリング”の衝撃</title>
-<link>https://www.itmedia.co.jp/business/articles/2610/24/news009.html</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/business/articles/2610/24/news009.html</guid>
-<pubDate>Sat, 24 Oct 2026 10:19:59 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>「私はもうClaudeにプロンプトを打っていない。ループが走っていて、そのループがClaudeにプロンプトを打ち、何をすべきか判断している。私の仕事はループを書くことだ」――。 AIコーディングツールの代名詞となった「Claude Code」を生んだ米Anthropic（アンソロピック）のボリス・チェルニー（Boris Cherny）氏が、今春... — はてなブックマーク テクノロジー / score: 80 (AI開発手法のパラダイムシフトを示す話題)</description>
 </item>
 <item>
 <title>[80] Anthropic、パーソナルAIアシスタントClaude Duetのリサーチプレビューを発表、米国で先行提供 ——必要な対応を通知、依頼した作業を離席中も継続</title>
@@ -559,12 +551,28 @@
 <description>Build complex software and cybersecurity workflows with Google Gemini 4 Argon. Check out the Gemini API Developer Guide and read the Google Antigravity and Android Studi… — Gemini (Google Blog) / score: 80 (新型AIモデルのAPI一般提供に関する重要なお知らせ。)</description>
 </item>
 <item>
+<title>[75] Google Meetが神アプデ！ 英語の会議も、日本語で聞いて日本語で返せる</title>
+<link>https://www.gizmodo.jp/article/2610-google-meet-realtime-voice-translation/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/2610-google-meet-realtime-voice-translation/</guid>
+<pubDate>Mon, 26 Oct 2026 04:00:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>Google Meetのリアルタイム音声翻訳機能が日本語に対応しました。英語の会議も日本語で聞いて日本語で発言でき、グローバルなビジネスやコミュニケーションをスムーズにサポートします。 — ギズモード・ジャパン / score: 75 (Google Meetのリアルタイム音声翻訳機能)</description>
+</item>
+<item>
+<title>[75] 確認漏れはない？先週の注目記事はセキュリティ関連ばかり、「PHP」「Apache Tomcat」「Node.js」「eMudhra」ほか ～窓の杜アクセスランキング［2026/10/19～2026/10/25]【記事アクセスランキング】</title>
+<link>https://forest.watch.impress.co.jp/docs/serial/accessranking/2151034.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/serial/accessranking/2151034.html</guid>
+<pubDate>Mon, 26 Oct 2026 02:45:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>前週に閲覧数の多かった記事を、上位10位までレポートします。 — 窓の杜 / score: 75 (主要なセキュリティ脆弱性情報のまとめ)</description>
+</item>
+<item>
 <title>[75] iFixitがiPhone Duoをバラバラに分解しディスプレイ故障の原因を調査</title>
 <link>https://gigazine.net/news/20261026-iphone-duo-teardown-ifixit/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261026-iphone-duo-teardown-ifixit/</guid>
-<pubDate>Mon, 26 Oct 2026 01:53:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>2026年10月23日、Apple初の折りたたみスマートフォン「iPhone Duo」が発売されました。しかし、発売早々ディスプレイが故障するという事例が多数報告されています。そんなiPhone Duoを修理業者のiFixitがバラバラに分解し、故障の原因を調査しました。 続きを読む... — GIGAZINE / score: 75 (注目新製品のハードウェア分解と故障原因調査)</description>
+<pubDate>Mon, 26 Oct 2026 01:57:51 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>2026年10月23日、Apple初の折りたたみスマートフォン「iPhone Duo」が発売されました。しかし、発売早々ディスプレイが故障するという事例が多数報告されています。そんなiPhone Duoを修理業者のiFixitがバラバラに分解し、故障の原因を調査しました。 iPhone Duo Teardown: The Most Repairable Foldable Has a Huge Sc... — はてなブックマーク テクノロジー / score: 75 (注目新製品のハードウェア分解と故障原因調査)</description>
 </item>
 <item>
 <title>[75] iFixitが｢iPhone Duo｣の分解レポートを公開 ｰ ディスプレイのヒビ割れ問題の発生箇所を確認</title>
@@ -573,14 +581,6 @@
 <pubDate>Mon, 26 Oct 2026 01:47:35 +0000</pubDate>
 <category>気になる、記になる…</category>
 <description>分解レポートと言えばお馴染みのiFixitがApple初の折りたたみ式スマホ「iPhone Duo」の分解レポートを公開しました。 分解動画は既に何本か公開されているので、内部構造は明らかになっていますが、iFixitは […] — 気になる、記になる… / score: 75 (新ハードウェアの分解と構造上の問題検証)</description>
-</item>
-<item>
-<title>[75] ホームページを動かす「PHP」の脆弱性公表を受け、無料簡易チェックを提供開始。HP制作・リニューアルも支援</title>
-<link>https://ascii.jp/elem/000/004/445/4445604/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/445/4445604/?rss</guid>
-<pubDate>Mon, 26 Oct 2026 00:46:35 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>ホームページを動かす「PHP」の脆弱性公表を受け、無料簡易チェックを提供開始。HP制作・リニューアルも支援 — ASCII.jp / score: 75 (主要なプログラミング言語の脆弱性に関する話題)</description>
 </item>
 <item>
 <title>[75] クラックゲート？iPhone Duo、発売当日からヒンジ部の画面割れ報告相次ぐ | テクノエッジ TechnoEdge</title>
@@ -605,6 +605,14 @@
 <pubDate>Sun, 25 Oct 2026 08:00:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>GoogleのAI4体が27時間の死闘の末にマイクラのラスボスを撃破した実験を紹介します。605回の死と失敗を乗り越えて協力し合うAIのプロセスを分かりやすく解説します。 — ギズモード・ジャパン / score: 75 (AIのマルチエージェント実験として興味深い。)</description>
+</item>
+<item>
+<title>[75] VSCodeでのWSL2接続時ネットワークが遅くなる現象</title>
+<link>https://zenn.dev/as/articles/4ce7064e33719c</link>
+<guid isPermaLink="true">https://zenn.dev/as/articles/4ce7064e33719c</guid>
+<pubDate>Sun, 25 Oct 2026 02:21:21 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>はじめに Windows環境で、VSCodeからWSL2に接続（WSL拡張機能 / Remote - WSL）した途端、PC全体のネットワークが極端に遅くなったり、ブラウザがオフライン状態になったりする現象に悩まされていました。 PowerShellからWSL2を起動して操作する分には全く問題ないのに、VSCodeから接続した時だけネットワークが不安定になるという謎の現象です。 また、重めのプログラムだと実行中にRemoteWSLの接続が切れるなどの症状がありました。 環境 OS: Windows 11 エディタ: Visual Studio Code WSL: WSL2 (2... — Zenn トレンド / score: 75 (開発環境(WSL2/VSCode)の具体的なトラブルシューティング)</description>
 </item>
 <item>
 <title>[75] GMO不正接続 一瞬で119万円消失</title>
@@ -797,14 +805,6 @@
 <pubDate>Tue, 20 Oct 2026 08:00:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Amazon Bedrock Guardrails now offers a Standard tier for contextual grounding checks, which detect and filter hallucinations by checking whether a model response is grounded in your reference source and relevant to the user's query. The Standard tier is more robust than the Classic tier. It supports responses that include reasoning or conversational content, scores differently worded responses with the same meaning more consistently, and provides more comprehensive language support, matching the — AWS What's New / score: 75 (Amazon Bedrockの機能拡張とガードレール強化)</description>
-</item>
-<item>
-<title>[75] Amazon Bedrock Advanced Prompt Optimization now supports prompt shortening</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-prompt-optimization-shortening/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-prompt-optimization-shortening/</guid>
-<pubDate>Tue, 20 Oct 2026 08:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Amazon Bedrock Advanced Prompt Optimization now supports prompt shortening, an optional setting that reduces the length of your prompt while maintaining or improving your evaluation scores. Advanced Prompt Optimization optimizes prompts for any model on Amazon Bedrock against your own evaluation criteria. Until now, optimization focused on quality alone. Optimized prompts were often longer than the original. Longer prompts raise input token costs and can increase time to first token, which matte — AWS What's New / score: 75 (Amazon Bedrockのプロンプト最適化機能のアップデート)</description>
 </item>
 </channel>
 </rss>
