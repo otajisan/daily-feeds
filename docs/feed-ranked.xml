@@ -4,8 +4,16 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 26 Oct 2026 04:12:14 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 06:20:15 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>[95] Python 3.15.2, 3.14.10, 3.13.18, 3.12.16 and 3.11.18 are out</title>
+<link>https://blog.python.org/2026/10/python-3152-31410-31318-31216-31118/</link>
+<guid isPermaLink="true">https://blog.python.org/2026/10/python-3152-31410-31318-31216-31118/</guid>
+<pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+<category>Python Insider</category>
+<description>Five expedited security releases to distrust the compromised eMudhra intermediate CA keys. — Python Insider / score: 95 (証明書漏洩対応のためのPython複数バージョンの緊急修正)</description>
+</item>
 <item>
 <title>[95] Googleの圧縮形式「Brotli」に深刻な脆弱性「HTTP2Shell」、Web関連に幅広く影響／OpenAIが発見した「Node2Shell」の影響が拡大、認証なしでリモートコード実行のおそれ</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2151000.html</link>
@@ -93,6 +101,14 @@
 <pubDate>Mon, 26 Oct 2026 03:33:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>OpenAIがGoogle製圧縮ツール「Brotli」にリモートコード実行につながる脆弱(ぜいじゃく)性が存在することを発見しました。すでに修正版がリリースされており、アップデートが呼びかけられています。 続きを読む... — GIGAZINE / score: 90 (主要な圧縮ツールBrotliのリモートコード実行脆弱性)</description>
+</item>
+<item>
+<title>[90] eMudhra 中間 CA 漏洩、OS もブラウザも最新なのにコンテナ 9 個と Python 環境 16 個が偽の証明書を信じていた</title>
+<link>https://zenn.dev/nanora/articles/20261024-emudhra-ca-own-bundles</link>
+<guid isPermaLink="true">https://zenn.dev/nanora/articles/20261024-emudhra-ca-own-bundles</guid>
+<pubDate>Sat, 24 Oct 2026 03:53:11 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>TL;DR OS もブラウザも最新だったのに、コンテナ 9 個と Python 環境 16 個が偽の証明書を信じていた eMudhra の中間 CA 8 本の秘密鍵が、証明書から誰でも復元できる状態だった ブラウザと OS は塞がったが、自前の証明書を持つアプリは自分で上げるまで偽サイトを信じる 確かめ方は curl 1 行。証明書エラーなら安全、繋がったら要更新 直す場所は環境しだい（うちは venv・pip 本体・コンテナ・Edge・VS Code・uv） 「更新した」の表示と、実際に動いている版は別物だった OS もブラウザも最新だったので、うちは関係ないと思っていた。念... — Zenn トレンド / score: 90 (中間CA漏洩によるコンテナ環境への影響と対策)</description>
 </item>
 <item>
 <title>[90] 「Ruby」の正規表現エンジン「Onigmo」にリモートコード実行の問題、セキュリティ更新を実施／v4.0.9、v3.4.12、v3.3.13が公開。「GitLab」で発見される</title>
@@ -207,12 +223,12 @@
 <description>We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model. — Google AI Blog / score: 90 (Googleの新しい最先端AIモデルGemini 4 Argon)</description>
 </item>
 <item>
-<title>[85] 日本HP、NVIDIA GB300搭載「HP ZGX Fury G1n AI Station」発表　AI開発向け高性能ワークステーション</title>
-<link>https://ascii.jp/elem/000/004/445/4445617/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/445/4445617/?rss</guid>
-<pubDate>Mon, 26 Oct 2026 03:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>日本HPが「HP ZGX Fury G1n AI Station」を発表。NVIDIA GB300と748GBメモリを搭載し、1兆パラメータ規模のAIモデル推論に対応。デスクサイドでAI開発を支える高性能ワークステーションの特徴や価格、発売日を紹介する。 — ASCII.jp / score: 85 (最新AIワークステーションと新GPU搭載発表)</description>
+<title>[85] 「3万円にした結果がコレかぁ」GMOのサーバー不正アクセス、3か月前の熊谷代表の発言が「伏線回収」だと話題になってしまう</title>
+<link>https://togetter.com/li/2762937</link>
+<guid isPermaLink="true">https://togetter.com/li/2762937</guid>
+<pubDate>Mon, 26 Oct 2026 03:24:49 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>報道ステーション＋サタステ @hst_tvasahi 【GMOサーバー攻撃】FX取引“ハッキング”で600万円被害 ｜ 神奈川県に住む男性会社員(44)は、21日夕方にFXの取引口座を乗っ取られ、意に反した売買が行われた ▼「400万ぐらい損を出すまでに1秒」 損失額約600万円 不正取引の被害者(44) 「被害としては600万以上」 「最初はパニ... — はてなブックマーク テクノロジー / score: 85 (GMOのFX取引不正アクセスと大規模インシデント)</description>
 </item>
 <item>
 <title>[85] フィギュア企業に不正アクセス、公式EC閉鎖　会員の住所や注文履歴など漏えいか　再開目処立たず</title>
@@ -221,6 +237,14 @@
 <pubDate>Mon, 26 Oct 2026 02:55:53 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>フィギュアなどの企画・販売を手掛けるグッドスマイルカンパニー（東京都千代田区）は10月23日、同社が運営するECサイト「グッドスマイルカンパニー公式ショップ」で不正アクセスが発生し、会員の個人情報などが第三者に閲覧されたと発表した。サイトは現在閉鎖しており、再開時期は未定としている。 同社のシステムログ... — はてなブックマーク テクノロジー / score: 85 (企業の不正アクセスと個人情報漏洩の重大なインシデント)</description>
+</item>
+<item>
+<title>[85] Node.js の Brotli 脆弱性 CVE-2026-111497 を読む</title>
+<link>https://zenn.dev/chot/articles/79e6c94e27782d</link>
+<guid isPermaLink="true">https://zenn.dev/chot/articles/79e6c94e27782d</guid>
+<pubDate>Mon, 26 Oct 2026 02:29:36 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>! 注記: 本記事で扱うのは、修正コミットから読み取れる原因と修正内容である。「out-of-bounds write によってクラッシュ、メモリ内容の漏えい、RCE につながりうる」という影響の説明は Node.js の脆弱性告知によるもので、そこに至る経路は本記事では扱わない。 きっかけ 2026年10月21日に Node.js のセキュリティリリースが公開された。 複数の脆弱性が同時に修正されたが、 Node.js Brotli decoder out-of-bounds write permits remote code execution (CVE-2026-11149... — Zenn トレンド / score: 85 (Node.jsのBrotliに関する脆弱性解説)</description>
 </item>
 <item>
 <title>[85] AIはハッキングのあり方を根本から変えつつあり、銀行や電力網がインターネットから切り離される日も近い？ - YAMDAS現更新履歴</title>
@@ -407,12 +431,12 @@
 <description>Here am I floating 'round my tin can Far above the moon Planet Earth is blue And there's nothing I can do Five years in orbit. Mission complete. ;) — CPython リリース / score: 85 (Python 3.10のサポート終了情報)</description>
 </item>
 <item>
-<title>[80] NVLink追撃の現実解「UALoE」　AMD Instinct MI400が挑む次世代ラック実装とBlackwell対抗</title>
-<link>https://ascii.jp/elem/000/004/445/4445476/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/445/4445476/?rss</guid>
-<pubDate>Mon, 26 Oct 2026 03:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>AMDはHot Chips2026で、Instinct MI400に関して2つの講演を行なった。そこで過去からのアップデートということで、いろいろわかったことを説明していこう。 — ASCII.jp / score: 80 (次世代AIハードウェアとGPUの技術解説)</description>
+<title>[80] 社内のホワイトハッカー「誰より悔しい」不正アクセス受けたGMO熊谷社長、ブログ全文</title>
+<link>https://www.sankei.com/article/20261026-FPM5XMZGCZP4RDOXILAKMEOOFE/</link>
+<guid isPermaLink="true">https://www.sankei.com/article/20261026-FPM5XMZGCZP4RDOXILAKMEOOFE/</guid>
+<pubDate>Mon, 26 Oct 2026 00:54:55 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>外国為替証拠金取引（FX）のためのサービスに不正アクセスを受けたことを巡り、GMOインターネットグループの熊谷正寿社長が25日、事前に社内の技術者から安全性に関して「改善すべき課題」が指摘されていたとブログに投稿した。一律5000円の見舞金を支払うと発表したことについて、「ご不便とご心配」をかけた顧客への「... — はてなブックマーク テクノロジー / score: 80 (GMO社長によるセキュリティインシデント詳細の公開)</description>
 </item>
 <item>
 <title>[80] AWS、コード脆弱性を検証し修正PRを作成する「AWS Continuum」を一般提供</title>
@@ -599,20 +623,20 @@
 <description>ボット検出システムを開発するProof of Humanが、自社製品を含む5種類のシステムを比較した結果を公開しました。 続きを読む... — GIGAZINE / score: 75 (AIエージェントによるボット対策突破の検証)</description>
 </item>
 <item>
-<title>[75] 605回死亡、27時間の死闘。GoogleのAI 4体でマイクラのラスボスを撃破！</title>
-<link>https://www.gizmodo.jp/article/google-ai-minecraft-ender-dragon-defeat/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/google-ai-minecraft-ender-dragon-defeat/</guid>
-<pubDate>Sun, 25 Oct 2026 08:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>GoogleのAI4体が27時間の死闘の末にマイクラのラスボスを撃破した実験を紹介します。605回の死と失敗を乗り越えて協力し合うAIのプロセスを分かりやすく解説します。 — ギズモード・ジャパン / score: 75 (AIのマルチエージェント実験として興味深い。)</description>
+<title>[75] v3.14.10</title>
+<link>https://github.com/python/cpython/releases/tag/v3.14.10</link>
+<guid isPermaLink="true">https://github.com/python/cpython/releases/tag/v3.14.10</guid>
+<pubDate>Sun, 25 Oct 2026 17:12:01 +0000</pubDate>
+<category>CPython リリース</category>
+<description>Python 3.14.10 — CPython リリース / score: 75 (Python 3.14.10のリリース情報)</description>
 </item>
 <item>
-<title>[75] VSCodeでのWSL2接続時ネットワークが遅くなる現象</title>
-<link>https://zenn.dev/as/articles/4ce7064e33719c</link>
-<guid isPermaLink="true">https://zenn.dev/as/articles/4ce7064e33719c</guid>
-<pubDate>Sun, 25 Oct 2026 02:21:21 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>はじめに Windows環境で、VSCodeからWSL2に接続（WSL拡張機能 / Remote - WSL）した途端、PC全体のネットワークが極端に遅くなったり、ブラウザがオフライン状態になったりする現象に悩まされていました。 PowerShellからWSL2を起動して操作する分には全く問題ないのに、VSCodeから接続した時だけネットワークが不安定になるという謎の現象です。 また、重めのプログラムだと実行中にRemoteWSLの接続が切れるなどの症状がありました。 環境 OS: Windows 11 エディタ: Visual Studio Code WSL: WSL2 (2... — Zenn トレンド / score: 75 (開発環境(WSL2/VSCode)の具体的なトラブルシューティング)</description>
+<title>[75] v3.15.2</title>
+<link>https://github.com/python/cpython/releases/tag/v3.15.2</link>
+<guid isPermaLink="true">https://github.com/python/cpython/releases/tag/v3.15.2</guid>
+<pubDate>Sun, 25 Oct 2026 16:57:52 +0000</pubDate>
+<category>CPython リリース</category>
+<description>Python 3.15.2 — CPython リリース / score: 75 (Python 3.15.2のリリース情報)</description>
 </item>
 <item>
 <title>[75] GMO不正接続 一瞬で119万円消失</title>
@@ -781,30 +805,6 @@
 <pubDate>Tue, 20 Oct 2026 11:30:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>Today at PyTorch Conference 2026, we announced a range of new products and integrations designed to help you run PyTorch effectively on Google Cloud or in your own infrastructure. Notably, TorchTPU, our native PyTorch stack for Google TPUs, is now available as open source on GitHub. With TorchTPU, TPUs join GPUs and CPUs as a native option for PyTorch. You can now train, serve, and deploy models on TPUs using the tools you already rely on, including vLLM, SGLang, llm-d, TorchTitan, Ray, TorchRec — Google Cloud Blog / score: 75 (PyTorchのTPUネイティブ対応オープンソース化)</description>
-</item>
-<item>
-<title>[75] Announcing llm-d 1.0: Open distributed inference for agents on Google Cloud TPUs and GPUs</title>
-<link>https://cloud.google.com/blog/topics/ai-infrastructure/llm-d-1-0-an-open-source-stack-for-distributed-inference/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/topics/ai-infrastructure/llm-d-1-0-an-open-source-stack-for-distributed-inference/</guid>
-<pubDate>Tue, 20 Oct 2026 11:30:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>Today at the PyTorch Conference, we released llm-d 1.0, an open-source, Kubernetes-native stack for distributed LLM inference. Co-founded by Google with Red Hat, IBM and others, we worked with a community of more than 500 contributors over 25 organizations on this Cloud Native Computing Foundation (CNCF) Sandbox project, bringing together two important communities: PyTorch, where vLLM and SGLang serve models, and Kubernetes, where distributed systems run and scale in production. llm-d 1.0 arrive — Google Cloud Blog / score: 75 (分散LLM推論向けKubernetesスタックの公開)</description>
-</item>
-<item>
-<title>[75] GoogleのGenkit、TypeScriptとGo向けに「Detached Turns」と「Human-in-the-Loop」機能を備えたAgents APIをリリース</title>
-<link>https://www.infoq.com/jp/news/2026/10/genkit-agents-api-preview/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-<guid isPermaLink="true">https://www.infoq.com/jp/news/2026/10/genkit-agents-api-preview/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
-<pubDate>Tue, 20 Oct 2026 08:30:00 +0000</pubDate>
-<category>InfoQ Japan</category>
-<description>Googleは先日、フルスタックAIアプリケーションを構築するためのオープンソース基盤「Genkit」向けに、Agents APIのプレビュー版をリリースした。このAPIは、メッセージ履歴、ツール実行ループ、ストリーミング、状態の永続化、およびフロントエンドプロトコルを、単一のchat()インターフェースに統合している。このインターフェースは、エージェントがプロセス内で実行される場合でも、HTTPのエンドポイントの背後で実行される場合も同じように動作可能だ。 プレビュー版は本日よりTypeScriptおよびGoで利用可能、PythonとDartへの対応も予定されている。 By Steef-Jan Wiggers Translated by Takashi Kawase — InfoQ Japan / score: 75 (Genkit Agents APIのプレビュー版リリース)</description>
-</item>
-<item>
-<title>[75] Amazon Bedrock Guardrails now supports Standard tier for contextual grounding checks</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-guardrails-grounding-standard/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-guardrails-grounding-standard/</guid>
-<pubDate>Tue, 20 Oct 2026 08:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Amazon Bedrock Guardrails now offers a Standard tier for contextual grounding checks, which detect and filter hallucinations by checking whether a model response is grounded in your reference source and relevant to the user's query. The Standard tier is more robust than the Classic tier. It supports responses that include reasoning or conversational content, scores differently worded responses with the same meaning more consistently, and provides more comprehensive language support, matching the — AWS What's New / score: 75 (Amazon Bedrockの機能拡張とガードレール強化)</description>
 </item>
 </channel>
 </rss>
