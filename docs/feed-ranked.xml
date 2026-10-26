@@ -4,8 +4,16 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sun, 25 Oct 2026 22:07:36 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 00:24:12 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>[95] Googleの圧縮形式「Brotli」に深刻な脆弱性「HTTP2Shell」、Web関連に幅広く影響／OpenAIが発見した「Node2Shell」の影響が拡大、認証なしでリモートコード実行のおそれ</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2151000.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2151000.html</guid>
+<pubDate>Sun, 25 Oct 2026 23:08:21 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Googleの圧縮形式「Brotli」に深刻な脆弱性「HTTP2Shell」、Web関連に幅広く影響／OpenAIが発見した「Node2Shell」の影響が拡大、認証なしでリモートコード実行のおそれ — はてなブックマーク テクノロジー / score: 95 (Brotliの深刻な脆弱性とRCEの危険性)</description>
+</item>
 <item>
 <title>[95] [AINews] OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months</title>
 <link>https://latent.space/p/ainews-openais-patch-the-planet-program/</link>
@@ -87,22 +95,6 @@
 <description>GMOインターネットグループのクラウドサービスが不正アクセスを受けた問題で、攻撃者を名乗る人物と同社との駆け引きが続いている。攻撃者側は27日正午までに身代金を支払わなければサービス利用者のパソコン（PC）を乗っ取ると予告した。PC内の個人的な情報を拡散すると脅し、圧力を強めている。身代金支払期限は27日正... — はてなブックマーク テクノロジー / score: 90 (企業へのサイバー攻撃と実害の危険性)</description>
 </item>
 <item>
-<title>[90] About the compromised eMudhra intermediate CAs - Apple Support</title>
-<link>https://support.apple.com/en-us/149555</link>
-<guid isPermaLink="true">https://support.apple.com/en-us/149555</guid>
-<pubDate>Sun, 25 Oct 2026 04:52:04 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>About the compromised eMudhra intermediate CAs Apple is blocking the compromised certificates automatically. Mac administrators can take optional steps for some command-line tools. Since 19 October 2026, Apple has been blocking the certificates of the compromised eMudhra intermediate Certificatio... — はてなブックマーク テクノロジー / score: 90 (Appleの証明書侵害と自動ブロックに関する重要なお知らせ)</description>
-</item>
-<item>
-<title>[90] eMudhra のインシデントは Web にとって何を意味するのか | blog.jxck.io</title>
-<link>https://blog.jxck.io/entries/2026-10-25/emudhra.html</link>
-<guid isPermaLink="true">https://blog.jxck.io/entries/2026-10-25/emudhra.html</guid>
-<pubDate>Sat, 24 Oct 2026 20:22:49 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Intro PHP2Shell は、時の総理大臣も対応を発信するなどの動きがあり、一般のニュースですら大きく報じられていた。 しかし、同時期に報じられた eMudhra のインシデントの方が、比較にならないくらいヤバいと、筆者は思っている。 Web の信頼を失墜させるほどにだ。 CA のおさらい "Mudhra" は「印」のような意味で、カ... — はてなブックマーク テクノロジー / score: 90 (Webインフラの信頼に関わる重大なCAインシデント解説)</description>
-</item>
-<item>
 <title>[90] 「Ruby」の正規表現エンジン「Onigmo」にリモートコード実行の問題、セキュリティ更新を実施／v4.0.9、v3.4.12、v3.3.13が公開。「GitLab」で発見される</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2150800.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2150800.html</guid>
@@ -117,14 +109,6 @@
 <pubDate>Fri, 23 Oct 2026 08:00:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 90 (未知のOSS脆弱性400件超の修正という重要トピック)</description>
-</item>
-<item>
-<title>[90] Node.jsが26.x・24.x・22.x向けにセキュリティリリースを公開、深刻度「高」4件を修正</title>
-<link>https://codezine.jp/article/detail/30109</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/30109</guid>
-<pubDate>Fri, 23 Oct 2026 01:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 90 (Node.jsの複数バージョンにおける重要セキュリティ修正)</description>
 </item>
 <item>
 <title>[90] 「Oracle Java SE」にも致命的な脆弱性 ～リモートでデータの窃取・作成・削除・変更が可能／</title>
@@ -223,6 +207,22 @@
 <description>We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model. — Google AI Blog / score: 90 (Googleの新しい最先端AIモデルGemini 4 Argon)</description>
 </item>
 <item>
+<title>[85] 「ニコアンド」「グローバルワーク」など展開のアンドエスティHDに不正アクセス　顧客情報約250万件流出の可能性</title>
+<link>https://ascii.jp/elem/000/004/445/4445543/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/445/4445543/?rss</guid>
+<pubDate>Mon, 26 Oct 2026 00:15:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>アパレル大手のアンドエスティHDは10月23日、業務サーバーへの不正アクセスにより、顧客情報約250万件などが外部に流出した可能性があると発表した。 — ASCII.jp / score: 85 (大規模な顧客情報の不正アクセス流出)</description>
+</item>
+<item>
+<title>[85] グッドスマイルカンパニー、顧客情報流出の可能性　不正アクセスで</title>
+<link>https://ascii.jp/elem/000/004/445/4445540/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/445/4445540/?rss</guid>
+<pubDate>Mon, 26 Oct 2026 00:10:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>グッドスマイルカンパニーは10月23日、通販サイト「グッドスマイルカンパニー公式ショップ」で第三者による不正アクセスが発生し、会員の個人情報などが不正に閲覧されたと発表した。 — ASCII.jp / score: 85 (ECサイトでの不正アクセスと情報流出)</description>
+</item>
+<item>
 <title>[85] 「DuckDB 2.0 LTS」正式リリース。Quackプロトコルによるクライアント/サーバ機能や非同期処理による高速化など</title>
 <link>https://www.publickey1.jp/blog/26/duckdb_20_ltsquack.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/duckdb_20_ltsquack.html</guid>
@@ -245,6 +245,14 @@
 <pubDate>Sun, 25 Oct 2026 09:19:35 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>電子漫画などを提供する「ピッコマ」の運営会社は、メールの配信で利用している企業が不正アクセスを受けたことから、顧客のメールアドレスおよそ100万件が流出したと発表しました。 会社の発表によりますと… — はてなブックマーク テクノロジー / score: 85 (100万件の大規模な個人情報流出インシデント)</description>
+</item>
+<item>
+<title>[85] ARTEXだけではない：日本を狙う3つの攻撃基盤に見るAI関与の実態</title>
+<link>https://www.trendmicro.com/ja_jp/jp-security/26/j/expertview-20261023-01.html</link>
+<guid isPermaLink="true">https://www.trendmicro.com/ja_jp/jp-security/26/j/expertview-20261023-01.html</guid>
+<pubDate>Sun, 25 Oct 2026 07:45:46 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>ARTEXだけではない：日本を狙う3つの攻撃基盤に見るAI関与の実態 国内の企業や団体が運営するWebシステムからの情報漏えいが相次いで公表されています。昨今のサイバー攻撃に対するAIの悪用の可能性について、当社のリサーチャーが調査した結果をレポートします。 By: Joseph C Chen（TrendAI™ Staff Researcher）, 松川... — はてなブックマーク テクノロジー / score: 85 (日本を狙うサイバー攻撃とAI悪用の実態)</description>
 </item>
 <item>
 <title>[85] AIによる脆弱性発見が加速、専門家「混乱期の始まり」</title>
@@ -301,14 +309,6 @@
 <pubDate>Fri, 23 Oct 2026 11:13:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Rubyの開発チームは2026年10月23日、プログラミング言語Rubyのバージョン4.0.9、3.4.12、3.3.13を公開した。 — gihyo.jp / score: 85 (脆弱性修正を伴うRubyのセキュリティパッチ)</description>
-</item>
-<item>
-<title>[85] Ubuntu、PHPの重大な脆弱性「php2shell」の修正版を公開</title>
-<link>https://codezine.jp/article/detail/30108</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/30108</guid>
-<pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 85 (PHPの重大な脆弱性に対するUbuntuの修正版公開)</description>
 </item>
 <item>
 <title>[85] AWS Continuum for code vulnerabilities is now generally available</title>
@@ -437,6 +437,22 @@
 <pubDate>Mon, 12 Oct 2026 14:17:51 +0000</pubDate>
 <category>CPython リリース</category>
 <description>Here am I floating 'round my tin can Far above the moon Planet Earth is blue And there's nothing I can do Five years in orbit. Mission complete. ;) — CPython リリース / score: 85 (Python 3.10のサポート終了情報)</description>
+</item>
+<item>
+<title>[80] AWS、コード脆弱性を検証し修正PRを作成する「AWS Continuum」を一般提供</title>
+<link>https://codezine.jp/article/detail/30129</link>
+<guid isPermaLink="true">https://codezine.jp/article/detail/30129</guid>
+<pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+<category>CodeZine</category>
+<description> — CodeZine / score: 80 (AWSのコード脆弱性修正PR生成ツールの一般提供)</description>
+</item>
+<item>
+<title>[80] パナソニック、33万人分の個人情報を外部AIにアップロード</title>
+<link>https://ascii.jp/elem/000/004/445/4445539/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/445/4445539/?rss</guid>
+<pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>パナソニック オペレーショナルエクセレンスは10月23日、従業員や元従業員、その家族の個人情報を含むデータを、利用を禁止している外部の生成AIサービスにアップロードしていたと発表した。 — ASCII.jp / score: 80 (企業による個人情報の不適切AI利用)</description>
 </item>
 <item>
 <title>[80] 不正アクセス GMO代表が謝罪</title>
@@ -599,14 +615,6 @@
 <description> — Yahoo!ニュース IT / score: 75 (GMOの不正接続に関するセキュリティインシデント)</description>
 </item>
 <item>
-<title>[75] 知らぬ間にＦＸ「取引」、一瞬で１１９万円消失…ＧＭＯに安心感あったのに「これ現実なの？」</title>
-<link>https://www.yomiuri.co.jp/national/20261024-GYT1T00360/</link>
-<guid isPermaLink="true">https://www.yomiuri.co.jp/national/20261024-GYT1T00360/</guid>
-<pubDate>Sat, 24 Oct 2026 20:11:22 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>【読売新聞】 一瞬で１１９万円が――。ＧＭＯインターネットのクラウドサービスが不正アクセスを受けた問題では、ＦＸ（外国為替証拠金）取引を行う個人投資家らが、将来の蓄えや子どもの教育費などを目的に運用していた資産の一部を一夜にして失っ — はてなブックマーク テクノロジー / score: 75 (クラウドサービスの不正アクセスによる重大な実害)</description>
-</item>
-<item>
 <title>[75] 「コードレビューは死ぬ、ターミナルも消える」——海外著名エンジニアが予測するAI時代のソフトウェア開発の未来</title>
 <link>https://qiita.com/softbase/items/fb72de63c975fcbbd2f6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
 <guid isPermaLink="true">https://qiita.com/softbase/items/fb72de63c975fcbbd2f6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
@@ -647,14 +655,6 @@
 <description>OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming. — OpenAI News / score: 75 (AI最先端モデルのセキュリティ強化に関する解説。)</description>
 </item>
 <item>
-<title>[75] AIを低遅延実行するための推論エンジン「Liquid RIPL」が登場、検索や決済などの低遅延が重要な場面で役立つ</title>
-<link>https://gigazine.net/news/20261023-ripl-inference-engine/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261023-ripl-inference-engine/</guid>
-<pubDate>Fri, 23 Oct 2026 09:55:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>AI開発企業のLiquid AIが低遅延性を重視した推論エンジン「Liquid RIPL」を発表しました。 続きを読む... — GIGAZINE / score: 75 (低遅延実行のための新しいAI推論エンジンの登場)</description>
-</item>
-<item>
 <title>[75] 【速報】VS Code 1.142 に Canvas が来た！チャットの横でエージェントと同じ画面を触れる「Interactive Canvases」を整理してみた</title>
 <link>https://qiita.com/shahin0809/items/81e6a6737b2254bdc6ed?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
 <guid isPermaLink="true">https://qiita.com/shahin0809/items/81e6a6737b2254bdc6ed?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
@@ -669,14 +669,6 @@
 <pubDate>Fri, 23 Oct 2026 00:10:35 +0000</pubDate>
 <category>窓の杜</category>
 <description>加AgileBitsは10月22日（現地時間）、「1Password for Agents」プラットフォームを発表した。AIエージェントがWebサービスへのログインを必要としたときに、ユーザーの認証情報を直接AIに渡さず、安全にログイン処理を実行できる仕組みだ。 — 窓の杜 / score: 75 (AIエージェント向けパスワード管理プラットフォームの発表)</description>
-</item>
-<item>
-<title>[75] OpenAI、PHPの脆弱性発見の経緯を公表</title>
-<link>https://codezine.jp/article/detail/30107</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/30107</guid>
-<pubDate>Thu, 22 Oct 2026 23:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 75 (OpenAIによるPHP脆弱性発見の経緯公表)</description>
 </item>
 <item>
 <title>[75] Build more responsive apps with the Decisions API</title>
@@ -805,6 +797,14 @@
 <pubDate>Tue, 20 Oct 2026 11:30:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>Today at the PyTorch Conference, we released llm-d 1.0, an open-source, Kubernetes-native stack for distributed LLM inference. Co-founded by Google with Red Hat, IBM and others, we worked with a community of more than 500 contributors over 25 organizations on this Cloud Native Computing Foundation (CNCF) Sandbox project, bringing together two important communities: PyTorch, where vLLM and SGLang serve models, and Kubernetes, where distributed systems run and scale in production. llm-d 1.0 arrive — Google Cloud Blog / score: 75 (分散LLM推論向けKubernetesスタックの公開)</description>
+</item>
+<item>
+<title>[75] GoogleのGenkit、TypeScriptとGo向けに「Detached Turns」と「Human-in-the-Loop」機能を備えたAgents APIをリリース</title>
+<link>https://www.infoq.com/jp/news/2026/10/genkit-agents-api-preview/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+<guid isPermaLink="true">https://www.infoq.com/jp/news/2026/10/genkit-agents-api-preview/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</guid>
+<pubDate>Tue, 20 Oct 2026 08:30:00 +0000</pubDate>
+<category>InfoQ Japan</category>
+<description>Googleは先日、フルスタックAIアプリケーションを構築するためのオープンソース基盤「Genkit」向けに、Agents APIのプレビュー版をリリースした。このAPIは、メッセージ履歴、ツール実行ループ、ストリーミング、状態の永続化、およびフロントエンドプロトコルを、単一のchat()インターフェースに統合している。このインターフェースは、エージェントがプロセス内で実行される場合でも、HTTPのエンドポイントの背後で実行される場合も同じように動作可能だ。 プレビュー版は本日よりTypeScriptおよびGoで利用可能、PythonとDartへの対応も予定されている。 By Steef-Jan Wiggers Translated by Takashi Kawase — InfoQ Japan / score: 75 (Genkit Agents APIのプレビュー版リリース)</description>
 </item>
 </channel>
 </rss>
