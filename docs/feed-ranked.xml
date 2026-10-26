@@ -4,8 +4,16 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 26 Oct 2026 10:12:12 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 13:37:00 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>[95] iPhoneからPDFファイルを開くだけでハッキングすることに成功</title>
+<link>https://gigazine.net/news/20261026-iphone-pdf-hacking/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261026-iphone-pdf-hacking/</guid>
+<pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>アメリカ・カリフォルニアを拠点に活動するハッカーチームのCalifが、PDFファイルを開くだけでiPhoneをハッキングすることに成功したと報告しています。 続きを読む... — GIGAZINE / score: 95 (PDFを開くだけで成立するiPhoneの深刻な脆弱性)</description>
+</item>
 <item>
 <title>[95] Python 3.15.2, 3.14.10, 3.13.18, 3.12.16 and 3.11.18 are out</title>
 <link>https://blog.python.org/2026/10/python-3152-31410-31318-31216-31118/</link>
@@ -15,12 +23,12 @@
 <description>Five expedited security releases to distrust the compromised eMudhra intermediate CA keys. — Python Insider / score: 95 (証明書漏洩対応のためのPython複数バージョンの緊急修正)</description>
 </item>
 <item>
-<title>[95] Googleの圧縮形式「Brotli」に深刻な脆弱性「HTTP2Shell」、Web関連に幅広く影響／OpenAIが発見した「Node2Shell」の影響が拡大、認証なしでリモートコード実行のおそれ</title>
+<title>[95] Googleの圧縮形式「Brotli」に深刻な脆弱性「HTTP2Shell」、Web関連に幅広く影響【16時40分追記】／OpenAIが発見した「Node2Shell」の影響が拡大、認証なしでリモートコード実行のおそれ</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2151000.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2151000.html</guid>
-<pubDate>Sun, 25 Oct 2026 23:08:21 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Googleの圧縮形式「Brotli」に深刻な脆弱性「HTTP2Shell」、Web関連に幅広く影響／OpenAIが発見した「Node2Shell」の影響が拡大、認証なしでリモートコード実行のおそれ — はてなブックマーク テクノロジー / score: 95 (Brotliの深刻な脆弱性とRCEの危険性)</description>
+<pubDate>Sun, 25 Oct 2026 22:46:05 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Googleのデータ圧縮アルゴリズム「Brotli」のC言語実装で、認証なしにリモートからメモリを破壊できる深刻な脆弱性「CVE-2026-111497」が発見された。当初、米OpenAIによって「Node.js」の問題として報告されたこともあり 「Node2Shell」 と呼ばれていたが、のちの調査でHTTPを扱うさまざまなライブラリやアプリにも影響が及ぶことが判明。セキュリティ企業のAikido Securityなどが 「HTTP2Shell」 という呼称を用い始めている。 — 窓の杜 / score: 95 (Brotliの深刻な脆弱性とRCEの危険性)</description>
 </item>
 <item>
 <title>[95] [AINews] OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months</title>
@@ -95,12 +103,36 @@
 <description>JavaScriptランタイム「Deno」の開発元であるDeno LandとCloudflareは、Deno LandがCloudflareに合流すると発表しました。CloudflareによるDeno Landの買収と見られます（Deno ... — Publickey / score: 95 (Deno開発終了とCloudflare合流の重大なニュース)</description>
 </item>
 <item>
-<title>[90] Cohesity、PHPの深刻な脆弱性「PHP2Shell」の影響と企業が講じるべき対策を解説</title>
-<link>https://ascii.jp/elem/000/004/445/4445835/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/445/4445835/?rss</guid>
-<pubDate>Mon, 26 Oct 2026 08:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>Cohesity、PHPの深刻な脆弱性「PHP2Shell」の影響と企業が講じるべき対策を解説 — ASCII.jp / score: 90 (PHPの深刻な脆弱性と対策の解説)</description>
+<title>[90] ユミルリンク 延べ5162万件漏えい</title>
+<link>https://news.yahoo.co.jp/pickup/6600228?source=rss</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6600228?source=rss</guid>
+<pubDate>Mon, 26 Oct 2026 11:29:04 +0000</pubDate>
+<category>Yahoo!ニュース IT</category>
+<description> — Yahoo!ニュース IT / score: 90 (5000万件規模の大量情報漏えいニュースの速報)</description>
+</item>
+<item>
+<title>[90] GMOに攻撃 当初は約80億円要求</title>
+<link>https://news.yahoo.co.jp/pickup/6600222?source=rss</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6600222?source=rss</guid>
+<pubDate>Mon, 26 Oct 2026 10:28:04 +0000</pubDate>
+<category>Yahoo!ニュース IT</category>
+<description> — Yahoo!ニュース IT / score: 90 (GMOに対するサイバー攻撃と巨額要求の速報)</description>
+</item>
+<item>
+<title>[90] メール配信会社「ユミルリンク」のべ5100万件の情報漏えい確認 | NHKニュース</title>
+<link>https://news.web.nhk/newsweb/na/nd-20261026de65955</link>
+<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261026de65955</guid>
+<pubDate>Mon, 26 Oct 2026 10:16:01 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>企業や自治体のメール配信サービスなどを手がける「ユミルリンク」は、会社のシステムが不正なアクセスを受けメールアドレスを中心にのべ5162万件あまりの個人情報が流出したと明らかにしました。 この会社は… — はてなブックマーク テクノロジー / score: 90 (5000万件超の極めて大規模な情報漏えい事案)</description>
+</item>
+<item>
+<title>[90] ハッカー集団 GMOにあす期限で100万ドル要求 顧客脅迫も | NHKニュース</title>
+<link>https://news.web.nhk/newsweb/na/nd-20261026de65733</link>
+<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261026de65733</guid>
+<pubDate>Mon, 26 Oct 2026 08:44:52 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>GMOインターネットグループの投資家向けクラウドサービスに不正アクセスしたとみられるハッカー集団が、27日正午までに会社側に100万ドル＝日本円で1億5700万円余りを支払うよう求めていることが分かり… — はてなブックマーク テクノロジー / score: 90 (GMOに対する身代金要求と脅迫の深刻なインシデント)</description>
 </item>
 <item>
 <title>[90] 「Python」に再び「eMudhra」問題への対策、「Python 3.15.2」など5バージョンを提供／侵害された鍵をブロックする“最後の砦”が「ssl」モジュールに</title>
@@ -119,14 +151,6 @@
 <description>OpenAIがGoogle製圧縮ツール「Brotli」にリモートコード実行につながる脆弱(ぜいじゃく)性が存在することを発見しました。すでに修正版がリリースされており、アップデートが呼びかけられています。 続きを読む... — GIGAZINE / score: 90 (主要な圧縮ツールBrotliのリモートコード実行脆弱性)</description>
 </item>
 <item>
-<title>[90] eMudhra 中間 CA 漏洩、OS もブラウザも最新なのにコンテナ 9 個と Python 環境 16 個が偽の証明書を信じていた</title>
-<link>https://zenn.dev/nanora/articles/20261024-emudhra-ca-own-bundles</link>
-<guid isPermaLink="true">https://zenn.dev/nanora/articles/20261024-emudhra-ca-own-bundles</guid>
-<pubDate>Sat, 24 Oct 2026 03:53:11 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>TL;DR OS もブラウザも最新だったのに、コンテナ 9 個と Python 環境 16 個が偽の証明書を信じていた eMudhra の中間 CA 8 本の秘密鍵が、証明書から誰でも復元できる状態だった ブラウザと OS は塞がったが、自前の証明書を持つアプリは自分で上げるまで偽サイトを信じる 確かめ方は curl 1 行。証明書エラーなら安全、繋がったら要更新 直す場所は環境しだい（うちは venv・pip 本体・コンテナ・Edge・VS Code・uv） 「更新した」の表示と、実際に動いている版は別物だった OS もブラウザも最新だったので、うちは関係ないと思っていた。念... — Zenn トレンド / score: 90 (中間CA漏洩によるコンテナ環境への影響と対策)</description>
-</item>
-<item>
 <title>[90] 「Ruby」の正規表現エンジン「Onigmo」にリモートコード実行の問題、セキュリティ更新を実施／v4.0.9、v3.4.12、v3.3.13が公開。「GitLab」で発見される</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2150800.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2150800.html</guid>
@@ -143,7 +167,7 @@
 <description> — CodeZine / score: 90 (未知のOSS脆弱性400件超の修正という重要トピック)</description>
 </item>
 <item>
-<title>[90] 「Oracle Java SE」にも致命的な脆弱性 ～リモートでデータの窃取・作成・削除・変更が可能／</title>
+<title>[90] 「Oracle Java SE」にも致命的な脆弱性 ～リモートでデータの窃取・作成・削除・変更が可能【10月26日追記】／修正版が公開</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2150531.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2150531.html</guid>
 <pubDate>Thu, 22 Oct 2026 12:12:53 +0000</pubDate>
@@ -231,6 +255,22 @@
 <description>We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model. — Google AI Blog / score: 90 (Googleの新しい最先端AIモデルGemini 4 Argon)</description>
 </item>
 <item>
+<title>[85] 楽天トラベルに不正アクセス、顧客情報260万件流出か　クレカ3万件も - 日本経済新聞</title>
+<link>https://www.nikkei.com/article/DGXZQOUC2686T0W6A021C2000000/</link>
+<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUC2686T0W6A021C2000000/</guid>
+<pubDate>Mon, 26 Oct 2026 11:57:24 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>楽天グループが運営する旅行予約サービス「楽天トラベル」は26日、海外ホテル予約サイトにログインした最大約260万件の顧客情報が不正アクセスを受けたと発表した。氏名やメールアドレス、電話番号、社内用の識別番号が漏れた恐れがある。シンガポール子会社が運営するサイトが不正アクセスを受けた。同サイトで予約した... — はてなブックマーク テクノロジー / score: 85 (楽天トラベルの不正アクセスと大規模な顧客情報流出)</description>
+</item>
+<item>
+<title>[85] PHPの更新を適用していないサイトからビットコインを盗む賞金付きハッキングチャレンジが開催され19時間で突破される</title>
+<link>https://gigazine.net/news/20261026-steal-my-bitcoin/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261026-steal-my-bitcoin/</guid>
+<pubDate>Mon, 26 Oct 2026 11:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>2026年10月25日、PHPの深刻な脆弱(ぜいじゃく)性を悪用してウェブサイトからビットコインを盗み出すチャレンジ「Steal My Bitcoin」が開催されました。参加者はセキュリティ更新プログラムを適用していないサーバーへの侵入を試み、ビットコインの秘密鍵を入手できれば賞金を獲得できるというルールで、開始から約19時間後に攻略者が現れて約2000ドル(約31万4000円)相当のビットコインを獲得したことが報告されています。 続きを読む... — GIGAZINE / score: 85 (PHPの脆弱性とハッキングチャレンジの速攻攻略事例)</description>
+</item>
+<item>
 <title>[85] Joshin 600万件超の情報漏えいか</title>
 <link>https://news.yahoo.co.jp/pickup/6600214?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6600214?source=rss</guid>
@@ -247,20 +287,20 @@
 <description>Ｊｏｓｈｉｎ、不正アクセスで最大約600万件の会員情報などが漏えいの可能性 — はてなブックマーク テクノロジー / score: 85 (大規模企業の大規模な会員情報漏洩インシデント)</description>
 </item>
 <item>
-<title>[85] AI関連も含むフォーティネット製品の最新セキュリティアップデート</title>
-<link>https://ascii.jp/elem/000/004/445/4445541/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/445/4445541/?rss</guid>
-<pubDate>Mon, 26 Oct 2026 08:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>フォーティネットは、FortiMail および FortiAuthenticator での最近のリリースに続き、FortiOS、FortiManager、FortiAnalyzer 向けの連携した⼀連のセキュリティアップデートをリリースしました。 — ASCII.jp / score: 85 (主要セキュリティ製品の連携アップデート)</description>
-</item>
-<item>
 <title>[85] 「Brotli」の脆弱性「HTTP2Shell」はMicrosoft製品にも影響、「.NET」に定例外更新／「Visual Studio」、「PowerShell」でもセキュリティアップデート</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2151104.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2151104.html</guid>
-<pubDate>Mon, 26 Oct 2026 06:21:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Microsoftは10月25日（現地時間）、「.NET 8」「.NET 9」「.NET 10」向けに定例外（out-of-band：OOB）のセキュリティ更新をリリースした。次期バージョン「.NET 11」のリリース候補版（RC3）も公開されており、同社はできるだけ早いアップデートを推奨している。 — 窓の杜 / score: 85 (Microsoft製品の脆弱性に対する定例外アプデ)</description>
+<pubDate>Mon, 26 Oct 2026 06:35:53 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>「Brotli」の脆弱性「HTTP2Shell」はMicrosoft製品にも影響、「.NET」に定例外更新／「Visual Studio」、「PowerShell」でもセキュリティアップデート — はてなブックマーク テクノロジー / score: 85 (Microsoft製品の脆弱性に対する定例外アプデ)</description>
+</item>
+<item>
+<title>[85] CVE-2026-111943: eMudhra intermediate CA key recovery in AWS trust bundles</title>
+<link>https://aws.amazon.com/security/security-bulletins/2026-150-aws/</link>
+<guid isPermaLink="true">https://aws.amazon.com/security/security-bulletins/2026-150-aws/</guid>
+<pubDate>Mon, 26 Oct 2026 05:23:50 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>CVE-2026-111943: eMudhra intermediate CA key recovery in AWS trust bundles The sessions are set and your seat is waiting. Register now — はてなブックマーク テクノロジー / score: 85 (クラウドの証明書関連における重要なセキュリティ脆弱性)</description>
 </item>
 <item>
 <title>[85] 「3万円にした結果がコレかぁ」GMOのサーバー不正アクセス、3か月前の熊谷代表の発言が「伏線回収」だと話題になってしまう</title>
@@ -269,14 +309,6 @@
 <pubDate>Mon, 26 Oct 2026 03:24:49 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>報道ステーション＋サタステ @hst_tvasahi 【GMOサーバー攻撃】FX取引“ハッキング”で600万円被害 ｜ 神奈川県に住む男性会社員(44)は、21日夕方にFXの取引口座を乗っ取られ、意に反した売買が行われた ▼「400万ぐらい損を出すまでに1秒」 損失額約600万円 不正取引の被害者(44) 「被害としては600万以上」 「最初はパニ... — はてなブックマーク テクノロジー / score: 85 (GMOのFX取引不正アクセスと大規模インシデント)</description>
-</item>
-<item>
-<title>[85] フィギュア企業に不正アクセス、公式EC閉鎖　会員の住所や注文履歴など漏えいか　再開目処立たず</title>
-<link>https://www.itmedia.co.jp/news/article/2610/26/2000002577/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/26/2000002577/</guid>
-<pubDate>Mon, 26 Oct 2026 02:55:53 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>フィギュアなどの企画・販売を手掛けるグッドスマイルカンパニー（東京都千代田区）は10月23日、同社が運営するECサイト「グッドスマイルカンパニー公式ショップ」で不正アクセスが発生し、会員の個人情報などが第三者に閲覧されたと発表した。サイトは現在閉鎖しており、再開時期は未定としている。 同社のシステムログ... — はてなブックマーク テクノロジー / score: 85 (企業の不正アクセスと個人情報漏洩の重大なインシデント)</description>
 </item>
 <item>
 <title>[85] Node.js の Brotli 脆弱性 CVE-2026-111497 を読む</title>
@@ -455,6 +487,14 @@
 <description>Here am I floating 'round my tin can Far above the moon Planet Earth is blue And there's nothing I can do Five years in orbit. Mission complete. ;) — CPython リリース / score: 85 (Python 3.10のサポート終了情報)</description>
 </item>
 <item>
+<title>[80] ギフティ ギフト券不正発行される</title>
+<link>https://news.yahoo.co.jp/pickup/6600229?source=rss</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6600229?source=rss</guid>
+<pubDate>Mon, 26 Oct 2026 12:18:43 +0000</pubDate>
+<category>Yahoo!ニュース IT</category>
+<description> — Yahoo!ニュース IT / score: 80 (ギフト券サービスにおける不正発行インシデント)</description>
+</item>
+<item>
 <title>[80] ディスク暗号化ツール「VeraCrypt」v1.26.30が公開、複数の脆弱性を修正／Windows版では前バージョンで報告されたドライバーの不安定化にも対処</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2151130.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2151130.html</guid>
@@ -485,14 +525,6 @@
 <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 80 (AWSのコード脆弱性修正PR生成ツールの一般提供)</description>
-</item>
-<item>
-<title>[80] 不正アクセス GMO代表が謝罪</title>
-<link>https://news.yahoo.co.jp/pickup/6600119?source=rss</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6600119?source=rss</guid>
-<pubDate>Sun, 25 Oct 2026 14:05:35 +0000</pubDate>
-<category>Yahoo!ニュース IT</category>
-<description> — Yahoo!ニュース IT / score: 80 (大手IT企業における不正アクセスインシデント)</description>
 </item>
 <item>
 <title>[80] Anthropic、パーソナルAIアシスタントClaude Duetのリサーチプレビューを発表、米国で先行提供 ——必要な対応を通知、依頼した作業を離席中も継続</title>
@@ -615,6 +647,14 @@
 <description>Build complex software and cybersecurity workflows with Google Gemini 4 Argon. Check out the Gemini API Developer Guide and read the Google Antigravity and Android Studi… — Gemini (Google Blog) / score: 80 (新型AIモデルのAPI一般提供に関する重要なお知らせ。)</description>
 </item>
 <item>
+<title>[75] 【速報】Appleが有機EL iPad miniを発表</title>
+<link>https://www.gizmodo.jp/article/2610-apple-oled-ipad-mini-release/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/2610-apple-oled-ipad-mini-release/</guid>
+<pubDate>Mon, 26 Oct 2026 13:20:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>Appleが新型のiPad miniを11月6日に発売します。ディスプレイが有機ELになるなどしています。チップはA20 Pro。価格は11万9800円〜となっています。Source: Apple… — ギズモード・ジャパン / score: 75 (Appleの新型iPad mini発表)</description>
+</item>
+<item>
 <title>[75] Googleが「GmailやGoogleフォトの内容は広告に利用しない」という方針に例外を追加、AIとのデータ共有が広告に影響する可能性</title>
 <link>https://gigazine.net/news/20261026-google-privacy-policy/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261026-google-privacy-policy/</guid>
@@ -623,28 +663,12 @@
 <description>Googleが2026年10月16日にプライバシーポリシーを更新し、GmailやGoogleフォトなどに保存された情報を広告のカスタマイズに利用する条件を変更したことが明らかになりました。 続きを読む... — GIGAZINE / score: 75 (大手プラットフォームのプライバシー方針変更)</description>
 </item>
 <item>
-<title>[75] 748BのDeepSeekがGPU 1枚でさらに速く！生成は最大約2倍</title>
-<link>https://pc.watch.impress.co.jp/docs/news/2151113.html</link>
-<guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2151113.html</guid>
-<pubDate>Mon, 26 Oct 2026 07:18:07 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>748BのDeepSeekがGPU 1枚でさらに速く！生成は最大約2倍 — はてなブックマーク テクノロジー / score: 75 (大規模言語モデルの高速化とLLM実用技術)</description>
-</item>
-<item>
 <title>[75] Moonshot AI、最高性能のオープンウェイトMoEモデル「Kimi K3.1 Pro」を発表 ―2～3倍高速な「Kimi K3.1 Pro Highspeed」も提供開始</title>
 <link>https://gihyo.jp/article/2026/10/kimi-k3-1-pro?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/10/kimi-k3-1-pro?utm_source=feed</guid>
 <pubDate>Mon, 26 Oct 2026 05:19:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>中国Moonshot AIは2026年10月23日、マルチモーダルMoEモデルの最新バージョン「Kimi K3.1 Pro」および高レスポンスモデル「Kimi K3.1 Pro Highspeed」を発表した。 — gihyo.jp / score: 75 (Moonshot AIによる高性能オープンウェイトMoEモデル発表)</description>
-</item>
-<item>
-<title>[75] Google Meetが神アプデ！ 英語の会議も、日本語で聞いて日本語で返せる</title>
-<link>https://www.gizmodo.jp/article/2610-google-meet-realtime-voice-translation/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2610-google-meet-realtime-voice-translation/</guid>
-<pubDate>Mon, 26 Oct 2026 04:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>Google Meetのリアルタイム音声翻訳機能が日本語に対応しました。英語の会議も日本語で聞いて日本語で発言でき、グローバルなビジネスやコミュニケーションをスムーズにサポートします。 — ギズモード・ジャパン / score: 75 (Google Meetのリアルタイム音声翻訳機能)</description>
 </item>
 <item>
 <title>[75] 確認漏れはない？先週の注目記事はセキュリティ関連ばかり、「PHP」「Apache Tomcat」「Node.js」「eMudhra」ほか ～窓の杜アクセスランキング［2026/10/19～2026/10/25]【記事アクセスランキング】</title>
@@ -671,14 +695,6 @@
 <description>分解レポートと言えばお馴染みのiFixitがApple初の折りたたみ式スマホ「iPhone Duo」の分解レポートを公開しました。 分解動画は既に何本か公開されているので、内部構造は明らかになっていますが、iFixitは […] — 気になる、記になる… / score: 75 (新ハードウェアの分解と構造上の問題検証)</description>
 </item>
 <item>
-<title>[75] クラックゲート？iPhone Duo、発売当日からヒンジ部の画面割れ報告相次ぐ | テクノエッジ TechnoEdge</title>
-<link>https://www.techno-edge.net/article/2026/10/26/5627.html</link>
-<guid isPermaLink="true">https://www.techno-edge.net/article/2026/10/26/5627.html</guid>
-<pubDate>Sun, 25 Oct 2026 21:39:07 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>アップルの初の折りたたみ型スマートフォン「iPhone Duo」が2026年10月23日に発売されました。しかしその当日から、内側ディスプレイがヒンジ部分に沿って割れるという不具合が米国・オーストラリア・中国など複数の国のユーザーから報告されています。 アップルは一部のユーザーに対してApple Storeでの即時交換対応を... — はてなブックマーク テクノロジー / score: 75 (新ハードウェアの致命的な初期不良の話題)</description>
-</item>
-<item>
 <title>[75] AIエージェントによる操作の多くがボット検出システムのhCaptchaやCloudflare Turnstileを通過</title>
 <link>https://gigazine.net/news/20261026-ai-bot-detection-benchmark/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261026-ai-bot-detection-benchmark/</guid>
@@ -701,6 +717,14 @@
 <pubDate>Sun, 25 Oct 2026 16:57:52 +0000</pubDate>
 <category>CPython リリース</category>
 <description>Python 3.15.2 — CPython リリース / score: 75 (Python 3.15.2のリリース情報)</description>
+</item>
+<item>
+<title>[75] 2026年の国内情報漏えい71件を侵入経路で分類してみた</title>
+<link>https://zenn.dev/blackleg/articles/e9ed8b038bcf48</link>
+<guid isPermaLink="true">https://zenn.dev/blackleg/articles/e9ed8b038bcf48</guid>
+<pubDate>Sat, 24 Oct 2026 15:21:05 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>今年は情報漏えいのニュースが本当に多いです。KDDIのメールシステムで1,200万人、タイムズカーで660万件、10月に入ってからも委託先経由で大和証券やシチズンの顧客情報が漏れ、10月23日には佐川急便が最大約5,323万件という過去最多の数字を出しました。毎週のように何か出てきます。 ただ、ニュースを個別に読んでいても「また漏れたのか」で終わってしまうので、2026年に公表された事案をまとめて並べて、どこから入られたのかで分けてみました。対象は71事案です。各社のプレスリリースや調査報告をできるだけ一次資料で読み、原因の書き方をそのまま拾っています。 この記事でわかること 2026... — Zenn トレンド / score: 75 (国内の情報漏えい動向の網羅的な分類と分析)</description>
 </item>
 <item>
 <title>[75] 「コードレビューは死ぬ、ターミナルも消える」——海外著名エンジニアが予測するAI時代のソフトウェア開発の未来</title>
@@ -781,30 +805,6 @@
 <pubDate>Wed, 21 Oct 2026 11:30:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>Bringing autonomous agents into production means processing sensitive data and valuable intellectual property in real time. Protecting proprietary model weights, user prompts, and generated outputs requires security that safeguards data while it is actively being computed. As part of our efforts to enable your enterprise securely, today we are announcing that Confidential Computing on Google Cloud’s G4 instances enabled by NVIDIA RTX PRO 6000 Blackwell Server edition GPUs is now generally availa — Google Cloud Blog / score: 75 (NVIDIA Blackwell搭載の機密G4インスタンスGA)</description>
-</item>
-<item>
-<title>[75] Google Cloud and NVIDIA expand co-engineering collaboration to scale infrastructure for the agentic era</title>
-<link>https://cloud.google.com/blog/topics/ai-infrastructure/google-cloud-infrastructure-at-nvidia-gtc-berlin-2026/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/topics/ai-infrastructure/google-cloud-infrastructure-at-nvidia-gtc-berlin-2026/</guid>
-<pubDate>Wed, 21 Oct 2026 11:30:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>As enterprises transition to continuous, multi-step agentic workflows, traditional infrastructure is hitting its limits. But raw performance is only part of the equation. To truly scale agentic AI, enterprises also need the flexibility to run the right models for the right tasks, alongside the data and operational sovereignty required to maintain verifiable control over both their sensitive intellectual property and the underlying infrastructure. Today at NVIDIA GTC Berlin 2026, we are announcin — Google Cloud Blog / score: 75 (Google CloudとNVIDIAのエージェントAI基盤協業)</description>
-</item>
-<item>
-<title>[75] Microsoft、TypeScript 7.1 Betaを公開 ——型検査を高速化し外部ツール向けAPIを追加</title>
-<link>https://gihyo.jp/article/2026/10/_typescript-7.1-beta?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/10/_typescript-7.1-beta?utm_source=feed</guid>
-<pubDate>Wed, 21 Oct 2026 10:52:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Microsoftは2026年10月20日、TypeScript 7.1 Betaを公開した。Goで実装したネイティブ版コンパイラーの性能を改善し、同社の測定では7.0に比べて型検査が1.2～1.9倍に高速化した。 — gihyo.jp / score: 75 (TypeScript 7.1 Betaの高速化と新機能)</description>
-</item>
-<item>
-<title>[75] JEP targeted to JDK 28: 543: Structured Concurrency</title>
-<link>https://inside.java/2026/10/21/jep543-target-jdk28/</link>
-<guid isPermaLink="true">https://inside.java/2026/10/21/jep543-target-jdk28/</guid>
-<pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-<category>Inside Java</category>
-<description>The following JEP is targeted to JDK 28: 543: Structured Concurrency — Inside Java / score: 75 (JDK 28に向けたStructured ConcurrencyのJEP追加)</description>
 </item>
 </channel>
 </rss>
