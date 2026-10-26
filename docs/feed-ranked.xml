@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 26 Oct 2026 08:19:05 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 10:12:12 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] Python 3.15.2, 3.14.10, 3.13.18, 3.12.16 and 3.11.18 are out</title>
@@ -93,6 +93,14 @@
 <pubDate>Mon, 12 Oct 2026 15:46:53 +0000</pubDate>
 <category>Publickey</category>
 <description>JavaScriptランタイム「Deno」の開発元であるDeno LandとCloudflareは、Deno LandがCloudflareに合流すると発表しました。CloudflareによるDeno Landの買収と見られます（Deno ... — Publickey / score: 95 (Deno開発終了とCloudflare合流の重大なニュース)</description>
+</item>
+<item>
+<title>[90] Cohesity、PHPの深刻な脆弱性「PHP2Shell」の影響と企業が講じるべき対策を解説</title>
+<link>https://ascii.jp/elem/000/004/445/4445835/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/445/4445835/?rss</guid>
+<pubDate>Mon, 26 Oct 2026 08:00:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>Cohesity、PHPの深刻な脆弱性「PHP2Shell」の影響と企業が講じるべき対策を解説 — ASCII.jp / score: 90 (PHPの深刻な脆弱性と対策の解説)</description>
 </item>
 <item>
 <title>[90] 「Python」に再び「eMudhra」問題への対策、「Python 3.15.2」など5バージョンを提供／侵害された鍵をブロックする“最後の砦”が「ssl」モジュールに</title>
@@ -207,14 +215,6 @@
 <description>米Googleは10月20日（現地時間、以下同）、デスクトップ向け「Google Chrome」の安定（Stable）チャネルをアップデートした。Windows/Mac環境にはv156.0.8078.47/.48が、Linux環境にはv156.0.8078.47が順次展開される。「Chrome 155」に続くメジャーリリースだ。 — 窓の杜 / score: 90 (Google Chromeのメジャーリリースと脆弱性修正)</description>
 </item>
 <item>
-<title>[90] Oracle、今年最後の「CPU」を実施 ～Java、VirtualBox、MySQLなどで1,295件のパッチ／四半期に一度の大規模定例セキュリティアップデート</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2149811.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2149811.html</guid>
-<pubDate>Tue, 20 Oct 2026 23:45:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Oracleは10月20日（現地時間、以下同）、四半期ごとの定例セキュリティアップデート（Critical Patch Update：CPU）を実施した。「Oracle Java SE」や「MySQL」、「Oracle VM VirtualBox」などの製品向けに、1,295件の新しいセキュリティパッチが提供されている。 — 窓の杜 / score: 90 (多数の製品を含む大規模なセキュリティパッチ)</description>
-</item>
-<item>
 <title>[90] Next.js Security Update for Upstream Vulnerabilities</title>
 <link>https://nextjs.org/blog/nextjs-security-update-october-14-2026</link>
 <guid isPermaLink="true">https://nextjs.org/blog/nextjs-security-update-october-14-2026</guid>
@@ -229,6 +229,22 @@
 <pubDate>Tue, 13 Oct 2026 16:00:00 +0000</pubDate>
 <category>Google AI Blog</category>
 <description>We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model. — Google AI Blog / score: 90 (Googleの新しい最先端AIモデルGemini 4 Argon)</description>
+</item>
+<item>
+<title>[85] Joshin 600万件超の情報漏えいか</title>
+<link>https://news.yahoo.co.jp/pickup/6600214?source=rss</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6600214?source=rss</guid>
+<pubDate>Mon, 26 Oct 2026 09:47:14 +0000</pubDate>
+<category>Yahoo!ニュース IT</category>
+<description> — Yahoo!ニュース IT / score: 85 (Joshinの大規模情報漏えいに関する続報)</description>
+</item>
+<item>
+<title>[85] Ｊｏｓｈｉｎ、不正アクセスで最大約600万件の会員情報などが漏えいの可能性</title>
+<link>https://internet.watch.impress.co.jp/docs/news/2151273.html</link>
+<guid isPermaLink="true">https://internet.watch.impress.co.jp/docs/news/2151273.html</guid>
+<pubDate>Mon, 26 Oct 2026 09:20:26 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Ｊｏｓｈｉｎ、不正アクセスで最大約600万件の会員情報などが漏えいの可能性 — はてなブックマーク テクノロジー / score: 85 (大規模企業の大規模な会員情報漏洩インシデント)</description>
 </item>
 <item>
 <title>[85] AI関連も含むフォーティネット製品の最新セキュリティアップデート</title>
@@ -271,28 +287,12 @@
 <description>! 注記: 本記事で扱うのは、修正コミットから読み取れる原因と修正内容である。「out-of-bounds write によってクラッシュ、メモリ内容の漏えい、RCE につながりうる」という影響の説明は Node.js の脆弱性告知によるもので、そこに至る経路は本記事では扱わない。 きっかけ 2026年10月21日に Node.js のセキュリティリリースが公開された。 複数の脆弱性が同時に修正されたが、 Node.js Brotli decoder out-of-bounds write permits remote code execution (CVE-2026-11149... — Zenn トレンド / score: 85 (Node.jsのBrotliに関する脆弱性解説)</description>
 </item>
 <item>
-<title>[85] AIはハッキングのあり方を根本から変えつつあり、銀行や電力網がインターネットから切り離される日も近い？ - YAMDAS現更新履歴</title>
-<link>https://yamdas.hatenablog.com/entry/20261026/php2shell-black-october</link>
-<guid isPermaLink="true">https://yamdas.hatenablog.com/entry/20261026/php2shell-black-october</guid>
-<pubDate>Sun, 25 Oct 2026 23:25:57 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>www.404media.co ワタシは↑のエントリで「PHP事変」と書いちゃったが、‘Black October’という表現が使われてるみたいね。言い換えれば、AI によるサイバーセキュリティの「ブラック・スワン」現象？ この 404 Media の記事も、「AI はハッキングのあり方を根本から変えつつある。今後どうなるかは誰にもわからない」と書... — はてなブックマーク テクノロジー / score: 85 (AIによるハッキングの脅威とセキュリティの未来)</description>
-</item>
-<item>
 <title>[85] 「DuckDB 2.0 LTS」正式リリース。Quackプロトコルによるクライアント/サーバ機能や非同期処理による高速化など</title>
 <link>https://www.publickey1.jp/blog/26/duckdb_20_ltsquack.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/duckdb_20_ltsquack.html</guid>
 <pubDate>Sun, 25 Oct 2026 15:44:47 +0000</pubDate>
 <category>Publickey</category>
 <description>DuckDB Foundationは、シングルバイナリで高速なデータ分析を実現するOLAP型データベース「DuckDB 2.0 LTS」（コード名：Cinnamon Teal）の正式リリースを発表しました。 Announcing Duck... — Publickey / score: 85 (主要DBのメジャーリリースであり高速化など実用的)</description>
-</item>
-<item>
-<title>[85] ARTEXだけではない：日本を狙う3つの攻撃基盤に見るAI関与の実態</title>
-<link>https://www.trendmicro.com/ja_jp/jp-security/26/j/expertview-20261023-01.html</link>
-<guid isPermaLink="true">https://www.trendmicro.com/ja_jp/jp-security/26/j/expertview-20261023-01.html</guid>
-<pubDate>Sun, 25 Oct 2026 07:45:46 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>ARTEXだけではない：日本を狙う3つの攻撃基盤に見るAI関与の実態 国内の企業や団体が運営するWebシステムからの情報漏えいが相次いで公表されています。昨今のサイバー攻撃に対するAIの悪用の可能性について、当社のリサーチャーが調査した結果をレポートします。 By: Joseph C Chen（TrendAI™ Staff Researcher）, 松川... — はてなブックマーク テクノロジー / score: 85 (日本を狙うサイバー攻撃とAI悪用の実態)</description>
 </item>
 <item>
 <title>[85] JEP targeted to JDK 28: 544: Ahead-of-Time Code Compilation</title>
@@ -455,12 +455,20 @@
 <description>Here am I floating 'round my tin can Far above the moon Planet Earth is blue And there's nothing I can do Five years in orbit. Mission complete. ;) — CPython リリース / score: 85 (Python 3.10のサポート終了情報)</description>
 </item>
 <item>
-<title>[80] 国交省の電子納品物検査支援システムに脆弱性　悪用されると任意のコード実行の恐れ</title>
-<link>https://ascii.jp/elem/000/004/445/4445769/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/445/4445769/?rss</guid>
-<pubDate>Mon, 26 Oct 2026 07:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>Japan Vulnerability Notes（JVN）は10月26日、国土交通省が提供する「電子納品物検査支援システムにおける」の脆弱性情報を公開した。 — ASCII.jp / score: 80 (政府系システムの脆弱性とコード実行リスク)</description>
+<title>[80] ディスク暗号化ツール「VeraCrypt」v1.26.30が公開、複数の脆弱性を修正／Windows版では前バージョンで報告されたドライバーの不安定化にも対処</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2151130.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2151130.html</guid>
+<pubDate>Mon, 26 Oct 2026 08:19:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>オープンソースのディスク暗号化ソフト「VeraCrypt」が10月24日、v1.26.30へアップデートされた。複数のセキュリティ問題に対処したマイナーアップデートとなっている。 — 窓の杜 / score: 80 (重要暗号化ツールの脆弱性修正アップデート)</description>
+</item>
+<item>
+<title>[80] PSNに新たな脆弱性が発覚か。二段階認証を回避してファミリーメンバーが勝手に追加される被害が発生中</title>
+<link>https://game.watch.impress.co.jp/docs/news/2151226.html</link>
+<guid isPermaLink="true">https://game.watch.impress.co.jp/docs/news/2151226.html</guid>
+<pubDate>Mon, 26 Oct 2026 08:06:45 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>PSNに新たな脆弱性が発覚か。二段階認証を回避してファミリーメンバーが勝手に追加される被害が発生中 — はてなブックマーク テクノロジー / score: 80 (主要プラットフォームの深刻な脆弱性の可能性)</description>
 </item>
 <item>
 <title>[80] 社内のホワイトハッカー「誰より悔しい」不正アクセス受けたGMO熊谷社長、ブログ全文</title>
@@ -615,6 +623,14 @@
 <description>Googleが2026年10月16日にプライバシーポリシーを更新し、GmailやGoogleフォトなどに保存された情報を広告のカスタマイズに利用する条件を変更したことが明らかになりました。 続きを読む... — GIGAZINE / score: 75 (大手プラットフォームのプライバシー方針変更)</description>
 </item>
 <item>
+<title>[75] 748BのDeepSeekがGPU 1枚でさらに速く！生成は最大約2倍</title>
+<link>https://pc.watch.impress.co.jp/docs/news/2151113.html</link>
+<guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2151113.html</guid>
+<pubDate>Mon, 26 Oct 2026 07:18:07 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>748BのDeepSeekがGPU 1枚でさらに速く！生成は最大約2倍 — はてなブックマーク テクノロジー / score: 75 (大規模言語モデルの高速化とLLM実用技術)</description>
+</item>
+<item>
 <title>[75] Moonshot AI、最高性能のオープンウェイトMoEモデル「Kimi K3.1 Pro」を発表 ―2～3倍高速な「Kimi K3.1 Pro Highspeed」も提供開始</title>
 <link>https://gihyo.jp/article/2026/10/kimi-k3-1-pro?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/10/kimi-k3-1-pro?utm_source=feed</guid>
@@ -642,9 +658,9 @@
 <title>[75] iFixitがiPhone Duoをバラバラに分解しディスプレイ故障の原因を調査</title>
 <link>https://gigazine.net/news/20261026-iphone-duo-teardown-ifixit/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261026-iphone-duo-teardown-ifixit/</guid>
-<pubDate>Mon, 26 Oct 2026 01:57:51 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>2026年10月23日、Apple初の折りたたみスマートフォン「iPhone Duo」が発売されました。しかし、発売早々ディスプレイが故障するという事例が多数報告されています。そんなiPhone Duoを修理業者のiFixitがバラバラに分解し、故障の原因を調査しました。 iPhone Duo Teardown: The Most Repairable Foldable Has a Huge Sc... — はてなブックマーク テクノロジー / score: 75 (注目新製品のハードウェア分解と故障原因調査)</description>
+<pubDate>Mon, 26 Oct 2026 01:53:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>2026年10月23日、Apple初の折りたたみスマートフォン「iPhone Duo」が発売されました。しかし、発売早々ディスプレイが故障するという事例が多数報告されています。そんなiPhone Duoを修理業者のiFixitがバラバラに分解し、故障の原因を調査しました。 続きを読む... — GIGAZINE / score: 75 (注目新製品のハードウェア分解と故障原因調査)</description>
 </item>
 <item>
 <title>[75] iFixitが｢iPhone Duo｣の分解レポートを公開 ｰ ディスプレイのヒビ割れ問題の発生箇所を確認</title>
@@ -789,22 +805,6 @@
 <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
 <category>Inside Java</category>
 <description>The following JEP is targeted to JDK 28: 543: Structured Concurrency — Inside Java / score: 75 (JDK 28に向けたStructured ConcurrencyのJEP追加)</description>
-</item>
-<item>
-<title>[75] Announcing Amazon ECS Gateway, a managed ingress solution for your ECS services</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/10/announcing-amazon-ecs-gateway/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/announcing-amazon-ecs-gateway/</guid>
-<pubDate>Tue, 20 Oct 2026 23:26:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>AWS announces Amazon Elastic Container Service (Amazon ECS) Gateway, a new resource that simplifies ingress networking for containerized applications by dynamically provisioning and managing Application Load Balancers (ALBs) and their supporting resources directly in your account. With ECS Gateway, platform teams define organizational networking standards once on a gateway and associate it with one or more clusters, giving organizations a centralized way to govern how traffic reaches their ECS s — AWS What's New / score: 75 (AWS ECSの新しいイングレス管理機能)</description>
-</item>
-<item>
-<title>[75] Introducing Amazon ECS Gateway: A fully-managed ingress solution for ECS services</title>
-<link>https://aws.amazon.com/blogs/aws/introducing-amazon-ecs-gateway-a-fully-managed-ingress-solution-for-ecs-services/</link>
-<guid isPermaLink="true">https://aws.amazon.com/blogs/aws/introducing-amazon-ecs-gateway-a-fully-managed-ingress-solution-for-ecs-services/</guid>
-<pubDate>Tue, 20 Oct 2026 17:03:38 +0000</pubDate>
-<category>AWS News Blog</category>
-<description>Try Amazon ECS Gateway, a new account-level resource that simplifies ingress networking for containerized workloads by dynamically provisioning and managing the necessary infrastructure on your behalf, with all resources created directly in your account. — AWS News Blog / score: 75 (ECS向けフルマネージドなイングレスソリューションの新機能)</description>
 </item>
 </channel>
 </rss>
