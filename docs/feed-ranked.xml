@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 26 Oct 2026 18:15:58 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 20:09:44 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] iPhoneからPDFファイルを開くだけでハッキングすることに成功</title>
@@ -207,6 +207,30 @@
 <description>Today's PHP Security Release, and How We're Strengthening PHP Security If you're running anything on PHP it's vital you upgrade - today's updates (across the entire PHP 8.x line) address two remote code execution holes, and there have been exploits circulating since last night, thanks to a leak in the coordinated disclosure process. This post from the PHP Foundation explain what went so wrong: On Tuesday, October 20th, at around 15:00 UTC, the two CVE IDs began circulating on online forums and s — Simon Willison / score: 90 (PHPの脆弱性修正を含む重要なセキュリティリリース)</description>
 </item>
 <item>
+<title>[90] 2026-10-21, Version 26.12.1 (Current), @aduh95 prepared by @RafaelGSS</title>
+<link>https://github.com/nodejs/node/releases/tag/v26.12.1</link>
+<guid isPermaLink="true">https://github.com/nodejs/node/releases/tag/v26.12.1</guid>
+<pubDate>Wed, 21 Oct 2026 10:38:29 +0000</pubDate>
+<category>Node.js リリース</category>
+<description>This is a security release. Notable Changes ( CVE-2026-106069 , CVE-2026-106072 ) tls: reject non-canonical IP addresses (Matteo Collina) – High ( CVE-2026-105482 ) dns: validate resolve inputs for null bytes (James M Snell) – High ( CVE-2026-105483 ) tls: fix ip normalization regression (James M Snell) – High ( CVE-2026-111497 ) src: expose BROTLI_DECODER_ERROR_FORMAT_BLOCK_SWITCH (Antoine du Hamel) – High ( CVE-2026-111497 ) deps: brotli: cherry-pick 0ed4268a4401abcb44720963 (Evgenii Kliuchnik — Node.js リリース / score: 90 (Node.jsの複数脆弱性を修正するセキュリティリリース)</description>
+</item>
+<item>
+<title>[90] 2026-10-21, Version 24.22.1 'Krypton' (LTS), @aduh95</title>
+<link>https://github.com/nodejs/node/releases/tag/v24.22.1</link>
+<guid isPermaLink="true">https://github.com/nodejs/node/releases/tag/v24.22.1</guid>
+<pubDate>Wed, 21 Oct 2026 10:38:25 +0000</pubDate>
+<category>Node.js リリース</category>
+<description>This is a security release. Notable Changes ( CVE-2026-105481 ) http: ensure agent data guard works without I/O (James M Snell) ( CVE-2026-105482 ) dns: validate resolve inputs for null bytes (James M Snell) ( CVE-2026-105483 ) tls: fix ip normalization regression (James M Snell) ( CVE-2026-106069 ) tls: reject non-canonical IP addresses (Matteo Collina) ( CVE-2026-106073 ) permission: check permission model in realpathSync (RafaelGSS) ( CVE-2026-106074 ) crypto: reset random caches across snaps — Node.js リリース / score: 90 (Node.js LTSの重要セキュリティアップデート)</description>
+</item>
+<item>
+<title>[90] 2026-10-21, Version 22.23.4 'Jod' (LTS), @aduh95</title>
+<link>https://github.com/nodejs/node/releases/tag/v22.23.4</link>
+<guid isPermaLink="true">https://github.com/nodejs/node/releases/tag/v22.23.4</guid>
+<pubDate>Wed, 21 Oct 2026 10:38:20 +0000</pubDate>
+<category>Node.js リリース</category>
+<description>This is a security release. Notable Changes ( CVE-2026-105481 ) http: ensure agent data guard works without I/O (James M Snell) ( CVE-2026-105482 ) dns: validate resolve inputs for null bytes (James M Snell) ( CVE-2026-106069 ) tls: reject non-canonical IP addresses (Matteo Collina) ( CVE-2026-106073 ) permission: check permission model in realpathSync (RafaelGSS) ( CVE-2026-106074 ) crypto: reset random caches across snapshots (Filip Skokan) ( CVE-2026-111497 ) src: expose BROTLI_DECODER_ERROR_ — Node.js リリース / score: 90 (Node.js LTSの重要セキュリティアップデート)</description>
+</item>
+<item>
 <title>[90] 「Google Chrome 156」が公開、「IndexedDB」は「SQLite」ベースへ／深刻度「Critical」6件を含む353件もの脆弱性に対処</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2149824.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2149824.html</guid>
@@ -317,6 +341,14 @@
 <pubDate>Mon, 26 Oct 2026 02:29:36 +0000</pubDate>
 <category>Zenn トレンド</category>
 <description>! 注記: 本記事で扱うのは、修正コミットから読み取れる原因と修正内容である。「out-of-bounds write によってクラッシュ、メモリ内容の漏えい、RCE につながりうる」という影響の説明は Node.js の脆弱性告知によるもので、そこに至る経路は本記事では扱わない。 きっかけ 2026年10月21日に Node.js のセキュリティリリースが公開された。 複数の脆弱性が同時に修正されたが、 Node.js Brotli decoder out-of-bounds write permits remote code execution (CVE-2026-11149... — Zenn トレンド / score: 85 (Node.jsのBrotliに関する脆弱性解説)</description>
+</item>
+<item>
+<title>[85] Introducing GPT-6.1 Terra</title>
+<link>https://openai.com/index/introducing-gpt-6-1-terra</link>
+<guid isPermaLink="true">https://openai.com/index/introducing-gpt-6-1-terra</guid>
+<pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>Bringing fast and capable computer use to everyone — OpenAI News / score: 85 (主要AIモデルの新型GPT-6.1 Terraの発表)</description>
 </item>
 <item>
 <title>[85] GitHub - apple/security-pcc: Private Cloud Compute (PCC)</title>
@@ -487,6 +519,14 @@
 <description>AWS Lambda Web Functions is a serverless compute primitive that runs your HTTP framework natively, delivering fast, consistent responses through multi-concurrent execution and automated global distribution. — AWS News Blog / score: 85 (AWS Lambda Web Functions発表の公式解説)</description>
 </item>
 <item>
+<title>[80] OpenAI GPT-6.1 Terra is now generally available on Amazon Bedrock</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/openai-gpt-6-1-terra-on-amazon-bedrock/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/openai-gpt-6-1-terra-on-amazon-bedrock/</guid>
+<pubDate>Mon, 26 Oct 2026 18:27:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Today, AWS announces the general availability of OpenAI GPT-6.1 Terra on Amazon Bedrock. GPT-6.1 Terra expands the GPT-6 family with a balance of capability, speed, and cost efficiency for everyday workloads. As the newest model in the Terra line, GPT-6.1 Terra combines detailed visual reasoning, accurate computer use, and improved factuality and natural writing over GPT-5.6 Terra, for complex workflows. In OpenAI’s Agents’ Last Exam evaluation, it scored 15 percentage points higher than GPT-5.6 — AWS What's New / score: 80 (Amazon Bedrockでの新型GPTモデル提供開始)</description>
+</item>
+<item>
 <title>[80] Microsoft Word - 当社連結子会社における一部システムへの不正アクセスおよびeギフトの不正発行に関するお知らせ</title>
 <link>https://contents.xj-storage.jp/xcontents/AS04721/9cd22cba/ef69/4403/bd9a/59025ae1c745/20261026193119181s.pdf</link>
 <guid isPermaLink="true">https://contents.xj-storage.jp/xcontents/AS04721/9cd22cba/ef69/4403/bd9a/59025ae1c745/20261026193119181s.pdf</guid>
@@ -613,6 +653,14 @@
 <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
 <category>Hugging Face Blog</category>
 <description> — Hugging Face Blog / score: 80 (MetaによるオープンなマルチモーダルAIモデル発表)</description>
+</item>
+<item>
+<title>[80] 2026-10-14, Version 24.22.0 'Krypton' (LTS), @richardlau prepared by @aduh95</title>
+<link>https://github.com/nodejs/node/releases/tag/v24.22.0</link>
+<guid isPermaLink="true">https://github.com/nodejs/node/releases/tag/v24.22.0</guid>
+<pubDate>Wed, 14 Oct 2026 15:12:46 +0000</pubDate>
+<category>Node.js リリース</category>
+<description>Notable Changes [ ddbf974b47 ] - (SEMVER-MINOR) crypto : add crypto.parsePKCS12() (Brian Muenzenmeyer) #65627 [ c162c68ff0 ] - (SEMVER-MINOR) crypto : add a generic MAC API (Filip Skokan) #65553 [ a4ab3d84d7 ] - (SEMVER-MINOR) crypto : discover ciphers from OpenSSL providers (Filip Skokan) #65484 [ c2f1e829ea ] - (SEMVER-MINOR) crypto : discover hashes from OpenSSL providers (Filip Skokan) #65484 [ 51aad5a80d ] - (SEMVER-MINOR) crypto : enable SIV and GCM-SIV modes in Cipher/Decipher APIs (Filip — Node.js リリース / score: 80 (Node.js LTS版のアップデートと新API追加)</description>
 </item>
 <item>
 <title>[80] Anthropic、社内モノレポをGitから独自基盤へ移行 ——AIエージェントによるコード変更の急増に対応</title>
@@ -757,54 +805,6 @@
 <pubDate>Thu, 22 Oct 2026 19:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>Fast, focused, low-cost decisions for any application. — OpenAI News / score: 75 (OpenAIによる新しいAPIの提供)</description>
-</item>
-<item>
-<title>[75] Anthropic、先回りしてユーザーを助ける秘書エージェント「Claude Duet」を発表／まずは米国の「Pro」「Max」ユーザーを対象にウェイトリスト方式で研究プレビュー</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2150199.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2150199.html</guid>
-<pubDate>Thu, 22 Oct 2026 05:40:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Anthropicは10月21日（現地時間、以下同）、「Claude Duet」を発表した。同日より研究プレビュー（research preview）として、米国の「Pro」「Max」プランの契約者からウェイトリスト方式で提供が始まっている。現時点で日本での提供時期は明らかにされていない。 — 窓の杜 / score: 75 (Anthropicの新しいAIエージェント発表)</description>
-</item>
-<item>
-<title>[75] DuckDB 2.0.0リリース、サーバー機能を改善し非同期I/Oを導入</title>
-<link>https://gihyo.jp/article/2026/10/duckdb-2.0.0?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/10/duckdb-2.0.0?utm_source=feed</guid>
-<pubDate>Thu, 22 Oct 2026 02:44:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>DuckDBの開発チームは2026年10月21日、分析向けデータベースDuckDBのバージョン2.0.0をリリースした。 — gihyo.jp / score: 75 (DuckDB 2.0.0のメジャーリリース)</description>
-</item>
-<item>
-<title>[75] Claude Platform release notes — October 22, 2026</title>
-<link>https://platform.claude.com/docs/en/release-notes/overview#october-22-2026</link>
-<guid isPermaLink="true">https://platform.claude.com/docs/en/release-notes/overview#october-22-2026</guid>
-<pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-<category>Claude リリースノート</category>
-<description>We've launched Claude Models on Google Cloud (Anthropic managed) , the Claude API operated by Anthropic and reached through your Google Cloud project. Google Cloud IAM controls access. Google Cloud Marketplace handles billing. Fast mode is available for Claude Opus 5.5 on Claude Models on Google Cloud (Anthropic managed). — Claude リリースノート / score: 75 (Claudeプラットフォームのマネージドエージェント更新)</description>
-</item>
-<item>
-<title>[75] AWS Neuron 2.33 adds native PyTorch support, Neuron Observer, and other new features</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/10/aws-announce-neuron-2-33-0</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/aws-announce-neuron-2-33-0</guid>
-<pubDate>Wed, 21 Oct 2026 15:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>AWS Neuron 2.33 is now available, introducing TorchNeuron, the native PyTorch backend for AWS Trainium, in public beta. You can run models written with the standard PyTorch APIs on Amazon EC2 Trn2 and Trn3 instances, in eager mode or with torch.compile. This release also introduces Neuron Observer in public beta, which detects Trainium health issues in under a second and identifies the affected node or device. The vLLM Neuron plugin upgrades to vLLM 0.29.0, and the vLLM Omni Neuron plugin for Wa — AWS What's New / score: 75 (AWS Trainium向けのネイティブPyTorchサポート追加)</description>
-</item>
-<item>
-<title>[75] Hardware-backed security at global scale: Confidential G4 with NVIDIA Blackwell is GA</title>
-<link>https://cloud.google.com/blog/topics/ai-infrastructure/confidential-g4-gpus-are-ga/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/topics/ai-infrastructure/confidential-g4-gpus-are-ga/</guid>
-<pubDate>Wed, 21 Oct 2026 11:30:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>Bringing autonomous agents into production means processing sensitive data and valuable intellectual property in real time. Protecting proprietary model weights, user prompts, and generated outputs requires security that safeguards data while it is actively being computed. As part of our efforts to enable your enterprise securely, today we are announcing that Confidential Computing on Google Cloud’s G4 instances enabled by NVIDIA RTX PRO 6000 Blackwell Server edition GPUs is now generally availa — Google Cloud Blog / score: 75 (NVIDIA Blackwell搭載の機密G4インスタンスGA)</description>
-</item>
-<item>
-<title>[75] Google Cloud and NVIDIA expand co-engineering collaboration to scale infrastructure for the agentic era</title>
-<link>https://cloud.google.com/blog/topics/ai-infrastructure/google-cloud-infrastructure-at-nvidia-gtc-berlin-2026/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/topics/ai-infrastructure/google-cloud-infrastructure-at-nvidia-gtc-berlin-2026/</guid>
-<pubDate>Wed, 21 Oct 2026 11:30:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>As enterprises transition to continuous, multi-step agentic workflows, traditional infrastructure is hitting its limits. But raw performance is only part of the equation. To truly scale agentic AI, enterprises also need the flexibility to run the right models for the right tasks, alongside the data and operational sovereignty required to maintain verifiable control over both their sensitive intellectual property and the underlying infrastructure. Today at NVIDIA GTC Berlin 2026, we are announcin — Google Cloud Blog / score: 75 (Google CloudとNVIDIAのエージェントAI基盤協業)</description>
 </item>
 </channel>
 </rss>
