@@ -4,8 +4,56 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Tue, 27 Oct 2026 16:08:32 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 18:08:30 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Build specialized multimodal models with LFM3</title>
+<link>https://huggingface.co/blog/LiquidAI/lfm3</link>
+<guid isPermaLink="true">https://huggingface.co/blog/LiquidAI/lfm3</guid>
+<pubDate>Tue, 27 Oct 2026 17:16:52 +0000</pubDate>
+<category>Hugging Face Blog</category>
+<description> — Hugging Face Blog / score: 50 (マルチモーダルモデルLFM3のリリース)</description>
+</item>
+<item>
+<title>｢iPad mini (A20 Pro)｣に採用されている壁紙が入手可能に</title>
+<link>https://taisy0.com/2026/10/28/229568.html</link>
+<guid isPermaLink="true">https://taisy0.com/2026/10/28/229568.html</guid>
+<pubDate>Tue, 27 Oct 2026 17:03:20 +0000</pubDate>
+<category>気になる、記になる…</category>
+<description>Appleは一昨日に「iPad mini (A20 Pro)」を発表しましたが、その「iPad mini (A20 Pro)」のプロモーション画像などで使用されている壁紙がダウンロード可能になりました。 公開したのはリバ […] — 気になる、記になる… / score: 15 (新機種の壁紙配布という軽微な話題)</description>
+</item>
+<item>
+<title>Apple、次期｢MacBook Neo｣を2027年前半に発売か</title>
+<link>https://taisy0.com/2026/10/28/229565.html</link>
+<guid isPermaLink="true">https://taisy0.com/2026/10/28/229565.html</guid>
+<pubDate>Tue, 27 Oct 2026 16:53:16 +0000</pubDate>
+<category>気になる、記になる…</category>
+<description>BloombergのMark Gurman氏が、Appleは2027年前半に次期「MacBook Neo」を発売する計画だと報告しています。 今回はそれ以上の情報はないものの、同氏は以前に次期「MacBook Neo」に […] — 気になる、記になる… / score: 30 (次期MacBookの発売に関する噂)</description>
+</item>
+<item>
+<title>Oracle CloudがGoogle TPU導入を発表、2027年に提供を開始。Oracle AI World 2026</title>
+<link>https://www.publickey1.jp/blog/26/oracle_cloudgoogle_tpu2027oracle_ai_world_2026.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/oracle_cloudgoogle_tpu2027oracle_ai_world_2026.html</guid>
+<pubDate>Tue, 27 Oct 2026 16:33:51 +0000</pubDate>
+<category>Publickey</category>
+<description>オラクルはGoogleが開発しているAI専用チップのGoogle TPUをOracle Cloud Infrastructure（以下、Oracle Cloud）に導入し、2027年からGoogle TPUのサービスを提供開始すると発表しま... — Publickey / score: 75 (Oracle CloudへのGoogle TPU導入発表)</description>
+</item>
+<item>
+<title>OLED XDR タッチ MacBook Proの追加情報〜10月28日の発表濃厚</title>
+<link>https://iphone-mania.jp/mac-608037/</link>
+<guid isPermaLink="true">https://iphone-mania.jp/mac-608037/</guid>
+<pubDate>Tue, 27 Oct 2026 16:25:17 +0000</pubDate>
+<category>iPhone Mania</category>
+<description>今晩（2026年10月28日の夜）発表される可能性が高い、有機EL（OLED）ディスプレイとタッチスクリーンを搭載する新型MacBook Proの特徴に関する追加情報を、Bloombergのマーク・ガーマン記者がX（旧T […] — iPhone Mania / score: 35 (新型MacBook Proの事前情報)</description>
+</item>
+<item>
+<title>Can we trust LLMs to judge whether a research idea is novel?</title>
+<link>https://huggingface.co/blog/allenai/novelty-bench</link>
+<guid isPermaLink="true">https://huggingface.co/blog/allenai/novelty-bench</guid>
+<pubDate>Tue, 27 Oct 2026 16:12:42 +0000</pubDate>
+<category>Hugging Face Blog</category>
+<description> — Hugging Face Blog / score: 45 (LLMによる研究の新規性評価に関する考察)</description>
+</item>
 <item>
 <title>Genie 4: A new generation of world simulation</title>
 <link>https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/</link>
@@ -13,6 +61,22 @@
 <pubDate>Tue, 27 Oct 2026 16:01:38 +0000</pubDate>
 <category>Google DeepMind</category>
 <description>Genie 4: our new world model unlocking unprecedented realism in real-time simulation. — Google DeepMind / score: 80 (Google DeepMindの次世代ワールドシミュレーション発表)</description>
+</item>
+<item>
+<title>Securely connecting Gemini Enterprise to Snowflake data</title>
+<link>https://cloud.google.com/blog/products/data-analytics/bridge-gemini-enterprise-and-snowflake-with-google-adk/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/data-analytics/bridge-gemini-enterprise-and-snowflake-with-google-adk/</guid>
+<pubDate>Tue, 27 Oct 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Enterprise AI needs to go beyond simple chat interfaces. To provide real value, AI agents must access your data warehouses to generate actionable insights, all while maintaining strict security and data governance. This guide explores how to build a secure bridge between Google Cloud’s Gemini Enterprise and Snowflake. By using the Model Context Protocol (MCP) and the Google Agent Development Kit (ADK), you can empower your agent to act as an assistant that understands natural language, generates — Google Cloud Blog / score: 50 (GeminiとSnowflakeのセキュアな接続)</description>
+</item>
+<item>
+<title>Scale agents securely with IAM Helper Agent Skills and MCP Tools</title>
+<link>https://cloud.google.com/blog/products/identity-security/scale-agents-securely-with-iam-helper-agent-skills-and-mcp-tools/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/identity-security/scale-agents-securely-with-iam-helper-agent-skills-and-mcp-tools/</guid>
+<pubDate>Tue, 27 Oct 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>As organizations adopt autonomous agents to build applications, securing identities and access has become more challenging. Developers relying on agents to provision cloud resources, write Terraform, and deploy microservices at machine-speed only find their CI/CD pipelines blo cked even faster as security friction scales. To help you get ahead of agentic-era Identity and Access Management, today we’re introducing IAM Helper. This suite of intelligent, agent-facing building blocks can automate co — Google Cloud Blog / score: 60 (AIエージェント向けセキュアなアクセス管理の解説)</description>
 </item>
 <item>
 <title>デザインツール「Affinity」のiPad版は11月3日に正式リリース</title>
@@ -109,6 +173,14 @@
 <pubDate>Tue, 27 Oct 2026 14:01:37 +0000</pubDate>
 <category>Computer Music Japan</category>
 <description>アイコニックシンセサイザーの次世代モデル、Native Instruments「Massive XL」リリースです。 Massive X、Massiveからのアップグレードも用意されているので、Massiveユーザーは注... The post アイコニックシンセサイザーの次世代モデル、Native Instruments「Massive XL」リリース！ first appeared on Computer Music Japan . — Computer Music Japan / score: 35 (音楽制作ソフトのメジャーリリースでニッチな話題。)</description>
+</item>
+<item>
+<title>Bringing Google TPUs to Oracle Cloud Infrastructure</title>
+<link>https://cloud.google.com/blog/products/infrastructure/bringing-google-tpus-to-oracle-cloud-infrastructure/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/infrastructure/bringing-google-tpus-to-oracle-cloud-infrastructure/</guid>
+<pubDate>Tue, 27 Oct 2026 14:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>As AI workloads scale across every industry, organizations need compute options that optimize throughput, latency, and unit economics across the AI lifecycle. To meet this demand, Oracle and Google Cloud are partnering to bring Google Tensor Processing Units (TPUs) to Oracle Cloud Infrastructure (OCI), making OCI the first hyperscaler outside Google to offer TPUs. Together, we will deploy TPU capacity on OCI starting in the calendar year 2027. TPUs: Co-designed from silicon to software Google bu — Google Cloud Blog / score: 75 (Oracle CloudへのGoogle TPU導入)</description>
 </item>
 <item>
 <title>会議中にバレずに使える。330円のリングが仕事効率UPに効く</title>
@@ -319,6 +391,14 @@
 <description> — Yahoo!ニュース IT / score: 30 (GMOの情報提供者への報酬に関するニュース)</description>
 </item>
 <item>
+<title>AIが答えを教える代わりにあえて質問攻めにすることで開発者を鍛えるデバッグツール「Nietzschian Debugger」</title>
+<link>https://gigazine.net/news/20261027-nietzschian-debugger/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261027-nietzschian-debugger/</guid>
+<pubDate>Tue, 27 Oct 2026 11:36:34 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>プログラムの不具合をAIに相談すると修正方法を教えてくれるのが一般的ですが、あえて答えを教えずに質問を繰り返すデバッグツール「Nietzschian Debugger」がGitHubで公開されています。開発者自身に不具合の原因を考えさせることで問題解決能力を鍛えるという、AIへの依存を減らすことを目指したツールとなっています... — はてなブックマーク テクノロジー / score: 40 (質問攻めで開発者を鍛えるデバッグ用AIツール)</description>
+</item>
+<item>
 <title>日本のバルコニーも太陽光発電パネルでいっぱいになるかもしれない</title>
 <link>https://www.gizmodo.jp/article/2610-balcony-solar-power-japan/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/2610-balcony-solar-power-japan/</guid>
@@ -349,14 +429,6 @@
 <pubDate>Tue, 27 Oct 2026 11:04:49 +0000</pubDate>
 <category>気になる、記になる…</category>
 <description>Logitech（日本ではロジクール）が、人気ワイヤレスマウス「MX Master 4」の限定モデル「MX Master 4 Special Edition」を正式に発表しました。 「MX Master 4 Specia […] — 気になる、記になる… / score: 25 (新型ワイヤレスマウスの製品発表情報)</description>
-</item>
-<item>
-<title>AIが答えを教える代わりにあえて質問攻めにすることで開発者を鍛えるデバッグツール「Nietzschian Debugger」</title>
-<link>https://gigazine.net/news/20261027-nietzschian-debugger/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261027-nietzschian-debugger/</guid>
-<pubDate>Tue, 27 Oct 2026 11:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>プログラムの不具合をAIに相談すると修正方法を教えてくれるのが一般的ですが、あえて答えを教えずに質問を繰り返すデバッグツール「Nietzschian Debugger」がGitHubで公開されています。開発者自身に不具合の原因を考えさせることで問題解決能力を鍛えるという、AIへの依存を減らすことを目指したツールとなっています。 続きを読む... — GIGAZINE / score: 40 (質問攻めで開発者を鍛えるデバッグ用AIツール)</description>
 </item>
 <item>
 <title>これを機にトラックボールにしちゃう？ フィリップスの多機能＆静音トラックボールがセール中</title>
@@ -471,6 +543,14 @@
 <description>セガ札幌スタジオが参画するSapporo Game Camp実行委員会は、2026年10月9日～11日にかけて「Sapporo Game Camp 2026」を開催。ここでは、そのイベントレポートが到着したのでお届けしよう。 — ASCII.jp / score: 30 (ゲーム系イベントのレポート)</description>
 </item>
 <item>
+<title>3回つくってわかった、 定期実行ジョブ基盤の本質情報</title>
+<link>https://speakerdeck.com/takai/i-built-a-scheduled-job-platform-three-times-and-now-i-know-the-essential-truths</link>
+<guid isPermaLink="true">https://speakerdeck.com/takai/i-built-a-scheduled-job-platform-three-times-and-now-i-know-the-essential-truths</guid>
+<pubDate>Tue, 27 Oct 2026 10:14:52 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>3回つくってわかった、 定期実行ジョブ基盤の本質情報 Kaigi on Rails 2026 — はてなブックマーク テクノロジー / score: 55 (定期実行ジョブ基盤に関する有用な知見)</description>
+</item>
+<item>
 <title>「インクジェットプリンターが印刷している瞬間」の写真はどうやって撮影されたのか？</title>
 <link>https://gigazine.net/news/20261027-inkjet-printer-droplets-photomicrography/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261027-inkjet-printer-droplets-photomicrography/</guid>
@@ -573,14 +653,6 @@
 <pubDate>Tue, 27 Oct 2026 09:41:56 +0000</pubDate>
 <category>ASCII.jp</category>
 <description>OrcaRouter、ローカルGPUをセキュアな共有AI APIに変える新機能「Orca Connect」の提供を開始 — ASCII.jp / score: 60 (ローカルGPUを共有AI APIにする新機能の提供開始)</description>
-</item>
-<item>
-<title>So-netなど258万件超の個人情報漏洩、ソニーネットワークが発表</title>
-<link>https://k-tai.watch.impress.co.jp/docs/news/2151581.html</link>
-<guid isPermaLink="true">https://k-tai.watch.impress.co.jp/docs/news/2151581.html</guid>
-<pubDate>Tue, 27 Oct 2026 09:41:51 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>So-netなど258万件超の個人情報漏洩、ソニーネットワークが発表 — はてなブックマーク テクノロジー / score: 90 (250万件超の深刻な個人情報漏洩事故)</description>
 </item>
 <item>
 <title>「Gemini」アプリから「Gemini Notebook」を直接操作できるように／</title>
@@ -733,78 +805,6 @@
 <pubDate>Tue, 27 Oct 2026 07:44:55 +0000</pubDate>
 <category>iPhone Mania</category>
 <description>ユーザ辞書に登録するよみは、短いほど使いやすいのか。同じ長文を「おせ」の2文字と「ていけいぶん」の6文字で登録して、iPhone15 Proのメモで呼び出しました。長文は2文字では複数の候補の中に、6文字では展開した一覧 […] — iPhone Mania / score: 30 (iPhoneのユーザ辞書の効率的な使い方)</description>
-</item>
-<item>
-<title>Apple製品で一斉セキュリティアップデート、「macOS Golden Gate 27.2」は260件超／ゼロデイ脆弱性の修正が「iOS 27」以降へアップデートできない古いデバイスにも</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2151422.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2151422.html</guid>
-<pubDate>Tue, 27 Oct 2026 07:43:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Appleは10月26日（現地時間）、自社製品のセキュリティアップデートを一斉実施した。「iOS 27.2」「iPadOS 27.2」も含め、以下の11件のアップデートが公開されている（括弧内はCVE番号が割り振られた脆弱性の件数）。 — 窓の杜 / score: 90 (Apple製品の一斉セキュリティアップデート)</description>
-</item>
-<item>
-<title>AI活用の基礎体験ハンズオン（松尾研 AXエバンジェリスト講座）</title>
-<link>https://speakerdeck.com/minorun365/ai-katsuyou-no-kiso-taiken-matsuo-ken-ax-kouza</link>
-<guid isPermaLink="true">https://speakerdeck.com/minorun365/ai-katsuyou-no-kiso-taiken-matsuo-ken-ax-kouza</guid>
-<pubDate>Tue, 27 Oct 2026 07:39:10 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>AXエバンジェリスト講座 - 東京大学松尾・岩澤研究室（松尾研） https://weblab.t.u-tokyo.ac.jp/lecture/course-list/axel/ — はてなブックマーク テクノロジー / score: 50 (松尾研主催のAI活用ハンズオン講座案内)</description>
-</item>
-<item>
-<title>ドローンが飛ばせて中判カメラに触れるDJIストアが青山にやって来たぞ</title>
-<link>https://www.gizmodo.jp/article/2610-dji-hasselblad-concept-store-tokyo-omotesando/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2610-dji-hasselblad-concept-store-tokyo-omotesando/</guid>
-<pubDate>Tue, 27 Oct 2026 07:35:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>ハッセルブラッドのショールームもあるぞー。今まで中国や香港にしかなかった、DJIとハッセルブラッド両方のブランドが体験できる「DJI | Hasselblad Authorized Concept Store 東京表参道」が10月31日にオ… — ギズモード・ジャパン / score: 30 (ドローンやカメラ店舗のオープン情報でありニッチな話題)</description>
-</item>
-<item>
-<title>Takumi Agent for Endpoint を提供開始 | Takumi byGMO</title>
-<link>https://shisho.dev/docs/ja/r/202610-takumi-agent-endpoint-ga/</link>
-<guid isPermaLink="true">https://shisho.dev/docs/ja/r/202610-takumi-agent-endpoint-ga/</guid>
-<pubDate>Tue, 27 Oct 2026 07:25:23 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Takumi Agent for Endpoint は、組織の Mac デバイスを Takumi Guard で保護するための製品です。各 Mac デバイスにインストールされる macOS 向けのエージェント Takumi Agent が、Mac デバイス上のすべてのパッケージのインストールを Takumi Guard 経由にします。 一度インストールするだけで、パッケージマネージャ... — はてなブックマーク テクノロジー / score: 50 (macOS向けの新しいエンドポイント保護製品の提供開始)</description>
-</item>
-<item>
-<title>[AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn</title>
-<link>https://latent.space/p/ainews-anthropic-s1/</link>
-<guid isPermaLink="true">https://latent.space/p/ainews-anthropic-s1/</guid>
-<pubDate>Tue, 27 Oct 2026 07:24:59 +0000</pubDate>
-<category>Latent Space</category>
-<description>Today is one of those days that is tougher to cover for a normally-engineer audience that isn’t used to reading most S-1’s, let alone 350 pages of one of the most unusual S-1’s of all time : Better visualized: With significant operating leverage causing the first profitable quarter in Anthropic history (adjusted for $1B/quarter of SBC): The incredible efficiency story is told in two loops, and of course you know, we love loop: The pitch going forward is “virtual collaborators” (don’t say agent!) — Latent Space / score: 75 (AnthropicのS-1提出に基づく財務詳細)</description>
-</item>
-<item>
-<title>無料で「絵画」をテレビに流し続けて絵がある日常に慣れるためのアプリ「えをみる」</title>
-<link>https://gigazine.net/news/20261027-ewomiru/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261027-ewomiru/</guid>
-<pubDate>Tue, 27 Oct 2026 07:15:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>Google TV・Android TV・Fire TVで使うことができるアプリ「えをみる」は、テレビにパブリックドメインの絵を流しっぱなしにすることができます。使っていない間のテレビにずっと絵を表示することで、絵画という文化に慣れることを目的としています。 続きを読む... — GIGAZINE / score: 20 (テレビ向け絵画表示アプリの紹介)</description>
-</item>
-<item>
-<title>AWS、Trainium向けPyTorchバックエンド「TorchNeuron」のベータ版を公開</title>
-<link>https://codezine.jp/article/detail/30145</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/30145</guid>
-<pubDate>Tue, 27 Oct 2026 07:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 60 (AWS Trainium向けPyTorchベータ版公開)</description>
-</item>
-<item>
-<title>スイス全土をマインクラフトで実物大に再現した「Blocks」が公開される、標高4634mの山頂や巨大氷河も探索可能</title>
-<link>https://gigazine.net/news/20261027-minecraft-schweiz-blocks/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261027-minecraft-schweiz-blocks/</guid>
-<pubDate>Tue, 27 Oct 2026 07:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>スイスの国土全域をサンドボックスゲーム「Minecraft(マインクラフト)」の世界に再現したプロジェクト「Blocks」が公開されました。スイスの公式地理データを使って約4万1285平方キロメートルの国土を実物大で再現しており、アルプスの山々や氷河、湖、森林などをゲーム内で自由に探索できます。 続きを読む... — GIGAZINE / score: 40 (マインクラフトによるスイス全土の実物大再現)</description>
-</item>
-<item>
-<title>Anthropicが株式上場に向けてアメリカ証券委員会に登録届出書を提出、12兆円の赤字が事実であることが確定</title>
-<link>https://gigazine.net/news/20261027-anthropic-ipo-s1/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261027-anthropic-ipo-s1/</guid>
-<pubDate>Tue, 27 Oct 2026 06:55:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>AnthropicがクラスA普通株式の新規株式公開(IPO)に関して、アメリカ証券取引委員会(SEC)に「フォームS-1」による登録届出書を提出したことを発表しました。 続きを読む... — GIGAZINE / score: 75 (AnthropicのIPO申請と財務情報の公開)</description>
 </item>
 </channel>
 </rss>

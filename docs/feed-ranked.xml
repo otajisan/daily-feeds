@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Tue, 27 Oct 2026 16:08:32 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 18:08:30 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 【PHP2Shell】PHP公式の発表『本日のセキュリティリリースと、セキュリティ対策について』</title>
@@ -85,14 +85,6 @@
 <pubDate>Tue, 27 Oct 2026 10:00:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>iPhoneの更新、しばらくしていない人はご確認を。iPhoneをなくしたわけでも、誰かに貸したわけでもない。それなのに、家族旅行の写真やネット通販のパスワードが、知らない誰かに持ち出されるかもしれません。しかも、SNSの広告をクリックしな… — ギズモード・ジャパン / score: 90 (iOSの脆弱性とサイバー攻撃の注意喚起のため)</description>
-</item>
-<item>
-<title>[90] So-netなど258万件超の個人情報漏洩、ソニーネットワークが発表</title>
-<link>https://k-tai.watch.impress.co.jp/docs/news/2151581.html</link>
-<guid isPermaLink="true">https://k-tai.watch.impress.co.jp/docs/news/2151581.html</guid>
-<pubDate>Tue, 27 Oct 2026 09:41:51 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>So-netなど258万件超の個人情報漏洩、ソニーネットワークが発表 — はてなブックマーク テクノロジー / score: 90 (250万件超の深刻な個人情報漏洩事故)</description>
 </item>
 <item>
 <title>[90] ソニーネット、So-netなど会員情報258万件漏洩　口座情報も16件 - 日本経済新聞</title>
@@ -367,6 +359,14 @@
 <description>2026年10月27日 お知らせ【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第8報） （【続報】お客様をお守りするために現在私たちが行っていること） 2026年10月27日 9:58時点 GMOインターネットグループ株式会社 GMOインターネット株式会社 ※2026年10月27日（火）10:56、本文... — はてなブックマーク テクノロジー / score: 85 (クラウドサービスにおける重大な不正アクセス対応)</description>
 </item>
 <item>
+<title>[85] LLMで日常会話に攻撃者の指示を紛れ込ませることはできるのか？（DEF CON 34登壇記） - NTT docomo Business Engineers' Blog</title>
+<link>https://engineers.ntt.com/entry/202610-steganoC2/entry</link>
+<guid isPermaLink="true">https://engineers.ntt.com/entry/202610-steganoC2/entry</guid>
+<pubDate>Tue, 27 Oct 2026 01:09:13 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Offensive Securityプロジェクトの紹介 DEF CONとは？ 発表内容の紹介 研究の背景：C2通信が普通の文章に見えたら？ 自然言語ステガノグラフィとは TextC2の構成と前提条件 手法1：両側でLLMを使う方式（算術符号化） 手法2：受信側にLLMを必要としない方式（サンプリング） 検証で分かった限界 防御側への示唆 研究倫理... — はてなブックマーク テクノロジー / score: 85 (LLMのセキュリティとステガノグラフィの検証)</description>
+</item>
+<item>
 <title>[85] Apple、Siri AIの日本語対応を含んだ｢visionOS 27.2｣をリリース</title>
 <link>https://taisy0.com/2026/10/27/229509.html</link>
 <guid isPermaLink="true">https://taisy0.com/2026/10/27/229509.html</guid>
@@ -599,14 +599,6 @@
 <description>GMOインターネットグループは10月27日、傘下のGMOインターネットが提供するFX自動売買用VPS「お名前.com デスクトップクラウド」への不正アクセスを巡り、事態を解明する情報に総額100万ドル（約1億5000万円）を支払う懸賞金制度を始めると発表した。28日正午から専用窓口で情報提供を受け付ける。 国内外の法人・個人か... — はてなブックマーク テクノロジー / score: 80 (GMOが不正アクセスの犯人逮捕に向け巨大懸賞金)</description>
 </item>
 <item>
-<title>[80] macOS 27.2 Golden Gateアップデートでも引き続きcurlなどにeMudhraの証明書検証問題が残っているので管理者や開発者は注意を。</title>
-<link>https://applech2.com/archives/20261027-emudhra-certificate-issue-unfixed-macos-27-2.html</link>
-<guid isPermaLink="true">https://applech2.com/archives/20261027-emudhra-certificate-issue-unfixed-macos-27-2.html</guid>
-<pubDate>Tue, 27 Oct 2026 06:14:27 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>macOS 27.2 Golden Gateでも、引き続きcurlなどにeMudhraの証明書検証問題が残っているので注意してください。詳細は以下から。 Appleは現地時間2026年10月22日、電子証明書を発行するインドの認証局eMudhraが2025年04月30日に中間CA証明書の鍵を生成したさい、不備により暗号的に弱い鍵が生成＆公開されていたことに関... — はてなブックマーク テクノロジー / score: 80 (macOSの証明書検証問題に関する開発者への注意喚起)</description>
-</item>
-<item>
 <title>[80] OpenAI GPT-6.1 Terra is now generally available on Amazon Bedrock</title>
 <link>https://aws.amazon.com/about-aws/whats-new/2026/10/openai-gpt-6-1-terra-on-amazon-bedrock/</link>
 <guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/openai-gpt-6-1-terra-on-amazon-bedrock/</guid>
@@ -719,6 +711,14 @@
 <description>Anthropicは2026年10月13日、社内のソース管理基盤Scionへの移行を扱う技術記事を公開した。 — gihyo.jp / score: 80 (Anthropicがモノレポ基盤をGitから独自移行した事例)</description>
 </item>
 <item>
+<title>[75] Oracle CloudがGoogle TPU導入を発表、2027年に提供を開始。Oracle AI World 2026</title>
+<link>https://www.publickey1.jp/blog/26/oracle_cloudgoogle_tpu2027oracle_ai_world_2026.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/oracle_cloudgoogle_tpu2027oracle_ai_world_2026.html</guid>
+<pubDate>Tue, 27 Oct 2026 16:33:51 +0000</pubDate>
+<category>Publickey</category>
+<description>オラクルはGoogleが開発しているAI専用チップのGoogle TPUをOracle Cloud Infrastructure（以下、Oracle Cloud）に導入し、2027年からGoogle TPUのサービスを提供開始すると発表しま... — Publickey / score: 75 (Oracle CloudへのGoogle TPU導入発表)</description>
+</item>
+<item>
 <title>[75] JavaScriptランタイムの「Bun」がPrettier互換で300倍以上高速なフォーマッタに。Prettier設定ファイルもそのまま利用可能</title>
 <link>https://www.publickey1.jp/blog/26/javascriptbunprettier300prettier.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/javascriptbunprettier300prettier.html</guid>
@@ -741,6 +741,14 @@
 <pubDate>Tue, 27 Oct 2026 14:14:04 +0000</pubDate>
 <category>Yahoo!ニュース IT</category>
 <description> — Yahoo!ニュース IT / score: 75 (GMO不正アクセス事件に関する警視庁の捜査動向)</description>
+</item>
+<item>
+<title>[75] Bringing Google TPUs to Oracle Cloud Infrastructure</title>
+<link>https://cloud.google.com/blog/products/infrastructure/bringing-google-tpus-to-oracle-cloud-infrastructure/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/infrastructure/bringing-google-tpus-to-oracle-cloud-infrastructure/</guid>
+<pubDate>Tue, 27 Oct 2026 14:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>As AI workloads scale across every industry, organizations need compute options that optimize throughput, latency, and unit economics across the AI lifecycle. To meet this demand, Oracle and Google Cloud are partnering to bring Google Tensor Processing Units (TPUs) to Oracle Cloud Infrastructure (OCI), making OCI the first hyperscaler outside Google to offer TPUs. Together, we will deploy TPU capacity on OCI starting in the calendar year 2027. TPUs: Co-designed from silicon to software Google bu — Google Cloud Blog / score: 75 (Oracle CloudへのGoogle TPU導入)</description>
 </item>
 <item>
 <title>[75] Gemini Robotics Embodied Reasoning 2 is now available on Google Cloud</title>
@@ -797,14 +805,6 @@
 <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 75 (Amazon BedrockでのClaude構造化出力サポート)</description>
-</item>
-<item>
-<title>[75] GPT-6.1 Terra</title>
-<link>https://simonwillison.net/2026/Oct/26/gpt-61-terra/</link>
-<guid isPermaLink="true">https://simonwillison.net/2026/Oct/26/gpt-61-terra/</guid>
-<pubDate>Mon, 26 Oct 2026 23:53:07 +0000</pubDate>
-<category>Simon Willison</category>
-<description>GPT-6.1 Terra It's always interesting to note which aspects of a new model are emphasized in the release announcement. In the case of GPT-6.1 Terra, OpenAI went with visual reasoning and computer use: We’re introducing GPT-6.1 Terra , a fast, efficient model that combines detailed visual reasoning and precise computer use alongside clearer, more natural writing. A significant step up from GPT‑5.6 Terra, it excels at the communication and computer-based tasks that fill the workday, from drafting  — Simon Willison / score: 75 (GPT-6.1 Terraの機能とビジュアル推論の解説)</description>
 </item>
 </channel>
 </rss>
