@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Tue, 27 Oct 2026 02:15:46 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 04:10:38 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] iPhoneからPDFファイルを開くだけでハッキングすることに成功</title>
@@ -53,14 +53,6 @@
 <pubDate>Wed, 21 Oct 2026 14:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>Editor's note : This blog was updated on Oct. 23, 2026 at 3:20 p.m. PDT, with additional guidance from Mandiant Consulting on monitoring, patching, and remediation. We have previously updated the blog on Oct. 22, 2026, with revised guidance for Security Command Center and Cloud Armor, and on Oct. 21, 2026 . PHP and Wiz Research disclosed today two critical vulnerabilities in the core PHP language runtime that can expose applications to unauthenticated remote code execution and memory disclosure. — Google Cloud Blog / score: 95 (PHPの深刻な脆弱性とRCEへの対応)</description>
-</item>
-<item>
-<title>[95] 「PHP」に“致命的”な脆弱性2件、日本時間21日深夜に緊急のセキュリティリリースへ【15時20分追記】／「CVSS 4.0」のスコアは「9.2」、すぐに更新できるよう準備を</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2149962.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2149962.html</guid>
-<pubDate>Wed, 21 Oct 2026 04:32:32 +0000</pubDate>
-<category>窓の杜</category>
-<description>（10/22更新）セキュリティリリースが公開。詳細はこちら。 — 窓の杜 / score: 95 (PHPの致命的な脆弱性に関する緊急修正予告)</description>
 </item>
 <item>
 <title>[95] PHP、重大な脆弱性2件を修正 ——認証なしのリモートコード実行に対処。直ちに更新するよう強く推奨（10月23日更新）</title>
@@ -127,14 +119,6 @@
 <description>米Appleは10月26日（現地時間）、「iOS 27.2」「iPadOS 27.2」をリリースした。英語で先行提供されていた「Siri AI」が日本語、フランス語、韓国語、ポルトガル語、スペイン語に対応したほか、新機能やバグ修正、セキュリティアップデートが含まれている。 — 窓の杜 / score: 90 (iOS/iPadOSの大規模脆弱性修正と新機能)</description>
 </item>
 <item>
-<title>[90] メール配信会社 不正アクセスで5162万件余の情報流出 | NHKニュース</title>
-<link>https://news.web.nhk/newsweb/na/nd-20261027de66047</link>
-<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261027de66047</guid>
-<pubDate>Mon, 26 Oct 2026 15:54:18 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>企業や自治体のメール配信サービスなどを手がける「ユミルリンク」は、会社のシステムが不正なアクセスを受け、メールアドレスを中心にのべ5162万件余りの個人情報が流出したと明らかにしました。 企業や自… — はてなブックマーク テクノロジー / score: 90 (5000万件超のメールアドレス流出事件)</description>
-</item>
-<item>
 <title>[90] 電子ギフト会社に不正アクセス 5億5000万円分が不正発行 | NHKニュース</title>
 <link>https://news.web.nhk/newsweb/na/nd-20261026de66013</link>
 <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261026de66013</guid>
@@ -162,17 +146,9 @@
 <title>[90] 「Python」に再び「eMudhra」問題への対策、「Python 3.15.2」など5バージョンを提供／侵害された鍵をブロックする“最後の砦”が「ssl」モジュールに</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2151194.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2151194.html</guid>
-<pubDate>Mon, 26 Oct 2026 08:48:34 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>「Python」に再び「eMudhra」問題への対策、「Python 3.15.2」など5バージョンを提供／侵害された鍵をブロックする“最後の砦”が「ssl」モジュールに — はてなブックマーク テクノロジー / score: 90 (Pythonの鍵漏洩に対する緊急セキュリティ対策)</description>
-</item>
-<item>
-<title>[90] OpenAIがNode.jsやBunで使われているGoogle製圧縮ツール「Brotli」でリモートコード実行につながる脆弱性を発見</title>
-<link>https://gigazine.net/news/20261026-openai-brotli-vulnerability/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261026-openai-brotli-vulnerability/</guid>
-<pubDate>Mon, 26 Oct 2026 03:33:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>OpenAIがGoogle製圧縮ツール「Brotli」にリモートコード実行につながる脆弱(ぜいじゃく)性が存在することを発見しました。すでに修正版がリリースされており、アップデートが呼びかけられています。 続きを読む... — GIGAZINE / score: 90 (主要な圧縮ツールBrotliのリモートコード実行脆弱性)</description>
+<pubDate>Mon, 26 Oct 2026 07:19:01 +0000</pubDate>
+<category>窓の杜</category>
+<description>スクリプト言語「Python」の開発チームは10月25日（協定世界時、以下同）、「Python」のセキュリティアップデートを実施した。21日のアップデートに続き、インドの認証局「eMudhra」の中間証明書の秘密鍵が漏洩した問題に対し、追加の保護策が導入されている。現在、以下のバージョンが利用可能。 — 窓の杜 / score: 90 (Pythonの鍵漏洩に対する緊急セキュリティ対策)</description>
 </item>
 <item>
 <title>[90] eMudhra 中間 CA 漏洩、OS もブラウザも最新なのにコンテナ 9 個と Python 環境 16 個が偽の証明書を信じていた</title>
@@ -255,14 +231,6 @@
 <description>This is a security release. Notable Changes ( CVE-2026-105481 ) http: ensure agent data guard works without I/O (James M Snell) ( CVE-2026-105482 ) dns: validate resolve inputs for null bytes (James M Snell) ( CVE-2026-106069 ) tls: reject non-canonical IP addresses (Matteo Collina) ( CVE-2026-106073 ) permission: check permission model in realpathSync (RafaelGSS) ( CVE-2026-106074 ) crypto: reset random caches across snapshots (Filip Skokan) ( CVE-2026-111497 ) src: expose BROTLI_DECODER_ERROR_ — Node.js リリース / score: 90 (Node.js LTSの重要セキュリティアップデート)</description>
 </item>
 <item>
-<title>[90] 「Google Chrome 156」が公開、「IndexedDB」は「SQLite」ベースへ／深刻度「Critical」6件を含む353件もの脆弱性に対処</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2149824.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2149824.html</guid>
-<pubDate>Wed, 21 Oct 2026 04:05:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Googleは10月20日（現地時間、以下同）、デスクトップ向け「Google Chrome」の安定（Stable）チャネルをアップデートした。Windows/Mac環境にはv156.0.8078.47/.48が、Linux環境にはv156.0.8078.47が順次展開される。「Chrome 155」に続くメジャーリリースだ。 — 窓の杜 / score: 90 (Google Chromeのメジャーリリースと脆弱性修正)</description>
-</item>
-<item>
 <title>[90] Next.js Security Update for Upstream Vulnerabilities</title>
 <link>https://nextjs.org/blog/nextjs-security-update-october-14-2026</link>
 <guid isPermaLink="true">https://nextjs.org/blog/nextjs-security-update-october-14-2026</guid>
@@ -290,9 +258,33 @@
 <title>[88] OpenAI、「GPT-6.1 Terra」を発表 ～性能とコストのバランス型、API料金は先代の半額／画面を理解してアプリを操作、文章もより自然に</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2151338.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2151338.html</guid>
-<pubDate>Mon, 26 Oct 2026 22:51:53 +0000</pubDate>
+<pubDate>Mon, 26 Oct 2026 23:15:05 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>OpenAI、「GPT-6.1 Terra」を発表 ～性能とコストのバランス型、API料金は先代の半額／画面を理解してアプリを操作、文章もより自然に — はてなブックマーク テクノロジー / score: 88 (OpenAIの新モデルGPT-6.1 Terra発表)</description>
+</item>
+<item>
+<title>[85] GMO、PCのバックアップと電源オフ呼びかけ　VPS利用者に　きょう正午の攻撃予告受け</title>
+<link>https://www.itmedia.co.jp/news/article/2610/27/2000002616/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/27/2000002616/</guid>
+<pubDate>Tue, 27 Oct 2026 02:35:00 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>GMOインターネットグループは10月27日、傘下のGMOインターネットが提供するFX自動売買用VPS「お名前.com デスクトップクラウド」への不正アクセスを巡り、利用者に対し、同日正午までにPCのデータをバックアップした上で、電源を切るよう呼び掛けた。攻撃者とみられる人物から、同時刻に顧客情報の公開とランサムウェア... — はてなブックマーク テクノロジー / score: 85 (GMOへの重大なセキュリティインシデントと緊急対応の呼びかけ。)</description>
+</item>
+<item>
+<title>[85] GMO「PC電源を切って」 正午の攻撃予告前に　セキュリティー会社から協力申し出も（テレビ朝日系（ANN）） - Yahoo!ニュース</title>
+<link>https://news.yahoo.co.jp/articles/1fa990bde6be68596b35b779cbc8843279c01012</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/articles/1fa990bde6be68596b35b779cbc8843279c01012</guid>
+<pubDate>Tue, 27 Oct 2026 02:12:47 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>GMOインターネットグループは27日、同日正午に攻撃が予告されているとして利用者にパソコンの電源を切るよう呼びかけました。 【動画】セキュリティーの改善遅れる GMO社長「隙を突かれた」 GMOは攻撃者とみられる者から、27日正午に顧客の情報を公開し、ランサムウェア攻撃を行うと予告されています。 テレ朝NEWSこれ... — はてなブックマーク テクノロジー / score: 85 (GMOのランサムウェア攻撃予告と経営陣のコメントに関する続報。)</description>
+</item>
+<item>
+<title>[85] Microsoft、Windows 10/11に定例外パッチ ～「eMudhra」の証明書問題に対処か／証明書信頼リスト（CTL）を自動で更新できない環境が対象</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2151384.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2151384.html</guid>
+<pubDate>Tue, 27 Oct 2026 02:12:06 +0000</pubDate>
 <category>窓の杜</category>
-<description>米OpenAIは10月26日（現地時間）、新しいAIモデル「GPT-6.1 Terra」を発表した。7月に発表された「GPT-5.6 Terra」以来のアップデートで、「Terra」シリーズとしては初の「GPT-6.x」モデルとなる。 — 窓の杜 / score: 88 (OpenAIの新モデルGPT-6.1 Terra発表)</description>
+<description>米Microsoftは10月26日（現地時間）、Windows 10/11向けの累積更新プログラムを定例外（OOB）でリリースした。インドの認証局「eMudhra」で発生した中間CA証明書の侵害に対処するパッチのようだ。 — 窓の杜 / score: 85 (Windowsの緊急証明書問題パッチ)</description>
 </item>
 <item>
 <title>[85] GMO 利用者に「PC電源切って」</title>
@@ -308,7 +300,15 @@
 <guid isPermaLink="true">https://group.gmo/info/alert/20261027/</guid>
 <pubDate>Tue, 27 Oct 2026 01:26:24 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>2026年10月27日 お知らせ【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第8報） （【続報】お客様をお守りするために現在私たちが行っていること） 2026年10月27日 9:58時点 GMOインターネットグループ株式会社 GMOインターネット株式会社 このたびは、「お名前.com デスク... — はてなブックマーク テクノロジー / score: 85 (クラウドサービスにおける重大な不正アクセス対応)</description>
+<description>2026年10月27日 お知らせ【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第8報） （【続報】お客様をお守りするために現在私たちが行っていること） 2026年10月27日 9:58時点 GMOインターネットグループ株式会社 GMOインターネット株式会社 ※2026年10月27日（火）10:56、本文... — はてなブックマーク テクノロジー / score: 85 (クラウドサービスにおける重大な不正アクセス対応)</description>
+</item>
+<item>
+<title>[85] GMO不正アクセス、犯人側は「27日に顧客のPC攻撃」予告　GMOが端末回収、ホワイトハッカーが解析中</title>
+<link>https://www.itmedia.co.jp/news/article/2610/27/2000002610/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/27/2000002610/</guid>
+<pubDate>Tue, 27 Oct 2026 00:49:12 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>GMOインターネットグループは10月26日、FX用VPS「お名前.com デスクトップクラウド」への不正アクセスを巡り、同社の従業員が全国に出向いて顧客の端末を預かり、グループのホワイトハッカーチームが調査・解析を進めていると明らかにした。 攻撃者とみられる者は自身のWebサイトで、GMOが100万ドル（約1億6000万円）を... — はてなブックマーク テクノロジー / score: 85 (GMO不正アクセス事件におけるホワイトハッカーによる解析状況。)</description>
 </item>
 <item>
 <title>[85] Apple、Siri AIの日本語対応を含んだ｢visionOS 27.2｣をリリース</title>
@@ -317,14 +317,6 @@
 <pubDate>Tue, 27 Oct 2026 00:33:07 +0000</pubDate>
 <category>気になる、記になる…</category>
 <description>本日、Appleが、visionOS向けの最新アップデートとなる「visionOS 27.2」をリリースしました。 「visionOS 27.2」には、Apple Vision Pro用のバグ修正とセキュリティアップデー […] — 気になる、記になる… / score: 85 (visionOSのセキュリティ修正を含むアップデート)</description>
-</item>
-<item>
-<title>[85] PHP脆弱性を理解しビジネスへの影響を理解する</title>
-<link>https://ascii.jp/elem/000/004/445/4445552/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/445/4445552/?rss</guid>
-<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>PHP2Shellとして知られる脆弱性は、Webサイト、お客様ポータル、その他のWebアプリケーションに依存する組織にとって、緊急のセキュリティおよび事業継続性リスクをもたらします。 — ASCII.jp / score: 85 (PHP脆弱性のビジネスへの影響と解説)</description>
 </item>
 <item>
 <title>[85] ペンタセキュリティ、PHP脆弱性「PHP2Shell」の影響を確認できる無料診断サービスを提供開始</title>
@@ -341,14 +333,6 @@
 <pubDate>Mon, 26 Oct 2026 21:44:05 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>ウェブサイトも“保守・修繕”の発想が必要。「PHPの脆弱性」から、経営層・サイト運営者に知っておいてほしいこと — はてなブックマーク テクノロジー / score: 85 (PHPの脆弱性とWeb保守の重要性の解説)</description>
-</item>
-<item>
-<title>[85] 79億円要求されたGMO　「能動的サイバー防御」求める理由 | 毎日新聞</title>
-<link>https://mainichi.jp/articles/20261026/k00/00m/020/387000c</link>
-<guid isPermaLink="true">https://mainichi.jp/articles/20261026/k00/00m/020/387000c</guid>
-<pubDate>Mon, 26 Oct 2026 20:37:27 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>GMOインターネットグループが運営する外国為替証拠金取引（FX）関連のサービスが不正アクセスを受けた問題で、熊谷正寿会長兼社長は26日、攻撃側から5000万ドル（約79億円）の支払いを要求されたと自身のブログで明らかにした。要求額を開示するのは初めてで、熊谷氏は「当社は、これらの要求に応じておらず、支払いも一... — はてなブックマーク テクノロジー / score: 85 (大規模な身代金要求とサイバー防御の議論)</description>
 </item>
 <item>
 <title>[85] AWSとGoogle Cloudが「PyTorch」のAWS Trainium、Google Cloud TPU対応版をオープンソースで公開。NVIDIAからの移行に挑む</title>
@@ -375,20 +359,12 @@
 <description> — Yahoo!ニュース IT / score: 85 (新幹線予約における個人情報流出インシデント)</description>
 </item>
 <item>
-<title>[85] 楽天トラベルに不正アクセス、顧客情報260万件流出か　クレカ3万件も - 日本経済新聞</title>
-<link>https://www.nikkei.com/article/DGXZQOUC2686T0W6A021C2000000/</link>
-<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUC2686T0W6A021C2000000/</guid>
-<pubDate>Mon, 26 Oct 2026 11:57:24 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>楽天グループが運営する旅行予約サービス「楽天トラベル」は26日、海外ホテル予約サイトにログインした最大約260万件の顧客情報が不正アクセスを受けたと発表した。氏名やメールアドレス、電話番号、社内用の識別番号が漏れた恐れがある。シンガポール子会社が運営するサイトが不正アクセスを受けた。同サイトで予約した... — はてなブックマーク テクノロジー / score: 85 (楽天トラベルの不正アクセスと大規模な顧客情報流出)</description>
-</item>
-<item>
 <title>[85] PHPの更新を適用していないサイトからビットコインを盗む賞金付きハッキングチャレンジが開催され19時間で突破される</title>
 <link>https://gigazine.net/news/20261026-steal-my-bitcoin/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261026-steal-my-bitcoin/</guid>
-<pubDate>Mon, 26 Oct 2026 11:04:12 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>2026年10月25日、PHPの深刻な脆弱(ぜいじゃく)性を悪用してウェブサイトからビットコインを盗み出すチャレンジ「Steal My Bitcoin」が開催されました。参加者はセキュリティ更新プログラムを適用していないサーバーへの侵入を試み、ビットコインの秘密鍵を入手できれば賞金を獲得できるというルールで、開始から約19時間... — はてなブックマーク テクノロジー / score: 85 (PHPの脆弱性とハッキングチャレンジの速攻攻略事例)</description>
+<pubDate>Mon, 26 Oct 2026 11:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>2026年10月25日、PHPの深刻な脆弱(ぜいじゃく)性を悪用してウェブサイトからビットコインを盗み出すチャレンジ「Steal My Bitcoin」が開催されました。参加者はセキュリティ更新プログラムを適用していないサーバーへの侵入を試み、ビットコインの秘密鍵を入手できれば賞金を獲得できるというルールで、開始から約19時間後に攻略者が現れて約2000ドル(約31万4000円)相当のビットコインを獲得したことが報告されています。 続きを読む... — GIGAZINE / score: 85 (PHPの脆弱性とハッキングチャレンジの速攻攻略事例)</description>
 </item>
 <item>
 <title>[85] Joshin 600万件超の情報漏えいか</title>
@@ -575,6 +551,14 @@
 <description>Movable Typeに深刻な脆弱性が存在することが判明し、シックス・アパート株式会社は2026年10月7日にその脆弱性を修正した最新版Movable Typeを公開しました。 — gihyo.jp / score: 85 (Movable Typeの深刻な脆弱性と対策)</description>
 </item>
 <item>
+<title>[80] 偽アプリにトークンを渡す脆弱性、Android版Microsoft Authenticatorに</title>
+<link>https://pc.watch.impress.co.jp/docs/news/2151376.html</link>
+<guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2151376.html</guid>
+<pubDate>Tue, 27 Oct 2026 03:50:05 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>偽アプリにトークンを渡す脆弱性、Android版Microsoft Authenticatorに — はてなブックマーク テクノロジー / score: 80 (Microsoft AuthenticatorのAndroid版における認証脆弱性。)</description>
+</item>
+<item>
 <title>[80] アップル、「iPhone Duo」のディスプレー不具合認める　破損報告相次ぎ、交換などで対応へ</title>
 <link>https://ascii.jp/elem/000/004/445/4445883/?rss</link>
 <guid isPermaLink="true">https://ascii.jp/elem/000/004/445/4445883/?rss</guid>
@@ -583,20 +567,20 @@
 <description>アップルの「iPhone DUO」でメインディスプレーの破損が複数報告されている問題を受け、同社が不具合を認める声明を出した — ASCII.jp / score: 80 (新型iPhoneのディスプレイ不具合と公式対応)</description>
 </item>
 <item>
+<title>[80] GMO ハッカー集団要求 応じない姿勢 顧客端末預かり解析進める | NHKニュース</title>
+<link>https://news.web.nhk/newsweb/na/nd-20261027de66048</link>
+<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261027de66048</guid>
+<pubDate>Mon, 26 Oct 2026 23:10:21 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>GMOインターネットグループのサービスが不正アクセスを受けた問題で、攻撃を行ったとみられるハッカー集団は、27日正午までに1億5700万円余りを支払うよう要求しています。会社は、攻撃者からの要求には応… — はてなブックマーク テクノロジー / score: 80 (GMOを標的としたハッカー集団の要求と企業の対応方針について。)</description>
+</item>
+<item>
 <title>[80] OpenAI GPT-6.1 Terra is now generally available on Amazon Bedrock</title>
 <link>https://aws.amazon.com/about-aws/whats-new/2026/10/openai-gpt-6-1-terra-on-amazon-bedrock/</link>
 <guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/openai-gpt-6-1-terra-on-amazon-bedrock/</guid>
 <pubDate>Mon, 26 Oct 2026 18:27:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Today, AWS announces the general availability of OpenAI GPT-6.1 Terra on Amazon Bedrock. GPT-6.1 Terra expands the GPT-6 family with a balance of capability, speed, and cost efficiency for everyday workloads. As the newest model in the Terra line, GPT-6.1 Terra combines detailed visual reasoning, accurate computer use, and improved factuality and natural writing over GPT-5.6 Terra, for complex workflows. In OpenAI’s Agents’ Last Exam evaluation, it scored 15 percentage points higher than GPT-5.6 — AWS What's New / score: 80 (Amazon Bedrockでの新型GPTモデル提供開始)</description>
-</item>
-<item>
-<title>[80] バンナムHD、物流子会社に不正アクセス　一番くじの顧客情報流出か - 日本経済新聞</title>
-<link>https://www.nikkei.com/article/DGXZQOUC269LF0W6A021C2000000/</link>
-<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUC269LF0W6A021C2000000/</guid>
-<pubDate>Mon, 26 Oct 2026 13:14:12 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>バンダイナムコホールディングス（HD）は26日、傘下の物流会社バンダイロジパル（東京・葛飾）が不正アクセスを受けたと発表した。物流システム内のサーバーからオンラインサービス「一番くじオンライン」の顧客情報が流出した可能性があるという。バンダイロジパルは700〜900円程度で雑貨 — はてなブックマーク テクノロジー / score: 80 (エンタープライズ企業での顧客情報流出インシデント)</description>
 </item>
 <item>
 <title>[80] ディスク暗号化ツール「VeraCrypt」v1.26.30が公開、複数の脆弱性を修正／Windows版では前バージョンで報告されたドライバーの不安定化にも対処</title>
@@ -775,6 +759,14 @@
 <description>本日、Appleが、「iOS 27」の最新バージョンとなる「iOS 27.2」をリリースしました。 このアップデートでは、Siri AIがフランス語、日本語、韓国語、ポルトガル語、スペイン語に対応するようになります。また […] — 気になる、記になる… / score: 75 (iOSでのSiri AI日本語対応のリリース情報)</description>
 </item>
 <item>
+<title>[75] Anthropic、IPOを正式申請　上半期売上高は約14倍、純損失807億ドル</title>
+<link>https://www.itmedia.co.jp/news/article/2610/27/2000002603/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/27/2000002603/</guid>
+<pubDate>Mon, 26 Oct 2026 22:04:42 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>米Anthropicは10月26日（現地時間）、新規株式公開（IPO）を正式に申請した。同社は米証券取引委員会（SEC）に登録届出書（Form S-1）を提出し、Nasdaq Global Select Marketに「ANT」のティッカーシンボルでクラスA普通株式を上場する計画を明らかにした。 Anthropicは6月に目論見書の草案をSECに非公開で提出していた... — はてなブックマーク テクノロジー / score: 75 (主要AI企業AnthropicによるIPO正式申請のニュース。)</description>
+</item>
+<item>
 <title>[75] Greptile takes bug detection beyond code review with GPT-6 Astra</title>
 <link>https://openai.com/index/greptile-code-review-codex-astra</link>
 <guid isPermaLink="true">https://openai.com/index/greptile-code-review-codex-astra</guid>
@@ -805,6 +797,14 @@
 <pubDate>Mon, 26 Oct 2026 13:20:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>やっぱりかなりよさそう。Appleが新型のiPad miniを11月6日に発売します。ディスプレイが有機ELになるなどしています。チップはA20 Pro。カラーはミッドナイト・スターライトの2色。価格は11万9800円〜となっています。有機… — ギズモード・ジャパン / score: 75 (Appleの新型iPad mini発表)</description>
+</item>
+<item>
+<title>[75] Googleが「GmailやGoogleフォトの内容は広告に利用しない」という方針に例外を追加、AIとのデータ共有が広告に影響する可能性</title>
+<link>https://gigazine.net/news/20261026-google-privacy-policy/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261026-google-privacy-policy/</guid>
+<pubDate>Mon, 26 Oct 2026 07:40:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>Googleが2026年10月16日にプライバシーポリシーを更新し、GmailやGoogleフォトなどに保存された情報を広告のカスタマイズに利用する条件を変更したことが明らかになりました。 続きを読む... — GIGAZINE / score: 75 (大手プラットフォームのプライバシー方針変更)</description>
 </item>
 </channel>
 </rss>
