@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Tue, 27 Oct 2026 20:07:29 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 22:06:47 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 【PHP2Shell】PHP公式の発表『本日のセキュリティリリースと、セキュリティ対策について』</title>
@@ -191,14 +191,6 @@
 <description>「Node.js」のセキュリティアップデートが10月21日（協定世界時）、予告通りに実施された。今回リリースされたバージョンは、以下の通り。できるだけ早い更新が望ましい。 — 窓の杜 / score: 90 (Node.jsの複数脆弱性を修正する重要アプデ)</description>
 </item>
 <item>
-<title>[90] 「Apache Tomcat」に最大深刻度“CRITICAL”の脆弱性 ～v9 / v10 / v11系統に修正版／</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2150161.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2150161.html</guid>
-<pubDate>Wed, 21 Oct 2026 23:10:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>The Apache Software Foundation（ASF）は10月20日、「Apache Tomcat」に全8件の脆弱性が存在することを明らかにした。「Apache Tomcat」v9 / v10 / v11系統に影響する。深刻度の評価はASFとCVSS:3.1または4.0で異なっているが、CVSS:3.1または4.0で最大スコアが9.1（CRITICAL）の脆弱性が含まれる。 — 窓の杜 / score: 90 (Apache Tomcatの最高深刻度脆弱性の修正)</description>
-</item>
-<item>
 <title>[90] Today's PHP Security Release, and How We're Strengthening PHP Security</title>
 <link>https://simonwillison.net/2026/Oct/21/php-security-release/</link>
 <guid isPermaLink="true">https://simonwillison.net/2026/Oct/21/php-security-release/</guid>
@@ -253,6 +245,22 @@
 <pubDate>Mon, 26 Oct 2026 22:51:53 +0000</pubDate>
 <category>窓の杜</category>
 <description>米OpenAIは10月26日（現地時間）、新しいAIモデル「GPT-6.1 Terra」を発表した。7月に発表された「GPT-5.6 Terra」以来のアップデートで、「Terra」シリーズとしては初の「GPT-6.x」モデルとなる。 — 窓の杜 / score: 88 (OpenAIの新モデルGPT-6.1 Terra発表)</description>
+</item>
+<item>
+<title>[85] AIによって脆弱性発見が爆増したことが一目で分かるグラフ「CVE Tracker」</title>
+<link>https://gigazine.net/news/20261028-cve-tracker/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261028-cve-tracker/</guid>
+<pubDate>Tue, 27 Oct 2026 22:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>AIの性能向上によってソフトウェアの脆弱性が続々と発見されるようになりました。@0x_Osprey氏が公開しているウェブアプリ「CVE Tracker」では2026年に入ってから脆弱性の報告件数が急増していることが読み取れます。 続きを読む... — GIGAZINE / score: 85 (AI普及に伴う脆弱性急増を示すデータと統計)</description>
+</item>
+<item>
+<title>[85] 公開された情報と氏名など同一の人物、ＧＭＯクラウドサービスの利用「一度もない」</title>
+<link>https://www.yomiuri.co.jp/national/20261027-GYT1T00367/2/</link>
+<guid isPermaLink="true">https://www.yomiuri.co.jp/national/20261027-GYT1T00367/2/</guid>
+<pubDate>Tue, 27 Oct 2026 14:28:11 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>【読売新聞】 ＧＭＯインターネットのＦＸ（外国為替証拠金）取引用クラウドサービスが不正アクセスを受けた問題で、攻撃者は２７日、同社が期限の同日正午までに交渉に応じなかったとして、日本語サイトに個人情報とみられる情報１件を公開した。同 — はてなブックマーク テクノロジー / score: 85 (クラウドサービスの不正アクセスと個人情報漏洩)</description>
 </item>
 <item>
 <title>[85] Amazon Corretto October 2026 Patch Updates</title>
@@ -317,22 +325,6 @@
 <pubDate>Tue, 27 Oct 2026 05:38:34 +0000</pubDate>
 <category>Yahoo!ニュース IT</category>
 <description> — Yahoo!ニュース IT / score: 85 (GMO攻撃者による個人情報公開の報道)</description>
-</item>
-<item>
-<title>[85] 【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第10報）（攻撃者による情報の公開に関し、弊社の認識と対策について） | GMOインターネットグループ株式会社</title>
-<link>https://group.gmo/info/alert/2026102703/</link>
-<guid isPermaLink="true">https://group.gmo/info/alert/2026102703/</guid>
-<pubDate>Tue, 27 Oct 2026 05:28:04 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>2026年10月27日 お知らせ【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第10報） （攻撃者による情報の公開に関し、弊社の認識と対策について） 2026年10月27日 13:55時点 GMOインターネットグループ株式会社 GMOインターネット株式会社 このたびは、「お名前.com デスクト... — はてなブックマーク テクノロジー / score: 85 (GMO不正アクセスに関する重要なお知らせと対応)</description>
-</item>
-<item>
-<title>[85] GMO、ランサム被害にあった顧客に新しいPC提供へ　犯行グループは1人の顧客情報公開か</title>
-<link>https://www.itmedia.co.jp/news/article/2610/27/2000002624/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/27/2000002624/</guid>
-<pubDate>Tue, 27 Oct 2026 05:11:36 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>GMOインターネットグループは、「お名前.com デスクトップクラウド」への不正アクセスで、PCがランサムウェアの被害にあった顧客に同等性能の新しいPCを提供すると、10月27日正午までに発表した。 顧客から預かって既に解析を終えた端末からは、10月27日午前11時59時点で、ランサムウェアを含むマルウェアは確認していな... — はてなブックマーク テクノロジー / score: 85 (ランサムウェア被害と対応に関する重要ニュース)</description>
 </item>
 <item>
 <title>[85] メール配信サービス「ブラストメール」への不正アクセスについてまとめてみた - piyolog</title>
@@ -447,14 +439,6 @@
 <description>The following JEP is targeted to JDK 28: 544: Ahead-of-Time Code Compilation — Inside Java / score: 85 (JavaのAOTコンパイルに関する重要なJEP。)</description>
 </item>
 <item>
-<title>[85] eMudhra事件でWebアプリ開発者が点検すべきこと</title>
-<link>https://qiita.com/autotaker1984/items/ef99b5791fe799a4ca66?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/autotaker1984/items/ef99b5791fe799a4ca66?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Sat, 24 Oct 2026 16:45:38 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>2026年10月、認証局eMudhraの中間CA秘密鍵が極端に弱く、公開情報から復元できる問題が明らかになりました。復元した秘密鍵を用いて攻撃者が他人のドメインの証明書を偽造できるため、インターネットの信頼基盤が揺らぐ事件です。 ただし、この事件を正しく理解することはなかな... — Qiita 人気記事 / score: 85 (証明書インシデントに伴う実用的な開発者の点検ガイド)</description>
-</item>
-<item>
 <title>[85] Amazon Corretto October 2026 Quarterly Updates</title>
 <link>https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-corretto-october-2026-quarterly-updates</link>
 <guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-corretto-october-2026-quarterly-updates</guid>
@@ -549,6 +533,14 @@
 <pubDate>Thu, 15 Oct 2026 15:21:12 +0000</pubDate>
 <category>Publickey</category>
 <description>Anthropicが開発しているJavaScriptランタイム「Bun」は、10月10日付けで新バージョン「Bun v1.4.3」がリリースされました。 Bun v1.4.3の最大の特徴として示されたのが、Go言語で実装されたTypeScr... — Publickey / score: 85 (Bunの高速型チェッカー追加という大きなアップデート)</description>
+</item>
+<item>
+<title>[80] GLM-5.3 Workers AIモデルにおけるリクエスト間のKVキャッシュ漏洩とSGLangによる対策をCloudflareが解説</title>
+<link>https://gigazine.net/news/20261028-kv-cache-exposure-remediation/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261028-kv-cache-exposure-remediation/</guid>
+<pubDate>Tue, 27 Oct 2026 21:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>2026年9月8日、Cloudflare Workers AIでホストされているGLM-5.3モデル(@cf/zai-org/glm-5.3)においていわゆる「テナント分離問題」が発生していることがセキュリティ研究者のガディ・エヴロン氏により報告されました。Cloudflareはこのインシデントを修正し、モデルは9月9日に復旧されました。インシデント情報開示の一環としてCloudflareによる解説が10月26日に公開されています。 続きを読む... — GIGAZINE / score: 80 (CloudflareでのKVキャッシュ漏洩インシデント)</description>
 </item>
 <item>
 <title>[80] Genie 4: A new generation of world simulation</title>
@@ -805,6 +797,14 @@
 <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster. — OpenAI News / score: 75 (OpenAIを用いたセキュリティ脆弱性調査の事例)</description>
+</item>
+<item>
+<title>[75] GPT-6.1 Terra</title>
+<link>https://simonwillison.net/2026/Oct/26/gpt-61-terra/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Oct/26/gpt-61-terra/</guid>
+<pubDate>Mon, 26 Oct 2026 23:53:07 +0000</pubDate>
+<category>Simon Willison</category>
+<description>GPT-6.1 Terra It's always interesting to note which aspects of a new model are emphasized in the release announcement. In the case of GPT-6.1 Terra, OpenAI went with visual reasoning and computer use: We’re introducing GPT-6.1 Terra , a fast, efficient model that combines detailed visual reasoning and precise computer use alongside clearer, more natural writing. A significant step up from GPT‑5.6 Terra, it excels at the communication and computer-based tasks that fill the workday, from drafting  — Simon Willison / score: 75 (GPT-6.1 Terraの機能とビジュアル推論の解説)</description>
 </item>
 </channel>
 </rss>
