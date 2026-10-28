@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 28 Oct 2026 08:09:56 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 10:07:44 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 【PHP2Shell】PHP公式の発表『本日のセキュリティリリースと、セキュリティ対策について』</title>
@@ -95,14 +95,6 @@
 <description>Googleのデータ圧縮技術Brotliに深刻な脆弱性が発見されました。PHPに続き確認が必要な対象と影響範囲、開発者向けの詳細な対策をわかりやすく解説します。 — ギズモード・ジャパン / score: 90 (データ圧縮技術Brotliの重大な脆弱性報告)</description>
 </item>
 <item>
-<title>[90] Discovering and exploiting vulnerabilities in critical, real-world software with Claude</title>
-<link>https://www.anthropic.com/research/discovering-vulnerabilities-with-claude</link>
-<guid isPermaLink="true">https://www.anthropic.com/research/discovering-vulnerabilities-with-claude</guid>
-<pubDate>Tue, 27 Oct 2026 23:29:46 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Over the past few months, we’ve used an unreleased, internal research model to find critical vulnerabilities in some of the world’s most widely used software, such as browsers and operating systems. In this post, we share details of five attack chains, which led to remote code execution and other... — はてなブックマーク テクノロジー / score: 90 (AIモデルを用いた脆弱性発見の実例)</description>
-</item>
-<item>
 <title>[90] Upcoming Next.js November Security Release</title>
 <link>https://nextjs.org/blog/upcoming-nextjs-security-release-november-2026</link>
 <guid isPermaLink="true">https://nextjs.org/blog/upcoming-nextjs-security-release-november-2026</guid>
@@ -149,14 +141,6 @@
 <pubDate>Fri, 23 Oct 2026 08:22:10 +0000</pubDate>
 <category>窓の杜</category>
 <description>スクリプト言語「Ruby」の開発チームは10月23日（協定世界時）、「Ruby」のセキュリティアップデートを実施した。「Ruby」で用いられている正規表現エンジン「Onigmo」に、複数の問題があったという。 — 窓の杜 / score: 90 (Ruby正規表現エンジンのリモートコード実行の脆弱性)</description>
-</item>
-<item>
-<title>[90] 「Oracle Java SE」にも致命的な脆弱性 ～リモートでデータの窃取・作成・削除・変更が可能【10月26日追記】／修正版が公開</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2150531.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2150531.html</guid>
-<pubDate>Thu, 22 Oct 2026 12:12:53 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Oracleは10月21日（現地時間）、定例外のセキュリティアドバイザリ「CVE-2026-91403」を公開した。「Oracle Java SE」に起因し、「Oracle GraalVM Enterprise Edition」や「Oracle GraalVM for JDK」にも影響する、致命的な脆弱性が修正されている。 — 窓の杜 / score: 90 (Java SEの致命的な脆弱性情報)</description>
 </item>
 <item>
 <title>[90] eMudhraの中間CAの秘密鍵が公開された証明書から復元可能と判明、pip・uvなどの開発ツールに修正版</title>
@@ -215,20 +199,20 @@
 <description>米OpenAIは10月26日（現地時間）、新しいAIモデル「GPT-6.1 Terra」を発表した。7月に発表された「GPT-5.6 Terra」以来のアップデートで、「Terra」シリーズとしては初の「GPT-6.x」モデルとなる。 — 窓の杜 / score: 88 (OpenAIの新モデルGPT-6.1 Terra発表)</description>
 </item>
 <item>
+<title>[85] ツイキャス、不正アクセスの痕跡を確認　緊急メンテナンスでサービス停止続く</title>
+<link>https://ascii.jp/elem/000/004/446/4446604/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/446/4446604/?rss</guid>
+<pubDate>Wed, 28 Oct 2026 08:40:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>ストリーミング配信サービス「ツイキャス」は10月28日、実施中の緊急メンテナンスで、不正アクセスの痕跡が確認されたことを公表した。 — ASCII.jp / score: 85 (サービス停止を伴う不正アクセスの検知)</description>
+</item>
+<item>
 <title>[85] 資さんうどん、従業員の退職理由などが外部から閲覧可能に　委託先の勤怠システムに設定不備</title>
 <link>https://www.itmedia.co.jp/news/article/2610/28/2000002667/</link>
 <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/28/2000002667/</guid>
 <pubDate>Wed, 28 Oct 2026 06:49:30 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>すかいらーくホールディングス傘下で、うどんチェーン「資さんうどん」を運営する資さん（北九州市）は10月27日、従業員と退職者の個人情報が外部から閲覧可能になっていた可能性があると発表した。原因はサーバの管理・運用を委託するカホエンタープライズ（福岡市）側の設定不備。対象は2021年10月～26年10月に在籍し... — はてなブックマーク テクノロジー / score: 85 (委託先の設定不備による個人情報漏洩)</description>
-</item>
-<item>
-<title>[85] Android版「Sleipnir」に脆弱性　偽のアドレスバーを表示されるおそれ</title>
-<link>https://ascii.jp/elem/000/004/446/4446513/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/446/4446513/?rss</guid>
-<pubDate>Wed, 28 Oct 2026 06:45:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>JVNは10月27日、フェンリルのウェブブラウザー「Sleipnir Mobile for Android」に、偽のアドレスバーなどを表示される脆弱性があると公表した。 — ASCII.jp / score: 85 (Androidブラウザの脆弱性で重要度高)</description>
 </item>
 <item>
 <title>[85] リモートデスクトップソフト「TeamViewer」に9件の脆弱性、v15.83で修正／深刻度はいずれも「High」、リモートコード実行や権限昇格のおそれ</title>
@@ -253,6 +237,14 @@
 <pubDate>Wed, 28 Oct 2026 04:36:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>OpenAIが2024年5月に発表したAIモデルのGPT-4oが、てんかんを患っていたボーウェン・ワンさんに抗てんかん薬の服用を減らすようアドバイスした結果、ボーウェンさんが突然死したとして同氏の両親がOpenAIを提訴しました。 続きを読む... — GIGAZINE / score: 85 (ChatGPTの医療アドバイスに起因する訴訟問題)</description>
+</item>
+<item>
+<title>[85] 今週の PHP・LiteLLM の脆弱性を Claude Code に探させたら、Web 検索ありで6回中5回見つけた</title>
+<link>https://qiita.com/suwa_nobu/items/e6b2737d3eddb921e40d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/suwa_nobu/items/e6b2737d3eddb921e40d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Wed, 28 Oct 2026 02:25:35 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>2026-10-21 に、PHP の重大な脆弱性2件の修正版と、LiteLLM の悪意のある版（1.107.0）が同じ日に出ました。Sonnet 5.5 は自分の知識を「2026年6月まで」と答えます。自分のプロジェクトが当たっているか、Claude Code に聞いたら分... — Qiita 人気記事 / score: 85 (脆弱性探査におけるAIの活用事例)</description>
 </item>
 <item>
 <title>[85] Mozilla、「Firefox 159」を正式リリース ～167件の脆弱性を修正／「タブ検索」が追加、開いているタブを［Ctrl］＋［Shift］＋［A］キーで検索可能に</title>
@@ -293,14 +285,6 @@
 <pubDate>Tue, 27 Oct 2026 09:31:21 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>OpenAIは10月26日、AIが数学、計算機科学、物理学の3分野で、長年の未解決問題に関する証明を生成したと発表した。計算機科学では、ある種の問題を解くには膨大な計算時間が必要だとする「指数時間仮説（ETH）」を覆す証明が得られたという。成果の一部を公開し、外部の研究者による検証や分析を進める。 指数時間仮説は... — はてなブックマーク テクノロジー / score: 85 (AIが長年の未解決数学・計算機科学の問題を証明した画期的な成果)</description>
-</item>
-<item>
-<title>[85] OpenAIが数学・コンピュータサイエンス・物理学における調和解析・計算複雑性理論・量子場理論に関する3つの新たな発見を発表、指数時間仮説は誤りである</title>
-<link>https://gigazine.net/news/20261027-openai-three-new-discoveries/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261027-openai-three-new-discoveries/</guid>
-<pubDate>Tue, 27 Oct 2026 07:42:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>現地時間の2026年10月26日、OpenAIが数学・コンピューターサイエンス・物理学における調和解析・計算複雑性理論・場の量子論に関する新たな発見を発表しました。 続きを読む... — GIGAZINE / score: 85 (OpenAIによる数学・物理等の学術的新発見)</description>
 </item>
 <item>
 <title>[85] OpenAI、視覚的理解とコンピューター操作を強化した「GPT-6.1 Terra」の提供を開始 ―APIコストはGPT-5.6 Terraの半額に</title>
@@ -471,6 +455,14 @@
 <description>Anthropicが開発しているJavaScriptランタイム「Bun」は、10月10日付けで新バージョン「Bun v1.4.3」がリリースされました。 Bun v1.4.3の最大の特徴として示されたのが、Go言語で実装されたTypeScr... — Publickey / score: 85 (Bunの高速型チェッカー追加という大きなアップデート)</description>
 </item>
 <item>
+<title>[80] 1,000ファイルの言語移行をAIとASTトランスパイラで完遂した話：LLMの「評価の抜け道」とどう戦ったか</title>
+<link>https://qiita.com/dev-hasegawa/items/79f612c5a4e6c874eaa9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/dev-hasegawa/items/79f612c5a4e6c874eaa9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Wed, 28 Oct 2026 06:04:47 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>こんにちは！株式会社DearOneの長谷川です。 DearOneのAI推進室でRAGの開発やRAGを使った社内システムの開発に従事しています。 この記事でわかること - 1,000ファイル超の基幹システムでロジックを保ち、AST（抽象構文木）を用いて「言語だけを切り替える」... — Qiita 人気記事 / score: 80 (ASTとAIを用いた大規模言語移行の実践知)</description>
+</item>
+<item>
 <title>[80] GMO不正アクセスの犯人サイト、ドメイン停止を確認</title>
 <link>https://www.itmedia.co.jp/news/article/2610/28/2000002659/</link>
 <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/28/2000002659/</guid>
@@ -631,12 +623,12 @@
 <description>Anthropicは2026年10月13日、社内のソース管理基盤Scionへの移行を扱う技術記事を公開した。 — gihyo.jp / score: 80 (Anthropicがモノレポ基盤をGitから独自移行した事例)</description>
 </item>
 <item>
-<title>[75] パナソニックがリコール中のシェーバーで火災事故　リコール対象か確認を</title>
-<link>https://ascii.jp/elem/000/004/446/4446515/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/446/4446515/?rss</guid>
-<pubDate>Wed, 28 Oct 2026 07:50:00 +0000</pubDate>
+<title>[75] AIセキュリティサービス「loguard」を発表。機密情報を生成AIに送る前に検知・ブロック</title>
+<link>https://ascii.jp/elem/000/004/446/4446616/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/446/4446616/?rss</guid>
+<pubDate>Wed, 28 Oct 2026 08:00:55 +0000</pubDate>
 <category>ASCII.jp</category>
-<description>消費者庁は10月27日、パナソニックがリコール中のシェーバーで、9月に充電中の火災事故が発生したことを明らかにした。 — ASCII.jp / score: 75 (家電製品のリコールと火災事故の注意喚起)</description>
+<description>AIセキュリティサービス「loguard」を発表。機密情報を生成AIに送る前に検知・ブロック — ASCII.jp / score: 75 (機密情報を保護するAIセキュリティサービスの発表)</description>
 </item>
 <item>
 <title>[75] AppleとOpenAIのモデルに基づいて構築されたAIアシスタントがKeynote・Pages・NumbersだけでなくLogic Proにも追加、Keynote・Pages・NumbersはMCPをサポート</title>
@@ -735,6 +727,14 @@
 <description>Earlier this year, we introduced Gemini Robotics 2 — our next-generation intelligence layer enabling robots to think, act, and adapt in the physical world. At the core of this breakthrough is Gemini Robotics Embodied Reasoning 2 (ER 2) , a specialized Gemini model that serves as a robot’s high-level brain. Working across any robot embodiment — from stationary arms to full humanoids — Gemini Robotics ER 2 combines advanced spatial and temporal video understanding with long-horizon planning and bu — Google Cloud Blog / score: 75 (Google Cloudにおけるロボティクス向けAI提供開始)</description>
 </item>
 <item>
+<title>[75] Anthropic の Scion に学ぶソース管理設計、Git の前提はどこで崩れるか</title>
+<link>https://qiita.com/kai_kou/items/1e1800bb2d48c8fc3ea7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/kai_kou/items/1e1800bb2d48c8fc3ea7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Tue, 27 Oct 2026 11:11:27 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>はじめに コーディングエージェントを CI やバッチジョブに組み込むと、リポジトリを取得するクライアントの数が人間の開発者数とは別の桁で増えていきます。そのとき最初に音を上げるのはどこなのでしょうか。 対象読者は、リードエンジニア・プラットフォーム担当、そして AI エー... — Qiita 人気記事 / score: 75 (AIエージェント時代のソース管理設計)</description>
+</item>
+<item>
 <title>[75] Zero Trust for AI agents</title>
 <link>https://claude.com/resources/articles/zero-trust-for-ai-agents</link>
 <guid isPermaLink="true">https://claude.com/resources/articles/zero-trust-for-ai-agents</guid>
@@ -743,7 +743,7 @@
 <description>We share a security framework for deploying autonomous AI agents in the enterprise, covering the new threat landscape, a tiered Zero Trust architecture, and defensive operations built for AI-accelerated attacks. Frontier AI models are compressing the timeline between vulnerability and exploit fro... — はてなブックマーク テクノロジー / score: 75 (AIエージェントの企業導入における新しいゼロトラストセキュリティ枠組み)</description>
 </item>
 <item>
-<title>[75] ダウンロードした AGENTS.md による乗っ取りを Claude Code・Codex・Cursor の hook で止めた</title>
+<title>[75] AGENTS.md乗っ取り対策のhook、テスト27件全通過でも攻撃役AIに破られた（Claude Code・Codex・Cursor）</title>
 <link>https://zenn.dev/shoma_endo/articles/agent-downloads-hijack-guard</link>
 <guid isPermaLink="true">https://zenn.dev/shoma_endo/articles/agent-downloads-hijack-guard</guid>
 <pubDate>Tue, 27 Oct 2026 09:47:14 +0000</pubDate>
