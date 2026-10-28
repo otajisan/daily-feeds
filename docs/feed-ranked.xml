@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 28 Oct 2026 12:10:55 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 14:07:23 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 【PHP2Shell】PHP公式の発表『本日のセキュリティリリースと、セキュリティ対策について』</title>
@@ -85,6 +85,14 @@
 <pubDate>Wed, 28 Oct 2026 10:22:00 +0000</pubDate>
 <category>iPhone Mania</category>
 <description>Appleは現地時間10月26日、iPhone XS、XS Max、XR向けにiOS18.7.11を配信しました。実際の攻撃で悪用された可能性がある脆弱性を修正するアップデートです。この脆弱性は、iPhone11以降では […] — iPhone Mania / score: 90 (iOSの深刻な脆弱性を修正する緊急アップデート)</description>
+</item>
+<item>
+<title>[90] PHP財団の常勤職員「たった1人」の衝撃--ウェブの安全を支える人手と資金が足りない</title>
+<link>https://japan.cnet.com/article/35254103/</link>
+<guid isPermaLink="true">https://japan.cnet.com/article/35254103/</guid>
+<pubDate>Wed, 28 Oct 2026 09:39:58 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>この1週間、世界中のソフトウェアエンジニアが、ウェブサイトを動かすソフトウェアの更新に追われている。米OpenAIのAIモデルを使ったチームが、ウェブを支える重要なソフトウェア「PHP」に2件の重大な脆弱性を発見したためだ。米Cloudflareによると、影響はPHP 5.4以降を使うウェブサーバーに及ぶ。修正を適用しないま... — はてなブックマーク テクノロジー / score: 90 (PHPの重大な脆弱性と資金難に関する注目ニュース)</description>
 </item>
 <item>
 <title>[90] 「Google Chrome 156」にセキュリティ更新、「Critical」4件を含む52件の脆弱性を修正／Windows/Mac向けはv156.0.8078.73/.74、Linux向けはv156.0.8078.73</title>
@@ -199,6 +207,14 @@
 <description>米OpenAIは10月26日（現地時間）、新しいAIモデル「GPT-6.1 Terra」を発表した。7月に発表された「GPT-5.6 Terra」以来のアップデートで、「Terra」シリーズとしては初の「GPT-6.x」モデルとなる。 — 窓の杜 / score: 88 (OpenAIの新モデルGPT-6.1 Terra発表)</description>
 </item>
 <item>
+<title>[85] 2026-10-28 Node.js v26.13.0 Lithium (LTS) Release</title>
+<link>https://github.com/nodejs/node/releases/tag/v26.13.0</link>
+<guid isPermaLink="true">https://github.com/nodejs/node/releases/tag/v26.13.0</guid>
+<pubDate>Wed, 28 Oct 2026 12:55:22 +0000</pubDate>
+<category>Node.js リリース</category>
+<description>Git-EVTag-v0-SHA512: 17beab2827436ba152dc2d50d2682a3e399879640e973cb640be7bb0978bd4bdb8c40c67519750cd358d6848aef4c789881e04fbdead41eaad3f15c7765022ea — Node.js リリース / score: 85 (Node.jsのLTSメジャーバージョンリリース)</description>
+</item>
+<item>
 <title>[85] アメリカ中間選挙を前に、政府の献金公開サイトがハッキングされる</title>
 <link>https://www.gizmodo.jp/article/hackers-target-u-s-federal-election-commission-website/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/hackers-target-u-s-federal-election-commission-website/</guid>
@@ -221,22 +237,6 @@
 <pubDate>Wed, 28 Oct 2026 10:45:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>Googleの新AI「Genie 4」の最新情報。映像や音声、会話までリアルタイムに生成する仮想世界の仕組みと進化を分かりやすく解説します。 — ギズモード・ジャパン / score: 85 (Googleの新AIモデルに関する技術ニュース)</description>
-</item>
-<item>
-<title>[85] macOS 27.2 Golden Gateアップデートでは、/etc/ssl/cert.pemが置き換えられmacOS 27.0以前で削除したeMudhraの証明書問題に関連する2つのルートCA証明書が再び追加されるので注意を。</title>
-<link>https://applech2.com/archives/20261028-macos-updates-may-restore-emudhra-root-ca-certificates.html</link>
-<guid isPermaLink="true">https://applech2.com/archives/20261028-macos-updates-may-restore-emudhra-root-ca-certificates.html</guid>
-<pubDate>Wed, 28 Oct 2026 07:41:04 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>macOS 27.2 Golden Gateへアップデートすると、/etc/ssl/cert.pemが置き換えられmacOS 27.0以前で削除したeMudhraの証明書問題に関連する2つのルートCA証明書が再び追加されるので注意をしてください。詳細は以下から。 Appleは現地時間2026年10月22日、電子証明書を発行するインドの認証局eMudhraが2025年04月30日に中... — はてなブックマーク テクノロジー / score: 85 (OSアップデートに伴う証明書関連の重要な注意点)</description>
-</item>
-<item>
-<title>[85] 資さんうどん、従業員の退職理由などが外部から閲覧可能に　委託先の勤怠システムに設定不備</title>
-<link>https://www.itmedia.co.jp/news/article/2610/28/2000002667/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/28/2000002667/</guid>
-<pubDate>Wed, 28 Oct 2026 06:49:30 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>すかいらーくホールディングス傘下で、うどんチェーン「資さんうどん」を運営する資さん（北九州市）は10月27日、従業員と退職者の個人情報が外部から閲覧可能になっていた可能性があると発表した。原因はサーバの管理・運用を委託するカホエンタープライズ（福岡市）側の設定不備。対象は2021年10月～26年10月に在籍し... — はてなブックマーク テクノロジー / score: 85 (委託先の設定不備による個人情報漏洩)</description>
 </item>
 <item>
 <title>[85] リモートデスクトップソフト「TeamViewer」に9件の脆弱性、v15.83で修正／深刻度はいずれも「High」、リモートコード実行や権限昇格のおそれ</title>
@@ -663,6 +663,14 @@
 <description> — CodeZine / score: 75 (OpenAIの新フラッグシップモデル発表)</description>
 </item>
 <item>
+<title>[75] Spring AI 2.1 Message Parts: Reasoning That Survives the Round Trip</title>
+<link>https://spring.io/blog/2026/10/28/spring-ai-message-parts-reasoning-replay</link>
+<guid isPermaLink="true">https://spring.io/blog/2026/10/28/spring-ai-message-parts-reasoning-replay</guid>
+<pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+<category>Spring Blog</category>
+<description>Spring AI: Message Parts Doc | Upgrade Notes | OpenAI Responses Doc | Session Doc Reasoning models do more than think before they answer. They hand part of that thinking back to you and expect to get it back on the next request. Claude signs its thinking blocks. Gemini attaches thought signatures to its function calls. OpenAI's Responses API returns encrypted reasoning items. If you drop, reorder or edit them, the result ranges from an HTTP 400 to a model that quietly loses its earlier reasoning — Spring Blog / score: 75 (Spring AIの推論モデル対応に関する解説)</description>
+</item>
+<item>
 <title>[75] Oracle CloudがGoogle TPU導入を発表、2027年に提供を開始。Oracle AI World 2026</title>
 <link>https://www.publickey1.jp/blog/26/oracle_cloudgoogle_tpu2027oracle_ai_world_2026.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/oracle_cloudgoogle_tpu2027oracle_ai_world_2026.html</guid>
@@ -685,14 +693,6 @@
 <pubDate>Tue, 27 Oct 2026 15:00:00 +0000</pubDate>
 <category>Gemini (Google Blog)</category>
 <description>From deep research to interactive design, here are eight examples of what Gemini 4 Argon, our most intelligent model yet, is capable of. — Gemini (Google Blog) / score: 75 (新モデルGemini 4 Argonの機能紹介)</description>
-</item>
-<item>
-<title>[75] GMO不正アクセス 警視庁が捜査</title>
-<link>https://news.yahoo.co.jp/pickup/6600351?source=rss</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6600351?source=rss</guid>
-<pubDate>Tue, 27 Oct 2026 14:14:04 +0000</pubDate>
-<category>Yahoo!ニュース IT</category>
-<description> — Yahoo!ニュース IT / score: 75 (GMO不正アクセス事件に関する警視庁の捜査動向)</description>
 </item>
 <item>
 <title>[75] Bringing Google TPUs to Oracle Cloud Infrastructure</title>
