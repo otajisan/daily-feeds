@@ -4,8 +4,16 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Tue, 27 Oct 2026 22:06:47 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 00:18:45 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>[95] PHP2Shellの影響製品・ソフトウェア一覧 PAN-OS、NetScaler、QNAP、Cisco、F5、WordPressなどの修正状況を整理（CVE-2026-109618／CVE-2026-109619）|セキュリティ対策Lab</title>
+<link>https://rocket-boys.co.jp/security-measures-lab/php2shell-affected-products-software-20261027/</link>
+<guid isPermaLink="true">https://rocket-boys.co.jp/security-measures-lab/php2shell-affected-products-software-20261027/</guid>
+<pubDate>Tue, 27 Oct 2026 06:44:30 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>PHP2Shellの影響製品・ソフトウェア一覧 PAN-OS、NetScaler、QNAP、Cisco、F5、WordPressなどの修正状況を整理（CVE-2026-109618／CVE-2026-109619） PHPの重大脆弱性「PHP2Shell」（CVE-2026-109618、CVE-2026-109619）は、Webサイトだけでなく、ファイアウォール、NAS、認証ゲートウェイ、セキュリティ管理サーバー、... — はてなブックマーク テクノロジー / score: 95 (多数の主要製品に影響するPHPの重大な脆弱性情報の整理)</description>
+</item>
 <item>
 <title>[95] 【PHP2Shell】PHP公式の発表『本日のセキュリティリリースと、セキュリティ対策について』</title>
 <link>https://qiita.com/rana_kualu/items/f5a44b09241bdb21907e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
@@ -79,6 +87,22 @@
 <description>悪意のある攻撃者がLinuxの仮想マシンを不正に操作することで、仮想マシンの境界を抜けてホスト側のLinux OSで不正なコードを実行できる可能性がある脆弱性「PwnEscape」（CVE-2026-99999）の情報が公開されています。 ... — Publickey / score: 95 (Linuxカーネルの深刻な脆弱性の報告)</description>
 </item>
 <item>
+<title>[90] Upcoming Next.js November Security Release</title>
+<link>https://nextjs.org/blog/upcoming-nextjs-security-release-november-2026</link>
+<guid isPermaLink="true">https://nextjs.org/blog/upcoming-nextjs-security-release-november-2026</guid>
+<pubDate>Tue, 27 Oct 2026 18:00:00 +0000</pubDate>
+<category>Next.js Blog</category>
+<description>Next.js is preparing a scheduled November security release for November 3, 2026. — Next.js Blog / score: 90 (Next.jsの重要なセキュリティリリース予告)</description>
+</item>
+<item>
+<title>[90] ドコモ光「plala（Sコース）」で44万件の情報流出、委託先に不正アクセス</title>
+<link>https://k-tai.watch.impress.co.jp/docs/news/2151662.html</link>
+<guid isPermaLink="true">https://k-tai.watch.impress.co.jp/docs/news/2151662.html</guid>
+<pubDate>Tue, 27 Oct 2026 11:55:47 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>ドコモ光「plala（Sコース）」で44万件の情報流出、委託先に不正アクセス — はてなブックマーク テクノロジー / score: 90 (大規模な個人情報流出インシデントとセキュリティ対策の重要性)</description>
+</item>
+<item>
 <title>[90] ハッカーが古いiOSを狙ってます。SNS見るだけでも感染、iPhoneの中身が盗まれる</title>
 <link>https://www.gizmodo.jp/article/2610-ios-security-update-darksword/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/2610-ios-security-update-darksword/</guid>
@@ -87,20 +111,12 @@
 <description>iPhoneの更新、しばらくしていない人はご確認を。iPhoneをなくしたわけでも、誰かに貸したわけでもない。それなのに、家族旅行の写真やネット通販のパスワードが、知らない誰かに持ち出されるかもしれません。しかも、SNSの広告をクリックしな… — ギズモード・ジャパン / score: 90 (iOSの脆弱性とサイバー攻撃の注意喚起のため)</description>
 </item>
 <item>
-<title>[90] ソニーネット、So-netなど会員情報258万件漏洩　口座情報も16件 - 日本経済新聞</title>
-<link>https://www.nikkei.com/article/DGXZQOUC277HE0X21C26A0000000/</link>
-<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUC277HE0X21C26A0000000/</guid>
-<pubDate>Tue, 27 Oct 2026 09:35:06 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>ソニーグループ傘下のソニーネットワークコミュニケーションズは27日、不正アクセスを受けたと発表した。口座情報16件を含む、一般向けインターネット接続サービス「So-net」や「plala」の会員情報が約258万件流出した。19日に会員データベースに不正アクセスがあり、氏名やID、メールアドレスなどが流出した。現在攻撃... — はてなブックマーク テクノロジー / score: 90 (So-net等で258万件の会員情報が漏洩)</description>
-</item>
-<item>
 <title>[90] Apple製品で一斉セキュリティアップデート、「macOS Golden Gate 27.2」は260件超／ゼロデイ脆弱性の修正が「iOS 27」以降へアップデートできない古いデバイスにも</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2151422.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2151422.html</guid>
-<pubDate>Tue, 27 Oct 2026 08:28:52 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Apple製品で一斉セキュリティアップデート、「macOS Golden Gate 27.2」は260件超／ゼロデイ脆弱性の修正が「iOS 27」以降へアップデートできない古いデバイスにも — はてなブックマーク テクノロジー / score: 90 (Apple製品の一斉セキュリティアップデート)</description>
+<pubDate>Tue, 27 Oct 2026 07:43:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Appleは10月26日（現地時間）、自社製品のセキュリティアップデートを一斉実施した。「iOS 27.2」「iPadOS 27.2」も含め、以下の11件のアップデートが公開されている（括弧内はCVE番号が割り振られた脆弱性の件数）。 — 窓の杜 / score: 90 (Apple製品の一斉セキュリティアップデート)</description>
 </item>
 <item>
 <title>[90] 「Oracle Java SE」にまた緊急のセキュリティアラート ～「eMudhra」問題への対策／「CVSS 3.1」の基本値は「9.1」</title>
@@ -109,14 +125,6 @@
 <pubDate>Tue, 27 Oct 2026 06:21:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Oracleは10月24日（現地時間、以下同）、定例外のセキュリティアラート「CVE-2026-114820」を公開した。インドの認証局「eMudhra」の中間証明書の秘密鍵が漏洩した問題に関連し、影響を受けるルートCA証明書を「Java」のキーストアから削除するアップデートを提供するものだ。21日に続くセキュリティアップデートとなる。 — 窓の杜 / score: 90 (Oracle Javaの緊急セキュリティアラート)</description>
-</item>
-<item>
-<title>[90] 【速報】閲覧しないよう注意と関係者</title>
-<link>https://www.47news.jp/15145072.html</link>
-<guid isPermaLink="true">https://www.47news.jp/15145072.html</guid>
-<pubDate>Tue, 27 Oct 2026 05:25:16 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>GMOインターネットグループへの不正アクセス問題で、セキュリティー関係者は、攻撃者のものとみられるウェブサイトを閲覧しないよう注意を呼びかけた。個人情報を収集されたり、不正アクセスを受けたりする恐れがある。 — はてなブックマーク テクノロジー / score: 90 (GMOグループへの深刻な不正アクセスによる注意喚起)</description>
 </item>
 <item>
 <title>[90] Apple、100件以上の脆弱性の修正を含んだ｢iOS 26.7.2｣と｢iPadOS 26.7.2｣をリリース</title>
@@ -231,20 +239,20 @@
 <description>The October 14, 2026 out-of-band security update for Next.js is now available — Next.js Blog / score: 90 (Next.jsの重要セキュリティアップデート)</description>
 </item>
 <item>
-<title>[88] So-net、会員データベースへの不正アクセスで会員情報約214万件などが漏えい。一部退会者も含む　Plala（Sコース）会員情報も対象</title>
-<link>https://internet.watch.impress.co.jp/docs/news/2151585.html</link>
-<guid isPermaLink="true">https://internet.watch.impress.co.jp/docs/news/2151585.html</guid>
-<pubDate>Tue, 27 Oct 2026 08:12:02 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>So-net、会員データベースへの不正アクセスで会員情報約214万件などが漏えい。一部退会者も含む Plala（Sコース）会員情報も対象 — はてなブックマーク テクノロジー / score: 88 (210万件を超える大規模な会員情報漏えい事案)</description>
-</item>
-<item>
 <title>[88] OpenAI、「GPT-6.1 Terra」を発表 ～性能とコストのバランス型、API料金は先代の半額／画面を理解してアプリを操作、文章もより自然に</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2151338.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2151338.html</guid>
 <pubDate>Mon, 26 Oct 2026 22:51:53 +0000</pubDate>
 <category>窓の杜</category>
 <description>米OpenAIは10月26日（現地時間）、新しいAIモデル「GPT-6.1 Terra」を発表した。7月に発表された「GPT-5.6 Terra」以来のアップデートで、「Terra」シリーズとしては初の「GPT-6.x」モデルとなる。 — 窓の杜 / score: 88 (OpenAIの新モデルGPT-6.1 Terra発表)</description>
+</item>
+<item>
+<title>[85] メタのAI「Muse」、共有コンテンツが第三者からも閲覧可能だった</title>
+<link>https://www.gizmodo.jp/article/meta-muse-ghost-share-security-issue/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/meta-muse-ghost-share-security-issue/</guid>
+<pubDate>Tue, 27 Oct 2026 23:00:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>MetaのAI「Muse」の共有コンテンツが第三者から閲覧可能だった問題について解説します。URL生成ロジックの脆弱性と、AI利用におけるセキュリティリスクを分かりやすくお届けします。 — ギズモード・ジャパン / score: 85 (メタのAIサービスにおける重大なセキュリティ脆弱性の問題)</description>
 </item>
 <item>
 <title>[85] AIによって脆弱性発見が爆増したことが一目で分かるグラフ「CVE Tracker」</title>
@@ -287,36 +295,28 @@
 <description> — Yahoo!ニュース IT / score: 85 (So-netなどの会員情報258万件超の漏洩報道)</description>
 </item>
 <item>
-<title>[85] 【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第12報） （情報が公開されたお客様へのお見舞金について） | GMOインターネットグループ株式会社</title>
+<title>[85] 【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第12報） | GMOインターネットグループ株式会社</title>
 <link>https://group.gmo/info/alert/2026102705/</link>
 <guid isPermaLink="true">https://group.gmo/info/alert/2026102705/</guid>
 <pubDate>Tue, 27 Oct 2026 10:20:05 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>2026年10月27日 お知らせ【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第12報） （情報が公開されたお客様へのお見舞金について） 2026年10月27日 19:10時点 GMOインターネットグループ株式会社 GMOインターネット株式会社 このたびは、「お名前.com デスクトップクラウド... — はてなブックマーク テクノロジー / score: 85 (お名前.comの不正アクセス対応と情報漏洩)</description>
+<description>2026年10月27日 お知らせ【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第12報） 2026年10月27日 19:10時点 GMOインターネットグループ株式会社 GMOインターネット株式会社 このたびは、「お名前.com デスクトップクラウド」への不正アクセスにより、お客様をはじめ、関係す... — はてなブックマーク テクノロジー / score: 85 (お名前.comの不正アクセス対応と情報漏洩)</description>
 </item>
 <item>
-<title>[85] [PDF]So-net 会員データベースへの不正アクセスに伴う情報漏洩に関するお詫びとお知らせ　2026年10月27日　ソニーネットワークコミュニケーションズ株式会社</title>
-<link>https://www.sonynetwork.co.jp/corporation/release/2026/v5e5u00000000zwj-att/20261027.pdf</link>
-<guid isPermaLink="true">https://www.sonynetwork.co.jp/corporation/release/2026/v5e5u00000000zwj-att/20261027.pdf</guid>
-<pubDate>Tue, 27 Oct 2026 09:37:31 +0000</pubDate>
+<title>[85] OpenAI、「計算の難しさ」に関する長年の予想を覆す成果を得られたと発表</title>
+<link>https://japan.cnet.com/article/35254012/</link>
+<guid isPermaLink="true">https://japan.cnet.com/article/35254012/</guid>
+<pubDate>Tue, 27 Oct 2026 09:31:21 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>[PDF]So-net 会員データベースへの不正アクセスに伴う情報漏洩に関するお詫びとお知らせ 2026年10月27日 ソニーネットワークコミュニケーションズ株式会社 — はてなブックマーク テクノロジー / score: 85 (ソニーネットワーク情報の不正アクセス公式PDF)</description>
-</item>
-<item>
-<title>[85] 【第7報】不正アクセスに関する調査結果および今後の対応について | IDCフロンティア</title>
-<link>https://www.idcf.jp/news/topics/20261027001</link>
-<guid isPermaLink="true">https://www.idcf.jp/news/topics/20261027001</guid>
-<pubDate>Tue, 27 Oct 2026 07:55:13 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>2026年10月27日 このたびは、当社クラウドサービス「IDCFクラウド」※1に対する第三者からの不正アクセスにより、お客さまならびに関係者の皆さまに多大なるご心配とご迷惑をおかけしておりますことを、深くお詫び申し上げます。 本件に関する一連の調査が完了しましたので、これまでに確認した事実、影響範囲、原因およ... — はてなブックマーク テクノロジー / score: 85 (クラウドサービスにおける重大な不正アクセスの調査結果)</description>
+<description>OpenAIは10月26日、AIが数学、計算機科学、物理学の3分野で、長年の未解決問題に関する証明を生成したと発表した。計算機科学では、ある種の問題を解くには膨大な計算時間が必要だとする「指数時間仮説（ETH）」を覆す証明が得られたという。成果の一部を公開し、外部の研究者による検証や分析を進める。 指数時間仮説は... — はてなブックマーク テクノロジー / score: 85 (AIが長年の未解決数学・計算機科学の問題を証明した画期的な成果)</description>
 </item>
 <item>
 <title>[85] OpenAIが数学・コンピュータサイエンス・物理学における調和解析・計算複雑性理論・量子場理論に関する3つの新たな発見を発表、指数時間仮説は誤りである</title>
 <link>https://gigazine.net/news/20261027-openai-three-new-discoveries/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261027-openai-three-new-discoveries/</guid>
-<pubDate>Tue, 27 Oct 2026 07:46:21 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>現地時間の2026年10月26日、OpenAIが数学・コンピューターサイエンス・物理学における調和解析・計算複雑性理論・場の量子論に関する新たな発見を発表しました。 Working with academic communities to build scientific understanding | OpenAI https://openai.com/index/building-scientific-understanding-with-acade... — はてなブックマーク テクノロジー / score: 85 (OpenAIによる数学・物理等の学術的新発見)</description>
+<pubDate>Tue, 27 Oct 2026 07:42:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>現地時間の2026年10月26日、OpenAIが数学・コンピューターサイエンス・物理学における調和解析・計算複雑性理論・場の量子論に関する新たな発見を発表しました。 続きを読む... — GIGAZINE / score: 85 (OpenAIによる数学・物理等の学術的新発見)</description>
 </item>
 <item>
 <title>[85] GMO攻撃者「個人情報毎日公開」</title>
@@ -325,14 +325,6 @@
 <pubDate>Tue, 27 Oct 2026 05:38:34 +0000</pubDate>
 <category>Yahoo!ニュース IT</category>
 <description> — Yahoo!ニュース IT / score: 85 (GMO攻撃者による個人情報公開の報道)</description>
-</item>
-<item>
-<title>[85] メール配信サービス「ブラストメール」への不正アクセスについてまとめてみた - piyolog</title>
-<link>https://piyolog.hatenadiary.jp/entry/2026/10/27/133851</link>
-<guid isPermaLink="true">https://piyolog.hatenadiary.jp/entry/2026/10/27/133851</guid>
-<pubDate>Tue, 27 Oct 2026 04:54:10 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>2026年10月21日、ラクスは、子会社のラクスライトクラウドが提供するメール配信サービス「ブラストメール」で外部の第三者による不正アクセスがあり、契約者の情報などが持ち出されたと公表しました。ここでは関連する情報をまとめます。 持ち出された情報 ラクスライトクラウドは不審なアクセスを検知し、10月21日0時30... — はてなブックマーク テクノロジー / score: 85 (メール配信サービスの不正アクセス詳細分析)</description>
 </item>
 <item>
 <title>[85] OpenAI、視覚的理解とコンピューター操作を強化した「GPT-6.1 Terra」の提供を開始 ―APIコストはGPT-5.6 Terraの半額に</title>
@@ -349,14 +341,6 @@
 <pubDate>Tue, 27 Oct 2026 02:12:06 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Microsoftは10月26日（現地時間）、Windows 10/11向けの累積更新プログラムを定例外（OOB）でリリースした。インドの認証局「eMudhra」で発生した中間CA証明書の侵害に対処するパッチのようだ。 — 窓の杜 / score: 85 (Windowsの緊急証明書問題パッチ)</description>
-</item>
-<item>
-<title>[85] LLMで日常会話に攻撃者の指示を紛れ込ませることはできるのか？（DEF CON 34登壇記） - NTT docomo Business Engineers' Blog</title>
-<link>https://engineers.ntt.com/entry/202610-steganoC2/entry</link>
-<guid isPermaLink="true">https://engineers.ntt.com/entry/202610-steganoC2/entry</guid>
-<pubDate>Tue, 27 Oct 2026 01:09:13 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Offensive Securityプロジェクトの紹介 DEF CONとは？ 発表内容の紹介 研究の背景：C2通信が普通の文章に見えたら？ 自然言語ステガノグラフィとは TextC2の構成と前提条件 手法1：両側でLLMを使う方式（算術符号化） 手法2：受信側にLLMを必要としない方式（サンプリング） 検証で分かった限界 防御側への示唆 研究倫理... — はてなブックマーク テクノロジー / score: 85 (LLMのセキュリティとステガノグラフィの検証)</description>
 </item>
 <item>
 <title>[85] Apple、Siri AIの日本語対応を含んだ｢visionOS 27.2｣をリリース</title>
@@ -703,6 +687,22 @@
 <description>Anthropicは2026年10月13日、社内のソース管理基盤Scionへの移行を扱う技術記事を公開した。 — gihyo.jp / score: 80 (Anthropicがモノレポ基盤をGitから独自移行した事例)</description>
 </item>
 <item>
+<title>[75] OpenAI、「GPT-6.1 Terra」を発表</title>
+<link>https://codezine.jp/article/detail/30149</link>
+<guid isPermaLink="true">https://codezine.jp/article/detail/30149</guid>
+<pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+<category>CodeZine</category>
+<description> — CodeZine / score: 75 (OpenAIの新フラッグシップモデル発表)</description>
+</item>
+<item>
+<title>[75] 懸念が高まる「サプライチェーン攻撃」、被害企業はその後どう動いた？　1000社アンケートから浮かび上がった実像、そして「SCS評価制度」との向き合い方【Security Days Fall 2026】</title>
+<link>https://internet.watch.impress.co.jp/docs/event/2151587.html</link>
+<guid isPermaLink="true">https://internet.watch.impress.co.jp/docs/event/2151587.html</guid>
+<pubDate>Tue, 27 Oct 2026 21:39:49 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>懸念が高まる「サプライチェーン攻撃」、被害企業はその後どう動いた？ 1000社アンケートから浮かび上がった実像、そして「SCS評価制度」との向き合い方【Security Days Fall 2026】 — はてなブックマーク テクノロジー / score: 75 (サプライチェーン攻撃の実態とセキュリティ評価制度に関する実用的な解説)</description>
+</item>
+<item>
 <title>[75] Oracle CloudがGoogle TPU導入を発表、2027年に提供を開始。Oracle AI World 2026</title>
 <link>https://www.publickey1.jp/blog/26/oracle_cloudgoogle_tpu2027oracle_ai_world_2026.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/oracle_cloudgoogle_tpu2027oracle_ai_world_2026.html</guid>
@@ -751,6 +751,14 @@
 <description>Earlier this year, we introduced Gemini Robotics 2 — our next-generation intelligence layer enabling robots to think, act, and adapt in the physical world. At the core of this breakthrough is Gemini Robotics Embodied Reasoning 2 (ER 2) , a specialized Gemini model that serves as a robot’s high-level brain. Working across any robot embodiment — from stationary arms to full humanoids — Gemini Robotics ER 2 combines advanced spatial and temporal video understanding with long-horizon planning and bu — Google Cloud Blog / score: 75 (Google Cloudにおけるロボティクス向けAI提供開始)</description>
 </item>
 <item>
+<title>[75] Zero Trust for AI agents</title>
+<link>https://claude.com/resources/articles/zero-trust-for-ai-agents</link>
+<guid isPermaLink="true">https://claude.com/resources/articles/zero-trust-for-ai-agents</guid>
+<pubDate>Tue, 27 Oct 2026 09:51:27 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>We share a security framework for deploying autonomous AI agents in the enterprise, covering the new threat landscape, a tiered Zero Trust architecture, and defensive operations built for AI-accelerated attacks. Frontier AI models are compressing the timeline between vulnerability and exploit fro... — はてなブックマーク テクノロジー / score: 75 (AIエージェントの企業導入における新しいゼロトラストセキュリティ枠組み)</description>
+</item>
+<item>
 <title>[75] [AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn</title>
 <link>https://latent.space/p/ainews-anthropic-s1/</link>
 <guid isPermaLink="true">https://latent.space/p/ainews-anthropic-s1/</guid>
@@ -773,14 +781,6 @@
 <pubDate>Tue, 27 Oct 2026 05:23:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>MicrosoftはAIによる効率化推進の一環として、全従業員の4分の1に相当する約6万人の従業員向けに、自主退職制度を発表しました。 続きを読む... — GIGAZINE / score: 75 (Microsoftの巨人に迫る大規模な人員削減の動き)</description>
-</item>
-<item>
-<title>[75] Apple、Siri AIの日本語対応を含んだ｢macOS Golden Gate 27.2｣をリリース</title>
-<link>https://taisy0.com/2026/10/27/229495.html</link>
-<guid isPermaLink="true">https://taisy0.com/2026/10/27/229495.html</guid>
-<pubDate>Tue, 27 Oct 2026 00:09:45 +0000</pubDate>
-<category>気になる、記になる…</category>
-<description>本日、Appleが、「macOS Golden Gate 27」の最新バージョンとなる「macOS Golden Gate 27.2」をリリースしました。 「macOS Golden Gate 27.2」では、Siri […] — 気になる、記になる… / score: 75 (macOSでのSiri AI日本語対応などの新機能)</description>
 </item>
 <item>
 <title>[75] Amazon Bedrock、すべてのClaudeモデルで構造化出力をサポート</title>
