@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 28 Oct 2026 16:08:38 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 18:09:11 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 【PHP2Shell】PHP公式の発表『本日のセキュリティリリースと、セキュリティ対策について』</title>
@@ -37,14 +37,6 @@
 <pubDate>Thu, 22 Oct 2026 07:42:44 +0000</pubDate>
 <category>Latent Space</category>
 <description>Almost 2 months ago, OpenAI introduced Daybreak for Frontline Defenders , a $1B subsidy for access to Daybreak cyber models and products. That funding came into use almost immediately, as major vulnerabilities in PHP were independently discovered by two parties: Ryan Austin, a researcher at the security firm Calif, as part of the OpenAI “ Patch the Planet ” project in August 2026 using GPT 5.6 Sol: View post on X … as well as Wiz, recently acquired into Google Cloud (using Gemini 4 Argon and GPT — Latent Space / score: 95 (PHPコアの重大な脆弱性発見とAIによる自動パッチ適用)</description>
-</item>
-<item>
-<title>[95] Responding to core PHP vulnerabilities CVE-2026-109618 and CVE-2026-109619</title>
-<link>https://cloud.google.com/blog/products/identity-security/responding-to-core-php-vulnerabilities-cve-2026-109618-cve-2026-109619/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/products/identity-security/responding-to-core-php-vulnerabilities-cve-2026-109618-cve-2026-109619/</guid>
-<pubDate>Wed, 21 Oct 2026 14:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>Editor's note : This blog was updated on Oct. 23, 2026 at 3:20 p.m. PDT, with additional guidance from Mandiant Consulting on monitoring, patching, and remediation. We have previously updated the blog on Oct. 22, 2026, with revised guidance for Security Command Center and Cloud Armor, and on Oct. 21, 2026 . PHP and Wiz Research disclosed today two critical vulnerabilities in the core PHP language runtime that can expose applications to unauthenticated remote code execution and memory disclosure. — Google Cloud Blog / score: 95 (PHPの深刻な脆弱性とRCEへの対応)</description>
 </item>
 <item>
 <title>[95] PHP、重大な脆弱性2件を修正 ——認証なしのリモートコード実行に対処。直ちに更新するよう強く推奨（10月23日更新）</title>
@@ -199,14 +191,6 @@
 <description>This is a security release. Notable Changes ( CVE-2026-105481 ) http: ensure agent data guard works without I/O (James M Snell) ( CVE-2026-105482 ) dns: validate resolve inputs for null bytes (James M Snell) ( CVE-2026-106069 ) tls: reject non-canonical IP addresses (Matteo Collina) ( CVE-2026-106073 ) permission: check permission model in realpathSync (RafaelGSS) ( CVE-2026-106074 ) crypto: reset random caches across snapshots (Filip Skokan) ( CVE-2026-111497 ) src: expose BROTLI_DECODER_ERROR_ — Node.js リリース / score: 90 (Node.js LTSの重要セキュリティアップデート)</description>
 </item>
 <item>
-<title>[90] Next.js Security Update for Upstream Vulnerabilities</title>
-<link>https://nextjs.org/blog/nextjs-security-update-october-14-2026</link>
-<guid isPermaLink="true">https://nextjs.org/blog/nextjs-security-update-october-14-2026</guid>
-<pubDate>Wed, 14 Oct 2026 18:00:00 +0000</pubDate>
-<category>Next.js Blog</category>
-<description>The October 14, 2026 out-of-band security update for Next.js is now available — Next.js Blog / score: 90 (Next.jsの重要セキュリティアップデート)</description>
-</item>
-<item>
 <title>[88] OpenAI、「GPT-6.1 Terra」を発表 ～性能とコストのバランス型、API料金は先代の半額／画面を理解してアプリを操作、文章もより自然に</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2151338.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2151338.html</guid>
@@ -215,12 +199,20 @@
 <description>米OpenAIは10月26日（現地時間）、新しいAIモデル「GPT-6.1 Terra」を発表した。7月に発表された「GPT-5.6 Terra」以来のアップデートで、「Terra」シリーズとしては初の「GPT-6.x」モデルとなる。 — 窓の杜 / score: 88 (OpenAIの新モデルGPT-6.1 Terra発表)</description>
 </item>
 <item>
-<title>[85] 2026-10-28 Node.js v26.13.0 Lithium (LTS) Release</title>
+<title>[85] Gemini 4 Carbon: our next frontier model</title>
+<link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/</link>
+<guid isPermaLink="true">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/</guid>
+<pubDate>Wed, 28 Oct 2026 17:00:00 +0000</pubDate>
+<category>Gemini (Google Blog)</category>
+<description>Gemini 4 Carbon is our strongest model with state-of-the-art cybersecurity and long horizon capabilities. — Gemini (Google Blog) / score: 85 (セキュリティと長期推論に優れたGemini 4 Carbon発表)</description>
+</item>
+<item>
+<title>[85] 2026-10-28, Version 26.13.0 'Lithium' (LTS), @richardlau</title>
 <link>https://github.com/nodejs/node/releases/tag/v26.13.0</link>
 <guid isPermaLink="true">https://github.com/nodejs/node/releases/tag/v26.13.0</guid>
-<pubDate>Wed, 28 Oct 2026 12:55:22 +0000</pubDate>
+<pubDate>Wed, 28 Oct 2026 16:57:41 +0000</pubDate>
 <category>Node.js リリース</category>
-<description>Git-EVTag-v0-SHA512: 17beab2827436ba152dc2d50d2682a3e399879640e973cb640be7bb0978bd4bdb8c40c67519750cd358d6848aef4c789881e04fbdead41eaad3f15c7765022ea — Node.js リリース / score: 85 (Node.jsのLTSメジャーバージョンリリース)</description>
+<description>Notable Changes This release marks the transition of Node.js 26.x into Long Term Support (LTS) with the codename 'Lithium'. It will continue to receive updates through to the end of April 2029. Other than updating metadata, such as the process.release object, to reflect that the release is LTS, no further changes from Node.js 26.12.1 are included. If you are updating from an earlier Long Term Support release (e.g. Node.js 24 or 22 or earlier) please note that since Node.js 25 the official binari — Node.js リリース / score: 85 (Node.jsのLTSメジャーバージョンリリース)</description>
 </item>
 <item>
 <title>[85] アメリカ中間選挙を前に、政府の献金公開サイトがハッキングされる</title>
@@ -471,14 +463,6 @@
 <description>Anthropicが開発しているJavaScriptランタイム「Bun」は、10月10日付けで新バージョン「Bun v1.4.3」がリリースされました。 Bun v1.4.3の最大の特徴として示されたのが、Go言語で実装されたTypeScr... — Publickey / score: 85 (Bunの高速型チェッカー追加という大きなアップデート)</description>
 </item>
 <item>
-<title>[80] JAL | Amadeus社が提供する旅客サービスシステムへの不正アクセスについて</title>
-<link>https://www.jal.co.jp/ja-jp/news/general/2026/other/261028.html</link>
-<guid isPermaLink="true">https://www.jal.co.jp/ja-jp/news/general/2026/other/261028.html</guid>
-<pubDate>Wed, 28 Oct 2026 10:13:43 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>2026年10月23日、日本航空・日本トランスオーシャン航空の予約・発券 / 搭乗手続きなどを統合的に処理する旅客サービスシステムの委託先であるAmadeus IT Group, S.A.社（以下「アマデウス社」）から、同社システムへの不正アクセスによって、お客さまの予約情報の一部が外部から参照された形跡があった旨の報告を受けま... — はてなブックマーク テクノロジー / score: 80 (大規模な旅客サービスシステムにおける不正アクセス事案)</description>
-</item>
-<item>
 <title>[80] 1,000ファイルの言語移行をAIとASTトランスパイラで完遂した話：LLMの「評価の抜け道」とどう戦ったか</title>
 <link>https://qiita.com/dev-hasegawa/items/79f612c5a4e6c874eaa9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
 <guid isPermaLink="true">https://qiita.com/dev-hasegawa/items/79f612c5a4e6c874eaa9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
@@ -551,14 +535,6 @@
 <description>OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace. — OpenAI News / score: 80 (OpenAIモデルのGoogle Cloud提供開始)</description>
 </item>
 <item>
-<title>[80] Google Cloud expands model choice and flexibility, bringing OpenAI models to customers</title>
-<link>https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-brings-openai-models-to-customers/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-brings-openai-models-to-customers/</guid>
-<pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>Google Cloud has always been defined by choice, enterprise-grade governance, and market-leading price-performance. Key to the foundation of openness and choice is giving customers flexibility to run agentic workloads across their choice of models and infrastructure to achieve the right balance of cost, capability, and performance. Today, we are expanding that foundation by launching OpenAI models in Google Cloud’s model garden. Google Cloud is now the only hyperscale cloud provider offering acce — Google Cloud Blog / score: 80 (Google CloudがOpenAIモデル提供へ拡大)</description>
-</item>
-<item>
 <title>[80] Patch the Planet: global response coordination as agents uncover critical vulnerabilities</title>
 <link>https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities</link>
 <guid isPermaLink="true">https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities</guid>
@@ -613,6 +589,14 @@
 <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
 <category>Hugging Face Blog</category>
 <description> — Hugging Face Blog / score: 80 (MetaによるオープンなマルチモーダルAIモデル発表)</description>
+</item>
+<item>
+<title>[75] Gemini 4 Carbon: Our next frontier model</title>
+<link>https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/</link>
+<guid isPermaLink="true">https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/</guid>
+<pubDate>Wed, 28 Oct 2026 17:00:58 +0000</pubDate>
+<category>Google DeepMind</category>
+<description> — Google DeepMind / score: 75 (Google DeepMindの次世代基盤モデル発表)</description>
 </item>
 <item>
 <title>[75] AppleとOpenAIのモデルに基づいて構築されたAIアシスタントがKeynote・Pages・NumbersだけでなくLogic Proにも追加、Keynote・Pages・NumbersはMCPをサポート</title>
@@ -805,6 +789,22 @@
 <pubDate>Sat, 24 Oct 2026 07:18:29 +0000</pubDate>
 <category>Latent Space</category>
 <description>2 months ago we covered Z.ai CEO Prof Jie Tang’s prediction that we’d get a Fable-class open weights model by year end . 2 weeks ago Meta achieved a Fable-class model in closed source , but, with 2.5 months left to go, we finally got it - a 2.8T open weights model beating Fable 5.1, not just Fable 5, at that: View post on X ↗ with even better efficiency: View post on X ↗ You can tell Kimi is proud of their latest model by how fancy their landing page is: As usual we don’t get much research detai — Latent Space / score: 75 (オープンAIモデルの性能向上とリリース)</description>
+</item>
+<item>
+<title>[75] Securing our frontier model training environment</title>
+<link>https://openai.com/index/securing-our-frontier-model-training-environment</link>
+<guid isPermaLink="true">https://openai.com/index/securing-our-frontier-model-training-environment</guid>
+<pubDate>Fri, 23 Oct 2026 10:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming. — OpenAI News / score: 75 (AI最先端モデルのセキュリティ強化に関する解説。)</description>
+</item>
+<item>
+<title>[75] 「1Password for Agents」が発表、AIエージェントにパスワードを見せずにサインインさせられる／個人・ファミリー向けは追加料金なし、「Claude Duet」「ChatGPT Work」などと連携</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2150555.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2150555.html</guid>
+<pubDate>Fri, 23 Oct 2026 00:10:35 +0000</pubDate>
+<category>窓の杜</category>
+<description>加AgileBitsは10月22日（現地時間）、「1Password for Agents」プラットフォームを発表した。AIエージェントがWebサービスへのログインを必要としたときに、ユーザーの認証情報を直接AIに渡さず、安全にログイン処理を実行できる仕組みだ。 — 窓の杜 / score: 75 (AIエージェント向けパスワード管理プラットフォームの発表)</description>
 </item>
 </channel>
 </rss>
