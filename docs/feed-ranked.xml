@@ -4,8 +4,16 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 28 Oct 2026 02:09:41 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 04:08:37 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>[95] Google Chrome、52件の脆弱性を修正　早めの更新を</title>
+<link>https://ascii.jp/elem/000/004/446/4446301/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/446/4446301/?rss</guid>
+<pubDate>Wed, 28 Oct 2026 02:45:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>グーグルは10月27日、デスクトップおよびAndroid版「Google Chrome」のアップデートを公開。深刻度「重大」を含む52件の脆弱性を修正した。 — ASCII.jp / score: 95 (Chromeの多数の脆弱性修正であり緊急対応が必要)</description>
+</item>
 <item>
 <title>[95] 【PHP2Shell】PHP公式の発表『本日のセキュリティリリースと、セキュリティ対策について』</title>
 <link>https://qiita.com/rana_kualu/items/f5a44b09241bdb21907e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
@@ -79,28 +87,20 @@
 <description>悪意のある攻撃者がLinuxの仮想マシンを不正に操作することで、仮想マシンの境界を抜けてホスト側のLinux OSで不正なコードを実行できる可能性がある脆弱性「PwnEscape」（CVE-2026-99999）の情報が公開されています。 ... — Publickey / score: 95 (Linuxカーネルの深刻な脆弱性の報告)</description>
 </item>
 <item>
+<title>[90] PHPを更新したばかりなのに…今度はGoogle製のプログラムに重大な欠陥が</title>
+<link>https://www.gizmodo.jp/article/2610-google-brotli-vulnerability-php/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/2610-google-brotli-vulnerability-php/</guid>
+<pubDate>Wed, 28 Oct 2026 02:50:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>Googleのデータ圧縮技術Brotliに深刻な脆弱性が発見されました。PHPに続き確認が必要な対象と影響範囲、開発者向けの詳細な対策をわかりやすく解説します。 — ギズモード・ジャパン / score: 90 (データ圧縮技術Brotliの重大な脆弱性報告)</description>
+</item>
+<item>
 <title>[90] Upcoming Next.js November Security Release</title>
 <link>https://nextjs.org/blog/upcoming-nextjs-security-release-november-2026</link>
 <guid isPermaLink="true">https://nextjs.org/blog/upcoming-nextjs-security-release-november-2026</guid>
 <pubDate>Tue, 27 Oct 2026 18:00:00 +0000</pubDate>
 <category>Next.js Blog</category>
 <description>Next.js is preparing a scheduled November security release for November 3, 2026. — Next.js Blog / score: 90 (Next.jsの重要なセキュリティリリース予告)</description>
-</item>
-<item>
-<title>[90] ハッカーが古いiOSを狙ってます。SNS見るだけでも感染、iPhoneの中身が盗まれる</title>
-<link>https://www.gizmodo.jp/article/2610-ios-security-update-darksword/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2610-ios-security-update-darksword/</guid>
-<pubDate>Tue, 27 Oct 2026 10:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>iPhoneの更新、しばらくしていない人はご確認を。iPhoneをなくしたわけでも、誰かに貸したわけでもない。それなのに、家族旅行の写真やネット通販のパスワードが、知らない誰かに持ち出されるかもしれません。しかも、SNSの広告をクリックしな… — ギズモード・ジャパン / score: 90 (iOSの脆弱性とサイバー攻撃の注意喚起のため)</description>
-</item>
-<item>
-<title>[90] Tailscale SSH: Investigation and remediation update</title>
-<link>https://tailscale.com/ssh-investigation-update</link>
-<guid isPermaLink="true">https://tailscale.com/ssh-investigation-update</guid>
-<pubDate>Tue, 27 Oct 2026 09:11:38 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Tailscale SSH: Investigation and remediation update Published October 26th 2026. We're investigating security vulnerabilities affecting Tailscale SSH and wanted to share an update on what we've found, what we're doing about it, and what customers should know. Our engineering and security teams ha... — はてなブックマーク テクノロジー / score: 90 (Tailscale SSHのセキュリティ脆弱性情報)</description>
 </item>
 <item>
 <title>[90] Apple製品で一斉セキュリティアップデート、「macOS Golden Gate 27.2」は260件超／ゼロデイ脆弱性の修正が「iOS 27」以降へアップデートできない古いデバイスにも</title>
@@ -223,14 +223,6 @@
 <description>米OpenAIは10月26日（現地時間）、新しいAIモデル「GPT-6.1 Terra」を発表した。7月に発表された「GPT-5.6 Terra」以来のアップデートで、「Terra」シリーズとしては初の「GPT-6.x」モデルとなる。 — 窓の杜 / score: 88 (OpenAIの新モデルGPT-6.1 Terra発表)</description>
 </item>
 <item>
-<title>[85] ヤクルト公式サイトに不正アクセス　顧客情報への影響は調査中</title>
-<link>https://ascii.jp/elem/000/004/446/4446256/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/446/4446256/?rss</guid>
-<pubDate>Wed, 28 Oct 2026 01:50:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>ヤクルト本社は10月26日19時付の案内で、同社公式サイトへの不正アクセスを確認したと公表した。顧客に関する情報への影響は調査中としている。 — ASCII.jp / score: 85 (公式サイトの不正アクセス事案)</description>
-</item>
-<item>
 <title>[85] IDCFクラウドのランサム被害、OSSの脆弱性悪用される　サーバ内データ流出なし　再発防止へSBOM化</title>
 <link>https://www.itmedia.co.jp/news/article/2610/28/2000002655/</link>
 <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/28/2000002655/</guid>
@@ -247,20 +239,20 @@
 <description>Mozillaは10月27日（米国時間）、デスクトップ向け「Firefox」の最新版v159.0をリリースチャネルで公開した。「Firefox 158」に続くメジャーバージョンアップとなる。 — 窓の杜 / score: 85 (Firefox 159のリリースと多数の脆弱性修正)</description>
 </item>
 <item>
+<title>[85] AIによって脆弱性発見が爆増したことが一目で分かるグラフ「CVE Tracker」</title>
+<link>https://gigazine.net/news/20261028-cve-tracker/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261028-cve-tracker/</guid>
+<pubDate>Tue, 27 Oct 2026 23:17:54 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>AIの性能向上によってソフトウェアの脆弱性が続々と発見されるようになりました。@0x_Osprey氏が公開しているウェブアプリ「CVE Tracker」では2026年に入ってから脆弱性の報告件数が急増していることが読み取れます。 CVE Tracker https://cve.0xosprey.com/ CVE Trackerは共通脆弱性識別子(CVE)が割り当てられた脆弱性... — はてなブックマーク テクノロジー / score: 85 (AI普及に伴う脆弱性急増を示すデータと統計)</description>
+</item>
+<item>
 <title>[85] メタのAI「Muse」、共有コンテンツが第三者からも閲覧可能だった</title>
 <link>https://www.gizmodo.jp/article/meta-muse-ghost-share-security-issue/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/meta-muse-ghost-share-security-issue/</guid>
 <pubDate>Tue, 27 Oct 2026 23:00:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>MetaのAI「Muse」の共有コンテンツが第三者から閲覧可能だった問題について解説します。URL生成ロジックの脆弱性と、AI利用におけるセキュリティリスクを分かりやすくお届けします。 — ギズモード・ジャパン / score: 85 (メタのAIサービスにおける重大なセキュリティ脆弱性の問題)</description>
-</item>
-<item>
-<title>[85] AIによって脆弱性発見が爆増したことが一目で分かるグラフ「CVE Tracker」</title>
-<link>https://gigazine.net/news/20261028-cve-tracker/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261028-cve-tracker/</guid>
-<pubDate>Tue, 27 Oct 2026 22:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>AIの性能向上によってソフトウェアの脆弱性が続々と発見されるようになりました。@0x_Osprey氏が公開しているウェブアプリ「CVE Tracker」では2026年に入ってから脆弱性の報告件数が急増していることが読み取れます。 続きを読む... — GIGAZINE / score: 85 (AI普及に伴う脆弱性急増を示すデータと統計)</description>
 </item>
 <item>
 <title>[85] 公開された情報と氏名など同一の人物、ＧＭＯクラウドサービスの利用「一度もない」</title>
@@ -309,14 +301,6 @@
 <pubDate>Tue, 27 Oct 2026 07:42:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>現地時間の2026年10月26日、OpenAIが数学・コンピューターサイエンス・物理学における調和解析・計算複雑性理論・場の量子論に関する新たな発見を発表しました。 続きを読む... — GIGAZINE / score: 85 (OpenAIによる数学・物理等の学術的新発見)</description>
-</item>
-<item>
-<title>[85] GMO攻撃者「個人情報毎日公開」</title>
-<link>https://news.yahoo.co.jp/pickup/6600302?source=rss</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6600302?source=rss</guid>
-<pubDate>Tue, 27 Oct 2026 05:38:34 +0000</pubDate>
-<category>Yahoo!ニュース IT</category>
-<description> — Yahoo!ニュース IT / score: 85 (GMO攻撃者による個人情報公開の報道)</description>
 </item>
 <item>
 <title>[85] OpenAI、視覚的理解とコンピューター操作を強化した「GPT-6.1 Terra」の提供を開始 ―APIコストはGPT-5.6 Terraの半額に</title>
@@ -503,20 +487,20 @@
 <description>Anthropicが開発しているJavaScriptランタイム「Bun」は、10月10日付けで新バージョン「Bun v1.4.3」がリリースされました。 Bun v1.4.3の最大の特徴として示されたのが、Go言語で実装されたTypeScr... — Publickey / score: 85 (Bunの高速型チェッカー追加という大きなアップデート)</description>
 </item>
 <item>
+<title>[80] Genie 4: A new generation of world simulation</title>
+<link>https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/</link>
+<guid isPermaLink="true">https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/</guid>
+<pubDate>Tue, 27 Oct 2026 23:15:30 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Genie 4: A new generation of world simulation Design advanced algorithms for math and applications in computing — はてなブックマーク テクノロジー / score: 80 (Google DeepMindの次世代ワールドシミュレーション発表)</description>
+</item>
+<item>
 <title>[80] GLM-5.3 Workers AIモデルにおけるリクエスト間のKVキャッシュ漏洩とSGLangによる対策をCloudflareが解説</title>
 <link>https://gigazine.net/news/20261028-kv-cache-exposure-remediation/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261028-kv-cache-exposure-remediation/</guid>
 <pubDate>Tue, 27 Oct 2026 21:00:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>2026年9月8日、Cloudflare Workers AIでホストされているGLM-5.3モデル(@cf/zai-org/glm-5.3)においていわゆる「テナント分離問題」が発生していることがセキュリティ研究者のガディ・エヴロン氏により報告されました。Cloudflareはこのインシデントを修正し、モデルは9月9日に復旧されました。インシデント情報開示の一環としてCloudflareによる解説が10月26日に公開されています。 続きを読む... — GIGAZINE / score: 80 (CloudflareでのKVキャッシュ漏洩インシデント)</description>
-</item>
-<item>
-<title>[80] Genie 4: A new generation of world simulation</title>
-<link>https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/</link>
-<guid isPermaLink="true">https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/</guid>
-<pubDate>Tue, 27 Oct 2026 16:01:38 +0000</pubDate>
-<category>Google DeepMind</category>
-<description>Genie 4: our new world model unlocking unprecedented realism in real-time simulation. — Google DeepMind / score: 80 (Google DeepMindの次世代ワールドシミュレーション発表)</description>
 </item>
 <item>
 <title>[80] 【速報】M6チップ搭載の新型MacBook Proが登場。タスクは高速に、お値段は据え置きで</title>
@@ -541,14 +525,6 @@
 <pubDate>Tue, 27 Oct 2026 14:20:44 +0000</pubDate>
 <category>iPhone Mania</category>
 <description>Appleは現地時間10月27日、M6チップを搭載した新型iMacを発表しました。M4搭載モデルからCPUやGPUの性能を高め、AI処理も高速化しています。日本価格は249,800円（税込）から。10月29日（木）午前2 […] — iPhone Mania / score: 80 (AppleのM6搭載iMac発表の速報)</description>
-</item>
-<item>
-<title>[80] GMO、不正アクセス実行犯の手がかりに懸賞金　1億5000万円規模</title>
-<link>https://www.itmedia.co.jp/news/article/2610/27/2000002642/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/27/2000002642/</guid>
-<pubDate>Tue, 27 Oct 2026 11:23:36 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>GMOインターネットグループは10月27日、傘下のGMOインターネットが提供するFX自動売買用VPS「お名前.com デスクトップクラウド」への不正アクセスを巡り、事態を解明する情報に総額100万ドル（約1億5000万円）を支払う懸賞金制度を始めると発表した。28日正午から専用窓口で情報提供を受け付ける。 国内外の法人・個人か... — はてなブックマーク テクノロジー / score: 80 (GMOが不正アクセスの犯人逮捕に向け巨大懸賞金)</description>
 </item>
 <item>
 <title>[80] OpenAI GPT-6.1 Terra is now generally available on Amazon Bedrock</title>
@@ -663,6 +639,30 @@
 <description>Anthropicは2026年10月13日、社内のソース管理基盤Scionへの移行を扱う技術記事を公開した。 — gihyo.jp / score: 80 (Anthropicがモノレポ基盤をGitから独自移行した事例)</description>
 </item>
 <item>
+<title>[75] 【速報】GMOに対するハッカー集団サイトが停止　米プロバイダーによる措置か　警視庁が不正アクセス禁止法違反などの疑いで捜査（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース</title>
+<link>https://news.yahoo.co.jp/articles/bfddd406ecea0646848b98c48564cef76efc849d</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/articles/bfddd406ecea0646848b98c48564cef76efc849d</guid>
+<pubDate>Wed, 28 Oct 2026 02:50:30 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>【速報】GMOに対するハッカー集団サイトが停止 米プロバイダーによる措置か 警視庁が不正アクセス禁止法違反などの疑いで捜査（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース — はてなブックマーク テクノロジー / score: 75 (GMOハッカー集団サイト停止のセキュリティ事件)</description>
+</item>
+<item>
+<title>[75] Googleが仮想世界をリアルタイムで生成するAI「Genie 4」を発表、人物の動きや会話もリアルに生成可能</title>
+<link>https://gigazine.net/news/20261028-google-genie-4/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261028-google-genie-4/</guid>
+<pubDate>Wed, 28 Oct 2026 02:50:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>Google DeepMindが2026年10月27日に世界シミュレーションAI「Genie 4」を発表しました。Genie 4はユーザーの操作に応じて仮想世界をリアルタイムで生成するAIで、従来モデルと比べて映像や人物の動きがリアルになったほか、環境音や会話の生成にも対応しています。 続きを読む... — GIGAZINE / score: 75 (Googleのリアルタイム世界生成AIGenie 4)</description>
+</item>
+<item>
+<title>[75] GMOを攻撃した集団のサイト停止</title>
+<link>https://news.yahoo.co.jp/pickup/6600397?source=rss</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6600397?source=rss</guid>
+<pubDate>Wed, 28 Oct 2026 02:34:07 +0000</pubDate>
+<category>Yahoo!ニュース IT</category>
+<description> — Yahoo!ニュース IT / score: 75 (GMOを攻撃したハッカー集団のサイト停止)</description>
+</item>
+<item>
 <title>[75] GitHub Copilotで「GPT-6.1 Terra」の一般提供を開始</title>
 <link>https://codezine.jp/article/detail/30150</link>
 <guid isPermaLink="true">https://codezine.jp/article/detail/30150</guid>
@@ -677,14 +677,6 @@
 <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 75 (OpenAIの新フラッグシップモデル発表)</description>
-</item>
-<item>
-<title>[75] 懸念が高まる「サプライチェーン攻撃」、被害企業はその後どう動いた？　1000社アンケートから浮かび上がった実像、そして「SCS評価制度」との向き合い方【Security Days Fall 2026】</title>
-<link>https://internet.watch.impress.co.jp/docs/event/2151587.html</link>
-<guid isPermaLink="true">https://internet.watch.impress.co.jp/docs/event/2151587.html</guid>
-<pubDate>Tue, 27 Oct 2026 21:39:49 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>懸念が高まる「サプライチェーン攻撃」、被害企業はその後どう動いた？ 1000社アンケートから浮かび上がった実像、そして「SCS評価制度」との向き合い方【Security Days Fall 2026】 — はてなブックマーク テクノロジー / score: 75 (サプライチェーン攻撃の実態とセキュリティ評価制度に関する実用的な解説)</description>
 </item>
 <item>
 <title>[75] Oracle CloudがGoogle TPU導入を発表、2027年に提供を開始。Oracle AI World 2026</title>
@@ -805,6 +797,14 @@
 <pubDate>Mon, 26 Oct 2026 05:19:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>中国Moonshot AIは2026年10月23日、マルチモーダルMoEモデルの最新バージョン「Kimi K3.1 Pro」および高レスポンスモデル「Kimi K3.1 Pro Highspeed」を発表した。 — gihyo.jp / score: 75 (Moonshot AIによる高性能オープンウェイトMoEモデル発表)</description>
+</item>
+<item>
+<title>[75] 確認漏れはない？先週の注目記事はセキュリティ関連ばかり、「PHP」「Apache Tomcat」「Node.js」「eMudhra」ほか ～窓の杜アクセスランキング［2026/10/19～2026/10/25]【記事アクセスランキング】</title>
+<link>https://forest.watch.impress.co.jp/docs/serial/accessranking/2151034.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/serial/accessranking/2151034.html</guid>
+<pubDate>Mon, 26 Oct 2026 02:45:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>前週に閲覧数の多かった記事を、上位10位までレポートします。 — 窓の杜 / score: 75 (主要なセキュリティ脆弱性情報のまとめ)</description>
 </item>
 </channel>
 </rss>
