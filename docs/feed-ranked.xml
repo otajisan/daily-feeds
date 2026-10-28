@@ -4,16 +4,8 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 28 Oct 2026 04:08:37 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 06:11:51 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
-<item>
-<title>[95] Google Chrome、52件の脆弱性を修正　早めの更新を</title>
-<link>https://ascii.jp/elem/000/004/446/4446301/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/446/4446301/?rss</guid>
-<pubDate>Wed, 28 Oct 2026 02:45:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>グーグルは10月27日、デスクトップおよびAndroid版「Google Chrome」のアップデートを公開。深刻度「重大」を含む52件の脆弱性を修正した。 — ASCII.jp / score: 95 (Chromeの多数の脆弱性修正であり緊急対応が必要)</description>
-</item>
 <item>
 <title>[95] 【PHP2Shell】PHP公式の発表『本日のセキュリティリリースと、セキュリティ対策について』</title>
 <link>https://qiita.com/rana_kualu/items/f5a44b09241bdb21907e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
@@ -85,6 +77,14 @@
 <pubDate>Sat, 17 Oct 2026 15:27:18 +0000</pubDate>
 <category>Publickey</category>
 <description>悪意のある攻撃者がLinuxの仮想マシンを不正に操作することで、仮想マシンの境界を抜けてホスト側のLinux OSで不正なコードを実行できる可能性がある脆弱性「PwnEscape」（CVE-2026-99999）の情報が公開されています。 ... — Publickey / score: 95 (Linuxカーネルの深刻な脆弱性の報告)</description>
+</item>
+<item>
+<title>[90] 「Google Chrome 156」にセキュリティ更新、「Critical」4件を含む52件の脆弱性を修正／Windows/Mac向けはv156.0.8078.73/.74、Linux向けはv156.0.8078.73</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2151733.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2151733.html</guid>
+<pubDate>Wed, 28 Oct 2026 04:05:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Googleは10月27日（現地時間）、デスクトップ向け「Google Chrome」の安定（Stable）チャネルをアップデートした。今後数日から数週間をかけて、Windows/Mac環境にはv156.0.8078.73/.74、Linux環境にはv156.0.8078.73が展開される。 — 窓の杜 / score: 90 (Google Chromeの重大なセキュリティ脆弱性修正)</description>
 </item>
 <item>
 <title>[90] PHPを更新したばかりなのに…今度はGoogle製のプログラムに重大な欠陥が</title>
@@ -223,6 +223,22 @@
 <description>米OpenAIは10月26日（現地時間）、新しいAIモデル「GPT-6.1 Terra」を発表した。7月に発表された「GPT-5.6 Terra」以来のアップデートで、「Terra」シリーズとしては初の「GPT-6.x」モデルとなる。 — 窓の杜 / score: 88 (OpenAIの新モデルGPT-6.1 Terra発表)</description>
 </item>
 <item>
+<title>[85] 無料のメーラー「Thunderbird」v159.0がリリース ～173件の脆弱性を修正／アカウントの新規作成時にMicrosoft Graph APIを使ったカレンダーを自動検出可能に</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2151870.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2151870.html</guid>
+<pubDate>Wed, 28 Oct 2026 05:36:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>オープンソースのメールソフト「Thunderbird」の最新版、v159.0が10月27日にリリースされた。 — 窓の杜 / score: 85 (Thunderbirdの多数の脆弱性修正リリース)</description>
+</item>
+<item>
+<title>[85] ChatGPTが娘に発作治療薬の服用をやめるよう指示したとして両親がOpenAIを提訴</title>
+<link>https://gigazine.net/news/20261028-parents-sue-openai-alleging-gpt-4o/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261028-parents-sue-openai-alleging-gpt-4o/</guid>
+<pubDate>Wed, 28 Oct 2026 04:36:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>OpenAIが2024年5月に発表したAIモデルのGPT-4oが、てんかんを患っていたボーウェン・ワンさんに抗てんかん薬の服用を減らすようアドバイスした結果、ボーウェンさんが突然死したとして同氏の両親がOpenAIを提訴しました。 続きを読む... — GIGAZINE / score: 85 (ChatGPTの医療アドバイスに起因する訴訟問題)</description>
+</item>
+<item>
 <title>[85] IDCFクラウドのランサム被害、OSSの脆弱性悪用される　サーバ内データ流出なし　再発防止へSBOM化</title>
 <link>https://www.itmedia.co.jp/news/article/2610/28/2000002655/</link>
 <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/28/2000002655/</guid>
@@ -253,14 +269,6 @@
 <pubDate>Tue, 27 Oct 2026 23:00:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>MetaのAI「Muse」の共有コンテンツが第三者から閲覧可能だった問題について解説します。URL生成ロジックの脆弱性と、AI利用におけるセキュリティリスクを分かりやすくお届けします。 — ギズモード・ジャパン / score: 85 (メタのAIサービスにおける重大なセキュリティ脆弱性の問題)</description>
-</item>
-<item>
-<title>[85] 公開された情報と氏名など同一の人物、ＧＭＯクラウドサービスの利用「一度もない」</title>
-<link>https://www.yomiuri.co.jp/national/20261027-GYT1T00367/2/</link>
-<guid isPermaLink="true">https://www.yomiuri.co.jp/national/20261027-GYT1T00367/2/</guid>
-<pubDate>Tue, 27 Oct 2026 14:28:11 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>【読売新聞】 ＧＭＯインターネットのＦＸ（外国為替証拠金）取引用クラウドサービスが不正アクセスを受けた問題で、攻撃者は２７日、同社が期限の同日正午までに交渉に応じなかったとして、日本語サイトに個人情報とみられる情報１件を公開した。同 — はてなブックマーク テクノロジー / score: 85 (クラウドサービスの不正アクセスと個人情報漏洩)</description>
 </item>
 <item>
 <title>[85] Amazon Corretto October 2026 Patch Updates</title>
@@ -487,12 +495,12 @@
 <description>Anthropicが開発しているJavaScriptランタイム「Bun」は、10月10日付けで新バージョン「Bun v1.4.3」がリリースされました。 Bun v1.4.3の最大の特徴として示されたのが、Go言語で実装されたTypeScr... — Publickey / score: 85 (Bunの高速型チェッカー追加という大きなアップデート)</description>
 </item>
 <item>
-<title>[80] Genie 4: A new generation of world simulation</title>
-<link>https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/</link>
-<guid isPermaLink="true">https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/</guid>
-<pubDate>Tue, 27 Oct 2026 23:15:30 +0000</pubDate>
+<title>[80] GMO不正アクセスの犯人サイト、ドメイン停止を確認</title>
+<link>https://www.itmedia.co.jp/news/article/2610/28/2000002659/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/28/2000002659/</guid>
+<pubDate>Wed, 28 Oct 2026 03:45:11 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>Genie 4: A new generation of world simulation Design advanced algorithms for math and applications in computing — はてなブックマーク テクノロジー / score: 80 (Google DeepMindの次世代ワールドシミュレーション発表)</description>
+<description>GMOインターネットは10月28日、同社サービスへの不正アクセスをめぐり、犯行声明などを掲載していたWebサイトのドメインが停止されたことを確認したと発表した。 同サイトには、GMOへの脅迫や、サービスの顧客情報と主張する情報などが掲載されていた。同社は、関係事業者などと連携して対応を進め、日本時間28日午前4時... — はてなブックマーク テクノロジー / score: 80 (GMO不正アクセスの犯人サイトドメイン停止)</description>
 </item>
 <item>
 <title>[80] GLM-5.3 Workers AIモデルにおけるリクエスト間のKVキャッシュ漏洩とSGLangによる対策をCloudflareが解説</title>
@@ -503,12 +511,12 @@
 <description>2026年9月8日、Cloudflare Workers AIでホストされているGLM-5.3モデル(@cf/zai-org/glm-5.3)においていわゆる「テナント分離問題」が発生していることがセキュリティ研究者のガディ・エヴロン氏により報告されました。Cloudflareはこのインシデントを修正し、モデルは9月9日に復旧されました。インシデント情報開示の一環としてCloudflareによる解説が10月26日に公開されています。 続きを読む... — GIGAZINE / score: 80 (CloudflareでのKVキャッシュ漏洩インシデント)</description>
 </item>
 <item>
-<title>[80] 【速報】M6チップ搭載の新型MacBook Proが登場。タスクは高速に、お値段は据え置きで</title>
-<link>https://www.gizmodo.jp/article/m6-macbook-pro-release/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/m6-macbook-pro-release/</guid>
-<pubDate>Tue, 27 Oct 2026 14:45:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>M6チップを搭載した新型14インチMacBook Proが発表されました。CPUやGPUの性能が向上しつつ価格は据え置き、発売日や前モデルとの違いを解説します。 — ギズモード・ジャパン / score: 80 (新型M6 MacBook Proの速報と変更点解説)</description>
+<title>[80] Genie 4: A new generation of world simulation</title>
+<link>https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/</link>
+<guid isPermaLink="true">https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/</guid>
+<pubDate>Tue, 27 Oct 2026 16:01:38 +0000</pubDate>
+<category>Google DeepMind</category>
+<description>Genie 4: our new world model unlocking unprecedented realism in real-time simulation. — Google DeepMind / score: 80 (Google DeepMindの次世代ワールドシミュレーション発表)</description>
 </item>
 <item>
 <title>[80] 【速報】M6搭載14インチMacBook Pro発表〜11月6日発売</title>
@@ -639,6 +647,22 @@
 <description>Anthropicは2026年10月13日、社内のソース管理基盤Scionへの移行を扱う技術記事を公開した。 — gihyo.jp / score: 80 (Anthropicがモノレポ基盤をGitから独自移行した事例)</description>
 </item>
 <item>
+<title>[75] AppleとOpenAIのモデルに基づいて構築されたAIアシスタントがKeynote・Pages・NumbersだけでなくLogic Proにも追加、Keynote・Pages・NumbersはMCPをサポート</title>
+<link>https://gigazine.net/news/20261028-apple-creator-studio-ai-features-openai-models/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261028-apple-creator-studio-ai-features-openai-models/</guid>
+<pubDate>Wed, 28 Oct 2026 04:42:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>AppleがiPhone・iPad・Macで使えるクリエイター向けツールコレクション「Apple Creator Studio」のアップデートを発表しました。Apple Creator Studio向けアップデートは2026年11月にApp Storeで提供開始となります。 続きを読む... — GIGAZINE / score: 75 (Apple Creator StudioとMCPサポート)</description>
+</item>
+<item>
+<title>[75] 素のClaude CodeとTDDで初見のお題に挑む ― TDDBC仙台11thのセッションログを公開します - t-wadaのブログ</title>
+<link>https://t-wada.hatenablog.jp/entry/red-green-tdd-with-claude-code-202610</link>
+<guid isPermaLink="true">https://t-wada.hatenablog.jp/entry/red-green-tdd-with-claude-code-202610</guid>
+<pubDate>Wed, 28 Oct 2026 02:54:33 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>このブログエントリは、初見のコーディング課題に対して私が素の Claude Code（Skill やプラグインは不使用）とテスト駆動開発で取り組んだ約4時間20分のセッションログを、ほぼ編集せずに整形して記事化したものです。実際に入力したプロンプトだけでなく、AIとの協業において人間がいつ何をどう判断したかが残っていま... — はてなブックマーク テクノロジー / score: 75 (t-wada氏によるClaude CodeとTDDの実践記録)</description>
+</item>
+<item>
 <title>[75] 【速報】GMOに対するハッカー集団サイトが停止　米プロバイダーによる措置か　警視庁が不正アクセス禁止法違反などの疑いで捜査（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース</title>
 <link>https://news.yahoo.co.jp/articles/bfddd406ecea0646848b98c48564cef76efc849d</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/articles/bfddd406ecea0646848b98c48564cef76efc849d</guid>
@@ -751,22 +775,6 @@
 <description>AnthropicがクラスA普通株式の新規株式公開(IPO)に関して、アメリカ証券取引委員会(SEC)に「フォームS-1」による登録届出書を提出したことを発表しました。 続きを読む... — GIGAZINE / score: 75 (AnthropicのIPO申請と財務情報の公開)</description>
 </item>
 <item>
-<title>[75] Microsoftが全従業員の4分の1に相当する6万人を対象とする自主退職制度を発表、AI投資による財政圧迫が理由か</title>
-<link>https://gigazine.net/news/20261027-microsoft-offers-buy-out-quarter-of-workforce/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261027-microsoft-offers-buy-out-quarter-of-workforce/</guid>
-<pubDate>Tue, 27 Oct 2026 05:23:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>MicrosoftはAIによる効率化推進の一環として、全従業員の4分の1に相当する約6万人の従業員向けに、自主退職制度を発表しました。 続きを読む... — GIGAZINE / score: 75 (Microsoftの巨人に迫る大規模な人員削減の動き)</description>
-</item>
-<item>
-<title>[75] Amazon Bedrock、すべてのClaudeモデルで構造化出力をサポート</title>
-<link>https://codezine.jp/article/detail/30140</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/30140</guid>
-<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 75 (Amazon BedrockでのClaude構造化出力サポート)</description>
-</item>
-<item>
 <title>[75] How Check Point accelerates vulnerability research with Daybreak</title>
 <link>https://openai.com/index/check-point-daybreak</link>
 <guid isPermaLink="true">https://openai.com/index/check-point-daybreak</guid>
@@ -797,14 +805,6 @@
 <pubDate>Mon, 26 Oct 2026 05:19:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>中国Moonshot AIは2026年10月23日、マルチモーダルMoEモデルの最新バージョン「Kimi K3.1 Pro」および高レスポンスモデル「Kimi K3.1 Pro Highspeed」を発表した。 — gihyo.jp / score: 75 (Moonshot AIによる高性能オープンウェイトMoEモデル発表)</description>
-</item>
-<item>
-<title>[75] 確認漏れはない？先週の注目記事はセキュリティ関連ばかり、「PHP」「Apache Tomcat」「Node.js」「eMudhra」ほか ～窓の杜アクセスランキング［2026/10/19～2026/10/25]【記事アクセスランキング】</title>
-<link>https://forest.watch.impress.co.jp/docs/serial/accessranking/2151034.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/serial/accessranking/2151034.html</guid>
-<pubDate>Mon, 26 Oct 2026 02:45:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>前週に閲覧数の多かった記事を、上位10位までレポートします。 — 窓の杜 / score: 75 (主要なセキュリティ脆弱性情報のまとめ)</description>
 </item>
 </channel>
 </rss>
