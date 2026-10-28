@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 28 Oct 2026 14:07:23 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 16:08:38 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 【PHP2Shell】PHP公式の発表『本日のセキュリティリリースと、セキュリティ対策について』</title>
@@ -85,6 +85,14 @@
 <pubDate>Wed, 28 Oct 2026 10:22:00 +0000</pubDate>
 <category>iPhone Mania</category>
 <description>Appleは現地時間10月26日、iPhone XS、XS Max、XR向けにiOS18.7.11を配信しました。実際の攻撃で悪用された可能性がある脆弱性を修正するアップデートです。この脆弱性は、iPhone11以降では […] — iPhone Mania / score: 90 (iOSの深刻な脆弱性を修正する緊急アップデート)</description>
+</item>
+<item>
+<title>[90] JAL、9万件超の予約情報に不正アクセス　一部はパスポート番号も - 日本経済新聞</title>
+<link>https://www.nikkei.com/article/DGXZQOUC288G50Y6A021C2000000/</link>
+<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUC288G50Y6A021C2000000/</guid>
+<pubDate>Wed, 28 Oct 2026 10:19:20 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>日本航空（JAL）は28日、氏名や搭乗日などの予約情報への不正アクセスが発生したと発表した。延べ約9万2000件が対象で、うち約2000件はパスポート番号や連絡先にもアクセスされていた。情報の不正利用は確認されていないという。スペイン・アマデウス社のクラウド型旅客管理システムへの不正アクセスが確認された。対象... — はてなブックマーク テクノロジー / score: 90 (JALの9万件超の予約情報不正アクセス事案)</description>
 </item>
 <item>
 <title>[90] PHP財団の常勤職員「たった1人」の衝撃--ウェブの安全を支える人手と資金が足りない</title>
@@ -607,28 +615,12 @@
 <description> — Hugging Face Blog / score: 80 (MetaによるオープンなマルチモーダルAIモデル発表)</description>
 </item>
 <item>
-<title>[80] 2026-10-14, Version 24.22.0 'Krypton' (LTS), @richardlau prepared by @aduh95</title>
-<link>https://github.com/nodejs/node/releases/tag/v24.22.0</link>
-<guid isPermaLink="true">https://github.com/nodejs/node/releases/tag/v24.22.0</guid>
-<pubDate>Wed, 14 Oct 2026 15:12:46 +0000</pubDate>
-<category>Node.js リリース</category>
-<description>Notable Changes [ ddbf974b47 ] - (SEMVER-MINOR) crypto : add crypto.parsePKCS12() (Brian Muenzenmeyer) #65627 [ c162c68ff0 ] - (SEMVER-MINOR) crypto : add a generic MAC API (Filip Skokan) #65553 [ a4ab3d84d7 ] - (SEMVER-MINOR) crypto : discover ciphers from OpenSSL providers (Filip Skokan) #65484 [ c2f1e829ea ] - (SEMVER-MINOR) crypto : discover hashes from OpenSSL providers (Filip Skokan) #65484 [ 51aad5a80d ] - (SEMVER-MINOR) crypto : enable SIV and GCM-SIV modes in Cipher/Decipher APIs (Filip — Node.js リリース / score: 80 (Node.js LTS版のアップデートと新API追加)</description>
-</item>
-<item>
 <title>[75] AppleとOpenAIのモデルに基づいて構築されたAIアシスタントがKeynote・Pages・NumbersだけでなくLogic Proにも追加、Keynote・Pages・NumbersはMCPをサポート</title>
 <link>https://gigazine.net/news/20261028-apple-creator-studio-ai-features-openai-models/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261028-apple-creator-studio-ai-features-openai-models/</guid>
 <pubDate>Wed, 28 Oct 2026 04:42:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>AppleがiPhone・iPad・Macで使えるクリエイター向けツールコレクション「Apple Creator Studio」のアップデートを発表しました。Apple Creator Studio向けアップデートは2026年11月にApp Storeで提供開始となります。 続きを読む... — GIGAZINE / score: 75 (Apple Creator StudioとMCPサポート)</description>
-</item>
-<item>
-<title>[75] 素のClaude CodeとTDDで初見のお題に挑む ― TDDBC仙台11thのセッションログを公開します - t-wadaのブログ</title>
-<link>https://t-wada.hatenablog.jp/entry/red-green-tdd-with-claude-code-202610</link>
-<guid isPermaLink="true">https://t-wada.hatenablog.jp/entry/red-green-tdd-with-claude-code-202610</guid>
-<pubDate>Wed, 28 Oct 2026 02:54:33 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>このブログエントリは、初見のコーディング課題に対して私が素の Claude Code（Skill やプラグインは不使用）とテスト駆動開発で取り組んだ約4時間20分のセッションログを、ほぼ編集せずに整形して記事化したものです。実際に入力したプロンプトだけでなく、AIとの協業において人間がいつ何をどう判断したかが残っていま... — はてなブックマーク テクノロジー / score: 75 (t-wada氏によるClaude CodeとTDDの実践記録)</description>
 </item>
 <item>
 <title>[75] Googleが仮想世界をリアルタイムで生成するAI「Genie 4」を発表、人物の動きや会話もリアルに生成可能</title>
@@ -719,14 +711,6 @@
 <description>はじめに コーディングエージェントを CI やバッチジョブに組み込むと、リポジトリを取得するクライアントの数が人間の開発者数とは別の桁で増えていきます。そのとき最初に音を上げるのはどこなのでしょうか。 対象読者は、リードエンジニア・プラットフォーム担当、そして AI エー... — Qiita 人気記事 / score: 75 (AIエージェント時代のソース管理設計)</description>
 </item>
 <item>
-<title>[75] Zero Trust for AI agents</title>
-<link>https://claude.com/resources/articles/zero-trust-for-ai-agents</link>
-<guid isPermaLink="true">https://claude.com/resources/articles/zero-trust-for-ai-agents</guid>
-<pubDate>Tue, 27 Oct 2026 09:51:27 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>We share a security framework for deploying autonomous AI agents in the enterprise, covering the new threat landscape, a tiered Zero Trust architecture, and defensive operations built for AI-accelerated attacks. Frontier AI models are compressing the timeline between vulnerability and exploit fro... — はてなブックマーク テクノロジー / score: 75 (AIエージェントの企業導入における新しいゼロトラストセキュリティ枠組み)</description>
-</item>
-<item>
 <title>[75] AGENTS.md乗っ取り対策のhook、テスト27件全通過でも攻撃役AIに破られた（Claude Code・Codex・Cursor）</title>
 <link>https://zenn.dev/shoma_endo/articles/agent-downloads-hijack-guard</link>
 <guid isPermaLink="true">https://zenn.dev/shoma_endo/articles/agent-downloads-hijack-guard</guid>
@@ -805,6 +789,22 @@
 <pubDate>Sun, 25 Oct 2026 16:57:52 +0000</pubDate>
 <category>CPython リリース</category>
 <description>Python 3.15.2 — CPython リリース / score: 75 (Python 3.15.2のリリース情報)</description>
+</item>
+<item>
+<title>[75] 2026年の国内情報漏えい71件を侵入経路で分類してみた</title>
+<link>https://zenn.dev/blackleg/articles/e9ed8b038bcf48</link>
+<guid isPermaLink="true">https://zenn.dev/blackleg/articles/e9ed8b038bcf48</guid>
+<pubDate>Sat, 24 Oct 2026 15:21:05 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>今年は情報漏えいのニュースが本当に多いです。KDDIのメールシステムで1,200万人、タイムズカーで660万件、10月に入ってからも委託先経由で大和証券やシチズンの顧客情報が漏れ、10月23日には佐川急便が最大約5,323万件という過去最多の数字を出しました。毎週のように何か出てきます。 ただ、ニュースを個別に読んでいても「また漏れたのか」で終わってしまうので、2026年に公表された事案をまとめて並べて、どこから入られたのかで分けてみました。対象は71事案です。各社のプレスリリースや調査報告をできるだけ一次資料で読み、原因の書き方をそのまま拾っています。 この記事でわかること 2026... — Zenn トレンド / score: 75 (国内の情報漏えい動向の網羅的な分類と分析)</description>
+</item>
+<item>
+<title>[75] [AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed</title>
+<link>https://latent.space/p/ainews-kimi-31/</link>
+<guid isPermaLink="true">https://latent.space/p/ainews-kimi-31/</guid>
+<pubDate>Sat, 24 Oct 2026 07:18:29 +0000</pubDate>
+<category>Latent Space</category>
+<description>2 months ago we covered Z.ai CEO Prof Jie Tang’s prediction that we’d get a Fable-class open weights model by year end . 2 weeks ago Meta achieved a Fable-class model in closed source , but, with 2.5 months left to go, we finally got it - a 2.8T open weights model beating Fable 5.1, not just Fable 5, at that: View post on X ↗ with even better efficiency: View post on X ↗ You can tell Kimi is proud of their latest model by how fancy their landing page is: As usual we don’t get much research detai — Latent Space / score: 75 (オープンAIモデルの性能向上とリリース)</description>
 </item>
 </channel>
 </rss>
