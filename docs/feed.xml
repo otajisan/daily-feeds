@@ -4,13 +4,13 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 28 Oct 2026 18:09:11 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 20:07:53 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Google、Elephant-Goldfish Modelプラグインを公開 ——AIが設計文書の作成と検証を分担</title>
 <link>https://gihyo.jp/article/2026/10/elephant-goldfish-model-plugin?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/10/elephant-goldfish-model-plugin?utm_source=feed</guid>
-<pubDate>Wed, 28 Oct 2026 18:08:37 +0000</pubDate>
+<pubDate>Wed, 28 Oct 2026 20:07:23 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Googleは2026年10月22日、AIを使ったソフトウェア開発で、実装前の設計とレビューを支援するElephant-Goldfish Model（EGM）プラグインのオープンソース公開を発表した。 — gihyo.jp / score: 70 (GoogleによるAI設計レビュープラグインの公開)</description>
 </item>
@@ -18,9 +18,49 @@
 <title>Ship less JavaScript in Next.js with your AI agent</title>
 <link>https://nextjs.org/blog/ship-less-javascript-with-ai</link>
 <guid isPermaLink="true">https://nextjs.org/blog/ship-less-javascript-with-ai</guid>
-<pubDate>Wed, 28 Oct 2026 18:08:37 +0000</pubDate>
+<pubDate>Wed, 28 Oct 2026 20:00:00 +0000</pubDate>
 <category>Next.js Blog</category>
 <description>Optimize your Next.js app's bundles with the next-bundle-optimizer agent skill, or explore them yourself with new Bundle Analyzer tools. — Next.js Blog / score: 60 (AIエージェントを活用したNext.jsのバンドル最適化)</description>
+</item>
+<item>
+<title>Why Agents Love Supabase</title>
+<link>https://latent.space/p/supabase/</link>
+<guid isPermaLink="true">https://latent.space/p/supabase/</guid>
+<pubDate>Wed, 28 Oct 2026 19:48:05 +0000</pubDate>
+<category>Latent Space</category>
+<description>I first met Paul Copplestone and Ant Wilson in Singapore, shortly after they finished YC as the hottest startup of YC S20 . Six years later, we finally got them on the podcast! This is their first podcast together, after taking an open-source, fully remote company from zero to a $10 billion valuation. The title is a question I wanted to understand for myself: why do agents love Supabase? There are plenty of managed databases. Postgres hosting is competitive. Being familiar to a model is useful d — Latent Space / score: 50 (SupabaseとAIエージェントに関するインタビューポッドキャスト)</description>
+</item>
+<item>
+<title>AWS Lambda supports Seekable OCI (SOCI) lazy loading for Lambda Managed Instances</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-seekable-oci-soci/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-seekable-oci-soci/</guid>
+<pubDate>Wed, 28 Oct 2026 18:44:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS Lambda now supports Seekable OCI (SOCI) for lazy loading Event Functions packaged as Open Container Initiative (OCI) images running on Lambda Managed Instances . With SOCI support, Lambda fetches only the files needed at each stage of the execution environment startup rather than downloading the entire image upfront, reducing container startup times by up to 70%. Customers building compute-intensive applications such as data processing pipelines, high-throughput API backends, and batch compu — AWS What's New / score: 65 (AWS Lambdaの新機能で効率的なコンテナ起動が可能になる)</description>
+</item>
+<item>
+<title>MacBook Proが有機ELタッチパネルで最強になった。価格は49万9800円から</title>
+<link>https://www.gizmodo.jp/article/7f4969ca-d5fb-410e-aa06-4e414fb1d99c/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/7f4969ca-d5fb-410e-aa06-4e414fb1d99c/</guid>
+<pubDate>Wed, 28 Oct 2026 18:40:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>来たよ、本命が！秋の新製品ラッシュ、その3日目。大トリを担当するのは…やはりコイツでした。これまでのMacの歴史を書き換える新星、OLEDタッチパネルを搭載した「MacBook PROLED XDRディスプレイ」が満を持して登場。表現力の高… — ギズモード・ジャパン / score: 50 (有機ELタッチパネル搭載MacBook Proのハードウェア発表)</description>
+</item>
+<item>
+<title>2026-10-28, Version 24.22.2 'Krypton' (LTS), @aduh95</title>
+<link>https://github.com/nodejs/node/releases/tag/v24.22.2</link>
+<guid isPermaLink="true">https://github.com/nodejs/node/releases/tag/v24.22.2</guid>
+<pubDate>Wed, 28 Oct 2026 18:39:09 +0000</pubDate>
+<category>Node.js リリース</category>
+<description>Commits [ f8bdcd54ed ] - deps : V8: backport 786c1c2d88d4 (Eliau Elkouby) #66249 [ 3b93fd6b2b ] - deps : V8: backport 1a0089053443 (Jakob Linke) #65764 [ 5aaf62faaa ] - deps : V8: backport c9c0abfa51f0 (Jakob Linke) #65764 [ 3b8eb1a920 ] - deps : V8: backport ebd15783b7ba (Marja Hölttä) #65764 [ ab70b5d681 ] - deps : V8: cherry-pick 853553fe755c (Victor Gomes) #66241 [ 17ec999f24 ] - stream : keep async context of parked writes (Matteo Collina) #66907 — Node.js リリース / score: 60 (Node.jsのLTSバージョンのアップデートであり開発者に影響する)</description>
+</item>
+<item>
+<title>タッチできるMacBook Pro、実は約200g軽くなってます</title>
+<link>https://www.gizmodo.jp/article/e5ca22ab-fe32-4234-ac3d-1046170aec39/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/e5ca22ab-fe32-4234-ac3d-1046170aec39/</guid>
+<pubDate>Wed, 28 Oct 2026 18:15:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>軽いのがいいに決まってる。ついに発表された、画面をタッチ操作できる新MacBook Pro。背面の光るAppleロゴも復活し、有機ELの「PROLED XDR」やDynamic Islandなど、大きな刷新となりました。でも、実はもうひとつ… — ギズモード・ジャパン / score: 40 (新型MacBook Proの重量やデザインに関する仕様詳細)</description>
 </item>
 <item>
 <title>Apple、M5 Ultraチップ搭載｢Mac Studio｣の512GB RAMオプションを提供開始 ｰ ベースモデルからのアップグレード価格は279万円</title>
@@ -52,7 +92,7 @@
 <guid isPermaLink="true">https://iphone-mania.jp/mac-608072/</guid>
 <pubDate>Wed, 28 Oct 2026 17:55:26 +0000</pubDate>
 <category>iPhone Mania</category>
-<description>Appleが2026年10月29日、革新的な有機EL（OLED）ディスプレイである「PROLED XDR（タンデムOLED）」を搭載し、タッチ操作に対応した新型MacBook Proを発表しました。 ディスプレイサイズは […] — iPhone Mania / score: 65 (Appleの新型MacBook Proの発表で影響が大きい。)</description>
+<description>Appleが日本時間2026年10月29日、革新的な有機EL（OLED）ディスプレイである「PROLED XDR（タンデムOLED）」を搭載し、Macとして初めてタッチ操作に対応した新型MacBook Proを発表しまし […] — iPhone Mania / score: 65 (Appleの新型MacBook Proの発表で影響が大きい。)</description>
 </item>
 <item>
 <title>｢PROLED XDRディスプレイ搭載MacBook Pro｣では光るAppleロゴが10年ぶりに復活</title>
@@ -61,6 +101,14 @@
 <pubDate>Wed, 28 Oct 2026 17:39:04 +0000</pubDate>
 <category>気になる、記になる…</category>
 <description>本日、AppleがOLEDタッチスクリーンを搭載した新型「MacBook Pro」こと「PROLED XDRディスプレイ搭載MacBook Pro」を発表しましたが、「PROLED XDRディスプレイ搭載MacBook […] — 気になる、記になる… / score: 40 (新型MacBook ProにおけるAppleロゴ復活の噂)</description>
+</item>
+<item>
+<title>Amazon EKS Auto Mode now supports Kubernetes Gateway API</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-eks-auto-mode-kubernetes-gateway-api/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-eks-auto-mode-kubernetes-gateway-api/</guid>
+<pubDate>Wed, 28 Oct 2026 17:33:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon EKS Auto Mode now supports the Kubernetes Gateway API, giving customers a standard, portable way to define how traffic reaches their applications. Customers can configure application load balancing using Gateway and HTTPRoute resources, and EKS Auto Mode provisions and manages the underlying AWS infrastructure automatically. With this launch, EKS Auto Mode customers can adopt the next-generation Kubernetes traffic management standard without installing or configuring a separate controller — AWS What's New / score: 60 (EKS Auto ModeのKubernetes Gateway API対応)</description>
 </item>
 <item>
 <title>【速報】タッチできるMacBook Pro発表。光るAppleロゴも復活</title>
@@ -663,6 +711,14 @@
 <description>こちらへどうぞ。カウンター席にご案内します。手招きするのは、ツインテールに小悪魔風の水着をまとった女性。その隣には、彼女の倍はありそうな長身の女性が控えている。足元を小川が流れるエントランスを抜けると、洞窟の奥に、妖しく光るバーカウンターが… — ギズモード・ジャパン / score: 15 (VRエンタメの紹介であり技術的重要性は低い)</description>
 </item>
 <item>
+<title>JAL | Amadeus社が提供する旅客サービスシステムへの不正アクセスについて</title>
+<link>https://www.jal.co.jp/ja-jp/news/general/2026/other/261028.html</link>
+<guid isPermaLink="true">https://www.jal.co.jp/ja-jp/news/general/2026/other/261028.html</guid>
+<pubDate>Wed, 28 Oct 2026 10:13:43 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>2026年10月23日、日本航空・日本トランスオーシャン航空の予約・発券 / 搭乗手続きなどを統合的に処理する旅客サービスシステムの委託先であるAmadeus IT Group, S.A.社（以下「アマデウス社」）から、同社システムへの不正アクセスによって、お客さまの予約情報の一部が外部から参照された形跡があった旨の報告を受けま... — はてなブックマーク テクノロジー / score: 80 (大規模な旅客サービスシステムにおける不正アクセス事案)</description>
+</item>
+<item>
 <title>FUZE特集『AIと野蛮』スタート。欲望 × テックの現在地</title>
 <link>https://www.gizmodo.jp/article/d88d0f9a-70cd-421f-88ce-6dc9da47010a/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/d88d0f9a-70cd-421f-88ce-6dc9da47010a/</guid>
@@ -749,62 +805,6 @@
 <pubDate>Wed, 28 Oct 2026 10:00:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>地震などの災害やアウトドアでの遭難など、万が一の事態に備えて携帯しておきたいホイッスル（笛）。助けを呼ぶために大声を出し続けるのは体力を激しく消耗しますが、ホイッスルがあれば、少ない息でも周囲に自分の居場所を知らせることができます。とはいえ… — ギズモード・ジャパン / score: 15 (アウトドア用ホイッスルの紹介)</description>
-</item>
-<item>
-<title>映画『ファーザー マザー シスター ブラザー』が11月に公開　ジム・ジャームッシュ監督自身が音楽とギターを担当したサントラ盤も発売</title>
-<link>https://guitarmagazine.jp/news/2026-1028-father-mother-sister-brother/</link>
-<guid isPermaLink="true">https://guitarmagazine.jp/news/2026-1028-father-mother-sister-brother/</guid>
-<pubDate>Wed, 28 Oct 2026 10:00:00 +0000</pubDate>
-<category>ギター・マガジンWEB</category>
-<description>ジム・ジャームッシュが監督と音楽を手がけた映画『ファーザー マザー シスター ブラザー』の全国ロードショーが、2026年11月20日（金）よりヒューマントラストシネマ有楽町ほかにて開始される。 — ギター・マガジンWEB / score: 10 (映画の公開とサウンドトラック発売のニュースのため)</description>
-</item>
-<item>
-<title>機械学習の基本から深層学習の専門書まで！ 実践AI技術書が読み放題【読み放題！TechLib新着情報】</title>
-<link>https://forest.watch.impress.co.jp/docs/bookwatch/techlibnew/2149439.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/bookwatch/techlibnew/2149439.html</guid>
-<pubDate>Wed, 28 Oct 2026 09:59:49 +0000</pubDate>
-<category>窓の杜</category>
-<description>ITエンジニア向け技術書籍の読み放題サービス「TechLib」（月額3,080円）では、プログラミング言語、サーバー・クラウドサービス、コンテナ開発、情報処理資格、AI・機械学習、ネットワーク・セキュリティなど様々なジャンルの書籍を取り揃え、続々と新しい書籍が追加されている。本コーナーでは、そんな「TechLib」に新規で追加された書籍を紹介する。 — 窓の杜 / score: 30 (技術書読み放題サービスの新規追加情報)</description>
-</item>
-<item>
-<title>最大30日間の履歴を閲覧できる無料システムモニター「HardwareVisualizer」v1.11.2　ほか【ダイジェストニュース】</title>
-<link>https://forest.watch.impress.co.jp/docs/digest/2152017.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/digest/2152017.html</guid>
-<pubDate>Wed, 28 Oct 2026 09:58:19 +0000</pubDate>
-<category>窓の杜</category>
-<description> — 窓の杜 / score: 35 (Windows用システムモニターの紹介)</description>
-</item>
-<item>
-<title>RailsTokyo#6でwkhtmltopdfの次どうするか問題2026という発表をした - おもしろwebサービス開発日記</title>
-<link>https://blog.willnet.in/entry/2026/10/28/180758</link>
-<guid isPermaLink="true">https://blog.willnet.in/entry/2026/10/28/180758</guid>
-<pubDate>Wed, 28 Oct 2026 09:50:05 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>9月17日に開催されたRailsTokyo#6 にて、wkhtmltopdfの次どうするか問題2026というタイトルで発表をしました。スライドはこちら。 発表までの経緯 3年ほど前に仕事の中でwkhtmltopdf周りに関わることがあって、どうにかしたいな〜というところからブログ記事 を書いたりしていました。そこから3年経った現在でもwkhtmlto... — はてなブックマーク テクノロジー / score: 45 (PDF生成ライブラリの移行に関する技術発表)</description>
-</item>
-<item>
-<title>2026年10月28日のヘッドラインニュース</title>
-<link>https://gigazine.net/news/20261028-headline/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261028-headline/</guid>
-<pubDate>Wed, 28 Oct 2026 09:50:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>サンリオのマイメロディ＆クロミとアイスクリームチェーン・サーティワンのコラボ商品「MY MELODY KUROMI ICE CREAM MODE」が2026年11月1日からスタートします。スプーンチャーム付きのスペシャルダブルカップや、特別なグッズ付きアイスクリームセットなどが登場します。 続きを読む... — GIGAZINE / score: 10 (一般的なヘッドラインニュースのダイジェスト)</description>
-</item>
-<item>
-<title>AIがコードを書いてくれる時代、我々は何を確かめるのか</title>
-<link>https://speakerdeck.com/yosuke_furukawa/ai-ga-kodo-o-kai-te-kureru-jidai-wareware-ha-nani-o-tashikameru-no-ka</link>
-<guid isPermaLink="true">https://speakerdeck.com/yosuke_furukawa/ai-ga-kodo-o-kai-te-kureru-jidai-wareware-ha-nani-o-tashikameru-no-ka</guid>
-<pubDate>Wed, 28 Oct 2026 09:48:15 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>AIがコードを書いてくれる時代、我々は何を確かめるのか Qiita Conference 2026 Autumn — はてなブックマーク テクノロジー / score: 40 (AI時代の開発における検証手法の考察イベント)</description>
-</item>
-<item>
-<title>PHP財団の常勤職員「たった1人」の衝撃--ウェブの安全を支える人手と資金が足りない</title>
-<link>https://japan.cnet.com/article/35254103/</link>
-<guid isPermaLink="true">https://japan.cnet.com/article/35254103/</guid>
-<pubDate>Wed, 28 Oct 2026 09:39:58 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>この1週間、世界中のソフトウェアエンジニアが、ウェブサイトを動かすソフトウェアの更新に追われている。米OpenAIのAIモデルを使ったチームが、ウェブを支える重要なソフトウェア「PHP」に2件の重大な脆弱性を発見したためだ。米Cloudflareによると、影響はPHP 5.4以降を使うウェブサーバーに及ぶ。修正を適用しないま... — はてなブックマーク テクノロジー / score: 90 (PHPの重大な脆弱性と資金難に関する注目ニュース)</description>
 </item>
 </channel>
 </rss>

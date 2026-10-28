@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 28 Oct 2026 18:09:11 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 20:07:53 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 【PHP2Shell】PHP公式の発表『本日のセキュリティリリースと、セキュリティ対策について』</title>
@@ -239,6 +239,14 @@
 <description>Googleの新AI「Genie 4」の最新情報。映像や音声、会話までリアルタイムに生成する仮想世界の仕組みと進化を分かりやすく解説します。 — ギズモード・ジャパン / score: 85 (Googleの新AIモデルに関する技術ニュース)</description>
 </item>
 <item>
+<title>[85] 「禁止」するだけでは防げない？　パナソニックグループで約33万人分の個人情報が外部生成AIに</title>
+<link>https://www.itmedia.co.jp/enterprise/articles/2610/28/news060.html</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/enterprise/articles/2610/28/news060.html</guid>
+<pubDate>Wed, 28 Oct 2026 07:18:50 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>パナソニック オペレーショナルエクセレンスは2026年10月23日、子会社のパナソニック デジタルと進める人事情報システム導入プロジェクトで、プロジェクトメンバーが従業員や元従業員とその家族の個人情報を含むデータを、同社が利用を禁止している外部の生成AIサービスにアップロードしたと発表した。同社はパナソニッ... — はてなブックマーク テクノロジー / score: 85 (生成AI利用時の重大な情報漏洩事例であり注意喚起として重要)</description>
+</item>
+<item>
 <title>[85] リモートデスクトップソフト「TeamViewer」に9件の脆弱性、v15.83で修正／深刻度はいずれも「High」、リモートコード実行や権限昇格のおそれ</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2151868.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2151868.html</guid>
@@ -461,6 +469,14 @@
 <pubDate>Thu, 15 Oct 2026 15:21:12 +0000</pubDate>
 <category>Publickey</category>
 <description>Anthropicが開発しているJavaScriptランタイム「Bun」は、10月10日付けで新バージョン「Bun v1.4.3」がリリースされました。 Bun v1.4.3の最大の特徴として示されたのが、Go言語で実装されたTypeScr... — Publickey / score: 85 (Bunの高速型チェッカー追加という大きなアップデート)</description>
+</item>
+<item>
+<title>[80] JAL | Amadeus社が提供する旅客サービスシステムへの不正アクセスについて</title>
+<link>https://www.jal.co.jp/ja-jp/news/general/2026/other/261028.html</link>
+<guid isPermaLink="true">https://www.jal.co.jp/ja-jp/news/general/2026/other/261028.html</guid>
+<pubDate>Wed, 28 Oct 2026 10:13:43 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>2026年10月23日、日本航空・日本トランスオーシャン航空の予約・発券 / 搭乗手続きなどを統合的に処理する旅客サービスシステムの委託先であるAmadeus IT Group, S.A.社（以下「アマデウス社」）から、同社システムへの不正アクセスによって、お客さまの予約情報の一部が外部から参照された形跡があった旨の報告を受けま... — はてなブックマーク テクノロジー / score: 80 (大規模な旅客サービスシステムにおける不正アクセス事案)</description>
 </item>
 <item>
 <title>[80] 1,000ファイルの言語移行をAIとASTトランスパイラで完遂した話：LLMの「評価の抜け道」とどう戦ったか</title>
@@ -789,22 +805,6 @@
 <pubDate>Sat, 24 Oct 2026 07:18:29 +0000</pubDate>
 <category>Latent Space</category>
 <description>2 months ago we covered Z.ai CEO Prof Jie Tang’s prediction that we’d get a Fable-class open weights model by year end . 2 weeks ago Meta achieved a Fable-class model in closed source , but, with 2.5 months left to go, we finally got it - a 2.8T open weights model beating Fable 5.1, not just Fable 5, at that: View post on X ↗ with even better efficiency: View post on X ↗ You can tell Kimi is proud of their latest model by how fancy their landing page is: As usual we don’t get much research detai — Latent Space / score: 75 (オープンAIモデルの性能向上とリリース)</description>
-</item>
-<item>
-<title>[75] Securing our frontier model training environment</title>
-<link>https://openai.com/index/securing-our-frontier-model-training-environment</link>
-<guid isPermaLink="true">https://openai.com/index/securing-our-frontier-model-training-environment</guid>
-<pubDate>Fri, 23 Oct 2026 10:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming. — OpenAI News / score: 75 (AI最先端モデルのセキュリティ強化に関する解説。)</description>
-</item>
-<item>
-<title>[75] 「1Password for Agents」が発表、AIエージェントにパスワードを見せずにサインインさせられる／個人・ファミリー向けは追加料金なし、「Claude Duet」「ChatGPT Work」などと連携</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2150555.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2150555.html</guid>
-<pubDate>Fri, 23 Oct 2026 00:10:35 +0000</pubDate>
-<category>窓の杜</category>
-<description>加AgileBitsは10月22日（現地時間）、「1Password for Agents」プラットフォームを発表した。AIエージェントがWebサービスへのログインを必要としたときに、ユーザーの認証情報を直接AIに渡さず、安全にログイン処理を実行できる仕組みだ。 — 窓の杜 / score: 75 (AIエージェント向けパスワード管理プラットフォームの発表)</description>
 </item>
 </channel>
 </rss>
