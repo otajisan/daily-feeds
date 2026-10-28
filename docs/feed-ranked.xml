@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 28 Oct 2026 06:11:51 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 08:09:56 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 【PHP2Shell】PHP公式の発表『本日のセキュリティリリースと、セキュリティ対策について』</title>
@@ -95,6 +95,14 @@
 <description>Googleのデータ圧縮技術Brotliに深刻な脆弱性が発見されました。PHPに続き確認が必要な対象と影響範囲、開発者向けの詳細な対策をわかりやすく解説します。 — ギズモード・ジャパン / score: 90 (データ圧縮技術Brotliの重大な脆弱性報告)</description>
 </item>
 <item>
+<title>[90] Discovering and exploiting vulnerabilities in critical, real-world software with Claude</title>
+<link>https://www.anthropic.com/research/discovering-vulnerabilities-with-claude</link>
+<guid isPermaLink="true">https://www.anthropic.com/research/discovering-vulnerabilities-with-claude</guid>
+<pubDate>Tue, 27 Oct 2026 23:29:46 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Over the past few months, we’ve used an unreleased, internal research model to find critical vulnerabilities in some of the world’s most widely used software, such as browsers and operating systems. In this post, we share details of five attack chains, which led to remote code execution and other... — はてなブックマーク テクノロジー / score: 90 (AIモデルを用いた脆弱性発見の実例)</description>
+</item>
+<item>
 <title>[90] Upcoming Next.js November Security Release</title>
 <link>https://nextjs.org/blog/upcoming-nextjs-security-release-november-2026</link>
 <guid isPermaLink="true">https://nextjs.org/blog/upcoming-nextjs-security-release-november-2026</guid>
@@ -117,22 +125,6 @@
 <pubDate>Tue, 27 Oct 2026 06:21:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Oracleは10月24日（現地時間、以下同）、定例外のセキュリティアラート「CVE-2026-114820」を公開した。インドの認証局「eMudhra」の中間証明書の秘密鍵が漏洩した問題に関連し、影響を受けるルートCA証明書を「Java」のキーストアから削除するアップデートを提供するものだ。21日に続くセキュリティアップデートとなる。 — 窓の杜 / score: 90 (Oracle Javaの緊急セキュリティアラート)</description>
-</item>
-<item>
-<title>[90] Apple、100件以上の脆弱性の修正を含んだ｢iOS 26.7.2｣と｢iPadOS 26.7.2｣をリリース</title>
-<link>https://taisy0.com/2026/10/27/229507.html</link>
-<guid isPermaLink="true">https://taisy0.com/2026/10/27/229507.html</guid>
-<pubDate>Tue, 27 Oct 2026 00:30:03 +0000</pubDate>
-<category>気になる、記になる…</category>
-<description>本日、Appleが、「iOS 26」および「iPadOS 26」向けの最新アップデート「iOS 26.7.2」と「iPadOS 26.7.2」を正式にリリースしました。 このアップデートには、iPhoneおよびiPad用 […] — 気になる、記になる… / score: 90 (100件以上の脆弱性を修正する重要OSアップデート)</description>
-</item>
-<item>
-<title>[90] Apple、｢iOS 18.7.11｣と｢iPadOS 18.7.11｣をリリース ｰ 複数の脆弱性を修正</title>
-<link>https://taisy0.com/2026/10/27/229504.html</link>
-<guid isPermaLink="true">https://taisy0.com/2026/10/27/229504.html</guid>
-<pubDate>Tue, 27 Oct 2026 00:18:55 +0000</pubDate>
-<category>気になる、記になる…</category>
-<description>本日、Appleが、「iOS 18」および「iPadOS 18」の最新バージョンである「iOS 18.7.11」と「iPadOS 18.7.11」をリリースしました。 両アップデートには、バグ修正とセキュリティアップデー […] — 気になる、記になる… / score: 90 (複数脆弱性の修正を含むiOSのセキュリティ更新)</description>
 </item>
 <item>
 <title>[90] 「Siri AI」が日本語に対応 ～Apple、「iOS 27.2」「iPadOS 27.2」を公開／163件の脆弱性修正も、できるだけ早いアップデートを推奨</title>
@@ -223,6 +215,30 @@
 <description>米OpenAIは10月26日（現地時間）、新しいAIモデル「GPT-6.1 Terra」を発表した。7月に発表された「GPT-5.6 Terra」以来のアップデートで、「Terra」シリーズとしては初の「GPT-6.x」モデルとなる。 — 窓の杜 / score: 88 (OpenAIの新モデルGPT-6.1 Terra発表)</description>
 </item>
 <item>
+<title>[85] 資さんうどん、従業員の退職理由などが外部から閲覧可能に　委託先の勤怠システムに設定不備</title>
+<link>https://www.itmedia.co.jp/news/article/2610/28/2000002667/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/28/2000002667/</guid>
+<pubDate>Wed, 28 Oct 2026 06:49:30 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>すかいらーくホールディングス傘下で、うどんチェーン「資さんうどん」を運営する資さん（北九州市）は10月27日、従業員と退職者の個人情報が外部から閲覧可能になっていた可能性があると発表した。原因はサーバの管理・運用を委託するカホエンタープライズ（福岡市）側の設定不備。対象は2021年10月～26年10月に在籍し... — はてなブックマーク テクノロジー / score: 85 (委託先の設定不備による個人情報漏洩)</description>
+</item>
+<item>
+<title>[85] Android版「Sleipnir」に脆弱性　偽のアドレスバーを表示されるおそれ</title>
+<link>https://ascii.jp/elem/000/004/446/4446513/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/446/4446513/?rss</guid>
+<pubDate>Wed, 28 Oct 2026 06:45:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>JVNは10月27日、フェンリルのウェブブラウザー「Sleipnir Mobile for Android」に、偽のアドレスバーなどを表示される脆弱性があると公表した。 — ASCII.jp / score: 85 (Androidブラウザの脆弱性で重要度高)</description>
+</item>
+<item>
+<title>[85] リモートデスクトップソフト「TeamViewer」に9件の脆弱性、v15.83で修正／深刻度はいずれも「High」、リモートコード実行や権限昇格のおそれ</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2151868.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2151868.html</guid>
+<pubDate>Wed, 28 Oct 2026 06:38:19 +0000</pubDate>
+<category>窓の杜</category>
+<description>独TeamViewerは10月27日（現地時間）、リモートデスクトップソフト「TeamViewer」をv15.83.3へアップデートした。同日付けで2件のセキュリティ情報も公開しており、計9件の脆弱性がアナウンスされている。 — 窓の杜 / score: 85 (TeamViewerの複数脆弱性と修正版公開)</description>
+</item>
+<item>
 <title>[85] 無料のメーラー「Thunderbird」v159.0がリリース ～173件の脆弱性を修正／アカウントの新規作成時にMicrosoft Graph APIを使ったカレンダーを自動検出可能に</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2151870.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2151870.html</guid>
@@ -239,14 +255,6 @@
 <description>OpenAIが2024年5月に発表したAIモデルのGPT-4oが、てんかんを患っていたボーウェン・ワンさんに抗てんかん薬の服用を減らすようアドバイスした結果、ボーウェンさんが突然死したとして同氏の両親がOpenAIを提訴しました。 続きを読む... — GIGAZINE / score: 85 (ChatGPTの医療アドバイスに起因する訴訟問題)</description>
 </item>
 <item>
-<title>[85] IDCFクラウドのランサム被害、OSSの脆弱性悪用される　サーバ内データ流出なし　再発防止へSBOM化</title>
-<link>https://www.itmedia.co.jp/news/article/2610/28/2000002655/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/28/2000002655/</guid>
-<pubDate>Wed, 28 Oct 2026 01:30:28 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>IDCフロンティアは10月27日、クラウドサービス「IDCFクラウド」がランサムウェア攻撃を受けて顧客のサーバ内データが暗号化された件について、「IDCFクラウドポータル」の認証システムで使用していたオープンソースソフトウェア（OSS）の脆弱性が悪用され、侵入の起点となったと発表した。 「IDCFクラウドポータル」は、... — はてなブックマーク テクノロジー / score: 85 (IDCFクラウドの脆弱性悪用による被害情報)</description>
-</item>
-<item>
 <title>[85] Mozilla、「Firefox 159」を正式リリース ～167件の脆弱性を修正／「タブ検索」が追加、開いているタブを［Ctrl］＋［Shift］＋［A］キーで検索可能に</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2151722.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2151722.html</guid>
@@ -258,17 +266,9 @@
 <title>[85] AIによって脆弱性発見が爆増したことが一目で分かるグラフ「CVE Tracker」</title>
 <link>https://gigazine.net/news/20261028-cve-tracker/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261028-cve-tracker/</guid>
-<pubDate>Tue, 27 Oct 2026 23:17:54 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>AIの性能向上によってソフトウェアの脆弱性が続々と発見されるようになりました。@0x_Osprey氏が公開しているウェブアプリ「CVE Tracker」では2026年に入ってから脆弱性の報告件数が急増していることが読み取れます。 CVE Tracker https://cve.0xosprey.com/ CVE Trackerは共通脆弱性識別子(CVE)が割り当てられた脆弱性... — はてなブックマーク テクノロジー / score: 85 (AI普及に伴う脆弱性急増を示すデータと統計)</description>
-</item>
-<item>
-<title>[85] メタのAI「Muse」、共有コンテンツが第三者からも閲覧可能だった</title>
-<link>https://www.gizmodo.jp/article/meta-muse-ghost-share-security-issue/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/meta-muse-ghost-share-security-issue/</guid>
-<pubDate>Tue, 27 Oct 2026 23:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>MetaのAI「Muse」の共有コンテンツが第三者から閲覧可能だった問題について解説します。URL生成ロジックの脆弱性と、AI利用におけるセキュリティリスクを分かりやすくお届けします。 — ギズモード・ジャパン / score: 85 (メタのAIサービスにおける重大なセキュリティ脆弱性の問題)</description>
+<pubDate>Tue, 27 Oct 2026 22:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>AIの性能向上によってソフトウェアの脆弱性が続々と発見されるようになりました。@0x_Osprey氏が公開しているウェブアプリ「CVE Tracker」では2026年に入ってから脆弱性の報告件数が急増していることが読み取れます。 続きを読む... — GIGAZINE / score: 85 (AI普及に伴う脆弱性急増を示すデータと統計)</description>
 </item>
 <item>
 <title>[85] Amazon Corretto October 2026 Patch Updates</title>
@@ -277,14 +277,6 @@
 <pubDate>Tue, 27 Oct 2026 14:00:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>On October 26, 2026 Amazon announced a patch update for the following Amazon Corretto Long-Term Support (LTS) and Feature Release (FR) versions of OpenJDK. Corretto 27.0.1.0.11, 25.0.5.0.10, 21.0.13.0.11, 17.0.21.0.11, 11.0.33.0.10, and 8u512 are now available for download . Amazon Corretto is a no-cost, multi-platform, production-ready distribution of OpenJDK. Visit the Corretto home page to download Corretto 27, Corretto 25, Corretto 21, Corretto 17, Corretto 11, or Corretto 8. You can also ge — AWS What's New / score: 85 (Amazon Correttoの重要なセキュリティパッチとLTS更新)</description>
-</item>
-<item>
-<title>[85] 公開された情報と氏名など同一の人物、ＧＭＯクラウドサービスの利用「一度もない」</title>
-<link>https://www.yomiuri.co.jp/national/20261027-GYT1T00367/</link>
-<guid isPermaLink="true">https://www.yomiuri.co.jp/national/20261027-GYT1T00367/</guid>
-<pubDate>Tue, 27 Oct 2026 13:11:05 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>【読売新聞】 ＧＭＯインターネットのＦＸ（外国為替証拠金）取引用クラウドサービスが不正アクセスを受けた問題で、攻撃者は２７日、同社が期限の同日正午までに交渉に応じなかったとして、日本語サイトに個人情報とみられる情報１件を公開した。同 — はてなブックマーク テクノロジー / score: 85 (GMOの不正アクセスと個人情報流出の深刻なインシデント)</description>
 </item>
 <item>
 <title>[85] So-netなど258万件超が漏えい</title>
@@ -367,14 +359,6 @@
 <description>米Microsoftは10月25日（現地時間）、「.NET 8」「.NET 9」「.NET 10」向けに定例外（out-of-band：OOB）のセキュリティ更新をリリースした。次期バージョン「.NET 11」のリリース候補版（RC3）も公開されており、同社はできるだけ早いアップデートを推奨している。 — 窓の杜 / score: 85 (Microsoft製品の脆弱性に対する定例外アプデ)</description>
 </item>
 <item>
-<title>[85] Node.js の Brotli 脆弱性 CVE-2026-111497 を読む</title>
-<link>https://zenn.dev/chot/articles/79e6c94e27782d</link>
-<guid isPermaLink="true">https://zenn.dev/chot/articles/79e6c94e27782d</guid>
-<pubDate>Mon, 26 Oct 2026 02:29:36 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>! 注記: 本記事で扱うのは、修正コミットから読み取れる原因と修正内容である。「out-of-bounds write によってクラッシュ、メモリ内容の漏えい、RCE につながりうる」という影響の説明は Node.js の脆弱性告知によるもので、そこに至る経路は本記事では扱わない。 きっかけ 2026年10月21日に Node.js のセキュリティリリースが公開された。 複数の脆弱性が同時に修正されたが、 Node.js Brotli decoder out-of-bounds write permits remote code execution (CVE-2026-11149... — Zenn トレンド / score: 85 (Node.jsのBrotliに関する脆弱性解説)</description>
-</item>
-<item>
 <title>[85] Introducing GPT-6.1 Terra</title>
 <link>https://openai.com/index/introducing-gpt-6-1-terra</link>
 <guid isPermaLink="true">https://openai.com/index/introducing-gpt-6-1-terra</guid>
@@ -429,14 +413,6 @@
 <pubDate>Thu, 22 Oct 2026 20:33:10 +0000</pubDate>
 <category>AWS News Blog</category>
 <description>AWS Continuum for code vulnerabilities is a new security service that uses AI to automatically find, validate, and prioritize code vulnerabilities in your environment, then delivers ready-to-review fixes as pull requests replacing what previously took hours of manual investigation and days of cross-team coordination. — AWS News Blog / score: 85 (AIを活用したAWSのコード脆弱性検出サービス)</description>
-</item>
-<item>
-<title>[85] PHPの影に隠れたもう一つの重大インシデント「eMudhra」の証明書問題、どう対処すれば？／OSやWebブラウザーなどの対応状況を整理、アプリ開発者などにはいくつか注意すべき点【やじうまの杜】</title>
-<link>https://forest.watch.impress.co.jp/docs/serial/yajiuma/2150316.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/serial/yajiuma/2150316.html</guid>
-<pubDate>Thu, 22 Oct 2026 07:57:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>「やじうまの杜」では、ニュース・レビューにこだわらない幅広い話題をお伝えします。 — 窓の杜 / score: 85 (eMudhra証明書問題の対処まとめ)</description>
 </item>
 <item>
 <title>[85] Cloudflare、TypeScriptをRustに移植した「tsrs」を発表。TypeScript 7より最大で70％少ないメモリで8倍速。今後、LSPなどTypeScriptの全機能をサポート予定</title>
@@ -501,6 +477,14 @@
 <pubDate>Wed, 28 Oct 2026 03:45:11 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>GMOインターネットは10月28日、同社サービスへの不正アクセスをめぐり、犯行声明などを掲載していたWebサイトのドメインが停止されたことを確認したと発表した。 同サイトには、GMOへの脅迫や、サービスの顧客情報と主張する情報などが掲載されていた。同社は、関係事業者などと連携して対応を進め、日本時間28日午前4時... — はてなブックマーク テクノロジー / score: 80 (GMO不正アクセスの犯人サイトドメイン停止)</description>
+</item>
+<item>
+<title>[80] ニコニコレンタカーが情報漏洩に先手 レンタカーの免許証画像登録を「廃止」 アプリの利便性を捨ててでも | 乗りものニュース</title>
+<link>https://trafficnews.jp/post/722634</link>
+<guid isPermaLink="true">https://trafficnews.jp/post/722634</guid>
+<pubDate>Wed, 28 Oct 2026 03:17:32 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>タイムズカーの情報漏洩問題をうけ、レンタカー会社に個人情報取扱いの「総点検」が指示される中、ニコニコレンタカーが公式アプリでの運転免許証画像の事前登録機能を廃止しました。 ニコニコレンタカーが動いた！ 格安レンタカーとして知られる「ニコニコレンタカー」（木村孝広社長）は2026年10月27日、公式アプリ「... — はてなブックマーク テクノロジー / score: 80 (情報漏洩対策としての免許証登録廃止)</description>
 </item>
 <item>
 <title>[80] GLM-5.3 Workers AIモデルにおけるリクエスト間のKVキャッシュ漏洩とSGLangによる対策をCloudflareが解説</title>
@@ -647,6 +631,14 @@
 <description>Anthropicは2026年10月13日、社内のソース管理基盤Scionへの移行を扱う技術記事を公開した。 — gihyo.jp / score: 80 (Anthropicがモノレポ基盤をGitから独自移行した事例)</description>
 </item>
 <item>
+<title>[75] パナソニックがリコール中のシェーバーで火災事故　リコール対象か確認を</title>
+<link>https://ascii.jp/elem/000/004/446/4446515/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/446/4446515/?rss</guid>
+<pubDate>Wed, 28 Oct 2026 07:50:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>消費者庁は10月27日、パナソニックがリコール中のシェーバーで、9月に充電中の火災事故が発生したことを明らかにした。 — ASCII.jp / score: 75 (家電製品のリコールと火災事故の注意喚起)</description>
+</item>
+<item>
 <title>[75] AppleとOpenAIのモデルに基づいて構築されたAIアシスタントがKeynote・Pages・NumbersだけでなくLogic Proにも追加、Keynote・Pages・NumbersはMCPをサポート</title>
 <link>https://gigazine.net/news/20261028-apple-creator-studio-ai-features-openai-models/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261028-apple-creator-studio-ai-features-openai-models/</guid>
@@ -661,14 +653,6 @@
 <pubDate>Wed, 28 Oct 2026 02:54:33 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>このブログエントリは、初見のコーディング課題に対して私が素の Claude Code（Skill やプラグインは不使用）とテスト駆動開発で取り組んだ約4時間20分のセッションログを、ほぼ編集せずに整形して記事化したものです。実際に入力したプロンプトだけでなく、AIとの協業において人間がいつ何をどう判断したかが残っていま... — はてなブックマーク テクノロジー / score: 75 (t-wada氏によるClaude CodeとTDDの実践記録)</description>
-</item>
-<item>
-<title>[75] 【速報】GMOに対するハッカー集団サイトが停止　米プロバイダーによる措置か　警視庁が不正アクセス禁止法違反などの疑いで捜査（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース</title>
-<link>https://news.yahoo.co.jp/articles/bfddd406ecea0646848b98c48564cef76efc849d</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/articles/bfddd406ecea0646848b98c48564cef76efc849d</guid>
-<pubDate>Wed, 28 Oct 2026 02:50:30 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>【速報】GMOに対するハッカー集団サイトが停止 米プロバイダーによる措置か 警視庁が不正アクセス禁止法違反などの疑いで捜査（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース — はてなブックマーク テクノロジー / score: 75 (GMOハッカー集団サイト停止のセキュリティ事件)</description>
 </item>
 <item>
 <title>[75] Googleが仮想世界をリアルタイムで生成するAI「Genie 4」を発表、人物の動きや会話もリアルに生成可能</title>
@@ -759,20 +743,20 @@
 <description>We share a security framework for deploying autonomous AI agents in the enterprise, covering the new threat landscape, a tiered Zero Trust architecture, and defensive operations built for AI-accelerated attacks. Frontier AI models are compressing the timeline between vulnerability and exploit fro... — はてなブックマーク テクノロジー / score: 75 (AIエージェントの企業導入における新しいゼロトラストセキュリティ枠組み)</description>
 </item>
 <item>
+<title>[75] ダウンロードした AGENTS.md による乗っ取りを Claude Code・Codex・Cursor の hook で止めた</title>
+<link>https://zenn.dev/shoma_endo/articles/agent-downloads-hijack-guard</link>
+<guid isPermaLink="true">https://zenn.dev/shoma_endo/articles/agent-downloads-hijack-guard</guid>
+<pubDate>Tue, 27 Oct 2026 09:47:14 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>こんにちは、遠藤（@shoma_ai）です。普段は中小企業向けのAI導入支援やシステム開発をしています。 ダウンロードフォルダ（~/Downloads。以下 Downloads）に置かれた AGENTS.md や CLAUDE.md で、Codex や Claude Code が乗っ取られるという報告を見ました。その日のうちに、手元の Mac の Claude Code・Codex・Cursor にガードを入れています。作業は Claude Code に任せ、僕は方針を決めて、sudo が要る設置とデスクトップアプリでの確認をしました。 最初に作ったガードは、自前のテスト27件を全部通り... — Zenn トレンド / score: 75 (AIエージェントの環境乗っ取りを防ぐ対策)</description>
+</item>
+<item>
 <title>[75] [AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn</title>
 <link>https://latent.space/p/ainews-anthropic-s1/</link>
 <guid isPermaLink="true">https://latent.space/p/ainews-anthropic-s1/</guid>
 <pubDate>Tue, 27 Oct 2026 07:24:59 +0000</pubDate>
 <category>Latent Space</category>
 <description>Today is one of those days that is tougher to cover for a normally-engineer audience that isn’t used to reading most S-1’s, let alone 350 pages of one of the most unusual S-1’s of all time : Better visualized: With significant operating leverage causing the first profitable quarter in Anthropic history (adjusted for $1B/quarter of SBC): The incredible efficiency story is told in two loops, and of course you know, we love loop: The pitch going forward is “virtual collaborators” (don’t say agent!) — Latent Space / score: 75 (AnthropicのS-1提出に基づく財務詳細)</description>
-</item>
-<item>
-<title>[75] Anthropicが株式上場に向けてアメリカ証券委員会に登録届出書を提出、12兆円の赤字が事実であることが確定</title>
-<link>https://gigazine.net/news/20261027-anthropic-ipo-s1/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261027-anthropic-ipo-s1/</guid>
-<pubDate>Tue, 27 Oct 2026 06:55:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>AnthropicがクラスA普通株式の新規株式公開(IPO)に関して、アメリカ証券取引委員会(SEC)に「フォームS-1」による登録届出書を提出したことを発表しました。 続きを読む... — GIGAZINE / score: 75 (AnthropicのIPO申請と財務情報の公開)</description>
 </item>
 <item>
 <title>[75] How Check Point accelerates vulnerability research with Daybreak</title>
@@ -805,6 +789,22 @@
 <pubDate>Mon, 26 Oct 2026 05:19:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>中国Moonshot AIは2026年10月23日、マルチモーダルMoEモデルの最新バージョン「Kimi K3.1 Pro」および高レスポンスモデル「Kimi K3.1 Pro Highspeed」を発表した。 — gihyo.jp / score: 75 (Moonshot AIによる高性能オープンウェイトMoEモデル発表)</description>
+</item>
+<item>
+<title>[75] 確認漏れはない？先週の注目記事はセキュリティ関連ばかり、「PHP」「Apache Tomcat」「Node.js」「eMudhra」ほか ～窓の杜アクセスランキング［2026/10/19～2026/10/25]【記事アクセスランキング】</title>
+<link>https://forest.watch.impress.co.jp/docs/serial/accessranking/2151034.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/serial/accessranking/2151034.html</guid>
+<pubDate>Mon, 26 Oct 2026 02:45:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>前週に閲覧数の多かった記事を、上位10位までレポートします。 — 窓の杜 / score: 75 (主要なセキュリティ脆弱性情報のまとめ)</description>
+</item>
+<item>
+<title>[75] v3.14.10</title>
+<link>https://github.com/python/cpython/releases/tag/v3.14.10</link>
+<guid isPermaLink="true">https://github.com/python/cpython/releases/tag/v3.14.10</guid>
+<pubDate>Sun, 25 Oct 2026 17:12:01 +0000</pubDate>
+<category>CPython リリース</category>
+<description>Python 3.14.10 — CPython リリース / score: 75 (Python 3.14.10のリリース情報)</description>
 </item>
 </channel>
 </rss>
