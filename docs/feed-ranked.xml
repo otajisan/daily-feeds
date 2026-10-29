@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 29 Oct 2026 06:12:04 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 08:09:42 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 【PHP2Shell】PHP公式の発表『本日のセキュリティリリースと、セキュリティ対策について』</title>
@@ -71,12 +71,20 @@
 <description>悪意のある攻撃者がLinuxの仮想マシンを不正に操作することで、仮想マシンの境界を抜けてホスト側のLinux OSで不正なコードを実行できる可能性がある脆弱性「PwnEscape」（CVE-2026-99999）の情報が公開されています。 ... — Publickey / score: 95 (Linuxカーネルの深刻な脆弱性の報告)</description>
 </item>
 <item>
-<title>[90] グッドスマイルカンパニー、カード番号全桁とセキュリティコードが漏えいか　最大2800人に影響の可能性</title>
-<link>https://ascii.jp/elem/000/004/446/4446932/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/446/4446932/?rss</guid>
-<pubDate>Thu, 29 Oct 2026 05:25:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>グッドスマイルカンパニーは10月29日、公式オンラインショップへの不正アクセスについて第3報を公表した。クレジットカード番号の全桁やセキュリティコードなどが漏えいした可能性のある利用者が2800人に上るという。 — ASCII.jp / score: 90 (ECサイトでのカード情報等漏えいの可能性)</description>
+<title>[90] グッスマ、顧客の2800人のカード番号全16桁＋セキュリティコードなど流出か　下4桁は40万枚分</title>
+<link>https://www.itmedia.co.jp/news/article/2610/29/2000002716/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/29/2000002716/</guid>
+<pubDate>Thu, 29 Oct 2026 06:15:08 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>キャラクターフィギュアなどの企画・販売を手掛けるグッドスマイルカンパニー（千代田区）は10月29日、直販サイトが不正アクセスを受け、顧客2800人のカード名義人名、カード番号（全16桁）、有効期限、セキュリティコードが漏えいした可能性があると発表した。 また、同サイトにカード情報を登録したことがある顧客のカ... — はてなブックマーク テクノロジー / score: 90 (重大な個人情報流出・不正アクセスの事例)</description>
+</item>
+<item>
+<title>[90] グッドスマイルカンパニー、クレカ番号全16桁が情報漏洩か　該当者は2800人のユーザー</title>
+<link>https://kai-you.net/article/96997</link>
+<guid isPermaLink="true">https://kai-you.net/article/96997</guid>
+<pubDate>Thu, 29 Oct 2026 04:40:11 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>フィギュアメーカー大手・グッドスマイルカンパニーが10月29日（木）、公式オンラインショップへの不正アクセスについて第3報を発表した。 調査の結果、クレジットカード決済ページに不正なプログラムが設置されていたことが判明。 2026年10月21日13時55分から23日7時までに同ページを利用した可能性のある2800人につい... — はてなブックマーク テクノロジー / score: 90 (クレジット情報流出に関する重大なセキュリティ事故)</description>
 </item>
 <item>
 <title>[90] 「WordPress 7.1.4」が公開、リモートコード実行や多数のXSSを修正／「eMudhra」問題を受けたルート証明書の更新も、速やかなアップデートを</title>
@@ -207,6 +215,22 @@
 <description>米OpenAIは10月26日（現地時間）、新しいAIモデル「GPT-6.1 Terra」を発表した。7月に発表された「GPT-5.6 Terra」以来のアップデートで、「Terra」シリーズとしては初の「GPT-6.x」モデルとなる。 — 窓の杜 / score: 88 (OpenAIの新モデルGPT-6.1 Terra発表)</description>
 </item>
 <item>
+<title>[85] 正規ソフトウェアに隠されたSectopRAT（トロイの木馬）亜種で被害者のコンピュータをリモート制御する手口</title>
+<link>https://ascii.jp/elem/000/004/445/4445577/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/445/4445577/?rss</guid>
+<pubDate>Thu, 29 Oct 2026 08:00:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>FortiGuardインシデントレスポンス（FGIR）チームは新たに、SectopRATを使用して被害者のデバイスを制御していた侵入事案を調査しました。 — ASCII.jp / score: 85 (トロイの木馬によるリモート制御のセキュリティ脅威)</description>
+</item>
+<item>
+<title>[85] 月間70億件超のコミットを、GitHubは新しいGitアーキテクチャで支える──Copilot Fusionなど新機能も発表【GitHub Universe 2026】</title>
+<link>https://codezine.jp/article/detail/30168</link>
+<guid isPermaLink="true">https://codezine.jp/article/detail/30168</guid>
+<pubDate>Thu, 29 Oct 2026 07:00:00 +0000</pubDate>
+<category>CodeZine</category>
+<description>2026年10月28日（現地時間）、米サンフランシスコで年次イベント「GitHub Universe 2026」が開幕した。Day1の基調講演でGitHubは、複数のモデルを自動で使い分ける「Copilot Fusion」や、複数のリポジトリにまたがる作業を任せる「Copilot Projects」といった新機能、GitHub EnterpriseでのCopilot全機能の提供、そしてエージェントの大量の書き込みに耐える新しいGitアーキテクチャを示した。ステージのデモと発言を追いながら、GitHubが描く「エージェント時代のソフトウェアデリバリー」の全体像を報告する。 — CodeZine / score: 85 (大規模な開発者向けイベントでの新機能発表)</description>
+</item>
+<item>
 <title>[85] [AINews] Gemini 4 Carbon tops leaderboards, launches for cyber defenders</title>
 <link>https://latent.space/p/ainews-gemini-4-carbon/</link>
 <guid isPermaLink="true">https://latent.space/p/ainews-gemini-4-carbon/</guid>
@@ -239,6 +263,14 @@
 <description>44体のAIエージェントが分業して日本企業を狙うサイバー攻撃の実態を解説。TrendAIが明かす攻撃の手口と、AI時代のセキュリティ対策の重要性を読み解きます。 — ギズモード・ジャパン / score: 85 (AIによるサイバー攻撃の脅威と対策の解説)</description>
 </item>
 <item>
+<title>[85] Googleが世界一高性能なAI「Gemini 4 Carbon」を発表、ついにOpenAIやAnthropicの最先端モデルを超える</title>
+<link>https://gigazine.net/news/20261029-gemini-4-carbon/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261029-gemini-4-carbon/</guid>
+<pubDate>Thu, 29 Oct 2026 01:48:15 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>GoogleがAIモデル「Gemini 4 Carbon」を日本時間の2026年10月29日に発表しました。複数のテストでOpenAIやAnthropicのフラッグシップモデルを超える性能を示しているほか、第三者機関の性能評価でも総合性能でトップに躍り出ています。 Introducing Gemini 4 Carbon https://blog.google/innovation-and-ai/models-and-r... — はてなブックマーク テクノロジー / score: 85 (Googleの最先端AIモデル発表)</description>
+</item>
+<item>
 <title>[85] Node.js 26.13.0リリース、コードネーム「Lithium」として長期サポート（LTS）に移行</title>
 <link>https://gihyo.jp/article/2026/10/node-js-26-13-0-lts?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/10/node-js-26-13-0-lts?utm_source=feed</guid>
@@ -247,12 +279,12 @@
 <description>Node.js開発チームは2026年10月28日、Node.js 26.13.0をリリースし、このバージョンからNode.js 26.xが「Lithium」というコードネームで長期サポート（LTS）に移行することを発表した。 — gihyo.jp / score: 85 (Node.js 26.13.0のLTS移行とリリース)</description>
 </item>
 <item>
-<title>[85] Googleが世界一高性能なAI「Gemini 4 Carbon」を発表、ついにOpenAIやAnthropicの最先端モデルを超える</title>
-<link>https://gigazine.net/news/20261029-gemini-4-carbon/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261029-gemini-4-carbon/</guid>
-<pubDate>Thu, 29 Oct 2026 01:41:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>GoogleがAIモデル「Gemini 4 Carbon」を日本時間の2026年10月29日に発表しました。複数のテストでOpenAIやAnthropicのフラッグシップモデルを超える性能を示しているほか、第三者機関の性能評価でも総合性能でトップに躍り出ています。 続きを読む... — GIGAZINE / score: 85 (Googleの最先端AIモデル発表)</description>
+<title>[85] Google、「Gemini 4 Carbon」を発表 ～「Argon」をしのぐ同社最強モデル／まずはサイバーセキュリティの防御担当者向けに提供、一般向けは“できるだけ早く”</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2152085.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2152085.html</guid>
+<pubDate>Thu, 29 Oct 2026 01:33:47 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Google、「Gemini 4 Carbon」を発表 ～「Argon」をしのぐ同社最強モデル／まずはサイバーセキュリティの防御担当者向けに提供、一般向けは“できるだけ早く” — はてなブックマーク テクノロジー / score: 85 (Googleの次世代AIモデル発表のニュース)</description>
 </item>
 <item>
 <title>[85] Googleが新フラッグシップAI「Gemini 4 Carbon」を発表したけど…「ベンチマークは最強」しかわからん</title>
@@ -261,22 +293,6 @@
 <pubDate>Thu, 29 Oct 2026 01:25:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>それ以上言うことがなさすぎるんだけど。2026年10月29日、Googleが次期フラッグシップAI「Gemini 4 Carbon」を発表しました。Argonはジャブだったんですね。ただ今回のGoogleの発表、何を言ってるかまったくピンと… — ギズモード・ジャパン / score: 85 (Googleの新フラッグシップAIモデル発表)</description>
-</item>
-<item>
-<title>[85] Google、「Gemini 4 Carbon」を発表 ～「Argon」をしのぐ同社最強モデル／まずはサイバーセキュリティの防御担当者向けに提供、一般向けは“できるだけ早く”</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2152085.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2152085.html</guid>
-<pubDate>Thu, 29 Oct 2026 00:21:11 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Google DeepMindは10月28日（現地時間）、「Gemini 4 Carbon」を発表した。同社最先端のモデルで、サイバーセキュリティと長時間におよぶタスク（long horizon）の処理で「Gemini 4 Argon」を凌駕する性能を備えるという。 — 窓の杜 / score: 85 (Googleの次世代AIモデル発表のニュース)</description>
-</item>
-<item>
-<title>[85] Microsoftの認証アプリに欠陥発見。偽のアプリでもメールを読める状態に</title>
-<link>https://www.gizmodo.jp/article/2610-microsoft-authenticator-vulnerability-android/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2610-microsoft-authenticator-vulnerability-android/</guid>
-<pubDate>Wed, 28 Oct 2026 23:15:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>Android版Microsoft Authenticatorに偽アプリのアクセスを許す欠陥が判明しました。詳細を解説します。 — ギズモード・ジャパン / score: 85 (認証アプリの深刻な脆弱性に関する報告)</description>
 </item>
 <item>
 <title>[85] VPNがあるのは外から分かるので狙われる。パッチ当てはもう自動化するしかない――日本ハッカー協会・杉浦隆幸代表理事が語る、AI時代のランサムウェア対処策【Security Days Fall 2026】</title>
@@ -309,14 +325,6 @@
 <pubDate>Wed, 28 Oct 2026 13:54:02 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>2026年10月、Black October、情報セキュリティの世界は変わってしまった。 2026年10月、情報セキュリティの世界は完全に変わりました。今この10月は Black October （暗黒の10月）と呼ばれ始めており、セキュリティへの関心も高まっています。でも、セキュリティに関わる人はみんなこう思っています。 「確かにもう少し... — はてなブックマーク テクノロジー / score: 85 (セキュリティイン多発期の注意喚起と対策)</description>
-</item>
-<item>
-<title>[85] Amadeus の旅客サービスシステムへの不正アクセスについてまとめてみた - piyolog</title>
-<link>https://piyolog.hatenadiary.jp/entry/2026/10/28/214917</link>
-<guid isPermaLink="true">https://piyolog.hatenadiary.jp/entry/2026/10/28/214917</guid>
-<pubDate>Wed, 28 Oct 2026 13:22:51 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>2026年10月28日、日本航空と日本トランスオーシャン航空は、旅客サービスシステムの委託先であるAmadeusのシステムへの不正アクセスにより、顧客の予約情報の一部が外部から参照された形跡があったと公表しました。ここでは関連する情報をまとめます。 アマデウス経由で日韓の航空会社に影響 日本航空と日本トランスオー... — はてなブックマーク テクノロジー / score: 85 (大手航空会社委託先の不正アクセスと情報流出のまとめ。)</description>
 </item>
 <item>
 <title>[85] Claude Mythos 5がGitHubに悪意あるコードを送り込み偽アカウントで開発者に圧力をかけた問題の原因をAnthropicが分析</title>
@@ -527,14 +535,6 @@
 <description>Anthropicが開発しているJavaScriptランタイム「Bun」は、10月10日付けで新バージョン「Bun v1.4.3」がリリースされました。 Bun v1.4.3の最大の特徴として示されたのが、Go言語で実装されたTypeScr... — Publickey / score: 85 (Bunの高速型チェッカー追加という大きなアップデート)</description>
 </item>
 <item>
-<title>[80] スマホで動くローカルAIが進化、ツール操作で大型モデル超えも　Liquid AI「LFM3」発表</title>
-<link>https://ascii.jp/elem/000/004/446/4446931/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/446/4446931/?rss</guid>
-<pubDate>Thu, 29 Oct 2026 05:40:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>米Liquid AIは10月27日、iPhone 17 Proのようなスマートフォン端末内でも動作する、軽量なAIモデルシリーズ「LFM3」を発表した。 — ASCII.jp / score: 80 (スマホで動作する新型軽量AIモデルの発表)</description>
-</item>
-<item>
 <title>[80] 1,000ファイルの言語移行をAIとASTトランスパイラで完遂した話：LLMの「評価の抜け道」とどう戦ったか</title>
 <link>https://qiita.com/dev-hasegawa/items/79f612c5a4e6c874eaa9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
 <guid isPermaLink="true">https://qiita.com/dev-hasegawa/items/79f612c5a4e6c874eaa9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
@@ -653,6 +653,22 @@
 <pubDate>Fri, 16 Oct 2026 08:08:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Sakana AIは2026年10月15日、科学研究を自動化するThe AI Scientistの第3世代「The Agentic Scientist」を公開した。 — gihyo.jp / score: 80 (Sakana AIによる科学研究自動化AI第3世代の公開)</description>
+</item>
+<item>
+<title>[75] Microsoft、「Copilot harness」を発表 ～「GitHub Copilot」基盤を全社共通化、プレビュー提供／「GitHub Copilot SDK」は「Microsoft Copilot SDK」に</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2152248.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2152248.html</guid>
+<pubDate>Thu, 29 Oct 2026 07:26:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Microsoftは10月28日（現地時間）、「Microsoft Copilot harness」を発表した。傘下のGitHubで開発が進められていた「GitHub Copilot」由来のエージェント実行基盤を全社共通化したもので、「Microsoft Foundry」にてパブリックプレビューとして提供される。 — 窓の杜 / score: 75 (Microsoftによる開発基盤の共通化とSDK統合)</description>
+</item>
+<item>
+<title>[75] Qwen超えで2倍速、拡散LLM「Clover-35B-A3B-Preview」公開</title>
+<link>https://pc.watch.impress.co.jp/docs/news/2152177.html</link>
+<guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2152177.html</guid>
+<pubDate>Thu, 29 Oct 2026 03:49:27 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Qwen超えで2倍速、拡散LLM「Clover-35B-A3B-Preview」公開 — はてなブックマーク テクノロジー / score: 75 (高性能な新型LLMの公開に関するニュース)</description>
 </item>
 <item>
 <title>[75] Metaのスマートグラス、盗撮懸念で販売禁止を求める訴訟に</title>
@@ -789,22 +805,6 @@
 <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster. — OpenAI News / score: 75 (OpenAIを用いたセキュリティ脆弱性調査の事例)</description>
-</item>
-<item>
-<title>[75] GPT-6.1 Terra</title>
-<link>https://simonwillison.net/2026/Oct/26/gpt-61-terra/</link>
-<guid isPermaLink="true">https://simonwillison.net/2026/Oct/26/gpt-61-terra/</guid>
-<pubDate>Mon, 26 Oct 2026 23:53:07 +0000</pubDate>
-<category>Simon Willison</category>
-<description>GPT-6.1 Terra It's always interesting to note which aspects of a new model are emphasized in the release announcement. In the case of GPT-6.1 Terra, OpenAI went with visual reasoning and computer use: We’re introducing GPT-6.1 Terra , a fast, efficient model that combines detailed visual reasoning and precise computer use alongside clearer, more natural writing. A significant step up from GPT‑5.6 Terra, it excels at the communication and computer-based tasks that fill the workday, from drafting  — Simon Willison / score: 75 (GPT-6.1 Terraの機能とビジュアル推論の解説)</description>
-</item>
-<item>
-<title>[75] Greptile takes bug detection beyond code review with GPT-6 Astra</title>
-<link>https://openai.com/index/greptile-code-review-codex-astra</link>
-<guid isPermaLink="true">https://openai.com/index/greptile-code-review-codex-astra</guid>
-<pubDate>Mon, 26 Oct 2026 22:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework. — OpenAI News / score: 75 (GPT-6 Astraを活用したバグ検出の事例)</description>
 </item>
 </channel>
 </rss>
