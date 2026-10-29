@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 29 Oct 2026 12:10:52 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 14:08:14 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 【PHP2Shell】PHP公式の発表『本日のセキュリティリリースと、セキュリティ対策について』</title>
@@ -207,6 +207,14 @@
 <description>米OpenAIは10月26日（現地時間）、新しいAIモデル「GPT-6.1 Terra」を発表した。7月に発表された「GPT-5.6 Terra」以来のアップデートで、「Terra」シリーズとしては初の「GPT-6.x」モデルとなる。 — 窓の杜 / score: 88 (OpenAIの新モデルGPT-6.1 Terra発表)</description>
 </item>
 <item>
+<title>[85] メール配信会社「アララ」 不正アクセスで300万件のメアド流出 | NHKニュース</title>
+<link>https://news.web.nhk/newsweb/na/nd-20261029de67976</link>
+<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261029de67976</guid>
+<pubDate>Thu, 29 Oct 2026 09:27:57 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>企業向けのメール配信システムなどを手がける「アララ」は、不正アクセスを受け、登録されていたメールアドレスおよそ301万件が外部に流出したと発表しました。 会社では現在、メールの配信を停止し調査を進め… — はてなブックマーク テクノロジー / score: 85 (大規模な個人情報流出とセキュリティインシデント)</description>
+</item>
+<item>
 <title>[85] 31年間解けなかった数学の難問「KLS予想」、マイクロソフト研究者とAIのチームが解決</title>
 <link>https://www.gizmodo.jp/article/2610-microsoft-ai-solves-kls-conjecture/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/2610-microsoft-ai-solves-kls-conjecture/</guid>
@@ -229,14 +237,6 @@
 <pubDate>Thu, 29 Oct 2026 05:55:19 +0000</pubDate>
 <category>Latent Space</category>
 <description>Google’s new frontier model leads independent evals, with access initially limited to trusted defenders. — Latent Space / score: 85 (Googleの新型AIモデル発表とサイバー防衛)</description>
-</item>
-<item>
-<title>[85] 松屋の公式アプリとWebサイトが停止　不正アクセスを検知、モバイルオーダーや弁当予約も使えず</title>
-<link>https://www.itmedia.co.jp/news/article/2610/29/2000002714/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/29/2000002714/</guid>
-<pubDate>Thu, 29 Oct 2026 04:45:58 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>牛丼チェーン「松屋」を運営する松屋フーズ（東京都武蔵野市）と持ち株会社の松屋フーズホールディングスは10月29日までに、外部からの不正アクセスを検知したとして、松屋公式アプリやWebサイトなどを停止していると発表した。公式アプリ内の弁当予約サービス「松弁ネット」、モバイルオーダー、宅配サービス「松弁デリ... — はてなブックマーク テクノロジー / score: 85 (松屋の不正アクセスによるサービス停止と影響)</description>
 </item>
 <item>
 <title>[85] ＧＭＯへの不正アクセス受け、総務省が通信事業者に攻撃者サイトへの「ブロッキング」要請</title>
@@ -301,14 +301,6 @@
 <pubDate>Wed, 28 Oct 2026 16:57:41 +0000</pubDate>
 <category>Node.js リリース</category>
 <description>Notable Changes This release marks the transition of Node.js 26.x into Long Term Support (LTS) with the codename 'Lithium'. It will continue to receive updates through to the end of April 2029. Other than updating metadata, such as the process.release object, to reflect that the release is LTS, no further changes from Node.js 26.12.1 are included. If you are updating from an earlier Long Term Support release (e.g. Node.js 24 or 22 or earlier) please note that since Node.js 25 the official binari — Node.js リリース / score: 85 (Node.jsのLTSメジャーバージョンリリース)</description>
-</item>
-<item>
-<title>[85] Claude Mythos 5がGitHubに悪意あるコードを送り込み偽アカウントで開発者に圧力をかけた問題の原因をAnthropicが分析</title>
-<link>https://gigazine.net/news/20261028-claude-mythos-5-failure/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261028-claude-mythos-5-failure/</guid>
-<pubDate>Wed, 28 Oct 2026 11:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>AnthropicのAIモデル「Claude Mythos 5」がセキュリティテスト中に悪意のあるコードをGitHubに投稿し、偽アカウントを使って開発者に承認を迫った問題について、AnthropicとイギリスのAI Security Institute(AISI)が原因分析の結果を発表しました。AIが被害の可能性を十分に考慮せずに行動したことや、自分の判断を正当化する偏った推論、タスクを完了するために同じ行動を続けようとする傾向が問題につながったと指摘されています。 続きを読む... — GIGAZINE / score: 85 (AIモデルの自律的挙動によるセキュリティ上の懸念)</description>
 </item>
 <item>
 <title>[85] いいから休め - Black October が終わる今、セキュリティエンジニアがやるべきこと</title>
@@ -511,12 +503,28 @@
 <description>Anthropicが開発しているJavaScriptランタイム「Bun」は、10月10日付けで新バージョン「Bun v1.4.3」がリリースされました。 Bun v1.4.3の最大の特徴として示されたのが、Go言語で実装されたTypeScr... — Publickey / score: 85 (Bunの高速型チェッカー追加という大きなアップデート)</description>
 </item>
 <item>
+<title>[80] Google Chromeがなりすまし対策を強化。一部の正規サイトも開けなくなるかも</title>
+<link>https://www.gizmodo.jp/article/2610-google-chrome-security-update-certificate/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/2610-google-chrome-security-update-certificate/</guid>
+<pubDate>Thu, 29 Oct 2026 12:30:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>Google Chromeがサイバーセキュリティ対策を強化。電子証明書の脆弱性に伴うなりすまし防止策と、一部正規サイトへの影響について解説します。 — ギズモード・ジャパン / score: 80 (ブラウザのセキュリティ強化と仕様変更の影響)</description>
+</item>
+<item>
 <title>[80] GMOへの攻撃事件を巡って |</title>
 <link>https://www.iwashita.kyoto.jp/archives/11306</link>
 <guid isPermaLink="true">https://www.iwashita.kyoto.jp/archives/11306</guid>
 <pubDate>Thu, 29 Oct 2026 07:16:28 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>金融取引の安全性を誰が守るのか GMOインターネットグループの熊谷正寿代表が、同社の「お名前.com デスクトップクラウド」に対するサイバー攻撃について、10月25日付のブログで経緯を説明している。 熊谷正寿「今こそ官民連携で日本を守ろう――『能動的サイバー防御』を具申した理由」 同ブログによれば、今回の事件で影... — はてなブックマーク テクノロジー / score: 80 (サイバー攻撃事件と能動的サイバー防御の議論)</description>
+</item>
+<item>
+<title>[80] 松屋フーズ 不正アクセス検知 HPとアプリを停止 | NHKニュース</title>
+<link>https://news.web.nhk/newsweb/na/nd-20261029de67623</link>
+<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261029de67623</guid>
+<pubDate>Thu, 29 Oct 2026 05:38:02 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>大手牛丼チェーンの「松屋フーズホールディングス」は、28日夜9時ごろ不正アクセスが検知されたため、ホームページとアプリのサービスを停止し、現在利用できなくなっています。 テイクアウトの事前予約やクー… — はてなブックマーク テクノロジー / score: 80 (企業システムへの不正アクセスとサービス停止)</description>
 </item>
 <item>
 <title>[80] 公表資料から読む2026年秋の情報漏えい18件：侵入経路はどこだったのか</title>
@@ -631,14 +639,6 @@
 <description>Sakana AIは2026年10月15日、科学研究を自動化するThe AI Scientistの第3世代「The Agentic Scientist」を公開した。 — gihyo.jp / score: 80 (Sakana AIによる科学研究自動化AI第3世代の公開)</description>
 </item>
 <item>
-<title>[75] Apple、セキュリティアップデートで修正した脆弱性の情報をCSAF規格に準拠したJSON形式で公開開始。</title>
-<link>https://applech2.com/archives/20261029-apple-security-advisories-csaf-2-1-json-format.html</link>
-<guid isPermaLink="true">https://applech2.com/archives/20261029-apple-security-advisories-csaf-2-1-json-format.html</guid>
-<pubDate>Thu, 29 Oct 2026 09:21:13 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Appleがセキュリティアップデートで修正した脆弱性の情報をJSON形式で公開しています。詳細は以下から。 Appleは現地時間2026年10月26日、MacやiPhone/iPad、Apple Watch/TV、V […] The post Apple、セキュリティアップデートで修正した脆弱性の情報をCSAF規格に準拠したJSON形式で公開開始。 first appeared on AAPL ... — はてなブックマーク テクノロジー / score: 75 (Appleの脆弱性情報公開形式の変更)</description>
-</item>
-<item>
 <title>[75] 初のタッチ対応「MacBook Pro」がついに登場。実物に触ってきたよ</title>
 <link>https://www.gizmodo.jp/article/2610-macbook-pro-touch-oled/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/2610-macbook-pro-touch-oled/</guid>
@@ -661,14 +661,6 @@
 <pubDate>Thu, 29 Oct 2026 07:26:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Microsoftは10月28日（現地時間）、「Microsoft Copilot harness」を発表した。傘下のGitHubで開発が進められていた「GitHub Copilot」由来のエージェント実行基盤を全社共通化したもので、「Microsoft Foundry」にてパブリックプレビューとして提供される。 — 窓の杜 / score: 75 (Microsoftによる開発基盤の共通化とSDK統合)</description>
-</item>
-<item>
-<title>[75] Qwen超えで2倍速、拡散LLM「Clover-35B-A3B-Preview」公開</title>
-<link>https://pc.watch.impress.co.jp/docs/news/2152177.html</link>
-<guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2152177.html</guid>
-<pubDate>Thu, 29 Oct 2026 03:49:27 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Qwen超えで2倍速、拡散LLM「Clover-35B-A3B-Preview」公開 — はてなブックマーク テクノロジー / score: 75 (高性能な新型LLMの公開に関するニュース)</description>
 </item>
 <item>
 <title>[75] Google、Gemini 4 Carbonを発表 ——長時間の開発作業と脆弱性の発見・修正を強化</title>
@@ -805,6 +797,14 @@
 <pubDate>Mon, 26 Oct 2026 23:53:07 +0000</pubDate>
 <category>Simon Willison</category>
 <description>GPT-6.1 Terra It's always interesting to note which aspects of a new model are emphasized in the release announcement. In the case of GPT-6.1 Terra, OpenAI went with visual reasoning and computer use: We’re introducing GPT-6.1 Terra , a fast, efficient model that combines detailed visual reasoning and precise computer use alongside clearer, more natural writing. A significant step up from GPT‑5.6 Terra, it excels at the communication and computer-based tasks that fill the workday, from drafting  — Simon Willison / score: 75 (GPT-6.1 Terraの機能とビジュアル推論の解説)</description>
+</item>
+<item>
+<title>[75] Greptile takes bug detection beyond code review with GPT-6 Astra</title>
+<link>https://openai.com/index/greptile-code-review-codex-astra</link>
+<guid isPermaLink="true">https://openai.com/index/greptile-code-review-codex-astra</guid>
+<pubDate>Mon, 26 Oct 2026 22:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework. — OpenAI News / score: 75 (GPT-6 Astraを活用したバグ検出の事例)</description>
 </item>
 </channel>
 </rss>
