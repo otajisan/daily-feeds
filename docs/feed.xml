@@ -4,8 +4,24 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 29 Oct 2026 18:09:13 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 20:07:33 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>2026-10-29, Version 27.0.0-alpha.0.0.0 (Alpha), @RafaelGSS</title>
+<link>https://github.com/nodejs/node/releases/tag/v27.0.0-alpha.0.0.0</link>
+<guid isPermaLink="true">https://github.com/nodejs/node/releases/tag/v27.0.0-alpha.0.0.0</guid>
+<pubDate>Thu, 29 Oct 2026 18:36:37 +0000</pubDate>
+<category>Node.js リリース</category>
+<description>Notable Changes V8 15.6 The V8 engine is updated to version 15.6.75.13, up from 14.6 in Node.js 26. Highlights: New language features enabled by default: Math.sumPrecise() , Intl.Locale.prototype.variants , Iterator.prototype.join() , Iterator.prototype.includes() , Iterator.zip() and Iterator.zipKeyed() . Experimental features behind flags: import defer ( --js-defer-import-eval ), Immutable ArrayBuffer ( --js-immutable-arraybuffer ) and RegExp buffer boundaries ( --js-regexp-buffer-boundaries ) — Node.js リリース / score: 65 (Node.jsのアルファ版リリースとV8更新)</description>
+</item>
+<item>
+<title>Amazon RDS for Oracle and SQL Server now support storage autoscaling on additional storage volumes</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-oracle-sqlserver-autoscaling-additional-storage-volumes</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-oracle-sqlserver-autoscaling-additional-storage-volumes</guid>
+<pubDate>Thu, 29 Oct 2026 18:06:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon RDS for SQL Server and Amazon RDS for Oracle now support RDS storage autoscaling on additional storage volumes . RDS storage autoscaling automatically scales storage capacity in response to growing database workloads, with zero downtime. Additional storage volumes allow you to add up to three additional volumes to increase your storage capacity up to 256 TiB. Previously, you had to manually provision storage capacity on the additional storage volumes based on anticipated application capac — AWS What's New / score: 45 (RDSの追加ストレージ自動拡張サポート)</description>
+</item>
 <item>
 <title>Building a multiplayer game world with autonomous Fable-class models</title>
 <link>https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/</link>
@@ -71,6 +87,14 @@
 <description>Picture the scene: Before an executive business review, your VP of Sales asks an AI assistant, "What was net revenue for our top enterprise accounts last quarter?" In seconds, the agent returns a polished chart! Unfortunately, the numbers don't match the finance report. Why? Because the agent counted cancelled orders as revenue and pulled from an unvalidated staging table. The agent didn't fail because of the model, or because it couldn't translate a user question into a query. It failed because — Google Cloud Blog / score: 65 (AIエージェントのグラウンディングとコンテキストグラフの解説)</description>
 </item>
 <item>
+<title>What’s new with Google Data Cloud</title>
+<link>https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud/</guid>
+<pubDate>Thu, 29 Oct 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>October 19 - October 23 BigQuery introduces column aliases in GoogleSQL and cross-region table copy GA GoogleSQL in BigQuery now supports column aliases in SELECT and WHERE clauses (GA opt-in), avoiding nested subqueries and simplifying migrations from Snowflake and Teradata. Cross-region table copying is also now generally available to streamline regional data replication and disaster recovery. Review the BigQuery release notes . Conversational analytics in BigQuery expands to Canada and adds C — Google Cloud Blog / score: 50 (Google Data Cloudの一般的な新機能プレビュー情報。)</description>
+</item>
+<item>
 <title>｢iPhone Air 2｣はバッテリー容量増加 &amp; 超広角カメラ追加のデュアルレンズ仕様になるとの情報が再び</title>
 <link>https://taisy0.com/2026/10/30/229697.html</link>
 <guid isPermaLink="true">https://taisy0.com/2026/10/30/229697.html</guid>
@@ -117,14 +141,6 @@
 <pubDate>Thu, 29 Oct 2026 14:06:27 +0000</pubDate>
 <category>Simon Willison</category>
 <description>every product i use should just be a headless mcp, that feeds into an agent, where i never have to think about anything underneath. except for our product, of course. in our product, customers love the ui and love us very much. we're special that way. — Ben Hylak Tags: model-context-protocol , ai — Simon Willison / score: 40 (MCPとAIエージェントに関する開発者の個人的な考察)</description>
-</item>
-<item>
-<title>Windowsの高性能PCで動くローカルAIをブラウザからみんなで利用できる環境を「Ollama＋Open WebUI」で構築してみた</title>
-<link>https://gigazine.net/news/20261029-ollama-open-webui-local-ai/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261029-ollama-open-webui-local-ai/</guid>
-<pubDate>Thu, 29 Oct 2026 14:03:21 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>ローカルAIはGPUの性能が重要ですが、AIを使いたいPCすべてに高性能なGPUを搭載すると費用がかさんでしまいます。そこで1台の高性能PCをAIサーバーにし、ほかのPCからAIを利用できる環境を構築してみます。 今回はAIエージェント「Hermes Agent」で各PCのブラウザを操作しつつ、AIの推論だけを別のPCに任せる構成を目指... — はてなブックマーク テクノロジー / score: 50 (ローカルLLM構築の有用な実践ガイド)</description>
 </item>
 <item>
 <title>「銀河の果て」について新たにわかったこと</title>
@@ -759,52 +775,36 @@
 <description>AI企業のLiquid AIが小型AIモデル群「LFM3」を公開しました。スマートフォンやノートPCなどでも動作可能な小型モデルでありながら高い性能を備えており、いずれのモデルもオープンモデルとして公開されています。 続きを読む... — GIGAZINE / score: 70 (デバイス上で動作する多様な小型AIモデルの登場)</description>
 </item>
 <item>
+<title>ACM now supports ACME for public certificates in AWS GovCloud (US)</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/acm-acme-support-govcloud-us/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/acm-acme-support-govcloud-us/</guid>
+<pubDate>Thu, 29 Oct 2026 08:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS Certificate Manager (ACM) ACME protocol support is now available in AWS GovCloud (US-East) and AWS GovCloud (US-West), providing a fully managed ACME server endpoint that issues public TLS certificates from Amazon Trust Services using any ACMEv2-compatible client, including Certbot, cert-manager for Kubernetes, and acme.sh. With the CA/Browser Forum mandating 47-day certificate lifetimes by 2029, manual management of public certificates becomes untenable. ACME support in ACM gives developers — AWS What's New / score: 40 (GovCloudにおけるACMのACMEサポート)</description>
+</item>
+<item>
+<title>Amazon DynamoDB Accelerator (DAX) is now available in additional Regions</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/dax-additional-regions/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/dax-additional-regions/</guid>
+<pubDate>Thu, 29 Oct 2026 08:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon DynamoDB Accelerator (DAX) is now available in two additional AWS Regions: Canada (Central) and Africa (Cape Town). DAX is a fully managed, highly available, in-memory cache for Amazon DynamoDB that delivers up to ten times performance improvement, from single-digit milliseconds to microseconds, even at millions of requests per second. With DAX, you can accelerate read-intensive and bursty workloads such as real-time bidding, gaming leaderboards, and retail product catalogs, while offload — AWS What's New / score: 35 (DynamoDB DAXの提供リージョン拡大)</description>
+</item>
+<item>
+<title>AWS Step Functions workflows now available as AI agent tools</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/step-functions-workflows-ai-agent-tools/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/step-functions-workflows-ai-agent-tools/</guid>
+<pubDate>Thu, 29 Oct 2026 08:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>You can now use your AWS Step Functions workflows as tools for AI agents through Amazon Bedrock AgentCore Gateway. Your agent decides when to run a workflow and what input to pass, and Step Functions runs each step exactly as you defined it. Agents can use your existing Standard and Express workflows as tools. AWS Step Functions is a visual workflow service capable of orchestrating over 220 AWS services to help customers build distributed applications at scale. AgentCore Gateway connects AI agen — AWS What's New / score: 60 (Step FunctionsのAIエージェントツール対応)</description>
+</item>
+<item>
 <title>【20周年アンケート】散財TV なおしま</title>
 <link>https://www.gizmodo.jp/article/20-years-of-gizmodojp-positron-naoshima/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/20-years-of-gizmodojp-positron-naoshima/</guid>
 <pubDate>Thu, 29 Oct 2026 08:00:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>Q1. ギズモード・ジャパン20周年へのお祝いコメントをお願いいたします。ギズモード・ジャパンさん、20周年おめでとうございます！ 私が10歳の頃から存在していたと思うとなんだか不思議な感じです。Q2. ギズモード・ジャパンとご一緒した際の… — ギズモード・ジャパン / score: 10 (メディアの20周年お祝いコメント)</description>
-</item>
-<item>
-<title>GMOへの攻撃事件を巡って |</title>
-<link>https://www.iwashita.kyoto.jp/archives/11306</link>
-<guid isPermaLink="true">https://www.iwashita.kyoto.jp/archives/11306</guid>
-<pubDate>Thu, 29 Oct 2026 07:16:28 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>金融取引の安全性を誰が守るのか GMOインターネットグループの熊谷正寿代表が、同社の「お名前.com デスクトップクラウド」に対するサイバー攻撃について、10月25日付のブログで経緯を説明している。 熊谷正寿「今こそ官民連携で日本を守ろう――『能動的サイバー防御』を具申した理由」 同ブログによれば、今回の事件で影... — はてなブックマーク テクノロジー / score: 80 (サイバー攻撃事件と能動的サイバー防御の議論)</description>
-</item>
-<item>
-<title>GitHub Copilot、GitHub Appによるサーバー間認証をパブリックプレビューで提供開始</title>
-<link>https://codezine.jp/article/detail/30167</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/30167</guid>
-<pubDate>Thu, 29 Oct 2026 07:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 65 (GitHub Copilotの認証機能のアップデート)</description>
-</item>
-<item>
-<title>月間70億件超のコミットを、GitHubは新しいGitアーキテクチャで支える──Copilot Fusionなど新機能も発表【GitHub Universe 2026】</title>
-<link>https://codezine.jp/article/detail/30168</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/30168</guid>
-<pubDate>Thu, 29 Oct 2026 07:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description>2026年10月28日（現地時間）、米サンフランシスコで年次イベント「GitHub Universe 2026」が開幕した。Day1の基調講演でGitHubは、複数のモデルを自動で使い分ける「Copilot Fusion」や、複数のリポジトリにまたがる作業を任せる「Copilot Projects」といった新機能、GitHub EnterpriseでのCopilot全機能の提供、そしてエージェントの大量の書き込みに耐える新しいGitアーキテクチャを示した。ステージのデモと発言を追いながら、GitHubが描く「エージェント時代のソフトウェアデリバリー」の全体像を報告する。 — CodeZine / score: 85 (大規模な開発者向けイベントでの新機能発表)</description>
-</item>
-<item>
-<title>How Ropes &amp; Gray is developing AI for transactional diligence</title>
-<link>https://openai.com/index/ropes-gray-ai-diligence</link>
-<guid isPermaLink="true">https://openai.com/index/ropes-gray-ai-diligence</guid>
-<pubDate>Thu, 29 Oct 2026 07:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>Ropes &amp; Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients. — OpenAI News / score: 40 (法務分野におけるAI活用の事例紹介)</description>
-</item>
-<item>
-<title>October 29, 2026</title>
-<link>https://docs.cloud.google.com/release-notes#October_29_2026</link>
-<guid isPermaLink="true">https://docs.cloud.google.com/release-notes#October_29_2026</guid>
-<pubDate>Thu, 29 Oct 2026 07:00:00 +0000</pubDate>
-<category>Google Cloud リリースノート</category>
-<description>Anti Money Laundering AI Announcement New minor engine version released for the retail line of business within the v004.011 version line ( aml-retail.default.v004.011.202610-000 ). This version extends support for the major engine version and includes no significant changes compared to the previous minor version. Dataflow Feature Dataflow has added the following features to tune horizontal autoscaling for Streaming Engine jobs: Latency tiers: You can configure the backlog threshold by choosing a — Google Cloud リリースノート / score: 70 (Google CloudのCloud SQL関連のアップデート)</description>
 </item>
 </channel>
 </rss>
