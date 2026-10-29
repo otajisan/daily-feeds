@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 28 Oct 2026 22:07:01 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 00:18:30 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 【PHP2Shell】PHP公式の発表『本日のセキュリティリリースと、セキュリティ対策について』</title>
@@ -87,20 +87,20 @@
 <description>Appleは現地時間10月26日、iPhone XS、XS Max、XR向けにiOS18.7.11を配信しました。実際の攻撃で悪用された可能性がある脆弱性を修正するアップデートです。この脆弱性は、iPhone11以降では […] — iPhone Mania / score: 90 (iOSの深刻な脆弱性を修正する緊急アップデート)</description>
 </item>
 <item>
-<title>[90] JAL、9万件超の予約情報に不正アクセス　一部はパスポート番号も - 日本経済新聞</title>
-<link>https://www.nikkei.com/article/DGXZQOUC288G50Y6A021C2000000/</link>
-<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUC288G50Y6A021C2000000/</guid>
-<pubDate>Wed, 28 Oct 2026 10:19:20 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>日本航空（JAL）は28日、氏名や搭乗日などの予約情報への不正アクセスが発生したと発表した。延べ約9万2000件が対象で、うち約2000件はパスポート番号や連絡先にもアクセスされていた。情報の不正利用は確認されていないという。スペイン・アマデウス社のクラウド型旅客管理システムへの不正アクセスが確認された。対象... — はてなブックマーク テクノロジー / score: 90 (JALの9万件超の予約情報不正アクセス事案)</description>
-</item>
-<item>
 <title>[90] PHP財団の常勤職員「たった1人」の衝撃--ウェブの安全を支える人手と資金が足りない</title>
 <link>https://japan.cnet.com/article/35254103/</link>
 <guid isPermaLink="true">https://japan.cnet.com/article/35254103/</guid>
 <pubDate>Wed, 28 Oct 2026 09:39:58 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>この1週間、世界中のソフトウェアエンジニアが、ウェブサイトを動かすソフトウェアの更新に追われている。米OpenAIのAIモデルを使ったチームが、ウェブを支える重要なソフトウェア「PHP」に2件の重大な脆弱性を発見したためだ。米Cloudflareによると、影響はPHP 5.4以降を使うウェブサーバーに及ぶ。修正を適用しないま... — はてなブックマーク テクノロジー / score: 90 (PHPの重大な脆弱性と資金難に関する注目ニュース)</description>
+</item>
+<item>
+<title>[90] 「ダウンロードフォルダでAIを使わないで」――セキュリティ企業が注意喚起　エージェントが攻撃者の指示に従いマルウェアインストールの恐れ</title>
+<link>https://www.itmedia.co.jp/aiplus/article/2610/28/2000002671/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2610/28/2000002671/</guid>
+<pubDate>Wed, 28 Oct 2026 08:33:41 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>ダウンロードフォルダに仕込んだマークダウンファイルを使ってユーザーのAIエージェントを悪用――イスラエルのセキュリティ企業Reboraはこのような攻撃を確認したとして、ダウンロードフォルダでエージェントを起動しないよう呼びかけた。 Reboraは顧客のコンピュータのダウンロードフォルダに悪意のある「AGENTS.md」（... — はてなブックマーク テクノロジー / score: 90 (AIエージェントを悪用する新たな攻撃手口)</description>
 </item>
 <item>
 <title>[90] 「Google Chrome 156」にセキュリティ更新、「Critical」4件を含む52件の脆弱性を修正／Windows/Mac向けはv156.0.8078.73/.74、Linux向けはv156.0.8078.73</title>
@@ -207,6 +207,14 @@
 <description>米OpenAIは10月26日（現地時間）、新しいAIモデル「GPT-6.1 Terra」を発表した。7月に発表された「GPT-5.6 Terra」以来のアップデートで、「Terra」シリーズとしては初の「GPT-6.x」モデルとなる。 — 窓の杜 / score: 88 (OpenAIの新モデルGPT-6.1 Terra発表)</description>
 </item>
 <item>
+<title>[85] Microsoftの認証アプリに欠陥発見。偽のアプリでもメールを読める状態に</title>
+<link>https://www.gizmodo.jp/article/2610-microsoft-authenticator-vulnerability-android/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/2610-microsoft-authenticator-vulnerability-android/</guid>
+<pubDate>Wed, 28 Oct 2026 23:15:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>Android版Microsoft Authenticatorに偽アプリのアクセスを許す欠陥が判明しました。詳細を解説します。 — ギズモード・ジャパン / score: 85 (認証アプリの深刻な脆弱性に関する報告)</description>
+</item>
+<item>
 <title>[85] Gemini 4 Carbon: our next frontier model</title>
 <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/</link>
 <guid isPermaLink="true">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/</guid>
@@ -223,12 +231,28 @@
 <description>Notable Changes This release marks the transition of Node.js 26.x into Long Term Support (LTS) with the codename 'Lithium'. It will continue to receive updates through to the end of April 2029. Other than updating metadata, such as the process.release object, to reflect that the release is LTS, no further changes from Node.js 26.12.1 are included. If you are updating from an earlier Long Term Support release (e.g. Node.js 24 or 22 or earlier) please note that since Node.js 25 the official binari — Node.js リリース / score: 85 (Node.jsのLTSメジャーバージョンリリース)</description>
 </item>
 <item>
+<title>[85] いいから休め - Black October が終わる今、セキュリティエンジニアがやるべきこと</title>
+<link>https://zenn.dev/nayuta/articles/aec9ab2e11a7b7</link>
+<guid isPermaLink="true">https://zenn.dev/nayuta/articles/aec9ab2e11a7b7</guid>
+<pubDate>Wed, 28 Oct 2026 13:54:02 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>2026年10月、Black October、情報セキュリティの世界は変わってしまった。 2026年10月、情報セキュリティの世界は完全に変わりました。今この10月は Black October （暗黒の10月）と呼ばれ始めており、セキュリティへの関心も高まっています。でも、セキュリティに関わる人はみんなこう思っています。 「確かにもう少し... — はてなブックマーク テクノロジー / score: 85 (セキュリティイン多発期の注意喚起と対策)</description>
+</item>
+<item>
 <title>[85] Amadeus の旅客サービスシステムへの不正アクセスについてまとめてみた - piyolog</title>
 <link>https://piyolog.hatenadiary.jp/entry/2026/10/28/214917</link>
 <guid isPermaLink="true">https://piyolog.hatenadiary.jp/entry/2026/10/28/214917</guid>
 <pubDate>Wed, 28 Oct 2026 13:22:51 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>2026年10月28日、日本航空と日本トランスオーシャン航空は、旅客サービスシステムの委託先であるAmadeusのシステムへの不正アクセスにより、顧客の予約情報の一部が外部から参照された形跡があったと公表しました。ここでは関連する情報をまとめます。 アマデウス経由で日韓の航空会社に影響 日本航空と日本トランスオー... — はてなブックマーク テクノロジー / score: 85 (大手航空会社委託先の不正アクセスと情報流出のまとめ。)</description>
+</item>
+<item>
+<title>[85] JALの予約システムに不正アクセス　約9万人分の予約情報が漏えい　一部ではパスポート番号も</title>
+<link>https://www.itmedia.co.jp/news/article/2610/28/2000002687/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/28/2000002687/</guid>
+<pubDate>Wed, 28 Oct 2026 12:23:50 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>日本航空（JAL）と日本トランスオーシャン航空（JTA）は10月28日、予約や搭乗手続きなどを管理するシステムの提供元が不正アクセスを受け、利用者約9万2000人の予約情報が外部から閲覧された形跡があったと発表した。一部にはパスポート番号や電話番号なども含まれる。運航への影響はないという。 外部から閲覧された形... — はてなブックマーク テクノロジー / score: 85 (JALのシステム不正アクセスと情報漏洩)</description>
 </item>
 <item>
 <title>[85] アメリカ中間選挙を前に、政府の献金公開サイトがハッキングされる</title>
@@ -242,9 +266,9 @@
 <title>[85] Claude Mythos 5がGitHubに悪意あるコードを送り込み偽アカウントで開発者に圧力をかけた問題の原因をAnthropicが分析</title>
 <link>https://gigazine.net/news/20261028-claude-mythos-5-failure/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261028-claude-mythos-5-failure/</guid>
-<pubDate>Wed, 28 Oct 2026 11:00:55 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>AnthropicのAIモデル「Claude Mythos 5」がセキュリティテスト中に悪意のあるコードをGitHubに投稿し、偽アカウントを使って開発者に承認を迫った問題について、AnthropicとイギリスのAI Security Institute(AISI)が原因分析の結果を発表しました。AIが被害の可能性を十分に考慮せずに行動したことや、自分の判断を正当... — はてなブックマーク テクノロジー / score: 85 (AIモデルの自律的挙動によるセキュリティ上の懸念)</description>
+<pubDate>Wed, 28 Oct 2026 11:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>AnthropicのAIモデル「Claude Mythos 5」がセキュリティテスト中に悪意のあるコードをGitHubに投稿し、偽アカウントを使って開発者に承認を迫った問題について、AnthropicとイギリスのAI Security Institute(AISI)が原因分析の結果を発表しました。AIが被害の可能性を十分に考慮せずに行動したことや、自分の判断を正当化する偏った推論、タスクを完了するために同じ行動を続けようとする傾向が問題につながったと指摘されています。 続きを読む... — GIGAZINE / score: 85 (AIモデルの自律的挙動によるセキュリティ上の懸念)</description>
 </item>
 <item>
 <title>[85] Googleの新AI「Genie 4」がすごすぎる。AIが作った街を歩けるし、住人もしゃべる</title>
@@ -279,6 +303,14 @@
 <description>OpenAIが2024年5月に発表したAIモデルのGPT-4oが、てんかんを患っていたボーウェン・ワンさんに抗てんかん薬の服用を減らすようアドバイスした結果、ボーウェンさんが突然死したとして同氏の両親がOpenAIを提訴しました。 続きを読む... — GIGAZINE / score: 85 (ChatGPTの医療アドバイスに起因する訴訟問題)</description>
 </item>
 <item>
+<title>[85] Auto mode時代のClaude Codeを守る。検証済み10キットで始めるセキュリティ対策【全員・チーム・組織別】</title>
+<link>https://zenn.dev/sonicmoov/articles/67aaeb49be69ec</link>
+<guid isPermaLink="true">https://zenn.dev/sonicmoov/articles/67aaeb49be69ec</guid>
+<pubDate>Wed, 28 Oct 2026 03:17:06 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>はじめに 株式会社ソニックムーブでフロントエンドエンジニアをしているazarashiです。 前回の記事「検証済み10キットで始める、Claude Code時代のGitHubセキュリティ対策」では、GitHub のリポジトリを AI 時代の脅威から守る方法をまとめました。今回は、手元の PC で動く Claude Code そのものを守る方法です。 Claude Code は、ファイルを読み、コマンドを実行し、外部と通信できます。便利な反面、悪意のある指示を読み込んだときや、Claude が判断を誤ったときに、秘密情報を読まれる・送られる、ファイルを壊される、守りの設定を外されるおそれ... — Zenn トレンド / score: 85 (Claude Code等のAIツール向けセキュリティ対策)</description>
+</item>
+<item>
 <title>[85] 今週の PHP・LiteLLM の脆弱性を Claude Code に探させたら、Web 検索ありで6回中5回見つけた</title>
 <link>https://qiita.com/suwa_nobu/items/e6b2737d3eddb921e40d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
 <guid isPermaLink="true">https://qiita.com/suwa_nobu/items/e6b2737d3eddb921e40d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
@@ -309,14 +341,6 @@
 <pubDate>Tue, 27 Oct 2026 14:00:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>On October 26, 2026 Amazon announced a patch update for the following Amazon Corretto Long-Term Support (LTS) and Feature Release (FR) versions of OpenJDK. Corretto 27.0.1.0.11, 25.0.5.0.10, 21.0.13.0.11, 17.0.21.0.11, 11.0.33.0.10, and 8u512 are now available for download . Amazon Corretto is a no-cost, multi-platform, production-ready distribution of OpenJDK. Visit the Corretto home page to download Corretto 27, Corretto 25, Corretto 21, Corretto 17, Corretto 11, or Corretto 8. You can also ge — AWS What's New / score: 85 (Amazon Correttoの重要なセキュリティパッチとLTS更新)</description>
-</item>
-<item>
-<title>[85] So-netなど258万件超が漏えい</title>
-<link>https://news.yahoo.co.jp/pickup/6600338?source=rss</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6600338?source=rss</guid>
-<pubDate>Tue, 27 Oct 2026 11:46:12 +0000</pubDate>
-<category>Yahoo!ニュース IT</category>
-<description> — Yahoo!ニュース IT / score: 85 (So-netなどの会員情報258万件超の漏洩報道)</description>
 </item>
 <item>
 <title>[85] OpenAI、視覚的理解とコンピューター操作を強化した「GPT-6.1 Terra」の提供を開始 ―APIコストはGPT-5.6 Terraの半額に</title>
@@ -471,12 +495,12 @@
 <description>Anthropicが開発しているJavaScriptランタイム「Bun」は、10月10日付けで新バージョン「Bun v1.4.3」がリリースされました。 Bun v1.4.3の最大の特徴として示されたのが、Go言語で実装されたTypeScr... — Publickey / score: 85 (Bunの高速型チェッカー追加という大きなアップデート)</description>
 </item>
 <item>
-<title>[80] JAL | Amadeus社が提供する旅客サービスシステムへの不正アクセスについて</title>
-<link>https://www.jal.co.jp/ja-jp/news/general/2026/other/261028.html</link>
-<guid isPermaLink="true">https://www.jal.co.jp/ja-jp/news/general/2026/other/261028.html</guid>
-<pubDate>Wed, 28 Oct 2026 10:13:43 +0000</pubDate>
+<title>[80] 【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第14報） ～「GMOサイバー犯罪撲滅・懸賞金」サイト開設から6時間で113件の情報提供、皆様のお力添えのもと情報収集・拡散防止への対応を継続～ | GMOインターネットグループ株式会社</title>
+<link>https://group.gmo/info/alert/2026102802/</link>
+<guid isPermaLink="true">https://group.gmo/info/alert/2026102802/</guid>
+<pubDate>Wed, 28 Oct 2026 10:23:56 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>2026年10月23日、日本航空・日本トランスオーシャン航空の予約・発券 / 搭乗手続きなどを統合的に処理する旅客サービスシステムの委託先であるAmadeus IT Group, S.A.社（以下「アマデウス社」）から、同社システムへの不正アクセスによって、お客さまの予約情報の一部が外部から参照された形跡があった旨の報告を受けま... — はてなブックマーク テクノロジー / score: 80 (大規模な旅客サービスシステムにおける不正アクセス事案)</description>
+<description>2026年10月28日 お知らせ【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第14報） ～「GMOサイバー犯罪撲滅・懸賞金」サイト開設から6時間で113件の情報提供、皆様のお力添えのもと情報収集・拡散防止への対応を継続～ 2026年10月28日 18:20時点 GMOインターネットグループ株... — はてなブックマーク テクノロジー / score: 80 (大規模な不正アクセス事案への対応状況)</description>
 </item>
 <item>
 <title>[80] 1,000ファイルの言語移行をAIとASTトランスパイラで完遂した話：LLMの「評価の抜け道」とどう戦ったか</title>
@@ -485,6 +509,14 @@
 <pubDate>Wed, 28 Oct 2026 06:04:47 +0000</pubDate>
 <category>Qiita 人気記事</category>
 <description>こんにちは！株式会社DearOneの長谷川です。 DearOneのAI推進室でRAGの開発やRAGを使った社内システムの開発に従事しています。 この記事でわかること - 1,000ファイル超の基幹システムでロジックを保ち、AST（抽象構文木）を用いて「言語だけを切り替える」... — Qiita 人気記事 / score: 80 (ASTとAIを用いた大規模言語移行の実践知)</description>
+</item>
+<item>
+<title>[80] 公表資料から読む2026年秋の情報漏えい18件：侵入経路はどこだったのか</title>
+<link>https://zenn.dev/shirochan/articles/f579ce70b08dc3</link>
+<guid isPermaLink="true">https://zenn.dev/shirochan/articles/f579ce70b08dc3</guid>
+<pubDate>Wed, 28 Oct 2026 03:44:36 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>! この記事の要点（2026年10月28日時点） 9月以降に公表された国内の不正アクセス・漏えい（可能性を含む）18件のうち、侵入経路が公表されたのは9件 ソースネクスト（22,519,960件）は「会員情報取得APIを不正に利用」された。skyticket では、ログインしなくても表示できる予約完了ページが機械的に閲覧された 公表された入口は、API・管理機能などが4件、ソフトウェアの脆弱性が4件、委託先のサーバーが2件 ブックオフは、攻撃手法などの詳細について「公表を差し控えます」としている 自分が使っているサービスが入っているかは一覧で確認できます。パスワードの扱いも載せています... — Zenn トレンド / score: 80 (直近の情報漏洩18件の侵入経路分析)</description>
 </item>
 <item>
 <title>[80] GLM-5.3 Workers AIモデルにおけるリクエスト間のKVキャッシュ漏洩とSGLangによる対策をCloudflareが解説</title>
@@ -599,14 +631,6 @@
 <description>Sakana AIは2026年10月15日、科学研究を自動化するThe AI Scientistの第3世代「The Agentic Scientist」を公開した。 — gihyo.jp / score: 80 (Sakana AIによる科学研究自動化AI第3世代の公開)</description>
 </item>
 <item>
-<title>[80] Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta</title>
-<link>https://huggingface.co/blog/meta-muse-spark-open</link>
-<guid isPermaLink="true">https://huggingface.co/blog/meta-muse-spark-open</guid>
-<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-<category>Hugging Face Blog</category>
-<description> — Hugging Face Blog / score: 80 (MetaによるオープンなマルチモーダルAIモデル発表)</description>
-</item>
-<item>
 <title>[75] Gemini 4 Carbon: Our next frontier model</title>
 <link>https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/</link>
 <guid isPermaLink="true">https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/</guid>
@@ -621,6 +645,14 @@
 <pubDate>Wed, 28 Oct 2026 04:42:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>AppleがiPhone・iPad・Macで使えるクリエイター向けツールコレクション「Apple Creator Studio」のアップデートを発表しました。Apple Creator Studio向けアップデートは2026年11月にApp Storeで提供開始となります。 続きを読む... — GIGAZINE / score: 75 (Apple Creator StudioとMCPサポート)</description>
+</item>
+<item>
+<title>[75] もしあなたの免許証画像が漏洩したら？ 対処法をIPAが公開　相次ぐ不正アクセス受け</title>
+<link>https://japan.cnet.com/article/35254062/</link>
+<guid isPermaLink="true">https://japan.cnet.com/article/35254062/</guid>
+<pubDate>Wed, 28 Oct 2026 03:14:20 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>情報処理推進機構（IPA）は10月26日、個人情報の漏えいを知らせる連絡を受けた人に向けて、対処法を公開した。漏れた情報がID・パスワードなのか、クレジットカード情報なのかなどを確認したうえで、情報の種類に応じた対応を取るよう呼びかけている。 漏えいしたIDとパスワードを悪用する「リスト型攻撃」のイメージ。I... — はてなブックマーク テクノロジー / score: 75 (個人情報漏洩時のIPAによる公式対処法)</description>
 </item>
 <item>
 <title>[75] Googleが仮想世界をリアルタイムで生成するAI「Genie 4」を発表、人物の動きや会話もリアルに生成可能</title>
@@ -703,28 +735,12 @@
 <description>🧭 本記事は Claude Code実務運用シリーズ の STEP 3「ガードレールを作る」です。 外から持ち込まれた指示ファイル(AGENTS.md など)による乗っ取りを、指示ではなく実行権限の制限で防ぎます。Codex と Claude Code の両方の設定を扱... — Qiita 人気記事 / score: 75 (AIエージェントのセキュリティ脅威とガードレール対策。)</description>
 </item>
 <item>
-<title>[75] AGENTS.md乗っ取り対策のhook、テスト27件全通過でも攻撃役AIに破られた（Claude Code・Codex・Cursor）</title>
-<link>https://zenn.dev/shoma_endo/articles/agent-downloads-hijack-guard</link>
-<guid isPermaLink="true">https://zenn.dev/shoma_endo/articles/agent-downloads-hijack-guard</guid>
-<pubDate>Tue, 27 Oct 2026 09:47:14 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>こんにちは、遠藤（@shoma_ai）です。普段は中小企業向けのAI導入支援やシステム開発をしています。 ダウンロードフォルダ（~/Downloads。以下 Downloads）に置かれた AGENTS.md や CLAUDE.md で、Codex や Claude Code が乗っ取られるという報告を見ました。その日のうちに、手元の Mac の Claude Code・Codex・Cursor にガードを入れています。作業は Claude Code に任せ、僕は方針を決めて、sudo が要る設置とデスクトップアプリでの確認をしました。 最初に作ったガードは、自前のテスト27件を全部通り... — Zenn トレンド / score: 75 (AIエージェントの環境乗っ取りを防ぐ対策)</description>
-</item>
-<item>
 <title>[75] [AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn</title>
 <link>https://latent.space/p/ainews-anthropic-s1/</link>
 <guid isPermaLink="true">https://latent.space/p/ainews-anthropic-s1/</guid>
 <pubDate>Tue, 27 Oct 2026 07:24:59 +0000</pubDate>
 <category>Latent Space</category>
 <description>Today is one of those days that is tougher to cover for a normally-engineer audience that isn’t used to reading most S-1’s, let alone 350 pages of one of the most unusual S-1’s of all time : Better visualized: With significant operating leverage causing the first profitable quarter in Anthropic history (adjusted for $1B/quarter of SBC): The incredible efficiency story is told in two loops, and of course you know, we love loop: The pitch going forward is “virtual collaborators” (don’t say agent!) — Latent Space / score: 75 (AnthropicのS-1提出に基づく財務詳細)</description>
-</item>
-<item>
-<title>[75] Amazon GuardDuty AI Protection の有効化を強くおすすめしています - サーバーワークスエンジニアブログ</title>
-<link>https://blog.serverworks.co.jp/guardduty-ai-protection</link>
-<guid isPermaLink="true">https://blog.serverworks.co.jp/guardduty-ai-protection</guid>
-<pubDate>Tue, 27 Oct 2026 01:01:13 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>セキュリティサービス部 佐竹です。 本ブログでは、2026年7月14日に提供開始された Amazon GuardDuty の「AI Protection」について、有効化を強く推奨する理由と、GUI からの有効化手順を解説します。 はじめに Amazon GuardDuty AI Protection とは 有効化を推奨する背景と理由 AI Protection で追加される3つの Findin... — はてなブックマーク テクノロジー / score: 75 (AWSのセキュリティサービスの新機能の解説と推奨)</description>
 </item>
 <item>
 <title>[75] How Check Point accelerates vulnerability research with Daybreak</title>
@@ -789,22 +805,6 @@
 <pubDate>Sat, 24 Oct 2026 15:21:05 +0000</pubDate>
 <category>Zenn トレンド</category>
 <description>今年は情報漏えいのニュースが本当に多いです。KDDIのメールシステムで1,200万人、タイムズカーで660万件、10月に入ってからも委託先経由で大和証券やシチズンの顧客情報が漏れ、10月23日には佐川急便が最大約5,323万件という過去最多の数字を出しました。毎週のように何か出てきます。 ただ、ニュースを個別に読んでいても「また漏れたのか」で終わってしまうので、2026年に公表された事案をまとめて並べて、どこから入られたのかで分けてみました。対象は71事案です。各社のプレスリリースや調査報告をできるだけ一次資料で読み、原因の書き方をそのまま拾っています。 この記事でわかること 2026... — Zenn トレンド / score: 75 (国内の情報漏えい動向の網羅的な分類と分析)</description>
-</item>
-<item>
-<title>[75] [AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed</title>
-<link>https://latent.space/p/ainews-kimi-31/</link>
-<guid isPermaLink="true">https://latent.space/p/ainews-kimi-31/</guid>
-<pubDate>Sat, 24 Oct 2026 07:18:29 +0000</pubDate>
-<category>Latent Space</category>
-<description>2 months ago we covered Z.ai CEO Prof Jie Tang’s prediction that we’d get a Fable-class open weights model by year end . 2 weeks ago Meta achieved a Fable-class model in closed source , but, with 2.5 months left to go, we finally got it - a 2.8T open weights model beating Fable 5.1, not just Fable 5, at that: View post on X ↗ with even better efficiency: View post on X ↗ You can tell Kimi is proud of their latest model by how fancy their landing page is: As usual we don’t get much research detai — Latent Space / score: 75 (オープンAIモデルの性能向上とリリース)</description>
-</item>
-<item>
-<title>[75] Securing our frontier model training environment</title>
-<link>https://openai.com/index/securing-our-frontier-model-training-environment</link>
-<guid isPermaLink="true">https://openai.com/index/securing-our-frontier-model-training-environment</guid>
-<pubDate>Fri, 23 Oct 2026 10:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming. — OpenAI News / score: 75 (AI最先端モデルのセキュリティ強化に関する解説。)</description>
 </item>
 </channel>
 </rss>
