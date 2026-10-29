@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 29 Oct 2026 14:08:14 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 16:08:12 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 【PHP2Shell】PHP公式の発表『本日のセキュリティリリースと、セキュリティ対策について』</title>
@@ -85,6 +85,14 @@
 <pubDate>Thu, 29 Oct 2026 04:40:11 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>フィギュアメーカー大手・グッドスマイルカンパニーが10月29日（木）、公式オンラインショップへの不正アクセスについて第3報を発表した。 調査の結果、クレジットカード決済ページに不正なプログラムが設置されていたことが判明。 2026年10月21日13時55分から23日7時までに同ページを利用した可能性のある2800人につい... — はてなブックマーク テクノロジー / score: 90 (クレジット情報流出に関する重大なセキュリティ事故)</description>
+</item>
+<item>
+<title>[90] CVE-2026-98432 | Ubuntu</title>
+<link>https://ubuntu.com/security/CVE-2026-98432</link>
+<guid isPermaLink="true">https://ubuntu.com/security/CVE-2026-98432</guid>
+<pubDate>Thu, 29 Oct 2026 04:39:46 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Description In the Linux kernel, the following vulnerability has been resolved: ipv4: free inet_opt and ireq_opt after an RCU grace period tcp_v4_syn_recv_sock() transfers ownership of ireq-&gt;ireq_opt to the child socket (newinet-&gt;inet_opt) without copying it. Another cpu can concurrently process ... — はてなブックマーク テクノロジー / score: 90 (LinuxカーネルおよびUbuntuの重要な脆弱性修正)</description>
 </item>
 <item>
 <title>[90] 「WordPress 7.1.4」が公開、リモートコード実行や多数のXSSを修正／「eMudhra」問題を受けたルート証明書の更新も、速やかなアップデートを</title>
@@ -205,6 +213,14 @@
 <pubDate>Mon, 26 Oct 2026 22:51:53 +0000</pubDate>
 <category>窓の杜</category>
 <description>米OpenAIは10月26日（現地時間）、新しいAIモデル「GPT-6.1 Terra」を発表した。7月に発表された「GPT-5.6 Terra」以来のアップデートで、「Terra」シリーズとしては初の「GPT-6.x」モデルとなる。 — 窓の杜 / score: 88 (OpenAIの新モデルGPT-6.1 Terra発表)</description>
+</item>
+<item>
+<title>[85] 不正アクセスによる漏えい人数、半年余りでのべ2億6000万人に　日本人口の2倍超</title>
+<link>https://www.itmedia.co.jp/news/article/2610/29/2000002730/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/29/2000002730/</guid>
+<pubDate>Thu, 29 Oct 2026 10:29:00 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>個人情報保護委員会は10月28日、2026年4月1日から10月16日までに報告された不正アクセスによる個人情報の漏えい、または漏えいの恐れがある事案について、対象者数が延べ約2億6000万人だったと公表した。これは、同年10月1日時点の日本の総人口の2倍以上に相当する（総務省統計局調べ）。 同委員会が公表した資料による... — はてなブックマーク テクノロジー / score: 85 (大規模な個人情報漏えいに関する重大なセキュリティニュース)</description>
 </item>
 <item>
 <title>[85] メール配信会社「アララ」 不正アクセスで300万件のメアド流出 | NHKニュース</title>
@@ -495,14 +511,6 @@
 <description>JPCERT/CCは2026年10月15日、国内で相次ぐ不正アクセスを受けて進めている攻撃元サーバーの調査結果を公開した。 — gihyo.jp / score: 85 (API攻撃の手口と脆弱性に関する重要な注意喚起)</description>
 </item>
 <item>
-<title>[85] AnthropicのBun、TypeScript 7よりも3倍以上高速なTypeScript型チェッカーを搭載。Bunの新バージョン1.4.3で</title>
-<link>https://www.publickey1.jp/blog/26/anthropicbuntypescript_73typescriptbun143.html</link>
-<guid isPermaLink="true">https://www.publickey1.jp/blog/26/anthropicbuntypescript_73typescriptbun143.html</guid>
-<pubDate>Thu, 15 Oct 2026 15:21:12 +0000</pubDate>
-<category>Publickey</category>
-<description>Anthropicが開発しているJavaScriptランタイム「Bun」は、10月10日付けで新バージョン「Bun v1.4.3」がリリースされました。 Bun v1.4.3の最大の特徴として示されたのが、Go言語で実装されたTypeScr... — Publickey / score: 85 (Bunの高速型チェッカー追加という大きなアップデート)</description>
-</item>
-<item>
 <title>[80] Google Chromeがなりすまし対策を強化。一部の正規サイトも開けなくなるかも</title>
 <link>https://www.gizmodo.jp/article/2610-google-chrome-security-update-certificate/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/2610-google-chrome-security-update-certificate/</guid>
@@ -525,6 +533,14 @@
 <pubDate>Thu, 29 Oct 2026 05:38:02 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>大手牛丼チェーンの「松屋フーズホールディングス」は、28日夜9時ごろ不正アクセスが検知されたため、ホームページとアプリのサービスを停止し、現在利用できなくなっています。 テイクアウトの事前予約やクー… — はてなブックマーク テクノロジー / score: 80 (企業システムへの不正アクセスとサービス停止)</description>
+</item>
+<item>
+<title>[80] Prioritize Dependabot alerts with reachability analysis - GitHub Changelog</title>
+<link>https://github.blog/changelog/2026-10-28-prioritize-dependabot-alerts-with-reachability-analysis/</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-28-prioritize-dependabot-alerts-with-reachability-analysis/</guid>
+<pubDate>Wed, 28 Oct 2026 16:15:56 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Dependabot alerts can add up faster than a team can work through them. A vulnerable package in your dependency tree doesn’t always mean your code uses the vulnerable part of it, so knowing whether it does gives you more context when deciding where to start. Reachability analysis for Dependabot, n... — はてなブックマーク テクノロジー / score: 80 (GitHub Dependabotの新機能・脆弱性管理の改善)</description>
 </item>
 <item>
 <title>[80] 公表資料から読む2026年秋の情報漏えい18件：侵入経路はどこだったのか</title>
@@ -639,28 +655,20 @@
 <description>Sakana AIは2026年10月15日、科学研究を自動化するThe AI Scientistの第3世代「The Agentic Scientist」を公開した。 — gihyo.jp / score: 80 (Sakana AIによる科学研究自動化AI第3世代の公開)</description>
 </item>
 <item>
+<title>[75] Microsoft、「Copilot harness」を発表 ～「GitHub Copilot」基盤を全社共通化、プレビュー提供／「GitHub Copilot SDK」は「Microsoft Copilot SDK」に</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2152248.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2152248.html</guid>
+<pubDate>Thu, 29 Oct 2026 09:18:31 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Microsoft、「Copilot harness」を発表 ～「GitHub Copilot」基盤を全社共通化、プレビュー提供／「GitHub Copilot SDK」は「Microsoft Copilot SDK」に — はてなブックマーク テクノロジー / score: 75 (Microsoftによる開発基盤の共通化とSDK統合)</description>
+</item>
+<item>
 <title>[75] 初のタッチ対応「MacBook Pro」がついに登場。実物に触ってきたよ</title>
 <link>https://www.gizmodo.jp/article/2610-macbook-pro-touch-oled/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/2610-macbook-pro-touch-oled/</guid>
 <pubDate>Thu, 29 Oct 2026 08:30:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>初のタッチ対応ディスプレイを搭載した新型MacBook Proの実機レビューをお届けします。価格や新機能、OLEDディスプレイの魅力まで詳しく解説します。 — ギズモード・ジャパン / score: 75 (初タッチ対応MacBook Proの実機レビュー)</description>
-</item>
-<item>
-<title>[75] 今、最も使われているプログラミング言語は？　AIコーディングでPython超えて急成長</title>
-<link>https://www.itmedia.co.jp/aiplus/article/2610/29/2000002719/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2610/29/2000002719/</guid>
-<pubDate>Thu, 29 Oct 2026 07:28:10 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>最も急速に成長しているプログラミング言語は、最もAIと共に使われている言語――米Githubは10月28日（現地時間）に発表した年次レポート「GitHub Octoverse 2026」の中でこう述べ、「GitHub」で開発者が多いプログラミング言語のランキングを発表した。 それによると、「TypeScript」が年間を通してコントリビューター（... — はてなブックマーク テクノロジー / score: 75 (GitHubレポートによる言語トレンドの変化とAIの影響)</description>
-</item>
-<item>
-<title>[75] Microsoft、「Copilot harness」を発表 ～「GitHub Copilot」基盤を全社共通化、プレビュー提供／「GitHub Copilot SDK」は「Microsoft Copilot SDK」に</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2152248.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2152248.html</guid>
-<pubDate>Thu, 29 Oct 2026 07:26:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Microsoftは10月28日（現地時間）、「Microsoft Copilot harness」を発表した。傘下のGitHubで開発が進められていた「GitHub Copilot」由来のエージェント実行基盤を全社共通化したもので、「Microsoft Foundry」にてパブリックプレビューとして提供される。 — 窓の杜 / score: 75 (Microsoftによる開発基盤の共通化とSDK統合)</description>
 </item>
 <item>
 <title>[75] Google、Gemini 4 Carbonを発表 ——長時間の開発作業と脆弱性の発見・修正を強化</title>
@@ -693,14 +701,6 @@
 <pubDate>Wed, 28 Oct 2026 17:00:58 +0000</pubDate>
 <category>Google DeepMind</category>
 <description> — Google DeepMind / score: 75 (Google DeepMindの次世代基盤モデル発表)</description>
-</item>
-<item>
-<title>[75] もしあなたの免許証画像が漏洩したら？ 対処法をIPAが公開　相次ぐ不正アクセス受け</title>
-<link>https://japan.cnet.com/article/35254062/</link>
-<guid isPermaLink="true">https://japan.cnet.com/article/35254062/</guid>
-<pubDate>Wed, 28 Oct 2026 03:14:20 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>情報処理推進機構（IPA）は10月26日、個人情報の漏えいを知らせる連絡を受けた人に向けて、対処法を公開した。漏れた情報がID・パスワードなのか、クレジットカード情報なのかなどを確認したうえで、情報の種類に応じた対応を取るよう呼びかけている。 漏えいしたIDとパスワードを悪用する「リスト型攻撃」のイメージ。I... — はてなブックマーク テクノロジー / score: 75 (個人情報漏洩時のIPAによる公式対処法)</description>
 </item>
 <item>
 <title>[75] GitHub Copilotで「GPT-6.1 Terra」の一般提供を開始</title>
