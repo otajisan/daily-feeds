@@ -4,8 +4,40 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 29 Oct 2026 16:08:12 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 18:09:13 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Building a multiplayer game world with autonomous Fable-class models</title>
+<link>https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/</guid>
+<pubDate>Thu, 29 Oct 2026 17:00:26 +0000</pubDate>
+<category>Simon Willison</category>
+<description>How I Built the Most AI-Pilled Company in the World Don't be put off by the clickbait headline, this piece by Jacob Sansbury describing how they are building Spawn is a fascinating exploration of the bleeding edge of what's possible with agentic engineering against frontier models. Spawn is a massively multiplayer gaming environment where players can use prompts (to the in-game agent, Savi) to modify the game world. I fired it up on my phone for a few minutes and was able to prompt a castle into — Simon Willison / score: 60 (自律型AIモデルを活用したゲーム開発の解説)</description>
+</item>
+<item>
+<title>An updated Model Spec for more capable and beneficial AI</title>
+<link>https://openai.com/index/updated-model-spec</link>
+<guid isPermaLink="true">https://openai.com/index/updated-model-spec</guid>
+<pubDate>Thu, 29 Oct 2026 17:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent. — OpenAI News / score: 75 (AIモデルの仕様と倫理に関する公式の重要発表)</description>
+</item>
+<item>
+<title>｢PROLED XDRディスプレイ搭載MacBook Pro｣の光るAppleロゴやタッチ機能は無効化が可能な模様</title>
+<link>https://taisy0.com/2026/10/30/229702.html</link>
+<guid isPermaLink="true">https://taisy0.com/2026/10/30/229702.html</guid>
+<pubDate>Thu, 29 Oct 2026 16:32:22 +0000</pubDate>
+<category>気になる、記になる…</category>
+<description>Appleが昨日発表した「PROLED XDRディスプレイ搭載MacBook Pro」は天板のAppleロゴが10年ぶりに光ることが話題になりましたが、その光るAppleロゴは完全に光らなくすることも出来るようです。 こ […] — 気になる、記になる… / score: 35 (ハードウェアの新機能に関する噂や設定情報)</description>
+</item>
+<item>
+<title>You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.</title>
+<link>https://blog.google/innovation-and-ai/products/gemini-app/edit-files-directly/</link>
+<guid isPermaLink="true">https://blog.google/innovation-and-ai/products/gemini-app/edit-files-directly/</guid>
+<pubDate>Thu, 29 Oct 2026 16:15:00 +0000</pubDate>
+<category>Gemini (Google Blog)</category>
+<description>Generate, edit, and preview PDFs or Docs directly in Gemini. Use the new full-screen editor to refine your files today. See what's new in Gemini. — Gemini (Google Blog) / score: 65 (Geminiの新機能追加に関する公式アップデート)</description>
+</item>
 <item>
 <title>Can Frontier Models See Past a Decoy? Elorian Tests Visual Reasoning</title>
 <link>https://latent.space/p/elorian/</link>
@@ -631,6 +663,14 @@
 <description>米Googleは10月28日（現地時間）、「Gemini」アプリの新機能「Immersive explorations」（没入型探索）を発表した。さまざまなトピックを扱ったガイド付きの教材が「Student Hub」のライブラリに追加され、インタラクティブかつビジュアルに探索できる。 — 窓の杜 / score: 45 (Geminiアプリの没入型学習機能の発表)</description>
 </item>
 <item>
+<title>How we detect frontier model misalignment</title>
+<link>https://openai.com/index/how-we-detect-frontier-model-misalignment</link>
+<guid isPermaLink="true">https://openai.com/index/how-we-detect-frontier-model-misalignment</guid>
+<pubDate>Thu, 29 Oct 2026 09:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate. — OpenAI News / score: 70 (フロンティアAIの安全性監視に関する最新動向)</description>
+</item>
+<item>
 <title>たった2gのホイッスルが、さらに爆音へアップデート。しかも暗闇で発光します</title>
 <link>https://www.gizmodo.jp/article/miyagen_3d-whistle-2g/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/miyagen_3d-whistle-2g/</guid>
@@ -751,60 +791,20 @@
 <description>2026年10月28日（現地時間）、米サンフランシスコで年次イベント「GitHub Universe 2026」が開幕した。Day1の基調講演でGitHubは、複数のモデルを自動で使い分ける「Copilot Fusion」や、複数のリポジトリにまたがる作業を任せる「Copilot Projects」といった新機能、GitHub EnterpriseでのCopilot全機能の提供、そしてエージェントの大量の書き込みに耐える新しいGitアーキテクチャを示した。ステージのデモと発言を追いながら、GitHubが描く「エージェント時代のソフトウェアデリバリー」の全体像を報告する。 — CodeZine / score: 85 (大規模な開発者向けイベントでの新機能発表)</description>
 </item>
 <item>
+<title>How Ropes &amp; Gray is developing AI for transactional diligence</title>
+<link>https://openai.com/index/ropes-gray-ai-diligence</link>
+<guid isPermaLink="true">https://openai.com/index/ropes-gray-ai-diligence</guid>
+<pubDate>Thu, 29 Oct 2026 07:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>Ropes &amp; Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients. — OpenAI News / score: 40 (法務分野におけるAI活用の事例紹介)</description>
+</item>
+<item>
 <title>October 29, 2026</title>
 <link>https://docs.cloud.google.com/release-notes#October_29_2026</link>
 <guid isPermaLink="true">https://docs.cloud.google.com/release-notes#October_29_2026</guid>
 <pubDate>Thu, 29 Oct 2026 07:00:00 +0000</pubDate>
 <category>Google Cloud リリースノート</category>
 <description>Anti Money Laundering AI Announcement New minor engine version released for the retail line of business within the v004.011 version line ( aml-retail.default.v004.011.202610-000 ). This version extends support for the major engine version and includes no significant changes compared to the previous minor version. Dataflow Feature Dataflow has added the following features to tune horizontal autoscaling for Streaming Engine jobs: Latency tiers: You can configure the backlog threshold by choosing a — Google Cloud リリースノート / score: 70 (Google CloudのCloud SQL関連のアップデート)</description>
-</item>
-<item>
-<title>Samsungから初のオープンイヤー型イヤホン「Galaxy Buds On」が登場、AIで1億1900万件超の耳データを分析してあらゆる形状の耳に対応できるようデザインされたイヤホン</title>
-<link>https://gigazine.net/news/20261029-samsung-galaxy-buds-on/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261029-samsung-galaxy-buds-on/</guid>
-<pubDate>Thu, 29 Oct 2026 06:49:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>現地時間の2026年10月28日、Samsungがクリアな音声と直感的なAI体験を実現するオープンイヤー型イヤホン「Galaxy Buds On」のアメリカでの発売が発表されました。 続きを読む... — GIGAZINE / score: 30 (AIを活用したコンシューマー向けイヤホンの発売)</description>
-</item>
-<item>
-<title>Firefox の Intl.Segmenter で「メロス」を「彼」にすると「した」が文字扱いされなくなる - id:onk のはてなブログ</title>
-<link>https://onk.hatenablog.jp/entry/2026/10/29/151858</link>
-<guid isPermaLink="true">https://onk.hatenablog.jp/entry/2026/10/29/151858</guid>
-<pubDate>Thu, 29 Oct 2026 06:48:37 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>const segmenter = new Intl.Segmenter(undefined, { granularity: "word" }); console.table([...segmenter.segment("メロスは激怒した。")]); console.table([...segmenter.segment("彼は激怒した。")]); (index) segment index input isWordLike 0 メロス 0 メロスは激怒した。 true 1 は 3 メロスは激怒した。 true ... — はてなブックマーク テクノロジー / score: 45 (JavaScriptの仕様に関する技術解説)</description>
-</item>
-<item>
-<title>Android XRを搭載したGoogleの有線XRグラス「Xreal Aura」が登場、日本でも11月2日から注文受付開始</title>
-<link>https://gigazine.net/news/20261029-xreal-aura/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261029-xreal-aura/</guid>
-<pubDate>Thu, 29 Oct 2026 06:26:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>携帯型演算端末に有線接続して使うXRグラス「XREAL AURA」が、GoogleとXREAL、Qualcommにより共同開発されました。日本でも発売予定です。 続きを読む... — GIGAZINE / score: 55 (Android XRを搭載した新しいXRグラスの登場)</description>
-</item>
-<item>
-<title>四足歩行モビリティ 実用化の壁</title>
-<link>https://news.yahoo.co.jp/pickup/6600552?source=rss</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6600552?source=rss</guid>
-<pubDate>Thu, 29 Oct 2026 06:22:10 +0000</pubDate>
-<category>Yahoo!ニュース IT</category>
-<description> — Yahoo!ニュース IT / score: 25 (ロボティクスの実用化に関する一般向けニュース)</description>
-</item>
-<item>
-<title>グッスマ、顧客の2800人のカード番号全16桁＋セキュリティコードなど流出か　下4桁は40万枚分</title>
-<link>https://www.itmedia.co.jp/news/article/2610/29/2000002716/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/29/2000002716/</guid>
-<pubDate>Thu, 29 Oct 2026 06:15:08 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>キャラクターフィギュアなどの企画・販売を手掛けるグッドスマイルカンパニー（千代田区）は10月29日、直販サイトが不正アクセスを受け、顧客2800人のカード名義人名、カード番号（全16桁）、有効期限、セキュリティコードが漏えいした可能性があると発表した。 また、同サイトにカード情報を登録したことがある顧客のカ... — はてなブックマーク テクノロジー / score: 90 (重大な個人情報流出・不正アクセスの事例)</description>
-</item>
-<item>
-<title>「Windows セキュリティ」アプリのデザインが刷新、Windows 11と統一感のある見た目に／まずは「Windows Insider Program」の参加者に向けて展開</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2152093.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2152093.html</guid>
-<pubDate>Thu, 29 Oct 2026 06:02:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Microsoftは10月23日（現地時間）、「Windows セキュリティ」アプリのデザイン刷新を発表した。執筆時現在、v1000.29680.0.1000が「Windows Insider Program」の参加者に向けて展開中だ。 — 窓の杜 / score: 40 (Windowsセキュリティアプリのデザイン刷新)</description>
 </item>
 </channel>
 </rss>
