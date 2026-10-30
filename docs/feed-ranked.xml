@@ -4,8 +4,16 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 30 Oct 2026 02:09:41 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 04:08:25 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>[98] Linuxに深刻度9.8の脆弱性、認証なしでroot権限奪取　AnthropicのAIが攻撃を実証</title>
+<link>https://ascii.jp/elem/000/004/447/4447103/</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/447/4447103/</guid>
+<pubDate>Fri, 30 Oct 2026 01:29:33 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Anthropicは10月27日、Linuxカーネルの脆弱性「CVE-2026-98432」を悪用し、遠隔から管理者権限でコマンドを実行する攻撃を実証したと発表した。脆弱性の深刻度は最高10点中9.8と評価されている。 LinuxカーネルのIPv4通信処理に問題があった。TCP接続の処理中、既に解放されたメモリーを参照してしまう「use-after-free... — はてなブックマーク テクノロジー / score: 98 (Linuxカーネルの深刻なリモートコード実行脆弱性)</description>
+</item>
 <item>
 <title>[98] Linuxカーネルに重大な脆弱性「CVE-2026-98432」、CVSS 9.8 Claudeが遠隔root権限実行を実証|セキュリティニュースのセキュリティ対策Lab</title>
 <link>https://rocket-boys.co.jp/security-measures-lab/linux_kernel_cve_2026_98432_ubuntu_anthropic_20261030/</link>
@@ -15,12 +23,12 @@
 <description>LinuxカーネルのIPv4ネットワーク処理に、遠隔からの悪用につながるUse-After-Free（解放済みメモリの再利用）の脆弱性「CVE-2026-98432」が確認されました。Canonicalが2026年10月15日に公開し、28日に更新したUbuntuの脆弱性情報では、CVSS v3.1の基本値は9.8（Critical）、Ubuntu独自の優先度は「High」と評価されて... — はてなブックマーク テクノロジー / score: 98 (Linuxカーネルの遠隔root権限実行可能な重大脆弱性)</description>
 </item>
 <item>
-<title>[95] Linuxに深刻度9.8の脆弱性、認証なしでroot権限奪取　AnthropicのAIが攻撃を実証</title>
-<link>https://ascii.jp/elem/000/004/447/4447103/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/447/4447103/?rss</guid>
-<pubDate>Fri, 30 Oct 2026 01:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>Anthropicは10月27日、Linuxカーネルの脆弱性「CVE-2026-98432」を悪用し、遠隔から管理者権限でコマンドを実行する攻撃を実証したと発表した。 — ASCII.jp / score: 95 (Linuxの重大な脆弱性とAIによる攻撃実証)</description>
+<title>[95] 「Google Chrome」に21件の脆弱性、修正版が公開 ～「Critical」1件を含む／Windows/Mac向けはv156.0.8078.79/.80、Linux向けはv156.0.8078.79</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2152458.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2152458.html</guid>
+<pubDate>Fri, 30 Oct 2026 02:48:26 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Googleは10月29日（現地時間）、デスクトップ向け「Google Chrome」の安定（Stable）チャネルをアップデートした。今後数日から数週間をかけて、Windows/Mac環境にはv156.0.8078.79/.80、Linux環境にはv156.0.8078.79が展開される。 — 窓の杜 / score: 95 (主要ブラウザのCritical含む多数の脆弱性修正)</description>
 </item>
 <item>
 <title>[95] Python 3.15.2, 3.14.10, 3.13.18, 3.12.16 and 3.11.18 are out</title>
@@ -29,14 +37,6 @@
 <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
 <category>Python Insider</category>
 <description>Five expedited security releases to distrust the compromised eMudhra intermediate CA keys. — Python Insider / score: 95 (証明書漏洩対応のためのPython複数バージョンの緊急修正)</description>
-</item>
-<item>
-<title>[95] Googleの圧縮形式「Brotli」に深刻な脆弱性「HTTP2Shell」、Web関連に幅広く影響【16時40分追記】／OpenAIが発見した「Node2Shell」の影響が拡大、認証なしでリモートコード実行のおそれ</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2151000.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2151000.html</guid>
-<pubDate>Sun, 25 Oct 2026 22:46:05 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Googleのデータ圧縮アルゴリズム「Brotli」のC言語実装で、認証なしにリモートからメモリを破壊できる深刻な脆弱性「CVE-2026-111497」が発見された。当初、米OpenAIによって「Node.js」の問題として報告されたこともあり 「Node2Shell」 と呼ばれていたが、のちの調査でHTTPを扱うさまざまなライブラリやアプリにも影響が及ぶことが判明。セキュリティ企業のAikido Securityなどが 「HTTP2Shell」 という呼称を用い始めている。 — 窓の杜 / score: 95 (Brotliの深刻な脆弱性とRCEの危険性)</description>
 </item>
 <item>
 <title>[95] [AINews] OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months</title>
@@ -79,6 +79,14 @@
 <description>悪意のある攻撃者がLinuxの仮想マシンを不正に操作することで、仮想マシンの境界を抜けてホスト側のLinux OSで不正なコードを実行できる可能性がある脆弱性「PwnEscape」（CVE-2026-99999）の情報が公開されています。 ... — Publickey / score: 95 (Linuxカーネルの深刻な脆弱性の報告)</description>
 </item>
 <item>
+<title>[90] 9900億円相当の仮想通貨が盗まれたと仮想通貨取引所のBinanceが認める、侵入経路はエンジニアのノートPCか</title>
+<link>https://gigazine.net/news/20261030-binance-pauses-withdrawals-hackers-stealing-crypto/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261030-binance-pauses-withdrawals-hackers-stealing-crypto/</guid>
+<pubDate>Fri, 30 Oct 2026 02:19:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>世界最大級の仮想通貨取引所であるBinanceが、関連ウォレットから資金が流出しているというユーザーからの報告を受け、出金処理を一時停止していることが明らかになりました。 続きを読む... — GIGAZINE / score: 90 (巨大暗号資産取引所における大規模な資金流出)</description>
+</item>
+<item>
 <title>[90] AndroidにSMSを送りつけるだけで通話を切断できる脆弱性が判明、緊急通報にも影響</title>
 <link>https://gigazine.net/news/20261030-sms-of-death/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261030-sms-of-death/</guid>
@@ -93,14 +101,6 @@
 <pubDate>Thu, 29 Oct 2026 22:00:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>2026年10月28日にインドのデジタルセキュリティ企業「eMudhra」が公表した情報によると、AppleがmacOSに同梱しているgit・curl・python3などのデベロッパーツールは、侵害されたeMudhra証明書を依然として信頼している状態であるとのことです。 続きを読む... — GIGAZINE / score: 90 (Apple製開発ツールにおける証明書信頼の脆弱性)</description>
-</item>
-<item>
-<title>[90] CVE-2026-98432 | Ubuntu</title>
-<link>https://ubuntu.com/security/CVE-2026-98432</link>
-<guid isPermaLink="true">https://ubuntu.com/security/CVE-2026-98432</guid>
-<pubDate>Thu, 29 Oct 2026 04:39:46 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Description In the Linux kernel, the following vulnerability has been resolved: ipv4: free inet_opt and ireq_opt after an RCU grace period tcp_v4_syn_recv_sock() transfers ownership of ireq-&gt;ireq_opt to the child socket (newinet-&gt;inet_opt) without copying it. Another cpu can concurrently process ... — はてなブックマーク テクノロジー / score: 90 (LinuxカーネルおよびUbuntuの重要な脆弱性修正)</description>
 </item>
 <item>
 <title>[90] 「WordPress 7.1.4」が公開、リモートコード実行や多数のXSSを修正／「eMudhra」問題を受けたルート証明書の更新も、速やかなアップデートを</title>
@@ -223,20 +223,20 @@
 <description>米OpenAIは10月26日（現地時間）、新しいAIモデル「GPT-6.1 Terra」を発表した。7月に発表された「GPT-5.6 Terra」以来のアップデートで、「Terra」シリーズとしては初の「GPT-6.x」モデルとなる。 — 窓の杜 / score: 88 (OpenAIの新モデルGPT-6.1 Terra発表)</description>
 </item>
 <item>
-<title>[85] Binanceで最大9000億円相当の不審な資金移動か　暗号資産の入出金を一時停止</title>
-<link>https://ascii.jp/elem/000/004/447/4447104/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/447/4447104/?rss</guid>
-<pubDate>Fri, 30 Oct 2026 01:30:00 +0000</pubDate>
+<title>[85] ヤクルト、約4万件の情報漏えい　不正アクセスで</title>
+<link>https://ascii.jp/elem/000/004/447/4447238/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/447/4447238/?rss</guid>
+<pubDate>Fri, 30 Oct 2026 03:40:00 +0000</pubDate>
 <category>ASCII.jp</category>
-<description>Binanceは10月29日、潜在的なセキュリティ上の問題を調査していると明らかにした。 — ASCII.jp / score: 85 (大手暗号資産取引所のセキュリティ調査問題)</description>
+<description>ヤクルト本社のホームページ（HP）が不正アクセスを受けた問題で、同社は10月30日、第2報として被害状況を公表した。 — ASCII.jp / score: 85 (企業における実害を伴う大規模な情報漏えい事故)</description>
 </item>
 <item>
-<title>[85] 「ジンジャー福利厚生」お問い合わせフォームの送信情報が流出した可能性に関するお詫びとお知らせ</title>
-<link>https://ascii.jp/elem/000/004/447/4447118/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/447/4447118/?rss</guid>
-<pubDate>Fri, 30 Oct 2026 00:32:30 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>「ジンジャー福利厚生」お問い合わせフォームの送信情報が流出した可能性に関するお詫びとお知らせ — ASCII.jp / score: 85 (情報流出の可能性に関するセキュリティインシデント)</description>
+<title>[85] アメリカ当局がNVIDIAのフアンCEOと親しいデータセンター企業幹部を中国のスパイだと断定</title>
+<link>https://gigazine.net/news/20261030-jensen-huang-targeted-chinese-spy/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261030-jensen-huang-targeted-chinese-spy/</guid>
+<pubDate>Fri, 30 Oct 2026 02:12:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>「NVIDIA製のAIチップを中国に横流ししている」という疑いのあるシンガポールの企業の幹部が、中国のスパイであり、中国政府に情報を流していたとアメリカの諜報機関が結論付けていたことがわかりました。この人物はNVIDIAのジェンスン・フアンCEOと親しく、フアンCEOがスパイの標的になっていた可能性が大きいとみられます。 続きを読む... — GIGAZINE / score: 85 (AI半導体業界の巨人に絡む地政学・スパイ事件)</description>
 </item>
 <item>
 <title>[85] 「ダウンロード」フォルダに「AI指示書」（.md）を置かないで--CodexやClaude Codeを操る攻撃</title>
@@ -253,22 +253,6 @@
 <pubDate>Thu, 29 Oct 2026 13:06:34 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>1週間以上メンテだった『神撃のバハムート』、「PHP脆弱性」対応が無事完了。“複数世代にわたる大幅なバージョンアップ”を経て、老舗ゲームが大改修 Cygamesは10月29日、『神撃のバハムート』にて10月21日より実施していた緊急メンテナンスを終了した。同メンテナンスは、プログラミング言語「PHP」の脆弱性への対応を目... — はてなブックマーク テクノロジー / score: 85 (PHP脆弱性対応と大規模改修の実例)</description>
-</item>
-<item>
-<title>[85] 31年間解けなかった数学の難問「KLS予想」、マイクロソフト研究者とAIのチームが解決</title>
-<link>https://www.gizmodo.jp/article/2610-microsoft-ai-solves-kls-conjecture/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2610-microsoft-ai-solves-kls-conjecture/</guid>
-<pubDate>Thu, 29 Oct 2026 09:25:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>31年間解けなかった数学の難問KLS予想を、Microsoftの研究者とAIが共同で証明しました。AIの提案と人間の判断がどのように難問解決につながったのか、そのプロセスを分かりやすく解説します。 — ギズモード・ジャパン / score: 85 (AIを活用した数学の難問KLS予想の解決)</description>
-</item>
-<item>
-<title>[85] ダウンロード先指示ファイルを介したAIエージェントののっとりについてまとめてみた - piyolog</title>
-<link>https://piyolog.hatenadiary.jp/entry/2026/10/29/170430</link>
-<guid isPermaLink="true">https://piyolog.hatenadiary.jp/entry/2026/10/29/170430</guid>
-<pubDate>Thu, 29 Oct 2026 08:10:19 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>2026年10月22日、セキュリティ企業のForever Securityは、顧客端末でAIエージェントによる悪性パッケージの導入をコード実行前に遮断し、導入の指示がダウンロードフォルダの AGENTS.md に由来したと公表しました。同社は、指示ファイルに従ったエージェントが自らの設定を書き換える試験を Codex と Claude Code で行っ... — はてなブックマーク テクノロジー / score: 85 (AGENTS.mdを通じたAIエージェント乗っ取りの解説)</description>
 </item>
 <item>
 <title>[85] 月間70億件超のコミットを、GitHubは新しいGitアーキテクチャで支える──Copilot Fusionなど新機能も発表【GitHub Universe 2026】</title>
@@ -293,6 +277,14 @@
 <pubDate>Thu, 29 Oct 2026 01:46:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Node.js開発チームは2026年10月28日、Node.js 26.13.0をリリースし、このバージョンからNode.js 26.xが「Lithium」というコードネームで長期サポート（LTS）に移行することを発表した。 — gihyo.jp / score: 85 (Node.js 26.13.0のLTS移行とリリース)</description>
+</item>
+<item>
+<title>[85] Auto mode時代のClaude Codeを守る。検証済み10キットで始めるセキュリティ対策【全員・チーム・組織別】</title>
+<link>https://zenn.dev/sonicmoov/articles/67aaeb49be69ec</link>
+<guid isPermaLink="true">https://zenn.dev/sonicmoov/articles/67aaeb49be69ec</guid>
+<pubDate>Thu, 29 Oct 2026 00:54:17 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>はじめに 株式会社ソニックムーブでフロントエンドエンジニアをしているazarashiです。 前回の記事「検証済み10キットで始める、Claude Code時代のGitHubセキュリティ対策」では、GitHub のリポジトリを AI 時代の脅威から守る方法をまとめました。今回は、手元の PC で動く Claude Code そのものを守る方法です。 Claud... — はてなブックマーク テクノロジー / score: 85 (Claude Code等のAIツール向けセキュリティ対策)</description>
 </item>
 <item>
 <title>[85] Google、「Gemini 4 Carbon」を発表 ～「Argon」をしのぐ同社最強モデル／まずはサイバーセキュリティの防御担当者向けに提供、一般向けは“できるだけ早く”</title>
@@ -349,14 +341,6 @@
 <pubDate>Wed, 28 Oct 2026 05:36:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>オープンソースのメールソフト「Thunderbird」の最新版、v159.0が10月27日にリリースされた。 — 窓の杜 / score: 85 (Thunderbirdの多数の脆弱性修正リリース)</description>
-</item>
-<item>
-<title>[85] Auto mode時代のClaude Codeを守る。検証済み10キットで始めるセキュリティ対策【全員・チーム・組織別】</title>
-<link>https://zenn.dev/sonicmoov/articles/67aaeb49be69ec</link>
-<guid isPermaLink="true">https://zenn.dev/sonicmoov/articles/67aaeb49be69ec</guid>
-<pubDate>Wed, 28 Oct 2026 03:17:06 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>はじめに 株式会社ソニックムーブでフロントエンドエンジニアをしているazarashiです。 前回の記事「検証済み10キットで始める、Claude Code時代のGitHubセキュリティ対策」では、GitHub のリポジトリを AI 時代の脅威から守る方法をまとめました。今回は、手元の PC で動く Claude Code そのものを守る方法です。 Claude Code は、ファイルを読み、コマンドを実行し、外部と通信できます。便利な反面、悪意のある指示を読み込んだときや、Claude が判断を誤ったときに、秘密情報を読まれる・送られる、ファイルを壊される、守りの設定を外されるおそれ... — Zenn トレンド / score: 85 (Claude Code等のAIツール向けセキュリティ対策)</description>
 </item>
 <item>
 <title>[85] Mozilla、「Firefox 159」を正式リリース ～167件の脆弱性を修正／「タブ検索」が追加、開いているタブを［Ctrl］＋［Shift］＋［A］キーで検索可能に</title>
@@ -519,6 +503,30 @@
 <description>JPCERT/CCは2026年10月15日、国内で相次ぐ不正アクセスを受けて進めている攻撃元サーバーの調査結果を公開した。 — gihyo.jp / score: 85 (API攻撃の手口と脆弱性に関する重要な注意喚起)</description>
 </item>
 <item>
+<title>[80] 6カ所以上のアメリカ軍基地で食品を腐敗させた「謎の冷凍庫の故障」にサイバー攻撃の疑いあり、国防総省がフランス当局と協力して捜査中</title>
+<link>https://gigazine.net/news/20261030-pentagon-treating-military-freezer-cyberattack/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261030-pentagon-treating-military-freezer-cyberattack/</guid>
+<pubDate>Fri, 30 Oct 2026 03:45:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>アメリカ国防総省(ペンダゴン)が、2026年8月にアメリカの軍事基地で相次いで発生した謎の冷蔵庫の不具合について、サイバー攻撃の疑いがあるとして調査を行っていることが明らかになりました。 続きを読む... — GIGAZINE / score: 80 (米軍基地のインフラに対するサイバー攻撃の疑い)</description>
+</item>
+<item>
+<title>[80] 楽天カード、固定パスワード方式を廃止へ　切り替えないと一部店舗で使えなくなるおそれ</title>
+<link>https://ascii.jp/elem/000/004/447/4447235/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/447/4447235/?rss</guid>
+<pubDate>Fri, 30 Oct 2026 03:20:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>楽天カードは10月29日、本人認証サービス（3Dセキュア）の固定パスワード方式を廃止することを公表した。 — ASCII.jp / score: 80 (認証方式のセキュリティ強化と仕様変更)</description>
+</item>
+<item>
+<title>[80] 日本郵便の委託先に不正アクセス　一部ユーザーのメアド流出か</title>
+<link>https://ascii.jp/elem/000/004/447/4447152/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/447/4447152/?rss</guid>
+<pubDate>Fri, 30 Oct 2026 03:00:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>日本郵便は10月29日 、同社がメールマガジン配信業務を委託する事業者が不正アクセスを受け、一部顧客のメールアドレスが漏えいした可能性があることを公表した。 — ASCII.jp / score: 80 (委託先を狙った不正アクセスによる情報漏えい)</description>
+</item>
+<item>
 <title>[80] AIが勝手に隔離環境を脱出した事件を受けてOpenAIが「AIを別のAIで監視する仕組み」を公開</title>
 <link>https://gigazine.net/news/20261030-openai-detect-frontier-model-misalignment/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261030-openai-detect-frontier-model-misalignment/</guid>
@@ -655,12 +663,52 @@
 <description>Sakana AIは2026年10月15日、科学研究を自動化するThe AI Scientistの第3世代「The Agentic Scientist」を公開した。 — gihyo.jp / score: 80 (Sakana AIによる科学研究自動化AI第3世代の公開)</description>
 </item>
 <item>
+<title>[75] Googleがポリシー改定。Gmailやフォトの中身まで広告選びの参考にされるかも</title>
+<link>https://www.gizmodo.jp/article/2610-google-privacy-policy-update-gmail-ads/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/2610-google-privacy-policy-update-gmail-ads/</guid>
+<pubDate>Fri, 30 Oct 2026 03:30:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>Googleのプライバシーポリシー改定により、Gmailやドライブのデータが広告のカスタマイズに利用される可能性について解説します。設定の確認方法もご紹介します。 — ギズモード・ジャパン / score: 75 (Googleのプライバシーポリシー改定と広告関連)</description>
+</item>
+<item>
+<title>[75] 日本の警察が“攻撃元に侵入”できるように。GMOが要請した「能動的サイバー防御」って何？</title>
+<link>https://www.gizmodo.jp/article/2610-active-cyber-defense/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/2610-active-cyber-defense/</guid>
+<pubDate>Fri, 30 Oct 2026 02:20:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>日本で始まった能動的サイバー防御について、GMOの要請事例を交えて分かりやすく解説します。 — ギズモード・ジャパン / score: 75 (能動的サイバー防御と法制度に関する重要な話題。)</description>
+</item>
+<item>
+<title>[75] PM関連求人約1万件を分析、管理の経験だけでは足りない。プロダクトマネージャー求人の53.4％が開発・実装の経験を求め、プロジェクトマネジメント経験を上回る</title>
+<link>https://ascii.jp/elem/000/004/447/4447242/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/447/4447242/?rss</guid>
+<pubDate>Fri, 30 Oct 2026 02:15:05 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>PM関連求人約1万件を分析、管理の経験だけでは足りない。プロダクトマネージャー求人の53.4％が開発・実装の経験を求め、プロジェクトマネジメント経験を上回る — ASCII.jp / score: 75 (プロダクトマネージャー求人市場のトレンド分析)</description>
+</item>
+<item>
 <title>[75] GPT-6.1 Terraと同等のコーディング性能を発揮するAIモデル「Mistral Large 4」が無償公開される</title>
 <link>https://gigazine.net/news/20261030-mistral-large-4-open/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261030-mistral-large-4-open/</guid>
 <pubDate>Fri, 30 Oct 2026 01:48:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>フランスに拠点を置くAI企業のMistralが大規模AIモデル「Mistral Large 4」をオープンモデルとして無償公開しました。コーディング性能ではGPT-6.1 Terraと同等性能という評価もあります。 続きを読む... — GIGAZINE / score: 75 (高性能なオープンAIモデルMistral Large 4の公開)</description>
+</item>
+<item>
+<title>[75] ヤクルト本社、個人情報約4万件漏えい　公式サイトへの不正アクセスで</title>
+<link>https://www.itmedia.co.jp/news/article/2610/30/2000002739/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/30/2000002739/</guid>
+<pubDate>Fri, 30 Oct 2026 01:31:05 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>ヤクルト本社は10月30日、同社Webサイトが第三者による不正アクセスを受け、問い合わせフォームの利用者などの個人情報約4万件が外部に漏えいしたことを確認したと発表した。対象件数や期間などの詳細は、順次公表する。 問い合わせフォームでは、利用者の氏名、性別、年齢層、住所、電話番号、メールアドレス、問い合わ... — はてなブックマーク テクノロジー / score: 75 (企業サイトからの大規模な個人情報漏えい事故)</description>
+</item>
+<item>
+<title>[75] アイリスオーヤマの通販サイトに不正アクセス　情報漏えいは「調査中」</title>
+<link>https://www.itmedia.co.jp/news/article/2610/30/2000002737/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/30/2000002737/</guid>
+<pubDate>Fri, 30 Oct 2026 01:21:45 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>アイリスオーヤマの通販サイトに不正アクセス 情報漏えいは「調査中」 アイリスオーヤマは10月29日、傘下の公式通販サイト「アイリスプラザ」が不正アクセスを受け、サイトを一時停止していると発表した。情報漏えいの有無は調査中。 — はてなブックマーク テクノロジー / score: 75 (大手通販サイトにおける不正アクセスと停止)</description>
 </item>
 <item>
 <title>[75] アルファベット株13%安、時価総額80兆円消失　AIが検索の収益圧迫 - 日本経済新聞</title>
@@ -677,14 +725,6 @@
 <pubDate>Thu, 29 Oct 2026 17:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent. — OpenAI News / score: 75 (AIモデルの仕様と倫理に関する公式の重要発表)</description>
-</item>
-<item>
-<title>[75] 攻撃者サイト遮断、政府が通信各社に要請　公的介入試すGMO問題 - 日本経済新聞</title>
-<link>https://www.nikkei.com/article/DGXZQOUA293C50Z21C26A0000000/</link>
-<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUA293C50Z21C26A0000000/</guid>
-<pubDate>Thu, 29 Oct 2026 16:25:39 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>GMOインターネットグループが不正アクセスを受けた問題で、総務省は通信各社に攻撃者側のウェブサイトへの接続を遮断するよう要請した。サイトが閲覧不能になり結果的に発動しなかったもようだが、相次ぐサイバー攻撃に政府が一歩踏み込んだ。総務省は27日付で電気通信事業者協会（TCA）などの業界団体を通じて文書で要... — はてなブックマーク テクノロジー / score: 75 (政府による攻撃者サイト遮断要請のセキュリティ動向)</description>
 </item>
 <item>
 <title>[75] Microsoft、「Copilot harness」を発表 ～「GitHub Copilot」基盤を全社共通化、プレビュー提供／「GitHub Copilot SDK」は「Microsoft Copilot SDK」に</title>
@@ -765,46 +805,6 @@
 <pubDate>Tue, 27 Oct 2026 15:27:52 +0000</pubDate>
 <category>Publickey</category>
 <description>Anthropicが開発しているJavaScriptランタイムの「Bun」の新機能として、Prettier互換のフォーマッタ搭載が発表されました。 2026年10月22日付けでリリースされたBun v1.4.4に搭載されたPrettier互... — Publickey / score: 75 (Bunの高速な新機能追加は開発者に大きな影響がある)</description>
-</item>
-<item>
-<title>[75] 8 examples of Gemini 4 Argon in action</title>
-<link>https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-in-action/</link>
-<guid isPermaLink="true">https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-in-action/</guid>
-<pubDate>Tue, 27 Oct 2026 15:00:00 +0000</pubDate>
-<category>Gemini (Google Blog)</category>
-<description>From deep research to interactive design, here are eight examples of what Gemini 4 Argon, our most intelligent model yet, is capable of. — Gemini (Google Blog) / score: 75 (新モデルGemini 4 Argonの機能紹介)</description>
-</item>
-<item>
-<title>[75] Bringing Google TPUs to Oracle Cloud Infrastructure</title>
-<link>https://cloud.google.com/blog/products/infrastructure/bringing-google-tpus-to-oracle-cloud-infrastructure/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/products/infrastructure/bringing-google-tpus-to-oracle-cloud-infrastructure/</guid>
-<pubDate>Tue, 27 Oct 2026 14:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>As AI workloads scale across every industry, organizations need compute options that optimize throughput, latency, and unit economics across the AI lifecycle. To meet this demand, Oracle and Google Cloud are partnering to bring Google Tensor Processing Units (TPUs) to Oracle Cloud Infrastructure (OCI), making OCI the first hyperscaler outside Google to offer TPUs. Together, we will deploy TPU capacity on OCI starting in the calendar year 2027. TPUs: Co-designed from silicon to software Google bu — Google Cloud Blog / score: 75 (Oracle CloudへのGoogle TPU導入)</description>
-</item>
-<item>
-<title>[75] Gemini Robotics Embodied Reasoning 2 is now available on Google Cloud</title>
-<link>https://cloud.google.com/blog/products/ai-machine-learning/gemini-robotics-embodied-reasoning-2-is-now-available-on-google-cloud/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/products/ai-machine-learning/gemini-robotics-embodied-reasoning-2-is-now-available-on-google-cloud/</guid>
-<pubDate>Tue, 27 Oct 2026 13:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>Earlier this year, we introduced Gemini Robotics 2 — our next-generation intelligence layer enabling robots to think, act, and adapt in the physical world. At the core of this breakthrough is Gemini Robotics Embodied Reasoning 2 (ER 2) , a specialized Gemini model that serves as a robot’s high-level brain. Working across any robot embodiment — from stationary arms to full humanoids — Gemini Robotics ER 2 combines advanced spatial and temporal video understanding with long-horizon planning and bu — Google Cloud Blog / score: 75 (Google Cloudにおけるロボティクス向けAI提供開始)</description>
-</item>
-<item>
-<title>[75] [AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn</title>
-<link>https://latent.space/p/ainews-anthropic-s1/</link>
-<guid isPermaLink="true">https://latent.space/p/ainews-anthropic-s1/</guid>
-<pubDate>Tue, 27 Oct 2026 07:24:59 +0000</pubDate>
-<category>Latent Space</category>
-<description>Today is one of those days that is tougher to cover for a normally-engineer audience that isn’t used to reading most S-1’s, let alone 350 pages of one of the most unusual S-1’s of all time : Better visualized: With significant operating leverage causing the first profitable quarter in Anthropic history (adjusted for $1B/quarter of SBC): The incredible efficiency story is told in two loops, and of course you know, we love loop: The pitch going forward is “virtual collaborators” (don’t say agent!) — Latent Space / score: 75 (AnthropicのS-1提出に基づく財務詳細)</description>
-</item>
-<item>
-<title>[75] How Check Point accelerates vulnerability research with Daybreak</title>
-<link>https://openai.com/index/check-point-daybreak</link>
-<guid isPermaLink="true">https://openai.com/index/check-point-daybreak</guid>
-<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster. — OpenAI News / score: 75 (OpenAIを用いたセキュリティ脆弱性調査の事例)</description>
 </item>
 </channel>
 </rss>
