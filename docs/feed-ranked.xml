@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 30 Oct 2026 16:07:14 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 18:07:23 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] Linuxカーネルの重大な脆弱性（CVE-2026-98432）によるカーリルへの影響について – カーリルのブログ</title>
@@ -245,14 +245,6 @@
 <pubDate>Fri, 30 Oct 2026 10:10:27 +0000</pubDate>
 <category>Yahoo!ニュース IT</category>
 <description> — Yahoo!ニュース IT / score: 85 (セキュリティインシデントの背景に関する重要ニュース)</description>
-</item>
-<item>
-<title>[85] 松屋、不正アクセスで238万件の個人情報漏えい</title>
-<link>https://www.watch.impress.co.jp/docs/news/2152625.html</link>
-<guid isPermaLink="true">https://www.watch.impress.co.jp/docs/news/2152625.html</guid>
-<pubDate>Fri, 30 Oct 2026 07:52:55 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>松屋、不正アクセスで238万件の個人情報漏えい — はてなブックマーク テクノロジー / score: 85 (松屋の不正アクセスによる大規模個人情報漏えい)</description>
 </item>
 <item>
 <title>[85] 無印良品 最大2726万件情報流出か</title>
@@ -503,6 +495,14 @@
 <description>Amazon Web Services（AWS）は、サーバレス基盤のAWS Lambda上でNext.jsやExpress、Hono、FastifyなどのNode.js用フレームワークとそのアプリケーションをそのままデプロイして実行できる新... — Publickey / score: 85 (AWS Lambdaの新機能発表で実用性が高く重要)</description>
 </item>
 <item>
+<title>[80] When the Kubernetes API went silent: A three-layer networking mystery</title>
+<link>https://cloud.google.com/blog/products/networking/the-three-layer-gke-network-mystery/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/networking/the-three-layer-gke-network-mystery/</guid>
+<pubDate>Fri, 30 Oct 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Every support engineer has a case that stays with them. The one that comes up at team lunches. The one where, even after it's resolved, you find yourself staring at a packet capture at midnight just to make sure you really understand what happened. This is that case. It started in January 2026 with a support ticket that read deceptively simply: pods are intermittently failing to reach the Kubernetes API server. The error was a familiar-looking timeout. The customer had already ruled out their ow — Google Cloud Blog / score: 80 (Kube APIの障害解析に関する詳細な技術解説)</description>
+</item>
+<item>
 <title>[80] GitHub、AIモデルを自動選択・連携するCopilot Fusionを一般提供、資料とエージェントの作業をまとめるCopilot Projectsをパブリックプレビューに ——GitHub Universe 2026で自動化・コードレビュー・セキュリティも更新</title>
 <link>https://gihyo.jp/article/2026/10/github-universe-2026?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/10/github-universe-2026?utm_source=feed</guid>
@@ -541,14 +541,6 @@
 <pubDate>Thu, 29 Oct 2026 16:00:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Starting today, Amazon Aurora PostgreSQL-Compatible Edition introduces support for post-quantum TLS (PQ-TLS) key exchange, providing you with post-quantum cryptography options for encrypting your data in transit. Amazon Aurora PostgreSQL versions 18 and higher support modification of the ssl_groups parameter. You can select cryptographic groups from the Amazon Aurora PostgreSQL allow list to align with your organization's security standards. Amazon Aurora is designed for high performance and ava — AWS What's New / score: 80 (Amazon Auroraの耐量子TLS鍵交換サポート)</description>
-</item>
-<item>
-<title>[80] Mistral Large 4 (Le Chonk) is now open weight | Mistral</title>
-<link>https://mistral.ai/news/mistral-large-4-oss/</link>
-<guid isPermaLink="true">https://mistral.ai/news/mistral-large-4-oss/</guid>
-<pubDate>Thu, 29 Oct 2026 14:50:25 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Mistral released Mistral Large 4 (Le Chonk), a 1-trillion-parameter multimodal model, now available with improved coding, cybersecurity, and reasoning efficiency. It leads open-weight benchmarks in coding and defensive security while offering three reasoning modes for cost-performance balance. Fu... — はてなブックマーク テクノロジー / score: 80 (大規模オープンウェイトマルチモーダルモデル公開)</description>
 </item>
 <item>
 <title>[80] Genie 4: A new generation of world simulation</title>
@@ -637,6 +629,14 @@
 <pubDate>Tue, 20 Oct 2026 15:00:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Today, AWS launched the public beta of TorchNeuron, an open source native PyTorch backend for AWS Trainium. Trainium is a portfolio of AI chips designed to deliver high performance and cost efficiency for deep learning AI training and inference workloads. TorchNeuron enables AI scientists and researchers to experiment and build models with PyTorch natively on Trainium. With TorchNeuron, developers can enable their PyTorch code on Trainium simply by switching to .to('neuron') while maintaining fu — AWS What's New / score: 80 (AWS Trainium向けのネイティブPyTorchサポート発表)</description>
+</item>
+<item>
+<title>[75] AWS WAF announces automatic SDK integration for Amazon CloudFront distributions</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/aws-waf-automatic-sdk-integration-amazon-cloudfront/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/aws-waf-automatic-sdk-integration-amazon-cloudfront/</guid>
+<pubDate>Fri, 30 Oct 2026 15:57:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS WAF announces automatic SDK integration for Amazon CloudFront distributions. When you enable it, CloudFront adds the script tag for the AWS WAF JavaScript SDK to the HTML it serves, with no change to your application code, build process, or deployment. The SDK supplies the client-side signals used by three AWS WAF managed rule groups: Bot Control at the targeted inspection level, Fraud Control account takeover prevention (ATP), and Fraud Control account creation fraud prevention (ACFP). Prev — AWS What's New / score: 75 (AWS WAFのCloudFront向け自動SDK統合)</description>
 </item>
 <item>
 <title>[75] 昔入れたPopcorn TimeでMacに乗っ取りの恐れ〜更新ツールが起動時に動く</title>
@@ -783,14 +783,6 @@
 <description>As AI workloads scale across every industry, organizations need compute options that optimize throughput, latency, and unit economics across the AI lifecycle. To meet this demand, Oracle and Google Cloud are partnering to bring Google Tensor Processing Units (TPUs) to Oracle Cloud Infrastructure (OCI), making OCI the first hyperscaler outside Google to offer TPUs. Together, we will deploy TPU capacity on OCI starting in the calendar year 2027. TPUs: Co-designed from silicon to software Google bu — Google Cloud Blog / score: 75 (Oracle CloudへのGoogle TPU導入)</description>
 </item>
 <item>
-<title>[75] Gemini Robotics Embodied Reasoning 2 is now available on Google Cloud</title>
-<link>https://cloud.google.com/blog/products/ai-machine-learning/gemini-robotics-embodied-reasoning-2-is-now-available-on-google-cloud/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/products/ai-machine-learning/gemini-robotics-embodied-reasoning-2-is-now-available-on-google-cloud/</guid>
-<pubDate>Tue, 27 Oct 2026 13:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>Earlier this year, we introduced Gemini Robotics 2 — our next-generation intelligence layer enabling robots to think, act, and adapt in the physical world. At the core of this breakthrough is Gemini Robotics Embodied Reasoning 2 (ER 2) , a specialized Gemini model that serves as a robot’s high-level brain. Working across any robot embodiment — from stationary arms to full humanoids — Gemini Robotics ER 2 combines advanced spatial and temporal video understanding with long-horizon planning and bu — Google Cloud Blog / score: 75 (Google Cloudにおけるロボティクス向けAI提供開始)</description>
-</item>
-<item>
 <title>[75] [AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn</title>
 <link>https://latent.space/p/ainews-anthropic-s1/</link>
 <guid isPermaLink="true">https://latent.space/p/ainews-anthropic-s1/</guid>
@@ -805,6 +797,14 @@
 <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster. — OpenAI News / score: 75 (OpenAIを用いたセキュリティ脆弱性調査の事例)</description>
+</item>
+<item>
+<title>[75] GPT-6.1 Terra</title>
+<link>https://simonwillison.net/2026/Oct/26/gpt-61-terra/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Oct/26/gpt-61-terra/</guid>
+<pubDate>Mon, 26 Oct 2026 23:53:07 +0000</pubDate>
+<category>Simon Willison</category>
+<description>GPT-6.1 Terra It's always interesting to note which aspects of a new model are emphasized in the release announcement. In the case of GPT-6.1 Terra, OpenAI went with visual reasoning and computer use: We’re introducing GPT-6.1 Terra , a fast, efficient model that combines detailed visual reasoning and precise computer use alongside clearer, more natural writing. A significant step up from GPT‑5.6 Terra, it excels at the communication and computer-based tasks that fill the workday, from drafting  — Simon Willison / score: 75 (GPT-6.1 Terraの機能とビジュアル推論の解説)</description>
 </item>
 </channel>
 </rss>

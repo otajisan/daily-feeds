@@ -4,8 +4,40 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 30 Oct 2026 16:07:14 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 18:07:23 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>nemotron-halloween</title>
+<link>https://huggingface.co/blog/nvidia/nemotron-halloween</link>
+<guid isPermaLink="true">https://huggingface.co/blog/nvidia/nemotron-halloween</guid>
+<pubDate>Fri, 30 Oct 2026 17:57:24 +0000</pubDate>
+<category>Hugging Face Blog</category>
+<description> — Hugging Face Blog / score: 40 (Hugging Faceのモデルに関する情報)</description>
+</item>
+<item>
+<title>Samsungが｢iPhone Duo｣の画面ひび割れ問題を揶揄する広告キャンペーンを開始</title>
+<link>https://taisy0.com/2026/10/31/229757.html</link>
+<guid isPermaLink="true">https://taisy0.com/2026/10/31/229757.html</guid>
+<pubDate>Fri, 30 Oct 2026 17:33:59 +0000</pubDate>
+<category>気になる、記になる…</category>
+<description>MacRumorsによると、Samsungが「iPhone Duo」の画面ひび割れ問題を揶揄する広告キャンペーンを開始したことが分かりました。 その広告キャンペーンを開始したのはカナダのSamsungで、Instagra […] — 気になる、記になる… / score: 20 (Samsungの他社製端末を揶揄する広告)</description>
+</item>
+<item>
+<title>Samsung、17インチの折りたたみ式タブレットを開発中か</title>
+<link>https://taisy0.com/2026/10/31/229754.html</link>
+<guid isPermaLink="true">https://taisy0.com/2026/10/31/229754.html</guid>
+<pubDate>Fri, 30 Oct 2026 17:22:08 +0000</pubDate>
+<category>気になる、記になる…</category>
+<description>「iPhone Duo」の登場により折りたたみ式スマホが話題になっていますが、そんな中、Samsungが折りたたみ式タブレットを開発中との情報が出て来ました。 これは今年8月にkroというアカウントが、17インチの折りた […] — 気になる、記になる… / score: 25 (Samsungの折りたたみタブレット開発の噂)</description>
+</item>
+<item>
+<title>iPad mini（A20 Pro）でゼリースクロール解消？OLEDの応答速度に注目</title>
+<link>https://iphone-mania.jp/ipadmini-608139/</link>
+<guid isPermaLink="true">https://iphone-mania.jp/ipadmini-608139/</guid>
+<pubDate>Fri, 30 Oct 2026 16:33:20 +0000</pubDate>
+<category>iPhone Mania</category>
+<description>iPad mini（A20 Pro）は、最大リフレッシュレート120HzのProMotionテクノロジーには対応していないものの、有機EL（OLED）ディスプレイの採用によって画素応答速度が大幅に向上したと、Appleの […] — iPhone Mania / score: 40 (iPad miniのディスプレイに関する噂)</description>
+</item>
 <item>
 <title>What’s new with Google Cloud</title>
 <link>https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/</link>
@@ -13,6 +45,38 @@
 <pubDate>Fri, 30 Oct 2026 16:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block &lt;ListValue: []&gt; Oct 26 - Oct 30 Simplify PostgreSQL Monitoring with the New AlloyDB Omni Web UI The newly released AlloyDB Omni Web UI del — Google Cloud Blog / score: 30 (Google Cloudの一般的な更新情報まとめのため)</description>
+</item>
+<item>
+<title>What’s new in AI infrastructure and orchestration in October</title>
+<link>https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/</guid>
+<pubDate>Fri, 30 Oct 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>The Google Cloud AI Infrastructure team had another busy month in October, filled with new product launches and updates to power today’s AI and agentic workloads scalably and efficiently. We were also honored to share our progress with customers, partners, and the broader community at leading industry events, including NVIDIA GTC, PyTorch Conference, and AGNTCon + MCPCon. Let’s dive in! Product, technology, and tools updates New compute service: Agent Compute Engine is a purpose-built compute se — Google Cloud Blog / score: 70 (Google CloudのAIインフラ最新情報)</description>
+</item>
+<item>
+<title>When the Kubernetes API went silent: A three-layer networking mystery</title>
+<link>https://cloud.google.com/blog/products/networking/the-three-layer-gke-network-mystery/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/networking/the-three-layer-gke-network-mystery/</guid>
+<pubDate>Fri, 30 Oct 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Every support engineer has a case that stays with them. The one that comes up at team lunches. The one where, even after it's resolved, you find yourself staring at a packet capture at midnight just to make sure you really understand what happened. This is that case. It started in January 2026 with a support ticket that read deceptively simply: pods are intermittently failing to reach the Kubernetes API server. The error was a familiar-looking timeout. The customer had already ruled out their ow — Google Cloud Blog / score: 80 (Kube APIの障害解析に関する詳細な技術解説)</description>
+</item>
+<item>
+<title>Innovate on your own business terms: Google Cloud spend caps now generally available</title>
+<link>https://cloud.google.com/blog/topics/cost-management/google-cloud-spend-caps-now-generally-available/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/cost-management/google-cloud-spend-caps-now-generally-available/</guid>
+<pubDate>Fri, 30 Oct 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Today, we’re announcing that spend caps on Google Cloud Budgets are generally available. With this release, we’re delivering ways to protect your workloads from runaway costs without risking resource deletion. More importantly, we’re introducing three major updates, directly inspired by your feedback since the initial preview, to bring programmability, real-time visibility, and automated guardrails to your cost-control playbook. How the new spend caps can help your business We have significantly — Google Cloud Blog / score: 70 (Google Cloudの予算上限機能がGA化)</description>
+</item>
+<item>
+<title>AWS WAF announces automatic SDK integration for Amazon CloudFront distributions</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/aws-waf-automatic-sdk-integration-amazon-cloudfront/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/aws-waf-automatic-sdk-integration-amazon-cloudfront/</guid>
+<pubDate>Fri, 30 Oct 2026 15:57:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS WAF announces automatic SDK integration for Amazon CloudFront distributions. When you enable it, CloudFront adds the script tag for the AWS WAF JavaScript SDK to the HTML it serves, with no change to your application code, build process, or deployment. The SDK supplies the client-side signals used by three AWS WAF managed rule groups: Bot Control at the targeted inspection level, Fraud Control account takeover prevention (ATP), and Fraud Control account creation fraud prevention (ACFP). Prev — AWS What's New / score: 75 (AWS WAFのCloudFront向け自動SDK統合)</description>
 </item>
 <item>
 <title>iPhone Air 2は超広角カメラを搭載〜各種仕様に関するリーク情報が投稿</title>
@@ -631,6 +695,14 @@
 <description>AIニュースを1時間追う前に、「明日から自分の仕事でどう使えるか」を10分だけ。経営者向けPodcast「岡田崇の毎日AIニュース『聴いたら寝ろ。』」配信中 — ASCII.jp / score: 30 (AIニュース解説ポッドキャストの紹介)</description>
 </item>
 <item>
+<title>Community safety report and new protections for teens</title>
+<link>https://openai.com/index/community-safety-report-and-new-protections-for-teens</link>
+<guid isPermaLink="true">https://openai.com/index/community-safety-report-and-new-protections-for-teens</guid>
+<pubDate>Fri, 30 Oct 2026 09:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting. — OpenAI News / score: 65 (OpenAIの安全性とティーン向け保護策)</description>
+</item>
+<item>
 <title>【アフターレポート】スタイラスペンメーカー「Metapen」、教育分野の総合展「第9回 EDIX大阪」に出展</title>
 <link>https://ascii.jp/elem/000/004/447/4447467/?rss</link>
 <guid isPermaLink="true">https://ascii.jp/elem/000/004/447/4447467/?rss</guid>
@@ -733,78 +805,6 @@
 <pubDate>Fri, 30 Oct 2026 08:00:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>頭のなかにあるイメージを映像化できる道具、もう手が届くところにあります。動画共有サービスやSNSでは、もはやAIで生成された映像を見ない日はないと言えるほど、動画生成AIの普及が進んできました。「でも動画生成専用のAIなんて、ChatGPT… — ギズモード・ジャパン / score: 55 (動画生成AI「Kling 4.0」の日本語対応と特徴の解説)</description>
-</item>
-<item>
-<title>【TALK SESSION &amp; GEAR】音と人が出会う新たな場を創造するプロジェクト“acira”の全貌</title>
-<link>https://guitarmagazine.jp/gear/2026-1030-acira/</link>
-<guid isPermaLink="true">https://guitarmagazine.jp/gear/2026-1030-acira/</guid>
-<pubDate>Fri, 30 Oct 2026 08:00:00 +0000</pubDate>
-<category>ギター・マガジンWEB</category>
-<description>“acira”のNishgaki Guitars／Collecteraの西垣祐希氏、Singularの北出斎太郎氏、stilbluの山田浩幸氏の3人にインタビュー。設立の背景や理念に迫っていく。 — ギター・マガジンWEB / score: 20 (ギター関連の新規プロジェクトに関するインタビュー記事)</description>
-</item>
-<item>
-<title>松屋、不正アクセスで238万件の個人情報漏えい</title>
-<link>https://www.watch.impress.co.jp/docs/news/2152625.html</link>
-<guid isPermaLink="true">https://www.watch.impress.co.jp/docs/news/2152625.html</guid>
-<pubDate>Fri, 30 Oct 2026 07:52:55 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>松屋、不正アクセスで238万件の個人情報漏えい — はてなブックマーク テクノロジー / score: 85 (松屋の不正アクセスによる大規模個人情報漏えい)</description>
-</item>
-<item>
-<title>IVRyのSREの取り組み 2026冬</title>
-<link>https://zenn.dev/ivry/articles/70d4f05ce4ae5c</link>
-<guid isPermaLink="true">https://zenn.dev/ivry/articles/70d4f05ce4ae5c</guid>
-<pubDate>Fri, 30 Oct 2026 07:50:00 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>こんにちは。IVRyでSREをしている渡部です。2024年の秋に入社してから、気づけば2年が経ちました。前回の記事では肉うどんとコーヒーにハマっていると書きましたが、もうどちらも飽きました。マイブームは東京巡りです。埼玉へ引っ越してきて東京の色々なところを巡っています。 https://ryuichi1208.hateblo.jp/entry/2026/10/07/095532 本記事は『IVRyのSREの取り組み 2025冬』の続編です。前回「今後の展望」として掲げたことがその後どうなったか、という答え合わせの意味合いも込めて書いています。 概要 https://ivry.jp/ ... — Zenn トレンド / score: 40 (企業のSREの取り組みに関する事例紹介)</description>
-</item>
-<item>
-<title>｢iPad mini (A20 Pro)｣の5コアCPUモデルのベンチマークスコアが明らかに ｰ 前モデル比でCPU性能は約1.5倍、GPU性能は約3倍に向上</title>
-<link>https://taisy0.com/2026/10/30/229734.html</link>
-<guid isPermaLink="true">https://taisy0.com/2026/10/30/229734.html</guid>
-<pubDate>Fri, 30 Oct 2026 07:42:56 +0000</pubDate>
-<category>気になる、記になる…</category>
-<description>Appleは11月6日に「iPad mini (A20 Pro)」を発売しますが、その「iPad mini (A20 Pro)」のものとみられるGeekBench 7のベンチマークデータが明らかになりました。 「iPad […] — 気になる、記になる… / score: 35 (新型iPad miniのベンチマークスコアの話題)</description>
-</item>
-<item>
-<title>SSLの高級コンソールの精度、トーン、ワークフローをDAWにもたらすバンドル、Solid State Logic「SSL Greatest Hits Bundle」が88%OFF！</title>
-<link>https://computermusic.jp/2026/10/ssl-greatest-hits-bundle/</link>
-<guid isPermaLink="true">https://computermusic.jp/2026/10/ssl-greatest-hits-bundle/</guid>
-<pubDate>Fri, 30 Oct 2026 07:31:56 +0000</pubDate>
-<category>Computer Music Japan</category>
-<description>SSLの高級コンソールの精度、トーン、ワークフローをDAWにもたらすバンドル、Solid State Logic「SSL Greatest Hits Bundle」が88%OFFとなっています。 Solid State ... The post SSLの高級コンソールの精度、トーン、ワークフローをDAWにもたらすバンドル、Solid State Logic「SSL Greatest Hits Bundle」が88%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 10 (DAW用プラグインバンドルのセール情報)</description>
-</item>
-<item>
-<title>【さらに20%OFF】あらゆるサウンドを分割、変形、再構築できるグラニュラーエフェクト、Arturia「Efx FRAGMENTS」が49%OFF！</title>
-<link>https://computermusic.jp/2026/10/efx-fragments-2/</link>
-<guid isPermaLink="true">https://computermusic.jp/2026/10/efx-fragments-2/</guid>
-<pubDate>Fri, 30 Oct 2026 07:16:57 +0000</pubDate>
-<category>Computer Music Japan</category>
-<description>あらゆるサウンドを分割、変形、再構築できるグラニュラーエフェクト、Arturia「Efx FRAGMENTS」が49%OFFとなっています。 Audio Plugin Dealsではハロウィンセール2026を開催中です。... The post 【さらに20%OFF】あらゆるサウンドを分割、変形、再構築できるグラニュラーエフェクト、Arturia「Efx FRAGMENTS」が49%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 15 (音楽制作プラグインのセール・割引情報の案内)</description>
-</item>
-<item>
-<title>ゲームのGPUクラッシュ解析を統一する「DirectX Dump Files」が製品版ゲームに対応／AMD、Intel、NVIDIA、Qualcommと共同開発</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2152652.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2152652.html</guid>
-<pubDate>Fri, 30 Oct 2026 07:14:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Microsoftは10月28日（現地時間）、「DirectX Dump Files」を製品版（リテール）のゲームで利用できるようにしたと発表した。「Agility SDK 1.620」と「PIX 2610.28」以降を用いれば、デバイス――エンドユーザーのPCでも、開発デバイスでも――で発生したGPUのクラッシュを記録し、ハードウェアベンダーを問わず一貫した手順で「PIX」を使って調査できる。 — 窓の杜 / score: 65 (DirectXのGPUクラッシュ解析機能の製品版対応)</description>
-</item>
-<item>
-<title>VS Code 1.144：Customizations の新ホーム Browse と Copilot connectors。探す・つなぐ・整える・配るを整理する</title>
-<link>https://qiita.com/shahin0809/items/12a7dd1fd077fd6169fa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/shahin0809/items/12a7dd1fd077fd6169fa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Fri, 30 Oct 2026 07:12:34 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>はじめに こんにちは！最新アプデの検証が趣味になってしまっているMicrosoft Student Ambassador/Github Copilot User Group Japan運営のロホマン シャヒンです！ この記事が少しでも参考になったら、ぜひいいね・共有を... — Qiita 人気記事 / score: 55 (VS Codeのアップデート解説)</description>
-</item>
-<item>
-<title>GitHub、PR数制限にアカウント経過日数やマージ実績による除外ルールを追加</title>
-<link>https://codezine.jp/article/detail/30172</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/30172</guid>
-<pubDate>Fri, 30 Oct 2026 07:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 60 (GitHubのPR数制限に関する新ルールの追加)</description>
 </item>
 </channel>
 </rss>
