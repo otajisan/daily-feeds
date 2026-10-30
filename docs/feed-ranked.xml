@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 30 Oct 2026 18:07:23 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 20:06:37 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] Linuxカーネルの重大な脆弱性（CVE-2026-98432）によるカーリルへの影響について – カーリルのブログ</title>
@@ -253,14 +253,6 @@
 <pubDate>Fri, 30 Oct 2026 06:30:41 +0000</pubDate>
 <category>Yahoo!ニュース IT</category>
 <description> — Yahoo!ニュース IT / score: 85 (無印良品の大量情報流出を報じるニュース)</description>
-</item>
-<item>
-<title>[85] 暗号資産の「バイナンス」に不正アクセスか 影響額 約9900億円 | NHKニュース</title>
-<link>https://news.web.nhk/newsweb/na/nd-20261030de68404</link>
-<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261030de68404</guid>
-<pubDate>Fri, 30 Oct 2026 04:56:14 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>暗号資産の取引所として世界的な大手の「バイナンス」は29日、不正アクセスとみられるセキュリティー上の問題が起き、影響額が推定でおよそ63億ドル、日本円にしておよそ9900億円に上ることを明らかにしまし… — はてなブックマーク テクノロジー / score: 85 (暗号資産の大規模な不正アクセスと莫大な被害額)</description>
 </item>
 <item>
 <title>[85] アメリカ当局がNVIDIAのフアンCEOと親しいデータセンター企業幹部を中国のスパイだと断定</title>
@@ -543,6 +535,14 @@
 <description>Starting today, Amazon Aurora PostgreSQL-Compatible Edition introduces support for post-quantum TLS (PQ-TLS) key exchange, providing you with post-quantum cryptography options for encrypting your data in transit. Amazon Aurora PostgreSQL versions 18 and higher support modification of the ssl_groups parameter. You can select cryptographic groups from the Amazon Aurora PostgreSQL allow list to align with your organization's security standards. Amazon Aurora is designed for high performance and ava — AWS What's New / score: 80 (Amazon Auroraの耐量子TLS鍵交換サポート)</description>
 </item>
 <item>
+<title>[80] Mistral Large 4 (Le Chonk) is now open weight | Mistral</title>
+<link>https://mistral.ai/news/mistral-large-4-oss/</link>
+<guid isPermaLink="true">https://mistral.ai/news/mistral-large-4-oss/</guid>
+<pubDate>Thu, 29 Oct 2026 14:50:25 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Mistral released Mistral Large 4 (Le Chonk), a 1-trillion-parameter multimodal model, now available with improved coding, cybersecurity, and reasoning efficiency. It leads open-weight benchmarks in coding and defensive security while offering three reasoning modes for cost-performance balance. Fu... — はてなブックマーク テクノロジー / score: 80 (大規模オープンウェイトマルチモーダルモデル公開)</description>
+</item>
+<item>
 <title>[80] Genie 4: A new generation of world simulation</title>
 <link>https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/</link>
 <guid isPermaLink="true">https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/</guid>
@@ -629,6 +629,14 @@
 <pubDate>Tue, 20 Oct 2026 15:00:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Today, AWS launched the public beta of TorchNeuron, an open source native PyTorch backend for AWS Trainium. Trainium is a portfolio of AI chips designed to deliver high performance and cost efficiency for deep learning AI training and inference workloads. TorchNeuron enables AI scientists and researchers to experiment and build models with PyTorch natively on Trainium. With TorchNeuron, developers can enable their PyTorch code on Trainium simply by switching to .to('neuron') while maintaining fu — AWS What's New / score: 80 (AWS Trainium向けのネイティブPyTorchサポート発表)</description>
+</item>
+<item>
+<title>[75] Daybreak Red from OpenAI now available to eligible customers on Amazon Bedrock in AWS GovCloud (US-East)</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/openai-daybreak-red-govcloud-east/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/openai-daybreak-red-govcloud-east/</guid>
+<pubDate>Fri, 30 Oct 2026 18:20:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Security teams need powerful tools to find vulnerabilities, test exploits, and build defenses. Daybreak Red from OpenAI is now available to eligible customers on Amazon Bedrock in AWS GovCloud (US-East), bringing advanced AI to this work. Part of OpenAI’s Daybreak cyber defense initiative, Daybreak Red: GPT-5.6 Cyber is built for authorized vulnerability research, exploit reproduction, and mitigation development. It gives verified defenders more room to investigate complex security problems, wit — AWS What's New / score: 75 (OpenAIのセキュリティ向けモデルがBedrockで利用可能に。)</description>
 </item>
 <item>
 <title>[75] AWS WAF announces automatic SDK integration for Amazon CloudFront distributions</title>
@@ -797,14 +805,6 @@
 <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster. — OpenAI News / score: 75 (OpenAIを用いたセキュリティ脆弱性調査の事例)</description>
-</item>
-<item>
-<title>[75] GPT-6.1 Terra</title>
-<link>https://simonwillison.net/2026/Oct/26/gpt-61-terra/</link>
-<guid isPermaLink="true">https://simonwillison.net/2026/Oct/26/gpt-61-terra/</guid>
-<pubDate>Mon, 26 Oct 2026 23:53:07 +0000</pubDate>
-<category>Simon Willison</category>
-<description>GPT-6.1 Terra It's always interesting to note which aspects of a new model are emphasized in the release announcement. In the case of GPT-6.1 Terra, OpenAI went with visual reasoning and computer use: We’re introducing GPT-6.1 Terra , a fast, efficient model that combines detailed visual reasoning and precise computer use alongside clearer, more natural writing. A significant step up from GPT‑5.6 Terra, it excels at the communication and computer-based tasks that fill the workday, from drafting  — Simon Willison / score: 75 (GPT-6.1 Terraの機能とビジュアル推論の解説)</description>
 </item>
 </channel>
 </rss>
