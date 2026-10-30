@@ -4,16 +4,8 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 30 Oct 2026 14:07:35 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 16:07:14 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
-<item>
-<title>[98] Linuxカーネルに重大な脆弱性「CVE-2026-98432」、CVSS 9.8 Claudeが遠隔root権限実行を実証|セキュリティニュースのセキュリティ対策Lab</title>
-<link>https://rocket-boys.co.jp/security-measures-lab/linux_kernel_cve_2026_98432_ubuntu_anthropic_20261030/</link>
-<guid isPermaLink="true">https://rocket-boys.co.jp/security-measures-lab/linux_kernel_cve_2026_98432_ubuntu_anthropic_20261030/</guid>
-<pubDate>Thu, 29 Oct 2026 22:47:13 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>LinuxカーネルのIPv4ネットワーク処理に、遠隔からの悪用につながるUse-After-Free（解放済みメモリの再利用）の脆弱性「CVE-2026-98432」が確認されました。Canonicalが2026年10月15日に公開し、28日に更新したUbuntuの脆弱性情報では、CVSS v3.1の基本値は9.8（Critical）、Ubuntu独自の優先度は「High」と評価されて... — はてなブックマーク テクノロジー / score: 98 (Linuxカーネルの遠隔root権限実行可能な重大脆弱性)</description>
-</item>
 <item>
 <title>[95] Linuxカーネルの重大な脆弱性（CVE-2026-98432）によるカーリルへの影響について – カーリルのブログ</title>
 <link>https://blog.calil.jp/2026/10/linux-kernel.html</link>
@@ -79,20 +71,20 @@
 <description>悪意のある攻撃者がLinuxの仮想マシンを不正に操作することで、仮想マシンの境界を抜けてホスト側のLinux OSで不正なコードを実行できる可能性がある脆弱性「PwnEscape」（CVE-2026-99999）の情報が公開されています。 ... — Publickey / score: 95 (Linuxカーネルの深刻な脆弱性の報告)</description>
 </item>
 <item>
+<title>[90] Security notice — malicious version of Anthropic.claude-code (2.1.313) identified in the Cursor Extension Marketplace · Cursor</title>
+<link>https://cursor.com/blog/claude-code-extension-security-notice</link>
+<guid isPermaLink="true">https://cursor.com/blog/claude-code-extension-security-notice</guid>
+<pubDate>Fri, 30 Oct 2026 08:36:01 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Security notice — malicious version of Anthropic.claude-code (2.1.313) identified in the Cursor Extension Marketplace Today we identified a security incident involving a specific extension package in the Cursor VS Code extension Marketplace: Anthropic.claude-code version 2.1.313. This malicious v... — はてなブックマーク テクノロジー / score: 90 (Cursor拡張機能での悪意あるパッケージ検出)</description>
+</item>
+<item>
 <title>[90] 無印良品、「MUJIアプリ」の利用者情報最大約2726万件が不正アクセスにより流出の可能性</title>
 <link>https://internet.watch.impress.co.jp/docs/news/2152666.html</link>
 <guid isPermaLink="true">https://internet.watch.impress.co.jp/docs/news/2152666.html</guid>
 <pubDate>Fri, 30 Oct 2026 06:32:44 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>無印良品、「MUJIアプリ」の利用者情報最大約2726万件が不正アクセスにより流出の可能性 — はてなブックマーク テクノロジー / score: 90 (最大2,726万件の大量の個人情報流出インシデント)</description>
-</item>
-<item>
-<title>[90] 無印良品、最大2726万件の個人情報流出か　公式アプリに不正アクセス、退会者も対象</title>
-<link>https://ascii.jp/elem/000/004/447/4447321/</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/447/4447321/</guid>
-<pubDate>Fri, 30 Oct 2026 06:27:20 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>良品計画は10月30日、無印良品の公式アプリ「MUJIアプリ」で、顧客情報が外部に流出した可能性があると発表した。退会者の情報を含む最大約2726万件が対象。外部からの不正アクセスを検知し、アクセス遮断と修正を実施した。 流出の恐れがあるのは、メールアドレス、生年月日、性別の3項目。クレジットカード情報、氏名... — はてなブックマーク テクノロジー / score: 90 (アプリの不正アクセスによる大規模な個人情報流出)</description>
 </item>
 <item>
 <title>[90] Linuxカーネルの脆弱性 CVE-2026-98432 についてまとめてみた - piyolog</title>
@@ -239,6 +231,14 @@
 <description>米OpenAIは10月26日（現地時間）、新しいAIモデル「GPT-6.1 Terra」を発表した。7月に発表された「GPT-5.6 Terra」以来のアップデートで、「Terra」シリーズとしては初の「GPT-6.x」モデルとなる。 — 窓の杜 / score: 88 (OpenAIの新モデルGPT-6.1 Terra発表)</description>
 </item>
 <item>
+<title>[85] GMO 4000万円損失の被害者「ずっと恐怖と闘っている」 | NHKニュース</title>
+<link>https://news.web.nhk/newsweb/na/nd-20261030de68556</link>
+<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261030de68556</guid>
+<pubDate>Fri, 30 Oct 2026 10:43:47 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>GMOインターネットグループのサービスが不正アクセスを受けた問題で、身に覚えのない取り引きでおよそ4000万円の損失が出たという40代の男性が取材に応じ、「いつ自分の個人情報が公開されるか分からず、ず… — はてなブックマーク テクノロジー / score: 85 (GMO不正アクセス問題の深刻な被害事例)</description>
+</item>
+<item>
 <title>[85] バイナンス被害 北朝鮮が関与か</title>
 <link>https://news.yahoo.co.jp/pickup/6600708?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6600708?source=rss</guid>
@@ -247,12 +247,12 @@
 <description> — Yahoo!ニュース IT / score: 85 (セキュリティインシデントの背景に関する重要ニュース)</description>
 </item>
 <item>
-<title>[85] 総務省、GMO攻撃者サイトの「ブロッキング」を通信各社に要請　報道</title>
-<link>https://www.itmedia.co.jp/news/article/2610/30/2000002765/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/30/2000002765/</guid>
-<pubDate>Fri, 30 Oct 2026 08:19:46 +0000</pubDate>
+<title>[85] 松屋、不正アクセスで238万件の個人情報漏えい</title>
+<link>https://www.watch.impress.co.jp/docs/news/2152625.html</link>
+<guid isPermaLink="true">https://www.watch.impress.co.jp/docs/news/2152625.html</guid>
+<pubDate>Fri, 30 Oct 2026 07:52:55 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>GMOインターネットへの不正アクセス問題を巡り、総務省が通信事業者に「ブロッキング」を要請したと、朝日新聞や読売新聞、日本経済新聞などが10月29日に報じた。総務省は、GMOの顧客のものとされる個人情報を掲載した攻撃者側のWebサイトについて、接続を強制的に遮断するよう求めた。27日付の文書で、電気通信事業者協... — はてなブックマーク テクノロジー / score: 85 (総務省による攻撃者サイトの通信ブロッキング要請)</description>
+<description>松屋、不正アクセスで238万件の個人情報漏えい — はてなブックマーク テクノロジー / score: 85 (松屋の不正アクセスによる大規模個人情報漏えい)</description>
 </item>
 <item>
 <title>[85] 無印良品 最大2726万件情報流出か</title>
@@ -543,6 +543,14 @@
 <description>Starting today, Amazon Aurora PostgreSQL-Compatible Edition introduces support for post-quantum TLS (PQ-TLS) key exchange, providing you with post-quantum cryptography options for encrypting your data in transit. Amazon Aurora PostgreSQL versions 18 and higher support modification of the ssl_groups parameter. You can select cryptographic groups from the Amazon Aurora PostgreSQL allow list to align with your organization's security standards. Amazon Aurora is designed for high performance and ava — AWS What's New / score: 80 (Amazon Auroraの耐量子TLS鍵交換サポート)</description>
 </item>
 <item>
+<title>[80] Mistral Large 4 (Le Chonk) is now open weight | Mistral</title>
+<link>https://mistral.ai/news/mistral-large-4-oss/</link>
+<guid isPermaLink="true">https://mistral.ai/news/mistral-large-4-oss/</guid>
+<pubDate>Thu, 29 Oct 2026 14:50:25 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Mistral released Mistral Large 4 (Le Chonk), a 1-trillion-parameter multimodal model, now available with improved coding, cybersecurity, and reasoning efficiency. It leads open-weight benchmarks in coding and defensive security while offering three reasoning modes for cost-performance balance. Fu... — はてなブックマーク テクノロジー / score: 80 (大規模オープンウェイトマルチモーダルモデル公開)</description>
+</item>
+<item>
 <title>[80] Genie 4: A new generation of world simulation</title>
 <link>https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/</link>
 <guid isPermaLink="true">https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/</guid>
@@ -637,6 +645,14 @@
 <pubDate>Fri, 30 Oct 2026 12:17:48 +0000</pubDate>
 <category>iPhone Mania</category>
 <description>非公式版のPopcorn Timeを入れたMacで、更新ツールが乗っ取りに使われるリスクがあったと分かりました。更新ツールはアプリを開かなくても起動のたびに動き、影響は最大35万台との推定です。研究チームが停止用の更新を […] — iPhone Mania / score: 75 (旧アプリの更新ツールに起因するMacの乗っ取りリスク)</description>
+</item>
+<item>
+<title>[75] 今後のセキュリティの考え方</title>
+<link>https://zenn.dev/cscloud_blog/articles/a987163efae5d8</link>
+<guid isPermaLink="true">https://zenn.dev/cscloud_blog/articles/a987163efae5d8</guid>
+<pubDate>Fri, 30 Oct 2026 11:11:33 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>どうもサイバーセキュリティクラウド 脅威インテリジェンスグループの西川です。 本日のウェビナー（【緊急開催セミナー】重大脆弱性を狙うサイバー攻撃への備え ～パッチ適用までのリスクを低減する「仮想パッチ」とは～）にお越しくださった皆様ありがとうございます。 当日は時間の関係でお伝えしきれなかった、今後... — はてなブックマーク テクノロジー / score: 75 (サイバーセキュリティと仮想パッチの解説)</description>
 </item>
 <item>
 <title>[75] [AINews] Building AIE CODE: The top Coding Agent Conference</title>
@@ -789,22 +805,6 @@
 <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster. — OpenAI News / score: 75 (OpenAIを用いたセキュリティ脆弱性調査の事例)</description>
-</item>
-<item>
-<title>[75] GPT-6.1 Terra</title>
-<link>https://simonwillison.net/2026/Oct/26/gpt-61-terra/</link>
-<guid isPermaLink="true">https://simonwillison.net/2026/Oct/26/gpt-61-terra/</guid>
-<pubDate>Mon, 26 Oct 2026 23:53:07 +0000</pubDate>
-<category>Simon Willison</category>
-<description>GPT-6.1 Terra It's always interesting to note which aspects of a new model are emphasized in the release announcement. In the case of GPT-6.1 Terra, OpenAI went with visual reasoning and computer use: We’re introducing GPT-6.1 Terra , a fast, efficient model that combines detailed visual reasoning and precise computer use alongside clearer, more natural writing. A significant step up from GPT‑5.6 Terra, it excels at the communication and computer-based tasks that fill the workday, from drafting  — Simon Willison / score: 75 (GPT-6.1 Terraの機能とビジュアル推論の解説)</description>
-</item>
-<item>
-<title>[75] Greptile takes bug detection beyond code review with GPT-6 Astra</title>
-<link>https://openai.com/index/greptile-code-review-codex-astra</link>
-<guid isPermaLink="true">https://openai.com/index/greptile-code-review-codex-astra</guid>
-<pubDate>Mon, 26 Oct 2026 22:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework. — OpenAI News / score: 75 (GPT-6 Astraを活用したバグ検出の事例)</description>
 </item>
 </channel>
 </rss>
