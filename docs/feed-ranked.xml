@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 30 Oct 2026 06:11:59 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 08:09:28 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[98] Linuxに深刻度9.8の脆弱性、認証なしでroot権限奪取　AnthropicのAIが攻撃を実証</title>
@@ -21,6 +21,14 @@
 <pubDate>Thu, 29 Oct 2026 22:47:13 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>LinuxカーネルのIPv4ネットワーク処理に、遠隔からの悪用につながるUse-After-Free（解放済みメモリの再利用）の脆弱性「CVE-2026-98432」が確認されました。Canonicalが2026年10月15日に公開し、28日に更新したUbuntuの脆弱性情報では、CVSS v3.1の基本値は9.8（Critical）、Ubuntu独自の優先度は「High」と評価されて... — はてなブックマーク テクノロジー / score: 98 (Linuxカーネルの遠隔root権限実行可能な重大脆弱性)</description>
+</item>
+<item>
+<title>[95] Trojanized Claude Code Extension Plants an SSH Backdoor</title>
+<link>https://opensourcemalware.com/blog/trojanized-claude-code-extension-plants-persistent-ssh-backdoor</link>
+<guid isPermaLink="true">https://opensourcemalware.com/blog/trojanized-claude-code-extension-plants-persistent-ssh-backdoor</guid>
+<pubDate>Fri, 30 Oct 2026 05:57:15 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>v 2.1.313 contains a loader that runs ahead of the real extension code adds an attacker key, opens a reverse tunnel, and sets persistence By c0a15726-c5b1-4b0d-85e6-fe15553df9e2 · 2026-10-30T09:42:00.000Z The official Claude Code VSCode extension was compromised today. Yes, you heard that right. ... — はてなブックマーク テクノロジー / score: 95 (開発ツール拡張機能に混入した深刻なバックドア事例)</description>
 </item>
 <item>
 <title>[95] Linuxカーネルの重大な脆弱性（CVE-2026-98432）によるカーリルへの影響について – カーリルのブログ</title>
@@ -87,12 +95,28 @@
 <description>悪意のある攻撃者がLinuxの仮想マシンを不正に操作することで、仮想マシンの境界を抜けてホスト側のLinux OSで不正なコードを実行できる可能性がある脆弱性「PwnEscape」（CVE-2026-99999）の情報が公開されています。 ... — Publickey / score: 95 (Linuxカーネルの深刻な脆弱性の報告)</description>
 </item>
 <item>
+<title>[90] 無印良品、「MUJIアプリ」の利用者情報最大約2726万件が不正アクセスにより流出の可能性</title>
+<link>https://internet.watch.impress.co.jp/docs/news/2152666.html</link>
+<guid isPermaLink="true">https://internet.watch.impress.co.jp/docs/news/2152666.html</guid>
+<pubDate>Fri, 30 Oct 2026 06:32:44 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>無印良品、「MUJIアプリ」の利用者情報最大約2726万件が不正アクセスにより流出の可能性 — はてなブックマーク テクノロジー / score: 90 (最大2,726万件の大量の個人情報流出インシデント)</description>
+</item>
+<item>
 <title>[90] 無印良品、最大2726万件の個人情報流出か　公式アプリに不正アクセス、退会者も対象</title>
-<link>https://ascii.jp/elem/000/004/447/4447321/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/447/4447321/?rss</guid>
-<pubDate>Fri, 30 Oct 2026 05:40:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>良品計画は10月30日、無印良品の公式アプリ「MUJIアプリ」で、顧客情報が外部に流出した可能性があると発表した。退会者の情報を含む最大約2726万件が対象。 — ASCII.jp / score: 90 (最大2726万件の大規模な個人情報流出インシデント)</description>
+<link>https://ascii.jp/elem/000/004/447/4447321/</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/447/4447321/</guid>
+<pubDate>Fri, 30 Oct 2026 06:27:20 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>良品計画は10月30日、無印良品の公式アプリ「MUJIアプリ」で、顧客情報が外部に流出した可能性があると発表した。退会者の情報を含む最大約2726万件が対象。外部からの不正アクセスを検知し、アクセス遮断と修正を実施した。 流出の恐れがあるのは、メールアドレス、生年月日、性別の3項目。クレジットカード情報、氏名... — はてなブックマーク テクノロジー / score: 90 (アプリの不正アクセスによる大規模な個人情報流出)</description>
+</item>
+<item>
+<title>[90] 無印良品、不正アクセスで最大2726万件の会員情報漏えいか　退会済みのユーザーも対象</title>
+<link>https://www.itmedia.co.jp/news/article/2610/30/2000002756/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/30/2000002756/</guid>
+<pubDate>Fri, 30 Oct 2026 06:22:23 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>「無印良品」を展開する良品計画（東京都文京区）は10月30日、同社が運営する「MUJIアプリ」の顧客情報が最大約2726万件流出した可能性があると発表した。退会済みの利用者の情報も含まれる。会員向けセール「無印良品週間」の開催期間中の公表となった。 流出した可能性があるのは、メールアドレス、生年月日、性別の3... — はてなブックマーク テクノロジー / score: 90 (無印良品アプリの最大2,726万件情報漏えい問題)</description>
 </item>
 <item>
 <title>[90] 暗号資産 約1兆円が一瞬で流出…。史上最大規模のハッキングが発生、一体何があった？</title>
@@ -151,14 +175,6 @@
 <description>「WordPress」の開発チームは10月28日、「WordPress 7.1.4」をリリースした。ブログシステム「WordPress」のセキュリティリリースで、速やかなアップデートが推奨されている。 — 窓の杜 / score: 90 (WordPressの緊急セキュリティアップデート)</description>
 </item>
 <item>
-<title>[90] GMO脅迫サイト 国が遮断を要請</title>
-<link>https://news.yahoo.co.jp/pickup/6600494?source=rss</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6600494?source=rss</guid>
-<pubDate>Wed, 28 Oct 2026 21:55:03 +0000</pubDate>
-<category>Yahoo!ニュース IT</category>
-<description> — Yahoo!ニュース IT / score: 90 (GMO脅迫サイトに対する国レベルでのアクセス遮断要請。)</description>
-</item>
-<item>
 <title>[90] AppleがiPhone XSとXRの脆弱性を修正〜攻撃に悪用された可能性</title>
 <link>https://iphone-mania.jp/ios-608049/</link>
 <guid isPermaLink="true">https://iphone-mania.jp/ios-608049/</guid>
@@ -183,7 +199,7 @@
 <description>Next.js is preparing a scheduled November security release for November 3, 2026. — Next.js Blog / score: 90 (Next.jsの重要なセキュリティリリース予告)</description>
 </item>
 <item>
-<title>[90] Apple製品で一斉セキュリティアップデート、「macOS Golden Gate 27.2」は260件超／ゼロデイ脆弱性の修正が「iOS 27」以降へアップデートできない古いデバイスにも</title>
+<title>[90] Apple製品で一斉セキュリティアップデート、「macOS Golden Gate 27.2」は260件超【10月30日追記】／ゼロデイ脆弱性の修正が「iOS 27」以降へアップデートできない古いデバイスにも</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2151422.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2151422.html</guid>
 <pubDate>Tue, 27 Oct 2026 07:43:00 +0000</pubDate>
@@ -263,12 +279,28 @@
 <description>米OpenAIは10月26日（現地時間）、新しいAIモデル「GPT-6.1 Terra」を発表した。7月に発表された「GPT-5.6 Terra」以来のアップデートで、「Terra」シリーズとしては初の「GPT-6.x」モデルとなる。 — 窓の杜 / score: 88 (OpenAIの新モデルGPT-6.1 Terra発表)</description>
 </item>
 <item>
-<title>[85] 暗号資産交換所大手に不正侵入か</title>
-<link>https://news.yahoo.co.jp/pickup/6600684?source=rss</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6600684?source=rss</guid>
-<pubDate>Fri, 30 Oct 2026 05:57:34 +0000</pubDate>
+<title>[85] 無印良品 最大2726万件情報流出か</title>
+<link>https://news.yahoo.co.jp/pickup/6600686?source=rss</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6600686?source=rss</guid>
+<pubDate>Fri, 30 Oct 2026 06:30:41 +0000</pubDate>
 <category>Yahoo!ニュース IT</category>
-<description> — Yahoo!ニュース IT / score: 85 (暗号資産交換所の不正侵入という重大なセキュリティ事案)</description>
+<description> — Yahoo!ニュース IT / score: 85 (無印良品の大量情報流出を報じるニュース)</description>
+</item>
+<item>
+<title>[85] Cognition、脆弱性の検出から修正までを一気通貫で担う「Devin Security 2.0」を発表</title>
+<link>https://ascii.jp/elem/000/004/447/4447371/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/447/4447371/?rss</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>Cognition、脆弱性の検出から修正までを一気通貫で担う「Devin Security 2.0」を発表 — ASCII.jp / score: 85 (Devinによる脆弱性検出と修正の自動化ツール発表)</description>
+</item>
+<item>
+<title>[85] 松屋のアプリに不正アクセス、約238万件の個人情報が漏えい　停止中の補償も予定</title>
+<link>https://www.itmedia.co.jp/news/article/2610/30/2000002753/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/30/2000002753/</guid>
+<pubDate>Fri, 30 Oct 2026 05:51:18 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>牛丼チェーン「松屋」を運営する松屋フーズホールディングス（東京都武蔵野市）は10月30日、29日に公表した不正アクセスについて、公式アプリの管理システムから約238万件の個人情報が漏えいしていたことが判明したと発表した。 漏えいしたのは、会員IDや氏名、電話番号、「松屋ポイント」の情報。アプリ内の弁当予約サ... — はてなブックマーク テクノロジー / score: 85 (松屋アプリの不正アクセスによる約238万件の漏えい)</description>
 </item>
 <item>
 <title>[85] 暗号資産の「バイナンス」に不正アクセスか 影響額 約9900億円 | NHKニュース</title>
@@ -276,15 +308,7 @@
 <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261030de68404</guid>
 <pubDate>Fri, 30 Oct 2026 04:56:14 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>暗号資産の取引を手がける世界的な大手の「バイナンス」は29日、不正アクセスとみられるセキュリティー上の問題が起きたことを明らかにし、影響額が推定でおよそ63億ドル、日本円にしておよそ9900億円に上る… — はてなブックマーク テクノロジー / score: 85 (暗号資産の大規模な不正アクセスと莫大な被害額)</description>
-</item>
-<item>
-<title>[85] ヤクルト、約4万件の情報漏えい　不正アクセスで</title>
-<link>https://ascii.jp/elem/000/004/447/4447238/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/447/4447238/?rss</guid>
-<pubDate>Fri, 30 Oct 2026 03:40:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>ヤクルト本社のホームページ（HP）が不正アクセスを受けた問題で、同社は10月30日、第2報として被害状況を公表した。 — ASCII.jp / score: 85 (企業における実害を伴う大規模な情報漏えい事故)</description>
+<description>暗号資産の取引所として世界的な大手の「バイナンス」は29日、不正アクセスとみられるセキュリティー上の問題が起き、影響額が推定でおよそ63億ドル、日本円にしておよそ9900億円に上ることを明らかにしまし… — はてなブックマーク テクノロジー / score: 85 (暗号資産の大規模な不正アクセスと莫大な被害額)</description>
 </item>
 <item>
 <title>[85] アメリカ当局がNVIDIAのフアンCEOと親しいデータセンター企業幹部を中国のスパイだと断定</title>
@@ -293,14 +317,6 @@
 <pubDate>Fri, 30 Oct 2026 02:12:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>「NVIDIA製のAIチップを中国に横流ししている」という疑いのあるシンガポールの企業の幹部が、中国のスパイであり、中国政府に情報を流していたとアメリカの諜報機関が結論付けていたことがわかりました。この人物はNVIDIAのジェンスン・フアンCEOと親しく、フアンCEOがスパイの標的になっていた可能性が大きいとみられます。 続きを読む... — GIGAZINE / score: 85 (AI半導体業界の巨人に絡む地政学・スパイ事件)</description>
-</item>
-<item>
-<title>[85] 「ダウンロード」フォルダに「AI指示書」（.md）を置かないで--CodexやClaude Codeを操る攻撃</title>
-<link>https://japan.cnet.com/article/35254160/</link>
-<guid isPermaLink="true">https://japan.cnet.com/article/35254160/</guid>
-<pubDate>Thu, 29 Oct 2026 22:17:46 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>同社は顧客のPCで、AIが不正なソフトを導入しようとする動きを検知し、実行前に阻止したという。調査の結果、AIは作業場所としていたダウンロードフォルダー内の「AGENTS.md」というファイルに書かれた指示に従っていたことが分かった。ただし、このファイルがPCに保存された経緯は分かっていない。 AGENTS.mdは、AIに開... — はてなブックマーク テクノロジー / score: 85 (AIエージェントのファイル経由のプロンプトインジェクション)</description>
 </item>
 <item>
 <title>[85] 1週間以上メンテだった『神撃のバハムート』、「PHP脆弱性」対応が無事完了。“複数世代にわたる大幅なバージョンアップ”を経て、老舗ゲームが大改修 - AUTOMATON</title>
@@ -551,14 +567,6 @@
 <description>Amazon Web Services（AWS）は、サーバレス基盤のAWS Lambda上でNext.jsやExpress、Hono、FastifyなどのNode.js用フレームワークとそのアプリケーションをそのままデプロイして実行できる新... — Publickey / score: 85 (AWS Lambdaの新機能発表で実用性が高く重要)</description>
 </item>
 <item>
-<title>[85] JPCERT/CC、アプリ解析によるAPI攻撃の手口を報告、Flutter解析ツールの痕跡も ——API認証情報の扱いに注意喚起</title>
-<link>https://gihyo.jp/article/2026/10/web-api-attacks?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/10/web-api-attacks?utm_source=feed</guid>
-<pubDate>Fri, 16 Oct 2026 07:07:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>JPCERT/CCは2026年10月15日、国内で相次ぐ不正アクセスを受けて進めている攻撃元サーバーの調査結果を公開した。 — gihyo.jp / score: 85 (API攻撃の手口と脆弱性に関する重要な注意喚起)</description>
-</item>
-<item>
 <title>[80] Node.js 26.x系がLTSに移行、コードネームは「Lithium」</title>
 <link>https://codezine.jp/article/detail/30177</link>
 <guid isPermaLink="true">https://codezine.jp/article/detail/30177</guid>
@@ -573,14 +581,6 @@
 <pubDate>Fri, 30 Oct 2026 03:45:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>アメリカ国防総省(ペンダゴン)が、2026年8月にアメリカの軍事基地で相次いで発生した謎の冷蔵庫の不具合について、サイバー攻撃の疑いがあるとして調査を行っていることが明らかになりました。 続きを読む... — GIGAZINE / score: 80 (米軍基地のインフラに対するサイバー攻撃の疑い)</description>
-</item>
-<item>
-<title>[80] 楽天カード、固定パスワード方式を廃止へ　切り替えないと一部店舗で使えなくなるおそれ</title>
-<link>https://ascii.jp/elem/000/004/447/4447235/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/447/4447235/?rss</guid>
-<pubDate>Fri, 30 Oct 2026 03:20:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>楽天カードは10月29日、本人認証サービス（3Dセキュア）の固定パスワード方式を廃止することを公表した。 — ASCII.jp / score: 80 (認証方式のセキュリティ強化と仕様変更)</description>
 </item>
 <item>
 <title>[80] AIが勝手に隔離環境を脱出した事件を受けてOpenAIが「AIを別のAIで監視する仕組み」を公開</title>
@@ -687,20 +687,20 @@
 <description>Today, AWS launched the public beta of TorchNeuron, an open source native PyTorch backend for AWS Trainium. Trainium is a portfolio of AI chips designed to deliver high performance and cost efficiency for deep learning AI training and inference workloads. TorchNeuron enables AI scientists and researchers to experiment and build models with PyTorch natively on Trainium. With TorchNeuron, developers can enable their PyTorch code on Trainium simply by switching to .to('neuron') while maintaining fu — AWS What's New / score: 80 (AWS Trainium向けのネイティブPyTorchサポート発表)</description>
 </item>
 <item>
-<title>[80] JEP targeted to JDK 28: 546: Adaptive Heap Sizing for ZGC</title>
-<link>https://inside.java/2026/10/19/jep546-target-jdk28/</link>
-<guid isPermaLink="true">https://inside.java/2026/10/19/jep546-target-jdk28/</guid>
-<pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-<category>Inside Java</category>
-<description>The following JEP is targeted to JDK 28: 546: Adaptive Heap Sizing for ZGC — Inside Java / score: 80 (JDK 28に向けたZGCのJEPターゲット)</description>
+<title>[75] 暗号資産取引大手に不正侵入か</title>
+<link>https://news.yahoo.co.jp/pickup/6600689?source=rss</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6600689?source=rss</guid>
+<pubDate>Fri, 30 Oct 2026 06:43:51 +0000</pubDate>
+<category>Yahoo!ニュース IT</category>
+<description> — Yahoo!ニュース IT / score: 75 (暗号資産取引所への不正侵入に関する速報)</description>
 </item>
 <item>
-<title>[80] Sakana AI、「The AI Scientist」の第3世代を公開 ——複数エージェントで仮説検証から論文執筆まで、図生成ツール「AutoIllustrate」もオープンソース化</title>
-<link>https://gihyo.jp/article/2026/10/the-agentic-scientist-v3?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/10/the-agentic-scientist-v3?utm_source=feed</guid>
-<pubDate>Fri, 16 Oct 2026 08:08:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Sakana AIは2026年10月15日、科学研究を自動化するThe AI Scientistの第3世代「The Agentic Scientist」を公開した。 — gihyo.jp / score: 80 (Sakana AIによる科学研究自動化AI第3世代の公開)</description>
+<title>[75] お客さま環境内のサーバーで動く脆弱性対応サービス「Local AI Agent for Security」を提供開始</title>
+<link>https://ascii.jp/elem/000/004/447/4447346/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/447/4447346/?rss</guid>
+<pubDate>Fri, 30 Oct 2026 06:23:14 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>お客さま環境内のサーバーで動く脆弱性対応サービス「Local AI Agent for Security」を提供開始 — ASCII.jp / score: 75 (ローカル環境で動作する脆弱性対応AIエージェントの提供)</description>
 </item>
 <item>
 <title>[75] Googleがポリシー改定。Gmailやフォトの中身まで広告選びの参考にされるかも</title>
@@ -725,14 +725,6 @@
 <pubDate>Fri, 30 Oct 2026 01:48:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>フランスに拠点を置くAI企業のMistralが大規模AIモデル「Mistral Large 4」をオープンモデルとして無償公開しました。コーディング性能ではGPT-6.1 Terraと同等性能という評価もあります。 続きを読む... — GIGAZINE / score: 75 (高性能なオープンAIモデルMistral Large 4の公開)</description>
-</item>
-<item>
-<title>[75] ヤクルト本社、個人情報約4万件漏えい　公式サイトへの不正アクセスで</title>
-<link>https://www.itmedia.co.jp/news/article/2610/30/2000002739/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/30/2000002739/</guid>
-<pubDate>Fri, 30 Oct 2026 01:31:05 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>ヤクルト本社は10月30日、同社Webサイトが第三者による不正アクセスを受け、問い合わせフォームの利用者などの個人情報約4万件が外部に漏えいしたことを確認したと発表した。対象件数や期間などの詳細は、順次公表する。 問い合わせフォームでは、利用者の氏名、性別、年齢層、住所、電話番号、メールアドレス、問い合わ... — はてなブックマーク テクノロジー / score: 75 (企業サイトからの大規模な個人情報漏えい事故)</description>
 </item>
 <item>
 <title>[75] An updated Model Spec for more capable and beneficial AI</title>
@@ -805,6 +797,14 @@
 <pubDate>Tue, 27 Oct 2026 16:33:51 +0000</pubDate>
 <category>Publickey</category>
 <description>オラクルはGoogleが開発しているAI専用チップのGoogle TPUをOracle Cloud Infrastructure（以下、Oracle Cloud）に導入し、2027年からGoogle TPUのサービスを提供開始すると発表しま... — Publickey / score: 75 (Oracle CloudへのGoogle TPU導入発表)</description>
+</item>
+<item>
+<title>[75] JavaScriptランタイムの「Bun」がPrettier互換で300倍以上高速なフォーマッタに。Prettier設定ファイルもそのまま利用可能</title>
+<link>https://www.publickey1.jp/blog/26/javascriptbunprettier300prettier.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/javascriptbunprettier300prettier.html</guid>
+<pubDate>Tue, 27 Oct 2026 15:27:52 +0000</pubDate>
+<category>Publickey</category>
+<description>Anthropicが開発しているJavaScriptランタイムの「Bun」の新機能として、Prettier互換のフォーマッタ搭載が発表されました。 2026年10月22日付けでリリースされたBun v1.4.4に搭載されたPrettier互... — Publickey / score: 75 (Bunの高速な新機能追加は開発者に大きな影響がある)</description>
 </item>
 </channel>
 </rss>
