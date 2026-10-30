@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 30 Oct 2026 20:06:37 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 22:05:22 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] Linuxカーネルの重大な脆弱性（CVE-2026-98432）によるカーリルへの影響について – カーリルのブログ</title>
@@ -21,6 +21,14 @@
 <pubDate>Fri, 30 Oct 2026 02:48:26 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Googleは10月29日（現地時間）、デスクトップ向け「Google Chrome」の安定（Stable）チャネルをアップデートした。今後数日から数週間をかけて、Windows/Mac環境にはv156.0.8078.79/.80、Linux環境にはv156.0.8078.79が展開される。 — 窓の杜 / score: 95 (主要ブラウザのCritical含む多数の脆弱性修正)</description>
+</item>
+<item>
+<title>[95] CVE-2026-98432は「待ち受けに届くか」で決まる——OSとクラウドごとの対応状況と、修正版を待つ間にやること(更新)｜zephel01</title>
+<link>https://note.com/zephel01/n/n4637423e080b</link>
+<guid isPermaLink="true">https://note.com/zephel01/n/n4637423e080b</guid>
+<pubDate>Fri, 30 Oct 2026 01:31:28 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>CVE-2026-98432は「待ち受けに届くか」で決まる——OSとクラウドごとの対応状況と、修正版を待つ間にやること(更新) 【更新履歴】 ・10月30日 13時半：Goのセキュリティチームの告知を反映した。Goで書いたサーバーでMPTCPを止める方法と、「バグ自体はMPTCP固有ではない」という見解を、対策5などに加えた ・10月30日 12... — はてなブックマーク テクノロジー / score: 95 (重大なセキュリティ脆弱性と緊急の対応解説のため)</description>
 </item>
 <item>
 <title>[95] Python 3.15.2, 3.14.10, 3.13.18, 3.12.16 and 3.11.18 are out</title>
@@ -231,14 +239,6 @@
 <description>米OpenAIは10月26日（現地時間）、新しいAIモデル「GPT-6.1 Terra」を発表した。7月に発表された「GPT-5.6 Terra」以来のアップデートで、「Terra」シリーズとしては初の「GPT-6.x」モデルとなる。 — 窓の杜 / score: 88 (OpenAIの新モデルGPT-6.1 Terra発表)</description>
 </item>
 <item>
-<title>[85] GMO 4000万円損失の被害者「ずっと恐怖と闘っている」 | NHKニュース</title>
-<link>https://news.web.nhk/newsweb/na/nd-20261030de68556</link>
-<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261030de68556</guid>
-<pubDate>Fri, 30 Oct 2026 10:43:47 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>GMOインターネットグループのサービスが不正アクセスを受けた問題で、身に覚えのない取り引きでおよそ4000万円の損失が出たという40代の男性が取材に応じ、「いつ自分の個人情報が公開されるか分からず、ず… — はてなブックマーク テクノロジー / score: 85 (GMO不正アクセス問題の深刻な被害事例)</description>
-</item>
-<item>
 <title>[85] バイナンス被害 北朝鮮が関与か</title>
 <link>https://news.yahoo.co.jp/pickup/6600708?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6600708?source=rss</guid>
@@ -253,6 +253,14 @@
 <pubDate>Fri, 30 Oct 2026 06:30:41 +0000</pubDate>
 <category>Yahoo!ニュース IT</category>
 <description> — Yahoo!ニュース IT / score: 85 (無印良品の大量情報流出を報じるニュース)</description>
+</item>
+<item>
+<title>[85] WordPressの脆弱性「wp2shell」を狙った攻撃の観測</title>
+<link>https://qiita.com/melkihara/items/8bb5e61321066be53d83?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/melkihara/items/8bb5e61321066be53d83?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Fri, 30 Oct 2026 05:00:30 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>1. はじめに 三菱電機の木原です。 三菱電機 情報技術総合研究所では、製品開発時のセキュリティ対策にフィードバックする目的で、複数種類のハニーポットを設置・運用しています。 今回はIoT家電を標的としたサイバー攻撃を観測するハニーポット「IoT家電ハニーポット」で観測し... — Qiita 人気記事 / score: 85 (WordPressのゼロデイ脆弱性に関する攻撃観測)</description>
 </item>
 <item>
 <title>[85] アメリカ当局がNVIDIAのフアンCEOと親しいデータセンター企業幹部を中国のスパイだと断定</title>
@@ -514,9 +522,9 @@
 <title>[80] 6カ所以上のアメリカ軍基地で食品を腐敗させた「謎の冷凍庫の故障」にサイバー攻撃の疑いあり、国防総省がフランス当局と協力して捜査中</title>
 <link>https://gigazine.net/news/20261030-pentagon-treating-military-freezer-cyberattack/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261030-pentagon-treating-military-freezer-cyberattack/</guid>
-<pubDate>Fri, 30 Oct 2026 04:42:30 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>アメリカ国防総省(ペンダゴン)が、2026年8月にアメリカの軍事基地で相次いで発生した謎の冷蔵庫の不具合について、サイバー攻撃の疑いがあるとして調査を行っていることが明らかになりました。 EXCLUSIVE: Pentagon treating military base freezer malfunctions as suspected cyberattack, officials say | Reuters htt... — はてなブックマーク テクノロジー / score: 80 (米軍基地のインフラに対するサイバー攻撃の疑い)</description>
+<pubDate>Fri, 30 Oct 2026 03:45:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>アメリカ国防総省(ペンダゴン)が、2026年8月にアメリカの軍事基地で相次いで発生した謎の冷蔵庫の不具合について、サイバー攻撃の疑いがあるとして調査を行っていることが明らかになりました。 続きを読む... — GIGAZINE / score: 80 (米軍基地のインフラに対するサイバー攻撃の疑い)</description>
 </item>
 <item>
 <title>[80] AIが勝手に隔離環境を脱出した事件を受けてOpenAIが「AIを別のAIで監視する仕組み」を公開</title>
@@ -533,14 +541,6 @@
 <pubDate>Thu, 29 Oct 2026 16:00:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Starting today, Amazon Aurora PostgreSQL-Compatible Edition introduces support for post-quantum TLS (PQ-TLS) key exchange, providing you with post-quantum cryptography options for encrypting your data in transit. Amazon Aurora PostgreSQL versions 18 and higher support modification of the ssl_groups parameter. You can select cryptographic groups from the Amazon Aurora PostgreSQL allow list to align with your organization's security standards. Amazon Aurora is designed for high performance and ava — AWS What's New / score: 80 (Amazon Auroraの耐量子TLS鍵交換サポート)</description>
-</item>
-<item>
-<title>[80] Mistral Large 4 (Le Chonk) is now open weight | Mistral</title>
-<link>https://mistral.ai/news/mistral-large-4-oss/</link>
-<guid isPermaLink="true">https://mistral.ai/news/mistral-large-4-oss/</guid>
-<pubDate>Thu, 29 Oct 2026 14:50:25 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Mistral released Mistral Large 4 (Le Chonk), a 1-trillion-parameter multimodal model, now available with improved coding, cybersecurity, and reasoning efficiency. It leads open-weight benchmarks in coding and defensive security while offering three reasoning modes for cost-performance balance. Fu... — はてなブックマーク テクノロジー / score: 80 (大規模オープンウェイトマルチモーダルモデル公開)</description>
 </item>
 <item>
 <title>[80] Genie 4: A new generation of world simulation</title>
@@ -687,6 +687,14 @@
 <description>フランスに拠点を置くAI企業のMistralが大規模AIモデル「Mistral Large 4」をオープンモデルとして無償公開しました。コーディング性能ではGPT-6.1 Terraと同等性能という評価もあります。 Mistral Large 4 (Le Chonk) is now open weight | Mistral https://mistral.ai/news/mistral-large-4-oss/ Mistral Large 4は202... — はてなブックマーク テクノロジー / score: 75 (高性能なオープンAIモデルMistral Large 4の公開)</description>
 </item>
 <item>
+<title>[75] Claude Platform release notes — October 30, 2026</title>
+<link>https://platform.claude.com/docs/en/release-notes/overview#october-30-2026</link>
+<guid isPermaLink="true">https://platform.claude.com/docs/en/release-notes/overview#october-30-2026</guid>
+<pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+<category>Claude リリースノート</category>
+<description>We’ve deprecated fast mode for Claude Opus 4.8, with removal on November 30, 2026. After removal, requests to claude-opus-4-8 with speed: "fast" will return an error. To continue using fast mode, migrate to Claude Opus 5.5 . Read more in Fast mode . — Claude リリースノート / score: 75 (Claudeプラットフォームのマネージドエージェント更新)</description>
+</item>
+<item>
 <title>[75] 忙しい人のための #GitHubUniverse 2026 新発表まとめ[簡易版]</title>
 <link>https://qiita.com/chomado/items/ce32e402cc4f14145a6c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
 <guid isPermaLink="true">https://qiita.com/chomado/items/ce32e402cc4f14145a6c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
@@ -711,14 +719,6 @@
 <description>米Microsoftは10月28日（現地時間）、「Microsoft Copilot harness」を発表した。傘下のGitHubで開発が進められていた「GitHub Copilot」由来のエージェント実行基盤を全社共通化したもので、「Microsoft Foundry」にてパブリックプレビューとして提供される。 — 窓の杜 / score: 75 (Microsoftによる開発基盤の共通化とSDK統合)</description>
 </item>
 <item>
-<title>[75] VS Code 1.144：PC を閉じてもエージェントが働く。Cloud セッションと Cloud Automations を試した</title>
-<link>https://qiita.com/shahin0809/items/26e401dc28c1ca60d8c7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/shahin0809/items/26e401dc28c1ca60d8c7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Thu, 29 Oct 2026 06:27:45 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>はじめに 最新アップデートを追うのが完全趣味になっているMicrosoft Student Ambassador/Github Copilot User Group Japan運営のロホマン シャヒンです！ この記事が少しでも参考になったら、ぜひいいね・共有をお願い... — Qiita 人気記事 / score: 75 (VS Code最新版の新機能解説)</description>
-</item>
-<item>
 <title>[75] Google、Gemini 4 Carbonを発表 ——長時間の開発作業と脆弱性の発見・修正を強化</title>
 <link>https://gihyo.jp/article/2026/10/gemini-4-carbon?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/10/gemini-4-carbon?utm_source=feed</guid>
@@ -733,14 +733,6 @@
 <pubDate>Thu, 29 Oct 2026 01:00:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 75 (Cursorのエージェント構築基盤一般提供)</description>
-</item>
-<item>
-<title>[75] Claude Platform release notes — October 29, 2026</title>
-<link>https://platform.claude.com/docs/en/release-notes/overview#october-29-2026</link>
-<guid isPermaLink="true">https://platform.claude.com/docs/en/release-notes/overview#october-29-2026</guid>
-<pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-<category>Claude リリースノート</category>
-<description>We’ve launched the Usage and Cost Analytics API in beta with the analytics-usage-cost-2026-08-24 beta header. Its /v1/organizations/analytics/usage and /v1/organizations/analytics/cost endpoints report token usage and cost for Claude Console and Claude Enterprise organizations. You can filter and group results by dimensions such as model, workspace, API key, and the user or service account behind each request. The Usage and Cost API is now a legacy API, and so are the usage_report , cost_report  — Claude リリースノート / score: 75 (Claudeプラットフォームのマネージドエージェント更新)</description>
 </item>
 <item>
 <title>[75] Gemini 4 Carbon: Our next frontier model</title>
@@ -805,6 +797,14 @@
 <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster. — OpenAI News / score: 75 (OpenAIを用いたセキュリティ脆弱性調査の事例)</description>
+</item>
+<item>
+<title>[75] GPT-6.1 Terra</title>
+<link>https://simonwillison.net/2026/Oct/26/gpt-61-terra/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Oct/26/gpt-61-terra/</guid>
+<pubDate>Mon, 26 Oct 2026 23:53:07 +0000</pubDate>
+<category>Simon Willison</category>
+<description>GPT-6.1 Terra It's always interesting to note which aspects of a new model are emphasized in the release announcement. In the case of GPT-6.1 Terra, OpenAI went with visual reasoning and computer use: We’re introducing GPT-6.1 Terra , a fast, efficient model that combines detailed visual reasoning and precise computer use alongside clearer, more natural writing. A significant step up from GPT‑5.6 Terra, it excels at the communication and computer-based tasks that fill the workday, from drafting  — Simon Willison / score: 75 (GPT-6.1 Terraの機能とビジュアル推論の解説)</description>
 </item>
 </channel>
 </rss>

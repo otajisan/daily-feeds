@@ -4,8 +4,32 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 30 Oct 2026 20:06:37 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 22:05:22 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Waymoが日本で自動運転タクシーにトヨタbZ4Xを採用し2027年に運行開始すると発表</title>
+<link>https://gigazine.net/news/20261031-toyota-waymo-bz4x-robotaxi-2027/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261031-toyota-waymo-bz4x-robotaxi-2027/</guid>
+<pubDate>Fri, 30 Oct 2026 22:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>Google発の自動運転企業であるWaymoが、電気自動車の「bZ4X」を日本での自動運転タクシー(ロボタクシー)に採用し、初期運行を2027年に日本で開始することを発表しました。 続きを読む... — GIGAZINE / score: 70 (自動運転タクシーの日本展開に関する業界ニュース)</description>
+</item>
+<item>
+<title>【日曜まで】肉ピザがほぼ半額！ 2205円→1129円　ピザハットの「肉の日」日曜まで開催中</title>
+<link>https://ascii.jp/elem/000/004/447/4447316/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/447/4447316/?rss</guid>
+<pubDate>Fri, 30 Oct 2026 22:00:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>ピザハットは、期間限定の「肉の日キャンペーン」を11月1日まで開催中。肉系ハーフ＆ハーフピザを持ち帰り1129円から販売します。 — ASCII.jp / score: 0 (技術ニュースではなくグルメ情報)</description>
+</item>
+<item>
+<title>Amazon Bedrock expands API support and introduces Cross-Region Inferencing for OpenAI models in AWS GovCloud (US)</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-openai-runtime-govcloud/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-openai-runtime-govcloud/</guid>
+<pubDate>Fri, 30 Oct 2026 20:43:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon Bedrock now supports the OpenAI GPT-5.6 models (Terra and Luna) on the bedrock-runtime endpoint, with support for the Responses, Converse, and Chat Completions APIs in AWS GovCloud (US). It also adds support for Cross-Region Inference, allowing customers to use Cross-Region Inference within AWS GovCloud (US) regions to access higher throughput and increased redundancy. Cross-Region Inference automatically routes inference requests across both AWS GovCloud (US) Regions to give you higher t — AWS What's New / score: 60 (主要なクラウドサービスにおけるAIモデルAPIの拡張)</description>
+</item>
 <item>
 <title>Web Search now available on Kiro in AWS GovCloud (US)</title>
 <link>https://aws.amazon.com/about-aws/whats-new/2026/10/kiro-web-search-aws-govcloud-us/</link>
@@ -45,6 +69,14 @@
 <pubDate>Fri, 30 Oct 2026 18:20:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Security teams need powerful tools to find vulnerabilities, test exploits, and build defenses. Daybreak Red from OpenAI is now available to eligible customers on Amazon Bedrock in AWS GovCloud (US-East), bringing advanced AI to this work. Part of OpenAI’s Daybreak cyber defense initiative, Daybreak Red: GPT-5.6 Cyber is built for authorized vulnerability research, exploit reproduction, and mitigation development. It gives verified defenders more room to investigate complex security problems, wit — AWS What's New / score: 75 (OpenAIのセキュリティ向けモデルがBedrockで利用可能に。)</description>
+</item>
+<item>
+<title>Amazon CloudFront now provides viewer ISP and post-quantum TLS details</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/cloudfront-viewer-isp-post-quantum-visbility/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/cloudfront-viewer-isp-post-quantum-visbility/</guid>
+<pubDate>Fri, 30 Oct 2026 18:15:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon CloudFront can now forward two new optional headers to your origin. The CloudFront-Viewer-ISP header contains the name of the viewer's internet service provider (ISP), so you can see which network a request came from. The CloudFront-Viewer-TLS-Details header describes the cryptography used on each viewer's TLS connection, so you can see whether a connection used post-quantum cryptography (PQC). With CloudFront-Viewer-ISP, you can break down traffic and performance by network. You can also — AWS What's New / score: 55 (CDNサービスの機能強化とセキュリティ対応のアップデート)</description>
 </item>
 <item>
 <title>nemotron-halloween</title>
@@ -95,14 +127,6 @@
 <description>iPad mini（A20 Pro）は、最大リフレッシュレート120HzのProMotionテクノロジーには対応していないものの、有機EL（OLED）ディスプレイの採用によって画素応答速度が大幅に向上したと、Appleの […] — iPhone Mania / score: 40 (iPad miniのディスプレイに関する噂)</description>
 </item>
 <item>
-<title>What’s new with Google Cloud</title>
-<link>https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/</guid>
-<pubDate>Fri, 30 Oct 2026 16:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block &lt;ListValue: []&gt; Oct 26 - Oct 30 Simplify PostgreSQL Monitoring with the New AlloyDB Omni Web UI The newly released AlloyDB Omni Web UI del — Google Cloud Blog / score: 30 (Google Cloudの一般的な更新情報まとめのため)</description>
-</item>
-<item>
 <title>What’s new in AI infrastructure and orchestration in October</title>
 <link>https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/</link>
 <guid isPermaLink="true">https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/</guid>
@@ -125,6 +149,14 @@
 <pubDate>Fri, 30 Oct 2026 16:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>Today, we’re announcing that spend caps on Google Cloud Budgets are generally available. With this release, we’re delivering ways to protect your workloads from runaway costs without risking resource deletion. More importantly, we’re introducing three major updates, directly inspired by your feedback since the initial preview, to bring programmability, real-time visibility, and automated guardrails to your cost-control playbook. How the new spend caps can help your business We have significantly — Google Cloud Blog / score: 70 (Google Cloudの予算上限機能がGA化)</description>
+</item>
+<item>
+<title>What’s new with Google Cloud</title>
+<link>https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/</guid>
+<pubDate>Fri, 30 Oct 2026 16:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block &lt;ListValue: []&gt; Oct 26 - Oct 30 Simplify PostgreSQL Monitoring with the New AlloyDB Omni Web UI The newly released AlloyDB Omni Web UI del — Google Cloud Blog / score: 30 (Google Cloudの一般的な更新情報まとめのため)</description>
 </item>
 <item>
 <title>AWS WAF announces automatic SDK integration for Amazon CloudFront distributions</title>
@@ -175,20 +207,20 @@
 <description>tl;dr: 利用者側は使わない理由はない カスタムアクションやreusable workflow提供者側に関する仕様はまだ議論中のものもあるため、現状を理解した上で提供方法をアップデートしていくと良い GitHub Actions workflow lockfiles がGA 🎉 全人類待望のGitHub Actionsのworkflow dependency lockfile が、2026年10月28日に... — はてなブックマーク テクノロジー / score: 70 (GitHub Actionsのlockfile対応解説)</description>
 </item>
 <item>
+<title>プライバシー重視メール「Proton Mail」の開発企業はAIの導入に突き進んでおりCEOが社員を日常的に叱責</title>
+<link>https://gigazine.net/news/20261030-proton-ceo-ai/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261030-proton-ceo-ai/</guid>
+<pubDate>Fri, 30 Oct 2026 14:12:46 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>スイスに拠点を置くテクノロジー企業「Proton」はプライバシー重視のメールサービス「Proton Mail」やAIサービス「Lumo」などの製品を展開しています。そんなProtonについて「社内でAI導入が急速に進んでおり、CEOによる社員への叱責が日常的に繰り広げられている」という情報が海外メディアの404 Mediaによって報じられ... — はてなブックマーク テクノロジー / score: 40 (プライバシー重視企業における社内AI導入と経営方針)</description>
+</item>
+<item>
 <title>文章のAIっぽさを抑えるプロンプト</title>
 <link>https://imoz.jp/scraps/202610_humanizer.html</link>
 <guid isPermaLink="true">https://imoz.jp/scraps/202610_humanizer.html</guid>
 <pubDate>Fri, 30 Oct 2026 14:00:14 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>文章のAIっぽさを抑えるプロンプト 最近の大規模言語モデル（LLM）を使っていると、コーディング能力が高まる一方で、文章の流暢さは失われていると感じます。短い説明でも細かく見出しを付けたり、具体例の後に同じ結論を言い直したりして、個々の文は読めても説明の流れが途切れることがあります。 その一方で、指示に... — はてなブックマーク テクノロジー / score: 50 (AI文章の不自然さを抑えるプロンプト手法)</description>
-</item>
-<item>
-<title>プライバシー重視メール「Proton Mail」の開発企業はAIの導入に突き進んでおりCEOが社員を日常的に叱責</title>
-<link>https://gigazine.net/news/20261030-proton-ceo-ai/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261030-proton-ceo-ai/</guid>
-<pubDate>Fri, 30 Oct 2026 14:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>スイスに拠点を置くテクノロジー企業「Proton」はプライバシー重視のメールサービス「Proton Mail」やAIサービス「Lumo」などの製品を展開しています。そんなProtonについて「社内でAI導入が急速に進んでおり、CEOによる社員への叱責が日常的に繰り広げられている」という情報が海外メディアの404 Mediaによって報じられました。 続きを読む... — GIGAZINE / score: 40 (プライバシー重視企業における社内AI導入と経営方針)</description>
 </item>
 <item>
 <title>蒸れないOnの防水シューズ。徒歩3万歩でも足は元気でした</title>
@@ -303,6 +335,14 @@
 <description>世界50カ国での選挙における生体認証導入の現状と課題を解説。日本の自己申告による本人確認と比較し、デジタル化のメリットやリスクを考察します。 — ギズモード・ジャパン / score: 45 (選挙の生体認証導入に関する技術的・社会的考察)</description>
 </item>
 <item>
+<title>Spotify、AIでカバー曲作成可能に　収益は原曲アーティストに還元 - 日本経済新聞</title>
+<link>https://www.nikkei.com/article/DGXZQOGR308WY0Q6A031C2000000/</link>
+<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOGR308WY0Q6A031C2000000/</guid>
+<pubDate>Fri, 30 Oct 2026 12:18:50 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>【ロンドン=藤生貴子】スウェーデンの音楽配信大手スポティファイは、2027年初めに利用者が生成AI（人工知能）を使って楽曲を編集できるサービスを始める。同社が原曲のアーティストに収益還元する仕組みも整えるとしている。英フィナンシャル・タイムズ（FT）によると、27年1〜3月に新サービスの提供を目指している。有... — はてなブックマーク テクノロジー / score: 60 (音楽配信大手のAIを活用した新サービス発表)</description>
+</item>
+<item>
 <title>昔入れたPopcorn TimeでMacに乗っ取りの恐れ〜更新ツールが起動時に動く</title>
 <link>https://iphone-mania.jp/mac-608137/</link>
 <guid isPermaLink="true">https://iphone-mania.jp/mac-608137/</guid>
@@ -375,6 +415,14 @@
 <description>圧倒的な音圧と、損なわれない原音のクリアさ。これ1台で完結するマスタリング・ツール、Musik Hack「Master Plan 2」リリースです。 Master Plan 2 『Master Plan 2』は、ミックス... The post 圧倒的な音圧と、損なわれない原音のクリアさ。これ1台で完結するマスタリング・ツール、Musik Hack「Master Plan 2」リリース！ first appeared on Computer Music Japan . — Computer Music Japan / score: 30 (音楽制作用マスタリングツールプラグインのリリース)</description>
 </item>
 <item>
+<title>マルチタスクが苦手なので、Slack の返信と PR レビューを Claude Code に定時で下ごしらえさせている</title>
+<link>https://qiita.com/generoKoki/items/81ca4042e30c42ffe4a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/generoKoki/items/81ca4042e30c42ffe4a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Fri, 30 Oct 2026 11:21:08 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>はじめに 作ったきっかけ 自分はシングルスレッドな人間で、マルチタスクが大の苦手です。 Slack の返信に、業務の時間のかなりの部分を取られている メンションがたくさん来ると、あとで返そうと思ったものを忘れてしまう そこで、「返し忘れを拾う」「返信の下書きを先に作... — Qiita 人気記事 / score: 45 (AIを活用した開発効率化の実践的なワークフロー)</description>
+</item>
+<item>
 <title>今後のセキュリティの考え方</title>
 <link>https://zenn.dev/cscloud_blog/articles/a987163efae5d8</link>
 <guid isPermaLink="true">https://zenn.dev/cscloud_blog/articles/a987163efae5d8</guid>
@@ -391,12 +439,20 @@
 <description>ASUSの14型ノートPC「Zenbook SORA（UX3407QA-PU32548GR）」がAmazonのタイムセール対象。参考価格264,800円から6％オフの249,800円で販売中。約899gの軽量ボディに32GBメモリを搭載し、動画再生時約15.8時間のバッテリー駆動にも対応。持ち歩きやすさを優先しても、メモリ容量は妥協したくない人にぴったりの構成だ。 — ASCII.jp / score: 20 (ノートPCのセール・スペック紹介)</description>
 </item>
 <item>
+<title>【備忘録】SPAのNode.jsのバージョンアップを行う</title>
+<link>https://qiita.com/ryu0947/items/cad5f6574426dae6917c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/ryu0947/items/cad5f6574426dae6917c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Fri, 30 Oct 2026 11:06:54 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>はじめに PHPの脆弱性で世界中が大騒ぎになっている裏側でNode.jsでも脆弱性が発見されてバージョンアップがされました。 私は本業がWeb制作でnpmやNode.jsを使用する機会はほぼ無いのですが、1つだけReactで開発したSPAの案件があります。 ビルドし... — Qiita 人気記事 / score: 40 (SPA開発における依存関係のバージョンアップ手順)</description>
+</item>
+<item>
 <title>AppleはiPhoneをエサにメモリメーカーへ大幅な値引きを強要してきたがAIの登場で価格が高騰して立場が逆転しているとの指摘</title>
 <link>https://gigazine.net/news/20261030-apple-chip-sellers-impact/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261030-apple-chip-sellers-impact/</guid>
-<pubDate>Fri, 30 Oct 2026 11:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>以前はAppleに安く買いたたかれていたメモリ製品をめぐる状況が、AIの登場でガラッと変わってしまったとウォール・ストリート・ジャーナルが報じています。 続きを読む... — GIGAZINE / score: 60 (半導体市場とAppleの力関係の変化に関する動向)</description>
+<pubDate>Fri, 30 Oct 2026 11:01:02 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>以前はAppleに安く買いたたかれていたメモリ製品をめぐる状況が、AIの登場でガラッと変わってしまったとウォール・ストリート・ジャーナルが報じています。 The Beleaguered Chip Sellers Getting Their Revenge on Apple - WSJ https://www.wsj.com/tech/apple-iphone-memory-chips-ai-c0084cc9 Appleは「iPod」で東芝... — はてなブックマーク テクノロジー / score: 60 (半導体市場とAppleの力関係の変化に関する動向)</description>
 </item>
 <item>
 <title>いよいよ発売間近！ Switch 2『ゼルダの伝説 時のオカリナ』が14％オフ</title>
@@ -447,14 +503,6 @@
 <description>Razerのネコ耳ヘッドセット第3世代「Kraken Kitty V3」が登場。シリーズ最軽量の315gを実現し、USB Type-C対応やコスプレモードも搭載した注目モデルの魅力を紹介します。 — ギズモード・ジャパン / score: 20 (ゲーミングデバイスの新製品紹介。)</description>
 </item>
 <item>
-<title>GMO 4000万円損失の被害者「ずっと恐怖と闘っている」 | NHKニュース</title>
-<link>https://news.web.nhk/newsweb/na/nd-20261030de68556</link>
-<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261030de68556</guid>
-<pubDate>Fri, 30 Oct 2026 10:43:47 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>GMOインターネットグループのサービスが不正アクセスを受けた問題で、身に覚えのない取り引きでおよそ4000万円の損失が出たという40代の男性が取材に応じ、「いつ自分の個人情報が公開されるか分からず、ず… — はてなブックマーク テクノロジー / score: 85 (GMO不正アクセス問題の深刻な被害事例)</description>
-</item>
-<item>
 <title>AI生成曲検知 JASRACが導入検討</title>
 <link>https://news.yahoo.co.jp/pickup/6600711?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6600711?source=rss</guid>
@@ -469,6 +517,14 @@
 <pubDate>Fri, 30 Oct 2026 10:35:00 +0000</pubDate>
 <category>ASCII.jp</category>
 <description>2026年10月29日、ソニー・インタラクティブエンタテインメントはDualSense ワイヤレスコントローラーとPlayStation 5用カバーの新たなカラーバリエーション「プリズム コレクション」を2027年2月4日に発売すると発表。 — ASCII.jp / score: 15 (コンシューマー向け周辺機器の発売情報。)</description>
+</item>
+<item>
+<title>AgentCore GatewayのターゲットにStep Functionsを指定できるようになりました</title>
+<link>https://qiita.com/har1101/items/de6104e8057452ebd720?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/har1101/items/de6104e8057452ebd720?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Fri, 30 Oct 2026 10:33:25 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>こんにちは、ふくちです。 AgentCore GatewayのターゲットにStep Functionsが選べるようになったので、一通り触ってみました。 何ができるのか 既存のステートマシンを、そのままMCPツールとしてエージェントに渡せます。現状でも既存のAP... — Qiita 人気記事 / score: 55 (クラウドサービスの機能追加に関する速報)</description>
 </item>
 <item>
 <title>このお祭り、妙に静かでクサくない…屋台の電源が“チャージスポット方式”になっていく？</title>
@@ -749,62 +805,6 @@
 <pubDate>Fri, 30 Oct 2026 09:10:00 +0000</pubDate>
 <category>ASCII.jp</category>
 <description>チャンピオンカレーは11月2日より、「素揚げ野菜カレー【66g増し】」（980円）を期間限定で販売します。 — ASCII.jp / score: 5 (飲食店のメニュー紹介)</description>
-</item>
-<item>
-<title>AIニュースを1時間追う前に、「明日から自分の仕事でどう使えるか」を10分だけ。経営者向けPodcast「岡田崇の毎日AIニュース『聴いたら寝ろ。』」配信中</title>
-<link>https://ascii.jp/elem/000/004/447/4447458/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/447/4447458/?rss</guid>
-<pubDate>Fri, 30 Oct 2026 09:07:49 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>AIニュースを1時間追う前に、「明日から自分の仕事でどう使えるか」を10分だけ。経営者向けPodcast「岡田崇の毎日AIニュース『聴いたら寝ろ。』」配信中 — ASCII.jp / score: 30 (AIニュース解説ポッドキャストの紹介)</description>
-</item>
-<item>
-<title>Community safety report and new protections for teens</title>
-<link>https://openai.com/index/community-safety-report-and-new-protections-for-teens</link>
-<guid isPermaLink="true">https://openai.com/index/community-safety-report-and-new-protections-for-teens</guid>
-<pubDate>Fri, 30 Oct 2026 09:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting. — OpenAI News / score: 65 (OpenAIの安全性とティーン向け保護策)</description>
-</item>
-<item>
-<title>【アフターレポート】スタイラスペンメーカー「Metapen」、教育分野の総合展「第9回 EDIX大阪」に出展</title>
-<link>https://ascii.jp/elem/000/004/447/4447467/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/447/4447467/?rss</guid>
-<pubDate>Fri, 30 Oct 2026 09:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>【アフターレポート】スタイラスペンメーカー「Metapen」、教育分野の総合展「第9回 EDIX大阪」に出展 — ASCII.jp / score: 15 (スタイラスペンメーカーの展示会出展レポート。)</description>
-</item>
-<item>
-<title>800名以上のクリエイターが出展するVRメタバース即売会『メタフェス2026』が10月31日よりVRChatにて開催！</title>
-<link>https://ascii.jp/elem/000/004/447/4447462/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/447/4447462/?rss</guid>
-<pubDate>Fri, 30 Oct 2026 09:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>800名以上のクリエイターが出展するVRメタバース即売会『メタフェス2026』が10月31日よりVRChatにて開催！ — ASCII.jp / score: 40 (VRメタバース関連の即売会開催情報)</description>
-</item>
-<item>
-<title>小さい、お手頃、横スクロールもできる。エレコムのマウス、これで十分では？</title>
-<link>https://www.gizmodo.jp/article/2610-elecom-wireless-mouse-osmod8/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2610-elecom-wireless-mouse-osmod8/</guid>
-<pubDate>Fri, 30 Oct 2026 09:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>4000円以下でチルトホイールや高速スクロールを搭載したエレコムのワイヤレスマウスを紹介。静音設計やカスタマイズ可能なボタンを備え、コストパフォーマンスに優れたおすすめモデルです。 — ギズモード・ジャパン / score: 30 (周辺機器のマウスに関する製品紹介)</description>
-</item>
-<item>
-<title>人間が話し終わる前に検索や処理を開始する音声AI「Phonic-1」が登場、応答までの待ち時間を大幅に短縮</title>
-<link>https://gigazine.net/news/20261030-phonic-1/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261030-phonic-1/</guid>
-<pubDate>Fri, 30 Oct 2026 08:52:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>音声AIを開発するPhonicが2026年10月29日に新たな音声AIモデル「Phonic-1」を発表しました。相手が話し終わる前に情報の検索や外部サービスとの連携を開始できるのが特徴で、従来の音声AIと比べて応答までの待ち時間を大幅に短縮できるとのことです。 続きを読む... — GIGAZINE / score: 70 (応答速度を改善した新しい音声AIモデル)</description>
-</item>
-<item>
-<title>NPUで音声をテキストへ変換。プッシュトゥトークの無料音声入力ツール「OpenWritr」【使ってわかるAI PC】</title>
-<link>https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2152643.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2152643.html</guid>
-<pubDate>Fri, 30 Oct 2026 08:39:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>「OpenWritr」は、音声をテキストに変換して文字入力ができるソフト。Snapdragon X EliteのNPUを使った処理が可能で、CPUに負荷をかけずに音声入力ができる。 — 窓の杜 / score: 50 (NPUを活用した音声入力ツールの実用的な紹介)</description>
 </item>
 </channel>
 </rss>
