@@ -4,16 +4,8 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 30 Oct 2026 10:07:22 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 12:12:08 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
-<item>
-<title>[98] Linuxに深刻度9.8の脆弱性、認証なしでroot権限奪取　AnthropicのAIが攻撃を実証</title>
-<link>https://ascii.jp/elem/000/004/447/4447103/</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/447/4447103/</guid>
-<pubDate>Fri, 30 Oct 2026 01:29:33 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Anthropicは10月27日、Linuxカーネルの脆弱性「CVE-2026-98432」を悪用し、遠隔から管理者権限でコマンドを実行する攻撃を実証したと発表した。脆弱性の深刻度は最高10点中9.8と評価されている。 LinuxカーネルのIPv4通信処理に問題があった。TCP接続の処理中、既に解放されたメモリーを参照してしまう「use-after-free... — はてなブックマーク テクノロジー / score: 98 (Linuxカーネルの深刻なリモートコード実行脆弱性)</description>
-</item>
 <item>
 <title>[98] Linuxカーネルに重大な脆弱性「CVE-2026-98432」、CVSS 9.8 Claudeが遠隔root権限実行を実証|セキュリティニュースのセキュリティ対策Lab</title>
 <link>https://rocket-boys.co.jp/security-measures-lab/linux_kernel_cve_2026_98432_ubuntu_anthropic_20261030/</link>
@@ -21,14 +13,6 @@
 <pubDate>Thu, 29 Oct 2026 22:47:13 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>LinuxカーネルのIPv4ネットワーク処理に、遠隔からの悪用につながるUse-After-Free（解放済みメモリの再利用）の脆弱性「CVE-2026-98432」が確認されました。Canonicalが2026年10月15日に公開し、28日に更新したUbuntuの脆弱性情報では、CVSS v3.1の基本値は9.8（Critical）、Ubuntu独自の優先度は「High」と評価されて... — はてなブックマーク テクノロジー / score: 98 (Linuxカーネルの遠隔root権限実行可能な重大脆弱性)</description>
-</item>
-<item>
-<title>[95] Trojanized Claude Code Extension Plants an SSH Backdoor</title>
-<link>https://opensourcemalware.com/blog/trojanized-claude-code-extension-plants-persistent-ssh-backdoor</link>
-<guid isPermaLink="true">https://opensourcemalware.com/blog/trojanized-claude-code-extension-plants-persistent-ssh-backdoor</guid>
-<pubDate>Fri, 30 Oct 2026 05:57:15 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>v 2.1.313 contains a loader that runs ahead of the real extension code adds an attacker key, opens a reverse tunnel, and sets persistence By c0a15726-c5b1-4b0d-85e6-fe15553df9e2 · 2026-10-30T09:42:00.000Z The official Claude Code VSCode extension was compromised today. Yes, you heard that right. ... — はてなブックマーク テクノロジー / score: 95 (開発ツール拡張機能に混入した深刻なバックドア事例)</description>
 </item>
 <item>
 <title>[95] Linuxカーネルの重大な脆弱性（CVE-2026-98432）によるカーリルへの影響について – カーリルのブログ</title>
@@ -95,6 +79,14 @@
 <description>悪意のある攻撃者がLinuxの仮想マシンを不正に操作することで、仮想マシンの境界を抜けてホスト側のLinux OSで不正なコードを実行できる可能性がある脆弱性「PwnEscape」（CVE-2026-99999）の情報が公開されています。 ... — Publickey / score: 95 (Linuxカーネルの深刻な脆弱性の報告)</description>
 </item>
 <item>
+<title>[90] 暗号資産、過去最大の盗難1兆円　取引大手バイナンス（共同通信） - Yahoo!ニュース</title>
+<link>https://news.yahoo.co.jp/articles/2c8de535bdb9411ae8157427338c261730f56069</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/articles/2c8de535bdb9411ae8157427338c261730f56069</guid>
+<pubDate>Fri, 30 Oct 2026 06:44:21 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>バイナンスのロゴ（AP＝共同）（KYODONEWS） 【ラスベガス共同】暗号資産（仮想通貨）取引大手のバイナンスは29日、外部から不正アクセスされ、約63億ドル（約1兆円）相当の暗号資産が影響を受けたと発表した。30億ドル分を凍結したといい、残りが実際に流出した可能性があるとみられる。米メディアは暗号資産の盗難と... — はてなブックマーク テクノロジー / score: 90 (暗号資産の大規模盗難被害で業界に甚大な影響)</description>
+</item>
+<item>
 <title>[90] 無印良品、「MUJIアプリ」の利用者情報最大約2726万件が不正アクセスにより流出の可能性</title>
 <link>https://internet.watch.impress.co.jp/docs/news/2152666.html</link>
 <guid isPermaLink="true">https://internet.watch.impress.co.jp/docs/news/2152666.html</guid>
@@ -109,14 +101,6 @@
 <pubDate>Fri, 30 Oct 2026 06:27:20 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>良品計画は10月30日、無印良品の公式アプリ「MUJIアプリ」で、顧客情報が外部に流出した可能性があると発表した。退会者の情報を含む最大約2726万件が対象。外部からの不正アクセスを検知し、アクセス遮断と修正を実施した。 流出の恐れがあるのは、メールアドレス、生年月日、性別の3項目。クレジットカード情報、氏名... — はてなブックマーク テクノロジー / score: 90 (アプリの不正アクセスによる大規模な個人情報流出)</description>
-</item>
-<item>
-<title>[90] 無印良品、不正アクセスで最大2726万件の会員情報漏えいか　退会済みのユーザーも対象</title>
-<link>https://www.itmedia.co.jp/news/article/2610/30/2000002756/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/30/2000002756/</guid>
-<pubDate>Fri, 30 Oct 2026 06:22:23 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>「無印良品」を展開する良品計画（東京都文京区）は10月30日、同社が運営する「MUJIアプリ」の顧客情報が最大約2726万件流出した可能性があると発表した。退会済みの利用者の情報も含まれる。会員向けセール「無印良品週間」の開催期間中の公表となった。 流出した可能性があるのは、メールアドレス、生年月日、性別の3... — はてなブックマーク テクノロジー / score: 90 (無印良品アプリの最大2,726万件情報漏えい問題)</description>
 </item>
 <item>
 <title>[90] 暗号資産 約1兆円が一瞬で流出…。史上最大規模のハッキングが発生、一体何があった？</title>
@@ -135,20 +119,20 @@
 <description>2026年10月15日、LinuxカーネルのCNAは、IPv4のTCP処理にあるuse-after-freeの脆弱性 CVE-2026-98432 を公開しました。ここでは関連する情報をまとめます。 どんな脆弱性が確認されたの? IPv4のTCP接続処理で、要求ソケットのIPオプションが解放された後も別のCPUが読み続けうるuse-after-freeが生じる。認証は不要で、... — はてなブックマーク テクノロジー / score: 90 (Linuxカーネルの脆弱性CVE-2026-98432の技術的まとめ)</description>
 </item>
 <item>
+<title>[90] 9900億円相当の仮想通貨が盗まれたと仮想通貨取引所のBinanceが認める、侵入経路はエンジニアのノートPCか</title>
+<link>https://gigazine.net/news/20261030-binance-pauses-withdrawals-hackers-stealing-crypto/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261030-binance-pauses-withdrawals-hackers-stealing-crypto/</guid>
+<pubDate>Fri, 30 Oct 2026 03:43:47 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>世界最大級の仮想通貨取引所であるBinanceが、関連ウォレットから資金が流出しているというユーザーからの報告を受け、出金処理を一時停止していることが明らかになりました。 Binance pauses withdrawals as hackers suspected of stealing billions in crypto | TechCrunch https://techcrunch.com/2026/10/29/binance... — はてなブックマーク テクノロジー / score: 90 (巨大暗号資産取引所における大規模な資金流出)</description>
+</item>
+<item>
 <title>[90] PHP脆弱性でいち早くサービス停止、コドモン経営判断の舞台裏　実はオンラインイベントの真っ最中だった</title>
 <link>https://www.itmedia.co.jp/news/article/2610/30/2000002720/</link>
 <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/30/2000002720/</guid>
 <pubDate>Fri, 30 Oct 2026 03:34:17 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>PHPの開発チームは10月21日午前4時33分（日本時間）、重大な脆弱性2件の存在と、同日午後11時に修正版を公開する予定を発表した。通称「PHP2Shell」と呼ばれるこの脆弱性の深刻度は10点満点中9.2で、最も重い「Critical」（緊急）に分類されていた。 コドモンが社内で把握したのは午前9時1分。当初は修正版の公開を待っ... — はてなブックマーク テクノロジー / score: 90 (緊急度の高いPHP脆弱性と迅速な対応の舞台裏)</description>
-</item>
-<item>
-<title>[90] 9900億円相当の仮想通貨が盗まれたと仮想通貨取引所のBinanceが認める、侵入経路はエンジニアのノートPCか</title>
-<link>https://gigazine.net/news/20261030-binance-pauses-withdrawals-hackers-stealing-crypto/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261030-binance-pauses-withdrawals-hackers-stealing-crypto/</guid>
-<pubDate>Fri, 30 Oct 2026 02:19:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>世界最大級の仮想通貨取引所であるBinanceが、関連ウォレットから資金が流出しているというユーザーからの報告を受け、出金処理を一時停止していることが明らかになりました。 続きを読む... — GIGAZINE / score: 90 (巨大暗号資産取引所における大規模な資金流出)</description>
 </item>
 <item>
 <title>[90] AndroidにSMSを送りつけるだけで通話を切断できる脆弱性が判明、緊急通報にも影響</title>
@@ -279,12 +263,12 @@
 <description>米OpenAIは10月26日（現地時間）、新しいAIモデル「GPT-6.1 Terra」を発表した。7月に発表された「GPT-5.6 Terra」以来のアップデートで、「Terra」シリーズとしては初の「GPT-6.x」モデルとなる。 — 窓の杜 / score: 88 (OpenAIの新モデルGPT-6.1 Terra発表)</description>
 </item>
 <item>
-<title>[85] Aokumo、サイバー攻撃の連鎖を可視化する無料ツール「SaibaRadar」を公開 ― Aokumo AIで自社環境のリスク分析から対応まで支援</title>
-<link>https://ascii.jp/elem/000/004/447/4447417/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/447/4447417/?rss</guid>
-<pubDate>Fri, 30 Oct 2026 08:35:13 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>Aokumo、サイバー攻撃の連鎖を可視化する無料ツール「SaibaRadar」を公開 ― Aokumo AIで自社環境のリスク分析から対応まで支援 — ASCII.jp / score: 85 (サイバー攻撃の可視化ツールとAIリスク分析の公開)</description>
+<title>[85] バイナンス被害 北朝鮮が関与か</title>
+<link>https://news.yahoo.co.jp/pickup/6600708?source=rss</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6600708?source=rss</guid>
+<pubDate>Fri, 30 Oct 2026 10:10:27 +0000</pubDate>
+<category>Yahoo!ニュース IT</category>
+<description> — Yahoo!ニュース IT / score: 85 (セキュリティインシデントの背景に関する重要ニュース)</description>
 </item>
 <item>
 <title>[85] 無印良品 最大2726万件情報流出か</title>
@@ -311,28 +295,20 @@
 <description>暗号資産の取引所として世界的な大手の「バイナンス」は29日、不正アクセスとみられるセキュリティー上の問題が起き、影響額が推定でおよそ63億ドル、日本円にしておよそ9900億円に上ることを明らかにしまし… — はてなブックマーク テクノロジー / score: 85 (暗号資産の大規模な不正アクセスと莫大な被害額)</description>
 </item>
 <item>
+<title>[85] GitHub Security Advisoriesを使ったOSSの脆弱性対応手順（Fluentd v1.19.3・v1.19.4の実例） - 2026-10-30 - ククログ</title>
+<link>https://www.clear-code.com/blog/2026/10/30/fluentd-security-advisory-workflow.html</link>
+<guid isPermaLink="true">https://www.clear-code.com/blog/2026/10/30/fluentd-security-advisory-workflow.html</guid>
+<pubDate>Fri, 30 Oct 2026 04:04:24 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>クリアコードではFluentdおよびFluent Packageのメンテナンスを継続的に行っています。2026年6月にリリースしたFluentd v1.19.3と、9月にリリースしたFluentd v1.19.4では、複数の脆弱性に対応しました。 脆弱性対応では、コードの修正に加えて、報告者とのやり取り、非公開でのレビュー、CVE番号の申請、修正版のリリー... — はてなブックマーク テクノロジー / score: 85 (実際のOSS脆弱性対応手順の実例で技術的に有用)</description>
+</item>
+<item>
 <title>[85] アメリカ当局がNVIDIAのフアンCEOと親しいデータセンター企業幹部を中国のスパイだと断定</title>
 <link>https://gigazine.net/news/20261030-jensen-huang-targeted-chinese-spy/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261030-jensen-huang-targeted-chinese-spy/</guid>
 <pubDate>Fri, 30 Oct 2026 02:12:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>「NVIDIA製のAIチップを中国に横流ししている」という疑いのあるシンガポールの企業の幹部が、中国のスパイであり、中国政府に情報を流していたとアメリカの諜報機関が結論付けていたことがわかりました。この人物はNVIDIAのジェンスン・フアンCEOと親しく、フアンCEOがスパイの標的になっていた可能性が大きいとみられます。 続きを読む... — GIGAZINE / score: 85 (AI半導体業界の巨人に絡む地政学・スパイ事件)</description>
-</item>
-<item>
-<title>[85] 話題のPHP騒動　「秒でハック」はデマだった？　実証コードに“ある疑惑”：903rd Lap</title>
-<link>https://kn.itmedia.co.jp/kn/article/2610/30/2000002704/</link>
-<guid isPermaLink="true">https://kn.itmedia.co.jp/kn/article/2610/30/2000002704/</guid>
-<pubDate>Fri, 30 Oct 2026 02:02:17 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>「PHPの脆弱（ぜいじゃく）性で、Webサイトやサービスが簡単にハックされる」。そんな物騒な話が世界をパニックに陥れた。PHP脆弱性の公表直後から、「GitHub」には攻撃を実証したとするコードが相次いで公開された。AIを使えば攻撃コードもあっという間に作れる時代だ。これはいよいよ大変なことになった……と思いきや、... — はてなブックマーク テクノロジー / score: 85 (言語の脆弱性とデマの検証に関する重要話題)</description>
-</item>
-<item>
-<title>[85] 1週間以上メンテだった『神撃のバハムート』、「PHP脆弱性」対応が無事完了。“複数世代にわたる大幅なバージョンアップ”を経て、老舗ゲームが大改修 - AUTOMATON</title>
-<link>https://automaton-media.com/articles/newsjp/20261029-476529/</link>
-<guid isPermaLink="true">https://automaton-media.com/articles/newsjp/20261029-476529/</guid>
-<pubDate>Thu, 29 Oct 2026 13:06:34 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>1週間以上メンテだった『神撃のバハムート』、「PHP脆弱性」対応が無事完了。“複数世代にわたる大幅なバージョンアップ”を経て、老舗ゲームが大改修 Cygamesは10月29日、『神撃のバハムート』にて10月21日より実施していた緊急メンテナンスを終了した。同メンテナンスは、プログラミング言語「PHP」の脆弱性への対応を目... — はてなブックマーク テクノロジー / score: 85 (PHP脆弱性対応と大規模改修の実例)</description>
 </item>
 <item>
 <title>[85] 月間70億件超のコミットを、GitHubは新しいGitアーキテクチャで支える──Copilot Fusionなど新機能も発表【GitHub Universe 2026】</title>
@@ -559,6 +535,14 @@
 <description>Amazon Web Services（AWS）は、サーバレス基盤のAWS Lambda上でNext.jsやExpress、Hono、FastifyなどのNode.js用フレームワークとそのアプリケーションをそのままデプロイして実行できる新... — Publickey / score: 85 (AWS Lambdaの新機能発表で実用性が高く重要)</description>
 </item>
 <item>
+<title>[80] GitHub、AIモデルを自動選択・連携するCopilot Fusionを一般提供、資料とエージェントの作業をまとめるCopilot Projectsをパブリックプレビューに ——GitHub Universe 2026で自動化・コードレビュー・セキュリティも更新</title>
+<link>https://gihyo.jp/article/2026/10/github-universe-2026?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/10/github-universe-2026?utm_source=feed</guid>
+<pubDate>Fri, 30 Oct 2026 09:30:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>GitHubは、2026年10月28・29日に開催した「GitHub Universe 2026」にあわせ、自動モデル選択と複数モデルの連携を統合したCopilot Fusionの一般提供を発表した。デスクトップ向けのGitHub Copilotアプリでは、資料とエージェントの作業をまとめるProjectsのパブリックプレビューを開始した。 — gihyo.jp / score: 80 (GitHub Copilotの新機能発表で開発者に広く影響)</description>
+</item>
+<item>
 <title>[80] Node.js 26.x系がLTSに移行、コードネームは「Lithium」</title>
 <link>https://codezine.jp/article/detail/30177</link>
 <guid isPermaLink="true">https://codezine.jp/article/detail/30177</guid>
@@ -570,17 +554,17 @@
 <title>[80] 6カ所以上のアメリカ軍基地で食品を腐敗させた「謎の冷凍庫の故障」にサイバー攻撃の疑いあり、国防総省がフランス当局と協力して捜査中</title>
 <link>https://gigazine.net/news/20261030-pentagon-treating-military-freezer-cyberattack/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261030-pentagon-treating-military-freezer-cyberattack/</guid>
-<pubDate>Fri, 30 Oct 2026 03:45:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>アメリカ国防総省(ペンダゴン)が、2026年8月にアメリカの軍事基地で相次いで発生した謎の冷蔵庫の不具合について、サイバー攻撃の疑いがあるとして調査を行っていることが明らかになりました。 続きを読む... — GIGAZINE / score: 80 (米軍基地のインフラに対するサイバー攻撃の疑い)</description>
+<pubDate>Fri, 30 Oct 2026 04:42:30 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>アメリカ国防総省(ペンダゴン)が、2026年8月にアメリカの軍事基地で相次いで発生した謎の冷蔵庫の不具合について、サイバー攻撃の疑いがあるとして調査を行っていることが明らかになりました。 EXCLUSIVE: Pentagon treating military base freezer malfunctions as suspected cyberattack, officials say | Reuters htt... — はてなブックマーク テクノロジー / score: 80 (米軍基地のインフラに対するサイバー攻撃の疑い)</description>
 </item>
 <item>
 <title>[80] AIが勝手に隔離環境を脱出した事件を受けてOpenAIが「AIを別のAIで監視する仕組み」を公開</title>
 <link>https://gigazine.net/news/20261030-openai-detect-frontier-model-misalignment/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261030-openai-detect-frontier-model-misalignment/</guid>
-<pubDate>Fri, 30 Oct 2026 01:30:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>OpenAIは2026年10月29日、AIが指示に反する行動を取っていないかを別のAIで監視するシステムの詳細を公開しました。開発中のAIが隔離環境を脱出して外部サービスに不正アクセスした事件を受け、監視対象を拡大するとともに不審な行動を段階的に調査する仕組みを導入したとのことです。 続きを読む... — GIGAZINE / score: 80 (AIによるAI監視システムなど安全性確保の取り組み)</description>
+<pubDate>Fri, 30 Oct 2026 02:45:57 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>OpenAIは2026年10月29日、AIが指示に反する行動を取っていないかを別のAIで監視するシステムの詳細を公開しました。開発中のAIが隔離環境を脱出して外部サービスに不正アクセスした事件を受け、監視対象を拡大するとともに不審な行動を段階的に調査する仕組みを導入したとのことです。 How we detect frontier model mis... — はてなブックマーク テクノロジー / score: 80 (AIによるAI監視システムなど安全性確保の取り組み)</description>
 </item>
 <item>
 <title>[80] Amazon Aurora now supports post-quantum TLS key exchange</title>
@@ -687,14 +671,6 @@
 <description>Mistral’s open-weight release, frontier monitoring, and the day’s AI Twitter and Reddit recaps. — Latent Space / score: 75 (コーディングエージェントの最新動向とOSS情報)</description>
 </item>
 <item>
-<title>[75] AI検索対策SaaS「Brand UP」MCPサーバーを公開。ChatGPT、Claude・Microsoft Copilotとの連携に対応。計測データをもとにした施策の実行が可能に</title>
-<link>https://ascii.jp/elem/000/004/447/4447418/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/447/4447418/?rss</guid>
-<pubDate>Fri, 30 Oct 2026 08:10:15 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>AI検索対策SaaS「Brand UP」MCPサーバーを公開。ChatGPT、Claude・Microsoft Copilotとの連携に対応。計測データをもとにした施策の実行が可能に — ASCII.jp / score: 75 (AI検索対策SaaSによるMCPサーバー公開の技術ニュース)</description>
-</item>
-<item>
 <title>[75] 暗号資産取引大手に不正侵入か</title>
 <link>https://news.yahoo.co.jp/pickup/6600689?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6600689?source=rss</guid>
@@ -703,20 +679,12 @@
 <description> — Yahoo!ニュース IT / score: 75 (暗号資産取引所への不正侵入に関する速報)</description>
 </item>
 <item>
-<title>[75] Googleがポリシー改定。Gmailやフォトの中身まで広告選びの参考にされるかも</title>
-<link>https://www.gizmodo.jp/article/2610-google-privacy-policy-update-gmail-ads/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2610-google-privacy-policy-update-gmail-ads/</guid>
-<pubDate>Fri, 30 Oct 2026 03:30:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>Googleのプライバシーポリシー改定により、Gmailやドライブのデータが広告のカスタマイズに利用される可能性について解説します。設定の確認方法もご紹介します。 — ギズモード・ジャパン / score: 75 (Googleのプライバシーポリシー改定と広告関連)</description>
-</item>
-<item>
 <title>[75] GPT-6.1 Terraと同等のコーディング性能を発揮するAIモデル「Mistral Large 4」が無償公開される</title>
 <link>https://gigazine.net/news/20261030-mistral-large-4-open/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261030-mistral-large-4-open/</guid>
-<pubDate>Fri, 30 Oct 2026 01:48:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>フランスに拠点を置くAI企業のMistralが大規模AIモデル「Mistral Large 4」をオープンモデルとして無償公開しました。コーディング性能ではGPT-6.1 Terraと同等性能という評価もあります。 続きを読む... — GIGAZINE / score: 75 (高性能なオープンAIモデルMistral Large 4の公開)</description>
+<pubDate>Fri, 30 Oct 2026 04:38:30 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>フランスに拠点を置くAI企業のMistralが大規模AIモデル「Mistral Large 4」をオープンモデルとして無償公開しました。コーディング性能ではGPT-6.1 Terraと同等性能という評価もあります。 Mistral Large 4 (Le Chonk) is now open weight | Mistral https://mistral.ai/news/mistral-large-4-oss/ Mistral Large 4は202... — はてなブックマーク テクノロジー / score: 75 (高性能なオープンAIモデルMistral Large 4の公開)</description>
 </item>
 <item>
 <title>[75] 忙しい人のための #GitHubUniverse 2026 新発表まとめ[簡易版]</title>
@@ -805,6 +773,38 @@
 <pubDate>Tue, 27 Oct 2026 15:27:52 +0000</pubDate>
 <category>Publickey</category>
 <description>Anthropicが開発しているJavaScriptランタイムの「Bun」の新機能として、Prettier互換のフォーマッタ搭載が発表されました。 2026年10月22日付けでリリースされたBun v1.4.4に搭載されたPrettier互... — Publickey / score: 75 (Bunの高速な新機能追加は開発者に大きな影響がある)</description>
+</item>
+<item>
+<title>[75] 8 examples of Gemini 4 Argon in action</title>
+<link>https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-in-action/</link>
+<guid isPermaLink="true">https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-in-action/</guid>
+<pubDate>Tue, 27 Oct 2026 15:00:00 +0000</pubDate>
+<category>Gemini (Google Blog)</category>
+<description>From deep research to interactive design, here are eight examples of what Gemini 4 Argon, our most intelligent model yet, is capable of. — Gemini (Google Blog) / score: 75 (新モデルGemini 4 Argonの機能紹介)</description>
+</item>
+<item>
+<title>[75] Bringing Google TPUs to Oracle Cloud Infrastructure</title>
+<link>https://cloud.google.com/blog/products/infrastructure/bringing-google-tpus-to-oracle-cloud-infrastructure/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/infrastructure/bringing-google-tpus-to-oracle-cloud-infrastructure/</guid>
+<pubDate>Tue, 27 Oct 2026 14:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>As AI workloads scale across every industry, organizations need compute options that optimize throughput, latency, and unit economics across the AI lifecycle. To meet this demand, Oracle and Google Cloud are partnering to bring Google Tensor Processing Units (TPUs) to Oracle Cloud Infrastructure (OCI), making OCI the first hyperscaler outside Google to offer TPUs. Together, we will deploy TPU capacity on OCI starting in the calendar year 2027. TPUs: Co-designed from silicon to software Google bu — Google Cloud Blog / score: 75 (Oracle CloudへのGoogle TPU導入)</description>
+</item>
+<item>
+<title>[75] Gemini Robotics Embodied Reasoning 2 is now available on Google Cloud</title>
+<link>https://cloud.google.com/blog/products/ai-machine-learning/gemini-robotics-embodied-reasoning-2-is-now-available-on-google-cloud/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/ai-machine-learning/gemini-robotics-embodied-reasoning-2-is-now-available-on-google-cloud/</guid>
+<pubDate>Tue, 27 Oct 2026 13:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Earlier this year, we introduced Gemini Robotics 2 — our next-generation intelligence layer enabling robots to think, act, and adapt in the physical world. At the core of this breakthrough is Gemini Robotics Embodied Reasoning 2 (ER 2) , a specialized Gemini model that serves as a robot’s high-level brain. Working across any robot embodiment — from stationary arms to full humanoids — Gemini Robotics ER 2 combines advanced spatial and temporal video understanding with long-horizon planning and bu — Google Cloud Blog / score: 75 (Google Cloudにおけるロボティクス向けAI提供開始)</description>
+</item>
+<item>
+<title>[75] [AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn</title>
+<link>https://latent.space/p/ainews-anthropic-s1/</link>
+<guid isPermaLink="true">https://latent.space/p/ainews-anthropic-s1/</guid>
+<pubDate>Tue, 27 Oct 2026 07:24:59 +0000</pubDate>
+<category>Latent Space</category>
+<description>Today is one of those days that is tougher to cover for a normally-engineer audience that isn’t used to reading most S-1’s, let alone 350 pages of one of the most unusual S-1’s of all time : Better visualized: With significant operating leverage causing the first profitable quarter in Anthropic history (adjusted for $1B/quarter of SBC): The incredible efficiency story is told in two loops, and of course you know, we love loop: The pitch going forward is “virtual collaborators” (don’t say agent!) — Latent Space / score: 75 (AnthropicのS-1提出に基づく財務詳細)</description>
 </item>
 </channel>
 </rss>
