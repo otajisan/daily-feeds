@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sat, 31 Oct 2026 08:07:25 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 10:06:16 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] CVE-2026-98432 について調べてみた — 11 年潜んでいた Linux の TCP の脆弱性と2行の修正</title>
@@ -71,12 +71,12 @@
 <description>悪意のある攻撃者がLinuxの仮想マシンを不正に操作することで、仮想マシンの境界を抜けてホスト側のLinux OSで不正なコードを実行できる可能性がある脆弱性「PwnEscape」（CVE-2026-99999）の情報が公開されています。 ... — Publickey / score: 95 (Linuxカーネルの深刻な脆弱性の報告)</description>
 </item>
 <item>
-<title>[90] https://dnobori.cyber.ipa.go.jp/ppt/download/20261031/261031-HowToProtect-Linux-Kernel-CVE-2026-98432.pdf</title>
+<title>[90] (PDF)Linux カーネル CVE-2026-98432 脆弱性対処:カーネルパッチ不要の暫定対策説明書(by Claude Mythos 5.1)</title>
 <link>https://dnobori.cyber.ipa.go.jp/ppt/download/20261031/261031-HowToProtect-Linux-Kernel-CVE-2026-98432.pdf</link>
 <guid isPermaLink="true">https://dnobori.cyber.ipa.go.jp/ppt/download/20261031/261031-HowToProtect-Linux-Kernel-CVE-2026-98432.pdf</guid>
 <pubDate>Sat, 31 Oct 2026 05:03:14 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>https://dnobori.cyber.ipa.go.jp/ppt/download/20261031/261031-HowToProtect-Linux-Kernel-CVE-2026-98432.pdf — はてなブックマーク テクノロジー / score: 90 (Linuxカーネルの緊急セキュリティ脆弱性情報)</description>
+<description>(PDF)Linux カーネル CVE-2026-98432 脆弱性対処:カーネルパッチ不要の暫定対策説明書(by Claude Mythos 5.1) — はてなブックマーク テクノロジー / score: 90 (Linuxカーネルの緊急セキュリティ脆弱性情報)</description>
 </item>
 <item>
 <title>[90] Patch now: PHP2Shell, Brotli, and eMudhra guidance for customers</title>
@@ -93,14 +93,6 @@
 <pubDate>Fri, 30 Oct 2026 02:19:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>世界最大級の仮想通貨取引所であるBinanceが、関連ウォレットから資金が流出しているというユーザーからの報告を受け、出金処理を一時停止していることが明らかになりました。 続きを読む... — GIGAZINE / score: 90 (巨大暗号資産取引所における大規模な資金流出)</description>
-</item>
-<item>
-<title>[90] AndroidにSMSを送りつけるだけで通話を切断できる脆弱性が判明、緊急通報にも影響</title>
-<link>https://gigazine.net/news/20261030-sms-of-death/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261030-sms-of-death/</guid>
-<pubDate>Fri, 30 Oct 2026 01:22:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>Androidスマートフォンで特殊なSMSを受信するだけで通話機能が停止する脆弱(ぜいじゃく)性「SMS of Death」が報告されました。攻撃にはユーザーの操作が一切必要なく、通話中の電話が切断されるほか、繰り返し攻撃を受けるとスマートフォンが正常に使えなくなる恐れもあるとのことです。 続きを読む... — GIGAZINE / score: 90 (Androidの通話を停止させる緊急度の高い脆弱性)</description>
 </item>
 <item>
 <title>[90] 「WordPress 7.1.4」が公開、リモートコード実行や多数のXSSを修正／「eMudhra」問題を受けたルート証明書の更新も、速やかなアップデートを</title>
@@ -215,6 +207,22 @@
 <description>米OpenAIは10月26日（現地時間）、新しいAIモデル「GPT-6.1 Terra」を発表した。7月に発表された「GPT-5.6 Terra」以来のアップデートで、「Terra」シリーズとしては初の「GPT-6.x」モデルとなる。 — 窓の杜 / score: 88 (OpenAIの新モデルGPT-6.1 Terra発表)</description>
 </item>
 <item>
+<title>[85] GMO不正侵入、システム脆弱性を2年前に把握　子会社指摘も対策後手 - 日本経済新聞</title>
+<link>https://www.nikkei.com/article/DGXZQOUC30A460Q6A031C2000000/</link>
+<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUC30A460Q6A031C2000000/</guid>
+<pubDate>Sat, 31 Oct 2026 08:05:25 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>GMOインターネットグループのサービスが不正アクセスを受けた問題で、子会社のセキュリティー企業が2024年4月にシステムの欠陥（脆弱性）を指摘していたことがGMO幹部への取材でわかった。システムの抜本的な見直しを求めたものの十分な対応がなされずに被害を招いた。脆弱性を指摘したのは、子会社のGMOサイバーセキュ... — はてなブックマーク テクノロジー / score: 85 (重大なセキュリティインシデントと脆弱性放置の問題)</description>
+</item>
+<item>
+<title>[85] GitHub Enterprise、全ライセンスユーザーがGitHub Copilotを利用可能に</title>
+<link>https://codezine.jp/article/detail/30191</link>
+<guid isPermaLink="true">https://codezine.jp/article/detail/30191</guid>
+<pubDate>Sat, 31 Oct 2026 08:00:00 +0000</pubDate>
+<category>CodeZine</category>
+<description> — CodeZine / score: 85 (GitHub Copilotが全ライセンスで利用可能に)</description>
+</item>
+<item>
 <title>[85] 病院を攻撃したハッカーが一転、謝罪。「治療に使う機械が動いてるのを知らなかった」</title>
 <link>https://www.gizmodo.jp/article/hacker-group-claims-unm-hospital-cyberattack-then-apologizes-and-offers-patients/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/hacker-group-claims-unm-hospital-cyberattack-then-apologizes-and-offers-patients/</guid>
@@ -269,14 +277,6 @@
 <pubDate>Fri, 30 Oct 2026 02:12:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>「NVIDIA製のAIチップを中国に横流ししている」という疑いのあるシンガポールの企業の幹部が、中国のスパイであり、中国政府に情報を流していたとアメリカの諜報機関が結論付けていたことがわかりました。この人物はNVIDIAのジェンスン・フアンCEOと親しく、フアンCEOがスパイの標的になっていた可能性が大きいとみられます。 続きを読む... — GIGAZINE / score: 85 (AI半導体業界の巨人に絡む地政学・スパイ事件)</description>
-</item>
-<item>
-<title>[85] CVE-2026-98432 - Red Hat Customer Portal</title>
-<link>https://access.redhat.com/security/cve/cve-2026-98432</link>
-<guid isPermaLink="true">https://access.redhat.com/security/cve/cve-2026-98432</guid>
-<pubDate>Fri, 30 Oct 2026 01:00:10 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>CWE data temporarily unavailableCWE data is currently experiencing intermittent outages, which may cause incomplete section loading on CVE pages. We are actively working on a fix. A flaw was found in the Linux kernel's IPv4 networking subsystem. A race condition occurs during concurrent processin... — はてなブックマーク テクノロジー / score: 85 (Linuxカーネル脆弱性の公式アドバイザリ)</description>
 </item>
 <item>
 <title>[85] 月間70億件超のコミットを、GitHubは新しいGitアーキテクチャで支える──Copilot Fusionなど新機能も発表【GitHub Universe 2026】</title>
@@ -503,6 +503,22 @@
 <description>Amazon Web Services（AWS）は、サーバレス基盤のAWS Lambda上でNext.jsやExpress、Hono、FastifyなどのNode.js用フレームワークとそのアプリケーションをそのままデプロイして実行できる新... — Publickey / score: 85 (AWS Lambdaの新機能発表で実用性が高く重要)</description>
 </item>
 <item>
+<title>[80] 【PHP脆弱性に緊急対応】Webサイトの更新・エラー対応を1サイト25,000円で一括提供</title>
+<link>https://ascii.jp/elem/000/004/447/4447545/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/447/4447545/?rss</guid>
+<pubDate>Sat, 31 Oct 2026 07:33:42 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>【PHP脆弱性に緊急対応】Webサイトの更新・エラー対応を1サイト25,000円で一括提供 — ASCII.jp / score: 80 (PHP脆弱性への緊急対応とWebサイト保守サービス)</description>
+</item>
+<item>
+<title>[80] Binanceの約1兆円流出、北朝鮮ハッカー集団「TraderTraitor」の犯行か</title>
+<link>https://www.itmedia.co.jp/news/article/2610/31/2000002775/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/31/2000002775/</guid>
+<pubDate>Fri, 30 Oct 2026 22:43:51 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>暗号資産取引所で世界最大手のBinanceから約63億ドル（約1兆円）相当の暗号資産が流出した事件について、ブロックチェーン分析企業の米TRM Labsと米Chainalysisが、北朝鮮のハッカー集団「TraderTraitor」が関与したとの分析結果をそれぞれ発表した。同集団は、2025年2月に暗号資産取引所Bybitから約15億ドル相当の暗号... — はてなブックマーク テクノロジー / score: 80 (大規模な暗号資産流出とハッカー集団の関与に関するニュース)</description>
+</item>
+<item>
 <title>[80] When the Kubernetes API went silent: A three-layer networking mystery</title>
 <link>https://cloud.google.com/blog/products/networking/the-three-layer-gke-network-mystery/</link>
 <guid isPermaLink="true">https://cloud.google.com/blog/products/networking/the-three-layer-gke-network-mystery/</guid>
@@ -565,14 +581,6 @@
 <pubDate>Tue, 27 Oct 2026 14:25:04 +0000</pubDate>
 <category>iPhone Mania</category>
 <description>Appleが2026年10月27日、M6を搭載する14インチMacBook Proを発表しました。 M6搭載14インチMacBook Proの予約注文は10月29日午前2時10分から開始され、11月6日に発売されます。こ […] — iPhone Mania / score: 80 (AppleのM6搭載MacBook Pro発表の速報)</description>
-</item>
-<item>
-<title>[80] 【速報】M6搭載iMac発表！日本価格249,800円から、11月6日発売</title>
-<link>https://iphone-mania.jp/mac-608024/</link>
-<guid isPermaLink="true">https://iphone-mania.jp/mac-608024/</guid>
-<pubDate>Tue, 27 Oct 2026 14:20:44 +0000</pubDate>
-<category>iPhone Mania</category>
-<description>Appleは現地時間10月27日、M6チップを搭載した新型iMacを発表しました。M4搭載モデルからCPUやGPUの性能を高め、AI処理も高速化しています。日本価格は249,800円（税込）から。10月29日（木）午前2 […] — iPhone Mania / score: 80 (AppleのM6搭載iMac発表の速報)</description>
 </item>
 <item>
 <title>[80] OpenAI GPT-6.1 Terra is now generally available on Amazon Bedrock</title>
@@ -639,6 +647,14 @@
 <description>Today, AWS launched the public beta of TorchNeuron, an open source native PyTorch backend for AWS Trainium. Trainium is a portfolio of AI chips designed to deliver high performance and cost efficiency for deep learning AI training and inference workloads. TorchNeuron enables AI scientists and researchers to experiment and build models with PyTorch natively on Trainium. With TorchNeuron, developers can enable their PyTorch code on Trainium simply by switching to .to('neuron') while maintaining fu — AWS What's New / score: 80 (AWS Trainium向けのネイティブPyTorchサポート発表)</description>
 </item>
 <item>
+<title>[75] 「ハッカーに身代金を支払うことなく暗号化されたファイルを復元できる」というセキュリティ企業が実際は被害者から得た高額な手数料の中から身代金を支払っていたとしてCEOが起訴される</title>
+<link>https://gigazine.net/news/20261031-monstercloud-ransomware-victims/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261031-monstercloud-ransomware-victims/</guid>
+<pubDate>Sat, 31 Oct 2026 10:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>ランサムウェアによって攻撃者にシステムを暗号化された被害者に対し、「暗号化されたファイルを復元できる」と宣伝して高額な手数料を取りつつ、実際には攻撃者に身代金を支払って復号鍵をもらいシステム復元を行っていたセキュリティ企業・MonsterCloudのCEOが起訴されました。 続きを読む... — GIGAZINE / score: 75 (セキュリティ企業の不正行為とCEO起訴の衝撃的事件)</description>
+</item>
+<item>
 <title>[75] 「Logic Pro」がAI機能を強化。音楽制作の環境が激変するかも</title>
 <link>https://www.gizmodo.jp/article/2610-logic-pro-ai-features/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/2610-logic-pro-ai-features/</guid>
@@ -679,20 +695,20 @@
 <description>非公式版のPopcorn Timeを入れたMacで、更新ツールが乗っ取りに使われるリスクがあったと分かりました。更新ツールはアプリを開かなくても起動のたびに動き、影響は最大35万台との推定です。研究チームが停止用の更新を […] — iPhone Mania / score: 75 (旧アプリの更新ツールに起因するMacの乗っ取りリスク)</description>
 </item>
 <item>
-<title>[75] 今後のセキュリティの考え方</title>
-<link>https://zenn.dev/cscloud_blog/articles/a987163efae5d8</link>
-<guid isPermaLink="true">https://zenn.dev/cscloud_blog/articles/a987163efae5d8</guid>
-<pubDate>Fri, 30 Oct 2026 11:11:33 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>どうもサイバーセキュリティクラウド 脅威インテリジェンスグループの西川です。 本日のウェビナー（【緊急開催セミナー】重大脆弱性を狙うサイバー攻撃への備え ～パッチ適用までのリスクを低減する「仮想パッチ」とは～）にお越しくださった皆様ありがとうございます。 当日は時間の関係でお伝えしきれなかった、今後... — はてなブックマーク テクノロジー / score: 75 (サイバーセキュリティと仮想パッチの解説)</description>
-</item>
-<item>
 <title>[75] ブラック・オクトーバー - Wikipedia</title>
 <link>https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%BB%E3%82%AA%E3%82%AF%E3%83%88%E3%83%BC%E3%83%90%E3%83%BC</link>
 <guid isPermaLink="true">https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%BB%E3%82%AA%E3%82%AF%E3%83%88%E3%83%BC%E3%83%90%E3%83%BC</guid>
 <pubDate>Fri, 30 Oct 2026 10:53:40 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>情報セキュリティの分野において、ブラック・オクトーバー（英語: Black October）とは、複数の重大なセキュリティインシデントや脆弱性の公表が相次いだ2026年10月に与えられた通称である。一連のインシデントは、脆弱性調査における人工知能（AI）の利用拡大と、AIの幅広く利用されているソフトウェアやインターネット... — はてなブックマーク テクノロジー / score: 75 (AI時代のセキュリティインシデント解説)</description>
+</item>
+<item>
+<title>[75] 今後のセキュリティの考え方</title>
+<link>https://zenn.dev/cscloud_blog/articles/a987163efae5d8</link>
+<guid isPermaLink="true">https://zenn.dev/cscloud_blog/articles/a987163efae5d8</guid>
+<pubDate>Fri, 30 Oct 2026 10:30:27 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>どうもサイバーセキュリティクラウド 脅威インテリジェンスグループの西川です。 本日のウェビナー（【緊急開催セミナー】重大脆弱性を狙うサイバー攻撃への備え ～パッチ適用までのリスクを低減する「仮想パッチ」とは～）にお越しくださった皆様ありがとうございます。 当日は時間の関係でお伝えしきれなかった、今後のセキュリティの考え方について、改めて書いてみます。 特に AWS 環境の話をしていきますが、すべての環境において共通です。 アタックサーフェスや管理面を減らす 管理面を減らすというのはどういうことかというと、例えばポートを閉じるとかです。意外に思われるかもしれませんが、例えば Amazo... — Zenn トレンド / score: 75 (サイバーセキュリティと仮想パッチの解説)</description>
 </item>
 <item>
 <title>[75] [AINews] Building AIE CODE: The top Coding Agent Conference</title>
@@ -725,14 +741,6 @@
 <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
 <category>Claude リリースノート</category>
 <description>We’ve deprecated fast mode for Claude Opus 4.8, with removal on November 30, 2026. After removal, requests to claude-opus-4-8 with speed: "fast" will return an error. To continue using fast mode, migrate to Claude Opus 5.5 . Read more in Fast mode . — Claude リリースノート / score: 75 (Claudeプラットフォームのマネージドエージェント更新)</description>
-</item>
-<item>
-<title>[75] 忙しい人のための #GitHubUniverse 2026 新発表まとめ[簡易版]</title>
-<link>https://qiita.com/chomado/items/ce32e402cc4f14145a6c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/chomado/items/ce32e402cc4f14145a6c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Thu, 29 Oct 2026 20:00:10 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>サンフランシスコにて、GitHub 公式カンファレンス GitHub Universe が今年も開催されています！(oct27 - 30) 大きなメッセージとしては 「AI にコードを書いてもらう」から、 「複数のAIエージェントに開発全体を任せ、完成まで進める」 へ... — Qiita 人気記事 / score: 75 (GitHub公式カンファレンスの新発表まとめ)</description>
 </item>
 <item>
 <title>[75] An updated Model Spec for more capable and beneficial AI</title>
@@ -797,14 +805,6 @@
 <pubDate>Tue, 27 Oct 2026 15:00:00 +0000</pubDate>
 <category>Gemini (Google Blog)</category>
 <description>From deep research to interactive design, here are eight examples of what Gemini 4 Argon, our most intelligent model yet, is capable of. — Gemini (Google Blog) / score: 75 (新モデルGemini 4 Argonの機能紹介)</description>
-</item>
-<item>
-<title>[75] Bringing Google TPUs to Oracle Cloud Infrastructure</title>
-<link>https://cloud.google.com/blog/products/infrastructure/bringing-google-tpus-to-oracle-cloud-infrastructure/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/products/infrastructure/bringing-google-tpus-to-oracle-cloud-infrastructure/</guid>
-<pubDate>Tue, 27 Oct 2026 14:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>As AI workloads scale across every industry, organizations need compute options that optimize throughput, latency, and unit economics across the AI lifecycle. To meet this demand, Oracle and Google Cloud are partnering to bring Google Tensor Processing Units (TPUs) to Oracle Cloud Infrastructure (OCI), making OCI the first hyperscaler outside Google to offer TPUs. Together, we will deploy TPU capacity on OCI starting in the calendar year 2027. TPUs: Co-designed from silicon to software Google bu — Google Cloud Blog / score: 75 (Oracle CloudへのGoogle TPU導入)</description>
 </item>
 </channel>
 </rss>
