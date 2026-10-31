@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sat, 31 Oct 2026 04:08:03 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 06:09:03 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Google Chrome」に21件の脆弱性、修正版が公開 ～「Critical」1件を含む／Windows/Mac向けはv156.0.8078.79/.80、Linux向けはv156.0.8078.79</title>
@@ -205,6 +205,14 @@
 <pubDate>Mon, 26 Oct 2026 22:51:53 +0000</pubDate>
 <category>窓の杜</category>
 <description>米OpenAIは10月26日（現地時間）、新しいAIモデル「GPT-6.1 Terra」を発表した。7月に発表された「GPT-5.6 Terra」以来のアップデートで、「Terra」シリーズとしては初の「GPT-6.x」モデルとなる。 — 窓の杜 / score: 88 (OpenAIの新モデルGPT-6.1 Terra発表)</description>
+</item>
+<item>
+<title>[85] 病院を攻撃したハッカーが一転、謝罪。「治療に使う機械が動いてるのを知らなかった」</title>
+<link>https://www.gizmodo.jp/article/hacker-group-claims-unm-hospital-cyberattack-then-apologizes-and-offers-patients/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/hacker-group-claims-unm-hospital-cyberattack-then-apologizes-and-offers-patients/</guid>
+<pubDate>Sat, 31 Oct 2026 05:15:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>病院をサイバー攻撃したハッカー集団が、医療機器が稼働していることを知らなかったとして一転して謝罪し、復号キーを無料提供した事件の経緯を伝える記事です。 — ギズモード・ジャパン / score: 85 (医療機関へのサイバー攻撃とインシデントの教訓。)</description>
 </item>
 <item>
 <title>[85] 推定1兆円相当のBinanceの不正出金事案についてまとめてみた - piyolog</title>
@@ -615,6 +623,22 @@
 <description>Today, AWS launched the public beta of TorchNeuron, an open source native PyTorch backend for AWS Trainium. Trainium is a portfolio of AI chips designed to deliver high performance and cost efficiency for deep learning AI training and inference workloads. TorchNeuron enables AI scientists and researchers to experiment and build models with PyTorch natively on Trainium. With TorchNeuron, developers can enable their PyTorch code on Trainium simply by switching to .to('neuron') while maintaining fu — AWS What's New / score: 80 (AWS Trainium向けのネイティブPyTorchサポート発表)</description>
 </item>
 <item>
+<title>[75] 「Logic Pro」がAI機能を強化。音楽制作の環境が激変するかも</title>
+<link>https://www.gizmodo.jp/article/2610-logic-pro-ai-features/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/2610-logic-pro-ai-features/</guid>
+<pubDate>Sat, 31 Oct 2026 05:30:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>AppleのLogic Pro 13が発表され、AIアシスタントやStem Splitterの進化で音楽制作環境が大きく変わります。11月リリース予定で既存ユーザーは無償アップデート可能です。 — ギズモード・ジャパン / score: 75 (主要なDAWソフトのAI機能強化とメジャーアプデ。)</description>
+</item>
+<item>
+<title>[75] Google Workspace の API アクセス制御を利用したシャドー IT 対策</title>
+<link>https://zenn.dev/densan_techblog/articles/2dfd7d406d38db</link>
+<guid isPermaLink="true">https://zenn.dev/densan_techblog/articles/2dfd7d406d38db</guid>
+<pubDate>Fri, 30 Oct 2026 23:01:22 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>こんにちは。 今日は Google Workspace 管理者の方向けに、Google Workspace への API 経由でのアクセス制御設定についてご紹介します。 社内のユーザーからこんな声を聞くことはありませんか？ 「このアプリ、便利だから『Google でログイン』して使ってます！」 「このツールを使おうとしたら『Google ドライブへのア... — はてなブックマーク テクノロジー / score: 75 (Google WorkspaceのAPIによるシャドーIT対策)</description>
+</item>
+<item>
 <title>[75] Daybreak Red from OpenAI now available to eligible customers on Amazon Bedrock in AWS GovCloud (US-East)</title>
 <link>https://aws.amazon.com/about-aws/whats-new/2026/10/openai-daybreak-red-govcloud-east/</link>
 <guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/openai-daybreak-red-govcloud-east/</guid>
@@ -661,14 +685,6 @@
 <pubDate>Fri, 30 Oct 2026 10:53:40 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>情報セキュリティの分野において、ブラック・オクトーバー（英語: Black October）とは、複数の重大なセキュリティインシデントや脆弱性の公表が相次いだ2026年10月に与えられた通称である。一連のインシデントは、脆弱性調査における人工知能（AI）の利用拡大と、AIの幅広く利用されているソフトウェアやインターネット... — はてなブックマーク テクノロジー / score: 75 (AI時代のセキュリティインシデント解説)</description>
-</item>
-<item>
-<title>[75] トヨタとウェイモ、27年に国内で自動運転タクシー</title>
-<link>https://www.watch.impress.co.jp/docs/news/2152732.html</link>
-<guid isPermaLink="true">https://www.watch.impress.co.jp/docs/news/2152732.html</guid>
-<pubDate>Fri, 30 Oct 2026 09:25:32 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>トヨタとウェイモ、27年に国内で自動運転タクシー — はてなブックマーク テクノロジー / score: 75 (大手企業による自動運転の国内展開ニュース)</description>
 </item>
 <item>
 <title>[75] [AINews] Building AIE CODE: The top Coding Agent Conference</title>
@@ -735,14 +751,6 @@
 <description>Googleは2026年10月28日、新しいAIモデル「Gemini 4 Carbon」を発表した。複数の工程にまたがる長時間の開発作業と、脆弱性の発見から修正までのサイバー防御で能力を高めたとしている。 — gihyo.jp / score: 75 (Googleの新AIモデル「Gemini 4 Carbon」発表)</description>
 </item>
 <item>
-<title>[75] Cursor、自社エージェントの構築基盤「Agent SDK」を一般提供</title>
-<link>https://codezine.jp/article/detail/30163</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/30163</guid>
-<pubDate>Thu, 29 Oct 2026 01:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 75 (Cursorのエージェント構築基盤一般提供)</description>
-</item>
-<item>
 <title>[75] Gemini 4 Carbon: Our next frontier model</title>
 <link>https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/</link>
 <guid isPermaLink="true">https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/</guid>
@@ -797,14 +805,6 @@
 <pubDate>Tue, 27 Oct 2026 07:24:59 +0000</pubDate>
 <category>Latent Space</category>
 <description>Today is one of those days that is tougher to cover for a normally-engineer audience that isn’t used to reading most S-1’s, let alone 350 pages of one of the most unusual S-1’s of all time : Better visualized: With significant operating leverage causing the first profitable quarter in Anthropic history (adjusted for $1B/quarter of SBC): The incredible efficiency story is told in two loops, and of course you know, we love loop: The pitch going forward is “virtual collaborators” (don’t say agent!) — Latent Space / score: 75 (AnthropicのS-1提出に基づく財務詳細)</description>
-</item>
-<item>
-<title>[75] How Check Point accelerates vulnerability research with Daybreak</title>
-<link>https://openai.com/index/check-point-daybreak</link>
-<guid isPermaLink="true">https://openai.com/index/check-point-daybreak</guid>
-<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster. — OpenAI News / score: 75 (OpenAIを用いたセキュリティ脆弱性調査の事例)</description>
 </item>
 </channel>
 </rss>
