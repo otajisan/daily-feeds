@@ -4,15 +4,15 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sat, 31 Oct 2026 10:06:16 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 12:09:24 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
-<title>[95] CVE-2026-98432 について調べてみた — 11 年潜んでいた Linux の TCP の脆弱性と2行の修正</title>
-<link>https://zenn.dev/pollenjp/articles/2026-10-29-linux-tcp-ip-options-uaf</link>
-<guid isPermaLink="true">https://zenn.dev/pollenjp/articles/2026-10-29-linux-tcp-ip-options-uaf</guid>
-<pubDate>Fri, 30 Oct 2026 11:48:55 +0000</pubDate>
+<title>[95] RHSB-2026-016 Use-after-free - kernel IPv4 (CVE-2026-98432) | Red Hat Customer Portal</title>
+<link>https://access.redhat.com/security/vulnerabilities/RHSB-2026-016</link>
+<guid isPermaLink="true">https://access.redhat.com/security/vulnerabilities/RHSB-2026-016</guid>
+<pubDate>Fri, 30 Oct 2026 23:49:29 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>2026-10-30 時点の情報。Ubuntu と RHEL はまだ修正版を出していない途中なので、このあと状況は変わるかも。 はじめに X で CVE-2026-98432 に関する情報が話題になっていたので調べてみることにした。Linux カーネルの脆弱性で、直したのは kfree() を kfree_rcu() に替える 2 行。原因の変更は 2015 年なので、11 年... — はてなブックマーク テクノロジー / score: 95 (11年潜んでいたLinuxの深刻な脆弱性解説)</description>
+<description>0 Get notified when this content is updated. Follow Please wait... Executive Summary This vulnerability is tracked as CVE-2026-98432 and has been rated with a severity impact of Critical. Red Hat is expediting the release of fixes. A use-after-free vulnerability was found in the Linux kernel's IP... — はてなブックマーク テクノロジー / score: 95 (カーネルの重大なセキュリティ脆弱性に関する情報)</description>
 </item>
 <item>
 <title>[95] 「Google Chrome」に21件の脆弱性、修正版が公開 ～「Critical」1件を含む／Windows/Mac向けはv156.0.8078.79/.80、Linux向けはv156.0.8078.79</title>
@@ -71,20 +71,20 @@
 <description>悪意のある攻撃者がLinuxの仮想マシンを不正に操作することで、仮想マシンの境界を抜けてホスト側のLinux OSで不正なコードを実行できる可能性がある脆弱性「PwnEscape」（CVE-2026-99999）の情報が公開されています。 ... — Publickey / score: 95 (Linuxカーネルの深刻な脆弱性の報告)</description>
 </item>
 <item>
+<title>[90] GMOトラスト・ログインで情報漏えい、対象2,492社・45,030人に拡大 公開ストレージの設定不備が原因|セキュリティニュースのセキュリティ対策Lab</title>
+<link>https://rocket-boys.co.jp/security-measures-lab/gmo_trustlogin_data_leak_third_report_20261030/</link>
+<guid isPermaLink="true">https://rocket-boys.co.jp/security-measures-lab/gmo_trustlogin_data_leak_third_report_20261030/</guid>
+<pubDate>Sat, 31 Oct 2026 07:51:02 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>GMOグローバルサインが提供するID管理・シングルサインオン（SSO）サービス「GMOトラスト・ログイン」で発生した情報漏えいについて、同社は2026年10月30日15時、外部専門機関による調査結果をまとめた第三報を公表しました。第三者によるファイル取得が確認された対象は、従来公表の2,007社・37,747人から、2,492社・45... — はてなブックマーク テクノロジー / score: 90 (SSOサービスにおける大規模な情報漏えい事故の続報)</description>
+</item>
+<item>
 <title>[90] (PDF)Linux カーネル CVE-2026-98432 脆弱性対処:カーネルパッチ不要の暫定対策説明書(by Claude Mythos 5.1)</title>
 <link>https://dnobori.cyber.ipa.go.jp/ppt/download/20261031/261031-HowToProtect-Linux-Kernel-CVE-2026-98432.pdf</link>
 <guid isPermaLink="true">https://dnobori.cyber.ipa.go.jp/ppt/download/20261031/261031-HowToProtect-Linux-Kernel-CVE-2026-98432.pdf</guid>
 <pubDate>Sat, 31 Oct 2026 05:03:14 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>(PDF)Linux カーネル CVE-2026-98432 脆弱性対処:カーネルパッチ不要の暫定対策説明書(by Claude Mythos 5.1) — はてなブックマーク テクノロジー / score: 90 (Linuxカーネルの緊急セキュリティ脆弱性情報)</description>
-</item>
-<item>
-<title>[90] Patch now: PHP2Shell, Brotli, and eMudhra guidance for customers</title>
-<link>https://www.microsoft.com/en-us/msrc/blog/2026/10/patch-now-php2shell-brotli-emudhra-guidance-for-customers</link>
-<guid isPermaLink="true">https://www.microsoft.com/en-us/msrc/blog/2026/10/patch-now-php2shell-brotli-emudhra-guidance-for-customers</guid>
-<pubDate>Fri, 30 Oct 2026 23:59:24 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Patch now: PHP2Shell, Brotli, and eMudhra guidance for customers Over the past two weeks, three security issues in widely used open-source and third-party technology were disclosed within days of each other this month. Two critical remote code execution vulnerabilities in the PHP runtime, known a... — はてなブックマーク テクノロジー / score: 90 (複数の重要なセキュリティ脆弱性対応)</description>
 </item>
 <item>
 <title>[90] 9900億円相当の仮想通貨が盗まれたと仮想通貨取引所のBinanceが認める、侵入経路はエンジニアのノートPCか</title>
@@ -223,20 +223,12 @@
 <description> — CodeZine / score: 85 (GitHub Copilotが全ライセンスで利用可能に)</description>
 </item>
 <item>
-<title>[85] 病院を攻撃したハッカーが一転、謝罪。「治療に使う機械が動いてるのを知らなかった」</title>
-<link>https://www.gizmodo.jp/article/hacker-group-claims-unm-hospital-cyberattack-then-apologizes-and-offers-patients/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/hacker-group-claims-unm-hospital-cyberattack-then-apologizes-and-offers-patients/</guid>
-<pubDate>Sat, 31 Oct 2026 05:15:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>病院をサイバー攻撃したハッカー集団が、医療機器が稼働していることを知らなかったとして一転して謝罪し、復号キーを無料提供した事件の経緯を伝える記事です。 — ギズモード・ジャパン / score: 85 (医療機関へのサイバー攻撃とインシデントの教訓。)</description>
-</item>
-<item>
-<title>[85] 推定1兆円相当のBinanceの不正出金事案についてまとめてみた - piyolog</title>
-<link>https://piyolog.hatenadiary.jp/entry/2026/10/30/230303</link>
-<guid isPermaLink="true">https://piyolog.hatenadiary.jp/entry/2026/10/30/230303</guid>
-<pubDate>Fri, 30 Oct 2026 15:04:52 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>2026年10月30日、Binanceは、不正な出金トランザクションが送信されたとして、原因の初期調査の結果と対応を公表しました。ここでは関連する情報をまとめます。 資金流出の経緯 Binanceは10月29日21時15分(UTC。以下、時刻は特記のない限りUTC)、公式Xで潜在的なセキュリティ問題の報告を把握して調査中と投稿した。初報... — はてなブックマーク テクノロジー / score: 85 (大手取引所の不正出金事案に関する詳細なまとめ)</description>
+<title>[85] Claude Code 拡張機能のバックドア事件まとめ（2.1.312・2.1.313・Cursor のマーケットプレイス）</title>
+<link>https://zenn.dev/sonsu/articles/67fbd9a1cf8914</link>
+<guid isPermaLink="true">https://zenn.dev/sonsu/articles/67fbd9a1cf8914</guid>
+<pubDate>Fri, 30 Oct 2026 18:30:00 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>2026年10月29日、Claude Code 拡張機能の悪意あるバージョン（2.1.312 と 2.1.313）が Cursor の拡張機能マーケットプレイスに公開され、約11時間にわたって配布されました。このバージョンをインストールすると、攻撃者が SSH で PC に接続できるように設定が変更されます。この記事では、何が起きたのかを整理したうえで、自分が該当するかどうかの確認方法と、該当した場合の対応を順に説明します。 ! 2026年10月31日時点の情報です。攻撃者がどのようにして Cursor のマーケットプレイスへのアクセス権を得たのかは、まだ公式に発表されていません。また、... — Zenn トレンド / score: 85 (拡張機能マーケットプレイスでのバックドア混入事件のまとめ)</description>
 </item>
 <item>
 <title>[85] バイナンス被害 北朝鮮が関与か</title>
@@ -349,14 +341,6 @@
 <pubDate>Wed, 28 Oct 2026 05:36:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>オープンソースのメールソフト「Thunderbird」の最新版、v159.0が10月27日にリリースされた。 — 窓の杜 / score: 85 (Thunderbirdの多数の脆弱性修正リリース)</description>
-</item>
-<item>
-<title>[85] Auto mode時代のClaude Codeを守る。検証済み10キットで始めるセキュリティ対策【全員・チーム・組織別】</title>
-<link>https://zenn.dev/sonicmoov/articles/67aaeb49be69ec</link>
-<guid isPermaLink="true">https://zenn.dev/sonicmoov/articles/67aaeb49be69ec</guid>
-<pubDate>Wed, 28 Oct 2026 03:17:06 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>はじめに 株式会社ソニックムーブでフロントエンドエンジニアをしているazarashiです。 前回の記事「検証済み10キットで始める、Claude Code時代のGitHubセキュリティ対策」では、GitHub のリポジトリを AI 時代の脅威から守る方法をまとめました。今回は、手元の PC で動く Claude Code そのものを守る方法です。 Claude Code は、ファイルを読み、コマンドを実行し、外部と通信できます。便利な反面、悪意のある指示を読み込んだときや、Claude が判断を誤ったときに、秘密情報を読まれる・送られる、ファイルを壊される、守りの設定を外されるおそれ... — Zenn トレンド / score: 85 (Claude Code等のAIツール向けセキュリティ対策)</description>
 </item>
 <item>
 <title>[85] Mozilla、「Firefox 159」を正式リリース ～167件の脆弱性を修正／「タブ検索」が追加、開いているタブを［Ctrl］＋［Shift］＋［A］キーで検索可能に</title>
@@ -551,14 +535,6 @@
 <description>アメリカ国防総省(ペンダゴン)が、2026年8月にアメリカの軍事基地で相次いで発生した謎の冷蔵庫の不具合について、サイバー攻撃の疑いがあるとして調査を行っていることが明らかになりました。 続きを読む... — GIGAZINE / score: 80 (米軍基地のインフラに対するサイバー攻撃の疑い)</description>
 </item>
 <item>
-<title>[80] AIが勝手に隔離環境を脱出した事件を受けてOpenAIが「AIを別のAIで監視する仕組み」を公開</title>
-<link>https://gigazine.net/news/20261030-openai-detect-frontier-model-misalignment/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261030-openai-detect-frontier-model-misalignment/</guid>
-<pubDate>Fri, 30 Oct 2026 01:30:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>OpenAIは2026年10月29日、AIが指示に反する行動を取っていないかを別のAIで監視するシステムの詳細を公開しました。開発中のAIが隔離環境を脱出して外部サービスに不正アクセスした事件を受け、監視対象を拡大するとともに不審な行動を段階的に調査する仕組みを導入したとのことです。 続きを読む... — GIGAZINE / score: 80 (AIによるAI監視システムなど安全性確保の取り組み)</description>
-</item>
-<item>
 <title>[80] Amazon Aurora now supports post-quantum TLS key exchange</title>
 <link>https://aws.amazon.com/about-aws/whats-new/2026/10/aurora-postgresql-post-quantum-tls-key-exchange/</link>
 <guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/aurora-postgresql-post-quantum-tls-key-exchange/</guid>
@@ -573,14 +549,6 @@
 <pubDate>Tue, 27 Oct 2026 16:01:38 +0000</pubDate>
 <category>Google DeepMind</category>
 <description>Genie 4: our new world model unlocking unprecedented realism in real-time simulation. — Google DeepMind / score: 80 (Google DeepMindの次世代ワールドシミュレーション発表)</description>
-</item>
-<item>
-<title>[80] 【速報】M6搭載14インチMacBook Pro発表〜11月6日発売</title>
-<link>https://iphone-mania.jp/mac-608019/</link>
-<guid isPermaLink="true">https://iphone-mania.jp/mac-608019/</guid>
-<pubDate>Tue, 27 Oct 2026 14:25:04 +0000</pubDate>
-<category>iPhone Mania</category>
-<description>Appleが2026年10月27日、M6を搭載する14インチMacBook Proを発表しました。 M6搭載14インチMacBook Proの予約注文は10月29日午前2時10分から開始され、11月6日に発売されます。こ […] — iPhone Mania / score: 80 (AppleのM6搭載MacBook Pro発表の速報)</description>
 </item>
 <item>
 <title>[80] OpenAI GPT-6.1 Terra is now generally available on Amazon Bedrock</title>
@@ -661,14 +629,6 @@
 <pubDate>Sat, 31 Oct 2026 05:30:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>AppleのLogic Pro 13が発表され、AIアシスタントやStem Splitterの進化で音楽制作環境が大きく変わります。11月リリース予定で既存ユーザーは無償アップデート可能です。 — ギズモード・ジャパン / score: 75 (主要なDAWソフトのAI機能強化とメジャーアプデ。)</description>
-</item>
-<item>
-<title>[75] Google Workspace の API アクセス制御を利用したシャドー IT 対策</title>
-<link>https://zenn.dev/densan_techblog/articles/2dfd7d406d38db</link>
-<guid isPermaLink="true">https://zenn.dev/densan_techblog/articles/2dfd7d406d38db</guid>
-<pubDate>Fri, 30 Oct 2026 23:01:22 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>こんにちは。 今日は Google Workspace 管理者の方向けに、Google Workspace への API 経由でのアクセス制御設定についてご紹介します。 社内のユーザーからこんな声を聞くことはありませんか？ 「このアプリ、便利だから『Google でログイン』して使ってます！」 「このツールを使おうとしたら『Google ドライブへのア... — はてなブックマーク テクノロジー / score: 75 (Google WorkspaceのAPIによるシャドーIT対策)</description>
 </item>
 <item>
 <title>[75] Daybreak Red from OpenAI now available to eligible customers on Amazon Bedrock in AWS GovCloud (US-East)</title>
@@ -805,6 +765,46 @@
 <pubDate>Tue, 27 Oct 2026 15:00:00 +0000</pubDate>
 <category>Gemini (Google Blog)</category>
 <description>From deep research to interactive design, here are eight examples of what Gemini 4 Argon, our most intelligent model yet, is capable of. — Gemini (Google Blog) / score: 75 (新モデルGemini 4 Argonの機能紹介)</description>
+</item>
+<item>
+<title>[75] Bringing Google TPUs to Oracle Cloud Infrastructure</title>
+<link>https://cloud.google.com/blog/products/infrastructure/bringing-google-tpus-to-oracle-cloud-infrastructure/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/infrastructure/bringing-google-tpus-to-oracle-cloud-infrastructure/</guid>
+<pubDate>Tue, 27 Oct 2026 14:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>As AI workloads scale across every industry, organizations need compute options that optimize throughput, latency, and unit economics across the AI lifecycle. To meet this demand, Oracle and Google Cloud are partnering to bring Google Tensor Processing Units (TPUs) to Oracle Cloud Infrastructure (OCI), making OCI the first hyperscaler outside Google to offer TPUs. Together, we will deploy TPU capacity on OCI starting in the calendar year 2027. TPUs: Co-designed from silicon to software Google bu — Google Cloud Blog / score: 75 (Oracle CloudへのGoogle TPU導入)</description>
+</item>
+<item>
+<title>[75] [AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn</title>
+<link>https://latent.space/p/ainews-anthropic-s1/</link>
+<guid isPermaLink="true">https://latent.space/p/ainews-anthropic-s1/</guid>
+<pubDate>Tue, 27 Oct 2026 07:24:59 +0000</pubDate>
+<category>Latent Space</category>
+<description>Today is one of those days that is tougher to cover for a normally-engineer audience that isn’t used to reading most S-1’s, let alone 350 pages of one of the most unusual S-1’s of all time : Better visualized: With significant operating leverage causing the first profitable quarter in Anthropic history (adjusted for $1B/quarter of SBC): The incredible efficiency story is told in two loops, and of course you know, we love loop: The pitch going forward is “virtual collaborators” (don’t say agent!) — Latent Space / score: 75 (AnthropicのS-1提出に基づく財務詳細)</description>
+</item>
+<item>
+<title>[75] How Check Point accelerates vulnerability research with Daybreak</title>
+<link>https://openai.com/index/check-point-daybreak</link>
+<guid isPermaLink="true">https://openai.com/index/check-point-daybreak</guid>
+<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster. — OpenAI News / score: 75 (OpenAIを用いたセキュリティ脆弱性調査の事例)</description>
+</item>
+<item>
+<title>[75] GPT-6.1 Terra</title>
+<link>https://simonwillison.net/2026/Oct/26/gpt-61-terra/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Oct/26/gpt-61-terra/</guid>
+<pubDate>Mon, 26 Oct 2026 23:53:07 +0000</pubDate>
+<category>Simon Willison</category>
+<description>GPT-6.1 Terra It's always interesting to note which aspects of a new model are emphasized in the release announcement. In the case of GPT-6.1 Terra, OpenAI went with visual reasoning and computer use: We’re introducing GPT-6.1 Terra , a fast, efficient model that combines detailed visual reasoning and precise computer use alongside clearer, more natural writing. A significant step up from GPT‑5.6 Terra, it excels at the communication and computer-based tasks that fill the workday, from drafting  — Simon Willison / score: 75 (GPT-6.1 Terraの機能とビジュアル推論の解説)</description>
+</item>
+<item>
+<title>[75] Greptile takes bug detection beyond code review with GPT-6 Astra</title>
+<link>https://openai.com/index/greptile-code-review-codex-astra</link>
+<guid isPermaLink="true">https://openai.com/index/greptile-code-review-codex-astra</guid>
+<pubDate>Mon, 26 Oct 2026 22:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework. — OpenAI News / score: 75 (GPT-6 Astraを活用したバグ検出の事例)</description>
 </item>
 </channel>
 </rss>
