@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sat, 31 Oct 2026 14:05:39 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 16:05:59 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] RHSB-2026-016 Use-after-free - kernel IPv4 (CVE-2026-98432) | Red Hat Customer Portal</title>
@@ -61,22 +61,6 @@
 <pubDate>Tue, 20 Oct 2026 05:02:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>2026年10月15日に「CVE-2026-99999」として公開されたLinuxカーネルに関する重大な脆弱性“Guest-to-Host KVM Escape”について、発見者のpwn.aiから発見にいたる概要と背景の報告があった。 — gihyo.jp / score: 95 (Linuxカーネルの重大な脆弱性と発見背景の報告)</description>
-</item>
-<item>
-<title>[95] Linuxカーネルの深刻な脆弱性「PwnEscape」（CVE-2026-99999）、ゲストの仮想マシンからホスト側Linux OSに不正なコードを実行できる可能性</title>
-<link>https://www.publickey1.jp/blog/26/linuxpwnescapecve-2026-99999linux_os.html</link>
-<guid isPermaLink="true">https://www.publickey1.jp/blog/26/linuxpwnescapecve-2026-99999linux_os.html</guid>
-<pubDate>Sat, 17 Oct 2026 15:27:18 +0000</pubDate>
-<category>Publickey</category>
-<description>悪意のある攻撃者がLinuxの仮想マシンを不正に操作することで、仮想マシンの境界を抜けてホスト側のLinux OSで不正なコードを実行できる可能性がある脆弱性「PwnEscape」（CVE-2026-99999）の情報が公開されています。 ... — Publickey / score: 95 (Linuxカーネルの深刻な脆弱性の報告)</description>
-</item>
-<item>
-<title>[90] GMOトラスト・ログインで情報漏えい、対象2,492社・45,030人に拡大 公開ストレージの設定不備が原因|セキュリティニュースのセキュリティ対策Lab</title>
-<link>https://rocket-boys.co.jp/security-measures-lab/gmo_trustlogin_data_leak_third_report_20261030/</link>
-<guid isPermaLink="true">https://rocket-boys.co.jp/security-measures-lab/gmo_trustlogin_data_leak_third_report_20261030/</guid>
-<pubDate>Sat, 31 Oct 2026 07:51:02 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>GMOグローバルサインが提供するID管理・シングルサインオン（SSO）サービス「GMOトラスト・ログイン」で発生した情報漏えいについて、同社は2026年10月30日15時、外部専門機関による調査結果をまとめた第三報を公表しました。第三者によるファイル取得が確認された対象は、従来公表の2,007社・37,747人から、2,492社・45... — はてなブックマーク テクノロジー / score: 90 (SSOサービスにおける大規模な情報漏えい事故の続報)</description>
 </item>
 <item>
 <title>[90] (PDF)Linux カーネル CVE-2026-98432 脆弱性対処:カーネルパッチ不要の暫定対策説明書(by Claude Mythos 5.1)</title>
@@ -205,6 +189,14 @@
 <pubDate>Mon, 26 Oct 2026 22:51:53 +0000</pubDate>
 <category>窓の杜</category>
 <description>米OpenAIは10月26日（現地時間）、新しいAIモデル「GPT-6.1 Terra」を発表した。7月に発表された「GPT-5.6 Terra」以来のアップデートで、「Terra」シリーズとしては初の「GPT-6.x」モデルとなる。 — 窓の杜 / score: 88 (OpenAIの新モデルGPT-6.1 Terra発表)</description>
+</item>
+<item>
+<title>[85] クラブツーリズム 432万件流出か</title>
+<link>https://news.yahoo.co.jp/pickup/6600875?source=rss</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6600875?source=rss</guid>
+<pubDate>Sat, 31 Oct 2026 14:04:30 +0000</pubDate>
+<category>Yahoo!ニュース IT</category>
+<description> — Yahoo!ニュース IT / score: 85 (大規模な個人情報流出インシデントの報道)</description>
 </item>
 <item>
 <title>[85] GMO 子会社がシステムぜい弱性を2年前に指摘 来週2日会見へ | NHKニュース</title>
@@ -621,6 +613,14 @@
 <pubDate>Sat, 31 Oct 2026 10:00:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>ランサムウェアによって攻撃者にシステムを暗号化された被害者に対し、「暗号化されたファイルを復元できる」と宣伝して高額な手数料を取りつつ、実際には攻撃者に身代金を支払って復号鍵をもらいシステム復元を行っていたセキュリティ企業・MonsterCloudのCEOが起訴されました。 続きを読む... — GIGAZINE / score: 75 (セキュリティ企業の不正行為とCEO起訴の衝撃的事件)</description>
+</item>
+<item>
+<title>[75] 身代金、４割に追加要求　急増するランサム攻撃―専門家「支払いは解決ではない」・不正アクセス：時事ドットコム</title>
+<link>https://www.jiji.com/jc/article?k=2026103100100&amp;g=eco</link>
+<guid isPermaLink="true">https://www.jiji.com/jc/article?k=2026103100100&amp;g=eco</guid>
+<pubDate>Sat, 31 Oct 2026 08:32:12 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>身代金、４割に追加要求 急増するランサム攻撃―専門家「支払いは解決ではない」・不正アクセス 時事通信 編集局2026年10月31日18時38分配信 【図解】ランサムウエア攻撃を受けた企業の対応 身代金目的でデータを暗号化するウイルス「ランサムウエア」の被害が急増している。身代金を支払っても約４割は追加要求されると... — はてなブックマーク テクノロジー / score: 75 (増加するランサムウェア攻撃と実態の報道)</description>
 </item>
 <item>
 <title>[75] Daybreak Red from OpenAI now available to eligible customers on Amazon Bedrock in AWS GovCloud (US-East)</title>
