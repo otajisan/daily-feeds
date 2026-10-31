@@ -4,8 +4,16 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sat, 31 Oct 2026 06:09:03 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 08:07:25 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>[95] CVE-2026-98432 について調べてみた — 11 年潜んでいた Linux の TCP の脆弱性と2行の修正</title>
+<link>https://zenn.dev/pollenjp/articles/2026-10-29-linux-tcp-ip-options-uaf</link>
+<guid isPermaLink="true">https://zenn.dev/pollenjp/articles/2026-10-29-linux-tcp-ip-options-uaf</guid>
+<pubDate>Fri, 30 Oct 2026 11:48:55 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>2026-10-30 時点の情報。Ubuntu と RHEL はまだ修正版を出していない途中なので、このあと状況は変わるかも。 はじめに X で CVE-2026-98432 に関する情報が話題になっていたので調べてみることにした。Linux カーネルの脆弱性で、直したのは kfree() を kfree_rcu() に替える 2 行。原因の変更は 2015 年なので、11 年... — はてなブックマーク テクノロジー / score: 95 (11年潜んでいたLinuxの深刻な脆弱性解説)</description>
+</item>
 <item>
 <title>[95] 「Google Chrome」に21件の脆弱性、修正版が公開 ～「Critical」1件を含む／Windows/Mac向けはv156.0.8078.79/.80、Linux向けはv156.0.8078.79</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2152458.html</link>
@@ -13,14 +21,6 @@
 <pubDate>Fri, 30 Oct 2026 02:48:26 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Googleは10月29日（現地時間）、デスクトップ向け「Google Chrome」の安定（Stable）チャネルをアップデートした。今後数日から数週間をかけて、Windows/Mac環境にはv156.0.8078.79/.80、Linux環境にはv156.0.8078.79が展開される。 — 窓の杜 / score: 95 (主要ブラウザのCritical含む多数の脆弱性修正)</description>
-</item>
-<item>
-<title>[95] CVE-2026-98432は「待ち受けに届くか」で決まる——OSとクラウドごとの対応状況と、修正版を待つ間にやること(更新)｜zephel01</title>
-<link>https://note.com/zephel01/n/n4637423e080b</link>
-<guid isPermaLink="true">https://note.com/zephel01/n/n4637423e080b</guid>
-<pubDate>Fri, 30 Oct 2026 01:31:28 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>CVE-2026-98432は「待ち受けに届くか」で決まる——OSとクラウドごとの対応状況と、修正版を待つ間にやること(更新) 【更新履歴】 ・10月30日 13時半：Goのセキュリティチームの告知を反映した。Goで書いたサーバーでMPTCPを止める方法と、「バグ自体はMPTCP固有ではない」という見解を、対策5などに加えた ・10月30日 12... — はてなブックマーク テクノロジー / score: 95 (重大なセキュリティ脆弱性と緊急の対応解説のため)</description>
 </item>
 <item>
 <title>[95] Python 3.15.2, 3.14.10, 3.13.18, 3.12.16 and 3.11.18 are out</title>
@@ -69,6 +69,14 @@
 <pubDate>Sat, 17 Oct 2026 15:27:18 +0000</pubDate>
 <category>Publickey</category>
 <description>悪意のある攻撃者がLinuxの仮想マシンを不正に操作することで、仮想マシンの境界を抜けてホスト側のLinux OSで不正なコードを実行できる可能性がある脆弱性「PwnEscape」（CVE-2026-99999）の情報が公開されています。 ... — Publickey / score: 95 (Linuxカーネルの深刻な脆弱性の報告)</description>
+</item>
+<item>
+<title>[90] https://dnobori.cyber.ipa.go.jp/ppt/download/20261031/261031-HowToProtect-Linux-Kernel-CVE-2026-98432.pdf</title>
+<link>https://dnobori.cyber.ipa.go.jp/ppt/download/20261031/261031-HowToProtect-Linux-Kernel-CVE-2026-98432.pdf</link>
+<guid isPermaLink="true">https://dnobori.cyber.ipa.go.jp/ppt/download/20261031/261031-HowToProtect-Linux-Kernel-CVE-2026-98432.pdf</guid>
+<pubDate>Sat, 31 Oct 2026 05:03:14 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>https://dnobori.cyber.ipa.go.jp/ppt/download/20261031/261031-HowToProtect-Linux-Kernel-CVE-2026-98432.pdf — はてなブックマーク テクノロジー / score: 90 (Linuxカーネルの緊急セキュリティ脆弱性情報)</description>
 </item>
 <item>
 <title>[90] Patch now: PHP2Shell, Brotli, and eMudhra guidance for customers</title>
@@ -261,6 +269,14 @@
 <pubDate>Fri, 30 Oct 2026 02:12:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>「NVIDIA製のAIチップを中国に横流ししている」という疑いのあるシンガポールの企業の幹部が、中国のスパイであり、中国政府に情報を流していたとアメリカの諜報機関が結論付けていたことがわかりました。この人物はNVIDIAのジェンスン・フアンCEOと親しく、フアンCEOがスパイの標的になっていた可能性が大きいとみられます。 続きを読む... — GIGAZINE / score: 85 (AI半導体業界の巨人に絡む地政学・スパイ事件)</description>
+</item>
+<item>
+<title>[85] CVE-2026-98432 - Red Hat Customer Portal</title>
+<link>https://access.redhat.com/security/cve/cve-2026-98432</link>
+<guid isPermaLink="true">https://access.redhat.com/security/cve/cve-2026-98432</guid>
+<pubDate>Fri, 30 Oct 2026 01:00:10 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>CWE data temporarily unavailableCWE data is currently experiencing intermittent outages, which may cause incomplete section loading on CVE pages. We are actively working on a fix. A flaw was found in the Linux kernel's IPv4 networking subsystem. A race condition occurs during concurrent processin... — はてなブックマーク テクノロジー / score: 85 (Linuxカーネル脆弱性の公式アドバイザリ)</description>
 </item>
 <item>
 <title>[85] 月間70億件超のコミットを、GitHubは新しいGitアーキテクチャで支える──Copilot Fusionなど新機能も発表【GitHub Universe 2026】</title>
@@ -647,14 +663,6 @@
 <description>Security teams need powerful tools to find vulnerabilities, test exploits, and build defenses. Daybreak Red from OpenAI is now available to eligible customers on Amazon Bedrock in AWS GovCloud (US-East), bringing advanced AI to this work. Part of OpenAI’s Daybreak cyber defense initiative, Daybreak Red: GPT-5.6 Cyber is built for authorized vulnerability research, exploit reproduction, and mitigation development. It gives verified defenders more room to investigate complex security problems, wit — AWS What's New / score: 75 (OpenAIのセキュリティ向けモデルがBedrockで利用可能に。)</description>
 </item>
 <item>
-<title>[75] 世界のメモリー大手、営業利益が初の米テック超え　AI需要が急増 - 日本経済新聞</title>
-<link>https://www.nikkei.com/article/DGXZQOUB29BWD0Z21C26A0000000/</link>
-<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUB29BWD0Z21C26A0000000/</guid>
-<pubDate>Fri, 30 Oct 2026 17:14:52 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>米テック大手の巨額の人工知能（AI）投資により半導体企業の業績が急拡大している。世界のメモリー5社の2026年7〜9月期の営業利益と純利益は初めてテック大手を上回った。供給力を超えるメモリー需要の伸びが背景にある。メモリー各社は業績の先行きに強気な見方を示すが、利益の源泉であるテックの投資余力に対して市場... — はてなブックマーク テクノロジー / score: 75 (半導体・メモリー市場の動向とAI需要の解説)</description>
-</item>
-<item>
 <title>[75] AWS WAF announces automatic SDK integration for Amazon CloudFront distributions</title>
 <link>https://aws.amazon.com/about-aws/whats-new/2026/10/aws-waf-automatic-sdk-integration-amazon-cloudfront/</link>
 <guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/aws-waf-automatic-sdk-integration-amazon-cloudfront/</guid>
@@ -797,14 +805,6 @@
 <pubDate>Tue, 27 Oct 2026 14:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>As AI workloads scale across every industry, organizations need compute options that optimize throughput, latency, and unit economics across the AI lifecycle. To meet this demand, Oracle and Google Cloud are partnering to bring Google Tensor Processing Units (TPUs) to Oracle Cloud Infrastructure (OCI), making OCI the first hyperscaler outside Google to offer TPUs. Together, we will deploy TPU capacity on OCI starting in the calendar year 2027. TPUs: Co-designed from silicon to software Google bu — Google Cloud Blog / score: 75 (Oracle CloudへのGoogle TPU導入)</description>
-</item>
-<item>
-<title>[75] [AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn</title>
-<link>https://latent.space/p/ainews-anthropic-s1/</link>
-<guid isPermaLink="true">https://latent.space/p/ainews-anthropic-s1/</guid>
-<pubDate>Tue, 27 Oct 2026 07:24:59 +0000</pubDate>
-<category>Latent Space</category>
-<description>Today is one of those days that is tougher to cover for a normally-engineer audience that isn’t used to reading most S-1’s, let alone 350 pages of one of the most unusual S-1’s of all time : Better visualized: With significant operating leverage causing the first profitable quarter in Anthropic history (adjusted for $1B/quarter of SBC): The incredible efficiency story is told in two loops, and of course you know, we love loop: The pitch going forward is “virtual collaborators” (don’t say agent!) — Latent Space / score: 75 (AnthropicのS-1提出に基づく財務詳細)</description>
 </item>
 </channel>
 </rss>
