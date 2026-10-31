@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sat, 31 Oct 2026 00:15:09 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 02:09:44 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Google Chrome」に21件の脆弱性、修正版が公開 ～「Critical」1件を含む／Windows/Mac向けはv156.0.8078.79/.80、Linux向けはv156.0.8078.79</title>
@@ -69,14 +69,6 @@
 <pubDate>Sat, 17 Oct 2026 15:27:18 +0000</pubDate>
 <category>Publickey</category>
 <description>悪意のある攻撃者がLinuxの仮想マシンを不正に操作することで、仮想マシンの境界を抜けてホスト側のLinux OSで不正なコードを実行できる可能性がある脆弱性「PwnEscape」（CVE-2026-99999）の情報が公開されています。 ... — Publickey / score: 95 (Linuxカーネルの深刻な脆弱性の報告)</description>
-</item>
-<item>
-<title>[90] 無印良品、「MUJIアプリ」の利用者情報最大約2726万件が不正アクセスにより流出の可能性</title>
-<link>https://internet.watch.impress.co.jp/docs/news/2152666.html</link>
-<guid isPermaLink="true">https://internet.watch.impress.co.jp/docs/news/2152666.html</guid>
-<pubDate>Fri, 30 Oct 2026 06:32:44 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>無印良品、「MUJIアプリ」の利用者情報最大約2726万件が不正アクセスにより流出の可能性 — はてなブックマーク テクノロジー / score: 90 (最大2,726万件の大量の個人情報流出インシデント)</description>
 </item>
 <item>
 <title>[90] 9900億円相当の仮想通貨が盗まれたと仮想通貨取引所のBinanceが認める、侵入経路はエンジニアのノートPCか</title>
@@ -229,6 +221,14 @@
 <pubDate>Fri, 30 Oct 2026 10:10:27 +0000</pubDate>
 <category>Yahoo!ニュース IT</category>
 <description> — Yahoo!ニュース IT / score: 85 (セキュリティインシデントの背景に関する重要ニュース)</description>
+</item>
+<item>
+<title>[85] もう「CVSSで重大→修正急務」は限界　「即対応」脆弱性を9割減らすGitHub推奨の優先順位付け基準</title>
+<link>https://atmarkit.itmedia.co.jp/ait/articles/2610/30/news060.html</link>
+<guid isPermaLink="true">https://atmarkit.itmedia.co.jp/ait/articles/2610/30/news060.html</guid>
+<pubDate>Fri, 30 Oct 2026 09:16:56 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>攻撃多発時こそ「基礎対策」の見直し、徹底を サイバー攻撃が連日のように続いています。そうした中で「うちは大丈夫か」「不正アクセスされているのか」「漏えいしていないのか」などと言われても、セキュリティ対策状況によっては回答が難しいこともあるでしょう。ならば、せめて対策の基礎を見直し、改めて徹底してみ... — はてなブックマーク テクノロジー / score: 85 (脆弱性の優先順位付けに関する実用的なセキュリティ記事)</description>
 </item>
 <item>
 <title>[85] 無印良品 最大2726万件情報流出か</title>
@@ -479,14 +479,6 @@
 <description>Amazon Web Services（AWS）は、サーバレス基盤のAWS Lambda上でNext.jsやExpress、Hono、FastifyなどのNode.js用フレームワークとそのアプリケーションをそのままデプロイして実行できる新... — Publickey / score: 85 (AWS Lambdaの新機能発表で実用性が高く重要)</description>
 </item>
 <item>
-<title>[80] バイナンス 盗難被害の手口を公表</title>
-<link>https://news.yahoo.co.jp/pickup/6600746?source=rss</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6600746?source=rss</guid>
-<pubDate>Fri, 30 Oct 2026 22:45:38 +0000</pubDate>
-<category>Yahoo!ニュース IT</category>
-<description> — Yahoo!ニュース IT / score: 80 (仮想通貨取引所の盗難被害に関する手口公表)</description>
-</item>
-<item>
 <title>[80] When the Kubernetes API went silent: A three-layer networking mystery</title>
 <link>https://cloud.google.com/blog/products/networking/the-three-layer-gke-network-mystery/</link>
 <guid isPermaLink="true">https://cloud.google.com/blog/products/networking/the-three-layer-gke-network-mystery/</guid>
@@ -522,9 +514,9 @@
 <title>[80] AIが勝手に隔離環境を脱出した事件を受けてOpenAIが「AIを別のAIで監視する仕組み」を公開</title>
 <link>https://gigazine.net/news/20261030-openai-detect-frontier-model-misalignment/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261030-openai-detect-frontier-model-misalignment/</guid>
-<pubDate>Fri, 30 Oct 2026 02:45:57 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>OpenAIは2026年10月29日、AIが指示に反する行動を取っていないかを別のAIで監視するシステムの詳細を公開しました。開発中のAIが隔離環境を脱出して外部サービスに不正アクセスした事件を受け、監視対象を拡大するとともに不審な行動を段階的に調査する仕組みを導入したとのことです。 How we detect frontier model mis... — はてなブックマーク テクノロジー / score: 80 (AIによるAI監視システムなど安全性確保の取り組み)</description>
+<pubDate>Fri, 30 Oct 2026 01:30:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>OpenAIは2026年10月29日、AIが指示に反する行動を取っていないかを別のAIで監視するシステムの詳細を公開しました。開発中のAIが隔離環境を脱出して外部サービスに不正アクセスした事件を受け、監視対象を拡大するとともに不審な行動を段階的に調査する仕組みを導入したとのことです。 続きを読む... — GIGAZINE / score: 80 (AIによるAI監視システムなど安全性確保の取り組み)</description>
 </item>
 <item>
 <title>[80] Amazon Aurora now supports post-quantum TLS key exchange</title>
@@ -661,6 +653,14 @@
 <pubDate>Fri, 30 Oct 2026 11:11:33 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>どうもサイバーセキュリティクラウド 脅威インテリジェンスグループの西川です。 本日のウェビナー（【緊急開催セミナー】重大脆弱性を狙うサイバー攻撃への備え ～パッチ適用までのリスクを低減する「仮想パッチ」とは～）にお越しくださった皆様ありがとうございます。 当日は時間の関係でお伝えしきれなかった、今後... — はてなブックマーク テクノロジー / score: 75 (サイバーセキュリティと仮想パッチの解説)</description>
+</item>
+<item>
+<title>[75] トヨタとウェイモ、27年に国内で自動運転タクシー</title>
+<link>https://www.watch.impress.co.jp/docs/news/2152732.html</link>
+<guid isPermaLink="true">https://www.watch.impress.co.jp/docs/news/2152732.html</guid>
+<pubDate>Fri, 30 Oct 2026 09:25:32 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>トヨタとウェイモ、27年に国内で自動運転タクシー — はてなブックマーク テクノロジー / score: 75 (大手企業による自動運転の国内展開ニュース)</description>
 </item>
 <item>
 <title>[75] [AINews] Building AIE CODE: The top Coding Agent Conference</title>
