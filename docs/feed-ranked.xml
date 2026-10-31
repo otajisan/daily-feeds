@@ -4,16 +4,8 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 30 Oct 2026 22:05:22 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 00:15:09 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
-<item>
-<title>[95] Linuxカーネルの重大な脆弱性（CVE-2026-98432）によるカーリルへの影響について – カーリルのブログ</title>
-<link>https://blog.calil.jp/2026/10/linux-kernel.html</link>
-<guid isPermaLink="true">https://blog.calil.jp/2026/10/linux-kernel.html</guid>
-<pubDate>Fri, 30 Oct 2026 03:40:04 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>2026年10月15日、Linuxカーネル（Linux OSの中核部分）のネットワーク処理に重大な脆弱性（CVE-2026-98432）があることが公表され、あわせて修正版が公開されました。細工したパケットを送りつけることでサーバーを停止させたり、条件によっては認証なしでリモートからプログラムを実行されたりするおそれがある問題です... — はてなブックマーク テクノロジー / score: 95 (Linuxカーネルの重大な脆弱性による緊急の修正)</description>
-</item>
 <item>
 <title>[95] 「Google Chrome」に21件の脆弱性、修正版が公開 ～「Critical」1件を含む／Windows/Mac向けはv156.0.8078.79/.80、Linux向けはv156.0.8078.79</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2152458.html</link>
@@ -79,28 +71,12 @@
 <description>悪意のある攻撃者がLinuxの仮想マシンを不正に操作することで、仮想マシンの境界を抜けてホスト側のLinux OSで不正なコードを実行できる可能性がある脆弱性「PwnEscape」（CVE-2026-99999）の情報が公開されています。 ... — Publickey / score: 95 (Linuxカーネルの深刻な脆弱性の報告)</description>
 </item>
 <item>
-<title>[90] Security notice — malicious version of Anthropic.claude-code (2.1.313) identified in the Cursor Extension Marketplace · Cursor</title>
-<link>https://cursor.com/blog/claude-code-extension-security-notice</link>
-<guid isPermaLink="true">https://cursor.com/blog/claude-code-extension-security-notice</guid>
-<pubDate>Fri, 30 Oct 2026 08:36:01 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Security notice — malicious version of Anthropic.claude-code (2.1.313) identified in the Cursor Extension Marketplace Today we identified a security incident involving a specific extension package in the Cursor VS Code extension Marketplace: Anthropic.claude-code version 2.1.313. This malicious v... — はてなブックマーク テクノロジー / score: 90 (Cursor拡張機能での悪意あるパッケージ検出)</description>
-</item>
-<item>
 <title>[90] 無印良品、「MUJIアプリ」の利用者情報最大約2726万件が不正アクセスにより流出の可能性</title>
 <link>https://internet.watch.impress.co.jp/docs/news/2152666.html</link>
 <guid isPermaLink="true">https://internet.watch.impress.co.jp/docs/news/2152666.html</guid>
 <pubDate>Fri, 30 Oct 2026 06:32:44 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>無印良品、「MUJIアプリ」の利用者情報最大約2726万件が不正アクセスにより流出の可能性 — はてなブックマーク テクノロジー / score: 90 (最大2,726万件の大量の個人情報流出インシデント)</description>
-</item>
-<item>
-<title>[90] Linuxカーネルの脆弱性 CVE-2026-98432 についてまとめてみた - piyolog</title>
-<link>https://piyolog.hatenadiary.jp/entry/2026/10/30/120732</link>
-<guid isPermaLink="true">https://piyolog.hatenadiary.jp/entry/2026/10/30/120732</guid>
-<pubDate>Fri, 30 Oct 2026 04:19:29 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>2026年10月15日、LinuxカーネルのCNAは、IPv4のTCP処理にあるuse-after-freeの脆弱性 CVE-2026-98432 を公開しました。ここでは関連する情報をまとめます。 どんな脆弱性が確認されたの? IPv4のTCP接続処理で、要求ソケットのIPオプションが解放された後も別のCPUが読み続けうるuse-after-freeが生じる。認証は不要で、... — はてなブックマーク テクノロジー / score: 90 (Linuxカーネルの脆弱性CVE-2026-98432の技術的まとめ)</description>
 </item>
 <item>
 <title>[90] 9900億円相当の仮想通貨が盗まれたと仮想通貨取引所のBinanceが認める、侵入経路はエンジニアのノートPCか</title>
@@ -237,6 +213,14 @@
 <pubDate>Mon, 26 Oct 2026 22:51:53 +0000</pubDate>
 <category>窓の杜</category>
 <description>米OpenAIは10月26日（現地時間）、新しいAIモデル「GPT-6.1 Terra」を発表した。7月に発表された「GPT-5.6 Terra」以来のアップデートで、「Terra」シリーズとしては初の「GPT-6.x」モデルとなる。 — 窓の杜 / score: 88 (OpenAIの新モデルGPT-6.1 Terra発表)</description>
+</item>
+<item>
+<title>[85] 推定1兆円相当のBinanceの不正出金事案についてまとめてみた - piyolog</title>
+<link>https://piyolog.hatenadiary.jp/entry/2026/10/30/230303</link>
+<guid isPermaLink="true">https://piyolog.hatenadiary.jp/entry/2026/10/30/230303</guid>
+<pubDate>Fri, 30 Oct 2026 15:04:52 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>2026年10月30日、Binanceは、不正な出金トランザクションが送信されたとして、原因の初期調査の結果と対応を公表しました。ここでは関連する情報をまとめます。 資金流出の経緯 Binanceは10月29日21時15分(UTC。以下、時刻は特記のない限りUTC)、公式Xで潜在的なセキュリティ問題の報告を把握して調査中と投稿した。初報... — はてなブックマーク テクノロジー / score: 85 (大手取引所の不正出金事案に関する詳細なまとめ)</description>
 </item>
 <item>
 <title>[85] バイナンス被害 北朝鮮が関与か</title>
@@ -495,6 +479,14 @@
 <description>Amazon Web Services（AWS）は、サーバレス基盤のAWS Lambda上でNext.jsやExpress、Hono、FastifyなどのNode.js用フレームワークとそのアプリケーションをそのままデプロイして実行できる新... — Publickey / score: 85 (AWS Lambdaの新機能発表で実用性が高く重要)</description>
 </item>
 <item>
+<title>[80] バイナンス 盗難被害の手口を公表</title>
+<link>https://news.yahoo.co.jp/pickup/6600746?source=rss</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6600746?source=rss</guid>
+<pubDate>Fri, 30 Oct 2026 22:45:38 +0000</pubDate>
+<category>Yahoo!ニュース IT</category>
+<description> — Yahoo!ニュース IT / score: 80 (仮想通貨取引所の盗難被害に関する手口公表)</description>
+</item>
+<item>
 <title>[80] When the Kubernetes API went silent: A three-layer networking mystery</title>
 <link>https://cloud.google.com/blog/products/networking/the-three-layer-gke-network-mystery/</link>
 <guid isPermaLink="true">https://cloud.google.com/blog/products/networking/the-three-layer-gke-network-mystery/</guid>
@@ -639,6 +631,14 @@
 <description>Security teams need powerful tools to find vulnerabilities, test exploits, and build defenses. Daybreak Red from OpenAI is now available to eligible customers on Amazon Bedrock in AWS GovCloud (US-East), bringing advanced AI to this work. Part of OpenAI’s Daybreak cyber defense initiative, Daybreak Red: GPT-5.6 Cyber is built for authorized vulnerability research, exploit reproduction, and mitigation development. It gives verified defenders more room to investigate complex security problems, wit — AWS What's New / score: 75 (OpenAIのセキュリティ向けモデルがBedrockで利用可能に。)</description>
 </item>
 <item>
+<title>[75] 世界のメモリー大手、営業利益が初の米テック超え　AI需要が急増 - 日本経済新聞</title>
+<link>https://www.nikkei.com/article/DGXZQOUB29BWD0Z21C26A0000000/</link>
+<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUB29BWD0Z21C26A0000000/</guid>
+<pubDate>Fri, 30 Oct 2026 17:14:52 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>米テック大手の巨額の人工知能（AI）投資により半導体企業の業績が急拡大している。世界のメモリー5社の2026年7〜9月期の営業利益と純利益は初めてテック大手を上回った。供給力を超えるメモリー需要の伸びが背景にある。メモリー各社は業績の先行きに強気な見方を示すが、利益の源泉であるテックの投資余力に対して市場... — はてなブックマーク テクノロジー / score: 75 (半導体・メモリー市場の動向とAI需要の解説)</description>
+</item>
+<item>
 <title>[75] AWS WAF announces automatic SDK integration for Amazon CloudFront distributions</title>
 <link>https://aws.amazon.com/about-aws/whats-new/2026/10/aws-waf-automatic-sdk-integration-amazon-cloudfront/</link>
 <guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/aws-waf-automatic-sdk-integration-amazon-cloudfront/</guid>
@@ -682,9 +682,9 @@
 <title>[75] GPT-6.1 Terraと同等のコーディング性能を発揮するAIモデル「Mistral Large 4」が無償公開される</title>
 <link>https://gigazine.net/news/20261030-mistral-large-4-open/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261030-mistral-large-4-open/</guid>
-<pubDate>Fri, 30 Oct 2026 04:38:30 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>フランスに拠点を置くAI企業のMistralが大規模AIモデル「Mistral Large 4」をオープンモデルとして無償公開しました。コーディング性能ではGPT-6.1 Terraと同等性能という評価もあります。 Mistral Large 4 (Le Chonk) is now open weight | Mistral https://mistral.ai/news/mistral-large-4-oss/ Mistral Large 4は202... — はてなブックマーク テクノロジー / score: 75 (高性能なオープンAIモデルMistral Large 4の公開)</description>
+<pubDate>Fri, 30 Oct 2026 01:48:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>フランスに拠点を置くAI企業のMistralが大規模AIモデル「Mistral Large 4」をオープンモデルとして無償公開しました。コーディング性能ではGPT-6.1 Terraと同等性能という評価もあります。 続きを読む... — GIGAZINE / score: 75 (高性能なオープンAIモデルMistral Large 4の公開)</description>
 </item>
 <item>
 <title>[75] Claude Platform release notes — October 30, 2026</title>
