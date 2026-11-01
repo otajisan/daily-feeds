@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sun, 01 Nov 2026 02:08:42 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 04:07:17 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Google Chrome」に21件の脆弱性、修正版が公開 ～「Critical」1件を含む／Windows/Mac向けはv156.0.8078.79/.80、Linux向けはv156.0.8078.79</title>
@@ -69,14 +69,6 @@
 <pubDate>Sat, 31 Oct 2026 23:15:22 +0000</pubDate>
 <category>Simon Willison</category>
 <description>How We Took Over ChatGPT Accounts Parameter Labs describe an exploit they found against ChatGPT's implementation of the artifacts pattern (OpenAI used to call this "Canvas" but it looks like the latest revision is called HTML previews ), where interactive custom HTML apps are displayed in a sandboxed iframe. It's important that HTML in these stays tightly sandboxed to avoid untrusted code interacting with OpenAI APIs and accessing private data. Parameter found quite a complex attack chain. OpenA — Simon Willison / score: 90 (ChatGPTアカウント乗っ取り脆弱性の解説)</description>
-</item>
-<item>
-<title>[90] 9900億円相当の仮想通貨が盗まれたと仮想通貨取引所のBinanceが認める、侵入経路はエンジニアのノートPCか</title>
-<link>https://gigazine.net/news/20261030-binance-pauses-withdrawals-hackers-stealing-crypto/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261030-binance-pauses-withdrawals-hackers-stealing-crypto/</guid>
-<pubDate>Fri, 30 Oct 2026 02:19:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>世界最大級の仮想通貨取引所であるBinanceが、関連ウォレットから資金が流出しているというユーザーからの報告を受け、出金処理を一時停止していることが明らかになりました。 続きを読む... — GIGAZINE / score: 90 (巨大暗号資産取引所における大規模な資金流出)</description>
 </item>
 <item>
 <title>[90] 「WordPress 7.1.4」が公開、リモートコード実行や多数のXSSを修正／「eMudhra」問題を受けたルート証明書の更新も、速やかなアップデートを</title>
@@ -191,6 +183,14 @@
 <description>米OpenAIは10月26日（現地時間）、新しいAIモデル「GPT-6.1 Terra」を発表した。7月に発表された「GPT-5.6 Terra」以来のアップデートで、「Terra」シリーズとしては初の「GPT-6.x」モデルとなる。 — 窓の杜 / score: 88 (OpenAIの新モデルGPT-6.1 Terra発表)</description>
 </item>
 <item>
+<title>[85] 楽天証券、顧客情報流出の可能性　NTTデータ委託先不正アクセスで（CNET Japan） - Yahoo!ニュース</title>
+<link>https://news.yahoo.co.jp/articles/005b8b559abd8087bf6998381fecfc02882aa2e1</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/articles/005b8b559abd8087bf6998381fecfc02882aa2e1</guid>
+<pubDate>Sun, 01 Nov 2026 01:54:39 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>楽天証券のスマートフォンアプリ「iSPEED」（CNET Japan） 楽天証券は10月31日、デジタル特典付き社債を購入した一部の顧客の情報延べ362件が、外部サービスへの不正アクセスで漏えいした可能性があると発表した。楽天証券自身のシステムが不正アクセスを受けたものではないとしている。 不正アクセスを受けたのは、特... — はてなブックマーク テクノロジー / score: 85 (楽天証券関連のセキュリティインシデントに関する報道)</description>
+</item>
+<item>
 <title>[85] AI学習への利用拒否をrobots.txtで一括指定へ　OpenAIやGoogleなどが対応表明</title>
 <link>https://www.itmedia.co.jp/news/article/2611/01/2000002776/</link>
 <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/01/2000002776/</guid>
@@ -205,6 +205,14 @@
 <pubDate>Sat, 31 Oct 2026 23:55:13 +0000</pubDate>
 <category>Yahoo!ニュース IT</category>
 <description> — Yahoo!ニュース IT / score: 85 (GMOへのサイバー攻撃に関するセキュリティ報道)</description>
+</item>
+<item>
+<title>[85] 楽天証券、顧客情報流出の可能性　NTTデータ委託先不正アクセスで</title>
+<link>https://japan.cnet.com/article/35254251/</link>
+<guid isPermaLink="true">https://japan.cnet.com/article/35254251/</guid>
+<pubDate>Sat, 31 Oct 2026 23:27:23 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>不正アクセスを受けたのは、特典の申し込みなどに使われる外部サービスの提供元、NTTデータの委託先が提供する「デジタル証券プラットフォーム」。楽天証券はNTTデータから、システム内の情報が外部に持ち出された可能性があるとの報告を受けた。発生日時は10月30日としている。 対象は「カゴメ株式会社 第1回無担保社債... — はてなブックマーク テクノロジー / score: 85 (著名企業における顧客情報の流出可能性インシデント)</description>
 </item>
 <item>
 <title>[85] GMOの被害者情報集める不審サイト ハッカー側と関連か | NHKニュース</title>
@@ -479,14 +487,6 @@
 <description>Amazon Web Services（AWS）は、サーバレス基盤のAWS Lambda上でNext.jsやExpress、Hono、FastifyなどのNode.js用フレームワークとそのアプリケーションをそのままデプロイして実行できる新... — Publickey / score: 85 (AWS Lambdaの新機能発表で実用性が高く重要)</description>
 </item>
 <item>
-<title>[80] 【PHP脆弱性に緊急対応】Webサイトの更新・エラー対応を1サイト25,000円で一括提供</title>
-<link>https://ascii.jp/elem/000/004/447/4447545/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/447/4447545/?rss</guid>
-<pubDate>Sat, 31 Oct 2026 07:33:42 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>【PHP脆弱性に緊急対応】Webサイトの更新・エラー対応を1サイト25,000円で一括提供 — ASCII.jp / score: 80 (PHP脆弱性への緊急対応とWebサイト保守サービス)</description>
-</item>
-<item>
 <title>[80] When the Kubernetes API went silent: A three-layer networking mystery</title>
 <link>https://cloud.google.com/blog/products/networking/the-three-layer-gke-network-mystery/</link>
 <guid isPermaLink="true">https://cloud.google.com/blog/products/networking/the-three-layer-gke-network-mystery/</guid>
@@ -605,14 +605,6 @@
 <pubDate>Sat, 31 Oct 2026 10:00:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>ランサムウェアによって攻撃者にシステムを暗号化された被害者に対し、「暗号化されたファイルを復元できる」と宣伝して高額な手数料を取りつつ、実際には攻撃者に身代金を支払って復号鍵をもらいシステム復元を行っていたセキュリティ企業・MonsterCloudのCEOが起訴されました。 続きを読む... — GIGAZINE / score: 75 (セキュリティ企業の不正行為とCEO起訴の衝撃的事件)</description>
-</item>
-<item>
-<title>[75] 身代金、４割に追加要求　急増するランサム攻撃―専門家「支払いは解決ではない」・不正アクセス：時事ドットコム</title>
-<link>https://www.jiji.com/jc/article?k=2026103100100&amp;g=eco</link>
-<guid isPermaLink="true">https://www.jiji.com/jc/article?k=2026103100100&amp;g=eco</guid>
-<pubDate>Sat, 31 Oct 2026 08:32:12 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>身代金、４割に追加要求 急増するランサム攻撃―専門家「支払いは解決ではない」・不正アクセス 時事通信 編集局2026年10月31日18時38分配信 【図解】ランサムウエア攻撃を受けた企業の対応 身代金目的でデータを暗号化するウイルス「ランサムウエア」の被害が急増している。身代金を支払っても約４割は追加要求されると... — はてなブックマーク テクノロジー / score: 75 (増加するランサムウェア攻撃と実態の報道)</description>
 </item>
 <item>
 <title>[75] OpenHandsのDockerポート公開、全インターフェースに出る症状と1.52.0対応</title>
@@ -805,6 +797,14 @@
 <pubDate>Sun, 25 Oct 2026 16:57:52 +0000</pubDate>
 <category>CPython リリース</category>
 <description>Python 3.15.2 — CPython リリース / score: 75 (Python 3.15.2のリリース情報)</description>
+</item>
+<item>
+<title>[75] [AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed</title>
+<link>https://latent.space/p/ainews-kimi-31/</link>
+<guid isPermaLink="true">https://latent.space/p/ainews-kimi-31/</guid>
+<pubDate>Sat, 24 Oct 2026 07:18:29 +0000</pubDate>
+<category>Latent Space</category>
+<description>2 months ago we covered Z.ai CEO Prof Jie Tang’s prediction that we’d get a Fable-class open weights model by year end . 2 weeks ago Meta achieved a Fable-class model in closed source , but, with 2.5 months left to go, we finally got it - a 2.8T open weights model beating Fable 5.1, not just Fable 5, at that: View post on X ↗ with even better efficiency: View post on X ↗ You can tell Kimi is proud of their latest model by how fancy their landing page is: As usual we don’t get much research detai — Latent Space / score: 75 (オープンAIモデルの性能向上とリリース)</description>
 </item>
 </channel>
 </rss>
