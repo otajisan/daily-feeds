@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sun, 01 Nov 2026 20:06:14 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 22:05:41 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Cursor」の拡張機能ストアに「Claude Code」の改竄版、SSHバックドアの設置を試みる／最大5,000ユーザーに影響、アンインストールだけでは不十分な場合も</title>
@@ -61,14 +61,6 @@
 <pubDate>Tue, 20 Oct 2026 05:02:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>2026年10月15日に「CVE-2026-99999」として公開されたLinuxカーネルに関する重大な脆弱性“Guest-to-Host KVM Escape”について、発見者のpwn.aiから発見にいたる概要と背景の報告があった。 — gihyo.jp / score: 95 (Linuxカーネルの重大な脆弱性と発見背景の報告)</description>
-</item>
-<item>
-<title>[90] CVE-2026-98432 - Linux kernel IPv4 TCP use-after-free Issue</title>
-<link>https://aws.amazon.com/security/security-bulletins/2026-160-aws/</link>
-<guid isPermaLink="true">https://aws.amazon.com/security/security-bulletins/2026-160-aws/</guid>
-<pubDate>Sun, 01 Nov 2026 00:19:58 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>CVE-2026-98432 - Linux kernel IPv4 TCP use-after-free Issue The sessions are set and your seat is waiting. Register now — はてなブックマーク テクノロジー / score: 90 (Linuxカーネルの重大な脆弱性情報)</description>
 </item>
 <item>
 <title>[90] How We Took Over ChatGPT Accounts</title>
@@ -194,9 +186,17 @@
 <title>[85] GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026</title>
 <link>https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html</guid>
-<pubDate>Sun, 01 Nov 2026 20:05:51 +0000</pubDate>
+<pubDate>Sun, 01 Nov 2026 22:05:12 +0000</pubDate>
 <category>Publickey</category>
 <description>GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、新機能「GitHub Copilot Fusion」の正式リリースを発表しました。 Copilot Fusi... — Publickey / score: 85 (GitHub Copilotの新機能正式リリースで影響が大きい)</description>
+</item>
+<item>
+<title>[85] compact の使い方、間違えるとトークン代 2.75 倍？ Claude Code で測ってわかった 5 つの結論【2026年版】</title>
+<link>https://qiita.com/songchong/items/ac9779bb8e8838b546b9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/songchong/items/ac9779bb8e8838b546b9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Sun, 01 Nov 2026 19:05:20 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>AI エージェントのトークン代を節約するには、どうすればよいでしょうか。 1 つの方法は、プロンプトキャッシュを上手に使うことです。プロンプトキャッシュは、前の問い合わせと先頭が同じ部分を提供元のサーバーに保存しておき、次から安く読む仕組みです。Claude Sonnet ... — Qiita 人気記事 / score: 85 (Claude Codeでのcompact利用とトークン消費の実測検証)</description>
 </item>
 <item>
 <title>[85] 【独自】GMO攻撃、北朝鮮ハッカーか　複数の痕跡、政府に報告</title>
@@ -269,14 +269,6 @@
 <pubDate>Sat, 31 Oct 2026 08:00:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 85 (GitHub Copilotが全ライセンスで利用可能に)</description>
-</item>
-<item>
-<title>[85] WordPressの脆弱性「wp2shell」を狙った攻撃の観測</title>
-<link>https://qiita.com/melkihara/items/8bb5e61321066be53d83?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/melkihara/items/8bb5e61321066be53d83?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Fri, 30 Oct 2026 05:00:30 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>1. はじめに 三菱電機の木原です。 三菱電機 情報技術総合研究所では、製品開発時のセキュリティ対策にフィードバックする目的で、複数種類のハニーポットを設置・運用しています。 今回はIoT家電を標的としたサイバー攻撃を観測するハニーポット「IoT家電ハニーポット」で観測し... — Qiita 人気記事 / score: 85 (WordPressのゼロデイ脆弱性に関する攻撃観測)</description>
 </item>
 <item>
 <title>[85] 月間70億件超のコミットを、GitHubは新しいGitアーキテクチャで支える──Copilot Fusionなど新機能も発表【GitHub Universe 2026】</title>
@@ -487,6 +479,14 @@
 <description>Amazon Web Services（AWS）は、サーバレス基盤のAWS Lambda上でNext.jsやExpress、Hono、FastifyなどのNode.js用フレームワークとそのアプリケーションをそのままデプロイして実行できる新... — Publickey / score: 85 (AWS Lambdaの新機能発表で実用性が高く重要)</description>
 </item>
 <item>
+<title>[80] Claude Codeは各バックグラウンドエージェントのトランスクリプトを定期的にモデルに送信していることが発覚</title>
+<link>https://gigazine.net/news/20261102-claude-code-resends-background-agents-transcript/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261102-claude-code-resends-background-agents-transcript/</guid>
+<pubDate>Sun, 01 Nov 2026 22:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>Claude Codeの「エージェントサマリー」機能はバックグラウンドエージェントのステータスを約30秒ごとに更新するため、トランスクリプト(記録したデータ)全体をモデルに再送信しています。トランスクリプト送信によりトークンの約15～20％が消費されている計算になります。 続きを読む... — GIGAZINE / score: 80 (Claude Codeのトランスクリプト送信によるトークン消費の指摘)</description>
+</item>
+<item>
 <title>[80] When the Kubernetes API went silent: A three-layer networking mystery</title>
 <link>https://cloud.google.com/blog/products/networking/the-three-layer-gke-network-mystery/</link>
 <guid isPermaLink="true">https://cloud.google.com/blog/products/networking/the-three-layer-gke-network-mystery/</guid>
@@ -533,14 +533,6 @@
 <pubDate>Mon, 26 Oct 2026 18:27:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Today, AWS announces the general availability of OpenAI GPT-6.1 Terra on Amazon Bedrock. GPT-6.1 Terra expands the GPT-6 family with a balance of capability, speed, and cost efficiency for everyday workloads. As the newest model in the Terra line, GPT-6.1 Terra combines detailed visual reasoning, accurate computer use, and improved factuality and natural writing over GPT-5.6 Terra, for complex workflows. In OpenAI’s Agents’ Last Exam evaluation, it scored 15 percentage points higher than GPT-5.6 — AWS What's New / score: 80 (Amazon Bedrockでの新型GPTモデル提供開始)</description>
-</item>
-<item>
-<title>[80] ディスク暗号化ツール「VeraCrypt」v1.26.30が公開、複数の脆弱性を修正／Windows版では前バージョンで報告されたドライバーの不安定化にも対処</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2151130.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2151130.html</guid>
-<pubDate>Mon, 26 Oct 2026 08:19:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>オープンソースのディスク暗号化ソフト「VeraCrypt」が10月24日、v1.26.30へアップデートされた。複数のセキュリティ問題に対処したマイナーアップデートとなっている。 — 窓の杜 / score: 80 (重要暗号化ツールの脆弱性修正アップデート)</description>
 </item>
 <item>
 <title>[80] Anthropic、パーソナルAIアシスタントClaude Duetのリサーチプレビューを発表、米国で先行提供 ——必要な対応を通知、依頼した作業を離席中も継続</title>
@@ -615,6 +607,14 @@
 <description>Appleは米国現地時間10月28日、初めてタッチ操作に対応したMacBook Proを発表しました。これまでAppleはタッチ対応のiPadと非タッチ対応のMacを明確に区別してきましたが、ここに来て両者の違いが一気に […] — iPhone Mania / score: 75 (Apple製PCのタッチ対応という大きな方針転換)</description>
 </item>
 <item>
+<title>[75] AIに証明を書かせてセキュアに開発する言語 Tauto をリリースしました！</title>
+<link>https://qiita.com/ryo33/items/3a1a9d1ba2b289b23244?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/ryo33/items/3a1a9d1ba2b289b23244?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Sun, 01 Nov 2026 08:06:32 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>はじめに AIにコードを書いてもらうのが当たり前になってきました。 でも、こんなモヤモヤはありませんか？ AIが書いたコード、差分を全部読むのはもう限界 テストは通っている。でも テストを書いていないケースは大丈夫？ AIに「なぜ正しいの？」と聞いても、その説明が正... — Qiita 人気記事 / score: 75 (AIに証明を書かせて開発する新言語Tautoのリリース情報)</description>
+</item>
+<item>
 <title>[75] GitHub - vercel-labs/agent-desktop: Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions stay safe to retry,</title>
 <link>https://github.com/vercel-labs/agent-desktop</link>
 <guid isPermaLink="true">https://github.com/vercel-labs/agent-desktop</guid>
@@ -637,14 +637,6 @@
 <pubDate>Sat, 31 Oct 2026 10:08:45 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>ランサムウェアによって攻撃者にシステムを暗号化された被害者に対し、「暗号化されたファイルを復元できる」と宣伝して高額な手数料を取りつつ、実際には攻撃者に身代金を支払って復号鍵をもらいシステム復元を行っていたセキュリティ企業・MonsterCloudのCEOが起訴されました。 Eastern District of New York | Owner ... — はてなブックマーク テクノロジー / score: 75 (セキュリティ企業の不正行為とCEO起訴の衝撃的事件)</description>
-</item>
-<item>
-<title>[75] 自宅ラズパイの脆弱性チェックをしたらHIGH以上が2000件見つかった</title>
-<link>https://qiita.com/yugulab/items/5cdb6f191ef5171adc79?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/yugulab/items/5cdb6f191ef5171adc79?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Sat, 31 Oct 2026 08:52:53 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>TL;DR 脆弱性発見のニュースが毎日絶えないので家のラズパイを調べたら、CVSS深刻度HIGH以上の脆弱性が 2059 件見つかった apt の自動更新はしていたし、ちゃんと動いていた 検知と修正を自動化して、2059 件 → 4 件 人がやるのは「消していい？」... — Qiita 人気記事 / score: 75 (ラズパイの脆弱性チェックと自動化の事例)</description>
 </item>
 <item>
 <title>[75] Daybreak Red from OpenAI now available to eligible customers on Amazon Bedrock in AWS GovCloud (US-East)</title>
@@ -805,6 +797,14 @@
 <pubDate>Sun, 25 Oct 2026 17:12:01 +0000</pubDate>
 <category>CPython リリース</category>
 <description>Python 3.14.10 — CPython リリース / score: 75 (Python 3.14.10のリリース情報)</description>
+</item>
+<item>
+<title>[75] v3.15.2</title>
+<link>https://github.com/python/cpython/releases/tag/v3.15.2</link>
+<guid isPermaLink="true">https://github.com/python/cpython/releases/tag/v3.15.2</guid>
+<pubDate>Sun, 25 Oct 2026 16:57:52 +0000</pubDate>
+<category>CPython リリース</category>
+<description>Python 3.15.2 — CPython リリース / score: 75 (Python 3.15.2のリリース情報)</description>
 </item>
 </channel>
 </rss>
