@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sat, 31 Oct 2026 22:07:05 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 00:20:25 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] RHSB-2026-016 Use-after-free - kernel IPv4 (CVE-2026-98432) | Red Hat Customer Portal</title>
@@ -63,12 +63,12 @@
 <description>2026年10月15日に「CVE-2026-99999」として公開されたLinuxカーネルに関する重大な脆弱性“Guest-to-Host KVM Escape”について、発見者のpwn.aiから発見にいたる概要と背景の報告があった。 — gihyo.jp / score: 95 (Linuxカーネルの重大な脆弱性と発見背景の報告)</description>
 </item>
 <item>
-<title>[90] (PDF)Linux カーネル CVE-2026-98432 脆弱性対処:カーネルパッチ不要の暫定対策説明書(by Claude Mythos 5.1)</title>
-<link>https://dnobori.cyber.ipa.go.jp/ppt/download/20261031/261031-HowToProtect-Linux-Kernel-CVE-2026-98432.pdf</link>
-<guid isPermaLink="true">https://dnobori.cyber.ipa.go.jp/ppt/download/20261031/261031-HowToProtect-Linux-Kernel-CVE-2026-98432.pdf</guid>
-<pubDate>Sat, 31 Oct 2026 05:03:14 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>(PDF)Linux カーネル CVE-2026-98432 脆弱性対処:カーネルパッチ不要の暫定対策説明書(by Claude Mythos 5.1) — はてなブックマーク テクノロジー / score: 90 (Linuxカーネルの緊急セキュリティ脆弱性情報)</description>
+<title>[90] How We Took Over ChatGPT Accounts</title>
+<link>https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/</guid>
+<pubDate>Sat, 31 Oct 2026 23:15:22 +0000</pubDate>
+<category>Simon Willison</category>
+<description>How We Took Over ChatGPT Accounts Parameter Labs describe an exploit they found against ChatGPT's implementation of the artifacts pattern (OpenAI used to call this "Canvas" but it looks like the latest revision is called HTML previews ), where interactive custom HTML apps are displayed in a sandboxed iframe. It's important that HTML in these stays tightly sandboxed to avoid untrusted code interacting with OpenAI APIs and accessing private data. Parameter found quite a complex attack chain. OpenA — Simon Willison / score: 90 (ChatGPTアカウント乗っ取り脆弱性の解説)</description>
 </item>
 <item>
 <title>[90] 9900億円相当の仮想通貨が盗まれたと仮想通貨取引所のBinanceが認める、侵入経路はエンジニアのノートPCか</title>
@@ -191,7 +191,15 @@
 <description>米OpenAIは10月26日（現地時間）、新しいAIモデル「GPT-6.1 Terra」を発表した。7月に発表された「GPT-5.6 Terra」以来のアップデートで、「Terra」シリーズとしては初の「GPT-6.x」モデルとなる。 — 窓の杜 / score: 88 (OpenAIの新モデルGPT-6.1 Terra発表)</description>
 </item>
 <item>
-<title>[85] GMO 被害者情報集める不審サイト ハッカー側と関連か | NHKニュース</title>
+<title>[85] GMO攻撃者 被害者サイト開設か</title>
+<link>https://news.yahoo.co.jp/pickup/6600897?source=rss</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6600897?source=rss</guid>
+<pubDate>Sat, 31 Oct 2026 23:55:13 +0000</pubDate>
+<category>Yahoo!ニュース IT</category>
+<description> — Yahoo!ニュース IT / score: 85 (GMOへのサイバー攻撃に関するセキュリティ報道)</description>
+</item>
+<item>
+<title>[85] GMOの被害者情報集める不審サイト ハッカー側と関連か | NHKニュース</title>
 <link>https://news.web.nhk/newsweb/na/nd-20261031de69043</link>
 <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261031de69043</guid>
 <pubDate>Sat, 31 Oct 2026 16:20:52 +0000</pubDate>
@@ -207,12 +215,12 @@
 <description> — Yahoo!ニュース IT / score: 85 (大規模な個人情報流出インシデントの報道)</description>
 </item>
 <item>
-<title>[85] GMO 子会社がシステムぜい弱性を2年前に指摘 来週2日会見へ | NHKニュース</title>
+<title>[85] GMO 子会社がシステムぜい弱性を2年前に指摘 来週2日に会見へ | NHKニュース</title>
 <link>https://news.web.nhk/newsweb/na/nd-20261031de69024</link>
 <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261031de69024</guid>
 <pubDate>Sat, 31 Oct 2026 12:04:26 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>GMOインターネットグループのサービスが不正アクセスを受け、利用者に関するとみられる個人情報が公開された問題で、2年前に子会社のセキュリティー企業からシステムのぜい弱性を指摘されていたことが関係者への… — はてなブックマーク テクノロジー / score: 85 (企業の深刻なセキュリティ脆弱性問題と会見)</description>
+<description>GMOインターネットグループのサービスが不正アクセスを受け、利用者に関するとみられる個人情報が公開された問題で、2年前に子会社のセキュリティー企業がシステムのぜい弱性を指摘していたことが関係者への取材… — はてなブックマーク テクノロジー / score: 85 (企業の深刻なセキュリティ脆弱性問題と会見)</description>
 </item>
 <item>
 <title>[85] GMO不正侵入、システム脆弱性を2年前に把握　子会社指摘も対策後手 - 日本経済新聞</title>
@@ -231,28 +239,12 @@
 <description> — CodeZine / score: 85 (GitHub Copilotが全ライセンスで利用可能に)</description>
 </item>
 <item>
-<title>[85] Claude Code 拡張機能のバックドア事件まとめ（2.1.312・2.1.313・Cursor のマーケットプレイス）</title>
-<link>https://zenn.dev/sonsu/articles/67fbd9a1cf8914</link>
-<guid isPermaLink="true">https://zenn.dev/sonsu/articles/67fbd9a1cf8914</guid>
-<pubDate>Fri, 30 Oct 2026 18:30:00 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>2026年10月29日、Claude Code 拡張機能の悪意あるバージョン（2.1.312 と 2.1.313）が Cursor の拡張機能マーケットプレイスに公開され、約11時間にわたって配布されました。このバージョンをインストールすると、攻撃者が SSH で PC に接続できるように設定が変更されます。この記事では、何が起きたのかを整理したうえで、自分が該当するかどうかの確認方法と、該当した場合の対応を順に説明します。 ! 2026年10月31日時点の情報です。攻撃者がどのようにして Cursor のマーケットプレイスへのアクセス権を得たのかは、まだ公式に発表されていません。また、... — Zenn トレンド / score: 85 (拡張機能マーケットプレイスでのバックドア混入事件のまとめ)</description>
-</item>
-<item>
 <title>[85] バイナンス被害 北朝鮮が関与か</title>
 <link>https://news.yahoo.co.jp/pickup/6600708?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6600708?source=rss</guid>
 <pubDate>Fri, 30 Oct 2026 10:10:27 +0000</pubDate>
 <category>Yahoo!ニュース IT</category>
 <description> — Yahoo!ニュース IT / score: 85 (セキュリティインシデントの背景に関する重要ニュース)</description>
-</item>
-<item>
-<title>[85] 無印良品 最大2726万件情報流出か</title>
-<link>https://news.yahoo.co.jp/pickup/6600686?source=rss</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6600686?source=rss</guid>
-<pubDate>Fri, 30 Oct 2026 06:30:41 +0000</pubDate>
-<category>Yahoo!ニュース IT</category>
-<description> — Yahoo!ニュース IT / score: 85 (無印良品の大量情報流出を報じるニュース)</description>
 </item>
 <item>
 <title>[85] WordPressの脆弱性「wp2shell」を狙った攻撃の観測</title>
@@ -341,6 +333,14 @@
 <pubDate>Wed, 28 Oct 2026 05:36:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>オープンソースのメールソフト「Thunderbird」の最新版、v159.0が10月27日にリリースされた。 — 窓の杜 / score: 85 (Thunderbirdの多数の脆弱性修正リリース)</description>
+</item>
+<item>
+<title>[85] Auto mode時代のClaude Codeを守る。検証済み10キットで始めるセキュリティ対策【全員・チーム・組織別】</title>
+<link>https://zenn.dev/sonicmoov/articles/67aaeb49be69ec</link>
+<guid isPermaLink="true">https://zenn.dev/sonicmoov/articles/67aaeb49be69ec</guid>
+<pubDate>Wed, 28 Oct 2026 03:17:06 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>はじめに 株式会社ソニックムーブでフロントエンドエンジニアをしているazarashiです。 前回の記事「検証済み10キットで始める、Claude Code時代のGitHubセキュリティ対策」では、GitHub のリポジトリを AI 時代の脅威から守る方法をまとめました。今回は、手元の PC で動く Claude Code そのものを守る方法です。 Claude Code は、ファイルを読み、コマンドを実行し、外部と通信できます。便利な反面、悪意のある指示を読み込んだときや、Claude が判断を誤ったときに、秘密情報を読まれる・送られる、ファイルを壊される、守りの設定を外されるおそれ... — Zenn トレンド / score: 85 (Claude Code等のAIツール向けセキュリティ対策)</description>
 </item>
 <item>
 <title>[85] Mozilla、「Firefox 159」を正式リリース ～167件の脆弱性を修正／「タブ検索」が追加、開いているタブを［Ctrl］＋［Shift］＋［A］キーで検索可能に</title>
@@ -679,14 +679,6 @@
 <description> — Yahoo!ニュース IT / score: 75 (暗号資産取引所への不正侵入に関する速報)</description>
 </item>
 <item>
-<title>[75] GPT-6.1 Terraと同等のコーディング性能を発揮するAIモデル「Mistral Large 4」が無償公開される</title>
-<link>https://gigazine.net/news/20261030-mistral-large-4-open/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261030-mistral-large-4-open/</guid>
-<pubDate>Fri, 30 Oct 2026 01:48:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>フランスに拠点を置くAI企業のMistralが大規模AIモデル「Mistral Large 4」をオープンモデルとして無償公開しました。コーディング性能ではGPT-6.1 Terraと同等性能という評価もあります。 続きを読む... — GIGAZINE / score: 75 (高性能なオープンAIモデルMistral Large 4の公開)</description>
-</item>
-<item>
 <title>[75] Claude Platform release notes — October 30, 2026</title>
 <link>https://platform.claude.com/docs/en/release-notes/overview#october-30-2026</link>
 <guid isPermaLink="true">https://platform.claude.com/docs/en/release-notes/overview#october-30-2026</guid>
@@ -805,6 +797,14 @@
 <pubDate>Mon, 26 Oct 2026 05:19:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>中国Moonshot AIは2026年10月23日、マルチモーダルMoEモデルの最新バージョン「Kimi K3.1 Pro」および高レスポンスモデル「Kimi K3.1 Pro Highspeed」を発表した。 — gihyo.jp / score: 75 (Moonshot AIによる高性能オープンウェイトMoEモデル発表)</description>
+</item>
+<item>
+<title>[75] v3.14.10</title>
+<link>https://github.com/python/cpython/releases/tag/v3.14.10</link>
+<guid isPermaLink="true">https://github.com/python/cpython/releases/tag/v3.14.10</guid>
+<pubDate>Sun, 25 Oct 2026 17:12:01 +0000</pubDate>
+<category>CPython リリース</category>
+<description>Python 3.14.10 — CPython リリース / score: 75 (Python 3.14.10のリリース情報)</description>
 </item>
 </channel>
 </rss>
