@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sun, 01 Nov 2026 04:07:17 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 06:10:07 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Google Chrome」に21件の脆弱性、修正版が公開 ～「Critical」1件を含む／Windows/Mac向けはv156.0.8078.79/.80、Linux向けはv156.0.8078.79</title>
@@ -69,6 +69,14 @@
 <pubDate>Sat, 31 Oct 2026 23:15:22 +0000</pubDate>
 <category>Simon Willison</category>
 <description>How We Took Over ChatGPT Accounts Parameter Labs describe an exploit they found against ChatGPT's implementation of the artifacts pattern (OpenAI used to call this "Canvas" but it looks like the latest revision is called HTML previews ), where interactive custom HTML apps are displayed in a sandboxed iframe. It's important that HTML in these stays tightly sandboxed to avoid untrusted code interacting with OpenAI APIs and accessing private data. Parameter found quite a complex attack chain. OpenA — Simon Willison / score: 90 (ChatGPTアカウント乗っ取り脆弱性の解説)</description>
+</item>
+<item>
+<title>[90] WordPressの問い合わせフォーム用プラグイン Contact Form 7に認証不要の任意ファイルアップロードの脆弱性、6.2.4で修正 最新6.2.4.1への更新を推奨|セキュリティニュースのセキュリティ対策Lab</title>
+<link>https://rocket-boys.co.jp/security-measures-lab/contact_form_7_624_security_update_20261030/</link>
+<guid isPermaLink="true">https://rocket-boys.co.jp/security-measures-lab/contact_form_7_624_security_update_20261030/</guid>
+<pubDate>Fri, 30 Oct 2026 22:48:42 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>WordPressの問い合わせフォーム用プラグイン「Contact Form 7」の開発元は2026年10月29日、セキュリティ修正を含むバージョン6.2.4を公開しました。6.2から6.2.3までのバージョンには、認証していない第三者が本来拒否されるファイルをアップロードし、送信後もサーバー上に残せる問題があります。開発元は全利用者に更... — はてなブックマーク テクノロジー / score: 90 (重要プラグインの緊急な脆弱性修正)</description>
 </item>
 <item>
 <title>[90] 「WordPress 7.1.4」が公開、リモートコード実行や多数のXSSを修正／「eMudhra」問題を受けたルート証明書の更新も、速やかなアップデートを</title>
@@ -239,14 +247,6 @@
 <description>GMOインターネットグループのサービスが不正アクセスを受け、利用者に関するとみられる個人情報が公開された問題で、2年前に子会社のセキュリティー企業がシステムのぜい弱性を指摘していたことが関係者への取材… — はてなブックマーク テクノロジー / score: 85 (企業の深刻なセキュリティ脆弱性問題と会見)</description>
 </item>
 <item>
-<title>[85] GMO不正侵入、システム脆弱性を2年前に把握　子会社指摘も対策後手 - 日本経済新聞</title>
-<link>https://www.nikkei.com/article/DGXZQOUC30A460Q6A031C2000000/</link>
-<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUC30A460Q6A031C2000000/</guid>
-<pubDate>Sat, 31 Oct 2026 08:05:25 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>GMOインターネットグループのサービスが不正アクセスを受けた問題で、子会社のセキュリティー企業が2024年4月にシステムの欠陥（脆弱性）を指摘していたことがGMO幹部への取材でわかった。システムの抜本的な見直しを求めたものの十分な対応がなされずに被害を招いた。脆弱性を指摘したのは、子会社のGMOサイバーセキュ... — はてなブックマーク テクノロジー / score: 85 (重大なセキュリティインシデントと脆弱性放置の問題)</description>
-</item>
-<item>
 <title>[85] GitHub Enterprise、全ライセンスユーザーがGitHub Copilotを利用可能に</title>
 <link>https://codezine.jp/article/detail/30191</link>
 <guid isPermaLink="true">https://codezine.jp/article/detail/30191</guid>
@@ -333,14 +333,6 @@
 <pubDate>Wed, 28 Oct 2026 05:36:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>オープンソースのメールソフト「Thunderbird」の最新版、v159.0が10月27日にリリースされた。 — 窓の杜 / score: 85 (Thunderbirdの多数の脆弱性修正リリース)</description>
-</item>
-<item>
-<title>[85] Auto mode時代のClaude Codeを守る。検証済み10キットで始めるセキュリティ対策【全員・チーム・組織別】</title>
-<link>https://zenn.dev/sonicmoov/articles/67aaeb49be69ec</link>
-<guid isPermaLink="true">https://zenn.dev/sonicmoov/articles/67aaeb49be69ec</guid>
-<pubDate>Wed, 28 Oct 2026 03:17:06 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>はじめに 株式会社ソニックムーブでフロントエンドエンジニアをしているazarashiです。 前回の記事「検証済み10キットで始める、Claude Code時代のGitHubセキュリティ対策」では、GitHub のリポジトリを AI 時代の脅威から守る方法をまとめました。今回は、手元の PC で動く Claude Code そのものを守る方法です。 Claude Code は、ファイルを読み、コマンドを実行し、外部と通信できます。便利な反面、悪意のある指示を読み込んだときや、Claude が判断を誤ったときに、秘密情報を読まれる・送られる、ファイルを壊される、守りの設定を外されるおそれ... — Zenn トレンド / score: 85 (Claude Code等のAIツール向けセキュリティ対策)</description>
 </item>
 <item>
 <title>[85] Mozilla、「Firefox 159」を正式リリース ～167件の脆弱性を修正／「タブ検索」が追加、開いているタブを［Ctrl］＋［Shift］＋［A］キーで検索可能に</title>
@@ -599,12 +591,20 @@
 <description>Today, AWS launched the public beta of TorchNeuron, an open source native PyTorch backend for AWS Trainium. Trainium is a portfolio of AI chips designed to deliver high performance and cost efficiency for deep learning AI training and inference workloads. TorchNeuron enables AI scientists and researchers to experiment and build models with PyTorch natively on Trainium. With TorchNeuron, developers can enable their PyTorch code on Trainium simply by switching to .to('neuron') while maintaining fu — AWS What's New / score: 80 (AWS Trainium向けのネイティブPyTorchサポート発表)</description>
 </item>
 <item>
+<title>[75] ISUCON2026に人間1人＋AIエージェント軍団で出て19.6万点、ループは閉じたけど中身が弱かった反省文😇</title>
+<link>https://zenn.dev/tak848/articles/20261031-isucon2026-writeup</link>
+<guid isPermaLink="true">https://zenn.dev/tak848/articles/20261031-isucon2026-writeup</guid>
+<pubDate>Sat, 31 Oct 2026 10:53:26 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>! この記事は全部AIが書きました。 全部を自動化して記録に残していたので、何が起きたかを一番よく知っているのは当日の指揮役のClaude Codeでした。その記録（自分のプロンプトも含む）を材料に、終わった直後に書いています。 こんにちは。いや、こんいす〜！！ @tak848です。 10月31日のISUCON2026に、人間は自分1人、手を動かすのはClaude CodeとCodexのエージェントたち、という体制で出ました。 問題は、地域ごとに台が分かれた写真共有SNS「ISUReal.」でした（中身は振り返りの節で）。 前回のISUCON14は1人で出て、30位以内に入ったと思った... — Zenn トレンド / score: 75 (AIエージェントを活用したISUCONの挑戦)</description>
+</item>
+<item>
 <title>[75] 「ハッカーに身代金を支払うことなく暗号化されたファイルを復元できる」というセキュリティ企業が実際は被害者から得た高額な手数料の中から身代金を支払っていたとしてCEOが起訴される</title>
 <link>https://gigazine.net/news/20261031-monstercloud-ransomware-victims/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261031-monstercloud-ransomware-victims/</guid>
-<pubDate>Sat, 31 Oct 2026 10:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>ランサムウェアによって攻撃者にシステムを暗号化された被害者に対し、「暗号化されたファイルを復元できる」と宣伝して高額な手数料を取りつつ、実際には攻撃者に身代金を支払って復号鍵をもらいシステム復元を行っていたセキュリティ企業・MonsterCloudのCEOが起訴されました。 続きを読む... — GIGAZINE / score: 75 (セキュリティ企業の不正行為とCEO起訴の衝撃的事件)</description>
+<pubDate>Sat, 31 Oct 2026 10:08:45 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>ランサムウェアによって攻撃者にシステムを暗号化された被害者に対し、「暗号化されたファイルを復元できる」と宣伝して高額な手数料を取りつつ、実際には攻撃者に身代金を支払って復号鍵をもらいシステム復元を行っていたセキュリティ企業・MonsterCloudのCEOが起訴されました。 Eastern District of New York | Owner ... — はてなブックマーク テクノロジー / score: 75 (セキュリティ企業の不正行為とCEO起訴の衝撃的事件)</description>
 </item>
 <item>
 <title>[75] OpenHandsのDockerポート公開、全インターフェースに出る症状と1.52.0対応</title>
@@ -653,14 +653,6 @@
 <pubDate>Fri, 30 Oct 2026 08:24:29 +0000</pubDate>
 <category>Latent Space</category>
 <description>Mistral’s open-weight release, frontier monitoring, and the day’s AI Twitter and Reddit recaps. — Latent Space / score: 75 (コーディングエージェントの最新動向とOSS情報)</description>
-</item>
-<item>
-<title>[75] 暗号資産取引大手に不正侵入か</title>
-<link>https://news.yahoo.co.jp/pickup/6600689?source=rss</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6600689?source=rss</guid>
-<pubDate>Fri, 30 Oct 2026 06:43:51 +0000</pubDate>
-<category>Yahoo!ニュース IT</category>
-<description> — Yahoo!ニュース IT / score: 75 (暗号資産取引所への不正侵入に関する速報)</description>
 </item>
 <item>
 <title>[75] Claude Platform release notes — October 30, 2026</title>
@@ -805,6 +797,14 @@
 <pubDate>Sat, 24 Oct 2026 07:18:29 +0000</pubDate>
 <category>Latent Space</category>
 <description>2 months ago we covered Z.ai CEO Prof Jie Tang’s prediction that we’d get a Fable-class open weights model by year end . 2 weeks ago Meta achieved a Fable-class model in closed source , but, with 2.5 months left to go, we finally got it - a 2.8T open weights model beating Fable 5.1, not just Fable 5, at that: View post on X ↗ with even better efficiency: View post on X ↗ You can tell Kimi is proud of their latest model by how fancy their landing page is: As usual we don’t get much research detai — Latent Space / score: 75 (オープンAIモデルの性能向上とリリース)</description>
+</item>
+<item>
+<title>[75] Securing our frontier model training environment</title>
+<link>https://openai.com/index/securing-our-frontier-model-training-environment</link>
+<guid isPermaLink="true">https://openai.com/index/securing-our-frontier-model-training-environment</guid>
+<pubDate>Fri, 23 Oct 2026 10:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming. — OpenAI News / score: 75 (AI最先端モデルのセキュリティ強化に関する解説。)</description>
 </item>
 </channel>
 </rss>
