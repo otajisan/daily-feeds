@@ -4,16 +4,8 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sun, 01 Nov 2026 00:20:25 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 02:08:42 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
-<item>
-<title>[95] RHSB-2026-016 Use-after-free - kernel IPv4 (CVE-2026-98432) | Red Hat Customer Portal</title>
-<link>https://access.redhat.com/security/vulnerabilities/RHSB-2026-016</link>
-<guid isPermaLink="true">https://access.redhat.com/security/vulnerabilities/RHSB-2026-016</guid>
-<pubDate>Fri, 30 Oct 2026 23:49:29 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>0 Get notified when this content is updated. Follow Please wait... Executive Summary This vulnerability is tracked as CVE-2026-98432 and has been rated with a severity impact of Critical. Red Hat is expediting the release of fixes. A use-after-free vulnerability was found in the Linux kernel's IP... — はてなブックマーク テクノロジー / score: 95 (カーネルの重大なセキュリティ脆弱性に関する情報)</description>
-</item>
 <item>
 <title>[95] 「Google Chrome」に21件の脆弱性、修正版が公開 ～「Critical」1件を含む／Windows/Mac向けはv156.0.8078.79/.80、Linux向けはv156.0.8078.79</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2152458.html</link>
@@ -61,6 +53,14 @@
 <pubDate>Tue, 20 Oct 2026 05:02:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>2026年10月15日に「CVE-2026-99999」として公開されたLinuxカーネルに関する重大な脆弱性“Guest-to-Host KVM Escape”について、発見者のpwn.aiから発見にいたる概要と背景の報告があった。 — gihyo.jp / score: 95 (Linuxカーネルの重大な脆弱性と発見背景の報告)</description>
+</item>
+<item>
+<title>[90] CVE-2026-98432 - Linux kernel IPv4 TCP use-after-free Issue</title>
+<link>https://aws.amazon.com/security/security-bulletins/2026-160-aws/</link>
+<guid isPermaLink="true">https://aws.amazon.com/security/security-bulletins/2026-160-aws/</guid>
+<pubDate>Sun, 01 Nov 2026 00:19:58 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>CVE-2026-98432 - Linux kernel IPv4 TCP use-after-free Issue The sessions are set and your seat is waiting. Register now — はてなブックマーク テクノロジー / score: 90 (Linuxカーネルの重大な脆弱性情報)</description>
 </item>
 <item>
 <title>[90] How We Took Over ChatGPT Accounts</title>
@@ -191,6 +191,14 @@
 <description>米OpenAIは10月26日（現地時間）、新しいAIモデル「GPT-6.1 Terra」を発表した。7月に発表された「GPT-5.6 Terra」以来のアップデートで、「Terra」シリーズとしては初の「GPT-6.x」モデルとなる。 — 窓の杜 / score: 88 (OpenAIの新モデルGPT-6.1 Terra発表)</description>
 </item>
 <item>
+<title>[85] AI学習への利用拒否をrobots.txtで一括指定へ　OpenAIやGoogleなどが対応表明</title>
+<link>https://www.itmedia.co.jp/news/article/2611/01/2000002776/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/01/2000002776/</guid>
+<pubDate>Sun, 01 Nov 2026 00:58:30 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>米OpenAI、米Google、米Microsoftは10月30日（現地時間）、Webサイト運営者がAI学習へのコンテンツ利用に関する意向を複数のAI企業にまとめて伝えられる共通の仕組みに対応する方針をそれぞれ発表した。米Anthropicも実装を進めている。この仕組みは、Anthropicの標準化担当者、ケビン・ケリー氏が同日付で標準化団体IET... — はてなブックマーク テクノロジー / score: 85 (AI学習拒否の共通仕組み策定は業界全体に大きな影響)</description>
+</item>
+<item>
 <title>[85] GMO攻撃者 被害者サイト開設か</title>
 <link>https://news.yahoo.co.jp/pickup/6600897?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6600897?source=rss</guid>
@@ -239,28 +247,12 @@
 <description> — CodeZine / score: 85 (GitHub Copilotが全ライセンスで利用可能に)</description>
 </item>
 <item>
-<title>[85] バイナンス被害 北朝鮮が関与か</title>
-<link>https://news.yahoo.co.jp/pickup/6600708?source=rss</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6600708?source=rss</guid>
-<pubDate>Fri, 30 Oct 2026 10:10:27 +0000</pubDate>
-<category>Yahoo!ニュース IT</category>
-<description> — Yahoo!ニュース IT / score: 85 (セキュリティインシデントの背景に関する重要ニュース)</description>
-</item>
-<item>
 <title>[85] WordPressの脆弱性「wp2shell」を狙った攻撃の観測</title>
 <link>https://qiita.com/melkihara/items/8bb5e61321066be53d83?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
 <guid isPermaLink="true">https://qiita.com/melkihara/items/8bb5e61321066be53d83?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
 <pubDate>Fri, 30 Oct 2026 05:00:30 +0000</pubDate>
 <category>Qiita 人気記事</category>
 <description>1. はじめに 三菱電機の木原です。 三菱電機 情報技術総合研究所では、製品開発時のセキュリティ対策にフィードバックする目的で、複数種類のハニーポットを設置・運用しています。 今回はIoT家電を標的としたサイバー攻撃を観測するハニーポット「IoT家電ハニーポット」で観測し... — Qiita 人気記事 / score: 85 (WordPressのゼロデイ脆弱性に関する攻撃観測)</description>
-</item>
-<item>
-<title>[85] アメリカ当局がNVIDIAのフアンCEOと親しいデータセンター企業幹部を中国のスパイだと断定</title>
-<link>https://gigazine.net/news/20261030-jensen-huang-targeted-chinese-spy/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261030-jensen-huang-targeted-chinese-spy/</guid>
-<pubDate>Fri, 30 Oct 2026 02:12:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>「NVIDIA製のAIチップを中国に横流ししている」という疑いのあるシンガポールの企業の幹部が、中国のスパイであり、中国政府に情報を流していたとアメリカの諜報機関が結論付けていたことがわかりました。この人物はNVIDIAのジェンスン・フアンCEOと親しく、フアンCEOがスパイの標的になっていた可能性が大きいとみられます。 続きを読む... — GIGAZINE / score: 85 (AI半導体業界の巨人に絡む地政学・スパイ事件)</description>
 </item>
 <item>
 <title>[85] 月間70億件超のコミットを、GitHubは新しいGitアーキテクチャで支える──Copilot Fusionなど新機能も発表【GitHub Universe 2026】</title>
@@ -805,6 +797,14 @@
 <pubDate>Sun, 25 Oct 2026 17:12:01 +0000</pubDate>
 <category>CPython リリース</category>
 <description>Python 3.14.10 — CPython リリース / score: 75 (Python 3.14.10のリリース情報)</description>
+</item>
+<item>
+<title>[75] v3.15.2</title>
+<link>https://github.com/python/cpython/releases/tag/v3.15.2</link>
+<guid isPermaLink="true">https://github.com/python/cpython/releases/tag/v3.15.2</guid>
+<pubDate>Sun, 25 Oct 2026 16:57:52 +0000</pubDate>
+<category>CPython リリース</category>
+<description>Python 3.15.2 — CPython リリース / score: 75 (Python 3.15.2のリリース情報)</description>
 </item>
 </channel>
 </rss>
