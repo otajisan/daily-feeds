@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sun, 01 Nov 2026 08:08:10 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 10:06:04 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Google Chrome」に21件の脆弱性、修正版が公開 ～「Critical」1件を含む／Windows/Mac向けはv156.0.8078.79/.80、Linux向けはv156.0.8078.79</title>
@@ -215,6 +215,14 @@
 <description>米OpenAI、米Google、米Microsoftは10月30日（現地時間）、Webサイト運営者がAI学習へのコンテンツ利用に関する意向を複数のAI企業にまとめて伝えられる共通の仕組みに対応する方針をそれぞれ発表した。米Anthropicも実装を進めている。この仕組みは、Anthropicの標準化担当者、ケビン・ケリー氏が同日付で標準化団体IET... — はてなブックマーク テクノロジー / score: 85 (AI学習拒否の共通仕組み策定は業界全体に大きな影響)</description>
 </item>
 <item>
+<title>[85] AI学習の可否をrobots.txtで指定 Google、MS、OpenAIらが共通仕様を27年導入</title>
+<link>https://www.watch.impress.co.jp/docs/news/2152852.html</link>
+<guid isPermaLink="true">https://www.watch.impress.co.jp/docs/news/2152852.html</guid>
+<pubDate>Sun, 01 Nov 2026 00:53:27 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>AI学習の可否をrobots.txtで指定 Google、MS、OpenAIらが共通仕様を27年導入 — はてなブックマーク テクノロジー / score: 85 (主要AI企業によるrobots.txtの共通仕様導入)</description>
+</item>
+<item>
 <title>[85] GMO攻撃者 被害者サイト開設か</title>
 <link>https://news.yahoo.co.jp/pickup/6600897?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6600897?source=rss</guid>
@@ -245,14 +253,6 @@
 <pubDate>Sat, 31 Oct 2026 14:04:30 +0000</pubDate>
 <category>Yahoo!ニュース IT</category>
 <description> — Yahoo!ニュース IT / score: 85 (大規模な個人情報流出インシデントの報道)</description>
-</item>
-<item>
-<title>[85] GMO 子会社がシステムぜい弱性を2年前に指摘 来週2日に会見へ | NHKニュース</title>
-<link>https://news.web.nhk/newsweb/na/nd-20261031de69024</link>
-<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261031de69024</guid>
-<pubDate>Sat, 31 Oct 2026 12:04:26 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>GMOインターネットグループのサービスが不正アクセスを受け、利用者に関するとみられる個人情報が公開された問題で、2年前に子会社のセキュリティー企業がシステムのぜい弱性を指摘していたことが関係者への取材… — はてなブックマーク テクノロジー / score: 85 (企業の深刻なセキュリティ脆弱性問題と会見)</description>
 </item>
 <item>
 <title>[85] GitHub Enterprise、全ライセンスユーザーがGitHub Copilotを利用可能に</title>
@@ -599,6 +599,14 @@
 <description>Today, AWS launched the public beta of TorchNeuron, an open source native PyTorch backend for AWS Trainium. Trainium is a portfolio of AI chips designed to deliver high performance and cost efficiency for deep learning AI training and inference workloads. TorchNeuron enables AI scientists and researchers to experiment and build models with PyTorch natively on Trainium. With TorchNeuron, developers can enable their PyTorch code on Trainium simply by switching to .to('neuron') while maintaining fu — AWS What's New / score: 80 (AWS Trainium向けのネイティブPyTorchサポート発表)</description>
 </item>
 <item>
+<title>[75] Appleがついに方針転換！Macのタッチ対応が意味するもの</title>
+<link>https://iphone-mania.jp/mac-608203/</link>
+<guid isPermaLink="true">https://iphone-mania.jp/mac-608203/</guid>
+<pubDate>Sun, 01 Nov 2026 09:50:41 +0000</pubDate>
+<category>iPhone Mania</category>
+<description>Appleは米国現地時間10月28日、初めてタッチ操作に対応したMacBook Proを発表しました。これまでAppleはタッチ対応のiPadと非タッチ対応のMacを明確に区別してきましたが、ここに来て両者の違いが一気に […] — iPhone Mania / score: 75 (Apple製PCのタッチ対応という大きな方針転換)</description>
+</item>
+<item>
 <title>[75] GitHub - vercel-labs/agent-desktop: Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions stay safe to retry,</title>
 <link>https://github.com/vercel-labs/agent-desktop</link>
 <guid isPermaLink="true">https://github.com/vercel-labs/agent-desktop</guid>
@@ -623,12 +631,12 @@
 <description>ランサムウェアによって攻撃者にシステムを暗号化された被害者に対し、「暗号化されたファイルを復元できる」と宣伝して高額な手数料を取りつつ、実際には攻撃者に身代金を支払って復号鍵をもらいシステム復元を行っていたセキュリティ企業・MonsterCloudのCEOが起訴されました。 Eastern District of New York | Owner ... — はてなブックマーク テクノロジー / score: 75 (セキュリティ企業の不正行為とCEO起訴の衝撃的事件)</description>
 </item>
 <item>
-<title>[75] OpenHandsのDockerポート公開、全インターフェースに出る症状と1.52.0対応</title>
-<link>https://qiita.com/orca-forge/items/145909fc7dff845b19ca?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/orca-forge/items/145909fc7dff845b19ca?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Fri, 30 Oct 2026 23:21:47 +0000</pubDate>
+<title>[75] 自宅ラズパイの脆弱性チェックをしたらHIGH以上が2000件見つかった</title>
+<link>https://qiita.com/yugulab/items/5cdb6f191ef5171adc79?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/yugulab/items/5cdb6f191ef5171adc79?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Sat, 31 Oct 2026 08:52:53 +0000</pubDate>
 <category>Qiita 人気記事</category>
-<description>📝 この記事は forge.workstyle.tech に掲載した記事の転載です。 環境はOpenHands Software Agent SDKをDockerのサンドボックスで動かす構成です。症状はホスト側ポートが全インターフェースに公開され、外から到達できる可能性... — Qiita 人気記事 / score: 75 (OpenHandsのDockerポート公開の脆弱性と対応)</description>
+<description>TL;DR 脆弱性発見のニュースが毎日絶えないので家のラズパイを調べたら、CVSS深刻度HIGH以上の脆弱性が 2059 件見つかった apt の自動更新はしていたし、ちゃんと動いていた 検知と修正を自動化して、2059 件 → 4 件 人がやるのは「消していい？」... — Qiita 人気記事 / score: 75 (ラズパイの脆弱性チェックと自動化の事例)</description>
 </item>
 <item>
 <title>[75] Daybreak Red from OpenAI now available to eligible customers on Amazon Bedrock in AWS GovCloud (US-East)</title>
@@ -797,14 +805,6 @@
 <pubDate>Sun, 25 Oct 2026 17:12:01 +0000</pubDate>
 <category>CPython リリース</category>
 <description>Python 3.14.10 — CPython リリース / score: 75 (Python 3.14.10のリリース情報)</description>
-</item>
-<item>
-<title>[75] v3.15.2</title>
-<link>https://github.com/python/cpython/releases/tag/v3.15.2</link>
-<guid isPermaLink="true">https://github.com/python/cpython/releases/tag/v3.15.2</guid>
-<pubDate>Sun, 25 Oct 2026 16:57:52 +0000</pubDate>
-<category>CPython リリース</category>
-<description>Python 3.15.2 — CPython リリース / score: 75 (Python 3.15.2のリリース情報)</description>
 </item>
 </channel>
 </rss>
