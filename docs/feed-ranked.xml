@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sun, 01 Nov 2026 06:10:07 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 08:08:10 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Google Chrome」に21件の脆弱性、修正版が公開 ～「Critical」1件を含む／Windows/Mac向けはv156.0.8078.79/.80、Linux向けはv156.0.8078.79</title>
@@ -189,6 +189,14 @@
 <pubDate>Mon, 26 Oct 2026 22:51:53 +0000</pubDate>
 <category>窓の杜</category>
 <description>米OpenAIは10月26日（現地時間）、新しいAIモデル「GPT-6.1 Terra」を発表した。7月に発表された「GPT-5.6 Terra」以来のアップデートで、「Terra」シリーズとしては初の「GPT-6.x」モデルとなる。 — 窓の杜 / score: 88 (OpenAIの新モデルGPT-6.1 Terra発表)</description>
+</item>
+<item>
+<title>[85] NTTデータ委託先に不正アクセス　社債向けサービス、楽天証券など利用 - 日本経済新聞</title>
+<link>https://www.nikkei.com/article/DGXZQOUC010BF0R01C26A1000000/</link>
+<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUC010BF0R01C26A1000000/</guid>
+<pubDate>Sun, 01 Nov 2026 03:35:39 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>NTTデータは10月31日、ITサービスの委託先のソフトウエア企業で第三者による不正アクセスが発生したと発表した。社債購入に特典を付与するサービスで利用者の個人情報が漏洩した可能性がある。委託先の企業が現在、不正アクセスの状況について調査している。委託先の企業名や流出した恐れがある個人情報の総数は明らかに... — はてなブックマーク テクノロジー / score: 85 (委託先を狙った不正アクセスによる個人情報漏洩の懸念)</description>
 </item>
 <item>
 <title>[85] 楽天証券、顧客情報流出の可能性　NTTデータ委託先不正アクセスで（CNET Japan） - Yahoo!ニュース</title>
@@ -591,6 +599,14 @@
 <description>Today, AWS launched the public beta of TorchNeuron, an open source native PyTorch backend for AWS Trainium. Trainium is a portfolio of AI chips designed to deliver high performance and cost efficiency for deep learning AI training and inference workloads. TorchNeuron enables AI scientists and researchers to experiment and build models with PyTorch natively on Trainium. With TorchNeuron, developers can enable their PyTorch code on Trainium simply by switching to .to('neuron') while maintaining fu — AWS What's New / score: 80 (AWS Trainium向けのネイティブPyTorchサポート発表)</description>
 </item>
 <item>
+<title>[75] GitHub - vercel-labs/agent-desktop: Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions stay safe to retry,</title>
+<link>https://github.com/vercel-labs/agent-desktop</link>
+<guid isPermaLink="true">https://github.com/vercel-labs/agent-desktop</guid>
+<pubDate>Sun, 01 Nov 2026 02:51:00 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Computer use for AI agents: read and operate desktop apps through the OS accessibility tree. A CLI and C library for macOS, Windows and Linux. A snapshot returns JSON with a ref for every element an agent can act on. The agent acts on a ref and snapshots again to check, with no pixel matching; th... — はてなブックマーク テクノロジー / score: 75 (AIエージェントのPC操作を実現する注目のOSSツール)</description>
+</item>
+<item>
 <title>[75] ISUCON2026に人間1人＋AIエージェント軍団で出て19.6万点、ループは閉じたけど中身が弱かった反省文😇</title>
 <link>https://zenn.dev/tak848/articles/20261031-isucon2026-writeup</link>
 <guid isPermaLink="true">https://zenn.dev/tak848/articles/20261031-isucon2026-writeup</guid>
@@ -789,22 +805,6 @@
 <pubDate>Sun, 25 Oct 2026 16:57:52 +0000</pubDate>
 <category>CPython リリース</category>
 <description>Python 3.15.2 — CPython リリース / score: 75 (Python 3.15.2のリリース情報)</description>
-</item>
-<item>
-<title>[75] [AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed</title>
-<link>https://latent.space/p/ainews-kimi-31/</link>
-<guid isPermaLink="true">https://latent.space/p/ainews-kimi-31/</guid>
-<pubDate>Sat, 24 Oct 2026 07:18:29 +0000</pubDate>
-<category>Latent Space</category>
-<description>2 months ago we covered Z.ai CEO Prof Jie Tang’s prediction that we’d get a Fable-class open weights model by year end . 2 weeks ago Meta achieved a Fable-class model in closed source , but, with 2.5 months left to go, we finally got it - a 2.8T open weights model beating Fable 5.1, not just Fable 5, at that: View post on X ↗ with even better efficiency: View post on X ↗ You can tell Kimi is proud of their latest model by how fancy their landing page is: As usual we don’t get much research detai — Latent Space / score: 75 (オープンAIモデルの性能向上とリリース)</description>
-</item>
-<item>
-<title>[75] Securing our frontier model training environment</title>
-<link>https://openai.com/index/securing-our-frontier-model-training-environment</link>
-<guid isPermaLink="true">https://openai.com/index/securing-our-frontier-model-training-environment</guid>
-<pubDate>Fri, 23 Oct 2026 10:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming. — OpenAI News / score: 75 (AI最先端モデルのセキュリティ強化に関する解説。)</description>
 </item>
 </channel>
 </rss>
