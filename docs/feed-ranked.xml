@@ -4,8 +4,16 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sun, 01 Nov 2026 14:06:59 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 16:06:01 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>[95] 「Cursor」の拡張機能ストアに「Claude Code」の改竄版、SSHバックドアの設置を試みる／最大5,000ユーザーに影響、アンインストールだけでは不十分な場合も</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2152916.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2152916.html</guid>
+<pubDate>Sun, 01 Nov 2026 15:05:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米SpaceX傘下のCursor社は10月29日（現地時間）、「Cursor」のマーケットプレイスで悪意ある改竄が施された「Claude Code for VS Code」拡張機能が公開されていたことを明らかにした。影響を受けたのは最大5,000ユーザーで、該当する場合は確認と修復の作業が必要になる。 — 窓の杜 / score: 95 (開発者向けツールにおける悪意ある拡張機能のサプライチェーン攻撃)</description>
+</item>
 <item>
 <title>[95] 「Google Chrome」に21件の脆弱性、修正版が公開 ～「Critical」1件を含む／Windows/Mac向けはv156.0.8078.79/.80、Linux向けはv156.0.8078.79</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2152458.html</link>
@@ -87,14 +95,6 @@
 <description>「WordPress」の開発チームは10月28日、「WordPress 7.1.4」をリリースした。ブログシステム「WordPress」のセキュリティリリースで、速やかなアップデートが推奨されている。 — 窓の杜 / score: 90 (WordPressの緊急セキュリティアップデート)</description>
 </item>
 <item>
-<title>[90] AppleがiPhone XSとXRの脆弱性を修正〜攻撃に悪用された可能性</title>
-<link>https://iphone-mania.jp/ios-608049/</link>
-<guid isPermaLink="true">https://iphone-mania.jp/ios-608049/</guid>
-<pubDate>Wed, 28 Oct 2026 10:22:00 +0000</pubDate>
-<category>iPhone Mania</category>
-<description>Appleは現地時間10月26日、iPhone XS、XS Max、XR向けにiOS18.7.11を配信しました。実際の攻撃で悪用された可能性がある脆弱性を修正するアップデートです。この脆弱性は、iPhone11以降では […] — iPhone Mania / score: 90 (iOSの深刻な脆弱性を修正する緊急アップデート)</description>
-</item>
-<item>
 <title>[90] 「Google Chrome 156」にセキュリティ更新、「Critical」4件を含む52件の脆弱性を修正／Windows/Mac向けはv156.0.8078.73/.74、Linux向けはv156.0.8078.73</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2151733.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2151733.html</guid>
@@ -135,12 +135,12 @@
 <description>米Appleは10月26日（現地時間）、「iOS 27.2」「iPadOS 27.2」をリリースした。英語で先行提供されていた「Siri AI」が日本語、フランス語、韓国語、ポルトガル語、スペイン語に対応したほか、新機能やバグ修正、セキュリティアップデートが含まれている。 — 窓の杜 / score: 90 (iOS/iPadOSの大規模脆弱性修正と新機能)</description>
 </item>
 <item>
-<title>[90] 「Python」に再び「eMudhra」問題への対策、「Python 3.15.2」など5バージョンを提供／侵害された鍵をブロックする“最後の砦”が「ssl」モジュールに</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2151194.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2151194.html</guid>
-<pubDate>Mon, 26 Oct 2026 07:19:01 +0000</pubDate>
-<category>窓の杜</category>
-<description>スクリプト言語「Python」の開発チームは10月25日（協定世界時、以下同）、「Python」のセキュリティアップデートを実施した。21日のアップデートに続き、インドの認証局「eMudhra」の中間証明書の秘密鍵が漏洩した問題に対し、追加の保護策が導入されている。現在、以下のバージョンが利用可能。 — 窓の杜 / score: 90 (Pythonの鍵漏洩に対する緊急セキュリティ対策)</description>
+<title>[90] PHPショック、システム即停止は「やや過剰反応」　理解なき運用がリスクに</title>
+<link>https://business.nikkei.com/atcl/gen/19/00304/102200276/</link>
+<guid isPermaLink="true">https://business.nikkei.com/atcl/gen/19/00304/102200276/</guid>
+<pubDate>Sat, 24 Oct 2026 05:02:23 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>プログラミング言語「PHP」に深刻な脆弱性が見つかった問題は、日本の政府機関や多くの民間企業がシステムやサービスの提供を一時制限するなどの事態につながった。一方、同様の事態に直面しても、米国ではサイトを継続する企業は多かったとされる。今後も増えるであろうサイバー攻撃に対して、企業が取るべき適切な対応... — はてなブックマーク テクノロジー / score: 90 (PHPの深刻な脆弱性と日本国内の対応に関する重要記事)</description>
 </item>
 <item>
 <title>[90] eMudhraの中間CAの秘密鍵が公開された証明書から復元可能と判明、pip・uvなどの開発ツールに修正版</title>
@@ -191,6 +191,22 @@
 <description>米OpenAIは10月26日（現地時間）、新しいAIモデル「GPT-6.1 Terra」を発表した。7月に発表された「GPT-5.6 Terra」以来のアップデートで、「Terra」シリーズとしては初の「GPT-6.x」モデルとなる。 — 窓の杜 / score: 88 (OpenAIの新モデルGPT-6.1 Terra発表)</description>
 </item>
 <item>
+<title>[85] GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026</title>
+<link>https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html</guid>
+<pubDate>Sun, 01 Nov 2026 16:05:32 +0000</pubDate>
+<category>Publickey</category>
+<description>GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、新機能「GitHub Copilot Fusion」の正式リリースを発表しました。 Copilot Fusi... — Publickey / score: 85 (GitHub Copilotの新機能正式リリースで影響が大きい)</description>
+</item>
+<item>
+<title>[85] 【独自】GMO攻撃、北朝鮮ハッカーか　複数の痕跡、政府に報告</title>
+<link>https://www.47news.jp/15170379.html</link>
+<guid isPermaLink="true">https://www.47news.jp/15170379.html</guid>
+<pubDate>Sun, 01 Nov 2026 14:23:54 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>GMOインターネットグループが、一連の不正アクセスの攻撃側に北朝鮮系のハッカー集団がいる可能性が高いと分析していることが1日、関係者への取材で分かった。マルウエア（悪意あるソフト）の特徴など攻撃者の複数の痕跡から判断したとみられる。GMOは政府側に報告したもようで、真相解明が今後の焦点だ。複数の国をまた... — はてなブックマーク テクノロジー / score: 85 (大企業へのサイバー攻撃と国家関与の重大なニュース)</description>
+</item>
+<item>
 <title>[85] GMO攻撃 北朝鮮系のハッカーか</title>
 <link>https://news.yahoo.co.jp/pickup/6600991?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6600991?source=rss</guid>
@@ -221,14 +237,6 @@
 <pubDate>Sun, 01 Nov 2026 03:35:39 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>NTTデータは10月31日、ITサービスの委託先のソフトウエア企業で第三者による不正アクセスが発生したと発表した。社債購入に特典を付与するサービスで利用者の個人情報が漏洩した可能性がある。委託先の企業が現在、不正アクセスの状況について調査している。委託先の企業名や流出した恐れがある個人情報の総数は明らかに... — はてなブックマーク テクノロジー / score: 85 (委託先を狙った不正アクセスによる個人情報漏洩の懸念)</description>
-</item>
-<item>
-<title>[85] 楽天証券、顧客情報流出の可能性　NTTデータ委託先不正アクセスで（CNET Japan） - Yahoo!ニュース</title>
-<link>https://news.yahoo.co.jp/articles/005b8b559abd8087bf6998381fecfc02882aa2e1</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/articles/005b8b559abd8087bf6998381fecfc02882aa2e1</guid>
-<pubDate>Sun, 01 Nov 2026 01:54:39 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>楽天証券のスマートフォンアプリ「iSPEED」（CNET Japan） 楽天証券は10月31日、デジタル特典付き社債を購入した一部の顧客の情報延べ362件が、外部サービスへの不正アクセスで漏えいした可能性があると発表した。楽天証券自身のシステムが不正アクセスを受けたものではないとしている。 不正アクセスを受けたのは、特... — はてなブックマーク テクノロジー / score: 85 (楽天証券関連のセキュリティインシデントに関する報道)</description>
 </item>
 <item>
 <title>[85] AI学習への利用拒否をrobots.txtで一括指定へ　OpenAIやGoogleなどが対応表明</title>
@@ -797,14 +805,6 @@
 <pubDate>Mon, 26 Oct 2026 05:19:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>中国Moonshot AIは2026年10月23日、マルチモーダルMoEモデルの最新バージョン「Kimi K3.1 Pro」および高レスポンスモデル「Kimi K3.1 Pro Highspeed」を発表した。 — gihyo.jp / score: 75 (Moonshot AIによる高性能オープンウェイトMoEモデル発表)</description>
-</item>
-<item>
-<title>[75] v3.14.10</title>
-<link>https://github.com/python/cpython/releases/tag/v3.14.10</link>
-<guid isPermaLink="true">https://github.com/python/cpython/releases/tag/v3.14.10</guid>
-<pubDate>Sun, 25 Oct 2026 17:12:01 +0000</pubDate>
-<category>CPython リリース</category>
-<description>Python 3.14.10 — CPython リリース / score: 75 (Python 3.14.10のリリース情報)</description>
 </item>
 </channel>
 </rss>
