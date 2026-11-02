@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 02 Nov 2026 12:10:11 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 14:07:44 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Cursor」の拡張機能ストアに「Claude Code」の改竄版、SSHバックドアの設置を試みる／最大5,000ユーザーに影響、アンインストールだけでは不十分な場合も</title>
@@ -61,6 +61,22 @@
 <pubDate>Tue, 20 Oct 2026 05:02:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>2026年10月15日に「CVE-2026-99999」として公開されたLinuxカーネルに関する重大な脆弱性“Guest-to-Host KVM Escape”について、発見者のpwn.aiから発見にいたる概要と背景の報告があった。 — gihyo.jp / score: 95 (Linuxカーネルの重大な脆弱性と発見背景の報告)</description>
+</item>
+<item>
+<title>[90] Shutting the Door on the XCPE Botnet</title>
+<link>https://cloud.google.com/blog/topics/threat-intelligence/shutting-the-door-on-the-xcpe-botnet/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/threat-intelligence/shutting-the-door-on-the-xcpe-botnet/</guid>
+<pubDate>Mon, 02 Nov 2026 14:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Introduction Last week, Google and industry partners dismantled the XCPE backdoor which enrolled more than 1.3 million set-top boxes into a botnet. We assess with high confidence that the backdoor and botnet were intentionally developed, deployed, and operated for financial gain by Videostrong Technology Co., an Android Original Equipment Manufacturer (OEM) and Original Device Manufacturer (ODM). Videostrong monetized the backdoor by selling access to criminal affiliates and loading those affili — Google Cloud Blog / score: 90 (大手IT企業等による大規模ボットネット解体のセキュリティ成果)</description>
+</item>
+<item>
+<title>[90] Cursor公式マーケットプレイスの「Claude Code」にSSHバックドアが発見される</title>
+<link>https://gigazine.net/news/20261102-official-claude-code-extension-compromise/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261102-official-claude-code-extension-compromise/</guid>
+<pubDate>Mon, 02 Nov 2026 12:55:14 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>AI搭載コードエディター「Cursor」の公式拡張機能マーケットプレイスで配布されていた「Claude Code」の一部バージョンにPCへの不正アクセスを可能にするSSHバックドアが仕込まれていた問題について、セキュリティ企業のPhorionが2026年10月30日に詳細な分析結果を公開しました。 Official Claude Code Extension Compro... — はてなブックマーク テクノロジー / score: 90 (公式マーケットプレイスのツールに混入した深刻なバックドア問題)</description>
 </item>
 <item>
 <title>[90] Cursor で Claude Code 拡張 2.1.312・2.1.313 が改ざんされていた件、Windows で自分の PC を確かめた</title>
@@ -162,7 +178,7 @@
 <title>[85] GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026</title>
 <link>https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html</guid>
-<pubDate>Mon, 02 Nov 2026 12:09:41 +0000</pubDate>
+<pubDate>Mon, 02 Nov 2026 14:07:18 +0000</pubDate>
 <category>Publickey</category>
 <description>GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、新機能「GitHub Copilot Fusion」の正式リリースを発表しました。 Copilot Fusi... — Publickey / score: 85 (GitHub Copilotの新機能正式リリースで影響が大きい)</description>
 </item>
@@ -183,12 +199,12 @@
 <description>サントリーホールディングスは、業務で利用しているマイクロソフトのクラウドサービスが不正アクセスを受け、個人情報およそ10万人分が漏えいしたと発表しました。 会社によりますと、漏えいしたのは、サントリ… — はてなブックマーク テクノロジー / score: 85 (クラウドサービス経由の大規模な個人情報漏えい事案)</description>
 </item>
 <item>
-<title>[85] ペイクラウドHD、「アララ メッセージ」への不正アクセスで約7700万件のメールアドレスが流出　ラクスライトクラウド「ブラストメール」でも。法人向けメール配信サービスの不正アクセス続く</title>
-<link>https://internet.watch.impress.co.jp/docs/news/2153174.html</link>
-<guid isPermaLink="true">https://internet.watch.impress.co.jp/docs/news/2153174.html</guid>
-<pubDate>Mon, 02 Nov 2026 07:56:54 +0000</pubDate>
+<title>[85] Cloudflare、耐量子時代のウェブに向けたパブリック認証局の設立を発表</title>
+<link>https://www.cloudflare.com/ja-jp/press/press-releases/2026/cloudflare-announces-public-certificate-authority-for-the-post-quantum-web/</link>
+<guid isPermaLink="true">https://www.cloudflare.com/ja-jp/press/press-releases/2026/cloudflare-announces-public-certificate-authority-for-the-post-quantum-web/</guid>
+<pubDate>Mon, 02 Nov 2026 06:45:23 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>ペイクラウドHD、「アララ メッセージ」への不正アクセスで約7700万件のメールアドレスが流出 ラクスライトクラウド「ブラストメール」でも。法人向けメール配信サービスの不正アクセス続く — はてなブックマーク テクノロジー / score: 85 (大規模なメールアドレス流出と不正アクセス多発)</description>
+<description>Cloudflare、耐量子時代のウェブに向けたパブリック認証局の設立を発表 コネクティビティクラウドCloudflareのコネクティビティクラウドは、ネットワーキング、セキュリティ、パフォーマンスのサービスを60以上提供します。 — はてなブックマーク テクノロジー / score: 85 (Cloudflareによる耐量子時代のパブリック認証局設立の発表)</description>
 </item>
 <item>
 <title>[85] アットコスメ、会員約300万人分の情報漏えい　不正アクセスで</title>
@@ -197,14 +213,6 @@
 <pubDate>Mon, 02 Nov 2026 06:34:08 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>化粧品総合サイト「@cosme」を運営するアイスタイルは11月2日、@cosmeへの第三者による不正アクセスにより、「@cosme共通ID」に登録された会員情報の一部・約300万人分が漏えいしたと発表した。 漏えいした情報は、名前（漢字・カナ）、郵便番号、住所、電話番号、メールアドレス、ユーザーID（自動発番）、性別、生年月... — はてなブックマーク テクノロジー / score: 85 (アットコスメの約300万人分情報漏えいインシデント)</description>
-</item>
-<item>
-<title>[85] メール配信サービス「アララ」700万通超の不審メール確認 | NHKニュース</title>
-<link>https://news.web.nhk/newsweb/na/nd-20261102de69506</link>
-<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261102de69506</guid>
-<pubDate>Mon, 02 Nov 2026 05:44:39 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>企業向けにメール配信サービスなどを提供している「アララ」は、先月受けた不正アクセスの影響で、会社のサービスが何者かに悪用され、クレジットカード会社を装った不審なメールが、最大およそ713万通送信された… — はてなブックマーク テクノロジー / score: 85 (アララでの大規模な不正アクセスと不審メール送信)</description>
 </item>
 <item>
 <title>[85] 「アララ」7700万件のメアド流出</title>
@@ -431,6 +439,14 @@
 <description>Amazon Web Services（AWS）は、サーバレス基盤のAWS Lambda上でNext.jsやExpress、Hono、FastifyなどのNode.js用フレームワークとそのアプリケーションをそのままデプロイして実行できる新... — Publickey / score: 85 (AWS Lambdaの新機能発表で実用性が高く重要)</description>
 </item>
 <item>
+<title>[80] ノジマ 700万人分の個人情報流出</title>
+<link>https://news.yahoo.co.jp/pickup/6601104?source=rss</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6601104?source=rss</guid>
+<pubDate>Mon, 02 Nov 2026 13:26:39 +0000</pubDate>
+<category>Yahoo!ニュース IT</category>
+<description> — Yahoo!ニュース IT / score: 80 (大規模企業からの大量個人情報流出に関する重要セキュリティニュース)</description>
+</item>
+<item>
 <title>[80] サントリーHD 10万人分漏えい</title>
 <link>https://news.yahoo.co.jp/pickup/6601074?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6601074?source=rss</guid>
@@ -559,6 +575,14 @@
 <description>Today, AWS launched the public beta of TorchNeuron, an open source native PyTorch backend for AWS Trainium. Trainium is a portfolio of AI chips designed to deliver high performance and cost efficiency for deep learning AI training and inference workloads. TorchNeuron enables AI scientists and researchers to experiment and build models with PyTorch natively on Trainium. With TorchNeuron, developers can enable their PyTorch code on Trainium simply by switching to .to('neuron') while maintaining fu — AWS What's New / score: 80 (AWS Trainium向けのネイティブPyTorchサポート発表)</description>
 </item>
 <item>
+<title>[75] 【重要】当社サーバーへの不正アクセスに関するお詫びとお知らせ（SEGA FAVE CORPORATION announces that certain of its servers were accessed without authorization by a third party.） | ニュース | 株式会社セガ フェイブ</title>
+<link>https://www.segafave.co.jp/news/261102_1/</link>
+<guid isPermaLink="true">https://www.segafave.co.jp/news/261102_1/</guid>
+<pubDate>Mon, 02 Nov 2026 11:35:58 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>【重要】当社サーバーへの不正アクセスに関するお詫びとお知らせ（SEGA FAVE CORPORATION announces that certain of its servers were accessed without authorization by a third party.） 株式会社セガ フェイブ（本社：東京都品川区、以下、当社）は当社のサーバーの一部において、第三者による不正アクセスを受けた... — はてなブックマーク テクノロジー / score: 75 (大手企業サーバーへの不正アクセスによる重要セキュリティインシデント)</description>
+</item>
+<item>
 <title>[75] BTS所属のHYBE ハッキング被害</title>
 <link>https://news.yahoo.co.jp/pickup/6601078?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6601078?source=rss</guid>
@@ -575,12 +599,12 @@
 <description>GMOインターネットグループに対する不正アクセス問題で、同社の熊谷正寿社長は2日の会見で、ネット産業の老舗としてサイバーセキュリティーの向上に組織を挙げて取り組み、「お客さまの情報を守れと言い続けてきた」と涙ながらに語り、それにもかかわらず今回の事態を招いたことに痛恨の表情を浮かべた。そして「僕は命... — はてなブックマーク テクノロジー / score: 75 (GMO社長のセキュリティに関する会見での発言)</description>
 </item>
 <item>
-<title>[75] 【速報中】GMO熊谷正寿社長 会見詳報 | 毎日新聞</title>
+<title>[75] 【時系列で振り返る】GMO熊谷正寿社長 会見詳報 | 毎日新聞</title>
 <link>https://mainichi.jp/articles/20261102/hrc/00m/020/001000d</link>
 <guid isPermaLink="true">https://mainichi.jp/articles/20261102/hrc/00m/020/001000d</guid>
 <pubDate>Mon, 02 Nov 2026 08:18:26 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>記者会見中に涙ぐむGMOインターネットグループの熊谷正寿会長兼社長＝東京都世田谷区で2026年11月2日午後、和田大典撮影 GMOインターネットグループが運営する外国為替証拠金取引（FX）関連のサービスが不正アクセスを受けた問題で、同社は2日に記者会見を開き、熊谷正寿会長兼社長が謝罪しました。内容を詳報します。 ... — はてなブックマーク テクノロジー / score: 75 (大手企業の不正アクセス問題と記者会見の詳報)</description>
+<description>記者会見中に涙ぐむGMOインターネットグループの熊谷正寿会長兼社長＝東京都内で2026年11月2日午後、和田大典撮影 GMOインターネットグループが運営する外国為替証拠金取引（FX）関連のサービスが不正アクセスを受けた問題で、同社は2日に記者会見を開き、熊谷正寿会長兼社長が謝罪しました。内容を詳報します。 辞任は... — はてなブックマーク テクノロジー / score: 75 (大手企業の不正アクセス問題と記者会見の詳報)</description>
 </item>
 <item>
 <title>[75] GMO熊谷代表、会見で改めて謝罪　SNS投稿巡り「配慮が欠けていた」</title>
@@ -602,9 +626,9 @@
 <title>[75] 仮想通貨取引所のBinanceが盗まれた9900億円相当の仮想通貨の90％を既に補填済みと発表</title>
 <link>https://gigazine.net/news/20261102-binance-replenished/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261102-binance-replenished/</guid>
-<pubDate>Mon, 02 Nov 2026 05:32:12 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>世界最大級の仮想通貨取引所であるBinanceは2026年10月30日、攻撃者がサービスコンテナにアクセスして、総額約63億ドル(約9900億円)が不正に出金された可能性があると明かしました。Binanceは10月31日には「資金の90％が既に補充されており、残りの10％についても補塡(ほてん)する予定」と述べ、一時停止されていた出金... — はてなブックマーク テクノロジー / score: 75 (大規模な仮想通貨流出事件と迅速な補填対応のニュース)</description>
+<pubDate>Mon, 02 Nov 2026 05:15:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>世界最大級の仮想通貨取引所であるBinanceは2026年10月30日、攻撃者がサービスコンテナにアクセスして、総額約63億ドル(約9900億円)が不正に出金された可能性があると明かしました。Binanceは10月31日には「資金の90％が既に補充されており、残りの10％についても補塡(ほてん)する予定」と述べ、一時停止されていた出金も再開していることを発表しています。 続きを読む... — GIGAZINE / score: 75 (大規模な仮想通貨流出事件と迅速な補填対応のニュース)</description>
 </item>
 <item>
 <title>[75] OpenAIのAIエージェント、人類から監視されないようにがんばる。そのためには嘘もつく</title>
@@ -781,30 +805,6 @@
 <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster. — OpenAI News / score: 75 (OpenAIを用いたセキュリティ脆弱性調査の事例)</description>
-</item>
-<item>
-<title>[75] GPT-6.1 Terra</title>
-<link>https://simonwillison.net/2026/Oct/26/gpt-61-terra/</link>
-<guid isPermaLink="true">https://simonwillison.net/2026/Oct/26/gpt-61-terra/</guid>
-<pubDate>Mon, 26 Oct 2026 23:53:07 +0000</pubDate>
-<category>Simon Willison</category>
-<description>GPT-6.1 Terra It's always interesting to note which aspects of a new model are emphasized in the release announcement. In the case of GPT-6.1 Terra, OpenAI went with visual reasoning and computer use: We’re introducing GPT-6.1 Terra , a fast, efficient model that combines detailed visual reasoning and precise computer use alongside clearer, more natural writing. A significant step up from GPT‑5.6 Terra, it excels at the communication and computer-based tasks that fill the workday, from drafting  — Simon Willison / score: 75 (GPT-6.1 Terraの機能とビジュアル推論の解説)</description>
-</item>
-<item>
-<title>[75] Greptile takes bug detection beyond code review with GPT-6 Astra</title>
-<link>https://openai.com/index/greptile-code-review-codex-astra</link>
-<guid isPermaLink="true">https://openai.com/index/greptile-code-review-codex-astra</guid>
-<pubDate>Mon, 26 Oct 2026 22:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework. — OpenAI News / score: 75 (GPT-6 Astraを活用したバグ検出の事例)</description>
-</item>
-<item>
-<title>[75] Moonshot AI、最高性能のオープンウェイトMoEモデル「Kimi K3.1 Pro」を発表 ―2～3倍高速な「Kimi K3.1 Pro Highspeed」も提供開始</title>
-<link>https://gihyo.jp/article/2026/10/kimi-k3-1-pro?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/10/kimi-k3-1-pro?utm_source=feed</guid>
-<pubDate>Mon, 26 Oct 2026 05:19:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>中国Moonshot AIは2026年10月23日、マルチモーダルMoEモデルの最新バージョン「Kimi K3.1 Pro」および高レスポンスモデル「Kimi K3.1 Pro Highspeed」を発表した。 — gihyo.jp / score: 75 (Moonshot AIによる高性能オープンウェイトMoEモデル発表)</description>
 </item>
 </channel>
 </rss>
