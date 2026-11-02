@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 02 Nov 2026 20:06:25 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 22:08:04 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Cursor」の拡張機能ストアに「Claude Code」の改竄版、SSHバックドアの設置を試みる／最大5,000ユーザーに影響、アンインストールだけでは不十分な場合も</title>
@@ -191,6 +191,14 @@
 <description>GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、新機能「GitHub Copilot Fusion」の正式リリースを発表しました。 Copilot Fusi... — Publickey / score: 85 (GitHub Copilotの新機能正式リリースで影響が大きい)</description>
 </item>
 <item>
+<title>[85] PHPの脆弱性「php2shell」が来たので、Amazonの公式パッケージを待たずにPHPを自分でビルドして本番に入れた話</title>
+<link>https://qiita.com/Tukirukiki/items/beec6fedd37f63e1c231?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/Tukirukiki/items/beec6fedd37f63e1c231?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Mon, 02 Nov 2026 11:05:13 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>はじめに 2026年10月に公表された PHPの脆弱性「php2shell」に、公表当日の夜に対応しましたので、備忘録としてやったことを記載していきます！ いろんなPHPを使っている企業がメンテになって、中には、まる1日メンテになってる企業もありましたね、、 僕たちのプ... — Qiita 人気記事 / score: 85 (PHPの脆弱性に対する迅速な緊急対応の記録)</description>
+</item>
+<item>
 <title>[85] 「Visual Studio Code」v1.144が公開、複数のAIモデルを賢く使い分ける「GitHub Copilot Fusion」も一般提供／エージェントとの通信仕様「Agent Host Protocol」v1.0も公開</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2153125.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2153125.html</guid>
@@ -221,14 +229,6 @@
 <pubDate>Mon, 02 Nov 2026 02:45:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>「ウェブサイトのコンテンツをAI学習に使用することの可否」をrobot.txtを用いて明示できるようにする仕様の作成が進んでいます。この仕様について、Google・OpenAI・Microsoftが対応を表明しました。 続きを読む... — GIGAZINE / score: 85 (主要各社によるAI学習拒否共通仕様の対応表明)</description>
-</item>
-<item>
-<title>[85] ロゴ画像用の公開領域に顧客ファイルも保存　GMO系シングルサインオン、4.5万人分漏えい</title>
-<link>https://www.itmedia.co.jp/news/article/2611/02/2000002780/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/02/2000002780/</guid>
-<pubDate>Mon, 02 Nov 2026 01:59:35 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>GMOグローバルサインは10月30日、シングルサインオンサービス「GMOトラスト・ログイン」の設定不備による情報漏えいで、利用企業2492社・4万5030人分の氏名やメールアドレスなどが対象になったと発表した。 顧客情報を含む一時ファイルなどを、ロゴ画像と同じ公開領域に保存する設計になっていたことで、約9年間にわたり... — はてなブックマーク テクノロジー / score: 85 (GMO系シングルサインオンの重大な情報漏えい)</description>
 </item>
 <item>
 <title>[85] compact の使い方、間違えるとトークン代 2.75 倍？ Claude Code で測ってわかった 5 つの結論【2026年版】</title>
@@ -463,14 +463,6 @@
 <description>「ClickFix」と呼ばれる、偽の画面を表示してコマンドを実行させる攻撃がいくつかのサイトで確認されました。不正アクセスを受けた正規のウェブサイトで確認されているため注意が必要です。 続きを読む... — GIGAZINE / score: 80 (Cloudflare偽装のコマンド実行攻撃を確認)</description>
 </item>
 <item>
-<title>[80] Claude Codeは各バックグラウンドエージェントのトランスクリプトを定期的にモデルに送信していることが発覚</title>
-<link>https://gigazine.net/news/20261102-claude-code-resends-background-agents-transcript/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261102-claude-code-resends-background-agents-transcript/</guid>
-<pubDate>Sun, 01 Nov 2026 22:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>Claude Codeの「エージェントサマリー」機能はバックグラウンドエージェントのステータスを約30秒ごとに更新するため、トランスクリプト(記録したデータ)全体をモデルに再送信しています。トランスクリプト送信によりトークンの約15～20％が消費されている計算になります。 続きを読む... — GIGAZINE / score: 80 (Claude Codeのトランスクリプト送信によるトークン消費の指摘)</description>
-</item>
-<item>
 <title>[80] When the Kubernetes API went silent: A three-layer networking mystery</title>
 <link>https://cloud.google.com/blog/products/networking/the-three-layer-gke-network-mystery/</link>
 <guid isPermaLink="true">https://cloud.google.com/blog/products/networking/the-three-layer-gke-network-mystery/</guid>
@@ -549,6 +541,14 @@
 <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Linus Torvaldsは10月18日、「Linux 7.3」のリリースをアナウンスした。 — gihyo.jp / score: 80 (Linuxカーネルの新バージョンリリース)</description>
+</item>
+<item>
+<title>[75] 1兆円の仮想通貨盗難、FBIが北朝鮮の犯行と指摘　狙われたのは社員のPCか</title>
+<link>https://ascii.jp/limit/group/ida/elem/000/004/447/4447863/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/limit/group/ida/elem/000/004/447/4447863/?rss</guid>
+<pubDate>Mon, 02 Nov 2026 22:00:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>世界最大の暗号資産（仮想通貨）の取引所バイナンスから、1兆円相当の仮想通貨が盗まれた。 — ASCII.jp / score: 75 (大規模な仮想通貨盗難事件とセキュリティ指摘)</description>
 </item>
 <item>
 <title>[75] The Rise of LLMJacking: How Threat Actors Monetize Compromised Cloud and Model Resources</title>
