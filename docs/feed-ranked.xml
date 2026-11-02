@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 02 Nov 2026 18:08:08 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 20:06:25 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Cursor」の拡張機能ストアに「Claude Code」の改竄版、SSHバックドアの設置を試みる／最大5,000ユーザーに影響、アンインストールだけでは不十分な場合も</title>
@@ -61,6 +61,14 @@
 <pubDate>Tue, 20 Oct 2026 05:02:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>2026年10月15日に「CVE-2026-99999」として公開されたLinuxカーネルに関する重大な脆弱性“Guest-to-Host KVM Escape”について、発見者のpwn.aiから発見にいたる概要と背景の報告があった。 — gihyo.jp / score: 95 (Linuxカーネルの重大な脆弱性と発見背景の報告)</description>
+</item>
+<item>
+<title>[90] ノジマオンラインにて約700万人分の情報流出。氏名、住所、電話番号、ログインID・パスワードなど（GAME Watch） - Yahoo!ニュース</title>
+<link>https://news.yahoo.co.jp/articles/743e16ce8d8b3f48908d0248d48f4d15c913b90e</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/articles/743e16ce8d8b3f48908d0248d48f4d15c913b90e</guid>
+<pubDate>Mon, 02 Nov 2026 14:12:40 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>写真：GAME Watch（株式会社インプレス） ノジマは、同社ECサイト「ノジマオンライン」における不正アクセスに伴う個人情報漏えいに関するお知らせを公開した。 同社は、11月1日に発生した「ノジマオンライン」の会員管理システムに対する第三者による不正アクセスによって、同サイト及び中古スマホ買取サイトに登録さ... — はてなブックマーク テクノロジー / score: 90 (約700万人分の個人情報流出という重大なセキュリティインシデント)</description>
 </item>
 <item>
 <title>[90] Shutting the Door on the XCPE Botnet</title>
@@ -543,14 +551,6 @@
 <description>Linus Torvaldsは10月18日、「Linux 7.3」のリリースをアナウンスした。 — gihyo.jp / score: 80 (Linuxカーネルの新バージョンリリース)</description>
 </item>
 <item>
-<title>[80] AWS announces TorchNeuron: Native PyTorch Support for AWS Trainium (Public Beta)</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/10/aws-announce-native-pytorch-support-trainium</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/aws-announce-native-pytorch-support-trainium</guid>
-<pubDate>Tue, 20 Oct 2026 15:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Today, AWS launched the public beta of TorchNeuron, an open source native PyTorch backend for AWS Trainium. Trainium is a portfolio of AI chips designed to deliver high performance and cost efficiency for deep learning AI training and inference workloads. TorchNeuron enables AI scientists and researchers to experiment and build models with PyTorch natively on Trainium. With TorchNeuron, developers can enable their PyTorch code on Trainium simply by switching to .to('neuron') while maintaining fu — AWS What's New / score: 80 (AWS Trainium向けのネイティブPyTorchサポート発表)</description>
-</item>
-<item>
 <title>[75] The Rise of LLMJacking: How Threat Actors Monetize Compromised Cloud and Model Resources</title>
 <link>https://cloud.google.com/blog/topics/threat-intelligence/llmjacking-monetizing-compromised-cloud-models/</link>
 <guid isPermaLink="true">https://cloud.google.com/blog/topics/threat-intelligence/llmjacking-monetizing-compromised-cloud-models/</guid>
@@ -631,6 +631,14 @@
 <description>前週に閲覧数の多かった記事を、上位10位までレポートします。 — 窓の杜 / score: 75 (Brotliの脆弱性注目など週次アクセスランキング)</description>
 </item>
 <item>
+<title>[75] Claude Platform release notes — November 2, 2026</title>
+<link>https://platform.claude.com/docs/en/release-notes/overview#november-2-2026</link>
+<guid isPermaLink="true">https://platform.claude.com/docs/en/release-notes/overview#november-2-2026</guid>
+<pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+<category>Claude リリースノート</category>
+<description>Long conversations and agent loops on the Messages API can now send smaller requests and get a lower time to first token with message threads , in beta with the message-threads-2026-08-12 beta header. The API keeps the conversation on the server, so each later request sends only the new messages. A thread expires 5 minutes after its last request and is deleted no more than 1 hour after its last use. Message threads are available on the Claude API, Claude Platform on AWS , Claude Models on Google — Claude リリースノート / score: 75 (Claudeプラットフォームのマネージドエージェント更新)</description>
+</item>
+<item>
 <title>[75] Appleがついに方針転換！Macのタッチ対応が意味するもの</title>
 <link>https://iphone-mania.jp/mac-608203/</link>
 <guid isPermaLink="true">https://iphone-mania.jp/mac-608203/</guid>
@@ -693,14 +701,6 @@
 <pubDate>Fri, 30 Oct 2026 08:24:29 +0000</pubDate>
 <category>Latent Space</category>
 <description>Mistral’s open-weight release, frontier monitoring, and the day’s AI Twitter and Reddit recaps. — Latent Space / score: 75 (コーディングエージェントの最新動向とOSS情報)</description>
-</item>
-<item>
-<title>[75] Claude Platform release notes — October 30, 2026</title>
-<link>https://platform.claude.com/docs/en/release-notes/overview#october-30-2026</link>
-<guid isPermaLink="true">https://platform.claude.com/docs/en/release-notes/overview#october-30-2026</guid>
-<pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-<category>Claude リリースノート</category>
-<description>We’ve deprecated fast mode for Claude Opus 4.8, with removal on November 30, 2026. After removal, requests to claude-opus-4-8 with speed: "fast" will return an error. To continue using fast mode, migrate to Claude Opus 5.5 . Read more in Fast mode . — Claude リリースノート / score: 75 (Claudeプラットフォームのマネージドエージェント更新)</description>
 </item>
 <item>
 <title>[75] An updated Model Spec for more capable and beneficial AI</title>
