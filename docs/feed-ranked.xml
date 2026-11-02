@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sun, 01 Nov 2026 22:05:41 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 00:17:18 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Cursor」の拡張機能ストアに「Claude Code」の改竄版、SSHバックドアの設置を試みる／最大5,000ユーザーに影響、アンインストールだけでは不十分な場合も</title>
@@ -175,18 +175,10 @@
 <description>This is a security release. Notable Changes ( CVE-2026-105481 ) http: ensure agent data guard works without I/O (James M Snell) ( CVE-2026-105482 ) dns: validate resolve inputs for null bytes (James M Snell) ( CVE-2026-106069 ) tls: reject non-canonical IP addresses (Matteo Collina) ( CVE-2026-106073 ) permission: check permission model in realpathSync (RafaelGSS) ( CVE-2026-106074 ) crypto: reset random caches across snapshots (Filip Skokan) ( CVE-2026-111497 ) src: expose BROTLI_DECODER_ERROR_ — Node.js リリース / score: 90 (Node.js LTSの重要セキュリティアップデート)</description>
 </item>
 <item>
-<title>[88] OpenAI、「GPT-6.1 Terra」を発表 ～性能とコストのバランス型、API料金は先代の半額／画面を理解してアプリを操作、文章もより自然に</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2151338.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2151338.html</guid>
-<pubDate>Mon, 26 Oct 2026 22:51:53 +0000</pubDate>
-<category>窓の杜</category>
-<description>米OpenAIは10月26日（現地時間）、新しいAIモデル「GPT-6.1 Terra」を発表した。7月に発表された「GPT-5.6 Terra」以来のアップデートで、「Terra」シリーズとしては初の「GPT-6.x」モデルとなる。 — 窓の杜 / score: 88 (OpenAIの新モデルGPT-6.1 Terra発表)</description>
-</item>
-<item>
 <title>[85] GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026</title>
 <link>https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html</guid>
-<pubDate>Sun, 01 Nov 2026 22:05:12 +0000</pubDate>
+<pubDate>Mon, 02 Nov 2026 00:16:48 +0000</pubDate>
 <category>Publickey</category>
 <description>GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、新機能「GitHub Copilot Fusion」の正式リリースを発表しました。 Copilot Fusi... — Publickey / score: 85 (GitHub Copilotの新機能正式リリースで影響が大きい)</description>
 </item>
@@ -239,14 +231,6 @@
 <description>NTTデータは10月31日、ITサービスの委託先のソフトウエア企業で第三者による不正アクセスが発生したと発表した。社債購入に特典を付与するサービスで利用者の個人情報が漏洩した可能性がある。委託先の企業が現在、不正アクセスの状況について調査している。委託先の企業名や流出した恐れがある個人情報の総数は明らかに... — はてなブックマーク テクノロジー / score: 85 (委託先を狙った不正アクセスによる個人情報漏洩の懸念)</description>
 </item>
 <item>
-<title>[85] AI学習への利用拒否をrobots.txtで一括指定へ　OpenAIやGoogleなどが対応表明</title>
-<link>https://www.itmedia.co.jp/news/article/2611/01/2000002776/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/01/2000002776/</guid>
-<pubDate>Sun, 01 Nov 2026 00:58:30 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>米OpenAI、米Google、米Microsoftは10月30日（現地時間）、Webサイト運営者がAI学習へのコンテンツ利用に関する意向を複数のAI企業にまとめて伝えられる共通の仕組みに対応する方針をそれぞれ発表した。米Anthropicも実装を進めている。この仕組みは、Anthropicの標準化担当者、ケビン・ケリー氏が同日付で標準化団体IET... — はてなブックマーク テクノロジー / score: 85 (AI学習拒否の共通仕組み策定は業界全体に大きな影響)</description>
-</item>
-<item>
 <title>[85] AI学習の可否をrobots.txtで指定 Google、MS、OpenAIらが共通仕様を27年導入</title>
 <link>https://www.watch.impress.co.jp/docs/news/2152852.html</link>
 <guid isPermaLink="true">https://www.watch.impress.co.jp/docs/news/2152852.html</guid>
@@ -269,14 +253,6 @@
 <pubDate>Sat, 31 Oct 2026 08:00:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 85 (GitHub Copilotが全ライセンスで利用可能に)</description>
-</item>
-<item>
-<title>[85] 月間70億件超のコミットを、GitHubは新しいGitアーキテクチャで支える──Copilot Fusionなど新機能も発表【GitHub Universe 2026】</title>
-<link>https://codezine.jp/article/detail/30168</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/30168</guid>
-<pubDate>Thu, 29 Oct 2026 07:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description>2026年10月28日（現地時間）、米サンフランシスコで年次イベント「GitHub Universe 2026」が開幕した。Day1の基調講演でGitHubは、複数のモデルを自動で使い分ける「Copilot Fusion」や、複数のリポジトリにまたがる作業を任せる「Copilot Projects」といった新機能、GitHub EnterpriseでのCopilot全機能の提供、そしてエージェントの大量の書き込みに耐える新しいGitアーキテクチャを示した。ステージのデモと発言を追いながら、GitHubが描く「エージェント時代のソフトウェアデリバリー」の全体像を報告する。 — CodeZine / score: 85 (大規模な開発者向けイベントでの新機能発表)</description>
 </item>
 <item>
 <title>[85] [AINews] Gemini 4 Carbon tops leaderboards, launches for cyber defenders</title>
@@ -317,14 +293,6 @@
 <pubDate>Wed, 28 Oct 2026 16:57:41 +0000</pubDate>
 <category>Node.js リリース</category>
 <description>Notable Changes This release marks the transition of Node.js 26.x into Long Term Support (LTS) with the codename 'Lithium'. It will continue to receive updates through to the end of April 2029. Other than updating metadata, such as the process.release object, to reflect that the release is LTS, no further changes from Node.js 26.12.1 are included. If you are updating from an earlier Long Term Support release (e.g. Node.js 24 or 22 or earlier) please note that since Node.js 25 the official binari — Node.js リリース / score: 85 (Node.jsのLTSメジャーバージョンリリース)</description>
-</item>
-<item>
-<title>[85] いいから休め - Black October が終わる今、セキュリティエンジニアがやるべきこと</title>
-<link>https://zenn.dev/nayuta/articles/aec9ab2e11a7b7</link>
-<guid isPermaLink="true">https://zenn.dev/nayuta/articles/aec9ab2e11a7b7</guid>
-<pubDate>Wed, 28 Oct 2026 10:14:03 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>2026年10月、Black October、情報セキュリティの世界は変わってしまった。 2026年10月、情報セキュリティの世界は完全に変わりました。今この10月は Black October （暗黒の10月）と呼ばれ始めており、セキュリティへの関心も高まっています。でも、セキュリティに関わる人はみんなこう思っています。 「確かにもう少し目を向けてほしかったけど、こんなこと…」と。 しかし、この状況はまだ始まったばかりです。 Anthropic の Deputy CISO である Jason D. Clinton は「だいたい18ヶ月の間はこの状況に耐える必要がある」という趣旨の発... — Zenn トレンド / score: 85 (セキュリティイン多発期の注意喚起と対策)</description>
 </item>
 <item>
 <title>[85] リモートデスクトップソフト「TeamViewer」に9件の脆弱性、v15.83で修正／深刻度はいずれも「High」、リモートコード実行や権限昇格のおそれ</title>
@@ -583,6 +551,14 @@
 <description>Today, AWS launched the public beta of TorchNeuron, an open source native PyTorch backend for AWS Trainium. Trainium is a portfolio of AI chips designed to deliver high performance and cost efficiency for deep learning AI training and inference workloads. TorchNeuron enables AI scientists and researchers to experiment and build models with PyTorch natively on Trainium. With TorchNeuron, developers can enable their PyTorch code on Trainium simply by switching to .to('neuron') while maintaining fu — AWS What's New / score: 80 (AWS Trainium向けのネイティブPyTorchサポート発表)</description>
 </item>
 <item>
+<title>[75] Amazon ECS の新機能 「ECS Gateway」 を試してみた | DevelopersIO</title>
+<link>https://dev.classmethod.jp/articles/try-amazon-ecs-gateway/</link>
+<guid isPermaLink="true">https://dev.classmethod.jp/articles/try-amazon-ecs-gateway/</guid>
+<pubDate>Sun, 01 Nov 2026 12:16:28 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>はじめに 2026年10月20日、Amazon ECS Gateway が発表されました。 ECS Gateway は、ECS サービスの入口となる ALB と関連リソースを ECS が管理する機能で、1台の ALB を最大25のサービスで共有できます。 今回は、東京リージョンの同じクラスターにパブリック用とプライベート用のゲートウェイを用意し、それぞれにサ... — はてなブックマーク テクノロジー / score: 75 (AWS ECSの新機能紹介で実務に役立つ情報)</description>
+</item>
+<item>
 <title>[75] いまのダークウェブでは二段階認証も無力化する「ブラウザのクローンデータ」が売買されており、その対策にはブラウザを使い分けることが有効らしい</title>
 <link>https://togetter.com/li/2765521</link>
 <guid isPermaLink="true">https://togetter.com/li/2765521</guid>
@@ -634,9 +610,9 @@
 <title>[75] 「ハッカーに身代金を支払うことなく暗号化されたファイルを復元できる」というセキュリティ企業が実際は被害者から得た高額な手数料の中から身代金を支払っていたとしてCEOが起訴される</title>
 <link>https://gigazine.net/news/20261031-monstercloud-ransomware-victims/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261031-monstercloud-ransomware-victims/</guid>
-<pubDate>Sat, 31 Oct 2026 10:08:45 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>ランサムウェアによって攻撃者にシステムを暗号化された被害者に対し、「暗号化されたファイルを復元できる」と宣伝して高額な手数料を取りつつ、実際には攻撃者に身代金を支払って復号鍵をもらいシステム復元を行っていたセキュリティ企業・MonsterCloudのCEOが起訴されました。 Eastern District of New York | Owner ... — はてなブックマーク テクノロジー / score: 75 (セキュリティ企業の不正行為とCEO起訴の衝撃的事件)</description>
+<pubDate>Sat, 31 Oct 2026 10:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>ランサムウェアによって攻撃者にシステムを暗号化された被害者に対し、「暗号化されたファイルを復元できる」と宣伝して高額な手数料を取りつつ、実際には攻撃者に身代金を支払って復号鍵をもらいシステム復元を行っていたセキュリティ企業・MonsterCloudのCEOが起訴されました。 続きを読む... — GIGAZINE / score: 75 (セキュリティ企業の不正行為とCEO起訴の衝撃的事件)</description>
 </item>
 <item>
 <title>[75] Daybreak Red from OpenAI now available to eligible customers on Amazon Bedrock in AWS GovCloud (US-East)</title>
@@ -805,6 +781,30 @@
 <pubDate>Sun, 25 Oct 2026 16:57:52 +0000</pubDate>
 <category>CPython リリース</category>
 <description>Python 3.15.2 — CPython リリース / score: 75 (Python 3.15.2のリリース情報)</description>
+</item>
+<item>
+<title>[75] [AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed</title>
+<link>https://latent.space/p/ainews-kimi-31/</link>
+<guid isPermaLink="true">https://latent.space/p/ainews-kimi-31/</guid>
+<pubDate>Sat, 24 Oct 2026 07:18:29 +0000</pubDate>
+<category>Latent Space</category>
+<description>2 months ago we covered Z.ai CEO Prof Jie Tang’s prediction that we’d get a Fable-class open weights model by year end . 2 weeks ago Meta achieved a Fable-class model in closed source , but, with 2.5 months left to go, we finally got it - a 2.8T open weights model beating Fable 5.1, not just Fable 5, at that: View post on X ↗ with even better efficiency: View post on X ↗ You can tell Kimi is proud of their latest model by how fancy their landing page is: As usual we don’t get much research detai — Latent Space / score: 75 (オープンAIモデルの性能向上とリリース)</description>
+</item>
+<item>
+<title>[75] Securing our frontier model training environment</title>
+<link>https://openai.com/index/securing-our-frontier-model-training-environment</link>
+<guid isPermaLink="true">https://openai.com/index/securing-our-frontier-model-training-environment</guid>
+<pubDate>Fri, 23 Oct 2026 10:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming. — OpenAI News / score: 75 (AI最先端モデルのセキュリティ強化に関する解説。)</description>
+</item>
+<item>
+<title>[75] Build more responsive apps with the Decisions API</title>
+<link>https://openai.com/index/decisions-api</link>
+<guid isPermaLink="true">https://openai.com/index/decisions-api</guid>
+<pubDate>Thu, 22 Oct 2026 19:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>Fast, focused, low-cost decisions for any application. — OpenAI News / score: 75 (OpenAIによる新しいAPIの提供)</description>
 </item>
 </channel>
 </rss>
