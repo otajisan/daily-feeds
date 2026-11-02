@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 02 Nov 2026 14:07:44 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 16:06:56 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Cursor」の拡張機能ストアに「Claude Code」の改竄版、SSHバックドアの設置を試みる／最大5,000ユーザーに影響、アンインストールだけでは不十分な場合も</title>
@@ -68,7 +68,7 @@
 <guid isPermaLink="true">https://cloud.google.com/blog/topics/threat-intelligence/shutting-the-door-on-the-xcpe-botnet/</guid>
 <pubDate>Mon, 02 Nov 2026 14:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
-<description>Introduction Last week, Google and industry partners dismantled the XCPE backdoor which enrolled more than 1.3 million set-top boxes into a botnet. We assess with high confidence that the backdoor and botnet were intentionally developed, deployed, and operated for financial gain by Videostrong Technology Co., an Android Original Equipment Manufacturer (OEM) and Original Device Manufacturer (ODM). Videostrong monetized the backdoor by selling access to criminal affiliates and loading those affili — Google Cloud Blog / score: 90 (大手IT企業等による大規模ボットネット解体のセキュリティ成果)</description>
+<description>Introduction Last week, Google and industry partners dismantled the XCPE backdoor which enrolled more than 1.3 million set-top boxes into a botnet. We assess with high confidence that the backdoor and botnet were intentionally developed, deployed, and operated for financial gain by Videostrong Technology Co., an Android Original Equipment Manufacturer (OEM) and Original Design Manufacturer (ODM). Videostrong monetized the backdoor by selling access to criminal affiliates and loading those affili — Google Cloud Blog / score: 90 (大手IT企業等による大規模ボットネット解体のセキュリティ成果)</description>
 </item>
 <item>
 <title>[90] Cursor公式マーケットプレイスの「Claude Code」にSSHバックドアが発見される</title>
@@ -178,7 +178,7 @@
 <title>[85] GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026</title>
 <link>https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html</guid>
-<pubDate>Mon, 02 Nov 2026 14:07:18 +0000</pubDate>
+<pubDate>Mon, 02 Nov 2026 14:36:38 +0000</pubDate>
 <category>Publickey</category>
 <description>GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、新機能「GitHub Copilot Fusion」の正式リリースを発表しました。 Copilot Fusi... — Publickey / score: 85 (GitHub Copilotの新機能正式リリースで影響が大きい)</description>
 </item>
@@ -205,14 +205,6 @@
 <pubDate>Mon, 02 Nov 2026 06:45:23 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>Cloudflare、耐量子時代のウェブに向けたパブリック認証局の設立を発表 コネクティビティクラウドCloudflareのコネクティビティクラウドは、ネットワーキング、セキュリティ、パフォーマンスのサービスを60以上提供します。 — はてなブックマーク テクノロジー / score: 85 (Cloudflareによる耐量子時代のパブリック認証局設立の発表)</description>
-</item>
-<item>
-<title>[85] アットコスメ、会員約300万人分の情報漏えい　不正アクセスで</title>
-<link>https://www.itmedia.co.jp/news/article/2611/02/2000002795/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/02/2000002795/</guid>
-<pubDate>Mon, 02 Nov 2026 06:34:08 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>化粧品総合サイト「@cosme」を運営するアイスタイルは11月2日、@cosmeへの第三者による不正アクセスにより、「@cosme共通ID」に登録された会員情報の一部・約300万人分が漏えいしたと発表した。 漏えいした情報は、名前（漢字・カナ）、郵便番号、住所、電話番号、メールアドレス、ユーザーID（自動発番）、性別、生年月... — はてなブックマーク テクノロジー / score: 85 (アットコスメの約300万人分情報漏えいインシデント)</description>
 </item>
 <item>
 <title>[85] 「アララ」7700万件のメアド流出</title>
@@ -431,14 +423,6 @@
 <description>Three certified security releases for 3.15, 3.14 and 3.13. — Python Insider / score: 85 (Pythonの複数バージョンにおける重要なセキュリティリリース)</description>
 </item>
 <item>
-<title>[85] AWS LambdaでNext.jsやHonoなどNode.jsフレームワークとアプリをそのままデプロイ、実行できる「AWS Lambda Web Functions」発表</title>
-<link>https://www.publickey1.jp/blog/26/aws_lambdanextjshononodejsaws_lambda_web_functions.html</link>
-<guid isPermaLink="true">https://www.publickey1.jp/blog/26/aws_lambdanextjshononodejsaws_lambda_web_functions.html</guid>
-<pubDate>Mon, 19 Oct 2026 15:49:22 +0000</pubDate>
-<category>Publickey</category>
-<description>Amazon Web Services（AWS）は、サーバレス基盤のAWS Lambda上でNext.jsやExpress、Hono、FastifyなどのNode.js用フレームワークとそのアプリケーションをそのままデプロイして実行できる新... — Publickey / score: 85 (AWS Lambdaの新機能発表で実用性が高く重要)</description>
-</item>
-<item>
 <title>[80] ノジマ 700万人分の個人情報流出</title>
 <link>https://news.yahoo.co.jp/pickup/6601104?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6601104?source=rss</guid>
@@ -575,20 +559,20 @@
 <description>Today, AWS launched the public beta of TorchNeuron, an open source native PyTorch backend for AWS Trainium. Trainium is a portfolio of AI chips designed to deliver high performance and cost efficiency for deep learning AI training and inference workloads. TorchNeuron enables AI scientists and researchers to experiment and build models with PyTorch natively on Trainium. With TorchNeuron, developers can enable their PyTorch code on Trainium simply by switching to .to('neuron') while maintaining fu — AWS What's New / score: 80 (AWS Trainium向けのネイティブPyTorchサポート発表)</description>
 </item>
 <item>
+<title>[75] The Rise of LLMJacking: How Threat Actors Monetize Compromised Cloud and Model Resources</title>
+<link>https://cloud.google.com/blog/topics/threat-intelligence/llmjacking-monetizing-compromised-cloud-models/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/threat-intelligence/llmjacking-monetizing-compromised-cloud-models/</guid>
+<pubDate>Mon, 02 Nov 2026 14:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Written by: Christopher Romano, Codi Starks, Garrett Mahoney, John Wolfram, Josh Murchie, K Singh, Mathew Potaczek, Mike Lombardi, Rik Dolfing Introduction Mandiant responded to multiple incidents in 2026 in which threat actors hijacked enterprise access to Large Language Models (LLMs), a tactic known as "LLMJacking." Spanning a variety of cloud and LLM providers, these intrusions impacted organizations in North America, South America, and Asia Pacific across the financial services, retail, tech — Google Cloud Blog / score: 75 (クラウドとAIモデルを狙う脅威LLMJackingの解説)</description>
+</item>
+<item>
 <title>[75] 【重要】当社サーバーへの不正アクセスに関するお詫びとお知らせ（SEGA FAVE CORPORATION announces that certain of its servers were accessed without authorization by a third party.） | ニュース | 株式会社セガ フェイブ</title>
 <link>https://www.segafave.co.jp/news/261102_1/</link>
 <guid isPermaLink="true">https://www.segafave.co.jp/news/261102_1/</guid>
 <pubDate>Mon, 02 Nov 2026 11:35:58 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>【重要】当社サーバーへの不正アクセスに関するお詫びとお知らせ（SEGA FAVE CORPORATION announces that certain of its servers were accessed without authorization by a third party.） 株式会社セガ フェイブ（本社：東京都品川区、以下、当社）は当社のサーバーの一部において、第三者による不正アクセスを受けた... — はてなブックマーク テクノロジー / score: 75 (大手企業サーバーへの不正アクセスによる重要セキュリティインシデント)</description>
-</item>
-<item>
-<title>[75] BTS所属のHYBE ハッキング被害</title>
-<link>https://news.yahoo.co.jp/pickup/6601078?source=rss</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6601078?source=rss</guid>
-<pubDate>Mon, 02 Nov 2026 08:58:56 +0000</pubDate>
-<category>Yahoo!ニュース IT</category>
-<description> — Yahoo!ニュース IT / score: 75 (大手エンタメ企業のハッキング被害に関するセキュリティ事故)</description>
 </item>
 <item>
 <title>[75] GMO会見　熊谷社長、涙で「情報守れず」と痛恨の表情　「みんなを笑顔にしてから死ぬ」</title>
@@ -805,6 +789,22 @@
 <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster. — OpenAI News / score: 75 (OpenAIを用いたセキュリティ脆弱性調査の事例)</description>
+</item>
+<item>
+<title>[75] GPT-6.1 Terra</title>
+<link>https://simonwillison.net/2026/Oct/26/gpt-61-terra/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Oct/26/gpt-61-terra/</guid>
+<pubDate>Mon, 26 Oct 2026 23:53:07 +0000</pubDate>
+<category>Simon Willison</category>
+<description>GPT-6.1 Terra It's always interesting to note which aspects of a new model are emphasized in the release announcement. In the case of GPT-6.1 Terra, OpenAI went with visual reasoning and computer use: We’re introducing GPT-6.1 Terra , a fast, efficient model that combines detailed visual reasoning and precise computer use alongside clearer, more natural writing. A significant step up from GPT‑5.6 Terra, it excels at the communication and computer-based tasks that fill the workday, from drafting  — Simon Willison / score: 75 (GPT-6.1 Terraの機能とビジュアル推論の解説)</description>
+</item>
+<item>
+<title>[75] Greptile takes bug detection beyond code review with GPT-6 Astra</title>
+<link>https://openai.com/index/greptile-code-review-codex-astra</link>
+<guid isPermaLink="true">https://openai.com/index/greptile-code-review-codex-astra</guid>
+<pubDate>Mon, 26 Oct 2026 22:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework. — OpenAI News / score: 75 (GPT-6 Astraを活用したバグ検出の事例)</description>
 </item>
 </channel>
 </rss>
