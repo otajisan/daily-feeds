@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 02 Nov 2026 04:08:22 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 06:15:00 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] アララ、約7700万件のメールアドレス流出</title>
@@ -69,6 +69,14 @@
 <pubDate>Tue, 20 Oct 2026 05:02:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>2026年10月15日に「CVE-2026-99999」として公開されたLinuxカーネルに関する重大な脆弱性“Guest-to-Host KVM Escape”について、発見者のpwn.aiから発見にいたる概要と背景の報告があった。 — gihyo.jp / score: 95 (Linuxカーネルの重大な脆弱性と発見背景の報告)</description>
+</item>
+<item>
+<title>[90] メールアドレス7700万件漏えい　不正アクセスで　ペイクラウド（時事通信） - Yahoo!ニュース</title>
+<link>https://news.yahoo.co.jp/articles/9220b057ff09b68b49e8d653f775038c28bca634</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/articles/9220b057ff09b68b49e8d653f775038c28bca634</guid>
+<pubDate>Mon, 02 Nov 2026 05:26:53 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>ペイクラウドホールディングスが自社サイトに掲載した不正アクセスについてのお知らせ ペイクラウドホールディングスは2日、メール配信サービスを手掛ける子会社が外部から不正アクセスを受け、メールアドレス約7700万件が漏えいしたと発表した。 【ひと目でわかる】ランサムウエアに感染した企業の身代金支払い状況 顧... — はてなブックマーク テクノロジー / score: 90 (7700万件という大規模なメールアドレス漏えい事故)</description>
 </item>
 <item>
 <title>[90] 楽天証券や野村證券などで情報漏えいか　NTTデータ委託先への不正アクセスで</title>
@@ -175,12 +183,36 @@
 <description>This is a security release. Notable Changes ( CVE-2026-105481 ) http: ensure agent data guard works without I/O (James M Snell) ( CVE-2026-105482 ) dns: validate resolve inputs for null bytes (James M Snell) ( CVE-2026-106069 ) tls: reject non-canonical IP addresses (Matteo Collina) ( CVE-2026-106073 ) permission: check permission model in realpathSync (RafaelGSS) ( CVE-2026-106074 ) crypto: reset random caches across snapshots (Filip Skokan) ( CVE-2026-111497 ) src: expose BROTLI_DECODER_ERROR_ — Node.js リリース / score: 90 (Node.js LTSの重要セキュリティアップデート)</description>
 </item>
 <item>
+<title>[88] 「PHP2Shell」「Brotli」「eMudhra」の3問題、Microsoftが“今すぐパッチを”／自動更新で対応できるものと、手動対応が必要なものあり</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2152996.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2152996.html</guid>
+<pubDate>Mon, 02 Nov 2026 04:06:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Microsoftは10月30日（現地時間、以下同）、この2週間ほどで相次いで明らかになった3つのセキュリティ問題について、公式ブログ「MSRC」で対応を呼びかけた。いずれもMicrosoft製品に由来する脆弱性ではないが、Microsoftのサービスやユーザーの「Azure」環境で動くソフトウェアにも組み込まれていることが多いため、Microsoftとユーザーの双方で対応が必要だとしている。 — 窓の杜 / score: 88 (Microsoftが注意を呼びかける重要脆弱性と対応要請)</description>
+</item>
+<item>
 <title>[85] GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026</title>
 <link>https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html</guid>
-<pubDate>Mon, 02 Nov 2026 04:07:37 +0000</pubDate>
+<pubDate>Mon, 02 Nov 2026 06:13:17 +0000</pubDate>
 <category>Publickey</category>
 <description>GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、新機能「GitHub Copilot Fusion」の正式リリースを発表しました。 Copilot Fusi... — Publickey / score: 85 (GitHub Copilotの新機能正式リリースで影響が大きい)</description>
+</item>
+<item>
+<title>[85] 「アララ」7700万件のメアド流出</title>
+<link>https://news.yahoo.co.jp/pickup/6601057?source=rss</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6601057?source=rss</guid>
+<pubDate>Mon, 02 Nov 2026 04:54:46 +0000</pubDate>
+<category>Yahoo!ニュース IT</category>
+<description> — Yahoo!ニュース IT / score: 85 (大規模な個人情報流出インシデントに関する報道)</description>
+</item>
+<item>
+<title>[85] ニコニコレンタカー、免許証画像の事前登録を廃止　保存済み画像も全削除　サイバー攻撃の増加受け</title>
+<link>https://www.itmedia.co.jp/news/article/2611/02/2000002786/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/02/2000002786/</guid>
+<pubDate>Mon, 02 Nov 2026 03:37:23 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>レンタカーチェーン「ニコニコレンタカー」を展開するレンタス（横浜市港北区）は10月27日、公式アプリ「ニコパス」で提供していた運転免許証画像の事前登録機能を廃止すると発表した。今後はアプリで予約した場合も、利用当日に店舗の受付で免許証を提示し、スタッフの確認を受ける必要がある。 レンタスは、サイバー攻... — はてなブックマーク テクノロジー / score: 85 (サイバー攻撃を受けた企業によるセキュリティ対策)</description>
 </item>
 <item>
 <title>[85] 「AI学習への使用拒否をウェブサイト側から明示できる仕組み」にGoogle・OpenAI・Microsoftが対応表明、各社が同じ仕組みを採用し対応の手間が緩和される予定</title>
@@ -207,14 +239,6 @@
 <description>AI エージェントのトークン代を節約するには、どうすればよいでしょうか。 1 つの方法は、プロンプトキャッシュを上手に使うことです。プロンプトキャッシュは、前の問い合わせと先頭が同じ部分を提供元のサーバーに保存しておき、次から安く読む仕組みです。Claude Sonnet ... — Qiita 人気記事 / score: 85 (Claude Codeでのcompact利用とトークン消費の実測検証)</description>
 </item>
 <item>
-<title>[85] 【独自】GMO攻撃、北朝鮮ハッカーか　複数の痕跡、政府に報告</title>
-<link>https://www.47news.jp/15170379.html</link>
-<guid isPermaLink="true">https://www.47news.jp/15170379.html</guid>
-<pubDate>Sun, 01 Nov 2026 14:23:54 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>GMOインターネットグループが、一連の不正アクセスの攻撃側に北朝鮮系のハッカー集団がいる可能性が高いと分析していることが1日、関係者への取材で分かった。マルウエア（悪意あるソフト）の特徴など攻撃者の複数の痕跡から判断したとみられる。GMOは政府側に報告したもようで、真相解明が今後の焦点だ。複数の国をまた... — はてなブックマーク テクノロジー / score: 85 (大企業へのサイバー攻撃と国家関与の重大なニュース)</description>
-</item>
-<item>
 <title>[85] GMO系4.5万人分漏えい　設定ミスで9年間外部から取得可能に | 毎日新聞</title>
 <link>https://mainichi.jp/articles/20261101/k00/00m/020/365000c</link>
 <guid isPermaLink="true">https://mainichi.jp/articles/20261101/k00/00m/020/365000c</guid>
@@ -229,14 +253,6 @@
 <pubDate>Sun, 01 Nov 2026 12:18:46 +0000</pubDate>
 <category>Yahoo!ニュース IT</category>
 <description> — Yahoo!ニュース IT / score: 85 (GMO攻撃に関する北朝鮮系ハッカー関与の速報)</description>
-</item>
-<item>
-<title>[85] 【速報】GMO不正アクセス、北朝鮮関与か</title>
-<link>https://www.47news.jp/15170287.html</link>
-<guid isPermaLink="true">https://www.47news.jp/15170287.html</guid>
-<pubDate>Sun, 01 Nov 2026 11:43:09 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>【速報】GMO不正アクセス、北朝鮮関与か GMOインターネットグループが、一連の不正アクセスの攻撃側に北朝鮮系のハッカー集団がいる可能性が高いと分析していることが1日、関係者への取材で分かった。 — はてなブックマーク テクノロジー / score: 85 (GMO不正アクセスへの北朝鮮系ハッカー関与の報道)</description>
 </item>
 <item>
 <title>[85] GMO子会社 9年外部閲覧可の状態</title>
@@ -333,14 +349,6 @@
 <pubDate>Tue, 27 Oct 2026 04:44:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>OpenAIは2026年10月26日、パフォーマンスとコストの両立を重視したAIモデルの新バージョン「GPT-6.1 Terra」を発表、提供を開始した。 — gihyo.jp / score: 85 (OpenAIの新AIモデル発表とAPIコスト半額化)</description>
-</item>
-<item>
-<title>[85] Microsoft、Windows 10/11に定例外パッチ ～「eMudhra」の証明書問題に対処か／証明書信頼リスト（CTL）を自動で更新できない環境が対象</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2151384.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2151384.html</guid>
-<pubDate>Tue, 27 Oct 2026 02:12:06 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Microsoftは10月26日（現地時間）、Windows 10/11向けの累積更新プログラムを定例外（OOB）でリリースした。インドの認証局「eMudhra」で発生した中間CA証明書の侵害に対処するパッチのようだ。 — 窓の杜 / score: 85 (Windowsの緊急証明書問題パッチ)</description>
 </item>
 <item>
 <title>[85] AWSとGoogle Cloudが「PyTorch」のAWS Trainium、Google Cloud TPU対応版をオープンソースで公開。NVIDIAからの移行に挑む</title>
@@ -445,6 +453,14 @@
 <pubDate>Mon, 19 Oct 2026 15:49:22 +0000</pubDate>
 <category>Publickey</category>
 <description>Amazon Web Services（AWS）は、サーバレス基盤のAWS Lambda上でNext.jsやExpress、Hono、FastifyなどのNode.js用フレームワークとそのアプリケーションをそのままデプロイして実行できる新... — Publickey / score: 85 (AWS Lambdaの新機能発表で実用性が高く重要)</description>
+</item>
+<item>
+<title>[80] 盗んだ個人情報をAIに分析させて被害者の「金銭的価値」を格付けするマルウェアが発見される</title>
+<link>https://gigazine.net/news/20261102-ai-model-driven-victim-prioritization/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261102-ai-model-driven-victim-prioritization/</guid>
+<pubDate>Mon, 02 Nov 2026 05:40:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>セキュリティ企業Ciscoの脅威分析部門であるCisco Talosが、パスワードやクレジットカード情報などを盗み出した後にAIを使って被害者の金銭的な価値を評価するマルウェア「VOLTA-AUTODOXER」を発見したと報告しました。VOLTAは盗んだ情報をAIに分析させることで攻撃者が優先的に狙うべき被害者を判断できるように設計されているとのことです。 続きを読む... — GIGAZINE / score: 80 (AIを悪用した新型マルウェアの発見と脅威分析)</description>
 </item>
 <item>
 <title>[80] Cloudflareの「人間であることを確認」ページを偽装してコマンドを実行させる攻撃が確認される</title>
@@ -559,6 +575,14 @@
 <description>Today, AWS launched the public beta of TorchNeuron, an open source native PyTorch backend for AWS Trainium. Trainium is a portfolio of AI chips designed to deliver high performance and cost efficiency for deep learning AI training and inference workloads. TorchNeuron enables AI scientists and researchers to experiment and build models with PyTorch natively on Trainium. With TorchNeuron, developers can enable their PyTorch code on Trainium simply by switching to .to('neuron') while maintaining fu — AWS What's New / score: 80 (AWS Trainium向けのネイティブPyTorchサポート発表)</description>
 </item>
 <item>
+<title>[75] 仮想通貨取引所のBinanceが盗まれた9900億円相当の仮想通貨の90％を既に補填済みと発表</title>
+<link>https://gigazine.net/news/20261102-binance-replenished/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261102-binance-replenished/</guid>
+<pubDate>Mon, 02 Nov 2026 05:15:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>世界最大級の仮想通貨取引所であるBinanceは2026年10月30日、攻撃者がサービスコンテナにアクセスして、総額約63億ドル(約9900億円)が不正に出金された可能性があると明かしました。Binanceは10月31日には「資金の90％が既に補充されており、残りの10％についても補塡(ほてん)する予定」と述べ、一時停止されていた出金も再開していることを発表しています。 続きを読む... — GIGAZINE / score: 75 (大規模な仮想通貨流出事件と迅速な補填対応のニュース)</description>
+</item>
+<item>
 <title>[75] OpenAIのAIエージェント、人類から監視されないようにがんばる。そのためには嘘もつく</title>
 <link>https://www.gizmodo.jp/article/2611-openai-ai-agent-deceives-monitoring-system/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/2611-openai-ai-agent-deceives-monitoring-system/</guid>
@@ -570,9 +594,9 @@
 <title>[75] 指紋認証＆暗号化対応のUSBメモリを分解したら中身は暗号化されていない普通のSDカードだったことが判明</title>
 <link>https://gigazine.net/news/20261102-lenovo-fingerprint-usb-not-encrypted/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261102-lenovo-fingerprint-usb-not-encrypted/</guid>
-<pubDate>Mon, 02 Nov 2026 03:30:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>指紋認証と強力な暗号化機能を備えるとして販売されていたLenovoのUSBメモリをセキュリティ研究者が分解したところ、内部のSDカードにデータが暗号化されずに保存されていたことが判明しました。 続きを読む... — GIGAZINE / score: 75 (暗号化USBメモリの実態が非暗号化SDと判明)</description>
+<pubDate>Mon, 02 Nov 2026 03:36:35 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>指紋認証と強力な暗号化機能を備えるとして販売されていたLenovoのUSBメモリをセキュリティ研究者が分解したところ、内部のSDカードにデータが暗号化されずに保存されていたことが判明しました。 breaking_encrypted_USB_drives_with_TTD/Breaking_Encrypted_USB_Drives_v2.pdf at main · xusheng6/breaking_encrypted_U... — はてなブックマーク テクノロジー / score: 75 (暗号化USBメモリの実態が非暗号化SDと判明)</description>
 </item>
 <item>
 <title>[75] Googleの圧縮形式「Brotli」の脆弱性に注目集まる、Web関連に幅広く影響 ～窓の杜アクセスランキング［2026/10/26～2026/11/1]【記事アクセスランキング】</title>
@@ -631,7 +655,7 @@
 <description>Appleは米国現地時間10月28日、初めてタッチ操作に対応したMacBook Proを発表しました。これまでAppleはタッチ対応のiPadと非タッチ対応のMacを明確に区別してきましたが、ここに来て両者の違いが一気に […] — iPhone Mania / score: 75 (Apple製PCのタッチ対応という大きな方針転換)</description>
 </item>
 <item>
-<title>[75] AIに証明を書かせてセキュアに開発する言語 Tauto をリリースしました！</title>
+<title>[75] AIに証明を書かせてセキュアに開発できる言語 Tauto をリリースしました！</title>
 <link>https://qiita.com/ryo33/items/3a1a9d1ba2b289b23244?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
 <guid isPermaLink="true">https://qiita.com/ryo33/items/3a1a9d1ba2b289b23244?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
 <pubDate>Sun, 01 Nov 2026 08:06:32 +0000</pubDate>
@@ -781,30 +805,6 @@
 <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster. — OpenAI News / score: 75 (OpenAIを用いたセキュリティ脆弱性調査の事例)</description>
-</item>
-<item>
-<title>[75] GPT-6.1 Terra</title>
-<link>https://simonwillison.net/2026/Oct/26/gpt-61-terra/</link>
-<guid isPermaLink="true">https://simonwillison.net/2026/Oct/26/gpt-61-terra/</guid>
-<pubDate>Mon, 26 Oct 2026 23:53:07 +0000</pubDate>
-<category>Simon Willison</category>
-<description>GPT-6.1 Terra It's always interesting to note which aspects of a new model are emphasized in the release announcement. In the case of GPT-6.1 Terra, OpenAI went with visual reasoning and computer use: We’re introducing GPT-6.1 Terra , a fast, efficient model that combines detailed visual reasoning and precise computer use alongside clearer, more natural writing. A significant step up from GPT‑5.6 Terra, it excels at the communication and computer-based tasks that fill the workday, from drafting  — Simon Willison / score: 75 (GPT-6.1 Terraの機能とビジュアル推論の解説)</description>
-</item>
-<item>
-<title>[75] Greptile takes bug detection beyond code review with GPT-6 Astra</title>
-<link>https://openai.com/index/greptile-code-review-codex-astra</link>
-<guid isPermaLink="true">https://openai.com/index/greptile-code-review-codex-astra</guid>
-<pubDate>Mon, 26 Oct 2026 22:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework. — OpenAI News / score: 75 (GPT-6 Astraを活用したバグ検出の事例)</description>
-</item>
-<item>
-<title>[75] Moonshot AI、最高性能のオープンウェイトMoEモデル「Kimi K3.1 Pro」を発表 ―2～3倍高速な「Kimi K3.1 Pro Highspeed」も提供開始</title>
-<link>https://gihyo.jp/article/2026/10/kimi-k3-1-pro?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/10/kimi-k3-1-pro?utm_source=feed</guid>
-<pubDate>Mon, 26 Oct 2026 05:19:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>中国Moonshot AIは2026年10月23日、マルチモーダルMoEモデルの最新バージョン「Kimi K3.1 Pro」および高レスポンスモデル「Kimi K3.1 Pro Highspeed」を発表した。 — gihyo.jp / score: 75 (Moonshot AIによる高性能オープンウェイトMoEモデル発表)</description>
 </item>
 </channel>
 </rss>
