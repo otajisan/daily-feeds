@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 02 Nov 2026 00:17:18 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 02:09:11 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Cursor」の拡張機能ストアに「Claude Code」の改竄版、SSHバックドアの設置を試みる／最大5,000ユーザーに影響、アンインストールだけでは不十分な場合も</title>
@@ -69,14 +69,6 @@
 <pubDate>Sat, 31 Oct 2026 23:15:22 +0000</pubDate>
 <category>Simon Willison</category>
 <description>How We Took Over ChatGPT Accounts Parameter Labs describe an exploit they found against ChatGPT's implementation of the artifacts pattern (OpenAI used to call this "Canvas" but it looks like the latest revision is called HTML previews ), where interactive custom HTML apps are displayed in a sandboxed iframe. It's important that HTML in these stays tightly sandboxed to avoid untrusted code interacting with OpenAI APIs and accessing private data. Parameter found quite a complex attack chain. OpenA — Simon Willison / score: 90 (ChatGPTアカウント乗っ取り脆弱性の解説)</description>
-</item>
-<item>
-<title>[90] WordPressの問い合わせフォーム用プラグイン Contact Form 7に認証不要の任意ファイルアップロードの脆弱性、6.2.4で修正 最新6.2.4.1への更新を推奨|セキュリティニュースのセキュリティ対策Lab</title>
-<link>https://rocket-boys.co.jp/security-measures-lab/contact_form_7_624_security_update_20261030/</link>
-<guid isPermaLink="true">https://rocket-boys.co.jp/security-measures-lab/contact_form_7_624_security_update_20261030/</guid>
-<pubDate>Fri, 30 Oct 2026 22:48:42 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>WordPressの問い合わせフォーム用プラグイン「Contact Form 7」の開発元は2026年10月29日、セキュリティ修正を含むバージョン6.2.4を公開しました。6.2から6.2.3までのバージョンには、認証していない第三者が本来拒否されるファイルをアップロードし、送信後もサーバー上に残せる問題があります。開発元は全利用者に更... — はてなブックマーク テクノロジー / score: 90 (重要プラグインの緊急な脆弱性修正)</description>
 </item>
 <item>
 <title>[90] 「WordPress 7.1.4」が公開、リモートコード実行や多数のXSSを修正／「eMudhra」問題を受けたルート証明書の更新も、速やかなアップデートを</title>
@@ -178,7 +170,7 @@
 <title>[85] GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026</title>
 <link>https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html</guid>
-<pubDate>Mon, 02 Nov 2026 00:16:48 +0000</pubDate>
+<pubDate>Mon, 02 Nov 2026 02:08:38 +0000</pubDate>
 <category>Publickey</category>
 <description>GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、新機能「GitHub Copilot Fusion」の正式リリースを発表しました。 Copilot Fusi... — Publickey / score: 85 (GitHub Copilotの新機能正式リリースで影響が大きい)</description>
 </item>
@@ -221,14 +213,6 @@
 <pubDate>Sun, 01 Nov 2026 11:01:18 +0000</pubDate>
 <category>Yahoo!ニュース IT</category>
 <description> — Yahoo!ニュース IT / score: 85 (企業の重大なセキュリティインシデントと外部流出問題)</description>
-</item>
-<item>
-<title>[85] NTTデータ委託先に不正アクセス　社債向けサービス、楽天証券など利用 - 日本経済新聞</title>
-<link>https://www.nikkei.com/article/DGXZQOUC010BF0R01C26A1000000/</link>
-<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUC010BF0R01C26A1000000/</guid>
-<pubDate>Sun, 01 Nov 2026 03:35:39 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>NTTデータは10月31日、ITサービスの委託先のソフトウエア企業で第三者による不正アクセスが発生したと発表した。社債購入に特典を付与するサービスで利用者の個人情報が漏洩した可能性がある。委託先の企業が現在、不正アクセスの状況について調査している。委託先の企業名や流出した恐れがある個人情報の総数は明らかに... — はてなブックマーク テクノロジー / score: 85 (委託先を狙った不正アクセスによる個人情報漏洩の懸念)</description>
 </item>
 <item>
 <title>[85] AI学習の可否をrobots.txtで指定 Google、MS、OpenAIらが共通仕様を27年導入</title>
@@ -551,6 +535,14 @@
 <description>Today, AWS launched the public beta of TorchNeuron, an open source native PyTorch backend for AWS Trainium. Trainium is a portfolio of AI chips designed to deliver high performance and cost efficiency for deep learning AI training and inference workloads. TorchNeuron enables AI scientists and researchers to experiment and build models with PyTorch natively on Trainium. With TorchNeuron, developers can enable their PyTorch code on Trainium simply by switching to .to('neuron') while maintaining fu — AWS What's New / score: 80 (AWS Trainium向けのネイティブPyTorchサポート発表)</description>
 </item>
 <item>
+<title>[75] GMO熊谷社長、きょう記者会見　不正アクセス対策なぜ後手に - 日本経済新聞</title>
+<link>https://www.nikkei.com/article/DGXZQOUC010M10R01C26A1000000/</link>
+<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUC010M10R01C26A1000000/</guid>
+<pubDate>Sun, 01 Nov 2026 21:49:13 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>GMOインターネットグループの熊谷正寿会長兼社長は2日午後、外国為替証拠金取引（FX）の自動売買に使われるサービスへの不正アクセス問題を巡り都内で記者会見を開く。一連の経緯や対応などを説明する見通しだ。4つのポイントで読み解く。・不正アクセス被害の現状、どのように対応？・2024年に脆弱性を認識、対策は十分... — はてなブックマーク テクノロジー / score: 75 (大手企業の不正アクセス問題とセキュリティ対策)</description>
+</item>
+<item>
 <title>[75] Amazon ECS の新機能 「ECS Gateway」 を試してみた | DevelopersIO</title>
 <link>https://dev.classmethod.jp/articles/try-amazon-ecs-gateway/</link>
 <guid isPermaLink="true">https://dev.classmethod.jp/articles/try-amazon-ecs-gateway/</guid>
@@ -805,6 +797,14 @@
 <pubDate>Thu, 22 Oct 2026 19:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>Fast, focused, low-cost decisions for any application. — OpenAI News / score: 75 (OpenAIによる新しいAPIの提供)</description>
+</item>
+<item>
+<title>[75] DuckDB 2.0.0リリース、サーバー機能を改善し非同期I/Oを導入</title>
+<link>https://gihyo.jp/article/2026/10/duckdb-2.0.0?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/10/duckdb-2.0.0?utm_source=feed</guid>
+<pubDate>Thu, 22 Oct 2026 02:44:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>DuckDBの開発チームは2026年10月21日、分析向けデータベースDuckDBのバージョン2.0.0をリリースした。 — gihyo.jp / score: 75 (DuckDB 2.0.0のメジャーリリース)</description>
 </item>
 </channel>
 </rss>
