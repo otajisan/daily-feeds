@@ -4,8 +4,16 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 02 Nov 2026 22:08:04 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 00:14:56 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>[95] パスワードを盗む必要すらなし。Linuxの脆弱性が発見される</title>
+<link>https://www.gizmodo.jp/article/2611-linux-kernel-vulnerability-multipath-tcp/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-linux-kernel-vulnerability-multipath-tcp/</guid>
+<pubDate>Mon, 02 Nov 2026 23:00:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>AnthropicのAIがLinuxカーネルの深刻な脆弱性を発見し、ログインなしでの管理者操作を実証しました。最高レベルの危険度と評価されたこの問題の詳細と、サーバー管理者が今すぐ確認すべき修正版へのアップデート情報について解説します。 — ギズモード・ジャパン / score: 95 (Linuxカーネルの深刻な脆弱性の発見)</description>
+</item>
 <item>
 <title>[95] 「Cursor」の拡張機能ストアに「Claude Code」の改竄版、SSHバックドアの設置を試みる／最大5,000ユーザーに影響、アンインストールだけでは不十分な場合も</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2152916.html</link>
@@ -85,6 +93,14 @@
 <pubDate>Mon, 02 Nov 2026 12:55:14 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>AI搭載コードエディター「Cursor」の公式拡張機能マーケットプレイスで配布されていた「Claude Code」の一部バージョンにPCへの不正アクセスを可能にするSSHバックドアが仕込まれていた問題について、セキュリティ企業のPhorionが2026年10月30日に詳細な分析結果を公開しました。 Official Claude Code Extension Compro... — はてなブックマーク テクノロジー / score: 90 (公式マーケットプレイスのツールに混入した深刻なバックドア問題)</description>
+</item>
+<item>
+<title>[90] 「GMOトラスト・ログイン」で2492社・4万5030人の情報漏えい、設定不備でファイルが公開領域に</title>
+<link>https://internet.watch.impress.co.jp/docs/news/2153245.html</link>
+<guid isPermaLink="true">https://internet.watch.impress.co.jp/docs/news/2153245.html</guid>
+<pubDate>Mon, 02 Nov 2026 11:37:27 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>「GMOトラスト・ログイン」で2492社・4万5030人の情報漏えい、設定不備でファイルが公開領域に — はてなブックマーク テクノロジー / score: 90 (大規模な情報漏えい事故に関するセキュリティニュース)</description>
 </item>
 <item>
 <title>[90] Cursor で Claude Code 拡張 2.1.312・2.1.313 が改ざんされていた件、Windows で自分の PC を確かめた</title>
@@ -183,6 +199,14 @@
 <description>米Microsoftは10月30日（現地時間、以下同）、この2週間ほどで相次いで明らかになった3つのセキュリティ問題について、公式ブログ「MSRC」で対応を呼びかけた。いずれもMicrosoft製品に由来する脆弱性ではないが、Microsoftのサービスやユーザーの「Azure」環境で動くソフトウェアにも組み込まれていることが多いため、Microsoftとユーザーの双方で対応が必要だとしている。 — 窓の杜 / score: 88 (Microsoftが注意を呼びかける重要脆弱性と対応要請)</description>
 </item>
 <item>
+<title>[85] GMO 侵入から2カ月なぜ気付かず</title>
+<link>https://news.yahoo.co.jp/pickup/6601132?source=rss</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6601132?source=rss</guid>
+<pubDate>Tue, 03 Nov 2026 00:06:05 +0000</pubDate>
+<category>Yahoo!ニュース IT</category>
+<description> — Yahoo!ニュース IT / score: 85 (GMOの情報漏えい・不正侵入の検知遅れに関する報道)</description>
+</item>
+<item>
 <title>[85] GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026</title>
 <link>https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html</guid>
@@ -207,20 +231,12 @@
 <description>米Microsoftは10月28日（米国時間）、「Visual Studio Code」v1.144をリリースした。引き続きAIエージェント関連の機能が強化されている。 — 窓の杜 / score: 85 (VS CodeのメジャーアップデートとAI関連機能の強化)</description>
 </item>
 <item>
-<title>[85] Cloudflare、耐量子時代のウェブに向けたパブリック認証局の設立を発表</title>
-<link>https://www.cloudflare.com/ja-jp/press/press-releases/2026/cloudflare-announces-public-certificate-authority-for-the-post-quantum-web/</link>
-<guid isPermaLink="true">https://www.cloudflare.com/ja-jp/press/press-releases/2026/cloudflare-announces-public-certificate-authority-for-the-post-quantum-web/</guid>
-<pubDate>Mon, 02 Nov 2026 06:45:23 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Cloudflare、耐量子時代のウェブに向けたパブリック認証局の設立を発表 コネクティビティクラウドCloudflareのコネクティビティクラウドは、ネットワーキング、セキュリティ、パフォーマンスのサービスを60以上提供します。 — はてなブックマーク テクノロジー / score: 85 (Cloudflareによる耐量子時代のパブリック認証局設立の発表)</description>
-</item>
-<item>
-<title>[85] 「アララ」7700万件のメアド流出</title>
-<link>https://news.yahoo.co.jp/pickup/6601057?source=rss</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6601057?source=rss</guid>
-<pubDate>Mon, 02 Nov 2026 04:54:46 +0000</pubDate>
-<category>Yahoo!ニュース IT</category>
-<description> — Yahoo!ニュース IT / score: 85 (大規模な個人情報流出インシデントに関する報道)</description>
+<title>[85] EC2 Amazon Machine Images can now be scanned for vulnerabilities through Amazon Inspector</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-amis-scanned-through-inspector/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-amis-scanned-through-inspector/</guid>
+<pubDate>Mon, 02 Nov 2026 08:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon Inspector now extends its vulnerability scanning to EC2 Amazon Machine Images (AMIs), enabling you to identify software vulnerabilities in your AMIs without launching instances or installing additional software. This helps you fix issues at the source before AMIs are used to launch instances across your fleet. With this capability, you can run continuous evaluations to monitor your AMI catalog for newly discovered vulnerabilities, or perform targeted one-time scans for specific AMIs direc — AWS What's New / score: 85 (Amazon InspectorによるEC2 AMIの脆弱性スキャン機能追加)</description>
 </item>
 <item>
 <title>[85] 「AI学習への使用拒否をウェブサイト側から明示できる仕組み」にGoogle・OpenAI・Microsoftが対応表明、各社が同じ仕組みを採用し対応の手間が緩和される予定</title>
@@ -423,6 +439,14 @@
 <description>Three certified security releases for 3.15, 3.14 and 3.13. — Python Insider / score: 85 (Pythonの複数バージョンにおける重要なセキュリティリリース)</description>
 </item>
 <item>
+<title>[80] Scaling Git at OpenAI</title>
+<link>https://openai.com/index/scaling-git-at-openai</link>
+<guid isPermaLink="true">https://openai.com/index/scaling-git-at-openai</guid>
+<pubDate>Mon, 02 Nov 2026 15:30:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible. — OpenAI News / score: 80 (OpenAIによる大規模Git基盤のスケーリング技術)</description>
+</item>
+<item>
 <title>[80] ノジマ 700万人分の個人情報流出</title>
 <link>https://news.yahoo.co.jp/pickup/6601104?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6601104?source=rss</guid>
@@ -527,20 +551,20 @@
 <description>Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source. — OpenAI News / score: 80 (AIによる脆弱性発見に対するグローバルな対応調整)</description>
 </item>
 <item>
-<title>[80] [AINews] DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks/day/cluster making $22m/day at ~80% margin for a 81 day payback</title>
-<link>https://latent.space/p/ainews-deepseek-deepinfer-open-source/</link>
-<guid isPermaLink="true">https://latent.space/p/ainews-deepseek-deepinfer-open-source/</guid>
-<pubDate>Wed, 21 Oct 2026 06:54:09 +0000</pubDate>
-<category>Latent Space</category>
-<description>Proudly brought to you by SerpApi: Today’s release covers a LOT of ground, but you can scrape all this into markdown for your agents ! 50% token cost of JSON. We last covered the Inference Inflection in April , and historically most of the advances have been closed source decacorns from Fireworks to Baseten to Modal . Well, time for the open source response. It is day 1 of PyTorch Conf , and DeepSeek timed an intercontinental ballistic missile into the discussion by open sourcing DeepInfer , the — Latent Space / score: 80 (DeepSeekのオープンソース推論エンジンと経済性)</description>
-</item>
-<item>
 <title>[80] Linux 7.３リリース ―新しいサンドボックス技術を導入、次世代プラットフォームへの対応強化</title>
 <link>https://gihyo.jp/article/2026/10/daily-linux-261021?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/10/daily-linux-261021?utm_source=feed</guid>
 <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Linus Torvaldsは10月18日、「Linux 7.3」のリリースをアナウンスした。 — gihyo.jp / score: 80 (Linuxカーネルの新バージョンリリース)</description>
+</item>
+<item>
+<title>[75] 欧州店舗にサイバー攻撃 食品廃棄</title>
+<link>https://news.yahoo.co.jp/pickup/6601127?source=rss</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6601127?source=rss</guid>
+<pubDate>Mon, 02 Nov 2026 23:44:18 +0000</pubDate>
+<category>Yahoo!ニュース IT</category>
+<description> — Yahoo!ニュース IT / score: 75 (欧州店舗に対するサイバー攻撃のニュース)</description>
 </item>
 <item>
 <title>[75] 1兆円の仮想通貨盗難、FBIが北朝鮮の犯行と指摘　狙われたのは社員のPCか</title>
@@ -607,14 +631,6 @@
 <description>世界最大級の仮想通貨取引所であるBinanceは2026年10月30日、攻撃者がサービスコンテナにアクセスして、総額約63億ドル(約9900億円)が不正に出金された可能性があると明かしました。Binanceは10月31日には「資金の90％が既に補充されており、残りの10％についても補塡(ほてん)する予定」と述べ、一時停止されていた出金も再開していることを発表しています。 続きを読む... — GIGAZINE / score: 75 (大規模な仮想通貨流出事件と迅速な補填対応のニュース)</description>
 </item>
 <item>
-<title>[75] OpenAIのAIエージェント、人類から監視されないようにがんばる。そのためには嘘もつく</title>
-<link>https://www.gizmodo.jp/article/2611-openai-ai-agent-deceives-monitoring-system/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-openai-ai-agent-deceives-monitoring-system/</guid>
-<pubDate>Mon, 02 Nov 2026 04:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>OpenAIのAIエージェントが安全監視システムを改変し、人間からの確認に虚偽の回答をした事例を解説します。AIの自律的な行動におけるリスクと現状の課題がわかる記事です。 — ギズモード・ジャパン / score: 75 (AIエージェントの安全性と倫理に関する重要な課題。)</description>
-</item>
-<item>
 <title>[75] 指紋認証＆暗号化対応のUSBメモリを分解したら中身は暗号化されていない普通のSDカードだったことが判明</title>
 <link>https://gigazine.net/news/20261102-lenovo-fingerprint-usb-not-encrypted/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261102-lenovo-fingerprint-usb-not-encrypted/</guid>
@@ -653,14 +669,6 @@
 <pubDate>Sun, 01 Nov 2026 08:06:32 +0000</pubDate>
 <category>Qiita 人気記事</category>
 <description>はじめに AIにコードを書いてもらうのが当たり前になってきました。 でも、こんなモヤモヤはありませんか？ AIが書いたコード、差分を全部読むのはもう限界 テストは通っている。でも テストを書いていないケースは大丈夫？ AIに「なぜ正しいの？」と聞いても、その説明が正... — Qiita 人気記事 / score: 75 (AIに証明を書かせて開発する新言語Tautoのリリース情報)</description>
-</item>
-<item>
-<title>[75] ISUCON2026に人間1人＋AIエージェント軍団で出て19.6万点、ループは閉じたけど中身が弱かった反省文😇</title>
-<link>https://zenn.dev/tak848/articles/20261031-isucon2026-writeup</link>
-<guid isPermaLink="true">https://zenn.dev/tak848/articles/20261031-isucon2026-writeup</guid>
-<pubDate>Sat, 31 Oct 2026 10:53:26 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>! この記事は全部AIが書きました。 全部を自動化して記録に残していたので、何が起きたかを一番よく知っているのは当日の指揮役のClaude Codeでした。その記録（自分のプロンプトも含む）を材料に、終わった直後に書いています。 こんにちは。いや、こんいす〜！！ @tak848です。 10月31日のISUCON2026に、人間は自分1人、手を動かすのはClaude CodeとCodexのエージェントたち、という体制で出ました。 問題は、地域ごとに台が分かれた写真共有SNS「ISUReal.」でした（中身は振り返りの節で）。 前回のISUCON14は1人で出て、30位以内に入ったと思った... — Zenn トレンド / score: 75 (AIエージェントを活用したISUCONの挑戦)</description>
 </item>
 <item>
 <title>[75] Daybreak Red from OpenAI now available to eligible customers on Amazon Bedrock in AWS GovCloud (US-East)</title>
@@ -797,14 +805,6 @@
 <pubDate>Mon, 26 Oct 2026 22:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework. — OpenAI News / score: 75 (GPT-6 Astraを活用したバグ検出の事例)</description>
-</item>
-<item>
-<title>[75] Moonshot AI、最高性能のオープンウェイトMoEモデル「Kimi K3.1 Pro」を発表 ―2～3倍高速な「Kimi K3.1 Pro Highspeed」も提供開始</title>
-<link>https://gihyo.jp/article/2026/10/kimi-k3-1-pro?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/10/kimi-k3-1-pro?utm_source=feed</guid>
-<pubDate>Mon, 26 Oct 2026 05:19:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>中国Moonshot AIは2026年10月23日、マルチモーダルMoEモデルの最新バージョン「Kimi K3.1 Pro」および高レスポンスモデル「Kimi K3.1 Pro Highspeed」を発表した。 — gihyo.jp / score: 75 (Moonshot AIによる高性能オープンウェイトMoEモデル発表)</description>
 </item>
 </channel>
 </rss>
