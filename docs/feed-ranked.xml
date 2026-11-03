@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Tue, 03 Nov 2026 10:07:31 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 12:08:49 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] パスワードを盗む必要すらなし。Linuxの脆弱性が発見される</title>
@@ -175,6 +175,14 @@
 <description>米Microsoftは10月30日（現地時間、以下同）、この2週間ほどで相次いで明らかになった3つのセキュリティ問題について、公式ブログ「MSRC」で対応を呼びかけた。いずれもMicrosoft製品に由来する脆弱性ではないが、Microsoftのサービスやユーザーの「Azure」環境で動くソフトウェアにも組み込まれていることが多いため、Microsoftとユーザーの双方で対応が必要だとしている。 — 窓の杜 / score: 88 (Microsoftが注意を呼びかける重要脆弱性と対応要請)</description>
 </item>
 <item>
+<title>[85] Uberはリトライストームからどのように身を守っているのか</title>
+<link>https://gigazine.net/news/20261103-protecting-against-retry-storms/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261103-protecting-against-retry-storms/</guid>
+<pubDate>Tue, 03 Nov 2026 12:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>Uberのエンジニアリングチームは、複雑に絡み合うサービス間依存関係を持つシステムで発生する「リトライストーム」現象によりビジネス運用やブランド信頼が受ける悪影響に対処するため、「エラーオーナーシップ」という概念に基づいたソリューションを開発・実装しました。このアプローチは、単一のサービス障害が連鎖的な障害を引き起こし、システム全体に波及する「ドミノ効果」を防ぐことを目的としています。 続きを読む... — GIGAZINE / score: 85 (大規模分散システムにおけるリトライストーム対策の技術解説)</description>
+</item>
+<item>
 <title>[85] サム・アルトマン「バグ全部修正するのはもうムリ」</title>
 <link>https://www.gizmodo.jp/article/sam-altman-ai-cybersecurity-bug-patching/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/sam-altman-ai-cybersecurity-bug-patching/</guid>
@@ -188,7 +196,7 @@
 <guid isPermaLink="true">https://japan.cnet.com/article/35254298/</guid>
 <pubDate>Tue, 03 Nov 2026 00:12:21 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>Googleは11月2日、130万台を超えるテレビ用端末を広告詐欺などに悪用していたネットワーク「XCPE」の運用を、前週に妨害したと発表した。端末メーカーのVideostrong Technologyが金銭目的で意図的に開発・運用していたと判断し、同社との取引を停止したという。調査と運用妨害には日本の警察庁も協力した。 XCPEは、利用... — はてなブックマーク テクノロジー / score: 85 (Android TVの重大なサプライチェーン攻撃)</description>
+<description>XCPEは、利用者に気付かれずに端末を遠隔操作するための「バックドア」を使い、多数の端末を犯罪に利用できる状態にしていた。こうした端末の集まりは「ボットネット」と呼ばれる。感染端末の大半は、テレビにつないで動画などを視聴するAndroid TV搭載のセットトップボックスで、複数のブランドや機種に不正ソフトが組... — はてなブックマーク テクノロジー / score: 85 (Android TVの重大なサプライチェーン攻撃)</description>
 </item>
 <item>
 <title>[85] GMO 侵入から2カ月なぜ気付かず</title>
@@ -261,14 +269,6 @@
 <pubDate>Mon, 02 Nov 2026 08:00:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Amazon Inspector now extends its vulnerability scanning to EC2 Amazon Machine Images (AMIs), enabling you to identify software vulnerabilities in your AMIs without launching instances or installing additional software. This helps you fix issues at the source before AMIs are used to launch instances across your fleet. With this capability, you can run continuous evaluations to monitor your AMI catalog for newly discovered vulnerabilities, or perform targeted one-time scans for specific AMIs direc — AWS What's New / score: 85 (Amazon InspectorによるEC2 AMIの脆弱性スキャン機能追加)</description>
-</item>
-<item>
-<title>[85] 「AI学習への使用拒否をウェブサイト側から明示できる仕組み」にGoogle・OpenAI・Microsoftが対応表明、各社が同じ仕組みを採用し対応の手間が緩和される予定</title>
-<link>https://gigazine.net/news/20261102-ai-training-control/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261102-ai-training-control/</guid>
-<pubDate>Mon, 02 Nov 2026 02:45:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>「ウェブサイトのコンテンツをAI学習に使用することの可否」をrobot.txtを用いて明示できるようにする仕様の作成が進んでいます。この仕様について、Google・OpenAI・Microsoftが対応を表明しました。 続きを読む... — GIGAZINE / score: 85 (主要各社によるAI学習拒否共通仕様の対応表明)</description>
 </item>
 <item>
 <title>[85] [AINews] Gemini 4 Carbon tops leaderboards, launches for cyber defenders</title>
@@ -583,6 +583,14 @@
 <description>OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers. — OpenAI News / score: 75 (OpenAIのセキュリティバグ報奨金引き上げ)</description>
 </item>
 <item>
+<title>[75] 142. ISUCON2026で優勝する方法 w/ kawasy | fukabori.fm</title>
+<link>https://fukabori.fm/episode/142</link>
+<guid isPermaLink="true">https://fukabori.fm/episode/142</guid>
+<pubDate>Mon, 02 Nov 2026 14:50:40 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>MP3ファイルをダウンロード 内容紹介 kawasyさんをゲストに、ISUCON2026で競技中に人間が介入せず優勝したAIエージェント、ハーネスの仕組み、当日までに準備したことなどについて語っていただきました。 出演者 話したネタ ISUCON2026で、競技中に人間が介入せず優勝 fukabori.ep #52 ISUCON 今回の出題課題 競技当日に... — はてなブックマーク テクノロジー / score: 75 (AIエージェントによるISUCON優勝の興味深い事例)</description>
+</item>
+<item>
 <title>[75] The Rise of LLMJacking: How Threat Actors Monetize Compromised Cloud and Model Resources</title>
 <link>https://cloud.google.com/blog/topics/threat-intelligence/llmjacking-monetizing-compromised-cloud-models/</link>
 <guid isPermaLink="true">https://cloud.google.com/blog/topics/threat-intelligence/llmjacking-monetizing-compromised-cloud-models/</guid>
@@ -637,14 +645,6 @@
 <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
 <category>Claude リリースノート</category>
 <description>Long conversations and agent loops on the Messages API can now send smaller requests and get a lower time to first token with message threads , in beta with the message-threads-2026-08-12 beta header. The API keeps the conversation on the server, so each later request sends only the new messages. A thread expires 5 minutes after its last request and is deleted no more than 1 hour after its last use. Message threads are available on the Claude API, Claude Platform on AWS , Claude Models on Google — Claude リリースノート / score: 75 (Claudeプラットフォームのマネージドエージェント更新)</description>
-</item>
-<item>
-<title>[75] 疑っても止まれない。AIの「都合のいい思考」を読んでみよう | ギズモード・ジャパン</title>
-<link>https://www.gizmodo.jp/article/2610-claude-mythos-ai-cot-momentum/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2610-claude-mythos-ai-cot-momentum/</guid>
-<pubDate>Sun, 01 Nov 2026 21:07:31 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>課題を解くために関係ない人を騙そうとしたAI。どうしてそうなっちゃったんでしょう？ 英国AIセキュリティ研究所が「Claude Mythos 5」というAIに演習用のコンピューターに侵入するという課題を与えました。それからしばらくして、開発元のAnthropic（アンソロピック）がある報告書を公開しました。 この実験においてMyt... — はてなブックマーク テクノロジー / score: 75 (AIの安全性とハルシネーションに関する興味深い検証事例)</description>
 </item>
 <item>
 <title>[75] Appleがついに方針転換！Macのタッチ対応が意味するもの</title>
