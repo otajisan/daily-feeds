@@ -4,15 +4,55 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Tue, 03 Nov 2026 16:07:29 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 18:07:40 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
-<title>Same Model, Different Harness: CUGA, Hermes, and Deep Agents — When to Pick CUGA?</title>
-<link>https://huggingface.co/blog/ibm-research/cuga-harness</link>
-<guid isPermaLink="true">https://huggingface.co/blog/ibm-research/cuga-harness</guid>
-<pubDate>Tue, 03 Nov 2026 15:57:39 +0000</pubDate>
+<title>StateBench: Testing how language models track state changes over long documents</title>
+<link>https://huggingface.co/blog/allenai/statebench</link>
+<guid isPermaLink="true">https://huggingface.co/blog/allenai/statebench</guid>
+<pubDate>Tue, 03 Nov 2026 17:15:21 +0000</pubDate>
 <category>Hugging Face Blog</category>
-<description> — Hugging Face Blog / score: 55 (AIモデルの評価とエージェント構築に関する解説記事)</description>
+<description> — Hugging Face Blog / score: 55 (長文書脈の追跡性能を評価するLLMベンチマーク)</description>
+</item>
+<item>
+<title>Agentic cheminformatics with Google Antigravity</title>
+<link>https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/</link>
+<guid isPermaLink="true">https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/</guid>
+<pubDate>Tue, 03 Nov 2026 17:01:49 +0000</pubDate>
+<category>Google DeepMind</category>
+<description>Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles. — Google DeepMind / score: 65 (Google DeepMindによる創薬AIの最新発表)</description>
+</item>
+<item>
+<title>Leading in the agentic era: How to put people first as you adopt AI agents</title>
+<link>https://cloud.google.com/blog/topics/consulting/lessons-for-adopting-ai-agents/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/consulting/lessons-for-adopting-ai-agents/</guid>
+<pubDate>Tue, 03 Nov 2026 17:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Over the past few years, our Google Cloud Consulting team has partnered with many companies to introduce AI into their daily operations. In that time, we’ve seen the focus shift from generative AI that answers questions to agentic systems that fully carry out the work. These agents can create multi-step plans and manage a project from start to finish. While budget, compute, and tooling can help launch an agent program, enterprise adoption takes intentional culture work. People need to feel empow — Google Cloud Blog / score: 40 (AIエージェント導入に関するGoogleの一般的な指針)</description>
+</item>
+<item>
+<title>Palette: teaching a small model to build decks in your design language</title>
+<link>https://huggingface.co/blog/ibm-research/palette-deck-building</link>
+<guid isPermaLink="true">https://huggingface.co/blog/ibm-research/palette-deck-building</guid>
+<pubDate>Tue, 03 Nov 2026 16:35:36 +0000</pubDate>
+<category>Hugging Face Blog</category>
+<description> — Hugging Face Blog / score: 50 (小型モデルにデザイン言語を学習させる手法の紹介)</description>
+</item>
+<item>
+<title>Qwen 3.8 27B on my laptop can interpret model weights, too</title>
+<link>https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/</guid>
+<pubDate>Tue, 03 Nov 2026 16:29:48 +0000</pubDate>
+<category>Simon Willison</category>
+<description>Yesterday's hot paper was Sparks of Weight-Space Programming: LLMs can natively read &amp; write neural network weights by Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab. The paper found that frontier models, in particular GPT-6 Astra, can both interpret and modify the raw weights of a machine learning model - literally a text description of the model containing a bunch of floating point numbers. I've been playing with one of the examples from the paper and I'm delighted to share that Qwen — Simon Willison / score: 60 (ローカルLLMによるモデル重み解釈の検証記事)</description>
+</item>
+<item>
+<title>｢iPhone 18｣はバッテリー容量増加で、価格は更に高くなる??</title>
+<link>https://taisy0.com/2026/11/04/229911.html</link>
+<guid isPermaLink="true">https://taisy0.com/2026/11/04/229911.html</guid>
+<pubDate>Tue, 03 Nov 2026 16:19:11 +0000</pubDate>
+<category>気になる、記になる…</category>
+<description>Appleは来春に「iPhone 18」「iPhone 18e」「iPhone Air 2」を発売すると噂されていますが、「iPhone 18」はバッテリー容量が増加する可能性が浮上しました。 これはWeiboで様々なリ […] — 気になる、記になる… / score: 30 (次期iPhoneに関する噂やリーク情報のまとめ)</description>
 </item>
 <item>
 <title>GitHubが従来比180倍のスループット性能向上を実現へ、来年初頭に。AIエージェント時代に対応。GitHub Universe 2026</title>
@@ -85,6 +125,14 @@
 <pubDate>Tue, 03 Nov 2026 14:00:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>2026年3月2日の記事を編集して再掲載しています。極限の環境で頼れる電話。スマートフォンは便利です。でも、落とせば画面はヒビ割れ、本気で力を込めればへし折れるくらい薄い板。保護フィルムやケースなしで持つなんて、ちょっと勇気がいりますよね。… — ギズモード・ジャパン / score: 30 (化学耐性を持つ現場向けタフネス携帯の紹介)</description>
+</item>
+<item>
+<title>続報：毎年1万円だったドメインが、いきなり17万円になった話｜藪原太郎</title>
+<link>https://note.com/t_yabuhara/n/nf9692965d028</link>
+<guid isPermaLink="true">https://note.com/t_yabuhara/n/nf9692965d028</guid>
+<pubDate>Tue, 03 Nov 2026 13:56:36 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>結論前回お知らせした taro.bar の件は、残念ながら状況が変わりませんでした。上位レジストリによるプレミアム化という説明のもと、更新価格は 171,517 円の提示が維持され、販売会社の裁量では変更できないという回答でした。補償策として、別ドメイン取得に充当できる 1 万円分のポイント付与をご提案いただきました... — はてなブックマーク テクノロジー / score: 45 (独自ドメインの急激な価格高騰に関する個人ブログ)</description>
 </item>
 <item>
 <title>Appleの2026年はまだ続く〜年内に控える新製品と発売日</title>
@@ -335,6 +383,22 @@
 <description>Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe. — OpenAI News / score: 55 (企業におけるAIツールの導入・活用事例の紹介)</description>
 </item>
 <item>
+<title>Five rules for evaluating agent skills before they bloat your context window</title>
+<link>https://cloud.google.com/blog/topics/developers-practitioners/evaluate-agent-skills-before-they-bloat-your-context-window/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/developers-practitioners/evaluate-agent-skills-before-they-bloat-your-context-window/</guid>
+<pubDate>Tue, 03 Nov 2026 08:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>You’re probably hearing more about SKILL.md files, and you’ll see that a lot of people test them the same way: paste a prompt into chat, watch it pass once on a laptop, and merge to main. But when you paste three pages of CLI docs into a markdown file without an evaluation loop, you are just as likely to confuse a frontier model as you are to help it. For the past weeks, we have been diligently measuring and optimizing our own Google Cloud Developer Plugin , with the most essential skills and th — Google Cloud Blog / score: 45 (AIエージェントのスキル評価に関するベストプラクティス)</description>
+</item>
+<item>
+<title>Introducing Physical-Engineering’s Last Exam for agents</title>
+<link>https://cloud.google.com/blog/products/ai-machine-learning/introducing-physical-engineerings-last-exam-for-agents/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/ai-machine-learning/introducing-physical-engineerings-last-exam-for-agents/</guid>
+<pubDate>Tue, 03 Nov 2026 08:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Authors: Burak Gokturk, VP Research &amp; Development; Rujun Han, Research Scientist; George Lee, Product Manager. Today, the Google AI &amp; Infrastructure team is announcing Physical-Engineering's Last Exam (PLE) , a new benchmark and open competition, developed in collaboration with Mercor, and built to test a frontier model’s ability to complete tasks in mechanical, electrical, civil and structural engineering. To help the research community measure and improve how agents handle physical engineering — Google Cloud Blog / score: 55 (AIエージェント向けの物理工学ベンチマークの発表)</description>
+</item>
+<item>
 <title>November 03, 2026</title>
 <link>https://docs.cloud.google.com/release-notes#November_03_2026</link>
 <guid isPermaLink="true">https://docs.cloud.google.com/release-notes#November_03_2026</guid>
@@ -445,6 +509,14 @@
 <pubDate>Tue, 03 Nov 2026 06:00:04 +0000</pubDate>
 <category>ASCII.jp</category>
 <description>世界No.1*北欧発フードロス削減アプリ「Too Good To Go」「日経トレンディ2027年ヒット予測」第22位に選出 — ASCII.jp / score: 15 (フードロス削減アプリのトレンド予測選出)</description>
+</item>
+<item>
+<title>Amazon EKS Capabilities now supports Argo CD Notifications</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eks-argo-cd-notifications</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eks-argo-cd-notifications</guid>
+<pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>The Amazon Elastic Kubernetes Service (Amazon EKS) Capability for Argo CD now supports Argo CD Notifications, providing notifications when your applications sync, fail, or change health. You define triggers and message templates in your cluster and subscribe individual Applications with an annotation, the same way you do in upstream Argo CD. With this launch, you can deliver notifications to 16 notification services, including Slack, PagerDuty, Opsgenie, Amazon SQS, and Amazon EventBridge. The A — AWS What's New / score: 50 (EKSのArgo CD機能で通知サポートが追加)</description>
 </item>
 <item>
 <title>『仮面ライダーゼッツ』もついに登場！アンダーウェアブランド【HIPSHOP(ヒップショップ)】と仮面ライダーシリーズのコラボレーションが圧巻の86デザインにパワーアップ！</title>
@@ -733,78 +805,6 @@
 <pubDate>Tue, 03 Nov 2026 03:00:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>電子回路基板の製造サービスを提供するCircuitHubが、アメリカ国内で中国・深圳の工場よりも約2倍速く回路基板を納品できるという製造システム「The Grid」を2026年10月26日に発表しました。The Gridは工場全体を1つの巨大なロボットとして動かし、注文ごとに設計が異なる回路基板を自動で製造できます。 続きを読む... — GIGAZINE / score: 60 (基板製造を自動化するロボット工場の発表)</description>
-</item>
-<item>
-<title>【独自調査結果】iPhone Duo 買った人の満足度と気になったところ</title>
-<link>https://iphone-mania.jp/iphone18-608225/</link>
-<guid isPermaLink="true">https://iphone-mania.jp/iphone18-608225/</guid>
-<pubDate>Tue, 03 Nov 2026 03:00:00 +0000</pubDate>
-<category>iPhone Mania</category>
-<description>iPhone Maniaでは、10月23日（金）に発売されたApple初の折りたたみiPhone「iPhone Duo」について、実際に購入した方の満足度や選んだカラー・容量、良かったところと気になったところ、それまでの […] — iPhone Mania / score: 35 (折りたたみiPhone購入者の独自満足度調査)</description>
-</item>
-<item>
-<title>ゴムマリの業務AIエージェント、『Excel台帳のデータベース化』を提供開始</title>
-<link>https://ascii.jp/elem/000/004/448/4448036/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/448/4448036/?rss</guid>
-<pubDate>Tue, 03 Nov 2026 03:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>ゴムマリの業務AIエージェント、『Excel台帳のデータベース化』を提供開始 — ASCII.jp / score: 45 (業務AIエージェントによるExcel台帳DB化)</description>
-</item>
-<item>
-<title>とろ～り海老入り「五目そば」がうまそ！ 豚肉も野菜も具だくさん</title>
-<link>https://ascii.jp/elem/000/004/447/4447865/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/447/4447865/?rss</guid>
-<pubDate>Tue, 03 Nov 2026 03:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>丸源ラーメンは11月12日より、期間限定メニュー「熟成醤油 丸源五目そば」を販売します。 — ASCII.jp / score: 10 (ラーメン店の期間限定メニュー情報)</description>
-</item>
-<item>
-<title>最高速120km/hで追突スピン!? 素人がもてぎ7時間耐久カート「K-TAI」に挑んだ結果</title>
-<link>https://ascii.jp/elem/000/004/447/4447606/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/447/4447606/?rss</guid>
-<pubDate>Tue, 03 Nov 2026 03:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>マツダのロードスター耐久レースに向け、もてぎで開催されたカートの7時間耐久「K-TAI」に参戦しました。最高速120km/hの恐怖や追突スピンなどのハプニングを乗り越え、チームの力で見事完走。入門に最適なカートの魅力と、耐久レースの真髄であるチームワークの重要性をレポートします。 — ASCII.jp / score: 20 (カート耐久レースへの素人参戦レポート)</description>
-</item>
-<item>
-<title>テスラとは違うドイツの完璧主義。メルセデス「EQE SUV」の凄みと「乗せられ感」の正体</title>
-<link>https://ascii.jp/elem/000/004/447/4447570/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/447/4447570/?rss</guid>
-<pubDate>Tue, 03 Nov 2026 03:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>メルセデス・ベンツ「EQE SUV」の試乗レビューです。GLEよりコンパクトながら長いホイールベースで室内は広々。インテリジェント回生と四輪操舵による快適な運転や、EVならではの静かでトルクフルな走りは圧巻です。完璧すぎてジレンマを抱くほど完成度の高い1台です。 — ASCII.jp / score: 30 (メルセデス・ベンツのEV SUV試乗レビュー)</description>
-</item>
-<item>
-<title>令和のデスクに平成レトロなスケルトン。「Nape Pro SE」の最安値はあと3日</title>
-<link>https://www.gizmodo.jp/article/2610-nape-pro-se-skeleton/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2610-nape-pro-se-skeleton/</guid>
-<pubDate>Tue, 03 Nov 2026 03:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>ギズモードとKeychronが共同開発したNape Pro SEの先行販売情報をお届けします。平成レトロなスケルトンデザインが魅力の小型トラックボールデバイスを最安値で購入できる超早割は11月6日正午までです。 — ギズモード・ジャパン / score: 20 (ガジェットの限定セール・販売告知情報)</description>
-</item>
-<item>
-<title>Ibanezより、5万円を切る7弦ギターGio RGの新モデル“GRG7221-WH”が登場</title>
-<link>https://guitarmagazine.jp/news/2026-1103gio-ibanez-grg7221-wh/</link>
-<guid isPermaLink="true">https://guitarmagazine.jp/news/2026-1103gio-ibanez-grg7221-wh/</guid>
-<pubDate>Tue, 03 Nov 2026 03:00:00 +0000</pubDate>
-<category>ギター・マガジンWEB</category>
-<description>Ibanezが、これから楽器を始めるエントリー層へ向けた“Gioシリーズ”の新モデルとして、エントリー・グレードの7弦エレクトリック・ギター“GRG7221-WH”を発売した。 オープン価格だが、実売は税込49,500円と、5万円を切る価格帯で購入できる7弦ギターとして市場でも稀有な存在となる。 手 — ギター・マガジンWEB / score: 15 (楽器の新製品発売に関するニュース)</description>
-</item>
-<item>
-<title>【さらに20%OFF】世界で最も先進的でフレキシブルなアルペジエーター、Sample Logic「ANIMATION STATION 2.0」が84%OFF！</title>
-<link>https://computermusic.jp/2026/11/animation-station-2/</link>
-<guid isPermaLink="true">https://computermusic.jp/2026/11/animation-station-2/</guid>
-<pubDate>Tue, 03 Nov 2026 02:46:25 +0000</pubDate>
-<category>Computer Music Japan</category>
-<description>世界で最も先進的でフレキシブルなアルペジエーター、Sample Logic「ANIMATION STATION 2.0」が84%OFFとなっています。 Audio Plugin Dealsでは10周年セールを開催中です。... The post 【さらに20%OFF】世界で最も先進的でフレキシブルなアルペジエーター、Sample Logic「ANIMATION STATION 2.0」が84%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 15 (音楽制作用プラグインのセール情報)</description>
-</item>
-<item>
-<title>久しぶりにChatGPTの無料プランを使っているけどヤバいな…爆速で間違った答えが返ってくる「課金してるけど超爆速で間違った答えが返ってくる」</title>
-<link>https://togetter.com/li/2766077</link>
-<guid isPermaLink="true">https://togetter.com/li/2766077</guid>
-<pubDate>Tue, 03 Nov 2026 02:45:23 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>久しぶりにChatGPTの無料プランを使っているけどヤバいな…爆速で間違った答えが返ってくる「課金してるけど超爆速で間違った答えが返ってくる」 久しぶりにChatGPTの無料プランを使っているけどヤバいな…爆速で間違った答えが返ってくる「課金してるけど超爆速で間違った答えが返ってくる」 — はてなブックマーク テクノロジー / score: 40 (ChatGPT無料プランの挙動に関するSNSの話題)</description>
 </item>
 </channel>
 </rss>

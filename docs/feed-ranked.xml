@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Tue, 03 Nov 2026 16:07:29 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 18:07:40 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[98] Kubernetes「CVE-2025-1974」はCVSS 9.8、認証不要のコード実行でクラスター侵害のおそれ Ingress NGINXは2026年3月に保守終了|セキュリティニュースのセキュリティ対策Lab</title>
@@ -61,14 +61,6 @@
 <pubDate>Wed, 21 Oct 2026 01:14:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>PHPセキュリティチームは2026年10月20日、重大な脆弱性2件を修正するセキュリティリリースを予告した。公開は10月21日14時（UTC）、日本時間の同日23時を予定している。 — gihyo.jp / score: 95 (PHPの重大な脆弱性修正リリース予告)</description>
-</item>
-<item>
-<title>[95] eMudhra Intermediate CA Compromise</title>
-<link>https://simonwillison.net/2026/Oct/20/emudhra-certificates/</link>
-<guid isPermaLink="true">https://simonwillison.net/2026/Oct/20/emudhra-certificates/</guid>
-<pubDate>Tue, 20 Oct 2026 23:50:25 +0000</pubDate>
-<category>Simon Willison</category>
-<description>eMudhra Intermediate CA Compromise This is very, very bad news: The private keys of eight eMudhra intermediate CA certificates have been compromised. They chain to roots trusted by the Mozilla, Microsoft, Apple and Chrome root programs and by many downstream trust stores. Any software that bundles a list of trusted certificates needs to be updated. This site is tracking software updates via this GitHub repository - Linux distros need to update their ca-certificates packages. In Python world uv 0 — Simon Willison / score: 95 (中間CA証明書の秘密鍵漏洩という重大な事件)</description>
 </item>
 <item>
 <title>[90] Cursorの拡張機能マーケットプレイスで悪意あるClaude Code拡張機能を確認</title>
@@ -805,6 +797,14 @@
 <pubDate>Mon, 26 Oct 2026 05:19:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>中国Moonshot AIは2026年10月23日、マルチモーダルMoEモデルの最新バージョン「Kimi K3.1 Pro」および高レスポンスモデル「Kimi K3.1 Pro Highspeed」を発表した。 — gihyo.jp / score: 75 (Moonshot AIによる高性能オープンウェイトMoEモデル発表)</description>
+</item>
+<item>
+<title>[75] v3.14.10</title>
+<link>https://github.com/python/cpython/releases/tag/v3.14.10</link>
+<guid isPermaLink="true">https://github.com/python/cpython/releases/tag/v3.14.10</guid>
+<pubDate>Sun, 25 Oct 2026 17:12:01 +0000</pubDate>
+<category>CPython リリース</category>
+<description>Python 3.14.10 — CPython リリース / score: 75 (Python 3.14.10のリリース情報)</description>
 </item>
 </channel>
 </rss>
