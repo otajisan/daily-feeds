@@ -4,8 +4,16 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Tue, 03 Nov 2026 14:06:28 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 16:07:29 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>[98] Kubernetes「CVE-2025-1974」はCVSS 9.8、認証不要のコード実行でクラスター侵害のおそれ Ingress NGINXは2026年3月に保守終了|セキュリティニュースのセキュリティ対策Lab</title>
+<link>https://rocket-boys.co.jp/security-measures-lab/cve_2025_1974_ingressnightmare_kubernetes_ingress_nginx_eol_20261102/</link>
+<guid isPermaLink="true">https://rocket-boys.co.jp/security-measures-lab/cve_2025_1974_ingressnightmare_kubernetes_ingress_nginx_eol_20261102/</guid>
+<pubDate>Mon, 02 Nov 2026 11:17:07 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Kubernetes「CVE-2025-1974」はCVSS 9.8、認証不要のコード実行でクラスター侵害のおそれ Ingress NGINXは2026年3月に保守終了 Kubernetes向けのIngress NGINX Controller（ingress-nginx）に存在した重大な脆弱性「CVE-2025-1974」は、攻撃者が特定のネットワーク条件を満たすと、認証情報を持たずにコントローラー上... — はてなブックマーク テクノロジー / score: 98 (KubernetesのCVSS 9.8という極めて重大な脆弱性)</description>
+</item>
 <item>
 <title>[95] パスワードを盗む必要すらなし。Linuxの脆弱性が発見される</title>
 <link>https://www.gizmodo.jp/article/2611-linux-kernel-vulnerability-multipath-tcp/</link>
@@ -175,6 +183,14 @@
 <description>米Microsoftは10月30日（現地時間、以下同）、この2週間ほどで相次いで明らかになった3つのセキュリティ問題について、公式ブログ「MSRC」で対応を呼びかけた。いずれもMicrosoft製品に由来する脆弱性ではないが、Microsoftのサービスやユーザーの「Azure」環境で動くソフトウェアにも組み込まれていることが多いため、Microsoftとユーザーの双方で対応が必要だとしている。 — 窓の杜 / score: 88 (Microsoftが注意を呼びかける重要脆弱性と対応要請)</description>
 </item>
 <item>
+<title>[85] アソビュー 1500万件超の情報流出</title>
+<link>https://news.yahoo.co.jp/pickup/6601234?source=rss</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6601234?source=rss</guid>
+<pubDate>Tue, 03 Nov 2026 14:59:10 +0000</pubDate>
+<category>Yahoo!ニュース IT</category>
+<description> — Yahoo!ニュース IT / score: 85 (1500万件超という非常に大規模な情報流出事件)</description>
+</item>
+<item>
 <title>[85] Uberはリトライストームからどのように身を守っているのか</title>
 <link>https://gigazine.net/news/20261103-protecting-against-retry-storms/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261103-protecting-against-retry-storms/</guid>
@@ -205,22 +221,6 @@
 <pubDate>Tue, 03 Nov 2026 00:06:05 +0000</pubDate>
 <category>Yahoo!ニュース IT</category>
 <description> — Yahoo!ニュース IT / score: 85 (GMOの情報漏えい・不正侵入の検知遅れに関する報道)</description>
-</item>
-<item>
-<title>[85] 冷凍庫にサイバー攻撃、食品溶け大量廃棄　欧州各地のスーパー - 日本経済新聞</title>
-<link>https://www.nikkei.com/article/DGXZQOGN02B1R0S6A101C2000000/</link>
-<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOGN02B1R0S6A101C2000000/</guid>
-<pubDate>Mon, 02 Nov 2026 23:12:33 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>【ブリュッセル、ロンドン=共同】ベルギーの大手スーパー、デレーズが1〜2日にかけてサイバー攻撃を受け、約40店舗の冷蔵・冷凍設備の温度が上昇した。ベルギー第2の都市アントワープの食肉チェーン店も攻撃を受け、店員らが手動で設備を操作し温度を下げるなどの対応に追われた。地元メディアが報じた。ロイター通信に... — はてなブックマーク テクノロジー / score: 85 (重要インフラへのサイバー攻撃と実害の発生)</description>
-</item>
-<item>
-<title>[85] GMO 経営トップ含めセキュリティーリスク対応の体制構築が課題 | NHKニュース</title>
-<link>https://news.web.nhk/newsweb/na/nd-20261103de69861</link>
-<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261103de69861</guid>
-<pubDate>Mon, 02 Nov 2026 20:25:01 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>GMOインターネットグループは、不正アクセスの問題が明らかになってから初めてとなる会見を2日、開きました。2年前に子会社が指摘していたシステムのぜい弱性については対策が不十分だったという認識を示す一方… — はてなブックマーク テクノロジー / score: 85 (GMOの脆弱性放置とセキュリティ体制の深刻な問題)</description>
 </item>
 <item>
 <title>[85] GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026</title>
@@ -447,6 +447,14 @@
 <description> — Yahoo!ニュース IT / score: 80 (行政システムのセキュリティインシデント)</description>
 </item>
 <item>
+<title>[80] 欧州7カ国のスーパー冷蔵・冷凍庫にサイバー攻撃　大量の食品が廃棄に - BBCニュース</title>
+<link>https://www.bbc.com/japanese/articles/cw4g13jp5l2vo</link>
+<guid isPermaLink="true">https://www.bbc.com/japanese/articles/cw4g13jp5l2vo</guid>
+<pubDate>Tue, 03 Nov 2026 04:18:56 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>欧州7カ国のスーパー冷蔵・冷凍庫にサイバー攻撃 大量の食品が廃棄に - BBCニュース 画像説明, スーパーの冷凍庫から大量の食品を廃棄するため取り出すスタッフ（2日、スウェーデン・ショーボ） — はてなブックマーク テクノロジー / score: 80 (重要インフラに対する大規模なサイバー攻撃の事例)</description>
+</item>
+<item>
 <title>[80] Scaling Git at OpenAI</title>
 <link>https://openai.com/index/scaling-git-at-openai</link>
 <guid isPermaLink="true">https://openai.com/index/scaling-git-at-openai</guid>
@@ -554,9 +562,17 @@
 <title>[75] GitHubが従来比180倍のスループット性能向上を実現へ、来年初頭に。AIエージェント時代に対応。GitHub Universe 2026</title>
 <link>https://www.publickey1.jp/blog/26/github180aigithub_universe_2026.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/github180aigithub_universe_2026.html</guid>
-<pubDate>Tue, 03 Nov 2026 14:05:55 +0000</pubDate>
+<pubDate>Tue, 03 Nov 2026 15:16:22 +0000</pubDate>
 <category>Publickey</category>
 <description>GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、AIエージェント時代に対応した大幅な性能向上を実現することを明らかにしました。 性能向上はGitHubの基盤... — Publickey / score: 75 (GitHubのAI関連の大きな性能向上発表)</description>
+</item>
+<item>
+<title>[75] セブン、宅配サービス「セブンナウ」の顧客情報16万件流出 - 日本経済新聞</title>
+<link>https://www.nikkei.com/article/DGXZQOUC032AG0T01C26A1000000/</link>
+<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUC032AG0T01C26A1000000/</guid>
+<pubDate>Tue, 03 Nov 2026 11:16:21 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>セブン―イレブン・ジャパンは3日、宅配サービス「セブンナウ」の業務委託先が不正アクセスを受け顧客情報が流出したと発表した。注文者の名前や住所など16万件超が流出した。不正利用などの被害は現時点で確認されていないという。セブンナウの配達業務の一部を委託しているCBcloud（CBクラウド、東京・千代田）が不正ア... — はてなブックマーク テクノロジー / score: 75 (大規模な個人情報流出インシデントであり影響が大きい)</description>
 </item>
 <item>
 <title>[75] ダークウェブ 日本人の情報流出増</title>
@@ -629,14 +645,6 @@
 <pubDate>Mon, 02 Nov 2026 02:45:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>前週に閲覧数の多かった記事を、上位10位までレポートします。 — 窓の杜 / score: 75 (Brotliの脆弱性注目など週次アクセスランキング)</description>
-</item>
-<item>
-<title>[75] 毎週数十万人が使うターミナル型AIコーディングエージェント「Pi」が1.0に　何ができる？</title>
-<link>https://atmarkit.itmedia.co.jp/ait/articles/2611/02/news017.html</link>
-<guid isPermaLink="true">https://atmarkit.itmedia.co.jp/ait/articles/2611/02/news017.html</guid>
-<pubDate>Mon, 02 Nov 2026 02:25:43 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Earendilは2026年10月1日（米国時間）、ターミナルベースのAIコーディングエージェント「Pi 1.0」を提供開始したと発表した。併せて、長時間稼働するエージェント型アプリケーションを構築するための実験的パッケージ「Pi Durable」も公開した。 ユーザーが柔軟にカスタマイズできる最小限のハーネス「Pi」で何ができる... — はてなブックマーク テクノロジー / score: 75 (AIコーディングエージェントのメジャーリリース)</description>
 </item>
 <item>
 <title>[75] Claude Platform release notes — November 2, 2026</title>
@@ -797,14 +805,6 @@
 <pubDate>Mon, 26 Oct 2026 05:19:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>中国Moonshot AIは2026年10月23日、マルチモーダルMoEモデルの最新バージョン「Kimi K3.1 Pro」および高レスポンスモデル「Kimi K3.1 Pro Highspeed」を発表した。 — gihyo.jp / score: 75 (Moonshot AIによる高性能オープンウェイトMoEモデル発表)</description>
-</item>
-<item>
-<title>[75] v3.14.10</title>
-<link>https://github.com/python/cpython/releases/tag/v3.14.10</link>
-<guid isPermaLink="true">https://github.com/python/cpython/releases/tag/v3.14.10</guid>
-<pubDate>Sun, 25 Oct 2026 17:12:01 +0000</pubDate>
-<category>CPython リリース</category>
-<description>Python 3.14.10 — CPython リリース / score: 75 (Python 3.14.10のリリース情報)</description>
 </item>
 </channel>
 </rss>
