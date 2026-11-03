@@ -4,8 +4,24 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Tue, 03 Nov 2026 18:07:40 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 20:06:15 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>November 2026 Security Release</title>
+<link>https://nextjs.org/blog/november-2026-security-release</link>
+<guid isPermaLink="true">https://nextjs.org/blog/november-2026-security-release</guid>
+<pubDate>Tue, 03 Nov 2026 18:00:00 +0000</pubDate>
+<category>Next.js Blog</category>
+<description>The November 2026 security release for Next.js is now available — Next.js Blog / score: 90 (重要フレームワークの緊急セキュリティアップデート)</description>
+</item>
+<item>
+<title>How Nammu21 automates syndicated loans on Google Cloud Universal Ledger</title>
+<link>https://cloud.google.com/blog/topics/financial-services/how-nammu21-automates-syndicated-loans-on-google-cloud-universal-ledger/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/financial-services/how-nammu21-automates-syndicated-loans-on-google-cloud-universal-ledger/</guid>
+<pubDate>Tue, 03 Nov 2026 18:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>The syndicated loan and private credit markets, both critical components of corporate finance, have long been constrained by manual processes, leading to multi-week settlements, valuation opacity, and trade friction. To solve these long-standing challenges, fintech innovator Nammu21 partnered with Google Cloud on a new proof-of-concept. Using its AI-powered platform to structure legal agreements and instantiate them as smart contracts on the Google Cloud Universal Ledger (GCUL) , Nammu21 automat — Google Cloud Blog / score: 50 (クラウドを活用した金融業務の自動化事例)</description>
+</item>
 <item>
 <title>StateBench: Testing how language models track state changes over long documents</title>
 <link>https://huggingface.co/blog/allenai/statebench</link>
@@ -44,7 +60,7 @@
 <guid isPermaLink="true">https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/</guid>
 <pubDate>Tue, 03 Nov 2026 16:29:48 +0000</pubDate>
 <category>Simon Willison</category>
-<description>Yesterday's hot paper was Sparks of Weight-Space Programming: LLMs can natively read &amp; write neural network weights by Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab. The paper found that frontier models, in particular GPT-6 Astra, can both interpret and modify the raw weights of a machine learning model - literally a text description of the model containing a bunch of floating point numbers. I've been playing with one of the examples from the paper and I'm delighted to share that Qwen — Simon Willison / score: 60 (ローカルLLMによるモデル重み解釈の検証記事)</description>
+<description>Yesterday's hot paper was Sparks of Weight-Space Programming: LLMs can natively read &amp; write neural network weights by Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab. The paper (OK, the authors classify is as a "blog post", but it's paper-shaped) found that frontier models, in particular GPT-6 Astra, can both interpret and modify the raw weights of a machine learning model - literally a text description of the model containing a bunch of floating point numbers. I've been playing with o — Simon Willison / score: 60 (ローカルLLMによるモデル重み解釈の検証記事)</description>
 </item>
 <item>
 <title>｢iPhone 18｣はバッテリー容量増加で、価格は更に高くなる??</title>
@@ -197,6 +213,14 @@
 <pubDate>Tue, 03 Nov 2026 12:00:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>Uberのエンジニアリングチームは、複雑に絡み合うサービス間依存関係を持つシステムで発生する「リトライストーム」現象によりビジネス運用やブランド信頼が受ける悪影響に対処するため、「エラーオーナーシップ」という概念に基づいたソリューションを開発・実装しました。このアプローチは、単一のサービス障害が連鎖的な障害を引き起こし、システム全体に波及する「ドミノ効果」を防ぐことを目的としています。 続きを読む... — GIGAZINE / score: 85 (大規模分散システムにおけるリトライストーム対策の技術解説)</description>
+</item>
+<item>
+<title>Accelerating engineering for the physical world</title>
+<link>https://openai.com/index/accelerating-engineering-for-the-physical-world</link>
+<guid isPermaLink="true">https://openai.com/index/accelerating-engineering-for-the-physical-world</guid>
+<pubDate>Tue, 03 Nov 2026 12:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world. — OpenAI News / score: 60 (AIを活用したCADやPCB設計の効率化事例)</description>
 </item>
 <item>
 <title>カジノで稼ぐ米先住民族に新たな脅威。その正体はスマホの「予測アプリ」</title>
@@ -375,12 +399,28 @@
 <description> — CodeZine / score: 50 (Amazon Connectの新機能テスト追加)</description>
 </item>
 <item>
+<title>How Cisco defends at machine speed with OpenAI</title>
+<link>https://openai.com/index/cisco-cyber</link>
+<guid isPermaLink="true">https://openai.com/index/cisco-cyber</guid>
+<pubDate>Tue, 03 Nov 2026 08:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses. — OpenAI News / score: 65 (AIを活用した大規模な企業向けセキュリティ防衛事例)</description>
+</item>
+<item>
 <title>Heimstaden is changing residential real estate management with AI</title>
 <link>https://openai.com/index/heimstaden</link>
 <guid isPermaLink="true">https://openai.com/index/heimstaden</guid>
 <pubDate>Tue, 03 Nov 2026 08:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe. — OpenAI News / score: 55 (企業におけるAIツールの導入・活用事例の紹介)</description>
+</item>
+<item>
+<title>AWS Transform for mainframe improves the reimagine modernization workflow</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-mainframe-reimagine/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-mainframe-reimagine/</guid>
+<pubDate>Tue, 03 Nov 2026 08:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS Transform for mainframe now discovers business functions with field-level precision and generates a new requirements coverage report in the assess and reimagine workflow. Previously, business functions that used the same table or file were grouped together, and you had to build your own traceability reporting from AWS Transform artifacts. With this launch, you can start modernizing z/OS COBOL and PL/I workloads from a more accurate catalog of business functions and verify requirements covera — AWS What's New / score: 45 (AWSメインフレーム移行ツールの機能強化)</description>
 </item>
 <item>
 <title>Five rules for evaluating agent skills before they bloat your context window</title>
@@ -663,6 +703,14 @@
 <description>この記事は100%人力で書いています。 忘れもしない、しばらく前のこと。 とあるITコミュニティに、同僚の営業職が参加した。 私は営業職ながら、そのコミュニティや、コミュニティにいる方々を良く知っている。 そのため、善意で色んな人を繋ごうと、紹介しようとした。 「こ... — Qiita 人気記事 / score: 40 (ITコミュニティにおける営業活動の心得)</description>
 </item>
 <item>
+<title>「AIデータセンター」、米中間選挙の激戦州で主要争点に──電気料金高騰で反発強まる（Forbes JAPAN） - Yahoo!ニュース</title>
+<link>https://news.yahoo.co.jp/articles/847dfc232ff1e240bbc5eda345e657efa9366fc1</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/articles/847dfc232ff1e240bbc5eda345e657efa9366fc1</guid>
+<pubDate>Tue, 03 Nov 2026 04:10:55 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Charles-McClintock Wilson/NurPhoto via Getty Images（フォーブス ジャパン編集部）米国で家庭向けの電気料金が高騰するなか、大量の電力を消費するAIデータセンターが米中間選挙の激戦州における大きな争点として浮上している。工業が盛んなオハイオ州、ペンシルベニア州、ミシガン州などでは、電力の容量価格の急騰... — はてなブックマーク テクノロジー / score: 60 (AIデータセンターの電力問題と政治的影響)</description>
+</item>
+<item>
 <title>韓国発ウェルネスブランド「ONHAM（オンハム）」、Qoo10ランキングで2週にわたり1位*¹ を獲得！膣特許乳酸菌サプリ「FLORA ON（フローラオン）」が日本市場で成長加速</title>
 <link>https://ascii.jp/elem/000/004/448/4448035/?rss</link>
 <guid isPermaLink="true">https://ascii.jp/elem/000/004/448/4448035/?rss</guid>
@@ -757,54 +805,6 @@
 <pubDate>Tue, 03 Nov 2026 03:29:37 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>Timekettle（タイムケトル）が10月8日に応援購入サービス「Makuake」で先行販売を開始した「W4 Plus」は、AI通訳イヤフォンの新モデルだ。Makuakeでは4万8999円からのリターンを用意しており、一般販売予定価格は6万7999円となっている。リターンは2027年1月末までに配送され、一般販売は2月初旬に始まる予定だ。カラー... — はてなブックマーク テクノロジー / score: 30 (コンシューマー向けAI通訳イヤフォンのレビュー)</description>
-</item>
-<item>
-<title>iFixitが｢Surface Laptop Ultra｣の分解動画を公開 ｰ 修理し易い内部設計を採用</title>
-<link>https://taisy0.com/2026/11/03/229868.html</link>
-<guid isPermaLink="true">https://taisy0.com/2026/11/03/229868.html</guid>
-<pubDate>Tue, 03 Nov 2026 03:28:26 +0000</pubDate>
-<category>気になる、記になる…</category>
-<description>分解レポートでお馴染みのiFixitが、先月にMicrosoftが発売した「Surface Laptop Ultra」の分解動画を公開しました。 「Surface Laptop Ultra」はNVIDIA RTX Spa […] — 気になる、記になる… / score: 40 (新型ノートPCの分解レポートと修理しやすさ)</description>
-</item>
-<item>
-<title>【24%OFF】DOOGEE「Note56X Pro」がAmazonスマイルSALEで21,899円に 6150mAhのスマホ</title>
-<link>https://ascii.jp/elem/000/004/448/4448039/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/448/4448039/?rss</guid>
-<pubDate>Tue, 03 Nov 2026 03:16:04 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>【24%OFF】DOOGEE「Note56X Pro」がAmazonスマイルSALEで21,899円に 6150mAhのスマホ — ASCII.jp / score: 20 (スマートフォンセールの紹介)</description>
-</item>
-<item>
-<title>Meta、｢Meta Quest 2｣と｢Meta Quest Pro｣への新機能追加を来年3月までに終了へ ｰ セキュリティと重大なバグの修正は来年末まで配信</title>
-<link>https://taisy0.com/2026/11/03/229865.html</link>
-<guid isPermaLink="true">https://taisy0.com/2026/11/03/229865.html</guid>
-<pubDate>Tue, 03 Nov 2026 03:06:32 +0000</pubDate>
-<category>気になる、記になる…</category>
-<description>本日、Metaが、VRヘッドセット「Meta Quest 2」と「Meta Quest Pro」向けに2027年3月までに配信するOSアップデートが両モデル向けの最後の機能追加アップデートとなることを発表しました。 「M […] — 気になる、記になる… / score: 55 (旧型VRヘッドセットの機能追加終了予定)</description>
-</item>
-<item>
-<title>音楽的に完璧な、美しく密度の高いリバーブ・サウンドを作り出す、Rob Papen「REVSANE」が30%OFF！</title>
-<link>https://computermusic.jp/2026/11/revsane/</link>
-<guid isPermaLink="true">https://computermusic.jp/2026/11/revsane/</guid>
-<pubDate>Tue, 03 Nov 2026 03:01:15 +0000</pubDate>
-<category>Computer Music Japan</category>
-<description>音楽的に完璧な、美しく密度の高いリバーブ・サウンドを作り出す、Rob Papen「REVSANE」が30%OFFとなっています。 Rob PapenではDisrupt Sphere FX Range Specialセール... The post 音楽的に完璧な、美しく密度の高いリバーブ・サウンドを作り出す、Rob Papen「REVSANE」が30%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 15 (音楽制作用プラグインのセール情報)</description>
-</item>
-<item>
-<title>【新商品】10日で11040個売れた大人気ブランドの濃厚抹茶スイーツセットが京都府の返礼品に新採用！オンラインショップにて限定セットも期間限定販売中</title>
-<link>https://ascii.jp/elem/000/004/448/4448038/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/448/4448038/?rss</guid>
-<pubDate>Tue, 03 Nov 2026 03:00:12 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>【新商品】10日で11040個売れた大人気ブランドの濃厚抹茶スイーツセットが京都府の返礼品に新採用！オンラインショップにて限定セットも期間限定販売中 — ASCII.jp / score: 10 (抹茶スイーツセットの返礼品採用告知)</description>
-</item>
-<item>
-<title>アメリカ産基板を中国産の2倍の速さで爆速納品可能な工業規模ロボット「The Grid」、注文に応じて回路基板を製造可能</title>
-<link>https://gigazine.net/news/20261103-circuithub-the-grid/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261103-circuithub-the-grid/</guid>
-<pubDate>Tue, 03 Nov 2026 03:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>電子回路基板の製造サービスを提供するCircuitHubが、アメリカ国内で中国・深圳の工場よりも約2倍速く回路基板を納品できるという製造システム「The Grid」を2026年10月26日に発表しました。The Gridは工場全体を1つの巨大なロボットとして動かし、注文ごとに設計が異なる回路基板を自動で製造できます。 続きを読む... — GIGAZINE / score: 60 (基板製造を自動化するロボット工場の発表)</description>
 </item>
 </channel>
 </rss>
