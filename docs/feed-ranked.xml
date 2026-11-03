@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Tue, 03 Nov 2026 20:06:15 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 22:05:45 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[98] Kubernetes「CVE-2025-1974」はCVSS 9.8、認証不要のコード実行でクラスター侵害のおそれ Ingress NGINXは2026年3月に保守終了|セキュリティニュースのセキュリティ対策Lab</title>
@@ -127,14 +127,6 @@
 <description>Next.js is preparing a scheduled November security release for November 3, 2026. — Next.js Blog / score: 90 (Next.jsの重要なセキュリティリリース予告)</description>
 </item>
 <item>
-<title>[90] Apple製品で一斉セキュリティアップデート、「macOS Golden Gate 27.2」は260件超【10月30日追記】／ゼロデイ脆弱性の修正が「iOS 27」以降へアップデートできない古いデバイスにも</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2151422.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2151422.html</guid>
-<pubDate>Tue, 27 Oct 2026 07:43:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Appleは10月26日（現地時間）、自社製品のセキュリティアップデートを一斉実施した。「iOS 27.2」「iPadOS 27.2」も含め、以下の11件のアップデートが公開されている（括弧内はCVE番号が割り振られた脆弱性の件数）。 — 窓の杜 / score: 90 (Apple製品の一斉セキュリティアップデート)</description>
-</item>
-<item>
 <title>[90] eMudhraの中間CAの秘密鍵が公開された証明書から復元可能と判明、pip・uvなどの開発ツールに修正版</title>
 <link>https://gihyo.jp/article/2026/10/emudhra-ca-key-compromise-dev-tools-fixes?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/10/emudhra-ca-key-compromise-dev-tools-fixes?utm_source=feed</guid>
@@ -183,6 +175,14 @@
 <description>米Microsoftは10月30日（現地時間、以下同）、この2週間ほどで相次いで明らかになった3つのセキュリティ問題について、公式ブログ「MSRC」で対応を呼びかけた。いずれもMicrosoft製品に由来する脆弱性ではないが、Microsoftのサービスやユーザーの「Azure」環境で動くソフトウェアにも組み込まれていることが多いため、Microsoftとユーザーの双方で対応が必要だとしている。 — 窓の杜 / score: 88 (Microsoftが注意を呼びかける重要脆弱性と対応要請)</description>
 </item>
 <item>
+<title>[85] アダルト動画サイトに組み込まれた情報窃取スクリプト群を追う - Weekend Researcher Tsurezure Diary</title>
+<link>https://disconinja.hatenablog.com/entry/2026/11/03/230647</link>
+<guid isPermaLink="true">https://disconinja.hatenablog.com/entry/2026/11/03/230647</guid>
+<pubDate>Tue, 03 Nov 2026 17:23:01 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>要約 rivo.vinの名称を表示するアダルト動画サイトのHTMLに、非表示iframeとJavaScriptを動的に追加するコードを確認しました。収集したHTMLそのものには、3件の非表示iframeと5件の外部scriptを追加するローダーが存在しました。その後に改めて確認すると、メインページと2つのiframeで、当初の静的HTMLの一覧に加えてm... — はてなブックマーク テクノロジー / score: 85 (悪意あるスクリプト埋め込みのセキュリティ脅威情報)</description>
+</item>
+<item>
 <title>[85] アソビュー 1500万件超の情報流出</title>
 <link>https://news.yahoo.co.jp/pickup/6601234?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6601234?source=rss</guid>
@@ -207,14 +207,6 @@
 <description>GMOランサムウェア脅迫事件やPHP脆弱性攻撃パニックを見てると、日本がサイバー攻撃の中心に思えてしまうけど、いえいえどうして。 国外を見渡せば毎日毎日ネットがぶっ壊れるほどの巨大なセキュリティホール（脆弱性）がAIによって見つけられ、穴を塞ぐより早くAIの自動操作などで不正アクセスされてしまう事案が目白押... — はてなブックマーク テクノロジー / score: 85 (AI時代におけるセキュリティ脆弱性とバグの課題)</description>
 </item>
 <item>
-<title>[85] あなたのAndroid TV端末が「詐欺広告の道具」に？ 中国メーカーが不正ソフトを仕込んで販売　Googleが取引停止</title>
-<link>https://japan.cnet.com/article/35254298/</link>
-<guid isPermaLink="true">https://japan.cnet.com/article/35254298/</guid>
-<pubDate>Tue, 03 Nov 2026 00:12:21 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>XCPEは、利用者に気付かれずに端末を遠隔操作するための「バックドア」を使い、多数の端末を犯罪に利用できる状態にしていた。こうした端末の集まりは「ボットネット」と呼ばれる。感染端末の大半は、テレビにつないで動画などを視聴するAndroid TV搭載のセットトップボックスで、複数のブランドや機種に不正ソフトが組... — はてなブックマーク テクノロジー / score: 85 (Android TVの重大なサプライチェーン攻撃)</description>
-</item>
-<item>
 <title>[85] GMO 侵入から2カ月なぜ気付かず</title>
 <link>https://news.yahoo.co.jp/pickup/6601132?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6601132?source=rss</guid>
@@ -229,14 +221,6 @@
 <pubDate>Mon, 02 Nov 2026 14:36:38 +0000</pubDate>
 <category>Publickey</category>
 <description>GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、新機能「GitHub Copilot Fusion」の正式リリースを発表しました。 Copilot Fusi... — Publickey / score: 85 (GitHub Copilotの新機能正式リリースで影響が大きい)</description>
-</item>
-<item>
-<title>[85] 【Curl】致命傷じゃないセキュリティ脆弱性はフルオープンにするわ</title>
-<link>https://qiita.com/rana_kualu/items/dd8e9a8e7d3759adf943?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/rana_kualu/items/dd8e9a8e7d3759adf943?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Mon, 02 Nov 2026 12:28:21 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>先日協調的脆弱性開示プロセスも変革を強いられるのではみたいなことを言ったのですが、さっそく運用を変更する例が現れました。 というか発表されたのが2026/10/20なのでPHPの脆弱性がリークされたのとまさに同日ですよ。 もっというとこの日付近は他にもNodeやGitLab... — Qiita 人気記事 / score: 85 (curl等のセキュリティ脆弱性開示に関する話題)</description>
 </item>
 <item>
 <title>[85] PHPの脆弱性「php2shell」が来たので、Amazonの公式パッケージを待たずにPHPを自分でビルドして本番に入れた話</title>
@@ -343,6 +327,14 @@
 <description>OpenAIは2026年10月26日、パフォーマンスとコストの両立を重視したAIモデルの新バージョン「GPT-6.1 Terra」を発表、提供を開始した。 — gihyo.jp / score: 85 (OpenAIの新AIモデル発表とAPIコスト半額化)</description>
 </item>
 <item>
+<title>[85] Introducing GPT-6.1 Terra</title>
+<link>https://openai.com/index/introducing-gpt-6-1-terra</link>
+<guid isPermaLink="true">https://openai.com/index/introducing-gpt-6-1-terra</guid>
+<pubDate>Mon, 26 Oct 2026 18:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>Delivering fast and capable computer use at scale — OpenAI News / score: 85 (主要AIモデルの新型GPT-6.1 Terraの発表)</description>
+</item>
+<item>
 <title>[85] AWSとGoogle Cloudが「PyTorch」のAWS Trainium、Google Cloud TPU対応版をオープンソースで公開。NVIDIAからの移行に挑む</title>
 <link>https://www.publickey1.jp/blog/26/awsgoogle_cloudpytorchaws_trainiumgoogle_cloud_tpunvidia.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/awsgoogle_cloudpytorchaws_trainiumgoogle_cloud_tpunvidia.html</guid>
@@ -357,14 +349,6 @@
 <pubDate>Mon, 26 Oct 2026 08:00:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>AWS Key Management Service (KMS) now supports Module-Lattice-Based Key-Encapsulation Mechanism (ML-KEM), a post-quantum cryptography standard under NIST FIPS 203 , which enables two parties to establish a shared secret. NIST designed ML-KEM to replace the classical key-establishment schemes, like DH/ECDH key agreement, and RSA-based key transport, in their strategic cryptographic roadmap (see NIST IR 8547 ). ML-KEM addresses the "harvest now, decrypt later" threat to those classical schemes, whe — AWS What's New / score: 85 (AWS KMSの耐量子暗号ML-KEM対応)</description>
-</item>
-<item>
-<title>[85] Introducing GPT-6.1 Terra</title>
-<link>https://openai.com/index/introducing-gpt-6-1-terra</link>
-<guid isPermaLink="true">https://openai.com/index/introducing-gpt-6-1-terra</guid>
-<pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>Bringing fast and capable computer use to everyone — OpenAI News / score: 85 (主要AIモデルの新型GPT-6.1 Terraの発表)</description>
 </item>
 <item>
 <title>[85] 「DuckDB 2.0 LTS」正式リリース。Quackプロトコルによるクライアント/サーバ機能や非同期処理による高速化など</title>
@@ -559,12 +543,28 @@
 <description>Linus Torvaldsは10月18日、「Linux 7.3」のリリースをアナウンスした。 — gihyo.jp / score: 80 (Linuxカーネルの新バージョンリリース)</description>
 </item>
 <item>
+<title>[75] 相次ぐAIエージェントの逸脱行動、監視には2つの記録が必要だ</title>
+<link>https://ascii.jp/elem/000/004/448/4448050/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/448/4448050/?rss</guid>
+<pubDate>Tue, 03 Nov 2026 21:28:29 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>オープンAIやアンソロピック、グーグル、メタのAIエージェントが制御を外れる事例が相次いでいる。規制当局はリアルタイムの監視を求めるが、主要なエージェント・フレームワークは、監視に欠かせない「何が起きたか」と「どう判断したか」の記録を十分に残せていない。 — ASCII.jp / score: 75 (AIエージェントの監視とログ記録の重要課題)</description>
+</item>
+<item>
 <title>[75] GitHubが従来比180倍のスループット性能向上を実現へ、来年初頭に。AIエージェント時代に対応。GitHub Universe 2026</title>
 <link>https://www.publickey1.jp/blog/26/github180aigithub_universe_2026.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/github180aigithub_universe_2026.html</guid>
 <pubDate>Tue, 03 Nov 2026 15:16:22 +0000</pubDate>
 <category>Publickey</category>
 <description>GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、AIエージェント時代に対応した大幅な性能向上を実現することを明らかにしました。 性能向上はGitHubの基盤... — Publickey / score: 75 (GitHubのAI関連の大きな性能向上発表)</description>
+</item>
+<item>
+<title>[75] [AWS]日本語OCRがついにきちゃー！ ~Textractにいろいろ読ませてみた~</title>
+<link>https://qiita.com/kikuziro/items/9aff0fefe89cfa13192e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/kikuziro/items/9aff0fefe89cfa13192e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Tue, 03 Nov 2026 13:54:09 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>📣 はじめに 2026年11月2日にAWSのAmazon Textract（OCRしてくれるやつ）が日本語に対応して東京リージョンでも使えるようになりました。以下記事がとてもわかりやすいので是非ご参照ください。 この記事ではいろんな画像をTextractに読ま... — Qiita 人気記事 / score: 75 (Amazon Textractの待望の日本語OCR対応)</description>
 </item>
 <item>
 <title>[75] セブン、宅配サービス「セブンナウ」の顧客情報16万件流出 - 日本経済新聞</title>
@@ -589,6 +589,14 @@
 <pubDate>Tue, 03 Nov 2026 05:35:00 +0000</pubDate>
 <category>Latent Space</category>
 <description>Editing Qwen’s weights to reduce reasoning loops, DeepSeek’s super-agent prototype, and the GDPx benchmark. — Latent Space / score: 75 (LLMのウェイト直接操作に関する最新研究)</description>
+</item>
+<item>
+<title>[75] Claude Platform release notes — November 3, 2026</title>
+<link>https://platform.claude.com/docs/en/release-notes/overview#november-3-2026</link>
+<guid isPermaLink="true">https://platform.claude.com/docs/en/release-notes/overview#november-3-2026</guid>
+<pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+<category>Claude リリースノート</category>
+<description>Text generated by Claude Mythos 5, Claude Opus 4.7, and Claude Sonnet 4.6 carries Anthropic’s text watermark on the platforms listed in How Claude marks AI-generated content . On Claude Sonnet 4.6, text generated for a request that sets temperature , top_p , or top_k to a non-default value might not carry it. See Text watermark . — Claude リリースノート / score: 75 (Claudeプラットフォームのマネージドエージェント更新)</description>
 </item>
 <item>
 <title>[75] Rewarding defenders with bigger bug bounties</title>
@@ -645,14 +653,6 @@
 <pubDate>Mon, 02 Nov 2026 02:45:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>前週に閲覧数の多かった記事を、上位10位までレポートします。 — 窓の杜 / score: 75 (Brotliの脆弱性注目など週次アクセスランキング)</description>
-</item>
-<item>
-<title>[75] Claude Platform release notes — November 2, 2026</title>
-<link>https://platform.claude.com/docs/en/release-notes/overview#november-2-2026</link>
-<guid isPermaLink="true">https://platform.claude.com/docs/en/release-notes/overview#november-2-2026</guid>
-<pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-<category>Claude リリースノート</category>
-<description>Long conversations and agent loops on the Messages API can now send smaller requests and get a lower time to first token with message threads , in beta with the message-threads-2026-08-12 beta header. The API keeps the conversation on the server, so each later request sends only the new messages. A thread expires 5 minutes after its last request and is deleted no more than 1 hour after its last use. Message threads are available on the Claude API, Claude Platform on AWS , Claude Models on Google — Claude リリースノート / score: 75 (Claudeプラットフォームのマネージドエージェント更新)</description>
 </item>
 <item>
 <title>[75] Appleがついに方針転換！Macのタッチ対応が意味するもの</title>
