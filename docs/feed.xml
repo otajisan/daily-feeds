@@ -4,8 +4,24 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 04 Nov 2026 18:07:06 +0000</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 20:06:31 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>[AINews] Behind Latent Space: Kill My SaaS, Jev &amp; AI in 2026 | AIEi Shanghai</title>
+<link>https://latent.space/p/ainews-behind-latent-space-kill-my-saas-jev-ai-in-2026-aiei-shanghai/</link>
+<guid isPermaLink="true">https://latent.space/p/ainews-behind-latent-space-kill-my-saas-jev-ai-in-2026-aiei-shanghai/</guid>
+<pubDate>Wed, 04 Nov 2026 19:17:30 +0000</pubDate>
+<category>Latent Space</category>
+<description>There’s a lot of dispute to yesterday’s title story on “ Weight Space Programming ” — and we agree that some of the claims are presented in overly favorable light and overall took away from the impact of the paper’s more substantial discoveries. However it is still a big wakeup moment and has had multiple independent replications by now that it is not worth either doing some kind of retraction or a followup title story saying it was bogus. Instead today we’re featuring AI Engineer Shanghai and a — Latent Space / score: 50 (AIに関する業界動向と議論をまとめたニュースレター)</description>
+</item>
+<item>
+<title>Amazon RDS for Oracle now supports copying option groups during cross-Region snapshot copy</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-oracle-cross-region-snapshot-copy-option-group/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-oracle-cross-region-snapshot-copy-option-group/</guid>
+<pubDate>Wed, 04 Nov 2026 18:40:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon RDS for Oracle now lets you copy the option group associated with a DB snapshot when you copy that snapshot to another AWS Region. Amazon RDS for Oracle uses option groups to enable and configure features that make it simple to manage your databases. Option groups are specific to the AWS Region where you create them. Previously, customers wanting to replicate RDS backups that had option groups to a different AWS Region had to copy the snapshot without the option group and then recreate th — AWS What's New / score: 40 (Amazon RDS for Oracleの機能追加)</description>
+</item>
 <item>
 <title>Dharma Field Extractor: Any Document In, Structured Fields in JSON Out</title>
 <link>https://huggingface.co/blog/Dharma-AI/dharma-field-extractor</link>
@@ -61,6 +77,14 @@
 <pubDate>Wed, 04 Nov 2026 16:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>Ready to modernize your infrastructure without risking production stability? API multi-versioning for Compute Engine, now in general availability, helps you do just that. With date-based API versions, Compute Engine can now regularly deliver modern API semantics, stronger resilience defaults, and improved developer experience while preserving the rock-solid stability of the /v1 API. For more than a decade, the Google Compute Engine /v1 API has served as the foundational control plane for million — Google Cloud Blog / score: 65 (Compute EngineのAPIマルチバージョン機能のGA)</description>
+</item>
+<item>
+<title>datasette-llm 0.1a10</title>
+<link>https://simonwillison.net/2026/Nov/4/datasette-llm/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Nov/4/datasette-llm/</guid>
+<pubDate>Wed, 04 Nov 2026 15:26:02 +0000</pubDate>
+<category>Simon Willison</category>
+<description>Release: datasette-llm 0.1a10 Fixes a bug that affected my agent.datasette.io demo site, where the set of available LLM models was not correctly restricted to just those in the configuration. Tags: datasette , llm — Simon Willison / score: 30 (datasette-llmのマイナーなバグ修正リリース)</description>
 </item>
 <item>
 <title>クラウドインフラのシェア、AWSが26％に後退、Google Cloudは16％に上昇。クラウドインフラ市場全体は過去最大の高成長率へ。2026年第3四半期、Synergy Research</title>
@@ -781,30 +805,6 @@
 <pubDate>Wed, 04 Nov 2026 09:04:35 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>ビジネスシーンにおいて最も活用されているAIサービスが、「文字起こし」ではないだろうか。ビジネスの現場では、物事を進めるのは人と人の話し合いだが、その記録を残すためには文章化は必須である。その元になるのが録音の書き起こしとなる。 1～2年前まではまだβ版として無料で使えるサービスも幾つかあったが、現在... — はてなブックマーク テクノロジー / score: 45 (AIエージェントと文字起こしツールに関するビジネス解説)</description>
-</item>
-<item>
-<title>【速報】グーグル、小中高で検索・AIの利用制限へ</title>
-<link>https://www.47news.jp/15183028.html</link>
-<guid isPermaLink="true">https://www.47news.jp/15183028.html</guid>
-<pubDate>Wed, 04 Nov 2026 09:03:35 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>【ニューヨーク共同】米グーグルは3日、世界各地の小中高の児童生徒が校内や自宅で使う学習用アカウントでインターネット検索や人工知能（AI）の機能の利用を制限する方針を発表した。初期設定では機能を無効とする。 — はてなブックマーク テクノロジー / score: 40 (教育機関における検索・AI機能の利用制限の方針)</description>
-</item>
-<item>
-<title>【開催報告】15歳の起業家・近藤にこるが、親子とAIで「10年後の名古屋」を構想！地域の未来を子どもたち自身が考えるワークショップを開催</title>
-<link>https://ascii.jp/elem/000/004/448/4448567/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/448/4448567/?rss</guid>
-<pubDate>Wed, 04 Nov 2026 09:01:15 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>【開催報告】15歳の起業家・近藤にこるが、親子とAIで「10年後の名古屋」を構想！地域の未来を子どもたち自身が考えるワークショップを開催 — ASCII.jp / score: 20 (AIを活用した子どもの地域未来ワークショップ)</description>
-</item>
-<item>
-<title>Chrome Enterprise Premium drives 50%+ projected cost reduction for Mercari</title>
-<link>https://cloud.google.com/blog/products/chrome-enterprise/chrome-enterprise-premium-drives-50-projected-cost-reduction-for-mercari/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/products/chrome-enterprise/chrome-enterprise-premium-drives-50-projected-cost-reduction-for-mercari/</guid>
-<pubDate>Wed, 04 Nov 2026 09:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>Editor's Note: Today's post is by Yu Susaki, Manager of Enterprise Security at Mercari , a leading consumer-to-consumer (C2C) marketplace with more than 20 million monthly active users. Mercari selected Chrome Enterprise Premium and Chromebooks to secure its highly sensitive customer service (CS) environment. Handling personally identifiable information (PII) on a daily basis, Mercari required a security strategy that could protect its data while addressing the operational inefficiencies and hig — Google Cloud Blog / score: 45 (メルカリにおけるChrome Enterprise Premium導入事例)</description>
 </item>
 </channel>
 </rss>
