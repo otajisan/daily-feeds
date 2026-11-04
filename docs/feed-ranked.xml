@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 04 Nov 2026 00:16:22 +0000</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 02:08:44 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Cursor」の拡張機能ストアに「Claude Code」の改竄版、SSHバックドアの設置を試みる／最大5,000ユーザーに影響、アンインストールだけでは不十分な場合も</title>
@@ -39,20 +39,28 @@
 <description>Almost 2 months ago, OpenAI introduced Daybreak for Frontline Defenders , a $1B subsidy for access to Daybreak cyber models and products. That funding came into use almost immediately, as major vulnerabilities in PHP were independently discovered by two parties: Ryan Austin, a researcher at the security firm Calif, as part of the OpenAI “ Patch the Planet ” project in August 2026 using GPT 5.6 Sol: View post on X … as well as Wiz, recently acquired into Google Cloud (using Gemini 4 Argon and GPT — Latent Space / score: 95 (PHPコアの重大な脆弱性発見とAIによる自動パッチ適用)</description>
 </item>
 <item>
-<title>[95] PHP、重大な脆弱性2件を修正 ——認証なしのリモートコード実行に対処。直ちに更新するよう強く推奨（10月23日更新）</title>
-<link>https://gihyo.jp/article/2026/10/php-critical-security-release?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/10/php-critical-security-release?utm_source=feed</guid>
-<pubDate>Wed, 21 Oct 2026 01:14:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>PHPセキュリティチームは2026年10月20日、重大な脆弱性2件を修正するセキュリティリリースを予告した。公開は10月21日14時（UTC）、日本時間の同日23時を予定している。 — gihyo.jp / score: 95 (PHPの重大な脆弱性修正リリース予告)</description>
-</item>
-<item>
 <title>[90] 2026年11月のAndroidセキュリティ情報、216件の脆弱性 ～ユーザー操作なしでリモートコード実行のおそれ／「Critical」は23件</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2153308.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2153308.html</guid>
 <pubDate>Tue, 03 Nov 2026 23:35:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Googleは11月2日（現地時間）、Android OSのセキュリティ情報（Android Security Bulletin：ASB）を発表した。25件の脆弱性が修正された10月から一転、今月は216件の脆弱性が修正されている。深刻度が4段階中最高の「Critical」は23件、2番目の「High」は193件。 — 窓の杜 / score: 90 (多数の脆弱性を修正するAndroidの月例セキュリティ情報)</description>
+</item>
+<item>
+<title>[90] アソビュー 1580万件が流出か - Yahoo!ニュース</title>
+<link>https://news.yahoo.co.jp/pickup/6601228</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6601228</guid>
+<pubDate>Tue, 03 Nov 2026 22:56:06 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>レジャー施設等のチケット予約システムを手掛ける「アソビュー！」のメール配信システムが第三者による不正アクセスを受け、同社でチケットを購入した人の個人情報が流出した可能性があることが分かりました。福井県立恐竜博物館のチケットを同社経由で購入した人の情報も流出した可能性があり、県が注意を呼び掛けてい... — はてなブックマーク テクノロジー / score: 90 (1580万件の大規模個人情報流出)</description>
+</item>
+<item>
+<title>[90] ライフカード「Vプリカ」で個人情報漏えいの可能性、委託先のGMOペイメントゲートウェイで「不正ユーザーによる行為」</title>
+<link>https://internet.watch.impress.co.jp/docs/news/2153282.html</link>
+<guid isPermaLink="true">https://internet.watch.impress.co.jp/docs/news/2153282.html</guid>
+<pubDate>Tue, 03 Nov 2026 22:53:51 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>ライフカード「Vプリカ」で個人情報漏えいの可能性、委託先のGMOペイメントゲートウェイで「不正ユーザーによる行為」 — はてなブックマーク テクノロジー / score: 90 (Vプリカの個人情報漏えいインシデント)</description>
 </item>
 <item>
 <title>[90] November 2026 Security Release</title>
@@ -175,12 +183,28 @@
 <description>米Microsoftは10月30日（現地時間、以下同）、この2週間ほどで相次いで明らかになった3つのセキュリティ問題について、公式ブログ「MSRC」で対応を呼びかけた。いずれもMicrosoft製品に由来する脆弱性ではないが、Microsoftのサービスやユーザーの「Azure」環境で動くソフトウェアにも組み込まれていることが多いため、Microsoftとユーザーの双方で対応が必要だとしている。 — 窓の杜 / score: 88 (Microsoftが注意を呼びかける重要脆弱性と対応要請)</description>
 </item>
 <item>
+<title>[85] バイナンス1兆円流出、侵入のきっかけは「偽の採用面接」　AIツールも悪用</title>
+<link>https://ascii.jp/elem/000/004/448/4448067/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/448/4448067/?rss</guid>
+<pubDate>Wed, 04 Nov 2026 01:00:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>暗号資産交換所のBinanceは11月3日、63億4000万ドル相当の暗号資産が流出した事件の初期調査結果を公表した。偽の採用面接や改ざんされた開発ツール、社内AIツールを経由した侵入を組み合わせ、資産の送金を承認する仕組みが悪用されたという。 — ASCII.jp / score: 85 (サイバー攻撃のセキュリティ事件調査結果)</description>
+</item>
+<item>
 <title>[85] アダルト動画サイトに組み込まれた情報窃取スクリプト群を追う - Weekend Researcher Tsurezure Diary</title>
 <link>https://disconinja.hatenablog.com/entry/2026/11/03/230647</link>
 <guid isPermaLink="true">https://disconinja.hatenablog.com/entry/2026/11/03/230647</guid>
 <pubDate>Tue, 03 Nov 2026 17:23:01 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>要約 rivo.vinの名称を表示するアダルト動画サイトのHTMLに、非表示iframeとJavaScriptを動的に追加するコードを確認しました。収集したHTMLそのものには、3件の非表示iframeと5件の外部scriptを追加するローダーが存在しました。その後に改めて確認すると、メインページと2つのiframeで、当初の静的HTMLの一覧に加えてm... — はてなブックマーク テクノロジー / score: 85 (悪意あるスクリプト埋め込みのセキュリティ脅威情報)</description>
+</item>
+<item>
+<title>[85] Introducing Zero Wire, a hub for investigating critical Internet vulnerabilities</title>
+<link>https://blog.cloudflare.com/zero-wire/</link>
+<guid isPermaLink="true">https://blog.cloudflare.com/zero-wire/</guid>
+<pubDate>Tue, 03 Nov 2026 17:22:51 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>November 3, 2026Introducing Zero Wire, a hub for investigating critical Internet vulnerabilities You run security at your organization. It’s 7:00 am, and you’re having breakfast. You receive a ping: a new critical vulnerability has been disclosed. Your team scrambles to compare vendor advisories,... — はてなブックマーク テクノロジー / score: 85 (重大な脆弱性調査ハブの新設発表)</description>
 </item>
 <item>
 <title>[85] アソビュー 1500万件超の情報流出</title>
@@ -213,14 +237,6 @@
 <pubDate>Tue, 03 Nov 2026 00:50:12 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>Google は 2026 年 11 月 2 日 (現地時間)、Android TV Box などを製造する Videostrong が、ファームウェアにバックドアを組み込んで犯罪者に接続権限を販売していたとして、認定を受けた Android デバイスの製造と販売を禁止したことを発表しました。 このバックドアは「XCPE」と呼ばれ、130 万台以上のデバイスをボッ... — はてなブックマーク テクノロジー / score: 85 (バックドア混入によるAndroid端末の製造販売禁止)</description>
-</item>
-<item>
-<title>[85] GMO 侵入から2カ月なぜ気付かず</title>
-<link>https://news.yahoo.co.jp/pickup/6601132?source=rss</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6601132?source=rss</guid>
-<pubDate>Tue, 03 Nov 2026 00:06:05 +0000</pubDate>
-<category>Yahoo!ニュース IT</category>
-<description> — Yahoo!ニュース IT / score: 85 (GMOの情報漏えい・不正侵入の検知遅れに関する報道)</description>
 </item>
 <item>
 <title>[85] GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026</title>
@@ -423,6 +439,14 @@
 <description>Cloudflareは、TypeScriptをRustに移植した「tsrs」を発表しました。 下記は、Cloudflareに買収されたVoidZeroによるtsrsに関するポストです。VoidZeroもこのtsrsの開発に関わっています。 ... — Publickey / score: 85 (TypeScriptのRust製処理系で大きな性能向上のため)</description>
 </item>
 <item>
+<title>[80] 1兆円盗難 バイナンスが手口公表</title>
+<link>https://news.yahoo.co.jp/pickup/6601264?source=rss</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6601264?source=rss</guid>
+<pubDate>Wed, 04 Nov 2026 00:49:15 +0000</pubDate>
+<category>Yahoo!ニュース IT</category>
+<description> — Yahoo!ニュース IT / score: 80 (バイナンスによる巨額盗難の手口公表)</description>
+</item>
+<item>
 <title>[80] 大阪市行政システム 情報漏えいか</title>
 <link>https://news.yahoo.co.jp/pickup/6601164?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6601164?source=rss</guid>
@@ -519,20 +543,12 @@
 <description>Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source. — OpenAI News / score: 80 (AIによる脆弱性発見に対するグローバルな対応調整)</description>
 </item>
 <item>
-<title>[75] JAL・ANAの情報流出、なぜ同時に発覚した？</title>
-<link>https://ascii.jp/elem/000/004/447/4447533/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/447/4447533/?rss</guid>
-<pubDate>Tue, 03 Nov 2026 22:30:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>JALとANAが相次いで顧客の予約情報流出を発表しました。影響は国内2社だけでなく、海外の航空会社にも広がっています。なぜ複数の航空会社で同じような問題が発生したのでしょうか。（2026年11月3日執筆） — ASCII.jp / score: 75 (大手航空会社での情報流出に関するセキュリティ動向)</description>
-</item>
-<item>
-<title>[75] 相次ぐAIエージェントの逸脱行動、監視には2つの記録が必要だ</title>
-<link>https://ascii.jp/elem/000/004/448/4448050/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/448/4448050/?rss</guid>
-<pubDate>Tue, 03 Nov 2026 21:28:29 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>オープンAIやアンソロピック、グーグル、メタのAIエージェントが制御を外れる事例が相次いでいる。規制当局はリアルタイムの監視を求めるが、主要なエージェント・フレームワークは、監視に欠かせない「何が起きたか」と「どう判断したか」の記録を十分に残せていない。 — ASCII.jp / score: 75 (AIエージェントの監視とログ記録の重要課題)</description>
+<title>[75] 「特定のAIモデルで出力が生成されたこと」を証明できる仕組み「FlashProve」をAnthropicが開発</title>
+<link>https://gigazine.net/news/20261104-anthropic-flashprove/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261104-anthropic-flashprove/</guid>
+<pubDate>Wed, 04 Nov 2026 02:07:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>AIの性能は日々向上しており、ユーザーが使えるAIモデルの種類は急増しています。しかし、ユーザー側から「宣伝されている通りのAIモデルが使われているのか」を確かめる方法は限られており、サービス側が低性能AIモデルをこっそり使っている可能性を排除できません。この状況を打破するべく、Anthropicが「特定のAIモデルで出力が生成されたこと」を証明できる仕組み「FlashProve」を開発しました。 続きを読む... — GIGAZINE / score: 75 (AnthropicのAI出力証明技術)</description>
 </item>
 <item>
 <title>[75] GitHubが従来比180倍のスループット性能向上を実現へ、来年初頭に。AIエージェント時代に対応。GitHub Universe 2026</title>
@@ -549,14 +565,6 @@
 <pubDate>Tue, 03 Nov 2026 13:54:09 +0000</pubDate>
 <category>Qiita 人気記事</category>
 <description>📣 はじめに 2026年11月2日にAWSのAmazon Textract（OCRしてくれるやつ）が日本語に対応して東京リージョンでも使えるようになりました。以下記事がとてもわかりやすいので是非ご参照ください。 この記事ではいろんな画像をTextractに読ま... — Qiita 人気記事 / score: 75 (Amazon Textractの待望の日本語OCR対応)</description>
-</item>
-<item>
-<title>[75] セブン、宅配サービス「セブンナウ」の顧客情報16万件流出 - 日本経済新聞</title>
-<link>https://www.nikkei.com/article/DGXZQOUC032AG0T01C26A1000000/</link>
-<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUC032AG0T01C26A1000000/</guid>
-<pubDate>Tue, 03 Nov 2026 11:16:21 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>セブン―イレブン・ジャパンは3日、宅配サービス「セブンナウ」の業務委託先が不正アクセスを受け顧客情報が流出したと発表した。注文者の名前や住所など16万件超が流出した。不正利用などの被害は現時点で確認されていないという。セブンナウの配達業務の一部を委託しているCBcloud（CBクラウド、東京・千代田）が不正ア... — はてなブックマーク テクノロジー / score: 75 (大規模な個人情報流出インシデントであり影響が大きい)</description>
 </item>
 <item>
 <title>[75] ダークウェブ 日本人の情報流出増</title>
@@ -589,14 +597,6 @@
 <pubDate>Mon, 02 Nov 2026 18:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers. — OpenAI News / score: 75 (OpenAIのセキュリティバグ報奨金引き上げ)</description>
-</item>
-<item>
-<title>[75] 142. ISUCON2026で優勝する方法 w/ kawasy | fukabori.fm</title>
-<link>https://fukabori.fm/episode/142</link>
-<guid isPermaLink="true">https://fukabori.fm/episode/142</guid>
-<pubDate>Mon, 02 Nov 2026 14:50:40 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>MP3ファイルをダウンロード 内容紹介 kawasyさんをゲストに、ISUCON2026で競技中に人間が介入せず優勝したAIエージェント、ハーネスの仕組み、当日までに準備したことなどについて語っていただきました。 出演者 話したネタ ISUCON2026で、競技中に人間が介入せず優勝 fukabori.ep #52 ISUCON 今回の出題課題 競技当日に... — はてなブックマーク テクノロジー / score: 75 (AIエージェントによるISUCON優勝の興味深い事例)</description>
 </item>
 <item>
 <title>[75] The Rise of LLMJacking: How Threat Actors Monetize Compromised Cloud and Model Resources</title>
