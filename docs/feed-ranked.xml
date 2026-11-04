@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 04 Nov 2026 14:07:20 +0000</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 16:06:42 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Cursor」の拡張機能ストアに「Claude Code」の改竄版、SSHバックドアの設置を試みる／最大5,000ユーザーに影響、アンインストールだけでは不十分な場合も</title>
@@ -69,6 +69,14 @@
 <pubDate>Wed, 04 Nov 2026 09:17:59 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>「無印良品」を展開する良品計画は、不正アクセスを受けて、クレジットカード番号の全桁、およそ109万件が漏えいしたおそれがあると発表しました。 この中には、すでに期限切れとなっているカードも多く含ま… — はてなブックマーク テクノロジー / score: 90 (大規模なクレカ情報漏えいのおそれ)</description>
+</item>
+<item>
+<title>[90] Rails Versions 8.0.5.2 and 8.1.4.1 have been released!</title>
+<link>https://rubyonrails.org/2026/11/4/Rails-8.0.5.2-and-8.1.4.1-have-been-released</link>
+<guid isPermaLink="true">https://rubyonrails.org/2026/11/4/Rails-8.0.5.2-and-8.1.4.1-have-been-released</guid>
+<pubDate>Wed, 04 Nov 2026 04:23:50 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Hello, Rails community! Rails Versions 8.0.5.2 and 8.1.4.1 have been released. These are security updates addressing 21 security issues falling into a few themes: Possible arbitrary file read, file write and remote code execution in Active Storage image and video processing Possible Strong Parame... — はてなブックマーク テクノロジー / score: 90 (Railsのセキュリティアップデート公開)</description>
 </item>
 <item>
 <title>[90] 仮想通貨取引所Binanceから約1兆円が盗まれた事件は偽面接経由でマルウェアを送り込まれたのがきっかけだったことが判明</title>
@@ -183,6 +191,14 @@
 <description>中国の端末メーカーが製造したAndroid端末に、遠隔から操作できるバックドアを仕込み、そのアクセス権を犯罪者らに販売していた――米Googleは11月3日（現地時間）、Android TV端末など130万台超に不正ソフトが組み込まれ、広告詐欺や不正な通信の中継などに悪用されていたと発表した。 関与を指摘されたのは、中国のOEM／... — はてなブックマーク テクノロジー / score: 85 (Android端末のバックドア問題)</description>
 </item>
 <item>
+<title>[85] 「無印良品」カード番号全桁も流出か　約109万件　調査で新たに判明（テレビ朝日系（ANN）） - Yahoo!ニュース</title>
+<link>https://news.yahoo.co.jp/articles/b6e64f561e159b8d879512f49d4f3641b50e031a</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/articles/b6e64f561e159b8d879512f49d4f3641b50e031a</guid>
+<pubDate>Wed, 04 Nov 2026 10:01:16 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>テレ朝NEWS「無印良品」で新たにクレジットカード会員のカード番号などおよそ109万件も、流出の可能性が明らかになりました。 【動画】ダークウェブで日本人の個人情報の取引急増 運営する良品計画によりますと、流出した可能性があるのは、2021年7月までにクレジットカード「MUJICard」の会員に登録した顧客のカード番... — はてなブックマーク テクノロジー / score: 85 (無印良品の大規模な情報漏えいとカード流出)</description>
+</item>
+<item>
 <title>[85] MUJI Card 会員情報の流出の可能性に関するお知らせとお詫び | クレジットカードはセゾンカード</title>
 <link>https://www.saisoncard.co.jp/customer-support/information/20261104/</link>
 <guid isPermaLink="true">https://www.saisoncard.co.jp/customer-support/information/20261104/</guid>
@@ -221,14 +237,6 @@
 <pubDate>Wed, 04 Nov 2026 02:23:44 +0000</pubDate>
 <category>Zenn トレンド</category>
 <description>! この記事について：この記事の調査は、生成AI（Claude）と対話しながら進めた結果をまとめたものです。また、記事の文章もAIが下書きし、筆者が内容を確認・修正しています。AIの説明や判断には誤りが含まれている可能性があり、筆者自身もセキュリティの専門家ではありません。内容を鵜呑みにせず、必ず元の解析レポートや公式発表など一次情報で確認してください。この記事の手順で「安全だ」と判断して何か起きても責任は持てません。 はじめに 結論から言うと、自分のPCは「攻撃者のスクリプトは読み込んでたけど、本体（遠隔操作ツール）が動いた痕跡は見つからなかった」って状態だった。 IT系の専門学... — Zenn トレンド / score: 85 (PCランチャーにおけるサプライチェーン攻撃の調査事例)</description>
-</item>
-<item>
-<title>[85] アダルト動画サイトに組み込まれた情報窃取スクリプト群を追う - Weekend Researcher Tsurezure Diary</title>
-<link>https://disconinja.hatenablog.com/entry/2026/11/03/230647</link>
-<guid isPermaLink="true">https://disconinja.hatenablog.com/entry/2026/11/03/230647</guid>
-<pubDate>Tue, 03 Nov 2026 17:23:01 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>要約 rivo.vinの名称を表示するアダルト動画サイトのHTMLに、非表示iframeとJavaScriptを動的に追加するコードを確認しました。収集したHTMLそのものには、3件の非表示iframeと5件の外部scriptを追加するローダーが存在しました。その後に改めて確認すると、メインページと2つのiframeで、当初の静的HTMLの一覧に加えてm... — はてなブックマーク テクノロジー / score: 85 (悪意あるスクリプト埋め込みのセキュリティ脅威情報)</description>
 </item>
 <item>
 <title>[85] アソビュー 1500万件超の情報流出</title>
@@ -407,12 +415,28 @@
 <description>AWS Continuum for code vulnerabilities is a new security service that uses AI to automatically find, validate, and prioritize code vulnerabilities in your environment, then delivers ready-to-review fixes as pull requests replacing what previously took hours of manual investigation and days of cross-team coordination. — AWS News Blog / score: 85 (AIを活用したAWSのコード脆弱性検出サービス)</description>
 </item>
 <item>
-<title>[85] Cloudflare、TypeScriptをRustに移植した「tsrs」を発表。TypeScript 7より最大で70％少ないメモリで8倍速。今後、LSPなどTypeScriptの全機能をサポート予定</title>
-<link>https://www.publickey1.jp/blog/26/cloudflaretypescriptrusttsrstypescript_7708lsptypescript.html</link>
-<guid isPermaLink="true">https://www.publickey1.jp/blog/26/cloudflaretypescriptrusttsrstypescript_7708lsptypescript.html</guid>
-<pubDate>Wed, 21 Oct 2026 15:42:36 +0000</pubDate>
-<category>Publickey</category>
-<description>Cloudflareは、TypeScriptをRustに移植した「tsrs」を発表しました。 下記は、Cloudflareに買収されたVoidZeroによるtsrsに関するポストです。VoidZeroもこのtsrsの開発に関わっています。 ... — Publickey / score: 85 (TypeScriptのRust製処理系で大きな性能向上のため)</description>
+<title>[80] セガ系に不正アクセス　ゲームセンター向けサービス停止　バンダイ系の「太鼓の達人」などにも影響</title>
+<link>https://www.itmedia.co.jp/news/article/2611/04/2000002870/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/04/2000002870/</guid>
+<pubDate>Wed, 04 Nov 2026 10:41:48 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>セガサミーホールディングス傘下のセガ フェイブ（東京都品川区）は11月2日、同社のサーバの一部が第三者による不正アクセスを受けたと発表した。11月1日午後3時から関連サービスを停止しており、一部アーケードゲームのオンラインサービスや「SEGA ID」の新規登録などが利用できない状態となっている。 影響を受けたの... — はてなブックマーク テクノロジー / score: 80 (セガ系サービスへの不正アクセスと障害)</description>
+</item>
+<item>
+<title>[80] デニーズアプリに不正アクセス　旧アプリ移行処理で認証情報を不正作成される　個人情報漏えいか</title>
+<link>https://www.itmedia.co.jp/news/article/2611/04/2000002878/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/04/2000002878/</guid>
+<pubDate>Wed, 04 Nov 2026 10:40:46 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>漏えいした可能性があるのは、旧デニーズアプリを利用していた一部の利用者の会員コード、メールアドレス、生年月日、性別、居住する都道府県、お気に入り店舗、キッズバースデー（子どもの誕生日）。 同社は氏名、住所、電話番号、パスワード、クレジットカード情報は保持していない。 現在確認できているのは10月7日の... — はてなブックマーク テクノロジー / score: 80 (デニーズアプリの不正アクセスと個人情報漏えい)</description>
+</item>
+<item>
+<title>[80] 無印良品、ネットストアなども情報漏えい　一部カード情報も</title>
+<link>https://www.watch.impress.co.jp/docs/news/2153690.html</link>
+<guid isPermaLink="true">https://www.watch.impress.co.jp/docs/news/2153690.html</guid>
+<pubDate>Wed, 04 Nov 2026 10:37:32 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>無印良品、ネットストアなども情報漏えい 一部カード情報も — はてなブックマーク テクノロジー / score: 80 (無印良品のネットストア情報漏えい続報)</description>
 </item>
 <item>
 <title>[80] 無印良品 クレカ番号など流出か</title>
@@ -503,6 +527,14 @@
 <description>Anthropicは2026年10月21日、パーソナルAIアシスタントClaude Duetのリサーチプレビューを発表した。利用者の対応が必要なことを自ら知らせるエージェントとして動作する。 — gihyo.jp / score: 80 (Anthropicの新しいAIエージェント発表)</description>
 </item>
 <item>
+<title>[75] e-Taxに不審な通信 緊急メンテ</title>
+<link>https://news.yahoo.co.jp/pickup/6601361?source=rss</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6601361?source=rss</guid>
+<pubDate>Wed, 04 Nov 2026 14:08:31 +0000</pubDate>
+<category>Yahoo!ニュース IT</category>
+<description> — Yahoo!ニュース IT / score: 75 (e-Taxの不審な通信と緊急メンテナンス)</description>
+</item>
+<item>
 <title>[75] 回線悪用のサーバー無害化　警察庁、米グーグルと連携 | NEWSjp</title>
 <link>https://news.jp/i/1490641855482659408</link>
 <guid isPermaLink="true">https://news.jp/i/1490641855482659408</guid>
@@ -538,9 +570,9 @@
 <title>[75] OpenAIがGitで超大規模リポジトリを運用するためのバックエンド「Pando」を開発</title>
 <link>https://gigazine.net/news/20261104-openai-git-pando/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261104-openai-git-pando/</guid>
-<pubDate>Wed, 04 Nov 2026 04:31:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>OpenAIがバージョン管理システム「Git」を大規模モノレポに対応させるための社内バックエンド「Pando」を開発したことを発表しました。 続きを読む... — GIGAZINE / score: 75 (OpenAIによる大規模Gitリポジトリ用バックエンド開発)</description>
+<pubDate>Wed, 04 Nov 2026 04:33:36 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>OpenAIがバージョン管理システム「Git」を大規模モノレポに対応させるための社内バックエンド「Pando」を開発したことを発表しました。 OpenAI における Git のスケーリング | OpenAI https://openai.com/ja-JP/index/scaling-git-at-openai/ We built Pando, a new Git backend for our monorepo, to handle more pushe... — はてなブックマーク テクノロジー / score: 75 (OpenAIによる大規模Gitリポジトリ用バックエンド開発)</description>
 </item>
 <item>
 <title>[75] 人に言えない悩みまで…検索した言葉が知らない会社に筒抜けに。犯人はChrome拡張機能</title>
@@ -773,38 +805,6 @@
 <pubDate>Mon, 26 Oct 2026 05:19:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>中国Moonshot AIは2026年10月23日、マルチモーダルMoEモデルの最新バージョン「Kimi K3.1 Pro」および高レスポンスモデル「Kimi K3.1 Pro Highspeed」を発表した。 — gihyo.jp / score: 75 (Moonshot AIによる高性能オープンウェイトMoEモデル発表)</description>
-</item>
-<item>
-<title>[75] v3.14.10</title>
-<link>https://github.com/python/cpython/releases/tag/v3.14.10</link>
-<guid isPermaLink="true">https://github.com/python/cpython/releases/tag/v3.14.10</guid>
-<pubDate>Sun, 25 Oct 2026 17:12:01 +0000</pubDate>
-<category>CPython リリース</category>
-<description>Python 3.14.10 — CPython リリース / score: 75 (Python 3.14.10のリリース情報)</description>
-</item>
-<item>
-<title>[75] v3.15.2</title>
-<link>https://github.com/python/cpython/releases/tag/v3.15.2</link>
-<guid isPermaLink="true">https://github.com/python/cpython/releases/tag/v3.15.2</guid>
-<pubDate>Sun, 25 Oct 2026 16:57:52 +0000</pubDate>
-<category>CPython リリース</category>
-<description>Python 3.15.2 — CPython リリース / score: 75 (Python 3.15.2のリリース情報)</description>
-</item>
-<item>
-<title>[75] [AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed</title>
-<link>https://latent.space/p/ainews-kimi-31/</link>
-<guid isPermaLink="true">https://latent.space/p/ainews-kimi-31/</guid>
-<pubDate>Sat, 24 Oct 2026 07:18:29 +0000</pubDate>
-<category>Latent Space</category>
-<description>2 months ago we covered Z.ai CEO Prof Jie Tang’s prediction that we’d get a Fable-class open weights model by year end . 2 weeks ago Meta achieved a Fable-class model in closed source , but, with 2.5 months left to go, we finally got it - a 2.8T open weights model beating Fable 5.1, not just Fable 5, at that: View post on X ↗ with even better efficiency: View post on X ↗ You can tell Kimi is proud of their latest model by how fancy their landing page is: As usual we don’t get much research detai — Latent Space / score: 75 (オープンAIモデルの性能向上とリリース)</description>
-</item>
-<item>
-<title>[75] Securing our frontier model training environment</title>
-<link>https://openai.com/index/securing-our-frontier-model-training-environment</link>
-<guid isPermaLink="true">https://openai.com/index/securing-our-frontier-model-training-environment</guid>
-<pubDate>Fri, 23 Oct 2026 10:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming. — OpenAI News / score: 75 (AI最先端モデルのセキュリティ強化に関する解説。)</description>
 </item>
 </channel>
 </rss>
