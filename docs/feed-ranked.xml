@@ -4,8 +4,16 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 04 Nov 2026 02:08:44 +0000</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 04:07:25 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>[95] Google Chromeに213件の脆弱性　最新版に更新を</title>
+<link>https://ascii.jp/elem/000/004/448/4448201/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/448/4448201/?rss</guid>
+<pubDate>Wed, 04 Nov 2026 03:20:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>グーグルは11月3日、デスクトップおよびAndroid版「Google Chrome」のアップデートを公開。深刻度「重大」を含む213件の脆弱性を修正した。 — ASCII.jp / score: 95 (Chromeの重大な脆弱性修正とアップデート)</description>
+</item>
 <item>
 <title>[95] 「Cursor」の拡張機能ストアに「Claude Code」の改竄版、SSHバックドアの設置を試みる／最大5,000ユーザーに影響、アンインストールだけでは不十分な場合も</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2152916.html</link>
@@ -37,6 +45,22 @@
 <pubDate>Thu, 22 Oct 2026 07:42:44 +0000</pubDate>
 <category>Latent Space</category>
 <description>Almost 2 months ago, OpenAI introduced Daybreak for Frontline Defenders , a $1B subsidy for access to Daybreak cyber models and products. That funding came into use almost immediately, as major vulnerabilities in PHP were independently discovered by two parties: Ryan Austin, a researcher at the security firm Calif, as part of the OpenAI “ Patch the Planet ” project in August 2026 using GPT 5.6 Sol: View post on X … as well as Wiz, recently acquired into Google Cloud (using Gemini 4 Argon and GPT — Latent Space / score: 95 (PHPコアの重大な脆弱性発見とAIによる自動パッチ適用)</description>
+</item>
+<item>
+<title>[90] 仮想通貨取引所Binanceから約1兆円が盗まれた事件は偽面接経由でマルウェアを送り込まれたのがきっかけだったことが判明</title>
+<link>https://gigazine.net/news/20261104-binance-6-3-billion-heist-hacker-yuse-fake-job-interviews/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261104-binance-6-3-billion-heist-hacker-yuse-fake-job-interviews/</guid>
+<pubDate>Wed, 04 Nov 2026 04:05:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>世界最大級の仮想通貨取引所・Binance(バイナンス)からおよそ63億ドル(約9930億円)相当の仮想通貨が盗み出された事件は、攻撃者がエンジニアのノートPC経由で不正アクセスしたことがわかっていますが、調査の結果、単一の攻撃や単純なセキュリティインシデントによるものではなく、複数のステップを経て侵入を図る作戦だったことがわかりました。 続きを読む... — GIGAZINE / score: 90 (Binanceのマルウェア経由の巨大不正アクセス事件)</description>
+</item>
+<item>
+<title>[90] Binance、約1兆円相当の暗号資産が流出した問題に関し、検索エンジンに表示されたWebサイトから改ざんされたHomebrewをインストールした事が始まりだったと発表。</title>
+<link>https://applech2.com/archives/20261104-hackers-compromised-homebrew-binance-attack.html</link>
+<guid isPermaLink="true">https://applech2.com/archives/20261104-hackers-compromised-homebrew-binance-attack.html</guid>
+<pubDate>Wed, 04 Nov 2026 01:42:21 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Binanceが約1兆円相当の暗号資産が流出した問題に関し、検索エンジンに表示されたWebサイトから改ざんされたHomebrewをインストールした事が始まりだったと発表しています。詳細は以下から。 暗号資産の取引所を運営するBinanceは2026年10月29日、ハッカーにより約63億4,000万ドル、日本円にして1兆円相当の暗号資産が流... — はてなブックマーク テクノロジー / score: 90 (1兆円規模の暗号資産流出とサプライチェーン攻撃)</description>
 </item>
 <item>
 <title>[90] 2026年11月のAndroidセキュリティ情報、216件の脆弱性 ～ユーザー操作なしでリモートコード実行のおそれ／「Critical」は23件</title>
@@ -79,20 +103,20 @@
 <description>Android「SMS of Death」脆弱性、SMS受信だけで通話切断・再起動ループの恐れ CVE-2026-58882をGoogleがCriticalで修正 Androidの電話機能を、細工されたSMSを受信させるだけで停止させる脆弱性「CVE-2026-58882」が公表されました。「SMS of Death」と呼ばれるこの問題は、利用者がメッセージを開く操作をしなくても発... — はてなブックマーク テクノロジー / score: 90 (Androidの深刻なリモート脆弱性の緊急修正)</description>
 </item>
 <item>
-<title>[90] Shutting the Door on the XCPE Botnet | Google Cloud Blog</title>
-<link>https://cloud.google.com/blog/topics/threat-intelligence/shutting-the-door-on-the-xcpe-botnet</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/topics/threat-intelligence/shutting-the-door-on-the-xcpe-botnet</guid>
-<pubDate>Tue, 03 Nov 2026 06:39:16 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Google Threat IntelligenceVisibility and context on the threats that matter most. Contact Us &amp; Get a Demo Introduction Last week, Google and industry partners dismantled the XCPE backdoor which enrolled more than 1.3 million set-top boxes into a botnet. We assess with high confidence that the bac... — はてなブックマーク テクノロジー / score: 90 (大手IT企業等による大規模ボットネット解体のセキュリティ成果)</description>
-</item>
-<item>
 <title>[90] Cursorの拡張機能マーケットプレイスで悪意あるClaude Code拡張機能を確認</title>
 <link>https://codezine.jp/article/detail/30201</link>
 <guid isPermaLink="true">https://codezine.jp/article/detail/30201</guid>
 <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 90 (開発ツール拡張機能のサプライチェーン攻撃リスク)</description>
+</item>
+<item>
+<title>[90] Shutting the Door on the XCPE Botnet</title>
+<link>https://cloud.google.com/blog/topics/threat-intelligence/shutting-the-door-on-the-xcpe-botnet/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/threat-intelligence/shutting-the-door-on-the-xcpe-botnet/</guid>
+<pubDate>Mon, 02 Nov 2026 14:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Introduction Last week, Google and industry partners dismantled the XCPE backdoor which enrolled more than 1.3 million set-top boxes into a botnet. We assess with high confidence that the backdoor and botnet were intentionally developed, deployed, and operated for financial gain by Videostrong Technology Co., an Android Original Equipment Manufacturer (OEM) and Original Design Manufacturer (ODM). Videostrong monetized the backdoor by selling access to criminal affiliates and loading those affili — Google Cloud Blog / score: 90 (大手IT企業等による大規模ボットネット解体のセキュリティ成果)</description>
 </item>
 <item>
 <title>[90] Cursor公式マーケットプレイスの「Claude Code」にSSHバックドアが発見される</title>
@@ -183,12 +207,12 @@
 <description>米Microsoftは10月30日（現地時間、以下同）、この2週間ほどで相次いで明らかになった3つのセキュリティ問題について、公式ブログ「MSRC」で対応を呼びかけた。いずれもMicrosoft製品に由来する脆弱性ではないが、Microsoftのサービスやユーザーの「Azure」環境で動くソフトウェアにも組み込まれていることが多いため、Microsoftとユーザーの双方で対応が必要だとしている。 — 窓の杜 / score: 88 (Microsoftが注意を呼びかける重要脆弱性と対応要請)</description>
 </item>
 <item>
-<title>[85] バイナンス1兆円流出、侵入のきっかけは「偽の採用面接」　AIツールも悪用</title>
-<link>https://ascii.jp/elem/000/004/448/4448067/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/448/4448067/?rss</guid>
-<pubDate>Wed, 04 Nov 2026 01:00:00 +0000</pubDate>
+<title>[85] ビック・コジマ・ソフマップ、メールアドレス1490万件流出か　委託先アララに不正アクセス</title>
+<link>https://ascii.jp/elem/000/004/448/4448121/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/448/4448121/?rss</guid>
+<pubDate>Wed, 04 Nov 2026 02:50:00 +0000</pubDate>
 <category>ASCII.jp</category>
-<description>暗号資産交換所のBinanceは11月3日、63億4000万ドル相当の暗号資産が流出した事件の初期調査結果を公表した。偽の採用面接や改ざんされた開発ツール、社内AIツールを経由した侵入を組み合わせ、資産の送金を承認する仕組みが悪用されたという。 — ASCII.jp / score: 85 (サイバー攻撃のセキュリティ事件調査結果)</description>
+<description>ビックカメラグループ3社（ビックカメラ／コジマ／ソフマップ）は11月2日、業務委託先（アララ）が不正アクセスを受け、顧客情報の一部が外部に流出した可能性があると公表した。 — ASCII.jp / score: 85 (大規模な個人情報流出の可能性があるセキュリティ事故)</description>
 </item>
 <item>
 <title>[85] アダルト動画サイトに組み込まれた情報窃取スクリプト群を追う - Weekend Researcher Tsurezure Diary</title>
@@ -218,9 +242,9 @@
 <title>[85] Uberはリトライストームからどのように身を守っているのか</title>
 <link>https://gigazine.net/news/20261103-protecting-against-retry-storms/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261103-protecting-against-retry-storms/</guid>
-<pubDate>Tue, 03 Nov 2026 12:09:04 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Uberのエンジニアリングチームは、複雑に絡み合うサービス間依存関係を持つシステムで発生する「リトライストーム」現象によりビジネス運用やブランド信頼が受ける悪影響に対処するため、「エラーオーナーシップ」という概念に基づいたソリューションを開発・実装しました。このアプローチは、単一のサービス障害が連鎖... — はてなブックマーク テクノロジー / score: 85 (大規模分散システムにおけるリトライストーム対策の技術解説)</description>
+<pubDate>Tue, 03 Nov 2026 12:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>Uberのエンジニアリングチームは、複雑に絡み合うサービス間依存関係を持つシステムで発生する「リトライストーム」現象によりビジネス運用やブランド信頼が受ける悪影響に対処するため、「エラーオーナーシップ」という概念に基づいたソリューションを開発・実装しました。このアプローチは、単一のサービス障害が連鎖的な障害を引き起こし、システム全体に波及する「ドミノ効果」を防ぐことを目的としています。 続きを読む... — GIGAZINE / score: 85 (大規模分散システムにおけるリトライストーム対策の技術解説)</description>
 </item>
 <item>
 <title>[85] サム・アルトマン「バグ全部修正するのはもうムリ」</title>
@@ -229,14 +253,6 @@
 <pubDate>Tue, 03 Nov 2026 09:00:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>GMOランサムウェア脅迫事件やPHP脆弱性攻撃パニックを見てると、日本がサイバー攻撃の中心に思えてしまうけど、いえいえどうして。国外を見渡せば毎日毎日ネットがぶっ壊れるほどの巨大なセキュリティホール（脆弱性）がAIによって見つけられ、穴を塞… — ギズモード・ジャパン / score: 85 (AI時代におけるセキュリティ脆弱性とバグの課題)</description>
-</item>
-<item>
-<title>[85] Google、Videostrong に認定 Android デバイスの製造・販売を禁止。Android TV Box のバックドアが理由 | HelenTech</title>
-<link>https://helentech.jp/news-google-bans-videostrong-xcpe-backdoor/</link>
-<guid isPermaLink="true">https://helentech.jp/news-google-bans-videostrong-xcpe-backdoor/</guid>
-<pubDate>Tue, 03 Nov 2026 00:50:12 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Google は 2026 年 11 月 2 日 (現地時間)、Android TV Box などを製造する Videostrong が、ファームウェアにバックドアを組み込んで犯罪者に接続権限を販売していたとして、認定を受けた Android デバイスの製造と販売を禁止したことを発表しました。 このバックドアは「XCPE」と呼ばれ、130 万台以上のデバイスをボッ... — はてなブックマーク テクノロジー / score: 85 (バックドア混入によるAndroid端末の製造販売禁止)</description>
 </item>
 <item>
 <title>[85] GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026</title>
@@ -325,14 +341,6 @@
 <pubDate>Wed, 28 Oct 2026 05:36:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>オープンソースのメールソフト「Thunderbird」の最新版、v159.0が10月27日にリリースされた。 — 窓の杜 / score: 85 (Thunderbirdの多数の脆弱性修正リリース)</description>
-</item>
-<item>
-<title>[85] Mozilla、「Firefox 159」を正式リリース ～167件の脆弱性を修正／「タブ検索」が追加、開いているタブを［Ctrl］＋［Shift］＋［A］キーで検索可能に</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2151722.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2151722.html</guid>
-<pubDate>Wed, 28 Oct 2026 01:10:31 +0000</pubDate>
-<category>窓の杜</category>
-<description>Mozillaは10月27日（米国時間）、デスクトップ向け「Firefox」の最新版v159.0をリリースチャネルで公開した。「Firefox 158」に続くメジャーバージョンアップとなる。 — 窓の杜 / score: 85 (Firefox 159のリリースと多数の脆弱性修正)</description>
 </item>
 <item>
 <title>[85] Amazon Corretto October 2026 Patch Updates</title>
@@ -471,14 +479,6 @@
 <description>脆弱性ポータルサイト「JVN」は11月2日、脆弱性レポート「JVN#23328936」を公開した。ALCPUが提供するハードウェア情報の取得ツール「Core Temp」v1.21より前のバージョンに脆弱性（CVE-2026-109836）があるという。 — 窓の杜 / score: 80 (Core Tempのカーネルドライバーに関する脆弱性)</description>
 </item>
 <item>
-<title>[80] 盗んだ個人情報をAIに分析させて被害者の「金銭的価値」を格付けするマルウェアが発見される</title>
-<link>https://gigazine.net/news/20261102-ai-model-driven-victim-prioritization/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261102-ai-model-driven-victim-prioritization/</guid>
-<pubDate>Mon, 02 Nov 2026 05:40:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>セキュリティ企業Ciscoの脅威分析部門であるCisco Talosが、パスワードやクレジットカード情報などを盗み出した後にAIを使って被害者の金銭的な価値を評価するマルウェア「VOLTA-AUTODOXER」を発見したと報告しました。VOLTAは盗んだ情報をAIに分析させることで攻撃者が優先的に狙うべき被害者を判断できるように設計されているとのことです。 続きを読む... — GIGAZINE / score: 80 (AIを悪用した新型マルウェアの発見と脅威分析)</description>
-</item>
-<item>
 <title>[80] When the Kubernetes API went silent: A three-layer networking mystery</title>
 <link>https://cloud.google.com/blog/products/networking/the-three-layer-gke-network-mystery/</link>
 <guid isPermaLink="true">https://cloud.google.com/blog/products/networking/the-three-layer-gke-network-mystery/</guid>
@@ -543,12 +543,28 @@
 <description>Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source. — OpenAI News / score: 80 (AIによる脆弱性発見に対するグローバルな対応調整)</description>
 </item>
 <item>
+<title>[75] 人に言えない悩みまで…検索した言葉が知らない会社に筒抜けに。犯人はChrome拡張機能</title>
+<link>https://www.gizmodo.jp/article/2611-chrome-extension-search-privacy-leak/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-chrome-extension-search-privacy-leak/</guid>
+<pubDate>Wed, 04 Nov 2026 03:45:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>覗き見やめてください！ 人に言いにくい悩みも、検索なら気軽に調べられますよね。でも、何を検索したかが、知らない会社にも筒抜けになっていたとしたら？ 実際にあったんです。しかもたくさん。その原因になっていたのが、「PDF変換」や「取扱説明… — ギズモード・ジャパン / score: 75 (Chrome拡張機能による情報流出の注意喚起)</description>
+</item>
+<item>
 <title>[75] 「特定のAIモデルで出力が生成されたこと」を証明できる仕組み「FlashProve」をAnthropicが開発</title>
 <link>https://gigazine.net/news/20261104-anthropic-flashprove/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261104-anthropic-flashprove/</guid>
 <pubDate>Wed, 04 Nov 2026 02:07:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>AIの性能は日々向上しており、ユーザーが使えるAIモデルの種類は急増しています。しかし、ユーザー側から「宣伝されている通りのAIモデルが使われているのか」を確かめる方法は限られており、サービス側が低性能AIモデルをこっそり使っている可能性を排除できません。この状況を打破するべく、Anthropicが「特定のAIモデルで出力が生成されたこと」を証明できる仕組み「FlashProve」を開発しました。 続きを読む... — GIGAZINE / score: 75 (AnthropicのAI出力証明技術)</description>
+</item>
+<item>
+<title>[75] 「思い出すと震える」悪夢のランサムウェア攻撃、被害からの回復、そしてセキュリティ企業の立ち上げへ――その生々しい経緯をCyber Governance Labの達城利元社長が語る【Security Days Fall 2026】</title>
+<link>https://internet.watch.impress.co.jp/docs/event/2152285.html</link>
+<guid isPermaLink="true">https://internet.watch.impress.co.jp/docs/event/2152285.html</guid>
+<pubDate>Tue, 03 Nov 2026 23:11:56 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>「思い出すと震える」悪夢のランサムウェア攻撃、被害からの回復、そしてセキュリティ企業の立ち上げへ――その生々しい経緯をCyber Governance Labの達城利元社長が語る【Security Days Fall 2026】 — はてなブックマーク テクノロジー / score: 75 (ランサムウェア被害と事業回復のリアルな体験談)</description>
 </item>
 <item>
 <title>[75] GitHubが従来比180倍のスループット性能向上を実現へ、来年初頭に。AIエージェント時代に対応。GitHub Universe 2026</title>
@@ -605,14 +621,6 @@
 <pubDate>Mon, 02 Nov 2026 14:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>Written by: Christopher Romano, Codi Starks, Garrett Mahoney, John Wolfram, Josh Murchie, K Singh, Mathew Potaczek, Mike Lombardi, Rik Dolfing Introduction Mandiant responded to multiple incidents in 2026 in which threat actors hijacked enterprise access to Large Language Models (LLMs), a tactic known as "LLMJacking." Spanning a variety of cloud and LLM providers, these intrusions impacted organizations in North America, South America, and Asia Pacific across the financial services, retail, tech — Google Cloud Blog / score: 75 (クラウドとAIモデルを狙う脅威LLMJackingの解説)</description>
-</item>
-<item>
-<title>[75] 仮想通貨取引所のBinanceが盗まれた9900億円相当の仮想通貨の90％を既に補填済みと発表</title>
-<link>https://gigazine.net/news/20261102-binance-replenished/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261102-binance-replenished/</guid>
-<pubDate>Mon, 02 Nov 2026 05:15:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>世界最大級の仮想通貨取引所であるBinanceは2026年10月30日、攻撃者がサービスコンテナにアクセスして、総額約63億ドル(約9900億円)が不正に出金された可能性があると明かしました。Binanceは10月31日には「資金の90％が既に補充されており、残りの10％についても補塡(ほてん)する予定」と述べ、一時停止されていた出金も再開していることを発表しています。 続きを読む... — GIGAZINE / score: 75 (大規模な仮想通貨流出事件と迅速な補填対応のニュース)</description>
 </item>
 <item>
 <title>[75] Googleの圧縮形式「Brotli」の脆弱性に注目集まる、Web関連に幅広く影響 ～窓の杜アクセスランキング［2026/10/26～2026/11/1]【記事アクセスランキング】</title>
@@ -797,14 +805,6 @@
 <pubDate>Sat, 24 Oct 2026 07:18:29 +0000</pubDate>
 <category>Latent Space</category>
 <description>2 months ago we covered Z.ai CEO Prof Jie Tang’s prediction that we’d get a Fable-class open weights model by year end . 2 weeks ago Meta achieved a Fable-class model in closed source , but, with 2.5 months left to go, we finally got it - a 2.8T open weights model beating Fable 5.1, not just Fable 5, at that: View post on X ↗ with even better efficiency: View post on X ↗ You can tell Kimi is proud of their latest model by how fancy their landing page is: As usual we don’t get much research detai — Latent Space / score: 75 (オープンAIモデルの性能向上とリリース)</description>
-</item>
-<item>
-<title>[75] Securing our frontier model training environment</title>
-<link>https://openai.com/index/securing-our-frontier-model-training-environment</link>
-<guid isPermaLink="true">https://openai.com/index/securing-our-frontier-model-training-environment</guid>
-<pubDate>Fri, 23 Oct 2026 10:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming. — OpenAI News / score: 75 (AI最先端モデルのセキュリティ強化に関する解説。)</description>
 </item>
 </channel>
 </rss>
