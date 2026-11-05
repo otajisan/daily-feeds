@@ -4,8 +4,16 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 05 Nov 2026 06:11:03 +0000</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 08:09:30 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>[95] OpenAI、Linuxカーネルを最新セキュリティAIモデルで調査、ローカル権限昇格の脆弱性948件を実証 ―エクスプロイト、パッチまで生成</title>
+<link>https://gihyo.jp/article/2026/11/openai-linux-vulnerabilitiy-investigation?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/11/openai-linux-vulnerabilitiy-investigation?utm_source=feed</guid>
+<pubDate>Thu, 05 Nov 2026 06:53:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>OpenAIは2026年11月4日、開発中のサイバーセキュリティ向けAIモデルを活用し、Linuxカーネルの脆弱性をエージェントが自律的に発見し検証した結果を発表した。 — gihyo.jp / score: 95 (AIによるLinuxカーネルの脆弱性大量発見と実証の画期的なニュース)</description>
+</item>
 <item>
 <title>[95] Node.js、26.x/24.x/22.x向けセキュリティリリースを11月11日に公開予定</title>
 <link>https://codezine.jp/article/detail/30240</link>
@@ -39,6 +47,14 @@
 <description>Five expedited security releases to distrust the compromised eMudhra intermediate CA keys. — Python Insider / score: 95 (証明書漏洩対応のためのPython複数バージョンの緊急修正)</description>
 </item>
 <item>
+<title>[90] 「勝利の女神：NIKKE」のPCランチャー経由の不正プログラム配布についてまとめてみた - piyolog</title>
+<link>https://piyolog.hatenadiary.jp/entry/2026/11/05/133509</link>
+<guid isPermaLink="true">https://piyolog.hatenadiary.jp/entry/2026/11/05/133509</guid>
+<pubDate>Thu, 05 Nov 2026 04:48:15 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>2026年11月5日、Level Infiniteは「勝利の女神：NIKKE」のPCランチャーの一部ファイルが第三者に改ざんされ、起動時に不正プログラムが実行される可能性があったと公表しました。ここでは関連する情報をまとめます。 公式CDNのスクリプト4件を改ざん 「勝利の女神：NIKKE」はSHIFT UPが開発し、Level Infiniteが配信して... — はてなブックマーク テクノロジー / score: 90 (PCランチャー改ざんによる不正プログラム配布の緊急インシデント)</description>
+</item>
+<item>
 <title>[90] ドコモに不正アクセスの可能性 オンラインサービス停止 | NHKニュース</title>
 <link>https://news.web.nhk/newsweb/na/nd-20261105de70776</link>
 <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261105de70776</guid>
@@ -55,28 +71,12 @@
 <description>Googleの脅威インテリジェンスグループが、日本の警察庁やセキュリティ企業のLumenなどと連携して「x.cpe」と呼ばれる大規模なボットネットを停止させたと発表しました。Googleは中国企業が意図的にバックドアを仕込んだと判断しています。 続きを読む... — GIGAZINE / score: 90 (130万台規模のAndroidボットネット解体)</description>
 </item>
 <item>
-<title>[90] 家庭のＩｏＴ機器１３０万台をサイバー攻撃の中継地点に悪用、指令サーバーを無効化…警察庁・グーグル</title>
-<link>https://www.yomiuri.co.jp/national/20261105-GYT1T00091/</link>
-<guid isPermaLink="true">https://www.yomiuri.co.jp/national/20261105-GYT1T00091/</guid>
-<pubDate>Thu, 05 Nov 2026 01:46:37 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>【読売新聞】 警察庁は４日、米グーグル社と連携し、「家庭用ＩｏＴ機器」をサイバー攻撃の中継地点として悪用できるようにしていた指令サーバーを無効化したと発表した。中国の業者が機器の製造段階で不正なソフトウェアを仕込んでいたという。グー — はてなブックマーク テクノロジー / score: 90 (家庭用IoT機器のボットネット指令サーバー無効化)</description>
-</item>
-<item>
 <title>[90] メーカー自身がバックドアを仕込み、犯罪集団に“販売”　乗っ取られたTV用端末130万台超、Googleが遮断　日本の警察庁も参加</title>
 <link>https://www.itmedia.co.jp/pcuser/articles/2611/05/news045.html</link>
 <guid isPermaLink="true">https://www.itmedia.co.jp/pcuser/articles/2611/05/news045.html</guid>
 <pubDate>Wed, 04 Nov 2026 22:58:52 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>Googleの脅威分析チーム「Google Threat Intelligence Group」は11月2日（米国時間）、不正プログラム「XCPE」を、日本の警察庁や業界のパートナーと協力して無力化したと発表した。XCPEはTVにつないで動画配信サービスなどを楽しむための「セットトップボックス」130万台超を乗っ取っていた。驚くべきは、不正プログラ... — はてなブックマーク テクノロジー / score: 90 (130万台超のデバイス乗っ取りとバックドア発覚の重大な脅威。)</description>
-</item>
-<item>
-<title>[90] タップしなくてもスマホ乗っ取られるかも。Androidの11月更新で重大な脆弱性を修正</title>
-<link>https://www.gizmodo.jp/article/2611-android-nov-security-update-vulnerability/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-android-nov-security-update-vulnerability/</guid>
-<pubDate>Wed, 04 Nov 2026 13:30:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>Androidの11月セキュリティ更新で重大な脆弱性を修正。タップ不要で攻撃を受けるおそれがあるため、設定画面からアップデートの適用状況を確認しましょう。 — ギズモード・ジャパン / score: 90 (Androidの重大な脆弱性修正に関する緊急の注意喚起)</description>
 </item>
 <item>
 <title>[90] 無印良品「MUJIアプリ」情報流出は2726万件に、セゾン発行「MUJI Card」全桁も対象</title>
@@ -143,6 +143,22 @@
 <description>米Microsoftは10月30日（現地時間、以下同）、この2週間ほどで相次いで明らかになった3つのセキュリティ問題について、公式ブログ「MSRC」で対応を呼びかけた。いずれもMicrosoft製品に由来する脆弱性ではないが、Microsoftのサービスやユーザーの「Azure」環境で動くソフトウェアにも組み込まれていることが多いため、Microsoftとユーザーの双方で対応が必要だとしている。 — 窓の杜 / score: 88 (Microsoftが注意を呼びかける重要脆弱性と対応要請)</description>
 </item>
 <item>
+<title>[85] Claude Codeのサブエージェントが進化。一部のコストを99%カット</title>
+<link>https://www.gizmodo.jp/article/2611-claude-code-subagents-cost-reduction/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-claude-code-subagents-cost-reduction/</guid>
+<pubDate>Thu, 05 Nov 2026 07:20:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>コスパよくなったって。2026年11月5日、Anthropicが「Claude Codeのサブエージェント、利用量を今まで食わないようにしたよ」とXで投稿しています。サブエージェントは、エージェントが必要に応じて起動し、作業を割り当てる部下… — ギズモード・ジャパン / score: 85 (Claude Codeのコスト削減に関わる重要ニュース)</description>
+</item>
+<item>
+<title>[85] ドコモで不正アクセスか　5日午前1時すぎから緊急メンテナンス　オンラインサービス一部を停止　復旧のめど立たず（テレビ朝日系（ANN）） - Yahoo!ニュース</title>
+<link>https://news.yahoo.co.jp/articles/dba2b8b66a6501211b96b8d2d3a1f75051bc122d</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/articles/dba2b8b66a6501211b96b8d2d3a1f75051bc122d</guid>
+<pubDate>Thu, 05 Nov 2026 05:55:44 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>NTTドコモは、不正アクセスを受けた可能性が高いとして、オンラインのサービスの一部を停止しました。 復旧のめどはたっていません。 【詳しく】不正アクセス 関連情報まとめ テレ朝NEWSNTTドコモによりますと、午前1時過ぎから、オンラインショップや契約情報の変更などがインターネット上でできる「mydocomo（マイ・ド... — はてなブックマーク テクノロジー / score: 85 (大手キャリアでの不正アクセスと大規模なサービス停止)</description>
+</item>
+<item>
 <title>[85] NTTドコモ、全国で障害が発生中 ｰ 5G SAの音声通話やデータ通信がしづらい状況</title>
 <link>https://taisy0.com/2026/11/05/230003.html</link>
 <guid isPermaLink="true">https://taisy0.com/2026/11/05/230003.html</guid>
@@ -159,44 +175,12 @@
 <description>Discordのデスクトップ版およびモバイル版のクライアントを、Rustベースのネイティブアプリケーションとして刷新する方針が明かされた。 Discordの共同創業者兼CTOであるStanislav Vishnevskiy氏は11月5日、Discordのデスクトップ版およびモバイル版のクライアントを、Rustベースのネイティブアプリケーションとして刷新... — はてなブックマーク テクノロジー / score: 85 (DiscordがRustでアプリを全面刷新する大型事例)</description>
 </item>
 <item>
-<title>[85] NTTドコモで通信障害　全国で通話・SMS・データ通信利用しづらく</title>
-<link>https://ascii.jp/elem/000/004/448/4448769/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/448/4448769/?rss</guid>
-<pubDate>Thu, 05 Nov 2026 04:40:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>NTTドコモの携帯電話サービスでは11月5日13時現在、全国で音声通話、データ通信、SMSが利用しづらい状況となっている。 — ASCII.jp / score: 85 (ドコモの通信障害速報)</description>
-</item>
-<item>
-<title>[85] ドコモ携帯 全国で障害が発生</title>
-<link>https://news.yahoo.co.jp/pickup/6601414?source=rss</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6601414?source=rss</guid>
-<pubDate>Thu, 05 Nov 2026 04:13:44 +0000</pubDate>
-<category>Yahoo!ニュース IT</category>
-<description> — Yahoo!ニュース IT / score: 85 (大手キャリアの大規模通信障害)</description>
-</item>
-<item>
-<title>[85] GMOグループへの大規模サイバー攻撃、銀行への影響は？　GMOあおぞらネット銀行が回答</title>
-<link>https://ascii.jp/elem/000/004/448/4448723/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/448/4448723/?rss</guid>
-<pubDate>Thu, 05 Nov 2026 03:15:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>GMOあおぞらネット銀行は11月4日、グループ会社へのサイバー攻撃に関する質問への回答を公開した。 — ASCII.jp / score: 85 (大規模サイバー攻撃の影響と対応)</description>
-</item>
-<item>
 <title>[85] Django 6.1.3/6.0.10/5.2.19公開、SSRFなど6件の脆弱性を修正</title>
 <link>https://codezine.jp/article/detail/30242</link>
 <guid isPermaLink="true">https://codezine.jp/article/detail/30242</guid>
 <pubDate>Thu, 05 Nov 2026 01:00:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 85 (Djangoの複数脆弱性を修正する重要なアップデート。)</description>
-</item>
-<item>
-<title>[85] 仏血液センターの冷蔵設備にサイバー攻撃　温度設定を不正変更、血液製剤への被害は回避</title>
-<link>https://www.itmedia.co.jp/news/article/2611/05/2000002890/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/05/2000002890/</guid>
-<pubDate>Thu, 05 Nov 2026 00:55:08 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>フランスの公的血液事業機関「フランス血液機構」（Établissement français du sang、EFS）は11月3日（現地時間）、冷蔵設備を管理する委託業者がサイバー攻撃を受け、EFSの3施設にある冷蔵室の温度制御システムに異常が発生したと発表した。血液製剤などへの被害はなかったという。 攻撃が発生したのは11月2日。EFS自体... — はてなブックマーク テクノロジー / score: 85 (重要インフラの冷暖房設備を標的としたサイバー攻撃)</description>
 </item>
 <item>
 <title>[85] 「OpenSSL 4.1」が公開、メディア配信などに適した暗号化プロトコル「DTLS 1.3」に対応／2027年11月23日までサポートされるレギュラーリリース</title>
@@ -399,12 +383,28 @@
 <description>AWS Continuum for code vulnerabilities is a new security service that uses AI to automatically find, validate, and prioritize code vulnerabilities in your environment, then delivers ready-to-review fixes as pull requests replacing what previously took hours of manual investigation and days of cross-team coordination. — AWS News Blog / score: 85 (AIを活用したAWSのコード脆弱性検出サービス)</description>
 </item>
 <item>
+<title>[80] 「LibreOffice」にヒープバッファーオーバーフローの脆弱性、v26.2.6/26.8.1で修正済み／Anthropicがエージェントを使ったオープンソースのセキュリティ調査で発見</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2153899.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2153899.html</guid>
+<pubDate>Thu, 05 Nov 2026 07:17:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>The Document Foundationは11月5日、オープンソースのオフィスソフト「LibreOffice」で1件の脆弱性を修正したと発表した。本脆弱性はAnthropicがエージェントを使ってオープンソースプロジェクトのセキュリティを調査するなかで「Claude」が発見し、Ada Logics社が検証・報告したもの。「TrendAI Zero Day Initiative」と協力する匿名の研究者からも報告されている。 — 窓の杜 / score: 80 (LibreOfficeのヒープバッファーオーバーフロー脆弱性修正)</description>
+</item>
+<item>
+<title>[80] GitHub Actions、pull_request_targetを12月2日から既定でブロック</title>
+<link>https://codezine.jp/article/detail/30246</link>
+<guid isPermaLink="true">https://codezine.jp/article/detail/30246</guid>
+<pubDate>Thu, 05 Nov 2026 07:00:00 +0000</pubDate>
+<category>CodeZine</category>
+<description> — CodeZine / score: 80 (GitHub Actionsのセキュリティ仕様変更に関する重要なお知らせ)</description>
+</item>
+<item>
 <title>[80] Bluetoothの通信速度を約4倍に引き上げる「Bluetooth HDT」が正式採用される、2027年にはロスレス音声対応製品が登場へ</title>
 <link>https://gigazine.net/news/20261105-bluetooth-hdt/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261105-bluetooth-hdt/</guid>
-<pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>Bluetoothの規格策定を担う業界団体のBluetooth SIGが2026年11月4日、Bluetooth Low Energy(Bluetooth LE)の最大通信速度を従来の約4倍に引き上げる新技術「Bluetooth High Data Throughput(HDT)」を正式に採用したと発表しました。最大通信速度が従来の2Mbpsから7.5Mbpsに向上し、ロスレス音声やハイレゾ音声の伝送などが可能になると期待されています。 続きを読む... — GIGAZINE / score: 80 (Bluetooth通信速度を4倍にする新規格HDT採用)</description>
+<pubDate>Thu, 05 Nov 2026 06:09:27 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Bluetoothの規格策定を担う業界団体のBluetooth SIGが2026年11月4日、Bluetooth Low Energy(Bluetooth LE)の最大通信速度を従来の約4倍に引き上げる新技術「Bluetooth High Data Throughput(HDT)」を正式に採用したと発表しました。最大通信速度が従来の2Mbpsから7.5Mbpsに向上し、ロスレス音声やハイレゾ音声の伝送など... — はてなブックマーク テクノロジー / score: 80 (Bluetooth通信速度を4倍にする新規格HDT採用)</description>
 </item>
 <item>
 <title>[80] ホワイトハウスのネットワークで住宅用プロキシが検出される</title>
@@ -445,14 +445,6 @@
 <pubDate>Wed, 04 Nov 2026 06:13:13 +0000</pubDate>
 <category>Qiita 人気記事</category>
 <description>はじめに 2026年10月は、パッチが化けて出た月でした。 最終週だけを切り取っても、CISAはPHPの脆弱性2件（通称「PHP2Shell」）を悪用確認済みカタログ（KEV）に追加しました。Firefox 159は、1つのアドバイザリで167件のCVE（公開された脆弱... — Qiita 人気記事 / score: 80 (多数の脆弱性とパッチに関する技術トレンド)</description>
-</item>
-<item>
-<title>[80] GitHub Universe2026 全アップデートおさらい</title>
-<link>https://zenn.dev/microsoft/articles/github-universe-2026-all-updates</link>
-<guid isPermaLink="true">https://zenn.dev/microsoft/articles/github-universe-2026-all-updates</guid>
-<pubDate>Wed, 04 Nov 2026 01:49:46 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>サンフランシスコで開催されたGitHub Universe 2026では、GitHub Copilotの新機能から、エージェントの活用を支える開発基盤、セキュリティ、組織での運用まで、幅広い発表がありました。 この記事では、GitHub ChangelogのUniverse 2026ラベルに掲載された35件のアップデートを、カテゴリごとにおさらいします。各項目... — はてなブックマーク テクノロジー / score: 80 (GitHub Universeでの多数の新機能アップデート)</description>
 </item>
 <item>
 <title>[80] 1兆円盗難 バイナンスが手口公表</title>
@@ -527,6 +519,14 @@
 <description>Anthropicは2026年10月21日、パーソナルAIアシスタントClaude Duetのリサーチプレビューを発表した。利用者の対応が必要なことを自ら知らせるエージェントとして動作する。 — gihyo.jp / score: 80 (Anthropicの新しいAIエージェント発表)</description>
 </item>
 <item>
+<title>[75] ドコモ障害「5G SA」のみで発生</title>
+<link>https://news.yahoo.co.jp/pickup/6601432?source=rss</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6601432?source=rss</guid>
+<pubDate>Thu, 05 Nov 2026 07:35:19 +0000</pubDate>
+<category>Yahoo!ニュース IT</category>
+<description> — Yahoo!ニュース IT / score: 75 (ドコモの通信障害における技術的発生原因の報道)</description>
+</item>
+<item>
 <title>[75] 2027年に押さえる技術トレンド10項目をGartnerが発表。AIコンテキスト基盤や使い捨てアプリなど</title>
 <link>https://codezine.jp/article/detail/30251</link>
 <guid isPermaLink="true">https://codezine.jp/article/detail/30251</guid>
@@ -562,9 +562,9 @@
 <title>[75] 国産日本語翻訳AI「PLaMo 3 Translate」の4モデルをPFNが無料公開、スマホ上のローカル動作でも爆速＆高精度の日本語翻訳が可能になったので試してみた</title>
 <link>https://gigazine.net/news/20261105-plamo-3-translate-open-weight/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261105-plamo-3-translate-open-weight/</guid>
-<pubDate>Thu, 05 Nov 2026 03:31:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>AI開発企業のPreferred Networks(PFN)が2026年11月5日、翻訳に特化した大規模言語モデル「PLaMo 3 Translate」のモデルウェイトを公開しました。8億から310億パラメータまで4種類のモデルが用意されており、最小モデルでも既存の大規模な翻訳AIを上回る性能を発揮するとされています。スマートフォンやPCでインターネットに接続せずに翻訳できるほか、条件を満たせば商用利用も可能です。 続きを読む... — GIGAZINE / score: 75 (PFNによる国産翻訳特化AIモデルの公開)</description>
+<pubDate>Thu, 05 Nov 2026 03:37:25 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>AI開発企業のPreferred Networks(PFN)が2026年11月5日、翻訳に特化した大規模言語モデル「PLaMo 3 Translate」のモデルウェイトを公開しました。8億から310億パラメータまで4種類のモデルが用意されており、最小モデルでも既存の大規模な翻訳AIを上回る性能を発揮するとされています。スマートフォンやPCでインターネッ... — はてなブックマーク テクノロジー / score: 75 (PFNによる国産翻訳特化AIモデルの公開)</description>
 </item>
 <item>
 <title>[75] 中国・Tencentが高性能AIモデル「Hy4」を発表、オープンモデルとして公開することを約束</title>
@@ -613,14 +613,6 @@
 <pubDate>Wed, 04 Nov 2026 08:20:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>Revolut(レボリュート)は銀行サービスや送金、決済などを提供するイギリスの金融テクノロジー企業です。同社のAI運用・インフラ部門を率いるデビッド・アビトボル氏が、2026年10月に開催された開発者向けイベント「AI Engineer NYC 2026」でAIの運用コストを約10分の1に削減した取り組みを紹介しました。 続きを読む... — GIGAZINE / score: 75 (商用AIから自社運用への切り替えでコストを大幅削減した事例)</description>
-</item>
-<item>
-<title>[75] OpenAIがGitで超大規模リポジトリを運用するためのバックエンド「Pando」を開発</title>
-<link>https://gigazine.net/news/20261104-openai-git-pando/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261104-openai-git-pando/</guid>
-<pubDate>Wed, 04 Nov 2026 04:31:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>OpenAIがバージョン管理システム「Git」を大規模モノレポに対応させるための社内バックエンド「Pando」を開発したことを発表しました。 続きを読む... — GIGAZINE / score: 75 (OpenAIによる大規模Gitリポジトリ用バックエンド開発)</description>
 </item>
 <item>
 <title>[75] Introducing Images 2.6</title>
@@ -805,6 +797,14 @@
 <pubDate>Mon, 26 Oct 2026 23:53:07 +0000</pubDate>
 <category>Simon Willison</category>
 <description>GPT-6.1 Terra It's always interesting to note which aspects of a new model are emphasized in the release announcement. In the case of GPT-6.1 Terra, OpenAI went with visual reasoning and computer use: We’re introducing GPT-6.1 Terra , a fast, efficient model that combines detailed visual reasoning and precise computer use alongside clearer, more natural writing. A significant step up from GPT‑5.6 Terra, it excels at the communication and computer-based tasks that fill the workday, from drafting  — Simon Willison / score: 75 (GPT-6.1 Terraの機能とビジュアル推論の解説)</description>
+</item>
+<item>
+<title>[75] Greptile takes bug detection beyond code review with GPT-6 Astra</title>
+<link>https://openai.com/index/greptile-code-review-codex-astra</link>
+<guid isPermaLink="true">https://openai.com/index/greptile-code-review-codex-astra</guid>
+<pubDate>Mon, 26 Oct 2026 22:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework. — OpenAI News / score: 75 (GPT-6 Astraを活用したバグ検出の事例)</description>
 </item>
 </channel>
 </rss>
