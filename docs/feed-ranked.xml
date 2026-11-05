@@ -4,8 +4,16 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 04 Nov 2026 22:06:02 +0000</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 00:16:07 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>[95] Node.js、26.x/24.x/22.x向けセキュリティリリースを11月11日に公開予定</title>
+<link>https://codezine.jp/article/detail/30240</link>
+<guid isPermaLink="true">https://codezine.jp/article/detail/30240</guid>
+<pubDate>Wed, 04 Nov 2026 23:00:00 +0000</pubDate>
+<category>CodeZine</category>
+<description> — CodeZine / score: 95 (Node.jsの複数バージョン向けセキュリティリリース予告)</description>
+</item>
 <item>
 <title>[95] 「Cursor」の拡張機能ストアに「Claude Code」の改竄版、SSHバックドアの設置を試みる／最大5,000ユーザーに影響、アンインストールだけでは不十分な場合も</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2152916.html</link>
@@ -39,6 +47,14 @@
 <description>Androidの11月セキュリティ更新で重大な脆弱性を修正。タップ不要で攻撃を受けるおそれがあるため、設定画面からアップデートの適用状況を確認しましょう。 — ギズモード・ジャパン / score: 90 (Androidの重大な脆弱性修正に関する緊急の注意喚起)</description>
 </item>
 <item>
+<title>[90] 無印良品「MUJIアプリ」情報流出は2726万件に、セゾン発行「MUJI Card」全桁も対象</title>
+<link>https://k-tai.watch.impress.co.jp/docs/news/2153688.html</link>
+<guid isPermaLink="true">https://k-tai.watch.impress.co.jp/docs/news/2153688.html</guid>
+<pubDate>Wed, 04 Nov 2026 10:39:08 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>無印良品「MUJIアプリ」情報流出は2726万件に、セゾン発行「MUJI Card」全桁も対象 — はてなブックマーク テクノロジー / score: 90 (大規模な個人情報流出・クレジットカード番号漏洩事案)</description>
+</item>
+<item>
 <title>[90] PCの乗っ取りを狙うClaude Code拡張、発見される。削除だけでは対策不十分</title>
 <link>https://www.gizmodo.jp/article/2611-claude-code-extension-security-incident/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/2611-claude-code-extension-security-incident/</guid>
@@ -47,20 +63,20 @@
 <description>Cursorのストアで発見された改変版Claude Code拡張機能による不正コードの仕組みと、拡張機能削除だけでは不十分な場合の具体的な対策を解説します。 — ギズモード・ジャパン / score: 90 (開発者ツールを狙った悪意ある拡張機能の深刻なセキュリティ問題)</description>
 </item>
 <item>
-<title>[90] 無印良品、クレカ「MUJI Card」カード番号全ケタ、約109万件漏えいか　不正アクセスで続報</title>
-<link>https://www.itmedia.co.jp/news/article/2611/04/2000002885/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/04/2000002885/</guid>
-<pubDate>Wed, 04 Nov 2026 09:59:35 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>「無印良品」を展開する良品計画（東京都文京区）は11月4日、10月30日に公表した公式アプリ「MUJIアプリ」への不正アクセスについて、当初は対象外としていたクレジットカード情報や氏名、住所なども外部からアクセスされた可能性があると発表した。新たに判明した対象には、クレジットカード「MUJI Card」のカード番号... — はてなブックマーク テクノロジー / score: 90 (無印良品のアプリとクレカ情報の重大な流出)</description>
-</item>
-<item>
 <title>[90] 良品計画 クレカ番号の全桁 約109万件が漏えいのおそれ | NHKニュース</title>
 <link>https://news.web.nhk/newsweb/na/nd-20261104de70494</link>
 <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261104de70494</guid>
 <pubDate>Wed, 04 Nov 2026 09:17:59 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>「無印良品」を展開する良品計画は、不正アクセスを受けて、クレジットカード番号の全桁、およそ109万件が漏えいしたおそれがあると発表しました。 この中には、すでに期限切れとなっているカードも多く含ま… — はてなブックマーク テクノロジー / score: 90 (大規模なクレカ情報漏えいのおそれ)</description>
+</item>
+<item>
+<title>[90] A thousand fewer paths to root</title>
+<link>https://openai.com/index/a-thousand-fewer-paths-to-root</link>
+<guid isPermaLink="true">https://openai.com/index/a-thousand-fewer-paths-to-root</guid>
+<pubDate>Wed, 04 Nov 2026 08:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel. — OpenAI News / score: 90 (AIによるLinuxカーネル脆弱性の自動パッチ生成)</description>
 </item>
 <item>
 <title>[90] 仮想通貨取引所Binanceから約1兆円が盗まれた事件は偽面接経由でマルウェアを送り込まれたのがきっかけだったことが判明</title>
@@ -85,14 +101,6 @@
 <pubDate>Tue, 03 Nov 2026 18:00:00 +0000</pubDate>
 <category>Next.js Blog</category>
 <description>The November 2026 security release for Next.js is now available — Next.js Blog / score: 90 (重要フレームワークの緊急セキュリティアップデート)</description>
-</item>
-<item>
-<title>[90] Cursorの拡張機能マーケットプレイスで悪意あるClaude Code拡張機能を確認</title>
-<link>https://codezine.jp/article/detail/30201</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/30201</guid>
-<pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 90 (開発ツール拡張機能のサプライチェーン攻撃リスク)</description>
 </item>
 <item>
 <title>[90] Shutting the Door on the XCPE Botnet</title>
@@ -143,6 +151,22 @@
 <description>米Microsoftは10月30日（現地時間、以下同）、この2週間ほどで相次いで明らかになった3つのセキュリティ問題について、公式ブログ「MSRC」で対応を呼びかけた。いずれもMicrosoft製品に由来する脆弱性ではないが、Microsoftのサービスやユーザーの「Azure」環境で動くソフトウェアにも組み込まれていることが多いため、Microsoftとユーザーの双方で対応が必要だとしている。 — 窓の杜 / score: 88 (Microsoftが注意を呼びかける重要脆弱性と対応要請)</description>
 </item>
 <item>
+<title>[85] 「OpenSSL 4.1」が公開、メディア配信などに適した暗号化プロトコル「DTLS 1.3」に対応／2027年11月23日までサポートされるレギュラーリリース</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2153758.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2153758.html</guid>
+<pubDate>Wed, 04 Nov 2026 23:55:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>「OpenSSL」の開発チームは10月23日（協定世界時）、「OpenSSL 4.1」をリリースした。13カ月サポートされるレギュラーリリース（regular release）で、2027年11月23日までアップデートが提供される。 — 窓の杜 / score: 85 (OpenSSLのメジャーリリースとDTLS 1.3対応)</description>
+</item>
+<item>
+<title>[85] 配送プラットフォーム「ピックゴー」に不正アクセス、導入法人の顧客と配送ドライバーの情報が流出の可能性　7NOW、出前館が影響を発表</title>
+<link>https://internet.watch.impress.co.jp/docs/news/2153737.html</link>
+<guid isPermaLink="true">https://internet.watch.impress.co.jp/docs/news/2153737.html</guid>
+<pubDate>Wed, 04 Nov 2026 22:35:39 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>配送プラットフォーム「ピックゴー」に不正アクセス、導入法人の顧客と配送ドライバーの情報が流出の可能性 7NOW、出前館が影響を発表 — はてなブックマーク テクノロジー / score: 85 (配送プラットフォーム等の複数サービスに及ぶ情報流出)</description>
+</item>
+<item>
 <title>[85] 10月のハッキングの嵐に名前がつきました。その名も「ブラック・オクトーバー」</title>
 <link>https://www.gizmodo.jp/article/2611-black-october-cyber-security-2026/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/2611-black-october-cyber-security-2026/</guid>
@@ -159,22 +183,6 @@
 <description>中国の端末メーカーが製造したAndroid端末に、遠隔から操作できるバックドアを仕込み、そのアクセス権を犯罪者らに販売していた――米Googleは11月3日（現地時間）、Android TV端末など130万台超に不正ソフトが組み込まれ、広告詐欺や不正な通信の中継などに悪用されていたと発表した。 関与を指摘されたのは、中国のOEM／... — はてなブックマーク テクノロジー / score: 85 (Android端末のバックドア問題)</description>
 </item>
 <item>
-<title>[85] 「無印良品」カード番号全桁も流出か　約109万件　調査で新たに判明（テレビ朝日系（ANN）） - Yahoo!ニュース</title>
-<link>https://news.yahoo.co.jp/articles/b6e64f561e159b8d879512f49d4f3641b50e031a</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/articles/b6e64f561e159b8d879512f49d4f3641b50e031a</guid>
-<pubDate>Wed, 04 Nov 2026 10:01:16 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>テレ朝NEWS「無印良品」で新たにクレジットカード会員のカード番号などおよそ109万件も、流出の可能性が明らかになりました。 【詳しく】不正アクセス 関連情報まとめ 運営する良品計画によりますと、流出した可能性があるのは、2021年7月までにクレジットカード「MUJICard」の会員に登録した顧客のカード番号の全ての桁... — はてなブックマーク テクノロジー / score: 85 (無印良品の大規模な情報漏えいとカード流出)</description>
-</item>
-<item>
-<title>[85] MUJI Card 会員情報の流出の可能性に関するお知らせとお詫び | クレジットカードはセゾンカード</title>
-<link>https://www.saisoncard.co.jp/customer-support/information/20261104/</link>
-<guid isPermaLink="true">https://www.saisoncard.co.jp/customer-support/information/20261104/</guid>
-<pubDate>Wed, 04 Nov 2026 09:21:10 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>MUJI Card 会員情報の流出の可能性に関するお知らせとお詫び | クレジットカードはセゾンカード 【MileagePlusセゾンカード会員様限定】家族カード（ファミリーカード）の新規発行＆ご利用で最大9,000マイルプレゼント！ — はてなブックマーク テクノロジー / score: 85 (MUJI Card会員情報の流出可能性)</description>
-</item>
-<item>
 <title>[85] 【脆弱性ラッシュ】PHP2Shell・Brotli(HTTP2Shell)・Node・Chrome・Goが同時に来た週に、サーバーの「放置」が露呈した話</title>
 <link>https://qiita.com/ysmreg1/items/d9f14d2da0ad57303036?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
 <guid isPermaLink="true">https://qiita.com/ysmreg1/items/d9f14d2da0ad57303036?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
@@ -189,6 +197,22 @@
 <pubDate>Wed, 04 Nov 2026 05:57:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>Mozillaは11月3日（米国時間）、デスクトップ向け「Firefox」の最新版v159.0.1をリリースチャネルで公開した。以下の不具合に対処したマイナーアップデートとなっている。 — 窓の杜 / score: 85 (Firefoxの脆弱性修正を含むアップデート)</description>
+</item>
+<item>
+<title>[85] (PDF)【重要】デニーズアプリへの不正アクセスに関するお詫びとお知らせ（第一報）</title>
+<link>https://www.dennys.jp/pdf/261103.pdf</link>
+<guid isPermaLink="true">https://www.dennys.jp/pdf/261103.pdf</guid>
+<pubDate>Wed, 04 Nov 2026 05:08:50 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>(PDF)【重要】デニーズアプリへの不正アクセスに関するお詫びとお知らせ（第一報） — はてなブックマーク テクノロジー / score: 85 (企業のアプリへの不正アクセスと情報流出に関するお詫び)</description>
+</item>
+<item>
+<title>[85] 相次ぐWEBシステムからの情報漏洩事案について（第2報） | セキュリティ研究センターブログ</title>
+<link>https://security.macnica.co.jp/blog/2026/11/web-incidents2026-oct2.html</link>
+<guid isPermaLink="true">https://security.macnica.co.jp/blog/2026/11/web-incidents2026-oct2.html</guid>
+<pubDate>Wed, 04 Nov 2026 05:00:30 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>■記事概要 国内で相次ぐWEBシステムからの情報漏洩の状況をまとめ、第2報として公開します。 まず、前回の記事 の内容のサマリです。今年7月以降、WEBシステムからの情報漏洩が相次ぎ、被害がECサイトだけでなく、会員向けサービスや業務用システムなど、多種多様なサイトへ無差別的に広がり始めた状況をお伝えしました... — はてなブックマーク テクノロジー / score: 85 (国内で相次ぐWEBシステムからの情報漏洩の動向まとめ)</description>
 </item>
 <item>
 <title>[85] 「Google Chrome 157」が公開 ～213件の脆弱性を修正、新しいメニューデザインを展開／HTMLを「canvas」上に描画できる「HTML-in-canvas」をはじめとした開発者機能も</title>
@@ -375,30 +399,6 @@
 <description>AWS Continuum for code vulnerabilities is a new security service that uses AI to automatically find, validate, and prioritize code vulnerabilities in your environment, then delivers ready-to-review fixes as pull requests replacing what previously took hours of manual investigation and days of cross-team coordination. — AWS News Blog / score: 85 (AIを活用したAWSのコード脆弱性検出サービス)</description>
 </item>
 <item>
-<title>[80] セガ系に不正アクセス　ゲームセンター向けサービス停止　バンダイ系の「太鼓の達人」などにも影響</title>
-<link>https://www.itmedia.co.jp/news/article/2611/04/2000002870/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/04/2000002870/</guid>
-<pubDate>Wed, 04 Nov 2026 10:41:48 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>セガサミーホールディングス傘下のセガ フェイブ（東京都品川区）は11月2日、同社のサーバの一部が第三者による不正アクセスを受けたと発表した。11月1日午後3時から関連サービスを停止しており、一部アーケードゲームのオンラインサービスや「SEGA ID」の新規登録などが利用できない状態となっている。 影響を受けたの... — はてなブックマーク テクノロジー / score: 80 (セガ系サービスへの不正アクセスと障害)</description>
-</item>
-<item>
-<title>[80] デニーズアプリに不正アクセス　旧アプリ移行処理で認証情報を不正作成される　個人情報漏えいか</title>
-<link>https://www.itmedia.co.jp/news/article/2611/04/2000002878/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/04/2000002878/</guid>
-<pubDate>Wed, 04 Nov 2026 10:40:46 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>漏えいした可能性があるのは、旧デニーズアプリを利用していた一部の利用者の会員コード、メールアドレス、生年月日、性別、居住する都道府県、お気に入り店舗、キッズバースデー（子どもの誕生日）。 同社は氏名、住所、電話番号、パスワード、クレジットカード情報は保持していない。 現在確認できているのは10月7日の... — はてなブックマーク テクノロジー / score: 80 (デニーズアプリの不正アクセスと個人情報漏えい)</description>
-</item>
-<item>
-<title>[80] 無印良品、ネットストアなども情報漏えい　一部カード情報も</title>
-<link>https://www.watch.impress.co.jp/docs/news/2153690.html</link>
-<guid isPermaLink="true">https://www.watch.impress.co.jp/docs/news/2153690.html</guid>
-<pubDate>Wed, 04 Nov 2026 10:37:32 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>無印良品、ネットストアなども情報漏えい 一部カード情報も — はてなブックマーク テクノロジー / score: 80 (無印良品のネットストア情報漏えい続報)</description>
-</item>
-<item>
 <title>[80] 無印良品 クレカ番号など流出か</title>
 <link>https://news.yahoo.co.jp/pickup/6601331?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6601331?source=rss</guid>
@@ -487,28 +487,36 @@
 <description>Anthropicは2026年10月21日、パーソナルAIアシスタントClaude Duetのリサーチプレビューを発表した。利用者の対応が必要なことを自ら知らせるエージェントとして動作する。 — gihyo.jp / score: 80 (Anthropicの新しいAIエージェント発表)</description>
 </item>
 <item>
+<title>[75] Amazon EKS Auto Mode、Kubernetes Gateway APIをサポート</title>
+<link>https://codezine.jp/article/detail/30241</link>
+<guid isPermaLink="true">https://codezine.jp/article/detail/30241</guid>
+<pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+<category>CodeZine</category>
+<description> — CodeZine / score: 75 (Amazon EKS Auto Modeの新機能サポート)</description>
+</item>
+<item>
+<title>[75] Amazon S3 Tables now offer managed migration of Apache Hive tables to Apache Iceberg</title>
+<link>https://aws.amazon.com/blogs/aws/amazon-s3-tables-now-offer-managed-migration-of-apache-hive-tables-to-apache-iceberg/</link>
+<guid isPermaLink="true">https://aws.amazon.com/blogs/aws/amazon-s3-tables-now-offer-managed-migration-of-apache-hive-tables-to-apache-iceberg/</guid>
+<pubDate>Wed, 04 Nov 2026 23:34:52 +0000</pubDate>
+<category>AWS News Blog</category>
+<description>You can now migrate existing Apache Hive datasets in Amazon S3 to fully managed Apache Iceberg tables in Amazon S3 Tables, with no pipelines to build or compute to provision, while production workloads keep running. — AWS News Blog / score: 75 (Amazon S3のデータ移行機能の拡張)</description>
+</item>
+<item>
+<title>[75] AIデータセンター建設にブレーキ　テキサス州で反対派勝利、全米に波及 - 日本経済新聞</title>
+<link>https://www.nikkei.com/article/DGXZQOGN04BNW0U6A101C2000000/</link>
+<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOGN04BNW0U6A101C2000000/</guid>
+<pubDate>Wed, 04 Nov 2026 22:48:51 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>【米南部テキサス州オースティン=大平祐嗣】米国最大のデータセンター建設計画地である南部テキサス州の中間選挙で民主党が大勝した。民主の次期知事は法整備が整うまで建設禁止を明言する。延期の動きは他州にも波及し、米国の人工知能（AI）インフラ投資全体に急ブレーキがかかる見通しだ。「州民を優先し保護する法律... — はてなブックマーク テクノロジー / score: 75 (AIデータセンター建設反対の動きとインフラへの影響)</description>
+</item>
+<item>
 <title>[75] e-Taxに不審な通信 緊急メンテ</title>
 <link>https://news.yahoo.co.jp/pickup/6601361?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6601361?source=rss</guid>
 <pubDate>Wed, 04 Nov 2026 14:08:31 +0000</pubDate>
 <category>Yahoo!ニュース IT</category>
 <description> — Yahoo!ニュース IT / score: 75 (e-Taxの不審な通信と緊急メンテナンス)</description>
-</item>
-<item>
-<title>[75] 回線悪用のサーバー無害化　警察庁、米グーグルと連携 | NEWSjp</title>
-<link>https://news.jp/i/1490641855482659408</link>
-<guid isPermaLink="true">https://news.jp/i/1490641855482659408</guid>
-<pubDate>Wed, 04 Nov 2026 09:55:58 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>警察庁は4日、一般家庭のインターネット回線を悪用して、所有者が認識していないところでサイバー攻撃を仕掛ける「レジデンシャルプロキシ」と呼ばれる仕組みに利用されたサーバーなどをテイクダウン（無害化）したと発表した。米グーグルと連携した。 警察庁によると、2025年に発生したインターネットバンキングの不正... — はてなブックマーク テクノロジー / score: 75 (警察庁とGoogleによるサイバー攻撃インフラの無害化)</description>
-</item>
-<item>
-<title>[75] 無印良品の公式アプリの情報漏洩が、クレカの番号全桁などスケールが大きすぎるし、良品週間が終わったあとの報告にモヤモヤする</title>
-<link>https://togetter.com/li/2766561</link>
-<guid isPermaLink="true">https://togetter.com/li/2766561</guid>
-<pubDate>Wed, 04 Nov 2026 09:38:49 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>無印良品 @muji_net 【情報流出の可能性に関する追加のお知らせ】 無印良品の公式アプリ「MUJIアプリ」におけるお客さま情報流出の可能性について（第二報） 詳細は以下をご確認ください。 ryohin-keikaku.jp/news/articles/… お客さまをはじめ、関係する皆様にご心配をおかけしますことを、深くお詫び申し上げます。 20... — はてなブックマーク テクノロジー / score: 75 (情報漏洩インシデントへの考察と時系列)</description>
 </item>
 <item>
 <title>[75] OrcaRouterのサイバーセキュリティチーム、OrcaCyber、アブリテーション版モデル3種を公開・提供</title>
@@ -530,9 +538,9 @@
 <title>[75] OpenAIがGitで超大規模リポジトリを運用するためのバックエンド「Pando」を開発</title>
 <link>https://gigazine.net/news/20261104-openai-git-pando/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261104-openai-git-pando/</guid>
-<pubDate>Wed, 04 Nov 2026 04:33:36 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>OpenAIがバージョン管理システム「Git」を大規模モノレポに対応させるための社内バックエンド「Pando」を開発したことを発表しました。 OpenAI における Git のスケーリング | OpenAI https://openai.com/ja-JP/index/scaling-git-at-openai/ We built Pando, a new Git backend for our monorepo, to handle more pushe... — はてなブックマーク テクノロジー / score: 75 (OpenAIによる大規模Gitリポジトリ用バックエンド開発)</description>
+<pubDate>Wed, 04 Nov 2026 04:31:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>OpenAIがバージョン管理システム「Git」を大規模モノレポに対応させるための社内バックエンド「Pando」を開発したことを発表しました。 続きを読む... — GIGAZINE / score: 75 (OpenAIによる大規模Gitリポジトリ用バックエンド開発)</description>
 </item>
 <item>
 <title>[75] Apple、すべてのアプリがSiriに統合する機能を劇的に拡張する「Siri AI Developer Preview」を発表 | NEWS | Mac OTAKARA</title>
@@ -549,6 +557,14 @@
 <pubDate>Wed, 04 Nov 2026 02:07:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>AIの性能は日々向上しており、ユーザーが使えるAIモデルの種類は急増しています。しかし、ユーザー側から「宣伝されている通りのAIモデルが使われているのか」を確かめる方法は限られており、サービス側が低性能AIモデルをこっそり使っている可能性を排除できません。この状況を打破するべく、Anthropicが「特定のAIモデルで出力が生成されたこと」を証明できる仕組み「FlashProve」を開発しました。 続きを読む... — GIGAZINE / score: 75 (AnthropicのAI出力証明技術)</description>
+</item>
+<item>
+<title>[75] Introducing Images 2.6</title>
+<link>https://openai.com/index/introducing-images-2-6</link>
+<guid isPermaLink="true">https://openai.com/index/introducing-images-2-6</guid>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API. — OpenAI News / score: 75 (OpenAIの画像生成機能とAPIのアップデート)</description>
 </item>
 <item>
 <title>[75] GitHubが従来比180倍のスループット性能向上を実現へ、来年初頭に。AIエージェント時代に対応。GitHub Universe 2026</title>
@@ -789,22 +805,6 @@
 <pubDate>Fri, 23 Oct 2026 10:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming. — OpenAI News / score: 75 (AI最先端モデルのセキュリティ強化に関する解説。)</description>
-</item>
-<item>
-<title>[75] Build more responsive apps with the Decisions API</title>
-<link>https://openai.com/index/decisions-api</link>
-<guid isPermaLink="true">https://openai.com/index/decisions-api</guid>
-<pubDate>Thu, 22 Oct 2026 19:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>Fast, focused, low-cost decisions for any application. — OpenAI News / score: 75 (OpenAIによる新しいAPIの提供)</description>
-</item>
-<item>
-<title>[75] DuckDB 2.0.0リリース、サーバー機能を改善し非同期I/Oを導入</title>
-<link>https://gihyo.jp/article/2026/10/duckdb-2.0.0?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/10/duckdb-2.0.0?utm_source=feed</guid>
-<pubDate>Thu, 22 Oct 2026 02:44:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>DuckDBの開発チームは2026年10月21日、分析向けデータベースDuckDBのバージョン2.0.0をリリースした。 — gihyo.jp / score: 75 (DuckDB 2.0.0のメジャーリリース)</description>
 </item>
 </channel>
 </rss>
