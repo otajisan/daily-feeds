@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 05 Nov 2026 14:06:33 +0000</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 16:07:54 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] Chromeの脆弱性、「重大」含む213件を修正。タブ開きっぱなし勢は今すぐ再起動して</title>
@@ -58,7 +58,7 @@
 <title>[90] Linuxカーネルの深刻な脆弱性／FDEの名前で単なるコンサルティングが販売／TypeScriptをRustに移植した「tsrs」発表ほか、2026年10月の人気記事</title>
 <link>https://www.publickey1.jp/blog/26/linuxfdetypescriptrusttsrs202610.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/linuxfdetypescriptrusttsrs202610.html</guid>
-<pubDate>Thu, 05 Nov 2026 14:06:06 +0000</pubDate>
+<pubDate>Thu, 05 Nov 2026 15:37:44 +0000</pubDate>
 <category>Publickey</category>
 <description>2026年の9月から10月にかけては、タイムズカーから自動車免許証の画像を含む大規模な個人情報の漏洩があり、Linuxの深刻な脆弱性が発見され、PHPの脆弱について高市総理がXにポストするなど、ITの分野で社会的に大きな問題がありました。 ... — Publickey / score: 90 (Linuxカーネルの深刻な脆弱性と話題のまとめ)</description>
 </item>
@@ -85,14 +85,6 @@
 <pubDate>Thu, 05 Nov 2026 02:36:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>Googleの脅威インテリジェンスグループが、日本の警察庁やセキュリティ企業のLumenなどと連携して「x.cpe」と呼ばれる大規模なボットネットを停止させたと発表しました。Googleは中国企業が意図的にバックドアを仕込んだと判断しています。 続きを読む... — GIGAZINE / score: 90 (130万台規模のAndroidボットネット解体)</description>
-</item>
-<item>
-<title>[90] メーカー自身がバックドアを仕込み、犯罪集団に“販売”　乗っ取られたTV用端末130万台超、Googleが遮断　日本の警察庁も参加</title>
-<link>https://www.itmedia.co.jp/pcuser/articles/2611/05/news045.html</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/pcuser/articles/2611/05/news045.html</guid>
-<pubDate>Wed, 04 Nov 2026 22:58:52 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Googleの脅威分析チーム「Google Threat Intelligence Group」は11月2日（米国時間）、不正プログラム「XCPE」を、日本の警察庁や業界のパートナーと協力して無力化したと発表した。XCPEはTVにつないで動画配信サービスなどを楽しむための「セットトップボックス」130万台超を乗っ取っていた。驚くべきは、不正プログラ... — はてなブックマーク テクノロジー / score: 90 (130万台超のデバイス乗っ取りとバックドア発覚の重大な脅威。)</description>
 </item>
 <item>
 <title>[90] A thousand fewer paths to root</title>
@@ -151,6 +143,30 @@
 <description>米Microsoftは10月30日（現地時間、以下同）、この2週間ほどで相次いで明らかになった3つのセキュリティ問題について、公式ブログ「MSRC」で対応を呼びかけた。いずれもMicrosoft製品に由来する脆弱性ではないが、Microsoftのサービスやユーザーの「Azure」環境で動くソフトウェアにも組み込まれていることが多いため、Microsoftとユーザーの双方で対応が必要だとしている。 — 窓の杜 / score: 88 (Microsoftが注意を呼びかける重要脆弱性と対応要請)</description>
 </item>
 <item>
+<title>[85] *sshole · sshhole.com</title>
+<link>https://sshhole.com/</link>
+<guid isPermaLink="true">https://sshhole.com/</guid>
+<pubDate>Thu, 05 Nov 2026 12:50:42 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>*sshole so openssh on musl linux (alpine, openwrt, buildroot, yocto, and a lot of the docker images you've pulled) has had a little problem since 2016. accounts that should never take a password at all (root, your key-only deploy user, ldap users, the default user on alpine's aws and azure images... — はてなブックマーク テクノロジー / score: 85 (OpenSSHのmusl環境における深刻な脆弱性)</description>
+</item>
+<item>
+<title>[85] 総務省消防庁「安否情報システム」に不正アクセス、サービス停止中</title>
+<link>https://internet.watch.impress.co.jp/docs/news/2154132.html</link>
+<guid isPermaLink="true">https://internet.watch.impress.co.jp/docs/news/2154132.html</guid>
+<pubDate>Thu, 05 Nov 2026 12:42:57 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>総務省消防庁「安否情報システム」に不正アクセス、サービス停止中 — はてなブックマーク テクノロジー / score: 85 (政府系インフラの安否情報システムへの不正アクセス)</description>
+</item>
+<item>
+<title>[85] 総務省消防庁 「安否情報システム」への不正アクセス確認 | NHKニュース</title>
+<link>https://news.web.nhk/newsweb/na/nd-20261105de71235</link>
+<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261105de71235</guid>
+<pubDate>Thu, 05 Nov 2026 12:18:50 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>総務省消防庁は、武力攻撃を受けた際や災害時に住民の安否を共有するためのシステムで、不正アクセスが確認されたと発表しました。 不正アクセスを受けた際、システムに個人情報は残っていなかったとみられるとい… — はてなブックマーク テクノロジー / score: 85 (消防庁の安否情報システムに対する不正アクセスの報道)</description>
+</item>
+<item>
 <title>[85] 無印良品、約109万件のカード番号全桁が流出か</title>
 <link>https://ascii.jp/elem/000/004/448/4448975/?rss</link>
 <guid isPermaLink="true">https://ascii.jp/elem/000/004/448/4448975/?rss</guid>
@@ -181,6 +197,14 @@
 <pubDate>Thu, 05 Nov 2026 09:32:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>The Apache Software Foundation（ASF）は11月3日（協定世界時、以下同）、オープンソースのオフィス統合環境「Apache OpenOffice」の脆弱性情報を新たに12件公開した。いずれも10月14日に公開された「Apache OpenOffice 4.1.17」で修正済み。同バージョンで修正された脆弱性は、先行して公表されていた「CVE-2026-59265」（深刻度「Critical」）とあわせて13件となった。 — 窓の杜 / score: 85 (Apache OpenOfficeの複数脆弱性修正)</description>
+</item>
+<item>
+<title>[85] 「NIKKE」PCランチャー改ざん、9月27日以降の起動で不正プログラム侵入のおそれ</title>
+<link>https://pc.watch.impress.co.jp/docs/news/2153966.html</link>
+<guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2153966.html</guid>
+<pubDate>Thu, 05 Nov 2026 08:58:57 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>「NIKKE」PCランチャー改ざん、9月27日以降の起動で不正プログラム侵入のおそれ — はてなブックマーク テクノロジー / score: 85 (PCゲームランチャー改ざんと不正プログラム侵入)</description>
 </item>
 <item>
 <title>[85] フランスの血液保存施設で冷蔵庫の設定を-30℃から110℃に引き上げるサイバー攻撃が発生、迅速な対応で血液製剤は無事</title>
@@ -423,14 +447,6 @@
 <description>AWS Continuum for code vulnerabilities is a new security service that uses AI to automatically find, validate, and prioritize code vulnerabilities in your environment, then delivers ready-to-review fixes as pull requests replacing what previously took hours of manual investigation and days of cross-team coordination. — AWS News Blog / score: 85 (AIを活用したAWSのコード脆弱性検出サービス)</description>
 </item>
 <item>
-<title>[80] 【速報】三井住友銀もメアド22万件流出</title>
-<link>https://www.47news.jp/15187412.html</link>
-<guid isPermaLink="true">https://www.47news.jp/15187412.html</guid>
-<pubDate>Thu, 05 Nov 2026 07:17:49 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>アララへの不正アクセス問題を巡り、三井住友銀行も5日、顧客のメールアドレス約22万7千件が外部に流出したと発表した。口座番号や預金残高、暗証番号の情報は含まれていないという。 — はてなブックマーク テクノロジー / score: 80 (大手銀行のメールアドレス流出インシデント)</description>
-</item>
-<item>
 <title>[80] 「LibreOffice」にヒープバッファーオーバーフローの脆弱性、v26.2.6/26.8.1で修正済み／Anthropicがエージェントを使ったオープンソースのセキュリティ調査で発見</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2153899.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2153899.html</guid>
@@ -453,14 +469,6 @@
 <pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>Bluetoothの規格策定を担う業界団体のBluetooth SIGが2026年11月4日、Bluetooth Low Energy(Bluetooth LE)の最大通信速度を従来の約4倍に引き上げる新技術「Bluetooth High Data Throughput(HDT)」を正式に採用したと発表しました。最大通信速度が従来の2Mbpsから7.5Mbpsに向上し、ロスレス音声やハイレゾ音声の伝送などが可能になると期待されています。 続きを読む... — GIGAZINE / score: 80 (Bluetooth通信速度を4倍にする新規格HDT採用)</description>
-</item>
-<item>
-<title>[80] 警察庁とGoogleなどによるボットネットXCPEのテイクダウンについてまとめてみた - piyolog</title>
-<link>https://piyolog.hatenadiary.jp/entry/2026/11/05/095634</link>
-<guid isPermaLink="true">https://piyolog.hatenadiary.jp/entry/2026/11/05/095634</guid>
-<pubDate>Thu, 05 Nov 2026 03:25:48 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>2026年11月2日(米国時間)、Googleは、警察庁などと連携し、セットトップボックスに出荷前から組み込まれたバックドアで構成されるボットネット「XCPE」をテイクダウンしたと公表しました。ここでは関連する情報をまとめます。 XCPEとは何か XCPEは、機器の出荷前にファームウェアへ組み込まれたバックドア「x.cpe」(一部... — はてなブックマーク テクノロジー / score: 80 (警察庁とGoogleによるボットネットテイクダウン)</description>
 </item>
 <item>
 <title>[80] ホワイトハウスのネットワークで住宅用プロキシが検出される</title>
@@ -540,7 +548,7 @@
 <guid isPermaLink="true">https://gihyo.jp/article/2026/11/plamo-3-translate-open-weights?utm_source=feed</guid>
 <pubDate>Thu, 05 Nov 2026 11:27:18 +0000</pubDate>
 <category>gihyo.jp</category>
-<description>Preferred Networks（PFN）は2026年11月5日、翻訳特化LLM「PLaMo 3 Translate」のモデル重みをHugging Faceで公開した。モデルは0.8B、2B、8B、31Bの4サイズ（Bは10億パラメーター）で、利用環境にあわせてモデルを選び、ダウンロードしてローカルで実行できる。 — gihyo.jp / score: 75 (PFNによる翻訳特化LLMのモデル重み公開)</description>
+<description>Preferred Networks（PFN）は2026年11月5日、翻訳特化LLM「PLaMo 3 Translate」のモデル重みをHugging Faceで公開した。0.8B、2B、8B、31Bの4サイズを用意し、利用する機器や求める翻訳品質に合わせて選べる。端末や社内サーバーで動かすことで、原文や訳文を外部サーバーに送らずに翻訳できる。 — gihyo.jp / score: 75 (PFNによる翻訳特化LLMのモデル重み公開)</description>
 </item>
 <item>
 <title>[75] Kimi K3.1 Proの重み公開、無償で商用利用も原則可能</title>
@@ -583,6 +591,14 @@
 <description> — CodeZine / score: 75 (Gartnerによる2027年技術トレンドの予測)</description>
 </item>
 <item>
+<title>[75] Agentic autofix for code scanning alerts general availability - GitHub Changelog</title>
+<link>https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability/</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability/</guid>
+<pubDate>Thu, 05 Nov 2026 05:19:57 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Agentic autofix for code scanning alerts general availability Agentic autofix for code scanning alerts is now generally available. It remediates alerts by working across your codebase the way a developer would: it explores relevant files, proposes a fix, and reruns CodeQL to confirm the fix close... — はてなブックマーク テクノロジー / score: 75 (GitHubのコードスキャン自動修正機能の一般提供)</description>
+</item>
+<item>
 <title>[75] OpenAI、「Images 2.6」を発表 ～GIFアニメーションに対応、生成速度は50％向上／API向けに「Flare」「Sunburst」の2モデル、SVG書き出しや編集箇所の指定も</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2153881.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2153881.html</guid>
@@ -621,14 +637,6 @@
 <pubDate>Thu, 05 Nov 2026 03:29:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>中国のIT大手Tencentは2026年11月4日、新たなAIモデル「Tencent Hy4」を発表しました。画像の理解やPCの操作に対応し、プログラミングや金融分析、ゲーム開発、科学研究など幅広い分野で高い性能を発揮するとしています。TencentはHy4のモデルの重みを近日中に公開する方針も明らかにしました。 続きを読む... — GIGAZINE / score: 75 (Tencentによる高性能オープンAIモデル発表)</description>
-</item>
-<item>
-<title>[75] PLaMo 3 Translate：世界最高クラスの翻訳特化LLMの重み公開と開発秘話｜株式会社Preferred Networks</title>
-<link>https://www.preferred.jp/ja/blog/tech/plamo-3-translate-weight-release</link>
-<guid isPermaLink="true">https://www.preferred.jp/ja/blog/tech/plamo-3-translate-weight-release</guid>
-<pubDate>Thu, 05 Nov 2026 01:24:42 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Read this article in English. 概要翻訳特化LLM PLaMo 3 Translateの重みをHugging Faceで公開しました。0.8B、2B、8B、31Bの4サイズのモデルを開発・公開しており、最小の0.8Bモデルでも、日英および日本語↔多言語で30倍以上大きな既存の翻訳特化LLMを上回る性能を達成しました。開発の鍵は、「トーナメント式データ合... — はてなブックマーク テクノロジー / score: 75 (国産翻訳特化LLMの重み公開と高精度な性能)</description>
 </item>
 <item>
 <title>[75] Amazon EKS Auto Mode、Kubernetes Gateway APIをサポート</title>
@@ -797,14 +805,6 @@
 <pubDate>Tue, 27 Oct 2026 15:00:00 +0000</pubDate>
 <category>Gemini (Google Blog)</category>
 <description>From deep research to interactive design, here are eight examples of what Gemini 4 Argon, our most intelligent model yet, is capable of. — Gemini (Google Blog) / score: 75 (新モデルGemini 4 Argonの機能紹介)</description>
-</item>
-<item>
-<title>[75] [AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn</title>
-<link>https://latent.space/p/ainews-anthropic-s1/</link>
-<guid isPermaLink="true">https://latent.space/p/ainews-anthropic-s1/</guid>
-<pubDate>Tue, 27 Oct 2026 07:24:59 +0000</pubDate>
-<category>Latent Space</category>
-<description>Today is one of those days that is tougher to cover for a normally-engineer audience that isn’t used to reading most S-1’s, let alone 350 pages of one of the most unusual S-1’s of all time : Better visualized: With significant operating leverage causing the first profitable quarter in Anthropic history (adjusted for $1B/quarter of SBC): The incredible efficiency story is told in two loops, and of course you know, we love loop: The pitch going forward is “virtual collaborators” (don’t say agent!) — Latent Space / score: 75 (AnthropicのS-1提出に基づく財務詳細)</description>
 </item>
 </channel>
 </rss>
