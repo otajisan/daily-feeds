@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 05 Nov 2026 04:07:49 +0000</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 06:11:03 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] Node.js、26.x/24.x/22.x向けセキュリティリリースを11月11日に公開予定</title>
@@ -95,14 +95,6 @@
 <description>OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel. — OpenAI News / score: 90 (AIによるLinuxカーネル脆弱性の自動パッチ生成)</description>
 </item>
 <item>
-<title>[90] 仮想通貨取引所Binanceから約1兆円が盗まれた事件は偽面接経由でマルウェアを送り込まれたのがきっかけだったことが判明</title>
-<link>https://gigazine.net/news/20261104-binance-6-3-billion-heist-hacker-yuse-fake-job-interviews/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261104-binance-6-3-billion-heist-hacker-yuse-fake-job-interviews/</guid>
-<pubDate>Wed, 04 Nov 2026 04:05:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>世界最大級の仮想通貨取引所・Binance(バイナンス)からおよそ63億ドル(約9930億円)相当の仮想通貨が盗み出された事件は、攻撃者がエンジニアのノートPC経由で不正アクセスしたことがわかっていますが、調査の結果、単一の攻撃や単純なセキュリティインシデントによるものではなく、複数のステップを経て侵入を図る作戦だったことがわかりました。 続きを読む... — GIGAZINE / score: 90 (Binanceのマルウェア経由の巨大不正アクセス事件)</description>
-</item>
-<item>
 <title>[90] 2026年11月のAndroidセキュリティ情報、216件の脆弱性 ～ユーザー操作なしでリモートコード実行のおそれ／「Critical」は23件</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2153308.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2153308.html</guid>
@@ -135,28 +127,12 @@
 <description>How We Took Over ChatGPT Accounts Parameter Labs describe an exploit they found against ChatGPT's implementation of the artifacts pattern (OpenAI used to call this "Canvas" but it looks like the latest revision is called HTML previews ), where interactive custom HTML apps are displayed in a sandboxed iframe. It's important that HTML in these stays tightly sandboxed to avoid untrusted code interacting with OpenAI APIs and accessing private data. Parameter found quite a complex attack chain. OpenA — Simon Willison / score: 90 (ChatGPTアカウント乗っ取り脆弱性の解説)</description>
 </item>
 <item>
-<title>[90] 「WordPress 7.1.4」が公開、リモートコード実行や多数のXSSを修正／「eMudhra」問題を受けたルート証明書の更新も、速やかなアップデートを</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2152090.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2152090.html</guid>
-<pubDate>Thu, 29 Oct 2026 01:40:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>「WordPress」の開発チームは10月28日、「WordPress 7.1.4」をリリースした。ブログシステム「WordPress」のセキュリティリリースで、速やかなアップデートが推奨されている。 — 窓の杜 / score: 90 (WordPressの緊急セキュリティアップデート)</description>
-</item>
-<item>
 <title>[90] Upcoming Next.js November Security Release</title>
 <link>https://nextjs.org/blog/upcoming-nextjs-security-release-november-2026</link>
 <guid isPermaLink="true">https://nextjs.org/blog/upcoming-nextjs-security-release-november-2026</guid>
 <pubDate>Tue, 27 Oct 2026 18:00:00 +0000</pubDate>
 <category>Next.js Blog</category>
 <description>Next.js is preparing a scheduled November security release for November 3, 2026. — Next.js Blog / score: 90 (Next.jsの重要なセキュリティリリース予告)</description>
-</item>
-<item>
-<title>[90] eMudhraの中間CAの秘密鍵が公開された証明書から復元可能と判明、pip・uvなどの開発ツールに修正版</title>
-<link>https://gihyo.jp/article/2026/10/emudhra-ca-key-compromise-dev-tools-fixes?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/10/emudhra-ca-key-compromise-dev-tools-fixes?utm_source=feed</guid>
-<pubDate>Thu, 22 Oct 2026 05:24:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>認証局eMudhraの中間CA証明書8件で、公開された証明書から秘密鍵を復元できる問題が判明した。このうちTLS用の中間CAの秘密鍵を使えば、攻撃者が偽のHTTPS証明書を作成できる。Python関連ツールやGo、Node.js、Rustなどで、対策を取り込んだ更新版が提供されている。 — gihyo.jp / score: 90 (認証局の中間CA秘密鍵復元問題)</description>
 </item>
 <item>
 <title>[88] 「PHP2Shell」「Brotli」「eMudhra」の3問題、Microsoftが“今すぐパッチを”／自動更新で対応できるものと、手動対応が必要なものあり</title>
@@ -167,20 +143,44 @@
 <description>米Microsoftは10月30日（現地時間、以下同）、この2週間ほどで相次いで明らかになった3つのセキュリティ問題について、公式ブログ「MSRC」で対応を呼びかけた。いずれもMicrosoft製品に由来する脆弱性ではないが、Microsoftのサービスやユーザーの「Azure」環境で動くソフトウェアにも組み込まれていることが多いため、Microsoftとユーザーの双方で対応が必要だとしている。 — 窓の杜 / score: 88 (Microsoftが注意を呼びかける重要脆弱性と対応要請)</description>
 </item>
 <item>
+<title>[85] NTTドコモ、全国で障害が発生中 ｰ 5G SAの音声通話やデータ通信がしづらい状況</title>
+<link>https://taisy0.com/2026/11/05/230003.html</link>
+<guid isPermaLink="true">https://taisy0.com/2026/11/05/230003.html</guid>
+<pubDate>Thu, 05 Nov 2026 05:19:50 +0000</pubDate>
+<category>気になる、記になる…</category>
+<description>本日のお昼前あたりからNTTドコモの携帯電話サービスで障害が発生中です。 障害は本日午前11時18分頃より発生し、現在も継続中。 同社の携帯電話サービス（5G SA（Standalone）の音声通話・データ通信・SMS） […] — 気になる、記になる… / score: 85 (ドコモの通信障害発生の詳細情報)</description>
+</item>
+<item>
+<title>[85] Discord、“イマドキ”な言語「Rust」でアプリ全面刷新へ。メモリ使用量がっつり減りそう - AUTOMATON</title>
+<link>https://automaton-media.com/articles/newsjp/20261105-477644/</link>
+<guid isPermaLink="true">https://automaton-media.com/articles/newsjp/20261105-477644/</guid>
+<pubDate>Thu, 05 Nov 2026 04:59:55 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Discordのデスクトップ版およびモバイル版のクライアントを、Rustベースのネイティブアプリケーションとして刷新する方針が明かされた。 Discordの共同創業者兼CTOであるStanislav Vishnevskiy氏は11月5日、Discordのデスクトップ版およびモバイル版のクライアントを、Rustベースのネイティブアプリケーションとして刷新... — はてなブックマーク テクノロジー / score: 85 (DiscordがRustでアプリを全面刷新する大型事例)</description>
+</item>
+<item>
+<title>[85] NTTドコモで通信障害　全国で通話・SMS・データ通信利用しづらく</title>
+<link>https://ascii.jp/elem/000/004/448/4448769/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/448/4448769/?rss</guid>
+<pubDate>Thu, 05 Nov 2026 04:40:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>NTTドコモの携帯電話サービスでは11月5日13時現在、全国で音声通話、データ通信、SMSが利用しづらい状況となっている。 — ASCII.jp / score: 85 (ドコモの通信障害速報)</description>
+</item>
+<item>
+<title>[85] ドコモ携帯 全国で障害が発生</title>
+<link>https://news.yahoo.co.jp/pickup/6601414?source=rss</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6601414?source=rss</guid>
+<pubDate>Thu, 05 Nov 2026 04:13:44 +0000</pubDate>
+<category>Yahoo!ニュース IT</category>
+<description> — Yahoo!ニュース IT / score: 85 (大手キャリアの大規模通信障害)</description>
+</item>
+<item>
 <title>[85] GMOグループへの大規模サイバー攻撃、銀行への影響は？　GMOあおぞらネット銀行が回答</title>
 <link>https://ascii.jp/elem/000/004/448/4448723/?rss</link>
 <guid isPermaLink="true">https://ascii.jp/elem/000/004/448/4448723/?rss</guid>
 <pubDate>Thu, 05 Nov 2026 03:15:00 +0000</pubDate>
 <category>ASCII.jp</category>
 <description>GMOあおぞらネット銀行は11月4日、グループ会社へのサイバー攻撃に関する質問への回答を公開した。 — ASCII.jp / score: 85 (大規模サイバー攻撃の影響と対応)</description>
-</item>
-<item>
-<title>[85] ドコモ、不正アクセスの可能性でサービス緊急停止　オンラインショップとMy docomo、復旧未定</title>
-<link>https://ascii.jp/elem/000/004/448/4448639/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/448/4448639/?rss</guid>
-<pubDate>Thu, 05 Nov 2026 02:50:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>NTTドコモは11月5日1時5分頃から、ドコモオンラインショップとMy docomoの緊急メンテナンスを開始。同日11時30分現在も継続中だ。 — ASCII.jp / score: 85 (大手通信会社の不正アクセス・緊急停止)</description>
 </item>
 <item>
 <title>[85] Django 6.1.3/6.0.10/5.2.19公開、SSRFなど6件の脆弱性を修正</title>
@@ -245,22 +245,6 @@
 <pubDate>Wed, 04 Nov 2026 04:05:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Googleは11月3日（現地時間、以下同）、デスクトップ向け「Google Chrome」の安定（Stable）チャネルをアップデートした。Windows/Mac環境にはv157.0.8103.38/.39が、Linux環境にはv157.0.8103.38が順次展開される。「Chrome 156」に続くメジャーリリースだ。 — 窓の杜 / score: 85 (主要ブラウザのメジャーリリースと大量の脆弱性修正)</description>
-</item>
-<item>
-<title>[85] NIKKE PCランチャーのサプライチェーン攻撃、IT学生が自分のPCを調べてみた</title>
-<link>https://zenn.dev/nanana_sk/articles/nikke-launcher-incident</link>
-<guid isPermaLink="true">https://zenn.dev/nanana_sk/articles/nikke-launcher-incident</guid>
-<pubDate>Wed, 04 Nov 2026 02:23:44 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>! この記事について：調査は生成AI（Claude）と対話しながら進め、文章もAIが下書きして筆者が確認・修正しています。筆者はセキュリティの専門家ではないので、判断は必ず公式発表や元の解析レポートで確認してください。調査は2026年11月4日に行い、公式続報（11月5日）までを反映しています。この更新を最終更新とし、以降は更新しません。 インフラエンジニア志望のIT系専門学生で、NIKKEをPC版で遊んでいます。PC版ランチャーへのサプライチェーン攻撃を知り、自分のPCを調べた記録です。 3行まとめ 2026年9月27日から、NIKKE PCランチャーが読み込む公式ファイルが改... — Zenn トレンド / score: 85 (PCランチャーにおけるサプライチェーン攻撃の調査事例)</description>
-</item>
-<item>
-<title>[85] アソビュー 1500万件超の情報流出</title>
-<link>https://news.yahoo.co.jp/pickup/6601234?source=rss</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6601234?source=rss</guid>
-<pubDate>Tue, 03 Nov 2026 14:59:10 +0000</pubDate>
-<category>Yahoo!ニュース IT</category>
-<description> — Yahoo!ニュース IT / score: 85 (1500万件超という非常に大規模な情報流出事件)</description>
 </item>
 <item>
 <title>[85] GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026</title>
@@ -415,6 +399,14 @@
 <description>AWS Continuum for code vulnerabilities is a new security service that uses AI to automatically find, validate, and prioritize code vulnerabilities in your environment, then delivers ready-to-review fixes as pull requests replacing what previously took hours of manual investigation and days of cross-team coordination. — AWS News Blog / score: 85 (AIを活用したAWSのコード脆弱性検出サービス)</description>
 </item>
 <item>
+<title>[80] Bluetoothの通信速度を約4倍に引き上げる「Bluetooth HDT」が正式採用される、2027年にはロスレス音声対応製品が登場へ</title>
+<link>https://gigazine.net/news/20261105-bluetooth-hdt/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261105-bluetooth-hdt/</guid>
+<pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>Bluetoothの規格策定を担う業界団体のBluetooth SIGが2026年11月4日、Bluetooth Low Energy(Bluetooth LE)の最大通信速度を従来の約4倍に引き上げる新技術「Bluetooth High Data Throughput(HDT)」を正式に採用したと発表しました。最大通信速度が従来の2Mbpsから7.5Mbpsに向上し、ロスレス音声やハイレゾ音声の伝送などが可能になると期待されています。 続きを読む... — GIGAZINE / score: 80 (Bluetooth通信速度を4倍にする新規格HDT採用)</description>
+</item>
+<item>
 <title>[80] ホワイトハウスのネットワークで住宅用プロキシが検出される</title>
 <link>https://gigazine.net/news/20261105-residential-proxies-detected-white-house/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261105-residential-proxies-detected-white-house/</guid>
@@ -535,6 +527,22 @@
 <description>Anthropicは2026年10月21日、パーソナルAIアシスタントClaude Duetのリサーチプレビューを発表した。利用者の対応が必要なことを自ら知らせるエージェントとして動作する。 — gihyo.jp / score: 80 (Anthropicの新しいAIエージェント発表)</description>
 </item>
 <item>
+<title>[75] 2027年に押さえる技術トレンド10項目をGartnerが発表。AIコンテキスト基盤や使い捨てアプリなど</title>
+<link>https://codezine.jp/article/detail/30251</link>
+<guid isPermaLink="true">https://codezine.jp/article/detail/30251</guid>
+<pubDate>Thu, 05 Nov 2026 05:30:00 +0000</pubDate>
+<category>CodeZine</category>
+<description> — CodeZine / score: 75 (Gartnerによる2027年技術トレンドの予測)</description>
+</item>
+<item>
+<title>[75] OpenAI、「Images 2.6」を発表 ～GIFアニメーションに対応、生成速度は50％向上／API向けに「Flare」「Sunburst」の2モデル、SVG書き出しや編集箇所の指定も</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2153881.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2153881.html</guid>
+<pubDate>Thu, 05 Nov 2026 04:03:20 +0000</pubDate>
+<category>窓の杜</category>
+<description>米OpenAIは11月4日（現地時間）、「Images 2.6」を発表した。「ChatGPT」「Codex」、APIで利用できる画像生成モデルで、9月に発表された「Images 2.5」をアップデートしたものとなる。 — 窓の杜 / score: 75 (OpenAIの画像生成モデルアップデート)</description>
+</item>
+<item>
 <title>[75] 「Kimi K3.1 Pro」の重みが無料で公開される</title>
 <link>https://gigazine.net/news/20261105-kimi-k3-1-pro-model-weight-release/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261105-kimi-k3-1-pro-model-weight-release/</guid>
@@ -597,14 +605,6 @@
 <pubDate>Wed, 04 Nov 2026 22:48:51 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>【米南部テキサス州オースティン=大平祐嗣】米国最大のデータセンター建設計画地である南部テキサス州の中間選挙で民主党が大勝した。民主の次期知事は法整備が整うまで建設禁止を明言する。延期の動きは他州にも波及し、米国の人工知能（AI）インフラ投資全体に急ブレーキがかかる見通しだ。「州民を優先し保護する法律... — はてなブックマーク テクノロジー / score: 75 (AIデータセンター建設反対の動きとインフラへの影響)</description>
-</item>
-<item>
-<title>[75] OSSは「プルリクエストを送る」から「自分用に直す」へ？　AI時代のメンテナーがPR受付を閉じると宣言した理由</title>
-<link>https://atmarkit.itmedia.co.jp/ait/articles/2611/05/news004.html</link>
-<guid isPermaLink="true">https://atmarkit.itmedia.co.jp/ait/articles/2611/05/news004.html</guid>
-<pubDate>Wed, 04 Nov 2026 21:34:32 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>連載目次 オープンソースソフトウェア（OSS）に貢献するなら、プルリクエスト（PR：コードの変更を元のプロジェクトに提案する仕組み）を送る。GitHubが広めたこの作法は、20年近く「当たり前」だった。その当たり前が、AIによって揺らいでいる。AIが数分で生成したPRを、人間のメンテナー（OSSの管理者）が何時間もかけ... — はてなブックマーク テクノロジー / score: 75 (AI時代のOSSメンテナのあり方・開発手法の変化に関する考察。)</description>
 </item>
 <item>
 <title>[75] 銀行系企業がAIの利用コストを約10分の1に削減した事例を公開、商用AIから自社運用モデルへの切り替えで</title>
