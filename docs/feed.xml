@@ -4,8 +4,112 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 05 Nov 2026 16:07:54 +0000</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 18:07:40 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>IAM Roles Anywhere now supports automatic certificate revocation checking</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/iam-roles-anywhere-cdp/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/iam-roles-anywhere-cdp/</guid>
+<pubDate>Thu, 05 Nov 2026 17:38:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS Identity and Access Management (IAM) Roles Anywhere now supports automatic revocation checking using certificate revocation list (CRL) distribution points (CDPs). This helps keep revocation checks in sync with your certificate authority (CA) and can help improve your security posture. When you enable this capability on a trust anchor, IAM Roles Anywhere reads the CDP URLs embedded in authenticating certificates, downloads the corresponding CRLs, and denies credential requests that use revoke — AWS What's New / score: 70 (AWSのセキュリティ機能の重要なアップデート)</description>
+</item>
+<item>
+<title>Quoting Paul Ford</title>
+<link>https://simonwillison.net/2026/Nov/5/paul-ford/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Nov/5/paul-ford/</guid>
+<pubDate>Thu, 05 Nov 2026 17:34:03 +0000</pubDate>
+<category>Simon Willison</category>
+<description>The web browser is very, very, very powerful software for applications, and the cost of accessing that power is going down seemingly every day . — Paul Ford , The Web Is More Than Enough Tags: browsers , paul-ford , web-development — Simon Willison / score: 35 (Webブラウザの進化に関する個人的な考察)</description>
+</item>
+<item>
+<title>Webブラウザの｢Opera｣、デスクトップ版のユーザー数が1億人を突破</title>
+<link>https://taisy0.com/2026/11/06/230034.html</link>
+<guid isPermaLink="true">https://taisy0.com/2026/11/06/230034.html</guid>
+<pubDate>Thu, 05 Nov 2026 17:33:54 +0000</pubDate>
+<category>気になる、記になる…</category>
+<description>本日、Operaが、同社のデスクトップ向けWebブラウザのユーザー数が初めて1億人を超えたと発表しました。 また、デスクトップ版のユーザー数が1億人を超えたことに加え、Operaはモバイル版でも約1億9000万人のユーザ […] — 気になる、記になる… / score: 30 (Operaデスクトップ版のユーザー数1億人突破)</description>
+</item>
+<item>
+<title>NTTドコモの5G SAの障害、発生から約14時間で復旧</title>
+<link>https://taisy0.com/2026/11/06/230031.html</link>
+<guid isPermaLink="true">https://taisy0.com/2026/11/06/230031.html</guid>
+<pubDate>Thu, 05 Nov 2026 17:20:24 +0000</pubDate>
+<category>気になる、記になる…</category>
+<description>NTTドコモが、昨日午前11時頃より発生していた携帯電話サービス（5G SA）の障害を復旧したことを案内しています。 障害により全国で同社の携帯電話サービス（5G SA（Standalone）の音声通話・データ通信・SM […] — 気になる、記になる… / score: 80 (大手キャリアの5G SA大規模通信障害の復旧)</description>
+</item>
+<item>
+<title>Apple、Mac向け｢Logic Pro｣の最新版v13.0をリリース</title>
+<link>https://taisy0.com/2026/11/06/230028.html</link>
+<guid isPermaLink="true">https://taisy0.com/2026/11/06/230028.html</guid>
+<pubDate>Thu, 05 Nov 2026 17:14:26 +0000</pubDate>
+<category>気になる、記になる…</category>
+<description>本日、Appleが、Mac向け「Logic Pro」アプリの最新版であるバージョン13.0をリリースしました。 Creator Studio版と単体版の双方がアップデートされており、アップデートによる変更点は下記の通り。 […] — 気になる、記になる… / score: 45 (AppleのLogic Pro最新版アップデート)</description>
+</item>
+<item>
+<title>Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips</title>
+<link>https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/</link>
+<guid isPermaLink="true">https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/</guid>
+<pubDate>Thu, 05 Nov 2026 17:05:16 +0000</pubDate>
+<category>Google DeepMind</category>
+<description> — Google DeepMind / score: 75 (Geminiの新モデルに関する公式発表)</description>
+</item>
+<item>
+<title>Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips</title>
+<link>https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/</link>
+<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/</guid>
+<pubDate>Thu, 05 Nov 2026 17:00:00 +0000</pubDate>
+<category>Google AI Blog</category>
+<description>Text "Gemini Introducing Gemini Omni 1.2 Flash" surroudned by images of a beehive, animals in conversation, a squid, and a woman walking down a street — Google AI Blog / score: 75 (Googleの新しいGeminiモデルの発表)</description>
+</item>
+<item>
+<title>Transform a quick drawing into a live app with Gemini.</title>
+<link>https://blog.google/innovation-and-ai/products/gemini-app/turn-drawings-into-apps-gemini/</link>
+<guid isPermaLink="true">https://blog.google/innovation-and-ai/products/gemini-app/turn-drawings-into-apps-gemini/</guid>
+<pubDate>Thu, 05 Nov 2026 17:00:00 +0000</pubDate>
+<category>Gemini (Google Blog)</category>
+<description>Turn your sketches into functional apps using Gemini. Upload your drawings to the Canvas tool to generate and refine code instantly. Try it now. — Gemini (Google Blog) / score: 65 (手書きスケッチからアプリを生成する新機能)</description>
+</item>
+<item>
+<title>Building an agent skill optimizer with AlphaEvolve, Harbor and Gemini 4 Argon</title>
+<link>https://cloud.google.com/blog/topics/developers-practitioners/how-to-build-an-agent-skill-optimizer-with-alphaevolve-and-harbor/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/developers-practitioners/how-to-build-an-agent-skill-optimizer-with-alphaevolve-and-harbor/</guid>
+<pubDate>Thu, 05 Nov 2026 17:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Every day, more and more people are using coding agents like Google Antigravity and OpenCode to complete software engineering tasks. But those tools need instructions to operate and their output is only as good as the inputs they get. By utilizing agent skills that direct the agents through building, testing, and deploying code, developers have a powerful way to automate their workflows. But most skills are written manually, so it’s hard to know which instructions are effective without assessing — Google Cloud Blog / score: 65 (Googleによるコーディングエージェント関連技術)</description>
+</item>
+<item>
+<title>Semantic aggregation over millions of rows in BigQuery with AI.AGG</title>
+<link>https://cloud.google.com/blog/products/data-analytics/semantic-data-aggregation-with-bigquery-and-ai-agg/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/data-analytics/semantic-data-aggregation-with-bigquery-and-ai-agg/</guid>
+<pubDate>Thu, 05 Nov 2026 17:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>For more than a decade, BigQuery has helped set standards for structured data aggregation, calculating financial sums, counting active users, and computing historical averages at a petabyte scale in seconds. But as modern enterprises become inundated with unstructured data — application logs, customer service transcripts, product imagery, and diagnostic reports — a critical gap has emerged. Historically, relational SQL engines have lacked the native ability to aggregate, synthesize, and extract  — Google Cloud Blog / score: 70 (BigQueryにおけるAIを活用した集計機能)</description>
+</item>
+<item>
+<title>Gemini Omni 1.2 Flash: Fast, cost-effective, and reliable video generation and editing now generally available</title>
+<link>https://cloud.google.com/blog/products/ai-machine-learning/gemini-omni-1-2-flash-generally-available/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/ai-machine-learning/gemini-omni-1-2-flash-generally-available/</guid>
+<pubDate>Thu, 05 Nov 2026 17:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Today, Gemini Omni 1.2 Flash is generally available on Google Cloud. Built for the everyday videos businesses make in volume — like product videos, virtual try-ons, and ads — this model is fast, cost-effective, and follows your image, video and audio references more closely than before. Business users can create with it in Gemini for business and Google Vids, and developers can build with it via API. Here's what's new: A lower price: $0.07 per second of 720p video, 30% less than Gemini Omni 1.1  — Google Cloud Blog / score: 75 (動画生成・編集向けGeminiモデルの一般提供開始)</description>
+</item>
+<item>
+<title>ソニー、初代ウォークマンに付属した歴史的名機のヘッドホンのUSB-Cモデル｢MDR-3R｣を海外で発表</title>
+<link>https://taisy0.com/2026/11/06/230023.html</link>
+<guid isPermaLink="true">https://taisy0.com/2026/11/06/230023.html</guid>
+<pubDate>Thu, 05 Nov 2026 16:24:37 +0000</pubDate>
+<category>気になる、記になる…</category>
+<description>本日、ソニーが、1979年に発売された初代ウォークマン「TPS-L2」に付属していたヘッドホン「MDR-3」をベースに、現代向けに再設計したUSB-C接続の有線ヘッドホン「MDR-3R」を発表しました。 「MDR-3」は […] — 気になる、記になる… / score: 35 (ソニーの歴史的ヘッドホンのUSB-C版発表)</description>
+</item>
+<item>
+<title>Instagram、無料の動画編集アプリ「Edits」のMac版をリリース</title>
+<link>https://taisy0.com/2026/11/06/230019.html</link>
+<guid isPermaLink="true">https://taisy0.com/2026/11/06/230019.html</guid>
+<pubDate>Thu, 05 Nov 2026 16:12:06 +0000</pubDate>
+<category>気になる、記になる…</category>
+<description>Instagramが、無料の動画編集アプリ「Edits」のMac版をリリースしました。 「Edits」のMac版は、マルチトラック・タイムライン、カラーグレーディング、キーフレーム、レイヤー化されたオーディオといった機能 […] — 気になる、記になる… / score: 40 (Instagramの動画編集アプリMac版リリース)</description>
+</item>
 <item>
 <title>Linuxカーネルの深刻な脆弱性／FDEの名前で単なるコンサルティングが販売／TypeScriptをRustに移植した「tsrs」発表ほか、2026年10月の人気記事</title>
 <link>https://www.publickey1.jp/blog/26/linuxfdetypescriptrusttsrs202610.html</link>
@@ -701,110 +805,6 @@
 <pubDate>Thu, 05 Nov 2026 08:58:57 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>「NIKKE」PCランチャー改ざん、9月27日以降の起動で不正プログラム侵入のおそれ — はてなブックマーク テクノロジー / score: 85 (PCゲームランチャー改ざんと不正プログラム侵入)</description>
-</item>
-<item>
-<title>Chromeの脆弱性、「重大」含む213件を修正。タブ開きっぱなし勢は今すぐ再起動して</title>
-<link>https://www.gizmodo.jp/article/2611-chrome-vulnerability-fix-november/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-chrome-vulnerability-fix-november/</guid>
-<pubDate>Thu, 05 Nov 2026 08:40:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>Chrome、最後に閉じたのいつですか？Googleが11月3日、PC向けの最新版「Chrome 157」を公開しました。直したセキュリティの穴は213件。うち7件は、深刻度がいちばん高い「重大」です。開きっぱなしだと、修正が届かないあれ、… — ギズモード・ジャパン / score: 95 (Chromeの重大な脆弱性修正とアップデート)</description>
-</item>
-<item>
-<title>Kimi K3.1 Proの重み公開、無償で商用利用も原則可能</title>
-<link>https://pc.watch.impress.co.jp/docs/news/2153969.html</link>
-<guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2153969.html</guid>
-<pubDate>Thu, 05 Nov 2026 08:36:07 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Kimi K3.1 Proの重み公開、無償で商用利用も原則可能 — はてなブックマーク テクノロジー / score: 75 (高性能LLMの重み公開と商用利用に関する重要なニュース)</description>
-</item>
-<item>
-<title>ソニー「使ってないPS5、売ってください！」</title>
-<link>https://www.gizmodo.jp/article/2611-sony-ps5-trade-in-program/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-sony-ps5-trade-in-program/</guid>
-<pubDate>Thu, 05 Nov 2026 08:35:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>ソニーが実施するPS5の公式買取プログラムについて解説。最大400ドルの買取価格や背景にある狙いとは。 — ギズモード・ジャパン / score: 15 (ソニーのPS5公式買取プログラムの解説)</description>
-</item>
-<item>
-<title>C4モデル</title>
-<link>https://www.oreilly.co.jp//books/9784814401949/</link>
-<guid isPermaLink="true">https://www.oreilly.co.jp//books/9784814401949/</guid>
-<pubDate>Thu, 05 Nov 2026 08:30:02 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>本書は、ソフトウェアアーキテクチャを可視化する「C4モデル」の、制作者自身によって書かれた包括的な解説書です。C4モデルのシステム、コンテナ、コンポーネント、コードなどの図ごとに、意図、スコープ、内容、有用性などを紹介します。また、「特定の表記法に縛られない」というC4モデルの特性に基づいて、自分の書... — はてなブックマーク テクノロジー / score: 65 (ソフトウェアアーキテクチャ可視化のC4モデル解説)</description>
-</item>
-<item>
-<title>Microsoft、｢Xbox Cloud Gaming｣向けの2つの新しいコントローラーオプションをテスト開始</title>
-<link>https://taisy0.com/2026/11/05/230008.html</link>
-<guid isPermaLink="true">https://taisy0.com/2026/11/05/230008.html</guid>
-<pubDate>Thu, 05 Nov 2026 08:26:59 +0000</pubDate>
-<category>気になる、記になる…</category>
-<description>Microsoftが、「Xbox Cloud Gaming」向けに2つの新しいコントローラー・オプションのテストを開始したことを案内しています。 1つ目は対応するスマートテレビでXboxのゲームをストリーミングプレイする […] — 気になる、記になる… / score: 40 (Xbox Cloud Gamingの新コントローラー)</description>
-</item>
-<item>
-<title>翻訳特化LLM「PLaMo 3 Translate」がオープンウェイトで公開、スマホでもオフライン翻訳／0.8Bから31Bまで4サイズ、年商10億円以下なら事前登録で商用も無償</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2153912.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2153912.html</guid>
-<pubDate>Thu, 05 Nov 2026 08:25:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>（株）Preferred Networks（PFN）は11月5日、翻訳特化の大規模言語モデル（LLM）「PLaMo 3 Translate」をオープンウェイトモデルとして「Hugging Face」で公開した。今年10月に発表され、同社のAI翻訳サービス「PLaMo翻訳」でも利用されているモデルで、日本語・英語を含む53言語の翻訳に対応する。 — 窓の杜 / score: 75 (PFNの翻訳特化LLMオープンウェイト公開)</description>
-</item>
-<item>
-<title>Insignary、PHP・Node.js脆弱性の無料検査ツール「insignary-chk」公開</title>
-<link>https://codezine.jp/article/detail/30263</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/30263</guid>
-<pubDate>Thu, 05 Nov 2026 08:20:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 75 (脆弱性検査ツールの無料公開情報)</description>
-</item>
-<item>
-<title>フランスの血液保存施設で冷蔵庫の設定を-30℃から110℃に引き上げるサイバー攻撃が発生、迅速な対応で血液製剤は無事</title>
-<link>https://gigazine.net/news/20261105-french-blood-fridge-cyberattacked/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261105-french-blood-fridge-cyberattacked/</guid>
-<pubDate>Thu, 05 Nov 2026 08:20:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>サイバー攻撃によってスーパーの冷蔵庫が50℃まで加熱されたフランスで、今度は血液の保存施設が標的になったことがわかりました。フランス血液研究所によると外部施設の冷蔵庫で、-30℃に設定されていた温度が110℃に変更されたとのこと。なお、警報を受けて、保存されていた血液製剤やサンプルは他に移されたため、被害は出ませんでした。 続きを読む... — GIGAZINE / score: 85 (医療施設を狙った重大なサイバー攻撃)</description>
-</item>
-<item>
-<title>サイバー攻撃 10月は国内4億件超</title>
-<link>https://news.yahoo.co.jp/pickup/6601439?source=rss</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6601439?source=rss</guid>
-<pubDate>Thu, 05 Nov 2026 08:12:32 +0000</pubDate>
-<category>Yahoo!ニュース IT</category>
-<description> — Yahoo!ニュース IT / score: 70 (国内サイバー攻撃の月間件数報告)</description>
-</item>
-<item>
-<title>三井住友G保証会社 個人情報最大32万人分漏えい 住所や年収も | NHKニュース</title>
-<link>https://news.web.nhk/newsweb/na/nd-20261105de71024</link>
-<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261105de71024</guid>
-<pubDate>Thu, 05 Nov 2026 08:11:57 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>カードローンなどの保証業務を行っているSMBCコンシューマーファイナンスは、システムが不正アクセスを受け、ローンを申し込んだ人の名前や住所のほか、年収なども含む個人情報が、最大32万人分、漏えいしたと… — はてなブックマーク テクノロジー / score: 85 (最大32万人の大規模な個人情報漏えい事故)</description>
-</item>
-<item>
-<title>三井住友ファイナンス＆リース、生成AI開発手法を用いた「企業向けパーソナライズ型SaaS」を提供開始</title>
-<link>https://codezine.jp/article/detail/30260</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/30260</guid>
-<pubDate>Thu, 05 Nov 2026 08:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 55 (生成AIを活用したSaaS提供開始)</description>
-</item>
-<item>
-<title>華やかなベリーの香りとビターなチョコレートの風味がベストマッチしたスタバのチルドカップ「メリーベリーチョコレートラテ」</title>
-<link>https://gigazine.net/news/20261105-starbucks-merryberrychocolatelatte/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261105-starbucks-merryberrychocolatelatte/</guid>
-<pubDate>Thu, 05 Nov 2026 08:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>2026年11月3日(火)、スターバックスのチルドカップシリーズに「メリーベリーチョコレートラテ」が期間限定で登場しました。ベリーの香りと濃厚なチョコレートを味わうラテになっているとのことで、どんな味になっているのか実際に飲んで確かめてみました。 続きを読む... — GIGAZINE / score: 10 (スターバックスの新商品紹介に関するグルメニュース)</description>
-</item>
-<item>
-<title>November 05, 2026</title>
-<link>https://docs.cloud.google.com/release-notes#November_05_2026</link>
-<guid isPermaLink="true">https://docs.cloud.google.com/release-notes#November_05_2026</guid>
-<pubDate>Thu, 05 Nov 2026 08:00:00 +0000</pubDate>
-<category>Google Cloud リリースノート</category>
-<description>Model Armor Feature You can enable or disable the child sexual abuse material (CSAM) filter in Model Armor templates and floor settings, and configure granular confidence levels ( High , Medium and above , and Low and above ). For more information, see Model Armor filters and Create and manage templates . — Google Cloud リリースノート / score: 70 (Google CloudのCloud SQL関連のアップデート)</description>
 </item>
 </channel>
 </rss>
