@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 06 Nov 2026 10:06:40 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 12:09:00 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 約10年間見逃されていたOpenSSHの脆弱性「*sshole」が発覚、257文字以上のパスワードでログイン禁止アカウントを突破可能に</title>
@@ -23,20 +23,20 @@
 <description>OpenAIは2026年11月4日、開発中のサイバーセキュリティ向けAIモデルを活用し、Linuxカーネルの脆弱性をエージェントが自律的に発見し検証した結果を発表した。 — gihyo.jp / score: 95 (AIによるLinuxカーネルの脆弱性大量発見と実証の画期的なニュース)</description>
 </item>
 <item>
-<title>[95] 「Cursor」の拡張機能ストアに「Claude Code」の改竄版、SSHバックドアの設置を試みる／最大5,000ユーザーに影響、アンインストールだけでは不十分な場合も</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2152916.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2152916.html</guid>
-<pubDate>Sun, 01 Nov 2026 15:05:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米SpaceX傘下のCursor社は10月29日（現地時間）、「Cursor」のマーケットプレイスで悪意ある改竄が施された「Claude Code for VS Code」拡張機能が公開されていたことを明らかにした。影響を受けたのは最大5,000ユーザーで、該当する場合は確認と修復の作業が必要になる。 — 窓の杜 / score: 95 (開発者向けツールにおける悪意ある拡張機能のサプライチェーン攻撃)</description>
-</item>
-<item>
 <title>[95] Python 3.15.2, 3.14.10, 3.13.18, 3.12.16 and 3.11.18 are out</title>
 <link>https://blog.python.org/2026/10/python-3152-31410-31318-31216-31118/</link>
 <guid isPermaLink="true">https://blog.python.org/2026/10/python-3152-31410-31318-31216-31118/</guid>
 <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
 <category>Python Insider</category>
 <description>Five expedited security releases to distrust the compromised eMudhra intermediate CA keys. — Python Insider / score: 95 (証明書漏洩対応のためのPython複数バージョンの緊急修正)</description>
+</item>
+<item>
+<title>[90] NTTドコモ、不正アクセスで約30万件のユーザー情報流出　注意を呼びかけ</title>
+<link>https://ascii.jp/elem/000/004/449/4449470/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/449/4449470/?rss</guid>
+<pubDate>Fri, 06 Nov 2026 10:30:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>NTTドコモは、11月4日（水）に発生したMy docomoへの不正アクセスにより、最大29万4839件（個人20万4157件、法人9万682件）のユーザー情報が流出した可能性があったことを公表している。 — ASCII.jp / score: 90 (大規模な不正アクセスと情報流出のインシデント)</description>
 </item>
 <item>
 <title>[90] 長いパスワードで認証を回避する脆弱性「*sshole」、「Alpine Linux」などに影響／2016年から存在、「OpenSSH 10.6p2」で対策</title>
@@ -61,6 +61,14 @@
 <pubDate>Fri, 06 Nov 2026 04:42:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>OpenAIは2026年11月5日、サイバーセキュリティ向けフロンティアモデルの最新バージョンGPT-6 Cyberを発表した。 — gihyo.jp / score: 90 (AIモデルによるサイバーセキュリティ自動化の重大な発表)</description>
+</item>
+<item>
+<title>[90] [PDF]不正アクセスによる「情報セキュリティ理解度チェックサービス」からの利用者個人情報漏えいの恐れに関するお知らせ</title>
+<link>https://www.jnsa.org/dl/annual/20261106.pdf</link>
+<guid isPermaLink="true">https://www.jnsa.org/dl/annual/20261106.pdf</guid>
+<pubDate>Fri, 06 Nov 2026 03:54:24 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>[PDF]不正アクセスによる「情報セキュリティ理解度チェックサービス」からの利用者個人情報漏えいの恐れに関するお知らせ — はてなブックマーク テクノロジー / score: 90 (個人情報漏えいの恐れがあるセキュリティインシデント)</description>
 </item>
 <item>
 <title>[90] OpenAIがLinuxの脆弱性948件を発見、費やしたAPIコストは約1億9200万円</title>
@@ -162,9 +170,9 @@
 <title>[85] Claude Codeがユーザーのメールアドレスを外部サイトに勝手に送信する問題が発覚、約4カ月前から報告されていたことも判明</title>
 <link>https://gigazine.net/news/20261106-claude-code-mail-address/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261106-claude-code-mail-address/</guid>
-<pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>AnthropicのAIコーディングツール「Claude Code」が、ユーザーのメールアドレスを許可なく外部のウェブサイトに送信していたという問題が報告されました。2026年11月5日にGitHubで新たな問題報告が投稿されましたが、同様の問題は7月にも報告されており、Anthropicの対応が注目されています。 続きを読む... — GIGAZINE / score: 85 (主要なAIコーディングツールの重大なプライバシーバグ)</description>
+<pubDate>Fri, 06 Nov 2026 06:09:45 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>AnthropicのAIコーディングツール「Claude Code」が、ユーザーのメールアドレスを許可なく外部のウェブサイトに送信していたという問題が報告されました。2026年11月5日にGitHubで新たな問題報告が投稿されましたが、同様の問題は7月にも報告されており、Anthropicの対応が注目されています。 Bug Report: Privacy viola... — はてなブックマーク テクノロジー / score: 85 (主要なAIコーディングツールの重大なプライバシーバグ)</description>
 </item>
 <item>
 <title>[85] ドコモで最大約30万件の個人情報流出！自分は対象？今すぐすべきこと</title>
@@ -205,6 +213,14 @@
 <pubDate>Thu, 05 Nov 2026 23:41:46 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>米OpenAIは11月5日（現地時間）、サイバーセキュリティに特化したAIモデル「GPT-6 Cyber」を発表した。汎用モデル「GPT-6 Astra」をベースに、脆弱性の発見や攻撃手法の検証などの能力を強化したモデルで、同社の防御者向けプログラム「Daybreak Red」の承認ユーザーに限定して提供する。 GPT-6 Astraは、9月に発表され... — はてなブックマーク テクノロジー / score: 85 (AIによる新脆弱性発見とセキュリティモデル)</description>
+</item>
+<item>
+<title>[85] .NET にも build.cs 欲しいんじゃーーー</title>
+<link>https://zenn.dev/sator_imaging/articles/c10d8da7685308</link>
+<guid isPermaLink="true">https://zenn.dev/sator_imaging/articles/c10d8da7685308</guid>
+<pubDate>Thu, 05 Nov 2026 13:05:08 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>某 NIKKE のゲームランチャーが攻撃されるインシデントが発生しました。 協力会社（出資元？）が CDN として使っていたドメインが期限切れになり、一部のスクリプトが改ざんされたことが原因だそうです。 動的データは開発体験を上げるが・・・ いわゆる RemoteConfig 等のゲームに関連するもの「ではなく」 常に最新版をサーバーから引っ張ってくれば楽できて開発体験が上がる によって問題が起きたように見えます。 私も広く公開していないアプリで「最新版を常に GitHub.com から取得」をランタイム時に実行しているので、低リスクとは言え他人事ではないな、と。 初期の開発体... — Zenn トレンド / score: 85 (依存関係の脆弱性やインシデントに関する警鐘)</description>
 </item>
 <item>
 <title>[85] 「Apache OpenOffice 4.1.17」で修正された脆弱性12件が新たに公開、9件は「Important」／v4.1.16以前を使っているなら早めの更新を</title>
@@ -359,12 +375,12 @@
 <description>As has been widely reported, the private keys of eight eMudhra intermediate CA certificates have been compromised. This page summarizes how to check whether your runtime is at risk and mitigation actions. — Inside Java / score: 85 (証明書失効に伴うOpenJDKのセキュリティリスクと対応)</description>
 </item>
 <item>
-<title>[85] Ruby 4.0.9、3.4.12、3.3.13公開、正規表現エンジンの不具合を修正 ——GitLabの任意コード実行の脆弱性に関連</title>
-<link>https://gihyo.jp/article/2026/10/ruby-regexp-fixes-gitlab-cves?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/10/ruby-regexp-fixes-gitlab-cves?utm_source=feed</guid>
-<pubDate>Fri, 23 Oct 2026 11:13:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Rubyの開発チームは2026年10月23日、プログラミング言語Rubyのバージョン4.0.9、3.4.12、3.3.13を公開した。 — gihyo.jp / score: 85 (脆弱性修正を伴うRubyのセキュリティパッチ)</description>
+<title>[80] ドコモ 流出の対象者に見舞金検討</title>
+<link>https://news.yahoo.co.jp/pickup/6601566?source=rss</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6601566?source=rss</guid>
+<pubDate>Fri, 06 Nov 2026 11:35:39 +0000</pubDate>
+<category>Yahoo!ニュース IT</category>
+<description> — Yahoo!ニュース IT / score: 80 (ドコモのデータ流出に関する重要ニュース)</description>
 </item>
 <item>
 <title>[80] Zabbix 8.0 LTSリリース、OpenTelemetry対応やMCPサーバー提供</title>
@@ -407,14 +423,6 @@
 <description>The Document Foundationは11月5日、オープンソースのオフィスソフト「LibreOffice」で1件の脆弱性を修正したと発表した。本脆弱性はAnthropicがエージェントを使ってオープンソースプロジェクトのセキュリティを調査するなかで「Claude」が発見し、Ada Logics社が検証・報告したもの。「TrendAI Zero Day Initiative」と協力する匿名の研究者からも報告されている。 — 窓の杜 / score: 80 (LibreOfficeのヒープバッファーオーバーフロー脆弱性修正)</description>
 </item>
 <item>
-<title>[80] 仏銀行サイバー攻撃 177億円流出</title>
-<link>https://news.yahoo.co.jp/pickup/6601387?source=rss</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6601387?source=rss</guid>
-<pubDate>Thu, 05 Nov 2026 01:14:21 +0000</pubDate>
-<category>Yahoo!ニュース IT</category>
-<description> — Yahoo!ニュース IT / score: 80 (大規模なサイバー攻撃と巨額の資金流出に関する事件。)</description>
-</item>
-<item>
 <title>[80] Scaling Git at OpenAI</title>
 <link>https://openai.com/index/scaling-git-at-openai</link>
 <guid isPermaLink="true">https://openai.com/index/scaling-git-at-openai</guid>
@@ -453,6 +461,22 @@
 <pubDate>Tue, 27 Oct 2026 16:01:38 +0000</pubDate>
 <category>Google DeepMind</category>
 <description>Genie 4: our new world model unlocking unprecedented realism in real-time simulation. — Google DeepMind / score: 80 (Google DeepMindの次世代ワールドシミュレーション発表)</description>
+</item>
+<item>
+<title>[75] [AINews] Inkling 2 Small: 17A-594B trained in 68 hours on 12T tokens, beating Muse Spark</title>
+<link>https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark/</link>
+<guid isPermaLink="true">https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark/</guid>
+<pubDate>Fri, 06 Nov 2026 10:35:21 +0000</pubDate>
+<category>Latent Space</category>
+<description>November 5, 2026 — Inside Inkling 2 Small’s training run and METR’s study of AI research at Anthropic. — Latent Space / score: 75 (AIモデルのトレーニング詳細に関する速報)</description>
+</item>
+<item>
+<title>[75] Thinking Machines、AIモデルInkling 2 Smallを発表——重みも公開予定</title>
+<link>https://gihyo.jp/article/2026/11/inkling-2-small?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/11/inkling-2-small?utm_source=feed</guid>
+<pubDate>Fri, 06 Nov 2026 09:13:44 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Thinking Machinesは2026年11月5日、AIモデルInkling 2 Smallを発表した。同日から、同社のAPIサービスTinkerを通じて、Inkling 2 Smallによる推論や、用途にあわせた追加学習（ファインチューニング）を行える。 — gihyo.jp / score: 75 (新しいAIモデルの発表と重み公開のニュース)</description>
 </item>
 <item>
 <title>[75] またしてもサイバー攻撃。狙われたのはお金、ではなく血液</title>
@@ -597,14 +621,6 @@
 <pubDate>Wed, 04 Nov 2026 23:34:52 +0000</pubDate>
 <category>AWS News Blog</category>
 <description>You can now migrate existing Apache Hive datasets in Amazon S3 to fully managed Apache Iceberg tables in Amazon S3 Tables, with no pipelines to build or compute to provision, while production workloads keep running. — AWS News Blog / score: 75 (Amazon S3のデータ移行機能の拡張)</description>
-</item>
-<item>
-<title>[75] 税法を定理証明支援系 Lean で書いて、プロダクト実装を「全入力で」確かめる - freee Developers Hub</title>
-<link>https://developers.freee.co.jp/entry/lean-formal-verification-tax-law-qa</link>
-<guid isPermaLink="true">https://developers.freee.co.jp/entry/lean-formal-verification-tax-law-qa</guid>
-<pubDate>Wed, 04 Nov 2026 15:32:04 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>こんにちは。エンジニアの kyasu です（GitHub / LinkedIn）。 この記事では、一般的なソフトウェアテストでは確かめきれない税の計算を、定理証明支援系 Lean と AI エージェントで検証した取り組みを紹介します。1 節から 4 節で、その手段と進め方を書きます。5 節から 7 節で、そこでわかった 3 つの成果（書き方が... — はてなブックマーク テクノロジー / score: 75 (定理証明支援系Leanを用いた税法検証)</description>
 </item>
 <item>
 <title>[75] Introducing Images 2.6</title>
@@ -789,22 +805,6 @@
 <pubDate>Fri, 06 Nov 2026 07:16:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>OpenAIの元CTOであるミラ・ムラティ氏が設立したアメリカに拠点を置くAI研究企業「Thinking Machines Lab」が、AIモデル「Inkling 2 Small」を現地時間の2026年11月5日に発表しました。近日中にオープンモデルとして公開される予定です。 続きを読む... — GIGAZINE / score: 70 (元OpenAI CTOによる新しいオープンAIモデル発表)</description>
-</item>
-<item>
-<title>[70] Google×サムスン初のスマートグラス、ついに今月予約スタート。年末発売へ</title>
-<link>https://www.gizmodo.jp/article/2611-google-samsung-smart-glasses-release/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-google-samsung-smart-glasses-release/</guid>
-<pubDate>Fri, 06 Nov 2026 04:30:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>Googleとサムスン初のAndroid XRスマートグラスがついに11月12日予約開始。年末発売予定の注目ウェアラブルのスペックや特徴を解説します。 — ギズモード・ジャパン / score: 70 (Googleとサムスン初のスマートグラス発売予定)</description>
-</item>
-<item>
-<title>[70] 脆弱性の悪用は公開の前へ、Red Hatが説く「ゼロCVE」からリスクベース管理への転換</title>
-<link>https://codezine.jp/article/detail/30266</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/30266</guid>
-<pubDate>Fri, 06 Nov 2026 04:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 70 (ゼロCVEからリスクベース管理への脆弱性対策の転換)</description>
 </item>
 </channel>
 </rss>
