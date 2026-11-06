@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 06 Nov 2026 08:08:46 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 10:06:40 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 約10年間見逃されていたOpenSSHの脆弱性「*sshole」が発覚、257文字以上のパスワードでログイン禁止アカウントを突破可能に</title>
@@ -13,14 +13,6 @@
 <pubDate>Fri, 06 Nov 2026 02:30:15 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>Linuxでリモートログインに使われるOpenSSHに、特定の条件下で正しいパスワードを知らなくてもログインできてしまう脆弱(ぜいじゃく)性「*sshole(CVE-2026-123158)」が発見されました。影響を受けるのはAlpine Linuxなどを利用する一部のシステムで、257バイト以上のパスワードを入力するだけで、本来はパスワードによる... — はてなブックマーク テクノロジー / score: 95 (OpenSSHの脆弱性詳細と影響の解説)</description>
-</item>
-<item>
-<title>[95] OpenSSHに認証バイパス脆弱性「*sshole（CVE-2026-123158）」 Alpine Linuxでパスワード不要のSSHログイン、root権限奪取のおそれ|セキュリティニュースのセキュリティ対策Lab</title>
-<link>https://rocket-boys.co.jp/security-measures-lab/openssh-sshhole-cve-2026-123158-alpine-authentication-bypass/</link>
-<guid isPermaLink="true">https://rocket-boys.co.jp/security-measures-lab/openssh-sshhole-cve-2026-123158-alpine-authentication-bypass/</guid>
-<pubDate>Fri, 06 Nov 2026 00:41:19 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>OpenSSHに認証バイパス脆弱性「*sshole（CVE-2026-123158）」 Alpine Linuxでパスワード不要のSSHログイン、root権限奪取のおそれ 2026年11月5日、OpenSSHにおいて、特定のLinux環境でパスワード認証を回避できる脆弱性「CVE-2026-123158」が公表されました。「*sshole」と名付けられたこの脆弱性は、Alpine Linuxなど... — はてなブックマーク テクノロジー / score: 95 (OpenSSHの深刻な認証バイパス脆弱性の公表)</description>
 </item>
 <item>
 <title>[95] OpenAI、Linuxカーネルを最新セキュリティAIモデルで調査、ローカル権限昇格の脆弱性948件を実証 ―エクスプロイト、パッチまで生成</title>
@@ -45,6 +37,14 @@
 <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
 <category>Python Insider</category>
 <description>Five expedited security releases to distrust the compromised eMudhra intermediate CA keys. — Python Insider / score: 95 (証明書漏洩対応のためのPython複数バージョンの緊急修正)</description>
+</item>
+<item>
+<title>[90] 長いパスワードで認証を回避する脆弱性「*sshole」、「Alpine Linux」などに影響／2016年から存在、「OpenSSH 10.6p2」で対策</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2154439.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2154439.html</guid>
+<pubDate>Fri, 06 Nov 2026 09:47:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>「OpenSSH」に関連する脆弱性「*sshole」が報告され、影響する製品で対策が急がれている。 — 窓の杜 / score: 90 (OpenSSH関連の深刻な脆弱性と対策情報)</description>
 </item>
 <item>
 <title>[90] OpenAI、セキュリティ特化AIモデル「GPT-6 Cyber」を発表、一部顧客に限定提供／Firefox、Linuxカーネル、Brotliの脆弱性発見・検証に活躍</title>
@@ -135,6 +135,30 @@
 <description>米Microsoftは10月30日（現地時間、以下同）、この2週間ほどで相次いで明らかになった3つのセキュリティ問題について、公式ブログ「MSRC」で対応を呼びかけた。いずれもMicrosoft製品に由来する脆弱性ではないが、Microsoftのサービスやユーザーの「Azure」環境で動くソフトウェアにも組み込まれていることが多いため、Microsoftとユーザーの双方で対応が必要だとしている。 — 窓の杜 / score: 88 (Microsoftが注意を呼びかける重要脆弱性と対応要請)</description>
 </item>
 <item>
+<title>[85] なぜかWindowsの「ペイント」にリモートコード実行の脆弱性</title>
+<link>https://gigazine.net/news/20261106-ms-paint-remote-code-execution-vulnerability/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261106-ms-paint-remote-code-execution-vulnerability/</guid>
+<pubDate>Fri, 06 Nov 2026 10:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>Windowsに標準搭載されているお絵描きソフト「ペイント」に、リモートコードを実行してしまう脆弱(ぜいじゃく)性が存在することが明らかになりました。 続きを読む... — GIGAZINE / score: 85 (Windowsペイントのリモートコード実行脆弱性)</description>
+</item>
+<item>
+<title>[85] セキュリティ啓発団体に不正アクセス　個人情報最大1.5万件漏えいか</title>
+<link>https://www.itmedia.co.jp/news/article/2611/06/2000002978/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/06/2000002978/</guid>
+<pubDate>Fri, 06 Nov 2026 08:41:42 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>情報セキュリティの普及啓発に向けて活動する日本ネットワークセキュリティ協会（JNSA）は11月6日、同協会が運営する「情報セキュリティ理解度チェックサービス」が第三者による不正アクセスを受け、最大1万5128件の個人情報が漏えいした可能性があると発表した。利用者のIDやハッシュ化したパスワードなどが漏えいした... — はてなブックマーク テクノロジー / score: 85 (セキュリティ啓発団体における個人情報漏えい事故)</description>
+</item>
+<item>
+<title>[85] 「Discord」がクライアント全体を「Rust」で書き直し、「Electron」から脱却へ／「Zed」のUIフレームワーク「GPUI」を採用、モバイル版とコードを共有</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2154396.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2154396.html</guid>
+<pubDate>Fri, 06 Nov 2026 08:24:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>ゲーマー向けトークアプリ「Discord」が、クライアントアプリ全体を「Rust」言語へ移行させるとのこと。米Discordの共同創業者でCTOを務めるStanislav Vishnevskiy氏が11月4日（現地時間、以下同）、自身の「X」（旧称Twitter）アカウントで明らかにした。 — 窓の杜 / score: 85 (DiscordのElectronからRustへの移行発表)</description>
+</item>
+<item>
 <title>[85] Claude Codeがユーザーのメールアドレスを外部サイトに勝手に送信する問題が発覚、約4カ月前から報告されていたことも判明</title>
 <link>https://gigazine.net/news/20261106-claude-code-mail-address/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261106-claude-code-mail-address/</guid>
@@ -197,14 +221,6 @@
 <pubDate>Thu, 05 Nov 2026 09:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope. — OpenAI News / score: 85 (サイバーセキュリティ特化型AIモデルの発表)</description>
-</item>
-<item>
-<title>[85] フランスの血液保存施設で冷蔵庫の設定を-30℃から110℃に引き上げるサイバー攻撃が発生、迅速な対応で血液製剤は無事</title>
-<link>https://gigazine.net/news/20261105-french-blood-fridge-cyberattacked/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261105-french-blood-fridge-cyberattacked/</guid>
-<pubDate>Thu, 05 Nov 2026 08:20:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>サイバー攻撃によってスーパーの冷蔵庫が50℃まで加熱されたフランスで、今度は血液の保存施設が標的になったことがわかりました。フランス血液研究所によると外部施設の冷蔵庫で、-30℃に設定されていた温度が110℃に変更されたとのこと。なお、警報を受けて、保存されていた血液製剤やサンプルは他に移されたため、被害は出ませんでした。 続きを読む... — GIGAZINE / score: 85 (医療施設を狙った重大なサイバー攻撃)</description>
 </item>
 <item>
 <title>[85] 「OpenSSL 4.1」が公開、メディア配信などに適した暗号化プロトコル「DTLS 1.3」に対応／2027年11月23日までサポートされるレギュラーリリース</title>
@@ -391,28 +407,12 @@
 <description>The Document Foundationは11月5日、オープンソースのオフィスソフト「LibreOffice」で1件の脆弱性を修正したと発表した。本脆弱性はAnthropicがエージェントを使ってオープンソースプロジェクトのセキュリティを調査するなかで「Claude」が発見し、Ada Logics社が検証・報告したもの。「TrendAI Zero Day Initiative」と協力する匿名の研究者からも報告されている。 — 窓の杜 / score: 80 (LibreOfficeのヒープバッファーオーバーフロー脆弱性修正)</description>
 </item>
 <item>
-<title>[80] GitHub Actions、pull_request_targetを12月2日から既定でブロック</title>
-<link>https://codezine.jp/article/detail/30246</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/30246</guid>
-<pubDate>Thu, 05 Nov 2026 07:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 80 (GitHub Actionsのセキュリティ仕様変更に関する重要なお知らせ)</description>
-</item>
-<item>
 <title>[80] 仏銀行サイバー攻撃 177億円流出</title>
 <link>https://news.yahoo.co.jp/pickup/6601387?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6601387?source=rss</guid>
 <pubDate>Thu, 05 Nov 2026 01:14:21 +0000</pubDate>
 <category>Yahoo!ニュース IT</category>
 <description> — Yahoo!ニュース IT / score: 80 (大規模なサイバー攻撃と巨額の資金流出に関する事件。)</description>
-</item>
-<item>
-<title>[80] 無印良品 クレカ番号など流出か</title>
-<link>https://news.yahoo.co.jp/pickup/6601331?source=rss</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6601331?source=rss</guid>
-<pubDate>Wed, 04 Nov 2026 09:32:09 +0000</pubDate>
-<category>Yahoo!ニュース IT</category>
-<description> — Yahoo!ニュース IT / score: 80 (クレジットカード情報流出の可能性に関するセキュリティインシデント)</description>
 </item>
 <item>
 <title>[80] Scaling Git at OpenAI</title>
@@ -455,12 +455,20 @@
 <description>Genie 4: our new world model unlocking unprecedented realism in real-time simulation. — Google DeepMind / score: 80 (Google DeepMindの次世代ワールドシミュレーション発表)</description>
 </item>
 <item>
-<title>[80] OpenAI GPT-6.1 Terra is now generally available on Amazon Bedrock</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/10/openai-gpt-6-1-terra-on-amazon-bedrock/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/openai-gpt-6-1-terra-on-amazon-bedrock/</guid>
-<pubDate>Mon, 26 Oct 2026 18:27:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Today, AWS announces the general availability of OpenAI GPT-6.1 Terra on Amazon Bedrock. GPT-6.1 Terra expands the GPT-6 family with a balance of capability, speed, and cost efficiency for everyday workloads. As the newest model in the Terra line, GPT-6.1 Terra combines detailed visual reasoning, accurate computer use, and improved factuality and natural writing over GPT-5.6 Terra, for complex workflows. In OpenAI’s Agents’ Last Exam evaluation, it scored 15 percentage points higher than GPT-5.6 — AWS What's New / score: 80 (Amazon Bedrockでの新型GPTモデル提供開始)</description>
+<title>[75] またしてもサイバー攻撃。狙われたのはお金、ではなく血液</title>
+<link>https://www.gizmodo.jp/article/france_hackers_target_money-and-blood/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/france_hackers_target_money-and-blood/</guid>
+<pubDate>Fri, 06 Nov 2026 08:35:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>世界中で異常なほど相次いでいるサイバー攻撃。ハッカーたちが狙うのは、企業や金融機関を標的とした情報やお金だけではありません。アメリカやフランスの食料品スーパーでは、冷凍設備がハッキングされ食品が大量に廃棄されるという被害が多数発生しています… — ギズモード・ジャパン / score: 75 (医療機関等を狙うサイバー攻撃の社会的重要ニュース)</description>
+</item>
+<item>
+<title>[75] X、Webアプリ基盤をゼロから再構築 ―3つのサーバーを統合し低速回線での表示を大幅にスピードアップ</title>
+<link>https://gihyo.jp/article/2026/11/rebuilding-x-web-app-server?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/11/rebuilding-x-web-app-server?utm_source=feed</guid>
+<pubDate>Fri, 06 Nov 2026 07:50:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Xのエンジニアリングチームは2026年11月4日、約10年間運用されてきた3種類のWebサーバーを統合し、新しい単一のWebアプリケーション基盤をゼロから構築したことを発表した。 — gihyo.jp / score: 75 (XのWeb基盤リプレイス事例と大規模構成)</description>
 </item>
 <item>
 <title>[75] ChatGPTが夫の毒殺計画を手助け、毒物の選定から毒を上手く隠すための方法の提案まで</title>
@@ -479,20 +487,12 @@
 <description>Today, AWS announces that AWS Security Hub now provides a Software Bill of Materials (SBOM) inventory, giving central security teams a continuously updated, organization-wide view of the software packages and applications installed on their compute resources. Security Hub builds the inventory from the SBOMs that Amazon Inspector generates for Amazon EC2 instances, Amazon ECR container images, and AWS Lambda functions, with no additional configuration. The SBOM page lists each package with its ve — AWS What's New / score: 75 (AWS Security HubのSBOMインベントリ機能追加)</description>
 </item>
 <item>
-<title>[75] 綺麗な和訳を無料で、スマホででも。高性能な翻訳特化の国産ローカルLLM「PLaMo 3 Translate」</title>
-<link>https://www.gizmodo.jp/article/2611-plamo-3-translate-local-llm/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-plamo-3-translate-local-llm/</guid>
-<pubDate>Thu, 05 Nov 2026 23:50:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>今いちばん試す価値があるローカルLLM。2026年11月5日、株式会社Preferred Networksが翻訳特化型のローカルLLM「PLaMo 3 Translate」をオープンウェイトで公開しました。独自の訓練手法で高い翻訳性能を実現… — ギズモード・ジャパン / score: 75 (国産ローカルLLMの公開情報)</description>
-</item>
-<item>
 <title>[75] AIは開発者やプログラマーたちに長年にわたって蓄積されてきた技術的負債を返済することを強いている</title>
 <link>https://gigazine.net/news/20261106-ai-in-cybersecurity-php2shell-vulnerability/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261106-ai-in-cybersecurity-php2shell-vulnerability/</guid>
-<pubDate>Thu, 05 Nov 2026 21:20:44 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>2026年10月21日に発見された深刻なサイバーセキュリティ脆弱性「PHP2Shell」はNASA・Wikipedia・ホワイトハウスといった名だたるウェブサイトに影響を与える可能性があったものの、悪用される前に修正パッチがリリースされたため大規模な被害は回避されました。しかし、PHP2Shellはいわば「炭鉱のカナリア」でありAI時代... — はてなブックマーク テクノロジー / score: 75 (AI時代の技術的負債とセキュリティリスクに関する警告)</description>
+<pubDate>Thu, 05 Nov 2026 21:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>2026年10月21日に発見された深刻なサイバーセキュリティ脆弱性「PHP2Shell」はNASA・Wikipedia・ホワイトハウスといった名だたるウェブサイトに影響を与える可能性があったものの、悪用される前に修正パッチがリリースされたため大規模な被害は回避されました。しかし、PHP2Shellはいわば「炭鉱のカナリア」でありAI時代に起こり得ることへの警告かもしれないと、電気・電子工学系ニュースサイトのIEEE Spectrumは指摘しています。 続きを読む... — GIGAZINE / score: 75 (AI時代の技術的負債とセキュリティリスクに関する警告)</description>
 </item>
 <item>
 <title>[75] 浦安市が「さくらのクラウド」採用、ガバメントクラウド移行で自治体初</title>
@@ -533,6 +533,14 @@
 <pubDate>Thu, 05 Nov 2026 17:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>Today, Gemini Omni 1.2 Flash is generally available on Google Cloud. Built for the everyday videos businesses make in volume — like product videos, virtual try-ons, and ads — this model is fast, cost-effective, and follows your image, video and audio references more closely than before. Business users can create with it in Gemini for business and Google Vids, and developers can build with it via API. Here's what's new: A lower price: $0.07 per second of 720p video, 30% less than Gemini Omni 1.1  — Google Cloud Blog / score: 75 (動画生成・編集向けGeminiモデルの一般提供開始)</description>
+</item>
+<item>
+<title>[75] ubuntu-latest が 26.04 になったら、ECS（arm64）がイメージを pull できなくなった話</title>
+<link>https://qiita.com/ogura-gmoconnect/items/6d75b12b6c726ebcd751?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/ogura-gmoconnect/items/6d75b12b6c726ebcd751?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Thu, 05 Nov 2026 12:28:43 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>はじめに GMOコネクトの小倉です。 依存ライブラリを更新する PR をマージしたら、ECS の新しいタスクが起動しなくなりました。アプリのコードも Dockerfile も、ビルドの手順も変えていないのに、です😇 調べてみると、GitHub Actions の ubun... — Qiita 人気記事 / score: 75 (CI環境のバージョンアップに伴うECSイメージpull不具合)</description>
 </item>
 <item>
 <title>[75] PFN、翻訳特化LLM「PLaMo 3 Translate」のモデル重みを公開、0.8Bから31Bまで4サイズ</title>
@@ -613,14 +621,6 @@
 <pubDate>Tue, 03 Nov 2026 15:16:22 +0000</pubDate>
 <category>Publickey</category>
 <description>GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、AIエージェント時代に対応した大幅な性能向上を実現することを明らかにしました。 性能向上はGitHubの基盤... — Publickey / score: 75 (GitHubのAI関連の大きな性能向上発表)</description>
-</item>
-<item>
-<title>[75] [AWS]日本語OCRがついにきちゃー！ ~Textractにいろいろ読ませてみた~</title>
-<link>https://qiita.com/kikuziro/items/9aff0fefe89cfa13192e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/kikuziro/items/9aff0fefe89cfa13192e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Tue, 03 Nov 2026 13:54:09 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>📣 はじめに 2026年11月2日にAWSのAmazon Textract（OCRしてくれるやつ）が日本語に対応して東京リージョンでも使えるようになりました。以下記事がとてもわかりやすいので是非ご参照ください。 この記事ではいろんな画像をTextractに読ま... — Qiita 人気記事 / score: 75 (Amazon Textractの待望の日本語OCR対応)</description>
 </item>
 <item>
 <title>[75] [AINews] LLMs can read &amp; write neural network weights: "Weight Space Programming" cuts Autoresearch out of the RSI loop</title>
@@ -783,14 +783,6 @@
 <description>2 months ago we covered Z.ai CEO Prof Jie Tang’s prediction that we’d get a Fable-class open weights model by year end . 2 weeks ago Meta achieved a Fable-class model in closed source , but, with 2.5 months left to go, we finally got it - a 2.8T open weights model beating Fable 5.1, not just Fable 5, at that: View post on X ↗ with even better efficiency: View post on X ↗ You can tell Kimi is proud of their latest model by how fancy their landing page is: As usual we don’t get much research detai — Latent Space / score: 75 (オープンAIモデルの性能向上とリリース)</description>
 </item>
 <item>
-<title>[75] Securing our frontier model training environment</title>
-<link>https://openai.com/index/securing-our-frontier-model-training-environment</link>
-<guid isPermaLink="true">https://openai.com/index/securing-our-frontier-model-training-environment</guid>
-<pubDate>Fri, 23 Oct 2026 10:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming. — OpenAI News / score: 75 (AI最先端モデルのセキュリティ強化に関する解説。)</description>
-</item>
-<item>
 <title>[70] OpenAI元CTOのAI企業が高性能AIモデル「Inkling 2 Small」を発表、近日中にオープンモデルとして公開される予定</title>
 <link>https://gigazine.net/news/20261106-inkling-2-small/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261106-inkling-2-small/</guid>
@@ -805,6 +797,14 @@
 <pubDate>Fri, 06 Nov 2026 04:30:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>Googleとサムスン初のAndroid XRスマートグラスがついに11月12日予約開始。年末発売予定の注目ウェアラブルのスペックや特徴を解説します。 — ギズモード・ジャパン / score: 70 (Googleとサムスン初のスマートグラス発売予定)</description>
+</item>
+<item>
+<title>[70] 脆弱性の悪用は公開の前へ、Red Hatが説く「ゼロCVE」からリスクベース管理への転換</title>
+<link>https://codezine.jp/article/detail/30266</link>
+<guid isPermaLink="true">https://codezine.jp/article/detail/30266</guid>
+<pubDate>Fri, 06 Nov 2026 04:00:00 +0000</pubDate>
+<category>CodeZine</category>
+<description> — CodeZine / score: 70 (ゼロCVEからリスクベース管理への脆弱性対策の転換)</description>
 </item>
 </channel>
 </rss>
