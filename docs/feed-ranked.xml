@@ -4,15 +4,23 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 06 Nov 2026 02:09:13 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 04:07:47 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
-<title>[95] Chromeの脆弱性、「重大」含む213件を修正。タブ開きっぱなし勢は今すぐ再起動して</title>
-<link>https://www.gizmodo.jp/article/2611-chrome-vulnerability-fix-november/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-chrome-vulnerability-fix-november/</guid>
-<pubDate>Thu, 05 Nov 2026 08:40:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>Chrome、最後に閉じたのいつですか？Googleが11月3日、PC向けの最新版「Chrome 157」を公開しました。直したセキュリティの穴は213件。うち7件は、深刻度がいちばん高い「重大」です。開きっぱなしだと、修正が届かないあれ、… — ギズモード・ジャパン / score: 95 (Chromeの重大な脆弱性修正とアップデート)</description>
+<title>[95] 約10年間見逃されていたOpenSSHの脆弱性「*sshole」が発覚、257文字以上のパスワードでログイン禁止アカウントを突破可能に</title>
+<link>https://gigazine.net/news/20261106-openssh-xsshole/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261106-openssh-xsshole/</guid>
+<pubDate>Fri, 06 Nov 2026 02:25:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>Linuxでリモートログインに使われるOpenSSHに、特定の条件下で正しいパスワードを知らなくてもログインできてしまう脆弱(ぜいじゃく)性「*sshole(CVE-2026-123158)」が発見されました。影響を受けるのはAlpine Linuxなどを利用する一部のシステムで、257バイト以上のパスワードを入力するだけで、本来はパスワードによるログインが禁止されているアカウントにアクセスできる可能性があります。 続きを読む... — GIGAZINE / score: 95 (OpenSSHの脆弱性詳細と影響の解説)</description>
+</item>
+<item>
+<title>[95] OpenSSHに認証バイパス脆弱性「*sshole（CVE-2026-123158）」 Alpine Linuxでパスワード不要のSSHログイン、root権限奪取のおそれ|セキュリティニュースのセキュリティ対策Lab</title>
+<link>https://rocket-boys.co.jp/security-measures-lab/openssh-sshhole-cve-2026-123158-alpine-authentication-bypass/</link>
+<guid isPermaLink="true">https://rocket-boys.co.jp/security-measures-lab/openssh-sshhole-cve-2026-123158-alpine-authentication-bypass/</guid>
+<pubDate>Fri, 06 Nov 2026 00:41:19 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>OpenSSHに認証バイパス脆弱性「*sshole（CVE-2026-123158）」 Alpine Linuxでパスワード不要のSSHログイン、root権限奪取のおそれ 2026年11月5日、OpenSSHにおいて、特定のLinux環境でパスワード認証を回避できる脆弱性「CVE-2026-123158」が公表されました。「*sshole」と名付けられたこの脆弱性は、Alpine Linuxなど... — はてなブックマーク テクノロジー / score: 95 (OpenSSHの深刻な認証バイパス脆弱性の公表)</description>
 </item>
 <item>
 <title>[95] OpenAI、Linuxカーネルを最新セキュリティAIモデルで調査、ローカル権限昇格の脆弱性948件を実証 ―エクスプロイト、パッチまで生成</title>
@@ -31,14 +39,6 @@
 <description>米SpaceX傘下のCursor社は10月29日（現地時間）、「Cursor」のマーケットプレイスで悪意ある改竄が施された「Claude Code for VS Code」拡張機能が公開されていたことを明らかにした。影響を受けたのは最大5,000ユーザーで、該当する場合は確認と修復の作業が必要になる。 — 窓の杜 / score: 95 (開発者向けツールにおける悪意ある拡張機能のサプライチェーン攻撃)</description>
 </item>
 <item>
-<title>[95] 「Google Chrome」に21件の脆弱性、修正版が公開 ～「Critical」1件を含む／Windows/Mac向けはv156.0.8078.79/.80、Linux向けはv156.0.8078.79</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2152458.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2152458.html</guid>
-<pubDate>Fri, 30 Oct 2026 02:48:26 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Googleは10月29日（現地時間）、デスクトップ向け「Google Chrome」の安定（Stable）チャネルをアップデートした。今後数日から数週間をかけて、Windows/Mac環境にはv156.0.8078.79/.80、Linux環境にはv156.0.8078.79が展開される。 — 窓の杜 / score: 95 (主要ブラウザのCritical含む多数の脆弱性修正)</description>
-</item>
-<item>
 <title>[95] Python 3.15.2, 3.14.10, 3.13.18, 3.12.16 and 3.11.18 are out</title>
 <link>https://blog.python.org/2026/10/python-3152-31410-31318-31216-31118/</link>
 <guid isPermaLink="true">https://blog.python.org/2026/10/python-3152-31410-31318-31216-31118/</guid>
@@ -47,36 +47,20 @@
 <description>Five expedited security releases to distrust the compromised eMudhra intermediate CA keys. — Python Insider / score: 95 (証明書漏洩対応のためのPython複数バージョンの緊急修正)</description>
 </item>
 <item>
+<title>[90] OpenAIがLinuxの脆弱性948件を発見、費やしたAPIコストは約1億9200万円</title>
+<link>https://gigazine.net/news/20261106-openai-built-linux-vulnerability/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261106-openai-built-linux-vulnerability/</guid>
+<pubDate>Fri, 06 Nov 2026 03:03:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>OpenAIが、社内で最高のサイバーセキュリティ検証能力を持つAIモデル「GPT-6 Cyber」を使ってLinuxカーネルの脆弱(ぜいじゃく)性を検証したと発表しました。 続きを読む... — GIGAZINE / score: 90 (AIを用いた大規模なLinux脆弱性発見の成果)</description>
+</item>
+<item>
 <title>[90] Linuxカーネルの深刻な脆弱性／FDEの名前で単なるコンサルティングが販売／TypeScriptをRustに移植した「tsrs」発表ほか、2026年10月の人気記事</title>
 <link>https://www.publickey1.jp/blog/26/linuxfdetypescriptrusttsrs202610.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/linuxfdetypescriptrusttsrs202610.html</guid>
 <pubDate>Thu, 05 Nov 2026 15:37:44 +0000</pubDate>
 <category>Publickey</category>
 <description>2026年の9月から10月にかけては、タイムズカーから自動車免許証の画像を含む大規模な個人情報の漏洩があり、Linuxの深刻な脆弱性が発見され、PHPの脆弱について高市総理がXにポストするなど、ITの分野で社会的に大きな問題がありました。 ... — Publickey / score: 90 (Linuxカーネルの深刻な脆弱性と話題のまとめ)</description>
-</item>
-<item>
-<title>[90] アイリスオーヤマ 約770万人分の個人情報が漏えいした可能性 | NHKニュース</title>
-<link>https://news.web.nhk/newsweb/na/nd-20261105de71262</link>
-<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261105de71262</guid>
-<pubDate>Thu, 05 Nov 2026 12:55:33 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>大手生活用品メーカーのアイリスオーヤマは、会社の通販サイトが不正アクセスを受け、およそ770万人分の個人情報が漏えいした可能性があると発表しました。 会社によりますと、漏えいした可能性があるのは外… — はてなブックマーク テクノロジー / score: 90 (約770万人分の個人情報流出という重大な事案)</description>
-</item>
-<item>
-<title>[90] 【速報】三井住友系、最大32万人顧客情報流出</title>
-<link>https://www.47news.jp/15188261.html</link>
-<guid isPermaLink="true">https://www.47news.jp/15188261.html</guid>
-<pubDate>Thu, 05 Nov 2026 09:40:03 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>三井住友フィナンシャルグループ傘下の消費者金融大手SMBCコンシューマーファイナンス（東京）は5日、不正アクセスを受け、最大約32万人の氏名など顧客情報が流出したと発表した。 — はてなブックマーク テクノロジー / score: 90 (大手金融グループでの大規模な個人情報流出インシデント)</description>
-</item>
-<item>
-<title>[90] Googleが130万台のAndroid TVで密かに稼働していたボットネットを解体</title>
-<link>https://gigazine.net/news/20261105-xcpe-down/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261105-xcpe-down/</guid>
-<pubDate>Thu, 05 Nov 2026 02:36:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>Googleの脅威インテリジェンスグループが、日本の警察庁やセキュリティ企業のLumenなどと連携して「x.cpe」と呼ばれる大規模なボットネットを停止させたと発表しました。Googleは中国企業が意図的にバックドアを仕込んだと判断しています。 続きを読む... — GIGAZINE / score: 90 (130万台規模のAndroidボットネット解体)</description>
 </item>
 <item>
 <title>[90] A thousand fewer paths to root</title>
@@ -135,12 +119,28 @@
 <description>米Microsoftは10月30日（現地時間、以下同）、この2週間ほどで相次いで明らかになった3つのセキュリティ問題について、公式ブログ「MSRC」で対応を呼びかけた。いずれもMicrosoft製品に由来する脆弱性ではないが、Microsoftのサービスやユーザーの「Azure」環境で動くソフトウェアにも組み込まれていることが多いため、Microsoftとユーザーの双方で対応が必要だとしている。 — 窓の杜 / score: 88 (Microsoftが注意を呼びかける重要脆弱性と対応要請)</description>
 </item>
 <item>
-<title>[85] ステートレス化、認可強化、拡張機能などMCPサーバーの最新動向を解説</title>
-<link>https://ascii.jp/elem/000/004/447/4447102/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/447/4447102/?rss</guid>
-<pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>MCPの2026-07-28リリースは、ステートレス化・認可強化・拡張機能フレームワークまで一気に手が入った、MCP史上一番大きな仕様変更です。「結局、自分たちの本番運用にどう影響するのか」が気になる方向けに、変更点を一つずつかみ砕いて整理した記事をご紹介します。 — ASCII.jp / score: 85 (MCPの大きな仕様変更解説で重要)</description>
+<title>[85] OpenAIがサイバーセキュリティのためのAI「GPT-6 Cyber」を発表</title>
+<link>https://gigazine.net/news/20261106-openai-gpt-6-cyber/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261106-openai-gpt-6-cyber/</guid>
+<pubDate>Fri, 06 Nov 2026 02:59:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>脆弱(ぜいじゃく)性の発見と修正において高い能力を備えるというOpenAIのモデル「GPT-6 Cyber」が発表されました。 続きを読む... — GIGAZINE / score: 85 (サイバーセキュリティ特化型AIモデルの発表)</description>
+</item>
+<item>
+<title>[85] Discordがメモリ使用量削減と安全性向上のためデスクトップ版アプリをRustで再構築へ</title>
+<link>https://gigazine.net/news/20261106-discord-rebuild-app-in-rust/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261106-discord-rebuild-app-in-rust/</guid>
+<pubDate>Fri, 06 Nov 2026 02:18:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>Discordのデスクトップ版アプリは、長らくクロスプラットフォーム向けアプリケーション構築用のフレームワークであるElectronで作られていましたが、このたびRust製に全面刷新する方針が示されました。再構築によりメモリ使用量が大幅に削減されるほか、安全性が向上することになります。 続きを読む... — GIGAZINE / score: 85 (Electron製からRust製への移行で大きな話題)</description>
+</item>
+<item>
+<title>[85] Googleが「SREの教科書」を10年ぶりに全面改訂　“システム運用の常識”はどう変わった？</title>
+<link>https://atmarkit.itmedia.co.jp/ait/articles/2611/06/news024.html</link>
+<guid isPermaLink="true">https://atmarkit.itmedia.co.jp/ait/articles/2611/06/news024.html</guid>
+<pubDate>Fri, 06 Nov 2026 00:57:20 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Googleは2026年10月12日（米国時間）、システムの信頼性を確保するための考え方や実践手法をまとめた書籍『Site Reliability Engineering: How Google Runs Production Systems』の第2版を発表した。2016年に初版が出版されたもので、それ以来10年ぶりの全面改訂となる。 SREは、ソフトウェアエンジニアリングの手法をシ... — はてなブックマーク テクノロジー / score: 85 (SREのバイブル的書籍の10年ぶり全面改訂)</description>
 </item>
 <item>
 <title>[85] OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表　Firefoxの未知の脆弱性81件を発見</title>
@@ -399,14 +399,6 @@
 <description>Bluetoothの規格策定を担う業界団体のBluetooth SIGが2026年11月4日、Bluetooth Low Energy(Bluetooth LE)の最大通信速度を従来の約4倍に引き上げる新技術「Bluetooth High Data Throughput(HDT)」を正式に採用したと発表しました。最大通信速度が従来の2Mbpsから7.5Mbpsに向上し、ロスレス音声やハイレゾ音声の伝送などが可能になると期待されています。 続きを読む... — GIGAZINE / score: 80 (Bluetooth通信速度を4倍にする新規格HDT採用)</description>
 </item>
 <item>
-<title>[80] ホワイトハウスのネットワークで住宅用プロキシが検出される</title>
-<link>https://gigazine.net/news/20261105-residential-proxies-detected-white-house/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261105-residential-proxies-detected-white-house/</guid>
-<pubDate>Thu, 05 Nov 2026 02:21:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>アメリカの中枢・ホワイトハウスのネットワークで、住宅用プロキシ(レジデンシャルプロキシ)の出口ノードが複数個検出されたことが分かりました。ホワイトハウスのネットワークを定期的に利用する人物が踏み台にされている可能性が指摘されています。 続きを読む... — GIGAZINE / score: 80 (ホワイトハウスネットワークでのプロキシ検出)</description>
-</item>
-<item>
 <title>[80] 仏銀行サイバー攻撃 177億円流出</title>
 <link>https://news.yahoo.co.jp/pickup/6601387?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6601387?source=rss</guid>
@@ -607,14 +599,6 @@
 <description>中国のIT大手Tencentは2026年11月4日、新たなAIモデル「Tencent Hy4」を発表しました。画像の理解やPCの操作に対応し、プログラミングや金融分析、ゲーム開発、科学研究など幅広い分野で高い性能を発揮するとしています。TencentはHy4のモデルの重みを近日中に公開する方針も明らかにしました。 続きを読む... — GIGAZINE / score: 75 (Tencentによる高性能オープンAIモデル発表)</description>
 </item>
 <item>
-<title>[75] Amazon EKS Auto Mode、Kubernetes Gateway APIをサポート</title>
-<link>https://codezine.jp/article/detail/30241</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/30241</guid>
-<pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 75 (Amazon EKS Auto Modeの新機能サポート)</description>
-</item>
-<item>
 <title>[75] Claude Platform release notes — November 5, 2026</title>
 <link>https://platform.claude.com/docs/en/release-notes/overview#ip-allowlisting</link>
 <guid isPermaLink="true">https://platform.claude.com/docs/en/release-notes/overview#ip-allowlisting</guid>
@@ -805,6 +789,22 @@
 <pubDate>Sun, 25 Oct 2026 17:12:01 +0000</pubDate>
 <category>CPython リリース</category>
 <description>Python 3.14.10 — CPython リリース / score: 75 (Python 3.14.10のリリース情報)</description>
+</item>
+<item>
+<title>[75] v3.15.2</title>
+<link>https://github.com/python/cpython/releases/tag/v3.15.2</link>
+<guid isPermaLink="true">https://github.com/python/cpython/releases/tag/v3.15.2</guid>
+<pubDate>Sun, 25 Oct 2026 16:57:52 +0000</pubDate>
+<category>CPython リリース</category>
+<description>Python 3.15.2 — CPython リリース / score: 75 (Python 3.15.2のリリース情報)</description>
+</item>
+<item>
+<title>[75] [AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed</title>
+<link>https://latent.space/p/ainews-kimi-31/</link>
+<guid isPermaLink="true">https://latent.space/p/ainews-kimi-31/</guid>
+<pubDate>Sat, 24 Oct 2026 07:18:29 +0000</pubDate>
+<category>Latent Space</category>
+<description>2 months ago we covered Z.ai CEO Prof Jie Tang’s prediction that we’d get a Fable-class open weights model by year end . 2 weeks ago Meta achieved a Fable-class model in closed source , but, with 2.5 months left to go, we finally got it - a 2.8T open weights model beating Fable 5.1, not just Fable 5, at that: View post on X ↗ with even better efficiency: View post on X ↗ You can tell Kimi is proud of their latest model by how fancy their landing page is: As usual we don’t get much research detai — Latent Space / score: 75 (オープンAIモデルの性能向上とリリース)</description>
 </item>
 </channel>
 </rss>
