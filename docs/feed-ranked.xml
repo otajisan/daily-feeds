@@ -4,15 +4,15 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 06 Nov 2026 04:07:47 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 06:12:12 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 約10年間見逃されていたOpenSSHの脆弱性「*sshole」が発覚、257文字以上のパスワードでログイン禁止アカウントを突破可能に</title>
 <link>https://gigazine.net/news/20261106-openssh-xsshole/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261106-openssh-xsshole/</guid>
-<pubDate>Fri, 06 Nov 2026 02:25:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>Linuxでリモートログインに使われるOpenSSHに、特定の条件下で正しいパスワードを知らなくてもログインできてしまう脆弱(ぜいじゃく)性「*sshole(CVE-2026-123158)」が発見されました。影響を受けるのはAlpine Linuxなどを利用する一部のシステムで、257バイト以上のパスワードを入力するだけで、本来はパスワードによるログインが禁止されているアカウントにアクセスできる可能性があります。 続きを読む... — GIGAZINE / score: 95 (OpenSSHの脆弱性詳細と影響の解説)</description>
+<pubDate>Fri, 06 Nov 2026 02:30:15 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Linuxでリモートログインに使われるOpenSSHに、特定の条件下で正しいパスワードを知らなくてもログインできてしまう脆弱(ぜいじゃく)性「*sshole(CVE-2026-123158)」が発見されました。影響を受けるのはAlpine Linuxなどを利用する一部のシステムで、257バイト以上のパスワードを入力するだけで、本来はパスワードによる... — はてなブックマーク テクノロジー / score: 95 (OpenSSHの脆弱性詳細と影響の解説)</description>
 </item>
 <item>
 <title>[95] OpenSSHに認証バイパス脆弱性「*sshole（CVE-2026-123158）」 Alpine Linuxでパスワード不要のSSHログイン、root権限奪取のおそれ|セキュリティニュースのセキュリティ対策Lab</title>
@@ -45,6 +45,22 @@
 <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
 <category>Python Insider</category>
 <description>Five expedited security releases to distrust the compromised eMudhra intermediate CA keys. — Python Insider / score: 95 (証明書漏洩対応のためのPython複数バージョンの緊急修正)</description>
+</item>
+<item>
+<title>[90] OpenAI、セキュリティ特化AIモデル「GPT-6 Cyber」を発表、一部顧客に限定提供／Firefox、Linuxカーネル、Brotliの脆弱性発見・検証に活躍</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2154238.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2154238.html</guid>
+<pubDate>Fri, 06 Nov 2026 05:15:53 +0000</pubDate>
+<category>窓の杜</category>
+<description>米OpenAIは11月5日（現地時間、以下同）、セキュリティ研究向けのAIモデル「GPT-6 Cyber」を発表した。最上位モデル「GPT-6 Astra」をベースに、許可を得た脆弱性研究向けに訓練したモデルで、脆弱性の発見やエクスプロイト（攻撃コード）の開発、Webアプリのペネトレーションテストといった作業を担う。 — 窓の杜 / score: 90 (OpenAIによるセキュリティ特化型AIモデルの発表)</description>
+</item>
+<item>
+<title>[90] OpenAI、サイバーセキュリティ向けフロンティアモデル「GPT-6 Cyber」を発表 ―脆弱性の自律的な検出・検証・修正に対応、スコープ外への攻撃・逸脱を厳格に防止</title>
+<link>https://gihyo.jp/article/2026/11/gpt-6-cyber?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/11/gpt-6-cyber?utm_source=feed</guid>
+<pubDate>Fri, 06 Nov 2026 04:42:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>OpenAIは2026年11月5日、サイバーセキュリティ向けフロンティアモデルの最新バージョンGPT-6 Cyberを発表した。 — gihyo.jp / score: 90 (AIモデルによるサイバーセキュリティ自動化の重大な発表)</description>
 </item>
 <item>
 <title>[90] OpenAIがLinuxの脆弱性948件を発見、費やしたAPIコストは約1億9200万円</title>
@@ -119,6 +135,38 @@
 <description>米Microsoftは10月30日（現地時間、以下同）、この2週間ほどで相次いで明らかになった3つのセキュリティ問題について、公式ブログ「MSRC」で対応を呼びかけた。いずれもMicrosoft製品に由来する脆弱性ではないが、Microsoftのサービスやユーザーの「Azure」環境で動くソフトウェアにも組み込まれていることが多いため、Microsoftとユーザーの双方で対応が必要だとしている。 — 窓の杜 / score: 88 (Microsoftが注意を呼びかける重要脆弱性と対応要請)</description>
 </item>
 <item>
+<title>[85] Claude Codeがユーザーのメールアドレスを外部サイトに勝手に送信する問題が発覚、約4カ月前から報告されていたことも判明</title>
+<link>https://gigazine.net/news/20261106-claude-code-mail-address/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261106-claude-code-mail-address/</guid>
+<pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>AnthropicのAIコーディングツール「Claude Code」が、ユーザーのメールアドレスを許可なく外部のウェブサイトに送信していたという問題が報告されました。2026年11月5日にGitHubで新たな問題報告が投稿されましたが、同様の問題は7月にも報告されており、Anthropicの対応が注目されています。 続きを読む... — GIGAZINE / score: 85 (主要なAIコーディングツールの重大なプライバシーバグ)</description>
+</item>
+<item>
+<title>[85] ドコモで最大約30万件の個人情報流出！自分は対象？今すぐすべきこと</title>
+<link>https://iphone-mania.jp/carrier-608381/</link>
+<guid isPermaLink="true">https://iphone-mania.jp/carrier-608381/</guid>
+<pubDate>Fri, 06 Nov 2026 05:15:23 +0000</pubDate>
+<category>iPhone Mania</category>
+<description>NTTドコモは2026年11月5日、ドコモオンラインショップとMy docomoへの不正アクセスで、一部のお客さま情報が最大約30万件流出したと発表しました。第二報（午後6時30分時点）では、自分が対象かを調べる専用の確 […] — iPhone Mania / score: 85 (大規模サービスにおける不正アクセスと個人情報流出)</description>
+</item>
+<item>
+<title>[85] So-netで個人情報漏えい、3月以降の退会者も対象に　氏名、電話番号、メールアドレスなど</title>
+<link>https://ascii.jp/elem/000/004/449/4449281/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/449/4449281/?rss</guid>
+<pubDate>Fri, 06 Nov 2026 05:10:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>abstractソニーネットワークコミュニケーションズは11月6日、「So-net」の会員データベースへの不正アクセスにより、個人情報が漏えいしたと発表した。 — ASCII.jp / score: 85 (So-netでの不正アクセスによる個人情報漏えい)</description>
+</item>
+<item>
+<title>[85] セキュリティ専門団体が不正アクセス被害、最大1.5万件の情報漏えいか　ID・パスワードも対象に</title>
+<link>https://ascii.jp/elem/000/004/449/4449194/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/449/4449194/?rss</guid>
+<pubDate>Fri, 06 Nov 2026 04:10:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>日本ネットワークセキュリティ協会（JNSA）は11月6日、運営する「情報セキュリティ理解度チェックサービス」が不正アクセスを受け、利用者の個人情報が漏えいした可能性があると発表した。 — ASCII.jp / score: 85 (セキュリティ専門団体における不正アクセス被害)</description>
+</item>
+<item>
 <title>[85] OpenAIがサイバーセキュリティのためのAI「GPT-6 Cyber」を発表</title>
 <link>https://gigazine.net/news/20261106-openai-gpt-6-cyber/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261106-openai-gpt-6-cyber/</guid>
@@ -151,14 +199,6 @@
 <description>米OpenAIは11月5日（現地時間）、サイバーセキュリティに特化したAIモデル「GPT-6 Cyber」を発表した。汎用モデル「GPT-6 Astra」をベースに、脆弱性の発見や攻撃手法の検証などの能力を強化したモデルで、同社の防御者向けプログラム「Daybreak Red」の承認ユーザーに限定して提供する。 GPT-6 Astraは、9月に発表され... — はてなブックマーク テクノロジー / score: 85 (AIによる新脆弱性発見とセキュリティモデル)</description>
 </item>
 <item>
-<title>[85] ドコモ通信障害、約14時間で復旧　原因は「交換機の輻輳」、不正アクセスの形跡なし</title>
-<link>https://www.itmedia.co.jp/news/article/2611/06/2000002932/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/06/2000002932/</guid>
-<pubDate>Thu, 05 Nov 2026 23:13:09 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>原因は、「5G SA」契約者を収容する交換機の輻輳。5G SAは5G専用の設備のみで通信するオプションで、4G通信が混雑している時も快適に通信できるとうたうサービスだ。 ドコモは現時点までの調査で、障害の発生前後を含め、不正アクセスの形跡やサイバー攻撃を示す事象は確認していないという。 5G SAの契約者以外の利用者... — はてなブックマーク テクノロジー / score: 85 (大手通信キャリアの大規模障害と原因報告)</description>
-</item>
-<item>
 <title>[85] *sshole · sshhole.com</title>
 <link>https://sshhole.com/</link>
 <guid isPermaLink="true">https://sshhole.com/</guid>
@@ -189,22 +229,6 @@
 <pubDate>Thu, 05 Nov 2026 08:20:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>サイバー攻撃によってスーパーの冷蔵庫が50℃まで加熱されたフランスで、今度は血液の保存施設が標的になったことがわかりました。フランス血液研究所によると外部施設の冷蔵庫で、-30℃に設定されていた温度が110℃に変更されたとのこと。なお、警報を受けて、保存されていた血液製剤やサンプルは他に移されたため、被害は出ませんでした。 続きを読む... — GIGAZINE / score: 85 (医療施設を狙った重大なサイバー攻撃)</description>
-</item>
-<item>
-<title>[85] NTTドコモ、全国で障害が発生中 ｰ 5G SAの音声通話やデータ通信がしづらい状況</title>
-<link>https://taisy0.com/2026/11/05/230003.html</link>
-<guid isPermaLink="true">https://taisy0.com/2026/11/05/230003.html</guid>
-<pubDate>Thu, 05 Nov 2026 05:19:50 +0000</pubDate>
-<category>気になる、記になる…</category>
-<description>本日のお昼前あたりからNTTドコモの携帯電話サービスで障害が発生中です。 障害は本日午前11時18分頃より発生し、現在も継続中。 同社の携帯電話サービス（5G SA（Standalone）の音声通話・データ通信・SMS） […] — 気になる、記になる… / score: 85 (ドコモの通信障害発生の詳細情報)</description>
-</item>
-<item>
-<title>[85] Django 6.1.3/6.0.10/5.2.19公開、SSRFなど6件の脆弱性を修正</title>
-<link>https://codezine.jp/article/detail/30242</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/30242</guid>
-<pubDate>Thu, 05 Nov 2026 01:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 85 (Djangoの複数脆弱性を修正する重要なアップデート。)</description>
 </item>
 <item>
 <title>[85] 「OpenSSL 4.1」が公開、メディア配信などに適した暗号化プロトコル「DTLS 1.3」に対応／2027年11月23日までサポートされるレギュラーリリース</title>
@@ -351,6 +375,22 @@
 <description>Rubyの開発チームは2026年10月23日、プログラミング言語Rubyのバージョン4.0.9、3.4.12、3.3.13を公開した。 — gihyo.jp / score: 85 (脆弱性修正を伴うRubyのセキュリティパッチ)</description>
 </item>
 <item>
+<title>[80] JO1、ファンクラブ会員のメアド漏えいか　外部サービスに不正アクセス</title>
+<link>https://ascii.jp/elem/000/004/449/4449198/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/449/4449198/?rss</guid>
+<pubDate>Fri, 06 Nov 2026 04:30:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>グローバルボーイズグループ「JO1（ジェイオーワン）」の公式サイトは11月5日、ファンクラブとメールサービスの会員のメールアドレスが漏えいしたおそれがあると発表した。 — ASCII.jp / score: 80 (外部サービス不正アクセスによるメールアドレス流出)</description>
+</item>
+<item>
+<title>[80] ポルシェ、顧客情報流出のおそれ　委託先への不正アクセスで</title>
+<link>https://ascii.jp/elem/000/004/449/4449195/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/449/4449195/?rss</guid>
+<pubDate>Fri, 06 Nov 2026 04:20:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>ポルシェジャパンとポルシェファイナンシャルサービスジャパンは11月5日、ロードサービスなどを委託するプレステージ・コアソリューションで不正アクセスが発生し、顧客情報が外部に持ち出された可能性があると発表した。 — ASCII.jp / score: 80 (委託先不正アクセスに起因する顧客情報流出)</description>
+</item>
+<item>
 <title>[80] Vercel、プッシュごとに脆弱性を検査する「Vercel Security Review」をベータ公開</title>
 <link>https://codezine.jp/article/detail/30254</link>
 <guid isPermaLink="true">https://codezine.jp/article/detail/30254</guid>
@@ -463,6 +503,22 @@
 <description>Today, AWS announces the general availability of OpenAI GPT-6.1 Terra on Amazon Bedrock. GPT-6.1 Terra expands the GPT-6 family with a balance of capability, speed, and cost efficiency for everyday workloads. As the newest model in the Terra line, GPT-6.1 Terra combines detailed visual reasoning, accurate computer use, and improved factuality and natural writing over GPT-5.6 Terra, for complex workflows. In OpenAI’s Agents’ Last Exam evaluation, it scored 15 percentage points higher than GPT-5.6 — AWS What's New / score: 80 (Amazon Bedrockでの新型GPTモデル提供開始)</description>
 </item>
 <item>
+<title>[75] ChatGPTが夫の毒殺計画を手助け、毒物の選定から毒を上手く隠すための方法の提案まで</title>
+<link>https://gigazine.net/news/20261106-wife-chatgpt-plan-murder/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261106-wife-chatgpt-plan-murder/</guid>
+<pubDate>Fri, 06 Nov 2026 05:24:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>ChatGPTが毒殺を実行するための計画立案を手助けしたことが訴訟により明らかになりました。訴訟では、ChatGPTは殺人未遂の共謀犯とされています。 続きを読む... — GIGAZINE / score: 75 (AI倫理や安全性に関わる重大な訴訟沙汰のニュース)</description>
+</item>
+<item>
+<title>[75] LINE、パスワードを忘れても機種変更できるように　パスキー対応を順次開始</title>
+<link>https://ascii.jp/elem/000/004/444/4444626/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/444/4444626/?rss</guid>
+<pubDate>Fri, 06 Nov 2026 04:50:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>LINEヤフーは11月6日、LINEでパスキーへの対応を順次始めると発表した。アプリのバージョン26.17.0以上が対象で、事前に設定しておけば、機種変更後のスマートフォンでもパスワードを入力せずにログインできる。 — ASCII.jp / score: 75 (LINEアプリのパスキー対応による認証改善)</description>
+</item>
+<item>
 <title>[75] AWS Security Hub now provides an SBOM inventory for your compute resources</title>
 <link>https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-sbom-inventory/</link>
 <guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-sbom-inventory/</guid>
@@ -477,6 +533,14 @@
 <pubDate>Thu, 05 Nov 2026 23:50:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>今いちばん試す価値があるローカルLLM。2026年11月5日、株式会社Preferred Networksが翻訳特化型のローカルLLM「PLaMo 3 Translate」をオープンウェイトで公開しました。独自の訓練手法で高い翻訳性能を実現… — ギズモード・ジャパン / score: 75 (国産ローカルLLMの公開情報)</description>
+</item>
+<item>
+<title>[75] GitHub - rudderlabs/devbox: Open source autonomous engineering harness in your cloud. One sandbox per task, no real secrets inside.</title>
+<link>https://github.com/rudderlabs/devbox</link>
+<guid isPermaLink="true">https://github.com/rudderlabs/devbox</guid>
+<pubDate>Thu, 05 Nov 2026 21:46:24 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Hand DevBox a ticket. It plans the change, writes the code, runs the tests, reviews its own work and opens a draft pull request. You review and merge. Comment on the pull request, and it pushes the fix to the same branch. Watch the full launch video (2 min) DevBox runs on your infrastructure, wit... — はてなブックマーク テクノロジー / score: 75 (自律型AIエンジニアリングツールの実践的オープンソース)</description>
 </item>
 <item>
 <title>[75] AIは開発者やプログラマーたちに長年にわたって蓄積されてきた技術的負債を返済することを強いている</title>
@@ -567,36 +631,12 @@
 <description>米OpenAIは11月4日（現地時間）、「Images 2.6」を発表した。「ChatGPT」「Codex」、APIで利用できる画像生成モデルで、9月に発表された「Images 2.5」をアップデートしたものとなる。 — 窓の杜 / score: 75 (OpenAIの画像生成モデルアップデート)</description>
 </item>
 <item>
-<title>[75] 「Kimi K3.1 Pro」の重みが無料で公開される</title>
-<link>https://gigazine.net/news/20261105-kimi-k3-1-pro-model-weight-release/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261105-kimi-k3-1-pro-model-weight-release/</guid>
-<pubDate>Thu, 05 Nov 2026 03:59:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>Moonshot AIが2026年10月24日に公開したAIモデル「Kimi K3.1 Pro」の「重み」が、当初の予告通り無料で公開されました。誰でもダウンロードして利用できます。 続きを読む... — GIGAZINE / score: 75 (高性能AIモデルの重み無料公開)</description>
-</item>
-<item>
 <title>[75] ドコモ オンラインサービス停止</title>
 <link>https://news.yahoo.co.jp/pickup/6601413?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6601413?source=rss</guid>
 <pubDate>Thu, 05 Nov 2026 03:52:36 +0000</pubDate>
 <category>Yahoo!ニュース IT</category>
 <description> — Yahoo!ニュース IT / score: 75 (インフラサービスの障害情報)</description>
-</item>
-<item>
-<title>[75] 国産日本語翻訳AI「PLaMo 3 Translate」の4モデルをPFNが無料公開、スマホ上のローカル動作でも爆速＆高精度の日本語翻訳が可能になったので試してみた</title>
-<link>https://gigazine.net/news/20261105-plamo-3-translate-open-weight/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261105-plamo-3-translate-open-weight/</guid>
-<pubDate>Thu, 05 Nov 2026 03:31:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>AI開発企業のPreferred Networks(PFN)が2026年11月5日、翻訳に特化した大規模言語モデル「PLaMo 3 Translate」のモデルウェイトを公開しました。8億から310億パラメータまで4種類のモデルが用意されており、最小モデルでも既存の大規模な翻訳AIを上回る性能を発揮するとされています。スマートフォンやPCでインターネットに接続せずに翻訳できるほか、条件を満たせば商用利用も可能です。 続きを読む... — GIGAZINE / score: 75 (PFNによる国産翻訳特化AIモデルの公開)</description>
-</item>
-<item>
-<title>[75] 中国・Tencentが高性能AIモデル「Hy4」を発表、オープンモデルとして公開することを約束</title>
-<link>https://gigazine.net/news/20261105-tencent-hy4/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261105-tencent-hy4/</guid>
-<pubDate>Thu, 05 Nov 2026 03:29:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>中国のIT大手Tencentは2026年11月4日、新たなAIモデル「Tencent Hy4」を発表しました。画像の理解やPCの操作に対応し、プログラミングや金融分析、ゲーム開発、科学研究など幅広い分野で高い性能を発揮するとしています。TencentはHy4のモデルの重みを近日中に公開する方針も明らかにしました。 続きを読む... — GIGAZINE / score: 75 (Tencentによる高性能オープンAIモデル発表)</description>
 </item>
 <item>
 <title>[75] Claude Platform release notes — November 5, 2026</title>
@@ -765,46 +805,6 @@
 <pubDate>Mon, 26 Oct 2026 23:53:07 +0000</pubDate>
 <category>Simon Willison</category>
 <description>GPT-6.1 Terra It's always interesting to note which aspects of a new model are emphasized in the release announcement. In the case of GPT-6.1 Terra, OpenAI went with visual reasoning and computer use: We’re introducing GPT-6.1 Terra , a fast, efficient model that combines detailed visual reasoning and precise computer use alongside clearer, more natural writing. A significant step up from GPT‑5.6 Terra, it excels at the communication and computer-based tasks that fill the workday, from drafting  — Simon Willison / score: 75 (GPT-6.1 Terraの機能とビジュアル推論の解説)</description>
-</item>
-<item>
-<title>[75] Greptile takes bug detection beyond code review with GPT-6 Astra</title>
-<link>https://openai.com/index/greptile-code-review-codex-astra</link>
-<guid isPermaLink="true">https://openai.com/index/greptile-code-review-codex-astra</guid>
-<pubDate>Mon, 26 Oct 2026 22:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework. — OpenAI News / score: 75 (GPT-6 Astraを活用したバグ検出の事例)</description>
-</item>
-<item>
-<title>[75] Moonshot AI、最高性能のオープンウェイトMoEモデル「Kimi K3.1 Pro」を発表 ―2～3倍高速な「Kimi K3.1 Pro Highspeed」も提供開始</title>
-<link>https://gihyo.jp/article/2026/10/kimi-k3-1-pro?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/10/kimi-k3-1-pro?utm_source=feed</guid>
-<pubDate>Mon, 26 Oct 2026 05:19:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>中国Moonshot AIは2026年10月23日、マルチモーダルMoEモデルの最新バージョン「Kimi K3.1 Pro」および高レスポンスモデル「Kimi K3.1 Pro Highspeed」を発表した。 — gihyo.jp / score: 75 (Moonshot AIによる高性能オープンウェイトMoEモデル発表)</description>
-</item>
-<item>
-<title>[75] v3.14.10</title>
-<link>https://github.com/python/cpython/releases/tag/v3.14.10</link>
-<guid isPermaLink="true">https://github.com/python/cpython/releases/tag/v3.14.10</guid>
-<pubDate>Sun, 25 Oct 2026 17:12:01 +0000</pubDate>
-<category>CPython リリース</category>
-<description>Python 3.14.10 — CPython リリース / score: 75 (Python 3.14.10のリリース情報)</description>
-</item>
-<item>
-<title>[75] v3.15.2</title>
-<link>https://github.com/python/cpython/releases/tag/v3.15.2</link>
-<guid isPermaLink="true">https://github.com/python/cpython/releases/tag/v3.15.2</guid>
-<pubDate>Sun, 25 Oct 2026 16:57:52 +0000</pubDate>
-<category>CPython リリース</category>
-<description>Python 3.15.2 — CPython リリース / score: 75 (Python 3.15.2のリリース情報)</description>
-</item>
-<item>
-<title>[75] [AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed</title>
-<link>https://latent.space/p/ainews-kimi-31/</link>
-<guid isPermaLink="true">https://latent.space/p/ainews-kimi-31/</guid>
-<pubDate>Sat, 24 Oct 2026 07:18:29 +0000</pubDate>
-<category>Latent Space</category>
-<description>2 months ago we covered Z.ai CEO Prof Jie Tang’s prediction that we’d get a Fable-class open weights model by year end . 2 weeks ago Meta achieved a Fable-class model in closed source , but, with 2.5 months left to go, we finally got it - a 2.8T open weights model beating Fable 5.1, not just Fable 5, at that: View post on X ↗ with even better efficiency: View post on X ↗ You can tell Kimi is proud of their latest model by how fancy their landing page is: As usual we don’t get much research detai — Latent Space / score: 75 (オープンAIモデルの性能向上とリリース)</description>
 </item>
 </channel>
 </rss>
