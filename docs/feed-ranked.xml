@@ -4,15 +4,15 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 06 Nov 2026 12:09:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 14:07:12 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 約10年間見逃されていたOpenSSHの脆弱性「*sshole」が発覚、257文字以上のパスワードでログイン禁止アカウントを突破可能に</title>
 <link>https://gigazine.net/news/20261106-openssh-xsshole/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261106-openssh-xsshole/</guid>
-<pubDate>Fri, 06 Nov 2026 02:30:15 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Linuxでリモートログインに使われるOpenSSHに、特定の条件下で正しいパスワードを知らなくてもログインできてしまう脆弱(ぜいじゃく)性「*sshole(CVE-2026-123158)」が発見されました。影響を受けるのはAlpine Linuxなどを利用する一部のシステムで、257バイト以上のパスワードを入力するだけで、本来はパスワードによる... — はてなブックマーク テクノロジー / score: 95 (OpenSSHの脆弱性詳細と影響の解説)</description>
+<pubDate>Fri, 06 Nov 2026 02:25:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>Linuxでリモートログインに使われるOpenSSHに、特定の条件下で正しいパスワードを知らなくてもログインできてしまう脆弱(ぜいじゃく)性「*sshole(CVE-2026-123158)」が発見されました。影響を受けるのはAlpine Linuxなどを利用する一部のシステムで、257バイト以上のパスワードを入力するだけで、本来はパスワードによるログインが禁止されているアカウントにアクセスできる可能性があります。 続きを読む... — GIGAZINE / score: 95 (OpenSSHの脆弱性詳細と影響の解説)</description>
 </item>
 <item>
 <title>[95] OpenAI、Linuxカーネルを最新セキュリティAIモデルで調査、ローカル権限昇格の脆弱性948件を実証 ―エクスプロイト、パッチまで生成</title>
@@ -63,12 +63,12 @@
 <description>OpenAIは2026年11月5日、サイバーセキュリティ向けフロンティアモデルの最新バージョンGPT-6 Cyberを発表した。 — gihyo.jp / score: 90 (AIモデルによるサイバーセキュリティ自動化の重大な発表)</description>
 </item>
 <item>
-<title>[90] [PDF]不正アクセスによる「情報セキュリティ理解度チェックサービス」からの利用者個人情報漏えいの恐れに関するお知らせ</title>
+<title>[90] 不正アクセスによる「情報セキュリティ理解度チェックサービス」からの利用者個人情報漏えいの恐れに関するお知らせ</title>
 <link>https://www.jnsa.org/dl/annual/20261106.pdf</link>
 <guid isPermaLink="true">https://www.jnsa.org/dl/annual/20261106.pdf</guid>
 <pubDate>Fri, 06 Nov 2026 03:54:24 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>[PDF]不正アクセスによる「情報セキュリティ理解度チェックサービス」からの利用者個人情報漏えいの恐れに関するお知らせ — はてなブックマーク テクノロジー / score: 90 (個人情報漏えいの恐れがあるセキュリティインシデント)</description>
+<description>不正アクセスによる「情報セキュリティ理解度チェックサービス」からの利用者個人情報漏えいの恐れに関するお知らせ — はてなブックマーク テクノロジー / score: 90 (個人情報漏えいの恐れがあるセキュリティインシデント)</description>
 </item>
 <item>
 <title>[90] OpenAIがLinuxの脆弱性948件を発見、費やしたAPIコストは約1億9200万円</title>
@@ -143,6 +143,30 @@
 <description>米Microsoftは10月30日（現地時間、以下同）、この2週間ほどで相次いで明らかになった3つのセキュリティ問題について、公式ブログ「MSRC」で対応を呼びかけた。いずれもMicrosoft製品に由来する脆弱性ではないが、Microsoftのサービスやユーザーの「Azure」環境で動くソフトウェアにも組み込まれていることが多いため、Microsoftとユーザーの双方で対応が必要だとしている。 — 窓の杜 / score: 88 (Microsoftが注意を呼びかける重要脆弱性と対応要請)</description>
 </item>
 <item>
+<title>[85] ドコモ、不正アクセスで最大29.5万件の情報が流出</title>
+<link>https://k-tai.watch.impress.co.jp/docs/news/2154506.html</link>
+<guid isPermaLink="true">https://k-tai.watch.impress.co.jp/docs/news/2154506.html</guid>
+<pubDate>Fri, 06 Nov 2026 12:04:58 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>ドコモ、不正アクセスで最大29.5万件の情報が流出 — はてなブックマーク テクノロジー / score: 85 (ドコモの大規模情報流出に関する重大なニュース)</description>
+</item>
+<item>
+<title>[85] ドコモ不正アクセス、「料金プラン」などの情報も流出　29.5万件</title>
+<link>https://www.watch.impress.co.jp/docs/news/2154508.html</link>
+<guid isPermaLink="true">https://www.watch.impress.co.jp/docs/news/2154508.html</guid>
+<pubDate>Fri, 06 Nov 2026 11:22:32 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>ドコモ不正アクセス、「料金プラン」などの情報も流出 29.5万件 — はてなブックマーク テクノロジー / score: 85 (大規模な不正アクセスと個人情報流出のインシデント)</description>
+</item>
+<item>
+<title>[85] ドコモからのお知らせ : 【お詫び】ドコモオンラインショップ、My docomoの緊急メンテナンス実施について/当社サーバーへの不正アクセスによるお客さま情報流出に関するお知らせ（第三報：11月6日 午後6時00分時点） | お知らせ | NTTドコモ</title>
+<link>https://www.docomo.ne.jp/info/notice/page/261106_00_m.html</link>
+<guid isPermaLink="true">https://www.docomo.ne.jp/info/notice/page/261106_00_m.html</guid>
+<pubDate>Fri, 06 Nov 2026 10:35:57 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>お客さまの設定により、お客さま情報が「非表示」となっております。お客さま情報を表示するにはdアカウントでログインしてください。 お客さま情報表示についてへ お客さま情報表示についてへ Tweet 【お詫び】ドコモオンラインショップ、My docomoの緊急メンテナンス実施について/当社サーバーへの不正アクセスによる... — はてなブックマーク テクノロジー / score: 85 (ドコモの不正アクセス・緊急メンテナンスの公式発表)</description>
+</item>
+<item>
 <title>[85] なぜかWindowsの「ペイント」にリモートコード実行の脆弱性</title>
 <link>https://gigazine.net/news/20261106-ms-paint-remote-code-execution-vulnerability/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261106-ms-paint-remote-code-execution-vulnerability/</guid>
@@ -194,9 +218,9 @@
 <title>[85] Discordがメモリ使用量削減と安全性向上のためデスクトップ版アプリをRustで再構築へ</title>
 <link>https://gigazine.net/news/20261106-discord-rebuild-app-in-rust/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261106-discord-rebuild-app-in-rust/</guid>
-<pubDate>Fri, 06 Nov 2026 02:18:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>Discordのデスクトップ版アプリは、長らくクロスプラットフォーム向けアプリケーション構築用のフレームワークであるElectronで作られていましたが、このたびRust製に全面刷新する方針が示されました。再構築によりメモリ使用量が大幅に削減されるほか、安全性が向上することになります。 続きを読む... — GIGAZINE / score: 85 (Electron製からRust製への移行で大きな話題)</description>
+<pubDate>Fri, 06 Nov 2026 02:23:38 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Discordのデスクトップ版アプリは、長らくクロスプラットフォーム向けアプリケーション構築用のフレームワークであるElectronで作られていましたが、このたびRust製に全面刷新する方針が示されました。再構築によりメモリ使用量が大幅に削減されるほか、安全性が向上することになります。 Discord is ditching Electron ... — はてなブックマーク テクノロジー / score: 85 (Electron製からRust製への移行で大きな話題)</description>
 </item>
 <item>
 <title>[85] Googleが「SREの教科書」を10年ぶりに全面改訂　“システム運用の常識”はどう変わった？</title>
@@ -205,14 +229,6 @@
 <pubDate>Fri, 06 Nov 2026 00:57:20 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>Googleは2026年10月12日（米国時間）、システムの信頼性を確保するための考え方や実践手法をまとめた書籍『Site Reliability Engineering: How Google Runs Production Systems』の第2版を発表した。2016年に初版が出版されたもので、それ以来10年ぶりの全面改訂となる。 SREは、ソフトウェアエンジニアリングの手法をシ... — はてなブックマーク テクノロジー / score: 85 (SREのバイブル的書籍の10年ぶり全面改訂)</description>
-</item>
-<item>
-<title>[85] OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表　Firefoxの未知の脆弱性81件を発見</title>
-<link>https://www.itmedia.co.jp/news/article/2611/06/2000002931/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/06/2000002931/</guid>
-<pubDate>Thu, 05 Nov 2026 23:41:46 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>米OpenAIは11月5日（現地時間）、サイバーセキュリティに特化したAIモデル「GPT-6 Cyber」を発表した。汎用モデル「GPT-6 Astra」をベースに、脆弱性の発見や攻撃手法の検証などの能力を強化したモデルで、同社の防御者向けプログラム「Daybreak Red」の承認ユーザーに限定して提供する。 GPT-6 Astraは、9月に発表され... — はてなブックマーク テクノロジー / score: 85 (AIによる新脆弱性発見とセキュリティモデル)</description>
 </item>
 <item>
 <title>[85] .NET にも build.cs 欲しいんじゃーーー</title>
@@ -471,7 +487,7 @@
 <description>November 5, 2026 — Inside Inkling 2 Small’s training run and METR’s study of AI research at Anthropic. — Latent Space / score: 75 (AIモデルのトレーニング詳細に関する速報)</description>
 </item>
 <item>
-<title>[75] Thinking Machines、AIモデルInkling 2 Smallを発表——重みも公開予定</title>
+<title>[75] Thinking Machines、AIモデルInkling 2 Smallを発表 ——重みも公開予定</title>
 <link>https://gihyo.jp/article/2026/11/inkling-2-small?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/11/inkling-2-small?utm_source=feed</guid>
 <pubDate>Fri, 06 Nov 2026 09:13:44 +0000</pubDate>
@@ -498,17 +514,17 @@
 <title>[75] ChatGPTが夫の毒殺計画を手助け、毒物の選定から毒を上手く隠すための方法の提案まで</title>
 <link>https://gigazine.net/news/20261106-wife-chatgpt-plan-murder/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261106-wife-chatgpt-plan-murder/</guid>
-<pubDate>Fri, 06 Nov 2026 05:24:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>ChatGPTが毒殺を実行するための計画立案を手助けしたことが訴訟により明らかになりました。訴訟では、ChatGPTは殺人未遂の共謀犯とされています。 続きを読む... — GIGAZINE / score: 75 (AI倫理や安全性に関わる重大な訴訟沙汰のニュース)</description>
+<pubDate>Fri, 06 Nov 2026 05:27:01 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>ChatGPTが毒殺を実行するための計画立案を手助けしたことが訴訟により明らかになりました。訴訟では、ChatGPTは殺人未遂の共謀犯とされています。 Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder. - Ars Technica https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-h... — はてなブックマーク テクノロジー / score: 75 (AI倫理や安全性に関わる重大な訴訟沙汰のニュース)</description>
 </item>
 <item>
-<title>[75] AWS Security Hub now provides an SBOM inventory for your compute resources</title>
+<title>[75] AWS Security Hub now provides an SBOM inventory for your compute resources - AWS</title>
 <link>https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-sbom-inventory/</link>
 <guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-sbom-inventory/</guid>
-<pubDate>Fri, 06 Nov 2026 00:30:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Today, AWS announces that AWS Security Hub now provides a Software Bill of Materials (SBOM) inventory, giving central security teams a continuously updated, organization-wide view of the software packages and applications installed on their compute resources. Security Hub builds the inventory from the SBOMs that Amazon Inspector generates for Amazon EC2 instances, Amazon ECR container images, and AWS Lambda functions, with no additional configuration. The SBOM page lists each package with its ve — AWS What's New / score: 75 (AWS Security HubのSBOMインベントリ機能追加)</description>
+<pubDate>Fri, 06 Nov 2026 02:59:55 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>AWS Security Hub now provides an SBOM inventory for your compute resources - AWS The sessions are set and your seat is waiting. Register now — はてなブックマーク テクノロジー / score: 75 (AWS Security HubのSBOMインベントリ機能追加)</description>
 </item>
 <item>
 <title>[75] AIは開発者やプログラマーたちに長年にわたって蓄積されてきた技術的負債を返済することを強いている</title>
@@ -517,14 +533,6 @@
 <pubDate>Thu, 05 Nov 2026 21:00:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>2026年10月21日に発見された深刻なサイバーセキュリティ脆弱性「PHP2Shell」はNASA・Wikipedia・ホワイトハウスといった名だたるウェブサイトに影響を与える可能性があったものの、悪用される前に修正パッチがリリースされたため大規模な被害は回避されました。しかし、PHP2Shellはいわば「炭鉱のカナリア」でありAI時代に起こり得ることへの警告かもしれないと、電気・電子工学系ニュースサイトのIEEE Spectrumは指摘しています。 続きを読む... — GIGAZINE / score: 75 (AI時代の技術的負債とセキュリティリスクに関する警告)</description>
-</item>
-<item>
-<title>[75] 浦安市が「さくらのクラウド」採用、ガバメントクラウド移行で自治体初</title>
-<link>https://xtech.nikkei.com/atcl/nxt/column/18/00001/12156/</link>
-<guid isPermaLink="true">https://xtech.nikkei.com/atcl/nxt/column/18/00001/12156/</guid>
-<pubDate>Thu, 05 Nov 2026 20:28:37 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>千葉県浦安市はガバメントクラウドに移行する業務システムで、さくらインターネットの「さくらのクラウド」を採用する方針を固めた。2026年11月下旬にも契約を締結する。ガバメントクラウド提供事業者として認定された「さくらのクラウド」を採用する自治体は全国初となる。 — はてなブックマーク テクノロジー / score: 75 (自治体のガバメントクラウド初採用の重要な事例)</description>
 </item>
 <item>
 <title>[75] New NVIDIA Cosmos 3 Open Models for Interactive World Simulation</title>
@@ -797,14 +805,6 @@
 <pubDate>Sat, 24 Oct 2026 07:18:29 +0000</pubDate>
 <category>Latent Space</category>
 <description>2 months ago we covered Z.ai CEO Prof Jie Tang’s prediction that we’d get a Fable-class open weights model by year end . 2 weeks ago Meta achieved a Fable-class model in closed source , but, with 2.5 months left to go, we finally got it - a 2.8T open weights model beating Fable 5.1, not just Fable 5, at that: View post on X ↗ with even better efficiency: View post on X ↗ You can tell Kimi is proud of their latest model by how fancy their landing page is: As usual we don’t get much research detai — Latent Space / score: 75 (オープンAIモデルの性能向上とリリース)</description>
-</item>
-<item>
-<title>[70] OpenAI元CTOのAI企業が高性能AIモデル「Inkling 2 Small」を発表、近日中にオープンモデルとして公開される予定</title>
-<link>https://gigazine.net/news/20261106-inkling-2-small/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261106-inkling-2-small/</guid>
-<pubDate>Fri, 06 Nov 2026 07:16:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>OpenAIの元CTOであるミラ・ムラティ氏が設立したアメリカに拠点を置くAI研究企業「Thinking Machines Lab」が、AIモデル「Inkling 2 Small」を現地時間の2026年11月5日に発表しました。近日中にオープンモデルとして公開される予定です。 続きを読む... — GIGAZINE / score: 70 (元OpenAI CTOによる新しいオープンAIモデル発表)</description>
 </item>
 </channel>
 </rss>
