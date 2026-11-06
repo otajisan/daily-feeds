@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 06 Nov 2026 18:08:34 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 20:06:20 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 約10年間見逃されていたOpenSSHの脆弱性「*sshole」が発覚、257文字以上のパスワードでログイン禁止アカウントを突破可能に</title>
@@ -183,6 +183,14 @@
 <description>ゲーマー向けトークアプリ「Discord」が、クライアントアプリ全体を「Rust」言語へ移行させるとのこと。米Discordの共同創業者でCTOを務めるStanislav Vishnevskiy氏が11月4日（現地時間、以下同）、自身の「X」（旧称Twitter）アカウントで明らかにした。 — 窓の杜 / score: 85 (DiscordのElectronからRustへの移行発表)</description>
 </item>
 <item>
+<title>[85] Partnering with Hacktron to find vulnerabilities in OpenAI’s systems</title>
+<link>https://openai.com/index/partnering-with-hacktron</link>
+<guid isPermaLink="true">https://openai.com/index/partnering-with-hacktron</guid>
+<pubDate>Fri, 06 Nov 2026 08:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI. — OpenAI News / score: 85 (OpenAIによる脆弱性検出のためのパートナーシップ発表。)</description>
+</item>
+<item>
 <title>[85] Claude Codeがユーザーのメールアドレスを外部サイトに勝手に送信する問題が発覚、約4カ月前から報告されていたことも判明</title>
 <link>https://gigazine.net/news/20261106-claude-code-mail-address/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261106-claude-code-mail-address/</guid>
@@ -213,14 +221,6 @@
 <pubDate>Fri, 06 Nov 2026 02:18:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>Discordのデスクトップ版アプリは、長らくクロスプラットフォーム向けアプリケーション構築用のフレームワークであるElectronで作られていましたが、このたびRust製に全面刷新する方針が示されました。再構築によりメモリ使用量が大幅に削減されるほか、安全性が向上することになります。 続きを読む... — GIGAZINE / score: 85 (Electron製からRust製への移行で大きな話題)</description>
-</item>
-<item>
-<title>[85] Googleが「SREの教科書」を10年ぶりに全面改訂　“システム運用の常識”はどう変わった？</title>
-<link>https://atmarkit.itmedia.co.jp/ait/articles/2611/06/news024.html</link>
-<guid isPermaLink="true">https://atmarkit.itmedia.co.jp/ait/articles/2611/06/news024.html</guid>
-<pubDate>Fri, 06 Nov 2026 00:57:20 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Googleは2026年10月12日（米国時間）、システムの信頼性を確保するための考え方や実践手法をまとめた書籍『Site Reliability Engineering: How Google Runs Production Systems』の第2版を発表した。2016年に初版が出版されたもので、それ以来10年ぶりの全面改訂となる。 SREは、ソフトウェアエンジニアリングの手法をシ... — はてなブックマーク テクノロジー / score: 85 (SREのバイブル的書籍の10年ぶり全面改訂)</description>
 </item>
 <item>
 <title>[85] .NET にも build.cs 欲しいんじゃーーー</title>
@@ -535,6 +535,14 @@
 <description>1,000万件を超える個人情報の漏えいが、この5か月で15件公表された。AIは外からの攻撃を速く安くし、内側には新しい漏えいの経路を増やしている。公表事例と調査をたどって棚卸しした。 1,000万件を超える個人情報の漏えいが、この5か月で15件公表された。上場企業に限った集計では、同じ規模の漏えいは過去14年で3件だ... — はてなブックマーク テクノロジー / score: 75 (AI時代の情報漏えいリスクに関する重要な棚卸し)</description>
 </item>
 <item>
+<title>[75] Measuring how AI agents handle everyday wet-lab science</title>
+<link>https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science</link>
+<guid isPermaLink="true">https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science</guid>
+<pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science. — OpenAI News / score: 75 (AIエージェントの湿式実験科学を評価する新ベンチマーク発表。)</description>
+</item>
+<item>
 <title>[75] AIは開発者やプログラマーたちに長年にわたって蓄積されてきた技術的負債を返済することを強いている</title>
 <link>https://gigazine.net/news/20261106-ai-in-cybersecurity-php2shell-vulnerability/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261106-ai-in-cybersecurity-php2shell-vulnerability/</guid>
@@ -797,14 +805,6 @@
 <pubDate>Mon, 26 Oct 2026 05:19:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>中国Moonshot AIは2026年10月23日、マルチモーダルMoEモデルの最新バージョン「Kimi K3.1 Pro」および高レスポンスモデル「Kimi K3.1 Pro Highspeed」を発表した。 — gihyo.jp / score: 75 (Moonshot AIによる高性能オープンウェイトMoEモデル発表)</description>
-</item>
-<item>
-<title>[75] v3.14.10</title>
-<link>https://github.com/python/cpython/releases/tag/v3.14.10</link>
-<guid isPermaLink="true">https://github.com/python/cpython/releases/tag/v3.14.10</guid>
-<pubDate>Sun, 25 Oct 2026 17:12:01 +0000</pubDate>
-<category>CPython リリース</category>
-<description>Python 3.14.10 — CPython リリース / score: 75 (Python 3.14.10のリリース情報)</description>
 </item>
 </channel>
 </rss>
