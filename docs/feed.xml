@@ -4,8 +4,48 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 06 Nov 2026 16:06:53 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 18:08:34 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Quoting Nilay Patel</title>
+<link>https://simonwillison.net/2026/Nov/6/nilay-patel/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Nov/6/nilay-patel/</guid>
+<pubDate>Fri, 06 Nov 2026 17:13:12 +0000</pubDate>
+<category>Simon Willison</category>
+<description>The products aren't good enough to sell people on the costs. You cannot tell people that you have to listen to the whine of a data center in their backyard for AI overviews and some of the most hilarious deep fake slop in history. It's not worth it. It just isn't worth it to anyone. And agents aren't real and they might not be being used the way that anyone wants them to yet. All these companies are spending more than they're making on these products. Refrigerators holding blood storage in Europ — Simon Willison / score: 35 (AIプロダクトのコストに関する考察)</description>
+</item>
+<item>
+<title>The Blueprint: Orchestrating 5,000+ AI assets for a World Cup TV spot</title>
+<link>https://cloud.google.com/blog/products/media-entertainment/how-mito-orchestrated-5000-plus-ai-assets-for-a-world-cup-tv-spot/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/media-entertainment/how-mito-orchestrated-5000-plus-ai-assets-for-a-world-cup-tv-spot/</guid>
+<pubDate>Fri, 06 Nov 2026 17:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Welcome back to The Blueprint, a regular feature where we highlight how Google Cloud customers are tackling unique and common challenges across industries using the latest AI and cloud technologies. We hope to inspire others looking to innovate in their work. AI is rapidly transforming video production at virtually every step of the process, from ideation and storyboarding to filming, editing, and release. At Mito , we’re striving to democratize AI-powered video creation, enabling everyone from  — Google Cloud Blog / score: 40 (Google Cloudを活用したAI事例紹介)</description>
+</item>
+<item>
+<title>Introducing Z4M: storage-optimized compute for AI/ML and parallel file systems</title>
+<link>https://cloud.google.com/blog/products/compute/storage-optimized-z4m-machine-series-are-ga/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/compute/storage-optimized-z4m-machine-series-are-ga/</guid>
+<pubDate>Fri, 06 Nov 2026 17:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Today, we’re excited to announce the general availability of our next-generation Storage-optimized Z4M machine series in Google Compute Engine, available as both Virtual Machine (VM) and bare-metal instances. We built Z4M to provide storage for AI/ML training and inference workloads such as checkpointing, distributed key-value (KV) cache and parallel file systems — workloads that handle huge data volumes and require massive parallel data processing, as well as high storage and networking through — Google Cloud Blog / score: 60 (AI/ML向け新ストレージ最適化マシンの発表)</description>
+</item>
+<item>
+<title>[破壊的変更] 明治時代の開始日が変更になって単体テストが失敗した件</title>
+<link>https://zenn.dev/xin9le/articles/9a1cf8e10494d6</link>
+<guid isPermaLink="true">https://zenn.dev/xin9le/articles/9a1cf8e10494d6</guid>
+<pubDate>Fri, 06 Nov 2026 16:49:21 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>「お前は何を言っているんだ？」と思うかもしれませんが、本当なのだから仕方ない！動いていたはずの CI の単体テストが突然コケるという事態に遭遇してビックリ。「何もしてないのに壊れた」。まじで。 何が起きたか ありのままのコードを載せるわけにはいかないのでポイントを絞って記載します。ざっくり以下のような... — はてなブックマーク テクノロジー / score: 45 (日付変更によるバグの興味深い事例解説)</description>
+</item>
+<item>
+<title>｢iPhone Duo｣対応のアプリ数、既に10万本以上に</title>
+<link>https://taisy0.com/2026/11/07/230112.html</link>
+<guid isPermaLink="true">https://taisy0.com/2026/11/07/230112.html</guid>
+<pubDate>Fri, 06 Nov 2026 16:30:29 +0000</pubDate>
+<category>気になる、記になる…</category>
+<description>「iPhone Duo」に対応したアプリの数が10万本を突破していることが分かりました。 これはAppleが9To5Macに対して明らかにしたもので、App Storeにはすでに「iPhone Duo」向けに設計されたア […] — 気になる、記になる… / score: 50 (新デバイス向けアプリエコシステムの動向)</description>
+</item>
 <item>
 <title>Clicks、キーボードケース｢Clicks Keyboard｣の｢iPhone 18 Pro｣シリーズ対応モデルを発売</title>
 <link>https://taisy0.com/2026/11/07/230109.html</link>
@@ -37,6 +77,14 @@
 <pubDate>Fri, 06 Nov 2026 15:01:10 +0000</pubDate>
 <category>気になる、記になる…</category>
 <description>Appleが、公式サイトにおいて、毎年恒例のクリスマス・ホリデーシーズン向けの取り組みを開始しました。 今年もギフトを特集したページは別途用意されていないものの、オンラインストアのトップページがクリスマス・ホリデーシーズ […] — 気になる、記になる… / score: 20 (Appleの恒例のホリデーシーズン向け返品ポリシー変更)</description>
+</item>
+<item>
+<title>AWS launches support for amortization of EC2 Capacity Blocks for ML</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/10/aws-ec2-capacity-blocks-ml/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/aws-ec2-capacity-blocks-ml/</guid>
+<pubDate>Fri, 06 Nov 2026 15:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS Data Exports for Cost and Usage Report (CUR) 2.0 and AWS Cost Explorer now amortize the upfront fee for Amazon EC2 Capacity Blocks for ML across the duration of each reservation. You can see the amortized cost of each instance launched into a Capacity Block and the amortized cost of unused capacity, so you can attribute your upfront fee to the workloads that used it and identify capacity that went unused. Previously, a Capacity Block's upfront fee appeared as a single charge on the purchase  — AWS What's New / score: 50 (AWS ML機能のコスト管理に関するアップデート)</description>
 </item>
 <item>
 <title>RTX 5090搭載PCも対象！ パソコンショップSEVEN、最大17万8000円オフの24時間限定セール</title>
@@ -655,6 +703,14 @@
 <description>中国の大手テクノロジー企業であるBaiduがAIモデル「ERNIE 5.5 Flash Base」をオープンモデルとして公開しました。 続きを読む... — GIGAZINE / score: 60 (Baiduによる新型AI基盤モデルのオープン公開)</description>
 </item>
 <item>
+<title>「Microsoft Access」でIEベースのWebブラウザーコントロールが廃止へ、2027年5月に／対象フォームは手作業で洗い出し。「Edge」版への置き換えを</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2154137.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2154137.html</guid>
+<pubDate>Fri, 06 Nov 2026 08:07:03 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>「Microsoft Access」でIEベースのWebブラウザーコントロールが廃止へ、2027年5月に／対象フォームは手作業で洗い出し。「Edge」版への置き換えを — はてなブックマーク テクノロジー / score: 65 (Microsoft AccessでのIEブラウザコントロール廃止)</description>
+</item>
+<item>
 <title>PHPは使っておりません - megamouthの葬列</title>
 <link>https://www.megamouth.info/entry/2026/11/06/165305</link>
 <guid isPermaLink="true">https://www.megamouth.info/entry/2026/11/06/165305</guid>
@@ -677,6 +733,30 @@
 <pubDate>Fri, 06 Nov 2026 08:00:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>バーガーキングから超大型バーガー「ギルティ ザ・ワンパウンダー」が2026年11月6日(金)に登場しました。直火焼きビーフパティ4枚重ねのボリュームもさることながら、ガーリックペースト・フライドガーリック・ガーリックパウダーの3タイプのにんにくを使用した特製ガーリックソースとケチャップで味付けを仕上げているとのこと。どんな味か気になったので、実際に食べに行ってきました。 続きを読む... — GIGAZINE / score: 10 (バーガーキングの製品紹介ニュース)</description>
+</item>
+<item>
+<title>Amazon Simple Email Service is now available in six new AWS Regions</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-simple-email-service-new-aws-regions/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-simple-email-service-new-aws-regions/</guid>
+<pubDate>Fri, 06 Nov 2026 08:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon Simple Email Service (Amazon SES) is now available in the Asia Pacific (New Zealand, Melbourne, Taipei, Thailand), Mexico (Central), EU (Spain). Customers can now use these new Regions to leverage Amazon SES to send emails and, if needed, to help manage data requirements. Amazon SES is a scalable, cost-effective, and flexible cloud-based email service that allows digital marketers and application developers to send marketing, notification, and transactional emails from within any applicat — AWS What's New / score: 45 (AWS SESのリージョン拡大)</description>
+</item>
+<item>
+<title>AWS Glue Data Catalog now supports catalog-vended credentials with Apache Iceberg REST catalog federation</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/glue-catalog-vended-credentials-iceberg/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/glue-catalog-vended-credentials-iceberg/</guid>
+<pubDate>Fri, 06 Nov 2026 08:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS Glue Data Catalog now supports external catalog's vended credentials in Apache Iceberg REST catalog federation. You can now read external Iceberg tables from Amazon Athena, Amazon EMR, Amazon Redshift, and AWS Glue using coarse-grained table grants in your external Iceberg catalog. Glue Data Catalog already federates to external Iceberg REST catalogs through an AWS IAM role that you configure with access to your Amazon S3 buckets. This enhancement in Glue Data Catalog provides another way to — AWS What's New / score: 55 (AWS GlueのIcebergサポート強化)</description>
+</item>
+<item>
+<title>Zero-shot predictions in Pandas using the new BigQuery Accessor</title>
+<link>https://cloud.google.com/blog/products/data-analytics/bigquery-ai-functions-in-pandas/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/data-analytics/bigquery-ai-functions-in-pandas/</guid>
+<pubDate>Fri, 06 Nov 2026 08:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Imagine running advanced machine learning workflows—from forecasting and classification to high-dimensional embedding generation—without ever leaving your familiar pandas DataFrame. With the new .bigquery accessor from BigQuery DataFrames (BigFrames) , that vision is now a reality. You can seamlessly invoke BigQuery's enterprise-grade AI functions directly within pandas, scaling your data science and ML pipelines on cloud infrastructure . Take linear regression as an example. Traditionally, a pa — Google Cloud Blog / score: 65 (PandasからBigQueryのML機能を利用する新機能)</description>
 </item>
 <item>
 <title>November 06, 2026</title>
@@ -725,86 +805,6 @@
 <pubDate>Fri, 06 Nov 2026 07:39:30 +0000</pubDate>
 <category>気になる、記になる…</category>
 <description>アシカンが先日発売したチタニウムとCFRP（炭素繊維強化プラスチック）を組み合わせたApple Watch専用バンド「MinZ ODIN」を頂いたので紹介します。 「MinZ ODIN」は妥協のない機能性とデザインを求め […] — 気になる、記になる… / score: 15 (Apple Watch用アクセサリーのレビュー)</description>
-</item>
-<item>
-<title>iPhone Duoで仕事しよう。相棒にしたいKeychronの折りたたみキーボードが19％オフ</title>
-<link>https://www.gizmodo.jp/article/2611-keychron-b11-pro-iphone-duo/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-keychron-b11-pro-iphone-duo/</guid>
-<pubDate>Fri, 06 Nov 2026 07:35:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>iPhone Duoのベストパートナーとして最適なKeychron B11 Pro折りたたみキーボードがAmazonセールで19％オフ。エルゴノミクス配列と上質な打鍵感で快適なモバイルワークを実現します。 — ギズモード・ジャパン / score: 30 (モバイルワーク向けキーボードのセール情報)</description>
-</item>
-<item>
-<title>Snowflake、AIエージェントの「CoCo」と「CoWork」を強化──常時稼働の「Snowflake Bots」も発表</title>
-<link>https://codezine.jp/article/detail/30290</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/30290</guid>
-<pubDate>Fri, 06 Nov 2026 07:30:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 65 (Snowflakeによる新AIエージェント機能の発表)</description>
-</item>
-<item>
-<title>リモートのエージェントが起動した dev server を手元でプレビュー：VS Code 1.145 の Remote browser proxy を試した</title>
-<link>https://qiita.com/shahin0809/items/a1bd931855f392806ee6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/shahin0809/items/a1bd931855f392806ee6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Fri, 06 Nov 2026 07:28:29 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>はじめに 最近 Microsoft Student Ambassador の Associate に昇格したロホマン シャヒンです！ この記事が少しでも参考になったら、ぜひいいね・共有をお願いします。 間違っている箇所や「ここが分かりにくかった」という指摘は、やさし... — Qiita 人気記事 / score: 65 (VS Codeの新機能を活用したリモート開発環境のプレビュー)</description>
-</item>
-<item>
-<title>ヤマハ、ルーターにDNSセキュリティ機能を追加する拡張ライセンスを発売　中小企業・SOHOのセキュリティ強化を支援</title>
-<link>https://cloud.watch.impress.co.jp/docs/news/2154335.html</link>
-<guid isPermaLink="true">https://cloud.watch.impress.co.jp/docs/news/2154335.html</guid>
-<pubDate>Fri, 06 Nov 2026 07:24:31 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>ヤマハ、ルーターにDNSセキュリティ機能を追加する拡張ライセンスを発売 中小企業・SOHOのセキュリティ強化を支援 — はてなブックマーク テクノロジー / score: 50 (中小企業向けルーターのセキュリティ機能強化)</description>
-</item>
-<item>
-<title>Claude Certified Developer - Foundations (CCDV-F) 昨日受けてきました。【日本語受験】</title>
-<link>https://qiita.com/takeshi_Qiita/items/f8298084825898921cb4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/takeshi_Qiita/items/f8298084825898921cb4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Fri, 06 Nov 2026 07:20:39 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>はじめに 2026年11月5日、テストセンターで Claude Certified Developer – Foundations（CCDV-F） を受験し、896点で合格しました。 ざっくりまとめると、 勉強時間は 10時間未満 教材は みのるんさんが公開している問... — Qiita 人気記事 / score: 35 (Claude認定資格の受験体験記と合格のコツ)</description>
-</item>
-<item>
-<title>「Visual Studio Code」はWinUIのXAMLでもIntelliSense ～「WinApp」拡張機能v0.4が公開／WinUIアプリの新規作成コマンドも、.NETプロジェクトのビルドから実行までをカバー</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2154251.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2154251.html</guid>
-<pubDate>Fri, 06 Nov 2026 07:18:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Microsoftは11月3日（現地時間）、「Visual Studio Code」用の拡張機能「WinApp」v0.4を公開した。コードの入力支援機能「IntelliSense」がWinUIのXAMLに対応（試験的なプレビュー）したほか、WinUIアプリを新規作成するコマンドが追加。.NETプロジェクトのビルドから実行までを拡張機能内で行えるようになった。 — 窓の杜 / score: 55 (VS Code拡張機能のアップデートと機能強化)</description>
-</item>
-<item>
-<title>OpenAI元CTOのAI企業が高性能AIモデル「Inkling 2 Small」を発表、近日中にオープンモデルとして公開される予定</title>
-<link>https://gigazine.net/news/20261106-inkling-2-small/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261106-inkling-2-small/</guid>
-<pubDate>Fri, 06 Nov 2026 07:16:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>OpenAIの元CTOであるミラ・ムラティ氏が設立したアメリカに拠点を置くAI研究企業「Thinking Machines Lab」が、AIモデル「Inkling 2 Small」を現地時間の2026年11月5日に発表しました。近日中にオープンモデルとして公開される予定です。 続きを読む... — GIGAZINE / score: 70 (元OpenAI CTOによる新しいオープンAIモデル発表)</description>
-</item>
-<item>
-<title>Google Classroom、Geminiの「Guided Learning」を任意の課題に追加可能に</title>
-<link>https://codezine.jp/article/detail/30259</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/30259</guid>
-<pubDate>Fri, 06 Nov 2026 07:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 50 (教育向けプラットフォームへのGemini機能追加)</description>
-</item>
-<item>
-<title>Zabbix 8.0 LTSリリース、OpenTelemetry対応やMCPサーバー提供</title>
-<link>https://codezine.jp/article/detail/30284</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/30284</guid>
-<pubDate>Fri, 06 Nov 2026 07:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 80 (Zabbix 8.0 LTSのリリースと新機能追加)</description>
-</item>
-<item>
-<title>Motorolaのフラグシップスマホ「Motorola signature 27」がまさかのGrapheneOSサポートを公式表明</title>
-<link>https://gigazine.net/news/20261106-grapheneos-motorola-signature-27/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261106-grapheneos-motorola-signature-27/</guid>
-<pubDate>Fri, 06 Nov 2026 07:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>Motorolaがハイエンドスマートフォンの「Motorola signature 27」を発表しました。これは、モバイル端末向けOSの1つでセキュリティとプライバシー保護に特化したOS「GrapheneOS」をサポートするMotorola初の機種となります。 続きを読む... — GIGAZINE / score: 60 (プライバシー重視OS公式サポートのスマホ発表)</description>
 </item>
 </channel>
 </rss>

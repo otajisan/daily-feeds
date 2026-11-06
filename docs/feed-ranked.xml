@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 06 Nov 2026 16:06:53 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 18:08:34 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 約10年間見逃されていたOpenSSHの脆弱性「*sshole」が発覚、257文字以上のパスワードでログイン禁止アカウントを突破可能に</title>
@@ -111,14 +111,6 @@
 <description>The November 2026 security release for Next.js is now available — Next.js Blog / score: 90 (重要フレームワークの緊急セキュリティアップデート)</description>
 </item>
 <item>
-<title>[90] Shutting the Door on the XCPE Botnet</title>
-<link>https://cloud.google.com/blog/topics/threat-intelligence/shutting-the-door-on-the-xcpe-botnet/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/topics/threat-intelligence/shutting-the-door-on-the-xcpe-botnet/</guid>
-<pubDate>Mon, 02 Nov 2026 14:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>Introduction Last week, Google and industry partners dismantled the XCPE backdoor which enrolled more than 1.3 million set-top boxes into a botnet. We assess with high confidence that the backdoor and botnet were intentionally developed, deployed, and operated for financial gain by Videostrong Technology Co., an Android Original Equipment Manufacturer (OEM) and Original Design Manufacturer (ODM). Videostrong monetized the backdoor by selling access to criminal affiliates and loading those affili — Google Cloud Blog / score: 90 (大手IT企業等による大規模ボットネット解体のセキュリティ成果)</description>
-</item>
-<item>
 <title>[90] How We Took Over ChatGPT Accounts</title>
 <link>https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/</link>
 <guid isPermaLink="true">https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/</guid>
@@ -218,9 +210,9 @@
 <title>[85] Discordがメモリ使用量削減と安全性向上のためデスクトップ版アプリをRustで再構築へ</title>
 <link>https://gigazine.net/news/20261106-discord-rebuild-app-in-rust/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261106-discord-rebuild-app-in-rust/</guid>
-<pubDate>Fri, 06 Nov 2026 02:23:38 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Discordのデスクトップ版アプリは、長らくクロスプラットフォーム向けアプリケーション構築用のフレームワークであるElectronで作られていましたが、このたびRust製に全面刷新する方針が示されました。再構築によりメモリ使用量が大幅に削減されるほか、安全性が向上することになります。 Discord is ditching Electron ... — はてなブックマーク テクノロジー / score: 85 (Electron製からRust製への移行で大きな話題)</description>
+<pubDate>Fri, 06 Nov 2026 02:18:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>Discordのデスクトップ版アプリは、長らくクロスプラットフォーム向けアプリケーション構築用のフレームワークであるElectronで作られていましたが、このたびRust製に全面刷新する方針が示されました。再構築によりメモリ使用量が大幅に削減されるほか、安全性が向上することになります。 続きを読む... — GIGAZINE / score: 85 (Electron製からRust製への移行で大きな話題)</description>
 </item>
 <item>
 <title>[85] Googleが「SREの教科書」を10年ぶりに全面改訂　“システム運用の常識”はどう変わった？</title>
@@ -335,14 +327,6 @@
 <description>Notable Changes This release marks the transition of Node.js 26.x into Long Term Support (LTS) with the codename 'Lithium'. It will continue to receive updates through to the end of April 2029. Other than updating metadata, such as the process.release object, to reflect that the release is LTS, no further changes from Node.js 26.12.1 are included. If you are updating from an earlier Long Term Support release (e.g. Node.js 24 or 22 or earlier) please note that since Node.js 25 the official binari — Node.js リリース / score: 85 (Node.jsのLTSメジャーバージョンリリース)</description>
 </item>
 <item>
-<title>[85] Amazon Corretto October 2026 Patch Updates</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-corretto-oct-2026-patch-updates</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-corretto-oct-2026-patch-updates</guid>
-<pubDate>Tue, 27 Oct 2026 14:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>On October 26, 2026 Amazon announced a patch update for the following Amazon Corretto Long-Term Support (LTS) and Feature Release (FR) versions of OpenJDK. Corretto 27.0.1.0.11, 25.0.5.0.10, 21.0.13.0.11, 17.0.21.0.11, 11.0.33.0.10, and 8u512 are now available for download . Amazon Corretto is a no-cost, multi-platform, production-ready distribution of OpenJDK. Visit the Corretto home page to download Corretto 27, Corretto 25, Corretto 21, Corretto 17, Corretto 11, or Corretto 8. You can also ge — AWS What's New / score: 85 (Amazon Correttoの重要なセキュリティパッチとLTS更新)</description>
-</item>
-<item>
 <title>[85] OpenAI、視覚的理解とコンピューター操作を強化した「GPT-6.1 Terra」の提供を開始 ―APIコストはGPT-5.6 Terraの半額に</title>
 <link>https://gihyo.jp/article/2026/10/gpt-6-1-terra?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/10/gpt-6-1-terra?utm_source=feed</guid>
@@ -429,14 +413,6 @@
 <pubDate>Thu, 05 Nov 2026 22:25:22 +0000</pubDate>
 <category>Yahoo!ニュース IT</category>
 <description> — Yahoo!ニュース IT / score: 80 (大手通信キャリアの障害復旧と原因公表)</description>
-</item>
-<item>
-<title>[80] NTTドコモの5G SAの障害、発生から約14時間で復旧</title>
-<link>https://taisy0.com/2026/11/06/230031.html</link>
-<guid isPermaLink="true">https://taisy0.com/2026/11/06/230031.html</guid>
-<pubDate>Thu, 05 Nov 2026 17:20:24 +0000</pubDate>
-<category>気になる、記になる…</category>
-<description>NTTドコモが、昨日午前11時頃より発生していた携帯電話サービス（5G SA）の障害を復旧したことを案内しています。 障害により全国で同社の携帯電話サービス（5G SA（Standalone）の音声通話・データ通信・SM […] — 気になる、記になる… / score: 80 (大手キャリアの5G SA大規模通信障害の復旧)</description>
 </item>
 <item>
 <title>[80] 「LibreOffice」にヒープバッファーオーバーフローの脆弱性、v26.2.6/26.8.1で修正済み／Anthropicがエージェントを使ったオープンソースのセキュリティ調査で発見</title>
@@ -631,6 +607,14 @@
 <description> — CodeZine / score: 75 (脆弱性検査ツールの無料公開情報)</description>
 </item>
 <item>
+<title>[75] Amazon EC2 now publishes ImdsV1Enabled CloudWatch metric</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-imdsv1enabled-cloudwatch-metric/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-imdsv1enabled-cloudwatch-metric/</guid>
+<pubDate>Thu, 05 Nov 2026 08:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon EC2 now supports an ImdsV1Enabled CloudWatch metric, giving customers visibility into which of their EC2 instances still have Instance Metadata Service Version 1 (IMDSv1) enabled. You can use this metric to track your migration to IMDSv2 across your accounts and Regions, at scale. With the ImdsV1Enabled metric, you can configure CloudWatch dashboards and alarms to track instances that still allow IMDSv1, identify migration gaps, and prioritize remediation, without building your own toolin — AWS What's New / score: 75 (セキュリティ改善のためのIMDSv1可視化機能)</description>
+</item>
+<item>
 <title>[75] OpenAI、「Images 2.6」を発表 ～GIFアニメーションに対応、生成速度は50％向上／API向けに「Flare」「Sunburst」の2モデル、SVG書き出しや編集箇所の指定も</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2153881.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2153881.html</guid>
@@ -805,6 +789,22 @@
 <pubDate>Mon, 26 Oct 2026 22:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework. — OpenAI News / score: 75 (GPT-6 Astraを活用したバグ検出の事例)</description>
+</item>
+<item>
+<title>[75] Moonshot AI、最高性能のオープンウェイトMoEモデル「Kimi K3.1 Pro」を発表 ―2～3倍高速な「Kimi K3.1 Pro Highspeed」も提供開始</title>
+<link>https://gihyo.jp/article/2026/10/kimi-k3-1-pro?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/10/kimi-k3-1-pro?utm_source=feed</guid>
+<pubDate>Mon, 26 Oct 2026 05:19:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>中国Moonshot AIは2026年10月23日、マルチモーダルMoEモデルの最新バージョン「Kimi K3.1 Pro」および高レスポンスモデル「Kimi K3.1 Pro Highspeed」を発表した。 — gihyo.jp / score: 75 (Moonshot AIによる高性能オープンウェイトMoEモデル発表)</description>
+</item>
+<item>
+<title>[75] v3.14.10</title>
+<link>https://github.com/python/cpython/releases/tag/v3.14.10</link>
+<guid isPermaLink="true">https://github.com/python/cpython/releases/tag/v3.14.10</guid>
+<pubDate>Sun, 25 Oct 2026 17:12:01 +0000</pubDate>
+<category>CPython リリース</category>
+<description>Python 3.14.10 — CPython リリース / score: 75 (Python 3.14.10のリリース情報)</description>
 </item>
 </channel>
 </rss>
