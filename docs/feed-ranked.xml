@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sat, 07 Nov 2026 20:05:51 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 22:05:37 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 約10年間見逃されていたOpenSSHの脆弱性「*sshole」が発覚、257文字以上のパスワードでログイン禁止アカウントを突破可能に</title>
@@ -71,12 +71,12 @@
 <description>OpenAIは2026年11月5日、サイバーセキュリティ向けフロンティアモデルの最新バージョンGPT-6 Cyberを発表した。 — gihyo.jp / score: 90 (AIモデルによるサイバーセキュリティ自動化の重大な発表)</description>
 </item>
 <item>
-<title>[90] アイリスオーヤマ通販、約770万人分の情報漏えいのおそれ　非会員も対象</title>
-<link>https://japan.cnet.com/article/35254482/</link>
-<guid isPermaLink="true">https://japan.cnet.com/article/35254482/</guid>
-<pubDate>Fri, 06 Nov 2026 03:10:00 +0000</pubDate>
-<category>CNET Japan</category>
-<description>アイリスオーヤマ公式通販サイト「アイリスプラザ」の運営会社、アイリスプラザは11月5日、外部クラウドサービスに保存していた約770万人分の個人情報が漏えいしたおそれがあると発表した。会員登録せずに商品を購入した人や、キャンペーンに応募した人の情報も含まれる。 — CNET Japan / score: 90 (大規模な個人情報の漏えいのおそれ)</description>
+<title>[90] 【2026年11月版】WordPressの移行先を本気で考えてみた（19候補を比較）</title>
+<link>https://qiita.com/MURAMASA2470/items/87982443cbae67657f4c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/MURAMASA2470/items/87982443cbae67657f4c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Fri, 06 Nov 2026 04:30:58 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>はじめに 先日、PHP本体にPHP2Shellと呼ばれる重大な脆弱性が公表されました。 認証なしでサーバー上のコードを実行される恐れがあります。 深刻度はCVSS v4.0で9.2です。 米CISAは、実際に悪用が確認された脆弱性の一覧にも登録しています。 国内でも、国の... — Qiita 人気記事 / score: 90 (重大な脆弱性と移行検討に関する話題)</description>
 </item>
 <item>
 <title>[90] OpenAIがLinuxの脆弱性948件を発見、費やしたAPIコストは約1億9200万円</title>
@@ -151,36 +151,12 @@
 <description>AppleがSiri AIとサードパーティアプリの連携を全開発者に向けて開放。日本語対応のSiriがアプリ内操作を代行し、来春以降の実装に向けてプレビュー版の配信が開始されました。 — ギズモード・ジャパン / score: 85 (Siri AIのサードパーティ開発者開放)</description>
 </item>
 <item>
-<title>[85] ロート製薬、約280万人分の個人情報漏えい　9715件は通話音声データとクレカ情報が流出</title>
-<link>https://www.itmedia.co.jp/news/article/2611/06/2000002984/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/06/2000002984/</guid>
-<pubDate>Sat, 07 Nov 2026 01:47:18 +0000</pubDate>
+<title>[85] ドコモ最大29万件超の顧客情報流出、「システム連携の隙」狙われる</title>
+<link>https://k-tai.watch.impress.co.jp/docs/news/2154538.html</link>
+<guid isPermaLink="true">https://k-tai.watch.impress.co.jp/docs/news/2154538.html</guid>
+<pubDate>Fri, 06 Nov 2026 13:25:34 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>ロート製薬（大阪市）は11月6日、9月11日に公表した通信販売システムへの不正アクセスについて、顧客279万7545人分の個人情報が漏えいしたと発表した。調査の結果、9715人分のクレジットカード情報も不正に取得されていたことが分かったという。 漏えいしたのは、複数の顧客管理システムに保存されていた氏名、住所、電... — はてなブックマーク テクノロジー / score: 85 (大規模な個人情報流出とクレカ情報漏えい事案)</description>
-</item>
-<item>
-<title>[85] Google、脆弱性修正AI「CodeMender」を強化　Gemini 4 Argonなど複数AIモデルを使用</title>
-<link>https://japan.cnet.com/article/35254533/</link>
-<guid isPermaLink="true">https://japan.cnet.com/article/35254533/</guid>
-<pubDate>Sat, 07 Nov 2026 00:10:00 +0000</pubDate>
-<category>CNET Japan</category>
-<description>Googleは、ソフトウェアの脆弱性（セキュリティー上の欠陥）を発見・修正するAI「CodeMender」を強化した。脆弱性の検証に使う隔離環境や、調査するファイルの範囲を選べるようにしたと、11月4日付の公式ブログで発表した。CodeMenderは現在、プレビュー版として提供している。 — CNET Japan / score: 85 (Googleによる脆弱性修正AIの機能強化)</description>
-</item>
-<item>
-<title>[85] ドコモの5G SA障害、保守作業を契機に交換機でメモリ異常　別作業との切り分けに時間（更新）</title>
-<link>https://japan.cnet.com/article/35254526/</link>
-<guid isPermaLink="true">https://japan.cnet.com/article/35254526/</guid>
-<pubDate>Fri, 06 Nov 2026 11:10:00 +0000</pubDate>
-<category>CNET Japan</category>
-<description>NTTドコモは11月6日、5日に起きた5G SAサービスの通信障害について、コアネットワークの保守作業を契機に交換機でメモリ異常が起きたことが発端だったと説明した。影響は最大約158.7万人に及んだ。 — CNET Japan / score: 85 (ドコモの5G SA大規模通信障害の原因と詳細)</description>
-</item>
-<item>
-<title>[85] ドコモ、不正アクセス被害者へお見舞金　流出は29万回線、本人確認書類の番号も（更新）</title>
-<link>https://japan.cnet.com/article/35254525/</link>
-<guid isPermaLink="true">https://japan.cnet.com/article/35254525/</guid>
-<pubDate>Fri, 06 Nov 2026 11:06:00 +0000</pubDate>
-<category>CNET Japan</category>
-<description>NTTドコモは11月6日、不正アクセスで流出した顧客情報が最大29万4839回線分だったと明らかにした。対象の全員について本人確認書類の番号も流出しており、個人と法人の顧客へのお見舞金の支払いに向けて検討している。 — CNET Japan / score: 85 (ドコモの不正アクセスによる情報流出と対応)</description>
+<description>ドコモ最大29万件超の顧客情報流出、「システム連携の隙」狙われる — はてなブックマーク テクノロジー / score: 85 (大規模な顧客情報流出とセキュリティの重要性)</description>
 </item>
 <item>
 <title>[85] なぜかWindowsの「ペイント」にリモートコード実行の脆弱性</title>
@@ -199,28 +175,12 @@
 <description>ゲーマー向けトークアプリ「Discord」が、クライアントアプリ全体を「Rust」言語へ移行させるとのこと。米Discordの共同創業者でCTOを務めるStanislav Vishnevskiy氏が11月4日（現地時間、以下同）、自身の「X」（旧称Twitter）アカウントで明らかにした。 — 窓の杜 / score: 85 (DiscordのElectronからRustへの移行発表)</description>
 </item>
 <item>
-<title>[85] ドコモ、34万人の情報をAmazonに無断提供　総務省が行政指導</title>
-<link>https://japan.cnet.com/article/35254508/</link>
-<guid isPermaLink="true">https://japan.cnet.com/article/35254508/</guid>
-<pubDate>Fri, 06 Nov 2026 08:21:00 +0000</pubDate>
-<category>CNET Japan</category>
-<description>NTTドコモが、契約者34万4213人分の電話番号などを、有効な同意を得ずにアマゾンジャパンへ提供していた。総務省は11月6日、利用者情報の管理が不適切で電気通信事業法に抵触するとして、同社に文書による行政指導を行ったと発表した。 — CNET Japan / score: 85 (ドコモの無断情報提供に対する総務省の行政指導)</description>
-</item>
-<item>
 <title>[85] Partnering with Hacktron to find vulnerabilities in OpenAI’s systems</title>
 <link>https://openai.com/index/partnering-with-hacktron</link>
 <guid isPermaLink="true">https://openai.com/index/partnering-with-hacktron</guid>
 <pubDate>Fri, 06 Nov 2026 08:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI. — OpenAI News / score: 85 (OpenAIによる脆弱性検出のためのパートナーシップ発表。)</description>
-</item>
-<item>
-<title>[85] Claude Code は、あなたのメールアドレスを知っている。User-Agent に入れて送るかを Claude Code・Codex・Gemini CLI で試した</title>
-<link>https://qiita.com/suwa_nobu/items/314fb8cf661ef05046d3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/suwa_nobu/items/314fb8cf661ef05046d3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Fri, 06 Nov 2026 07:26:15 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>2026年11月6日の朝、Hacker News に「Claude Code sends your email address to websites」という投稿が出ました。元は GitHub の issue（#107757）で、Claude Code が Web 検索の途... — Qiita 人気記事 / score: 85 (Claude CodeのUser-Agentに関する重要セキュリティ課題)</description>
 </item>
 <item>
 <title>[85] Claude Codeがユーザーのメールアドレスを外部サイトに勝手に送信する問題が発覚、約4カ月前から報告されていたことも判明</title>
@@ -407,14 +367,6 @@
 <description>GMOインターネットグループのサービスが不正アクセスを受けた問題で、2年前、子会社が、「アクティブディレクトリ」という機能を通じて管理者がすべての利用者の情報にアクセスできる状況になっており、リスクが… — はてなブックマーク テクノロジー / score: 80 (GMOグループのセキュリティインシデントとリスク管理)</description>
 </item>
 <item>
-<title>[80] 政府、サイバー緊急対策に約100億円　基幹インフラの攻撃情報は同日中の集約目指す</title>
-<link>https://japan.cnet.com/article/35254531/</link>
-<guid isPermaLink="true">https://japan.cnet.com/article/35254531/</guid>
-<pubDate>Fri, 06 Nov 2026 23:05:00 +0000</pubDate>
-<category>CNET Japan</category>
-<description>政府は11月6日、相次ぐサイバー攻撃を受け、被害者支援や情報収集の強化などを盛り込んだ「サイバーセキュリティ緊急対策パッケージ」を決定した。同日の閣議では、緊急対策に充てる約100億円の予備費の使用も決めた。高市早苗首相は関係閣僚会議で、基幹インフラ事業者がサイバー攻撃を受けた際の情報を、遅くとも同日中に国家サイバー統括室へ集約するよう指示した。 — CNET Japan / score: 80 (政府のサイバーセキュリティ緊急対策と情報集約)</description>
-</item>
-<item>
 <title>[80] Inside GitHub's new Git storage architecture</title>
 <link>https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/</link>
 <guid isPermaLink="true">https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/</guid>
@@ -437,14 +389,6 @@
 <pubDate>Fri, 06 Nov 2026 07:00:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 80 (Zabbix 8.0 LTSのリリースと新機能追加)</description>
-</item>
-<item>
-<title>[80] Claude Code のコミット前フックで TruffleHog を実行し、シークレット入りのコミットを止める</title>
-<link>https://qiita.com/CircleCIJapan/items/00c07ba3c040a8d2e84d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/CircleCIJapan/items/00c07ba3c040a8d2e84d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Fri, 06 Nov 2026 01:40:35 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>Claude CodeのようなAIコーディングエージェントは、コードの変更からコミットまでを自分で進めます。エージェントが書いたコードにAPIキーが直書きされていても、そのままコミットされることがあります。一度コミットしたキーは、ファイルを消してもGitのコミット履歴に残り... — Qiita 人気記事 / score: 80 (AIエージェントのコミット前フックによるシークレット漏洩防止)</description>
 </item>
 <item>
 <title>[80] Vercel、プッシュごとに脆弱性を検査する「Vercel Security Review」をベータ公開</title>
@@ -519,6 +463,14 @@
 <description>タイトルは釣りです（懐かしいブログ仕草） 正確には、元Wantedly CTOのkawasyさんが、ISUCON参加に向けて3ヶ月以上の試行錯誤をしたハーネスを、本番では無停止で自律的に8時間動作させて1位のスコアを叩き出したらしい。 もちろん他のチームも競技にClaude CodeやCodexなどを大活用して挑んだようだけど、完全自律実行... — はてなブックマーク テクノロジー / score: 75 (AIエージェントによるISUCON優勝の衝撃)</description>
 </item>
 <item>
+<title>[75] 【公式】Pyxel 3.0リリース！世界初（？）レトロ3Dゲームエンジン機能を搭載！</title>
+<link>https://qiita.com/kitao/items/af92619297d5563f2a0e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/kitao/items/af92619297d5563f2a0e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Sat, 07 Nov 2026 09:11:57 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>Pyxel 3.0をリリースしました！ Python向けレトロゲームエンジンPyxel の新バージョンである3.0をリリースしました。2018年の公開から8年、2.0のリリースから約3年。ようやくのメジャーバージョンアップです。 気がつけば、GitHubのスター数 も1.... — Qiita 人気記事 / score: 75 (主要なOSSのメジャーリリース)</description>
+</item>
+<item>
 <title>[75] 旦那のデスクトップPCがハッキングされてクレカ不正利用が判明、今朝マウスを触っていないのにポイントが勝手に動き、決済メールをチマチマ消す決定的瞬間を目撃したらしい</title>
 <link>https://togetter.com/li/2767610</link>
 <guid isPermaLink="true">https://togetter.com/li/2767610</guid>
@@ -533,14 +485,6 @@
 <pubDate>Sat, 07 Nov 2026 00:15:27 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>GitHub Next と Microsoft Research が、エージェントが書いたコードを、行ごとに全部読まずに信頼するための研究プロトタイプ「PDD Kit」を公開しました（2026年11月）。PDD は Proof-Driven Development（証明駆動開発）の略で、「専門家だけのものだった形式手法を、日常のソフトウェアに持ち込む」試みです。本記事... — はてなブックマーク テクノロジー / score: 75 (AIエージェントのコード検証手法の新提案)</description>
-</item>
-<item>
-<title>[75] 無印良品ネットストアを一時停止　セキュリティ強化が理由</title>
-<link>https://japan.cnet.com/article/35254529/</link>
-<guid isPermaLink="true">https://japan.cnet.com/article/35254529/</guid>
-<pubDate>Fri, 06 Nov 2026 23:20:00 +0000</pubDate>
-<category>CNET Japan</category>
-<description>良品計画は11月6日、セキュリティ強化のため「無印良品ネットストア」を一時停止したと発表した。公式アプリ「MUJIアプリ」も、会員証のバーコード表示を除くすべての機能を停止した。実店舗は通常通り営業する。 — CNET Japan / score: 75 (無印良品のネットストアがセキュリティ強化で一時停止)</description>
 </item>
 <item>
 <title>[75] [AINews] Inkling 2 Small: 17A-594B trained in 68 hours on 12T tokens, beating Muse Spark</title>
@@ -567,36 +511,12 @@
 <description>Xのエンジニアリングチームは2026年11月4日、約10年間運用されてきた3種類のWebサーバーを統合し、新しい単一のWebアプリケーション基盤をゼロから構築したことを発表した。 — gihyo.jp / score: 75 (XのWeb基盤リプレイス事例と大規模構成)</description>
 </item>
 <item>
-<title>[75] PayPayが緊急メンテ　西日本128信金の共通システム障害受け、チャージ停止（更新）</title>
-<link>https://japan.cnet.com/article/35254502/</link>
-<guid isPermaLink="true">https://japan.cnet.com/article/35254502/</guid>
-<pubDate>Fri, 06 Nov 2026 06:41:00 +0000</pubDate>
-<category>CNET Japan</category>
-<description>PayPayは11月6日、128の信用金庫で「PayPay」へのチャージや金融機関口座の新規登録ができない事象が発生していると発表した。同日午後2時30分ごろから緊急メンテナンスを実施している。 — CNET Japan / score: 75 (信用金庫の障害に伴うPayPayの緊急メンテナンス)</description>
-</item>
-<item>
-<title>[75] 宝くじ公式サイトが一時停止　パスワードが「意図せず変更」、影響範囲を調査</title>
-<link>https://japan.cnet.com/article/35254492/</link>
-<guid isPermaLink="true">https://japan.cnet.com/article/35254492/</guid>
-<pubDate>Fri, 06 Nov 2026 06:30:00 +0000</pubDate>
-<category>CNET Japan</category>
-<description>「宝くじ公式サイト」で、利用者のパスワードが意図せず変更される事象が確認され、同サイトの利用が一時停止されている。11月6日時点の公式の案内では、復旧時期は示されていない。 — CNET Japan / score: 75 (公式サイトのセキュリティインシデント)</description>
-</item>
-<item>
 <title>[75] ChatGPTが夫の毒殺計画を手助け、毒物の選定から毒を上手く隠すための方法の提案まで</title>
 <link>https://gigazine.net/news/20261106-wife-chatgpt-plan-murder/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261106-wife-chatgpt-plan-murder/</guid>
 <pubDate>Fri, 06 Nov 2026 05:24:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>ChatGPTが毒殺を実行するための計画立案を手助けしたことが訴訟により明らかになりました。訴訟では、ChatGPTは殺人未遂の共謀犯とされています。 続きを読む... — GIGAZINE / score: 75 (AI倫理や安全性に関わる重大な訴訟沙汰のニュース)</description>
-</item>
-<item>
-<title>[75] postgres:18 が起動直後に終了する原因：データディレクトリの場所が変わった（16 → 18 移行手順付き）</title>
-<link>https://qiita.com/anderslee2020/items/3bcbb9bbae3b7322c728?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/anderslee2020/items/3bcbb9bbae3b7322c728?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Fri, 06 Nov 2026 02:05:01 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>ネットにある PostgreSQL + Docker の記事の Compose ファイルをそのまま使い、タグだけ 18 にすると、コンテナが数秒で止まります。 $ docker run -d --name pgold -e POSTGRES_PASSWORD=secret ... — Qiita 人気記事 / score: 75 (PostgreSQL 18のDocker起動エラーと移行手順)</description>
 </item>
 <item>
 <title>[75] AWS Security Hub now provides an SBOM inventory for your compute resources</title>
@@ -805,6 +725,86 @@
 <pubDate>Tue, 27 Oct 2026 15:27:52 +0000</pubDate>
 <category>Publickey</category>
 <description>Anthropicが開発しているJavaScriptランタイムの「Bun」の新機能として、Prettier互換のフォーマッタ搭載が発表されました。 2026年10月22日付けでリリースされたBun v1.4.4に搭載されたPrettier互... — Publickey / score: 75 (Bunの高速な新機能追加は開発者に大きな影響がある)</description>
+</item>
+<item>
+<title>[75] 8 examples of Gemini 4 Argon in action</title>
+<link>https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-in-action/</link>
+<guid isPermaLink="true">https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-in-action/</guid>
+<pubDate>Tue, 27 Oct 2026 15:00:00 +0000</pubDate>
+<category>Gemini (Google Blog)</category>
+<description>From deep research to interactive design, here are eight examples of what Gemini 4 Argon, our most intelligent model yet, is capable of. — Gemini (Google Blog) / score: 75 (新モデルGemini 4 Argonの機能紹介)</description>
+</item>
+<item>
+<title>[75] [AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn</title>
+<link>https://latent.space/p/ainews-anthropic-s1/</link>
+<guid isPermaLink="true">https://latent.space/p/ainews-anthropic-s1/</guid>
+<pubDate>Tue, 27 Oct 2026 07:24:59 +0000</pubDate>
+<category>Latent Space</category>
+<description>Today is one of those days that is tougher to cover for a normally-engineer audience that isn’t used to reading most S-1’s, let alone 350 pages of one of the most unusual S-1’s of all time : Better visualized: With significant operating leverage causing the first profitable quarter in Anthropic history (adjusted for $1B/quarter of SBC): The incredible efficiency story is told in two loops, and of course you know, we love loop: The pitch going forward is “virtual collaborators” (don’t say agent!) — Latent Space / score: 75 (AnthropicのS-1提出に基づく財務詳細)</description>
+</item>
+<item>
+<title>[75] How Check Point accelerates vulnerability research with Daybreak</title>
+<link>https://openai.com/index/check-point-daybreak</link>
+<guid isPermaLink="true">https://openai.com/index/check-point-daybreak</guid>
+<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster. — OpenAI News / score: 75 (OpenAIを用いたセキュリティ脆弱性調査の事例)</description>
+</item>
+<item>
+<title>[75] GPT-6.1 Terra</title>
+<link>https://simonwillison.net/2026/Oct/26/gpt-61-terra/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Oct/26/gpt-61-terra/</guid>
+<pubDate>Mon, 26 Oct 2026 23:53:07 +0000</pubDate>
+<category>Simon Willison</category>
+<description>GPT-6.1 Terra It's always interesting to note which aspects of a new model are emphasized in the release announcement. In the case of GPT-6.1 Terra, OpenAI went with visual reasoning and computer use: We’re introducing GPT-6.1 Terra , a fast, efficient model that combines detailed visual reasoning and precise computer use alongside clearer, more natural writing. A significant step up from GPT‑5.6 Terra, it excels at the communication and computer-based tasks that fill the workday, from drafting  — Simon Willison / score: 75 (GPT-6.1 Terraの機能とビジュアル推論の解説)</description>
+</item>
+<item>
+<title>[75] Greptile takes bug detection beyond code review with GPT-6 Astra</title>
+<link>https://openai.com/index/greptile-code-review-codex-astra</link>
+<guid isPermaLink="true">https://openai.com/index/greptile-code-review-codex-astra</guid>
+<pubDate>Mon, 26 Oct 2026 22:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework. — OpenAI News / score: 75 (GPT-6 Astraを活用したバグ検出の事例)</description>
+</item>
+<item>
+<title>[75] Moonshot AI、最高性能のオープンウェイトMoEモデル「Kimi K3.1 Pro」を発表 ―2～3倍高速な「Kimi K3.1 Pro Highspeed」も提供開始</title>
+<link>https://gihyo.jp/article/2026/10/kimi-k3-1-pro?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/10/kimi-k3-1-pro?utm_source=feed</guid>
+<pubDate>Mon, 26 Oct 2026 05:19:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>中国Moonshot AIは2026年10月23日、マルチモーダルMoEモデルの最新バージョン「Kimi K3.1 Pro」および高レスポンスモデル「Kimi K3.1 Pro Highspeed」を発表した。 — gihyo.jp / score: 75 (Moonshot AIによる高性能オープンウェイトMoEモデル発表)</description>
+</item>
+<item>
+<title>[75] v3.14.10</title>
+<link>https://github.com/python/cpython/releases/tag/v3.14.10</link>
+<guid isPermaLink="true">https://github.com/python/cpython/releases/tag/v3.14.10</guid>
+<pubDate>Sun, 25 Oct 2026 17:12:01 +0000</pubDate>
+<category>CPython リリース</category>
+<description>Python 3.14.10 — CPython リリース / score: 75 (Python 3.14.10のリリース情報)</description>
+</item>
+<item>
+<title>[75] v3.15.2</title>
+<link>https://github.com/python/cpython/releases/tag/v3.15.2</link>
+<guid isPermaLink="true">https://github.com/python/cpython/releases/tag/v3.15.2</guid>
+<pubDate>Sun, 25 Oct 2026 16:57:52 +0000</pubDate>
+<category>CPython リリース</category>
+<description>Python 3.15.2 — CPython リリース / score: 75 (Python 3.15.2のリリース情報)</description>
+</item>
+<item>
+<title>[70] GitHub、プルリクエストの新しい「Overview」ページをパブリックプレビューとして公開</title>
+<link>https://codezine.jp/article/detail/30277</link>
+<guid isPermaLink="true">https://codezine.jp/article/detail/30277</guid>
+<pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
+<category>CodeZine</category>
+<description> — CodeZine / score: 70 (GitHub PRの新Overviewページ公開)</description>
+</item>
+<item>
+<title>[70] Kimi K3.1 Pro (Highspeed) now available on Amazon Bedrock</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/moonshot-ai-kimi-k3-1-pro-on-amazon-bedrock</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/moonshot-ai-kimi-k3-1-pro-on-amazon-bedrock</guid>
+<pubDate>Fri, 06 Nov 2026 22:47:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Today, Kimi K3.1 Pro from Moonshot AI is available on Amazon Bedrock, expanding our open weight model portfolio with the security and governance that customers rely on. Customers using Amazon Bedrock can now run agentic use cases such as coding and document processing on Kimi K3.1 Pro (Highspeed), which delivers high output tokens per second (OTPS) for faster, more responsive results. According to Moonshot AI, Kimi K3.1 Pro is an open-weight, natively multimodal agentic model with a 1-million-to — AWS What's New / score: 70 (Amazon Bedrockでの新モデル追加)</description>
 </item>
 </channel>
 </rss>
