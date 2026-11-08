@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sun, 08 Nov 2026 00:17:34 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2026 02:08:36 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 約10年間見逃されていたOpenSSHの脆弱性「*sshole」が発覚、257文字以上のパスワードでログイン禁止アカウントを突破可能に</title>
@@ -37,14 +37,6 @@
 <pubDate>Sat, 07 Nov 2026 12:00:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>OpenAIの最新AI「GPT-6 Cyber」がFirefoxの未知の脆弱性81件を発見。サイバーセキュリティの現状と悪用リスクを防ぐ限定提供の仕組みを解説します。 — ギズモード・ジャパン / score: 90 (AIがFirefoxの未知の脆弱性を81件発見)</description>
-</item>
-<item>
-<title>[90] 【資料を無料公開】PHPの緊急の脆弱性「PHP2shell」、自社のサイトは対象か。版の確かめ方から記録と連絡までを7つのSTEPに分けた「緊急の脆弱性が出た日の対応キット」を公開</title>
-<link>https://ascii.jp/elem/000/004/449/4449526/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/449/4449526/?rss</guid>
-<pubDate>Sat, 07 Nov 2026 03:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>【資料を無料公開】PHPの緊急の脆弱性「PHP2shell」、自社のサイトは対象か。版の確かめ方から記録と連絡までを7つのSTEPに分けた「緊急の脆弱性が出た日の対応キット」を公開 — ASCII.jp / score: 90 (緊急度の高いPHPの脆弱性と対応キット公開)</description>
 </item>
 <item>
 <title>[90] 長いパスワードで認証を回避する脆弱性「*sshole」、「Alpine Linux」などに影響／2016年から存在、「OpenSSH 10.6p2」で対策</title>
@@ -143,6 +135,14 @@
 <description>米Microsoftは10月30日（現地時間、以下同）、この2週間ほどで相次いで明らかになった3つのセキュリティ問題について、公式ブログ「MSRC」で対応を呼びかけた。いずれもMicrosoft製品に由来する脆弱性ではないが、Microsoftのサービスやユーザーの「Azure」環境で動くソフトウェアにも組み込まれていることが多いため、Microsoftとユーザーの双方で対応が必要だとしている。 — 窓の杜 / score: 88 (Microsoftが注意を呼びかける重要脆弱性と対応要請)</description>
 </item>
 <item>
+<title>[85] NVIDIAがAI GPUの位置追跡を東南アジアのクラウド事業者に義務付け。GeForce RTX 5090も対象になる可能性も</title>
+<link>https://gazlog.jp/entry/nvidia-southeast-asia-location-tracking-for-gpu/</link>
+<guid isPermaLink="true">https://gazlog.jp/entry/nvidia-southeast-asia-location-tracking-for-gpu/</guid>
+<pubDate>Sat, 07 Nov 2026 21:13:41 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>AI GPUの中国への流出が問題になっているNVIDIAが、東南アジアでNVIDIA Cloud Partner（NCP）の認定を求める顧客に、GPUの位置を記録できるFleet Intelligenceへの登録を義務付けたとのことです。NCPになれば最新のAI GPUを優先して回してもらえるため、任意のはずの登録が事実上の条件になります。 NVIDIAが東南アジア... — はてなブックマーク テクノロジー / score: 85 (NVIDIAのAI GPU流出対策と業界への影響)</description>
+</item>
+<item>
 <title>[85] アプリを動かすSiri、ついに始動。Siri AIがすべての開発者に開放</title>
 <link>https://www.gizmodo.jp/article/2611-siri-ai-developer-api-release/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/2611-siri-ai-developer-api-release/</guid>
@@ -162,9 +162,9 @@
 <title>[85] なぜかWindowsの「ペイント」にリモートコード実行の脆弱性</title>
 <link>https://gigazine.net/news/20261106-ms-paint-remote-code-execution-vulnerability/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261106-ms-paint-remote-code-execution-vulnerability/</guid>
-<pubDate>Fri, 06 Nov 2026 10:06:50 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Windowsに標準搭載されているお絵描きソフト「ペイント」に、リモートコードを実行してしまう脆弱(ぜいじゃく)性が存在することが明らかになりました。 CVE Record: CVE-2026-83844 https://www.cve.org/CVERecord?id=CVE-2026-83844 CVE-2026-83844 - セキュリティ更新プログラム ガイド - Microsoft - Windows Paint R... — はてなブックマーク テクノロジー / score: 85 (Windowsペイントのリモートコード実行脆弱性)</description>
+<pubDate>Fri, 06 Nov 2026 10:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>Windowsに標準搭載されているお絵描きソフト「ペイント」に、リモートコードを実行してしまう脆弱(ぜいじゃく)性が存在することが明らかになりました。 続きを読む... — GIGAZINE / score: 85 (Windowsペイントのリモートコード実行脆弱性)</description>
 </item>
 <item>
 <title>[85] 「Discord」がクライアント全体を「Rust」で書き直し、「Electron」から脱却へ／「Zed」のUIフレームワーク「GPUI」を採用、モバイル版とコードを共有</title>
@@ -205,14 +205,6 @@
 <pubDate>Fri, 06 Nov 2026 02:59:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>脆弱(ぜいじゃく)性の発見と修正において高い能力を備えるというOpenAIのモデル「GPT-6 Cyber」が発表されました。 続きを読む... — GIGAZINE / score: 85 (サイバーセキュリティ特化型AIモデルの発表)</description>
-</item>
-<item>
-<title>[85] Discordがメモリ使用量削減と安全性向上のためデスクトップ版アプリをRustで再構築へ</title>
-<link>https://gigazine.net/news/20261106-discord-rebuild-app-in-rust/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261106-discord-rebuild-app-in-rust/</guid>
-<pubDate>Fri, 06 Nov 2026 02:18:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>Discordのデスクトップ版アプリは、長らくクロスプラットフォーム向けアプリケーション構築用のフレームワークであるElectronで作られていましたが、このたびRust製に全面刷新する方針が示されました。再構築によりメモリ使用量が大幅に削減されるほか、安全性が向上することになります。 続きを読む... — GIGAZINE / score: 85 (Electron製からRust製への移行で大きな話題)</description>
 </item>
 <item>
 <title>[85] .NET にも build.cs 欲しいんじゃーーー</title>
@@ -351,14 +343,6 @@
 <description>DuckDB Foundationは、シングルバイナリで高速なデータ分析を実現するOLAP型データベース「DuckDB 2.0 LTS」（コード名：Cinnamon Teal）の正式リリースを発表しました。 Announcing Duck... — Publickey / score: 85 (主要DBのメジャーリリースであり高速化など実用的)</description>
 </item>
 <item>
-<title>[80] GMO 管理者が全情報アクセス可能 リスク指摘も十分対策されず | NHKニュース</title>
-<link>https://news.web.nhk/newsweb/na/nd-20261107de72062</link>
-<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261107de72062</guid>
-<pubDate>Sat, 07 Nov 2026 03:30:33 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>GMOインターネットグループのサービスが不正アクセスを受けた問題で、2年前、子会社が、「アクティブディレクトリ」という機能を通じて管理者がすべての利用者の情報にアクセスできる状況になっており、リスクが… — はてなブックマーク テクノロジー / score: 80 (GMOグループのセキュリティインシデントとリスク管理)</description>
-</item>
-<item>
 <title>[80] Inside GitHub's new Git storage architecture</title>
 <link>https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/</link>
 <guid isPermaLink="true">https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/</guid>
@@ -389,14 +373,6 @@
 <pubDate>Fri, 06 Nov 2026 01:00:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 80 (CI/CDでの脆弱性検査ツールのベータ公開)</description>
-</item>
-<item>
-<title>[80] ドコモ通信障害が復旧 原因を公表</title>
-<link>https://news.yahoo.co.jp/pickup/6601482?source=rss</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6601482?source=rss</guid>
-<pubDate>Thu, 05 Nov 2026 22:25:22 +0000</pubDate>
-<category>Yahoo!ニュース IT</category>
-<description> — Yahoo!ニュース IT / score: 80 (大手通信キャリアの障害復旧と原因公表)</description>
 </item>
 <item>
 <title>[80] 「LibreOffice」にヒープバッファーオーバーフローの脆弱性、v26.2.6/26.8.1で修正済み／Anthropicがエージェントを使ったオープンソースのセキュリティ調査で発見</title>
@@ -445,6 +421,14 @@
 <pubDate>Tue, 27 Oct 2026 16:01:38 +0000</pubDate>
 <category>Google DeepMind</category>
 <description>Genie 4: our new world model unlocking unprecedented realism in real-time simulation. — Google DeepMind / score: 80 (Google DeepMindの次世代ワールドシミュレーション発表)</description>
+</item>
+<item>
+<title>[75] Google Workspace、機密ファイルへのクライアントサイド暗号化の自動適用をベータ提供</title>
+<link>https://codezine.jp/article/detail/30279</link>
+<guid isPermaLink="true">https://codezine.jp/article/detail/30279</guid>
+<pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
+<category>CodeZine</category>
+<description> — CodeZine / score: 75 (Google Workspaceのセキュリティ機能ベータ提供)</description>
 </item>
 <item>
 <title>[75] ISUCON2026をClaude Codeが優勝したらしい｜laiso</title>
@@ -805,6 +789,22 @@
 <pubDate>Fri, 06 Nov 2026 07:16:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>OpenAIの元CTOであるミラ・ムラティ氏が設立したアメリカに拠点を置くAI研究企業「Thinking Machines Lab」が、AIモデル「Inkling 2 Small」を現地時間の2026年11月5日に発表しました。近日中にオープンモデルとして公開される予定です。 続きを読む... — GIGAZINE / score: 70 (元OpenAI CTOによる新しいオープンAIモデル発表)</description>
+</item>
+<item>
+<title>[70] 脆弱性の悪用は公開の前へ、Red Hatが説く「ゼロCVE」からリスクベース管理への転換</title>
+<link>https://codezine.jp/article/detail/30266</link>
+<guid isPermaLink="true">https://codezine.jp/article/detail/30266</guid>
+<pubDate>Fri, 06 Nov 2026 04:00:00 +0000</pubDate>
+<category>CodeZine</category>
+<description> — CodeZine / score: 70 (ゼロCVEからリスクベース管理への脆弱性対策の転換)</description>
+</item>
+<item>
+<title>[70] Google、動画生成・編集AI「Gemini Omni 1.2 Flash」を一般提供 ～最大15秒の動画に対応／720pの価格は3割引き。対話形式の編集や参照素材への忠実度も向上</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2154215.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2154215.html</guid>
+<pubDate>Fri, 06 Nov 2026 02:01:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Googleは11月5日（現地時間）、動画生成・編集モデル「Gemini Omni 1.2 Flash」を発表した。開発者向けの「Gemini API」や企業向けの「Google Cloud」で一般提供（GA）が開始されたほか、「Gemini」アプリや動画制作ツール「Google Flow」「Google Vids」でも利用できる。 — 窓の杜 / score: 70 (Googleの動画生成AIモデルの一般提供開始)</description>
 </item>
 </channel>
 </rss>
