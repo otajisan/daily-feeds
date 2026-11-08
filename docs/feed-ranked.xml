@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sun, 08 Nov 2026 20:05:40 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2026 22:05:42 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] OpenAI、Linuxカーネルを最新セキュリティAIモデルで調査、ローカル権限昇格の脆弱性948件を実証 ―エクスプロイト、パッチまで生成</title>
@@ -21,6 +21,14 @@
 <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
 <category>Python Insider</category>
 <description>Five expedited security releases to distrust the compromised eMudhra intermediate CA keys. — Python Insider / score: 95 (証明書漏洩対応のためのPython複数バージョンの緊急修正)</description>
+</item>
+<item>
+<title>[90] 「Apache HTTP Server 2.4.70」が公開 ～メモリ破損やWindowsでのクラッシュを修正／これまでのすべてのバージョンで更新を推奨</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2154632.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2154632.html</guid>
+<pubDate>Sun, 08 Nov 2026 21:45:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>The Apache Software Foundation（ASF）は11月6日（協定世界時）、「Apache HTTP Server 2.4.70」を公開した。以下の5つの問題に対処したアップデートとなっている。 — 窓の杜 / score: 90 (Apache HTTP Serverの脆弱性修正リリース)</description>
 </item>
 <item>
 <title>[90] 【重要】不正アクセスによる情報流出に関するお詫びとお知らせ（第一報）</title>
@@ -125,6 +133,14 @@
 <pubDate>Sun, 08 Nov 2026 10:31:52 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>Claude Codeで「Yes, and don't ask again（今後確認しない）」を選ぶと、承認したコマンドがそのままプロジェクト内の.claude/settings.local.jsonに保存されます。コマンドにパスワードやAPIキーが含まれていると、平文のまま残ります。セキュリティ企業Apiiroの調査（11月7日公表）では、公開GitHubリポジトリにある... — はてなブックマーク テクノロジー / score: 85 (AIツールの重大なセキュリティ設定漏れ問題)</description>
+</item>
+<item>
+<title>[85] 脆弱性の情報は間に合っている？ 英語は 2 時間以内、悪用は 4 割が 1 日以内、日本語は中央値 4.6 日後。悪用された 74 件を調べて分かった</title>
+<link>https://qiita.com/songchong/items/b3c6c879f03f9bb665d3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/songchong/items/b3c6c879f03f9bb665d3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Sun, 08 Nov 2026 09:00:22 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>AI を使ったサイバー攻撃で、脆弱性が公表されてから悪用されるまでの時間は、週から日の単位に縮みました。日本政府も、2026 年 5 月の Project YATA-Shield で、AI の悪用で攻撃のスピードと規模が劇的に増加していると書いています。 では、悪用される... — Qiita 人気記事 / score: 85 (脆弱性公開から悪用までのスピードに関する重要警鐘)</description>
 </item>
 <item>
 <title>[85] 【日本初】高市政権の「サイバーセキュリティ緊急対策パッケージ」にサイカルトラストの特許群で対応。AIエージェント行為の実行前保留とAI診断の実施証明の特許を実施許諾込みで提供し、即日対応化を支援</title>
@@ -319,6 +335,14 @@
 <description>10月20日と21日に米カリフォルニア州で行われたイベント「PyTorch Conference 2026」において、AWSとGoogle Cloudが相次いでPyTorchの自社AIプロセッサ対応版をオープンソースとして発表しました。 A... — Publickey / score: 85 (主要クラウドによるPyTorchエコシステムのオープンソース化)</description>
 </item>
 <item>
+<title>[80] 部品の脆弱性は、どこまで広がるのか？ 主要 64 製品と 8 部品の依存関係をたどったら、OpenSSL は 20、SQLite は 16、PHP は 11 だった</title>
+<link>https://qiita.com/songchong/items/41a88eb41845af761b19?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/songchong/items/41a88eb41845af761b19?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Sun, 08 Nov 2026 19:10:12 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>AI が、広く使われるソフトウェア部品（コンポーネント）の脆弱性を見つけ始めました。Google の AI のエージェント（Big Sleep） は SQLite の脆弱性を、Google の AI で作ったテスト（OSS-Fuzz） は OpenSSL の脆弱性を見つけ... — Qiita 人気記事 / score: 80 (AIによるオープンソース部品の脆弱性発見の影響)</description>
+</item>
+<item>
 <title>[80] アメリカ産のAIでオープンモデル「Ripple-65B Preview」登場、パラメーター数10倍の大型モデルを上回る性能で開発費は10分の1</title>
 <link>https://gigazine.net/news/20261108-ripple-65b-preview/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261108-ripple-65b-preview/</guid>
@@ -341,14 +365,6 @@
 <pubDate>Fri, 06 Nov 2026 07:00:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 80 (Zabbix 8.0 LTSのリリースと新機能追加)</description>
-</item>
-<item>
-<title>[80] Claude Code のコミット前フックで TruffleHog を実行し、シークレット入りのコミットを止める</title>
-<link>https://qiita.com/CircleCIJapan/items/00c07ba3c040a8d2e84d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/CircleCIJapan/items/00c07ba3c040a8d2e84d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Fri, 06 Nov 2026 01:40:35 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>Claude CodeのようなAIコーディングエージェントは、コードの変更からコミットまでを自分で進めます。エージェントが書いたコードにAPIキーが直書きされていても、そのままコミットされることがあります。一度コミットしたキーは、ファイルを消してもGitのコミット履歴に残り... — Qiita 人気記事 / score: 80 (AIエージェントのコミット前フックによるシークレット漏洩防止)</description>
 </item>
 <item>
 <title>[80] 「LibreOffice」にヒープバッファーオーバーフローの脆弱性、v26.2.6/26.8.1で修正済み／Anthropicがエージェントを使ったオープンソースのセキュリティ調査で発見</title>
@@ -397,6 +413,14 @@
 <pubDate>Tue, 27 Oct 2026 16:01:38 +0000</pubDate>
 <category>Google DeepMind</category>
 <description>Genie 4: our new world model unlocking unprecedented realism in real-time simulation. — Google DeepMind / score: 80 (Google DeepMindの次世代ワールドシミュレーション発表)</description>
+</item>
+<item>
+<title>[75] 超低コストで効率的な学習に成功した画像生成AIモデル「P-JiT」、オープンウェイトで公開中</title>
+<link>https://gigazine.net/news/20261109-pjit-21k/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261109-pjit-21k/</guid>
+<pubDate>Sun, 08 Nov 2026 22:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>2名の研究者によるAI研究組織「Linum」が画像生成モデル「Pyramid-JiT(P-JiT)」を公開しました。P-JiTは画像生成AIが抱える「生成に時間とコストがかかる」「制御が難しい」という二つの主要な課題の克服を目指しており、開発コストを2万1千ドル(約331万5千円)に抑えられたことがアピールされています。 続きを読む... — GIGAZINE / score: 75 (低コストなオープンウェイト画像生成AIの公開)</description>
 </item>
 <item>
 <title>[75] GitHubのシークレットスキャン、SpaceXがパートナーに参加し誤検知抑制も強化</title>
@@ -687,14 +711,6 @@
 <description>From deep research to interactive design, here are eight examples of what Gemini 4 Argon, our most intelligent model yet, is capable of. — Gemini (Google Blog) / score: 75 (新モデルGemini 4 Argonの機能紹介)</description>
 </item>
 <item>
-<title>[75] [AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn</title>
-<link>https://latent.space/p/ainews-anthropic-s1/</link>
-<guid isPermaLink="true">https://latent.space/p/ainews-anthropic-s1/</guid>
-<pubDate>Tue, 27 Oct 2026 07:24:59 +0000</pubDate>
-<category>Latent Space</category>
-<description>Today is one of those days that is tougher to cover for a normally-engineer audience that isn’t used to reading most S-1’s, let alone 350 pages of one of the most unusual S-1’s of all time : Better visualized: With significant operating leverage causing the first profitable quarter in Anthropic history (adjusted for $1B/quarter of SBC): The incredible efficiency story is told in two loops, and of course you know, we love loop: The pitch going forward is “virtual collaborators” (don’t say agent!) — Latent Space / score: 75 (AnthropicのS-1提出に基づく財務詳細)</description>
-</item>
-<item>
 <title>[75] How Check Point accelerates vulnerability research with Daybreak</title>
 <link>https://openai.com/index/check-point-daybreak</link>
 <guid isPermaLink="true">https://openai.com/index/check-point-daybreak</guid>
@@ -727,20 +743,28 @@
 <description>中国Moonshot AIは2026年10月23日、マルチモーダルMoEモデルの最新バージョン「Kimi K3.1 Pro」および高レスポンスモデル「Kimi K3.1 Pro Highspeed」を発表した。 — gihyo.jp / score: 75 (Moonshot AIによる高性能オープンウェイトMoEモデル発表)</description>
 </item>
 <item>
+<title>[70] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco</title>
+<link>https://latent.space/p/cs146s/</link>
+<guid isPermaLink="true">https://latent.space/p/cs146s/</guid>
+<pubDate>Sun, 08 Nov 2026 21:41:44 +0000</pubDate>
+<category>Latent Space</category>
+<description>What happens when students can one-shot last year’s homework? Inside CS146S and the engineering team at Monaco. — Latent Space / score: 70 (スタンフォード大学におけるAIネイティブ開発教育)</description>
+</item>
+<item>
+<title>[70] [One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco</title>
+<link>https://latent.space/p/one_million_ai_engineer_special_how_stanford_teaches_ai-native_engineering_mihail_eric_monaco/</link>
+<guid isPermaLink="true">https://latent.space/p/one_million_ai_engineer_special_how_stanford_teaches_ai-native_engineering_mihail_eric_monaco/</guid>
+<pubDate>Sun, 08 Nov 2026 21:23:29 +0000</pubDate>
+<category>Latent Space</category>
+<description>What do you assign when a coding agent can finish last year’s homework in one prompt? In the second run of Stanford’s CS146S, Mihail Eric brought open-source maintainers into the course. Students have to learn an unfamiliar repo, propose a change, and ... — Latent Space / score: 70 (AI時代におけるソフトウェアエンジニアリング教育)</description>
+</item>
+<item>
 <title>[70] November 08, 2026</title>
 <link>https://docs.cloud.google.com/release-notes#November_08_2026</link>
 <guid isPermaLink="true">https://docs.cloud.google.com/release-notes#November_08_2026</guid>
 <pubDate>Sun, 08 Nov 2026 08:00:00 +0000</pubDate>
 <category>Google Cloud リリースノート</category>
 <description>Google SecOps SOAR Announcement Release 6.3.106 is being rolled out to the first phase of regions as listed here . Feature Case activity tagging You can now use custom tags for individual activities, comments, tasks, and actions on the Case Wall, and filter the wall view by those tags. This allows you to categorize specific observations and filter the timeline to view only the entries relevant to your investigation or team. For more information, see Add a tag to a Case Wall activity . — Google Cloud リリースノート / score: 70 (Google CloudのCloud SQL関連のアップデート)</description>
-</item>
-<item>
-<title>[70] Goのerrorがnilにならないとき、ポインタではなくinterfaceの型を見る</title>
-<link>https://qiita.com/Shiro_Shihi/items/10e5d76ebd638a2c472f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/Shiro_Shihi/items/10e5d76ebd638a2c472f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Sat, 07 Nov 2026 16:02:15 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>次の4つの比較は、同じnilを相手にしているのに答えが分かれます。 型付きnilを返すerror == nil → false 明示的にnilを返すerror == nil → true nilの*int == nil → true その*intを... — Qiita 人気記事 / score: 70 (Go言語のerrorとnil判定のハマりどころ解説)</description>
 </item>
 <item>
 <title>[70] GitHub、プルリクエストの新しい「Overview」ページをパブリックプレビューとして公開</title>
@@ -781,30 +805,6 @@
 <pubDate>Fri, 06 Nov 2026 02:01:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Googleは11月5日（現地時間）、動画生成・編集モデル「Gemini Omni 1.2 Flash」を発表した。開発者向けの「Gemini API」や企業向けの「Google Cloud」で一般提供（GA）が開始されたほか、「Gemini」アプリや動画制作ツール「Google Flow」「Google Vids」でも利用できる。 — 窓の杜 / score: 70 (Googleの動画生成AIモデルの一般提供開始)</description>
-</item>
-<item>
-<title>[70] Announcing Web Answer on Amazon Bedrock AgentCore</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/11/web-answer-amazon-bedrock/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/web-answer-amazon-bedrock/</guid>
-<pubDate>Thu, 05 Nov 2026 20:56:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Today, we are announcing the general availability of Web Answer on Amazon Bedrock AgentCore. Web Answer is a managed tool that returns a synthesized, grounded, cited answer to a natural-language question in a single call, so agent builders can attach it to an agent and get back a finished answer grounded in current web sources, without building and maintaining their own search, retrieve, synthesis, and citation pipeline. Web Answer builds on Web Search on Amazon Bedrock AgentCore, which launched — AWS What's New / score: 70 (Amazon Bedrockの新機能マネージドWeb検索ツール)</description>
-</item>
-<item>
-<title>[70] IAM Roles Anywhere now supports automatic certificate revocation checking</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/11/iam-roles-anywhere-cdp/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/iam-roles-anywhere-cdp/</guid>
-<pubDate>Thu, 05 Nov 2026 17:38:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>AWS Identity and Access Management (IAM) Roles Anywhere now supports automatic revocation checking using certificate revocation list (CRL) distribution points (CDPs). This helps keep revocation checks in sync with your certificate authority (CA) and can help improve your security posture. When you enable this capability on a trust anchor, IAM Roles Anywhere reads the CDP URLs embedded in authenticating certificates, downloads the corresponding CRLs, and denies credential requests that use revoke — AWS What's New / score: 70 (AWSのセキュリティ機能の重要なアップデート)</description>
-</item>
-<item>
-<title>[70] Semantic aggregation over millions of rows in BigQuery with AI.AGG</title>
-<link>https://cloud.google.com/blog/products/data-analytics/semantic-data-aggregation-with-bigquery-and-ai-agg/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/products/data-analytics/semantic-data-aggregation-with-bigquery-and-ai-agg/</guid>
-<pubDate>Thu, 05 Nov 2026 17:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>For more than a decade, BigQuery has helped set standards for structured data aggregation, calculating financial sums, counting active users, and computing historical averages at a petabyte scale in seconds. But as modern enterprises become inundated with unstructured data — application logs, customer service transcripts, product imagery, and diagnostic reports — a critical gap has emerged. Historically, relational SQL engines have lacked the native ability to aggregate, synthesize, and extract  — Google Cloud Blog / score: 70 (BigQueryにおけるAIを活用した集計機能)</description>
 </item>
 </channel>
 </rss>
