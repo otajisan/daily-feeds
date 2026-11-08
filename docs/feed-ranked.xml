@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sun, 08 Nov 2026 04:07:02 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2026 06:09:24 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] OpenAI、Linuxカーネルを最新セキュリティAIモデルで調査、ローカル権限昇格の脆弱性948件を実証 ―エクスプロイト、パッチまで生成</title>
@@ -127,6 +127,14 @@
 <description>米Microsoftは10月30日（現地時間、以下同）、この2週間ほどで相次いで明らかになった3つのセキュリティ問題について、公式ブログ「MSRC」で対応を呼びかけた。いずれもMicrosoft製品に由来する脆弱性ではないが、Microsoftのサービスやユーザーの「Azure」環境で動くソフトウェアにも組み込まれていることが多いため、Microsoftとユーザーの双方で対応が必要だとしている。 — 窓の杜 / score: 88 (Microsoftが注意を呼びかける重要脆弱性と対応要請)</description>
 </item>
 <item>
+<title>[85] 【日本初】高市政権の「サイバーセキュリティ緊急対策パッケージ」にサイカルトラストの特許群で対応。AIエージェント行為の実行前保留とAI診断の実施証明の特許を実施許諾込みで提供し、即日対応化を支援</title>
+<link>https://ascii.jp/elem/000/004/449/4449561/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/449/4449561/?rss</guid>
+<pubDate>Sun, 08 Nov 2026 05:28:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>【日本初】高市政権の「サイバーセキュリティ緊急対策パッケージ」にサイカルトラストの特許群で対応。AIエージェント行為の実行前保留とAI診断の実施証明の特許を実施許諾込みで提供し、即日対応化を支援 — ASCII.jp / score: 85 (政府のサイバーセキュリティ対策と特許対応)</description>
+</item>
+<item>
 <title>[85] NVIDIAがAI GPUの位置追跡を東南アジアのクラウド事業者に義務付け。GeForce RTX 5090も対象になる可能性も</title>
 <link>https://gazlog.jp/entry/nvidia-southeast-asia-location-tracking-for-gpu/</link>
 <guid isPermaLink="true">https://gazlog.jp/entry/nvidia-southeast-asia-location-tracking-for-gpu/</guid>
@@ -173,14 +181,6 @@
 <pubDate>Fri, 06 Nov 2026 05:15:23 +0000</pubDate>
 <category>iPhone Mania</category>
 <description>NTTドコモは2026年11月5日、ドコモオンラインショップとMy docomoへの不正アクセスで、一部のお客さま情報が最大約30万件流出したと発表しました。第二報（午後6時30分時点）では、自分が対象かを調べる専用の確 […] — iPhone Mania / score: 85 (大規模サービスにおける不正アクセスと個人情報流出)</description>
-</item>
-<item>
-<title>[85] OpenAIがサイバーセキュリティのためのAI「GPT-6 Cyber」を発表</title>
-<link>https://gigazine.net/news/20261106-openai-gpt-6-cyber/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261106-openai-gpt-6-cyber/</guid>
-<pubDate>Fri, 06 Nov 2026 02:59:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>脆弱(ぜいじゃく)性の発見と修正において高い能力を備えるというOpenAIのモデル「GPT-6 Cyber」が発表されました。 続きを読む... — GIGAZINE / score: 85 (サイバーセキュリティ特化型AIモデルの発表)</description>
 </item>
 <item>
 <title>[85] .NET にも build.cs 欲しいんじゃーーー</title>
@@ -317,14 +317,6 @@
 <pubDate>Sun, 25 Oct 2026 15:44:47 +0000</pubDate>
 <category>Publickey</category>
 <description>DuckDB Foundationは、シングルバイナリで高速なデータ分析を実現するOLAP型データベース「DuckDB 2.0 LTS」（コード名：Cinnamon Teal）の正式リリースを発表しました。 Announcing Duck... — Publickey / score: 85 (主要DBのメジャーリリースであり高速化など実用的)</description>
-</item>
-<item>
-<title>[80] Inside GitHub's new Git storage architecture</title>
-<link>https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/</link>
-<guid isPermaLink="true">https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/</guid>
-<pubDate>Fri, 06 Nov 2026 22:30:33 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Last week at GitHub Universe, we announced our new Git storage architecture, capable of handling thousands of writes per second with reads that scale on demand. Through internal testing, we’ve demonstrated the ability to support 5,000 concurrent agents working on a repository, sending 7,200 pushe... — はてなブックマーク テクノロジー / score: 80 (大規模Gitストレージ基盤のアーキテクチャ刷新)</description>
 </item>
 <item>
 <title>[80] ドコモ 流出の対象者に見舞金検討</title>
@@ -805,6 +797,14 @@
 <pubDate>Thu, 05 Nov 2026 17:38:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>AWS Identity and Access Management (IAM) Roles Anywhere now supports automatic revocation checking using certificate revocation list (CRL) distribution points (CDPs). This helps keep revocation checks in sync with your certificate authority (CA) and can help improve your security posture. When you enable this capability on a trust anchor, IAM Roles Anywhere reads the CDP URLs embedded in authenticating certificates, downloads the corresponding CRLs, and denies credential requests that use revoke — AWS What's New / score: 70 (AWSのセキュリティ機能の重要なアップデート)</description>
+</item>
+<item>
+<title>[70] Semantic aggregation over millions of rows in BigQuery with AI.AGG</title>
+<link>https://cloud.google.com/blog/products/data-analytics/semantic-data-aggregation-with-bigquery-and-ai-agg/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/data-analytics/semantic-data-aggregation-with-bigquery-and-ai-agg/</guid>
+<pubDate>Thu, 05 Nov 2026 17:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>For more than a decade, BigQuery has helped set standards for structured data aggregation, calculating financial sums, counting active users, and computing historical averages at a petabyte scale in seconds. But as modern enterprises become inundated with unstructured data — application logs, customer service transcripts, product imagery, and diagnostic reports — a critical gap has emerged. Historically, relational SQL engines have lacked the native ability to aggregate, synthesize, and extract  — Google Cloud Blog / score: 70 (BigQueryにおけるAIを活用した集計機能)</description>
 </item>
 </channel>
 </rss>
