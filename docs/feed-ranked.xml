@@ -4,16 +4,8 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sun, 08 Nov 2026 02:08:36 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2026 04:07:02 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
-<item>
-<title>[95] 約10年間見逃されていたOpenSSHの脆弱性「*sshole」が発覚、257文字以上のパスワードでログイン禁止アカウントを突破可能に</title>
-<link>https://gigazine.net/news/20261106-openssh-xsshole/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261106-openssh-xsshole/</guid>
-<pubDate>Fri, 06 Nov 2026 02:25:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>Linuxでリモートログインに使われるOpenSSHに、特定の条件下で正しいパスワードを知らなくてもログインできてしまう脆弱(ぜいじゃく)性「*sshole(CVE-2026-123158)」が発見されました。影響を受けるのはAlpine Linuxなどを利用する一部のシステムで、257バイト以上のパスワードを入力するだけで、本来はパスワードによるログインが禁止されているアカウントにアクセスできる可能性があります。 続きを読む... — GIGAZINE / score: 95 (OpenSSHの脆弱性詳細と影響の解説)</description>
-</item>
 <item>
 <title>[95] OpenAI、Linuxカーネルを最新セキュリティAIモデルで調査、ローカル権限昇格の脆弱性948件を実証 ―エクスプロイト、パッチまで生成</title>
 <link>https://gihyo.jp/article/2026/11/openai-linux-vulnerabilitiy-investigation?utm_source=feed</link>
@@ -50,9 +42,9 @@
 <title>[90] OpenAI、セキュリティ特化AIモデル「GPT-6 Cyber」を発表、一部顧客に限定提供／Firefox、Linuxカーネル、Brotliの脆弱性発見・検証に活躍</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2154238.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2154238.html</guid>
-<pubDate>Fri, 06 Nov 2026 05:56:31 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>OpenAI、セキュリティ特化AIモデル「GPT-6 Cyber」を発表、一部顧客に限定提供／Firefox、Linuxカーネル、Brotliの脆弱性発見・検証に活躍 — はてなブックマーク テクノロジー / score: 90 (OpenAIによるセキュリティ特化型AIモデルの発表)</description>
+<pubDate>Fri, 06 Nov 2026 05:15:53 +0000</pubDate>
+<category>窓の杜</category>
+<description>米OpenAIは11月5日（現地時間、以下同）、セキュリティ研究向けのAIモデル「GPT-6 Cyber」を発表した。最上位モデル「GPT-6 Astra」をベースに、許可を得た脆弱性研究向けに訓練したモデルで、脆弱性の発見やエクスプロイト（攻撃コード）の開発、Webアプリのペネトレーションテストといった作業を担う。 — 窓の杜 / score: 90 (OpenAIによるセキュリティ特化型AIモデルの発表)</description>
 </item>
 <item>
 <title>[90] OpenAI、サイバーセキュリティ向けフロンティアモデル「GPT-6 Cyber」を発表 ―脆弱性の自律的な検出・検証・修正に対応、スコープ外への攻撃・逸脱を厳格に防止</title>
@@ -141,22 +133,6 @@
 <pubDate>Sat, 07 Nov 2026 21:13:41 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>AI GPUの中国への流出が問題になっているNVIDIAが、東南アジアでNVIDIA Cloud Partner（NCP）の認定を求める顧客に、GPUの位置を記録できるFleet Intelligenceへの登録を義務付けたとのことです。NCPになれば最新のAI GPUを優先して回してもらえるため、任意のはずの登録が事実上の条件になります。 NVIDIAが東南アジア... — はてなブックマーク テクノロジー / score: 85 (NVIDIAのAI GPU流出対策と業界への影響)</description>
-</item>
-<item>
-<title>[85] アプリを動かすSiri、ついに始動。Siri AIがすべての開発者に開放</title>
-<link>https://www.gizmodo.jp/article/2611-siri-ai-developer-api-release/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-siri-ai-developer-api-release/</guid>
-<pubDate>Sat, 07 Nov 2026 02:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>AppleがSiri AIとサードパーティアプリの連携を全開発者に向けて開放。日本語対応のSiriがアプリ内操作を代行し、来春以降の実装に向けてプレビュー版の配信が開始されました。 — ギズモード・ジャパン / score: 85 (Siri AIのサードパーティ開発者開放)</description>
-</item>
-<item>
-<title>[85] ドコモ最大29万件超の顧客情報流出、「システム連携の隙」狙われる</title>
-<link>https://k-tai.watch.impress.co.jp/docs/news/2154538.html</link>
-<guid isPermaLink="true">https://k-tai.watch.impress.co.jp/docs/news/2154538.html</guid>
-<pubDate>Fri, 06 Nov 2026 13:25:34 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>ドコモ最大29万件超の顧客情報流出、「システム連携の隙」狙われる — はてなブックマーク テクノロジー / score: 85 (大規模な顧客情報流出とセキュリティの重要性)</description>
 </item>
 <item>
 <title>[85] なぜかWindowsの「ペイント」にリモートコード実行の脆弱性</title>
@@ -421,6 +397,14 @@
 <pubDate>Tue, 27 Oct 2026 16:01:38 +0000</pubDate>
 <category>Google DeepMind</category>
 <description>Genie 4: our new world model unlocking unprecedented realism in real-time simulation. — Google DeepMind / score: 80 (Google DeepMindの次世代ワールドシミュレーション発表)</description>
+</item>
+<item>
+<title>[75] Vercel、再デプロイ不要でスケジュールを管理できる「Vercel Schedules」を公開</title>
+<link>https://codezine.jp/article/detail/30282</link>
+<guid isPermaLink="true">https://codezine.jp/article/detail/30282</guid>
+<pubDate>Sun, 08 Nov 2026 03:00:00 +0000</pubDate>
+<category>CodeZine</category>
+<description> — CodeZine / score: 75 (Vercelのスケジュール機能追加という開発者向け新機能)</description>
 </item>
 <item>
 <title>[75] Google Workspace、機密ファイルへのクライアントサイド暗号化の自動適用をベータ提供</title>
@@ -805,6 +789,22 @@
 <pubDate>Fri, 06 Nov 2026 02:01:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Googleは11月5日（現地時間）、動画生成・編集モデル「Gemini Omni 1.2 Flash」を発表した。開発者向けの「Gemini API」や企業向けの「Google Cloud」で一般提供（GA）が開始されたほか、「Gemini」アプリや動画制作ツール「Google Flow」「Google Vids」でも利用できる。 — 窓の杜 / score: 70 (Googleの動画生成AIモデルの一般提供開始)</description>
+</item>
+<item>
+<title>[70] Announcing Web Answer on Amazon Bedrock AgentCore</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/web-answer-amazon-bedrock/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/web-answer-amazon-bedrock/</guid>
+<pubDate>Thu, 05 Nov 2026 20:56:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Today, we are announcing the general availability of Web Answer on Amazon Bedrock AgentCore. Web Answer is a managed tool that returns a synthesized, grounded, cited answer to a natural-language question in a single call, so agent builders can attach it to an agent and get back a finished answer grounded in current web sources, without building and maintaining their own search, retrieve, synthesis, and citation pipeline. Web Answer builds on Web Search on Amazon Bedrock AgentCore, which launched — AWS What's New / score: 70 (Amazon Bedrockの新機能マネージドWeb検索ツール)</description>
+</item>
+<item>
+<title>[70] IAM Roles Anywhere now supports automatic certificate revocation checking</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/iam-roles-anywhere-cdp/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/iam-roles-anywhere-cdp/</guid>
+<pubDate>Thu, 05 Nov 2026 17:38:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS Identity and Access Management (IAM) Roles Anywhere now supports automatic revocation checking using certificate revocation list (CRL) distribution points (CDPs). This helps keep revocation checks in sync with your certificate authority (CA) and can help improve your security posture. When you enable this capability on a trust anchor, IAM Roles Anywhere reads the CDP URLs embedded in authenticating certificates, downloads the corresponding CRLs, and denies credential requests that use revoke — AWS What's New / score: 70 (AWSのセキュリティ機能の重要なアップデート)</description>
 </item>
 </channel>
 </rss>
