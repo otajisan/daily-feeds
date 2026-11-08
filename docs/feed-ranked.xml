@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sun, 08 Nov 2026 16:05:53 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2026 18:06:27 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] OpenAI、Linuxカーネルを最新セキュリティAIモデルで調査、ローカル権限昇格の脆弱性948件を実証 ―エクスプロイト、パッチまで生成</title>
@@ -133,6 +133,14 @@
 <pubDate>Sun, 08 Nov 2026 05:28:00 +0000</pubDate>
 <category>ASCII.jp</category>
 <description>【日本初】高市政権の「サイバーセキュリティ緊急対策パッケージ」にサイカルトラストの特許群で対応。AIエージェント行為の実行前保留とAI診断の実施証明の特許を実施許諾込みで提供し、即日対応化を支援 — ASCII.jp / score: 85 (政府のサイバーセキュリティ対策と特許対応)</description>
+</item>
+<item>
+<title>[85] 日本ネットワークセキュリティ協会に不正アクセス　最大1.5万件の個人情報漏えいの恐れ</title>
+<link>https://japan.cnet.com/article/35254549/</link>
+<guid isPermaLink="true">https://japan.cnet.com/article/35254549/</guid>
+<pubDate>Sat, 07 Nov 2026 23:01:33 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>漏えいした可能性があるのは、サービス管理者の氏名、企業名、メールアドレス、組織所在地、従業員数、業種、利用ユーザー数のほか、利用者のIDとパスワード。パスワードは、元の文字列を別の値に変換する「ハッシュ化」が施されていたという。 JNSAは11月4日に不正アクセスを確認した。調査によると、10月30日夜ごろか... — はてなブックマーク テクノロジー / score: 85 (セキュリティ機関における大規模な情報漏えい事案)</description>
 </item>
 <item>
 <title>[85] なぜかWindowsの「ペイント」にリモートコード実行の脆弱性</title>
@@ -719,22 +727,6 @@
 <description>中国Moonshot AIは2026年10月23日、マルチモーダルMoEモデルの最新バージョン「Kimi K3.1 Pro」および高レスポンスモデル「Kimi K3.1 Pro Highspeed」を発表した。 — gihyo.jp / score: 75 (Moonshot AIによる高性能オープンウェイトMoEモデル発表)</description>
 </item>
 <item>
-<title>[75] v3.14.10</title>
-<link>https://github.com/python/cpython/releases/tag/v3.14.10</link>
-<guid isPermaLink="true">https://github.com/python/cpython/releases/tag/v3.14.10</guid>
-<pubDate>Sun, 25 Oct 2026 17:12:01 +0000</pubDate>
-<category>CPython リリース</category>
-<description>Python 3.14.10 — CPython リリース / score: 75 (Python 3.14.10のリリース情報)</description>
-</item>
-<item>
-<title>[75] v3.15.2</title>
-<link>https://github.com/python/cpython/releases/tag/v3.15.2</link>
-<guid isPermaLink="true">https://github.com/python/cpython/releases/tag/v3.15.2</guid>
-<pubDate>Sun, 25 Oct 2026 16:57:52 +0000</pubDate>
-<category>CPython リリース</category>
-<description>Python 3.15.2 — CPython リリース / score: 75 (Python 3.15.2のリリース情報)</description>
-</item>
-<item>
 <title>[70] Goのerrorがnilにならないとき、ポインタではなくinterfaceの型を見る</title>
 <link>https://qiita.com/Shiro_Shihi/items/10e5d76ebd638a2c472f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
 <guid isPermaLink="true">https://qiita.com/Shiro_Shihi/items/10e5d76ebd638a2c472f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
@@ -805,6 +797,14 @@
 <pubDate>Thu, 05 Nov 2026 17:38:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>AWS Identity and Access Management (IAM) Roles Anywhere now supports automatic revocation checking using certificate revocation list (CRL) distribution points (CDPs). This helps keep revocation checks in sync with your certificate authority (CA) and can help improve your security posture. When you enable this capability on a trust anchor, IAM Roles Anywhere reads the CDP URLs embedded in authenticating certificates, downloads the corresponding CRLs, and denies credential requests that use revoke — AWS What's New / score: 70 (AWSのセキュリティ機能の重要なアップデート)</description>
+</item>
+<item>
+<title>[70] Semantic aggregation over millions of rows in BigQuery with AI.AGG</title>
+<link>https://cloud.google.com/blog/products/data-analytics/semantic-data-aggregation-with-bigquery-and-ai-agg/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/data-analytics/semantic-data-aggregation-with-bigquery-and-ai-agg/</guid>
+<pubDate>Thu, 05 Nov 2026 17:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>For more than a decade, BigQuery has helped set standards for structured data aggregation, calculating financial sums, counting active users, and computing historical averages at a petabyte scale in seconds. But as modern enterprises become inundated with unstructured data — application logs, customer service transcripts, product imagery, and diagnostic reports — a critical gap has emerged. Historically, relational SQL engines have lacked the native ability to aggregate, synthesize, and extract  — Google Cloud Blog / score: 70 (BigQueryにおけるAIを活用した集計機能)</description>
 </item>
 </channel>
 </rss>
