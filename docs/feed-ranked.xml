@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sun, 08 Nov 2026 06:09:24 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2026 08:07:50 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] OpenAI、Linuxカーネルを最新セキュリティAIモデルで調査、ローカル権限昇格の脆弱性948件を実証 ―エクスプロイト、パッチまで生成</title>
@@ -423,14 +423,6 @@
 <description>Pyxel 3.0をリリースしました！ Python向けレトロゲームエンジンPyxel の新バージョンである3.0をリリースしました。2018年の公開から8年、2.0のリリースから約3年。ようやくのメジャーバージョンアップです。 気がつけば、GitHubのスター数 も1.... — Qiita 人気記事 / score: 75 (主要なOSSのメジャーリリース)</description>
 </item>
 <item>
-<title>[75] 証明駆動開発（PDD Kit）とは｜エージェントのコードを行ごとに読まずに信頼する GitHub Next の試み</title>
-<link>https://ai-heartland.com/explain/proof-driven-development/</link>
-<guid isPermaLink="true">https://ai-heartland.com/explain/proof-driven-development/</guid>
-<pubDate>Sat, 07 Nov 2026 00:15:27 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>GitHub Next と Microsoft Research が、エージェントが書いたコードを、行ごとに全部読まずに信頼するための研究プロトタイプ「PDD Kit」を公開しました（2026年11月）。PDD は Proof-Driven Development（証明駆動開発）の略で、「専門家だけのものだった形式手法を、日常のソフトウェアに持ち込む」試みです。本記事... — はてなブックマーク テクノロジー / score: 75 (AIエージェントのコード検証手法の新提案)</description>
-</item>
-<item>
 <title>[75] [AINews] Inkling 2 Small: 17A-594B trained in 68 hours on 12T tokens, beating Muse Spark</title>
 <link>https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark/</link>
 <guid isPermaLink="true">https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark/</guid>
@@ -805,6 +797,14 @@
 <pubDate>Thu, 05 Nov 2026 17:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>For more than a decade, BigQuery has helped set standards for structured data aggregation, calculating financial sums, counting active users, and computing historical averages at a petabyte scale in seconds. But as modern enterprises become inundated with unstructured data — application logs, customer service transcripts, product imagery, and diagnostic reports — a critical gap has emerged. Historically, relational SQL engines have lacked the native ability to aggregate, synthesize, and extract  — Google Cloud Blog / score: 70 (BigQueryにおけるAIを活用した集計機能)</description>
+</item>
+<item>
+<title>[70] v4.2.0-RC2</title>
+<link>https://github.com/spring-projects/spring-boot/releases/tag/v4.2.0-RC2</link>
+<guid isPermaLink="true">https://github.com/spring-projects/spring-boot/releases/tag/v4.2.0-RC2</guid>
+<pubDate>Thu, 05 Nov 2026 13:53:44 +0000</pubDate>
+<category>Spring Boot リリース</category>
+<description>⭐ New Features Remove LDAP SSL reload support #52365 Add support for X-Forwarded-Prefix with Reactor Netty #52316 🐞 Bug Fixes Setting management.observations.conventions to open-telemetry enables neither semantic convention #52619 PushGatewayTaskScheduler does not correctly shutdown task scheduler when context is closed #52591 ClearCachesApplicationListener does not find inherited clearCache() methods #52589 MongoTransactionManager created by BatchDataMongoAutoConfiguration is not customized by  — Spring Boot リリース / score: 70 (Spring Bootのメジャーアップデート候補版リリース)</description>
 </item>
 </channel>
 </rss>
