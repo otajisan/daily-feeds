@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sun, 08 Nov 2026 08:07:50 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2026 10:05:56 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] OpenAI、Linuxカーネルを最新セキュリティAIモデルで調査、ローカル権限昇格の脆弱性948件を実証 ―エクスプロイト、パッチまで生成</title>
@@ -61,14 +61,6 @@
 <pubDate>Fri, 06 Nov 2026 04:30:58 +0000</pubDate>
 <category>Qiita 人気記事</category>
 <description>はじめに 先日、PHP本体にPHP2Shellと呼ばれる重大な脆弱性が公表されました。 認証なしでサーバー上のコードを実行される恐れがあります。 深刻度はCVSS v4.0で9.2です。 米CISAは、実際に悪用が確認された脆弱性の一覧にも登録しています。 国内でも、国の... — Qiita 人気記事 / score: 90 (重大な脆弱性と移行検討に関する話題)</description>
-</item>
-<item>
-<title>[90] OpenAIがLinuxの脆弱性948件を発見、費やしたAPIコストは約1億9200万円</title>
-<link>https://gigazine.net/news/20261106-openai-built-linux-vulnerability/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261106-openai-built-linux-vulnerability/</guid>
-<pubDate>Fri, 06 Nov 2026 03:03:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>OpenAIが、社内で最高のサイバーセキュリティ検証能力を持つAIモデル「GPT-6 Cyber」を使ってLinuxカーネルの脆弱(ぜいじゃく)性を検証したと発表しました。 続きを読む... — GIGAZINE / score: 90 (AIを用いた大規模なLinux脆弱性発見の成果)</description>
 </item>
 <item>
 <title>[90] Linuxカーネルの深刻な脆弱性／FDEの名前で単なるコンサルティングが販売／TypeScriptをRustに移植した「tsrs」発表ほか、2026年10月の人気記事</title>
@@ -149,6 +141,14 @@
 <pubDate>Fri, 06 Nov 2026 10:00:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>Windowsに標準搭載されているお絵描きソフト「ペイント」に、リモートコードを実行してしまう脆弱(ぜいじゃく)性が存在することが明らかになりました。 続きを読む... — GIGAZINE / score: 85 (Windowsペイントのリモートコード実行脆弱性)</description>
+</item>
+<item>
+<title>[85] オープンソース監視ツールのLTS版「Zabbix 8.0 LTS」、OpenTelemetryにネイティブ対応しオブザーバビリティを強化</title>
+<link>https://cloud.watch.impress.co.jp/docs/news/2154360.html</link>
+<guid isPermaLink="true">https://cloud.watch.impress.co.jp/docs/news/2154360.html</guid>
+<pubDate>Fri, 06 Nov 2026 08:53:07 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>オープンソース監視ツールのLTS版「Zabbix 8.0 LTS」、OpenTelemetryにネイティブ対応しオブザーバビリティを強化 — はてなブックマーク テクノロジー / score: 85 (Zabbix 8.0 LTSのリリースと新機能)</description>
 </item>
 <item>
 <title>[85] 「Discord」がクライアント全体を「Rust」で書き直し、「Electron」から脱却へ／「Zed」のUIフレームワーク「GPUI」を採用、モバイル版とコードを共有</title>
@@ -319,6 +319,14 @@
 <description>DuckDB Foundationは、シングルバイナリで高速なデータ分析を実現するOLAP型データベース「DuckDB 2.0 LTS」（コード名：Cinnamon Teal）の正式リリースを発表しました。 Announcing Duck... — Publickey / score: 85 (主要DBのメジャーリリースであり高速化など実用的)</description>
 </item>
 <item>
+<title>[80] アメリカ産のAIでオープンモデル「Ripple-65B Preview」登場、パラメーター数10倍の大型モデルを上回る性能で開発費は10分の1</title>
+<link>https://gigazine.net/news/20261108-ripple-65b-preview/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261108-ripple-65b-preview/</guid>
+<pubDate>Sun, 08 Nov 2026 10:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>AIを使用してシリコンチップを設計する再帰的自己改善に取り組むアメリカのスタートアップ「Ricursive Intelligence」が、アメリカ産のオープンウェイトモデル「Ripple-65B Preview」をリリースしました。Ripple-65B Previewはエージェント型コーディングのベンチマーク「Terminal-Bench 2.1」で80.52点を記録し、より大規模なAIモデルを上回ったと報告されています。 続きを読む... — GIGAZINE / score: 80 (新興オープンモデル Ripple-65Bの登場)</description>
+</item>
+<item>
 <title>[80] ドコモ 流出の対象者に見舞金検討</title>
 <link>https://news.yahoo.co.jp/pickup/6601566?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6601566?source=rss</guid>
@@ -335,12 +343,12 @@
 <description> — CodeZine / score: 80 (Zabbix 8.0 LTSのリリースと新機能追加)</description>
 </item>
 <item>
-<title>[80] Vercel、プッシュごとに脆弱性を検査する「Vercel Security Review」をベータ公開</title>
-<link>https://codezine.jp/article/detail/30254</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/30254</guid>
-<pubDate>Fri, 06 Nov 2026 01:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 80 (CI/CDでの脆弱性検査ツールのベータ公開)</description>
+<title>[80] Claude Code のコミット前フックで TruffleHog を実行し、シークレット入りのコミットを止める</title>
+<link>https://qiita.com/CircleCIJapan/items/00c07ba3c040a8d2e84d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/CircleCIJapan/items/00c07ba3c040a8d2e84d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Fri, 06 Nov 2026 01:40:35 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>Claude CodeのようなAIコーディングエージェントは、コードの変更からコミットまでを自分で進めます。エージェントが書いたコードにAPIキーが直書きされていても、そのままコミットされることがあります。一度コミットしたキーは、ファイルを消してもGitのコミット履歴に残り... — Qiita 人気記事 / score: 80 (AIエージェントのコミット前フックによるシークレット漏洩防止)</description>
 </item>
 <item>
 <title>[80] 「LibreOffice」にヒープバッファーオーバーフローの脆弱性、v26.2.6/26.8.1で修正済み／Anthropicがエージェントを使ったオープンソースのセキュリティ調査で発見</title>
@@ -391,6 +399,22 @@
 <description>Genie 4: our new world model unlocking unprecedented realism in real-time simulation. — Google DeepMind / score: 80 (Google DeepMindの次世代ワールドシミュレーション発表)</description>
 </item>
 <item>
+<title>[75] GitHubのシークレットスキャン、SpaceXがパートナーに参加し誤検知抑制も強化</title>
+<link>https://codezine.jp/article/detail/30281</link>
+<guid isPermaLink="true">https://codezine.jp/article/detail/30281</guid>
+<pubDate>Sun, 08 Nov 2026 09:00:00 +0000</pubDate>
+<category>CodeZine</category>
+<description> — CodeZine / score: 75 (GitHubシークレットスキャンの機能強化)</description>
+</item>
+<item>
+<title>[75] 【図解あり】マルチエージェント設計「15のパターン」　GitHub、Google、Siemensの知見を一気に整理</title>
+<link>https://atmarkit.itmedia.co.jp/ait/articles/2611/08/news001.html</link>
+<guid isPermaLink="true">https://atmarkit.itmedia.co.jp/ait/articles/2611/08/news001.html</guid>
+<pubDate>Sun, 08 Nov 2026 06:14:17 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>【図解あり】マルチエージェント設計「15のパターン」 GitHub、Google、Siemensの知見を一気に整理：AIエージェントの「暴走」を防ぐ6つの基本原則も AIエージェントの一般化に伴い、複数のAIエージェントを連携させるマルチエージェントシステムが注目されています。GitHub、Google、Siemensが紹介した15のデザインパ... — はてなブックマーク テクノロジー / score: 75 (マルチエージェント設計パターンと知見の整理)</description>
+</item>
+<item>
 <title>[75] Vercel、再デプロイ不要でスケジュールを管理できる「Vercel Schedules」を公開</title>
 <link>https://codezine.jp/article/detail/30282</link>
 <guid isPermaLink="true">https://codezine.jp/article/detail/30282</guid>
@@ -405,14 +429,6 @@
 <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 75 (Google Workspaceのセキュリティ機能ベータ提供)</description>
-</item>
-<item>
-<title>[75] ISUCON2026をClaude Codeが優勝したらしい｜laiso</title>
-<link>https://sizu.me/laiso/posts/k59is4cnd77f</link>
-<guid isPermaLink="true">https://sizu.me/laiso/posts/k59is4cnd77f</guid>
-<pubDate>Sat, 07 Nov 2026 10:00:45 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>タイトルは釣りです（懐かしいブログ仕草） 正確には、元Wantedly CTOのkawasyさんが、ISUCON参加に向けて3ヶ月以上の試行錯誤をしたハーネスを、本番では無停止で自律的に8時間動作させて1位のスコアを叩き出したらしい。 もちろん他のチームも競技にClaude CodeやCodexなどを大活用して挑んだようだけど、完全自律実行... — はてなブックマーク テクノロジー / score: 75 (AIエージェントによるISUCON優勝の衝撃)</description>
 </item>
 <item>
 <title>[75] 【公式】Pyxel 3.0リリース！世界初（？）レトロ3Dゲームエンジン機能を搭載！</title>
@@ -501,14 +517,6 @@
 <pubDate>Thu, 05 Nov 2026 17:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>Today, Gemini Omni 1.2 Flash is generally available on Google Cloud. Built for the everyday videos businesses make in volume — like product videos, virtual try-ons, and ads — this model is fast, cost-effective, and follows your image, video and audio references more closely than before. Business users can create with it in Gemini for business and Google Vids, and developers can build with it via API. Here's what's new: A lower price: $0.07 per second of 720p video, 30% less than Gemini Omni 1.1  — Google Cloud Blog / score: 75 (動画生成・編集向けGeminiモデルの一般提供開始)</description>
-</item>
-<item>
-<title>[75] ubuntu-latest が 26.04 になったら、ECS（arm64）がイメージを pull できなくなった話</title>
-<link>https://qiita.com/ogura-gmoconnect/items/6d75b12b6c726ebcd751?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/ogura-gmoconnect/items/6d75b12b6c726ebcd751?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Thu, 05 Nov 2026 12:28:43 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>はじめに GMOコネクトの小倉です。 依存ライブラリを更新する PR をマージしたら、ECS の新しいタスクが起動しなくなりました。アプリのコードも Dockerfile も、ビルドの手順も変えていないのに、です😇 調べてみると、GitHub Actions の ubun... — Qiita 人気記事 / score: 75 (CI環境のバージョンアップに伴うECSイメージpull不具合)</description>
 </item>
 <item>
 <title>[75] PFN、翻訳特化LLM「PLaMo 3 Translate」のモデル重みを公開、0.8Bから31Bまで4サイズ</title>
@@ -727,6 +735,14 @@
 <description>Python 3.15.2 — CPython リリース / score: 75 (Python 3.15.2のリリース情報)</description>
 </item>
 <item>
+<title>[70] Goのerrorがnilにならないとき、ポインタではなくinterfaceの型を見る</title>
+<link>https://qiita.com/Shiro_Shihi/items/10e5d76ebd638a2c472f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/Shiro_Shihi/items/10e5d76ebd638a2c472f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Sat, 07 Nov 2026 16:02:15 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>次の4つの比較は、同じnilを相手にしているのに答えが分かれます。 型付きnilを返すerror == nil → false 明示的にnilを返すerror == nil → true nilの*int == nil → true その*intを... — Qiita 人気記事 / score: 70 (Go言語のerrorとnil判定のハマりどころ解説)</description>
+</item>
+<item>
 <title>[70] GitHub、プルリクエストの新しい「Overview」ページをパブリックプレビューとして公開</title>
 <link>https://codezine.jp/article/detail/30277</link>
 <guid isPermaLink="true">https://codezine.jp/article/detail/30277</guid>
@@ -789,22 +805,6 @@
 <pubDate>Thu, 05 Nov 2026 17:38:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>AWS Identity and Access Management (IAM) Roles Anywhere now supports automatic revocation checking using certificate revocation list (CRL) distribution points (CDPs). This helps keep revocation checks in sync with your certificate authority (CA) and can help improve your security posture. When you enable this capability on a trust anchor, IAM Roles Anywhere reads the CDP URLs embedded in authenticating certificates, downloads the corresponding CRLs, and denies credential requests that use revoke — AWS What's New / score: 70 (AWSのセキュリティ機能の重要なアップデート)</description>
-</item>
-<item>
-<title>[70] Semantic aggregation over millions of rows in BigQuery with AI.AGG</title>
-<link>https://cloud.google.com/blog/products/data-analytics/semantic-data-aggregation-with-bigquery-and-ai-agg/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/products/data-analytics/semantic-data-aggregation-with-bigquery-and-ai-agg/</guid>
-<pubDate>Thu, 05 Nov 2026 17:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>For more than a decade, BigQuery has helped set standards for structured data aggregation, calculating financial sums, counting active users, and computing historical averages at a petabyte scale in seconds. But as modern enterprises become inundated with unstructured data — application logs, customer service transcripts, product imagery, and diagnostic reports — a critical gap has emerged. Historically, relational SQL engines have lacked the native ability to aggregate, synthesize, and extract  — Google Cloud Blog / score: 70 (BigQueryにおけるAIを活用した集計機能)</description>
-</item>
-<item>
-<title>[70] v4.2.0-RC2</title>
-<link>https://github.com/spring-projects/spring-boot/releases/tag/v4.2.0-RC2</link>
-<guid isPermaLink="true">https://github.com/spring-projects/spring-boot/releases/tag/v4.2.0-RC2</guid>
-<pubDate>Thu, 05 Nov 2026 13:53:44 +0000</pubDate>
-<category>Spring Boot リリース</category>
-<description>⭐ New Features Remove LDAP SSL reload support #52365 Add support for X-Forwarded-Prefix with Reactor Netty #52316 🐞 Bug Fixes Setting management.observations.conventions to open-telemetry enables neither semantic convention #52619 PushGatewayTaskScheduler does not correctly shutdown task scheduler when context is closed #52591 ClearCachesApplicationListener does not find inherited clearCache() methods #52589 MongoTransactionManager created by BatchDataMongoAutoConfiguration is not customized by  — Spring Boot リリース / score: 70 (Spring Bootのメジャーアップデート候補版リリース)</description>
 </item>
 </channel>
 </rss>
