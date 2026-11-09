@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sun, 08 Nov 2026 22:05:42 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 00:17:25 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] OpenAI、Linuxカーネルを最新セキュリティAIモデルで調査、ローカル権限昇格の脆弱性948件を実証 ―エクスプロイト、パッチまで生成</title>
@@ -15,20 +15,20 @@
 <description>OpenAIは2026年11月4日、開発中のサイバーセキュリティ向けAIモデルを活用し、Linuxカーネルの脆弱性をエージェントが自律的に発見し検証した結果を発表した。 — gihyo.jp / score: 95 (AIによるLinuxカーネルの脆弱性大量発見と実証の画期的なニュース)</description>
 </item>
 <item>
-<title>[95] Python 3.15.2, 3.14.10, 3.13.18, 3.12.16 and 3.11.18 are out</title>
-<link>https://blog.python.org/2026/10/python-3152-31410-31318-31216-31118/</link>
-<guid isPermaLink="true">https://blog.python.org/2026/10/python-3152-31410-31318-31216-31118/</guid>
-<pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-<category>Python Insider</category>
-<description>Five expedited security releases to distrust the compromised eMudhra intermediate CA keys. — Python Insider / score: 95 (証明書漏洩対応のためのPython複数バージョンの緊急修正)</description>
-</item>
-<item>
 <title>[90] 「Apache HTTP Server 2.4.70」が公開 ～メモリ破損やWindowsでのクラッシュを修正／これまでのすべてのバージョンで更新を推奨</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2154632.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2154632.html</guid>
 <pubDate>Sun, 08 Nov 2026 21:45:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>The Apache Software Foundation（ASF）は11月6日（協定世界時）、「Apache HTTP Server 2.4.70」を公開した。以下の5つの問題に対処したアップデートとなっている。 — 窓の杜 / score: 90 (Apache HTTP Serverの脆弱性修正リリース)</description>
+</item>
+<item>
+<title>[90] AWSから4.3億円の課金が...バグと思われる高額請求された際にまずすること</title>
+<link>https://zenn.dev/tsumita7/articles/aoss-intelligent-ingestion-billing-202610</link>
+<guid isPermaLink="true">https://zenn.dev/tsumita7/articles/aoss-intelligent-ingestion-billing-202610</guid>
+<pubDate>Sun, 08 Nov 2026 08:56:07 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>AWS Ambassadorの積田です。 画像入りのPDFをS3に置いて、Amazon OpenSearch Serverless(以下AOSS)のIntelligent ingestionでIngestion jobを実行しました。 翌朝コンソールを開いたら、当月のコストが$2,777,528.09になっていました。1ドル155円で換算すると約4.3億円です。 実はAWSさんの課金バグで1,000万円以上の請求をされるのは今年3回目です（2月に約1,400万円、7月に約34.9兆円、10月に約4.3億円(今回)の請求をされています） この記事は高額請求をされてビビった方に対して、まず... — Zenn トレンド / score: 90 (AWSで発生した高額課金バグと初動対応の体験談)</description>
 </item>
 <item>
 <title>[90] 【重要】不正アクセスによる情報流出に関するお詫びとお知らせ（第一報）</title>
@@ -127,6 +127,14 @@
 <description>米Microsoftは10月30日（現地時間、以下同）、この2週間ほどで相次いで明らかになった3つのセキュリティ問題について、公式ブログ「MSRC」で対応を呼びかけた。いずれもMicrosoft製品に由来する脆弱性ではないが、Microsoftのサービスやユーザーの「Azure」環境で動くソフトウェアにも組み込まれていることが多いため、Microsoftとユーザーの双方で対応が必要だとしている。 — 窓の杜 / score: 88 (Microsoftが注意を呼びかける重要脆弱性と対応要請)</description>
 </item>
 <item>
+<title>[85] 感染したシステムをリモート制御可能なプロキシノードに変えるマルウェア「ClingSTUN」</title>
+<link>https://ascii.jp/elem/000/004/449/4449120/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/449/4449120/?rss</guid>
+<pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>FortiGuard Labsでは、「ClingSTUN」と名付けたLinuxマルウェアの亜種を追跡しています。本マルウェアは、インターネットに接続されたデバイスに存在する既知の修正されていない脆弱性を悪用して、永続的な足場を築きます。 — ASCII.jp / score: 85 (Linuxを狙う脆弱性を悪用するマルウェア情報)</description>
+</item>
+<item>
 <title>[85] Claude Codeの「今後確認しない」が秘密情報をGitHubに漏らす — 1,122件の公開ファイルに1,379件の秘密情報 - Dev &amp; Gadget Note</title>
 <link>https://dev.ponkotsu.dev/entry/claude-code-settings-local-secrets</link>
 <guid isPermaLink="true">https://dev.ponkotsu.dev/entry/claude-code-settings-local-secrets</guid>
@@ -159,20 +167,20 @@
 <description>漏えいした可能性があるのは、サービス管理者の氏名、企業名、メールアドレス、組織所在地、従業員数、業種、利用ユーザー数のほか、利用者のIDとパスワード。パスワードは、元の文字列を別の値に変換する「ハッシュ化」が施されていたという。 JNSAは11月4日に不正アクセスを確認した。調査によると、10月30日夜ごろか... — はてなブックマーク テクノロジー / score: 85 (セキュリティ機関における大規模な情報漏えい事案)</description>
 </item>
 <item>
+<title>[85] サイバー攻撃に強い「基幹インフラ」病院、28年までに30施設　厚労省 - 日本経済新聞</title>
+<link>https://www.nikkei.com/article/DGXZQOUA066DV0W6A101C2000000/</link>
+<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUA066DV0W6A101C2000000/</guid>
+<pubDate>Fri, 06 Nov 2026 22:24:31 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>厚生労働省は2028年までに高度医療を提供する国内の約30病院を指定し、サイバー攻撃に強い体制を整備する。救命や災害に対応した大学病院などを念頭に置く。経済安全保障推進法にもとづく基幹インフラ制度の一つと位置づける。27年中にまず関東や近畿、中部など8つの地域ごとに少なくとも1施設を指定する。28年末までに... — はてなブックマーク テクノロジー / score: 85 (病院の基幹インフラに対するサイバー攻撃対策強化)</description>
+</item>
+<item>
 <title>[85] なぜかWindowsの「ペイント」にリモートコード実行の脆弱性</title>
 <link>https://gigazine.net/news/20261106-ms-paint-remote-code-execution-vulnerability/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261106-ms-paint-remote-code-execution-vulnerability/</guid>
 <pubDate>Fri, 06 Nov 2026 10:00:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>Windowsに標準搭載されているお絵描きソフト「ペイント」に、リモートコードを実行してしまう脆弱(ぜいじゃく)性が存在することが明らかになりました。 続きを読む... — GIGAZINE / score: 85 (Windowsペイントのリモートコード実行脆弱性)</description>
-</item>
-<item>
-<title>[85] オープンソース監視ツールのLTS版「Zabbix 8.0 LTS」、OpenTelemetryにネイティブ対応しオブザーバビリティを強化</title>
-<link>https://cloud.watch.impress.co.jp/docs/news/2154360.html</link>
-<guid isPermaLink="true">https://cloud.watch.impress.co.jp/docs/news/2154360.html</guid>
-<pubDate>Fri, 06 Nov 2026 08:53:07 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>オープンソース監視ツールのLTS版「Zabbix 8.0 LTS」、OpenTelemetryにネイティブ対応しオブザーバビリティを強化 — はてなブックマーク テクノロジー / score: 85 (Zabbix 8.0 LTSのリリースと新機能)</description>
 </item>
 <item>
 <title>[85] 「Discord」がクライアント全体を「Rust」で書き直し、「Electron」から脱却へ／「Zed」のUIフレームワーク「GPUI」を採用、モバイル版とコードを共有</title>
@@ -495,14 +503,6 @@
 <description>Xのエンジニアリングチームは2026年11月4日、約10年間運用されてきた3種類のWebサーバーを統合し、新しい単一のWebアプリケーション基盤をゼロから構築したことを発表した。 — gihyo.jp / score: 75 (XのWeb基盤リプレイス事例と大規模構成)</description>
 </item>
 <item>
-<title>[75] ChatGPTが夫の毒殺計画を手助け、毒物の選定から毒を上手く隠すための方法の提案まで</title>
-<link>https://gigazine.net/news/20261106-wife-chatgpt-plan-murder/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261106-wife-chatgpt-plan-murder/</guid>
-<pubDate>Fri, 06 Nov 2026 05:24:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>ChatGPTが毒殺を実行するための計画立案を手助けしたことが訴訟により明らかになりました。訴訟では、ChatGPTは殺人未遂の共謀犯とされています。 続きを読む... — GIGAZINE / score: 75 (AI倫理や安全性に関わる重大な訴訟沙汰のニュース)</description>
-</item>
-<item>
 <title>[75] AWS Security Hub now provides an SBOM inventory for your compute resources</title>
 <link>https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-sbom-inventory/</link>
 <guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-sbom-inventory/</guid>
@@ -687,6 +687,14 @@
 <description> — Google DeepMind / score: 75 (Google DeepMindの次世代基盤モデル発表)</description>
 </item>
 <item>
+<title>[75] GitHub - google/elephant-goldfish-model: Open-source skills for designing and reviewing software with AI agents</title>
+<link>https://github.com/google/elephant-goldfish-model</link>
+<guid isPermaLink="true">https://github.com/google/elephant-goldfish-model</guid>
+<pubDate>Wed, 28 Oct 2026 01:38:06 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Design with an elephant. Review with a goldfish. Install · Quickstart · Documentation · Website Thousands of Google engineers use EGM, an open-source plugin, to draft specs with deep-context agents and stress-test them with zero-context subagents before writing code. Elephant holds your projec... — はてなブックマーク テクノロジー / score: 75 (GoogleのAIエージェント設計レビュー用OSS)</description>
+</item>
+<item>
 <title>[75] Oracle CloudがGoogle TPU導入を発表、2027年に提供を開始。Oracle AI World 2026</title>
 <link>https://www.publickey1.jp/blog/26/oracle_cloudgoogle_tpu2027oracle_ai_world_2026.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/oracle_cloudgoogle_tpu2027oracle_ai_world_2026.html</guid>
@@ -743,6 +751,14 @@
 <description>中国Moonshot AIは2026年10月23日、マルチモーダルMoEモデルの最新バージョン「Kimi K3.1 Pro」および高レスポンスモデル「Kimi K3.1 Pro Highspeed」を発表した。 — gihyo.jp / score: 75 (Moonshot AIによる高性能オープンウェイトMoEモデル発表)</description>
 </item>
 <item>
+<title>[70] Microsoft Foundry、Copilot harnessをパブリックプレビューで提供</title>
+<link>https://codezine.jp/article/detail/30285</link>
+<guid isPermaLink="true">https://codezine.jp/article/detail/30285</guid>
+<pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+<category>CodeZine</category>
+<description> — CodeZine / score: 70 (Microsoft FoundryとCopilot harnessのプレビュー)</description>
+</item>
+<item>
 <title>[70] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco</title>
 <link>https://latent.space/p/cs146s/</link>
 <guid isPermaLink="true">https://latent.space/p/cs146s/</guid>
@@ -757,6 +773,14 @@
 <pubDate>Sun, 08 Nov 2026 21:23:29 +0000</pubDate>
 <category>Latent Space</category>
 <description>What do you assign when a coding agent can finish last year’s homework in one prompt? In the second run of Stanford’s CS146S, Mihail Eric brought open-source maintainers into the course. Students have to learn an unfamiliar repo, propose a change, and ... — Latent Space / score: 70 (AI時代におけるソフトウェアエンジニアリング教育)</description>
+</item>
+<item>
+<title>[70] SELECTしかしていないのに、PostgreSQLのマイグレーションがロック待ちで失敗した話</title>
+<link>https://zenn.dev/naokisuzuki27/articles/cb1a5ac0e23763</link>
+<guid isPermaLink="true">https://zenn.dev/naokisuzuki27/articles/cb1a5ac0e23763</guid>
+<pubDate>Sun, 08 Nov 2026 08:41:46 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>前提 DB：Amazon Aurora PostgreSQL 16 TL;DR SELECTしかしていないトランザクションが放置され、リリース時のマイグレーションがロック待ちで失敗した PostgreSQLのロックは「共有」「排他」の2種類ではなく、SELECTが取るACCESS SHAREは REINDEX などが要求するACCESS EXCLUSIVEを止める トランザクションは最小限に分け、保険としてAuroraの idle_in_transaction_session_timeout を設定した 結論 ロックは「共有」と「排他」の2種類ではない：SELEC... — Zenn トレンド / score: 70 (PostgreSQLのロック待ちによるマイグレーション失敗事例)</description>
 </item>
 <item>
 <title>[70] November 08, 2026</title>
@@ -781,30 +805,6 @@
 <pubDate>Fri, 06 Nov 2026 22:47:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Today, Kimi K3.1 Pro from Moonshot AI is available on Amazon Bedrock, expanding our open weight model portfolio with the security and governance that customers rely on. Customers using Amazon Bedrock can now run agentic use cases such as coding and document processing on Kimi K3.1 Pro (Highspeed), which delivers high output tokens per second (OTPS) for faster, more responsive results. According to Moonshot AI, Kimi K3.1 Pro is an open-weight, natively multimodal agentic model with a 1-million-to — AWS What's New / score: 70 (Amazon Bedrockでの新モデル追加)</description>
-</item>
-<item>
-<title>[70] OpenAI元CTOのAI企業が高性能AIモデル「Inkling 2 Small」を発表、近日中にオープンモデルとして公開される予定</title>
-<link>https://gigazine.net/news/20261106-inkling-2-small/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261106-inkling-2-small/</guid>
-<pubDate>Fri, 06 Nov 2026 07:16:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>OpenAIの元CTOであるミラ・ムラティ氏が設立したアメリカに拠点を置くAI研究企業「Thinking Machines Lab」が、AIモデル「Inkling 2 Small」を現地時間の2026年11月5日に発表しました。近日中にオープンモデルとして公開される予定です。 続きを読む... — GIGAZINE / score: 70 (元OpenAI CTOによる新しいオープンAIモデル発表)</description>
-</item>
-<item>
-<title>[70] 脆弱性の悪用は公開の前へ、Red Hatが説く「ゼロCVE」からリスクベース管理への転換</title>
-<link>https://codezine.jp/article/detail/30266</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/30266</guid>
-<pubDate>Fri, 06 Nov 2026 04:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 70 (ゼロCVEからリスクベース管理への脆弱性対策の転換)</description>
-</item>
-<item>
-<title>[70] Google、動画生成・編集AI「Gemini Omni 1.2 Flash」を一般提供 ～最大15秒の動画に対応／720pの価格は3割引き。対話形式の編集や参照素材への忠実度も向上</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2154215.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2154215.html</guid>
-<pubDate>Fri, 06 Nov 2026 02:01:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Googleは11月5日（現地時間）、動画生成・編集モデル「Gemini Omni 1.2 Flash」を発表した。開発者向けの「Gemini API」や企業向けの「Google Cloud」で一般提供（GA）が開始されたほか、「Gemini」アプリや動画制作ツール「Google Flow」「Google Vids」でも利用できる。 — 窓の杜 / score: 70 (Googleの動画生成AIモデルの一般提供開始)</description>
 </item>
 </channel>
 </rss>
