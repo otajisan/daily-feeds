@@ -4,8 +4,32 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 09 Nov 2026 18:08:41 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 20:06:15 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>ChatGPT Enterprise now available in AWS Marketplace</title>
+<link>https://openai.com/index/chatgpt-enterprise-aws-marketplace</link>
+<guid isPermaLink="true">https://openai.com/index/chatgpt-enterprise-aws-marketplace</guid>
+<pubDate>Mon, 09 Nov 2026 19:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships. — OpenAI News / score: 75 (AWS MarketplaceでのChatGPT Enterprise提供開始)</description>
+</item>
+<item>
+<title>Amazon Bedrock now offers Claude Mythos 5.2 to Eligible Customers in AWS GovCloud (US)</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/bedrock-claude-mythos-5-2-govcloud/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/bedrock-claude-mythos-5-2-govcloud/</guid>
+<pubDate>Mon, 09 Nov 2026 18:30:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon Bedrock, the platform for building generative AI applications and agents at production scale, now offers Claude Mythos 5.2 to eligible customers in AWS GovCloud (US). Claude Mythos 5.2 is Anthropic's most advanced AI model to date for use cases across cybersecurity, software coding, and complex reasoning tasks. The model can identify sophisticated security vulnerabilities in software and demonstrate exploitability. It can also comprehend large codebases and deliver actionable findings wit — AWS What's New / score: 70 (GovCloudでのClaude Mythos 5.2提供開始)</description>
+</item>
+<item>
+<title>Claude Fable 5.2 is now available on AWS GovCloud (US)</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/claude-fable-5-2-aws-govcloud/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/claude-fable-5-2-aws-govcloud/</guid>
+<pubDate>Mon, 09 Nov 2026 18:30:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Claude Fable 5.2 is now available on AWS GovCloud (US) and brings Anthropic's most capable generally available model for technical work to regulated customers. Fable 5.2 sets a new standard on the hardest projects in coding, math, and science, and Anthropic recommends it for fields like software engineering, scientific research, and finance, where judgment, iteration, and accuracy are critical. Claude Mythos 5.2, the same underlying model as Claude Fable 5.2, with its full cyber and bio capabili — AWS What's New / score: 70 (GovCloudでのClaude Fable 5.2提供開始)</description>
+</item>
 <item>
 <title>AWS Weekly Roundup: AgentCore Runtime V2, Amazon DynamoDB bulk put items, and more (November 9, 2026)</title>
 <link>https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentcore-runtime-v2-amazon-dynamodb-bulk-put-items-and-more-november-9-2026/</link>
@@ -37,6 +61,14 @@
 <pubDate>Mon, 09 Nov 2026 16:01:17 +0000</pubDate>
 <category>気になる、記になる…</category>
 <description>Appleが先月に発売した「HomePod mini 2」にはMacのデフォルト（標準）のスピーカーとして利用できる機能が搭載されていますが、MacRumorsによると、一部のユーザーからこの機能が期待通りに機能しないと […] — 気になる、記になる… / score: 30 (Apple製ハードウェアの不具合情報)</description>
+</item>
+<item>
+<title>Amazon Athena introduces system tables for observability, auditing, and usage analytics</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/athena-system-tables/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/athena-system-tables/</guid>
+<pubDate>Mon, 09 Nov 2026 16:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon Athena now offers system tables which automatically capture your usage data and make it available for observability, usage analysis, and audit use cases. When you enable system tables, usage data is available within minutes of query completion across your workgroups and stored as service-managed, read-only Iceberg tables on Amazon S3 Tables with configurable retention. You can query it directly with Athena, while AWS manages the tables for you, including schema definition, partitioning, c — AWS What's New / score: 65 (Amazon Athenaへのシステムテーブル導入)</description>
 </item>
 <item>
 <title>Cloud CISO Perspectives: Our security forecast for 2027</title>
@@ -199,20 +231,20 @@
 <description>Running large-scale AI workloads on TPU and Google Kubernetes Engine (GKE) requires infrastructure that adapts as fast as your models change. Dynamic Slicing is generally available on GKE, which decouples logical TPU slice formation from physical nodepool provisioning. Compared to creating a static nodepool for each TPU slice, dynamic slicing reduces AI workload startup times by up to 5x and workload recovery by 4.5x — maximizing TPU goodput, efficiency, and workload resilience at scale. Beyond  — Google Cloud Blog / score: 75 (GKEのTPU向け動的スライシング機能のGA)</description>
 </item>
 <item>
-<title>Cloud Pathways, a distributed ML runtime for massive accelerator fleets, now GA</title>
-<link>https://cloud.google.com/blog/topics/ai-infrastructure/cloud-pathways-a-distributed-ml-runtime-is-ga/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/topics/ai-infrastructure/cloud-pathways-a-distributed-ml-runtime-is-ga/</guid>
-<pubDate>Mon, 09 Nov 2026 13:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>Today, we are thrilled to announce the general availability (GA) of Cloud Pathways ( Pathways on Cloud ) on Google Kubernetes Engine (GKE) as a core runtime pillar of the Google Cloud AI Hypercomputer . Originally engineered by Google DeepMind to train and serve Google's frontier models — including Gemini — Pathways is our distributed machine-learning runtime designed for massive, heterogeneous accelerator fleets. In fact, over the last 90 days alone, leading AI companies and global enterprises  — Google Cloud Blog / score: 75 (分散型MLランタイムCloud PathwaysのGA)</description>
-</item>
-<item>
 <title>Our newest TPUs: 8tx and 8i Max, built for the agentic era</title>
 <link>https://cloud.google.com/blog/topics/ai-infrastructure/tpu-8tx-and-tpu-8i-max/</link>
 <guid isPermaLink="true">https://cloud.google.com/blog/topics/ai-infrastructure/tpu-8tx-and-tpu-8i-max/</guid>
 <pubDate>Mon, 09 Nov 2026 13:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>Editor’s note: This blog was originally published on News from Google . We first designed TPUs more than a decade ago motivated by Google’s internal demands, including voice recognition and language translation. Eight generations of TPUs later, the use cases have exploded, covering: i) training and serving our own Gemini models, ii) agentic workloads, iii) delivering services to Google Cloud customers on our cloud infrastructure, and most recently, iv) allowing customers to deploy TPUs directly  — Google Cloud Blog / score: 80 (エージェント時代に向けた新しいGoogle TPU)</description>
+</item>
+<item>
+<title>Cloud Pathways, a distributed ML runtime for massive accelerator fleets, now GA</title>
+<link>https://cloud.google.com/blog/topics/ai-infrastructure/cloud-pathways-a-distributed-ml-runtime-is-ga/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/ai-infrastructure/cloud-pathways-a-distributed-ml-runtime-is-ga/</guid>
+<pubDate>Mon, 09 Nov 2026 13:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Today, we are thrilled to announce the general availability (GA) of Cloud Pathways ( Pathways on Cloud ) on Google Kubernetes Engine (GKE) as a core runtime pillar of the Google Cloud AI Hypercomputer . Originally engineered by Google DeepMind to train and serve Google's frontier models — including Gemini — Pathways is our distributed machine-learning runtime designed for massive, heterogeneous accelerator fleets. In fact, over the last 90 days alone, leading AI companies and global enterprises  — Google Cloud Blog / score: 75 (分散型MLランタイムCloud PathwaysのGA)</description>
 </item>
 <item>
 <title>1万6180円のゲーミング液晶が260Hz/0.8msのヌルヌル性能で言うことなし！【スマイルセール】</title>
@@ -575,12 +607,12 @@
 <description>セブン‐イレブンは「なめらかチーズプリン＆カラメルムース」と「ぽよもっち チーズクリーム」を順次発売します。 — ASCII.jp / score: 10 (コンビニスイーツの新商品情報)</description>
 </item>
 <item>
-<title>ニトリ、不正アクセスにより個人・法人会員の情報最大3762件が流出の可能性</title>
+<title>ニトリ、不正アクセスにより個人・法人会員の情報最大3762万件が流出の可能性</title>
 <link>https://internet.watch.impress.co.jp/docs/news/2154931.html</link>
 <guid isPermaLink="true">https://internet.watch.impress.co.jp/docs/news/2154931.html</guid>
 <pubDate>Mon, 09 Nov 2026 09:26:15 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>ニトリ、不正アクセスにより個人・法人会員の情報最大3762件が流出の可能性 — はてなブックマーク テクノロジー / score: 85 (企業の不正アクセスによる個人情報流出インシデント)</description>
+<description>ニトリ、不正アクセスにより個人・法人会員の情報最大3762万件が流出の可能性 — はてなブックマーク テクノロジー / score: 85 (企業の不正アクセスによる個人情報流出インシデント)</description>
 </item>
 <item>
 <title>iOS28やmacOS 28の開発工程を変更〜日本語対応や安定性への影響は？</title>
@@ -716,7 +748,7 @@
 <guid isPermaLink="true">https://news.yahoo.co.jp/articles/ec14e72be9639e846f42978f9e81da07fdd05687</guid>
 <pubDate>Mon, 09 Nov 2026 08:57:55 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>家具大手の「ニトリホールディングス」は、不正アクセスを受け、最大でおよそ3762万件の会員情報が流出した可能性があると発表しました。 ニトリホールディングスによりますと、今月6日に、自社で管理するシステムへの第三者による不正アクセスを確認したということです。 これまでの調査で、自社サーバー上に保有する個... — はてなブックマーク テクノロジー / score: 90 (最大3700万件超の巨大な情報流出事案)</description>
+<description>TBS NEWS DIG Powered by JNN家具大手の「ニトリホールディングス」は、不正アクセスを受け、最大でおよそ3762万件の会員情報が流出した可能性があると発表しました。 【サイバー攻撃でアイスがドロドロに】生活に身近なスーパーにも被害が＜写真で見る＞ ニトリホールディングスによりますと、今月6日に、自社で管理す... — はてなブックマーク テクノロジー / score: 90 (最大3700万件超の巨大な情報流出事案)</description>
 </item>
 <item>
 <title>VTuberやタレントのライブ配信をAIが監視──不適切発言などを事務所に通知するサービス登場</title>
@@ -751,6 +783,14 @@
 <description>ロジクールが、人気ワイヤレスマウス「MX Master 4」の数量限定モデル「MX MASTER 4 Creator Edition」と「MX MASTER 4 Developer Edition」を国内でも正式に発表し […] — 気になる、記になる… / score: 45 (開発者向けモデルを含むデバイス発表)</description>
 </item>
 <item>
+<title>楽天モバイル「Rakuten最強衛星サービス」年内開始へ、ユーザー限定せず当面無料 - ケータイ Watch</title>
+<link>https://k-tai.watch.impress.co.jp/docs/news/2154875.html</link>
+<guid isPermaLink="true">https://k-tai.watch.impress.co.jp/docs/news/2154875.html</guid>
+<pubDate>Mon, 09 Nov 2026 08:25:36 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>楽天モバイル「Rakuten最強衛星サービス」年内開始へ、ユーザー限定せず当面無料 - ケータイ Watch — はてなブックマーク テクノロジー / score: 70 (楽天モバイルの衛星通信サービス開始予定)</description>
+</item>
+<item>
 <title>サイバー攻撃による漏えい情報、2026年は10月末までに約3.8億件【ＭＭ総研調査】</title>
 <link>https://codezine.jp/article/detail/30299</link>
 <guid isPermaLink="true">https://codezine.jp/article/detail/30299</guid>
@@ -765,46 +805,6 @@
 <pubDate>Mon, 09 Nov 2026 08:10:58 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>人工知能（AI）開発のSakana AI（サカナAI、東京・港）は新規株式公開（IPO）の準備に入った。日米市場を念頭に、早ければ2027年秋に上場させる。計画通り進めば、生成AI専業として国内初となる。初値の時価総額はメルカリの約6800億円を上回り、国内スタートアップで過去最大級の案件となる可能性がある。IPOの助言役と... — はてなブックマーク テクノロジー / score: 75 (国内生成AIスタートアップ初の上場準備)</description>
-</item>
-<item>
-<title>セガ委託先 メアド219万件超流出</title>
-<link>https://news.yahoo.co.jp/pickup/6601928?source=rss</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6601928?source=rss</guid>
-<pubDate>Mon, 09 Nov 2026 08:10:01 +0000</pubDate>
-<category>Yahoo!ニュース IT</category>
-<description> — Yahoo!ニュース IT / score: 90 (大規模な個人情報の流出インシデント)</description>
-</item>
-<item>
-<title>Google検索の「AI モード」で条件に合うレストランの検索から予約までを一気に行えるように／人数や日時、場所、料理のジャンルなどから予約可能な店の予約ページを提示</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2154879.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2154879.html</guid>
-<pubDate>Mon, 09 Nov 2026 08:07:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>Googleは11月6日、Google検索の「AI モード」にユーザーの目的達成をより簡単に実現するための新機能［レストランの予約検索］機能の提供を開始した。同日より数週間かけて順次利用可能となる。 — 窓の杜 / score: 55 (検索エンジンのAI機能アップデート)</description>
-</item>
-<item>
-<title>Introducing AWS Nitro Sandboxes on Amazon EKS, ECS and EC2 for hardware isolated pods, tasks and VMs</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/11/nitro-sandboxes-eks-ecs-ec2/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/nitro-sandboxes-eks-ecs-ec2/</guid>
-<pubDate>Mon, 09 Nov 2026 08:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>AWS Nitro Sandboxes are now available as lightweight VMs managed by the Nitro Hypervisor. You can use Nitro Sandboxes for an Amazon EKS pod, or Amazon ECS task, or lightweight Virtual Machines (VMs), including AI agents running inside them, in their own hardware-isolated virtual machine powered by the AWS Nitro System . Each workload gets the isolation boundary of a Nitro isolated virtual machine. This allows you to safely run untrusted, multi-tenant, or regulated workloads within the resources  — AWS What's New / score: 80 (AWSのハードウェア隔離サンドボックスの新機能)</description>
-</item>
-<item>
-<title>November 09, 2026</title>
-<link>https://docs.cloud.google.com/release-notes#November_09_2026</link>
-<guid isPermaLink="true">https://docs.cloud.google.com/release-notes#November_09_2026</guid>
-<pubDate>Mon, 09 Nov 2026 08:00:00 +0000</pubDate>
-<category>Google Cloud リリースノート</category>
-<description>AI Hypercomputer Feature Generally available : Pathways on Cloud is now generally available on Google Kubernetes Engine (GKE). Major features include the following: Single-controller execution model : Coordinate multi-slice and multi-host Cloud TPU workloads from a single Python client process. Pathways uses asynchronous dispatch and centralized scheduling to support both Single Program, Multiple Data (SPMD) and Multiple Program, Multiple Data (MPMD) workloads. For example, training and reinforc — Google Cloud リリースノート / score: 70 (Google CloudのCloud SQL関連のアップデート)</description>
-</item>
-<item>
-<title>アプリから“火をつけられる”スマホが発売</title>
-<link>https://www.gizmodo.jp/article/oukitel-wp63/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/oukitel-wp63/</guid>
-<pubDate>Mon, 09 Nov 2026 08:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>電熱式ライターや20000mAhバッテリーを内蔵したタフネススマホOUKITEL WP63の特徴や機能を解説します — ギズモード・ジャパン / score: 35 (電熱ライター内蔵タフネススマホの紹介記事)</description>
 </item>
 </channel>
 </rss>
