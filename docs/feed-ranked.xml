@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 09 Nov 2026 04:08:28 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 06:13:34 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] OpenAI、Linuxカーネルを最新セキュリティAIモデルで調査、ローカル権限昇格の脆弱性948件を実証 ―エクスプロイト、パッチまで生成</title>
@@ -13,6 +13,14 @@
 <pubDate>Thu, 05 Nov 2026 06:53:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>OpenAIは2026年11月4日、開発中のサイバーセキュリティ向けAIモデルを活用し、Linuxカーネルの脆弱性をエージェントが自律的に発見し検証した結果を発表した。 — gihyo.jp / score: 95 (AIによるLinuxカーネルの脆弱性大量発見と実証の画期的なニュース)</description>
+</item>
+<item>
+<title>[90] Microsoft、更新プログラムの“すぐに適用”を呼び掛け ～AIで「パッチギャップ」のリスクが増大／修正の公開から攻撃まで“数時間以内”の時代、組織にマインド転換を</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2154654.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2154654.html</guid>
+<pubDate>Mon, 09 Nov 2026 04:05:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Microsoftは11月5日（現地時間）、AI時代の脆弱性管理に関する取り組みを、公式ブログ「Windows Experience Blog」で明らかにした。AIの進歩で脆弱性の発見・分析がこれまでより速く、大規模に行えるようになったことを受け、同社自身の体制を強化するとともに、組織に対しても更新プログラムを迅速に展開するよう求めている。 — 窓の杜 / score: 90 (AI時代における脆弱性管理と迅速なパッチ適用の重要性)</description>
 </item>
 <item>
 <title>[90] ドコモ不正アクセスで「本人確認書類の番号」も流出　見舞金検討</title>
@@ -26,9 +34,9 @@
 <title>[90] 「Apache HTTP Server 2.4.70」が公開 ～メモリ破損やWindowsでのクラッシュを修正／これまでのすべてのバージョンで更新を推奨</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2154632.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2154632.html</guid>
-<pubDate>Sun, 08 Nov 2026 22:55:13 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>「Apache HTTP Server 2.4.70」が公開 ～メモリ破損やWindowsでのクラッシュを修正／これまでのすべてのバージョンで更新を推奨 — はてなブックマーク テクノロジー / score: 90 (Apache HTTP Serverの脆弱性修正リリース)</description>
+<pubDate>Sun, 08 Nov 2026 21:45:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>The Apache Software Foundation（ASF）は11月6日（協定世界時）、「Apache HTTP Server 2.4.70」を公開した。以下の5つの問題に対処したアップデートとなっている。 — 窓の杜 / score: 90 (Apache HTTP Serverの脆弱性修正リリース)</description>
 </item>
 <item>
 <title>[90] AWSから4.3億円の課金が...バグと思われる高額請求された際にまずすること</title>
@@ -119,6 +127,38 @@
 <description>Next.js is preparing a scheduled November security release for November 3, 2026. — Next.js Blog / score: 90 (Next.jsの重要なセキュリティリリース予告)</description>
 </item>
 <item>
+<title>[85] エディオン通販サイトに不正アクセス、情報漏えいのおそれ</title>
+<link>https://ascii.jp/elem/000/004/449/4449766/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/449/4449766/?rss</guid>
+<pubDate>Mon, 09 Nov 2026 05:35:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>エディオンは11月6日、公式通販サイトのサーバーに不正アクセスがあり、顧客情報や注文情報が漏えいした可能性があると発表した。 — ASCII.jp / score: 85 (通販サイトの不正アクセス・情報漏えい事案)</description>
+</item>
+<item>
+<title>[85] 早稲田大、PHP脆弱性への対応中に不正アクセス発見　個人情報約3400件流出確認</title>
+<link>https://www.itmedia.co.jp/news/article/2611/09/2000003012/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/09/2000003012/</guid>
+<pubDate>Mon, 09 Nov 2026 04:28:17 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>早稲田大学は11月9日、不正アクセスを受けて教職員や学生などの情報約3400件が第三者に取得されたと発表した。PHPの脆弱性への対応をきっかけに学内システムの状況を確認する中で、8月31日に不正アクセスを受けた痕跡を見つけたという。 不正アクセスの痕跡を確認後、調査範囲を広げた結果、メールサービスなどを提供す... — はてなブックマーク テクノロジー / score: 85 (PHP脆弱性対応を契機に発覚した情報漏えいインシデント)</description>
+</item>
+<item>
+<title>[85] 不正アクセスによる個人情報漏えいについて</title>
+<link>https://www.waseda.jp/top/news/topic/124183</link>
+<guid isPermaLink="true">https://www.waseda.jp/top/news/topic/124183</guid>
+<pubDate>Mon, 09 Nov 2026 04:09:40 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>2026年11月9日 早稲田大学 このたび、本学の個人情報を管理するシステムに、第三者の不正アクセスによる侵入があったことが確認されました。 調査の結果、当該システムで管理するユーザー情報のうち、約3,400件が第三者に取得されたことが判明しました。 本件は、PHPの脆弱性への対応を契機として本学システムの状況を確... — はてなブックマーク テクノロジー / score: 85 (PHP脆弱性対応中に発覚した大学システムの不正アクセス)</description>
+</item>
+<item>
+<title>[85] ネット印刷「ラクスル」に不正アクセス　入稿データ一部漏えいか　名刺やはがき記載の個人情報も</title>
+<link>https://www.itmedia.co.jp/news/article/2611/09/2000003004/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/09/2000003004/</guid>
+<pubDate>Mon, 09 Nov 2026 02:51:57 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>ラクスル（東京都港区）は11月9日、印刷通販サービス「ラクスル」のデータ入稿に関わるシステムに第三者による不正アクセスがあったと発表した。保管していた顧客の印刷データなどに含まれる個人情報が流出した恐れがある。対象の件数や期間は調査中としている。 顧客が入稿した印刷データや請求書、Web郵便といったデー... — はてなブックマーク テクノロジー / score: 85 (ネット印刷サービスの不正アクセスと個人情報漏えい)</description>
+</item>
+<item>
 <title>[85] NVIDIAのジェンスン・フアンCEOが中国の女スパイとの不倫を認める＆取締役会も調査を開始</title>
 <link>https://gigazine.net/news/20261109-nvidia-spy/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261109-nvidia-spy/</guid>
@@ -143,36 +183,12 @@
 <description>2026年11月5日、ドコモは、ドコモオンラインショップとMy docomoへの不正アクセスで顧客情報が流出したことを確認したと公表しました。ここでは関連する情報をまとめます。 経路遮断と一時再開の後に再停止 ドコモオンラインショップとMy docomoでは、2026年11月4日10時30分頃にアラートを検知して対応を始め、攻撃経路... — はてなブックマーク テクノロジー / score: 85 (ドコモの不正アクセス事案の詳細なまとめ)</description>
 </item>
 <item>
-<title>[85] Statement from NVIDIA Board of Directors</title>
-<link>https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors</link>
-<guid isPermaLink="true">https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors</guid>
-<pubDate>Sun, 08 Nov 2026 22:39:58 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>The NVIDIA Board is initiating an independent investigation in light of recent reporting that founder and CEO Jensen Huang has been the target of a foreign intelligence effort. A committee of independent directors, assisted by outside independent counsel, will oversee the investigation. The Board... — はてなブックマーク テクノロジー / score: 85 (NVIDIA CEOに関する重大な調査報道)</description>
-</item>
-<item>
-<title>[85] Claude Codeの「今後確認しない」が秘密情報をGitHubに漏らす — 1,122件の公開ファイルに1,379件の秘密情報 - Dev &amp; Gadget Note</title>
-<link>https://dev.ponkotsu.dev/entry/claude-code-settings-local-secrets</link>
-<guid isPermaLink="true">https://dev.ponkotsu.dev/entry/claude-code-settings-local-secrets</guid>
-<pubDate>Sun, 08 Nov 2026 10:31:52 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Claude Codeで「Yes, and don't ask again（今後確認しない）」を選ぶと、承認したコマンドがそのままプロジェクト内の.claude/settings.local.jsonに保存されます。コマンドにパスワードやAPIキーが含まれていると、平文のまま残ります。セキュリティ企業Apiiroの調査（11月7日公表）では、公開GitHubリポジトリにある... — はてなブックマーク テクノロジー / score: 85 (AIツールの重大なセキュリティ設定漏れ問題)</description>
-</item>
-<item>
 <title>[85] 脆弱性の情報は間に合っている？ 英語は 2 時間以内、悪用は 4 割が 1 日以内、日本語は中央値 4.6 日後。悪用された 74 件を調べて分かった</title>
 <link>https://qiita.com/songchong/items/b3c6c879f03f9bb665d3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
 <guid isPermaLink="true">https://qiita.com/songchong/items/b3c6c879f03f9bb665d3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
 <pubDate>Sun, 08 Nov 2026 09:00:22 +0000</pubDate>
 <category>Qiita 人気記事</category>
 <description>AI を使ったサイバー攻撃で、脆弱性が公表されてから悪用されるまでの時間は、週から日の単位に縮みました。日本政府も、2026 年 5 月の Project YATA-Shield で、AI の悪用で攻撃のスピードと規模が劇的に増加していると書いています。 では、悪用される... — Qiita 人気記事 / score: 85 (脆弱性公開から悪用までのスピードに関する重要警鐘)</description>
-</item>
-<item>
-<title>[85] 日本ネットワークセキュリティ協会に不正アクセス　最大1.5万件の個人情報漏えいの恐れ</title>
-<link>https://japan.cnet.com/article/35254549/</link>
-<guid isPermaLink="true">https://japan.cnet.com/article/35254549/</guid>
-<pubDate>Sat, 07 Nov 2026 23:01:33 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>漏えいした可能性があるのは、サービス管理者の氏名、企業名、メールアドレス、組織所在地、従業員数、業種、利用ユーザー数のほか、利用者のIDとパスワード。パスワードは、元の文字列を別の値に変換する「ハッシュ化」が施されていたという。 JNSAは11月4日に不正アクセスを確認した。調査によると、10月30日夜ごろか... — はてなブックマーク テクノロジー / score: 85 (セキュリティ機関における大規模な情報漏えい事案)</description>
 </item>
 <item>
 <title>[85] 「Discord」がクライアント全体を「Rust」で書き直し、「Electron」から脱却へ／「Zed」のUIフレームワーク「GPUI」を採用、モバイル版とコードを共有</title>
@@ -255,14 +271,6 @@
 <description>GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、新機能「GitHub Copilot Fusion」の正式リリースを発表しました。 Copilot Fusi... — Publickey / score: 85 (GitHub Copilotの新機能正式リリースで影響が大きい)</description>
 </item>
 <item>
-<title>[85] 「Visual Studio Code」v1.144が公開、複数のAIモデルを賢く使い分ける「GitHub Copilot Fusion」も一般提供／エージェントとの通信仕様「Agent Host Protocol」v1.0も公開</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2153125.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2153125.html</guid>
-<pubDate>Mon, 02 Nov 2026 09:37:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Microsoftは10月28日（米国時間）、「Visual Studio Code」v1.144をリリースした。引き続きAIエージェント関連の機能が強化されている。 — 窓の杜 / score: 85 (VS CodeのメジャーアップデートとAI関連機能の強化)</description>
-</item>
-<item>
 <title>[85] EC2 Amazon Machine Images can now be scanned for vulnerabilities through Amazon Inspector</title>
 <link>https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-amis-scanned-through-inspector/</link>
 <guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-amis-scanned-through-inspector/</guid>
@@ -338,17 +346,9 @@
 <title>[80] アメリカ産のAIでオープンモデル「Ripple-65B Preview」登場、パラメーター数10倍の大型モデルを上回る性能で開発費は10分の1</title>
 <link>https://gigazine.net/news/20261108-ripple-65b-preview/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261108-ripple-65b-preview/</guid>
-<pubDate>Sun, 08 Nov 2026 10:05:25 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>AIを使用してシリコンチップを設計する再帰的自己改善に取り組むアメリカのスタートアップ「Ricursive Intelligence」が、アメリカ産のオープンウェイトモデル「Ripple-65B Preview」をリリースしました。Ripple-65B Previewはエージェント型コーディングのベンチマーク「Terminal-Bench 2.1」で80.52点を記録し、より大... — はてなブックマーク テクノロジー / score: 80 (新興オープンモデル Ripple-65Bの登場)</description>
-</item>
-<item>
-<title>[80] Zabbix 8.0 LTSリリース、OpenTelemetry対応やMCPサーバー提供</title>
-<link>https://codezine.jp/article/detail/30284</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/30284</guid>
-<pubDate>Fri, 06 Nov 2026 07:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 80 (Zabbix 8.0 LTSのリリースと新機能追加)</description>
+<pubDate>Sun, 08 Nov 2026 10:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>AIを使用してシリコンチップを設計する再帰的自己改善に取り組むアメリカのスタートアップ「Ricursive Intelligence」が、アメリカ産のオープンウェイトモデル「Ripple-65B Preview」をリリースしました。Ripple-65B Previewはエージェント型コーディングのベンチマーク「Terminal-Bench 2.1」で80.52点を記録し、より大規模なAIモデルを上回ったと報告されています。 続きを読む... — GIGAZINE / score: 80 (新興オープンモデル Ripple-65Bの登場)</description>
 </item>
 <item>
 <title>[80] 「LibreOffice」にヒープバッファーオーバーフローの脆弱性、v26.2.6/26.8.1で修正済み／Anthropicがエージェントを使ったオープンソースのセキュリティ調査で発見</title>
@@ -365,14 +365,6 @@
 <pubDate>Mon, 02 Nov 2026 15:30:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible. — OpenAI News / score: 80 (OpenAIによる大規模Git基盤のスケーリング技術)</description>
-</item>
-<item>
-<title>[80] CPU温度の監視ツール「Core Temp」に脆弱性、v1.21へのアップデートを／カーネルドライバーの不備で物理メモリを読み書きされるおそれ</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2153061.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2153061.html</guid>
-<pubDate>Mon, 02 Nov 2026 07:10:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>脆弱性ポータルサイト「JVN」は11月2日、脆弱性レポート「JVN#23328936」を公開した。ALCPUが提供するハードウェア情報の取得ツール「Core Temp」v1.21より前のバージョンに脆弱性（CVE-2026-109836）があるという。 — 窓の杜 / score: 80 (Core Tempのカーネルドライバーに関する脆弱性)</description>
 </item>
 <item>
 <title>[80] GitHub、AIモデルを自動選択・連携するCopilot Fusionを一般提供、資料とエージェントの作業をまとめるCopilot Projectsをパブリックプレビューに ——GitHub Universe 2026で自動化・コードレビュー・セキュリティも更新</title>
@@ -399,20 +391,20 @@
 <description>Genie 4: our new world model unlocking unprecedented realism in real-time simulation. — Google DeepMind / score: 80 (Google DeepMindの次世代ワールドシミュレーション発表)</description>
 </item>
 <item>
+<title>[75] Anthropicの非公開AIモデルを使って18年間未解決だった量子コンピューターの難問が証明される</title>
+<link>https://gigazine.net/news/20261109-anthropic-psi-aaronson-ambainis/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261109-anthropic-psi-aaronson-ambainis/</guid>
+<pubDate>Mon, 09 Nov 2026 05:10:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>AI物理学スタートアップのPhysical Superintelligence(PSI)が2026年11月6日、2008年から未解決だった量子コンピューティングの難問「アーロンソン＝アンバイニス予想」の証明に成功したと発表しました。証明にはAnthropicの非公開AIモデルを組み込んだ研究システムが使われており、数学的な証明をコンピューターで検証する「Lean」による確認も完了しているとのことです。 続きを読む... — GIGAZINE / score: 75 (AIモデルを活用した量子コンピューターの難問証明)</description>
+</item>
+<item>
 <title>[75] 半導体は「結晶がきれい」なほどいい。「世界一美しいSiC」をつくる技術</title>
 <link>https://ascii.jp/elem/000/004/438/4438676/?rss</link>
 <guid isPermaLink="true">https://ascii.jp/elem/000/004/438/4438676/?rss</guid>
 <pubDate>Mon, 09 Nov 2026 03:00:00 +0000</pubDate>
 <category>ASCII.jp</category>
 <description>名古屋大学発スタートアップのUJ-Crystalは、次世代パワー半導体に使われるSiCウエハを開発している。同社が掲げるのは「世界一美しい結晶」。なぜ半導体に「美しさ」が必要なのか。結晶欠陥を減らす溶液成長法とは。 — ASCII.jp / score: 75 (次世代パワー半導体SiCの製造技術)</description>
-</item>
-<item>
-<title>[75] 総務省、不正アクセスによる情報漏えいで注意喚起　“基本的な対策”の不足が原因とみられる事例が複数発生</title>
-<link>https://ascii.jp/elem/000/004/449/4449598/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/449/4449598/?rss</guid>
-<pubDate>Mon, 09 Nov 2026 01:50:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>総務省は11月6日、ウェブサイトやスマートフォンアプリを運営する事業者に、不正アクセス対策を徹底するよう注意を呼びかけた。 — ASCII.jp / score: 75 (不正アクセスとセキュリティ対策に関する注意喚起)</description>
 </item>
 <item>
 <title>[75] 超低コストで効率的な学習に成功した画像生成AIモデル「P-JiT」、オープンウェイトで公開中</title>
@@ -703,14 +695,6 @@
 <description>With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster. — OpenAI News / score: 75 (OpenAIを用いたセキュリティ脆弱性調査の事例)</description>
 </item>
 <item>
-<title>[75] GPT-6.1 Terra</title>
-<link>https://simonwillison.net/2026/Oct/26/gpt-61-terra/</link>
-<guid isPermaLink="true">https://simonwillison.net/2026/Oct/26/gpt-61-terra/</guid>
-<pubDate>Mon, 26 Oct 2026 23:53:07 +0000</pubDate>
-<category>Simon Willison</category>
-<description>GPT-6.1 Terra It's always interesting to note which aspects of a new model are emphasized in the release announcement. In the case of GPT-6.1 Terra, OpenAI went with visual reasoning and computer use: We’re introducing GPT-6.1 Terra , a fast, efficient model that combines detailed visual reasoning and precise computer use alongside clearer, more natural writing. A significant step up from GPT‑5.6 Terra, it excels at the communication and computer-based tasks that fill the workday, from drafting  — Simon Willison / score: 75 (GPT-6.1 Terraの機能とビジュアル推論の解説)</description>
-</item>
-<item>
 <title>[75] Greptile takes bug detection beyond code review with GPT-6 Astra</title>
 <link>https://openai.com/index/greptile-code-review-codex-astra</link>
 <guid isPermaLink="true">https://openai.com/index/greptile-code-review-codex-astra</guid>
@@ -719,12 +703,12 @@
 <description>How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework. — OpenAI News / score: 75 (GPT-6 Astraを活用したバグ検出の事例)</description>
 </item>
 <item>
-<title>[75] Moonshot AI、最高性能のオープンウェイトMoEモデル「Kimi K3.1 Pro」を発表 ―2～3倍高速な「Kimi K3.1 Pro Highspeed」も提供開始</title>
-<link>https://gihyo.jp/article/2026/10/kimi-k3-1-pro?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/10/kimi-k3-1-pro?utm_source=feed</guid>
-<pubDate>Mon, 26 Oct 2026 05:19:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>中国Moonshot AIは2026年10月23日、マルチモーダルMoEモデルの最新バージョン「Kimi K3.1 Pro」および高レスポンスモデル「Kimi K3.1 Pro Highspeed」を発表した。 — gihyo.jp / score: 75 (Moonshot AIによる高性能オープンウェイトMoEモデル発表)</description>
+<title>[70] ソフトウェア産業が消滅する日──小さなローカルAIが暴く「プログラムを売る」という商売の終焉</title>
+<link>https://wirelesswire.jp/2026/11/94903/</link>
+<guid isPermaLink="true">https://wirelesswire.jp/2026/11/94903/</guid>
+<pubDate>Mon, 09 Nov 2026 03:53:21 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>清水亮 たった9BのAIが、ソフトウェア産業の終わりを告げるかもしれない さきほど、ちょっとしたプログラムを作った。 名前は「mightyCode」。 GitHubで公開しているので、興味のある人は見てみてほしい。 https://github.com/shi3z/mightyCode やっていることは、実に単純だ。 Apple Siliconを搭載したMacの上で、小さ... — はてなブックマーク テクノロジー / score: 70 (小型ローカルAIがソフトウェア産業に与える影響の考察)</description>
 </item>
 <item>
 <title>[70] 中国製AI「Qwen3.8-27B」の中国政府寄りの回答を減らしたAI「Arete-27B」が登場、プロパガンダを含む回答が22％から0.9％に減少</title>
@@ -783,14 +767,6 @@
 <description>Cloud Asset Inventory Feature The following resource type is publicly available through the SearchAllResources and SearchAllIamPolicies APIs. Gemini for Google Cloud cloudaicompanion.googleapis.com/Topic Google SecOps SOAR Announcement Release 6.3.106 is being rolled out to the first phase of regions as listed here . Feature Case activity tagging You can now use custom tags for individual activities, comments, tasks, and actions on the Case Wall, and filter the wall view by those tags. This allo — Google Cloud リリースノート / score: 70 (Google CloudのCloud SQL関連のアップデート)</description>
 </item>
 <item>
-<title>[70] GitHub、プルリクエストの新しい「Overview」ページをパブリックプレビューとして公開</title>
-<link>https://codezine.jp/article/detail/30277</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/30277</guid>
-<pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 70 (GitHub PRの新Overviewページ公開)</description>
-</item>
-<item>
 <title>[70] Kimi K3.1 Pro (Highspeed) now available on Amazon Bedrock</title>
 <link>https://aws.amazon.com/about-aws/whats-new/2026/11/moonshot-ai-kimi-k3-1-pro-on-amazon-bedrock</link>
 <guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/moonshot-ai-kimi-k3-1-pro-on-amazon-bedrock</guid>
@@ -805,6 +781,30 @@
 <pubDate>Fri, 06 Nov 2026 02:01:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Googleは11月5日（現地時間）、動画生成・編集モデル「Gemini Omni 1.2 Flash」を発表した。開発者向けの「Gemini API」や企業向けの「Google Cloud」で一般提供（GA）が開始されたほか、「Gemini」アプリや動画制作ツール「Google Flow」「Google Vids」でも利用できる。 — 窓の杜 / score: 70 (Googleの動画生成AIモデルの一般提供開始)</description>
+</item>
+<item>
+<title>[70] Announcing Web Answer on Amazon Bedrock AgentCore</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/web-answer-amazon-bedrock/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/web-answer-amazon-bedrock/</guid>
+<pubDate>Thu, 05 Nov 2026 20:56:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Today, we are announcing the general availability of Web Answer on Amazon Bedrock AgentCore. Web Answer is a managed tool that returns a synthesized, grounded, cited answer to a natural-language question in a single call, so agent builders can attach it to an agent and get back a finished answer grounded in current web sources, without building and maintaining their own search, retrieve, synthesis, and citation pipeline. Web Answer builds on Web Search on Amazon Bedrock AgentCore, which launched — AWS What's New / score: 70 (Amazon Bedrockの新機能マネージドWeb検索ツール)</description>
+</item>
+<item>
+<title>[70] IAM Roles Anywhere now supports automatic certificate revocation checking</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/iam-roles-anywhere-cdp/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/iam-roles-anywhere-cdp/</guid>
+<pubDate>Thu, 05 Nov 2026 17:38:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS Identity and Access Management (IAM) Roles Anywhere now supports automatic revocation checking using certificate revocation list (CRL) distribution points (CDPs). This helps keep revocation checks in sync with your certificate authority (CA) and can help improve your security posture. When you enable this capability on a trust anchor, IAM Roles Anywhere reads the CDP URLs embedded in authenticating certificates, downloads the corresponding CRLs, and denies credential requests that use revoke — AWS What's New / score: 70 (AWSのセキュリティ機能の重要なアップデート)</description>
+</item>
+<item>
+<title>[70] Semantic aggregation over millions of rows in BigQuery with AI.AGG</title>
+<link>https://cloud.google.com/blog/products/data-analytics/semantic-data-aggregation-with-bigquery-and-ai-agg/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/data-analytics/semantic-data-aggregation-with-bigquery-and-ai-agg/</guid>
+<pubDate>Thu, 05 Nov 2026 17:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>For more than a decade, BigQuery has helped set standards for structured data aggregation, calculating financial sums, counting active users, and computing historical averages at a petabyte scale in seconds. But as modern enterprises become inundated with unstructured data — application logs, customer service transcripts, product imagery, and diagnostic reports — a critical gap has emerged. Historically, relational SQL engines have lacked the native ability to aggregate, synthesize, and extract  — Google Cloud Blog / score: 70 (BigQueryにおけるAIを活用した集計機能)</description>
 </item>
 </channel>
 </rss>
