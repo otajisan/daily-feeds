@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Tue, 10 Nov 2026 18:06:18 +0000</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 20:06:10 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Google Chrome 157」にゼロデイ脆弱性、セキュリティアップデートが公開／すでに悪用を確認。Windows/Mac環境にはv157.0.8103.50/.51が展開</title>
@@ -519,20 +519,20 @@
 <description>GitHubは、2026年10月28・29日に開催した「GitHub Universe 2026」にあわせ、自動モデル選択と複数モデルの連携を統合したCopilot Fusionの一般提供を発表した。デスクトップ向けのGitHub Copilotアプリでは、資料とエージェントの作業をまとめるProjectsのパブリックプレビューを開始した。 — gihyo.jp / score: 80 (GitHub Copilotの新機能発表で開発者に広く影響)</description>
 </item>
 <item>
-<title>[80] Amazon Aurora now supports post-quantum TLS key exchange</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/10/aurora-postgresql-post-quantum-tls-key-exchange/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/10/aurora-postgresql-post-quantum-tls-key-exchange/</guid>
-<pubDate>Thu, 29 Oct 2026 16:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Starting today, Amazon Aurora PostgreSQL-Compatible Edition introduces support for post-quantum TLS (PQ-TLS) key exchange, providing you with post-quantum cryptography options for encrypting your data in transit. Amazon Aurora PostgreSQL versions 18 and higher support modification of the ssl_groups parameter. You can select cryptographic groups from the Amazon Aurora PostgreSQL allow list to align with your organization's security standards. Amazon Aurora is designed for high performance and ava — AWS What's New / score: 80 (Amazon Auroraの耐量子TLS鍵交換サポート)</description>
-</item>
-<item>
 <title>[78] [AINews] Fable 5.2 retakes World #1 LLM spot as $ANT IPO roadshow begins</title>
 <link>https://latent.space/p/ainews-fable-5-2-retakes-world-1-llm-spot-as-ant-ipo-roadshow-begins/</link>
 <guid isPermaLink="true">https://latent.space/p/ainews-fable-5-2-retakes-world-1-llm-spot-as-ant-ipo-roadshow-begins/</guid>
 <pubDate>Tue, 10 Nov 2026 06:34:44 +0000</pubDate>
 <category>Latent Space</category>
 <description>November 9, 2026 — Claude Fable 5.2 and Mythos 5.2 arrive on Anthropic’s IPO roadshow day. How much thinking is worth paying for? — Latent Space / score: 78 (主要LLMの性能逆転とIPO動向)</description>
+</item>
+<item>
+<title>[75] GoogleのAIツール「Antigravity」に実装された“AI軍団が掲示版を使って仕事を進める新機能”がやばそうすぎる</title>
+<link>https://www.gizmodo.jp/article/2611-google-antigravity-swarm/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-google-antigravity-swarm/</guid>
+<pubDate>Tue, 10 Nov 2026 18:30:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>1000体起動とかもできちゃいそう（予算が許すなら）。2026年11月11日未明、Googleが同社のAIツール「Antigravity」に /swarm という機能をプレビュー実装すると発表しました。現時点ではAI Ultra加入者しか利… — ギズモード・ジャパン / score: 75 (GoogleのAIツールによる画期的な新機能のプレビュー)</description>
 </item>
 <item>
 <title>[75] AMDが最大256コアのZen 6世代組込み向けCPU「EPYC Embedded 9006」を発表、PCIe Gen 6とMRDIMMに対応</title>
@@ -639,20 +639,20 @@
 <description>Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise. — OpenAI News / score: 75 (OpenAIインフラにおけるモデル管理と安全対策)</description>
 </item>
 <item>
-<title>[75] Now generally available: GKE dynamic slicing for higher resilience, and efficiency for TPUs</title>
-<link>https://cloud.google.com/blog/products/containers-kubernetes/gke-dynamic-slicing-on-tpus/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/products/containers-kubernetes/gke-dynamic-slicing-on-tpus/</guid>
-<pubDate>Mon, 09 Nov 2026 13:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>Running large-scale AI workloads on TPU and Google Kubernetes Engine (GKE) requires infrastructure that adapts as fast as your models change. Dynamic Slicing is generally available on GKE, which decouples logical TPU slice formation from physical nodepool provisioning. Compared to creating a static nodepool for each TPU slice, dynamic slicing reduces AI workload startup times by up to 5x and workload recovery by 4.5x — maximizing TPU goodput, efficiency, and workload resilience at scale. Beyond  — Google Cloud Blog / score: 75 (GKEのTPU向け動的スライシング機能のGA)</description>
-</item>
-<item>
 <title>[75] Cloud Pathways, a distributed ML runtime for massive accelerator fleets, now GA</title>
 <link>https://cloud.google.com/blog/topics/ai-infrastructure/cloud-pathways-a-distributed-ml-runtime-is-ga/</link>
 <guid isPermaLink="true">https://cloud.google.com/blog/topics/ai-infrastructure/cloud-pathways-a-distributed-ml-runtime-is-ga/</guid>
 <pubDate>Mon, 09 Nov 2026 13:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>Today, we are thrilled to announce the general availability (GA) of Cloud Pathways ( Pathways on Cloud ) on Google Kubernetes Engine (GKE) as a core runtime pillar of the Google Cloud AI Hypercomputer . Originally engineered by Google DeepMind to train and serve Google's frontier models — including Gemini — Pathways is our distributed machine-learning runtime designed for massive, heterogeneous accelerator fleets. In fact, over the last 90 days alone, leading AI companies and global enterprises  — Google Cloud Blog / score: 75 (分散型MLランタイムCloud PathwaysのGA)</description>
+</item>
+<item>
+<title>[75] GKE dynamic slicing for higher resilience, and efficiency for TPUs</title>
+<link>https://cloud.google.com/blog/products/containers-kubernetes/gke-dynamic-slicing-on-tpus/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/containers-kubernetes/gke-dynamic-slicing-on-tpus/</guid>
+<pubDate>Mon, 09 Nov 2026 13:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Running large-scale AI workloads on TPU and Google Kubernetes Engine (GKE) requires infrastructure that adapts as fast as your models change. To help, dynamic slicing decouples logical TPU slice formation from physical nodepool provisioning. Compared to creating a static nodepool for each TPU slice, dynamic slicing reduces AI workload startup times by up to 5x and workload recovery by 4.5x — maximizing TPU goodput, efficiency, and workload resilience at scale. GKE dynamic slicing is generally av — Google Cloud Blog / score: 75 (GKEのTPU向け動的スライシング機能のGA)</description>
 </item>
 <item>
 <title>[75] Amazon EKS Auto Mode and Karpenter now support Dynamic Resource Allocation</title>

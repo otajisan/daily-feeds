@@ -4,8 +4,40 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Tue, 10 Nov 2026 18:06:18 +0000</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 20:06:10 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Designing for Agents — Zeno Rocha, Resend</title>
+<link>https://latent.space/p/resend/</link>
+<guid isPermaLink="true">https://latent.space/p/resend/</guid>
+<pubDate>Tue, 10 Nov 2026 20:05:17 +0000</pubDate>
+<category>Latent Space</category>
+<description>Where does answer engine optimization (AEO) end and agent experience begin? Inside Resend, from the docs that help Claude Code pick an email API to the tools it uses to send. — Latent Space / score: 60 (AIエージェント時代を見据えた設計やAPIの解説)</description>
+</item>
+<item>
+<title>Gemini Intelligence: New features, on more devices</title>
+<link>https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/</link>
+<guid isPermaLink="true">https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/</guid>
+<pubDate>Tue, 10 Nov 2026 19:00:00 +0000</pubDate>
+<category>Google AI Blog</category>
+<description>Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more. — Google AI Blog / score: 55 (Geminiの新機能とデバイス展開のニュース)</description>
+</item>
+<item>
+<title>NaiveAI Promises 2,100 Tokens per Second. How Well Does It Code?</title>
+<link>https://latent.space/p/naiveai/</link>
+<guid isPermaLink="true">https://latent.space/p/naiveai/</guid>
+<pubDate>Tue, 10 Nov 2026 18:56:32 +0000</pubDate>
+<category>Latent Space</category>
+<description>NaiveAI could potentially top Artificial Analysis’s speed rankings. Our hands-on test suggests its coding quality holds up against DeepSeek. — Latent Space / score: 65 (高速なAIモデルの実用性とコーディング性能の検証)</description>
+</item>
+<item>
+<title>GoogleのAIツール「Antigravity」に実装された“AI軍団が掲示版を使って仕事を進める新機能”がやばそうすぎる</title>
+<link>https://www.gizmodo.jp/article/2611-google-antigravity-swarm/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-google-antigravity-swarm/</guid>
+<pubDate>Tue, 10 Nov 2026 18:30:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>1000体起動とかもできちゃいそう（予算が許すなら）。2026年11月11日未明、Googleが同社のAIツール「Antigravity」に /swarm という機能をプレビュー実装すると発表しました。現時点ではAI Ultra加入者しか利… — ギズモード・ジャパン / score: 75 (GoogleのAIツールによる画期的な新機能のプレビュー)</description>
+</item>
 <item>
 <title>マイクロソフト、.NET 11正式リリース。C#に共用型を導入、JITやAOTコンパイラの高速化、コマンドラインツール強化など新機能</title>
 <link>https://www.publickey1.jp/blog/26/net_11cjitaot.html</link>
@@ -39,7 +71,15 @@
 <description>マイクロソフトの包括的なソフトウェアフレームワーク「.NET 8」と「.NET 9」のサポートが昨日（2026年11月10日）終了しました。 .NET 8は今から3年前の2023年11月にリリースされ.NET 9はその1年後の2024年11... — Publickey / score: 80 (サポート終了とセキュリティリスクに関する警告)</description>
 </item>
 <item>
-<title>BigQuery measures is now GA, unifying BI metrics and knowledge graphs for AI accuracy</title>
+<title>Inside the Gemini factory: Accelerating partner solutions</title>
+<link>https://cloud.google.com/blog/topics/partners/inside-the-gemini-factory-accelerating-partner-solutions/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/partners/inside-the-gemini-factory-accelerating-partner-solutions/</guid>
+<pubDate>Tue, 10 Nov 2026 17:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>With the new unified Gemini experience, enterprises can bring third-party partner capabilities directly in Gemini through standardized connectors (spanning Model Context Protocol (MCP), Agent-to-Agent (A2A) runtimes, and REST APIs), alongside emerging declarative skills and plugins. For independent software vendors (ISVs), this unified architecture unlocks a powerful opportunity to embed domain-specialized intelligence, regulated workflows, and live systems of record directly into enterprises' d — Google Cloud Blog / score: 45 (Google Cloudのパートナー向け施策)</description>
+</item>
+<item>
+<title>BigQuery measures is now GA: Unifying BI metrics and knowledge graphs for AI accuracy</title>
 <link>https://cloud.google.com/blog/products/data-analytics/bigquery-measures-ga-unifying-bi-metrics-and-knowledge-graphs/</link>
 <guid isPermaLink="true">https://cloud.google.com/blog/products/data-analytics/bigquery-measures-ga-unifying-bi-metrics-and-knowledge-graphs/</guid>
 <pubDate>Tue, 10 Nov 2026 17:00:00 +0000</pubDate>
@@ -53,14 +93,6 @@
 <pubDate>Tue, 10 Nov 2026 17:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>As many developers use agentic tools to create more code faster than ever before, the code has gotten more complex and they’re taking longer to find and fix software flaws. Helping to address that pressure is a key concern at Google. We know that software development velocity is increasing, as much as 2x for some teams , and the average developer fix time for software flaws expanded from approximately 59 days a decade ago to more than 170 days in 2025, according to the Mandiant M-Trends 2026 Rep — Google Cloud Blog / score: 55 (コード修正自動化ツールの紹介)</description>
-</item>
-<item>
-<title>Inside the Gemini factory: Accelerating partner solutions</title>
-<link>https://cloud.google.com/blog/topics/partners/inside-the-gemini-factory-accelerating-partner-solutions/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/topics/partners/inside-the-gemini-factory-accelerating-partner-solutions/</guid>
-<pubDate>Tue, 10 Nov 2026 17:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>With the new unified Gemini experience, enterprises can bring third-party partner capabilities directly in Gemini through standardized connectors (spanning Model Context Protocol (MCP), Agent-to-Agent (A2A) runtimes, and REST APIs), alongside emerging declarative skills and plugins. For independent software vendors (ISVs), this unified architecture unlocks a powerful opportunity to embed domain-specialized intelligence, regulated workflows, and live systems of record directly into enterprises' d — Google Cloud Blog / score: 45 (Google Cloudのパートナー向け施策)</description>
 </item>
 <item>
 <title>AMDが最大256コアのZen 6世代組込み向けCPU「EPYC Embedded 9006」を発表、PCIe Gen 6とMRDIMMに対応</title>
@@ -439,6 +471,14 @@
 <description>Microsoftが2026年11月に発売した「XBOX Nano コントローラー」は通常のXBOXコントローラーと同じボタン配置を採用しながら、XBOX史上最小となるコンパクトなワイヤレスコントローラーです。XBOX本体だけでなくPCやスマートフォンでも利用でき、ポケットに入れて気軽に持ち運べるのが特徴というXBOX Nano コントローラーを実際に使ってみて、通常のコントローラーとのサイズの違いや操作性、ゲームプレイでの使い勝手などを確かめてみました。 続きを読む... — GIGAZINE / score: 35 (ハードウェア・周辺機器のレビュー記事)</description>
 </item>
 <item>
+<title>Introducing Businesses in ChatGPT</title>
+<link>https://openai.com/index/introducing-businesses-chatgpt</link>
+<guid isPermaLink="true">https://openai.com/index/introducing-businesses-chatgpt</guid>
+<pubDate>Tue, 10 Nov 2026 10:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT. — OpenAI News / score: 50 (ビジネス向けChatGPTの機能追加に関するアナウンス)</description>
+</item>
+<item>
 <title>こっちのタッチはペンにも対応！ レノボ「Yoga 7a 2-in-1 Gen 11」でクリエイティブ三昧</title>
 <link>https://ascii.jp/elem/000/004/450/4450306/?rss</link>
 <guid isPermaLink="true">https://ascii.jp/elem/000/004/450/4450306/?rss</guid>
@@ -765,46 +805,6 @@
 <pubDate>Tue, 10 Nov 2026 08:00:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 90 (主要AIベンダーによる新モデルの発表)</description>
-</item>
-<item>
-<title>November 10, 2026</title>
-<link>https://docs.cloud.google.com/release-notes#November_10_2026</link>
-<guid isPermaLink="true">https://docs.cloud.google.com/release-notes#November_10_2026</guid>
-<pubDate>Tue, 10 Nov 2026 08:00:00 +0000</pubDate>
-<category>Google Cloud リリースノート</category>
-<description>Model Armor Feature Model Armor image screening is generally available (GA) . You can extract and screen images embedded within supported rich text documents (PDF, Word, Excel, and PowerPoint). Pricing for image screening is in effect and converts processed images into tokens based on image size. For more information, see Screen images , Pricing , and Token calculation and pricing for images . — Google Cloud リリースノート / score: 70 (Google CloudのCloud SQL関連のアップデート)</description>
-</item>
-<item>
-<title>SHUREの新しいマイク、映画館で体験しませんか？ プロが録った音も、制作の裏側も</title>
-<link>https://www.gizmodo.jp/article/2610-shure-gizmodo-movie-theater-sound-event/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2610-shure-gizmodo-movie-theater-sound-event/</guid>
-<pubDate>Tue, 10 Nov 2026 08:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>SHUREとギズモードが映画館を貸し切る無料の音響イベントを開催。プロの音作りやクリエイティブなアプローチを学び、限定ノベルティも手に入る特別な夜の魅力をご紹介します。 — ギズモード・ジャパン / score: 10 (一般的な音響イベントの案内)</description>
-</item>
-<item>
-<title>MCP を組み込んだアプリを手元で複数動かすための構成パターン - Nature Engineering Blog</title>
-<link>https://engineering.nature.global/entry/2026/11/mcp-architecture-patterns</link>
-<guid isPermaLink="true">https://engineering.nature.global/entry/2026/11/mcp-architecture-patterns</guid>
-<pubDate>Tue, 10 Nov 2026 07:55:00 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>モバイルエンジニアの亀田です。 Emacs が 50 周年ですね。 MCP が発表されてから自分で使うツールには MCP を組み込んできました。当然 Emacs にも組み込んでいますし、弊社の Nature Home アプリでも、開発中は MCP でいろいろな操作ができるようにしています。 次の GIF は、Claude Code から、iPhone で動かしている... — はてなブックマーク テクノロジー / score: 60 (MCPを活用した実践的な開発構成パターン)</description>
-</item>
-<item>
-<title>年齢を偽る13～17歳までの数百万人のユーザーに対してInstagramの10代アカウント保護機能を適用するためAIによる年齢推定技術を世界規模で拡大するとMetaが発表</title>
-<link>https://gigazine.net/news/20261110-expanding-teen-account-protections-teens/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261110-expanding-teen-account-protections-teens/</guid>
-<pubDate>Tue, 10 Nov 2026 07:45:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>Metaが年齢を偽る13～17歳の若者に対してもアカウント保護機能を提供するため、AIを用いた年齢推定技術を全世界規模に拡大すると発表しました。 続きを読む... — GIGAZINE / score: 50 (MetaのAI年齢推定技術のグローバル展開)</description>
-</item>
-<item>
-<title>起動が最大60％速くなった「XBOX」PCアプリ、Insider向けにテスト開始／Web版のクラウドゲーミングも刷新、TV・VRヘッドセット向けにも新デザイン</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2155136.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2155136.html</guid>
-<pubDate>Tue, 10 Nov 2026 07:44:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Microsoftは11月5日（現地時間）、Windows向け「XBOX」PCアプリのアップデートを発表した。同日より「XBOX Insider」に参加するテスター向けに先行提供されている。 — 窓の杜 / score: 40 (Xbox PCアプリのパフォーマンス改善プレビュー)</description>
 </item>
 </channel>
 </rss>
