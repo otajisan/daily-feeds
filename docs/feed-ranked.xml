@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Tue, 10 Nov 2026 12:08:37 +0000</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 14:06:37 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Google Chrome 157」にゼロデイ脆弱性、セキュリティアップデートが公開／すでに悪用を確認。Windows/Mac環境にはv157.0.8103.50/.51が展開</title>
@@ -21,6 +21,14 @@
 <pubDate>Thu, 05 Nov 2026 06:53:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>OpenAIは2026年11月4日、開発中のサイバーセキュリティ向けAIモデルを活用し、Linuxカーネルの脆弱性をエージェントが自律的に発見し検証した結果を発表した。 — gihyo.jp / score: 95 (AIによるLinuxカーネルの脆弱性大量発見と実証の画期的なニュース)</description>
+</item>
+<item>
+<title>[90] 車を遠隔解錠できる脆弱性が存在していたことが発覚、トヨタが対象の可能性あり</title>
+<link>https://gigazine.net/news/20261110-unlock-any-car-from-x-brand/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261110-unlock-any-car-from-x-brand/</guid>
+<pubDate>Tue, 10 Nov 2026 13:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>一部の自動車メーカーのシステムに脆弱(ぜいじゃく)性が存在し、車のドアを遠隔操作で解錠したりエンジンを始動したりできる状態だったことがセキュリティ研究者によって報告されました。メーカー名は公表されていませんが、トヨタとレクサスが該当する可能性が指摘されています。 続きを読む... — GIGAZINE / score: 90 (自動車の遠隔操作に関する重大なセキュリティ脆弱性)</description>
 </item>
 <item>
 <title>[90] Introducing AlphaProof Code: a breakthrough in verifying complex software at depth</title>
@@ -63,12 +71,12 @@
 <description>Anthropicが2026年11月9日に高性能AIモデル「Claude Fable 5.2」と「Claude Mythos 5.2」を発表しました。前世代の5.1からプログラミング能力や推論能力が向上しており、1000体以上のAIエージェントを連携させて8日間でOSを開発することにも成功しています。 続きを読む... — GIGAZINE / score: 90 (最新AIモデルによるOS自律開発の成功事例)</description>
 </item>
 <item>
-<title>[90] Anthropicが新AI「Claude Fable 5.2」をリリース。ぶっちぎりの高性能、実用例はもはや異次元</title>
+<title>[90] Anthropicが新AI「Claude Fable 5.2」をリリース。ぶっちぎりの高性能、実用例はもはや異次元 | ギズモード・ジャパン</title>
 <link>https://www.gizmodo.jp/article/2611-claude-fable-5-2-release/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/2611-claude-fable-5-2-release/</guid>
-<pubDate>Tue, 10 Nov 2026 01:45:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>トップだったGemini 4 CarbonをぶっちぎってすべてのAIの頂点に。2026年11月10日、Anthropicが新しいフラッグシップ/最先端AI「Claude Fable 5.2」をリリースしました。本日からすべての有料ユーザーが… — ギズモード・ジャパン / score: 90 (主要AIモデルのメジャーリリース)</description>
+<pubDate>Tue, 10 Nov 2026 02:43:46 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>トップだったGemini 4 CarbonをぶっちぎってすべてのAIの頂点に。 2026年11月10日、Anthropicが新しいフラッグシップ/最先端AI「Claude Fable 5.2」をリリースしました。本日からすべての有料ユーザーが利用可能です。Mythos 5.2も同時に発表されています（一部の制限以外はFable 5.2と同一）。 IPOを控えたAnthropicは... — はてなブックマーク テクノロジー / score: 90 (主要AIモデルのメジャーリリース)</description>
 </item>
 <item>
 <title>[90] Anthropic、「Claude Fable 5.2」「Claude Mythos 5.2」を発表 ～最強モデルがより高速・安価に／ほぼすべての評価で「Opus 5.5」を凌駕、物理学の未解決問題を解いた実績も</title>
@@ -797,14 +805,6 @@
 <pubDate>Thu, 29 Oct 2026 03:32:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Googleは2026年10月28日、新しいAIモデル「Gemini 4 Carbon」を発表した。複数の工程にまたがる長時間の開発作業と、脆弱性の発見から修正までのサイバー防御で能力を高めたとしている。 — gihyo.jp / score: 75 (Googleの新AIモデル「Gemini 4 Carbon」発表)</description>
-</item>
-<item>
-<title>[75] Gemini 4 Carbon: Our next frontier model</title>
-<link>https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/</link>
-<guid isPermaLink="true">https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/</guid>
-<pubDate>Wed, 28 Oct 2026 17:00:58 +0000</pubDate>
-<category>Google DeepMind</category>
-<description> — Google DeepMind / score: 75 (Google DeepMindの次世代基盤モデル発表)</description>
 </item>
 </channel>
 </rss>
