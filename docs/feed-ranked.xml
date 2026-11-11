@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 11 Nov 2026 12:09:31 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 14:06:18 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 今日は毎月恒例「Windows Update」の日、1235件の脆弱性とOutlookのゼロデイ脆弱性を修正</title>
@@ -37,6 +37,14 @@
 <pubDate>Wed, 11 Nov 2026 10:00:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>Googleが公開したChromeのセキュリティ更新と脆弱性について解説します。すでに悪用が確認されているため、ブラウザを再起動して最新の状態にアップデートしましょう。 — ギズモード・ジャパン / score: 90 (Chromeの緊急セキュリティパッチ配信)</description>
+</item>
+<item>
+<title>[90] メール配信のユミルリンク、不正アクセスで約4786万件漏えい　JR東海やアイスタイルに影響</title>
+<link>https://www.itmedia.co.jp/news/article/2611/11/2000003114/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/11/2000003114/</guid>
+<pubDate>Wed, 11 Nov 2026 08:42:25 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>メール配信サービスを手掛けるユミルリンク（東京都渋谷区）は11月11日、10月19日に公表した不正アクセスについて、メールアドレスなど延べ4786万4147件の個人情報が外部に流出したと発表した。10月26日時点では最大約5162万件が流出した可能性があるとしていたが、その後の調査で件数を精査した。同社のメールサービス... — はてなブックマーク テクノロジー / score: 90 (数千万件規模の大規模な個人情報漏えい事案)</description>
 </item>
 <item>
 <title>[90] 「Git for Windows」v2.56.1が公開 ～6件の脆弱性を修正、任意コード実行のおそれも／本家Gitのv2.55.1、v2.54.1、v2.53.1、v2.52.1、v2.51.3、v2.50.2にも修正</title>
@@ -223,6 +231,14 @@
 <description>AmazonとAWSは、コストを抑えながら社内への問い合わせやシステムエラーをAIで自動仕分けするため、Anthropicのバランス型モデルである「Claude Sonnet 4.6」を利用してきました。これを意思決定モデルの「Strands Decider」に置き換えることで、98％のコスト削減に成功したと報告しています。 続きを読む... — GIGAZINE / score: 85 (AIモデル置換による大幅なコスト削減の事例)</description>
 </item>
 <item>
+<title>[85] 靖国神社に不正アクセス　約1万4500件の個人情報漏えい、パスワードが特定されるおそれも</title>
+<link>https://www.itmedia.co.jp/news/article/2611/11/2000003119/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/11/2000003119/</guid>
+<pubDate>Wed, 11 Nov 2026 10:16:17 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>靖国神社（東京都千代田区）は11月11日、同神社が運営する通販サイト「オンライン授与品・頒布品サイト」への不正アクセスにより、約1万4500件の個人情報が漏えいしたと発表した。同サイトは現在公開を停止しており、再開時期は未定という。 漏えいしたのは、同サイトの会員が登録した氏名、メールアドレス、ハッシュ化... — はてなブックマーク テクノロジー / score: 85 (大規模な個人情報流出と不正アクセスの事例)</description>
+</item>
+<item>
 <title>[85] 無料のメールソフト「Thunderbird」v160.0が公開 ～103件の脆弱性を修正／［メッセージフィルター］ダイアログで［Ctrl］＋［A］キーによる全選択が可能に</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2155542.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2155542.html</guid>
@@ -231,20 +247,20 @@
 <description>Mozillaは11月10日、メールソフト「Thunderbird」の最新版v160.0を公開した。本リリースでは、利便性を向上させる新機能や仕様変更に加え、多数のバグ修正および重要なセキュリティアップデートが行われている。 — 窓の杜 / score: 85 (Thunderbirdの多数の脆弱性修正とアプデ)</description>
 </item>
 <item>
-<title>[85] OrcaRouter、Anthropic最新モデル「Claude Fable 5.2」のAPI提供を開始</title>
-<link>https://ascii.jp/elem/000/004/450/4450778/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/450/4450778/?rss</guid>
-<pubDate>Wed, 11 Nov 2026 08:50:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>OrcaRouter、Anthropic最新モデル「Claude Fable 5.2」のAPI提供を開始 — ASCII.jp / score: 85 (AIモデルのAPI提供開始に関する重要なニュース)</description>
-</item>
-<item>
 <title>[85] Mozilla、「Firefox 160」を正式リリース ～便利な「ミニウィンドウ」をテスト投入／99件の脆弱性を修正。ピクチャーインピクチャーで再生速度を変更、MKVの対応形式も拡充</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2155410.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2155410.html</guid>
 <pubDate>Wed, 11 Nov 2026 08:10:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>Mozillaは11月10日（米国時間）、デスクトップ向け「Firefox」の最新版v160.0をリリースチャネルで公開した。「Firefox 159」に続くメジャーバージョンアップとなる。 — 窓の杜 / score: 85 (Firefoxメジャーアプデと大量の脆弱性修正)</description>
+</item>
+<item>
+<title>[85] 「AIとのチャット記録」が漏えいか、Notion　委託先に不正アクセス</title>
+<link>https://www.itmedia.co.jp/aiplus/article/2611/11/2000003104/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2611/11/2000003104/</guid>
+<pubDate>Wed, 11 Nov 2026 07:05:45 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>クラウド型ワークスペース「Notion」を運営する米Notion Labsは11月9日（現地時間）、Notionで使えるAIサービス「Notion AI」のチャット記録が漏えいした恐れがあると発表した。委託先の米Fireworks.aiへの不正アクセスに起因するもの。影響範囲は全ワークスペースの1％未満としている。 Notion AIの利用状況を分析する... — はてなブックマーク テクノロジー / score: 85 (AIサービスと委託先を通じたデータ漏えいリスク)</description>
 </item>
 <item>
 <title>[85] Google DeepMindがAIでコードを検証する「AlphaProof Code」を使ってSignalプロトコルの安全性の形式的検証に成功</title>
@@ -277,22 +293,6 @@
 <pubDate>Wed, 11 Nov 2026 04:00:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>取引先からのカレンダー招待でも安心できません。見慣れた名前に、いつもの会社のアドレス。仕事中に届いたら、深く考えずに登録してしまいそうですよね。しかし最近、Googleカレンダーの招待を入り口に、Googleアカウントを乗っ取る攻撃が報告さ… — ギズモード・ジャパン / score: 85 (Googleカレンダーを悪用したアカウント乗っ取りの注意喚起)</description>
-</item>
-<item>
-<title>[85] “同じWi-Fiにいる誰か”に通信をのぞかれる？　「クライアント分離」を2秒で突破する攻撃　米大学が検証</title>
-<link>https://www.itmedia.co.jp/news/article/2611/11/2000003049/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/11/2000003049/</guid>
-<pubDate>Wed, 11 Nov 2026 03:23:04 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>クライアント分離には業界統一の標準規格がなく、メーカーごとに独自の実装がされてきたため、家庭用・法人用ルーターや大学ネットワークなど調査したすべての環境が、少なくともいずれかの攻撃によって分離機能を無効化され、通信の盗聴やデータ注入といった脅威にさらされることが判明した。 主な抜け道は3つ。1つ目は... — はてなブックマーク テクノロジー / score: 85 (Wi-Fiクライアント分離の脆弱性・攻撃手法)</description>
-</item>
-<item>
-<title>[85] Anthropicの新AIがチート級。OSを自作しブラックホールの難問も解いた、でも大丈夫かこれ？</title>
-<link>https://www.gizmodo.jp/article/2611-anthropic-claude-5-2-ai-os-black-hole/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-anthropic-claude-5-2-ai-os-black-hole/</guid>
-<pubDate>Wed, 11 Nov 2026 01:30:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>Anthropicの新モデルClaude Fable 5.2とMythos 5.2の性能やOS自作、ブラックホールの謎解明などの成果と新たな懸念を解説します。 — ギズモード・ジャパン / score: 85 (Anthropicの新AIモデルの驚異的な性能解説)</description>
 </item>
 <item>
 <title>[85] Google、最強モデル「Gemini 4 Carbon」を一般公開 ～11月30日までは導入価格で半額／有償のAPIと「Google AI Ultra」で利用可能</title>
@@ -407,6 +407,14 @@
 <description>Notable Changes This release marks the transition of Node.js 26.x into Long Term Support (LTS) with the codename 'Lithium'. It will continue to receive updates through to the end of April 2029. Other than updating metadata, such as the process.release object, to reflect that the release is LTS, no further changes from Node.js 26.12.1 are included. If you are updating from an earlier Long Term Support release (e.g. Node.js 24 or 22 or earlier) please note that since Node.js 25 the official binari — Node.js リリース / score: 85 (Node.jsのLTSメジャーバージョンリリース)</description>
 </item>
 <item>
+<title>[80] 新着情報詳細｜靖國神社</title>
+<link>https://www.yasukuni.or.jp/news_detail.html?id=734</link>
+<guid isPermaLink="true">https://www.yasukuni.or.jp/news_detail.html?id=734</guid>
+<pubDate>Wed, 11 Nov 2026 10:27:15 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>令和8年11月11日 靖國神社オンライン授与品・頒布品サイトへの不正アクセスによる個人情報漏洩のお詫びとお知らせ 令和8年11月11日 靖國神社社務所 令和8年10月28日、当神社が運営するオンライン授与品・頒布品サイトが外部から不正アクセスを受けたことが判明し、同日中に同サイトの公開を停止いたしました。その後の調... — はてなブックマーク テクノロジー / score: 80 (公式発表による不正アクセスと情報漏えいの詳細)</description>
+</item>
+<item>
 <title>[80] GitHubのシークレットスキャン、Actionsワークフローログ内の検出に対応</title>
 <link>https://codezine.jp/article/detail/30316</link>
 <guid isPermaLink="true">https://codezine.jp/article/detail/30316</guid>
@@ -509,6 +517,14 @@
 <pubDate>Tue, 10 Nov 2026 06:34:44 +0000</pubDate>
 <category>Latent Space</category>
 <description>November 9, 2026 — Claude Fable 5.2 and Mythos 5.2 arrive on Anthropic’s IPO roadshow day. How much thinking is worth paying for? — Latent Space / score: 78 (主要LLMの性能逆転とIPO動向)</description>
+</item>
+<item>
+<title>[75] OpenAI、事業者がChatGPTに商品情報などを提供できる「Businesses in ChatGPT」をベータ公開 ——米国の対象事業者には、質問に答えるBusiness Agentも提供</title>
+<link>https://gihyo.jp/article/2026/11/openai-businesses-in-chatgpt?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/11/openai-businesses-in-chatgpt?utm_source=feed</guid>
+<pubDate>Wed, 11 Nov 2026 11:17:30 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>OpenAIは2026年11月10日、事業者向けのBusinesses in ChatGPTのベータ提供を開始した。事業者は、プロフィールの管理権限の申請と本人確認が承認されると、紹介文や商品情報などをChatGPTに提供し、ChatGPT内のWebサイトへのリンクのクリック数などを確認できる。 — gihyo.jp / score: 75 (OpenAIの新機能ベータ公開とビジネスへの影響)</description>
 </item>
 <item>
 <title>[75] 政府、高性能AI暴走に罰則検討　悪質事業者に対抗手段へ法改正</title>
@@ -789,22 +805,6 @@
 <pubDate>Wed, 04 Nov 2026 23:34:52 +0000</pubDate>
 <category>AWS News Blog</category>
 <description>You can now migrate existing Apache Hive datasets in Amazon S3 to fully managed Apache Iceberg tables in Amazon S3 Tables, with no pipelines to build or compute to provision, while production workloads keep running. — AWS News Blog / score: 75 (Amazon S3のデータ移行機能の拡張)</description>
-</item>
-<item>
-<title>[75] AWS Sign-In now supports OAuth 2.0 Token Exchange</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/11/aws-signin-token-exchange/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/aws-signin-token-exchange/</guid>
-<pubDate>Wed, 04 Nov 2026 19:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>AWS Sign-In now supports OAuth 2.0 Token Exchange (RFC 8693), enabling applications to exchange third-party OpenID Connect (OIDC) tokens for short-lived, AWS service-scoped OAuth access tokens. This allows customers to securely integrate third-party applications with supported AWS services without sharing AWS credentials, while maintaining access controls through AWS Identity and Access Management (IAM). This capability is available for supported AWS services that use AWS Sign-In OAuth , enablin — AWS What's New / score: 75 (AWS Sign-InのOAuth 2.0 Token Exchange対応)</description>
-</item>
-<item>
-<title>[75] Introducing Images 2.6</title>
-<link>https://openai.com/index/introducing-images-2-6</link>
-<guid isPermaLink="true">https://openai.com/index/introducing-images-2-6</guid>
-<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API. — OpenAI News / score: 75 (OpenAIの画像生成機能とAPIのアップデート)</description>
 </item>
 </channel>
 </rss>
