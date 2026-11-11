@@ -4,16 +4,8 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 11 Nov 2026 20:06:12 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 22:05:55 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
-<item>
-<title>[95] 今日は毎月恒例「Windows Update」の日、1235件の脆弱性とOutlookのゼロデイ脆弱性を修正</title>
-<link>https://gigazine.net/news/20261111-windows-update/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261111-windows-update/</guid>
-<pubDate>Wed, 11 Nov 2026 02:44:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>Windowsのセキュリティ更新プログラムやバグ修正を配信する毎月恒例のWindows Updateが公開されました。今回のWindows Updateでは、「Outlook」に存在する脆弱(ぜいじゃく)性など複数の脆弱性が修正されています。 続きを読む... — GIGAZINE / score: 95 (ゼロデイ脆弱性を含む月例の重要セキュリティアップデート)</description>
-</item>
 <item>
 <title>[95] 「Google Chrome 157」にゼロデイ脆弱性、セキュリティアップデートが公開／すでに悪用を確認。Windows/Mac環境にはv157.0.8103.50/.51が展開</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2154988.html</link>
@@ -36,7 +28,7 @@
 <guid isPermaLink="true">https://github.com/nodejs/node/releases/tag/v26.13.1</guid>
 <pubDate>Wed, 11 Nov 2026 16:44:25 +0000</pubDate>
 <category>Node.js リリース</category>
-<description>This is a security release. Notable Changes (CVE-2026-123863) http2: release headers when a stream is removed (Matteo Collina) – High (CVE-2026-123864) tls,http: prevent nested parser execution from empty writes (Matteo Collina) – High (CVE-2026-123865) http2: detect streams abandoned by nghttp2 (Matteo Collina) – High (CVE-2026-123866) http2: retain buffers until socket writes finish (Matteo Collina) – High (CVE-2026-123872) tls: disable resumption for mTLS with no session id context (Tim Perry — Node.js リリース / score: 90 (Node.js v26の重要なセキュリティアップデートとCVE修正)</description>
+<description>This is a security release. Notable Changes ( CVE-2026-123863 ) http2: release headers when a stream is removed (Matteo Collina) – High ( CVE-2026-123864 ) tls,http: prevent nested parser execution from empty writes (Matteo Collina) – High ( CVE-2026-123865 ) http2: detect streams abandoned by nghttp2 (Matteo Collina) – High ( CVE-2026-123866 ) http2: retain buffers until socket writes finish (Matteo Collina) – High ( CVE-2026-123872 ) tls: disable resumption for mTLS with no session id context  — Node.js リリース / score: 90 (Node.js v26の重要なセキュリティアップデートとCVE修正)</description>
 </item>
 <item>
 <title>[90] 2026-11-11, Version 24.22.3 'Krypton' (LTS), @aduh95</title>
@@ -44,7 +36,7 @@
 <guid isPermaLink="true">https://github.com/nodejs/node/releases/tag/v24.22.3</guid>
 <pubDate>Wed, 11 Nov 2026 16:44:08 +0000</pubDate>
 <category>Node.js リリース</category>
-<description>This is a security release. Notable Changes (CVE-2026-123863) http2: release headers when a stream is removed (Matteo Collina) – High (CVE-2026-123864) tls,http: prevent nested parser execution from empty writes (Matteo Collina) – High (CVE-2026-123865) http2: detect streams abandoned by nghttp2 (Matteo Collina) – High (CVE-2026-123866) http2: retain buffers until socket writes finish (Matteo Collina) – High (CVE-2026-123872) tls: disable resumption for mTLS with no session id context (Tim Perry — Node.js リリース / score: 90 (Node.js v24 LTSの重要なセキュリティアップデート)</description>
+<description>This is a security release. Notable Changes ( CVE-2026-123863 ) http2: release headers when a stream is removed (Matteo Collina) – High ( CVE-2026-123864 ) tls,http: prevent nested parser execution from empty writes (Matteo Collina) – High ( CVE-2026-123865 ) http2: detect streams abandoned by nghttp2 (Matteo Collina) – High ( CVE-2026-123866 ) http2: retain buffers until socket writes finish (Matteo Collina) – High ( CVE-2026-123872 ) tls: disable resumption for mTLS with no session id context  — Node.js リリース / score: 90 (Node.js v24 LTSの重要なセキュリティアップデート)</description>
 </item>
 <item>
 <title>[90] 2026-11-11, Version 22.23.5 'Jod' (LTS), @aduh95</title>
@@ -52,7 +44,7 @@
 <guid isPermaLink="true">https://github.com/nodejs/node/releases/tag/v22.23.5</guid>
 <pubDate>Wed, 11 Nov 2026 16:44:03 +0000</pubDate>
 <category>Node.js リリース</category>
-<description>This is a security release. Notable Changes (CVE-2026-123863) http2: release headers when a stream is removed (Matteo Collina) – High (CVE-2026-123864) tls,http: prevent nested parser execution from empty writes (Matteo Collina) – High (CVE-2026-123865) http2: detect streams abandoned by nghttp2 (Matteo Collina) – High (CVE-2026-123866) http2: retain buffers until socket writes finish (Matteo Collina) – High (CVE-2026-123872) tls: disable resumption for mTLS with no session id context (Tim Perry — Node.js リリース / score: 90 (Node.js v22 LTSの重要なセキュリティアップデート)</description>
+<description>This is a security release. Notable Changes ( CVE-2026-123863 ) http2: release headers when a stream is removed (Matteo Collina) – High ( CVE-2026-123864 ) tls,http: prevent nested parser execution from empty writes (Matteo Collina) – High ( CVE-2026-123865 ) http2: detect streams abandoned by nghttp2 (Matteo Collina) – High ( CVE-2026-123866 ) http2: retain buffers until socket writes finish (Matteo Collina) – High ( CVE-2026-123872 ) tls: disable resumption for mTLS with no session id context  — Node.js リリース / score: 90 (Node.js v22 LTSの重要なセキュリティアップデート)</description>
 </item>
 <item>
 <title>[90] Google Chromeを開きっぱなしの人は要注意。またもやセキュリティパッチが配信されました</title>
@@ -239,12 +231,20 @@
 <description>The November 2026 security release for Next.js is now available — Next.js Blog / score: 90 (重要フレームワークの緊急セキュリティアップデート)</description>
 </item>
 <item>
-<title>[90] How We Took Over ChatGPT Accounts</title>
-<link>https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/</link>
-<guid isPermaLink="true">https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/</guid>
-<pubDate>Sat, 31 Oct 2026 23:15:22 +0000</pubDate>
+<title>[85] Outlook.comがDMARC認証を受けていないドメインからのメールを拒否</title>
+<link>https://gigazine.net/news/20261112-outlook-rejecting-email-without-dmarc/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261112-outlook-rejecting-email-without-dmarc/</guid>
+<pubDate>Wed, 11 Nov 2026 22:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>2026年11月5日から9日にかけて、Outlook.com・Hotmail・Live・MSNといったMicrosoftのコンシューマー向けメールサービスで、DMARCレコードを公開していないドメインからのメールが一部拒否される事象が発生しました。Microsoftからの公式発表がないまま問題が発生したことから、多くのユーザーや企業に混乱を招きました。 続きを読む... — GIGAZINE / score: 85 (メールセキュリティに関する重要な仕様変更トラブル)</description>
+</item>
+<item>
+<title>[85] aws-emulator</title>
+<link>https://simonwillison.net/2026/Nov/11/aws-emulator/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Nov/11/aws-emulator/</guid>
+<pubDate>Wed, 11 Nov 2026 21:18:30 +0000</pubDate>
 <category>Simon Willison</category>
-<description>How We Took Over ChatGPT Accounts Parameter Labs describe an exploit they found against ChatGPT's implementation of the artifacts pattern (OpenAI used to call this "Canvas" but it looks like the latest revision is called HTML previews ), where interactive custom HTML apps are displayed in a sandboxed iframe. It's important that HTML in these stays tightly sandboxed to avoid untrusted code interacting with OpenAI APIs and accessing private data. Parameter found quite a complex attack chain. OpenA — Simon Willison / score: 90 (ChatGPTアカウント乗っ取り脆弱性の解説)</description>
+<description>aws-emulator Finally, an official emulator from AWS to run tests against a local clone of their many different services without having to provision a paid API key to do so. It's written in Rust by a huge swarm of agents - 29,684 commits in the first three weeks of the project. Swaminathan (Swami) Sivasubramanian wrote about how it came to be in a guest post on Werner Vogels' blog. It currently requires Docker to run on macOS or Windows. I'm hoping they fix that in the future - it would be great  — Simon Willison / score: 85 (AWS公式のローカルテスト用エミュレータ登場)</description>
 </item>
 <item>
 <title>[85] llm 0.37.2</title>
@@ -255,12 +255,28 @@
 <description>Release: llm 0.37.2 Fixes a security issue reported by Daniel de Araujo in GHSA-v9h7-jj4g-f862 and GHSA-r639-rr7r-x72w . LLM has a mechanism called extra-openai-models.yaml - now managed by the new-in-0.37 llm openai endpoint add command - for using LLM with OpenAI-compatible API endpoints from other providers. Daniel reported two ways this could accidentally send your configured OpenAI API key to one of those providers: if the key named by api_key_name had never been stored, or if a responses:  — Simon Willison / score: 85 (LLM CLIツールの脆弱性修正を含むアップデート)</description>
 </item>
 <item>
+<title>[85] AWS Emulator is now available for building and testing AWS applications locally</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/aws-emulator-now-available/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/aws-emulator-now-available/</guid>
+<pubDate>Wed, 11 Nov 2026 17:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS Emulator is now available for building and testing AWS applications locally. Starting today, you can use AWS Emulator to build and test AWS applications on your computer or in your continuous integration (CI) environment. Your existing AWS SDK and CLI calls go to AWS Emulator and come back in milliseconds, so you and your coding agents can find and fix errors locally, with no deployments or AWS account required. You create and manage resources with the same AWS SDK and AWS CLI calls you use  — AWS What's New / score: 85 (AWS公式のローカル開発用エミュレータ提供開始)</description>
+</item>
+<item>
 <title>[85] AmazonがAIモデルの「Claude Sonnet 4.6」を独自開発の意志決定モデル「Strands Decider」に置き換えることで98％のコスト削減に成功</title>
 <link>https://gigazine.net/news/20261111-amazon-claude-sonnet-4-6-strands-decider/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261111-amazon-claude-sonnet-4-6-strands-decider/</guid>
 <pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>AmazonとAWSは、コストを抑えながら社内への問い合わせやシステムエラーをAIで自動仕分けするため、Anthropicのバランス型モデルである「Claude Sonnet 4.6」を利用してきました。これを意思決定モデルの「Strands Decider」に置き換えることで、98％のコスト削減に成功したと報告しています。 続きを読む... — GIGAZINE / score: 85 (AIモデル置換による大幅なコスト削減の事例)</description>
+</item>
+<item>
+<title>[85] インシデント調査報告書チェックリスト公開のお知らせ</title>
+<link>https://www.jpcert.or.jp/ir_report_checklist_20261111.html</link>
+<guid isPermaLink="true">https://www.jpcert.or.jp/ir_report_checklist_20261111.html</guid>
+<pubDate>Wed, 11 Nov 2026 10:22:32 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>一般社団法人JPCERTコーディネーションセンター（東京都中央区、代表理事 菊池 浩明、以下「JPCERT/CC」）は、本日「インシデント調査報告書チェックリスト」を公開いたしました。 ・インシデント調査報告書チェックリスト https://jpcertcc.github.io/ir_report_checklist/（GitHub上で公開しています） 昨今、ランサム... — はてなブックマーク テクノロジー / score: 85 (セキュリティインシデント対応の公式チェックリスト公開)</description>
 </item>
 <item>
 <title>[85] 靖国神社に不正アクセス　約1万4500件の個人情報漏えい、パスワードが特定されるおそれも</title>
@@ -301,14 +317,6 @@
 <pubDate>Wed, 11 Nov 2026 07:17:37 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>内閣府は所管する政策のメールマガジンなどの配信サービスを提供している会社が不正アクセスを受けた影響で、登録されているメールアドレス、延べおよそ6万3000件が漏えいしたと発表しました。 内閣府によ… — はてなブックマーク テクノロジー / score: 85 (内閣府メールアドレス流出に関する報道)</description>
-</item>
-<item>
-<title>[85] 「AIとのチャット記録」が漏えいか、Notion　委託先に不正アクセス</title>
-<link>https://www.itmedia.co.jp/aiplus/article/2611/11/2000003104/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2611/11/2000003104/</guid>
-<pubDate>Wed, 11 Nov 2026 07:05:45 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>クラウド型ワークスペース「Notion」を運営する米Notion Labsは11月9日（現地時間）、Notionで使えるAIサービス「Notion AI」のチャット記録が漏えいした恐れがあると発表した。委託先の米Fireworks.aiへの不正アクセスに起因するもの。影響範囲は全ワークスペースの1％未満としている。 Notion AIの利用状況を分析する... — はてなブックマーク テクノロジー / score: 85 (AIサービスと委託先を通じたデータ漏えいリスク)</description>
 </item>
 <item>
 <title>[85] Google DeepMindがAIでコードを検証する「AlphaProof Code」を使ってSignalプロトコルの安全性の形式的検証に成功</title>
@@ -383,14 +391,6 @@
 <description>Googleは、Kubernetes上にAIエージェントのための高効率な基盤を構築するためのオープンソースソフトウェア「Agent Substrate」と「gVisor」を、Linux Foundation傘下のCloud Native C... — Publickey / score: 85 (KubernetesとAI基盤のOSS寄贈で影響力大)</description>
 </item>
 <item>
-<title>[85] 脆弱性の情報は間に合っている？ 英語は 2 時間以内、悪用は 4 割が 1 日以内、日本語は中央値 4.6 日後。悪用された 74 件を調べて分かった</title>
-<link>https://qiita.com/songchong/items/b3c6c879f03f9bb665d3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/songchong/items/b3c6c879f03f9bb665d3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Sun, 08 Nov 2026 09:00:22 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>AI を使ったサイバー攻撃で、脆弱性が公表されてから悪用されるまでの時間は、週から日の単位に縮みました。日本政府も、2026 年 5 月の Project YATA-Shield で、AI の悪用で攻撃のスピードと規模が劇的に増加していると書いています。 では、悪用される... — Qiita 人気記事 / score: 85 (脆弱性公開から悪用までのスピードに関する重要警鐘)</description>
-</item>
-<item>
 <title>[85] 「Discord」がクライアント全体を「Rust」で書き直し、「Electron」から脱却へ／「Zed」のUIフレームワーク「GPUI」を採用、モバイル版とコードを共有</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2154396.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2154396.html</guid>
@@ -429,6 +429,14 @@
 <pubDate>Thu, 29 Oct 2026 01:46:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Node.js開発チームは2026年10月28日、Node.js 26.13.0をリリースし、このバージョンからNode.js 26.xが「Lithium」というコードネームで長期サポート（LTS）に移行することを発表した。 — gihyo.jp / score: 85 (Node.js 26.13.0のLTS移行とリリース)</description>
+</item>
+<item>
+<title>[80] テスト中の「ホワイトハッカーAI」が脱走。実在する会社の顧客データを盗み出してしまう</title>
+<link>https://www.gizmodo.jp/article/2611-white-hacker-ai-data-breach/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-white-hacker-ai-data-breach/</guid>
+<pubDate>Wed, 11 Nov 2026 22:00:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>セキュリティ実験中のホワイトハッカーAIがテスト環境を脱走し、実在企業の社内システムから顧客データを持ち出した事件の詳細を解説します。 — ギズモード・ジャパン / score: 80 (AIのセキュリティリスクを示す重要事例)</description>
 </item>
 <item>
 <title>[80] Test your applications against AWS locally with AWS Emulator</title>
@@ -543,12 +551,28 @@
 <description>November 9, 2026 — Claude Fable 5.2 and Mythos 5.2 arrive on Anthropic’s IPO roadshow day. How much thinking is worth paying for? — Latent Space / score: 78 (主要LLMの性能逆転とIPO動向)</description>
 </item>
 <item>
+<title>[75] Gemini Decisions API</title>
+<link>https://simonwillison.net/2026/Nov/11/gemini-decisions-api/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Nov/11/gemini-decisions-api/</guid>
+<pubDate>Wed, 11 Nov 2026 22:03:25 +0000</pubDate>
+<category>Simon Willison</category>
+<description>Gemini Decisions API Google join Jev and OpenAI in the decision model category with "Gemini Decision 1". This new model API is almost identical to Jev: it supports the same three types of questions (yes/no, choice, and rubric-scoring) and even reuses Jev's term "Noul" for a yes/no question. It's priced the same as the GPT-6 Luna decision model: 10 cents per million input tokens, and output is free. Jev remains the cheapest of the three, at 4.2 cents per million. Jev is text (and JSON) only. Open — Simon Willison / score: 75 (主要AIの意思決定モデルAPI追加のため)</description>
+</item>
+<item>
 <title>[75] Gemini Decisions API: Fast, calibrated multimodal decisions</title>
 <link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/</link>
 <guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/</guid>
 <pubDate>Wed, 11 Nov 2026 18:00:00 +0000</pubDate>
 <category>Google AI Blog</category>
 <description>Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions. — Google AI Blog / score: 75 (Googleの新しいGemini Decisions APIの発表)</description>
+</item>
+<item>
+<title>[75] PRの脆弱性をAIが直す「CodeMender」を見て、新卒が基礎を学ぶ理由を考えた</title>
+<link>https://qiita.com/N-Kyo/items/23697fc1e92c288b426b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/N-Kyo/items/23697fc1e92c288b426b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Wed, 11 Nov 2026 15:47:28 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>はじめに 2026年11月、Google Cloudのブログで、CodeMenderをGitHubのプルリクエスト（PR）に組み込む構成が紹介されました。CodeMenderは、コードの脆弱性を見つけて直してくれるGoogleのAIエージェントです。 タイトルだけ見たとき... — Qiita 人気記事 / score: 75 (AIを活用した脆弱性修正エージェントの解説)</description>
 </item>
 <item>
 <title>[75] AlphaGenome 2: Deciphering how cells read DNA to better understand disease</title>
@@ -781,30 +805,6 @@
 <pubDate>Fri, 06 Nov 2026 07:50:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Xのエンジニアリングチームは2026年11月4日、約10年間運用されてきた3種類のWebサーバーを統合し、新しい単一のWebアプリケーション基盤をゼロから構築したことを発表した。 — gihyo.jp / score: 75 (XのWeb基盤リプレイス事例と大規模構成)</description>
-</item>
-<item>
-<title>[75] AWS Security Hub now provides an SBOM inventory for your compute resources</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-sbom-inventory/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-sbom-inventory/</guid>
-<pubDate>Fri, 06 Nov 2026 00:30:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Today, AWS announces that AWS Security Hub now provides a Software Bill of Materials (SBOM) inventory, giving central security teams a continuously updated, organization-wide view of the software packages and applications installed on their compute resources. Security Hub builds the inventory from the SBOMs that Amazon Inspector generates for Amazon EC2 instances, Amazon ECR container images, and AWS Lambda functions, with no additional configuration. The SBOM page lists each package with its ve — AWS What's New / score: 75 (AWS Security HubのSBOMインベントリ機能追加)</description>
-</item>
-<item>
-<title>[75] Measuring how AI agents handle everyday wet-lab science</title>
-<link>https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science</link>
-<guid isPermaLink="true">https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science</guid>
-<pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science. — OpenAI News / score: 75 (AIエージェントの湿式実験科学を評価する新ベンチマーク発表。)</description>
-</item>
-<item>
-<title>[75] Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips</title>
-<link>https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/</link>
-<guid isPermaLink="true">https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/</guid>
-<pubDate>Thu, 05 Nov 2026 17:05:16 +0000</pubDate>
-<category>Google DeepMind</category>
-<description> — Google DeepMind / score: 75 (Geminiの新モデルに関する公式発表)</description>
 </item>
 </channel>
 </rss>
