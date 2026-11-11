@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 11 Nov 2026 06:10:44 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 08:08:31 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 今日は毎月恒例「Windows Update」の日、1235件の脆弱性とOutlookのゼロデイ脆弱性を修正</title>
@@ -31,20 +31,20 @@
 <description>OpenAIは2026年11月4日、開発中のサイバーセキュリティ向けAIモデルを活用し、Linuxカーネルの脆弱性をエージェントが自律的に発見し検証した結果を発表した。 — gihyo.jp / score: 95 (AIによるLinuxカーネルの脆弱性大量発見と実証の画期的なニュース)</description>
 </item>
 <item>
+<title>[90] 「Git for Windows」v2.56.1が公開 ～6件の脆弱性を修正、任意コード実行のおそれも／本家Gitのv2.55.1、v2.54.1、v2.53.1、v2.52.1、v2.51.3、v2.50.2にも修正</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2155470.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2155470.html</guid>
+<pubDate>Wed, 11 Nov 2026 06:50:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>分散型バージョン管理システム「Git」のWindows版「Git for Windows」が11月11日（日本時間）、v2.56.1へとアップデートされた。ベースとなる「Git」に見つかった6件の脆弱性に対処したセキュリティアップデートとなっている。 — 窓の杜 / score: 90 (Git for Windowsの複数脆弱性修正パッチ)</description>
+</item>
+<item>
 <title>[90] Adobe、2026年11月のセキュリティ情報 ～9製品で110件の脆弱性を修正／「Photoshop 2025」には修正版なし</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2155461.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2155461.html</guid>
 <pubDate>Wed, 11 Nov 2026 05:30:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Adobeは11月10日（現地時間）、月例のセキュリティ情報を発表した。今回のセキュリティアップデートは「Connect」、「Experience Manager」、「Photoshop」、「Premiere」、「After Effects」など9製品が対象。修正対象のCVEは、製品間の重複はなく計110件にのぼる（括弧内は件数、最大深刻度、最大CVSS基本値、パッチ適用の優先度）。 — 窓の杜 / score: 90 (Adobeの複数製品における多数の脆弱性修正情報。)</description>
-</item>
-<item>
-<title>[90] 日商簿記などの受験者、最大98万人の個人情報漏えいか　外部サーバーに不正アクセス</title>
-<link>https://ascii.jp/elem/000/004/450/4450551/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/450/4450551/?rss</guid>
-<pubDate>Wed, 11 Nov 2026 04:30:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>日本商工会議所は11月10日、簿記などのネット試験の管理に使う外部サーバーに不正アクセスがあり、最大約98万人分（約197万件）の受験者情報が漏えいした可能性があると発表した。 — ASCII.jp / score: 90 (大規模な個人情報の漏えい事案で影響が大きい)</description>
 </item>
 <item>
 <title>[90] Microsoft、.NET 11を正式リリース  ——C# 15にunion型を導入、CLIの起動負荷を削減</title>
@@ -215,12 +215,20 @@
 <description>How We Took Over ChatGPT Accounts Parameter Labs describe an exploit they found against ChatGPT's implementation of the artifacts pattern (OpenAI used to call this "Canvas" but it looks like the latest revision is called HTML previews ), where interactive custom HTML apps are displayed in a sandboxed iframe. It's important that HTML in these stays tightly sandboxed to avoid untrusted code interacting with OpenAI APIs and accessing private data. Parameter found quite a complex attack chain. OpenA — Simon Willison / score: 90 (ChatGPTアカウント乗っ取り脆弱性の解説)</description>
 </item>
 <item>
-<title>[85] GMOあおぞらネット銀行に不正な通信、APIを一時停止</title>
-<link>https://ascii.jp/elem/000/004/450/4450558/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/450/4450558/?rss</guid>
-<pubDate>Wed, 11 Nov 2026 04:55:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>GMOあおぞらネット銀行は11月11日、外部からの不正な通信を検知して一時停止していた銀行APIを、同日6時25分に再開したと発表した。 — ASCII.jp / score: 85 (金融機関のAPIにおけるセキュリティインシデント)</description>
+<title>[85] Google DeepMindがAIでコードを検証する「AlphaProof Code」を使ってSignalプロトコルの安全性の形式的検証に成功</title>
+<link>https://gigazine.net/news/20261111-google-deepmind-alphaproof-code-verification/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261111-google-deepmind-alphaproof-code-verification/</guid>
+<pubDate>Wed, 11 Nov 2026 07:05:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>Google DeepMindがソフトウェアの検証を行うためのマルチエージェントAIフレームワーク「AlphaProof Code」を発表しました。研究チームはAlphaProof Codeを用いて、Googleメッセージなどの暗号通信に使用されている「Signalプロトコル」が十分なセキュリティ保護機能を備えていることを数学的に証明することに成功しています。 続きを読む... — GIGAZINE / score: 85 (AIを用いたSignalプロトコルの形式的検証)</description>
+</item>
+<item>
+<title>[85] Windows 11の「ペイント」に脆弱性。まずはアップデートの確認を</title>
+<link>https://www.gizmodo.jp/article/2611-windows11-paint-vulnerability/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-windows11-paint-vulnerability/</guid>
+<pubDate>Wed, 11 Nov 2026 06:35:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>Windows 11のペイントに脆弱性が発覚しました。不正なプログラムを実行されるおそれがありますが、すでに修正版が公開されています。Microsoft Storeから最新版へアップデートを行いましょう。 — ギズモード・ジャパン / score: 85 (OSアプリの脆弱性とアップデート情報のため重要)</description>
 </item>
 <item>
 <title>[85] Notion AIのチャット記録が委託先から流出した可能性についてまとめてみた - piyolog</title>
@@ -231,14 +239,6 @@
 <description>2026年11月9日、Notionは、委託先のFireworks AIで発生したセキュリティインシデントにより、Notion AIの一部のチャット記録が流出した可能性があると公表しました。ここでは関連する情報をまとめます。 Fireworksで2経路の侵入 Notionが利用していた推論基盤のFireworksでは、2026年10月に内部認証情報の不正使用が見つ... — はてなブックマーク テクノロジー / score: 85 (Notion AIの委託先情報流出インシデント)</description>
 </item>
 <item>
-<title>[85] Notion AI、チャット記録漏えいの可能性　委託先に不正アクセス</title>
-<link>https://ascii.jp/elem/000/004/450/4450547/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/450/4450547/?rss</guid>
-<pubDate>Wed, 11 Nov 2026 04:15:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>Notionは11月9日、AI処理の委託先であるFireworks AIが不正アクセスを受け、「Notion AI」のチャット記録の一部が第三者に閲覧された可能性があると公表した。 — ASCII.jp / score: 85 (AIサービス委託先でのデータ漏えいの可能性)</description>
-</item>
-<item>
 <title>[85] 知っている相手からのGoogleカレンダー招待。ログインしたらアカウント乗っ取られるかも</title>
 <link>https://www.gizmodo.jp/article/google-calendar_invite_account_takeover/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/google-calendar_invite_account_takeover/</guid>
@@ -247,12 +247,20 @@
 <description>取引先からのカレンダー招待でも安心できません。見慣れた名前に、いつもの会社のアドレス。仕事中に届いたら、深く考えずに登録してしまいそうですよね。しかし最近、Googleカレンダーの招待を入り口に、Googleアカウントを乗っ取る攻撃が報告さ… — ギズモード・ジャパン / score: 85 (Googleカレンダーを悪用したアカウント乗っ取りの注意喚起)</description>
 </item>
 <item>
-<title>[85] NTTドコモで通信障害 原因調査中 | NHKニュース</title>
+<title>[85] “同じWi-Fiにいる誰か”に通信をのぞかれる？　「クライアント分離」を2秒で突破する攻撃　米大学が検証</title>
+<link>https://www.itmedia.co.jp/news/article/2611/11/2000003049/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/11/2000003049/</guid>
+<pubDate>Wed, 11 Nov 2026 03:23:04 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>クライアント分離には業界統一の標準規格がなく、メーカーごとに独自の実装がされてきたため、家庭用・法人用ルーターや大学ネットワークなど調査したすべての環境が、少なくともいずれかの攻撃によって分離機能を無効化され、通信の盗聴やデータ注入といった脅威にさらされることが判明した。 主な抜け道は3つ。1つ目は... — はてなブックマーク テクノロジー / score: 85 (Wi-Fiクライアント分離の脆弱性・攻撃手法)</description>
+</item>
+<item>
+<title>[85] NTTドコモ通信障害続く 不正アクセス確認されず | NHKニュース</title>
 <link>https://news.web.nhk/newsweb/na/nd-20261111de73934</link>
 <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261111de73934</guid>
 <pubDate>Wed, 11 Nov 2026 02:57:22 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>NTTドコモによりますと、全国で音声通話やデータ通信、ショートメールなどの携帯電話のサービスが利用しにくい状況が発生しているということです。 会社は原因の調査を進めていて、不正アクセスによるものか… — はてなブックマーク テクノロジー / score: 85 (大規模な通信障害であり社会的影響が非常に大きい)</description>
+<description>NTTドコモでは、11日午前10時半すぎから通信障害が発生し、一部の利用者の間で携帯電話のサービスが利用しづらくなっています。 会社は原因を調査していますが、今のところ不正アクセスによるものではない… — はてなブックマーク テクノロジー / score: 85 (大規模な通信障害であり社会的影響が非常に大きい)</description>
 </item>
 <item>
 <title>[85] Anthropicの新AIがチート級。OSを自作しブラックホールの難問も解いた、でも大丈夫かこれ？</title>
@@ -309,14 +317,6 @@
 <pubDate>Mon, 09 Nov 2026 22:02:06 +0000</pubDate>
 <category>気になる、記になる…</category>
 <description>本日、Appleが、visionOS向けの最新アップデートとなる「visionOS 27.2.1」をリリースしました。 「visionOS 27.2.1」には、Apple Vision Pro用のバグ修正とセキュリティア […] — 気になる、記になる… / score: 85 (visionOSのセキュリティアップデート)</description>
-</item>
-<item>
-<title>[85] Apple、セキュリティの修正を含んだ｢watchOS 26.6.1｣をリリース</title>
-<link>https://taisy0.com/2026/11/10/230204.html</link>
-<guid isPermaLink="true">https://taisy0.com/2026/11/10/230204.html</guid>
-<pubDate>Mon, 09 Nov 2026 22:00:23 +0000</pubDate>
-<category>気になる、記になる…</category>
-<description>本日、Appleが、「watchOS 26」向けの最新アップデートとなる「watchOS 26.6.1」を正式にリリースしました。 このアップデートには、Apple Watch用のバグ修正とセキュリティアップデートが含ま […] — 気になる、記になる… / score: 85 (watchOSのセキュリティアップデート)</description>
 </item>
 <item>
 <title>[85] Google、Kubernetesで10倍高密度にAIエージェントを実行可能にする「Agent Sustrate」と「gVisor」、オープンソースとしてCNCFに寄贈と発表</title>
@@ -415,12 +415,12 @@
 <description>Notable Changes This release marks the transition of Node.js 26.x into Long Term Support (LTS) with the codename 'Lithium'. It will continue to receive updates through to the end of April 2029. Other than updating metadata, such as the process.release object, to reflect that the release is LTS, no further changes from Node.js 26.12.1 are included. If you are updating from an earlier Long Term Support release (e.g. Node.js 24 or 22 or earlier) please note that since Node.js 25 the official binari — Node.js リリース / score: 85 (Node.jsのLTSメジャーバージョンリリース)</description>
 </item>
 <item>
-<title>[80] マイナカードで証明書が取れない！ コンビニ交付で全国408自治体に障害、約10時間後に復旧</title>
-<link>https://ascii.jp/elem/000/004/450/4450548/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/450/4450548/?rss</guid>
-<pubDate>Wed, 11 Nov 2026 04:25:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>マイナンバーカードを使ってコンビニで戸籍証明書などを取得するサービスで、11月10日6時30分ごろから障害が発生した。 — ASCII.jp / score: 80 (行政サービスシステムの広範囲な障害発生のため)</description>
+<title>[80] GitHubのシークレットスキャン、Actionsワークフローログ内の検出に対応</title>
+<link>https://codezine.jp/article/detail/30316</link>
+<guid isPermaLink="true">https://codezine.jp/article/detail/30316</guid>
+<pubDate>Wed, 11 Nov 2026 07:00:00 +0000</pubDate>
+<category>CodeZine</category>
+<description> — CodeZine / score: 80 (GitHubシークレットスキャンの機能拡張)</description>
 </item>
 <item>
 <title>[80] Claude内で表計算アプリをそのまま実行できる「Claude Sheets」が登場、「Claude Whiteboards」と「Claude Data」も</title>
@@ -431,12 +431,12 @@
 <description>Anthropicが、AIの「Claude」が取り扱うことができるツール群を発表しました。外部のツールではできなかった細かい作業を行えるようになります。 続きを読む... — GIGAZINE / score: 80 (主要AIプラットフォームの新しいツール群の発表)</description>
 </item>
 <item>
-<title>[80] 偽TikTokアプリによるスマートフォンの遠隔操作と不正決済についてまとめてみた - piyolog</title>
-<link>https://piyolog.hatenadiary.jp/entry/2026/11/11/094815</link>
-<guid isPermaLink="true">https://piyolog.hatenadiary.jp/entry/2026/11/11/094815</guid>
-<pubDate>Wed, 11 Nov 2026 01:21:35 +0000</pubDate>
+<title>[80] Googleの「最強」モデル「Gemini 4 Carbon」一般提供開始　Antigravityでのマルチエージェントチーム編成機能も</title>
+<link>https://www.itmedia.co.jp/aiplus/article/2611/11/2000003093/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2611/11/2000003093/</guid>
+<pubDate>Wed, 11 Nov 2026 02:13:04 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>2026年11月10日、福岡、兵庫、北海道の3道県警の合同捜査本部はTikTokを装う偽アプリでスマートフォンを遠隔操作し電子決済サービスを不正に使ったとして、中国籍の男2人を詐欺などの疑いで逮捕したと発表しました。ここでは関連する情報をまとめます。 全国に広がる偽アプリ被害 偽アプリをインストールさせてスマート... — はてなブックマーク テクノロジー / score: 80 (偽アプリによる遠隔操作と不正決済事件)</description>
+<description>米Googleは11月10日（現地時間）、同社AIモデルで「最強」とする「Gemini 4 Carbon」（以下、Carbon）の一般提供を開始した。セキュリティやナレッジワーク、コーディングなどにおいて米OpenAIの「GPT-6 Astra」や米Anthropicの「Claude Opus 5.5」を超える性能をうたう。また、大規模な開発プロジェクトを効率的に遂行... — はてなブックマーク テクノロジー / score: 80 (Googleの新型AIモデルGemini 4一般提供)</description>
 </item>
 <item>
 <title>[80] 電子チケットサービス「teket」への不正アクセスについてまとめてみた - piyolog</title>
@@ -575,12 +575,12 @@
 <description>中国企業のMiniMaxが画像生成AI「MiniMax-H3-Image」を公開しました。1600万ピクセルの画像を実用的な速度で生成できることを強みとしています。 続きを読む... — GIGAZINE / score: 75 (ローカル実行可能な高画質画像生成AIの登場)</description>
 </item>
 <item>
-<title>[75] 「iCloud」で朝から障害　「ログインできない」ユーザー混乱、メールやカレンダーも</title>
-<link>https://www.itmedia.co.jp/news/article/2611/11/2000003090/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/11/2000003090/</guid>
-<pubDate>Wed, 11 Nov 2026 01:07:25 +0000</pubDate>
+<title>[75] ChatGPTでビジネスを展開できる新機能　自社サイトのクリック数集計、顧客へのAIチャット提供など　一部機能は米国から</title>
+<link>https://www.itmedia.co.jp/aiplus/article/2611/11/2000003088/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2611/11/2000003088/</guid>
+<pubDate>Wed, 11 Nov 2026 00:34:24 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>米Appleの「iCloud」で日本時間11日朝から、一部のユーザーに障害が起きており、Xでは「iCloudにログインできない」などの声が出ている。 Appleのステータスページ日本版では、午前7時49分に障害が発生。同9時28分時点で「iCloudアカウントおよびサインイン」「iCloudカレンダー」など6つのサービスが、一部のユーザーで... — はてなブックマーク テクノロジー / score: 75 (主要クラウドサービスの障害で実害が大きい)</description>
+<description>米OpenAIは11月10日（現地時間）、企業がChatGPT上でのWebサイトのクリック数を集計したり、顧客にAIチャット機能を提供したりできる新機能「Businesses in ChatGPT」のβ版を発表した。 企業は「Business Hub」に自社の情報を登録することで、ChatGPT上での自社への言及数やWebサイトクリック数、Webサイトが引用されて... — はてなブックマーク テクノロジー / score: 75 (企業向けChatGPT新機能Businesses発表)</description>
 </item>
 <item>
 <title>[75] Microsoft、「Process Explorer」のMac版を公開 ～Sysinternalsの高機能タスクマネージャー／Windows版のコア機能を移植、macOS向けの独自機能も</title>
@@ -767,14 +767,6 @@
 <description>Text "Gemini Introducing Gemini Omni 1.2 Flash" surroudned by images of a beehive, animals in conversation, a squid, and a woman walking down a street — Google AI Blog / score: 75 (Googleの新しいGeminiモデルの発表)</description>
 </item>
 <item>
-<title>[75] Gemini Omni 1.2 Flash: Fast, cost-effective, and reliable video generation and editing now generally available</title>
-<link>https://cloud.google.com/blog/products/ai-machine-learning/gemini-omni-1-2-flash-generally-available/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/products/ai-machine-learning/gemini-omni-1-2-flash-generally-available/</guid>
-<pubDate>Thu, 05 Nov 2026 17:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>Today, Gemini Omni 1.2 Flash is generally available on Google Cloud. Built for the everyday videos businesses make in volume — like product videos, virtual try-ons, and ads — this model is fast, cost-effective, and follows your image, video and audio references more closely than before. Business users can create with it in Gemini for business and Google Vids, and developers can build with it via API. Here's what's new: A lower price: $0.07 per second of 720p video, 30% less than Gemini Omni 1.1  — Google Cloud Blog / score: 75 (動画生成・編集向けGeminiモデルの一般提供開始)</description>
-</item>
-<item>
 <title>[75] PFN、翻訳特化LLM「PLaMo 3 Translate」のモデル重みを公開、0.8Bから31Bまで4サイズ</title>
 <link>https://gihyo.jp/article/2026/11/plamo-3-translate-open-weights?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/11/plamo-3-translate-open-weights?utm_source=feed</guid>
@@ -805,6 +797,14 @@
 <pubDate>Wed, 04 Nov 2026 19:00:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>AWS Sign-In now supports OAuth 2.0 Token Exchange (RFC 8693), enabling applications to exchange third-party OpenID Connect (OIDC) tokens for short-lived, AWS service-scoped OAuth access tokens. This allows customers to securely integrate third-party applications with supported AWS services without sharing AWS credentials, while maintaining access controls through AWS Identity and Access Management (IAM). This capability is available for supported AWS services that use AWS Sign-In OAuth , enablin — AWS What's New / score: 75 (AWS Sign-InのOAuth 2.0 Token Exchange対応)</description>
+</item>
+<item>
+<title>[75] Introducing Images 2.6</title>
+<link>https://openai.com/index/introducing-images-2-6</link>
+<guid isPermaLink="true">https://openai.com/index/introducing-images-2-6</guid>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API. — OpenAI News / score: 75 (OpenAIの画像生成機能とAPIのアップデート)</description>
 </item>
 </channel>
 </rss>
