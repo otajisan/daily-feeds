@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 11 Nov 2026 16:07:01 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 18:06:33 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 今日は毎月恒例「Windows Update」の日、1235件の脆弱性とOutlookのゼロデイ脆弱性を修正</title>
@@ -29,6 +29,30 @@
 <pubDate>Thu, 05 Nov 2026 06:53:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>OpenAIは2026年11月4日、開発中のサイバーセキュリティ向けAIモデルを活用し、Linuxカーネルの脆弱性をエージェントが自律的に発見し検証した結果を発表した。 — gihyo.jp / score: 95 (AIによるLinuxカーネルの脆弱性大量発見と実証の画期的なニュース)</description>
+</item>
+<item>
+<title>[90] 2026-11-11, Version 26.13.1 'Lithium' (LTS), @aduh95</title>
+<link>https://github.com/nodejs/node/releases/tag/v26.13.1</link>
+<guid isPermaLink="true">https://github.com/nodejs/node/releases/tag/v26.13.1</guid>
+<pubDate>Wed, 11 Nov 2026 16:44:25 +0000</pubDate>
+<category>Node.js リリース</category>
+<description>This is a security release. Notable Changes (CVE-2026-123863) http2: release headers when a stream is removed (Matteo Collina) – High (CVE-2026-123864) tls,http: prevent nested parser execution from empty writes (Matteo Collina) – High (CVE-2026-123865) http2: detect streams abandoned by nghttp2 (Matteo Collina) – High (CVE-2026-123866) http2: retain buffers until socket writes finish (Matteo Collina) – High (CVE-2026-123872) tls: disable resumption for mTLS with no session id context (Tim Perry — Node.js リリース / score: 90 (Node.js v26の重要なセキュリティアップデートとCVE修正)</description>
+</item>
+<item>
+<title>[90] 2026-11-11, Version 24.22.3 'Krypton' (LTS), @aduh95</title>
+<link>https://github.com/nodejs/node/releases/tag/v24.22.3</link>
+<guid isPermaLink="true">https://github.com/nodejs/node/releases/tag/v24.22.3</guid>
+<pubDate>Wed, 11 Nov 2026 16:44:08 +0000</pubDate>
+<category>Node.js リリース</category>
+<description>This is a security release. Notable Changes (CVE-2026-123863) http2: release headers when a stream is removed (Matteo Collina) – High (CVE-2026-123864) tls,http: prevent nested parser execution from empty writes (Matteo Collina) – High (CVE-2026-123865) http2: detect streams abandoned by nghttp2 (Matteo Collina) – High (CVE-2026-123866) http2: retain buffers until socket writes finish (Matteo Collina) – High (CVE-2026-123872) tls: disable resumption for mTLS with no session id context (Tim Perry — Node.js リリース / score: 90 (Node.js v24 LTSの重要なセキュリティアップデート)</description>
+</item>
+<item>
+<title>[90] 2026-11-11, Version 22.23.5 'Jod' (LTS), @aduh95</title>
+<link>https://github.com/nodejs/node/releases/tag/v22.23.5</link>
+<guid isPermaLink="true">https://github.com/nodejs/node/releases/tag/v22.23.5</guid>
+<pubDate>Wed, 11 Nov 2026 16:44:03 +0000</pubDate>
+<category>Node.js リリース</category>
+<description>This is a security release. Notable Changes (CVE-2026-123863) http2: release headers when a stream is removed (Matteo Collina) – High (CVE-2026-123864) tls,http: prevent nested parser execution from empty writes (Matteo Collina) – High (CVE-2026-123865) http2: detect streams abandoned by nghttp2 (Matteo Collina) – High (CVE-2026-123866) http2: retain buffers until socket writes finish (Matteo Collina) – High (CVE-2026-123872) tls: disable resumption for mTLS with no session id context (Tim Perry — Node.js リリース / score: 90 (Node.js v22 LTSの重要なセキュリティアップデート)</description>
 </item>
 <item>
 <title>[90] Google Chromeを開きっぱなしの人は要注意。またもやセキュリティパッチが配信されました</title>
@@ -399,30 +423,6 @@
 <description>Node.js開発チームは2026年10月28日、Node.js 26.13.0をリリースし、このバージョンからNode.js 26.xが「Lithium」というコードネームで長期サポート（LTS）に移行することを発表した。 — gihyo.jp / score: 85 (Node.js 26.13.0のLTS移行とリリース)</description>
 </item>
 <item>
-<title>[85] Gemini 4 Carbon: our next frontier model</title>
-<link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/</link>
-<guid isPermaLink="true">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/</guid>
-<pubDate>Wed, 28 Oct 2026 17:00:00 +0000</pubDate>
-<category>Gemini (Google Blog)</category>
-<description>Gemini 4 Carbon is our strongest model with state-of-the-art cybersecurity and long horizon capabilities. — Gemini (Google Blog) / score: 85 (セキュリティと長期推論に優れたGemini 4 Carbon発表)</description>
-</item>
-<item>
-<title>[85] 2026-10-28, Version 26.13.0 'Lithium' (LTS), @richardlau</title>
-<link>https://github.com/nodejs/node/releases/tag/v26.13.0</link>
-<guid isPermaLink="true">https://github.com/nodejs/node/releases/tag/v26.13.0</guid>
-<pubDate>Wed, 28 Oct 2026 16:57:41 +0000</pubDate>
-<category>Node.js リリース</category>
-<description>Notable Changes This release marks the transition of Node.js 26.x into Long Term Support (LTS) with the codename 'Lithium'. It will continue to receive updates through to the end of April 2029. Other than updating metadata, such as the process.release object, to reflect that the release is LTS, no further changes from Node.js 26.12.1 are included. If you are updating from an earlier Long Term Support release (e.g. Node.js 24 or 22 or earlier) please note that since Node.js 25 the official binari — Node.js リリース / score: 85 (Node.jsのLTSメジャーバージョンリリース)</description>
-</item>
-<item>
-<title>[80] 新着情報詳細｜靖國神社</title>
-<link>https://www.yasukuni.or.jp/news_detail.html?id=734</link>
-<guid isPermaLink="true">https://www.yasukuni.or.jp/news_detail.html?id=734</guid>
-<pubDate>Wed, 11 Nov 2026 10:27:15 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>令和8年11月11日 靖國神社オンライン授与品・頒布品サイトへの不正アクセスによる個人情報漏洩のお詫びとお知らせ 令和8年11月11日 靖國神社社務所 令和8年10月28日、当神社が運営するオンライン授与品・頒布品サイトが外部から不正アクセスを受けたことが判明し、同日中に同サイトの公開を停止いたしました。その後の調... — はてなブックマーク テクノロジー / score: 80 (公式発表による不正アクセスと情報漏えいの詳細)</description>
-</item>
-<item>
 <title>[80] GitHubのシークレットスキャン、Actionsワークフローログ内の検出に対応</title>
 <link>https://codezine.jp/article/detail/30316</link>
 <guid isPermaLink="true">https://codezine.jp/article/detail/30316</guid>
@@ -565,6 +565,14 @@
 <pubDate>Wed, 11 Nov 2026 09:55:01 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>【速報】政府、AI開発事業者に罰則検討 政府が、高性能人工知能（AI）が引き起こすリスクに対処するため、サービス開発事業者への罰則を新設する方向で検討していることが11日、分かった。 — はてなブックマーク テクノロジー / score: 75 (政府のAI規制と罰則検討に関する重要なニュース)</description>
+</item>
+<item>
+<title>[75] 「警察庁推奨アプリ」ダウンロードページの偽サイトに注意！　SMSでダウンロード求める　トビラシステムズが注意喚起</title>
+<link>https://internet.watch.impress.co.jp/docs/news/2155633.html</link>
+<guid isPermaLink="true">https://internet.watch.impress.co.jp/docs/news/2155633.html</guid>
+<pubDate>Wed, 11 Nov 2026 09:33:37 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>「警察庁推奨アプリ」ダウンロードページの偽サイトに注意！ SMSでダウンロード求める トビラシステムズが注意喚起 — はてなブックマーク テクノロジー / score: 75 (警察庁推奨アプリを装った偽サイトのセキュリティ注意喚起)</description>
 </item>
 <item>
 <title>[75] 政府、高性能AI暴走に罰則検討　法改正、開発事業者が対象 | NEWSjp</title>
@@ -781,14 +789,6 @@
 <pubDate>Thu, 05 Nov 2026 17:00:00 +0000</pubDate>
 <category>Google AI Blog</category>
 <description>Text "Gemini Introducing Gemini Omni 1.2 Flash" surroudned by images of a beehive, animals in conversation, a squid, and a woman walking down a street — Google AI Blog / score: 75 (Googleの新しいGeminiモデルの発表)</description>
-</item>
-<item>
-<title>[75] Gemini Omni 1.2 Flash: Fast, cost-effective, and reliable video generation and editing now generally available</title>
-<link>https://cloud.google.com/blog/products/ai-machine-learning/gemini-omni-1-2-flash-generally-available/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/products/ai-machine-learning/gemini-omni-1-2-flash-generally-available/</guid>
-<pubDate>Thu, 05 Nov 2026 17:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>Today, Gemini Omni 1.2 Flash is generally available on Google Cloud. Built for the everyday videos businesses make in volume — like product videos, virtual try-ons, and ads — this model is fast, cost-effective, and follows your image, video and audio references more closely than before. Business users can create with it in Gemini for business and Google Vids, and developers can build with it via API. Here's what's new: A lower price: $0.07 per second of 720p video, 30% less than Gemini Omni 1.1  — Google Cloud Blog / score: 75 (動画生成・編集向けGeminiモデルの一般提供開始)</description>
 </item>
 <item>
 <title>[75] PFN、翻訳特化LLM「PLaMo 3 Translate」のモデル重みを公開、0.8Bから31Bまで4サイズ</title>
