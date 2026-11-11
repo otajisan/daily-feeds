@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 11 Nov 2026 10:06:30 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 12:09:31 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 今日は毎月恒例「Windows Update」の日、1235件の脆弱性とOutlookのゼロデイ脆弱性を修正</title>
@@ -215,12 +215,28 @@
 <description>How We Took Over ChatGPT Accounts Parameter Labs describe an exploit they found against ChatGPT's implementation of the artifacts pattern (OpenAI used to call this "Canvas" but it looks like the latest revision is called HTML previews ), where interactive custom HTML apps are displayed in a sandboxed iframe. It's important that HTML in these stays tightly sandboxed to avoid untrusted code interacting with OpenAI APIs and accessing private data. Parameter found quite a complex attack chain. OpenA — Simon Willison / score: 90 (ChatGPTアカウント乗っ取り脆弱性の解説)</description>
 </item>
 <item>
+<title>[85] AmazonがAIモデルの「Claude Sonnet 4.6」を独自開発の意志決定モデル「Strands Decider」に置き換えることで98％のコスト削減に成功</title>
+<link>https://gigazine.net/news/20261111-amazon-claude-sonnet-4-6-strands-decider/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261111-amazon-claude-sonnet-4-6-strands-decider/</guid>
+<pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>AmazonとAWSは、コストを抑えながら社内への問い合わせやシステムエラーをAIで自動仕分けするため、Anthropicのバランス型モデルである「Claude Sonnet 4.6」を利用してきました。これを意思決定モデルの「Strands Decider」に置き換えることで、98％のコスト削減に成功したと報告しています。 続きを読む... — GIGAZINE / score: 85 (AIモデル置換による大幅なコスト削減の事例)</description>
+</item>
+<item>
 <title>[85] 無料のメールソフト「Thunderbird」v160.0が公開 ～103件の脆弱性を修正／［メッセージフィルター］ダイアログで［Ctrl］＋［A］キーによる全選択が可能に</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2155542.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2155542.html</guid>
 <pubDate>Wed, 11 Nov 2026 09:22:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>Mozillaは11月10日、メールソフト「Thunderbird」の最新版v160.0を公開した。本リリースでは、利便性を向上させる新機能や仕様変更に加え、多数のバグ修正および重要なセキュリティアップデートが行われている。 — 窓の杜 / score: 85 (Thunderbirdの多数の脆弱性修正とアプデ)</description>
+</item>
+<item>
+<title>[85] OrcaRouter、Anthropic最新モデル「Claude Fable 5.2」のAPI提供を開始</title>
+<link>https://ascii.jp/elem/000/004/450/4450778/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/450/4450778/?rss</guid>
+<pubDate>Wed, 11 Nov 2026 08:50:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>OrcaRouter、Anthropic最新モデル「Claude Fable 5.2」のAPI提供を開始 — ASCII.jp / score: 85 (AIモデルのAPI提供開始に関する重要なニュース)</description>
 </item>
 <item>
 <title>[85] Mozilla、「Firefox 160」を正式リリース ～便利な「ミニウィンドウ」をテスト投入／99件の脆弱性を修正。ピクチャーインピクチャーで再生速度を変更、MKVの対応形式も拡充</title>
@@ -271,22 +287,6 @@
 <description>クライアント分離には業界統一の標準規格がなく、メーカーごとに独自の実装がされてきたため、家庭用・法人用ルーターや大学ネットワークなど調査したすべての環境が、少なくともいずれかの攻撃によって分離機能を無効化され、通信の盗聴やデータ注入といった脅威にさらされることが判明した。 主な抜け道は3つ。1つ目は... — はてなブックマーク テクノロジー / score: 85 (Wi-Fiクライアント分離の脆弱性・攻撃手法)</description>
 </item>
 <item>
-<title>[85] NTTドコモ通信障害続く 不正アクセス確認されず | NHKニュース</title>
-<link>https://news.web.nhk/newsweb/na/nd-20261111de73934</link>
-<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261111de73934</guid>
-<pubDate>Wed, 11 Nov 2026 02:57:22 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>NTTドコモでは、11日午前10時半すぎから通信障害が発生し、一部の利用者の間で携帯電話のサービスが利用しづらくなっています。 会社は原因を調査していますが、今のところ不正アクセスによるものではない… — はてなブックマーク テクノロジー / score: 85 (大規模な通信障害であり社会的影響が非常に大きい)</description>
-</item>
-<item>
-<title>[85] エディオン、クレカ番号＋セキュリティコードも一部漏えいか　決済処理に不正プログラム、エラーログにも記録</title>
-<link>https://www.itmedia.co.jp/news/article/2611/11/2000003091/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/11/2000003091/</guid>
-<pubDate>Wed, 11 Nov 2026 01:56:33 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>同社はカード情報をサーバに残さない仕組みを採用しており、6日の初報ではカード番号は漏えい対象に含まれていないとしていたが、新たに漏えいした可能性が判明した。 不正プログラムでカード番号、有効期限、名義人、セキュリティコード漏えいか 不正なプログラムは、PC向け決済情報入力処理に組み込まれ、11月4日午後7... — はてなブックマーク テクノロジー / score: 85 (決済処理システムの深刻なセキュリティインシデント)</description>
-</item>
-<item>
 <title>[85] Anthropicの新AIがチート級。OSを自作しブラックホールの難問も解いた、でも大丈夫かこれ？</title>
 <link>https://www.gizmodo.jp/article/2611-anthropic-claude-5-2-ai-os-black-hole/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/2611-anthropic-claude-5-2-ai-os-black-hole/</guid>
@@ -325,14 +325,6 @@
 <pubDate>Tue, 10 Nov 2026 04:39:15 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Anthropicは2026年11月9日、AIモデルClaude Fable 5.2とClaude Mythos 5.2を発表した。コーディングや画像理解を改善し、複雑な推論や長時間にわたるエージェント作業の性能を高めたという。 — gihyo.jp / score: 85 (Anthropicの新型AIモデル発表)</description>
-</item>
-<item>
-<title>[85] Apple、セキュリティの修正を含んだ｢visionOS 27.2.1｣をリリース</title>
-<link>https://taisy0.com/2026/11/10/230206.html</link>
-<guid isPermaLink="true">https://taisy0.com/2026/11/10/230206.html</guid>
-<pubDate>Mon, 09 Nov 2026 22:02:06 +0000</pubDate>
-<category>気になる、記になる…</category>
-<description>本日、Appleが、visionOS向けの最新アップデートとなる「visionOS 27.2.1」をリリースしました。 「visionOS 27.2.1」には、Apple Vision Pro用のバグ修正とセキュリティア […] — 気になる、記になる… / score: 85 (visionOSのセキュリティアップデート)</description>
 </item>
 <item>
 <title>[85] Google、Kubernetesで10倍高密度にAIエージェントを実行可能にする「Agent Sustrate」と「gVisor」、オープンソースとしてCNCFに寄贈と発表</title>
@@ -413,14 +405,6 @@
 <pubDate>Wed, 28 Oct 2026 16:57:41 +0000</pubDate>
 <category>Node.js リリース</category>
 <description>Notable Changes This release marks the transition of Node.js 26.x into Long Term Support (LTS) with the codename 'Lithium'. It will continue to receive updates through to the end of April 2029. Other than updating metadata, such as the process.release object, to reflect that the release is LTS, no further changes from Node.js 26.12.1 are included. If you are updating from an earlier Long Term Support release (e.g. Node.js 24 or 22 or earlier) please note that since Node.js 25 the official binari — Node.js リリース / score: 85 (Node.jsのLTSメジャーバージョンリリース)</description>
-</item>
-<item>
-<title>[80] 内閣府メールマガジン利用者のアドレス６万件以上が流出、氏名など漏えいの可能性…アララへの不正アクセスで（読売新聞オンライン） - Yahoo!ニュース</title>
-<link>https://news.yahoo.co.jp/articles/9767f53a1b495b9de43c9572ac91fb6371cc94e4</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/articles/9767f53a1b495b9de43c9572ac91fb6371cc94e4</guid>
-<pubDate>Wed, 11 Nov 2026 07:02:43 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>内閣府（読売新聞） 内閣府は１１日、配信しているメールマガジン利用者のメールアドレス６万２８６３件が流出したと発表した。企業向けメール配信サービスなどを手がけるアララが不正アクセスを受けた影響という。メールマガジンの登録時に入力された氏名や年齢などの個人情報も漏えいした可能性があり、調査を続けて... — はてなブックマーク テクノロジー / score: 80 (公的機関のメルマガ配信サービスにおける大規模情報流出)</description>
 </item>
 <item>
 <title>[80] GitHubのシークレットスキャン、Actionsワークフローログ内の検出に対応</title>
@@ -527,6 +511,38 @@
 <description>November 9, 2026 — Claude Fable 5.2 and Mythos 5.2 arrive on Anthropic’s IPO roadshow day. How much thinking is worth paying for? — Latent Space / score: 78 (主要LLMの性能逆転とIPO動向)</description>
 </item>
 <item>
+<title>[75] 政府、高性能AI暴走に罰則検討　悪質事業者に対抗手段へ法改正</title>
+<link>https://www.47news.jp/15215887.html</link>
+<guid isPermaLink="true">https://www.47news.jp/15215887.html</guid>
+<pubDate>Wed, 11 Nov 2026 10:56:38 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>政府が高性能人工知能（AI）が引き起こすリスクに対処するため、AI関連事業者に安全確保を義務付け、罰則を新設する方向で検討していることが11日分かった。AI法制度を議論する非公開の作業部会で確認した。年末までに法改正の内容を含めた制度見直しの全体像を示す。サイバー攻撃への悪用や暴走といった重大な脅威に対... — はてなブックマーク テクノロジー / score: 75 (AI事業者への安全確保義務化と法改正の動き)</description>
+</item>
+<item>
+<title>[75] ついにAIがあなたのフォトショを直接いじる。Adobe、主要アプリのMCP対応を予告</title>
+<link>https://www.gizmodo.jp/article/2611-adobe-max-2026-mcp-ai-agent/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-adobe-max-2026-mcp-ai-agent/</guid>
+<pubDate>Wed, 11 Nov 2026 10:30:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>Adobe MAX 2026で発表された主力アプリのMCP対応とAIエージェントによる直接編集機能について解説します。 — ギズモード・ジャパン / score: 75 (Adobe製品のMCP対応とAIによる自動化の発表)</description>
+</item>
+<item>
+<title>[75] 【速報】政府、AI開発事業者に罰則検討</title>
+<link>https://www.47news.jp/15215659.html</link>
+<guid isPermaLink="true">https://www.47news.jp/15215659.html</guid>
+<pubDate>Wed, 11 Nov 2026 09:55:01 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>【速報】政府、AI開発事業者に罰則検討 政府が、高性能人工知能（AI）が引き起こすリスクに対処するため、サービス開発事業者への罰則を新設する方向で検討していることが11日、分かった。 — はてなブックマーク テクノロジー / score: 75 (政府のAI規制と罰則検討に関する重要なニュース)</description>
+</item>
+<item>
+<title>[75] 政府、高性能AI暴走に罰則検討　法改正、開発事業者が対象 | NEWSjp</title>
+<link>https://news.jp/i/1493175213544620448</link>
+<guid isPermaLink="true">https://news.jp/i/1493175213544620448</guid>
+<pubDate>Wed, 11 Nov 2026 09:22:05 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>政府が、高性能人工知能（AI）が引き起こすリスクに対処するため、サービス開発事業者への罰則を新設する方向で検討していることが11日、分かった。AI法制度を議論する非公開の作業部会で確認した。サイバー攻撃への悪用や暴走といった重大な脅威を念頭に置く。 事業者に対しては、安全を確保する義務を課すことも視野に... — はてなブックマーク テクノロジー / score: 75 (政府の高性能AI暴走に対する罰則検討)</description>
+</item>
+<item>
 <title>[75] Google製高性能AI「Gemini 4 Carbon」が一般公開される、複数のAIが協力する新機能で3Dゲームを制作するデモも披露</title>
 <link>https://gigazine.net/news/20261111-gemini-4-carbon/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261111-gemini-4-carbon/</guid>
@@ -570,17 +586,9 @@
 <title>[75] 1600万画素の画像を生成できる画像生成AI「MiniMax-H3-Image」が登場、ローカルで実行可能で画像編集や複数画像参照にも対応</title>
 <link>https://gigazine.net/news/20261111-minimax-h3-image/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261111-minimax-h3-image/</guid>
-<pubDate>Wed, 11 Nov 2026 01:58:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>中国企業のMiniMaxが画像生成AI「MiniMax-H3-Image」を公開しました。1600万ピクセルの画像を実用的な速度で生成できることを強みとしています。 続きを読む... — GIGAZINE / score: 75 (ローカル実行可能な高画質画像生成AIの登場)</description>
-</item>
-<item>
-<title>[75] ChatGPTでビジネスを展開できる新機能　自社サイトのクリック数集計、顧客へのAIチャット提供など　一部機能は米国から</title>
-<link>https://www.itmedia.co.jp/aiplus/article/2611/11/2000003088/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2611/11/2000003088/</guid>
-<pubDate>Wed, 11 Nov 2026 00:34:24 +0000</pubDate>
+<pubDate>Wed, 11 Nov 2026 02:11:42 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>米OpenAIは11月10日（現地時間）、企業がChatGPT上でのWebサイトのクリック数を集計したり、顧客にAIチャット機能を提供したりできる新機能「Businesses in ChatGPT」のβ版を発表した。 企業は「Business Hub」に自社の情報を登録することで、ChatGPT上での自社への言及数やWebサイトクリック数、Webサイトが引用されて... — はてなブックマーク テクノロジー / score: 75 (企業向けChatGPT新機能Businesses発表)</description>
+<description>中国企業のMiniMaxが画像生成AI「MiniMax-H3-Image」を公開しました。1600万ピクセルの画像を実用的な速度で生成できることを強みとしています。 MiniMaxAI/MiniMax-H3-Image · Hugging Face https://huggingface.co/MiniMaxAI/MiniMax-H3-Image 4K image generation in 10 seconds! ⚡ Meet MiniMax H3-Image. 16 milli... — はてなブックマーク テクノロジー / score: 75 (ローカル実行可能な高画質画像生成AIの登場)</description>
 </item>
 <item>
 <title>[75] Microsoft、「Process Explorer」のMac版を公開 ～Sysinternalsの高機能タスクマネージャー／Windows版のコア機能を移植、macOS向けの独自機能も</title>
@@ -589,22 +597,6 @@
 <pubDate>Tue, 10 Nov 2026 23:58:58 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Microsoftは11月5日（現地時間）、「Process Explorer 1.0 for macOS」を公開した。Windowsプラットフォームで定番の高機能タスクマネージャー「Process Explorer」のMac版だ。 — 窓の杜 / score: 75 (Process ExplorerのMac版が公開)</description>
-</item>
-<item>
-<title>[75] GoogleのAIツール「Antigravity」に実装された“AI軍団が掲示版を使って仕事を進める新機能”がやばそうすぎる</title>
-<link>https://www.gizmodo.jp/article/2611-google-antigravity-swarm/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-google-antigravity-swarm/</guid>
-<pubDate>Tue, 10 Nov 2026 18:30:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>1000体起動とかもできちゃいそう（予算が許すなら）。2026年11月11日未明、Googleが同社のAIツール「Antigravity」に /swarm という機能をプレビュー実装すると発表しました。現時点ではAI Ultra加入者しか利… — ギズモード・ジャパン / score: 75 (GoogleのAIツールによる画期的な新機能のプレビュー)</description>
-</item>
-<item>
-<title>[75] Googleが新AI「Gemini 4 Carbon」をリリース。“空間推論”に優れ3D制作に使える。サブスクはUltraのみ</title>
-<link>https://www.gizmodo.jp/article/2611-gemini-4-carbon-release/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-gemini-4-carbon-release/</guid>
-<pubDate>Tue, 10 Nov 2026 16:35:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>2026年11月11日未明、Googleが新しいフラッグシップAI「Gemini 4 Carbon」をリリースしました。サブスクではAI Ultraユーザーのみ利用可となっています。APIやAI Studioでも利用できます。Carbonは… — ギズモード・ジャパン / score: 75 (Googleの新しいフラッグシップAIモデル発表)</description>
 </item>
 <item>
 <title>[75] Gemini 4 Carbon is now available</title>
@@ -805,6 +797,14 @@
 <pubDate>Wed, 04 Nov 2026 19:00:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>AWS Sign-In now supports OAuth 2.0 Token Exchange (RFC 8693), enabling applications to exchange third-party OpenID Connect (OIDC) tokens for short-lived, AWS service-scoped OAuth access tokens. This allows customers to securely integrate third-party applications with supported AWS services without sharing AWS credentials, while maintaining access controls through AWS Identity and Access Management (IAM). This capability is available for supported AWS services that use AWS Sign-In OAuth , enablin — AWS What's New / score: 75 (AWS Sign-InのOAuth 2.0 Token Exchange対応)</description>
+</item>
+<item>
+<title>[75] Introducing Images 2.6</title>
+<link>https://openai.com/index/introducing-images-2-6</link>
+<guid isPermaLink="true">https://openai.com/index/introducing-images-2-6</guid>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API. — OpenAI News / score: 75 (OpenAIの画像生成機能とAPIのアップデート)</description>
 </item>
 </channel>
 </rss>
