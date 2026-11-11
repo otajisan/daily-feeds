@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 11 Nov 2026 04:07:31 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 06:10:44 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 今日は毎月恒例「Windows Update」の日、1235件の脆弱性とOutlookのゼロデイ脆弱性を修正</title>
@@ -31,6 +31,30 @@
 <description>OpenAIは2026年11月4日、開発中のサイバーセキュリティ向けAIモデルを活用し、Linuxカーネルの脆弱性をエージェントが自律的に発見し検証した結果を発表した。 — gihyo.jp / score: 95 (AIによるLinuxカーネルの脆弱性大量発見と実証の画期的なニュース)</description>
 </item>
 <item>
+<title>[90] Adobe、2026年11月のセキュリティ情報 ～9製品で110件の脆弱性を修正／「Photoshop 2025」には修正版なし</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2155461.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2155461.html</guid>
+<pubDate>Wed, 11 Nov 2026 05:30:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Adobeは11月10日（現地時間）、月例のセキュリティ情報を発表した。今回のセキュリティアップデートは「Connect」、「Experience Manager」、「Photoshop」、「Premiere」、「After Effects」など9製品が対象。修正対象のCVEは、製品間の重複はなく計110件にのぼる（括弧内は件数、最大深刻度、最大CVSS基本値、パッチ適用の優先度）。 — 窓の杜 / score: 90 (Adobeの複数製品における多数の脆弱性修正情報。)</description>
+</item>
+<item>
+<title>[90] 日商簿記などの受験者、最大98万人の個人情報漏えいか　外部サーバーに不正アクセス</title>
+<link>https://ascii.jp/elem/000/004/450/4450551/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/450/4450551/?rss</guid>
+<pubDate>Wed, 11 Nov 2026 04:30:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>日本商工会議所は11月10日、簿記などのネット試験の管理に使う外部サーバーに不正アクセスがあり、最大約98万人分（約197万件）の受験者情報が漏えいした可能性があると発表した。 — ASCII.jp / score: 90 (大規模な個人情報の漏えい事案で影響が大きい)</description>
+</item>
+<item>
+<title>[90] Microsoft、.NET 11を正式リリース  ——C# 15にunion型を導入、CLIの起動負荷を削減</title>
+<link>https://gihyo.jp/article/2026/11/dotnet-11?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/11/dotnet-11?utm_source=feed</guid>
+<pubDate>Wed, 11 Nov 2026 04:22:13 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Microsoftは2026年11月10日、アプリケーション開発基盤.NETの新バージョン「.NET 11」を正式リリースした。 — gihyo.jp / score: 90 (.NET 11正式リリースとC# 15の新機能)</description>
+</item>
+<item>
 <title>[90] 2カ月連続で脆弱性1,000件超え ～Microsoftが2026年11月「Windows Update」を実施／「緊急」は64件、悪用確認は「Outlook」の1件。企業・教育向け「Windows 11 23H2」は今回が最後</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2155377.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2155377.html</guid>
@@ -47,14 +71,6 @@
 <description>本日、Microsoftが、2026年11月のセキュリティ更新プログラム（月例パッチ）をリリースしています。 今月の更新プログラムでは、Windows、Windows Server、Office、SharePoint、E […] — 気になる、記になる… / score: 90 (Microsoftの月例セキュリティ更新と多数の脆弱性修正)</description>
 </item>
 <item>
-<title>[90] スキマバイト「シェアフル」に不正アクセス　最大750万アカウント漏えいか　給与振込用の口座情報なども</title>
-<link>https://www.itmedia.co.jp/news/article/2611/10/2000003072/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/10/2000003072/</guid>
-<pubDate>Tue, 10 Nov 2026 18:29:45 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>スキマバイトアプリ「シェアフル」を運営するシェアフル（東京都港区）は11月9日、社内管理システムへの不正アクセスにより、最大約750万件のユーザーアカウントに関する個人情報が流出した可能性があると発表した。給与振込用の銀行口座情報や住所、電話番号などが含まれる。この他、最大約7500社の法人情報も流出した... — はてなブックマーク テクノロジー / score: 90 (数百万規模の個人情報・口座情報流出の深刻なセキュリティ事案)</description>
-</item>
-<item>
 <title>[90] マイクロソフト、.NET 11正式リリース。C#に共用型を導入、JITやAOTコンパイラの高速化、コマンドラインツール強化など新機能</title>
 <link>https://www.publickey1.jp/blog/26/net_11cjitaot.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/net_11cjitaot.html</guid>
@@ -69,14 +85,6 @@
 <pubDate>Tue, 10 Nov 2026 13:00:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>一部の自動車メーカーのシステムに脆弱(ぜいじゃく)性が存在し、車のドアを遠隔操作で解錠したりエンジンを始動したりできる状態だったことがセキュリティ研究者によって報告されました。メーカー名は公表されていませんが、トヨタとレクサスが該当する可能性が指摘されています。 続きを読む... — GIGAZINE / score: 90 (自動車の遠隔操作に関する重大なセキュリティ脆弱性)</description>
-</item>
-<item>
-<title>[90] 商工会議所ネット試験管理システムへの不正アクセスによる受験者情報（個人情報）漏えいの可能性について｜日本商工会議所</title>
-<link>https://www.jcci.or.jp/news/news/2026/1110170000.html</link>
-<guid isPermaLink="true">https://www.jcci.or.jp/news/news/2026/1110170000.html</guid>
-<pubDate>Tue, 10 Nov 2026 12:45:02 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>当所がネット試験で利用している外部サーバー（試験管理システム）への不正アクセスが確認され、最大約98万人分（約197万件）の受験者情報が漏えいした可能性があることが判明いたしました。 現時点において、当該受験者情報が漏えいした事実や、不正利用された事実は確認されておりません。 受験者をはじめ関係者の皆様... — はてなブックマーク テクノロジー / score: 90 (約98万人分の個人情報漏えいの可能性)</description>
 </item>
 <item>
 <title>[90] Introducing AlphaProof Code: a breakthrough in verifying complex software at depth</title>
@@ -207,6 +215,30 @@
 <description>How We Took Over ChatGPT Accounts Parameter Labs describe an exploit they found against ChatGPT's implementation of the artifacts pattern (OpenAI used to call this "Canvas" but it looks like the latest revision is called HTML previews ), where interactive custom HTML apps are displayed in a sandboxed iframe. It's important that HTML in these stays tightly sandboxed to avoid untrusted code interacting with OpenAI APIs and accessing private data. Parameter found quite a complex attack chain. OpenA — Simon Willison / score: 90 (ChatGPTアカウント乗っ取り脆弱性の解説)</description>
 </item>
 <item>
+<title>[85] GMOあおぞらネット銀行に不正な通信、APIを一時停止</title>
+<link>https://ascii.jp/elem/000/004/450/4450558/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/450/4450558/?rss</guid>
+<pubDate>Wed, 11 Nov 2026 04:55:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>GMOあおぞらネット銀行は11月11日、外部からの不正な通信を検知して一時停止していた銀行APIを、同日6時25分に再開したと発表した。 — ASCII.jp / score: 85 (金融機関のAPIにおけるセキュリティインシデント)</description>
+</item>
+<item>
+<title>[85] Notion AIのチャット記録が委託先から流出した可能性についてまとめてみた - piyolog</title>
+<link>https://piyolog.hatenadiary.jp/entry/2026/11/11/125745</link>
+<guid isPermaLink="true">https://piyolog.hatenadiary.jp/entry/2026/11/11/125745</guid>
+<pubDate>Wed, 11 Nov 2026 04:18:22 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>2026年11月9日、Notionは、委託先のFireworks AIで発生したセキュリティインシデントにより、Notion AIの一部のチャット記録が流出した可能性があると公表しました。ここでは関連する情報をまとめます。 Fireworksで2経路の侵入 Notionが利用していた推論基盤のFireworksでは、2026年10月に内部認証情報の不正使用が見つ... — はてなブックマーク テクノロジー / score: 85 (Notion AIの委託先情報流出インシデント)</description>
+</item>
+<item>
+<title>[85] Notion AI、チャット記録漏えいの可能性　委託先に不正アクセス</title>
+<link>https://ascii.jp/elem/000/004/450/4450547/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/450/4450547/?rss</guid>
+<pubDate>Wed, 11 Nov 2026 04:15:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>Notionは11月9日、AI処理の委託先であるFireworks AIが不正アクセスを受け、「Notion AI」のチャット記録の一部が第三者に閲覧された可能性があると公表した。 — ASCII.jp / score: 85 (AIサービス委託先でのデータ漏えいの可能性)</description>
+</item>
+<item>
 <title>[85] 知っている相手からのGoogleカレンダー招待。ログインしたらアカウント乗っ取られるかも</title>
 <link>https://www.gizmodo.jp/article/google-calendar_invite_account_takeover/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/google-calendar_invite_account_takeover/</guid>
@@ -223,22 +255,6 @@
 <description>NTTドコモによりますと、全国で音声通話やデータ通信、ショートメールなどの携帯電話のサービスが利用しにくい状況が発生しているということです。 会社は原因の調査を進めていて、不正アクセスによるものか… — はてなブックマーク テクノロジー / score: 85 (大規模な通信障害であり社会的影響が非常に大きい)</description>
 </item>
 <item>
-<title>[85] NTTドコモで通信障害　通話・SMS・データ通信利用しづらく</title>
-<link>https://ascii.jp/elem/000/004/450/4450434/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/450/4450434/?rss</guid>
-<pubDate>Wed, 11 Nov 2026 02:55:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>NTTドコモで11月11日午前、障害が発生。同日11時45分現在も、音声通話・データ通信・SMSが利用しづらい状況が続いている。 — ASCII.jp / score: 85 (ドコモの深刻な通信障害発生の速報)</description>
-</item>
-<item>
-<title>[85] ドコモ携帯 全国で障害が発生</title>
-<link>https://news.yahoo.co.jp/pickup/6602147?source=rss</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6602147?source=rss</guid>
-<pubDate>Wed, 11 Nov 2026 02:45:39 +0000</pubDate>
-<category>Yahoo!ニュース IT</category>
-<description> — Yahoo!ニュース IT / score: 85 (主要キャリアの大規模通信障害)</description>
-</item>
-<item>
 <title>[85] Anthropicの新AIがチート級。OSを自作しブラックホールの難問も解いた、でも大丈夫かこれ？</title>
 <link>https://www.gizmodo.jp/article/2611-anthropic-claude-5-2-ai-os-black-hole/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/2611-anthropic-claude-5-2-ai-os-black-hole/</guid>
@@ -247,20 +263,20 @@
 <description>Anthropicの新モデルClaude Fable 5.2とMythos 5.2の性能やOS自作、ブラックホールの謎解明などの成果と新たな懸念を解説します。 — ギズモード・ジャパン / score: 85 (Anthropicの新AIモデルの驚異的な性能解説)</description>
 </item>
 <item>
+<title>[85] Fireworks AI incident</title>
+<link>https://www.notion.com/ja/security/advisories/security-incident-involving-a-third-party-ai-vendor</link>
+<guid isPermaLink="true">https://www.notion.com/ja/security/advisories/security-incident-involving-a-third-party-ai-vendor</guid>
+<pubDate>Wed, 11 Nov 2026 00:55:24 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Updated version: November 10, 2026. This post informs you about the recent Fireworks AI Incident and how it’s impacting &lt;1% of Notion workspaces. For the latest on the Fireworks AI incident, please see their official updates here. We have contacted our customers who were affected by the Fireworks... — はてなブックマーク テクノロジー / score: 85 (Fireworks AIインシデントの公式情報)</description>
+</item>
+<item>
 <title>[85] Google、最強モデル「Gemini 4 Carbon」を一般公開 ～11月30日までは導入価格で半額／有償のAPIと「Google AI Ultra」で利用可能</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2155356.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2155356.html</guid>
 <pubDate>Wed, 11 Nov 2026 00:32:23 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Googleは11月10日（現地時間、以下同）、「Gemini 4 Carbon」の一般提供を開始した。10月28日の発表当初は、「Fairwind Program」を通じて一部のサイバーセキュリティの防御担当者にのみ提供されていたが、一般のユーザーでも利用できるようになった。 — 窓の杜 / score: 85 (Google「Gemini 4 Carbon」の一般公開)</description>
-</item>
-<item>
-<title>[85] Google、「Gemini 4 Carbon」提供開始--AstraやFable対抗の最上位AI</title>
-<link>https://japan.cnet.com/article/35254674/</link>
-<guid isPermaLink="true">https://japan.cnet.com/article/35254674/</guid>
-<pubDate>Tue, 10 Nov 2026 23:32:37 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Carbonは、サイバーセキュリティー対策、長期にわたる自律的な作業、複雑なコーディングや科学研究など、多段階の課題を時間をかけて検証する用途に向けたモデル。ソフトウェア開発や資料分析などの一般的な知識作業には「Gemini 4 Argon」、特に難しい課題にはCarbonと使い分ける位置付けだ。 Googleが公表した性能評価... — はてなブックマーク テクノロジー / score: 85 (Googleの最上位AI「Gemini 4 Carbon」提供開始)</description>
 </item>
 <item>
 <title>[85] 「.NET MAUI 11」がついにXamarin由来のMonoランタイムから脱却、CoreCLRに統一</title>
@@ -399,12 +415,36 @@
 <description>Notable Changes This release marks the transition of Node.js 26.x into Long Term Support (LTS) with the codename 'Lithium'. It will continue to receive updates through to the end of April 2029. Other than updating metadata, such as the process.release object, to reflect that the release is LTS, no further changes from Node.js 26.12.1 are included. If you are updating from an earlier Long Term Support release (e.g. Node.js 24 or 22 or earlier) please note that since Node.js 25 the official binari — Node.js リリース / score: 85 (Node.jsのLTSメジャーバージョンリリース)</description>
 </item>
 <item>
+<title>[80] マイナカードで証明書が取れない！ コンビニ交付で全国408自治体に障害、約10時間後に復旧</title>
+<link>https://ascii.jp/elem/000/004/450/4450548/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/450/4450548/?rss</guid>
+<pubDate>Wed, 11 Nov 2026 04:25:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>マイナンバーカードを使ってコンビニで戸籍証明書などを取得するサービスで、11月10日6時30分ごろから障害が発生した。 — ASCII.jp / score: 80 (行政サービスシステムの広範囲な障害発生のため)</description>
+</item>
+<item>
 <title>[80] Claude内で表計算アプリをそのまま実行できる「Claude Sheets」が登場、「Claude Whiteboards」と「Claude Data」も</title>
 <link>https://gigazine.net/news/20261111-claude-sheets-whiteboards-data/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261111-claude-sheets-whiteboards-data/</guid>
 <pubDate>Wed, 11 Nov 2026 03:36:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>Anthropicが、AIの「Claude」が取り扱うことができるツール群を発表しました。外部のツールではできなかった細かい作業を行えるようになります。 続きを読む... — GIGAZINE / score: 80 (主要AIプラットフォームの新しいツール群の発表)</description>
+</item>
+<item>
+<title>[80] 偽TikTokアプリによるスマートフォンの遠隔操作と不正決済についてまとめてみた - piyolog</title>
+<link>https://piyolog.hatenadiary.jp/entry/2026/11/11/094815</link>
+<guid isPermaLink="true">https://piyolog.hatenadiary.jp/entry/2026/11/11/094815</guid>
+<pubDate>Wed, 11 Nov 2026 01:21:35 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>2026年11月10日、福岡、兵庫、北海道の3道県警の合同捜査本部はTikTokを装う偽アプリでスマートフォンを遠隔操作し電子決済サービスを不正に使ったとして、中国籍の男2人を詐欺などの疑いで逮捕したと発表しました。ここでは関連する情報をまとめます。 全国に広がる偽アプリ被害 偽アプリをインストールさせてスマート... — はてなブックマーク テクノロジー / score: 80 (偽アプリによる遠隔操作と不正決済事件)</description>
+</item>
+<item>
+<title>[80] 電子チケットサービス「teket」への不正アクセスについてまとめてみた - piyolog</title>
+<link>https://piyolog.hatenadiary.jp/entry/2026/11/11/075305</link>
+<guid isPermaLink="true">https://piyolog.hatenadiary.jp/entry/2026/11/11/075305</guid>
+<pubDate>Wed, 11 Nov 2026 00:02:14 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>2026年11月8日、電子チケットサービス「teket」を提供するteketは第三者からの不正アクセスにより顧客情報の一部が外部に流出したことを確認したと公表しました。ここでは関連する情報をまとめます。 「teket」の全サービス停止 teketは2026年11月5日、「teket」のサーバーに外部から不正なアクセスが行われた可能性が高... — はてなブックマーク テクノロジー / score: 80 (チケットサービスでの顧客情報不正流出)</description>
 </item>
 <item>
 <title>[80] .NET 8と.NET 9のサポートは昨日で終了。脆弱性が社会問題化している現在、.NET 10への移行を推奨</title>
@@ -479,14 +519,6 @@
 <description>AI が、広く使われるソフトウェア部品（コンポーネント）の脆弱性を見つけ始めました。Google の AI のエージェント（Big Sleep） は SQLite の脆弱性を、Google の AI で作ったテスト（OSS-Fuzz） は OpenSSL の脆弱性を見つけ... — Qiita 人気記事 / score: 80 (AIによるオープンソース部品の脆弱性発見の影響)</description>
 </item>
 <item>
-<title>[80] 「LibreOffice」にヒープバッファーオーバーフローの脆弱性、v26.2.6/26.8.1で修正済み／Anthropicがエージェントを使ったオープンソースのセキュリティ調査で発見</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2153899.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2153899.html</guid>
-<pubDate>Thu, 05 Nov 2026 07:17:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>The Document Foundationは11月5日、オープンソースのオフィスソフト「LibreOffice」で1件の脆弱性を修正したと発表した。本脆弱性はAnthropicがエージェントを使ってオープンソースプロジェクトのセキュリティを調査するなかで「Claude」が発見し、Ada Logics社が検証・報告したもの。「TrendAI Zero Day Initiative」と協力する匿名の研究者からも報告されている。 — 窓の杜 / score: 80 (LibreOfficeのヒープバッファーオーバーフロー脆弱性修正)</description>
-</item>
-<item>
 <title>[80] Scaling Git at OpenAI</title>
 <link>https://openai.com/index/scaling-git-at-openai</link>
 <guid isPermaLink="true">https://openai.com/index/scaling-git-at-openai</guid>
@@ -509,6 +541,22 @@
 <pubDate>Tue, 10 Nov 2026 06:34:44 +0000</pubDate>
 <category>Latent Space</category>
 <description>November 9, 2026 — Claude Fable 5.2 and Mythos 5.2 arrive on Anthropic’s IPO roadshow day. How much thinking is worth paying for? — Latent Space / score: 78 (主要LLMの性能逆転とIPO動向)</description>
+</item>
+<item>
+<title>[75] AMDがZen 6を採用した第6世代EPYCの出荷開始を発表</title>
+<link>https://gigazine.net/news/20261111-zen-6-epyc/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261111-zen-6-epyc/</guid>
+<pubDate>Wed, 11 Nov 2026 04:42:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>AMDがサーバー向けCPU「EPYC 9006シリーズ」の出荷開始を発表しました。 続きを読む... — GIGAZINE / score: 75 (AMDの次世代Zen 6サーバー向けEPYCの出荷開始。)</description>
+</item>
+<item>
+<title>[75] 「Qwen4」早くも登場、最上位「Qwen4-Max」を無料でも試せる</title>
+<link>https://pc.watch.impress.co.jp/docs/news/2155430.html</link>
+<guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2155430.html</guid>
+<pubDate>Wed, 11 Nov 2026 03:18:12 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>「Qwen4」早くも登場、最上位「Qwen4-Max」を無料でも試せる — はてなブックマーク テクノロジー / score: 75 (最新LLM「Qwen4」の無料公開ニュース)</description>
 </item>
 <item>
 <title>[75] Adobeが2027年のMCP対応を予告、PhotoshopやPremiere ProをAIエージェントから操作可能に</title>
@@ -575,14 +623,6 @@
 <description>Today, we’re making Gemini 4 Carbon available to developers, enterprises, scientists, and consumers. — Gemini (Google Blog) / score: 75 (Gemini 4 Carbonの一般提供開始)</description>
 </item>
 <item>
-<title>[75] Windowsに挑むAIネイティブOS「KORA」、元Cyanogen創業者らが発表</title>
-<link>https://pc.watch.impress.co.jp/docs/news/2155269.html</link>
-<guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2155269.html</guid>
-<pubDate>Tue, 10 Nov 2026 14:19:08 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Windowsに挑むAIネイティブOS「KORA」、元Cyanogen創業者らが発表 — はてなブックマーク テクノロジー / score: 75 (Windowsに挑むAIネイティブOS発表)</description>
-</item>
-<item>
 <title>[75] OpenAIのdots、複数のローカルPCを接続してタスクに使うPCを選択可能に</title>
 <link>https://gihyo.jp/article/2026/11/openai-dots-multiple-local-computers?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/11/openai-dots-multiple-local-computers?utm_source=feed</guid>
@@ -613,22 +653,6 @@
 <pubDate>Tue, 10 Nov 2026 06:57:51 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Metaは2026年11月9日、ツール呼び出しやコード修正、文書解析など、AIエージェントが繰り返す処理を低コストで実行するための小型モデルMuse Emberを発表した。同日から、コーディングエージェントのMuse Codeと、アプリケーションからモデルを利用するMeta Model APIで提供している。 — gihyo.jp / score: 75 (Metaによる効率的な小型AIモデルの発表)</description>
-</item>
-<item>
-<title>[75] Googleが新型AIチップ「TPU 8tx」「TPU 8i Max」を発表、AMD製CPUを採用した機密情報保護モデルと処理性能2倍のモデルが登場</title>
-<link>https://gigazine.net/news/20261110-google-tpu-8i-max-8tx/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261110-google-tpu-8i-max-8tx/</guid>
-<pubDate>Tue, 10 Nov 2026 05:40:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>Googleが2026年11月9日にAI処理に特化した第8世代TPUの新システム「TPU 8tx」と「TPU 8i Max」を発表しました。TPU 8txはAMD製CPUと組み合わせて機密データを安全に処理できるシステムで、TPU 8i Maxは2つのチップを組み合わせることで大量の情報を扱うAIの処理性能を高めています。 続きを読む... — GIGAZINE / score: 75 (Googleの新型AIチップおよび新システム発表)</description>
-</item>
-<item>
-<title>[75] 冷蔵庫狙った「前代未聞の」サイバー攻撃、フランスがイランを非難</title>
-<link>https://www.cnn.co.jp/world/35254638.html</link>
-<guid isPermaLink="true">https://www.cnn.co.jp/world/35254638.html</guid>
-<pubDate>Tue, 10 Nov 2026 01:46:22 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>（CNN） フランスで先月、スーパーマーケットの冷蔵・冷凍設備がサイバー攻撃を受けて大量の食品の廃棄を余儀なくされた事件について、フランスのジャンノエル・バロ外相は9日、イランが関与していたとの見方を示した。 今回のサイバー攻撃についてバロ外相は「規模も攻撃性も前代未聞だった」と記者団に語り、フランス... — はてなブックマーク テクノロジー / score: 75 (冷蔵庫を狙った前代未聞の大規模サイバー攻撃事件)</description>
 </item>
 <item>
 <title>[75] Claude Code を新しい Fable 5.2 に切り替えると速く安くなるのか。36回測ったら、Fable 5.1 より2割速く3割安く、費用は Opus 5.5 の1.6倍だった</title>
@@ -759,14 +783,6 @@
 <description>Preferred Networks（PFN）は2026年11月5日、翻訳特化LLM「PLaMo 3 Translate」のモデル重みをHugging Faceで公開した。0.8B、2B、8B、31Bの4サイズを用意し、利用する機器や求める翻訳品質に合わせて選べる。端末や社内サーバーで動かすことで、原文や訳文を外部サーバーに送らずに翻訳できる。 — gihyo.jp / score: 75 (PFNによる翻訳特化LLMのモデル重み公開)</description>
 </item>
 <item>
-<title>[75] 翻訳特化LLM「PLaMo 3 Translate」がオープンウェイトで公開、スマホでもオフライン翻訳／0.8Bから31Bまで4サイズ、年商10億円以下なら事前登録で商用も無償</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2153912.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2153912.html</guid>
-<pubDate>Thu, 05 Nov 2026 08:25:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>（株）Preferred Networks（PFN）は11月5日、翻訳特化の大規模言語モデル（LLM）「PLaMo 3 Translate」をオープンウェイトモデルとして「Hugging Face」で公開した。今年10月に発表され、同社のAI翻訳サービス「PLaMo翻訳」でも利用されているモデルで、日本語・英語を含む53言語の翻訳に対応する。 — 窓の杜 / score: 75 (PFNの翻訳特化LLMオープンウェイト公開)</description>
-</item>
-<item>
 <title>[75] Amazon EC2 now publishes ImdsV1Enabled CloudWatch metric</title>
 <link>https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-imdsv1enabled-cloudwatch-metric/</link>
 <guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-imdsv1enabled-cloudwatch-metric/</guid>
@@ -789,22 +805,6 @@
 <pubDate>Wed, 04 Nov 2026 19:00:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>AWS Sign-In now supports OAuth 2.0 Token Exchange (RFC 8693), enabling applications to exchange third-party OpenID Connect (OIDC) tokens for short-lived, AWS service-scoped OAuth access tokens. This allows customers to securely integrate third-party applications with supported AWS services without sharing AWS credentials, while maintaining access controls through AWS Identity and Access Management (IAM). This capability is available for supported AWS services that use AWS Sign-In OAuth , enablin — AWS What's New / score: 75 (AWS Sign-InのOAuth 2.0 Token Exchange対応)</description>
-</item>
-<item>
-<title>[75] Introducing Images 2.6</title>
-<link>https://openai.com/index/introducing-images-2-6</link>
-<guid isPermaLink="true">https://openai.com/index/introducing-images-2-6</guid>
-<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API. — OpenAI News / score: 75 (OpenAIの画像生成機能とAPIのアップデート)</description>
-</item>
-<item>
-<title>[75] GitHubが従来比180倍のスループット性能向上を実現へ、来年初頭に。AIエージェント時代に対応。GitHub Universe 2026</title>
-<link>https://www.publickey1.jp/blog/26/github180aigithub_universe_2026.html</link>
-<guid isPermaLink="true">https://www.publickey1.jp/blog/26/github180aigithub_universe_2026.html</guid>
-<pubDate>Tue, 03 Nov 2026 15:16:22 +0000</pubDate>
-<category>Publickey</category>
-<description>GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、AIエージェント時代に対応した大幅な性能向上を実現することを明らかにしました。 性能向上はGitHubの基盤... — Publickey / score: 75 (GitHubのAI関連の大きな性能向上発表)</description>
 </item>
 </channel>
 </rss>
