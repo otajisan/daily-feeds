@@ -4,15 +4,63 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 11 Nov 2026 18:06:33 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 20:06:12 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Gilbert + Tobin rethinks the business of law with AI</title>
 <link>https://openai.com/index/gilbert-tobin-sam-nickless</link>
 <guid isPermaLink="true">https://openai.com/index/gilbert-tobin-sam-nickless</guid>
-<pubDate>Wed, 11 Nov 2026 18:06:08 +0000</pubDate>
+<pubDate>Wed, 11 Nov 2026 20:05:46 +0000</pubDate>
 <category>OpenAI News</category>
 <description>A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin. — OpenAI News / score: 35 (AI導入の事例紹介だが一般的な内容にとどまる)</description>
+</item>
+<item>
+<title>Test your applications against AWS locally with AWS Emulator</title>
+<link>https://aws.amazon.com/blogs/aws/test-your-applications-against-aws-locally-with-aws-emulator/</link>
+<guid isPermaLink="true">https://aws.amazon.com/blogs/aws/test-your-applications-against-aws-locally-with-aws-emulator/</guid>
+<pubDate>Wed, 11 Nov 2026 19:00:44 +0000</pubDate>
+<category>AWS News Blog</category>
+<description>AWS Emulator is a free, open-source local emulator in Rust that lets developers test applications against nearly every AWS service on their own machine using the same CLI and SDK commands, with fidelity measured against real AWS behavior. — AWS News Blog / score: 80 (AWSのローカルエミュレータツールリリース)</description>
+</item>
+<item>
+<title>Browse tools.simonwillison.net by tag</title>
+<link>https://simonwillison.net/2026/Nov/11/tools-tags/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Nov/11/tools-tags/</guid>
+<pubDate>Wed, 11 Nov 2026 18:42:50 +0000</pubDate>
+<category>Simon Willison</category>
+<description>Browse tools.simonwillison.net by tag I've been wanting a better way to browse my collection of vibe-coded tools (244 and counting) for a while. I had a few Fable 5.2 credits left over before my weekly reset so I set it to work using tree-sitter to analyze the code for JavaScript APIs, libraries, and web API hosts used by each tool. The homepage now features tag clouds for browsing by each of those categories of tag: Tags: javascript , tools , ai , generative-ai , llms , claude , vibe-coding — Simon Willison / score: 40 (個人開発ツール群のタグ別ブラウジング機能追加)</description>
+</item>
+<item>
+<title>Gemini Decisions API: Fast, calibrated multimodal decisions</title>
+<link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/</link>
+<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/</guid>
+<pubDate>Wed, 11 Nov 2026 18:00:00 +0000</pubDate>
+<category>Google AI Blog</category>
+<description>Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions. — Google AI Blog / score: 75 (Googleの新しいGemini Decisions APIの発表)</description>
+</item>
+<item>
+<title>AWS Lambda MicroVMs now supports the x86 CPU architecture</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-microvms-x86-architecture/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-microvms-x86-architecture/</guid>
+<pubDate>Wed, 11 Nov 2026 18:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS Lambda MicroVMs now supports the x86 CPU architecture, so you can run your existing x86 applications, tools, and software dependencies without recompiling or porting them. When you create a MicroVM image, you can now choose between x86 and Arm (AWS Graviton) to give each user or job an isolated MicroVM on the architecture your workload uses. Lambda MicroVMs is a serverless compute primitive that provides VM-level isolation, near-instant launch and resume, and state preservation for running u — AWS What's New / score: 70 (AWS Lambda MicroVMsのx86対応)</description>
+</item>
+<item>
+<title>Amazon EKS Auto Mode now supports security groups for Pods</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eks-auto-mode-security-groups-for-pods/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eks-auto-mode-security-groups-for-pods/</guid>
+<pubDate>Wed, 11 Nov 2026 17:26:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon EKS Auto Mode now supports security groups for Pods, letting you apply dedicated Amazon EC2 security group rules to individual Pods. Different workloads on the same node can carry different security groups, giving your Pods network-level segmentation without creating separate node pools for each application. Security groups for Pods extends your existing AWS network controls to the Pod level, so your Pods can reach resources such as Amazon RDS and Amazon ElastiCache databases that authori — AWS What's New / score: 70 (Amazon EKS Auto Modeのセキュリティグループ対応)</description>
+</item>
+<item>
+<title>llm 0.37.2</title>
+<link>https://simonwillison.net/2026/Nov/11/llm/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Nov/11/llm/</guid>
+<pubDate>Wed, 11 Nov 2026 17:19:52 +0000</pubDate>
+<category>Simon Willison</category>
+<description>Release: llm 0.37.2 Fixes a security issue reported by Daniel de Araujo in GHSA-v9h7-jj4g-f862 and GHSA-r639-rr7r-x72w . LLM has a mechanism called extra-openai-models.yaml - now managed by the new-in-0.37 llm openai endpoint add command - for using LLM with OpenAI-compatible API endpoints from other providers. Daniel reported two ways this could accidentally send your configured OpenAI API key to one of those providers: if the key named by api_key_name had never been stored, or if a responses:  — Simon Willison / score: 85 (LLM CLIツールの脆弱性修正を含むアップデート)</description>
 </item>
 <item>
 <title>Talk it through with Gemini, now on Apple CarPlay</title>
@@ -757,54 +805,6 @@
 <pubDate>Wed, 11 Nov 2026 08:42:25 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>メール配信サービスを手掛けるユミルリンク（東京都渋谷区）は11月11日、10月19日に公表した不正アクセスについて、メールアドレスなど延べ4786万4147件の個人情報が外部に流出したと発表した。10月26日時点では最大約5162万件が流出した可能性があるとしていたが、その後の調査で件数を精査した。同社のメールサービス... — はてなブックマーク テクノロジー / score: 90 (数千万件規模の大規模な個人情報漏えい事案)</description>
-</item>
-<item>
-<title>ディズニープラス、Meta Questで3D作品が視聴可能に</title>
-<link>https://av.watch.impress.co.jp/docs/news/2155492.html</link>
-<guid isPermaLink="true">https://av.watch.impress.co.jp/docs/news/2155492.html</guid>
-<pubDate>Wed, 11 Nov 2026 08:39:39 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>ディズニープラス、Meta Questで3D作品が視聴可能に — はてなブックマーク テクノロジー / score: 40 (エンタメ系サービスの対応デバイス追加情報)</description>
-</item>
-<item>
-<title>パスキー設定の証券口座 侵入疑い</title>
-<link>https://news.yahoo.co.jp/pickup/6602193?source=rss</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6602193?source=rss</guid>
-<pubDate>Wed, 11 Nov 2026 08:33:52 +0000</pubDate>
-<category>Yahoo!ニュース IT</category>
-<description> — Yahoo!ニュース IT / score: 45 (パスキー設定口座への不正侵入に関する報道)</description>
-</item>
-<item>
-<title>Anthropic、Claude Sheets・Whiteboardsをベータ提供、Claude Dataは一般提供へ ——インタラクティブコネクターも更新、対応アプリをチャットの横や全画面で操作可能に</title>
-<link>https://gihyo.jp/article/2026/11/claude-whiteboards-and-sheets-and-data-and-interactive-connectors?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/11/claude-whiteboards-and-sheets-and-data-and-interactive-connectors?utm_source=feed</guid>
-<pubDate>Wed, 11 Nov 2026 08:26:07 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Anthropicは2026年11月10日、Claude内で利用者やチームがAIと共同編集できる表計算機能「Claude Sheets」とホワイトボード機能「Claude Whiteboards」のベータ提供を開始した。データ分析機能のClaude Dashboardsも「Claude Data」に改称し、一般提供へ移行した。 — gihyo.jp / score: 75 (Anthropicの主要サービス拡張と新機能ベータ提供)</description>
-</item>
-<item>
-<title>Mozilla、「Firefox 160」を正式リリース ～便利な「ミニウィンドウ」をテスト投入／99件の脆弱性を修正。ピクチャーインピクチャーで再生速度を変更、MKVの対応形式も拡充</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2155410.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2155410.html</guid>
-<pubDate>Wed, 11 Nov 2026 08:10:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>Mozillaは11月10日（米国時間）、デスクトップ向け「Firefox」の最新版v160.0をリリースチャネルで公開した。「Firefox 159」に続くメジャーバージョンアップとなる。 — 窓の杜 / score: 85 (Firefoxメジャーアプデと大量の脆弱性修正)</description>
-</item>
-<item>
-<title>Apple、｢Apple サポートコミュニティ｣を11月20日で閉鎖——既に新規投稿の受付は終了</title>
-<link>https://taisy0.com/2026/11/11/230263.html</link>
-<guid isPermaLink="true">https://taisy0.com/2026/11/11/230263.html</guid>
-<pubDate>Wed, 11 Nov 2026 08:05:41 +0000</pubDate>
-<category>気になる、記になる…</category>
-<description>Appleが、「Apple サポートコミュニティ」を2026年11月20日（金）をもって閉鎖することを案内しています。 また、閉鎖に先立ち、本日より新規投稿の受け付けを既に終了しており、閲覧のみ利用可能となっています。 […] — 気になる、記になる… / score: 40 (Appleサポートコミュニティの閉鎖告知)</description>
-</item>
-<item>
-<title>GitLab、AIエージェント向けコンテキストグラフ「GitLab Orbit」を一般提供</title>
-<link>https://codezine.jp/article/detail/30324</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/30324</guid>
-<pubDate>Wed, 11 Nov 2026 08:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 65 (GitLabの新機能リリースで開発効率に影響)</description>
 </item>
 </channel>
 </rss>

@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 11 Nov 2026 18:06:33 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 20:06:12 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 今日は毎月恒例「Windows Update」の日、1235件の脆弱性とOutlookのゼロデイ脆弱性を修正</title>
@@ -247,6 +247,14 @@
 <description>How We Took Over ChatGPT Accounts Parameter Labs describe an exploit they found against ChatGPT's implementation of the artifacts pattern (OpenAI used to call this "Canvas" but it looks like the latest revision is called HTML previews ), where interactive custom HTML apps are displayed in a sandboxed iframe. It's important that HTML in these stays tightly sandboxed to avoid untrusted code interacting with OpenAI APIs and accessing private data. Parameter found quite a complex attack chain. OpenA — Simon Willison / score: 90 (ChatGPTアカウント乗っ取り脆弱性の解説)</description>
 </item>
 <item>
+<title>[85] llm 0.37.2</title>
+<link>https://simonwillison.net/2026/Nov/11/llm/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Nov/11/llm/</guid>
+<pubDate>Wed, 11 Nov 2026 17:19:52 +0000</pubDate>
+<category>Simon Willison</category>
+<description>Release: llm 0.37.2 Fixes a security issue reported by Daniel de Araujo in GHSA-v9h7-jj4g-f862 and GHSA-r639-rr7r-x72w . LLM has a mechanism called extra-openai-models.yaml - now managed by the new-in-0.37 llm openai endpoint add command - for using LLM with OpenAI-compatible API endpoints from other providers. Daniel reported two ways this could accidentally send your configured OpenAI API key to one of those providers: if the key named by api_key_name had never been stored, or if a responses:  — Simon Willison / score: 85 (LLM CLIツールの脆弱性修正を含むアップデート)</description>
+</item>
+<item>
 <title>[85] AmazonがAIモデルの「Claude Sonnet 4.6」を独自開発の意志決定モデル「Strands Decider」に置き換えることで98％のコスト削減に成功</title>
 <link>https://gigazine.net/news/20261111-amazon-claude-sonnet-4-6-strands-decider/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261111-amazon-claude-sonnet-4-6-strands-decider/</guid>
@@ -423,6 +431,14 @@
 <description>Node.js開発チームは2026年10月28日、Node.js 26.13.0をリリースし、このバージョンからNode.js 26.xが「Lithium」というコードネームで長期サポート（LTS）に移行することを発表した。 — gihyo.jp / score: 85 (Node.js 26.13.0のLTS移行とリリース)</description>
 </item>
 <item>
+<title>[80] Test your applications against AWS locally with AWS Emulator</title>
+<link>https://aws.amazon.com/blogs/aws/test-your-applications-against-aws-locally-with-aws-emulator/</link>
+<guid isPermaLink="true">https://aws.amazon.com/blogs/aws/test-your-applications-against-aws-locally-with-aws-emulator/</guid>
+<pubDate>Wed, 11 Nov 2026 19:00:44 +0000</pubDate>
+<category>AWS News Blog</category>
+<description>AWS Emulator is a free, open-source local emulator in Rust that lets developers test applications against nearly every AWS service on their own machine using the same CLI and SDK commands, with fidelity measured against real AWS behavior. — AWS News Blog / score: 80 (AWSのローカルエミュレータツールリリース)</description>
+</item>
+<item>
 <title>[80] GitHubのシークレットスキャン、Actionsワークフローログ内の検出に対応</title>
 <link>https://codezine.jp/article/detail/30316</link>
 <guid isPermaLink="true">https://codezine.jp/article/detail/30316</guid>
@@ -525,6 +541,14 @@
 <pubDate>Tue, 10 Nov 2026 06:34:44 +0000</pubDate>
 <category>Latent Space</category>
 <description>November 9, 2026 — Claude Fable 5.2 and Mythos 5.2 arrive on Anthropic’s IPO roadshow day. How much thinking is worth paying for? — Latent Space / score: 78 (主要LLMの性能逆転とIPO動向)</description>
+</item>
+<item>
+<title>[75] Gemini Decisions API: Fast, calibrated multimodal decisions</title>
+<link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/</link>
+<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/</guid>
+<pubDate>Wed, 11 Nov 2026 18:00:00 +0000</pubDate>
+<category>Google AI Blog</category>
+<description>Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions. — Google AI Blog / score: 75 (Googleの新しいGemini Decisions APIの発表)</description>
 </item>
 <item>
 <title>[75] AlphaGenome 2: Deciphering how cells read DNA to better understand disease</title>
@@ -781,30 +805,6 @@
 <pubDate>Thu, 05 Nov 2026 17:05:16 +0000</pubDate>
 <category>Google DeepMind</category>
 <description> — Google DeepMind / score: 75 (Geminiの新モデルに関する公式発表)</description>
-</item>
-<item>
-<title>[75] Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips</title>
-<link>https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/</link>
-<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/</guid>
-<pubDate>Thu, 05 Nov 2026 17:00:00 +0000</pubDate>
-<category>Google AI Blog</category>
-<description>Text "Gemini Introducing Gemini Omni 1.2 Flash" surroudned by images of a beehive, animals in conversation, a squid, and a woman walking down a street — Google AI Blog / score: 75 (Googleの新しいGeminiモデルの発表)</description>
-</item>
-<item>
-<title>[75] PFN、翻訳特化LLM「PLaMo 3 Translate」のモデル重みを公開、0.8Bから31Bまで4サイズ</title>
-<link>https://gihyo.jp/article/2026/11/plamo-3-translate-open-weights?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/11/plamo-3-translate-open-weights?utm_source=feed</guid>
-<pubDate>Thu, 05 Nov 2026 11:27:18 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Preferred Networks（PFN）は2026年11月5日、翻訳特化LLM「PLaMo 3 Translate」のモデル重みをHugging Faceで公開した。0.8B、2B、8B、31Bの4サイズを用意し、利用する機器や求める翻訳品質に合わせて選べる。端末や社内サーバーで動かすことで、原文や訳文を外部サーバーに送らずに翻訳できる。 — gihyo.jp / score: 75 (PFNによる翻訳特化LLMのモデル重み公開)</description>
-</item>
-<item>
-<title>[75] Amazon EC2 now publishes ImdsV1Enabled CloudWatch metric</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-imdsv1enabled-cloudwatch-metric/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-imdsv1enabled-cloudwatch-metric/</guid>
-<pubDate>Thu, 05 Nov 2026 08:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Amazon EC2 now supports an ImdsV1Enabled CloudWatch metric, giving customers visibility into which of their EC2 instances still have Instance Metadata Service Version 1 (IMDSv1) enabled. You can use this metric to track your migration to IMDSv2 across your accounts and Regions, at scale. With the ImdsV1Enabled metric, you can configure CloudWatch dashboards and alarms to track instances that still allow IMDSv1, identify migration gaps, and prioritize remediation, without building your own toolin — AWS What's New / score: 75 (セキュリティ改善のためのIMDSv1可視化機能)</description>
 </item>
 </channel>
 </rss>
