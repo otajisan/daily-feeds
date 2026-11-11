@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 11 Nov 2026 00:15:28 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 02:08:30 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Google Chrome 157」にゼロデイ脆弱性、セキュリティアップデートが公開／すでに悪用を確認。Windows/Mac環境にはv157.0.8103.50/.51が展開</title>
@@ -21,6 +21,22 @@
 <pubDate>Thu, 05 Nov 2026 06:53:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>OpenAIは2026年11月4日、開発中のサイバーセキュリティ向けAIモデルを活用し、Linuxカーネルの脆弱性をエージェントが自律的に発見し検証した結果を発表した。 — gihyo.jp / score: 95 (AIによるLinuxカーネルの脆弱性大量発見と実証の画期的なニュース)</description>
+</item>
+<item>
+<title>[90] 2カ月連続で脆弱性1,000件超え ～Microsoftが2026年11月「Windows Update」を実施／「緊急」は64件、悪用確認は「Outlook」の1件。企業・教育向け「Windows 11 23H2」は今回が最後</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2155377.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2155377.html</guid>
+<pubDate>Wed, 11 Nov 2026 02:01:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Microsoftは11月10日（現地時間）、すべてのサポート中バージョンのWindowsに対し月例のセキュリティ更新プログラムをリリースした（パッチチューズデー）。現在、「Windows Update」や「Microsoft Update カタログ」などから入手可能。 — 窓の杜 / score: 90 (11月Windows Updateと多数の脆弱性修正)</description>
+</item>
+<item>
+<title>[90] Microsoft、2026年11月のセキュリティ更新プログラムをリリース ｰ 対象の脆弱性数は先月に続き1,000件超え</title>
+<link>https://taisy0.com/2026/11/11/230256.html</link>
+<guid isPermaLink="true">https://taisy0.com/2026/11/11/230256.html</guid>
+<pubDate>Wed, 11 Nov 2026 01:32:25 +0000</pubDate>
+<category>気になる、記になる…</category>
+<description>本日、Microsoftが、2026年11月のセキュリティ更新プログラム（月例パッチ）をリリースしています。 今月の更新プログラムでは、Windows、Windows Server、Office、SharePoint、E […] — 気になる、記になる… / score: 90 (Microsoftの月例セキュリティ更新と多数の脆弱性修正)</description>
 </item>
 <item>
 <title>[90] マイクロソフト、.NET 11正式リリース。C#に共用型を導入、JITやAOTコンパイラの高速化、コマンドラインツール強化など新機能</title>
@@ -111,30 +127,6 @@
 <description>米Anthropicは11月9日（現地時間）、「Claude Fable 5.2」「Claude Mythos 5.2」を発表した。もっとも困難な技術的課題に取り組むための同社最上位モデルで、「Fable 5.1」「Mythos 5.1」の後継にあたる。 — 窓の杜 / score: 90 (Anthropicの最新最上位モデル発表と性能向上)</description>
 </item>
 <item>
-<title>[90] Apple、｢iOS 18.7.12｣と｢iPadOS 18.7.12｣をリリース——複数の脆弱性を修正</title>
-<link>https://taisy0.com/2026/11/10/230199.html</link>
-<guid isPermaLink="true">https://taisy0.com/2026/11/10/230199.html</guid>
-<pubDate>Mon, 09 Nov 2026 21:56:55 +0000</pubDate>
-<category>気になる、記になる…</category>
-<description>本日、Appleが、「iOS 18」および「iPadOS 18」の最新バージョンである「iOS 18.7.12」と「iPadOS 18.7.12」をリリースしました。 両アップデートには、バグ修正とセキュリティアップデー […] — 気になる、記になる… / score: 90 (iOS/iPadOSの複数脆弱性修正)</description>
-</item>
-<item>
-<title>[90] Apple、複数の脆弱性の修正を含んだ｢iOS 26.7.3｣と｢iPadOS 26.7.3｣をリリース</title>
-<link>https://taisy0.com/2026/11/10/230197.html</link>
-<guid isPermaLink="true">https://taisy0.com/2026/11/10/230197.html</guid>
-<pubDate>Mon, 09 Nov 2026 21:55:47 +0000</pubDate>
-<category>気になる、記になる…</category>
-<description>本日、Appleが、「iOS 26」および「iPadOS 26」向けの最新アップデート「iOS 26.7.3」と「iPadOS 26.7.3」を正式にリリースしました。 このアップデートには、iPhoneおよびiPad用 […] — 気になる、記になる… / score: 90 (iOS/iPadOSの複数脆弱性修正)</description>
-</item>
-<item>
-<title>[90] Apple、セキュリティの修正を含んだ｢macOS Tahoe 26.7.3｣と｢macOS Sequoia 15.8.3｣をリリース</title>
-<link>https://taisy0.com/2026/11/10/230195.html</link>
-<guid isPermaLink="true">https://taisy0.com/2026/11/10/230195.html</guid>
-<pubDate>Mon, 09 Nov 2026 21:53:47 +0000</pubDate>
-<category>気になる、記になる…</category>
-<description>本日、Appleが、「macOS Tahoe 26.7.3」と「macOS Sequoia 15.8.3」をリリースしました。 これらのバージョンには重要なセキュリティ修正が含まれており、どちらも複数の脆弱性が修正されま […] — 気になる、記になる… / score: 90 (macOSの重要なセキュリティ修正)</description>
-</item>
-<item>
 <title>[90] Microsoft、更新プログラムの“すぐに適用”を呼び掛け ～AIで「パッチギャップ」のリスクが増大／修正の公開から攻撃まで“数時間以内”の時代、組織にマインド転換を</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2154654.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2154654.html</guid>
@@ -215,6 +207,30 @@
 <description>How We Took Over ChatGPT Accounts Parameter Labs describe an exploit they found against ChatGPT's implementation of the artifacts pattern (OpenAI used to call this "Canvas" but it looks like the latest revision is called HTML previews ), where interactive custom HTML apps are displayed in a sandboxed iframe. It's important that HTML in these stays tightly sandboxed to avoid untrusted code interacting with OpenAI APIs and accessing private data. Parameter found quite a complex attack chain. OpenA — Simon Willison / score: 90 (ChatGPTアカウント乗っ取り脆弱性の解説)</description>
 </item>
 <item>
+<title>[85] Anthropicの新AIがチート級。OSを自作しブラックホールの難問も解いた、でも大丈夫かこれ？</title>
+<link>https://www.gizmodo.jp/article/2611-anthropic-claude-5-2-ai-os-black-hole/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-anthropic-claude-5-2-ai-os-black-hole/</guid>
+<pubDate>Wed, 11 Nov 2026 01:30:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>Anthropicの新モデルClaude Fable 5.2とMythos 5.2の性能やOS自作、ブラックホールの謎解明などの成果と新たな懸念を解説します。 — ギズモード・ジャパン / score: 85 (Anthropicの新AIモデルの驚異的な性能解説)</description>
+</item>
+<item>
+<title>[85] Google、最強モデル「Gemini 4 Carbon」を一般公開 ～11月30日までは導入価格で半額／有償のAPIと「Google AI Ultra」で利用可能</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2155356.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2155356.html</guid>
+<pubDate>Wed, 11 Nov 2026 00:32:23 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Googleは11月10日（現地時間、以下同）、「Gemini 4 Carbon」の一般提供を開始した。10月28日の発表当初は、「Fairwind Program」を通じて一部のサイバーセキュリティの防御担当者にのみ提供されていたが、一般のユーザーでも利用できるようになった。 — 窓の杜 / score: 85 (Google「Gemini 4 Carbon」の一般公開)</description>
+</item>
+<item>
+<title>[85] Google、「Gemini 4 Carbon」提供開始--AstraやFable対抗の最上位AI</title>
+<link>https://japan.cnet.com/article/35254674/</link>
+<guid isPermaLink="true">https://japan.cnet.com/article/35254674/</guid>
+<pubDate>Tue, 10 Nov 2026 23:32:37 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Carbonは、サイバーセキュリティー対策、長期にわたる自律的な作業、複雑なコーディングや科学研究など、多段階の課題を時間をかけて検証する用途に向けたモデル。ソフトウェア開発や資料分析などの一般的な知識作業には「Gemini 4 Argon」、特に難しい課題にはCarbonと使い分ける位置付けだ。 Googleが公表した性能評価... — はてなブックマーク テクノロジー / score: 85 (Googleの最上位AI「Gemini 4 Carbon」提供開始)</description>
+</item>
+<item>
 <title>[85] 「.NET MAUI 11」がついにXamarin由来のMonoランタイムから脱却、CoreCLRに統一</title>
 <link>https://www.publickey1.jp/blog/26/net_maui_11xamarinmonocoreclr.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/net_maui_11xamarinmonocoreclr.html</guid>
@@ -231,20 +247,20 @@
 <description>本通知は、Notionが利用するサービス提供会社の1つ、Fireworks AIで発生したセキュリティインシデントについてのお知らせです。一部のNotionワークスペースに影響が及ぶ可能性があります。最新情報は、同社のセキュリティに関する公式更新一覧をご確認ください。 Notionセキュリティチームによる調査の結果、Notionワー... — はてなブックマーク テクノロジー / score: 85 (サードパーティ製AIの脆弱性と影響範囲に関する通知)</description>
 </item>
 <item>
+<title>[85] Amazon Bedrock adds bedrock-runtime endpoint support for Daybreak models</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/openai-gpt-daybreak-on-amazon-bedrock-runtime/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/openai-gpt-daybreak-on-amazon-bedrock-runtime/</guid>
+<pubDate>Tue, 10 Nov 2026 10:14:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Eligible customers can now access OpenAI’s specialized cybersecurity models Daybreak Red: GPT-5.6 Cyber and Daybreak Blue: GPT-5.6 Sol through the bedrock-runtime endpoint on Amazon Bedrock. Daybreak Blue is the starting point for most security teams across defensive workflows, including vulnerability discovery, detection engineering, and incident response. Daybreak Red is designed for advanced, authorized tasks such as vulnerability research, exploit reproduction, and mitigation development. Fo — AWS What's New / score: 85 (主要なAWSサービスとセキュリティ特化AIモデルの追加)</description>
+</item>
+<item>
 <title>[85] Anthropic、Claude Fable 5.2とMythos 5.2を発表  ——推論や画像理解を改善、長時間のエージェント作業も強化</title>
 <link>https://gihyo.jp/article/2026/11/claude-fable-and-mythos-5.2?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/11/claude-fable-and-mythos-5.2?utm_source=feed</guid>
 <pubDate>Tue, 10 Nov 2026 04:39:15 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Anthropicは2026年11月9日、AIモデルClaude Fable 5.2とClaude Mythos 5.2を発表した。コーディングや画像理解を改善し、複雑な推論や長時間にわたるエージェント作業の性能を高めたという。 — gihyo.jp / score: 85 (Anthropicの新型AIモデル発表)</description>
-</item>
-<item>
-<title>[85] ホワイトハウスのIPアドレス、誰でも数ドルでレンタルできた</title>
-<link>https://www.gizmodo.jp/article/anyone-can-rent-a-white-house-ip-address-for-a-few-dollars/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/anyone-can-rent-a-white-house-ip-address-for-a-few-dollars/</guid>
-<pubDate>Tue, 10 Nov 2026 04:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>ホワイトハウスのIPアドレスが一般向けの住宅用プロキシ経由で誰でも数ドルで利用可能になっていた問題について、無料アプリやSDKのリスクとともに解説します — ギズモード・ジャパン / score: 85 (インフラ・IPアドレス管理に関する深刻なセキュリティ問題。)</description>
 </item>
 <item>
 <title>[85] Apple、セキュリティの修正を含んだ｢visionOS 27.2.1｣をリリース</title>
@@ -261,14 +277,6 @@
 <pubDate>Mon, 09 Nov 2026 22:00:23 +0000</pubDate>
 <category>気になる、記になる…</category>
 <description>本日、Appleが、「watchOS 26」向けの最新アップデートとなる「watchOS 26.6.1」を正式にリリースしました。 このアップデートには、Apple Watch用のバグ修正とセキュリティアップデートが含ま […] — 気になる、記になる… / score: 85 (watchOSのセキュリティアップデート)</description>
-</item>
-<item>
-<title>[85] Apple、セキュリティの修正を含んだ｢watchOS 27.2.1｣をリリース</title>
-<link>https://taisy0.com/2026/11/10/230202.html</link>
-<guid isPermaLink="true">https://taisy0.com/2026/11/10/230202.html</guid>
-<pubDate>Mon, 09 Nov 2026 21:59:00 +0000</pubDate>
-<category>気になる、記になる…</category>
-<description>本日、Appleが、「watchOS 27」向けの最新アップデートとなる「watchOS 27.2.1」をリリースしました。 このアップデートには、Apple Watch用のセキュリティアップデートが含まれています。 な […] — 気になる、記になる… / score: 85 (watchOSのセキュリティアップデート)</description>
 </item>
 <item>
 <title>[85] Google、Kubernetesで10倍高密度にAIエージェントを実行可能にする「Agent Sustrate」と「gVisor」、オープンソースとしてCNCFに寄贈と発表</title>
@@ -375,14 +383,6 @@
 <description>マイクロソフトの包括的なソフトウェアフレームワーク「.NET 8」と「.NET 9」のサポートが昨日（2026年11月10日）終了しました。 .NET 8は今から3年前の2023年11月にリリースされ.NET 9はその1年後の2024年11... — Publickey / score: 80 (サポート終了とセキュリティリスクに関する警告)</description>
 </item>
 <item>
-<title>[80] AMD、Zen 6アーキテクチャを採用する次世代サーバー向けCPU「第6世代 EPYC（コードネーム：Venice）」を発表</title>
-<link>https://ascii.jp/elem/000/004/450/4450357/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/450/4450357/?rss</guid>
-<pubDate>Tue, 10 Nov 2026 17:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>米AMDは技術イベント「AMD In Depth 2026」において、Zen 6アーキテクチャを搭載した第6世代サーバー向けCPU「AMD EPYC 9006シリーズ（コードネーム：Venice）」の詳細を発表した。 — ASCII.jp / score: 80 (AMDの次世代サーバー向けCPUの発表)</description>
-</item>
-<item>
 <title>[80] Mac標準のcurlに残った証明書の穴を修正〜macOS27.2.1で実測</title>
 <link>https://iphone-mania.jp/mac-608540/</link>
 <guid isPermaLink="true">https://iphone-mania.jp/mac-608540/</guid>
@@ -487,6 +487,14 @@
 <description>November 9, 2026 — Claude Fable 5.2 and Mythos 5.2 arrive on Anthropic’s IPO roadshow day. How much thinking is worth paying for? — Latent Space / score: 78 (主要LLMの性能逆転とIPO動向)</description>
 </item>
 <item>
+<title>[75] 1600万画素の画像を生成できる画像生成AI「MiniMax-H3-Image」が登場、ローカルで実行可能で画像編集や複数画像参照にも対応</title>
+<link>https://gigazine.net/news/20261111-minimax-h3-image/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261111-minimax-h3-image/</guid>
+<pubDate>Wed, 11 Nov 2026 01:58:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>中国企業のMiniMaxが画像生成AI「MiniMax-H3-Image」を公開しました。1600万ピクセルの画像を実用的な速度で生成できることを強みとしています。 続きを読む... — GIGAZINE / score: 75 (ローカル実行可能な高画質画像生成AIの登場)</description>
+</item>
+<item>
 <title>[75] Microsoft、「Process Explorer」のMac版を公開 ～Sysinternalsの高機能タスクマネージャー／Windows版のコア機能を移植、macOS向けの独自機能も</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2155337.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2155337.html</guid>
@@ -501,14 +509,6 @@
 <pubDate>Tue, 10 Nov 2026 18:30:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>1000体起動とかもできちゃいそう（予算が許すなら）。2026年11月11日未明、Googleが同社のAIツール「Antigravity」に /swarm という機能をプレビュー実装すると発表しました。現時点ではAI Ultra加入者しか利… — ギズモード・ジャパン / score: 75 (GoogleのAIツールによる画期的な新機能のプレビュー)</description>
-</item>
-<item>
-<title>[75] AMDが最大256コアのZen 6世代組込み向けCPU「EPYC Embedded 9006」を発表、PCIe Gen 6とMRDIMMに対応</title>
-<link>https://ascii.jp/elem/000/004/450/4450358/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/450/4450358/?rss</guid>
-<pubDate>Tue, 10 Nov 2026 17:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>AMDが発表した第6世代の組込み向けプロセッサ「AMD EPYC Embedded 9006シリーズ SP7」は、最大256コアのコア密度と、PCIe Gen 6やCXL 3.1、MRDIMMなどの次世代高速インターフェースを統合し、AIインフラの急速な拡大にともなう処理能力やデータ転送の需要増大に対応する。 — ASCII.jp / score: 75 (AMDの次世代組込み向けCPUの発表)</description>
 </item>
 <item>
 <title>[75] Googleが新AI「Gemini 4 Carbon」をリリース。サブスクはUltraのみ利用可</title>
@@ -597,6 +597,14 @@
 <pubDate>Tue, 10 Nov 2026 03:30:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>Metaが2026年11月9日に発表した小型AIモデル「Muse Ember」について、AIモデルの評価を行うArtificial Analysis、Vals AI、Arena.aiなどがベンチマーク結果を公開しました。Muse Emberは競合モデルと同等以上の性能を低コストで実現していると評価されており、特にAIエージェントによる作業やウェブ開発で高いコストパフォーマンスを示しています。 続きを読む... — GIGAZINE / score: 75 (Metaの新型低コストAIモデルのベンチマーク)</description>
+</item>
+<item>
+<title>[75] 冷蔵庫狙った「前代未聞の」サイバー攻撃、フランスがイランを非難</title>
+<link>https://www.cnn.co.jp/world/35254638.html</link>
+<guid isPermaLink="true">https://www.cnn.co.jp/world/35254638.html</guid>
+<pubDate>Tue, 10 Nov 2026 01:46:22 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>（CNN） フランスで先月、スーパーマーケットの冷蔵・冷凍設備がサイバー攻撃を受けて大量の食品の廃棄を余儀なくされた事件について、フランスのジャンノエル・バロ外相は9日、イランが関与していたとの見方を示した。 今回のサイバー攻撃についてバロ外相は「規模も攻撃性も前代未聞だった」と記者団に語り、フランス... — はてなブックマーク テクノロジー / score: 75 (冷蔵庫を狙った前代未聞の大規模サイバー攻撃事件)</description>
 </item>
 <item>
 <title>[75] Claude Code を新しい Fable 5.2 に切り替えると速く安くなるのか。36回測ったら、Fable 5.1 より2割速く3割安く、費用は Opus 5.5 の1.6倍だった</title>
@@ -797,14 +805,6 @@
 <pubDate>Mon, 02 Nov 2026 18:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers. — OpenAI News / score: 75 (OpenAIのセキュリティバグ報奨金引き上げ)</description>
-</item>
-<item>
-<title>[75] [AINews] Building AIE CODE: The top Coding Agent Conference</title>
-<link>https://latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference/</link>
-<guid isPermaLink="true">https://latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference/</guid>
-<pubDate>Fri, 30 Oct 2026 08:24:29 +0000</pubDate>
-<category>Latent Space</category>
-<description>Mistral’s open-weight release, frontier monitoring, and the day’s AI Twitter and Reddit recaps. — Latent Space / score: 75 (コーディングエージェントの最新動向とOSS情報)</description>
 </item>
 </channel>
 </rss>
