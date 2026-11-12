@@ -4,15 +4,23 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 12 Nov 2026 12:09:10 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 14:06:47 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>[95] GitHub Actions を狙った広域サプライチェーン攻撃（11/10~11/12）に関する注意喚起 - GMO Flatt Security Blog</title>
+<link>https://blog.flatt.tech/entry/github_actions_widespread_supply_chain_attack</link>
+<guid isPermaLink="true">https://blog.flatt.tech/entry/github_actions_widespread_supply_chain_attack</guid>
+<pubDate>Thu, 12 Nov 2026 13:19:39 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>2026年11月10日から12日にかけて、GitHub 上の多数のリポジトリに対して悪性コミットにより GitHub Actions のワークフローに悪性コードが注入される事例が発生しています。 挿入されたコードは、ワークフローや npm フックが実行されると、CI環境内のシークレットを収集し、C2サーバーへのHTTP通信または Telegram Bot ... — はてなブックマーク テクノロジー / score: 95 (GitHub Actionsを狙った大規模なサプライチェーン攻撃の注意喚起)</description>
+</item>
 <item>
 <title>[95] 「Apache HTTP Server 2.4.71」が公開 ～深刻度「Critical」を含む3件の脆弱性を修正／「mod_http2」にリモートコード実行の欠陥、v2.4.55以降が影響</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2155719.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2155719.html</guid>
-<pubDate>Thu, 12 Nov 2026 04:05:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>The Apache Software Foundation（ASF）は11月11日（協定世界時）、「Apache HTTP Server 2.4.71」を公開した。3件の脆弱性に対処したセキュリティアップデートとなっている。 — 窓の杜 / score: 95 (Apache HTTP ServerのCritical脆弱性修正)</description>
+<pubDate>Thu, 12 Nov 2026 05:25:01 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>「Apache HTTP Server 2.4.71」が公開 ～深刻度「Critical」を含む3件の脆弱性を修正／「mod_http2」にリモートコード実行の欠陥、v2.4.55以降が影響 — はてなブックマーク テクノロジー / score: 95 (Apache HTTP ServerのCritical脆弱性修正)</description>
 </item>
 <item>
 <title>[95] Git、6件のセキュリティ脆弱性を修正した「Git 2.56.1」をリリース</title>
@@ -39,12 +47,36 @@
 <description>OpenAIは2026年11月4日、開発中のサイバーセキュリティ向けAIモデルを活用し、Linuxカーネルの脆弱性をエージェントが自律的に発見し検証した結果を発表した。 — gihyo.jp / score: 95 (AIによるLinuxカーネルの脆弱性大量発見と実証の画期的なニュース)</description>
 </item>
 <item>
+<title>[90] AWSをローカルマシン上でエミュレートする、AWS公式の「AWSエミューレタ」正式リリース</title>
+<link>https://www.publickey1.jp/blog/26/awsawsaws_1.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/awsawsaws_1.html</guid>
+<pubDate>Thu, 12 Nov 2026 14:06:17 +0000</pubDate>
+<category>Publickey</category>
+<description>Amazon Web Servicesは、ローカルマシン上でAWSのAPIをエミュレートする「AWSエミュレータ」の正式リリースを発表しました。 ダウンロードしてインストールすれば誰でも無料で利用でき、AWSアカウントも不要です。 Toda... — Publickey / score: 90 (AWS公式のローカルエミュレータ正式リリースで開発効率に直結する)</description>
+</item>
+<item>
+<title>[90] 【速報】NVIDIA CEOが辞任。暫定CEOにコレット氏</title>
+<link>https://www.gizmodo.jp/article/2611-nvidia-ceo-jensen-huang-resigns/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-nvidia-ceo-jensen-huang-resigns/</guid>
+<pubDate>Thu, 12 Nov 2026 14:05:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>NVIDIAのジェンスン・フアンCEOが即時辞任を発表しました。 — ギズモード・ジャパン / score: 90 (NVIDIA CEOの辞任という重大ニュース)</description>
+</item>
+<item>
 <title>[90] Intel製品に24件のセキュリティアドバイザリ ～全103件の脆弱性を修正／Wi-Fiやブートローダーなどに深刻度HIGHの脆弱性</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2155991.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2155991.html</guid>
 <pubDate>Thu, 12 Nov 2026 09:34:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Intelは11月10日（現地時間）、同社製の複数製品に脆弱性があるとして情報を公開した。全24件のアドバイザリが報告されている。 — 窓の杜 / score: 90 (Intel製品の多数の脆弱性修正とアドバイザリ)</description>
+</item>
+<item>
+<title>[90] Notionの「AIチャット流出懸念」影響広がる　国内企業が相次ぎ報告　「打ち合わせ内容」も漏えいか</title>
+<link>https://www.itmedia.co.jp/aiplus/article/2611/12/2000003140/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2611/12/2000003140/</guid>
+<pubDate>Thu, 12 Nov 2026 08:30:41 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>クラウド型ワークスペース「Notion」のAI機能「Notion AI」のチャット記録が漏えいした恐れがある事案の影響が広がっている。同事案に起因し、情報流出した可能性があるとする日本企業の報告が相次いでいる。 同事案はNotionを運営する米Notion Labsが11月9日（現地時間）に発表したもの。委託先である米Fireworks.aiへ... — はてなブックマーク テクノロジー / score: 90 (Notion AIのチャット記録漏えい懸念による国内企業への影響)</description>
 </item>
 <item>
 <title>[90] Microsoft、「.NET 11」を正式リリース ～共用体型を導入した「C# 15」も／2年間サポートのSTSリリース、「.NET MAUI」の既定ランタイムは「CoreCLR」に</title>
@@ -117,14 +149,6 @@
 <pubDate>Wed, 11 Nov 2026 02:01:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Microsoftは11月10日（現地時間）、すべてのサポート中バージョンのWindowsに対し月例のセキュリティ更新プログラムをリリースした（パッチチューズデー）。現在、「Windows Update」や「Microsoft Update カタログ」などから入手可能。 — 窓の杜 / score: 90 (11月Windows Updateと多数の脆弱性修正)</description>
-</item>
-<item>
-<title>[90] Microsoft、2026年11月のセキュリティ更新プログラムをリリース ｰ 対象の脆弱性数は先月に続き1,000件超え</title>
-<link>https://taisy0.com/2026/11/11/230256.html</link>
-<guid isPermaLink="true">https://taisy0.com/2026/11/11/230256.html</guid>
-<pubDate>Wed, 11 Nov 2026 01:32:25 +0000</pubDate>
-<category>気になる、記になる…</category>
-<description>本日、Microsoftが、2026年11月のセキュリティ更新プログラム（月例パッチ）をリリースしています。 今月の更新プログラムでは、Windows、Windows Server、Office、SharePoint、E […] — 気になる、記になる… / score: 90 (Microsoftの月例セキュリティ更新と多数の脆弱性修正)</description>
 </item>
 <item>
 <title>[90] マイクロソフト、.NET 11正式リリース。C#に共用型を導入、JITやAOTコンパイラの高速化、コマンドラインツール強化など新機能</title>
@@ -231,6 +255,22 @@
 <description>The November 2026 security release for Next.js is now available — Next.js Blog / score: 90 (重要フレームワークの緊急セキュリティアップデート)</description>
 </item>
 <item>
+<title>[85] 不倫問題＆スパイ疑惑のNVIDIA CEOに解任準備報道。次期CEOレースの候補はこちら</title>
+<link>https://www.gizmodo.jp/article/2611-nvidia-ceo-jensen-huang-successors/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-nvidia-ceo-jensen-huang-successors/</guid>
+<pubDate>Thu, 12 Nov 2026 13:30:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>NVIDIAのジェンスン・フアンCEOの不倫・スパイ疑惑と解任準備報道に伴う、次期CEOの候補は。 — ギズモード・ジャパン / score: 85 (NVIDIA CEOの解任準備と後継者報道)</description>
+</item>
+<item>
+<title>[85] 宝くじ公式サイト、会員の当落情報まで第三者が閲覧の可能性　リスト型攻撃か</title>
+<link>https://www.itmedia.co.jp/news/article/2611/12/2000003158/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/12/2000003158/</guid>
+<pubDate>Thu, 12 Nov 2026 10:14:04 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>宝くじを販売する全国の都道府県と指定都市は11月11日、停止中の「宝くじ公式サイト」で第三者が一部会員のアカウントに不正にログインし、購入したくじの当落を含む会員情報を閲覧した可能性があると発表した。外部で入手したメールアドレスとパスワードでログインを試す「リスト型攻撃」の可能性があるという。 第三者... — はてなブックマーク テクノロジー / score: 85 (宝くじ公式サイトでの情報閲覧の可能性とリスト型攻撃の注意喚起)</description>
+</item>
+<item>
 <title>[85] 無印良品「21年までクレカ番号で顧客を識別していた」　“全ケタ保有＆漏えい“巡り謝罪　削除漏れなぜ発生</title>
 <link>https://www.itmedia.co.jp/news/article/2611/12/2000003144/</link>
 <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/12/2000003144/</guid>
@@ -245,6 +285,22 @@
 <pubDate>Thu, 12 Nov 2026 07:52:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Microsoftは11月11日（現地時間）、「SQL Server」のリンクサーバークエリで作成された接続が、クエリの完了後も開いたままになることがある問題を明らかにした。2026年10月の月例セキュリティパッチ以降をサーバー環境に適用すると発生するという。 — 窓の杜 / score: 85 (SQL Serverの重大な接続問題と緊急修正予定の告知)</description>
+</item>
+<item>
+<title>[85] 「Node.js」にセキュリティ更新 ～16件の脆弱性を修正、HTTP/2関連が多数／v22.23.5、v24.22.3、v26.13.1が公開</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2155706.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2155706.html</guid>
+<pubDate>Thu, 12 Nov 2026 05:24:55 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>「Node.js」にセキュリティ更新 ～16件の脆弱性を修正、HTTP/2関連が多数／v22.23.5、v24.22.3、v26.13.1が公開 — はてなブックマーク テクノロジー / score: 85 (Node.jsの複数脆弱性を修正する重要アップデート)</description>
+</item>
+<item>
+<title>[85] 当社開発環境における情報漏えいのおそれに関するお知らせとお詫び（第一報） | 株式会社サイバーセキュリティクラウド</title>
+<link>https://www.cscloud.co.jp/news/info/20261112-2/</link>
+<guid isPermaLink="true">https://www.cscloud.co.jp/news/info/20261112-2/</guid>
+<pubDate>Thu, 12 Nov 2026 04:28:56 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>公開日：2026年11月12日 株式会社サイバーセキュリティクラウド 平素は格別のご高配を賜り、厚く御礼申し上げます。 このたび、当社がソフトウェア開発に利用している「GitHub」※上の当社管理領域への不審なアクセスを確認し、当該領域に保存されていた個人情報について漏えいのおそれがあることが判明したため、お知ら... — はてなブックマーク テクノロジー / score: 85 (セキュリティ企業でのGitHub管理領域への不審アクセスと情報漏えい懸念)</description>
 </item>
 <item>
 <title>[85] AWS Emulatorの一般提供が開始 ―ローカルマシン内でAWS APIをエミュレート、コーディングエージェントによる安全なテスト実行が可能に</title>
@@ -279,12 +335,12 @@
 <description>Google DeepMindが2026年11月11日に、DNAの塩基配列の違いが個々の細胞にどのような影響を与えるのかを予測するAIモデル「AlphaGenome 2」を発表しました。68種類の組織にわたる1億件以上の細胞データを用いて学習したAlphaGenome 2は、従来モデルと比べて遺伝子の発現に影響する変異を約2倍多く特定できるとのことです。 続きを読む... — GIGAZINE / score: 85 (DeepMindによる先進的AIモデル発表)</description>
 </item>
 <item>
-<title>[85] 「Node.js」にセキュリティ更新 ～16件の脆弱性を修正、HTTP/2関連が多数／v22.23.5、v24.22.3、v26.13.1が公開</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2155706.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2155706.html</guid>
-<pubDate>Thu, 12 Nov 2026 00:25:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>「Node.js」のセキュリティアップデートが11月11日（協定世界時）に実施された。今回リリースされたバージョンは、以下の通り。できるだけ早い更新が望ましい。 — 窓の杜 / score: 85 (Node.jsの複数脆弱性を修正する重要アップデート)</description>
+<title>[85] Node.js 22 / 24 / 26 の脆弱性、自分のアプリが影響を受けるか確認する方法【2026年11月】</title>
+<link>https://zenn.dev/rakko_inc/articles/nodejs-security-nov-2026-proxy</link>
+<guid isPermaLink="true">https://zenn.dev/rakko_inc/articles/nodejs-security-nov-2026-proxy</guid>
+<pubDate>Thu, 12 Nov 2026 02:31:30 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>Next.js や NestJS でアプリを書いていて、「Node.js の脆弱性が公表されたけれど、自分のアプリは対象なのか」を自分で判断したい人に向けた記事です。 2026年11月11日に、Node.js 22・24・26 系のセキュリティリリースが公表されました。深刻度が High の 7 件は、ロードバランサーや nginx の後ろで Node.js を動かしている構成には届きません。 TL;DR 今回の High の 7 件は、Node.js が自分で暗号化の通信（TLS）や HTTP/2 を処理しているときに起きる不具合でした。 ロードバランサーや nginx が手前で... — Zenn トレンド / score: 85 (Node.jsの脆弱性に対する影響確認方法の有用な解説)</description>
 </item>
 <item>
 <title>[85] Outlook.comがDMARC認証を受けていないドメインからのメールを拒否</title>
@@ -317,22 +373,6 @@
 <pubDate>Wed, 11 Nov 2026 17:00:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>AWS Emulator is now available for building and testing AWS applications locally. Starting today, you can use AWS Emulator to build and test AWS applications on your computer or in your continuous integration (CI) environment. Your existing AWS SDK and CLI calls go to AWS Emulator and come back in milliseconds, so you and your coding agents can find and fix errors locally, with no deployments or AWS account required. You create and manage resources with the same AWS SDK and AWS CLI calls you use  — AWS What's New / score: 85 (AWS公式のローカル開発用エミュレータ提供開始)</description>
-</item>
-<item>
-<title>[85] AmazonがAIモデルの「Claude Sonnet 4.6」を独自開発の意志決定モデル「Strands Decider」に置き換えることで98％のコスト削減に成功</title>
-<link>https://gigazine.net/news/20261111-amazon-claude-sonnet-4-6-strands-decider/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261111-amazon-claude-sonnet-4-6-strands-decider/</guid>
-<pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>AmazonとAWSは、コストを抑えながら社内への問い合わせやシステムエラーをAIで自動仕分けするため、Anthropicのバランス型モデルである「Claude Sonnet 4.6」を利用してきました。これを意思決定モデルの「Strands Decider」に置き換えることで、98％のコスト削減に成功したと報告しています。 続きを読む... — GIGAZINE / score: 85 (AIモデル置換による大幅なコスト削減の事例)</description>
-</item>
-<item>
-<title>[85] インシデント調査報告書チェックリスト公開のお知らせ</title>
-<link>https://www.jpcert.or.jp/ir_report_checklist_20261111.html</link>
-<guid isPermaLink="true">https://www.jpcert.or.jp/ir_report_checklist_20261111.html</guid>
-<pubDate>Wed, 11 Nov 2026 10:22:32 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>一般社団法人JPCERTコーディネーションセンター（東京都中央区、代表理事 菊池 浩明、以下「JPCERT/CC」）は、本日「インシデント調査報告書チェックリスト」を公開いたしました。 ・インシデント調査報告書チェックリスト https://jpcertcc.github.io/ir_report_checklist/（GitHub上で公開しています） 昨今、ランサム... — はてなブックマーク テクノロジー / score: 85 (セキュリティインシデント対応の公式チェックリスト公開)</description>
 </item>
 <item>
 <title>[85] 無料のメールソフト「Thunderbird」v160.0が公開 ～103件の脆弱性を修正／［メッセージフィルター］ダイアログで［Ctrl］＋［A］キーによる全選択が可能に</title>
@@ -413,6 +453,14 @@
 <pubDate>Thu, 12 Nov 2026 10:22:51 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>アンソロピックは2026年11月9日、1000のClaude Fable 5.2エージェントが、フェルマーの最終定理の証明を約30時間で形式化したと発表した。同社の技術記事によると、実験には初期版モデルを使い、60の目標命題や既存の47補題などを与えた。最終定理の形式化に要した時間は28.7時間だった。 形式化とは、数学の論証をコン... — はてなブックマーク テクノロジー / score: 80 (AIによる数学の形式化の進展を示す大規模な実験成果)</description>
+</item>
+<item>
+<title>[80] [新サービス] AWS Emulator 発表！実 AWS と比べ、Claude Code にローカルでテストと修正を繰り返させてみた | DevelopersIO</title>
+<link>https://dev.classmethod.jp/articles/20261112-aws-emulator/</link>
+<guid isPermaLink="true">https://dev.classmethod.jp/articles/20261112-aws-emulator/</guid>
+<pubDate>Thu, 12 Nov 2026 07:58:16 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>主な仕様は次のとおりです。 Linux では RPM パッケージまたは Debian パッケージで導入します。macOS と Windows ではドキュメントに掲載された Dockerfile からイメージをビルドし、コンテナで動かします（ビルド済みのイメージは公開されていません） 既定では 127.0.0.1:9297 で HTTPS を提供します。起動のたびに認... — はてなブックマーク テクノロジー / score: 80 (AWSエミュレータの検証レビューと導入手順の解説)</description>
 </item>
 <item>
 <title>[80] Google、新しい意思決定モデル「Gemini Decision 1」を搭載、最大1,000問を一度に高速判定する「Gemini Decisions API」を発表</title>
@@ -623,6 +671,14 @@
 <description>Gemini Decisions API Google join Jev and OpenAI in the decision model category with "Gemini Decision 1". This new model API is almost identical to Jev: it supports the same three types of questions (yes/no, choice, and rubric-scoring) and even reuses Jev's term "Noul" for a yes/no question. It's priced the same as the GPT-6 Luna decision model: 10 cents per million input tokens, and output is free. Jev remains the cheapest of the three, at 4.2 cents per million. Jev is text (and JSON) only. Open — Simon Willison / score: 75 (主要AIの意思決定モデルAPI追加のため)</description>
 </item>
 <item>
+<title>[75] How we built the agents that built AWS Emulator</title>
+<link>https://www.aboutamazon.com/news/aws/how-autonomous-ai-agents-built-aws-emulator</link>
+<guid isPermaLink="true">https://www.aboutamazon.com/news/aws/how-autonomous-ai-agents-built-aws-emulator</guid>
+<pubDate>Wed, 11 Nov 2026 20:27:09 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>AWS Emulator is a local emulator of AWS services, 100% written by autonomous AI agents.Thousands of autonomous agents write tests, find issues, and fix code without human review.The source code is available on GitHub under a CC0 license and is constantly being updated. I’m a terrible artist. I al... — はてなブックマーク テクノロジー / score: 75 (AIエージェントのみでAWSエミュレータを開発した事例の紹介)</description>
+</item>
+<item>
 <title>[75] PRの脆弱性をAIが直す「CodeMender」を見て、新卒が基礎を学ぶ理由を考えた</title>
 <link>https://qiita.com/N-Kyo/items/23697fc1e92c288b426b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
 <guid isPermaLink="true">https://qiita.com/N-Kyo/items/23697fc1e92c288b426b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
@@ -645,6 +701,14 @@
 <pubDate>Wed, 11 Nov 2026 11:17:30 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>OpenAIは2026年11月10日、事業者向けのBusinesses in ChatGPTのベータ提供を開始した。事業者は、プロフィールの管理権限の申請と本人確認が承認されると、紹介文や商品情報などをChatGPTに提供し、ChatGPT内のWebサイトへのリンクのクリック数などを確認できる。 — gihyo.jp / score: 75 (OpenAIの新機能ベータ公開とビジネスへの影響)</description>
+</item>
+<item>
+<title>[75] 【2026/11/11最新】Claude Data・Sheets・Whiteboards・connectors を Team プランで試した</title>
+<link>https://zenn.dev/canly/articles/9943093ef0c25c</link>
+<guid isPermaLink="true">https://zenn.dev/canly/articles/9943093ef0c25c</guid>
+<pubDate>Wed, 11 Nov 2026 09:49:21 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>はじめに 日本時間 2026/11/11(米国時間 11/10)、Claude の新機能・機能拡張が 4 つ同時に発表されました[1][2]。 Claude Data(正式版): 10 月に beta で出た Claude Dashboards が改名して正式版になったもの。BigQuery などのデータ基盤やアプリから、ダッシュボードやデータの読み物を作る Claude Sheets(beta): Claude と一緒に編集するスプレッドシート Claude Whiteboards(beta): Claude とチームで一緒に使うホワイトボード interactive c... — Zenn トレンド / score: 75 (Claudeの新機能や拡張機能群のチームプランでの検証記事)</description>
 </item>
 <item>
 <title>[75] Anthropic、Claude Sheets・Whiteboardsをベータ提供、Claude Dataは一般提供へ ——インタラクティブコネクターも更新、対応アプリをチャットの横や全画面で操作可能に</title>
@@ -741,70 +805,6 @@
 <pubDate>Mon, 09 Nov 2026 13:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>Running large-scale AI workloads on TPU and Google Kubernetes Engine (GKE) requires infrastructure that adapts as fast as your models change. To help, dynamic slicing decouples logical TPU slice formation from physical nodepool provisioning. Compared to creating a static nodepool for each TPU slice, dynamic slicing reduces AI workload startup times by up to 5x and workload recovery by 4.5x — maximizing TPU goodput, efficiency, and workload resilience at scale. GKE dynamic slicing is generally av — Google Cloud Blog / score: 75 (GKEのTPU向け動的スライシング機能のGA)</description>
-</item>
-<item>
-<title>[75] Amazon EKS Auto Mode and Karpenter now support Dynamic Resource Allocation</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eks-auto-mode-karpenter-dra/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eks-auto-mode-karpenter-dra/</guid>
-<pubDate>Mon, 09 Nov 2026 06:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Amazon Elastic Kubernetes Service (Amazon EKS) now supports Dynamic Resource Allocation (DRA) for NVIDIA GPUs and Elastic Fabric Adapter (EFA) network devices when using Amazon EKS Auto Mode and Karpenter. You can now define the device attributes your Kubernetes workloads need with DRA, share GPU devices across Pods, and allocate topology-aligned GPU and EFA devices while Amazon EKS Auto Mode and Karpenter dynamically scale Amazon EC2 instances based on workload demand. With DRA, you define Reso — AWS What's New / score: 75 (EKS Auto Modeの動的リソース割り当て対応)</description>
-</item>
-<item>
-<title>[75] Claude Platform release notes — November 9, 2026</title>
-<link>https://platform.claude.com/docs/en/release-notes/overview#claude-fable-5-2</link>
-<guid isPermaLink="true">https://platform.claude.com/docs/en/release-notes/overview#claude-fable-5-2</guid>
-<pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-<category>Claude リリースノート</category>
-<description>We’ve launched Claude Fable 5.2 ( claude-fable-5-2 ), built for demanding reasoning and long-horizon agentic work. Claude Mythos 5.2 ( claude-mythos-5-2 ) offers the same capabilities only to organizations verified through Anthropic’s verification programs, such as the Cyber Verification Program . Both models have a 1M token context window , 128k max output tokens, and always-on adaptive thinking . They cost $8 USD per MTok of input and $40 USD per MTok of output (Claude Fable 5.1 and Claude Myt — Claude リリースノート / score: 75 (Claudeプラットフォームのマネージドエージェント更新)</description>
-</item>
-<item>
-<title>[75] [AINews] Inkling 2 Small: 17A-594B trained in 68 hours on 12T tokens, beating Muse Spark</title>
-<link>https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark/</link>
-<guid isPermaLink="true">https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark/</guid>
-<pubDate>Fri, 06 Nov 2026 10:35:21 +0000</pubDate>
-<category>Latent Space</category>
-<description>November 5, 2026 — Inside Inkling 2 Small’s training run and METR’s study of AI research at Anthropic. — Latent Space / score: 75 (AIモデルのトレーニング詳細に関する速報)</description>
-</item>
-<item>
-<title>[75] Thinking Machines、AIモデルInkling 2 Smallを発表 ——重みも公開予定</title>
-<link>https://gihyo.jp/article/2026/11/inkling-2-small?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/11/inkling-2-small?utm_source=feed</guid>
-<pubDate>Fri, 06 Nov 2026 09:13:44 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Thinking Machinesは2026年11月5日、AIモデルInkling 2 Smallを発表した。同日から、同社のAPIサービスTinkerを通じて、Inkling 2 Smallによる推論や、用途にあわせた追加学習（ファインチューニング）を行える。 — gihyo.jp / score: 75 (新しいAIモデルの発表と重み公開のニュース)</description>
-</item>
-<item>
-<title>[75] X、Webアプリ基盤をゼロから再構築 ―3つのサーバーを統合し低速回線での表示を大幅にスピードアップ</title>
-<link>https://gihyo.jp/article/2026/11/rebuilding-x-web-app-server?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/11/rebuilding-x-web-app-server?utm_source=feed</guid>
-<pubDate>Fri, 06 Nov 2026 07:50:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Xのエンジニアリングチームは2026年11月4日、約10年間運用されてきた3種類のWebサーバーを統合し、新しい単一のWebアプリケーション基盤をゼロから構築したことを発表した。 — gihyo.jp / score: 75 (XのWeb基盤リプレイス事例と大規模構成)</description>
-</item>
-<item>
-<title>[75] AWS Security Hub now provides an SBOM inventory for your compute resources</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-sbom-inventory/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-sbom-inventory/</guid>
-<pubDate>Fri, 06 Nov 2026 00:30:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Today, AWS announces that AWS Security Hub now provides a Software Bill of Materials (SBOM) inventory, giving central security teams a continuously updated, organization-wide view of the software packages and applications installed on their compute resources. Security Hub builds the inventory from the SBOMs that Amazon Inspector generates for Amazon EC2 instances, Amazon ECR container images, and AWS Lambda functions, with no additional configuration. The SBOM page lists each package with its ve — AWS What's New / score: 75 (AWS Security HubのSBOMインベントリ機能追加)</description>
-</item>
-<item>
-<title>[75] Measuring how AI agents handle everyday wet-lab science</title>
-<link>https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science</link>
-<guid isPermaLink="true">https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science</guid>
-<pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science. — OpenAI News / score: 75 (AIエージェントの湿式実験科学を評価する新ベンチマーク発表。)</description>
-</item>
-<item>
-<title>[75] Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips</title>
-<link>https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/</link>
-<guid isPermaLink="true">https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/</guid>
-<pubDate>Thu, 05 Nov 2026 17:05:16 +0000</pubDate>
-<category>Google DeepMind</category>
-<description> — Google DeepMind / score: 75 (Geminiの新モデルに関する公式発表)</description>
 </item>
 </channel>
 </rss>
