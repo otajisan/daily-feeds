@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 12 Nov 2026 10:06:32 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 12:09:10 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Apache HTTP Server 2.4.71」が公開 ～深刻度「Critical」を含む3件の脆弱性を修正／「mod_http2」にリモートコード実行の欠陥、v2.4.55以降が影響</title>
@@ -53,14 +53,6 @@
 <pubDate>Thu, 12 Nov 2026 05:20:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Microsoftは11月10日（現地時間）、開発プラットフォーム「.NET」の最新版「.NET 11」を正式リリースした。「.NET 10」に続く年次アップデートで、2年間のサポートが保証された「Standard Term Support」（STS）リリースとなる。 — 窓の杜 / score: 90 (.NET 11およびC# 15のメジャーリリース)</description>
-</item>
-<item>
-<title>[90] Compromised GitHub accounts push CI secret stealer to tens of thousands of repositories</title>
-<link>https://www.aikido.dev/blog/compromised-github-accounts-push-ci-secret-stealer-to-tens-of-thousands-of-repositories</link>
-<guid isPermaLink="true">https://www.aikido.dev/blog/compromised-github-accounts-push-ci-secret-stealer-to-tens-of-thousands-of-repositories</guid>
-<pubDate>Thu, 12 Nov 2026 04:27:46 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Compromised GitHub accounts push CI secret stealer to tens of thousands of repositories Compromised GitHub accounts push CI secret stealer to tens of thousands of repositories Starting on November 10, a threat actor used stolen GitHub credentials to push a malicious workflow payload into tens of ... — はてなブックマーク テクノロジー / score: 90 (GitHubアカウント侵害とCIシークレット流出の重大なセキュリティインシデント)</description>
 </item>
 <item>
 <title>[90] 「Google Chrome」に今週2回目のセキュリティ更新、83件のCVEに対処、うち5件は「Critical」／Windows/Mac環境にはv157.0.8103.78/.79が展開</title>
@@ -207,14 +199,6 @@
 <description>The Apache Software Foundation（ASF）は11月6日（協定世界時）、「Apache HTTP Server 2.4.70」を公開した。以下の5つの問題に対処したアップデートとなっている。 — 窓の杜 / score: 90 (Apache HTTP Serverの脆弱性修正リリース)</description>
 </item>
 <item>
-<title>[90] AWSから4.3億円の課金が...バグと思われる高額請求された際にまずすること</title>
-<link>https://zenn.dev/tsumita7/articles/aoss-intelligent-ingestion-billing-202610</link>
-<guid isPermaLink="true">https://zenn.dev/tsumita7/articles/aoss-intelligent-ingestion-billing-202610</guid>
-<pubDate>Sun, 08 Nov 2026 08:56:07 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>AWS Ambassadorの積田です。 画像入りのPDFをS3に置いて、Amazon OpenSearch Serverless(以下AOSS)のIntelligent ingestionでIngestion jobを実行しました。 翌朝コンソールを開いたら、当月のコストが$2,777,528.09になっていました。1ドル155円で換算すると約4.3億円です。 実はAWSさんの課金バグで1,000万円以上の請求をされるのは今年3回目です（2月に約1,400万円、7月に約34.9兆円、10月に約4.3億円(今回)の請求をされています） この記事は高額請求をされてビビった方に対して、まず... — Zenn トレンド / score: 90 (AWSで発生した高額課金バグと初動対応の体験談)</description>
-</item>
-<item>
 <title>[90] OpenAI、サイバーセキュリティ向けフロンティアモデル「GPT-6 Cyber」を発表 ―脆弱性の自律的な検出・検証・修正に対応、スコープ外への攻撃・逸脱を厳格に防止</title>
 <link>https://gihyo.jp/article/2026/11/gpt-6-cyber?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/11/gpt-6-cyber?utm_source=feed</guid>
@@ -271,6 +255,14 @@
 <description>Amazon Web Services（AWS）は2026年11月11日、ローカルマシン上などでAWSアプリケーションを構築・テストできるエミュレーター「AWS Emulator」の一般提供を開始した。 — gihyo.jp / score: 85 (AWS Emulatorの一般提供開始に関する重要ニュース)</description>
 </item>
 <item>
+<title>[85] AWS Emulator がリリースされたので試してみた | DevelopersIO</title>
+<link>https://dev.classmethod.jp/articles/aws-emulator-local-try/</link>
+<guid isPermaLink="true">https://dev.classmethod.jp/articles/aws-emulator-local-try/</guid>
+<pubDate>Thu, 12 Nov 2026 03:47:53 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>AWS が公開したローカル用エミュレータ AWS Emulator を Docker で起動し、S3・SQS・DynamoDB・Lambda の基本操作を試しました。起動にかかった時間は約0.26秒、アイドル時のメモリ使用量は約174MiB でした。 はじめに AWS は2026年11月11日に、ローカル用のエミュレータ AWS Emulator の提供開始を発表しました。 この... — はてなブックマーク テクノロジー / score: 85 (AWSの公式ローカルエミュレータ登場は開発効率に直結する)</description>
+</item>
+<item>
 <title>[85] NVIDIAのジェンスン・フアンCEOが部下女性とも不倫関係にあったとの指摘、議員からは辞任要求の圧も</title>
 <link>https://gigazine.net/news/20261112-jensen-huang-had-relationship-with-exec/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261112-jensen-huang-had-relationship-with-exec/</guid>
@@ -285,14 +277,6 @@
 <pubDate>Thu, 12 Nov 2026 02:53:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>Google DeepMindが2026年11月11日に、DNAの塩基配列の違いが個々の細胞にどのような影響を与えるのかを予測するAIモデル「AlphaGenome 2」を発表しました。68種類の組織にわたる1億件以上の細胞データを用いて学習したAlphaGenome 2は、従来モデルと比べて遺伝子の発現に影響する変異を約2倍多く特定できるとのことです。 続きを読む... — GIGAZINE / score: 85 (DeepMindによる先進的AIモデル発表)</description>
-</item>
-<item>
-<title>[85] Amazon、AWSのAPIを手元で再現する「AWS Emulator」を無償公開　コードはすべてAIエージェントが記述</title>
-<link>https://www.itmedia.co.jp/news/article/2611/12/2000003126/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/12/2000003126/</guid>
-<pubDate>Thu, 12 Nov 2026 01:20:44 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>米Amazon傘下のAmazon Web Services（AWS）は11月11日（現地時間）、AWSのAPIを手元のPCなどで再現するツール「AWS Emulator」を公開した。開発者はクラウドのリソースを用意しなくても、AWSを使うアプリをローカル環境で構築したりテストしたりできる。AWSアカウントは不要で、追加料金も発生しない。AWSによると、すべ... — はてなブックマーク テクノロジー / score: 85 (AWS APIエミュレータの無償公開で開発効率が大幅向上)</description>
 </item>
 <item>
 <title>[85] 「Node.js」にセキュリティ更新 ～16件の脆弱性を修正、HTTP/2関連が多数／v22.23.5、v24.22.3、v26.13.1が公開</title>
@@ -423,6 +407,14 @@
 <description>Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope. — OpenAI News / score: 85 (サイバーセキュリティ特化型AIモデルの発表)</description>
 </item>
 <item>
+<title>[80] Claude Fable 5.2、フェルマーの最終定理を約30時間で形式化―1000エージェントの協調実験 | 財経新聞</title>
+<link>https://www.zaikei.co.jp/article/20261111/877067.html</link>
+<guid isPermaLink="true">https://www.zaikei.co.jp/article/20261111/877067.html</guid>
+<pubDate>Thu, 12 Nov 2026 10:22:51 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>アンソロピックは2026年11月9日、1000のClaude Fable 5.2エージェントが、フェルマーの最終定理の証明を約30時間で形式化したと発表した。同社の技術記事によると、実験には初期版モデルを使い、60の目標命題や既存の47補題などを与えた。最終定理の形式化に要した時間は28.7時間だった。 形式化とは、数学の論証をコン... — はてなブックマーク テクノロジー / score: 80 (AIによる数学の形式化の進展を示す大規模な実験成果)</description>
+</item>
+<item>
 <title>[80] Google、新しい意思決定モデル「Gemini Decision 1」を搭載、最大1,000問を一度に高速判定する「Gemini Decisions API」を発表</title>
 <link>https://gihyo.jp/article/2026/11/gemini-decisions?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/11/gemini-decisions?utm_source=feed</guid>
@@ -434,9 +426,9 @@
 <title>[80] Googleが意思決定AIモデルの「Gemini Decisions 1」をリリース</title>
 <link>https://gigazine.net/news/20261112-gemini-decisions-1/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261112-gemini-decisions-1/</guid>
-<pubDate>Thu, 12 Nov 2026 04:12:41 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>大規模言語モデル(LLM)とは異なるアプローチでタスクを解決するAIモデル「Jev」が登場して以降、同様の「意思決定モデル」と呼ばれるAIエージェントの判断を誘導するモデルが相次いで登場しています。新たにGoogleから意思決定モデルの「Gemini Decision 1」が登場しました。 Gemini Decisions API: Fast multimodal dec... — はてなブックマーク テクノロジー / score: 80 (Googleの新しい意思決定AIモデルリリース)</description>
+<pubDate>Thu, 12 Nov 2026 03:55:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>大規模言語モデル(LLM)とは異なるアプローチでタスクを解決するAIモデル「Jev」が登場して以降、同様の「意思決定モデル」と呼ばれるAIエージェントの判断を誘導するモデルが相次いで登場しています。新たにGoogleから意思決定モデルの「Gemini Decision 1」が登場しました。 続きを読む... — GIGAZINE / score: 80 (Googleの新しい意思決定AIモデルリリース)</description>
 </item>
 <item>
 <title>[80] NVIDIAがジェンスン・フアンCEOを解任する準備を進めている</title>
@@ -447,28 +439,12 @@
 <description>NVIDIAのジェンスン・フアンCEOが不倫をしていたという事実を受け、NVIDIAの取締役会がフアンCEOを解任する準備を進めていると報じられました。 続きを読む... — GIGAZINE / score: 80 (大手テック企業の経営に関する重要報道)</description>
 </item>
 <item>
-<title>[80] ドコモ「5G SA」また障害、原因は5日と同じ「交換機の輻輳」　約9時間で復旧</title>
-<link>https://www.itmedia.co.jp/news/article/2611/12/2000003125/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/12/2000003125/</guid>
-<pubDate>Thu, 12 Nov 2026 01:21:31 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>NTTドコモは11月11日、同日午前10時34分から全国で発生していた「5G SA（Standalone）」サービス契約者の携帯電話サービスが利用しづらい状況について、約9時間後の午後7時17分に完全復旧したと発表した。 原因は5G SAの契約者を収容する交換機の輻輳で、5日に発生した障害と同じ。不正アクセスの形跡やサイバー攻撃を示... — はてなブックマーク テクノロジー / score: 80 (大手キャリアの大規模通信障害と原因究明)</description>
-</item>
-<item>
 <title>[80] Google、判断に特化した高速・低コストモデル「Gemini Decision 1」を発表／出力トークンは課金なし</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2155703.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2155703.html</guid>
 <pubDate>Wed, 11 Nov 2026 23:11:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Googleは11月11日（現地時間）、「Gemini Decisions API」を発表した。決められた選択肢のなかから答えを選ぶ、判断に特化した新しいモデル「Gemini Decision 1」（gemini-decision-1）を利用可能で、「Google AI Studio」の「Gemini API」で提供される。 — 窓の杜 / score: 80 (Googleの判断特化型高速AIモデルGemini Decision 1発表)</description>
-</item>
-<item>
-<title>[80] テスト中の「ホワイトハッカーAI」が脱走。実在する会社の顧客データを盗み出してしまう</title>
-<link>https://www.gizmodo.jp/article/2611-white-hacker-ai-data-breach/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-white-hacker-ai-data-breach/</guid>
-<pubDate>Wed, 11 Nov 2026 22:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>セキュリティ実験中のホワイトハッカーAIがテスト環境を脱走し、実在企業の社内システムから顧客データを持ち出した事件の詳細を解説します。 — ギズモード・ジャパン / score: 80 (AIのセキュリティリスクを示す重要事例)</description>
 </item>
 <item>
 <title>[80] Test your applications against AWS locally with AWS Emulator</title>
@@ -567,6 +543,22 @@
 <description>November 9, 2026 — Claude Fable 5.2 and Mythos 5.2 arrive on Anthropic’s IPO roadshow day. How much thinking is worth paying for? — Latent Space / score: 78 (主要LLMの性能逆転とIPO動向)</description>
 </item>
 <item>
+<title>[75] 新型Macbook Proレビュー。タッチ対応なんてどうでもいいくらい最高のPCだ</title>
+<link>https://www.gizmodo.jp/article/macbook-pro_oled_review/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/macbook-pro_oled_review/</guid>
+<pubDate>Thu, 12 Nov 2026 11:00:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>有機ELディスプレイとタッチ操作に対応した新型MacBook Proのレビュー。圧倒的な映像美や軽量化、最高峰のパフォーマンスはいかに。一方で気になるのは価格。パフォーマンスと価格が見合うかを検証しました。 — ギズモード・ジャパン / score: 75 (新型MacBook Proの製品レビュー)</description>
+</item>
+<item>
+<title>[75] Google、AIエージェント向けUIプロトコル「A2UI」バージョン1.0を公開</title>
+<link>https://gihyo.jp/article/2026/11/a2ui-1.0?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/11/a2ui-1.0?utm_source=feed</guid>
+<pubDate>Thu, 12 Nov 2026 10:30:27 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>GoogleのA2UIチームは2026年11月11日、AIエージェントがフォームやグラフなどの対話型UIを返すためのオープンプロトコル「A2UI」の初の安定版となるバージョン1.0を公開した。利用者の依頼に応じてエージェントがUIの構成や表示内容を記述し、アプリがその記述を基に画面内に描画できる。 — gihyo.jp / score: 75 (GoogleによるAIエージェント向けUIプロトコルの公開)</description>
+</item>
+<item>
 <title>[75] 無料の3D CG統合環境「Blender」v5.3が公開 ～レンダリング機能が多数強化／プロジェクトシステムを導入、ガウシアンスプラッティング正式対応など</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2155842.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2155842.html</guid>
@@ -607,6 +599,14 @@
 <description>中国の大手テクノロジー企業であるAlibabaがQwen4シリーズのプレビュー版として「Qwen4-Max-Preview」をリリースしました。無料プランでも使用可能だったので実際にゲームを作ってみました。 続きを読む... — GIGAZINE / score: 75 (大規模言語モデルのプレ版公開)</description>
 </item>
 <item>
+<title>[75] Gemini Decisions API: Fast, calibrated multimodal decisions</title>
+<link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/</link>
+<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/</guid>
+<pubDate>Thu, 12 Nov 2026 02:37:13 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Gemini Decisions API: Fast, calibrated multimodal decisions Gemini Decisions API: Fast, calibrated multimodal decisions — はてなブックマーク テクノロジー / score: 75 (Googleの新しいGemini Decisions APIの発表)</description>
+</item>
+<item>
 <title>[75] 【AWS】AWS EmulatorでCDK/Terraformのスタックはどこまで動くか【AWSEmulator】</title>
 <link>https://qiita.com/Nana_777/items/3f3c71525d867b22c9f2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
 <guid isPermaLink="true">https://qiita.com/Nana_777/items/3f3c71525d867b22c9f2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
@@ -621,14 +621,6 @@
 <pubDate>Wed, 11 Nov 2026 22:03:25 +0000</pubDate>
 <category>Simon Willison</category>
 <description>Gemini Decisions API Google join Jev and OpenAI in the decision model category with "Gemini Decision 1". This new model API is almost identical to Jev: it supports the same three types of questions (yes/no, choice, and rubric-scoring) and even reuses Jev's term "Noul" for a yes/no question. It's priced the same as the GPT-6 Luna decision model: 10 cents per million input tokens, and output is free. Jev remains the cheapest of the three, at 4.2 cents per million. Jev is text (and JSON) only. Open — Simon Willison / score: 75 (主要AIの意思決定モデルAPI追加のため)</description>
-</item>
-<item>
-<title>[75] Gemini Decisions API: Fast, calibrated multimodal decisions</title>
-<link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/</link>
-<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/</guid>
-<pubDate>Wed, 11 Nov 2026 18:00:00 +0000</pubDate>
-<category>Google AI Blog</category>
-<description>Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions. — Google AI Blog / score: 75 (Googleの新しいGemini Decisions APIの発表)</description>
 </item>
 <item>
 <title>[75] PRの脆弱性をAIが直す「CodeMender」を見て、新卒が基礎を学ぶ理由を考えた</title>
@@ -805,6 +797,14 @@
 <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science. — OpenAI News / score: 75 (AIエージェントの湿式実験科学を評価する新ベンチマーク発表。)</description>
+</item>
+<item>
+<title>[75] Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips</title>
+<link>https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/</link>
+<guid isPermaLink="true">https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/</guid>
+<pubDate>Thu, 05 Nov 2026 17:05:16 +0000</pubDate>
+<category>Google DeepMind</category>
+<description> — Google DeepMind / score: 75 (Geminiの新モデルに関する公式発表)</description>
 </item>
 </channel>
 </rss>
