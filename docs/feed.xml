@@ -4,15 +4,39 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 12 Nov 2026 18:07:39 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 20:06:10 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>【体験】Apple Pencil Proが充電不能に！5,180円で本体交換できた</title>
+<link>https://iphone-mania.jp/ipadpro-608625/</link>
+<guid isPermaLink="true">https://iphone-mania.jp/ipadpro-608625/</guid>
+<pubDate>Thu, 12 Nov 2026 19:16:41 +0000</pubDate>
+<category>iPhone Mania</category>
+<description>11インチiPad Pro（M4）とともに使用しているApple Pencil Proが、バッテリー残量1%から充電できなくなりました。最終的にApple StoreのGenius Barを予約し、税込5,180円で交換 […] — iPhone Mania / score: 20 (Apple Pencil Proの故障と交換の体験談)</description>
+</item>
+<item>
+<title>LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B</title>
+<link>https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</link>
+<guid isPermaLink="true">https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</guid>
+<pubDate>Thu, 12 Nov 2026 19:07:35 +0000</pubDate>
+<category>Hugging Face Blog</category>
+<description> — Hugging Face Blog / score: 65 (LLM向けの新マークアップ言語とモデルの発表)</description>
+</item>
 <item>
 <title>Chrome Enterprise brings more protections to healthcare technologies</title>
 <link>https://cloud.google.com/blog/products/chrome-enterprise/chrome-enterprise-brings-more-protections-to-healthcare-technologies/</link>
 <guid isPermaLink="true">https://cloud.google.com/blog/products/chrome-enterprise/chrome-enterprise-brings-more-protections-to-healthcare-technologies/</guid>
-<pubDate>Thu, 12 Nov 2026 18:07:13 +0000</pubDate>
+<pubDate>Thu, 12 Nov 2026 18:55:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>Healthcare is adopting AI quickly, and it's moving beyond chat. Clinical teams are starting to use AI agents that draft documentation, summarize charts, navigate web apps, and complete multi-step tasks on a clinician's behalf. Many of these agents work in the same place—the browser. As electronic health records (EHRs) and clinical apps move to the web, the browser is where clinicians, applications, patient data, and AI services meet. When clinicians or agents act inside a session, security teams — Google Cloud Blog / score: 40 (医療向けChrome Enterpriseのセキュリティ強化。)</description>
+</item>
+<item>
+<title>iPhone Flipは2028年に登場？約26万円の予想価格とDuoとの違いは</title>
+<link>https://iphone-mania.jp/iphone18-608621/</link>
+<guid isPermaLink="true">https://iphone-mania.jp/iphone18-608621/</guid>
+<pubDate>Thu, 12 Nov 2026 18:16:59 +0000</pubDate>
+<category>iPhone Mania</category>
+<description>Appleが縦に折りたたむFlipタイプのiPhoneを検討しているとの話題が、再び注目を集めています。 Bloombergのマーク・ガーマン記者や、中国SNS「Weibo」のリーカー、定焦数码氏（Fixed Focus […] — iPhone Mania / score: 25 (折りたたみiPhoneの発売予想に関する噂話)</description>
 </item>
 <item>
 <title>Introducing Gemini 4 Hydrogen</title>
@@ -47,6 +71,14 @@
 <description>Today, we’re introducing Gemini 4 Hydrogen, our daily driver for agentic workflows — Gemini (Google Blog) / score: 90 (エージェント型ワークフロー向け新モデルの発表。)</description>
 </item>
 <item>
+<title>Amazon MWAA now supports fine-grained access control with IAM Identity Center and multi-team environments</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/mwaa-fine-grained-access-control/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/mwaa-fine-grained-access-control/</guid>
+<pubDate>Thu, 12 Nov 2026 18:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon Managed Workflows for Apache Airflow (Amazon MWAA) now supports fine-grained access control, giving administrators precise control over who can access which workflows and resources in an Apache Airflow environment. Fine-grained access control is delivered through two new capabilities: IAM Identity Center integration and multi-team environments. With IAM Identity Center integration, users sign in to the Apache Airflow UI with their corporate identity provider. Authorization is evaluated pe — AWS What's New / score: 60 (Amazon MWAAの権限管理機能のアップデート)</description>
+</item>
+<item>
 <title>Get quick answers from Gemini on any website.</title>
 <link>https://blog.google/innovation-and-ai/products/gemini-app/research-with-gemini-in-chrome/</link>
 <guid isPermaLink="true">https://blog.google/innovation-and-ai/products/gemini-app/research-with-gemini-in-chrome/</guid>
@@ -63,14 +95,6 @@
 <description>Even as sophisticated, new zero-day exploits continue to emerge, most cybersecurity incidents still start from the same common sources: an attacker locating and exploiting a fundamental, easily preventable cloud misconfiguration. Organization Policy Service can help you secure resource configurations and set up security guardrails across your Google Cloud resource hierarchy. Using a catalog of over 100 predefined policies for many common cloud governance needs, as well as Custom Organization Pol — Google Cloud Blog / score: 55 (Google Cloudの組織ポリシー機能のアップデート。)</description>
 </item>
 <item>
-<title>Autonomous defense at cloud speed with SentinelOne and Google Security Operations</title>
-<link>https://cloud.google.com/blog/topics/partners/autonomous-defense-at-cloud-speed-with-sentinelone-and-google-security-operations/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/topics/partners/autonomous-defense-at-cloud-speed-with-sentinelone-and-google-security-operations/</guid>
-<pubDate>Thu, 12 Nov 2026 17:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>Modern security operations centers (SOCs) face an ongoing pipeline dilemma. While ingesting comprehensive endpoint telemetry is non-negotiable for defense, conventional delivery paths often drive up transfer overhead and alert latency. As attackers operate at machine speed, any unnecessary friction in how data moves from endpoints to the SOC can leave teams without the insight they need to respond to attacks in real time. Addressing this requires optimizing the data pipeline at the integration l — Google Cloud Blog / score: 60 (SentinelOneと連携したクラウドセキュリティ運用。)</description>
-</item>
-<item>
 <title>Simplifying last mile cloud connectivity with Lumen and partner Cross-Cloud Interconnect</title>
 <link>https://cloud.google.com/blog/products/networking/partner-cross-cloud-interconnect-for-last-mile-delivered-by-lumen/</link>
 <guid isPermaLink="true">https://cloud.google.com/blog/products/networking/partner-cross-cloud-interconnect-for-last-mile-delivered-by-lumen/</guid>
@@ -85,6 +109,14 @@
 <pubDate>Thu, 12 Nov 2026 17:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>November 9 - November 13 Bringing conversational analytics to Gemini with Data Cloud connectors : Data Cloud connectors in Gemini are now in preview, enabling knowledge workers to query live enterprise data using natural language directly within tools like Google Docs, Gmail, and Google Slides. The capability connects across BigQuery, Looker, Spanner, AlloyDB for PostgreSQL, and Cloud SQL without requiring data movement, grounded by Knowledge Catalog semantic models under user-identity IAM gover — Google Cloud Blog / score: 50 (Google Data Cloudの一般的な新機能プレビュー情報。)</description>
+</item>
+<item>
+<title>Autonomous defense at cloud speed with SentinelOne and Google Security Operations</title>
+<link>https://cloud.google.com/blog/topics/partners/autonomous-defense-at-cloud-speed-with-sentinelone-and-google-security-operations/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/partners/autonomous-defense-at-cloud-speed-with-sentinelone-and-google-security-operations/</guid>
+<pubDate>Thu, 12 Nov 2026 17:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Modern security operations centers (SOCs) face an ongoing pipeline dilemma. While ingesting comprehensive endpoint telemetry is non-negotiable for defense, conventional delivery paths often drive up transfer overhead and alert latency. As attackers operate at machine speed, any unnecessary friction in how data moves from endpoints to the SOC can leave teams without the insight they need to respond to attacks in real time. Addressing this requires optimizing the data pipeline at the integration l — Google Cloud Blog / score: 60 (SentinelOneと連携したクラウドセキュリティ運用。)</description>
 </item>
 <item>
 <title>Google named the furthest in vision for the Gartner Magic Quadrant for Data Lakehouse Platforms</title>
@@ -157,6 +189,14 @@
 <pubDate>Thu, 12 Nov 2026 14:44:41 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>NVIDIAジェンスン・フアン氏がCEO辞任 — はてなブックマーク テクノロジー / score: 95 (NVIDIAジェンスン・フアン氏のCEO辞任)</description>
+</item>
+<item>
+<title>NVIDIA、フアンCEOの辞任を発表　CFOのクレス氏が暫定CEOに</title>
+<link>https://www.itmedia.co.jp/news/article/2611/12/2000003160/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/12/2000003160/</guid>
+<pubDate>Thu, 12 Nov 2026 14:42:47 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>米NVIDIAは11月12日（現地時間、以下同）、1993年の共同創業以来、同社を率いてきたジェンスン・フアン氏が社長兼CEOと取締役を即日辞任したと発表した。後任として、最高財務責任者（CFO）のコレット・クレス氏が、暫定CEOに就任する。取締役会は正式なCEOの選定に着手し、社内外の候補者を検討するとしている。 クレス... — はてなブックマーク テクノロジー / score: 95 (NVIDIAのCEO辞任という業界最大の衝撃ニュース)</description>
 </item>
 <item>
 <title>AppleのホリデーCM、MacBook Neoに込めた親の願い</title>
@@ -626,9 +666,9 @@
 <title>SONYやAppleやGoogleに「テレビでユーザーの画面や音声を収集しているか？」と質問した結果が公開される</title>
 <link>https://gigazine.net/news/20261112-tv-manufacturer-questions/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261112-tv-manufacturer-questions/</guid>
-<pubDate>Thu, 12 Nov 2026 09:50:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>テレビメーカーは「自動コンテンツ認識(ACR)」と呼ばれる機能を用いてユーザーの閲覧情報を収集しており、ACRを無効化しても収集が続くという調査結果もあります。こうした状況を受けて、海外メディアのThe Vergeがテレビメーカーに対してデータ収集に関する質問状を送り、回答結果を公開しました。 続きを読む... — GIGAZINE / score: 40 (スマートテレビのデータ収集に関する調査報道)</description>
+<pubDate>Thu, 12 Nov 2026 09:53:16 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>テレビメーカーは「自動コンテンツ認識(ACR)」と呼ばれる機能を用いてユーザーの閲覧情報を収集しており、ACRを無効化しても収集が続くという調査結果もあります。こうした状況を受けて、海外メディアのThe Vergeがテレビメーカーに対してデータ収集に関する質問状を送り、回答結果を公開しました。 I asked every TV ma... — はてなブックマーク テクノロジー / score: 40 (スマートテレビのデータ収集に関する調査報道)</description>
 </item>
 <item>
 <title>2026年11月12日のヘッドラインニュース</title>
@@ -765,46 +805,6 @@
 <pubDate>Thu, 12 Nov 2026 09:00:00 +0000</pubDate>
 <category>ASCII.jp</category>
 <description>「JAPAN AI」、「GPT-6 Luna」の国内推論に対応 — ASCII.jp / score: 60 (AIモデルの国内推論対応に関する発表)</description>
-</item>
-<item>
-<title>「カップヌードル シンガポール風ラクサ」が43％オフ！ ココナッツミルク×スパイスの濃厚スープが魅力</title>
-<link>https://ascii.jp/elem/000/004/451/4451007/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/451/4451007/?rss</guid>
-<pubDate>Thu, 12 Nov 2026 09:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>「カップヌードル シンガポール風ラクサ」が、AmazonスマイルSaleで43％オフ。 — ASCII.jp / score: 10 (カップ麺のセール情報)</description>
-</item>
-<item>
-<title>押し心地を“選べる”幸せ。4万円台でも買う価値があるゲーミングキーボード「Apex Pro TKL Gen 3」</title>
-<link>https://ascii.jp/elem/000/004/449/4449352/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/449/4449352/?rss</guid>
-<pubDate>Thu, 12 Nov 2026 09:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>SteelSeriesの限定キーボード「Apex Pro TKL Gen 3 Cyber/Steel」のレビューです。軽快な35gか重厚な50gか、好みの押し心地を選択可能。Rapid Trigger等の強力なゲーム機能と極上の静音性を備え、4万円台でも指に最適な打鍵感を得られる価値ある1台です。 — ASCII.jp / score: 35 (ゲーミングキーボードの製品レビュー)</description>
-</item>
-<item>
-<title>家中をドローンがパトロール。米Amazonが次世代ホームセキュリティ端末を発表</title>
-<link>https://www.gizmodo.jp/article/2611-ring-robotics-home-security-drone-rover/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-ring-robotics-home-security-drone-rover/</guid>
-<pubDate>Thu, 12 Nov 2026 09:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>Amazon傘下Ringが、家の中を移動して見守る次世代ホームセキュリティ端末、ドローン型カメラとロボット型カメラを発表しました。それぞれの特徴や価格、発売日を紹介。 — ギズモード・ジャパン / score: 45 (Amazonのドローン型ホームセキュリティ端末発表)</description>
-</item>
-<item>
-<title>絶妙なフェイデッド・カラーに注目！　名匠トッド・クラウスが手がける、憧れのフィエスタ・レッド｜フェンダーカスタムショップ Vol.35</title>
-<link>https://guitarmagazine.jp/gear/2026-1112-fcs/</link>
-<guid isPermaLink="true">https://guitarmagazine.jp/gear/2026-1112-fcs/</guid>
-<pubDate>Thu, 12 Nov 2026 09:00:00 +0000</pubDate>
-<category>ギター・マガジンWEB</category>
-<description>Fender Flagship Tokyoで取り扱うフェンダーカスタムショップの最新モデルを紹介する連載。第35回目は、トッド・クラウスが製作したストラトキャスターをご紹介。 — ギター・マガジンWEB / score: 10 (ギターのカスタムショップ製品紹介のため)</description>
-</item>
-<item>
-<title>無料の3D CG統合環境「Blender」v5.3が公開 ～レンダリング機能が多数強化／プロジェクトシステムを導入、ガウシアンスプラッティング正式対応など</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2155842.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2155842.html</guid>
-<pubDate>Thu, 12 Nov 2026 08:52:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>蘭Blender Foundationは11月10日（現地時間）、「Blender 5.3」を公開した。本バージョンでは新しく、プロジェクト毎のファイル管理を容易にするプロジェクトシステムが導入されたほか、ガウシアンスプラッティング対応や分光、Vulkanバックエンドのデフォルト化といった、レンダリング関連の機能の強化が目立った。 — 窓の杜 / score: 75 (Blender 5.3のメジャーアップデート)</description>
 </item>
 </channel>
 </rss>
