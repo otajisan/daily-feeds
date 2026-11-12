@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 12 Nov 2026 08:08:54 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 10:06:32 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Apache HTTP Server 2.4.71」が公開 ～深刻度「Critical」を含む3件の脆弱性を修正／「mod_http2」にリモートコード実行の欠陥、v2.4.55以降が影響</title>
@@ -37,6 +37,14 @@
 <pubDate>Thu, 05 Nov 2026 06:53:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>OpenAIは2026年11月4日、開発中のサイバーセキュリティ向けAIモデルを活用し、Linuxカーネルの脆弱性をエージェントが自律的に発見し検証した結果を発表した。 — gihyo.jp / score: 95 (AIによるLinuxカーネルの脆弱性大量発見と実証の画期的なニュース)</description>
+</item>
+<item>
+<title>[90] Intel製品に24件のセキュリティアドバイザリ ～全103件の脆弱性を修正／Wi-Fiやブートローダーなどに深刻度HIGHの脆弱性</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2155991.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2155991.html</guid>
+<pubDate>Thu, 12 Nov 2026 09:34:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Intelは11月10日（現地時間）、同社製の複数製品に脆弱性があるとして情報を公開した。全24件のアドバイザリが報告されている。 — 窓の杜 / score: 90 (Intel製品の多数の脆弱性修正とアドバイザリ)</description>
 </item>
 <item>
 <title>[90] Microsoft、「.NET 11」を正式リリース ～共用体型を導入した「C# 15」も／2年間サポートのSTSリリース、「.NET MAUI」の既定ランタイムは「CoreCLR」に</title>
@@ -135,6 +143,14 @@
 <description>マイクロソフトは日本時間の11月13日未明からオンラインイベント「.NET Conf 2026」を開催し、同社の包括的なアプリケーションフレームワークの最新版となる「.NET 11」正式版のリリースを発表しました。 Announcing .... — Publickey / score: 90 (主要なフレームワークのメジャーリリース)</description>
 </item>
 <item>
+<title>[90] CVE-2026-98432（Linuxカーネル IPv4 TCPのuse-after-free）各ディストリビューションの対応状況【2026年11月10日時点】</title>
+<link>https://qiita.com/k2_naka/items/692fc8b09d9a412c4383?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/k2_naka/items/692fc8b09d9a412c4383?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Tue, 10 Nov 2026 14:02:45 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>筆者表記 工程 担当 課題提示・取捨選択・内容チェック 筆者 初回調査・原案作成・編成 Claude Fable 5.2 追加調査（公開履歴・アドバイザリの照合表） GPT-6 Astra 一次資料照合・最終稿 Claude Fable 5.2 ... — Qiita 人気記事 / score: 90 (Linuxカーネルの深刻な脆弱性と対応状況)</description>
+</item>
+<item>
 <title>[90] Introducing AlphaProof Code: a breakthrough in verifying complex software at depth</title>
 <link>https://deepmind.google/blog/introducing-alphaproof-code/</link>
 <guid isPermaLink="true">https://deepmind.google/blog/introducing-alphaproof-code/</guid>
@@ -229,6 +245,14 @@
 <pubDate>Tue, 03 Nov 2026 18:00:00 +0000</pubDate>
 <category>Next.js Blog</category>
 <description>The November 2026 security release for Next.js is now available — Next.js Blog / score: 90 (重要フレームワークの緊急セキュリティアップデート)</description>
+</item>
+<item>
+<title>[85] 無印良品「21年までクレカ番号で顧客を識別していた」　“全ケタ保有＆漏えい“巡り謝罪　削除漏れなぜ発生</title>
+<link>https://www.itmedia.co.jp/news/article/2611/12/2000003144/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/12/2000003144/</guid>
+<pubDate>Thu, 12 Nov 2026 08:34:31 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>「無印良品」を展開する良品計画（東京都文京区）は11月12日、不正アクセスによる顧客情報の流出について記者会見を開き、清水智社長らが謝罪した。過去に取得したクレジットカード番号の全桁を削除せず保管していた問題について「データの運用管理に不備があった。私どもの落ち度」と説明した。 同社は10月30日、公式ア... — はてなブックマーク テクノロジー / score: 85 (重大な情報漏洩インシデントと謝罪会見のニュース)</description>
 </item>
 <item>
 <title>[85] 2026年10月のWindows更新以降、「SQL Server」の接続に問題。数日中に緊急（OOB）修正へ／外部DBへの接続が閉じられず蓄積、パフォーマンスが低下するおそれ</title>
@@ -399,6 +423,14 @@
 <description>Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope. — OpenAI News / score: 85 (サイバーセキュリティ特化型AIモデルの発表)</description>
 </item>
 <item>
+<title>[80] Google、新しい意思決定モデル「Gemini Decision 1」を搭載、最大1,000問を一度に高速判定する「Gemini Decisions API」を発表</title>
+<link>https://gihyo.jp/article/2026/11/gemini-decisions?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/11/gemini-decisions?utm_source=feed</guid>
+<pubDate>Thu, 12 Nov 2026 07:55:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Googleは2026年11月11日、精度が高く高速なマルチモーダル意思決定モデル「Gemini Decision 1」と、これをGoogle AI Studioを通じて利用できる新しいAPI「Gemini Decisions API」を発表した。 — gihyo.jp / score: 80 (Googleの新しい意思決定モデルおよびAPIの発表)</description>
+</item>
+<item>
 <title>[80] Googleが意思決定AIモデルの「Gemini Decisions 1」をリリース</title>
 <link>https://gigazine.net/news/20261112-gemini-decisions-1/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261112-gemini-decisions-1/</guid>
@@ -426,9 +458,9 @@
 <title>[80] Google、判断に特化した高速・低コストモデル「Gemini Decision 1」を発表／出力トークンは課金なし</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2155703.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2155703.html</guid>
-<pubDate>Wed, 11 Nov 2026 23:38:04 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Google、判断に特化した高速・低コストモデル「Gemini Decision 1」を発表／出力トークンは課金なし — はてなブックマーク テクノロジー / score: 80 (Googleの判断特化型高速AIモデルGemini Decision 1発表)</description>
+<pubDate>Wed, 11 Nov 2026 23:11:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Googleは11月11日（現地時間）、「Gemini Decisions API」を発表した。決められた選択肢のなかから答えを選ぶ、判断に特化した新しいモデル「Gemini Decision 1」（gemini-decision-1）を利用可能で、「Google AI Studio」の「Gemini API」で提供される。 — 窓の杜 / score: 80 (Googleの判断特化型高速AIモデルGemini Decision 1発表)</description>
 </item>
 <item>
 <title>[80] テスト中の「ホワイトハッカーAI」が脱走。実在する会社の顧客データを盗み出してしまう</title>
@@ -535,6 +567,22 @@
 <description>November 9, 2026 — Claude Fable 5.2 and Mythos 5.2 arrive on Anthropic’s IPO roadshow day. How much thinking is worth paying for? — Latent Space / score: 78 (主要LLMの性能逆転とIPO動向)</description>
 </item>
 <item>
+<title>[75] 無料の3D CG統合環境「Blender」v5.3が公開 ～レンダリング機能が多数強化／プロジェクトシステムを導入、ガウシアンスプラッティング正式対応など</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2155842.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2155842.html</guid>
+<pubDate>Thu, 12 Nov 2026 08:52:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>蘭Blender Foundationは11月10日（現地時間）、「Blender 5.3」を公開した。本バージョンでは新しく、プロジェクト毎のファイル管理を容易にするプロジェクトシステムが導入されたほか、ガウシアンスプラッティング対応や分光、Vulkanバックエンドのデフォルト化といった、レンダリング関連の機能の強化が目立った。 — 窓の杜 / score: 75 (Blender 5.3のメジャーアップデート)</description>
+</item>
+<item>
+<title>[75] Google、「Modern Web Guidance 1.0」安定版を公開</title>
+<link>https://codezine.jp/article/detail/30332</link>
+<guid isPermaLink="true">https://codezine.jp/article/detail/30332</guid>
+<pubDate>Thu, 12 Nov 2026 08:00:00 +0000</pubDate>
+<category>CodeZine</category>
+<description> — CodeZine / score: 75 (GoogleによるWeb開発の新しいガイドライン公開)</description>
+</item>
+<item>
 <title>[75] Modern Web Guidance 1.0公開、エージェントによるフロントエンドの改修を支援</title>
 <link>https://gihyo.jp/article/2026/11/modern-web-guidance-1.0?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/11/modern-web-guidance-1.0?utm_source=feed</guid>
@@ -546,9 +594,9 @@
 <title>[75] AppleがローカルAI実行アプリ「Harbor」を開発中であることが判明、複数のMacを接続してメモリを共有可能</title>
 <link>https://gigazine.net/news/20261112-apple-claris-harbor-local-ai/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261112-apple-claris-harbor-local-ai/</guid>
-<pubDate>Thu, 12 Nov 2026 03:49:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>AppleがMacでAIをローカル実行するためのアプリ「Harbor」を開発中であることが判明しました。開発はApple傘下のClarisが担当しています。 続きを読む... — GIGAZINE / score: 75 (AppleのローカルAI実行用アプリ開発の動向)</description>
+<pubDate>Thu, 12 Nov 2026 04:13:16 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>AppleがMacでAIをローカル実行するためのアプリ「Harbor」を開発中であることが判明しました。開発はApple傘下のClarisが担当しています。 Claris Harbor | Claris, an Apple company https://content.claris.com/local-ai-server-get-started Apple's Claris Testing 'Harbor' App for Local AI on Macs - MacRumors ht... — はてなブックマーク テクノロジー / score: 75 (AppleのローカルAI実行用アプリ開発の動向)</description>
 </item>
 <item>
 <title>[75] 「Qwen4-Max-Preview」が無料で使用可能になったのでゲームを作ってみた</title>
@@ -557,6 +605,14 @@
 <pubDate>Thu, 12 Nov 2026 02:45:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>中国の大手テクノロジー企業であるAlibabaがQwen4シリーズのプレビュー版として「Qwen4-Max-Preview」をリリースしました。無料プランでも使用可能だったので実際にゲームを作ってみました。 続きを読む... — GIGAZINE / score: 75 (大規模言語モデルのプレ版公開)</description>
+</item>
+<item>
+<title>[75] 【AWS】AWS EmulatorでCDK/Terraformのスタックはどこまで動くか【AWSEmulator】</title>
+<link>https://qiita.com/Nana_777/items/3f3c71525d867b22c9f2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/Nana_777/items/3f3c71525d867b22c9f2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Wed, 11 Nov 2026 23:39:20 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>はじめに 2026年11月11日、AWSからAWS Emulatorが公式にリリースされました。AWS SDKやAWS CLIの呼び出しを、AWSアカウントなしで、ローカルやCI上のエミュレーターに向けられるツールです。公式は、実装されているAPIには有効な呼び出しにAW... — Qiita 人気記事 / score: 75 (AWS公式のエミュレータリリースに関する解説記事)</description>
 </item>
 <item>
 <title>[75] Gemini Decisions API</title>
@@ -610,9 +666,9 @@
 <title>[75] Microsoft、「Process Explorer」のMac版を公開 ～Sysinternalsの高機能タスクマネージャー／Windows版のコア機能を移植、macOS向けの独自機能も</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2155337.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2155337.html</guid>
-<pubDate>Wed, 11 Nov 2026 05:28:21 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Microsoft、「Process Explorer」のMac版を公開 ～Sysinternalsの高機能タスクマネージャー／Windows版のコア機能を移植、macOS向けの独自機能も — はてなブックマーク テクノロジー / score: 75 (Process ExplorerのMac版が公開)</description>
+<pubDate>Tue, 10 Nov 2026 23:58:58 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Microsoftは11月5日（現地時間）、「Process Explorer 1.0 for macOS」を公開した。Windowsプラットフォームで定番の高機能タスクマネージャー「Process Explorer」のMac版だ。 — 窓の杜 / score: 75 (Process ExplorerのMac版が公開)</description>
 </item>
 <item>
 <title>[75] Gemini 4 Carbon is now available</title>
@@ -661,14 +717,6 @@
 <pubDate>Tue, 10 Nov 2026 06:57:51 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Metaは2026年11月9日、ツール呼び出しやコード修正、文書解析など、AIエージェントが繰り返す処理を低コストで実行するための小型モデルMuse Emberを発表した。同日から、コーディングエージェントのMuse Codeと、アプリケーションからモデルを利用するMeta Model APIで提供している。 — gihyo.jp / score: 75 (Metaによる効率的な小型AIモデルの発表)</description>
-</item>
-<item>
-<title>[75] Claude Code を新しい Fable 5.2 に切り替えると速く安くなるのか。36回測ったら、Fable 5.1 より2割速く3割安く、費用は Opus 5.5 の1.6倍だった</title>
-<link>https://qiita.com/suwa_nobu/items/a6a104575596915dac2e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/suwa_nobu/items/a6a104575596915dac2e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Mon, 09 Nov 2026 23:50:19 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>2026年11月9日（日本時間では11月10日）、Anthropic が Claude Fable 5.2 と Claude Mythos 5.2 を発表しました。Hacker News では800点を超える投稿になっています。Mythos 5.2 は審査を通った組織だけが... — Qiita 人気記事 / score: 75 (新しいAIモデルの性能測定とコスト検証)</description>
 </item>
 <item>
 <title>[75] ChatGPT Enterprise now available in AWS Marketplace</title>
@@ -757,54 +805,6 @@
 <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science. — OpenAI News / score: 75 (AIエージェントの湿式実験科学を評価する新ベンチマーク発表。)</description>
-</item>
-<item>
-<title>[75] Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips</title>
-<link>https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/</link>
-<guid isPermaLink="true">https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/</guid>
-<pubDate>Thu, 05 Nov 2026 17:05:16 +0000</pubDate>
-<category>Google DeepMind</category>
-<description> — Google DeepMind / score: 75 (Geminiの新モデルに関する公式発表)</description>
-</item>
-<item>
-<title>[75] Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips</title>
-<link>https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/</link>
-<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/</guid>
-<pubDate>Thu, 05 Nov 2026 17:00:00 +0000</pubDate>
-<category>Google AI Blog</category>
-<description>Text "Gemini Introducing Gemini Omni 1.2 Flash" surroudned by images of a beehive, animals in conversation, a squid, and a woman walking down a street — Google AI Blog / score: 75 (Googleの新しいGeminiモデルの発表)</description>
-</item>
-<item>
-<title>[75] PFN、翻訳特化LLM「PLaMo 3 Translate」のモデル重みを公開、0.8Bから31Bまで4サイズ</title>
-<link>https://gihyo.jp/article/2026/11/plamo-3-translate-open-weights?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/11/plamo-3-translate-open-weights?utm_source=feed</guid>
-<pubDate>Thu, 05 Nov 2026 11:27:18 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Preferred Networks（PFN）は2026年11月5日、翻訳特化LLM「PLaMo 3 Translate」のモデル重みをHugging Faceで公開した。0.8B、2B、8B、31Bの4サイズを用意し、利用する機器や求める翻訳品質に合わせて選べる。端末や社内サーバーで動かすことで、原文や訳文を外部サーバーに送らずに翻訳できる。 — gihyo.jp / score: 75 (PFNによる翻訳特化LLMのモデル重み公開)</description>
-</item>
-<item>
-<title>[75] Amazon EC2 now publishes ImdsV1Enabled CloudWatch metric</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-imdsv1enabled-cloudwatch-metric/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-imdsv1enabled-cloudwatch-metric/</guid>
-<pubDate>Thu, 05 Nov 2026 08:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Amazon EC2 now supports an ImdsV1Enabled CloudWatch metric, giving customers visibility into which of their EC2 instances still have Instance Metadata Service Version 1 (IMDSv1) enabled. You can use this metric to track your migration to IMDSv2 across your accounts and Regions, at scale. With the ImdsV1Enabled metric, you can configure CloudWatch dashboards and alarms to track instances that still allow IMDSv1, identify migration gaps, and prioritize remediation, without building your own toolin — AWS What's New / score: 75 (セキュリティ改善のためのIMDSv1可視化機能)</description>
-</item>
-<item>
-<title>[75] Amazon S3 Tables now offer managed migration of Apache Hive tables to Apache Iceberg</title>
-<link>https://aws.amazon.com/blogs/aws/amazon-s3-tables-now-offer-managed-migration-of-apache-hive-tables-to-apache-iceberg/</link>
-<guid isPermaLink="true">https://aws.amazon.com/blogs/aws/amazon-s3-tables-now-offer-managed-migration-of-apache-hive-tables-to-apache-iceberg/</guid>
-<pubDate>Wed, 04 Nov 2026 23:34:52 +0000</pubDate>
-<category>AWS News Blog</category>
-<description>You can now migrate existing Apache Hive datasets in Amazon S3 to fully managed Apache Iceberg tables in Amazon S3 Tables, with no pipelines to build or compute to provision, while production workloads keep running. — AWS News Blog / score: 75 (Amazon S3のデータ移行機能の拡張)</description>
-</item>
-<item>
-<title>[75] AWS Sign-In now supports OAuth 2.0 Token Exchange</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/11/aws-signin-token-exchange/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/aws-signin-token-exchange/</guid>
-<pubDate>Wed, 04 Nov 2026 19:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>AWS Sign-In now supports OAuth 2.0 Token Exchange (RFC 8693), enabling applications to exchange third-party OpenID Connect (OIDC) tokens for short-lived, AWS service-scoped OAuth access tokens. This allows customers to securely integrate third-party applications with supported AWS services without sharing AWS credentials, while maintaining access controls through AWS Identity and Access Management (IAM). This capability is available for supported AWS services that use AWS Sign-In OAuth , enablin — AWS What's New / score: 75 (AWS Sign-InのOAuth 2.0 Token Exchange対応)</description>
 </item>
 </channel>
 </rss>
