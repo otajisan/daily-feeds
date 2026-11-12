@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 11 Nov 2026 22:05:55 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 00:15:56 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Google Chrome 157」にゼロデイ脆弱性、セキュリティアップデートが公開／すでに悪用を確認。Windows/Mac環境にはv157.0.8103.50/.51が展開</title>
@@ -53,14 +53,6 @@
 <pubDate>Wed, 11 Nov 2026 10:00:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>Googleが公開したChromeのセキュリティ更新と脆弱性について解説します。すでに悪用が確認されているため、ブラウザを再起動して最新の状態にアップデートしましょう。 — ギズモード・ジャパン / score: 90 (Chromeの緊急セキュリティパッチ配信)</description>
-</item>
-<item>
-<title>[90] メール配信のユミルリンク、不正アクセスで約4786万件漏えい　JR東海やアイスタイルに影響</title>
-<link>https://www.itmedia.co.jp/news/article/2611/11/2000003114/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/11/2000003114/</guid>
-<pubDate>Wed, 11 Nov 2026 08:42:25 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>メール配信サービスを手掛けるユミルリンク（東京都渋谷区）は11月11日、10月19日に公表した不正アクセスについて、メールアドレスなど延べ4786万4147件の個人情報が外部に流出したと発表した。10月26日時点では最大約5162万件が流出した可能性があるとしていたが、その後の調査で件数を精査した。同社のメールサービス... — はてなブックマーク テクノロジー / score: 90 (数千万件規模の大規模な個人情報漏えい事案)</description>
 </item>
 <item>
 <title>[90] 「Git for Windows」v2.56.1が公開 ～6件の脆弱性を修正、任意コード実行のおそれも／本家Gitのv2.55.1、v2.54.1、v2.53.1、v2.52.1、v2.51.3、v2.50.2にも修正</title>
@@ -231,6 +223,14 @@
 <description>The November 2026 security release for Next.js is now available — Next.js Blog / score: 90 (重要フレームワークの緊急セキュリティアップデート)</description>
 </item>
 <item>
+<title>[85] 宝くじ公式サイトに不正ログイン、当落情報や住所・氏名など閲覧された可能性</title>
+<link>https://ascii.jp/elem/000/004/450/4450798/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/450/4450798/?rss</guid>
+<pubDate>Thu, 12 Nov 2026 00:10:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>宝くじの発売元である全国の都道府県と指定都市は11月11日、宝くじ公式サイトで一部会員のアカウントに第三者が不正ログインし、会員情報を閲覧した可能性があると発表した。 — ASCII.jp / score: 85 (宝くじ公式サイトでの不正ログイン・情報漏洩)</description>
+</item>
+<item>
 <title>[85] Outlook.comがDMARC認証を受けていないドメインからのメールを拒否</title>
 <link>https://gigazine.net/news/20261112-outlook-rejecting-email-without-dmarc/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261112-outlook-rejecting-email-without-dmarc/</guid>
@@ -303,20 +303,20 @@
 <description>内閣府は11日、メールマガジン読者のメールアドレス約6万3千件が漏えいしたと発表した。配信に使っている民間サービスが不正アクセスを受けたためで、氏名や職業などの個人情報も流出した恐れがある。 — はてなブックマーク テクノロジー / score: 85 (内閣府メルマガの個人情報漏えいというセキュリティ事故)</description>
 </item>
 <item>
+<title>[85] ビックカメラ 法人顧客の企業情報13万件余が流出 不正アクセス | NHKニュース</title>
+<link>https://news.web.nhk/newsweb/na/nd-20261111de74257</link>
+<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261111de74257</guid>
+<pubDate>Wed, 11 Nov 2026 08:40:15 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>家電量販店大手の「ビックカメラ」は、法人顧客向けの問い合わせフォームが不正アクセスを受け、登録されていた企業の情報、13万3000件あまりが漏えいしたと発表しました。 漏えいしたのは、法人顧客向け… — はてなブックマーク テクノロジー / score: 85 (大手企業の法人顧客情報流出と不正アクセスインシデント)</description>
+</item>
+<item>
 <title>[85] Mozilla、「Firefox 160」を正式リリース ～便利な「ミニウィンドウ」をテスト投入／99件の脆弱性を修正。ピクチャーインピクチャーで再生速度を変更、MKVの対応形式も拡充</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2155410.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2155410.html</guid>
 <pubDate>Wed, 11 Nov 2026 08:10:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>Mozillaは11月10日（米国時間）、デスクトップ向け「Firefox」の最新版v160.0をリリースチャネルで公開した。「Firefox 159」に続くメジャーバージョンアップとなる。 — 窓の杜 / score: 85 (Firefoxメジャーアプデと大量の脆弱性修正)</description>
-</item>
-<item>
-<title>[85] 内閣府 メールアドレス6万件余漏えい アララ不正アクセス影響 | NHKニュース</title>
-<link>https://news.web.nhk/newsweb/na/nd-20261111de74151</link>
-<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261111de74151</guid>
-<pubDate>Wed, 11 Nov 2026 07:17:37 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>内閣府は所管する政策のメールマガジンなどの配信サービスを提供している会社が不正アクセスを受けた影響で、登録されているメールアドレス、延べおよそ6万3000件が漏えいしたと発表しました。 内閣府によ… — はてなブックマーク テクノロジー / score: 85 (内閣府メールアドレス流出に関する報道)</description>
 </item>
 <item>
 <title>[85] Google DeepMindがAIでコードを検証する「AlphaProof Code」を使ってSignalプロトコルの安全性の形式的検証に成功</title>
@@ -333,14 +333,6 @@
 <pubDate>Wed, 11 Nov 2026 06:35:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>Windows 11のペイントに脆弱性が発覚しました。不正なプログラムを実行されるおそれがありますが、すでに修正版が公開されています。Microsoft Storeから最新版へアップデートを行いましょう。 — ギズモード・ジャパン / score: 85 (OSアプリの脆弱性とアップデート情報のため重要)</description>
-</item>
-<item>
-<title>[85] Notion AIのチャット記録が委託先から流出した可能性についてまとめてみた - piyolog</title>
-<link>https://piyolog.hatenadiary.jp/entry/2026/11/11/125745</link>
-<guid isPermaLink="true">https://piyolog.hatenadiary.jp/entry/2026/11/11/125745</guid>
-<pubDate>Wed, 11 Nov 2026 04:18:22 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>2026年11月9日、Notionは、委託先のFireworks AIで発生したセキュリティインシデントにより、Notion AIの一部のチャット記録が流出した可能性があると公表しました。ここでは関連する情報をまとめます。 Fireworksで2経路の侵入 Notionが利用していた推論基盤のFireworksでは、2026年10月に内部認証情報の不正使用が見つ... — はてなブックマーク テクノロジー / score: 85 (Notion AIの委託先情報流出インシデント)</description>
 </item>
 <item>
 <title>[85] 知っている相手からのGoogleカレンダー招待。ログインしたらアカウント乗っ取られるかも</title>
@@ -415,20 +407,20 @@
 <description>Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope. — OpenAI News / score: 85 (サイバーセキュリティ特化型AIモデルの発表)</description>
 </item>
 <item>
-<title>[85] EC2 Amazon Machine Images can now be scanned for vulnerabilities through Amazon Inspector</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-amis-scanned-through-inspector/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-amis-scanned-through-inspector/</guid>
-<pubDate>Mon, 02 Nov 2026 08:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Amazon Inspector now extends its vulnerability scanning to EC2 Amazon Machine Images (AMIs), enabling you to identify software vulnerabilities in your AMIs without launching instances or installing additional software. This helps you fix issues at the source before AMIs are used to launch instances across your fleet. With this capability, you can run continuous evaluations to monitor your AMI catalog for newly discovered vulnerabilities, or perform targeted one-time scans for specific AMIs direc — AWS What's New / score: 85 (Amazon InspectorによるEC2 AMIの脆弱性スキャン機能追加)</description>
-</item>
-<item>
 <title>[85] Node.js 26.13.0リリース、コードネーム「Lithium」として長期サポート（LTS）に移行</title>
 <link>https://gihyo.jp/article/2026/10/node-js-26-13-0-lts?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/10/node-js-26-13-0-lts?utm_source=feed</guid>
 <pubDate>Thu, 29 Oct 2026 01:46:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Node.js開発チームは2026年10月28日、Node.js 26.13.0をリリースし、このバージョンからNode.js 26.xが「Lithium」というコードネームで長期サポート（LTS）に移行することを発表した。 — gihyo.jp / score: 85 (Node.js 26.13.0のLTS移行とリリース)</description>
+</item>
+<item>
+<title>[80] Google、判断に特化した高速・低コストモデル「Gemini Decision 1」を発表／出力トークンは課金なし</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2155703.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2155703.html</guid>
+<pubDate>Wed, 11 Nov 2026 23:11:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Googleは11月11日（現地時間）、「Gemini Decisions API」を発表した。決められた選択肢のなかから答えを選ぶ、判断に特化した新しいモデル「Gemini Decision 1」（gemini-decision-1）を利用可能で、「Google AI Studio」の「Gemini API」で提供される。 — 窓の杜 / score: 80 (Googleの判断特化型高速AIモデルGemini Decision 1発表)</description>
 </item>
 <item>
 <title>[80] テスト中の「ホワイトハッカーAI」が脱走。実在する会社の顧客データを盗み出してしまう</title>
@@ -477,14 +469,6 @@
 <pubDate>Tue, 10 Nov 2026 10:07:40 +0000</pubDate>
 <category>iPhone Mania</category>
 <description>Appleは日本時間11月10日に配信したmacOS27.2.1で、Mac標準のcurlなどが問題のある証明書を信頼し続けていた不具合を修正しました。更新前と更新後のMacで確認用のサイトに接続すると、更新後はcurl・ […] — iPhone Mania / score: 80 (OS標準ツールにおける証明書の脆弱性修正とアップデート)</description>
-</item>
-<item>
-<title>[80] Amazon Inspector、EC2のAMIを起動前に脆弱性スキャンが可能に</title>
-<link>https://codezine.jp/article/detail/30304</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/30304</guid>
-<pubDate>Tue, 10 Nov 2026 08:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 80 (AWSセキュリティ機能のアップデートと脆弱性対策)</description>
 </item>
 <item>
 <title>[80] Windows 11 23H2 Enterprise/Education、.NET 8/9、PowerShell 7.4/7.5などがサービス終了／11月の月例セキュリティパッチが最後の更新に</title>
@@ -615,20 +599,12 @@
 <description>【速報】政府、AI開発事業者に罰則検討 政府が、高性能人工知能（AI）が引き起こすリスクに対処するため、サービス開発事業者への罰則を新設する方向で検討していることが11日、分かった。 — はてなブックマーク テクノロジー / score: 75 (政府のAI規制と罰則検討に関する重要なニュース)</description>
 </item>
 <item>
-<title>[75] 「警察庁推奨アプリ」ダウンロードページの偽サイトに注意！　SMSでダウンロード求める　トビラシステムズが注意喚起</title>
-<link>https://internet.watch.impress.co.jp/docs/news/2155633.html</link>
-<guid isPermaLink="true">https://internet.watch.impress.co.jp/docs/news/2155633.html</guid>
-<pubDate>Wed, 11 Nov 2026 09:33:37 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>「警察庁推奨アプリ」ダウンロードページの偽サイトに注意！ SMSでダウンロード求める トビラシステムズが注意喚起 — はてなブックマーク テクノロジー / score: 75 (警察庁推奨アプリを装った偽サイトのセキュリティ注意喚起)</description>
-</item>
-<item>
-<title>[75] 政府、高性能AI暴走に罰則検討　法改正、開発事業者が対象 | NEWSjp</title>
+<title>[75] 政府、高性能AI暴走に罰則検討　悪質事業者に対抗手段へ法改正 | NEWSjp</title>
 <link>https://news.jp/i/1493175213544620448</link>
 <guid isPermaLink="true">https://news.jp/i/1493175213544620448</guid>
 <pubDate>Wed, 11 Nov 2026 09:22:05 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>政府が、高性能人工知能（AI）が引き起こすリスクに対処するため、サービス開発事業者への罰則を新設する方向で検討していることが11日、分かった。AI法制度を議論する非公開の作業部会で確認した。サイバー攻撃への悪用や暴走といった重大な脅威を念頭に置く。 事業者に対しては、安全を確保する義務を課すことも視野に... — はてなブックマーク テクノロジー / score: 75 (政府の高性能AI暴走に対する罰則検討)</description>
+<description>政府が高性能人工知能（AI）が引き起こすリスクに対処するため、AI関連事業者に安全確保を義務付け、罰則を新設する方向で検討していることが11日分かった。AI法制度を議論する非公開の作業部会で確認した。年末までに法改正の内容を含めた制度見直しの全体像を示す。サイバー攻撃への悪用や暴走といった重大な脅威に対... — はてなブックマーク テクノロジー / score: 75 (政府の高性能AI暴走に対する罰則検討)</description>
 </item>
 <item>
 <title>[75] Google製高性能AI「Gemini 4 Carbon」が一般公開される、複数のAIが協力する新機能で3Dゲームを制作するデモも披露</title>
@@ -637,6 +613,14 @@
 <pubDate>Wed, 11 Nov 2026 09:00:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>Googleは2026年11月10日にAIモデル「Gemini 4 Carbon」の一般提供を開始したと発表しました。Gemini 4 Carbonは複雑なプログラミングや科学研究、サイバーセキュリティ分野の作業に対応する高性能AIで、有料プラン「Google AI Ultra」のユーザーはGeminiアプリなどから利用できます。複数のAIが協力して長時間の作業を進める新機能「/swarm」も発表されています。 続きを読む... — GIGAZINE / score: 75 (Googleの高性能AI一般公開と新機能発表)</description>
+</item>
+<item>
+<title>[75] Claude Whiteboards, Claude Sheets, and Claude Data</title>
+<link>https://claude.com/resources/articles/sheets-whiteboards-data</link>
+<guid isPermaLink="true">https://claude.com/resources/articles/sheets-whiteboards-data</guid>
+<pubDate>Wed, 11 Nov 2026 08:55:48 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Today we’re launching Claude Whiteboards and Claude Sheets in beta, and Claude Dashboards (opens in new tab) becomes generally available as Claude Data. Whiteboards is a shared board where your team brainstorms with Claude, Sheets is a spreadsheet Claude builds and edits with you, and Claude Data... — はてなブックマーク テクノロジー / score: 75 (Claudeの新機能ホワイトボードやデータ機能のベータ提供)</description>
 </item>
 <item>
 <title>[75] Anthropic、Claude Sheets・Whiteboardsをベータ提供、Claude Dataは一般提供へ ——インタラクティブコネクターも更新、対応アプリをチャットの横や全画面で操作可能に</title>
@@ -653,22 +637,6 @@
 <pubDate>Wed, 11 Nov 2026 04:42:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>AMDがサーバー向けCPU「EPYC 9006シリーズ」の出荷開始を発表しました。 続きを読む... — GIGAZINE / score: 75 (AMDの次世代Zen 6サーバー向けEPYCの出荷開始。)</description>
-</item>
-<item>
-<title>[75] Linuxカーネル開発でAIによるバグ修正が効果。トーバルズ氏「潮目が変わり始めている兆候」 | テクノエッジ TechnoEdge</title>
-<link>https://www.techno-edge.net/article/2026/11/11/5697.html</link>
-<guid isPermaLink="true">https://www.techno-edge.net/article/2026/11/11/5697.html</guid>
-<pubDate>Wed, 11 Nov 2026 03:41:15 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Linuxカーネルの開発現場では、AIを活用したコード修正が成果を上げ始めているようです。Linuxの生みの親であるリーナス・トーバルズ氏は、Linux 7.4-rc2のリリースを告知する開発者向けメーリングリストへの投稿で、今回の変更の多くがAIによる修正に関係していると説明しました。 さらに、BPF（Berkeley Packet Filter... — はてなブックマーク テクノロジー / score: 75 (Linux開発でのAI活用に関する重要な動向)</description>
-</item>
-<item>
-<title>[75] Adobeが2027年のMCP対応を予告、PhotoshopやPremiere ProをAIエージェントから操作可能に</title>
-<link>https://gigazine.net/news/20261111-adobe-creative-tools-mcp-support/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261111-adobe-creative-tools-mcp-support/</guid>
-<pubDate>Wed, 11 Nov 2026 03:10:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>Adobeは2026年11月10日、クリエイター向けイベント「Adobe MAX 2026」で、PhotoshopやPremiere Proなどの主要アプリを外部のAIエージェントから操作できるようにするModel Context Protocol(MCP)対応を発表しました。2027年初頭にプライベートベータ版を提供する予定で、画像や動画の編集作業をAIエージェントに任せられるようになります。 続きを読む... — GIGAZINE / score: 75 (主要クリエイティブツールのMCP対応とAIエージェント連携)</description>
 </item>
 <item>
 <title>[75] Microsoft、「Process Explorer」のMac版を公開 ～Sysinternalsの高機能タスクマネージャー／Windows版のコア機能を移植、macOS向けの独自機能も</title>
@@ -805,6 +773,38 @@
 <pubDate>Fri, 06 Nov 2026 07:50:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Xのエンジニアリングチームは2026年11月4日、約10年間運用されてきた3種類のWebサーバーを統合し、新しい単一のWebアプリケーション基盤をゼロから構築したことを発表した。 — gihyo.jp / score: 75 (XのWeb基盤リプレイス事例と大規模構成)</description>
+</item>
+<item>
+<title>[75] AWS Security Hub now provides an SBOM inventory for your compute resources</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-sbom-inventory/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-sbom-inventory/</guid>
+<pubDate>Fri, 06 Nov 2026 00:30:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Today, AWS announces that AWS Security Hub now provides a Software Bill of Materials (SBOM) inventory, giving central security teams a continuously updated, organization-wide view of the software packages and applications installed on their compute resources. Security Hub builds the inventory from the SBOMs that Amazon Inspector generates for Amazon EC2 instances, Amazon ECR container images, and AWS Lambda functions, with no additional configuration. The SBOM page lists each package with its ve — AWS What's New / score: 75 (AWS Security HubのSBOMインベントリ機能追加)</description>
+</item>
+<item>
+<title>[75] Measuring how AI agents handle everyday wet-lab science</title>
+<link>https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science</link>
+<guid isPermaLink="true">https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science</guid>
+<pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science. — OpenAI News / score: 75 (AIエージェントの湿式実験科学を評価する新ベンチマーク発表。)</description>
+</item>
+<item>
+<title>[75] Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips</title>
+<link>https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/</link>
+<guid isPermaLink="true">https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/</guid>
+<pubDate>Thu, 05 Nov 2026 17:05:16 +0000</pubDate>
+<category>Google DeepMind</category>
+<description> — Google DeepMind / score: 75 (Geminiの新モデルに関する公式発表)</description>
+</item>
+<item>
+<title>[75] Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips</title>
+<link>https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/</link>
+<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/</guid>
+<pubDate>Thu, 05 Nov 2026 17:00:00 +0000</pubDate>
+<category>Google AI Blog</category>
+<description>Text "Gemini Introducing Gemini Omni 1.2 Flash" surroudned by images of a beehive, animals in conversation, a squid, and a woman walking down a street — Google AI Blog / score: 75 (Googleの新しいGeminiモデルの発表)</description>
 </item>
 </channel>
 </rss>
