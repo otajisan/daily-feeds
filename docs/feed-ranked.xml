@@ -4,8 +4,16 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 12 Nov 2026 04:07:33 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 06:11:00 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>[95] 「Apache HTTP Server 2.4.71」が公開 ～深刻度「Critical」を含む3件の脆弱性を修正／「mod_http2」にリモートコード実行の欠陥、v2.4.55以降が影響</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2155719.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2155719.html</guid>
+<pubDate>Thu, 12 Nov 2026 04:05:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>The Apache Software Foundation（ASF）は11月11日（協定世界時）、「Apache HTTP Server 2.4.71」を公開した。3件の脆弱性に対処したセキュリティアップデートとなっている。 — 窓の杜 / score: 95 (Apache HTTP ServerのCritical脆弱性修正)</description>
+</item>
 <item>
 <title>[95] Git、6件のセキュリティ脆弱性を修正した「Git 2.56.1」をリリース</title>
 <link>https://codezine.jp/article/detail/30338</link>
@@ -15,7 +23,7 @@
 <description> — CodeZine / score: 95 (Gitの複数のセキュリティ脆弱性を修正する更新)</description>
 </item>
 <item>
-<title>[95] 「Google Chrome 157」にゼロデイ脆弱性、セキュリティアップデートが公開／すでに悪用を確認。Windows/Mac環境にはv157.0.8103.50/.51が展開</title>
+<title>[95] 「Google Chrome 157」にゼロデイ脆弱性、セキュリティアップデートが公開【11月12日追記】／すでに悪用を確認。Android版「Microsoft Edge」にも修正版が公開</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2154988.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2154988.html</guid>
 <pubDate>Tue, 10 Nov 2026 02:01:00 +0000</pubDate>
@@ -31,20 +39,20 @@
 <description>OpenAIは2026年11月4日、開発中のサイバーセキュリティ向けAIモデルを活用し、Linuxカーネルの脆弱性をエージェントが自律的に発見し検証した結果を発表した。 — gihyo.jp / score: 95 (AIによるLinuxカーネルの脆弱性大量発見と実証の画期的なニュース)</description>
 </item>
 <item>
+<title>[90] Microsoft、「.NET 11」を正式リリース ～共用体型を導入した「C# 15」も／2年間サポートのSTSリリース、「.NET MAUI」の既定ランタイムは「CoreCLR」に</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2155556.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2155556.html</guid>
+<pubDate>Thu, 12 Nov 2026 05:20:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Microsoftは11月10日（現地時間）、開発プラットフォーム「.NET」の最新版「.NET 11」を正式リリースした。「.NET 10」に続く年次アップデートで、2年間のサポートが保証された「Standard Term Support」（STS）リリースとなる。 — 窓の杜 / score: 90 (.NET 11およびC# 15のメジャーリリース)</description>
+</item>
+<item>
 <title>[90] 「Google Chrome」に今週2回目のセキュリティ更新、83件のCVEに対処、うち5件は「Critical」／Windows/Mac環境にはv157.0.8103.78/.79が展開</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2155721.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2155721.html</guid>
 <pubDate>Thu, 12 Nov 2026 01:45:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Googleは11月11日（現地時間）、デスクトップ向け「Google Chrome」の安定（Stable）チャネルをアップデートした。Windows/Mac環境にはv157.0.8103.78/.79、Linux環境にはv157.0.8103.78が展開される。ゼロデイ脆弱性を修正した9日に続く、今週2回目のセキュリティアップデートだ。 — 窓の杜 / score: 90 (Chromeのクリティカルなゼロデイ脆弱性修正)</description>
-</item>
-<item>
-<title>[90] NVIDIA、ファンCEOの解任準備と米紙報道　取締役会で進退議論 - 日本経済新聞</title>
-<link>https://www.nikkei.com/article/DGXZQOGN1209D0S6A111C2000000/</link>
-<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOGN1209D0S6A111C2000000/</guid>
-<pubDate>Thu, 12 Nov 2026 01:18:26 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>【シリコンバレー=山田航平】米半導体大手エヌビディアの取締役会が、ジェンスン・ファン最高経営責任者（CEO）の進退をめぐり、11日に議論することが分かった。米紙ウォール・ストリート・ジャーナル（WSJ）は、取締役会が解任準備を進めていると報じた。ブルームバーグ通信によると、エヌビディアの取締役会は外部企業... — はてなブックマーク テクノロジー / score: 90 (NVIDIAのCEO進退を巡る重大な報道)</description>
 </item>
 <item>
 <title>[90] 2026-11-11, Version 26.13.1 'Lithium' (LTS), @aduh95</title>
@@ -69,14 +77,6 @@
 <pubDate>Wed, 11 Nov 2026 16:44:03 +0000</pubDate>
 <category>Node.js リリース</category>
 <description>This is a security release. Notable Changes ( CVE-2026-123863 ) http2: release headers when a stream is removed (Matteo Collina) – High ( CVE-2026-123864 ) tls,http: prevent nested parser execution from empty writes (Matteo Collina) – High ( CVE-2026-123865 ) http2: detect streams abandoned by nghttp2 (Matteo Collina) – High ( CVE-2026-123866 ) http2: retain buffers until socket writes finish (Matteo Collina) – High ( CVE-2026-123872 ) tls: disable resumption for mTLS with no session id context  — Node.js リリース / score: 90 (Node.js v22 LTSの重要なセキュリティアップデート)</description>
-</item>
-<item>
-<title>[90] Google Chromeを開きっぱなしの人は要注意。またもやセキュリティパッチが配信されました</title>
-<link>https://www.gizmodo.jp/article/chrome-security-patch-nov-2026/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/chrome-security-patch-nov-2026/</guid>
-<pubDate>Wed, 11 Nov 2026 10:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>Googleが公開したChromeのセキュリティ更新と脆弱性について解説します。すでに悪用が確認されているため、ブラウザを再起動して最新の状態にアップデートしましょう。 — ギズモード・ジャパン / score: 90 (Chromeの緊急セキュリティパッチ配信)</description>
 </item>
 <item>
 <title>[90] 「Git for Windows」v2.56.1が公開 ～6件の脆弱性を修正、任意コード実行のおそれも／本家Gitのv2.55.1、v2.54.1、v2.53.1、v2.52.1、v2.51.3、v2.50.2にも修正</title>
@@ -231,6 +231,14 @@
 <description>The November 2026 security release for Next.js is now available — Next.js Blog / score: 90 (重要フレームワークの緊急セキュリティアップデート)</description>
 </item>
 <item>
+<title>[85] AWS Emulatorの一般提供が開始 ―ローカルマシン内でAWS APIをエミュレート、コーディングエージェントによる安全なテスト実行が可能に</title>
+<link>https://gihyo.jp/article/2026/11/aws-emulator?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/11/aws-emulator?utm_source=feed</guid>
+<pubDate>Thu, 12 Nov 2026 04:21:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Amazon Web Services（AWS）は2026年11月11日、ローカルマシン上などでAWSアプリケーションを構築・テストできるエミュレーター「AWS Emulator」の一般提供を開始した。 — gihyo.jp / score: 85 (AWS Emulatorの一般提供開始に関する重要ニュース)</description>
+</item>
+<item>
 <title>[85] NVIDIAのジェンスン・フアンCEOが部下女性とも不倫関係にあったとの指摘、議員からは辞任要求の圧も</title>
 <link>https://gigazine.net/news/20261112-jensen-huang-had-relationship-with-exec/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261112-jensen-huang-had-relationship-with-exec/</guid>
@@ -245,6 +253,14 @@
 <pubDate>Thu, 12 Nov 2026 02:53:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>Google DeepMindが2026年11月11日に、DNAの塩基配列の違いが個々の細胞にどのような影響を与えるのかを予測するAIモデル「AlphaGenome 2」を発表しました。68種類の組織にわたる1億件以上の細胞データを用いて学習したAlphaGenome 2は、従来モデルと比べて遺伝子の発現に影響する変異を約2倍多く特定できるとのことです。 続きを読む... — GIGAZINE / score: 85 (DeepMindによる先進的AIモデル発表)</description>
+</item>
+<item>
+<title>[85] Amazon、AWSのAPIを手元で再現する「AWS Emulator」を無償公開　コードはすべてAIエージェントが記述</title>
+<link>https://www.itmedia.co.jp/news/article/2611/12/2000003126/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/12/2000003126/</guid>
+<pubDate>Thu, 12 Nov 2026 01:20:44 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>米Amazon傘下のAmazon Web Services（AWS）は11月11日（現地時間）、AWSのAPIを手元のPCなどで再現するツール「AWS Emulator」を公開した。開発者はクラウドのリソースを用意しなくても、AWSを使うアプリをローカル環境で構築したりテストしたりできる。AWSアカウントは不要で、追加料金も発生しない。AWSによると、すべ... — はてなブックマーク テクノロジー / score: 85 (AWS APIエミュレータの無償公開で開発効率が大幅向上)</description>
 </item>
 <item>
 <title>[85] 「Node.js」にセキュリティ更新 ～16件の脆弱性を修正、HTTP/2関連が多数／v22.23.5、v24.22.3、v26.13.1が公開</title>
@@ -317,14 +333,6 @@
 <pubDate>Wed, 11 Nov 2026 08:10:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>Mozillaは11月10日（米国時間）、デスクトップ向け「Firefox」の最新版v160.0をリリースチャネルで公開した。「Firefox 159」に続くメジャーバージョンアップとなる。 — 窓の杜 / score: 85 (Firefoxメジャーアプデと大量の脆弱性修正)</description>
-</item>
-<item>
-<title>[85] Google DeepMindがAIでコードを検証する「AlphaProof Code」を使ってSignalプロトコルの安全性の形式的検証に成功</title>
-<link>https://gigazine.net/news/20261111-google-deepmind-alphaproof-code-verification/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261111-google-deepmind-alphaproof-code-verification/</guid>
-<pubDate>Wed, 11 Nov 2026 07:05:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>Google DeepMindがソフトウェアの検証を行うためのマルチエージェントAIフレームワーク「AlphaProof Code」を発表しました。研究チームはAlphaProof Codeを用いて、Googleメッセージなどの暗号通信に使用されている「Signalプロトコル」が十分なセキュリティ保護機能を備えていることを数学的に証明することに成功しています。 続きを読む... — GIGAZINE / score: 85 (AIを用いたSignalプロトコルの形式的検証)</description>
 </item>
 <item>
 <title>[85] Google、最強モデル「Gemini 4 Carbon」を一般公開 ～11月30日までは導入価格で半額／有償のAPIと「Google AI Ultra」で利用可能</title>
@@ -407,20 +415,20 @@
 <description>NVIDIAのジェンスン・フアンCEOが不倫をしていたという事実を受け、NVIDIAの取締役会がフアンCEOを解任する準備を進めていると報じられました。 続きを読む... — GIGAZINE / score: 80 (大手テック企業の経営に関する重要報道)</description>
 </item>
 <item>
+<title>[80] ドコモ「5G SA」また障害、原因は5日と同じ「交換機の輻輳」　約9時間で復旧</title>
+<link>https://www.itmedia.co.jp/news/article/2611/12/2000003125/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/12/2000003125/</guid>
+<pubDate>Thu, 12 Nov 2026 01:21:31 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>NTTドコモは11月11日、同日午前10時34分から全国で発生していた「5G SA（Standalone）」サービス契約者の携帯電話サービスが利用しづらい状況について、約9時間後の午後7時17分に完全復旧したと発表した。 原因は5G SAの契約者を収容する交換機の輻輳で、5日に発生した障害と同じ。不正アクセスの形跡やサイバー攻撃を示... — はてなブックマーク テクノロジー / score: 80 (大手キャリアの大規模通信障害と原因究明)</description>
+</item>
+<item>
 <title>[80] Google、判断に特化した高速・低コストモデル「Gemini Decision 1」を発表／出力トークンは課金なし</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2155703.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2155703.html</guid>
-<pubDate>Wed, 11 Nov 2026 23:11:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Googleは11月11日（現地時間）、「Gemini Decisions API」を発表した。決められた選択肢のなかから答えを選ぶ、判断に特化した新しいモデル「Gemini Decision 1」（gemini-decision-1）を利用可能で、「Google AI Studio」の「Gemini API」で提供される。 — 窓の杜 / score: 80 (Googleの判断特化型高速AIモデルGemini Decision 1発表)</description>
-</item>
-<item>
-<title>[80] Test your applications against AWS locally with AWS Emulator | Amazon Web Services</title>
-<link>https://aws.amazon.com/blogs/aws/test-your-applications-against-aws-locally-with-aws-emulator/</link>
-<guid isPermaLink="true">https://aws.amazon.com/blogs/aws/test-your-applications-against-aws-locally-with-aws-emulator/</guid>
-<pubDate>Wed, 11 Nov 2026 22:58:04 +0000</pubDate>
+<pubDate>Wed, 11 Nov 2026 23:38:04 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>Test your applications against AWS locally with AWS Emulator | Amazon Web Services The sessions are set and your seat is waiting. Register now — はてなブックマーク テクノロジー / score: 80 (AWSのローカルエミュレータツールリリース)</description>
+<description>Google、判断に特化した高速・低コストモデル「Gemini Decision 1」を発表／出力トークンは課金なし — はてなブックマーク テクノロジー / score: 80 (Googleの判断特化型高速AIモデルGemini Decision 1発表)</description>
 </item>
 <item>
 <title>[80] テスト中の「ホワイトハッカーAI」が脱走。実在する会社の顧客データを盗み出してしまう</title>
@@ -429,6 +437,14 @@
 <pubDate>Wed, 11 Nov 2026 22:00:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>セキュリティ実験中のホワイトハッカーAIがテスト環境を脱走し、実在企業の社内システムから顧客データを持ち出した事件の詳細を解説します。 — ギズモード・ジャパン / score: 80 (AIのセキュリティリスクを示す重要事例)</description>
+</item>
+<item>
+<title>[80] Test your applications against AWS locally with AWS Emulator</title>
+<link>https://aws.amazon.com/blogs/aws/test-your-applications-against-aws-locally-with-aws-emulator/</link>
+<guid isPermaLink="true">https://aws.amazon.com/blogs/aws/test-your-applications-against-aws-locally-with-aws-emulator/</guid>
+<pubDate>Wed, 11 Nov 2026 19:00:44 +0000</pubDate>
+<category>AWS News Blog</category>
+<description>AWS Emulator is a free, open-source local emulator in Rust that lets developers test applications against nearly every AWS service on their own machine using the same CLI and SDK commands, with fidelity measured against real AWS behavior. — AWS News Blog / score: 80 (AWSのローカルエミュレータツールリリース)</description>
 </item>
 <item>
 <title>[80] GitHubのシークレットスキャン、Actionsワークフローログ内の検出に対応</title>
@@ -535,12 +551,12 @@
 <description>中国の大手テクノロジー企業であるAlibabaがQwen4シリーズのプレビュー版として「Qwen4-Max-Preview」をリリースしました。無料プランでも使用可能だったので実際にゲームを作ってみました。 続きを読む... — GIGAZINE / score: 75 (大規模言語モデルのプレ版公開)</description>
 </item>
 <item>
-<title>[75] Kotlin コンテキストパラメータの詳細な挙動を調べてみた - ドワンゴ教育サービス開発者ブログ</title>
-<link>https://blog.nnn.dev/entry/2026/11/12/110000</link>
-<guid isPermaLink="true">https://blog.nnn.dev/entry/2026/11/12/110000</guid>
-<pubDate>Thu, 12 Nov 2026 02:06:22 +0000</pubDate>
+<title>[75] Google、選択肢から答えを選ぶことに特化した「Gemini Decisions API」発表　回答を生成せず確率で返す</title>
+<link>https://www.itmedia.co.jp/aiplus/article/2611/12/2000003123/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2611/12/2000003123/</guid>
+<pubDate>Wed, 11 Nov 2026 23:24:36 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>概要 サンプルクラス コンテキストパラメータの定義 コンテキストパラメータの受け渡し方 ラムダ式 まとめ KotlinFestの宣伝 概要 コンテキストパラメータは Kotlin 2.4.0 で正式採用された新しい機能で、関数やプロパティの依存関係を、通常の引数とは違うかたちで暗黙的に受け渡すことができます。 kotlinlang.org こ... — はてなブックマーク テクノロジー / score: 75 (Kotlin新機能コンテキストパラメータの解説)</description>
+<description>米Googleは11月11日（現地時間）、ツールの選択やモデルの振り分け、ポリシー違反のチェックなど、あらかじめ用意した選択肢から答えを選ぶ用途に特化したAPI「Gemini Decisions API」を発表した。専用モデル「Gemini Decision 1」を使い、Google AI StudioのGemini APIを通じて利用できる。 — はてなブックマーク テクノロジー / score: 75 (Googleの新しい選択特化型AI APIの発表)</description>
 </item>
 <item>
 <title>[75] Gemini Decisions API</title>
@@ -581,14 +597,6 @@
 <pubDate>Wed, 11 Nov 2026 11:17:30 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>OpenAIは2026年11月10日、事業者向けのBusinesses in ChatGPTのベータ提供を開始した。事業者は、プロフィールの管理権限の申請と本人確認が承認されると、紹介文や商品情報などをChatGPTに提供し、ChatGPT内のWebサイトへのリンクのクリック数などを確認できる。 — gihyo.jp / score: 75 (OpenAIの新機能ベータ公開とビジネスへの影響)</description>
-</item>
-<item>
-<title>[75] ついにAIがあなたのフォトショを直接いじる。Adobe、主要アプリのMCP対応を予告</title>
-<link>https://www.gizmodo.jp/article/2611-adobe-max-2026-mcp-ai-agent/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-adobe-max-2026-mcp-ai-agent/</guid>
-<pubDate>Wed, 11 Nov 2026 10:30:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>Adobe MAX 2026で発表された主力アプリのMCP対応とAIエージェントによる直接編集機能について解説します。 — ギズモード・ジャパン / score: 75 (Adobe製品のMCP対応とAIによる自動化の発表)</description>
 </item>
 <item>
 <title>[75] Google製高性能AI「Gemini 4 Carbon」が一般公開される、複数のAIが協力する新機能で3Dゲームを制作するデモも披露</title>
@@ -797,14 +805,6 @@
 <pubDate>Thu, 05 Nov 2026 08:00:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Amazon EC2 now supports an ImdsV1Enabled CloudWatch metric, giving customers visibility into which of their EC2 instances still have Instance Metadata Service Version 1 (IMDSv1) enabled. You can use this metric to track your migration to IMDSv2 across your accounts and Regions, at scale. With the ImdsV1Enabled metric, you can configure CloudWatch dashboards and alarms to track instances that still allow IMDSv1, identify migration gaps, and prioritize remediation, without building your own toolin — AWS What's New / score: 75 (セキュリティ改善のためのIMDSv1可視化機能)</description>
-</item>
-<item>
-<title>[75] Amazon S3 Tables now offer managed migration of Apache Hive tables to Apache Iceberg</title>
-<link>https://aws.amazon.com/blogs/aws/amazon-s3-tables-now-offer-managed-migration-of-apache-hive-tables-to-apache-iceberg/</link>
-<guid isPermaLink="true">https://aws.amazon.com/blogs/aws/amazon-s3-tables-now-offer-managed-migration-of-apache-hive-tables-to-apache-iceberg/</guid>
-<pubDate>Wed, 04 Nov 2026 23:34:52 +0000</pubDate>
-<category>AWS News Blog</category>
-<description>You can now migrate existing Apache Hive datasets in Amazon S3 to fully managed Apache Iceberg tables in Amazon S3 Tables, with no pipelines to build or compute to provision, while production workloads keep running. — AWS News Blog / score: 75 (Amazon S3のデータ移行機能の拡張)</description>
 </item>
 </channel>
 </rss>
