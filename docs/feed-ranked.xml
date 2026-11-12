@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 12 Nov 2026 06:11:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 08:08:54 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Apache HTTP Server 2.4.71」が公開 ～深刻度「Critical」を含む3件の脆弱性を修正／「mod_http2」にリモートコード実行の欠陥、v2.4.55以降が影響</title>
@@ -45,6 +45,14 @@
 <pubDate>Thu, 12 Nov 2026 05:20:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Microsoftは11月10日（現地時間）、開発プラットフォーム「.NET」の最新版「.NET 11」を正式リリースした。「.NET 10」に続く年次アップデートで、2年間のサポートが保証された「Standard Term Support」（STS）リリースとなる。 — 窓の杜 / score: 90 (.NET 11およびC# 15のメジャーリリース)</description>
+</item>
+<item>
+<title>[90] Compromised GitHub accounts push CI secret stealer to tens of thousands of repositories</title>
+<link>https://www.aikido.dev/blog/compromised-github-accounts-push-ci-secret-stealer-to-tens-of-thousands-of-repositories</link>
+<guid isPermaLink="true">https://www.aikido.dev/blog/compromised-github-accounts-push-ci-secret-stealer-to-tens-of-thousands-of-repositories</guid>
+<pubDate>Thu, 12 Nov 2026 04:27:46 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Compromised GitHub accounts push CI secret stealer to tens of thousands of repositories Compromised GitHub accounts push CI secret stealer to tens of thousands of repositories Starting on November 10, a threat actor used stolen GitHub credentials to push a malicious workflow payload into tens of ... — はてなブックマーク テクノロジー / score: 90 (GitHubアカウント侵害とCIシークレット流出の重大なセキュリティインシデント)</description>
 </item>
 <item>
 <title>[90] 「Google Chrome」に今週2回目のセキュリティ更新、83件のCVEに対処、うち5件は「Critical」／Windows/Mac環境にはv157.0.8103.78/.79が展開</title>
@@ -191,14 +199,6 @@
 <description>AWS Ambassadorの積田です。 画像入りのPDFをS3に置いて、Amazon OpenSearch Serverless(以下AOSS)のIntelligent ingestionでIngestion jobを実行しました。 翌朝コンソールを開いたら、当月のコストが$2,777,528.09になっていました。1ドル155円で換算すると約4.3億円です。 実はAWSさんの課金バグで1,000万円以上の請求をされるのは今年3回目です（2月に約1,400万円、7月に約34.9兆円、10月に約4.3億円(今回)の請求をされています） この記事は高額請求をされてビビった方に対して、まず... — Zenn トレンド / score: 90 (AWSで発生した高額課金バグと初動対応の体験談)</description>
 </item>
 <item>
-<title>[90] 長いパスワードで認証を回避する脆弱性「*sshole」、「Alpine Linux」などに影響／2016年から存在、「OpenSSH 10.6p2」で対策</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2154439.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2154439.html</guid>
-<pubDate>Fri, 06 Nov 2026 09:47:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>「OpenSSH」に関連する脆弱性「*sshole」が報告され、影響する製品で対策が急がれている。 — 窓の杜 / score: 90 (OpenSSH関連の深刻な脆弱性と対策情報)</description>
-</item>
-<item>
 <title>[90] OpenAI、サイバーセキュリティ向けフロンティアモデル「GPT-6 Cyber」を発表 ―脆弱性の自律的な検出・検証・修正に対応、スコープ外への攻撃・逸脱を厳格に防止</title>
 <link>https://gihyo.jp/article/2026/11/gpt-6-cyber?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/11/gpt-6-cyber?utm_source=feed</guid>
@@ -229,6 +229,14 @@
 <pubDate>Tue, 03 Nov 2026 18:00:00 +0000</pubDate>
 <category>Next.js Blog</category>
 <description>The November 2026 security release for Next.js is now available — Next.js Blog / score: 90 (重要フレームワークの緊急セキュリティアップデート)</description>
+</item>
+<item>
+<title>[85] 2026年10月のWindows更新以降、「SQL Server」の接続に問題。数日中に緊急（OOB）修正へ／外部DBへの接続が閉じられず蓄積、パフォーマンスが低下するおそれ</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2155911.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2155911.html</guid>
+<pubDate>Thu, 12 Nov 2026 07:52:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Microsoftは11月11日（現地時間）、「SQL Server」のリンクサーバークエリで作成された接続が、クエリの完了後も開いたままになることがある問題を明らかにした。2026年10月の月例セキュリティパッチ以降をサーバー環境に適用すると発生するという。 — 窓の杜 / score: 85 (SQL Serverの重大な接続問題と緊急修正予定の告知)</description>
 </item>
 <item>
 <title>[85] AWS Emulatorの一般提供が開始 ―ローカルマシン内でAWS APIをエミュレート、コーディングエージェントによる安全なテスト実行が可能に</title>
@@ -274,9 +282,9 @@
 <title>[85] Outlook.comがDMARC認証を受けていないドメインからのメールを拒否</title>
 <link>https://gigazine.net/news/20261112-outlook-rejecting-email-without-dmarc/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261112-outlook-rejecting-email-without-dmarc/</guid>
-<pubDate>Wed, 11 Nov 2026 22:11:18 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>2026年11月5日から9日にかけて、Outlook.com・Hotmail・Live・MSNといったMicrosoftのコンシューマー向けメールサービスで、DMARCレコードを公開していないドメインからのメールが一部拒否される事象が発生しました。Microsoftからの公式発表がないまま問題が発生したことから、多くのユーザーや企業に混乱を招きました... — はてなブックマーク テクノロジー / score: 85 (メールセキュリティに関する重要な仕様変更トラブル)</description>
+<pubDate>Wed, 11 Nov 2026 22:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>2026年11月5日から9日にかけて、Outlook.com・Hotmail・Live・MSNといったMicrosoftのコンシューマー向けメールサービスで、DMARCレコードを公開していないドメインからのメールが一部拒否される事象が発生しました。Microsoftからの公式発表がないまま問題が発生したことから、多くのユーザーや企業に混乱を招きました。 続きを読む... — GIGAZINE / score: 85 (メールセキュリティに関する重要な仕様変更トラブル)</description>
 </item>
 <item>
 <title>[85] aws-emulator</title>
@@ -375,14 +383,6 @@
 <description>Googleは、Kubernetes上にAIエージェントのための高効率な基盤を構築するためのオープンソースソフトウェア「Agent Substrate」と「gVisor」を、Linux Foundation傘下のCloud Native C... — Publickey / score: 85 (KubernetesとAI基盤のOSS寄贈で影響力大)</description>
 </item>
 <item>
-<title>[85] 「Discord」がクライアント全体を「Rust」で書き直し、「Electron」から脱却へ／「Zed」のUIフレームワーク「GPUI」を採用、モバイル版とコードを共有</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2154396.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2154396.html</guid>
-<pubDate>Fri, 06 Nov 2026 08:24:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>ゲーマー向けトークアプリ「Discord」が、クライアントアプリ全体を「Rust」言語へ移行させるとのこと。米Discordの共同創業者でCTOを務めるStanislav Vishnevskiy氏が11月4日（現地時間、以下同）、自身の「X」（旧称Twitter）アカウントで明らかにした。 — 窓の杜 / score: 85 (DiscordのElectronからRustへの移行発表)</description>
-</item>
-<item>
 <title>[85] Partnering with Hacktron to find vulnerabilities in OpenAI’s systems</title>
 <link>https://openai.com/index/partnering-with-hacktron</link>
 <guid isPermaLink="true">https://openai.com/index/partnering-with-hacktron</guid>
@@ -402,9 +402,9 @@
 <title>[80] Googleが意思決定AIモデルの「Gemini Decisions 1」をリリース</title>
 <link>https://gigazine.net/news/20261112-gemini-decisions-1/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261112-gemini-decisions-1/</guid>
-<pubDate>Thu, 12 Nov 2026 03:55:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>大規模言語モデル(LLM)とは異なるアプローチでタスクを解決するAIモデル「Jev」が登場して以降、同様の「意思決定モデル」と呼ばれるAIエージェントの判断を誘導するモデルが相次いで登場しています。新たにGoogleから意思決定モデルの「Gemini Decision 1」が登場しました。 続きを読む... — GIGAZINE / score: 80 (Googleの新しい意思決定AIモデルリリース)</description>
+<pubDate>Thu, 12 Nov 2026 04:12:41 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>大規模言語モデル(LLM)とは異なるアプローチでタスクを解決するAIモデル「Jev」が登場して以降、同様の「意思決定モデル」と呼ばれるAIエージェントの判断を誘導するモデルが相次いで登場しています。新たにGoogleから意思決定モデルの「Gemini Decision 1」が登場しました。 Gemini Decisions API: Fast multimodal dec... — はてなブックマーク テクノロジー / score: 80 (Googleの新しい意思決定AIモデルリリース)</description>
 </item>
 <item>
 <title>[80] NVIDIAがジェンスン・フアンCEOを解任する準備を進めている</title>
@@ -535,6 +535,14 @@
 <description>November 9, 2026 — Claude Fable 5.2 and Mythos 5.2 arrive on Anthropic’s IPO roadshow day. How much thinking is worth paying for? — Latent Space / score: 78 (主要LLMの性能逆転とIPO動向)</description>
 </item>
 <item>
+<title>[75] Modern Web Guidance 1.0公開、エージェントによるフロントエンドの改修を支援</title>
+<link>https://gihyo.jp/article/2026/11/modern-web-guidance-1.0?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/11/modern-web-guidance-1.0?utm_source=feed</guid>
+<pubDate>Thu, 12 Nov 2026 05:55:27 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>GoogleのChromeチームは2026年11月10日、コーディングエージェントにWeb開発の知識やブラウザーの互換性情報を提供するOSSプロジェクト「Modern Web Guidance」の安定版1.0の公開を発表した。1.0では、既存コードから改修候補を探すワークフローを追加した。 — gihyo.jp / score: 75 (エージェント開発を支援するGoogleのModern Web Guidance 1.0公開)</description>
+</item>
+<item>
 <title>[75] AppleがローカルAI実行アプリ「Harbor」を開発中であることが判明、複数のMacを接続してメモリを共有可能</title>
 <link>https://gigazine.net/news/20261112-apple-claris-harbor-local-ai/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261112-apple-claris-harbor-local-ai/</guid>
@@ -549,14 +557,6 @@
 <pubDate>Thu, 12 Nov 2026 02:45:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>中国の大手テクノロジー企業であるAlibabaがQwen4シリーズのプレビュー版として「Qwen4-Max-Preview」をリリースしました。無料プランでも使用可能だったので実際にゲームを作ってみました。 続きを読む... — GIGAZINE / score: 75 (大規模言語モデルのプレ版公開)</description>
-</item>
-<item>
-<title>[75] Google、選択肢から答えを選ぶことに特化した「Gemini Decisions API」発表　回答を生成せず確率で返す</title>
-<link>https://www.itmedia.co.jp/aiplus/article/2611/12/2000003123/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2611/12/2000003123/</guid>
-<pubDate>Wed, 11 Nov 2026 23:24:36 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>米Googleは11月11日（現地時間）、ツールの選択やモデルの振り分け、ポリシー違反のチェックなど、あらかじめ用意した選択肢から答えを選ぶ用途に特化したAPI「Gemini Decisions API」を発表した。専用モデル「Gemini Decision 1」を使い、Google AI StudioのGemini APIを通じて利用できる。 — はてなブックマーク テクノロジー / score: 75 (Googleの新しい選択特化型AI APIの発表)</description>
 </item>
 <item>
 <title>[75] Gemini Decisions API</title>
@@ -599,22 +599,6 @@
 <description>OpenAIは2026年11月10日、事業者向けのBusinesses in ChatGPTのベータ提供を開始した。事業者は、プロフィールの管理権限の申請と本人確認が承認されると、紹介文や商品情報などをChatGPTに提供し、ChatGPT内のWebサイトへのリンクのクリック数などを確認できる。 — gihyo.jp / score: 75 (OpenAIの新機能ベータ公開とビジネスへの影響)</description>
 </item>
 <item>
-<title>[75] Google製高性能AI「Gemini 4 Carbon」が一般公開される、複数のAIが協力する新機能で3Dゲームを制作するデモも披露</title>
-<link>https://gigazine.net/news/20261111-gemini-4-carbon/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261111-gemini-4-carbon/</guid>
-<pubDate>Wed, 11 Nov 2026 09:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>Googleは2026年11月10日にAIモデル「Gemini 4 Carbon」の一般提供を開始したと発表しました。Gemini 4 Carbonは複雑なプログラミングや科学研究、サイバーセキュリティ分野の作業に対応する高性能AIで、有料プラン「Google AI Ultra」のユーザーはGeminiアプリなどから利用できます。複数のAIが協力して長時間の作業を進める新機能「/swarm」も発表されています。 続きを読む... — GIGAZINE / score: 75 (Googleの高性能AI一般公開と新機能発表)</description>
-</item>
-<item>
-<title>[75] Claude Whiteboards, Claude Sheets, and Claude Data</title>
-<link>https://claude.com/resources/articles/sheets-whiteboards-data</link>
-<guid isPermaLink="true">https://claude.com/resources/articles/sheets-whiteboards-data</guid>
-<pubDate>Wed, 11 Nov 2026 08:55:48 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Today we’re launching Claude Whiteboards and Claude Sheets in beta, and Claude Dashboards (opens in new tab) becomes generally available as Claude Data. Whiteboards is a shared board where your team brainstorms with Claude, Sheets is a spreadsheet Claude builds and edits with you, and Claude Data... — はてなブックマーク テクノロジー / score: 75 (Claudeの新機能ホワイトボードやデータ機能のベータ提供)</description>
-</item>
-<item>
 <title>[75] Anthropic、Claude Sheets・Whiteboardsをベータ提供、Claude Dataは一般提供へ ——インタラクティブコネクターも更新、対応アプリをチャットの横や全画面で操作可能に</title>
 <link>https://gihyo.jp/article/2026/11/claude-whiteboards-and-sheets-and-data-and-interactive-connectors?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/11/claude-whiteboards-and-sheets-and-data-and-interactive-connectors?utm_source=feed</guid>
@@ -626,9 +610,9 @@
 <title>[75] Microsoft、「Process Explorer」のMac版を公開 ～Sysinternalsの高機能タスクマネージャー／Windows版のコア機能を移植、macOS向けの独自機能も</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2155337.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2155337.html</guid>
-<pubDate>Tue, 10 Nov 2026 23:58:58 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Microsoftは11月5日（現地時間）、「Process Explorer 1.0 for macOS」を公開した。Windowsプラットフォームで定番の高機能タスクマネージャー「Process Explorer」のMac版だ。 — 窓の杜 / score: 75 (Process ExplorerのMac版が公開)</description>
+<pubDate>Wed, 11 Nov 2026 05:28:21 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Microsoft、「Process Explorer」のMac版を公開 ～Sysinternalsの高機能タスクマネージャー／Windows版のコア機能を移植、macOS向けの独自機能も — はてなブックマーク テクノロジー / score: 75 (Process ExplorerのMac版が公開)</description>
 </item>
 <item>
 <title>[75] Gemini 4 Carbon is now available</title>
@@ -805,6 +789,22 @@
 <pubDate>Thu, 05 Nov 2026 08:00:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Amazon EC2 now supports an ImdsV1Enabled CloudWatch metric, giving customers visibility into which of their EC2 instances still have Instance Metadata Service Version 1 (IMDSv1) enabled. You can use this metric to track your migration to IMDSv2 across your accounts and Regions, at scale. With the ImdsV1Enabled metric, you can configure CloudWatch dashboards and alarms to track instances that still allow IMDSv1, identify migration gaps, and prioritize remediation, without building your own toolin — AWS What's New / score: 75 (セキュリティ改善のためのIMDSv1可視化機能)</description>
+</item>
+<item>
+<title>[75] Amazon S3 Tables now offer managed migration of Apache Hive tables to Apache Iceberg</title>
+<link>https://aws.amazon.com/blogs/aws/amazon-s3-tables-now-offer-managed-migration-of-apache-hive-tables-to-apache-iceberg/</link>
+<guid isPermaLink="true">https://aws.amazon.com/blogs/aws/amazon-s3-tables-now-offer-managed-migration-of-apache-hive-tables-to-apache-iceberg/</guid>
+<pubDate>Wed, 04 Nov 2026 23:34:52 +0000</pubDate>
+<category>AWS News Blog</category>
+<description>You can now migrate existing Apache Hive datasets in Amazon S3 to fully managed Apache Iceberg tables in Amazon S3 Tables, with no pipelines to build or compute to provision, while production workloads keep running. — AWS News Blog / score: 75 (Amazon S3のデータ移行機能の拡張)</description>
+</item>
+<item>
+<title>[75] AWS Sign-In now supports OAuth 2.0 Token Exchange</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/aws-signin-token-exchange/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/aws-signin-token-exchange/</guid>
+<pubDate>Wed, 04 Nov 2026 19:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS Sign-In now supports OAuth 2.0 Token Exchange (RFC 8693), enabling applications to exchange third-party OpenID Connect (OIDC) tokens for short-lived, AWS service-scoped OAuth access tokens. This allows customers to securely integrate third-party applications with supported AWS services without sharing AWS credentials, while maintaining access controls through AWS Identity and Access Management (IAM). This capability is available for supported AWS services that use AWS Sign-In OAuth , enablin — AWS What's New / score: 75 (AWS Sign-InのOAuth 2.0 Token Exchange対応)</description>
 </item>
 </channel>
 </rss>
