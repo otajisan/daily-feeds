@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 13 Nov 2026 10:06:23 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 12:08:39 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「PostgreSQL」でセキュリティアップデート、「PostgreSQL 14」は最後の更新に／52件の脆弱性と、ここ数カ月に報告された140件を超える不具合が修正</title>
@@ -13,14 +13,6 @@
 <pubDate>Fri, 13 Nov 2026 08:42:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>オープンソースのリレーショナルデータベース（RDB）システム「PostgreSQL」で11月12日、セキュリティアップデートが実施された。52件の脆弱性と、ここ数カ月に報告された140件を超える不具合が修正されている。 — 窓の杜 / score: 95 (PostgreSQLの多数の脆弱性と不具合修正)</description>
-</item>
-<item>
-<title>[95] NVIDIAのジェンスン・フアンがCEOを辞任</title>
-<link>https://gigazine.net/news/20261112-nvidia-jensen-huang-resigns/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261112-nvidia-jensen-huang-resigns/</guid>
-<pubDate>Thu, 12 Nov 2026 14:16:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>NVIDIAの創業者であるジェンスン・フアン氏がCEOおよび取締役を辞任しました。 続きを読む... — GIGAZINE / score: 95 (NVIDIAジェンスン・フアンCEOの辞任発表)</description>
 </item>
 <item>
 <title>[95] 「Apache HTTP Server 2.4.71」が公開 ～深刻度「Critical」を含む3件の脆弱性を修正／「mod_http2」にリモートコード実行の欠陥、v2.4.55以降が影響</title>
@@ -53,14 +45,6 @@
 <pubDate>Fri, 13 Nov 2026 09:04:13 +0000</pubDate>
 <category>Latent Space</category>
 <description>November 12, 2026 — Colette Kress takes over as interim CEO. What happens to open source/American AI leadership? — Latent Space / score: 90 (NVIDIAのジェンスン・フアンCEOの退任報道)</description>
-</item>
-<item>
-<title>[90] 「ハンゲ」で個人情報漏えい、パスワード6.2万件流出　クレカのセキュリティコードも</title>
-<link>https://ascii.jp/elem/000/004/451/4451525/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/451/4451525/?rss</guid>
-<pubDate>Fri, 13 Nov 2026 08:20:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>ENSAPIA Tokyoは11月13日、オンラインゲームポータル「ハンゲ」への不正アクセスに関する第4報を公表し、利用者の個人情報の漏えいを確認したと発表した。 — ASCII.jp / score: 90 (個人情報漏えいと不正アクセスの重大インシデント)</description>
 </item>
 <item>
 <title>[90] 「Qoo10」不正アクセス、個人情報漏えい　「住所の地理座標」や「身体的特徴」も対象の可能性</title>
@@ -271,6 +255,14 @@
 <description> — CodeZine / score: 88 (Node.jsのLTS版と複数脆弱性の修正)</description>
 </item>
 <item>
+<title>[85] Outlookに警告が出ない？ 悪用された「なりすまし」をMicrosoftが修正</title>
+<link>https://www.gizmodo.jp/article/2611-outlook-vulnerability-fix-cve-2026-124194/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-outlook-vulnerability-fix-cve-2026-124194/</guid>
+<pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>Microsoftが修正したOutlookのなりすまし脆弱性について解説します。警告が出ないまま認証情報が漏えいするリスクと、最新のセキュリティ更新プログラムを適用する対策方法を分かりやすく紹介します。 — ギズモード・ジャパン / score: 85 (Microsoft製品のセキュリティ脆弱性修正)</description>
+</item>
+<item>
 <title>[85] マイクロソフトの大規模障害、なぜまだ復旧しない？</title>
 <link>https://www.gizmodo.jp/article/2611-microsoft-365-outage-20241113/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/2611-microsoft-365-outage-20241113/</guid>
@@ -287,12 +279,20 @@
 <description>Rustチームは2026年11月12日、プログラミング言語Rustのバージョン1.100.0をリリースした。never型を型引数などとしても使えるようになった。 — gihyo.jp / score: 85 (Rust 1.100.0のメジャーリリースと新機能追加)</description>
 </item>
 <item>
-<title>[85] 「Microsoft 365」の障害、発生から12時間を突破 ～メールサービスを中心に影響が拡大【18:55追記】／悪意ある攻撃ではない模様。現在復旧作業中で回復の初期段階、しかし依然障害継続中【やじうまの杜】</title>
+<title>[85] 良品計画への不正アクセスについてまとめてみた - piyolog</title>
+<link>https://piyolog.hatenadiary.jp/entry/2026/11/13/162738</link>
+<guid isPermaLink="true">https://piyolog.hatenadiary.jp/entry/2026/11/13/162738</guid>
+<pubDate>Fri, 13 Nov 2026 07:47:29 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>2026年10月30日、良品計画は公式アプリ「MUJI アプリ」の会員情報が外部に流出した可能性があると公表し、その後の公表で対象を広げました。ここでは関連する情報をまとめます。 公表のたびに広がった対象 最初の公表の対象はMUJI アプリの会員情報に限られていた。その後、ネットストアの会員、氏名や住所、MUJI Card ... — はてなブックマーク テクノロジー / score: 85 (良品計画のアプリ会員情報流出に関するセキュリティ情報)</description>
+</item>
+<item>
+<title>[85] 「Microsoft 365」の障害、発生から12時間を突破 ～メールサービスを中心に影響が拡大【16:45追記】／悪意ある攻撃ではない模様。解決に向けて明るい兆しが見えるも引き続き障害継続中【やじうまの杜】</title>
 <link>https://forest.watch.impress.co.jp/docs/serial/yajiuma/2156298.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/serial/yajiuma/2156298.html</guid>
-<pubDate>Fri, 13 Nov 2026 06:22:11 +0000</pubDate>
-<category>窓の杜</category>
-<description>「やじうまの杜」では、ニュース・レビューにこだわらない幅広い話題をお伝えします。 — 窓の杜 / score: 85 (Microsoft 365障害の継続と影響拡大)</description>
+<pubDate>Fri, 13 Nov 2026 06:55:30 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>「Microsoft 365」の障害、発生から12時間を突破 ～メールサービスを中心に影響が拡大【16:45追記】／悪意ある攻撃ではない模様。解決に向けて明るい兆しが見えるも引き続き障害継続中【やじうまの杜】 — はてなブックマーク テクノロジー / score: 85 (Microsoft 365障害の継続と影響拡大)</description>
 </item>
 <item>
 <title>[85] マイクロソフト障害、市場ではFAX活用　投信で基準価格公表に遅れも - 日本経済新聞</title>
@@ -311,6 +311,14 @@
 <description>Microsoft 365の接続障害が長期化 OutlookやCopilotなどに影響 — はてなブックマーク テクノロジー / score: 85 (主要クラウドサービスの長期大規模障害)</description>
 </item>
 <item>
+<title>[85] Microsoft 365で世界規模の大規模障害が発生し復旧したサーバーも再び停止する事態に、OutlookやTeamsなど幅広いサービスに影響</title>
+<link>https://gigazine.net/news/20261113-microsoft-365-down/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261113-microsoft-365-down/</guid>
+<pubDate>Fri, 13 Nov 2026 04:00:54 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Microsoftのクラウドサービス「Microsoft 365」で2026年11月13日に世界規模の大規模障害が発生し、メールサービスの「Outlook」やチャット・会議ツールの「Microsoft Teams」、AIアシスタントの「Microsoft 365 Copilot」などが利用しにくい状態となっています。Microsoftは復旧作業を進めていますが、一度復旧したサー... — はてなブックマーク テクノロジー / score: 85 (Microsoft 365の世界規模の大規模障害と影響)</description>
+</item>
+<item>
 <title>[85] Google、Gemini 4 Hydrogenを発表、Antigravityにモデルを自動で切り替えるOrchestratorを導入 ——検索のAIモードにも展開、複雑な質問の理解や回答の見やすさを改善し、より幅広い関連リンクを提示</title>
 <link>https://gihyo.jp/article/2026/11/gemini-4-hydrogen?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/11/gemini-4-hydrogen?utm_source=feed</guid>
@@ -319,28 +327,12 @@
 <description>Googleは2026年11月12日、AIモデルGemini 4 Hydrogenを発表した。日常的なコーディングや、AIがツールを使いながら複数の手順を進める作業を、速く効率よく進められるよう設計した。 — gihyo.jp / score: 85 (Googleによる新AIモデルGemini 4 Hydrogen発表)</description>
 </item>
 <item>
-<title>[85] Microsoft 365で世界規模の大規模障害が発生し復旧したサーバーも再び停止する事態に、OutlookやTeamsなど幅広いサービスに影響</title>
-<link>https://gigazine.net/news/20261113-microsoft-365-down/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261113-microsoft-365-down/</guid>
-<pubDate>Fri, 13 Nov 2026 03:50:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>Microsoftのクラウドサービス「Microsoft 365」で2026年11月13日に世界規模の大規模障害が発生し、メールサービスの「Outlook」やチャット・会議ツールの「Microsoft Teams」、AIアシスタントの「Microsoft 365 Copilot」などが利用しにくい状態となっています。Microsoftは復旧作業を進めていますが、一度復旧したサーバーが再び応答しなくなる問題も確認されており、記事作成時点では全面復旧の見通しは立っていません。 続きを読む... — GIGAZINE / score: 85 (Microsoft 365の世界規模の大規模障害と影響)</description>
-</item>
-<item>
 <title>[85] Googleが無料で使える高性能AI「Gemini 4 Hydrogen」を発表、従来モデルの2.5倍の速度で動作し競合AIを上回る性能も発揮</title>
 <link>https://gigazine.net/news/20261113-gemini-4-hydrogen/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261113-gemini-4-hydrogen/</guid>
-<pubDate>Fri, 13 Nov 2026 03:22:56 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Googleが2026年11月12日に新たなAIモデル「Gemini 4 Hydrogen」を発表しました。従来の高速モデル「Gemini 3.8 Flash」と比べて処理速度と推論能力が大幅に向上しており、プログラミングや資料作成などの複雑な作業を効率的に進められるとのこと。GeminiアプリやGoogle検索などでも利用可能です。 Introducing Gemini 4 ... — はてなブックマーク テクノロジー / score: 85 (Googleの高性能新型AIモデル発表のため重要度が高い)</description>
-</item>
-<item>
-<title>[85] 宝くじ公式サイトに不正アクセス 4436アカウントに被害</title>
-<link>https://www.watch.impress.co.jp/docs/news/2156159.html</link>
-<guid isPermaLink="true">https://www.watch.impress.co.jp/docs/news/2156159.html</guid>
-<pubDate>Fri, 13 Nov 2026 02:59:32 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>宝くじ公式サイトに不正アクセス 4436アカウントに被害 — はてなブックマーク テクノロジー / score: 85 (宝くじ公式サイトでの不正アクセス被害の発生)</description>
+<pubDate>Fri, 13 Nov 2026 03:20:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>Googleが2026年11月12日に新たなAIモデル「Gemini 4 Hydrogen」を発表しました。従来の高速モデル「Gemini 3.8 Flash」と比べて処理速度と推論能力が大幅に向上しており、プログラミングや資料作成などの複雑な作業を効率的に進められるとのこと。GeminiアプリやGoogle検索などでも利用可能です。 続きを読む... — GIGAZINE / score: 85 (Googleの高性能新型AIモデル発表のため重要度が高い)</description>
 </item>
 <item>
 <title>[85] Google、高速・高効率な「Gemini 4 Hydrogen」を発表 ～「Claude Sonnet 5.5」「GPT-6.1 Terra」のライバル／前世代「3.8 Flash」の2.5倍の速さでタスクを完了</title>
@@ -527,22 +519,6 @@
 <description>2026年11月13日、Microsoftは、Exchange Onlineを中心に複数のMicrosoft 365サービスで接続障害が起きていると公表しました。ここでは関連する情報をまとめます。 Exchange Onlineの接続障害が複数サービスへ拡大 障害はExchange Onlineのメールボックスに接続できない問題として始まり、複数のMicrosoft 365サービスへ... — はてなブックマーク テクノロジー / score: 80 (Microsoft 365の大規模接続障害のまとめ)</description>
 </item>
 <item>
-<title>[80] Microsoft障害 全面復旧は未定</title>
-<link>https://news.yahoo.co.jp/pickup/6602382?source=rss</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6602382?source=rss</guid>
-<pubDate>Fri, 13 Nov 2026 01:01:01 +0000</pubDate>
-<category>Yahoo!ニュース IT</category>
-<description> — Yahoo!ニュース IT / score: 80 (Microsoftの大規模障害の続報)</description>
-</item>
-<item>
-<title>[80] 無料でAWSをローカル環境で再現できるAmazon公式エミュレーターが登場</title>
-<link>https://gigazine.net/news/20261113-aws-emulator/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261113-aws-emulator/</guid>
-<pubDate>Thu, 12 Nov 2026 22:36:09 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Amazonはすべて自律AIエージェントによって開発された新しいローカルAWSエミュレーター「AWS Emulator」をリリースしました。AWS EmulatorはAWSサービスをローカル環境で実行することによりAWSアプリケーションの開発とテストを可能にするとのことです。注目すべき点として、AWS Emulatorのプロジェクトでは人間のエンジ... — はてなブックマーク テクノロジー / score: 80 (AWS公式のローカルエミュレーター登場という重要ニュース)</description>
-</item>
-<item>
 <title>[80] Google、新しい意思決定モデル「Gemini Decision 1」を搭載、最大1,000問を一度に高速判定する「Gemini Decisions API」を発表</title>
 <link>https://gihyo.jp/article/2026/11/gemini-decisions?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/11/gemini-decisions?utm_source=feed</guid>
@@ -653,6 +629,14 @@
 <pubDate>Fri, 13 Nov 2026 02:03:19 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Google DeepMindは2026年11月10日、人間の専門家とAIエージェントが協力してソフトウェアを形式検証するフレームワーク「AlphaProof Code」を発表した。研究チームは、エンドツーエンド暗号化通信に使われるSignalプロトコルの参照実装libsignalに、この仕組みを適用した。 — gihyo.jp / score: 75 (形式検証フレームワークによる暗号プロトコル検証)</description>
+</item>
+<item>
+<title>[75] GitHub - cloudflare/kitesurf: Kitesurf is an experimental browser engine that runs on Cloudflare Workers.</title>
+<link>https://github.com/cloudflare/kitesurf</link>
+<guid isPermaLink="true">https://github.com/cloudflare/kitesurf</guid>
+<pubDate>Fri, 13 Nov 2026 00:48:41 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Kitesurf is an experimental browser engine that runs on Cloudflare Workers. It parses HTML, applies CSS, runs page JavaScript, and renders screenshots without Chrome or a browser container. Kitesurf speaks the Chrome DevTools Protocol (CDP), so you can use it with CDP clients such as Puppeteer. I... — はてなブックマーク テクノロジー / score: 75 (Cloudflare Workers上で動く実験的ブラウザエンジン)</description>
 </item>
 <item>
 <title>[75] 最強オープンウェイトモデル Kimi-K3.1-Pro をセルフホストして独自ベンチで比べてみた</title>
@@ -805,6 +789,22 @@
 <pubDate>Tue, 10 Nov 2026 10:50:26 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>OpenAIは2026年11月9日、パーソナルAIエージェントのdotsで、1つのdotに複数のローカルPCを接続し、タスクに使うPCを選べるようになったと、開発者向け公式Xアカウントで案内した。ユーザーがノートPCでコードを書き続ける間、dotは別の作業用PCでアプリをビルドしたり、テストしたりできる。 — gihyo.jp / score: 75 (OpenAIのAIエージェントの新機能と開発者向け拡張)</description>
+</item>
+<item>
+<title>[75] Amazon ElastiCache Serverless now supports vector, full-text and hybrid searches plus aggregations</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-elasticache-serverless-search-aggregations/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-elasticache-serverless-search-aggregations/</guid>
+<pubDate>Tue, 10 Nov 2026 08:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon ElastiCache Serverless for Valkey now supports vector, full-text, and hybrid search, along with aggregations. Applications searching live data often face a hard trade-off between latency and recall, along with delays before updates become searchable. With search on ElastiCache Serverless, applications can search data with latency as low as microseconds at up to 99% recall for vector search, while serving billions of queries per day. Updates are searchable in as little as microseconds, as  — AWS What's New / score: 75 (ElastiCacheのベクトル検索機能追加)</description>
+</item>
+<item>
+<title>[75] Introducing Our Smallest, Most Efficient Model: Muse Ember</title>
+<link>https://simonwillison.net/2026/Nov/10/muse-ember/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Nov/10/muse-ember/</guid>
+<pubDate>Tue, 10 Nov 2026 07:28:21 +0000</pubDate>
+<category>Simon Willison</category>
+<description>Introducing Our Smallest, Most Efficient Model: Muse Ember Meta AI just launched their entry in the Claude Haiku/GPT Luna category: Muse Ember, which they describe as: [...] our smallest and most efficient model designed for complex reasoning execution and the work agents repeat all day: tool calls, coding subtasks, routing, extraction, and long document parsing. For shorter prompts it's priced the same as GPT-6 Luna and Claude Haiku 5.5 - both are $0.10/million input tokens and $0.50/million ou — Simon Willison / score: 75 (Metaの新型効率的AIモデルの発表)</description>
 </item>
 </channel>
 </rss>
