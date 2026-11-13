@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 13 Nov 2026 14:06:35 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 16:06:36 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「PostgreSQL」でセキュリティアップデート、「PostgreSQL 14」は最後の更新に／52件の脆弱性と、ここ数カ月に報告された140件を超える不具合が修正</title>
@@ -53,14 +53,6 @@
 <pubDate>Fri, 13 Nov 2026 04:40:27 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>会員数3000万人超の大手ECモール「Qoo10」（キューテン）を運営するeBay Japanは11月12日、6日に同社のシステムが不正アクセスを受け、一部の個人情報が閲覧されたと発表した。氏名や住所の他、住所の地理座標、顧客が任意で入力した身体的特徴などが含まれる可能性があるという。 対象となる可能性がある個人情報には、... — はてなブックマーク テクノロジー / score: 90 (Qoo10の大規模不正アクセスと個人情報流出のニュース)</description>
-</item>
-<item>
-<title>[90] 【更新中】マイクロソフトで接続障害 世界各地で影響広がる | NHKニュース</title>
-<link>https://news.web.nhk/newsweb/na/nd-20261113de75121</link>
-<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261113de75121</guid>
-<pubDate>Thu, 12 Nov 2026 20:59:02 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>アメリカのIT大手「マイクロソフト」の「マイクロソフト365」と呼ばれるサービスで接続障害が発生し、アメリカや日本などの広い範囲でサービスが利用できないケースが確認されるなど影響が広がっています。マイ… — はてなブックマーク テクノロジー / score: 90 (マイクロソフト365の世界的な接続障害の速報)</description>
 </item>
 <item>
 <title>[90] Gemini 4 Hydrogen: everyday coding and agentic workflows for developers</title>
@@ -245,6 +237,14 @@
 <pubDate>Thu, 12 Nov 2026 23:00:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 88 (Node.jsのLTS版と複数脆弱性の修正)</description>
+</item>
+<item>
+<title>[85] llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem</title>
+<link>https://huggingface.co/blog/ggml-org/llama-cpp-v1</link>
+<guid isPermaLink="true">https://huggingface.co/blog/ggml-org/llama-cpp-v1</guid>
+<pubDate>Fri, 13 Nov 2026 14:05:22 +0000</pubDate>
+<category>Hugging Face Blog</category>
+<description> — Hugging Face Blog / score: 85 (ローカルAI基盤llama.cppのメジャーリリース)</description>
 </item>
 <item>
 <title>[85] マネックス証券、不正アクセスでメールアドレス最大113万件と本人確認書類1600件弱が漏洩のおそれ</title>
@@ -487,6 +487,14 @@
 <description>Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope. — OpenAI News / score: 85 (サイバーセキュリティ特化型AIモデルの発表)</description>
 </item>
 <item>
+<title>[80] Introducing ChatGPT Wallet</title>
+<link>https://openai.com/index/introducing-chatgpt-wallet</link>
+<guid isPermaLink="true">https://openai.com/index/introducing-chatgpt-wallet</guid>
+<pubDate>Fri, 13 Nov 2026 15:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections. — OpenAI News / score: 80 (OpenAIによる決済機能統合の重要発表)</description>
+</item>
+<item>
 <title>[80] 「PowerShell 7.7」が一般公開 ～.NET 11ベース、セキュリティ強化や新コマンドを追加／2年サポートの「標準期間サポート」（STS）リリース</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2156192.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2156192.html</guid>
@@ -607,12 +615,28 @@
 <description>会議や取材で録音した音声を文字に起こす際には、録音ファイルをアップロードしたり専用の文字起こしソフトを使ったりする方法がありますが、ブラウザだけでリアルタイムに行える無料のツールが「Voxtral Mini 4B Realtime WebGPU」です。日本語を含む13言語に対応し、WebGPUによって音声認識AIを完全ローカルで実行できるとのことなので実際に使ってみました。 続きを読む... — GIGAZINE / score: 75 (WebGPUを活用したブラウザ完結型ローカル音声認識AIの紹介)</description>
 </item>
 <item>
+<title>[75] Googleの新AI「Gemini 4 Hydrogen」。作業スピードが2.5倍に</title>
+<link>https://www.gizmodo.jp/article/2611-gemini-4-hydrogen/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-gemini-4-hydrogen/</guid>
+<pubDate>Fri, 13 Nov 2026 13:45:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>Googleの新AIモデル「Gemini 4 Hydrogen」が登場。従来より2.5倍の速さでタスクを処理し、コード作成や検索機能が向上した新モデルの特徴を解説します。 — ギズモード・ジャパン / score: 75 (Googleの新世代AIモデル発表)</description>
+</item>
+<item>
 <title>[75] TSMCがOpenAIとAnthropicの株主に。最大10億ドル投資は何が狙い？</title>
 <link>https://www.gizmodo.jp/article/2611-tsmc-openai-anthropic-investment/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/2611-tsmc-openai-anthropic-investment/</guid>
 <pubDate>Fri, 13 Nov 2026 12:15:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>TSMCによるOpenAIとAnthropicへの最大10億ドル規模の投資の狙いを解説。チップの自社設計が進むAI業界で、製造の主導権を握り続けるための戦略的な先回り投資の背景を読み解きます。 — ギズモード・ジャパン / score: 75 (TSMCのAI企業への巨額投資と業界への影響。)</description>
+</item>
+<item>
+<title>[75] オンラインゲームポータルサイト『ハンゲ（hange）』不正アクセスについて(第4報) | ENSAPIA Tokyo株式会社</title>
+<link>https://ensapia-tokyo.com/news/topics/id=21412/</link>
+<guid isPermaLink="true">https://ensapia-tokyo.com/news/topics/id=21412/</guid>
+<pubDate>Fri, 13 Nov 2026 08:38:59 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>3. 原因 『ハンゲ』サーバーへの第三者による不正アクセスが原因となります。詳細については現在も調査を進めております。 4. お客様へのお願いと二次被害への注意喚起 パスワードの変更: 他社サービスで同一のパスワードを使い回されている場合は、念のため速やかに変更していただきますようお願いいたします。 不審な... — はてなブックマーク テクノロジー / score: 75 (オンラインゲームポータルの不正アクセスと注意喚起)</description>
 </item>
 <item>
 <title>[75] 2026年11月のWindows 11セキュリティパッチ、一部デバイスでインストールが完了しない問題／Microsoftが自動で修復中</title>
@@ -623,20 +647,20 @@
 <description>2026年11月のセキュリティ更新プログラム「KB5132061」の適用を試みた一部デバイスで、インストールが完了しない問題が発生しているとのこと。米Microsoftが自社のサポートページで明らかにした。 — 窓の杜 / score: 75 (月例セキュリティパッチの適用失敗問題)</description>
 </item>
 <item>
-<title>[75] 「好機が来た」――なぜ今Sakana AIは、イチからAIモデルを作るのか　“新たな一手”のねらいを聞いた</title>
-<link>https://www.itmedia.co.jp/aiplus/article/2611/13/2000003141/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2611/13/2000003141/</guid>
-<pubDate>Fri, 13 Nov 2026 02:42:50 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>「好機が来た」――Sakana AIは、自社で一からAIモデルを開発しはじめた理由についてこのように表現する。モデルの名前は「Sakana Sawara（仮称）」。同社が10月26日に開催したシンポジウムで発表した。 日本のAI開発には、大きく分けて2つの方向性がある。海外企業のオープンなAIモデルをベースに、応答や振る舞いを調整... — はてなブックマーク テクノロジー / score: 75 (Sakana AIによる独自AIモデル開発の戦略ニュース)</description>
-</item>
-<item>
 <title>[75] Google DeepMind、AlphaProof Codeを発表 ——Signalプロトコルの実装を機械語レベルで形式検証</title>
 <link>https://gihyo.jp/article/2026/11/alphaproof-code?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/11/alphaproof-code?utm_source=feed</guid>
 <pubDate>Fri, 13 Nov 2026 02:03:19 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Google DeepMindは2026年11月10日、人間の専門家とAIエージェントが協力してソフトウェアを形式検証するフレームワーク「AlphaProof Code」を発表した。研究チームは、エンドツーエンド暗号化通信に使われるSignalプロトコルの参照実装libsignalに、この仕組みを適用した。 — gihyo.jp / score: 75 (形式検証フレームワークによる暗号プロトコル検証)</description>
+</item>
+<item>
+<title>[75] GitHub - cloudflare/kitesurf: Kitesurf is an experimental browser engine that runs on Cloudflare Workers.</title>
+<link>https://github.com/cloudflare/kitesurf</link>
+<guid isPermaLink="true">https://github.com/cloudflare/kitesurf</guid>
+<pubDate>Fri, 13 Nov 2026 00:48:41 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Kitesurf is an experimental browser engine that runs on Cloudflare Workers. It parses HTML, applies CSS, runs page JavaScript, and renders screenshots without Chrome or a browser container. Kitesurf speaks the Chrome DevTools Protocol (CDP), so you can use it with CDP clients such as Puppeteer. I... — はてなブックマーク テクノロジー / score: 75 (Cloudflare Workers上で動く実験的ブラウザエンジン)</description>
 </item>
 <item>
 <title>[75] 最強オープンウェイトモデル Kimi-K3.1-Pro をセルフホストして独自ベンチで比べてみた</title>
@@ -781,30 +805,6 @@
 <pubDate>Tue, 10 Nov 2026 08:00:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Amazon ElastiCache Serverless for Valkey now supports vector, full-text, and hybrid search, along with aggregations. Applications searching live data often face a hard trade-off between latency and recall, along with delays before updates become searchable. With search on ElastiCache Serverless, applications can search data with latency as low as microseconds at up to 99% recall for vector search, while serving billions of queries per day. Updates are searchable in as little as microseconds, as  — AWS What's New / score: 75 (ElastiCacheのベクトル検索機能追加)</description>
-</item>
-<item>
-<title>[75] Introducing Our Smallest, Most Efficient Model: Muse Ember</title>
-<link>https://simonwillison.net/2026/Nov/10/muse-ember/</link>
-<guid isPermaLink="true">https://simonwillison.net/2026/Nov/10/muse-ember/</guid>
-<pubDate>Tue, 10 Nov 2026 07:28:21 +0000</pubDate>
-<category>Simon Willison</category>
-<description>Introducing Our Smallest, Most Efficient Model: Muse Ember Meta AI just launched their entry in the Claude Haiku/GPT Luna category: Muse Ember, which they describe as: [...] our smallest and most efficient model designed for complex reasoning execution and the work agents repeat all day: tool calls, coding subtasks, routing, extraction, and long document parsing. For shorter prompts it's priced the same as GPT-6 Luna and Claude Haiku 5.5 - both are $0.10/million input tokens and $0.50/million ou — Simon Willison / score: 75 (Metaの新型効率的AIモデルの発表)</description>
-</item>
-<item>
-<title>[75] Meta、小型AIモデル「Muse Ember」を発表 ——エージェントが繰り返す処理を低コストに</title>
-<link>https://gihyo.jp/article/2026/11/muse-ember?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/11/muse-ember?utm_source=feed</guid>
-<pubDate>Tue, 10 Nov 2026 06:57:51 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Metaは2026年11月9日、ツール呼び出しやコード修正、文書解析など、AIエージェントが繰り返す処理を低コストで実行するための小型モデルMuse Emberを発表した。同日から、コーディングエージェントのMuse Codeと、アプリケーションからモデルを利用するMeta Model APIで提供している。 — gihyo.jp / score: 75 (Metaによる効率的な小型AIモデルの発表)</description>
-</item>
-<item>
-<title>[75] ChatGPT Enterprise now available in AWS Marketplace</title>
-<link>https://openai.com/index/chatgpt-enterprise-aws-marketplace</link>
-<guid isPermaLink="true">https://openai.com/index/chatgpt-enterprise-aws-marketplace</guid>
-<pubDate>Mon, 09 Nov 2026 19:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships. — OpenAI News / score: 75 (AWS MarketplaceでのChatGPT Enterprise提供開始)</description>
 </item>
 </channel>
 </rss>
