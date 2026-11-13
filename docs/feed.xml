@@ -4,8 +4,64 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 13 Nov 2026 16:06:36 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 18:07:13 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Build a Robot Pick-and-Place Simulation with SimReady Assets</title>
+<link>https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place</link>
+<guid isPermaLink="true">https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place</guid>
+<pubDate>Fri, 13 Nov 2026 18:00:39 +0000</pubDate>
+<category>Hugging Face Blog</category>
+<description> — Hugging Face Blog / score: 45 (ロボットシミュレーションの有用な技術解説)</description>
+</item>
+<item>
+<title>XYBench: Helping with the problem behind the question</title>
+<link>https://huggingface.co/blog/allenai/xybench</link>
+<guid isPermaLink="true">https://huggingface.co/blog/allenai/xybench</guid>
+<pubDate>Fri, 13 Nov 2026 17:02:35 +0000</pubDate>
+<category>Hugging Face Blog</category>
+<description> — Hugging Face Blog / score: 40 (AIベンチマークに関する新ツールの紹介)</description>
+</item>
+<item>
+<title>Connect Google Wallet to Gemini for personal finance insights</title>
+<link>https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/</link>
+<guid isPermaLink="true">https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/</guid>
+<pubDate>Fri, 13 Nov 2026 17:00:00 +0000</pubDate>
+<category>Gemini (Google Blog)</category>
+<description>All Gemini app users in the U.S. can connect Google Wallet to get responses informed by their spending habits. — Gemini (Google Blog) / score: 35 (GeminiとGoogle Walletの機能連携)</description>
+</item>
+<item>
+<title>From OLAP to OLTP: How Copel Simplified Reverse ETL Using BigQuery's Native Export to AlloyDB</title>
+<link>https://cloud.google.com/blog/products/data-analytics/reverse-etl-bigquery-exports-to-alloydb/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/data-analytics/reverse-etl-bigquery-exports-to-alloydb/</guid>
+<pubDate>Fri, 13 Nov 2026 17:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Bridging the gap between analytical systems (OLAP) and transactional databases (OLTP) is notoriously complex. Synchronizing data between the two systems, often called Reverse ETL (Extract, Transform, Load), traditionally requires heavy middleware, staging buckets, and complex orchestration, especially at enterprise scale. We’re announcing the general availability (GA) of BigQuery exports to AlloyDB , allowing data engineering teams to use a single, declarative SQL statement to export data from B — Google Cloud Blog / score: 60 (BigQueryからAlloyDBへのデータ連携事例)</description>
+</item>
+<item>
+<title>New AI agent observability and governance across BigQuery and Looker</title>
+<link>https://cloud.google.com/blog/products/data-analytics/enterprise-ai-agent-observability-with-bigquery-and-looker/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/data-analytics/enterprise-ai-agent-observability-with-bigquery-and-looker/</guid>
+<pubDate>Fri, 13 Nov 2026 17:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>As enterprises move AI agents from experimental prototypes into production, data and platform teams are discovering that deploying an agent is only half the battle — you also need to see how it reasons, which data it touches, and what it costs to run. Today, we are announcing expanded AI agent observability and evaluation capabilities across Google Data Cloud, giving you unified visibility into your first-party (1P) data agents in BigQuery and Looker as well as custom third-party (3P) agents bui — Google Cloud Blog / score: 65 (AIエージェントの監視・ガバナンス機能の発表)</description>
+</item>
+<item>
+<title>Where supercomputing meets agentic AI: What’s new in Google Cloud HPC and AI at SC26</title>
+<link>https://cloud.google.com/blog/topics/hpc/whats-new-in-hpc-and-ai-at-sc26/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/hpc/whats-new-in-hpc-and-ai-at-sc26/</guid>
+<pubDate>Fri, 13 Nov 2026 17:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Computational scientists and HPC engineers have always been among the earliest adopters of new computing paradigms, and agents are no exception. Today, research and engineering teams use AI models and agents for things such as ingesting dense scientific literature, optimizing code, and autonomously steering simulations. Yet moving from an agent that suggests code optimizations to an agentic system that reliably architects, provisions, and optimizes production HPC workloads at scale takes more th — Google Cloud Blog / score: 50 (HPCとAIエージェントに関する最新動向)</description>
+</item>
+<item>
+<title>What’s new with Google Cloud</title>
+<link>https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/</guid>
+<pubDate>Fri, 13 Nov 2026 17:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block &lt;ListValue: []&gt; Nov 9 - Nov 13 Next-Generation SecOps: SentinelOne and Google Cloud Google Cloud and SentinelOne joined forces to solve th — Google Cloud Blog / score: 30 (Google Cloudの一般的な更新情報まとめのため)</description>
+</item>
 <item>
 <title>Introducing ChatGPT Wallet</title>
 <link>https://openai.com/index/introducing-chatgpt-wallet</link>
@@ -749,62 +805,6 @@
 <pubDate>Fri, 13 Nov 2026 08:00:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>M6チップを搭載した新型MacBook Proのレビュー。OLEDモデルの存在により少し切なさを感じる実直なモデルの性能と進化点を解説します。 — ギズモード・ジャパン / score: 45 (新型MacBook Proとチップの性能に関する記事)</description>
-</item>
-<item>
-<title>GMO攻撃 被害申告は29.9億円に</title>
-<link>https://news.yahoo.co.jp/pickup/6602430?source=rss</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6602430?source=rss</guid>
-<pubDate>Fri, 13 Nov 2026 07:52:08 +0000</pubDate>
-<category>Yahoo!ニュース IT</category>
-<description> — Yahoo!ニュース IT / score: 70 (サイバー攻撃による巨額の被害申告)</description>
-</item>
-<item>
-<title>Rust 1.100.0リリース ——never型とVec・Box向けの独自アロケーターAPIを安定化</title>
-<link>https://gihyo.jp/article/2026/11/rust-1.100.0?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/11/rust-1.100.0?utm_source=feed</guid>
-<pubDate>Fri, 13 Nov 2026 07:48:54 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Rustチームは2026年11月12日、プログラミング言語Rustのバージョン1.100.0をリリースした。never型を型引数などとしても使えるようになった。 — gihyo.jp / score: 85 (Rust 1.100.0のメジャーリリースと新機能追加)</description>
-</item>
-<item>
-<title>良品計画への不正アクセスについてまとめてみた - piyolog</title>
-<link>https://piyolog.hatenadiary.jp/entry/2026/11/13/162738</link>
-<guid isPermaLink="true">https://piyolog.hatenadiary.jp/entry/2026/11/13/162738</guid>
-<pubDate>Fri, 13 Nov 2026 07:47:29 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>2026年10月30日、良品計画は公式アプリ「MUJI アプリ」の会員情報が外部に流出した可能性があると公表し、その後の公表で対象を広げました。ここでは関連する情報をまとめます。 公表のたびに広がった対象 最初の公表の対象はMUJI アプリの会員情報に限られていた。その後、ネットストアの会員、氏名や住所、MUJI Card ... — はてなブックマーク テクノロジー / score: 85 (良品計画のアプリ会員情報流出に関するセキュリティ情報)</description>
-</item>
-<item>
-<title>困ったらAIにすぐ聞く3年目エンジニアが社会人になって読んだ技術書 10冊.</title>
-<link>https://zenn.dev/atrae/articles/032b9fccca0ff7</link>
-<guid isPermaLink="true">https://zenn.dev/atrae/articles/032b9fccca0ff7</guid>
-<pubDate>Fri, 13 Nov 2026 07:46:50 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>いつの間にか新卒3年目になり,バックエンドエンジニアとしてAIエージェントの基盤開発に携わっています. 最近では困ったことがあったらAIに聞くことが多く,朝から晩までAIと会話していることもあります.でも,AIで解決できないことを体系的に学べるので,本を読むのも好きです.書物は学ぶことに特化されているので,読むことでエンジニアとしてステップアップできると思っています. 社会人になってから3年で読んでよかった本を10冊まとめました. アーキテクチャ 1.マイクロサービスアーキテクチャ 第2版 Webアプリケーションのアーキテクチャ,2大巨塔の1つ.マイクロサービスに興味のある人... — Zenn トレンド / score: 45 (若手エンジニアによる技術書選定と学習の体験談)</description>
-</item>
-<item>
-<title>栃木レザー採用 &amp; 型崩れし難いAirTag ホルダー付コンパクトウォレット「MinZ Leather Card Wallet Pro for AirTag」発売</title>
-<link>https://taisy0.com/2026/11/13/230388.html</link>
-<guid isPermaLink="true">https://taisy0.com/2026/11/13/230388.html</guid>
-<pubDate>Fri, 13 Nov 2026 07:46:02 +0000</pubDate>
-<category>気になる、記になる…</category>
-<description>本日、アシカンが、繊維が極限まで詰まった「栃木レザー」を採用したAirTag ホルダー付コンパクトウォレット「MinZ® Leather Card Wallet Pro for AirTag」を発売しました。 厚さ8mm […] — 気になる、記になる… / score: 15 (ガジェット周辺アクセサリの新製品発売)</description>
-</item>
-<item>
-<title>たった0.8Bで53言語対応。翻訳特化型ローカルLLM「PLaMo 3 Translate」を試す【使ってわかるAI PC】</title>
-<link>https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2156218.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2156218.html</guid>
-<pubDate>Fri, 13 Nov 2026 07:43:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>Preferred Networksが11月5日に公開した「PLaMo 3 Translate」は、同社が提供するAI翻訳サービス「PLaMo翻訳」のLLMを、オープンウェイトモデルとして公開したもの。サービスとして実績のある翻訳AIを公開したとあって、信頼性に期待が持てる。 — 窓の杜 / score: 55 (ローカル軽量翻訳LLMのオープン公開)</description>
-</item>
-<item>
-<title>マイクロソフトが従業員6万人に｢お金を払うから辞めて｣とオファー。残ってもリストラされるかも</title>
-<link>https://www.gizmodo.jp/article/microsoft_voluntary_resignation_offer/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/microsoft_voluntary_resignation_offer/</guid>
-<pubDate>Fri, 13 Nov 2026 07:35:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>マイクロソフトが約6万人の従業員へ希望退職をオファーしたしたそう。相次ぐリストラの現状とAI投資への影響は？ — ギズモード・ジャパン / score: 50 (IT業界大手の従業員削減とAI投資に関する動向)</description>
 </item>
 </channel>
 </rss>

@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 13 Nov 2026 16:06:36 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 18:07:13 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「PostgreSQL」でセキュリティアップデート、「PostgreSQL 14」は最後の更新に／52件の脆弱性と、ここ数カ月に報告された140件を超える不具合が修正</title>
@@ -567,22 +567,6 @@
 <description>Our most capable vision-language-action model enhances robot dexterity, reliability, and safety — Google DeepMind / score: 80 (ロボット制御に向けた高度なマルチモーダルモデル発表)</description>
 </item>
 <item>
-<title>[80] Introducing TPU Sync: Fast KV cache and weight transfer for inference and RL on TPU</title>
-<link>https://cloud.google.com/blog/topics/ai-infrastructure/introducing-tpu-sync-fast-kv-cache-and-weight-transfer-on-tpu/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/topics/ai-infrastructure/introducing-tpu-sync-fast-kv-cache-and-weight-transfer-on-tpu/</guid>
-<pubDate>Mon, 09 Nov 2026 13:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>As frontier AI evolves from stateless single-turn prompts to million-token agents, disaggregated serving, and continuous reinforcement learning (RL), the primary bottleneck in AI infrastructure has shifted from raw compute to orchestrating live model state — both the contextual state held in massive key-value (KV) caches during inference and the parameter state updated and broadcast from trainers to rollout samplers during RL. Whenever this state is trapped inside a single chip's memory or stall — Google Cloud Blog / score: 80 (Google CloudによるTPU向け新機能発表)</description>
-</item>
-<item>
-<title>[80] Our newest TPUs: 8tx and 8i Max, built for the agentic era</title>
-<link>https://cloud.google.com/blog/topics/ai-infrastructure/tpu-8tx-and-tpu-8i-max/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/topics/ai-infrastructure/tpu-8tx-and-tpu-8i-max/</guid>
-<pubDate>Mon, 09 Nov 2026 13:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>Editor’s note: This blog was originally published on News from Google . We first designed TPUs more than a decade ago motivated by Google’s internal demands, including voice recognition and language translation. Eight generations of TPUs later, the use cases have exploded, covering: i) training and serving our own Gemini models, ii) agentic workloads, iii) delivering services to Google Cloud customers on our cloud infrastructure, and most recently, iv) allowing customers to deploy TPUs directly  — Google Cloud Blog / score: 80 (エージェント時代に向けた新しいGoogle TPU)</description>
-</item>
-<item>
 <title>[80] Introducing AWS Nitro Sandboxes on Amazon EKS, ECS and EC2 for hardware isolated pods, tasks and VMs</title>
 <link>https://aws.amazon.com/about-aws/whats-new/2026/11/nitro-sandboxes-eks-ecs-ec2/</link>
 <guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/nitro-sandboxes-eks-ecs-ec2/</guid>
@@ -805,6 +789,22 @@
 <pubDate>Tue, 10 Nov 2026 08:00:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Amazon ElastiCache Serverless for Valkey now supports vector, full-text, and hybrid search, along with aggregations. Applications searching live data often face a hard trade-off between latency and recall, along with delays before updates become searchable. With search on ElastiCache Serverless, applications can search data with latency as low as microseconds at up to 99% recall for vector search, while serving billions of queries per day. Updates are searchable in as little as microseconds, as  — AWS What's New / score: 75 (ElastiCacheのベクトル検索機能追加)</description>
+</item>
+<item>
+<title>[75] Introducing Our Smallest, Most Efficient Model: Muse Ember</title>
+<link>https://simonwillison.net/2026/Nov/10/muse-ember/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Nov/10/muse-ember/</guid>
+<pubDate>Tue, 10 Nov 2026 07:28:21 +0000</pubDate>
+<category>Simon Willison</category>
+<description>Introducing Our Smallest, Most Efficient Model: Muse Ember Meta AI just launched their entry in the Claude Haiku/GPT Luna category: Muse Ember, which they describe as: [...] our smallest and most efficient model designed for complex reasoning execution and the work agents repeat all day: tool calls, coding subtasks, routing, extraction, and long document parsing. For shorter prompts it's priced the same as GPT-6 Luna and Claude Haiku 5.5 - both are $0.10/million input tokens and $0.50/million ou — Simon Willison / score: 75 (Metaの新型効率的AIモデルの発表)</description>
+</item>
+<item>
+<title>[75] Meta、小型AIモデル「Muse Ember」を発表 ——エージェントが繰り返す処理を低コストに</title>
+<link>https://gihyo.jp/article/2026/11/muse-ember?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/11/muse-ember?utm_source=feed</guid>
+<pubDate>Tue, 10 Nov 2026 06:57:51 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Metaは2026年11月9日、ツール呼び出しやコード修正、文書解析など、AIエージェントが繰り返す処理を低コストで実行するための小型モデルMuse Emberを発表した。同日から、コーディングエージェントのMuse Codeと、アプリケーションからモデルを利用するMeta Model APIで提供している。 — gihyo.jp / score: 75 (Metaによる効率的な小型AIモデルの発表)</description>
 </item>
 </channel>
 </rss>
