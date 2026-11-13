@@ -4,7 +4,7 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 13 Nov 2026 18:07:13 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 20:06:10 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Build a Robot Pick-and-Place Simulation with SimReady Assets</title>
@@ -31,12 +31,12 @@
 <description>All Gemini app users in the U.S. can connect Google Wallet to get responses informed by their spending habits. — Gemini (Google Blog) / score: 35 (GeminiとGoogle Walletの機能連携)</description>
 </item>
 <item>
-<title>From OLAP to OLTP: How Copel Simplified Reverse ETL Using BigQuery's Native Export to AlloyDB</title>
-<link>https://cloud.google.com/blog/products/data-analytics/reverse-etl-bigquery-exports-to-alloydb/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/products/data-analytics/reverse-etl-bigquery-exports-to-alloydb/</guid>
+<title>What’s new with Google Cloud</title>
+<link>https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/</guid>
 <pubDate>Fri, 13 Nov 2026 17:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
-<description>Bridging the gap between analytical systems (OLAP) and transactional databases (OLTP) is notoriously complex. Synchronizing data between the two systems, often called Reverse ETL (Extract, Transform, Load), traditionally requires heavy middleware, staging buckets, and complex orchestration, especially at enterprise scale. We’re announcing the general availability (GA) of BigQuery exports to AlloyDB , allowing data engineering teams to use a single, declarative SQL statement to export data from B — Google Cloud Blog / score: 60 (BigQueryからAlloyDBへのデータ連携事例)</description>
+<description>Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block &lt;ListValue: []&gt; Nov 9 - Nov 13 Next-Generation SecOps: SentinelOne and Google Cloud Google Cloud and SentinelOne joined forces to solve th — Google Cloud Blog / score: 30 (Google Cloudの一般的な更新情報まとめのため)</description>
 </item>
 <item>
 <title>New AI agent observability and governance across BigQuery and Looker</title>
@@ -55,12 +55,20 @@
 <description>Computational scientists and HPC engineers have always been among the earliest adopters of new computing paradigms, and agents are no exception. Today, research and engineering teams use AI models and agents for things such as ingesting dense scientific literature, optimizing code, and autonomously steering simulations. Yet moving from an agent that suggests code optimizations to an agentic system that reliably architects, provisions, and optimizes production HPC workloads at scale takes more th — Google Cloud Blog / score: 50 (HPCとAIエージェントに関する最新動向)</description>
 </item>
 <item>
-<title>What’s new with Google Cloud</title>
-<link>https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/</guid>
+<title>From OLAP to OLTP: How Copel Simplified Reverse ETL Using BigQuery's Native Export to AlloyDB</title>
+<link>https://cloud.google.com/blog/products/data-analytics/reverse-etl-bigquery-exports-to-alloydb/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/data-analytics/reverse-etl-bigquery-exports-to-alloydb/</guid>
 <pubDate>Fri, 13 Nov 2026 17:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
-<description>Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block &lt;ListValue: []&gt; Nov 9 - Nov 13 Next-Generation SecOps: SentinelOne and Google Cloud Google Cloud and SentinelOne joined forces to solve th — Google Cloud Blog / score: 30 (Google Cloudの一般的な更新情報まとめのため)</description>
+<description>Bridging the gap between analytical systems (OLAP) and transactional databases (OLTP) is notoriously complex. Synchronizing data between the two systems, often called Reverse ETL (Extract, Transform, Load), traditionally requires heavy middleware, staging buckets, and complex orchestration, especially at enterprise scale. We’re announcing the general availability (GA) of BigQuery exports to AlloyDB , allowing data engineering teams to use a single, declarative SQL statement to export data from B — Google Cloud Blog / score: 60 (BigQueryからAlloyDBへのデータ連携事例)</description>
+</item>
+<item>
+<title>Aurora PostgreSQL with express configuration now supported in CloudFormation</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-postgresql-cloudformation/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-postgresql-cloudformation/</guid>
+<pubDate>Fri, 13 Nov 2026 16:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Aurora PostgreSQL now supports express configuration in AWS CloudFormation for infrastructure as code deployment. This launch enables you to automate the infrastructure deployment of your Aurora clusters through CloudFormation templates while benefiting from the speed of express configuration. Aurora PostgreSQL clusters created with express configuration allow you to create and query an Aurora serverless database in seconds. The new withExpressConfiguration createOnly property on the AWS::RDS::D — AWS What's New / score: 55 (CloudFormationでのAurora設定簡略化)</description>
 </item>
 <item>
 <title>Introducing ChatGPT Wallet</title>
@@ -797,14 +805,6 @@
 <pubDate>Fri, 13 Nov 2026 08:00:24 +0000</pubDate>
 <category>Computer Music Japan</category>
 <description>クラス最高の速度・視認性・オーディオ品質を実現するオーディオインターフェイス、MOTU「M2」(箱破損品)が6,270円オフとなっています。 数量限定の早い者勝ちです。 その他、M4、M6、848や10Preなどもデモ使... The post 【ブラックフライデーセール】クラス最高の速度・視認性・オーディオ品質を実現するオーディオインターフェイス、MOTU「M2」（箱破損品)が6,270円オフ！ first appeared on Computer Music Japan . — Computer Music Japan / score: 20 (DTM向けオーディオインターフェイスのセール情報)</description>
-</item>
-<item>
-<title>M6チップ搭載MacBook Pro、性能向上でもどこか切ない…。このタイプは最後なのか？</title>
-<link>https://www.gizmodo.jp/article/m6_macbook-pro_review/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/m6_macbook-pro_review/</guid>
-<pubDate>Fri, 13 Nov 2026 08:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>M6チップを搭載した新型MacBook Proのレビュー。OLEDモデルの存在により少し切なさを感じる実直なモデルの性能と進化点を解説します。 — ギズモード・ジャパン / score: 45 (新型MacBook Proとチップの性能に関する記事)</description>
 </item>
 </channel>
 </rss>

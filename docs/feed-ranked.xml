@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 13 Nov 2026 18:07:13 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 20:06:10 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「PostgreSQL」でセキュリティアップデート、「PostgreSQL 14」は最後の更新に／52件の脆弱性と、ここ数カ月に報告された140件を超える不具合が修正</title>
@@ -295,14 +295,6 @@
 <description>「Microsoft 365」の障害、発生から12時間を突破 ～メールサービスを中心に影響が拡大【16:45追記】／悪意ある攻撃ではない模様。解決に向けて明るい兆しが見えるも引き続き障害継続中【やじうまの杜】 — はてなブックマーク テクノロジー / score: 85 (Microsoft 365障害の継続と影響拡大)</description>
 </item>
 <item>
-<title>[85] マイクロソフト障害、市場ではFAX活用　投信で基準価格公表に遅れも - 日本経済新聞</title>
-<link>https://www.nikkei.com/article/DGXZQOUB133K20T11C26A1000000/</link>
-<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUB133K20T11C26A1000000/</guid>
-<pubDate>Fri, 13 Nov 2026 04:50:53 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>米マイクロソフトの業務ソフト「マイクロソフト365」の大規模障害の影響が金融市場の取引にも及んでいる。取引内容の確認などに使っているメールが止まり、市場参加者はファクスなど代替手段の活用に追われている。「マイクロソフトのメールシステムを使っている証券会社から、発注はやめてほしいと言われた」。国内投信... — はてなブックマーク テクノロジー / score: 85 (マイクロソフトの大規模障害による金融市場への影響)</description>
-</item>
-<item>
 <title>[85] Google、Gemini 4 Hydrogenを発表、Antigravityにモデルを自動で切り替えるOrchestratorを導入 ——検索のAIモードにも展開、複雑な質問の理解や回答の見やすさを改善し、より幅広い関連リンクを提示</title>
 <link>https://gihyo.jp/article/2026/11/gemini-4-hydrogen?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/11/gemini-4-hydrogen?utm_source=feed</guid>
@@ -333,6 +325,14 @@
 <pubDate>Fri, 13 Nov 2026 02:05:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Googleは11月12日（現地時間）、「Gemini 4 Hydrogen」を発表した。日常的なコーディングやエージェント型のワークフローを、高速かつ効率的にこなすことを目指したモデルで、同日より開発者、企業、一般ユーザーに提供される。 — 窓の杜 / score: 85 (主要AIモデルの新作発表に関する技術的ニュース)</description>
+</item>
+<item>
+<title>[85] テラ・クライシス：AIが設計　菌を殺す未知のウイルス　開いた「パンドラの箱」 | 毎日新聞</title>
+<link>https://mainichi.jp/articles/20261111/k00/00m/040/331000c</link>
+<guid isPermaLink="true">https://mainichi.jp/articles/20261111/k00/00m/040/331000c</guid>
+<pubDate>Fri, 13 Nov 2026 00:53:55 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>AIで設計されたウイルスの痕跡が分かるシャーレ。大腸菌で満たされているが、ウイルスが機能して大腸菌を死滅させた部分が、複数の透明な円になっている＝米カリフォルニア州パロアルトのアーク研究所で2026年10月14日午後3時3分、岡田英撮影 実験用のシャーレは大腸菌で満たされ、白っぽく曇っている。ライトにかざすと... — はてなブックマーク テクノロジー / score: 85 (AIによるウイルス設計という重大なセキュリティ懸念)</description>
 </item>
 <item>
 <title>[85] フィッシング攻撃を“遮断”　物理パスキー「YubiKey」日本で本格展開</title>
@@ -639,14 +639,6 @@
 <description>Google DeepMindは2026年11月10日、人間の専門家とAIエージェントが協力してソフトウェアを形式検証するフレームワーク「AlphaProof Code」を発表した。研究チームは、エンドツーエンド暗号化通信に使われるSignalプロトコルの参照実装libsignalに、この仕組みを適用した。 — gihyo.jp / score: 75 (形式検証フレームワークによる暗号プロトコル検証)</description>
 </item>
 <item>
-<title>[75] GitHub - cloudflare/kitesurf: Kitesurf is an experimental browser engine that runs on Cloudflare Workers.</title>
-<link>https://github.com/cloudflare/kitesurf</link>
-<guid isPermaLink="true">https://github.com/cloudflare/kitesurf</guid>
-<pubDate>Fri, 13 Nov 2026 00:48:41 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Kitesurf is an experimental browser engine that runs on Cloudflare Workers. It parses HTML, applies CSS, runs page JavaScript, and renders screenshots without Chrome or a browser container. Kitesurf speaks the Chrome DevTools Protocol (CDP), so you can use it with CDP clients such as Puppeteer. I... — はてなブックマーク テクノロジー / score: 75 (Cloudflare Workers上で動く実験的ブラウザエンジン)</description>
-</item>
-<item>
 <title>[75] 最強オープンウェイトモデル Kimi-K3.1-Pro をセルフホストして独自ベンチで比べてみた</title>
 <link>https://zenn.dev/fixstars/articles/kimi-k31-pro-benchmark</link>
 <guid isPermaLink="true">https://zenn.dev/fixstars/articles/kimi-k31-pro-benchmark</guid>
@@ -805,6 +797,14 @@
 <pubDate>Tue, 10 Nov 2026 06:57:51 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Metaは2026年11月9日、ツール呼び出しやコード修正、文書解析など、AIエージェントが繰り返す処理を低コストで実行するための小型モデルMuse Emberを発表した。同日から、コーディングエージェントのMuse Codeと、アプリケーションからモデルを利用するMeta Model APIで提供している。 — gihyo.jp / score: 75 (Metaによる効率的な小型AIモデルの発表)</description>
+</item>
+<item>
+<title>[75] ChatGPT Enterprise now available in AWS Marketplace</title>
+<link>https://openai.com/index/chatgpt-enterprise-aws-marketplace</link>
+<guid isPermaLink="true">https://openai.com/index/chatgpt-enterprise-aws-marketplace</guid>
+<pubDate>Mon, 09 Nov 2026 19:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships. — OpenAI News / score: 75 (AWS MarketplaceでのChatGPT Enterprise提供開始)</description>
 </item>
 </channel>
 </rss>
