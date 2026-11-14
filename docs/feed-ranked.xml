@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sat, 14 Nov 2026 04:06:33 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 06:09:16 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「PostgreSQL」でセキュリティアップデート、「PostgreSQL 14」は最後の更新に／52件の脆弱性と、ここ数カ月に報告された140件を超える不具合が修正</title>
@@ -239,6 +239,14 @@
 <description> — CodeZine / score: 88 (Node.jsのLTS版と複数脆弱性の修正)</description>
 </item>
 <item>
+<title>[85] llama.cpp 1.0.0リリース ——API・ABIの非互換変更をメジャーバージョンの更新で明示へ</title>
+<link>https://gihyo.jp/article/2026/11/llama.cpp-v1.0.0?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/11/llama.cpp-v1.0.0?utm_source=feed</guid>
+<pubDate>Sat, 14 Nov 2026 03:09:14 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>llama.cppの開発チームは2026年11月13日、初のメジャー版となる1.0.0をリリースした。llama.cppは、大規模言語モデル（LLM）の推論を実行するC/C++製ライブラリで、計算を支えるテンソルライブラリggmlも同時に1.0.0となった。 — gihyo.jp / score: 85 (llama.cpp初のメジャーバージョンリリース)</description>
+</item>
+<item>
 <title>[85] マネックス証券 免許証画像流出か</title>
 <link>https://news.yahoo.co.jp/pickup/6602486?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6602486?source=rss</guid>
@@ -325,14 +333,6 @@
 <pubDate>Fri, 13 Nov 2026 03:50:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>Microsoftのクラウドサービス「Microsoft 365」で2026年11月13日に世界規模の大規模障害が発生し、メールサービスの「Outlook」やチャット・会議ツールの「Microsoft Teams」、AIアシスタントの「Microsoft 365 Copilot」などが利用しにくい状態となっています。Microsoftは復旧作業を進めていますが、一度復旧したサーバーが再び応答しなくなる問題も確認されており、記事作成時点では全面復旧の見通しは立っていません。 続きを読む... — GIGAZINE / score: 85 (Microsoft 365の世界規模の大規模障害と影響)</description>
-</item>
-<item>
-<title>[85] Googleが無料で使える高性能AI「Gemini 4 Hydrogen」を発表、従来モデルの2.5倍の速度で動作し競合AIを上回る性能も発揮</title>
-<link>https://gigazine.net/news/20261113-gemini-4-hydrogen/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261113-gemini-4-hydrogen/</guid>
-<pubDate>Fri, 13 Nov 2026 03:20:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>Googleが2026年11月12日に新たなAIモデル「Gemini 4 Hydrogen」を発表しました。従来の高速モデル「Gemini 3.8 Flash」と比べて処理速度と推論能力が大幅に向上しており、プログラミングや資料作成などの複雑な作業を効率的に進められるとのこと。GeminiアプリやGoogle検索などでも利用可能です。 続きを読む... — GIGAZINE / score: 85 (Googleの高性能新型AIモデル発表のため重要度が高い)</description>
 </item>
 <item>
 <title>[85] Google、高速・高効率な「Gemini 4 Hydrogen」を発表 ～「Claude Sonnet 5.5」「GPT-6.1 Terra」のライバル／前世代「3.8 Flash」の2.5倍の速さでタスクを完了</title>
@@ -503,14 +503,6 @@
 <description> — Yahoo!ニュース IT / score: 80 (マイクロソフトの大規模障害に関する謝罪報道)</description>
 </item>
 <item>
-<title>[80] MS「復旧が進み、安定した状態」</title>
-<link>https://news.yahoo.co.jp/pickup/6602492?source=rss</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6602492?source=rss</guid>
-<pubDate>Fri, 13 Nov 2026 22:37:15 +0000</pubDate>
-<category>Yahoo!ニュース IT</category>
-<description> — Yahoo!ニュース IT / score: 80 (マイクロソフトの大規模障害からの復旧・安定化報道)</description>
-</item>
-<item>
 <title>[80] Introducing ChatGPT Wallet</title>
 <link>https://openai.com/index/introducing-chatgpt-wallet</link>
 <guid isPermaLink="true">https://openai.com/index/introducing-chatgpt-wallet</guid>
@@ -597,6 +589,14 @@
 <pubDate>Tue, 10 Nov 2026 06:34:44 +0000</pubDate>
 <category>Latent Space</category>
 <description>November 9, 2026 — Claude Fable 5.2 and Mythos 5.2 arrive on Anthropic’s IPO roadshow day. How much thinking is worth paying for? — Latent Space / score: 78 (主要LLMの性能逆転とIPO動向)</description>
+</item>
+<item>
+<title>[75] CocoaPods、12月2日に新規podの受け付けを停止</title>
+<link>https://codezine.jp/article/detail/30358</link>
+<guid isPermaLink="true">https://codezine.jp/article/detail/30358</guid>
+<pubDate>Sat, 14 Nov 2026 04:00:00 +0000</pubDate>
+<category>CodeZine</category>
+<description> — CodeZine / score: 75 (CocoaPodsの新規受付停止という大きな変化)</description>
 </item>
 <item>
 <title>[75] Google、高速・高効率なAIモデル「Gemini 4 Hydrogen」を発表</title>
