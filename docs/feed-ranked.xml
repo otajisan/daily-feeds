@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sat, 14 Nov 2026 20:05:27 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 22:05:37 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「PostgreSQL」でセキュリティアップデート、「PostgreSQL 14」は最後の更新に／52件の脆弱性と、ここ数カ月に報告された140件を超える不具合が修正</title>
@@ -37,6 +37,14 @@
 <pubDate>Thu, 05 Nov 2026 06:53:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>OpenAIは2026年11月4日、開発中のサイバーセキュリティ向けAIモデルを活用し、Linuxカーネルの脆弱性をエージェントが自律的に発見し検証した結果を発表した。 — gihyo.jp / score: 95 (AIによるLinuxカーネルの脆弱性大量発見と実証の画期的なニュース)</description>
+</item>
+<item>
+<title>[90] AI悪用の攻撃拠点、千台発見　サイトの弱点探索、不正侵入疑い</title>
+<link>https://www.47news.jp/15231027.html</link>
+<guid isPermaLink="true">https://www.47news.jp/15231027.html</guid>
+<pubDate>Sat, 14 Nov 2026 14:55:47 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>高性能な人工知能（AI）を悪用したサイバー攻撃の拠点と疑われるサーバーが10月以降、世界のインターネット上に少なくとも千台前後存在していることが14日、分かった。日本の情報セキュリティー専門機関が海外企業と連携した国際的調査で判明した。国内外のウェブサイトを標的としてAIを使って弱点を探索し、不正侵入を... — はてなブックマーク テクノロジー / score: 90 (AI悪用サイバー攻撃の国際的調査に関する重大なニュース)</description>
 </item>
 <item>
 <title>[90] Cognitoの自己サインアップが有効だと、誰でもAWSの一時認証情報を取得できる：AI攻撃ツールARTEXの事例と確認したい設定3点 | DevelopersIO</title>
@@ -271,6 +279,14 @@
 <description>Congrats to both llama.ccp and ggml for reaching 1.0 (declaring stability and removing 35 deprecated functions from llama.cpp’s public header) and with SGLang also announcing 1.0 at the recent SGLang Summit . However, today’s title story goes to the No AI Slop manifesto , which arose out of the conference discussions at AIE CODE and which Dex introduced in the closing keynote after cosignatures by many of the speakers at the conference. It seems Hacker News also liked it , voting it up to the fr — Latent Space / score: 85 (llama.cpp等の主要OSSのメジャーリリース)</description>
 </item>
 <item>
+<title>[85] AWS Emulatorが一般提供されたので、ローカルでS3バケットを作成してみた</title>
+<link>https://qiita.com/moyomoyomoyo/items/522ba880ff37971aa969?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/moyomoyomoyo/items/522ba880ff37971aa969?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Sat, 14 Nov 2026 07:41:30 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>はじめに 本記事は2026年11月14日時点の情報です。最新の提供条件や料金は、公式ドキュメントを確認してください。 2026年11月11日、AWSがローカルで動かせるエミュレーター「AWS Emulator」を発表しました。エミュレーターとは、本物のサービスの代... — Qiita 人気記事 / score: 85 (新発表されたAWS Emulatorのローカル検証解説)</description>
+</item>
+<item>
 <title>[85] マイクロソフトの障害が全面復旧　メールやAI、ほぼ1日半経て - 日本経済新聞</title>
 <link>https://www.nikkei.com/article/DGXZQOUC141CH0U6A111C2000000/</link>
 <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUC141CH0U6A111C2000000/</guid>
@@ -306,9 +322,9 @@
 <title>[85] llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem</title>
 <link>https://huggingface.co/blog/ggml-org/llama-cpp-v1</link>
 <guid isPermaLink="true">https://huggingface.co/blog/ggml-org/llama-cpp-v1</guid>
-<pubDate>Fri, 13 Nov 2026 15:32:13 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>llama.cpp makes it possible to run multi-modal LLMs across a wide range of hardware - from consumer-grade local machines to high-end enterprise servers. Through quantization, optimized backends, and a portable C/C++ implementation, we make AI inference accessible at every level of the software st... — はてなブックマーク テクノロジー / score: 85 (ローカルAI基盤llama.cppのメジャーリリース)</description>
+<pubDate>Fri, 13 Nov 2026 14:05:22 +0000</pubDate>
+<category>Hugging Face Blog</category>
+<description> — Hugging Face Blog / score: 85 (ローカルAI基盤llama.cppのメジャーリリース)</description>
 </item>
 <item>
 <title>[85] Rust 1.100.0リリース ——never型とVec・Box向けの独自アロケーターAPIを安定化</title>
@@ -495,6 +511,14 @@
 <description>Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope. — OpenAI News / score: 85 (サイバーセキュリティ特化型AIモデルの発表)</description>
 </item>
 <item>
+<title>[80] 【AWS】AWS EmulatorでPRごとのCI（結合テスト）を回す【GitHubActions】</title>
+<link>https://qiita.com/Nana_777/items/6be40f2779bb25e69484?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/Nana_777/items/6be40f2779bb25e69484?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Sat, 14 Nov 2026 07:28:23 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>はじめに 2026年11月11日に、AWS Emulator が公式にリリースされました。AWS SDK や AWS CLI の呼び出しを、AWS アカウントなしで、ローカルや CI 上のエミュレーターに向けられるツールです。公式ドキュメントは、ユースケースのひとつに C... — Qiita 人気記事 / score: 80 (AWS Emulatorを活用したCIでの結合テスト事例)</description>
+</item>
+<item>
 <title>[80] Adaptive Heap Sizing + Numeric Conversion + Primitive Patterns - Inside Java Newscast #117</title>
 <link>https://inside.java/newscast/117/</link>
 <guid isPermaLink="true">https://inside.java/newscast/117/</guid>
@@ -631,12 +655,12 @@
 <description> — CodeZine / score: 75 (CocoaPodsの新規受付停止という大きな変化)</description>
 </item>
 <item>
-<title>[75] Microsoft 365、接続障害から回復　後日詳細を報告へ</title>
-<link>https://www.watch.impress.co.jp/docs/news/2156470.html</link>
-<guid isPermaLink="true">https://www.watch.impress.co.jp/docs/news/2156470.html</guid>
-<pubDate>Sat, 14 Nov 2026 03:04:03 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Microsoft 365、接続障害から回復 後日詳細を報告へ — はてなブックマーク テクノロジー / score: 75 (主要クラウドサービスの障害復旧ニュース)</description>
+<title>[75] AI駆動開発で実装が速くなったら、CI待ちが一番長くなった——品質を落とさずCIを軽くする</title>
+<link>https://qiita.com/ktdatascience/items/b129d5eee1bc9077f085?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/ktdatascience/items/b129d5eee1bc9077f085?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Sat, 14 Nov 2026 01:15:36 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>はじめに AIにコードを書いてもらっていると、大抵1時間以内にアウトプットがあがってきます。 変更を頼んで、出てきたコードを確認して、テストを動かす。 このサイクルが以前より早くなりました。 その一方で、気になってきたのがCIの待ち時間です。修正はできたのに、チェックが終... — Qiita 人気記事 / score: 75 (AI駆動開発におけるCI高速化の実践的課題)</description>
 </item>
 <item>
 <title>[75] Google、高速・高効率なAIモデル「Gemini 4 Hydrogen」を発表</title>
@@ -781,30 +805,6 @@
 <pubDate>Wed, 11 Nov 2026 15:00:15 +0000</pubDate>
 <category>Google DeepMind</category>
 <description>Predicting how DNA sequences and their variations impact specific human cell types and disease. — Google DeepMind / score: 75 (DeepMindによるDNA解析AIモデルの高度な研究発表)</description>
-</item>
-<item>
-<title>[75] OpenAI、事業者がChatGPTに商品情報などを提供できる「Businesses in ChatGPT」をベータ公開 ——米国の対象事業者には、質問に答えるBusiness Agentも提供</title>
-<link>https://gihyo.jp/article/2026/11/openai-businesses-in-chatgpt?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/11/openai-businesses-in-chatgpt?utm_source=feed</guid>
-<pubDate>Wed, 11 Nov 2026 11:17:30 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>OpenAIは2026年11月10日、事業者向けのBusinesses in ChatGPTのベータ提供を開始した。事業者は、プロフィールの管理権限の申請と本人確認が承認されると、紹介文や商品情報などをChatGPTに提供し、ChatGPT内のWebサイトへのリンクのクリック数などを確認できる。 — gihyo.jp / score: 75 (OpenAIの新機能ベータ公開とビジネスへの影響)</description>
-</item>
-<item>
-<title>[75] Anthropic、Claude Sheets・Whiteboardsをベータ提供、Claude Dataは一般提供へ ——インタラクティブコネクターも更新、対応アプリをチャットの横や全画面で操作可能に</title>
-<link>https://gihyo.jp/article/2026/11/claude-whiteboards-and-sheets-and-data-and-interactive-connectors?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/11/claude-whiteboards-and-sheets-and-data-and-interactive-connectors?utm_source=feed</guid>
-<pubDate>Wed, 11 Nov 2026 08:26:07 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Anthropicは2026年11月10日、Claude内で利用者やチームがAIと共同編集できる表計算機能「Claude Sheets」とホワイトボード機能「Claude Whiteboards」のベータ提供を開始した。データ分析機能のClaude Dashboardsも「Claude Data」に改称し、一般提供へ移行した。 — gihyo.jp / score: 75 (Anthropicの主要サービス拡張と新機能ベータ提供)</description>
-</item>
-<item>
-<title>[75] Microsoft、「Process Explorer」のMac版を公開 ～Sysinternalsの高機能タスクマネージャー／Windows版のコア機能を移植、macOS向けの独自機能も</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2155337.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2155337.html</guid>
-<pubDate>Tue, 10 Nov 2026 23:58:58 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Microsoftは11月5日（現地時間）、「Process Explorer 1.0 for macOS」を公開した。Windowsプラットフォームで定番の高機能タスクマネージャー「Process Explorer」のMac版だ。 — 窓の杜 / score: 75 (Process ExplorerのMac版が公開)</description>
 </item>
 </channel>
 </rss>
