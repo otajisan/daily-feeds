@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sat, 14 Nov 2026 08:07:16 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 10:05:37 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「PostgreSQL」でセキュリティアップデート、「PostgreSQL 14」は最後の更新に／52件の脆弱性と、ここ数カ月に報告された140件を超える不具合が修正</title>
@@ -37,6 +37,14 @@
 <pubDate>Thu, 05 Nov 2026 06:53:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>OpenAIは2026年11月4日、開発中のサイバーセキュリティ向けAIモデルを活用し、Linuxカーネルの脆弱性をエージェントが自律的に発見し検証した結果を発表した。 — gihyo.jp / score: 95 (AIによるLinuxカーネルの脆弱性大量発見と実証の画期的なニュース)</description>
+</item>
+<item>
+<title>[90] An update on our recent security incident · Cursor</title>
+<link>https://cursor.com/blog/security-incident-update</link>
+<guid isPermaLink="true">https://cursor.com/blog/security-incident-update</guid>
+<pubDate>Sat, 14 Nov 2026 02:05:25 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>On October 29, we shared that we were investigating a security incident and a malicious, unauthorized copy of Anthropic's Claude Code extension that appeared in the Cursor VS Code extension marketplace. After an extensive investigation over the past two weeks, we want to share more context on the... — はてなブックマーク テクノロジー / score: 90 (Cursorのセキュリティインシデントに関する重要なお知らせ)</description>
 </item>
 <item>
 <title>[90] 【速報】マネックス証券、マイナカード画像漏えいか</title>
@@ -239,6 +247,14 @@
 <description> — CodeZine / score: 88 (Node.jsのLTS版と複数脆弱性の修正)</description>
 </item>
 <item>
+<title>[85] [AINews] The No AI Slop Manifesto</title>
+<link>https://latent.space/p/ainews-the-no-ai-slop-manifesto/</link>
+<guid isPermaLink="true">https://latent.space/p/ainews-the-no-ai-slop-manifesto/</guid>
+<pubDate>Sat, 14 Nov 2026 08:31:02 +0000</pubDate>
+<category>Latent Space</category>
+<description>Congrats to both llama.ccp and ggml for reaching 1.0 (declaring stability and removing 35 deprecated functions from llama.cpp’s public header) and with SGLang also announcing 1.0 at the recent SGLang Summit . However, today’s title story goes to the No AI Slop manifesto , which arose out of the conference discussions at AIE CODE and which Dex introduced in the closing keynote after cosignatures by many of the speakers at the conference. It seems Hacker News also liked it , voting it up to the fr — Latent Space / score: 85 (llama.cpp等の主要OSSのメジャーリリース)</description>
+</item>
+<item>
 <title>[85] llama.cpp 1.0.0リリース ——API・ABIの非互換変更をメジャーバージョンの更新で明示へ</title>
 <link>https://gihyo.jp/article/2026/11/llama.cpp-v1.0.0?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/11/llama.cpp-v1.0.0?utm_source=feed</guid>
@@ -266,17 +282,9 @@
 <title>[85] llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem</title>
 <link>https://huggingface.co/blog/ggml-org/llama-cpp-v1</link>
 <guid isPermaLink="true">https://huggingface.co/blog/ggml-org/llama-cpp-v1</guid>
-<pubDate>Fri, 13 Nov 2026 14:05:22 +0000</pubDate>
-<category>Hugging Face Blog</category>
-<description> — Hugging Face Blog / score: 85 (ローカルAI基盤llama.cppのメジャーリリース)</description>
-</item>
-<item>
-<title>[85] マネックス証券、不正アクセスでメールアドレス最大113万件と本人確認書類1600件弱が漏洩のおそれ</title>
-<link>https://k-tai.watch.impress.co.jp/docs/news/2156449.html</link>
-<guid isPermaLink="true">https://k-tai.watch.impress.co.jp/docs/news/2156449.html</guid>
-<pubDate>Fri, 13 Nov 2026 12:34:09 +0000</pubDate>
+<pubDate>Fri, 13 Nov 2026 15:32:13 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>マネックス証券、不正アクセスでメールアドレス最大113万件と本人確認書類1600件弱が漏洩のおそれ — はてなブックマーク テクノロジー / score: 85 (大規模な個人情報の漏洩事故に関する重大なニュース)</description>
+<description>llama.cpp makes it possible to run multi-modal LLMs across a wide range of hardware - from consumer-grade local machines to high-end enterprise servers. Through quantization, optimized backends, and a portable C/C++ implementation, we make AI inference accessible at every level of the software st... — はてなブックマーク テクノロジー / score: 85 (ローカルAI基盤llama.cppのメジャーリリース)</description>
 </item>
 <item>
 <title>[85] Outlookに警告が出ない？ 悪用された「なりすまし」をMicrosoftが修正</title>
@@ -487,6 +495,14 @@
 <description>Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope. — OpenAI News / score: 85 (サイバーセキュリティ特化型AIモデルの発表)</description>
 </item>
 <item>
+<title>[80] Adaptive Heap Sizing + Numeric Conversion + Primitive Patterns - Inside Java Newscast #117</title>
+<link>https://inside.java/newscast/117/</link>
+<guid isPermaLink="true">https://inside.java/newscast/117/</guid>
+<pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+<category>Inside Java</category>
+<description>ZGC gets adaptive heap sizing, value classes complicate numeric conversions, and primitive patterns are withdrawn as JDK 28 takes shape. — Inside Java / score: 80 (JDK 28に向けたJVMの重要なアップデート解説)</description>
+</item>
+<item>
 <title>[80] マイクロソフト 大規模障害を謝罪</title>
 <link>https://news.yahoo.co.jp/pickup/6602508?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6602508?source=rss</guid>
@@ -623,20 +639,20 @@
 <description>Googleの新AIモデル「Gemini 4 Hydrogen」が登場。従来より2.5倍の速さでタスクを処理し、コード作成や検索機能が向上した新モデルの特徴を解説します。 — ギズモード・ジャパン / score: 75 (Googleの新世代AIモデル発表)</description>
 </item>
 <item>
-<title>[75] 大阪でCopilotの初心者向け研修の講師をやる予定なのに障害で使えず…他のAIは使用禁止、代替ツールなし「お気の毒すぎる」「これは泣ける」→フル座学で研修を乗り切った</title>
-<link>https://togetter.com/li/2770072</link>
-<guid isPermaLink="true">https://togetter.com/li/2770072</guid>
-<pubDate>Fri, 13 Nov 2026 13:27:39 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Microsoft 365で「大規模障害」発生、TeamsやCopilotなど利用不能に サーバー不具合 | Forbes JAPAN 公式サイト（フォーブス ジャパン） マイクロソフトは、米国時間11月12日午後に「Microsoft 365」のサービス障害が報告されて以来、問題の解決に向けた対応を続けている。同社はインフラの負荷増大について、トラフィ... — はてなブックマーク テクノロジー / score: 75 (Microsoft大規模障害が研修業務等に与えた影響の話題)</description>
-</item>
-<item>
 <title>[75] TSMCがOpenAIとAnthropicの株主に。最大10億ドル投資は何が狙い？</title>
 <link>https://www.gizmodo.jp/article/2611-tsmc-openai-anthropic-investment/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/2611-tsmc-openai-anthropic-investment/</guid>
 <pubDate>Fri, 13 Nov 2026 12:15:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>TSMCによるOpenAIとAnthropicへの最大10億ドル規模の投資の狙いを解説。チップの自社設計が進むAI業界で、製造の主導権を握り続けるための戦略的な先回り投資の背景を読み解きます。 — ギズモード・ジャパン / score: 75 (TSMCのAI企業への巨額投資と業界への影響。)</description>
+</item>
+<item>
+<title>[75] AWS Emulatorで、CloudFront＋API Gateway＋Cognitoの構成をローカルで動かしてみた</title>
+<link>https://zenn.dev/visionarray/articles/2978284b5a9706</link>
+<guid isPermaLink="true">https://zenn.dev/visionarray/articles/2978284b5a9706</guid>
+<pubDate>Fri, 13 Nov 2026 11:31:59 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>はじめに 2026年11月11日に、AWSのAPIを手元で動かせる「AWS Emulator」が一般公開されました。AWS CLIやSDKのエンドポイントをローカルに変えるだけで、コードを変えずにS3やDynamoDBを使えるというものです。 S3にファイルを置く、DynamoDBに書いて読む、くらいなら動くだろうと思ったので、もう少し欲張ってみました。CloudFront、S3、API Gateway、Lambda、DynamoDB、Cognitoを組み合わせて、Cognitoオーソライザーと IAM 認証でAPIを守る構成です。これがローカルでどこまで動くのかを、実際に組んで確か... — Zenn トレンド / score: 75 (AWS Emulatorを活用したローカル環境構築の実例)</description>
 </item>
 <item>
 <title>[75] 2026年11月のWindows 11セキュリティパッチ、一部デバイスでインストールが完了しない問題／Microsoftが自動で修復中</title>
@@ -789,22 +805,6 @@
 <pubDate>Tue, 10 Nov 2026 16:03:47 +0000</pubDate>
 <category>Google DeepMind</category>
 <description> — Google DeepMind / score: 75 (Googleの新しいAIモデルGemini 4 Carbonの登場)</description>
-</item>
-<item>
-<title>[75] Gemini 4 Carbon is now available</title>
-<link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/</link>
-<guid isPermaLink="true">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/</guid>
-<pubDate>Tue, 10 Nov 2026 16:00:00 +0000</pubDate>
-<category>Gemini (Google Blog)</category>
-<description>Today, we’re making Gemini 4 Carbon available to developers, enterprises, scientists, and consumers. — Gemini (Google Blog) / score: 75 (Gemini 4 Carbonの一般提供開始)</description>
-</item>
-<item>
-<title>[75] OpenAIのdots、複数のローカルPCを接続してタスクに使うPCを選択可能に</title>
-<link>https://gihyo.jp/article/2026/11/openai-dots-multiple-local-computers?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/11/openai-dots-multiple-local-computers?utm_source=feed</guid>
-<pubDate>Tue, 10 Nov 2026 10:50:26 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>OpenAIは2026年11月9日、パーソナルAIエージェントのdotsで、1つのdotに複数のローカルPCを接続し、タスクに使うPCを選べるようになったと、開発者向け公式Xアカウントで案内した。ユーザーがノートPCでコードを書き続ける間、dotは別の作業用PCでアプリをビルドしたり、テストしたりできる。 — gihyo.jp / score: 75 (OpenAIのAIエージェントの新機能と開発者向け拡張)</description>
 </item>
 </channel>
 </rss>
