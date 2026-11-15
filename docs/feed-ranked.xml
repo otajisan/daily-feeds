@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sun, 15 Nov 2026 16:06:06 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 18:06:45 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「PostgreSQL」でセキュリティアップデート、「PostgreSQL 14」は最後の更新に／52件の脆弱性と、ここ数カ月に報告された140件を超える不具合が修正</title>
@@ -239,6 +239,14 @@
 <description>llama.cppの開発チームは2026年11月13日、初のメジャー版となる1.0.0をリリースした。llama.cppは、大規模言語モデル（LLM）の推論を実行するC/C++製ライブラリで、計算を支えるテンソルライブラリggmlも同時に1.0.0となった。 — gihyo.jp / score: 85 (llama.cpp初のメジャーバージョンリリース)</description>
 </item>
 <item>
+<title>[85] 【解説】 米マイクロソフトの大規模障害、テクノロジー依存を痛感する事態に - BBCニュース</title>
+<link>https://www.bbc.com/japanese/articles/cmy5xy6yvn95o</link>
+<guid isPermaLink="true">https://www.bbc.com/japanese/articles/cmy5xy6yvn95o</guid>
+<pubDate>Sat, 14 Nov 2026 02:40:37 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>米マイクロソフト（MS）の一部サービスで22時間以上にわたり続いた大規模障害は、日常生活に不可欠なサービスが、少数の大手テクノロジー企業にどれほど依存しているかを浮き彫りにし、疑問を投げかける出来事となった。 大規模障害は、メールサービス「Outlook」など、「マイクロソフト365」が提供する各種サービスに影... — はてなブックマーク テクノロジー / score: 85 (マイクロソフトの大規模障害に関する解説)</description>
+</item>
+<item>
 <title>[85] マネックス証券 免許証画像流出か</title>
 <link>https://news.yahoo.co.jp/pickup/6602486?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6602486?source=rss</guid>
@@ -421,6 +429,14 @@
 <pubDate>Thu, 05 Nov 2026 09:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope. — OpenAI News / score: 85 (サイバーセキュリティ特化型AIモデルの発表)</description>
+</item>
+<item>
+<title>[80] SRE ブックの 10 年間:『Site Reliability Engineering』第 2 版のご紹介 | Google Cloud 公式ブログ</title>
+<link>https://cloud.google.com/blog/ja/products/devops-sre/sre-book-second-edition/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/ja/products/devops-sre/sre-book-second-edition/</guid>
+<pubDate>Sun, 15 Nov 2026 01:43:12 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>David HuskaSoftware Engineer, Site Reliability Engineer ※この投稿は米国時間 2026 年 10 月 13 日に、Google Cloud blog に投稿されたものの抄訳です。 10 年前、Google は O'Reilly Media から『Site Reliability Engineering: How Google Runs Production Systems』を出版しました。大規模なインフラストラクチャ... — はてなブックマーク テクノロジー / score: 80 (SREの定番書籍第2版の発表という重要ニュース)</description>
 </item>
 <item>
 <title>[80] 【AWS】AWS EmulatorでPRごとのCI（結合テスト）を回す【GitHubActions】</title>
@@ -789,22 +805,6 @@
 <pubDate>Mon, 09 Nov 2026 19:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships. — OpenAI News / score: 75 (AWS MarketplaceでのChatGPT Enterprise提供開始)</description>
-</item>
-<item>
-<title>[75] Control Room: A central system to track and stop model workloads across our research infrastructure</title>
-<link>https://openai.com/index/control-room</link>
-<guid isPermaLink="true">https://openai.com/index/control-room</guid>
-<pubDate>Mon, 09 Nov 2026 13:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise. — OpenAI News / score: 75 (OpenAIインフラにおけるモデル管理と安全対策)</description>
-</item>
-<item>
-<title>[75] Amazon EKS Auto Mode and Karpenter now support Dynamic Resource Allocation</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eks-auto-mode-karpenter-dra/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eks-auto-mode-karpenter-dra/</guid>
-<pubDate>Mon, 09 Nov 2026 06:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Amazon Elastic Kubernetes Service (Amazon EKS) now supports Dynamic Resource Allocation (DRA) for NVIDIA GPUs and Elastic Fabric Adapter (EFA) network devices when using Amazon EKS Auto Mode and Karpenter. You can now define the device attributes your Kubernetes workloads need with DRA, share GPU devices across Pods, and allocate topology-aligned GPU and EFA devices while Amazon EKS Auto Mode and Karpenter dynamically scale Amazon EC2 instances based on workload demand. With DRA, you define Reso — AWS What's New / score: 75 (EKS Auto Modeの動的リソース割り当て対応)</description>
 </item>
 </channel>
 </rss>
