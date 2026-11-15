@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sun, 15 Nov 2026 12:08:03 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 14:05:38 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「PostgreSQL」でセキュリティアップデート、「PostgreSQL 14」は最後の更新に／52件の脆弱性と、ここ数カ月に報告された140件を超える不具合が修正</title>
@@ -191,14 +191,6 @@
 <description>OpenAIは2026年11月5日、サイバーセキュリティ向けフロンティアモデルの最新バージョンGPT-6 Cyberを発表した。 — gihyo.jp / score: 90 (AIモデルによるサイバーセキュリティ自動化の重大な発表)</description>
 </item>
 <item>
-<title>[90] Linuxカーネルの深刻な脆弱性／FDEの名前で単なるコンサルティングが販売／TypeScriptをRustに移植した「tsrs」発表ほか、2026年10月の人気記事</title>
-<link>https://www.publickey1.jp/blog/26/linuxfdetypescriptrusttsrs202610.html</link>
-<guid isPermaLink="true">https://www.publickey1.jp/blog/26/linuxfdetypescriptrusttsrs202610.html</guid>
-<pubDate>Thu, 05 Nov 2026 15:37:44 +0000</pubDate>
-<category>Publickey</category>
-<description>2026年の9月から10月にかけては、タイムズカーから自動車免許証の画像を含む大規模な個人情報の漏洩があり、Linuxの深刻な脆弱性が発見され、PHPの脆弱について高市総理がXにポストするなど、ITの分野で社会的に大きな問題がありました。 ... — Publickey / score: 90 (Linuxカーネルの深刻な脆弱性と話題のまとめ)</description>
-</item>
-<item>
 <title>[90] A thousand fewer paths to root</title>
 <link>https://openai.com/index/a-thousand-fewer-paths-to-root</link>
 <guid isPermaLink="true">https://openai.com/index/a-thousand-fewer-paths-to-root</guid>
@@ -245,6 +237,14 @@
 <pubDate>Sat, 14 Nov 2026 03:09:14 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>llama.cppの開発チームは2026年11月13日、初のメジャー版となる1.0.0をリリースした。llama.cppは、大規模言語モデル（LLM）の推論を実行するC/C++製ライブラリで、計算を支えるテンソルライブラリggmlも同時に1.0.0となった。 — gihyo.jp / score: 85 (llama.cpp初のメジャーバージョンリリース)</description>
+</item>
+<item>
+<title>[85] 【解説】 米マイクロソフトの大規模障害、テクノロジー依存を痛感する事態に - BBCニュース</title>
+<link>https://www.bbc.com/japanese/articles/cmy5xy6yvn95o</link>
+<guid isPermaLink="true">https://www.bbc.com/japanese/articles/cmy5xy6yvn95o</guid>
+<pubDate>Sat, 14 Nov 2026 02:40:37 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>米マイクロソフト（MS）の一部サービスで22時間以上にわたり続いた大規模障害は、日常生活に不可欠なサービスが、少数の大手テクノロジー企業にどれほど依存しているかを浮き彫りにし、疑問を投げかける出来事となった。 大規模障害は、メールサービス「Outlook」など、「マイクロソフト365」が提供する各種サービスに影... — はてなブックマーク テクノロジー / score: 85 (マイクロソフトの大規模障害に関する解説)</description>
 </item>
 <item>
 <title>[85] マネックス証券 免許証画像流出か</title>
@@ -415,14 +415,6 @@
 <description>Googleは、Kubernetes上にAIエージェントのための高効率な基盤を構築するためのオープンソースソフトウェア「Agent Substrate」と「gVisor」を、Linux Foundation傘下のCloud Native C... — Publickey / score: 85 (KubernetesとAI基盤のOSS寄贈で影響力大)</description>
 </item>
 <item>
-<title>[85] XCPEマルウェアの解析と国内における観測実態</title>
-<link>https://blog.nicter.jp/2026/11/xcpe_campaign/</link>
-<guid isPermaLink="true">https://blog.nicter.jp/2026/11/xcpe_campaign/</guid>
-<pubDate>Fri, 06 Nov 2026 12:02:26 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>はじめに 2026年11月3日、Googleは、世界で130万台以上のAndroid搭載機器に影響を及ぼしていたXCPEボットネットのテイクダウンを発表しました1。XCPEは、一部のAndroid搭載セットトップボックスなどにプリインストールされているマルウェアで、遠隔からのコマンド実行や情報収集に加え、外部モジュールを導入することで... — はてなブックマーク テクノロジー / score: 85 (大規模マルウェアの解析とテイクダウン)</description>
-</item>
-<item>
 <title>[85] Partnering with Hacktron to find vulnerabilities in OpenAI’s systems</title>
 <link>https://openai.com/index/partnering-with-hacktron</link>
 <guid isPermaLink="true">https://openai.com/index/partnering-with-hacktron</guid>
@@ -543,6 +535,14 @@
 <description>November 9, 2026 — Claude Fable 5.2 and Mythos 5.2 arrive on Anthropic’s IPO roadshow day. How much thinking is worth paying for? — Latent Space / score: 78 (主要LLMの性能逆転とIPO動向)</description>
 </item>
 <item>
+<title>[75] PostgreSQL 19リリース延期の背景。β4で多くの新機能取り下げが発生、原因はAIによるコードレビューか</title>
+<link>https://www.publickey1.jp/blog/26/postgresql_194ai.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/postgresql_194ai.html</guid>
+<pubDate>Sun, 15 Nov 2026 14:05:13 +0000</pubDate>
+<category>Publickey</category>
+<description>オープンソースのリレーショナルデータベース「PostgreSQL」は、先週木曜日（2026年11月12日）に最終リリース候補版となるPostgreSQL 19 RC2が公開され、予定では今週の11月19日に正式リリースとなる見通しです。 そ... — Publickey / score: 75 (PostgreSQLのリリース延期とAI影響の話題)</description>
+</item>
+<item>
 <title>[75] My docomoで一部手続きは再開されるも、いまだ使えない手続きも　ahamoユーザーにも影響あり</title>
 <link>https://ascii.jp/elem/000/004/451/4451626/?rss</link>
 <guid isPermaLink="true">https://ascii.jp/elem/000/004/451/4451626/?rss</guid>
@@ -551,28 +551,20 @@
 <description>My docomoが不正アクセスにともない緊急メンテナンスに入ったが、安全性が確認された一部の手続きは再開。しかし、記事執筆時点でいまだ使えない手続きも存在している。 — ASCII.jp / score: 75 (キャリアの不正アクセスとサービス停止の障害)</description>
 </item>
 <item>
+<title>[75] 【速報】スペースXの「スターシップ」が発射台に初帰還！　第15回飛行試験でキャッチ成功</title>
+<link>https://sorae.info/space/20261115-starship-15.html</link>
+<guid isPermaLink="true">https://sorae.info/space/20261115-starship-15.html</guid>
+<pubDate>Sun, 15 Nov 2026 05:42:37 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>アメリカのSpaceX（スペースX）社は日本時間2026年11月15日、開発中の再使用型ロケット「Starship（スターシップ）」による第15回飛行試験で、初となるStarship宇宙船の発射台帰還を成功させました。前日の打ち上げから約22時間半にわたる飛行を終えた宇宙船のキャッチ（空中回収）成功は、全段の再使用を目指すStarship... — はてなブックマーク テクノロジー / score: 75 (スペースXのスターシップ回収成功)</description>
+</item>
+<item>
 <title>[75] 独プールで15人体調不良　マイクロソフト障害影響 | NEWSjp</title>
 <link>https://news.jp/i/1494496378441958289</link>
 <guid isPermaLink="true">https://news.jp/i/1494496378441958289</guid>
 <pubDate>Sun, 15 Nov 2026 02:57:16 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>【ベルリン共同】ドイツ公共放送WDRは14日、米IT大手マイクロソフトの主力業務ソフトの大規模障害による影響で、西部ブリュールのテーマパーク内にあるプールの利用者15人が体調不良を訴えたと報じた。障害により安全管理システムの警報メールが担当者に届かず、塩素を注入する装置の不具合に気付かず水中塩素濃度が著し... — はてなブックマーク テクノロジー / score: 75 (IT障害が物理的インフラに及ぼした影響)</description>
-</item>
-<item>
-<title>[75] 2026年11月のWindows 11セキュリティパッチ、一部デバイスでインストールが完了しない問題／Microsoftが自動で修復中</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2156181.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2156181.html</guid>
-<pubDate>Sat, 14 Nov 2026 21:49:18 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>2026年11月のWindows 11セキュリティパッチ、一部デバイスでインストールが完了しない問題／Microsoftが自動で修復中 — はてなブックマーク テクノロジー / score: 75 (月例セキュリティパッチの適用失敗問題)</description>
-</item>
-<item>
-<title>[75] AWS セキュリティサービスでアクセスキーの漏えいリスクを最小限に抑える実践的な手順 | Amazon Web Services</title>
-<link>https://aws.amazon.com/jp/blogs/news/practical-steps-to-minimize-key-exposure-using-aws-security-services/</link>
-<guid isPermaLink="true">https://aws.amazon.com/jp/blogs/news/practical-steps-to-minimize-key-exposure-using-aws-security-services/</guid>
-<pubDate>Sat, 14 Nov 2026 15:38:44 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>AWS セキュリティサービスでアクセスキーの漏えいリスクを最小限に抑える実践的な手順 | Amazon Web Services AWS は世界でも極めて包括的なクラウドであり、組織はこれを利用することで、イノベーションを加速し、コストを削減して、より効率的にスケールできます — はてなブックマーク テクノロジー / score: 75 (AWSのセキュリティ対策に関する実践的な解説)</description>
 </item>
 <item>
 <title>[75] AI悪用攻撃拠点か 世界で千台発見</title>
@@ -631,6 +623,14 @@
 <description>この記事は個人（と会社）の実験の記録です。モデルはQwen3.8-Flash-Next（Qwen Community License 1.0）、問いの一部にJMMLUのCC BY-SA 4.0版（Hugging Faceのnlp-waseda/JMMLU_CC-BY-SA）の医療の問題を使いました。実装と実行はClaude Code（AnthropicのClaude）と一緒に行いました。 書き換えと確かめには、私たちが公開している道具Kestromを使いました。Kestromは、言語モデルの重みや出力を決めた所だけ変え、それ以外が元のままであることを、受け取った人が手元で確かめられる道具... — Zenn トレンド / score: 75 (LLMの出力層書き換えによるハルシネーション対策)</description>
 </item>
 <item>
+<title>[75] 2026年11月のWindows 11セキュリティパッチ、一部デバイスでインストールが完了しない問題／Microsoftが自動で修復中</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2156181.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2156181.html</guid>
+<pubDate>Fri, 13 Nov 2026 06:07:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>2026年11月のセキュリティ更新プログラム「KB5132061」の適用を試みた一部デバイスで、インストールが完了しない問題が発生しているとのこと。米Microsoftが自社のサポートページで明らかにした。 — 窓の杜 / score: 75 (月例セキュリティパッチの適用失敗問題)</description>
+</item>
+<item>
 <title>[75] Google DeepMind、AlphaProof Codeを発表 ——Signalプロトコルの実装を機械語レベルで形式検証</title>
 <link>https://gihyo.jp/article/2026/11/alphaproof-code?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/11/alphaproof-code?utm_source=feed</guid>
@@ -669,6 +669,14 @@
 <pubDate>Thu, 12 Nov 2026 05:55:27 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>GoogleのChromeチームは2026年11月10日、コーディングエージェントにWeb開発の知識やブラウザーの互換性情報を提供するOSSプロジェクト「Modern Web Guidance」の安定版1.0の公開を発表した。1.0では、既存コードから改修候補を探すワークフローを追加した。 — gihyo.jp / score: 75 (エージェント開発を支援するGoogleのModern Web Guidance 1.0公開)</description>
+</item>
+<item>
+<title>[75] Skills を持つ単一エージェントは、サブエージェント構成より品質で上回ることが多い — Anthropic が示す移行の手順</title>
+<link>https://zenn.dev/happy_elements/articles/201519107f93de</link>
+<guid isPermaLink="true">https://zenn.dev/happy_elements/articles/201519107f93de</guid>
+<pubDate>Thu, 12 Nov 2026 03:38:09 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>2026 年 10 月 22 日、Anthropic の claude.com ブログに「Building agents: When to fold subagents into your main agent loop」が公開されました。サブエージェントに分けて組んだエージェントを、メインのエージェントループに取り込み、Skills（必要になったときに読み込む手順や知識のまとまり）とツールを持たせた 1 つのループへ戻す（ブログの言葉では fold）ときの判断基準と手順をまとめた記事です。 https://claude.com/blog/building-agents-when-to-... — Zenn トレンド / score: 75 (Anthropicのエージェント設計に関する最新知見)</description>
 </item>
 <item>
 <title>[75] Claude Platform release notes — November 12, 2026</title>
@@ -797,14 +805,6 @@
 <pubDate>Mon, 09 Nov 2026 06:00:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Amazon Elastic Kubernetes Service (Amazon EKS) now supports Dynamic Resource Allocation (DRA) for NVIDIA GPUs and Elastic Fabric Adapter (EFA) network devices when using Amazon EKS Auto Mode and Karpenter. You can now define the device attributes your Kubernetes workloads need with DRA, share GPU devices across Pods, and allocate topology-aligned GPU and EFA devices while Amazon EKS Auto Mode and Karpenter dynamically scale Amazon EC2 instances based on workload demand. With DRA, you define Reso — AWS What's New / score: 75 (EKS Auto Modeの動的リソース割り当て対応)</description>
-</item>
-<item>
-<title>[75] [AINews] Inkling 2 Small: 17A-594B trained in 68 hours on 12T tokens, beating Muse Spark</title>
-<link>https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark/</link>
-<guid isPermaLink="true">https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark/</guid>
-<pubDate>Fri, 06 Nov 2026 10:35:21 +0000</pubDate>
-<category>Latent Space</category>
-<description>November 5, 2026 — Inside Inkling 2 Small’s training run and METR’s study of AI research at Anthropic. — Latent Space / score: 75 (AIモデルのトレーニング詳細に関する速報)</description>
 </item>
 </channel>
 </rss>
