@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sun, 15 Nov 2026 08:07:57 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 10:06:00 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「PostgreSQL」でセキュリティアップデート、「PostgreSQL 14」は最後の更新に／52件の脆弱性と、ここ数カ月に報告された140件を超える不具合が修正</title>
@@ -221,14 +221,6 @@
 <pubDate>Tue, 03 Nov 2026 18:00:00 +0000</pubDate>
 <category>Next.js Blog</category>
 <description>The November 2026 security release for Next.js is now available — Next.js Blog / score: 90 (重要フレームワークの緊急セキュリティアップデート)</description>
-</item>
-<item>
-<title>[88] Node.js 26.13.1（LTS）がリリース、HTTP/2やTLSなど16件の脆弱性に対処</title>
-<link>https://codezine.jp/article/detail/30340</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/30340</guid>
-<pubDate>Thu, 12 Nov 2026 23:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 88 (Node.jsのLTS版と複数脆弱性の修正)</description>
 </item>
 <item>
 <title>[85] Microsoft、「.NET 11」をリリース　C# 15のユニオン型やSDKの高速化など</title>
@@ -607,14 +599,6 @@
 <description>エヌビディアのジェンスン・フアンCEOの辞任と財務担当コレット・クレス氏の暫定就任について解説します。カリスマ経営者を失った巨大企業とAI事業の今後を探ります。 — ギズモード・ジャパン / score: 75 (NVIDIAのジェンスン・フアンCEO辞任ニュース)</description>
 </item>
 <item>
-<title>[75] Qwen3.8 Flash Nextに混ざる中国語を、出力層の書き換えで消した: 27%→0%、他の重みは1バイトも変えずに</title>
-<link>https://zenn.dev/caphtech/articles/qwen38-zh-ban</link>
-<guid isPermaLink="true">https://zenn.dev/caphtech/articles/qwen38-zh-ban</guid>
-<pubDate>Sat, 14 Nov 2026 10:07:16 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>同じ問いに対する書き換えたモデルの答えでは、「誤って攻撃してしまう病気」「ビール: 最も注意」と書かれていました（サンプリングなので、文全体は元と同じではありません）。 測った条件 モデル: Qwen3.8-Flash-Next。mlx-serveの変換で作った4ビットのMLX版で、出力層だけ8ビットです。 問い: 医療の問い60問。JMML... — はてなブックマーク テクノロジー / score: 75 (LLMの出力層書き換えによるハルシネーション対策)</description>
-</item>
-<item>
 <title>[75] CocoaPods、12月2日に新規podの受け付けを停止</title>
 <link>https://codezine.jp/article/detail/30358</link>
 <guid isPermaLink="true">https://codezine.jp/article/detail/30358</guid>
@@ -645,6 +629,14 @@
 <pubDate>Fri, 13 Nov 2026 14:00:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>会議や取材で録音した音声を文字に起こす際には、録音ファイルをアップロードしたり専用の文字起こしソフトを使ったりする方法がありますが、ブラウザだけでリアルタイムに行える無料のツールが「Voxtral Mini 4B Realtime WebGPU」です。日本語を含む13言語に対応し、WebGPUによって音声認識AIを完全ローカルで実行できるとのことなので実際に使ってみました。 続きを読む... — GIGAZINE / score: 75 (WebGPUを活用したブラウザ完結型ローカル音声認識AIの紹介)</description>
+</item>
+<item>
+<title>[75] Qwen3.8 Flash Nextに混ざる中国語を、出力層の書き換えで消した: 27%→0%、他の重みは1バイトも変えずに</title>
+<link>https://zenn.dev/caphtech/articles/qwen38-zh-ban</link>
+<guid isPermaLink="true">https://zenn.dev/caphtech/articles/qwen38-zh-ban</guid>
+<pubDate>Fri, 13 Nov 2026 13:08:40 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>この記事は個人（と会社）の実験の記録です。モデルはQwen3.8-Flash-Next（Qwen Community License 1.0）、問いの一部にJMMLUのCC BY-SA 4.0版（Hugging Faceのnlp-waseda/JMMLU_CC-BY-SA）の医療の問題を使いました。実装と実行はClaude Code（AnthropicのClaude）と一緒に行いました。 書き換えと確かめには、私たちが公開している道具Kestromを使いました。Kestromは、言語モデルの重みや出力を決めた所だけ変え、それ以外が元のままであることを、受け取った人が手元で確かめられる道具... — Zenn トレンド / score: 75 (LLMの出力層書き換えによるハルシネーション対策)</description>
 </item>
 <item>
 <title>[75] Google DeepMind、AlphaProof Codeを発表 ——Signalプロトコルの実装を機械語レベルで形式検証</title>
@@ -687,20 +679,20 @@
 <description>GoogleのChromeチームは2026年11月10日、コーディングエージェントにWeb開発の知識やブラウザーの互換性情報を提供するOSSプロジェクト「Modern Web Guidance」の安定版1.0の公開を発表した。1.0では、既存コードから改修候補を探すワークフローを追加した。 — gihyo.jp / score: 75 (エージェント開発を支援するGoogleのModern Web Guidance 1.0公開)</description>
 </item>
 <item>
+<title>[75] Skills を持つ単一エージェントは、サブエージェント構成より品質で上回ることが多い — Anthropic が示す移行の手順</title>
+<link>https://zenn.dev/happy_elements/articles/201519107f93de</link>
+<guid isPermaLink="true">https://zenn.dev/happy_elements/articles/201519107f93de</guid>
+<pubDate>Thu, 12 Nov 2026 03:38:09 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>2026 年 10 月 22 日、Anthropic の claude.com ブログに「Building agents: When to fold subagents into your main agent loop」が公開されました。サブエージェントに分けて組んだエージェントを、メインのエージェントループに取り込み、Skills（必要になったときに読み込む手順や知識のまとまり）とツールを持たせた 1 つのループへ戻す（ブログの言葉では fold）ときの判断基準と手順をまとめた記事です。 https://claude.com/blog/building-agents-when-to-... — Zenn トレンド / score: 75 (Anthropicのエージェント設計に関する最新知見)</description>
+</item>
+<item>
 <title>[75] Claude Platform release notes — November 12, 2026</title>
 <link>https://platform.claude.com/docs/en/release-notes/overview#self-hosted-managed-agents</link>
 <guid isPermaLink="true">https://platform.claude.com/docs/en/release-notes/overview#self-hosted-managed-agents</guid>
 <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
 <category>Claude リリースノート</category>
 <description>We’ve launched self-hosted Claude Managed Agents . You run the whole Managed Agents service, not only self-hosted sandboxes , on your own infrastructure, and you store agents, sessions, and session history there. The server sends model requests to the provider that you choose, which is Anthropic by default. To request access, contact your Anthropic account team. — Claude リリースノート / score: 75 (Claudeプラットフォームのマネージドエージェント更新)</description>
-</item>
-<item>
-<title>[75] 【AWS】AWS EmulatorでCDK/Terraformのスタックはどこまで動くか【AWSEmulator】</title>
-<link>https://qiita.com/Nana_777/items/3f3c71525d867b22c9f2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/Nana_777/items/3f3c71525d867b22c9f2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Wed, 11 Nov 2026 23:39:20 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>はじめに 2026年11月11日、AWSからAWS Emulatorが公式にリリースされました。AWS SDKやAWS CLIの呼び出しを、AWSアカウントなしで、ローカルやCI上のエミュレーターに向けられるツールです。公式は、実装されているAPIには有効な呼び出しにAW... — Qiita 人気記事 / score: 75 (AWS公式のエミュレータリリースに関する解説記事)</description>
 </item>
 <item>
 <title>[75] Gemini Decisions API</title>
@@ -805,6 +797,14 @@
 <pubDate>Mon, 09 Nov 2026 19:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships. — OpenAI News / score: 75 (AWS MarketplaceでのChatGPT Enterprise提供開始)</description>
+</item>
+<item>
+<title>[75] Control Room: A central system to track and stop model workloads across our research infrastructure</title>
+<link>https://openai.com/index/control-room</link>
+<guid isPermaLink="true">https://openai.com/index/control-room</guid>
+<pubDate>Mon, 09 Nov 2026 13:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise. — OpenAI News / score: 75 (OpenAIインフラにおけるモデル管理と安全対策)</description>
 </item>
 </channel>
 </rss>
