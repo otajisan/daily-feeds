@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sun, 15 Nov 2026 14:05:38 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 16:06:06 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「PostgreSQL」でセキュリティアップデート、「PostgreSQL 14」は最後の更新に／52件の脆弱性と、ここ数カ月に報告された140件を超える不具合が修正</title>
@@ -237,14 +237,6 @@
 <pubDate>Sat, 14 Nov 2026 03:09:14 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>llama.cppの開発チームは2026年11月13日、初のメジャー版となる1.0.0をリリースした。llama.cppは、大規模言語モデル（LLM）の推論を実行するC/C++製ライブラリで、計算を支えるテンソルライブラリggmlも同時に1.0.0となった。 — gihyo.jp / score: 85 (llama.cpp初のメジャーバージョンリリース)</description>
-</item>
-<item>
-<title>[85] 【解説】 米マイクロソフトの大規模障害、テクノロジー依存を痛感する事態に - BBCニュース</title>
-<link>https://www.bbc.com/japanese/articles/cmy5xy6yvn95o</link>
-<guid isPermaLink="true">https://www.bbc.com/japanese/articles/cmy5xy6yvn95o</guid>
-<pubDate>Sat, 14 Nov 2026 02:40:37 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>米マイクロソフト（MS）の一部サービスで22時間以上にわたり続いた大規模障害は、日常生活に不可欠なサービスが、少数の大手テクノロジー企業にどれほど依存しているかを浮き彫りにし、疑問を投げかける出来事となった。 大規模障害は、メールサービス「Outlook」など、「マイクロソフト365」が提供する各種サービスに影... — はてなブックマーク テクノロジー / score: 85 (マイクロソフトの大規模障害に関する解説)</description>
 </item>
 <item>
 <title>[85] マネックス証券 免許証画像流出か</title>
@@ -538,9 +530,17 @@
 <title>[75] PostgreSQL 19リリース延期の背景。β4で多くの新機能取り下げが発生、原因はAIによるコードレビューか</title>
 <link>https://www.publickey1.jp/blog/26/postgresql_194ai.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/postgresql_194ai.html</guid>
-<pubDate>Sun, 15 Nov 2026 14:05:13 +0000</pubDate>
+<pubDate>Sun, 15 Nov 2026 15:31:49 +0000</pubDate>
 <category>Publickey</category>
 <description>オープンソースのリレーショナルデータベース「PostgreSQL」は、先週木曜日（2026年11月12日）に最終リリース候補版となるPostgreSQL 19 RC2が公開され、予定では今週の11月19日に正式リリースとなる見通しです。 そ... — Publickey / score: 75 (PostgreSQLのリリース延期とAI影響の話題)</description>
+</item>
+<item>
+<title>[75] 11月パッチ後にWindowsのライセンス認証操作が失敗する問題、Microsoftが定例外更新／「slmgr.vbs」でKMSの設定などを行う企業デバイスが対象</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2156557.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2156557.html</guid>
+<pubDate>Sun, 15 Nov 2026 15:26:15 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Microsoftは11月13日（現地時間）、Windowsの定例外（OOB）のアップデートをリリースした。2026年11月のセキュリティ更新プログラムを適用した一部の企業向けデバイスで、ソフトウェアライセンス管理ツール（SLMGR）を使ったWindowsのライセンス認証の操作がエラー「0x80041008」（Invalid parameter）で失敗することがあったという。 — 窓の杜 / score: 75 (Windowsのライセンス認証失敗に関する緊急の不具合)</description>
 </item>
 <item>
 <title>[75] My docomoで一部手続きは再開されるも、いまだ使えない手続きも　ahamoユーザーにも影響あり</title>
