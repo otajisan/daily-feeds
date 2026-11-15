@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sat, 14 Nov 2026 22:05:37 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 00:17:12 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「PostgreSQL」でセキュリティアップデート、「PostgreSQL 14」は最後の更新に／52件の脆弱性と、ここ数カ月に報告された140件を超える不具合が修正</title>
@@ -55,28 +55,12 @@
 <description>どうも！オペ部の西村祐二です！ S3 にフロントエンドを置き、Amazon Cognito のユーザープールでログインさせ、ID プールで AWS の一時認証情報を渡す。AWS で SPA を作るときによく見る構成です。この構成が攻撃用の AI エージェントにどう使われたかを、Datadog Security Labs が2026年11月9日の記事「On the hunt fo... — はてなブックマーク テクノロジー / score: 90 (AWS Cognito設定不備によるセキュリティリスク)</description>
 </item>
 <item>
-<title>[90] An update on our recent security incident · Cursor</title>
-<link>https://cursor.com/blog/security-incident-update</link>
-<guid isPermaLink="true">https://cursor.com/blog/security-incident-update</guid>
-<pubDate>Sat, 14 Nov 2026 02:05:25 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>On October 29, we shared that we were investigating a security incident and a malicious, unauthorized copy of Anthropic's Claude Code extension that appeared in the Cursor VS Code extension marketplace. After an extensive investigation over the past two weeks, we want to share more context on the... — はてなブックマーク テクノロジー / score: 90 (Cursorのセキュリティインシデントに関する重要なお知らせ)</description>
-</item>
-<item>
 <title>[90] マイクロソフト大規模障害　74カ国・地域に混乱拡大　官公庁や企業のメール停止　技術的原因か - スポニチ Sponichi Annex 社会</title>
 <link>https://www.sponichi.co.jp/society/news/2026/11/14/kiji/20261114s00042000074000c.html</link>
 <guid isPermaLink="true">https://www.sponichi.co.jp/society/news/2026/11/14/kiji/20261114s00042000074000c.html</guid>
 <pubDate>Sat, 14 Nov 2026 00:01:14 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>マイクロソフト大規模障害 74カ国・地域に混乱拡大 官公庁や企業のメール停止 技術的原因か - スポニチ Sponichi Annex 社会 マイクロソフト大規模障害 74カ国・地域に混乱拡大 官公庁や企業のメール停止 技術的原因か — はてなブックマーク テクノロジー / score: 90 (マイクロソフトの大規模障害で社会的影響が大きい)</description>
-</item>
-<item>
-<title>[90] 【速報】マネックス証券、マイナカード画像漏えいか</title>
-<link>https://www.47news.jp/15227159.html</link>
-<guid isPermaLink="true">https://www.47news.jp/15227159.html</guid>
-<pubDate>Fri, 13 Nov 2026 15:36:10 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>マネックス証券は13日、委託先が運営・管理する口座開設システムが不正アクセスを受け、運転免許証やマイナンバーカードといった本人確認書類の画像1592件と、最大113万件のメールアドレスが漏えいした恐れがあると発表した。 — はてなブックマーク テクノロジー / score: 90 (大規模な個人情報とマイナンバー画像の漏えい事案)</description>
 </item>
 <item>
 <title>[90] [AINews] Jensen Huang resigns after 33 years leading NVIDIA</title>
@@ -271,6 +255,14 @@
 <description> — CodeZine / score: 88 (Node.jsのLTS版と複数脆弱性の修正)</description>
 </item>
 <item>
+<title>[85] Microsoft、「.NET 11」をリリース　C# 15のユニオン型やSDKの高速化など</title>
+<link>https://codezine.jp/article/detail/30360</link>
+<guid isPermaLink="true">https://codezine.jp/article/detail/30360</guid>
+<pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+<category>CodeZine</category>
+<description> — CodeZine / score: 85 (主要な開発プラットフォームのメジャーリリース)</description>
+</item>
+<item>
 <title>[85] [AINews] The No AI Slop Manifesto</title>
 <link>https://latent.space/p/ainews-the-no-ai-slop-manifesto/</link>
 <guid isPermaLink="true">https://latent.space/p/ainews-the-no-ai-slop-manifesto/</guid>
@@ -349,14 +341,6 @@
 <pubDate>Fri, 13 Nov 2026 04:00:02 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Googleは2026年11月12日、AIモデルGemini 4 Hydrogenを発表した。日常的なコーディングや、AIがツールを使いながら複数の手順を進める作業を、速く効率よく進められるよう設計した。 — gihyo.jp / score: 85 (Googleによる新AIモデルGemini 4 Hydrogen発表)</description>
-</item>
-<item>
-<title>[85] Microsoft 365で世界規模の大規模障害が発生し復旧したサーバーも再び停止する事態に、OutlookやTeamsなど幅広いサービスに影響</title>
-<link>https://gigazine.net/news/20261113-microsoft-365-down/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261113-microsoft-365-down/</guid>
-<pubDate>Fri, 13 Nov 2026 03:50:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>Microsoftのクラウドサービス「Microsoft 365」で2026年11月13日に世界規模の大規模障害が発生し、メールサービスの「Outlook」やチャット・会議ツールの「Microsoft Teams」、AIアシスタントの「Microsoft 365 Copilot」などが利用しにくい状態となっています。Microsoftは復旧作業を進めていますが、一度復旧したサーバーが再び応答しなくなる問題も確認されており、記事作成時点では全面復旧の見通しは立っていません。 続きを読む... — GIGAZINE / score: 85 (Microsoft 365の世界規模の大規模障害と影響)</description>
 </item>
 <item>
 <title>[85] Google、高速・高効率な「Gemini 4 Hydrogen」を発表 ～「Claude Sonnet 5.5」「GPT-6.1 Terra」のライバル／前世代「3.8 Flash」の2.5倍の速さでタスクを完了</title>
@@ -687,14 +671,6 @@
 <description>Googleの新AIモデル「Gemini 4 Hydrogen」が登場。従来より2.5倍の速さでタスクを処理し、コード作成や検索機能が向上した新モデルの特徴を解説します。 — ギズモード・ジャパン / score: 75 (Googleの新世代AIモデル発表)</description>
 </item>
 <item>
-<title>[75] AWS Emulatorで、CloudFront＋API Gateway＋Cognitoの構成をローカルで動かしてみた</title>
-<link>https://zenn.dev/visionarray/articles/2978284b5a9706</link>
-<guid isPermaLink="true">https://zenn.dev/visionarray/articles/2978284b5a9706</guid>
-<pubDate>Fri, 13 Nov 2026 11:31:59 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>はじめに 2026年11月11日に、AWSのAPIを手元で動かせる「AWS Emulator」が一般公開されました。AWS CLIやSDKのエンドポイントをローカルに変えるだけで、コードを変えずにS3やDynamoDBを使えるというものです。 S3にファイルを置く、DynamoDBに書いて読む、くらいなら動くだろうと思ったので、もう少し欲張ってみました。CloudFront、S3、API Gateway、Lambda、DynamoDB、Cognitoを組み合わせて、Cognitoオーソライザーと IAM 認証でAPIを守る構成です。これがローカルでどこまで動くのかを、実際に組んで確か... — Zenn トレンド / score: 75 (AWS Emulatorを活用したローカル環境構築の実例)</description>
-</item>
-<item>
 <title>[75] 2026年11月のWindows 11セキュリティパッチ、一部デバイスでインストールが完了しない問題／Microsoftが自動で修復中</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2156181.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2156181.html</guid>
@@ -743,28 +719,12 @@
 <description>蘭Blender Foundationは11月10日（現地時間）、「Blender 5.3」を公開した。本バージョンでは新しく、プロジェクト毎のファイル管理を容易にするプロジェクトシステムが導入されたほか、ガウシアンスプラッティング対応や分光、Vulkanバックエンドのデフォルト化といった、レンダリング関連の機能の強化が目立った。 — 窓の杜 / score: 75 (Blender 5.3のメジャーアップデート)</description>
 </item>
 <item>
-<title>[75] Google、「Modern Web Guidance 1.0」安定版を公開</title>
-<link>https://codezine.jp/article/detail/30332</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/30332</guid>
-<pubDate>Thu, 12 Nov 2026 08:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 75 (GoogleによるWeb開発の新しいガイドライン公開)</description>
-</item>
-<item>
 <title>[75] Modern Web Guidance 1.0公開、エージェントによるフロントエンドの改修を支援</title>
 <link>https://gihyo.jp/article/2026/11/modern-web-guidance-1.0?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/11/modern-web-guidance-1.0?utm_source=feed</guid>
 <pubDate>Thu, 12 Nov 2026 05:55:27 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>GoogleのChromeチームは2026年11月10日、コーディングエージェントにWeb開発の知識やブラウザーの互換性情報を提供するOSSプロジェクト「Modern Web Guidance」の安定版1.0の公開を発表した。1.0では、既存コードから改修候補を探すワークフローを追加した。 — gihyo.jp / score: 75 (エージェント開発を支援するGoogleのModern Web Guidance 1.0公開)</description>
-</item>
-<item>
-<title>[75] AWS EmulatorはAWS Blocksのモックを置き換えるのか？実際に動かして見えた「三つ目の層」</title>
-<link>https://zenn.dev/genda_jp/articles/18d1f780f6b41f</link>
-<guid isPermaLink="true">https://zenn.dev/genda_jp/articles/18d1f780f6b41f</guid>
-<pubDate>Thu, 12 Nov 2026 05:20:41 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>2026年11月11日（米国時間）、AWSが AWS Emulator をリリースしました。AWS SDKやAWS CLIの呼び出しを、クラウドではなく手元のエミュレーターが受けて、AWSと同じ形の応答を返すツールです。 https://github.com/aws/aws-emulator ニュースを見て、真っ先に頭に浮かんだのはこれでした。 「AWS Blocksのモックって、もういらなくなるの？」 AWS Blocksには、パブリックプレビューの段階から微力ながらコントリビュートしています。以前の記事では、BlocksがAmplifyやApp Studioと何が違うのかを整理しまし... — Zenn トレンド / score: 75 (新しくリリースされた公式のAWSエミュレーター解説)</description>
 </item>
 <item>
 <title>[75] Claude Platform release notes — November 12, 2026</title>
@@ -805,6 +765,46 @@
 <pubDate>Wed, 11 Nov 2026 15:00:15 +0000</pubDate>
 <category>Google DeepMind</category>
 <description>Predicting how DNA sequences and their variations impact specific human cell types and disease. — Google DeepMind / score: 75 (DeepMindによるDNA解析AIモデルの高度な研究発表)</description>
+</item>
+<item>
+<title>[75] OpenAI、事業者がChatGPTに商品情報などを提供できる「Businesses in ChatGPT」をベータ公開 ——米国の対象事業者には、質問に答えるBusiness Agentも提供</title>
+<link>https://gihyo.jp/article/2026/11/openai-businesses-in-chatgpt?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/11/openai-businesses-in-chatgpt?utm_source=feed</guid>
+<pubDate>Wed, 11 Nov 2026 11:17:30 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>OpenAIは2026年11月10日、事業者向けのBusinesses in ChatGPTのベータ提供を開始した。事業者は、プロフィールの管理権限の申請と本人確認が承認されると、紹介文や商品情報などをChatGPTに提供し、ChatGPT内のWebサイトへのリンクのクリック数などを確認できる。 — gihyo.jp / score: 75 (OpenAIの新機能ベータ公開とビジネスへの影響)</description>
+</item>
+<item>
+<title>[75] Anthropic、Claude Sheets・Whiteboardsをベータ提供、Claude Dataは一般提供へ ——インタラクティブコネクターも更新、対応アプリをチャットの横や全画面で操作可能に</title>
+<link>https://gihyo.jp/article/2026/11/claude-whiteboards-and-sheets-and-data-and-interactive-connectors?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/11/claude-whiteboards-and-sheets-and-data-and-interactive-connectors?utm_source=feed</guid>
+<pubDate>Wed, 11 Nov 2026 08:26:07 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Anthropicは2026年11月10日、Claude内で利用者やチームがAIと共同編集できる表計算機能「Claude Sheets」とホワイトボード機能「Claude Whiteboards」のベータ提供を開始した。データ分析機能のClaude Dashboardsも「Claude Data」に改称し、一般提供へ移行した。 — gihyo.jp / score: 75 (Anthropicの主要サービス拡張と新機能ベータ提供)</description>
+</item>
+<item>
+<title>[75] Microsoft、「Process Explorer」のMac版を公開 ～Sysinternalsの高機能タスクマネージャー／Windows版のコア機能を移植、macOS向けの独自機能も</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2155337.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2155337.html</guid>
+<pubDate>Tue, 10 Nov 2026 23:58:58 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Microsoftは11月5日（現地時間）、「Process Explorer 1.0 for macOS」を公開した。Windowsプラットフォームで定番の高機能タスクマネージャー「Process Explorer」のMac版だ。 — 窓の杜 / score: 75 (Process ExplorerのMac版が公開)</description>
+</item>
+<item>
+<title>[75] Gemini 4 Carbon is now available</title>
+<link>https://deepmind.google/blog/gemini-4-carbon-is-now-available/</link>
+<guid isPermaLink="true">https://deepmind.google/blog/gemini-4-carbon-is-now-available/</guid>
+<pubDate>Tue, 10 Nov 2026 16:03:47 +0000</pubDate>
+<category>Google DeepMind</category>
+<description> — Google DeepMind / score: 75 (Googleの新しいAIモデルGemini 4 Carbonの登場)</description>
+</item>
+<item>
+<title>[75] Gemini 4 Carbon is now available</title>
+<link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/</link>
+<guid isPermaLink="true">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/</guid>
+<pubDate>Tue, 10 Nov 2026 16:00:00 +0000</pubDate>
+<category>Gemini (Google Blog)</category>
+<description>Today, we’re making Gemini 4 Carbon available to developers, enterprises, scientists, and consumers. — Gemini (Google Blog) / score: 75 (Gemini 4 Carbonの一般提供開始)</description>
 </item>
 </channel>
 </rss>

@@ -4,8 +4,64 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sat, 14 Nov 2026 22:05:37 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 00:17:12 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Microsoft、「.NET 11」をリリース　C# 15のユニオン型やSDKの高速化など</title>
+<link>https://codezine.jp/article/detail/30360</link>
+<guid isPermaLink="true">https://codezine.jp/article/detail/30360</guid>
+<pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+<category>CodeZine</category>
+<description> — CodeZine / score: 85 (主要な開発プラットフォームのメジャーリリース)</description>
+</item>
+<item>
+<title>AIが便利になればなるほど深刻になる「自動化の皮肉」に人間はどう対処すべきか</title>
+<link>https://gigazine.net/news/20261115-ai-isnt-replacing-sres-its-deskilling/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261115-ai-isnt-replacing-sres-its-deskilling/</guid>
+<pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>近年のAIの進化はSRE(サイト信頼性エンジニアリング)に大きな影響を与えています。AIがインシデント対応の大部分を自動化するにつれて、人間が担うべき「稀・複雑・曖昧」な問題への対応能力が低下するという「自動化の皮肉」が指摘されています。オープンソースのシステム監視・分析ツール「SigNoz」の開発者エリザベス・マシュー氏は「AIがインシデント対応の95%を処理するようになったら、実際に重要な5%の対応能力は低下するのか？」という疑問について考察しています。 続きを読む... — GIGAZINE / score: 60 (AI自動化とSREに関する重要な課題提起)</description>
+</item>
+<item>
+<title>ナルシシストはSNSの登場で増加しているのか？</title>
+<link>https://gigazine.net/news/20261115-narcissists-sns/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261115-narcissists-sns/</guid>
+<pubDate>Sat, 14 Nov 2026 23:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>承認欲求を簡単に満たすことができるSNSの登場で、強い自己愛を持つナルシシストが増えているのではないかと考えた研究者らが、ナルシシストとSNSの関係について調査しました。 続きを読む... — GIGAZINE / score: 15 (心理学・SNSに関する話題であり技術トピックではない)</description>
+</item>
+<item>
+<title>サブスクの「解約忘れで課金」に待った。EUが新ルールを提案</title>
+<link>https://www.gizmodo.jp/article/2611-eu-subscription-cancellation-rule/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-eu-subscription-cancellation-rule/</guid>
+<pubDate>Sat, 14 Nov 2026 23:00:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>サブスクの解約忘れによる無意識の課金を防ぐため、EUが提案した新しい消費者保護ルール「デジタル公正法」。日本も導入してほしい。 — ギズモード・ジャパン / score: 35 (サブスク解約に関するEUの法規制ニュース)</description>
+</item>
+<item>
+<title>Netflixが値上げ 最安は990円に</title>
+<link>https://news.yahoo.co.jp/pickup/6602619?source=rss</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6602619?source=rss</guid>
+<pubDate>Sat, 14 Nov 2026 22:58:48 +0000</pubDate>
+<category>Yahoo!ニュース IT</category>
+<description> — Yahoo!ニュース IT / score: 30 (一般的なサービスの値上げニュース)</description>
+</item>
+<item>
+<title>密輸対策のチップ位置確認は可能、エヌビディアが議員に非公開で説明</title>
+<link>https://ascii.jp/elem/000/004/451/4451604/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/451/4451604/?rss</guid>
+<pubDate>Sat, 14 Nov 2026 22:14:28 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>中国への高性能AI半導体の密輸対策としてチップの所在地確認を義務付ける米法案をめぐり、エヌビディアの担当者が非公開の場で技術的に対応可能との見解を米下院議員に伝えていたという。取材に応じた議員が明らかにした。ジェンスンCEOの辞任とスパイ疑惑を受け、この法案が改めて注目を浴びている。 — ASCII.jp / score: 50 (AI半導体の流通管理に関する業界動向)</description>
+</item>
+<item>
+<title>datasette-vega 0.7</title>
+<link>https://simonwillison.net/2026/Nov/14/datasette-vega/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Nov/14/datasette-vega/</guid>
+<pubDate>Sat, 14 Nov 2026 17:09:09 +0000</pubDate>
+<category>Simon Willison</category>
+<description>Release: datasette-vega 0.7 A new release of Datasette's longest untouched plugin, for rendering charts (using Vega-Lite against data in a table or custom query. The last release was in July 2018! I finally bumped it for compatibility with the latest Datasette alphas, plus some cosmetic tweaks to make it work better with Datasette Lite . (Datasette Lite just gained the ability to run JavaScript plugins like this! I'll write more about that soon.) Since it works with Datasette Lite, the live demo — Simon Willison / score: 40 (OSSプラグインのマイナーアップデート情報)</description>
+</item>
 <item>
 <title>常時稼働エージェントの作り方（Claude公式ブログを資料化）</title>
 <link>https://speakerdeck.com/minorun365/jouji-kadou-ejento-no-tsukurikata</link>
@@ -463,14 +519,6 @@
 <description>はじめに 2026年11月11日に、AWS Emulator が公式にリリースされました。AWS SDK や AWS CLI の呼び出しを、AWS アカウントなしで、ローカルや CI 上のエミュレーターに向けられるツールです。公式ドキュメントは、ユースケースのひとつに C... — Qiita 人気記事 / score: 80 (AWS Emulatorを活用したCIでの結合テスト事例)</description>
 </item>
 <item>
-<title>1時間で作るPerlOS: Yet Another Perl Computer</title>
-<link>https://zenn.dev/takesako/articles/e9b10360d889ca</link>
-<guid isPermaLink="true">https://zenn.dev/takesako/articles/e9b10360d889ca</guid>
-<pubDate>Sat, 14 Nov 2026 07:09:37 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>PerlOS を作って低レイヤーを学ぼう 普段書いているC言語のプログラムで疑問に思ったことはないでしょうか？ #include &lt;stdio.h&gt;で使われる標準ライブラリの実体は、どこにあるのか？ main関数が呼ばれるまで、誰がどんなことをしているのか？ printf関数は、どうやって文字を画面に出しているのか？ この記事では、組み込み用のPerl言語処理系「microperl」を自作OSに組み込み、起動するとPerlのシェルが使える「PerlOS」を作る手順を解説します。 最初はC言語で自作OSの数十行のコードを書いて、仮想環境QEMUを用いてシリアルコン... — Zenn トレンド / score: 60 (PerlOSを自作して低レイヤーを学ぶ興味深いハンズオン)</description>
-</item>
-<item>
 <title>スラダンの安西先生と坂本太郎はどのくらい似ている？『SAKAMOTO DAYS』が50%還元【Amazonマンガ週末祭】</title>
 <link>https://ascii.jp/elem/000/004/451/4451574/?rss</link>
 <guid isPermaLink="true">https://ascii.jp/elem/000/004/451/4451574/?rss</guid>
@@ -597,14 +645,6 @@
 <pubDate>Sat, 14 Nov 2026 04:02:46 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>ゲーム開発にAIを活用することに対しては賛否両論ありますが、世界最大級のゲーム開発者会議であるGDCの最新レポートから、業界で活躍する開発者の40％が生成AIを利用していることが明らかになりました。 A new report reckons 40% of developers in the video games industry are using generative AI - but even more ... — はてなブックマーク テクノロジー / score: 50 (ゲーム開発における生成AIの利用実態に関する調査レポート)</description>
-</item>
-<item>
-<title>ハッカソン初心者に伝えたい、失敗から学んだチーム開発前の3つの準備</title>
-<link>https://zenn.dev/kinuuu/articles/hackathon-team-dev-preparation</link>
-<guid isPermaLink="true">https://zenn.dev/kinuuu/articles/hackathon-team-dev-preparation</guid>
-<pubDate>Sat, 14 Nov 2026 04:01:19 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>ハッカソンで開発を始める前に、チームで確認しておきたいことが3つあります。 全員が同じアプリを起動できるか Gitで変更を共有し、取り込めるか 担当するタスクの内容と、完了条件が伝わっているか これまでに20回ほどハッカソンに参加し、主にチームの取りまとめ役として、企画から開発・デプロイまでを担当してきました。その中で、開発を始めるときの流れや初心者向けの説明をドキュメントにまとめたり、PRテンプレートやAIによるPRレビューを取り入れたりして、チーム開発の進め方を改善してきました。 ! この記事の対象読者 これからハッカソンに参加する人 個人開発の経験はあるが、Gitを使ったチー... — Zenn トレンド / score: 50 (ハッカソン初心者のためのチーム開発前準備の解説)</description>
 </item>
 <item>
 <title>CocoaPods、12月2日に新規podの受け付けを停止</title>
@@ -765,46 +805,6 @@
 <pubDate>Sat, 14 Nov 2026 02:35:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>高校生が自宅のガレージで開発したDIYろ過フィルターが、浄水場を超えるマイクロプラスチック除去率を記録しました。サステナビリティの観点から注目を集める革新的な発明の仕組みと背景をご紹介。 — ギズモード・ジャパン / score: 40 (高校生が開発したDIYろ過フィルターの技術的話題)</description>
-</item>
-<item>
-<title>An update on our recent security incident · Cursor</title>
-<link>https://cursor.com/blog/security-incident-update</link>
-<guid isPermaLink="true">https://cursor.com/blog/security-incident-update</guid>
-<pubDate>Sat, 14 Nov 2026 02:05:25 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>On October 29, we shared that we were investigating a security incident and a malicious, unauthorized copy of Anthropic's Claude Code extension that appeared in the Cursor VS Code extension marketplace. After an extensive investigation over the past two weeks, we want to share more context on the... — はてなブックマーク テクノロジー / score: 90 (Cursorのセキュリティインシデントに関する重要なお知らせ)</description>
-</item>
-<item>
-<title>【関西弁・京都弁・博多弁の変換1,376回を調査】いちばん使われたのは関西弁で78.0%。時間帯は21時台が最も多く、入力した文章の約6割は20文字以内の短い文でした</title>
-<link>https://ascii.jp/elem/000/004/451/4451594/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/451/4451594/?rss</guid>
-<pubDate>Sat, 14 Nov 2026 02:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>【関西弁・京都弁・博多弁の変換1,376回を調査】いちばん使われたのは関西弁で78.0%。時間帯は21時台が最も多く、入力した文章の約6割は20文字以内の短い文でした — ASCII.jp / score: 20 (方言変換ツールの利用統計データ調査)</description>
-</item>
-<item>
-<title>ウミガメの赤ちゃん、調べたら全員メスでした。温暖化で異変</title>
-<link>https://www.gizmodo.jp/article/2611-florida-sea-turtles-global-warming-female-bias/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-florida-sea-turtles-global-warming-female-bias/</guid>
-<pubDate>Sat, 14 Nov 2026 02:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>温暖化の影響でフロリダのウミガメに性別の偏りが発生し、調査中の子ガメがすべてメスだったことが判明しました。 — ギズモード・ジャパン / score: 25 (温暖化がウミガメの性別に与える影響)</description>
-</item>
-<item>
-<title>佐賀県のふるさと納税、返礼品なしでNPOを選べる入口が「ふるさと生活」「ふるなび」にも。唐津の自然共生サイトを管理するNPO法人唐津Farm&amp;Foodも寄附先に選べます</title>
-<link>https://ascii.jp/elem/000/004/451/4451590/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/451/4451590/?rss</guid>
-<pubDate>Sat, 14 Nov 2026 01:40:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>佐賀県のふるさと納税、返礼品なしでNPOを選べる入口が「ふるさと生活」「ふるなび」にも。唐津の自然共生サイトを管理するNPO法人唐津Farm&amp;Foodも寄附先に選べます — ASCII.jp / score: 15 (地方自治体のふるさと納税ポータル拡充の話題)</description>
-</item>
-<item>
-<title>ミニPCやNASなどが最大32％オフに—Minisforumが公式ストアでブラックフライデーのセールを開催中</title>
-<link>https://taisy0.com/2026/11/14/230415.html</link>
-<guid isPermaLink="true">https://taisy0.com/2026/11/14/230415.html</guid>
-<pubDate>Sat, 14 Nov 2026 01:34:49 +0000</pubDate>
-<category>気になる、記になる…</category>
-<description>Minisforumが、公式ストアにおいて「ブラックフライデーセール」を開催中です。 期間中は、人気のミニPCや高性能ワークステーション、NASなどが特別価格で販売され、最大32%OFFのフラッシュセールをはじめ、アクセ […] — 気になる、記になる… / score: 30 (PC・周辺機器のセール情報)</description>
 </item>
 </channel>
 </rss>
