@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sun, 15 Nov 2026 04:07:00 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 06:09:49 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「PostgreSQL」でセキュリティアップデート、「PostgreSQL 14」は最後の更新に／52件の脆弱性と、ここ数カ月に報告された140件を超える不具合が修正</title>
@@ -53,14 +53,6 @@
 <pubDate>Sat, 14 Nov 2026 12:48:25 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>どうも！オペ部の西村祐二です！ S3 にフロントエンドを置き、Amazon Cognito のユーザープールでログインさせ、ID プールで AWS の一時認証情報を渡す。AWS で SPA を作るときによく見る構成です。この構成が攻撃用の AI エージェントにどう使われたかを、Datadog Security Labs が2026年11月9日の記事「On the hunt fo... — はてなブックマーク テクノロジー / score: 90 (AWS Cognito設定不備によるセキュリティリスク)</description>
-</item>
-<item>
-<title>[90] マイクロソフト大規模障害　74カ国・地域に混乱拡大　官公庁や企業のメール停止　技術的原因か - スポニチ Sponichi Annex 社会</title>
-<link>https://www.sponichi.co.jp/society/news/2026/11/14/kiji/20261114s00042000074000c.html</link>
-<guid isPermaLink="true">https://www.sponichi.co.jp/society/news/2026/11/14/kiji/20261114s00042000074000c.html</guid>
-<pubDate>Sat, 14 Nov 2026 00:01:14 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>マイクロソフト大規模障害 74カ国・地域に混乱拡大 官公庁や企業のメール停止 技術的原因か - スポニチ Sponichi Annex 社会 マイクロソフト大規模障害 74カ国・地域に混乱拡大 官公庁や企業のメール停止 技術的原因か — はてなブックマーク テクノロジー / score: 90 (マイクロソフトの大規模障害で社会的影響が大きい)</description>
 </item>
 <item>
 <title>[90] [AINews] Jensen Huang resigns after 33 years leading NVIDIA</title>
@@ -322,9 +314,9 @@
 <title>[85] Google、高速・高効率な「Gemini 4 Hydrogen」を発表 ～「Claude Sonnet 5.5」「GPT-6.1 Terra」のライバル／前世代「3.8 Flash」の2.5倍の速さでタスクを完了</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2156117.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2156117.html</guid>
-<pubDate>Fri, 13 Nov 2026 02:57:17 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Google、高速・高効率な「Gemini 4 Hydrogen」を発表 ～「Claude Sonnet 5.5」「GPT-6.1 Terra」のライバル／前世代「3.8 Flash」の2.5倍の速さでタスクを完了 — はてなブックマーク テクノロジー / score: 85 (主要AIモデルの新作発表に関する技術的ニュース)</description>
+<pubDate>Fri, 13 Nov 2026 02:05:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Googleは11月12日（現地時間）、「Gemini 4 Hydrogen」を発表した。日常的なコーディングやエージェント型のワークフローを、高速かつ効率的にこなすことを目指したモデルで、同日より開発者、企業、一般ユーザーに提供される。 — 窓の杜 / score: 85 (主要AIモデルの新作発表に関する技術的ニュース)</description>
 </item>
 <item>
 <title>[85] Introducing Gemini 4 Hydrogen</title>
@@ -357,14 +349,6 @@
 <pubDate>Thu, 12 Nov 2026 04:21:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Amazon Web Services（AWS）は2026年11月11日、ローカルマシン上などでAWSアプリケーションを構築・テストできるエミュレーター「AWS Emulator」の一般提供を開始した。 — gihyo.jp / score: 85 (AWS Emulatorの一般提供開始に関する重要ニュース)</description>
-</item>
-<item>
-<title>[85] Node.js 22 / 24 / 26 の脆弱性、自分のアプリが影響を受けるか確認する方法【2026年11月】</title>
-<link>https://zenn.dev/rakko_inc/articles/nodejs-security-nov-2026-proxy</link>
-<guid isPermaLink="true">https://zenn.dev/rakko_inc/articles/nodejs-security-nov-2026-proxy</guid>
-<pubDate>Thu, 12 Nov 2026 02:31:30 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>Next.js や NestJS でアプリを書いていて、「Node.js の脆弱性が公表されたけれど、自分のアプリは対象なのか」を自分で判断したい人に向けた記事です。 2026年11月11日に、Node.js 22・24・26 系のセキュリティリリースが公表されました。深刻度が High の 7 件は、ロードバランサーや nginx の後ろで Node.js を動かしている構成には届きません。 TL;DR 今回の High の 7 件は、Node.js が自分で暗号化の通信（TLS）や HTTP/2 を処理しているときに起きる不具合でした。 ロードバランサーや nginx が手前で... — Zenn トレンド / score: 85 (Node.jsの脆弱性に対する影響確認方法の有用な解説)</description>
 </item>
 <item>
 <title>[85] 「Node.js」にセキュリティ更新 ～16件の脆弱性を修正、HTTP/2関連が多数／v22.23.5、v24.22.3、v26.13.1が公開</title>
@@ -671,14 +655,6 @@
 <description>Google DeepMindは2026年11月10日、人間の専門家とAIエージェントが協力してソフトウェアを形式検証するフレームワーク「AlphaProof Code」を発表した。研究チームは、エンドツーエンド暗号化通信に使われるSignalプロトコルの参照実装libsignalに、この仕組みを適用した。 — gihyo.jp / score: 75 (形式検証フレームワークによる暗号プロトコル検証)</description>
 </item>
 <item>
-<title>[75] 最強オープンウェイトモデル Kimi-K3.1-Pro をセルフホストして独自ベンチで比べてみた</title>
-<link>https://zenn.dev/fixstars/articles/kimi-k31-pro-benchmark</link>
-<guid isPermaLink="true">https://zenn.dev/fixstars/articles/kimi-k31-pro-benchmark</guid>
-<pubDate>Thu, 12 Nov 2026 23:50:35 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>Kimi-K3.1-Pro は、中国のベンチャー企業 Moonshot AI が開発したオープンウェイトの大規模言語モデルです。サイズは 2.8T-A104B と 2026/11/12 時点で公開されている主要なモデルでは最大、 Artificial Analysis v5 指標では 46 点であり二番手 (DeepSeek-V4.1-Flash-1017, 33 点) を大きく引き離しています。スペックを見る限り、 Kimi-K3.1-Pro は最強のオープンウェイトモデルといえるでしょう。 弊社では以前 Kimi-K3 の Day1 検証 を行いましたが、今回はデプロイ設定やタスク... — Zenn トレンド / score: 75 (大規模オープンウェイトLLMのセルフホスト検証)</description>
-</item>
-<item>
 <title>[75] Google Antigravity、クラウド上でAIエージェントが働く「リモートエージェント」機能を搭載。就業時間外でもAIエージェントは働き続ける</title>
 <link>https://www.publickey1.jp/blog/26/google_antigravityaiai.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/google_antigravityaiai.html</guid>
@@ -805,6 +781,30 @@
 <pubDate>Tue, 10 Nov 2026 08:00:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Amazon ElastiCache Serverless for Valkey now supports vector, full-text, and hybrid search, along with aggregations. Applications searching live data often face a hard trade-off between latency and recall, along with delays before updates become searchable. With search on ElastiCache Serverless, applications can search data with latency as low as microseconds at up to 99% recall for vector search, while serving billions of queries per day. Updates are searchable in as little as microseconds, as  — AWS What's New / score: 75 (ElastiCacheのベクトル検索機能追加)</description>
+</item>
+<item>
+<title>[75] Introducing Our Smallest, Most Efficient Model: Muse Ember</title>
+<link>https://simonwillison.net/2026/Nov/10/muse-ember/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Nov/10/muse-ember/</guid>
+<pubDate>Tue, 10 Nov 2026 07:28:21 +0000</pubDate>
+<category>Simon Willison</category>
+<description>Introducing Our Smallest, Most Efficient Model: Muse Ember Meta AI just launched their entry in the Claude Haiku/GPT Luna category: Muse Ember, which they describe as: [...] our smallest and most efficient model designed for complex reasoning execution and the work agents repeat all day: tool calls, coding subtasks, routing, extraction, and long document parsing. For shorter prompts it's priced the same as GPT-6 Luna and Claude Haiku 5.5 - both are $0.10/million input tokens and $0.50/million ou — Simon Willison / score: 75 (Metaの新型効率的AIモデルの発表)</description>
+</item>
+<item>
+<title>[75] Meta、小型AIモデル「Muse Ember」を発表 ——エージェントが繰り返す処理を低コストに</title>
+<link>https://gihyo.jp/article/2026/11/muse-ember?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/11/muse-ember?utm_source=feed</guid>
+<pubDate>Tue, 10 Nov 2026 06:57:51 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Metaは2026年11月9日、ツール呼び出しやコード修正、文書解析など、AIエージェントが繰り返す処理を低コストで実行するための小型モデルMuse Emberを発表した。同日から、コーディングエージェントのMuse Codeと、アプリケーションからモデルを利用するMeta Model APIで提供している。 — gihyo.jp / score: 75 (Metaによる効率的な小型AIモデルの発表)</description>
+</item>
+<item>
+<title>[75] ChatGPT Enterprise now available in AWS Marketplace</title>
+<link>https://openai.com/index/chatgpt-enterprise-aws-marketplace</link>
+<guid isPermaLink="true">https://openai.com/index/chatgpt-enterprise-aws-marketplace</guid>
+<pubDate>Mon, 09 Nov 2026 19:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships. — OpenAI News / score: 75 (AWS MarketplaceでのChatGPT Enterprise提供開始)</description>
 </item>
 </channel>
 </rss>
