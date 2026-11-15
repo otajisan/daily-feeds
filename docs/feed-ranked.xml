@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sun, 15 Nov 2026 20:06:04 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 22:06:17 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「PostgreSQL」でセキュリティアップデート、「PostgreSQL 14」は最後の更新に／52件の脆弱性と、ここ数カ月に報告された140件を超える不具合が修正</title>
@@ -23,20 +23,20 @@
 <description>The Apache Software Foundation（ASF）は11月11日（協定世界時）、「Apache HTTP Server 2.4.71」を公開した。3件の脆弱性に対処したセキュリティアップデートとなっている。 — 窓の杜 / score: 95 (Apache HTTP ServerのCritical脆弱性修正)</description>
 </item>
 <item>
-<title>[95] 「Google Chrome 157」にゼロデイ脆弱性、セキュリティアップデートが公開【11月12日追記】／すでに悪用を確認。Android版「Microsoft Edge」にも修正版が公開</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2154988.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2154988.html</guid>
-<pubDate>Tue, 10 Nov 2026 02:01:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Googleは11月9日（現地時間）、デスクトップ向け「Google Chrome」の安定（Stable）チャネルをアップデートした。今後数日から数週間をかけて、Windows/Mac環境にはv157.0.8103.50/.51、Linux環境にはv157.0.8103.50が展開される。 — 窓の杜 / score: 95 (Chromeのゼロデイ脆弱性修正、悪用確認あり)</description>
-</item>
-<item>
 <title>[95] OpenAI、Linuxカーネルを最新セキュリティAIモデルで調査、ローカル権限昇格の脆弱性948件を実証 ―エクスプロイト、パッチまで生成</title>
 <link>https://gihyo.jp/article/2026/11/openai-linux-vulnerabilitiy-investigation?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/11/openai-linux-vulnerabilitiy-investigation?utm_source=feed</guid>
 <pubDate>Thu, 05 Nov 2026 06:53:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>OpenAIは2026年11月4日、開発中のサイバーセキュリティ向けAIモデルを活用し、Linuxカーネルの脆弱性をエージェントが自律的に発見し検証した結果を発表した。 — gihyo.jp / score: 95 (AIによるLinuxカーネルの脆弱性大量発見と実証の画期的なニュース)</description>
+</item>
+<item>
+<title>[90] 今週中に対応すべき脆弱性 6 つ。Outlook・Chrome・Edge・VPN 機器は悪用あり、iPhone・Mac・SonicWall は今週が期限（11/16〜11/22）</title>
+<link>https://qiita.com/songchong/items/75bf50a67ca5370ec6bf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/songchong/items/75bf50a67ca5370ec6bf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Sun, 15 Nov 2026 18:58:36 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>今週（11 月 16〜22 日）にやることは、図の 6 つです。①〜④ には、すでに悪用されている脆弱性があります。この 4 つから先に済ませてください。 ① の Outlook の脆弱性は、Microsoft が悪用を確認したと公表しています。IT連携マップの編集部は... — Qiita 人気記事 / score: 90 (緊急対応が必要なセキュリティ脆弱性のまとめ)</description>
 </item>
 <item>
 <title>[90] [AINews] Jensen Huang resigns after 33 years leading NVIDIA</title>
@@ -175,14 +175,6 @@
 <description>米Appleは11月9日（現地時間）、自社製品のセキュリティアップデートを一斉実施した。「iOS 27.2.1」「iPadOS 27.2.1」も含め、以下の9件のアップデートが公開されている（括弧内はCVE番号が割り振られた脆弱性の件数）。 — 窓の杜 / score: 90 (Apple製品群の一斉セキュリティアップデート)</description>
 </item>
 <item>
-<title>[90] Apple、「iOS 27.2.1」「iPadOS 27.2.1」を公開 ～9件の脆弱性を修正／Bluetooth経由でユーザーの操作なしにペアリングされる問題などに対処</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2154995.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2154995.html</guid>
-<pubDate>Tue, 10 Nov 2026 00:48:26 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Appleは11月9日（現地時間、以下同）、「iOS 27.2.1」および「iPadOS 27.2.1」をリリースした。不具合の修正とセキュリティアップデートが含まれるとのこと。 — 窓の杜 / score: 90 (iOS等の複数脆弱性を修正するセキュリティアプデ)</description>
-</item>
-<item>
 <title>[90] OpenAI、サイバーセキュリティ向けフロンティアモデル「GPT-6 Cyber」を発表 ―脆弱性の自律的な検出・検証・修正に対応、スコープ外への攻撃・逸脱を厳格に防止</title>
 <link>https://gihyo.jp/article/2026/11/gpt-6-cyber?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/11/gpt-6-cyber?utm_source=feed</guid>
@@ -205,6 +197,14 @@
 <pubDate>Tue, 03 Nov 2026 18:00:00 +0000</pubDate>
 <category>Next.js Blog</category>
 <description>The November 2026 security release for Next.js is now available — Next.js Blog / score: 90 (重要フレームワークの緊急セキュリティアップデート)</description>
+</item>
+<item>
+<title>[85] 日本語の脆弱性 DB は 4.6 日かかる。待てないので、46 秒でセキュリティ情報が載るようにした</title>
+<link>https://qiita.com/songchong/items/fa50cc82e49b24925fe3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/songchong/items/fa50cc82e49b24925fe3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Sun, 15 Nov 2026 08:20:40 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>使っている技術の脆弱性を、自分に関係する分だけ、早く知りたい。知ったら、何を、いつまでにすればよいのかも知りたい。脆弱性の情報を追う人の目的は、この 2 つにまとまります。 IT連携マップ編集部は、2026 年 11 月 15 日に、この目的のための IT連携マップのセキ... — Qiita 人気記事 / score: 85 (脆弱性情報の迅速な通知に関する取り組み)</description>
 </item>
 <item>
 <title>[85] Microsoft、「.NET 11」をリリース　C# 15のユニオン型やSDKの高速化など</title>
@@ -439,14 +439,6 @@
 <description>David HuskaSoftware Engineer, Site Reliability Engineer ※この投稿は米国時間 2026 年 10 月 13 日に、Google Cloud blog に投稿されたものの抄訳です。 10 年前、Google は O'Reilly Media から『Site Reliability Engineering: How Google Runs Production Systems』を出版しました。大規模なインフラストラクチャ... — はてなブックマーク テクノロジー / score: 80 (SREの定番書籍第2版の発表という重要ニュース)</description>
 </item>
 <item>
-<title>[80] 【AWS】AWS EmulatorでPRごとのCI（結合テスト）を回す【GitHubActions】</title>
-<link>https://qiita.com/Nana_777/items/6be40f2779bb25e69484?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/Nana_777/items/6be40f2779bb25e69484?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Sat, 14 Nov 2026 07:28:23 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>はじめに 2026年11月11日に、AWS Emulator が公式にリリースされました。AWS SDK や AWS CLI の呼び出しを、AWS アカウントなしで、ローカルや CI 上のエミュレーターに向けられるツールです。公式ドキュメントは、ユースケースのひとつに C... — Qiita 人気記事 / score: 80 (AWS Emulatorを活用したCIでの結合テスト事例)</description>
-</item>
-<item>
 <title>[80] Adaptive Heap Sizing + Numeric Conversion + Primitive Patterns - Inside Java Newscast #117</title>
 <link>https://inside.java/newscast/117/</link>
 <guid isPermaLink="true">https://inside.java/newscast/117/</guid>
@@ -559,6 +551,14 @@
 <description>米Microsoftは11月13日（現地時間）、Windowsの定例外（OOB）のアップデートをリリースした。2026年11月のセキュリティ更新プログラムを適用した一部の企業向けデバイスで、ソフトウェアライセンス管理ツール（SLMGR）を使ったWindowsのライセンス認証の操作がエラー「0x80041008」（Invalid parameter）で失敗することがあったという。 — 窓の杜 / score: 75 (Windowsのライセンス認証失敗に関する緊急の不具合)</description>
 </item>
 <item>
+<title>[75] .NET 11 の ASP.NET Core Blazor の新機能のスケールイン対応機能！</title>
+<link>https://zenn.dev/microsoft/articles/aspnetcore-blazor-dotnet11-scale</link>
+<guid isPermaLink="true">https://zenn.dev/microsoft/articles/aspnetcore-blazor-dotnet11-scale</guid>
+<pubDate>Sun, 15 Nov 2026 07:58:03 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>はじめに 今まで ASP.NET Core Blazor の InteractiveServer のモードでは、サーバー側のメモリに保持される回路（Circuit）をスケールイン時に別のサーバーへ移行できませんでした。そのため柔軟なスケールアウト！スケールイン！するようなシステムにするのをあきらめざるを得ませんでした…。 .NET 11 では、サーバー側からクライアント側に状態を保存させてから再接続をするということが出来るようになったので、スケールインの前にいったんステートをクライアント側に保存させて、別のサーバーに行かせることができます！これでスケールアウト・スケールインするような... — Zenn トレンド / score: 75 (.NET 11のBlazor新機能に関する解説)</description>
+</item>
+<item>
 <title>[75] My docomoで一部手続きは再開されるも、いまだ使えない手続きも　ahamoユーザーにも影響あり</title>
 <link>https://ascii.jp/elem/000/004/451/4451626/?rss</link>
 <guid isPermaLink="true">https://ascii.jp/elem/000/004/451/4451626/?rss</guid>
@@ -605,14 +605,6 @@
 <pubDate>Sat, 14 Nov 2026 04:00:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 75 (CocoaPodsの新規受付停止という大きな変化)</description>
-</item>
-<item>
-<title>[75] AI駆動開発で実装が速くなったら、CI待ちが一番長くなった——品質を落とさずCIを軽くする</title>
-<link>https://qiita.com/ktdatascience/items/b129d5eee1bc9077f085?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/ktdatascience/items/b129d5eee1bc9077f085?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Sat, 14 Nov 2026 01:15:36 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>はじめに AIにコードを書いてもらっていると、大抵1時間以内にアウトプットがあがってきます。 変更を頼んで、出てきたコードを確認して、テストを動かす。 このサイクルが以前より早くなりました。 その一方で、気になってきたのがCIの待ち時間です。修正はできたのに、チェックが終... — Qiita 人気記事 / score: 75 (AI駆動開発におけるCI高速化の実践的課題)</description>
 </item>
 <item>
 <title>[75] Google、高速・高効率なAIモデル「Gemini 4 Hydrogen」を発表</title>
@@ -805,6 +797,14 @@
 <pubDate>Mon, 09 Nov 2026 19:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships. — OpenAI News / score: 75 (AWS MarketplaceでのChatGPT Enterprise提供開始)</description>
+</item>
+<item>
+<title>[75] Control Room: A central system to track and stop model workloads across our research infrastructure</title>
+<link>https://openai.com/index/control-room</link>
+<guid isPermaLink="true">https://openai.com/index/control-room</guid>
+<pubDate>Mon, 09 Nov 2026 13:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise. — OpenAI News / score: 75 (OpenAIインフラにおけるモデル管理と安全対策)</description>
 </item>
 </channel>
 </rss>
