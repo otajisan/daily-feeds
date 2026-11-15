@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sun, 15 Nov 2026 02:08:29 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 04:07:00 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「PostgreSQL」でセキュリティアップデート、「PostgreSQL 14」は最後の更新に／52件の脆弱性と、ここ数カ月に報告された140件を超える不具合が修正</title>
@@ -239,14 +239,6 @@
 <description>The November 2026 security release for Next.js is now available — Next.js Blog / score: 90 (重要フレームワークの緊急セキュリティアップデート)</description>
 </item>
 <item>
-<title>[88] 当社サービスへの不正アクセスに関するご報告</title>
-<link>https://plaid.co.jp/news/20261113/</link>
-<guid isPermaLink="true">https://plaid.co.jp/news/20261113/</guid>
-<pubDate>Fri, 13 Nov 2026 11:27:34 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>現在、当社の提供する「KARTE」に対する第三者からの不正アクセスを検知したため、緊急メンテナンスとしてKARTE全体のサービスを停止しています。 現在、障害解消に向けて調査対応を進めております。新たに公表すべき事実が判明した際には速やかにお知らせいたします。 ■ 対象プロジェクト KARTEをご利用の全てのプロジ... — はてなブックマーク テクノロジー / score: 88 (KARTEへの不正アクセスと緊急サービス停止)</description>
-</item>
-<item>
 <title>[88] Node.js 26.13.1（LTS）がリリース、HTTP/2やTLSなど16件の脆弱性に対処</title>
 <link>https://codezine.jp/article/detail/30340</link>
 <guid isPermaLink="true">https://codezine.jp/article/detail/30340</guid>
@@ -277,14 +269,6 @@
 <pubDate>Sat, 14 Nov 2026 07:41:30 +0000</pubDate>
 <category>Qiita 人気記事</category>
 <description>はじめに 本記事は2026年11月14日時点の情報です。最新の提供条件や料金は、公式ドキュメントを確認してください。 2026年11月11日、AWSがローカルで動かせるエミュレーター「AWS Emulator」を発表しました。エミュレーターとは、本物のサービスの代... — Qiita 人気記事 / score: 85 (新発表されたAWS Emulatorのローカル検証解説)</description>
-</item>
-<item>
-<title>[85] マイクロソフトの障害が全面復旧　メールやAI、ほぼ1日半経て - 日本経済新聞</title>
-<link>https://www.nikkei.com/article/DGXZQOUC141CH0U6A111C2000000/</link>
-<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUC141CH0U6A111C2000000/</guid>
-<pubDate>Sat, 14 Nov 2026 06:07:53 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>米マイクロソフトは14日、業務ソフト「マイクロソフト365」で起きた大規模な障害についてサービスが全面復旧したと発表した。日本時間14日午後2時半すぎに接続状況ページで復旧を報告した。メールソフト「Outlook（アウトルック）」や人工知能（AI）支援機能「Copilot（コパイロット）」などが利用できない影響が出てい... — はてなブックマーク テクノロジー / score: 85 (Microsoft 365の大規模障害と全面復旧)</description>
 </item>
 <item>
 <title>[85] llama.cpp 1.0.0リリース ——API・ABIの非互換変更をメジャーバージョンの更新で明示へ</title>
@@ -471,6 +455,14 @@
 <description>Googleは、Kubernetes上にAIエージェントのための高効率な基盤を構築するためのオープンソースソフトウェア「Agent Substrate」と「gVisor」を、Linux Foundation傘下のCloud Native C... — Publickey / score: 85 (KubernetesとAI基盤のOSS寄贈で影響力大)</description>
 </item>
 <item>
+<title>[85] XCPEマルウェアの解析と国内における観測実態</title>
+<link>https://blog.nicter.jp/2026/11/xcpe_campaign/</link>
+<guid isPermaLink="true">https://blog.nicter.jp/2026/11/xcpe_campaign/</guid>
+<pubDate>Fri, 06 Nov 2026 12:02:26 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>はじめに 2026年11月3日、Googleは、世界で130万台以上のAndroid搭載機器に影響を及ぼしていたXCPEボットネットのテイクダウンを発表しました1。XCPEは、一部のAndroid搭載セットトップボックスなどにプリインストールされているマルウェアで、遠隔からのコマンド実行や情報収集に加え、外部モジュールを導入することで... — はてなブックマーク テクノロジー / score: 85 (大規模マルウェアの解析とテイクダウン)</description>
+</item>
+<item>
 <title>[85] Partnering with Hacktron to find vulnerabilities in OpenAI’s systems</title>
 <link>https://openai.com/index/partnering-with-hacktron</link>
 <guid isPermaLink="true">https://openai.com/index/partnering-with-hacktron</guid>
@@ -559,14 +551,6 @@
 <description>マイクロソフトの包括的なソフトウェアフレームワーク「.NET 8」と「.NET 9」のサポートが昨日（2026年11月10日）終了しました。 .NET 8は今から3年前の2023年11月にリリースされ.NET 9はその1年後の2024年11... — Publickey / score: 80 (サポート終了とセキュリティリスクに関する警告)</description>
 </item>
 <item>
-<title>[80] Mac標準のcurlに残った証明書の穴を修正〜macOS27.2.1で実測</title>
-<link>https://iphone-mania.jp/mac-608540/</link>
-<guid isPermaLink="true">https://iphone-mania.jp/mac-608540/</guid>
-<pubDate>Tue, 10 Nov 2026 10:07:40 +0000</pubDate>
-<category>iPhone Mania</category>
-<description>Appleは日本時間11月10日に配信したmacOS27.2.1で、Mac標準のcurlなどが問題のある証明書を信頼し続けていた不具合を修正しました。更新前と更新後のMacで確認用のサイトに接続すると、更新後はcurl・ […] — iPhone Mania / score: 80 (OS標準ツールにおける証明書の脆弱性修正とアップデート)</description>
-</item>
-<item>
 <title>[80] Gemini Robotics 2.5 accelerates real-world general dexterity</title>
 <link>https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/</link>
 <guid isPermaLink="true">https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/</guid>
@@ -597,6 +581,14 @@
 <pubDate>Tue, 10 Nov 2026 06:34:44 +0000</pubDate>
 <category>Latent Space</category>
 <description>November 9, 2026 — Claude Fable 5.2 and Mythos 5.2 arrive on Anthropic’s IPO roadshow day. How much thinking is worth paying for? — Latent Space / score: 78 (主要LLMの性能逆転とIPO動向)</description>
+</item>
+<item>
+<title>[75] 独プールで15人体調不良　マイクロソフト障害影響 | NEWSjp</title>
+<link>https://news.jp/i/1494496378441958289</link>
+<guid isPermaLink="true">https://news.jp/i/1494496378441958289</guid>
+<pubDate>Sun, 15 Nov 2026 02:57:16 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>【ベルリン共同】ドイツ公共放送WDRは14日、米IT大手マイクロソフトの主力業務ソフトの大規模障害による影響で、西部ブリュールのテーマパーク内にあるプールの利用者15人が体調不良を訴えたと報じた。障害により安全管理システムの警報メールが担当者に届かず、塩素を注入する装置の不具合に気付かず水中塩素濃度が著し... — はてなブックマーク テクノロジー / score: 75 (IT障害が物理的インフラに及ぼした影響)</description>
 </item>
 <item>
 <title>[75] AWS セキュリティサービスでアクセスキーの漏えいリスクを最小限に抑える実践的な手順 | Amazon Web Services</title>
@@ -661,14 +653,6 @@
 <pubDate>Fri, 13 Nov 2026 14:00:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>会議や取材で録音した音声を文字に起こす際には、録音ファイルをアップロードしたり専用の文字起こしソフトを使ったりする方法がありますが、ブラウザだけでリアルタイムに行える無料のツールが「Voxtral Mini 4B Realtime WebGPU」です。日本語を含む13言語に対応し、WebGPUによって音声認識AIを完全ローカルで実行できるとのことなので実際に使ってみました。 続きを読む... — GIGAZINE / score: 75 (WebGPUを活用したブラウザ完結型ローカル音声認識AIの紹介)</description>
-</item>
-<item>
-<title>[75] Googleの新AI「Gemini 4 Hydrogen」。作業スピードが2.5倍に</title>
-<link>https://www.gizmodo.jp/article/2611-gemini-4-hydrogen/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-gemini-4-hydrogen/</guid>
-<pubDate>Fri, 13 Nov 2026 13:45:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>Googleの新AIモデル「Gemini 4 Hydrogen」が登場。従来より2.5倍の速さでタスクを処理し、コード作成や検索機能が向上した新モデルの特徴を解説します。 — ギズモード・ジャパン / score: 75 (Googleの新世代AIモデル発表)</description>
 </item>
 <item>
 <title>[75] 2026年11月のWindows 11セキュリティパッチ、一部デバイスでインストールが完了しない問題／Microsoftが自動で修復中</title>
@@ -805,6 +789,22 @@
 <pubDate>Tue, 10 Nov 2026 16:00:00 +0000</pubDate>
 <category>Gemini (Google Blog)</category>
 <description>Today, we’re making Gemini 4 Carbon available to developers, enterprises, scientists, and consumers. — Gemini (Google Blog) / score: 75 (Gemini 4 Carbonの一般提供開始)</description>
+</item>
+<item>
+<title>[75] OpenAIのdots、複数のローカルPCを接続してタスクに使うPCを選択可能に</title>
+<link>https://gihyo.jp/article/2026/11/openai-dots-multiple-local-computers?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/11/openai-dots-multiple-local-computers?utm_source=feed</guid>
+<pubDate>Tue, 10 Nov 2026 10:50:26 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>OpenAIは2026年11月9日、パーソナルAIエージェントのdotsで、1つのdotに複数のローカルPCを接続し、タスクに使うPCを選べるようになったと、開発者向け公式Xアカウントで案内した。ユーザーがノートPCでコードを書き続ける間、dotは別の作業用PCでアプリをビルドしたり、テストしたりできる。 — gihyo.jp / score: 75 (OpenAIのAIエージェントの新機能と開発者向け拡張)</description>
+</item>
+<item>
+<title>[75] Amazon ElastiCache Serverless now supports vector, full-text and hybrid searches plus aggregations</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-elasticache-serverless-search-aggregations/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-elasticache-serverless-search-aggregations/</guid>
+<pubDate>Tue, 10 Nov 2026 08:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon ElastiCache Serverless for Valkey now supports vector, full-text, and hybrid search, along with aggregations. Applications searching live data often face a hard trade-off between latency and recall, along with delays before updates become searchable. With search on ElastiCache Serverless, applications can search data with latency as low as microseconds at up to 99% recall for vector search, while serving billions of queries per day. Updates are searchable in as little as microseconds, as  — AWS What's New / score: 75 (ElastiCacheのベクトル検索機能追加)</description>
 </item>
 </channel>
 </rss>
