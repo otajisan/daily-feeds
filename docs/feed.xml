@@ -4,8 +4,56 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 16 Nov 2026 14:17:08 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 16:06:58 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>軽量なマイクロVMでネイティブよりアプリを高速起動できる「Hyperlight-Unikraft」登場</title>
+<link>https://www.publickey1.jp/blog/26/vmhyperlight-unikraft.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/vmhyperlight-unikraft.html</guid>
+<pubDate>Mon, 16 Nov 2026 16:06:33 +0000</pubDate>
+<category>Publickey</category>
+<description>Cloud Native Computing Foundationは、Linuxアプリケーションを再コンパイルや再ビルドすることなくそのまま、Unikernelのような軽量かつセキュアな実行環境で仮想マシンによる堅牢な隔離環境で実行できるM... — Publickey / score: 75 (軽量マイクロVMの新技術登場で実用性が高い)</description>
+</item>
+<item>
+<title>2027年発売のiPhoneの20周年モデルは4辺曲面ディスプレイ採用との情報が再び</title>
+<link>https://taisy0.com/2026/11/17/230502.html</link>
+<guid isPermaLink="true">https://taisy0.com/2026/11/17/230502.html</guid>
+<pubDate>Mon, 16 Nov 2026 15:29:52 +0000</pubDate>
+<category>気になる、記になる…</category>
+<description>Appleが2027年に発売する「iPhone Pro」シリーズについてはiPhoneの20周年に合わせた大幅なデザイン変更が計画されていると噂されており、一部では4辺曲面ディスプレイを採用し、丸みを帯びたデザインになる […] — 気になる、記になる… / score: 40 (将来のiPhoneに関するデザインの噂)</description>
+</item>
+<item>
+<title>Node.jsとnpmをWebブラウザ上で実行可能にする「OpenVessel」、神戸ソフトがオープンソースで公開</title>
+<link>https://www.publickey1.jp/blog/26/nodejsnpmwebopenvessel.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/nodejsnpmwebopenvessel.html</guid>
+<pubDate>Mon, 16 Nov 2026 15:23:28 +0000</pubDate>
+<category>Publickey</category>
+<description>神戸ソフトは、Webブラウザ上でNode.jsとパッケージマネージャのnpm、AstroなどのNode.jsに対応したフレームワークなどが実行できる「OpenVessel」をオープンソースで公開しました。 OpenVesselは、Webブラ... — Publickey / score: 60 (ブラウザ上でNode.js実行可能なOSS公開)</description>
+</item>
+<item>
+<title>週刊アスキー No.1622(2026年11月17日発行)</title>
+<link>https://ascii.jp/elem/000/004/451/4451853/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/451/4451853/?rss</guid>
+<pubDate>Mon, 16 Nov 2026 15:00:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>特集1はiPhone Duo。高額、新コンセプト、アップル初。結局どうなの？ 意見をまとめる。新しいコンセプトだけにいい面も悪い面もある機種だ。特集2はゲーミングモニター。PS5やSwitch 2も視野に入れた機種を選ぶ。 — ASCII.jp / score: 20 (雑誌の特集紹介で技術的ニュース度は低い)</description>
+</item>
+<item>
+<title>RTX 5070 Ti搭載PCが7万円オフ　パソコンショップSEVEN、11月17日限定セール</title>
+<link>https://ascii.jp/elem/000/004/451/4451654/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/451/4451654/?rss</guid>
+<pubDate>Mon, 16 Nov 2026 15:00:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>パソコンショップSEVENは、11月17日0時から23時59分まで、全10商品を対象に最大7万円オフの限定セールを実施する。Core Ultra 7 265KFとRTX 5070 Ti搭載の「ZEFT Z55EKB」は税抜499,800円。Ryzen 7 9800X3D搭載モデルも対象となる。 — ASCII.jp / score: 25 (PCパーツ搭載モデルのショップセール情報)</description>
+</item>
+<item>
+<title>Teenage Engineering、今度はCDプレーヤーを作ってるっぽい</title>
+<link>https://www.gizmodo.jp/article/2611-teenage-engineering-cd-player/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-teenage-engineering-cd-player/</guid>
+<pubDate>Mon, 16 Nov 2026 14:15:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>Teenage Engineeringの次期製品と噂されるCDプレーヤーの情報がリーク。ピッチコントロールやジョイスティックを備えたユニークな仕様がテンション上がる！ — ギズモード・ジャパン / score: 35 (ユニークなガジェットのリーク情報)</description>
+</item>
 <item>
 <title>無料で高校1年生(数学IA履修程度)を対象に大規模言語モデル(LLM)・GPTの仕組みを数学とプログラミングの初歩から順番に作って学ぶ教材「microgpt-lesson」、Google Colabで動作</title>
 <link>https://gigazine.net/news/20261116-microgpt-lesson/</link>
@@ -624,36 +672,12 @@
 <description>松屋の牛めしの具10食とオリジナルカレー10食の計20食セットが47％オフで販売されています。1食あたり約239円です。 — ASCII.jp / score: 5 (食品セットのECセール情報)</description>
 </item>
 <item>
-<title>『エーペックスレジェンズ』が1位に返り咲き！12月4日発売の『DQM4』もランクイン【Steamランキング】</title>
-<link>https://ascii.jp/elem/000/004/451/4451787/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/451/4451787/?rss</guid>
-<pubDate>Mon, 16 Nov 2026 09:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>毎週のSteam売り上げランキングを掲載する本コーナー。今回は、11月16日分をお届け！ こちらをチェックして、現在のSteamでの人気ゲームのムーブや、お気に入りのソフトを見つけよう。 — ASCII.jp / score: 10 (ゲームの売上ランキングに関する一般的な話題。)</description>
-</item>
-<item>
-<title>16型タッチ画面に買い切り版Office 2024まで！ HPのノートPCがタイムセールで17万3800円</title>
-<link>https://ascii.jp/elem/000/004/451/4451655/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/451/4451655/?rss</guid>
-<pubDate>Mon, 16 Nov 2026 09:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>HPの16型ノートPC「OmniBook 5 16-bc」がAmazonでタイムセール中。過去価格253,000円から31％オフの173,800円で販売中。買い切り版のMicrosoft Office Home &amp; Business 2024が付属し、16型WUXGAタッチディスプレーを搭載。WordやExcelを追加購入なしで使え、画面を指でも操作できる一台だ。 — ASCII.jp / score: 25 (ノートPCのECセール情報とハードウェア紹介。)</description>
-</item>
-<item>
 <title>見捨てられた家電、DIYで生き返る…はずだった。AIハック遊び、流行った途端にブレーキ</title>
 <link>https://www.gizmodo.jp/article/ai-reverse-engineer-anything-crackdown/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/ai-reverse-engineer-anything-crackdown/</guid>
 <pubDate>Mon, 16 Nov 2026 09:00:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>AIを活用して家電をハックし広告を消すDIYブームの光と影を解説します。AI企業による解析ブロックやメーカーの対応、法律や倫理の課題まで、機器の「リバースエンジニアリング」をめぐる現状をお伝えします。 — ギズモード・ジャパン / score: 60 (AIによる家電ハックと法的・技術的課題の解説。)</description>
-</item>
-<item>
-<title>理研のスパコン「富岳」に不正アクセス 稼働停止して状況確認 | NHKニュース</title>
-<link>https://news.web.nhk/newsweb/na/nd-20261116de76603</link>
-<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261116de76603</guid>
-<pubDate>Mon, 16 Nov 2026 08:52:40 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>理化学研究所のスーパーコンピューター「富岳」が外部から不正アクセスを受けたことがわかり、理化学研究所は富岳の稼働を停止し、情報流出などの被害がないか詳しい状況を確認しています。 理化学研究所や文部… — はてなブックマーク テクノロジー / score: 88 (スパコン富岳への不正アクセスと稼働停止)</description>
 </item>
 <item>
 <title>ChatGPTのチャット内でクレカ決済できる「ChatGPT Wallet」が登場</title>
@@ -782,30 +806,6 @@
 <pubDate>Mon, 16 Nov 2026 08:00:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>2026年11月10日(火)、アサヒ飲料のブドウジュースブランド「Welch’s(ウェルチ)」に、期間限定のスパークリングドリンク「Welch’sスパークリングロゼ」が登場しました。フルーティーな香りと心地よい微炭酸が特徴というジュースが気になったので、どんな味になっているのか飲んで確かめてみました。 続きを読む... — GIGAZINE / score: 5 (飲料の新商品試飲レビュー記事)</description>
-</item>
-<item>
-<title>November 16, 2026</title>
-<link>https://docs.cloud.google.com/release-notes#November_16_2026</link>
-<guid isPermaLink="true">https://docs.cloud.google.com/release-notes#November_16_2026</guid>
-<pubDate>Mon, 16 Nov 2026 08:00:00 +0000</pubDate>
-<category>Google Cloud リリースノート</category>
-<description>Google Cloud Armor Feature Cloud Armor supports Autonomous System Numbers (ASNs), Network Threat Intelligence (NTI), and HTTP filtering in globally scoped edge security policies for Cloud CDN edge cache services in Preview. — Google Cloud リリースノート / score: 70 (Google CloudのCloud SQL関連のアップデート)</description>
-</item>
-<item>
-<title>「気絶買い」を繰り返した編集部員、 夢のホームシアターを手に入れる</title>
-<link>https://www.gizmodo.jp/article/expand-sonos-27-products-to-build-a-home-theater/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/expand-sonos-27-products-to-build-a-home-theater/</guid>
-<pubDate>Mon, 16 Nov 2026 08:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>ガジェット好きなら一度は経験があるはず。深夜、ベッドの中で欲しいものを物色しているうちに意識が途切れ、翌朝には注文が完了している。いわゆる「気絶買い」というやつです。ギズモード編集部員・内藤の身に起きたのも、まさにそんな無意識の衝動が生んだ… — ギズモード・ジャパン / score: 30 (ホームシアター製品のレビューと体験談)</description>
-</item>
-<item>
-<title>工場建設ゲーム「Factorio」の中に2000台近くのスピーカーを並べてMP3プレイヤーを実装</title>
-<link>https://gigazine.net/news/20261116-mp3-player-on-factorio/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261116-mp3-player-on-factorio/</guid>
-<pubDate>Mon, 16 Nov 2026 07:55:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>植民星に工場を建設して作業を自動化するシミュレーションゲーム「Factorio」では、ゲーム内の回路ネットワークを使ってさまざまな装置を制御できます。そんなFactorioで約2000台のプログラマブルスピーカーを組み合わせ、MODを使わずに音楽や歌声などの音声ファイルを再現するシステム「FactoTune」が開発されました。 続きを読む... — GIGAZINE / score: 45 (Factorio内で音声再現システムの実装)</description>
 </item>
 </channel>
 </rss>
