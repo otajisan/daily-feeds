@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 16 Nov 2026 18:07:56 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 20:06:23 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「PostgreSQL」でセキュリティアップデート、「PostgreSQL 14」は最後の更新に／52件の脆弱性と、ここ数カ月に報告された140件を超える不具合が修正</title>
@@ -261,14 +261,6 @@
 <pubDate>Mon, 16 Nov 2026 05:05:16 +0000</pubDate>
 <category>Yahoo!ニュース IT</category>
 <description> — Yahoo!ニュース IT / score: 85 (富岳への不正アクセスのニュース報道)</description>
-</item>
-<item>
-<title>[85] スパコン「富岳」に不正アクセス　理研が明らかに</title>
-<link>https://www.itmedia.co.jp/news/article/2611/16/2000003224/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/16/2000003224/</guid>
-<pubDate>Mon, 16 Nov 2026 04:49:20 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>理化学研究所は11月16日、スーパーコンピュータ「富岳」に関するシステムが不正アクセスを受けたと、ITmedia NEWSの取材に対し明らかにした。 Xでは15日から、関連システムのアカウントを持つユーザーに、富岳が不正アクセスを受けたとの通知が届いたとする投稿が、メール文面と共に出回っていた。理研は取材に対し、メ... — はてなブックマーク テクノロジー / score: 85 (富岳スパコンへの不正アクセス被害の発生)</description>
 </item>
 <item>
 <title>[85] Microsoft 365のシステム障害によりホテル宿泊客15人が塩素ガス中毒に見舞われる</title>
@@ -634,7 +626,7 @@
 <title>[75] 軽量なマイクロVMでネイティブよりアプリを高速起動できる「Hyperlight-Unikraft」登場</title>
 <link>https://www.publickey1.jp/blog/26/vmhyperlight-unikraft.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/vmhyperlight-unikraft.html</guid>
-<pubDate>Mon, 16 Nov 2026 18:07:34 +0000</pubDate>
+<pubDate>Mon, 16 Nov 2026 18:30:31 +0000</pubDate>
 <category>Publickey</category>
 <description>Cloud Native Computing Foundationは、Linuxアプリケーションを再コンパイルや再ビルドすることなくそのまま、Unikernelのような軽量かつセキュアな実行環境で仮想マシンによる堅牢な隔離環境で実行できるM... — Publickey / score: 75 (軽量マイクロVMの新技術登場で実用性が高い)</description>
 </item>
@@ -671,6 +663,14 @@
 <description>カーシェアリングサービス「タイムズカー」の看板＝千葉県浦安市（KYODONEWS） 貸駐車場大手のパーク24は16日、カーシェアリングサービス「タイムズカー」の10月末時点の会員数が前月比0.3％減の421万2千人だったと発表した。9月末時点から1万4千人減った。パーク24によると、9月下旬に公表した不正アクセスによる運転... — はてなブックマーク テクノロジー / score: 75 (セキュリティインシデントによる会員数減)</description>
 </item>
 <item>
+<title>[75] AWS Backup adds logically air-gapped vault support for Amazon RDS</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/aws-backup-air-gapped-vault-rds/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/aws-backup-air-gapped-vault-rds/</guid>
+<pubDate>Mon, 16 Nov 2026 08:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS Backup logically air-gapped vault now supports Amazon Relational Database Service (Amazon RDS) DB instances. Logically air-gapped vaults are a type of AWS Backup vault that stores immutable, isolated backups, which are locked by default with AWS Backup Vault Lock in compliance mode. Secure sharing across accounts and AWS Organizations enables direct restore, reducing recovery time from a data loss event. You can now protect your Amazon RDS DB instances in logically air-gapped vaults. A logic — AWS What's New / score: 75 (RDS向け論理エアギャップバックアップの追加。)</description>
+</item>
+<item>
 <title>[75] Personal Agent Protocol 1.0公開、ShopifyやMetaのMuseが対応</title>
 <link>https://gihyo.jp/article/2026/11/personal-agent-protocol?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/11/personal-agent-protocol?utm_source=feed</guid>
@@ -685,6 +685,22 @@
 <pubDate>Mon, 16 Nov 2026 04:27:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>中国の大手テクノロジー企業であるAlibabaがAIモデル「Qwen4-Max」を2026年11月16日に正式リリースしました。 続きを読む... — GIGAZINE / score: 75 (Alibabaによる新しい大規模AIモデルの公開)</description>
+</item>
+<item>
+<title>[75] GitHub IssueにArtifactとしてHTMLとMarkdownを添付できるようになった</title>
+<link>https://zenn.dev/kesin11/articles/20261114_github_issue_artifact</link>
+<guid isPermaLink="true">https://zenn.dev/kesin11/articles/20261114_github_issue_artifact</guid>
+<pubDate>Mon, 16 Nov 2026 03:56:27 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>今年もGitHub Universeが開催され、多くの新機能が発表されました！ 一方、派手な発表の影に隠れてあまり目立っていませんが、普段使いしているIssueにも「Issue Artifact」という機能がPublic Previewとして追加されています。Issueに対してHTMLやMarkdownをArtifactとして添付し、Issue画面上の専用パネルでそのまま表... — はてなブックマーク テクノロジー / score: 75 (GitHub Issueの新機能追加と解説)</description>
+</item>
+<item>
+<title>[75] サイバー攻撃 AI「自律化」が脅威</title>
+<link>https://news.yahoo.co.jp/pickup/6602770?source=rss</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6602770?source=rss</guid>
+<pubDate>Mon, 16 Nov 2026 03:07:35 +0000</pubDate>
+<category>Yahoo!ニュース IT</category>
+<description> — Yahoo!ニュース IT / score: 75 (サイバー攻撃のAI自律化という重要なセキュリティ脅威)</description>
 </item>
 <item>
 <title>[75] 【速報】Google「Gemini 4 Hydrogen」登場！Argon・Carbonとの比較で読み解く Gemini 4 シリーズまとめ</title>
@@ -703,12 +719,12 @@
 <description> — CodeZine / score: 75 (GitHubのシークレットスキャン機能強化によるセキュリティ向上)</description>
 </item>
 <item>
-<title>[75] GitHub IssueにArtifactとしてHTMLとMarkdownを添付できるようになった</title>
-<link>https://zenn.dev/kesin11/articles/20261114_github_issue_artifact</link>
-<guid isPermaLink="true">https://zenn.dev/kesin11/articles/20261114_github_issue_artifact</guid>
-<pubDate>Sun, 15 Nov 2026 23:00:07 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>今年もGitHub Universeが開催され、多くの新機能が発表されました！ 一方、派手な発表の影に隠れてあまり目立っていませんが、普段使いしているIssueにも「Issue Artifact」という機能がPublic Previewとして追加されています。Issueに対してHTMLやMarkdownをArtifactとして添付し、Issue画面上の専用パネルでそのまま表示できる機能です。 https://github.blog/changelog/2026-10-28-issue-artifacts-are-now-in-public-preview/ 最近はコーディング前の設計やコ... — Zenn トレンド / score: 75 (GitHub Issueの新機能追加と解説)</description>
+<title>[75] Claude Platform release notes — November 16, 2026</title>
+<link>https://platform.claude.com/docs/en/release-notes/overview#text-watermark-claude-opus-4-6-and-4-5-models</link>
+<guid isPermaLink="true">https://platform.claude.com/docs/en/release-notes/overview#text-watermark-claude-opus-4-6-and-4-5-models</guid>
+<pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+<category>Claude リリースノート</category>
+<description>Text generated by Claude Opus 4.6, Claude Opus 4.5, Claude Sonnet 4.5, and Claude Haiku 4.5 carries Anthropic’s text watermark on supported platforms. How Claude marks AI-generated content lists those platforms. If a request to one of these models sets temperature , top_p , or top_k to a non-default value, the text might not carry the watermark. See Text watermark . — Claude リリースノート / score: 75 (Claudeプラットフォームのマネージドエージェント更新)</description>
 </item>
 <item>
 <title>[75] A step toward defining the Standard Model on a lattice</title>
@@ -789,22 +805,6 @@
 <pubDate>Thu, 12 Nov 2026 10:30:27 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>GoogleのA2UIチームは2026年11月11日、AIエージェントがフォームやグラフなどの対話型UIを返すためのオープンプロトコル「A2UI」の初の安定版となるバージョン1.0を公開した。利用者の依頼に応じてエージェントがUIの構成や表示内容を記述し、アプリがその記述を基に画面内に描画できる。 — gihyo.jp / score: 75 (GoogleによるAIエージェント向けUIプロトコルの公開)</description>
-</item>
-<item>
-<title>[75] 無料の3D CG統合環境「Blender」v5.3が公開 ～レンダリング機能が多数強化／プロジェクトシステムを導入、ガウシアンスプラッティング正式対応など</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2155842.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2155842.html</guid>
-<pubDate>Thu, 12 Nov 2026 08:52:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>蘭Blender Foundationは11月10日（現地時間）、「Blender 5.3」を公開した。本バージョンでは新しく、プロジェクト毎のファイル管理を容易にするプロジェクトシステムが導入されたほか、ガウシアンスプラッティング対応や分光、Vulkanバックエンドのデフォルト化といった、レンダリング関連の機能の強化が目立った。 — 窓の杜 / score: 75 (Blender 5.3のメジャーアップデート)</description>
-</item>
-<item>
-<title>[75] Modern Web Guidance 1.0公開、エージェントによるフロントエンドの改修を支援</title>
-<link>https://gihyo.jp/article/2026/11/modern-web-guidance-1.0?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/11/modern-web-guidance-1.0?utm_source=feed</guid>
-<pubDate>Thu, 12 Nov 2026 05:55:27 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>GoogleのChromeチームは2026年11月10日、コーディングエージェントにWeb開発の知識やブラウザーの互換性情報を提供するOSSプロジェクト「Modern Web Guidance」の安定版1.0の公開を発表した。1.0では、既存コードから改修候補を探すワークフローを追加した。 — gihyo.jp / score: 75 (エージェント開発を支援するGoogleのModern Web Guidance 1.0公開)</description>
 </item>
 </channel>
 </rss>
