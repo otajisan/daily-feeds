@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 16 Nov 2026 20:06:23 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 22:05:48 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「PostgreSQL」でセキュリティアップデート、「PostgreSQL 14」は最後の更新に／52件の脆弱性と、ここ数カ月に報告された140件を超える不具合が修正</title>
@@ -215,6 +215,14 @@
 <description>The November 2026 security release for Next.js is now available — Next.js Blog / score: 90 (重要フレームワークの緊急セキュリティアップデート)</description>
 </item>
 <item>
+<title>[85] 定番テキストエディター「Notepad++」v8.9.9が公開、6件の脆弱性を修正／</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2156786.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2156786.html</guid>
+<pubDate>Mon, 16 Nov 2026 21:45:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>Windows向けの定番テキストエディター「Notepad++」が11月6日、v8.9.9へ更新された。以下の6件の脆弱性を修正したセキュリティアップデートとなっている（括弧内は「GitHub」のセキュリティアドバイザリで示されている深刻度）。 — 窓の杜 / score: 85 (Notepad++の複数脆弱性を修正する重要アプデ)</description>
+</item>
+<item>
 <title>[85] GTIG AI Threat Tracker: Agentic Threat Activity Crosses a Significant Threshold</title>
 <link>https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold/</link>
 <guid isPermaLink="true">https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold/</guid>
@@ -239,20 +247,12 @@
 <description>ほぼ丸1日続いた「Microsoft 365」「Outlook」障害の原因は？ Microsoftが暫定報告／7月から潜んでいた不具合に当日の状況が絡み合い、連鎖的なダウンを招く — はてなブックマーク テクノロジー / score: 85 (Microsoft 365大規模障害の暫定原因報告)</description>
 </item>
 <item>
-<title>[85] iPhoneのメッセージアプリ、グループ会話が知らない人に読まれていたかも。Appleが修正</title>
-<link>https://www.gizmodo.jp/article/iphone-imessage-group-chat-vulnerability-fix/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/iphone-imessage-group-chat-vulnerability-fix/</guid>
-<pubDate>Mon, 16 Nov 2026 07:35:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>Appleが公開したiOSの最新アップデートで、iMessageのグループチャットに関する2件の脆弱性が修正されました。知らない人に会話を読まれるおそれがあるため、早めのアップデートを確認しましょう。 — ギズモード・ジャパン / score: 85 (iOSメッセージアプリの脆弱性修正に関する情報)</description>
-</item>
-<item>
 <title>[85] 当社サービス「Cacoo」における不正アクセスの発生について（第一報） | お知らせ | 株式会社ヌーラボ(Nulab inc.)</title>
 <link>https://nulab.com/ja/info/20261116_cacoo_01/</link>
 <guid isPermaLink="true">https://nulab.com/ja/info/20261116_cacoo_01/</guid>
 <pubDate>Mon, 16 Nov 2026 05:45:42 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>株式会社ヌーラボ（以下、当社）は、2026年11月14日、当社が提供するオンラインホワイトボードツール「Cacoo」の運用環境および当社が管理するお問い合わせ記録の一部に対し、第三者による不正アクセスが行われたことを確認いたしました。 お客様、株主・投資家の皆様をはじめ、関係者の皆様に多大なるご迷惑とご心配を... — はてなブックマーク テクノロジー / score: 85 (クラウドサービスにおける重大な不正アクセス発生)</description>
+<description>【2026年11月16日 16:00追記】 影響を受けたお客様への個別のご連絡を、順次進めております。 また、個人情報保護委員会への報告を完了いたしました。 株式会社ヌーラボ（以下、当社）は、2026年11月14日、当社が提供するオンラインホワイトボードツール「Cacoo」の運用環境および当社が管理するお問い合わせ記録の一部... — はてなブックマーク テクノロジー / score: 85 (クラウドサービスにおける重大な不正アクセス発生)</description>
 </item>
 <item>
 <title>[85] 富岳に不正アクセス 理研が明かす</title>
@@ -300,7 +300,7 @@
 <guid isPermaLink="true">https://qiita.com/songchong/items/fa50cc82e49b24925fe3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
 <pubDate>Sun, 15 Nov 2026 08:20:40 +0000</pubDate>
 <category>Qiita 人気記事</category>
-<description>使っている技術の脆弱性を、自分に関係する分だけ、早く知りたい。知ったら、何を、いつまでにすればよいのかも知りたい。脆弱性の情報を追う人の目的は、この 2 つにまとまります。 IT連携マップ編集部は、2026 年 11 月 15 日に、この目的のための IT連携マップのセキ... — Qiita 人気記事 / score: 85 (脆弱性情報の迅速な通知に関する取り組み)</description>
+<description>1. なぜ今、脆弱性への対応を急ぐのか？ 今は、日本語の情報が出るのを待ってから動くと間に合わない時代です。図は、その理由を 3 つ並べたものです。 1 つ目は、攻撃者が AI を使い、会社の大きさを問わず狙っていることです。内閣官房国家サイバー統括室は、2026 年 ... — Qiita 人気記事 / score: 85 (脆弱性情報の迅速な通知に関する取り組み)</description>
 </item>
 <item>
 <title>[85] Microsoft、「.NET 11」をリリース　C# 15のユニオン型やSDKの高速化など</title>
@@ -623,6 +623,14 @@
 <description>November 9, 2026 — Claude Fable 5.2 and Mythos 5.2 arrive on Anthropic’s IPO roadshow day. How much thinking is worth paying for? — Latent Space / score: 78 (主要LLMの性能逆転とIPO動向)</description>
 </item>
 <item>
+<title>[75] Amazon Redshift now supports multi-statement transactions, conflict resolution, and time travel for Apache Iceberg</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/redshift-time-travel-multi-statement</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/redshift-time-travel-multi-statement</guid>
+<pubDate>Mon, 16 Nov 2026 20:30:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon Redshift now supports multi-statement transactions, automatic write-conflict resolution, and time travel for Apache Iceberg tables. You can run multi-step, concurrent transformation pipelines directly on Iceberg tables and audit the results, with the transaction semantics you expect from a data warehouse. This helps anyone writing to Iceberg tables at production scale. Batch jobs get all-or-nothing commits across multiple steps. Streaming and scheduled jobs can write to the same tables at — AWS What's New / score: 75 (RedshiftのApache Iceberg機能拡張)</description>
+</item>
+<item>
 <title>[75] 軽量なマイクロVMでネイティブよりアプリを高速起動できる「Hyperlight-Unikraft」登場</title>
 <link>https://www.publickey1.jp/blog/26/vmhyperlight-unikraft.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/vmhyperlight-unikraft.html</guid>
@@ -797,14 +805,6 @@
 <pubDate>Thu, 12 Nov 2026 15:13:43 +0000</pubDate>
 <category>Publickey</category>
 <description>Googleが提供するAIエージェントによる開発環境「Antigravity」に、新機能「リモートエージェント」が搭載されました。 We want Antigravity to be working for you all the time... — Publickey / score: 75 (AIエージェントの常時稼働機能の登場)</description>
-</item>
-<item>
-<title>[75] Google、AIエージェント向けUIプロトコル「A2UI」バージョン1.0を公開</title>
-<link>https://gihyo.jp/article/2026/11/a2ui-1.0?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/11/a2ui-1.0?utm_source=feed</guid>
-<pubDate>Thu, 12 Nov 2026 10:30:27 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>GoogleのA2UIチームは2026年11月11日、AIエージェントがフォームやグラフなどの対話型UIを返すためのオープンプロトコル「A2UI」の初の安定版となるバージョン1.0を公開した。利用者の依頼に応じてエージェントがUIの構成や表示内容を記述し、アプリがその記述を基に画面内に描画できる。 — gihyo.jp / score: 75 (GoogleによるAIエージェント向けUIプロトコルの公開)</description>
 </item>
 </channel>
 </rss>
