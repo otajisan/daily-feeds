@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 16 Nov 2026 06:15:18 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 08:19:53 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「PostgreSQL」でセキュリティアップデート、「PostgreSQL 14」は最後の更新に／52件の脆弱性と、ここ数カ月に報告された140件を超える不具合が修正</title>
@@ -45,6 +45,14 @@
 <pubDate>Mon, 16 Nov 2026 03:38:18 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Google、Microsoft、AWS、Cloudflareは2026年10月末から11月13日にかけて、AIエージェントを使う侵入テストツールARTEXなどの悪用を相次いで報告した。攻撃者は、認証情報の探索や侵入先の調査に加え、侵入先から別のシステムへ攻撃を広げる際にもエージェントを利用している。 — gihyo.jp / score: 90 (主要IT企業によるAI侵入ツールの悪用報告)</description>
+</item>
+<item>
+<title>[90] EC管理システムの「GoQSystem」に不正アクセス、1694社・約498万件の注文情報が漏えい</title>
+<link>https://internet.watch.impress.co.jp/docs/news/2156617.html</link>
+<guid isPermaLink="true">https://internet.watch.impress.co.jp/docs/news/2156617.html</guid>
+<pubDate>Mon, 16 Nov 2026 02:48:05 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>EC管理システムの「GoQSystem」に不正アクセス、1694社・約498万件の注文情報が漏えい — はてなブックマーク テクノロジー / score: 90 (大規模な不正アクセスと情報漏洩の深刻な事件)</description>
 </item>
 <item>
 <title>[90] エンジニア転職のpaiza、最大90万件の個人情報漏えいのおそれ　退職者などアクセス可能な状態、約13年続く</title>
@@ -223,20 +231,28 @@
 <description>The November 2026 security release for Next.js is now available — Next.js Blog / score: 90 (重要フレームワークの緊急セキュリティアップデート)</description>
 </item>
 <item>
+<title>[85] iPhoneのメッセージアプリ、グループ会話が知らない人に読まれていたかも。Appleが修正</title>
+<link>https://www.gizmodo.jp/article/iphone-imessage-group-chat-vulnerability-fix/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/iphone-imessage-group-chat-vulnerability-fix/</guid>
+<pubDate>Mon, 16 Nov 2026 07:35:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>Appleが公開したiOSの最新アップデートで、iMessageのグループチャットに関する2件の脆弱性が修正されました。知らない人に会話を読まれるおそれがあるため、早めのアップデートを確認しましょう。 — ギズモード・ジャパン / score: 85 (iOSメッセージアプリの脆弱性修正に関する情報)</description>
+</item>
+<item>
+<title>[85] ほぼ丸1日続いた「Microsoft 365」「Outlook」障害の原因は？　Microsoftが暫定報告／7月から潜んでいた不具合に当日の状況が絡み合い、連鎖的なダウンを招く</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2156753.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2156753.html</guid>
+<pubDate>Mon, 16 Nov 2026 07:30:57 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Microsoftは日本時間11月16日、先週発生した「Microsoft 365」「Exchange Online」の大規模障害について、暫定版のインシデント事後レポート（Preliminary Post Incident Report：PIR）を公開した。「Microsoft 365 管理センター」の「サービス正常性」から、インシデントID「MO1550821」「EX1550543」で閲覧できる。 — 窓の杜 / score: 85 (Microsoft 365大規模障害の暫定原因報告)</description>
+</item>
+<item>
 <title>[85] 富岳に不正アクセス 理研が明かす</title>
 <link>https://news.yahoo.co.jp/pickup/6602790?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6602790?source=rss</guid>
 <pubDate>Mon, 16 Nov 2026 05:05:16 +0000</pubDate>
 <category>Yahoo!ニュース IT</category>
 <description> — Yahoo!ニュース IT / score: 85 (富岳への不正アクセスのニュース報道)</description>
-</item>
-<item>
-<title>[85] 最先端スパコン「富岳」に不正アクセス　企業の機密情報流出に懸念 - 日本経済新聞</title>
-<link>https://www.nikkei.com/article/DGXZQOSG162TT0W6A111C2000000/</link>
-<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOSG162TT0W6A111C2000000/</guid>
-<pubDate>Mon, 16 Nov 2026 04:53:20 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>理化学研究所が運用する日本で最先端スーパーコンピューター「富岳」の運用システムが外部から不正なアクセスを受けたことが16日、分かった。富岳は自動車や製薬、素材など企業の製品開発にも利用されている。企業の機密情報の流出につながりかねない。所管する文部科学省に報告した。富岳は1300億円をかけて整備された... — はてなブックマーク テクノロジー / score: 85 (富岳不正アクセスによる機密流出の懸念)</description>
 </item>
 <item>
 <title>[85] スパコン「富岳」に不正アクセス　理研が明らかに</title>
@@ -309,14 +325,6 @@
 <pubDate>Sat, 14 Nov 2026 08:31:02 +0000</pubDate>
 <category>Latent Space</category>
 <description>Congrats to both llama.ccp and ggml for reaching 1.0 (declaring stability and removing 35 deprecated functions from llama.cpp’s public header) and with SGLang also announcing 1.0 at the recent SGLang Summit . However, today’s title story goes to the No AI Slop manifesto , which arose out of the conference discussions at AIE CODE and which Dex introduced in the closing keynote after cosignatures by many of the speakers at the conference. It seems Hacker News also liked it , voting it up to the fr — Latent Space / score: 85 (llama.cpp等の主要OSSのメジャーリリース)</description>
-</item>
-<item>
-<title>[85] AWS Emulatorが一般提供されたので、ローカルでS3バケットを作成してみた</title>
-<link>https://qiita.com/moyomoyomoyo/items/522ba880ff37971aa969?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/moyomoyomoyo/items/522ba880ff37971aa969?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Sat, 14 Nov 2026 07:41:30 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>はじめに 本記事は2026年11月14日時点の情報です。最新の提供条件や料金は、公式ドキュメントを確認してください。 2026年11月11日、AWSがローカルで動かせるエミュレーター「AWS Emulator」を発表しました。エミュレーターとは、本物のサービスの代... — Qiita 人気記事 / score: 85 (新発表されたAWS Emulatorのローカル検証解説)</description>
 </item>
 <item>
 <title>[85] llama.cpp 1.0.0リリース ——API・ABIの非互換変更をメジャーバージョンの更新で明示へ</title>
@@ -503,6 +511,14 @@
 <description>Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope. — OpenAI News / score: 85 (サイバーセキュリティ特化型AIモデルの発表)</description>
 </item>
 <item>
+<title>[80] ドコモ「5G SA」で障害 完全復旧</title>
+<link>https://news.yahoo.co.jp/pickup/6602807?source=rss</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6602807?source=rss</guid>
+<pubDate>Mon, 16 Nov 2026 08:04:49 +0000</pubDate>
+<category>Yahoo!ニュース IT</category>
+<description> — Yahoo!ニュース IT / score: 80 (ドコモの5G SA通信障害と完全復旧)</description>
+</item>
+<item>
 <title>[80] ついに「Rust 1.100」リリース、約10年越しの新機能が正式採用されパッケージの安全対策も強化</title>
 <link>https://gigazine.net/news/20261116-rust-1-100/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261116-rust-1-100/</guid>
@@ -637,6 +653,14 @@
 <pubDate>Mon, 16 Nov 2026 02:14:55 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>日本の学生たちで構成されるAI開発企業のhigurashiがリアルタイム音声会話AI「Haru-4B」を公開しました。日本語での自然なやり取りが可能です。 Haru-4B: 低遅延・多言語の全二重連続音声対話基盤モデル | higurashi Tech Blog https://blog.higurashi.ai/melte/haru4b-ja/ Haru-4Bはユーザーの声を聞きながら話せる「fu... — はてなブックマーク テクノロジー / score: 75 (日本語対応リアルタイム音声AIのオープン公開)</description>
+</item>
+<item>
+<title>[75] 【速報】Google「Gemini 4 Hydrogen」登場！Argon・Carbonとの比較で読み解く Gemini 4 シリーズまとめ</title>
+<link>https://qiita.com/tomokoro/items/41cc59d0085fa03c5d52?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/tomokoro/items/41cc59d0085fa03c5d52?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Mon, 16 Nov 2026 01:31:54 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>1. はじめに 2026年11月12日、Google DeepMindよりGemini 4ファミリーの最新モデル「Gemini 4 Hydrogen」が発表されました。 Gemini 4 シリーズは、2026年10月1日の「Gemini 4 Argon」発表（10月13日... — Qiita 人気記事 / score: 75 (Googleの新しいGeminiモデル発表速報)</description>
 </item>
 <item>
 <title>[75] GitHubのシークレットスキャン、Cloudflareのサービストークンを検出可能に</title>
@@ -781,30 +805,6 @@
 <pubDate>Wed, 11 Nov 2026 18:00:00 +0000</pubDate>
 <category>Google AI Blog</category>
 <description>Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions. — Google AI Blog / score: 75 (Googleの新しいGemini Decisions APIの発表)</description>
-</item>
-<item>
-<title>[75] AlphaGenome 2: Deciphering how cells read DNA to better understand disease</title>
-<link>https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/</link>
-<guid isPermaLink="true">https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/</guid>
-<pubDate>Wed, 11 Nov 2026 15:00:15 +0000</pubDate>
-<category>Google DeepMind</category>
-<description>Predicting how DNA sequences and their variations impact specific human cell types and disease. — Google DeepMind / score: 75 (DeepMindによるDNA解析AIモデルの高度な研究発表)</description>
-</item>
-<item>
-<title>[75] OpenAI、事業者がChatGPTに商品情報などを提供できる「Businesses in ChatGPT」をベータ公開 ——米国の対象事業者には、質問に答えるBusiness Agentも提供</title>
-<link>https://gihyo.jp/article/2026/11/openai-businesses-in-chatgpt?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/11/openai-businesses-in-chatgpt?utm_source=feed</guid>
-<pubDate>Wed, 11 Nov 2026 11:17:30 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>OpenAIは2026年11月10日、事業者向けのBusinesses in ChatGPTのベータ提供を開始した。事業者は、プロフィールの管理権限の申請と本人確認が承認されると、紹介文や商品情報などをChatGPTに提供し、ChatGPT内のWebサイトへのリンクのクリック数などを確認できる。 — gihyo.jp / score: 75 (OpenAIの新機能ベータ公開とビジネスへの影響)</description>
-</item>
-<item>
-<title>[75] Anthropic、Claude Sheets・Whiteboardsをベータ提供、Claude Dataは一般提供へ ——インタラクティブコネクターも更新、対応アプリをチャットの横や全画面で操作可能に</title>
-<link>https://gihyo.jp/article/2026/11/claude-whiteboards-and-sheets-and-data-and-interactive-connectors?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/11/claude-whiteboards-and-sheets-and-data-and-interactive-connectors?utm_source=feed</guid>
-<pubDate>Wed, 11 Nov 2026 08:26:07 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Anthropicは2026年11月10日、Claude内で利用者やチームがAIと共同編集できる表計算機能「Claude Sheets」とホワイトボード機能「Claude Whiteboards」のベータ提供を開始した。データ分析機能のClaude Dashboardsも「Claude Data」に改称し、一般提供へ移行した。 — gihyo.jp / score: 75 (Anthropicの主要サービス拡張と新機能ベータ提供)</description>
 </item>
 </channel>
 </rss>
