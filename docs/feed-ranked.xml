@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sun, 15 Nov 2026 22:06:17 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 00:18:54 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「PostgreSQL」でセキュリティアップデート、「PostgreSQL 14」は最後の更新に／52件の脆弱性と、ここ数カ月に報告された140件を超える不具合が修正</title>
@@ -199,6 +199,22 @@
 <description>The November 2026 security release for Next.js is now available — Next.js Blog / score: 90 (重要フレームワークの緊急セキュリティアップデート)</description>
 </item>
 <item>
+<title>[85] datasette 0.65.6</title>
+<link>https://simonwillison.net/2026/Nov/15/datasette-2/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Nov/15/datasette-2/</guid>
+<pubDate>Sun, 15 Nov 2026 23:18:17 +0000</pubDate>
+<category>Simon Willison</category>
+<description>Release: datasette 0.65.6 I backported a minor security fix from 1.0a43: Fixed a security issue where a database registered using add_database(db, name=..., route=...) with a route that differs from its name could be downloaded from /&lt;route&gt;.db by actors who were denied access to it. [...] Tags: security , datasette — Simon Willison / score: 85 (Datasetteのセキュリティ修正を含むアップデート)</description>
+</item>
+<item>
+<title>[85] Microsoft 365障害はなぜ長引いたのか？　原因・タイムラインと「SLAクレジット」請求方法まとめ</title>
+<link>https://www.itmedia.co.jp/pcuser/articles/2611/16/news045.html</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/pcuser/articles/2611/16/news045.html</guid>
+<pubDate>Sun, 15 Nov 2026 21:12:32 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Microsoft 365障害はなぜ長引いたのか？ 原因・タイムラインと「SLAクレジット」請求方法まとめ：Windowsフロントライン（1/3 ページ） メールの到着遅延といった細かい事象は丸1日以上続いたものの、大枠でのダウンタイムは平均して半日程度とみられる。 特に日本では始業時から終業時まで、メールやMicrosoft 365の各... — はてなブックマーク テクノロジー / score: 85 (大手クラウドの大規模障害の原因解説とSLA請求情報)</description>
+</item>
+<item>
 <title>[85] 日本語の脆弱性 DB は 4.6 日かかる。待てないので、46 秒でセキュリティ情報が載るようにした</title>
 <link>https://qiita.com/songchong/items/fa50cc82e49b24925fe3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
 <guid isPermaLink="true">https://qiita.com/songchong/items/fa50cc82e49b24925fe3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
@@ -237,22 +253,6 @@
 <pubDate>Sat, 14 Nov 2026 03:09:14 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>llama.cppの開発チームは2026年11月13日、初のメジャー版となる1.0.0をリリースした。llama.cppは、大規模言語モデル（LLM）の推論を実行するC/C++製ライブラリで、計算を支えるテンソルライブラリggmlも同時に1.0.0となった。 — gihyo.jp / score: 85 (llama.cpp初のメジャーバージョンリリース)</description>
-</item>
-<item>
-<title>[85] 【解説】 米マイクロソフトの大規模障害、テクノロジー依存を痛感する事態に - BBCニュース</title>
-<link>https://www.bbc.com/japanese/articles/cmy5xy6yvn95o</link>
-<guid isPermaLink="true">https://www.bbc.com/japanese/articles/cmy5xy6yvn95o</guid>
-<pubDate>Sat, 14 Nov 2026 02:40:37 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>米マイクロソフト（MS）の一部サービスで22時間以上にわたり続いた大規模障害は、日常生活に不可欠なサービスが、少数の大手テクノロジー企業にどれほど依存しているかを浮き彫りにし、疑問を投げかける出来事となった。 大規模障害は、メールサービス「Outlook」など、「マイクロソフト365」が提供する各種サービスに影... — はてなブックマーク テクノロジー / score: 85 (マイクロソフトの大規模障害に関する解説)</description>
-</item>
-<item>
-<title>[85] マネックス証券 免許証画像流出か</title>
-<link>https://news.yahoo.co.jp/pickup/6602486?source=rss</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6602486?source=rss</guid>
-<pubDate>Fri, 13 Nov 2026 22:28:18 +0000</pubDate>
-<category>Yahoo!ニュース IT</category>
-<description> — Yahoo!ニュース IT / score: 85 (マネックス証券における免許証画像の流出可能性事案)</description>
 </item>
 <item>
 <title>[85] llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem</title>
@@ -447,14 +447,6 @@
 <description>ZGC gets adaptive heap sizing, value classes complicate numeric conversions, and primitive patterns are withdrawn as JDK 28 takes shape. — Inside Java / score: 80 (JDK 28に向けたJVMの重要なアップデート解説)</description>
 </item>
 <item>
-<title>[80] マイクロソフト 大規模障害を謝罪</title>
-<link>https://news.yahoo.co.jp/pickup/6602508?source=rss</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6602508?source=rss</guid>
-<pubDate>Fri, 13 Nov 2026 23:55:42 +0000</pubDate>
-<category>Yahoo!ニュース IT</category>
-<description> — Yahoo!ニュース IT / score: 80 (マイクロソフトの大規模障害に関する謝罪報道)</description>
-</item>
-<item>
 <title>[80] Introducing ChatGPT Wallet</title>
 <link>https://openai.com/index/introducing-chatgpt-wallet</link>
 <guid isPermaLink="true">https://openai.com/index/introducing-chatgpt-wallet</guid>
@@ -575,28 +567,12 @@
 <description>アメリカのSpaceX（スペースX）社は日本時間2026年11月15日、開発中の再使用型ロケット「Starship（スターシップ）」による第15回飛行試験で、初となるStarship宇宙船の発射台帰還を成功させました。前日の打ち上げから約22時間半にわたる飛行を終えた宇宙船のキャッチ（空中回収）成功は、全段の再使用を目指すStarship... — はてなブックマーク テクノロジー / score: 75 (スペースXのスターシップ回収成功)</description>
 </item>
 <item>
-<title>[75] 独プールで15人体調不良　マイクロソフト障害影響 | NEWSjp</title>
-<link>https://news.jp/i/1494496378441958289</link>
-<guid isPermaLink="true">https://news.jp/i/1494496378441958289</guid>
-<pubDate>Sun, 15 Nov 2026 02:57:16 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>【ベルリン共同】ドイツ公共放送WDRは14日、米IT大手マイクロソフトの主力業務ソフトの大規模障害による影響で、西部ブリュールのテーマパーク内にあるプールの利用者15人が体調不良を訴えたと報じた。障害により安全管理システムの警報メールが担当者に届かず、塩素を注入する装置の不具合に気付かず水中塩素濃度が著し... — はてなブックマーク テクノロジー / score: 75 (IT障害が物理的インフラに及ぼした影響)</description>
-</item>
-<item>
 <title>[75] AI悪用攻撃拠点か 世界で千台発見</title>
 <link>https://news.yahoo.co.jp/pickup/6602602?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6602602?source=rss</guid>
 <pubDate>Sat, 14 Nov 2026 13:45:44 +0000</pubDate>
 <category>Yahoo!ニュース IT</category>
 <description> — Yahoo!ニュース IT / score: 75 (AIを悪用した攻撃拠点の発見に関するセキュリティニュース)</description>
-</item>
-<item>
-<title>[75] エヌビディアのフアンCEOが辞任。カリスマを失った巨大企業の行く末は？</title>
-<link>https://www.gizmodo.jp/article/2611-nvidia-ceo-jensen-huang-resignation/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-nvidia-ceo-jensen-huang-resignation/</guid>
-<pubDate>Sat, 14 Nov 2026 13:30:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>エヌビディアのジェンスン・フアンCEOの辞任と財務担当コレット・クレス氏の暫定就任について解説します。カリスマ経営者を失った巨大企業とAI事業の今後を探ります。 — ギズモード・ジャパン / score: 75 (NVIDIAのジェンスン・フアンCEO辞任ニュース)</description>
 </item>
 <item>
 <title>[75] CocoaPods、12月2日に新規podの受け付けを停止</title>
@@ -805,6 +781,30 @@
 <pubDate>Mon, 09 Nov 2026 13:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise. — OpenAI News / score: 75 (OpenAIインフラにおけるモデル管理と安全対策)</description>
+</item>
+<item>
+<title>[75] Amazon EKS Auto Mode and Karpenter now support Dynamic Resource Allocation</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eks-auto-mode-karpenter-dra/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eks-auto-mode-karpenter-dra/</guid>
+<pubDate>Mon, 09 Nov 2026 06:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon Elastic Kubernetes Service (Amazon EKS) now supports Dynamic Resource Allocation (DRA) for NVIDIA GPUs and Elastic Fabric Adapter (EFA) network devices when using Amazon EKS Auto Mode and Karpenter. You can now define the device attributes your Kubernetes workloads need with DRA, share GPU devices across Pods, and allocate topology-aligned GPU and EFA devices while Amazon EKS Auto Mode and Karpenter dynamically scale Amazon EC2 instances based on workload demand. With DRA, you define Reso — AWS What's New / score: 75 (EKS Auto Modeの動的リソース割り当て対応)</description>
+</item>
+<item>
+<title>[75] [AINews] Inkling 2 Small: 17A-594B trained in 68 hours on 12T tokens, beating Muse Spark</title>
+<link>https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark/</link>
+<guid isPermaLink="true">https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark/</guid>
+<pubDate>Fri, 06 Nov 2026 10:35:21 +0000</pubDate>
+<category>Latent Space</category>
+<description>November 5, 2026 — Inside Inkling 2 Small’s training run and METR’s study of AI research at Anthropic. — Latent Space / score: 75 (AIモデルのトレーニング詳細に関する速報)</description>
+</item>
+<item>
+<title>[75] Thinking Machines、AIモデルInkling 2 Smallを発表 ——重みも公開予定</title>
+<link>https://gihyo.jp/article/2026/11/inkling-2-small?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/11/inkling-2-small?utm_source=feed</guid>
+<pubDate>Fri, 06 Nov 2026 09:13:44 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Thinking Machinesは2026年11月5日、AIモデルInkling 2 Smallを発表した。同日から、同社のAPIサービスTinkerを通じて、Inkling 2 Smallによる推論や、用途にあわせた追加学習（ファインチューニング）を行える。 — gihyo.jp / score: 75 (新しいAIモデルの発表と重み公開のニュース)</description>
 </item>
 </channel>
 </rss>
