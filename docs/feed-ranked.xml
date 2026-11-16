@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 16 Nov 2026 10:07:19 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 12:13:02 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「PostgreSQL」でセキュリティアップデート、「PostgreSQL 14」は最後の更新に／52件の脆弱性と、ここ数カ月に報告された140件を超える不具合が修正</title>
@@ -45,14 +45,6 @@
 <pubDate>Mon, 16 Nov 2026 03:38:18 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Google、Microsoft、AWS、Cloudflareは2026年10月末から11月13日にかけて、AIエージェントを使う侵入テストツールARTEXなどの悪用を相次いで報告した。攻撃者は、認証情報の探索や侵入先の調査に加え、侵入先から別のシステムへ攻撃を広げる際にもエージェントを利用している。 — gihyo.jp / score: 90 (主要IT企業によるAI侵入ツールの悪用報告)</description>
-</item>
-<item>
-<title>[90] エンジニア転職のpaiza、最大90万件の個人情報漏えいのおそれ　退職者などアクセス可能な状態、約13年続く</title>
-<link>https://www.itmedia.co.jp/news/article/2611/16/2000003215/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/16/2000003215/</guid>
-<pubDate>Mon, 16 Nov 2026 01:43:21 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>ITエンジニア向け転職・就職・学習プラットフォームを手掛けるpaizaは11月13日、開発用ステージング環境に保存されていた個人情報最大90万2576件について、以前アクセス権限を持っていた退職者などの第三者がアクセスし得る状態が約13年間続いていたと発表した。 ログイン時の認証用パスワードを固定文字列で運用し、ベ... — はてなブックマーク テクノロジー / score: 90 (paizaで最大90万件の長期個人情報流出)</description>
 </item>
 <item>
 <title>[90] 「Ryzen」「Radeon」などに脆弱性、AMDが2026年11月のセキュリティ情報を公開／RAID管理ソフトにも問題、BIOSの更新はPCメーカーから</title>
@@ -215,6 +207,14 @@
 <description>The November 2026 security release for Next.js is now available — Next.js Blog / score: 90 (重要フレームワークの緊急セキュリティアップデート)</description>
 </item>
 <item>
+<title>[88] 理研のスパコン「富岳」に不正アクセス 稼働停止して状況確認 | NHKニュース</title>
+<link>https://news.web.nhk/newsweb/na/nd-20261116de76603</link>
+<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261116de76603</guid>
+<pubDate>Mon, 16 Nov 2026 08:52:40 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>理化学研究所のスーパーコンピューター「富岳」が外部から不正アクセスを受けたことがわかり、理化学研究所は富岳の稼働を停止し、情報流出などの被害がないか詳しい状況を確認しています。 理化学研究所や文部… — はてなブックマーク テクノロジー / score: 88 (スパコン富岳への不正アクセスと稼働停止)</description>
+</item>
+<item>
 <title>[85] 誕生から約3年半、ローカルAIの推論エンジン「llama.cpp」がv1.0.0に／テンソルライブラリ「ggml」も同時にメジャーアップデート、今後はセマンティックバージョニングを採用</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2156759.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2156759.html</guid>
@@ -223,20 +223,28 @@
 <description>大規模言語モデル（LLM）の推論エンジン「llama.cpp」が11月13日、v1.0.0へとアップデートされた。機械学習向けのテンソルライブラリ「ggml」も、同日付けでv1.0.0がリリースされている。 — 窓の杜 / score: 85 (llama.cppとggmlのv1.0.0メジャーリリース)</description>
 </item>
 <item>
+<title>[85] ほぼ丸1日続いた「Microsoft 365」「Outlook」障害の原因は？　Microsoftが暫定報告／7月から潜んでいた不具合に当日の状況が絡み合い、連鎖的なダウンを招く</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2156753.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2156753.html</guid>
+<pubDate>Mon, 16 Nov 2026 08:21:28 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>ほぼ丸1日続いた「Microsoft 365」「Outlook」障害の原因は？ Microsoftが暫定報告／7月から潜んでいた不具合に当日の状況が絡み合い、連鎖的なダウンを招く — はてなブックマーク テクノロジー / score: 85 (Microsoft 365大規模障害の暫定原因報告)</description>
+</item>
+<item>
+<title>[85] 日清食品、LINE登録者情報137万件漏洩　委託先に不正アクセス - 日本経済新聞</title>
+<link>https://www.nikkei.com/article/DGXZQOUC1651Z0W6A111C2000000/</link>
+<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUC1651Z0W6A111C2000000/</guid>
+<pubDate>Mon, 16 Nov 2026 08:15:02 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>日清食品は16日、キャンペーン情報を配信する対話アプリ「LINE」のアカウントの登録者情報が漏洩したと発表した。対象は計137万4157件。LINEでの情報配信業務を委託する企業が第三者による不正アクセスを受けた。日清食品の公式LINEを「友だち」登録している利用者のユーザーIDや表示名が漏洩した。9月9日午後1時56分ご... — はてなブックマーク テクノロジー / score: 85 (LINE関連の大規模な個人情報漏洩事故)</description>
+</item>
+<item>
 <title>[85] iPhoneのメッセージアプリ、グループ会話が知らない人に読まれていたかも。Appleが修正</title>
 <link>https://www.gizmodo.jp/article/iphone-imessage-group-chat-vulnerability-fix/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/iphone-imessage-group-chat-vulnerability-fix/</guid>
 <pubDate>Mon, 16 Nov 2026 07:35:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>Appleが公開したiOSの最新アップデートで、iMessageのグループチャットに関する2件の脆弱性が修正されました。知らない人に会話を読まれるおそれがあるため、早めのアップデートを確認しましょう。 — ギズモード・ジャパン / score: 85 (iOSメッセージアプリの脆弱性修正に関する情報)</description>
-</item>
-<item>
-<title>[85] ほぼ丸1日続いた「Microsoft 365」「Outlook」障害の原因は？　Microsoftが暫定報告／7月から潜んでいた不具合に当日の状況が絡み合い、連鎖的なダウンを招く</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2156753.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2156753.html</guid>
-<pubDate>Mon, 16 Nov 2026 07:30:57 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Microsoftは日本時間11月16日、先週発生した「Microsoft 365」「Exchange Online」の大規模障害について、暫定版のインシデント事後レポート（Preliminary Post Incident Report：PIR）を公開した。「Microsoft 365 管理センター」の「サービス正常性」から、インシデントID「MO1550821」「EX1550543」で閲覧できる。 — 窓の杜 / score: 85 (Microsoft 365大規模障害の暫定原因報告)</description>
 </item>
 <item>
 <title>[85] 富岳に不正アクセス 理研が明かす</title>
@@ -285,14 +293,6 @@
 <pubDate>Sun, 15 Nov 2026 23:18:17 +0000</pubDate>
 <category>Simon Willison</category>
 <description>Release: datasette 0.65.6 I backported a minor security fix from 1.0a43: Fixed a security issue where a database registered using add_database(db, name=..., route=...) with a route that differs from its name could be downloaded from /&lt;route&gt;.db by actors who were denied access to it. [...] Tags: security , datasette — Simon Willison / score: 85 (Datasetteのセキュリティ修正を含むアップデート)</description>
-</item>
-<item>
-<title>[85] Microsoft 365障害はなぜ長引いたのか？　原因・タイムラインと「SLAクレジット」請求方法まとめ</title>
-<link>https://www.itmedia.co.jp/pcuser/articles/2611/16/news045.html</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/pcuser/articles/2611/16/news045.html</guid>
-<pubDate>Sun, 15 Nov 2026 21:12:32 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Microsoft 365障害はなぜ長引いたのか？ 原因・タイムラインと「SLAクレジット」請求方法まとめ：Windowsフロントライン（1/3 ページ） メールの到着遅延といった細かい事象は丸1日以上続いたものの、大枠でのダウンタイムは平均して半日程度とみられる。 特に日本では始業時から終業時まで、メールやMicrosoft 365の各... — はてなブックマーク テクノロジー / score: 85 (大手クラウドの大規模障害の原因解説とSLA請求情報)</description>
 </item>
 <item>
 <title>[85] 日本語の脆弱性 DB は 4.6 日かかる。待てないので、46 秒でセキュリティ情報が載るようにした</title>
@@ -495,6 +495,14 @@
 <description>Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope. — OpenAI News / score: 85 (サイバーセキュリティ特化型AIモデルの発表)</description>
 </item>
 <item>
+<title>[82] Why It Takes 3000 Commits to Bring Valhalla’s Value Objects to the JDK</title>
+<link>https://inside.java/2026/11/16/devoxxbelgium-valhalla-value-objects/</link>
+<guid isPermaLink="true">https://inside.java/2026/11/16/devoxxbelgium-valhalla-value-objects/</guid>
+<pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+<category>Inside Java</category>
+<description>JEP 401 (Value Objects) arrives in OpenJDK as a preview feature, enabling a new Java type model with minimal code changes. The talk explains what value objects are, JVM benefits, Valhalla history, implementation details, and the path toward bridging objects and primitives, including future support like List&lt;int&gt;. — Inside Java / score: 82 (Java Valhallaプロジェクトの解説と進化)</description>
+</item>
+<item>
 <title>[80] Cloudflare、AIエージェント向け軽量ブラウザ「Kitesurf」をオープンソースとして公開</title>
 <link>https://gihyo.jp/article/2026/11/cloudflare-kitesurf?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/11/cloudflare-kitesurf?utm_source=feed</guid>
@@ -615,6 +623,14 @@
 <description>How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible. — OpenAI News / score: 80 (OpenAIによる大規模Git基盤のスケーリング技術)</description>
 </item>
 <item>
+<title>[78] 「Qwen4-Max」正式リリース。小規模モデルのオープンウェイト化予告も</title>
+<link>https://pc.watch.impress.co.jp/docs/news/2156687.html</link>
+<guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2156687.html</guid>
+<pubDate>Mon, 16 Nov 2026 04:55:32 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>「Qwen4-Max」正式リリース。小規模モデルのオープンウェイト化予告も — はてなブックマーク テクノロジー / score: 78 (AIモデルの正式リリースと新展開の予告)</description>
+</item>
+<item>
 <title>[78] [AINews] Fable 5.2 retakes World #1 LLM spot as $ANT IPO roadshow begins</title>
 <link>https://latent.space/p/ainews-fable-5-2-retakes-world-1-llm-spot-as-ant-ipo-roadshow-begins/</link>
 <guid isPermaLink="true">https://latent.space/p/ainews-fable-5-2-retakes-world-1-llm-spot-as-ant-ipo-roadshow-begins/</guid>
@@ -623,12 +639,20 @@
 <description>November 9, 2026 — Claude Fable 5.2 and Mythos 5.2 arrive on Anthropic’s IPO roadshow day. How much thinking is worth paying for? — Latent Space / score: 78 (主要LLMの性能逆転とIPO動向)</description>
 </item>
 <item>
-<title>[75] ドコモ5G SA、今月3回目の通信障害は約6時間継続　根本的な対策が望まれる</title>
-<link>https://ascii.jp/elem/000/004/451/4451940/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/451/4451940/?rss</guid>
-<pubDate>Mon, 16 Nov 2026 08:25:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>NTTドコモは、16日（月）10時2分から発生していた、5G SAでの通信障害について、15時58分に完全復旧したと発表した。ドコモの5G SAにおける通信障害は、11月5日の約14時間、11月11日の約9時間に続く、3週連続。 — ASCII.jp / score: 75 (大手通信キャリアの大規模通信障害とインフラ問題。)</description>
+<title>[75] ノルウェー「新しいデータセンターに回す電気はねえ！」国の全力を越えてます</title>
+<link>https://www.gizmodo.jp/article/2611-norway-datacenters-power-shortage/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-norway-datacenters-power-shortage/</guid>
+<pubDate>Mon, 16 Nov 2026 11:30:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>ノルウェーの送電事業者がデータセンター向けの新規接続予約を一時停止。電力需要が国の限界を超える規模になりつつあります。 — ギズモード・ジャパン / score: 75 (電力不足によるデータセンター規制)</description>
+</item>
+<item>
+<title>[75] タイムズカー会員1万人減　免許画像の流出が影響、10月末（共同通信） - Yahoo!ニュース</title>
+<link>https://news.yahoo.co.jp/articles/d64fdb4cf9415c9dfec64845ae1402f94ee1eef3</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/articles/d64fdb4cf9415c9dfec64845ae1402f94ee1eef3</guid>
+<pubDate>Mon, 16 Nov 2026 09:31:58 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>カーシェアリングサービス「タイムズカー」の看板＝千葉県浦安市（KYODONEWS） 貸駐車場大手のパーク24は16日、カーシェアリングサービス「タイムズカー」の10月末時点の会員数が前月比0.3％減の421万2千人だったと発表した。9月末時点から1万4千人減った。パーク24によると、9月下旬に公表した不正アクセスによる運転... — はてなブックマーク テクノロジー / score: 75 (セキュリティインシデントによる会員数減)</description>
 </item>
 <item>
 <title>[75] Personal Agent Protocol 1.0公開、ShopifyやMetaのMuseが対応</title>
@@ -658,9 +682,9 @@
 <title>[75] 日本語でリアルタイム会話可能なAI「Haru-4B」がオープンモデルとして公開される、電話で話せるデモもあり</title>
 <link>https://gigazine.net/news/20261116-haru-4b-conversation-ai/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261116-haru-4b-conversation-ai/</guid>
-<pubDate>Mon, 16 Nov 2026 02:14:55 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>日本の学生たちで構成されるAI開発企業のhigurashiがリアルタイム音声会話AI「Haru-4B」を公開しました。日本語での自然なやり取りが可能です。 Haru-4B: 低遅延・多言語の全二重連続音声対話基盤モデル | higurashi Tech Blog https://blog.higurashi.ai/melte/haru4b-ja/ Haru-4Bはユーザーの声を聞きながら話せる「fu... — はてなブックマーク テクノロジー / score: 75 (日本語対応リアルタイム音声AIのオープン公開)</description>
+<pubDate>Mon, 16 Nov 2026 02:11:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>日本の学生たちで構成されるAI開発企業のhigurashiがリアルタイム音声会話AI「Haru-4B」を公開しました。日本語での自然なやり取りが可能です。 続きを読む... — GIGAZINE / score: 75 (日本語対応リアルタイム音声AIのオープン公開)</description>
 </item>
 <item>
 <title>[75] 【速報】Google「Gemini 4 Hydrogen」登場！Argon・Carbonとの比較で読み解く Gemini 4 シリーズまとめ</title>
@@ -781,30 +805,6 @@
 <pubDate>Thu, 12 Nov 2026 05:55:27 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>GoogleのChromeチームは2026年11月10日、コーディングエージェントにWeb開発の知識やブラウザーの互換性情報を提供するOSSプロジェクト「Modern Web Guidance」の安定版1.0の公開を発表した。1.0では、既存コードから改修候補を探すワークフローを追加した。 — gihyo.jp / score: 75 (エージェント開発を支援するGoogleのModern Web Guidance 1.0公開)</description>
-</item>
-<item>
-<title>[75] Claude Platform release notes — November 12, 2026</title>
-<link>https://platform.claude.com/docs/en/release-notes/overview#self-hosted-managed-agents</link>
-<guid isPermaLink="true">https://platform.claude.com/docs/en/release-notes/overview#self-hosted-managed-agents</guid>
-<pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-<category>Claude リリースノート</category>
-<description>We’ve launched self-hosted Claude Managed Agents . You run the whole Managed Agents service, not only self-hosted sandboxes , on your own infrastructure, and you store agents, sessions, and session history there. The server sends model requests to the provider that you choose, which is Anthropic by default. To request access, contact your Anthropic account team. — Claude リリースノート / score: 75 (Claudeプラットフォームのマネージドエージェント更新)</description>
-</item>
-<item>
-<title>[75] Gemini Decisions API</title>
-<link>https://simonwillison.net/2026/Nov/11/gemini-decisions-api/</link>
-<guid isPermaLink="true">https://simonwillison.net/2026/Nov/11/gemini-decisions-api/</guid>
-<pubDate>Wed, 11 Nov 2026 22:03:25 +0000</pubDate>
-<category>Simon Willison</category>
-<description>Gemini Decisions API Google join Jev and OpenAI in the decision model category with "Gemini Decision 1". This new model API is almost identical to Jev: it supports the same three types of questions (yes/no, choice, and rubric-scoring) and even reuses Jev's term "Noul" for a yes/no question. It's priced the same as the GPT-6 Luna decision model: 10 cents per million input tokens, and output is free. Jev remains the cheapest of the three, at 4.2 cents per million. Jev is text (and JSON) only. Open — Simon Willison / score: 75 (主要AIの意思決定モデルAPI追加のため)</description>
-</item>
-<item>
-<title>[75] Gemini Decisions API: Fast, calibrated multimodal decisions</title>
-<link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/</link>
-<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/</guid>
-<pubDate>Wed, 11 Nov 2026 18:00:00 +0000</pubDate>
-<category>Google AI Blog</category>
-<description>Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions. — Google AI Blog / score: 75 (Googleの新しいGemini Decisions APIの発表)</description>
 </item>
 </channel>
 </rss>
