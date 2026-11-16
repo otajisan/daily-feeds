@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 16 Nov 2026 00:18:54 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 02:09:55 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「PostgreSQL」でセキュリティアップデート、「PostgreSQL 14」は最後の更新に／52件の脆弱性と、ここ数カ月に報告された140件を超える不具合が修正</title>
@@ -29,6 +29,14 @@
 <pubDate>Thu, 05 Nov 2026 06:53:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>OpenAIは2026年11月4日、開発中のサイバーセキュリティ向けAIモデルを活用し、Linuxカーネルの脆弱性をエージェントが自律的に発見し検証した結果を発表した。 — gihyo.jp / score: 95 (AIによるLinuxカーネルの脆弱性大量発見と実証の画期的なニュース)</description>
+</item>
+<item>
+<title>[90] 「Ryzen」「Radeon」などに脆弱性、AMDが2026年11月のセキュリティ情報を公開／RAID管理ソフトにも問題、BIOSの更新はPCメーカーから</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2156556.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2156556.html</guid>
+<pubDate>Mon, 16 Nov 2026 01:33:08 +0000</pubDate>
+<category>窓の杜</category>
+<description>米AMDは11月10日（現地時間）、多数のセキュリティアドバイザリを公開した。このうち、一般のユーザーに関係しそうなものは以下の通り。重複を除くと、CVE番号ベースで62件の脆弱性が明らかにされている。 — 窓の杜 / score: 90 (AMD製品群における多数の脆弱性修正とセキュリティ情報)</description>
 </item>
 <item>
 <title>[90] 今週中に対応すべき脆弱性 6 つ。Outlook・Chrome・Edge・VPN 機器は悪用あり、iPhone・Mac・SonicWall は今週が期限（11/16〜11/22）</title>
@@ -197,6 +205,22 @@
 <pubDate>Tue, 03 Nov 2026 18:00:00 +0000</pubDate>
 <category>Next.js Blog</category>
 <description>The November 2026 security release for Next.js is now available — Next.js Blog / score: 90 (重要フレームワークの緊急セキュリティアップデート)</description>
+</item>
+<item>
+<title>[85] NTTドコモ 全国で通信障害発生</title>
+<link>https://news.yahoo.co.jp/pickup/6602764?source=rss</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6602764?source=rss</guid>
+<pubDate>Mon, 16 Nov 2026 02:06:35 +0000</pubDate>
+<category>Yahoo!ニュース IT</category>
+<description> — Yahoo!ニュース IT / score: 85 (大手キャリアにおける大規模な通信障害の発生)</description>
+</item>
+<item>
+<title>[85] スノーピーク、個人情報流出か　銀行口座情報も対象</title>
+<link>https://ascii.jp/elem/000/004/451/4451661/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/451/4451661/?rss</guid>
+<pubDate>Mon, 16 Nov 2026 01:05:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>アウトドア用品を手がけるスノーピークは11月13日、リユース買取サービス、イベント予約システム、コミュニティアプリで不正アクセスによる個人情報の流出が発生したと発表した。 — ASCII.jp / score: 85 (アウトドアブランドでの大規模な個人情報流出事故。)</description>
 </item>
 <item>
 <title>[85] datasette 0.65.6</title>
@@ -431,14 +455,6 @@
 <description>Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope. — OpenAI News / score: 85 (サイバーセキュリティ特化型AIモデルの発表)</description>
 </item>
 <item>
-<title>[80] SRE ブックの 10 年間:『Site Reliability Engineering』第 2 版のご紹介 | Google Cloud 公式ブログ</title>
-<link>https://cloud.google.com/blog/ja/products/devops-sre/sre-book-second-edition/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/ja/products/devops-sre/sre-book-second-edition/</guid>
-<pubDate>Sun, 15 Nov 2026 01:43:12 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>David HuskaSoftware Engineer, Site Reliability Engineer ※この投稿は米国時間 2026 年 10 月 13 日に、Google Cloud blog に投稿されたものの抄訳です。 10 年前、Google は O'Reilly Media から『Site Reliability Engineering: How Google Runs Production Systems』を出版しました。大規模なインフラストラクチャ... — はてなブックマーク テクノロジー / score: 80 (SREの定番書籍第2版の発表という重要ニュース)</description>
-</item>
-<item>
 <title>[80] Adaptive Heap Sizing + Numeric Conversion + Primitive Patterns - Inside Java Newscast #117</title>
 <link>https://inside.java/newscast/117/</link>
 <guid isPermaLink="true">https://inside.java/newscast/117/</guid>
@@ -527,6 +543,22 @@
 <description>November 9, 2026 — Claude Fable 5.2 and Mythos 5.2 arrive on Anthropic’s IPO roadshow day. How much thinking is worth paying for? — Latent Space / score: 78 (主要LLMの性能逆転とIPO動向)</description>
 </item>
 <item>
+<title>[75] GitHubのシークレットスキャン、Cloudflareのサービストークンを検出可能に</title>
+<link>https://codezine.jp/article/detail/30364</link>
+<guid isPermaLink="true">https://codezine.jp/article/detail/30364</guid>
+<pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+<category>CodeZine</category>
+<description> — CodeZine / score: 75 (GitHubのシークレットスキャン機能強化によるセキュリティ向上)</description>
+</item>
+<item>
+<title>[75] A step toward defining the Standard Model on a lattice</title>
+<link>https://openai.com/index/step-toward-defining-the-standard-model</link>
+<guid isPermaLink="true">https://openai.com/index/step-toward-defining-the-standard-model</guid>
+<pubDate>Sun, 15 Nov 2026 22:00:01 +0000</pubDate>
+<category>OpenAI News</category>
+<description>Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof. — OpenAI News / score: 75 (物理学の格子上の標準模型定義に関するOpenAIの先進的取り組み)</description>
+</item>
+<item>
 <title>[75] PostgreSQL 19リリース延期の背景。β4で多くの新機能取り下げが発生、原因はAIによるコードレビューか</title>
 <link>https://www.publickey1.jp/blog/26/postgresql_194ai.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/postgresql_194ai.html</guid>
@@ -549,22 +581,6 @@
 <pubDate>Sun, 15 Nov 2026 07:58:03 +0000</pubDate>
 <category>Zenn トレンド</category>
 <description>はじめに 今まで ASP.NET Core Blazor の InteractiveServer のモードでは、サーバー側のメモリに保持される回路（Circuit）をスケールイン時に別のサーバーへ移行できませんでした。そのため柔軟なスケールアウト！スケールイン！するようなシステムにするのをあきらめざるを得ませんでした…。 .NET 11 では、サーバー側からクライアント側に状態を保存させてから再接続をするということが出来るようになったので、スケールインの前にいったんステートをクライアント側に保存させて、別のサーバーに行かせることができます！これでスケールアウト・スケールインするような... — Zenn トレンド / score: 75 (.NET 11のBlazor新機能に関する解説)</description>
-</item>
-<item>
-<title>[75] My docomoで一部手続きは再開されるも、いまだ使えない手続きも　ahamoユーザーにも影響あり</title>
-<link>https://ascii.jp/elem/000/004/451/4451626/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/451/4451626/?rss</guid>
-<pubDate>Sun, 15 Nov 2026 06:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>My docomoが不正アクセスにともない緊急メンテナンスに入ったが、安全性が確認された一部の手続きは再開。しかし、記事執筆時点でいまだ使えない手続きも存在している。 — ASCII.jp / score: 75 (キャリアの不正アクセスとサービス停止の障害)</description>
-</item>
-<item>
-<title>[75] 【速報】スペースXの「スターシップ」が発射台に初帰還！　第15回飛行試験でキャッチ成功</title>
-<link>https://sorae.info/space/20261115-starship-15.html</link>
-<guid isPermaLink="true">https://sorae.info/space/20261115-starship-15.html</guid>
-<pubDate>Sun, 15 Nov 2026 05:42:37 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>アメリカのSpaceX（スペースX）社は日本時間2026年11月15日、開発中の再使用型ロケット「Starship（スターシップ）」による第15回飛行試験で、初となるStarship宇宙船の発射台帰還を成功させました。前日の打ち上げから約22時間半にわたる飛行を終えた宇宙船のキャッチ（空中回収）成功は、全段の再使用を目指すStarship... — はてなブックマーク テクノロジー / score: 75 (スペースXのスターシップ回収成功)</description>
 </item>
 <item>
 <title>[75] AI悪用攻撃拠点か 世界で千台発見</title>
@@ -789,22 +805,6 @@
 <pubDate>Mon, 09 Nov 2026 06:00:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Amazon Elastic Kubernetes Service (Amazon EKS) now supports Dynamic Resource Allocation (DRA) for NVIDIA GPUs and Elastic Fabric Adapter (EFA) network devices when using Amazon EKS Auto Mode and Karpenter. You can now define the device attributes your Kubernetes workloads need with DRA, share GPU devices across Pods, and allocate topology-aligned GPU and EFA devices while Amazon EKS Auto Mode and Karpenter dynamically scale Amazon EC2 instances based on workload demand. With DRA, you define Reso — AWS What's New / score: 75 (EKS Auto Modeの動的リソース割り当て対応)</description>
-</item>
-<item>
-<title>[75] [AINews] Inkling 2 Small: 17A-594B trained in 68 hours on 12T tokens, beating Muse Spark</title>
-<link>https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark/</link>
-<guid isPermaLink="true">https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark/</guid>
-<pubDate>Fri, 06 Nov 2026 10:35:21 +0000</pubDate>
-<category>Latent Space</category>
-<description>November 5, 2026 — Inside Inkling 2 Small’s training run and METR’s study of AI research at Anthropic. — Latent Space / score: 75 (AIモデルのトレーニング詳細に関する速報)</description>
-</item>
-<item>
-<title>[75] Thinking Machines、AIモデルInkling 2 Smallを発表 ——重みも公開予定</title>
-<link>https://gihyo.jp/article/2026/11/inkling-2-small?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/11/inkling-2-small?utm_source=feed</guid>
-<pubDate>Fri, 06 Nov 2026 09:13:44 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Thinking Machinesは2026年11月5日、AIモデルInkling 2 Smallを発表した。同日から、同社のAPIサービスTinkerを通じて、Inkling 2 Smallによる推論や、用途にあわせた追加学習（ファインチューニング）を行える。 — gihyo.jp / score: 75 (新しいAIモデルの発表と重み公開のニュース)</description>
 </item>
 </channel>
 </rss>
