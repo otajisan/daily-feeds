@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 16 Nov 2026 08:19:53 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 10:07:19 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「PostgreSQL」でセキュリティアップデート、「PostgreSQL 14」は最後の更新に／52件の脆弱性と、ここ数カ月に報告された140件を超える不具合が修正</title>
@@ -45,14 +45,6 @@
 <pubDate>Mon, 16 Nov 2026 03:38:18 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Google、Microsoft、AWS、Cloudflareは2026年10月末から11月13日にかけて、AIエージェントを使う侵入テストツールARTEXなどの悪用を相次いで報告した。攻撃者は、認証情報の探索や侵入先の調査に加え、侵入先から別のシステムへ攻撃を広げる際にもエージェントを利用している。 — gihyo.jp / score: 90 (主要IT企業によるAI侵入ツールの悪用報告)</description>
-</item>
-<item>
-<title>[90] EC管理システムの「GoQSystem」に不正アクセス、1694社・約498万件の注文情報が漏えい</title>
-<link>https://internet.watch.impress.co.jp/docs/news/2156617.html</link>
-<guid isPermaLink="true">https://internet.watch.impress.co.jp/docs/news/2156617.html</guid>
-<pubDate>Mon, 16 Nov 2026 02:48:05 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>EC管理システムの「GoQSystem」に不正アクセス、1694社・約498万件の注文情報が漏えい — はてなブックマーク テクノロジー / score: 90 (大規模な不正アクセスと情報漏洩の深刻な事件)</description>
 </item>
 <item>
 <title>[90] エンジニア転職のpaiza、最大90万件の個人情報漏えいのおそれ　退職者などアクセス可能な状態、約13年続く</title>
@@ -183,14 +175,6 @@
 <description>Microsoftは2026年11月10日、アプリケーション開発基盤.NETの新バージョン「.NET 11」を正式リリースした。 — gihyo.jp / score: 90 (.NET 11正式リリースとC# 15の新機能)</description>
 </item>
 <item>
-<title>[90] 2カ月連続で脆弱性1,000件超え ～Microsoftが2026年11月「Windows Update」を実施／「緊急」は64件、悪用確認は「Outlook」の1件。企業・教育向け「Windows 11 23H2」は今回が最後</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2155377.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2155377.html</guid>
-<pubDate>Wed, 11 Nov 2026 02:01:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Microsoftは11月10日（現地時間）、すべてのサポート中バージョンのWindowsに対し月例のセキュリティ更新プログラムをリリースした（パッチチューズデー）。現在、「Windows Update」や「Microsoft Update カタログ」などから入手可能。 — 窓の杜 / score: 90 (11月Windows Updateと多数の脆弱性修正)</description>
-</item>
-<item>
 <title>[90] マイクロソフト、.NET 11正式リリース。C#に共用型を導入、JITやAOTコンパイラの高速化、コマンドラインツール強化など新機能</title>
 <link>https://www.publickey1.jp/blog/26/net_11cjitaot.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/net_11cjitaot.html</guid>
@@ -229,6 +213,14 @@
 <pubDate>Tue, 03 Nov 2026 18:00:00 +0000</pubDate>
 <category>Next.js Blog</category>
 <description>The November 2026 security release for Next.js is now available — Next.js Blog / score: 90 (重要フレームワークの緊急セキュリティアップデート)</description>
+</item>
+<item>
+<title>[85] 誕生から約3年半、ローカルAIの推論エンジン「llama.cpp」がv1.0.0に／テンソルライブラリ「ggml」も同時にメジャーアップデート、今後はセマンティックバージョニングを採用</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2156759.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2156759.html</guid>
+<pubDate>Mon, 16 Nov 2026 08:32:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>大規模言語モデル（LLM）の推論エンジン「llama.cpp」が11月13日、v1.0.0へとアップデートされた。機械学習向けのテンソルライブラリ「ggml」も、同日付けでv1.0.0がリリースされている。 — 窓の杜 / score: 85 (llama.cppとggmlのv1.0.0メジャーリリース)</description>
 </item>
 <item>
 <title>[85] iPhoneのメッセージアプリ、グループ会話が知らない人に読まれていたかも。Appleが修正</title>
@@ -455,14 +447,6 @@
 <description>Mozillaは11月10日（米国時間）、デスクトップ向け「Firefox」の最新版v160.0をリリースチャネルで公開した。「Firefox 159」に続くメジャーバージョンアップとなる。 — 窓の杜 / score: 85 (Firefoxメジャーアプデと大量の脆弱性修正)</description>
 </item>
 <item>
-<title>[85] Google、最強モデル「Gemini 4 Carbon」を一般公開 ～11月30日までは導入価格で半額／有償のAPIと「Google AI Ultra」で利用可能</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2155356.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2155356.html</guid>
-<pubDate>Wed, 11 Nov 2026 00:32:23 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Googleは11月10日（現地時間、以下同）、「Gemini 4 Carbon」の一般提供を開始した。10月28日の発表当初は、「Fairwind Program」を通じて一部のサイバーセキュリティの防御担当者にのみ提供されていたが、一般のユーザーでも利用できるようになった。 — 窓の杜 / score: 85 (Google「Gemini 4 Carbon」の一般公開)</description>
-</item>
-<item>
 <title>[85] 「.NET MAUI 11」がついにXamarin由来のMonoランタイムから脱却、CoreCLRに統一</title>
 <link>https://www.publickey1.jp/blog/26/net_maui_11xamarinmonocoreclr.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/net_maui_11xamarinmonocoreclr.html</guid>
@@ -511,6 +495,14 @@
 <description>Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope. — OpenAI News / score: 85 (サイバーセキュリティ特化型AIモデルの発表)</description>
 </item>
 <item>
+<title>[80] Cloudflare、AIエージェント向け軽量ブラウザ「Kitesurf」をオープンソースとして公開</title>
+<link>https://gihyo.jp/article/2026/11/cloudflare-kitesurf?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/11/cloudflare-kitesurf?utm_source=feed</guid>
+<pubDate>Mon, 16 Nov 2026 08:25:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Cloudflareは2026年11月12日、AIエージェント向けブラウザ「Kitesurf」をApache 2.0ライセンスのもと、GitHub上でオープンソースとして公開した。 — gihyo.jp / score: 80 (Cloudflare製AI向け軽量ブラウザの公開)</description>
+</item>
+<item>
 <title>[80] ドコモ「5G SA」で障害 完全復旧</title>
 <link>https://news.yahoo.co.jp/pickup/6602807?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6602807?source=rss</guid>
@@ -522,9 +514,9 @@
 <title>[80] ついに「Rust 1.100」リリース、約10年越しの新機能が正式採用されパッケージの安全対策も強化</title>
 <link>https://gigazine.net/news/20261116-rust-1-100/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261116-rust-1-100/</guid>
-<pubDate>Mon, 16 Nov 2026 05:55:14 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>プログラミング言語「Rust」の開発チームが2026年11月12日に「Rust 1.100.0」をリリースしました。Rust 1.100では約10年にわたって開発が続けられてきた「never型」が正式に利用可能になったほか、外部パッケージの安全対策やメモリ管理に関する機能の改善などが行われています。 Announcing Rust 1.100.0 | Rust Blog h... — はてなブックマーク テクノロジー / score: 80 (Rust 1.100のメジャーリリース)</description>
+<pubDate>Mon, 16 Nov 2026 05:45:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>プログラミング言語「Rust」の開発チームが2026年11月12日に「Rust 1.100.0」をリリースしました。Rust 1.100では約10年にわたって開発が続けられてきた「never型」が正式に利用可能になったほか、外部パッケージの安全対策やメモリ管理に関する機能の改善などが行われています。 続きを読む... — GIGAZINE / score: 80 (Rust 1.100のメジャーリリース)</description>
 </item>
 <item>
 <title>[80] Uberで数千人のドライバーの免許証情報が盗まれるデータ侵害が発生</title>
@@ -631,12 +623,28 @@
 <description>November 9, 2026 — Claude Fable 5.2 and Mythos 5.2 arrive on Anthropic’s IPO roadshow day. How much thinking is worth paying for? — Latent Space / score: 78 (主要LLMの性能逆転とIPO動向)</description>
 </item>
 <item>
+<title>[75] ドコモ5G SA、今月3回目の通信障害は約6時間継続　根本的な対策が望まれる</title>
+<link>https://ascii.jp/elem/000/004/451/4451940/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/451/4451940/?rss</guid>
+<pubDate>Mon, 16 Nov 2026 08:25:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>NTTドコモは、16日（月）10時2分から発生していた、5G SAでの通信障害について、15時58分に完全復旧したと発表した。ドコモの5G SAにおける通信障害は、11月5日の約14時間、11月11日の約9時間に続く、3週連続。 — ASCII.jp / score: 75 (大手通信キャリアの大規模通信障害とインフラ問題。)</description>
+</item>
+<item>
+<title>[75] Personal Agent Protocol 1.0公開、ShopifyやMetaのMuseが対応</title>
+<link>https://gihyo.jp/article/2026/11/personal-agent-protocol?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/11/personal-agent-protocol?utm_source=feed</guid>
+<pubDate>Mon, 16 Nov 2026 07:29:45 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>企業向けAIエージェントを開発するSierraは2026年11月13日、個人向けAIエージェントと企業のやり取りを定めるPersonal Agent Protocol（通称Poppy）のバージョン1.0を公開したと発表した。Shopifyの全ストアが対応し、MetaのAIエージェントMuseでは、すべてのユーザーがPoppyを利用できるようになった。 — gihyo.jp / score: 75 (AIエージェント向け新プロトコルの公開)</description>
+</item>
+<item>
 <title>[75] 「Qwen4-Max」が登場、一部テストでClaude Opus 5.5に勝利し小型オープンモデルも後日公開予定</title>
 <link>https://gigazine.net/news/20261116-qwen4-max/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261116-qwen4-max/</guid>
-<pubDate>Mon, 16 Nov 2026 04:27:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>中国の大手テクノロジー企業であるAlibabaがAIモデル「Qwen4-Max」を2026年11月16日に正式リリースしました。 続きを読む... — GIGAZINE / score: 75 (Alibabaによる新しい大規模AIモデルの公開)</description>
+<pubDate>Mon, 16 Nov 2026 04:45:06 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>中国の大手テクノロジー企業であるAlibabaがAIモデル「Qwen4-Max」を2026年11月16日に正式リリースしました。 Qwen4-Max: Your New Teammate Has Arrived https://qwen.ai/blog?id=qwen4-max 📢 Meet Qwen4-Max, your new AI teammate for work, creativity, and discovery! Qwen4-Max is built on a new MoE architectu... — はてなブックマーク テクノロジー / score: 75 (Alibabaによる新しい大規模AIモデルの公開)</description>
 </item>
 <item>
 <title>[75] サイバー攻撃 AI「自律化」が脅威</title>
@@ -671,6 +679,14 @@
 <description> — CodeZine / score: 75 (GitHubのシークレットスキャン機能強化によるセキュリティ向上)</description>
 </item>
 <item>
+<title>[75] GitHub IssueにArtifactとしてHTMLとMarkdownを添付できるようになった</title>
+<link>https://zenn.dev/kesin11/articles/20261114_github_issue_artifact</link>
+<guid isPermaLink="true">https://zenn.dev/kesin11/articles/20261114_github_issue_artifact</guid>
+<pubDate>Sun, 15 Nov 2026 23:00:07 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>今年もGitHub Universeが開催され、多くの新機能が発表されました！ 一方、派手な発表の影に隠れてあまり目立っていませんが、普段使いしているIssueにも「Issue Artifact」という機能がPublic Previewとして追加されています。Issueに対してHTMLやMarkdownをArtifactとして添付し、Issue画面上の専用パネルでそのまま表示できる機能です。 https://github.blog/changelog/2026-10-28-issue-artifacts-are-now-in-public-preview/ 最近はコーディング前の設計やコ... — Zenn トレンド / score: 75 (GitHub Issueの新機能追加と解説)</description>
+</item>
+<item>
 <title>[75] A step toward defining the Standard Model on a lattice</title>
 <link>https://openai.com/index/step-toward-defining-the-standard-model</link>
 <guid isPermaLink="true">https://openai.com/index/step-toward-defining-the-standard-model</guid>
@@ -693,14 +709,6 @@
 <pubDate>Sun, 15 Nov 2026 15:26:15 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Microsoftは11月13日（現地時間）、Windowsの定例外（OOB）のアップデートをリリースした。2026年11月のセキュリティ更新プログラムを適用した一部の企業向けデバイスで、ソフトウェアライセンス管理ツール（SLMGR）を使ったWindowsのライセンス認証の操作がエラー「0x80041008」（Invalid parameter）で失敗することがあったという。 — 窓の杜 / score: 75 (Windowsのライセンス認証失敗に関する緊急の不具合)</description>
-</item>
-<item>
-<title>[75] .NET 11 の ASP.NET Core Blazor の新機能のスケールイン対応機能！</title>
-<link>https://zenn.dev/microsoft/articles/aspnetcore-blazor-dotnet11-scale</link>
-<guid isPermaLink="true">https://zenn.dev/microsoft/articles/aspnetcore-blazor-dotnet11-scale</guid>
-<pubDate>Sun, 15 Nov 2026 07:58:03 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>はじめに 今まで ASP.NET Core Blazor の InteractiveServer のモードでは、サーバー側のメモリに保持される回路（Circuit）をスケールイン時に別のサーバーへ移行できませんでした。そのため柔軟なスケールアウト！スケールイン！するようなシステムにするのをあきらめざるを得ませんでした…。 .NET 11 では、サーバー側からクライアント側に状態を保存させてから再接続をするということが出来るようになったので、スケールインの前にいったんステートをクライアント側に保存させて、別のサーバーに行かせることができます！これでスケールアウト・スケールインするような... — Zenn トレンド / score: 75 (.NET 11のBlazor新機能に関する解説)</description>
 </item>
 <item>
 <title>[75] CocoaPods、12月2日に新規podの受け付けを停止</title>
@@ -773,14 +781,6 @@
 <pubDate>Thu, 12 Nov 2026 05:55:27 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>GoogleのChromeチームは2026年11月10日、コーディングエージェントにWeb開発の知識やブラウザーの互換性情報を提供するOSSプロジェクト「Modern Web Guidance」の安定版1.0の公開を発表した。1.0では、既存コードから改修候補を探すワークフローを追加した。 — gihyo.jp / score: 75 (エージェント開発を支援するGoogleのModern Web Guidance 1.0公開)</description>
-</item>
-<item>
-<title>[75] Skills を持つ単一エージェントは、サブエージェント構成より品質で上回ることが多い — Anthropic が示す移行の手順</title>
-<link>https://zenn.dev/happy_elements/articles/201519107f93de</link>
-<guid isPermaLink="true">https://zenn.dev/happy_elements/articles/201519107f93de</guid>
-<pubDate>Thu, 12 Nov 2026 03:38:09 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>2026 年 10 月 22 日、Anthropic の claude.com ブログに「Building agents: When to fold subagents into your main agent loop」が公開されました。サブエージェントに分けて組んだエージェントを、メインのエージェントループに取り込み、Skills（必要になったときに読み込む手順や知識のまとまり）とツールを持たせた 1 つのループへ戻す（ブログの言葉では fold）ときの判断基準と手順をまとめた記事です。 https://claude.com/blog/building-agents-when-to-... — Zenn トレンド / score: 75 (Anthropicのエージェント設計に関する最新知見)</description>
 </item>
 <item>
 <title>[75] Claude Platform release notes — November 12, 2026</title>
