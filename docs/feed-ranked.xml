@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Tue, 17 Nov 2026 20:06:30 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 22:06:12 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] Introducing GPT-6.2 Astra and Sol</title>
@@ -45,6 +45,14 @@
 <pubDate>Thu, 05 Nov 2026 06:53:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>OpenAIは2026年11月4日、開発中のサイバーセキュリティ向けAIモデルを活用し、Linuxカーネルの脆弱性をエージェントが自律的に発見し検証した結果を発表した。 — gihyo.jp / score: 95 (AIによるLinuxカーネルの脆弱性大量発見と実証の画期的なニュース)</description>
+</item>
+<item>
+<title>[90] 広告ブロッカー「uBlock Origin」にワンクリックで任意のJavaScriptを実行可能にできる脆弱性が存在していたことが判明</title>
+<link>https://gigazine.net/news/20261118-ublock-origin-uxss-vulnerability/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261118-ublock-origin-uxss-vulnerability/</guid>
+<pubDate>Tue, 17 Nov 2026 22:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>広告ブロッカー「uBlock Origin」のFirefox版においてワンクリックで実行可能な汎用XSS(UXSS)脆弱性が存在していたことが2026年11月15日に発表されました。この脆弱性を悪用することで、悪意のあるウェブサイトはuBlock Originに任意の信頼済みフィルターを追加させることが可能。信頼済みフィルターはウェブページへのJavaScriptコード注入を許可するため、攻撃者はこれを悪用することで任意のウェブサイトのコンテキストで任意のJavaScriptを実行できる状態を作り出すことができました。問題の脆弱性は2026年11月1日に開発チームに報告されており、記事作成時点ではすでに修正済みです。 続きを読む... — GIGAZINE / score: 90 (有名拡張機能uBlock Originの脆弱性情報)</description>
 </item>
 <item>
 <title>[90] OpenAI GPT-6.2 Astra, and GPT-6.2 Sol are now generally available on Amazon Bedrock</title>
@@ -199,14 +207,6 @@
 <description>米Microsoftは11月10日（現地時間）、開発プラットフォーム「.NET」の最新版「.NET 11」を正式リリースした。「.NET 10」に続く年次アップデートで、2年間のサポートが保証された「Standard Term Support」（STS）リリースとなる。 — 窓の杜 / score: 90 (.NET 11およびC# 15のメジャーリリース)</description>
 </item>
 <item>
-<title>[90] 「Google Chrome」に今週2回目のセキュリティ更新、83件のCVEに対処、うち5件は「Critical」／Windows/Mac環境にはv157.0.8103.78/.79が展開</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2155721.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2155721.html</guid>
-<pubDate>Thu, 12 Nov 2026 01:45:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Googleは11月11日（現地時間）、デスクトップ向け「Google Chrome」の安定（Stable）チャネルをアップデートした。Windows/Mac環境にはv157.0.8103.78/.79、Linux環境にはv157.0.8103.78が展開される。ゼロデイ脆弱性を修正した9日に続く、今週2回目のセキュリティアップデートだ。 — 窓の杜 / score: 90 (Chromeのクリティカルなゼロデイ脆弱性修正)</description>
-</item>
-<item>
 <title>[90] 2026-11-11, Version 26.13.1 'Lithium' (LTS), @aduh95</title>
 <link>https://github.com/nodejs/node/releases/tag/v26.13.1</link>
 <guid isPermaLink="true">https://github.com/nodejs/node/releases/tag/v26.13.1</guid>
@@ -269,6 +269,14 @@
 <pubDate>Wed, 04 Nov 2026 08:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel. — OpenAI News / score: 90 (AIによるLinuxカーネル脆弱性の自動パッチ生成)</description>
+</item>
+<item>
+<title>[85] ［速報］マイクロソフト、コーディング用AIモデルとして高性能かつ低価格「MAI Code 2」「MAI Code 2 Flash」発表</title>
+<link>https://www.publickey1.jp/blog/26/aimai_code_2mai_code_2_flash.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/aimai_code_2mai_code_2_flash.html</guid>
+<pubDate>Tue, 17 Nov 2026 21:48:15 +0000</pubDate>
+<category>Publickey</category>
+<description>マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、同社が開発したコーディング用AIモデルのフラグシップで高性能かつ低価格を売り文句とする「MAI Code 2」と、さらに安価な「... — Publickey / score: 85 (マイクロソフトの新AIモデル発表で、広く注目される)</description>
 </item>
 <item>
 <title>[85] How we're using AI to make Next.js more secure</title>
@@ -359,6 +367,14 @@
 <description>大規模言語モデル（LLM）の推論エンジン「llama.cpp」が11月13日、v1.0.0へとアップデートされた。機械学習向けのテンソルライブラリ「ggml」も、同日付けでv1.0.0がリリースされている。 — 窓の杜 / score: 85 (llama.cppとggmlのv1.0.0メジャーリリース)</description>
 </item>
 <item>
+<title>[85] AWS Security Hub now detects when vulnerable software is running on Amazon EC2 instances</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-detects-vulnerable-software/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-detects-vulnerable-software/</guid>
+<pubDate>Mon, 16 Nov 2026 08:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS Security Hub now detects when software with a known vulnerability is actively running on your Amazon EC2 instances. Exposure findings now include a new trait, *The EC2 instance is running software with a known vulnerability*. These findings get a higher severity rating than findings for the same vulnerability where the software isn't running. This helps your security team focus on the vulnerabilities that pose the greatest risk, without investing time and resources to investigate if the soft — AWS What's New / score: 85 (Security Hubの脆弱ソフト検知強化)</description>
+</item>
+<item>
 <title>[85] ほぼ丸1日続いた「Microsoft 365」「Outlook」障害の原因は？　Microsoftが暫定報告／7月から潜んでいた不具合に当日の状況が絡み合い、連鎖的なダウンを招く</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2156753.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2156753.html</guid>
@@ -381,14 +397,6 @@
 <pubDate>Sun, 15 Nov 2026 23:18:17 +0000</pubDate>
 <category>Simon Willison</category>
 <description>Release: datasette 0.65.6 I backported a minor security fix from 1.0a43: Fixed a security issue where a database registered using add_database(db, name=..., route=...) with a route that differs from its name could be downloaded from /&lt;route&gt;.db by actors who were denied access to it. [...] Tags: security , datasette — Simon Willison / score: 85 (Datasetteのセキュリティ修正を含むアップデート)</description>
-</item>
-<item>
-<title>[85] 日本語の脆弱性 DB は 4.6 日かかる。待てないので、46 秒でセキュリティ情報が載るようにした</title>
-<link>https://qiita.com/songchong/items/fa50cc82e49b24925fe3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/songchong/items/fa50cc82e49b24925fe3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Sun, 15 Nov 2026 08:20:40 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>1. なぜ今、脆弱性への対応を急ぐのか？ 今は、日本語の情報が出るのを待ってから動くと間に合わない時代です。図は、その理由を 3 つ並べたものです。 1 つ目は、攻撃者が AI を使い、会社の大きさを問わず狙っていることです。内閣官房国家サイバー統括室は、2026 年 ... — Qiita 人気記事 / score: 85 (脆弱性情報の迅速な通知に関する取り組み)</description>
 </item>
 <item>
 <title>[85] [AINews] The No AI Slop Manifesto</title>
@@ -503,36 +511,12 @@
 <description>AWS Emulator is now available for building and testing AWS applications locally. Starting today, you can use AWS Emulator to build and test AWS applications on your computer or in your continuous integration (CI) environment. Your existing AWS SDK and CLI calls go to AWS Emulator and come back in milliseconds, so you and your coding agents can find and fix errors locally, with no deployments or AWS account required. You create and manage resources with the same AWS SDK and AWS CLI calls you use  — AWS What's New / score: 85 (AWS公式のローカル開発用エミュレータ提供開始)</description>
 </item>
 <item>
-<title>[85] 「.NET MAUI 11」がついにXamarin由来のMonoランタイムから脱却、CoreCLRに統一</title>
-<link>https://www.publickey1.jp/blog/26/net_maui_11xamarinmonocoreclr.html</link>
-<guid isPermaLink="true">https://www.publickey1.jp/blog/26/net_maui_11xamarinmonocoreclr.html</guid>
-<pubDate>Tue, 10 Nov 2026 17:51:47 +0000</pubDate>
-<category>Publickey</category>
-<description>マイクロソフトは.NET 11と合わせてリリースしたUIフレームワーク「.NET MAUI 11」で、ついに内部ランタイムがMonoから脱却し、CoreCLRに統一されたことを明らかにしました。 .NET MAUIはシングルコードでiOS、... — Publickey / score: 85 (UIフレームワークの重大なランタイム変更)</description>
-</item>
-<item>
-<title>[85] Amazon Bedrock adds bedrock-runtime endpoint support for Daybreak models</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/11/openai-gpt-daybreak-on-amazon-bedrock-runtime/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/openai-gpt-daybreak-on-amazon-bedrock-runtime/</guid>
-<pubDate>Tue, 10 Nov 2026 10:14:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Eligible customers can now access OpenAI’s specialized cybersecurity models Daybreak Red: GPT-5.6 Cyber and Daybreak Blue: GPT-5.6 Sol through the bedrock-runtime endpoint on Amazon Bedrock. Daybreak Blue is the starting point for most security teams across defensive workflows, including vulnerability discovery, detection engineering, and incident response. Daybreak Red is designed for advanced, authorized tasks such as vulnerability research, exploit reproduction, and mitigation development. Fo — AWS What's New / score: 85 (主要なAWSサービスとセキュリティ特化AIモデルの追加)</description>
-</item>
-<item>
 <title>[85] Anthropic、Claude Fable 5.2とMythos 5.2を発表  ——推論や画像理解を改善、長時間のエージェント作業も強化</title>
 <link>https://gihyo.jp/article/2026/11/claude-fable-and-mythos-5.2?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/11/claude-fable-and-mythos-5.2?utm_source=feed</guid>
 <pubDate>Tue, 10 Nov 2026 04:39:15 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Anthropicは2026年11月9日、AIモデルClaude Fable 5.2とClaude Mythos 5.2を発表した。コーディングや画像理解を改善し、複雑な推論や長時間にわたるエージェント作業の性能を高めたという。 — gihyo.jp / score: 85 (Anthropicの新型AIモデル発表)</description>
-</item>
-<item>
-<title>[85] Google、Kubernetesで10倍高密度にAIエージェントを実行可能にする「Agent Sustrate」と「gVisor」、オープンソースとしてCNCFに寄贈と発表</title>
-<link>https://www.publickey1.jp/blog/26/googlekubernetes10aiagent_sustrategvisorcncf.html</link>
-<guid isPermaLink="true">https://www.publickey1.jp/blog/26/googlekubernetes10aiagent_sustrategvisorcncf.html</guid>
-<pubDate>Mon, 09 Nov 2026 15:25:30 +0000</pubDate>
-<category>Publickey</category>
-<description>Googleは、Kubernetes上にAIエージェントのための高効率な基盤を構築するためのオープンソースソフトウェア「Agent Substrate」と「gVisor」を、Linux Foundation傘下のCloud Native C... — Publickey / score: 85 (KubernetesとAI基盤のOSS寄贈で影響力大)</description>
 </item>
 <item>
 <title>[85] Partnering with Hacktron to find vulnerabilities in OpenAI’s systems</title>
@@ -557,6 +541,22 @@
 <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
 <category>Inside Java</category>
 <description>JEP 401 (Value Objects) arrives in OpenJDK as a preview feature, enabling a new Java type model with minimal code changes. The talk explains what value objects are, JVM benefits, Valhalla history, implementation details, and the path toward bridging objects and primitives, including future support like List&lt;int&gt;. — Inside Java / score: 82 (Java Valhallaプロジェクトの解説と進化)</description>
+</item>
+<item>
+<title>[80] ［速報］マイクロソフト、PostgreSQL互換のミッションクリティカル向けデータベースサービス「Azure HorizonDB」正式リリース</title>
+<link>https://www.publickey1.jp/blog/26/postgresqlazure_horizondb.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/postgresqlazure_horizondb.html</guid>
+<pubDate>Tue, 17 Nov 2026 21:45:41 +0000</pubDate>
+<category>Publickey</category>
+<description>マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、PostgreSQL互換のミッションクリティカル向けデータベースサービス「Azure HorizonDB」の正式リリースを発表し... — Publickey / score: 80 (ミッションクリティカル向けDBの正式リリース)</description>
+</item>
+<item>
+<title>[80] 楽天証券も不正アクセス。資産を守るために確認しておきたい設定</title>
+<link>https://www.gizmodo.jp/article/2611-rakuten-securities-unauthorized-access-security-settings/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-rakuten-securities-unauthorized-access-security-settings/</guid>
+<pubDate>Tue, 17 Nov 2026 21:35:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>楽天証券の不正アクセス・情報漏えい懸念を受け、楽天証券ユーザーの筆者が、大切な資産を守るために、今すぐ確認・見直すべきセキュリティ設定や取引制限の方法を説明します。 — ギズモード・ジャパン / score: 80 (楽天証券不正アクセスとセキュリティ対策)</description>
 </item>
 <item>
 <title>[80] AWS announces general availability of AWS Interconnect - multicloud connectivity with Microsoft Azure</title>
@@ -631,6 +631,14 @@
 <description> — Yahoo!ニュース IT / score: 80 (ドコモの5G SA通信障害と完全復旧)</description>
 </item>
 <item>
+<title>[80] AWS Security Hub Network Scanning now supports scanning Amazon Relational Database Service (Amazon RDS) database instances</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-network-scanning-rds/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-network-scanning-rds/</guid>
+<pubDate>Mon, 16 Nov 2026 08:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS Security Hub Network Scanning now scans Amazon RDS DB instances to identify those that are reachable from the internet. Network Scanning automatically discovers existing and new RDS DB instances in your accounts and scans each instance that has Public Access configured. For each reachable port associated with a DB instance, Security Hub creates a finding with details about the instance and the reachable port. RDS scanning gives you more visibility into which resources in your environment are — AWS What's New / score: 80 (Security HubのRDSネットワークスキャン)</description>
+</item>
+<item>
 <title>[80] Adaptive Heap Sizing + Numeric Conversion + Primitive Patterns - Inside Java Newscast #117</title>
 <link>https://inside.java/newscast/117/</link>
 <guid isPermaLink="true">https://inside.java/newscast/117/</guid>
@@ -671,14 +679,6 @@
 <description>AWS Emulator is a free, open-source local emulator in Rust that lets developers test applications against nearly every AWS service on their own machine using the same CLI and SDK commands, with fidelity measured against real AWS behavior. — AWS News Blog / score: 80 (AWSのローカルエミュレータツールリリース)</description>
 </item>
 <item>
-<title>[80] .NET 8と.NET 9のサポートは昨日で終了。脆弱性が社会問題化している現在、.NET 10への移行を推奨</title>
-<link>https://www.publickey1.jp/blog/26/net_8net_9net_10.html</link>
-<guid isPermaLink="true">https://www.publickey1.jp/blog/26/net_8net_9net_10.html</guid>
-<pubDate>Tue, 10 Nov 2026 17:45:42 +0000</pubDate>
-<category>Publickey</category>
-<description>マイクロソフトの包括的なソフトウェアフレームワーク「.NET 8」と「.NET 9」のサポートが昨日（2026年11月10日）終了しました。 .NET 8は今から3年前の2023年11月にリリースされ.NET 9はその1年後の2024年11... — Publickey / score: 80 (サポート終了とセキュリティリスクに関する警告)</description>
-</item>
-<item>
 <title>[80] Gemini Robotics 2.5 accelerates real-world general dexterity</title>
 <link>https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/</link>
 <guid isPermaLink="true">https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/</guid>
@@ -693,6 +693,38 @@
 <pubDate>Tue, 10 Nov 2026 06:34:44 +0000</pubDate>
 <category>Latent Space</category>
 <description>November 9, 2026 — Claude Fable 5.2 and Mythos 5.2 arrive on Anthropic’s IPO roadshow day. How much thinking is worth paying for? — Latent Space / score: 78 (主要LLMの性能逆転とIPO動向)</description>
+</item>
+<item>
+<title>[75] 「サプライチェーン攻撃」って何？ 8000万件超の情報漏えいにもつながった攻撃の仕組み</title>
+<link>https://ascii.jp/elem/000/004/451/4451638/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/451/4451638/?rss</guid>
+<pubDate>Tue, 17 Nov 2026 22:00:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>企業が直接攻撃されていなくても、取引先や利用サービスを通じて個人情報が流出することがあります。8000万件超のメールアドレスが持ち出された事件でも注目された「サプライチェーン攻撃」の仕組みと、私たちにできる対策を解説します。 — ASCII.jp / score: 75 (サプライチェーン攻撃の仕組みと対策解説)</description>
+</item>
+<item>
+<title>[75] 「.NET 11」に興味深い破壊的変更、『明治』の始まりが45日遅くなる／ごくまれにエラーを引き起こすことも【やじうまの杜】</title>
+<link>https://forest.watch.impress.co.jp/docs/serial/yajiuma/2157180.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/serial/yajiuma/2157180.html</guid>
+<pubDate>Tue, 17 Nov 2026 21:45:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>「やじうまの杜」では、ニュース・レビューにこだわらない幅広い話題をお伝えします。 — 窓の杜 / score: 75 (.NET 11における破壊的変更の興味深い話題)</description>
+</item>
+<item>
+<title>[75] ［速報］PostgreSQL互換のサーバレスでOLTPとOLAP両対応を実現する「Microsoft Fabric HorizonDB」パブリックプレビュー</title>
+<link>https://www.publickey1.jp/blog/26/postgresqloltpolapmicrosoft_fabric_horizondb.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/postgresqloltpolapmicrosoft_fabric_horizondb.html</guid>
+<pubDate>Tue, 17 Nov 2026 21:43:09 +0000</pubDate>
+<category>Publickey</category>
+<description>マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、PostgreSQL互換のサーバレスデータベース「Microsoft Fabric HorizonDB」のパブリックプレビュー版... — Publickey / score: 75 (PostgreSQL互換のサーバレスDBプレビュー版)</description>
+</item>
+<item>
+<title>[75] AWS Security Hub now infers resource criticality from installed software and usage</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-resource-criticality/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-resource-criticality/</guid>
+<pubDate>Tue, 17 Nov 2026 20:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Today, AWS Security Hub adds installed software and resource usage as signals for resource criticality, which indicates how important a resource is to your business. Security Hub uses criticality to rank exposure findings, so that central security teams can prioritize the exposures that affect their most important resources. Security Hub already infers criticality from resource tags and names, but inconsistently tagged resources often have an Unknown criticality, which makes their exposures hard — AWS What's New / score: 75 (AWS Security Hubの重要度判定機能追加)</description>
 </item>
 <item>
 <title>[75] Amazon API Gateway REST APIs now support JWT authorizers</title>
@@ -773,38 +805,6 @@
 <pubDate>Tue, 17 Nov 2026 04:00:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 75 (Amazon DynamoDBの新機能追加)</description>
-</item>
-<item>
-<title>[75] AIが時代遅れのWebサイトを書くのを防ぐスキル「Modern Web Guidance」が安定版に／「Edge」「Firefox」も参加、Webサイトのモダナイズにも</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2156904.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2156904.html</guid>
-<pubDate>Tue, 17 Nov 2026 01:04:18 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>AIが時代遅れのWebサイトを書くのを防ぐスキル「Modern Web Guidance」が安定版に／「Edge」「Firefox」も参加、Webサイトのモダナイズにも — はてなブックマーク テクノロジー / score: 75 (AIに最新Web開発手法を教えるModern Web Guidance安定版公開)</description>
-</item>
-<item>
-<title>[75] Strengthening NATO and allied cyber defenses with AI</title>
-<link>https://openai.com/index/strengthening-nato-allied-cyber-defences-ai</link>
-<guid isPermaLink="true">https://openai.com/index/strengthening-nato-allied-cyber-defences-ai</guid>
-<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems. — OpenAI News / score: 75 (NATO等とAIを活用したサイバー防衛強化の取り組み)</description>
-</item>
-<item>
-<title>[75] Claude Platform release notes — November 17, 2026</title>
-<link>https://platform.claude.com/docs/en/release-notes/overview#linked-billing</link>
-<guid isPermaLink="true">https://platform.claude.com/docs/en/release-notes/overview#linked-billing</guid>
-<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-<category>Claude リリースノート</category>
-<description>We’ve launched Linked billing in beta with the user-profiles-billing-2026-10-01 beta header. Your customers can now pay for the Claude usage in your app through their own Claude organization. Once a customer links their organization, set billing_policy on each /v1/messages or /v1/chat/completions request to choose who pays. In the Claude Console, customers can set a spend cap for your app or unlink your app. Linked billing works for customers whose organization pays Anthropic directly for API us — Claude リリースノート / score: 75 (Claudeプラットフォームのマネージドエージェント更新)</description>
-</item>
-<item>
-<title>[75] AWSインシデント対応の段階的隔離戦略を考えてみた | DevelopersIO</title>
-<link>https://dev.classmethod.jp/articles/aws-incident-response-phased-isolation/</link>
-<guid isPermaLink="true">https://dev.classmethod.jp/articles/aws-incident-response-phased-isolation/</guid>
-<pubDate>Mon, 16 Nov 2026 22:02:59 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>インシデント対応で「全停止ボタン」に頼るのではなく、隔離レベル（L0〜L3）を事業影響とセットで設計し、AWS公式のContain Runbookを使った可逆隔離をドリルしてみました。ContainEC2とContainIAMの実行速度や動作確認の結果をお伝えします。 こんにちは、せーのです。 インシデント対応として、「とりあえず全部止め... — はてなブックマーク テクノロジー / score: 75 (AWSでの実践的なインシデント対応戦略の解説)</description>
 </item>
 </channel>
 </rss>
