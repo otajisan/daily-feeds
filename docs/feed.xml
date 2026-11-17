@@ -4,8 +4,64 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Tue, 17 Nov 2026 18:08:08 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 20:06:30 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>How we're using AI to make Next.js more secure</title>
+<link>https://nextjs.org/blog/how-were-using-ai-to-make-nextjs-more-secure</link>
+<guid isPermaLink="true">https://nextjs.org/blog/how-were-using-ai-to-make-nextjs-more-secure</guid>
+<pubDate>Tue, 17 Nov 2026 20:00:00 +0000</pubDate>
+<category>Next.js Blog</category>
+<description>Why you're seeing more Next.js security advisories, and what we're doing about it. — Next.js Blog / score: 85 (セキュリティ強化に関する重要ブログと対応策)</description>
+</item>
+<item>
+<title>Amazon API Gateway REST APIs now support JWT authorizers</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-rest-authorizers-jwt/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-rest-authorizers-jwt/</guid>
+<pubDate>Tue, 17 Nov 2026 19:22:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon API Gateway now offers a native JWT authorizer for REST APIs, a new authorizer type that validates JSON Web Tokens directly in the gateway. Until now, validating tokens from an OpenID Connect or OAuth 2.0 identity provider other than Amazon Cognito required a Lambda authorizer. You now configure token validation instead of writing and operating code for it. You can define one or more issuers, the audiences accepted for each, the signing algorithms you permit, and any additional claims a t — AWS What's New / score: 75 (API GatewayのネイティブJWT認証対応)</description>
+</item>
+<item>
+<title>Simplifying multicloud networking to Azure with partner Cross-Cloud Interconnect</title>
+<link>https://cloud.google.com/blog/products/networking/cross-cloud-interconnect-for-microsoft-azure/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/networking/cross-cloud-interconnect-for-microsoft-azure/</guid>
+<pubDate>Tue, 17 Nov 2026 18:35:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>As AI changes how businesses build and run applications, more enterprises are spreading their models, data and applications across multiple clouds. To make that work, they need fast, private connections between those environments. Historically, connecting multiple clouds has meant ordering physical connections from each provider, setting up networking on both sides, and coordinating across multiple teams. That process could take weeks or even months. We wanted to make that much simpler. Today, w — Google Cloud Blog / score: 55 (マルチクラウド接続の機能強化)</description>
+</item>
+<item>
+<title>AWS Config announces managed conformance packs</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/aws-config-managed-conformance-packs</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/aws-config-managed-conformance-packs</guid>
+<pubDate>Tue, 17 Nov 2026 17:49:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS Config now offers managed conformance packs. AWS builds and maintains these packs for specific compliance and governance frameworks. When you deploy one, you choose a framework, and AWS Config evaluates your resources against it. AWS keeps the pack up to date as things change. When new AWS Config managed rules map to the framework's controls, or when the framework itself is revised, AWS updates your deployed pack automatically. Because AWS maintains a consistent pack definition in every supp — AWS What's New / score: 65 (AWS Configのコンプライアンス管理機能追加)</description>
+</item>
+<item>
+<title>Introducing GPT-6.2 Astra and Sol</title>
+<link>https://openai.com/index/introducing-gpt-6-2-astra-sol</link>
+<guid isPermaLink="true">https://openai.com/index/introducing-gpt-6-2-astra-sol</guid>
+<pubDate>Tue, 17 Nov 2026 17:45:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API. — OpenAI News / score: 95 (主要なAIモデルのメジャーリリースと機能強化)</description>
+</item>
+<item>
+<title>Amazon Aurora DSQL now offers SQL statement statistics in Database Insights</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-dsql-statement-statistics/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-dsql-statement-statistics/</guid>
+<pubDate>Tue, 17 Nov 2026 17:37:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon Aurora DSQL now records statistics for each SQL statement your cluster runs and publishes them as Amazon CloudWatch OpenTelemetry (OTel) metrics. You can view them in Amazon CloudWatch Database Insights. For each statement, you see how often it runs, how long it takes, the rows it scans, returns, or changes, and the DPUs it uses. Statement statistics measure every successful statement rather than sampling activity. Use them to find the statements that take the most time, run most often, o — AWS What's New / score: 60 (Aurora DSQLのSQL統計情報とメトリクス公開)</description>
+</item>
+<item>
+<title>OpenAI GPT-6.2 Astra, and GPT-6.2 Sol are now generally available on Amazon Bedrock</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/openai-gpt-6-2-astra-sol-amazon-bedrock/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/openai-gpt-6-2-astra-sol-amazon-bedrock/</guid>
+<pubDate>Tue, 17 Nov 2026 17:17:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Today, AWS announces the general availability of OpenAI GPT-6.2 Astra and GPT-6.2 Sol on Amazon Bedrock. GPT-6.2 Astra brings frontier-level reasoning and judgment to your most ambitious work, including complex business problems, demanding research, and advanced coding and agentic workflows. Astra also includes an Ultrafast mode for latency-sensitive applications that need fast responses. GPT-6.2 Sol is designed for recurring coding, agentic, and professional workflows with clear outcomes, where — AWS What's New / score: 90 (Bedrockでの主要AIモデル一般提供開始)</description>
+</item>
 <item>
 <title>Four Continents, Four New AWS Heroes: Closing Out 2026</title>
 <link>https://aws.amazon.com/blogs/aws/four-continents-four-new-aws-heroes-closing-out-2026/</link>
@@ -71,6 +127,38 @@
 <description>本日、Appleが、Apple StoreのiOS向け公式アプリをアップデートし、最新版の「Apple Store 6.10」をリリースしました。 本アップデートでの変更点は、さまざまな機能強化とパフォーマンスの向上が行 […] — 気になる、記になる… / score: 20 (公式アプリのマイナーアップデート情報。)</description>
 </item>
 <item>
+<title>Amazon VPC, AWS Transit Gateway, and AWS Cloud WAN now offer a 99.999% availability SLA for cross-Region traffic</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/vpc-tgw-cloudwan-99999-sla/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/vpc-tgw-cloudwan-99999-sla/</guid>
+<pubDate>Tue, 17 Nov 2026 16:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS now offers a 99.999% availability service level agreement (SLA) for cross-Region traffic over Amazon Virtual Private Cloud (Amazon VPC) cross-Region peering, AWS Transit Gateway, and AWS Cloud WAN, with a new capability called Multipath Resilience. Multipath Resilience makes it easier to improve the resilience of mission-critical applications that send traffic across Regions, such as payment processing, financial trading, telephony, and live media streaming. The AWS backbone is highly resili — AWS What's New / score: 70 (クロスリージョン通信の高可用性SLA向上)</description>
+</item>
+<item>
+<title>Amazon WorkSpaces Advisor now helps you find issues before your users notice them (Public Preview)</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/workspaces-advisor-proactive-troubleshooting-preview</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/workspaces-advisor-proactive-troubleshooting-preview</guid>
+<pubDate>Tue, 17 Nov 2026 16:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>When a WorkSpace is slow or won't connect, the IT administrator trying to help has traditionally had to dig through Amazon CloudWatch metrics, logs, and configuration data across multiple tools to find out why. And in the meantime, the user on the other end can't get their work done. In April this year, we launched Amazon WorkSpaces Advisor, an AI-powered agent that helps IT administrators diagnose and fix WorkSpaces performance, connectivity and provisioning issues and get users back to work fa — AWS What's New / score: 55 (WorkSpacesの事前問題検知プレビュー公開)</description>
+</item>
+<item>
+<title>Amazon WorkSpaces provides a new Windows client experience</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/workspaces-new-windows-client</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/workspaces-new-windows-client</guid>
+<pubDate>Tue, 17 Nov 2026 16:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon WorkSpaces provides a new Windows client experience for Amazon WorkSpaces Personal. The new client experience includes an updated interface, a simplified connection flow, easier-to-find settings, and the new WorkSpaces Advisor proactive troubleshooting (Public Preview) that suggests actions you can take to resolve common issue WorkSpaces Advisor proactive troubleshooting (Public Preview) is an intelligent new capability that monitors key metrics from your device, network, and the WorkSpac — AWS What's New / score: 40 (WorkSpacesのWindowsクライアント刷新)</description>
+</item>
+<item>
+<title>AWS announces general availability of AWS Interconnect - multicloud connectivity with Microsoft Azure</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/aws-announces-AWS-interconnect-multicloud-azure-ga/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/aws-announces-AWS-interconnect-multicloud-azure-ga/</guid>
+<pubDate>Tue, 17 Nov 2026 16:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS announces the general availability of AWS Interconnect - multicloud with Microsoft Azure. Customers have been adopting multicloud strategies while migrating more applications to the cloud. They do so for many reasons including interoperability requirements, the freedom to choose technology that best suits their needs, and the ability to build and deploy applications on any environment with greater ease and speed. Previously, when interconnecting workloads across multiple cloud providers (CSP — AWS What's New / score: 80 (AWSとAzure間のマルチクラウド接続一般提供)</description>
+</item>
+<item>
 <title>楽天証券から漏洩した情報とは？　テスト環境に一時的に置いた顧客データを狙われたか（山口健太） - エキスパート - Yahoo!ニュース</title>
 <link>https://news.yahoo.co.jp/expert/articles/a46f1f27a0870d14588ebdbaa074fb457c0d95b3</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/expert/articles/a46f1f27a0870d14588ebdbaa074fb457c0d95b3</guid>
@@ -93,6 +181,14 @@
 <pubDate>Tue, 17 Nov 2026 15:00:00 +0000</pubDate>
 <category>Latent Space</category>
 <description>Cloudflare made its name speeding up the web. Now it's building System One models to make decisions and pull data in milliseconds. — Latent Space / score: 70 (CloudflareのAI分野への参入に関するニュース)</description>
+</item>
+<item>
+<title>Amazon API Gateway REST APIs now support JWT authorizers</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-rest-jwt-authorizers/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-rest-jwt-authorizers/</guid>
+<pubDate>Tue, 17 Nov 2026 15:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon API Gateway now offers a native JWT authorizer for REST APIs, a new authorizer type that validates JSON Web Tokens directly in the gateway. Until now, validating tokens from an OpenID Connect or OAuth 2.0 identity provider other than Amazon Cognito required a Lambda authorizer. You now configure token validation instead of writing and operating code for it. You can define one or more issuers, the audiences accepted for each, the signing algorithms you permit, and any additional claims a t — AWS What's New / score: 75 (API GatewayのネイティブJWT認証サポート)</description>
 </item>
 <item>
 <title>22万7800円～！ 最強スナドラ、背面ディスプレー、FeliCa、ライカカメラのシャオミ「Xiaomi 18 Pro Max」が正式発表</title>
@@ -231,6 +327,14 @@
 <description>ロックシーンの金字塔を打ち立てた“Eddie Kramer”によって制作されたSDXライブラリ、 TOONTRACK「SDX – LEGACY OF ROCK」が44%OFFとなっています。 Toontrak... The post 【ブラックフライデーセール】ロックシーンの金字塔を打ち立てた“Eddie Kramer”によって制作されたSDXライブラリ、 TOONTRACK「SDX – LEGACY OF ROCK」が44%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 10 (音楽制作プラグインのセール情報)</description>
 </item>
 <item>
+<title>GitHub - krisgfx9/Wireless-Device-Battery-Monitor: Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair,</title>
+<link>https://github.com/krisgfx9/Wireless-Device-Battery-Monitor</link>
+<guid isPermaLink="true">https://github.com/krisgfx9/Wireless-Device-Battery-Monitor</guid>
+<pubDate>Tue, 17 Nov 2026 12:00:24 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Battery levels of your wireless mouse, headset, keyboard and controller, right on the Windows taskbar. Just want it working? Download WirelessBattery-Setup from the latest release, run it and click through. That's it. Experienced users can grab the portable zip, use the command-line options, or b... — はてなブックマーク テクノロジー / score: 30 (便利なWindows周辺機器用アプリの紹介)</description>
+</item>
+<item>
 <title>遺跡の溝から大量のカエルの骨が発見された事件の犯人がついに明らかに</title>
 <link>https://gigazine.net/news/20261117-roman-frog-graveyard/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261117-roman-frog-graveyard/</guid>
@@ -311,7 +415,7 @@
 <description>ミックスの中で最も混み合ったミッドレンジのバランスをインテリジェントに取り戻す、Newfangled Audio「Fixate:Midrange」が50%OFFとなっています。 Eventideでは、Pluginpalo... The post 【ブラックフライデーセール】ミックスの中で最も混み合ったミッドレンジのバランスをインテリジェントに取り戻す、Newfangled Audio「Fixate:Midrange」が50%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 10 (音響プラグインのセール情報)</description>
 </item>
 <item>
-<title>電気が足りないイーロン・マスク、7年待ち→2年でAIを動かす「裏ワザ発電機」</title>
+<title>電気が足りないイーロン・マスク、7年待ち→2年でAIを動かす「裏ワザ発電機」採用</title>
 <link>https://www.gizmodo.jp/article/xai-jet-engine-power-plant/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/xai-jet-engine-power-plant/</guid>
 <pubDate>Tue, 17 Nov 2026 11:15:00 +0000</pubDate>
@@ -701,110 +805,6 @@
 <pubDate>Tue, 17 Nov 2026 09:00:00 +0000</pubDate>
 <category>ASCII.jp</category>
 <description>全粒粉入りのノンフライ麺とコクが豊かな醤油スープが特徴のカップ麺「日清麺職人 醤油 87g ×12個」がAmazonでセールに登場。 — ASCII.jp / score: 15 (食品・日用品のECセール情報)</description>
-</item>
-<item>
-<title>UGREENの100Wモデルが奇跡の45％OFF。4,880円で最速系充電器が手に入る！</title>
-<link>https://www.gizmodo.jp/article/2611-ugreen-100w-charger-sale/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-ugreen-100w-charger-sale/</guid>
-<pubDate>Tue, 17 Nov 2026 09:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>UGREENの100W対応3ポート充電器が45%OFFの4,880円で販売中。小型ながらPCと複数のデバイスを同時に高速充電できる優れた持ち運び用充電器の魅力をご紹介します。 — ギズモード・ジャパン / score: 15 (ガジェットの一般的なセール情報であり技術的重要度は低い)</description>
-</item>
-<item>
-<title>当社お客様の情報漏えいの可能性に関するお詫びとお知らせ:楽天証券</title>
-<link>https://www.rakuten-sec.co.jp/web/info/info20261117-02.html</link>
-<guid isPermaLink="true">https://www.rakuten-sec.co.jp/web/info/info20261117-02.html</guid>
-<pubDate>Tue, 17 Nov 2026 08:41:53 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>このたび、楽天証券への第三者による不正アクセスを受けたことにともない、楽天証券が保有するお客様の情報の一部が漏えいした可能性があることを確認いたしましたので、お知らせいたします。 なお、楽天証券のログインに必要なパスワード、暗証番号を含む楽天証券の取引に必要な各種情報についての漏えいは確認しており... — はてなブックマーク テクノロジー / score: 90 (大規模な顧客情報漏えいの可能性に関する重要インシデント)</description>
-</item>
-<item>
-<title>2026-11-12, Version 27.0.0-alpha.0.1.0 (Alpha), @aduh95</title>
-<link>https://github.com/nodejs/node/releases/tag/v27.0.0-alpha.0.1.0</link>
-<guid isPermaLink="true">https://github.com/nodejs/node/releases/tag/v27.0.0-alpha.0.1.0</guid>
-<pubDate>Tue, 17 Nov 2026 08:40:42 +0000</pubDate>
-<category>Node.js リリース</category>
-<description>Notable Changes [ 33d4e6c73a ] - (SEMVER-MINOR) child_process : add subprocess.timedOut (Marco) #66639 [ edc7ec4a77 ] - (SEMVER-MINOR) crypto : make X.509 inspection guards explicit (Filip Skokan) #67245 [ 0882e9729b ] - (SEMVER-MINOR) crypto : add X.509 generation with CSR support (Filip Skokan) #67245 [ 2360d3860e ] - (SEMVER-MINOR) dns : coalesce identical concurrent lookup() requests (Orgad Shaneh) #62599 [ dc4aa75983 ] - doc : add efekrskl to collaborators (Efe Karasakal) #67376 [ 9695304ab — Node.js リリース / score: 45 (Node.jsのアルファ版リリース情報)</description>
-</item>
-<item>
-<title>2026-11-16, Version 27.0.0-alpha.0.1.1 (Alpha), @aduh95</title>
-<link>https://github.com/nodejs/node/releases/tag/v27.0.0-alpha.0.1.1</link>
-<guid isPermaLink="true">https://github.com/nodejs/node/releases/tag/v27.0.0-alpha.0.1.1</guid>
-<pubDate>Tue, 17 Nov 2026 08:40:24 +0000</pubDate>
-<category>Node.js リリース</category>
-<description>Notable Changes [ e0c71bcd1c ] - tools : notarize bin/node in the darwin tarballs (Ulises Gascón) #67143 Commits [ aa0572bada ] - build : do not include vendored simdutf with --shared-simdutf (Yao Zi) #67410 [ a5672e8023 ] - build : enable pie on linux (Chengzhong Wu) #67386 [ cfb550171d ] - deps : V8: backport a05177279022 (René) #67416 [ a92ee337b1 ] - deps : update nghttp3 to 1.19.0 (Node.js GitHub Bot) #67333 [ f775f92e2e ] - deps : V8: backport 2444c109f4f8 (Austin Burdine) #66736 [ a478763 — Node.js リリース / score: 65 (Node.js v27.0.0 Alphaリリース)</description>
-</item>
-<item>
-<title>Building Sovereign AI in Europe, With Europe: Our New Startup Accelerator</title>
-<link>https://cloud.google.com/blog/topics/startups/sovereign-ai-on-your-terms-our-new-startup-accelerator-is-open/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/topics/startups/sovereign-ai-on-your-terms-our-new-startup-accelerator-is-open/</guid>
-<pubDate>Tue, 17 Nov 2026 08:30:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>Today we’re announcing an open call for applications for the Google for Startups Accelerator: Sovereign AI . Available in Europe and Israel, this initiative supports startups that are building cutting-edge AI solutions for European regulatory environments. Artificial intelligence represents an estimated €1.2 trillion economic opportunity for Europe . To realize this potential, European enterprises and public institutions need to adopt advanced AI while also meeting crucial data governance requir — Google Cloud Blog / score: 60 (Googleの欧州ソブリンAI支援施策)</description>
-</item>
-<item>
-<title>町のいたるところに救世主。チャージスポットにPC充電＆Wi-Fiが来る</title>
-<link>https://www.gizmodo.jp/article/chargespot-wifi-rental/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/chargespot-wifi-rental/</guid>
-<pubDate>Tue, 17 Nov 2026 08:30:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>私はモバイルバッテリーを常にカバンに入れているし、遠出するときはガジェットポーチに急速充電器やケーブルを複数入れてから出かけるので、外でモバイルバッテリーを借りるなんて考えたこともありませんでした。だから、コンビニや駅でモバイルバッテリーの… — ギズモード・ジャパン / score: 10 (充電サービスに関する一般的なライフスタイルニュースである)</description>
-</item>
-<item>
-<title>SwitchBot、フルカラー電子ペーパーを採用したデジタルアートフレーム「SwitchBot AIアートキャンバス2」を発表</title>
-<link>https://taisy0.com/2026/11/17/230540.html</link>
-<guid isPermaLink="true">https://taisy0.com/2026/11/17/230540.html</guid>
-<pubDate>Tue, 17 Nov 2026 08:28:09 +0000</pubDate>
-<category>気になる、記になる…</category>
-<description>本日、SwitchBotが、フルカラー電子ペーパーを採用したデジタルアートフレーム「SwitchBot AIアートキャンバス2」を発表しました。 「AIアートキャンバス2」は、バックライトを搭載しないE Ink Spec […] — 気になる、記になる… / score: 40 (SwitchBotの電子ペーパーアート端末)</description>
-</item>
-<item>
-<title>SwitchBot、｢SwitchBot 顔認証ドアベル｣を発表</title>
-<link>https://taisy0.com/2026/11/17/230536.html</link>
-<guid isPermaLink="true">https://taisy0.com/2026/11/17/230536.html</guid>
-<pubDate>Tue, 17 Nov 2026 08:16:22 +0000</pubDate>
-<category>気になる、記になる…</category>
-<description>本日、SwitchBotは、顔認証による玄関ドアの解錠と、来訪者の確認・通話を1台で行える「SwitchBot 顔認証ドアベル」を発表しました。 「SwitchBot 顔認証ドアベル」は、同社のスマートロック「Switc […] — 気になる、記になる… / score: 45 (SwitchBotの顔認証ドアベル製品発表)</description>
-</item>
-<item>
-<title>SwitchBot、スマートロックの新モデル「ロックUltra Max」を発表——動作速度向上やマグネット取付対応など</title>
-<link>https://taisy0.com/2026/11/17/230533.html</link>
-<guid isPermaLink="true">https://taisy0.com/2026/11/17/230533.html</guid>
-<pubDate>Tue, 17 Nov 2026 08:02:26 +0000</pubDate>
-<category>気になる、記になる…</category>
-<description>本日、SwitchBotが、スマートロックの新モデル「ロックUltra Max」を発表しました。 「ロックUltra Max」は、既存のドアやサムターンに後付けできるスマートロックで、従来モデルから取り付けや解錠速度、バ […] — 気になる、記になる… / score: 25 (スマートロックの新製品発表)</description>
-</item>
-<item>
-<title>濃いみそスープと幅広はるさめでがっつり味わえるエースコックの「スープはるさめ味噌ラーメン味」試食レビュー</title>
-<link>https://gigazine.net/news/20261117-acecook-soup-harusame-miso-ramen/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261117-acecook-soup-harusame-miso-ramen/</guid>
-<pubDate>Tue, 17 Nov 2026 08:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>エースコックの「スープはるさめ」シリーズから、「スープはるさめ 味噌ラーメン味」が2026年11月23日から期間限定で販売されます。一足早く編集部に届いたため、寒い季節の恒例となった一杯を今年も味わってみました。 続きを読む... — GIGAZINE / score: 10 (スープはるさめの新商品に関する試食レビュー)</description>
-</item>
-<item>
-<title>AWS Security Hub extends unified security management to Google Cloud Platform</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-gcp/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-gcp/</guid>
-<pubDate>Tue, 17 Nov 2026 08:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Today, AWS announces that AWS Security Hub now monitors Google Cloud Platform (GCP) resources, extending risk analytics, cloud security posture management, vulnerability management, and security response management across both clouds. Many AWS customers running workloads in AWS and GCP have had to operate separate security tools for each environment, making it difficult to prioritize risks holistically or respond consistently. Security Hub now provides a single, unified experience to detect and  — AWS What's New / score: 70 (AWSとGCPを跨ぐセキュリティ管理機能の拡張。)</description>
-</item>
-<item>
-<title>AWS IAM announces Access Troubleshooter to debug access denied errors</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/11/iam-access-troubleshooter/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/iam-access-troubleshooter/</guid>
-<pubDate>Tue, 17 Nov 2026 08:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>AWS Identity and Access Management (IAM) introduces Access Troubleshooter , a new capability that gives you visibility into the full authorization context behind access denied errors so you can resolve them without trial-and-error. Previously, developers relied on the Amazon Resource Name (ARN) of the denying policy to debug a denial, with no visibility into the authorization context or other policies evaluated in the request that could contribute to the denial. This made troubleshooting access  — AWS What's New / score: 75 (IAMの権限エラーデバッグを効率化する実用的な機能。)</description>
-</item>
-<item>
-<title>Sovereign AI in Europe: New ways to control your AI stack</title>
-<link>https://cloud.google.com/blog/products/identity-security/sovereign-ai-on-your-terms-made-with-europe/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/products/identity-security/sovereign-ai-on-your-terms-made-with-europe/</guid>
-<pubDate>Tue, 17 Nov 2026 08:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>Today in Brussels, public sector leaders, policymakers and partners are meeting at the Sovereign AI Summit to discuss how to build the next decade of Europe's public services, healthcare, and finance with AI under European control. We're here with our European partners to help deliver it. Achieving that goal takes more than deciding where data is stored. When we talk with European organizations, we hear four common questions from them: Will choosing more control mean settling for less capable AI — Google Cloud Blog / score: 60 (GoogleのソブリンAIに関する取り組み)</description>
 </item>
 </channel>
 </rss>
