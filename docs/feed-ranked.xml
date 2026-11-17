@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Tue, 17 Nov 2026 16:07:05 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 18:08:08 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 楽天証券 最大1125万口座分流出か</title>
@@ -253,14 +253,6 @@
 <pubDate>Wed, 04 Nov 2026 08:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel. — OpenAI News / score: 90 (AIによるLinuxカーネル脆弱性の自動パッチ生成)</description>
-</item>
-<item>
-<title>[90] November 2026 Security Release</title>
-<link>https://nextjs.org/blog/november-2026-security-release</link>
-<guid isPermaLink="true">https://nextjs.org/blog/november-2026-security-release</guid>
-<pubDate>Tue, 03 Nov 2026 18:00:00 +0000</pubDate>
-<category>Next.js Blog</category>
-<description>The November 2026 security release for Next.js is now available — Next.js Blog / score: 90 (重要フレームワークの緊急セキュリティアップデート)</description>
 </item>
 <item>
 <title>[85] 楽天証券から漏洩した情報とは？　テスト環境に一時的に置いた顧客データを狙われたか（山口健太） - エキスパート - Yahoo!ニュース</title>
@@ -687,12 +679,28 @@
 <description>November 9, 2026 — Claude Fable 5.2 and Mythos 5.2 arrive on Anthropic’s IPO roadshow day. How much thinking is worth paying for? — Latent Space / score: 78 (主要LLMの性能逆転とIPO動向)</description>
 </item>
 <item>
+<title>[75] Running the full server-side Datasette Python app in the browser with service workers and Pyodide</title>
+<link>https://simonwillison.net/2026/Nov/17/datasette-lite/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Nov/17/datasette-lite/</guid>
+<pubDate>Tue, 17 Nov 2026 16:48:33 +0000</pubDate>
+<category>Simon Willison</category>
+<description>Datasette Lite is my port of the Datasette Python application to run directly in the browser using WebAssembly and Pyodide . I've released a complete rewrite of Datasette Lite using service workers, and it's now almost indistinguishable from the real server-side application. You can now do all of the following, using a carefully crafted URL to lite.datasette.io : Load client-side Datasette to browse any SQLite database, JSON file, CSV file or SQL script Select a released version of Datasette to  — Simon Willison / score: 75 (WebAssemblyとPythonを用いた高度な技術解説。)</description>
+</item>
+<item>
 <title>[75] [AINews] Perplexity hits a $1B revenue run rate, up 4x in 2026</title>
 <link>https://latent.space/p/ainews-perplexity-hits-a-1b-revenue-run-rate-up-4x-in-2026/</link>
 <guid isPermaLink="true">https://latent.space/p/ainews-perplexity-hits-a-1b-revenue-run-rate-up-4x-in-2026/</guid>
 <pubDate>Tue, 17 Nov 2026 09:24:56 +0000</pubDate>
 <category>Latent Space</category>
 <description>November 16, 2026 — Computer gets Teammates, Perplexity ships Monitor API, and a new research lab launches. — Latent Space / score: 75 (Perplexityの収益急成長とAI動向)</description>
+</item>
+<item>
+<title>[75] AWS IAM announces Access Troubleshooter to debug access denied errors</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/iam-access-troubleshooter/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/iam-access-troubleshooter/</guid>
+<pubDate>Tue, 17 Nov 2026 08:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS Identity and Access Management (IAM) introduces Access Troubleshooter , a new capability that gives you visibility into the full authorization context behind access denied errors so you can resolve them without trial-and-error. Previously, developers relied on the Amazon Resource Name (ARN) of the denying policy to debug a denial, with no visibility into the authorization context or other policies evaluated in the request that could contribute to the denial. This made troubleshooting access  — AWS What's New / score: 75 (IAMの権限エラーデバッグを効率化する実用的な機能。)</description>
 </item>
 <item>
 <title>[75] ChatGPTやClaudeがMacを操作する時代に--Appleが「macOS 27.3」で対応強化</title>
@@ -743,6 +751,14 @@
 <description>How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems. — OpenAI News / score: 75 (NATO等とAIを活用したサイバー防衛強化の取り組み)</description>
 </item>
 <item>
+<title>[75] Claude Platform release notes — November 17, 2026</title>
+<link>https://platform.claude.com/docs/en/release-notes/overview#linked-billing</link>
+<guid isPermaLink="true">https://platform.claude.com/docs/en/release-notes/overview#linked-billing</guid>
+<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+<category>Claude リリースノート</category>
+<description>We’ve launched Linked billing in beta with the user-profiles-billing-2026-10-01 beta header. Your customers can now pay for the Claude usage in your app through their own Claude organization. Once a customer links their organization, set billing_policy on each /v1/messages or /v1/chat/completions request to choose who pays. In the Claude Console, customers can set a spend cap for your app or unlink your app. Linked billing works for customers whose organization pays Anthropic directly for API us — Claude リリースノート / score: 75 (Claudeプラットフォームのマネージドエージェント更新)</description>
+</item>
+<item>
 <title>[75] AWSインシデント対応の段階的隔離戦略を考えてみた | DevelopersIO</title>
 <link>https://dev.classmethod.jp/articles/aws-incident-response-phased-isolation/</link>
 <guid isPermaLink="true">https://dev.classmethod.jp/articles/aws-incident-response-phased-isolation/</guid>
@@ -789,22 +805,6 @@
 <pubDate>Mon, 16 Nov 2026 07:29:45 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>企業向けAIエージェントを開発するSierraは2026年11月13日、個人向けAIエージェントと企業のやり取りを定めるPersonal Agent Protocol（通称Poppy）のバージョン1.0を公開したと発表した。Shopifyの全ストアが対応し、MetaのAIエージェントMuseでは、すべてのユーザーがPoppyを利用できるようになった。 — gihyo.jp / score: 75 (AIエージェント向け新プロトコルの公開)</description>
-</item>
-<item>
-<title>[75] サイバー攻撃 AI「自律化」が脅威</title>
-<link>https://news.yahoo.co.jp/pickup/6602770?source=rss</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6602770?source=rss</guid>
-<pubDate>Mon, 16 Nov 2026 03:07:35 +0000</pubDate>
-<category>Yahoo!ニュース IT</category>
-<description> — Yahoo!ニュース IT / score: 75 (サイバー攻撃のAI自律化という重要なセキュリティ脅威)</description>
-</item>
-<item>
-<title>[75] 【速報】Google「Gemini 4 Hydrogen」登場！Argon・Carbonとの比較で読み解く Gemini 4 シリーズまとめ</title>
-<link>https://qiita.com/tomokoro/items/41cc59d0085fa03c5d52?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/tomokoro/items/41cc59d0085fa03c5d52?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Mon, 16 Nov 2026 01:31:54 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>1. はじめに 2026年11月12日、Google DeepMindよりGemini 4ファミリーの最新モデル「Gemini 4 Hydrogen」が発表されました。 Gemini 4 シリーズは、2026年10月1日の「Gemini 4 Argon」発表（10月13日... — Qiita 人気記事 / score: 75 (Googleの新しいGeminiモデル発表速報)</description>
 </item>
 </channel>
 </rss>
