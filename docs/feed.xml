@@ -4,8 +4,48 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Tue, 17 Nov 2026 14:06:43 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 16:07:05 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>楽天証券から漏洩した情報とは？　テスト環境に一時的に置いた顧客データを狙われたか（山口健太） - エキスパート - Yahoo!ニュース</title>
+<link>https://news.yahoo.co.jp/expert/articles/a46f1f27a0870d14588ebdbaa074fb457c0d95b3</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/expert/articles/a46f1f27a0870d14588ebdbaa074fb457c0d95b3</guid>
+<pubDate>Tue, 17 Nov 2026 15:13:38 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>11月17日、楽天証券が不正アクセスによる情報漏洩の可能性について発表しました。 不正アクセスを受けたのはテスト環境とのことですが、具体的にどのような情報が流出したのか、またなぜテスト環境に顧客データを置いていたのか、広報部に聞いてみました。 テスト環境に置かれた合計約1572万口座のデータが漏洩か楽天証... — はてなブックマーク テクノロジー / score: 85 (大手証券会社での大規模な情報漏洩インシデント)</description>
+</item>
+<item>
+<title>発表会速報!! LマウントでSH1やS5M2からのアプデにも最適＝81万円で買えるコンパクト・シネマカメラ「LUMIX SHX1」を発表</title>
+<link>https://ascii.jp/elem/000/004/450/4450356/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/450/4450356/?rss</guid>
+<pubDate>Tue, 17 Nov 2026 15:01:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>LUMIX Sシリーズと同じLマウントでLUMIXで培ったボディ内手振れ補正機能、被写体認識AFを搭載しています — ASCII.jp / score: 50 (新型シネマカメラの発表に関するハードウェア情報)</description>
+</item>
+<item>
+<title>Cloudflare Joins the Jevolution and Labels Itself a Neolab</title>
+<link>https://latent.space/p/cloudflare/</link>
+<guid isPermaLink="true">https://latent.space/p/cloudflare/</guid>
+<pubDate>Tue, 17 Nov 2026 15:00:00 +0000</pubDate>
+<category>Latent Space</category>
+<description>Cloudflare made its name speeding up the web. Now it's building System One models to make decisions and pull data in milliseconds. — Latent Space / score: 70 (CloudflareのAI分野への参入に関するニュース)</description>
+</item>
+<item>
+<title>22万7800円～！ 最強スナドラ、背面ディスプレー、FeliCa、ライカカメラのシャオミ「Xiaomi 18 Pro Max」が正式発表</title>
+<link>https://ascii.jp/elem/000/004/452/4452462/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/452/4452462/?rss</guid>
+<pubDate>Tue, 17 Nov 2026 15:00:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>シャオミ・ジャパンは、最新SoC、デュアル2億画素のライカカメラ、背面ディスプレーなどが特徴のハイエンドスマホ「Xiaomi 18 Pro」シリーズを正式発表した。FeliCaも搭載する上位モデルのXiaomi 18 Pro Maxは先行価格で22万7800円～ — ASCII.jp / score: 45 (ハイエンドスマートフォンの新製品発表)</description>
+</item>
+<item>
+<title>RTX 5090搭載PCが21万6,000円引き　パソコンショップSEVEN、11月18日限定セール</title>
+<link>https://ascii.jp/elem/000/004/452/4452023/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/452/4452023/?rss</guid>
+<pubDate>Tue, 17 Nov 2026 15:00:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>パソコンショップSEVENは、11月18日0時から23時59分まで全10商品を対象に限定セールを実施する。Ryzen 9 9950X、RTX 5090、128GBメモリ搭載の「ZEFT R60V」が21万6,000円引き。RTX 5070 Ti搭載モデルも対象となり、掲載の3モデルはいずれも送料無料。 — ASCII.jp / score: 30 (PCショップによるパーツ搭載モデルのセール情報)</description>
+</item>
 <item>
 <title>VRAMが数百GBなくてもGPU1基でGLM-5.3-Flashを動かすことができる「Project Maya」</title>
 <link>https://gigazine.net/news/20261117-project-maya/</link>
@@ -13,6 +53,14 @@
 <pubDate>Tue, 17 Nov 2026 14:00:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>AIモデルを自分のPCで動かす場合はモデルのデータをVRAMに読み込みますが、数千億パラメーター級の巨大なモデルを動かすのに必要なメモリは数百GB単位になるため自前環境で動かすことはほぼ不可能です。そこでVRAM・メインメモリ・SSDを組み合わせて条件をクリアすれば、GPU1基の環境でも巨大モデルを実行できるようにするための無料のオープンソースツールが「Project Maya」です。 続きを読む... — GIGAZINE / score: 70 (VRAM不足を補う巨大AIモデル実行OSSツール)</description>
+</item>
+<item>
+<title>COLD RELIC: A Case Study in Impersonation and Compromise</title>
+<link>https://cloud.google.com/blog/topics/threat-intelligence/cold-relic-a-case-study-in-impersonation-and-compromise/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/threat-intelligence/cold-relic-a-case-study-in-impersonation-and-compromise/</guid>
+<pubDate>Tue, 17 Nov 2026 14:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Written by: Josh Murchie, John Wolfram, Joseph Spero, Peter Ukhanov, Fernando Tomlinson, Jr., Wesley Shields Introduction Over the past year, Mandiant has responded to a series of linked intrusions demonstrating how Russian cyber espionage group COLD RELIC (formerly tracked as COLDRIVER and UNC4057; also known as Star Blizzard, Callisto, and Gossamer Bear) turns a single cloud compromise into a springboard for ongoing third party compromise and espionage. Most recently, Mandiant investigated a 2 — Google Cloud Blog / score: 80 (Google Mandiantによるセキュリティ侵害の事例研究)</description>
 </item>
 <item>
 <title>頭まるごと透明な魚「デメニギス」。初の4K動画が撮影される</title>
@@ -26,12 +74,12 @@
 <title>自動でクレーンのようにモノをつかんで部屋をお片付けしてくれるオープンソースロボット「Stringman」</title>
 <link>https://gigazine.net/news/20261117-stringman-cable-robot/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261117-stringman-cable-robot/</guid>
-<pubDate>Tue, 17 Nov 2026 13:30:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>オープンソースハードウェアを開発するNeufangled Roboticsが、床に散らばったおもちゃや衣類を片付けるためのロボット「Stringman」を開発しました。天井近くの四隅から伸ばしたラインで2本指の「手」をつり下げ、クレーンのように動かしてモノを運んでもらうことができます。 続きを読む... — GIGAZINE / score: 60 (部屋の片付けを行うオープンソースロボット)</description>
+<pubDate>Tue, 17 Nov 2026 13:35:16 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>オープンソースハードウェアを開発するNeufangled Roboticsが、床に散らばったおもちゃや衣類を片付けるためのロボット「Stringman」を開発しました。天井近くの四隅から伸ばしたラインで2本指の「手」をつり下げ、クレーンのように動かしてモノを運んでもらうことができます。 Stringman from Neufangled Robotics http... — はてなブックマーク テクノロジー / score: 60 (部屋の片付けを行うオープンソースロボット)</description>
 </item>
 <item>
-<title>モバイルAIペット誕生。話しかけるとSwitchBot家電もうごかせる</title>
+<title>モバイルなAIペット誕生。話しかけるとSwitchBot家電もうごかせる</title>
 <link>https://www.gizmodo.jp/article/2611-switchbot-katafriends-mini-ai-pet/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/2611-switchbot-katafriends-mini-ai-pet/</guid>
 <pubDate>Tue, 17 Nov 2026 13:30:00 +0000</pubDate>
@@ -93,6 +141,14 @@
 <pubDate>Tue, 17 Nov 2026 12:18:14 +0000</pubDate>
 <category>気になる、記になる…</category>
 <description>Insta360が、公式ストアとAmazonにおいて、「アクションカメラ特別セール」を開催しています。 「アクションカメラ特別セール」では対象のアクションカメラが最大35％オフで販売されており、「Insta360 Ace […] — 気になる、記になる… / score: 20 (アクションカメラのセール情報)</description>
+</item>
+<item>
+<title>カンファレンスノベルティの話から考える、技術カンファレンスの続け方 - 941::blog</title>
+<link>https://blog.kushii.net/archives/2026/11/17/211328</link>
+<guid isPermaLink="true">https://blog.kushii.net/archives/2026/11/17/211328</guid>
+<pubDate>Tue, 17 Nov 2026 12:15:20 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>技術カンファレンスのノベルティがいらない、という話をXで見かけました。 年間20以上の技術カンファレンスに参加するので、その気持ちはよくわかります。名入れされていると捨てるのも忍びないし、そんなに欲しいかと言われると悩ましい。 わたしは技術カンファレンスの運営に15年以上関わり、スポンサー担当もかなりの... — はてなブックマーク テクノロジー / score: 45 (技術カンファレンスの運営に関するブログ記事)</description>
 </item>
 <item>
 <title>SpaceXに続いて。AnthropicのIPOも中国本土と香港の機関投資家を締め出し</title>
@@ -282,9 +338,9 @@
 <title>ブラウザ上でWindows 98向けソフトのオリジナル実行ファイルが動作するエミュレーター「Wine-Assembly」</title>
 <link>https://gigazine.net/news/20261117-wine-assembly/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261117-wine-assembly/</guid>
-<pubDate>Tue, 17 Nov 2026 10:50:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>ブラウザ上で動作するWindows 98エミュレーター「Wine-Assembly」が公開されています。OSイメージやソースポートは一切使用せず完全にクライアント側で動作していて、エミュレーター内で動作するプログラムの設定やスコアはブラウザ内にローカル保存されます。 続きを読む... — GIGAZINE / score: 40 (ブラウザ上で動くWin98エミュレーター)</description>
+<pubDate>Tue, 17 Nov 2026 10:53:18 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>ブラウザ上で動作するWindows 98エミュレーター「Wine-Assembly」が公開されています。OSイメージやソースポートは一切使用せず完全にクライアント側で動作していて、エミュレーター内で動作するプログラムの設定やスコアはブラウザ内にローカル保存されます。 GitHub - vgrichina/berrry-wine: Run real Windows 98 app... — はてなブックマーク テクノロジー / score: 40 (ブラウザ上で動くWin98エミュレーター)</description>
 </item>
 <item>
 <title>有線派も振り向く!? 最大192kHz/24bit対応、オーディオテクニカの新型フラッグシップ</title>
@@ -439,14 +495,6 @@
 <description>AIがコードを書き散らして認知的負荷が限界に達する今日この頃、皆様いかがお過ごしでしょうか。 AIによってテストカバレッジを上げることは容易になりました。僕も「分岐カバレッジを80%以上にしろ」みたいな雑なプロンプトを書いて昼飯に行ったりします。帰ってきたらヨシっ！ってマージするわけですね。 ところでその... — はてなブックマーク テクノロジー / score: 45 (Mutation Testingの解説記事)</description>
 </item>
 <item>
-<title>楽天証券に不正アクセス、最大1125万口座のログインIDなど漏えいのおそれ</title>
-<link>https://japan.cnet.com/article/35255023/</link>
-<guid isPermaLink="true">https://japan.cnet.com/article/35255023/</guid>
-<pubDate>Tue, 17 Nov 2026 09:54:23 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>同社は11月16日、一部システムへの不正アクセスの可能性を検知し、該当箇所へのアクセスを遮断するなどの対策を講じた。その後の調査で、11月11日にテスト環境で管理していた情報の一部が外部に漏えいしたおそれがあると判明した。不正アクセスの原因や詳しい経緯は引き続き調査している。 また、部店・お客様コードとロ... — はてなブックマーク テクノロジー / score: 90 (楽天証券の大規模情報漏えいに関する続報)</description>
-</item>
-<item>
 <title>【期間限定】寝るだけじゃない！Novillaの多用途薄型マットレスを特別価格で。毎日の暮らしをもっと快適に！</title>
 <link>https://ascii.jp/elem/000/004/452/4452454/?rss</link>
 <guid isPermaLink="true">https://ascii.jp/elem/000/004/452/4452454/?rss</guid>
@@ -503,6 +551,14 @@
 <description>November 16, 2026 — Computer gets Teammates, Perplexity ships Monitor API, and a new research lab launches. — Latent Space / score: 75 (Perplexityの収益急成長とAI動向)</description>
 </item>
 <item>
+<title>メンテナンスモードだったはずでは？ 「Adobe Animate 2027」で懐かしFlashアニメが！／約3年ぶりの機能追加、2Dの絵をAIで回せるターンテーブルを搭載【やじうまの杜】</title>
+<link>https://forest.watch.impress.co.jp/docs/serial/yajiuma/2157125.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/serial/yajiuma/2157125.html</guid>
+<pubDate>Tue, 17 Nov 2026 09:23:20 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>メンテナンスモードだったはずでは？ 「Adobe Animate 2027」で懐かしFlashアニメが！／約3年ぶりの機能追加、2Dの絵をAIで回せるターンテーブルを搭載【やじうまの杜】 — はてなブックマーク テクノロジー / score: 50 (Adobe Animateの機能追加話題)</description>
+</item>
+<item>
 <title>楽天証券に不正アクセス 最大1125万口座の情報漏えい可能性</title>
 <link>https://www.watch.impress.co.jp/docs/news/2157207.html</link>
 <guid isPermaLink="true">https://www.watch.impress.co.jp/docs/news/2157207.html</guid>
@@ -519,12 +575,12 @@
 <description>約5年前に自分で録音した歌声をYouTubeに投稿していたミュージシャンが、AIを活用する音楽配信企業から著作権侵害を申し立てられて動画を削除される事態が発生しました。ミュージシャンは2回にわたって異議を申し立てたものの認められませんでした。問題を解決するまでの経緯をテクノロジーメディアの404 Mediaが報じて... — はてなブックマーク テクノロジー / score: 65 (AI著作権侵害の誤検知問題と影響)</description>
 </item>
 <item>
-<title>メンテナンスモードだったはずでは？ 「Adobe Animate 2027」で懐かしFlashアニメが！／約3年ぶりの機能追加、2Dの絵をAIで回せるターンテーブルを搭載【やじうまの杜】</title>
-<link>https://forest.watch.impress.co.jp/docs/serial/yajiuma/2157125.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/serial/yajiuma/2157125.html</guid>
-<pubDate>Tue, 17 Nov 2026 09:04:32 +0000</pubDate>
-<category>窓の杜</category>
-<description>「やじうまの杜」では、ニュース・レビューにこだわらない幅広い話題をお伝えします。 — 窓の杜 / score: 50 (Adobe Animateの機能追加話題)</description>
+<title>人型ロボットに人間の動きを学習させるためのAI「GR00T 2」をNVIDIAが発表、数回のお手本からタスクを学べる</title>
+<link>https://gigazine.net/news/20261117-nvidia-robot-gr00t-2/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261117-nvidia-robot-gr00t-2/</guid>
+<pubDate>Tue, 17 Nov 2026 09:07:34 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>NVIDIAがロボットを操作するための世界行動モデル「GR00T 2」を発表しました。 GR00T 2: Scaling Robot Foundation Models for Generalization, Dexterity, and Adaptation https://research.nvidia.com/labs/gear/gr00t-2/ GR00T 2は「人間の動作を記録した合計40万2730時間の動画」「人間が手持ちグリッパーを操作する... — はてなブックマーク テクノロジー / score: 85 (NVIDIAのロボット学習AIの発表)</description>
 </item>
 <item>
 <title>ゲットワークス、デル・テクノロジーズの水冷B300GPUサーバー XE9780Lをコンテナ型データセンターへ導入。</title>
@@ -597,38 +653,6 @@
 <pubDate>Tue, 17 Nov 2026 09:00:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>UGREENの100W対応3ポート充電器が45%OFFの4,880円で販売中。小型ながらPCと複数のデバイスを同時に高速充電できる優れた持ち運び用充電器の魅力をご紹介します。 — ギズモード・ジャパン / score: 15 (ガジェットの一般的なセール情報であり技術的重要度は低い)</description>
-</item>
-<item>
-<title>人型ロボットに人間の動きを学習させるためのAI「GR00T 2」をNVIDIAが発表、数回のお手本からタスクを学べる</title>
-<link>https://gigazine.net/news/20261117-nvidia-robot-gr00t-2/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261117-nvidia-robot-gr00t-2/</guid>
-<pubDate>Tue, 17 Nov 2026 08:54:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>NVIDIAがロボットを操作するための世界行動モデル「GR00T 2」を発表しました。 続きを読む... — GIGAZINE / score: 85 (NVIDIAのロボット学習AIの発表)</description>
-</item>
-<item>
-<title>11月23日 地産地消餌「激集」を試験利用できるイベントを仁科漁港で開催！</title>
-<link>https://ascii.jp/elem/000/004/452/4452436/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/452/4452436/?rss</guid>
-<pubDate>Tue, 17 Nov 2026 08:50:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>11月23日 地産地消餌「激集」を試験利用できるイベントを仁科漁港で開催！ — ASCII.jp / score: 5 (地域限定の漁業イベント情報)</description>
-</item>
-<item>
-<title>テプラのあの余白、もったいなくない？ 1枚約10mm削減できる最上位モデルが40％オフ</title>
-<link>https://ascii.jp/elem/000/004/451/4451877/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/451/4451877/?rss</guid>
-<pubDate>Tue, 17 Nov 2026 08:50:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>キングジムのラベルプリンター「テプラ」PRO SR-R7900PがAmazonで割引対象。参考価格69,300円から40％オフの41,609円で販売中。従来機SR5900Pよりラベル1枚あたり約10mmの余白を削減。50mm幅のラベルや45m巻きのEXロングテープにも対応する。テープの無駄を抑えながら、大量のラベルを効率よく作れる最上位モデルだ。 — ASCII.jp / score: 35 (効率化ガジェットのセール情報)</description>
-</item>
-<item>
-<title>最低賃金1,176円時代、AI導入の前にやるべきは「1週間の時間計測」</title>
-<link>https://ascii.jp/elem/000/004/452/4452439/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/452/4452439/?rss</guid>
-<pubDate>Tue, 17 Nov 2026 08:43:56 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>最低賃金1,176円時代、AI導入の前にやるべきは「1週間の時間計測」 — ASCII.jp / score: 25 (ビジネス・業務効率化の一般論)</description>
 </item>
 <item>
 <title>当社お客様の情報漏えいの可能性に関するお詫びとお知らせ:楽天証券</title>
@@ -767,14 +791,6 @@
 <description>本日、SwitchBotが、新型ハブ「ハブ4」を正式に発表しました。 「ハブ4」は外観デザインこそ「ハブ3」から大きな変更はないものの、前面のダイヤル周りにあった各種物理ボタンが廃止され、全てタッチ式になった他、「Hel […] — 気になる、記になる… / score: 25 (スマートホームハブの新製品)</description>
 </item>
 <item>
-<title>Apple、自立型AIエージェントによる情報漏洩やプライバシー侵害のリスクに対し、macOS 27.3 Golden Gate Beta 2で、フルディスクアクセスの細分化やアプリのアクセス許可の明示化などを開始。</title>
-<link>https://applech2.com/archives/20261117-apple-strengthens-macos-security-against-risks-from-ai-agents.html</link>
-<guid isPermaLink="true">https://applech2.com/archives/20261117-apple-strengthens-macos-security-against-risks-from-ai-agents.html</guid>
-<pubDate>Tue, 17 Nov 2026 07:32:46 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Appleが自立型AIエージェントによる情報漏洩やプライバシー侵害対策として、macOS 27.3 Golden Gate Beta 2で、Macのフルディスクアクセスを細分化＆アクセス許可の明示化を開始すると発表しています。詳細は以下から。 Appleは現地時間2026年11月16日、今年09月にリリースした「macOS 27 Golden Gate」の2度目のマイナ... — はてなブックマーク テクノロジー / score: 75 (macOSベータにおけるAIプライバシー保護強化)</description>
-</item>
-<item>
 <title>ロシアが外国のインフルエンサーを招いて占領地周遊ツアーを開催し占領を正当化するプロパガンダを展開している</title>
 <link>https://gigazine.net/news/20261117-foreign-infruencer-donetsk/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261117-foreign-infruencer-donetsk/</guid>
@@ -789,22 +805,6 @@
 <pubDate>Tue, 17 Nov 2026 07:24:10 +0000</pubDate>
 <category>iPhone Mania</category>
 <description>AIのキャラクターと恋愛を楽しむチャットアプリで、App Storeの年齢区分を18+に引き上げる例が出ています。Appleは11月16日から、AIと恋愛的なやり取りをするアプリに18+の区分を求め始めました。利用者の多 […] — iPhone Mania / score: 35 (App StoreのAIアプリ規制)</description>
-</item>
-<item>
-<title>「pmconf 2026」東京会場のタイムテーブルが公開、チケットは販売開始から約1時間15分で完売</title>
-<link>https://codezine.jp/article/detail/30391</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/30391</guid>
-<pubDate>Tue, 17 Nov 2026 07:20:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 40 (技術カンファレンスのタイムテーブル公開とチケット完売)</description>
-</item>
-<item>
-<title>ローカルLLM入門</title>
-<link>https://zenn.dev/port_inc/articles/ff974c7456f4db</link>
-<guid isPermaLink="true">https://zenn.dev/port_inc/articles/ff974c7456f4db</guid>
-<pubDate>Tue, 17 Nov 2026 07:17:24 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>! 2026年10月にポート株式会社として公立はこだて未来大学で行ったゲスト講義「生成AI × UI/UX」の前半2章に、講義のあとで調べた内容を加えて記事にしたものです。 数値・モデル名・価格は 2026年10月30日時点 のものです。 こんにちは、ポートのTeslaです。 公立はこだて未来大学にてローカルLLMに関する講義を行いました。 この記事では、LLMを手元のPCやブラウザで動かすための仕組みを、次の流れで整理します。 モデルの正体と置き場所、クローズドとオープンの差 生成の仕組み：速度を決めるのは計算性能ではなく メモリ帯域 メモリと量子化：手元で何がどれくらい動くか ... — Zenn トレンド / score: 45 (ローカルLLM入門に関する解説記事)</description>
 </item>
 </channel>
 </rss>
