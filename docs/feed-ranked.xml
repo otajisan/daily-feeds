@@ -4,8 +4,16 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Tue, 17 Nov 2026 04:07:31 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 06:10:45 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>[95] paiza、動作検証環境のアクセス管理不備で個人情報最大約90万件が10年以上外部からアクセス可能に　本番環境のデータを動作検証環境へ複製・保管</title>
+<link>https://internet.watch.impress.co.jp/docs/news/2156774.html</link>
+<guid isPermaLink="true">https://internet.watch.impress.co.jp/docs/news/2156774.html</guid>
+<pubDate>Mon, 16 Nov 2026 23:22:24 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>paiza、動作検証環境のアクセス管理不備で個人情報最大約90万件が10年以上外部からアクセス可能に 本番環境のデータを動作検証環境へ複製・保管 — はてなブックマーク テクノロジー / score: 95 (検証環境の不備による大規模な個人情報長期間流出)</description>
+</item>
 <item>
 <title>[95] 「PostgreSQL」でセキュリティアップデート、「PostgreSQL 14」は最後の更新に／52件の脆弱性と、ここ数カ月に報告された140件を超える不具合が修正</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2156215.html</link>
@@ -31,12 +39,28 @@
 <description>OpenAIは2026年11月4日、開発中のサイバーセキュリティ向けAIモデルを活用し、Linuxカーネルの脆弱性をエージェントが自律的に発見し検証した結果を発表した。 — gihyo.jp / score: 95 (AIによるLinuxカーネルの脆弱性大量発見と実証の画期的なニュース)</description>
 </item>
 <item>
+<title>[90] Google Project Zero、脆弱性の開示期限を段階的に30日へ短縮／AIで発見・悪用が高速化、パッチ展開の猶予や大半の特例を廃止</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2156900.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2156900.html</guid>
+<pubDate>Tue, 17 Nov 2026 04:33:23 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Googleの脆弱性調査チーム「Project Zero」は11月13日（現地時間）、脆弱性の情報開示ポリシーを改定すると発表した。同チームは2021年以降、「90＋30」と呼ばれる開示ポリシーを採用してきた。これはベンダーに最大90日の修正期間を与え、さらにパッチを展開するための“ソークタイム”として30日を追加するというものだ。しかし、脆弱性の発見やエクスプロイト（攻撃コード）の作成にAIが活用されるようになり、状況が大きく変わったとして、「Full X」と呼ばれる開示ポリシーが新たに採用されることになった。 — 窓の杜 / score: 90 (Google Project Zeroの脆弱性開示期限短縮)</description>
+</item>
+<item>
 <title>[90] エレコム、無線LANルーター3機種の脆弱性対策を案内　ファームウェアVer.2.2.3以降へ</title>
 <link>https://ascii.jp/elem/000/004/452/4452093/?rss</link>
 <guid isPermaLink="true">https://ascii.jp/elem/000/004/452/4452093/?rss</guid>
 <pubDate>Tue, 17 Nov 2026 04:00:00 +0000</pubDate>
 <category>ASCII.jp</category>
 <description>エレコムは、無線LANルーター「WRC-BE36QS-B」「WRC-BE36QSD-B」「WRC-W701-B」の脆弱性対策として、ファームウェアVer.2.2.3以降への更新を案内した。工場出荷時の設定では自動更新されるため追加操作は不要。設定を変更した利用者には更新状況の確認を促している。 — ASCII.jp / score: 90 (無線LANルーターのセキュリティ脆弱性対策)</description>
+</item>
+<item>
+<title>[90] モリサワや「mineo」など会員情報漏えい　マーケツール「KARTE」不正アクセス、外部サービス連携用シークレットキーなども</title>
+<link>https://www.itmedia.co.jp/news/article/2611/17/2000003257/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/17/2000003257/</guid>
+<pubDate>Tue, 17 Nov 2026 03:51:09 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>プレイドは11月16日、企業向けマーケティングサービス「KARTE」（カルテ）が13日に不正アクセスを受け、利用企業のアカウント情報や、利用企業から預かっている顧客情報の一部、利用企業が外部サービスとの連携に使うシークレットキーなどが漏えいしたと発表した。 この影響で、阪急阪神ホテルズは会員の氏名や住所など... — はてなブックマーク テクノロジー / score: 90 (マーケツールの不正アクセスによる大規模な情報漏えい)</description>
 </item>
 <item>
 <title>[90] スーパーコンピューター「富岳」への不正アクセスについてまとめてみた - piyolog</title>
@@ -53,14 +77,6 @@
 <pubDate>Mon, 16 Nov 2026 15:23:40 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>概要 理化学研究所（理研）計算科学研究センターが運用するスーパーコンピュータ「富岳」[1]の運用系システムに対し、11月12日に外部の第三者による不正アクセスがあったことを、11月13日に確認しました。 調査の結果、「富岳」の利用者のホームディレクトリに保存されていたファイルの一部と、利用者の認証システムに登... — はてなブックマーク テクノロジー / score: 90 (理研による富岳不正アクセスの公式詳細発表)</description>
-</item>
-<item>
-<title>[90] スパコン「富岳」不正アクセス受け停止　利用者情報流出の恐れ | 毎日新聞</title>
-<link>https://mainichi.jp/articles/20261116/k00/00m/040/139000c</link>
-<guid isPermaLink="true">https://mainichi.jp/articles/20261116/k00/00m/040/139000c</guid>
-<pubDate>Mon, 16 Nov 2026 13:51:52 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>理化学研究所計算科学研究センターのスーパーコンピューター「富岳」＝神戸市中央区で2020年6月16日、望月亮一撮影 理化学研究所が運用するスーパーコンピューター「富岳」のシステムが、今月12日に外部の第三者から不正アクセスを受けたことが判明した。富岳は企業や大学が研究開発に活用しており、利用者約4200人分の... — はてなブックマーク テクノロジー / score: 90 (スパコン富岳不正アクセス・停止の速報)</description>
 </item>
 <item>
 <title>[90] 【速報】日清食品　LINE公式アカウントに「友だち追加」していたユーザーIDやアカウント名137万件超情報漏えい　外部サービスに不正アクセスで | TBS NEWS DIG</title>
@@ -231,6 +247,22 @@
 <description>The November 2026 security release for Next.js is now available — Next.js Blog / score: 90 (重要フレームワークの緊急セキュリティアップデート)</description>
 </item>
 <item>
+<title>[85] エレコム、Wi-Fiルーター「WRC-W701-B」などに脆弱性　最新ファームにアップデートを</title>
+<link>https://ascii.jp/elem/000/004/452/4452273/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/452/4452273/?rss</guid>
+<pubDate>Tue, 17 Nov 2026 06:05:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>Japan Vulnerability Notes（JVN）は11月17日、エレコムのWi-Fiルーター「WRC-W701-B」「WRC-BE36QSD-B」「WRC-BE36QS-B」に関する脆弱性情報を公開した。 — ASCII.jp / score: 85 (Wi-Fiルーターの脆弱性情報とアップデート告知)</description>
+</item>
+<item>
+<title>[85] OpenAIによるHugging Faceハッキング事件でカリフォルニア州司法長官がOpenAIを提訴</title>
+<link>https://gigazine.net/news/20261117-california-doj-sue-openai/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261117-california-doj-sue-openai/</guid>
+<pubDate>Tue, 17 Nov 2026 04:50:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>2026年7月、OpenAIのAIエージェントがHugging Faceを誤ってハッキングしてしまう事件が発生しました。この件に関連し、「AIを適切に保護せず、消費者や市民を危険にさらした」として、カリフォルニア州司法長官がOpenAIを訴えたことが分かりました。 続きを読む... — GIGAZINE / score: 85 (AIエージェントのハッキング事件による司法長官提訴)</description>
+</item>
+<item>
 <title>[85] MicrosoftがOutlookの大規模障害の原因を公表、2026年7月のバグ修正が引き金となりサーバーの80％以上が応答不能に</title>
 <link>https://gigazine.net/news/20261117-microsoft-outlook-incidents-updates/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261117-microsoft-outlook-incidents-updates/</guid>
@@ -253,14 +285,6 @@
 <pubDate>Tue, 17 Nov 2026 02:30:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>アメリカ商務省の産業安全保障局(BIS)は2026年11月16日、中国などの企業が第三国のデータセンターを経由して高性能なAIチップを遠隔利用することを制限する新たな規則を発表しました。従来の半導体輸出規制ではカバーできなかったクラウド経由での計算資源の利用を規制することで、先端AI技術の流出を防ぐ狙いがあります。 続きを読む... — GIGAZINE / score: 85 (AIチップのクラウド経由輸出規制に関する新規則)</description>
-</item>
-<item>
-<title>[85] Microsoft 365大規模障害、Outlookだけ復旧が遅れた理由とは　同社説明</title>
-<link>https://japan.cnet.com/article/35254971/</link>
-<guid isPermaLink="true">https://japan.cnet.com/article/35254971/</guid>
-<pubDate>Tue, 17 Nov 2026 00:08:33 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>同社幹部のCharles Lamanna氏が11月16日、暫定的な原因分析をXで公開した。障害が発生したのは、複数のMicrosoft 365サービスへの接続を中継する「ネットワークゲートウェイ」。同氏は、3つの要因が重なったと説明している。 3つの要因が重なり、サーバが次々に応答不能に 1つ目は、7月に展開を始めたゲートウェイ専用の... — はてなブックマーク テクノロジー / score: 85 (Microsoft 365大規模障害の原因詳細と技術的解説)</description>
 </item>
 <item>
 <title>[85] ナンバープレートだけでハックできる。自動車アプリにガバガバの脆弱性</title>
@@ -527,6 +551,14 @@
 <description>JEP 401 (Value Objects) arrives in OpenJDK as a preview feature, enabling a new Java type model with minimal code changes. The talk explains what value objects are, JVM benefits, Valhalla history, implementation details, and the path toward bridging objects and primitives, including future support like List&lt;int&gt;. — Inside Java / score: 82 (Java Valhallaプロジェクトの解説と進化)</description>
 </item>
 <item>
+<title>[80] Metaが1400億円超の罰金を科される、Androidの写真をスキャンするFacebook機能が原因</title>
+<link>https://gigazine.net/news/20261117-italy-fines-meta-facebook-scan/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261117-italy-fines-meta-facebook-scan/</guid>
+<pubDate>Tue, 17 Nov 2026 04:40:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>Android版Facebookアプリがスマートフォンに保存されている写真や動画を勝手に覗いていたとして、イタリアの個人情報保護機関がMetaに8億500万ユーロ(約1410億円)の制裁金を科したことが分かりました。 続きを読む... — GIGAZINE / score: 80 (Metaのプライバシー侵害問題に対する巨額の罰金)</description>
+</item>
+<item>
 <title>[80] JPモルガン・チェースの技術的問題でアメリカのオンラインバンキングに次々と障害発生</title>
 <link>https://gigazine.net/news/20261117-bank-outage-chase/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261117-bank-outage-chase/</guid>
@@ -655,6 +687,30 @@
 <description>November 9, 2026 — Claude Fable 5.2 and Mythos 5.2 arrive on Anthropic’s IPO roadshow day. How much thinking is worth paying for? — Latent Space / score: 78 (主要LLMの性能逆転とIPO動向)</description>
 </item>
 <item>
+<title>[75] Vercel、「Workflow SDK 5」を提供開始　暗号化やリージョン対応、性能を強化</title>
+<link>https://codezine.jp/article/detail/30381</link>
+<guid isPermaLink="true">https://codezine.jp/article/detail/30381</guid>
+<pubDate>Tue, 17 Nov 2026 05:30:00 +0000</pubDate>
+<category>CodeZine</category>
+<description> — CodeZine / score: 75 (VercelのWorkflow SDK 5の提供開始)</description>
+</item>
+<item>
+<title>[75] Appleがアプリのデータアクセス範囲をわかりやすく詳細に指定できるようにアップデート、AIエージェントの意図せぬデータアクセスを防ぐことが狙いか</title>
+<link>https://gigazine.net/news/20261117-macos-control-data-access-full-disk/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261117-macos-control-data-access-full-disk/</guid>
+<pubDate>Tue, 17 Nov 2026 04:37:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>現地時間の2026年11月16日、AppleがmacOS 27.3 beta 2でアプリに許可されているデータアクセスの範囲をよりわかりやすく、細かく指定できるよう権限設定を見直したことを発表しました。これはAIエージェントがユーザーの意図しないデータにアクセスすることを防ぐための措置であると報じられています。 続きを読む... — GIGAZINE / score: 75 (AppleのOSにおけるAI対応データアクセス権限の見直し)</description>
+</item>
+<item>
+<title>[75] Amazon DynamoDB、S3から既存テーブルへ書き込む「bulk put items」</title>
+<link>https://codezine.jp/article/detail/30380</link>
+<guid isPermaLink="true">https://codezine.jp/article/detail/30380</guid>
+<pubDate>Tue, 17 Nov 2026 04:00:00 +0000</pubDate>
+<category>CodeZine</category>
+<description> — CodeZine / score: 75 (Amazon DynamoDBの新機能追加)</description>
+</item>
+<item>
 <title>[75] Uber、ドライバーの個人情報約8,000件が盗まれる</title>
 <link>https://www.gizmodo.jp/article/2611-uber-driver-data-breach-fireworks-ai/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/2611-uber-driver-data-breach-fireworks-ai/</guid>
@@ -693,14 +749,6 @@
 <pubDate>Mon, 16 Nov 2026 18:30:31 +0000</pubDate>
 <category>Publickey</category>
 <description>Cloud Native Computing Foundationは、Linuxアプリケーションを再コンパイルや再ビルドすることなくそのまま、Unikernelのような軽量かつセキュアな実行環境で仮想マシンによる堅牢な隔離環境で実行できるM... — Publickey / score: 75 (軽量マイクロVMの新技術登場で実用性が高い)</description>
-</item>
-<item>
-<title>[75] ChatGPT、ユーザーのクレカでお買い物をしてくれるようになったけど…、大丈夫？</title>
-<link>https://www.gizmodo.jp/article/2611-chatgpt-wallet-credit-card-ai/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-chatgpt-wallet-credit-card-ai/</guid>
-<pubDate>Mon, 16 Nov 2026 12:30:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>ChatGPTの新機能「ChatGPT Wallet」の仕組みと、AIエージェントによる決済の利便性やプライバシーに関する懸念を解説します。 — ギズモード・ジャパン / score: 75 (AIエージェントによる決済機能という大きなトレンド)</description>
 </item>
 <item>
 <title>[75] IAM Identity Center now supports VPC endpoints and network access controls</title>
@@ -757,54 +805,6 @@
 <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 75 (GitHubのシークレットスキャン機能強化によるセキュリティ向上)</description>
-</item>
-<item>
-<title>[75] Claude Platform release notes — November 16, 2026</title>
-<link>https://platform.claude.com/docs/en/release-notes/overview#text-watermark-claude-opus-4-6-and-4-5-models</link>
-<guid isPermaLink="true">https://platform.claude.com/docs/en/release-notes/overview#text-watermark-claude-opus-4-6-and-4-5-models</guid>
-<pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-<category>Claude リリースノート</category>
-<description>Text generated by Claude Opus 4.6, Claude Opus 4.5, Claude Sonnet 4.5, and Claude Haiku 4.5 carries Anthropic’s text watermark on supported platforms. How Claude marks AI-generated content lists those platforms. If a request to one of these models sets temperature , top_p , or top_k to a non-default value, the text might not carry the watermark. See Text watermark . — Claude リリースノート / score: 75 (Claudeプラットフォームのマネージドエージェント更新)</description>
-</item>
-<item>
-<title>[75] A step toward defining the Standard Model on a lattice</title>
-<link>https://openai.com/index/step-toward-defining-the-standard-model</link>
-<guid isPermaLink="true">https://openai.com/index/step-toward-defining-the-standard-model</guid>
-<pubDate>Sun, 15 Nov 2026 22:00:01 +0000</pubDate>
-<category>OpenAI News</category>
-<description>Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof. — OpenAI News / score: 75 (物理学の格子上の標準模型定義に関するOpenAIの先進的取り組み)</description>
-</item>
-<item>
-<title>[75] PostgreSQL 19リリース延期の背景。β4で多くの新機能取り下げが発生、原因はAIによるコードレビューか</title>
-<link>https://www.publickey1.jp/blog/26/postgresql_194ai.html</link>
-<guid isPermaLink="true">https://www.publickey1.jp/blog/26/postgresql_194ai.html</guid>
-<pubDate>Sun, 15 Nov 2026 15:31:49 +0000</pubDate>
-<category>Publickey</category>
-<description>オープンソースのリレーショナルデータベース「PostgreSQL」は、先週木曜日（2026年11月12日）に最終リリース候補版となるPostgreSQL 19 RC2が公開され、予定では今週の11月19日に正式リリースとなる見通しです。 そ... — Publickey / score: 75 (PostgreSQLのリリース延期とAI影響の話題)</description>
-</item>
-<item>
-<title>[75] 11月パッチ後にWindowsのライセンス認証操作が失敗する問題、Microsoftが定例外更新／「slmgr.vbs」でKMSの設定などを行う企業デバイスが対象</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2156557.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2156557.html</guid>
-<pubDate>Sun, 15 Nov 2026 15:26:15 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Microsoftは11月13日（現地時間）、Windowsの定例外（OOB）のアップデートをリリースした。2026年11月のセキュリティ更新プログラムを適用した一部の企業向けデバイスで、ソフトウェアライセンス管理ツール（SLMGR）を使ったWindowsのライセンス認証の操作がエラー「0x80041008」（Invalid parameter）で失敗することがあったという。 — 窓の杜 / score: 75 (Windowsのライセンス認証失敗に関する緊急の不具合)</description>
-</item>
-<item>
-<title>[75] 2026年11月のWindows 11セキュリティパッチ、一部デバイスでインストールが完了しない問題／Microsoftが自動で修復中</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2156181.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2156181.html</guid>
-<pubDate>Fri, 13 Nov 2026 06:07:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>2026年11月のセキュリティ更新プログラム「KB5132061」の適用を試みた一部デバイスで、インストールが完了しない問題が発生しているとのこと。米Microsoftが自社のサポートページで明らかにした。 — 窓の杜 / score: 75 (月例セキュリティパッチの適用失敗問題)</description>
-</item>
-<item>
-<title>[75] Google DeepMind、AlphaProof Codeを発表 ——Signalプロトコルの実装を機械語レベルで形式検証</title>
-<link>https://gihyo.jp/article/2026/11/alphaproof-code?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/11/alphaproof-code?utm_source=feed</guid>
-<pubDate>Fri, 13 Nov 2026 02:03:19 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Google DeepMindは2026年11月10日、人間の専門家とAIエージェントが協力してソフトウェアを形式検証するフレームワーク「AlphaProof Code」を発表した。研究チームは、エンドツーエンド暗号化通信に使われるSignalプロトコルの参照実装libsignalに、この仕組みを適用した。 — gihyo.jp / score: 75 (形式検証フレームワークによる暗号プロトコル検証)</description>
 </item>
 </channel>
 </rss>
