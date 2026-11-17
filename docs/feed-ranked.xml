@@ -4,16 +4,8 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Tue, 17 Nov 2026 06:10:45 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 08:08:18 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
-<item>
-<title>[95] paiza、動作検証環境のアクセス管理不備で個人情報最大約90万件が10年以上外部からアクセス可能に　本番環境のデータを動作検証環境へ複製・保管</title>
-<link>https://internet.watch.impress.co.jp/docs/news/2156774.html</link>
-<guid isPermaLink="true">https://internet.watch.impress.co.jp/docs/news/2156774.html</guid>
-<pubDate>Mon, 16 Nov 2026 23:22:24 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>paiza、動作検証環境のアクセス管理不備で個人情報最大約90万件が10年以上外部からアクセス可能に 本番環境のデータを動作検証環境へ複製・保管 — はてなブックマーク テクノロジー / score: 95 (検証環境の不備による大規模な個人情報長期間流出)</description>
-</item>
 <item>
 <title>[95] 「PostgreSQL」でセキュリティアップデート、「PostgreSQL 14」は最後の更新に／52件の脆弱性と、ここ数カ月に報告された140件を超える不具合が修正</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2156215.html</link>
@@ -39,20 +31,28 @@
 <description>OpenAIは2026年11月4日、開発中のサイバーセキュリティ向けAIモデルを活用し、Linuxカーネルの脆弱性をエージェントが自律的に発見し検証した結果を発表した。 — gihyo.jp / score: 95 (AIによるLinuxカーネルの脆弱性大量発見と実証の画期的なニュース)</description>
 </item>
 <item>
+<title>[90] Zoom・CNN・BBC・IKEAなど178組織のサイトにOptimizely経由で悪意のあるJavaScriptが配信され仮想通貨の盗難被害も発生</title>
+<link>https://gigazine.net/news/20261117-infect-malware-optimizely/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261117-infect-malware-optimizely/</guid>
+<pubDate>Tue, 17 Nov 2026 07:13:51 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>ウェブサイトの改善や効果測定に使われる「Optimizely(オプティマイズリー)」を通じて悪意のあるJavaScriptが配信され、Zoom・CNN・Salesforce・GitLab・BBC・IKEAなど178組織のウェブサイトに影響が及んでいたことが判明しました。悪意のあるJavaScriptには仮想通貨の送金先を書き換えたりクレジットカード情報を盗み取... — はてなブックマーク テクノロジー / score: 90 (主要組織へのサードパーティ経由の悪意あるスクリプト配信)</description>
+</item>
+<item>
+<title>[90] 「LibreOffice」に19件の脆弱性、AIでの発見が相次ぐ ～v26.2.7/26.8.2で修正済み／文書を開くだけでコードを実行されるおそれも</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2156916.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2156916.html</guid>
+<pubDate>Tue, 17 Nov 2026 06:56:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>独The Document Foundationは11月16日（現地時間）、オープンソースのオフィスソフト「LibreOffice」の19件の脆弱性情報を公開した。いずれも「LibreOffice 26.2.7」および「LibreOffice 26.8.2」で修正済み。 — 窓の杜 / score: 90 (LibreOfficeの多数の脆弱性と修正アップデート)</description>
+</item>
+<item>
 <title>[90] Google Project Zero、脆弱性の開示期限を段階的に30日へ短縮／AIで発見・悪用が高速化、パッチ展開の猶予や大半の特例を廃止</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2156900.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2156900.html</guid>
 <pubDate>Tue, 17 Nov 2026 04:33:23 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Googleの脆弱性調査チーム「Project Zero」は11月13日（現地時間）、脆弱性の情報開示ポリシーを改定すると発表した。同チームは2021年以降、「90＋30」と呼ばれる開示ポリシーを採用してきた。これはベンダーに最大90日の修正期間を与え、さらにパッチを展開するための“ソークタイム”として30日を追加するというものだ。しかし、脆弱性の発見やエクスプロイト（攻撃コード）の作成にAIが活用されるようになり、状況が大きく変わったとして、「Full X」と呼ばれる開示ポリシーが新たに採用されることになった。 — 窓の杜 / score: 90 (Google Project Zeroの脆弱性開示期限短縮)</description>
-</item>
-<item>
-<title>[90] エレコム、無線LANルーター3機種の脆弱性対策を案内　ファームウェアVer.2.2.3以降へ</title>
-<link>https://ascii.jp/elem/000/004/452/4452093/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/452/4452093/?rss</guid>
-<pubDate>Tue, 17 Nov 2026 04:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>エレコムは、無線LANルーター「WRC-BE36QS-B」「WRC-BE36QSD-B」「WRC-W701-B」の脆弱性対策として、ファームウェアVer.2.2.3以降への更新を案内した。工場出荷時の設定では自動更新されるため追加操作は不要。設定を変更した利用者には更新状況の確認を促している。 — ASCII.jp / score: 90 (無線LANルーターのセキュリティ脆弱性対策)</description>
 </item>
 <item>
 <title>[90] モリサワや「mineo」など会員情報漏えい　マーケツール「KARTE」不正アクセス、外部サービス連携用シークレットキーなども</title>
@@ -247,6 +247,22 @@
 <description>The November 2026 security release for Next.js is now available — Next.js Blog / score: 90 (重要フレームワークの緊急セキュリティアップデート)</description>
 </item>
 <item>
+<title>[85] NVIDIA、CEO 交代に関するお知らせ</title>
+<link>https://blogs.nvidia.co.jp/blog/nvidia-announces-ceo-transition/</link>
+<guid isPermaLink="true">https://blogs.nvidia.co.jp/blog/nvidia-announces-ceo-transition/</guid>
+<pubDate>Tue, 17 Nov 2026 06:39:50 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>※本発表資料は米国時間 2026 年 11 月 12 日に発表されたプレスリリースの抄訳です。 ジェンスン フアン (Jensen Huang) が辞任 エグゼクティブ バイス プレジデント 兼 最高財務責任者のコレット クレス (Colette Kress) が暫定 最高経営責任者に就任 ハーベイ ジョーンズ (Harvey C. Jones) が同社初の取締役会議長に... — はてなブックマーク テクノロジー / score: 85 (NVIDIAのCEO交代という重大な業界ニュース)</description>
+</item>
+<item>
+<title>[85] エレコム、Wi-Fiルーターの脆弱性で対象機種を追加　ファームウェアアップデート提供</title>
+<link>https://ascii.jp/elem/000/004/452/4452294/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/452/4452294/?rss</guid>
+<pubDate>Tue, 17 Nov 2026 06:20:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>エレコムは11月17日、同社が2025年7月22日付けで公表したWi-Fiルーターの脆弱性情報を更新。「WRC-BE94XS-B」を対象機種に追加した。 — ASCII.jp / score: 85 (Wi-Fiルーターの脆弱性修正情報のため)</description>
+</item>
+<item>
 <title>[85] エレコム、Wi-Fiルーター「WRC-W701-B」などに脆弱性　最新ファームにアップデートを</title>
 <link>https://ascii.jp/elem/000/004/452/4452273/?rss</link>
 <guid isPermaLink="true">https://ascii.jp/elem/000/004/452/4452273/?rss</guid>
@@ -266,9 +282,9 @@
 <title>[85] MicrosoftがOutlookの大規模障害の原因を公表、2026年7月のバグ修正が引き金となりサーバーの80％以上が応答不能に</title>
 <link>https://gigazine.net/news/20261117-microsoft-outlook-incidents-updates/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261117-microsoft-outlook-incidents-updates/</guid>
-<pubDate>Tue, 17 Nov 2026 04:05:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>2026年11月12日に発生したOutlookやExchange Onlineなどの世界規模のサービス障害について、Microsoftが11月16日に暫定的な調査報告書を公開しました。2026年7月のバグ修正によって混入した新たなバグと複数のインフラ上の問題が重なったことで、障害が連鎖的に拡大したことが明らかになっています。 続きを読む... — GIGAZINE / score: 85 (Microsoftのサービス大規模障害の原因解説)</description>
+<pubDate>Tue, 17 Nov 2026 04:10:16 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>2026年11月12日に発生したOutlookやExchange Onlineなどの世界規模のサービス障害について、Microsoftが11月16日に暫定的な調査報告書を公開しました。2026年7月のバグ修正によって混入した新たなバグと複数のインフラ上の問題が重なったことで、障害が連鎖的に拡大したことが明らかになっています。 Preliminary Post I... — はてなブックマーク テクノロジー / score: 85 (Microsoftのサービス大規模障害の原因解説)</description>
 </item>
 <item>
 <title>[85] Boseが60万個以上のBluetoothスピーカー用バッテリーをリコール</title>
@@ -551,6 +567,14 @@
 <description>JEP 401 (Value Objects) arrives in OpenJDK as a preview feature, enabling a new Java type model with minimal code changes. The talk explains what value objects are, JVM benefits, Valhalla history, implementation details, and the path toward bridging objects and primitives, including future support like List&lt;int&gt;. — Inside Java / score: 82 (Java Valhallaプロジェクトの解説と進化)</description>
 </item>
 <item>
+<title>[80] Microsoft 365の大規模障害、原因はサーバーの潜在的なバグ</title>
+<link>https://pc.watch.impress.co.jp/docs/news/2157036.html</link>
+<guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2157036.html</guid>
+<pubDate>Tue, 17 Nov 2026 04:51:46 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Microsoft 365の大規模障害、原因はサーバーの潜在的なバグ — はてなブックマーク テクノロジー / score: 80 (Microsoft 365の大規模障害と原因判明)</description>
+</item>
+<item>
 <title>[80] Metaが1400億円超の罰金を科される、Androidの写真をスキャンするFacebook機能が原因</title>
 <link>https://gigazine.net/news/20261117-italy-fines-meta-facebook-scan/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261117-italy-fines-meta-facebook-scan/</guid>
@@ -639,14 +663,6 @@
 <description>Googleは2026年11月11日、精度が高く高速なマルチモーダル意思決定モデル「Gemini Decision 1」と、これをGoogle AI Studioを通じて利用できる新しいAPI「Gemini Decisions API」を発表した。 — gihyo.jp / score: 80 (Googleの新しい意思決定モデルおよびAPIの発表)</description>
 </item>
 <item>
-<title>[80] Google、判断に特化した高速・低コストモデル「Gemini Decision 1」を発表／出力トークンは課金なし</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2155703.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2155703.html</guid>
-<pubDate>Wed, 11 Nov 2026 23:11:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Googleは11月11日（現地時間）、「Gemini Decisions API」を発表した。決められた選択肢のなかから答えを選ぶ、判断に特化した新しいモデル「Gemini Decision 1」（gemini-decision-1）を利用可能で、「Google AI Studio」の「Gemini API」で提供される。 — 窓の杜 / score: 80 (Googleの判断特化型高速AIモデルGemini Decision 1発表)</description>
-</item>
-<item>
 <title>[80] Test your applications against AWS locally with AWS Emulator</title>
 <link>https://aws.amazon.com/blogs/aws/test-your-applications-against-aws-locally-with-aws-emulator/</link>
 <guid isPermaLink="true">https://aws.amazon.com/blogs/aws/test-your-applications-against-aws-locally-with-aws-emulator/</guid>
@@ -685,6 +701,22 @@
 <pubDate>Tue, 10 Nov 2026 06:34:44 +0000</pubDate>
 <category>Latent Space</category>
 <description>November 9, 2026 — Claude Fable 5.2 and Mythos 5.2 arrive on Anthropic’s IPO roadshow day. How much thinking is worth paying for? — Latent Space / score: 78 (主要LLMの性能逆転とIPO動向)</description>
+</item>
+<item>
+<title>[75] モリサワ、2万4000件の個人情報流出　委託先に不正アクセス</title>
+<link>https://ascii.jp/elem/000/004/452/4452298/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/452/4452298/?rss</guid>
+<pubDate>Tue, 17 Nov 2026 06:45:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>フォントの開発・販売などを手がけるモリサワは11月17日、業務委託先企業（プレイド）のサービスが不正アクセスを受け、ユーザーの個人情報が流出したことを公表した。 — ASCII.jp / score: 75 (委託先経由の個人情報流出インシデント)</description>
+</item>
+<item>
+<title>[75] ChatGPTやClaudeがMacを操作する時代に--Appleが「macOS 27.3」で対応強化</title>
+<link>https://japan.cnet.com/article/35254992/</link>
+<guid isPermaLink="true">https://japan.cnet.com/article/35254992/</guid>
+<pubDate>Tue, 17 Nov 2026 05:32:03 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Appleは11月16日、ChatGPTやClaudeなどのAIエージェントがMacを操作したり、データにアクセスしたりする際の権限を、より細かく管理できる仕組みを発表した。「macOS 27.3」のベータ2で導入し、アクセスのたびに利用者の許可を求める設定や、アプリによる操作状況を示す機能などを追加する。 背景には、利用者に代わって... — はてなブックマーク テクノロジー / score: 75 (macOSでのAIエージェントの権限管理強化)</description>
 </item>
 <item>
 <title>[75] Vercel、「Workflow SDK 5」を提供開始　暗号化やリージョン対応、性能を強化</title>
@@ -727,12 +759,12 @@
 <description>AIが時代遅れのWebサイトを書くのを防ぐスキル「Modern Web Guidance」が安定版に／「Edge」「Firefox」も参加、Webサイトのモダナイズにも — はてなブックマーク テクノロジー / score: 75 (AIに最新Web開発手法を教えるModern Web Guidance安定版公開)</description>
 </item>
 <item>
-<title>[75] 大阪公立大学、委託先であるNECの個人情報漏えいについて発表、機密性の高い個人情報を削除せず保持</title>
-<link>https://internet.watch.impress.co.jp/docs/news/2156755.html</link>
-<guid isPermaLink="true">https://internet.watch.impress.co.jp/docs/news/2156755.html</guid>
-<pubDate>Mon, 16 Nov 2026 23:54:30 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>大阪公立大学、委託先であるNECの個人情報漏えいについて発表、機密性の高い個人情報を削除せず保持 — はてなブックマーク テクノロジー / score: 75 (大学と大手ベンダーに関連する個人情報漏えい事故)</description>
+<title>[75] Strengthening NATO and allied cyber defenses with AI</title>
+<link>https://openai.com/index/strengthening-nato-allied-cyber-defences-ai</link>
+<guid isPermaLink="true">https://openai.com/index/strengthening-nato-allied-cyber-defences-ai</guid>
+<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems. — OpenAI News / score: 75 (NATO等とAIを活用したサイバー防衛強化の取り組み)</description>
 </item>
 <item>
 <title>[75] Amazon Redshift now supports multi-statement transactions, conflict resolution, and time travel for Apache Iceberg</title>
@@ -773,38 +805,6 @@
 <pubDate>Mon, 16 Nov 2026 07:29:45 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>企業向けAIエージェントを開発するSierraは2026年11月13日、個人向けAIエージェントと企業のやり取りを定めるPersonal Agent Protocol（通称Poppy）のバージョン1.0を公開したと発表した。Shopifyの全ストアが対応し、MetaのAIエージェントMuseでは、すべてのユーザーがPoppyを利用できるようになった。 — gihyo.jp / score: 75 (AIエージェント向け新プロトコルの公開)</description>
-</item>
-<item>
-<title>[75] GitHub IssueにArtifactとしてHTMLとMarkdownを添付できるようになった</title>
-<link>https://zenn.dev/kesin11/articles/20261114_github_issue_artifact</link>
-<guid isPermaLink="true">https://zenn.dev/kesin11/articles/20261114_github_issue_artifact</guid>
-<pubDate>Mon, 16 Nov 2026 03:56:27 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>今年もGitHub Universeが開催され、多くの新機能が発表されました！ 一方、派手な発表の影に隠れてあまり目立っていませんが、普段使いしているIssueにも「Issue Artifact」という機能がPublic Previewとして追加されています。Issueに対してHTMLやMarkdownをArtifactとして添付し、Issue画面上の専用パネルでそのまま表... — はてなブックマーク テクノロジー / score: 75 (GitHub Issueの新機能追加と解説)</description>
-</item>
-<item>
-<title>[75] サイバー攻撃 AI「自律化」が脅威</title>
-<link>https://news.yahoo.co.jp/pickup/6602770?source=rss</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6602770?source=rss</guid>
-<pubDate>Mon, 16 Nov 2026 03:07:35 +0000</pubDate>
-<category>Yahoo!ニュース IT</category>
-<description> — Yahoo!ニュース IT / score: 75 (サイバー攻撃のAI自律化という重要なセキュリティ脅威)</description>
-</item>
-<item>
-<title>[75] 【速報】Google「Gemini 4 Hydrogen」登場！Argon・Carbonとの比較で読み解く Gemini 4 シリーズまとめ</title>
-<link>https://qiita.com/tomokoro/items/41cc59d0085fa03c5d52?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/tomokoro/items/41cc59d0085fa03c5d52?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Mon, 16 Nov 2026 01:31:54 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>1. はじめに 2026年11月12日、Google DeepMindよりGemini 4ファミリーの最新モデル「Gemini 4 Hydrogen」が発表されました。 Gemini 4 シリーズは、2026年10月1日の「Gemini 4 Argon」発表（10月13日... — Qiita 人気記事 / score: 75 (Googleの新しいGeminiモデル発表速報)</description>
-</item>
-<item>
-<title>[75] GitHubのシークレットスキャン、Cloudflareのサービストークンを検出可能に</title>
-<link>https://codezine.jp/article/detail/30364</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/30364</guid>
-<pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 75 (GitHubのシークレットスキャン機能強化によるセキュリティ向上)</description>
 </item>
 </channel>
 </rss>
