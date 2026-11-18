@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 18 Nov 2026 12:09:08 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 14:06:35 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[98] OpenJDKのBase64デコーダにおけるメモリ破損の脆弱性「Java4Shell」をOpenAIのCodexで発見、わずか3時間で攻撃実証まで成功</title>
@@ -21,14 +21,6 @@
 <pubDate>Wed, 18 Nov 2026 05:56:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>アメリカ国家安全保障局(NSA)が内部通信に使用している極秘ネットワーク「NSANet」がダウンしていると、事情に詳しい6人が明らかにしました。2026年11月17日に障害が発生し、ネットワーク復旧作業のためにほとんどの職員のキャンパスへの立ち入りが禁止される事態になりましたが、AIツールを使った研究によって発見されたソフトウェア脆弱(ぜいじゃく)性を修正するためのものであり、サイバー攻撃の証拠は確認されていないとのことです。 続きを読む... — GIGAZINE / score: 95 (国家安全保障通信網の障害と脆弱性修正の重大ニュース)</description>
-</item>
-<item>
-<title>[95] Javaの「Java4Shell」（CVE-2026-114938）をOracleが正式公表 認証不要で悪用可能な脆弱性、Java 17・21・25・27などに影響|セキュリティニュースのセキュリティ対策Lab</title>
-<link>https://rocket-boys.co.jp/security-measures-lab/java4shell-cve-2026-114938-oracle-openjdk-base64-rce-20261118/</link>
-<guid isPermaLink="true">https://rocket-boys.co.jp/security-measures-lab/java4shell-cve-2026-114938-oracle-openjdk-base64-rce-20261118/</guid>
-<pubDate>Wed, 18 Nov 2026 00:59:57 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Javaの「Java4Shell」（CVE-2026-114938）をOracleが正式公表 認証不要で悪用可能な脆弱性、Java 17・21・25・27などに影響 Oracleは2026年11月17日、Java SEのセキュリティ更新を公開し、「Java4Shell」と呼ばれる脆弱性「CVE-2026-114938」を正式にリスク評価表へ掲載しました。Oracleの評価はCVSS 3.1で8.1（High）... — はてなブックマーク テクノロジー / score: 95 (Javaの重大なゼロデイ・認証不要脆弱性)</description>
 </item>
 <item>
 <title>[95] Introducing GPT-6.2 Astra and Sol</title>
@@ -255,14 +247,6 @@
 <description>Microsoftは2026年11月10日、アプリケーション開発基盤.NETの新バージョン「.NET 11」を正式リリースした。 — gihyo.jp / score: 90 (.NET 11正式リリースとC# 15の新機能)</description>
 </item>
 <item>
-<title>[90] マイクロソフト、.NET 11正式リリース。C#に共用型を導入、JITやAOTコンパイラの高速化、コマンドラインツール強化など新機能</title>
-<link>https://www.publickey1.jp/blog/26/net_11cjitaot.html</link>
-<guid isPermaLink="true">https://www.publickey1.jp/blog/26/net_11cjitaot.html</guid>
-<pubDate>Tue, 10 Nov 2026 17:58:43 +0000</pubDate>
-<category>Publickey</category>
-<description>マイクロソフトは日本時間の11月13日未明からオンラインイベント「.NET Conf 2026」を開催し、同社の包括的なアプリケーションフレームワークの最新版となる「.NET 11」正式版のリリースを発表しました。 Announcing .... — Publickey / score: 90 (主要なフレームワークのメジャーリリース)</description>
-</item>
-<item>
 <title>[90] Introducing AlphaProof Code: a breakthrough in verifying complex software at depth</title>
 <link>https://deepmind.google/blog/introducing-alphaproof-code/</link>
 <guid isPermaLink="true">https://deepmind.google/blog/introducing-alphaproof-code/</guid>
@@ -277,6 +261,14 @@
 <pubDate>Fri, 06 Nov 2026 04:42:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>OpenAIは2026年11月5日、サイバーセキュリティ向けフロンティアモデルの最新バージョンGPT-6 Cyberを発表した。 — gihyo.jp / score: 90 (AIモデルによるサイバーセキュリティ自動化の重大な発表)</description>
+</item>
+<item>
+<title>[85] Microsoft、コーディング向けMAI Code 2、画像生成・編集のMAI Image 2.7、音声対話のMAI Realtime 1など7つのAIモデルを発表 ——GitHubとともにCodename MDASHでオープンソースのコードを検査し、脆弱性99件を修正案とともに報告</title>
+<link>https://gihyo.jp/article/2026/11/microsoft-seven-new-models?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/11/microsoft-seven-new-models?utm_source=feed</guid>
+<pubDate>Wed, 18 Nov 2026 12:01:39 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Microsoftは2026年11月17日、年次イベント「Microsoft Ignite 2026」で、7つのAIモデルを発表した。GitHub Copilotでは同日から、複数のファイルにまたがるコードの修正に向くMAI Code 2と、コードの説明や部分的な修正に向く軽量版のMAI Code 2 Flashを利用できる。 — gihyo.jp / score: 85 (Microsoftの複数AIモデル発表と脆弱性修正)</description>
 </item>
 <item>
 <title>[85] 「GTA6 無料版」の正体はマルウェア。PC版はまだ出てないから要注意</title>
@@ -519,14 +511,6 @@
 <description>JEP 401 (Value Objects) arrives in OpenJDK as a preview feature, enabling a new Java type model with minimal code changes. The talk explains what value objects are, JVM benefits, Valhalla history, implementation details, and the path toward bridging objects and primitives, including future support like List&lt;int&gt;. — Inside Java / score: 82 (Java Valhallaプロジェクトの解説と進化)</description>
 </item>
 <item>
-<title>[80] PowerShell 5.1が非推奨に。次期WindowsからPowerShell 7へ移行</title>
-<link>https://pc.watch.impress.co.jp/docs/news/2157354.html</link>
-<guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2157354.html</guid>
-<pubDate>Wed, 18 Nov 2026 03:06:13 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>PowerShell 5.1が非推奨に。次期WindowsからPowerShell 7へ移行 — はてなブックマーク テクノロジー / score: 80 (PowerShell 5.1非推奨化とPowerShell 7への移行に関する重要なお知らせ)</description>
-</item>
-<item>
 <title>[80] ［速報］マイクロソフト、PostgreSQL互換のミッションクリティカル向けデータベースサービス「Azure HorizonDB」正式リリース</title>
 <link>https://www.publickey1.jp/blog/26/postgresqlazure_horizondb.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/postgresqlazure_horizondb.html</guid>
@@ -631,6 +615,22 @@
 <description>November 9, 2026 — Claude Fable 5.2 and Mythos 5.2 arrive on Anthropic’s IPO roadshow day. How much thinking is worth paying for? — Latent Space / score: 78 (主要LLMの性能逆転とIPO動向)</description>
 </item>
 <item>
+<title>[75] マイクロソフト、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始</title>
+<link>https://www.publickey1.jp/blog/26/aiaimicrosoft_perception.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/aiaimicrosoft_perception.html</guid>
+<pubDate>Wed, 18 Nov 2026 14:05:36 +0000</pubDate>
+<category>Publickey</category>
+<description>マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、AIによるサイバー攻撃に対抗するためのAIエージェントによる新サービス「Microsoft Perception」の提供開始を発... — Publickey / score: 75 (マイクロソフトのAIセキュリティ新サービスの発表)</description>
+</item>
+<item>
+<title>[75] 創業者が去っても絶好調…とはまだ言えない、NVIDIAの決算が公開</title>
+<link>https://www.gizmodo.jp/article/2611-nvidia-earnings-q3-2027-ai/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-nvidia-earnings-q3-2027-ai/</guid>
+<pubDate>Wed, 18 Nov 2026 12:30:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>スパイ不倫騒動や創業者辞任で揺れるNVIDIAが発表した最新第3四半期決算は、売上高・純利益ともに前年同期比2倍超の絶好調。データセンター向けAI事業が牽引する驚異的な業績の内訳と今後の見通しをお届けします。 — ギズモード・ジャパン / score: 75 (NVIDIAの最新四半期決算と業績動向)</description>
+</item>
+<item>
 <title>[75] Claude Codeチームは検証についてどのように考えて実行しているのか、エンドツーエンドテスト・プロパティテスト・差分テストで証拠に基づいて自身の作業を検証する方法</title>
 <link>https://gigazine.net/news/20261118-claude-code-test-code-review/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261118-claude-code-test-code-review/</guid>
@@ -671,20 +671,20 @@
 <description>米国太平洋時間2027年1月12日（日本時間13日）、「Windows Server 2016」の延長サポートが終了する。米Microsoftが11月13日（現地時間）、「Windows メッセージ センター」で改めて注意を呼び掛けている。 — 窓の杜 / score: 75 (Windows Server 2016のサポート終了注意喚起)</description>
 </item>
 <item>
+<title>[75] Apple、AIエージェントなどに不要な個人情報や権限を渡さないよう、macOS 27.3 Golden Gateではアプリがアクセスできるデータや制御できるアプリをコントロールできるようにすると発表。</title>
+<link>https://applech2.com/archives/20261118-macos-27-3-security-against-risks-from-ai-agents.html</link>
+<guid isPermaLink="true">https://applech2.com/archives/20261118-macos-27-3-security-against-risks-from-ai-agents.html</guid>
+<pubDate>Wed, 18 Nov 2026 06:06:55 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Appleは、AIエージェントなどに不要な個人情報を渡さないよう、macOS 27.3 Golden Gateで新しいフルディスクアクセスとシステムとアプリの保護のオーバーライドを提供するとユーザーにも通知しています。 […] The post Apple、AIエージェントなどに不要な個人情報や権限を渡さないよう、macOS 27.3 Golden Gateではアプ... — はてなブックマーク テクノロジー / score: 75 (macOSでのAI権限・データアクセスの制御機能)</description>
+</item>
+<item>
 <title>[75] 「Windows Server 2028」のパブリックプレビューが開始 ～Microsoftの次期サーバーOS／既定で堅牢化された構成、NVMe対応の強化や「Intune」による管理も</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2157329.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2157329.html</guid>
 <pubDate>Wed, 18 Nov 2026 05:40:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Microsoftは11月17日（現地時間）、「Windows Server 2028」を発表した。同日よりパブリックプレビューとして公開されており、「Windows Server Insider Program」で新機能を試せる。 — 窓の杜 / score: 75 (次期Windows Serverのプレビュー開始でインフラ関連の注目トピック)</description>
-</item>
-<item>
-<title>[75] GoogleのフィジカルAIが「繊細な手作業」を習得。作業速度も20〜30%改善</title>
-<link>https://www.gizmodo.jp/article/2611-gemini-robotics-2-5/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-gemini-robotics-2-5/</guid>
-<pubDate>Wed, 18 Nov 2026 03:30:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>ロボットも実用化に向けて進化中。2026年11月10日に、Google DeepMindが新しいロボット用AI（Gemini Robotics 2.5）をお披露目しました。目玉は、デジタルツインを活用した学習で実現した手先の器用さ。100%… — ギズモード・ジャパン / score: 75 (ロボットAIの進化と実用化の重要な動向)</description>
 </item>
 <item>
 <title>[75] Claudeが高速で回答する社内営業エージェント──ClickHouseで実現する高速応答×コストパフォーマンス</title>
