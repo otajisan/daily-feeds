@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 18 Nov 2026 10:07:59 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 12:09:08 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[98] OpenJDKのBase64デコーダにおけるメモリ破損の脆弱性「Java4Shell」をOpenAIのCodexで発見、わずか3時間で攻撃実証まで成功</title>
@@ -29,14 +29,6 @@
 <pubDate>Wed, 18 Nov 2026 00:59:57 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>Javaの「Java4Shell」（CVE-2026-114938）をOracleが正式公表 認証不要で悪用可能な脆弱性、Java 17・21・25・27などに影響 Oracleは2026年11月17日、Java SEのセキュリティ更新を公開し、「Java4Shell」と呼ばれる脆弱性「CVE-2026-114938」を正式にリスク評価表へ掲載しました。Oracleの評価はCVSS 3.1で8.1（High）... — はてなブックマーク テクノロジー / score: 95 (Javaの重大なゼロデイ・認証不要脆弱性)</description>
-</item>
-<item>
-<title>[95] Java4Shell: Write once, RCE everywhere</title>
-<link>https://calif.io/java4shell</link>
-<guid isPermaLink="true">https://calif.io/java4shell</guid>
-<pubDate>Tue, 17 Nov 2026 21:33:37 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>CVE-2026-114938 Java4Shell Write once, RCE everywhere Story by the New York Times A memory-corruption vulnerability in OpenJDK's Base64 decoder. A remote attacker with no credentials can overwrite heap memory, read it in the style of Heartbleed, and reach remote code execution. Begin ↓ Technical ... — はてなブックマーク テクノロジー / score: 95 (OpenJDKの深刻なメモリ破壊脆弱性の報告)</description>
 </item>
 <item>
 <title>[95] Introducing GPT-6.2 Astra and Sol</title>
@@ -117,22 +109,6 @@
 <pubDate>Wed, 18 Nov 2026 03:49:54 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>はじめに株式会社ユーザベースが運営するソーシャル経済メディア「NewsPicks」において、業務で利用する管理ツールの脆弱性を突いた不正アクセスが発生し、お客様の個人情報の一部が漏洩しました。本件は2... — はてなブックマーク テクノロジー / score: 90 (実サービスにおける不正アクセスと個人情報漏洩)</description>
-</item>
-<item>
-<title>[90] 「JINS」最大約1829万件漏えいの可能性　RIZAPやしまむらも……「KARTE」不正アクセスの影響広がる</title>
-<link>https://www.itmedia.co.jp/news/article/2611/18/2000003287/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/18/2000003287/</guid>
-<pubDate>Wed, 18 Nov 2026 02:55:57 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>プレイドが提供する企業向けマーケティングサービス「KARTE」（カルテ）が13日に不正アクセスを受けた問題で、メガネ大手の「JINS」、トレーニングジムの「RIZAP」、衣料品チェーンのしまむらなどがそれぞれ、顧客情報の漏えいまたはその可能性を発表している。 KARTEは、企業がWebサイトやアプリの利用者の行動を分析し... — はてなブックマーク テクノロジー / score: 90 (SaaS経由での広範囲な顧客情報漏えいインシデント)</description>
-</item>
-<item>
-<title>[90] OpenAIが「GPT-6.2 Astra」をリリース。“最高の賢さをコスパよく”って感じの新AI</title>
-<link>https://www.gizmodo.jp/article/2611-gpt-6-2-astra-release/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-gpt-6-2-astra-release/</guid>
-<pubDate>Wed, 18 Nov 2026 02:40:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>Fable 5.2と同格っぽい？2026年11月18日未明、OpenAIが新しいフラッグシップAI「GPT-6.2 Astra」をリリースしました。有料ユーザーに提供され、ChatGPT Workなどで利用できます。発表を見るかぎりGPT-… — ギズモード・ジャパン / score: 90 (大手AI企業による新しいフラッグシップモデルのリリース)</description>
 </item>
 <item>
 <title>[90] 楽天証券への不正アクセスについてまとめてみた - piyolog</title>
@@ -303,6 +279,14 @@
 <description>OpenAIは2026年11月5日、サイバーセキュリティ向けフロンティアモデルの最新バージョンGPT-6 Cyberを発表した。 — gihyo.jp / score: 90 (AIモデルによるサイバーセキュリティ自動化の重大な発表)</description>
 </item>
 <item>
+<title>[85] 「GTA6 無料版」の正体はマルウェア。PC版はまだ出てないから要注意</title>
+<link>https://www.gizmodo.jp/article/gta6-free-pc-malware-warning/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/gta6-free-pc-malware-warning/</guid>
+<pubDate>Wed, 18 Nov 2026 11:15:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>GTA6の無料PC版を装うマルウェアに注意。現在PC版は未発売であり、偽サイトからのダウンロードや個人情報の流出リスクを防ぐために、正規ストアから購入しましょう。 — ギズモード・ジャパン / score: 85 (著名なゲームを装ったマルウェアの注意喚起のため)</description>
+</item>
+<item>
 <title>[85] Microsoftが新型AIプログラミングモデル「MAI Code 2」と高速版「MAI Code 2 Flash」を発表、GPT-6.1 Solに匹敵する性能を40％のコストで発揮</title>
 <link>https://gigazine.net/news/20261118-mai-code-2-flash/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261118-mai-code-2-flash/</guid>
@@ -317,6 +301,14 @@
 <pubDate>Wed, 18 Nov 2026 08:56:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>Mozillaは11月17日（米国時間）、デスクトップ向け「Firefox」の最新版v160.0.1をリリースチャネルで公開した。「Firefox 160」の不具合に対処したマイナーアップデートとなっている。 — 窓の杜 / score: 85 (ブラウザの深刻な脆弱性修正を含むアップデート)</description>
+</item>
+<item>
+<title>[85] 楽天証券の大規模漏えい、なぜテスト環境に顧客情報が？　「本番データでの確認が必要だった」</title>
+<link>https://www.itmedia.co.jp/news/article/2611/18/2000003302/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/18/2000003302/</guid>
+<pubDate>Wed, 18 Nov 2026 08:46:35 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>楽天証券が11月17日に公表した不正アクセスの問題を巡り、同社がテスト環境に本番の顧客データを保存していたことが問題視されている。ITmedia NEWSの取材に対し、同社は「社内システムのアップグレードに伴い、一部の機能の検証に本番データを使用する必要があった」と説明した。 楽天証券は17日、第三者が社内システム... — はてなブックマーク テクノロジー / score: 85 (大規模な顧客情報漏えい事故とセキュリティの教訓)</description>
 </item>
 <item>
 <title>[85] Oracle Java の脆弱性対策について(2026年11月) | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構</title>
@@ -639,6 +631,22 @@
 <description>November 9, 2026 — Claude Fable 5.2 and Mythos 5.2 arrive on Anthropic’s IPO roadshow day. How much thinking is worth paying for? — Latent Space / score: 78 (主要LLMの性能逆転とIPO動向)</description>
 </item>
 <item>
+<title>[75] Claude Codeチームは検証についてどのように考えて実行しているのか、エンドツーエンドテスト・プロパティテスト・差分テストで証拠に基づいて自身の作業を検証する方法</title>
+<link>https://gigazine.net/news/20261118-claude-code-test-code-review/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261118-claude-code-test-code-review/</guid>
+<pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>AIコーディングツール「Claude Code」の開発チームでは、コードの約90％をClaudeが記述・レビューしています。AIに大量の開発作業を任せながらコードの品質を維持するため、Claude Codeの開発チームがどのような検証の仕組みを構築しているのかについて、Anthropicのエンジニアであるアディ・オスマーニ氏が解説しています。 続きを読む... — GIGAZINE / score: 75 (AI開発チームの厳格な検証プロセスの解説)</description>
+</item>
+<item>
+<title>[75] 中国のAIチップ調達、東南アジア経由もアウトに。トランプ政権が規制強化</title>
+<link>https://www.gizmodo.jp/article/2611-trump-admin-strengthens-ai-chip-export-controls-china/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-trump-admin-strengthens-ai-chip-export-controls-china/</guid>
+<pubDate>Wed, 18 Nov 2026 11:00:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>トランプ政権によるAI半導体の輸出規制強化の背景と詳細を解説。中国企業へのアクセス防止策や迂回輸出対策、サンフランシスコ宣言の動向を考えます。 — ギズモード・ジャパン / score: 75 (AI半導体の輸出規制強化に関する国際的な動向)</description>
+</item>
+<item>
 <title>[75] Google検索の「AIによる概要」のせいで外部ウェブサイトのクリック率が約40％減少、サイト運営者はどうするべきか？</title>
 <link>https://gigazine.net/news/20261118-google-ai-overviews-cut-clicks-websites/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261118-google-ai-overviews-cut-clicks-websites/</guid>
@@ -765,14 +773,6 @@
 <pubDate>Tue, 17 Nov 2026 08:00:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Amazon Elastic Kubernetes Service (Amazon EKS) introduces resource optimization for EKS Auto Mode, a new capability that rightsizes the CPU and memory requests of running Pods based on their actual usage. CPU and memory requests are often set at deploy time and rarely revisited, and Auto Mode provisions EC2 instances to fit them. Rightsizing lets Auto Mode run the same Deployments and StatefulSets on fewer or smaller instances, without hand tuning and at no additional charge. Turn on resource op — AWS What's New / score: 75 (EKS Auto Modeのポッド自動最適化機能)</description>
-</item>
-<item>
-<title>[75] エージェントの自律性を上げると、何が得られて何を失うか —— 助言・承認付き実行・自律実行を実測する</title>
-<link>https://zenn.dev/enterprise_ai/articles/1b1f34af88fb8f</link>
-<guid isPermaLink="true">https://zenn.dev/enterprise_ai/articles/1b1f34af88fb8f</guid>
-<pubDate>Tue, 17 Nov 2026 06:51:14 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>この記事のまとめ 同じエージェント・同じタスクで、自律性のレベル（助言／承認付きの実行／自律的な実行）だけを変えて、Claude Code と Strands Harness で実測しました。承認者は、人の代わりのプログラム2種類と、Claude Code の auto モード（別のモデルが審査する）で試しています。 観点 確かめたこと 結果 得られるもの レベルを変えると、成功率やコストは変わるか 通常のタスクは全条件で成功（15/15）。承認付きにすると、Claude Code はコストが約2割下がった 失うもの 承認を挟めば、誤った記憶による被害を防げるか テ... — Zenn トレンド / score: 75 (AIエージェントの自律性と実測データの分析)</description>
 </item>
 <item>
 <title>[75] Vercel、「Workflow SDK 5」を提供開始　暗号化やリージョン対応、性能を強化</title>
