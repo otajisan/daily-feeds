@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 18 Nov 2026 04:07:21 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 06:10:55 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[98] OpenJDKのBase64デコーダにおけるメモリ破損の脆弱性「Java4Shell」をOpenAIのCodexで発見、わずか3時間で攻撃実証まで成功</title>
@@ -13,6 +13,14 @@
 <pubDate>Wed, 18 Nov 2026 04:00:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>セキュリティ研究企業のCalifが2026年11月17日、Javaのオープンソース実装であるOpenJDKに重大な脆弱(ぜいじゃく)性「Java4Shell(CVE-2026-114938)」が存在すると発表しました。Java4Shellを悪用すると、攻撃者は機密情報の窃取やリモートコード実行(RCE)が可能になります。CalifはOpenAIのAIコーディングエージェント「Codex」を利用して、わずか1時間で脆弱性を発見したと報告しています。 続きを読む... — GIGAZINE / score: 98 (重大な脆弱性の発見とAIによる実証の速報)</description>
+</item>
+<item>
+<title>[95] アメリカ国家安全保障通信ネットワーク「NSANet」がダウンしたと関係筋が語る</title>
+<link>https://gigazine.net/news/20261118-nsa-network-outage/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261118-nsa-network-outage/</guid>
+<pubDate>Wed, 18 Nov 2026 05:56:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>アメリカ国家安全保障局(NSA)が内部通信に使用している極秘ネットワーク「NSANet」がダウンしていると、事情に詳しい6人が明らかにしました。2026年11月17日に障害が発生し、ネットワーク復旧作業のためにほとんどの職員のキャンパスへの立ち入りが禁止される事態になりましたが、AIツールを使った研究によって発見されたソフトウェア脆弱(ぜいじゃく)性を修正するためのものであり、サイバー攻撃の証拠は確認されていないとのことです。 続きを読む... — GIGAZINE / score: 95 (国家安全保障通信網の障害と脆弱性修正の重大ニュース)</description>
 </item>
 <item>
 <title>[95] Javaの「Java4Shell」（CVE-2026-114938）をOracleが正式公表 認証不要で悪用可能な脆弱性、Java 17・21・25・27などに影響|セキュリティニュースのセキュリティ対策Lab</title>
@@ -53,6 +61,22 @@
 <pubDate>Thu, 05 Nov 2026 06:53:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>OpenAIは2026年11月4日、開発中のサイバーセキュリティ向けAIモデルを活用し、Linuxカーネルの脆弱性をエージェントが自律的に発見し検証した結果を発表した。 — gihyo.jp / score: 95 (AIによるLinuxカーネルの脆弱性大量発見と実証の画期的なニュース)</description>
+</item>
+<item>
+<title>[90] OpenAIが「GPT-6.2 Astra」「GPT-6.2 Sol」をリリース、資料作成やPC操作が進化＆少ないトークンで複雑な業務を処理可能に</title>
+<link>https://gigazine.net/news/20261118-openai-gpt-6-2-astra-sol/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261118-openai-gpt-6-2-astra-sol/</guid>
+<pubDate>Wed, 18 Nov 2026 04:15:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>OpenAIが新たなAIモデル「GPT-6.2 Astra」と「GPT-6.2 Sol」を発表しました。GPT-6.2 Astraは複雑な業務やプログラミング、科学研究に適した最上位モデルで、GPT-6.2 Solは日常的な作業を効率よく処理できるモデルです。両モデルとも従来より少ない出力トークン数で高い性能を発揮でき、資料作成やPC操作の精度も向上しているとのことです。 続きを読む... — GIGAZINE / score: 90 (OpenAIの新型AIモデル発表であり技術界隈で非常に重要)</description>
+</item>
+<item>
+<title>[90] 【調査結果のご報告】NewsPicksで発生した不正アクセスによる個人情報漏洩について - NewsPicks | 株式会社ユーザベース | Uzabase,Inc.</title>
+<link>https://corp.newspicks.com/info/20261118</link>
+<guid isPermaLink="true">https://corp.newspicks.com/info/20261118</guid>
+<pubDate>Wed, 18 Nov 2026 03:49:54 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>はじめに株式会社ユーザベースが運営するソーシャル経済メディア「NewsPicks」において、業務で利用する管理ツールの脆弱性を突いた不正アクセスが発生し、お客様の個人情報の一部が漏洩しました。本件は2... — はてなブックマーク テクノロジー / score: 90 (実サービスにおける不正アクセスと個人情報漏洩)</description>
 </item>
 <item>
 <title>[90] OpenAIが新AI「GPT-6.2 Astra」をリリース。“最高に賢い”のもうひとつのカタチ</title>
@@ -101,14 +125,6 @@
 <pubDate>Tue, 17 Nov 2026 12:30:05 +0000</pubDate>
 <category>Yahoo!ニュース IT</category>
 <description> — Yahoo!ニュース IT / score: 90 (JINSの大規模な個人情報流出インシデント)</description>
-</item>
-<item>
-<title>[90] 当社お客様の情報漏えいの可能性に関するお詫びとお知らせ:楽天証券</title>
-<link>https://www.rakuten-sec.co.jp/web/info/info20261117-02.html</link>
-<guid isPermaLink="true">https://www.rakuten-sec.co.jp/web/info/info20261117-02.html</guid>
-<pubDate>Tue, 17 Nov 2026 08:41:53 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>このたび、楽天証券への第三者による不正アクセスを受けたことにともない、楽天証券が保有するお客様の情報の一部が漏えいした可能性があることを確認いたしましたので、お知らせいたします。 なお、楽天証券のログインに必要なパスワード、暗証番号を含む楽天証券の取引に必要な各種情報についての漏えいは確認しており... — はてなブックマーク テクノロジー / score: 90 (大規模な顧客情報漏えいの可能性に関する重要インシデント)</description>
 </item>
 <item>
 <title>[90] Zoom・CNN・BBC・IKEAなど178組織のサイトにOptimizely経由で悪意のあるJavaScriptが配信され仮想通貨の盗難被害も発生</title>
@@ -255,12 +271,20 @@
 <description>OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel. — OpenAI News / score: 90 (AIによるLinuxカーネル脆弱性の自動パッチ生成)</description>
 </item>
 <item>
-<title>[85] Solid 2.0 - The Long Hold | Solid</title>
-<link>https://www.solidjs.com/blog/solid-2-0-the-long-hold</link>
-<guid isPermaLink="true">https://www.solidjs.com/blog/solid-2-0-the-long-hold</guid>
-<pubDate>Tue, 17 Nov 2026 23:09:30 +0000</pubDate>
+<title>[85] 「Google Chrome 158」が公開 ～204件の脆弱性を修正、「XSLT」サポートが終了／「Web Install API」対応、Android版では「WebHID」にも</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2157314.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2157314.html</guid>
+<pubDate>Wed, 18 Nov 2026 04:05:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Googleは11月17日（現地時間、以下同）、デスクトップ向け「Google Chrome」の安定（Stable）チャネルをアップデートした。「Chrome 157」に続くメジャーリリースで、Windows/Mac環境にはv158.0.8127.36/.37が、Linux環境にはv158.0.8127.36が順次展開される。 — 窓の杜 / score: 85 (Chromeのメジャーアプデと多数の脆弱性修正、機能変更があるため)</description>
+</item>
+<item>
+<title>[85] 「非公開APIだから安全」はもう通用しない　AIが変える脆弱性発見の常識</title>
+<link>https://atmarkit.itmedia.co.jp/ait/articles/2611/18/news009.html</link>
+<guid isPermaLink="true">https://atmarkit.itmedia.co.jp/ait/articles/2611/18/news009.html</guid>
+<pubDate>Tue, 17 Nov 2026 23:33:26 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>Back to blogSolid 2.0 - The Long HoldSolid 2.0 reaches stable after five years: async in the reactive graph, server functions, diagnostics built for agents, and a smaller API. Ryan Carniato·November 16, 2026·8 min read 5 years is a long time to work on anything. It took 5 years from my first comm... — はてなブックマーク テクノロジー / score: 85 (主要なJavaScriptフレームワークSolid 2.0の安定版リリース)</description>
+<description>「公開していないAPIだから、攻撃者には見つからない」。そんな前提で設計されたシステムは、AIによって危うくなるかもしれません。 直近、複数の事業者で個人情報の漏えいが発生し、公的機関が相次いで注意を喚起しています。その原因の一つとして挙げられているのが、公開アプリを解析し、接続先のサーバを攻撃する手... — はてなブックマーク テクノロジー / score: 85 (AI時代の非公開API脆弱性に関する警鐘)</description>
 </item>
 <item>
 <title>[85] GPT‑6.2 Astra and GPT‑6.2 Sol</title>
@@ -301,14 +325,6 @@
 <pubDate>Tue, 17 Nov 2026 06:00:50 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>印刷する メールで送る テキスト HTML 電子書籍 PDF ダウンロード テキスト 電子書籍 PDF クリップした記事をMyページから読むことができます Microsoftは、米国時間11月12日午前に発生し、74カ国で「Microsoft 365」「Copilot」「Outlook」へのアクセスに影響を与えた大規模なサービス障害について、その原因を説明する... — はてなブックマーク テクノロジー / score: 85 (大規模サービス障害の原因公表)</description>
-</item>
-<item>
-<title>[85] OpenAIによるHugging Faceハッキング事件でカリフォルニア州司法長官がOpenAIを提訴</title>
-<link>https://gigazine.net/news/20261117-california-doj-sue-openai/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261117-california-doj-sue-openai/</guid>
-<pubDate>Tue, 17 Nov 2026 04:50:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>2026年7月、OpenAIのAIエージェントがHugging Faceを誤ってハッキングしてしまう事件が発生しました。この件に関連し、「AIを適切に保護せず、消費者や市民を危険にさらした」として、カリフォルニア州司法長官がOpenAIを訴えたことが分かりました。 続きを読む... — GIGAZINE / score: 85 (AIエージェントのハッキング事件による司法長官提訴)</description>
 </item>
 <item>
 <title>[85] 定番テキストエディター「Notepad++」v8.9.9が公開、6件の脆弱性を修正／</title>
@@ -495,12 +511,28 @@
 <description>JEP 401 (Value Objects) arrives in OpenJDK as a preview feature, enabling a new Java type model with minimal code changes. The talk explains what value objects are, JVM benefits, Valhalla history, implementation details, and the path toward bridging objects and primitives, including future support like List&lt;int&gt;. — Inside Java / score: 82 (Java Valhallaプロジェクトの解説と進化)</description>
 </item>
 <item>
+<title>[80] ケーブルを巻き取ってすっきり収納！ 最大67WのUSB-C充電器、PC・スマホの2台同時充電に対応</title>
+<link>https://ascii.jp/elem/000/004/452/4452667/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/452/4452667/?rss</guid>
+<pubDate>Wed, 18 Nov 2026 05:00:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>約0.91mの巻き取り式USB-Cケーブルを内蔵したAC充電器が11月中旬に6,780円で発売。単独最大67W、2台同時は合計最大65Wで、接続機器に応じて出力を自動配分する。重さ約170gで持ち運びやすく、PCやスマホ、Switch 2の充電にも対応。 — ASCII.jp / score: 80 (アプリの脆弱性情報でありセキュリティ上重要)</description>
+</item>
+<item>
 <title>[80] PowerShell 5.1が非推奨に。次期WindowsからPowerShell 7へ移行</title>
 <link>https://pc.watch.impress.co.jp/docs/news/2157354.html</link>
 <guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2157354.html</guid>
 <pubDate>Wed, 18 Nov 2026 03:06:13 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>PowerShell 5.1が非推奨に。次期WindowsからPowerShell 7へ移行 — はてなブックマーク テクノロジー / score: 80 (PowerShell 5.1非推奨化とPowerShell 7への移行に関する重要なお知らせ)</description>
+</item>
+<item>
+<title>[80] 口座情報漏えいの楽天証券、「ワンタイムキー発行に時間がかかっている」　出金やログインパス変更に必要</title>
+<link>https://www.itmedia.co.jp/news/article/2611/18/2000003284/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/18/2000003284/</guid>
+<pubDate>Wed, 18 Nov 2026 01:45:17 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>最大約1125万口座分の情報が漏えいしたおそれがあると発表した楽天証券のWebサイトで、11月18日午前、「ワンタイムキー発行に時間がかかっている」ため、「少々時間をおいてから再度お手続きいただきますようお願い申し上げます」とのメッセージが表示されている。 ワンタイムキーは、出金やログインパスワードの変更、... — はてなブックマーク テクノロジー / score: 80 (大手証券会社の大規模情報漏洩とシステム障害)</description>
 </item>
 <item>
 <title>[80] ［速報］マイクロソフト、PostgreSQL互換のミッションクリティカル向けデータベースサービス「Azure HorizonDB」正式リリース</title>
@@ -535,14 +567,6 @@
 <description>Written by: Josh Murchie, John Wolfram, Joseph Spero, Peter Ukhanov, Fernando Tomlinson, Jr., Wesley Shields Introduction Over the past year, Mandiant has responded to a series of linked intrusions demonstrating how Russian cyber espionage group COLD RELIC (formerly tracked as COLDRIVER and UNC4057; also known as Star Blizzard, Callisto, and Gossamer Bear) turns a single cloud compromise into a springboard for ongoing third party compromise and espionage. Most recently, Mandiant investigated a 2 — Google Cloud Blog / score: 80 (Google Mandiantによるセキュリティ侵害の事例研究)</description>
 </item>
 <item>
-<title>[80] Metaが1400億円超の罰金を科される、Androidの写真をスキャンするFacebook機能が原因</title>
-<link>https://gigazine.net/news/20261117-italy-fines-meta-facebook-scan/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261117-italy-fines-meta-facebook-scan/</guid>
-<pubDate>Tue, 17 Nov 2026 04:40:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>Android版Facebookアプリがスマートフォンに保存されている写真や動画を勝手に覗いていたとして、イタリアの個人情報保護機関がMetaに8億500万ユーロ(約1410億円)の制裁金を科したことが分かりました。 続きを読む... — GIGAZINE / score: 80 (Metaのプライバシー侵害問題に対する巨額の罰金)</description>
-</item>
-<item>
 <title>[80] Anthropic、深刻な脆弱性の公開スケジュールを短縮へ ―AIを活用した脆弱性発見に対応</title>
 <link>https://gihyo.jp/article/2026/11/anthropic-update-vulnerability-disclosure-timelines?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/11/anthropic-update-vulnerability-disclosure-timelines?utm_source=feed</guid>
@@ -565,14 +589,6 @@
 <pubDate>Mon, 16 Nov 2026 08:25:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Cloudflareは2026年11月12日、AIエージェント向けブラウザ「Kitesurf」をApache 2.0ライセンスのもと、GitHub上でオープンソースとして公開した。 — gihyo.jp / score: 80 (Cloudflare製AI向け軽量ブラウザの公開)</description>
-</item>
-<item>
-<title>[80] ドコモ「5G SA」で障害 完全復旧</title>
-<link>https://news.yahoo.co.jp/pickup/6602807?source=rss</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6602807?source=rss</guid>
-<pubDate>Mon, 16 Nov 2026 08:04:49 +0000</pubDate>
-<category>Yahoo!ニュース IT</category>
-<description> — Yahoo!ニュース IT / score: 80 (ドコモの5G SA通信障害と完全復旧)</description>
 </item>
 <item>
 <title>[80] AWS Security Hub Network Scanning now supports scanning Amazon Relational Database Service (Amazon RDS) database instances</title>
@@ -639,6 +655,14 @@
 <description>November 9, 2026 — Claude Fable 5.2 and Mythos 5.2 arrive on Anthropic’s IPO roadshow day. How much thinking is worth paying for? — Latent Space / score: 78 (主要LLMの性能逆転とIPO動向)</description>
 </item>
 <item>
+<title>[75] 「Windows Server 2028」のパブリックプレビューが開始 ～Microsoftの次期サーバーOS／既定で堅牢化された構成、NVMe対応の強化や「Intune」による管理も</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2157329.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2157329.html</guid>
+<pubDate>Wed, 18 Nov 2026 05:40:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Microsoftは11月17日（現地時間）、「Windows Server 2028」を発表した。同日よりパブリックプレビューとして公開されており、「Windows Server Insider Program」で新機能を試せる。 — 窓の杜 / score: 75 (次期Windows Serverのプレビュー開始でインフラ関連の注目トピック)</description>
+</item>
+<item>
 <title>[75] GoogleのフィジカルAIが「繊細な手作業」を習得。作業速度も20〜30%改善</title>
 <link>https://www.gizmodo.jp/article/2611-gemini-robotics-2-5/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/2611-gemini-robotics-2-5/</guid>
@@ -655,28 +679,20 @@
 <description>AIエージェントを業務で活用するには、コンテキストとなるデータが欠かせない。そのため、エージェントが必要とするデータをどのように参照させるかが課題だ。一方、AIエージェントは大量かつ多様なクエリを実行するため、参照先となるデータベースには、これまで以上の処理性能と柔軟性が要求される。そこで本記事では、ナインアウト株式会社（以下、ナインアウト）が構築した、ClickHouseをデータ基盤とする社内営業エージェントの事例を通して、AIフレンドリーなデータ基盤に求められる要件を探る。 — CodeZine / score: 75 (ClickHouseとClaudeを用いた高速社内営業エージェントの構築事例)</description>
 </item>
 <item>
+<title>[75] 「.NET 11」に興味深い破壊的変更、『明治』の始まりが45日遅くなる／ごくまれにエラーを引き起こすことも【やじうまの杜】</title>
+<link>https://forest.watch.impress.co.jp/docs/serial/yajiuma/2157180.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/serial/yajiuma/2157180.html</guid>
+<pubDate>Wed, 18 Nov 2026 02:27:10 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>「.NET 11」に興味深い破壊的変更、『明治』の始まりが45日遅くなる／ごくまれにエラーを引き起こすことも【やじうまの杜】 — はてなブックマーク テクノロジー / score: 75 (.NET 11における破壊的変更の興味深い話題)</description>
+</item>
+<item>
 <title>[75] OpenAI、「GPT-6.2 Astra」「GPT-6.2 Sol」を発表 ～少ない出力トークンでより高い成果／上位モデルのAPI料金は2割引き、「Pro 200」でも「Ultrafast」</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2157295.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2157295.html</guid>
 <pubDate>Wed, 18 Nov 2026 00:28:42 +0000</pubDate>
 <category>窓の杜</category>
 <description>米OpenAIは11月17日（現地時間）、大規模言語モデル「GPT-6.2 Astra」と「GPT-6.2 Sol」を発表した。「GPT-6.2 Astra」はもっとも難しいプロジェクト向けの最上位（フロンティア）モデル、「GPT-6.2 Sol」は日常業務向けの効率的で汎用的なモデル。いずれも、より少ない出力トークンで難しいタスクの成果を高めており、利用上限の範囲内でより多くの作業をこなせるという。 — 窓の杜 / score: 75 (OpenAIの新フラグシップモデル発表)</description>
-</item>
-<item>
-<title>[75] PowerShell 7 is coming to Windows - PowerShell Team</title>
-<link>https://devblogs.microsoft.com/powershell/powershell-7-coming-to-windows/</link>
-<guid isPermaLink="true">https://devblogs.microsoft.com/powershell/powershell-7-coming-to-windows/</guid>
-<pubDate>Tue, 17 Nov 2026 22:22:29 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>PowerShell 7 is coming to Windows. Beginning with the next release of Windows, PowerShell 7 will be included as the upgrade for Windows PowerShell 5.1. The Windows team has published the details in KB5137172. Here is what this means for you, your scripts, your automation, and where our work stand... — はてなブックマーク テクノロジー / score: 75 (Windows標準シェルのアップデートに関する重要ニュース)</description>
-</item>
-<item>
-<title>[75] 「.NET 11」に興味深い破壊的変更、『明治』の始まりが45日遅くなる／ごくまれにエラーを引き起こすことも【やじうまの杜】</title>
-<link>https://forest.watch.impress.co.jp/docs/serial/yajiuma/2157180.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/serial/yajiuma/2157180.html</guid>
-<pubDate>Tue, 17 Nov 2026 21:45:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>「やじうまの杜」では、ニュース・レビューにこだわらない幅広い話題をお伝えします。 — 窓の杜 / score: 75 (.NET 11における破壊的変更の興味深い話題)</description>
 </item>
 <item>
 <title>[75] ［速報］PostgreSQL互換のサーバレスでOLTPとOLAP両対応を実現する「Microsoft Fabric HorizonDB」パブリックプレビュー</title>
@@ -743,20 +759,20 @@
 <description>Amazon Elastic Kubernetes Service (Amazon EKS) introduces resource optimization for EKS Auto Mode, a new capability that rightsizes the CPU and memory requests of running Pods based on their actual usage. CPU and memory requests are often set at deploy time and rarely revisited, and Auto Mode provisions EC2 instances to fit them. Rightsizing lets Auto Mode run the same Deployments and StatefulSets on fewer or smaller instances, without hand tuning and at no additional charge. Turn on resource op — AWS What's New / score: 75 (EKS Auto Modeのポッド自動最適化機能)</description>
 </item>
 <item>
+<title>[75] エージェントの自律性を上げると、何が得られて何を失うか —— 助言・承認付き実行・自律実行を実測する</title>
+<link>https://zenn.dev/enterprise_ai/articles/1b1f34af88fb8f</link>
+<guid isPermaLink="true">https://zenn.dev/enterprise_ai/articles/1b1f34af88fb8f</guid>
+<pubDate>Tue, 17 Nov 2026 06:51:14 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>この記事のまとめ 同じエージェント・同じタスクで、自律性のレベル（助言／承認付きの実行／自律的な実行）だけを変えて、Claude Code と Strands Harness で実測しました。承認者は、人の代わりのプログラム2種類と、Claude Code の auto モード（別のモデルが審査する）で試しています。 観点 確かめたこと 結果 得られるもの レベルを変えると、成功率やコストは変わるか 通常のタスクは全条件で成功（15/15）。承認付きにすると、Claude Code はコストが約2割下がった 失うもの 承認を挟めば、誤った記憶による被害を防げるか テ... — Zenn トレンド / score: 75 (AIエージェントの自律性と実測データの分析)</description>
+</item>
+<item>
 <title>[75] Vercel、「Workflow SDK 5」を提供開始　暗号化やリージョン対応、性能を強化</title>
 <link>https://codezine.jp/article/detail/30381</link>
 <guid isPermaLink="true">https://codezine.jp/article/detail/30381</guid>
 <pubDate>Tue, 17 Nov 2026 05:30:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 75 (VercelのWorkflow SDK 5の提供開始)</description>
-</item>
-<item>
-<title>[75] Amazon DynamoDB、S3から既存テーブルへ書き込む「bulk put items」</title>
-<link>https://codezine.jp/article/detail/30380</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/30380</guid>
-<pubDate>Tue, 17 Nov 2026 04:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 75 (Amazon DynamoDBの新機能追加)</description>
 </item>
 <item>
 <title>[75] AIが時代遅れのWebサイトを書くのを防ぐスキル「Modern Web Guidance」が安定版に／「Edge」「Firefox」も参加、Webサイトのモダナイズにも</title>
@@ -789,22 +805,6 @@
 <pubDate>Mon, 16 Nov 2026 20:30:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Amazon Redshift now supports multi-statement transactions, automatic write-conflict resolution, and time travel for Apache Iceberg tables. You can run multi-step, concurrent transformation pipelines directly on Iceberg tables and audit the results, with the transaction semantics you expect from a data warehouse. This helps anyone writing to Iceberg tables at production scale. Batch jobs get all-or-nothing commits across multiple steps. Streaming and scheduled jobs can write to the same tables at — AWS What's New / score: 75 (RedshiftのApache Iceberg機能拡張)</description>
-</item>
-<item>
-<title>[75] 軽量なマイクロVMでネイティブよりアプリを高速起動できる「Hyperlight-Unikraft」登場</title>
-<link>https://www.publickey1.jp/blog/26/vmhyperlight-unikraft.html</link>
-<guid isPermaLink="true">https://www.publickey1.jp/blog/26/vmhyperlight-unikraft.html</guid>
-<pubDate>Mon, 16 Nov 2026 18:30:31 +0000</pubDate>
-<category>Publickey</category>
-<description>Cloud Native Computing Foundationは、Linuxアプリケーションを再コンパイルや再ビルドすることなくそのまま、Unikernelのような軽量かつセキュアな実行環境で仮想マシンによる堅牢な隔離環境で実行できるM... — Publickey / score: 75 (軽量マイクロVMの新技術登場で実用性が高い)</description>
-</item>
-<item>
-<title>[75] IAM Identity Center now supports VPC endpoints and network access controls</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/11/iam-identity-center-vpc-endpoints/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/iam-identity-center-vpc-endpoints/</guid>
-<pubDate>Mon, 16 Nov 2026 08:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>AWS IAM Identity Center now supports interface VPC endpoints powered by AWS PrivateLink and network access controls, enabling you to keep IAM Identity Center traffic private and restrict which networks can reach your IAM Identity Center services. Previously, IAM Identity Center rejected traffic arriving through VPC endpoints, requiring all sign-in and API traffic to use public endpoints. With this launch, you can create interface VPC endpoints for AWS access portal and service APIs to route traf — AWS What's New / score: 75 (AWS IAMのVPCエンドポイント対応でセキュリティ向上)</description>
 </item>
 </channel>
 </rss>
