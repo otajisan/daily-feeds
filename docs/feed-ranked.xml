@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 18 Nov 2026 06:10:55 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 08:08:47 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[98] OpenJDKのBase64デコーダにおけるメモリ破損の脆弱性「Java4Shell」をOpenAIのCodexで発見、わずか3時間で攻撃実証まで成功</title>
@@ -63,6 +63,14 @@
 <description>OpenAIは2026年11月4日、開発中のサイバーセキュリティ向けAIモデルを活用し、Linuxカーネルの脆弱性をエージェントが自律的に発見し検証した結果を発表した。 — gihyo.jp / score: 95 (AIによるLinuxカーネルの脆弱性大量発見と実証の画期的なニュース)</description>
 </item>
 <item>
+<title>[90] Oracle、月例のセキュリティ更新「CSPU」を実施 ～655件のパッチ、「Java4Shell」にも対策／「MySQL」「Oracle VM VirtualBox」など幅広い製品ファミリーに影響</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2157383.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2157383.html</guid>
+<pubDate>Wed, 18 Nov 2026 06:11:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Oracleは11月17日（現地時間）、「Critical Security Patch Update」（CSPU）を実施した。「Oracle Database Server」「Oracle Java SE」「MySQL」「Oracle VM VirtualBox」など幅広い製品ファミリーに対し、655件の新規セキュリティパッチが発行されている。 — 窓の杜 / score: 90 (Oracleの月例大規模セキュリティパッチ適用)</description>
+</item>
+<item>
 <title>[90] OpenAIが「GPT-6.2 Astra」「GPT-6.2 Sol」をリリース、資料作成やPC操作が進化＆少ないトークンで複雑な業務を処理可能に</title>
 <link>https://gigazine.net/news/20261118-openai-gpt-6-2-astra-sol/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261118-openai-gpt-6-2-astra-sol/</guid>
@@ -79,12 +87,12 @@
 <description>はじめに株式会社ユーザベースが運営するソーシャル経済メディア「NewsPicks」において、業務で利用する管理ツールの脆弱性を突いた不正アクセスが発生し、お客様の個人情報の一部が漏洩しました。本件は2... — はてなブックマーク テクノロジー / score: 90 (実サービスにおける不正アクセスと個人情報漏洩)</description>
 </item>
 <item>
-<title>[90] OpenAIが新AI「GPT-6.2 Astra」をリリース。“最高に賢い”のもうひとつのカタチ</title>
+<title>[90] OpenAIが「GPT-6.2 Astra」をリリース。“最高の賢さをコスパよく”って感じの新AI</title>
 <link>https://www.gizmodo.jp/article/2611-gpt-6-2-astra-release/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/2611-gpt-6-2-astra-release/</guid>
 <pubDate>Wed, 18 Nov 2026 02:40:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
-<description>Fable 5.2と同格っぽい。2026年11月18日未明、OpenAIが新しいフラッグシップAI「GPT-6.2 Astra」をリリースしました。有料ユーザーに提供され、ChatGPT Workなどで利用できます。発表を見るかぎりGPT-… — ギズモード・ジャパン / score: 90 (大手AI企業による新しいフラッグシップモデルのリリース)</description>
+<description>Fable 5.2と同格っぽい？2026年11月18日未明、OpenAIが新しいフラッグシップAI「GPT-6.2 Astra」をリリースしました。有料ユーザーに提供され、ChatGPT Workなどで利用できます。発表を見るかぎりGPT-… — ギズモード・ジャパン / score: 90 (大手AI企業による新しいフラッグシップモデルのリリース)</description>
 </item>
 <item>
 <title>[90] 楽天証券への不正アクセスについてまとめてみた - piyolog</title>
@@ -127,15 +135,7 @@
 <description> — Yahoo!ニュース IT / score: 90 (JINSの大規模な個人情報流出インシデント)</description>
 </item>
 <item>
-<title>[90] Zoom・CNN・BBC・IKEAなど178組織のサイトにOptimizely経由で悪意のあるJavaScriptが配信され仮想通貨の盗難被害も発生</title>
-<link>https://gigazine.net/news/20261117-infect-malware-optimizely/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261117-infect-malware-optimizely/</guid>
-<pubDate>Tue, 17 Nov 2026 07:10:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>ウェブサイトの改善や効果測定に使われる「Optimizely(オプティマイズリー)」を通じて悪意のあるJavaScriptが配信され、Zoom・CNN・Salesforce・GitLab・BBC・IKEAなど178組織のウェブサイトに影響が及んでいたことが判明しました。悪意のあるJavaScriptには仮想通貨の送金先を書き換えたりクレジットカード情報を盗み取ったりする機能が含まれており、実際に仮想通貨が盗まれたことも確認されています。 続きを読む... — GIGAZINE / score: 90 (主要組織へのサードパーティ経由の悪意あるスクリプト配信)</description>
-</item>
-<item>
-<title>[90] 「LibreOffice」に19件の脆弱性、AIでの発見が相次ぐ ～v26.2.7/26.8.2で修正済み／文書を開くだけでコードを実行されるおそれも</title>
+<title>[90] 「LibreOffice」に19件の脆弱性、AIでの発見が相次ぐ ～v26.2.7/26.8.2で修正済み【11月18日追記】／文書を開くだけでコードを実行されるおそれも。2件については実証コードが公開される</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2156916.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2156916.html</guid>
 <pubDate>Tue, 17 Nov 2026 06:56:00 +0000</pubDate>
@@ -263,12 +263,20 @@
 <description>OpenAIは2026年11月5日、サイバーセキュリティ向けフロンティアモデルの最新バージョンGPT-6 Cyberを発表した。 — gihyo.jp / score: 90 (AIモデルによるサイバーセキュリティ自動化の重大な発表)</description>
 </item>
 <item>
-<title>[90] A thousand fewer paths to root</title>
-<link>https://openai.com/index/a-thousand-fewer-paths-to-root</link>
-<guid isPermaLink="true">https://openai.com/index/a-thousand-fewer-paths-to-root</guid>
-<pubDate>Wed, 04 Nov 2026 08:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel. — OpenAI News / score: 90 (AIによるLinuxカーネル脆弱性の自動パッチ生成)</description>
+<title>[85] OpenAI「GPT-6.2 Astra」発表　表計算やスライドに強いシゴデキAI</title>
+<link>https://ascii.jp/elem/000/004/452/4452842/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/452/4452842/?rss</guid>
+<pubDate>Wed, 18 Nov 2026 07:20:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>OpenAIは日本時間11月18日、新しいAIモデル「GPT-6.2 Astra」と「GPT-6.2 Sol」を発表した。 — ASCII.jp / score: 85 (新型AIモデルの発表で技術界隈で大きな話題)</description>
+</item>
+<item>
+<title>[85] OpenAI、専門業務向けのGPT-6.2 Astraと日常業務向けのGPT-6.2 Solを発表</title>
+<link>https://gihyo.jp/article/2026/11/gpt-6.2-astra-and-sol?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/11/gpt-6.2-astra-and-sol?utm_source=feed</guid>
+<pubDate>Wed, 18 Nov 2026 06:56:05 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>OpenAIは2026年11月17日、2つの推論モデル「GPT-6.2 Astra」と「GPT-6.2 Sol」の提供をChatGPT Work、Codex、APIで始めた。Astraは複雑なソフトウェア開発や科学研究に向けたモデルで、Solは日々の文章作成やコーディングでの速さとコスト効率を重視している。 — gihyo.jp / score: 85 (OpenAIによる新推論モデルの発表)</description>
 </item>
 <item>
 <title>[85] 「Google Chrome 158」が公開 ～204件の脆弱性を修正、「XSLT」サポートが終了／「Web Install API」対応、Android版では「WebHID」にも</title>
@@ -511,14 +519,6 @@
 <description>JEP 401 (Value Objects) arrives in OpenJDK as a preview feature, enabling a new Java type model with minimal code changes. The talk explains what value objects are, JVM benefits, Valhalla history, implementation details, and the path toward bridging objects and primitives, including future support like List&lt;int&gt;. — Inside Java / score: 82 (Java Valhallaプロジェクトの解説と進化)</description>
 </item>
 <item>
-<title>[80] ケーブルを巻き取ってすっきり収納！ 最大67WのUSB-C充電器、PC・スマホの2台同時充電に対応</title>
-<link>https://ascii.jp/elem/000/004/452/4452667/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/452/4452667/?rss</guid>
-<pubDate>Wed, 18 Nov 2026 05:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>約0.91mの巻き取り式USB-Cケーブルを内蔵したAC充電器が11月中旬に6,780円で発売。単独最大67W、2台同時は合計最大65Wで、接続機器に応じて出力を自動配分する。重さ約170gで持ち運びやすく、PCやスマホ、Switch 2の充電にも対応。 — ASCII.jp / score: 80 (アプリの脆弱性情報でありセキュリティ上重要)</description>
-</item>
-<item>
 <title>[80] PowerShell 5.1が非推奨に。次期WindowsからPowerShell 7へ移行</title>
 <link>https://pc.watch.impress.co.jp/docs/news/2157354.html</link>
 <guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2157354.html</guid>
@@ -541,14 +541,6 @@
 <pubDate>Tue, 17 Nov 2026 21:45:41 +0000</pubDate>
 <category>Publickey</category>
 <description>マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、PostgreSQL互換のミッションクリティカル向けデータベースサービス「Azure HorizonDB」の正式リリースを発表し... — Publickey / score: 80 (ミッションクリティカル向けDBの正式リリース)</description>
-</item>
-<item>
-<title>[80] 楽天証券も不正アクセス。資産を守るために確認しておきたい設定</title>
-<link>https://www.gizmodo.jp/article/2611-rakuten-securities-unauthorized-access-security-settings/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-rakuten-securities-unauthorized-access-security-settings/</guid>
-<pubDate>Tue, 17 Nov 2026 21:35:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>楽天証券の不正アクセス・情報漏えい懸念を受け、楽天証券ユーザーの筆者が、大切な資産を守るために、今すぐ確認・見直すべきセキュリティ設定や取引制限の方法を説明します。 — ギズモード・ジャパン / score: 80 (楽天証券不正アクセスとセキュリティ対策)</description>
 </item>
 <item>
 <title>[80] AWS announces general availability of AWS Interconnect - multicloud connectivity with Microsoft Azure</title>
@@ -653,6 +645,14 @@
 <pubDate>Tue, 10 Nov 2026 06:34:44 +0000</pubDate>
 <category>Latent Space</category>
 <description>November 9, 2026 — Claude Fable 5.2 and Mythos 5.2 arrive on Anthropic’s IPO roadshow day. How much thinking is worth paying for? — Latent Space / score: 78 (主要LLMの性能逆転とIPO動向)</description>
+</item>
+<item>
+<title>[75] 「Windows Server 2016」の延長サポート終了まであと60日を切る ～Microsoftが注意喚起／基本的には2027年1月の「Windows Update」が最後のパッチ</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2157404.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2157404.html</guid>
+<pubDate>Wed, 18 Nov 2026 07:45:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米国太平洋時間2027年1月12日（日本時間13日）、「Windows Server 2016」の延長サポートが終了する。米Microsoftが11月13日（現地時間）、「Windows メッセージ センター」で改めて注意を呼び掛けている。 — 窓の杜 / score: 75 (Windows Server 2016のサポート終了注意喚起)</description>
 </item>
 <item>
 <title>[75] 「Windows Server 2028」のパブリックプレビューが開始 ～Microsoftの次期サーバーOS／既定で堅牢化された構成、NVMe対応の強化や「Intune」による管理も</title>
