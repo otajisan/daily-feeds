@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 18 Nov 2026 18:07:40 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 20:06:34 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[98] OpenJDKのBase64デコーダにおけるメモリ破損の脆弱性「Java4Shell」をOpenAIのCodexで発見、わずか3時間で攻撃実証まで成功</title>
@@ -13,6 +13,14 @@
 <pubDate>Wed, 18 Nov 2026 04:00:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>セキュリティ研究企業のCalifが2026年11月17日、Javaのオープンソース実装であるOpenJDKに重大な脆弱(ぜいじゃく)性「Java4Shell(CVE-2026-114938)」が存在すると発表しました。Java4Shellを悪用すると、攻撃者は機密情報の窃取やリモートコード実行(RCE)が可能になります。CalifはOpenAIのAIコーディングエージェント「Codex」を利用して、わずか1時間で脆弱性を発見したと報告しています。 続きを読む... — GIGAZINE / score: 98 (重大な脆弱性の発見とAIによる実証の速報)</description>
+</item>
+<item>
+<title>[95] XユーザーのSatoki@Kn0wl3dg3さん: 「弊社は世界中で使われているNGINXの最新版に、ログインなしでサーバーを乗っ取れる深刻な脆弱性「NGINX2Shell」を発見しました。@OpenAI との協力のもと、発見から報告まで一緒に進めていました。ちなみに、とあるバグバウンティイベントではこれが$300,000らしい💸 #NGINX2Shell」 / X</title>
+<link>https://x.com/satoki00/status/2123071303657910632</link>
+<guid isPermaLink="true">https://x.com/satoki00/status/2123071303657910632</guid>
+<pubDate>Wed, 18 Nov 2026 15:28:20 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>XユーザーのSatoki@Kn0wl3dg3さん: 「弊社は世界中で使われているNGINXの最新版に、ログインなしでサーバーを乗っ取れる深刻な脆弱性「NGINX2Shell」を発見しました。@OpenAI との協力のもと、発見から報告まで一緒に進めていました。ちなみに、とあるバグバウンティイベントではこれが$300,000らしい💸 #NGINX2Shell」 / X — はてなブックマーク テクノロジー / score: 95 (世界的なNGINXの深刻な脆弱性のため)</description>
 </item>
 <item>
 <title>[95] Unauthenticated Remote Code Execution in NGINX: CVE-2026-123633 and CVE-2026-123007 | Wiz Blog</title>
@@ -639,6 +647,22 @@
 <description>November 9, 2026 — Claude Fable 5.2 and Mythos 5.2 arrive on Anthropic’s IPO roadshow day. How much thinking is worth paying for? — Latent Space / score: 78 (主要LLMの性能逆転とIPO動向)</description>
 </item>
 <item>
+<title>[75] AWS Lambda now supports GPU instances for Event Functions on Lambda Managed Instances</title>
+<link>https://aws.amazon.com/blogs/aws/aws-lambda-now-supports-gpu-instances-for-event-functions-on-lambda-managed-instances/</link>
+<guid isPermaLink="true">https://aws.amazon.com/blogs/aws/aws-lambda-now-supports-gpu-instances-for-event-functions-on-lambda-managed-instances/</guid>
+<pubDate>Wed, 18 Nov 2026 19:39:07 +0000</pubDate>
+<category>AWS News Blog</category>
+<description>AWS Lambda now supports GPU instances (G-series) for Event Functions running on Lambda Managed Instances, enabling serverless GPU workloads like machine learning inference, media processing, and rendering. Lambda handles all infrastructure tasks, including instance lifecycle, driver management, and auto scaling, while maximizing GPU utilization across concurrent requests with standard EC2 pricing plus a management fee — AWS News Blog / score: 75 (サーバーレスでのGPUワークロード実行が可能に)</description>
+</item>
+<item>
+<title>[75] AWS Lambda adds support for GPU instances on Lambda Managed Instances</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-gpu-managed-instances/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-gpu-managed-instances/</guid>
+<pubDate>Wed, 18 Nov 2026 18:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS Lambda now supports GPU-accelerated Event Functions on Lambda Managed Instances using EC2 G-series instances . You can now run GPU-accelerated workloads including AI inference, media processing, 3D rendering, scientific computing, and financial simulations on Lambda without managing GPU drivers, frameworks, or scaling. Lambda runs multiple invocations concurrently in each execution environment and scales responsively based on GPU utilization, CPU utilization, and concurrency to keep your GPU — AWS What's New / score: 75 (AWS LambdaでのGPUインスタンスサポート追加)</description>
+</item>
+<item>
 <title>[75] マイクロソフト、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始</title>
 <link>https://www.publickey1.jp/blog/26/aiaimicrosoft_perception.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/aiaimicrosoft_perception.html</guid>
@@ -693,6 +717,14 @@
 <pubDate>Wed, 18 Nov 2026 07:45:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米国太平洋時間2027年1月12日（日本時間13日）、「Windows Server 2016」の延長サポートが終了する。米Microsoftが11月13日（現地時間）、「Windows メッセージ センター」で改めて注意を呼び掛けている。 — 窓の杜 / score: 75 (Windows Server 2016のサポート終了注意喚起)</description>
+</item>
+<item>
+<title>[75] 同じ仕事を少ないトークンで。GPT-6.2 AstraとSolが登場</title>
+<link>https://pc.watch.impress.co.jp/docs/news/2157394.html</link>
+<guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2157394.html</guid>
+<pubDate>Wed, 18 Nov 2026 07:27:28 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>同じ仕事を少ないトークンで。GPT-6.2 AstraとSolが登場 — はてなブックマーク テクノロジー / score: 75 (主要AIモデルの新しいアップデート発表)</description>
 </item>
 <item>
 <title>[75] 「Windows Server 2028」のパブリックプレビューが開始 ～Microsoftの次期サーバーOS／既定で堅牢化された構成、NVMe対応の強化や「Intune」による管理も</title>
@@ -773,38 +805,6 @@
 <pubDate>Tue, 17 Nov 2026 15:00:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Amazon API Gateway now offers a native JWT authorizer for REST APIs, a new authorizer type that validates JSON Web Tokens directly in the gateway. Until now, validating tokens from an OpenID Connect or OAuth 2.0 identity provider other than Amazon Cognito required a Lambda authorizer. You now configure token validation instead of writing and operating code for it. You can define one or more issuers, the audiences accepted for each, the signing algorithms you permit, and any additional claims a t — AWS What's New / score: 75 (API GatewayのネイティブJWT認証サポート)</description>
-</item>
-<item>
-<title>[75] [AINews] Perplexity hits a $1B revenue run rate, up 4x in 2026</title>
-<link>https://latent.space/p/ainews-perplexity-hits-a-1b-revenue-run-rate-up-4x-in-2026/</link>
-<guid isPermaLink="true">https://latent.space/p/ainews-perplexity-hits-a-1b-revenue-run-rate-up-4x-in-2026/</guid>
-<pubDate>Tue, 17 Nov 2026 09:24:56 +0000</pubDate>
-<category>Latent Space</category>
-<description>November 16, 2026 — Computer gets Teammates, Perplexity ships Monitor API, and a new research lab launches. — Latent Space / score: 75 (Perplexityの収益急成長とAI動向)</description>
-</item>
-<item>
-<title>[75] AWS IAM announces Access Troubleshooter to debug access denied errors</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/11/iam-access-troubleshooter/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/iam-access-troubleshooter/</guid>
-<pubDate>Tue, 17 Nov 2026 08:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>AWS Identity and Access Management (IAM) introduces Access Troubleshooter , a new capability that gives you visibility into the full authorization context behind access denied errors so you can resolve them without trial-and-error. Previously, developers relied on the Amazon Resource Name (ARN) of the denying policy to debug a denial, with no visibility into the authorization context or other policies evaluated in the request that could contribute to the denial. This made troubleshooting access  — AWS What's New / score: 75 (IAMの権限エラーデバッグを効率化する実用的な機能。)</description>
-</item>
-<item>
-<title>[75] Amazon EKS Auto Mode now rightsizes Pods to reduce compute costs (Preview)</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/11/eks-auto-mode-pod-rightsizing-preview/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/eks-auto-mode-pod-rightsizing-preview/</guid>
-<pubDate>Tue, 17 Nov 2026 08:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Amazon Elastic Kubernetes Service (Amazon EKS) introduces resource optimization for EKS Auto Mode, a new capability that rightsizes the CPU and memory requests of running Pods based on their actual usage. CPU and memory requests are often set at deploy time and rarely revisited, and Auto Mode provisions EC2 instances to fit them. Rightsizing lets Auto Mode run the same Deployments and StatefulSets on fewer or smaller instances, without hand tuning and at no additional charge. Turn on resource op — AWS What's New / score: 75 (EKS Auto Modeのポッド自動最適化機能)</description>
-</item>
-<item>
-<title>[75] Vercel、「Workflow SDK 5」を提供開始　暗号化やリージョン対応、性能を強化</title>
-<link>https://codezine.jp/article/detail/30381</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/30381</guid>
-<pubDate>Tue, 17 Nov 2026 05:30:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 75 (VercelのWorkflow SDK 5の提供開始)</description>
 </item>
 </channel>
 </rss>
