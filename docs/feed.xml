@@ -4,8 +4,96 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 18 Nov 2026 16:06:40 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 18:07:40 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>A bridge to modernization: What IDC’s Market Note says about Cameyo by Google</title>
+<link>https://cloud.google.com/blog/products/chrome-enterprise/a-bridge-to-modernization-what-idcs-market-note-says-about-cameyo-by-google/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/chrome-enterprise/a-bridge-to-modernization-what-idcs-market-note-says-about-cameyo-by-google/</guid>
+<pubDate>Wed, 18 Nov 2026 18:06:16 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Organizations are increasingly adopting generative and agentic AI as they look for ways to unlock more business value. Yet for many IT leaders, business-critical legacy desktop apps stand in the way—too essential to retire, too complex and costly to rewrite—yet unequipped for the security challenges and productivity opportunities of the AI era. That doesn’t have to block your modernization strategy. By delivering Windows and legacy applications directly inside the Chrome browser, Cameyo by Googl — Google Cloud Blog / score: 35 (レガシーアプリ近代化に関するIDCレポートの紹介。)</description>
+</item>
+<item>
+<title>EMEA startups building the next-generation of agents on Google Cloud</title>
+<link>https://cloud.google.com/blog/topics/startups/google-cloud-highlights-emea-startup-momentum-at-slush-2026/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/startups/google-cloud-highlights-emea-startup-momentum-at-slush-2026/</guid>
+<pubDate>Wed, 18 Nov 2026 17:30:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>As thousands of founders, investors, and technology leaders gather in Helsinki for Slush 2026, the European startup ecosystem is undergoing a profound transformation. The conversation has moved from AI experiments to operating agents. Across Europe, the Middle East, and Africa (EMEA), pioneering startups are deploying autonomous AI agents that reason, integrate deeply with core systems, and automate complex workflows at scale. At Google Cloud and Google DeepMind we’re focused on delivering a com — Google Cloud Blog / score: 25 (欧州スタートアップとGoogle Cloudに関するプロモーション。)</description>
+</item>
+<item>
+<title>The Gemini app is now available on lower-memory Android devices.</title>
+<link>https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/</link>
+<guid isPermaLink="true">https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/</guid>
+<pubDate>Wed, 18 Nov 2026 17:00:00 +0000</pubDate>
+<category>Google AI Blog</category>
+<description>The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today. — Google AI Blog / score: 50 (Geminiアプリの低メモリ端末対応の発表。)</description>
+</item>
+<item>
+<title>Amazon RDS for MySQL supports MySQL minor version 8.4.13</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-mysql-8413-available/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-mysql-8413-available/</guid>
+<pubDate>Wed, 18 Nov 2026 17:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Starting today, Amazon Relational Database Service (Amazon RDS) for MySQL supports MySQL minor version 8.4.13, the latest minor released by community MySQL. We recommend upgrading to the newer minor versions to accept fixes for Common Vulnerabilities and Exposures (CVEs) in prior versions of MySQL and to benefit from bug fixes, performance improvements, and new functionality added by the MySQL community. Learn more about the enhancements in RDS for MySQL 8.4.13 in the Amazon RDS user guide and M — AWS What's New / score: 45 (RDS for MySQLのマイナーバージョンアップ対応。)</description>
+</item>
+<item>
+<title>Amazon Cognito now supports point-in-time recovery</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-point-in-time-recovery/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-point-in-time-recovery/</guid>
+<pubDate>Wed, 18 Nov 2026 17:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon Cognito now supports point-in-time recovery (PITR), so you can restore the user data in a user pool to an earlier time. Amazon Cognito helps you implement secure sign-in and access control for users, AI agents, and microservices. Previously, you had to build and maintain your own export and restore process, and restored users received new identifiers and had to reset their passwords. With PITR, you choose a recovery point, preview how many users, groups, multi-factor authentication (MFA)  — AWS What's New / score: 60 (Amazon Cognitoのポイントインタイムリカバリ対応。)</description>
+</item>
+<item>
+<title>Sashiko: Lessons from building an agentic code review system for Linux</title>
+<link>https://cloud.google.com/blog/products/application-development/lessons-from-building-sashiko-an-agentic-code-review-system/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/application-development/lessons-from-building-sashiko-an-agentic-code-review-system/</guid>
+<pubDate>Wed, 18 Nov 2026 17:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>The speed of development in large open-source projects has always been limited by code review, not code generation. Even as coding agents get better at writing code, they do not accelerate development on their own. This is especially true of patches to the Linux kernel. Without a way to build trust in proposed changes, more generated code simply piles up in front of the same small group of human maintainers. Some of those patches are solid changes, just written faster; many others are plausible- — Google Cloud Blog / score: 70 (Linux向けコードレビューエージェントの知見。)</description>
+</item>
+<item>
+<title>What’s new in OKF v0.3: enterprise-ready knowledge, use cases, and skills</title>
+<link>https://cloud.google.com/blog/products/data-analytics/introducing-okf-v0-3/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/data-analytics/introducing-okf-v0-3/</guid>
+<pubDate>Wed, 18 Nov 2026 17:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>In June we introduced the Open Knowledge Format (OKF) , an open specification that provides plain markdown and YAML to give agents the context they need. In July, v0.2 added trust signals: provenance, trust, freshness, lifecycle, and attestation. In production, bundles move between organizations, multiple agents edit the same corpus, and independent tools need to read a bundle the same way. Released today, OKF v0.3 adds precise conformance rules, trust tiers that keep pace with agent edits, self — Google Cloud Blog / score: 50 (Open Knowledge Format v0.3のアップデート。)</description>
+</item>
+<item>
+<title>Building an agentic stack in Envoy: routing models, tokens, and MCP</title>
+<link>https://cloud.google.com/blog/products/networking/the-envoy-agentic-stack-routing-models-tokens-and-mcp/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/networking/the-envoy-agentic-stack-routing-models-tokens-and-mcp/</guid>
+<pubDate>Wed, 18 Nov 2026 17:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>At Google Cloud, we believe the next generation of AI and agentic systems must be built on open, battle-tested foundations. Envoy, an open-source edge and service proxy designed for cloud-native applications, has already transformed microservices and modern cloud networking, powering everything from Google Cloud’s Application Load Balancers to the Agent Substrate dataplane on Google Kubernetes Engine. Now, Envoy is uniquely positioned to become the open standard for AI traffic, MCP tooling, and  — Google Cloud Blog / score: 65 (EnvoyにおけるAIエージェントスタック構築の話題。)</description>
+</item>
+<item>
+<title>Scaling massive AI/ML workloads with IPv6 on Google Kubernetes Engine clusters</title>
+<link>https://cloud.google.com/blog/products/networking/run-aiml-workloads-on-ipv6-only-gke-clusters/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/networking/run-aiml-workloads-on-ipv6-only-gke-clusters/</guid>
+<pubDate>Wed, 18 Nov 2026 17:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>TL;DR: Single-stack IPv6 on GKE runs both nodes and pods without having to use private IPv4 addresses. Available in preview for Cloud TPU v6e and CPU node pools, including Axion, it works with DNS64/NAT64 to reach IPv4 endpoints. Long before they run out of compute or power, AI applications hit another wall: running out of IP addresses. A single AI deployment often requires a vast address space to support everything from thousands of accelerator nodes, scaling inference replicas, bursting Ray wo — Google Cloud Blog / score: 60 (GKEでのIPv6による大規模AI/MLワークロードのスケーリング。)</description>
+</item>
+<item>
+<title>Testing changes, fast: Introducing agentic assessments in Database Center</title>
+<link>https://cloud.google.com/blog/products/databases/database-center-assessments-for-cloud-sql-for-postgresql/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/databases/database-center-assessments-for-cloud-sql-for-postgresql/</guid>
+<pubDate>Wed, 18 Nov 2026 17:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Applying recommendations to a production database can feel risky if you can’t easily quantify the performance benefit or justify the additional cost. While Database Center flags fleet-level health issues and provides proactive recommendations, database administrators still face the challenge of testing recommended changes without disrupting live applications or spending hours manually configuring staging replicas. To help solve this problem, we’re excited to announce the preview of assessments i — Google Cloud Blog / score: 55 (Database Centerのエージェント型アセスメント機能。)</description>
+</item>
+<item>
+<title>発表会詳報!!【Suica新キャラ誕生】166万票で「ペンギン」から「紫ウサギ」になったワケは!?</title>
+<link>https://ascii.jp/elem/000/004/452/4452951/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/452/4452951/?rss</guid>
+<pubDate>Wed, 18 Nov 2026 17:00:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>ペンギンに代わる新キャラクター「Suica新キャラクターお披露目会」の詳細レポートです — ASCII.jp / score: 10 (Suicaの新キャラクターに関する一般的なニュース。)</description>
+</item>
 <item>
 <title>マイクロソフト、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始</title>
 <link>https://www.publickey1.jp/blog/26/aiaimicrosoft_perception.html</link>
@@ -13,6 +101,14 @@
 <pubDate>Wed, 18 Nov 2026 16:00:37 +0000</pubDate>
 <category>Publickey</category>
 <description>マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、AIによるサイバー攻撃に対抗するためのAIエージェントによる新サービス「Microsoft Perception」の提供開始を発... — Publickey / score: 75 (マイクロソフトのAIセキュリティ新サービスの発表)</description>
+</item>
+<item>
+<title>Amazon RDS now supports fast storage volume initialization</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-fast-storage-volume-initialization/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-fast-storage-volume-initialization/</guid>
+<pubDate>Wed, 18 Nov 2026 16:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon RDS now initializes storage volumes faster when you perform a point-in-time restore (PITR), create a read replica, or convert a Single-AZ instance to Multi-AZ. Each of these operations creates storage volumes from a snapshot, and the data blocks are downloaded from Amazon S3 before you can access them. With fast storage volume initialization, you get a fully performant DB instance in a predictable amount of time. Previously, the initialization rate varied with your workload and with which — AWS What's New / score: 40 (RDSのストレージボリューム初期化の高速化。)</description>
 </item>
 <item>
 <title>マイクロソフト、AIが生成したアプリを企業内で安全に実行するランタイム「Copilot Managed Runtime」正式リリース</title>
@@ -141,6 +237,14 @@
 <pubDate>Wed, 18 Nov 2026 14:00:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>1250億パラメーターのAIモデル「Qwen3.8-Flash-Next」を一般的なPCで動作させるソフトウェアの「Strata」をベースにGPUの計算処理をオープンな標準規格「SYCL」で書き直すことでIntel製GPUにも対応し、Intel・AMD・NVIDIA製のGPUを共通のコードで扱えるようにした無料のオープンソースソフトウェアが「XeStrata」です。 続きを読む... — GIGAZINE / score: 60 (多様なGPUで大規模AIモデルを動かすOSS)</description>
+</item>
+<item>
+<title>TDP 140WのデスクトップPC版RTX Sparkの性能をTDP 45W〜80WのノートPC版と比較、真価は電力制限で変わる!?</title>
+<link>https://ascii.jp/elem/000/004/452/4452878/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/452/4452878/?rss</guid>
+<pubDate>Wed, 18 Nov 2026 14:00:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>RTX Spark搭載ミニPC「ProArt GR1X」レビュー【前編】 — ASCII.jp / score: 45 (デスクトップ・ノートPC向けハードウェアの性能比較レビュー。)</description>
 </item>
 <item>
 <title>データセンター水使いすぎじゃない？→中国「海の中にデータセンター設置します」</title>
@@ -647,22 +751,6 @@
 <description>コメダ珈琲店は11月25日より、季節限定バーガー「グラクロ～和牛ボロネーゼ～」と「グラクロ」を販売します。 — ASCII.jp / score: 0 (飲食店の新商品情報)</description>
 </item>
 <item>
-<title>日テレアナが運営するブランドAudire（アウディーレ）が、特別な季節を彩る、胸が高鳴るホリデーコレクションを11/18に販売開始</title>
-<link>https://ascii.jp/elem/000/004/452/4452928/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/452/4452928/?rss</guid>
-<pubDate>Wed, 18 Nov 2026 09:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>日テレアナが運営するブランドAudire（アウディーレ）が、特別な季節を彩る、胸が高鳴るホリデーコレクションを11/18に販売開始 — ASCII.jp / score: 0 (アパレルブランドの販売情報)</description>
-</item>
-<item>
-<title>SamuraiAX、ヤマト運輸「ビジネスメンバーズ」の運賃と請求金額をAIから取得できるAPI連携をリリース（Samurai App）</title>
-<link>https://ascii.jp/elem/000/004/452/4452926/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/452/4452926/?rss</guid>
-<pubDate>Wed, 18 Nov 2026 09:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>SamuraiAX、ヤマト運輸「ビジネスメンバーズ」の運賃と請求金額をAIから取得できるAPI連携をリリース（Samurai App） — ASCII.jp / score: 60 (AIを活用したAPI連携のリリース)</description>
-</item>
-<item>
 <title>iPhone DuoのMagSafeスマホリング、薄くて軽いこれに決めました</title>
 <link>https://www.gizmodo.jp/article/2611-andobil-magsafe-smartphone-ring/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/2611-andobil-magsafe-smartphone-ring/</guid>
@@ -717,94 +805,6 @@
 <pubDate>Wed, 18 Nov 2026 08:45:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>トラックボールを外してキーに変更できる隠し機能が判明したKeychron C3 Pro Trackballのクラファン超早割終了まで残り2日。最大15パーセントOFFの破格で購入できる最後のチャンス。 — ギズモード・ジャパン / score: 30 (メカニカルキーボードのクラウドファンディング情報である)</description>
-</item>
-<item>
-<title>ソフトバンクのiPhone18 Proが実質値上げ！2年返却で2,664円増</title>
-<link>https://iphone-mania.jp/iphone18-608833/</link>
-<guid isPermaLink="true">https://iphone-mania.jp/iphone18-608833/</guid>
-<pubDate>Wed, 18 Nov 2026 08:40:21 +0000</pubDate>
-<category>iPhone Mania</category>
-<description>ソフトバンクは11月17日、オンラインショップで他社から乗り換える際のiPhone18 Pro（256GB）とiPhone Air（256GB）の「オンラインショップ割」を改定しました。 ケータイ Watchによると、i […] — iPhone Mania / score: 20 (キャリアの端末価格改定のニュース)</description>
-</item>
-<item>
-<title>【ブラックフライデーセール】本場で収録した本物のエスニック・ブルガリアンクワイヤ音源、STREZOV SAMPLING「RHODOPE 2 ETHNIC BULGARIAN CHOIR」が53%OFF！</title>
-<link>https://computermusic.jp/2026/11/rhodope-2-ethnic-bulgarian-choir/</link>
-<guid isPermaLink="true">https://computermusic.jp/2026/11/rhodope-2-ethnic-bulgarian-choir/</guid>
-<pubDate>Wed, 18 Nov 2026 08:31:46 +0000</pubDate>
-<category>Computer Music Japan</category>
-<description>本場で収録した本物のエスニック・ブルガリアンクワイヤ音源、STREZOV SAMPLING「RHODOPE 2 ETHNIC BULGARIAN CHOIR」が53%OFFとなっています。 Strezov Samplin... The post 【ブラックフライデーセール】本場で収録した本物のエスニック・ブルガリアンクワイヤ音源、STREZOV SAMPLING「RHODOPE 2 ETHNIC BULGARIAN CHOIR」が53%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 20 (DTM用音源プラグインのセール情報である)</description>
-</item>
-<item>
-<title>iPhoneで入退室　パナ、Appleウォレット社員証対応の入退室管理システム</title>
-<link>https://www.watch.impress.co.jp/docs/news/2157527.html</link>
-<guid isPermaLink="true">https://www.watch.impress.co.jp/docs/news/2157527.html</guid>
-<pubDate>Wed, 18 Nov 2026 08:25:27 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>iPhoneで入退室 パナ、Appleウォレット社員証対応の入退室管理システム — はてなブックマーク テクノロジー / score: 50 (Appleウォレット社員証対応の入退室管理)</description>
-</item>
-<item>
-<title>20周年記念iPhone、現在は4つのモデルを開発中か——4辺曲面ガラスデザインは3年前から開発との情報</title>
-<link>https://taisy0.com/2026/11/18/230610.html</link>
-<guid isPermaLink="true">https://taisy0.com/2026/11/18/230610.html</guid>
-<pubDate>Wed, 18 Nov 2026 08:23:48 +0000</pubDate>
-<category>気になる、記になる…</category>
-<description>Appleが2027年に発売する「iPhone」のProモデルは20周年記念モデルとなり、大幅なデザイン刷新が噂されていますが、本日、リーカーのIce Universe氏が、その20周年記念iPhoneに関する最新情報を […] — 気になる、記になる… / score: 20 (次期iPhoneに関する噂やリーク情報)</description>
-</item>
-<item>
-<title>【ブラックフライデーセール】ヴィンテージとナチュラル両方のサウンド、音楽的なコントロール、イノベーションを備えたハイエンド・リバーブ、Fabfilter「Pro-R 2」が29%OFF！</title>
-<link>https://computermusic.jp/2026/11/pro-r-2-2/</link>
-<guid isPermaLink="true">https://computermusic.jp/2026/11/pro-r-2-2/</guid>
-<pubDate>Wed, 18 Nov 2026 08:16:00 +0000</pubDate>
-<category>Computer Music Japan</category>
-<description>ヴィンテージとナチュラル両方のサウンド、音楽的なコントロール、イノベーションを備えたハイエンド・リバーブ、Fabfilter「Pro-R 2」が29%OFFとなっています。 Fabfilterが最大25%OFFとなるブラ... The post 【ブラックフライデーセール】ヴィンテージとナチュラル両方のサウンド、音楽的なコントロール、イノベーションを備えたハイエンド・リバーブ、Fabfilter「Pro-R 2」が29%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 20 (音楽制作向けリバーブプラグインのセール情報である)</description>
-</item>
-<item>
-<title>NewsPicks漏えい、Metabase脆弱性が原因　パッチ適用前日にデータ窃取、JPCERT/CC公表「不審IPアドレス」で攻撃発覚</title>
-<link>https://www.itmedia.co.jp/news/article/2611/18/2000003300/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/18/2000003300/</guid>
-<pubDate>Wed, 18 Nov 2026 08:06:20 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>ユーザベースは11月18日、経済メディア「NewsPicks」が不正アクセスを受けてユーザーの氏名や住所、クレジットカード情報の一部が流出した問題の調査報告を公表し、BIツール「Metabase」の脆弱性が原因だったことなどを明らかにした。 同社は、MetabaseがSQLインジェクションの脆弱性を公表した6日後（3営業日後）の8月1... — はてなブックマーク テクノロジー / score: 92 (既知の脆弱性に起因する実際の情報漏えい事例)</description>
-</item>
-<item>
-<title>【無料】期間中にEastWest製品を購入すると、180以上の楽器と600を超えるパッチを搭載した総合音源「Goliath」（通常35,000円）がプレゼント！</title>
-<link>https://computermusic.jp/2026/11/goliath/</link>
-<guid isPermaLink="true">https://computermusic.jp/2026/11/goliath/</guid>
-<pubDate>Wed, 18 Nov 2026 08:01:07 +0000</pubDate>
-<category>Computer Music Japan</category>
-<description>期間中にEastWest製品を購入すると、180以上の楽器と600を超えるパッチを搭載した総合音源「Goliath」（通常35,000円）がプレゼントされるキャンペーンを開催です。 なお、対象期間は2026年11月1日〜... The post 【無料】期間中にEastWest製品を購入すると、180以上の楽器と600を超えるパッチを搭載した総合音源「Goliath」（通常35,000円）がプレゼント！ first appeared on Computer Music Japan . — Computer Music Japan / score: 10 (音楽制作ソフトの販促キャンペーン情報である)</description>
-</item>
-<item>
-<title>クロワッサンとカフェラテを同時に頬張った味を再現したという「クラフトボス クロワッサンラテ」を飲んでみた</title>
-<link>https://gigazine.net/news/20261118-suntory-craftboss-croissant-latte/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261118-suntory-craftboss-croissant-latte/</guid>
-<pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>サントリーのペットボトル飲料シリーズ「クラフトボス」から、2026年11月10日(火)に「クラフトボス クロワッサンラテ」が登場しました。「クロワッサンとカフェラテを同時に頬張った時の味わい」を再現したというラテがどんな味なのか気になったので、実際に飲んでみました。 続きを読む... — GIGAZINE / score: 15 (新商品飲料の食レポ記事)</description>
-</item>
-<item>
-<title>AWS Control Tower now supports existing Amazon S3 bucket for log delivery</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/11/control-tower-existing-s3-log-bucket/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/control-tower-existing-s3-log-bucket/</guid>
-<pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>AWS Control Tower now lets you use an existing Amazon S3 bucket in your landing zone to store AWS Config and AWS CloudTrail logs. Previously, AWS Control Tower required you to use the Amazon S3 bucket it creates and manages for log storage. Now, customers who want full control of bucket policies, lifecycle rules, and logging infrastructure can consolidate centralized logs in an Amazon S3 bucket they already manage. You can use your own Amazon S3 bucket for both AWS Config and AWS CloudTrail, giv — AWS What's New / score: 55 (AWS Control Towerの機能アップデート)</description>
-</item>
-<item>
-<title>November 18, 2026</title>
-<link>https://docs.cloud.google.com/release-notes#November_18_2026</link>
-<guid isPermaLink="true">https://docs.cloud.google.com/release-notes#November_18_2026</guid>
-<pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
-<category>Google Cloud リリースノート</category>
-<description>Application Integration Security A Deserialization of Untrusted Data vulnerability was discovered in integration execution parameter handling in Application Integration versions prior to September 22, 2026. For more information, see the GCP-2026-083 security bulletin. — Google Cloud リリースノート / score: 70 (Google CloudのCloud SQL関連のアップデート)</description>
-</item>
-<item>
-<title>Xiaomi 18 Proは「背中」がすごい。ギズモード編集部が1週間使ってみた</title>
-<link>https://www.gizmodo.jp/article/xiaomi-18-pro/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/xiaomi-18-pro/</guid>
-<pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>ライカ共同開発カメラと「背面ディスプレイ」が特徴のXiaomi 18 Proシリーズをギズモード編集部が1週間レビュー。それぞれの編集部員がどのように活用したのか、動画と記事でお届けします。 — ギズモード・ジャパン / score: 50 (最新の注目スマホ端末のレビュー記事)</description>
 </item>
 </channel>
 </rss>
