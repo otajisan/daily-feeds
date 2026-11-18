@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 18 Nov 2026 14:06:35 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 16:06:40 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[98] OpenJDKのBase64デコーダにおけるメモリ破損の脆弱性「Java4Shell」をOpenAIのCodexで発見、わずか3時間で攻撃実証まで成功</title>
@@ -13,6 +13,14 @@
 <pubDate>Wed, 18 Nov 2026 04:00:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>セキュリティ研究企業のCalifが2026年11月17日、Javaのオープンソース実装であるOpenJDKに重大な脆弱(ぜいじゃく)性「Java4Shell(CVE-2026-114938)」が存在すると発表しました。Java4Shellを悪用すると、攻撃者は機密情報の窃取やリモートコード実行(RCE)が可能になります。CalifはOpenAIのAIコーディングエージェント「Codex」を利用して、わずか1時間で脆弱性を発見したと報告しています。 続きを読む... — GIGAZINE / score: 98 (重大な脆弱性の発見とAIによる実証の速報)</description>
+</item>
+<item>
+<title>[95] Unauthenticated Remote Code Execution in NGINX: CVE-2026-123633 and CVE-2026-123007 | Wiz Blog</title>
+<link>https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities</link>
+<guid isPermaLink="true">https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities</guid>
+<pubDate>Wed, 18 Nov 2026 15:27:17 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Unauthenticated Remote Code Execution in NGINX: CVE-2026-123633 and CVE-2026-123007Two critical HTTP/2 flaws can allow attackers to compromise NGINX servers, putting the websites, APIs, and sensitive data they handle at risk. Executive SummaryWiz Research, Ikotas Labs, Metnir, Rapid7, and Xint in... — はてなブックマーク テクノロジー / score: 95 (NGINXの深刻なリモートコード実行の脆弱性)</description>
 </item>
 <item>
 <title>[95] アメリカ国家安全保障通信ネットワーク「NSANet」がダウンしたと関係筋が語る</title>
@@ -55,6 +63,14 @@
 <description>ユーザベースは11月18日、経済メディア「NewsPicks」が不正アクセスを受けてユーザーの氏名や住所、クレジットカード情報の一部が流出した問題の調査報告を公表し、BIツール「Metabase」の脆弱性が原因だったことなどを明らかにした。 同社は、MetabaseがSQLインジェクションの脆弱性を公表した6日後（3営業日後）の8月1... — はてなブックマーク テクノロジー / score: 92 (既知の脆弱性に起因する実際の情報漏えい事例)</description>
 </item>
 <item>
+<title>[90] NGINX2Root by Xint — From nginx visitor to root of the server host</title>
+<link>https://nginx2root.com/</link>
+<guid isPermaLink="true">https://nginx2root.com/</guid>
+<pubDate>Wed, 18 Nov 2026 15:34:40 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Found by NGINX2Root From nginx visitor to root of the server hostnginx 방문자에서 서버 호스트의 root까지 CVE-2026-123007CVE-2026-123634CVE-2026-123633CVE-2026-121810CVE-2026-113425 — はてなブックマーク テクノロジー / score: 90 (NGINXの複数の脆弱性をついた権限昇格解説)</description>
+</item>
+<item>
 <title>[90] 顧客情報漏えいか 楽天証券が説明</title>
 <link>https://news.yahoo.co.jp/pickup/6603062?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6603062?source=rss</guid>
@@ -93,14 +109,6 @@
 <pubDate>Wed, 18 Nov 2026 04:15:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>OpenAIが新たなAIモデル「GPT-6.2 Astra」と「GPT-6.2 Sol」を発表しました。GPT-6.2 Astraは複雑な業務やプログラミング、科学研究に適した最上位モデルで、GPT-6.2 Solは日常的な作業を効率よく処理できるモデルです。両モデルとも従来より少ない出力トークン数で高い性能を発揮でき、資料作成やPC操作の精度も向上しているとのことです。 続きを読む... — GIGAZINE / score: 90 (OpenAIの新型AIモデル発表であり技術界隈で非常に重要)</description>
-</item>
-<item>
-<title>[90] 【調査結果のご報告】NewsPicksで発生した不正アクセスによる個人情報漏洩について - NewsPicks | 株式会社ユーザベース | Uzabase,Inc.</title>
-<link>https://corp.newspicks.com/info/20261118</link>
-<guid isPermaLink="true">https://corp.newspicks.com/info/20261118</guid>
-<pubDate>Wed, 18 Nov 2026 03:49:54 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>はじめに株式会社ユーザベースが運営するソーシャル経済メディア「NewsPicks」において、業務で利用する管理ツールの脆弱性を突いた不正アクセスが発生し、お客様の個人情報の一部が漏洩しました。本件は2... — はてなブックマーク テクノロジー / score: 90 (実サービスにおける不正アクセスと個人情報漏洩)</description>
 </item>
 <item>
 <title>[90] 楽天証券への不正アクセスについてまとめてみた - piyolog</title>
@@ -359,6 +367,14 @@
 <description>Windows向けの定番テキストエディター「Notepad++」が11月6日、v8.9.9へ更新された。以下の6件の脆弱性を修正したセキュリティアップデートとなっている（括弧内は「GitHub」のセキュリティアドバイザリで示されている深刻度）。 — 窓の杜 / score: 85 (Notepad++の複数脆弱性を修正する重要アプデ)</description>
 </item>
 <item>
+<title>[85] GTIG AI Threat Tracker: Agentic Threat Activity Crosses a Significant Threshold</title>
+<link>https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold/</guid>
+<pubDate>Mon, 16 Nov 2026 14:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Written by: Aurora Blum, Kelli Vanderlee, Jess Xia, David Mainor Executive Summary As threat actors increasingly move beyond basic prompting to deploying autonomous multi-agent frameworks , automated vulnerability exploitation pipelines, and alternative monetization schemes like LLMJacking , the adversarial AI landscape has reached a critical inflection point. In this update, Google Threat Intelligence Group (GTIG) and Mandiant examine how adversaries across the cyber crime, espionage, and infor — Google Cloud Blog / score: 85 (自律型エージェントの脅威に関するセキュリティ情報)</description>
+</item>
+<item>
 <title>[85] 誕生から約3年半、ローカルAIの推論エンジン「llama.cpp」がv1.0.0に／テンソルライブラリ「ggml」も同時にメジャーアップデート、今後はセマンティックバージョニングを採用</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2156759.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2156759.html</guid>
@@ -527,6 +543,14 @@
 <description>AWS announces the general availability of AWS Interconnect - multicloud with Microsoft Azure. Customers have been adopting multicloud strategies while migrating more applications to the cloud. They do so for many reasons including interoperability requirements, the freedom to choose technology that best suits their needs, and the ability to build and deploy applications on any environment with greater ease and speed. Previously, when interconnecting workloads across multiple cloud providers (CSP — AWS What's New / score: 80 (AWSとAzure間のマルチクラウド接続一般提供)</description>
 </item>
 <item>
+<title>[80] COLD RELIC: A Case Study in Impersonation and Compromise</title>
+<link>https://cloud.google.com/blog/topics/threat-intelligence/cold-relic-a-case-study-in-impersonation-and-compromise/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/threat-intelligence/cold-relic-a-case-study-in-impersonation-and-compromise/</guid>
+<pubDate>Tue, 17 Nov 2026 14:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Written by: Josh Murchie, John Wolfram, Joseph Spero, Peter Ukhanov, Fernando Tomlinson, Jr., Wesley Shields Introduction Over the past year, Mandiant has responded to a series of linked intrusions demonstrating how Russian cyber espionage group COLD RELIC (formerly tracked as COLDRIVER and UNC4057; also known as Star Blizzard, Callisto, and Gossamer Bear) turns a single cloud compromise into a springboard for ongoing third party compromise and espionage. Most recently, Mandiant investigated a 2 — Google Cloud Blog / score: 80 (Google Mandiantによるセキュリティ侵害の事例研究)</description>
+</item>
+<item>
 <title>[80] Anthropic、深刻な脆弱性の公開スケジュールを短縮へ ―AIを活用した脆弱性発見に対応</title>
 <link>https://gihyo.jp/article/2026/11/anthropic-update-vulnerability-disclosure-timelines?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/11/anthropic-update-vulnerability-disclosure-timelines?utm_source=feed</guid>
@@ -618,7 +642,7 @@
 <title>[75] マイクロソフト、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始</title>
 <link>https://www.publickey1.jp/blog/26/aiaimicrosoft_perception.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/aiaimicrosoft_perception.html</guid>
-<pubDate>Wed, 18 Nov 2026 14:05:36 +0000</pubDate>
+<pubDate>Wed, 18 Nov 2026 16:00:37 +0000</pubDate>
 <category>Publickey</category>
 <description>マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、AIによるサイバー攻撃に対抗するためのAIエージェントによる新サービス「Microsoft Perception」の提供開始を発... — Publickey / score: 75 (マイクロソフトのAIセキュリティ新サービスの発表)</description>
 </item>
@@ -669,14 +693,6 @@
 <pubDate>Wed, 18 Nov 2026 07:45:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米国太平洋時間2027年1月12日（日本時間13日）、「Windows Server 2016」の延長サポートが終了する。米Microsoftが11月13日（現地時間）、「Windows メッセージ センター」で改めて注意を呼び掛けている。 — 窓の杜 / score: 75 (Windows Server 2016のサポート終了注意喚起)</description>
-</item>
-<item>
-<title>[75] Apple、AIエージェントなどに不要な個人情報や権限を渡さないよう、macOS 27.3 Golden Gateではアプリがアクセスできるデータや制御できるアプリをコントロールできるようにすると発表。</title>
-<link>https://applech2.com/archives/20261118-macos-27-3-security-against-risks-from-ai-agents.html</link>
-<guid isPermaLink="true">https://applech2.com/archives/20261118-macos-27-3-security-against-risks-from-ai-agents.html</guid>
-<pubDate>Wed, 18 Nov 2026 06:06:55 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Appleは、AIエージェントなどに不要な個人情報を渡さないよう、macOS 27.3 Golden Gateで新しいフルディスクアクセスとシステムとアプリの保護のオーバーライドを提供するとユーザーにも通知しています。 […] The post Apple、AIエージェントなどに不要な個人情報や権限を渡さないよう、macOS 27.3 Golden Gateではアプ... — はてなブックマーク テクノロジー / score: 75 (macOSでのAI権限・データアクセスの制御機能)</description>
 </item>
 <item>
 <title>[75] 「Windows Server 2028」のパブリックプレビューが開始 ～Microsoftの次期サーバーOS／既定で堅牢化された構成、NVMe対応の強化や「Intune」による管理も</title>
@@ -789,22 +805,6 @@
 <pubDate>Tue, 17 Nov 2026 01:02:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Googleは11月10日（現地時間）、「Modern Web Guidance」v1.0を安定版としてリリースした。「Modern Web Guidance」は、AIコーディングエージェントに、最新のWeb開発手法やブラウザー互換性の知識を与えるスキル集。今年5月の「Google I/O」で早期プレビュー版が発表されていた。 — 窓の杜 / score: 75 (AIに最新Web開発手法を教えるModern Web Guidance安定版公開)</description>
-</item>
-<item>
-<title>[75] Strengthening NATO and allied cyber defenses with AI</title>
-<link>https://openai.com/index/strengthening-nato-allied-cyber-defences-ai</link>
-<guid isPermaLink="true">https://openai.com/index/strengthening-nato-allied-cyber-defences-ai</guid>
-<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems. — OpenAI News / score: 75 (NATO等とAIを活用したサイバー防衛強化の取り組み)</description>
-</item>
-<item>
-<title>[75] Claude Platform release notes — November 17, 2026</title>
-<link>https://platform.claude.com/docs/en/release-notes/overview#linked-billing</link>
-<guid isPermaLink="true">https://platform.claude.com/docs/en/release-notes/overview#linked-billing</guid>
-<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-<category>Claude リリースノート</category>
-<description>We’ve launched Linked billing in beta with the user-profiles-billing-2026-10-01 beta header. Your customers can now pay for the Claude usage in your app through their own Claude organization. Once a customer links their organization, set billing_policy on each /v1/messages or /v1/chat/completions request to choose who pays. In the Claude Console, customers can set a spend cap for your app or unlink your app. Linked billing works for customers whose organization pays Anthropic directly for API us — Claude リリースノート / score: 75 (Claudeプラットフォームのマネージドエージェント更新)</description>
 </item>
 </channel>
 </rss>

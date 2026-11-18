@@ -4,13 +4,13 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 18 Nov 2026 14:06:35 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 16:06:40 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>マイクロソフト、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始</title>
 <link>https://www.publickey1.jp/blog/26/aiaimicrosoft_perception.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/aiaimicrosoft_perception.html</guid>
-<pubDate>Wed, 18 Nov 2026 14:05:36 +0000</pubDate>
+<pubDate>Wed, 18 Nov 2026 16:00:37 +0000</pubDate>
 <category>Publickey</category>
 <description>マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、AIによるサイバー攻撃に対抗するためのAIエージェントによる新サービス「Microsoft Perception」の提供開始を発... — Publickey / score: 75 (マイクロソフトのAIセキュリティ新サービスの発表)</description>
 </item>
@@ -18,17 +18,121 @@
 <title>マイクロソフト、AIが生成したアプリを企業内で安全に実行するランタイム「Copilot Managed Runtime」正式リリース</title>
 <link>https://www.publickey1.jp/blog/26/aicopilot_managed_runtime.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/aicopilot_managed_runtime.html</guid>
-<pubDate>Wed, 18 Nov 2026 14:05:36 +0000</pubDate>
+<pubDate>Wed, 18 Nov 2026 15:58:32 +0000</pubDate>
 <category>Publickey</category>
 <description>マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、AIが生成したアプリなどを企業内で安全に実行するための基盤となる「Copilot Managed Runtime」の正式リリース... — Publickey / score: 70 (AI生成アプリ実行基盤の正式リリース)</description>
+</item>
+<item>
+<title>Quoting Daniel Stenberg</title>
+<link>https://simonwillison.net/2026/Nov/18/daniel-stenberg/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Nov/18/daniel-stenberg/</guid>
+<pubDate>Wed, 18 Nov 2026 15:58:27 +0000</pubDate>
+<category>Simon Willison</category>
+<description>During the time these agents converted 185,000 lines of C code into 340,000 lines of Rust code (I counted), we merged over 300 commits in the actual curl project. We actually improved curl during these a little more than three weeks. A little over 200 bugfixes actually. 200 bugfixes that none of those rust rewrites have. We also fixed a few vulnerabilities. In another month we have done another 200 and maybe fixed a few more vulnerabilities. Will these clones keep up? — Daniel Stenberg , Actual  — Simon Willison / score: 50 (C言語からRustへの移行に関する見解)</description>
 </item>
 <item>
 <title>Windows Server 2028がパブリックプレビュー公開。Microsoft FoundryなどAIによる推論の実行基盤へと拡張</title>
 <link>https://www.publickey1.jp/blog/26/windows_server_2028microsoft_foundryai.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/windows_server_2028microsoft_foundryai.html</guid>
-<pubDate>Wed, 18 Nov 2026 14:05:36 +0000</pubDate>
+<pubDate>Wed, 18 Nov 2026 15:55:49 +0000</pubDate>
 <category>Publickey</category>
 <description>マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、次期サーバ向けOSとなるWindows Server 2028のパブリックプレビュー公開を発表しました。 企業内のAI推論基盤へ... — Publickey / score: 70 (Windows Server次期バージョンのプレビュー)</description>
+</item>
+<item>
+<title>メインPCのローカルAIをVPN・ポート開放なしで外出先のHermes Agentから使えるように「Cloudflare Tunnel＋Access」を設定してみた</title>
+<link>https://gigazine.net/news/20261119-cloudflare-tunnel-local-ai/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261119-cloudflare-tunnel-local-ai/</guid>
+<pubDate>Wed, 18 Nov 2026 15:45:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>前回の記事ではGPUを搭載したWindows PCに「Ollama」と「Open WebUI」をインストールし、ブラウザからローカルAIを使える環境を構築しました。今回はこのローカルAIをほかのPCからも利用できるようにしていきます。 続きを読む... — GIGAZINE / score: 65 (ローカルAIを安全に外部から利用する手順)</description>
+</item>
+<item>
+<title>NGINX2Root by Xint — From nginx visitor to root of the server host</title>
+<link>https://nginx2root.com/</link>
+<guid isPermaLink="true">https://nginx2root.com/</guid>
+<pubDate>Wed, 18 Nov 2026 15:34:40 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Found by NGINX2Root From nginx visitor to root of the server hostnginx 방문자에서 서버 호스트의 root까지 CVE-2026-123007CVE-2026-123634CVE-2026-123633CVE-2026-121810CVE-2026-113425 — はてなブックマーク テクノロジー / score: 90 (NGINXの複数の脆弱性をついた権限昇格解説)</description>
+</item>
+<item>
+<title>Unauthenticated Remote Code Execution in NGINX: CVE-2026-123633 and CVE-2026-123007 | Wiz Blog</title>
+<link>https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities</link>
+<guid isPermaLink="true">https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities</guid>
+<pubDate>Wed, 18 Nov 2026 15:27:17 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Unauthenticated Remote Code Execution in NGINX: CVE-2026-123633 and CVE-2026-123007Two critical HTTP/2 flaws can allow attackers to compromise NGINX servers, putting the websites, APIs, and sensitive data they handle at risk. Executive SummaryWiz Research, Ikotas Labs, Metnir, Rapid7, and Xint in... — はてなブックマーク テクノロジー / score: 95 (NGINXの深刻なリモートコード実行の脆弱性)</description>
+</item>
+<item>
+<title>Microsoftの｢Surface｣シリーズが最大12万円オフに——公式ストアでブラックフライデーセールが開催中</title>
+<link>https://taisy0.com/2026/11/19/230627.html</link>
+<guid isPermaLink="true">https://taisy0.com/2026/11/19/230627.html</guid>
+<pubDate>Wed, 18 Nov 2026 15:21:18 +0000</pubDate>
+<category>気になる、記になる…</category>
+<description>現在、Microsoftが、公式オンラインストアにおいて、「Surface」シリーズを特価で販売するブラックフライデーのセールを開催しています。 セールでは、最新製品の「Surface Pro 12インチ (第2世代)」 […] — 気になる、記になる… / score: 20 (Microsoft製品のセールの話題)</description>
+</item>
+<item>
+<title>Apple、｢Siri Remote (第4世代)｣向けに最新のファームウェアアップデートをリリース</title>
+<link>https://taisy0.com/2026/11/19/230624.html</link>
+<guid isPermaLink="true">https://taisy0.com/2026/11/19/230624.html</guid>
+<pubDate>Wed, 18 Nov 2026 15:05:43 +0000</pubDate>
+<category>気になる、記になる…</category>
+<description>MacRumorsによると、Appleが「Siri Remote (第4世代)」向けのファームウェアアップデートをリリースしたことが分かりました。 このアップデートにより、ファームウェアのバージョンが「0001.0057 […] — 気になる、記になる… / score: 20 (Apple製リモコンのマイナーアップデート)</description>
+</item>
+<item>
+<title>｢iPhone Duo 2｣へのFace IDの搭載は不透明——Touch IDは引き続き搭載か</title>
+<link>https://taisy0.com/2026/11/19/230625.html</link>
+<guid isPermaLink="true">https://taisy0.com/2026/11/19/230625.html</guid>
+<pubDate>Wed, 18 Nov 2026 15:05:19 +0000</pubDate>
+<category>気になる、記になる…</category>
+<description>中国のWeiboで様々な情報を報告しているリーカーのDigital Chat Station（数码闲聊站）氏が、Appleが2027年秋に投入するとみられている「iPhone Duo 2」に関する情報を報告しています。 […] — 気になる、記になる… / score: 30 (未発表のApple製品に関するリーク情報)</description>
+</item>
+<item>
+<title>「ガチャを回すみたいに強盗する」裁判傍聴の民が実際に見てきたトクリュウの実態がしんどすぎる「普通に仕事しろ」</title>
+<link>https://togetter.com/li/2772114</link>
+<guid isPermaLink="true">https://togetter.com/li/2772114</guid>
+<pubDate>Wed, 18 Nov 2026 15:01:11 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>ななぷりん極 @7rpin 裁判傍聴の民なんですが、本物のトクリュウをたくさん眺めてきたのでつぶやきますね まず、ガチャまわすみたいに強盗するから、リスト先てきとうに襲撃してる。だから１億あるとか１千万とかあんまり関係ない 2026-11-18 18:22:42 ななぷりん極 @7rpin 襲撃には、まるで冒険者が洞窟にこもるがごと... — はてなブックマーク テクノロジー / score: 20 (事件・犯罪に関する社会的な話題)</description>
+</item>
+<item>
+<title>Time-Series Models in the Streamhouse: A New Frontier and Use Cases</title>
+<link>https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse</link>
+<guid isPermaLink="true">https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse</guid>
+<pubDate>Wed, 18 Nov 2026 15:00:23 +0000</pubDate>
+<category>Hugging Face Blog</category>
+<description> — Hugging Face Blog / score: 55 (時系列データ向けAIモデルのHugging Face解説)</description>
+</item>
+<item>
+<title>AMD Ryzen 9 9950X3D＋RTX 5090搭載PCが値下げ　11月19日限定セール</title>
+<link>https://ascii.jp/elem/000/004/452/4452024/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/452/4452024/?rss</guid>
+<pubDate>Wed, 18 Nov 2026 15:00:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>パソコンショップSEVENは、11月19日0時から23時59分まで、全10商品を対象に最大19万2,000円オフの限定セールを実施する。Ryzen 9 9950X3DとRTX 5090搭載の「ZEFT R61XD」が対象。RTX 5070搭載「ZEFT R65WV」も6万1,000円引きとなる。 — ASCII.jp / score: 20 (PCパーツショップの限定セールの案内)</description>
+</item>
+<item>
+<title>The PSF end-of-year fundraiser</title>
+<link>https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/</guid>
+<pubDate>Wed, 18 Nov 2026 14:44:48 +0000</pubDate>
+<category>Simon Willison</category>
+<description>The PSF end-of-year fundraiser With my Python Software Foundation board director hat on: we've launched our end-of-year fundraiser for the non-profit that supports Python development and the Python community. If your company or your work benefits from Python, please consider donating this year! The PSF looks after the IP behind Python, operates PyPI, sponsors core developer sprints, supports community events (including running PyCon US every year), and employs a small and excellent staff team to — Simon Willison / score: 40 (Pythonエコシステムを支える財団の資金調達)</description>
+</item>
+<item>
+<title>MUJI Card発行のクレディセゾン、カード番号削除を2度依頼　無印は実行せず</title>
+<link>https://xtech.nikkei.com/atcl/nxt/column/18/00001/12190/</link>
+<guid isPermaLink="true">https://xtech.nikkei.com/atcl/nxt/column/18/00001/12190/</guid>
+<pubDate>Wed, 18 Nov 2026 14:15:39 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>「無印良品」を展開する良品計画から、同社ブランドで発行する「MUJI Card」のクレジットカード番号全桁が約109万件漏洩した恐れがある事案について、新たな事実が分かった。MUJI Cardを発行するクレディセゾンが良品計画に対し、2020年と2021年の2度にわたりカード番号の削除を依頼していた。2026年11月18日、クレディ... — はてなブックマーク テクノロジー / score: 45 (カード番号漏洩に関する企業のセキュリティ不備)</description>
+</item>
+<item>
+<title>どシンプル、それが良い。通話特化の携帯電話「INFOBAR ZERO」が登場</title>
+<link>https://www.gizmodo.jp/article/2611-infobar-zero/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-infobar-zero/</guid>
+<pubDate>Wed, 18 Nov 2026 14:10:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>通話とSMSに特化した「INFOBAR ZERO」が登場。歴代のデザインを踏襲し、デジタルデトックスや2台持ちに最適なシンプルな携帯電話になっています。 — ギズモード・ジャパン / score: 25 (ガジェット向けの一般的な新製品情報であるため)</description>
 </item>
 <item>
 <title>無料でIntel・AMD・NVIDIAのGPUを使ってQwen3.8-Flash-Nextをローカルで動かせる「XeStrata」</title>
@@ -53,6 +157,22 @@
 <pubDate>Wed, 18 Nov 2026 13:30:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>イギリスのマンチェスター大学などの研究チームが2022年9月に発表した「綿棒で皮膚をぬぐって採取した皮脂を分析し、パーキンソン病の診断に役立てる検査法」について、マンチェスター大学は2026年11月、開発の経緯やその後の研究成果を紹介し、臨床試験の計画を明らかにしました。 続きを読む... — GIGAZINE / score: 50 (皮脂分析を用いたパーキンソン病の診断法開発)</description>
+</item>
+<item>
+<title>GitHub - libraz/suzume: A lightweight Japanese tokenizer for browsers and native apps — WebAssembly, Node.js, Python, Go, and C++, returning POS tags and lemmas with the dictionaries built in</title>
+<link>https://github.com/libraz/suzume</link>
+<guid isPermaLink="true">https://github.com/libraz/suzume</guid>
+<pubDate>Wed, 18 Nov 2026 13:16:59 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Suzume is a lightweight Japanese tokenizer for browsers and native apps. It is not a full morphological analyzer like MeCab: its primary goal is to split text into useful units for search, display, and application code. Unlike a boundary-only tokenizer, it also returns part-of-speech tags and lem... — はてなブックマーク テクノロジー / score: 65 (ブラウザ等で動く軽量な日本語トークナイザー)</description>
+</item>
+<item>
+<title>認知負荷の減らし方 ～開発にも日常業務にも活かせるノウハウ～</title>
+<link>https://speakerdeck.com/minorun365/2026-11-lab-datsubotorunekku-ningen</link>
+<guid isPermaLink="true">https://speakerdeck.com/minorun365/2026-11-lab-datsubotorunekku-ningen</guid>
+<pubDate>Wed, 18 Nov 2026 13:07:43 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>レバテックLAB「［みのるん流］認知負荷の減らし方 ～開発にも日常業務にも活かせるノウハウ～」 https://levtechlab.connpass.com/event/408730/ — はてなブックマーク テクノロジー / score: 60 (開発における認知負荷軽減の実用的な知見)</description>
 </item>
 <item>
 <title>【ブラックフライデーセール】最強のインテリジェントオートEQ、Soundtheory「Gullfoss」が50％OFF！</title>
@@ -287,6 +407,14 @@
 <description>Boseの有線イヤホン「Noise Cancelling Wired Earbuds」のレビュー。優れたノイキャンや音質の一方で、価格や通話品質などの気になる点をチェックしていきます。 — ギズモード・ジャパン / score: 20 (コンシューマー向けオーディオ機器の製品レビュー)</description>
 </item>
 <item>
+<title>「Google Apps Script」のコードをGeminiで開発する機能が一般提供開始／専門知識なしで業務自動化が可能に</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2157510.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2157510.html</guid>
+<pubDate>Wed, 18 Nov 2026 10:29:18 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>「Google Apps Script」のコードをGeminiで開発する機能が一般提供開始／専門知識なしで業務自動化が可能に — はてなブックマーク テクノロジー / score: 50 (GASのGemini連携一般提供に関するニュース)</description>
+</item>
+<item>
 <title>【ブラックフライデーセール】サウンド＆インスピレーション。 最高のVSTインストゥルメントコレクション、STEINBERG「Absolute 7」が49%OFF！</title>
 <link>https://computermusic.jp/2026/11/steinberg-absolute-7/</link>
 <guid isPermaLink="true">https://computermusic.jp/2026/11/steinberg-absolute-7/</guid>
@@ -373,14 +501,6 @@
 <pubDate>Wed, 18 Nov 2026 09:50:00 +0000</pubDate>
 <category>ASCII.jp</category>
 <description>キングのクラシックスタイルデジタルカメラ「CLASSEL」がAmazonで予約受付中。価格は9,900円。上から覗き込んで撮影するウエストレベルファインダーを搭載し、側面のクランクをカリカリと回して4倍デジタルズームを操作できる。ソニー製8MP CMOSセンサーや28mm相当の広角レンズも採用。昔のカメラを思わせる撮影スタイルと操作感を楽しめる一台だ。 — ASCII.jp / score: 30 (ガジェット紹介だが技術的要素は薄い)</description>
-</item>
-<item>
-<title>「Google Apps Script」のコードをGeminiで開発する機能が一般提供開始／専門知識なしで業務自動化が可能に</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2157510.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2157510.html</guid>
-<pubDate>Wed, 18 Nov 2026 09:45:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Googleは11月16日（現地時間）、「Google Workspace」向けの機能拡張プラットフォーム「Google Apps Script」のコードをGeminiで開発できる機能の一般提供を開始した。プログラミングの専門知識がないユーザーでも、日常の言葉で指示を出すだけで業務自動化のプログラムを作成することが可能となった。 — 窓の杜 / score: 50 (GASのGemini連携一般提供に関するニュース)</description>
 </item>
 <item>
 <title>ボイットのAI搭載インカム「VOYT CONNECT」が「第19回ASPIC AI・クラウドアワード2026」でベンチャーグランプリを受賞</title>
@@ -503,6 +623,14 @@
 <description>マクドナルドは11月18日より、新商品「マックフルーリー ザクザク いちごのミルフィーユ味」を全国の店舗で期間限定販売します。 — ASCII.jp / score: 0 (飲食店の新商品情報)</description>
 </item>
 <item>
+<title>コスプレイヤー伊織もえ、Anthropic社の新規公開株購入を申し込み「Claudeをたくさん使ってるので」</title>
+<link>https://kai-you.net/article/97192</link>
+<guid isPermaLink="true">https://kai-you.net/article/97192</guid>
+<pubDate>Wed, 18 Nov 2026 09:05:58 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>コスプレイヤーの伊織もえさんが11月18日（水）、生成AI・Claudeを開発する米企業・Anthropic（アンソロピック）の新規株式公開（IPO）に申し込んだことをXで明かした。 伊織もえさんは「証券口座作って本当にたまにしかログインしてないけど、AnthropicのIPOはClaudeをたくさん使ってるのでポチりました 明日どうなるか... — はてなブックマーク テクノロジー / score: 25 (著名人の生成AI関連の株式投資の話題)</description>
+</item>
+<item>
 <title>ローランド ディー.ジー.のグローバルブランド「Make Your Mark」がThe Drum B2B Awards 2026を受賞</title>
 <link>https://ascii.jp/elem/000/004/452/4452923/?rss</link>
 <guid isPermaLink="true">https://ascii.jp/elem/000/004/452/4452923/?rss</guid>
@@ -533,14 +661,6 @@
 <pubDate>Wed, 18 Nov 2026 09:00:00 +0000</pubDate>
 <category>ASCII.jp</category>
 <description>SamuraiAX、ヤマト運輸「ビジネスメンバーズ」の運賃と請求金額をAIから取得できるAPI連携をリリース（Samurai App） — ASCII.jp / score: 60 (AIを活用したAPI連携のリリース)</description>
-</item>
-<item>
-<title>TVアニメ『DARK MACHINE THE ANIMATION』LINEスタンプ・LINE着せかえ　配信開始のお知らせ</title>
-<link>https://ascii.jp/elem/000/004/452/4452925/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/452/4452925/?rss</guid>
-<pubDate>Wed, 18 Nov 2026 09:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>TVアニメ『DARK MACHINE THE ANIMATION』LINEスタンプ・LINE着せかえ 配信開始のお知らせ — ASCII.jp / score: 0 (アニメ関連のグッズ情報)</description>
 </item>
 <item>
 <title>iPhone DuoのMagSafeスマホリング、薄くて軽いこれに決めました</title>
@@ -615,6 +735,14 @@
 <description>本場で収録した本物のエスニック・ブルガリアンクワイヤ音源、STREZOV SAMPLING「RHODOPE 2 ETHNIC BULGARIAN CHOIR」が53%OFFとなっています。 Strezov Samplin... The post 【ブラックフライデーセール】本場で収録した本物のエスニック・ブルガリアンクワイヤ音源、STREZOV SAMPLING「RHODOPE 2 ETHNIC BULGARIAN CHOIR」が53%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 20 (DTM用音源プラグインのセール情報である)</description>
 </item>
 <item>
+<title>iPhoneで入退室　パナ、Appleウォレット社員証対応の入退室管理システム</title>
+<link>https://www.watch.impress.co.jp/docs/news/2157527.html</link>
+<guid isPermaLink="true">https://www.watch.impress.co.jp/docs/news/2157527.html</guid>
+<pubDate>Wed, 18 Nov 2026 08:25:27 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>iPhoneで入退室 パナ、Appleウォレット社員証対応の入退室管理システム — はてなブックマーク テクノロジー / score: 50 (Appleウォレット社員証対応の入退室管理)</description>
+</item>
+<item>
 <title>20周年記念iPhone、現在は4つのモデルを開発中か——4辺曲面ガラスデザインは3年前から開発との情報</title>
 <link>https://taisy0.com/2026/11/18/230610.html</link>
 <guid isPermaLink="true">https://taisy0.com/2026/11/18/230610.html</guid>
@@ -655,156 +783,28 @@
 <description>サントリーのペットボトル飲料シリーズ「クラフトボス」から、2026年11月10日(火)に「クラフトボス クロワッサンラテ」が登場しました。「クロワッサンとカフェラテを同時に頬張った時の味わい」を再現したというラテがどんな味なのか気になったので、実際に飲んでみました。 続きを読む... — GIGAZINE / score: 15 (新商品飲料の食レポ記事)</description>
 </item>
 <item>
+<title>AWS Control Tower now supports existing Amazon S3 bucket for log delivery</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/control-tower-existing-s3-log-bucket/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/control-tower-existing-s3-log-bucket/</guid>
+<pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS Control Tower now lets you use an existing Amazon S3 bucket in your landing zone to store AWS Config and AWS CloudTrail logs. Previously, AWS Control Tower required you to use the Amazon S3 bucket it creates and manages for log storage. Now, customers who want full control of bucket policies, lifecycle rules, and logging infrastructure can consolidate centralized logs in an Amazon S3 bucket they already manage. You can use your own Amazon S3 bucket for both AWS Config and AWS CloudTrail, giv — AWS What's New / score: 55 (AWS Control Towerの機能アップデート)</description>
+</item>
+<item>
+<title>November 18, 2026</title>
+<link>https://docs.cloud.google.com/release-notes#November_18_2026</link>
+<guid isPermaLink="true">https://docs.cloud.google.com/release-notes#November_18_2026</guid>
+<pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
+<category>Google Cloud リリースノート</category>
+<description>Application Integration Security A Deserialization of Untrusted Data vulnerability was discovered in integration execution parameter handling in Application Integration versions prior to September 22, 2026. For more information, see the GCP-2026-083 security bulletin. — Google Cloud リリースノート / score: 70 (Google CloudのCloud SQL関連のアップデート)</description>
+</item>
+<item>
 <title>Xiaomi 18 Proは「背中」がすごい。ギズモード編集部が1週間使ってみた</title>
 <link>https://www.gizmodo.jp/article/xiaomi-18-pro/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/xiaomi-18-pro/</guid>
 <pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>ライカ共同開発カメラと「背面ディスプレイ」が特徴のXiaomi 18 Proシリーズをギズモード編集部が1週間レビュー。それぞれの編集部員がどのように活用したのか、動画と記事でお届けします。 — ギズモード・ジャパン / score: 50 (最新の注目スマホ端末のレビュー記事)</description>
-</item>
-<item>
-<title>Oracle Java の脆弱性対策について(2026年11月) | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構</title>
-<link>https://www.ipa.go.jp/security/security-alert/2026/1118-jre.html</link>
-<guid isPermaLink="true">https://www.ipa.go.jp/security/security-alert/2026/1118-jre.html</guid>
-<pubDate>Wed, 18 Nov 2026 07:58:06 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>概要 2026年11月18日（日本時間）に Oracle Java に関するセキュリティ更新プログラムが公表されています。 これらの脆弱性を悪用された場合、アプリケーションプログラムが異常終了する、攻撃者によってパソコンを制御される、といった様々な被害が発生するおそれがあります。 また、Oracle Java SEのソフトウェアにつ... — はてなブックマーク テクノロジー / score: 85 (主要なJavaプラットフォームのセキュリティ更新)</description>
-</item>
-<item>
-<title>「Windows Server 2016」の延長サポート終了まであと60日を切る ～Microsoftが注意喚起／基本的には2027年1月の「Windows Update」が最後のパッチ</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2157404.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2157404.html</guid>
-<pubDate>Wed, 18 Nov 2026 07:45:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米国太平洋時間2027年1月12日（日本時間13日）、「Windows Server 2016」の延長サポートが終了する。米Microsoftが11月13日（現地時間）、「Windows メッセージ センター」で改めて注意を呼び掛けている。 — 窓の杜 / score: 75 (Windows Server 2016のサポート終了注意喚起)</description>
-</item>
-<item>
-<title>｢iPhone Duo｣向けアラミド繊維ケースの最適解はこれかも——ディーフがヒンジ部分もカバーし、MagSafeにも対応したアラミド繊維ケースを発表</title>
-<link>https://taisy0.com/2026/11/18/230605.html</link>
-<guid isPermaLink="true">https://taisy0.com/2026/11/18/230605.html</guid>
-<pubDate>Wed, 18 Nov 2026 07:41:39 +0000</pubDate>
-<category>気になる、記になる…</category>
-<description>本日、ディーフが、「iPhone Duo」専用のアラミド繊維ケース「Ultra Slim &amp; Light Case DURO Special Edition for iPhone Duo」を発表しました。 「Ul […] — 気になる、記になる… / score: 20 (スマートフォン用アクセサリの新製品発表)</description>
-</item>
-<item>
-<title>地図で囲んだ街がマイクラに。道路には車、線路には電車まで走り出す</title>
-<link>https://www.gizmodo.jp/article/2611-arnis-minecraft-real-world-generator/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-arnis-minecraft-real-world-generator/</guid>
-<pubDate>Wed, 18 Nov 2026 07:35:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>実在の地図からマインクラフトの街を自動生成する無料ツール「Arnis」。道路の車や電車の走行にも対応した最新アプデや活用法など。 — ギズモード・ジャパン / score: 55 (実世界地図からマイクラを自動生成するツールの紹介)</description>
-</item>
-<item>
-<title>AIで自己紹介してみた</title>
-<link>https://qiita.com/whywhy/items/baa11c6e253c8498d5dc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/whywhy/items/baa11c6e253c8498d5dc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Wed, 18 Nov 2026 07:20:18 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>ご挨拶 はじめまして、受託開発の責任者をやっておりますwhywhyです。 ここ1、2年で「AIに仕事を奪われるから〜」といった話をよく見かけるようになりました。 私自身、普段からAI駆動開発に取り組み、グラフエンジニアリングまで取り入れていることもあって、AIは手段という... — Qiita 人気記事 / score: 15 (個人的な体験談であり技術的価値は低い)</description>
-</item>
-<item>
-<title>【ブラックフライデーセール】歪みとダイナミクスをクリエイティブ＆効果的に操り、クリアな音質を実現する、SOUNDTHEORY「KRAFTUR」が50%OFF！</title>
-<link>https://computermusic.jp/2026/11/kraftur-2/</link>
-<guid isPermaLink="true">https://computermusic.jp/2026/11/kraftur-2/</guid>
-<pubDate>Wed, 18 Nov 2026 07:16:19 +0000</pubDate>
-<category>Computer Music Japan</category>
-<description>歪みとダイナミクスをクリエイティブ＆効果的に操り、クリアな音質を実現する、SOUNDTHEORY「KRAFTUR」が50%OFFとなっています。 KRAFTUR 参考記事：自由自在に目的の質感にたどりつけるマルチバンド・... The post 【ブラックフライデーセール】歪みとダイナミクスをクリエイティブ＆効果的に操り、クリアな音質を実現する、SOUNDTHEORY「KRAFTUR」が50%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 10 (DTMプラグインのセール情報である)</description>
-</item>
-<item>
-<title>tsrs を導入したら oxlint の type-aware linting と typecheck が爆速になった話</title>
-<link>https://zenn.dev/dress_code/articles/6c179ae5129131</link>
-<guid isPermaLink="true">https://zenn.dev/dress_code/articles/6c179ae5129131</guid>
-<pubDate>Wed, 18 Nov 2026 07:04:31 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>はじめに こんにちは。ぷーじ（@yug1224）です。 以前の記事で、フロントエンドとバックエンドに oxlint、oxfmt、tsgo を入れた話を書きました。 その後も type-aware linting と typecheck は CI の中で重いステップのままで、キャッシュが外れるとバックエンドの typecheck だけで 4 分以上かかっていました。 2026 年... — はてなブックマーク テクノロジー / score: 55 (開発ツールのパフォーマンス改善に関する技術記事)</description>
-</item>
-<item>
-<title>GitHub Enterprise Cloud、予算の作成上限を1アカウント4万件に引き上げ</title>
-<link>https://codezine.jp/article/detail/30398</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/30398</guid>
-<pubDate>Wed, 18 Nov 2026 07:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 40 (GitHub Enterpriseの小規模な上限変更)</description>
-</item>
-<item>
-<title>学校でのスマホ禁止措置は徐々にテストの成績向上につながっている</title>
-<link>https://gigazine.net/news/20261118-student-smartphone-ban/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261118-student-smartphone-ban/</guid>
-<pubDate>Wed, 18 Nov 2026 07:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>スマートフォンに熱中して学力が低下する子どもたちが増えたことで、校内にいる間だけでもスマートフォンの利用を禁止しようとする学校が増えてきました。アメリカの4600校を対象に実施した調査では、わずかではあるものの、スマートフォンの利用禁止が学力の向上に寄与していることが明らかになりました。 続きを読む... — GIGAZINE / score: 30 (学校でのスマホ禁止と学力に関する調査)</description>
-</item>
-<item>
-<title>電源不要。アラジンのトースター、カセットボンベで動くようになりました</title>
-<link>https://www.gizmodo.jp/article/2611-aladdin-gas-toaster/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-aladdin-gas-toaster/</guid>
-<pubDate>Wed, 18 Nov 2026 07:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>アラジンからカセットボンベ式のポータブルトースターが登場。電源不要でアウトドアから防災まで活躍する高火力な一台の魅力を紹介します。 — ギズモード・ジャパン / score: 40 (ガスボンベ駆動型ユニーク家電の紹介)</description>
-</item>
-<item>
-<title>【ブラックフライデーセール】ポストメタル・サウンドに合わせた、生々しいドラムサウンドを収めたEZX拡張音源、Toontrack「Post-Metal」が56%OFF！</title>
-<link>https://computermusic.jp/2026/11/post-metal/</link>
-<guid isPermaLink="true">https://computermusic.jp/2026/11/post-metal/</guid>
-<pubDate>Wed, 18 Nov 2026 06:57:03 +0000</pubDate>
-<category>Computer Music Japan</category>
-<description>ポストメタル・サウンドに合わせた、生々しいドラムサウンドを収めたEZX拡張音源、Toontrack「Post-Metal」が56%OFFとなっています。 Toontrakではブラックフライデーセールを開催中です。合わせて... The post 【ブラックフライデーセール】ポストメタル・サウンドに合わせた、生々しいドラムサウンドを収めたEZX拡張音源、Toontrack「Post-Metal」が56%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 10 (音楽制作用拡張音源のセール情報である)</description>
-</item>
-<item>
-<title>OpenAI、専門業務向けのGPT-6.2 Astraと日常業務向けのGPT-6.2 Solを発表</title>
-<link>https://gihyo.jp/article/2026/11/gpt-6.2-astra-and-sol?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/11/gpt-6.2-astra-and-sol?utm_source=feed</guid>
-<pubDate>Wed, 18 Nov 2026 06:56:05 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>OpenAIは2026年11月17日、2つの推論モデル「GPT-6.2 Astra」と「GPT-6.2 Sol」の提供をChatGPT Work、Codex、APIで始めた。Astraは複雑なソフトウェア開発や科学研究に向けたモデルで、Solは日々の文章作成やコーディングでの速さとコスト効率を重視している。 — gihyo.jp / score: 85 (OpenAIによる新推論モデルの発表)</description>
-</item>
-<item>
-<title>三菱UFJ eスマート証券 証券口座番号約6万件漏えい | NHKニュース</title>
-<link>https://news.web.nhk/newsweb/na/nd-20261118de77737</link>
-<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261118de77737</guid>
-<pubDate>Wed, 18 Nov 2026 06:54:40 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>三菱UFJ eスマート証券はアプリやウェブサイトなどでの案内業務の委託先「プレイド」が不正アクセスを受けた影響で、証券口座番号がおよそ6万件、利用者の年齢の情報がおよそ10万件、漏えいしたと発表しまし… — はてなブックマーク テクノロジー / score: 90 (大規模な個人情報の漏えい事故であり影響が甚大)</description>
-</item>
-<item>
-<title>手軽に楽しくオブザーバビリティを学ぶ「New Relic Dojo」の紹介</title>
-<link>https://qiita.com/Fendo181/items/b9dbabc9259c150f56e7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/Fendo181/items/b9dbabc9259c150f56e7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Wed, 18 Nov 2026 06:51:25 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>「New Relicを導入することになったけれど、何から手を付ければいいかわからない……」 そんなエンジニアやSRE、クラウド担当者に向けて、オブザーバビリティの基本思想からNew Relicを使った具体的な始め方、おすすめの学習ステップまでを手軽に楽しく学べる学習サービス... — Qiita 人気記事 / score: 50 (オブザーバビリティを学ぶ学習サービスの紹介)</description>
-</item>
-<item>
-<title>好きな人やモノだけを入れる「特別な器」に――通話・SMS専用「INFOBAR ZERO」に込めた開発陣の思い</title>
-<link>https://k-tai.watch.impress.co.jp/docs/news/2157497.html</link>
-<guid isPermaLink="true">https://k-tai.watch.impress.co.jp/docs/news/2157497.html</guid>
-<pubDate>Wed, 18 Nov 2026 06:49:31 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>好きな人やモノだけを入れる「特別な器」に――通話・SMS専用「INFOBAR ZERO」に込めた開発陣の思い — はてなブックマーク テクノロジー / score: 30 (ニッチな特殊用途向け端末の紹介)</description>
-</item>
-<item>
-<title>Suicaペンギンの後継キャラクターが決定！</title>
-<link>https://www.gizmodo.jp/article/2611-suica-penguin-successor/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-suica-penguin-successor/</guid>
-<pubDate>Wed, 18 Nov 2026 06:35:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>Suicaペンギンの後継キャラクターがついに決定。JR東日本の新しい顔となるB案のうさぎ、名前はまだなくこれから募集して決まるようです。 — ギズモード・ジャパン / score: 15 (一般向けの話題であり技術者コミュニティへの影響はない)</description>
-</item>
-<item>
-<title>「寝室の温度」が生産性を阻害する隠れた要因になっているかもしれない</title>
-<link>https://gigazine.net/news/20261118-bedroom-temperature-hidden-drag-productivity/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261118-bedroom-temperature-hidden-drag-productivity/</guid>
-<pubDate>Wed, 18 Nov 2026 06:20:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>寝室の温度が暑すぎたり寒すぎたりしてなかなか寝付けなかったり、夜中に汗をかいて起きてしまったりした経験がある人もいるはず。人々の睡眠や生産性を2～3週間にわたり追跡した研究で、「寝室の温度」が日中の生産性に影響を与えている可能性があると判明しました。 続きを読む... — GIGAZINE / score: 25 (寝室の温度が生産性に与える影響の話題)</description>
-</item>
-<item>
-<title>Apple HomeViewのスピーカーベースモデルと壁掛けモデルの違いが明らかに、スピーカーサイズに違いも修理しやすさは同等</title>
-<link>https://gigazine.net/news/20261118-apple-homeview-models-differences/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261118-apple-homeview-models-differences/</guid>
-<pubDate>Wed, 18 Nov 2026 06:14:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>2026年10月にAppleが発表したスマートホームを一元管理できる「Apple HomeView」には、スピーカーベースが付属しているモデルと、壁掛けできるモデルがあります。この2つのモデルの違いが、iFixitによる分解調査で明らかになりました。 続きを読む... — GIGAZINE / score: 35 (Apple製スマートホームデバイスの分解情報)</description>
 </item>
 </channel>
 </rss>
