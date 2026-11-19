@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 19 Nov 2026 12:08:41 +0000</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 14:06:32 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] nginx「緊急」脆弱性、官房長官が「必要な措置」呼び掛け</title>
@@ -23,20 +23,20 @@
 <description>トップページ 情報セキュリティ 重要なセキュリティ情報 2026年度 NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等） 注釈：追記すべき情報がある場合には、その都度このページを更新する予定です。 概要 F5社が提供するNGINX Open SourceおよびNGINX Plusについて、2026年11月18日に複数の脆弱性... — はてなブックマーク テクノロジー / score: 95 (NGINXの緊急脆弱性対策のため影響が極めて大きい)</description>
 </item>
 <item>
-<title>[95] 「Ruby」に7件の脆弱性、修正版への更新を強く推奨。リモートコード実行の実証コードが存在／最高深刻度「Critical」。v4.0.10、v3.4.13、v3.3.14が公開</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2157700.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2157700.html</guid>
-<pubDate>Thu, 19 Nov 2026 04:39:31 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>「Ruby」に7件の脆弱性、修正版への更新を強く推奨。リモートコード実行の実証コードが存在／最高深刻度「Critical」。v4.0.10、v3.4.13、v3.3.14が公開 — はてなブックマーク テクノロジー / score: 95 (Rubyのクリティカルな脆弱性とRCEの危険性)</description>
-</item>
-<item>
 <title>[95] PHPにまた「致命的」な脆弱性。修正版は今夜23時に公開予定</title>
 <link>https://www.gizmodo.jp/article/2611-php-critical-vulnerability-november-2024/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/2611-php-critical-vulnerability-november-2024/</guid>
 <pubDate>Thu, 19 Nov 2026 04:15:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>PHPに再び致命的な脆弱性が発見され、11月19日23時に修正版が公開予定です。サイト運営をしている方は、更新情報をチェックしておきましょう。 — ギズモード・ジャパン / score: 95 (PHPに発見された致命的な脆弱性と修正版公開の速報)</description>
+</item>
+<item>
+<title>[95] 「Ruby」に7件の脆弱性、修正版への更新を強く推奨。リモートコード実行の実証コードが存在／最高深刻度「Critical」。v4.0.10、v3.4.13、v3.3.14が公開</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2157700.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2157700.html</guid>
+<pubDate>Thu, 19 Nov 2026 04:05:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>スクリプト言語「Ruby」の開発チームは11月18日（現地時間）、「Ruby」の正規表現エンジンと、文字列の大文字・小文字変換に、7件の脆弱性が見つかったことを明らかにした。一部についてはリモートコード実行（RCE）を引き起こせることを示す実証コード（PoC）の存在も確認されているとのことで、修正版へのアップデートが強く推奨されている。 — 窓の杜 / score: 95 (Rubyのクリティカルな脆弱性とRCEの危険性)</description>
 </item>
 <item>
 <title>[95] Webサーバー「nginx」に10件の脆弱性 ～HTTP/2実装の欠陥は未認証でリモートコード実行も／「CVE-2026-123633」「CVE-2026-123007」に警戒、v1.30.7/v1.31.9で修正</title>
@@ -303,12 +303,20 @@
 <description>Googleの新AIモデル「Gemini 4 Neon」が登場。高い思考力と速い処理速度を両立し、Proプラン以上で順次提供が開始された新機能の実力は？ — ギズモード・ジャパン / score: 85 (Googleの新AIモデル「Gemini 4 Neon」の解説)</description>
 </item>
 <item>
+<title>[85] 相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ</title>
+<link>https://zenn.dev/kusuke/articles/98e178e6824cac</link>
+<guid isPermaLink="true">https://zenn.dev/kusuke/articles/98e178e6824cac</guid>
+<pubDate>Thu, 19 Nov 2026 02:22:17 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ 昨日から今日にかけて、なんだかすごいことになっていますね。 先日「PHP2Shell（CVE-2026-109618 / CVE-2026-109619）」というコアそのもののRCE（リモートコード実行）が出て大騒ぎになったと思ったら、JavaでもJavaのB... — はてなブックマーク テクノロジー / score: 85 (OSSの脆弱性とクラウドWAFの対策解説)</description>
+</item>
+<item>
 <title>[85] Googleが「Gemini 4 Neon」を発表、最先端の推論能力と高速・低コストな処理を両立しコーディング性能で世界トップに</title>
 <link>https://gigazine.net/news/20261119-google-gemini-4-neon/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261119-google-gemini-4-neon/</guid>
-<pubDate>Thu, 19 Nov 2026 02:23:25 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Googleが2026年11月18日、新たなAIモデル「Gemini 4 Neon」を発表しました。Gemini 4 Neonは最上位モデルのGemini 4 Carbonをベースに開発されたモデルで、高度なコーディングやデータ分析、科学研究、企業の業務自動化などにおいて、最先端のAIモデルに匹敵する性能と高速かつ低コストな処理を両立しています。 Introdu... — はてなブックマーク テクノロジー / score: 85 (大手による最新AIモデルの発表で影響が大きい)</description>
+<pubDate>Thu, 19 Nov 2026 02:15:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>Googleが2026年11月18日、新たなAIモデル「Gemini 4 Neon」を発表しました。Gemini 4 Neonは最上位モデルのGemini 4 Carbonをベースに開発されたモデルで、高度なコーディングやデータ分析、科学研究、企業の業務自動化などにおいて、最先端のAIモデルに匹敵する性能と高速かつ低コストな処理を両立しています。 続きを読む... — GIGAZINE / score: 85 (大手による最新AIモデルの発表で影響が大きい)</description>
 </item>
 <item>
 <title>[85] Google、「Gemini 4 Neon」を発表 ～「Claude Opus 5.5」「GPT-6.2 Sol」のライバル／“フロンティア級”の知能をより高速・低コストで、「Carbon」比でタスク単価32％削減</title>
@@ -317,14 +325,6 @@
 <pubDate>Thu, 19 Nov 2026 01:05:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Googleは11月18日（現地時間）、「Gemini 4 Neon」を発表した。複雑なソフトウェアエンジニアリングや知識労働、科学分野のワークフローを、フロンティア級の知能で、しかも高速にこなせるモデルだという。 — 窓の杜 / score: 85 (Googleの新世代AIモデルGemini 4 Neonの発表)</description>
-</item>
-<item>
-<title>[85] NGINXの脆弱性 CVE-2026-123633、CVE-2026-123007についてまとめてみた - piyolog</title>
-<link>https://piyolog.hatenadiary.jp/entry/2026/11/19/065715</link>
-<guid isPermaLink="true">https://piyolog.hatenadiary.jp/entry/2026/11/19/065715</guid>
-<pubDate>Wed, 18 Nov 2026 22:35:08 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>2026年11月19日、国家サイバー統括室はWebサーバーnginxにリモートから未認証で任意のコード実行等が可能となる脆弱性が公表されたとして、対象環境の運用管理者に速やかなアップデートの適用等を求める注意喚起を行いました。ここでは関連する情報をまとめます。 どんな脆弱性が確認されたの? nginx.orgとF5は11月18日... — はてなブックマーク テクノロジー / score: 85 (NGINXの脆弱性情報まとめと迅速な対応の促進)</description>
 </item>
 <item>
 <title>[85] AnthropicのAI「Claude Mythos Preview」が見つけた約3万8000件の脆弱性候補の修正はどこまで進んだのか？</title>
@@ -543,6 +543,14 @@
 <description>JEP 401 (Value Objects) arrives in OpenJDK as a preview feature, enabling a new Java type model with minimal code changes. The talk explains what value objects are, JVM benefits, Valhalla history, implementation details, and the path toward bridging objects and primitives, including future support like List&lt;int&gt;. — Inside Java / score: 82 (Java Valhallaプロジェクトの解説と進化)</description>
 </item>
 <item>
+<title>[80] 【速報】タイミー、事業者情報最大22.6万人漏えい</title>
+<link>https://www.47news.jp/15256728.html</link>
+<guid isPermaLink="true">https://www.47news.jp/15256728.html</guid>
+<pubDate>Thu, 19 Nov 2026 11:08:54 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>短時間・単発アルバイトを紹介する「タイミー」（東京）は19日、サービスを利用する求人事業者の情報最大約22万6千人分が漏えいしたと発表した。タイミーの委託先が不正アクセスを受けた。 — はてなブックマーク テクノロジー / score: 80 (タイミーでの大規模情報漏えい事故の速報)</description>
+</item>
+<item>
 <title>[80] Microsoft、次期WindowsからPowerShell 7を標準搭載へ、Windows PowerShell 5.1の非推奨化も発表</title>
 <link>https://gihyo.jp/article/2026/11/powershell-7-in-next-windows?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/11/powershell-7-in-next-windows?utm_source=feed</guid>
@@ -655,6 +663,14 @@
 <description>November 9, 2026 — Claude Fable 5.2 and Mythos 5.2 arrive on Anthropic’s IPO roadshow day. How much thinking is worth paying for? — Latent Space / score: 78 (主要LLMの性能逆転とIPO動向)</description>
 </item>
 <item>
+<title>[75] ソフトウェアダークファクトリー | 技術評論社</title>
+<link>https://gihyo.jp/book/2026/978-4-297-16073-9</link>
+<guid isPermaLink="true">https://gihyo.jp/book/2026/978-4-297-16073-9</guid>
+<pubDate>Thu, 19 Nov 2026 11:56:11 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>概要 「ダークファクトリー」とは、人間を排除した無人工場ではありません。AIコーディングの普及に伴い増幅する「あいまいな仕様」「弱い権限設計」「薄いテスト」「壊れやすい運用」といったリスクに対し、人間の判断・業務知識・失敗の教訓をシステム構造に埋め込むことで、AIや複数チームが動いても安全に変更を生み... — はてなブックマーク テクノロジー / score: 75 (AIコーディング時代のシステム設計リスク解説)</description>
+</item>
+<item>
 <title>[75] 美少女ゲーム「NIKKE」経由でマルウェア感染　北海道2自治体、委託先が認める</title>
 <link>https://www.itmedia.co.jp/news/article/2611/19/2000003351/</link>
 <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/19/2000003351/</guid>
@@ -674,9 +690,9 @@
 <title>[75] OpenAIがAIを用いてAMD製GPUや独自開発AIチップの改善に成功、半導体設計の専用AIモデルも開発</title>
 <link>https://gigazine.net/news/20261119-openai-jalapeno-amd-advancing-chip/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261119-openai-jalapeno-amd-advancing-chip/</guid>
-<pubDate>Thu, 19 Nov 2026 07:58:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>OpenAIが自社製AIを用いて独自開発チップ「Jalapeño(ハラペーニョ)」やAMD製GPUの性能向上を実現したことをアピールしています。 続きを読む... — GIGAZINE / score: 75 (OpenAIによる半導体設計・専用AIモデルの成果)</description>
+<pubDate>Thu, 19 Nov 2026 08:01:57 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>OpenAIが自社製AIを用いて独自開発チップ「Jalapeño(ハラペーニョ)」やAMD製GPUの性能向上を実現したことをアピールしています。 Advancing chip design with OpenAI models | OpenAI https://openai.com/index/advancing-chip-design-with-our-models/ OpenAIはカスタム推論チップ「Jalapeño」をBroadcomと共同開発して... — はてなブックマーク テクノロジー / score: 75 (OpenAIによる半導体設計・専用AIモデルの成果)</description>
 </item>
 <item>
 <title>[75] Microsoft AI、「MAI Code 2」など新モデル7つを一挙投入【Ignite 2026】／コーディング、セキュリティ、画像、音声、判断の各分野で“価格性能比”を追求</title>
@@ -687,20 +703,12 @@
 <description>米Microsoftは11月17日（現地時間）、年次開発者イベント「Microsoft Ignite 2026」で、同社のAI部門Microsoft AI（MAI）が開発した7つの新しいモデル群を発表した。トークン消費が急増するなか、エージェントを24時間365日動かせるだけの“価格性能比”を重視したという。発表されたおもなモデルは、以下の通り。 — 窓の杜 / score: 75 (Microsoft Ignite 2026での新AIモデル群の発表)</description>
 </item>
 <item>
-<title>[75] AnthropicのIPO、今日の夜。AIマネーゲームは次のフェーズへ</title>
-<link>https://www.gizmodo.jp/article/2611-anthropics-ipo-ai-market-shift/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-anthropics-ipo-ai-market-shift/</guid>
-<pubDate>Thu, 19 Nov 2026 02:45:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>市場はAIをどう評価していくのでしょうか？2026年11月18日、Claudeを開発する「Anthropic」がIPOの正式な条件を発表しました。1株の公開価格が83ドルに引き上げられており、Reutersは公開価格ベースの時価総額を約1.… — ギズモード・ジャパン / score: 75 (AnthropicのIPO関連の重要ニュース)</description>
-</item>
-<item>
 <title>[75] ゲームのように移動可能な世界を生成できるAI「Genie 4」をGoogleが正式リリース、参照画像を入力したり途中で環境を変更したりできる</title>
 <link>https://gigazine.net/news/20261119-google-genie-4/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261119-google-genie-4/</guid>
-<pubDate>Thu, 19 Nov 2026 02:07:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>Googleがインタラクティブな仮想世界を生成できる世界モデル「Genie 4」を正式リリースしました。 続きを読む... — GIGAZINE / score: 75 (ゲーム生成AIの最新リリースで注目度が高い)</description>
+<pubDate>Thu, 19 Nov 2026 02:10:47 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Googleがインタラクティブな仮想世界を生成できる世界モデル「Genie 4」を正式リリースしました。 Project Genie https://labs.google/projectgenie Genie 4 — Google DeepMind https://deepmind.google/models/genie/ Project Genie update featuring Genie 4 https://blog.google/innovation-and-ai/models-and-resear... — はてなブックマーク テクノロジー / score: 75 (ゲーム生成AIの最新リリースで注目度が高い)</description>
 </item>
 <item>
 <title>[75] AWS Lambda now supports GPU instances for Event Functions on Lambda Managed Instances</title>
@@ -797,14 +805,6 @@
 <pubDate>Tue, 17 Nov 2026 19:22:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Amazon API Gateway now offers a native JWT authorizer for REST APIs, a new authorizer type that validates JSON Web Tokens directly in the gateway. Until now, validating tokens from an OpenID Connect or OAuth 2.0 identity provider other than Amazon Cognito required a Lambda authorizer. You now configure token validation instead of writing and operating code for it. You can define one or more issuers, the audiences accepted for each, the signing algorithms you permit, and any additional claims a t — AWS What's New / score: 75 (API GatewayのネイティブJWT認証対応)</description>
-</item>
-<item>
-<title>[75] Running the full server-side Datasette Python app in the browser with service workers and Pyodide</title>
-<link>https://simonwillison.net/2026/Nov/17/datasette-lite/</link>
-<guid isPermaLink="true">https://simonwillison.net/2026/Nov/17/datasette-lite/</guid>
-<pubDate>Tue, 17 Nov 2026 16:48:33 +0000</pubDate>
-<category>Simon Willison</category>
-<description>Datasette Lite is my port of the Datasette Python application to run directly in the browser using WebAssembly and Pyodide . I've released a complete rewrite of Datasette Lite using service workers, and it's now almost indistinguishable from the real server-side application. You can now do all of the following, using a carefully crafted URL to lite.datasette.io : Load client-side Datasette to browse any SQLite database, JSON file, CSV file or SQL script Select a released version of Datasette to  — Simon Willison / score: 75 (WebAssemblyとPythonを用いた高度な技術解説。)</description>
 </item>
 </channel>
 </rss>
