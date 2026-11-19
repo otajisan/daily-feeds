@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 19 Nov 2026 00:16:47 +0000</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 02:08:37 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[98] OpenJDKのBase64デコーダにおけるメモリ破損の脆弱性「Java4Shell」をOpenAIのCodexで発見、わずか3時間で攻撃実証まで成功</title>
@@ -15,6 +15,14 @@
 <description>セキュリティ研究企業のCalifが2026年11月17日、Javaのオープンソース実装であるOpenJDKに重大な脆弱(ぜいじゃく)性「Java4Shell(CVE-2026-114938)」が存在すると発表しました。Java4Shellを悪用すると、攻撃者は機密情報の窃取やリモートコード実行(RCE)が可能になります。CalifはOpenAIのAIコーディングエージェント「Codex」を利用して、わずか1時間で脆弱性を発見したと報告しています。 続きを読む... — GIGAZINE / score: 98 (重大な脆弱性の発見とAIによる実証の速報)</description>
 </item>
 <item>
+<title>[95] Webサーバーソフト「nginx」に致命的な脆弱性、認証なしで遠隔攻撃の恐れ</title>
+<link>https://ascii.jp/elem/000/004/452/4452978/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/452/4452978/?rss</guid>
+<pubDate>Thu, 19 Nov 2026 01:20:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>国家サイバー統括室は11月19日、Webサーバーソフトウェア「nginx」で認証なしの遠隔攻撃により任意のコードを実行されるおそれがあるとして、運用管理者に速やかな更新を呼びかけた。 — ASCII.jp / score: 95 (nginxの致命的な脆弱性に関する緊急警告)</description>
+</item>
+<item>
 <title>[95] 「PHP」に再び“致命的”な脆弱性、日本時間19日夜にセキュリティリリースへ／サポート中の全バージョンが対象</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2157690.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2157690.html</guid>
@@ -23,20 +31,20 @@
 <description>「PHP」に再び“致命的”な脆弱性、日本時間19日夜にセキュリティリリースへ／サポート中の全バージョンが対象 — はてなブックマーク テクノロジー / score: 95 (PHPの致命的脆弱性に関する緊急の注意喚起)</description>
 </item>
 <item>
+<title>[95] PHPが2026年11月19日に緊急セキュリティリリースを予定――CVE-2026-115560を含む重大な脆弱性に対応</title>
+<link>https://aikido-community.jp/blog/php-security-release-19-november-2026-cve-2026-115560</link>
+<guid isPermaLink="true">https://aikido-community.jp/blog/php-security-release-19-november-2026-cve-2026-115560</guid>
+<pubDate>Wed, 18 Nov 2026 22:49:55 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>PHPが2026年11月19日に緊急セキュリティリリースを予定――CVE-2026-115560を含む重大な脆弱性に対応PHP schedules a critical security release for 19 November, including CVE-2026-115560 この記事のポイント【なぜ重要か】 PHPセキュリティチームは2026年11月19日 14:00〜14:30 UTC に、サポート中の全バージョン向け... — はてなブックマーク テクノロジー / score: 95 (PHPの緊急セキュリティリリースと重大な脆弱性対応)</description>
+</item>
+<item>
 <title>[95] XユーザーのSatoki@Kn0wl3dg3さん: 「弊社は世界中で使われているNGINXの最新版に、ログインなしでサーバーを乗っ取れる深刻な脆弱性「NGINX2Shell」を発見しました。@OpenAI との協力のもと、発見から報告まで一緒に進めていました。ちなみに、とあるバグバウンティイベントではこれが$300,000らしい💸 #NGINX2Shell」 / X</title>
 <link>https://x.com/satoki00/status/2123071303657910632</link>
 <guid isPermaLink="true">https://x.com/satoki00/status/2123071303657910632</guid>
 <pubDate>Wed, 18 Nov 2026 15:28:20 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>XユーザーのSatoki@Kn0wl3dg3さん: 「弊社は世界中で使われているNGINXの最新版に、ログインなしでサーバーを乗っ取れる深刻な脆弱性「NGINX2Shell」を発見しました。@OpenAI との協力のもと、発見から報告まで一緒に進めていました。ちなみに、とあるバグバウンティイベントではこれが$300,000らしい💸 #NGINX2Shell」 / X — はてなブックマーク テクノロジー / score: 95 (世界的なNGINXの深刻な脆弱性のため)</description>
-</item>
-<item>
-<title>[95] Unauthenticated Remote Code Execution in NGINX: CVE-2026-123633 and CVE-2026-123007 | Wiz Blog</title>
-<link>https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities</link>
-<guid isPermaLink="true">https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities</guid>
-<pubDate>Wed, 18 Nov 2026 15:27:17 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Unauthenticated Remote Code Execution in NGINX: CVE-2026-123633 and CVE-2026-123007Two critical HTTP/2 flaws can allow attackers to compromise NGINX servers, putting the websites, APIs, and sensitive data they handle at risk. Executive SummaryWiz Research, Ikotas Labs, Metnir, Rapid7, and Xint in... — はてなブックマーク テクノロジー / score: 95 (NGINXの深刻なリモートコード実行の脆弱性)</description>
 </item>
 <item>
 <title>[95] アメリカ国家安全保障通信ネットワーク「NSANet」がダウンしたと関係筋が語る</title>
@@ -71,6 +79,22 @@
 <description>OpenAIは2026年11月4日、開発中のサイバーセキュリティ向けAIモデルを活用し、Linuxカーネルの脆弱性をエージェントが自律的に発見し検証した結果を発表した。 — gihyo.jp / score: 95 (AIによるLinuxカーネルの脆弱性大量発見と実証の画期的なニュース)</description>
 </item>
 <item>
+<title>[90] PHPに“致命的”な脆弱性、19日夜に修正版を公開へ</title>
+<link>https://ascii.jp/elem/000/004/452/4452964/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/452/4452964/?rss</guid>
+<pubDate>Thu, 19 Nov 2026 00:40:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>PHPのセキュリティチームは11月18日、サポート中の全バージョンに影響する脆弱性を修正すると予告した。 — ASCII.jp / score: 90 (PHPの脆弱性と修正版公開に関する重要情報)</description>
+</item>
+<item>
+<title>[90] 六花亭、カード番号全桁＋セキュリティコード約8000件流出か　決済画面のプログラム改ざん</title>
+<link>https://www.itmedia.co.jp/news/article/2611/19/2000003316/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/19/2000003316/</guid>
+<pubDate>Thu, 19 Nov 2026 00:18:40 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>流出した可能性があるのは、10月21日午後9時から11月18日午前11時までの間に決済画面で入力された顧客のクレジットカード番号（全桁）、カード名義人、有効期限、セキュリティコード。 改ざんは11月18日に判明。ただちにサイトを停止した。その他のプログラムやサーバ内の情報に影響が及んでいないかも含めて、詳細な調... — はてなブックマーク テクノロジー / score: 90 (重大な個人情報流出と決済画面のプログラム改ざん)</description>
+</item>
+<item>
 <title>[90] 「Windows PowerShell 5.1」が非推奨に、「PowerShell 7」が次期Windowsに標準搭載へ／両者は共存可能、既存スクリプトの互換性を確認して移行準備を</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2157429.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2157429.html</guid>
@@ -84,7 +108,7 @@
 <guid isPermaLink="true">https://nginx2root.com/</guid>
 <pubDate>Wed, 18 Nov 2026 15:34:40 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>Found by NGINX2Root From nginx visitor to root of the server hostnginx 방문자에서 서버 호스트의 root까지 CVE-2026-123007CVE-2026-123634CVE-2026-123633CVE-2026-121810CVE-2026-113425 — はてなブックマーク テクノロジー / score: 90 (NGINXの複数の脆弱性をついた権限昇格解説)</description>
+<description>Found by NGINX2Root From nginx visitor to root of the server hostnginx 방문자에서 서버 호스트의 root까지nginxへの未認証アクセスから、サーバーホストのroot権限へ CVE-2026-123007CVE-2026-123634CVE-2026-123633CVE-2026-121810CVE-2026-113425 — はてなブックマーク テクノロジー / score: 90 (NGINXの複数の脆弱性をついた権限昇格解説)</description>
 </item>
 <item>
 <title>[90] 顧客情報漏えいか 楽天証券が説明</title>
@@ -279,6 +303,14 @@
 <description> — Google DeepMind / score: 88 (Googleの新型モデルGemini 4 Neonの発表)</description>
 </item>
 <item>
+<title>[85] Google、「Gemini 4 Neon」を発表 ～「Claude Opus 5.5」「GPT-6.2 Sol」のライバル／“フロンティア級”の知能をより高速・低コストで、「Carbon」比でタスク単価32％削減</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2157693.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2157693.html</guid>
+<pubDate>Thu, 19 Nov 2026 01:05:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Googleは11月18日（現地時間）、「Gemini 4 Neon」を発表した。複雑なソフトウェアエンジニアリングや知識労働、科学分野のワークフローを、フロンティア級の知能で、しかも高速にこなせるモデルだという。 — 窓の杜 / score: 85 (Googleの新世代AIモデルGemini 4 Neonの発表)</description>
+</item>
+<item>
 <title>[85] NGINXの脆弱性 CVE-2026-123633、CVE-2026-123007についてまとめてみた - piyolog</title>
 <link>https://piyolog.hatenadiary.jp/entry/2026/11/19/065715</link>
 <guid isPermaLink="true">https://piyolog.hatenadiary.jp/entry/2026/11/19/065715</guid>
@@ -381,6 +413,14 @@
 <pubDate>Mon, 16 Nov 2026 21:45:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>Windows向けの定番テキストエディター「Notepad++」が11月6日、v8.9.9へ更新された。以下の6件の脆弱性を修正したセキュリティアップデートとなっている（括弧内は「GitHub」のセキュリティアドバイザリで示されている深刻度）。 — 窓の杜 / score: 85 (Notepad++の複数脆弱性を修正する重要アプデ)</description>
+</item>
+<item>
+<title>[85] GTIG AI Threat Tracker: Agentic Threat Activity Crosses a Significant Threshold</title>
+<link>https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold/</guid>
+<pubDate>Mon, 16 Nov 2026 14:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Written by: Aurora Blum, Kelli Vanderlee, Jess Xia, David Mainor Executive Summary As threat actors increasingly move beyond basic prompting to deploying autonomous multi-agent frameworks , automated vulnerability exploitation pipelines, and alternative monetization schemes like LLMJacking , the adversarial AI landscape has reached a critical inflection point. In this update, Google Threat Intelligence Group (GTIG) and Mandiant examine how adversaries across the cyber crime, espionage, and infor — Google Cloud Blog / score: 85 (自律型エージェントの脅威に関するセキュリティ情報)</description>
 </item>
 <item>
 <title>[85] 誕生から約3年半、ローカルAIの推論エンジン「llama.cpp」がv1.0.0に／テンソルライブラリ「ggml」も同時にメジャーアップデート、今後はセマンティックバージョニングを採用</title>
@@ -535,6 +575,14 @@
 <description>JEP 401 (Value Objects) arrives in OpenJDK as a preview feature, enabling a new Java type model with minimal code changes. The talk explains what value objects are, JVM benefits, Valhalla history, implementation details, and the path toward bridging objects and primitives, including future support like List&lt;int&gt;. — Inside Java / score: 82 (Java Valhallaプロジェクトの解説と進化)</description>
 </item>
 <item>
+<title>[80] Anthropic IPO公開価格は83ドル</title>
+<link>https://news.yahoo.co.jp/pickup/6603117?source=rss</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6603117?source=rss</guid>
+<pubDate>Thu, 19 Nov 2026 00:34:59 +0000</pubDate>
+<category>Yahoo!ニュース IT</category>
+<description> — Yahoo!ニュース IT / score: 80 (AnthropicのIPO公開価格決定に関する重要ニュース)</description>
+</item>
+<item>
 <title>[80] サーバーソフト「nginx」に脆弱性</title>
 <link>https://news.yahoo.co.jp/pickup/6603112?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6603112?source=rss</guid>
@@ -548,7 +596,7 @@
 <guid isPermaLink="true">https://blogs.itmedia.co.jp/agile/2026/11/nginx_http2_rce_cve_2026_123007_nginx2shell_20261119.html</guid>
 <pubDate>Wed, 18 Nov 2026 16:24:20 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>【超速報】NGINX、お前もか。HTTP/2に認証不要のRCE脆弱性「NGINX2Shell」（CVE-2026-123007／123633）パッチは公開済み。PHP2Shellほどではないが更新を。Apache好きの私は高みの見物......のはずだった 先月はPHP2Shell。今月はNGINX2Shell。 Webサーバーの世界、毎月どこかがShellを取られる連載でも始まったんですか... — はてなブックマーク テクノロジー / score: 80 (NGINXのHTTP/2脆弱性に関するブログ記事)</description>
+<description>【超速報】NGINX、お前もか。HTTP/2に認証不要のRCE脆弱性「NGINX2Shell」（CVE-2026-123007／123633）パッチは公開済み。PHP2Shellほどではないが更新を。Apache好きの私は高みの見物......のはずだった 【追記】11月19日1時半ごろ：今度は「nginx2root」。HTTP/2を止めても塞げない穴が3件 NGINX2Shellの次は、nginx2r... — はてなブックマーク テクノロジー / score: 80 (NGINXのHTTP/2脆弱性に関するブログ記事)</description>
 </item>
 <item>
 <title>[80] ［速報］マイクロソフト、PostgreSQL互換のミッションクリティカル向けデータベースサービス「Azure HorizonDB」正式リリース</title>
@@ -567,6 +615,14 @@
 <description>AWS announces the general availability of AWS Interconnect - multicloud with Microsoft Azure. Customers have been adopting multicloud strategies while migrating more applications to the cloud. They do so for many reasons including interoperability requirements, the freedom to choose technology that best suits their needs, and the ability to build and deploy applications on any environment with greater ease and speed. Previously, when interconnecting workloads across multiple cloud providers (CSP — AWS What's New / score: 80 (AWSとAzure間のマルチクラウド接続一般提供)</description>
 </item>
 <item>
+<title>[80] COLD RELIC: A Case Study in Impersonation and Compromise</title>
+<link>https://cloud.google.com/blog/topics/threat-intelligence/cold-relic-a-case-study-in-impersonation-and-compromise/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/threat-intelligence/cold-relic-a-case-study-in-impersonation-and-compromise/</guid>
+<pubDate>Tue, 17 Nov 2026 14:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Written by: Josh Murchie, John Wolfram, Joseph Spero, Peter Ukhanov, Fernando Tomlinson, Jr., Wesley Shields Introduction Over the past year, Mandiant has responded to a series of linked intrusions demonstrating how Russian cyber espionage group COLD RELIC (formerly tracked as COLDRIVER and UNC4057; also known as Star Blizzard, Callisto, and Gossamer Bear) turns a single cloud compromise into a springboard for ongoing third party compromise and espionage. Most recently, Mandiant investigated a 2 — Google Cloud Blog / score: 80 (Google Mandiantによるセキュリティ侵害の事例研究)</description>
+</item>
+<item>
 <title>[80] Anthropic、深刻な脆弱性の公開スケジュールを短縮へ ―AIを活用した脆弱性発見に対応</title>
 <link>https://gihyo.jp/article/2026/11/anthropic-update-vulnerability-disclosure-timelines?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/11/anthropic-update-vulnerability-disclosure-timelines?utm_source=feed</guid>
@@ -581,14 +637,6 @@
 <pubDate>Mon, 16 Nov 2026 08:25:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Cloudflareは2026年11月12日、AIエージェント向けブラウザ「Kitesurf」をApache 2.0ライセンスのもと、GitHub上でオープンソースとして公開した。 — gihyo.jp / score: 80 (Cloudflare製AI向け軽量ブラウザの公開)</description>
-</item>
-<item>
-<title>[80] AWS Security Hub Network Scanning now supports scanning Amazon Relational Database Service (Amazon RDS) database instances</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-network-scanning-rds/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-network-scanning-rds/</guid>
-<pubDate>Mon, 16 Nov 2026 08:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>AWS Security Hub Network Scanning now scans Amazon RDS DB instances to identify those that are reachable from the internet. Network Scanning automatically discovers existing and new RDS DB instances in your accounts and scans each instance that has Public Access configured. For each reachable port associated with a DB instance, Security Hub creates a finding with details about the instance and the reachable port. RDS scanning gives you more visibility into which resources in your environment are — AWS What's New / score: 80 (Security HubのRDSネットワークスキャン)</description>
 </item>
 <item>
 <title>[80] Adaptive Heap Sizing + Numeric Conversion + Primitive Patterns - Inside Java Newscast #117</title>
@@ -719,20 +767,20 @@
 <description>Googleで何らかの検索をした際、検索結果の一番上に「AIによる概要」が表示されることがよくあります。検索結果画面にAIによる概要が表示されると、外部ウェブサイトのクリック率が約40％減少するという研究結果も発表されており、ウェブサイト向けの収益分析ツールを提供するRevScopeが現状や対策まとめています。 続きを読む... — GIGAZINE / score: 75 (AI検索がエコシステムに与える影響として重要)</description>
 </item>
 <item>
+<title>[75] Amazon ElastiCache now supports distributed KV caching for self-hosted LLM inference</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/announcing-distributed-kv-caching-for-self-hosted-llms-with-amazon-elasticache/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/announcing-distributed-kv-caching-for-self-hosted-llms-with-amazon-elasticache/</guid>
+<pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon ElastiCache for Valkey now offers fully managed distributed KV caching, a new capability that reduces self-hosted large language model (LLM) inference costs by up to 40% and time to first token (TTFT) by up to 80%. Customers who self-host LLMs pay for redundant GPU work because small, isolated caches on each server can't hold or share the growing context AI agents and chat applications resend. Distributed KV caching extends GPU-local caches with a shared tier so any server can reuse KV st — AWS What's New / score: 75 (ElastiCacheによるLLM推論コスト削減機能の提供)</description>
+</item>
+<item>
 <title>[75] 「Windows Server 2016」の延長サポート終了まであと60日を切る ～Microsoftが注意喚起／基本的には2027年1月の「Windows Update」が最後のパッチ</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2157404.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2157404.html</guid>
 <pubDate>Wed, 18 Nov 2026 07:45:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米国太平洋時間2027年1月12日（日本時間13日）、「Windows Server 2016」の延長サポートが終了する。米Microsoftが11月13日（現地時間）、「Windows メッセージ センター」で改めて注意を呼び掛けている。 — 窓の杜 / score: 75 (Windows Server 2016のサポート終了注意喚起)</description>
-</item>
-<item>
-<title>[75] 同じ仕事を少ないトークンで。GPT-6.2 AstraとSolが登場</title>
-<link>https://pc.watch.impress.co.jp/docs/news/2157394.html</link>
-<guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2157394.html</guid>
-<pubDate>Wed, 18 Nov 2026 07:27:28 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>同じ仕事を少ないトークンで。GPT-6.2 AstraとSolが登場 — はてなブックマーク テクノロジー / score: 75 (主要AIモデルの新しいアップデート発表)</description>
 </item>
 <item>
 <title>[75] 「Windows Server 2028」のパブリックプレビューが開始 ～Microsoftの次期サーバーOS／既定で堅牢化された構成、NVMe対応の強化や「Intune」による管理も</title>
@@ -757,54 +805,6 @@
 <pubDate>Wed, 18 Nov 2026 00:28:42 +0000</pubDate>
 <category>窓の杜</category>
 <description>米OpenAIは11月17日（現地時間）、大規模言語モデル「GPT-6.2 Astra」と「GPT-6.2 Sol」を発表した。「GPT-6.2 Astra」はもっとも難しいプロジェクト向けの最上位（フロンティア）モデル、「GPT-6.2 Sol」は日常業務向けの効率的で汎用的なモデル。いずれも、より少ない出力トークンで難しいタスクの成果を高めており、利用上限の範囲内でより多くの作業をこなせるという。 — 窓の杜 / score: 75 (OpenAIの新フラグシップモデル発表)</description>
-</item>
-<item>
-<title>[75] Advancing chip design with OpenAI models</title>
-<link>https://openai.com/index/advancing-chip-design-with-our-models</link>
-<guid isPermaLink="true">https://openai.com/index/advancing-chip-design-with-our-models</guid>
-<pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra. — OpenAI News / score: 75 (AIを活用したチップ設計の進展に関するニュース。)</description>
-</item>
-<item>
-<title>[75] 「.NET 11」に興味深い破壊的変更、『明治』の始まりが45日遅くなる／ごくまれにエラーを引き起こすことも【やじうまの杜】</title>
-<link>https://forest.watch.impress.co.jp/docs/serial/yajiuma/2157180.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/serial/yajiuma/2157180.html</guid>
-<pubDate>Tue, 17 Nov 2026 21:45:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>「やじうまの杜」では、ニュース・レビューにこだわらない幅広い話題をお伝えします。 — 窓の杜 / score: 75 (.NET 11における破壊的変更の興味深い話題)</description>
-</item>
-<item>
-<title>[75] ［速報］PostgreSQL互換のサーバレスでOLTPとOLAP両対応を実現する「Microsoft Fabric HorizonDB」パブリックプレビュー</title>
-<link>https://www.publickey1.jp/blog/26/postgresqloltpolapmicrosoft_fabric_horizondb.html</link>
-<guid isPermaLink="true">https://www.publickey1.jp/blog/26/postgresqloltpolapmicrosoft_fabric_horizondb.html</guid>
-<pubDate>Tue, 17 Nov 2026 21:43:09 +0000</pubDate>
-<category>Publickey</category>
-<description>マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、PostgreSQL互換のサーバレスデータベース「Microsoft Fabric HorizonDB」のパブリックプレビュー版... — Publickey / score: 75 (PostgreSQL互換のサーバレスDBプレビュー版)</description>
-</item>
-<item>
-<title>[75] AWS Security Hub now infers resource criticality from installed software and usage</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-resource-criticality/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-resource-criticality/</guid>
-<pubDate>Tue, 17 Nov 2026 20:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Today, AWS Security Hub adds installed software and resource usage as signals for resource criticality, which indicates how important a resource is to your business. Security Hub uses criticality to rank exposure findings, so that central security teams can prioritize the exposures that affect their most important resources. Security Hub already infers criticality from resource tags and names, but inconsistently tagged resources often have an Unknown criticality, which makes their exposures hard — AWS What's New / score: 75 (AWS Security Hubの重要度判定機能追加)</description>
-</item>
-<item>
-<title>[75] Amazon API Gateway REST APIs now support JWT authorizers</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-rest-authorizers-jwt/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-rest-authorizers-jwt/</guid>
-<pubDate>Tue, 17 Nov 2026 19:22:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Amazon API Gateway now offers a native JWT authorizer for REST APIs, a new authorizer type that validates JSON Web Tokens directly in the gateway. Until now, validating tokens from an OpenID Connect or OAuth 2.0 identity provider other than Amazon Cognito required a Lambda authorizer. You now configure token validation instead of writing and operating code for it. You can define one or more issuers, the audiences accepted for each, the signing algorithms you permit, and any additional claims a t — AWS What's New / score: 75 (API GatewayのネイティブJWT認証対応)</description>
-</item>
-<item>
-<title>[75] Running the full server-side Datasette Python app in the browser with service workers and Pyodide</title>
-<link>https://simonwillison.net/2026/Nov/17/datasette-lite/</link>
-<guid isPermaLink="true">https://simonwillison.net/2026/Nov/17/datasette-lite/</guid>
-<pubDate>Tue, 17 Nov 2026 16:48:33 +0000</pubDate>
-<category>Simon Willison</category>
-<description>Datasette Lite is my port of the Datasette Python application to run directly in the browser using WebAssembly and Pyodide . I've released a complete rewrite of Datasette Lite using service workers, and it's now almost indistinguishable from the real server-side application. You can now do all of the following, using a carefully crafted URL to lite.datasette.io : Load client-side Datasette to browse any SQLite database, JSON file, CSV file or SQL script Select a released version of Datasette to  — Simon Willison / score: 75 (WebAssemblyとPythonを用いた高度な技術解説。)</description>
 </item>
 </channel>
 </rss>
