@@ -4,8 +4,56 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 19 Nov 2026 18:08:23 +0000</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 20:06:26 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>AWS Revenue Measurement now supports deal-level revenue attribution for AWS Marketplace offers and opportunities</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/aws-revenue-measurement-deal-attribution/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/aws-revenue-measurement-deal-attribution/</guid>
+<pubDate>Thu, 19 Nov 2026 19:25:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Today, AWS announces deal-level revenue attribution for AWS Revenue Measurement (previously Partner Revenue Measurement) capabilities. AWS Partners can now see how the AWS revenue measured for their products maps to specific AWS Marketplace offers and/or APN Customer Engagements (ACE) opportunities. Until now, partners who implemented AWS Revenue Measurement via Resource Tagging , User Agent String or AWS Marketplace Metering could view aggregated, product-level attributed revenue. With this lau — AWS What's New / score: 40 (AWS Marketplaceの収益測定機能のアップデート)</description>
+</item>
+<item>
+<title>AWS Transform combines migration assessment and planning in one experience</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-assessment-and-planning</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-assessment-and-planning</guid>
+<pubDate>Thu, 19 Nov 2026 19:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS Transform for migrations now combines migration assessment and migration planning into a single migration job. Previously, you ran separate jobs to build a total cost of ownership (TCO) business case and to plan your migration. With this launch, you upload your on-premises inventory once and use it for both assessment and planning, in any order. After you upload your inventory data, you can estimate your AWS costs and build a business case, group your infrastructure into applications and pla — AWS What's New / score: 40 (AWSの移行支援ツールの機能統合)</description>
+</item>
+<item>
+<title>AWS Transform extends application-centric migration across the lifecycle</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-application-centric-migration</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-application-centric-migration</guid>
+<pubDate>Thu, 19 Nov 2026 19:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS Transform now puts applications at the center of every stage of the migration journey, so you can discover, plan, migrate, validate, and track the applications your business runs on rather than just the servers underneath them. Application-level grouping has been part of AWS rehost workflows for years, and AWS Transform now carries that same view through your entire migration. Enterprise migrations typically involve thousands of servers, but the questions that drive decisions are about appli — AWS What's New / score: 40 (AWSのアプリケーション中心型移行機能の拡張)</description>
+</item>
+<item>
+<title>Amazon IVS Real-Time Streaming now provides a Linux broadcast SDK</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ivs-real-time-streaming-linux-broadcast-sdk</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ivs-real-time-streaming-linux-broadcast-sdk</guid>
+<pubDate>Thu, 19 Nov 2026 18:49:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>The Amazon Interactive Video Service (Amazon IVS) Linux broadcast SDK is now available for IVS Real-Time Streaming. Applications running on Linux can join an IVS stage, receive audio from participants, and send audio back to the stage in real time. The SDK provides a C API and Go language bindings. The Linux broadcast SDK is ideal for AI applications that enrich live streams by processing audio, such as transcription, translation, and content moderation, as well as voice agents that converse wit — AWS What's New / score: 35 (Amazon IVSのLinux用ブロードキャストSDK提供)</description>
+</item>
+<item>
+<title>Introducing Tool Retrieval in the Gemini API</title>
+<link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/</link>
+<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/</guid>
+<pubDate>Thu, 19 Nov 2026 18:00:00 +0000</pubDate>
+<category>Google AI Blog</category>
+<description>Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API. — Google AI Blog / score: 75 (Gemini APIの新機能プレビュー公開)</description>
+</item>
+<item>
+<title>AWS Elemental MediaTailor adds Dynamic Avail Sizing for live HLS</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/aws-elemental-mediatailor-dynamic-avail-sizing-live-hls</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/aws-elemental-mediatailor-dynamic-avail-sizing-live-hls</guid>
+<pubDate>Thu, 19 Nov 2026 18:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS Elemental MediaTailor now supports Dynamic Avail Sizing, which reduces the slate viewers see when ad breaks, also called avails, in live HLS streams go unfilled. MediaTailor is a server-side ad insertion and channel assembly service that personalizes ads in live and on-demand video streams. When the ad decision server returns fewer ads than a break allows, dynamic avail sizing omits the unfilled time and resumes programming early instead of showing slate. To keep playback continuous, MediaTa — AWS What's New / score: 35 (AWS MediaTailorのライブHLS向け新機能)</description>
+</item>
 <item>
 <title>Walter Isaacson on curiosity and creativity in the AI age.</title>
 <link>https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/</link>
@@ -21,6 +69,14 @@
 <pubDate>Thu, 19 Nov 2026 17:00:00 +0000</pubDate>
 <category>Gemini (Google Blog)</category>
 <description>Prompting Gemini to take a kid's butterfly sketch, model it, and rig it in Blender — Gemini (Google Blog) / score: 40 (Mac向けGeminiの活用事例とプロンプト解説)</description>
+</item>
+<item>
+<title>AWS Partner Central now supports AI-assisted listing experience for product, services, and solutions</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/partner-central-ai-listing/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/partner-central-ai-listing/</guid>
+<pubDate>Thu, 19 Nov 2026 17:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS Marketplace search, Agent Mode, and AWS sales teams use listings to recommend partner offerings to AWS customers. Partners who sell software and services can now create and improve their listings in AWS Partner Central with the new AI-assisted listing experience. It drafts content from a partner's website and other materials, then shows which sections need clearer details, use cases, or evidence of customer outcomes. For single-AMI products, it also drafts the usage instructions buyers see a — AWS What's New / score: 30 (AWSパートナーセントラルのAI支援リスティング)</description>
 </item>
 <item>
 <title>Helping our partners market smarter, together, with Gemini</title>
@@ -47,6 +103,14 @@
 <description>GKE Dataplane V2 is Google Cloud’s next-generation networking dataplane for Google Kubernetes Engine (GKE), built on extended Berkeley Packet Filter ( eBPF ) and open-source Cilium to replace traditional iptables routing and kube-proxy . We built GKE Dataplane V2 to meet the performance, scalability, and security demands of modern cloud-native workloads. GKE customers consistently tell us that while they want to adopt GKE Dataplane V2 for its performance and scale, migrating production clusters  — Google Cloud Blog / score: 65 (GKE Dataplane V2へのインプレース移行サポート)</description>
 </item>
 <item>
+<title>What’s new with Google Cloud</title>
+<link>https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/</guid>
+<pubDate>Thu, 19 Nov 2026 17:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block &lt;ListValue: []&gt; Nov 16 - Nov 20 Why your AI agent keeps forgetting: a 15 minute build on agent memory Agents that resend the full conversa — Google Cloud Blog / score: 40 (Google Cloudの一般的な最新情報まとめ)</description>
+</item>
+<item>
 <title>【速報】Anthropicが上場。初値は111.50ドル、公開価格を34%上回る</title>
 <link>https://www.gizmodo.jp/article/2611-anthropic-ipo/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/2611-anthropic-ipo/</guid>
@@ -69,6 +133,14 @@
 <pubDate>Thu, 19 Nov 2026 16:01:00 +0000</pubDate>
 <category>ASCII.jp</category>
 <description>ソニー、ニコン、パナソニック、OM SYSTEM、富士フイルム、キヤノンのキャンペーンをまとめました — ASCII.jp / score: 20 (カメラメーカー各社のキャッシュバックキャンペーン)</description>
+</item>
+<item>
+<title>Amazon MSK Connect now supports restarting existing connectors</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-msk-connect-restart-existing-connectors</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-msk-connect-restart-existing-connectors</guid>
+<pubDate>Thu, 19 Nov 2026 16:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon MSK Connect (Amazon Managed Streaming for Apache Kafka Connect) now supports restarting both existing and newly created connectors and their tasks in place, enabling fast recovery for streaming data pipelines. Amazon MSK Connect is a fully managed service that allows you to deploy, monitor, and scale Apache Kafka Connect connectors with Amazon MSK (Managed Streaming for Apache Kafka). Previously, recovering from failures required deleting and recreating the connector, resulting in downtim — AWS What's New / score: 45 (Amazon MSK Connectのコネクタ再起動サポート)</description>
 </item>
 <item>
 <title>Amazon Aurora DSQL now supports multi-Region peering across continents</title>
@@ -293,6 +365,14 @@
 <pubDate>Thu, 19 Nov 2026 12:30:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>ビットコイン採掘企業がAIデータセンターへ事業転換中。大量の電力とインフラを活かした新たな収益源の仕組みとは。 — ギズモード・ジャパン / score: 55 (ビットコイン採掘企業のAIデータセンター転換)</description>
+</item>
+<item>
+<title>Agenship — Software FactoryであなたのチームにAIの開発ラインを</title>
+<link>https://agenship.ai/</link>
+<guid isPermaLink="true">https://agenship.ai/</guid>
+<pubDate>Thu, 19 Nov 2026 12:07:58 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Agenshipは、仕様の策定から実装・テスト・ Pull Requestの作成を、AIエージェントがクラウド上で 進めるSoftware Factoryです。 あなたの組織のAI活用は、今どの段階ですか？あなたの組織のAI活用は、 今どの段階ですか？コーディングエージェントによって、個人のソフトウェア開発は速くなりました。 組織の生産性を上... — はてなブックマーク テクノロジー / score: 65 (AIを活用したソフトウェア開発の新しいアプローチ)</description>
 </item>
 <item>
 <title>Huawei最大級のAIデータセンターでも計算能力はxAIの「Colossus 2」の約7％で中国は2028年まで大幅に後れを取る可能性大</title>
@@ -725,86 +805,6 @@
 <pubDate>Thu, 19 Nov 2026 08:00:43 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Googleは2026年11月18日、AIモデル「Gemini 4 Neon」を発表し、GeminiアプリやGemini APIなどで順次提供を始めた。Neonは、複数のファイルにまたがるコード修正や科学研究での定量分析など、高い推論能力が求められる作業を短時間でこなせるよう設計された。 — gihyo.jp / score: 85 (Googleの新型高性能AIモデル発表)</description>
-</item>
-<item>
-<title>【〆切までいよいよ数時間】みずほ、三菱UFJ、東京ガス、イオンなど登壇「Developers X Summit 2026」</title>
-<link>https://codezine.jp/article/detail/30413</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/30413</guid>
-<pubDate>Thu, 19 Nov 2026 08:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 40 (技術系イベントの告知情報)</description>
-</item>
-<item>
-<title>How OpenAI’s Performance Factory keeps ChatGPT fast</title>
-<link>https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast</link>
-<guid isPermaLink="true">https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast</guid>
-<pubDate>Thu, 19 Nov 2026 08:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast. — OpenAI News / score: 50 (OpenAIのChatGPT性能維持の取り組み紹介)</description>
-</item>
-<item>
-<title>AWS Transform supports optimized storage for server migration</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-optimized-storage/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-optimized-storage/</guid>
-<pubDate>Thu, 19 Nov 2026 08:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>AWS Transform for migrations now recommends the optimized storage type and configuration for every server you migrate, so you no longer do it server by server. Building on recent storage assessment capabilities , AWS Transform's recommendations use each server's observed performance and capacity data to reduce overprovisioning costs and avoid performance issues after cutover. You see the expected cost before you migrate, and AWS Transform applies the approved settings automatically at launch. Re — AWS What's New / score: 50 (AWSのサーバー移行最適化機能のアップデート)</description>
-</item>
-<item>
-<title>AWS Marketplace now supports buyer approval workflows</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/11/marketplace-buyer-approvals/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/marketplace-buyer-approvals/</guid>
-<pubDate>Thu, 19 Nov 2026 08:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Today, AWS Marketplace announces the general availability of buyer approvals. This lets you decide which AWS Marketplace purchases need sign-off, who approves them, and where approval happens. You can define buying policies for the conditions that matter to you, such as purchase amount, product type, pricing, and whether an offer is public or private. Additionally, you can choose to route each purchase request to the right place: the AWS Marketplace console, a chain of approvers by email, or you — AWS What's New / score: 40 (AWS Marketplaceの購入承認ワークフロー追加)</description>
-</item>
-<item>
-<title>Amazon Connect Customer enables Cases by default for new instances</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/11/connect-cases-enabled-by-default/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/connect-cases-enabled-by-default/</guid>
-<pubDate>Thu, 19 Nov 2026 08:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Amazon Connect Customer enables Cases by default for new instances, so operations teams can start tracking and resolving customer issues on day one without any setup work. New instances come with Cases connected to rules for setting SLAs, Customer Profiles for personalizing customer experiences, and Amazon EventBridge for triggering actions in other business applications when a case is updated. Administrators of existing instances can enable these integrations with one click in the AWS Managemen — AWS What's New / score: 35 (Amazon ConnectのCases機能デフォルト有効化)</description>
-</item>
-<item>
-<title>AWS Transform automates source and migration target actions to accelerate cutover</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-automates-source-actions/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-automates-source-actions/</guid>
-<pubDate>Thu, 19 Nov 2026 08:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>AWS Transform now automates the tasks that prepare and validate your servers during a migration, before they move and after they launch on AWS. AWS Transform is the agentic AI service that speeds up cloud migration, application modernization, and continuous tech debt reduction. With the new source actions capability, you can create actions and run them securely on your source servers at the right point in the migration, from the early stages through cutover. Post-launch actions complement this b — AWS What's New / score: 50 (AWS移行時の自動化およびAI機能の強化)</description>
-</item>
-<item>
-<title>November 19, 2026</title>
-<link>https://docs.cloud.google.com/release-notes#November_19_2026</link>
-<guid isPermaLink="true">https://docs.cloud.google.com/release-notes#November_19_2026</guid>
-<pubDate>Thu, 19 Nov 2026 08:00:00 +0000</pubDate>
-<category>Google Cloud リリースノート</category>
-<description>Cloud Load Balancing Feature The DENY_BY_DEFAULT action for authorization policies is generally available (GA) for regional external Application Load Balancers, regional internal Application Load Balancers, and cross-region internal Application Load Balancers. Attaching a DENY_BY_DEFAULT authorization policy to a load balancer's forwarding rule establishes a deny-by-default security baseline that blocks all requests unless they are explicitly permitted by a separate ALLOW or CUSTOM authorization — Google Cloud リリースノート / score: 70 (Google CloudのCloud SQL関連のアップデート)</description>
-</item>
-<item>
-<title>【KOTONOHA】新シリーズ発表：自社専用の“AI社員”を構築できる国産の完全隔離型プライベートAI基盤</title>
-<link>https://ascii.jp/elem/000/004/453/4453335/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/453/4453335/?rss</guid>
-<pubDate>Thu, 19 Nov 2026 08:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>【KOTONOHA】新シリーズ発表：自社専用の“AI社員”を構築できる国産の完全隔離型プライベートAI基盤 — ASCII.jp / score: 65 (国産の完全隔離型プライベートAI基盤の新シリーズ発表)</description>
-</item>
-<item>
-<title>バベルメソッド、外国人材の日本語評価を扱う専門メディア『Japrise ジャーナル｜外国人材の日本語アセスメント・コミュニケーション総研』を開設</title>
-<link>https://ascii.jp/elem/000/004/453/4453331/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/453/4453331/?rss</guid>
-<pubDate>Thu, 19 Nov 2026 08:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>バベルメソッド、外国人材の日本語評価を扱う専門メディア『Japrise ジャーナル｜外国人材の日本語アセスメント・コミュニケーション総研』を開設 — ASCII.jp / score: 15 (外国人人材の日本語評価に関する専門メディア開設のニュース)</description>
-</item>
-<item>
-<title>【楽天ブラックフライデー】お出かけや毎日を彩る RORRY のモバイルバッテリー、ブラックフライデーに登場</title>
-<link>https://ascii.jp/elem/000/004/453/4453306/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/453/4453306/?rss</guid>
-<pubDate>Thu, 19 Nov 2026 08:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>【楽天ブラックフライデー】お出かけや毎日を彩る RORRY のモバイルバッテリー、ブラックフライデーに登場 — ASCII.jp / score: 10 (ECサイトのセール情報とモバイルバッテリーの紹介)</description>
 </item>
 </channel>
 </rss>
