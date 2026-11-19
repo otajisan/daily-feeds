@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 19 Nov 2026 20:06:26 +0000</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 22:06:00 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等） | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構</title>
@@ -63,20 +63,28 @@
 <description>Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API. — OpenAI News / score: 95 (主要なAIモデルのメジャーリリースと機能強化)</description>
 </item>
 <item>
+<title>[90] PostgreSQL 19 Released</title>
+<link>https://simonwillison.net/2026/Nov/19/postgresql-19/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Nov/19/postgresql-19/</guid>
+<pubDate>Thu, 19 Nov 2026 20:43:57 +0000</pubDate>
+<category>Simon Willison</category>
+<description>PostgreSQL 19 Released Most years PostgreSQL ships a new release in September, but this year's release came two months later thanks mainly to the flurry of issues that the PostgreSQL team needed to address as part of the ongoing AI-reported vulnerability apocalypse. This release was definitely worth the wait. My favorite new feature is this one: For applications that send reads to standbys, PostgreSQL 19 adds "read-your-writes" consistency with the new WAIT FOR LSN command. A session on a standb — Simon Willison / score: 90 (主要なRDBMSであるPostgreSQL 19のメジャーリリース)</description>
+</item>
+<item>
+<title>[90] 11月に修正されたPHPの脆弱性についてまとめてみた - piyolog</title>
+<link>https://piyolog.hatenadiary.jp/entry/2026/11/20/003148</link>
+<guid isPermaLink="true">https://piyolog.hatenadiary.jp/entry/2026/11/20/003148</guid>
+<pubDate>Thu, 19 Nov 2026 15:54:08 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>2026年11月19日、PHPの開発元であるThe PHP Groupは4系統のセキュリティリリース(PHP 8.5.13、8.4.28、8.3.37、8.2.36)を公開し、複数の脆弱性を修正しました。ここでは関連する情報をまとめます。 どんな脆弱性が修正されたの? The PHP Groupは11月18日、19日14時から14時30分(協定世界時、日本時間23時から23時30分)に... — はてなブックマーク テクノロジー / score: 90 (PHPの複数脆弱性修正に関するセキュリティリリース情報)</description>
+</item>
+<item>
 <title>[90] 「PHP」で17件の脆弱性に対処、認証不要のリモートコード実行につながる“致命的”なものも／v8.5.13、v8.4.28、v8.3.37、v8.2.36が公開</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2158039.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2158039.html</guid>
 <pubDate>Thu, 19 Nov 2026 15:05:27 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>「PHP」で17件の脆弱性に対処、認証不要のリモートコード実行につながる“致命的”なものも／v8.5.13、v8.4.28、v8.3.37、v8.2.36が公開 — はてなブックマーク テクノロジー / score: 90 (PHPの致命的な脆弱性を含む多数の脆弱性修正)</description>
-</item>
-<item>
-<title>[90] 湘南美容クリニックのSBCグループに不正アクセス、約162万人の個人情報流出　パスワードは暗号化せず保存 | テクノエッジ TechnoEdge</title>
-<link>https://www.techno-edge.net/article/2026/11/19/5773.html</link>
-<guid isPermaLink="true">https://www.techno-edge.net/article/2026/11/19/5773.html</guid>
-<pubDate>Thu, 19 Nov 2026 07:30:37 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>湘南美容クリニックなどを展開するSBCメディカルグループは11月19日、グループの医療機関から委託を受けてSBCメディカルグループ株式会社が保有していたデータベースがサイバー攻撃を受け、利用者の個人情報が不正に取得されたと発表しました。氏名、性別、電話番号、メールアドレス、パスワード、住所、生年月日、診察... — はてなブックマーク テクノロジー / score: 90 (大規模な個人情報流出と不適切なパスワード保存)</description>
 </item>
 <item>
 <title>[90] 日本版DBSのシステムで見つかった脆弱性についてまとめてみた - piyolog</title>
@@ -93,14 +101,6 @@
 <pubDate>Thu, 19 Nov 2026 02:32:22 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>NGINXの開発チームは2026年11月18日、オープンソース版NGINXの複数の脆弱性を修正し、メインライン版1.31.9と安定版1.30.7を公開した。修正対象には、複数の研究チームが独立に発見したHTTP/2処理の脆弱性2件が含まれる。 — gihyo.jp / score: 90 (NGINXのHTTP/2に関する重要脆弱性修正)</description>
-</item>
-<item>
-<title>[90] 六花亭、カード番号全桁＋セキュリティコード約8000件流出か　決済画面のプログラム改ざん</title>
-<link>https://www.itmedia.co.jp/news/article/2611/19/2000003316/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/19/2000003316/</guid>
-<pubDate>Thu, 19 Nov 2026 00:18:40 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>流出した可能性があるのは、10月21日午後9時から11月18日午前11時までの間に決済画面で入力された顧客のクレジットカード番号（全桁）、カード名義人、有効期限、セキュリティコード。 改ざんは11月18日に判明。ただちにサイトを停止した。その他のプログラムやサーバ内の情報に影響が及んでいないかも含めて、詳細な調... — はてなブックマーク テクノロジー / score: 90 (重大な個人情報流出と決済画面のプログラム改ざん)</description>
 </item>
 <item>
 <title>[90] 「Windows PowerShell 5.1」が非推奨に、「PowerShell 7」が次期Windowsに標準搭載へ／両者は共存可能、既存スクリプトの互換性を確認して移行準備を</title>
@@ -141,14 +141,6 @@
 <pubDate>Tue, 17 Nov 2026 17:17:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Today, AWS announces the general availability of OpenAI GPT-6.2 Astra and GPT-6.2 Sol on Amazon Bedrock. GPT-6.2 Astra brings frontier-level reasoning and judgment to your most ambitious work, including complex business problems, demanding research, and advanced coding and agentic workflows. Astra also includes an Ultrafast mode for latency-sensitive applications that need fast responses. GPT-6.2 Sol is designed for recurring coding, agentic, and professional workflows with clear outcomes, where — AWS What's New / score: 90 (Bedrockでの主要AIモデル一般提供開始)</description>
-</item>
-<item>
-<title>[90] Amazon Corretto November 2026 Critical Security Patch Updates</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-corretto-nov-2026-updates/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-corretto-nov-2026-updates/</guid>
-<pubDate>Tue, 17 Nov 2026 15:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>On Nov 17, 2026, Amazon announced critical security patch update (CSPU) for Amazon Corretto Long-Term Support (LTS) and Feature Release (FR) versions of OpenJDK. Corretto 27.0.1.1.4, 25.0.5.1.2, 21.0.13.1.2, 17.0.21.1.2, 11.0.33.1.1, and 8u514 are now available for download . Amazon Corretto is a no-cost, multi-platform, production-ready distribution of OpenJDK. Visit Corretto home page to download Corretto 27, Corretto 25, Corretto 21, Corretto 17, Corretto 11, or Corretto 8. You can also get t — AWS What's New / score: 90 (Amazon Correttoの緊急セキュリティパッチ適用)</description>
 </item>
 <item>
 <title>[90] 「LibreOffice」に19件の脆弱性、AIでの発見が相次ぐ ～v26.2.7/26.8.2で修正済み【11月18日追記】／文書を開くだけでコードを実行されるおそれも。2件については実証コードが公開される</title>
@@ -311,6 +303,14 @@
 <description>SBCメディカルグループは11月19日、湘南美容クリニックなどの利用者の個人情報が不正アクセスによって流出したと発表した。氏名や連絡先などを含む個人情報162万4000人分のほか、予約の申し込み情報や相談内容なども流出した。流出した情報には、当時暗号化せずに保存していたパスワードも含まれる。 162万4000人分は201... — はてなブックマーク テクノロジー / score: 85 (湘南美容クリニックの162万人分の大規模情報流出)</description>
 </item>
 <item>
+<title>[85] 【事前準備のお願い】PHPのセキュリティリリース公開予定について（11月） | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構</title>
+<link>https://www.ipa.go.jp/security/security-alert/2026/pre-alert20261119.html</link>
+<guid isPermaLink="true">https://www.ipa.go.jp/security/security-alert/2026/pre-alert20261119.html</guid>
+<pubDate>Thu, 19 Nov 2026 10:40:49 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>2026年10月に公表した PHPの脆弱性（CVE-2026-109618、CVE-2026-109619：PHP2shell)の予告時とは異なり、「デフォルトではない設定、または、一般的ではないセットアップ」で影響するものとの記載がなされております。 本情報の対象となる脆弱性について、本ページ公開時点でIPAが悪用した攻撃を確認しているわけではあ... — はてなブックマーク テクノロジー / score: 85 (PHPの脆弱性と事前準備に関するIPAからの重要注意喚起)</description>
+</item>
+<item>
 <title>[85] 物流代行サービス「オープンロジ」への不正アクセスについてまとめてみた - piyolog</title>
 <link>https://piyolog.hatenadiary.jp/entry/2026/11/19/183634</link>
 <guid isPermaLink="true">https://piyolog.hatenadiary.jp/entry/2026/11/19/183634</guid>
@@ -373,14 +373,6 @@
 <pubDate>Thu, 19 Nov 2026 01:05:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Googleは11月18日（現地時間）、「Gemini 4 Neon」を発表した。複雑なソフトウェアエンジニアリングや知識労働、科学分野のワークフローを、フロンティア級の知能で、しかも高速にこなせるモデルだという。 — 窓の杜 / score: 85 (Googleの新世代AIモデルGemini 4 Neonの発表)</description>
-</item>
-<item>
-<title>[85] AnthropicのAI「Claude Mythos Preview」が見つけた約3万8000件の脆弱性候補の修正はどこまで進んだのか？</title>
-<link>https://gigazine.net/news/20261119-anthropic-glasswing-vulnerability-fixes/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261119-anthropic-glasswing-vulnerability-fixes/</guid>
-<pubDate>Wed, 18 Nov 2026 22:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>AnthropicはAIモデル「Claude Mythos Preview」を使用して主要なOSやウェブブラウザーなどで深刻度の高い脆弱(ぜいじゃく)性を数千件見つけたと2026年4月に発表しました。そこから約7カ月が経過した11月9日に、セキュリティ企業のVulnCheckが公開台帳などをもとにその後の修正状況を報告しました。 続きを読む... — GIGAZINE / score: 85 (AIが検出した大量の脆弱性修正状況を扱った重要ニュース)</description>
 </item>
 <item>
 <title>[85] Microsoft、コーディング向けMAI Code 2、画像生成・編集のMAI Image 2.7、音声対話のMAI Realtime 1など7つのAIモデルを発表 ——GitHubとともにCodename MDASHでオープンソースのコードを検査し、脆弱性99件を修正案とともに報告</title>
@@ -695,6 +687,22 @@
 <description>November 9, 2026 — Claude Fable 5.2 and Mythos 5.2 arrive on Anthropic’s IPO roadshow day. How much thinking is worth paying for? — Latent Space / score: 78 (主要LLMの性能逆転とIPO動向)</description>
 </item>
 <item>
+<title>[75] v4.2.0</title>
+<link>https://github.com/spring-projects/spring-boot/releases/tag/v4.2.0</link>
+<guid isPermaLink="true">https://github.com/spring-projects/spring-boot/releases/tag/v4.2.0</guid>
+<pubDate>Thu, 19 Nov 2026 22:00:24 +0000</pubDate>
+<category>Spring Boot リリース</category>
+<description>⭐ New Features Refine forwarded header support #52800 Deprecate Apache Pulsar support #52752 🐞 Bug Fixes Properties migrator does not migrate some properties renamed in 4.0 #52809 Reactive web servers no longer use forwarded headers on a cloud platform after #52800 #52806 Class loading fails with 'Zip file closed' can still be thrown under concurrent access #52803 Auto-configured PulsarTransactionManager is not customized by TransactionManagerCustomizers #52783 InspectedContent records the wrong — Spring Boot リリース / score: 75 (人気フレームワークSpring Boot v4.2.0のリリース)</description>
+</item>
+<item>
+<title>[75] 好きな時にAmazonの商品を受け取れる「Amazonロッカー」のセキュリティをあらゆる手段を駆使して突破する試み～ハードウェア編</title>
+<link>https://gigazine.net/news/20261120-breaking-amazon-lockers-hardware/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261120-breaking-amazon-lockers-hardware/</guid>
+<pubDate>Thu, 19 Nov 2026 22:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>DEF CON 34カンファレンスにおいてセキュリティエンジニアのマーティン・ヴィゴ氏が発表したAmazonロッカーのセキュリティに関する調査結果の後半は、ハードウェア部分に焦点を当てています。 続きを読む... — GIGAZINE / score: 75 (Amazonロッカーのセキュリティ検証に関するカンファレンス発表)</description>
+</item>
+<item>
 <title>[75] Introducing Tool Retrieval in the Gemini API</title>
 <link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/</link>
 <guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/</guid>
@@ -730,9 +738,9 @@
 <title>[75] OpenAIがAIを用いてAMD製GPUや独自開発AIチップの改善に成功、半導体設計の専用AIモデルも開発</title>
 <link>https://gigazine.net/news/20261119-openai-jalapeno-amd-advancing-chip/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261119-openai-jalapeno-amd-advancing-chip/</guid>
-<pubDate>Thu, 19 Nov 2026 08:01:57 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>OpenAIが自社製AIを用いて独自開発チップ「Jalapeño(ハラペーニョ)」やAMD製GPUの性能向上を実現したことをアピールしています。 Advancing chip design with OpenAI models | OpenAI https://openai.com/index/advancing-chip-design-with-our-models/ OpenAIはカスタム推論チップ「Jalapeño」をBroadcomと共同開発して... — はてなブックマーク テクノロジー / score: 75 (OpenAIによる半導体設計・専用AIモデルの成果)</description>
+<pubDate>Thu, 19 Nov 2026 07:58:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>OpenAIが自社製AIを用いて独自開発チップ「Jalapeño(ハラペーニョ)」やAMD製GPUの性能向上を実現したことをアピールしています。 続きを読む... — GIGAZINE / score: 75 (OpenAIによる半導体設計・専用AIモデルの成果)</description>
 </item>
 <item>
 <title>[75] Microsoft AI、「MAI Code 2」など新モデル7つを一挙投入【Ignite 2026】／コーディング、セキュリティ、画像、音声、判断の各分野で“価格性能比”を追求</title>
@@ -797,14 +805,6 @@
 <pubDate>Wed, 18 Nov 2026 05:40:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Microsoftは11月17日（現地時間）、「Windows Server 2028」を発表した。同日よりパブリックプレビューとして公開されており、「Windows Server Insider Program」で新機能を試せる。 — 窓の杜 / score: 75 (次期Windows Serverのプレビュー開始でインフラ関連の注目トピック)</description>
-</item>
-<item>
-<title>[75] OpenAI、「GPT-6.2 Astra」「GPT-6.2 Sol」を発表 ～少ない出力トークンでより高い成果／上位モデルのAPI料金は2割引き、「Pro 200」でも「Ultrafast」</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2157295.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2157295.html</guid>
-<pubDate>Wed, 18 Nov 2026 00:28:42 +0000</pubDate>
-<category>窓の杜</category>
-<description>米OpenAIは11月17日（現地時間）、大規模言語モデル「GPT-6.2 Astra」と「GPT-6.2 Sol」を発表した。「GPT-6.2 Astra」はもっとも難しいプロジェクト向けの最上位（フロンティア）モデル、「GPT-6.2 Sol」は日常業務向けの効率的で汎用的なモデル。いずれも、より少ない出力トークンで難しいタスクの成果を高めており、利用上限の範囲内でより多くの作業をこなせるという。 — 窓の杜 / score: 75 (OpenAIの新フラグシップモデル発表)</description>
 </item>
 </channel>
 </rss>

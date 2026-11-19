@@ -4,8 +4,120 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 19 Nov 2026 20:06:26 +0000</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 22:06:00 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>v4.1.3</title>
+<link>https://github.com/spring-projects/spring-boot/releases/tag/v4.1.3</link>
+<guid isPermaLink="true">https://github.com/spring-projects/spring-boot/releases/tag/v4.1.3</guid>
+<pubDate>Thu, 19 Nov 2026 22:01:00 +0000</pubDate>
+<category>Spring Boot リリース</category>
+<description>🐞 Bug Fixes Properties migrator does not migrate some properties renamed in 4.0 #52808 Calls to JarUrlClassLoader.clearCache run the risk of "zip closed" exceptions #52799 Auto-configured PulsarTransactionManager is not customized by TransactionManagerCustomizers #52782 InspectedContent records the wrong size when a writer writes a range of bytes #52780 PostgreSQL database names in Docker Compose JDBC URLs are not URL encoded #52778 Encoded AMQP URI values are not decoded when no port is specifi — Spring Boot リリース / score: 65 (Spring Boot v4.1.3のバグフィックスリリース)</description>
+</item>
+<item>
+<title>v4.0.10</title>
+<link>https://github.com/spring-projects/spring-boot/releases/tag/v4.0.10</link>
+<guid isPermaLink="true">https://github.com/spring-projects/spring-boot/releases/tag/v4.0.10</guid>
+<pubDate>Thu, 19 Nov 2026 22:00:34 +0000</pubDate>
+<category>Spring Boot リリース</category>
+<description>🐞 Bug Fixes Properties migrator does not migrate some properties renamed in 4.0 #52801 Calls to JarUrlClassLoader.clearCache run the risk of "zip closed" exceptions #52797 Config tree imports referencing parent directories contain no data #52666 OriginTrackedPropertiesLoader drops an indented line after a document separator with trailing whitespace #52657 Encoded AMQP URI values are not decoded when no port is specified #52644 SAML2 service provider metadata fails when the single logout binding  — Spring Boot リリース / score: 45 (Spring Bootの細かなバグ修正パッチ)</description>
+</item>
+<item>
+<title>v4.2.0</title>
+<link>https://github.com/spring-projects/spring-boot/releases/tag/v4.2.0</link>
+<guid isPermaLink="true">https://github.com/spring-projects/spring-boot/releases/tag/v4.2.0</guid>
+<pubDate>Thu, 19 Nov 2026 22:00:24 +0000</pubDate>
+<category>Spring Boot リリース</category>
+<description>⭐ New Features Refine forwarded header support #52800 Deprecate Apache Pulsar support #52752 🐞 Bug Fixes Properties migrator does not migrate some properties renamed in 4.0 #52809 Reactive web servers no longer use forwarded headers on a cloud platform after #52800 #52806 Class loading fails with 'Zip file closed' can still be thrown under concurrent access #52803 Auto-configured PulsarTransactionManager is not customized by TransactionManagerCustomizers #52783 InspectedContent records the wrong — Spring Boot リリース / score: 75 (人気フレームワークSpring Boot v4.2.0のリリース)</description>
+</item>
+<item>
+<title>好きな時にAmazonの商品を受け取れる「Amazonロッカー」のセキュリティをあらゆる手段を駆使して突破する試み～ハードウェア編</title>
+<link>https://gigazine.net/news/20261120-breaking-amazon-lockers-hardware/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261120-breaking-amazon-lockers-hardware/</guid>
+<pubDate>Thu, 19 Nov 2026 22:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>DEF CON 34カンファレンスにおいてセキュリティエンジニアのマーティン・ヴィゴ氏が発表したAmazonロッカーのセキュリティに関する調査結果の後半は、ハードウェア部分に焦点を当てています。 続きを読む... — GIGAZINE / score: 75 (Amazonロッカーのセキュリティ検証に関するカンファレンス発表)</description>
+</item>
+<item>
+<title>音声入力でAI操作。エアマウスにもなる小型デバイスは…タコ？</title>
+<link>https://www.gizmodo.jp/article/2611-taco-ai-voice-remote-device/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-taco-ai-voice-remote-device/</guid>
+<pubDate>Thu, 19 Nov 2026 22:00:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>音声入力とエアマウス操作でPC作業を効率化する小型AIデバイス「Taco AI」。もうPC作業は音声で行なう時代が来てるのかも？ — ギズモード・ジャパン / score: 20 (ガジェット紹介記事のため技術的重要度は低い)</description>
+</item>
+<item>
+<title>「Chrome リモート デスクトップ」、Windows 8.1/macOS 11以前のサポートを終了へ／AIによる脆弱性発見の増加を受け、2027年第1四半期末までに接続をブロック</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2157443.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2157443.html</guid>
+<pubDate>Thu, 19 Nov 2026 21:45:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>「Chrome リモート デスクトップ」で、古いOSのサポートが打ち切られるとのこと。接続先のPC（ホスト）で、以下のOSを使用している場合が対象となる。 — 窓の杜 / score: 70 (Chromeリモートデスクトップの古いOSサポート終了ニュース)</description>
+</item>
+<item>
+<title>AWS Marketplace now supports agentic payments with AgentCore</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/marketplace-agentic-payments-agentcore/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/marketplace-agentic-payments-agentcore/</guid>
+<pubDate>Thu, 19 Nov 2026 21:30:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS Marketplace now supports agentic payments over the x402 protocol, so AI agents can discover and buy select products and pay per request in US dollars through AgentCore payments, part of Amazon Bedrock AgentCore. Agents often need paid APIs, data, or content mid-task, but access usually requires a person to sign up, add a payment method, and create an API key. With agentic payments, customers skip that per-seller setup, and charges settle on their existing AWS bill with no crypto wallet requi — AWS What's New / score: 65 (AIエージェントによる決済機能の追加)</description>
+</item>
+<item>
+<title>Amazon Aurora DSQL now delivers up to 50% higher write throughput</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-dsql-higher-write-throughput/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-dsql-higher-write-throughput/</guid>
+<pubDate>Thu, 19 Nov 2026 20:53:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>With upgrades to its storage layer, Amazon Aurora DSQL now delivers up to 50% higher write throughput for many transactional workloads. Data loads finish sooner, and tables whose primary key always increases, such as tables keyed by a timestamp, an identity column, or a time-ordered ID like ULID or UUIDv7, see even greater benefits. Applications such as audit logs, ledgers, and event feeds are read in time order, and keying them by time keeps those reads fast. You can now use that design for wri — AWS What's New / score: 60 (Aurora DSQLの書き込み性能向上)</description>
+</item>
+<item>
+<title>PostgreSQL 19 Released</title>
+<link>https://simonwillison.net/2026/Nov/19/postgresql-19/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Nov/19/postgresql-19/</guid>
+<pubDate>Thu, 19 Nov 2026 20:43:57 +0000</pubDate>
+<category>Simon Willison</category>
+<description>PostgreSQL 19 Released Most years PostgreSQL ships a new release in September, but this year's release came two months later thanks mainly to the flurry of issues that the PostgreSQL team needed to address as part of the ongoing AI-reported vulnerability apocalypse. This release was definitely worth the wait. My favorite new feature is this one: For applications that send reads to standbys, PostgreSQL 19 adds "read-your-writes" consistency with the new WAIT FOR LSN command. A session on a standb — Simon Willison / score: 90 (主要なRDBMSであるPostgreSQL 19のメジャーリリース)</description>
+</item>
+<item>
+<title>ICYMI: Transfer your history from other AI apps into Gemini.</title>
+<link>https://blog.google/innovation-and-ai/products/gemini-app/switch-ai-assistants-transfer-history/</link>
+<guid isPermaLink="true">https://blog.google/innovation-and-ai/products/gemini-app/switch-ai-assistants-transfer-history/</guid>
+<pubDate>Thu, 19 Nov 2026 20:30:00 +0000</pubDate>
+<category>Gemini (Google Blog)</category>
+<description>Transfer your chat history into Gemini. Import your ZIP files and AI summaries to continue conversations seamlessly. Get the details. — Gemini (Google Blog) / score: 45 (他AIアプリからのチャット履歴移行機能の紹介)</description>
+</item>
+<item>
+<title>Amazon Connect launches Resolutions, an agentic solution for high-volume operational work</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-resolutions/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-resolutions/</guid>
+<pubDate>Thu, 19 Nov 2026 20:06:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon Connect Customer announces the general availability of Resolutions, an agentic operations solution that resolves high-volume work end-to-end, including refund requests, transaction disputes, fraud investigations, and insurance claims. Resolutions helps businesses reduce resolution times and cost to serve by combining the reasoning of AI agents with the reliability of deterministic workflows. Every request follows business policy, gets the oversight it requires, and ends in a verifiable ou — AWS What's New / score: 55 (Amazon Connectのエージェント機能拡充)</description>
+</item>
+<item>
+<title>AWS Lambda durable functions now supports OpenTelemetry tracing</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/lambda-durable-otel/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/lambda-durable-otel/</guid>
+<pubDate>Thu, 19 Nov 2026 20:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS Lambda announces OpenTelemetry (OTel) support for Lambda durable functions. You can now trace your durable executions and emit traces to Amazon CloudWatch and other industry-standard observability tools. This helps you find bottlenecks in your system, root cause failures faster, and understand how your workflows behave in production. With Lambda durable functions, you can build resilient, multi-step applications and AI workflows that run for up to one year, with built-in checkpointing and au — AWS What's New / score: 60 (Lambda耐久関数へのOpenTelemetry対応)</description>
+</item>
+<item>
+<title>AWS Marketplace agent mode now helps you assess, buy, and deploy solutions</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/aws-marketplace/aws-marketplace-agent-mode-expansion</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/aws-marketplace/aws-marketplace-agent-mode-expansion</guid>
+<pubDate>Thu, 19 Nov 2026 20:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>You can now assess a seller's security, buy, and deploy supported products in one conversation with AWS Marketplace agent mode, the conversational AI experience for procuring cloud solutions. You share your requirement once, and agent mode applies them as it guides you through discovery, purchase, and deployment. Describe your use case in natural language to get recommended software, services, AI agents and tools, and multi-product solutions that fit your business needs. To assess a seller's sec — AWS What's New / score: 55 (AWS MarketplaceのAIエージェント対応)</description>
+</item>
+<item>
+<title>Amazon Route 53 now supports health checks for private endpoints</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/route-53-private-endpoint-health-checks/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/route-53-private-endpoint-health-checks/</guid>
+<pubDate>Thu, 19 Nov 2026 19:50:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon Route 53 now offers Private Endpoint Health Checks, enabling business-critical workloads that never touch the public internet, such as internal APIs, databases, and self-hosted nodes behind internal load balancers or in private subnets, to use native health monitoring and automatic DNS failover. Customers can health-check any reachable private target by IP address, domain, or port over HTTP, HTTPS, or TCP. Customers can associate these health checks with Route 53 DNS records across routin — AWS What's New / score: 60 (Route 53のプライベートエンドポイント死活監視)</description>
+</item>
 <item>
 <title>AWS Revenue Measurement now supports deal-level revenue attribution for AWS Marketplace offers and opportunities</title>
 <link>https://aws.amazon.com/about-aws/whats-new/2026/11/aws-revenue-measurement-deal-attribution/</link>
@@ -13,6 +125,14 @@
 <pubDate>Thu, 19 Nov 2026 19:25:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Today, AWS announces deal-level revenue attribution for AWS Revenue Measurement (previously Partner Revenue Measurement) capabilities. AWS Partners can now see how the AWS revenue measured for their products maps to specific AWS Marketplace offers and/or APN Customer Engagements (ACE) opportunities. Until now, partners who implemented AWS Revenue Measurement via Resource Tagging , User Agent String or AWS Marketplace Metering could view aggregated, product-level attributed revenue. With this lau — AWS What's New / score: 40 (AWS Marketplaceの収益測定機能のアップデート)</description>
+</item>
+<item>
+<title>AWS Lambda now supports a 30-minute timeout for on-demand Event Functions</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-30-minute-ondemand-event-functions/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-30-minute-ondemand-event-functions/</guid>
+<pubDate>Thu, 19 Nov 2026 19:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS Lambda now supports a 30-minute function timeout for Event Functions that run on demand, doubling the 15-minute limit for synchronous , asynchronous , and event source mapping (ESM) invocations. On Lambda Managed Instances , synchronous invocations also support up to 30 minutes, while asynchronous and ESM invocations keep the 90-minute timeout launched in September 2026. You can now run long-running workloads such as AI inference, media transcoding, and financial calculations for spiky or st — AWS What's New / score: 65 (Lambdaのタイムアウトが30分に延長)</description>
 </item>
 <item>
 <title>AWS Transform combines migration assessment and planning in one experience</title>
@@ -55,6 +175,22 @@
 <description>AWS Elemental MediaTailor now supports Dynamic Avail Sizing, which reduces the slate viewers see when ad breaks, also called avails, in live HLS streams go unfilled. MediaTailor is a server-side ad insertion and channel assembly service that personalizes ads in live and on-demand video streams. When the ad decision server returns fewer ads than a break allows, dynamic avail sizing omits the unfilled time and resumes programming early instead of showing slate. To keep playback continuous, MediaTa — AWS What's New / score: 35 (AWS MediaTailorのライブHLS向け新機能)</description>
 </item>
 <item>
+<title>Amazon Cognito now supports AWS Secrets Manager for app client secrets</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-secrets-manager-integration/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-secrets-manager-integration/</guid>
+<pubDate>Thu, 19 Nov 2026 18:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon Cognito now integrates with AWS Secrets Manager , so you can store and manage your user pool app client secrets in Secrets Manager. Amazon Cognito helps you implement secure sign-in and access control for users, AI agents, and microservices in minutes. An app client secret authenticates your application to Cognito. Previously, you had to manage and rotate these secrets in Cognito directly. With this integration, you can leverage Secrets Manager for capabilities including rotation, access  — AWS What's New / score: 60 (CognitoとSecrets Managerの連携強化)</description>
+</item>
+<item>
+<title>AWS WAF launches new Security Analytics Dashboard for real-time investigations</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/02/aws-waf-security-analytics-dashboard/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/02/aws-waf-security-analytics-dashboard/</guid>
+<pubDate>Thu, 19 Nov 2026 18:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS WAF now gives you one place to find and stop unwanted traffic across every application in your account. The new AWS WAF security analytics dashboard brings together traffic from all of your protection packs (web ACLs), whether they protect Regional resources or Amazon CloudFront distributions, into a single view. The dashboard also lets you search request logs right in the console, with no logging pipeline to build, and includes 21 days of full-fidelity request data at no additional cost. It — AWS What's New / score: 60 (AWS WAFのセキュリティ分析ダッシュボード追加)</description>
+</item>
+<item>
 <title>Walter Isaacson on curiosity and creativity in the AI age.</title>
 <link>https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/</link>
 <guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/</guid>
@@ -79,12 +215,28 @@
 <description>AWS Marketplace search, Agent Mode, and AWS sales teams use listings to recommend partner offerings to AWS customers. Partners who sell software and services can now create and improve their listings in AWS Partner Central with the new AI-assisted listing experience. It drafts content from a partner's website and other materials, then shows which sections need clearer details, use cases, or evidence of customer outcomes. For single-AMI products, it also drafts the usage instructions buyers see a — AWS What's New / score: 30 (AWSパートナーセントラルのAI支援リスティング)</description>
 </item>
 <item>
-<title>Helping our partners market smarter, together, with Gemini</title>
-<link>https://cloud.google.com/blog/topics/partners/helping-our-partners-market-smarter-together-with-gemini/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/topics/partners/helping-our-partners-market-smarter-together-with-gemini/</guid>
+<title>Aurora PostgreSQL with express configuration now supports Amazon VPC</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-postgresql-express-vpc/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-postgresql-express-vpc/</guid>
+<pubDate>Thu, 19 Nov 2026 17:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Aurora PostgreSQL databases created with express configuration can now move into an Amazon Virtual Private Cloud (VPC) with a single API call or a modify action in the Amazon RDS console. This helps you take AI-built prototypes and other applications to production without migrating data, while meeting your security and compliance requirements. You can also create a new database cluster inside a VPC using express configuration. With express configuration, Aurora PostgreSQL lets you create and que — AWS What's New / score: 55 (Aurora PostgreSQLのVPC移行が容易に)</description>
+</item>
+<item>
+<title>Amazon Aurora now supports moving clusters to a different VPC</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-move-clusters-to-different-vpc/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-move-clusters-to-different-vpc/</guid>
+<pubDate>Thu, 19 Nov 2026 17:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Aurora PostgreSQL and Aurora MySQL clusters can now move from one Amazon Virtual Private Cloud (VPC) to another without data migration. You can move a cluster with a single API call or a modify action in the Amazon RDS console. This lets you move a cluster to a VPC with more IP address space or a non-overlapping CIDR range, consolidate your network architecture, or meet changing security and compliance requirements. Previously, moving an Aurora cluster to a different VPC meant creating a new clu — AWS What's New / score: 60 (AuroraクラスターのVPC間移動をサポート)</description>
+</item>
+<item>
+<title>What’s new with Google Cloud</title>
+<link>https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/</guid>
 <pubDate>Thu, 19 Nov 2026 17:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
-<description>At Google Cloud, our commitment to agentic transformation extends to everyone, including the partners who build and grow alongside us. Today, we are excited to introduce new Gemini-powered co-marketing capabilities directly within everyday go-to-market workflows for our partners. These new features enable partners to produce customized, brand-aligned joint assets in minutes, scaling campaign execution and driving pipeline more effectively. From marketing together to innovating together: Scaling  — Google Cloud Blog / score: 35 (Google Cloudのパートナー向けGeminiマーケティング支援)</description>
+<description>Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block &lt;ListValue: []&gt; Nov 16 - Nov 20 Why your AI agent keeps forgetting: a 15 minute build on agent memory Agents that resend the full conversa — Google Cloud Blog / score: 40 (Google Cloudの一般的な最新情報まとめ)</description>
 </item>
 <item>
 <title>Introducing object enrichments: Transform unstructured data into agent-ready context</title>
@@ -95,20 +247,20 @@
 <description>The vast majority of enterprise information is unstructured, locked away in object storage as petabytes of images, PDFs, videos, and audio files. This data holds the institutional knowledge AI agents need to do business-critical work. But to an agent, a raw object is just bytes it can't reason over. As enterprises start to deploy agents in production, the focus has shifted toward transforming these raw objects into rich, agent-ready context. Today, we are introducing object enrichments , a new G — Google Cloud Blog / score: 60 (非構造化データをAI向けに変換するオブジェクトエンリッチメント)</description>
 </item>
 <item>
+<title>Helping our partners market smarter, together, with Gemini</title>
+<link>https://cloud.google.com/blog/topics/partners/helping-our-partners-market-smarter-together-with-gemini/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/partners/helping-our-partners-market-smarter-together-with-gemini/</guid>
+<pubDate>Thu, 19 Nov 2026 17:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>At Google Cloud, our commitment to agentic transformation extends to everyone, including the partners who build and grow alongside us. Today, we are excited to introduce new Gemini-powered co-marketing capabilities directly within everyday go-to-market workflows for our partners. These new features enable partners to produce customized, brand-aligned joint assets in minutes, scaling campaign execution and driving pipeline more effectively. From marketing together to innovating together: Scaling  — Google Cloud Blog / score: 35 (Google Cloudのパートナー向けGeminiマーケティング支援)</description>
+</item>
+<item>
 <title>Introducing in-place migration to GKE Dataplane V2</title>
 <link>https://cloud.google.com/blog/products/networking/gke-dataplane-v2-in-place-migration/</link>
 <guid isPermaLink="true">https://cloud.google.com/blog/products/networking/gke-dataplane-v2-in-place-migration/</guid>
 <pubDate>Thu, 19 Nov 2026 17:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>GKE Dataplane V2 is Google Cloud’s next-generation networking dataplane for Google Kubernetes Engine (GKE), built on extended Berkeley Packet Filter ( eBPF ) and open-source Cilium to replace traditional iptables routing and kube-proxy . We built GKE Dataplane V2 to meet the performance, scalability, and security demands of modern cloud-native workloads. GKE customers consistently tell us that while they want to adopt GKE Dataplane V2 for its performance and scale, migrating production clusters  — Google Cloud Blog / score: 65 (GKE Dataplane V2へのインプレース移行サポート)</description>
-</item>
-<item>
-<title>What’s new with Google Cloud</title>
-<link>https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/</guid>
-<pubDate>Thu, 19 Nov 2026 17:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip : Not sure where to find what you’re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources . aside_block &lt;ListValue: []&gt; Nov 16 - Nov 20 Why your AI agent keeps forgetting: a 15 minute build on agent memory Agents that resend the full conversa — Google Cloud Blog / score: 40 (Google Cloudの一般的な最新情報まとめ)</description>
 </item>
 <item>
 <title>【速報】Anthropicが上場。初値は111.50ドル、公開価格を34%上回る</title>
@@ -149,6 +301,14 @@
 <pubDate>Thu, 19 Nov 2026 15:56:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Amazon Aurora DSQL now lets you create multi-Region clusters whose Regions are on different continents, such as US East (N. Virginia) and Europe (Ireland). Until now, the Regions in a multi-Region cluster had to be in the same geographic Region set. With intercontinental multi-Region clusters, applications on two continents read and write to one strongly consistent database. If a Region becomes unavailable, committed writes are preserved and applications keep reading and writing in the other Reg — AWS What's New / score: 60 (Aurora DSQLの大陸間マルチリージョン対応)</description>
+</item>
+<item>
+<title>11月に修正されたPHPの脆弱性についてまとめてみた - piyolog</title>
+<link>https://piyolog.hatenadiary.jp/entry/2026/11/20/003148</link>
+<guid isPermaLink="true">https://piyolog.hatenadiary.jp/entry/2026/11/20/003148</guid>
+<pubDate>Thu, 19 Nov 2026 15:54:08 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>2026年11月19日、PHPの開発元であるThe PHP Groupは4系統のセキュリティリリース(PHP 8.5.13、8.4.28、8.3.37、8.2.36)を公開し、複数の脆弱性を修正しました。ここでは関連する情報をまとめます。 どんな脆弱性が修正されたの? The PHP Groupは11月18日、19日14時から14時30分(協定世界時、日本時間23時から23時30分)に... — はてなブックマーク テクノロジー / score: 90 (PHPの複数脆弱性修正に関するセキュリティリリース情報)</description>
 </item>
 <item>
 <title>マイクロソフト、クラウドやオンプレミスのデータベースを一元管理する「Database Hub」正式リリース。AIエージェントによる運用監視の自動化も</title>
@@ -213,6 +373,14 @@
 <pubDate>Thu, 19 Nov 2026 14:17:54 +0000</pubDate>
 <category>iPhone Mania</category>
 <description>iPhone Duoについて、Appleオンラインストアの納期、家電量販店におけるSIMフリーモデルの販売状況、各キャリアの予約受付状況を確認しました。 Appleオンラインストアでは、全モデルが2026年12月19日〜 […] — iPhone Mania / score: 25 (特定のiPhoneモデルの在庫・納期状況の確認)</description>
+</item>
+<item>
+<title>[AWS] 徹底比較！ OpenSearch Memory vs AgentCore Memory</title>
+<link>https://qiita.com/kikuziro/items/939887bcd8fbb3a78ba0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/kikuziro/items/939887bcd8fbb3a78ba0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Thu, 19 Nov 2026 14:14:59 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>はじめに どうも、最近比較検証が好きな山ちゃんです。 2026年11月18日にAIエージェント向けのメモリ"Amazon OpenSearch Memory"が一般提供されました。 Memoryといえば...そう！Amazon Bedrock AgentCore ... — Qiita 人気記事 / score: 55 (AWSの新しいAIエージェント向けメモリの比較検証)</description>
 </item>
 <item>
 <title>NothingのAI専用デバイスの製品デザインが明らかに</title>
@@ -343,6 +511,14 @@
 <description>コロンバスサークルのFC/FC互換機用ゲームソフト「スノーブラザーズ」がAmazonで予約受付中。参考価格7,678円から9％オフの6,980円で予約販売中。1991年に登場し、高額なプレミア価格がついた名作が、2027年2月25日にゲームカセットとして復刻する。全50面のアクションや2人同時プレイ、タイムアタックモードを搭載。かつてのプレミアタイトルを新品で手にできる、レトロゲームファン注目の一本だ。 — ASCII.jp / score: 15 (レトロゲームのカセット復刻販売情報)</description>
 </item>
 <item>
+<title>Muse の VM は約2時間で入れ替わる（実測と対策）</title>
+<link>https://qiita.com/mryo0826/items/c05efd7ac228fe85ab44?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/mryo0826/items/c05efd7ac228fe85ab44?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Thu, 19 Nov 2026 12:47:20 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>生成AIと人間が協働して記事を書くシリーズです。 パーソナルAIエージェントのMuseとの対話が大分慣れてきたので、github repoの引用？の仕方と画像を置くのとこのInfo以外はMuseに書いてもらってます。 Museに聞いたら、タグってちゃんと効果あるみたいで... — Qiita 人気記事 / score: 40 (パーソナルAIエージェントの運用実測と対策)</description>
+</item>
+<item>
 <title>辞任したNVIDIA CEOに台湾からエール。台北のランドマークにハートが浮かぶ</title>
 <link>https://www.gizmodo.jp/article/2611-nvidia-ceo-jensen-taiwan-tpe101/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/2611-nvidia-ceo-jensen-taiwan-tpe101/</guid>
@@ -439,6 +615,14 @@
 <description>ダイナミックレンジと明瞭度を保ちながらラウドネスを増加させる究極のツール、Techivation「M-Loudener」が61%OFFとなっています。 Techivationではブラックフライデーセールを開催中です。合わ... The post 【ブラックフライデーセール】ダイナミックレンジと明瞭度を保ちながらラウドネスを増加させる究極のツール、Techivation「M-Loudener」が61%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 20 (音楽制作プラグインのセール情報)</description>
 </item>
 <item>
+<title>【Gemini 4 Hydrogen】「とりあえず一番上」から卒業！Agent Studioで試す手順</title>
+<link>https://qiita.com/N-Kyo/items/80ac96fd59b08b1a879a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/N-Kyo/items/80ac96fd59b08b1a879a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Thu, 19 Nov 2026 11:09:07 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>はじめに 2026年11月12日、Gemini 4の新しいモデル「Gemini 4 Hydrogen」が出ました。 Google Cloudでは、Agent Platform（旧Vertex AI）からGA（一般提供。本番で使ってよい段階）として使えます。 Gemini ... — Qiita 人気記事 / score: 55 (新モデルGemini 4 Hydrogenの検証記事)</description>
+</item>
+<item>
 <title>【速報】タイミー、事業者情報最大22.6万人漏えい</title>
 <link>https://www.47news.jp/15256728.html</link>
 <guid isPermaLink="true">https://www.47news.jp/15256728.html</guid>
@@ -477,6 +661,22 @@
 <pubDate>Thu, 19 Nov 2026 10:50:00 +0000</pubDate>
 <category>ASCII.jp</category>
 <description>Lenovoの16型ノートPC「IdeaPad Slim 5（83ND000NJP）」がAmazonでセール対象。参考価格219,780円から9％オフの199,780円で販売中。24GBメモリと1TB SSDを搭載し、120Hz対応の16型2.8K有機ELディスプレーを採用。買い切り型のOffice Home &amp; Business 2024も付属する、欲しい機能が詰まった一台だ。 — ASCII.jp / score: 25 (ノートPCのハードウェアスペックとセール情報)</description>
+</item>
+<item>
+<title>【事前準備のお願い】PHPのセキュリティリリース公開予定について（11月） | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構</title>
+<link>https://www.ipa.go.jp/security/security-alert/2026/pre-alert20261119.html</link>
+<guid isPermaLink="true">https://www.ipa.go.jp/security/security-alert/2026/pre-alert20261119.html</guid>
+<pubDate>Thu, 19 Nov 2026 10:40:49 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>2026年10月に公表した PHPの脆弱性（CVE-2026-109618、CVE-2026-109619：PHP2shell)の予告時とは異なり、「デフォルトではない設定、または、一般的ではないセットアップ」で影響するものとの記載がなされております。 本情報の対象となる脆弱性について、本ページ公開時点でIPAが悪用した攻撃を確認しているわけではあ... — はてなブックマーク テクノロジー / score: 85 (PHPの脆弱性と事前準備に関するIPAからの重要注意喚起)</description>
+</item>
+<item>
+<title>Claude Codeの「/remote-control」で、ディズニーの長い待ち時間中も開発したい</title>
+<link>https://qiita.com/inoyu-qiita/items/f7cdc72b8673a7d94fa5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/inoyu-qiita/items/f7cdc72b8673a7d94fa5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Thu, 19 Nov 2026 10:37:22 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>はじめに ディズニーの長い待ち時間、スマホをただ眺めるだけじゃなくてAI駆動開発も進めたい、、！ 今回はそんな願いを叶えるClaude Codeの「/remote-control」とCodexのRemoteを紹介します。 どちらもPC上の開発作業をスマホから続けられます。... — Qiita 人気記事 / score: 50 (AIコーディングツールのリモートコントロール機能紹介)</description>
 </item>
 <item>
 <title>10％オフセールを実施中！『マブラヴ ガールズガーデン Mellow Days』が本日リリース</title>
@@ -605,206 +805,6 @@
 <pubDate>Thu, 19 Nov 2026 09:23:51 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>11月18日に「緊急」の脆弱性が見つかり、政府も対策を呼び掛けているWebサーバソフト「nginx」。日本でも多くのWebサイトで使われており、脆弱性の影響は大きい。 そんな「nginx」だが、発音が難しい。素直に読むと「ンギンクス」だし、「エヌジンクス」「エヌジーアイエヌエックス」などと発音する人もいるようだが、正... — はてなブックマーク テクノロジー / score: 35 (nginxの正しい読み方についての解説記事)</description>
-</item>
-<item>
-<title>【ブラックフライデーセール】クラス最高の速度・視認性・オーディオ品質を実現するオーディオインターフェイス、MOTU「M2」（箱破損品)が6,270円オフ！</title>
-<link>https://computermusic.jp/2026/11/motu-m2/</link>
-<guid isPermaLink="true">https://computermusic.jp/2026/11/motu-m2/</guid>
-<pubDate>Thu, 19 Nov 2026 09:16:24 +0000</pubDate>
-<category>Computer Music Japan</category>
-<description>クラス最高の速度・視認性・オーディオ品質を実現するオーディオインターフェイス、MOTU「M2」(箱破損品)が6,270円オフとなっています。 数量限定の早い者勝ちです。 その他、M4、M6、848や10Preなどもデモ使... The post 【ブラックフライデーセール】クラス最高の速度・視認性・オーディオ品質を実現するオーディオインターフェイス、MOTU「M2」（箱破損品)が6,270円オフ！ first appeared on Computer Music Japan . — Computer Music Japan / score: 20 (DTM向けオーディオインターフェイスのセール情報)</description>
-</item>
-<item>
-<title>iPhone18とAir 2が2027年3月発売見込み〜OLED量産は年末開始</title>
-<link>https://iphone-mania.jp/iphone18-608862/</link>
-<guid isPermaLink="true">https://iphone-mania.jp/iphone18-608862/</guid>
-<pubDate>Thu, 19 Nov 2026 09:15:00 +0000</pubDate>
-<category>iPhone Mania</category>
-<description>Appleが2027年春に発売すると噂のiPhone18とiPhone Air 2について、有機EL（OLED）ディスプレイの量産をSamsung DisplayとLG Displayが準備していると、韓国メディアETN […] — iPhone Mania / score: 35 (次期iPhoneの発売時期に関する噂情報)</description>
-</item>
-<item>
-<title>音声の分析や、楽器別の分離ができる無料プレイヤー「Nplay25」v1.4.3.578　ほか【ダイジェストニュース】</title>
-<link>https://forest.watch.impress.co.jp/docs/digest/2157972.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/digest/2157972.html</guid>
-<pubDate>Thu, 19 Nov 2026 09:12:50 +0000</pubDate>
-<category>窓の杜</category>
-<description> — 窓の杜 / score: 30 (音声分析プレイヤーソフトのアップデート情報)</description>
-</item>
-<item>
-<title>約2,500万人のデータで「Firefox」の“指紋”対策を強化 ～Mozillaが研究成果を発表／一意に識別されるユーザーの割合を75％から46％に削減</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2157865.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2157865.html</guid>
-<pubDate>Thu, 19 Nov 2026 09:04:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Mozillaは11月10日（現地時間）、ブラウザーフィンガープリンティングに関する大規模な研究の成果を公式ブログ「Mozilla Security Blog」で明らかにした。約2,500万人の「Firefox」ユーザーから集めた計測データを分析し、ユーザーの識別に利用されている情報を特定。その知見をもとに、「Firefox」のフィンガープリンティング対策を強化したという。 — 窓の杜 / score: 75 (Firefoxの大規模データに基づく指紋対策強化)</description>
-</item>
-<item>
-<title>【ブラックフライデーセール】低価格&amp;充実の表現力が魅力的なストリングス音源、Best Service「CHRIS HEIN STRINGS COMPACT」が50％OFF！</title>
-<link>https://computermusic.jp/2026/11/chris-hein-strings-compact-2/</link>
-<guid isPermaLink="true">https://computermusic.jp/2026/11/chris-hein-strings-compact-2/</guid>
-<pubDate>Thu, 19 Nov 2026 09:01:05 +0000</pubDate>
-<category>Computer Music Japan</category>
-<description>低価格&amp;充実の表現力が魅力的なストリングス音源、Best Service「CHRIS HEIN STRINGS COMPACT」が50％OFFとなっています。 Best Serviceではサイバーシーズンセールを... The post 【ブラックフライデーセール】低価格&amp;充実の表現力が魅力的なストリングス音源、Best Service「CHRIS HEIN STRINGS COMPACT」が50％OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 20 (音楽制作向け音源のセール情報)</description>
-</item>
-<item>
-<title>AWS Systems Manager Parameter Store raises API throughput limits</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/11/parameter-store-raises-api-throughput-limits/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/parameter-store-raises-api-throughput-limits/</guid>
-<pubDate>Thu, 19 Nov 2026 09:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>AWS Systems Manager Parameter Store has increased the default throughput limits for five API operations. For accounts that have turned on the higher throughput setting, the quotas have changed as follows, in transactions per second (TPS): GetParametersByPath (from 100 to 500 TPS) PutParameter (10 to 50) DeleteParameter (5 to 50) DescribeParameters (10 to 100) GetParameterHistory (10 to 100) Parameter Store provides powerful, hierarchical storage for configuration data. The higher quotas give mor — AWS What's New / score: 50 (Parameter StoreのAPIスループット上限引き上げ)</description>
-</item>
-<item>
-<title>【クーポン利用で43％OFF】RebotAi 12インチタブレットが27,662円！2.5K高精細・90Hz・Android 16＋Gemini AI搭載、IP54防塵・防水対応の高性能モデル</title>
-<link>https://ascii.jp/elem/000/004/453/4453385/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/453/4453385/?rss</guid>
-<pubDate>Thu, 19 Nov 2026 09:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>【クーポン利用で43％OFF】RebotAi 12インチタブレットが27,662円！2.5K高精細・90Hz・Android 16＋Gemini AI搭載、IP54防塵・防水対応の高性能モデル — ASCII.jp / score: 15 (Androidタブレットの製品紹介とセール情報)</description>
-</item>
-<item>
-<title>日常の擦りキズや汚れを、本体背面からスティックまで5点で保護　ベルモンドがNintendo Switch 2用カバー「モンスターアーマー」を発売</title>
-<link>https://ascii.jp/elem/000/004/453/4453384/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/453/4453384/?rss</guid>
-<pubDate>Thu, 19 Nov 2026 09:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>日常の擦りキズや汚れを、本体背面からスティックまで5点で保護 ベルモンドがNintendo Switch 2用カバー「モンスターアーマー」を発売 — ASCII.jp / score: 15 (ゲーム機周辺機器の発売情報)</description>
-</item>
-<item>
-<title>エピグループが「KANSAI COLLECTION 2027 SPRING&amp;SUMMER」のスポンサーに就任！ライバー8名・一般モデル10名の総勢18名がランウェイ出演へ</title>
-<link>https://ascii.jp/elem/000/004/453/4453379/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/453/4453379/?rss</guid>
-<pubDate>Thu, 19 Nov 2026 09:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>エピグループが「KANSAI COLLECTION 2027 SPRING&amp;SUMMER」のスポンサーに就任！ライバー8名・一般モデル10名の総勢18名がランウェイ出演へ — ASCII.jp / score: 20 (イベントのスポンサー就任およびモデル出演情報)</description>
-</item>
-<item>
-<title>11/30開催｜地域から生まれる実証実験、ディープテック支援</title>
-<link>https://ascii.jp/elem/000/004/453/4453246/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/453/4453246/?rss</guid>
-<pubDate>Thu, 19 Nov 2026 09:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>2026年11月30日、東京・品川インターシティホールにてディープテック・スタートアップのエコシステム構築をテーマにした展示交流・カンファレンスイベント「ASCII STARTUP TechDay 2026」が開催される。同イベントでは、学術、産業、行政の垣根を越えた多様なゲストを迎えてのセッションのほか、スタートアップ企業などによるブース展示を行う。 — ASCII.jp / score: 50 (ディープテック支援をテーマにしたカンファレンス)</description>
-</item>
-<item>
-<title>こういうのが欲しかった！ 「ThinkBook 14 Gen 7 AMD」が事務作業にいい感じ</title>
-<link>https://ascii.jp/elem/000/004/453/4453216/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/453/4453216/?rss</guid>
-<pubDate>Thu, 19 Nov 2026 09:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>事務作業向けに比較的安価なノートPCが欲しい。そんな人にお勧めしたいのがレノボの「ThinkBook 14 Gen 7 AMD」だ。 — ASCII.jp / score: 40 (事務作業向けノートPCの実用レビュー)</description>
-</item>
-<item>
-<title>オフィスの定番「アイオーデータ」。実は最近、ゲーミングモニターもすごく良いんだ</title>
-<link>https://ascii.jp/elem/000/004/452/4452671/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/452/4452671/?rss</guid>
-<pubDate>Thu, 19 Nov 2026 09:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>ゲーミングモニターやキーボードといったデバイスは黒基調が多く、PCデスク上が暗く沈みがち。アイオーデータの「GigaCrysta S LCD-GDQ271ULAQW」は、リモコンなど付属品すべてが白一色で、卓上が明るくなりますよ！ — ASCII.jp / score: 40 (白基調のデザインに特化したゲーミングモニター紹介)</description>
-</item>
-<item>
-<title>食材入れてボタンを押すとスープが出てくる。魔法のようなスープメーカー「SOUPi」</title>
-<link>https://www.gizmodo.jp/article/2611-ninja-soupi-auto-soup-maker/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-ninja-soupi-auto-soup-maker/</guid>
-<pubDate>Thu, 19 Nov 2026 09:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>食材を入れてボタンを押すだけで本格的なスープが作れるNinjaの自動スープメーカー「SOUPi」。いつもの食卓にスープを加えてみませんか？ — ギズモード・ジャパン / score: 15 (家電製品の紹介記事)</description>
-</item>
-<item>
-<title>デビュー50周年のCharが語る、2026年12月に開催されるスペシャル・コンサート『Char 50th Anniversary 伝説の響演』に向けた意気込み</title>
-<link>https://guitarmagazine.jp/interview/2026-1119-char-50th-anniversary/</link>
-<guid isPermaLink="true">https://guitarmagazine.jp/interview/2026-1119-char-50th-anniversary/</guid>
-<pubDate>Thu, 19 Nov 2026 09:00:00 +0000</pubDate>
-<category>ギター・マガジンWEB</category>
-<description>デビュー50周年を迎えたCharが、12月11日（金）東京国際フォーラムにて『伝説の響演』を開催する。ゴダイゴやスペクトラム、ラリー・カールトンを迎える公演を前に、Charへのインタビューを敢行した。 — ギター・マガジンWEB / score: 15 (ミュージシャンのインタビュー記事)</description>
-</item>
-<item>
-<title>【ブラックフライデーセール】サイドチェイン専用マルチバンドコンプ、Wavesfactory「TrackSpacer」が53％OFF！</title>
-<link>https://computermusic.jp/2026/11/trackspacer/</link>
-<guid isPermaLink="true">https://computermusic.jp/2026/11/trackspacer/</guid>
-<pubDate>Thu, 19 Nov 2026 08:52:33 +0000</pubDate>
-<category>Computer Music Japan</category>
-<description>サイドチェイン専用マルチバンドコンプ、Wavesfactory「TrackSpacer」が53％OFFとなっています。 Wavesfactoryでは、ブラックフライデーセールを開催中です。合わせてチェックしてみてください... The post 【ブラックフライデーセール】サイドチェイン専用マルチバンドコンプ、Wavesfactory「TrackSpacer」が53％OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 25 (著名な音楽制作プラグインのセール)</description>
-</item>
-<item>
-<title>『サドンアタック：ゼロポイント』に、『サドンアタック』のマップを再現した5つの「クラシックマップ」が登場</title>
-<link>https://ascii.jp/elem/000/004/453/4453386/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/453/4453386/?rss</guid>
-<pubDate>Thu, 19 Nov 2026 08:42:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>『サドンアタック：ゼロポイント』に、『サドンアタック』のマップを再現した5つの「クラシックマップ」が登場 — ASCII.jp / score: 10 (オンラインゲームのアップデート情報)</description>
-</item>
-<item>
-<title>「スキル大全」業種別パック第4弾「運輸・海事・航空」を提供開始</title>
-<link>https://ascii.jp/elem/000/004/453/4453329/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/453/4453329/?rss</guid>
-<pubDate>Thu, 19 Nov 2026 08:30:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>「スキル大全」業種別パック第4弾「運輸・海事・航空」を提供開始 — ASCII.jp / score: 30 (業種別スキルパックの提供開始ニュース)</description>
-</item>
-<item>
-<title>名古屋大学主催セミナーにSHIN-JIGENのFounder 藤本弘道が登壇。「フィジカルAI vs 従来ロボティクス　社会実装と競争戦略を考える」　社会実装の課題と可能性を議論</title>
-<link>https://ascii.jp/elem/000/004/453/4453302/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/453/4453302/?rss</guid>
-<pubDate>Thu, 19 Nov 2026 08:30:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>名古屋大学主催セミナーにSHIN-JIGENのFounder 藤本弘道が登壇。「フィジカルAI vs 従来ロボティクス 社会実装と競争戦略を考える」 社会実装の課題と可能性を議論 — ASCII.jp / score: 55 (フィジカルAIとロボティクスに関するセミナー情報)</description>
-</item>
-<item>
-<title>DVDドライブにHDMI入力、リモコンまで!? FMVの23.8型一体型PCがタイムセール中</title>
-<link>https://ascii.jp/elem/000/004/452/4452745/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/452/4452745/?rss</guid>
-<pubDate>Thu, 19 Nov 2026 08:30:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>FMVの23.8型一体型PC「WF1-L1」がAmazonでタイムセール対象。参考価格209,000円から5％オフの198,500円で販売中。Ryzen 7 250を搭載し、DVDドライブやHDMI入力、リモコンまで備える。日本製でメーカー3年保証も付いた、装備の充実した一台だ。 — ASCII.jp / score: 40 (一体型PCのAmazonタイムセール情報)</description>
-</item>
-<item>
-<title>すき家、今年は「食べラー白髪ねぎ牛丼」も！ 定番「白髪ねぎ牛丼」とどっちにする？</title>
-<link>https://ascii.jp/elem/000/004/452/4452664/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/452/4452664/?rss</guid>
-<pubDate>Thu, 19 Nov 2026 08:30:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>すき家は11月25日9時より、「白髪ねぎ牛丼」「食べラー白髪ねぎ牛丼」を販売します。 — ASCII.jp / score: 10 (牛丼チェーンの新商品販売情報)</description>
-</item>
-<item>
-<title>日本救急救命士会｜11月24日（火）オンラインセミナー「災害対応における救急救命士の安全管理教育の重要性」　11月24日 18:00～</title>
-<link>https://ascii.jp/elem/000/004/453/4453330/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/453/4453330/?rss</guid>
-<pubDate>Thu, 19 Nov 2026 08:24:39 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>日本救急救命士会｜11月24日（火）オンラインセミナー「災害対応における救急救命士の安全管理教育の重要性」 11月24日 18:00～ — ASCII.jp / score: 20 (救急救命士の安全管理に関するオンラインセミナー)</description>
-</item>
-<item>
-<title>【ブラックフライデーセール】エンジン内部まで可視化するオールインワンコンプレッサー、Woodstock Audio「Open Compressor」が60%OFF！</title>
-<link>https://computermusic.jp/2026/11/open-compressor/</link>
-<guid isPermaLink="true">https://computermusic.jp/2026/11/open-compressor/</guid>
-<pubDate>Thu, 19 Nov 2026 08:15:51 +0000</pubDate>
-<category>Computer Music Japan</category>
-<description>エンジン内部まで可視化するオールインワンコンプレッサー、Woodstock Audio「Open Compressor」が60%OFFとなっています。 Open Compressor 参考記事：コンプレッサーを理解するた... The post 【ブラックフライデーセール】エンジン内部まで可視化するオールインワンコンプレッサー、Woodstock Audio「Open Compressor」が60%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 20 (音楽制作向けプラグインのセール情報)</description>
-</item>
-<item>
-<title>【ブラックフライデーセール】Sound Toysの人気プラグイン＆バンドルが最大75%となるブラックフライデーセール2026を開催！</title>
-<link>https://computermusic.jp/2026/11/bf2026soundtoys/</link>
-<guid isPermaLink="true">https://computermusic.jp/2026/11/bf2026soundtoys/</guid>
-<pubDate>Thu, 19 Nov 2026 08:07:43 +0000</pubDate>
-<category>Computer Music Japan</category>
-<description>Sound Toysの人気プラグイン＆バンドルが最大75%となるブラックフライデーセール2026を開催です。 Soundtoys 5.5 Bundle 収録プラグイン Effect Rack PhaseMistress ... The post 【ブラックフライデーセール】Sound Toysの人気プラグイン＆バンドルが最大75%となるブラックフライデーセール2026を開催！ first appeared on Computer Music Japan . — Computer Music Japan / score: 35 (音楽制作プラグインのセール情報)</description>
-</item>
-<item>
-<title>OpenAIがAIを用いてAMD製GPUや独自開発AIチップの改善に成功、半導体設計の専用AIモデルも開発</title>
-<link>https://gigazine.net/news/20261119-openai-jalapeno-amd-advancing-chip/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261119-openai-jalapeno-amd-advancing-chip/</guid>
-<pubDate>Thu, 19 Nov 2026 08:01:57 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>OpenAIが自社製AIを用いて独自開発チップ「Jalapeño(ハラペーニョ)」やAMD製GPUの性能向上を実現したことをアピールしています。 Advancing chip design with OpenAI models | OpenAI https://openai.com/index/advancing-chip-design-with-our-models/ OpenAIはカスタム推論チップ「Jalapeño」をBroadcomと共同開発して... — はてなブックマーク テクノロジー / score: 75 (OpenAIによる半導体設計・専用AIモデルの成果)</description>
-</item>
-<item>
-<title>Google、Gemini 4 Neonを発表 ——Carbonをもとに開発、複雑な作業をより短時間で</title>
-<link>https://gihyo.jp/article/2026/11/gemini-4-neon?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/11/gemini-4-neon?utm_source=feed</guid>
-<pubDate>Thu, 19 Nov 2026 08:00:43 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Googleは2026年11月18日、AIモデル「Gemini 4 Neon」を発表し、GeminiアプリやGemini APIなどで順次提供を始めた。Neonは、複数のファイルにまたがるコード修正や科学研究での定量分析など、高い推論能力が求められる作業を短時間でこなせるよう設計された。 — gihyo.jp / score: 85 (Googleの新型高性能AIモデル発表)</description>
 </item>
 </channel>
 </rss>
