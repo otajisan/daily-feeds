@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 19 Nov 2026 10:06:27 +0000</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 12:08:41 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] nginx「緊急」脆弱性、官房長官が「必要な措置」呼び掛け</title>
@@ -15,20 +15,28 @@
 <description>木原稔官房長官は11月19日午前の記者会見で、Webサイト構築に広く使われているWebサーバソフト「nginx」（エンジンエックス）に18日、「緊急」（CVSS v4.0で9.2）の脆弱性が2件見つかった問題について、nginxを利用する事業者に対して「必要な措置を取ることをお願いしたい」と呼び掛けた。 国家サイバー統括室のSNSで19... — はてなブックマーク テクノロジー / score: 95 (Webサーバーの緊急脆弱性で広く注意喚起が行われている)</description>
 </item>
 <item>
+<title>[95] NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等） | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構</title>
+<link>https://www.ipa.go.jp/security/security-alert/2026/alert20261119.html</link>
+<guid isPermaLink="true">https://www.ipa.go.jp/security/security-alert/2026/alert20261119.html</guid>
+<pubDate>Thu, 19 Nov 2026 06:49:06 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>トップページ 情報セキュリティ 重要なセキュリティ情報 2026年度 NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等） 注釈：追記すべき情報がある場合には、その都度このページを更新する予定です。 概要 F5社が提供するNGINX Open SourceおよびNGINX Plusについて、2026年11月18日に複数の脆弱性... — はてなブックマーク テクノロジー / score: 95 (NGINXの緊急脆弱性対策のため影響が極めて大きい)</description>
+</item>
+<item>
+<title>[95] 「Ruby」に7件の脆弱性、修正版への更新を強く推奨。リモートコード実行の実証コードが存在／最高深刻度「Critical」。v4.0.10、v3.4.13、v3.3.14が公開</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2157700.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2157700.html</guid>
+<pubDate>Thu, 19 Nov 2026 04:39:31 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>「Ruby」に7件の脆弱性、修正版への更新を強く推奨。リモートコード実行の実証コードが存在／最高深刻度「Critical」。v4.0.10、v3.4.13、v3.3.14が公開 — はてなブックマーク テクノロジー / score: 95 (Rubyのクリティカルな脆弱性とRCEの危険性)</description>
+</item>
+<item>
 <title>[95] PHPにまた「致命的」な脆弱性。修正版は今夜23時に公開予定</title>
 <link>https://www.gizmodo.jp/article/2611-php-critical-vulnerability-november-2024/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/2611-php-critical-vulnerability-november-2024/</guid>
 <pubDate>Thu, 19 Nov 2026 04:15:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>PHPに再び致命的な脆弱性が発見され、11月19日23時に修正版が公開予定です。サイト運営をしている方は、更新情報をチェックしておきましょう。 — ギズモード・ジャパン / score: 95 (PHPに発見された致命的な脆弱性と修正版公開の速報)</description>
-</item>
-<item>
-<title>[95] 「Ruby」に7件の脆弱性、修正版への更新を強く推奨。リモートコード実行の実証コードが存在／最高深刻度「Critical」。v4.0.10、v3.4.13、v3.3.14が公開</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2157700.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2157700.html</guid>
-<pubDate>Thu, 19 Nov 2026 04:05:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>スクリプト言語「Ruby」の開発チームは11月18日（現地時間）、「Ruby」の正規表現エンジンと、文字列の大文字・小文字変換に、7件の脆弱性が見つかったことを明らかにした。一部についてはリモートコード実行（RCE）を引き起こせることを示す実証コード（PoC）の存在も確認されているとのことで、修正版へのアップデートが強く推奨されている。 — 窓の杜 / score: 95 (Rubyのクリティカルな脆弱性とRCEの危険性)</description>
 </item>
 <item>
 <title>[95] Webサーバー「nginx」に10件の脆弱性 ～HTTP/2実装の欠陥は未認証でリモートコード実行も／「CVE-2026-123633」「CVE-2026-123007」に警戒、v1.30.7/v1.31.9で修正</title>
@@ -53,14 +61,6 @@
 <pubDate>Tue, 17 Nov 2026 17:45:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API. — OpenAI News / score: 95 (主要なAIモデルのメジャーリリースと機能強化)</description>
-</item>
-<item>
-<title>[90] Microsoftの「Agent Framework」が侵害され、認証情報を盗む不正版がPyPIで公開</title>
-<link>https://www.itmedia.co.jp/news/article/2611/19/2000003332/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/19/2000003332/</guid>
-<pubDate>Thu, 19 Nov 2026 06:01:06 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>米Microsoftが提供するAIエージェント開発用のオープンソースツールキット「Microsoft Agent Framework」のPythonパッケージが侵害され、認証情報を盗む不正なバージョンがPythonの公式パッケージリポジトリ「PyPI」で公開されていた。米セキュリティ企業のSocket、StepSecurity、OX Securityが相次いで報告し、米Bleepi... — はてなブックマーク テクノロジー / score: 90 (公式PyPIリポジトリにおけるMicrosoft製ツールのサプライチェーン攻撃)</description>
 </item>
 <item>
 <title>[90] NGINX、HTTP/2処理の脆弱性を修正 ——静的ファイルだけを配信する構成でもリモートコード実行を確認</title>
@@ -306,9 +306,9 @@
 <title>[85] Googleが「Gemini 4 Neon」を発表、最先端の推論能力と高速・低コストな処理を両立しコーディング性能で世界トップに</title>
 <link>https://gigazine.net/news/20261119-google-gemini-4-neon/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261119-google-gemini-4-neon/</guid>
-<pubDate>Thu, 19 Nov 2026 02:15:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>Googleが2026年11月18日、新たなAIモデル「Gemini 4 Neon」を発表しました。Gemini 4 Neonは最上位モデルのGemini 4 Carbonをベースに開発されたモデルで、高度なコーディングやデータ分析、科学研究、企業の業務自動化などにおいて、最先端のAIモデルに匹敵する性能と高速かつ低コストな処理を両立しています。 続きを読む... — GIGAZINE / score: 85 (大手による最新AIモデルの発表で影響が大きい)</description>
+<pubDate>Thu, 19 Nov 2026 02:23:25 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Googleが2026年11月18日、新たなAIモデル「Gemini 4 Neon」を発表しました。Gemini 4 Neonは最上位モデルのGemini 4 Carbonをベースに開発されたモデルで、高度なコーディングやデータ分析、科学研究、企業の業務自動化などにおいて、最先端のAIモデルに匹敵する性能と高速かつ低コストな処理を両立しています。 Introdu... — はてなブックマーク テクノロジー / score: 85 (大手による最新AIモデルの発表で影響が大きい)</description>
 </item>
 <item>
 <title>[85] Google、「Gemini 4 Neon」を発表 ～「Claude Opus 5.5」「GPT-6.2 Sol」のライバル／“フロンティア級”の知能をより高速・低コストで、「Carbon」比でタスク単価32％削減</title>
@@ -333,14 +333,6 @@
 <pubDate>Wed, 18 Nov 2026 22:00:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>AnthropicはAIモデル「Claude Mythos Preview」を使用して主要なOSやウェブブラウザーなどで深刻度の高い脆弱(ぜいじゃく)性を数千件見つけたと2026年4月に発表しました。そこから約7カ月が経過した11月9日に、セキュリティ企業のVulnCheckが公開台帳などをもとにその後の修正状況を報告しました。 続きを読む... — GIGAZINE / score: 85 (AIが検出した大量の脆弱性修正状況を扱った重要ニュース)</description>
-</item>
-<item>
-<title>[85] nginx2root の HTTP/2 脆弱性2件を AWS 構成ごとに整理してみた | DevelopersIO</title>
-<link>https://dev.classmethod.jp/articles/nginx-http2-rce-aws-mitigation/</link>
-<guid isPermaLink="true">https://dev.classmethod.jp/articles/nginx-http2-rce-aws-mitigation/</guid>
-<pubDate>Wed, 18 Nov 2026 21:41:35 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>NGINX の HTTP/2 の脆弱性 CVE-2026-123007・CVE-2026-123633 の仕組みと AWS 構成ごとの影響を整理し、修正版を使えない環境の緩和策として、http2 off で curl --http2 の接続が HTTP/1.1 になることを Docker で確認しました。 はじめに 2026-11-18 に nginx 1.31.9 と 1.30.7 が公開され、HTTP/2 の脆弱性 CVE-2026-... — はてなブックマーク テクノロジー / score: 85 (NGINXのHTTP/2脆弱性に関する詳細な技術解説)</description>
 </item>
 <item>
 <title>[85] Microsoft、コーディング向けMAI Code 2、画像生成・編集のMAI Image 2.7、音声対話のMAI Realtime 1など7つのAIモデルを発表 ——GitHubとともにCodename MDASHでオープンソースのコードを検査し、脆弱性99件を修正案とともに報告</title>
@@ -663,6 +655,14 @@
 <description>November 9, 2026 — Claude Fable 5.2 and Mythos 5.2 arrive on Anthropic’s IPO roadshow day. How much thinking is worth paying for? — Latent Space / score: 78 (主要LLMの性能逆転とIPO動向)</description>
 </item>
 <item>
+<title>[75] 美少女ゲーム「NIKKE」経由でマルウェア感染　北海道2自治体、委託先が認める</title>
+<link>https://www.itmedia.co.jp/news/article/2611/19/2000003351/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/19/2000003351/</guid>
+<pubDate>Thu, 19 Nov 2026 11:25:45 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>11月18日、業務の再委託先が使用する情報機器でマルウェア「K2F」への感染が確認され、個人情報が漏えいした可能性があると発表した北海道岩見沢市と新得町。両自治体が業務を委託していたGIS北海道（札幌市）は19日、ITmedia NEWSの取材に応じ、人気ゲーム「勝利の女神：NIKKE」のPC版ランチャー（起動用アプリ）が関係... — はてなブックマーク テクノロジー / score: 75 (ゲーム経由のマルウェア感染と個人情報漏えい事案)</description>
+</item>
+<item>
 <title>[75] 約2,500万人のデータで「Firefox」の“指紋”対策を強化 ～Mozillaが研究成果を発表／一意に識別されるユーザーの割合を75％から46％に削減</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2157865.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2157865.html</guid>
@@ -685,22 +685,6 @@
 <pubDate>Thu, 19 Nov 2026 06:37:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Microsoftは11月17日（現地時間）、年次開発者イベント「Microsoft Ignite 2026」で、同社のAI部門Microsoft AI（MAI）が開発した7つの新しいモデル群を発表した。トークン消費が急増するなか、エージェントを24時間365日動かせるだけの“価格性能比”を重視したという。発表されたおもなモデルは、以下の通り。 — 窓の杜 / score: 75 (Microsoft Ignite 2026での新AIモデル群の発表)</description>
-</item>
-<item>
-<title>[75] 社内向けウェブツールへの不正アクセスに関するお詫び - Kyash お知らせ</title>
-<link>https://www.kyash.co/information/20261119</link>
-<guid isPermaLink="true">https://www.kyash.co/information/20261119</guid>
-<pubDate>Thu, 19 Nov 2026 04:40:46 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>いつもKyashをご利用いただきありがとうございます。 2026年10月28日（水）9時20分頃から11時42分までの間、当社の社内ツールに外部から不正なアクセスがあり、掲載していた社内資料が第三者に取得された可能性があることが判明いたしました。この資料に、一部のお客さまに関する情報が含まれておりました。 お客さまに... — はてなブックマーク テクノロジー / score: 75 (セキュリティインシデントと情報流出の報告)</description>
-</item>
-<item>
-<title>[75] Google Playが折りたたみスマホ向けアプリの最適化を義務化、2027年4月から未対応アプリは更新不可に</title>
-<link>https://sumahodigest.com/?p=76852</link>
-<guid isPermaLink="true">https://sumahodigest.com/?p=76852</guid>
-<pubDate>Thu, 19 Nov 2026 04:19:09 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Googleは、折りたたみスマートフォン向けアプリの品質基準を新たに発表しました。2027年4月からGoogle Playでアプリを公開・更新するには、折りたたみ端末に対応した最低限の品質基準を満たす必要があります。対応を怠った開発者は、アプリの新規公開だけでなく既存アプリのアップデートもできなくなる見込みです。 折り... — はてなブックマーク テクノロジー / score: 75 (折りたたみスマホ対応の義務化で開発者に影響)</description>
 </item>
 <item>
 <title>[75] AnthropicのIPO、今日の夜。AIマネーゲームは次のフェーズへ</title>
@@ -741,14 +725,6 @@
 <pubDate>Wed, 18 Nov 2026 16:00:37 +0000</pubDate>
 <category>Publickey</category>
 <description>マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、AIによるサイバー攻撃に対抗するためのAIエージェントによる新サービス「Microsoft Perception」の提供開始を発... — Publickey / score: 75 (マイクロソフトのAIセキュリティ新サービスの発表)</description>
-</item>
-<item>
-<title>[75] Claude Codeチームは検証についてどのように考えて実行しているのか、エンドツーエンドテスト・プロパティテスト・差分テストで証拠に基づいて自身の作業を検証する方法</title>
-<link>https://gigazine.net/news/20261118-claude-code-test-code-review/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261118-claude-code-test-code-review/</guid>
-<pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>AIコーディングツール「Claude Code」の開発チームでは、コードの約90％をClaudeが記述・レビューしています。AIに大量の開発作業を任せながらコードの品質を維持するため、Claude Codeの開発チームがどのような検証の仕組みを構築しているのかについて、Anthropicのエンジニアであるアディ・オスマーニ氏が解説しています。 続きを読む... — GIGAZINE / score: 75 (AI開発チームの厳格な検証プロセスの解説)</description>
 </item>
 <item>
 <title>[75] Amazon ElastiCache now supports distributed KV caching for self-hosted LLM inference</title>
@@ -805,6 +781,30 @@
 <pubDate>Tue, 17 Nov 2026 21:43:09 +0000</pubDate>
 <category>Publickey</category>
 <description>マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、PostgreSQL互換のサーバレスデータベース「Microsoft Fabric HorizonDB」のパブリックプレビュー版... — Publickey / score: 75 (PostgreSQL互換のサーバレスDBプレビュー版)</description>
+</item>
+<item>
+<title>[75] AWS Security Hub now infers resource criticality from installed software and usage</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-resource-criticality/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-resource-criticality/</guid>
+<pubDate>Tue, 17 Nov 2026 20:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Today, AWS Security Hub adds installed software and resource usage as signals for resource criticality, which indicates how important a resource is to your business. Security Hub uses criticality to rank exposure findings, so that central security teams can prioritize the exposures that affect their most important resources. Security Hub already infers criticality from resource tags and names, but inconsistently tagged resources often have an Unknown criticality, which makes their exposures hard — AWS What's New / score: 75 (AWS Security Hubの重要度判定機能追加)</description>
+</item>
+<item>
+<title>[75] Amazon API Gateway REST APIs now support JWT authorizers</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-rest-authorizers-jwt/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-rest-authorizers-jwt/</guid>
+<pubDate>Tue, 17 Nov 2026 19:22:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon API Gateway now offers a native JWT authorizer for REST APIs, a new authorizer type that validates JSON Web Tokens directly in the gateway. Until now, validating tokens from an OpenID Connect or OAuth 2.0 identity provider other than Amazon Cognito required a Lambda authorizer. You now configure token validation instead of writing and operating code for it. You can define one or more issuers, the audiences accepted for each, the signing algorithms you permit, and any additional claims a t — AWS What's New / score: 75 (API GatewayのネイティブJWT認証対応)</description>
+</item>
+<item>
+<title>[75] Running the full server-side Datasette Python app in the browser with service workers and Pyodide</title>
+<link>https://simonwillison.net/2026/Nov/17/datasette-lite/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Nov/17/datasette-lite/</guid>
+<pubDate>Tue, 17 Nov 2026 16:48:33 +0000</pubDate>
+<category>Simon Willison</category>
+<description>Datasette Lite is my port of the Datasette Python application to run directly in the browser using WebAssembly and Pyodide . I've released a complete rewrite of Datasette Lite using service workers, and it's now almost indistinguishable from the real server-side application. You can now do all of the following, using a carefully crafted URL to lite.datasette.io : Load client-side Datasette to browse any SQLite database, JSON file, CSV file or SQL script Select a released version of Datasette to  — Simon Willison / score: 75 (WebAssemblyとPythonを用いた高度な技術解説。)</description>
 </item>
 </channel>
 </rss>
