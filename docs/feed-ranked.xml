@@ -4,15 +4,15 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 19 Nov 2026 08:08:33 +0000</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 10:06:27 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
-<title>[95] 深刻度”重大”も　Google Chromeに204件の脆弱性　修正版を提供中</title>
-<link>https://ascii.jp/elem/000/004/453/4453222/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/453/4453222/?rss</guid>
-<pubDate>Thu, 19 Nov 2026 06:40:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>グーグルは11月17日、デスクトップおよびAndroid版「Google Chrome」のアップデートを公開。深刻度「重大」を含む204件の脆弱性を修正した。 — ASCII.jp / score: 95 (Google Chromeの重大な脆弱性修正)</description>
+<title>[95] nginx「緊急」脆弱性、官房長官が「必要な措置」呼び掛け</title>
+<link>https://www.itmedia.co.jp/news/article/2611/19/2000003334/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/19/2000003334/</guid>
+<pubDate>Thu, 19 Nov 2026 07:02:28 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>木原稔官房長官は11月19日午前の記者会見で、Webサイト構築に広く使われているWebサーバソフト「nginx」（エンジンエックス）に18日、「緊急」（CVSS v4.0で9.2）の脆弱性が2件見つかった問題について、nginxを利用する事業者に対して「必要な措置を取ることをお願いしたい」と呼び掛けた。 国家サイバー統括室のSNSで19... — はてなブックマーク テクノロジー / score: 95 (Webサーバーの緊急脆弱性で広く注意喚起が行われている)</description>
 </item>
 <item>
 <title>[95] PHPにまた「致命的」な脆弱性。修正版は今夜23時に公開予定</title>
@@ -31,20 +31,12 @@
 <description>スクリプト言語「Ruby」の開発チームは11月18日（現地時間）、「Ruby」の正規表現エンジンと、文字列の大文字・小文字変換に、7件の脆弱性が見つかったことを明らかにした。一部についてはリモートコード実行（RCE）を引き起こせることを示す実証コード（PoC）の存在も確認されているとのことで、修正版へのアップデートが強く推奨されている。 — 窓の杜 / score: 95 (Rubyのクリティカルな脆弱性とRCEの危険性)</description>
 </item>
 <item>
-<title>[95] Webサーバソフト「nginx」にリモートコード実行の「緊急」脆弱性、日本政府も更新呼び掛け</title>
-<link>https://www.itmedia.co.jp/news/article/2611/19/2000003325/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/19/2000003325/</guid>
-<pubDate>Thu, 19 Nov 2026 03:41:53 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>nginxは、世界で最も広く使われているオープンソースのWebサーバソフト。HTTPSの通信を処理し、トラフィックをアプリケーションやAPIに振り分けるフロントドアとして、Webシステムの入り口に置かれることが多い。 脆弱性はHTTP/2を有効にしたサーバが対象で、バージョンや構成によって影響を受ける。悪用されると、攻撃... — はてなブックマーク テクノロジー / score: 95 (NGINXの緊急の脆弱性であり多大な影響がある)</description>
-</item>
-<item>
 <title>[95] Webサーバー「nginx」に10件の脆弱性 ～HTTP/2実装の欠陥は未認証でリモートコード実行も／「CVE-2026-123633」「CVE-2026-123007」に警戒、v1.30.7/v1.31.9で修正</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2157695.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2157695.html</guid>
-<pubDate>Thu, 19 Nov 2026 02:51:47 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Webサーバー「nginx」に10件の脆弱性 ～HTTP/2実装の欠陥は未認証でリモートコード実行も／「CVE-2026-123633」「CVE-2026-123007」に警戒、v1.30.7/v1.31.9で修正 — はてなブックマーク テクノロジー / score: 95 (nginxの複数の深刻な脆弱性と修正の公開)</description>
+<pubDate>Thu, 19 Nov 2026 02:35:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米F5は11月18日（現地時間）、Webサーバー「nginx」（エンジンエックス）の安定版（stable）v1.30.7と開発版（mainline）v1.31.9を公開した。10件の脆弱性が修正されたセキュリティアップデートとなっている。 — 窓の杜 / score: 95 (nginxの複数の深刻な脆弱性と修正の公開)</description>
 </item>
 <item>
 <title>[95] 「PHP」に再び“致命的”な脆弱性、日本時間19日夜にセキュリティリリースへ／サポート中の全バージョンが対象</title>
@@ -55,14 +47,6 @@
 <description>「PHP」に再び“致命的”な脆弱性、日本時間19日夜にセキュリティリリースへ／サポート中の全バージョンが対象 — はてなブックマーク テクノロジー / score: 95 (PHPの致命的脆弱性に関する緊急の注意喚起)</description>
 </item>
 <item>
-<title>[95] PHPが2026年11月19日に緊急セキュリティリリースを予定――CVE-2026-115560を含む重大な脆弱性に対応</title>
-<link>https://aikido-community.jp/blog/php-security-release-19-november-2026-cve-2026-115560</link>
-<guid isPermaLink="true">https://aikido-community.jp/blog/php-security-release-19-november-2026-cve-2026-115560</guid>
-<pubDate>Wed, 18 Nov 2026 22:49:55 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>PHPが2026年11月19日に緊急セキュリティリリースを予定――CVE-2026-115560を含む重大な脆弱性に対応PHP schedules a critical security release for 19 November, including CVE-2026-115560 この記事のポイント【なぜ重要か】 PHPセキュリティチームは2026年11月19日 14:00〜14:30 UTC に、サポート中の全バージョン向け... — はてなブックマーク テクノロジー / score: 95 (PHPの緊急セキュリティリリースと重大な脆弱性対応)</description>
-</item>
-<item>
 <title>[95] Introducing GPT-6.2 Astra and Sol</title>
 <link>https://openai.com/index/introducing-gpt-6-2-astra-sol</link>
 <guid isPermaLink="true">https://openai.com/index/introducing-gpt-6-2-astra-sol</guid>
@@ -71,20 +55,12 @@
 <description>Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API. — OpenAI News / score: 95 (主要なAIモデルのメジャーリリースと機能強化)</description>
 </item>
 <item>
-<title>[90] 六花亭、クレカ情報約8000件が流出か　カード番号全桁、セキュリティコードも</title>
-<link>https://ascii.jp/elem/000/004/453/4453220/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/453/4453220/?rss</guid>
-<pubDate>Thu, 19 Nov 2026 06:35:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>和洋菓子製造の六花亭は11月18日、同社のオンラインショップが不正アクセスを受け、一部顧客のクレジットカード情報が流出した可能性があることを公表した。 — ASCII.jp / score: 90 (オンラインショップからの大規模情報流出)</description>
-</item>
-<item>
-<title>[90] ソフトウエア「nginx」にぜい弱性 “必要な措置を”官房長官 | NHKニュース</title>
-<link>https://news.web.nhk/newsweb/na/nd-20261119de78324</link>
-<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261119de78324</guid>
-<pubDate>Thu, 19 Nov 2026 05:12:05 +0000</pubDate>
+<title>[90] Microsoftの「Agent Framework」が侵害され、認証情報を盗む不正版がPyPIで公開</title>
+<link>https://www.itmedia.co.jp/news/article/2611/19/2000003332/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/19/2000003332/</guid>
+<pubDate>Thu, 19 Nov 2026 06:01:06 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>木原官房長官はウェブサイトの運用などに世界中で広く使われている「nginx（エンジンエックス）」と呼ばれるソフトウエアにぜい弱性が見つかったとして、利用している事業者に対し、速やかにアップデートを行う… — はてなブックマーク テクノロジー / score: 90 (主要なOSSであるnginxの脆弱性と官房長官からの注意喚起)</description>
+<description>米Microsoftが提供するAIエージェント開発用のオープンソースツールキット「Microsoft Agent Framework」のPythonパッケージが侵害され、認証情報を盗む不正なバージョンがPythonの公式パッケージリポジトリ「PyPI」で公開されていた。米セキュリティ企業のSocket、StepSecurity、OX Securityが相次いで報告し、米Bleepi... — はてなブックマーク テクノロジー / score: 90 (公式PyPIリポジトリにおけるMicrosoft製ツールのサプライチェーン攻撃)</description>
 </item>
 <item>
 <title>[90] NGINX、HTTP/2処理の脆弱性を修正 ——静的ファイルだけを配信する構成でもリモートコード実行を確認</title>
@@ -285,6 +261,22 @@
 <pubDate>Wed, 18 Nov 2026 21:00:00 +0000</pubDate>
 <category>Gemini (Google Blog)</category>
 <description>Today, we’re introducing Gemini 4 Neon — Gemini (Google Blog) / score: 88 (Googleの新型モデルGemini 4 Neonの発表)</description>
+</item>
+<item>
+<title>[85] Google、Gemini 4 Neonを発表 ——Carbonをもとに開発、複雑な作業をより短時間で</title>
+<link>https://gihyo.jp/article/2026/11/gemini-4-neon?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/11/gemini-4-neon?utm_source=feed</guid>
+<pubDate>Thu, 19 Nov 2026 08:00:43 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Googleは2026年11月18日、AIモデル「Gemini 4 Neon」を発表し、GeminiアプリやGemini APIなどで順次提供を始めた。Neonは、複数のファイルにまたがるコード修正や科学研究での定量分析など、高い推論能力が求められる作業を短時間でこなせるよう設計された。 — gihyo.jp / score: 85 (Googleの新型高性能AIモデル発表)</description>
+</item>
+<item>
+<title>[85] 六花亭、カード番号全桁＋セキュリティコード約8000件流出か　決済画面のプログラム改ざん（ITmedia NEWS） - Yahoo!ニュース</title>
+<link>https://news.yahoo.co.jp/articles/fe3af31e34dfc6f786ead14eeb02d20ce517d330</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/articles/fe3af31e34dfc6f786ead14eeb02d20ce517d330</guid>
+<pubDate>Thu, 19 Nov 2026 07:40:17 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>六花亭公式サイトより 北海道の菓子メーカー・六花亭（帯広市）は11月18日、通販サイト「六花亭オンラインショップ」が第三者による不正アクセスを受けて決済画面のプログラムが改ざんされ、顧客が入力したクレジットカード情報が外部に流出した可能性があると発表した。現時点で確認されている件数は約8000件。 【画像... — はてなブックマーク テクノロジー / score: 85 (企業の決済画面改ざんと大量カード情報流出の深刻な事件)</description>
 </item>
 <item>
 <title>[85] 六花亭 セキュリティコード流出か</title>
@@ -551,14 +543,6 @@
 <description>OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI. — OpenAI News / score: 85 (OpenAIによる脆弱性検出のためのパートナーシップ発表。)</description>
 </item>
 <item>
-<title>[85] GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents</title>
-<link>https://openai.com/index/introducing-gpt-6-cyber</link>
-<guid isPermaLink="true">https://openai.com/index/introducing-gpt-6-cyber</guid>
-<pubDate>Thu, 05 Nov 2026 09:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope. — OpenAI News / score: 85 (サイバーセキュリティ特化型AIモデルの発表)</description>
-</item>
-<item>
 <title>[82] Why It Takes 3000 Commits to Bring Valhalla’s Value Objects to the JDK</title>
 <link>https://inside.java/2026/11/16/devoxxbelgium-valhalla-value-objects/</link>
 <guid isPermaLink="true">https://inside.java/2026/11/16/devoxxbelgium-valhalla-value-objects/</guid>
@@ -589,14 +573,6 @@
 <pubDate>Thu, 19 Nov 2026 00:01:46 +0000</pubDate>
 <category>Yahoo!ニュース IT</category>
 <description> — Yahoo!ニュース IT / score: 80 (主要サーバーソフトnginxの脆弱性ニュース)</description>
-</item>
-<item>
-<title>[80] 【超速報】NGINX、お前もか。HTTP/2に認証不要のRCE脆弱性「NGINX2Shell」（CVE-2026-123007／123633）パッチは公開済み。PHP2Shellほどではないが更新を。Apache好きの私は高みの見物......のはずだった：秋山大志のそれとりあえず作ってみようか。：オルタナティブ・ブログ</title>
-<link>https://blogs.itmedia.co.jp/agile/2026/11/nginx_http2_rce_cve_2026_123007_nginx2shell_20261119.html</link>
-<guid isPermaLink="true">https://blogs.itmedia.co.jp/agile/2026/11/nginx_http2_rce_cve_2026_123007_nginx2shell_20261119.html</guid>
-<pubDate>Wed, 18 Nov 2026 16:24:20 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>【超速報】NGINX、お前もか。HTTP/2に認証不要のRCE脆弱性「NGINX2Shell」（CVE-2026-123007／123633）パッチは公開済み。PHP2Shellほどではないが更新を。Apache好きの私は高みの見物......のはずだった 【追記】11月19日1時半ごろ：今度は「nginx2root」。HTTP/2を止めても塞げない穴が3件 NGINX2Shellの次は、nginx2r... — はてなブックマーク テクノロジー / score: 80 (NGINXのHTTP/2脆弱性に関するブログ記事)</description>
 </item>
 <item>
 <title>[80] ［速報］マイクロソフト、PostgreSQL互換のミッションクリティカル向けデータベースサービス「Azure HorizonDB」正式リリース</title>
@@ -687,6 +663,14 @@
 <description>November 9, 2026 — Claude Fable 5.2 and Mythos 5.2 arrive on Anthropic’s IPO roadshow day. How much thinking is worth paying for? — Latent Space / score: 78 (主要LLMの性能逆転とIPO動向)</description>
 </item>
 <item>
+<title>[75] 約2,500万人のデータで「Firefox」の“指紋”対策を強化 ～Mozillaが研究成果を発表／一意に識別されるユーザーの割合を75％から46％に削減</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2157865.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2157865.html</guid>
+<pubDate>Thu, 19 Nov 2026 09:04:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Mozillaは11月10日（現地時間）、ブラウザーフィンガープリンティングに関する大規模な研究の成果を公式ブログ「Mozilla Security Blog」で明らかにした。約2,500万人の「Firefox」ユーザーから集めた計測データを分析し、ユーザーの識別に利用されている情報を特定。その知見をもとに、「Firefox」のフィンガープリンティング対策を強化したという。 — 窓の杜 / score: 75 (Firefoxの大規模データに基づく指紋対策強化)</description>
+</item>
+<item>
 <title>[75] OpenAIがAIを用いてAMD製GPUや独自開発AIチップの改善に成功、半導体設計の専用AIモデルも開発</title>
 <link>https://gigazine.net/news/20261119-openai-jalapeno-amd-advancing-chip/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261119-openai-jalapeno-amd-advancing-chip/</guid>
@@ -701,14 +685,6 @@
 <pubDate>Thu, 19 Nov 2026 06:37:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Microsoftは11月17日（現地時間）、年次開発者イベント「Microsoft Ignite 2026」で、同社のAI部門Microsoft AI（MAI）が開発した7つの新しいモデル群を発表した。トークン消費が急増するなか、エージェントを24時間365日動かせるだけの“価格性能比”を重視したという。発表されたおもなモデルは、以下の通り。 — 窓の杜 / score: 75 (Microsoft Ignite 2026での新AIモデル群の発表)</description>
-</item>
-<item>
-<title>[75] グーグル「Gemini 4 Neon」発表、さっそくGPT-6.2 Sol超え</title>
-<link>https://ascii.jp/elem/000/004/453/4453224/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/453/4453224/?rss</guid>
-<pubDate>Thu, 19 Nov 2026 06:30:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>グーグルは米国時間11月18日、複雑な仕事をこなせる高性能AIの新モデル「Gemini 4 Neon」を発表した。 — ASCII.jp / score: 75 (Googleの新AIモデルGemini 4発表)</description>
 </item>
 <item>
 <title>[75] 社内向けウェブツールへの不正アクセスに関するお詫び - Kyash お知らせ</title>
@@ -743,14 +719,6 @@
 <description>Googleがインタラクティブな仮想世界を生成できる世界モデル「Genie 4」を正式リリースしました。 続きを読む... — GIGAZINE / score: 75 (ゲーム生成AIの最新リリースで注目度が高い)</description>
 </item>
 <item>
-<title>[75] Googleが日本のサイバー防御を助けにきた。政府や銀行に最新AIをいち早く提供</title>
-<link>https://www.gizmodo.jp/article/google-cyber-defense-ai-japan/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/google-cyber-defense-ai-japan/</guid>
-<pubDate>Wed, 18 Nov 2026 23:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>Googleが日本のサイバー防御支援を発表。行政や金融などの重要インフラに最新AIを先行提供し、無料のセキュリティ診断や人材育成を通じてサイバーセキュリティ強化を後押しします。 — ギズモード・ジャパン / score: 75 (Googleによる日本のサイバー防御支援)</description>
-</item>
-<item>
 <title>[75] AWS Lambda now supports GPU instances for Event Functions on Lambda Managed Instances</title>
 <link>https://aws.amazon.com/blogs/aws/aws-lambda-now-supports-gpu-instances-for-event-functions-on-lambda-managed-instances/</link>
 <guid isPermaLink="true">https://aws.amazon.com/blogs/aws/aws-lambda-now-supports-gpu-instances-for-event-functions-on-lambda-managed-instances/</guid>
@@ -783,14 +751,6 @@
 <description>AIコーディングツール「Claude Code」の開発チームでは、コードの約90％をClaudeが記述・レビューしています。AIに大量の開発作業を任せながらコードの品質を維持するため、Claude Codeの開発チームがどのような検証の仕組みを構築しているのかについて、Anthropicのエンジニアであるアディ・オスマーニ氏が解説しています。 続きを読む... — GIGAZINE / score: 75 (AI開発チームの厳格な検証プロセスの解説)</description>
 </item>
 <item>
-<title>[75] Google検索の「AIによる概要」のせいで外部ウェブサイトのクリック率が約40％減少、サイト運営者はどうするべきか？</title>
-<link>https://gigazine.net/news/20261118-google-ai-overviews-cut-clicks-websites/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261118-google-ai-overviews-cut-clicks-websites/</guid>
-<pubDate>Wed, 18 Nov 2026 10:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>Googleで何らかの検索をした際、検索結果の一番上に「AIによる概要」が表示されることがよくあります。検索結果画面にAIによる概要が表示されると、外部ウェブサイトのクリック率が約40％減少するという研究結果も発表されており、ウェブサイト向けの収益分析ツールを提供するRevScopeが現状や対策まとめています。 続きを読む... — GIGAZINE / score: 75 (AI検索がエコシステムに与える影響として重要)</description>
-</item>
-<item>
 <title>[75] Amazon ElastiCache now supports distributed KV caching for self-hosted LLM inference</title>
 <link>https://aws.amazon.com/about-aws/whats-new/2026/11/announcing-distributed-kv-caching-for-self-hosted-llms-with-amazon-elasticache/</link>
 <guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/announcing-distributed-kv-caching-for-self-hosted-llms-with-amazon-elasticache/</guid>
@@ -805,6 +765,46 @@
 <pubDate>Wed, 18 Nov 2026 07:45:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米国太平洋時間2027年1月12日（日本時間13日）、「Windows Server 2016」の延長サポートが終了する。米Microsoftが11月13日（現地時間）、「Windows メッセージ センター」で改めて注意を呼び掛けている。 — 窓の杜 / score: 75 (Windows Server 2016のサポート終了注意喚起)</description>
+</item>
+<item>
+<title>[75] 「Windows Server 2028」のパブリックプレビューが開始 ～Microsoftの次期サーバーOS／既定で堅牢化された構成、NVMe対応の強化や「Intune」による管理も</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2157329.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2157329.html</guid>
+<pubDate>Wed, 18 Nov 2026 05:40:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Microsoftは11月17日（現地時間）、「Windows Server 2028」を発表した。同日よりパブリックプレビューとして公開されており、「Windows Server Insider Program」で新機能を試せる。 — 窓の杜 / score: 75 (次期Windows Serverのプレビュー開始でインフラ関連の注目トピック)</description>
+</item>
+<item>
+<title>[75] OpenAI、「GPT-6.2 Astra」「GPT-6.2 Sol」を発表 ～少ない出力トークンでより高い成果／上位モデルのAPI料金は2割引き、「Pro 200」でも「Ultrafast」</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2157295.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2157295.html</guid>
+<pubDate>Wed, 18 Nov 2026 00:28:42 +0000</pubDate>
+<category>窓の杜</category>
+<description>米OpenAIは11月17日（現地時間）、大規模言語モデル「GPT-6.2 Astra」と「GPT-6.2 Sol」を発表した。「GPT-6.2 Astra」はもっとも難しいプロジェクト向けの最上位（フロンティア）モデル、「GPT-6.2 Sol」は日常業務向けの効率的で汎用的なモデル。いずれも、より少ない出力トークンで難しいタスクの成果を高めており、利用上限の範囲内でより多くの作業をこなせるという。 — 窓の杜 / score: 75 (OpenAIの新フラグシップモデル発表)</description>
+</item>
+<item>
+<title>[75] Advancing chip design with OpenAI models</title>
+<link>https://openai.com/index/advancing-chip-design-with-our-models</link>
+<guid isPermaLink="true">https://openai.com/index/advancing-chip-design-with-our-models</guid>
+<pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra. — OpenAI News / score: 75 (AIを活用したチップ設計の進展に関するニュース。)</description>
+</item>
+<item>
+<title>[75] 「.NET 11」に興味深い破壊的変更、『明治』の始まりが45日遅くなる／ごくまれにエラーを引き起こすことも【やじうまの杜】</title>
+<link>https://forest.watch.impress.co.jp/docs/serial/yajiuma/2157180.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/serial/yajiuma/2157180.html</guid>
+<pubDate>Tue, 17 Nov 2026 21:45:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>「やじうまの杜」では、ニュース・レビューにこだわらない幅広い話題をお伝えします。 — 窓の杜 / score: 75 (.NET 11における破壊的変更の興味深い話題)</description>
+</item>
+<item>
+<title>[75] ［速報］PostgreSQL互換のサーバレスでOLTPとOLAP両対応を実現する「Microsoft Fabric HorizonDB」パブリックプレビュー</title>
+<link>https://www.publickey1.jp/blog/26/postgresqloltpolapmicrosoft_fabric_horizondb.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/postgresqloltpolapmicrosoft_fabric_horizondb.html</guid>
+<pubDate>Tue, 17 Nov 2026 21:43:09 +0000</pubDate>
+<category>Publickey</category>
+<description>マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、PostgreSQL互換のサーバレスデータベース「Microsoft Fabric HorizonDB」のパブリックプレビュー版... — Publickey / score: 75 (PostgreSQL互換のサーバレスDBプレビュー版)</description>
 </item>
 </channel>
 </rss>
