@@ -4,16 +4,8 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 19 Nov 2026 14:06:32 +0000</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 16:06:56 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
-<item>
-<title>[95] nginx「緊急」脆弱性、官房長官が「必要な措置」呼び掛け</title>
-<link>https://www.itmedia.co.jp/news/article/2611/19/2000003334/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/19/2000003334/</guid>
-<pubDate>Thu, 19 Nov 2026 07:02:28 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>木原稔官房長官は11月19日午前の記者会見で、Webサイト構築に広く使われているWebサーバソフト「nginx」（エンジンエックス）に18日、「緊急」（CVSS v4.0で9.2）の脆弱性が2件見つかった問題について、nginxを利用する事業者に対して「必要な措置を取ることをお願いしたい」と呼び掛けた。 国家サイバー統括室のSNSで19... — はてなブックマーク テクノロジー / score: 95 (Webサーバーの緊急脆弱性で広く注意喚起が行われている)</description>
-</item>
 <item>
 <title>[95] NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等） | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構</title>
 <link>https://www.ipa.go.jp/security/security-alert/2026/alert20261119.html</link>
@@ -61,6 +53,14 @@
 <pubDate>Tue, 17 Nov 2026 17:45:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API. — OpenAI News / score: 95 (主要なAIモデルのメジャーリリースと機能強化)</description>
+</item>
+<item>
+<title>[90] 「PHP」で17件の脆弱性に対処、認証不要のリモートコード実行につながる“致命的”なものも／v8.5.13、v8.4.28、v8.3.37、v8.2.36が公開</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2158039.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2158039.html</guid>
+<pubDate>Thu, 19 Nov 2026 15:01:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>スクリプト言語「PHP」の開発チームは11月19日（協定世界時）、予告通り「PHP」のセキュリティアップデートを実施した。現在、以下の修正版が利用可能。 — 窓の杜 / score: 90 (PHPの致命的な脆弱性を含む多数の脆弱性修正)</description>
 </item>
 <item>
 <title>[90] NGINX、HTTP/2処理の脆弱性を修正 ——静的ファイルだけを配信する構成でもリモートコード実行を確認</title>
@@ -261,6 +261,22 @@
 <pubDate>Wed, 18 Nov 2026 21:00:00 +0000</pubDate>
 <category>Gemini (Google Blog)</category>
 <description>Today, we’re introducing Gemini 4 Neon — Gemini (Google Blog) / score: 88 (Googleの新型モデルGemini 4 Neonの発表)</description>
+</item>
+<item>
+<title>[85] ARMORY CASTLE Exploits vSphere</title>
+<link>https://cloud.google.com/blog/topics/threat-intelligence/armory-castle-exploits-vsphere/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/threat-intelligence/armory-castle-exploits-vsphere/</guid>
+<pubDate>Thu, 19 Nov 2026 14:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Written by: Jayson Frost, Bryce Greathouse, Dhanesh Kizhakkinan, John Palmisano, Steve Rasch, Daniel Sislo, John Wolfram Introduction On Oct. 15, 2026, Mandiant and Google Threat Intelligence Group (GTIG) published a blog post detailing recent activity in which the suspected PRC-nexus threat actor ARMORY CASTLE (formerly tracked as UNC5221) exploited CVE-2026-102764, a zero-day vulnerability in BeyondTrust Remote Support, which was patched in BT26-05 . We also described some of the threat actor’ — Google Cloud Blog / score: 85 (VMware vSphereを狙うサイバー攻撃の解説)</description>
+</item>
+<item>
+<title>[85] 「湘南美容クリニック」などの個人情報流出　氏名など162万人分　不正アクセスで</title>
+<link>https://japan.cnet.com/article/35255171/</link>
+<guid isPermaLink="true">https://japan.cnet.com/article/35255171/</guid>
+<pubDate>Thu, 19 Nov 2026 13:48:03 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>SBCメディカルグループは11月19日、湘南美容クリニックなどの利用者の個人情報が不正アクセスによって流出したと発表した。氏名や連絡先などを含む個人情報162万4000人分のほか、予約の申し込み情報や相談内容なども流出した。流出した情報には、当時暗号化せずに保存していたパスワードも含まれる。 162万4000人分は201... — はてなブックマーク テクノロジー / score: 85 (湘南美容クリニックの162万人分の大規模情報流出)</description>
 </item>
 <item>
 <title>[85] Google、Gemini 4 Neonを発表 ——Carbonをもとに開発、複雑な作業をより短時間で</title>
@@ -706,9 +722,9 @@
 <title>[75] ゲームのように移動可能な世界を生成できるAI「Genie 4」をGoogleが正式リリース、参照画像を入力したり途中で環境を変更したりできる</title>
 <link>https://gigazine.net/news/20261119-google-genie-4/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261119-google-genie-4/</guid>
-<pubDate>Thu, 19 Nov 2026 02:10:47 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Googleがインタラクティブな仮想世界を生成できる世界モデル「Genie 4」を正式リリースしました。 Project Genie https://labs.google/projectgenie Genie 4 — Google DeepMind https://deepmind.google/models/genie/ Project Genie update featuring Genie 4 https://blog.google/innovation-and-ai/models-and-resear... — はてなブックマーク テクノロジー / score: 75 (ゲーム生成AIの最新リリースで注目度が高い)</description>
+<pubDate>Thu, 19 Nov 2026 02:07:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>Googleがインタラクティブな仮想世界を生成できる世界モデル「Genie 4」を正式リリースしました。 続きを読む... — GIGAZINE / score: 75 (ゲーム生成AIの最新リリースで注目度が高い)</description>
 </item>
 <item>
 <title>[75] AWS Lambda now supports GPU instances for Event Functions on Lambda Managed Instances</title>
@@ -789,22 +805,6 @@
 <pubDate>Tue, 17 Nov 2026 21:43:09 +0000</pubDate>
 <category>Publickey</category>
 <description>マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、PostgreSQL互換のサーバレスデータベース「Microsoft Fabric HorizonDB」のパブリックプレビュー版... — Publickey / score: 75 (PostgreSQL互換のサーバレスDBプレビュー版)</description>
-</item>
-<item>
-<title>[75] AWS Security Hub now infers resource criticality from installed software and usage</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-resource-criticality/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-resource-criticality/</guid>
-<pubDate>Tue, 17 Nov 2026 20:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Today, AWS Security Hub adds installed software and resource usage as signals for resource criticality, which indicates how important a resource is to your business. Security Hub uses criticality to rank exposure findings, so that central security teams can prioritize the exposures that affect their most important resources. Security Hub already infers criticality from resource tags and names, but inconsistently tagged resources often have an Unknown criticality, which makes their exposures hard — AWS What's New / score: 75 (AWS Security Hubの重要度判定機能追加)</description>
-</item>
-<item>
-<title>[75] Amazon API Gateway REST APIs now support JWT authorizers</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-rest-authorizers-jwt/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-rest-authorizers-jwt/</guid>
-<pubDate>Tue, 17 Nov 2026 19:22:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Amazon API Gateway now offers a native JWT authorizer for REST APIs, a new authorizer type that validates JSON Web Tokens directly in the gateway. Until now, validating tokens from an OpenID Connect or OAuth 2.0 identity provider other than Amazon Cognito required a Lambda authorizer. You now configure token validation instead of writing and operating code for it. You can define one or more issuers, the audiences accepted for each, the signing algorithms you permit, and any additional claims a t — AWS What's New / score: 75 (API GatewayのネイティブJWT認証対応)</description>
 </item>
 </channel>
 </rss>
