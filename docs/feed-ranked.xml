@@ -4,8 +4,16 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 20 Nov 2026 10:06:26 +0000</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 12:08:42 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>[95] 【速報】三井住友銀で情報漏えい、最大1400万件</title>
+<link>https://www.47news.jp/15262461.html</link>
+<guid isPermaLink="true">https://www.47news.jp/15262461.html</guid>
+<pubDate>Fri, 20 Nov 2026 10:10:25 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>【速報】三井住友銀で情報漏えい、最大1400万件 三井住友銀行は20日、顧客情報が最大約1400万件漏えいしたと発表した。業務委託先のプレイドのサービスが不正アクセスを受けたため。 — はてなブックマーク テクノロジー / score: 95 (最大1400万件の大規模な情報漏えい事故で影響甚大)</description>
+</item>
 <item>
 <title>[95] 「Ruby」に7件の脆弱性、修正版への更新を強く推奨。リモートコード実行の実証コードが存在／最高深刻度「Critical」。v4.0.10、v3.4.13、v3.3.14が公開</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2157700.html</link>
@@ -39,12 +47,20 @@
 <description>Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API. — OpenAI News / score: 95 (主要なAIモデルのメジャーリリースと機能強化)</description>
 </item>
 <item>
+<title>[90] POS端末700台超がマルウェア感染、Windowsの脆弱性悪用でカード情報100万件超が流出</title>
+<link>https://news.mynavi.jp/techplus/article/20261120-5367457/</link>
+<guid isPermaLink="true">https://news.mynavi.jp/techplus/article/20261120-5367457/</guid>
+<pubDate>Fri, 20 Nov 2026 09:57:14 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>CyberNewsは2026年11月18日(現地時間)、「Over 1 million credit cards stolen in attack spanning 20 countries｜Cybernews」において、20かカ以上に設置された700台超のPOS(販売時点情報管理)端末を標的とするサイバー攻撃が発生し、100万枚を超えるクレジットカードおよびデビットカード情報が窃取されたと報じた。 C... — はてなブックマーク テクノロジー / score: 90 (多数のPOS端末が標的となり被害が広範囲に及ぶ)</description>
+</item>
+<item>
 <title>[90] 政府の内部資料流出か、基幹システムに不正アクセス　デジタル庁発表：朝日新聞</title>
 <link>https://www.asahi.com/articles/ASVCN30WCVCNULFA01NM.html</link>
 <guid isPermaLink="true">https://www.asahi.com/articles/ASVCN30WCVCNULFA01NM.html</guid>
 <pubDate>Fri, 20 Nov 2026 09:31:39 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>デジタル庁は20日、政府の基幹ネットワークシステムに不正アクセスがあり、政府の内部資料が漏洩（ろうえい）した可能性があると発表した。流出した件数や個人情報が含まれていたかなどの詳細については、「調査… — はてなブックマーク テクノロジー / score: 90 (政府基幹システムへの不正アクセスと情報流出)</description>
+<description>デジタル庁は20日、政府の基幹ネットワークシステムに不正アクセスがあり、政府の内部資料が漏洩（ろうえい）した可能性があると発表した。個人情報が含まれている可能性があるが、件数などの詳細については「調… — はてなブックマーク テクノロジー / score: 90 (政府基幹システムへの不正アクセスと情報流出)</description>
 </item>
 <item>
 <title>[90] 「httpS://」だと暗号化されず平文で送信……「PHP」に約20年潜んでいた脆弱性が解決／問題はいたってシンプル、なんともはや……【やじうまの杜】</title>
@@ -101,14 +117,6 @@
 <pubDate>Thu, 19 Nov 2026 20:43:57 +0000</pubDate>
 <category>Simon Willison</category>
 <description>PostgreSQL 19 Released Most years PostgreSQL ships a new release in September, but this year's release came two months later thanks mainly to the flurry of issues that the PostgreSQL team needed to address as part of the ongoing AI-reported vulnerability apocalypse. This release was definitely worth the wait. My favorite new feature is this one: For applications that send reads to standbys, PostgreSQL 19 adds "read-your-writes" consistency with the new WAIT FOR LSN command. A session on a standb — Simon Willison / score: 90 (主要なRDBMSであるPostgreSQL 19のメジャーリリース)</description>
-</item>
-<item>
-<title>[90] 11月に修正されたPHPの脆弱性についてまとめてみた - piyolog</title>
-<link>https://piyolog.hatenadiary.jp/entry/2026/11/20/003148</link>
-<guid isPermaLink="true">https://piyolog.hatenadiary.jp/entry/2026/11/20/003148</guid>
-<pubDate>Thu, 19 Nov 2026 15:54:08 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>2026年11月19日、PHPの開発元であるThe PHP Groupは4系統のセキュリティリリース(PHP 8.5.13、8.4.28、8.3.37、8.2.36)を公開し、複数の脆弱性を修正しました。ここでは関連する情報をまとめます。 どんな脆弱性が修正されたの? The PHP Groupは11月18日、19日14時から14時30分(協定世界時、日本時間23時から23時30分)に... — はてなブックマーク テクノロジー / score: 90 (PHPの複数脆弱性修正に関するセキュリティリリース情報)</description>
 </item>
 <item>
 <title>[90] 「PHP」で17件の脆弱性に対処、認証不要のリモートコード実行につながる“致命的”なものも／v8.5.13、v8.4.28、v8.3.37、v8.2.36が公開</title>
@@ -263,6 +271,14 @@
 <description>Today, we’re introducing Gemini 4 Neon — Gemini (Google Blog) / score: 88 (Googleの新型モデルGemini 4 Neonの発表)</description>
 </item>
 <item>
+<title>[85] イギリス政府がAppleに暗号化データへのアクセスを求める秘密命令を出していたことを正式に認める</title>
+<link>https://gigazine.net/news/20261120-uk-government-apple-secret-encryption-order/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261120-uk-government-apple-secret-encryption-order/</guid>
+<pubDate>Fri, 20 Nov 2026 11:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>イギリス政府がAppleに対して暗号化されたiCloudのデータにアクセスできるよう求める秘密命令を出していたことが、2026年11月19日に公開された裁判所の判断で正式に確認されました。イギリス政府は命令の存在について肯定も否定もしない姿勢を続けていましたが、裁判所は命令の存在を公表しても国家安全保障に悪影響はないと判断しました。 続きを読む... — GIGAZINE / score: 85 (政府による暗号化データアクセス要求の公式確認)</description>
+</item>
+<item>
 <title>[85] 作戦名は「エンドゲーム」。FBIなど9カ国の捜査機関がマルウェアの配布網を一斉摘発</title>
 <link>https://www.gizmodo.jp/article/2611-operation-endgame-malware-fbi-raid/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/2611-operation-endgame-malware-fbi-raid/</guid>
@@ -325,14 +341,6 @@
 <pubDate>Fri, 20 Nov 2026 02:00:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>プログラミングの専門知識がなくてもAIでウェブアプリを作れるサービス「Lovable」で開発された一部のアプリで、パスポート情報や20万件超のプライベートなメッセージを非ログイン状態で閲覧できたとドイツのセキュリティ企業であるCrissy Fieldと、ドイツの経済紙「ハンデルスブラット」が報告しました。 続きを読む... — GIGAZINE / score: 85 (AI製アプリにおける大規模な情報露出の判明)</description>
-</item>
-<item>
-<title>[85] Anthropic上場。創業者7人、全員が資産約4兆円に</title>
-<link>https://www.gizmodo.jp/article/2611-anthropic-ipo-2-trillion-valuation/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-anthropic-ipo-2-trillion-valuation/</guid>
-<pubDate>Fri, 20 Nov 2026 00:35:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>アンソロピックがナスダックに上場し、時価総額2兆ドル規模の巨大企業となりました。 — ギズモード・ジャパン / score: 85 (主要AI企業の巨大な上場ニュース)</description>
 </item>
 <item>
 <title>[85] Microsoft、｢Windows 11｣で11月のセキュリティ更新適用後にOfficeや一部アプリが起動できなくなる問題を認める——企業環境のシステムに影響</title>
@@ -559,6 +567,14 @@
 <description>JEP 401 (Value Objects) arrives in OpenJDK as a preview feature, enabling a new Java type model with minimal code changes. The talk explains what value objects are, JVM benefits, Valhalla history, implementation details, and the path toward bridging objects and primitives, including future support like List&lt;int&gt;. — Inside Java / score: 82 (Java Valhallaプロジェクトの解説と進化)</description>
 </item>
 <item>
+<title>[80] 「Windows Server 2028」で「WSUS」や「SMB 1.0」、「VBScript」などが削除へ／「Windows PowerShell 5.1」「WDS」は非推奨に、レガシーBIOSでの起動も不可</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2158261.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2158261.html</guid>
+<pubDate>Fri, 20 Nov 2026 10:05:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>先日パブリックプレビューが始まった次期サーバーOS「Windows Server 2028」には、削除・非推奨となる機能がある。米Microsoftが自社のドキュメントサイトで明らかにしている。 — 窓の杜 / score: 80 (次期Windows Serverでのレガシー機能削除)</description>
+</item>
+<item>
 <title>[80] AIが追加学習なしで自らのウェイトを書き換えて「自分自身を賢くする」ことに成功</title>
 <link>https://gigazine.net/news/20261120-large-language-model-can-rewrite-itself/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261120-large-language-model-can-rewrite-itself/</guid>
@@ -567,20 +583,12 @@
 <description>大規模言語モデル(LLM)は通常、学習が完了すると内部のウェイト(重み)が固定され、性能を向上させるには追加学習などが必要になります。こうした従来の仕組みとは異なり、AIが自分自身のウェイトを分析して書き換え、性能を向上させられることを示した研究論文が発表されました。研究チームは、この成果がAIによる「再帰的自己改善」の実現につながる可能性があるとしています。 続きを読む... — GIGAZINE / score: 80 (AIの自己ウェイト書き換えに関する先進的研究)</description>
 </item>
 <item>
-<title>[80] 「ポケットチェンジ」パスポート番号2万件余流出 | NHKニュース</title>
-<link>https://news.web.nhk/newsweb/na/nd-20261120de78976</link>
-<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261120de78976</guid>
-<pubDate>Fri, 20 Nov 2026 05:59:59 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>通貨を電子マネーに交換する端末などを運営する「ポケットチェンジ」は、不正アクセスの影響で顧客のパスポート番号最大2万4000件あまりが外部に流出したと明らかにしました。 この会社が手がけるほかのサー… — はてなブックマーク テクノロジー / score: 80 (個人情報の大量流出インシデントに関する報道)</description>
-</item>
-<item>
 <title>[80] 「Microsoft To Do」アプリが2027年6月で廃止、個人の場合は別アプリへの乗り換えが必要に／法人向けは「Planner」が後継</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2158040.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2158040.html</guid>
-<pubDate>Fri, 20 Nov 2026 05:10:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Microsoftは、タスク管理アプリ「Microsoft To Do」を段階的に廃止すると発表した。Web、Windows、Mac、iOS、Androidの「Microsoft To Do」アプリは、2027年6月30日をもって終了する。 — 窓の杜 / score: 80 (主要タスク管理アプリの廃止発表。)</description>
+<pubDate>Fri, 20 Nov 2026 06:00:17 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>「Microsoft To Do」アプリが2027年6月で廃止、個人の場合は別アプリへの乗り換えが必要に／法人向けは「Planner」が後継 — はてなブックマーク テクノロジー / score: 80 (主要タスク管理アプリの廃止発表。)</description>
 </item>
 <item>
 <title>[80] AWS Lambda、Lambda Managed InstancesでGPUインスタンスに対応</title>
@@ -719,6 +727,14 @@
 <description>OpenAIはChatGPTなどの自社製品の開発にCodexを活用しています。新たに「Codexを用いてChatGPTの高速性を維持する方法」という解説記事が公開されました。 続きを読む... — GIGAZINE / score: 75 (OpenAIによる開発効率化の解説記事)</description>
 </item>
 <item>
+<title>[75] GeminiがMacを代わりに操作可能に　アプリやファイルをまたぐ作業も自動化</title>
+<link>https://japan.cnet.com/article/35255218/</link>
+<guid isPermaLink="true">https://japan.cnet.com/article/35255218/</guid>
+<pubDate>Fri, 20 Nov 2026 06:19:30 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>どのアプリへのアクセスを許可するかはユーザーが選択する。実行中の作業はいつでも一時停止でき、重要な操作に移る前にはユーザーに承認が求められる。アプリをまたぐ作業を任せたい場合は、使うアプリや参照するファイル、成果物を指示に含められる。 使い方の例として、Googleは複数地域のダッシュボードから数値やス... — はてなブックマーク テクノロジー / score: 75 (GeminiによるOS操作自動化の新機能)</description>
+</item>
+<item>
 <title>[75] Android開発者認証が2027年1月から世界展開開始</title>
 <link>https://gigazine.net/news/20261120-android-developer-verification-expanding/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261120-android-developer-verification-expanding/</guid>
@@ -789,22 +805,6 @@
 <pubDate>Thu, 19 Nov 2026 09:04:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Mozillaは11月10日（現地時間）、ブラウザーフィンガープリンティングに関する大規模な研究の成果を公式ブログ「Mozilla Security Blog」で明らかにした。約2,500万人の「Firefox」ユーザーから集めた計測データを分析し、ユーザーの識別に利用されている情報を特定。その知見をもとに、「Firefox」のフィンガープリンティング対策を強化したという。 — 窓の杜 / score: 75 (Firefoxの大規模データに基づく指紋対策強化)</description>
-</item>
-<item>
-<title>[75] AWS Network Firewall launches explicit proxy functionality and NAT Gateway association</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/11/network-firewall-proxy-nat-gateway/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/network-firewall-proxy-nat-gateway/</guid>
-<pubDate>Thu, 19 Nov 2026 08:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>You can now associate AWS Network Firewall with NAT Gateway and use it both as an explicit proxy and a transparent firewall with native network address translation. You can use this capability with existing Network Firewall features to filter traffic to and from your applications and prevent data exfiltration and malware injection. AWS Network Firewall is a stateful, managed, network firewall and intrusion detection and prevention service for your VPC. Customers use it to filter their traffic an — AWS What's New / score: 75 (Network Firewallのプロキシ機能追加)</description>
-</item>
-<item>
-<title>[75] AWS Network Load Balancer now supports mutual TLS authentication</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/11/network-load-balancer-mtls/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/network-load-balancer-mtls/</guid>
-<pubDate>Thu, 19 Nov 2026 08:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>AWS Network Load Balancer (NLB) now supports mutual TLS (mTLS) authentication for clients that present X.509 certificates. Until now, customers who needed mTLS with NLB built their own solutions or ran third-party proxies to authenticate clients. With this launch, NLB verifies client certificates on its TLS listeners, so only trusted clients can reach your targets. You can offload the compute-intensive processing required for mTLS authentication to NLB, without adding certificate logic to your b — AWS What's New / score: 75 (NLBの相互TLS認証（mTLS）サポート)</description>
 </item>
 </channel>
 </rss>
