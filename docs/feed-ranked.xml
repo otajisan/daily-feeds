@@ -4,15 +4,15 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 20 Nov 2026 00:15:07 +0000</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 02:08:51 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
-<title>[95] サーバーソフト「nginx」に脆弱性、日本人ハッカーら発見 - 日本経済新聞</title>
-<link>https://www.nikkei.com/article/DGXZQOUC191DA0Z11C26A1000000/</link>
-<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUC191DA0Z11C26A1000000/</guid>
-<pubDate>Thu, 19 Nov 2026 06:16:47 +0000</pubDate>
+<title>[95] プログラム言語「PHP」に新たな脆弱性　サービス停止の恐れ - 日本経済新聞</title>
+<link>https://www.nikkei.com/article/DGXZQOUC19BMQ0Z11C26A1000000/</link>
+<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUC19BMQ0Z11C26A1000000/</guid>
+<pubDate>Thu, 19 Nov 2026 13:40:38 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>日本のサイトの約6割で使われているとされるサーバーソフト「nginx（エンジンエックス）」に重大な脆弱性があることが19日、わかった。日本のホワイトハッカーや米グーグル傘下企業などが発見した。開発元はサイバー攻撃のおそれがあるとして早期の対応を呼びかけている。エンジンエックスは、インターネット利用者の端... — はてなブックマーク テクノロジー / score: 95 (nginxの重大な脆弱性発見に関する緊急ニュース)</description>
+<description>世界のウェブサイトの約7割に使われているとされるプログラム言語「PHP」に重大なサイバー上の脆弱性が新たに見つかったことが19日、わかった。運営団体は同日午後11時すぎ（日本時間）に修正プログラムを公表する。サービス停止などの影響が生じる可能性がある。PHPは世界のサイトの69%で使われているとされる。運営団... — はてなブックマーク テクノロジー / score: 95 (PHPの重大な脆弱性とサービス停止の恐れ)</description>
 </item>
 <item>
 <title>[95] 「Ruby」に7件の脆弱性、修正版への更新を強く推奨。リモートコード実行の実証コードが存在／最高深刻度「Critical」。v4.0.10、v3.4.13、v3.3.14が公開</title>
@@ -45,6 +45,14 @@
 <pubDate>Tue, 17 Nov 2026 17:45:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API. — OpenAI News / score: 95 (主要なAIモデルのメジャーリリースと機能強化)</description>
+</item>
+<item>
+<title>[90] 湘南美容クリニックのSBC、162万人分の個人情報流出　パスワードは「暗号化せず保存していた」</title>
+<link>https://www.itmedia.co.jp/news/article/2611/20/2000003355/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/20/2000003355/</guid>
+<pubDate>Thu, 19 Nov 2026 23:45:17 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>湘南美容クリニックなどを展開するSBCメディカルグループは11月19日、グループの医療機関から委託を受けて保有するデータベースが不正アクセスを受け、氏名や住所、パスワードなどを含む顧客の個人情報162万4000人分などが不正に取得されたと発表した。流出したパスワードは「暗号化せずに保存していた」という。 外部の... — はてなブックマーク テクノロジー / score: 90 (大規模な個人情報流出と不適切なパスワード管理)</description>
 </item>
 <item>
 <title>[90] PostgreSQL 19 Released</title>
@@ -239,12 +247,36 @@
 <description>Today, we’re introducing Gemini 4 Neon — Gemini (Google Blog) / score: 88 (Googleの新型モデルGemini 4 Neonの発表)</description>
 </item>
 <item>
+<title>[85] AIサービス「Lovable」で作ったアプリのパスポート情報や20万件超のプライベートなメッセージがログインしなくても閲覧できたと判明</title>
+<link>https://gigazine.net/news/20261120-lovable-apps-data-exposure/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261120-lovable-apps-data-exposure/</guid>
+<pubDate>Fri, 20 Nov 2026 02:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>プログラミングの専門知識がなくてもAIでウェブアプリを作れるサービス「Lovable」で開発された一部のアプリで、パスポート情報や20万件超のプライベートなメッセージを非ログイン状態で閲覧できたとドイツのセキュリティ企業であるCrissy Fieldと、ドイツの経済紙「ハンデルスブラット」が報告しました。 続きを読む... — GIGAZINE / score: 85 (AI製アプリにおける大規模な情報露出の判明)</description>
+</item>
+<item>
+<title>[85] Anthropic上場。創業者7人、全員が資産約4兆円に</title>
+<link>https://www.gizmodo.jp/article/2611-anthropic-ipo-2-trillion-valuation/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-anthropic-ipo-2-trillion-valuation/</guid>
+<pubDate>Fri, 20 Nov 2026 00:35:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>アンソロピックがナスダックに上場し、時価総額2兆ドル規模の巨大企業となりました。 — ギズモード・ジャパン / score: 85 (主要AI企業の巨大な上場ニュース)</description>
+</item>
+<item>
 <title>[85] Microsoft、｢Windows 11｣で11月のセキュリティ更新適用後にOfficeや一部アプリが起動できなくなる問題を認める——企業環境のシステムに影響</title>
 <link>https://taisy0.com/2026/11/20/230678.html</link>
 <guid isPermaLink="true">https://taisy0.com/2026/11/20/230678.html</guid>
 <pubDate>Thu, 19 Nov 2026 23:18:29 +0000</pubDate>
 <category>気になる、記になる…</category>
 <description>Neowinによると、Microsoftが、先日に配信した「Windows 11」向けのセキュリティ更新「ホットパッチ」を適用すると、Microsoft Officeやサードパーティ製の一部のアプリが起動しなくなるなどの […] — 気になる、記になる… / score: 85 (Win11の更新でアプリが起動しなくなる重大な不具合。)</description>
+</item>
+<item>
+<title>[85] phpAfterShell: From Interrupted Session Writes to Remote Code Execution | depthfirst</title>
+<link>https://depthfirst.com/research/phpaftershell</link>
+<guid isPermaLink="true">https://depthfirst.com/research/phpaftershell</guid>
+<pubDate>Thu, 19 Nov 2026 23:08:38 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>phpAfterShell: From Interrupted Session Writes to Remote Code Execution TL;DR: PHP can update a file-backed session while parsing an unauthenticated multipart request, even before the target script begins execution. We discovered reliable methods to interrupt the file operation during session upl... — はてなブックマーク テクノロジー / score: 85 (PHPのセッション処理に関する脆弱性とRCE)</description>
 </item>
 <item>
 <title>[85] 【速報】Anthropicが上場。初値は111.50ドル、公開価格を34%上回る</title>
@@ -271,22 +303,6 @@
 <description>SBCメディカルグループは11月19日、湘南美容クリニックなどの利用者の個人情報が不正アクセスによって流出したと発表した。氏名や連絡先などを含む個人情報162万4000人分のほか、予約の申し込み情報や相談内容なども流出した。流出した情報には、当時暗号化せずに保存していたパスワードも含まれる。 162万4000人分は201... — はてなブックマーク テクノロジー / score: 85 (湘南美容クリニックの162万人分の大規模情報流出)</description>
 </item>
 <item>
-<title>[85] 【事前準備のお願い】PHPのセキュリティリリース公開予定について（11月） | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構</title>
-<link>https://www.ipa.go.jp/security/security-alert/2026/pre-alert20261119.html</link>
-<guid isPermaLink="true">https://www.ipa.go.jp/security/security-alert/2026/pre-alert20261119.html</guid>
-<pubDate>Thu, 19 Nov 2026 10:40:49 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>2026年10月に公表した PHPの脆弱性（CVE-2026-109618、CVE-2026-109619：PHP2shell)の予告時とは異なり、「デフォルトではない設定、または、一般的ではないセットアップ」で影響するものとの記載がなされております。 本情報の対象となる脆弱性について、本ページ公開時点でIPAが悪用した攻撃を確認しているわけではあ... — はてなブックマーク テクノロジー / score: 85 (PHPの脆弱性と事前準備に関するIPAからの重要注意喚起)</description>
-</item>
-<item>
-<title>[85] 物流代行サービス「オープンロジ」への不正アクセスについてまとめてみた - piyolog</title>
-<link>https://piyolog.hatenadiary.jp/entry/2026/11/19/183634</link>
-<guid isPermaLink="true">https://piyolog.hatenadiary.jp/entry/2026/11/19/183634</guid>
-<pubDate>Thu, 19 Nov 2026 09:59:00 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>2026年11月11日、物流代行サービスのオープンロジは同社のシステムが外部の第三者による不正アクセスを受け、保有する出荷データに含まれるお届け先の個人情報などが外部に持ち出されたと公表しました。その後、荷主や委託元の多数が自社の顧客や届け先への影響や影響の可能性を公表しています。ここでは関連する情報を... — はてなブックマーク テクノロジー / score: 85 (物流代行サービスの不正アクセスと個人情報流出)</description>
-</item>
-<item>
 <title>[85] Google、Gemini 4 Neonを発表 ——Carbonをもとに開発、複雑な作業をより短時間で</title>
 <link>https://gihyo.jp/article/2026/11/gemini-4-neon?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/11/gemini-4-neon?utm_source=feed</guid>
@@ -303,20 +319,20 @@
 <description>AWS Site-to-Site VPN now supports post-quantum key exchanges to help improve the security posture of your VPN tunnels. This feature supports your migration to post-quantum cryptography based on NIST guidelines. AWS Site-to-Site VPN is a fully managed service that creates an encrypted connection between your data center or branch office and your AWS resources using IPsec tunnels. With AWS Site-to-Site VPN, you can now configure post-quantum key exchange methods in your VPN tunnel options using th — AWS What's New / score: 85 (VPNの耐量子暗号鍵交換サポート)</description>
 </item>
 <item>
+<title>[85] Ruby2Shell (GHSA-34m4-m9fh-gqp5)</title>
+<link>https://verialabs.com/ruby2shell/</link>
+<guid isPermaLink="true">https://verialabs.com/ruby2shell/</guid>
+<pubDate>Thu, 19 Nov 2026 07:31:46 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>ruby2ßhell A one-byte heap overflow to remote code execution in Ruby's string case conversion. Reachable without authentication in the default configuration of common Ruby web frameworks and self-hosted software. — はてなブックマーク テクノロジー / score: 85 (Rubyの文字列変換に関する重大な脆弱性)</description>
+</item>
+<item>
 <title>[85] 六花亭 セキュリティコード流出か</title>
 <link>https://news.yahoo.co.jp/pickup/6603168?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6603168?source=rss</guid>
 <pubDate>Thu, 19 Nov 2026 07:20:54 +0000</pubDate>
 <category>Yahoo!ニュース IT</category>
 <description> — Yahoo!ニュース IT / score: 85 (企業のセキュリティコード流出の可能性に関する速報)</description>
-</item>
-<item>
-<title>[85] Googleが投下した強力な新AI「Gemini 4 Neon」。“どのAIが最適か？”を変えちゃうところがある</title>
-<link>https://www.gizmodo.jp/article/2611-gemini-4-neon-google-ai/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-gemini-4-neon-google-ai/</guid>
-<pubDate>Thu, 19 Nov 2026 05:15:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>7週間で4モデルは頭パンクする。2026年11月19日、Googleが新しいAI「Gemini 4 Neon」をリリースしました。フロンティアレベルの性能を有し、複雑なソフトウェア開発やナレッジワーク、サイエンス関連の作業をすばやく最初から… — ギズモード・ジャパン / score: 85 (Googleの新型AIモデルリリースに関する重要ニュース)</description>
 </item>
 <item>
 <title>[85] 相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ</title>
@@ -533,6 +549,14 @@
 <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
 <category>Inside Java</category>
 <description>JEP 401 (Value Objects) arrives in OpenJDK as a preview feature, enabling a new Java type model with minimal code changes. The talk explains what value objects are, JVM benefits, Valhalla history, implementation details, and the path toward bridging objects and primitives, including future support like List&lt;int&gt;. — Inside Java / score: 82 (Java Valhallaプロジェクトの解説と進化)</description>
+</item>
+<item>
+<title>[80] Checking for NGINX2Root and Java4Shell with Threats in Devin Security | Devin</title>
+<link>https://devin.ai/blog/nginx2root-java4shell-threats</link>
+<guid isPermaLink="true">https://devin.ai/blog/nginx2root-java4shell-threats</guid>
+<pubDate>Fri, 20 Nov 2026 00:26:29 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Helping customers scan for and patch the recently disclosed NGINX2Root and Java4Shell vulnerabilities with Threats in Devin Security. — はてなブックマーク テクノロジー / score: 80 (セキュリティツールによる脆弱性スキャンの話題)</description>
 </item>
 <item>
 <title>[80] AWS Lambda、Lambda Managed InstancesでGPUインスタンスに対応</title>
@@ -759,14 +783,6 @@
 <description>! 2026-11-19 時点の情報です。この記事の動作は、typescript@next で入る 7.1.0-dev.20261118.1 で確かめています。公式の Iteration Plan では、Stable は 2026-11-24 の予定です。Content Mapper の API は、Stable に向けて安定化している途中で、細部が変わる可能性があります。 はじめに Content Mapper は、TypeScript 7.1 で入る仕組みです。実装の PR（typescript-go#4712）では、TypeScript が本来は読めない種類のファイルを、プロ... — Zenn トレンド / score: 75 (TypeScriptの新機能による開発フローの改善)</description>
 </item>
 <item>
-<title>[75] ゲームのように移動可能な世界を生成できるAI「Genie 4」をGoogleが正式リリース、参照画像を入力したり途中で環境を変更したりできる</title>
-<link>https://gigazine.net/news/20261119-google-genie-4/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261119-google-genie-4/</guid>
-<pubDate>Thu, 19 Nov 2026 02:07:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>Googleがインタラクティブな仮想世界を生成できる世界モデル「Genie 4」を正式リリースしました。 続きを読む... — GIGAZINE / score: 75 (ゲーム生成AIの最新リリースで注目度が高い)</description>
-</item>
-<item>
 <title>[75] Explore the Codex Security Plugin</title>
 <link>https://openai.com/business/learn/codex-security-plugin-demo</link>
 <guid isPermaLink="true">https://openai.com/business/learn/codex-security-plugin-demo</guid>
@@ -789,22 +805,6 @@
 <pubDate>Wed, 18 Nov 2026 18:00:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>AWS Lambda now supports GPU-accelerated Event Functions on Lambda Managed Instances using EC2 G-series instances . You can now run GPU-accelerated workloads including AI inference, media processing, 3D rendering, scientific computing, and financial simulations on Lambda without managing GPU drivers, frameworks, or scaling. Lambda runs multiple invocations concurrently in each execution environment and scales responsively based on GPU utilization, CPU utilization, and concurrency to keep your GPU — AWS What's New / score: 75 (AWS LambdaでのGPUインスタンスサポート追加)</description>
-</item>
-<item>
-<title>[75] マイクロソフト、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始</title>
-<link>https://www.publickey1.jp/blog/26/aiaimicrosoft_perception.html</link>
-<guid isPermaLink="true">https://www.publickey1.jp/blog/26/aiaimicrosoft_perception.html</guid>
-<pubDate>Wed, 18 Nov 2026 16:00:37 +0000</pubDate>
-<category>Publickey</category>
-<description>マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、AIによるサイバー攻撃に対抗するためのAIエージェントによる新サービス「Microsoft Perception」の提供開始を発... — Publickey / score: 75 (マイクロソフトのAIセキュリティ新サービスの発表)</description>
-</item>
-<item>
-<title>[75] Amazon ElastiCache now supports distributed KV caching for self-hosted LLM inference</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/11/announcing-distributed-kv-caching-for-self-hosted-llms-with-amazon-elasticache/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/announcing-distributed-kv-caching-for-self-hosted-llms-with-amazon-elasticache/</guid>
-<pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Amazon ElastiCache for Valkey now offers fully managed distributed KV caching, a new capability that reduces self-hosted large language model (LLM) inference costs by up to 40% and time to first token (TTFT) by up to 80%. Customers who self-host LLMs pay for redundant GPU work because small, isolated caches on each server can't hold or share the growing context AI agents and chat applications resend. Distributed KV caching extends GPU-local caches with a shared tier so any server can reuse KV st — AWS What's New / score: 75 (ElastiCacheによるLLM推論コスト削減機能の提供)</description>
 </item>
 </channel>
 </rss>
