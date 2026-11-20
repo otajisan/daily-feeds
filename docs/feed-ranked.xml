@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 20 Nov 2026 20:06:10 +0000</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 22:06:00 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 【速報】三井住友銀で情報漏えい、最大1400万件</title>
@@ -125,6 +125,14 @@
 <pubDate>Fri, 20 Nov 2026 06:28:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>PostgreSQL Global Development Groupは11月19日、オープンソースのリレーショナルデータベース（RDB）システム「PostgreSQL 19」を正式リリースした。大規模なワークロードにおける管理と開発の両方を簡素化することに重点が置かれている。 — 窓の杜 / score: 90 (主要なRDBであるPostgreSQL 19の正式リリース)</description>
+</item>
+<item>
+<title>[90] PHP が再び重大な脆弱性を修正。その修正版はもうあなたの PHP に届いているのか、公開から9時間で6つの入手先を調べたら、Ubuntu と brew install php はまだだった</title>
+<link>https://qiita.com/suwa_nobu/items/83e35e3be86b236cc807?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/suwa_nobu/items/83e35e3be86b236cc807?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Fri, 20 Nov 2026 03:16:58 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>「PHPが再び重大脆弱性を修正へ」（ITmedia、11月19日）。10月に続いて、PHP のセキュリティ修正が出ました。 PHP の公式サイトは前日に「Upcoming Critical PHP Security Release」と予告し、11月19日 14:00〜14:... — Qiita 人気記事 / score: 90 (PHPの重大なセキュリティ脆弱性と修正版の配信状況)</description>
 </item>
 <item>
 <title>[90] 「WordPress 7.1.5」が公開、認証なしでリモートコード実行につながる脆弱性などを修正／前回から3週間でのセキュリティリリース、速やかなアップデートを</title>
@@ -639,14 +647,6 @@
 <description>先日パブリックプレビューが始まった次期サーバーOS「Windows Server 2028」には、削除・非推奨となる機能がある。米Microsoftが自社のドキュメントサイトで明らかにしている。 — 窓の杜 / score: 80 (次期Windows Serverでのレガシー機能削除)</description>
 </item>
 <item>
-<title>[80] スーパーコンピュータ「富岳」および「理究（りきゅう）」への不正アクセスに関する調査状況について（第2報） | 理化学研究所</title>
-<link>https://www.riken.jp/pr/news/2026/20261120_1/index.html</link>
-<guid isPermaLink="true">https://www.riken.jp/pr/news/2026/20261120_1/index.html</guid>
-<pubDate>Fri, 20 Nov 2026 07:45:40 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>利用者の皆さまをはじめ、関係者の皆さまに多大なご心配とご迷惑をおかけしておりますことを、改めて深くお詫び申し上げます。 理化学研究所（理研）計算科学研究センターが運用するスーパーコンピュータ「富岳」および「理究」への不正アクセスについて、11月16日のプレスリリース（第1報）以降の調査で判明した、現時... — はてなブックマーク テクノロジー / score: 80 (スパコン富岳等への不正アクセス問題の調査)</description>
-</item>
-<item>
 <title>[80] 「KARTE」への不正アクセスに関する当社調査結果と、サービス再開の見通し等のお知らせ</title>
 <link>https://plaid.co.jp/news/20261120/</link>
 <guid isPermaLink="true">https://plaid.co.jp/news/20261120/</guid>
@@ -671,20 +671,20 @@
 <description> — CodeZine / score: 80 (AWS LambdaがGPUインスタンスに対応した重要アップデート)</description>
 </item>
 <item>
-<title>[80] Amazon Inspector Code Security adds GitHub Enterprise Server and private connectivity</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/11/inspector-code-ghes-private-network/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/inspector-code-ghes-private-network/</guid>
-<pubDate>Thu, 19 Nov 2026 08:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Amazon Inspector Code Security now supports GitHub Enterprise Server (GHES) integration and private network connectivity for GHES and GitLab Self-Managed. Code Security is also launching automatic fix pull requests in public preview. Organizations that host GHES or GitLab Self-Managed in private networks can now connect through Amazon Virtual Private Cloud (Amazon VPC) configurations or AWS CodeConnections, so they can scan repositories without opening their firewalls to the entire AWS IP addres — AWS What's New / score: 80 (Inspectorのコードセキュリティ強化)</description>
-</item>
-<item>
 <title>[80] Microsoft、次期WindowsからPowerShell 7を標準搭載へ、Windows PowerShell 5.1の非推奨化も発表</title>
 <link>https://gihyo.jp/article/2026/11/powershell-7-in-next-windows?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/11/powershell-7-in-next-windows?utm_source=feed</guid>
 <pubDate>Thu, 19 Nov 2026 02:54:53 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Microsoftは2026年11月17日、次期Windows[1]からPowerShell 7を標準搭載すると発表した。同日、Windows PowerShell 5.1を非推奨とした。 — gihyo.jp / score: 80 (PowerShell 7の標準搭載と旧版非推奨化)</description>
+</item>
+<item>
+<title>[80] Spring Batch 6.1 is now GA!</title>
+<link>https://spring.io/blog/2026/11/19/spring-batch-6-1-0-available-now</link>
+<guid isPermaLink="true">https://spring.io/blog/2026/11/19/spring-batch-6-1-0-available-now</guid>
+<pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+<category>Spring Blog</category>
+<description>On behalf of the team and all contributors, I am pleased to announce that Spring Batch 6.1 is available from Maven Central now! This release brings a number of new features, enhancements and bug fixes, as well as a few breaking changes, on top of 6.0 . For the complete list of changes, please check the release notes . This blog post walks you through the major changes in 6.1 : Dependencies upgrade @JobParameter annotation for injecting job parameters New PageableItemReader Location patterns for  — Spring Blog / score: 80 (Spring Batch 6.1のメジャーリリース)</description>
 </item>
 <item>
 <title>[80] ［速報］マイクロソフト、PostgreSQL互換のミッションクリティカル向けデータベースサービス「Azure HorizonDB」正式リリース</title>
@@ -783,6 +783,14 @@
 <description>【シリコンバレー=山田航平】台湾積体電路製造（TSMC）や韓国サムスン電子が中国向けの半導体出荷を一部停止したことが19日までに分かった。米政府が人工知能（AI）半導体の対中輸出を厳しくする方針を示したことを受けて対応を変えた。中国ではAI開発への影響を警戒する声が出始めた。英紙フィナンシャル・タイムズは同... — はてなブックマーク テクノロジー / score: 75 (半導体輸出規制に伴うTSMC等の対中出荷停止の動き)</description>
 </item>
 <item>
+<title>[75] GeminiがMacを代わりに操作可能に　アプリやファイルをまたぐ作業も自動化</title>
+<link>https://japan.cnet.com/article/35255218/</link>
+<guid isPermaLink="true">https://japan.cnet.com/article/35255218/</guid>
+<pubDate>Fri, 20 Nov 2026 06:19:30 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>どのアプリへのアクセスを許可するかはユーザーが選択する。実行中の作業はいつでも一時停止でき、重要な操作に移る前にはユーザーに承認が求められる。アプリをまたぐ作業を任せたい場合は、使うアプリや参照するファイル、成果物を指示に含められる。 使い方の例として、Googleは複数地域のダッシュボードから数値やス... — はてなブックマーク テクノロジー / score: 75 (GeminiによるOS操作自動化の新機能)</description>
+</item>
+<item>
 <title>[75] Android開発者認証が2027年1月から世界展開開始</title>
 <link>https://gigazine.net/news/20261120-android-developer-verification-expanding/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261120-android-developer-verification-expanding/</guid>
@@ -797,14 +805,6 @@
 <pubDate>Fri, 20 Nov 2026 05:27:12 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Googleは11月18日（現地時間）、世界モデル（ワールドモデル）「Genie 4」を「Project Genie」に導入したと発表した。現在、条件を満たす「Google AI Ultra」のサブスクライバーへ順次展開中。「Google AI Pro」契約者はウェイトリストに登録できる。 — 窓の杜 / score: 75 (Googleの新世界モデルの提供開始。)</description>
-</item>
-<item>
-<title>[75] Windows PCを複数台接続して1個のAI処理クラスターとして扱う機能「RDMA over USB4」をMicrosoftが発表、USBケーブルのみで接続可能で専用機材不要</title>
-<link>https://gigazine.net/news/20261120-rdma-over-usb4-windows/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261120-rdma-over-usb4-windows/</guid>
-<pubDate>Fri, 20 Nov 2026 02:36:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>MicrosoftがWindows搭載PC同士をUSB4ケーブルで相互接続する機能「RDMA over USB4」を発表しました。PC同士を相互接続することで、メモリやGPU計算能力を共有して大型のAIモデルを高速実行することができます。 続きを読む... — GIGAZINE / score: 75 (USB4でPC間接続しAI処理を共有する新機能の発表)</description>
 </item>
 </channel>
 </rss>
