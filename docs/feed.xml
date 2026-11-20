@@ -4,8 +4,56 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 20 Nov 2026 18:07:40 +0000</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 20:06:10 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Amazon SageMaker JumpStart now offers a model leaderboard to compare models on quality, speed, and cost</title>
+<link>https://aws.amazon.com/whats-new/2026/1/sagemaker-jumpstart-model-leaderboard/</link>
+<guid isPermaLink="true">https://aws.amazon.com/whats-new/2026/1/sagemaker-jumpstart-model-leaderboard/</guid>
+<pubDate>Fri, 20 Nov 2026 19:27:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon SageMaker JumpStart now offers a model leaderboard in Amazon SageMaker Studio. You can use it to compare foundation models side by side on throughput, latency, and cost, and then deploy or customize the model that fits your workload. Comparing models has usually meant reading model cards one at a time and relying on benchmark scores that different sources published under different conditions. The JumpStart leaderboard puts consistent measurements in one view. AWS evaluates every model on  — AWS What's New / score: 60 (SageMakerのモデル比較機能追加のアップデート)</description>
+</item>
+<item>
+<title>Quoting Ravi Vakil</title>
+<link>https://simonwillison.net/2026/Nov/20/ravi-vakil/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Nov/20/ravi-vakil/</guid>
+<pubDate>Fri, 20 Nov 2026 19:21:49 +0000</pubDate>
+<category>Simon Willison</category>
+<description>Alessandro Masullo has a proposed proof of [Generalized Riemann Hypothesis], and Brian Conrad has been looking closely at it for months and gave extensive feedback which is being incorporated, and it is so far looking good. It is all human, with no AI. The hope was to bring Alessandro to Stanford for a year to polish the writing and then announce it after running it by enough people. Now it seems best to put out the current draft. — Ravi Vakil , Hurried Announcement: Alessandro Masullo GRH Tags: — Simon Willison / score: 40 (数学の難問証明に関する進捗についての言及)</description>
+</item>
+<item>
+<title>AWS Glue Data Catalog introduces data quality monitoring for catalogs and databases</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/glue-catalog-data-quality-monitoring/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/glue-catalog-data-quality-monitoring/</guid>
+<pubDate>Fri, 20 Nov 2026 19:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS Glue Data Catalog introduces data quality monitoring for catalogs and databases, powered by AWS Glue Data Quality, which profiles and evaluates your tables at catalog scale from a single configuration. You define data quality checks once for a catalog, a database, or a single table, and AWS Glue Data Quality evaluates every table in scope, including tables added later, on the cadence you choose. Quality issues surface as data changes, without per-table setup or manual runs, which helps keep  — AWS What's New / score: 55 (AWS Glueのデータ品質モニタリング機能追加)</description>
+</item>
+<item>
+<title>AWS Pricing Calculator now estimates workload costs through a new API</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/aws-pricing-calculator-api/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/aws-pricing-calculator-api/</guid>
+<pubDate>Fri, 20 Nov 2026 18:35:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS Pricing Calculator now offers GetUsageLinesEstimatedCost, a new API that returns the estimated cost of a planned workload in a single API call. You send up to 500 usage lines in one request and get the cost back right away, without saving an estimate to your account. While workload estimates let you create and save an estimate in Pricing Calculator, GetUsageLinesEstimatedCost returns a cost on demand, directly in your own tools and workflows. You can choose from three rate types: public On-D — AWS What's New / score: 45 (AWS料金計算のAPIサポート追加)</description>
+</item>
+<item>
+<title>AWS Billing and Cost Management now offers APIs to track payment status</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/aws-billing-cost-management-apis-payment-status/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/aws-billing-cost-management-apis-payment-status/</guid>
+<pubDate>Fri, 20 Nov 2026 18:30:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Today, AWS Billing and Cost Management announces new APIs that let you view your AWS payment information through the AWS SDKs and the AWS CLI. With these APIs, you can check your account balance, find invoices that are due or past due, see which payments and credit memos were applied to each invoice, and confirm that the payment methods on your account are active. You can call the APIs from your own tools or through an AI agent. Previously, finance teams had to sign in to the console to find pas — AWS What's New / score: 45 (AWS請求管理の支払い状況追跡API追加)</description>
+</item>
+<item>
+<title>Amazon EventBridge Scheduler adds 589 new API actions and event bus targets</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/eventbridge-scheduler-new-api-actions/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/eventbridge-scheduler-new-api-actions/</guid>
+<pubDate>Fri, 20 Nov 2026 18:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon EventBridge Scheduler expands its AWS SDK integrations with 589 new API actions across 81 AWS services, and adds templated targets for the enhanced EventBridge Custom event bus. You can now schedule direct invocations of a broader set of AWS services without writing custom integration code. EventBridge Scheduler is a serverless scheduler that allows you to create, run, and manage billions of scheduled events and tasks across more than 270 AWS services, without provisioning or managing the — AWS What's New / score: 60 (EventBridge Schedulerの大規模なAPI統合)</description>
+</item>
 <item>
 <title>AWS CloudFormation Service-Managed StackSets adds custom execution roles with nested stacks support</title>
 <link>https://aws.amazon.com/about-aws/whats-new/2026/11/stacksets-custom-execution-roles/</link>
@@ -23,6 +71,22 @@
 <description>Anthropic所属の数学者Levent Alpöge氏が自身のサイトにremark.pdfというファイルをアップしています。この文書には次のようなことが書かれています。リーマン予想は、数論を代表する古典的な問題です。ある大きさまでに素数… — ギズモード・ジャパン / score: 85 (Claudeを用いたリーマン予想の証明に関する日本語での解説)</description>
 </item>
 <item>
+<title>Amazon EventBridge Custom event bus now supports Webhook Events</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eventbridge-webhook-events</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eventbridge-webhook-events</guid>
+<pubDate>Fri, 20 Nov 2026 17:30:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon EventBridge now supports Webhook Events for the enhanced Custom event bus, so SaaS applications, AI agents, and custom integrations can send events to a bus over HTTPS. You no longer need to deploy and operate your own API endpoint and compute to receive webhooks and publish them to your bus. The EventBridge Custom event bus is a serverless event broker that enables you to create scalable event-driven applications by routing events between your applications, SaaS integrations, and AWS ser — AWS What's New / score: 55 (EventBridgeでのWebhookイベントサポート)</description>
+</item>
+<item>
+<title>Amazon EventBridge Custom event bus now supports Amazon MSK as a target</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eventbridge-msk-target/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eventbridge-msk-target/</guid>
+<pubDate>Fri, 20 Nov 2026 17:30:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon EventBridge now supports Amazon Managed Streaming for Apache Kafka (Amazon MSK) as a target for the enhanced Custom event bus, so you can deliver events to Kafka topics without running your own producer. The EventBridge Custom event bus is a serverless event broker that enables you to create scalable event-driven applications by routing events between your applications, SaaS integrations, and AWS services. To deliver events to MSK, you create a Subscriber that specifies the cluster ARN an — AWS What's New / score: 55 (EventBridgeのMSKターゲットサポート追加)</description>
+</item>
+<item>
 <title>Amazon Aurora MySQL 8.4.12 is now generally available</title>
 <link>https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-aurora-mysql-8412-available/</link>
 <guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-aurora-mysql-8412-available/</guid>
@@ -31,12 +95,28 @@
 <description>Starting today, Amazon Aurora MySQL-Compatible Edition 8.4 supports MySQL 8.4.12. This release includes several security enhancements and bug fixes. We recommend upgrading to the newer minor versions to accept fixes for Common Vulnerabilities and Exposures (CVEs) in prior versions of MySQL and to benefit from bug fixes, performance improvements, and new functionality added by community MySQL. For more details, refer to the Aurora MySQL 8.4 and MySQL 8.4.12 release notes. You can upgrade your dat — AWS What's New / score: 45 (Amazon Aurora MySQLのマイナーバージョン更新)</description>
 </item>
 <item>
-<title>How Vodafone is using the Data Engineering Agent to improve their data pipelines</title>
-<link>https://cloud.google.com/blog/products/data-analytics/vodafone-cuts-data-pipeline-costs-30-via-data-engineeringagent/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/products/data-analytics/vodafone-cuts-data-pipeline-costs-30-via-data-engineeringagent/</guid>
+<title>Amazon Connect Customer expands how teams track and act on service level agreements for cases</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-cases-sla-enhancements/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-cases-sla-enhancements/</guid>
+<pubDate>Fri, 20 Nov 2026 17:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon Connect Customer enhances service level agreements (SLAs) for cases, so teams can set service goals for more of their work and respond faster when a case falls behind. Admins can set SLAs on case fields beyond status, such as requiring a case’s severity to drop from high to medium within 24 hours. Admins can add an email action to SLA breach rules, so the assigned agent learns right away when a case misses its SLA. Developers can use APIs to adjust a case’s SLA deadline when the team is w — AWS What's New / score: 45 (Amazon ConnectのSLA管理機能強化)</description>
+</item>
+<item>
+<title>Ultimate guide for fixing your team’s API keys</title>
+<link>https://cloud.google.com/blog/topics/developers-practitioners/how-to-fix-your-teams-api-keys/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/developers-practitioners/how-to-fix-your-teams-api-keys/</guid>
 <pubDate>Fri, 20 Nov 2026 17:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
-<description>For large organizations, building and maintaining data pipelines is one of the most complex tasks that data engineering teams are tasked with. In BigQuery environments, the Data Engineering Agent can help, leveraging Gemini to to automate these workflows. In this blog post, Vodafone Czech Republic describes how it has used the Data Engineering Agent to modernize and optimize BigQuery stored procedures, transforming them into modern data pipelines and reducing pipeline execution times by half. -  — Google Cloud Blog / score: 50 (BigQuery環境でのデータパイプライン構築支援機能)</description>
+<description>Most Gemini prototypes start the same way. You grab an API key from Google AI Studio , then paste it into your coding agent to start building a prototype. That speed is the point, and shouldn’t be slowed down. The trouble starts later, when the prototype gets real users and the key comes along unchanged. By then it usually isn't one key. Every developer has their own, often several, sitting in .env files, shell profiles and chat threads. The app has one more, baked into its config. For example,  — Google Cloud Blog / score: 55 (APIキーの安全な管理・修正に関するベストプラクティス)</description>
+</item>
+<item>
+<title>Drowning in clicks: Scaling Black Friday pipelines with Managed Airflow agents</title>
+<link>https://cloud.google.com/blog/products/data-analytics/scaling-airflow-pipelines-with-ai-agents-on-managed-airflow/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/data-analytics/scaling-airflow-pipelines-with-ai-agents-on-managed-airflow/</guid>
+<pubDate>Fri, 20 Nov 2026 17:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>When an Airflow pipeline fails in production, the hard part is rarely the fix. It's finding out what to fix. A task dies without a traceback. Is it the code, the data, or the environment? Hard to say, as clues are scattered across task logs, scheduler logs, and worker metrics. And once you know what the problem is, the question becomes whether to add memory, rewrite the DAG , or finally take on the major version upgrade you've been putting off. Answering these questions takes time and deep Airfl — Google Cloud Blog / score: 50 (Managed Airflowを活用したブラックフライデーのスケーリング)</description>
 </item>
 <item>
 <title>Frontier and Center: Why your data agents need a “wind tunnel”</title>
@@ -55,36 +135,12 @@
 <description>In global maritime logistics, Marine Ports and Terminals play a significant role in the movement of container and cargo, within and beyond. Marine ports and terminals world-wide use a Terminal Operating System (TOS) which acts as the central nervous system managing port operations 24 hours a day, 365 days a year. A modern TOS plans, automates and orchestrates every physical and digital activities, resources and events across Order-to-Invoice processes of a marine terminal. Developed by Tata Cons — Google Cloud Blog / score: 50 (AlloyDBとGKEを用いた海事ロジスティクスシステムの近代化)</description>
 </item>
 <item>
-<title>Drowning in clicks: Scaling Black Friday pipelines with Managed Airflow agents</title>
-<link>https://cloud.google.com/blog/products/data-analytics/scaling-airflow-pipelines-with-ai-agents-on-managed-airflow/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/products/data-analytics/scaling-airflow-pipelines-with-ai-agents-on-managed-airflow/</guid>
-<pubDate>Fri, 20 Nov 2026 17:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>When an Airflow pipeline fails in production, the hard part is rarely the fix. It's finding out what to fix. A task dies without a traceback. Is it the code, the data, or the environment? Hard to say, as clues are scattered across task logs, scheduler logs, and worker metrics. And once you know what the problem is, the question becomes whether to add memory, rewrite the DAG , or finally take on the major version upgrade you've been putting off. Answering these questions takes time and deep Airfl — Google Cloud Blog / score: 50 (Managed Airflowを活用したブラックフライデーのスケーリング)</description>
-</item>
-<item>
-<title>Introducing ambient networking for GKE</title>
-<link>https://cloud.google.com/blog/products/networking/ambient-networking-for-gke-sidecarless-service-mesh/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/products/networking/ambient-networking-for-gke-sidecarless-service-mesh/</guid>
-<pubDate>Fri, 20 Nov 2026 17:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>Network sidecars have a deserved reputation for excessive resource consumption and increased management overhead, especially in a service mesh environment. Today, we are announcing the general availability of ambient networking for Google Kubernetes Engine (GKE). This milestone marks an important evolution in how your run service mesh on GKE, bringing a sidecar-less architecture into production. Introduced earlier this year, ambient networking decouples functionality traditionally provided as a  — Google Cloud Blog / score: 60 (GKEにおけるアンビエントネットワーキングの一般提供開始)</description>
-</item>
-<item>
 <title>What’s new in Managed Service for Apache Spark 4.0</title>
 <link>https://cloud.google.com/blog/products/data-analytics/whats-new-in-managed-service-for-apache-spark-4-0/</link>
 <guid isPermaLink="true">https://cloud.google.com/blog/products/data-analytics/whats-new-in-managed-service-for-apache-spark-4-0/</guid>
 <pubDate>Fri, 20 Nov 2026 17:00:00 +0000</pubDate>
 <category>Google Cloud Blog</category>
 <description>As organizations move from reactive analytics to proactive systems of action powered by autonomous AI agents, data platforms face a new set of demands. Moving from human scale to agent scale changes both how data pipelines run and how they are built: Teams and AI agents now use Model Context Protocol (MCP) tools and agentic troubleshooting to build, submit, and diagnose Apache Spark pipelines while preparing multimodal datasets, performing feature engineering, and acting on live business signals — Google Cloud Blog / score: 50 (Managed Service for Apache Spark 4.0の新機能紹介)</description>
-</item>
-<item>
-<title>Ultimate guide for fixing your team’s API keys</title>
-<link>https://cloud.google.com/blog/topics/developers-practitioners/how-to-fix-your-teams-api-keys/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/topics/developers-practitioners/how-to-fix-your-teams-api-keys/</guid>
-<pubDate>Fri, 20 Nov 2026 17:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>Most Gemini prototypes start the same way. You grab an API key from Google AI Studio , then paste it into your coding agent to start building a prototype. That speed is the point, and shouldn’t be slowed down. The trouble starts later, when the prototype gets real users and the key comes along unchanged. By then it usually isn't one key. Every developer has their own, often several, sitting in .env files, shell profiles and chat threads. The app has one more, baked into its config. For example,  — Google Cloud Blog / score: 55 (APIキーの安全な管理・修正に関するベストプラクティス)</description>
 </item>
 <item>
 <title>How Spanner Graph detects ads fraud and abuse at Google at multi-billion node scale</title>
@@ -95,12 +151,44 @@
 <description>Ever wonder how the Google Ads team keeps the massive system stable and online, despite continuous attempts by hackers to take it down? Part of the answer is using Spanner as its core operational and graph database. The Google Ads team uses a central graph-based platform to fight fraud and abuse with batch and real-time signals. Built to protect the Google Ads ecosystem and now used by multiple teams across Google, the platform organizes anti-abuse intelligence into a single, interconnected view — Google Cloud Blog / score: 60 (Spanner Graphを活用した大規模広告不正検知の仕組み)</description>
 </item>
 <item>
+<title>How Vodafone is using the Data Engineering Agent to improve their data pipelines</title>
+<link>https://cloud.google.com/blog/products/data-analytics/vodafone-cuts-data-pipeline-costs-30-via-data-engineeringagent/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/data-analytics/vodafone-cuts-data-pipeline-costs-30-via-data-engineeringagent/</guid>
+<pubDate>Fri, 20 Nov 2026 17:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>For large organizations, building and maintaining data pipelines is one of the most complex tasks that data engineering teams are tasked with. In BigQuery environments, the Data Engineering Agent can help, leveraging Gemini to to automate these workflows. In this blog post, Vodafone Czech Republic describes how it has used the Data Engineering Agent to modernize and optimize BigQuery stored procedures, transforming them into modern data pipelines and reducing pipeline execution times by half. -  — Google Cloud Blog / score: 50 (BigQuery環境でのデータパイプライン構築支援機能)</description>
+</item>
+<item>
+<title>Introducing ambient networking for GKE</title>
+<link>https://cloud.google.com/blog/products/networking/ambient-networking-for-gke-sidecarless-service-mesh/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/networking/ambient-networking-for-gke-sidecarless-service-mesh/</guid>
+<pubDate>Fri, 20 Nov 2026 17:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Network sidecars have a deserved reputation for excessive resource consumption and increased management overhead, especially in a service mesh environment. Today, we are announcing the general availability of ambient networking for Google Kubernetes Engine (GKE). This milestone marks an important evolution in how your run service mesh on GKE, bringing a sidecar-less architecture into production. Introduced earlier this year, ambient networking decouples functionality traditionally provided as a  — Google Cloud Blog / score: 60 (GKEにおけるアンビエントネットワーキングの一般提供開始)</description>
+</item>
+<item>
+<title>How to simplify cloud access with Unified Access Policies, now in preview</title>
+<link>https://cloud.google.com/blog/products/identity-security/how-to-simplify-cloud-access-with-unified-access-policies/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/identity-security/how-to-simplify-cloud-access-with-unified-access-policies/</guid>
+<pubDate>Fri, 20 Nov 2026 17:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>As organizations scale their cloud footprint to thousands of autonomous agents and microservices, you can accidentally create an operational bottleneck with strict Identity and Access Management (IAM). Meanwhile, administrators still need to enforce least privilege across thousands of resources without slowing down engineering velocity. Enter Unified Access Policies (UAPs), Google Cloud's next-generation access control engine in Cloud IAM , now in preview at no additional cost. UAP consolidates  — Google Cloud Blog / score: 60 (Google Cloudのアクセス管理ポリシー簡素化)</description>
+</item>
+<item>
 <title>Quoting Levent Alpöge</title>
 <link>https://simonwillison.net/2026/Nov/20/levent-alpoge/</link>
 <guid isPermaLink="true">https://simonwillison.net/2026/Nov/20/levent-alpoge/</guid>
 <pubDate>Fri, 20 Nov 2026 16:30:48 +0000</pubDate>
 <category>Simon Willison</category>
 <description>I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized Riemann Hypothesis, and I expect, with more time, the Extended Riemann Hypothesis too. Claude and I have also formalized the arguments without assumptions. It is natural to feel that this is an end, in my case a loss of a principal guiding light, but what I saw during the course of progress so amazed me that I believe it is one  — Simon Willison / score: 85 (Claudeを活用したリーマン予想の証明に関する大きな話題)</description>
+</item>
+<item>
+<title>AWS Transform announces UI component modernization for Windows web applications</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-ui-windows/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-ui-windows/</guid>
+<pubDate>Fri, 20 Nov 2026 16:30:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Today, AWS announced the general availability of third-party UI component porting for ASP.NET web site modernization in AWS Transform. When AWS Transform modernizes a legacy ASP.NET web site, it now detects dependencies on popular third-party UI component libraries. You can replace them with license-free Microsoft-native and open-source components, or you can keep using vendor UI libraries. AWS Transform rewrites legacy ASP.NET web sites for ASP.NET Core UI frameworks. When the AWS Transform for — AWS What's New / score: 50 (ASP.NETモダン化のためのUIコンポーネント対応)</description>
 </item>
 <item>
 <title>可変速再生、ビートシンク、CDリッピングまで。CDを遊び尽くすポータブルプレーヤー、teenage engineering「EP/BC–1professional CD player」リリース！</title>
@@ -125,6 +213,14 @@
 <pubDate>Fri, 20 Nov 2026 16:00:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>AWS is announcing the general availability of new low-cost burstable Amazon EC2 T9g instances, which offer the best price performance among general-purpose EC2 instances. These instances are powered by AWS Graviton5 processors and built on the latest sixth generation AWS Nitro cards. T9g instances deliver up to 45% better price performance compared to previous generation T4g instances, and offer four sizes: nano, micro, small, and medium. These instances are designed for workloads requiring low  — AWS What's New / score: 55 (Graviton5を搭載した新しいEC2インスタンスの一般提供)</description>
+</item>
+<item>
+<title>Amazon MSK now supports in-place upgrade from Standard brokers to Express brokers</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-msk-standard-brokers-to-express-brokers-in-place-upgrade</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-msk-standard-brokers-to-express-brokers-in-place-upgrade</guid>
+<pubDate>Fri, 20 Nov 2026 16:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>You can now upgrade existing Amazon MSK Provisioned clusters from Standard brokers to Express brokers in place, with fully managed data migration and no application changes. Express brokers are designed to deliver up to 3x more throughput per broker, scale up to 20x faster, and recover up to 90% faster compared to Standard brokers. With in-place upgrade, you can get the performance and operational benefits of Express brokers in hours, without needing to create a new cluster or having to migrate  — AWS What's New / score: 55 (Amazon MSKのインプレースアップグレード対応)</description>
 </item>
 <item>
 <title>RTX 5080搭載PCが6万7000円引き！ パソコンショップSEVEN、11月21日限定セール</title>
@@ -229,6 +325,14 @@
 <pubDate>Fri, 20 Nov 2026 13:30:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>日本初上陸となる背面ディスプレイ搭載のシャオミ最新フラッグシップスマホ「Xiaomi 18 Pro Series」。 — ギズモード・ジャパン / score: 35 (新モデルのフラグシップスマホの紹介記事)</description>
+</item>
+<item>
+<title>政府システムからファイル流出か、個人情報含む恐れ　デジタル庁発表 - 日本経済新聞</title>
+<link>https://www.nikkei.com/article/DGXZQOUA20A0V0Q6A121C2000000/</link>
+<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUA20A0V0Q6A121C2000000/</guid>
+<pubDate>Fri, 20 Nov 2026 13:10:25 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>デジタル庁は20日、政府のネットワークシステムに不正アクセスがあり、各府省庁間や企業と共有した会議資料を含むファイルが流出した可能性があると発表した。個人情報が含まれている恐れがある。機密性が高い文書の漏洩の有無については調査中という。同庁によれば、個人情報の悪用など二次被害の確認はされていない。... — はてなブックマーク テクノロジー / score: 85 (政府システムのセキュリティインシデントと情報流出の恐れ)</description>
 </item>
 <item>
 <title>「KARTE」情報漏えい延べ2200社</title>
@@ -639,6 +743,14 @@
 <description>先日パブリックプレビューが始まった次期サーバーOS「Windows Server 2028」には、削除・非推奨となる機能がある。米Microsoftが自社のドキュメントサイトで明らかにしている。 — 窓の杜 / score: 80 (次期Windows Serverでのレガシー機能削除)</description>
 </item>
 <item>
+<title>Combatting adversarial distillation</title>
+<link>https://openai.com/index/combatting-adversarial-distillation</link>
+<guid isPermaLink="true">https://openai.com/index/combatting-adversarial-distillation</guid>
+<pubDate>Fri, 20 Nov 2026 10:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction. — OpenAI News / score: 65 (OpenAIのモデル抽出対策に関するセキュリティ解説)</description>
+</item>
+<item>
 <title>Core Ultra 5搭載で23万円台！ FMVの14.0型モバイルノート「FMV WU2-L3」</title>
 <link>https://ascii.jp/elem/000/004/453/4453667/?rss</link>
 <guid isPermaLink="true">https://ascii.jp/elem/000/004/453/4453667/?rss</guid>
@@ -693,118 +805,6 @@
 <pubDate>Fri, 20 Nov 2026 10:00:00 +0000</pubDate>
 <category>ギター・マガジンWEB</category>
 <description>D’Addarioが、移動の多いプレイヤーに向けたギター・ケース“D’Addario Backline Guitar Case PW-BLEGC-01”を発売した。 ストラップおよび背面パネルの衝撃吸収パッドで持ち運びの負担を軽減するとともに、耐水性に優れた生地や強化ジッパー、ネック支持 — ギター・マガジンWEB / score: 15 (楽器用アクセサリの新製品発売情報。)</description>
-</item>
-<item>
-<title>POS端末700台超がマルウェア感染、Windowsの脆弱性悪用でカード情報100万件超が流出</title>
-<link>https://news.mynavi.jp/techplus/article/20261120-5367457/</link>
-<guid isPermaLink="true">https://news.mynavi.jp/techplus/article/20261120-5367457/</guid>
-<pubDate>Fri, 20 Nov 2026 09:57:14 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>CyberNewsは2026年11月18日(現地時間)、「Over 1 million credit cards stolen in attack spanning 20 countries｜Cybernews」において、20かカ以上に設置された700台超のPOS(販売時点情報管理)端末を標的とするサイバー攻撃が発生し、100万枚を超えるクレジットカードおよびデビットカード情報が窃取されたと報じた。 C... — はてなブックマーク テクノロジー / score: 90 (多数のPOS端末が標的となり被害が広範囲に及ぶ)</description>
-</item>
-<item>
-<title>2026年11月20日のヘッドラインニュース</title>
-<link>https://gigazine.net/news/20261120-headline/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261120-headline/</guid>
-<pubDate>Fri, 20 Nov 2026 09:52:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>アニメ制作スタジオ・サンライズの50周年記念作品であり、『装甲騎兵ボトムズ』シリーズの久々の完全新作として制作された全2部作の第1作『装甲騎兵ボトムズ 灰色の魔女(ヘクセ)』が本日・2026年11月20日(金)から劇場公開となりました。 続きを読む... — GIGAZINE / score: 10 (一般的なヘッドラインニュース)</description>
-</item>
-<item>
-<title>総務省後援「ASPIC AI・クラウドアワード2026」で、ミライAIがAI支援業務系ASP・SaaS部門「AX貢献賞」を受賞</title>
-<link>https://ascii.jp/elem/000/004/453/4453802/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/453/4453802/?rss</guid>
-<pubDate>Fri, 20 Nov 2026 09:49:29 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>総務省後援「ASPIC AI・クラウドアワード2026」で、ミライAIがAI支援業務系ASP・SaaS部門「AX貢献賞」を受賞 — ASCII.jp / score: 30 (AI関連サービスの受賞ニュース)</description>
-</item>
-<item>
-<title>【TRYFIRE】3段階の周波数切替に対応した超音波式害虫・害獣対策器が新登場！ブラックフライデー期間限定39％OFFで販売</title>
-<link>https://ascii.jp/elem/000/004/453/4453798/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/453/4453798/?rss</guid>
-<pubDate>Fri, 20 Nov 2026 09:46:36 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>【TRYFIRE】3段階の周波数切替に対応した超音波式害虫・害獣対策器が新登場！ブラックフライデー期間限定39％OFFで販売 — ASCII.jp / score: 5 (害虫対策器のセール情報)</description>
-</item>
-<item>
-<title>政府内部資料流出か 不正アクセス</title>
-<link>https://news.yahoo.co.jp/pickup/6603320?source=rss</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6603320?source=rss</guid>
-<pubDate>Fri, 20 Nov 2026 09:36:38 +0000</pubDate>
-<category>Yahoo!ニュース IT</category>
-<description> — Yahoo!ニュース IT / score: 70 (政府関連の不正アクセス・セキュリティ事件)</description>
-</item>
-<item>
-<title>【Perano】ペット専用モード搭載の新型空気清浄機が新登場！ブラックフライデー期間限定で35％OFFの特別価格に</title>
-<link>https://ascii.jp/elem/000/004/453/4453790/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/453/4453790/?rss</guid>
-<pubDate>Fri, 20 Nov 2026 09:36:17 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>【Perano】ペット専用モード搭載の新型空気清浄機が新登場！ブラックフライデー期間限定で35％OFFの特別価格に — ASCII.jp / score: 15 (家電製品の新製品セール情報)</description>
-</item>
-<item>
-<title>政府の内部資料流出か、基幹システムに不正アクセス　デジタル庁発表：朝日新聞</title>
-<link>https://www.asahi.com/articles/ASVCN30WCVCNULFA01NM.html</link>
-<guid isPermaLink="true">https://www.asahi.com/articles/ASVCN30WCVCNULFA01NM.html</guid>
-<pubDate>Fri, 20 Nov 2026 09:31:39 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>デジタル庁は20日、政府の基幹ネットワークシステムに不正アクセスがあり、政府の内部資料が漏洩（ろうえい）した可能性があると発表した。個人情報が含まれている可能性があるが、件数などの詳細については「調… — はてなブックマーク テクノロジー / score: 90 (政府基幹システムへの不正アクセスと情報流出)</description>
-</item>
-<item>
-<title>ASRock、32GB GDDR6搭載のワークステーション向けグラボ発売　価格は28万9800円</title>
-<link>https://ascii.jp/elem/000/004/453/4453714/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/453/4453714/?rss</guid>
-<pubDate>Fri, 20 Nov 2026 09:30:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>ASRockは、ワークステーション向け「Intel Arc Pro B65 Creator 32GB」を11月27日から順次発売。32GB GDDR6メモリーを搭載し、AI処理やレンダリング用途を想定する。2スロット設計にブロワー冷却とベイパーチャンバーを採用。価格は28万9800円、保証は2年間。 — ASCII.jp / score: 45 (ワークステーション向けGPUの新発売)</description>
-</item>
-<item>
-<title>作戦名は「エンドゲーム」。FBIなど9カ国の捜査機関がマルウェアの配布網を一斉摘発</title>
-<link>https://www.gizmodo.jp/article/2611-operation-endgame-malware-fbi-raid/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-operation-endgame-malware-fbi-raid/</guid>
-<pubDate>Fri, 20 Nov 2026 09:30:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>FBIなど9カ国の捜査機関が国際作戦でマルウェアの配布網を一斉摘発しました。いったい、どのような作戦を実行したのでしょうか？ — ギズモード・ジャパン / score: 85 (国際捜査機関による大規模なマルウェア配布網摘発。)</description>
-</item>
-<item>
-<title>必死で資料を作った会議、上役の「直近のセキュリティ危機は大丈夫なのか」って質問に上司が「あなたが予算を減らしたのでダメです」って返して15分で終わった</title>
-<link>https://togetter.com/li/2772854</link>
-<guid isPermaLink="true">https://togetter.com/li/2772854</guid>
-<pubDate>Fri, 20 Nov 2026 09:29:14 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>鳥野花菜 @torino212 必死で作った資料の会議、開始15分で最後のだけ使って終わったんだけどどういうことなの…？ 上役が「直近のセキュリティ危機は大丈夫なのか(意訳)」って言ったら、上司が「いえ、全く駄目です。あなたが5年連続で予算減額したので、対策費用ないです」で上役が役員に連行されて終わり。マジかよ 202... — はてなブックマーク テクノロジー / score: 60 (セキュリティ予算の重要性を浮き彫りにする話題)</description>
-</item>
-<item>
-<title>SEO・ノーコードからTailwind CSS/UXまで！ Web制作とUX・UIデザインの書籍が読み放題【読み放題！TechLib新着情報】</title>
-<link>https://forest.watch.impress.co.jp/docs/bookwatch/techlibnew/2158329.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/bookwatch/techlibnew/2158329.html</guid>
-<pubDate>Fri, 20 Nov 2026 09:27:25 +0000</pubDate>
-<category>窓の杜</category>
-<description>ITエンジニア向け技術書籍の読み放題サービス「TechLib」（月額3,080円）では、プログラミング言語、サーバー・クラウドサービス、コンテナ開発、情報処理資格、AI・機械学習、ネットワーク・セキュリティなど様々なジャンルの書籍を取り揃え、続々と新しい書籍が追加されている。本コーナーでは、そんな「TechLib」に新規で追加された書籍を紹介する。 — 窓の杜 / score: 25 (技術書籍のサブスク新着情報)</description>
-</item>
-<item>
-<title>「httpS://」だと暗号化されず平文で送信……「PHP」に約20年潜んでいた脆弱性が解決／問題はいたってシンプル、なんともはや……【やじうまの杜】</title>
-<link>https://forest.watch.impress.co.jp/docs/serial/yajiuma/2158241.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/serial/yajiuma/2158241.html</guid>
-<pubDate>Fri, 20 Nov 2026 09:26:32 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>「httpS://」だと暗号化されず平文で送信……「PHP」に約20年潜んでいた脆弱性が解決／問題はいたってシンプル、なんともはや……【やじうまの杜】 — はてなブックマーク テクノロジー / score: 90 (PHPの長年の脆弱性に関する重要なセキュリティ情報)</description>
-</item>
-<item>
-<title>Elastic、AIエージェントの試行錯誤を減らす「Elastic Context Engine」を披露──SRE・SOC向けも</title>
-<link>https://codezine.jp/article/detail/30428</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/30428</guid>
-<pubDate>Fri, 20 Nov 2026 09:10:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 65 (Elasticの新AIツールに関する発表)</description>
-</item>
-<item>
-<title>株式会社Co-Labo AI、生成AIに会社の言葉を教える「オントロジー」の製造業向け解説を公開</title>
-<link>https://ascii.jp/elem/000/004/453/4453799/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/453/4453799/?rss</guid>
-<pubDate>Fri, 20 Nov 2026 09:10:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>株式会社Co-Labo AI、生成AIに会社の言葉を教える「オントロジー」の製造業向け解説を公開 — ASCII.jp / score: 40 (製造業向け生成AI解説の公開ニュース)</description>
 </item>
 </channel>
 </rss>
