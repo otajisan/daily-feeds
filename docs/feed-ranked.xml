@@ -4,16 +4,8 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 20 Nov 2026 02:08:51 +0000</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 04:07:40 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
-<item>
-<title>[95] プログラム言語「PHP」に新たな脆弱性　サービス停止の恐れ - 日本経済新聞</title>
-<link>https://www.nikkei.com/article/DGXZQOUC19BMQ0Z11C26A1000000/</link>
-<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUC19BMQ0Z11C26A1000000/</guid>
-<pubDate>Thu, 19 Nov 2026 13:40:38 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>世界のウェブサイトの約7割に使われているとされるプログラム言語「PHP」に重大なサイバー上の脆弱性が新たに見つかったことが19日、わかった。運営団体は同日午後11時すぎ（日本時間）に修正プログラムを公表する。サービス停止などの影響が生じる可能性がある。PHPは世界のサイトの69%で使われているとされる。運営団... — はてなブックマーク テクノロジー / score: 95 (PHPの重大な脆弱性とサービス停止の恐れ)</description>
-</item>
 <item>
 <title>[95] 「Ruby」に7件の脆弱性、修正版への更新を強く推奨。リモートコード実行の実証コードが存在／最高深刻度「Critical」。v4.0.10、v3.4.13、v3.3.14が公開</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2157700.html</link>
@@ -45,6 +37,22 @@
 <pubDate>Tue, 17 Nov 2026 17:45:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API. — OpenAI News / score: 95 (主要なAIモデルのメジャーリリースと機能強化)</description>
+</item>
+<item>
+<title>[90] 「WordPress 7.1.5」が公開、認証なしでリモートコード実行につながる脆弱性などを修正／前回から3週間でのセキュリティリリース、速やかなアップデートを</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2158042.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2158042.html</guid>
+<pubDate>Fri, 20 Nov 2026 02:10:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>「WordPress」の開発チームは11月18日、「WordPress 7.1.5」をリリースした。「WordPress 7.1.4」から約3週間でのセキュリティリリースで、ただちにアップデートすることが推奨されている。 — 窓の杜 / score: 90 (WordPressのリモートコード実行脆弱性修正)</description>
+</item>
+<item>
+<title>[90] PHP「緊急」脆弱性、サービス一時停止の動き再び　ウマ娘やグラブル、イープラスなど緊急メンテ</title>
+<link>https://www.itmedia.co.jp/news/article/2611/20/2000003357/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/20/2000003357/</guid>
+<pubDate>Fri, 20 Nov 2026 00:22:39 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>PHP開発元は11月18日、4週間ごとの定例リリースとして、「緊急」脆弱性への対処を含むセキュリティリリースを予告。19日午後11時ごろから修正版を順次公開し、更新を呼び掛けた。 「緊急」の脆弱性はサポート中の全バージョンに影響するが、悪用するには「既定でない設定か一般的でない構成が必要」だ。 一方で10月の「P... — はてなブックマーク テクノロジー / score: 90 (PHPの緊急脆弱性修正と各サービスの対応)</description>
 </item>
 <item>
 <title>[90] 湘南美容クリニックのSBC、162万人分の個人情報流出　パスワードは「暗号化せず保存していた」</title>
@@ -247,6 +255,14 @@
 <description>Today, we’re introducing Gemini 4 Neon — Gemini (Google Blog) / score: 88 (Googleの新型モデルGemini 4 Neonの発表)</description>
 </item>
 <item>
+<title>[85] ハッカーがVisaやMastercardの顧客データを入手</title>
+<link>https://gigazine.net/news/20261120-visa-mastercard-jpmorgan-data-leak/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261120-visa-mastercard-jpmorgan-data-leak/</guid>
+<pubDate>Fri, 20 Nov 2026 02:28:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>「n0n」と名乗るランサムウェアグループが、Visa、Mastercard、そしてJPモルガン・チェースの数千人の顧客のデータを入手したとする犯行声明を出しました。クレジットカード番号は含まれていないと伝えられています。 続きを読む... — GIGAZINE / score: 85 (大手金融・決済企業の顧客データ流出の噂)</description>
+</item>
+<item>
 <title>[85] AIサービス「Lovable」で作ったアプリのパスポート情報や20万件超のプライベートなメッセージがログインしなくても閲覧できたと判明</title>
 <link>https://gigazine.net/news/20261120-lovable-apps-data-exposure/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261120-lovable-apps-data-exposure/</guid>
@@ -295,14 +311,6 @@
 <description>Written by: Jayson Frost, Bryce Greathouse, Dhanesh Kizhakkinan, John Palmisano, Steve Rasch, Daniel Sislo, John Wolfram Introduction On Oct. 15, 2026, Mandiant and Google Threat Intelligence Group (GTIG) published a blog post detailing recent activity in which the suspected PRC-nexus threat actor ARMORY CASTLE (formerly tracked as UNC5221) exploited CVE-2026-102764, a zero-day vulnerability in BeyondTrust Remote Support, which was patched in BT26-05 . We also described some of the threat actor’ — Google Cloud Blog / score: 85 (VMware vSphereを狙うサイバー攻撃の解説)</description>
 </item>
 <item>
-<title>[85] 「湘南美容クリニック」などの個人情報流出　氏名など162万人分　不正アクセスで</title>
-<link>https://japan.cnet.com/article/35255171/</link>
-<guid isPermaLink="true">https://japan.cnet.com/article/35255171/</guid>
-<pubDate>Thu, 19 Nov 2026 13:48:03 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>SBCメディカルグループは11月19日、湘南美容クリニックなどの利用者の個人情報が不正アクセスによって流出したと発表した。氏名や連絡先などを含む個人情報162万4000人分のほか、予約の申し込み情報や相談内容なども流出した。流出した情報には、当時暗号化せずに保存していたパスワードも含まれる。 162万4000人分は201... — はてなブックマーク テクノロジー / score: 85 (湘南美容クリニックの162万人分の大規模情報流出)</description>
-</item>
-<item>
 <title>[85] Google、Gemini 4 Neonを発表 ——Carbonをもとに開発、複雑な作業をより短時間で</title>
 <link>https://gihyo.jp/article/2026/11/gemini-4-neon?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/11/gemini-4-neon?utm_source=feed</guid>
@@ -341,14 +349,6 @@
 <pubDate>Thu, 19 Nov 2026 02:22:17 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ 昨日から今日にかけて、なんだかすごいことになっていますね。 先日「PHP2Shell（CVE-2026-109618 / CVE-2026-109619）」というコアそのもののRCE（リモートコード実行）が出て大騒ぎになったと思ったら、JavaでもJavaのB... — はてなブックマーク テクノロジー / score: 85 (OSSの脆弱性とクラウドWAFの対策解説)</description>
-</item>
-<item>
-<title>[85] Googleが「Gemini 4 Neon」を発表、最先端の推論能力と高速・低コストな処理を両立しコーディング性能で世界トップに</title>
-<link>https://gigazine.net/news/20261119-google-gemini-4-neon/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261119-google-gemini-4-neon/</guid>
-<pubDate>Thu, 19 Nov 2026 02:15:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>Googleが2026年11月18日、新たなAIモデル「Gemini 4 Neon」を発表しました。Gemini 4 Neonは最上位モデルのGemini 4 Carbonをベースに開発されたモデルで、高度なコーディングやデータ分析、科学研究、企業の業務自動化などにおいて、最先端のAIモデルに匹敵する性能と高速かつ低コストな処理を両立しています。 続きを読む... — GIGAZINE / score: 85 (大手による最新AIモデルの発表で影響が大きい)</description>
 </item>
 <item>
 <title>[85] Google、「Gemini 4 Neon」を発表 ～「Claude Opus 5.5」「GPT-6.2 Sol」のライバル／“フロンティア級”の知能をより高速・低コストで、「Carbon」比でタスク単価32％削減</title>
@@ -551,6 +551,14 @@
 <description>JEP 401 (Value Objects) arrives in OpenJDK as a preview feature, enabling a new Java type model with minimal code changes. The talk explains what value objects are, JVM benefits, Valhalla history, implementation details, and the path toward bridging objects and primitives, including future support like List&lt;int&gt;. — Inside Java / score: 82 (Java Valhallaプロジェクトの解説と進化)</description>
 </item>
 <item>
+<title>[80] 中国AI企業、NVIDIAの規制対象GPUを使用か　元OpenAI研究者らが分析結果を公開</title>
+<link>https://ascii.jp/elem/000/004/453/4453435/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/453/4453435/?rss</guid>
+<pubDate>Fri, 20 Nov 2026 02:05:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>中国のAI企業が、米国の輸出規制対象となっているNVIDIAの最新GPUを使用していたのではないかという疑惑に、新たな技術的証拠が発見された。 — ASCII.jp / score: 80 (中国AI企業による対米規制GPU使用の疑惑調査)</description>
+</item>
+<item>
 <title>[80] Checking for NGINX2Root and Java4Shell with Threats in Devin Security | Devin</title>
 <link>https://devin.ai/blog/nginx2root-java4shell-threats</link>
 <guid isPermaLink="true">https://devin.ai/blog/nginx2root-java4shell-threats</guid>
@@ -687,6 +695,14 @@
 <description>November 9, 2026 — Claude Fable 5.2 and Mythos 5.2 arrive on Anthropic’s IPO roadshow day. How much thinking is worth paying for? — Latent Space / score: 78 (主要LLMの性能逆転とIPO動向)</description>
 </item>
 <item>
+<title>[75] Windows PCを複数台接続して1個のAI処理クラスターとして扱う機能「RDMA over USB4」をMicrosoftが発表、USBケーブルのみで接続可能で専用機材不要</title>
+<link>https://gigazine.net/news/20261120-rdma-over-usb4-windows/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261120-rdma-over-usb4-windows/</guid>
+<pubDate>Fri, 20 Nov 2026 02:41:17 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>MicrosoftがWindows搭載PC同士をUSB4ケーブルで相互接続する機能「RDMA over USB4」を発表しました。PC同士を相互接続することで、メモリやGPU計算能力を共有して大型のAIモデルを高速実行することができます。 Introducing RDMA over USB4® on Windows: run larger local AI models across PCs | Microsoft Community H... — はてなブックマーク テクノロジー / score: 75 (USB4でPC間接続しAI処理を共有する新機能の発表)</description>
+</item>
+<item>
 <title>[75] さよならPhi Silica、ようこそAion Instruct。Windows内蔵の言語モデルが刷新【使ってわかるAI PC】</title>
 <link>https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2158020.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2158020.html</guid>
@@ -719,20 +735,20 @@
 <description>Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API. — Google AI Blog / score: 75 (Gemini APIの新機能プレビュー公開)</description>
 </item>
 <item>
-<title>[75] ソフトウェアダークファクトリー | 技術評論社</title>
-<link>https://gihyo.jp/book/2026/978-4-297-16073-9</link>
-<guid isPermaLink="true">https://gihyo.jp/book/2026/978-4-297-16073-9</guid>
-<pubDate>Thu, 19 Nov 2026 11:56:11 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>概要 「ダークファクトリー」とは、人間を排除した無人工場ではありません。AIコーディングの普及に伴い増幅する「あいまいな仕様」「弱い権限設計」「薄いテスト」「壊れやすい運用」といったリスクに対し、人間の判断・業務知識・失敗の教訓をシステム構造に埋め込むことで、AIや複数チームが動いても安全に変更を生み... — はてなブックマーク テクノロジー / score: 75 (AIコーディング時代のシステム設計リスク解説)</description>
-</item>
-<item>
 <title>[75] 美少女ゲーム「NIKKE」経由でマルウェア感染　北海道2自治体、委託先が認める</title>
 <link>https://www.itmedia.co.jp/news/article/2611/19/2000003351/</link>
 <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/19/2000003351/</guid>
 <pubDate>Thu, 19 Nov 2026 11:25:45 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>11月18日、業務の再委託先が使用する情報機器でマルウェア「K2F」への感染が確認され、個人情報が漏えいした可能性があると発表した北海道岩見沢市と新得町。両自治体が業務を委託していたGIS北海道（札幌市）は19日、ITmedia NEWSの取材に応じ、人気ゲーム「勝利の女神：NIKKE」のPC版ランチャー（起動用アプリ）が関係... — はてなブックマーク テクノロジー / score: 75 (ゲーム経由のマルウェア感染と個人情報漏えい事案)</description>
+</item>
+<item>
+<title>[75] AgentCore runtime instances now support Nested Virtualization</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/agentcore-nested-virtualization/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/agentcore-nested-virtualization/</guid>
+<pubDate>Thu, 19 Nov 2026 10:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon Bedrock AgentCore runtime instances now support nested virtualization, so your agents can run their own virtual machines and emulators inside a session with Kernel-based Virtual Machine (KVM). Runtime instances run your agents on Amazon EC2 instances while AgentCore handles provisioning, patching, scaling, and lifecycle management. Nested virtualization serves agents that rely on tools that run in a virtual machine, such as mobile emulators or virtual machine sandboxes. You turn on nested — AWS What's New / score: 75 (Bedrock AgentCoreでの仮想化サポート)</description>
 </item>
 <item>
 <title>[75] 約2,500万人のデータで「Firefox」の“指紋”対策を強化 ～Mozillaが研究成果を発表／一意に識別されるユーザーの割合を75％から46％に削減</title>
@@ -743,20 +759,20 @@
 <description>約2,500万人のデータで「Firefox」の“指紋”対策を強化 ～Mozillaが研究成果を発表／一意に識別されるユーザーの割合を75％から46％に削減 — はてなブックマーク テクノロジー / score: 75 (Firefoxの大規模データに基づく指紋対策強化)</description>
 </item>
 <item>
-<title>[75] AWS Network Firewall launches explicit proxy functionality and NAT Gateway association</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/11/network-firewall-proxy-nat-gateway/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/network-firewall-proxy-nat-gateway/</guid>
-<pubDate>Thu, 19 Nov 2026 08:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>You can now associate AWS Network Firewall with NAT Gateway and use it both as an explicit proxy and a transparent firewall with native network address translation. You can use this capability with existing Network Firewall features to filter traffic to and from your applications and prevent data exfiltration and malware injection. AWS Network Firewall is a stateful, managed, network firewall and intrusion detection and prevention service for your VPC. Customers use it to filter their traffic an — AWS What's New / score: 75 (Network Firewallのプロキシ機能追加)</description>
-</item>
-<item>
 <title>[75] AWS Network Load Balancer now supports mutual TLS authentication</title>
 <link>https://aws.amazon.com/about-aws/whats-new/2026/11/network-load-balancer-mtls/</link>
 <guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/network-load-balancer-mtls/</guid>
 <pubDate>Thu, 19 Nov 2026 08:00:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>AWS Network Load Balancer (NLB) now supports mutual TLS (mTLS) authentication for clients that present X.509 certificates. Until now, customers who needed mTLS with NLB built their own solutions or ran third-party proxies to authenticate clients. With this launch, NLB verifies client certificates on its TLS listeners, so only trusted clients can reach your targets. You can offload the compute-intensive processing required for mTLS authentication to NLB, without adding certificate logic to your b — AWS What's New / score: 75 (NLBの相互TLS認証（mTLS）サポート)</description>
+</item>
+<item>
+<title>[75] AWS Network Firewall launches explicit proxy functionality and NAT Gateway association</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/network-firewall-proxy-nat-gateway/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/network-firewall-proxy-nat-gateway/</guid>
+<pubDate>Thu, 19 Nov 2026 08:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>You can now associate AWS Network Firewall with NAT Gateway and use it both as an explicit proxy and a transparent firewall with native network address translation. You can use this capability with existing Network Firewall features to filter traffic to and from your applications and prevent data exfiltration and malware injection. AWS Network Firewall is a stateful, managed, network firewall and intrusion detection and prevention service for your VPC. Customers use it to filter their traffic an — AWS What's New / score: 75 (Network Firewallのプロキシ機能追加)</description>
 </item>
 <item>
 <title>[75] OpenAIがAIを用いてAMD製GPUや独自開発AIチップの改善に成功、半導体設計の専用AIモデルも開発</title>
@@ -775,14 +791,6 @@
 <description>米Microsoftは11月17日（現地時間）、年次開発者イベント「Microsoft Ignite 2026」で、同社のAI部門Microsoft AI（MAI）が開発した7つの新しいモデル群を発表した。トークン消費が急増するなか、エージェントを24時間365日動かせるだけの“価格性能比”を重視したという。発表されたおもなモデルは、以下の通り。 — 窓の杜 / score: 75 (Microsoft Ignite 2026での新AIモデル群の発表)</description>
 </item>
 <item>
-<title>[75] TypeScript 7.1 の Content Mapper で型の生成コマンドをなくす</title>
-<link>https://zenn.dev/toiroakr/articles/typescript-content-mapper-codegen</link>
-<guid isPermaLink="true">https://zenn.dev/toiroakr/articles/typescript-content-mapper-codegen</guid>
-<pubDate>Thu, 19 Nov 2026 02:10:13 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>! 2026-11-19 時点の情報です。この記事の動作は、typescript@next で入る 7.1.0-dev.20261118.1 で確かめています。公式の Iteration Plan では、Stable は 2026-11-24 の予定です。Content Mapper の API は、Stable に向けて安定化している途中で、細部が変わる可能性があります。 はじめに Content Mapper は、TypeScript 7.1 で入る仕組みです。実装の PR（typescript-go#4712）では、TypeScript が本来は読めない種類のファイルを、プロ... — Zenn トレンド / score: 75 (TypeScriptの新機能による開発フローの改善)</description>
-</item>
-<item>
 <title>[75] Explore the Codex Security Plugin</title>
 <link>https://openai.com/business/learn/codex-security-plugin-demo</link>
 <guid isPermaLink="true">https://openai.com/business/learn/codex-security-plugin-demo</guid>
@@ -797,14 +805,6 @@
 <pubDate>Wed, 18 Nov 2026 19:39:07 +0000</pubDate>
 <category>AWS News Blog</category>
 <description>AWS Lambda now supports GPU instances (G-series) for Event Functions running on Lambda Managed Instances, enabling serverless GPU workloads like machine learning inference, media processing, and rendering. Lambda handles all infrastructure tasks, including instance lifecycle, driver management, and auto scaling, while maximizing GPU utilization across concurrent requests with standard EC2 pricing plus a management fee — AWS News Blog / score: 75 (サーバーレスでのGPUワークロード実行が可能に)</description>
-</item>
-<item>
-<title>[75] AWS Lambda adds support for GPU instances on Lambda Managed Instances</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-gpu-managed-instances/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-gpu-managed-instances/</guid>
-<pubDate>Wed, 18 Nov 2026 18:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>AWS Lambda now supports GPU-accelerated Event Functions on Lambda Managed Instances using EC2 G-series instances . You can now run GPU-accelerated workloads including AI inference, media processing, 3D rendering, scientific computing, and financial simulations on Lambda without managing GPU drivers, frameworks, or scaling. Lambda runs multiple invocations concurrently in each execution environment and scales responsively based on GPU utilization, CPU utilization, and concurrency to keep your GPU — AWS What's New / score: 75 (AWS LambdaでのGPUインスタンスサポート追加)</description>
 </item>
 </channel>
 </rss>
