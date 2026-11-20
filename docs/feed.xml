@@ -4,8 +4,128 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 20 Nov 2026 16:06:10 +0000</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 18:07:40 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>AWS CloudFormation Service-Managed StackSets adds custom execution roles with nested stacks support</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/stacksets-custom-execution-roles/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/stacksets-custom-execution-roles/</guid>
+<pubDate>Fri, 20 Nov 2026 17:45:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS CloudFormation StackSets now supports custom execution roles for service-managed stack sets, which enables you to scope the permissions StackSets uses in each target AWS account. StackSets deploys the same infrastructure, such as networking and security settings, across thousands of accounts and Regions in one operation. With a custom execution role, you can also use nested stacks, macros, and transforms in service-managed stack sets, which allows you to deploy the reusable templates you use — AWS What's New / score: 45 (AWS CloudFormationの細かな機能追加)</description>
+</item>
+<item>
+<title>Anthropicの人がClaudeと数学界のラスボス「リーマン予想」の証明を発見したらしい</title>
+<link>https://www.gizmodo.jp/article/2611-claude-riemann-hypothesis-proof/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-claude-riemann-hypothesis-proof/</guid>
+<pubDate>Fri, 20 Nov 2026 17:45:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>Anthropic所属の数学者Levent Alpöge氏が自身のサイトにremark.pdfというファイルをアップしています。この文書には次のようなことが書かれています。リーマン予想は、数論を代表する古典的な問題です。ある大きさまでに素数… — ギズモード・ジャパン / score: 85 (Claudeを用いたリーマン予想の証明に関する日本語での解説)</description>
+</item>
+<item>
+<title>Amazon Aurora MySQL 8.4.12 is now generally available</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-aurora-mysql-8412-available/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-aurora-mysql-8412-available/</guid>
+<pubDate>Fri, 20 Nov 2026 17:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Starting today, Amazon Aurora MySQL-Compatible Edition 8.4 supports MySQL 8.4.12. This release includes several security enhancements and bug fixes. We recommend upgrading to the newer minor versions to accept fixes for Common Vulnerabilities and Exposures (CVEs) in prior versions of MySQL and to benefit from bug fixes, performance improvements, and new functionality added by community MySQL. For more details, refer to the Aurora MySQL 8.4 and MySQL 8.4.12 release notes. You can upgrade your dat — AWS What's New / score: 45 (Amazon Aurora MySQLのマイナーバージョン更新)</description>
+</item>
+<item>
+<title>How Vodafone is using the Data Engineering Agent to improve their data pipelines</title>
+<link>https://cloud.google.com/blog/products/data-analytics/vodafone-cuts-data-pipeline-costs-30-via-data-engineeringagent/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/data-analytics/vodafone-cuts-data-pipeline-costs-30-via-data-engineeringagent/</guid>
+<pubDate>Fri, 20 Nov 2026 17:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>For large organizations, building and maintaining data pipelines is one of the most complex tasks that data engineering teams are tasked with. In BigQuery environments, the Data Engineering Agent can help, leveraging Gemini to to automate these workflows. In this blog post, Vodafone Czech Republic describes how it has used the Data Engineering Agent to modernize and optimize BigQuery stored procedures, transforming them into modern data pipelines and reducing pipeline execution times by half. -  — Google Cloud Blog / score: 50 (BigQuery環境でのデータパイプライン構築支援機能)</description>
+</item>
+<item>
+<title>Frontier and Center: Why your data agents need a “wind tunnel”</title>
+<link>https://cloud.google.com/blog/products/data-analytics/a-data-simulator-to-test-agents/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/data-analytics/a-data-simulator-to-test-agents/</guid>
+<pubDate>Fri, 20 Nov 2026 17:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Imagine you're building a data agent to answer questions about an enterprise data warehouse. Ideally, you'd develop and test it against production data, but access restrictions and data sensitivity make that difficult – especially when the engineers building the agent sit outside the team that owns the data. Even with access, a live warehouse is a poor test track: Catalog descriptions are often incomplete or contradicted by institutional knowledge in docs and chat threads; there’s no verified an — Google Cloud Blog / score: 50 (データエージェント開発におけるテスト手法の解説)</description>
+</item>
+<item>
+<title>DynaPORT modernization on Google Cloud with AlloyDB for PostgreSQL and GKE</title>
+<link>https://cloud.google.com/blog/products/databases/dynaport-modernizes-with-alloydb/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/databases/dynaport-modernizes-with-alloydb/</guid>
+<pubDate>Fri, 20 Nov 2026 17:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>In global maritime logistics, Marine Ports and Terminals play a significant role in the movement of container and cargo, within and beyond. Marine ports and terminals world-wide use a Terminal Operating System (TOS) which acts as the central nervous system managing port operations 24 hours a day, 365 days a year. A modern TOS plans, automates and orchestrates every physical and digital activities, resources and events across Order-to-Invoice processes of a marine terminal. Developed by Tata Cons — Google Cloud Blog / score: 50 (AlloyDBとGKEを用いた海事ロジスティクスシステムの近代化)</description>
+</item>
+<item>
+<title>Drowning in clicks: Scaling Black Friday pipelines with Managed Airflow agents</title>
+<link>https://cloud.google.com/blog/products/data-analytics/scaling-airflow-pipelines-with-ai-agents-on-managed-airflow/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/data-analytics/scaling-airflow-pipelines-with-ai-agents-on-managed-airflow/</guid>
+<pubDate>Fri, 20 Nov 2026 17:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>When an Airflow pipeline fails in production, the hard part is rarely the fix. It's finding out what to fix. A task dies without a traceback. Is it the code, the data, or the environment? Hard to say, as clues are scattered across task logs, scheduler logs, and worker metrics. And once you know what the problem is, the question becomes whether to add memory, rewrite the DAG , or finally take on the major version upgrade you've been putting off. Answering these questions takes time and deep Airfl — Google Cloud Blog / score: 50 (Managed Airflowを活用したブラックフライデーのスケーリング)</description>
+</item>
+<item>
+<title>Introducing ambient networking for GKE</title>
+<link>https://cloud.google.com/blog/products/networking/ambient-networking-for-gke-sidecarless-service-mesh/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/networking/ambient-networking-for-gke-sidecarless-service-mesh/</guid>
+<pubDate>Fri, 20 Nov 2026 17:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Network sidecars have a deserved reputation for excessive resource consumption and increased management overhead, especially in a service mesh environment. Today, we are announcing the general availability of ambient networking for Google Kubernetes Engine (GKE). This milestone marks an important evolution in how your run service mesh on GKE, bringing a sidecar-less architecture into production. Introduced earlier this year, ambient networking decouples functionality traditionally provided as a  — Google Cloud Blog / score: 60 (GKEにおけるアンビエントネットワーキングの一般提供開始)</description>
+</item>
+<item>
+<title>What’s new in Managed Service for Apache Spark 4.0</title>
+<link>https://cloud.google.com/blog/products/data-analytics/whats-new-in-managed-service-for-apache-spark-4-0/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/data-analytics/whats-new-in-managed-service-for-apache-spark-4-0/</guid>
+<pubDate>Fri, 20 Nov 2026 17:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>As organizations move from reactive analytics to proactive systems of action powered by autonomous AI agents, data platforms face a new set of demands. Moving from human scale to agent scale changes both how data pipelines run and how they are built: Teams and AI agents now use Model Context Protocol (MCP) tools and agentic troubleshooting to build, submit, and diagnose Apache Spark pipelines while preparing multimodal datasets, performing feature engineering, and acting on live business signals — Google Cloud Blog / score: 50 (Managed Service for Apache Spark 4.0の新機能紹介)</description>
+</item>
+<item>
+<title>Ultimate guide for fixing your team’s API keys</title>
+<link>https://cloud.google.com/blog/topics/developers-practitioners/how-to-fix-your-teams-api-keys/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/topics/developers-practitioners/how-to-fix-your-teams-api-keys/</guid>
+<pubDate>Fri, 20 Nov 2026 17:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Most Gemini prototypes start the same way. You grab an API key from Google AI Studio , then paste it into your coding agent to start building a prototype. That speed is the point, and shouldn’t be slowed down. The trouble starts later, when the prototype gets real users and the key comes along unchanged. By then it usually isn't one key. Every developer has their own, often several, sitting in .env files, shell profiles and chat threads. The app has one more, baked into its config. For example,  — Google Cloud Blog / score: 55 (APIキーの安全な管理・修正に関するベストプラクティス)</description>
+</item>
+<item>
+<title>How Spanner Graph detects ads fraud and abuse at Google at multi-billion node scale</title>
+<link>https://cloud.google.com/blog/products/databases/how-spanner-graph-detects-google-ads-fraud-and-abuse/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/databases/how-spanner-graph-detects-google-ads-fraud-and-abuse/</guid>
+<pubDate>Fri, 20 Nov 2026 17:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Ever wonder how the Google Ads team keeps the massive system stable and online, despite continuous attempts by hackers to take it down? Part of the answer is using Spanner as its core operational and graph database. The Google Ads team uses a central graph-based platform to fight fraud and abuse with batch and real-time signals. Built to protect the Google Ads ecosystem and now used by multiple teams across Google, the platform organizes anti-abuse intelligence into a single, interconnected view — Google Cloud Blog / score: 60 (Spanner Graphを活用した大規模広告不正検知の仕組み)</description>
+</item>
+<item>
+<title>Quoting Levent Alpöge</title>
+<link>https://simonwillison.net/2026/Nov/20/levent-alpoge/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Nov/20/levent-alpoge/</guid>
+<pubDate>Fri, 20 Nov 2026 16:30:48 +0000</pubDate>
+<category>Simon Willison</category>
+<description>I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized Riemann Hypothesis, and I expect, with more time, the Extended Riemann Hypothesis too. Claude and I have also formalized the arguments without assumptions. It is natural to feel that this is an end, in my case a loss of a principal guiding light, but what I saw during the course of progress so amazed me that I believe it is one  — Simon Willison / score: 85 (Claudeを活用したリーマン予想の証明に関する大きな話題)</description>
+</item>
+<item>
+<title>可変速再生、ビートシンク、CDリッピングまで。CDを遊び尽くすポータブルプレーヤー、teenage engineering「EP/BC–1professional CD player」リリース！</title>
+<link>https://computermusic.jp/2026/11/ep-bc-1professional-cd-player/</link>
+<guid isPermaLink="true">https://computermusic.jp/2026/11/ep-bc-1professional-cd-player/</guid>
+<pubDate>Fri, 20 Nov 2026 16:15:52 +0000</pubDate>
+<category>Computer Music Japan</category>
+<description>可変速再生、ビートシンク、CDリッピングまで。CDを遊び尽くすポータブルプレーヤー、teenage engineering「EP/BC–1professional CD player」リリースです。 EP/BC–1pro... The post 可変速再生、ビートシンク、CDリッピングまで。CDを遊び尽くすポータブルプレーヤー、teenage engineering「EP/BC–1professional CD player」リリース！ first appeared on Computer Music Japan . — Computer Music Japan / score: 25 (teenage engineeringのユニークなポータブルCDプレイヤー)</description>
+</item>
+<item>
+<title>AWS Transform announces support for .NET 11 and expanded project types</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-windows-dotnet-11/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-windows-dotnet-11/</guid>
+<pubDate>Fri, 20 Nov 2026 16:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Today, AWS announced the general availability of .NET 11 support in AWS Transform for .NET. Support for VB.NET, desktop projects, and mobile projects, previously in preview, is also now generally available. You can modernize a broad range of Windows .NET workloads to the latest version of .NET and lower costs by running them on Linux. Modernized workloads gain the performance improvements, new C# language features, and improved diagnostics in .NET 11. AWS Transform modernizes both legacy .NET Fr — AWS What's New / score: 50 (AWS Transformによる.NET 11サポート等の一般提供開始)</description>
+</item>
+<item>
+<title>Introducing Amazon EC2 T9g instances based on Graviton5</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-t9g-instances-ga/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-t9g-instances-ga/</guid>
+<pubDate>Fri, 20 Nov 2026 16:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS is announcing the general availability of new low-cost burstable Amazon EC2 T9g instances, which offer the best price performance among general-purpose EC2 instances. These instances are powered by AWS Graviton5 processors and built on the latest sixth generation AWS Nitro cards. T9g instances deliver up to 45% better price performance compared to previous generation T4g instances, and offer four sizes: nano, micro, small, and medium. These instances are designed for workloads requiring low  — AWS What's New / score: 55 (Graviton5を搭載した新しいEC2インスタンスの一般提供)</description>
+</item>
 <item>
 <title>RTX 5080搭載PCが6万7000円引き！ パソコンショップSEVEN、11月21日限定セール</title>
 <link>https://ascii.jp/elem/000/004/453/4453399/?rss</link>
@@ -53,6 +173,14 @@
 <pubDate>Fri, 20 Nov 2026 14:00:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>複数のVPNを利用していると接続先ごとに異なるアプリやコマンドを使い分ける必要があり、通信状態や通信経路の確認も複雑になります。そこでWireGuard・OpenVPNなどの接続管理を一つの画面にまとめ、通信速度・遅延のリアルタイム監視・情報漏えいの検出・VPN切断時の通信遮断まで行える無料のオープンソースツールが「Vortix」です。 続きを読む... — GIGAZINE / score: 60 (VPN管理に便利なオープンソースツールの紹介)</description>
+</item>
+<item>
+<title>AWS launches standardized cost and rate columns in CUR 2.0 and Cost Explorer</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/aws-cur-cost-explorer/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/aws-cur-cost-explorer/</guid>
+<pubDate>Fri, 20 Nov 2026 14:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS Data Exports for Cost and Usage Report (CUR) 2.0 now includes standardized cost and rate columns that represent cost consistently across AWS purchase options, including On Demand, Savings Plans, Reserved Instances, EC2 Spot, and EC2 Capacity Blocks for ML. These 14 columns are added when you enable Include Standardized cost and rate columns while setting up a new CUR 2.0 export or editing an existing CUR 2.0 and these columns have the prefix cost_analytics_. With these new columns, you can q — AWS What's New / score: 40 (AWS CUR 2.0等におけるコスト関連カラムの標準化)</description>
 </item>
 <item>
 <title>雨の日でも、夜でも発電。太陽光発電の弱点がなくなりつつある</title>
@@ -245,6 +373,14 @@
 <pubDate>Fri, 20 Nov 2026 11:43:24 +0000</pubDate>
 <category>気になる、記になる…</category>
 <description>Microsoftが、2027年1月をもって、チャット・Web会議コラボレーションツール「Microsoft Teams」における「iOS 17」および「iPadOS 17」のサポートを終了することが分かりました。 これ […] — 気になる、記になる… / score: 45 (Teamsの古いOSバージョンサポート終了)</description>
+</item>
+<item>
+<title>情報漏洩3億件超の時代、経営者が問われるのは「どう守るか」よりも「何を持たないか」、顧客情報を預かる資格 KARTEへの不正アクセスとソースネクストの大量流出が示した、顧客情報を持ちすぎる経営の死角 | JBpress (ジェイビープレス)</title>
+<link>https://jbpress.ismedia.jp/articles/-/98148</link>
+<guid isPermaLink="true">https://jbpress.ismedia.jp/articles/-/98148</guid>
+<pubDate>Fri, 20 Nov 2026 11:43:01 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>昨今、死ぬほど情報漏洩の事案が急増し、生成AIの発展に伴う脅威が安全で快適なインターネットとやらの根底を脅かす機会が増えました。大変なことなんですが、「どうしてこうもやられるんか」って話を事業関係先やコンサル先でした時に感じるのは、「経営陣が、技術に詳しくなさ過ぎて、いまネットで起きていることを理... — はてなブックマーク テクノロジー / score: 85 (大規模な情報漏洩事案と経営のセキュリティ対策に関する警鐘)</description>
 </item>
 <item>
 <title>iPhone Duoの在庫増加【11/20】〜公式・キャリア・家電量販店の最新状況</title>
@@ -455,7 +591,7 @@
 <description> — CodeZine / score: 25 (技術イベントの追加登録案内)</description>
 </item>
 <item>
-<title>トーストを食べながら考えた。Orca echoは薄切り派 厚切り派？</title>
+<title>トーストを食べながら考えた。Orca echoは薄切り派？ 厚切り派？</title>
 <link>https://www.gizmodo.jp/article/orca-echo-toast/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/orca-echo-toast/</guid>
 <pubDate>Fri, 20 Nov 2026 10:30:00 +0000</pubDate>
@@ -669,142 +805,6 @@
 <pubDate>Fri, 20 Nov 2026 09:10:00 +0000</pubDate>
 <category>ASCII.jp</category>
 <description>株式会社Co-Labo AI、生成AIに会社の言葉を教える「オントロジー」の製造業向け解説を公開 — ASCII.jp / score: 40 (製造業向け生成AI解説の公開ニュース)</description>
-</item>
-<item>
-<title>株式会社Rabbitly、株式会社Smile IP Consultingが2026年11月16日に公開した、AI時代の知財基盤『SINGULON』のシステム開発を担当！</title>
-<link>https://ascii.jp/elem/000/004/453/4453792/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/453/4453792/?rss</guid>
-<pubDate>Fri, 20 Nov 2026 09:06:23 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>株式会社Rabbitly、株式会社Smile IP Consultingが2026年11月16日に公開した、AI時代の知財基盤『SINGULON』のシステム開発を担当！ — ASCII.jp / score: 30 (知財基盤システム開発のニュース)</description>
-</item>
-<item>
-<title>ニュートン・フィナンシャル・コンサルティングが日本保険代理業認定協会 JIACAの正会員に</title>
-<link>https://ascii.jp/elem/000/004/453/4453793/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/453/4453793/?rss</guid>
-<pubDate>Fri, 20 Nov 2026 09:05:29 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>ニュートン・フィナンシャル・コンサルティングが日本保険代理業認定協会 JIACAの正会員に — ASCII.jp / score: 10 (企業の会員加入に関するニュース)</description>
-</item>
-<item>
-<title>ファミペイで緊急メンテナンス　ファミマ以外の店舗でコード決済が利用不可に</title>
-<link>https://ascii.jp/elem/000/004/453/4453783/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/453/4453783/?rss</guid>
-<pubDate>Fri, 20 Nov 2026 09:05:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>ファミペイが、ファミリーマート以外の店舗で一時的に使えなくなっている。 — ASCII.jp / score: 40 (決済サービスの緊急メンテナンス)</description>
-</item>
-<item>
-<title>RTKの走行データ収集でAndroidの記録アプリを外から監視する</title>
-<link>https://zenn.dev/nauh_blog/articles/b60cd6973c8a3f</link>
-<guid isPermaLink="true">https://zenn.dev/nauh_blog/articles/b60cd6973c8a3f</guid>
-<pubDate>Fri, 20 Nov 2026 09:00:06 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>こんにちは。ナウア株式会社の柳です。 私たちは、測定装置とエッジAI端末を組み合わせた調査機器を運用しています。 機器の状態を確かめたり設定を変えたりする管理画面は、自社で開発したWebアプリです。 研究・開発に使うため、車両で走行データを集めることもあります。 走行中の位置の記録に使うのは、RTKの受信機とAndroidのアプリ「DroggerGPS」（以下DrGPS）です。 データを集めるための走行には、車両とドライバーと時間がかかります。 途中で記録が止まっていても走行を終えるまで気づけなければ、その走行はやり直しです。 そこでDrGPSを監視するAndroidアプリを作り、記録で... — Zenn トレンド / score: 45 (Androidアプリを用いたデータ収集の技術的実践)</description>
-</item>
-<item>
-<title>「final福袋2027」いよいよ明日11/21（土）正午より販売開始！ 発売に先がけ本日11/20 18時より福袋ごとの個別ページを公開！</title>
-<link>https://ascii.jp/elem/000/004/453/4453803/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/453/4453803/?rss</guid>
-<pubDate>Fri, 20 Nov 2026 09:00:05 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>「final福袋2027」いよいよ明日11/21（土）正午より販売開始！ 発売に先がけ本日11/20 18時より福袋ごとの個別ページを公開！ — ASCII.jp / score: 10 (オーディオ機器の福袋販売告知)</description>
-</item>
-<item>
-<title>【ブラックフライデー 2026開催】ヘアアイロンやヘルスケア炊飯器など人気家電が勢揃い</title>
-<link>https://ascii.jp/elem/000/004/453/4453805/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/453/4453805/?rss</guid>
-<pubDate>Fri, 20 Nov 2026 09:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>【ブラックフライデー 2026開催】ヘアアイロンやヘルスケア炊飯器など人気家電が勢揃い — ASCII.jp / score: 10 (家電製品のセール告知)</description>
-</item>
-<item>
-<title>会話の内容の文字起こしやAIエージェントでのタスク割り当てができる、Mac版とWindows版の「Vocciデスクトップアプリ」を公開</title>
-<link>https://ascii.jp/elem/000/004/453/4453804/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/453/4453804/?rss</guid>
-<pubDate>Fri, 20 Nov 2026 09:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>会話の内容の文字起こしやAIエージェントでのタスク割り当てができる、Mac版とWindows版の「Vocciデスクトップアプリ」を公開 — ASCII.jp / score: 45 (文字起こしやAIエージェント搭載アプリの公開)</description>
-</item>
-<item>
-<title>ゼンハイザーの定番モニターイヤホン「IE 100 PRO」が最安の1万円ポッキリ！</title>
-<link>https://www.gizmodo.jp/article/2611-sennheiser-ie-100-pro-sale/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-sennheiser-ie-100-pro-sale/</guid>
-<pubDate>Fri, 20 Nov 2026 09:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>ゼンハイザーの定番モニターイヤホンIE 100 PROがAmazonタイムセールで最安値の1万円に。原音に忠実なクリアサウンド、この機会にお得に手に入れましょう。 — ギズモード・ジャパン / score: 20 (イヤホンのセール情報。)</description>
-</item>
-<item>
-<title>ゲームするので今日は休みます。ロジクールが社員に「ゲーム休暇」をプレゼント</title>
-<link>https://www.gizmodo.jp/article/2611-logicool-game-day-vacation/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-logicool-game-day-vacation/</guid>
-<pubDate>Fri, 20 Nov 2026 08:45:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>ロジクールが社員にゲームのための休暇をプレゼントする新制度「Logi Game Day」を発表。ゲームで問題解決力を鍛えよう。 — ギズモード・ジャパン / score: 20 (企業のユニークな福利厚生制度の紹介。)</description>
-</item>
-<item>
-<title>はてなエンジニアの自作RSSリーダーをご紹介します 2026 - Hatena Developer Blog</title>
-<link>https://developer.hatenastaff.com/entry/2026/11/20/162322</link>
-<guid isPermaLink="true">https://developer.hatenastaff.com/entry/2026/11/20/162322</guid>
-<pubDate>Fri, 20 Nov 2026 08:33:42 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>はてなには多くのエンジニアが在籍していますが、普段から開発が好きな人が多く、業務以外でも各自が欲しいものなどを自作していることがあります。特に近年では生成AIによって自作のハードルはかなり下がったと思われます。そんな自作ツールたちですが、今回はRSSリーダーに絞って紹介していきます。 自作RSSリーダー紹... — はてなブックマーク テクノロジー / score: 35 (開発者の自作RSSリーダー紹介の個人ブログ記事)</description>
-</item>
-<item>
-<title>祝Xbox 25周年！ 次世代Xboxについてわかっていること7つ</title>
-<link>https://www.gizmodo.jp/article/2611-xbox-25th-next-gen-features/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-xbox-25th-next-gen-features/</guid>
-<pubDate>Fri, 20 Nov 2026 08:30:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>25周年を迎えたXboxの次世代機Project Helixについて、リークや噂、開発陣の発言をもとに7つのポイントをわかりやすく解説、いったいどんなゲーム機になるのでしょう。 — ギズモード・ジャパン / score: 40 (次世代ゲーム機に関する噂や情報のまとめ。)</description>
-</item>
-<item>
-<title>「Visual Studio 2026」に長期サービスチャネル「LTSC 18.11」、2028年11月まで修正を提供／当初予定の1年から2年に延長。v18.12では「Copilot Chat」が新エンジンに</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2158151.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2158151.html</guid>
-<pubDate>Fri, 20 Nov 2026 08:25:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Microsoftは11月10日（現地時間）、「Visual Studio 2026」の長期サービスチャネル（LTSC）版「Visual Studio 2026 LTSC 18.11」を発表した。安定（Stable）チャネルの「Visual Studio 2026」v18.12とあわせてリリースされたもので、2028年11月14日までの2年間サポートされる。 — 窓の杜 / score: 75 (Visual Studio 2026 LTSC版のリリース)</description>
-</item>
-<item>
-<title>スマホ無限スクロール どう思う?</title>
-<link>https://news.yahoo.co.jp/pickup/6603307?source=rss</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6603307?source=rss</guid>
-<pubDate>Fri, 20 Nov 2026 08:24:49 +0000</pubDate>
-<category>Yahoo!ニュース IT</category>
-<description> — Yahoo!ニュース IT / score: 20 (UXに関する一般的なアンケート記事)</description>
-</item>
-<item>
-<title>「Codexを用いてChatGPTの高速性を維持する方法」をOpenAIが解説、AIエージェントで工場システムを構築して自律的に改善作業を進める</title>
-<link>https://gigazine.net/news/20261120-openai-chatgpt-performance-factory/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261120-openai-chatgpt-performance-factory/</guid>
-<pubDate>Fri, 20 Nov 2026 08:09:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>OpenAIはChatGPTなどの自社製品の開発にCodexを活用しています。新たに「Codexを用いてChatGPTの高速性を維持する方法」という解説記事が公開されました。 続きを読む... — GIGAZINE / score: 75 (OpenAIによる開発効率化の解説記事)</description>
-</item>
-<item>
-<title>ChatGPTのAIエージェントdots、米国のBusiness Standardで提供開始。Plusでは少数のユーザーを対象にテスト ——ChatGPTモバイルアプリに自分のdotとの会話を開く専用タブ</title>
-<link>https://gihyo.jp/article/2026/11/chatgpt-dots-expanded-access-and-mobile-app-redesign?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/11/chatgpt-dots-expanded-access-and-mobile-app-redesign?utm_source=feed</guid>
-<pubDate>Fri, 20 Nov 2026 08:07:46 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>OpenAIは2026年11月19日、AIエージェント「dots」の提供を米国のChatGPT Business Standardで始めた。個人向けのChatGPT Plusでは、少数のユーザーが試験的にdotsを利用できる。 — gihyo.jp / score: 70 (OpenAIの新AIエージェント提供開始)</description>
-</item>
-<item>
-<title>「ラ王」が「ドラゴンクエスト」とコラボした「日清マ王 大魔王味噌」試食レビュー、4種配合のスープが濃厚＆刺激的</title>
-<link>https://gigazine.net/news/20261120-nissin-mao-daimao-miso/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261120-nissin-mao-daimao-miso/</guid>
-<pubDate>Fri, 20 Nov 2026 08:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>日清のカップ麺「ラ王」が「ドラゴンクエスト」とコラボした「日清マ王 大魔王味噌」を2026年11月23日に発売します。12月3日発売のゲーム『ドラゴンクエストモンスターズ4 枯れ木の国のビアンカ・フローラ』にちなんだ「4種配合」スープになっているとのことなので、発売に先駆けて編集部に届いた日清マ王 大魔王味噌を一足早く食べてみました。 続きを読む... — GIGAZINE / score: 10 (食品とゲームのコラボレーションに関する話題)</description>
-</item>
-<item>
-<title>Announcing the general availability of a new AWS Local Zone in Bogotá, Colombia</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/11/aws-local-zone-bogota-colombia/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/aws-local-zone-bogota-colombia/</guid>
-<pubDate>Fri, 20 Nov 2026 08:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Today, AWS announces the general availability of a new Local Zone in Bogotá, Colombia, bringing AWS infrastructure closer to end users for applications that require single-digit millisecond latency. You can use the Bogotá Local Zone for workloads such as real-time gaming, live video streaming, medical imaging, and financial transaction processing. AWS Local Zones are infrastructure deployments that place compute, storage, networking, and other select AWS services closer to metropolitan areas, wi — AWS What's New / score: 50 (AWSインフラの地域展開による低遅延化)</description>
 </item>
 </channel>
 </rss>
