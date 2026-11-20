@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 20 Nov 2026 04:07:40 +0000</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 06:10:35 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Ruby」に7件の脆弱性、修正版への更新を強く推奨。リモートコード実行の実証コードが存在／最高深刻度「Critical」。v4.0.10、v3.4.13、v3.3.14が公開</title>
@@ -71,6 +71,14 @@
 <description>PostgreSQL 19 Released Most years PostgreSQL ships a new release in September, but this year's release came two months later thanks mainly to the flurry of issues that the PostgreSQL team needed to address as part of the ongoing AI-reported vulnerability apocalypse. This release was definitely worth the wait. My favorite new feature is this one: For applications that send reads to standbys, PostgreSQL 19 adds "read-your-writes" consistency with the new WAIT FOR LSN command. A session on a standb — Simon Willison / score: 90 (主要なRDBMSであるPostgreSQL 19のメジャーリリース)</description>
 </item>
 <item>
+<title>[90] GitHub - MSNightmare/FastUnlock: FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability</title>
+<link>https://github.com/MSNightmare/FastUnlock</link>
+<guid isPermaLink="true">https://github.com/MSNightmare/FastUnlock</guid>
+<pubDate>Thu, 19 Nov 2026 16:06:23 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability The vulnerability exist in the way how narrator handles UI in a locked account context, succesful exploitation results in bypassing bitlocker and executing code in the context of the lockscreen account "WsiAccount" It took a total... — はてなブックマーク テクノロジー / score: 90 (Windowsのゼロデイ脆弱性の報告)</description>
+</item>
+<item>
 <title>[90] 11月に修正されたPHPの脆弱性についてまとめてみた - piyolog</title>
 <link>https://piyolog.hatenadiary.jp/entry/2026/11/20/003148</link>
 <guid isPermaLink="true">https://piyolog.hatenadiary.jp/entry/2026/11/20/003148</guid>
@@ -82,9 +90,17 @@
 <title>[90] 「PHP」で17件の脆弱性に対処、認証不要のリモートコード実行につながる“致命的”なものも／v8.5.13、v8.4.28、v8.3.37、v8.2.36が公開</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2158039.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2158039.html</guid>
-<pubDate>Thu, 19 Nov 2026 15:05:27 +0000</pubDate>
+<pubDate>Thu, 19 Nov 2026 15:01:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>スクリプト言語「PHP」の開発チームは11月19日（協定世界時）、予告通り「PHP」のセキュリティアップデートを実施した。現在、以下の修正版が利用可能。 — 窓の杜 / score: 90 (PHPの致命的な脆弱性を含む多数の脆弱性修正)</description>
+</item>
+<item>
+<title>[90] 「KARTE」不正アクセス、シャープ通販で最大約326万件流出のおそれ　DHCは約1911万件漏えい</title>
+<link>https://japan.cnet.com/article/35255160/</link>
+<guid isPermaLink="true">https://japan.cnet.com/article/35255160/</guid>
+<pubDate>Thu, 19 Nov 2026 09:57:26 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>「PHP」で17件の脆弱性に対処、認証不要のリモートコード実行につながる“致命的”なものも／v8.5.13、v8.4.28、v8.3.37、v8.2.36が公開 — はてなブックマーク テクノロジー / score: 90 (PHPの致命的な脆弱性を含む多数の脆弱性修正)</description>
+<description>シャープは11月19日、公式通販サイト「COCORO STORE」の顧客情報が最大326万4445件流出した恐れがあると発表した。同社がマーケティングに使うプレイドのサービス「KARTE」が不正アクセスを受けた。前日の18日には、同じサービスを利用するディーエイチシー（DHC）も、氏名やメールアドレスなど約1911万件の顧客情報が漏... — はてなブックマーク テクノロジー / score: 90 (大規模サービスにおける深刻な情報流出)</description>
 </item>
 <item>
 <title>[90] NGINX、HTTP/2処理の脆弱性を修正 ——静的ファイルだけを配信する構成でもリモートコード実行を確認</title>
@@ -141,14 +157,6 @@
 <pubDate>Tue, 17 Nov 2026 04:33:23 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Googleの脆弱性調査チーム「Project Zero」は11月13日（現地時間）、脆弱性の情報開示ポリシーを改定すると発表した。同チームは2021年以降、「90＋30」と呼ばれる開示ポリシーを採用してきた。これはベンダーに最大90日の修正期間を与え、さらにパッチを展開するための“ソークタイム”として30日を追加するというものだ。しかし、脆弱性の発見やエクスプロイト（攻撃コード）の作成にAIが活用されるようになり、状況が大きく変わったとして、「Full X」と呼ばれる開示ポリシーが新たに採用されることになった。 — 窓の杜 / score: 90 (Google Project Zeroの脆弱性開示期限短縮)</description>
-</item>
-<item>
-<title>[90] Windows版「Zoom」アプリに2件の脆弱性 ～1件は深刻度「Critical」／認証なし・ネットワーク経由で権限昇格、最新版への更新を</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2156695.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2156695.html</guid>
-<pubDate>Mon, 16 Nov 2026 05:34:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Zoom Communicationsは11月10日（現地時間）、オンラインビデオ会議サービス「Zoom」のWindows版クライアントアプリに複数の脆弱性があることを明らかにした。以下の2件がアナウンスされている（括弧内は深刻度の評価と「CVSS」の基本値）。 — 窓の杜 / score: 90 (Windows版Zoomアプリの深刻な脆弱性)</description>
 </item>
 <item>
 <title>[90] Google、Microsoft、AWS、CloudflareがAI侵入テストツールARTEXの悪用を報告、FBIも注意喚起</title>
@@ -231,14 +239,6 @@
 <description>AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption. — Google DeepMind / score: 90 (AIを用いた複雑なソフトウェアの形式検証の大きなブレイクスルー)</description>
 </item>
 <item>
-<title>[90] OpenAI、サイバーセキュリティ向けフロンティアモデル「GPT-6 Cyber」を発表 ―脆弱性の自律的な検出・検証・修正に対応、スコープ外への攻撃・逸脱を厳格に防止</title>
-<link>https://gihyo.jp/article/2026/11/gpt-6-cyber?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/11/gpt-6-cyber?utm_source=feed</guid>
-<pubDate>Fri, 06 Nov 2026 04:42:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>OpenAIは2026年11月5日、サイバーセキュリティ向けフロンティアモデルの最新バージョンGPT-6 Cyberを発表した。 — gihyo.jp / score: 90 (AIモデルによるサイバーセキュリティ自動化の重大な発表)</description>
-</item>
-<item>
 <title>[88] Introducing Gemini 4 Neon</title>
 <link>https://deepmind.google/blog/introducing-gemini-4-neon/</link>
 <guid isPermaLink="true">https://deepmind.google/blog/introducing-gemini-4-neon/</guid>
@@ -253,6 +253,30 @@
 <pubDate>Wed, 18 Nov 2026 21:00:00 +0000</pubDate>
 <category>Gemini (Google Blog)</category>
 <description>Today, we’re introducing Gemini 4 Neon — Gemini (Google Blog) / score: 88 (Googleの新型モデルGemini 4 Neonの発表)</description>
+</item>
+<item>
+<title>[85] 欧州委員会がAIを用いたサイバー攻撃の標的になったことを発表</title>
+<link>https://gigazine.net/news/20261120-eu-commission-cyberattack/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261120-eu-commission-cyberattack/</guid>
+<pubDate>Fri, 20 Nov 2026 05:30:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>EUの行政執行機関である欧州委員会(EC)が、AIツールを使用したサイバー攻撃の標的になったことを、2026年11月19日に認めました。ECの報道官は「調査は進行中で、事件の規模を判断するのは難しい」と会見で述べています。 続きを読む... — GIGAZINE / score: 85 (欧州委員会がAIサイバー攻撃の標的に)</description>
+</item>
+<item>
+<title>[85] 「あと10年もたないかもしれない」Rubyの父 まつもとゆきひろが危惧するOSS文化の消滅 - エンジニアtype | 転職type</title>
+<link>https://type.jp/et/feature/32219/</link>
+<guid isPermaLink="true">https://type.jp/et/feature/32219/</guid>
+<pubDate>Fri, 20 Nov 2026 04:31:59 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>NEW! 2026.11.20 ITニュース OSSRubyまつもとゆきひろAI 2026年10月、プログラミング言語「PHP」で深刻な脆弱性が発覚し、世界中の利用者に緊急のアップデートが呼びかけられた。 11月にはJavaのオープンソース実装「OpenJDK」でも重大な脆弱性が明らかになるなど、ソフトウエア開発の基盤を支える技術の安全性が、相次... — はてなブックマーク テクノロジー / score: 85 (Rubyの父によるOSS文化への警鐘)</description>
+</item>
+<item>
+<title>[85] 「Wireshark 4.6.10」が公開、Windows Server 2016などに対応する「4.4」系の最終版も／39件の脆弱性を修正、前回から倍増</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2158044.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2158044.html</guid>
+<pubDate>Fri, 20 Nov 2026 04:05:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>フリーのパケットキャプチャーツール「Wireshark 4.6.10」が、11月18日（協定世界時）に公開された。「Wireshark 4.6」シリーズの最新版となる。 — 窓の杜 / score: 85 (主要なパケットキャプチャの脆弱性修正。)</description>
 </item>
 <item>
 <title>[85] ハッカーがVisaやMastercardの顧客データを入手</title>
@@ -287,14 +311,6 @@
 <description>Neowinによると、Microsoftが、先日に配信した「Windows 11」向けのセキュリティ更新「ホットパッチ」を適用すると、Microsoft Officeやサードパーティ製の一部のアプリが起動しなくなるなどの […] — 気になる、記になる… / score: 85 (Win11の更新でアプリが起動しなくなる重大な不具合。)</description>
 </item>
 <item>
-<title>[85] phpAfterShell: From Interrupted Session Writes to Remote Code Execution | depthfirst</title>
-<link>https://depthfirst.com/research/phpaftershell</link>
-<guid isPermaLink="true">https://depthfirst.com/research/phpaftershell</guid>
-<pubDate>Thu, 19 Nov 2026 23:08:38 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>phpAfterShell: From Interrupted Session Writes to Remote Code Execution TL;DR: PHP can update a file-backed session while parsing an unauthenticated multipart request, even before the target script begins execution. We discovered reliable methods to interrupt the file operation during session upl... — はてなブックマーク テクノロジー / score: 85 (PHPのセッション処理に関する脆弱性とRCE)</description>
-</item>
-<item>
 <title>[85] 【速報】Anthropicが上場。初値は111.50ドル、公開価格を34%上回る</title>
 <link>https://www.gizmodo.jp/article/2611-anthropic-ipo/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/2611-anthropic-ipo/</guid>
@@ -327,14 +343,6 @@
 <description>AWS Site-to-Site VPN now supports post-quantum key exchanges to help improve the security posture of your VPN tunnels. This feature supports your migration to post-quantum cryptography based on NIST guidelines. AWS Site-to-Site VPN is a fully managed service that creates an encrypted connection between your data center or branch office and your AWS resources using IPsec tunnels. With AWS Site-to-Site VPN, you can now configure post-quantum key exchange methods in your VPN tunnel options using th — AWS What's New / score: 85 (VPNの耐量子暗号鍵交換サポート)</description>
 </item>
 <item>
-<title>[85] Ruby2Shell (GHSA-34m4-m9fh-gqp5)</title>
-<link>https://verialabs.com/ruby2shell/</link>
-<guid isPermaLink="true">https://verialabs.com/ruby2shell/</guid>
-<pubDate>Thu, 19 Nov 2026 07:31:46 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>ruby2ßhell A one-byte heap overflow to remote code execution in Ruby's string case conversion. Reachable without authentication in the default configuration of common Ruby web frameworks and self-hosted software. — はてなブックマーク テクノロジー / score: 85 (Rubyの文字列変換に関する重大な脆弱性)</description>
-</item>
-<item>
 <title>[85] 六花亭 セキュリティコード流出か</title>
 <link>https://news.yahoo.co.jp/pickup/6603168?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6603168?source=rss</guid>
@@ -346,9 +354,9 @@
 <title>[85] 相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ</title>
 <link>https://zenn.dev/kusuke/articles/98e178e6824cac</link>
 <guid isPermaLink="true">https://zenn.dev/kusuke/articles/98e178e6824cac</guid>
-<pubDate>Thu, 19 Nov 2026 02:22:17 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ 昨日から今日にかけて、なんだかすごいことになっていますね。 先日「PHP2Shell（CVE-2026-109618 / CVE-2026-109619）」というコアそのもののRCE（リモートコード実行）が出て大騒ぎになったと思ったら、JavaでもJavaのB... — はてなブックマーク テクノロジー / score: 85 (OSSの脆弱性とクラウドWAFの対策解説)</description>
+<pubDate>Thu, 19 Nov 2026 01:34:24 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>昨日から今日にかけて、なんだかすごいことになっていますね。 先日「PHP2Shell（CVE-2026-109618 / CVE-2026-109619）」というコアそのもののRCE（リモートコード実行）が出て大騒ぎになったと思ったら、JavaでもJavaのBase64デコーダ周りで「Java2Shell（CVE-2026-114938）」が出てきました。さらに今日（11月18日・米国時間）はnginxで10年前から潜んでいたHTTP/2のメモリ破壊バグ（CVE-2026-123007、通称nginx2rootなど）が発表され、今晩23時からはPHPのCriticalな脆弱性リリースまで... — Zenn トレンド / score: 85 (OSSの脆弱性とクラウドWAFの対策解説)</description>
 </item>
 <item>
 <title>[85] Google、「Gemini 4 Neon」を発表 ～「Claude Opus 5.5」「GPT-6.2 Sol」のライバル／“フロンティア級”の知能をより高速・低コストで、「Carbon」比でタスク単価32％削減</title>
@@ -551,20 +559,12 @@
 <description>JEP 401 (Value Objects) arrives in OpenJDK as a preview feature, enabling a new Java type model with minimal code changes. The talk explains what value objects are, JVM benefits, Valhalla history, implementation details, and the path toward bridging objects and primitives, including future support like List&lt;int&gt;. — Inside Java / score: 82 (Java Valhallaプロジェクトの解説と進化)</description>
 </item>
 <item>
-<title>[80] 中国AI企業、NVIDIAの規制対象GPUを使用か　元OpenAI研究者らが分析結果を公開</title>
-<link>https://ascii.jp/elem/000/004/453/4453435/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/453/4453435/?rss</guid>
-<pubDate>Fri, 20 Nov 2026 02:05:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>中国のAI企業が、米国の輸出規制対象となっているNVIDIAの最新GPUを使用していたのではないかという疑惑に、新たな技術的証拠が発見された。 — ASCII.jp / score: 80 (中国AI企業による対米規制GPU使用の疑惑調査)</description>
-</item>
-<item>
-<title>[80] Checking for NGINX2Root and Java4Shell with Threats in Devin Security | Devin</title>
-<link>https://devin.ai/blog/nginx2root-java4shell-threats</link>
-<guid isPermaLink="true">https://devin.ai/blog/nginx2root-java4shell-threats</guid>
-<pubDate>Fri, 20 Nov 2026 00:26:29 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Helping customers scan for and patch the recently disclosed NGINX2Root and Java4Shell vulnerabilities with Threats in Devin Security. — はてなブックマーク テクノロジー / score: 80 (セキュリティツールによる脆弱性スキャンの話題)</description>
+<title>[80] 「Microsoft To Do」アプリが2027年6月で廃止、個人の場合は別アプリへの乗り換えが必要に／法人向けは「Planner」が後継</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2158040.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2158040.html</guid>
+<pubDate>Fri, 20 Nov 2026 05:10:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Microsoftは、タスク管理アプリ「Microsoft To Do」を段階的に廃止すると発表した。Web、Windows、Mac、iOS、Androidの「Microsoft To Do」アプリは、2027年6月30日をもって終了する。 — 窓の杜 / score: 80 (主要タスク管理アプリの廃止発表。)</description>
 </item>
 <item>
 <title>[80] AWS Lambda、Lambda Managed InstancesでGPUインスタンスに対応</title>
@@ -695,6 +695,22 @@
 <description>November 9, 2026 — Claude Fable 5.2 and Mythos 5.2 arrive on Anthropic’s IPO roadshow day. How much thinking is worth paying for? — Latent Space / score: 78 (主要LLMの性能逆転とIPO動向)</description>
 </item>
 <item>
+<title>[75] Android開発者認証が2027年1月から世界展開開始</title>
+<link>https://gigazine.net/news/20261120-android-developer-verification-expanding/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261120-android-developer-verification-expanding/</guid>
+<pubDate>Fri, 20 Nov 2026 06:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>Googleが「不正行為防止策」と呼び、一部の開発者が「オープンな開発を阻害するもの」と反発するAndroidのセキュリティシステム「開発者認証」が2027年1月から全世界向けに展開され始めます。 続きを読む... — GIGAZINE / score: 75 (Android開発者認証の世界展開)</description>
+</item>
+<item>
+<title>[75] Googleの世界モデル「Genie 4」が「Project Genie」で利用可能に、遊びながら世界を書き換え／「Google AI Ultra」向けに展開。「Gemini API」でも一般提供</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2158089.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2158089.html</guid>
+<pubDate>Fri, 20 Nov 2026 05:27:12 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Googleは11月18日（現地時間）、世界モデル（ワールドモデル）「Genie 4」を「Project Genie」に導入したと発表した。現在、条件を満たす「Google AI Ultra」のサブスクライバーへ順次展開中。「Google AI Pro」契約者はウェイトリストに登録できる。 — 窓の杜 / score: 75 (Googleの新世界モデルの提供開始。)</description>
+</item>
+<item>
 <title>[75] Windows PCを複数台接続して1個のAI処理クラスターとして扱う機能「RDMA over USB4」をMicrosoftが発表、USBケーブルのみで接続可能で専用機材不要</title>
 <link>https://gigazine.net/news/20261120-rdma-over-usb4-windows/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261120-rdma-over-usb4-windows/</guid>
@@ -733,14 +749,6 @@
 <pubDate>Thu, 19 Nov 2026 18:00:00 +0000</pubDate>
 <category>Google AI Blog</category>
 <description>Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API. — Google AI Blog / score: 75 (Gemini APIの新機能プレビュー公開)</description>
-</item>
-<item>
-<title>[75] 美少女ゲーム「NIKKE」経由でマルウェア感染　北海道2自治体、委託先が認める</title>
-<link>https://www.itmedia.co.jp/news/article/2611/19/2000003351/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/19/2000003351/</guid>
-<pubDate>Thu, 19 Nov 2026 11:25:45 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>11月18日、業務の再委託先が使用する情報機器でマルウェア「K2F」への感染が確認され、個人情報が漏えいした可能性があると発表した北海道岩見沢市と新得町。両自治体が業務を委託していたGIS北海道（札幌市）は19日、ITmedia NEWSの取材に応じ、人気ゲーム「勝利の女神：NIKKE」のPC版ランチャー（起動用アプリ）が関係... — はてなブックマーク テクノロジー / score: 75 (ゲーム経由のマルウェア感染と個人情報漏えい事案)</description>
 </item>
 <item>
 <title>[75] AgentCore runtime instances now support Nested Virtualization</title>
@@ -783,28 +791,20 @@
 <description>OpenAIが自社製AIを用いて独自開発チップ「Jalapeño(ハラペーニョ)」やAMD製GPUの性能向上を実現したことをアピールしています。 続きを読む... — GIGAZINE / score: 75 (OpenAIによる半導体設計・専用AIモデルの成果)</description>
 </item>
 <item>
+<title>[75] 15 million web servers on one VM - smoltcp, DPDK, AF_XDP</title>
+<link>https://kapteko.com/15-million-webservers/</link>
+<guid isPermaLink="true">https://kapteko.com/15-million-webservers/</guid>
+<pubDate>Thu, 19 Nov 2026 07:27:51 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Put a web server online and everyone starts trying to hack it. Why? A basic rule of economics. Short supply, big demand - there aren’t enough web servers for everyone. Let’s run a web server for every human on the planet, all 8 billion of them. I couldn’t get funding, so we’re bootstrapping. The ... — はてなブックマーク テクノロジー / score: 75 (単一VMでの大量Webサーバ構築技術)</description>
+</item>
+<item>
 <title>[75] Microsoft AI、「MAI Code 2」など新モデル7つを一挙投入【Ignite 2026】／コーディング、セキュリティ、画像、音声、判断の各分野で“価格性能比”を追求</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2157844.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2157844.html</guid>
 <pubDate>Thu, 19 Nov 2026 06:37:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Microsoftは11月17日（現地時間）、年次開発者イベント「Microsoft Ignite 2026」で、同社のAI部門Microsoft AI（MAI）が開発した7つの新しいモデル群を発表した。トークン消費が急増するなか、エージェントを24時間365日動かせるだけの“価格性能比”を重視したという。発表されたおもなモデルは、以下の通り。 — 窓の杜 / score: 75 (Microsoft Ignite 2026での新AIモデル群の発表)</description>
-</item>
-<item>
-<title>[75] Explore the Codex Security Plugin</title>
-<link>https://openai.com/business/learn/codex-security-plugin-demo</link>
-<guid isPermaLink="true">https://openai.com/business/learn/codex-security-plugin-demo</guid>
-<pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording. — OpenAI News / score: 75 (OpenAIのセキュリティプラグイン紹介)</description>
-</item>
-<item>
-<title>[75] AWS Lambda now supports GPU instances for Event Functions on Lambda Managed Instances</title>
-<link>https://aws.amazon.com/blogs/aws/aws-lambda-now-supports-gpu-instances-for-event-functions-on-lambda-managed-instances/</link>
-<guid isPermaLink="true">https://aws.amazon.com/blogs/aws/aws-lambda-now-supports-gpu-instances-for-event-functions-on-lambda-managed-instances/</guid>
-<pubDate>Wed, 18 Nov 2026 19:39:07 +0000</pubDate>
-<category>AWS News Blog</category>
-<description>AWS Lambda now supports GPU instances (G-series) for Event Functions running on Lambda Managed Instances, enabling serverless GPU workloads like machine learning inference, media processing, and rendering. Lambda handles all infrastructure tasks, including instance lifecycle, driver management, and auto scaling, while maximizing GPU utilization across concurrent requests with standard EC2 pricing plus a management fee — AWS News Blog / score: 75 (サーバーレスでのGPUワークロード実行が可能に)</description>
 </item>
 </channel>
 </rss>
