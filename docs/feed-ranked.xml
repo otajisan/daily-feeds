@@ -4,8 +4,16 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sat, 21 Nov 2026 04:06:54 +0000</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 06:09:38 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>[95] Ruby の脆弱性 CVE-2026-132825(Ruby2Shell)についてまとめてみた - piyolog</title>
+<link>https://piyolog.hatenadiary.jp/entry/2026/11/20/224814</link>
+<guid isPermaLink="true">https://piyolog.hatenadiary.jp/entry/2026/11/20/224814</guid>
+<pubDate>Fri, 20 Nov 2026 19:18:28 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>2026年11月18日、Ruby は文字列の大文字小文字変換に見つかった脆弱性(CVE-2026-132825、通称 Ruby2Shell)を修正した版を公開しました。ここでは関連する情報をまとめます。 どんな脆弱性が確認されたの? Ruby の文字列の大文字小文字変換に、1バイトのヒープバッファオーバーフローが確認された。ISO-8859-1 や Windows... — はてなブックマーク テクノロジー / score: 95 (Rubyの重大な脆弱性修正に関する重要な速報)</description>
+</item>
 <item>
 <title>[95] ZOZOTOWNの退会者含む1,518万人分の情報が漏えい　WEAR by ZOZOでも1,393万人分に（ビジネス＋IT） - Yahoo!ニュース</title>
 <link>https://news.yahoo.co.jp/articles/1739163b2e1fd496107c05cb8b455d37d52be5d9</link>
@@ -21,14 +29,6 @@
 <pubDate>Fri, 20 Nov 2026 12:09:52 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>ZOZOは20日、通販サイト「ZOZOTOWN」に登録された1518万人分の顧客情報などが流出したと発表した。委託先のプレイドが提供するサービス「KARTE（カルテ）」が不正アクセスを受けた。ZOZOTOWNに登録された会員IDや年齢、性別などの個人情報1518万人分が該当する。ファッションアプリ「WEAR by ZOZO」に登録された約1393万... — はてなブックマーク テクノロジー / score: 95 (ZOZOの大規模顧客情報流出に関する重大な報道)</description>
-</item>
-<item>
-<title>[95] 【速報】三井住友銀で情報漏えい、最大1400万件</title>
-<link>https://www.47news.jp/15262461.html</link>
-<guid isPermaLink="true">https://www.47news.jp/15262461.html</guid>
-<pubDate>Fri, 20 Nov 2026 10:10:25 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>【速報】三井住友銀で情報漏えい、最大1400万件 三井住友銀行は20日、顧客情報が最大約1400万件漏えいしたと発表した。業務委託先のプレイドのサービスが不正アクセスを受けたため。 — はてなブックマーク テクノロジー / score: 95 (最大1400万件の大規模な情報漏えい事故で影響甚大)</description>
 </item>
 <item>
 <title>[95] 「Ruby」に7件の脆弱性、修正版への更新を強く推奨。リモートコード実行の実証コードが存在／最高深刻度「Critical」。v4.0.10、v3.4.13、v3.3.14が公開</title>
@@ -87,20 +87,12 @@
 <description> — Yahoo!ニュース IT / score: 90 (広範囲に影響するSaaSのセキュリティ障害)</description>
 </item>
 <item>
-<title>[90] 政府の内部資料流出か、基幹システムに不正アクセス　デジタル庁発表：朝日新聞</title>
-<link>https://www.asahi.com/articles/ASVCN30WCVCNULFA01NM.html</link>
-<guid isPermaLink="true">https://www.asahi.com/articles/ASVCN30WCVCNULFA01NM.html</guid>
-<pubDate>Fri, 20 Nov 2026 09:31:39 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>デジタル庁は20日、政府の基幹ネットワークシステムに不正アクセスがあり、政府の内部資料が漏洩（ろうえい）した可能性があると発表した。個人情報が含まれているおそれがあり、流出したファイルの件数や内容な… — はてなブックマーク テクノロジー / score: 90 (政府基幹システムへの不正アクセスと情報流出)</description>
-</item>
-<item>
 <title>[90] 「httpS://」だと暗号化されず平文で送信……「PHP」に約20年潜んでいた脆弱性が解決／問題はいたってシンプル、なんともはや……【やじうまの杜】</title>
 <link>https://forest.watch.impress.co.jp/docs/serial/yajiuma/2158241.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/serial/yajiuma/2158241.html</guid>
-<pubDate>Fri, 20 Nov 2026 09:26:32 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>「httpS://」だと暗号化されず平文で送信……「PHP」に約20年潜んでいた脆弱性が解決／問題はいたってシンプル、なんともはや……【やじうまの杜】 — はてなブックマーク テクノロジー / score: 90 (PHPの長年の脆弱性に関する重要なセキュリティ情報)</description>
+<pubDate>Fri, 20 Nov 2026 09:17:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>「やじうまの杜」では、ニュース・レビューにこだわらない幅広い話題をお伝えします。 — 窓の杜 / score: 90 (PHPの長年の脆弱性に関する重要なセキュリティ情報)</description>
 </item>
 <item>
 <title>[90] [AINews] Anthropic successfully completes largest IPO in history, valued at $1.5T</title>
@@ -319,14 +311,6 @@
 <description> — Yahoo!ニュース IT / score: 85 (大手EC関連の深刻な個人情報漏洩ニュース)</description>
 </item>
 <item>
-<title>[85] 政府システムからファイル流出か、個人情報含む恐れ　デジタル庁発表 - 日本経済新聞</title>
-<link>https://www.nikkei.com/article/DGXZQOUA20A0V0Q6A121C2000000/</link>
-<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUA20A0V0Q6A121C2000000/</guid>
-<pubDate>Fri, 20 Nov 2026 13:10:25 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>デジタル庁は20日、政府のネットワークシステムに不正アクセスがあり、各府省庁間や企業と共有した会議資料を含むファイルが流出した可能性があると発表した。個人情報が含まれている恐れがある。機密性が高い文書の漏洩の有無については調査中という。同庁によれば、個人情報の悪用など二次被害の確認はされていない。... — はてなブックマーク テクノロジー / score: 85 (政府システムのセキュリティインシデントと情報流出の恐れ)</description>
-</item>
-<item>
 <title>[85] 情報漏洩3億件超の時代、経営者が問われるのは「どう守るか」よりも「何を持たないか」、顧客情報を預かる資格 KARTEへの不正アクセスとソースネクストの大量流出が示した、顧客情報を持ちすぎる経営の死角 | JBpress (ジェイビープレス)</title>
 <link>https://jbpress.ismedia.jp/articles/-/98148</link>
 <guid isPermaLink="true">https://jbpress.ismedia.jp/articles/-/98148</guid>
@@ -343,14 +327,6 @@
 <description>イギリス政府がAppleに対して暗号化されたiCloudのデータにアクセスできるよう求める秘密命令を出していたことが、2026年11月19日に公開された裁判所の判断で正式に確認されました。イギリス政府は命令の存在について肯定も否定もしない姿勢を続けていましたが、裁判所は命令の存在を公表しても国家安全保障に悪影響はないと判断しました。 続きを読む... — GIGAZINE / score: 85 (政府による暗号化データアクセス要求の公式確認)</description>
 </item>
 <item>
-<title>[85] 作戦名は「エンドゲーム」。FBIなど9カ国の捜査機関がマルウェアの配布網を一斉摘発</title>
-<link>https://www.gizmodo.jp/article/2611-operation-endgame-malware-fbi-raid/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-operation-endgame-malware-fbi-raid/</guid>
-<pubDate>Fri, 20 Nov 2026 09:30:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>FBIなど9カ国の捜査機関が国際作戦でマルウェアの配布網を一斉摘発しました。いったい、どのような作戦を実行したのでしょうか？ — ギズモード・ジャパン / score: 85 (国際捜査機関による大規模なマルウェア配布網摘発。)</description>
-</item>
-<item>
 <title>[85] 欧州委員会がAIを用いたサイバー攻撃の標的になったことを発表</title>
 <link>https://gigazine.net/news/20261120-eu-commission-cyberattack/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261120-eu-commission-cyberattack/</guid>
@@ -365,14 +341,6 @@
 <pubDate>Fri, 20 Nov 2026 04:05:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>フリーのパケットキャプチャーツール「Wireshark 4.6.10」が、11月18日（協定世界時）に公開された。「Wireshark 4.6」シリーズの最新版となる。 — 窓の杜 / score: 85 (主要なパケットキャプチャの脆弱性修正。)</description>
-</item>
-<item>
-<title>[85] ハッカーがVisaやMastercardの顧客データを入手</title>
-<link>https://gigazine.net/news/20261120-visa-mastercard-jpmorgan-data-leak/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261120-visa-mastercard-jpmorgan-data-leak/</guid>
-<pubDate>Fri, 20 Nov 2026 02:28:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>「n0n」と名乗るランサムウェアグループが、Visa、Mastercard、そしてJPモルガン・チェースの数千人の顧客のデータを入手したとする犯行声明を出しました。クレジットカード番号は含まれていないと伝えられています。 続きを読む... — GIGAZINE / score: 85 (大手金融・決済企業の顧客データ流出の噂)</description>
 </item>
 <item>
 <title>[85] Microsoft、｢Windows 11｣で11月のセキュリティ更新適用後にOfficeや一部アプリが起動できなくなる問題を認める——企業環境のシステムに影響</title>
@@ -703,12 +671,36 @@
 <description>November 9, 2026 — Claude Fable 5.2 and Mythos 5.2 arrive on Anthropic’s IPO roadshow day. How much thinking is worth paying for? — Latent Space / score: 78 (主要LLMの性能逆転とIPO動向)</description>
 </item>
 <item>
+<title>[75] [AINews] Riemann Hypothesis proved...twice independently</title>
+<link>https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently/</link>
+<guid isPermaLink="true">https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently/</guid>
+<pubDate>Sat, 21 Nov 2026 05:02:13 +0000</pubDate>
+<category>Latent Space</category>
+<description>Within a few hours of each other ( timeline ), two mathematicians claimed independent proofs of the Riemann Hypothesis, the most famous open problem in mathematics ( Scientific American ). Levent Alpöge of Anthropic first made his Claude-driven proof in a note released with Lean code (1.3GB worth, ~250,000 page equivalent) rather than a full paper. Elliot Glazer confirms that the formalized statement is GRH and puts the chance of a Lean bug well under 1%. So if it finishes compiling with no extr — Latent Space / score: 75 (リーマン予想の独立した二重証明の話題)</description>
+</item>
+<item>
+<title>[75] AIでリーマン予想証明か 精査続く</title>
+<link>https://news.yahoo.co.jp/pickup/6603398?source=rss</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6603398?source=rss</guid>
+<pubDate>Sat, 21 Nov 2026 04:59:13 +0000</pubDate>
+<category>Yahoo!ニュース IT</category>
+<description> — Yahoo!ニュース IT / score: 75 (リーマン予想証明の精査に関するAIの話題)</description>
+</item>
+<item>
 <title>[75] アンソロピック研究者、数学難問「リーマン予想」をAIで解決と発表 - 日本経済新聞</title>
 <link>https://www.nikkei.com/article/DGXZQOSG20CQC0Q6A121C2000000/</link>
 <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOSG20CQC0Q6A121C2000000/</guid>
 <pubDate>Sat, 21 Nov 2026 02:33:27 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>人工知能（AI）開発の米アンソロピックの研究者は20日、数学最大の難問の一つとされる「リーマン予想」を同社の生成AIを使って証明したと発表した。専門家の検証を待つ必要があるが、証明が正しければAIを活用した数学研究の大きな成果となる。リーマン予想は素数の並び方に関係する数学の難問だ。素数は1とその数以外で... — はてなブックマーク テクノロジー / score: 75 (AIによる数学の難問証明という画期的な成果)</description>
+</item>
+<item>
+<title>[75] Unforced Euler singularity, unforced Navier-Stokes singularity, and the Generalized Riemann Hypothesis</title>
+<link>https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/</link>
+<guid isPermaLink="true">https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/</guid>
+<pubDate>Fri, 20 Nov 2026 19:03:01 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Obviously these results will be reported widely in other outlets, but I will note them here, in decreasing order of how “digested” the results currently are: Levent Alpöge, Tristan Buckmaster, and Matei Coiculescu, with heavy AI assistance, have written a human-readable proof of the finite time b... — はてなブックマーク テクノロジー / score: 75 (数学の難問証明に関する学術的トピック)</description>
 </item>
 <item>
 <title>[75] 「Visual Studio 2026」に長期サービスチャネル「LTSC 18.11」、2028年11月まで修正を提供／当初予定の1年から2年に延長。v18.12では「Copilot Chat」が新エンジンに</title>
@@ -805,6 +797,14 @@
 <pubDate>Thu, 19 Nov 2026 06:37:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Microsoftは11月17日（現地時間）、年次開発者イベント「Microsoft Ignite 2026」で、同社のAI部門Microsoft AI（MAI）が開発した7つの新しいモデル群を発表した。トークン消費が急増するなか、エージェントを24時間365日動かせるだけの“価格性能比”を重視したという。発表されたおもなモデルは、以下の通り。 — 窓の杜 / score: 75 (Microsoft Ignite 2026での新AIモデル群の発表)</description>
+</item>
+<item>
+<title>[75] TypeScript 7.1 の Content Mapper で型の生成コマンドをなくす</title>
+<link>https://zenn.dev/toiroakr/articles/typescript-content-mapper-codegen</link>
+<guid isPermaLink="true">https://zenn.dev/toiroakr/articles/typescript-content-mapper-codegen</guid>
+<pubDate>Thu, 19 Nov 2026 02:10:13 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>! 2026-11-19 時点の情報です。この記事の動作は、typescript@next で入る 7.1.0-dev.20261118.1 で確かめています。公式の Iteration Plan では、Stable は 2026-11-24 の予定です。Content Mapper の API は、Stable に向けて安定化している途中で、細部が変わる可能性があります。 はじめに Content Mapper は、TypeScript 7.1 で入る仕組みです。実装の PR（typescript-go#4712）では、TypeScript が本来は読めない種類のファイルを、プロ... — Zenn トレンド / score: 75 (TypeScriptの新機能による開発フローの改善)</description>
 </item>
 </channel>
 </rss>
