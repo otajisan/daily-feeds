@@ -4,8 +4,16 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sat, 21 Nov 2026 10:05:47 +0000</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 12:08:24 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>[95] 超難問「リーマン予想」AIと証明か　米アンソロピックの数学者発表：朝日新聞</title>
+<link>https://www.asahi.com/articles/ASVCP10Z2VCPUHBI00GM.html</link>
+<guid isPermaLink="true">https://www.asahi.com/articles/ASVCP10Z2VCPUHBI00GM.html</guid>
+<pubDate>Sat, 21 Nov 2026 04:12:48 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>米国の人工知能（AI）開発企業アンソロピックの数学者は20日、「（同社のAIモデル）クロードと共同で、リーマン予想の証明を発見した」と個人サイト上で明らかにした。リーマン予想は数学の難問で、解決に1… — はてなブックマーク テクノロジー / score: 95 (リーマン予想のAI証明という歴史的成果)</description>
+</item>
 <item>
 <title>[95] Ruby の脆弱性 CVE-2026-132825(Ruby2Shell)についてまとめてみた - piyolog</title>
 <link>https://piyolog.hatenadiary.jp/entry/2026/11/20/224814</link>
@@ -61,14 +69,6 @@
 <pubDate>Sat, 21 Nov 2026 04:22:35 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>米AI開発大手アンソロピックに所属する数学者が20日、AIチャットボットを使い、未解決の数学の難問「リーマン予想」を証明したと主張した。数学者レヴェント・アルポーゲ氏が、自身のウエブサイトで発表した。同社のAIチャットボット「クロード」を使い、6週間で証明に成功したという。アンソロピックは19日、ハイテク株... — はてなブックマーク テクノロジー / score: 90 (数学の難問リーマン予想のAI証明主張)</description>
-</item>
-<item>
-<title>[90] 「リーマン予想」生成AIが証明か - Yahoo!ニュース</title>
-<link>https://news.yahoo.co.jp/pickup/6603360</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6603360</guid>
-<pubDate>Fri, 20 Nov 2026 23:54:43 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>【ワシントン＝中根圭一】米ＡＩ（人工知能）開発企業アンソロピックに所属する数学者が２０日、同社の生成ＡＩを使い、数学の難問「リーマン予想」の証明を見つけたと自身のウェブサイトで発表した。正しければ、１６７年にわたり数学者が挑んできた問題が解決することになる。証明全体の正しさについて第三者の専門家... — はてなブックマーク テクノロジー / score: 90 (生成AIによるリーマン予想証明のニュース)</description>
 </item>
 <item>
 <title>[90] Claudeを使い「リーマン予想」を証明か　Anthropic数学者が発表　Lean検証も通過、数学界が精査へ</title>
@@ -285,6 +285,14 @@
 <pubDate>Wed, 18 Nov 2026 21:00:00 +0000</pubDate>
 <category>Gemini (Google Blog)</category>
 <description>Today, we’re introducing Gemini 4 Neon — Gemini (Google Blog) / score: 88 (Googleの新型モデルGemini 4 Neonの発表)</description>
+</item>
+<item>
+<title>[85] 形式検証を活用した脆弱性診断LLMのプロトタイプをEthereum Foundationに納品｜Nyx Foundation</title>
+<link>https://note.com/nyxfoundation/n/n782d4fb32344</link>
+<guid isPermaLink="true">https://note.com/nyxfoundation/n/n782d4fb32344</guid>
+<pubDate>Sat, 21 Nov 2026 07:28:49 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Nyx Foundationは、Ethereum FoundationのSecurity Grantのもとで、LLMを使った脆弱性診断ツールSPECAを開発し、プロトタイプを納品しました。仕様書から診断の確認項目を作り、その条件を実装が満たすかを調べる仕組みです。形式検証で記述・証明した性質を、診断の確認項目へつなぐ機能も整備しています。 ソフトウェ... — はてなブックマーク テクノロジー / score: 85 (形式検証とLLMを組み合わせた脆弱性診断)</description>
 </item>
 <item>
 <title>[85] NVIDIAグラボにて発生していた「SSD無限酷使」不具合の修正バージョンが配信。“何もしてない”のにSSDに数十GB書き込まれていた問題 - AUTOMATON</title>
@@ -543,6 +551,14 @@
 <description>JEP 401 (Value Objects) arrives in OpenJDK as a preview feature, enabling a new Java type model with minimal code changes. The talk explains what value objects are, JVM benefits, Valhalla history, implementation details, and the path toward bridging objects and primitives, including future support like List&lt;int&gt;. — Inside Java / score: 82 (Java Valhallaプロジェクトの解説と進化)</description>
 </item>
 <item>
+<title>[80] GoogleやAppleなどのアカウント乗っ取りでPayPay不正利用の事例　サポートが注意喚起</title>
+<link>https://www.itmedia.co.jp/mobile/articles/2611/20/news069.html</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/mobile/articles/2611/20/news069.html</guid>
+<pubDate>Fri, 20 Nov 2026 13:10:11 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>PayPay公式サポートが、Xにて外部連携先の乗っ取りによる不正利用被害について、注意喚起している。 同社によると、Google、Apple、Yahoo!JAPANなどのアカウントが乗っ取られたことで、これらアカウントで登録しているPayPayが不正に利用される事例が直近で確認されているという。 PayPayではApple ID、Googleアカウント... — はてなブックマーク テクノロジー / score: 80 (主要アカウント乗っ取りによる不正利用注意)</description>
+</item>
+<item>
 <title>[80] 「Windows Server 2028」で「WSUS」や「SMB 1.0」、「VBScript」などが削除へ／「Windows PowerShell 5.1」「WDS」は非推奨に、レガシーBIOSでの起動も不可</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2158261.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2158261.html</guid>
@@ -655,6 +671,14 @@
 <description>November 9, 2026 — Claude Fable 5.2 and Mythos 5.2 arrive on Anthropic’s IPO roadshow day. How much thinking is worth paying for? — Latent Space / score: 78 (主要LLMの性能逆転とIPO動向)</description>
 </item>
 <item>
+<title>[75] AIエージェントに堅牢なテストを書かせるには？</title>
+<link>https://zenn.dev/yasuakiomokawa/articles/3ac970c3a3a1c7</link>
+<guid isPermaLink="true">https://zenn.dev/yasuakiomokawa/articles/3ac970c3a3a1c7</guid>
+<pubDate>Sat, 21 Nov 2026 09:09:12 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>AI コーディングエージェントにテストを書かせると、実装を少し変えただけで壊れるテストができることがあります。この記事はそうならないテストを書かせる手順を 4 つにまとめたものです。筆者が自分のプロダクトで 15 日間試した結果を反映しています。 対象読者 次のどれかに当てはまる開発者に向けて書きました。 AI コーディングエージェント (Claude Code、Codex など) に、実装の前にテストを書かせている。または、これからそうしたい エージェントが書いたテストが、実装を少し変えただけで壊れて困っている エージェントがテストを書き換えて合格させるのが心配で、テストを保護... — Zenn トレンド / score: 75 (AIコーディングエージェント向けテスト手法)</description>
+</item>
+<item>
 <title>[75] Cloudflare Radarの「Zero Wire」、脆弱性の影響範囲や深刻度を調べられるページをCVEごとに公開</title>
 <link>https://gihyo.jp/article/2026/11/cloudflare-zero-wire-cve-pages?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/11/cloudflare-zero-wire-cve-pages?utm_source=feed</guid>
@@ -687,14 +711,6 @@
 <description>In this edition, we share content highlights from recent events featuring the Java team and take a look at Value Objects in JDK 28. With technical articles, videos, and podcasts, there’s something for everyone. But nothing beats an in-person conversation, and JavaOne 2027 is the perfect opportunity to connect with the people shaping Java’s future. — Inside Java / score: 75 (Java 28のValue Objects等に関する最新情報)</description>
 </item>
 <item>
-<title>[75] Unforced Euler singularity, unforced Navier-Stokes singularity, and the Generalized Riemann Hypothesis</title>
-<link>https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/</link>
-<guid isPermaLink="true">https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/</guid>
-<pubDate>Fri, 20 Nov 2026 19:03:01 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Obviously these results will be reported widely in other outlets, but I will note them here, in decreasing order of how “digested” the results currently are: Levent Alpöge, Tristan Buckmaster, and Matei Coiculescu, with heavy AI assistance, have written a human-readable proof of the finite time b... — はてなブックマーク テクノロジー / score: 75 (数学の難問証明に関する学術的トピック)</description>
-</item>
-<item>
 <title>[75] 「Visual Studio 2026」に長期サービスチャネル「LTSC 18.11」、2028年11月まで修正を提供／当初予定の1年から2年に延長。v18.12では「Copilot Chat」が新エンジンに</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2158151.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2158151.html</guid>
@@ -725,14 +741,6 @@
 <pubDate>Fri, 20 Nov 2026 05:27:12 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Googleは11月18日（現地時間）、世界モデル（ワールドモデル）「Genie 4」を「Project Genie」に導入したと発表した。現在、条件を満たす「Google AI Ultra」のサブスクライバーへ順次展開中。「Google AI Pro」契約者はウェイトリストに登録できる。 — 窓の杜 / score: 75 (Googleの新世界モデルの提供開始。)</description>
-</item>
-<item>
-<title>[75] Windows PCを複数台接続して1個のAI処理クラスターとして扱う機能「RDMA over USB4」をMicrosoftが発表、USBケーブルのみで接続可能で専用機材不要</title>
-<link>https://gigazine.net/news/20261120-rdma-over-usb4-windows/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261120-rdma-over-usb4-windows/</guid>
-<pubDate>Fri, 20 Nov 2026 02:36:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>MicrosoftがWindows搭載PC同士をUSB4ケーブルで相互接続する機能「RDMA over USB4」を発表しました。PC同士を相互接続することで、メモリやGPU計算能力を共有して大型のAIモデルを高速実行することができます。 続きを読む... — GIGAZINE / score: 75 (USB4でPC間接続しAI処理を共有する新機能の発表)</description>
 </item>
 <item>
 <title>[75] Hebbia sees improvements in financial research with GPT-6 Astra</title>
@@ -797,14 +805,6 @@
 <pubDate>Thu, 19 Nov 2026 04:18:20 +0000</pubDate>
 <category>Qiita 人気記事</category>
 <description>はじめに XDR（Extended Detection and Response）は、EDRやNDR、メールセキュリティなど複数の製品のアラートを集約し、相関分析から対処の判断・実行までを横断的に支援する仕組みです。 前回の記事では、Cisco XDRを例に、複数のセキュ... — Qiita 人気記事 / score: 75 (XDR導入・運用における実践的ガイド)</description>
-</item>
-<item>
-<title>[75] Explore the Codex Security Plugin</title>
-<link>https://openai.com/business/learn/codex-security-plugin-demo</link>
-<guid isPermaLink="true">https://openai.com/business/learn/codex-security-plugin-demo</guid>
-<pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording. — OpenAI News / score: 75 (OpenAIのセキュリティプラグイン紹介)</description>
 </item>
 </channel>
 </rss>
