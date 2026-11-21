@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sat, 21 Nov 2026 20:05:40 +0000</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 22:05:32 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] "リーマン予想の証明"の検証は現在どこまで進んでいるか｜加藤文元</title>
@@ -61,6 +61,14 @@
 <pubDate>Sat, 21 Nov 2026 04:22:35 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>米AI開発大手アンソロピックに所属する数学者が20日、AIチャットボットを使い、未解決の数学の難問「リーマン予想」を証明したと主張した。数学者レヴェント・アルポーゲ氏が、自身のウエブサイトで発表した。同社のAIチャットボット「クロード」を使い、6週間で証明に成功したという。アンソロピックは19日、ハイテク株... — はてなブックマーク テクノロジー / score: 90 (数学の難問リーマン予想のAI証明主張)</description>
+</item>
+<item>
+<title>[90] 「リーマン予想」生成AIが証明か - Yahoo!ニュース</title>
+<link>https://news.yahoo.co.jp/pickup/6603360</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6603360</guid>
+<pubDate>Fri, 20 Nov 2026 23:54:43 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>【ワシントン＝中根圭一】米ＡＩ（人工知能）開発企業アンソロピックに所属する数学者が２０日、同社の生成ＡＩ「クロード」を使い、数学の難問「リーマン予想」を証明したと自身のウェブサイトで発表した。正しければ、１６７年にわたり数学者が挑んできた問題が解決する。証明の正しさについて第三者の専門家が今後、... — はてなブックマーク テクノロジー / score: 90 (生成AIによるリーマン予想証明のニュース)</description>
 </item>
 <item>
 <title>[90] ZOZOTOWN 1518万人の情報漏洩</title>
@@ -538,9 +546,9 @@
 <title>[80] 「Windows Server 2028」で「WSUS」や「SMB 1.0」、「VBScript」などが削除へ／「Windows PowerShell 5.1」「WDS」は非推奨に、レガシーBIOSでの起動も不可</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2158261.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2158261.html</guid>
-<pubDate>Fri, 20 Nov 2026 11:11:54 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>「Windows Server 2028」で「WSUS」や「SMB 1.0」、「VBScript」などが削除へ／「Windows PowerShell 5.1」「WDS」は非推奨に、レガシーBIOSでの起動も不可 — はてなブックマーク テクノロジー / score: 80 (次期Windows Serverでのレガシー機能削除)</description>
+<pubDate>Fri, 20 Nov 2026 10:05:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>先日パブリックプレビューが始まった次期サーバーOS「Windows Server 2028」には、削除・非推奨となる機能がある。米Microsoftが自社のドキュメントサイトで明らかにしている。 — 窓の杜 / score: 80 (次期Windows Serverでのレガシー機能削除)</description>
 </item>
 <item>
 <title>[80] AIが追加学習なしで自らのウェイトを書き換えて「自分自身を賢くする」ことに成功</title>
@@ -645,6 +653,14 @@
 <pubDate>Tue, 10 Nov 2026 06:34:44 +0000</pubDate>
 <category>Latent Space</category>
 <description>November 9, 2026 — Claude Fable 5.2 and Mythos 5.2 arrive on Anthropic’s IPO roadshow day. How much thinking is worth paying for? — Latent Space / score: 78 (主要LLMの性能逆転とIPO動向)</description>
+</item>
+<item>
+<title>[75] pgvectorのHNSWでテナント絞り込みすると検索が0件になる問題と対策</title>
+<link>https://qiita.com/takumi_engineer/items/142ca7088f13f006da82?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/takumi_engineer/items/142ca7088f13f006da82?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Sat, 21 Nov 2026 09:51:37 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>マルチテナントのRAGで、pgvectorのHNSWインデックスに WHERE tenant_id = ... を付けると、LIMITより少ない件数しか返らないことがあります。この記事では、その仕組みと、再現・対策・検知までをコードで示します。 私はマルチテナントのAI業務... — Qiita 人気記事 / score: 75 (RAG構築時の実用的な技術的トラブルシューティング。)</description>
 </item>
 <item>
 <title>[75] AIエージェントに堅牢なテストを書かせるには？</title>
@@ -783,28 +799,12 @@
 <description>米Microsoftは11月17日（現地時間）、年次開発者イベント「Microsoft Ignite 2026」で、同社のAI部門Microsoft AI（MAI）が開発した7つの新しいモデル群を発表した。トークン消費が急増するなか、エージェントを24時間365日動かせるだけの“価格性能比”を重視したという。発表されたおもなモデルは、以下の通り。 — 窓の杜 / score: 75 (Microsoft Ignite 2026での新AIモデル群の発表)</description>
 </item>
 <item>
-<title>[75] XDR導入・運用の進め方：製品選定からPoC、自動化、本番運用まで</title>
-<link>https://qiita.com/TakayukiTerunuma/items/9d5efbdd95184bcb15e0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/TakayukiTerunuma/items/9d5efbdd95184bcb15e0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Thu, 19 Nov 2026 04:18:20 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>はじめに XDR（Extended Detection and Response）は、EDRやNDR、メールセキュリティなど複数の製品のアラートを集約し、相関分析から対処の判断・実行までを横断的に支援する仕組みです。 前回の記事では、Cisco XDRを例に、複数のセキュ... — Qiita 人気記事 / score: 75 (XDR導入・運用における実践的ガイド)</description>
-</item>
-<item>
 <title>[75] Explore the Codex Security Plugin</title>
 <link>https://openai.com/business/learn/codex-security-plugin-demo</link>
 <guid isPermaLink="true">https://openai.com/business/learn/codex-security-plugin-demo</guid>
 <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording. — OpenAI News / score: 75 (OpenAIのセキュリティプラグイン紹介)</description>
-</item>
-<item>
-<title>[75] AWS Lambda now supports GPU instances for Event Functions on Lambda Managed Instances</title>
-<link>https://aws.amazon.com/blogs/aws/aws-lambda-now-supports-gpu-instances-for-event-functions-on-lambda-managed-instances/</link>
-<guid isPermaLink="true">https://aws.amazon.com/blogs/aws/aws-lambda-now-supports-gpu-instances-for-event-functions-on-lambda-managed-instances/</guid>
-<pubDate>Wed, 18 Nov 2026 19:39:07 +0000</pubDate>
-<category>AWS News Blog</category>
-<description>AWS Lambda now supports GPU instances (G-series) for Event Functions running on Lambda Managed Instances, enabling serverless GPU workloads like machine learning inference, media processing, and rendering. Lambda handles all infrastructure tasks, including instance lifecycle, driver management, and auto scaling, while maximizing GPU utilization across concurrent requests with standard EC2 pricing plus a management fee — AWS News Blog / score: 75 (サーバーレスでのGPUワークロード実行が可能に)</description>
 </item>
 </channel>
 </rss>

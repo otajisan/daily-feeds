@@ -4,8 +4,16 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sat, 21 Nov 2026 20:05:40 +0000</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 22:05:32 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>宇宙を夢見るバリスタ、募集中。時給3,590円</title>
+<link>https://www.gizmodo.jp/article/2611-spacex-barista-job-starbase-redmond/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-spacex-barista-job-starbase-redmond/</guid>
+<pubDate>Sat, 21 Nov 2026 22:00:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>SpaceXがテキサス州スターベースとワシントン州レドモンドの拠点でのバリスタを募集しています。時給約3,590円から。宇宙企業でコーヒーを淹れる仕事はいかが？ — ギズモード・ジャパン / score: 20 (宇宙関連企業のユニークな求人ニュース。)</description>
+</item>
 <item>
 <title>Apple初売り2027を独自予想！最大5万円分還元、新製品も対象か</title>
 <link>https://iphone-mania.jp/sale-608940/</link>
@@ -21,6 +29,14 @@
 <pubDate>Sat, 21 Nov 2026 15:00:00 +0000</pubDate>
 <category>ASCII.jp</category>
 <description>パソコンショップSEVENは11月22日、BTOパソコン全10商品を対象に24時間限定セールを開催。Ryzen 9 9900XとRTX 5080、メモリー32GB、SSD 2TB搭載の「ZEFT R60D」が7万9000円引きに。RTX 5060搭載モデルも3万円引きで販売する。 — ASCII.jp / score: 30 (PCパーツの限定セール情報)</description>
+</item>
+<item>
+<title>D言語の更新まとめ 2026年8月版（dmd 2.113.0）</title>
+<link>https://qiita.com/lempiji/items/ad328661ffa305976f40?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/lempiji/items/ad328661ffa305976f40?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Sat, 21 Nov 2026 14:27:07 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>はじめに D言語の公式コンパイラである dmd が更新され、2.113.0 が 2026/08/17 にリリースされました。 今回のリリースには、コンパイラ13件、ランタイム1件、ライブラリ1件、Dub 1件の合計16件の主要な変更と、82件のGitHub Issueの修... — Qiita 人気記事 / score: 45 (言語のマイナーアップデート情報。)</description>
 </item>
 <item>
 <title>推薦入試 不合格者に1秒間誤通知</title>
@@ -205,6 +221,30 @@
 <pubDate>Sat, 21 Nov 2026 09:54:10 +0000</pubDate>
 <category>気になる、記になる…</category>
 <description>ミニPCでお馴染みのGEEKOMが、公式ストアにおいて、ブラックフライデーのセールを開催しています。 Intel Core Ultra 9-185Hを搭載した「GEEKOM IT13 Max」はクーポンコード「KNGEE […] — 気になる、記になる… / score: 25 (ハードウェアのセール・プロモーション情報)</description>
+</item>
+<item>
+<title>pgvectorのHNSWでテナント絞り込みすると検索が0件になる問題と対策</title>
+<link>https://qiita.com/takumi_engineer/items/142ca7088f13f006da82?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/takumi_engineer/items/142ca7088f13f006da82?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Sat, 21 Nov 2026 09:51:37 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>マルチテナントのRAGで、pgvectorのHNSWインデックスに WHERE tenant_id = ... を付けると、LIMITより少ない件数しか返らないことがあります。この記事では、その仕組みと、再現・対策・検知までをコードで示します。 私はマルチテナントのAI業務... — Qiita 人気記事 / score: 75 (RAG構築時の実用的な技術的トラブルシューティング。)</description>
+</item>
+<item>
+<title>ECSのアプリへSSMを使ったポートフォワーディングでアクセスする</title>
+<link>https://qiita.com/har1101/items/9b6902c42a637117798a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/har1101/items/9b6902c42a637117798a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Sat, 21 Nov 2026 09:45:32 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>課題 最近PoCを進める際にこんな悩みがありました。 ECSのコンテナでアプリを動かす 関係者にこのアプリへ実際にアクセスしてもらって動作確認してほしい ただPoCなので認証などを入れるのは手間 だけどインターネットに公開するわけにはいかない ということでなんとかセキ... — Qiita 人気記事 / score: 65 (AWSインフラの実用的なアクセス手法解説。)</description>
+</item>
+<item>
+<title>社会人ドクターの経験から得られたこと，苦労したこと，そこから現在の活動につながっていること（後編）</title>
+<link>https://qiita.com/mshdtksk/items/440dbb0fce5828637411?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/mshdtksk/items/440dbb0fce5828637411?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Sat, 21 Nov 2026 09:40:15 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>はじめに データ活用基盤の開発やデータ分析手法の研究を行いながら，大学で兼任講師をしている高須賀です．2019年4月から社会人ドクターとして研究活動を行い，2023年3月に博士（情報学）の学位を取得した．研究分野は，組合せ最適化，数理最適化，オペレーションズ・リサーチ，... — Qiita 人気記事 / score: 35 (個人のキャリアや体験談に関する記事。)</description>
 </item>
 <item>
 <title>均一で滑らかなペーストを作るのは3本のローラーなんだって</title>
@@ -471,6 +511,14 @@
 <description> — Yahoo!ニュース IT / score: 75 (リーマン予想証明の精査に関するAIの話題)</description>
 </item>
 <item>
+<title>Geminiに「Cargry言語とはなんですか」と聞いたら、LLMの弊害を感じた</title>
+<link>https://qiita.com/compalog/items/a538b606b3aa1d138108?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/compalog/items/a538b606b3aa1d138108?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Sat, 21 Nov 2026 04:58:17 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>純粋関数型システム言語Cargryを開発しています さて、「Cargry」と打って検索すると、私の記事が出て、Chromeであれば、Geminiが答えてくれます Geminiに聞いてみた 私のアカウントでは、GeminiにWeb検索を行わせないようにしているので、... — Qiita 人気記事 / score: 40 (LLMのハルシネーションに関する事例。)</description>
+</item>
+<item>
 <title>【ブラックフライデーセール】待望のTrinityも同梱！時代を超えた究極のソフトウェアコレクション、KORG「KORG Collection 6」が最大50%OFF！</title>
 <link>https://computermusic.jp/2026/11/korg-collection-6-2/</link>
 <guid isPermaLink="true">https://computermusic.jp/2026/11/korg-collection-6-2/</guid>
@@ -493,6 +541,14 @@
 <pubDate>Sat, 21 Nov 2026 04:31:29 +0000</pubDate>
 <category>Computer Music Japan</category>
 <description>偉大な音楽を生み出してきたクラシックなHarrisonサウンドをエミュレートする、Harrison Consoles「32Classic Channel」が80%OFFとなっています。 Solid State Logic... The post 【ブラックフライデーセール】偉大な音楽を生み出してきたクラシックなHarrisonサウンドをエミュレートする、Harrison Consoles「32Classic Channel」が80%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 20 (音楽制作プラグインのブラックフライデーセール情報)</description>
+</item>
+<item>
+<title>360°カメラ×AIモデリング×UE 5.9：広域空間再構成の制作フロー展望</title>
+<link>https://qiita.com/kotohibi/items/890c1c1289e76fb5e977?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/kotohibi/items/890c1c1289e76fb5e977?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Sat, 21 Nov 2026 04:30:48 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>はじめに 前回の記事では、360°カメラで撮影した映像からMetashapeで高密度点群（dense point cloud）を作り、Claude CodeとBlenderで広域をAIモデリングする制作フローを紹介しました。dense point cloudをClaude... — Qiita 人気記事 / score: 45 (最新技術を組み合わせた空間再構成の展望。)</description>
 </item>
 <item>
 <title>AIが数学の未解決問題「リーマン予想」を証明か　米アンソロピックの数学者が主張 - BBCニュース</title>
@@ -749,62 +805,6 @@
 <pubDate>Sat, 21 Nov 2026 02:35:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>スポークを全て取り払い、まるでフロントフォークの周りにタイヤが浮いているかのような自転車。いったいどういう仕組みになってるんでしょうか。 — ギズモード・ジャパン / score: 25 (特殊な自転車の構造に関する雑学)</description>
-</item>
-<item>
-<title>一番無難じゃないキャラが優勝　Suica「B案」とAI時代の愛されかた</title>
-<link>https://www.watch.impress.co.jp/docs/topic/watchplus/2157644.html</link>
-<guid isPermaLink="true">https://www.watch.impress.co.jp/docs/topic/watchplus/2157644.html</guid>
-<pubDate>Sat, 21 Nov 2026 02:31:00 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>一番無難じゃないキャラが優勝 Suica「B案」とAI時代の愛されかた — はてなブックマーク テクノロジー / score: 20 (Suicaキャラクターに関する話題)</description>
-</item>
-<item>
-<title>Nothingのカール・ペイCEO、12月発表予定のAI専用デバイスをチラ見せ</title>
-<link>https://taisy0.com/2026/11/21/230739.html</link>
-<guid isPermaLink="true">https://taisy0.com/2026/11/21/230739.html</guid>
-<pubDate>Sat, 21 Nov 2026 02:27:16 +0000</pubDate>
-<category>気になる、記になる…</category>
-<description>Nothingは12月にAI専用デバイスを発表予定で、既にその製品デザインの一部は明らかになっていますが、そのAI専用デバイスのシルバーモデルの存在も確認されました。 これはポッドキャスターのDavid Senra氏によ […] — 気になる、記になる… / score: 30 (ガジェット企業の新型AIデバイスの予告)</description>
-</item>
-<item>
-<title>【TLA+】AIにテストケースを書かせるな。ルールを書け</title>
-<link>https://zenn.dev/karamage/articles/73027ee36796dc</link>
-<guid isPermaLink="true">https://zenn.dev/karamage/articles/73027ee36796dc</guid>
-<pubDate>Sat, 21 Nov 2026 02:12:39 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>「はて、このテストケース、誰が考えたんだっけ？ ほんとにだいじょぶ？」 AIに頼めば、実装もテストも数秒で出て、CIが全部グリーンになって Approveボタンを押そうとしたとき、ふと背筋がゾッとして手が止まりました。 なんか嫌な予感。。。 実装を書いたのはAI レビューしたのもAI テストを書いたのも同じAI ま、だいじょぶでしょ！(大丈夫じゃない) えぇい、ままよ！ マージしちゃえ！ 問い: AIがコードもテストも書く時代に、テストはどう変わるのか？ 結論: 人間は「テストケース」を書くのをやめて、「守るべきルール」を書く 理由: テストケースを考えるのは機械のほうが得意で、ル... — Zenn トレンド / score: 70 (TLA+を用いたAI時代のテスト設計論)</description>
-</item>
-<item>
-<title>【約3.2万件の画像の判定データを調査】来歴情報「C2PA」が付いていた画像は5.8%。生成AIの記録が残る画像でも、見た目の分析だけで「AI生成の可能性が高い」は約4割</title>
-<link>https://ascii.jp/elem/000/004/453/4453835/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/453/4453835/?rss</guid>
-<pubDate>Sat, 21 Nov 2026 02:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>【約3.2万件の画像の判定データを調査】来歴情報「C2PA」が付いていた画像は5.8%。生成AIの記録が残る画像でも、見た目の分析だけで「AI生成の可能性が高い」は約4割 — ASCII.jp / score: 60 (C2PA来歴情報と生成AI判定の調査データ)</description>
-</item>
-<item>
-<title>ゴムマリの業務AIエージェント、『データ突合』を提供開始</title>
-<link>https://ascii.jp/elem/000/004/453/4453832/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/453/4453832/?rss</guid>
-<pubDate>Sat, 21 Nov 2026 02:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>ゴムマリの業務AIエージェント、『データ突合』を提供開始 — ASCII.jp / score: 35 (業務向けAIエージェントの機能追加)</description>
-</item>
-<item>
-<title>待ってました！ なか卯「明太クリームうどん」が復活！ 今年はほうれん草入りも</title>
-<link>https://ascii.jp/elem/000/004/452/4452743/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/452/4452743/?rss</guid>
-<pubDate>Sat, 21 Nov 2026 02:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>なか卯は11月25日11時より「明太クリームうどん」を販売します。今年も待ってました！ — ASCII.jp / score: 5 (飲食店のメニュー情報のため)</description>
-</item>
-<item>
-<title>日本がちょっと大きくなった。海底火山が硫黄島と合体</title>
-<link>https://www.gizmodo.jp/article/2611-ioto-volcano-coastline/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-ioto-volcano-coastline/</guid>
-<pubDate>Sat, 21 Nov 2026 02:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>小笠原諸島・硫黄島の沖合で起きた噴火により、新しくできた陸地が本島と合体。上空から撮影した写真が発表されています。 — ギズモード・ジャパン / score: 20 (地理に関する一般ニュース)</description>
 </item>
 </channel>
 </rss>
