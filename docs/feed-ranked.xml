@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sat, 21 Nov 2026 18:06:44 +0000</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 20:05:40 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] "リーマン予想の証明"の検証は現在どこまで進んでいるか｜加藤文元</title>
@@ -287,14 +287,6 @@
 <description>Nyx Foundationは、Ethereum FoundationのSecurity Grantのもとで、LLMを使った脆弱性診断ツールSPECAを開発し、プロトタイプを納品しました。仕様書から診断の確認項目を作り、その条件を実装が満たすかを調べる仕組みです。形式検証で記述・証明した性質を、診断の確認項目へつなぐ機能も整備しています。 ソフトウェ... — はてなブックマーク テクノロジー / score: 85 (形式検証とLLMを組み合わせた脆弱性診断)</description>
 </item>
 <item>
-<title>[85] NVIDIAグラボにて発生していた「SSD無限酷使」不具合の修正バージョンが配信。“何もしてない”のにSSDに数十GB書き込まれていた問題 - AUTOMATON</title>
-<link>https://automaton-media.com/articles/newsjp/20261121-480255/</link>
-<guid isPermaLink="true">https://automaton-media.com/articles/newsjp/20261121-480255/</guid>
-<pubDate>Sat, 21 Nov 2026 00:45:41 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>NVIDIAグラボにて発生していた「SSD無限酷使」不具合の修正バージョンが配信。“何もしてない”のにSSDに数十GB書き込まれていた問題 NVIDIAのGPU向けドライバー「GeForce Game Ready Driver」の一部のバージョンで、無操作中にもSSDへの書き込みが発生していた不具合が、最新バージョンにて修正されたようだ。 NVIDIAは11... — はてなブックマーク テクノロジー / score: 85 (NVIDIA製GPUのSSD無限書き込み不具合修正)</description>
-</item>
-<item>
 <title>[85] 「パッチ地獄」が米IT障害誘発、AIがせかす脆弱性修正　銀行や空港停止 - 日本経済新聞</title>
 <link>https://www.nikkei.com/article/DGXZQOGN18CYM0Y6A111C2000000/</link>
 <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOGN18CYM0Y6A111C2000000/</guid>
@@ -546,9 +538,9 @@
 <title>[80] 「Windows Server 2028」で「WSUS」や「SMB 1.0」、「VBScript」などが削除へ／「Windows PowerShell 5.1」「WDS」は非推奨に、レガシーBIOSでの起動も不可</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2158261.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2158261.html</guid>
-<pubDate>Fri, 20 Nov 2026 10:05:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>先日パブリックプレビューが始まった次期サーバーOS「Windows Server 2028」には、削除・非推奨となる機能がある。米Microsoftが自社のドキュメントサイトで明らかにしている。 — 窓の杜 / score: 80 (次期Windows Serverでのレガシー機能削除)</description>
+<pubDate>Fri, 20 Nov 2026 11:11:54 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>「Windows Server 2028」で「WSUS」や「SMB 1.0」、「VBScript」などが削除へ／「Windows PowerShell 5.1」「WDS」は非推奨に、レガシーBIOSでの起動も不可 — はてなブックマーク テクノロジー / score: 80 (次期Windows Serverでのレガシー機能削除)</description>
 </item>
 <item>
 <title>[80] AIが追加学習なしで自らのウェイトを書き換えて「自分自身を賢くする」ことに成功</title>
@@ -805,6 +797,14 @@
 <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording. — OpenAI News / score: 75 (OpenAIのセキュリティプラグイン紹介)</description>
+</item>
+<item>
+<title>[75] AWS Lambda now supports GPU instances for Event Functions on Lambda Managed Instances</title>
+<link>https://aws.amazon.com/blogs/aws/aws-lambda-now-supports-gpu-instances-for-event-functions-on-lambda-managed-instances/</link>
+<guid isPermaLink="true">https://aws.amazon.com/blogs/aws/aws-lambda-now-supports-gpu-instances-for-event-functions-on-lambda-managed-instances/</guid>
+<pubDate>Wed, 18 Nov 2026 19:39:07 +0000</pubDate>
+<category>AWS News Blog</category>
+<description>AWS Lambda now supports GPU instances (G-series) for Event Functions running on Lambda Managed Instances, enabling serverless GPU workloads like machine learning inference, media processing, and rendering. Lambda handles all infrastructure tasks, including instance lifecycle, driver management, and auto scaling, while maximizing GPU utilization across concurrent requests with standard EC2 pricing plus a management fee — AWS News Blog / score: 75 (サーバーレスでのGPUワークロード実行が可能に)</description>
 </item>
 </channel>
 </rss>
