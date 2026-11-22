@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sun, 22 Nov 2026 08:07:46 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 10:05:39 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] Anthropicの研究者がAI「Claude」とともに数学の未解決問題「リーマン予想」を証明したと発表、1700万行の証明コードを専門家が検証中</title>
@@ -71,12 +71,12 @@
 <description>Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API. — OpenAI News / score: 95 (主要なAIモデルのメジャーリリースと機能強化)</description>
 </item>
 <item>
-<title>[90] AIが数学の未解決問題「リーマン予想」を証明か　米アンソロピックの数学者が主張 - BBCニュース</title>
-<link>https://www.bbc.com/japanese/articles/cwlyl6ymz841o</link>
-<guid isPermaLink="true">https://www.bbc.com/japanese/articles/cwlyl6ymz841o</guid>
-<pubDate>Sat, 21 Nov 2026 04:22:35 +0000</pubDate>
+<title>[90] Upload2Shell</title>
+<link>https://pwn.ai/upload2shell</link>
+<guid isPermaLink="true">https://pwn.ai/upload2shell</guid>
+<pubDate>Sat, 21 Nov 2026 23:53:55 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>米AI開発大手アンソロピックに所属する数学者が20日、AIチャットボットを使い、未解決の数学の難問「リーマン予想」を証明したと主張した。数学者レヴェント・アルポーゲ氏が、自身のウエブサイトで発表した。同社のAIチャットボット「クロード」を使い、6週間で証明に成功したという。アンソロピックは19日、ハイテク株... — はてなブックマーク テクノロジー / score: 90 (数学の難問リーマン予想のAI証明主張)</description>
+<description>A use-after-free in Ghostscript’s Type 1 font loader lets a crafted document cross Ghostscript’s -dSAFER sandbox, alter native path controls, and execute attacker-chosen commands as the rendering process. Ghostscript sits beneath print, email, upload, and preview workflows. Our ImageMagick resear... — はてなブックマーク テクノロジー / score: 90 (Ghostscriptの深刻な脆弱性とサンドボックス回避の指摘)</description>
 </item>
 <item>
 <title>[90] ZOZOTOWN 1518万人の情報漏洩</title>
@@ -303,14 +303,6 @@
 <description>Nyx Foundationは、Ethereum FoundationのSecurity Grantのもとで、LLMを使った脆弱性診断ツールSPECAを開発し、プロトタイプを納品しました。仕様書から診断の確認項目を作り、その条件を実装が満たすかを調べる仕組みです。形式検証で記述・証明した性質を、診断の確認項目へつなぐ機能も整備しています。 ソフトウェ... — はてなブックマーク テクノロジー / score: 85 (形式検証とLLMを組み合わせた脆弱性診断)</description>
 </item>
 <item>
-<title>[85] 「パッチ地獄」が米IT障害誘発、AIがせかす脆弱性修正　銀行や空港停止 - 日本経済新聞</title>
-<link>https://www.nikkei.com/article/DGXZQOGN18CYM0Y6A111C2000000/</link>
-<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOGN18CYM0Y6A111C2000000/</guid>
-<pubDate>Sat, 21 Nov 2026 00:21:00 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>【ニューヨーク=西邨紘子、シリコンバレー=伴正春】米国の銀行や空港でシステム障害が相次ぐ。原因は個別に異なるものの、大きな背景には人工知能（AI）が膨大な脆弱性を見つけ、パッチ（修正）適用や更新を急がざるを得ない事情がある。日本のインフラも同様のリスクを抱える。マイクロソフト、チェース、ユナイテッド... — はてなブックマーク テクノロジー / score: 85 (AIによる脆弱性急増とパッチ適用の問題)</description>
-</item>
-<item>
 <title>[85] Quoting Levent Alpöge</title>
 <link>https://simonwillison.net/2026/Nov/20/levent-alpoge/</link>
 <guid isPermaLink="true">https://simonwillison.net/2026/Nov/20/levent-alpoge/</guid>
@@ -341,6 +333,14 @@
 <pubDate>Fri, 20 Nov 2026 04:05:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>フリーのパケットキャプチャーツール「Wireshark 4.6.10」が、11月18日（協定世界時）に公開された。「Wireshark 4.6」シリーズの最新版となる。 — 窓の杜 / score: 85 (主要なパケットキャプチャの脆弱性修正。)</description>
+</item>
+<item>
+<title>[85] Androidの野良アプリ導入が2027年1月から世界規模で制限へ　Googleの開発者認証が本格展開</title>
+<link>https://sumahodigest.com/?p=76937</link>
+<guid isPermaLink="true">https://sumahodigest.com/?p=76937</guid>
+<pubDate>Fri, 20 Nov 2026 00:20:16 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Googleは、Androidのアプリ開発者に本人確認を義務付ける新たな認証制度と、未認証アプリのサイドローディングに関する制限を、2027年1月から世界各国に拡大すると発表しました。 今回の変更はGoogle Playだけでなく、Galaxy StoreやXiaomi、OPPOなどのメーカー独自ストアにも適用されます。未認証アプリを引き続きイン... — はてなブックマーク テクノロジー / score: 85 (Androidのアプリ配信とサイドロードに関わる重大な変更)</description>
 </item>
 <item>
 <title>[85] ARMORY CASTLE Exploits vSphere</title>
@@ -655,6 +655,14 @@
 <description>November 9, 2026 — Claude Fable 5.2 and Mythos 5.2 arrive on Anthropic’s IPO roadshow day. How much thinking is worth paying for? — Latent Space / score: 78 (主要LLMの性能逆転とIPO動向)</description>
 </item>
 <item>
+<title>[75] AIが実験室から「脱走」して外部をハッキング。OpenAIがカリフォルニア州に提訴される</title>
+<link>https://www.gizmodo.jp/article/openai-sued-california-ai-hacking-incident/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/openai-sued-california-ai-hacking-incident/</guid>
+<pubDate>Sun, 22 Nov 2026 10:00:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>OpenAIがAIモデルのハッキング事件を巡りカリフォルニア州から提訴されました。開発における安全性と企業の責任について詳しく解説します。 — ギズモード・ジャパン / score: 75 (AIの安全性と法的な責任を問う重要ニュース)</description>
+</item>
+<item>
 <title>[75] AIの電力問題。Googleの一手は「地球の奥から取り出す」</title>
 <link>https://www.gizmodo.jp/article/2611-google-quaise-energy-geothermal-power-ai/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/2611-google-quaise-energy-geothermal-power-ai/</guid>
@@ -735,6 +743,14 @@
 <description>KARTEの情報漏えいをめぐって、利用企業の発表をいくつか読んだ。最初の一社を読んだときには、どこで何が起きたのかを、その時点でわかる範囲で伝えているんだろうと思った。 ところが、二社、三社と読むうちに、同じような書き出しが少しずつ違って聞こえてきた。プレイド社から連絡を受けました。当社が利用する外部... — はてなブックマーク テクノロジー / score: 75 (KARTEの情報漏えい事案に関する企業の対応と考察)</description>
 </item>
 <item>
+<title>[75] ⚡ Microsoft 365 Copilot ライセンスで GitHub Copilot CLI が使えるように!!</title>
+<link>https://qiita.com/aktsmm/items/855dbec6f06587a26287?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/aktsmm/items/855dbec6f06587a26287?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Fri, 20 Nov 2026 14:45:23 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>こんにちは、Copilot が増えるたびに「どの Copilot の話?」となるアーキテクトのやまぱん！です。 補足コメントや質問、いいね、拡散、ぜひお願いします 🥺！ 間違っていたら 優しく 教えてください！ Microsoft Ignite 2026、やってますね! 現... — Qiita 人気記事 / score: 75 (Microsoft 365 CopilotでのGitHub Copilot CLI利用解禁)</description>
+</item>
+<item>
 <title>[75] 「Visual Studio 2026」に長期サービスチャネル「LTSC 18.11」、2028年11月まで修正を提供／当初予定の1年から2年に延長。v18.12では「Copilot Chat」が新エンジンに</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2158151.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2158151.html</guid>
@@ -749,14 +765,6 @@
 <pubDate>Fri, 20 Nov 2026 08:09:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>OpenAIはChatGPTなどの自社製品の開発にCodexを活用しています。新たに「Codexを用いてChatGPTの高速性を維持する方法」という解説記事が公開されました。 続きを読む... — GIGAZINE / score: 75 (OpenAIによる開発効率化の解説記事)</description>
-</item>
-<item>
-<title>[75] Android開発者認証が2027年1月から世界展開開始</title>
-<link>https://gigazine.net/news/20261120-android-developer-verification-expanding/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261120-android-developer-verification-expanding/</guid>
-<pubDate>Fri, 20 Nov 2026 06:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>Googleが「不正行為防止策」と呼び、一部の開発者が「オープンな開発を阻害するもの」と反発するAndroidのセキュリティシステム「開発者認証」が2027年1月から全世界向けに展開され始めます。 続きを読む... — GIGAZINE / score: 75 (Android開発者認証の世界展開)</description>
 </item>
 <item>
 <title>[75] Googleの世界モデル「Genie 4」が「Project Genie」で利用可能に、遊びながら世界を書き換え／「Google AI Ultra」向けに展開。「Gemini API」でも一般提供</title>
@@ -797,14 +805,6 @@
 <pubDate>Thu, 19 Nov 2026 22:00:24 +0000</pubDate>
 <category>Spring Boot リリース</category>
 <description>⭐ New Features Refine forwarded header support #52800 Deprecate Apache Pulsar support #52752 🐞 Bug Fixes Properties migrator does not migrate some properties renamed in 4.0 #52809 Reactive web servers no longer use forwarded headers on a cloud platform after #52800 #52806 Class loading fails with 'Zip file closed' can still be thrown under concurrent access #52803 Auto-configured PulsarTransactionManager is not customized by TransactionManagerCustomizers #52783 InspectedContent records the wrong — Spring Boot リリース / score: 75 (人気フレームワークSpring Boot v4.2.0のリリース)</description>
-</item>
-<item>
-<title>[75] Introducing Tool Retrieval in the Gemini API</title>
-<link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/</link>
-<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/</guid>
-<pubDate>Thu, 19 Nov 2026 18:00:00 +0000</pubDate>
-<category>Google AI Blog</category>
-<description>Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API. — Google AI Blog / score: 75 (Gemini APIの新機能プレビュー公開)</description>
 </item>
 </channel>
 </rss>
