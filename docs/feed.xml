@@ -4,8 +4,88 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 23 Nov 2026 16:06:22 +0000</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 18:07:50 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>AWS Partner Central expands analytics access with Partner Central Agents and Data Subscriptions</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/partner-analytics-agent-s3/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/partner-analytics-agent-s3/</guid>
+<pubDate>Mon, 23 Nov 2026 17:36:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS Partners and AWS Marketplace sellers now have two new ways to access their analytics data in AWS Partner Central. Partner Central Agents answer questions in plain language, and Data Subscriptions deliver Partner Central data to an Amazon Simple Storage Service (Amazon S3) bucket every day. Partner Central Agents answer questions about leads, marketing campaigns, opportunities and pipeline, and funding, without navigating dashboards or exporting to spreadsheets. AWS Marketplace sellers can al — AWS What's New / score: 40 (AWS Partner Centralの分析データアクセス機能拡張。)</description>
+</item>
+<item>
+<title>AgentCore runtime instances are now generally available in the AWS GovCloud (US-West) Region</title>
+<link>https://aws.amazon.com/agentcore-runtime-instances-aws-govcloud-us</link>
+<guid isPermaLink="true">https://aws.amazon.com/agentcore-runtime-instances-aws-govcloud-us</guid>
+<pubDate>Mon, 23 Nov 2026 17:21:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon Bedrock AgentCore runtime instances are now available in the AWS GovCloud (US-West) Region. Runtime instances run your agents on Amazon EC2 instances in your own account, while AgentCore handles provisioning, patching, scaling, and lifecycle management. With runtime instances, teams in AWS GovCloud (US) can choose GPU-accelerated, memory-optimized, or compute-optimized instance types for their agents and run agent sessions of up to 14 days. Agent instances, storage volumes, and session da — AWS What's New / score: 55 (AWS GovCloudでのAgentCoreランタイム一般提供開始。)</description>
+</item>
+<item>
+<title>RoboTrack: Point tracking for real-world robotic manipulation</title>
+<link>https://huggingface.co/blog/allenai/robotrack</link>
+<guid isPermaLink="true">https://huggingface.co/blog/allenai/robotrack</guid>
+<pubDate>Mon, 23 Nov 2026 17:20:37 +0000</pubDate>
+<category>Hugging Face Blog</category>
+<description> — Hugging Face Blog / score: 60 (ロボットマニピュレーション向けポイント追跡技術の紹介。)</description>
+</item>
+<item>
+<title>A more tailored Google Search that’s uniquely yours</title>
+<link>https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/</link>
+<guid isPermaLink="true">https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/</guid>
+<pubDate>Mon, 23 Nov 2026 17:00:00 +0000</pubDate>
+<category>Google AI Blog</category>
+<description>Google Search bar with the text "Personal Intelligence" surrounded by the Google Wallet, Google Drive, GMail, Google Photos, Google Calendar, and Google G logo icons — Google AI Blog / score: 50 (Google検索のパーソナライズ機能のアップデート。)</description>
+</item>
+<item>
+<title>Amazon CloudFront Announces HTTP/2 Support for Connections to Origins</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-cloudfront-http2-origins/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-cloudfront-http2-origins/</guid>
+<pubDate>Mon, 23 Nov 2026 17:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon CloudFront now supports HTTP/2 connections to custom origins and VPC origins. HTTP/2 lets CloudFront send many requests over fewer connections to your origin. This means fewer connections and TLS handshakes for your origin to handle, which improves performance for API and agentic workloads, such as AI agents calling MCP servers or mobile and web apps calling backend APIs. Until now, CloudFront connected to origins only over HTTP/1.1, which handles one request at a time per connection. Whe — AWS What's New / score: 65 (CloudFrontオリジン接続でのHTTP/2サポート。)</description>
+</item>
+<item>
+<title>Data + AI Anywhere: AlloyDB Omni integration with local models</title>
+<link>https://cloud.google.com/blog/products/databases/alloydb-omni-integration-with-local-models/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/databases/alloydb-omni-integration-with-local-models/</guid>
+<pubDate>Mon, 23 Nov 2026 17:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>Open models like Gemma 4 from Google DeepMind are a great option to keep your data local. But how can a local AI model integrate with on-premises data? AlloyDB Omni , Google’s 100% PostgreSQL-compatible database that runs anywhere, now integrates with locally hosted large language models (LLMs). With AlloyDB Omni, you can build agentic experiences on your own infrastructure and on your own terms. Whether it’s in the cloud, in your datacenter, or even on your laptop, you can have data plus AI any — Google Cloud Blog / score: 65 (AlloyDB OmniとローカルAIモデルの統合機能。)</description>
+</item>
+<item>
+<title>How Sinch modernized its enterprise data warehouse from Snowflake to BigQuery to power AI</title>
+<link>https://cloud.google.com/blog/products/data-analytics/how-sinch-migrated-from-snowflake-to-bigquery-to-power-ai/</link>
+<guid isPermaLink="true">https://cloud.google.com/blog/products/data-analytics/how-sinch-migrated-from-snowflake-to-bigquery-to-power-ai/</guid>
+<pubDate>Mon, 23 Nov 2026 17:00:00 +0000</pubDate>
+<category>Google Cloud Blog</category>
+<description>As the scale of global communications grows larger and larger, enterprise platforms must process billions of interactions with customers across a complex network of touchpoints without breaking them. A prime example is Sinch , one of the world’s leading cloud communications and customer engagement (CPaaS) companies, which processes billions of customer interactions, SMS routing events, voice calls, and transactional messages. Managing massive international messaging traffic brings significant ar — Google Cloud Blog / score: 45 (企業のデータ基盤移行事例であり宣伝的要素が強い)</description>
+</item>
+<item>
+<title>Finding faster quantum algorithms with agents and formal verification</title>
+<link>https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/</link>
+<guid isPermaLink="true">https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/</guid>
+<pubDate>Mon, 23 Nov 2026 16:59:40 +0000</pubDate>
+<category>Google DeepMind</category>
+<description>Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry. — Google DeepMind / score: 75 (AIエージェントを用いた量子アルゴリズム高速化の成果。)</description>
+</item>
+<item>
+<title>AWS Global Accelerator now preserves client IPs for NLBs with TLS listeners</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/global-accelerator-client-ip-nlb-tls/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/global-accelerator-client-ip-nlb-tls/</guid>
+<pubDate>Mon, 23 Nov 2026 16:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS Global Accelerator now preserves the client IP address for traffic sent to Network Load Balancer (NLB) endpoints with TLS listeners. You can terminate TLS at your NLB and still see the original client IP address in your application. This means you can apply security groups, geo-blocking, rate limiting, fraud detection, audit logging, allowlists, and compliance controls based on the real client IP. Previously, you couldn't add an NLB with a TLS listener to an accelerator that had client IP ad — AWS What's New / score: 60 (Global AcceleratorのTLSリスナーにおけるクライアントIP保持。)</description>
+</item>
+<item>
+<title>Announcing metal size for Amazon EC2 G7 instances</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-g7-metal-size/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-g7-metal-size/</guid>
+<pubDate>Mon, 23 Nov 2026 16:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Today, AWS announces the general availability of the metal size for Amazon Elastic Compute Cloud (Amazon EC2) G7 instances, accelerated by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs. G7 instances deliver up to 4.6x AI inference performance and up to 2.1x graphics performance compared to G6. Customers can use the metal size of G7 instances to run physical AI simulations, deploy AI agent sandboxes, and accelerate graphics workloads that need direct access to bare metal infrastructure. G7 me — AWS What's New / score: 55 (EC2 G7インスタンスのベアメタルサイズ一般提供。)</description>
+</item>
 <item>
 <title>DHH氏が開発する「Omarchy 4.5」リリース。一般的なマルチウィンドウをサポート。最速7秒で導入、Appleシリコン対応、Webアプリ版MS Office用ランチャーなど新機能</title>
 <link>https://www.publickey1.jp/blog/26/dhhomarchy_457applewebms_office.html</link>
@@ -143,12 +223,28 @@
 <description>11月23日時点の報道によると、NTTドコモはAmazonブラックフライデーに合わせ、11月27日〜12月7日にdポイントの還元キャンペーンを2つ実施し、どちらもエントリーが必要です。筆者の計算では、初めてアカウントを連 […] — iPhone Mania / score: 20 (キャリアのポイント還元キャンペーン情報)</description>
 </item>
 <item>
+<title>GitHub - AFK-surf/xnulinux: XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)</title>
+<link>https://github.com/AFK-surf/xnulinux</link>
+<guid isPermaLink="true">https://github.com/AFK-surf/xnulinux</guid>
+<pubDate>Mon, 23 Nov 2026 12:27:31 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Run macOS userspace on Linux by loading the macOS kernel into it. xnulinux builds XNU, the open-source kernel of macOS, from Apple's published sources and runs it as a loadable kernel module (xnu.ko) inside an unmodified arm64 Linux kernel. The hosted XNU drives the CPU and MMU directly, so macOS... — はてなブックマーク テクノロジー / score: 60 (Linux上でXNUカーネルを動作させる興味深い実験的試み。)</description>
+</item>
+<item>
 <title>被害額は4700億円。高齢者を狙う「テックサポートなりすまし」に注意</title>
 <link>https://www.gizmodo.jp/article/global_elderly_scams_ftc_report/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/global_elderly_scams_ftc_report/</guid>
 <pubDate>Mon, 23 Nov 2026 12:00:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>日本のみならず、世界で深刻化する高齢者を狙った詐欺の実態を解説。FTCの最新レポートをもとに、急増する被害額やテックサポートなどの手口を紹介します。 — ギズモード・ジャパン / score: 60 (技術サポート詐欺に関する重要なセキュリティ警鐘)</description>
+</item>
+<item>
+<title>GitHub - MaryCache/tsuzuri: Claude Code skill and viewer app for writing and reviewing Japanese prose sentence by sentence with explicit writing intent</title>
+<link>https://github.com/MaryCache/tsuzuri</link>
+<guid isPermaLink="true">https://github.com/MaryCache/tsuzuri</guid>
+<pubDate>Mon, 23 Nov 2026 11:53:43 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>English: README.en.md tsuzuri は Claude Code に日本語の文章を執筆させる際に、AI が生成した文章の品質を向上させるためのスキルと閲覧アプリです。 ユーザーは閲覧アプリで文ごとに AI の執筆意図（その文で読み手に何をするか）と文機能（文の役割や前の文との接続）を確認し、違和感を覚えた文にコメントを残して... — はてなブックマーク テクノロジー / score: 45 (Claude Codeを活用した日本語文章執筆支援ツール。)</description>
 </item>
 <item>
 <title>ガシャポン、今度はマシンごと買う！ バンダイ公式の約1/2サイズモデルが5936円</title>
@@ -189,6 +285,14 @@
 <pubDate>Mon, 23 Nov 2026 10:36:41 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>まけいぬびくとりー🌟DTM🔰 @ugokuchiwawa 開店した途端、お客様が来店し、「〇〇はセール対象ですよね？」と聞かれました。しかし、私の店舗はセール対象外だったため、そのことを説明しました。 すると、お客様がChatGPTの画面を見せてきて、対象店舗と書いてあると主張されました。確認してきますと伝えたところ、後... — はてなブックマーク テクノロジー / score: 15 (生成AIのハルシネーションに関する日常的な話題)</description>
+</item>
+<item>
+<title>ホワイトハッカー、ダサぃ。 — El Kentaro</title>
+<link>https://buymeacoffee.com/elkentaro/leyebimeji</link>
+<guid isPermaLink="true">https://buymeacoffee.com/elkentaro/leyebimeji</guid>
+<pubDate>Mon, 23 Nov 2026 10:35:22 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>大漏洩祭りが進行する中、あいも変わらず「ホワイトハッカー」がメディアでも政府筋でも話題になっている。 はっきり言おう。「ホワイトハッカー」はダサい。「セキュリティトップガン」はもっとダサいが、その少し下あたりに「ホワイトハッカー」は存在する。 なぜダサいのか。それはそもそも「ハッカー」というのは、... — はてなブックマーク テクノロジー / score: 30 (ホワイトハッカーの呼称に対する主観的な批判意見。)</description>
 </item>
 <item>
 <title>AIの顔認識技術に依存して容疑者を誤認逮捕した刑事の免責主張を連邦裁判官が却下、顔認識は逮捕を認める「相当な理由」にあたらず</title>
@@ -383,6 +487,22 @@
 <description> — CodeZine / score: 50 (エンタープライズ開発へのAI駆動開発導入に関する解説。)</description>
 </item>
 <item>
+<title>Amazon SageMaker Studio now supports training job submission and model deployment for SageMaker HyperPod clusters</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-studio-hyperpod/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-studio-hyperpod/</guid>
+<pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon SageMaker Studio now provides a native developer experience for Amazon SageMaker HyperPod, enabling data scientists to submit distributed training jobs, deploy models, and monitor workloads through a visual interface on HyperPod clusters orchestrated with Amazon Elastic Kubernetes Service (Amazon EKS). SageMaker HyperPod is a purpose-built infrastructure for distributed training and fine-tuning of foundation models at scale, designed to reduce infrastructure management overhead. Submittin — AWS What's New / score: 60 (SageMaker StudioでのHyperPod統合サポート。)</description>
+</item>
+<item>
+<title>AWS Systems Manager Automation now automates operational tasks in Azure and Google Cloud</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/systems-manager-multicloud-automation/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/systems-manager-multicloud-automation/</guid>
+<pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS Systems Manager Automation now lets you create custom workflows (runbooks) that can automate operational tasks across Microsoft Azure, Google Cloud, and AWS resources. Automation helps you make changes safely at scale, such as remediating misconfigurations or cleaning up idle resources. Runbooks can roll out in controlled batches, pause for approval, and stop if errors pass a threshold. Instead of maintaining separate tools and credentials for each cloud, teams can now author and execute run — AWS What's New / score: 65 (AWS Systems Managerのマルチクラウド（Azure/GCP）自動化対応。)</description>
+</item>
+<item>
 <title>November 23, 2026</title>
 <link>https://docs.cloud.google.com/release-notes#November_23_2026</link>
 <guid isPermaLink="true">https://docs.cloud.google.com/release-notes#November_23_2026</guid>
@@ -461,14 +581,6 @@
 <pubDate>Mon, 23 Nov 2026 06:56:43 +0000</pubDate>
 <category>Zenn トレンド</category>
 <description>Googleの『Site Reliability Engineering, 2nd Edition』に、「Safety Engineering for SRE with STPA and CAST」という章が追加されました。 STAMPやSTPAは、システム安全工学から生まれた考え方・分析手法であり、Googleでも実際に利用され始めているようです。2021年にはGoogle社内研修が始まり、2025年のSREconではGoogle Mapsへの適用事例も紹介されました。 Google SRE — STPA: Teaching a New Way to Prevent Outages a... — Zenn トレンド / score: 60 (GoogleのSREにおける安全工学の導入事例)</description>
-</item>
-<item>
-<title>NVIDIAグラボの「SSD無限酷使」現象、修正パッチを適用しても直らないとの報告。ちょっと改善するも、まだ書き込みまくる - AUTOMATON</title>
-<link>https://automaton-media.com/articles/newsjp/20261123-480470/</link>
-<guid isPermaLink="true">https://automaton-media.com/articles/newsjp/20261123-480470/</guid>
-<pubDate>Mon, 23 Nov 2026 06:49:40 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>NVIDIAグラボの「SSD無限酷使」現象、修正パッチを適用しても直らないとの報告。ちょっと改善するも、まだ書き込みまくる 「GeForce Game Ready Driver」のホットフィックス621.35配信後も、PCを操作していない間にもSSDへの大量の書き込みがおこなわれる不具合が継続しているようだ。 NVIDIAは11月21日、GPU向けドライ... — はてなブックマーク テクノロジー / score: 85 (NVIDIA製GPUドライバに起因する深刻なハードウェア不具合)</description>
 </item>
 <item>
 <title>濃いめのカルピスでバニラヨーグルトの風味が引き立つ「バニラヨーグルト＆カルピス」試飲レビュー</title>
@@ -639,14 +751,6 @@
 <description>AIによる人類滅亡リスクや制御不能の脅威論について専門家の警告を交えて解説します。資金集めの側面も指摘されるAIの危険性に関する議論の真相とは。 — ギズモード・ジャパン / score: 45 (AIのリスクや倫理に関する議論)</description>
 </item>
 <item>
-<title>macOSネイティブのAlfred UIやLLMを利用したワークフローを作成できるようになったMac用多機能ランチャー「Alfred v6」がリリース。</title>
-<link>https://applech2.com/archives/20261123-alfred-6-now-availabe.html</link>
-<guid isPermaLink="true">https://applech2.com/archives/20261123-alfred-6-now-availabe.html</guid>
-<pubDate>Mon, 23 Nov 2026 03:30:11 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>macOSネイティブUIを利用したワークフローを作成できるAlfred UIやmacOS 27 Golden Gate向けに刷新した設定画面などを実装したMac用多機能ランチャー「Alfred v6」がリリースされています。詳細は以下から。 英Running with Crayons Ltdは現地時間2026年11月18日、2010年から開発を続けているMac用多機能ランチャーAlfre... — はてなブックマーク テクノロジー / score: 60 (著名なMac用ランチャーのメジャーリリース)</description>
-</item>
-<item>
 <title>iPhone 20 Proは「チタンボディ復活」かもしれない</title>
 <link>https://www.gizmodo.jp/article/iphone-20-pro-titanium/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/iphone-20-pro-titanium/</guid>
@@ -701,110 +805,6 @@
 <pubDate>Mon, 23 Nov 2026 03:01:21 +0000</pubDate>
 <category>Computer Music Japan</category>
 <description>今、最も使用されるヴォーカル・プロセッサー、Sound toys「Little AlterBoy」が61％OFFとなっています。 Sound Toysではブラックフライデーセール2026を開催中です。合わせてチェックして... The post 【ブラックフライデーセール】今、最も使用されるヴォーカル・プロセッサー、Sound toys「Little AlterBoy」が61％OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 15 (音声プラグインのセール情報)</description>
-</item>
-<item>
-<title>【年収300万アップも夢じゃない？】AI時代を生き抜く、エンジニアの生き残り戦略</title>
-<link>https://codezine.jp/article/detail/30352</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/30352</guid>
-<pubDate>Mon, 23 Nov 2026 03:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 40 (エンジニアのキャリア形成に関する一般的解説)</description>
-</item>
-<item>
-<title>BE:FIRST、ファミリーマートのクリスマスタイアップソング「Dance on Christmas」を11月30日(月)に配信リリース決定。SOTAとJUNONも制作に加わるクリスマスソングの新定番</title>
-<link>https://ascii.jp/elem/000/004/453/4453932/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/453/4453932/?rss</guid>
-<pubDate>Mon, 23 Nov 2026 03:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>BE:FIRST、ファミリーマートのクリスマスタイアップソング「Dance on Christmas」を11月30日(月)に配信リリース決定。SOTAとJUNONも制作に加わるクリスマスソングの新定番 — ASCII.jp / score: 10 (音楽配信リリースのニュース)</description>
-</item>
-<item>
-<title>ゴムマリ、Notion で作る『営業会議の資料作成』を提供開始</title>
-<link>https://ascii.jp/elem/000/004/453/4453931/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/453/4453931/?rss</guid>
-<pubDate>Mon, 23 Nov 2026 03:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>ゴムマリ、Notion で作る『営業会議の資料作成』を提供開始 — ASCII.jp / score: 25 (Notionを活用した業務効率化サービス)</description>
-</item>
-<item>
-<title>【本日発売】ローソン「盛りすぎ！ソース焼そば」麺50％増量、これは買い！</title>
-<link>https://ascii.jp/elem/000/004/453/4453904/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/453/4453904/?rss</guid>
-<pubDate>Mon, 23 Nov 2026 03:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>ローソンは本日11月23日から、「盛りすぎ！ソース焼そば」を発売します（一部エリアでは同日夕方頃から）。ローソンでは、価格を据え置いて具材や重量などを約50％増量する「盛りすぎチャレンジ」開催中。 — ASCII.jp / score: 15 (飲食店のプロモーション情報)</description>
-</item>
-<item>
-<title>4つのプラットフォームで全方位を制す、AMD「EPYC 9006」のラインナップ全貌とZen 6/6cの実装戦略</title>
-<link>https://ascii.jp/elem/000/004/453/4453862/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/453/4453862/?rss</guid>
-<pubDate>Mon, 23 Nov 2026 03:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>AMDが7月に開催したAdvancing AI 2026でEPYC 9006の概要を紹介。9月30日にはホワイトペーパーを公開。そして11月10日にAMD in Depthを実施し、ここでZen 6/6cコアの詳細なども公開した。 — ASCII.jp / score: 70 (AMDの次世代プロセッサと戦略の詳細)</description>
-</item>
-<item>
-<title>90万円台で手に入る欧州風コンパクト！ 生産終了のスズキ「イグニス」が今こそ“買い”な理由</title>
-<link>https://ascii.jp/elem/000/004/453/4453812/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/453/4453812/?rss</guid>
-<pubDate>Mon, 23 Nov 2026 03:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>2024年に販売を終了したスズキ「イグニス」の中古車レビューです。欧州車風の個性的なフォルムやフロンテクーペをモチーフにしたデザインが魅力。後席の狭さなど弱点もありますが、90万円台から狙える手頃な価格と、硬めでキビキビ走るハンドリングを備えた隠れた名車です。 — ASCII.jp / score: 15 (自動車の中古車レビュー)</description>
-</item>
-<item>
-<title>一度買えばずっと使える「クラウドストレージ」があるって知ってますか（しかも、今なら62%オフですって）</title>
-<link>https://ascii.jp/elem/000/004/452/4452432/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/452/4452432/?rss</guid>
-<pubDate>Mon, 23 Nov 2026 03:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>スイス発のクラウドストレージサービス「pCloud」が、2026年11月13日から28日まで、ブラックフライデーセールを開催中。最大62%という大きな割引が適用されています！ — ASCII.jp / score: 20 (クラウドストレージのセール情報)</description>
-</item>
-<item>
-<title>余った電気を「岩石」に貯めておく。新しい電池が開発中</title>
-<link>https://www.gizmodo.jp/article/carnot-battery-rock-thermal-storage/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/carnot-battery-rock-thermal-storage/</guid>
-<pubDate>Mon, 23 Nov 2026 03:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>余った電気を岩石に熱として蓄え、夜間の発電や暖房に活用する新しいカルノー電池の仕組みと研究の現状を分かりやすく解説します。 — ギズモード・ジャパン / score: 40 (革新的な蓄電技術の解説)</description>
-</item>
-<item>
-<title>WolvCTF2026 - writeup</title>
-<link>https://zenn.dev/gattoartz/articles/3f302189a1741a</link>
-<guid isPermaLink="true">https://zenn.dev/gattoartz/articles/3f302189a1741a</guid>
-<pubDate>Mon, 23 Nov 2026 02:53:40 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>Welcome WolvCTF2026( https://wolvctf.io/ ) の私が解いた一部問題のwirteupです。 今回は一切AIを用いずに解いたため、一部誤りがあるかもしれません。 英語への翻訳はすべてChatGPTを用いて行われています。 This is a writeup for some of the challenges I solved in WolvCTF 2026. I solved these challenges entirely without using AI, so some parts of my explanations may be i... — Zenn トレンド / score: 35 (CTFの個人の解法ライトアップ記事)</description>
-</item>
-<item>
-<title>一部の｢Google AI｣の年額プランが最大50％オフになるブラックフライデーの先行セールが開催中（既存ユーザー向け）</title>
-<link>https://taisy0.com/2026/11/23/230796.html</link>
-<guid isPermaLink="true">https://taisy0.com/2026/11/23/230796.html</guid>
-<pubDate>Mon, 23 Nov 2026 02:50:49 +0000</pubDate>
-<category>気になる、記になる…</category>
-<description>現在、Googleが、一部の「Google AI」プランを対象としたブラックフライデーの先行セールを開催しています。 先行セールは既にGoogle AIプランかGoogle Oneのストレージを契約している人が対象で、「 […] — 気になる、記になる… / score: 25 (Google AIプランのセール情報)</description>
-</item>
-<item>
-<title>【Goliath(通常35,000円相当)プレゼント】大作映画やファンタジー映画のスコアリングを1つのプラットフォームで実現する、EastWest「Hollywood Orchestra Opus + Hollywood Fantasy Orchestra Bundle」が79%OFF！</title>
-<link>https://computermusic.jp/2026/11/eastwest-hollywood-orchestra-opus-fantasy-orchestra-bundle/</link>
-<guid isPermaLink="true">https://computermusic.jp/2026/11/eastwest-hollywood-orchestra-opus-fantasy-orchestra-bundle/</guid>
-<pubDate>Mon, 23 Nov 2026 02:46:32 +0000</pubDate>
-<category>Computer Music Japan</category>
-<description>大作映画やファンタジー映画のスコアリングを1つのプラットフォームで実現する、EastWest「Hollywood Orchestra Opus + Hollywood Fantasy Orchestra Bundle」が... The post 【Goliath(通常35,000円相当)プレゼント】大作映画やファンタジー映画のスコアリングを1つのプラットフォームで実現する、EastWest「Hollywood Orchestra Opus + Hollywood Fantasy Orchestra Bundle」が79%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 15 (音楽制作オーケストラ音源のセールのため)</description>
-</item>
-<item>
-<title>100年間使い続けられる「固体型原子力電池」が発表</title>
-<link>https://www.gizmodo.jp/article/2611-solid-state-nuclear-battery-100-years/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-solid-state-nuclear-battery-100-years/</guid>
-<pubDate>Mon, 23 Nov 2026 02:35:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>100年間持続すると謳う固体型原子力電池。その仕組みや用途は、こんな感じになっている。 — ギズモード・ジャパン / score: 45 (新開発の原子力電池に関する技術トピック)</description>
-</item>
-<item>
-<title>なぜ駅の改札機で混乱？　Suica、クレカ、QRコードの集約で「立ち止まらない快適さ」を奪う理由</title>
-<link>https://www.itmedia.co.jp/mobile/articles/2611/23/news005.html</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/mobile/articles/2611/23/news005.html</guid>
-<pubDate>Mon, 23 Nov 2026 02:34:26 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>なぜ駅の改札機で混乱？ Suica、クレカ、QRコードの集約で「立ち止まらない快適さ」を奪う理由（1/2 ページ） 日々の通勤や移動で欠かせない鉄道の自動改札機に、いま大きな変化が起きている。駅の改札機にクレジットカードやデビットカード、スマートフォンなどをかざして通過する「タッチ決済改札」の導入が全国各地... — はてなブックマーク テクノロジー / score: 45 (駅の改札機における決済手段多様化の課題解説)</description>
 </item>
 </channel>
 </rss>
