@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 23 Nov 2026 12:09:24 +0000</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 14:06:52 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] Anthropicの研究者がAI「Claude」とともに数学の未解決問題「リーマン予想」を証明したと発表、1700万行の証明コードを専門家が検証中</title>
@@ -45,6 +45,14 @@
 <pubDate>Tue, 17 Nov 2026 17:45:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API. — OpenAI News / score: 95 (主要なAIモデルのメジャーリリースと機能強化)</description>
+</item>
+<item>
+<title>[90] PostgreSQL 19正式リリース。ノンブロッキングなREPACKやI/Oワーカーのオートスケールなど新機能</title>
+<link>https://www.publickey1.jp/blog/26/postgresql_19repackio.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/postgresql_19repackio.html</guid>
+<pubDate>Mon, 23 Nov 2026 14:06:22 +0000</pubDate>
+<category>Publickey</category>
+<description>オープンソースのリレーショナルデータベース「PostgreSQL」の最新版となる「PostgreSQL 19」正式版がリリースされました（日本語のプレスリリース）。 PostgreSQLは毎年9月もしくは10月にメジャーバージョンアップが行... — Publickey / score: 90 (メジャーなOSSデータベースの大型アップデート)</description>
 </item>
 <item>
 <title>[90] タワーレコード 1100万件情報流出</title>
@@ -175,14 +183,6 @@
 <description>Today, we’re introducing Gemini 4 Hydrogen, our daily driver for agentic workflows — Gemini (Google Blog) / score: 90 (エージェント型ワークフロー向け新モデルの発表。)</description>
 </item>
 <item>
-<title>[90] AWSをローカルマシン上でエミュレートする、AWS公式の「AWSエミュレータ」正式リリース</title>
-<link>https://www.publickey1.jp/blog/26/awsawsaws_1.html</link>
-<guid isPermaLink="true">https://www.publickey1.jp/blog/26/awsawsaws_1.html</guid>
-<pubDate>Thu, 12 Nov 2026 15:09:51 +0000</pubDate>
-<category>Publickey</category>
-<description>Amazon Web Servicesは、ローカルマシン上でAWSのAPIをエミュレートする「AWSエミュレータ」の正式リリースを発表しました。 ダウンロードしてインストールすれば誰でも無料で利用でき、AWSアカウントも不要です。 Toda... — Publickey / score: 90 (AWS公式のローカルエミュレータ正式リリースで開発効率に直結する)</description>
-</item>
-<item>
 <title>[90] 2026-11-11, Version 26.13.1 'Lithium' (LTS), @aduh95</title>
 <link>https://github.com/nodejs/node/releases/tag/v26.13.1</link>
 <guid isPermaLink="true">https://github.com/nodejs/node/releases/tag/v26.13.1</guid>
@@ -239,12 +239,12 @@
 <description>Today, we’re introducing Gemini 4 Neon — Gemini (Google Blog) / score: 88 (Googleの新型モデルGemini 4 Neonの発表)</description>
 </item>
 <item>
-<title>[85] 証明が得られたあとに−−証明を理解するという仕事｜加藤文元</title>
-<link>https://note.com/katobungen/n/n2326bd68a80e</link>
-<guid isPermaLink="true">https://note.com/katobungen/n/n2326bd68a80e</guid>
-<pubDate>Sun, 22 Nov 2026 06:23:00 +0000</pubDate>
+<title>[85] NVIDIAグラボの「SSD無限酷使」現象、修正パッチを適用しても直らないとの報告。ちょっと改善するも、まだ書き込みまくる - AUTOMATON</title>
+<link>https://automaton-media.com/articles/newsjp/20261123-480470/</link>
+<guid isPermaLink="true">https://automaton-media.com/articles/newsjp/20261123-480470/</guid>
+<pubDate>Mon, 23 Nov 2026 06:49:40 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>2026年11月20日、レヴェント・アルポゲ氏は、AIのClaudeとともにリーマン予想の証明を得たと発表しました。証明はLeanという証明支援系で形式化され、公開されたライブラリはおよそ1700万行に及びます。翌日には、Leanとその数学ライブラリMathlibのコミュニティが、命題の定式化と証明を検証し、正しさに確信をもつとい... — はてなブックマーク テクノロジー / score: 85 (Claudeによるリーマン予想証明の形式化と検証の話題)</description>
+<description>NVIDIAグラボの「SSD無限酷使」現象、修正パッチを適用しても直らないとの報告。ちょっと改善するも、まだ書き込みまくる 「GeForce Game Ready Driver」のホットフィックス621.35配信後も、PCを操作していない間にもSSDへの大量の書き込みがおこなわれる不具合が継続しているようだ。 NVIDIAは11月21日、GPU向けドライ... — はてなブックマーク テクノロジー / score: 85 (NVIDIA製GPUドライバに起因する深刻なハードウェア不具合)</description>
 </item>
 <item>
 <title>[85] Quoting Levent Alpöge</title>
@@ -551,12 +551,20 @@
 <description>November 9, 2026 — Claude Fable 5.2 and Mythos 5.2 arrive on Anthropic’s IPO roadshow day. How much thinking is worth paying for? — Latent Space / score: 78 (主要LLMの性能逆転とIPO動向)</description>
 </item>
 <item>
+<title>[75] Windows Server 2016 からの Active Directory 移行、アップグレードにあたっての考慮事項</title>
+<link>https://jpwinsup.github.io/blog/2026/08/05/ActiveDirectory/PromotionAndDemotion/windows-server-2016-ad-migration-considerations/?utm_source=chatgpt.com</link>
+<guid isPermaLink="true">https://jpwinsup.github.io/blog/2026/08/05/ActiveDirectory/PromotionAndDemotion/windows-server-2016-ad-migration-considerations/?utm_source=chatgpt.com</guid>
+<pubDate>Mon, 23 Nov 2026 11:49:03 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>本記事はマイクロソフト社員によって公開されております。 (作成にあたり Copilot の力を借りています) こんにちは。Windows Commercial Support Directory Services チームです。 Windows Server 2016 は 2027 年 1 月 12 日にサポート終了を迎えます。本記事は、Windows Server 2016 で稼働するドメイン コントローラ... — はてなブックマーク テクノロジー / score: 75 (Windows Serverのサポート終了に伴う重要情報)</description>
+</item>
+<item>
 <title>[75] 著名な製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話</title>
 <link>https://zenn.dev/koukyosyumei/articles/31c8fcf4da45b7</link>
 <guid isPermaLink="true">https://zenn.dev/koukyosyumei/articles/31c8fcf4da45b7</guid>
-<pubDate>Mon, 23 Nov 2026 05:17:05 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>こんにちは。コロンビア大学の博士課程でシステムセキュリティ・形式検証の研究をしている Koukyosyumei です。 今回は、ざっくり言うと、Rust製の有名なOSSをLean 4で形式検証するベンチマークを作っていたら、思いがけず実際のセキュリティ脆弱性をいくつも発見してしまった、という話です。 現在私がやっているプロジェクトの一つに、RustのWebアプリケーションをLean 4で形式検証できるフレームワーク h5i があります。h5iは、RustのWebフレームワークであるAxumをベースに、アプリケーションの重要なロジックをLean 4に変換し、認可、データの分離、ビジネスロジ... — Zenn トレンド / score: 75 (形式検証を用いたRust製OSSの脆弱性発見)</description>
+<pubDate>Mon, 23 Nov 2026 10:14:56 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>こんにちは。コロンビア大学の博士課程でシステムセキュリティ・形式検証の研究をしている Koukyosyumei です。 今回は、ざっくり言うと、Rust製の有名なOSSをLean 4で形式検証するベンチマークを作っていたら、思いがけず実際のセキュリティ脆弱性をいくつも発見してしまった、という話です。 現在私がやっているプロジ... — はてなブックマーク テクノロジー / score: 75 (形式検証を用いたRust製OSSの脆弱性発見)</description>
 </item>
 <item>
 <title>[75] 「Microsoft To Do」、2027年6月にアプリ提供終了　法人向けは「Planner」へ移行、個人向けは代替なし</title>
@@ -573,14 +581,6 @@
 <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>人工ダイヤモンドメーカーのDiamond Foundryが、世界初となる直径200mmの単結晶ダイヤモンドウェハーの製造に成功しました。同社は銅を大幅に上回る熱伝導率を持つダイヤモンドを半導体に直接組み込むことでAIチップの発熱問題を解消し、将来的にはダイヤモンドそのものをトランジスタの材料として利用することを目指しています。 続きを読む... — GIGAZINE / score: 75 (世界初の200mmダイヤモンドウェハー開発とAIチップへの応用)</description>
-</item>
-<item>
-<title>[75] [アップデート]AWSアカウント作成がとんでもなく別物になったので動作の違いを見てみた[新しいAWSエクスペリエンス] | DevelopersIO</title>
-<link>https://dev.classmethod.jp/articles/new-aws-signup/</link>
-<guid isPermaLink="true">https://dev.classmethod.jp/articles/new-aws-signup/</guid>
-<pubDate>Sun, 22 Nov 2026 17:32:19 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>これまでのAWSアカウント作成と違いすぎるので気をつけて使いましょう。通常のAWSアカウントを作成するならadvanced featuresにしてください。 こんにちは、臼田です。 みなさん、AWS使ってますか？(挨拶 今回は新規にAWSアカウントを作成しようとすると、これまでと全く異なる状態となるためこの動作を紹介します。 こ... — はてなブックマーク テクノロジー / score: 75 (AWSアカウント作成プロセスの大きな仕様変更と解説)</description>
 </item>
 <item>
 <title>[75] SignalがAIエージェントによる情報収集を防ぐためアプリでのAIによるスクリーンショット撮影を制限、OSレベルのAIエージェントによる情報収集に警鐘</title>
