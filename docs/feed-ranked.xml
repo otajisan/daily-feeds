@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 23 Nov 2026 10:06:39 +0000</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 12:09:24 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] Anthropicの研究者がAI「Claude」とともに数学の未解決問題「リーマン予想」を証明したと発表、1700万行の証明コードを専門家が検証中</title>
@@ -551,6 +551,14 @@
 <description>November 9, 2026 — Claude Fable 5.2 and Mythos 5.2 arrive on Anthropic’s IPO roadshow day. How much thinking is worth paying for? — Latent Space / score: 78 (主要LLMの性能逆転とIPO動向)</description>
 </item>
 <item>
+<title>[75] 著名な製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話</title>
+<link>https://zenn.dev/koukyosyumei/articles/31c8fcf4da45b7</link>
+<guid isPermaLink="true">https://zenn.dev/koukyosyumei/articles/31c8fcf4da45b7</guid>
+<pubDate>Mon, 23 Nov 2026 05:17:05 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>こんにちは。コロンビア大学の博士課程でシステムセキュリティ・形式検証の研究をしている Koukyosyumei です。 今回は、ざっくり言うと、Rust製の有名なOSSをLean 4で形式検証するベンチマークを作っていたら、思いがけず実際のセキュリティ脆弱性をいくつも発見してしまった、という話です。 現在私がやっているプロジェクトの一つに、RustのWebアプリケーションをLean 4で形式検証できるフレームワーク h5i があります。h5iは、RustのWebフレームワークであるAxumをベースに、アプリケーションの重要なロジックをLean 4に変換し、認可、データの分離、ビジネスロジ... — Zenn トレンド / score: 75 (形式検証を用いたRust製OSSの脆弱性発見)</description>
+</item>
+<item>
 <title>[75] 「Microsoft To Do」、2027年6月にアプリ提供終了　法人向けは「Planner」へ移行、個人向けは代替なし</title>
 <link>https://www.itmedia.co.jp/news/article/2611/23/2000003395/</link>
 <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/23/2000003395/</guid>
@@ -573,14 +581,6 @@
 <pubDate>Sun, 22 Nov 2026 17:32:19 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>これまでのAWSアカウント作成と違いすぎるので気をつけて使いましょう。通常のAWSアカウントを作成するならadvanced featuresにしてください。 こんにちは、臼田です。 みなさん、AWS使ってますか？(挨拶 今回は新規にAWSアカウントを作成しようとすると、これまでと全く異なる状態となるためこの動作を紹介します。 こ... — はてなブックマーク テクノロジー / score: 75 (AWSアカウント作成プロセスの大きな仕様変更と解説)</description>
-</item>
-<item>
-<title>[75] アンソロピックがマイクロソフトに勝負をしかけた。新たなオフィスツールで“エクセル超え”なるか？</title>
-<link>https://www.gizmodo.jp/article/anthropic-goes-for-microsofts-crown-with-new-claude-powered-office-tools/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/anthropic-goes-for-microsofts-crown-with-new-claude-powered-office-tools/</guid>
-<pubDate>Sun, 22 Nov 2026 10:30:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>AnthropicがClaudeを組み込んだ新オフィスツールを発表。表計算やホワイトボード機能でマイクロソフトやグーグルに挑む背景と詳細を解説します。 — ギズモード・ジャパン / score: 75 (Anthropicの新オフィスツール発表)</description>
 </item>
 <item>
 <title>[75] SignalがAIエージェントによる情報収集を防ぐためアプリでのAIによるスクリーンショット撮影を制限、OSレベルのAIエージェントによる情報収集に警鐘</title>
