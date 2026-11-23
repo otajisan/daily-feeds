@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 23 Nov 2026 18:07:50 +0000</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 20:06:03 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「GitLab」に緊急パッチ、リモートコード実行のおそれのある「Ruby2Shell」脆弱性に対処／v19.6.1/v19.5.8/v19.4.10が公開</title>
@@ -575,14 +575,6 @@
 <description>AWS Emulator is a free, open-source local emulator in Rust that lets developers test applications against nearly every AWS service on their own machine using the same CLI and SDK commands, with fidelity measured against real AWS behavior. — AWS News Blog / score: 80 (AWSのローカルエミュレータツールリリース)</description>
 </item>
 <item>
-<title>[80] Gemini Robotics 2.5 accelerates real-world general dexterity</title>
-<link>https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/</link>
-<guid isPermaLink="true">https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/</guid>
-<pubDate>Mon, 09 Nov 2026 19:51:47 +0000</pubDate>
-<category>Google DeepMind</category>
-<description>Our most capable vision-language-action model enhances robot dexterity, reliability, and safety — Google DeepMind / score: 80 (ロボット制御に向けた高度なマルチモーダルモデル発表)</description>
-</item>
-<item>
 <title>[78] [AINews] Fable 5.2 retakes World #1 LLM spot as $ANT IPO roadshow begins</title>
 <link>https://latent.space/p/ainews-fable-5-2-retakes-world-1-llm-spot-as-ant-ipo-roadshow-begins/</link>
 <guid isPermaLink="true">https://latent.space/p/ainews-fable-5-2-retakes-world-1-llm-spot-as-ant-ipo-roadshow-begins/</guid>
@@ -605,6 +597,14 @@
 <pubDate>Mon, 23 Nov 2026 10:14:56 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>こんにちは。コロンビア大学の博士課程でシステムセキュリティ・形式検証の研究をしている Koukyosyumei です。 今回は、ざっくり言うと、Rust製の有名なOSSをLean 4で形式検証するベンチマークを作っていたら、思いがけず実際のセキュリティ脆弱性をいくつも発見してしまった、という話です。 現在私がやっているプロジ... — はてなブックマーク テクノロジー / score: 75 (形式検証を用いたRust製OSSの脆弱性発見)</description>
+</item>
+<item>
+<title>[75] Amazon Inspector expands runtime reachability analysis for ECR and EC2 findings</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/inspector-runtime-reachability/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/inspector-runtime-reachability/</guid>
+<pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon Inspector has expanded its vulnerability management capabilities with runtime reachability analysis for findings originating from Amazon Elastic Container Registry (Amazon ECR) and Amazon Elastic Compute Cloud (Amazon EC2) instances. Previously, Inspector reported every vulnerability found in a resource, including packages that were never used by applications. Security teams had to manually assess which vulnerabilities actually posed risk in their deployed environments. Now, Inspector aut — AWS What's New / score: 75 (Amazon Inspectorの脆弱性管理機能強化)</description>
 </item>
 <item>
 <title>[75] 「Microsoft To Do」、2027年6月にアプリ提供終了　法人向けは「Planner」へ移行、個人向けは代替なし</title>
@@ -685,14 +685,6 @@
 <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
 <category>Spring Blog</category>
 <description>On behalf of the community, I am pleased to announce that the General Availability (RELEASE) of the Spring Cloud 2025.1.5 Release Train is available today. The release can be found in Maven Central . You can check out the 2025.1.5 release notes for more information . Notable Changes in the 2025.1.5 Release Train This release is compatible with Spring Boot 4.0.x and 4.1.x . This release contains several bug fixes across all projects. For a complete list of what was fixed in this release see this  — Spring Blog / score: 75 (Spring Cloudのリリースとアップデート)</description>
-</item>
-<item>
-<title>[75] Spring Cloud 2026.0.0 (aka Paddington) Has Been Released</title>
-<link>https://spring.io/blog/2026/11/20/spring-cloud-2026-0-0-has-been-released</link>
-<guid isPermaLink="true">https://spring.io/blog/2026/11/20/spring-cloud-2026-0-0-has-been-released</guid>
-<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-<category>Spring Blog</category>
-<description>On behalf of the community, I am pleased to announce that the General Availability (RELEASE) of the Spring Cloud 2026.0.0 Release Train is available today. The release can be found in Maven Central . You can check out the 2026.0.0 release notes for more information . Notable Changes in the 2026.0.0 Release Train This release is based on Spring Boot 4.2.0 . A complete list of changes in this spefici release can be found here . Spring Cloud Bus is no longer its own project and has been incorporate — Spring Blog / score: 75 (主要なJavaフレームワークSpring Cloudのメジャーリリース)</description>
 </item>
 <item>
 <title>[75] さよならPhi Silica、ようこそAion Instruct。Windows内蔵の言語モデルが刷新【使ってわかるAI PC】</title>
@@ -805,6 +797,14 @@
 <pubDate>Tue, 17 Nov 2026 21:43:09 +0000</pubDate>
 <category>Publickey</category>
 <description>マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、PostgreSQL互換のサーバレスデータベース「Microsoft Fabric HorizonDB」のパブリックプレビュー版... — Publickey / score: 75 (PostgreSQL互換のサーバレスDBプレビュー版)</description>
+</item>
+<item>
+<title>[75] Running the full server-side Datasette Python app in the browser with service workers and Pyodide</title>
+<link>https://simonwillison.net/2026/Nov/17/datasette-lite/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Nov/17/datasette-lite/</guid>
+<pubDate>Tue, 17 Nov 2026 16:48:33 +0000</pubDate>
+<category>Simon Willison</category>
+<description>Datasette Lite is my port of the Datasette Python application to run directly in the browser using WebAssembly and Pyodide . I've released a complete rewrite of Datasette Lite using service workers, and it's now almost indistinguishable from the real server-side application. You can now do all of the following, using a carefully crafted URL to lite.datasette.io : Load client-side Datasette to browse any SQLite database, JSON file, CSV file or SQL script Select a released version of Datasette to  — Simon Willison / score: 75 (WebAssemblyとPythonを用いた高度な技術解説。)</description>
 </item>
 </channel>
 </rss>

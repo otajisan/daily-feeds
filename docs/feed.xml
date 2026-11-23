@@ -4,8 +4,32 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 23 Nov 2026 18:07:50 +0000</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 20:06:03 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>精神的疲労によりタスク達成のモチベーションが低下する理由が示唆される</title>
+<link>https://gigazine.net/news/20261124-give-up-tough-tasks/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261124-give-up-tough-tasks/</guid>
+<pubDate>Mon, 23 Nov 2026 20:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>タスクを終えたときにご褒美があるとわかっていても、精神的疲労が蓄積したとき、タスクを完了できずに諦めてしまうことがあります。その理由が脳内物質にある可能性が示唆されています。 続きを読む... — GIGAZINE / score: 25 (一般科学・心理学の話題であり技術者向けではない)</description>
+</item>
+<item>
+<title>Here are 4 things you didn’t know you could do with Gemini Canvas.</title>
+<link>https://blog.google/innovation-and-ai/products/gemini-app/gemini-canvas-tasks/</link>
+<guid isPermaLink="true">https://blog.google/innovation-and-ai/products/gemini-app/gemini-canvas-tasks/</guid>
+<pubDate>Mon, 23 Nov 2026 18:00:00 +0000</pubDate>
+<category>Gemini (Google Blog)</category>
+<description>Boost productivity with Google Gemini Canvas. Build web apps, create custom study tools, and refine writing side-by-side. Try it in your next chat. — Gemini (Google Blog) / score: 50 (Google Geminiの新機能紹介と利用促進)</description>
+</item>
+<item>
+<title>Amazon Connect Customer expands automated performance evaluations to 45 new languages</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-customer-expands-automated-performance-evaluations-new-languages/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-customer-expands-automated-performance-evaluations-new-languages/</guid>
+<pubDate>Mon, 23 Nov 2026 18:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon Connect Customer now uses generative AI to automate evaluations of human and AI agent performance in 45 additional languages, such as Arabic, Dutch, Indonesian, and Polish. Managers define custom evaluation criteria in natural language and receive AI-generated evaluations with justifications in their preferred language. Performance evaluations also support cross-language evaluation and can complete assessments in English, even when the conversation is in another language. This enables mul — AWS What's New / score: 60 (AWSのコンタクトセンター向け生成AI機能の多言語対応)</description>
+</item>
 <item>
 <title>AWS Partner Central expands analytics access with Partner Central Agents and Data Subscriptions</title>
 <link>https://aws.amazon.com/about-aws/whats-new/2026/11/partner-analytics-agent-s3/</link>
@@ -16,11 +40,11 @@
 </item>
 <item>
 <title>AgentCore runtime instances are now generally available in the AWS GovCloud (US-West) Region</title>
-<link>https://aws.amazon.com/agentcore-runtime-instances-aws-govcloud-us</link>
-<guid isPermaLink="true">https://aws.amazon.com/agentcore-runtime-instances-aws-govcloud-us</guid>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/agentcore-runtime-instances-govcloud</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/agentcore-runtime-instances-govcloud</guid>
 <pubDate>Mon, 23 Nov 2026 17:21:00 +0000</pubDate>
 <category>AWS What's New</category>
-<description>Amazon Bedrock AgentCore runtime instances are now available in the AWS GovCloud (US-West) Region. Runtime instances run your agents on Amazon EC2 instances in your own account, while AgentCore handles provisioning, patching, scaling, and lifecycle management. With runtime instances, teams in AWS GovCloud (US) can choose GPU-accelerated, memory-optimized, or compute-optimized instance types for their agents and run agent sessions of up to 14 days. Agent instances, storage volumes, and session da — AWS What's New / score: 55 (AWS GovCloudでのAgentCoreランタイム一般提供開始。)</description>
+<description>Amazon Bedrock AgentCore runtime instances are now available in the AWS GovCloud (US-West) Region. Runtime instances run your agents on Amazon EC2 instances in your own account, while AgentCore handles provisioning, patching, scaling, and lifecycle management. With runtime instances, teams in AWS GovCloud (US) can choose GPU-accelerated, memory-optimized, or compute-optimized instance types for their agents and run agent sessions of up to 14 days. Agent instances, storage volumes, and session da — AWS What's New / score: 65 (AWS GovCloudでのAgentCore一般提供開始)</description>
 </item>
 <item>
 <title>RoboTrack: Point tracking for real-world robotic manipulation</title>
@@ -85,6 +109,14 @@
 <pubDate>Mon, 23 Nov 2026 16:00:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Today, AWS announces the general availability of the metal size for Amazon Elastic Compute Cloud (Amazon EC2) G7 instances, accelerated by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs. G7 instances deliver up to 4.6x AI inference performance and up to 2.1x graphics performance compared to G6. Customers can use the metal size of G7 instances to run physical AI simulations, deploy AI agent sandboxes, and accelerate graphics workloads that need direct access to bare metal infrastructure. G7 me — AWS What's New / score: 55 (EC2 G7インスタンスのベアメタルサイズ一般提供。)</description>
+</item>
+<item>
+<title>Amazon Aurora serverless for MySQL now supports up to 384 ACUs</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-serverless-mysql-supports-384-acu/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-serverless-mysql-supports-384-acu/</guid>
+<pubDate>Mon, 23 Nov 2026 16:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon Aurora serverless now supports database capacity of up to 384 Aurora Capacity Units (ACUs) for Aurora MySQL-Compatible Edition, a 50% increase from the previous maximum of 256 ACUs. Each ACU provides approximately 2 gibibytes (GiB) of memory with corresponding CPU and networking, so a single Aurora serverless database can now scale up to 768 GiB of memory. When the workload completes, Aurora serverless automatically scales down to zero. This makes Aurora serverless especially well-suited  — AWS What's New / score: 60 (Amazon Aurora MySQLの容量上限引き上げ)</description>
 </item>
 <item>
 <title>DHH氏が開発する「Omarchy 4.5」リリース。一般的なマルチウィンドウをサポート。最速7秒で導入、Appleシリコン対応、Webアプリ版MS Office用ランチャーなど新機能</title>
@@ -487,12 +519,44 @@
 <description> — CodeZine / score: 50 (エンタープライズ開発へのAI駆動開発導入に関する解説。)</description>
 </item>
 <item>
+<title>Connected intelligence for in-house legal</title>
+<link>https://openai.com/business/learn/connected-intelligence-for-in-house-legal</link>
+<guid isPermaLink="true">https://openai.com/business/learn/connected-intelligence-for-in-house-legal</guid>
+<pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel. — OpenAI News / score: 55 (法務向けAI活用に関する企業事例の紹介)</description>
+</item>
+<item>
 <title>Amazon SageMaker Studio now supports training job submission and model deployment for SageMaker HyperPod clusters</title>
 <link>https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-studio-hyperpod/</link>
 <guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-studio-hyperpod/</guid>
 <pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Amazon SageMaker Studio now provides a native developer experience for Amazon SageMaker HyperPod, enabling data scientists to submit distributed training jobs, deploy models, and monitor workloads through a visual interface on HyperPod clusters orchestrated with Amazon Elastic Kubernetes Service (Amazon EKS). SageMaker HyperPod is a purpose-built infrastructure for distributed training and fine-tuning of foundation models at scale, designed to reduce infrastructure management overhead. Submittin — AWS What's New / score: 60 (SageMaker StudioでのHyperPod統合サポート。)</description>
+</item>
+<item>
+<title>Amazon Connect Customer AI agents now fill in step-by-step guides</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/connect-ai-agents-fill-guides/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/connect-ai-agents-fill-guides/</guid>
+<pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AI agents in Amazon Connect Customer can now populate fields of a step-by-step guide for contact center agents during live customer interactions. With step-by-step guides, managers can design forms and other user interfaces for common workflows, such as rebooking a trip or submitting a claim. Now, AI agents can fill in a guide when it first loads and suggest updates during live conversations, saving time and improving data accuracy. When contact center agents speak to customers, they spend valua — AWS What's New / score: 60 (Amazon ConnectのAIエージェント機能拡張)</description>
+</item>
+<item>
+<title>AWS CodeDeploy now supports suspending Amazon EC2 Auto Scaling processes</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/aws-codedeploy-suspend-asg-processes/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/aws-codedeploy-suspend-asg-processes/</guid>
+<pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>AWS CodeDeploy can now suspend Amazon EC2 Auto Scaling processes during EC2 in-place deployments to Auto Scaling groups. CodeDeploy is a fully managed service that automates application deployments to Amazon EC2 instances, on-premises servers, AWS Lambda functions, and Amazon ECS services. This launch helps prevent scaling activities from terminating or replacing instances while CodeDeploy is updating them, which can cause a deployment to fail. You can choose to suspend any combination of these  — AWS What's New / score: 65 (AWS CodeDeployのAuto Scaling連携機能強化)</description>
+</item>
+<item>
+<title>Amazon Inspector expands runtime reachability analysis for ECR and EC2 findings</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/inspector-runtime-reachability/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/inspector-runtime-reachability/</guid>
+<pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon Inspector has expanded its vulnerability management capabilities with runtime reachability analysis for findings originating from Amazon Elastic Container Registry (Amazon ECR) and Amazon Elastic Compute Cloud (Amazon EC2) instances. Previously, Inspector reported every vulnerability found in a resource, including packages that were never used by applications. Security teams had to manually assess which vulnerabilities actually posed risk in their deployed environments. Now, Inspector aut — AWS What's New / score: 75 (Amazon Inspectorの脆弱性管理機能強化)</description>
 </item>
 <item>
 <title>AWS Systems Manager Automation now automates operational tasks in Azure and Google Cloud</title>
@@ -503,12 +567,20 @@
 <description>AWS Systems Manager Automation now lets you create custom workflows (runbooks) that can automate operational tasks across Microsoft Azure, Google Cloud, and AWS resources. Automation helps you make changes safely at scale, such as remediating misconfigurations or cleaning up idle resources. Runbooks can roll out in controlled batches, pause for approval, and stop if errors pass a threshold. Instead of maintaining separate tools and credentials for each cloud, teams can now author and execute run — AWS What's New / score: 65 (AWS Systems Managerのマルチクラウド（Azure/GCP）自動化対応。)</description>
 </item>
 <item>
+<title>Amazon EC2 Capacity Blocks for ML now supports search across multiple instance types and AWS Regions</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-capacity-blocks-ml-flex-search/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-capacity-blocks-ml-flex-search/</guid>
+<pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon EC2 Capacity Blocks for ML now lets customers search across multiple instance types and AWS Regions in a single search, making it easier to find and reserve the capacity their ML workloads need. With Capacity Blocks for ML, customers can reserve accelerated compute instances such as Amazon EC2 P6-B300, P6-B200, and Trn2 instances, for a future start date and for up to 6 months. Until now, customers looking to buy Capacity Blocks had to run a separate search for every instance type and Reg — AWS What's New / score: 65 (EC2 Capacity Blocksの検索機能改善)</description>
+</item>
+<item>
 <title>November 23, 2026</title>
 <link>https://docs.cloud.google.com/release-notes#November_23_2026</link>
 <guid isPermaLink="true">https://docs.cloud.google.com/release-notes#November_23_2026</guid>
 <pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
 <category>Google Cloud リリースノート</category>
-<description>NetApp Volumes Announcement Through December 31, 2026, Google Cloud NetApp Volumes sends email notifications to the Google group for NetApp Volumes maintenance, in addition to Unified Maintenance alerts. After December 31, 2026, NetApp Volumes no longer sends email notifications to the Google group, and Unified Maintenance is the only source of planned maintenance notifications. For more information, see Monitor and plan for maintenance events . Feature Google Cloud NetApp Volumes is integrated  — Google Cloud リリースノート / score: 35 (Google Cloud CLIの定例バグ修正)</description>
+<description>App Engine flexible environment Node.js Feature Support for the Node.js 26 runtime is in General Availability (GA) . App Engine flexible environment Python Feature Support for the Python 3.15 runtime is in General Availability (GA) . App Engine standard environment Node.js Feature Support for the Node.js 26 runtime is in General Availability (GA) . App Engine standard environment Python Feature Support for the Python 3.15 runtime is in General Availability (GA) . BigQuery Feature The reservation — Google Cloud リリースノート / score: 35 (Google Cloud CLIの定例バグ修正)</description>
 </item>
 <item>
 <title>ワコムじゃないお絵描き特化のAndroidタブはどのくらい使い物になる？ 安いからありなのかをチェック</title>
@@ -733,78 +805,6 @@
 <pubDate>Mon, 23 Nov 2026 04:00:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 60 (オープンソースの強化学習済みAIモデル公開のニュース)</description>
-</item>
-<item>
-<title>【キャリブレーション設定を保存できる】K-SILVER社製センサー搭載PS5 DualSense Edge対応「Frinkey TMRスティックモジュール」、独自ブラックフライデーセールで数量限定特価</title>
-<link>https://ascii.jp/elem/000/004/453/4453937/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/453/4453937/?rss</guid>
-<pubDate>Mon, 23 Nov 2026 04:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>【キャリブレーション設定を保存できる】K-SILVER社製センサー搭載PS5 DualSense Edge対応「Frinkey TMRスティックモジュール」、独自ブラックフライデーセールで数量限定特価 — ASCII.jp / score: 30 (ゲームコントローラー用ハードウェアのセール情報)</description>
-</item>
-<item>
-<title>AIで人類滅亡リスクは本当？ 資金集めの効果を指摘する声も…</title>
-<link>https://www.gizmodo.jp/article/ai-takeover-risk-openai-board-christiano/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/ai-takeover-risk-openai-board-christiano/</guid>
-<pubDate>Mon, 23 Nov 2026 04:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>AIによる人類滅亡リスクや制御不能の脅威論について専門家の警告を交えて解説します。資金集めの側面も指摘されるAIの危険性に関する議論の真相とは。 — ギズモード・ジャパン / score: 45 (AIのリスクや倫理に関する議論)</description>
-</item>
-<item>
-<title>iPhone 20 Proは「チタンボディ復活」かもしれない</title>
-<link>https://www.gizmodo.jp/article/iphone-20-pro-titanium/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/iphone-20-pro-titanium/</guid>
-<pubDate>Mon, 23 Nov 2026 03:30:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>iPhone 20 Proでチタンボディが復活する可能性についてリーカーの情報を基に解説。冷却機構の進化など実現性を考察します。 — ギズモード・ジャパン / score: 20 (次期iPhoneのハードウェア噂)</description>
-</item>
-<item>
-<title>「Microsoft To Do」、2027年6月にアプリ提供終了　法人向けは「Planner」へ移行、個人向けは代替なし</title>
-<link>https://www.itmedia.co.jp/news/article/2611/23/2000003395/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/23/2000003395/</guid>
-<pubDate>Mon, 23 Nov 2026 03:27:25 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>一方、「Microsoft 365 Personal」や「Microsoft 365 Family」を含む個人アカウントでは、To Doアプリが終了してもPlannerは使えない。Microsoftはこうしたユーザーに、残したいタスクやリストを決めて、ほかのタスク管理アプリを選ぶよう勧めている。 To Doアプリにあるタスクやリストは、Plannerに自動では移らない。... — はてなブックマーク テクノロジー / score: 75 (Microsoft To Doの提供終了と影響に関する重要ニュース。)</description>
-</item>
-<item>
-<title>【ブラックフライデーセール】音楽制作、サウンドデザイン、ポストプロダクションのための究極のピッチシフト・プラグイン、Zynaptiq「PITCHSHIFT PRO」が66%OFF！</title>
-<link>https://computermusic.jp/2026/11/pitchshift-pro/</link>
-<guid isPermaLink="true">https://computermusic.jp/2026/11/pitchshift-pro/</guid>
-<pubDate>Mon, 23 Nov 2026 03:16:34 +0000</pubDate>
-<category>Computer Music Japan</category>
-<description>音楽制作、サウンドデザイン、ポストプロダクションのための究極のピッチシフト・プラグイン、Zynaptiq「PITCHSHIFT PRO」が66%OFFとなっています。 Zynaptiqではブラックフライデーセールを開催中... The post 【ブラックフライデーセール】音楽制作、サウンドデザイン、ポストプロダクションのための究極のピッチシフト・プラグイン、Zynaptiq「PITCHSHIFT PRO」が66%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 15 (音楽制作プラグインのセール情報)</description>
-</item>
-<item>
-<title>無料でMacのアプリのウィンドウをiPhoneやiPadからリアルタイムに操作できる「Sill」、オープンソースで中継サーバー不要</title>
-<link>https://gigazine.net/news/20261123-sill/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261123-sill/</guid>
-<pubDate>Mon, 23 Nov 2026 03:11:56 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Macで作業していると手元のiPhoneやiPadから特定のアプリケーションだけを操作したいことがあります。そこでMacのウィンドウをリアルタイムで転送し、タッチ・キーボード・トラックパッド・Apple Pencilなどで操作できるようにしたサーバー不要の無料のオープンソースアプリが「Sill」です。 Sill: windows from your Ma... — はてなブックマーク テクノロジー / score: 60 (便利で実用的なOSSツールのオープンソース公開)</description>
-</item>
-<item>
-<title>【セール】Aladdin Xの各種プロジェクターが過去最安の最大30％オフに ｰ ｢Aladdin X3｣や｢Aladdin Poca｣シリーズが対象</title>
-<link>https://taisy0.com/2026/11/23/230799.html</link>
-<guid isPermaLink="true">https://taisy0.com/2026/11/23/230799.html</guid>
-<pubDate>Mon, 23 Nov 2026 03:07:22 +0000</pubDate>
-<category>気になる、記になる…</category>
-<description>現在、Aladdin Xが、同社のプロジェクター「Aladdin」シリーズを最大30％オフで販売するブラックフライデーのセールを開催しています。 本セールでは、今年5月・6月に発売した照明一体型3in1プロジェクター「A […] — 気になる、記になる… / score: 15 (ガジェットのセール情報)</description>
-</item>
-<item>
-<title>スマートロックの購入から取り付けまでサポート。Chatlock、Amazonの出張取付サービス案内を更新</title>
-<link>https://ascii.jp/elem/000/004/453/4453935/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/453/4453935/?rss</guid>
-<pubDate>Mon, 23 Nov 2026 03:06:06 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>スマートロックの購入から取り付けまでサポート。Chatlock、Amazonの出張取付サービス案内を更新 — ASCII.jp / score: 30 (スマートロックの取付サポートサービス更新情報)</description>
-</item>
-<item>
-<title>【ブラックフライデーセール】今、最も使用されるヴォーカル・プロセッサー、Sound toys「Little AlterBoy」が61％OFF！</title>
-<link>https://computermusic.jp/2026/11/soundtoys-little-alterboy/</link>
-<guid isPermaLink="true">https://computermusic.jp/2026/11/soundtoys-little-alterboy/</guid>
-<pubDate>Mon, 23 Nov 2026 03:01:21 +0000</pubDate>
-<category>Computer Music Japan</category>
-<description>今、最も使用されるヴォーカル・プロセッサー、Sound toys「Little AlterBoy」が61％OFFとなっています。 Sound Toysではブラックフライデーセール2026を開催中です。合わせてチェックして... The post 【ブラックフライデーセール】今、最も使用されるヴォーカル・プロセッサー、Sound toys「Little AlterBoy」が61％OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 15 (音声プラグインのセール情報)</description>
 </item>
 </channel>
 </rss>
