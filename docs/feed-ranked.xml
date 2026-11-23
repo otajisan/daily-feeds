@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sun, 22 Nov 2026 22:05:33 +0000</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 00:16:52 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] Anthropicの研究者がAI「Claude」とともに数学の未解決問題「リーマン予想」を証明したと発表、1700万行の証明コードを専門家が検証中</title>
@@ -13,14 +13,6 @@
 <pubDate>Sun, 22 Nov 2026 02:00:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>AI開発企業Anthropicの研究者であるレベント・アルポゲ氏が2026年11月20日、AnthropicのAIモデルであるClaudeとともに数学の未解決問題であるリーマン予想を証明したと発表しました。アルポゲ氏は約1700万行に及ぶ証明コードを公開しており、マサチューセッツ工科大学(MIT)などの研究者による独立した検証で証明の正しさを確認する複数の検査に成功しています。リーマン予想には100万ドル(約1億5800万円)の懸賞金が設定されていますが、記事作成時点では今回の証明はまだ正式に認められておらず、今後も専門家による評価が必要となります。 続きを読む... — GIGAZINE / score: 95 (AIによるリーマン予想証明という歴史的快挙)</description>
-</item>
-<item>
-<title>[95] Anthropicの数学者、「Claude」と共同で「リーマン予想」を証明したと主張　Leanコミュニティが「正しい」と認定</title>
-<link>https://www.itmedia.co.jp/news/article/2611/22/2000003388/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/22/2000003388/</guid>
-<pubDate>Sat, 21 Nov 2026 23:42:43 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>米Anthropicに所属する数学者のレベント・アルポーゲ氏は11月20日（現地時間）、自身のWebサイトで声明を発表した。同社のAI「Claude」と共に、数学の未解決問題「リーマン予想」の証明を見つけたと考えているという。証明は証明支援系「Lean」で記述した形式証明として公開した。Leanの開発者や利用者のコミュニティは2... — はてなブックマーク テクノロジー / score: 95 (AIによるリーマン予想証明の主張と形式検証)</description>
 </item>
 <item>
 <title>[95] 「Ruby」に7件の脆弱性、修正版への更新を強く推奨。リモートコード実行の実証コードが存在／最高深刻度「Critical」。v4.0.10、v3.4.13、v3.3.14が公開</title>
@@ -69,14 +61,6 @@
 <pubDate>Sun, 22 Nov 2026 10:00:18 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>音楽コンテンツなどを販売する「タワーレコード」は、運営する通販サイトが不正アクセスを受け、顧客のメールアドレスや氏名などあわせておよそ1100万件の個人情報が流出したと発表しました。 「タワーレコ… — はてなブックマーク テクノロジー / score: 90 (大規模な個人情報流出インシデント)</description>
-</item>
-<item>
-<title>[90] Upload2Shell</title>
-<link>https://pwn.ai/upload2shell</link>
-<guid isPermaLink="true">https://pwn.ai/upload2shell</guid>
-<pubDate>Sat, 21 Nov 2026 23:53:55 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>A use-after-free in Ghostscript’s Type 1 font loader lets a crafted document cross Ghostscript’s -dSAFER sandbox, alter native path controls, and execute attacker-chosen commands as the rendering process. Ghostscript sits beneath print, email, upload, and preview workflows. Our ImageMagick resear... — はてなブックマーク テクノロジー / score: 90 (Ghostscriptの深刻な脆弱性とサンドボックス回避の指摘)</description>
 </item>
 <item>
 <title>[90] 「httpS://」だと暗号化されず平文で送信……「PHP」に約20年潜んでいた脆弱性が解決／問題はいたってシンプル、なんともはや……【やじうまの杜】</title>
@@ -271,6 +255,14 @@
 <description>多情仏心 @jiangminjp プレイド「KARTE」の情報漏洩2200社 サービス停止で20億円の赤字へ - 日本経済新聞 nikkei.com/article/DGXZQO… 不正アクセスによる個人情報を含む可能性のある情報等の漏えいに関するお詫びとお知らせ plaid.co.jp/news/20261116/ 2026-11-21 07:41:58 — はてなブックマーク テクノロジー / score: 85 (大規模な不正アクセスと情報漏洩の影響)</description>
 </item>
 <item>
+<title>[85] 証明が得られたあとに−−証明を理解するという仕事｜加藤文元</title>
+<link>https://note.com/katobungen/n/n2326bd68a80e</link>
+<guid isPermaLink="true">https://note.com/katobungen/n/n2326bd68a80e</guid>
+<pubDate>Sun, 22 Nov 2026 06:23:00 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>2026年11月20日、レヴェント・アルポゲ氏は、AIのClaudeとともにリーマン予想の証明を得たと発表しました。証明はLeanという証明支援系で形式化され、公開されたライブラリはおよそ1700万行に及びます。翌日には、Leanとその数学ライブラリMathlibのコミュニティが、命題の定式化と証明を検証し、正しさに確信をもつとい... — はてなブックマーク テクノロジー / score: 85 (Claudeによるリーマン予想証明の形式化と検証の話題)</description>
+</item>
+<item>
 <title>[85] 六花亭に不正アクセス クレカ情報不正利用とみられる被害確認 | NHKニュース</title>
 <link>https://news.web.nhk/newsweb/na/nd-20261122de79904</link>
 <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261122de79904</guid>
@@ -279,28 +271,12 @@
 <description>北海道帯広市に本社がある菓子メーカー「六花亭」のオンラインショップが不正アクセスを受け、およそ8000件のクレジットカード情報が流出した可能性がある問題で、会社は、カード情報の不正利用とみられる被害が… — はてなブックマーク テクノロジー / score: 85 (ECサイトにおける大規模なクレジット情報流出)</description>
 </item>
 <item>
-<title>[85] 回収対象のAnker製モバイルバッテリーで火災発生か　型番「A1257」の一部に使用中止を呼びかけ</title>
-<link>https://japan.cnet.com/article/35255262/</link>
-<guid isPermaLink="true">https://japan.cnet.com/article/35255262/</guid>
-<pubDate>Sat, 21 Nov 2026 22:17:35 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>消費者庁は11月20日、アンカー・ジャパンが回収中のモバイルバッテリー「Anker Power Bank（10000mAh、22.5W）」の本体と周辺が焼ける火災が、10月14日に東京都で起きたと発表した。火災の原因は調査中で、回収の理由となった不具合との関連は分かっていない。 — はてなブックマーク テクノロジー / score: 85 (モバイルバッテリーの火災事故と回収注意喚起)</description>
-</item>
-<item>
 <title>[85] Quoting Levent Alpöge</title>
 <link>https://simonwillison.net/2026/Nov/20/levent-alpoge/</link>
 <guid isPermaLink="true">https://simonwillison.net/2026/Nov/20/levent-alpoge/</guid>
 <pubDate>Fri, 20 Nov 2026 16:30:48 +0000</pubDate>
 <category>Simon Willison</category>
 <description>I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized Riemann Hypothesis, and I expect, with more time, the Extended Riemann Hypothesis too. Claude and I have also formalized the arguments without assumptions. It is natural to feel that this is an end, in my case a loss of a principal guiding light, but what I saw during the course of progress so amazed me that I believe it is one  — Simon Willison / score: 85 (Claudeを活用したリーマン予想の証明に関する大きな話題)</description>
-</item>
-<item>
-<title>[85] 丸井 EC顧客名など883万件漏えい</title>
-<link>https://news.yahoo.co.jp/pickup/6603344?source=rss</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6603344?source=rss</guid>
-<pubDate>Fri, 20 Nov 2026 13:31:51 +0000</pubDate>
-<category>Yahoo!ニュース IT</category>
-<description> — Yahoo!ニュース IT / score: 85 (大手EC関連の深刻な個人情報漏洩ニュース)</description>
 </item>
 <item>
 <title>[85] イギリス政府がAppleに暗号化データへのアクセスを求める秘密命令を出していたことを正式に認める</title>
@@ -639,6 +615,22 @@
 <description>November 9, 2026 — Claude Fable 5.2 and Mythos 5.2 arrive on Anthropic’s IPO roadshow day. How much thinking is worth paying for? — Latent Space / score: 78 (主要LLMの性能逆転とIPO動向)</description>
 </item>
 <item>
+<title>[75] 世界初の直径200mm単結晶ダイヤモンドウェハーは何を変えるのか、AIチップの99％をダイヤモンドにする構想とは？</title>
+<link>https://gigazine.net/news/20261123-diamond-foundrysingle-crystal-diamond/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261123-diamond-foundrysingle-crystal-diamond/</guid>
+<pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>人工ダイヤモンドメーカーのDiamond Foundryが、世界初となる直径200mmの単結晶ダイヤモンドウェハーの製造に成功しました。同社は銅を大幅に上回る熱伝導率を持つダイヤモンドを半導体に直接組み込むことでAIチップの発熱問題を解消し、将来的にはダイヤモンドそのものをトランジスタの材料として利用することを目指しています。 続きを読む... — GIGAZINE / score: 75 (世界初の200mmダイヤモンドウェハー開発とAIチップへの応用)</description>
+</item>
+<item>
+<title>[75] [アップデート]AWSアカウント作成がとんでもなく別物になったので動作の違いを見てみた[新しいAWSエクスペリエンス] | DevelopersIO</title>
+<link>https://dev.classmethod.jp/articles/new-aws-signup/</link>
+<guid isPermaLink="true">https://dev.classmethod.jp/articles/new-aws-signup/</guid>
+<pubDate>Sun, 22 Nov 2026 17:32:19 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>これまでのAWSアカウント作成と違いすぎるので気をつけて使いましょう。通常のAWSアカウントを作成するならadvanced featuresにしてください。 こんにちは、臼田です。 みなさん、AWS使ってますか？(挨拶 今回は新規にAWSアカウントを作成しようとすると、これまでと全く異なる状態となるためこの動作を紹介します。 こ... — はてなブックマーク テクノロジー / score: 75 (AWSアカウント作成プロセスの大きな仕様変更と解説)</description>
+</item>
+<item>
 <title>[75] アンソロピックがマイクロソフトに勝負をしかけた。新たなオフィスツールで“エクセル超え”なるか？</title>
 <link>https://www.gizmodo.jp/article/anthropic-goes-for-microsofts-crown-with-new-claude-powered-office-tools/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/anthropic-goes-for-microsofts-crown-with-new-claude-powered-office-tools/</guid>
@@ -719,14 +711,6 @@
 <description>米Microsoftは11月10日（現地時間）、「Visual Studio 2026」の長期サービスチャネル（LTSC）版「Visual Studio 2026 LTSC 18.11」を発表した。安定（Stable）チャネルの「Visual Studio 2026」v18.12とあわせてリリースされたもので、2028年11月14日までの2年間サポートされる。 — 窓の杜 / score: 75 (Visual Studio 2026 LTSC版のリリース)</description>
 </item>
 <item>
-<title>[75] 「Codexを用いてChatGPTの高速性を維持する方法」をOpenAIが解説、AIエージェントで工場システムを構築して自律的に改善作業を進める</title>
-<link>https://gigazine.net/news/20261120-openai-chatgpt-performance-factory/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261120-openai-chatgpt-performance-factory/</guid>
-<pubDate>Fri, 20 Nov 2026 08:09:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>OpenAIはChatGPTなどの自社製品の開発にCodexを活用しています。新たに「Codexを用いてChatGPTの高速性を維持する方法」という解説記事が公開されました。 続きを読む... — GIGAZINE / score: 75 (OpenAIによる開発効率化の解説記事)</description>
-</item>
-<item>
 <title>[75] Googleの世界モデル「Genie 4」が「Project Genie」で利用可能に、遊びながら世界を書き換え／「Google AI Ultra」向けに展開。「Gemini API」でも一般提供</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2158089.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2158089.html</guid>
@@ -805,6 +789,22 @@
 <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording. — OpenAI News / score: 75 (OpenAIのセキュリティプラグイン紹介)</description>
+</item>
+<item>
+<title>[75] AWS Lambda now supports GPU instances for Event Functions on Lambda Managed Instances</title>
+<link>https://aws.amazon.com/blogs/aws/aws-lambda-now-supports-gpu-instances-for-event-functions-on-lambda-managed-instances/</link>
+<guid isPermaLink="true">https://aws.amazon.com/blogs/aws/aws-lambda-now-supports-gpu-instances-for-event-functions-on-lambda-managed-instances/</guid>
+<pubDate>Wed, 18 Nov 2026 19:39:07 +0000</pubDate>
+<category>AWS News Blog</category>
+<description>AWS Lambda now supports GPU instances (G-series) for Event Functions running on Lambda Managed Instances, enabling serverless GPU workloads like machine learning inference, media processing, and rendering. Lambda handles all infrastructure tasks, including instance lifecycle, driver management, and auto scaling, while maximizing GPU utilization across concurrent requests with standard EC2 pricing plus a management fee — AWS News Blog / score: 75 (サーバーレスでのGPUワークロード実行が可能に)</description>
+</item>
+<item>
+<title>[75] マイクロソフト、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始</title>
+<link>https://www.publickey1.jp/blog/26/aiaimicrosoft_perception.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/aiaimicrosoft_perception.html</guid>
+<pubDate>Wed, 18 Nov 2026 16:00:37 +0000</pubDate>
+<category>Publickey</category>
+<description>マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、AIによるサイバー攻撃に対抗するためのAIエージェントによる新サービス「Microsoft Perception」の提供開始を発... — Publickey / score: 75 (マイクロソフトのAIセキュリティ新サービスの発表)</description>
 </item>
 </channel>
 </rss>
