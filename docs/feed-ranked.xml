@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Mon, 23 Nov 2026 22:05:38 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 00:15:34 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「GitLab」に緊急パッチ、リモートコード実行のおそれのある「Ruby2Shell」脆弱性に対処／v19.6.1/v19.5.8/v19.4.10が公開</title>
@@ -151,14 +151,6 @@
 <description>独The Document Foundationは11月16日（現地時間）、オープンソースのオフィスソフト「LibreOffice」の19件の脆弱性情報を公開した。いずれも「LibreOffice 26.2.7」および「LibreOffice 26.8.2」で修正済み。 — 窓の杜 / score: 90 (LibreOfficeの多数の脆弱性と修正アップデート)</description>
 </item>
 <item>
-<title>[90] Google Project Zero、脆弱性の開示期限を段階的に30日へ短縮／AIで発見・悪用が高速化、パッチ展開の猶予や大半の特例を廃止</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2156900.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2156900.html</guid>
-<pubDate>Tue, 17 Nov 2026 04:33:23 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Googleの脆弱性調査チーム「Project Zero」は11月13日（現地時間）、脆弱性の情報開示ポリシーを改定すると発表した。同チームは2021年以降、「90＋30」と呼ばれる開示ポリシーを採用してきた。これはベンダーに最大90日の修正期間を与え、さらにパッチを展開するための“ソークタイム”として30日を追加するというものだ。しかし、脆弱性の発見やエクスプロイト（攻撃コード）の作成にAIが活用されるようになり、状況が大きく変わったとして、「Full X」と呼ばれる開示ポリシーが新たに採用されることになった。 — 窓の杜 / score: 90 (Google Project Zeroの脆弱性開示期限短縮)</description>
-</item>
-<item>
 <title>[90] Google、Microsoft、AWS、CloudflareがAI侵入テストツールARTEXの悪用を報告、FBIも注意喚起</title>
 <link>https://gihyo.jp/article/2026/10/artex-ai-agent-abuse?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/10/artex-ai-agent-abuse?utm_source=feed</guid>
@@ -247,12 +239,28 @@
 <description>Today, we’re introducing Gemini 4 Neon — Gemini (Google Blog) / score: 88 (Googleの新型モデルGemini 4 Neonの発表)</description>
 </item>
 <item>
+<title>[85] パッチ適用サイクルを30日から10分に短縮できるか？ Taniumが「自律的な修復」の必要性を強調</title>
+<link>https://ascii.jp/elem/000/004/453/4453900/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/453/4453900/?rss</guid>
+<pubDate>Mon, 23 Nov 2026 23:30:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>「かつては『パッチサイクルは30日』と言えば、誰もがうなずいた。だが、今では『パッチサイクルは1日』になり、やがて『1時間』『10分』単位まで短縮されるだろう」。Tanium（タニウム）共同創業者兼CEOのオリオン・ヒンダウィ氏は、11月16～19日に米ラスベガスで開催した年次イベント「Converge 2026」の基調講演において、こう断言した。 — ASCII.jp / score: 85 (パッチ適用サイクルの短縮と自律修復)</description>
+</item>
+<item>
 <title>[85] Ladybird's first alpha release</title>
 <link>https://simonwillison.net/2026/Nov/23/ladybird/</link>
 <guid isPermaLink="true">https://simonwillison.net/2026/Nov/23/ladybird/</guid>
 <pubDate>Mon, 23 Nov 2026 21:46:35 +0000</pubDate>
 <category>Simon Willison</category>
 <description>Ladybird is an astonishingly ambitious project: a new browser, in 2026, with its own implementation of most of the key components - HTML parsing, CSS engine, layout, JavaScript, even WebAssembly. It still uses a few external components - things like HarfBuzz for text shaping, Skia for 2D graphics, ffmpeg for video, and SQLite for the things you do with SQLite. Everything else is part of Ladybird, or code brought in from Ladybird's even more ambitious predecessor project SerenityOS . This morning — Simon Willison / score: 85 (独自エンジンを持つ新世代WebブラウザLadybirdの初アルファリリース)</description>
+</item>
+<item>
+<title>[85] OpenAI and Cisco introduce Shirudo</title>
+<link>https://openai.com/index/introducing-shirudo</link>
+<guid isPermaLink="true">https://openai.com/index/introducing-shirudo</guid>
+<pubDate>Mon, 23 Nov 2026 21:20:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches. — OpenAI News / score: 85 (OpenAIとCiscoによるLinux用オープンソースランタイム発表)</description>
 </item>
 <item>
 <title>[85] 帰ってきた革ジャン。エヌビディアがジェンスン・フアン氏をCEOに復帰させたと発表</title>
@@ -293,14 +301,6 @@
 <pubDate>Mon, 23 Nov 2026 14:09:29 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>NVIDIA (NASDAQ: NVDA) today announced that effective immediately, Jensen Huang has been reinstated as President and Chief Executive Officer and as a member of the Board. The Board of Directors voted unanimously to reinstate Mr. Huang following a series of discussions and meetings with Mr. Huang, ... — はてなブックマーク テクノロジー / score: 85 (NVIDIAのCEO復帰という重大な業界ニュース)</description>
-</item>
-<item>
-<title>[85] NVIDIAグラボの「SSD無限酷使」現象、修正パッチを適用しても直らないとの報告。ちょっと改善するも、まだ書き込みまくる - AUTOMATON</title>
-<link>https://automaton-media.com/articles/newsjp/20261123-480470/</link>
-<guid isPermaLink="true">https://automaton-media.com/articles/newsjp/20261123-480470/</guid>
-<pubDate>Mon, 23 Nov 2026 06:49:40 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>NVIDIAグラボの「SSD無限酷使」現象、修正パッチを適用しても直らないとの報告。ちょっと改善するも、まだ書き込みまくる 「GeForce Game Ready Driver」のホットフィックス621.35配信後も、PCを操作していない間にもSSDへの大量の書き込みがおこなわれる不具合が継続しているようだ。 NVIDIAは11月21日、GPU向けドライ... — はてなブックマーク テクノロジー / score: 85 (NVIDIA製GPUドライバに起因する深刻なハードウェア不具合)</description>
 </item>
 <item>
 <title>[85] Quoting Levent Alpöge</title>
@@ -479,14 +479,6 @@
 <description>Amazon Web Services（AWS）は2026年11月11日、ローカルマシン上などでAWSアプリケーションを構築・テストできるエミュレーター「AWS Emulator」の一般提供を開始した。 — gihyo.jp / score: 85 (AWS Emulatorの一般提供開始に関する重要ニュース)</description>
 </item>
 <item>
-<title>[85] aws-emulator</title>
-<link>https://simonwillison.net/2026/Nov/11/aws-emulator/</link>
-<guid isPermaLink="true">https://simonwillison.net/2026/Nov/11/aws-emulator/</guid>
-<pubDate>Wed, 11 Nov 2026 21:18:30 +0000</pubDate>
-<category>Simon Willison</category>
-<description>aws-emulator Finally, an official emulator from AWS to run tests against a local clone of their many different services without having to provision a paid API key to do so. It's written in Rust by a huge swarm of agents - 29,684 commits in the first three weeks of the project. Swaminathan (Swami) Sivasubramanian wrote about how it came to be in a guest post on Werner Vogels' blog. It currently requires Docker to run on macOS or Windows. I'm hoping they fix that in the future - it would be great  — Simon Willison / score: 85 (AWS公式のローカルテスト用エミュレータ登場)</description>
-</item>
-<item>
 <title>[85] Anthropic、Claude Fable 5.2とMythos 5.2を発表  ——推論や画像理解を改善、長時間のエージェント作業も強化</title>
 <link>https://gihyo.jp/article/2026/11/claude-fable-and-mythos-5.2?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/11/claude-fable-and-mythos-5.2?utm_source=feed</guid>
@@ -509,6 +501,14 @@
 <pubDate>Mon, 23 Nov 2026 21:45:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Microsoftは11月18日（現地時間）、「Windows 11 バージョン 26H2」の展開状況を更新した。同日より、「バージョン 26H2」の自動配信を段階的に拡大していくという。 — 窓の杜 / score: 80 (Windows 11の新バージョンの自動配信拡大に関するニュース)</description>
+</item>
+<item>
+<title>[80] AWS WAF announces automated discovery and protection for LLM, MCP, and A2A endpoints using Amazon Bedrock Guardrails</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/waf-ai-endpoint-discovery-protection/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/waf-ai-endpoint-discovery-protection/</guid>
+<pubDate>Mon, 23 Nov 2026 18:47:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Automated AI endpoint discovery and protection are now generally available, enabling you to discover language model (LLM), Model Context Protocol (MCP), and Agent2Agent (A2A) endpoints behind Amazon API Gateway, Application Load Balancers, and Amazon CloudFront across your AWS Organization and protect them using AWS WAF. Discovery is available through the new API Gateway API Portal, which recognizes the AI endpoints among the APIs it discovers automatically from traffic logs and service configur — AWS What's New / score: 80 (AI・LLMエンドポイントの自動保護機能の一般提供開始)</description>
 </item>
 <item>
 <title>[80] 「Windows Server 2028」で「WSUS」や「SMB 1.0」、「VBScript」などが削除へ／「Windows PowerShell 5.1」「WDS」は非推奨に、レガシーBIOSでの起動も不可</title>
@@ -599,6 +599,22 @@
 <description>November 9, 2026 — Claude Fable 5.2 and Mythos 5.2 arrive on Anthropic’s IPO roadshow day. How much thinking is worth paying for? — Latent Space / score: 78 (主要LLMの性能逆転とIPO動向)</description>
 </item>
 <item>
+<title>[75] GLM-5.4: Toward Generalized Coding with Our First Loop Transformer</title>
+<link>https://simonwillison.net/2026/Nov/23/glm-54/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Nov/23/glm-54/</guid>
+<pubDate>Mon, 23 Nov 2026 23:40:49 +0000</pubDate>
+<category>Simon Willison</category>
+<description>GLM-5.4: Toward Generalized Coding with Our First Loop Transformer GLM 5.4 is now available from Chinese AI lab Z.ai. It's their first model to use a looped transformer architecture, which they describe like this: In a standard Transformer, each layer runs once per forward pass. In a Loop Transformer, a group of weight-shared layers runs for multiple iterations, refining the hidden states from the previous pass. This gives us a deeper network without increasing the parameter count. This is the s — Simon Willison / score: 75 (ループ型トランスフォーマーを採用した新モデルの登場)</description>
+</item>
+<item>
+<title>[75] 日本企業へのサイバー攻撃数、10月は1社あたり前年比8割増／セキュリティ運用監視の外部委託が急拡大／「AIモード」検索が1年で68倍に、ほか</title>
+<link>https://ascii.jp/elem/000/004/453/4453830/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/453/4453830/?rss</guid>
+<pubDate>Mon, 23 Nov 2026 23:00:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>今回（2026年11月14日～11月20日）は、急伸する国内のSIEM運用監視サービス市場、日本企業を狙う攻撃が拡大した10月のサイバー攻撃トレンド、Google検索数に見られる「Google AIモード」とAI検索専用サービスの利用動向、職場における「名もなき仕事」についてのデータを紹介します。 — ASCII.jp / score: 75 (国内のサイバー攻撃増加とAI検索動向)</description>
+</item>
+<item>
 <title>[75] なぜ 11 月に日本のサイバー事故は「爆発」したのか — 605件を数えたら「日本が狙われている」だけではなかった</title>
 <link>https://qiita.com/songchong/items/073f202bb0ca65611b30?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
 <guid isPermaLink="true">https://qiita.com/songchong/items/073f202bb0ca65611b30?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
@@ -639,12 +655,12 @@
 <description>Amazon Inspector has expanded its vulnerability management capabilities with runtime reachability analysis for findings originating from Amazon Elastic Container Registry (Amazon ECR) and Amazon Elastic Compute Cloud (Amazon EC2) instances. Previously, Inspector reported every vulnerability found in a resource, including packages that were never used by applications. Security teams had to manually assess which vulnerabilities actually posed risk in their deployed environments. Now, Inspector aut — AWS What's New / score: 75 (Amazon Inspectorの脆弱性管理機能強化)</description>
 </item>
 <item>
-<title>[75] 「Microsoft To Do」、2027年6月にアプリ提供終了　法人向けは「Planner」へ移行、個人向けは代替なし</title>
-<link>https://www.itmedia.co.jp/news/article/2611/23/2000003395/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/23/2000003395/</guid>
-<pubDate>Mon, 23 Nov 2026 03:27:25 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>一方、「Microsoft 365 Personal」や「Microsoft 365 Family」を含む個人アカウントでは、To Doアプリが終了してもPlannerは使えない。Microsoftはこうしたユーザーに、残したいタスクやリストを決めて、ほかのタスク管理アプリを選ぶよう勧めている。 To Doアプリにあるタスクやリストは、Plannerに自動では移らない。... — はてなブックマーク テクノロジー / score: 75 (Microsoft To Doの提供終了と影響に関する重要ニュース。)</description>
+<title>[75] API security with WAF</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/api-security-with-waf/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/api-security-with-waf/</guid>
+<pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Automated API discovery and protection are now generally available, enabling you to discover every API behind Amazon API Gateway, Application Load Balancers, and Amazon CloudFront across your AWS Organization and protect them using AWS WAF. Discovery is available through the new API Gateway API Portal, which identifies the APIs automatically from traffic logs and service configuration records, with no agents to deploy or logs to forward. The API Portal classifies the APIs it finds, identifies zo — AWS What's New / score: 75 (AWS全体でのAPIセキュリティ自動発見・保護機能の一般提供)</description>
 </item>
 <item>
 <title>[75] 世界初の直径200mm単結晶ダイヤモンドウェハーは何を変えるのか、AIチップの99％をダイヤモンドにする構想とは？</title>
@@ -789,22 +805,6 @@
 <pubDate>Wed, 18 Nov 2026 07:45:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米国太平洋時間2027年1月12日（日本時間13日）、「Windows Server 2016」の延長サポートが終了する。米Microsoftが11月13日（現地時間）、「Windows メッセージ センター」で改めて注意を呼び掛けている。 — 窓の杜 / score: 75 (Windows Server 2016のサポート終了注意喚起)</description>
-</item>
-<item>
-<title>[75] 「Windows Server 2028」のパブリックプレビューが開始 ～Microsoftの次期サーバーOS／既定で堅牢化された構成、NVMe対応の強化や「Intune」による管理も</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2157329.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2157329.html</guid>
-<pubDate>Wed, 18 Nov 2026 05:40:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Microsoftは11月17日（現地時間）、「Windows Server 2028」を発表した。同日よりパブリックプレビューとして公開されており、「Windows Server Insider Program」で新機能を試せる。 — 窓の杜 / score: 75 (次期Windows Serverのプレビュー開始でインフラ関連の注目トピック)</description>
-</item>
-<item>
-<title>[75] OpenAI、「GPT-6.2 Astra」「GPT-6.2 Sol」を発表 ～少ない出力トークンでより高い成果／上位モデルのAPI料金は2割引き、「Pro 200」でも「Ultrafast」</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2157295.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2157295.html</guid>
-<pubDate>Wed, 18 Nov 2026 00:28:42 +0000</pubDate>
-<category>窓の杜</category>
-<description>米OpenAIは11月17日（現地時間）、大規模言語モデル「GPT-6.2 Astra」と「GPT-6.2 Sol」を発表した。「GPT-6.2 Astra」はもっとも難しいプロジェクト向けの最上位（フロンティア）モデル、「GPT-6.2 Sol」は日常業務向けの効率的で汎用的なモデル。いずれも、より少ない出力トークンで難しいタスクの成果を高めており、利用上限の範囲内でより多くの作業をこなせるという。 — 窓の杜 / score: 75 (OpenAIの新フラグシップモデル発表)</description>
 </item>
 </channel>
 </rss>
