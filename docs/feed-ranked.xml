@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Tue, 24 Nov 2026 14:06:37 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 16:07:10 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「GitLab」に緊急パッチ、リモートコード実行のおそれのある「Ruby2Shell」脆弱性に対処／v19.6.1/v19.5.8/v19.4.10が公開</title>
@@ -74,9 +74,9 @@
 <title>[90] 「Google Chrome 158」に深刻度最高の脆弱性、セキュリティアップデートが公開／サンドボックス外での任意コード実行につながるおそれ</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2158615.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2158615.html</guid>
-<pubDate>Tue, 24 Nov 2026 02:56:00 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>「Google Chrome 158」に深刻度最高の脆弱性、セキュリティアップデートが公開／サンドボックス外での任意コード実行につながるおそれ — はてなブックマーク テクノロジー / score: 90 (Chromeの深刻な脆弱性修正アップデート)</description>
+<pubDate>Tue, 24 Nov 2026 02:03:25 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Googleは11月23日（現地時間）、デスクトップ向け「Google Chrome」の安定（Stable）チャネルをアップデートした。Windows/Mac環境にはv158.0.8127.88/.89、Linux環境にはv158.0.8127.88が、今後数日から数週間のうちに展開される。 — 窓の杜 / score: 90 (Chromeの深刻な脆弱性修正アップデート)</description>
 </item>
 <item>
 <title>[90] PostgreSQL 19正式リリース。ノンブロッキングなREPACKやI/Oワーカーのオートスケールなど新機能</title>
@@ -623,6 +623,14 @@
 <description>AWS Emulator is a free, open-source local emulator in Rust that lets developers test applications against nearly every AWS service on their own machine using the same CLI and SDK commands, with fidelity measured against real AWS behavior. — AWS News Blog / score: 80 (AWSのローカルエミュレータツールリリース)</description>
 </item>
 <item>
+<title>[75] AWS Weekly Roundup: Local Zone in Bogotá, 30-minute Lambda timeout, and more (November 24, 2026)</title>
+<link>https://aws.amazon.com/blogs/aws/aws-weekly-roundup-local-zone-in-bogota-30-minute-lambda-timeout-and-more-november-24-2026/</link>
+<guid isPermaLink="true">https://aws.amazon.com/blogs/aws/aws-weekly-roundup-local-zone-in-bogota-30-minute-lambda-timeout-and-more-november-24-2026/</guid>
+<pubDate>Tue, 24 Nov 2026 15:39:59 +0000</pubDate>
+<category>AWS News Blog</category>
+<description>Some limits shape architecture more than any feature does. AWS Lambda launched in 2014 with a 60-second timeout, moved to 5 minutes in 2015 and to 15 minutes in 2018, and then stayed there for eight years. Last week the limit doubled, and in the same week Lambda learned to run on GPUs and gave […] — AWS News Blog / score: 75 (AWS Lambdaのタイムアウト延長など重要アプデ)</description>
+</item>
+<item>
 <title>[75] 電力、水、騒音。データセンターを迎えるアメリカの街に起きている異変</title>
 <link>https://www.gizmodo.jp/article/2611-us-data-center-construction-ban/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/2611-us-data-center-construction-ban/</guid>
@@ -797,14 +805,6 @@
 <pubDate>Thu, 19 Nov 2026 22:00:24 +0000</pubDate>
 <category>Spring Boot リリース</category>
 <description>⭐ New Features Refine forwarded header support #52800 Deprecate Apache Pulsar support #52752 🐞 Bug Fixes Properties migrator does not migrate some properties renamed in 4.0 #52809 Reactive web servers no longer use forwarded headers on a cloud platform after #52800 #52806 Class loading fails with 'Zip file closed' can still be thrown under concurrent access #52803 Auto-configured PulsarTransactionManager is not customized by TransactionManagerCustomizers #52783 InspectedContent records the wrong — Spring Boot リリース / score: 75 (人気フレームワークSpring Boot v4.2.0のリリース)</description>
-</item>
-<item>
-<title>[75] Introducing Tool Retrieval in the Gemini API</title>
-<link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/</link>
-<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/</guid>
-<pubDate>Thu, 19 Nov 2026 18:00:00 +0000</pubDate>
-<category>Google AI Blog</category>
-<description>Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API. — Google AI Blog / score: 75 (Gemini APIの新機能プレビュー公開)</description>
 </item>
 </channel>
 </rss>
