@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Tue, 24 Nov 2026 08:08:33 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 10:06:23 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「GitLab」に緊急パッチ、リモートコード実行のおそれのある「Ruby2Shell」脆弱性に対処／v19.6.1/v19.5.8/v19.4.10が公開</title>
@@ -247,6 +247,22 @@
 <description>Today, we’re introducing Gemini 4 Neon — Gemini (Google Blog) / score: 88 (Googleの新型モデルGemini 4 Neonの発表)</description>
 </item>
 <item>
+<title>[85] Leanで検証を通過。リーマン予想は「解けた」と言っていいのか？</title>
+<link>https://www.gizmodo.jp/article/2611-riemann-hypothesis-lean-claude-proof/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-riemann-hypothesis-lean-claude-proof/</guid>
+<pubDate>Tue, 24 Nov 2026 09:45:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>11月21日、Lean FROとMathlib Initiativeが、数学者Levent Alpöge氏がClaudeと見つけたと発表したリーマン予想の証明について、命題も証明も正しいとする共同声明を出しました。リーマン予想は数学界のラス… — ギズモード・ジャパン / score: 85 (AIと定理証明支援系を用いたリーマン予想の検証)</description>
+</item>
+<item>
+<title>[85] 京王グループ 約1063万件漏えいか</title>
+<link>https://news.yahoo.co.jp/pickup/6603825?source=rss</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6603825?source=rss</guid>
+<pubDate>Tue, 24 Nov 2026 09:13:58 +0000</pubDate>
+<category>Yahoo!ニュース IT</category>
+<description> — Yahoo!ニュース IT / score: 85 (大規模な個人情報流出の可能性に関する報道)</description>
+</item>
+<item>
 <title>[85] ヴェレダ クレカ4万件超漏えいか</title>
 <link>https://news.yahoo.co.jp/pickup/6603807?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6603807?source=rss</guid>
@@ -263,22 +279,6 @@
 <description>OpenAIがネットワーク機器大手のCiscoと共同で、Linuxシステムを稼働させたままサイバー攻撃から保護できるオープンソースのソフトウェア「Shirudo」を発表しました。Shirudoを使うことで、脆弱(ぜいじゃく)性が発見されてから修正パッチが適用されるまでの間もシステムを保護することが可能になるとのことです。 続きを読む... — GIGAZINE / score: 85 (ゼロダウンタイム脆弱性防御ツールの公開)</description>
 </item>
 <item>
-<title>[85] OpenAI and Cisco introduce Shirudo | OpenAI</title>
-<link>https://openai.com/index/introducing-shirudo/</link>
-<guid isPermaLink="true">https://openai.com/index/introducing-shirudo/</guid>
-<pubDate>Mon, 23 Nov 2026 23:59:26 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>OpenAI and Cisco are launching Shirudo, an open-source runtime that helps teams protect Linux systems while they roll out patches. In a controlled test⁠(opens in a new window), a Codex-generated shield blocked a Java4Shell exploit attempt against a running Elasticsearch service without requiring ... — はてなブックマーク テクノロジー / score: 85 (OpenAIとCiscoによるLinux用オープンソースランタイム発表)</description>
-</item>
-<item>
-<title>[85] CrowdStrike、Zscalerを約439億ドルで買収へ　狙いはAIエージェントの安全確保</title>
-<link>https://www.itmedia.co.jp/news/article/2611/24/2000003398/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/24/2000003398/</guid>
-<pubDate>Mon, 23 Nov 2026 22:50:58 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>米CrowdStrikeは11月23日（現地時間）、米Zscalerを買収することで最終合意したと発表した。買収は全額株式交換で行い、Zscalerの企業価値を約439億ドル（約7兆円）としている。両社の取締役会は全会一致で承認した。取引完了はCrowdStrikeの2028会計年度（2027年2月～2028年1月）の後半になる見込み。 CrowdStrikeは、... — はてなブックマーク テクノロジー / score: 85 (CrowdStrikeによるZscalerの大型買収)</description>
-</item>
-<item>
 <title>[85] Ladybird's first alpha release</title>
 <link>https://simonwillison.net/2026/Nov/23/ladybird/</link>
 <guid isPermaLink="true">https://simonwillison.net/2026/Nov/23/ladybird/</guid>
@@ -287,12 +287,12 @@
 <description>Ladybird is an astonishingly ambitious project: a new browser, in 2026, with its own implementation of most of the key components - HTML parsing, CSS engine, layout, JavaScript, even WebAssembly. It still uses a few external components - things like HarfBuzz for text shaping, Skia for 2D graphics, ffmpeg for video, and SQLite for the things you do with SQLite. Everything else is part of Ladybird, or code brought in from Ladybird's even more ambitious predecessor project SerenityOS . This morning — Simon Willison / score: 85 (独自エンジンを持つ新世代WebブラウザLadybirdの初アルファリリース)</description>
 </item>
 <item>
-<title>[85] Introducing Claude Ship | Claude by Anthropic</title>
-<link>https://claude.com/resources/articles/introducing-claude-ship</link>
-<guid isPermaLink="true">https://claude.com/resources/articles/introducing-claude-ship</guid>
-<pubDate>Mon, 23 Nov 2026 21:17:44 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Open a pull request and get back to building. Claude can now review pull requests, fix them, and approve the ones that a team's policy allows. Anyone who has opened a pull request knows how this goes. They start on the next thing, and then the review comes back. So they stop, dig back into the ol... — はてなブックマーク テクノロジー / score: 85 (ClaudeによるPR自動レビュー・修正機能の発表)</description>
+<title>[85] OpenAI and Cisco introduce Shirudo</title>
+<link>https://openai.com/index/introducing-shirudo</link>
+<guid isPermaLink="true">https://openai.com/index/introducing-shirudo</guid>
+<pubDate>Mon, 23 Nov 2026 21:20:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches. — OpenAI News / score: 85 (OpenAIとCiscoによるLinux用オープンソースランタイム発表)</description>
 </item>
 <item>
 <title>[85] NVIDIAのジェンスン・フアンがCEOに復帰</title>
@@ -599,6 +599,22 @@
 <description>AWS Emulator is a free, open-source local emulator in Rust that lets developers test applications against nearly every AWS service on their own machine using the same CLI and SDK commands, with fidelity measured against real AWS behavior. — AWS News Blog / score: 80 (AWSのローカルエミュレータツールリリース)</description>
 </item>
 <item>
+<title>[75] Cognition、目標を受けて複数のDevinを指揮する「Devin Bots」を国内発表　日本のエンタープライズ売上は前年比約9倍、年末に50社超へ</title>
+<link>https://codezine.jp/article/detail/30466</link>
+<guid isPermaLink="true">https://codezine.jp/article/detail/30466</guid>
+<pubDate>Tue, 24 Nov 2026 09:30:00 +0000</pubDate>
+<category>CodeZine</category>
+<description>Cognition AI Japanは11月24日、2026年度第2回の事業戦略説明会を開催し、AIソフトウェアエンジニア「Devin」の新機能「Devin Bots」を国内で発表した。目標を受け取ったBotが作業を分解し、複数のDevinを並列に指揮して開発を進める。国内のエンタープライズライセンス売上が前年比約9倍に伸びたことも明らかにした。 — CodeZine / score: 75 (Devinの新機能発表と国内市場の動向)</description>
+</item>
+<item>
+<title>[75] 月に3度の障害……揺らぐドコモの信頼　通信品質が安定しない理由は？</title>
+<link>https://www.itmedia.co.jp/news/article/2611/24/2000003405/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/24/2000003405/</guid>
+<pubDate>Tue, 24 Nov 2026 06:48:05 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>NTTドコモへの信頼が揺らぎつつある。11月5日、11日、16日と3回に渡って通信障害を発生させ、17日には藤井比早之総務相が「国民生活の重要なインフラとなっている通信サービスにおいて、短期間で3度の障害は大変遺憾だ」と原因究明と再発防止を求めた。 3度の通信障害は、いずれも「5G SA」で起きた。5G SAとは「5G Stan... — はてなブックマーク テクノロジー / score: 75 (ドコモ5G SAで相次ぐ通信障害の影響と原因究明)</description>
+</item>
+<item>
 <title>[75] 独自開発のブラウザエンジンを搭載した独立系ウェブブラウザ「Ladybird」のアルファ版が登場</title>
 <link>https://gigazine.net/news/20261124-ladybird-now-alpha/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261124-ladybird-now-alpha/</guid>
@@ -621,14 +637,6 @@
 <pubDate>Tue, 24 Nov 2026 03:20:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>アメリカに拠点を置くAI開発企業のThinking Machines LabがAIモデル「Inkling 2 Mini」を公開しました。ベンチマークテストではQwen3.8 27Bを上回っています。 続きを読む... — GIGAZINE / score: 75 (高性能な新型オープンAIモデルの登場)</description>
-</item>
-<item>
-<title>[75] 長大なリーマン予想のLean証明、GitHubでみんなが整理中。ファイル数を68%も減らせた！</title>
-<link>https://www.gizmodo.jp/article/2611-rohanarun_alpoge_rh_replay/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-rohanarun_alpoge_rh_replay/</guid>
-<pubDate>Tue, 24 Nov 2026 01:45:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>Anthropic所属の数学者Levent Alpöge氏がClaudeと数学界のラスボス「リーマン予想」の証明を見つけたと発表してから数日。本当にリーマン予想は証明されたのか？提出された証明は正しいのか？ そういったことを検証する試みがさ… — ギズモード・ジャパン / score: 75 (リーマン予想のLean証明とGitHub検証)</description>
 </item>
 <item>
 <title>[75] Anthropic、プルリクエストをAIが処理する新機能「Claude Ship」を発表</title>
@@ -797,14 +805,6 @@
 <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording. — OpenAI News / score: 75 (OpenAIのセキュリティプラグイン紹介)</description>
-</item>
-<item>
-<title>[75] AWS Lambda now supports GPU instances for Event Functions on Lambda Managed Instances</title>
-<link>https://aws.amazon.com/blogs/aws/aws-lambda-now-supports-gpu-instances-for-event-functions-on-lambda-managed-instances/</link>
-<guid isPermaLink="true">https://aws.amazon.com/blogs/aws/aws-lambda-now-supports-gpu-instances-for-event-functions-on-lambda-managed-instances/</guid>
-<pubDate>Wed, 18 Nov 2026 19:39:07 +0000</pubDate>
-<category>AWS News Blog</category>
-<description>AWS Lambda now supports GPU instances (G-series) for Event Functions running on Lambda Managed Instances, enabling serverless GPU workloads like machine learning inference, media processing, and rendering. Lambda handles all infrastructure tasks, including instance lifecycle, driver management, and auto scaling, while maximizing GPU utilization across concurrent requests with standard EC2 pricing plus a management fee — AWS News Blog / score: 75 (サーバーレスでのGPUワークロード実行が可能に)</description>
 </item>
 </channel>
 </rss>
