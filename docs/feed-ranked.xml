@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Tue, 24 Nov 2026 04:08:03 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 06:10:48 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「GitLab」に緊急パッチ、リモートコード実行のおそれのある「Ruby2Shell」脆弱性に対処／v19.6.1/v19.5.8/v19.4.10が公開</title>
@@ -45,6 +45,14 @@
 <pubDate>Tue, 17 Nov 2026 17:45:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API. — OpenAI News / score: 95 (主要なAIモデルのメジャーリリースと機能強化)</description>
+</item>
+<item>
+<title>[90] 画像アップロードだけでサーバー乗っ取り？ 「Ghostscript」の脆弱性「Upload2Shell」／「WordPress」「Roundcube」などで攻撃成立、対策版への更新を</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2158558.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2158558.html</guid>
+<pubDate>Tue, 24 Nov 2026 05:31:48 +0000</pubDate>
+<category>窓の杜</category>
+<description>PostScript/PDFインタープリター「Ghostscript」に潜んでいた脆弱性「Upload2Shell」（CVE-2026-125396）の詳細が、11月21日（米国時間）に公開された。深刻度は「CVSS 4.0」の基本値で「8.5」（High）と評価されている。 — 窓の杜 / score: 90 (Ghostscriptのサーバー乗っ取り脆弱性)</description>
 </item>
 <item>
 <title>[90] Google Chromeに深刻度”重大”の脆弱性　最新版で修正</title>
@@ -247,20 +255,20 @@
 <description>Today, we’re introducing Gemini 4 Neon — Gemini (Google Blog) / score: 88 (Googleの新型モデルGemini 4 Neonの発表)</description>
 </item>
 <item>
+<title>[85] 化粧品「ヴェレダ」、約20万件の顧客情報漏えいか　約4.6万件のクレカ情報も</title>
+<link>https://ascii.jp/elem/000/004/454/4454136/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/454/4454136/?rss</guid>
+<pubDate>Tue, 24 Nov 2026 04:40:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>ヴェレダは11月24日、公式オンラインショップへの不正アクセスにより顧客情報19万8792件とクレジットカード情報4万5689件が漏えいした可能性があると発表した。カード情報にはセキュリティコードも含まれる。 — ASCII.jp / score: 85 (ECサイトからの大規模な顧客・クレカ情報漏えい)</description>
+</item>
+<item>
 <title>[85] OpenAIがシステムを停止せずに脆弱性を悪用した攻撃を防ぐ「Shirudo」を発表</title>
 <link>https://gigazine.net/news/20261124-openai-shirudo/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261124-openai-shirudo/</guid>
 <pubDate>Tue, 24 Nov 2026 02:50:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>OpenAIがネットワーク機器大手のCiscoと共同で、Linuxシステムを稼働させたままサイバー攻撃から保護できるオープンソースのソフトウェア「Shirudo」を発表しました。Shirudoを使うことで、脆弱(ぜいじゃく)性が発見されてから修正パッチが適用されるまでの間もシステムを保護することが可能になるとのことです。 続きを読む... — GIGAZINE / score: 85 (ゼロダウンタイム脆弱性防御ツールの公開)</description>
-</item>
-<item>
-<title>[85] Anthropic、コードの承認までAIにやらせる「Claude Ship」発表　もはや人間は何をするのか</title>
-<link>https://ascii.jp/elem/000/004/454/4454017/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/454/4454017/?rss</guid>
-<pubDate>Tue, 24 Nov 2026 02:10:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>Anthropicは11月23日、コードのレビューや修正、チームのルールに沿った承認をする「Claude Ship」のベータ提供を発表した。 — ASCII.jp / score: 85 (AIによるコード承認機能の発表で重要。)</description>
 </item>
 <item>
 <title>[85] OpenAI and Cisco introduce Shirudo | OpenAI</title>
@@ -271,12 +279,12 @@
 <description>OpenAI and Cisco are launching Shirudo, an open-source runtime that helps teams protect Linux systems while they roll out patches. In a controlled test⁠(opens in a new window), a Codex-generated shield blocked a Java4Shell exploit attempt against a running Elasticsearch service without requiring ... — はてなブックマーク テクノロジー / score: 85 (OpenAIとCiscoによるLinux用オープンソースランタイム発表)</description>
 </item>
 <item>
-<title>[85] NVIDIA、フアン氏のCEO復帰を発表　トランプ大統領「私がまとめた」と取締役会への働きかけ認める</title>
-<link>https://www.itmedia.co.jp/news/article/2611/24/2000003397/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/24/2000003397/</guid>
-<pubDate>Mon, 23 Nov 2026 21:53:40 +0000</pubDate>
+<title>[85] CrowdStrike、Zscalerを約439億ドルで買収へ　狙いはAIエージェントの安全確保</title>
+<link>https://www.itmedia.co.jp/news/article/2611/24/2000003398/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/24/2000003398/</guid>
+<pubDate>Mon, 23 Nov 2026 22:50:58 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>米NVIDIAは11月23日（現地時間）、ジェンスン・フアン氏が同日付で社長兼CEOと取締役に復帰したと発表した。フアン氏は、中国の情報機関との関係が疑われる実業家との交際が報じられたことを受けて11月12日に退任しており、2週間足らずでの復帰となる。疑惑をめぐる取締役会の独立調査はまだ結論が出ていない。 発表によ... — はてなブックマーク テクノロジー / score: 85 (大手AI企業のCEOの短期間での復帰と政治的介入の報道)</description>
+<description>米CrowdStrikeは11月23日（現地時間）、米Zscalerを買収することで最終合意したと発表した。買収は全額株式交換で行い、Zscalerの企業価値を約439億ドル（約7兆円）としている。両社の取締役会は全会一致で承認した。取引完了はCrowdStrikeの2028会計年度（2027年2月～2028年1月）の後半になる見込み。 CrowdStrikeは、... — はてなブックマーク テクノロジー / score: 85 (CrowdStrikeによるZscalerの大型買収)</description>
 </item>
 <item>
 <title>[85] Ladybird's first alpha release</title>
@@ -287,7 +295,7 @@
 <description>Ladybird is an astonishingly ambitious project: a new browser, in 2026, with its own implementation of most of the key components - HTML parsing, CSS engine, layout, JavaScript, even WebAssembly. It still uses a few external components - things like HarfBuzz for text shaping, Skia for 2D graphics, ffmpeg for video, and SQLite for the things you do with SQLite. Everything else is part of Ladybird, or code brought in from Ladybird's even more ambitious predecessor project SerenityOS . This morning — Simon Willison / score: 85 (独自エンジンを持つ新世代WebブラウザLadybirdの初アルファリリース)</description>
 </item>
 <item>
-<title>[85] Introducing Claude Ship</title>
+<title>[85] Introducing Claude Ship | Claude by Anthropic</title>
 <link>https://claude.com/resources/articles/introducing-claude-ship</link>
 <guid isPermaLink="true">https://claude.com/resources/articles/introducing-claude-ship</guid>
 <pubDate>Mon, 23 Nov 2026 21:17:44 +0000</pubDate>
@@ -317,6 +325,14 @@
 <pubDate>Mon, 23 Nov 2026 12:12:45 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>平素よりPrivatter+をご利用いただき、誠にありがとうございます。 このたび、Privatter+において第三者による不正アクセスが発生し、一部のユーザー様のアカウントが不正に操作される被害が確認されました。 本件を受け、被害の拡大防止、原因の調査およびセキュリティ対策の実施のため、一時的にサービスの提供を停止... — はてなブックマーク テクノロジー / score: 85 (Webサービスの不正アクセス発生とアカウント被害の報告)</description>
+</item>
+<item>
+<title>[85] マクドナルド公式アプリのデータベースへの不正アクセスに関するお知らせとお詫び | マクドナルド公式</title>
+<link>https://www.mcdonalds.co.jp/company/info/261120a/</link>
+<guid isPermaLink="true">https://www.mcdonalds.co.jp/company/info/261120a/</guid>
+<pubDate>Sat, 21 Nov 2026 09:09:54 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>平素より日本マクドナルド公式アプリをご利用いただき、誠にありがとうございます。 このたび、当社が管理するマクドナルド公式アプリのデータベース内のお客様に関連する情報の一部に対して第三者による不正アクセスが確認されました。詳細は下記の通りです。 なお、本件に起因する公式アプリ・サービスの不正利用は確... — はてなブックマーク テクノロジー / score: 85 (公式アプリのデータベースへの不正アクセスと情報流出)</description>
 </item>
 <item>
 <title>[85] Quoting Levent Alpöge</title>
@@ -495,20 +511,20 @@
 <description>Amazon Web Services（AWS）は2026年11月11日、ローカルマシン上などでAWSアプリケーションを構築・テストできるエミュレーター「AWS Emulator」の一般提供を開始した。 — gihyo.jp / score: 85 (AWS Emulatorの一般提供開始に関する重要ニュース)</description>
 </item>
 <item>
-<title>[85] Anthropic、Claude Fable 5.2とMythos 5.2を発表  ——推論や画像理解を改善、長時間のエージェント作業も強化</title>
-<link>https://gihyo.jp/article/2026/11/claude-fable-and-mythos-5.2?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/11/claude-fable-and-mythos-5.2?utm_source=feed</guid>
-<pubDate>Tue, 10 Nov 2026 04:39:15 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Anthropicは2026年11月9日、AIモデルClaude Fable 5.2とClaude Mythos 5.2を発表した。コーディングや画像理解を改善し、複雑な推論や長時間にわたるエージェント作業の性能を高めたという。 — gihyo.jp / score: 85 (Anthropicの新型AIモデル発表)</description>
-</item>
-<item>
 <title>[82] Why It Takes 3000 Commits to Bring Valhalla’s Value Objects to the JDK</title>
 <link>https://inside.java/2026/11/16/devoxxbelgium-valhalla-value-objects/</link>
 <guid isPermaLink="true">https://inside.java/2026/11/16/devoxxbelgium-valhalla-value-objects/</guid>
 <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
 <category>Inside Java</category>
 <description>JEP 401 (Value Objects) arrives in OpenJDK as a preview feature, enabling a new Java type model with minimal code changes. The talk explains what value objects are, JVM benefits, Valhalla history, implementation details, and the path toward bridging objects and primitives, including future support like List&lt;int&gt;. — Inside Java / score: 82 (Java Valhallaプロジェクトの解説と進化)</description>
+</item>
+<item>
+<title>[80] クレカ情報3633人分が漏えいか　自動車用品のベレッツァ</title>
+<link>https://ascii.jp/elem/000/004/454/4454091/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/454/4454091/?rss</guid>
+<pubDate>Tue, 24 Nov 2026 04:20:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>CSマーケティングは11月24日、自動車用シートカバーなどを扱う「ベレッツァ」のサイトに不正アクセスがあり、3633人分のクレジットカード情報が漏えいした可能性があると発表した。 — ASCII.jp / score: 80 (自動車用品サイトからの不正アクセスによる情報漏えい)</description>
 </item>
 <item>
 <title>[80] 「PHP 8.6」が正式リリース、関数型っぽく書ける「Partial Function Application」などを導入／経過時間を表す「Duration」クラスや「clamp()」関数も。2030年末までサポート</title>
@@ -631,6 +647,14 @@
 <description>November 9, 2026 — Claude Fable 5.2 and Mythos 5.2 arrive on Anthropic’s IPO roadshow day. How much thinking is worth paying for? — Latent Space / score: 78 (主要LLMの性能逆転とIPO動向)</description>
 </item>
 <item>
+<title>[75] 独自開発のブラウザエンジンを搭載した独立系ウェブブラウザ「Ladybird」のアルファ版が登場</title>
+<link>https://gigazine.net/news/20261124-ladybird-now-alpha/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261124-ladybird-now-alpha/</guid>
+<pubDate>Tue, 24 Nov 2026 05:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>Google ChromeやMicrosoft Edge、Opera、Braveといったウェブブラウザは、Googleが開発とメンテナンスを主導するChromiumをベースとしています。こういったGoogleのエコシステムから離れた、独自開発のウェブブラウザが「Ladybird」です。そんなLadybirdのアルファ版がついに登場しました。 続きを読む... — GIGAZINE / score: 75 (独自エンジンを搭載した独立系ブラウザのアルファ版)</description>
+</item>
+<item>
 <title>[75] OpenAIがAIの進化を測る内部指標「パープレキシティ」を公開、2027年の技術革新ラッシュを見据え開発制限を提唱</title>
 <link>https://gigazine.net/news/20261124-openai-perplexity/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261124-openai-perplexity/</guid>
@@ -695,14 +719,6 @@
 <description>Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry. — Google DeepMind / score: 75 (AIエージェントを用いた量子アルゴリズム高速化の成果。)</description>
 </item>
 <item>
-<title>[75] 著名なRust製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話</title>
-<link>https://zenn.dev/koukyosyumei/articles/31c8fcf4da45b7</link>
-<guid isPermaLink="true">https://zenn.dev/koukyosyumei/articles/31c8fcf4da45b7</guid>
-<pubDate>Mon, 23 Nov 2026 10:14:56 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>こんにちは。コロンビア大学の博士課程でシステムセキュリティ・形式検証の研究をしている Koukyosyumei です。 今回は、ざっくり言うと、Rust製の有名なOSSをLean 4で形式検証するベンチマークを作っていたら、思いがけず実際のセキュリティ脆弱性をいくつも発見してしまった、という話です。 現在私がやっているプロジ... — はてなブックマーク テクノロジー / score: 75 (形式検証を用いたRust製OSSの脆弱性発見)</description>
-</item>
-<item>
 <title>[75] Amazon Inspector expands runtime reachability analysis for ECR and EC2 findings</title>
 <link>https://aws.amazon.com/about-aws/whats-new/2026/11/inspector-runtime-reachability/</link>
 <guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/inspector-runtime-reachability/</guid>
@@ -717,6 +733,14 @@
 <pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Automated API discovery and protection are now generally available, enabling you to discover every API behind Amazon API Gateway, Application Load Balancers, and Amazon CloudFront across your AWS Organization and protect them using AWS WAF. Discovery is available through the new API Gateway API Portal, which identifies the APIs automatically from traffic logs and service configuration records, with no agents to deploy or logs to forward. The API Portal classifies the APIs it finds, identifies zo — AWS What's New / score: 75 (AWS全体でのAPIセキュリティ自動発見・保護機能の一般提供)</description>
+</item>
+<item>
+<title>[75] 著名なRust製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話</title>
+<link>https://zenn.dev/koukyosyumei/articles/31c8fcf4da45b7</link>
+<guid isPermaLink="true">https://zenn.dev/koukyosyumei/articles/31c8fcf4da45b7</guid>
+<pubDate>Mon, 23 Nov 2026 05:17:05 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>こんにちは。コロンビア大学の博士課程でシステムセキュリティ・形式検証の研究をしている Koukyosyumei です。 今回は、ざっくり言うと、Rust製の有名なOSSをLean 4で形式検証するベンチマークを作っていたら、思いがけず実際のセキュリティ脆弱性をいくつも発見してしまった、という話です。 現在私がやっているプロジェクトの一つに、RustのWebアプリケーションをLean 4で形式検証できるフレームワーク h5i があります。h5iは、RustのWebフレームワークであるAxumをベースに、アプリケーションの重要なロジックをLean 4に変換し、認可、データの分離、ビジネスロジ... — Zenn トレンド / score: 75 (形式検証を用いたRust製OSSの脆弱性発見)</description>
 </item>
 <item>
 <title>[75] 世界初の直径200mm単結晶ダイヤモンドウェハーは何を変えるのか、AIチップの99％をダイヤモンドにする構想とは？</title>
@@ -781,30 +805,6 @@
 <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
 <category>Spring Blog</category>
 <description>On behalf of the community, I am pleased to announce that the General Availability (RELEASE) of the Spring Cloud 2025.1.5 Release Train is available today. The release can be found in Maven Central . You can check out the 2025.1.5 release notes for more information . Notable Changes in the 2025.1.5 Release Train This release is compatible with Spring Boot 4.0.x and 4.1.x . This release contains several bug fixes across all projects. For a complete list of what was fixed in this release see this  — Spring Blog / score: 75 (Spring Cloudのリリースとアップデート)</description>
-</item>
-<item>
-<title>[75] さよならPhi Silica、ようこそAion Instruct。Windows内蔵の言語モデルが刷新【使ってわかるAI PC】</title>
-<link>https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2158020.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2158020.html</guid>
-<pubDate>Thu, 19 Nov 2026 23:08:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>マイクロソフトは11月13日、これまでWindowsのオンデバイス言語モデルとして提供されてきたPhi Silicaを、新たな言語モデルであるAion Instructに置き換えると発表した。2027年1月にはAion Instructが一般の端末に提供される予定で、かなり差し迫ったタイミングでの発表となった。 — 窓の杜 / score: 75 (Windows内蔵オンデバイス言語モデルの大規模な刷新)</description>
-</item>
-<item>
-<title>[75] v4.2.0</title>
-<link>https://github.com/spring-projects/spring-boot/releases/tag/v4.2.0</link>
-<guid isPermaLink="true">https://github.com/spring-projects/spring-boot/releases/tag/v4.2.0</guid>
-<pubDate>Thu, 19 Nov 2026 22:00:24 +0000</pubDate>
-<category>Spring Boot リリース</category>
-<description>⭐ New Features Refine forwarded header support #52800 Deprecate Apache Pulsar support #52752 🐞 Bug Fixes Properties migrator does not migrate some properties renamed in 4.0 #52809 Reactive web servers no longer use forwarded headers on a cloud platform after #52800 #52806 Class loading fails with 'Zip file closed' can still be thrown under concurrent access #52803 Auto-configured PulsarTransactionManager is not customized by TransactionManagerCustomizers #52783 InspectedContent records the wrong — Spring Boot リリース / score: 75 (人気フレームワークSpring Boot v4.2.0のリリース)</description>
-</item>
-<item>
-<title>[75] Introducing Tool Retrieval in the Gemini API</title>
-<link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/</link>
-<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/</guid>
-<pubDate>Thu, 19 Nov 2026 18:00:00 +0000</pubDate>
-<category>Google AI Blog</category>
-<description>Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API. — Google AI Blog / score: 75 (Gemini APIの新機能プレビュー公開)</description>
 </item>
 </channel>
 </rss>
