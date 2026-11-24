@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Tue, 24 Nov 2026 16:07:10 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 18:07:52 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「GitLab」に緊急パッチ、リモートコード実行のおそれのある「Ruby2Shell」脆弱性に対処／v19.6.1/v19.5.8/v19.4.10が公開</title>
@@ -287,6 +287,14 @@
 <description> — Yahoo!ニュース IT / score: 85 (企業のクレジットカード情報漏えいに関する重大なセキュリティインシデント)</description>
 </item>
 <item>
+<title>[85] 「コードを書くAI」ではなく「承認するAI」登場、Anthropicが新機能「Claude Ship」提供</title>
+<link>https://japan.cnet.com/article/35255329/</link>
+<guid isPermaLink="true">https://japan.cnet.com/article/35255329/</guid>
+<pubDate>Tue, 24 Nov 2026 06:29:05 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>ソフトウェアの共同開発サービス「GitHub」で、コードの変更案をAIに点検・修正させ、チームのルールが認める場合は承認まで任せられるようになった。米Anthropicは11月23日、こうした機能をまとめた「Claude Ship」を発表した。ClaudeのTeamとEnterpriseプラン向けにベータ提供を始めた。 — はてなブックマーク テクノロジー / score: 85 (AIによるコード承認自動化の新機能発表)</description>
+</item>
+<item>
 <title>[85] パッチ適用前にLinuxシステムを一時保護する「Shirudo」 OpenAIとCiscoが開発</title>
 <link>https://www.watch.impress.co.jp/docs/news/2158698.html</link>
 <guid isPermaLink="true">https://www.watch.impress.co.jp/docs/news/2158698.html</guid>
@@ -349,14 +357,6 @@
 <pubDate>Fri, 20 Nov 2026 04:05:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>フリーのパケットキャプチャーツール「Wireshark 4.6.10」が、11月18日（協定世界時）に公開された。「Wireshark 4.6」シリーズの最新版となる。 — 窓の杜 / score: 85 (主要なパケットキャプチャの脆弱性修正。)</description>
-</item>
-<item>
-<title>[85] ARMORY CASTLE Exploits vSphere</title>
-<link>https://cloud.google.com/blog/topics/threat-intelligence/armory-castle-exploits-vsphere/</link>
-<guid isPermaLink="true">https://cloud.google.com/blog/topics/threat-intelligence/armory-castle-exploits-vsphere/</guid>
-<pubDate>Thu, 19 Nov 2026 14:00:00 +0000</pubDate>
-<category>Google Cloud Blog</category>
-<description>Written by: Jayson Frost, Bryce Greathouse, Dhanesh Kizhakkinan, John Palmisano, Steve Rasch, Daniel Sislo, John Wolfram Introduction On Oct. 15, 2026, Mandiant and Google Threat Intelligence Group (GTIG) published a blog post detailing recent activity in which the suspected PRC-nexus threat actor ARMORY CASTLE (formerly tracked as UNC5221) exploited CVE-2026-102764, a zero-day vulnerability in BeyondTrust Remote Support, which was patched in BT26-05 . We also described some of the threat actor’ — Google Cloud Blog / score: 85 (VMware vSphereを狙うサイバー攻撃の解説)</description>
 </item>
 <item>
 <title>[85] Google、Gemini 4 Neonを発表 ——Carbonをもとに開発、複雑な作業をより短時間で</title>
@@ -719,6 +719,14 @@
 <description>Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry. — Google DeepMind / score: 75 (AIエージェントを用いた量子アルゴリズム高速化の成果。)</description>
 </item>
 <item>
+<title>[75] TiDB から PostgreSQL へ、本番 DB を書き込みを止めて切り替えた記録</title>
+<link>https://zenn.dev/hirahara/articles/tidb-to-postgresql-cutover</link>
+<guid isPermaLink="true">https://zenn.dev/hirahara/articles/tidb-to-postgresql-cutover</guid>
+<pubDate>Mon, 23 Nov 2026 14:26:46 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>はじめに 2026 年 9 月に、運用している Web サービスの本番の DB を TiDB (サーバーレス版) から PostgreSQL 18 へ移しました。 API は Go で書いていて、Cloud Run の上で動いています。移したのは API が読み書きする正本の DB のすべてです。 この記事では手順の紹介にとどまらず、次の 4 つの中身まで書きます。 書... — はてなブックマーク テクノロジー / score: 75 (TiDBからPostgreSQLへの実運用移行事例)</description>
+</item>
+<item>
 <title>[75] Amazon Inspector expands runtime reachability analysis for ECR and EC2 findings</title>
 <link>https://aws.amazon.com/about-aws/whats-new/2026/11/inspector-runtime-reachability/</link>
 <guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/inspector-runtime-reachability/</guid>
@@ -797,14 +805,6 @@
 <pubDate>Thu, 19 Nov 2026 23:08:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>マイクロソフトは11月13日、これまでWindowsのオンデバイス言語モデルとして提供されてきたPhi Silicaを、新たな言語モデルであるAion Instructに置き換えると発表した。2027年1月にはAion Instructが一般の端末に提供される予定で、かなり差し迫ったタイミングでの発表となった。 — 窓の杜 / score: 75 (Windows内蔵オンデバイス言語モデルの大規模な刷新)</description>
-</item>
-<item>
-<title>[75] v4.2.0</title>
-<link>https://github.com/spring-projects/spring-boot/releases/tag/v4.2.0</link>
-<guid isPermaLink="true">https://github.com/spring-projects/spring-boot/releases/tag/v4.2.0</guid>
-<pubDate>Thu, 19 Nov 2026 22:00:24 +0000</pubDate>
-<category>Spring Boot リリース</category>
-<description>⭐ New Features Refine forwarded header support #52800 Deprecate Apache Pulsar support #52752 🐞 Bug Fixes Properties migrator does not migrate some properties renamed in 4.0 #52809 Reactive web servers no longer use forwarded headers on a cloud platform after #52800 #52806 Class loading fails with 'Zip file closed' can still be thrown under concurrent access #52803 Auto-configured PulsarTransactionManager is not customized by TransactionManagerCustomizers #52783 InspectedContent records the wrong — Spring Boot リリース / score: 75 (人気フレームワークSpring Boot v4.2.0のリリース)</description>
 </item>
 </channel>
 </rss>
