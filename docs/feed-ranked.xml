@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Tue, 24 Nov 2026 10:06:23 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 12:09:30 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「GitLab」に緊急パッチ、リモートコード実行のおそれのある「Ruby2Shell」脆弱性に対処／v19.6.1/v19.5.8/v19.4.10が公開</title>
@@ -223,14 +223,6 @@
 <description>Microsoftは2026年11月10日、アプリケーション開発基盤.NETの新バージョン「.NET 11」を正式リリースした。 — gihyo.jp / score: 90 (.NET 11正式リリースとC# 15の新機能)</description>
 </item>
 <item>
-<title>[90] Introducing AlphaProof Code: a breakthrough in verifying complex software at depth</title>
-<link>https://deepmind.google/blog/introducing-alphaproof-code/</link>
-<guid isPermaLink="true">https://deepmind.google/blog/introducing-alphaproof-code/</guid>
-<pubDate>Tue, 10 Nov 2026 12:02:28 +0000</pubDate>
-<category>Google DeepMind</category>
-<description>AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption. — Google DeepMind / score: 90 (AIを用いた複雑なソフトウェアの形式検証の大きなブレイクスルー)</description>
-</item>
-<item>
 <title>[88] Introducing Gemini 4 Neon</title>
 <link>https://deepmind.google/blog/introducing-gemini-4-neon/</link>
 <guid isPermaLink="true">https://deepmind.google/blog/introducing-gemini-4-neon/</guid>
@@ -263,12 +255,28 @@
 <description> — Yahoo!ニュース IT / score: 85 (大規模な個人情報流出の可能性に関する報道)</description>
 </item>
 <item>
+<title>[85] JAXAのシステムに不正アクセス 一部アカウント名など漏えい | NHKニュース</title>
+<link>https://news.web.nhk/newsweb/na/nd-20261124de80645</link>
+<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261124de80645</guid>
+<pubDate>Tue, 24 Nov 2026 09:02:47 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>JAXA＝宇宙航空研究開発機構は、人工衛星で取得したデータなどを公開するシステムが今月18日に外部から不正アクセスを受け、一部の利用者のアカウント名などが漏えいしたと発表しました。 JAXAにより… — はてなブックマーク テクノロジー / score: 85 (JAXAシステムへの不正アクセスとデータ漏えい事案)</description>
+</item>
+<item>
 <title>[85] ヴェレダ クレカ4万件超漏えいか</title>
 <link>https://news.yahoo.co.jp/pickup/6603807?source=rss</link>
 <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6603807?source=rss</guid>
 <pubDate>Tue, 24 Nov 2026 06:57:01 +0000</pubDate>
 <category>Yahoo!ニュース IT</category>
 <description> — Yahoo!ニュース IT / score: 85 (企業のクレジットカード情報漏えいに関する重大なセキュリティインシデント)</description>
+</item>
+<item>
+<title>[85] パッチ適用前にLinuxシステムを一時保護する「Shirudo」 OpenAIとCiscoが開発</title>
+<link>https://www.watch.impress.co.jp/docs/news/2158698.html</link>
+<guid isPermaLink="true">https://www.watch.impress.co.jp/docs/news/2158698.html</guid>
+<pubDate>Tue, 24 Nov 2026 05:43:19 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>パッチ適用前にLinuxシステムを一時保護する「Shirudo」 OpenAIとCiscoが開発 — はてなブックマーク テクノロジー / score: 85 (OpenAIとCiscoによるLinux保護ツール発表)</description>
 </item>
 <item>
 <title>[85] OpenAIがシステムを停止せずに脆弱性を悪用した攻撃を防ぐ「Shirudo」を発表</title>
@@ -599,6 +607,22 @@
 <description>AWS Emulator is a free, open-source local emulator in Rust that lets developers test applications against nearly every AWS service on their own machine using the same CLI and SDK commands, with fidelity measured against real AWS behavior. — AWS News Blog / score: 80 (AWSのローカルエミュレータツールリリース)</description>
 </item>
 <item>
+<title>[75] 電力、水、騒音。データセンターを迎えるアメリカの街に起きている異変</title>
+<link>https://www.gizmodo.jp/article/2611-us-data-center-construction-ban/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-us-data-center-construction-ban/</guid>
+<pubDate>Tue, 24 Nov 2026 12:00:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>米国の複数の街でAI用データセンターの建設停止や禁止が相次いでいます。電力や水の大容量消費、騒音、一般家庭への電気代転嫁への懸念から条例可決や住民投票での原則禁止が決定しました。 — ギズモード・ジャパン / score: 75 (AI用データセンターのインフラ課題と社会影響)</description>
+</item>
+<item>
+<title>[75] Anthropic、Claude Shipのベータ版を発表 ——GitHubのPR修正を支援し、チームのルールに沿って承認も</title>
+<link>https://gihyo.jp/article/2026/11/claude-ship?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/11/claude-ship?utm_source=feed</guid>
+<pubDate>Tue, 24 Nov 2026 09:33:43 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Anthropicは2026年11月23日、GitHubのプルリクエスト（PR）をマージするまでの作業を支援するClaude Shipのベータ版を発表した。一般提供済みのCode Reviewに、レビューの指摘を受けて修正を試みるPR Stewardと、変更内容に応じて必要な承認者を判定するClaude Approvalsを加えた。 — gihyo.jp / score: 75 (AnthropicによるPR修正支援Claude Ship発表)</description>
+</item>
+<item>
 <title>[75] Cognition、目標を受けて複数のDevinを指揮する「Devin Bots」を国内発表　日本のエンタープライズ売上は前年比約9倍、年末に50社超へ</title>
 <link>https://codezine.jp/article/detail/30466</link>
 <guid isPermaLink="true">https://codezine.jp/article/detail/30466</guid>
@@ -637,14 +661,6 @@
 <pubDate>Tue, 24 Nov 2026 03:20:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>アメリカに拠点を置くAI開発企業のThinking Machines LabがAIモデル「Inkling 2 Mini」を公開しました。ベンチマークテストではQwen3.8 27Bを上回っています。 続きを読む... — GIGAZINE / score: 75 (高性能な新型オープンAIモデルの登場)</description>
-</item>
-<item>
-<title>[75] Anthropic、プルリクエストをAIが処理する新機能「Claude Ship」を発表</title>
-<link>https://japan.zdnet.com/article/35255314/</link>
-<guid isPermaLink="true">https://japan.zdnet.com/article/35255314/</guid>
-<pubDate>Tue, 24 Nov 2026 01:16:51 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>多くの開発者が「Claude Code」やOpenAIの「Codex」といった人工知能（AI）ベースのコーディングツールを利用するようになった今でも、コードをプッシュする前に自分の目で確認したいと考える開発者はいる。だが、より大胆でエージェントを積極的に利用するタイプの開発者なら、コーディングの最終ステップをAIに任せる... — はてなブックマーク テクノロジー / score: 75 (AIによるPR自動処理という開発効率化の大きな一歩)</description>
 </item>
 <item>
 <title>[75] GLM-5.4: Toward Generalized Coding with Our First Loop Transformer</title>
@@ -751,14 +767,6 @@
 <description>Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality. — OpenAI News / score: 75 (金融リサーチにおけるGPT-6 Astraの評価と改善事例)</description>
 </item>
 <item>
-<title>[75] Spring Cloud 2025.1.5 (aka Oakwood) Has Been Released</title>
-<link>https://spring.io/blog/2026/11/20/spring-cloud-2025-1-5-has-been-released</link>
-<guid isPermaLink="true">https://spring.io/blog/2026/11/20/spring-cloud-2025-1-5-has-been-released</guid>
-<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-<category>Spring Blog</category>
-<description>On behalf of the community, I am pleased to announce that the General Availability (RELEASE) of the Spring Cloud 2025.1.5 Release Train is available today. The release can be found in Maven Central . You can check out the 2025.1.5 release notes for more information . Notable Changes in the 2025.1.5 Release Train This release is compatible with Spring Boot 4.0.x and 4.1.x . This release contains several bug fixes across all projects. For a complete list of what was fixed in this release see this  — Spring Blog / score: 75 (Spring Cloudのリリースとアップデート)</description>
-</item>
-<item>
 <title>[75] さよならPhi Silica、ようこそAion Instruct。Windows内蔵の言語モデルが刷新【使ってわかるAI PC】</title>
 <link>https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2158020.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2158020.html</guid>
@@ -797,14 +805,6 @@
 <pubDate>Thu, 19 Nov 2026 06:37:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Microsoftは11月17日（現地時間）、年次開発者イベント「Microsoft Ignite 2026」で、同社のAI部門Microsoft AI（MAI）が開発した7つの新しいモデル群を発表した。トークン消費が急増するなか、エージェントを24時間365日動かせるだけの“価格性能比”を重視したという。発表されたおもなモデルは、以下の通り。 — 窓の杜 / score: 75 (Microsoft Ignite 2026での新AIモデル群の発表)</description>
-</item>
-<item>
-<title>[75] Explore the Codex Security Plugin</title>
-<link>https://openai.com/business/learn/codex-security-plugin-demo</link>
-<guid isPermaLink="true">https://openai.com/business/learn/codex-security-plugin-demo</guid>
-<pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording. — OpenAI News / score: 75 (OpenAIのセキュリティプラグイン紹介)</description>
 </item>
 </channel>
 </rss>
