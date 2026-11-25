@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 25 Nov 2026 10:06:41 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 12:09:08 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「GitLab」に緊急パッチ、リモートコード実行のおそれのある「Ruby2Shell」脆弱性に対処／v19.6.1/v19.5.8/v19.4.10が公開</title>
@@ -53,14 +53,6 @@
 <pubDate>Wed, 25 Nov 2026 04:05:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Broadcomは11月24日（現地時間）、セキュリティアドバイザリ「VMSA-2026-0011」を公開した。「VMware ESX」「VMware vCenter」「VMware Workstation」「VMware Fusion」「VMware Tools」「VMware Avi Load Balancer」に存在する、計23件の脆弱性が明らかにされている。深刻度は最大で「Critical」（CVSS 9.8）。 — 窓の杜 / score: 90 (VMware製品群に存在す致命的脆弱性の修正)</description>
-</item>
-<item>
-<title>[90] 楽天証券、金融資産情報など約441万件の漏えい確認　ログインIDなど約1198万口座分も</title>
-<link>https://www.itmedia.co.jp/news/article/2611/25/2000003435/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/25/2000003435/</guid>
-<pubDate>Wed, 25 Nov 2026 02:42:52 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>楽天証券は11月24日、17日に発表した不正アクセスを巡り、情報漏えいを確認したと発表した。当初はログインIDなどが最大1125万口座分、氏名や住所、金融資産情報が最大447万口座分漏えいした可能性があるとしていたが、実際には前者が約1198万口座分、後者が約441万件漏えいしていた。約441万件の漏えいについては、入金... — はてなブックマーク テクノロジー / score: 90 (楽天証券の大規模な金融資産情報漏えい確認の重大な発表)</description>
 </item>
 <item>
 <title>[90] 楽天証券、顧客からの預かり資産残高168万件漏洩　性別や国籍も - 日本経済新聞</title>
@@ -239,6 +231,14 @@
 <description>Microsoftのクラウドサービス「Microsoft 365」で2026年11月13日に世界規模の大規模障害が発生しました。これを受けてMicrosoftは、重大なサービス障害の防止および対応方法を抜本的に見直すため、「コードレッド」体制を宣言しました。 続きを読む... — GIGAZINE / score: 85 (M365大規模障害を受けたMicrosoftのコードレッド宣言)</description>
 </item>
 <item>
+<title>[85] M＆A仲介会社に不正アクセス 最大数千社分の顧客情報漏えいか | NHKニュース</title>
+<link>https://news.web.nhk/newsweb/na/nd-20261125de81289</link>
+<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261125de81289</guid>
+<pubDate>Wed, 25 Nov 2026 09:13:49 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>中小企業の事業承継や買収、合併の仲介などを手がける「MJS M＆Aパートナーズ」は、社内ネットワークが不正アクセスを受け、最大で数千社分の顧客情報が外部に漏えいしたおそれがあると発表しました。 会… — はてなブックマーク テクノロジー / score: 85 (企業への不正アクセスと数千社規模の顧客情報漏えい)</description>
+</item>
+<item>
 <title>[85] 「Todoist」に不正アクセス、ユーザーの約6％でメールアドレスとパスワードハッシュが流出／廃止予定の「Microsoft To Do」の代替として期待されるタスク管理サービスだが……</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2159145.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2159145.html</guid>
@@ -301,14 +301,6 @@
 <pubDate>Tue, 24 Nov 2026 13:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets. — OpenAI News / score: 85 (次世代AIモデルによるタンパク質設計能力の画期的発表)</description>
-</item>
-<item>
-<title>[85] AmazonがAIスタートアップ「Decart」の主要事業を約1兆2000億円で買収へ、AIチップの性能を引き出す技術と研究者を獲得</title>
-<link>https://gigazine.net/news/20261124-amazon-acquire-decart/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261124-amazon-acquire-decart/</guid>
-<pubDate>Tue, 24 Nov 2026 12:15:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>Amazonは日本時間の2026年11月23日、イスラエルのAIスタートアップ「Decart」が開発したAI処理の最適化技術「Decart Optimization Stack(DOS)」を買収する契約を締結したと発表しました。Decartの共同創業者やAI研究者、エンジニアもAmazonに加わる予定で、Bloombergは買収額が75億ドル(約1兆2000億円)に上ると報じています。 続きを読む... — GIGAZINE / score: 85 (巨大IT企業によるAIスタートアップの高額買収)</description>
 </item>
 <item>
 <title>[85] 京王グループ 約1063万件漏えいか</title>
@@ -495,12 +487,12 @@
 <description> — CodeZine / score: 80 (Red Hat OpenShift 5の一般提供開始と新機能)</description>
 </item>
 <item>
-<title>[80] 流出した免許証や自撮り写真はどうなる　ダークウェブで見た情報悪用：朝日新聞</title>
-<link>https://www.asahi.com/articles/ASVCN0PYNVCNUTIL028M.html</link>
-<guid isPermaLink="true">https://www.asahi.com/articles/ASVCN0PYNVCNUTIL028M.html</guid>
-<pubDate>Tue, 24 Nov 2026 22:39:18 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>不正アクセスを受けて漏洩（ろうえい）した大量の情報は、誰がどんな目的で使うのか。専門家の協力を得て「ダークウェブ」と呼ばれる匿名性の高いネット空間をのぞくと、無数の個人情報が飛び交い、売買をうかがわ… — はてなブックマーク テクノロジー / score: 80 (ダークウェブにおける個人情報悪用の実態を暴く解説)</description>
+<title>[80] 公表資料から読む2026年10〜11月の情報漏えい23件：侵入経路はどこだったのか</title>
+<link>https://zenn.dev/shirochan/articles/f579abb8be4b1e</link>
+<guid isPermaLink="true">https://zenn.dev/shirochan/articles/f579abb8be4b1e</guid>
+<pubDate>Tue, 24 Nov 2026 11:22:50 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>! この記事の要点（2026年11月24日時点） 10月28日〜11月24日に初めて公表された国内の不正アクセス・漏えい（可能性を含む）23件を、各社と公的機関の発表で整理 メール配信サービスのアララでは、持ち出されたメールアドレスが81,329,467件。サービスが悪用され、カード会社を装った不審なメールも最大約713万通送られた 理化学研究所は、インターネットに公開されていた「富岳」の稼働状況のダッシュボードを足がかりに、内部へ侵入された 原因・入口が公表されたのは23件中9件。うち3件は、委託先が不正アクセスを受けたと利用企業が公表したもの 京王電鉄は、9月26日に公表していたラ... — Zenn トレンド / score: 80 (直近の情報漏えい事案と侵入経路の分析まとめ)</description>
 </item>
 <item>
 <title>[80] 「PHP 8.6」が正式リリース、関数型っぽく書ける「Partial Function Application」などを導入／経過時間を表す「Duration」クラスや「clamp()」関数も。2030年末までサポート</title>
@@ -607,20 +599,20 @@
 <description>AWS Emulator is a free, open-source local emulator in Rust that lets developers test applications against nearly every AWS service on their own machine using the same CLI and SDK commands, with fidelity measured against real AWS behavior. — AWS News Blog / score: 80 (AWSのローカルエミュレータツールリリース)</description>
 </item>
 <item>
+<title>[75] OpenAIの最新モデルに酷評の嵐。本当の勝者はAnthropic？</title>
+<link>https://www.gizmodo.jp/article/2611-openai-gpt-6-2-reviews-anthropic/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-openai-gpt-6-2-reviews-anthropic/</guid>
+<pubDate>Wed, 25 Nov 2026 11:00:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>OpenAIが11月17日に公開した最新モデルGPT-6.2 AstraとSolに対し、初期テスターから性能や使い勝手を巡る厳しい批判が相次いだ。マット・シューマーやマッケイ・リグリーら専門家は、競合するAnthropicのIPOに向けた追い風になると指摘している。 — ギズモード・ジャパン / score: 75 (OpenAI新モデルへの評価と競合動向に関する話題)</description>
+</item>
+<item>
 <title>[75] 「Edge」に“ロックダウンモード”、WebGL/WebGPUをブロックして攻撃対象領域を削減／高リスクユーザー向けの追加セキュリティ、Canaryチャネルで試験提供中</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2159159.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2159159.html</guid>
 <pubDate>Wed, 25 Nov 2026 09:56:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Microsoftは11月14日（現地時間）、「Microsoft Edge」の新しいセキュリティ機能「Lockdown Mode」（ロックダウンモード）を発表した。Webブラウザーの攻撃対象領域を減らし、脆弱性を悪用されるリスクを抑える仕組みで、現在Canaryチャネルでテスト中。 — 窓の杜 / score: 75 (Edgeブラウザの攻撃対象領域を削るロックダウンモード)</description>
-</item>
-<item>
-<title>[75] クラシテク、厚労省の「不正ログイン事案」注意喚起を受け、医療機関向け「リスト型攻撃対策の無料点検サービス」を提供開始 ― 病院・クリニック・訪問看護ステーションが対象</title>
-<link>https://ascii.jp/elem/000/004/454/4454799/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/454/4454799/?rss</guid>
-<pubDate>Wed, 25 Nov 2026 08:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>クラシテク、厚労省の「不正ログイン事案」注意喚起を受け、医療機関向け「リスト型攻撃対策の無料点検サービス」を提供開始 ― 病院・クリニック・訪問看護ステーションが対象 — ASCII.jp / score: 75 (医療機関向けのセキュリティ対策サービス開始のため)</description>
 </item>
 <item>
 <title>[75] v4.2.0</title>
@@ -645,6 +637,14 @@
 <pubDate>Wed, 25 Nov 2026 03:12:19 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>Rubyを安心して使い続けるために AIの登場によりソフトウェアを取り巻く状況が変化しています。AIを使えば、ソフトウェアの脆弱性を見つけることも、見つけた脆弱性を攻撃に使うことも、これまでよりはるかに速くできるようになりました。かつては公表から悪用まで数週間から数か月の猶予がありましたが、いまでは数日、... — はてなブックマーク テクノロジー / score: 75 (AI時代のセキュリティリスクに対する警鐘)</description>
+</item>
+<item>
+<title>[75] Turn artifacts into Mac and Windows apps</title>
+<link>https://claude.com/resources/articles/install-as-app</link>
+<guid isPermaLink="true">https://claude.com/resources/articles/install-as-app</guid>
+<pubDate>Wed, 25 Nov 2026 00:27:37 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Starting today, you can use Claude artifacts to create, run, and share desktop apps. The "Install as app" feature is rolling out in beta in Claude for Mac and Windows. When an artifact is installed as a Mac or Windows app, it gets its own icon and opens in its own window instead of inside Claude.... — はてなブックマーク テクノロジー / score: 75 (Claude artifactsでデスクトップアプリ化機能)</description>
 </item>
 <item>
 <title>[75] DeepSeek、APIにWeb検索機能を追加　OCRや音声など5つの単体APIも公開</title>
