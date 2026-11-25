@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 25 Nov 2026 12:09:08 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 14:06:58 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「GitLab」に緊急パッチ、リモートコード実行のおそれのある「Ruby2Shell」脆弱性に対処／v19.6.1/v19.5.8/v19.4.10が公開</title>
@@ -293,6 +293,14 @@
 <pubDate>Wed, 25 Nov 2026 01:35:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>Mozillaは11月24日（米国時間）、デスクトップ向け「Firefox」の最新版v161.0をリリースチャネルで公開した。「Firefox 160」に続くメジャーバージョンアップとなる。 — 窓の杜 / score: 85 (Firefoxメジャーアップデートと脆弱性修正)</description>
+</item>
+<item>
+<title>[85] 高木浩光＠自宅の日記 - 「氏名は含まれておりません」では済まない——KARTE事件で漏れた行動の記録は誰の個人データか</title>
+<link>http://takagi-hiromitsu.jp/diary/20261124.html</link>
+<guid isPermaLink="true">http://takagi-hiromitsu.jp/diary/20261124.html</guid>
+<pubDate>Wed, 25 Nov 2026 00:26:29 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>1. 漏れたのは「何をしたか」の記録である 11月13日、プレイドの「KARTE」が不正アクセスを受けた。KARTEを導入していた企業からの公表が相次ぎ、piyologの整理では11月21日時点で108組織にのぼる。 公表文の多くが挙げるのは、メールアドレス、生年月日、性別、会員番号といった項目である。そして、「氏名や連絡先は含... — はてなブックマーク テクノロジー / score: 85 (行動データのプライバシーと法的リスクに関する重要問題)</description>
 </item>
 <item>
 <title>[85] GPT-6 models demonstrate intrinsic protein-design capabilities</title>
@@ -623,6 +631,14 @@
 <description>⭐ New Features Refine forwarded header support #52800 Deprecate Apache Pulsar support #52752 🐞 Bug Fixes Properties migrator does not migrate some properties renamed in 4.0 #52809 Reactive web servers no longer use forwarded headers on a cloud platform after #52800 #52806 Class loading fails with 'Zip file closed' can still be thrown under concurrent access #52803 Auto-configured PulsarTransactionManager is not customized by TransactionManagerCustomizers #52783 InspectedContent records the wrong — Spring Boot リリース / score: 75 (人気フレームワークSpring Boot v4.2.0のリリース)</description>
 </item>
 <item>
+<title>[75] EXT4に4万行のAI生成コード、rcサイクル終盤の投入にトーバルズ氏が警告</title>
+<link>https://joho-todai.com/ext4-ai-generated-code-linus-warning/</link>
+<guid isPermaLink="true">https://joho-todai.com/ext4-ai-generated-code-linus-warning/</guid>
+<pubDate>Wed, 25 Nov 2026 05:26:03 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>EXT4メンテナがLinux 7.4-rc5向けに送った4万1197行のプルリクエスト。大半はAI生成のテストと修正で、トーバルズ氏はマージしたうえで「次は無視する」と警告した。 4万1197行のプルリクエストEXT4ファイルシステムのメンテナであるテッド・ツォ（Theodore Ts'o）氏が米国時間2026年11月24日、Linux 7.4-rc5向けのプル... — はてなブックマーク テクノロジー / score: 75 (LinuxカーネルへのAI生成コード導入と警告の話題)</description>
+</item>
+<item>
 <title>[75] Anthropicが「わざとセキュリティの甘いサンドボックスにAIを配置して行動を観察する」というセキュリティ評価手法「Siren」について解説</title>
 <link>https://gigazine.net/news/20261125-ai-sandbox-escape-siren/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261125-ai-sandbox-escape-siren/</guid>
@@ -637,14 +653,6 @@
 <pubDate>Wed, 25 Nov 2026 03:12:19 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>Rubyを安心して使い続けるために AIの登場によりソフトウェアを取り巻く状況が変化しています。AIを使えば、ソフトウェアの脆弱性を見つけることも、見つけた脆弱性を攻撃に使うことも、これまでよりはるかに速くできるようになりました。かつては公表から悪用まで数週間から数か月の猶予がありましたが、いまでは数日、... — はてなブックマーク テクノロジー / score: 75 (AI時代のセキュリティリスクに対する警鐘)</description>
-</item>
-<item>
-<title>[75] Turn artifacts into Mac and Windows apps</title>
-<link>https://claude.com/resources/articles/install-as-app</link>
-<guid isPermaLink="true">https://claude.com/resources/articles/install-as-app</guid>
-<pubDate>Wed, 25 Nov 2026 00:27:37 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Starting today, you can use Claude artifacts to create, run, and share desktop apps. The "Install as app" feature is rolling out in beta in Claude for Mac and Windows. When an artifact is installed as a Mac or Windows app, it gets its own icon and opens in its own window instead of inside Claude.... — はてなブックマーク テクノロジー / score: 75 (Claude artifactsでデスクトップアプリ化機能)</description>
 </item>
 <item>
 <title>[75] DeepSeek、APIにWeb検索機能を追加　OCRや音声など5つの単体APIも公開</title>
@@ -797,14 +805,6 @@
 <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality. — OpenAI News / score: 75 (金融リサーチにおけるGPT-6 Astraの評価と改善事例)</description>
-</item>
-<item>
-<title>[75] さよならPhi Silica、ようこそAion Instruct。Windows内蔵の言語モデルが刷新【使ってわかるAI PC】</title>
-<link>https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2158020.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2158020.html</guid>
-<pubDate>Thu, 19 Nov 2026 23:08:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>マイクロソフトは11月13日、これまでWindowsのオンデバイス言語モデルとして提供されてきたPhi Silicaを、新たな言語モデルであるAion Instructに置き換えると発表した。2027年1月にはAion Instructが一般の端末に提供される予定で、かなり差し迫ったタイミングでの発表となった。 — 窓の杜 / score: 75 (Windows内蔵オンデバイス言語モデルの大規模な刷新)</description>
 </item>
 </channel>
 </rss>
