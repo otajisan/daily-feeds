@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 25 Nov 2026 08:08:45 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 10:06:41 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「GitLab」に緊急パッチ、リモートコード実行のおそれのある「Ruby2Shell」脆弱性に対処／v19.6.1/v19.5.8/v19.4.10が公開</title>
@@ -23,7 +23,7 @@
 <description>スクリプト言語「Ruby」の開発チームは11月18日（現地時間）、「Ruby」の正規表現エンジンと、文字列の大文字・小文字変換に、7件の脆弱性が見つかったことを明らかにした。一部についてはリモートコード実行（RCE）を引き起こせることを示す実証コード（PoC）の存在も確認されているとのことで、修正版へのアップデートが強く推奨されている。 — 窓の杜 / score: 95 (Rubyのクリティカルな脆弱性とRCEの危険性)</description>
 </item>
 <item>
-<title>[95] Webサーバー「nginx」に10件の脆弱性 ～HTTP/2実装の欠陥は未認証でリモートコード実行も／「CVE-2026-123633」「CVE-2026-123007」に警戒、v1.30.7/v1.31.9で修正</title>
+<title>[95] Webサーバー「nginx」に10件の脆弱性 ～HTTP/2実装の欠陥は未認証でリモートコード実行も【11月25日追記】／「CVE-2026-123633」「CVE-2026-123007」に警戒、v1.30.7/v1.31.9で修正</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2157695.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2157695.html</guid>
 <pubDate>Thu, 19 Nov 2026 02:35:00 +0000</pubDate>
@@ -47,14 +47,6 @@
 <description>オープンソースのメールソフト「Thunderbird」が11月24日（米国時間）、v161.0へとアップデートされた。Linux環境で未読メール数バッジをタスクバーに表示できるようになった（対応するタスクバーのみ）ほか、「Thundermail」組み込みアドオンがv2.0.30へ更新。「OTR」（Off-the-Record）チャット暗号化は、これまで利用したことがないプロファイルでは既定で無効化されるようになった。 — 窓の杜 / score: 90 (Thunderbirdの致命的脆弱性を含む多数の修正)</description>
 </item>
 <item>
-<title>[90] 国家レベルの「iPhoneへの攻撃」、暗号資産ウォレットやパスワードなどが盗まれる恐れ | Forbes JAPAN 公式サイト（フォーブス ジャパン）</title>
-<link>https://forbesjapan.com/articles/detail/108829</link>
-<guid isPermaLink="true">https://forbesjapan.com/articles/detail/108829</guid>
-<pubDate>Wed, 25 Nov 2026 06:13:19 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>iPhoneの利用者に対し、iOSを急いでアップデートするよう、再び呼びかけが出ている。悪意のある広告を使った大規模な攻撃の詳細が明らかになった。 この攻撃では、攻撃者がネット広告を入り口にしてiPhoneに侵入する。暗号資産ウォレットの重要な情報や、パスワード管理機能のデータ、メッセージ、位置情報、写真のメタ... — はてなブックマーク テクノロジー / score: 90 (国家レベルのiPhone攻撃とiOS緊急アプデ要請)</description>
-</item>
-<item>
 <title>[90] 「VMware Workstation」「VMware Fusion」に“致命的”な脆弱性 ～Broadcomが公表／「26H1u1」で修正済み</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2158928.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2158928.html</guid>
@@ -63,20 +55,20 @@
 <description>米Broadcomは11月24日（現地時間）、セキュリティアドバイザリ「VMSA-2026-0011」を公開した。「VMware ESX」「VMware vCenter」「VMware Workstation」「VMware Fusion」「VMware Tools」「VMware Avi Load Balancer」に存在する、計23件の脆弱性が明らかにされている。深刻度は最大で「Critical」（CVSS 9.8）。 — 窓の杜 / score: 90 (VMware製品群に存在す致命的脆弱性の修正)</description>
 </item>
 <item>
+<title>[90] 楽天証券、金融資産情報など約441万件の漏えい確認　ログインIDなど約1198万口座分も</title>
+<link>https://www.itmedia.co.jp/news/article/2611/25/2000003435/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/25/2000003435/</guid>
+<pubDate>Wed, 25 Nov 2026 02:42:52 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>楽天証券は11月24日、17日に発表した不正アクセスを巡り、情報漏えいを確認したと発表した。当初はログインIDなどが最大1125万口座分、氏名や住所、金融資産情報が最大447万口座分漏えいした可能性があるとしていたが、実際には前者が約1198万口座分、後者が約441万件漏えいしていた。約441万件の漏えいについては、入金... — はてなブックマーク テクノロジー / score: 90 (楽天証券の大規模な金融資産情報漏えい確認の重大な発表)</description>
+</item>
+<item>
 <title>[90] 楽天証券、顧客からの預かり資産残高168万件漏洩　性別や国籍も - 日本経済新聞</title>
 <link>https://www.nikkei.com/article/DGXZQOUB24AXS0U6A121C2000000/</link>
 <guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUB24AXS0U6A121C2000000/</guid>
 <pubDate>Tue, 24 Nov 2026 21:28:35 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>不正アクセスによる顧客情報流出を巡って楽天証券は24日、追加の調査結果を公表した。株式など顧客からの預かり資産残高の情報が約168万口座分漏洩した。性別や国籍など7項目の漏洩も新たに確認したと明らかにした。国内株や投資信託などの商品区分別での残高情報が漏れた。個別の保有銘柄や過去の取引履歴の情報は含ま... — はてなブックマーク テクノロジー / score: 90 (大規模な顧客情報漏洩という重大なセキュリティインシデント)</description>
-</item>
-<item>
-<title>[90] 当社お客様の情報漏えいに関するお詫びとお知らせ（第2報）:楽天証券</title>
-<link>https://www.rakuten-sec.co.jp/web/info/info20261124-04.html</link>
-<guid isPermaLink="true">https://www.rakuten-sec.co.jp/web/info/info20261124-04.html</guid>
-<pubDate>Tue, 24 Nov 2026 13:06:22 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>2026年11月17日（火）にお知らせした、「楽天証券のお客様の情報漏えいの可能性に関するお詫びとお知らせ」（以下「第1報」）について、これまでの調査で判明した事実について、お知らせいたします。 外部に持ち出された情報について（第2報） 部店・お客様コード、ログインID※1に加え，氏名、カナ氏名、生年月日、住所... — はてなブックマーク テクノロジー / score: 90 (大手証券会社における深刻な情報漏洩事案)</description>
 </item>
 <item>
 <title>[90] 画像アップロードだけでサーバー乗っ取り？ 「Ghostscript」の脆弱性「Upload2Shell」／「WordPress」「Roundcube」などで攻撃成立、対策版への更新を</title>
@@ -239,12 +231,36 @@
 <description>Today, we’re introducing Gemini 4 Neon — Gemini (Google Blog) / score: 88 (Googleの新型モデルGemini 4 Neonの発表)</description>
 </item>
 <item>
+<title>[85] 24時間超のMicrosoft 365停止を受け重大なサービス障害の防止と対応方法を根本的に見直すための「コードレッド」をMicrosoftが宣言</title>
+<link>https://gigazine.net/news/20261125-microsoft-code-red/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261125-microsoft-code-red/</guid>
+<pubDate>Wed, 25 Nov 2026 09:30:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>Microsoftのクラウドサービス「Microsoft 365」で2026年11月13日に世界規模の大規模障害が発生しました。これを受けてMicrosoftは、重大なサービス障害の防止および対応方法を抜本的に見直すため、「コードレッド」体制を宣言しました。 続きを読む... — GIGAZINE / score: 85 (M365大規模障害を受けたMicrosoftのコードレッド宣言)</description>
+</item>
+<item>
 <title>[85] 「Todoist」に不正アクセス、ユーザーの約6％でメールアドレスとパスワードハッシュが流出／廃止予定の「Microsoft To Do」の代替として期待されるタスク管理サービスだが……</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2159145.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2159145.html</guid>
-<pubDate>Wed, 25 Nov 2026 07:42:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Todoistは11月24日（現地時間）、タスク管理サービス「Todoist」の本番システムが不正アクセスを受け、一部の顧客情報が取得されたと発表した。攻撃に使われた経路はすでに遮断され、影響を受けたアカウントには保護措置が講じられているとのこと。対象のユーザーにはメールで詳細が通知されており、メールが届いていなければ対応は不要だという。 — 窓の杜 / score: 85 (Todoistの不正アクセスによるユーザー情報流出)</description>
+<pubDate>Wed, 25 Nov 2026 08:21:06 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>「Todoist」に不正アクセス、ユーザーの約6％でメールアドレスとパスワードハッシュが流出／廃止予定の「Microsoft To Do」の代替として期待されるタスク管理サービスだが…… — はてなブックマーク テクノロジー / score: 85 (Todoistの不正アクセスによるユーザー情報流出)</description>
+</item>
+<item>
+<title>[85] Google、Gmailやドライブなど8サービス向けのWorkspace MCPサーバーと公式CLI「gwscli」を一般提供</title>
+<link>https://gihyo.jp/article/2026/11/google-workspace-mcp-and-cli?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/11/google-workspace-mcp-and-cli?utm_source=feed</guid>
+<pubDate>Wed, 25 Nov 2026 08:01:38 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Googleは2026年11月24日、AIエージェントからGmailやドライブなどを操作できる「Google Workspace MCPサーバー」と、公式コマンドラインツール「Google Workspace CLI」の一般提供を発表した。公式CLI（gwscli）のWindows版、macOS版、Linux版は、すでにインストールページからダウンロードできる。 — gihyo.jp / score: 85 (Google Workspace MCPと公式CLIの一般提供)</description>
+</item>
+<item>
+<title>[85] タイムズカー免許画像漏えいの見舞金、「現金かカーシェアeチケット3000円分」　12月1日から案内</title>
+<link>https://www.itmedia.co.jp/news/article/2611/25/2000003443/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/25/2000003443/</guid>
+<pubDate>Wed, 25 Nov 2026 06:59:49 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>パーク24は11月25日、傘下のカーシェアリングサービス「タイムズカー」への不正アクセスによる情報漏えいで、本人確認書類の画像データが漏えいした可能性がある会員に対して、見舞金として現金3000円または3000円分のカーシェアeチケットを提供すると発表した。 退会済みや未入会の人には現金で3000円を支払う。12月1日... — はてなブックマーク テクノロジー / score: 85 (大規模な個人情報流出に対する見舞金対応のニュース)</description>
 </item>
 <item>
 <title>[85] [AINews] Gemini 4 Neon marks GDM's full return as a Frontier Lab</title>
@@ -349,14 +365,6 @@
 <pubDate>Thu, 19 Nov 2026 08:00:43 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Googleは2026年11月18日、AIモデル「Gemini 4 Neon」を発表し、GeminiアプリやGemini APIなどで順次提供を始めた。Neonは、複数のファイルにまたがるコード修正や科学研究での定量分析など、高い推論能力が求められる作業を短時間でこなせるよう設計された。 — gihyo.jp / score: 85 (Googleの新型高性能AIモデル発表)</description>
-</item>
-<item>
-<title>[85] Google、「Gemini 4 Neon」を発表 ～「Claude Opus 5.5」「GPT-6.2 Sol」のライバル／“フロンティア級”の知能をより高速・低コストで、「Carbon」比でタスク単価32％削減</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2157693.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2157693.html</guid>
-<pubDate>Thu, 19 Nov 2026 01:05:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Googleは11月18日（現地時間）、「Gemini 4 Neon」を発表した。複雑なソフトウェアエンジニアリングや知識労働、科学分野のワークフローを、フロンティア級の知能で、しかも高速にこなせるモデルだという。 — 窓の杜 / score: 85 (Googleの新世代AIモデルGemini 4 Neonの発表)</description>
 </item>
 <item>
 <title>[85] Microsoft、コーディング向けMAI Code 2、画像生成・編集のMAI Image 2.7、音声対話のMAI Realtime 1など7つのAIモデルを発表 ——GitHubとともにCodename MDASHでオープンソースのコードを検査し、脆弱性99件を修正案とともに報告</title>
@@ -479,6 +487,22 @@
 <description>JEP 401 (Value Objects) arrives in OpenJDK as a preview feature, enabling a new Java type model with minimal code changes. The talk explains what value objects are, JVM benefits, Valhalla history, implementation details, and the path toward bridging objects and primitives, including future support like List&lt;int&gt;. — Inside Java / score: 82 (Java Valhallaプロジェクトの解説と進化)</description>
 </item>
 <item>
+<title>[80] Red Hat、「OpenShift 5」を一般提供開始──エージェント型運用やPQCに対応</title>
+<link>https://codezine.jp/article/detail/30480</link>
+<guid isPermaLink="true">https://codezine.jp/article/detail/30480</guid>
+<pubDate>Wed, 25 Nov 2026 08:50:00 +0000</pubDate>
+<category>CodeZine</category>
+<description> — CodeZine / score: 80 (Red Hat OpenShift 5の一般提供開始と新機能)</description>
+</item>
+<item>
+<title>[80] 流出した免許証や自撮り写真はどうなる　ダークウェブで見た情報悪用：朝日新聞</title>
+<link>https://www.asahi.com/articles/ASVCN0PYNVCNUTIL028M.html</link>
+<guid isPermaLink="true">https://www.asahi.com/articles/ASVCN0PYNVCNUTIL028M.html</guid>
+<pubDate>Tue, 24 Nov 2026 22:39:18 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>不正アクセスを受けて漏洩（ろうえい）した大量の情報は、誰がどんな目的で使うのか。専門家の協力を得て「ダークウェブ」と呼ばれる匿名性の高いネット空間をのぞくと、無数の個人情報が飛び交い、売買をうかがわ… — はてなブックマーク テクノロジー / score: 80 (ダークウェブにおける個人情報悪用の実態を暴く解説)</description>
+</item>
+<item>
 <title>[80] 「PHP 8.6」が正式リリース、関数型っぽく書ける「Partial Function Application」などを導入／経過時間を表す「Duration」クラスや「clamp()」関数も。2030年末までサポート</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2158479.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2158479.html</guid>
@@ -583,20 +607,28 @@
 <description>AWS Emulator is a free, open-source local emulator in Rust that lets developers test applications against nearly every AWS service on their own machine using the same CLI and SDK commands, with fidelity measured against real AWS behavior. — AWS News Blog / score: 80 (AWSのローカルエミュレータツールリリース)</description>
 </item>
 <item>
+<title>[75] 「Edge」に“ロックダウンモード”、WebGL/WebGPUをブロックして攻撃対象領域を削減／高リスクユーザー向けの追加セキュリティ、Canaryチャネルで試験提供中</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2159159.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2159159.html</guid>
+<pubDate>Wed, 25 Nov 2026 09:56:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Microsoftは11月14日（現地時間）、「Microsoft Edge」の新しいセキュリティ機能「Lockdown Mode」（ロックダウンモード）を発表した。Webブラウザーの攻撃対象領域を減らし、脆弱性を悪用されるリスクを抑える仕組みで、現在Canaryチャネルでテスト中。 — 窓の杜 / score: 75 (Edgeブラウザの攻撃対象領域を削るロックダウンモード)</description>
+</item>
+<item>
+<title>[75] クラシテク、厚労省の「不正ログイン事案」注意喚起を受け、医療機関向け「リスト型攻撃対策の無料点検サービス」を提供開始 ― 病院・クリニック・訪問看護ステーションが対象</title>
+<link>https://ascii.jp/elem/000/004/454/4454799/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/454/4454799/?rss</guid>
+<pubDate>Wed, 25 Nov 2026 08:00:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>クラシテク、厚労省の「不正ログイン事案」注意喚起を受け、医療機関向け「リスト型攻撃対策の無料点検サービス」を提供開始 ― 病院・クリニック・訪問看護ステーションが対象 — ASCII.jp / score: 75 (医療機関向けのセキュリティ対策サービス開始のため)</description>
+</item>
+<item>
 <title>[75] v4.2.0</title>
 <link>https://github.com/spring-projects/spring-boot/releases/tag/v4.2.0</link>
 <guid isPermaLink="true">https://github.com/spring-projects/spring-boot/releases/tag/v4.2.0</guid>
 <pubDate>Wed, 25 Nov 2026 07:37:06 +0000</pubDate>
 <category>Spring Boot リリース</category>
 <description>⭐ New Features Refine forwarded header support #52800 Deprecate Apache Pulsar support #52752 🐞 Bug Fixes Properties migrator does not migrate some properties renamed in 4.0 #52809 Reactive web servers no longer use forwarded headers on a cloud platform after #52800 #52806 Class loading fails with 'Zip file closed' can still be thrown under concurrent access #52803 Auto-configured PulsarTransactionManager is not customized by TransactionManagerCustomizers #52783 InspectedContent records the wrong — Spring Boot リリース / score: 75 (人気フレームワークSpring Boot v4.2.0のリリース)</description>
-</item>
-<item>
-<title>[75] OpenAI「GPT-5.6」終了予告にユーザー反発　「GPT-4o」に続き、旧モデルの存続求める声</title>
-<link>https://ascii.jp/elem/000/004/454/4454603/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/454/4454603/?rss</guid>
-<pubDate>Wed, 25 Nov 2026 05:45:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>OpenAIが日本時間11月24日に告知したGPT-5.6の非推奨化に対し、旧モデルを引き続き選べるよう求める声が出ている。 — ASCII.jp / score: 75 (主要AIプラットフォームのモデル非推奨化)</description>
 </item>
 <item>
 <title>[75] Anthropicが「わざとセキュリティの甘いサンドボックスにAIを配置して行動を観察する」というセキュリティ評価手法「Siren」について解説</title>
@@ -661,6 +693,14 @@
 <pubDate>Mon, 23 Nov 2026 23:40:49 +0000</pubDate>
 <category>Simon Willison</category>
 <description>GLM-5.4: Toward Generalized Coding with Our First Loop Transformer GLM 5.4 is now available from Chinese AI lab Z.ai. It's their first model to use a looped transformer architecture, which they describe like this: In a standard Transformer, each layer runs once per forward pass. In a Loop Transformer, a group of weight-shared layers runs for multiple iterations, refining the hidden states from the previous pass. This gives us a deeper network without increasing the parameter count. This is the s — Simon Willison / score: 75 (ループ型トランスフォーマーを採用した新モデルの登場)</description>
+</item>
+<item>
+<title>[75] IBM i 7.6 PTF SJ11502適用 で 5400,5577/5579の直接接続,PCOMM経由で印刷不能になる件</title>
+<link>https://qiita.com/gomAnomalocaris/items/bbb5573f0e53e6652255?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/gomAnomalocaris/items/bbb5573f0e53e6652255?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Mon, 23 Nov 2026 22:36:34 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>IBM Docs、発表レター、テクニカルフラッシュなど Telnetプリンタセッションの権限変更 https://www.ibm.com/docs/ja/i/7.6.0?topic=changes-authority-telnet-printer-sessions 【TF... — Qiita 人気記事 / score: 75 (IBM iのPTF適用による深刻な印刷不能障害の注意喚起)</description>
 </item>
 <item>
 <title>[75] なぜ 11 月に日本のサイバー事故は「爆発」したのか — 605件を数えたら「日本が狙われている」だけではなかった</title>
@@ -765,46 +805,6 @@
 <pubDate>Thu, 19 Nov 2026 23:08:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>マイクロソフトは11月13日、これまでWindowsのオンデバイス言語モデルとして提供されてきたPhi Silicaを、新たな言語モデルであるAion Instructに置き換えると発表した。2027年1月にはAion Instructが一般の端末に提供される予定で、かなり差し迫ったタイミングでの発表となった。 — 窓の杜 / score: 75 (Windows内蔵オンデバイス言語モデルの大規模な刷新)</description>
-</item>
-<item>
-<title>[75] Introducing Tool Retrieval in the Gemini API</title>
-<link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/</link>
-<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/</guid>
-<pubDate>Thu, 19 Nov 2026 18:00:00 +0000</pubDate>
-<category>Google AI Blog</category>
-<description>Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API. — Google AI Blog / score: 75 (Gemini APIの新機能プレビュー公開)</description>
-</item>
-<item>
-<title>[75] 約2,500万人のデータで「Firefox」の“指紋”対策を強化 ～Mozillaが研究成果を発表／一意に識別されるユーザーの割合を75％から46％に削減</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2157865.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2157865.html</guid>
-<pubDate>Thu, 19 Nov 2026 09:04:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Mozillaは11月10日（現地時間）、ブラウザーフィンガープリンティングに関する大規模な研究の成果を公式ブログ「Mozilla Security Blog」で明らかにした。約2,500万人の「Firefox」ユーザーから集めた計測データを分析し、ユーザーの識別に利用されている情報を特定。その知見をもとに、「Firefox」のフィンガープリンティング対策を強化したという。 — 窓の杜 / score: 75 (Firefoxの大規模データに基づく指紋対策強化)</description>
-</item>
-<item>
-<title>[75] Microsoft AI、「MAI Code 2」など新モデル7つを一挙投入【Ignite 2026】／コーディング、セキュリティ、画像、音声、判断の各分野で“価格性能比”を追求</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2157844.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2157844.html</guid>
-<pubDate>Thu, 19 Nov 2026 06:37:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Microsoftは11月17日（現地時間）、年次開発者イベント「Microsoft Ignite 2026」で、同社のAI部門Microsoft AI（MAI）が開発した7つの新しいモデル群を発表した。トークン消費が急増するなか、エージェントを24時間365日動かせるだけの“価格性能比”を重視したという。発表されたおもなモデルは、以下の通り。 — 窓の杜 / score: 75 (Microsoft Ignite 2026での新AIモデル群の発表)</description>
-</item>
-<item>
-<title>[75] Explore the Codex Security Plugin</title>
-<link>https://openai.com/business/learn/codex-security-plugin-demo</link>
-<guid isPermaLink="true">https://openai.com/business/learn/codex-security-plugin-demo</guid>
-<pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording. — OpenAI News / score: 75 (OpenAIのセキュリティプラグイン紹介)</description>
-</item>
-<item>
-<title>[75] AWS Lambda now supports GPU instances for Event Functions on Lambda Managed Instances</title>
-<link>https://aws.amazon.com/blogs/aws/aws-lambda-now-supports-gpu-instances-for-event-functions-on-lambda-managed-instances/</link>
-<guid isPermaLink="true">https://aws.amazon.com/blogs/aws/aws-lambda-now-supports-gpu-instances-for-event-functions-on-lambda-managed-instances/</guid>
-<pubDate>Wed, 18 Nov 2026 19:39:07 +0000</pubDate>
-<category>AWS News Blog</category>
-<description>AWS Lambda now supports GPU instances (G-series) for Event Functions running on Lambda Managed Instances, enabling serverless GPU workloads like machine learning inference, media processing, and rendering. Lambda handles all infrastructure tasks, including instance lifecycle, driver management, and auto scaling, while maximizing GPU utilization across concurrent requests with standard EC2 pricing plus a management fee — AWS News Blog / score: 75 (サーバーレスでのGPUワークロード実行が可能に)</description>
 </item>
 </channel>
 </rss>
