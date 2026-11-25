@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 25 Nov 2026 20:05:44 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 22:05:52 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「GitLab」に緊急パッチ、リモートコード実行のおそれのある「Ruby2Shell」脆弱性に対処／v19.6.1/v19.5.8/v19.4.10が公開</title>
@@ -23,20 +23,20 @@
 <description>スクリプト言語「Ruby」の開発チームは11月18日（現地時間）、「Ruby」の正規表現エンジンと、文字列の大文字・小文字変換に、7件の脆弱性が見つかったことを明らかにした。一部についてはリモートコード実行（RCE）を引き起こせることを示す実証コード（PoC）の存在も確認されているとのことで、修正版へのアップデートが強く推奨されている。 — 窓の杜 / score: 95 (Rubyのクリティカルな脆弱性とRCEの危険性)</description>
 </item>
 <item>
-<title>[95] Webサーバー「nginx」に10件の脆弱性 ～HTTP/2実装の欠陥は未認証でリモートコード実行も【11月25日追記】／「CVE-2026-123633」「CVE-2026-123007」に警戒、v1.30.7/v1.31.9で修正</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2157695.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2157695.html</guid>
-<pubDate>Thu, 19 Nov 2026 02:35:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米F5は11月18日（現地時間）、Webサーバー「nginx」（エンジンエックス）の安定版（stable）v1.30.7と開発版（mainline）v1.31.9を公開した。10件の脆弱性が修正されたセキュリティアップデートとなっている。 — 窓の杜 / score: 95 (nginxの複数の深刻な脆弱性と修正の公開)</description>
-</item>
-<item>
 <title>[95] Introducing GPT-6.2 Astra and Sol</title>
 <link>https://openai.com/index/introducing-gpt-6-2-astra-sol</link>
 <guid isPermaLink="true">https://openai.com/index/introducing-gpt-6-2-astra-sol</guid>
 <pubDate>Tue, 17 Nov 2026 17:45:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API. — OpenAI News / score: 95 (主要なAIモデルのメジャーリリースと機能強化)</description>
+</item>
+<item>
+<title>[90] Update on a security incident involving 1Password’s backend systems. | 1Password</title>
+<link>https://1password.com/blog/update-on-nov-2026-security-incident</link>
+<guid isPermaLink="true">https://1password.com/blog/update-on-nov-2026-security-incident</guid>
+<pubDate>Wed, 25 Nov 2026 18:52:09 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>What happenedOn November 19, 2026, 1Password began investigating indications that an attacker gained access to an employee’s corporate GitHub account. The actor used the account to access source code and push malicious code to backend services, which downloaded administrative data pertaining to o... — はてなブックマーク テクノロジー / score: 90 (1Passwordでセキュリティインシデントが発生し深刻)</description>
 </item>
 <item>
 <title>[90] 「Thunderbird 161.0」が公開、OpenPGPメールの差出人を偽装できる致命的な欠陥など115件の脆弱性に対処／多くの不具合も修正</title>
@@ -207,20 +207,20 @@
 <description>食品の宅配サービスを手がける「パルシステム生活協同組合連合会」は、注文サイトやアプリで一部使っている、外部の「KARTE」というサービスが不正アクセスを受け、顧客の情報199万7000件余りが漏えいし… — はてなブックマーク テクノロジー / score: 85 (約200万件の重大な顧客情報漏えいインシデント)</description>
 </item>
 <item>
-<title>[85] 「Todoist」に不正アクセス、ユーザーの約6％でメールアドレスとパスワードハッシュが流出／廃止予定の「Microsoft To Do」の代替として期待されるタスク管理サービスだが……</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2159145.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2159145.html</guid>
-<pubDate>Wed, 25 Nov 2026 08:21:06 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>「Todoist」に不正アクセス、ユーザーの約6％でメールアドレスとパスワードハッシュが流出／廃止予定の「Microsoft To Do」の代替として期待されるタスク管理サービスだが…… — はてなブックマーク テクノロジー / score: 85 (Todoistの不正アクセスによるユーザー情報流出)</description>
-</item>
-<item>
 <title>[85] Google、Gmailやドライブなど8サービス向けのWorkspace MCPサーバーと公式CLI「gwscli」を一般提供</title>
 <link>https://gihyo.jp/article/2026/11/google-workspace-mcp-and-cli?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/11/google-workspace-mcp-and-cli?utm_source=feed</guid>
 <pubDate>Wed, 25 Nov 2026 08:01:38 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Googleは2026年11月24日、AIエージェントからGmailやドライブなどを操作できる「Google Workspace MCPサーバー」と、公式コマンドラインツール「Google Workspace CLI」の一般提供を発表した。公式CLI（gwscli）のWindows版、macOS版、Linux版は、すでにインストールページからダウンロードできる。 — gihyo.jp / score: 85 (Google Workspace MCPと公式CLIの一般提供)</description>
+</item>
+<item>
+<title>[85] 「Todoist」に不正アクセス、ユーザーの約6％でメールアドレスとパスワードハッシュが流出／廃止予定の「Microsoft To Do」の代替として期待されるタスク管理サービスだが……</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2159145.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2159145.html</guid>
+<pubDate>Wed, 25 Nov 2026 07:42:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Todoistは11月24日（現地時間）、タスク管理サービス「Todoist」の本番システムが不正アクセスを受け、一部の顧客情報が取得されたと発表した。攻撃に使われた経路はすでに遮断され、影響を受けたアカウントには保護措置が講じられているとのこと。対象のユーザーにはメールで詳細が通知されており、メールが届いていなければ対応は不要だという。 — 窓の杜 / score: 85 (Todoistの不正アクセスによるユーザー情報流出)</description>
 </item>
 <item>
 <title>[85] [AINews] Gemini 4 Neon marks GDM's full return as a Frontier Lab</title>
@@ -647,14 +647,6 @@
 <description>GLM-5.4: Toward Generalized Coding with Our First Loop Transformer GLM 5.4 is now available from Chinese AI lab Z.ai. It's their first model to use a looped transformer architecture, which they describe like this: In a standard Transformer, each layer runs once per forward pass. In a Loop Transformer, a group of weight-shared layers runs for multiple iterations, refining the hidden states from the previous pass. This gives us a deeper network without increasing the parameter count. This is the s — Simon Willison / score: 75 (ループ型トランスフォーマーを採用した新モデルの登場)</description>
 </item>
 <item>
-<title>[75] IBM i 7.6 PTF SJ11502適用 で 5400,5577/5579の直接接続,PCOMM経由で印刷不能になる件</title>
-<link>https://qiita.com/gomAnomalocaris/items/bbb5573f0e53e6652255?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/gomAnomalocaris/items/bbb5573f0e53e6652255?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Mon, 23 Nov 2026 22:36:34 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>IBM Docs、発表レター、テクニカルフラッシュなど Telnetプリンタセッションの権限変更 https://www.ibm.com/docs/ja/i/7.6.0?topic=changes-authority-telnet-printer-sessions 【TF... — Qiita 人気記事 / score: 75 (IBM iのPTF適用による深刻な印刷不能障害の注意喚起)</description>
-</item>
-<item>
 <title>[75] なぜ 11 月に日本のサイバー事故は「爆発」したのか — 605件を数えたら「日本が狙われている」だけではなかった</title>
 <link>https://qiita.com/songchong/items/073f202bb0ca65611b30?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
 <guid isPermaLink="true">https://qiita.com/songchong/items/073f202bb0ca65611b30?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
@@ -805,6 +797,14 @@
 <pubDate>Wed, 18 Nov 2026 16:00:37 +0000</pubDate>
 <category>Publickey</category>
 <description>マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、AIによるサイバー攻撃に対抗するためのAIエージェントによる新サービス「Microsoft Perception」の提供開始を発... — Publickey / score: 75 (マイクロソフトのAIセキュリティ新サービスの発表)</description>
+</item>
+<item>
+<title>[75] Advancing chip design with OpenAI models</title>
+<link>https://openai.com/index/advancing-chip-design-with-our-models</link>
+<guid isPermaLink="true">https://openai.com/index/advancing-chip-design-with-our-models</guid>
+<pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra. — OpenAI News / score: 75 (AIを活用したチップ設計の進展に関するニュース。)</description>
 </item>
 </channel>
 </rss>
