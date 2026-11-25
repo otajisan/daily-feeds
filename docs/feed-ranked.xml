@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 25 Nov 2026 18:07:31 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 20:05:44 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「GitLab」に緊急パッチ、リモートコード実行のおそれのある「Ruby2Shell」脆弱性に対処／v19.6.1/v19.5.8/v19.4.10が公開</title>
@@ -197,14 +197,6 @@
 <pubDate>Wed, 25 Nov 2026 09:30:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>Microsoftのクラウドサービス「Microsoft 365」で2026年11月13日に世界規模の大規模障害が発生しました。これを受けてMicrosoftは、重大なサービス障害の防止および対応方法を抜本的に見直すため、「コードレッド」体制を宣言しました。 続きを読む... — GIGAZINE / score: 85 (M365大規模障害を受けたMicrosoftのコードレッド宣言)</description>
-</item>
-<item>
-<title>[85] M＆A仲介会社に不正アクセス 最大数千社分の顧客情報漏えいか | NHKニュース</title>
-<link>https://news.web.nhk/newsweb/na/nd-20261125de81289</link>
-<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261125de81289</guid>
-<pubDate>Wed, 25 Nov 2026 09:13:49 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>中小企業の事業承継や買収、合併の仲介などを手がける「MJS M＆Aパートナーズ」は、社内ネットワークが不正アクセスを受け、最大で数千社分の顧客情報が外部に漏えいしたおそれがあると発表しました。 会… — はてなブックマーク テクノロジー / score: 85 (企業への不正アクセスと数千社規模の顧客情報漏えい)</description>
 </item>
 <item>
 <title>[85] パルシステムの顧客情報 約200万件が漏えい | NHKニュース</title>
@@ -567,14 +559,6 @@
 <description>Googleは2026年11月11日、精度が高く高速なマルチモーダル意思決定モデル「Gemini Decision 1」と、これをGoogle AI Studioを通じて利用できる新しいAPI「Gemini Decisions API」を発表した。 — gihyo.jp / score: 80 (Googleの新しい意思決定モデルおよびAPIの発表)</description>
 </item>
 <item>
-<title>[80] Test your applications against AWS locally with AWS Emulator</title>
-<link>https://aws.amazon.com/blogs/aws/test-your-applications-against-aws-locally-with-aws-emulator/</link>
-<guid isPermaLink="true">https://aws.amazon.com/blogs/aws/test-your-applications-against-aws-locally-with-aws-emulator/</guid>
-<pubDate>Wed, 11 Nov 2026 19:00:44 +0000</pubDate>
-<category>AWS News Blog</category>
-<description>AWS Emulator is a free, open-source local emulator in Rust that lets developers test applications against nearly every AWS service on their own machine using the same CLI and SDK commands, with fidelity measured against real AWS behavior. — AWS News Blog / score: 80 (AWSのローカルエミュレータツールリリース)</description>
-</item>
-<item>
 <title>[75] MCPに新機能「Skills over MCP」登場。ツールとの接続だけでなく使い方のスキルもMCP経由で提供</title>
 <link>https://www.publickey1.jp/blog/26/mcpskills_over_mcpmcp.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/mcpskills_over_mcpmcp.html</guid>
@@ -605,14 +589,6 @@
 <pubDate>Wed, 25 Nov 2026 07:37:06 +0000</pubDate>
 <category>Spring Boot リリース</category>
 <description>⭐ New Features Refine forwarded header support #52800 Deprecate Apache Pulsar support #52752 🐞 Bug Fixes Properties migrator does not migrate some properties renamed in 4.0 #52809 Reactive web servers no longer use forwarded headers on a cloud platform after #52800 #52806 Class loading fails with 'Zip file closed' can still be thrown under concurrent access #52803 Auto-configured PulsarTransactionManager is not customized by TransactionManagerCustomizers #52783 InspectedContent records the wrong — Spring Boot リリース / score: 75 (人気フレームワークSpring Boot v4.2.0のリリース)</description>
-</item>
-<item>
-<title>[75] EXT4に4万行のAI生成コード、rcサイクル終盤の投入にトーバルズ氏が警告</title>
-<link>https://joho-todai.com/ext4-ai-generated-code-linus-warning/</link>
-<guid isPermaLink="true">https://joho-todai.com/ext4-ai-generated-code-linus-warning/</guid>
-<pubDate>Wed, 25 Nov 2026 05:26:03 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>EXT4メンテナがLinux 7.4-rc5向けに送った4万1197行のプルリクエスト。大半はAI生成のテストと修正で、トーバルズ氏はマージしたうえで「次は無視する」と警告した。 4万1197行のプルリクエストEXT4ファイルシステムのメンテナであるテッド・ツォ（Theodore Ts'o）氏が米国時間2026年11月24日、Linux 7.4-rc5向けのプル... — はてなブックマーク テクノロジー / score: 75 (LinuxカーネルへのAI生成コード導入と警告の話題)</description>
 </item>
 <item>
 <title>[75] Anthropicが「わざとセキュリティの甘いサンドボックスにAIを配置して行動を観察する」というセキュリティ評価手法「Siren」について解説</title>
@@ -805,6 +781,30 @@
 <pubDate>Thu, 19 Nov 2026 06:37:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Microsoftは11月17日（現地時間）、年次開発者イベント「Microsoft Ignite 2026」で、同社のAI部門Microsoft AI（MAI）が開発した7つの新しいモデル群を発表した。トークン消費が急増するなか、エージェントを24時間365日動かせるだけの“価格性能比”を重視したという。発表されたおもなモデルは、以下の通り。 — 窓の杜 / score: 75 (Microsoft Ignite 2026での新AIモデル群の発表)</description>
+</item>
+<item>
+<title>[75] Explore the Codex Security Plugin</title>
+<link>https://openai.com/business/learn/codex-security-plugin-demo</link>
+<guid isPermaLink="true">https://openai.com/business/learn/codex-security-plugin-demo</guid>
+<pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording. — OpenAI News / score: 75 (OpenAIのセキュリティプラグイン紹介)</description>
+</item>
+<item>
+<title>[75] AWS Lambda now supports GPU instances for Event Functions on Lambda Managed Instances</title>
+<link>https://aws.amazon.com/blogs/aws/aws-lambda-now-supports-gpu-instances-for-event-functions-on-lambda-managed-instances/</link>
+<guid isPermaLink="true">https://aws.amazon.com/blogs/aws/aws-lambda-now-supports-gpu-instances-for-event-functions-on-lambda-managed-instances/</guid>
+<pubDate>Wed, 18 Nov 2026 19:39:07 +0000</pubDate>
+<category>AWS News Blog</category>
+<description>AWS Lambda now supports GPU instances (G-series) for Event Functions running on Lambda Managed Instances, enabling serverless GPU workloads like machine learning inference, media processing, and rendering. Lambda handles all infrastructure tasks, including instance lifecycle, driver management, and auto scaling, while maximizing GPU utilization across concurrent requests with standard EC2 pricing plus a management fee — AWS News Blog / score: 75 (サーバーレスでのGPUワークロード実行が可能に)</description>
+</item>
+<item>
+<title>[75] マイクロソフト、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始</title>
+<link>https://www.publickey1.jp/blog/26/aiaimicrosoft_perception.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/aiaimicrosoft_perception.html</guid>
+<pubDate>Wed, 18 Nov 2026 16:00:37 +0000</pubDate>
+<category>Publickey</category>
+<description>マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、AIによるサイバー攻撃に対抗するためのAIエージェントによる新サービス「Microsoft Perception」の提供開始を発... — Publickey / score: 75 (マイクロソフトのAIセキュリティ新サービスの発表)</description>
 </item>
 </channel>
 </rss>
