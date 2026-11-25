@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 25 Nov 2026 14:06:58 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 16:07:56 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「GitLab」に緊急パッチ、リモートコード実行のおそれのある「Ruby2Shell」脆弱性に対処／v19.6.1/v19.5.8/v19.4.10が公開</title>
@@ -53,14 +53,6 @@
 <pubDate>Wed, 25 Nov 2026 04:05:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Broadcomは11月24日（現地時間）、セキュリティアドバイザリ「VMSA-2026-0011」を公開した。「VMware ESX」「VMware vCenter」「VMware Workstation」「VMware Fusion」「VMware Tools」「VMware Avi Load Balancer」に存在する、計23件の脆弱性が明らかにされている。深刻度は最大で「Critical」（CVSS 9.8）。 — 窓の杜 / score: 90 (VMware製品群に存在す致命的脆弱性の修正)</description>
-</item>
-<item>
-<title>[90] 楽天証券、顧客からの預かり資産残高168万件漏洩　性別や国籍も - 日本経済新聞</title>
-<link>https://www.nikkei.com/article/DGXZQOUB24AXS0U6A121C2000000/</link>
-<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUB24AXS0U6A121C2000000/</guid>
-<pubDate>Tue, 24 Nov 2026 21:28:35 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>不正アクセスによる顧客情報流出を巡って楽天証券は24日、追加の調査結果を公表した。株式など顧客からの預かり資産残高の情報が約168万口座分漏洩した。性別や国籍など7項目の漏洩も新たに確認したと明らかにした。国内株や投資信託などの商品区分別での残高情報が漏れた。個別の保有銘柄や過去の取引履歴の情報は含ま... — はてなブックマーク テクノロジー / score: 90 (大規模な顧客情報漏洩という重大なセキュリティインシデント)</description>
 </item>
 <item>
 <title>[90] 画像アップロードだけでサーバー乗っ取り？ 「Ghostscript」の脆弱性「Upload2Shell」／「WordPress」「Roundcube」などで攻撃成立、対策版への更新を</title>
@@ -237,6 +229,14 @@
 <pubDate>Wed, 25 Nov 2026 09:13:49 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>中小企業の事業承継や買収、合併の仲介などを手がける「MJS M＆Aパートナーズ」は、社内ネットワークが不正アクセスを受け、最大で数千社分の顧客情報が外部に漏えいしたおそれがあると発表しました。 会… — はてなブックマーク テクノロジー / score: 85 (企業への不正アクセスと数千社規模の顧客情報漏えい)</description>
+</item>
+<item>
+<title>[85] パルシステムの顧客情報 約200万件が漏えい | NHKニュース</title>
+<link>https://news.web.nhk/newsweb/na/nd-20261125de81299</link>
+<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261125de81299</guid>
+<pubDate>Wed, 25 Nov 2026 09:10:54 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>食品の宅配サービスを手がける「パルシステム生活協同組合連合会」は、注文サイトやアプリで一部使っている、外部の「KARTE」というサービスが不正アクセスを受け、顧客の情報199万7000件余りが漏えいし… — はてなブックマーク テクノロジー / score: 85 (約200万件の重大な顧客情報漏えいインシデント)</description>
 </item>
 <item>
 <title>[85] 「Todoist」に不正アクセス、ユーザーの約6％でメールアドレスとパスワードハッシュが流出／廃止予定の「Microsoft To Do」の代替として期待されるタスク管理サービスだが……</title>
@@ -495,12 +495,12 @@
 <description> — CodeZine / score: 80 (Red Hat OpenShift 5の一般提供開始と新機能)</description>
 </item>
 <item>
-<title>[80] 公表資料から読む2026年10〜11月の情報漏えい23件：侵入経路はどこだったのか</title>
-<link>https://zenn.dev/shirochan/articles/f579abb8be4b1e</link>
-<guid isPermaLink="true">https://zenn.dev/shirochan/articles/f579abb8be4b1e</guid>
-<pubDate>Tue, 24 Nov 2026 11:22:50 +0000</pubDate>
+<title>[80] Claude Code のセキュリティ、2026年11月時点のベストプラクティス（サンドボックス・権限・MCP）</title>
+<link>https://zenn.dev/happy_elements/articles/27e14ff6754044</link>
+<guid isPermaLink="true">https://zenn.dev/happy_elements/articles/27e14ff6754044</guid>
+<pubDate>Wed, 25 Nov 2026 03:53:12 +0000</pubDate>
 <category>Zenn トレンド</category>
-<description>! この記事の要点（2026年11月24日時点） 10月28日〜11月24日に初めて公表された国内の不正アクセス・漏えい（可能性を含む）23件を、各社と公的機関の発表で整理 メール配信サービスのアララでは、持ち出されたメールアドレスが81,329,467件。サービスが悪用され、カード会社を装った不審なメールも最大約713万通送られた 理化学研究所は、インターネットに公開されていた「富岳」の稼働状況のダッシュボードを足がかりに、内部へ侵入された 原因・入口が公表されたのは23件中9件。うち3件は、委託先が不正アクセスを受けたと利用企業が公表したもの 京王電鉄は、9月26日に公表していたラ... — Zenn トレンド / score: 80 (直近の情報漏えい事案と侵入経路の分析まとめ)</description>
+<description>Claude に実行を任せた Bash コマンドは、Claude Code を起動したマシンの上で、自分のユーザー権限で動きます。Mac のターミナルで起動したなら、その Mac です。サンドボックスをオンにしても動く場所は同じで、変わるのは、実行中のコマンドがアクセスできるファイルと通信先の制限です。 2026 年 11 月時点の公式ドキュメントと changelog をもとに、Claude Code CLI の権限ルール、Bash サンドボックス、MCP の設定をサンプルとチェックリストにまとめました。認証情報を使わずに、ダミーファイルで読み取り制限を確認する手順も載せています。 実... — Zenn トレンド / score: 80 (Claude Codeのセキュリティとベストプラクティス)</description>
 </item>
 <item>
 <title>[80] 「PHP 8.6」が正式リリース、関数型っぽく書ける「Partial Function Application」などを導入／経過時間を表す「Duration」クラスや「clamp()」関数も。2030年末までサポート</title>
@@ -607,6 +607,14 @@
 <description>AWS Emulator is a free, open-source local emulator in Rust that lets developers test applications against nearly every AWS service on their own machine using the same CLI and SDK commands, with fidelity measured against real AWS behavior. — AWS News Blog / score: 80 (AWSのローカルエミュレータツールリリース)</description>
 </item>
 <item>
+<title>[75] MCPに新機能「Skills over MCP」登場。ツールとの接続だけでなく使い方のスキルもMCP経由で提供</title>
+<link>https://www.publickey1.jp/blog/26/mcpskills_over_mcpmcp.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/mcpskills_over_mcpmcp.html</guid>
+<pubDate>Wed, 25 Nov 2026 15:29:05 +0000</pubDate>
+<category>Publickey</category>
+<description>AIエージェントと外部ツールを接続する業界標準となっているMCP（Model Context Protocol）に、新機能として「Skills over MCP」がβ版として追加されました。 Skills over MCPを利用することで、... — Publickey / score: 75 (MCPの新機能ベータ版に関する注目の技術動向)</description>
+</item>
+<item>
 <title>[75] OpenAIの最新モデルに酷評の嵐。本当の勝者はAnthropic？</title>
 <link>https://www.gizmodo.jp/article/2611-openai-gpt-6-2-reviews-anthropic/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/2611-openai-gpt-6-2-reviews-anthropic/</guid>
@@ -645,14 +653,6 @@
 <pubDate>Wed, 25 Nov 2026 04:44:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>AIエージェントをテストする際は、外部から隔離された「サンドボックス」という環境で稼働させることがあります。しかし、OpenAIのAIエージェントがHugging Faceをハッキングしてしまった件のように、サンドボックス自体に欠陥がありAIエージェントが密かに抜け出してしまう例も少なくありません。こうした欠陥のある状況でAIエージェントがどう行動するかを評価する手法「Siren」をAnthropicが考案し、その仕組みを解説しました。 続きを読む... — GIGAZINE / score: 75 (AIセキュリティ評価の新手法Sirenの解説)</description>
-</item>
-<item>
-<title>[75] Rubyを安心して使い続けるために</title>
-<link>https://www.ruby.or.jp/ja/news/20261125</link>
-<guid isPermaLink="true">https://www.ruby.or.jp/ja/news/20261125</guid>
-<pubDate>Wed, 25 Nov 2026 03:12:19 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Rubyを安心して使い続けるために AIの登場によりソフトウェアを取り巻く状況が変化しています。AIを使えば、ソフトウェアの脆弱性を見つけることも、見つけた脆弱性を攻撃に使うことも、これまでよりはるかに速くできるようになりました。かつては公表から悪用まで数週間から数か月の猶予がありましたが、いまでは数日、... — はてなブックマーク テクノロジー / score: 75 (AI時代のセキュリティリスクに対する警鐘)</description>
 </item>
 <item>
 <title>[75] DeepSeek、APIにWeb検索機能を追加　OCRや音声など5つの単体APIも公開</title>
