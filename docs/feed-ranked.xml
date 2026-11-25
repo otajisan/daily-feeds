@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Wed, 25 Nov 2026 16:07:56 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 18:07:31 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「GitLab」に緊急パッチ、リモートコード実行のおそれのある「Ruby2Shell」脆弱性に対処／v19.6.1/v19.5.8/v19.4.10が公開</title>
@@ -175,30 +175,6 @@
 <description>Today, we’re introducing Gemini 4 Hydrogen, our daily driver for agentic workflows — Gemini (Google Blog) / score: 90 (エージェント型ワークフロー向け新モデルの発表。)</description>
 </item>
 <item>
-<title>[90] 2026-11-11, Version 26.13.1 'Lithium' (LTS), @aduh95</title>
-<link>https://github.com/nodejs/node/releases/tag/v26.13.1</link>
-<guid isPermaLink="true">https://github.com/nodejs/node/releases/tag/v26.13.1</guid>
-<pubDate>Wed, 11 Nov 2026 16:44:25 +0000</pubDate>
-<category>Node.js リリース</category>
-<description>This is a security release. Notable Changes ( CVE-2026-123863 ) http2: release headers when a stream is removed (Matteo Collina) – High ( CVE-2026-123864 ) tls,http: prevent nested parser execution from empty writes (Matteo Collina) – High ( CVE-2026-123865 ) http2: detect streams abandoned by nghttp2 (Matteo Collina) – High ( CVE-2026-123866 ) http2: retain buffers until socket writes finish (Matteo Collina) – High ( CVE-2026-123872 ) tls: disable resumption for mTLS with no session id context  — Node.js リリース / score: 90 (Node.js v26の重要なセキュリティアップデートとCVE修正)</description>
-</item>
-<item>
-<title>[90] 2026-11-11, Version 24.22.3 'Krypton' (LTS), @aduh95</title>
-<link>https://github.com/nodejs/node/releases/tag/v24.22.3</link>
-<guid isPermaLink="true">https://github.com/nodejs/node/releases/tag/v24.22.3</guid>
-<pubDate>Wed, 11 Nov 2026 16:44:08 +0000</pubDate>
-<category>Node.js リリース</category>
-<description>This is a security release. Notable Changes ( CVE-2026-123863 ) http2: release headers when a stream is removed (Matteo Collina) – High ( CVE-2026-123864 ) tls,http: prevent nested parser execution from empty writes (Matteo Collina) – High ( CVE-2026-123865 ) http2: detect streams abandoned by nghttp2 (Matteo Collina) – High ( CVE-2026-123866 ) http2: retain buffers until socket writes finish (Matteo Collina) – High ( CVE-2026-123872 ) tls: disable resumption for mTLS with no session id context  — Node.js リリース / score: 90 (Node.js v24 LTSの重要なセキュリティアップデート)</description>
-</item>
-<item>
-<title>[90] 2026-11-11, Version 22.23.5 'Jod' (LTS), @aduh95</title>
-<link>https://github.com/nodejs/node/releases/tag/v22.23.5</link>
-<guid isPermaLink="true">https://github.com/nodejs/node/releases/tag/v22.23.5</guid>
-<pubDate>Wed, 11 Nov 2026 16:44:03 +0000</pubDate>
-<category>Node.js リリース</category>
-<description>This is a security release. Notable Changes ( CVE-2026-123863 ) http2: release headers when a stream is removed (Matteo Collina) – High ( CVE-2026-123864 ) tls,http: prevent nested parser execution from empty writes (Matteo Collina) – High ( CVE-2026-123865 ) http2: detect streams abandoned by nghttp2 (Matteo Collina) – High ( CVE-2026-123866 ) http2: retain buffers until socket writes finish (Matteo Collina) – High ( CVE-2026-123872 ) tls: disable resumption for mTLS with no session id context  — Node.js リリース / score: 90 (Node.js v22 LTSの重要なセキュリティアップデート)</description>
-</item>
-<item>
 <title>[88] Introducing Gemini 4 Neon</title>
 <link>https://deepmind.google/blog/introducing-gemini-4-neon/</link>
 <guid isPermaLink="true">https://deepmind.google/blog/introducing-gemini-4-neon/</guid>
@@ -253,14 +229,6 @@
 <pubDate>Wed, 25 Nov 2026 08:01:38 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Googleは2026年11月24日、AIエージェントからGmailやドライブなどを操作できる「Google Workspace MCPサーバー」と、公式コマンドラインツール「Google Workspace CLI」の一般提供を発表した。公式CLI（gwscli）のWindows版、macOS版、Linux版は、すでにインストールページからダウンロードできる。 — gihyo.jp / score: 85 (Google Workspace MCPと公式CLIの一般提供)</description>
-</item>
-<item>
-<title>[85] タイムズカー免許画像漏えいの見舞金、「現金かカーシェアeチケット3000円分」　12月1日から案内</title>
-<link>https://www.itmedia.co.jp/news/article/2611/25/2000003443/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/25/2000003443/</guid>
-<pubDate>Wed, 25 Nov 2026 06:59:49 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>パーク24は11月25日、傘下のカーシェアリングサービス「タイムズカー」への不正アクセスによる情報漏えいで、本人確認書類の画像データが漏えいした可能性がある会員に対して、見舞金として現金3000円または3000円分のカーシェアeチケットを提供すると発表した。 退会済みや未入会の人には現金で3000円を支払う。12月1日... — はてなブックマーク テクノロジー / score: 85 (大規模な個人情報流出に対する見舞金対応のニュース)</description>
 </item>
 <item>
 <title>[85] [AINews] Gemini 4 Neon marks GDM's full return as a Frontier Lab</title>
@@ -805,6 +773,38 @@
 <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality. — OpenAI News / score: 75 (金融リサーチにおけるGPT-6 Astraの評価と改善事例)</description>
+</item>
+<item>
+<title>[75] さよならPhi Silica、ようこそAion Instruct。Windows内蔵の言語モデルが刷新【使ってわかるAI PC】</title>
+<link>https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2158020.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2158020.html</guid>
+<pubDate>Thu, 19 Nov 2026 23:08:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>マイクロソフトは11月13日、これまでWindowsのオンデバイス言語モデルとして提供されてきたPhi Silicaを、新たな言語モデルであるAion Instructに置き換えると発表した。2027年1月にはAion Instructが一般の端末に提供される予定で、かなり差し迫ったタイミングでの発表となった。 — 窓の杜 / score: 75 (Windows内蔵オンデバイス言語モデルの大規模な刷新)</description>
+</item>
+<item>
+<title>[75] Introducing Tool Retrieval in the Gemini API</title>
+<link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/</link>
+<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/</guid>
+<pubDate>Thu, 19 Nov 2026 18:00:00 +0000</pubDate>
+<category>Google AI Blog</category>
+<description>Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API. — Google AI Blog / score: 75 (Gemini APIの新機能プレビュー公開)</description>
+</item>
+<item>
+<title>[75] 約2,500万人のデータで「Firefox」の“指紋”対策を強化 ～Mozillaが研究成果を発表／一意に識別されるユーザーの割合を75％から46％に削減</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2157865.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2157865.html</guid>
+<pubDate>Thu, 19 Nov 2026 09:04:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Mozillaは11月10日（現地時間）、ブラウザーフィンガープリンティングに関する大規模な研究の成果を公式ブログ「Mozilla Security Blog」で明らかにした。約2,500万人の「Firefox」ユーザーから集めた計測データを分析し、ユーザーの識別に利用されている情報を特定。その知見をもとに、「Firefox」のフィンガープリンティング対策を強化したという。 — 窓の杜 / score: 75 (Firefoxの大規模データに基づく指紋対策強化)</description>
+</item>
+<item>
+<title>[75] Microsoft AI、「MAI Code 2」など新モデル7つを一挙投入【Ignite 2026】／コーディング、セキュリティ、画像、音声、判断の各分野で“価格性能比”を追求</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2157844.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2157844.html</guid>
+<pubDate>Thu, 19 Nov 2026 06:37:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Microsoftは11月17日（現地時間）、年次開発者イベント「Microsoft Ignite 2026」で、同社のAI部門Microsoft AI（MAI）が開発した7つの新しいモデル群を発表した。トークン消費が急増するなか、エージェントを24時間365日動かせるだけの“価格性能比”を重視したという。発表されたおもなモデルは、以下の通り。 — 窓の杜 / score: 75 (Microsoft Ignite 2026での新AIモデル群の発表)</description>
 </item>
 </channel>
 </rss>
