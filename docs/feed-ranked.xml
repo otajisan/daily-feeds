@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 26 Nov 2026 16:07:13 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 18:07:46 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Apache Tomcat」に“致命的”な脆弱性、修正版は未公開／未認証ノードがクラスターに参加可能に。対象環境では「TLS 1.2」への切り替えを推奨</title>
@@ -53,14 +53,6 @@
 <pubDate>Wed, 25 Nov 2026 22:55:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>加AgileBitsは11月25日（現地時間、以下同）、パスワード管理サービス「1Password」のバックエンドシステムの一部が不正アクセスを受け、一部顧客の氏名やメールアドレスなどが流出したと発表した。同社によると、ユーザーのパスワード保管庫（Vault）の中身や、それを保護する鍵への影響はなかった。 — 窓の杜 / score: 90 (1Passwordのセキュリティインシデント報道)</description>
-</item>
-<item>
-<title>[90] 1Password、従業員のGitHubアカウント経由で顧客の氏名とメールアドレスが流出したと発表 — BigGo ファイナンス</title>
-<link>https://finance.biggo.jp/news/86bd3431-ad2e-4b18-b885-4fb6393beb46</link>
-<guid isPermaLink="true">https://finance.biggo.jp/news/86bd3431-ad2e-4b18-b885-4fb6393beb46</guid>
-<pubDate>Wed, 25 Nov 2026 20:50:44 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>1Passwordは、攻撃者が侵害した従業員のGitHubアカウントを利用してバックエンドシステムに悪意あるコードを仕込み、一部ユーザーの氏名、ログイン用メールアドレス、公開鍵、アカウント識別子、ログイン日時をダウンロードしたと発表した。攻撃者は非公開リポジトリからソースコードもコピーし、同社のCI/CDシステムに... — はてなブックマーク テクノロジー / score: 90 (1Passwordの情報流出インシデント)</description>
 </item>
 <item>
 <title>[90] iPhone、広告を1回タップするだけでマルウェアに感染の恐れ　日本が主要な標的に</title>
@@ -175,22 +167,6 @@
 <description>November 12, 2026 — Colette Kress takes over as interim CEO. What happens to open source/American AI leadership? — Latent Space / score: 90 (NVIDIAのジェンスン・フアンCEOの退任報道)</description>
 </item>
 <item>
-<title>[90] Gemini 4 Hydrogen: everyday coding and agentic workflows for developers</title>
-<link>https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen/</link>
-<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen/</guid>
-<pubDate>Thu, 12 Nov 2026 18:00:00 +0000</pubDate>
-<category>Gemini (Google Blog)</category>
-<description>Build faster with Gemini 4 Hydrogen, Google’s new model for cost-efficient agentic coding and debugging. Start building in Google AI Studio today. — Gemini (Google Blog) / score: 90 (開発者向けGemini 4 Hydrogenの機能解説。)</description>
-</item>
-<item>
-<title>[90] Introducing Gemini 4 Hydrogen</title>
-<link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/</link>
-<guid isPermaLink="true">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/</guid>
-<pubDate>Thu, 12 Nov 2026 18:00:00 +0000</pubDate>
-<category>Gemini (Google Blog)</category>
-<description>Today, we’re introducing Gemini 4 Hydrogen, our daily driver for agentic workflows — Gemini (Google Blog) / score: 90 (エージェント型ワークフロー向け新モデルの発表。)</description>
-</item>
-<item>
 <title>[88] Introducing Gemini 4 Neon</title>
 <link>https://deepmind.google/blog/introducing-gemini-4-neon/</link>
 <guid isPermaLink="true">https://deepmind.google/blog/introducing-gemini-4-neon/</guid>
@@ -245,14 +221,6 @@
 <pubDate>Thu, 26 Nov 2026 02:13:14 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>ゆうちょ銀行が勘定系システムをオープン系へ移行する。NTTデータが2574億円で落札した。オープン勘定系としては日本最大の投資規模と見られる。現行の勘定系システムは富士通メインフレームで動作する。富士通が2035年度末にメインフレーム保守を終了し、メインフレーム事業からの撤退を決めた中で、ゆうちょ銀行の動向... — はてなブックマーク テクノロジー / score: 85 (ゆうちょ銀行の勘定系オープン化、超大型案件の落札)</description>
-</item>
-<item>
-<title>[85] パスワード管理ツール「1Password」に不正アクセス——氏名とやメールアドレスなどの顧客データ流出も保管庫のデータは無事</title>
-<link>https://taisy0.com/2026/11/26/230918.html</link>
-<guid isPermaLink="true">https://taisy0.com/2026/11/26/230918.html</guid>
-<pubDate>Wed, 25 Nov 2026 23:30:24 +0000</pubDate>
-<category>気になる、記になる…</category>
-<description>パスワード管理ツール「1Password」の開発元であるカナダのAgileBitsが、不正アクセスにより、一部顧客の氏名やメールアドレスなどのアカウント情報が流出したと発表しました。 不正アクセスは、従業員の業務用Git […] — 気になる、記になる… / score: 85 (パスワード管理ツールの不正アクセスと情報流出事案)</description>
 </item>
 <item>
 <title>[85] Elastic Load Balancing for Envoy is now generally available</title>
@@ -439,22 +407,6 @@
 <description>Googleは2026年11月12日、AIモデルGemini 4 Hydrogenを発表した。日常的なコーディングや、AIがツールを使いながら複数の手順を進める作業を、速く効率よく進められるよう設計した。 — gihyo.jp / score: 85 (Googleによる新AIモデルGemini 4 Hydrogen発表)</description>
 </item>
 <item>
-<title>[85] Introducing Gemini 4 Hydrogen</title>
-<link>https://deepmind.google/blog/introducing-gemini-4-hydrogen/</link>
-<guid isPermaLink="true">https://deepmind.google/blog/introducing-gemini-4-hydrogen/</guid>
-<pubDate>Thu, 12 Nov 2026 18:00:50 +0000</pubDate>
-<category>Google DeepMind</category>
-<description> — Google DeepMind / score: 85 (Google DeepMindによる新モデル発表。)</description>
-</item>
-<item>
-<title>[85] Google Search gets a major upgrade with Gemini 4 Hydrogen</title>
-<link>https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/</link>
-<guid isPermaLink="true">https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/</guid>
-<pubDate>Thu, 12 Nov 2026 18:00:00 +0000</pubDate>
-<category>Google AI Blog</category>
-<description>Rotating carousel of cards with text "Gemini 4 Hydrogen" "Now in Google Search" and examples from the Google Search UI — Google AI Blog / score: 85 (Google検索へのGemini 4大型統合。)</description>
-</item>
-<item>
 <title>[82] Why It Takes 3000 Commits to Bring Valhalla’s Value Objects to the JDK</title>
 <link>https://inside.java/2026/11/16/devoxxbelgium-valhalla-value-objects/</link>
 <guid isPermaLink="true">https://inside.java/2026/11/16/devoxxbelgium-valhalla-value-objects/</guid>
@@ -594,9 +546,9 @@
 <title>[75] 「Telnet Client」（telnet.exe）が非推奨に ～将来のWindowsリリースで削除へ／リモートコンピューターと通信するOSのオプション機能</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2159560.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2159560.html</guid>
-<pubDate>Thu, 26 Nov 2026 09:11:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>Windowsに付属するコマンドラインツール「Telnet Client」（telnet.exe）が非推奨になるとのこと。米Microsoftが11月25日（現地時間）、自社のドキュメントサイト「Microsoft Learn」で明らかにした。 — 窓の杜 / score: 75 (WindowsのTelnetクライアントが非推奨に)</description>
+<pubDate>Thu, 26 Nov 2026 09:47:01 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>「Telnet Client」（telnet.exe）が非推奨に ～将来のWindowsリリースで削除へ／リモートコンピューターと通信するOSのオプション機能 — はてなブックマーク テクノロジー / score: 75 (WindowsのTelnetクライアントが非推奨に)</description>
 </item>
 <item>
 <title>[75] 【重要】「ASOBI STORE(電子書籍)」サービス終了のお知らせ</title>
@@ -805,6 +757,54 @@
 <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording. — OpenAI News / score: 75 (OpenAIのセキュリティプラグイン紹介)</description>
+</item>
+<item>
+<title>[75] AWS Lambda now supports GPU instances for Event Functions on Lambda Managed Instances</title>
+<link>https://aws.amazon.com/blogs/aws/aws-lambda-now-supports-gpu-instances-for-event-functions-on-lambda-managed-instances/</link>
+<guid isPermaLink="true">https://aws.amazon.com/blogs/aws/aws-lambda-now-supports-gpu-instances-for-event-functions-on-lambda-managed-instances/</guid>
+<pubDate>Wed, 18 Nov 2026 19:39:07 +0000</pubDate>
+<category>AWS News Blog</category>
+<description>AWS Lambda now supports GPU instances (G-series) for Event Functions running on Lambda Managed Instances, enabling serverless GPU workloads like machine learning inference, media processing, and rendering. Lambda handles all infrastructure tasks, including instance lifecycle, driver management, and auto scaling, while maximizing GPU utilization across concurrent requests with standard EC2 pricing plus a management fee — AWS News Blog / score: 75 (サーバーレスでのGPUワークロード実行が可能に)</description>
+</item>
+<item>
+<title>[75] マイクロソフト、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始</title>
+<link>https://www.publickey1.jp/blog/26/aiaimicrosoft_perception.html</link>
+<guid isPermaLink="true">https://www.publickey1.jp/blog/26/aiaimicrosoft_perception.html</guid>
+<pubDate>Wed, 18 Nov 2026 16:00:37 +0000</pubDate>
+<category>Publickey</category>
+<description>マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、AIによるサイバー攻撃に対抗するためのAIエージェントによる新サービス「Microsoft Perception」の提供開始を発... — Publickey / score: 75 (マイクロソフトのAIセキュリティ新サービスの発表)</description>
+</item>
+<item>
+<title>[75] Advancing chip design with OpenAI models</title>
+<link>https://openai.com/index/advancing-chip-design-with-our-models</link>
+<guid isPermaLink="true">https://openai.com/index/advancing-chip-design-with-our-models</guid>
+<pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra. — OpenAI News / score: 75 (AIを活用したチップ設計の進展に関するニュース。)</description>
+</item>
+<item>
+<title>[75] Running the full server-side Datasette Python app in the browser with service workers and Pyodide</title>
+<link>https://simonwillison.net/2026/Nov/17/datasette-lite/</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Nov/17/datasette-lite/</guid>
+<pubDate>Tue, 17 Nov 2026 16:48:33 +0000</pubDate>
+<category>Simon Willison</category>
+<description>Datasette Lite is my port of the Datasette Python application to run directly in the browser using WebAssembly and Pyodide . I've released a complete rewrite of Datasette Lite using service workers, and it's now almost indistinguishable from the real server-side application. You can now do all of the following, using a carefully crafted URL to lite.datasette.io : Load client-side Datasette to browse any SQLite database, JSON file, CSV file or SQL script Select a released version of Datasette to  — Simon Willison / score: 75 (WebAssemblyとPythonを用いた高度な技術解説。)</description>
+</item>
+<item>
+<title>[75] [AINews] Perplexity hits a $1B revenue run rate, up 4x in 2026</title>
+<link>https://latent.space/p/ainews-perplexity-hits-a-1b-revenue-run-rate-up-4x-in-2026/</link>
+<guid isPermaLink="true">https://latent.space/p/ainews-perplexity-hits-a-1b-revenue-run-rate-up-4x-in-2026/</guid>
+<pubDate>Tue, 17 Nov 2026 09:24:56 +0000</pubDate>
+<category>Latent Space</category>
+<description>November 16, 2026 — Computer gets Teammates, Perplexity ships Monitor API, and a new research lab launches. — Latent Space / score: 75 (Perplexityの収益急成長とAI動向)</description>
+</item>
+<item>
+<title>[75] Strengthening NATO and allied cyber defenses with AI</title>
+<link>https://openai.com/index/strengthening-nato-allied-cyber-defences-ai</link>
+<guid isPermaLink="true">https://openai.com/index/strengthening-nato-allied-cyber-defences-ai</guid>
+<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems. — OpenAI News / score: 75 (NATO等とAIを活用したサイバー防衛強化の取り組み)</description>
 </item>
 </channel>
 </rss>
