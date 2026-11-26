@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 26 Nov 2026 20:06:03 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 22:06:08 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Apache Tomcat」に“致命的”な脆弱性、修正版は未公開／未認証ノードがクラスターに参加可能に。対象環境では「TLS 1.2」への切り替えを推奨</title>
@@ -53,14 +53,6 @@
 <pubDate>Wed, 25 Nov 2026 22:55:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>加AgileBitsは11月25日（現地時間、以下同）、パスワード管理サービス「1Password」のバックエンドシステムの一部が不正アクセスを受け、一部顧客の氏名やメールアドレスなどが流出したと発表した。同社によると、ユーザーのパスワード保管庫（Vault）の中身や、それを保護する鍵への影響はなかった。 — 窓の杜 / score: 90 (1Passwordのセキュリティインシデント報道)</description>
-</item>
-<item>
-<title>[90] iPhone、広告を1回タップするだけでマルウェアに感染の恐れ　日本が主要な標的に</title>
-<link>https://news.mynavi.jp/techplus/article/20261125-5406233/</link>
-<guid isPermaLink="true">https://news.mynavi.jp/techplus/article/20261125-5406233/</guid>
-<pubDate>Wed, 25 Nov 2026 07:50:09 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>広告セキュリティ企業のConfiantは11月20日（現地時間）、MoldyRoost: A Malvertising Machine Built to Deliver iOS Exploitsにおいて、iPhoneを狙った大規模なサイバー攻撃「MoldyRoost」の詳細を公開した。 脆弱性が残るiPhoneでは、悪質な広告を1回タップするだけでマルウェアに感染し、パスワードや暗号資産ウォレ... — はてなブックマーク テクノロジー / score: 90 (iPhoneの深刻なマルウェア脆弱性ニュース)</description>
 </item>
 <item>
 <title>[90] 「Thunderbird 161.0」が公開、OpenPGPメールの差出人を偽装できる致命的な欠陥など115件の脆弱性に対処／多くの不具合も修正</title>
@@ -181,6 +173,14 @@
 <pubDate>Wed, 18 Nov 2026 21:00:00 +0000</pubDate>
 <category>Gemini (Google Blog)</category>
 <description>Today, we’re introducing Gemini 4 Neon — Gemini (Google Blog) / score: 88 (Googleの新型モデルGemini 4 Neonの発表)</description>
+</item>
+<item>
+<title>[85] Amazon RDS for PostgreSQL supports minor versions 18.7, 17.12, 16.16, 15.20, and 14.25</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-postgresql-18-7-17-12-16-16-15-20-14-25/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-postgresql-18-7-17-12-16-16-15-20-14-25/</guid>
+<pubDate>Thu, 26 Nov 2026 17:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon Relational Database Service (RDS) for PostgreSQL now supports the latest minor versions 18.7, 17.12, 16.16, 15.20, and 14.25. We recommend that you upgrade to the latest minor versions to address Common Vulnerabilities and Exposures (CVEs) in prior versions of PostgreSQL, and to benefit from the bug fixes and improvements added by the PostgreSQL community. You can upgrade your databases during scheduled maintenance windows using automatic minor version upgrades. To simplify operations at  — AWS What's New / score: 85 (Amazon RDS for PostgreSQLの最新マイナーバージョン対応)</description>
 </item>
 <item>
 <title>[85] OpenAIが57年来の数学の難問「行列乗算はどこまで効率化できるのか」に決着をつける論文を公開</title>
@@ -583,6 +583,14 @@
 <description>アメリカ国内の放送通信事業の規制監督を行う連邦通信委員会(FCC)が、イーロン・マスク氏率いる宇宙開発企業であるSpaceXの「宇宙AIデータセンター」設置計画を承認しました。 続きを読む... — GIGAZINE / score: 75 (宇宙AIデータセンター計画の規制当局による承認)</description>
 </item>
 <item>
+<title>[75] 「git push が通らないので調べて」と頼むと、Codex は作業フォルダの外の ~/.ssh を読んだ。Claude Code と Gemini CLI は確認なしでは読まなかった（偽の鍵で60回）</title>
+<link>https://qiita.com/suwa_nobu/items/3bcba393673985c9b8ed?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/suwa_nobu/items/3bcba393673985c9b8ed?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Thu, 26 Nov 2026 00:57:58 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>11/25 に 1Password がセキュリティインシデントを公表しました。Hacker News では、11/26 の朝の時点で983ポイントを集めていました。社員の GitHub アカウントが乗っ取られ、そこから一部の利用者の名前やメールアドレスが持ち出されたそうです... — Qiita 人気記事 / score: 75 (AIエージェントのセキュリティリスクと脆弱性)</description>
+</item>
+<item>
 <title>[75] Google WorkspaceでMCPサーバーとCLIを一般提供、AIエージェントはMCP必須に</title>
 <link>https://codezine.jp/article/detail/30471</link>
 <guid isPermaLink="true">https://codezine.jp/article/detail/30471</guid>
@@ -645,14 +653,6 @@
 <pubDate>Mon, 23 Nov 2026 23:40:49 +0000</pubDate>
 <category>Simon Willison</category>
 <description>GLM-5.4: Toward Generalized Coding with Our First Loop Transformer GLM 5.4 is now available from Chinese AI lab Z.ai. It's their first model to use a looped transformer architecture, which they describe like this: In a standard Transformer, each layer runs once per forward pass. In a Loop Transformer, a group of weight-shared layers runs for multiple iterations, refining the hidden states from the previous pass. This gives us a deeper network without increasing the parameter count. This is the s — Simon Willison / score: 75 (ループ型トランスフォーマーを採用した新モデルの登場)</description>
-</item>
-<item>
-<title>[75] なぜ 11 月に日本のサイバー事故は「爆発」したのか — 605件を数えたら「日本が狙われている」だけではなかった</title>
-<link>https://qiita.com/songchong/items/073f202bb0ca65611b30?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/songchong/items/073f202bb0ca65611b30?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Mon, 23 Nov 2026 19:05:56 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>この図は IT連携マップで操作できます → https://renkeimap.jp/security/incidents 上の図は、セキュリティ事故の一覧の頭にある図「事故の時期と規模」を 1 枚の画像にしたものです。サイトの図では、円を押すと、その事故のカード（漏... — Qiita 人気記事 / score: 75 (日本のサイバー事故の傾向分析でセキュリティ意識向上に有益)</description>
 </item>
 <item>
 <title>[75] See what 6 builders are making with Gemini 4 Hydrogen</title>
