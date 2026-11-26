@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 26 Nov 2026 00:15:08 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 02:08:45 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「GitLab」に緊急パッチ、リモートコード実行のおそれのある「Ruby2Shell」脆弱性に対処／v19.6.1/v19.5.8/v19.4.10が公開</title>
@@ -15,14 +15,6 @@
 <description>米GitLabは11月20日（現地時間）、「GitLab」の緊急パッチ v19.6.1、v19.5.8、v19.4.10 をリリースした。「Community Edition」（CE）と「Enterprise Edition」（EE）が対象。同社は、自分で運用しているすべての「GitLab」を、ただちにこれらのバージョンへアップグレードするよう強く推奨している。 — 窓の杜 / score: 95 (GitLabの緊急脆弱性修正とアップデート情報)</description>
 </item>
 <item>
-<title>[95] 「Ruby」に7件の脆弱性、修正版への更新を強く推奨。リモートコード実行の実証コードが存在／最高深刻度「Critical」。v4.0.10、v3.4.13、v3.3.14が公開</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2157700.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2157700.html</guid>
-<pubDate>Thu, 19 Nov 2026 04:05:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>スクリプト言語「Ruby」の開発チームは11月18日（現地時間）、「Ruby」の正規表現エンジンと、文字列の大文字・小文字変換に、7件の脆弱性が見つかったことを明らかにした。一部についてはリモートコード実行（RCE）を引き起こせることを示す実証コード（PoC）の存在も確認されているとのことで、修正版へのアップデートが強く推奨されている。 — 窓の杜 / score: 95 (Rubyのクリティカルな脆弱性とRCEの危険性)</description>
-</item>
-<item>
 <title>[95] Introducing GPT-6.2 Astra and Sol</title>
 <link>https://openai.com/index/introducing-gpt-6-2-astra-sol</link>
 <guid isPermaLink="true">https://openai.com/index/introducing-gpt-6-2-astra-sol</guid>
@@ -31,12 +23,12 @@
 <description>Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API. — OpenAI News / score: 95 (主要なAIモデルのメジャーリリースと機能強化)</description>
 </item>
 <item>
-<title>[90] パスワード管理「1Password」でセキュリティインシデント、一部顧客のデータが流出／保管庫の中身やそれを守る鍵は無事、招待・復旧メールを装ったフィッシングに注意</title>
+<title>[90] パスワード管理「1Password」でデータ流出、一部顧客の氏名やメールアドレスなど／パスワード保管庫やその鍵は無事、招待・復旧メールを装ったフィッシングに注意</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2159320.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2159320.html</guid>
-<pubDate>Wed, 25 Nov 2026 22:55:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>加AgileBitsは11月25日（現地時間、以下同）、パスワード管理サービス「1Password」のバックエンドシステムの一部が不正アクセスを受け、一部顧客の氏名やメールアドレスなどが流出したと発表した。同社によると、ユーザーのパスワード保管庫（Vault）の中身や、それを保護する鍵への影響はなかった。 — 窓の杜 / score: 90 (1Passwordのセキュリティインシデント報道)</description>
+<pubDate>Wed, 25 Nov 2026 23:11:01 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>パスワード管理「1Password」でデータ流出、一部顧客の氏名やメールアドレスなど／パスワード保管庫やその鍵は無事、招待・復旧メールを装ったフィッシングに注意 — はてなブックマーク テクノロジー / score: 90 (1Passwordのセキュリティインシデント報道)</description>
 </item>
 <item>
 <title>[90] 1Password、従業員のGitHubアカウント経由で顧客の氏名とメールアドレスが流出したと発表 — BigGo ファイナンス</title>
@@ -44,7 +36,7 @@
 <guid isPermaLink="true">https://finance.biggo.jp/news/86bd3431-ad2e-4b18-b885-4fb6393beb46</guid>
 <pubDate>Wed, 25 Nov 2026 20:50:44 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
-<description>1Passwordは、攻撃者が侵害された従業員のGitHubアカウントを悪用して内部サーバーに悪意のあるコードを仕込み、顧客の氏名、ログイン用メールアドレス、公開鍵、アカウント識別子、ログイン日時をダウンロードしたと発表した。同社は、顧客の保管庫（ボールト）には一切アクセスできず、ユーザーのパスワードやシークレ... — はてなブックマーク テクノロジー / score: 90 (1Passwordの情報流出インシデント)</description>
+<description>1Passwordは、攻撃者が侵害した従業員のGitHubアカウントを利用してバックエンドシステムに悪意あるコードを仕込み、一部ユーザーの氏名、ログイン用メールアドレス、公開鍵、アカウント識別子、ログイン日時をダウンロードしたと発表した。攻撃者は非公開リポジトリからソースコードもコピーし、同社のCI/CDシステムに... — はてなブックマーク テクノロジー / score: 90 (1Passwordの情報流出インシデント)</description>
 </item>
 <item>
 <title>[90] Update on a security incident involving 1Password’s backend systems. | 1Password</title>
@@ -207,12 +199,28 @@
 <description>Today, we’re introducing Gemini 4 Neon — Gemini (Google Blog) / score: 88 (Googleの新型モデルGemini 4 Neonの発表)</description>
 </item>
 <item>
+<title>[85] パスワード管理サービス「1Password」で顧客情報流出　保存されたパスワードは無事</title>
+<link>https://ascii.jp/elem/000/004/454/4454883/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/454/4454883/?rss</guid>
+<pubDate>Thu, 26 Nov 2026 01:30:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>1Passwordは11月25日、一部社内システムが侵害され、一部顧客の氏名やログイン用メールアドレスが取得されたと発表した。 — ASCII.jp / score: 85 (主要パスワード管理サービスでの顧客情報流出インシデント)</description>
+</item>
+<item>
 <title>[85] パスワード管理ツール「1Password」に不正アクセス——氏名とやメールアドレスなどの顧客データ流出も保管庫のデータは無事</title>
 <link>https://taisy0.com/2026/11/26/230918.html</link>
 <guid isPermaLink="true">https://taisy0.com/2026/11/26/230918.html</guid>
 <pubDate>Wed, 25 Nov 2026 23:30:24 +0000</pubDate>
 <category>気になる、記になる…</category>
 <description>パスワード管理ツール「1Password」の開発元であるカナダのAgileBitsが、不正アクセスにより、一部顧客の氏名やメールアドレスなどのアカウント情報が流出したと発表しました。 不正アクセスは、従業員の業務用Git […] — 気になる、記になる… / score: 85 (パスワード管理ツールの不正アクセスと情報流出事案)</description>
+</item>
+<item>
+<title>[85] 1Password、一部顧客の氏名やメールアドレスが流出　保管庫内のデータに「影響なし」</title>
+<link>https://www.itmedia.co.jp/news/article/2611/26/2000003466/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/26/2000003466/</guid>
+<pubDate>Wed, 25 Nov 2026 23:01:49 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>パスワード管理ツール「1Password」を手掛けるカナダのAgileBitsは11月25日（現地時間）、従業員のGitHubアカウントを悪用した不正アクセスにより、一部顧客の氏名やメールアドレスなどのアカウント情報が流出したと発表した。パスワードなどを保存する「保管庫」（Vault）内のデータや、その暗号化に使う鍵には影響はな... — はてなブックマーク テクノロジー / score: 85 (1Passwordの顧客情報流出インシデント)</description>
 </item>
 <item>
 <title>[85] 「セキュアSAMBA」における利用者情報の漏えいのおそれに関するお詫びとお知らせ | 株式会社kubellストレージ</title>
@@ -229,6 +237,14 @@
 <pubDate>Wed, 25 Nov 2026 09:30:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>Microsoftのクラウドサービス「Microsoft 365」で2026年11月13日に世界規模の大規模障害が発生しました。これを受けてMicrosoftは、重大なサービス障害の防止および対応方法を抜本的に見直すため、「コードレッド」体制を宣言しました。 続きを読む... — GIGAZINE / score: 85 (M365大規模障害を受けたMicrosoftのコードレッド宣言)</description>
+</item>
+<item>
+<title>[85] ヤマト運輸の問い合わせチャットが停止中、委託先チャットプラスに不正アクセス　氏名・住所・電話番号が漏えいの可能性 | テクノエッジ TechnoEdge</title>
+<link>https://www.techno-edge.net/article/2026/11/25/5815.html</link>
+<guid isPermaLink="true">https://www.techno-edge.net/article/2026/11/25/5815.html</guid>
+<pubDate>Wed, 25 Nov 2026 08:15:53 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>ヤマトホールディングスは11月25日、顧客からの問い合わせ対応に利用しているチャットプラスのチャットサービスが第三者による不正アクセスを受け、顧客の氏名・住所・電話番号が漏えいした可能性があると発表しました。同社は安全を確認できるまで、このサービスを使うチャットでの問い合わせ受付を停止します。 ヤマト... — はてなブックマーク テクノロジー / score: 85 (ヤマト運輸関連のチャットサービス不正アクセス)</description>
 </item>
 <item>
 <title>[85] Google、Gmailやドライブなど8サービス向けのWorkspace MCPサーバーと公式CLI「gwscli」を一般提供</title>
@@ -471,6 +487,22 @@
 <description>JEP 401 (Value Objects) arrives in OpenJDK as a preview feature, enabling a new Java type model with minimal code changes. The talk explains what value objects are, JVM benefits, Valhalla history, implementation details, and the path toward bridging objects and primitives, including future support like List&lt;int&gt;. — Inside Java / score: 82 (Java Valhallaプロジェクトの解説と進化)</description>
 </item>
 <item>
+<title>[80] AnthropicがClaudeを使って自社APIをPythonからRustに移植しCPU使用量を約70％削減した方法を公開</title>
+<link>https://gigazine.net/news/20261126-anthropic-claude-api-rust/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261126-anthropic-claude-api-rust/</guid>
+<pubDate>Thu, 26 Nov 2026 02:02:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>AI企業のAnthropicが、AIモデル「Claude」を外部から利用するための「Messages API」をPythonからRustに移植した際の開発手法を公開しました。AnthropicはClaudeを活用して移植を進め、2026年9月にサービスを停止することなくRust版へ移行。リクエスト当たりのCPU使用量を約70％削減することに成功しています。 続きを読む... — GIGAZINE / score: 80 (AnthropicによるAPIのRust移行とCPU削減事例)</description>
+</item>
+<item>
+<title>[80] 脆弱性の発見数、1年で2倍超　Microsoft製品も月100件から1000件超に……AIで一変</title>
+<link>https://www.itmedia.co.jp/news/article/2611/26/2000003446/</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/26/2000003446/</guid>
+<pubDate>Thu, 26 Nov 2026 01:09:22 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>米Microsoftが毎月公開しているWindowsのセキュリティ更新プログラム。11月は1000件以上の脆弱性が修正された。他社の製品も含めると、2026年に入って発見された脆弱性は10万件を超え、すでに25年の倍以上だ。AIの進化に伴い脆弱性の発見とそれを悪用した攻撃が激増する中で、パッチを適用する側はどう対処すればいいの... — はてなブックマーク テクノロジー / score: 80 (AI時代の脆弱性急増に関する警鐘と分析)</description>
+</item>
+<item>
 <title>[80] Red Hat、「OpenShift 5」を一般提供開始──エージェント型運用やPQCに対応</title>
 <link>https://codezine.jp/article/detail/30480</link>
 <guid isPermaLink="true">https://codezine.jp/article/detail/30480</guid>
@@ -591,6 +623,14 @@
 <description> — CodeZine / score: 75 (Google WorkspaceのMCPサーバー一般提供)</description>
 </item>
 <item>
+<title>[75] タイムズはどうすべきだったのか、JPKI を用いた eKYC の今後 | blog.jxck.io</title>
+<link>https://blog.jxck.io/entries/2026-11-25/ekyc-over-jpki.html</link>
+<guid isPermaLink="true">https://blog.jxck.io/entries/2026-11-25/ekyc-over-jpki.html</guid>
+<pubDate>Wed, 25 Nov 2026 16:45:41 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>タイムズカーの件を皮切りに世間を賑わせ続けている、個人情報漏洩事案。 メールアドレスやパスワードはもとより、運転免許の券面画像やマイナンバーが漏洩すると、かなりの問題になる。 この漏洩は、防ぎようがないのだろうか? この記事は、サイバーセキュリティアドベントカレンダー 3 日目である。 eKYC の問題 タイ... — はてなブックマーク テクノロジー / score: 75 (eKYCと個人情報漏洩に関するセキュリティ考察)</description>
+</item>
+<item>
 <title>[75] MCPに新機能「Skills over MCP」登場。ツールとの接続だけでなく使い方のスキルもMCP経由で提供</title>
 <link>https://www.publickey1.jp/blog/26/mcpskills_over_mcpmcp.html</link>
 <guid isPermaLink="true">https://www.publickey1.jp/blog/26/mcpskills_over_mcpmcp.html</guid>
@@ -661,14 +701,6 @@
 <pubDate>Tue, 24 Nov 2026 09:33:43 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Anthropicは2026年11月23日、GitHubのプルリクエスト（PR）をマージするまでの作業を支援するClaude Shipのベータ版を発表した。一般提供済みのCode Reviewに、レビューの指摘を受けて修正を試みるPR Stewardと、変更内容に応じて必要な承認者を判定するClaude Approvalsを加えた。 — gihyo.jp / score: 75 (AnthropicによるPR修正支援Claude Ship発表)</description>
-</item>
-<item>
-<title>[75] Cognition、目標を受けて複数のDevinを指揮する「Devin Bots」を国内発表　日本のエンタープライズ売上は前年比約9倍、年末に50社超へ</title>
-<link>https://codezine.jp/article/detail/30466</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/30466</guid>
-<pubDate>Tue, 24 Nov 2026 09:30:00 +0000</pubDate>
-<category>CodeZine</category>
-<description>Cognition AI Japanは11月24日、2026年度第2回の事業戦略説明会を開催し、AIソフトウェアエンジニア「Devin」の新機能「Devin Bots」を国内で発表した。目標を受け取ったBotが作業を分解し、複数のDevinを並列に指揮して開発を進める。国内のエンタープライズライセンス売上が前年比約9倍に伸びたことも明らかにした。 — CodeZine / score: 75 (Devinの新機能発表と国内市場の動向)</description>
 </item>
 <item>
 <title>[75] GLM-5.4: Toward Generalized Coding with Our First Loop Transformer</title>
@@ -773,38 +805,6 @@
 <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality. — OpenAI News / score: 75 (金融リサーチにおけるGPT-6 Astraの評価と改善事例)</description>
-</item>
-<item>
-<title>[75] さよならPhi Silica、ようこそAion Instruct。Windows内蔵の言語モデルが刷新【使ってわかるAI PC】</title>
-<link>https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2158020.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2158020.html</guid>
-<pubDate>Thu, 19 Nov 2026 23:08:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>マイクロソフトは11月13日、これまでWindowsのオンデバイス言語モデルとして提供されてきたPhi Silicaを、新たな言語モデルであるAion Instructに置き換えると発表した。2027年1月にはAion Instructが一般の端末に提供される予定で、かなり差し迫ったタイミングでの発表となった。 — 窓の杜 / score: 75 (Windows内蔵オンデバイス言語モデルの大規模な刷新)</description>
-</item>
-<item>
-<title>[75] Introducing Tool Retrieval in the Gemini API</title>
-<link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/</link>
-<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/</guid>
-<pubDate>Thu, 19 Nov 2026 18:00:00 +0000</pubDate>
-<category>Google AI Blog</category>
-<description>Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API. — Google AI Blog / score: 75 (Gemini APIの新機能プレビュー公開)</description>
-</item>
-<item>
-<title>[75] 約2,500万人のデータで「Firefox」の“指紋”対策を強化 ～Mozillaが研究成果を発表／一意に識別されるユーザーの割合を75％から46％に削減</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2157865.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2157865.html</guid>
-<pubDate>Thu, 19 Nov 2026 09:04:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Mozillaは11月10日（現地時間）、ブラウザーフィンガープリンティングに関する大規模な研究の成果を公式ブログ「Mozilla Security Blog」で明らかにした。約2,500万人の「Firefox」ユーザーから集めた計測データを分析し、ユーザーの識別に利用されている情報を特定。その知見をもとに、「Firefox」のフィンガープリンティング対策を強化したという。 — 窓の杜 / score: 75 (Firefoxの大規模データに基づく指紋対策強化)</description>
-</item>
-<item>
-<title>[75] Microsoft AI、「MAI Code 2」など新モデル7つを一挙投入【Ignite 2026】／コーディング、セキュリティ、画像、音声、判断の各分野で“価格性能比”を追求</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2157844.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2157844.html</guid>
-<pubDate>Thu, 19 Nov 2026 06:37:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Microsoftは11月17日（現地時間）、年次開発者イベント「Microsoft Ignite 2026」で、同社のAI部門Microsoft AI（MAI）が開発した7つの新しいモデル群を発表した。トークン消費が急増するなか、エージェントを24時間365日動かせるだけの“価格性能比”を重視したという。発表されたおもなモデルは、以下の通り。 — 窓の杜 / score: 75 (Microsoft Ignite 2026での新AIモデル群の発表)</description>
 </item>
 </channel>
 </rss>
