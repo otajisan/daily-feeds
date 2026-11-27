@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 27 Nov 2026 18:07:24 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 20:07:13 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Apache Tomcat」に“致命的”な脆弱性、修正版は未公開／未認証ノードがクラスターに参加可能に。対象環境では「TLS 1.2」への切り替えを推奨</title>
@@ -157,6 +157,14 @@
 <pubDate>Wed, 18 Nov 2026 21:00:00 +0000</pubDate>
 <category>Gemini (Google Blog)</category>
 <description>Today, we’re introducing Gemini 4 Neon — Gemini (Google Blog) / score: 88 (Googleの新型モデルGemini 4 Neonの発表)</description>
+</item>
+<item>
+<title>[85] 大阪大学、学生と教職員のメアド5万件漏洩　アララへの不正アクセス - 日本経済新聞</title>
+<link>https://www.nikkei.com/article/DGXZQOUF272NY0X21C26A1000000/</link>
+<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUF272NY0X21C26A1000000/</guid>
+<pubDate>Fri, 27 Nov 2026 17:19:05 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>大阪大学は27日、学生と教職員のメールアドレスが5万1891件漏洩したと発表した。災害発生時に利用している安否確認システムのメール配信委託先のアララ（東京・港）が10月28日に受けた不正アクセスの影響だとしている。7月1日から10月31日の期間に、アバンセシステム（浜松市）が提供する安否確認システム「ANPIC（アン... — はてなブックマーク テクノロジー / score: 85 (大学と委託先の情報漏洩インシデントであり緊急度が高い)</description>
 </item>
 <item>
 <title>[85] 「勇気ありすぎだろ」GMOが買収した激安サーバー「ロリポップ！」が顧客情報の漏洩を公表、漏れた一部パスワードを“平文で”保存していた模様</title>
@@ -797,14 +805,6 @@
 <pubDate>Thu, 26 Nov 2026 04:05:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>米Anthropicは11月24日（現地時間）、「Claude」が作成したアーティファクトをアプリとしてWindows/Macにインストールできる機能を発表した。独自のウィンドウとアイコンを持ち、他のアプリと同じように起動できるほか、許可すれば通知やメニューバー項目の追加など、OSの機能も利用できる。 — 窓の杜 / score: 70 (Claudeのアーティファクトをアプリ化する新機能)</description>
-</item>
-<item>
-<title>[70] AWS Lambda now supports orchestrating MicroVMs with Lambda durable functions</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/11/lambda-durable-microvm/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/lambda-durable-microvm/</guid>
-<pubDate>Wed, 25 Nov 2026 20:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Today, AWS announces a developer preview of a new extension for orchestrating Lambda MicroVMs with Lambda durable functions . The extension adds durable operations for running work on MicroVMs and managing their lifecycle. You can use the new operations to build software factories, security scanners, or orchestrate CI/CD jobs that run untrusted or agent-generated code in isolated sandboxes. With Lambda durable functions, you can build resilient, multi-step applications and AI workflows that run  — AWS What's New / score: 70 (AWS LambdaのMicroVMオーケストレーション)</description>
 </item>
 </channel>
 </rss>
