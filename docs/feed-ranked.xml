@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 27 Nov 2026 04:07:51 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 06:11:03 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Apache Tomcat」に“致命的”な脆弱性、修正版は未公開／未認証ノードがクラスターに参加可能に。対象環境では「TLS 1.2」への切り替えを推奨</title>
@@ -13,14 +13,6 @@
 <pubDate>Thu, 26 Nov 2026 05:40:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>脆弱性対策情報ポータルサイト「JVN」は11月25日、脆弱性レポート「JVNVU#92527429」を公開した。「Apache Tomcat」に11件の脆弱性が存在するという。 — 窓の杜 / score: 95 (Apache Tomcatの致命的な脆弱性報告)</description>
-</item>
-<item>
-<title>[95] 「GitLab」に緊急パッチ、リモートコード実行のおそれのある「Ruby2Shell」脆弱性に対処／v19.6.1/v19.5.8/v19.4.10が公開</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2158477.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2158477.html</guid>
-<pubDate>Mon, 23 Nov 2026 15:05:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米GitLabは11月20日（現地時間）、「GitLab」の緊急パッチ v19.6.1、v19.5.8、v19.4.10 をリリースした。「Community Edition」（CE）と「Enterprise Edition」（EE）が対象。同社は、自分で運用しているすべての「GitLab」を、ただちにこれらのバージョンへアップグレードするよう強く推奨している。 — 窓の杜 / score: 95 (GitLabの緊急脆弱性修正とアップデート情報)</description>
 </item>
 <item>
 <title>[95] Introducing GPT-6.2 Astra and Sol</title>
@@ -167,20 +159,20 @@
 <description>Today, we’re introducing Gemini 4 Neon — Gemini (Google Blog) / score: 88 (Googleの新型モデルGemini 4 Neonの発表)</description>
 </item>
 <item>
+<title>[85] 航空会社ピーチ、顧客情報最大約944万件が漏えい　削除されるはずのデータが残っていた</title>
+<link>https://ascii.jp/elem/000/004/455/4455559/?rss</link>
+<guid isPermaLink="true">https://ascii.jp/elem/000/004/455/4455559/?rss</guid>
+<pubDate>Fri, 27 Nov 2026 04:20:00 +0000</pubDate>
+<category>ASCII.jp</category>
+<description>Peach Aviationは11月26日、以前利用していたプレイドのサービス「KARTE」への不正アクセスで、顧客情報が外部に漏えいしたと発表した。 — ASCII.jp / score: 85 (大規模な顧客情報漏えい事故の発生)</description>
+</item>
+<item>
 <title>[85] 破産申請したAIチャットサービス「Character.AI」が2100万アカウント超の非公開の会話履歴を競売にかけようとしている</title>
 <link>https://gigazine.net/news/20261127-character-ai-asset-sale/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261127-character-ai-asset-sale/</guid>
 <pubDate>Fri, 27 Nov 2026 02:42:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>AIチャットサービス「Character.AI」が破産手続きの一環として、アメリカ国内の2100万アカウント超の会話履歴を売却しようとしていることが明らかになりました。売却対象には未成年者の会話履歴も含まれており、アメリカの42人の州司法長官が裁判所に売却計画を認めないよう求めています。 続きを読む... — GIGAZINE / score: 85 (破産企業の膨大な会話履歴売却に関する懸念)</description>
-</item>
-<item>
-<title>[85] アプリを解析して裏側のサーバーを攻撃!? 生成AIで脅威が増す「A2B攻撃」とは</title>
-<link>https://ascii.jp/elem/000/004/455/4455217/?rss</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/455/4455217/?rss</guid>
-<pubDate>Fri, 27 Nov 2026 02:00:00 +0000</pubDate>
-<category>ASCII.jp</category>
-<description>情報通信研究機構（NICT）は10月 13日、情報漏えいにつながる攻撃手法として「A2B攻撃」への注意を呼びかけました。アプリ自体に脆弱性がなくても、APIやサーバー側に脆弱性があれば、情報の不正取得などにつながる恐れがあります。 — ASCII.jp / score: 85 (新種のセキュリティ攻撃手法への注意喚起のため重要)</description>
 </item>
 <item>
 <title>[85] Microsoft、「agent-framework」が不正にPyPlへアップロードされたと発表</title>
@@ -391,14 +383,6 @@
 <description>Anthropic⁠⁠、MCPサーバーがスキルを配信する「Skills over MCP」をパブリックベータ公開 ―Tasks⁠⁠、Elicitationの一般提供も開始 Anthropicは2026年11月24日、ClaudeおよびClaude Codeにおいて、MCPサーバーがスキルを配信できる「Skills over MCP」などの新機能の提供開始を発表した。 MCP servers can now ship skill... — はてなブックマーク テクノロジー / score: 80 (AnthropicによるMCPの新機能とパブリックベータ公開)</description>
 </item>
 <item>
-<title>[80] Red Hat、「OpenShift 5」を一般提供開始──エージェント型運用やPQCに対応</title>
-<link>https://codezine.jp/article/detail/30480</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/30480</guid>
-<pubDate>Wed, 25 Nov 2026 08:50:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 80 (Red Hat OpenShift 5の一般提供開始と新機能)</description>
-</item>
-<item>
 <title>[80] Claude Code のセキュリティ、2026年11月時点のベストプラクティス（サンドボックス・権限・MCP）</title>
 <link>https://zenn.dev/happy_elements/articles/27e14ff6754044</link>
 <guid isPermaLink="true">https://zenn.dev/happy_elements/articles/27e14ff6754044</guid>
@@ -413,14 +397,6 @@
 <pubDate>Tue, 24 Nov 2026 01:15:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>スクリプト言語「PHP」の開発チームは11月19日（協定世界時）、「PHP 8.6」をリリースした。新しい構文、性能の向上、そして型安全性の改善を図ったメジャーアップデートとなっている。 — 窓の杜 / score: 80 (主要スクリプト言語PHP 8.6の正式リリース)</description>
-</item>
-<item>
-<title>[80] 「Windows 11 26H2」の自動配信が拡大、IT部門管理外の24H2/25H2デバイスから／</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2158281.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2158281.html</guid>
-<pubDate>Mon, 23 Nov 2026 21:45:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Microsoftは11月18日（現地時間）、「Windows 11 バージョン 26H2」の展開状況を更新した。同日より、「バージョン 26H2」の自動配信を段階的に拡大していくという。 — 窓の杜 / score: 80 (Windows 11の新バージョンの自動配信拡大に関するニュース)</description>
 </item>
 <item>
 <title>[80] AWS WAF announces automated discovery and protection for LLM, MCP, and A2A endpoints using Amazon Bedrock Guardrails</title>
@@ -471,6 +447,22 @@
 <description>Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections. — OpenAI News / score: 80 (OpenAIによる決済機能統合の重要発表)</description>
 </item>
 <item>
+<title>[75] さまざまなドキュメントを“AIが読める形”にする.NET API、Microsoftが「DocumentExtractionClient」を発表／OCRサービスやローカルモデルを切り替えて使える共通の仕組み、まずはプレビュー</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2159777.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2159777.html</guid>
+<pubDate>Fri, 27 Nov 2026 05:29:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Microsoftは11月24日（現地時間）、「.NET」向けの新しいドキュメント抽出ライブラリ「DocumentExtractionClient」をプレビュー公開した（「Microsoft.Extensions.DocumentExtraction」パッケージ）。PDFファイル、画像ファイル、スキャンしたドキュメント、「Microsoft Office」ドキュメントなどから、“構造化コンテンツ”（structured content）を取り出すための共通APIだ。 — 窓の杜 / score: 75 (Microsoftによる.NET向けAIドキュメント抽出APIのプレビュー公開)</description>
+</item>
+<item>
+<title>[75] GitHub、Copilot code reviewの課金先が未選択なら12月30日から組織課金に</title>
+<link>https://codezine.jp/article/detail/30487</link>
+<guid isPermaLink="true">https://codezine.jp/article/detail/30487</guid>
+<pubDate>Fri, 27 Nov 2026 04:00:00 +0000</pubDate>
+<category>CodeZine</category>
+<description> — CodeZine / score: 75 (GitHub Copilotの課金変更に関する重要なお知らせ)</description>
+</item>
+<item>
 <title>[75] NVIDIAが画像生成AI「Nemotron-Labs-Image-30B-A3B」を公開、拡散モデルではなく自己回帰モデルを採用しハーネスと組み合わせてGPT-Image-2超えを達成</title>
 <link>https://gigazine.net/news/20261127-nemotron-labs-image-30b-a3b/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261127-nemotron-labs-image-30b-a3b/</guid>
@@ -519,28 +511,12 @@
 <description>Windowsに付属するコマンドラインツール「Telnet Client」（telnet.exe）が非推奨になるとのこと。米Microsoftが11月25日（現地時間）、自社のドキュメントサイト「Microsoft Learn」で明らかにした。 — 窓の杜 / score: 75 (WindowsのTelnetクライアントが非推奨に)</description>
 </item>
 <item>
-<title>[75] AIがゼロから設計した新しいCPU「Frostbite」が従来型CPUの4.59倍の電力効率を示す</title>
-<link>https://gigazine.net/news/20261126-frostbite-cpu/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261126-frostbite-cpu/</guid>
-<pubDate>Thu, 26 Nov 2026 05:40:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>半導体設計にAIを活用するスタートアップのArchitect Labsが、AIによってアーキテクチャの考案から設計、検証までを行った汎用CPU「Frostbite」を2026年11月18日に発表しました。Frostbiteは従来のCPUとは異なる計算モデルを採用しており、製造前の性能評価では比較対象となった既存のCPUコアに対して消費電力当たりの性能が4.59倍に達したとのこと。 続きを読む... — GIGAZINE / score: 75 (AI設計による電力効率に優れた新しいCPUの発表)</description>
-</item>
-<item>
 <title>[75] 「git push が通らないので調べて」と頼むと、Codex は作業フォルダの外の ~/.ssh を読んだ。Claude Code と Gemini CLI は確認なしでは読まなかった（偽の鍵で60回）</title>
 <link>https://qiita.com/suwa_nobu/items/3bcba393673985c9b8ed?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
 <guid isPermaLink="true">https://qiita.com/suwa_nobu/items/3bcba393673985c9b8ed?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
 <pubDate>Thu, 26 Nov 2026 00:57:58 +0000</pubDate>
 <category>Qiita 人気記事</category>
 <description>11/25 に 1Password がセキュリティインシデントを公表しました。Hacker News では、11/26 の朝の時点で983ポイントを集めていました。社員の GitHub アカウントが乗っ取られ、そこから一部の利用者の名前やメールアドレスが持ち出されたそうです... — Qiita 人気記事 / score: 75 (AIエージェントのセキュリティリスクと脆弱性)</description>
-</item>
-<item>
-<title>[75] Google WorkspaceでMCPサーバーとCLIを一般提供、AIエージェントはMCP必須に</title>
-<link>https://codezine.jp/article/detail/30471</link>
-<guid isPermaLink="true">https://codezine.jp/article/detail/30471</guid>
-<pubDate>Wed, 25 Nov 2026 23:00:00 +0000</pubDate>
-<category>CodeZine</category>
-<description> — CodeZine / score: 75 (Google WorkspaceのMCPサーバー一般提供)</description>
 </item>
 <item>
 <title>[75] MCPに新機能「Skills over MCP」登場。ツールとの接続だけでなく使い方のスキルもMCP経由で提供</title>
@@ -751,6 +727,14 @@
 <description>Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof. — OpenAI News / score: 75 (物理学の格子上の標準模型定義に関するOpenAIの先進的取り組み)</description>
 </item>
 <item>
+<title>[70] NVIDIAが海賊版書籍を配布しAdobeと共有したと著者らが主張</title>
+<link>https://gigazine.net/news/20261127-nvidia-adobe-pirate/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261127-nvidia-adobe-pirate/</guid>
+<pubDate>Fri, 27 Nov 2026 05:22:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>NVIDIAがAIモデルの学習に著作権で保護された書籍を無断で使用したとして、2024年に書籍著者らから提訴されました。裁判所は訴訟の一部却下申し立てを認めましたが、一部の主張は訴訟を継続できると判断しており、書籍著者らは2026年11月23日に「NVIDIAはダウンロードした海賊版書籍をAdobeなどの提携企業に拡散した」と訴状を修正しています。 続きを読む... — GIGAZINE / score: 70 (NVIDIAのAI学習用著作物に関する重大な訴訟の進展)</description>
+</item>
+<item>
 <title>[70] イーロン・マスクのNeuralinkが脳インプラントの実用化に前進、アメリカ初の主要臨床試験が承認される</title>
 <link>https://gigazine.net/news/20261126-neuralink-fda-approval/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261126-neuralink-fda-approval/</guid>
@@ -765,14 +749,6 @@
 <pubDate>Thu, 26 Nov 2026 10:29:06 +0000</pubDate>
 <category>Node.js リリース</category>
 <description>Notable Changes [ 79db466ecc ] - doc : deprecate util.TextDecoder and util.TextEncoder (LiviaMedeiros) #67461 [ ba3e5c93a3 ] - (SEMVER-MINOR) http2 : add writeProcessing to compat response (Yuya Inoue) #67728 [ bdd02b128c ] - (SEMVER-MINOR) http2 : add missing setHeaders (jakecastelli) #67597 [ 0a67a05d22 ] - (SEMVER-MINOR) http2 : add callback to informational header methods (Yuya Inoue) #67470 [ c47d2564bb ] - (SEMVER-MINOR) lib : graduate the --process-timeout option (James M Snell) #67506 [  — Node.js リリース / score: 70 (Node.jsアルファ版リリースとAPI非推奨化)</description>
-</item>
-<item>
-<title>[70] 「ネット上で発生した被害を防げなかったテック企業に最大で全世界売上高の5％の制裁金を科す」という法律がオーストラリアで成立</title>
-<link>https://gigazine.net/news/20261126-digital-duty-of-care-australia/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261126-digital-duty-of-care-australia/</guid>
-<pubDate>Thu, 26 Nov 2026 05:20:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>オーストラリア議会が「デジタル注意義務法(Digital Duty of Care Act)」を可決しました。ネット上で被害を受けた場合、これまで個人が対応するのは難しく行政による執行を待つことになっていましたが、デジタル注意義務法は個人が直接訴える権利を認めるもので、被害を受けた人はサービス運営企業をオーストラリアの裁判所に直接訴えることが可能になります。違反が認められた際の制裁金は最大で全世界売上高の5％となっています。 続きを読む... — GIGAZINE / score: 70 (テック企業への責任を問うオーストラリアの新法成立)</description>
 </item>
 <item>
 <title>[70] 「Claude」で作ったアーティファクトがPCにインストール可能に、Windows/Mac対応／月ごとの振り返り機能の正式提供、コネクターとのファイル送受信も、ベータ提供</title>
@@ -805,6 +781,30 @@
 <pubDate>Tue, 24 Nov 2026 20:00:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>AWS CloudFormation now supports 206 additional resource types across 88 services, including Amazon SageMaker Hub, Amazon Bedrock AgentCore PolicyEngine, and Amazon EC2 Snapshot. This closes key gaps in CloudFormation coverage and helps customers to standardize on safe and scalable infrastructure management workflows. The launch utilized a new AI-driven internal framework to collapse the costs of onboarding resource types to CloudFormation, setting up CloudFormation for continued coverage expansi — AWS What's New / score: 70 (AWS CloudFormationのリソース網羅性大幅向上)</description>
+</item>
+<item>
+<title>[70] アプリ高速化ツール「SpeedyFox」が約14年ぶりのメジャー更新 ～対応プログラム拡充／ゼロから書き直し、Windows/macOS版を共通化、対応プログラムは30種類に</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2158563.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2158563.html</guid>
+<pubDate>Tue, 24 Nov 2026 10:53:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>ベルギーのCrystalIDEAは11月17日（現地時間）、Webブラウザーなどのプロファイルを最適化して動作を高速化するツール「SpeedyFox」v3.0.0を公開した。2012年のv2.0以来、約14年ぶりのメジャーバージョンアップとなる。前バージョンのv2.0.30（2020年10月）からも、約6年ぶりの更新だ。 — 窓の杜 / score: 70 (約14年ぶりとなるSpeedyFoxのメジャーアップデート)</description>
+</item>
+<item>
+<title>[70] [AINews] Jensen Is Back! and OpenAI Shows Its Pretraining Curve, joined by Microsoft</title>
+<link>https://latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft/</link>
+<guid isPermaLink="true">https://latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft/</guid>
+<pubDate>Tue, 24 Nov 2026 04:14:16 +0000</pubDate>
+<category>Latent Space</category>
+<description>November 23, 2026 — Nvidia reinstates its founder, and OpenAI publishes its internal loss curve and proposes a shared training limit. — Latent Space / score: 70 (NVIDIAとOpenAIの最新動向に関するニュース)</description>
+</item>
+<item>
+<title>[70] Clay helps sales teams win with Codex and ChatGPT</title>
+<link>https://openai.com/business/customer-stories/clay-plugins-openai</link>
+<guid isPermaLink="true">https://openai.com/business/customer-stories/clay-plugins-openai</guid>
+<pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+<category>OpenAI News</category>
+<description>ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning. — OpenAI News / score: 70 (企業におけるChatGPT/Codex活用の事例発表)</description>
 </item>
 </channel>
 </rss>
