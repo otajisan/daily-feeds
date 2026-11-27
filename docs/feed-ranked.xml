@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 27 Nov 2026 20:07:13 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 22:05:44 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Apache Tomcat」に“致命的”な脆弱性、修正版は未公開／未認証ノードがクラスターに参加可能に。対象環境では「TLS 1.2」への切り替えを推奨</title>
@@ -197,14 +197,6 @@
 <pubDate>Fri, 27 Nov 2026 08:15:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>NVIDIAがDELLやSupermicroといったメーカーに対し、シンガポール、マレーシア、インドネシア、タイの東南アジア4カ国にNVIDIA製半導体を搭載したサーバーを出荷しないよう指示したことがわかりました。東南アジア諸国が、NVIDIA製半導体を何とかして入手したい中国にとっての中継地になっており、アメリカの商務省が対策に乗り出したためです。 続きを読む... — GIGAZINE / score: 85 (NVIDIAの東南アジア向けサーバー出荷停止問題)</description>
-</item>
-<item>
-<title>[85] マイナアプリに複数の脆弱性、マイナンバーカードの情報窃取の恐れ　最新版に更新を</title>
-<link>https://ascii.jp/elem/000/004/455/4455531/</link>
-<guid isPermaLink="true">https://ascii.jp/elem/000/004/455/4455531/</guid>
-<pubDate>Fri, 27 Nov 2026 05:14:25 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Japan Vulnerability Notes（JVN）は11月27日、デジタル庁が提供するスマートフォンアプリ「マイナアプリ（旧マイナポータルアプリ）」の脆弱性情報を公開した。 想定される影響および脆弱性の対象となるバージョンは、それぞれ以下のとおり。 ●想定される影響 ・ユーザーが不正なリンクをクリックすることで、任意のサ... — はてなブックマーク テクノロジー / score: 85 (マイナアプリの深刻な脆弱性と情報窃取の危険)</description>
 </item>
 <item>
 <title>[85] 破産申請したAIチャットサービス「Character.AI」が2100万アカウント超の非公開の会話履歴を競売にかけようとしている</title>
@@ -439,6 +431,14 @@
 <description>ZGC gets adaptive heap sizing, value classes complicate numeric conversions, and primitive patterns are withdrawn as JDK 28 takes shape. — Inside Java / score: 80 (JDK 28に向けたJVMの重要なアップデート解説)</description>
 </item>
 <item>
+<title>[75] Amazon CloudWatch announces basic OpenTelemetry enrichment at no additional cost</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-opentelemetry-enrichment/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-opentelemetry-enrichment/</guid>
+<pubDate>Fri, 27 Nov 2026 21:03:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon CloudWatch now offers basic OpenTelemetry enrichment for AWS service metrics at no additional cost. Basic enrichment turns the metrics that AWS services publish to CloudWatch into OpenTelemetry data points you can query with PromQL. It covers metrics that identify a resource, such as Amazon EC2 CPUUtilization with an InstanceId dimension. Enriched metrics get resource attributes for the Amazon Resource Name, cloud provider, Region, and account ID, plus an instrumentation scope naming the  — AWS What's New / score: 75 (AWS CloudWatchとOpenTelemetryの機能拡張)</description>
+</item>
+<item>
 <title>[75] GoogleがAIエージェントによるGmailなどへのAPI直接アクセスを制限へ、MCPサーバーかCLIの使用を要求</title>
 <link>https://gigazine.net/news/20261127-google-workspace-ai-tools-mcp/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261127-google-workspace-ai-tools-mcp/</guid>
@@ -471,20 +471,20 @@
 <description>業務向け「Copilot」アプリに「Office」を統合、人とエージェントが協働する「Workspaces」も【Ignite 2026】／「Home」は一般提供、自律型の「Autopilot」はFrontier向けに展開開始 — はてなブックマーク テクノロジー / score: 75 (Microsoft Ignite 2026でのCopilot新機能発表)</description>
 </item>
 <item>
-<title>[75] さまざまなドキュメントを“AIが読める形”にする.NET API、Microsoftが「DocumentExtractionClient」を発表／OCRサービスやローカルモデルを切り替えて使える共通の仕組み、まずはプレビュー</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2159777.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2159777.html</guid>
-<pubDate>Fri, 27 Nov 2026 07:09:52 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>さまざまなドキュメントを“AIが読める形”にする.NET API、Microsoftが「DocumentExtractionClient」を発表／OCRサービスやローカルモデルを切り替えて使える共通の仕組み、まずはプレビュー — はてなブックマーク テクノロジー / score: 75 (Microsoftによる.NET向けAIドキュメント抽出APIのプレビュー公開)</description>
-</item>
-<item>
 <title>[75] DeNA、相づちを聞き逃さない日本語音声認識モデル3種を無償公開</title>
 <link>https://pc.watch.impress.co.jp/docs/news/2159894.html</link>
 <guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2159894.html</guid>
 <pubDate>Fri, 27 Nov 2026 05:41:30 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>DeNA、相づちを聞き逃さない日本語音声認識モデル3種を無償公開 — はてなブックマーク テクノロジー / score: 75 (DeNAによる日本語音声認識モデル3種の無償公開)</description>
+</item>
+<item>
+<title>[75] さまざまなドキュメントを“AIが読める形”にする.NET API、Microsoftが「DocumentExtractionClient」を発表／OCRサービスやローカルモデルを切り替えて使える共通の仕組み、まずはプレビュー</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2159777.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2159777.html</guid>
+<pubDate>Fri, 27 Nov 2026 05:29:00 +0000</pubDate>
+<category>窓の杜</category>
+<description>米Microsoftは11月24日（現地時間）、「.NET」向けの新しいドキュメント抽出ライブラリ「DocumentExtractionClient」をプレビュー公開した（「Microsoft.Extensions.DocumentExtraction」パッケージ）。PDFファイル、画像ファイル、スキャンしたドキュメント、「Microsoft Office」ドキュメントなどから、“構造化コンテンツ”（structured content）を取り出すための共通APIだ。 — 窓の杜 / score: 75 (Microsoftによる.NET向けAIドキュメント抽出APIのプレビュー公開)</description>
 </item>
 <item>
 <title>[75] GitHub、Copilot code reviewの課金先が未選択なら12月30日から組織課金に</title>
@@ -517,14 +517,6 @@
 <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 75 (主要なコーディングAIモデルの新たなメジャーリリース)</description>
-</item>
-<item>
-<title>[75] Skills over MCP、めっちゃよさそう | ashunar0</title>
-<link>https://ashunar0.dev/posts/skills-over-mcp/</link>
-<guid isPermaLink="true">https://ashunar0.dev/posts/skills-over-mcp/</guid>
-<pubDate>Thu, 26 Nov 2026 22:15:24 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>はじめに 11 月 24 日に、Anthropic から MCP まわりのアップデートが発表されました。 MCP servers can now ship skills, run tasks, and more with Claude Skills over MCP is in public beta in Claude, so MCP servers can ship skills alongside their tools. Tasks and Elicitation are now generally available, ... — はてなブックマーク テクノロジー / score: 75 (Claude MCPのスキル機能に関する注目アップデート)</description>
 </item>
 <item>
 <title>[75] 1Passwordに不正アクセス〜LastPass流出との違いは？</title>
@@ -751,6 +743,14 @@
 <description>Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof. — OpenAI News / score: 75 (物理学の格子上の標準模型定義に関するOpenAIの先進的取り組み)</description>
 </item>
 <item>
+<title>[70] 爆弾の作り方には答えるな。日本でもAIを取り締まる法案を検討中</title>
+<link>https://www.gizmodo.jp/article/2611-japan-ai-regulation-penalties/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-japan-ai-regulation-penalties/</guid>
+<pubDate>Fri, 27 Nov 2026 22:00:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>日本政府は2027年の通常国会提出を目指し、OpenAIやGoogleなどの先端AI事業者に対して安全対策や政府への報告を義務づけるAI法改正案の調整に入った。従わない場合は段階的な罰則も検討される。 — ギズモード・ジャパン / score: 70 (先端AI事業者の規制に関する国内法案の動向)</description>
+</item>
+<item>
 <title>[70] Introducing the Kotlin Security Newsletter</title>
 <link>https://blog.jetbrains.com/kotlin/2026/11/introducing-the-kotlin-security-newsletter/</link>
 <guid isPermaLink="true">https://blog.jetbrains.com/kotlin/2026/11/introducing-the-kotlin-security-newsletter/</guid>
@@ -778,9 +778,9 @@
 <title>[70] GitHub ActionsからPATもGitHub App Private Keyも駆逐する</title>
 <link>https://zenn.dev/tmknom/articles/github-app-token-exchange-system</link>
 <guid isPermaLink="true">https://zenn.dev/tmknom/articles/github-app-token-exchange-system</guid>
-<pubDate>Fri, 27 Nov 2026 04:35:43 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>GitHub ActionsではGITHUB_TOKENで権限が足りない場合、PAT（Personal Access Token）やGitHub App Token（Installation Access Token）を使います。PATに比べるとGitHub App Tokenはだいぶマシですが、Private Keyの管理が課題になります。そこで GATES というソフトウェアを作ってみたので紹介します。 GitHub Actions... — はてなブックマーク テクノロジー / score: 70 (GitHub Actionsの認証トークン管理の改善策)</description>
+<pubDate>Fri, 27 Nov 2026 02:51:13 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>GitHub ActionsではGITHUB_TOKENで権限が足りない場合、PAT（Personal Access Token）やGitHub App Token（Installation Access Token）を使います。PATに比べるとGitHub App Tokenはだいぶマシですが、Private Keyの管理が課題になります。そこで GATES というソフトウェアを作ってみたので紹介します。 GitHub App Tokenをワークフロー内で直接生成するには、GitHub AppのPrivate Keyをワークフローへ渡すのが一般的です。actions/create-gi... — Zenn トレンド / score: 70 (GitHub Actionsの認証トークン管理の改善策)</description>
 </item>
 <item>
 <title>[70] イーロン・マスクのNeuralinkが脳インプラントの実用化に前進、アメリカ初の主要臨床試験が承認される</title>

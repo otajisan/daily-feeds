@@ -4,8 +4,32 @@
 <title>daily-feeds</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 27 Nov 2026 20:07:13 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 22:05:44 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>爆弾の作り方には答えるな。日本でもAIを取り締まる法案を検討中</title>
+<link>https://www.gizmodo.jp/article/2611-japan-ai-regulation-penalties/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-japan-ai-regulation-penalties/</guid>
+<pubDate>Fri, 27 Nov 2026 22:00:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>日本政府は2027年の通常国会提出を目指し、OpenAIやGoogleなどの先端AI事業者に対して安全対策や政府への報告を義務づけるAI法改正案の調整に入った。従わない場合は段階的な罰則も検討される。 — ギズモード・ジャパン / score: 70 (先端AI事業者の規制に関する国内法案の動向)</description>
+</item>
+<item>
+<title>【魔改造】iPhone Duoは高すぎる。ならSurface DuoにiOS入れちゃおう！</title>
+<link>https://www.gizmodo.jp/article/2611-surface-duo-ios-install/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-surface-duo-ios-install/</guid>
+<pubDate>Fri, 27 Nov 2026 22:00:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>Duoのつくスマホといえば...そう、Surface Duoです。開発者のSmuOS氏が、Surface Duo 2にiOSをインストールするプロジェクトを進めています。 — ギズモード・ジャパン / score: 35 (ハードウェアへの別OS移植のハック記事)</description>
+</item>
+<item>
+<title>Amazon CloudWatch announces basic OpenTelemetry enrichment at no additional cost</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-opentelemetry-enrichment/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-opentelemetry-enrichment/</guid>
+<pubDate>Fri, 27 Nov 2026 21:03:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Amazon CloudWatch now offers basic OpenTelemetry enrichment for AWS service metrics at no additional cost. Basic enrichment turns the metrics that AWS services publish to CloudWatch into OpenTelemetry data points you can query with PromQL. It covers metrics that identify a resource, such as Amazon EC2 CPUUtilization with an InstanceId dimension. Enriched metrics get resource attributes for the Amazon Resource Name, cloud provider, Region, and account ID, plus an instrumentation scope naming the  — AWS What's New / score: 75 (AWS CloudWatchとOpenTelemetryの機能拡張)</description>
+</item>
 <item>
 <title>Amazon Neptune introduces Neptune Graph Sessions, smaller graphs designed for agents that scale to zero and resume automatically</title>
 <link>https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-neptune-graph-sessions-generally-available</link>
@@ -34,9 +58,9 @@
 <title>シンプルな構文で美しい図を自動生成する「D2」が進化、非営利化で独自レイアウトエンジンもオープンソース化</title>
 <link>https://gigazine.net/news/20261127-d2/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261127-d2/</guid>
-<pubDate>Fri, 27 Nov 2026 14:00:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>テキストで図形や矢印の関係を記述するだけで図を自動生成できる「D2」は、2022年に基本的な使い方をレビューしました。その後は手描き風のデザインやアニメーション、ターミナルでも表示できるASCII出力などに対応し、図の表現方法が広がっています。2026年9月には運営体制が非営利に切り替わり、独自の自動配置エンジンもオープンソース化されたので、追加された機能を中心に改めて使ってみました。 続きを読む... — GIGAZINE / score: 55 (図表生成ツールD2の非営利化とOSS化のニュース)</description>
+<pubDate>Fri, 27 Nov 2026 14:05:38 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>テキストで図形や矢印の関係を記述するだけで図を自動生成できる「D2」は、2022年に基本的な使い方をレビューしました。その後は手描き風のデザインやアニメーション、ターミナルでも表示できるASCII出力などに対応し、図の表現方法が広がっています。2026年9月には運営体制が非営利に切り替わり、独自の自動配置エンジ... — はてなブックマーク テクノロジー / score: 55 (図表生成ツールD2の非営利化とOSS化のニュース)</description>
 </item>
 <item>
 <title>電気自動車、タイヤの減り早すぎ。交換ペースがガソリン車の倍以上</title>
@@ -255,6 +279,14 @@
 <description>2027年秋に発売される見込みのiPhone20 Proシリーズでは、チタニウム合金の粉末をレーザーで積層する3Dプリンタを用いて、筐体の一部が製造されるとの予想が中国SNS「Weibo」に投稿されました。 アナリストの […] — iPhone Mania / score: 45 (将来のiPhoneにおける新製造技術の採用予想)</description>
 </item>
 <item>
+<title>曖昧をなくす AI 専用の言語、AImy をつくったらてんで役に立たなかったでござる</title>
+<link>https://qiita.com/kazuneet/items/ed8974cde032212e97a4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/kazuneet/items/ed8974cde032212e97a4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Fri, 27 Nov 2026 11:24:16 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>AI 向けの言語があるんジャマイカ AI にコードを書かせることが増えてきましたね。 ところで、AI が書いているのは Python や Rust など、人間が読み書きするために作られた言語です。AI が書いて AI が読むなら、人間向けの読みやすさはいらないし、AI ... — Qiita 人気記事 / score: 50 (AI向け独自言語の実験的試みに関する記事)</description>
+</item>
+<item>
 <title>はじめての Lean</title>
 <link>https://unaoya.github.io/lean-intro/</link>
 <guid isPermaLink="true">https://unaoya.github.io/lean-intro/</guid>
@@ -375,6 +407,14 @@
 <description>Jackeryの新型ポータブル電源「HomePower 1000 Plus v2」は容量1024Wh、出力1800Wで価格16万8000円。重さ約10キロと持ち運びやすい一方で、ファンの音が気になる点や他社機に比べた機能の差を書き手が実機で検証した。 — ギズモード・ジャパン / score: 30 (ポータブル電源の実機レビュー)</description>
 </item>
 <item>
+<title>【本人解説】アンドリュー・オコナー（ローナ・ショア／Lorna Shore）が2026年10月の来日公演で使用したサウンド・システム</title>
+<link>https://guitarmagazine.jp/interview/2026-1127-lorna-shore-andrew-sound-system/</link>
+<guid isPermaLink="true">https://guitarmagazine.jp/interview/2026-1127-lorna-shore-andrew-sound-system/</guid>
+<pubDate>Fri, 27 Nov 2026 11:00:00 +0000</pubDate>
+<category>ギター・マガジンWEB</category>
+<description>2009年、アメリカ・ニュージャージー州で結成されたローナ・ショア（Lorna Shore）。極限のヘヴィネスと壮大なシンフォニック・アレンジを融合させた音楽性で注目を集め、2021年リリースの楽曲「To the Hellfire」の大ヒットを機に世界的ブレイクを果たした。本記事では、2026年10月7日（水）に豊洲PITにて行なわれた来日公演で、アンドリュー・オコナー（g）が使用したサウンド・システムを本人の解説とともに紹介しよう。 取材・文＝三木深 機材撮影＝小原啓樹 人物撮影＝清水ケンシロウ Andrew O’Connor’s Sound System 2系統の出力が作り出す リッチなライブ・サウンド 【Gear List】 ①Shure / Axient Digital AD4Q（ワイヤレス受信機） ②Kemper Profiling Amplifier / Profiler PowerRack（アンプ／エフェクト・プロセッサー） ③Radial / JX42 V2（ギター／アンプ・スイッチャー） ④Mesa/Boogie / 4×12 Rectifier Standard S — ギター・マガジンWEB / score: 15 (ミュージシャンの機材解説でありIT技術情報ではない)</description>
+</item>
+<item>
 <title>【ブラックフライデーセール】28×32入出力 DSPミキシング、エフェクト＆ネットワーク接続対応Thunderbolt™ 4 / USB4 オーディオインターフェース、MOTU「848」が16%OFF</title>
 <link>https://computermusic.jp/2026/11/848-motu/</link>
 <guid isPermaLink="true">https://computermusic.jp/2026/11/848-motu/</guid>
@@ -487,6 +527,14 @@
 <description>イーロン・マスクがアメリカのすべての子どもにSpaceX株を2株ずつ贈ると発表。総額約2.9兆円規模となるこの施策には原則5年間の売却制限がある。 — ギズモード・ジャパン / score: 45 (巨大テック企業の動向として一定の注目)</description>
 </item>
 <item>
+<title>Kikuchi Guitarsが、16インチ大型深胴ボディのフルアコ・タイプ“JF16”を3色リリース</title>
+<link>https://guitarmagazine.jp/news/2026-1127-kikuchi-guitars-jf16/</link>
+<guid isPermaLink="true">https://guitarmagazine.jp/news/2026-1127-kikuchi-guitars-jf16/</guid>
+<pubDate>Fri, 27 Nov 2026 10:00:00 +0000</pubDate>
+<category>ギター・マガジンWEB</category>
+<description>ルシアー菊地嘉幸のブランドであるKikuchi Guitarsが、16インチ／70mmの深胴ボディを採用したフルアコ・タイプのギター“JF16”の販売を開始した。 同ブランドのフルアコ・タイプMF15シリーズやJF15シリーズよりも大型の16インチ・ボディが木材の持つトーンを引き出し、自然で豊かなア — ギター・マガジンWEB / score: 15 (楽器の新製品発売に関する情報)</description>
+</item>
+<item>
 <title>Twelve South AirFly Drive｜USBケーブル不要 ！CarPlay/Android Auto対応アプリがスマホをバッグに入れたまま、ワイヤレスで使えるBluetoothアダプタ</title>
 <link>https://ascii.jp/elem/000/004/455/4455843/?rss</link>
 <guid isPermaLink="true">https://ascii.jp/elem/000/004/455/4455843/?rss</guid>
@@ -583,6 +631,22 @@
 <description>Aurora Mobile株式会社、「AI in Action」グローバル・ロードショーを東京で開幕 — ASCII.jp / score: 30 (AI関連のイベント開催告知)</description>
 </item>
 <item>
+<title>XYZA、何度も自由に描き替え可能なカラーE Ink搭載スマートキーホルダー</title>
+<link>https://www.itmedia.co.jp/pcuser/articles/2611/27/news083.html</link>
+<guid isPermaLink="true">https://www.itmedia.co.jp/pcuser/articles/2611/27/news083.html</guid>
+<pubDate>Fri, 27 Nov 2026 09:23:05 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>XYZAは11月27日、充電不要で利用可能な小型E Inkパネル内蔵スマートキーホルダー「6色E Inkスマートキーホルダー」を発表、Amazon.co.jpで予約販売を開始した。価格は3500円（税込み）。 200×200ピクセル表示対応の1.54型カラーE Inkパネルを備えたキーホルダーで、NFC対応スマートフォンをかざすことで画像に変更を行う... — はてなブックマーク テクノロジー / score: 25 (ガジェットの紹介であり技術的影響は低い)</description>
+</item>
+<item>
+<title>Kizuna AI、春猿火ら9組がバーチャル空間に集結　VRChat音楽フェス「ESPERA」レポート</title>
+<link>https://kai-you.net/article/97275</link>
+<guid isPermaLink="true">https://kai-you.net/article/97275</guid>
+<pubDate>Fri, 27 Nov 2026 09:21:56 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>ソーシャルVRプラットフォーム「VRChat」で開催された音楽フェス「ESPERA -AdHoc Live Festival 2026-」のオフィシャルレポートが公開された。 「ESPERA」は、RIOT MUSICとカルチュア・エンタテインメントが共同企画したバーチャル音楽フェス。11月20日から22日までの3日間、VRChatを舞台に開催された。 最終日となる11... — はてなブックマーク テクノロジー / score: 20 (VRメタバース関連のイベントレポート)</description>
+</item>
+<item>
 <title>2026年11月27日のヘッドラインニュース</title>
 <link>https://gigazine.net/news/20261127-headline/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261127-headline/</guid>
@@ -647,12 +711,36 @@
 <description>10機種をコレクションしたアコーディオン音源の決定版、 Engine Audio「ACCORDIONS 2 – COLLECTION」が40%OFFとなっています。 Best Serviceではサイバーシーズ... The post 【ブラックフライデーセール】10機種をコレクションしたアコーディオン音源の決定版、 Engine Audio「ACCORDIONS 2 – COLLECTION」が40%OFF！ first appeared on Computer Music Japan . — Computer Music Japan / score: 25 (音楽制作用アコーディオン音源のセール情報)</description>
 </item>
 <item>
+<title>耳で聞く！ システム設計 視点の 行動経済学 13</title>
+<link>https://qiita.com/maskot1977/items/8f087ebd5eb037db60ea?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/maskot1977/items/8f087ebd5eb037db60ea?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Fri, 27 Nov 2026 09:01:05 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>user: ソース動画のタイトル、そしてこの動画の内容について教えてください。 Gemini: 動画のタイトルは 『日本の税制OSに潜む致命的なバグ : システム設計視点の行動経済学 Podcast 13』 （YouTubeチャンネル「PythonEc」）です。 この... — Qiita 人気記事 / score: 35 (行動経済学とシステム設計に関するポッドキャスト)</description>
+</item>
+<item>
 <title>紐も結ばない、完全にハンズフリーなスリップインスニーカー。履き心地も満点です</title>
 <link>https://www.gizmodo.jp/article/2611-skechers-slip-ins-cozy-fit/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/2611-skechers-slip-ins-cozy-fit/</guid>
 <pubDate>Fri, 27 Nov 2026 09:00:00 +0000</pubDate>
 <category>ギズモード・ジャパン</category>
 <description>スケッチャーズのスリップインズ コージーフィットとは、かかと部分のカーブ構造と固定されたシューレースにより、完全にハンズフリーで履けるスニーカーである。 — ギズモード・ジャパン / score: 10 (アパレル製品の紹介で技術に関係なし)</description>
+</item>
+<item>
+<title>【Linux/macOS】bashかzshがあれば使える、自動ログ取得ラッパーを作った</title>
+<link>https://qiita.com/84MT-K/items/2de7858664ced41ea62b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/84MT-K/items/2de7858664ced41ea62b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Fri, 27 Nov 2026 08:50:37 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>はじめに 皆さん、ログ取ってますか～? インフラエンジニアとして仕事をする時、全量ログを取るように求められる現場も多いと思います。 そしてそういった現場では、残念ながらおおむね手元端末はWindowsであり、TeratermやRLoginが使われているのではないでしょうか... — Qiita 人気記事 / score: 50 (実用的なシェルスクリプトのTips)</description>
+</item>
+<item>
+<title>耳で聞く！Python で学ぶ マクロ経済学 入門 53</title>
+<link>https://qiita.com/maskot1977/items/ef84cb30925440ea8f3c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/maskot1977/items/ef84cb30925440ea8f3c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Fri, 27 Nov 2026 08:48:40 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>user: ソース動画のタイトル、そしてこの動画の内容について教えてください。 Gemini: ソース動画のタイトル 「手取りを削るステルス増税の罠 : Pythonで学ぶマクロ経済学入門 Podcast 53」（YouTubeチャンネル「PythonEc」） ... — Qiita 人気記事 / score: 35 (経済学とプログラミングに関するポッドキャスト)</description>
 </item>
 <item>
 <title>ガーリックソースたっぷりなバーガーキングの小型にんにくバーガー「にんにく・ガーリックチーズバーガー」試食レビュー</title>
@@ -717,94 +805,6 @@
 <pubDate>Fri, 27 Nov 2026 08:00:00 +0000</pubDate>
 <category>Google Cloud リリースノート</category>
 <description>Managed Service for Apache Spark Feature Private Preview: Managed Service for Apache Spark on GKE v2 Run fully managed Apache Spark workloads natively on your Standard GKE clusters with the next-generation Managed Service for Apache Spark on GKE. To enroll in the preview and get projects allowlisted, reach out to dataproc-previews@google.com. — Google Cloud リリースノート / score: 35 (Google Cloud CLIの定例バグ修正)</description>
-</item>
-<item>
-<title>Honorもワイドな折りたたみリリース予定。バッテリー7,000mAhで来年3月発表？</title>
-<link>https://www.gizmodo.jp/article/2611-honor-wide-foldable-7000mah/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-honor-wide-foldable-7000mah/</guid>
-<pubDate>Fri, 27 Nov 2026 08:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>Honorが来年3月に発表すると噂される同社初のワイド折りたたみスマートフォンは、7,000mAhの大型バッテリーや2nmのSnapdragonチップを搭載し、価格は約24万円と予想されています — ギズモード・ジャパン / score: 30 (次期折りたたみスマホのリーク情報)</description>
-</item>
-<item>
-<title>iPhone16eが7月以来の入荷〜iPhone整備済製品【11/27】</title>
-<link>https://iphone-mania.jp/sale-609269/</link>
-<guid isPermaLink="true">https://iphone-mania.jp/sale-609269/</guid>
-<pubDate>Fri, 27 Nov 2026 07:59:40 +0000</pubDate>
-<category>iPhone Mania</category>
-<description>Appleオンラインストアの認定整備済製品として販売されているiPhone整備済製品として、7月1日以来となるiPhone16eが入荷しています。それ以外に在庫ありなのは、iPhone15 Plus、iPhone15 P […] — iPhone Mania / score: 20 (Apple製品の整備済製品の入荷情報)</description>
-</item>
-<item>
-<title>Apple Watch Series 11／SE 3が多数販売〜整備済製品【11/27】</title>
-<link>https://iphone-mania.jp/sale-609267/</link>
-<guid isPermaLink="true">https://iphone-mania.jp/sale-609267/</guid>
-<pubDate>Fri, 27 Nov 2026 07:50:07 +0000</pubDate>
-<category>iPhone Mania</category>
-<description>Appleオンラインストアで販売されているApple Watch整備済製品において、Apple Watch Series 11とApple Watch SE 3が多数販売されています。同モデル以外に現在、Apple Wa […] — iPhone Mania / score: 20 (Apple Watchの整備済製品の在庫状況)</description>
-</item>
-<item>
-<title>AIエージェントにも開発マニュアルを ―NVIDIAエンジニア、Linux 7.5に向けて“AIエージェントスキルシリーズ”を提出</title>
-<link>https://gihyo.jp/article/2026/11/daily-linux-261127?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/11/daily-linux-261127?utm_source=feed</guid>
-<pubDate>Fri, 27 Nov 2026 07:37:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>NVIDIA所属のエンジニアで、LinuxカーネルのStableおよびLTSブランチの共同メンテナーでもあるSasha Levinは11月26日、2027年2月以降のリリースが予定されている「Linux 7.5」に向けて、AIエージェントに特定のカーネル開発作業を行わせるための手順をまとめた「Skills」に関連する一連のパッチをLinus Torvaldsに送る意向を示した。 — gihyo.jp / score: 75 (Linuxカーネル開発へのAI活用動向)</description>
-</item>
-<item>
-<title>無人自転車ロボくん、山道を爆走。しかも自動運転です</title>
-<link>https://www.gizmodo.jp/article/autonomous-bicycle-robot_mountain-trail/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/autonomous-bicycle-robot_mountain-trail/</guid>
-<pubDate>Fri, 27 Nov 2026 07:35:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>ETHチューリヒなどの研究チームが、自転車型ロボット「UMV」によるマウンテンバイク道の自律走行を公開した。カメラとLiDARを搭載し、全長946mの未舗装路を平均時速11.7kmで走行した。 — ギズモード・ジャパン / score: 40 (ロボット工学の自律走行の実験成果)</description>
-</item>
-<item>
-<title>Devin Bot に毎朝のパフォーマンス改善を任せてみた - kickflow Tech Blog</title>
-<link>https://tech.kickflow.co.jp/entry/2026/11/27/154920</link>
-<guid isPermaLink="true">https://tech.kickflow.co.jp/entry/2026/11/27/154920</guid>
-<pubDate>Fri, 27 Nov 2026 07:33:50 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>毎朝規則正しく巡回してくれる Devin こんにちは。エンジニアの芳賀です。 ループエンジニアリング、流行ってますね！ さて、2026年11月17日、Cognition が Devin の新機能「Devin Bots」を発表しました。 ひと言でいうと、タスク単位ではなく成果単位で Devin に仕事を任せる機能です。 ということで、発表を見て早速 B... — はてなブックマーク テクノロジー / score: 60 (AIエージェントDevinの新機能活用事例)</description>
-</item>
-<item>
-<title>「財源がない」が特定の政策にのみ向かう非対称——選択的財源幻想の行動経済学 : システム設計視点の行動経済学 (69)</title>
-<link>https://qiita.com/maskot1977/items/30959d6ac44a2e3a0184?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/maskot1977/items/30959d6ac44a2e3a0184?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Fri, 27 Nov 2026 07:32:34 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>user: 「システム設計視点の行動経済学」、第67回を始めましょう。その前に、まず前回の復習として、 「そう決まっている」は「そうあるべき」ではない——財源幻想の第三層防衛を解体する : システム設計視点の行動経済学 (68) https://qiita.com/mas... — Qiita 人気記事 / score: 35 (システム設計視点での行動経済学に関する考察)</description>
-</item>
-<item>
-<title>業務向け「Copilot」アプリに「Office」を統合、人とエージェントが協働する「Workspaces」も【Ignite 2026】／「Home」は一般提供、自律型の「Autopilot」はFrontier向けに展開開始</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2159782.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2159782.html</guid>
-<pubDate>Fri, 27 Nov 2026 07:28:30 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>業務向け「Copilot」アプリに「Office」を統合、人とエージェントが協働する「Workspaces」も【Ignite 2026】／「Home」は一般提供、自律型の「Autopilot」はFrontier向けに展開開始 — はてなブックマーク テクノロジー / score: 75 (Microsoft Ignite 2026でのCopilot新機能発表)</description>
-</item>
-<item>
-<title>価格.comのAI駆動による全面刷新の現在地と振り返り</title>
-<link>https://speakerdeck.com/tkyowa/kakaku-com-ai-driven-system-renewal-202611</link>
-<guid isPermaLink="true">https://speakerdeck.com/tkyowa/kakaku-com-ai-driven-system-renewal-202611</guid>
-<pubDate>Fri, 27 Nov 2026 07:25:50 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>アーキテクチャカンファレンス2026の登壇資料です。 価格.comでは、約960万行のC#／Classic ASPで構築されたシステムを、AIを活用して全面刷新する「DODAIプロジェクト」を進めています。本発表では、2026年6月の発表から約半年が経過したプロジェクトの現在地と、実践を通じて見え… — はてなブックマーク テクノロジー / score: 65 (大規模レガシーシステムのAI駆動型全面刷新に関する実例解説)</description>
-</item>
-<item>
-<title>後回しできる設計、 前倒しすべき設計。</title>
-<link>https://speakerdeck.com/anizozina/akitekucha-kanfarensu-2026-atomawashi-dekiru-sekkei-maedaoshi-subeki-sekkei</link>
-<guid isPermaLink="true">https://speakerdeck.com/anizozina/akitekucha-kanfarensu-2026-atomawashi-dekiru-sekkei-maedaoshi-subeki-sekkei</guid>
-<pubDate>Fri, 27 Nov 2026 07:20:50 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Annual Pro sale · Save $30 Have presentations of your own? Share with private links, password protection, and more control over your work. — はてなブックマーク テクノロジー / score: 45 (ソフトウェア設計に関する一般的なベストプラクティス)</description>
-</item>
-<item>
-<title>さまざまなドキュメントを“AIが読める形”にする.NET API、Microsoftが「DocumentExtractionClient」を発表／OCRサービスやローカルモデルを切り替えて使える共通の仕組み、まずはプレビュー</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2159777.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2159777.html</guid>
-<pubDate>Fri, 27 Nov 2026 07:09:52 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>さまざまなドキュメントを“AIが読める形”にする.NET API、Microsoftが「DocumentExtractionClient」を発表／OCRサービスやローカルモデルを切り替えて使える共通の仕組み、まずはプレビュー — はてなブックマーク テクノロジー / score: 75 (Microsoftによる.NET向けAIドキュメント抽出APIのプレビュー公開)</description>
 </item>
 </channel>
 </rss>
