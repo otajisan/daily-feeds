@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 27 Nov 2026 10:06:32 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 12:09:19 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Apache Tomcat」に“致命的”な脆弱性、修正版は未公開／未認証ノードがクラスターに参加可能に。対象環境では「TLS 1.2」への切り替えを推奨</title>
@@ -23,6 +23,22 @@
 <description>Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API. — OpenAI News / score: 95 (主要なAIモデルのメジャーリリースと機能強化)</description>
 </item>
 <item>
+<title>[90] スマホの「マイナアプリ」に脆弱性、不正リンクからマイナンバーカード情報窃取のおそれ／iOS版/Android版ともに最新バージョンへのアップデートを</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2160150.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2160150.html</guid>
+<pubDate>Fri, 27 Nov 2026 11:40:59 +0000</pubDate>
+<category>窓の杜</category>
+<description>脆弱性対策情報ポータルサイト「JVN」は11月27日、脆弱性レポート「JVN#19729125」を公開した。デジタル庁が提供するスマートフォンアプリ「マイナアプリ」（旧：マイナポータルアプリ）に、複数の脆弱性が存在するという。 — 窓の杜 / score: 90 (マイナアプリにおける情報窃取の恐れがある脆弱性)</description>
+</item>
+<item>
+<title>[90] Linuxカーネルのバグ「TCPanic」を発見、TCP通信のみでホストが停止する脆弱性 | Ikotas Labs</title>
+<link>https://ikotaslabs.com/news/2026-11-27</link>
+<guid isPermaLink="true">https://ikotaslabs.com/news/2026-11-27</guid>
+<pubDate>Fri, 27 Nov 2026 09:14:53 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>研究・開発 Linuxカーネルのバグ「TCPanic」を発見、TCP通信のみでホストが停止する脆弱性Ikotas Labsは、TCP通信のみでホスト全体が停止する可能性のあるLinuxカーネルのバグを独自に発見しました。Linux 7.3.4にはこの問題の修正が含まれています。 概要 株式会社Ikotas Labsは、LinuxカーネルのTCP処理にあるバグを独... — はてなブックマーク テクノロジー / score: 90 (LinuxカーネルのTCP処理における深刻な脆弱性の発見)</description>
+</item>
+<item>
 <title>[90] 「ロリポップ！レンタルサーバー」および関連サービスに対する不正アクセスによるお客様情報の漏えいについて - ロリポップ！レンタルサーバー</title>
 <link>https://lolipop.jp/info/news/8279/</link>
 <guid isPermaLink="true">https://lolipop.jp/info/news/8279/</guid>
@@ -37,22 +53,6 @@
 <pubDate>Fri, 27 Nov 2026 06:13:26 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>プレイドのCXプラットフォーム「KARTE」が11月13日に不正アクセスを受け、大手から中小まで多数の企業の顧客情報が流出した問題で、すでにKARTEの契約を終了していた企業の顧客情報も漏えいしたとの発表が相次いでいる。 11月26日、LCCのPeach Aviationと、ファンケル傘下の化粧品メーカー・アテニアがそれぞれ、契約終... — はてなブックマーク テクノロジー / score: 90 (契約終了後もデータ流出した大規模な情報漏えい)</description>
-</item>
-<item>
-<title>[90] 1Passwordが不正アクセス被害。保管庫のパスワードは無事とのこと</title>
-<link>https://www.gizmodo.jp/article/2611-1password-security-breach-vaults-safe/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-1password-security-breach-vaults-safe/</guid>
-<pubDate>Fri, 27 Nov 2026 03:30:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>2026年11月25日に1Passwordが社内システムの不正アクセスを発表。氏名やメールアドレスが流出したが、保管庫のパスワードや暗号化されたデータは無事とのこと。 — ギズモード・ジャパン / score: 90 (主要パスワード管理ツールの不正アクセス)</description>
-</item>
-<item>
-<title>[90] 航空会社Peach、「KARTE」から最大約944万件の顧客情報漏えい　契約終了後も削除されず残存</title>
-<link>https://www.itmedia.co.jp/news/article/2611/27/2000003509/</link>
-<guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/27/2000003509/</guid>
-<pubDate>Fri, 27 Nov 2026 01:21:19 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>格安航空会社のPeach Aviationは11月26日、既に契約を終えていたプレイドのマーケティングサービス「KARTE」に、本来削除済みのはずの顧客情報が残っており、プレイドへの不正アクセスにより、外部に漏えいしたと発表した。対象は氏名や住所などで、最大約944万件（のべ件数）。 Peachは2019年8月1日から2025年8月31日ま... — はてなブックマーク テクノロジー / score: 90 (約944万件の顧客情報漏えいとセキュリティ問題)</description>
 </item>
 <item>
 <title>[90] パスワード管理「1Password」でデータ流出、一部顧客の氏名やメールアドレスなど／パスワード保管庫やその鍵は無事、招待・復旧メールを装ったフィッシングに注意</title>
@@ -93,14 +93,6 @@
 <pubDate>Tue, 24 Nov 2026 02:57:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>OpenAIとCiscoは2026年11月23日、Linux向けのオープンソース防御基盤「Shirudo」を発表した。 — gihyo.jp / score: 90 (OpenAIとCiscoによるLinux防御用OSSの公開)</description>
-</item>
-<item>
-<title>[90] 「Google Chrome 158」に深刻度最高の脆弱性、セキュリティアップデートが公開／サンドボックス外での任意コード実行につながるおそれ</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2158615.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2158615.html</guid>
-<pubDate>Tue, 24 Nov 2026 02:03:25 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Googleは11月23日（現地時間）、デスクトップ向け「Google Chrome」の安定（Stable）チャネルをアップデートした。Windows/Mac環境にはv158.0.8127.88/.89、Linux環境にはv158.0.8127.88が、今後数日から数週間のうちに展開される。 — 窓の杜 / score: 90 (Chromeの深刻な脆弱性修正アップデート)</description>
 </item>
 <item>
 <title>[90] PostgreSQL 19正式リリース。ノンブロッキングなREPACKやI/Oワーカーのオートスケールなど新機能</title>
@@ -202,9 +194,9 @@
 <title>[85] 破産申請したAIチャットサービス「Character.AI」が2100万アカウント超の非公開の会話履歴を競売にかけようとしている</title>
 <link>https://gigazine.net/news/20261127-character-ai-asset-sale/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261127-character-ai-asset-sale/</guid>
-<pubDate>Fri, 27 Nov 2026 02:42:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>AIチャットサービス「Character.AI」が破産手続きの一環として、アメリカ国内の2100万アカウント超の会話履歴を売却しようとしていることが明らかになりました。売却対象には未成年者の会話履歴も含まれており、アメリカの42人の州司法長官が裁判所に売却計画を認めないよう求めています。 続きを読む... — GIGAZINE / score: 85 (破産企業の膨大な会話履歴売却に関する懸念)</description>
+<pubDate>Fri, 27 Nov 2026 02:45:19 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>AIチャットサービス「Character.AI」が破産手続きの一環として、アメリカ国内の2100万アカウント超の会話履歴を売却しようとしていることが明らかになりました。売却対象には未成年者の会話履歴も含まれており、アメリカの42人の州司法長官が裁判所に売却計画を認めないよう求めています。 Attorney General Bonta Oppos... — はてなブックマーク テクノロジー / score: 85 (破産企業の膨大な会話履歴売却に関する懸念)</description>
 </item>
 <item>
 <title>[85] Microsoft、「agent-framework」が不正にPyPlへアップロードされたと発表</title>
@@ -375,14 +367,6 @@
 <description>Anthropicは2026年11月24日、ClaudeおよびClaude Codeにおいて、MCPサーバーがスキルを配信できる「Skills over MCP」などの新機能の提供開始を発表した。 — gihyo.jp / score: 80 (AnthropicによるMCPの新機能とパブリックベータ公開)</description>
 </item>
 <item>
-<title>[80] Claude Code のセキュリティ、2026年11月時点のベストプラクティス（サンドボックス・権限・MCP）</title>
-<link>https://zenn.dev/happy_elements/articles/27e14ff6754044</link>
-<guid isPermaLink="true">https://zenn.dev/happy_elements/articles/27e14ff6754044</guid>
-<pubDate>Wed, 25 Nov 2026 03:53:12 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>Claude に実行を任せた Bash コマンドは、Claude Code を起動したマシンの上で、自分のユーザー権限で動きます。Mac のターミナルで起動したなら、その Mac です。サンドボックスをオンにしても動く場所は同じで、変わるのは、実行中のコマンドがアクセスできるファイルと通信先の制限です。 2026 年 11 月時点の公式ドキュメントと changelog をもとに、Claude Code CLI の権限ルール、Bash サンドボックス、MCP の設定をサンプルとチェックリストにまとめました。認証情報を使わずに、ダミーファイルで読み取り制限を確認する手順も載せています。 実... — Zenn トレンド / score: 80 (Claude Codeのセキュリティとベストプラクティス)</description>
-</item>
-<item>
 <title>[80] AWS WAF announces automated discovery and protection for LLM, MCP, and A2A endpoints using Amazon Bedrock Guardrails</title>
 <link>https://aws.amazon.com/about-aws/whats-new/2026/11/waf-ai-endpoint-discovery-protection/</link>
 <guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/waf-ai-endpoint-discovery-protection/</guid>
@@ -431,12 +415,28 @@
 <description>Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections. — OpenAI News / score: 80 (OpenAIによる決済機能統合の重要発表)</description>
 </item>
 <item>
+<title>[75] GoogleがAIエージェントによるGmailなどへのAPI直接アクセスを制限へ、MCPサーバーかCLIの使用を要求</title>
+<link>https://gigazine.net/news/20261127-google-workspace-ai-tools-mcp/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261127-google-workspace-ai-tools-mcp/</guid>
+<pubDate>Fri, 27 Nov 2026 12:00:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>Googleは2027年2月1日から、AIエージェントがGmailやGoogleドライブなどのGoogle Workspaceのサービスにアクセスする際に公式のMCPサーバーやGoogle Workspace CLIを使用するよう求める方針を発表しました。GmailのMCPサーバーを巡ってはメールの送信などが一部の開発者に限定されていることが指摘されていましたが、記事作成時点で機能制限に関する記述がすでに変更されています。 続きを読む... — GIGAZINE / score: 75 (Google WorkspaceへのAIアクセス制限とAPI仕様変更)</description>
+</item>
+<item>
 <title>[75] AIエージェントにも開発マニュアルを ―NVIDIAエンジニア、Linux 7.5に向けて“AIエージェントスキルシリーズ”を提出</title>
 <link>https://gihyo.jp/article/2026/11/daily-linux-261127?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/11/daily-linux-261127?utm_source=feed</guid>
 <pubDate>Fri, 27 Nov 2026 07:37:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>NVIDIA所属のエンジニアで、LinuxカーネルのStableおよびLTSブランチの共同メンテナーでもあるSasha Levinは11月26日、2027年2月以降のリリースが予定されている「Linux 7.5」に向けて、AIエージェントに特定のカーネル開発作業を行わせるための手順をまとめた「Skills」に関連する一連のパッチをLinus Torvaldsに送る意向を示した。 — gihyo.jp / score: 75 (Linuxカーネル開発へのAI活用動向)</description>
+</item>
+<item>
+<title>[75] さまざまなドキュメントを“AIが読める形”にする.NET API、Microsoftが「DocumentExtractionClient」を発表／OCRサービスやローカルモデルを切り替えて使える共通の仕組み、まずはプレビュー</title>
+<link>https://forest.watch.impress.co.jp/docs/news/2159777.html</link>
+<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2159777.html</guid>
+<pubDate>Fri, 27 Nov 2026 07:09:52 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>さまざまなドキュメントを“AIが読める形”にする.NET API、Microsoftが「DocumentExtractionClient」を発表／OCRサービスやローカルモデルを切り替えて使える共通の仕組み、まずはプレビュー — はてなブックマーク テクノロジー / score: 75 (Microsoftによる.NET向けAIドキュメント抽出APIのプレビュー公開)</description>
 </item>
 <item>
 <title>[75] 業務向け「Copilot」アプリに「Office」を統合、人とエージェントが協働する「Workspaces」も【Ignite 2026】／「Home」は一般提供、自律型の「Autopilot」はFrontier向けに展開開始</title>
@@ -447,12 +447,12 @@
 <description>米Microsoftは11月17日（現地時間）、年次イベント「Microsoft Ignite 2026」で、業務向け「Copilot」の新機能を発表した。9月に発表された新しい「Copilot」のビジョンがいよいよ具体化される。 — 窓の杜 / score: 75 (Microsoft Ignite 2026でのCopilot新機能発表)</description>
 </item>
 <item>
-<title>[75] さまざまなドキュメントを“AIが読める形”にする.NET API、Microsoftが「DocumentExtractionClient」を発表／OCRサービスやローカルモデルを切り替えて使える共通の仕組み、まずはプレビュー</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2159777.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2159777.html</guid>
-<pubDate>Fri, 27 Nov 2026 05:29:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Microsoftは11月24日（現地時間）、「.NET」向けの新しいドキュメント抽出ライブラリ「DocumentExtractionClient」をプレビュー公開した（「Microsoft.Extensions.DocumentExtraction」パッケージ）。PDFファイル、画像ファイル、スキャンしたドキュメント、「Microsoft Office」ドキュメントなどから、“構造化コンテンツ”（structured content）を取り出すための共通APIだ。 — 窓の杜 / score: 75 (Microsoftによる.NET向けAIドキュメント抽出APIのプレビュー公開)</description>
+<title>[75] DeNA、相づちを聞き逃さない日本語音声認識モデル3種を無償公開</title>
+<link>https://pc.watch.impress.co.jp/docs/news/2159894.html</link>
+<guid isPermaLink="true">https://pc.watch.impress.co.jp/docs/news/2159894.html</guid>
+<pubDate>Fri, 27 Nov 2026 05:41:30 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>DeNA、相づちを聞き逃さない日本語音声認識モデル3種を無償公開 — はてなブックマーク テクノロジー / score: 75 (DeNAによる日本語音声認識モデル3種の無償公開)</description>
 </item>
 <item>
 <title>[75] GitHub、Copilot code reviewの課金先が未選択なら12月30日から組織課金に</title>
