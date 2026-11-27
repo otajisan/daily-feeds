@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 27 Nov 2026 08:08:18 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 10:06:32 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Apache Tomcat」に“致命的”な脆弱性、修正版は未公開／未認証ノードがクラスターに参加可能に。対象環境では「TLS 1.2」への切り替えを推奨</title>
@@ -143,14 +143,6 @@
 <description>Google、Microsoft、AWS、Cloudflareは2026年10月末から11月13日にかけて、AIエージェントを使う侵入テストツールARTEXなどの悪用を相次いで報告した。攻撃者は、認証情報の探索や侵入先の調査に加え、侵入先から別のシステムへ攻撃を広げる際にもエージェントを利用している。 — gihyo.jp / score: 90 (主要IT企業によるAI侵入ツールの悪用報告)</description>
 </item>
 <item>
-<title>[90] [AINews] Jensen Huang resigns after 33 years leading NVIDIA</title>
-<link>https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/</link>
-<guid isPermaLink="true">https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/</guid>
-<pubDate>Fri, 13 Nov 2026 09:04:13 +0000</pubDate>
-<category>Latent Space</category>
-<description>November 12, 2026 — Colette Kress takes over as interim CEO. What happens to open source/American AI leadership? — Latent Space / score: 90 (NVIDIAのジェンスン・フアンCEOの退任報道)</description>
-</item>
-<item>
 <title>[88] Introducing Gemini 4 Neon</title>
 <link>https://deepmind.google/blog/introducing-gemini-4-neon/</link>
 <guid isPermaLink="true">https://deepmind.google/blog/introducing-gemini-4-neon/</guid>
@@ -167,12 +159,44 @@
 <description>Today, we’re introducing Gemini 4 Neon — Gemini (Google Blog) / score: 88 (Googleの新型モデルGemini 4 Neonの発表)</description>
 </item>
 <item>
+<title>[85] エヌビディア、東南アジア4カ国へのAI半導体の出荷を停止</title>
+<link>https://www.gizmodo.jp/article/2611-nvidia-southeast-asia-ai-chip-ban/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-nvidia-southeast-asia-ai-chip-ban/</guid>
+<pubDate>Fri, 27 Nov 2026 09:15:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>NVIDIAがインドネシアやマレーシアなど東南アジア4カ国向けAIサーバーの出荷を停止。米国商務省による中国企業の遠隔アクセス規制強化や、トランプ政権の新たなルール策定を受けた暫定措置とされている。 — ギズモード・ジャパン / score: 85 (半導体輸出規制に関わる重要な国際ニュース)</description>
+</item>
+<item>
+<title>[85] マイナアプリ 旧Ver.に脆弱性</title>
+<link>https://news.yahoo.co.jp/pickup/6604215?source=rss</link>
+<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6604215?source=rss</guid>
+<pubDate>Fri, 27 Nov 2026 09:12:52 +0000</pubDate>
+<category>Yahoo!ニュース IT</category>
+<description> — Yahoo!ニュース IT / score: 85 (マイナアプリ旧バージョンのセキュリティ脆弱性)</description>
+</item>
+<item>
+<title>[85] NVIDIAがシンガポールなど東南アジア4カ国へのサーバー出荷停止をDELLやSupermicroなどに指示</title>
+<link>https://gigazine.net/news/20261127-nvidia-stops-chips-shipments-to-south-east-asia/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261127-nvidia-stops-chips-shipments-to-south-east-asia/</guid>
+<pubDate>Fri, 27 Nov 2026 08:15:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>NVIDIAがDELLやSupermicroといったメーカーに対し、シンガポール、マレーシア、インドネシア、タイの東南アジア4カ国にNVIDIA製半導体を搭載したサーバーを出荷しないよう指示したことがわかりました。東南アジア諸国が、NVIDIA製半導体を何とかして入手したい中国にとっての中継地になっており、アメリカの商務省が対策に乗り出したためです。 続きを読む... — GIGAZINE / score: 85 (NVIDIAの東南アジア向けサーバー出荷停止問題)</description>
+</item>
+<item>
 <title>[85] マイナアプリに複数の脆弱性、マイナンバーカードの情報窃取の恐れ　最新版に更新を</title>
 <link>https://ascii.jp/elem/000/004/455/4455531/</link>
 <guid isPermaLink="true">https://ascii.jp/elem/000/004/455/4455531/</guid>
 <pubDate>Fri, 27 Nov 2026 05:14:25 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>Japan Vulnerability Notes（JVN）は11月27日、デジタル庁が提供するスマートフォンアプリ「マイナアプリ（旧マイナポータルアプリ）」の脆弱性情報を公開した。 想定される影響および脆弱性の対象となるバージョンは、それぞれ以下のとおり。 ●想定される影響 ・ユーザーが不正なリンクをクリックすることで、任意のサ... — はてなブックマーク テクノロジー / score: 85 (マイナアプリの深刻な脆弱性と情報窃取の危険)</description>
+</item>
+<item>
+<title>[85] CVE-2026-99288 | Ubuntu</title>
+<link>https://ubuntu.com/security/CVE-2026-99288</link>
+<guid isPermaLink="true">https://ubuntu.com/security/CVE-2026-99288</guid>
+<pubDate>Fri, 27 Nov 2026 04:20:59 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Description In the Linux kernel, the following vulnerability has been resolved: inet: reject unhashed sockets during established lookups TCP established ehash lookups are lockless. The socket caches involved use SLAB_TYPESAFE_BY_RCU, so memory can be reused before an RCU reader that retained its ... — はてなブックマーク テクノロジー / score: 85 (Linuxカーネルの脆弱性修正に関する情報)</description>
 </item>
 <item>
 <title>[85] 破産申請したAIチャットサービス「Character.AI」が2100万アカウント超の非公開の会話履歴を競売にかけようとしている</title>
@@ -197,14 +221,6 @@
 <pubDate>Thu, 26 Nov 2026 17:00:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Amazon Relational Database Service (RDS) for PostgreSQL now supports the latest minor versions 18.7, 17.12, 16.16, 15.20, and 14.25. We recommend that you upgrade to the latest minor versions to address Common Vulnerabilities and Exposures (CVEs) in prior versions of PostgreSQL, and to benefit from the bug fixes and improvements added by the PostgreSQL community. You can upgrade your databases during scheduled maintenance windows using automatic minor version upgrades. To simplify operations at  — AWS What's New / score: 85 (Amazon RDS for PostgreSQLの最新マイナーバージョン対応)</description>
-</item>
-<item>
-<title>[85] OpenAIが57年来の数学の難問「行列乗算はどこまで効率化できるのか」に決着をつける論文を公開</title>
-<link>https://gigazine.net/news/20261126-openai-matrix-multiplication/</link>
-<guid isPermaLink="true">https://gigazine.net/news/20261126-openai-matrix-multiplication/</guid>
-<pubDate>Thu, 26 Nov 2026 08:30:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>OpenAIが2026年11月25日、2つの正方行列を掛け合わせる際の計算量を左右する「行列乗算の指数(ω)」が正確に4分の9であることを証明したとする論文を公開しました。行列乗算の計算量をどこまで削減できるのかは1969年から研究が続けられてきた問題で、数学やコンピューター科学における重要な未解決問題の1つとされてきました。 続きを読む... — GIGAZINE / score: 85 (数学の難問行列乗算に関するOpenAIの画期的な論文)</description>
 </item>
 <item>
 <title>[85] Elastic Load Balancing for Envoy is now generally available</title>
@@ -351,20 +367,20 @@
 <description>JEP 401 (Value Objects) arrives in OpenJDK as a preview feature, enabling a new Java type model with minimal code changes. The talk explains what value objects are, JVM benefits, Valhalla history, implementation details, and the path toward bridging objects and primitives, including future support like List&lt;int&gt;. — Inside Java / score: 82 (Java Valhallaプロジェクトの解説と進化)</description>
 </item>
 <item>
-<title>[80] Anthropic、MCPサーバーがスキルを配信する「Skills over MCP」をパブリックベータ公開 ―Tasks、Elicitationの一般提供も開始 | gihyo.jp</title>
-<link>https://gihyo.jp/article/2026/11/skills-over-mcp</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/11/skills-over-mcp</guid>
-<pubDate>Thu, 26 Nov 2026 09:44:20 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Anthropic⁠⁠、MCPサーバーがスキルを配信する「Skills over MCP」をパブリックベータ公開 ―Tasks⁠⁠、Elicitationの一般提供も開始 Anthropicは2026年11月24日、ClaudeおよびClaude Codeにおいて、MCPサーバーがスキルを配信できる「Skills over MCP」などの新機能の提供開始を発表した。 MCP servers can now ship skill... — はてなブックマーク テクノロジー / score: 80 (AnthropicによるMCPの新機能とパブリックベータ公開)</description>
+<title>[80] Anthropic、MCPサーバーがスキルを配信する「Skills over MCP」をパブリックベータ公開 ―Tasks、Elicitationの一般提供も開始</title>
+<link>https://gihyo.jp/article/2026/11/skills-over-mcp?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/11/skills-over-mcp?utm_source=feed</guid>
+<pubDate>Thu, 26 Nov 2026 07:53:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Anthropicは2026年11月24日、ClaudeおよびClaude Codeにおいて、MCPサーバーがスキルを配信できる「Skills over MCP」などの新機能の提供開始を発表した。 — gihyo.jp / score: 80 (AnthropicによるMCPの新機能とパブリックベータ公開)</description>
 </item>
 <item>
-<title>[80] 「PHP 8.6」が正式リリース、関数型っぽく書ける「Partial Function Application」などを導入／経過時間を表す「Duration」クラスや「clamp()」関数も。2030年末までサポート</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2158479.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2158479.html</guid>
-<pubDate>Tue, 24 Nov 2026 01:15:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>スクリプト言語「PHP」の開発チームは11月19日（協定世界時）、「PHP 8.6」をリリースした。新しい構文、性能の向上、そして型安全性の改善を図ったメジャーアップデートとなっている。 — 窓の杜 / score: 80 (主要スクリプト言語PHP 8.6の正式リリース)</description>
+<title>[80] Claude Code のセキュリティ、2026年11月時点のベストプラクティス（サンドボックス・権限・MCP）</title>
+<link>https://zenn.dev/happy_elements/articles/27e14ff6754044</link>
+<guid isPermaLink="true">https://zenn.dev/happy_elements/articles/27e14ff6754044</guid>
+<pubDate>Wed, 25 Nov 2026 03:53:12 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>Claude に実行を任せた Bash コマンドは、Claude Code を起動したマシンの上で、自分のユーザー権限で動きます。Mac のターミナルで起動したなら、その Mac です。サンドボックスをオンにしても動く場所は同じで、変わるのは、実行中のコマンドがアクセスできるファイルと通信先の制限です。 2026 年 11 月時点の公式ドキュメントと changelog をもとに、Claude Code CLI の権限ルール、Bash サンドボックス、MCP の設定をサンプルとチェックリストにまとめました。認証情報を使わずに、ダミーファイルで読み取り制限を確認する手順も載せています。 実... — Zenn トレンド / score: 80 (Claude Codeのセキュリティとベストプラクティス)</description>
 </item>
 <item>
 <title>[80] AWS WAF announces automated discovery and protection for LLM, MCP, and A2A endpoints using Amazon Bedrock Guardrails</title>
@@ -413,6 +429,14 @@
 <pubDate>Fri, 13 Nov 2026 15:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections. — OpenAI News / score: 80 (OpenAIによる決済機能統合の重要発表)</description>
+</item>
+<item>
+<title>[75] AIエージェントにも開発マニュアルを ―NVIDIAエンジニア、Linux 7.5に向けて“AIエージェントスキルシリーズ”を提出</title>
+<link>https://gihyo.jp/article/2026/11/daily-linux-261127?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/11/daily-linux-261127?utm_source=feed</guid>
+<pubDate>Fri, 27 Nov 2026 07:37:00 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>NVIDIA所属のエンジニアで、LinuxカーネルのStableおよびLTSブランチの共同メンテナーでもあるSasha Levinは11月26日、2027年2月以降のリリースが予定されている「Linux 7.5」に向けて、AIエージェントに特定のカーネル開発作業を行わせるための手順をまとめた「Skills」に関連する一連のパッチをLinus Torvaldsに送る意向を示した。 — gihyo.jp / score: 75 (Linuxカーネル開発へのAI活用動向)</description>
 </item>
 <item>
 <title>[75] 業務向け「Copilot」アプリに「Office」を統合、人とエージェントが協働する「Workspaces」も【Ignite 2026】／「Home」は一般提供、自律型の「Autopilot」はFrontier向けに展開開始</title>
@@ -485,14 +509,6 @@
 <pubDate>Thu, 26 Nov 2026 09:11:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>Windowsに付属するコマンドラインツール「Telnet Client」（telnet.exe）が非推奨になるとのこと。米Microsoftが11月25日（現地時間）、自社のドキュメントサイト「Microsoft Learn」で明らかにした。 — 窓の杜 / score: 75 (WindowsのTelnetクライアントが非推奨に)</description>
-</item>
-<item>
-<title>[75] 「git push が通らないので調べて」と頼むと、Codex は作業フォルダの外の ~/.ssh を読んだ。Claude Code と Gemini CLI は確認なしでは読まなかった（偽の鍵で60回）</title>
-<link>https://qiita.com/suwa_nobu/items/3bcba393673985c9b8ed?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid isPermaLink="true">https://qiita.com/suwa_nobu/items/3bcba393673985c9b8ed?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
-<pubDate>Thu, 26 Nov 2026 00:57:58 +0000</pubDate>
-<category>Qiita 人気記事</category>
-<description>11/25 に 1Password がセキュリティインシデントを公表しました。Hacker News では、11/26 の朝の時点で983ポイントを集めていました。社員の GitHub アカウントが乗っ取られ、そこから一部の利用者の名前やメールアドレスが持ち出されたそうです... — Qiita 人気記事 / score: 75 (AIエージェントのセキュリティリスクと脆弱性)</description>
 </item>
 <item>
 <title>[75] MCPに新機能「Skills over MCP」登場。ツールとの接続だけでなく使い方のスキルもMCP経由で提供</title>
@@ -714,9 +730,9 @@
 <title>[70] GitHub ActionsからPATもGitHub App Private Keyも駆逐する</title>
 <link>https://zenn.dev/tmknom/articles/github-app-token-exchange-system</link>
 <guid isPermaLink="true">https://zenn.dev/tmknom/articles/github-app-token-exchange-system</guid>
-<pubDate>Fri, 27 Nov 2026 02:51:13 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>GitHub ActionsではGITHUB_TOKENで権限が足りない場合、PAT（Personal Access Token）やGitHub App Token（Installation Access Token）を使います。PATに比べるとGitHub App Tokenはだいぶマシですが、Private Keyの管理が課題になります。そこで GATES というソフトウェアを作ってみたので紹介します。 GitHub App Tokenをワークフロー内で直接生成するには、GitHub AppのPrivate Keyをワークフローへ渡すのが一般的です。actions/create-gi... — Zenn トレンド / score: 70 (GitHub Actionsの認証トークン管理の改善策)</description>
+<pubDate>Fri, 27 Nov 2026 04:35:43 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>GitHub ActionsではGITHUB_TOKENで権限が足りない場合、PAT（Personal Access Token）やGitHub App Token（Installation Access Token）を使います。PATに比べるとGitHub App Tokenはだいぶマシですが、Private Keyの管理が課題になります。そこで GATES というソフトウェアを作ってみたので紹介します。 GitHub Actions... — はてなブックマーク テクノロジー / score: 70 (GitHub Actionsの認証トークン管理の改善策)</description>
 </item>
 <item>
 <title>[70] イーロン・マスクのNeuralinkが脳インプラントの実用化に前進、アメリカ初の主要臨床試験が承認される</title>
@@ -789,22 +805,6 @@
 <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning. — OpenAI News / score: 70 (企業におけるChatGPT/Codex活用の事例発表)</description>
-</item>
-<item>
-<title>[70] Human in the Loop with Spring AI 2.1: Tool Calls That Survive a Restart</title>
-<link>https://spring.io/blog/2026/11/24/spring-ai-tool-call-confirmation-park-resume</link>
-<guid isPermaLink="true">https://spring.io/blog/2026/11/24/spring-ai-tool-call-confirmation-park-resume</guid>
-<pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-<category>Spring Blog</category>
-<description>Spring AI: Tool Call Confirmation | Session Extensions | Demo A bank support agent can look up why a mortgage payment failed. That is reading, and the model may do it on its own. Collecting the payment today moves money, and a person must approve it first. Asking "may I?" is the easy part. The hard part is the wait. The approver answers minutes or hours later, maybe on another instance of the application, maybe after a restart. Whatever the agent was doing must still be there when the answer com — Spring Blog / score: 70 (Spring AI 2.1におけるHuman-in-the-Loop機能の解説)</description>
-</item>
-<item>
-<title>[70] Amazon API Gateway announces API Portal</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-announces-api-portal/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-announces-api-portal/</guid>
-<pubDate>Mon, 23 Nov 2026 20:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Today, Amazon API Gateway announces API Portal , a new feature that discovers, governs, and documents the APIs and AI endpoints behind Amazon API Gateway, Application Load Balancer, and Amazon CloudFront across your AWS organization. Many organizations can't see which APIs are running, which were never registered, which are no longer maintained, and which lack protection. API Portal builds a continuously updated inventory using AWS-side traffic logs and service configuration records, with nothin — AWS What's New / score: 70 (AWS API Gatewayの新機能ポータル発表)</description>
 </item>
 </channel>
 </rss>
