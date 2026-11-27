@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 27 Nov 2026 14:06:17 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 16:06:55 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Apache Tomcat」に“致命的”な脆弱性、修正版は未公開／未認証ノードがクラスターに参加可能に。対象環境では「TLS 1.2」への切り替えを推奨</title>
@@ -21,6 +21,14 @@
 <pubDate>Tue, 17 Nov 2026 17:45:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API. — OpenAI News / score: 95 (主要なAIモデルのメジャーリリースと機能強化)</description>
+</item>
+<item>
+<title>[90] 「ロリポップ！レンタルサーバー」の平文パスワード情報などが漏えい。GMOペパボの内部システムに不正アクセス　顧客情報51万6564件が漏えいの可能性、対象者に個別メール連絡</title>
+<link>https://internet.watch.impress.co.jp/docs/news/2160136.html</link>
+<guid isPermaLink="true">https://internet.watch.impress.co.jp/docs/news/2160136.html</guid>
+<pubDate>Fri, 27 Nov 2026 12:29:54 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>「ロリポップ！レンタルサーバー」の平文パスワード情報などが漏えい。GMOペパボの内部システムに不正アクセス 顧客情報51万6564件が漏えいの可能性、対象者に個別メール連絡 — はてなブックマーク テクノロジー / score: 90 (大規模な顧客情報漏洩と平文パスワード保存の重大なセキュリティ事故)</description>
 </item>
 <item>
 <title>[90] スマホの「マイナアプリ」に脆弱性、不正リンクからマイナンバーカード情報窃取のおそれ／iOS版/Android版ともに最新バージョンへのアップデートを</title>
@@ -151,6 +159,14 @@
 <description>Today, we’re introducing Gemini 4 Neon — Gemini (Google Blog) / score: 88 (Googleの新型モデルGemini 4 Neonの発表)</description>
 </item>
 <item>
+<title>[85] 「勇気ありすぎだろ」GMOが買収した激安サーバー「ロリポップ！」が顧客情報の漏洩を公表、漏れた一部パスワードを“平文で”保存していた模様</title>
+<link>https://togetter.com/li/2775731</link>
+<guid isPermaLink="true">https://togetter.com/li/2775731</guid>
+<pubDate>Fri, 27 Nov 2026 11:42:54 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>「勇気ありすぎだろ」GMOが買収した激安サーバー「ロリポップ！」が顧客情報の漏洩を公表、漏れた一部パスワードを“平文で”保存していた模様 「勇気ありすぎだろ」GMOが買収した激安サーバー「ロリポップ！」が顧客情報の漏洩を公表、漏れた一部パスワードを“平文で”保存していた模様 — はてなブックマーク テクノロジー / score: 85 (平文パスワード保存と大規模情報漏洩に関するセキュリティインシデント)</description>
+</item>
+<item>
 <title>[85] エヌビディア、東南アジア4カ国へのAI半導体の出荷を停止</title>
 <link>https://www.gizmodo.jp/article/2611-nvidia-southeast-asia-ai-chip-ban/</link>
 <guid isPermaLink="true">https://www.gizmodo.jp/article/2611-nvidia-southeast-asia-ai-chip-ban/</guid>
@@ -181,14 +197,6 @@
 <pubDate>Fri, 27 Nov 2026 05:14:25 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>Japan Vulnerability Notes（JVN）は11月27日、デジタル庁が提供するスマートフォンアプリ「マイナアプリ（旧マイナポータルアプリ）」の脆弱性情報を公開した。 想定される影響および脆弱性の対象となるバージョンは、それぞれ以下のとおり。 ●想定される影響 ・ユーザーが不正なリンクをクリックすることで、任意のサ... — はてなブックマーク テクノロジー / score: 85 (マイナアプリの深刻な脆弱性と情報窃取の危険)</description>
-</item>
-<item>
-<title>[85] CVE-2026-99288 | Ubuntu</title>
-<link>https://ubuntu.com/security/CVE-2026-99288</link>
-<guid isPermaLink="true">https://ubuntu.com/security/CVE-2026-99288</guid>
-<pubDate>Fri, 27 Nov 2026 04:20:59 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>Description In the Linux kernel, the following vulnerability has been resolved: inet: reject unhashed sockets during established lookups TCP established ehash lookups are lockless. The socket caches involved use SLAB_TYPESAFE_BY_RCU, so memory can be reused before an RCU reader that retained its ... — はてなブックマーク テクノロジー / score: 85 (Linuxカーネルの脆弱性修正に関する情報)</description>
 </item>
 <item>
 <title>[85] 破産申請したAIチャットサービス「Character.AI」が2100万アカウント超の非公開の会話履歴を競売にかけようとしている</title>
@@ -375,14 +383,6 @@
 <description>Anthropicは2026年11月24日、ClaudeおよびClaude Codeにおいて、MCPサーバーがスキルを配信できる「Skills over MCP」などの新機能の提供開始を発表した。 — gihyo.jp / score: 80 (AnthropicによるMCPの新機能とパブリックベータ公開)</description>
 </item>
 <item>
-<title>[80] Claude Code のセキュリティ、2026年11月時点のベストプラクティス（サンドボックス・権限・MCP）</title>
-<link>https://zenn.dev/happy_elements/articles/27e14ff6754044</link>
-<guid isPermaLink="true">https://zenn.dev/happy_elements/articles/27e14ff6754044</guid>
-<pubDate>Wed, 25 Nov 2026 03:53:12 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>Claude に実行を任せた Bash コマンドは、Claude Code を起動したマシンの上で、自分のユーザー権限で動きます。Mac のターミナルで起動したなら、その Mac です。サンドボックスをオンにしても動く場所は同じで、変わるのは、実行中のコマンドがアクセスできるファイルと通信先の制限です。 2026 年 11 月時点の公式ドキュメントと changelog をもとに、Claude Code CLI の権限ルール、Bash サンドボックス、MCP の設定をサンプルとチェックリストにまとめました。認証情報を使わずに、ダミーファイルで読み取り制限を確認する手順も載せています。 実... — Zenn トレンド / score: 80 (Claude Codeのセキュリティとベストプラクティス)</description>
-</item>
-<item>
 <title>[80] AWS WAF announces automated discovery and protection for LLM, MCP, and A2A endpoints using Amazon Bedrock Guardrails</title>
 <link>https://aws.amazon.com/about-aws/whats-new/2026/11/waf-ai-endpoint-discovery-protection/</link>
 <guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/waf-ai-endpoint-discovery-protection/</guid>
@@ -421,14 +421,6 @@
 <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
 <category>Inside Java</category>
 <description>ZGC gets adaptive heap sizing, value classes complicate numeric conversions, and primitive patterns are withdrawn as JDK 28 takes shape. — Inside Java / score: 80 (JDK 28に向けたJVMの重要なアップデート解説)</description>
-</item>
-<item>
-<title>[80] Introducing ChatGPT Wallet</title>
-<link>https://openai.com/index/introducing-chatgpt-wallet</link>
-<guid isPermaLink="true">https://openai.com/index/introducing-chatgpt-wallet</guid>
-<pubDate>Fri, 13 Nov 2026 15:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections. — OpenAI News / score: 80 (OpenAIによる決済機能統合の重要発表)</description>
 </item>
 <item>
 <title>[75] GoogleがAIエージェントによるGmailなどへのAPI直接アクセスを制限へ、MCPサーバーかCLIの使用を要求</title>
@@ -741,6 +733,14 @@
 <pubDate>Sun, 15 Nov 2026 22:00:01 +0000</pubDate>
 <category>OpenAI News</category>
 <description>Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof. — OpenAI News / score: 75 (物理学の格子上の標準模型定義に関するOpenAIの先進的取り組み)</description>
+</item>
+<item>
+<title>[70] Introducing the Kotlin Security Newsletter</title>
+<link>https://blog.jetbrains.com/kotlin/2026/11/introducing-the-kotlin-security-newsletter/</link>
+<guid isPermaLink="true">https://blog.jetbrains.com/kotlin/2026/11/introducing-the-kotlin-security-newsletter/</guid>
+<pubDate>Fri, 27 Nov 2026 13:56:11 +0000</pubDate>
+<category>Kotlin Blog</category>
+<description>Today, we’re launching the Kotlin Security Newsletter, a single place where you can track security fixes across Kotlin and its ecosystem. We’ll collect recent security fixes across the projects we cover in one digest, publish it on our blog, and send it to your inbox, so you don’t have to follow each Kotlin library or […] — Kotlin Blog / score: 70 (Kotlinエコシステム全体のセキュリティ情報を提供する新企画)</description>
 </item>
 <item>
 <title>[70] AIに打ち明けた悩みも商品？ Character.aiの売却案に42人の司法長官が待った</title>
