@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Thu, 26 Nov 2026 22:06:08 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 00:15:17 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Apache Tomcat」に“致命的”な脆弱性、修正版は未公開／未認証ノードがクラスターに参加可能に。対象環境では「TLS 1.2」への切り替えを推奨</title>
@@ -175,12 +175,36 @@
 <description>Today, we’re introducing Gemini 4 Neon — Gemini (Google Blog) / score: 88 (Googleの新型モデルGemini 4 Neonの発表)</description>
 </item>
 <item>
+<title>[85] Microsoft、「agent-framework」が不正にPyPlへアップロードされたと発表</title>
+<link>https://codezine.jp/article/detail/30491</link>
+<guid isPermaLink="true">https://codezine.jp/article/detail/30491</guid>
+<pubDate>Thu, 26 Nov 2026 23:00:00 +0000</pubDate>
+<category>CodeZine</category>
+<description> — CodeZine / score: 85 (PyPIへのフレームワーク不正アップロード事案)</description>
+</item>
+<item>
+<title>[85] アメリカのCIAすらハッキングされてしまう</title>
+<link>https://www.gizmodo.jp/article/2611-cia-us-intelligence-hacked/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-cia-us-intelligence-hacked/</guid>
+<pubDate>Thu, 26 Nov 2026 22:15:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>CIAやNGA、ODNIなどアメリカの3つの情報機関がハッキングされた可能性があると報じた。中国製のシステム防衛ツールArtexが攻撃に悪用された疑いあり。 — ギズモード・ジャパン / score: 85 (米情報機関がハッキングされた可能性に関する重大なニュース)</description>
+</item>
+<item>
 <title>[85] Amazon RDS for PostgreSQL supports minor versions 18.7, 17.12, 16.16, 15.20, and 14.25</title>
 <link>https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-postgresql-18-7-17-12-16-16-15-20-14-25/</link>
 <guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-postgresql-18-7-17-12-16-16-15-20-14-25/</guid>
 <pubDate>Thu, 26 Nov 2026 17:00:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Amazon Relational Database Service (RDS) for PostgreSQL now supports the latest minor versions 18.7, 17.12, 16.16, 15.20, and 14.25. We recommend that you upgrade to the latest minor versions to address Common Vulnerabilities and Exposures (CVEs) in prior versions of PostgreSQL, and to benefit from the bug fixes and improvements added by the PostgreSQL community. You can upgrade your databases during scheduled maintenance windows using automatic minor version upgrades. To simplify operations at  — AWS What's New / score: 85 (Amazon RDS for PostgreSQLの最新マイナーバージョン対応)</description>
+</item>
+<item>
+<title>[85] 集英社 販売サイト会員の生年月日など70万件余漏えい | NHKニュース</title>
+<link>https://news.web.nhk/newsweb/na/nd-20261126de82087</link>
+<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261126de82087</guid>
+<pubDate>Thu, 26 Nov 2026 16:23:46 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>集英社は、メールの配信やアプリの一部に使っていた、外部の「KARTE」というサービスが不正アクセスを受け、顧客の情報が漏えいしたと発表しました。 漏えいしたのは、キャラクターグッズを販売しているサイ… — はてなブックマーク テクノロジー / score: 85 (外部サービス起因の大規模な個人情報漏洩インシデント)</description>
 </item>
 <item>
 <title>[85] OpenAIが57年来の数学の難問「行列乗算はどこまで効率化できるのか」に決着をつける論文を公開</title>
@@ -191,36 +215,12 @@
 <description>OpenAIが2026年11月25日、2つの正方行列を掛け合わせる際の計算量を左右する「行列乗算の指数(ω)」が正確に4分の9であることを証明したとする論文を公開しました。行列乗算の計算量をどこまで削減できるのかは1969年から研究が続けられてきた問題で、数学やコンピューター科学における重要な未解決問題の1つとされてきました。 続きを読む... — GIGAZINE / score: 85 (数学の難問行列乗算に関するOpenAIの画期的な論文)</description>
 </item>
 <item>
-<title>[85] みずほ銀行、顧客の管理番号3万件が漏洩　委託先に不正アクセス - 日本経済新聞</title>
-<link>https://www.nikkei.com/article/DGXZQOUB266I30W6A121C2000000/</link>
-<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUB266I30W6A121C2000000/</guid>
-<pubDate>Thu, 26 Nov 2026 08:06:01 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>みずほ銀行は26日、メール配信業務などの委託先企業に不正アクセスがあり、一部の情報が漏洩したと発表した。対象は行内向けの顧客管理番号で最大3万3224件。同日午後3時時点で氏名や住所、口座の暗証番号などは漏洩していない。 — はてなブックマーク テクノロジー / score: 85 (不正アクセスによる顧客情報漏洩という重大なセキュリティインシデント)</description>
-</item>
-<item>
-<title>[85] アディーレ法律事務所 不正アクセスで個人情報漏えい | NHKニュース</title>
-<link>https://news.web.nhk/newsweb/na/nd-20261126de81692</link>
-<guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261126de81692</guid>
-<pubDate>Thu, 26 Nov 2026 04:56:37 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>東京の弁護士法人「アディーレ法律事務所」は、ウェブサイトのメール配信サービスを委託する会社のサーバーが、今月中旬に外部から不正アクセスを受け、保存されていた1800件あまりの個人情報が漏えいしたと発表… — はてなブックマーク テクノロジー / score: 85 (セキュリティ脆弱性と個人情報漏えい事故)</description>
-</item>
-<item>
 <title>[85] GoogleのAIが人間の介入なしに6本の数学論文を生成、素因数分解など数十年停滞していた分野に光</title>
 <link>https://gigazine.net/news/20261126-cogentic-6-research-papers/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261126-cogentic-6-research-papers/</guid>
 <pubDate>Thu, 26 Nov 2026 02:47:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>Googleの研究部門であるGoogle Researchが、6つの数学論文をGitHubに投稿しました。これらの論文は全て、Gemini 4をベースとする数学的発見を行うためのマルチエージェントシステム「Cogentic」が生成しています。 続きを読む... — GIGAZINE / score: 85 (AIが人間の介入なしに数学論文を生成した画期的な成果)</description>
-</item>
-<item>
-<title>[85] ゆうちょ銀が勘定系をオープン化へ、2574億円でNTTデータが落札</title>
-<link>https://xtech.nikkei.com/atcl/nxt/column/18/03815/112400006/</link>
-<guid isPermaLink="true">https://xtech.nikkei.com/atcl/nxt/column/18/03815/112400006/</guid>
-<pubDate>Thu, 26 Nov 2026 02:13:14 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>ゆうちょ銀行が勘定系システムをオープン系へ移行する。NTTデータが2574億円で落札した。オープン勘定系としては日本最大の投資規模と見られる。現行の勘定系システムは富士通メインフレームで動作する。富士通が2035年度末にメインフレーム保守を終了し、メインフレーム事業からの撤退を決めた中で、ゆうちょ銀行の動向... — はてなブックマーク テクノロジー / score: 85 (ゆうちょ銀行の勘定系オープン化、超大型案件の落札)</description>
 </item>
 <item>
 <title>[85] Elastic Load Balancing for Envoy is now generally available</title>
@@ -279,22 +279,6 @@
 <description>GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets. — OpenAI News / score: 85 (次世代AIモデルによるタンパク質設計能力の画期的発表)</description>
 </item>
 <item>
-<title>[85] 京王グループ 約1063万件漏えいか</title>
-<link>https://news.yahoo.co.jp/pickup/6603825?source=rss</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6603825?source=rss</guid>
-<pubDate>Tue, 24 Nov 2026 09:13:58 +0000</pubDate>
-<category>Yahoo!ニュース IT</category>
-<description> — Yahoo!ニュース IT / score: 85 (大規模な個人情報流出の可能性に関する報道)</description>
-</item>
-<item>
-<title>[85] ヴェレダ クレカ4万件超漏えいか</title>
-<link>https://news.yahoo.co.jp/pickup/6603807?source=rss</link>
-<guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6603807?source=rss</guid>
-<pubDate>Tue, 24 Nov 2026 06:57:01 +0000</pubDate>
-<category>Yahoo!ニュース IT</category>
-<description> — Yahoo!ニュース IT / score: 85 (企業のクレジットカード情報漏えいに関する重大なセキュリティインシデント)</description>
-</item>
-<item>
 <title>[85] Ladybird's first alpha release</title>
 <link>https://simonwillison.net/2026/Nov/23/ladybird/</link>
 <guid isPermaLink="true">https://simonwillison.net/2026/Nov/23/ladybird/</guid>
@@ -317,14 +301,6 @@
 <pubDate>Fri, 20 Nov 2026 16:30:48 +0000</pubDate>
 <category>Simon Willison</category>
 <description>I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized Riemann Hypothesis, and I expect, with more time, the Extended Riemann Hypothesis too. Claude and I have also formalized the arguments without assumptions. It is natural to feel that this is an end, in my case a loss of a principal guiding light, but what I saw during the course of progress so amazed me that I believe it is one  — Simon Willison / score: 85 (Claudeを活用したリーマン予想の証明に関する大きな話題)</description>
-</item>
-<item>
-<title>[85] 「Wireshark 4.6.10」が公開、Windows Server 2016などに対応する「4.4」系の最終版も／39件の脆弱性を修正、前回から倍増</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2158044.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2158044.html</guid>
-<pubDate>Fri, 20 Nov 2026 04:05:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>フリーのパケットキャプチャーツール「Wireshark 4.6.10」が、11月18日（協定世界時）に公開された。「Wireshark 4.6」シリーズの最新版となる。 — 窓の杜 / score: 85 (主要なパケットキャプチャの脆弱性修正。)</description>
 </item>
 <item>
 <title>[85] Google、Gemini 4 Neonを発表 ——Carbonをもとに開発、複雑な作業をより短時間で</title>
@@ -415,12 +391,12 @@
 <description>JEP 401 (Value Objects) arrives in OpenJDK as a preview feature, enabling a new Java type model with minimal code changes. The talk explains what value objects are, JVM benefits, Valhalla history, implementation details, and the path toward bridging objects and primitives, including future support like List&lt;int&gt;. — Inside Java / score: 82 (Java Valhallaプロジェクトの解説と進化)</description>
 </item>
 <item>
-<title>[80] Anthropic、MCPサーバーがスキルを配信する「Skills over MCP」をパブリックベータ公開 ―Tasks、Elicitationの一般提供も開始</title>
-<link>https://gihyo.jp/article/2026/11/skills-over-mcp?utm_source=feed</link>
-<guid isPermaLink="true">https://gihyo.jp/article/2026/11/skills-over-mcp?utm_source=feed</guid>
-<pubDate>Thu, 26 Nov 2026 07:53:00 +0000</pubDate>
-<category>gihyo.jp</category>
-<description>Anthropicは2026年11月24日、ClaudeおよびClaude Codeにおいて、MCPサーバーがスキルを配信できる「Skills over MCP」などの新機能の提供開始を発表した。 — gihyo.jp / score: 80 (AnthropicによるMCPの新機能とパブリックベータ公開)</description>
+<title>[80] Anthropic、MCPサーバーがスキルを配信する「Skills over MCP」をパブリックベータ公開 ―Tasks、Elicitationの一般提供も開始 | gihyo.jp</title>
+<link>https://gihyo.jp/article/2026/11/skills-over-mcp</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/11/skills-over-mcp</guid>
+<pubDate>Thu, 26 Nov 2026 09:44:20 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Anthropic⁠⁠、MCPサーバーがスキルを配信する「Skills over MCP」をパブリックベータ公開 ―Tasks⁠⁠、Elicitationの一般提供も開始 Anthropicは2026年11月24日、ClaudeおよびClaude Codeにおいて、MCPサーバーがスキルを配信できる「Skills over MCP」などの新機能の提供開始を発表した。 MCP servers can now ship skill... — はてなブックマーク テクノロジー / score: 80 (AnthropicによるMCPの新機能とパブリックベータ公開)</description>
 </item>
 <item>
 <title>[80] AnthropicがClaudeを使って自社APIをPythonからRustに移植しCPU使用量を約70％削減した方法を公開</title>
@@ -479,14 +455,6 @@
 <description>先日パブリックプレビューが始まった次期サーバーOS「Windows Server 2028」には、削除・非推奨となる機能がある。米Microsoftが自社のドキュメントサイトで明らかにしている。 — 窓の杜 / score: 80 (次期Windows Serverでのレガシー機能削除)</description>
 </item>
 <item>
-<title>[80] 「Microsoft To Do」アプリが2027年6月で廃止、個人の場合は別アプリへの乗り換えが必要に／法人向けは「Planner」が後継</title>
-<link>https://forest.watch.impress.co.jp/docs/news/2158040.html</link>
-<guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2158040.html</guid>
-<pubDate>Fri, 20 Nov 2026 05:10:00 +0000</pubDate>
-<category>窓の杜</category>
-<description>米Microsoftは、タスク管理アプリ「Microsoft To Do」を段階的に廃止すると発表した。Web、Windows、Mac、iOS、Androidの「Microsoft To Do」アプリは、2027年6月30日をもって終了する。 — 窓の杜 / score: 80 (主要タスク管理アプリの廃止発表。)</description>
-</item>
-<item>
 <title>[80] Microsoft、次期WindowsからPowerShell 7を標準搭載へ、Windows PowerShell 5.1の非推奨化も発表</title>
 <link>https://gihyo.jp/article/2026/11/powershell-7-in-next-windows?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/11/powershell-7-in-next-windows?utm_source=feed</guid>
@@ -527,12 +495,12 @@
 <description>Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections. — OpenAI News / score: 80 (OpenAIによる決済機能統合の重要発表)</description>
 </item>
 <item>
-<title>[75] 100万基の宇宙データセンター衛星プロジェクト、米国の承認を得る</title>
-<link>https://www.gizmodo.jp/article/2611-spacex-starmind-space-data-center-fcc-approval/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-spacex-starmind-space-data-center-fcc-approval/</guid>
-<pubDate>Thu, 26 Nov 2026 10:30:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>米FCCがSpaceXの宇宙データセンター「スターマインド」用衛星群の打ち上げを初めて承認。最大100万基の衛星を2040年までに配備する計画で、太陽エネルギーを活用したAI処理能力の提供を目指す。 — ギズモード・ジャパン / score: 75 (大規模な宇宙データセンター衛星計画の承認)</description>
+<title>[75] Cognition、コーディングAIモデル「SWE-2.1」をリリース</title>
+<link>https://codezine.jp/article/detail/30488</link>
+<guid isPermaLink="true">https://codezine.jp/article/detail/30488</guid>
+<pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+<category>CodeZine</category>
+<description> — CodeZine / score: 75 (主要なコーディングAIモデルの新たなメジャーリリース)</description>
 </item>
 <item>
 <title>[75] 1Passwordに不正アクセス〜LastPass流出との違いは？</title>
@@ -557,14 +525,6 @@
 <pubDate>Thu, 26 Nov 2026 08:22:59 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>平素はASOBI STOREをご利用いただき、誠にありがとうございます。 このたび、「ASOBI STORE(電子書籍)」で使用しているプログラム言語「PHP」において、セキュリティ上の脆弱性が公表されました。 これを受け、サービス再開に向けて検討してまいりましたが、既存のシステム環境では、当該脆弱性への対応を行い、十分なセ... — はてなブックマーク テクノロジー / score: 75 (PHPの脆弱性を理由としたサービス終了の告知)</description>
-</item>
-<item>
-<title>[75] 【さくらのレンタルサーバ】セキュリティ強化に伴うコンパイル・ビルド関連コマンド等の停止に関するお知らせ | さくらインターネット</title>
-<link>https://www.sakura.ad.jp/corporate/information/announcements/2026/11/26/1968226380/</link>
-<guid isPermaLink="true">https://www.sakura.ad.jp/corporate/information/announcements/2026/11/26/1968226380/</guid>
-<pubDate>Thu, 26 Nov 2026 05:50:48 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>お客さま各位 平素よりさくらインターネットをご利用いただき、誠にありがとうございます。 セキュリティ対策強化の一環として、「さくらのレンタルサーバ」において、コンパイル・ビルドに関連する一部コマンドおよび「crontab」コマンドの利用を停止いたします。 本対応は2026年12月3日（木）から12月10日（木）にかけ... — はてなブックマーク テクノロジー / score: 75 (レンタルサーバーのセキュリティ強化とコマンド停止の影響)</description>
 </item>
 <item>
 <title>[75] AIがゼロから設計した新しいCPU「Frostbite」が従来型CPUの4.59倍の電力効率を示す</title>
@@ -805,6 +765,46 @@
 <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems. — OpenAI News / score: 75 (NATO等とAIを活用したサイバー防衛強化の取り組み)</description>
+</item>
+<item>
+<title>[75] Personal Agent Protocol 1.0公開、ShopifyやMetaのMuseが対応</title>
+<link>https://gihyo.jp/article/2026/11/personal-agent-protocol?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/11/personal-agent-protocol?utm_source=feed</guid>
+<pubDate>Mon, 16 Nov 2026 07:29:45 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>企業向けAIエージェントを開発するSierraは2026年11月13日、個人向けAIエージェントと企業のやり取りを定めるPersonal Agent Protocol（通称Poppy）のバージョン1.0を公開したと発表した。Shopifyの全ストアが対応し、MetaのAIエージェントMuseでは、すべてのユーザーがPoppyを利用できるようになった。 — gihyo.jp / score: 75 (AIエージェント向け新プロトコルの公開)</description>
+</item>
+<item>
+<title>[75] A step toward defining the Standard Model on a lattice</title>
+<link>https://openai.com/index/step-toward-defining-the-standard-model</link>
+<guid isPermaLink="true">https://openai.com/index/step-toward-defining-the-standard-model</guid>
+<pubDate>Sun, 15 Nov 2026 22:00:01 +0000</pubDate>
+<category>OpenAI News</category>
+<description>Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof. — OpenAI News / score: 75 (物理学の格子上の標準模型定義に関するOpenAIの先進的取り組み)</description>
+</item>
+<item>
+<title>[75] Google DeepMind、AlphaProof Codeを発表 ——Signalプロトコルの実装を機械語レベルで形式検証</title>
+<link>https://gihyo.jp/article/2026/11/alphaproof-code?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/11/alphaproof-code?utm_source=feed</guid>
+<pubDate>Fri, 13 Nov 2026 02:03:19 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Google DeepMindは2026年11月10日、人間の専門家とAIエージェントが協力してソフトウェアを形式検証するフレームワーク「AlphaProof Code」を発表した。研究チームは、エンドツーエンド暗号化通信に使われるSignalプロトコルの参照実装libsignalに、この仕組みを適用した。 — gihyo.jp / score: 75 (形式検証フレームワークによる暗号プロトコル検証)</description>
+</item>
+<item>
+<title>[70] Evolution Strategies at Scale: LLM Fine-Tuning Beyond Reinforcement Learning</title>
+<link>https://arxiv.org/abs/2509.24372</link>
+<guid isPermaLink="true">https://arxiv.org/abs/2509.24372</guid>
+<pubDate>Thu, 26 Nov 2026 21:51:27 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>Fine-tuning large language models (LLMs) for downstream tasks is an essential stage of modern AI deployment. Reinforcement learning (RL) has emerged as the dominant fine-tuning paradigm, underpinning many state-of-the-art LLMs. In contrast, evolution strategies (ES) has largely been overlooked du... — はてなブックマーク テクノロジー / score: 70 (LLMの強化学習を超える大規模進化戦略の解説)</description>
+</item>
+<item>
+<title>[70] イーロン・マスクのNeuralinkが脳インプラントの実用化に前進、アメリカ初の主要臨床試験が承認される</title>
+<link>https://gigazine.net/news/20261126-neuralink-fda-approval/</link>
+<guid isPermaLink="true">https://gigazine.net/news/20261126-neuralink-fda-approval/</guid>
+<pubDate>Thu, 26 Nov 2026 11:40:00 +0000</pubDate>
+<category>GIGAZINE</category>
+<description>実業家のイーロン・マスク氏が設立した脳インプラント開発企業のNeuralinkが、アメリカ食品医薬品局(FDA)から新たな臨床試験「LINK」の開始承認を取得したと日本時間の2026年11月26日に発表しました。LINKはアメリカ初の埋め込み型ブレイン・コンピューター・インターフェース(BCI)の主要臨床試験で、製品の販売承認に向けて安全性や有効性を検証する重要な段階となっています。 続きを読む... — GIGAZINE / score: 70 (Neuralinkの脳インプラント臨床試験承認)</description>
 </item>
 </channel>
 </rss>
