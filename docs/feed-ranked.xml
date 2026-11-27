@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Fri, 27 Nov 2026 16:06:55 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 18:07:24 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Apache Tomcat」に“致命的”な脆弱性、修正版は未公開／未認証ノードがクラスターに参加可能に。対象環境では「TLS 1.2」への切り替えを推奨</title>
@@ -381,6 +381,14 @@
 <pubDate>Thu, 26 Nov 2026 07:53:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Anthropicは2026年11月24日、ClaudeおよびClaude Codeにおいて、MCPサーバーがスキルを配信できる「Skills over MCP」などの新機能の提供開始を発表した。 — gihyo.jp / score: 80 (AnthropicによるMCPの新機能とパブリックベータ公開)</description>
+</item>
+<item>
+<title>[80] Claude Code のセキュリティ、2026年11月時点のベストプラクティス（サンドボックス・権限・MCP）</title>
+<link>https://zenn.dev/happy_elements/articles/27e14ff6754044</link>
+<guid isPermaLink="true">https://zenn.dev/happy_elements/articles/27e14ff6754044</guid>
+<pubDate>Wed, 25 Nov 2026 03:53:12 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>Claude に実行を任せた Bash コマンドは、Claude Code を起動したマシンの上で、自分のユーザー権限で動きます。Mac のターミナルで起動したなら、その Mac です。サンドボックスをオンにしても動く場所は同じで、変わるのは、実行中のコマンドがアクセスできるファイルと通信先の制限です。 2026 年 11 月時点の公式ドキュメントと changelog をもとに、Claude Code CLI の権限ルール、Bash サンドボックス、MCP の設定をサンプルとチェックリストにまとめました。認証情報を使わずに、ダミーファイルで読み取り制限を確認する手順も載せています。 実... — Zenn トレンド / score: 80 (Claude Codeのセキュリティとベストプラクティス)</description>
 </item>
 <item>
 <title>[80] AWS WAF announces automated discovery and protection for LLM, MCP, and A2A endpoints using Amazon Bedrock Guardrails</title>
@@ -797,14 +805,6 @@
 <pubDate>Wed, 25 Nov 2026 20:00:00 +0000</pubDate>
 <category>AWS What's New</category>
 <description>Today, AWS announces a developer preview of a new extension for orchestrating Lambda MicroVMs with Lambda durable functions . The extension adds durable operations for running work on MicroVMs and managing their lifecycle. You can use the new operations to build software factories, security scanners, or orchestrate CI/CD jobs that run untrusted or agent-generated code in isolated sandboxes. With Lambda durable functions, you can build resilient, multi-step applications and AI workflows that run  — AWS What's New / score: 70 (AWS LambdaのMicroVMオーケストレーション)</description>
-</item>
-<item>
-<title>[70] 「Google Workspace MCPサーバ」と「Google Workspace CLI」が正式版としてリリース</title>
-<link>https://www.publickey1.jp/blog/26/google_workspace_mcpgoogle_workspace_cli.html</link>
-<guid isPermaLink="true">https://www.publickey1.jp/blog/26/google_workspace_mcpgoogle_workspace_cli.html</guid>
-<pubDate>Wed, 25 Nov 2026 15:27:15 +0000</pubDate>
-<category>Publickey</category>
-<description>Googleは、Google WorkspaceをAIエージェントが操作するためのインターフェイスとして「Google Workspace MCP Server」と「Google Workspace CLI」が正式版になったことを発表しまし... — Publickey / score: 70 (Google WorkspaceのMCP正式版リリース)</description>
 </item>
 </channel>
 </rss>
