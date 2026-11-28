@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sat, 28 Nov 2026 10:07:04 +0000</lastBuildDate>
+<lastBuildDate>Sat, 28 Nov 2026 12:08:15 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Apache Tomcat」に“致命的”な脆弱性、修正版は未公開／未認証ノードがクラスターに参加可能に。対象環境では「TLS 1.2」への切り替えを推奨</title>
@@ -26,9 +26,9 @@
 <title>[90] スマホの「マイナアプリ」に脆弱性、不正リンクからマイナンバーカード情報窃取のおそれ／iOS版/Android版ともに最新バージョンへのアップデートを</title>
 <link>https://forest.watch.impress.co.jp/docs/news/2160150.html</link>
 <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2160150.html</guid>
-<pubDate>Fri, 27 Nov 2026 11:50:35 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>スマホの「マイナアプリ」に脆弱性、不正リンクからマイナンバーカード情報窃取のおそれ／iOS版/Android版ともに最新バージョンへのアップデートを — はてなブックマーク テクノロジー / score: 90 (マイナアプリにおける情報窃取の恐れがある脆弱性)</description>
+<pubDate>Fri, 27 Nov 2026 11:40:59 +0000</pubDate>
+<category>窓の杜</category>
+<description>脆弱性対策情報ポータルサイト「JVN」は11月27日、脆弱性レポート「JVN#19729125」を公開した。デジタル庁が提供するスマートフォンアプリ「マイナアプリ」（旧：マイナポータルアプリ）に、複数の脆弱性が存在するという。 — 窓の杜 / score: 90 (マイナアプリにおける情報窃取の恐れがある脆弱性)</description>
 </item>
 <item>
 <title>[90] パスワード管理「1Password」でデータ流出、一部顧客の氏名やメールアドレスなど／パスワード保管庫やその鍵は無事、招待・復旧メールを装ったフィッシングに注意</title>
@@ -125,6 +125,14 @@
 <pubDate>Wed, 18 Nov 2026 21:00:00 +0000</pubDate>
 <category>Gemini (Google Blog)</category>
 <description>Today, we’re introducing Gemini 4 Neon — Gemini (Google Blog) / score: 88 (Googleの新型モデルGemini 4 Neonの発表)</description>
+</item>
+<item>
+<title>[85] 情報漏洩はスパコンにも…。世界ランク1位は中国のまま、9位の富岳は停止中で、切ない</title>
+<link>https://www.gizmodo.jp/article/2611-top500-supercomputer-fugaku-security-incident/</link>
+<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-top500-supercomputer-fugaku-security-incident/</guid>
+<pubDate>Sat, 28 Nov 2026 11:30:00 +0000</pubDate>
+<category>ギズモード・ジャパン</category>
+<description>11月16日発表のスパコン世界ランキングで日本の富岳が9位を維持した一方、公開ページの脆弱性を突いた不正アクセスにより、利用者4597人分の情報流出の可能性が判明した。 — ギズモード・ジャパン / score: 85 (スパコンの脆弱性と情報流出インシデントであり重要)</description>
 </item>
 <item>
 <title>[85] GMOペパボへの不正アクセスについてまとめてみた - piyolog</title>
@@ -335,6 +343,14 @@
 <description>Anthropicは2026年11月24日、ClaudeおよびClaude Codeにおいて、MCPサーバーがスキルを配信できる「Skills over MCP」などの新機能の提供開始を発表した。 — gihyo.jp / score: 80 (AnthropicによるMCPの新機能とパブリックベータ公開)</description>
 </item>
 <item>
+<title>[80] Claude Code のセキュリティ、2026年11月時点のベストプラクティス（サンドボックス・権限・MCP）</title>
+<link>https://zenn.dev/happy_elements/articles/27e14ff6754044</link>
+<guid isPermaLink="true">https://zenn.dev/happy_elements/articles/27e14ff6754044</guid>
+<pubDate>Wed, 25 Nov 2026 03:53:12 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>Claude に実行を任せた Bash コマンドは、Claude Code を起動したマシンの上で、自分のユーザー権限で動きます。Mac のターミナルで起動したなら、その Mac です。サンドボックスをオンにしても動く場所は同じで、変わるのは、実行中のコマンドがアクセスできるファイルと通信先の制限です。 2026 年 11 月時点の公式ドキュメントと changelog をもとに、Claude Code CLI の権限ルール、Bash サンドボックス、MCP の設定をサンプルとチェックリストにまとめました。認証情報を使わずに、ダミーファイルで読み取り制限を確認する手順も載せています。 実... — Zenn トレンド / score: 80 (Claude Codeのセキュリティとベストプラクティス)</description>
+</item>
+<item>
 <title>[80] AWS WAF announces automated discovery and protection for LLM, MCP, and A2A endpoints using Amazon Bedrock Guardrails</title>
 <link>https://aws.amazon.com/about-aws/whats-new/2026/11/waf-ai-endpoint-discovery-protection/</link>
 <guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/waf-ai-endpoint-discovery-protection/</guid>
@@ -381,6 +397,14 @@
 <pubDate>Sat, 28 Nov 2026 00:00:00 +0000</pubDate>
 <category>CodeZine</category>
 <description> — CodeZine / score: 75 (Node.jsのアルファ版リリースと新機能)</description>
+</item>
+<item>
+<title>[75] パスキーは最強で美しいよ、正しく実装すればね</title>
+<link>https://zenn.dev/kantacky/articles/b5a03eab70c7b1</link>
+<guid isPermaLink="true">https://zenn.dev/kantacky/articles/b5a03eab70c7b1</guid>
+<pubDate>Fri, 27 Nov 2026 23:00:52 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>近年、パスワード漏洩やフィッシングによる不正アクセス、さらには証券口座の乗っ取りといった認証にまつわるセキュリティ事件が後を絶ちません。こうしたニュースが出るたびに、「パスワードを使い回さないようにしよう」「SMS や認証アプリによる 2 段階認証を設定しよう」といった対策記事や呼びかけを目にします。 しかし、現在の攻撃手法はそれよりも一歩先を行っており、偽サイトを中継してリアルタイムに認証情報を奪う リアルタイムフィッシング（AiTM: Adversary-in-the-Middle 攻撃） の前では、従来の SMS や認証アプリを使った 2 段階認証すら突破されてしまいます。実際、金... — Zenn トレンド / score: 75 (パスキーの正しい実装とセキュリティ解説)</description>
 </item>
 <item>
 <title>[75] Amazon CloudWatch announces basic OpenTelemetry enrichment at no additional cost</title>
@@ -687,14 +711,6 @@
 <description>Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof. — OpenAI News / score: 75 (物理学の格子上の標準模型定義に関するOpenAIの先進的取り組み)</description>
 </item>
 <item>
-<title>[70] 爆弾の作り方には答えるな。日本でもAIを取り締まる法案を検討中</title>
-<link>https://www.gizmodo.jp/article/2611-japan-ai-regulation-penalties/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/2611-japan-ai-regulation-penalties/</guid>
-<pubDate>Fri, 27 Nov 2026 22:00:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>日本政府は2027年の通常国会提出を目指し、OpenAIやGoogleなどの先端AI事業者に対して安全対策や政府への報告を義務づけるAI法改正案の調整に入った。従わない場合は段階的な罰則も検討される。 — ギズモード・ジャパン / score: 70 (先端AI事業者の規制に関する国内法案の動向)</description>
-</item>
-<item>
 <title>[70] Introducing the Kotlin Security Newsletter</title>
 <link>https://blog.jetbrains.com/kotlin/2026/11/introducing-the-kotlin-security-newsletter/</link>
 <guid isPermaLink="true">https://blog.jetbrains.com/kotlin/2026/11/introducing-the-kotlin-security-newsletter/</guid>
@@ -709,6 +725,14 @@
 <pubDate>Fri, 27 Nov 2026 12:36:32 +0000</pubDate>
 <category>Qiita 人気記事</category>
 <description>1. はじめに 昨今、企業の情報漏洩やランサムウェアによるシステム障害など、サイバー攻撃に関するニュースを目にする機会が増えています。というか、毎日新たに情報漏洩したというニュースが出てくるため、目にしない日のほうが珍しい気が。。。 ITエンジニアとしてシステムを安全に運... — Qiita 人気記事 / score: 70 (CrowdStrikeのセキュリティ基礎解説)</description>
+</item>
+<item>
+<title>[70] [JSC] 数値で構成される配列に対して Array.prototype.flat を高速にした</title>
+<link>https://zenn.dev/itsu_dev/articles/1942c82c2f2e27</link>
+<guid isPermaLink="true">https://zenn.dev/itsu_dev/articles/1942c82c2f2e27</guid>
+<pubDate>Fri, 27 Nov 2026 11:52:05 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>WebKit/JavaScriptCore の Array.prototype.flat の実装において，数値配列に対する処理を最適化して高速に動作するようにしたので，本記事ではそのパッチについて述べていきます． 対象のパッチは次の通りです． JavaScript の Array.prototype.flat は組み込みの Array オブジェクトのメソッドで，ネストした配列を任意の深さまで再帰的に辿って展開します．JSC の従来の実装では，全ての配列に対して次の処理を順に行っていました． 配列を再帰的に辿り，flat() 適用後の配列のサイズを計算する その分のメモリ領域を確保する 配... — Zenn トレンド / score: 70 (JavaScriptエンジンにおける配列処理の高速化)</description>
 </item>
 <item>
 <title>[70] Claude Code で KiCad 基板を設計して JLCPCB に発注し、Codex とも同じ条件で比べた</title>
@@ -781,30 +805,6 @@
 <pubDate>Tue, 24 Nov 2026 10:53:00 +0000</pubDate>
 <category>窓の杜</category>
 <description>ベルギーのCrystalIDEAは11月17日（現地時間）、Webブラウザーなどのプロファイルを最適化して動作を高速化するツール「SpeedyFox」v3.0.0を公開した。2012年のv2.0以来、約14年ぶりのメジャーバージョンアップとなる。前バージョンのv2.0.30（2020年10月）からも、約6年ぶりの更新だ。 — 窓の杜 / score: 70 (約14年ぶりとなるSpeedyFoxのメジャーアップデート)</description>
-</item>
-<item>
-<title>[70] [AINews] Jensen Is Back! and OpenAI Shows Its Pretraining Curve, joined by Microsoft</title>
-<link>https://latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft/</link>
-<guid isPermaLink="true">https://latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft/</guid>
-<pubDate>Tue, 24 Nov 2026 04:14:16 +0000</pubDate>
-<category>Latent Space</category>
-<description>November 23, 2026 — Nvidia reinstates its founder, and OpenAI publishes its internal loss curve and proposes a shared training limit. — Latent Space / score: 70 (NVIDIAとOpenAIの最新動向に関するニュース)</description>
-</item>
-<item>
-<title>[70] Clay helps sales teams win with Codex and ChatGPT</title>
-<link>https://openai.com/business/customer-stories/clay-plugins-openai</link>
-<guid isPermaLink="true">https://openai.com/business/customer-stories/clay-plugins-openai</guid>
-<pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-<category>OpenAI News</category>
-<description>ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning. — OpenAI News / score: 70 (企業におけるChatGPT/Codex活用の事例発表)</description>
-</item>
-<item>
-<title>[70] Human in the Loop with Spring AI 2.1: Tool Calls That Survive a Restart</title>
-<link>https://spring.io/blog/2026/11/24/spring-ai-tool-call-confirmation-park-resume</link>
-<guid isPermaLink="true">https://spring.io/blog/2026/11/24/spring-ai-tool-call-confirmation-park-resume</guid>
-<pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-<category>Spring Blog</category>
-<description>Spring AI: Tool Call Confirmation | Session Extensions | Demo A bank support agent can look up why a mortgage payment failed. That is reading, and the model may do it on its own. Collecting the payment today moves money, and a person must approve it first. Asking "may I?" is the easy part. The hard part is the wait. The approver answers minutes or hours later, maybe on another instance of the application, maybe after a restart. Whatever the agent was doing must still be there when the answer com — Spring Blog / score: 70 (Spring AI 2.1におけるHuman-in-the-Loop機能の解説)</description>
 </item>
 </channel>
 </rss>
