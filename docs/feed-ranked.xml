@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sat, 28 Nov 2026 08:08:39 +0000</lastBuildDate>
+<lastBuildDate>Sat, 28 Nov 2026 10:07:04 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Apache Tomcat」に“致命的”な脆弱性、修正版は未公開／未認証ノードがクラスターに参加可能に。対象環境では「TLS 1.2」への切り替えを推奨</title>
@@ -21,14 +21,6 @@
 <pubDate>Tue, 17 Nov 2026 17:45:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API. — OpenAI News / score: 95 (主要なAIモデルのメジャーリリースと機能強化)</description>
-</item>
-<item>
-<title>[90] 「ロリポップ！レンタルサーバー」の平文パスワード情報などが漏えい。GMOペパボの内部システムに不正アクセス　顧客情報51万6564件が漏えいの可能性、対象者に個別メール連絡</title>
-<link>https://internet.watch.impress.co.jp/docs/news/2160136.html</link>
-<guid isPermaLink="true">https://internet.watch.impress.co.jp/docs/news/2160136.html</guid>
-<pubDate>Fri, 27 Nov 2026 12:29:54 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>「ロリポップ！レンタルサーバー」の平文パスワード情報などが漏えい。GMOペパボの内部システムに不正アクセス 顧客情報51万6564件が漏えいの可能性、対象者に個別メール連絡 — はてなブックマーク テクノロジー / score: 90 (大規模な顧客情報漏洩と平文パスワード保存の重大なセキュリティ事故)</description>
 </item>
 <item>
 <title>[90] スマホの「マイナアプリ」に脆弱性、不正リンクからマイナンバーカード情報窃取のおそれ／iOS版/Android版ともに最新バージョンへのアップデートを</title>
@@ -141,6 +133,14 @@
 <pubDate>Sat, 28 Nov 2026 03:28:03 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>2026年11月27日、GMOペパボは「ロリポップ！レンタルサーバー」などで第三者による不正アクセスが確認され、顧客情報が漏えいしたことが判明したと公表しました。ここでは関連する情報をまとめます。 データ分析基盤を経由した顧客情報の持ち出し GMOペパボは原因について、サービス利用者のWebサイトではなく自社の内部... — はてなブックマーク テクノロジー / score: 85 (大手サービスでの深刻な情報漏えい事案)</description>
+</item>
+<item>
+<title>[85] 古い PHP / Laravel の脆弱性対応は、Rector と AI でだいたい簡単に終わる</title>
+<link>https://zenn.dev/miraizuk/articles/ae8db2bc3ff561</link>
+<guid isPermaLink="true">https://zenn.dev/miraizuk/articles/ae8db2bc3ff561</guid>
+<pubDate>Fri, 27 Nov 2026 23:24:49 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>「脆弱性対応をしてほしい」と頼まれたとき、古い PHP や Laravel のシステムでまずやるべきことは、個別のパッチ当てではありません。サポートが切れたバージョンには、もうセキュリティ修正が出ないからです。脆弱性対応の本体はサポートされているバージョンまで上げることです。 上げると聞くと大仕事に思えますが、... — はてなブックマーク テクノロジー / score: 85 (古いPHPの脆弱性対応とRectorの活用)</description>
 </item>
 <item>
 <title>[85] GMO、サーバー貸出事業で不正アクセス　顧客情報51万件漏洩 - 日本経済新聞</title>
@@ -311,14 +311,6 @@
 <description>Why you're seeing more Next.js security advisories, and what we're doing about it. — Next.js Blog / score: 85 (セキュリティ強化に関する重要ブログと対応策)</description>
 </item>
 <item>
-<title>[85] [AINews] The No AI Slop Manifesto</title>
-<link>https://latent.space/p/ainews-the-no-ai-slop-manifesto/</link>
-<guid isPermaLink="true">https://latent.space/p/ainews-the-no-ai-slop-manifesto/</guid>
-<pubDate>Sat, 14 Nov 2026 08:31:02 +0000</pubDate>
-<category>Latent Space</category>
-<description>Congrats to both llama.ccp and ggml for reaching 1.0 (declaring stability and removing 35 deprecated functions from llama.cpp’s public header) and with SGLang also announcing 1.0 at the recent SGLang Summit . However, today’s title story goes to the No AI Slop manifesto , which arose out of the conference discussions at AIE CODE and which Dex introduced in the closing keynote after cosignatures by many of the speakers at the conference. It seems Hacker News also liked it , voting it up to the fr — Latent Space / score: 85 (llama.cpp等の主要OSSのメジャーリリース)</description>
-</item>
-<item>
 <title>[82] Why It Takes 3000 Commits to Bring Valhalla’s Value Objects to the JDK</title>
 <link>https://inside.java/2026/11/16/devoxxbelgium-valhalla-value-objects/</link>
 <guid isPermaLink="true">https://inside.java/2026/11/16/devoxxbelgium-valhalla-value-objects/</guid>
@@ -327,20 +319,20 @@
 <description>JEP 401 (Value Objects) arrives in OpenJDK as a preview feature, enabling a new Java type model with minimal code changes. The talk explains what value objects are, JVM benefits, Valhalla history, implementation details, and the path toward bridging objects and primitives, including future support like List&lt;int&gt;. — Inside Java / score: 82 (Java Valhallaプロジェクトの解説と進化)</description>
 </item>
 <item>
+<title>[80] Linux Foundation、OSS開発への生成AIの影響調査を公開 PRの25％が低品質</title>
+<link>https://codezine.jp/article/detail/30505</link>
+<guid isPermaLink="true">https://codezine.jp/article/detail/30505</guid>
+<pubDate>Sat, 28 Nov 2026 08:00:00 +0000</pubDate>
+<category>CodeZine</category>
+<description> — CodeZine / score: 80 (OSS開発における生成AIの影響と調査結果)</description>
+</item>
+<item>
 <title>[80] Anthropic、MCPサーバーがスキルを配信する「Skills over MCP」をパブリックベータ公開 ―Tasks、Elicitationの一般提供も開始</title>
 <link>https://gihyo.jp/article/2026/11/skills-over-mcp?utm_source=feed</link>
 <guid isPermaLink="true">https://gihyo.jp/article/2026/11/skills-over-mcp?utm_source=feed</guid>
 <pubDate>Thu, 26 Nov 2026 07:53:00 +0000</pubDate>
 <category>gihyo.jp</category>
 <description>Anthropicは2026年11月24日、ClaudeおよびClaude Codeにおいて、MCPサーバーがスキルを配信できる「Skills over MCP」などの新機能の提供開始を発表した。 — gihyo.jp / score: 80 (AnthropicによるMCPの新機能とパブリックベータ公開)</description>
-</item>
-<item>
-<title>[80] Claude Code のセキュリティ、2026年11月時点のベストプラクティス（サンドボックス・権限・MCP）</title>
-<link>https://zenn.dev/happy_elements/articles/27e14ff6754044</link>
-<guid isPermaLink="true">https://zenn.dev/happy_elements/articles/27e14ff6754044</guid>
-<pubDate>Wed, 25 Nov 2026 03:53:12 +0000</pubDate>
-<category>Zenn トレンド</category>
-<description>Claude に実行を任せた Bash コマンドは、Claude Code を起動したマシンの上で、自分のユーザー権限で動きます。Mac のターミナルで起動したなら、その Mac です。サンドボックスをオンにしても動く場所は同じで、変わるのは、実行中のコマンドがアクセスできるファイルと通信先の制限です。 2026 年 11 月時点の公式ドキュメントと changelog をもとに、Claude Code CLI の権限ルール、Bash サンドボックス、MCP の設定をサンプルとチェックリストにまとめました。認証情報を使わずに、ダミーファイルで読み取り制限を確認する手順も載せています。 実... — Zenn トレンド / score: 80 (Claude Codeのセキュリティとベストプラクティス)</description>
 </item>
 <item>
 <title>[80] AWS WAF announces automated discovery and protection for LLM, MCP, and A2A endpoints using Amazon Bedrock Guardrails</title>
@@ -405,6 +397,14 @@
 <pubDate>Fri, 27 Nov 2026 12:00:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>Googleは2027年2月1日から、AIエージェントがGmailやGoogleドライブなどのGoogle Workspaceのサービスにアクセスする際に公式のMCPサーバーやGoogle Workspace CLIを使用するよう求める方針を発表しました。GmailのMCPサーバーを巡ってはメールの送信などが一部の開発者に限定されていることが指摘されていましたが、記事作成時点で機能制限に関する記述がすでに変更されています。 続きを読む... — GIGAZINE / score: 75 (Google WorkspaceへのAIアクセス制限とAPI仕様変更)</description>
+</item>
+<item>
+<title>[75] 組織で結果を出すAI駆動開発 全開発工程を自動化するアーキテクチャ設計の実践知</title>
+<link>https://speakerdeck.com/sergicalsix/ai-driven-development-in-organizations/</link>
+<guid isPermaLink="true">https://speakerdeck.com/sergicalsix/ai-driven-development-in-organizations/</guid>
+<pubDate>Fri, 27 Nov 2026 08:07:20 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>組織で結果を出すAI駆動開発 全開発工程を自動化するアーキテクチャ設計の実践知 アーキテクチャConference 2026の登壇資料はこちらです。 — はてなブックマーク テクノロジー / score: 75 (AI駆動開発のアーキテクチャ設計手法)</description>
 </item>
 <item>
 <title>[75] AIエージェントにも開発マニュアルを ―NVIDIAエンジニア、Linux 7.5に向けて“AIエージェントスキルシリーズ”を提出</title>
@@ -703,12 +703,20 @@
 <description>Today, we’re launching the Kotlin Security Newsletter, a single place where you can track security fixes across Kotlin and its ecosystem. We’ll collect recent security fixes across the projects we cover in one digest, publish it on our blog, and send it to your inbox, so you don’t have to follow each Kotlin library or […] — Kotlin Blog / score: 70 (Kotlinエコシステム全体のセキュリティ情報を提供する新企画)</description>
 </item>
 <item>
-<title>[70] AIに打ち明けた悩みも商品？ Character.aiの売却案に42人の司法長官が待った</title>
-<link>https://www.gizmodo.jp/article/character-ai_bankruptcy_user-data_sale/</link>
-<guid isPermaLink="true">https://www.gizmodo.jp/article/character-ai_bankruptcy_user-data_sale/</guid>
-<pubDate>Fri, 27 Nov 2026 12:30:00 +0000</pubDate>
-<category>ギズモード・ジャパン</category>
-<description>破産申請したCharacter.aiのユーザーデータ売却を巡り、42州の司法長官が裁判所に異議を申し立てた。未成年者を含む機密性の高いチャット内容の取り扱いが懸念されている。 — ギズモード・ジャパン / score: 70 (AIサービスの売却とユーザーデータのプライバシー懸念)</description>
+<title>[70] 【初心者向け】CrowdStrikeについてわかりやすく解説する</title>
+<link>https://qiita.com/R_Takei/items/17125ea74ff7688649d5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid isPermaLink="true">https://qiita.com/R_Takei/items/17125ea74ff7688649d5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid>
+<pubDate>Fri, 27 Nov 2026 12:36:32 +0000</pubDate>
+<category>Qiita 人気記事</category>
+<description>1. はじめに 昨今、企業の情報漏洩やランサムウェアによるシステム障害など、サイバー攻撃に関するニュースを目にする機会が増えています。というか、毎日新たに情報漏洩したというニュースが出てくるため、目にしない日のほうが珍しい気が。。。 ITエンジニアとしてシステムを安全に運... — Qiita 人気記事 / score: 70 (CrowdStrikeのセキュリティ基礎解説)</description>
+</item>
+<item>
+<title>[70] Claude Code で KiCad 基板を設計して JLCPCB に発注し、Codex とも同じ条件で比べた</title>
+<link>https://zenn.dev/kzchd/articles/ai-kicad-pihat-claude-codex</link>
+<guid isPermaLink="true">https://zenn.dev/kzchd/articles/ai-kicad-pihat-claude-codex</guid>
+<pubDate>Fri, 27 Nov 2026 10:30:05 +0000</pubDate>
+<category>Zenn トレンド</category>
+<description>注文した基板の KiCad レンダー（端子台の凡例を入れる前）。65 × 56.5mm、2 層 11 月の後半に、Claude Code に KiCad で Raspberry Pi 用の I/O 基板を設計してもらい、JLCPCB に注文しました。5 枚のうち 2 枚は部品の実装つきで、送料込み $40.44 です。そのあと、同じ依頼文を Codex と Claude Code の両方に出して、一から設計させて比べてみました（こちらは見積もりまで）。 実際に動くかは、基板が届いてから確かめます。 AI に基板を設計させて発注した記事は、もういくつもあります（Nobkat さんの全自動設... — Zenn トレンド / score: 70 (AIを活用した基板設計の比較検証)</description>
 </item>
 <item>
 <title>[70] NVIDIAが海賊版書籍を配布しAdobeと共有したと著者らが主張</title>
@@ -797,14 +805,6 @@
 <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
 <category>Spring Blog</category>
 <description>Spring AI: Tool Call Confirmation | Session Extensions | Demo A bank support agent can look up why a mortgage payment failed. That is reading, and the model may do it on its own. Collecting the payment today moves money, and a person must approve it first. Asking "may I?" is the easy part. The hard part is the wait. The approver answers minutes or hours later, maybe on another instance of the application, maybe after a restart. Whatever the agent was doing must still be there when the answer com — Spring Blog / score: 70 (Spring AI 2.1におけるHuman-in-the-Loop機能の解説)</description>
-</item>
-<item>
-<title>[70] Amazon API Gateway announces API Portal</title>
-<link>https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-announces-api-portal/</link>
-<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-announces-api-portal/</guid>
-<pubDate>Mon, 23 Nov 2026 20:00:00 +0000</pubDate>
-<category>AWS What's New</category>
-<description>Today, Amazon API Gateway announces API Portal , a new feature that discovers, governs, and documents the APIs and AI endpoints behind Amazon API Gateway, Application Load Balancer, and Amazon CloudFront across your AWS organization. Many organizations can't see which APIs are running, which were never registered, which are no longer maintained, and which lack protection. API Portal builds a continuously updated inventory using AWS-side traffic logs and service configuration records, with nothin — AWS What's New / score: 70 (AWS API Gatewayの新機能ポータル発表)</description>
 </item>
 </channel>
 </rss>
