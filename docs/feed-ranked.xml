@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sat, 28 Nov 2026 06:09:58 +0000</lastBuildDate>
+<lastBuildDate>Sat, 28 Nov 2026 08:08:39 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Apache Tomcat」に“致命的”な脆弱性、修正版は未公開／未認証ノードがクラスターに参加可能に。対象環境では「TLS 1.2」への切り替えを推奨</title>
@@ -149,22 +149,6 @@
 <pubDate>Fri, 27 Nov 2026 22:28:30 +0000</pubDate>
 <category>はてなブックマーク テクノロジー</category>
 <description>GMOインターネットグループ傘下のGMOペパボは27日、サーバーの貸し出しサービスで不正アクセスがあったと発表した。顧客情報51万6564件が流出した可能性がある。個人情報に加え、一部顧客のパスワード計約12万件の漏洩も確認されたという。不正アクセスがあったのはGMOペパボが提供する「ロリポップ！レンタルサーバー」... — はてなブックマーク テクノロジー / score: 85 (大規模なサーバー不正アクセスと情報漏洩)</description>
-</item>
-<item>
-<title>[85] 大阪大学、学生と教職員のメアド5万件漏洩　アララへの不正アクセス - 日本経済新聞</title>
-<link>https://www.nikkei.com/article/DGXZQOUF272NY0X21C26A1000000/</link>
-<guid isPermaLink="true">https://www.nikkei.com/article/DGXZQOUF272NY0X21C26A1000000/</guid>
-<pubDate>Fri, 27 Nov 2026 17:19:05 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>大阪大学は27日、学生と教職員のメールアドレスが5万1891件漏洩したと発表した。災害発生時に利用している安否確認システムのメール配信委託先のアララ（東京・港）が10月28日に受けた不正アクセスの影響だとしている。7月1日から10月31日の期間に、アバンセシステム（浜松市）が提供する安否確認システム「ANPIC（アン... — はてなブックマーク テクノロジー / score: 85 (大学と委託先の情報漏洩インシデントであり緊急度が高い)</description>
-</item>
-<item>
-<title>[85] 「勇気ありすぎだろ」GMOが買収した激安サーバー「ロリポップ！」が顧客情報の漏洩を公表、漏れた一部パスワードを“平文で”保存していた模様</title>
-<link>https://togetter.com/li/2775731</link>
-<guid isPermaLink="true">https://togetter.com/li/2775731</guid>
-<pubDate>Fri, 27 Nov 2026 11:42:54 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>「勇気ありすぎだろ」GMOが買収した激安サーバー「ロリポップ！」が顧客情報の漏洩を公表、漏れた一部パスワードを“平文で”保存していた模様 「勇気ありすぎだろ」GMOが買収した激安サーバー「ロリポップ！」が顧客情報の漏洩を公表、漏れた一部パスワードを“平文で”保存していた模様 — はてなブックマーク テクノロジー / score: 85 (平文パスワード保存と大規模情報漏洩に関するセキュリティインシデント)</description>
 </item>
 <item>
 <title>[85] マイナアプリ 旧Ver.に脆弱性</title>
@@ -391,6 +375,14 @@
 <description>Cloudflareは2026年11月12日、AIエージェント向けブラウザ「Kitesurf」をApache 2.0ライセンスのもと、GitHub上でオープンソースとして公開した。 — gihyo.jp / score: 80 (Cloudflare製AI向け軽量ブラウザの公開)</description>
 </item>
 <item>
+<title>[75] Hugging Face、最大1,000体のAIエージェントでルールベースのチャットボット「PyBot」を開発 ——開発用エージェントの運用ツールも公開</title>
+<link>https://gihyo.jp/article/2026/11/pybot?utm_source=feed</link>
+<guid isPermaLink="true">https://gihyo.jp/article/2026/11/pybot?utm_source=feed</guid>
+<pubDate>Sat, 28 Nov 2026 05:43:13 +0000</pubDate>
+<category>gihyo.jp</category>
+<description>Hugging Faceの研究チームは2026年11月25日、AIエージェントが9日間かけてチャットボット「PyBot」を開発した実験の結果を公表した。チームは言語モデルDeepSeek-V4.1-Flashを使うエージェントにPyBotのコードを書かせ、その数を段階的に1,000体まで増やした。 — gihyo.jp / score: 75 (多数のAIエージェントによる自動開発の実験的成果)</description>
+</item>
+<item>
 <title>[75] Node.js 27.0.0-alpha.0.2.0がリリース、sqliteが安定版に</title>
 <link>https://codezine.jp/article/detail/30501</link>
 <guid isPermaLink="true">https://codezine.jp/article/detail/30501</guid>
@@ -413,14 +405,6 @@
 <pubDate>Fri, 27 Nov 2026 12:00:00 +0000</pubDate>
 <category>GIGAZINE</category>
 <description>Googleは2027年2月1日から、AIエージェントがGmailやGoogleドライブなどのGoogle Workspaceのサービスにアクセスする際に公式のMCPサーバーやGoogle Workspace CLIを使用するよう求める方針を発表しました。GmailのMCPサーバーを巡ってはメールの送信などが一部の開発者に限定されていることが指摘されていましたが、記事作成時点で機能制限に関する記述がすでに変更されています。 続きを読む... — GIGAZINE / score: 75 (Google WorkspaceへのAIアクセス制限とAPI仕様変更)</description>
-</item>
-<item>
-<title>[75] 【重要】R-18設定のクリエイターへの支援におけるPayPal決済のお取り扱い終了について｜pixivFANBOX公式｜pixivFANBOX</title>
-<link>https://official.fanbox.cc/posts/12998412</link>
-<guid isPermaLink="true">https://official.fanbox.cc/posts/12998412</guid>
-<pubDate>Fri, 27 Nov 2026 11:42:55 +0000</pubDate>
-<category>はてなブックマーク テクノロジー</category>
-<description>いつもFANBOXをご利用いただきありがとうございます。 先般ご案内いたしました「Mastercardの一部お取り扱いの終了について（PayPalへの登録含む）」の続報となります。 この度、FANBOXのクリエイターに対する支援金のお支払い方法におきまして、R-18設定のクリエイターへの支援におけるPayPal決済のお取り扱いを終了さ... — はてなブックマーク テクノロジー / score: 75 (主要プラットフォームの決済仕様変更と影響)</description>
 </item>
 <item>
 <title>[75] AIエージェントにも開発マニュアルを ―NVIDIAエンジニア、Linux 7.5に向けて“AIエージェントスキルシリーズ”を提出</title>
@@ -458,9 +442,9 @@
 <title>[75] NVIDIAが画像生成AI「Nemotron-Labs-Image-30B-A3B」を公開、拡散モデルではなく自己回帰モデルを採用しハーネスと組み合わせてGPT-Image-2超えを達成</title>
 <link>https://gigazine.net/news/20261127-nemotron-labs-image-30b-a3b/</link>
 <guid isPermaLink="true">https://gigazine.net/news/20261127-nemotron-labs-image-30b-a3b/</guid>
-<pubDate>Fri, 27 Nov 2026 03:40:00 +0000</pubDate>
-<category>GIGAZINE</category>
-<description>NVIDIAが画像生成AIモデル「Nemotron-Labs-Image-30B-A3B」をオープンウェイトモデルとして無償公開しました。 続きを読む... — GIGAZINE / score: 75 (NVIDIAの自己回帰型画像生成AIモデル公開)</description>
+<pubDate>Fri, 27 Nov 2026 03:48:52 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>NVIDIAが画像生成AIモデル「Nemotron-Labs-Image-30B-A3B」をオープンウェイトモデルとして無償公開しました。 nvidia/Nemotron-Labs-Image-30B-A3B · Hugging Face https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B Checkout NVIDIA's Nemotron-Labs-VisualCreation and Nemotron-Labs-Image-30B-A3B. Nemot... — はてなブックマーク テクノロジー / score: 75 (NVIDIAの自己回帰型画像生成AIモデル公開)</description>
 </item>
 <item>
 <title>[75] Androidアプリ開発者はまもなく自身の住所を公開しなければならなくなる</title>
@@ -805,6 +789,22 @@
 <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning. — OpenAI News / score: 70 (企業におけるChatGPT/Codex活用の事例発表)</description>
+</item>
+<item>
+<title>[70] Human in the Loop with Spring AI 2.1: Tool Calls That Survive a Restart</title>
+<link>https://spring.io/blog/2026/11/24/spring-ai-tool-call-confirmation-park-resume</link>
+<guid isPermaLink="true">https://spring.io/blog/2026/11/24/spring-ai-tool-call-confirmation-park-resume</guid>
+<pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+<category>Spring Blog</category>
+<description>Spring AI: Tool Call Confirmation | Session Extensions | Demo A bank support agent can look up why a mortgage payment failed. That is reading, and the model may do it on its own. Collecting the payment today moves money, and a person must approve it first. Asking "may I?" is the easy part. The hard part is the wait. The approver answers minutes or hours later, maybe on another instance of the application, maybe after a restart. Whatever the agent was doing must still be there when the answer com — Spring Blog / score: 70 (Spring AI 2.1におけるHuman-in-the-Loop機能の解説)</description>
+</item>
+<item>
+<title>[70] Amazon API Gateway announces API Portal</title>
+<link>https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-announces-api-portal/</link>
+<guid isPermaLink="true">https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-announces-api-portal/</guid>
+<pubDate>Mon, 23 Nov 2026 20:00:00 +0000</pubDate>
+<category>AWS What's New</category>
+<description>Today, Amazon API Gateway announces API Portal , a new feature that discovers, governs, and documents the APIs and AI endpoints behind Amazon API Gateway, Application Load Balancer, and Amazon CloudFront across your AWS organization. Many organizations can't see which APIs are running, which were never registered, which are no longer maintained, and which lack protection. API Portal builds a continuously updated inventory using AWS-side traffic logs and service configuration records, with nothin — AWS What's New / score: 70 (AWS API Gatewayの新機能ポータル発表)</description>
 </item>
 </channel>
 </rss>
