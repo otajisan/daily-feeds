@@ -4,7 +4,7 @@
 <title>daily-feeds (Ranked)</title>
 <link>https://otajisan.github.io/daily-feeds</link>
 <description>日本語Tech記事とAI/LLM関連ニュースの集約フィード(Geminiによる注目度スコア付き)</description>
-<lastBuildDate>Sat, 28 Nov 2026 04:07:03 +0000</lastBuildDate>
+<lastBuildDate>Sat, 28 Nov 2026 06:09:58 +0000</lastBuildDate>
 <atom:link href="https://otajisan.github.io/daily-feeds/feed-ranked.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>[95] 「Apache Tomcat」に“致命的”な脆弱性、修正版は未公開／未認証ノードがクラスターに参加可能に。対象環境では「TLS 1.2」への切り替えを推奨</title>
@@ -133,6 +133,14 @@
 <pubDate>Wed, 18 Nov 2026 21:00:00 +0000</pubDate>
 <category>Gemini (Google Blog)</category>
 <description>Today, we’re introducing Gemini 4 Neon — Gemini (Google Blog) / score: 88 (Googleの新型モデルGemini 4 Neonの発表)</description>
+</item>
+<item>
+<title>[85] GMOペパボへの不正アクセスについてまとめてみた - piyolog</title>
+<link>https://piyolog.hatenadiary.jp/entry/2026/11/28/110735</link>
+<guid isPermaLink="true">https://piyolog.hatenadiary.jp/entry/2026/11/28/110735</guid>
+<pubDate>Sat, 28 Nov 2026 03:28:03 +0000</pubDate>
+<category>はてなブックマーク テクノロジー</category>
+<description>2026年11月27日、GMOペパボは「ロリポップ！レンタルサーバー」などで第三者による不正アクセスが確認され、顧客情報が漏えいしたことが判明したと公表しました。ここでは関連する情報をまとめます。 データ分析基盤を経由した顧客情報の持ち出し GMOペパボは原因について、サービス利用者のWebサイトではなく自社の内部... — はてなブックマーク テクノロジー / score: 85 (大手サービスでの深刻な情報漏えい事案)</description>
 </item>
 <item>
 <title>[85] GMO、サーバー貸出事業で不正アクセス　顧客情報51万件漏洩 - 日本経済新聞</title>
@@ -797,14 +805,6 @@
 <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
 <category>OpenAI News</category>
 <description>ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning. — OpenAI News / score: 70 (企業におけるChatGPT/Codex活用の事例発表)</description>
-</item>
-<item>
-<title>[70] Human in the Loop with Spring AI 2.1: Tool Calls That Survive a Restart</title>
-<link>https://spring.io/blog/2026/11/24/spring-ai-tool-call-confirmation-park-resume</link>
-<guid isPermaLink="true">https://spring.io/blog/2026/11/24/spring-ai-tool-call-confirmation-park-resume</guid>
-<pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-<category>Spring Blog</category>
-<description>Spring AI: Tool Call Confirmation | Session Extensions | Demo A bank support agent can look up why a mortgage payment failed. That is reading, and the model may do it on its own. Collecting the payment today moves money, and a person must approve it first. Asking "may I?" is the easy part. The hard part is the wait. The approver answers minutes or hours later, maybe on another instance of the application, maybe after a restart. Whatever the agent was doing must still be there when the answer com — Spring Blog / score: 70 (Spring AI 2.1におけるHuman-in-the-Loop機能の解説)</description>
 </item>
 </channel>
 </rss>
